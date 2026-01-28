@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Hannover, Germany, the Duve-Brunnen fountain stands as a captivating focal point that reflects the city's blend of historical significance and contemporary urban life. Located in the Mitte district, this elegant fountain is not merely a source of water; it is a piece of public art that invites both locals and visitors to pause and appreciate its beauty. As a central gathering place, the Duve-Brunnen serves as a reminder of the importance of community spaces in urban environments, enhancing the aesthetic appeal of its surroundings and providing a tranquil spot amidst the city's hustle and bustle.
 
-The fountain’s strategic placement makes it easily accessible and a vital part of the city's cultural fabric. Its design and function have made it a popular meeting point, contributing to Hannover's identity as a vibrant and engaging city. Whether you are looking for a moment of respite or an opportunity to soak in the local culture, the Duve-Brunnen offers a unique experience that reflects both the historical and contemporary narratives of Hannover.
+The fountain's strategic placement makes it easily accessible and a vital part of the city's cultural fabric. Its design and function have made it a popular meeting point, contributing to Hannover's identity as a vibrant and engaging city. Whether you are looking for a moment of respite or an opportunity to soak in the local culture, the Duve-Brunnen offers a unique experience that reflects both the historical and contemporary narratives of Hannover.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ The fountain's aesthetic is likely designed to complement the surrounding archit
 
 The Duve-Brunnen fountain is conveniently located in the Mitte district of Hannover, making it easily accessible by various modes of transportation. Visitors can reach the fountain via public transit, including buses and trams that service the area. For those driving, check for parking options nearby.
 
-While planning your visit, it’s advisable to check the official website for current information regarding hours and any potential restrictions. The fountain is typically available for public enjoyment year-round, providing a serene spot to relax or take photographs.
+While planning your visit, it's advisable to check the official website for current information regarding hours and any potential restrictions. The fountain is typically available for public enjoyment year-round, providing a serene spot to relax or take photographs.
 
 Visitors can expect to spend around 30 minutes to an hour at the Duve-Brunnen, depending on their interests. This timeframe allows for ample opportunity to admire the fountain, take photographs, and enjoy the surrounding area. The best times to visit are during the early morning or late afternoon when the light creates a beautiful ambiance around the fountain.
 
@@ -72,7 +72,7 @@ To make the most of your visit, take the time to explore the surrounding area, a
 
 ## Practical Information
 
-When planning your visit to the Duve-Brunnen, consider bringing essentials such as a camera, comfortable walking shoes, and a light jacket, especially during cooler seasons. The fountain is situated in an urban environment, so it’s wise to stay hydrated and bring snacks if you plan to spend a longer time exploring the area.
+When planning your visit to the Duve-Brunnen, consider bringing essentials such as a camera, comfortable walking shoes, and a light jacket, especially during cooler seasons. The fountain is situated in an urban environment, so it's wise to stay hydrated and bring snacks if you plan to spend a longer time exploring the area.
 
 Seasonal considerations may also affect your visit; for instance, spring and summer may see the fountain surrounded by blooming flowers and greenery, while autumn can offer a picturesque setting with changing leaves. Always check the weather forecast to ensure a pleasant experience.
 

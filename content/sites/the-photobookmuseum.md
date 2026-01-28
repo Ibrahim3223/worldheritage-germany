@@ -26,7 +26,7 @@ Located in the heart of Cologne, the museum serves as a testament to the signifi
 
 ## History and Significance
 
-The PhotoBookMuseum stands out as a dedicated space for the exploration of photobooks, a medium that has evolved dramatically since its inception. Though specific historical details are not provided, it is evident that the museum seeks to document and celebrate the contributions of various photographers and artists to this form of visual art. Photobooks have long been a crucial aspect of photography, offering a tangible way to present and disseminate images and stories. The museum’s mission is to highlight the historical context of photobooks while also embracing contemporary works that push the boundaries of this medium.
+The PhotoBookMuseum stands out as a dedicated space for the exploration of photobooks, a medium that has evolved dramatically since its inception. Though specific historical details are not provided, it is evident that the museum seeks to document and celebrate the contributions of various photographers and artists to this form of visual art. Photobooks have long been a crucial aspect of photography, offering a tangible way to present and disseminate images and stories. The museum's mission is to highlight the historical context of photobooks while also embracing contemporary works that push the boundaries of this medium.
 
 The museum plays a vital role in promoting photography as an art form within the broader cultural landscape of Germany and beyond. It serves as a platform for emerging photographers and established artists alike, fostering dialogue and collaboration within the community. Through its exhibitions, events, and workshops, The PhotoBookMuseum encourages visitors to engage with photography in new and innovative ways, reinforcing the idea that photobooks are not merely collections of images but are also powerful narratives that reflect the world around us.
 
@@ -80,7 +80,7 @@ When preparing for your visit to The PhotoBookMuseum, keep the following conside
 A visit to The PhotoBookMuseum typically takes around 2 to 3 hours, allowing ample time to explore the collections and engage in any workshops or discussions.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the official guidelines before your visit. If permitted, be respectful of other visitors and the exhibits.
+Photography policies may vary, so it's best to check the official guidelines before your visit. If permitted, be respectful of other visitors and the exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibitions and the history of photobooks. Check the official website for current offerings.
@@ -89,7 +89,7 @@ Guided tours may be available, providing deeper insights into the exhibitions an
 Weekdays and early mornings are usually quieter, making them ideal for a more relaxed experience. Special events may draw larger crowds, so planning around these can enhance your visit.
 
 ### Is it wheelchair accessible?
-Accessibility options are generally provided, but it’s advisable to verify specific accommodations by checking the official website.
+Accessibility options are generally provided, but it's advisable to verify specific accommodations by checking the official website.
 
 ### Can I buy tickets online?
 Online ticket purchase options may be available. Check the official website for details on how to secure your entry in advance.

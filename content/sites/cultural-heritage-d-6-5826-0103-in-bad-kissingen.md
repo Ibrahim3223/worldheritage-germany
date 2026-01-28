@@ -26,7 +26,7 @@ The fortification is not merely a relic of past conflicts but also a part of the
 
 ## History and Significance
 
-The history of fortifications in Bad Kissingen is intertwined with the broader narrative of military architecture in Germany. While specific dates and events can be elusive, the fortification has played a crucial role in the region’s defense mechanisms throughout various historical periods. Fortifications like D-6-5826-0103 were essential in safeguarding towns from invasions and conflicts, particularly during times of territorial disputes and wars that shaped Europe.
+The history of fortifications in Bad Kissingen is intertwined with the broader narrative of military architecture in Germany. While specific dates and events can be elusive, the fortification has played a crucial role in the region's defense mechanisms throughout various historical periods. Fortifications like D-6-5826-0103 were essential in safeguarding towns from invasions and conflicts, particularly during times of territorial disputes and wars that shaped Europe.
 
 The significance of this fortification goes beyond its physical structure. It reflects the evolving military strategies employed in the region and illustrates how architecture adapts to meet the needs of its time. As a cultural heritage site, it provides insight into the lives of those who lived in and around Bad Kissingen. Understanding its historical context allows visitors to appreciate not only the fortification itself but also the societal dynamics that shaped its construction and use.
 
@@ -78,7 +78,7 @@ When preparing for your visit to Cultural heritage D-6-5826-0103, keep a few pra
 
 - **What to Bring**: Comfortable walking shoes are essential, as the terrain may vary. Additionally, bringing a water bottle and a light snack can enhance your exploration.
 
-- **Seasonal Considerations**: The weather in Bavaria can change quickly, so dressing in layers is advisable. Bring an umbrella or a light jacket if you’re visiting during the wetter months.
+- **Seasonal Considerations**: The weather in Bavaria can change quickly, so dressing in layers is advisable. Bring an umbrella or a light jacket if you're visiting during the wetter months.
 
 ## Frequently Asked Questions
 

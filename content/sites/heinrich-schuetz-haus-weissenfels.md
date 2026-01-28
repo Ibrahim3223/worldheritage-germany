@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Heinrich-Schütz-Haus in Weißenfels, Germany, serves as a dedicated museum celebrating the life and works of one of the most important composers of the early Baroque period, Heinrich Schütz. Located in the town of Weißenfels, known for its rich musical heritage, the museum not only honors Schütz’s contributions to music but also offers a deep dive into the cultural context of his time. As you enter this museum, you are invited to explore Schütz's historical significance and the impact his compositions had on the evolution of Western classical music. 
+Heinrich-Schütz-Haus in Weißenfels, Germany, serves as a dedicated museum celebrating the life and works of one of the most important composers of the early Baroque period, Heinrich Schütz. Located in the town of Weißenfels, known for its rich musical heritage, the museum not only honors Schütz's contributions to music but also offers a deep dive into the cultural context of his time. As you enter this museum, you are invited to explore Schütz's historical significance and the impact his compositions had on the evolution of Western classical music. 
 
 Set against the backdrop of Weißenfels, a town with a storied history and vibrant arts scene, Heinrich-Schütz-Haus stands as a focal point for music enthusiasts and cultural travelers alike. The museum is designed to engage visitors, providing insights into the life of Schütz, his influences, and his lasting legacy. Whether you're a scholar or a casual visitor, Heinrich-Schütz-Haus promises an enriching experience that celebrates the intersection of history and music.
 
@@ -34,7 +34,7 @@ Set against the backdrop of Weißenfels, a town with a storied history and vibra
 
 Heinrich Schütz was born in 1585 and became a pivotal figure in the development of German music, noted for his innovative compositions that merged Italian styles with German traditions. His work laid the foundation for future generations of composers, influencing the trajectory of Western music. The museum dedicated to him is situated in Weißenfels, a town where Schütz spent significant time and which was instrumental in his artistic development.
 
-The significance of Schütz's music cannot be overstated. He was among the first composers to write music that captured the emotional depth and spiritual fervor of the Lutheran faith. His compositions, often performed in churches, reflect the evolving musical landscape of the 17th century, blending polyphony with the emerging styles of the Baroque. The museum serves not only as a tribute to Schütz’s life but also as a repository of knowledge about the musical environment of his era. 
+The significance of Schütz's music cannot be overstated. He was among the first composers to write music that captured the emotional depth and spiritual fervor of the Lutheran faith. His compositions, often performed in churches, reflect the evolving musical landscape of the 17th century, blending polyphony with the emerging styles of the Baroque. The museum serves not only as a tribute to Schütz's life but also as a repository of knowledge about the musical environment of his era. 
 
 Visitors to the museum can expect to find exhibits that illuminate Schütz's extensive body of work, including his choral compositions and sacred music. The museum also highlights the broader cultural context of the time, showcasing the musical traditions that influenced Schütz and his contemporaries. Through interactive displays and informative panels, Heinrich-Schütz-Haus aims to educate and inspire a new generation about the enduring impact of Schütz's music.
 
@@ -44,7 +44,7 @@ Heinrich-Schütz-Haus is not only a museum but also a part of the cultural fabri
 
 Inside, the museum is designed to facilitate an engaging visitor experience. The layout allows for a logical flow through different sections dedicated to Schütz's life, musical works, and the historical context in which he composed. Interactive exhibits, including listening stations and multimedia presentations, provide a deeper understanding of his music and its relevance.
 
-Notable features of the museum include artifacts related to Schütz’s life, manuscripts of his compositions, and educational materials that explore the techniques he employed. The combination of historical exhibits and modern technology creates an immersive environment that invites visitors to explore and appreciate the nuances of Schütz's musical contributions.
+Notable features of the museum include artifacts related to Schütz's life, manuscripts of his compositions, and educational materials that explore the techniques he employed. The combination of historical exhibits and modern technology creates an immersive environment that invites visitors to explore and appreciate the nuances of Schütz's musical contributions.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Weißenfels is a town rich in culture and history, offering several nearby attra
    
 2. **Weißenfels Castle**: A landmark of the town, this castle provides a glimpse into the local nobility's history and features beautiful gardens.
 
-3. **Schütz's birthplace**: While not far from the museum, this site allows visitors to connect more personally with the composer’s early life.
+3. **Schütz's birthplace**: While not far from the museum, this site allows visitors to connect more personally with the composer's early life.
 
 4. **Local parks**: Several parks in the area provide a serene environment to relax and reflect after visiting the museum.
 
@@ -72,7 +72,7 @@ Weißenfels is a town rich in culture and history, offering several nearby attra
 
 When visiting Heinrich-Schütz-Haus, consider bringing a camera to capture the museum's highlights, but be sure to check the photography policy first. To avoid encountering large crowds, plan your visit during the week or early in the day. This strategic timing can enhance your experience, allowing for a more personal engagement with the exhibits.
 
-If you have a particular interest in music, consider preparing some background knowledge on Schütz’s compositions; this context can enrich your visit and appreciation of the displays. 
+If you have a particular interest in music, consider preparing some background knowledge on Schütz's compositions; this context can enrich your visit and appreciation of the displays. 
 
 ## Practical Information
 

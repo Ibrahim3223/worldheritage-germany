@@ -82,7 +82,7 @@ These attractions complement a visit to Felto - Filzwelt Soltau, providing a wel
 
 To make the most of your visit to Felto - Filzwelt Soltau, consider these insider tips:
 
-- **Photography**: While many areas of the museum may allow photography, it’s always a good idea to check for any specific guidelines to ensure a respectful experience for all.
+- **Photography**: While many areas of the museum may allow photography, it's always a good idea to check for any specific guidelines to ensure a respectful experience for all.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, aim to arrive during the early hours of operation or on weekdays when there are typically fewer visitors.
 

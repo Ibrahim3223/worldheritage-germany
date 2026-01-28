@@ -82,7 +82,7 @@ To avoid larger crowds, consider visiting during weekdays or early in the mornin
 
 When visiting the Gutskapelle Niedergandern, it is advisable to bring along a few essentials. Comfortable walking shoes will enhance your experience as you explore the chapel and its surroundings. Depending on the season, consider layering your clothing to accommodate varying weather conditions.
 
-Seasonal considerations are essential, as the experience of visiting the chapel may differ throughout the year. Spring and summer may offer lush greenery, while autumn provides a picturesque backdrop of changing leaves. Winter visits could evoke a unique charm, though it’s wise to prepare for colder temperatures.
+Seasonal considerations are essential, as the experience of visiting the chapel may differ throughout the year. Spring and summer may offer lush greenery, while autumn provides a picturesque backdrop of changing leaves. Winter visits could evoke a unique charm, though it's wise to prepare for colder temperatures.
 
 ## Frequently Asked Questions
 

@@ -66,7 +66,7 @@ The area surrounding the Kreisheimatstube Stoffenried is rich with attractions t
 
 4. **Nearby Museums**: There might be other small museums in the vicinity that focus on regional history or specific cultural aspects, providing further opportunities for exploration.
 
-5. **Historical Sites**: Look for historical landmarks or monuments that tell the story of the area’s development over the years, enriching your understanding of Ellzee’s past.
+5. **Historical Sites**: Look for historical landmarks or monuments that tell the story of the area's development over the years, enriching your understanding of Ellzee's past.
 
 ## Insider Tips
 

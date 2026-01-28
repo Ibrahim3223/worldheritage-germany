@@ -34,7 +34,7 @@ Rheine station's history is entwined with the development of railway transport i
 
 The station's role transcends mere transportation; it serves as a social and cultural meeting point for the community. Over the years, it has witnessed countless stories of arrivals and departures, making it a silent witness to the changing times and the evolution of travel. Rheine station symbolizes connectivity, not just in terms of geography, but also in fostering relationships and cultural exchanges between diverse populations.
 
-The station's significance extends beyond its functionality. It is a vital link in the broader railway network of Germany, which has been instrumental in shaping the country’s economic landscape. By facilitating easy access to nearby cities and regions, Rheine station contributes to the overall development of the area, making it an integral part of the local heritage.
+The station's significance extends beyond its functionality. It is a vital link in the broader railway network of Germany, which has been instrumental in shaping the country's economic landscape. By facilitating easy access to nearby cities and regions, Rheine station contributes to the overall development of the area, making it an integral part of the local heritage.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ Additionally, if you plan to explore the nearby attractions, comfortable walking
 Typically, a brief visit of about 30 minutes to an hour is sufficient to appreciate the station and gather information about your onward journey, but you may want to allocate additional time if you plan to explore nearby attractions.
 
 ### Is photography allowed?
-Photography is generally permitted in public areas of the station. However, it’s always best to be mindful of other travelers and avoid obstructing pathways.
+Photography is generally permitted in public areas of the station. However, it's always best to be mindful of other travelers and avoid obstructing pathways.
 
 ### Are there guided tours?
 Currently, Rheine station does not offer guided tours. However, local tourism offices may provide information on self-guided tours of the area.

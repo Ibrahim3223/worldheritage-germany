@@ -62,7 +62,7 @@ While visiting the Church in Kessin, consider exploring other nearby attractions
   
 2. **Local Parks**: Enjoy the tranquility of local parks that provide opportunities for leisurely walks and enjoying nature.
   
-3. **Historical Landmarks**: Explore other historical sites in the region that reflect the area’s rich heritage and architectural diversity.
+3. **Historical Landmarks**: Explore other historical sites in the region that reflect the area's rich heritage and architectural diversity.
 
 4. **Cultural Events**: Check for any local events or festivals that may coincide with your visit, offering a chance to experience the community's culture firsthand.
 

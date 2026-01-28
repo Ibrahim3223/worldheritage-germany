@@ -72,7 +72,7 @@ Visitors to the Village Church Kirchborgum will find several attractions in prox
 
 For photography enthusiasts, the Village Church Kirchborgum offers several picturesque angles, especially during the golden hour when natural light adds warmth to the structure. Early morning or late afternoon visits can help avoid larger crowds, allowing for unobstructed views and a more intimate experience.
 
-Engaging with local residents can enrich your visit; many are knowledgeable about the church’s history and can provide personal anecdotes or insights that enhance your understanding of the site.
+Engaging with local residents can enrich your visit; many are knowledgeable about the church's history and can provide personal anecdotes or insights that enhance your understanding of the site.
 
 ## Practical Information
 

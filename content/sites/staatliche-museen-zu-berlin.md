@@ -52,7 +52,7 @@ Visiting the Staatliche Museen zu Berlin is an enriching experience, but it's es
 
 To ensure a smooth visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. This will help you plan your day effectively and avoid any unexpected closures or changes. The size and diversity of the museums mean that visitors might want to allocate at least a half-day, if not more, to fully appreciate what each institution has to offer.
 
-Peak visiting times can vary, so to enjoy a more tranquil experience, consider visiting during weekdays or early in the morning. The museums often host special exhibitions and events, which can attract larger crowds, so it’s wise to check the schedule in advance.
+Peak visiting times can vary, so to enjoy a more tranquil experience, consider visiting during weekdays or early in the morning. The museums often host special exhibitions and events, which can attract larger crowds, so it's wise to check the schedule in advance.
 
 ## Nearby Attractions
 
@@ -78,7 +78,7 @@ To enhance your experience at the Staatliche Museen zu Berlin, consider these in
 
 - **Plan Your Route**: With multiple museums to explore, having a loose plan of which ones you want to visit and in what order can help you maximize your time.
 
-- **Take Breaks**: Don’t hesitate to take breaks in between galleries to process what you’ve seen. Many museums have cafes or quiet areas for visitors to relax.
+- **Take Breaks**: Don't hesitate to take breaks in between galleries to process what you've seen. Many museums have cafes or quiet areas for visitors to relax.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Haus Schlesien is a museum located in the picturesque region of Königswinter, Germany. This cultural institution is dedicated to preserving and showcasing the heritage and history of Silesia, a region that has witnessed various changes throughout European history. The museum offers visitors a unique glimpse into the customs, traditions, and historical developments that have shaped the Silesian identity. 
 
-Situated in a region known for its natural beauty, Haus Schlesien serves not only as a repository of artifacts and exhibits but also as a focal point for cultural exchange and understanding. The museum’s collection includes a variety of exhibits that highlight the diverse influences on Silesian culture, making it an essential stop for anyone interested in the historical narratives that define this area of Germany. 
+Situated in a region known for its natural beauty, Haus Schlesien serves not only as a repository of artifacts and exhibits but also as a focal point for cultural exchange and understanding. The museum's collection includes a variety of exhibits that highlight the diverse influences on Silesian culture, making it an essential stop for anyone interested in the historical narratives that define this area of Germany. 
 
 By visiting Haus Schlesien, guests can expect an enriching experience that combines education with an appreciation for the region's complex past. Whether you are a history buff or simply curious about different cultures, this museum promises to engage and inform.
 
@@ -64,7 +64,7 @@ The museum may also host special events or exhibitions throughout the year, offe
 
 Königswinter is home to several attractions that complement a visit to Haus Schlesien:
 
-1. **Drachenfels**: A local mountain that features a historic castle ruin and offers scenic views of the Rhine River. It’s an excellent spot for hiking and enjoying nature.
+1. **Drachenfels**: A local mountain that features a historic castle ruin and offers scenic views of the Rhine River. It's an excellent spot for hiking and enjoying nature.
 
 2. **Schloss Drachenburg**: An impressive neo-Gothic castle that provides insight into the region's architectural history. The castle is open to the public and often hosts events.
 
@@ -103,7 +103,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekdays are generally quieter than weekends, making them an ideal time for a less crowded experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s recommended to consult the official website prior to your visit.
+For specific accessibility information, it's recommended to consult the official website prior to your visit.
 
 ### Can I buy tickets online?
 Check the official website for information on online ticket purchases and any special promotions.

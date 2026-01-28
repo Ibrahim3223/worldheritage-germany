@@ -78,7 +78,7 @@ To avoid crowds, aim to visit during weekdays or outside of peak tourist seasons
 
 When preparing for your visit to Alte Burg Penzlin, it's advisable to wear comfortable shoes, as exploring the castle and its grounds may involve some walking. Additionally, bringing a light jacket can be beneficial, as weather conditions can change throughout the day.
 
-Consider visiting during the shoulder seasons of spring or early autumn for a more pleasant experience. It’s also wise to check for any seasonal events or programs that could enhance your visit.
+Consider visiting during the shoulder seasons of spring or early autumn for a more pleasant experience. It's also wise to check for any seasonal events or programs that could enhance your visit.
 
 ## Frequently Asked Questions
 

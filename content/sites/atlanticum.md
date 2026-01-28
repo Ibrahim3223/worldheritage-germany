@@ -36,7 +36,7 @@ Atlanticum was established to explore and celebrate the maritime legacy of Breme
 
 The cultural importance of Atlanticum lay in its ability to connect visitors with the narratives of sailors, fishermen, and merchants who have traversed the waters and shaped the region's history. By focusing on both the historical and contemporary aspects of maritime life, the museum fostered a deeper understanding of how the ocean has influenced the development of societies and economies. 
 
-In addition to its exhibits, Atlanticum served as a community hub, attracting locals and tourists alike, facilitating educational programs, and hosting events that furthered the discussion around maritime heritage. The museum's closure may have marked the end of a chapter, but the stories and knowledge it shared continue to be integral to understanding Bremerhaven’s maritime narrative.
+In addition to its exhibits, Atlanticum served as a community hub, attracting locals and tourists alike, facilitating educational programs, and hosting events that furthered the discussion around maritime heritage. The museum's closure may have marked the end of a chapter, but the stories and knowledge it shared continue to be integral to understanding Bremerhaven's maritime narrative.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ Accessibility information would vary by location. Check the official websites of
 While Atlanticum is no longer operational, purchasing tickets for nearby attractions is often available online. Always check their respective sites for current offerings.
 
 ### Are there restrooms and cafes?
-Most attractions in the Fischereihafen area provide restroom facilities and may have on-site cafes or dining options. It’s advisable to confirm availability in advance.
+Most attractions in the Fischereihafen area provide restroom facilities and may have on-site cafes or dining options. It's advisable to confirm availability in advance.
 
 ### What should I wear?
 Dress comfortably for the weather, with layers for warmth and comfortable footwear suitable for walking around the port and nearby sites.

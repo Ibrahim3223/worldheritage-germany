@@ -30,7 +30,7 @@ As you explore Cultural heritage D-7-7631-0615, expect to immerse yourself in th
 
 The fortification at Cultural heritage D-7-7631-0615 is rooted in the historical evolution of Augsburg, a city that has been a focal point of trade and defense since its founding. While specific dates of construction or significant events are not detailed, the fortification is indicative of the military architecture that characterized the region during various periods of conflict and peace. 
 
-Augsburg's strategic location made it a desirable target for various powers throughout history. As such, the fortifications were integral to the city’s defense, designed to protect against invasions and to assert control over trade routes. The enduring nature of these structures highlights their importance in not just safeguarding the city, but also in shaping its identity as a hub of culture and commerce.
+Augsburg's strategic location made it a desirable target for various powers throughout history. As such, the fortifications were integral to the city's defense, designed to protect against invasions and to assert control over trade routes. The enduring nature of these structures highlights their importance in not just safeguarding the city, but also in shaping its identity as a hub of culture and commerce.
 
 The fortification's design reflects the military needs of its time, showcasing the advancements in defensive architecture. Its continued existence today allows visitors to appreciate the ingenuity of past builders and the challenges they faced. The site embodies the resilience of the city, which has managed to adapt and thrive despite the numerous historical upheavals.
 
@@ -64,7 +64,7 @@ Augsburg is home to several notable attractions that complement a visit to Cultu
 
 2. **Fuggerei**: The world's oldest social housing complex, founded in 1521, which offers insights into the philanthropic efforts of the Fugger family.
 
-3. **Augsburg Town Hall**: A magnificent Renaissance building that showcases the city’s wealth and importance during the Renaissance period.
+3. **Augsburg Town Hall**: A magnificent Renaissance building that showcases the city's wealth and importance during the Renaissance period.
 
 4. **Perlachturm**: This bell tower provides panoramic views of Augsburg and is an integral part of the city's skyline, dating back to the 10th century.
 

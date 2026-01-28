@@ -28,13 +28,13 @@ image_srcset:
 
 Herz-Jesu-Kirche, located in the Mombach district of Mainz, Germany, is a notable church building that embodies both religious significance and architectural interest. This church serves as a spiritual hub for the local community, reflecting the cultural fabric of Mombach and its historical context within the broader narrative of Mainz. Its location, enriched by the scenic ambiance of the region, adds to the church's allure, making it a point of interest for both pilgrims and curious travelers alike.
 
-Visitors to Herz-Jesu-Kirche can expect an engaging experience that combines spiritual reflection with an appreciation of the church's design and community role. Whether you are a local resident or a traveler exploring the historical landscapes of Mainz, the church stands as a point of connection to the area’s rich heritage.
+Visitors to Herz-Jesu-Kirche can expect an engaging experience that combines spiritual reflection with an appreciation of the church's design and community role. Whether you are a local resident or a traveler exploring the historical landscapes of Mainz, the church stands as a point of connection to the area's rich heritage.
 
 ## History and Significance
 
 The history of Herz-Jesu-Kirche is intertwined with the development of the Mombach district and the religious evolution in Mainz. Though specific dates regarding its founding or significant events may not be readily available, the church serves as an important site for the local Catholic community. Its establishment reflects the growth of the area and the need for a dedicated place of worship.
 
-Religious buildings in Mainz, including Herz-Jesu-Kirche, play a pivotal role in the city's cultural and spiritual life. The church not only provides a venue for worship but also functions as a community center, hosting various events and gatherings that reinforce the social bonds among residents. The church’s architecture and design elements symbolize the faith and heritage of its congregants, making it a vital part of local identity.
+Religious buildings in Mainz, including Herz-Jesu-Kirche, play a pivotal role in the city's cultural and spiritual life. The church not only provides a venue for worship but also functions as a community center, hosting various events and gatherings that reinforce the social bonds among residents. The church's architecture and design elements symbolize the faith and heritage of its congregants, making it a vital part of local identity.
 
 Over the years, Herz-Jesu-Kirche has witnessed numerous changes, both in its congregation and in the broader context of Mainz's religious landscape. The church embodies the adaptability and resilience of faith communities, providing continuity amid the evolving dynamics of modern life. While the church may not be as prominently featured in historical texts, its ongoing significance in the lives of local parishioners cannot be overstated.
 
@@ -82,7 +82,7 @@ Seasonal considerations may affect your visit; for instance, the church may host
 A visit to Herz-Jesu-Kirche typically takes around one hour, depending on your interest in the architecture and participation in any services.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with church staff or signage upon arrival.
+Photography policies can vary, so it's best to check with church staff or signage upon arrival.
 
 ### Are there guided tours?
 While specific guided tours may not be available, visitors can often explore the church on their own and learn about its features at their own pace.
@@ -97,7 +97,7 @@ For accessibility information, check the official website or contact church staf
 Check the official website for information regarding any admission fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to plan accordingly before your visit.
+Facilities may be limited; it's advisable to plan accordingly before your visit.
 
 ### What should I wear?
 Modest clothing is recommended, as is comfortable footwear for walking around the area.

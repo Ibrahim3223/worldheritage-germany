@@ -48,7 +48,7 @@ Inside, the church may present a serene atmosphere, enhanced by stained-glass wi
 
 While specific details about interior artworks or notable artifacts are not available, many churches of this nature often house significant items such as historical religious texts, chandeliers, and memorial plaques that commemorate past congregants. 
 
-Visitors can appreciate both the simple beauty of the church’s design and the intricate details that speak to its historical significance. 
+Visitors can appreciate both the simple beauty of the church's design and the intricate details that speak to its historical significance. 
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ To reach St. Clemens und St. Katharinenkirche, visitors can access Seedorf by va
 
 Check the official website for current information regarding opening hours and any potential entry fees. While visiting, you can expect a tranquil environment conducive to reflection and exploration. 
 
-Most visitors find that spending approximately an hour at the church allows for adequate time to appreciate both the exterior and interior features without feeling rushed. If you're interested in the church’s history or architecture, consider allocating additional time for a more thorough exploration. 
+Most visitors find that spending approximately an hour at the church allows for adequate time to appreciate both the exterior and interior features without feeling rushed. If you're interested in the church's history or architecture, consider allocating additional time for a more thorough exploration. 
 
 The best times to visit are often early in the morning or later in the afternoon when the light enhances the beauty of the church's design, and crowds tend to be smaller. 
 

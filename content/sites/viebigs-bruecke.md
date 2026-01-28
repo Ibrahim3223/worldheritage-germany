@@ -44,7 +44,7 @@ Viebigs Brücke exemplifies functional design, characterized by its sturdy const
 
 As visitors approach the bridge, they may notice various features that highlight its engineering significance. The span of the bridge is designed to accommodate both pedestrian and vehicular traffic, facilitating ease of movement across the waterway it crosses. The structure's form may include arches or beams that provide not only support but also aesthetic appeal, inviting admiration from those who appreciate engineering.
 
-Surrounding the bridge, the natural environment enhances its presence, with trees and vegetation framing the structure. This harmonious integration of man-made and natural elements creates a visually engaging experience for visitors, encouraging them to pause and reflect on the bridge’s role in the landscape.
+Surrounding the bridge, the natural environment enhances its presence, with trees and vegetation framing the structure. This harmonious integration of man-made and natural elements creates a visually engaging experience for visitors, encouraging them to pause and reflect on the bridge's role in the landscape.
 
 ## Visiting Information
 
@@ -96,7 +96,7 @@ The best time to visit is during daylight hours, with spring and autumn offering
 Accessibility information is not specified; visitors are encouraged to check the official website for current details regarding wheelchair access.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases is not provided; it’s best to check the official website for any updates.
+Information regarding online ticket purchases is not provided; it's best to check the official website for any updates.
 
 ### Are there restrooms and cafes?
 Details about amenities such as restrooms and cafes are not specified. Visitors should prepare accordingly, especially if planning a longer visit.

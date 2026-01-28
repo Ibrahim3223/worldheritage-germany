@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Chorin Abbey Cemetery, located in the picturesque village of Chorin, Germany, is a site where tranquility meets history. This cemetery, enveloped by natural beauty, serves not only as a resting place for the departed but also as a poignant reminder of the region’s rich cultural heritage. The cemetery is adjacent to the historic Chorin Abbey, adding layers of significance to its serene landscape. Visitors to the cemetery will find it a place of reflection, where the echoes of the past resonate amidst the rustling leaves and soft whispers of the wind.
+Chorin Abbey Cemetery, located in the picturesque village of Chorin, Germany, is a site where tranquility meets history. This cemetery, enveloped by natural beauty, serves not only as a resting place for the departed but also as a poignant reminder of the region's rich cultural heritage. The cemetery is adjacent to the historic Chorin Abbey, adding layers of significance to its serene landscape. Visitors to the cemetery will find it a place of reflection, where the echoes of the past resonate amidst the rustling leaves and soft whispers of the wind.
 
-Chorin itself is situated in the Brandenburg region, a few kilometers northeast of Berlin, making it an accessible escape for those looking to delve into the historical narratives of the area. The cemetery is a testament to the community’s respect for its ancestors and the enduring legacy of the abbey. As you stroll through the grounds, you’ll encounter a diverse array of gravestones, each telling a unique story and contributing to the cemetery’s significance as a site of remembrance.
+Chorin itself is situated in the Brandenburg region, a few kilometers northeast of Berlin, making it an accessible escape for those looking to delve into the historical narratives of the area. The cemetery is a testament to the community's respect for its ancestors and the enduring legacy of the abbey. As you stroll through the grounds, you'll encounter a diverse array of gravestones, each telling a unique story and contributing to the cemetery's significance as a site of remembrance.
 
 A visit to Chorin Abbey Cemetery promises a contemplative experience, one that allows travelers to connect with the past while appreciating the natural beauty that surrounds this tranquil resting place.
 
@@ -74,7 +74,7 @@ To make the most of your visit to Chorin Abbey Cemetery, consider these insider 
 
 ## Practical Information
 
-When planning your visit to Chorin Abbey Cemetery, it’s helpful to keep the following practical considerations in mind:
+When planning your visit to Chorin Abbey Cemetery, it's helpful to keep the following practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you will likely be walking on uneven terrain. A water bottle and perhaps a small snack can enhance your experience, especially if you plan to explore the nearby attractions.
 

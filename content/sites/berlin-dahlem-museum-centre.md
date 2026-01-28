@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Berlin-Dahlem Museum Centre is an intriguing cultural institution located in the Steglitz-Zehlendorf district of Berlin, Germany. This museum is part of the vibrant tapestry of Berlin’s extensive museum landscape, offering visitors a chance to explore a diverse range of exhibits that reflect both local and international heritage. With its unique focus on the interplay of art, culture, and history, the museum plays a significant role in the cultural dialogue of the city.
+The Berlin-Dahlem Museum Centre is an intriguing cultural institution located in the Steglitz-Zehlendorf district of Berlin, Germany. This museum is part of the vibrant tapestry of Berlin's extensive museum landscape, offering visitors a chance to explore a diverse range of exhibits that reflect both local and international heritage. With its unique focus on the interplay of art, culture, and history, the museum plays a significant role in the cultural dialogue of the city.
 
 Berlin itself is a city steeped in history, where each district tells its own story. Dahlem, a charming area known for its academic institutions and serene residential streets, complements the museum's offerings, making it an ideal spot for cultural exploration. Visitors to the Berlin-Dahlem Museum Centre can expect to engage with a variety of artifacts and exhibits that highlight the significance of cultural exchange and the evolution of artistic expression.
 
@@ -38,7 +38,7 @@ The Berlin-Dahlem Museum Centre serves as an important hub for cultural educatio
 
 The museum's collections are designed to engage visitors in conversations about the past, present, and future of cultural interactions. Through its exhibits, the Berlin-Dahlem Museum Centre aims to highlight the importance of cultural diversity and the ways in which different societies influence one another. This approach not only enriches the visitor experience but also emphasizes the relevance of cultural studies in our increasingly interconnected world.
 
-In a city known for its tumultuous history, the Berlin-Dahlem Museum Centre stands as a testament to the resilience of cultures and the importance of dialogue in a multicultural society. The museum’s commitment to education and public engagement enhances the cultural fabric of Berlin, making it a vital resource for both locals and tourists alike.
+In a city known for its tumultuous history, the Berlin-Dahlem Museum Centre stands as a testament to the resilience of cultures and the importance of dialogue in a multicultural society. The museum's commitment to education and public engagement enhances the cultural fabric of Berlin, making it a vital resource for both locals and tourists alike.
 
 ## Architecture and Features
 

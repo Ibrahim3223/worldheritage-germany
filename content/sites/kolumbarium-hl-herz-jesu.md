@@ -74,7 +74,7 @@ To avoid crowds, aim for visits during weekdays rather than weekends, when the c
 
 ## Practical Information
 
-When planning your visit to the Kolumbarium Hl. Herz Jesu, consider bringing along a small bag with essentials such as a water bottle, a notebook for jotting down thoughts, or a camera to capture the beauty of the church. It’s advisable to dress modestly, in keeping with the respectful atmosphere of the space.
+When planning your visit to the Kolumbarium Hl. Herz Jesu, consider bringing along a small bag with essentials such as a water bottle, a notebook for jotting down thoughts, or a camera to capture the beauty of the church. It's advisable to dress modestly, in keeping with the respectful atmosphere of the space.
 
 Seasonal considerations may also play a role in your visit. If you visit during colder months, ensure you dress warmly, as certain areas of the church may be less heated. Conversely, spring and summer can be delightful times to visit, as the surrounding landscape may be in bloom, adding to the overall experience.
 
@@ -84,7 +84,7 @@ Seasonal considerations may also play a role in your visit. If you visit during 
 A visit typically takes about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s advisable to be respectful of the space and any ongoing services.
+Photography may be permitted, but it's advisable to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special events.

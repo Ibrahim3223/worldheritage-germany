@@ -58,7 +58,7 @@ As you plan your visit, be prepared for a few basic amenities in the vicinity. W
 
 3. **Local Museums**: The town is home to several small museums that highlight the cultural and historical significance of Hilpoltstein and its surroundings.
 
-4. **Walking Trails**: The area around Hilpoltstein offers scenic walking paths that allow visitors to appreciate the natural beauty of Bavaria while exploring the town’s historical structures.
+4. **Walking Trails**: The area around Hilpoltstein offers scenic walking paths that allow visitors to appreciate the natural beauty of Bavaria while exploring the town's historical structures.
 
 5. **Town Square**: A vibrant area filled with shops and cafes, the town square is an excellent place to relax and soak in the local atmosphere.
 

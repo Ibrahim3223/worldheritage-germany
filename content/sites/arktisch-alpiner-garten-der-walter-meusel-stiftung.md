@@ -84,7 +84,7 @@ Before your visit to the Arktisch-Alpiner-Garten, there are a few practical cons
 
 Bring along water and snacks, as there may not be extensive food facilities on-site. However, plan to enjoy a leisurely picnic in the garden if allowed, as it can enhance your experience.
 
-Seasonal considerations are also important. Spring and summer are ideal for blooming plants, while autumn may offer stunning foliage. Winter visits, although less colorful, can provide a unique perspective on the garden’s layout and structure, particularly if snow covers the landscape.
+Seasonal considerations are also important. Spring and summer are ideal for blooming plants, while autumn may offer stunning foliage. Winter visits, although less colorful, can provide a unique perspective on the garden's layout and structure, particularly if snow covers the landscape.
 
 ## Frequently Asked Questions
 

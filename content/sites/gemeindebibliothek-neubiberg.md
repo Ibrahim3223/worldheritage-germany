@@ -61,7 +61,7 @@ When visiting Gemeindebibliothek Neubiberg, consider exploring these nearby attr
 
 To make the most of your visit to the Gemeindebibliothek Neubiberg, consider the following tips:
 
-- **Photography**: While libraries often encourage quiet and respectful behavior, it’s best to check if photography is allowed within the premises.
+- **Photography**: While libraries often encourage quiet and respectful behavior, it's best to check if photography is allowed within the premises.
 - **Crowd Avoidance**: If you prefer a quieter experience, aim for visits during weekdays or early in the morning when the library is less crowded.
 
 ## Practical Information
@@ -92,7 +92,7 @@ For a quieter experience, consider visiting on weekdays or in the morning.
 Typically, libraries are designed to be accessible. However, check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
-Admission may be free, but for any special events or workshops, check the library’s website for ticket purchasing options.
+Admission may be free, but for any special events or workshops, check the library's website for ticket purchasing options.
 
 ### Are there restrooms and cafes?
 Libraries generally provide restroom facilities. For nearby dining options, explore the town center.

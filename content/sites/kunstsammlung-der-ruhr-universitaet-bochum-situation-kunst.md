@@ -22,9 +22,9 @@ images:
 
 Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst offers visitors a unique glimpse into contemporary art within a scholarly context. Situated in the vibrant city of Bochum, Germany, this art museum serves as a platform for artistic expression and cultural dialogue, emphasizing the dynamic relationship between art and academia. The museum's collection is thoughtfully curated, showcasing a variety of contemporary works that challenge traditional boundaries and provoke thought.
 
-As part of the Ruhr University, Situation Kunst not only houses artworks but also engages in research and educational initiatives that deepen the public's understanding of art in its many forms. This blend of creativity and intellect makes the museum an intriguing destination for art enthusiasts, students, and casual visitors alike. The museum’s setting within an academic institution fosters a unique atmosphere where art and education intertwine, inviting exploration and contemplation.
+As part of the Ruhr University, Situation Kunst not only houses artworks but also engages in research and educational initiatives that deepen the public's understanding of art in its many forms. This blend of creativity and intellect makes the museum an intriguing destination for art enthusiasts, students, and casual visitors alike. The museum's setting within an academic institution fosters a unique atmosphere where art and education intertwine, inviting exploration and contemplation.
 
-Visitors to Situation Kunst can expect to encounter a diverse range of exhibitions that change regularly, ensuring that each visit offers something new. The museum’s commitment to contemporary art reflects the evolving nature of artistic practice, making it a relevant and engaging stop for those traveling through the Ruhr region.
+Visitors to Situation Kunst can expect to encounter a diverse range of exhibitions that change regularly, ensuring that each visit offers something new. The museum's commitment to contemporary art reflects the evolving nature of artistic practice, making it a relevant and engaging stop for those traveling through the Ruhr region.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ While visiting Kunstsammlung der Ruhr-Universität Bochum: Situation Kunst, cons
 
 1. **Ruhr University Bochum**: The institution itself is a notable landmark, offering beautiful campus grounds and various educational facilities.
 
-2. **Bochum’s Planetarium**: A short distance from the museum, this venue offers fascinating shows about the universe, blending science and entertainment.
+2. **Bochum's Planetarium**: A short distance from the museum, this venue offers fascinating shows about the universe, blending science and entertainment.
 
 3. **German Mining Museum**: A significant site reflecting Bochum's industrial heritage, this museum provides insights into the region's mining history and practices.
 

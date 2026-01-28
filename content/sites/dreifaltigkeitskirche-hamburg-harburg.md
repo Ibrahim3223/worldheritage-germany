@@ -86,7 +86,7 @@ When preparing for your visit to Dreifaltigkeitskirche, consider bringing a ligh
 
 Seasonal considerations may also play a role in your visit. If you plan to visit during winter months, check for any special holiday events or services that may be taking place.
 
-As always, it’s wise to check the official website for any updates regarding accessibility, special events, or any other pertinent information before you go.
+As always, it's wise to check the official website for any updates regarding accessibility, special events, or any other pertinent information before you go.
 
 ## Frequently Asked Questions
 

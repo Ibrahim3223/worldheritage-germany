@@ -26,7 +26,7 @@ Visitors to the museum can expect a blend of historical and contemporary art, al
 
 ## History and Significance
 
-The Moritzburg Foundation is steeped in cultural importance, reflecting the evolution of art and its role in society. While specific historical dates are not detailed, the museum's establishment and its growth over time are tied to the broader context of the art movements throughout Germany. It serves as a reminder of the region’s artistic legacy and has contributed to the preservation and promotion of art in various forms.
+The Moritzburg Foundation is steeped in cultural importance, reflecting the evolution of art and its role in society. While specific historical dates are not detailed, the museum's establishment and its growth over time are tied to the broader context of the art movements throughout Germany. It serves as a reminder of the region's artistic legacy and has contributed to the preservation and promotion of art in various forms.
 
 The museum's library adds another layer to its significance, providing resources for research and education. This dual function enhances the foundation's role as a hub for both scholarly and public engagement with art. The institution's commitment to educating the public about the importance of art in society underscores its cultural value.
 
@@ -54,11 +54,11 @@ Halle (Saale) is home to several other attractions that complement a visit to th
 
 1. **Market Square (Marktplatz)**: A vibrant public square surrounded by historic buildings, shops, and eateries, perfect for experiencing local culture.
    
-2. **St. Mary’s Church (Marktkirche St. Marien)**: A magnificent Gothic church known for its impressive architecture and significant historical relevance.
+2. **St. Mary's Church (Marktkirche St. Marien)**: A magnificent Gothic church known for its impressive architecture and significant historical relevance.
    
 3. **Halle's Botanical Garden**: A serene space featuring diverse plant species, ideal for a leisurely stroll after your museum visit.
    
-4. **The Handel House**: A museum dedicated to the composer George Frideric Handel, showcasing his life and work within the context of Halle’s musical heritage.
+4. **The Handel House**: A museum dedicated to the composer George Frideric Handel, showcasing his life and work within the context of Halle's musical heritage.
    
 5. **The Giebichenstein Castle**: Offering picturesque views of the Saale River, this castle provides insight into the region's medieval history and architecture.
 

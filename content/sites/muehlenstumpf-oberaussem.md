@@ -78,7 +78,7 @@ To avoid larger crowds, consider visiting during weekdays rather than weekends. 
 
 ## Practical Information 
 
-When visiting Mühlenstumpf Oberaußem, it’s advisable to bring comfortable walking shoes, as exploring the area may involve some walking. Depending on the season, dress appropriately for the weather, as conditions can change throughout the day. 
+When visiting Mühlenstumpf Oberaußem, it's advisable to bring comfortable walking shoes, as exploring the area may involve some walking. Depending on the season, dress appropriately for the weather, as conditions can change throughout the day. 
 
 If you plan to visit during warmer months, consider bringing water and snacks, as amenities might be limited on-site. Always check the official website for current information regarding hours and any seasonal considerations that might affect your visit.
 

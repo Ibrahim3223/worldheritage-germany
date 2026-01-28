@@ -85,7 +85,7 @@ Seasonal considerations may impact your experience, so be sure to check the weat
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to Fehnmuseum Eiland typically takes a few hours, allowing ample time to explore exhibits and engage with the museum’s offerings.
+A visit to Fehnmuseum Eiland typically takes a few hours, allowing ample time to explore exhibits and engage with the museum's offerings.
 
 ### Is photography allowed?
 Photography policies may vary, so it is best to check on-site for any restrictions regarding photography within the museum.

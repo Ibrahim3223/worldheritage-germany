@@ -92,13 +92,13 @@ Consider bringing a water bottle to stay hydrated, especially if you plan to exp
 A visit to the Stockmachermuseum Lindewerra typically takes about 1.5 to 2 hours, allowing ample time to explore the exhibits and engage with any demonstrations.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum’s guidelines upon arrival to ensure compliance with their rules.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival to ensure compliance with their rules.
 
 ### Are there guided tours?
 While specific information about guided tours is not provided, many museums offer them for a more in-depth understanding of the exhibits. Check the official website for any available options.
 
 ### What's the best time to visit?
-While any time can be enjoyable, visiting during weekdays or off-peak hours can provide a more relaxed experience. Also, check the museum’s schedule for any special events or exhibitions.
+While any time can be enjoyable, visiting during weekdays or off-peak hours can provide a more relaxed experience. Also, check the museum's schedule for any special events or exhibitions.
 
 ### Is it wheelchair accessible?
 Accessibility details are not specified, so it is advisable to check with the museum directly regarding wheelchair access and facilities.
@@ -107,7 +107,7 @@ Accessibility details are not specified, so it is advisable to check with the mu
 For the most accurate and up-to-date information on ticket purchasing, check the official website.
 
 ### Are there restrooms and cafes?
-Information about facilities like restrooms and cafes is not provided, so it’s advisable to confirm these details while planning your visit.
+Information about facilities like restrooms and cafes is not provided, so it's advisable to confirm these details while planning your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season. Comfortable shoes are recommended, as you will likely be walking and standing during your visit.

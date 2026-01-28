@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Erma Werke, a notable German arms manufacturing company, is steeped in industrial significance. Located in Dachau, Germany, this factory has played an essential role in the nation’s manufacturing history, particularly during pivotal periods in the 20th century. The facility represents not only the evolution of industrial practices but also the complexities of armed conflict and technological advancement. Visitors to the site can expect to gain a deeper understanding of Germany's industrial heritage and the role such factories have played in shaping the country's past.
+Erma Werke, a notable German arms manufacturing company, is steeped in industrial significance. Located in Dachau, Germany, this factory has played an essential role in the nation's manufacturing history, particularly during pivotal periods in the 20th century. The facility represents not only the evolution of industrial practices but also the complexities of armed conflict and technological advancement. Visitors to the site can expect to gain a deeper understanding of Germany's industrial heritage and the role such factories have played in shaping the country's past.
 
 Dachau itself adds an intriguing layer to the experience, as it is a town with a rich history that includes both industrial growth and darker historical events. The proximity of Erma Werke to other historical sites in the region enhances its significance as part of a broader narrative about Germany's industrial and social development. Exploring this factory offers a unique opportunity to delve into the industrial legacy of the region while reflecting on the implications of arms manufacturing.
 
@@ -38,7 +38,7 @@ The architectural design of Erma Werke is characteristic of industrial facilitie
 
 Notable features of Erma Werke include large open spaces that were crucial for the transportation and assembly of materials. The interiors may contain remnants of the machinery used in production, providing a glimpse into the industrial processes that defined the factory's operations. The utilitarian design of the factory emphasizes practicality, with structures built to withstand the rigors of manufacturing demands.
 
-While the exterior may not be ornate, it encapsulates the spirit of early 20th-century industrial architecture. The factory's presence in Dachau adds to the town's industrial landscape, illustrating the growth of manufacturing during a transformative period in Germany’s history. 
+While the exterior may not be ornate, it encapsulates the spirit of early 20th-century industrial architecture. The factory's presence in Dachau adds to the town's industrial landscape, illustrating the growth of manufacturing during a transformative period in Germany's history. 
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While visiting Erma Werke, there are several nearby attractions worth exploring:
 
 ## Insider Tips
 
-For those planning a visit to Erma Werke, consider bringing a camera to capture the essence of the industrial architecture. While photography is permitted, it's advisable to be respectful of the site’s historical context.
+For those planning a visit to Erma Werke, consider bringing a camera to capture the essence of the industrial architecture. While photography is permitted, it's advisable to be respectful of the site's historical context.
 
 To avoid larger crowds, visiting early in the day or during the week is recommended. This can enhance the experience, allowing for thoughtful engagement with the factory's history.
 

@@ -66,9 +66,9 @@ Best times to visit may align with local events, community gatherings, or times 
 
 While visiting the synagogue of Rexingen, there are several nearby attractions that can enhance your experience in Horb am Neckar:
 
-1. **Horb am Neckar Old Town**: Explore the charming streets of Horb’s Old Town, which features historic buildings, quaint shops, and a vibrant local atmosphere.
+1. **Horb am Neckar Old Town**: Explore the charming streets of Horb's Old Town, which features historic buildings, quaint shops, and a vibrant local atmosphere.
 
-2. **Horb Castle**: Discover the remnants of Horb Castle, perched on a hill overlooking the town. The site offers insights into the region’s history and stunning views of the surrounding landscape.
+2. **Horb Castle**: Discover the remnants of Horb Castle, perched on a hill overlooking the town. The site offers insights into the region's history and stunning views of the surrounding landscape.
 
 3. **The Neckar River**: Enjoy a leisurely stroll along the Neckar River, where you can appreciate the natural beauty of the area and perhaps even partake in recreational activities.
 
@@ -86,7 +86,7 @@ To make the most of your visit to the synagogue of Rexingen, consider the follow
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays or during off-peak hours. This allows for a more contemplative visit, free from large crowds.
 
-- **Engage with Local Guides**: If available, local guides or community members may offer insights and stories that enrich your understanding of the synagogue’s significance.
+- **Engage with Local Guides**: If available, local guides or community members may offer insights and stories that enrich your understanding of the synagogue's significance.
 
 ## Practical Information
 

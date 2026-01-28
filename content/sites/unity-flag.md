@@ -42,7 +42,7 @@ The Unity Flag is characterized by its striking design and prominent location. W
 
 As a monument, it is crafted to be both a piece of art and a symbol of national pride. The design incorporates elements that are reflective of the German national identity, and its size and positioning allow it to be seen from various vantage points around the area. Visitors often marvel at the way the monument interacts with its surroundings, particularly in terms of light and shadow throughout the day.
 
-While exploring the Unity Flag, visitors can appreciate its significance not just in terms of aesthetics but also from a historical perspective. The monument invites contemplation of the struggles and triumphs that have defined Germany’s path toward unity, making it a powerful site for reflection.
+While exploring the Unity Flag, visitors can appreciate its significance not just in terms of aesthetics but also from a historical perspective. The monument invites contemplation of the struggles and triumphs that have defined Germany's path toward unity, making it a powerful site for reflection.
 
 ## Visiting Information
 

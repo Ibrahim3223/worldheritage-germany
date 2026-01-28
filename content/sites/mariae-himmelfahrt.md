@@ -83,7 +83,7 @@ Visitors should keep in mind the local weather conditions and dress accordingly,
 Typically, visitors may spend around an hour or more at Mariä Himmelfahrt, depending on personal interests and engagement with the environment.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s advisable to be respectful of the space and its purpose. 
+Photography may be permitted, but it's advisable to be respectful of the space and its purpose. 
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are offered, as this can enhance the experience.
@@ -98,7 +98,7 @@ Information on accessibility features may not be specified; check the official w
 For current admission policies and ticket purchasing options, check the official website.
 
 ### Are there restrooms and cafes?
-Information concerning facilities may vary; it’s best to check the official website for nearby amenities.
+Information concerning facilities may vary; it's best to check the official website for nearby amenities.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, as the church is a place of worship and reflection. Comfortable shoes are recommended for exploring the surrounding area.

@@ -62,9 +62,9 @@ Dresden is home to a wealth of attractions that complement a visit to Ufa-Krista
    
 2. **Zwinger Palace**: This Baroque palace complex houses several museums and galleries, showcasing art and history in a picturesque setting.
 
-3. **Dresden Frauenkirche**: A symbol of the city’s resilience, this church is an architectural highlight worth exploring, known for its impressive dome and beautiful interior.
+3. **Dresden Frauenkirche**: A symbol of the city's resilience, this church is an architectural highlight worth exploring, known for its impressive dome and beautiful interior.
 
-4. **The Green Vault**: Located within the Dresden Castle, this museum features a remarkable collection of treasures and artifacts, drawing visitors into the heart of the city’s history.
+4. **The Green Vault**: Located within the Dresden Castle, this museum features a remarkable collection of treasures and artifacts, drawing visitors into the heart of the city's history.
 
 5. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this promenade offers scenic views along the Elbe River, making it a lovely spot for a leisurely stroll.
 
@@ -82,7 +82,7 @@ To make the most of your visit to Ufa-Kristallpalast, consider these insider tip
 
 When preparing for your visit to Ufa-Kristallpalast, keep these practical considerations in mind:
 
-- **What to Bring**: It’s advisable to bring along some cash or a credit card for purchasing tickets and snacks, as well as a valid ID if you're attending an age-restricted film.
+- **What to Bring**: It's advisable to bring along some cash or a credit card for purchasing tickets and snacks, as well as a valid ID if you're attending an age-restricted film.
 
 - **Seasonal Considerations**: Weather can impact your travel plans. Check the forecast and dress appropriately, especially if you plan to explore nearby attractions before or after your cinema visit.
 

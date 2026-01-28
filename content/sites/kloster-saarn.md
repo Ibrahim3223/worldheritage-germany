@@ -84,7 +84,7 @@ To make the most of your visit to Kloster Saarn, consider these insider tips:
 
 When planning your visit to Kloster Saarn, here are some practical considerations:
 
-- **What to bring**: It’s advisable to carry a water bottle to stay hydrated and a light snack to enjoy in the peaceful surroundings. A camera or journal can also enhance your experience.
+- **What to bring**: It's advisable to carry a water bottle to stay hydrated and a light snack to enjoy in the peaceful surroundings. A camera or journal can also enhance your experience.
 - **Seasonal considerations**: The weather can vary, so dress in layers to accommodate changes in temperature. If visiting during the winter months, be prepared for colder conditions.
 - **Accessibility**: If you have specific accessibility needs, it's recommended to verify the accommodations available at the monastery in advance.
 

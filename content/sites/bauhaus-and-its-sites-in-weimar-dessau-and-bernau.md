@@ -52,7 +52,7 @@ Another notable structure is the Masters' Houses in Dessau, which were designed 
 
 In Weimar, the original Bauhaus building, now housing a museum, retains much of its historic character while serving as a space for exhibitions and educational programs. The architecture here reflects the transitional phase of the Bauhaus, where traditional elements begin to merge with modernist principles.
 
-In Bernau, the Bauhaus Building and the associated structures illustrate the school’s commitment to integrating design with everyday life. The site exemplifies the ideals of modular design and the use of industrial materials, showcasing how the Bauhaus vision extended beyond the classroom and into residential and community spaces.
+In Bernau, the Bauhaus Building and the associated structures illustrate the school's commitment to integrating design with everyday life. The site exemplifies the ideals of modular design and the use of industrial materials, showcasing how the Bauhaus vision extended beyond the classroom and into residential and community spaces.
 
 Overall, each of these sites contributes to a broader understanding of Bauhaus architecture, marked by a commitment to innovation, craftsmanship, and the belief that design should serve society.
 
@@ -86,7 +86,7 @@ To avoid crowds, consider visiting on weekdays, as weekends tend to attract more
 
 ## Practical Information
 
-When visiting the Bauhaus sites, it’s advisable to wear comfortable walking shoes, as exploring the various buildings often involves walking between different locations. Depending on the season, layering clothing can help accommodate fluctuating temperatures, especially if you plan to spend time outdoors.
+When visiting the Bauhaus sites, it's advisable to wear comfortable walking shoes, as exploring the various buildings often involves walking between different locations. Depending on the season, layering clothing can help accommodate fluctuating temperatures, especially if you plan to spend time outdoors.
 
 Bringing a reusable water bottle is recommended, as some sites may have water fountains available for refilling. Additionally, consider carrying a small notebook or sketchbook to jot down thoughts or sketches inspired by the surroundings.
 
@@ -96,7 +96,7 @@ Bringing a reusable water bottle is recommended, as some sites may have water fo
 A few hours at each site is typically recommended to fully appreciate the architecture and exhibitions.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to check specific site regulations upon arrival.
+Photography is generally allowed, but it's best to check specific site regulations upon arrival.
 
 ### Are there guided tours?
 Yes, many of the sites offer guided tours that provide deeper insights into the Bauhaus movement and its significance.
@@ -105,7 +105,7 @@ Yes, many of the sites offer guided tours that provide deeper insights into the 
 Spring and summer are ideal for visiting due to favorable weather, though check for specific events that may be scheduled throughout the year.
 
 ### Is it wheelchair accessible?
-Most sites are designed to be accessible, but it’s advisable to check the official website for specific accessibility features.
+Most sites are designed to be accessible, but it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Yes, many of the sites offer the option to purchase tickets online. Check the official website for more details.

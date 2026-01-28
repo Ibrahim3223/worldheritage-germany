@@ -34,13 +34,13 @@ Stralsund, situated on the Baltic Sea, has been a vital trading hub throughout i
 
 The history of Katharinenkirche is deeply intertwined with the story of Stralsund itself. As a prominent church in a city that flourished during the Hanseatic League's heyday, the church has witnessed centuries of transformation and adaptation. While specific dates and events may be less documented, its role as a spiritual and communal focal point in Stralsund has remained constant. The church has endured various historical events, including conflicts and changes in religious practices, which have shaped its identity over time.
 
-The church is dedicated to Saint Catherine, who is often associated with wisdom and learning. This dedication underscores the importance of education and enlightenment in the community’s ethos. The Katharinenkirche has served not only as a religious institution but also as a cultural space where art, music, and community life converge. Its historical significance extends beyond its architectural attributes, reflecting the social and economic dynamics that have influenced Stralsund throughout the ages.
+The church is dedicated to Saint Catherine, who is often associated with wisdom and learning. This dedication underscores the importance of education and enlightenment in the community's ethos. The Katharinenkirche has served not only as a religious institution but also as a cultural space where art, music, and community life converge. Its historical significance extends beyond its architectural attributes, reflecting the social and economic dynamics that have influenced Stralsund throughout the ages.
 
-The church has undergone several renovations and restorations, each aimed at preserving its integrity while adapting to the needs of the community. These efforts highlight the commitment of the local population to maintain their heritage, ensuring that Katharinenkirche remains a vibrant part of Stralsund’s landscape. 
+The church has undergone several renovations and restorations, each aimed at preserving its integrity while adapting to the needs of the community. These efforts highlight the commitment of the local population to maintain their heritage, ensuring that Katharinenkirche remains a vibrant part of Stralsund's landscape. 
 
 ## Architecture and Features
 
-Katharinenkirche showcases the exquisite elements of Gothic architecture, characterized by its pointed arches, ribbed vaults, and flying buttresses. The church’s façade is marked by intricate stonework, which adds to its visual appeal and highlights the craftsmanship of the builders. The overall design reflects the architectural trends of the time, making it a notable example of Gothic style within the region.
+Katharinenkirche showcases the exquisite elements of Gothic architecture, characterized by its pointed arches, ribbed vaults, and flying buttresses. The church's façade is marked by intricate stonework, which adds to its visual appeal and highlights the craftsmanship of the builders. The overall design reflects the architectural trends of the time, making it a notable example of Gothic style within the region.
 
 Inside, visitors can expect to find a spacious nave adorned with stained glass windows that filter light into a kaleidoscope of colors. These windows often depict biblical scenes and saints, contributing not only to the aesthetic experience but also to the religious narrative of the space. The church's altar is another focal point, often designed with elaborate carvings and artworks that reflect the spiritual significance of the site.
 
@@ -50,7 +50,7 @@ The interior layout facilitates a sense of openness, encouraging contemplation a
 
 For those planning a visit to Katharinenkirche, Stralsund is accessible via various modes of transport. The city is well-connected by train and bus services, making it easy to reach for travelers coming from major urban centers. Once in Stralsund, visitors can find the church located centrally, often a short walk from other key attractions.
 
-Check the official website for current information regarding visiting hours and any applicable entrance fees. It’s advisable to allocate sufficient time to explore both the interior and exterior of the church, as well as to absorb the surrounding historical context. A visit of approximately one to two hours is recommended to fully appreciate the church’s architecture and historical significance.
+Check the official website for current information regarding visiting hours and any applicable entrance fees. It's advisable to allocate sufficient time to explore both the interior and exterior of the church, as well as to absorb the surrounding historical context. A visit of approximately one to two hours is recommended to fully appreciate the church's architecture and historical significance.
 
 The best times to visit are during the spring and early autumn when the weather is mild, allowing for comfortable exploration. Additionally, weekdays may be less crowded compared to weekends, providing a more serene experience inside the church.
 
@@ -58,7 +58,7 @@ The best times to visit are during the spring and early autumn when the weather 
 
 While visiting Katharinenkirche, consider exploring the following nearby attractions:
 
-1. **Stralsund Old Town**: A UNESCO World Heritage site, this area is rich with medieval buildings, shops, and restaurants, offering a glimpse into the city’s past.
+1. **Stralsund Old Town**: A UNESCO World Heritage site, this area is rich with medieval buildings, shops, and restaurants, offering a glimpse into the city's past.
    
 2. **German Oceanographic Museum**: Located not far from the church, this museum showcases the maritime history of the region and the diverse marine life of the Baltic Sea.
 
@@ -83,7 +83,7 @@ It is also wise to bring a water bottle and a small snack, especially if you pla
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of approximately one to two hours is recommended to fully appreciate the church’s architecture and historical significance.
+A visit of approximately one to two hours is recommended to fully appreciate the church's architecture and historical significance.
 
 ### Is photography allowed?
 Photography is typically permitted inside the church, but it is advisable to check for any specific restrictions or guidelines upon arrival.

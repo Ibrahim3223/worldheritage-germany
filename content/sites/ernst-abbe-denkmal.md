@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Ernst-Abbe-Denkmal is more than just an architectural structure; it is a significant monument located in the city of Jena, Germany. This site serves as a tribute to Ernst Abbe, a renowned physicist and optician whose contributions to the field of optics and social welfare have left an indelible mark on both the scientific community and society at large. Positioned at coordinates 50.9279, 11.5801, this monument not only commemorates Abbe’s legacy but also offers visitors a glimpse into the historical importance of Jena during the industrial and scientific revolutions. 
+The Ernst-Abbe-Denkmal is more than just an architectural structure; it is a significant monument located in the city of Jena, Germany. This site serves as a tribute to Ernst Abbe, a renowned physicist and optician whose contributions to the field of optics and social welfare have left an indelible mark on both the scientific community and society at large. Positioned at coordinates 50.9279, 11.5801, this monument not only commemorates Abbe's legacy but also offers visitors a glimpse into the historical importance of Jena during the industrial and scientific revolutions. 
 
-As you approach the monument, you are enveloped in an atmosphere that reflects the city’s storied past. The Ernst-Abbe-Denkmal is not merely an aesthetic landmark; it embodies the spirit of innovation and progress that defined Jena in the late 19th and early 20th centuries. Visitors can expect to encounter a space that encourages reflection on the intersections of science, education, and social responsibility.
+As you approach the monument, you are enveloped in an atmosphere that reflects the city's storied past. The Ernst-Abbe-Denkmal is not merely an aesthetic landmark; it embodies the spirit of innovation and progress that defined Jena in the late 19th and early 20th centuries. Visitors can expect to encounter a space that encourages reflection on the intersections of science, education, and social responsibility.
 
 Whether you are an admirer of architecture, a history enthusiast, or simply someone looking to explore the cultural fabric of Jena, the Ernst-Abbe-Denkmal promises an enriching experience. Prepare to delve into the life of a remarkable figure and the broader implications of his work in transforming society through education and scientific advancement.
 
@@ -38,7 +38,7 @@ The Ernst-Abbe-Denkmal holds profound cultural significance as it honors the lif
 
 Abbe was not just a scientist; he was also a dedicated advocate for social reform. He believed in the importance of education and made significant contributions to the educational landscape of Jena. His vision extended beyond the laboratory; he sought to improve the lives of workers and promote social justice, which was particularly relevant during a time of rapid industrialization.
 
-The monument itself serves as a reminder of Abbe's dual legacy—his scientific advancements and his commitment to societal improvement. It is a place where visitors can reflect on the impact of one individual’s vision on both science and society. Jena's connection to Abbe is not only historical but also a source of pride for the local community, emphasizing the city’s role as a birthplace of innovation.
+The monument itself serves as a reminder of Abbe's dual legacy—his scientific advancements and his commitment to societal improvement. It is a place where visitors can reflect on the impact of one individual's vision on both science and society. Jena's connection to Abbe is not only historical but also a source of pride for the local community, emphasizing the city's role as a birthplace of innovation.
 
 While specific dates regarding the monument's unveiling or construction are not provided, it is clear that the Ernst-Abbe-Denkmal plays an essential role in commemorating an individual whose work continues to resonate in both academic and social realms today. 
 
@@ -109,7 +109,7 @@ Accessibility information is not specified, so it is advisable to check the offi
 Check the official website for current information regarding ticket purchases and any potential fees.
 
 ### Are there restrooms and cafes?
-Details on facilities are not mentioned, so it’s best to check nearby locations or the official website for amenities.
+Details on facilities are not mentioned, so it's best to check nearby locations or the official website for amenities.
 
 ### What should I wear?
 Dress comfortably and seasonally appropriate, considering the potential for varying weather conditions.

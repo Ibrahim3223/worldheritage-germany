@@ -48,7 +48,7 @@ The overall design of St. Paul's Church emphasizes community and gathering, alig
 
 ## Visiting Information
 
-To reach St. Paul's Church, visitors can take advantage of Frankfurt’s efficient public transport system. The church is centrally located, making it easily accessible via various modes of transportation. Check the official website for current information on hours and prices, as these may vary seasonally or due to special events.
+To reach St. Paul's Church, visitors can take advantage of Frankfurt's efficient public transport system. The church is centrally located, making it easily accessible via various modes of transportation. Check the official website for current information on hours and prices, as these may vary seasonally or due to special events.
 
 When planning your visit, consider allocating around one hour to explore the church thoroughly, including time for reflection and photography. Early mornings or late afternoons are typically less crowded, providing a more tranquil experience. 
 

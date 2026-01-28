@@ -72,7 +72,7 @@ Photography may be permitted in certain areas, but it's advisable to check for a
 
 ## Practical Information
 
-When visiting the Bauernhausmuseum Lindberg, it's wise to bring comfortable walking shoes, as you’ll be exploring various buildings and outdoor spaces. Depending on the season, layering your clothing is recommended, as temperatures can vary throughout the day.
+When visiting the Bauernhausmuseum Lindberg, it's wise to bring comfortable walking shoes, as you'll be exploring various buildings and outdoor spaces. Depending on the season, layering your clothing is recommended, as temperatures can vary throughout the day.
 
 If you plan to visit during the winter months, be prepared for possible snow or colder temperatures, which may affect outdoor activities. Conversely, summer visits may require sun protection and hydration, as you may spend extended periods outdoors.
 

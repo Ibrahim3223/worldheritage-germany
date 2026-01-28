@@ -66,9 +66,9 @@ The best times to visit are during off-peak hours when the station is less crowd
 
 ## Insider Tips
 
-For photography enthusiasts, Dietzenbach Bahnhof presents several opportunities to capture the essence of a working railway station. Early morning light can enhance your photographs, providing a softer glow that complements the station’s features. Additionally, avoid peak hours to capture images without the distraction of crowds.
+For photography enthusiasts, Dietzenbach Bahnhof presents several opportunities to capture the essence of a working railway station. Early morning light can enhance your photographs, providing a softer glow that complements the station's features. Additionally, avoid peak hours to capture images without the distraction of crowds.
 
-To make the most of your visit, consider exploring the surrounding area after your time at the station. Engaging with local shops and eateries can enrich your experience and provide a deeper understanding of Dietzenbach’s culture.
+To make the most of your visit, consider exploring the surrounding area after your time at the station. Engaging with local shops and eateries can enrich your experience and provide a deeper understanding of Dietzenbach's culture.
 
 ## Practical Information
 

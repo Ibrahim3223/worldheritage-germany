@@ -32,7 +32,7 @@ As you visit, you will find that the museum is not only a place for learning but
 
 ## History and Significance
 
-The Archäologisches Freilichtmuseum Funkenburg plays a pivotal role in the preservation and interpretation of archaeological findings that reflect the region's historical significance. While specific dates and events are not provided, the museum’s establishment is rooted in a desire to educate the public about the past and to showcase how ancient societies functioned and evolved over time.
+The Archäologisches Freilichtmuseum Funkenburg plays a pivotal role in the preservation and interpretation of archaeological findings that reflect the region's historical significance. While specific dates and events are not provided, the museum's establishment is rooted in a desire to educate the public about the past and to showcase how ancient societies functioned and evolved over time.
 
 The significance of this museum lies not only in its collection of artifacts but also in the stories that these artifacts tell. They provide insight into the daily lives, rituals, and social structures of human civilizations that have long since faded into history. The museum emphasizes the importance of archaeology in understanding cultural identity and heritage, making it a vital resource for both scholars and the general public.
 
@@ -104,7 +104,7 @@ Late spring and early autumn are often ideal for visiting, as the weather is ple
 Accessibility options are typically provided, but checking the official website for specific details is advisable to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-Up-to-date ticket purchasing options can be found on the museum’s official website, allowing for convenience in planning your visit.
+Up-to-date ticket purchasing options can be found on the museum's official website, allowing for convenience in planning your visit.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and possibly cafes may be available on-site, enhancing the visitor experience.

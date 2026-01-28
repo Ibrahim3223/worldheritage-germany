@@ -3,7 +3,7 @@ title: "Stadtgottesacker"
 site_name: "Stadtgottesacker"
 date: 2026-01-26
 draft: false
-description: "Stadtgottesacker, located in Halle (Saale), Saxony-Anhalt, Germany, serves as a poignant reminder of the region’s historical and cultural tapestry,..."
+description: "Stadtgottesacker, located in Halle (Saale), Saxony-Anhalt, Germany, serves as a poignant reminder of the region's historical and cultural tapestry,..."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cemetery"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Stadtgottesacker, located in Halle (Saale), Saxony-Anhalt, Germany, serves as a poignant reminder of the region’s historical and cultural tapestry, established in 1557. This cemetery is not merely a resting place but a significant site that weaves together the narratives of the past, reflecting the artistic and social values of its time. Enclosed by a wall, the cemetery provides a serene environment for reflection and remembrance, surrounded by the bustling life of modern Halle.
+Stadtgottesacker, located in Halle (Saale), Saxony-Anhalt, Germany, serves as a poignant reminder of the region's historical and cultural tapestry, established in 1557. This cemetery is not merely a resting place but a significant site that weaves together the narratives of the past, reflecting the artistic and social values of its time. Enclosed by a wall, the cemetery provides a serene environment for reflection and remembrance, surrounded by the bustling life of modern Halle.
 
 As a historical cemetery, Stadtgottesacker is unique in its layout and design, which distinguishes it from more conventional burial grounds. The site encompasses a diverse array of grave markers, mausoleums, and sculptures that illustrate the evolution of funerary art and architecture in Germany. For visitors, it offers a profound opportunity to engage with the layers of history that define the city and its people.
 
@@ -38,7 +38,7 @@ The establishment of Stadtgottesacker in 1557 marked a vital point in the histor
 
 As one of the earliest examples of a cemetery in the region, Stadtgottesacker holds substantial cultural importance. It was designed not only as a final resting place but also as a public space meant for contemplation and remembrance. Over the centuries, it has become a site of historical significance, where many prominent citizens of Halle are interred, including notable figures from various fields such as theology, politics, and the arts. The cemetery has witnessed the evolution of memorial practices and continues to be a focal point for historians and visitors interested in the cultural heritage of Halle.
 
-The design of Stadtgottesacker is emblematic of the period's architectural styles, characterized by its orderly layout and the inclusion of elaborate tombstones and monuments. The cemetery's significance extends beyond its role as a burial site; it serves as a physical representation of the city’s history and the changing attitudes towards life, death, and remembrance throughout the centuries.
+The design of Stadtgottesacker is emblematic of the period's architectural styles, characterized by its orderly layout and the inclusion of elaborate tombstones and monuments. The cemetery's significance extends beyond its role as a burial site; it serves as a physical representation of the city's history and the changing attitudes towards life, death, and remembrance throughout the centuries.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ The cemetery is also known for its beautiful landscaping, which complements its 
 
 ## Visiting Information
 
-To make the most of your visit to Stadtgottesacker, it’s important to consider transportation options and prepare accordingly. The cemetery is accessible from various points in Halle, and public transportation options are available for those coming from different areas. Visitors can expect to spend approximately one to two hours exploring the site, although this can vary depending on personal interest in the monuments and history.
+To make the most of your visit to Stadtgottesacker, it's important to consider transportation options and prepare accordingly. The cemetery is accessible from various points in Halle, and public transportation options are available for those coming from different areas. Visitors can expect to spend approximately one to two hours exploring the site, although this can vary depending on personal interest in the monuments and history.
 
 Check the official website for current information regarding opening hours and any potential admission fees. The best times to visit would be during the spring and autumn, when the weather is generally mild, allowing for a more comfortable experience while walking through the cemetery's grounds.
 

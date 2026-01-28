@@ -105,7 +105,7 @@ The foundation strives to be accessible to all visitors. For specific accessibil
 Information regarding ticket purchases can be found on the official website. Check for any requirements or availability for events.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site or nearby, but it’s advisable to check the official website for specific amenities.
+Facilities may be available on-site or nearby, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the season and any events you may attend. 

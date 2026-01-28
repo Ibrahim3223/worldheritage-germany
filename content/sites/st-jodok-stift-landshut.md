@@ -3,7 +3,7 @@ title: "St. Jodok Stift Landshut"
 site_name: "St. Jodok Stift Landshut"
 date: 2026-01-26
 draft: false
-description: "St. Jodok Stift Landshut stands as a remarkable example of early 20th-century architecture in Germany, offering visitors a glimpse into the country’s rich..."
+description: "St. Jodok Stift Landshut stands as a remarkable example of early 20th-century architecture in Germany, offering visitors a glimpse into the country's rich..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Foundation"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Jodok Stift Landshut stands as a remarkable example of early 20th-century architecture in Germany, offering visitors a glimpse into the country’s rich cultural and historical landscape. Located in the charming city of Landshut, this foundation was constructed between 1891 and 1907, showcasing elements of the Jugendstil movement, a German interpretation of Art Nouveau. The site is not merely an architectural landmark; it is a cultural touchstone that reflects the social dynamics of its time, serving various community needs.
+St. Jodok Stift Landshut stands as a remarkable example of early 20th-century architecture in Germany, offering visitors a glimpse into the country's rich cultural and historical landscape. Located in the charming city of Landshut, this foundation was constructed between 1891 and 1907, showcasing elements of the Jugendstil movement, a German interpretation of Art Nouveau. The site is not merely an architectural landmark; it is a cultural touchstone that reflects the social dynamics of its time, serving various community needs.
 
 Landshut, a city known for its medieval architecture and vibrant history, provides a fitting backdrop for St. Jodok Stift. As visitors explore this significant site, they can appreciate its artistic details and the broader context of its creation, which coincided with a period of social reform and community building in Germany. The foundation's multifaceted design captures the essence of a bygone era while continuing to serve its community in contemporary times.
 
@@ -38,7 +38,7 @@ The history of St. Jodok Stift Landshut is intertwined with the social and cultu
 
 The construction of St. Jodok Stift was part of a broader movement toward civic engagement, where institutions focused on providing social support and fostering community ties. The building itself was erected over a span of several years, from 1891 to 1907, symbolizing the commitment to enhancing the welfare of the local populace. 
 
-Architecturally, the foundation reflects the artistic trends of its time, particularly the Jugendstil movement, which sought to harmonize art with everyday life. This style emphasized organic forms and intricate designs, contributing to a sense of beauty and function. St. Jodok Stift’s design is not only an aesthetic achievement but also a cultural artifact, representing the aspirations and values of a society in transition.
+Architecturally, the foundation reflects the artistic trends of its time, particularly the Jugendstil movement, which sought to harmonize art with everyday life. This style emphasized organic forms and intricate designs, contributing to a sense of beauty and function. St. Jodok Stift's design is not only an aesthetic achievement but also a cultural artifact, representing the aspirations and values of a society in transition.
 
 The significance of St. Jodok Stift extends beyond its physical structure; it embodies a legacy of community service and social responsibility. As such, it remains an important landmark in Landshut, reminding visitors of the historical context in which it was built and the ongoing relevance of its mission.
 
@@ -70,7 +70,7 @@ After visiting St. Jodok Stift Landshut, consider exploring these nearby attract
 
 2. **St. Martin's Church**: Known for its impressive tower, this Gothic church is a landmark in the city and features stunning stained glass windows and intricate interiors.
 
-3. **Landshut Old Town**: A stroll through the charming streets of the Old Town reveals beautifully preserved buildings and quaint shops, providing a sense of the city’s historical ambiance.
+3. **Landshut Old Town**: A stroll through the charming streets of the Old Town reveals beautifully preserved buildings and quaint shops, providing a sense of the city's historical ambiance.
 
 4. **The Trausnitz Castle**: Another significant historical site, this castle showcases the architectural evolution of the region and offers informative exhibits.
 

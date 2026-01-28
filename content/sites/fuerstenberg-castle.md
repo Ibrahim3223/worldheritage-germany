@@ -50,7 +50,7 @@ The castle's layout reflects its original purpose as a defensive fortress, with 
 
 Inside the castle grounds, visitors can explore various sections that reveal the castle's historical layers. The remnants of living quarters, storage areas, and communal spaces offer insights into the daily life of its inhabitants. The architecture also displays elements typical of the period, such as narrow windows designed for defense and wide courtyards that served as gathering spaces.
 
-In addition to its structural features, the castle’s location provides a unique perspective of the surrounding landscape. While the castle itself may not be fully intact, the vantage point it offers allows for stunning views of the Rhine River and the idyllic countryside. This combination of history and natural beauty makes Fürstenberg Castle a significant site for both architectural study and leisurely exploration.
+In addition to its structural features, the castle's location provides a unique perspective of the surrounding landscape. While the castle itself may not be fully intact, the vantage point it offers allows for stunning views of the Rhine River and the idyllic countryside. This combination of history and natural beauty makes Fürstenberg Castle a significant site for both architectural study and leisurely exploration.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While Fürstenberg Castle is a destination in its own right, the surrounding are
 
 4. **Stahleck Castle**: Situated in Bacharach, this castle hosts a youth hostel and offers a blend of historical architecture and scenic hiking trails.
 
-5. **Rhein Valley Vineyards**: The region is renowned for its wine production, and visitors can explore local vineyards and enjoy tastings of the area’s wines.
+5. **Rhein Valley Vineyards**: The region is renowned for its wine production, and visitors can explore local vineyards and enjoy tastings of the area's wines.
 
 ## Insider Tips
 
@@ -107,7 +107,7 @@ Accessibility information is not specified, so check the official website for de
 For current ticket purchasing options, check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check the official website for information on available amenities during your visit.
+Facilities may vary, so it's best to check the official website for information on available amenities during your visit.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended due to the uneven terrain and the requirement to hike to the castle. Dress in layers for fluctuating temperatures.

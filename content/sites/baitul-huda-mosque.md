@@ -72,13 +72,13 @@ While visiting Baitul Huda Mosque, consider exploring the surrounding area for a
 
 When visiting Baitul Huda Mosque, consider bringing a camera to capture the architecture and atmosphere, but be mindful of photography etiquette, especially during prayer times. To avoid larger crowds, try visiting during mid-week or outside of major religious holidays when the mosque may be particularly busy.
 
-Engaging with community members can enhance your visit; many are eager to share their experiences and insights about the mosque and its significance. If you have questions or wish to learn more about specific practices, don’t hesitate to ask.
+Engaging with community members can enhance your visit; many are eager to share their experiences and insights about the mosque and its significance. If you have questions or wish to learn more about specific practices, don't hesitate to ask.
 
 ## Practical Information
 
 When preparing for your visit to Baitul Huda Mosque, it is advisable to bring a few essentials. A respectful outfit is recommended, with modest clothing that covers the arms and legs. Additionally, consider carrying a bottle of water and a small snack, as there may not be dining options immediately nearby.
 
-Seasonal considerations are also important. If visiting during colder months, dress warmly, as mosques may have limited heating. In the warmer months, lightweight clothing is recommended, but still adhere to modesty guidelines. Regardless of the season, check the mosque’s official website for any specific visitor requirements or updates.
+Seasonal considerations are also important. If visiting during colder months, dress warmly, as mosques may have limited heating. In the warmer months, lightweight clothing is recommended, but still adhere to modesty guidelines. Regardless of the season, check the mosque's official website for any specific visitor requirements or updates.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ Seasonal considerations are also important. If visiting during colder months, dr
 A visit to Baitul Huda Mosque typically takes about one to two hours, allowing ample time to explore its features and engage with the community.
 
 ### Is photography allowed?
-Photography is generally permitted, but visitors should be respectful, particularly during prayer times. It’s best to ask for permission if you wish to take photos of individuals.
+Photography is generally permitted, but visitors should be respectful, particularly during prayer times. It's best to ask for permission if you wish to take photos of individuals.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, as availability may vary and special arrangements might be offered during certain events.
@@ -95,7 +95,7 @@ Check the official website for information about guided tours, as availability m
 Visiting during community events or prayer times can offer a richer experience, but weekdays may be less crowded.
 
 ### Is it wheelchair accessible?
-While specific accessibility details aren't provided, many modern mosques strive to be inclusive. It’s recommended to check ahead for any accommodations.
+While specific accessibility details aren't provided, many modern mosques strive to be inclusive. It's recommended to check ahead for any accommodations.
 
 ### Can I buy tickets online?
 Entry to the mosque is typically free, but check the official website for any updates or special events that might require registration.
@@ -104,6 +104,6 @@ Entry to the mosque is typically free, but check the official website for any up
 Facilities may vary; check the official website for information on amenities available on-site.
 
 ### What should I wear?
-Modest clothing is expected. Visitors should dress in a way that is respectful of the mosque’s religious significance.
+Modest clothing is expected. Visitors should dress in a way that is respectful of the mosque's religious significance.
 
 For further details and the latest information, always check the official website before your visit.

@@ -38,7 +38,7 @@ The Natural History Central Library Dresden has become an essential institution 
 
 The library's significance is underscored by its role in preserving vast collections of literature related to natural history. This includes works on biology, geology, and environmental science that are crucial for both academic inquiry and public education. The library serves as a bridge between the scientific community and the general populace, making complex ideas accessible to a wider audience. This democratization of knowledge reflects the library's commitment to fostering an informed society.
 
-In addition to its collections, the Natural History Central Library also provides a venue for lectures, workshops, and community events. These initiatives highlight the library's dedication to not only being a repository of information but also a dynamic center for learning and discussion. Through these programs, the library contributes to the cultural fabric of Dresden, aligning itself with the city’s broader goals of education and community engagement.
+In addition to its collections, the Natural History Central Library also provides a venue for lectures, workshops, and community events. These initiatives highlight the library's dedication to not only being a repository of information but also a dynamic center for learning and discussion. Through these programs, the library contributes to the cultural fabric of Dresden, aligning itself with the city's broader goals of education and community engagement.
 
 ## Architecture and Features
 
@@ -54,7 +54,7 @@ Visiting the Natural History Central Library Dresden offers a unique opportunity
 
 Dresden is well-connected by public transport, making it accessible for both locals and tourists. Various modes of transportation, such as trams and buses, serve the area around the library, allowing visitors to reach their destination conveniently. Those traveling by car should be aware of parking options in the vicinity, as well as any regulations that may apply.
 
-When visiting, allocate sufficient time to explore the library’s collections and facilities. Depending on individual interests, a visit could last a few hours or an entire day. The best times to visit are typically weekdays when the library is less crowded, allowing for a more focused experience. 
+When visiting, allocate sufficient time to explore the library's collections and facilities. Depending on individual interests, a visit could last a few hours or an entire day. The best times to visit are typically weekdays when the library is less crowded, allowing for a more focused experience. 
 
 Visitors can expect to find a quiet environment ideal for reading and research. The library may also offer various resources, including computers and study rooms, catering to the diverse needs of its users. Overall, the experience is designed to be enriching and informative.
 
@@ -70,7 +70,7 @@ While the Natural History Central Library is a destination in its own right, the
 
 4. **Dresden Frauenkirche**: This iconic church, rebuilt after World War II, is a symbol of resilience and serves as a beautiful example of Protestant church architecture. Visitors can explore its interior and enjoy panoramic views from the dome.
 
-5. **Elbe River Promenade**: A scenic area for a leisurely stroll, the promenade along the Elbe River offers picturesque views of the city’s skyline and is perfect for a relaxed afternoon.
+5. **Elbe River Promenade**: A scenic area for a leisurely stroll, the promenade along the Elbe River offers picturesque views of the city's skyline and is perfect for a relaxed afternoon.
 
 ## Insider Tips
 

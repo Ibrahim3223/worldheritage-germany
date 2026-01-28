@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Alte Oper, a distinguished theatre building in Erfurt, Germany, serves as a vibrant hub for cultural events and artistic performances. This architectural gem not only enriches the city’s cultural landscape but also stands as a prominent venue for theatre, concerts, and various other events that attract both locals and tourists alike. Its strategic location in the heart of Erfurt makes it a significant point of interest for visitors exploring the historical and modern aspects of the city.
+The Alte Oper, a distinguished theatre building in Erfurt, Germany, serves as a vibrant hub for cultural events and artistic performances. This architectural gem not only enriches the city's cultural landscape but also stands as a prominent venue for theatre, concerts, and various other events that attract both locals and tourists alike. Its strategic location in the heart of Erfurt makes it a significant point of interest for visitors exploring the historical and modern aspects of the city.
 
-The allure of the Alte Oper extends beyond its function as a performance space; it embodies the artistic spirit of Erfurt and reflects the city’s commitment to cultural engagement. With its captivating performances and events, the Alte Oper promises to offer an enriching experience that can deepen your appreciation for the arts while enjoying the lively atmosphere of this historic venue.
+The allure of the Alte Oper extends beyond its function as a performance space; it embodies the artistic spirit of Erfurt and reflects the city's commitment to cultural engagement. With its captivating performances and events, the Alte Oper promises to offer an enriching experience that can deepen your appreciation for the arts while enjoying the lively atmosphere of this historic venue.
 
 ## History and Significance
 
-The history of the Alte Oper is intertwined with the cultural evolution of Erfurt, reflecting the city’s dynamic artistic scene. Originally established as a theatre, it has evolved over the years, adapting to the changing tastes and demands of its audience. The venue is notable for hosting a variety of performances, ranging from classical music concerts to modern theatrical productions, showcasing both local talent and international artists.
+The history of the Alte Oper is intertwined with the cultural evolution of Erfurt, reflecting the city's dynamic artistic scene. Originally established as a theatre, it has evolved over the years, adapting to the changing tastes and demands of its audience. The venue is notable for hosting a variety of performances, ranging from classical music concerts to modern theatrical productions, showcasing both local talent and international artists.
 
 Culturally, the Alte Oper plays an essential role in fostering creativity and artistic expression within the community. It serves as a platform for emerging artists and established performers alike, contributing to the rich cultural fabric of Erfurt. The theatre is not merely a building; it is a vibrant space where art, community, and tradition intersect, promoting cultural dialogue and appreciation through its diverse programming.
 
-Moreover, the Alte Oper has become a symbol of the city’s resilience and adaptability, particularly in the face of historical challenges. Its continued operation demonstrates the importance of cultural institutions in maintaining a vibrant community and providing a space for shared experiences.
+Moreover, the Alte Oper has become a symbol of the city's resilience and adaptability, particularly in the face of historical challenges. Its continued operation demonstrates the importance of cultural institutions in maintaining a vibrant community and providing a space for shared experiences.
 
 ## Architecture and Features
 
@@ -56,13 +56,13 @@ The best times to visit the Alte Oper align with the event calendar, particularl
 
 ## Nearby Attractions
 
-While visiting the Alte Oper, take the opportunity to explore other attractions in the vicinity that contribute to Erfurt’s cultural and historical significance:
+While visiting the Alte Oper, take the opportunity to explore other attractions in the vicinity that contribute to Erfurt's cultural and historical significance:
 
 1. **Erfurt Cathedral**: An iconic symbol of the city, the cathedral is renowned for its stunning Gothic architecture and significant historical role.
    
 2. **Zitadelle Petersberg**: This well-preserved fortress offers insight into the military history of Erfurt and captivating views of the city.
 
-3. **Krämerbrücke**: One of Germany’s most famous medieval bridges lined with charming shops and cafés, perfect for leisurely strolls.
+3. **Krämerbrücke**: One of Germany's most famous medieval bridges lined with charming shops and cafés, perfect for leisurely strolls.
 
 4. **Augustinerkloster**: A former monastery that played a crucial role in the life of Martin Luther, it now serves as a museum and cultural site.
 
@@ -86,7 +86,7 @@ If you are attending a performance, remember to check the dress code, as some ev
 A visit can last a couple of hours, especially if you attend a performance. Consider arriving early to enjoy the venue.
 
 ### Is photography allowed?
-Photography policies vary by event. It’s best to check specific event guidelines or inquire at the venue.
+Photography policies vary by event. It's best to check specific event guidelines or inquire at the venue.
 
 ### Are there guided tours?
 Guided tours may be available, but specifics can vary. Check the official website for current offerings.
@@ -104,4 +104,4 @@ Tickets can typically be purchased online through the official website. It's adv
 Facilities are available on-site, including restrooms. Cafés may also be present, offering refreshments before or after performances.
 
 ### What should I wear?
-Dress codes can vary by event. It’s advisable to check for any specific attire recommendations related to the performance you plan to attend.
+Dress codes can vary by event. It's advisable to check for any specific attire recommendations related to the performance you plan to attend.

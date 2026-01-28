@@ -28,7 +28,7 @@ image_srcset:
 
 The Autobahnkirche RUHR offers a unique blend of spirituality and modernity, serving as both a place of worship and a sanctuary for travelers navigating the highways of Germany. Located in Bochum, North Rhine-Westphalia, this church is situated within a bustling region known for its industrial heritage and cultural vibrancy. As a church building specifically designed for those on the move, it invites weary travelers to pause, reflect, and rejuvenate amid the fast pace of life on the autobahn. 
 
-The significance of Autobahnkirche RUHR extends beyond its architectural features; it represents a contemporary approach to religious spaces, accommodating the needs of a diverse community. Whether you’re a local resident or a traveler passing through, this church provides a welcoming atmosphere that invites contemplation and connection. Visitors can expect to encounter a space that harmonizes the sacred with the practical, making it a noteworthy stop on any journey through Germany's heartland.
+The significance of Autobahnkirche RUHR extends beyond its architectural features; it represents a contemporary approach to religious spaces, accommodating the needs of a diverse community. Whether you're a local resident or a traveler passing through, this church provides a welcoming atmosphere that invites contemplation and connection. Visitors can expect to encounter a space that harmonizes the sacred with the practical, making it a noteworthy stop on any journey through Germany's heartland.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ The church's exterior may reflect modern building materials and design principle
 
 ## Visiting Information
 
-Visiting Autobahnkirche RUHR is an experience that can enrich your journey, offering a moment of respite along one of Germany’s major transportation routes. For those planning a visit, transport options are generally accessible, given the church’s strategic location near the autobahn.
+Visiting Autobahnkirche RUHR is an experience that can enrich your journey, offering a moment of respite along one of Germany's major transportation routes. For those planning a visit, transport options are generally accessible, given the church's strategic location near the autobahn.
 
 Visitors should check the official website for current information regarding opening hours and any potential entrance fees that may apply. The church is designed to be welcoming to all, and you can expect a tranquil atmosphere conducive to reflection or quiet contemplation. 
 
@@ -60,7 +60,7 @@ When planning your visit, consider that the church may host special services or 
 
 The Bochum region is rich in attractions that complement a visit to Autobahnkirche RUHR. Here are a few nearby points of interest:
 
-1. **German Mining Museum Bochum**: This museum offers a comprehensive look into the history of coal mining in the Ruhr area, showcasing artifacts and exhibitions that highlight the industry’s significance to the region.
+1. **German Mining Museum Bochum**: This museum offers a comprehensive look into the history of coal mining in the Ruhr area, showcasing artifacts and exhibitions that highlight the industry's significance to the region.
 
 2. **Starlight Express**: A unique musical experience featuring roller-skating performers, this production is a must-see for visitors interested in theatrical arts.
 
@@ -105,7 +105,7 @@ The church is designed to be accessible, but specific features may vary. It is a
 Check the official website for any ticketing information or special events that may require pre-booking.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s best to check the official site for details on amenities.
+Facilities may vary; it's best to check the official site for details on amenities.
 
 ### What should I wear?
 Dress comfortably and consider the weather, as you may be traveling before or after your visit.

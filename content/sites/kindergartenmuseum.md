@@ -75,7 +75,7 @@ Bringing along a water bottle or light snacks can be helpful, especially for fam
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Most visitors find that one to two hours is sufficient to explore the museum’s exhibits and participate in activities.
+Most visitors find that one to two hours is sufficient to explore the museum's exhibits and participate in activities.
 
 ### Is photography allowed?
 Photography policies may vary, so it's best to check with museum staff or signage upon arrival for any restrictions.

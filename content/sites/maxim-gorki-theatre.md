@@ -76,7 +76,7 @@ To make the most of your visit to the Maxim Gorki Theatre, consider the followin
 
 - **Crowd Avoidance**: If you prefer a more intimate experience, consider attending weekday performances, as they tend to attract smaller audiences compared to weekend shows.
 
-- **Dining Options**: Nearby restaurants and cafes can fill up quickly before performances, so it’s a good idea to make dining plans in advance or arrive early to enjoy a meal.
+- **Dining Options**: Nearby restaurants and cafes can fill up quickly before performances, so it's a good idea to make dining plans in advance or arrive early to enjoy a meal.
 
 ## Practical Information
 

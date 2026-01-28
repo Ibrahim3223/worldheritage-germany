@@ -66,7 +66,7 @@ The best times to visit St. Martin's Chapel are during weekdays or early in the 
 
 4. **Haus der 1000 Uhren**: This unique shop in Furtwangen features an extensive collection of clocks, representing the region's heritage and craftsmanship.
 
-5. **Black Forest Open Air Museum**: A bit further away, this museum presents traditional Black Forest architecture and lifestyle, providing a deeper understanding of the region’s cultural history.
+5. **Black Forest Open Air Museum**: A bit further away, this museum presents traditional Black Forest architecture and lifestyle, providing a deeper understanding of the region's cultural history.
 
 ## Insider Tips
 
@@ -95,13 +95,13 @@ Information about guided tours may vary. It is advisable to check the official w
 Weekdays or early mornings are recommended for fewer crowds. The surrounding nature is particularly beautiful in spring and autumn.
 
 ### Is it wheelchair accessible?  
-Accessibility information is not specified. It’s best to check with the official website or local resources for detailed accessibility options.
+Accessibility information is not specified. It's best to check with the official website or local resources for detailed accessibility options.
 
 ### Can I buy tickets online?  
 Ticketing information may vary. Check the official website for current details regarding ticket purchases.
 
 ### Are there restrooms and cafes?  
-Restroom facilities may be limited. It’s advisable to explore nearby options in the town for dining and refreshment.
+Restroom facilities may be limited. It's advisable to explore nearby options in the town for dining and refreshment.
 
 ### What should I wear?  
 Dress comfortably and consider wearing layers, especially if visiting during cooler months. Modest attire is recommended as it is a place of worship.

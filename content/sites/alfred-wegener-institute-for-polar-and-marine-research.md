@@ -70,7 +70,7 @@ The best times to visit may align with specific public events or exhibitions tha
 
 For photography enthusiasts, the institute's exterior and its surrounding environment can provide interesting subjects. However, be mindful of any restrictions regarding photography inside the facility. To avoid crowds, consider visiting during weekdays or earlier in the day.
 
-If you’re interested in particular exhibits or research topics, check the official website in advance to plan your visit accordingly. Engaging with staff members can also yield fascinating insights and enhance your experience.
+If you're interested in particular exhibits or research topics, check the official website in advance to plan your visit accordingly. Engaging with staff members can also yield fascinating insights and enhance your experience.
 
 ## Practical Information
 

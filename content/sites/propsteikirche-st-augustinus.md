@@ -28,7 +28,7 @@ image_srcset:
 
 Propsteikirche St. Augustinus is an esteemed church building located in Gelsenkirchen, Germany. This architectural gem serves as both a spiritual haven and a cultural cornerstone within the community. Known for its striking design and historical significance, the church attracts visitors seeking both solace and insight into the region's religious heritage. 
 
-Gelsenkirchen, situated in the heart of the Ruhr area, has undergone significant transformation over the years, evolving from an industrial hub to a vibrant urban center. The church not only represents a place of worship but also stands as a testament to the resilience and continuity of faith in the area. Visitors to Propsteikirche St. Augustinus can expect an enriching experience that blends spiritual reflection with an appreciation for the church’s architectural beauty.
+Gelsenkirchen, situated in the heart of the Ruhr area, has undergone significant transformation over the years, evolving from an industrial hub to a vibrant urban center. The church not only represents a place of worship but also stands as a testament to the resilience and continuity of faith in the area. Visitors to Propsteikirche St. Augustinus can expect an enriching experience that blends spiritual reflection with an appreciation for the church's architectural beauty.
 
 ## History and Significance
 

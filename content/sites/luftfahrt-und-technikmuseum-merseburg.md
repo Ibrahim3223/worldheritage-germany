@@ -74,7 +74,7 @@ To make the most of your visit to the Luftfahrt- und Technikmuseum Merseburg, co
 
 ## Practical Information
 
-When visiting the Luftfahrt- und Technikmuseum Merseburg, it’s essential to come prepared. Here are some practical considerations:
+When visiting the Luftfahrt- und Technikmuseum Merseburg, it's essential to come prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you will be exploring various exhibits. Consider bringing a water bottle and snacks, especially for family visits.
 

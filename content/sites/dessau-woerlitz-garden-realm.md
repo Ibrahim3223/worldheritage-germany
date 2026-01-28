@@ -90,7 +90,7 @@ To enhance your visit to the Dessau-Wörlitz Garden Realm, consider these inside
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting on weekdays or during the shoulder seasons of spring and autumn. This will allow for a more peaceful experience as you explore the landscape.
 
-- **Planning Your Route**: Familiarize yourself with a map of the Garden Realm before your visit. Identifying key points of interest can help you make the most of your time and ensure you don’t miss any highlights.
+- **Planning Your Route**: Familiarize yourself with a map of the Garden Realm before your visit. Identifying key points of interest can help you make the most of your time and ensure you don't miss any highlights.
 
 ## Practical Information
 

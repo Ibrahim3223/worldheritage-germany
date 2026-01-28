@@ -56,7 +56,7 @@ While in Ochsenfurt, there are several nearby attractions that can enhance your 
 
 1. **Ochsenfurt Old Town**: Stroll through the medieval streets of Ochsenfurt, where you can admire well-preserved buildings and historical landmarks.
 
-2. **St. Andrew’s Church**: This impressive Gothic church features magnificent architecture and beautiful stained glass, offering insight into the region's religious heritage.
+2. **St. Andrew's Church**: This impressive Gothic church features magnificent architecture and beautiful stained glass, offering insight into the region's religious heritage.
 
 3. **Kreuzgang**: The former monastery complex provides a glimpse into the monastic life that once thrived in the area, with tranquil gardens and historical architecture.
 

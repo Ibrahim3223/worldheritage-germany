@@ -86,9 +86,9 @@ When visiting the Springe-Gestorf Jewish Cemetery, keep in mind a few insider ti
 
 When planning your visit to the Springe-Gestorf Jewish Cemetery, consider the following practical information:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as the cemetery may have uneven ground. Bringing a camera can be beneficial for capturing the site’s essence.
+- **What to Bring**: Comfortable walking shoes are recommended, as the cemetery may have uneven ground. Bringing a camera can be beneficial for capturing the site's essence.
 
-- **Seasonal Considerations**: The site may be less accessible during inclement weather. It’s advisable to check the forecast before your visit to ensure a comfortable experience.
+- **Seasonal Considerations**: The site may be less accessible during inclement weather. It's advisable to check the forecast before your visit to ensure a comfortable experience.
 
 - **Respectful Conduct**: As a memorial site, maintaining a respectful demeanor is essential. Be mindful of your surroundings and the significance of the location.
 

@@ -50,7 +50,7 @@ Notable features may include areas dedicated to specific aspects of the Peasants
 
 ## Visiting Information
 
-To visit the Bauernkriegsmuseum, travelers can take advantage of various transport options available in Böblingen. The museum’s location is easily accessible, making it a convenient stop for those exploring the region. As hours of operation and ticket prices may vary, it is advisable to check the official website for current information before planning your visit.
+To visit the Bauernkriegsmuseum, travelers can take advantage of various transport options available in Böblingen. The museum's location is easily accessible, making it a convenient stop for those exploring the region. As hours of operation and ticket prices may vary, it is advisable to check the official website for current information before planning your visit.
 
 Visitors should expect to spend a few hours at the museum to fully engage with the exhibits and absorb the historical content. The museum is designed to accommodate a range of audiences and typically encourages a leisurely exploration of its materials.
 
@@ -94,7 +94,7 @@ A visit typically takes a few hours, allowing ample time to explore the exhibits
 
 ### Is photography allowed?
 
-Photography policies may vary, so it’s recommended to check with the museum upon arrival regarding any restrictions.
+Photography policies may vary, so it's recommended to check with the museum upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 
@@ -106,7 +106,7 @@ Visiting during weekdays or early in the day is advisable to avoid larger crowds
 
 ### Is it wheelchair accessible?
 
-For accessibility details, it’s best to consult the official website prior to your visit.
+For accessibility details, it's best to consult the official website prior to your visit.
 
 ### Can I buy tickets online?
 

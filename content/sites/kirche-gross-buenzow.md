@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kirche Groß Bünzow is a noteworthy church building located in the peaceful region of Klein Bünzow, Germany. With its serene surroundings and historical significance, this church serves as a focal point for both local residents and visitors interested in the area’s cultural heritage. The structure stands not only as a place of worship but also as a repository of the community's history, reflecting the architectural styles and spiritual practices that have shaped the region over the centuries. 
+Kirche Groß Bünzow is a noteworthy church building located in the peaceful region of Klein Bünzow, Germany. With its serene surroundings and historical significance, this church serves as a focal point for both local residents and visitors interested in the area's cultural heritage. The structure stands not only as a place of worship but also as a repository of the community's history, reflecting the architectural styles and spiritual practices that have shaped the region over the centuries. 
 
 Visitors to Kirche Groß Bünzow can expect a blend of tranquility and reflection, with opportunities to appreciate both its architectural features and the surrounding landscape. Whether you are a history enthusiast, an architecture lover, or simply seeking a peaceful retreat, this site offers a unique glimpse into the spiritual and cultural fabric of its locality.
 
@@ -95,7 +95,7 @@ A visit typically lasts between 30 minutes to an hour, depending on your level o
 Photography policies may vary; check with onsite staff or available signage to confirm if it is permitted during your visit.
 
 ### Are there guided tours?
-Information about guided tours may be available through local tourism offices or the church’s official website. 
+Information about guided tours may be available through local tourism offices or the church's official website. 
 
 ### What's the best time to visit?
 Daylight hours are ideal for visiting, particularly to appreciate the church's interior and exterior features.
@@ -107,7 +107,7 @@ Accessibility features may vary; check the official website or contact local ser
 Ticket purchasing options may vary. For the latest information, check the official website.
 
 ### Are there restrooms and cafes?
-Nearby facilities may be limited; it’s advisable to plan accordingly or check local resources for options.
+Nearby facilities may be limited; it's advisable to plan accordingly or check local resources for options.
 
 ### What should I wear?
 Wear respectful attire suitable for a place of worship, and consider seasonal weather conditions when dressing for your visit. 

@@ -54,9 +54,9 @@ Overall, the architecture and features of Wendish Tower encapsulate the essence 
 
 Visiting Wendish Tower offers an enriching experience for history enthusiasts and casual travelers alike. To reach the tower, visitors can utilize various modes of transportation available in Bautzen. The city is accessible by train, bus, and car, making it convenient to explore this historic location.
 
-When planning a visit, it’s essential to check the official website for current information regarding hours of operation and ticket prices. This ensures that you have the most accurate details before embarking on your journey. 
+When planning a visit, it's essential to check the official website for current information regarding hours of operation and ticket prices. This ensures that you have the most accurate details before embarking on your journey. 
 
-Typically, guests can expect to spend around an hour exploring the tower and its surroundings. This timeframe allows for ample opportunity to appreciate both the architectural features and the historical context of the site. For those who wish to immerse themselves further in the local culture, consider allocating additional time to wander through Bautzen’s charming streets, where other historical sites await.
+Typically, guests can expect to spend around an hour exploring the tower and its surroundings. This timeframe allows for ample opportunity to appreciate both the architectural features and the historical context of the site. For those who wish to immerse themselves further in the local culture, consider allocating additional time to wander through Bautzen's charming streets, where other historical sites await.
 
 The best times to visit Wendish Tower are during the spring and early fall months when the weather is generally mild, allowing for comfortable exploration. However, the tower's significance draws visitors year-round, each season offering a distinct atmosphere.
 

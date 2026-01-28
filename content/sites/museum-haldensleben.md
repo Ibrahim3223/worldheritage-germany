@@ -38,7 +38,7 @@ Museum Haldensleben is housed in a structure that reflects the architectural sty
 
 Inside, the museum features a variety of exhibits showcasing artifacts that represent the local culture and history. These displays not only highlight tangible items but also incorporate multimedia elements that enrich the storytelling aspect of the exhibitions. The arrangement of artifacts is thoughtfully considered to guide visitors through various themes and narratives, making the experience both educational and immersive.
 
-While the museum’s specific features may vary, the focus remains on creating an environment that is welcoming and informative. Visitors can expect well-organized exhibits that encourage exploration and curiosity about the region's past. The overall atmosphere of Museum Haldensleben is one that fosters appreciation for local heritage, making it a significant stop for anyone interested in the history of this vibrant community.
+While the museum's specific features may vary, the focus remains on creating an environment that is welcoming and informative. Visitors can expect well-organized exhibits that encourage exploration and curiosity about the region's past. The overall atmosphere of Museum Haldensleben is one that fosters appreciation for local heritage, making it a significant stop for anyone interested in the history of this vibrant community.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ Museum Haldensleben is designed to accommodate a diverse audience, making it a s
 
 While visiting Museum Haldensleben, several nearby attractions can enhance your cultural experience:
 
-1. **St. Jacob’s Church**: An architectural marvel known for its stunning stained glass and historical significance, this church is a must-see for those interested in local history and architecture.
+1. **St. Jacob's Church**: An architectural marvel known for its stunning stained glass and historical significance, this church is a must-see for those interested in local history and architecture.
 
 2. **Haldensleben Town Hall**: A charming building that reflects the town's historical development and serves as a hub for local events and activities.
 
@@ -86,7 +86,7 @@ When preparing for your visit to Museum Haldensleben, here are a few practical c
 A visit can typically last anywhere from 1 to 3 hours, depending on your level of interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum's guidelines upon arrival.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours, but availability can depend on the day and season. Check the official website for more details.

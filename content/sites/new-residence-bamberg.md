@@ -3,7 +3,7 @@ title: "New Residence, Bamberg"
 site_name: "New Residence, Bamberg"
 date: 2026-01-26
 draft: false
-description: "The New Residence in Bamberg is a remarkable cultural heritage monument that encapsulates the grandeur of Bavaria’s architectural history."
+description: "The New Residence in Bamberg is a remarkable cultural heritage monument that encapsulates the grandeur of Bavaria's architectural history."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Palace"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The New Residence in Bamberg is a remarkable cultural heritage monument that encapsulates the grandeur of Bavaria’s architectural history. This stunning palace, located in the heart of Bamberg, Germany, offers visitors a glimpse into the life of the prince-bishops who once ruled the region. With its elegant façade and richly decorated interiors, the New Residence serves as both an artistic masterpiece and a historical landmark that tells the story of Bamberg's ecclesiastical past.
+The New Residence in Bamberg is a remarkable cultural heritage monument that encapsulates the grandeur of Bavaria's architectural history. This stunning palace, located in the heart of Bamberg, Germany, offers visitors a glimpse into the life of the prince-bishops who once ruled the region. With its elegant façade and richly decorated interiors, the New Residence serves as both an artistic masterpiece and a historical landmark that tells the story of Bamberg's ecclesiastical past.
 
-Situated within a UNESCO World Heritage Site, the New Residence holds a significant place in the cultural landscape of southern Germany. As you approach this regal establishment, you are greeted by its impressive architecture, which reflects the power and prestige of the prince-bishops of Bamberg. The palace not only functions as a testament to the city’s past but also as a vibrant center for cultural activities today. Visitors can expect to immerse themselves in a setting that is steeped in tradition while enjoying various exhibitions and events that bring the palace to life.
+Situated within a UNESCO World Heritage Site, the New Residence holds a significant place in the cultural landscape of southern Germany. As you approach this regal establishment, you are greeted by its impressive architecture, which reflects the power and prestige of the prince-bishops of Bamberg. The palace not only functions as a testament to the city's past but also as a vibrant center for cultural activities today. Visitors can expect to immerse themselves in a setting that is steeped in tradition while enjoying various exhibitions and events that bring the palace to life.
 
 Whether you are an architecture enthusiast, a history buff, or simply someone looking to experience the charm of Bamberg, the New Residence offers a captivating experience that will leave a lasting impression.
 
@@ -66,11 +66,11 @@ Bamberg is a city rich in history and charm, and several nearby attractions comp
 
 1. **Bamberg Cathedral**: This magnificent church is known for its stunning Romanesque architecture and impressive twin towers. It is a must-see for those interested in ecclesiastical history.
 
-2. **Alte Hofhaltung**: Just a short walk from the New Residence, this former bishop's palace features beautiful courtyards and gardens, offering a glimpse into Bamberg’s past.
+2. **Alte Hofhaltung**: Just a short walk from the New Residence, this former bishop's palace features beautiful courtyards and gardens, offering a glimpse into Bamberg's past.
 
 3. **Little Venice**: A picturesque area of the city characterized by its charming canals and half-timbered houses. It provides a scenic backdrop for leisurely strolls.
 
-4. **Historical Museum Bamberg**: Located in a former monastery, this museum showcases the city’s history through a diverse range of artifacts and exhibits.
+4. **Historical Museum Bamberg**: Located in a former monastery, this museum showcases the city's history through a diverse range of artifacts and exhibits.
 
 5. **Old Town Hall**: This iconic building, situated on an island in the river, is known for its striking façade and fascinating history. Its unique location makes it a popular photo spot.
 

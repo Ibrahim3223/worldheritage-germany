@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Kriegssoll, situated in the picturesque region of Fehmarn, Germany, is a memorial that serves as a poignant reminder of the events that have shaped the area’s history. This solemn site invites visitors to reflect on the past, offering a space for contemplation and remembrance. The memorial’s location provides a backdrop that connects the historical significance of the place with the natural beauty of the surrounding landscape. While Kriegssoll may not be widely known, its importance as a memorial in the region cannot be understated, representing the collective memory of those who have experienced conflict.
+Kriegssoll, situated in the picturesque region of Fehmarn, Germany, is a memorial that serves as a poignant reminder of the events that have shaped the area's history. This solemn site invites visitors to reflect on the past, offering a space for contemplation and remembrance. The memorial's location provides a backdrop that connects the historical significance of the place with the natural beauty of the surrounding landscape. While Kriegssoll may not be widely known, its importance as a memorial in the region cannot be understated, representing the collective memory of those who have experienced conflict.
 
-Visitors to Kriegssoll can expect an atmosphere of tranquility, making it an ideal spot for those seeking to understand more about the historical nuances of the area. Whether you’re a history enthusiast or simply looking to pay your respects, this memorial promises a meaningful experience amidst the serene environment of Fehmarn.
+Visitors to Kriegssoll can expect an atmosphere of tranquility, making it an ideal spot for those seeking to understand more about the historical nuances of the area. Whether you're a history enthusiast or simply looking to pay your respects, this memorial promises a meaningful experience amidst the serene environment of Fehmarn.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When planning a visit to Kriegssoll, it’s advisable to wear comfortable clothing and footwear, as the experience may involve walking around the memorial and its surroundings. 
+When planning a visit to Kriegssoll, it's advisable to wear comfortable clothing and footwear, as the experience may involve walking around the memorial and its surroundings. 
 
 Seasonal considerations include preparing for variable weather conditions, especially during the winter months when temperatures can drop. Bringing layers and a light raincoat may be beneficial for those visiting during unpredictable weather periods.
 

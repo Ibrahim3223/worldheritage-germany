@@ -52,7 +52,7 @@ Accessing the Annener Gußstahlwerk concentration camp is relatively straightfor
 
 Before planning your visit, it is advisable to check the official website for current information on opening hours, admission prices, and any guided tours that may be offered. The experience at the camp can be quite emotional, so it is recommended to allocate sufficient time for your visit—at least a few hours—to fully absorb the historical narratives and reflect on the significance of the site.
 
-The best times to visit are during the spring and autumn months when the weather is generally mild, making it more comfortable for exploration. However, visitors are welcome throughout the year, with each season offering a different perspective on the site’s solemnity.
+The best times to visit are during the spring and autumn months when the weather is generally mild, making it more comfortable for exploration. However, visitors are welcome throughout the year, with each season offering a different perspective on the site's solemnity.
 
 ## Nearby Attractions
 
@@ -72,13 +72,13 @@ Exploring Witten and the surrounding region can enrich your visit to the Annener
 
 When visiting the Annener Gußstahlwerk, it's crucial to approach the experience with respect and mindfulness. Given the site's historical significance, visitors may want to consider the following tips:
 
-- **Photography**: While photography may be allowed, be sensitive to the site’s nature. Capturing images of the memorials or places of remembrance should be done thoughtfully, respecting the memories of those who suffered.
+- **Photography**: While photography may be allowed, be sensitive to the site's nature. Capturing images of the memorials or places of remembrance should be done thoughtfully, respecting the memories of those who suffered.
 
 - **Crowd Avoidance**: To experience the site with greater solitude, consider visiting during weekdays or in the early morning. This can enhance your reflection time and allow for a more personal engagement with the history.
 
 ## Practical Information
 
-Before heading to the Annener Gußstahlwerk concentration camp, it’s important to prepare accordingly. Here are some practical tips for your visit:
+Before heading to the Annener Gußstahlwerk concentration camp, it's important to prepare accordingly. Here are some practical tips for your visit:
 
 - **What to Bring**: Comfortable walking shoes are essential, as the site may require some walking. Additionally, bring water and light snacks, as facilities may be limited.
 
@@ -95,7 +95,7 @@ A visit typically requires a few hours to fully engage with the history and refl
 Photography might be permitted, but it is important to be respectful, particularly in memorial areas.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide deeper insights into the site’s history.
+Check the official website for information on guided tours, which can provide deeper insights into the site's history.
 
 ### What's the best time to visit?
 Spring and autumn are ideal for comfortable exploring, but the site is open year-round.

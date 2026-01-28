@@ -88,7 +88,7 @@ Check the weather forecast before your trip, as conditions can influence accessi
 A visit to Ofnethöhlen typically takes around two to four hours, depending on your pace and interest in exploring different areas of the caves.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s considerate to respect other visitors and the natural environment.
+Photography is generally permitted, but it's considerate to respect other visitors and the natural environment.
 
 ### Are there guided tours?
 Yes, guided tours are available, providing valuable insights into the geology and history of the caves.

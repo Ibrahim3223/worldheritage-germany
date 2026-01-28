@@ -42,7 +42,7 @@ The monument itself serves as an educational resource, inviting visitors to lear
 
 The Cranach Monument features intricate design elements that reflect the style of the Renaissance period. While specific architectural details are not outlined, it is common for monuments of this nature to incorporate classical motifs and symbolism. Visitors can expect to see representations that may include figures or elements significant to Cranach's life and work, encapsulating the essence of his artistic vision.
 
-The monument's construction materials and overall form likely align with the historical context of Eisenach, blending seamlessly with the city’s architectural landscape. The monument is designed not only to honor Cranach but also to be a part of the urban fabric of Eisenach, encouraging visitors to pause and reflect on the impact of the artist.
+The monument's construction materials and overall form likely align with the historical context of Eisenach, blending seamlessly with the city's architectural landscape. The monument is designed not only to honor Cranach but also to be a part of the urban fabric of Eisenach, encouraging visitors to pause and reflect on the impact of the artist.
 
 Surrounding elements may include landscaping that enhances the monument's visibility and accessibility, creating a serene environment for contemplation. The design aims to draw attention to both Cranach's artistic genius and the historical significance of the location itself.
 
@@ -64,7 +64,7 @@ Eisenach is replete with attractions that complement a visit to the Cranach Monu
 
 3. **St. George's Church**: A historic church in the heart of Eisenach, known for its beautiful architecture and significance in the Protestant Reformation.
 
-4. **Luther House**: This museum offers insights into Martin Luther’s life and the Reformation's impact, making it a valuable visit for those interested in religious history.
+4. **Luther House**: This museum offers insights into Martin Luther's life and the Reformation's impact, making it a valuable visit for those interested in religious history.
 
 5. **Eisenach Market Square**: The vibrant heart of the city, where visitors can enjoy local cuisine and shop for crafts, all while surrounded by historical buildings.
 

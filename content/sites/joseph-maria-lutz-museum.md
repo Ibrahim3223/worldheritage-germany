@@ -92,7 +92,7 @@ Visitors typically spend a few hours exploring the museum, though this can vary 
 
 ### Is photography allowed?
 
-Photography policies can differ by exhibition. Check the museum’s guidelines upon arrival to understand what is permitted.
+Photography policies can differ by exhibition. Check the museum's guidelines upon arrival to understand what is permitted.
 
 ### Are there guided tours?
 
@@ -112,7 +112,7 @@ Ticket purchasing options may vary, so it is advisable to check the official web
 
 ### Are there restrooms and cafes?
 
-Amenities such as restrooms and possibly a café can enhance your visit; check the museum’s facilities for specifics.
+Amenities such as restrooms and possibly a café can enhance your visit; check the museum's facilities for specifics.
 
 ### What should I wear?
 

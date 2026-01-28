@@ -40,7 +40,7 @@ Exploring the church offers an opportunity to understand the historical context 
 
 ## Architecture and Features
 
-St. Evergislus presents a noteworthy example of church architecture that reflects both functionality and aesthetic appeal. While specific architectural styles and details are not outlined, the church building is likely characterized by traditional elements common to many German churches. Visitors will appreciate the craftsmanship and design that contribute to the building’s overall presence.
+St. Evergislus presents a noteworthy example of church architecture that reflects both functionality and aesthetic appeal. While specific architectural styles and details are not outlined, the church building is likely characterized by traditional elements common to many German churches. Visitors will appreciate the craftsmanship and design that contribute to the building's overall presence.
 
 As you approach St. Evergislus, the exterior may showcase features such as stone masonry, stained glass windows, and a steeple that enhances its silhouette against the sky. These elements are not only visually appealing but also serve to create a spiritual atmosphere that resonates with visitors. Inside, the layout of the church may be designed to facilitate worship, with a nave that accommodates congregants and areas designated for various religious rites.
 
@@ -74,7 +74,7 @@ These attractions complement a visit to St. Evergislus and provide further oppor
 
 To make the most of your visit to St. Evergislus, consider a few insider tips. For photography enthusiasts, the church's exterior provides ample opportunities for capturing its architectural details, especially during the golden hours of sunrise or sunset. If you wish to avoid larger crowds, visiting during weekdays or outside of service times may offer a more tranquil experience.
 
-Additionally, consider bringing a small guidebook or making notes about the church’s history and significance. This can enhance your understanding and appreciation of what you see. Engaging with the local community or church representatives, if available, may also provide unique insights into the church’s role in the lives of its congregants.
+Additionally, consider bringing a small guidebook or making notes about the church's history and significance. This can enhance your understanding and appreciation of what you see. Engaging with the local community or church representatives, if available, may also provide unique insights into the church's role in the lives of its congregants.
 
 ## Practical Information
 

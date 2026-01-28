@@ -28,7 +28,7 @@ image_srcset:
 
 Erinnerungsort Topf & Söhne serves as a poignant reminder of a dark chapter in history, situated in the heart of Erfurt, Germany. This museum is dedicated to the legacy of the Topf & Söhne company, known for its role in the construction of crematoria used during the Holocaust. By examining the intersection of industry and morality, the museum aims to provoke reflection on historical accountability and the implications of complicity in systemic injustice. 
 
-Located at coordinates 50.9723, 11.0487, this museum serves not only as a site of education but also as a place for remembrance and contemplation. Visitors can expect to engage with a narrative that intertwines the stories of victims and perpetrators, offering insights into human behavior in the face of moral dilemmas. The museum’s significance extends beyond its walls, as it contributes to ongoing discussions about ethics, memory, and responsibility in contemporary society.
+Located at coordinates 50.9723, 11.0487, this museum serves not only as a site of education but also as a place for remembrance and contemplation. Visitors can expect to engage with a narrative that intertwines the stories of victims and perpetrators, offering insights into human behavior in the face of moral dilemmas. The museum's significance extends beyond its walls, as it contributes to ongoing discussions about ethics, memory, and responsibility in contemporary society.
 
 ## History and Significance 
 
@@ -44,7 +44,7 @@ The design of Erinnerungsort Topf & Söhne reflects its somber mission. The muse
 
 Inside, the museum features a variety of exhibits that utilize multimedia presentations, artifacts, and written narratives to convey its message. Visitors can expect well-curated displays that guide them through the complex history associated with Topf & Söhne. The arrangement of exhibits is designed to provoke thought and encourage deep reflection on the themes presented.
 
-The museum’s layout facilitates a journey through different aspects of the company’s operations and its impact on society. It creates an environment that encourages visitors to engage not just with history but also with ethical considerations relevant to their own lives.
+The museum's layout facilitates a journey through different aspects of the company's operations and its impact on society. It creates an environment that encourages visitors to engage not just with history but also with ethical considerations relevant to their own lives.
 
 ## Visiting Information 
 
@@ -86,7 +86,7 @@ Seasonal considerations should also be taken into account. If visiting in colder
 It is recommended to spend approximately 1.5 to 2 hours at the museum to fully appreciate the exhibits and engage with the narratives.
 
 ### Is photography allowed?
-Photography policies can vary, so it is best to check the museum’s guidelines upon arrival.
+Photography policies can vary, so it is best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may offer additional insights and context.

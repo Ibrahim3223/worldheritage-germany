@@ -76,11 +76,11 @@ While the Sackmuseum is a highlight of Nieheim, several nearby attractions can f
 
 To make the most of your visit to the Sackmuseum, consider these insider tips:
 
-- **Photography**: While many museums allow photography, it’s best to check for restrictions before snapping pictures, especially in exhibit areas.
+- **Photography**: While many museums allow photography, it's best to check for restrictions before snapping pictures, especially in exhibit areas.
   
 - **Crowd Avoidance**: If possible, schedule your visit during weekday mornings or late afternoons to enjoy a quieter experience and have more space to explore the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights about the exhibits; they often have valuable knowledge that can enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights about the exhibits; they often have valuable knowledge that can enhance your visit.
 
 ## Practical Information
 

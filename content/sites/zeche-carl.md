@@ -72,7 +72,7 @@ While visiting Zeche Carl, consider exploring some nearby attractions that furth
 
 If you're planning a visit to Zeche Carl, here are some insider tips to enhance your experience:
 
-- **Photography**: The industrial architecture provides an excellent backdrop for photography. Early mornings or late afternoons can offer better lighting conditions, especially if you want to capture the site’s unique features.
+- **Photography**: The industrial architecture provides an excellent backdrop for photography. Early mornings or late afternoons can offer better lighting conditions, especially if you want to capture the site's unique features.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or during off-peak hours. Special events may attract more visitors, so check the schedule on the official website.
 
@@ -90,7 +90,7 @@ When preparing for your visit to Zeche Carl, it's essential to consider a few pr
 A visit to Zeche Carl typically requires a few hours, especially if you plan to engage with exhibitions or participate in guided tours.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check specific guidelines upon arrival, especially during events.
+Photography is generally permitted, but it's advisable to check specific guidelines upon arrival, especially during events.
 
 ### Are there guided tours?
 Guided tours are often available, providing deeper insights into the history and significance of the site. Check the official website for scheduling.

@@ -46,7 +46,7 @@ Visitors exploring the church will find not only a place of spiritual significan
 
 Dreifaltigkeitskirche is characterized by its traditional church architecture, which reflects the stylistic elements common in many Bavarian churches. The exterior features a simple yet elegant façade, demonstrating a commitment to functionality and reverence. The design likely incorporates local materials, emphasizing a sense of place and belonging within the community.
 
-As one approaches the church, its architectural lines guide the eye upward, creating a sense of aspiration that invites contemplation. The structure’s roof may exhibit the characteristic slopes seen in many churches in the region, while the windows allow natural light to illuminate the interior, enhancing the spiritual ambiance.
+As one approaches the church, its architectural lines guide the eye upward, creating a sense of aspiration that invites contemplation. The structure's roof may exhibit the characteristic slopes seen in many churches in the region, while the windows allow natural light to illuminate the interior, enhancing the spiritual ambiance.
 
 Inside, visitors may find a serene atmosphere, with elements that invite reflection and prayer. The church's layout typically includes a nave, side aisles, and an altar area, following the traditional design found in many ecclesiastical buildings. Decorative features, if present, may include artwork or furnishings that reflect the local religious heritage and artistic traditions.
 
@@ -97,13 +97,13 @@ A visit typically lasts about an hour, but you may want to stay longer if you wi
 While photography is generally permitted, always respect any signage regarding photography within the church, especially during services.
 
 ### Are there guided tours?
-Check the official website for information regarding any available guided tours that may enhance your understanding of the church’s history and architecture.
+Check the official website for information regarding any available guided tours that may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays are often less crowded than weekends, and early morning or late afternoon visits can offer a more tranquil experience.
 
 ### Is it wheelchair accessible?
-For accessibility details, it’s best to check the official website or contact the church directly to inquire about accommodations.
+For accessibility details, it's best to check the official website or contact the church directly to inquire about accommodations.
 
 ### Can I buy tickets online?
 Check the official website for information regarding tickets and availability before your visit.

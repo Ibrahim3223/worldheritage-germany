@@ -28,7 +28,7 @@ image_srcset:
 
 Limburg Abbey, a historic monastery located in the Bad Dürkheim region of Germany, is a place where spirituality and history converge. Nestled within the picturesque landscape of the Palatinate, this site offers visitors a chance to explore the serene environment that has been a center of monastic life for centuries. The abbey is not only a site of religious significance but also a reflection of the architectural and cultural heritage of the region. With its tranquil atmosphere, Limburg Abbey invites travelers to immerse themselves in its rich past and appreciate the serene beauty that surrounds it.
 
-As you approach the monastery, you’ll find yourself enveloped in a sense of peace that is characteristic of such historic religious sites. Limburg Abbey’s significance lies not just in its function as a place of worship but also in its role as a cultural landmark that has withstood the test of time. Visitors are encouraged to take their time to explore the various aspects of the abbey, from its architectural features to its historical significance.
+As you approach the monastery, you'll find yourself enveloped in a sense of peace that is characteristic of such historic religious sites. Limburg Abbey's significance lies not just in its function as a place of worship but also in its role as a cultural landmark that has withstood the test of time. Visitors are encouraged to take their time to explore the various aspects of the abbey, from its architectural features to its historical significance.
 
 ## History and Significance
 
@@ -99,7 +99,7 @@ Accessibility options may be limited. Check the official website for specific in
 Details about ticket purchasing, including online options, can typically be found on the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for the most current information.
+Facilities may be available on-site, but it's advisable to check the official website for the most current information.
 
 ### What should I wear?
 Dress comfortably and appropriately for a religious site, considering weather conditions and the possibility of walking.

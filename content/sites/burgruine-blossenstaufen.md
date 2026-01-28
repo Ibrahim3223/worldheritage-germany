@@ -84,7 +84,7 @@ To avoid crowds, plan your visit during weekdays rather than weekends, as this c
 
 ## Practical Information
 
-When visiting Burgruine Bloßenstaufen, it’s advisable to wear comfortable shoes suitable for walking on uneven terrain. Depending on the season, layering your clothing can help you adjust to changing weather conditions throughout the day. 
+When visiting Burgruine Bloßenstaufen, it's advisable to wear comfortable shoes suitable for walking on uneven terrain. Depending on the season, layering your clothing can help you adjust to changing weather conditions throughout the day. 
 
 Bring along water and snacks, as amenities may be limited at the site. Be mindful of the environment; pack out any trash to help preserve the natural beauty of the area.
 

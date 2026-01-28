@@ -42,7 +42,7 @@ In the broader context, such chapels contribute to the preservation of local his
 
 The architectural style of the Friedhofskapelle Welden reflects the common characteristics found in chapels across Germany. While specific details regarding the physical features of this chapel are not provided, chapels typically exhibit a blend of functionality and artistry, marked by simple yet elegant lines. 
 
-Common elements to look for in such chapels include stained glass windows, which often depict religious scenes or saints, and wooden pews that provide seating for worshippers. The exterior may feature a stone façade, contributing to the chapel’s timeless appeal and durability. 
+Common elements to look for in such chapels include stained glass windows, which often depict religious scenes or saints, and wooden pews that provide seating for worshippers. The exterior may feature a stone façade, contributing to the chapel's timeless appeal and durability. 
 
 Inside, one can often find an altar as the focal point, adorned with religious symbols and artworks that enhance the spiritual atmosphere. The combination of light, space, and décor creates a serene environment, fostering contemplation and prayer.
 
@@ -62,11 +62,11 @@ In terms of accessibility, individuals with mobility challenges should inquire a
 
 While visiting the Friedhofskapelle Welden, there are several nearby attractions worth exploring. 
 
-1. **Welden Village**: The charming village surrounding the chapel offers a picturesque setting with quaint streets and local shops where visitors can experience the community’s culture.
+1. **Welden Village**: The charming village surrounding the chapel offers a picturesque setting with quaint streets and local shops where visitors can experience the community's culture.
 
 2. **Local Parks**: The area may feature parks that provide opportunities for leisurely walks or picnics, ideal for enjoying the natural beauty of the region.
 
-3. **Historical Sites**: Nearby, you might find other historical landmarks that reflect the architectural and cultural heritage of Welden, providing a richer understanding of the area’s past.
+3. **Historical Sites**: Nearby, you might find other historical landmarks that reflect the architectural and cultural heritage of Welden, providing a richer understanding of the area's past.
 
 4. **Art Galleries**: If available, local art galleries can offer insights into contemporary interpretations of the region's culture and history through various artistic mediums.
 

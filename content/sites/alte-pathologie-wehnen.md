@@ -3,7 +3,7 @@ title: "Alte Pathologie Wehnen"
 site_name: "Alte Pathologie Wehnen"
 date: 2026-01-26
 draft: false
-description: "Gedenk- und Dokumentationsstätte für Opfer der „Euthanasie“ im nationalsozialistischen Deutschland"
+description: "Gedenk- und Dokumentationsstätte für Opfer der „Euthanasie" im nationalsozialistischen Deutschland"
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Memorial"
@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-In the tranquil landscape of Bad Zwischenahn, Germany, the Alte Pathologie Wehnen serves as a solemn memorial dedicated to the victims of the Nazi regime's euthanasia program. This site not only preserves the memory of those who suffered under one of history’s darkest chapters but also stands as a place of reflection and education. It invites visitors to confront the past and understand the implications of state-sanctioned atrocities. As you approach this memorial, you are met with a sense of gravity that compels a deeper engagement with the stories it holds.
+In the tranquil landscape of Bad Zwischenahn, Germany, the Alte Pathologie Wehnen serves as a solemn memorial dedicated to the victims of the Nazi regime's euthanasia program. This site not only preserves the memory of those who suffered under one of history's darkest chapters but also stands as a place of reflection and education. It invites visitors to confront the past and understand the implications of state-sanctioned atrocities. As you approach this memorial, you are met with a sense of gravity that compels a deeper engagement with the stories it holds.
 
-The Alte Pathologie Wehnen is located at coordinates 53.1688, 8.14188, making it accessible to those traveling through the region. The site’s significance extends beyond its physical presence; it serves as a reminder of the importance of compassion and human rights in contemporary society. With its focus on documentation and commemoration, visitors are encouraged to reflect on the moral responsibilities that accompany knowledge and memory. 
+The Alte Pathologie Wehnen is located at coordinates 53.1688, 8.14188, making it accessible to those traveling through the region. The site's significance extends beyond its physical presence; it serves as a reminder of the importance of compassion and human rights in contemporary society. With its focus on documentation and commemoration, visitors are encouraged to reflect on the moral responsibilities that accompany knowledge and memory. 
 
 This guide will take you through the history and significance of the memorial, its architectural features, practical visiting information, and nearby attractions, ensuring a well-rounded experience for anyone looking to explore this important site.
 

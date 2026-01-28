@@ -76,7 +76,7 @@ Engaging with local staff can enrich your visit, as they often provide valuable 
 
 ## Practical Information
 
-Before heading to Vogtshaus, it’s advisable to pack essentials such as a water bottle and comfortable walking shoes, as exploring the museum may involve a fair amount of walking. Depending on the season, consider layering clothing to accommodate fluctuating temperatures in the museum and outside.
+Before heading to Vogtshaus, it's advisable to pack essentials such as a water bottle and comfortable walking shoes, as exploring the museum may involve a fair amount of walking. Depending on the season, consider layering clothing to accommodate fluctuating temperatures in the museum and outside.
 
 Be mindful of any seasonal events or programs that may influence your visit. Always check the official website for updates on special exhibitions or activities that might be taking place during your stay.
 
@@ -86,7 +86,7 @@ Be mindful of any seasonal events or programs that may influence your visit. Alw
 A visit to Vogtshaus typically takes a few hours, allowing ample time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Photography policies may vary; check the museum’s guidelines upon arrival to ensure compliance.
+Photography policies may vary; check the museum's guidelines upon arrival to ensure compliance.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current offerings and schedules.

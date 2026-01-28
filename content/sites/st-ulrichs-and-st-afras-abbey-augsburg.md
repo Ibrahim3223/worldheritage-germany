@@ -78,7 +78,7 @@ Visiting during weekdays or early in the morning can help you avoid larger crowd
 
 When planning your visit to St. Ulrich's and St. Afra's Abbey, it's helpful to consider what to bring along. Comfortable walking shoes are recommended, as you may wish to explore the grounds thoroughly. A small bag with essentials such as water, a notebook for reflections, and a camera for photography can enhance your experience. 
 
-Depending on the season, you might want to check the weather forecast and dress accordingly, as the abbey’s atmosphere can vary with the changing seasons. 
+Depending on the season, you might want to check the weather forecast and dress accordingly, as the abbey's atmosphere can vary with the changing seasons. 
 
 ## Frequently Asked Questions
 

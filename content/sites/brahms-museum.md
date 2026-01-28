@@ -28,7 +28,7 @@ image_srcset:
 
 The Brahms-Museum in Hamburg is a captivating tribute to one of the most significant composers of the 19th century, Johannes Brahms. Located in the vibrant district of Hamburg-Mitte, this museum offers a deep dive into the life, works, and influences of the illustrious musician who was born in this very city. The museum not only showcases an extensive collection of Brahms' manuscripts, letters, and personal artifacts but also aims to illuminate the cultural context in which he composed his timeless works. Visitors can expect an enlightening experience that resonates with music enthusiasts and history buffs alike, making it a noteworthy stop for anyone exploring Hamburg's rich cultural landscape.
 
-As you navigate through the museum, you will find yourself immersed in the milieu of Brahms’ life, surrounded by the echoes of his compositions. The museum serves as a significant cultural space that not only honors the legacy of Brahms but also fosters appreciation for classical music in general. Whether you are a dedicated fan of Brahms or a curious traveler seeking to learn more about the classical music scene, the Brahms-Museum promises an engaging experience that captures the essence of its namesake.
+As you navigate through the museum, you will find yourself immersed in the milieu of Brahms' life, surrounded by the echoes of his compositions. The museum serves as a significant cultural space that not only honors the legacy of Brahms but also fosters appreciation for classical music in general. Whether you are a dedicated fan of Brahms or a curious traveler seeking to learn more about the classical music scene, the Brahms-Museum promises an engaging experience that captures the essence of its namesake.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ In addition to preserving Brahms' legacy, the museum plays a vital role in promo
 
 The architecture of the Brahms-Museum reflects the historical essence of Hamburg while providing an inviting space for visitors to explore. The building itself features classic design elements that resonate with the cultural heritage of the city, creating an environment that is both respectful and reflective of Brahms' era. The interior is thoughtfully arranged to facilitate a seamless flow through various exhibits, each focusing on different aspects of Brahms' life and work.
 
-One of the notable features of the museum is the collection of original manuscripts. These documents highlight Brahms' meticulous approach to composition, showcasing his hand-written notes and revisions that give insight into his creative process. Visitors can also explore personal letters that reveal Brahms’ thoughts on music, friendship, and his experiences as a composer in a rapidly changing world.
+One of the notable features of the museum is the collection of original manuscripts. These documents highlight Brahms' meticulous approach to composition, showcasing his hand-written notes and revisions that give insight into his creative process. Visitors can also explore personal letters that reveal Brahms' thoughts on music, friendship, and his experiences as a composer in a rapidly changing world.
 
 In addition, the museum is equipped with modern amenities that enhance the visitor experience, such as interactive displays and multimedia presentations that bring Brahms' music to life. These features allow guests to not only view artifacts but also engage with the music itself, fostering a deeper understanding and appreciation of Brahms' contributions to classical music.
 
@@ -58,7 +58,7 @@ For the best experience, consider visiting during weekdays when the museum tends
 
 While visiting the Brahms-Museum, there are several other attractions in the vicinity that enhance the cultural experience of your trip:
 
-1. **Elbphilharmonie**: This iconic concert hall is a marvel of modern architecture and a hub for classical music performances. It’s worth visiting not only for its concerts but also for its stunning views of the city from the plaza.
+1. **Elbphilharmonie**: This iconic concert hall is a marvel of modern architecture and a hub for classical music performances. It's worth visiting not only for its concerts but also for its stunning views of the city from the plaza.
 
 2. **Hamburg State Opera**: Close to the museum, this historic venue offers a rich program of operatic performances and is a must-see for lovers of the performing arts.
 
@@ -102,7 +102,7 @@ Weekday mornings or late afternoons are often less crowded, providing a more int
 Accessibility information may vary; check the official website for details.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for information on online ticket purchasing.
+It's advisable to check the official website for information on online ticket purchasing.
 
 ### Are there restrooms and cafes?
 Facilities may be available, so check the official website for specific amenities.

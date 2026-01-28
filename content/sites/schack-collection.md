@@ -64,9 +64,9 @@ The Schack Collection is conveniently located near several other cultural and hi
   
 2. **Alte Pinakothek**: One of the oldest galleries in the world, housing an impressive collection of European paintings from the Middle Ages to the Rococo period.
 
-3. **Englischer Garten**: A sprawling public park that offers a peaceful retreat from the city’s hustle and bustle, complete with scenic walking paths, beer gardens, and a charming lake.
+3. **Englischer Garten**: A sprawling public park that offers a peaceful retreat from the city's hustle and bustle, complete with scenic walking paths, beer gardens, and a charming lake.
 
-4. **Deutsches Museum**: The world’s largest museum of science and technology, featuring interactive exhibits that appeal to visitors of all ages.
+4. **Deutsches Museum**: The world's largest museum of science and technology, featuring interactive exhibits that appeal to visitors of all ages.
 
 5. **St. Michael's Church**: A magnificent example of Renaissance architecture, known for its stunning interiors and historical significance.
 

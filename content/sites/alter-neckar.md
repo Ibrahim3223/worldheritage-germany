@@ -109,7 +109,7 @@ Check the official website for information on accessibility, as path conditions 
 Information regarding tickets should be confirmed on the official website, as specific details are not provided here.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for the most accurate information.
+Facilities may vary; it's advisable to check the official website for the most accurate information.
 
 ### What should I wear?
 Dress in layers and wear comfortable walking shoes suitable for varying terrain. Seasonal considerations will dictate additional clothing needs. 

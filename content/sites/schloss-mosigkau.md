@@ -50,7 +50,7 @@ In addition to its architectural and natural beauty, Schloss Mosigkau is recogni
 
 ## Visiting Information
 
-Getting to Schloss Mosigkau is convenient, with multiple transport options available. Visitors can arrive via public transportation or by car, as the location is accessible from major roads in the region. The castle’s coordinates (51.806, 12.1508) can assist in navigation.
+Getting to Schloss Mosigkau is convenient, with multiple transport options available. Visitors can arrive via public transportation or by car, as the location is accessible from major roads in the region. The castle's coordinates (51.806, 12.1508) can assist in navigation.
 
 When planning a visit, it is essential to check the official website for current information regarding opening hours and ticket prices. Due to the museum's popularity, especially during peak tourist seasons, it is advisable to allocate sufficient time for exploration. Typically, a visit can last between one to two hours, allowing guests to appreciate both the interiors and the gardens.
 
@@ -84,7 +84,7 @@ When preparing for your visit to Schloss Mosigkau, consider the following practi
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the castle and gardens involves a fair amount of walking. A camera can help capture the beauty of the surroundings.
 
-- **Seasonal Considerations**: Check the weather forecast before your visit, as outdoor activities in the gardens are best enjoyed in pleasant weather. Dress in layers during cooler months, and don’t forget sunscreen and hats during the summer.
+- **Seasonal Considerations**: Check the weather forecast before your visit, as outdoor activities in the gardens are best enjoyed in pleasant weather. Dress in layers during cooler months, and don't forget sunscreen and hats during the summer.
 
 ## Frequently Asked Questions
 

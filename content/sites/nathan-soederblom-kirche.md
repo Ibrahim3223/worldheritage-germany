@@ -109,7 +109,7 @@ Check the official website for information regarding guided tours, which may enh
 The best time to visit may vary based on local events and services. For a quieter experience, weekdays are often preferable.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s best to check the official website for details regarding wheelchair access.
+Accessibility information may vary, so it's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 For ticketing information, including the possibility of online purchases, check the official website before your visit.

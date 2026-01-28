@@ -72,11 +72,11 @@ While St. Johanneskirche is a focal point for heritage exploration in Neubranden
 
 When visiting St. Johanneskirche, consider bringing a camera to capture the beautiful architecture and serene interior. However, be mindful of any photography regulations that may be in place within the church. 
 
-To avoid crowds, aim for early morning visits or weekdays, as weekends may see an influx of visitors, especially during special events or services. This strategy allows for a more peaceful experience and greater opportunity to appreciate the church’s ambiance.
+To avoid crowds, aim for early morning visits or weekdays, as weekends may see an influx of visitors, especially during special events or services. This strategy allows for a more peaceful experience and greater opportunity to appreciate the church's ambiance.
 
 ## Practical Information
 
-Before heading to St. Johanneskirche, it’s advisable to bring essentials such as water and comfortable walking shoes, as exploring the church and its surrounding areas may involve some walking. 
+Before heading to St. Johanneskirche, it's advisable to bring essentials such as water and comfortable walking shoes, as exploring the church and its surrounding areas may involve some walking. 
 
 Seasonal considerations include dressing appropriately for the weather, as the climate in Neubrandenburg can vary significantly. In colder months, layers and warm clothing are recommended, while summer visitors might prefer light and breathable attire.
 
@@ -88,7 +88,7 @@ Additionally, ensure you have a charged mobile device or camera, as you may want
 A visit to St. Johanneskirche typically takes about 30 minutes to an hour, depending on your interest in exploring the architecture and taking photographs.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signage or ask church staff upon arrival.
+Photography policies can vary, so it's best to check for any signage or ask church staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be offered at certain times.
@@ -97,13 +97,13 @@ Check the official website for information regarding guided tours, as they may b
 The best time to visit is often early in the morning or on weekdays to avoid crowds. Special events may also provide unique experiences.
 
 ### Is it wheelchair accessible?
-Accessibility options are not specified; it’s recommended to check the official website for detailed information regarding mobility access.
+Accessibility options are not specified; it's recommended to check the official website for detailed information regarding mobility access.
 
 ### Can I buy tickets online?
 For any entrance fees or special events, check the official website for the possibility of online ticket purchases.
 
 ### Are there restrooms and cafes?
-Restroom availability and nearby cafes can vary; it’s advisable to check local amenities when planning your visit.
+Restroom availability and nearby cafes can vary; it's advisable to check local amenities when planning your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if planning to explore the surrounding areas.

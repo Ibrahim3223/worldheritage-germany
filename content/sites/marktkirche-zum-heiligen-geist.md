@@ -46,7 +46,7 @@ The exterior of the church is marked by its robust facade, which is both invitin
 
 Inside, visitors will find an array of features that enhance the spiritual atmosphere of the space. The interior layout typically includes a nave, aisles, and a chancel, all designed to facilitate worship and community gatherings. Stained glass windows, if present, would add a colorful element to the light filtering through, creating a serene environment for reflection and prayer. 
 
-Other notable features might include altars, pews, and possibly intricate woodwork or religious iconography that illustrate the church’s historical and cultural narratives. Each of these elements contributes to the overall experience, inviting visitors to appreciate the artistry and craftsmanship involved in its creation.
+Other notable features might include altars, pews, and possibly intricate woodwork or religious iconography that illustrate the church's historical and cultural narratives. Each of these elements contributes to the overall experience, inviting visitors to appreciate the artistry and craftsmanship involved in its creation.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ To avoid crowds, aim for weekdays and off-peak hours, which can provide a more t
 
 ## Practical Information
 
-When visiting Marktkirche zum Heiligen Geist, it’s advisable to bring a few essentials to ensure a comfortable experience. Comfortable shoes are recommended, particularly if you plan to explore the surrounding area or nearby attractions. 
+When visiting Marktkirche zum Heiligen Geist, it's advisable to bring a few essentials to ensure a comfortable experience. Comfortable shoes are recommended, particularly if you plan to explore the surrounding area or nearby attractions. 
 
 Depending on the season, consider weather-appropriate clothing, as the Harz region can experience varying temperatures. If you plan to explore outdoors, layering is often a practical choice.
 
@@ -95,7 +95,7 @@ A visit typically lasts about an hour, allowing time to appreciate the architect
 Photography policies may vary, so it's best to check the official guidelines upon arrival.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide deeper insights into the church’s history and architecture.
+Check the official website for information on guided tours, which can provide deeper insights into the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, offering a more peaceful experience.

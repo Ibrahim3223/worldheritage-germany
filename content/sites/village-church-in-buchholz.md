@@ -88,7 +88,7 @@ Visiting in spring or summer offers a vibrant experience, with the surrounding f
 A visit to the Village Church typically takes around 30 minutes to an hour, depending on your interest in the architecture and surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any ongoing services or events.
+Photography is generally permitted, but it's advisable to be respectful of any ongoing services or events.
 
 ### Are there guided tours?
 Current information on guided tours may vary. Check the official website for any available tours or informational resources.

@@ -82,7 +82,7 @@ When visiting Gut Wicheln, it is advisable to come prepared for a variety of con
 
 - **Seasonal Considerations**: Be aware of seasonal weather conditions. Spring and fall generally offer pleasant weather, while summer can draw more visitors, and winter may present challenges for accessibility depending on snow.
 
-- **Amenities**: Facilities such as restrooms and cafes may be available, but it’s wise to check the official website for specifics before your visit.
+- **Amenities**: Facilities such as restrooms and cafes may be available, but it's wise to check the official website for specifics before your visit.
 
 ## Frequently Asked Questions
 

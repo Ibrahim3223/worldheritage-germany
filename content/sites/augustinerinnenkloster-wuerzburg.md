@@ -80,7 +80,7 @@ Seasonal considerations should also be taken into account. Spring and early fall
 A visit typically takes about one to two hours, allowing ample time to explore the monastery and enjoy the atmosphere.
 
 ### Is photography allowed?
-Photography is generally permitted but may be restricted in certain areas. It’s advised to check for any signage indicating restrictions.
+Photography is generally permitted but may be restricted in certain areas. It's advised to check for any signage indicating restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

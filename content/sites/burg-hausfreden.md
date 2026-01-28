@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Hausfreden, a captivating archaeological site located in the heart of Lower Saxony, Germany, serves as a window into the region's medieval past. This castle ruin, which speaks to the architectural and cultural heritage of the area, invites visitors to explore the remnants of a once-mighty stronghold. Situated near the town of Freden, the site is easily accessible and offers a unique opportunity for history enthusiasts and casual travelers alike to delve into the stories of those who once inhabited this fortress.
 
-As you approach Burg Hausfreden, the site’s historical significance becomes evident, with archaeological findings that help illuminate the social and military dynamics of the time. Although the castle is now a ruin, its remaining structures tell tales of resilience and adaptation, reflecting the broader narrative of German history. The site promises not only a glimpse into the past but also a peaceful atmosphere for contemplation and exploration, making it a worthwhile addition to any itinerary in Lower Saxony.
+As you approach Burg Hausfreden, the site's historical significance becomes evident, with archaeological findings that help illuminate the social and military dynamics of the time. Although the castle is now a ruin, its remaining structures tell tales of resilience and adaptation, reflecting the broader narrative of German history. The site promises not only a glimpse into the past but also a peaceful atmosphere for contemplation and exploration, making it a worthwhile addition to any itinerary in Lower Saxony.
 
 ## History and Significance
 
@@ -92,7 +92,7 @@ When preparing for your visit to Burg Hausfreden, here are some practical consid
 
 - **Guided tours**: Check the official website for information about guided tours, which may enhance your understanding of the site and its historical context.
 
-- **Accessibility**: Ensure to verify the site’s accessibility status if you are traveling with individuals who may require assistance.
+- **Accessibility**: Ensure to verify the site's accessibility status if you are traveling with individuals who may require assistance.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Most visitors find that one to two hours is sufficient to explore Burg Hausfrede
 Yes, photography is allowed at Burg Hausfreden, and the ruins offer many picturesque opportunities. Just be mindful of other visitors while capturing your images.
 
 ### Are there guided tours?
-Check the official website for details on guided tours, as availability may vary. Guided tours can provide deeper insights into the site’s historical significance.
+Check the official website for details on guided tours, as availability may vary. Guided tours can provide deeper insights into the site's historical significance.
 
 ### What's the best time to visit?
 The best times to visit are typically during the spring and early fall, when the weather is pleasant. Weekdays are generally less crowded than weekends.
@@ -115,7 +115,7 @@ Check the official website for accessibility information, as the terrain around 
 For current ticket purchasing options, check the official website. Ticket availability may vary based on the time of year and specific events.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Check the official website for the most up-to-date information regarding amenities available on-site.
+Facilities may be limited, so it's advisable to plan accordingly. Check the official website for the most up-to-date information regarding amenities available on-site.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking through uneven terrain. Dress in layers to accommodate variable weather conditions.

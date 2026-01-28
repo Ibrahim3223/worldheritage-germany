@@ -84,7 +84,7 @@ Seasonal considerations are important, as spring and early summer are particular
 Most visitors find that spending 2-3 hours at Walpurgis Hall allows ample time to explore the exhibits and enjoy the surroundings.
 
 ### Is photography allowed?
-Generally, photography is permitted, but it’s advisable to check for any specific restrictions within the exhibition spaces.
+Generally, photography is permitted, but it's advisable to check for any specific restrictions within the exhibition spaces.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as availability may vary.
@@ -96,7 +96,7 @@ The best time to visit is during the spring, particularly around Walpurgis Night
 Accessibility features may be available. Check the official website for detailed information on facilities.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online. It’s best to check the official website for current options.
+Ticket purchasing options may be available online. It's best to check the official website for current options.
 
 ### Are there restrooms and cafes?
 Typically, facilities such as restrooms and cafes are provided on-site. Verify availability by checking the official website.

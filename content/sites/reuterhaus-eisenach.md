@@ -42,9 +42,9 @@ While specific historical milestones may not be highlighted, the overarching nar
 
 The architectural design of Reuterhaus Eisenach complements its role as a museum. While specific details about the building's structure may not be provided, it is clear that the museum's layout is designed with visitor experience in mind. The interior spaces facilitate the display of various exhibits, allowing for a flow that encourages exploration and engagement.
 
-Notable features of the museum may include thoughtfully curated exhibition areas that highlight different aspects of Eisenach’s history and culture. The design likely incorporates elements that reflect the character of the region, creating an inviting atmosphere for all who enter. 
+Notable features of the museum may include thoughtfully curated exhibition areas that highlight different aspects of Eisenach's history and culture. The design likely incorporates elements that reflect the character of the region, creating an inviting atmosphere for all who enter. 
 
-Visitors can expect to encounter displays that not only educate but also inspire curiosity about the local heritage. The museum’s commitment to showcasing the cultural significance of Eisenach is evident in how it presents its collections and facilitates visitor interaction.
+Visitors can expect to encounter displays that not only educate but also inspire curiosity about the local heritage. The museum's commitment to showcasing the cultural significance of Eisenach is evident in how it presents its collections and facilitates visitor interaction.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Eisenach is home to several noteworthy attractions that complement a visit to Re
 
 1. **Wartburg Castle**: A UNESCO World Heritage site, this iconic castle is a significant historical landmark, offering insights into medieval architecture and Martin Luther's life.
    
-2. **Lutherhaus Eisenach**: This museum celebrates Martin Luther’s time in Eisenach, showcasing artifacts and documents related to his life and work.
+2. **Lutherhaus Eisenach**: This museum celebrates Martin Luther's time in Eisenach, showcasing artifacts and documents related to his life and work.
 
 3. **Nikolai Church**: A beautiful example of Gothic architecture, this church is a peaceful place to reflect and admire stunning stained glass windows.
 

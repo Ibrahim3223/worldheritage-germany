@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kunstmuseum Celle stands as a notable cultural institution in the charming town of Celle, Germany. This art museum is celebrated for its diverse collection that spans various periods and styles, offering a window into the evolution of art in both local and broader contexts. Located in Lower Saxony, Celle is known for its half-timbered houses and historical significance, making the Kunstmuseum a fitting addition to the town’s rich cultural fabric. The museum not only serves as a platform for contemporary art but also engages with historical artworks, providing visitors with a comprehensive understanding of artistic expression over time. Whether you are an art aficionado or a casual visitor, the Kunstmuseum Celle promises an enriching experience that showcases the transformative power of art.
+Kunstmuseum Celle stands as a notable cultural institution in the charming town of Celle, Germany. This art museum is celebrated for its diverse collection that spans various periods and styles, offering a window into the evolution of art in both local and broader contexts. Located in Lower Saxony, Celle is known for its half-timbered houses and historical significance, making the Kunstmuseum a fitting addition to the town's rich cultural fabric. The museum not only serves as a platform for contemporary art but also engages with historical artworks, providing visitors with a comprehensive understanding of artistic expression over time. Whether you are an art aficionado or a casual visitor, the Kunstmuseum Celle promises an enriching experience that showcases the transformative power of art.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ Visiting Kunstmuseum Celle can be a delightful experience, combining the joy of 
 
 It is advisable to check the official website for current information regarding opening hours, ticket prices, and any special events taking place during your visit. Depending on your interest in the exhibitions, allocating approximately one to two hours for your visit would allow enough time to appreciate the artworks and engage with the museum's offerings.
 
-The best times to visit are likely during weekdays or early mornings, which may help avoid larger crowds. Additionally, special exhibitions or events might draw larger audiences, so staying informed through the museum’s communications can enhance your experience.
+The best times to visit are likely during weekdays or early mornings, which may help avoid larger crowds. Additionally, special exhibitions or events might draw larger audiences, so staying informed through the museum's communications can enhance your experience.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ Celle is rich in historical and cultural attractions that complement a visit to 
 
 4. **Bomann Museum**: This museum focuses on the cultural history of the Celle region, showcasing artifacts that narrate the story of the local community through various periods.
 
-5. **Celle’s Botanical Garden (Botanischer Garten)**: A serene escape, this garden features a diverse collection of plants and flowers, providing a tranquil setting for relaxation and reflection.
+5. **Celle's Botanical Garden (Botanischer Garten)**: A serene escape, this garden features a diverse collection of plants and flowers, providing a tranquil setting for relaxation and reflection.
 
 ## Insider Tips
 

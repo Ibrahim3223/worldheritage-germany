@@ -50,7 +50,7 @@ In addition to its exhibits, the museum may feature spaces for readings, discuss
 
 When planning a visit to the Schiller House, it is advisable to consider the best modes of transport to reach Bauerbach. The museum is accessible by various means, including car and public transportation. For those traveling by car, ample parking options are generally available nearby, ensuring convenience for visitors.
 
-To make the most of your visit, check the official website for current information regarding opening hours and admission prices. The museum often hosts special exhibitions and events, which may influence visiting times, so it’s wise to plan ahead. Typically, visitors can expect to spend a few hours at the museum to fully appreciate the exhibits and engage with the available resources.
+To make the most of your visit, check the official website for current information regarding opening hours and admission prices. The museum often hosts special exhibitions and events, which may influence visiting times, so it's wise to plan ahead. Typically, visitors can expect to spend a few hours at the museum to fully appreciate the exhibits and engage with the available resources.
 
 The best times to visit are typically during weekdays or early mornings to avoid larger crowds. This allows for a more intimate experience as you navigate through the museum's offerings. Additionally, consider visiting during seasonal events or special programs, which may provide unique insights into Schiller's life and work.
 

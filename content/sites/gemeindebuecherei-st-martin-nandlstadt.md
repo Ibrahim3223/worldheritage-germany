@@ -46,7 +46,7 @@ In addition to its physical collection, the library may also offer technological
 
 Visiting the Gemeindebücherei St. Martin is a straightforward experience, thanks to its central location in Nandlstadt. Transportation options are typically accessible, allowing both locals and tourists to arrive easily. Whether traveling by car or public transport, the library should be conveniently reachable.
 
-For up-to-date information regarding opening hours and any potential entry fees, it is advisable to check the official website. On-site, visitors can expect a welcoming atmosphere, along with staff ready to assist with inquiries about the library’s resources and programs.
+For up-to-date information regarding opening hours and any potential entry fees, it is advisable to check the official website. On-site, visitors can expect a welcoming atmosphere, along with staff ready to assist with inquiries about the library's resources and programs.
 
 To fully appreciate what the library has to offer, it is recommended to allocate adequate time for browsing the collections and exploring any ongoing events or activities. Visiting during quieter hours may enhance the experience, providing a more peaceful environment for reading or studying.
 
@@ -65,13 +65,13 @@ To make the most of your visit to the Gemeindebücherei St. Martin, consider the
 
 - **Photography**: If you wish to capture the essence of the library, be sure to check if photography is permitted, as some libraries may have restrictions in place to protect the privacy of patrons.
 - **Crowd Avoidance**: Aim to visit during weekdays or early mornings to enjoy a quieter atmosphere, allowing for uninterrupted reading and exploration.
-- **Check for Events**: Look into any scheduled activities or workshops that might be taking place during your visit. Participating in these can provide deeper insight into the library’s role in the community.
+- **Check for Events**: Look into any scheduled activities or workshops that might be taking place during your visit. Participating in these can provide deeper insight into the library's role in the community.
 
 ## Practical Information
 
 When planning your visit to the Gemeindebücherei St. Martin, there are a few practical considerations to keep in mind:
 
-- **What to Bring**: Consider bringing a notebook or device for taking notes, especially if you plan to engage with the library’s resources.
+- **What to Bring**: Consider bringing a notebook or device for taking notes, especially if you plan to engage with the library's resources.
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather, as you may want to explore the surrounding area after your visit. 
 
 ## Frequently Asked Questions

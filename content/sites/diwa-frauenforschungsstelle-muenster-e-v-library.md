@@ -26,9 +26,9 @@ Located in a vibrant region known for its rich cultural and academic heritage, t
 
 ## History and Significance
 
-The D.I.W.A. Frauenforschungsstelle Münster e. V. Library plays a crucial role in the landscape of academic research focused on women's issues. Though specific founding dates are not provided, the establishment of such a library indicates a growing recognition of the importance of women's studies as a distinct academic field. The library’s collection serves as a vital repository, encompassing a diverse range of literature, research papers, and references dedicated to women in various disciplines. 
+The D.I.W.A. Frauenforschungsstelle Münster e. V. Library plays a crucial role in the landscape of academic research focused on women's issues. Though specific founding dates are not provided, the establishment of such a library indicates a growing recognition of the importance of women's studies as a distinct academic field. The library's collection serves as a vital repository, encompassing a diverse range of literature, research papers, and references dedicated to women in various disciplines. 
 
-This library not only serves scholars and students but also acts as a community hub where discussions surrounding gender equality and women's representation can thrive. The significance of the library lies in its commitment to supporting research that highlights the contributions of women throughout history and in contemporary society. It actively engages with ongoing dialogues about gender issues, making it a relevant and necessary institution in today’s academic and social landscape.
+This library not only serves scholars and students but also acts as a community hub where discussions surrounding gender equality and women's representation can thrive. The significance of the library lies in its commitment to supporting research that highlights the contributions of women throughout history and in contemporary society. It actively engages with ongoing dialogues about gender issues, making it a relevant and necessary institution in today's academic and social landscape.
 
 By providing access to specialized resources, the D.I.W.A. Frauenforschungsstelle Library empowers individuals to engage critically with topics of gender and feminism. This empowerment is vital in fostering a more equitable society, as it encourages new generations of scholars and activists to explore and advocate for women's rights and representation across all sectors.
 
@@ -85,10 +85,10 @@ When planning your visit to the D.I.W.A. Frauenforschungsstelle Library, here ar
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of two to three hours is generally sufficient for a thorough exploration of the library’s resources.
+A visit of two to three hours is generally sufficient for a thorough exploration of the library's resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with library staff upon arrival to ensure compliance.
+Photography policies may vary, so it's best to check with library staff upon arrival to ensure compliance.
 
 ### Are there guided tours?
 While guided tours are not specifically mentioned, engaging with staff members can provide valuable insights into the library's offerings.
@@ -100,7 +100,7 @@ Mid-week mornings tend to be less crowded, providing a quieter atmosphere for st
 Accessibility information is not provided, so checking the official website for details is recommended.
 
 ### Can I buy tickets online?
-Typically, libraries do not require tickets for entry, but it’s best to confirm current policies on the official website.
+Typically, libraries do not require tickets for entry, but it's best to confirm current policies on the official website.
 
 ### Are there restrooms and cafes?
 Details regarding amenities are not specified, so checking the official website for available facilities is advisable.

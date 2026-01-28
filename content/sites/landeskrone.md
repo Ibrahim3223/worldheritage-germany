@@ -60,7 +60,7 @@ Landeskrone is positioned within a region rich in attractions, making it an exce
 
 1. **Görlitz Town Center**: This historic town is renowned for its architecture, including Gothic and Renaissance buildings. A stroll through the town center reveals charming squares and vibrant storefronts.
 
-2. **St. Peter and Paul Church**: Located in Görlitz, this impressive church features stunning stained glass windows and intricate stonework, showcasing the city’s rich ecclesiastical history.
+2. **St. Peter and Paul Church**: Located in Görlitz, this impressive church features stunning stained glass windows and intricate stonework, showcasing the city's rich ecclesiastical history.
 
 3. **Zgorzelec**: Just across the Neisse River in Poland, this twin city provides a glimpse into cross-border culture and history. Visitors can explore parks and local markets.
 

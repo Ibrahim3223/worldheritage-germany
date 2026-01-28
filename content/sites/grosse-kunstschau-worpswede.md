@@ -92,7 +92,7 @@ For those who may have accessibility concerns, it is recommended to check the of
 A visit to the Große Kunstschau typically takes around two hours, allowing ample time to explore the exhibitions and engage with the art on display.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check for signage or consult with museum staff to understand the guidelines.
+Photography policies may vary by exhibition. It's best to check for signage or consult with museum staff to understand the guidelines.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the collections and the history of the museum. Check the official website for details on scheduling and availability.

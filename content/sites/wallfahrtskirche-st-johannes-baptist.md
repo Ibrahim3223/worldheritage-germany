@@ -58,7 +58,7 @@ When visiting, guests are encouraged to engage respectfully with the space, taki
 
 While in the vicinity of Wallfahrtskirche St. Johannes Baptist, consider exploring additional points of interest that enrich the cultural experience:
 
-1. **Hirschberg Castle** – This nearby historical site offers insight into the region’s past and showcases architectural features appealing to history enthusiasts.
+1. **Hirschberg Castle** – This nearby historical site offers insight into the region's past and showcases architectural features appealing to history enthusiasts.
 
 2. **Bergstraße Wine Route** – A short drive will take you to this scenic route, known for its vineyards and picturesque landscapes, perfect for those interested in local wine culture.
 

@@ -44,7 +44,7 @@ The museum also engages with contemporary issues, making it a dynamic space for 
 
 The architectural design of the Historisches Museum Saar complements its mission, although specific details about the building's style and features are not provided. The museum's layout is likely to be thoughtfully organized to facilitate the flow of visitors through the exhibits, with spaces designed for both permanent collections and temporary exhibitions.
 
-Inside, the museum likely features a mix of interactive displays, artifacts, and multimedia presentations that cater to a variety of learning preferences. Engaging exhibits may include historical artifacts, photographs, and documents that illustrate the region’s past, along with modern installations that provoke thought and discussion.
+Inside, the museum likely features a mix of interactive displays, artifacts, and multimedia presentations that cater to a variety of learning preferences. Engaging exhibits may include historical artifacts, photographs, and documents that illustrate the region's past, along with modern installations that provoke thought and discussion.
 
 The atmosphere within the museum is designed to encourage exploration and contemplation, making it a fitting environment for those interested in delving into the historical narratives of Saarland.
 
@@ -85,7 +85,7 @@ Check the official website for any specific seasonal offerings or events that mi
 A visit typically takes around two to three hours, depending on your interest in exploring the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum's guidelines upon arrival.
+Photography policies may vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours, so check the official website for availability and scheduling.

@@ -62,7 +62,7 @@ Augsburg is rich in attractions that complement a visit to the Fugger und Welser
   
 2. **Fuggerhaus**: The former residence of the Fugger family, this building offers insight into the lifestyle of one of Europe's wealthiest families and is a short walk from the museum.
 
-3. **Perlach Tower**: Climb this historic bell tower for panoramic views of Augsburg and its picturesque rooftops, offering a different perspective of the city’s landscape.
+3. **Perlach Tower**: Climb this historic bell tower for panoramic views of Augsburg and its picturesque rooftops, offering a different perspective of the city's landscape.
 
 4. **Augsburg City Hall**: An architectural masterpiece, the City Hall is famous for its Golden Hall and provides a glimpse into the political history of Augsburg.
 
@@ -94,7 +94,7 @@ When visiting the Fugger und Welser Erlebnismuseum, here are a few practical con
 A minimum of two hours is recommended to fully explore the exhibits and engage with the interactive elements.
 
 ### Is photography allowed?
-Check the museum’s policies regarding photography, as certain areas may have restrictions.
+Check the museum's policies regarding photography, as certain areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for details on scheduling and availability.
@@ -112,6 +112,6 @@ Check the official website for the option to purchase tickets in advance, which 
 Facilities such as restrooms are typically available. Check the official website for details about dining options.
 
 ### What should I wear?
-Dress comfortably for walking and consider the season’s weather. Layers may be helpful, especially in transitional seasons.
+Dress comfortably for walking and consider the season's weather. Layers may be helpful, especially in transitional seasons.
 
 The Fugger und Welser Erlebnismuseum serves as an essential stop for anyone looking to understand Augsburg's historical significance and the influential roles played by the Fugger and Welser families in shaping European trade and culture.

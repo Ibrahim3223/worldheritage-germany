@@ -40,7 +40,7 @@ As visitors explore the church, they can appreciate how Gethsemanekirche has ada
 
 Gethsemanekirche showcases a thoughtful design that reflects both functional and aesthetic considerations typical of church architecture. The physical structure of the church is characterized by traditional elements that resonate with the architectural styles prevalent in the region. 
 
-Visitors can expect to see a combination of intricate details and a welcoming atmosphere within the church’s interior. The layout is designed to facilitate gatherings, with ample space for worshippers to come together. Notable features may include stained glass windows, which often serve not only as decorative elements but also as storytelling mediums, illustrating biblical narratives and conveying spiritual messages. These artistic elements contribute to the overall ambiance of the church, inviting contemplation and reverence.
+Visitors can expect to see a combination of intricate details and a welcoming atmosphere within the church's interior. The layout is designed to facilitate gatherings, with ample space for worshippers to come together. Notable features may include stained glass windows, which often serve not only as decorative elements but also as storytelling mediums, illustrating biblical narratives and conveying spiritual messages. These artistic elements contribute to the overall ambiance of the church, inviting contemplation and reverence.
 
 The exterior of Gethsemanekirche may be adorned with symbolic motifs, reflecting its religious significance and the values upheld by the congregation. The choice of materials, colors, and architectural accents all play a role in creating a cohesive visual identity that resonates within the urban setting of Frankfurt. 
 

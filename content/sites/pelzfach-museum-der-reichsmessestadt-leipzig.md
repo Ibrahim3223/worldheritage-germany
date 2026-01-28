@@ -24,15 +24,15 @@ The Pelzfach-Museum der Reichsmessestadt Leipzig invites visitors to explore the
 
 As you enter the museum, you are greeted by a collection that reflects the intricacies of fur processing, from raw materials to finished goods. This venue not only celebrates the artistry involved in fur craftsmanship but also sheds light on the social and economic implications of the fur industry throughout history. Visitors can expect an engaging experience that combines education with an appreciation for the skills and traditions that have shaped this unique trade.
 
-The Pelzfach-Museum stands out within Leipzig’s diverse cultural landscape, making it a worthwhile stop for anyone interested in the intersection of industry, art, and history.
+The Pelzfach-Museum stands out within Leipzig's diverse cultural landscape, making it a worthwhile stop for anyone interested in the intersection of industry, art, and history.
 
 ## History and Significance
 
-The Pelzfach-Museum is deeply rooted in Leipzig's historical significance as a trading hub, particularly noted for its fairs that attracted merchants from across Europe. The museum’s focus on the fur trade highlights an important aspect of the city's economic history, which evolved significantly from the Middle Ages onwards. The fur industry not only provided livelihoods for many in the region but also influenced social structures and cultural exchanges.
+The Pelzfach-Museum is deeply rooted in Leipzig's historical significance as a trading hub, particularly noted for its fairs that attracted merchants from across Europe. The museum's focus on the fur trade highlights an important aspect of the city's economic history, which evolved significantly from the Middle Ages onwards. The fur industry not only provided livelihoods for many in the region but also influenced social structures and cultural exchanges.
 
 While specific dates of establishment are not provided, the museum plays an essential role in preserving the legacy of fur craftsmanship, a trade that has seen various transformations over the years. The Pelzfach-Museum serves as an educational platform, raising awareness about the ethical considerations surrounding fur trade and promoting sustainable practices within the industry. This aspect is particularly relevant today, as global attitudes towards fur and animal rights continue to evolve.
 
-The museum’s collection includes various tools, garments, and historical documents that illustrate the techniques and artistry involved in fur processing. By showcasing these artifacts, the museum not only honors the craft but also invites reflection on the broader societal implications of fur trade.
+The museum's collection includes various tools, garments, and historical documents that illustrate the techniques and artistry involved in fur processing. By showcasing these artifacts, the museum not only honors the craft but also invites reflection on the broader societal implications of fur trade.
 
 ## Architecture and Features
 

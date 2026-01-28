@@ -28,7 +28,7 @@ As you approach the library, the striking architecture invites you to explore it
 
 The Waldeckian Royal Court Library has deep roots in the cultural fabric of Bad Arolsen. Established to serve the intellectual community of the region, this library has played an essential role in the preservation of literary works and scholarly research. Its collections span a variety of subjects, reflecting the diverse interests of its patrons over the years.
 
-The library’s historical significance is underscored by its connection to the Waldeck principality, which has been influential in shaping the cultural landscape of the area. This institution has not only survived the test of time but has also adapted to the changing needs of society, ensuring that it remains relevant in the digital age. The library is a vital resource for researchers and students, offering access to rare manuscripts, historical documents, and a wealth of literary works that span centuries.
+The library's historical significance is underscored by its connection to the Waldeck principality, which has been influential in shaping the cultural landscape of the area. This institution has not only survived the test of time but has also adapted to the changing needs of society, ensuring that it remains relevant in the digital age. The library is a vital resource for researchers and students, offering access to rare manuscripts, historical documents, and a wealth of literary works that span centuries.
 
 As you delve into the library's offerings, you'll discover how it plays a pivotal role in fostering a love for literature and learning within the community. It functions as a hub for various cultural events, lectures, and exhibitions, further solidifying its position as a cornerstone of intellectual pursuit in the region. The library is not merely a place to borrow books; it is a vibrant center for knowledge-sharing and cultural exchange.
 
@@ -38,13 +38,13 @@ The Waldeckian Royal Court Library features a blend of architectural styles that
 
 Inside, you will find spacious reading rooms filled with natural light, creating an atmosphere conducive to reflection and learning. The organization of the collections is designed for easy navigation, allowing visitors to efficiently locate the resources they need. The library also includes designated areas for exhibitions and community events, providing additional spaces for cultural engagement.
 
-The resources available within the library are diverse, featuring not only books but also periodicals and historical documents that enrich the learning experience. The commitment to preserving these materials underscores the library’s role in safeguarding the cultural heritage of the region.
+The resources available within the library are diverse, featuring not only books but also periodicals and historical documents that enrich the learning experience. The commitment to preserving these materials underscores the library's role in safeguarding the cultural heritage of the region.
 
 ## Visiting Information
 
 Visiting the Waldeckian Royal Court Library is an experience that can be both educational and inspiring. To reach the library, you can take advantage of local transport options, which may include buses or trains. The library is located at coordinates 51.38045, 9.02117, making it accessible from various points in Bad Arolsen.
 
-Check the official website for current information regarding the library's hours of operation and any potential admission fees. When planning your visit, consider allocating a few hours to fully explore the library’s collections and enjoy the serene reading spaces. The library can be particularly enjoyable during quieter times of the day, which may allow for a more immersive experience.
+Check the official website for current information regarding the library's hours of operation and any potential admission fees. When planning your visit, consider allocating a few hours to fully explore the library's collections and enjoy the serene reading spaces. The library can be particularly enjoyable during quieter times of the day, which may allow for a more immersive experience.
 
 Whether you are a scholar seeking specific texts or a casual visitor interested in the library's ambiance, the Waldeckian Royal Court Library provides a welcoming environment for all. Be sure to check the official website for any special events or exhibitions that may enhance your visit.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Waldeckian Royal Court Library, consider t
 
 - **Crowd Avoidance**: Plan your visit during weekdays or early in the morning to avoid larger crowds, providing a more peaceful environment for exploration and study.
 
-- **Engage Staff**: The library staff are knowledgeable and can offer valuable insights about the collections, so don’t hesitate to ask for recommendations or information.
+- **Engage Staff**: The library staff are knowledgeable and can offer valuable insights about the collections, so don't hesitate to ask for recommendations or information.
 
 ## Practical Information
 

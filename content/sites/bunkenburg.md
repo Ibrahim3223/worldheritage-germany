@@ -66,7 +66,7 @@ As you plan your visit, consider bringing comfortable walking shoes, as explorin
 
 While Bunkenburg offers a wealth of historical and architectural intrigue, the surrounding area also features several attractions worth exploring:
 
-1. **St. John’s Church in Ahlden**: This historic church is known for its beautiful architecture and serene atmosphere, providing insight into the local religious history.
+1. **St. John's Church in Ahlden**: This historic church is known for its beautiful architecture and serene atmosphere, providing insight into the local religious history.
 
 2. **The Old Town of Celle**: Just a short drive away, Celle is famous for its well-preserved half-timbered houses and charming streets, making it an excellent destination for a leisurely stroll.
 
@@ -99,7 +99,7 @@ It is recommended to spend at least 2-3 hours exploring Bunkenburg to fully appr
 Yes, photography is generally permitted, but be mindful of any specific restrictions that may apply in certain areas.
 
 ### Are there guided tours?
-Guided tours may be available, providing a more in-depth understanding of the castle’s history and significance.
+Guided tours may be available, providing a more in-depth understanding of the castle's history and significance.
 
 ### What's the best time to visit?
 The best times to visit are during spring and autumn when the weather is pleasant and crowds are smaller.

@@ -30,7 +30,7 @@ Holarium's significance in Esens extended beyond its physical structure. The mus
 
 The establishment of cultural institutions in towns like Esens reflects a broader trend across Germany, where local histories are increasingly valued and celebrated. Holarium contributed to this movement by offering exhibitions that illuminated various aspects of life in the region, from traditional crafts to contemporary art. The museum also likely hosted educational programs, workshops, and community events, underscoring its role as a center for learning and engagement.
 
-In a world where rapid change often overshadows historical continuity, the closure of Holarium serves as a poignant reminder of the importance of preserving cultural heritage. The museum’s legacy continues to inspire efforts to maintain and promote local histories, ensuring that the stories of Esens and its people are not forgotten.
+In a world where rapid change often overshadows historical continuity, the closure of Holarium serves as a poignant reminder of the importance of preserving cultural heritage. The museum's legacy continues to inspire efforts to maintain and promote local histories, ensuring that the stories of Esens and its people are not forgotten.
 
 ## Architecture and Features
 
@@ -38,7 +38,7 @@ Although specific architectural details about Holarium are not documented, one c
 
 Typically, such structures are characterized by both functional and aesthetic considerations, blending into their surroundings while also standing out as places of learning and reflection. The layout likely encouraged visitors to explore the collections at their own pace, fostering an environment conducive to discovery and engagement with the exhibits.
 
-While Holarium may not have been known for grand architectural features, its design would have served its purpose effectively, providing a welcoming atmosphere for visitors and an appropriate setting for the diverse stories it aimed to convey. The integration of local artistic expressions within the museum’s displays may have further enhanced its character, celebrating the regional craftsmanship that defines Esens.
+While Holarium may not have been known for grand architectural features, its design would have served its purpose effectively, providing a welcoming atmosphere for visitors and an appropriate setting for the diverse stories it aimed to convey. The integration of local artistic expressions within the museum's displays may have further enhanced its character, celebrating the regional craftsmanship that defines Esens.
 
 ## Visiting Information
 

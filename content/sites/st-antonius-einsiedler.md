@@ -30,7 +30,7 @@ St. Antonius Einsiedler stands as a noteworthy example of ecclesiastical archite
 
 Visitors to St. Antonius Einsiedler will find a peaceful environment that invites reflection and appreciation of its historical context. The church's serene surroundings and architectural features captivate those who seek a quiet respite from the busyness of modern life. Whether you are a history enthusiast, an architecture aficionado, or simply curious about local religious practices, St. Antonius Einsiedler promises a meaningful experience.
 
-As you approach this church building, you are welcomed by the tranquility of Finnentrop, a charming town that complements the site's historical significance. The church not only serves its spiritual function but also stands as a marker of the area’s cultural identity.
+As you approach this church building, you are welcomed by the tranquility of Finnentrop, a charming town that complements the site's historical significance. The church not only serves its spiritual function but also stands as a marker of the area's cultural identity.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ While St. Antonius Einsiedler is a highlight in its own right, the surrounding a
    
 2. **Local Parks**: Enjoy the natural beauty of the region by visiting nearby parks that provide walking trails and scenic spots for relaxation.
    
-3. **Historical Sites**: Explore other historical landmarks in Finnentrop to gain a broader understanding of the area’s heritage and culture. 
+3. **Historical Sites**: Explore other historical landmarks in Finnentrop to gain a broader understanding of the area's heritage and culture. 
 
 4. **Museums**: Check out local museums that may provide exhibitions related to the history and culture of Finnentrop.
 
@@ -101,7 +101,7 @@ It is recommended to spend at least an hour at St. Antonius Einsiedler to fully 
 Photography policies may vary; it is advisable to check for any signage regarding restrictions, particularly inside the church.
 
 ### Are there guided tours?
-Check the official website for information about guided tours, as these may enhance your understanding of the church’s history and significance.
+Check the official website for information about guided tours, as these may enhance your understanding of the church's history and significance.
 
 ### What's the best time to visit?
 Early mornings or weekdays may offer a quieter experience, while weekends can be busier due to services and community events.

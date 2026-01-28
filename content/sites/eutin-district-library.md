@@ -86,22 +86,22 @@ If you have specific queries regarding services or accessibility, it is best to 
 The time spent at the library can vary based on individual interests, with one to three hours being a typical range for most visitors.
 
 ### Is photography allowed?
-Photography policies can differ, so it’s best to check the library's guidelines or ask staff upon arrival.
+Photography policies can differ, so it's best to check the library's guidelines or ask staff upon arrival.
 
 ### Are there guided tours?
-Guided tours may not be standard, but special events or programs could offer insights into the library’s resources.
+Guided tours may not be standard, but special events or programs could offer insights into the library's resources.
 
 ### What's the best time to visit?
 Weekdays, particularly mid-mornings, are often less crowded, providing a more peaceful environment for exploration.
 
 ### Is it wheelchair accessible?
-Accessibility features are generally available, but it’s advisable to confirm specifics on the official website or inquire directly with library staff.
+Accessibility features are generally available, but it's advisable to confirm specifics on the official website or inquire directly with library staff.
 
 ### Can I buy tickets online?
 As a library, there may not be an admission fee, but check the official website for any events that might require tickets.
 
 ### Are there restrooms and cafes?
-Libraries typically have restrooms available, but food options may vary. It’s best to explore nearby cafes or eateries for refreshments.
+Libraries typically have restrooms available, but food options may vary. It's best to explore nearby cafes or eateries for refreshments.
 
 ### What should I wear?
 Comfortable clothing is recommended, especially if you plan on spending several hours reading or attending events.

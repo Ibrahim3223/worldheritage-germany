@@ -34,7 +34,7 @@ Situated at coordinates 53.6036152, 9.489865, the mosque is easily accessible, m
 
 While detailed historical records specific to the Bait-ul-Karim Mosque may not be extensively documented, its establishment reflects a broader narrative of Islamic growth in Germany and the integration of Muslim communities within European society. The mosque serves as a physical embodiment of the faith of its congregants and their desire for a space to practice their beliefs and gather as a community.
 
-The significance of the Bait-ul-Karim Mosque extends beyond its religious function. It plays a crucial role in promoting intercultural dialogue and understanding amidst a diverse population. By opening its doors to visitors from all walks of life, the mosque fosters a sense of unity and respect among different cultures and religions. This aspect is particularly vital in today’s globalized world, where interactions among diverse groups can lead to greater harmony and coexistence.
+The significance of the Bait-ul-Karim Mosque extends beyond its religious function. It plays a crucial role in promoting intercultural dialogue and understanding amidst a diverse population. By opening its doors to visitors from all walks of life, the mosque fosters a sense of unity and respect among different cultures and religions. This aspect is particularly vital in today's globalized world, where interactions among diverse groups can lead to greater harmony and coexistence.
 
 In essence, the Bait-ul-Karim Mosque stands not only as a place of worship but also as a symbol of peaceful coexistence and mutual respect among communities in Stade. Its presence highlights the importance of inclusivity and understanding in increasingly multicultural societies.
 
@@ -99,7 +99,7 @@ Accessibility information may vary. It is best to check with the mosque for spec
 Check the official website for information on any entry fees or requirements for advance reservations.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check ahead for available amenities.
+Facilities may vary, so it's advisable to check ahead for available amenities.
 
 ### What should I wear?
 Modest attire is recommended when visiting the mosque, with women encouraged to cover their heads.

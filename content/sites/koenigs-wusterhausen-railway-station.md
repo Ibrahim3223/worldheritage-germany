@@ -66,7 +66,7 @@ Königs Wusterhausen's proximity to various attractions makes it an ideal stoppi
 
 3. **Local Parks**: Numerous parks in the area provide green spaces for relaxation and recreational activities.
 
-4. **Historical Sites**: Various monuments and local architecture reflect the town’s heritage and history.
+4. **Historical Sites**: Various monuments and local architecture reflect the town's heritage and history.
 
 5. **Cafés and Shops**: The town features quaint cafés and local shops that invite visitors to experience the local culture and cuisine.
 

@@ -36,7 +36,7 @@ The significance of the foundation extends beyond its immediate activities. It s
 
 As a foundation, the Gerhard C. Starck Stiftung may not be characterized by grand architectural features or historical buildings typically associated with heritage sites. However, it serves as a point of engagement for community activities and initiatives. The physical environment of the foundation is likely designed to facilitate interactions, collaborations, and events aimed at promoting cultural and social welfare.
 
-While specific architectural details may not be available, the foundation’s layout likely reflects its mission of community engagement. Spaces within the foundation may be utilized for meetings, workshops, and cultural events, encouraging a dynamic atmosphere where ideas and creativity can flourish. The design may prioritize accessibility and functionality, ensuring that it serves as an inclusive space for all members of the community.
+While specific architectural details may not be available, the foundation's layout likely reflects its mission of community engagement. Spaces within the foundation may be utilized for meetings, workshops, and cultural events, encouraging a dynamic atmosphere where ideas and creativity can flourish. The design may prioritize accessibility and functionality, ensuring that it serves as an inclusive space for all members of the community.
 
 Visiting the foundation can provide insights into its operational ethos and the various programs it supports. Although it may not feature traditional attractions found in more historic sites, the Gerhard C. Starck Stiftung represents a contemporary approach to fostering community spirit and cultural vibrancy.
 

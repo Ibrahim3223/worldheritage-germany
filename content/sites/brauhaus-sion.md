@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Brauhaus Sion is a prominent brewery situated in the heart of Cologne's Altstadt-Nord region, renowned for its historical significance and cultural heritage. This establishment stands out not only as a brewery but also as an inn that offers visitors a unique glimpse into the local brewing traditions of Germany. With its rich ambiance and vibrant atmosphere, Brauhaus Sion serves as a gathering place for both locals and tourists, providing a taste of Cologne’s famous Kölsch beer alongside hearty regional cuisine.
+Brauhaus Sion is a prominent brewery situated in the heart of Cologne's Altstadt-Nord region, renowned for its historical significance and cultural heritage. This establishment stands out not only as a brewery but also as an inn that offers visitors a unique glimpse into the local brewing traditions of Germany. With its rich ambiance and vibrant atmosphere, Brauhaus Sion serves as a gathering place for both locals and tourists, providing a taste of Cologne's famous Kölsch beer alongside hearty regional cuisine.
 
 The brewery is located in a bustling area, making it easily accessible for those exploring the city. Its significance extends beyond just being a place to enjoy a drink; it is a vital part of the cultural fabric of Cologne, representing the city's long-standing brewing heritage. Visitors can immerse themselves in the local customs and traditions while enjoying the convivial spirit that characterizes this iconic venue.
 
@@ -34,7 +34,7 @@ As you step into Brauhaus Sion, you are invited to experience not only the flavo
 
 ## History and Significance
 
-Brauhaus Sion holds a storied place in the history of Cologne, reflecting the city's deep-rooted connection to brewing. While specific founding dates may not be documented, the brewery has long been recognized as a cornerstone of Cologne’s beer culture. The establishment is particularly famous for its Kölsch, a local style of beer that is light, crisp, and distinctly regional. This type of beer is not merely a beverage; it embodies the spirit of Cologne and serves as an integral part of social and cultural gatherings.
+Brauhaus Sion holds a storied place in the history of Cologne, reflecting the city's deep-rooted connection to brewing. While specific founding dates may not be documented, the brewery has long been recognized as a cornerstone of Cologne's beer culture. The establishment is particularly famous for its Kölsch, a local style of beer that is light, crisp, and distinctly regional. This type of beer is not merely a beverage; it embodies the spirit of Cologne and serves as an integral part of social and cultural gatherings.
 
 The significance of Brauhaus Sion extends beyond its offerings. It has long served as a meeting point for friends, families, and travelers, fostering a sense of community. The brewery is also a reflection of the city's evolution, showcasing how traditional practices coexist with modern influences. As brewing technology has advanced over the years, Brauhaus Sion has remained committed to its roots, ensuring that the essence of Cologne's beer culture endures.
 
@@ -62,7 +62,7 @@ While visiting Brauhaus Sion, consider exploring some of the nearby attractions 
 
 1. **Cologne Cathedral (Kölner Dom)**: This iconic Gothic cathedral is a UNESCO World Heritage Site and one of the most famous landmarks in the city. Its stunning architecture and impressive stained glass windows are a must-see.
 
-2. **Museum Ludwig**: Just a short walk away, this museum houses an extensive collection of modern art, including works by Picasso and Warhol. It’s a perfect stop for art enthusiasts.
+2. **Museum Ludwig**: Just a short walk away, this museum houses an extensive collection of modern art, including works by Picasso and Warhol. It's a perfect stop for art enthusiasts.
 
 3. **Old Town (Altstadt)**: The surrounding Old Town area is filled with charming streets, historic buildings, and numerous shops and cafes, making it ideal for a leisurely stroll.
 

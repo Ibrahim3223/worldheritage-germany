@@ -36,13 +36,13 @@ While specific historical details about Saint Michael Church are not provided, t
 
 In many German towns, churches like Saint Michael serve not only as places of worship but also as venues for community gatherings, celebrations, and local events. They often house valuable artworks and artifacts, each with its own story, contributing to the collective memory of the community. The architectural evolution of church buildings also mirrors broader historical trends, showcasing changes in style, construction techniques, and community needs over time.
 
-For anyone visiting the region, understanding the role of Saint Michael Church within the context of Erftstadt’s history adds depth to the experience. While the specifics of its founding and development may not be documented here, the church undoubtedly stands as a symbol of the enduring faith and traditions that have shaped the lives of its parishioners throughout the years.
+For anyone visiting the region, understanding the role of Saint Michael Church within the context of Erftstadt's history adds depth to the experience. While the specifics of its founding and development may not be documented here, the church undoubtedly stands as a symbol of the enduring faith and traditions that have shaped the lives of its parishioners throughout the years.
 
 ## Architecture and Features
 
 Saint Michael Church is characterized by its distinctive architectural style that reflects the broader trends found within German church design. While detailed descriptions of architectural elements are not provided, church buildings typically exhibit features such as a prominent steeple, intricate stained glass windows, and a spacious nave that invites contemplation.
 
-The church's façade likely showcases the craftsmanship of local artisans, with stonework and decorative elements that tell stories of faith and devotion. The interior of such churches often features wooden pews, altars, and possibly a choir area, all of which contribute to the church’s function as a place of worship and community gathering.
+The church's façade likely showcases the craftsmanship of local artisans, with stonework and decorative elements that tell stories of faith and devotion. The interior of such churches often features wooden pews, altars, and possibly a choir area, all of which contribute to the church's function as a place of worship and community gathering.
 
 Visitors can expect to find a tranquil environment that allows for reflection and appreciation of the artistry involved in the church's construction. Whether you are drawn to its architectural beauty or the spiritual atmosphere, Saint Michael Church offers a unique glimpse into the ecclesiastical heritage of the region.
 

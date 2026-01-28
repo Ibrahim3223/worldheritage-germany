@@ -44,7 +44,7 @@ The castle's heritage is also reflected in its collections, which include artifa
 
 Eltz Castle showcases a unique architectural style that reflects the evolution of building techniques over the centuries. The castle is characterized by its picturesque towers and intricate facades, which are emblematic of the medieval period. Its design incorporates elements from different architectural periods, resulting in a harmonious blend of styles.
 
-One of the most striking features of Eltz Castle is its collection of towers, each with distinct characteristics, contributing to the castle’s fairy-tale appearance. The stone walls, adorned with decorative elements, tell a story of craftsmanship that has withstood the test of time. Inside, the castle features a variety of rooms that have been preserved or restored to showcase the opulence of noble life.
+One of the most striking features of Eltz Castle is its collection of towers, each with distinct characteristics, contributing to the castle's fairy-tale appearance. The stone walls, adorned with decorative elements, tell a story of craftsmanship that has withstood the test of time. Inside, the castle features a variety of rooms that have been preserved or restored to showcase the opulence of noble life.
 
 Visitors can explore the grand halls, which are adorned with historical artifacts, paintings, and furniture that reflect the lifestyle of the Eltz family. The castle's chapel is another highlight, providing insights into the spiritual life of its inhabitants. Each corner of Eltz Castle offers a glimpse into the past, making it a fascinating destination for those interested in architecture and history.
 

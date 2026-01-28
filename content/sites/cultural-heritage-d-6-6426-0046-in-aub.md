@@ -38,13 +38,13 @@ The architectural features of Cultural heritage D-6-6426-0046 are reflective of 
 
 Typically, fortifications such as this would include thick stone walls, strategic vantage points, and possibly towers for observation and defense. The layout is designed to maximize security while minimizing vulnerability to attacks. Visitors may also find remnants of features such as gates, moats, or even barracks that would have housed soldiers, each element adding to the understanding of military life during its operational period.
 
-As you explore the fortification, take note of the craftsmanship involved in its construction. The choice of materials, the arrangement of stonework, and the overall design principles are indicative of the period’s architectural trends. These features not only serve practical purposes but also highlight the artistic and engineering capabilities of the era.
+As you explore the fortification, take note of the craftsmanship involved in its construction. The choice of materials, the arrangement of stonework, and the overall design principles are indicative of the period's architectural trends. These features not only serve practical purposes but also highlight the artistic and engineering capabilities of the era.
 
 ## Visiting Information
 
 Visiting Cultural heritage D-6-6426-0046 in Aub offers a unique opportunity to engage with the historical narrative of the region. To reach the fortification, travelers can utilize various forms of transportation. Public transport options may include local trains or buses connecting to the town of Aub, while driving offers flexibility and the chance to explore the surrounding countryside.
 
-Check the official website for current information regarding hours of operation and potential entrance fees. It is advisable to allocate sufficient time for your visit, as you will want to explore the fortification thoroughly and absorb the surrounding landscape. Engaging with local guides, if available, can enhance your understanding of the site’s significance.
+Check the official website for current information regarding hours of operation and potential entrance fees. It is advisable to allocate sufficient time for your visit, as you will want to explore the fortification thoroughly and absorb the surrounding landscape. Engaging with local guides, if available, can enhance your understanding of the site's significance.
 
 The best times to visit are typically during the milder months when the weather is conducive to outdoor exploration. Early mornings or late afternoons can also help in avoiding peak crowds, allowing for a more tranquil experience.
 

@@ -76,7 +76,7 @@ For those looking to capture the essence of Friedrichsbau, photography is often 
 
 ## Practical Information
 
-When planning your visit to Friedrichsbau, it’s essential to bring along any necessary items you may need, such as comfortable clothing and shoes, especially if you plan to explore the nearby attractions. Depending on the season, consider checking the weather forecast to dress appropriately for outdoor activities. 
+When planning your visit to Friedrichsbau, it's essential to bring along any necessary items you may need, such as comfortable clothing and shoes, especially if you plan to explore the nearby attractions. Depending on the season, consider checking the weather forecast to dress appropriately for outdoor activities. 
 
 If you're visiting during peak tourist seasons, booking tickets in advance is advisable to secure your desired performances. Additionally, plan to arrive a little early to find your seat and soak in the atmosphere before the show starts.
 

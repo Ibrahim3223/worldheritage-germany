@@ -28,7 +28,7 @@ image_srcset:
 
 Brüder-Grimm-Platz is a central square located in the vibrant city of Kassel, Germany. This urban space is named in honor of the famous Brothers Grimm, who are celebrated for their contributions to literature, particularly in the realm of fairy tales. Positioned strategically within the city, Brüder-Grimm-Platz serves as both a gathering point for locals and a site of interest for visitors exploring Kassel's cultural heritage. Its significance stems from its connection to the legacy of the Brothers Grimm and its role as a focal point for various activities throughout the year.
 
-As you approach Brüder-Grimm-Platz, you’ll find it surrounded by an array of architectural styles that reflect the history and evolution of Kassel. The square is not only a place to relax and enjoy the ambiance of the city but also a venue for cultural events, markets, and community gatherings. Visitors can anticipate a lively atmosphere infused with the spirit of the city, making it an essential stop on any exploration of Kassel.
+As you approach Brüder-Grimm-Platz, you'll find it surrounded by an array of architectural styles that reflect the history and evolution of Kassel. The square is not only a place to relax and enjoy the ambiance of the city but also a venue for cultural events, markets, and community gatherings. Visitors can anticipate a lively atmosphere infused with the spirit of the city, making it an essential stop on any exploration of Kassel.
 
 ## History and Significance
 
@@ -82,7 +82,7 @@ To make the most of your visit to Brüder-Grimm-Platz, consider the following in
 
 When visiting Brüder-Grimm-Platz, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as the square and its surroundings are best explored on foot. Additionally, consider bringing a reusable water bottle to stay hydrated, especially during warmer months.
 
-Seasonal considerations are also important. The square tends to be liveliest during spring and summer, with outdoor events and markets. In contrast, winter may see fewer activities, but the square’s charm remains, often enhanced by seasonal decorations.
+Seasonal considerations are also important. The square tends to be liveliest during spring and summer, with outdoor events and markets. In contrast, winter may see fewer activities, but the square's charm remains, often enhanced by seasonal decorations.
 
 ## Frequently Asked Questions
 

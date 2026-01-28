@@ -30,13 +30,13 @@ Located in the heart of Berlin, Alexanderplatz is a vibrant square that serves a
 
 Historically, Alexanderplatz has evolved from a marketplace to a prominent public square that has witnessed significant events and transformations over the years. Its central location makes it an excellent starting point for exploring the diverse offerings of Berlin, from historic sites to contemporary attractions. The blend of old and new, combined with the square's accessibility, promises visitors an engaging experience filled with discovery.
 
-As you navigate through this bustling square, you will encounter a mix of historical significance and modern urban life. Whether it’s enjoying a coffee in a café, shopping in the nearby boutiques, or simply absorbing the energy of the city, Alexanderplatz invites you to explore its many facets.
+As you navigate through this bustling square, you will encounter a mix of historical significance and modern urban life. Whether it's enjoying a coffee in a café, shopping in the nearby boutiques, or simply absorbing the energy of the city, Alexanderplatz invites you to explore its many facets.
 
 ## History and Significance
 
 The history of Alexanderplatz dates back to the late 19th century when it began to develop as a central market square. Originally serving as a marketplace, it quickly became a focal point for trade and commerce in Berlin. The square underwent significant transformations throughout the 20th century, particularly during the period of the Weimar Republic and the subsequent rise of the Nazi regime. Alexanderplatz was a site of political gatherings and demonstrations, reflecting the social currents of the time.
 
-The square’s significance further escalated during the Cold War when it became a key location in East Berlin. Following the fall of the Berlin Wall, Alexanderplatz transitioned into a symbol of a reunified city, showcasing Berlin’s resilience and ability to adapt through tumultuous times. The square has been the backdrop for various cultural events, public celebrations, and protests, marking it as an important site in the collective memory of Berliners.
+The square's significance further escalated during the Cold War when it became a key location in East Berlin. Following the fall of the Berlin Wall, Alexanderplatz transitioned into a symbol of a reunified city, showcasing Berlin's resilience and ability to adapt through tumultuous times. The square has been the backdrop for various cultural events, public celebrations, and protests, marking it as an important site in the collective memory of Berliners.
 
 Today, Alexanderplatz is recognized for its dynamic character, attracting millions of visitors each year. It serves as a critical node of transportation, connecting various districts of Berlin through an extensive public transit network. The square also acts as a melting pot of cultures, reflecting the diverse population of the city.
 
@@ -78,7 +78,7 @@ To avoid the crowds, visit during weekdays, especially in the mornings. This all
 
 ## Practical Information
 
-When visiting Alexanderplatz, it’s advisable to wear comfortable clothing and shoes, as you may find yourself walking quite a bit. Depending on the season, be prepared for varying weather conditions; summers can be warm while winters may bring cold temperatures.
+When visiting Alexanderplatz, it's advisable to wear comfortable clothing and shoes, as you may find yourself walking quite a bit. Depending on the season, be prepared for varying weather conditions; summers can be warm while winters may bring cold temperatures.
 
 Bring along a camera to capture the square's unique features, and consider having a portable charger if you plan to spend a significant amount of time photographing the area. 
 

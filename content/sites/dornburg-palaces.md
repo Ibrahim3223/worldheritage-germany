@@ -96,7 +96,7 @@ When preparing for your visit to the Dornburg palaces, consider bringing the fol
 
 - **Weather-Appropriate Clothing**: Be prepared for changing weather conditions, especially if you plan to spend time outdoors in the gardens.
 
-- **Camera**: Don’t forget your camera to capture the architectural details and beautiful landscapes.
+- **Camera**: Don't forget your camera to capture the architectural details and beautiful landscapes.
 
 - **Water and Snacks**: Staying hydrated and having a light snack can help you enjoy your visit without interruptions.
 

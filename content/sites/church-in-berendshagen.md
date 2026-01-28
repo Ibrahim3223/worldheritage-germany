@@ -90,7 +90,7 @@ When visiting the Church in Berendshagen, it's advisable to keep a few practical
 A visit typically lasts about an hour, allowing time to explore the church and reflect on its significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and any services that may be taking place.
+Photography is generally permitted, but it's advisable to be respectful of the space and any services that may be taking place.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.
@@ -99,13 +99,13 @@ Check the official website for information on whether guided tours are available
 The best times are typically during the warmer months, with early mornings or late afternoons offering a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility information may vary, so it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 For entry fees and ticketing information, check the official website for the most accurate details.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the immediate vicinity of the church, so it’s advisable to plan accordingly.
+Facilities may be limited in the immediate vicinity of the church, so it's advisable to plan accordingly.
 
 ### What should I wear?
 Dress comfortably and respectfully, especially if you plan to attend a service or community event.

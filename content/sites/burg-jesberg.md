@@ -105,7 +105,7 @@ Check the official website for information regarding accessibility if this is a 
 Information on ticket purchasing will be available on the official website. It's advisable to check in advance for any online purchasing options.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafés may be limited, so it’s wise to check the official website for the most current information before your visit.
+Amenities such as restrooms and cafés may be limited, so it's wise to check the official website for the most current information before your visit.
 
 ### What should I wear?
 Dress comfortably for walking and checking the weather forecast for the day of your visit to ensure you are appropriately attired for outdoor conditions. 

@@ -22,7 +22,7 @@ images:
 
 The Hoher Forst Mining Landscape, located in Germany, is a significant cultural landscape recognized as part of a World Heritage site. This area reflects centuries of mining activity and the profound impact it has had on the region's environment and cultural heritage. With coordinates at 50.6196, 12.5688, it offers a unique insight into the historical extraction of natural resources and the development of mining technologies over time. Visitors to this landscape are invited to explore its historical context, appreciate its ecological restoration efforts, and engage with the stories of the communities that shaped this site.
 
-This cultural landscape is an emblem of the industrious spirit that characterized the region, illustrating how the mining practices influenced not only the local economy but also societal structures and cultural exchanges. As you wander through the remnants of this once-thriving industrial area, the traces of human endeavor and adaptation to the earth’s resources become apparent, making it an essential visit for those interested in industrial heritage and cultural landscapes.
+This cultural landscape is an emblem of the industrious spirit that characterized the region, illustrating how the mining practices influenced not only the local economy but also societal structures and cultural exchanges. As you wander through the remnants of this once-thriving industrial area, the traces of human endeavor and adaptation to the earth's resources become apparent, making it an essential visit for those interested in industrial heritage and cultural landscapes.
 
 ## History and Significance
 

@@ -95,7 +95,7 @@ Guided tours may be available, offering deeper insights into the exhibits and th
 Weekdays and early mornings often experience lower visitor numbers, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to verify specific accommodations with the museum ahead of your visit.
+Accessibility features may be available, but it's best to verify specific accommodations with the museum ahead of your visit.
 
 ### Can I buy tickets online?
 Ticket purchasing options may exist; check the official website for the most current information.

@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning, as w
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring a small bag for personal items and a water bottle, as some museums may not have facilities for refreshments. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area after your visit.
+When planning your visit, it's advisable to bring a small bag for personal items and a water bottle, as some museums may not have facilities for refreshments. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area after your visit.
 
 Seasonal considerations may also play a role in your experience. If you visit during colder months, be sure to dress warmly, as some museum spaces may not be fully heated. Conversely, summer visits might warrant light clothing, but consider layers in case of cooler indoor temperatures.
 

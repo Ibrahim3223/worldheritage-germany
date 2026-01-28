@@ -28,7 +28,7 @@ image_srcset:
 
 Schloss Neuburg, located in the charming town of Neuburg an der Donau, Germany, is an impressive castle that reflects the region's storied past. This majestic structure, with its commanding presence, offers visitors a glimpse into the history and architectural evolution of Bavarian castles. Situated in the picturesque landscape of Bavaria, Schloss Neuburg serves not only as a historical landmark but also as a cultural hub that embodies the heritage of the area. 
 
-The castle’s strategic location near the Danube River has historically made it a significant site, both for defense and as a residence for nobility. Today, it stands as a testament to the architectural styles and historical narratives that have shaped this region of Germany. Visitors to Schloss Neuburg can expect to immerse themselves in the castle's grandeur while enjoying the tranquil surroundings. Whether you're an aficionado of history, architecture, or simply seeking a serene escape, this castle promises an enriching experience.
+The castle's strategic location near the Danube River has historically made it a significant site, both for defense and as a residence for nobility. Today, it stands as a testament to the architectural styles and historical narratives that have shaped this region of Germany. Visitors to Schloss Neuburg can expect to immerse themselves in the castle's grandeur while enjoying the tranquil surroundings. Whether you're an aficionado of history, architecture, or simply seeking a serene escape, this castle promises an enriching experience.
 
 ## History and Significance
 
@@ -64,7 +64,7 @@ While visiting Schloss Neuburg, consider exploring these nearby attractions:
 
 3. **Danube River Promenade** – Enjoy a leisurely walk along the picturesque banks of the Danube, where you can take in the natural beauty of the region.
 
-4. **St. Peter's Church** – Visit this historic church, which is an integral part of the town’s heritage and features impressive architecture.
+4. **St. Peter's Church** – Visit this historic church, which is an integral part of the town's heritage and features impressive architecture.
 
 5. **Burgruine Klingenburg** – Explore the ruins of this nearby castle, which offers a fascinating contrast to Schloss Neuburg and insight into the area's medieval history.
 
@@ -86,7 +86,7 @@ Consider the seasonal weather when planning your visit; spring and autumn typica
 Visitors typically spend a few hours at Schloss Neuburg, allowing time to explore the castle and its gardens.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 While guided tours may be available, check the official website for current offerings and schedules.
@@ -101,7 +101,7 @@ Check the official website for information regarding accessibility options and f
 For ticket purchasing options, please refer to the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site; it’s advisable to check the official website for the latest updates.
+Facilities may be available on-site; it's advisable to check the official website for the latest updates.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, particularly if you plan to explore the grounds extensively.

@@ -72,7 +72,7 @@ To make the most of your visit to the Solabasilika und Propstei, consider the fo
 
 ## Practical Information
 
-When preparing for your visit to the Solabasilika und Propstei, it’s helpful to consider a few practical aspects:
+When preparing for your visit to the Solabasilika und Propstei, it's helpful to consider a few practical aspects:
 
 - **What to Bring**: Essentials include comfortable walking shoes, a water bottle, and possibly a small notebook if you wish to jot down thoughts or observations during your visit.
 

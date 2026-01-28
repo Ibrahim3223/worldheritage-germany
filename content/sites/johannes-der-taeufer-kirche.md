@@ -3,7 +3,7 @@ title: "Johannes-der-Täufer-Kirche"
 site_name: "Johannes-der-Täufer-Kirche"
 date: 2026-01-26
 draft: false
-description: "The Johannes-der-Täufer-Kirche, a notable church building located in the serene village of Wiesens in Germany’s Aurich region, serves as a serene focal..."
+description: "The Johannes-der-Täufer-Kirche, a notable church building located in the serene village of Wiesens in Germany's Aurich region, serves as a serene focal..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Johannes-der-Täufer-Kirche, a notable church building located in the serene village of Wiesens in Germany’s Aurich region, serves as a serene focal point for both locals and visitors alike. With its historical significance and architecture reflecting the cultural heritage of the area, this church invites exploration and contemplation. Wiesens, a quaint community, is characterized by its lush landscapes and traditional German charm, making it an ideal stop for those seeking to immerse themselves in local culture and history.
+The Johannes-der-Täufer-Kirche, a notable church building located in the serene village of Wiesens in Germany's Aurich region, serves as a serene focal point for both locals and visitors alike. With its historical significance and architecture reflecting the cultural heritage of the area, this church invites exploration and contemplation. Wiesens, a quaint community, is characterized by its lush landscapes and traditional German charm, making it an ideal stop for those seeking to immerse themselves in local culture and history.
 
 As you approach this sacred site, the peaceful ambiance of the village envelops you, inviting a moment of reflection. The church not only stands as a place of worship but also embodies the artistic and architectural endeavors of its time, showcasing the importance of such structures in fostering community and spiritual life.
 

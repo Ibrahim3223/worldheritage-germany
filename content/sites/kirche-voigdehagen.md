@@ -66,11 +66,11 @@ The best times to visit are often during weekdays when crowds may be smaller, pr
 
 4. **Stralsund Harbor**: A picturesque harbor area where visitors can enjoy waterfront views, dining options, and leisurely walks along the quayside.
 
-5. **German Oceanographic Museum**: This museum provides insight into marine exploration and research, showcasing the significance of the ocean to the region’s history and economy.
+5. **German Oceanographic Museum**: This museum provides insight into marine exploration and research, showcasing the significance of the ocean to the region's history and economy.
 
 ## Insider Tips
 
-For those looking to capture the beauty of Kirche Voigdehagen through photography, early morning or late afternoon light can provide ideal conditions. This softer light enhances the colors and details of the church’s architecture. 
+For those looking to capture the beauty of Kirche Voigdehagen through photography, early morning or late afternoon light can provide ideal conditions. This softer light enhances the colors and details of the church's architecture. 
 
 To avoid crowds, consider visiting during weekdays, particularly in the early hours. Engaging with local community events can also provide a unique glimpse into the church's role in the lives of residents, enhancing your overall experience.
 

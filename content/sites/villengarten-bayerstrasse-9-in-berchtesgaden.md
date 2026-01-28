@@ -64,7 +64,7 @@ While visiting Villengarten Bayerstraße 9, there are several nearby attractions
 
 1. **Berchtesgaden National Park**: A stunning natural reserve known for its breathtaking landscapes, hiking trails, and diverse flora and fauna. It is a perfect destination for outdoor enthusiasts.
 
-2. **Eagle's Nest (Kehlsteinhaus)**: This historical site offers insight into the area's World War II history. The eagle’s nest is accessible by a scenic drive and presents impressive mountain views.
+2. **Eagle's Nest (Kehlsteinhaus)**: This historical site offers insight into the area's World War II history. The eagle's nest is accessible by a scenic drive and presents impressive mountain views.
 
 3. **Berchtesgaden Salt Mine**: An intriguing underground experience that delves into the history of salt mining in the region. Guided tours provide insight into the operations and history of this important industry.
 
@@ -96,7 +96,7 @@ Seasonal considerations are important as well; spring and summer typically offer
 A visit to Villengarten can take anywhere from one hour to several hours, depending on your level of interest and the desire to explore the surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally allowed. It’s best to visit during early morning or late afternoon for optimal lighting.
+Yes, photography is generally allowed. It's best to visit during early morning or late afternoon for optimal lighting.
 
 ### Are there guided tours?
 Specific information on guided tours may not be available. Check the official website for any organized tours or events.
@@ -105,7 +105,7 @@ Specific information on guided tours may not be available. Check the official we
 The best times to visit are during the spring and summer months when the garden is in full bloom, although autumn also offers a unique atmosphere.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not provided. It’s best to inquire directly through the official website for accommodation details.
+Information regarding wheelchair accessibility is not provided. It's best to inquire directly through the official website for accommodation details.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options.

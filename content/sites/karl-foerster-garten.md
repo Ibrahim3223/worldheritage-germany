@@ -42,7 +42,7 @@ Culturally, the Karl-Foerster-Garten contributes to the broader context of Germa
 
 The design of the Karl-Foerster-Garten reflects a thoughtful approach to landscape architecture, integrating various plant species in a manner that highlights their unique characteristics. Visitors will find a range of garden areas, each showcasing different themes and planting strategies, which vary in layout and design. 
 
-One of the defining features of the garden is its careful curation of plant collections, which include perennial plants, shrubs, and seasonal blooms. These collections are organized to demonstrate the aesthetic potential of various plant combinations and to inspire visitors’ own gardening endeavors. 
+One of the defining features of the garden is its careful curation of plant collections, which include perennial plants, shrubs, and seasonal blooms. These collections are organized to demonstrate the aesthetic potential of various plant combinations and to inspire visitors' own gardening endeavors. 
 
 The garden pathways are designed to invite exploration, winding through different sections and providing opportunities to observe the plants from various angles. Seating areas are thoughtfully placed for those wishing to pause and enjoy the surroundings. Importantly, the garden's design reflects Foerster's principles of allowing for year-round beauty, with plants selected to ensure continuous blooms and foliage throughout the seasons.
 
@@ -72,7 +72,7 @@ The Karl-Foerster-Garten is well-positioned among several notable attractions in
 
 For photography enthusiasts, the Karl-Foerster-Garten presents numerous opportunities to capture the beauty of diverse plant species. Early morning or late afternoon often provides the best lighting for photographs, casting a warm glow over the flowers and foliage. 
 
-To avoid crowds, consider visiting on weekdays or during the early hours of the day. This can enhance your experience, allowing for a more peaceful exploration of the garden’s features.
+To avoid crowds, consider visiting on weekdays or during the early hours of the day. This can enhance your experience, allowing for a more peaceful exploration of the garden's features.
 
 ## Practical Information
 

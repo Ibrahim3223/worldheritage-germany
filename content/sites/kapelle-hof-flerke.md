@@ -34,7 +34,7 @@ The town of Werl itself is steeped in history, with roots that trace back to med
 
 The history of Kapelle Hof Flerke is intertwined with the broader cultural and spiritual narratives of Werl. While specific historical dates may be elusive, the chapel has served its community for generations, symbolizing faith and resilience. Its existence reflects the deep-rooted traditions of ecclesiastical architecture that have shaped the region. 
 
-In many ways, the chapel is a microcosm of Werl’s historical journey, embodying the artistic and spiritual expressions of different eras. Over time, it has witnessed various cultural shifts, each leaving its mark on the community's identity. The chapel has likely hosted numerous religious ceremonies, community gatherings, and significant events, reinforcing its role as a central figure in the lives of local residents.
+In many ways, the chapel is a microcosm of Werl's historical journey, embodying the artistic and spiritual expressions of different eras. Over time, it has witnessed various cultural shifts, each leaving its mark on the community's identity. The chapel has likely hosted numerous religious ceremonies, community gatherings, and significant events, reinforcing its role as a central figure in the lives of local residents.
 
 The significance of Kapelle Hof Flerke extends beyond its physical structure; it represents the continuity of faith practices and community solidarity in a rapidly changing world. Visitors to the chapel can appreciate its role in the spiritual life of the area and reflect on its enduring presence as a sanctuary of peace and a repository of collective memory.
 
@@ -60,13 +60,13 @@ Visitors can expect a contemplative atmosphere, with opportunities for personal 
 
 Werl is home to several attractions that complement a visit to Kapelle Hof Flerke. After soaking in the spiritual ambiance of the chapel, consider exploring these nearby sites:
 
-1. **St. John’s Church** - An important historical church that showcases beautiful architecture and offers insight into the region's religious heritage.
+1. **St. John's Church** - An important historical church that showcases beautiful architecture and offers insight into the region's religious heritage.
 
 2. **Werl Town Museum** - A small yet informative museum that provides context about the history and development of Werl, featuring exhibits that highlight local culture.
 
 3. **Werl Market Square** - A vibrant area where local vendors gather, offering a taste of the community's daily life and perhaps some local delicacies.
 
-4. **The Old Town** - Take a leisurely stroll through Werl’s historic streets, where you can enjoy the charming architecture and atmosphere of this quaint town.
+4. **The Old Town** - Take a leisurely stroll through Werl's historic streets, where you can enjoy the charming architecture and atmosphere of this quaint town.
 
 5. **Nearby Nature Parks** - If you have time, explore the natural landscapes surrounding Werl, which offer opportunities for walking and enjoying the outdoors.
 
@@ -107,7 +107,7 @@ Accessibility information is not specified. It is advisable to check the officia
 Information on ticket purchases should be verified on the official website, as options may vary.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not detailed. It’s best to check nearby facilities or the official website for further information.
+Specific amenities such as restrooms and cafes are not detailed. It's best to check nearby facilities or the official website for further information.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of worship. Consider wearing layers to adapt to changing temperatures.

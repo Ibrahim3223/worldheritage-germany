@@ -42,7 +42,7 @@ Both sites are characterized by their archaeological richness, revealing artifac
 
 The Archaeological Border Complex is defined by its two main components: the remains of Hedeby and the Danevirke. 
 
-Hedeby was characterized by its well-planned layout, featuring a network of streets and houses that reflected the organization of a bustling urban center. Archaeological excavations have uncovered a variety of structures, including wooden houses, workshops, and storage facilities, illustrating the everyday life of its inhabitants. The remnants of the harbor area reveal the town’s role as a maritime hub, with evidence of shipbuilding and trade activities.
+Hedeby was characterized by its well-planned layout, featuring a network of streets and houses that reflected the organization of a bustling urban center. Archaeological excavations have uncovered a variety of structures, including wooden houses, workshops, and storage facilities, illustrating the everyday life of its inhabitants. The remnants of the harbor area reveal the town's role as a maritime hub, with evidence of shipbuilding and trade activities.
 
 The Danevirke, on the other hand, is an impressive feat of engineering. This extensive fortification system includes earthen ramparts and wooden palisades, which were strategically constructed to create a formidable barrier against potential invaders. The architecture of the Danevirke is a testament to the logistical and military planning of the era, as it was designed to be both functional and resilient. Various sections of the fortifications have been preserved, allowing visitors to appreciate the scale and complexity of this ancient defensive structure.
 
@@ -84,7 +84,7 @@ To make the most of your visit to the Archaeological Border Complex, consider th
 
 When planning your visit to the Archaeological Border Complex, keep the following practical considerations in mind:
 
-- **What to Bring**: It’s advisable to carry water, snacks, and a camera to capture your experience. A small backpack can be handy for these essentials.
+- **What to Bring**: It's advisable to carry water, snacks, and a camera to capture your experience. A small backpack can be handy for these essentials.
 
 - **Seasonal Considerations**: The site can be visited year-round, but check the official website for seasonal opening hours and any special events that may be taking place.
 

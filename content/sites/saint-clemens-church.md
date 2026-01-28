@@ -80,9 +80,9 @@ If you wish to engage more deeply with the church's history, consider joining an
 
 ## Practical Information
 
-When visiting Saint Clemens Church, it’s recommended to bring a small bag with essentials, including water and a camera for capturing memories. Dress in comfortable clothing and footwear, as you may want to explore the area surrounding the church as well.
+When visiting Saint Clemens Church, it's recommended to bring a small bag with essentials, including water and a camera for capturing memories. Dress in comfortable clothing and footwear, as you may want to explore the area surrounding the church as well.
 
-Seasonal considerations are important; if you’re visiting during colder months, be sure to dress warmly, as the coastal climate can be brisk. Conversely, summer visitors should be prepared for warmer weather and consider sun protection if planning to spend time outdoors.
+Seasonal considerations are important; if you're visiting during colder months, be sure to dress warmly, as the coastal climate can be brisk. Conversely, summer visitors should be prepared for warmer weather and consider sun protection if planning to spend time outdoors.
 
 ## Frequently Asked Questions
 

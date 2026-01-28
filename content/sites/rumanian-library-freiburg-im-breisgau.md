@@ -58,23 +58,23 @@ Freiburg im Breisgau is a city rich in history and culture, offering several att
 
 1. **Freiburg Minster**: This iconic Gothic cathedral, known for its stunning architecture and impressive tower, is a short distance from the library. Visitors can explore its remarkable stained glass windows and intricate stone carvings.
 
-2. **Schwarzwald**: The nearby Black Forest provides an opportunity for outdoor enthusiasts to enjoy hiking, cycling, and exploring the natural beauty of the region. The forest’s trails cater to various skill levels and offer serene landscapes.
+2. **Schwarzwald**: The nearby Black Forest provides an opportunity for outdoor enthusiasts to enjoy hiking, cycling, and exploring the natural beauty of the region. The forest's trails cater to various skill levels and offer serene landscapes.
 
 3. **Augustiner Museum**: Located in a former monastery, this museum houses an extensive collection of art and artifacts from the Middle Ages to the present, making it a fascinating stop for art lovers.
 
-4. **Historisches Kaufhaus**: This historical building is a prime example of Freiburg's architectural heritage, showcasing Renaissance-style design. It is often used for events and exhibitions, providing insight into the city’s past.
+4. **Historisches Kaufhaus**: This historical building is a prime example of Freiburg's architectural heritage, showcasing Renaissance-style design. It is often used for events and exhibitions, providing insight into the city's past.
 
 5. **Bächle**: A unique feature of Freiburg, these small water-filled channels run through the streets, offering a charming and picturesque walk through the city while learning about its historical significance.
 
 ## Insider Tips
 
-To make the most of your visit to the Rumanian Library, consider bringing a camera to capture the unique atmosphere and any special exhibitions. While photography policies may vary, it’s always courteous to ask staff before taking pictures.
+To make the most of your visit to the Rumanian Library, consider bringing a camera to capture the unique atmosphere and any special exhibitions. While photography policies may vary, it's always courteous to ask staff before taking pictures.
 
 To avoid crowds, plan your visit during weekdays or early in the morning. This timing can provide a quieter experience, allowing for uninterrupted exploration of the library's collections and resources. Engaging with library staff can also enhance your visit; they are often knowledgeable about the collection and can provide recommendations tailored to your interests.
 
 ## Practical Information
 
-When visiting the Rumanian Library, it’s advisable to bring a valid form of identification, especially if you plan to borrow books. Depending on the season, dress comfortably, as you may spend time both indoors and outdoors while exploring the library and surrounding attractions.
+When visiting the Rumanian Library, it's advisable to bring a valid form of identification, especially if you plan to borrow books. Depending on the season, dress comfortably, as you may spend time both indoors and outdoors while exploring the library and surrounding attractions.
 
 Seasonal considerations may also impact your visit. For instance, spring and summer months often bring more visitors, particularly to outdoor events. If you prefer a quieter experience, consider visiting during the winter months, when the library and city offer a cozy atmosphere.
 
@@ -84,16 +84,16 @@ Seasonal considerations may also impact your visit. For instance, spring and sum
 A visit to the Rumanian Library typically takes about one to two hours, depending on your interests and engagement in any events.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with library staff before taking pictures.
+Photography policies may vary, so it's best to check with library staff before taking pictures.
 
 ### Are there guided tours?
-Information regarding guided tours can be found on the library’s official website. These may be offered during special events or exhibitions.
+Information regarding guided tours can be found on the library's official website. These may be offered during special events or exhibitions.
 
 ### What's the best time to visit?
 Visiting during weekdays or early mornings can provide a quieter experience, while special events may draw larger crowds during weekends.
 
 ### Is it wheelchair accessible?
-Accessibility features are generally available, but it’s advisable to check the official website for specific details.
+Accessibility features are generally available, but it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, as this may vary for special events.

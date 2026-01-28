@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St. Bernward is a prominent church building located in the Döhren-Wülfel district of Hanover, Germany. This architectural and cultural landmark is a significant part of the city’s heritage, reflecting the rich religious and social history of the region. The church serves not only as a place of worship but also as a gathering point for the community, offering a space for reflection and connection. Visitors to St. Bernward can expect to encounter an environment steeped in tradition, with an inviting atmosphere that encourages exploration and contemplation. 
+St. Bernward is a prominent church building located in the Döhren-Wülfel district of Hanover, Germany. This architectural and cultural landmark is a significant part of the city's heritage, reflecting the rich religious and social history of the region. The church serves not only as a place of worship but also as a gathering point for the community, offering a space for reflection and connection. Visitors to St. Bernward can expect to encounter an environment steeped in tradition, with an inviting atmosphere that encourages exploration and contemplation. 
 
-The surrounding area of Döhren-Wülfel is characterized by a blend of residential charm and urban accessibility, making St. Bernward a convenient stop for both locals and tourists. Whether you are drawn to its architectural design, historical significance, or community role, St. Bernward holds a unique place within Hanover’s cultural landscape.
+The surrounding area of Döhren-Wülfel is characterized by a blend of residential charm and urban accessibility, making St. Bernward a convenient stop for both locals and tourists. Whether you are drawn to its architectural design, historical significance, or community role, St. Bernward holds a unique place within Hanover's cultural landscape.
 
 ## History and Significance
 
@@ -40,11 +40,11 @@ As you explore St. Bernward, you will encounter elements that tell the story of 
 
 ## Architecture and Features
 
-St. Bernward is characterized by its distinct architectural style, representative of the ecclesiastical buildings in Germany. The church’s design is likely marked by traditional elements that reflect its purpose as a place of worship. Visitors can expect to see features typical of church architecture, such as soaring ceilings, intricate stained glass windows, and a welcoming entrance.
+St. Bernward is characterized by its distinct architectural style, representative of the ecclesiastical buildings in Germany. The church's design is likely marked by traditional elements that reflect its purpose as a place of worship. Visitors can expect to see features typical of church architecture, such as soaring ceilings, intricate stained glass windows, and a welcoming entrance.
 
 Inside, St. Bernward may offer a serene atmosphere, conducive to reflection and prayer. The layout of the church is designed to accommodate congregational gatherings, with spaces that foster community connection. The use of light and space within the church is likely intentional, inviting visitors to pause and appreciate the artistry of the structure.
 
-While specific details on the church's architectural dimensions and unique features are not provided, the overall aesthetic and functional design of St. Bernward contribute to its status as a significant religious site. The church’s interior and exterior are likely to hold artistic and historical elements that enhance its appeal for visitors interested in architecture and history.
+While specific details on the church's architectural dimensions and unique features are not provided, the overall aesthetic and functional design of St. Bernward contribute to its status as a significant religious site. The church's interior and exterior are likely to hold artistic and historical elements that enhance its appeal for visitors interested in architecture and history.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While exploring St. Bernward, consider visiting some nearby attractions to enric
 
 For those looking to capture the beauty of St. Bernward, photography is likely allowed, but it is advisable to be respectful of the space and its purpose as a place of worship. Early mornings or late afternoons may offer softer lighting for photography, enhancing your images.
 
-To avoid larger crowds, consider visiting during weekdays or outside of major religious holidays. This will allow for a more intimate experience and ample time to absorb the church’s atmosphere.
+To avoid larger crowds, consider visiting during weekdays or outside of major religious holidays. This will allow for a more intimate experience and ample time to absorb the church's atmosphere.
 
 ## Practical Information
 

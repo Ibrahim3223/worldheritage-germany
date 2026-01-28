@@ -66,7 +66,7 @@ When exploring Brauselay, consider visiting these nearby attractions to enhance 
 
 4. **Burg Eltz**: A short drive from Brauselay, this fairy-tale castle is well-preserved and surrounded by lush forests, making it a perfect day trip.
 
-5. **Cochem’s Old Town**: Wander through the charming streets filled with half-timbered houses, shops, and cafes that reflect the region’s culture.
+5. **Cochem's Old Town**: Wander through the charming streets filled with half-timbered houses, shops, and cafes that reflect the region's culture.
 
 ## Insider Tips
 
@@ -101,7 +101,7 @@ Accessibility information is not specified. It is recommended to check the offic
 Ticket purchasing options can differ; check the official website for any online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes at the reserve are not mentioned. It’s advisable to bring provisions and check the official website for more information.
+Facilities such as restrooms and cafes at the reserve are not mentioned. It's advisable to bring provisions and check the official website for more information.
 
 ### What should I wear?
 Wear comfortable, season-appropriate clothing and sturdy walking shoes to navigate the trails comfortably.

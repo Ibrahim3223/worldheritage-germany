@@ -72,7 +72,7 @@ While Blutwiese is a destination in its own right, several nearby attractions ca
 
 4. **Potts Park**: This amusement park, located in nearby Minden, features attractions for families, making it a good option for those traveling with children.
 
-5. **Schloss Bad Pyrmont**: A short drive further afield, this historic castle and its gardens are a beautiful representation of the region’s heritage and provide a picturesque day trip option.
+5. **Schloss Bad Pyrmont**: A short drive further afield, this historic castle and its gardens are a beautiful representation of the region's heritage and provide a picturesque day trip option.
 
 ## Insider Tips
 

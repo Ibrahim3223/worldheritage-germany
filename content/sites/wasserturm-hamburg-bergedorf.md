@@ -98,7 +98,7 @@ The best times to visit are during the spring and summer months when the weather
 Information regarding wheelchair accessibility is not specified. It is recommended to check the official website or contact the venue for detailed access information.
 
 ### Can I buy tickets online?
-Current information regarding ticket purchases can be found on the official website. It’s a good practice to verify this before your visit.
+Current information regarding ticket purchases can be found on the official website. It's a good practice to verify this before your visit.
 
 ### Are there restrooms and cafes?
 Details about restrooms and cafes nearby may vary. It is advisable to check local amenities while planning your visit.

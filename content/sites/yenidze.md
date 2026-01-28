@@ -64,7 +64,7 @@ When visiting Yenidze, several nearby attractions can enhance your experience in
    
 3. **Semper Opera House**: Renowned for its stunning architecture and world-class performances, the opera house is a must-visit for those interested in the performing arts.
    
-4. **Dresden Castle**: This historic castle complex features a mix of architectural styles and hosts several museums, providing insight into the city’s history.
+4. **Dresden Castle**: This historic castle complex features a mix of architectural styles and hosts several museums, providing insight into the city's history.
 
 5. **Brühl's Terrace**: Known as the "Balcony of Europe," this picturesque promenade offers scenic views of the Elbe River and the city, perfect for a leisurely stroll.
 

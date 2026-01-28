@@ -48,7 +48,7 @@ The Holy-Cross Church serves not only as a place for individual reflection and w
 
 ## Visiting Information
 
-When planning your visit to the Holy-Cross Church, various transportation options are available to reach Königs Wusterhausen. It’s advisable to check the official website for current information regarding opening hours and potential admission fees. 
+When planning your visit to the Holy-Cross Church, various transportation options are available to reach Königs Wusterhausen. It's advisable to check the official website for current information regarding opening hours and potential admission fees. 
 
 Visitors can expect to spend approximately one to two hours exploring the church and its surroundings. The atmosphere is generally peaceful, making it a suitable location for contemplation. Depending on the time of year, the church may host special services and events, which can enhance your visit.
 
@@ -97,7 +97,7 @@ Check the official website for information on guided tours, as offerings may cha
 Weekdays, particularly early in the day, are ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility options, it’s recommended to check the official website or inquire on-site.
+For specific accessibility options, it's recommended to check the official website or inquire on-site.
 
 ### Can I buy tickets online?
 For current ticketing options, refer to the official church website.

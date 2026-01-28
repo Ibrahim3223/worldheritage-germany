@@ -71,7 +71,7 @@ To make the most of your visit to Grenzau Castle, consider these insider tips:
 - **Photography**: Capture the castle's grandeur by exploring different angles from various vantage points. Early morning or late afternoon light can enhance your photos.
 - **Crowd Avoidance**: If possible, visit during weekdays or early in the day to avoid larger crowds, allowing for a more intimate experience.
 - **Guided Tours**: Check if guided tours are available, as they can provide deeper insights into the history and architecture of the castle.
-- **Engage with Staff**: Don’t hesitate to ask staff members questions; they can often share fascinating stories and details not found in the informational materials.
+- **Engage with Staff**: Don't hesitate to ask staff members questions; they can often share fascinating stories and details not found in the informational materials.
 
 ## Practical Information
 

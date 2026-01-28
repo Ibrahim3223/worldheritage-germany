@@ -28,7 +28,7 @@ image_srcset:
 
 The Sonnenstein Euthanasia Centre, located within the grounds of Sonnenstein Castle in Pirna, Germany, serves as a poignant reminder of one of the darkest chapters in human history. This museum, established on the site of a Nazi killing facility, encapsulates the harrowing narrative of the T4 program, which systematically murdered those deemed "unworthy of life." Visitors to the centre may find themselves grappling with the weight of a legacy defined by suffering and loss, while also reflecting on the broader implications of ethics in healthcare and society.
 
-The geographical context of the Sonnenstein Euthanasia Centre provides a stark backdrop to its historical significance. Situated in Saxony, near the picturesque town of Pirna and not far from the bustling city of Dresden, the museum is accessible to both local and international visitors. It invites individuals to engage not only with the site’s grim past but also with the essential lessons it offers for the present and future.
+The geographical context of the Sonnenstein Euthanasia Centre provides a stark backdrop to its historical significance. Situated in Saxony, near the picturesque town of Pirna and not far from the bustling city of Dresden, the museum is accessible to both local and international visitors. It invites individuals to engage not only with the site's grim past but also with the essential lessons it offers for the present and future.
 
 As a site of remembrance and education, the Sonnenstein Euthanasia Centre promises an experience that challenges visitors to confront uncomfortable truths about humanity. This guide aims to equip you with essential information for a visit that is both informative and reflective.
 

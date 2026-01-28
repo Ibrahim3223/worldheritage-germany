@@ -78,7 +78,7 @@ To make the most of your visit to Brockzeteler Moor, consider the following insi
 
 ## Practical Information
 
-When planning your visit to Brockzeteler Moor, it’s advisable to bring the following items:
+When planning your visit to Brockzeteler Moor, it's advisable to bring the following items:
 
 - **Comfortable Footwear**: Wear sturdy walking shoes suitable for uneven terrain, as the paths can vary in condition.
 

@@ -78,7 +78,7 @@ When exploring the site, take your time to absorb the atmosphere and reflect on 
 
 ## Practical Information
 
-When planning your visit to Goloring, it’s wise to bring along some essentials. Comfortable walking shoes are recommended, as the terrain may vary and some areas might require a bit of trekking. Additionally, bringing water and snacks can enhance your experience, especially if you plan to spend a few hours exploring the site and its surroundings.
+When planning your visit to Goloring, it's wise to bring along some essentials. Comfortable walking shoes are recommended, as the terrain may vary and some areas might require a bit of trekking. Additionally, bringing water and snacks can enhance your experience, especially if you plan to spend a few hours exploring the site and its surroundings.
 
 Seasonal considerations are important as well; while the site can be visited year-round, spring and autumn offer the most pleasant weather. Be prepared for varying weather conditions, and check the forecast in advance to ensure a comfortable visit.
 

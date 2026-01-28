@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays or early in the day, particul
 
 ## Practical Information
 
-When planning your visit to Stuhlmannbrunnen, it’s advisable to wear comfortable walking shoes, as you may want to explore the surrounding area. Depending on the season, consider bringing a light jacket or umbrella, as weather in Hamburg can be unpredictable.
+When planning your visit to Stuhlmannbrunnen, it's advisable to wear comfortable walking shoes, as you may want to explore the surrounding area. Depending on the season, consider bringing a light jacket or umbrella, as weather in Hamburg can be unpredictable.
 
 If you plan to spend time in the area, consider packing a small picnic or snacks to enjoy in one of the nearby parks or along the Elbe promenade. This can enhance your experience and provide a lovely break during your explorations.
 

@@ -70,7 +70,7 @@ While exploring Schloss Neetzow, consider visiting these nearby attractions that
 
 To capture the essence of Schloss Neetzow through photography, consider visiting during the golden hours of early morning or late afternoon when the light enhances the manor's features. Avoid peak visiting times, which can occur on weekends and during holidays, to enjoy a more tranquil experience. 
 
-Take your time to wander the grounds and look for unique angles to photograph the architecture, as well as the surrounding landscapes. If guided tours are available, consider joining one for a deeper understanding of the site’s history, which can enrich your visit.
+Take your time to wander the grounds and look for unique angles to photograph the architecture, as well as the surrounding landscapes. If guided tours are available, consider joining one for a deeper understanding of the site's history, which can enrich your visit.
 
 ## Practical Information
 

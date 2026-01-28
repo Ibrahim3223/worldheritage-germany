@@ -42,7 +42,7 @@ The Ludwigsdenkmal stands as a cultural landmark in Worms, drawing attention fro
 
 The architectural design of the Ludwigsdenkmal reflects the aesthetic values of the era in which it was conceived. The monument is characterized by its grandeur and attention to detail, showcasing a blend of classical and contemporary styles that reinforce its historical significance. While specific dimensions and materials are not provided, the overall composition of the monument is impressive, with its towering presence commanding respect.
 
-Notable features include intricate carvings and statuary that illustrate emblematic themes related to Ludwig I's reign. These artistic elements not only enhance the monument's visual appeal but also convey deeper meanings associated with the ideals of leadership, culture, and national identity. The monument’s design allows for contemplation and reflection, encouraging visitors to immerse themselves in the historical narratives it represents.
+Notable features include intricate carvings and statuary that illustrate emblematic themes related to Ludwig I's reign. These artistic elements not only enhance the monument's visual appeal but also convey deeper meanings associated with the ideals of leadership, culture, and national identity. The monument's design allows for contemplation and reflection, encouraging visitors to immerse themselves in the historical narratives it represents.
 
 As you approach the Ludwigsdenkmal, take a moment to appreciate the craftsmanship and artistry that have gone into its creation. The surrounding area complements the monument, providing an inviting atmosphere for those who wish to linger and absorb the significance of the site.
 

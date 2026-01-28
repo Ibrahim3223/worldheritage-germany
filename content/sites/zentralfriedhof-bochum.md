@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Zentralfriedhof Bochum, located in the heart of Bochum-Mitte, Germany, serves as a significant cultural and historical site. This expansive cemetery is not just a resting place for the deceased but also a reflection of the city’s history, architecture, and the lives of those who have shaped the local community. The cemetery is a peaceful sanctuary amid the bustling urban environment, offering visitors a unique blend of tranquility and reflection.
+Zentralfriedhof Bochum, located in the heart of Bochum-Mitte, Germany, serves as a significant cultural and historical site. This expansive cemetery is not just a resting place for the deceased but also a reflection of the city's history, architecture, and the lives of those who have shaped the local community. The cemetery is a peaceful sanctuary amid the bustling urban environment, offering visitors a unique blend of tranquility and reflection.
 
 As one navigates through its pathways, one can appreciate the artistry in the gravestones and memorials, which tell stories of the past and commemorate individuals from various walks of life. The site holds a special place not only for the families of those interred but also for visitors seeking to understand Bochum's heritage. Whether you are a history enthusiast, an architecture lover, or simply in need of a serene escape, Zentralfriedhof Bochum promises a meaningful experience.
 
@@ -80,7 +80,7 @@ To avoid crowds, try to visit during weekdays or early in the morning. This timi
 
 As you prepare for your visit to Zentralfriedhof Bochum, consider bringing along a few essentials. Comfortable walking shoes are advisable, as you may spend considerable time exploring the expansive grounds. Additionally, a bottle of water and a light snack can enhance your experience, particularly if you plan to spend time reflecting on the site.
 
-Seasonal considerations should also be taken into account. The cemetery’s beauty changes with the seasons, offering different experiences throughout the year. Spring and summer bring vibrant blooms, while autumn offers a picturesque display of foliage. Winter visits can provide a serene and quiet atmosphere, although it may be colder, so dressing accordingly is essential.
+Seasonal considerations should also be taken into account. The cemetery's beauty changes with the seasons, offering different experiences throughout the year. Spring and summer bring vibrant blooms, while autumn offers a picturesque display of foliage. Winter visits can provide a serene and quiet atmosphere, although it may be colder, so dressing accordingly is essential.
 
 ## Frequently Asked Questions
 

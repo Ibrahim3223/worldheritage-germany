@@ -78,7 +78,7 @@ If you're interested in engaging with local culture, consider timing your visit 
 
 When visiting St. Johannes der Täufer, it's wise to bring along essentials such as a water bottle, comfortable walking shoes, and perhaps a light jacket, as the weather can vary. Seasonal changes may affect the chapel's atmosphere, with spring and summer likely offering vibrant surroundings, while autumn might provide a unique backdrop of changing foliage.
 
-Be prepared for limited amenities in the immediate vicinity, so consider planning your visit accordingly. Checking the official website for the most current information regarding the chapel’s accessibility and facilities is advisable.
+Be prepared for limited amenities in the immediate vicinity, so consider planning your visit accordingly. Checking the official website for the most current information regarding the chapel's accessibility and facilities is advisable.
 
 ## Frequently Asked Questions
 

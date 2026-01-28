@@ -44,7 +44,7 @@ Burg Hugofels presents a fascinating study in medieval architectural styles. The
 
 Among the notable features of Burg Hugofels is its strategic layout, designed to maximize defense capabilities. The placement of towers and battlements reflects the military architecture of the time, allowing for surveillance and protection against potential attackers. The castle likely features various rooms that would have served different functions, from living quarters to storage spaces, each designed to support the daily life of its inhabitants.
 
-Visitors will find that the architecture of Burg Hugofels invites exploration and curiosity. Every corner of the castle tells a story, with remnants of its past visible in the stonework and layout. The interplay of light and shadow within the castle’s walls creates an atmosphere that seems to echo the footsteps of history, making it a compelling destination for those interested in architectural heritage.
+Visitors will find that the architecture of Burg Hugofels invites exploration and curiosity. Every corner of the castle tells a story, with remnants of its past visible in the stonework and layout. The interplay of light and shadow within the castle's walls creates an atmosphere that seems to echo the footsteps of history, making it a compelling destination for those interested in architectural heritage.
 
 ## Visiting Information
 

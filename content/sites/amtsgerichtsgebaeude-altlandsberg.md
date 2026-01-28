@@ -32,7 +32,7 @@ For travelers interested in exploring German heritage, the Amtsgerichtsgebäude 
 
 ## History and Significance
 
-The Amtsgerichtsgebäude Altlandsberg stands as a significant structure within the context of the town’s history. While specific historical dates are not available, it is understood that city halls typically serve as essential components of municipal governance, where local leaders convene and community members gather for civic matters. The history of Altlandsberg itself dates back centuries, contributing to the importance of the city hall as a venue for decision-making and public service.
+The Amtsgerichtsgebäude Altlandsberg stands as a significant structure within the context of the town's history. While specific historical dates are not available, it is understood that city halls typically serve as essential components of municipal governance, where local leaders convene and community members gather for civic matters. The history of Altlandsberg itself dates back centuries, contributing to the importance of the city hall as a venue for decision-making and public service.
 
 As a city hall, this building has played a crucial role in the administrative functions of Altlandsberg. It has witnessed numerous changes in governance styles, reflecting the broader shifts in political landscapes over the years. The significance of Amtsgerichtsgebäude lies not only in its role as a center for local administration but also as a community hub where citizens engage in civic life and partake in local events. Its ongoing use underscores the importance of such institutions in maintaining the democratic fabric of society.
 
@@ -76,7 +76,7 @@ While visiting the Amtsgerichtsgebäude Altlandsberg, there are several nearby a
 
 To make the most of your visit to the Amtsgerichtsgebäude Altlandsberg, here are a few insider tips:
 
-- **Photography**: While photography is often permitted, it’s best to check for any restrictions, especially in areas where official business is conducted.
+- **Photography**: While photography is often permitted, it's best to check for any restrictions, especially in areas where official business is conducted.
 
 - **Crowd Avoidance**: To experience the city hall without the hustle, consider visiting during non-peak hours. Mornings or early afternoons on weekdays may offer a quieter atmosphere.
 

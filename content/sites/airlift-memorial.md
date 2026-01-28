@@ -28,7 +28,7 @@ image_srcset:
 
 The Airlift Memorial, a striking series of monuments in Celle, Germany, stands as a poignant reminder of a significant chapter in post-war history. Designed by architect Eduard Ludwig, this memorial pays tribute to the Berlin Airlift, a critical operation during the Cold War that symbolized the resilience and determination of those involved. The site captures the essence of human spirit during a time of adversity, making it a meaningful destination for history enthusiasts and travelers alike.
 
-Located in the picturesque region of Celle, the Airlift Memorial invites visitors to reflect on the sacrifices made during a period marked by division and conflict. The site’s significance extends beyond its architectural merit; it serves as a place for remembrance, learning, and appreciation of the collaborative efforts that shaped modern Europe. As you explore the memorial, you will gain insight into the historical context of the airlift and its impact on international relations.
+Located in the picturesque region of Celle, the Airlift Memorial invites visitors to reflect on the sacrifices made during a period marked by division and conflict. The site's significance extends beyond its architectural merit; it serves as a place for remembrance, learning, and appreciation of the collaborative efforts that shaped modern Europe. As you explore the memorial, you will gain insight into the historical context of the airlift and its impact on international relations.
 
 Visitors can expect to engage with both the solemnity of the memorial and the beauty of its surroundings. The Airlift Memorial stands as a focal point for those seeking to understand the complexities of Cold War history while enjoying the serene environment of Celle. 
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the serene landscape of Dresden, Germany, the Neues Palais Pillnitz emerges as a striking representation of regal architecture and cultural heritage. Set against a backdrop of lush gardens and the banks of the Elbe River, this palace invites visitors to explore its storied past and architectural grandeur. As a significant heritage building, it reflects the opulence of its time while also serving as a reminder of the region's historical narratives. The palace stands as a prominent feature in Dresden’s rich tapestry of cultural sites, offering a glimpse into the lives of the royals who once resided here. Whether you are an architecture enthusiast or a history buff, the Neues Palais Pillnitz promises a captivating experience that resonates with the charm and elegance of a bygone era.
+In the serene landscape of Dresden, Germany, the Neues Palais Pillnitz emerges as a striking representation of regal architecture and cultural heritage. Set against a backdrop of lush gardens and the banks of the Elbe River, this palace invites visitors to explore its storied past and architectural grandeur. As a significant heritage building, it reflects the opulence of its time while also serving as a reminder of the region's historical narratives. The palace stands as a prominent feature in Dresden's rich tapestry of cultural sites, offering a glimpse into the lives of the royals who once resided here. Whether you are an architecture enthusiast or a history buff, the Neues Palais Pillnitz promises a captivating experience that resonates with the charm and elegance of a bygone era.
 
 ## History and Significance
 

@@ -36,7 +36,7 @@ Visiting the Körnermuseum is an opportunity to delve into a unique aspect of Ge
 
 Johann Gottfried Körner, born in the late 18th century, played a pivotal role in the landscape of German literature. His literary works, characterized by their emotional depth and innovative use of language, reflect the shifting cultural norms of his time. As a member of the intellectual elite, Körner interacted with many of the notable figures of the Enlightenment, contributing to the vibrant discourse surrounding art, philosophy, and politics.
 
-The establishment of the Körnermuseum serves as an important cultural endeavor to preserve Körner's legacy and the broader literary movements of the era. It provides a platform for exploring the interconnections between literature and the societal changes occurring in Germany. The museum’s collections include manuscripts, letters, and personal artifacts that illuminate Körner’s life and work, while also placing them within the context of the burgeoning literary scene in Dresden.
+The establishment of the Körnermuseum serves as an important cultural endeavor to preserve Körner's legacy and the broader literary movements of the era. It provides a platform for exploring the interconnections between literature and the societal changes occurring in Germany. The museum's collections include manuscripts, letters, and personal artifacts that illuminate Körner's life and work, while also placing them within the context of the burgeoning literary scene in Dresden.
 
 In addition to its focus on Körner, the museum also highlights the influence of the Enlightenment on German literature. It serves as a reminder of the importance of intellectual exchange and cultural dialogue, showcasing how literature can reflect and shape societal values. By focusing on this period, the Körnermuseum not only honors Körner but also the collective contributions of many writers and thinkers who laid the groundwork for modern German literature.
 
@@ -44,7 +44,7 @@ In addition to its focus on Körner, the museum also highlights the influence of
 
 The Körnermuseum is housed in a building that reflects the architectural styles prevalent in Dresden during the 18th century. While specific details about the structure are not provided, it can be appreciated as part of the city's rich architectural heritage. Typically, such buildings showcase elegant facades and thoughtful design that resonate with the artistic movements of their time, creating a fitting backdrop for the literary treasures contained within.
 
-Inside, the museum is designed to facilitate an intimate experience with Körner’s works and life. The layout is likely organized to guide visitors through various exhibitions, with spaces dedicated to different aspects of his literary career. Notable features may include display cases housing original manuscripts, personal letters, and memorabilia that offer insights into Körner's relationships with other literary figures and his personal experiences.
+Inside, the museum is designed to facilitate an intimate experience with Körner's works and life. The layout is likely organized to guide visitors through various exhibitions, with spaces dedicated to different aspects of his literary career. Notable features may include display cases housing original manuscripts, personal letters, and memorabilia that offer insights into Körner's relationships with other literary figures and his personal experiences.
 
 The museum is also equipped to host events, readings, and discussions that reflect the continuing relevance of Körner's work in contemporary literature. While specific visitor facilities are not detailed, museums of this nature typically provide spaces conducive to learning and engagement, enhancing the overall experience for those who come to explore.
 
@@ -78,17 +78,17 @@ To make the most of your visit to the Körnermuseum, consider the following tips
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or in the early hours after opening. This can enhance your ability to engage with the exhibitions without the distraction of larger crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights. They often have valuable knowledge about the exhibitions and can enhance your understanding of Körner's significance.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights. They often have valuable knowledge about the exhibitions and can enhance your understanding of Körner's significance.
 
 ## Practical Information
 
 When preparing for your visit to the Körnermuseum, keep a few practical considerations in mind:
 
-- **What to Bring**: Consider bringing a notebook or a device for taking notes, especially if you are particularly interested in Körner’s literary contributions. Comfortable walking shoes are advisable, as you may spend considerable time exploring the exhibits.
+- **What to Bring**: Consider bringing a notebook or a device for taking notes, especially if you are particularly interested in Körner's literary contributions. Comfortable walking shoes are advisable, as you may spend considerable time exploring the exhibits.
 
 - **Seasonal Considerations**: Depending on the time of year, Dresden's weather can vary significantly. Be sure to dress appropriately for the season, especially if you plan to explore nearby outdoor attractions.
 
-- **Accessibility**: If you have specific accessibility needs, checking the museum’s resources can help ensure a comfortable visit.
+- **Accessibility**: If you have specific accessibility needs, checking the museum's resources can help ensure a comfortable visit.
 
 ## Frequently Asked Questions
 
@@ -105,7 +105,7 @@ The museum may offer guided tours; check the official website for details on ava
 Weekdays typically attract fewer crowds, making them a great time for a visit. Additionally, consider timing your visit to coincide with special exhibitions or events.
 
 ### Is it wheelchair accessible?
-For information on accessibility, it is best to consult the museum’s official website or contact them directly.
+For information on accessibility, it is best to consult the museum's official website or contact them directly.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, including online availability.

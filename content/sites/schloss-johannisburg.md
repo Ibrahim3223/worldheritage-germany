@@ -48,7 +48,7 @@ The architecture of Schloss Johannisburg is an exemplary representation of Renai
 
 One of the most notable features of the palace is its impressive entrance, framed by grand staircases and flanked by elegant columns. Visitors are greeted by the majestic sight of the façade, which is both inviting and imposing. The interior of Schloss Johannisburg is equally captivating, showcasing opulent rooms and halls that were once reserved for the archbishops and their guests.
 
-Artistic embellishments, including frescoes, ornate ceilings, and rich furnishings, adorn many of the rooms, each telling a story of the past. The museum’s collection includes various artworks that enhance the understanding of the period's aesthetic values. Additionally, the palace features beautifully landscaped gardens that provide a serene environment for reflection and leisure.
+Artistic embellishments, including frescoes, ornate ceilings, and rich furnishings, adorn many of the rooms, each telling a story of the past. The museum's collection includes various artworks that enhance the understanding of the period's aesthetic values. Additionally, the palace features beautifully landscaped gardens that provide a serene environment for reflection and leisure.
 
 The design of the palace not only serves aesthetic purposes but also reflects the social and political status of its former inhabitants. As a residence for powerful archbishops, the architectural choices made in its construction were intended to convey authority and sophistication, making it a significant landmark in Aschaffenburg.
 
@@ -100,7 +100,7 @@ When visiting Schloss Johannisburg, it's advisable to bring a few essentials to 
 A visit typically lasts about two to three hours, allowing ample time for exploration of both the palace and its exhibits.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas of the museum. It’s wise to check for any specific restrictions, especially during exhibitions.
+Photography may be permitted in certain areas of the museum. It's wise to check for any specific restrictions, especially during exhibitions.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history and architecture of Schloss Johannisburg. Check the official website for details.
@@ -112,7 +112,7 @@ Weekdays and early mornings are generally the best times to visit to avoid large
 Access for individuals with mobility challenges is important. Check the official website for specific information on accessibility options.
 
 ### Can I buy tickets online?
-Online ticket purchasing may be available. It’s recommended to check the official website for current options and pricing.
+Online ticket purchasing may be available. It's recommended to check the official website for current options and pricing.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are typically available. Confirm details on the official website to plan accordingly.

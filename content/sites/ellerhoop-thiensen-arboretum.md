@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Ellerhoop-Thiensen Arboretum is a botanical garden located in the charming village of Ellerhoop, Germany. This expansive site serves as a sanctuary for plant lovers and casual visitors alike, showcasing a diverse collection of flora that captures the essence of botanical science and horticultural art. The garden’s carefully curated landscapes invite exploration, offering a peaceful retreat into nature where one can appreciate the elegance and variety of plant life.
+Ellerhoop-Thiensen Arboretum is a botanical garden located in the charming village of Ellerhoop, Germany. This expansive site serves as a sanctuary for plant lovers and casual visitors alike, showcasing a diverse collection of flora that captures the essence of botanical science and horticultural art. The garden's carefully curated landscapes invite exploration, offering a peaceful retreat into nature where one can appreciate the elegance and variety of plant life.
 
 With its coordinates at 53.7173, 9.77642, this location is easily accessible for travelers seeking a day of relaxation or a deeper understanding of botany. The Arboretum plays a significant role not only in the local community but also as part of the broader conversation on conservation and environmental awareness. Whether you're a botanist, a nature enthusiast, or simply someone looking to enjoy a serene day outdoors, Ellerhoop-Thiensen Arboretum promises an enriching experience.
 
@@ -70,7 +70,7 @@ When navigating the garden, take your time to explore the various pathways and h
 
 ## Practical Information
 
-When visiting Ellerhoop-Thiensen Arboretum, it's advisable to wear comfortable shoes suitable for walking on garden paths. Depending on the season, consider dressing in layers to accommodate changing weather conditions, and don’t forget to bring sunscreen and a hat for sunny days.
+When visiting Ellerhoop-Thiensen Arboretum, it's advisable to wear comfortable shoes suitable for walking on garden paths. Depending on the season, consider dressing in layers to accommodate changing weather conditions, and don't forget to bring sunscreen and a hat for sunny days.
 
 Bringing along a camera or sketchbook can enhance your experience, allowing you to document the various plant species and landscapes that catch your eye. Seasonal considerations are important, as different times of the year will showcase different blooms and foliage.
 

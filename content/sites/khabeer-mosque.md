@@ -56,7 +56,7 @@ When visiting, expect to spend a couple of hours to fully appreciate the mosque 
 
 ## Insider Tips
 
-For those interested in photography, be mindful of the mosque's guidelines regarding photography, especially during prayer times. It’s best to ask for permission before taking photos of the interior or community activities. To avoid larger crowds, consider visiting during weekday afternoons rather than weekends, when community activities may draw more visitors.
+For those interested in photography, be mindful of the mosque's guidelines regarding photography, especially during prayer times. It's best to ask for permission before taking photos of the interior or community activities. To avoid larger crowds, consider visiting during weekday afternoons rather than weekends, when community activities may draw more visitors.
 
 ## Practical Information
 

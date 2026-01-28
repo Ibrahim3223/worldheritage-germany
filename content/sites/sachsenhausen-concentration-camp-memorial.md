@@ -28,15 +28,15 @@ image_srcset:
 
 Sachsenhausen concentration camp memorial stands as a poignant reminder of the atrocities committed during the Holocaust. Located in Oranienburg, Germany, this site has transformed from a former concentration camp to a museum dedicated to preserving the memory of those who suffered and perished within its walls. The memorial serves not only as a historical document but also as a place for reflection and education, ensuring that the lessons of the past are not forgotten.
 
-The site is situated approximately 35 kilometers north of Berlin, making it accessible for those looking to explore the darker chapters of history amidst the vibrant backdrop of contemporary Germany. As visitors walk through the memorial, they encounter the stark realities faced by thousands during World War II, encouraging a deep engagement with the moral questions surrounding human rights and dignity. Sachsenhausen’s significance lies not only in its historical context but also in its ongoing commitment to education and remembrance.
+The site is situated approximately 35 kilometers north of Berlin, making it accessible for those looking to explore the darker chapters of history amidst the vibrant backdrop of contemporary Germany. As visitors walk through the memorial, they encounter the stark realities faced by thousands during World War II, encouraging a deep engagement with the moral questions surrounding human rights and dignity. Sachsenhausen's significance lies not only in its historical context but also in its ongoing commitment to education and remembrance.
 
 Through its exhibitions, preserved structures, and informative tours, Sachsenhausen memorial invites visitors to confront the harsh realities of the past while fostering a commitment to justice and human rights today. This site prompts a crucial dialogue about the complexities of history and the importance of remembrance in shaping a better future.
 
 ## History and Significance
 
-Sachsenhausen was established in the early 1930s and operated for over a decade as a concentration camp. It was one of the first camps built after the Nazis came to power, initially intended to detain political prisoners. Over time, its purpose expanded to encompass a wide range of detainees, including Jews, homosexuals, Roma, and other groups deemed undesirable by the Nazi regime. The camp’s design and function reflected the regime’s systematic approach to oppression and extermination, making it a critical site for understanding the broader scope of the Holocaust.
+Sachsenhausen was established in the early 1930s and operated for over a decade as a concentration camp. It was one of the first camps built after the Nazis came to power, initially intended to detain political prisoners. Over time, its purpose expanded to encompass a wide range of detainees, including Jews, homosexuals, Roma, and other groups deemed undesirable by the Nazi regime. The camp's design and function reflected the regime's systematic approach to oppression and extermination, making it a critical site for understanding the broader scope of the Holocaust.
 
-The significance of Sachsenhausen extends beyond its physical structures. The camp served as a model for other concentration camps and was a place of experimentation in brutal methods of control and extermination. Visitors can learn about the various aspects of camp life, including forced labor, medical experiments, and the inhumane treatment of prisoners. The memorial’s exhibitions focus on the personal stories of those who suffered, providing a human face to the historical facts and fostering empathy and understanding.
+The significance of Sachsenhausen extends beyond its physical structures. The camp served as a model for other concentration camps and was a place of experimentation in brutal methods of control and extermination. Visitors can learn about the various aspects of camp life, including forced labor, medical experiments, and the inhumane treatment of prisoners. The memorial's exhibitions focus on the personal stories of those who suffered, providing a human face to the historical facts and fostering empathy and understanding.
 
 In the decades following the war, the site became a place of remembrance, reflecting a growing recognition of the need to confront and learn from the past. The transformation into a memorial and museum has allowed Sachsenhausen to serve as an educational resource, ensuring that future generations understand the importance of tolerance, human rights, and the dangers of totalitarianism. Today, the site continues to engage with contemporary issues related to discrimination and persecution, making it a relevant and vital space for dialogue and reflection.
 
@@ -97,10 +97,10 @@ By preparing ahead of time and approaching your visit with an open mind, you can
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Most visitors find that spending at least three to four hours allows sufficient time to explore the main exhibitions and reflect on the site’s significance.
+Most visitors find that spending at least three to four hours allows sufficient time to explore the main exhibitions and reflect on the site's significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but be respectful of the site’s memorial nature and adhere to any posted restrictions.
+Photography is generally permitted, but be respectful of the site's memorial nature and adhere to any posted restrictions.
 
 ### Are there guided tours?
 Yes, guided tours are available and can enhance your understanding of the site. Check the official website for details on tour times and booking.
@@ -120,4 +120,4 @@ Facilities, including restrooms, are available on-site. There may also be option
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking. Given the outdoor aspects of the memorial, consider layers and appropriate attire for the weather. 
 
-A visit to Sachsenhausen concentration camp memorial is not just about witnessing history; it’s an invitation to reflect on the human capacity for both cruelty and resilience. As you walk through this solemn site, you contribute to the ongoing dialogue surrounding memory, justice, and humanity.
+A visit to Sachsenhausen concentration camp memorial is not just about witnessing history; it's an invitation to reflect on the human capacity for both cruelty and resilience. As you walk through this solemn site, you contribute to the ongoing dialogue surrounding memory, justice, and humanity.

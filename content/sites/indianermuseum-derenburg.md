@@ -42,7 +42,7 @@ The museum's commitment to education is often reflected in the signage and infor
 
 ## Visiting Information
 
-When planning a visit to the Indianermuseum Derenburg, it’s essential to consider transportation options and accessibility. The museum is located in Bretten, a town that is likely serviced by local public transportation, making it accessible for visitors coming from nearby regions. For those traveling by car, parking facilities may be available, but checking the official website for current information is advisable.
+When planning a visit to the Indianermuseum Derenburg, it's essential to consider transportation options and accessibility. The museum is located in Bretten, a town that is likely serviced by local public transportation, making it accessible for visitors coming from nearby regions. For those traveling by car, parking facilities may be available, but checking the official website for current information is advisable.
 
 As for the duration of your visit, a couple of hours should suffice to experience the primary exhibits and engage with the museum's offerings. The best times to visit may vary, so checking the official website for hours and any special events or exhibitions is recommended. This ensures that you can make the most of your experience and possibly participate in any scheduled activities.
 
@@ -93,7 +93,7 @@ Information on guided tours may be available on the museum's official website. S
 For a quieter experience, consider visiting during weekdays or early in the morning. Checking the official website for current hours and any special events is advisable.
 
 ### Is it wheelchair accessible?
-Accessibility information may be available on the official website. It’s best to confirm the facilities to ensure a comfortable visit.
+Accessibility information may be available on the official website. It's best to confirm the facilities to ensure a comfortable visit.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Check the official website for the most current information about ticket sales.

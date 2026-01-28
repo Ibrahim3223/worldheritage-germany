@@ -62,9 +62,9 @@ When visiting the Stadtmuseum Schwabach, consider exploring these nearby attract
 
 1. **Schwabach City Hall**: This historic building is an excellent representation of local architecture and offers insights into the city's governance and civic history.
    
-2. **St. John’s Church (Johanneskirche)**: A nearby landmark known for its stunning architecture and serene atmosphere, this church is worth a visit for its cultural and spiritual significance.
+2. **St. John's Church (Johanneskirche)**: A nearby landmark known for its stunning architecture and serene atmosphere, this church is worth a visit for its cultural and spiritual significance.
 
-3. **Goldschläger Museum**: Dedicated to the art of gold leaf production, this museum complements the themes explored at the Stadtmuseum and provides a deeper understanding of Schwabach’s craftsmanship.
+3. **Goldschläger Museum**: Dedicated to the art of gold leaf production, this museum complements the themes explored at the Stadtmuseum and provides a deeper understanding of Schwabach's craftsmanship.
 
 4. **Schwabach Old Town**: Strolling through the charming streets of the Old Town, visitors can enjoy the picturesque buildings and vibrant local shops, making for a delightful exploration.
 

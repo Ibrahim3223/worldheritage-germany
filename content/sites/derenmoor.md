@@ -63,7 +63,7 @@ While Derenmoor itself is a destination for nature lovers, there are several nea
 1. **Bokensdorf Village**: A charming village offering a glimpse into local life and culture. Stroll through its streets and enjoy the quaint architecture.
 2. **Lower Saxony Wildlife Park**: Located not far from the reserve, this wildlife park provides an opportunity to see a variety of animals in a more controlled environment, emphasizing conservation efforts.
 3. **Wishing Lake**: An idyllic spot for relaxation, picnicking, or simply enjoying the natural surroundings, perfect for families or those looking for a peaceful retreat.
-4. **Historical Sites in the Region**: Explore nearby historical landmarks that reflect the cultural heritage of Lower Saxony, enhancing your understanding of the area’s past.
+4. **Historical Sites in the Region**: Explore nearby historical landmarks that reflect the cultural heritage of Lower Saxony, enhancing your understanding of the area's past.
 5. **Local Hiking Trails**: In addition to the trails within Derenmoor, the surrounding region offers numerous hiking paths that showcase the natural beauty of Lower Saxony.
 
 ## Insider Tips

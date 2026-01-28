@@ -52,7 +52,7 @@ When planning a visit to the German Shoe Museum Hauenstein, it's essential to co
 
 While specific hours and ticket prices are not detailed here, check the official website for current information to ensure you have the latest details for your visit. The experience within the museum is designed to be engaging, with ample time needed to fully appreciate the exhibits. Visitors may want to allocate a couple of hours to explore all the displays and possibly participate in any available interactive activities.
 
-The best times to visit the museum may vary, but generally, weekdays tend to be quieter than weekends, allowing for a more relaxed exploration of the exhibits. If you’re particularly interested in specific events or temporary exhibits, check the official website for announcements and schedules.
+The best times to visit the museum may vary, but generally, weekdays tend to be quieter than weekends, allowing for a more relaxed exploration of the exhibits. If you're particularly interested in specific events or temporary exhibits, check the official website for announcements and schedules.
 
 ## Nearby Attractions
 

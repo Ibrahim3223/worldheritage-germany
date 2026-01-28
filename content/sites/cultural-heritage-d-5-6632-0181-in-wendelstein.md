@@ -56,7 +56,7 @@ After exploring Cultural heritage D-5-6632-0181, visitors may want to continue t
 
 2. **Bavarian Forest National Park**: A short drive away, this expansive park offers hiking trails and opportunities for wildlife observation, showcasing the natural beauty of Bavaria.
 
-3. **Roth Castle**: Located in the nearby town of Roth, this historic castle provides insight into the region’s feudal past and offers guided tours to explore its rich history.
+3. **Roth Castle**: Located in the nearby town of Roth, this historic castle provides insight into the region's feudal past and offers guided tours to explore its rich history.
 
 4. **Nuremberg**: Approximately 30 kilometers away, this vibrant city is known for its medieval architecture, museums, and the famous Nuremberg Castle.
 
@@ -89,7 +89,7 @@ Information about guided tours may not be provided; check the official website f
 Spring and autumn are favorable seasons for visiting, with milder weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be specified; it’s advisable to check the official website for details.
+Accessibility information may not be specified; it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Specific information regarding ticket purchases may not be provided; check the official website for current practices.

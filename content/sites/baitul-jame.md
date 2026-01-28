@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Offenbach am Main, Germany, the Baitul-Jame Mosque stands as a significant center of worship and community for Muslims in the region. This mosque not only serves as a spiritual hub but also plays an essential role in fostering intercultural dialogue and understanding within the diverse community of Offenbach. Positioned with convenient access for visitors, Baitul-Jame offers a glimpse into Islamic architecture and culture, making it an appealing stop for those interested in exploring the religious landscape of Germany. 
 
-As you approach the mosque, you’ll find that it embodies a welcoming atmosphere where both worshippers and visitors can engage in peaceful reflection. The mosque's significance extends beyond its religious function; it represents the multicultural fabric of Offenbach, a city known for its rich history and diverse population. Whether you are seeking a quiet moment of contemplation or interested in learning more about Islamic traditions, Baitul-Jame is a place where you can connect with the local community and its heritage.
+As you approach the mosque, you'll find that it embodies a welcoming atmosphere where both worshippers and visitors can engage in peaceful reflection. The mosque's significance extends beyond its religious function; it represents the multicultural fabric of Offenbach, a city known for its rich history and diverse population. Whether you are seeking a quiet moment of contemplation or interested in learning more about Islamic traditions, Baitul-Jame is a place where you can connect with the local community and its heritage.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ Best times to visit may vary, but weekdays usually provide a quieter experience 
 
 1. **German Leather Museum**: Located in Offenbach, this museum offers a fascinating insight into the history and significance of leather production in the region.
    
-2. **Kleinmarkthalle**: A vibrant market where visitors can experience local produce and culinary delights, this market reflects Offenbach’s diverse cultural heritage.
+2. **Kleinmarkthalle**: A vibrant market where visitors can experience local produce and culinary delights, this market reflects Offenbach's diverse cultural heritage.
 
 3. **Bürgel's Historic Old Town**: A charming area that showcases the architectural history of Offenbach, perfect for leisurely strolls.
 
@@ -74,7 +74,7 @@ Visitors to Baitul-Jame should dress modestly, respecting the cultural and relig
 
 Seasonal considerations include checking the weather, as it can influence the comfort of your visit. Bring a light jacket or umbrella if visiting during the cooler months or rainy season. 
 
-It’s advisable to carry a reusable water bottle, especially during warmer months, to stay hydrated while exploring the area.
+It's advisable to carry a reusable water bottle, especially during warmer months, to stay hydrated while exploring the area.
 
 ## Frequently Asked Questions
 

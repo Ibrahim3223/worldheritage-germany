@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekday mornings or off-peak seasons. 
 
 When preparing for your visit to the Museum im Ursula-Stift und Schmiede am Stift, consider bringing a camera, comfortable walking shoes, and perhaps a notebook for jotting down insights or reflections during your experience. 
 
-Seasonal considerations may play a role in your visit; check the weather forecast beforehand to dress appropriately. The museum’s environment is generally comfortable, but layers can be beneficial depending on the time of year.
+Seasonal considerations may play a role in your visit; check the weather forecast beforehand to dress appropriately. The museum's environment is generally comfortable, but layers can be beneficial depending on the time of year.
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ Seasonal considerations may play a role in your visit; check the weather forecas
 Generally, a visit of two to three hours allows enough time to explore the exhibits thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the guidelines upon arrival.
+Photography policies may vary, so it's best to check the guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which can enhance your understanding of the exhibits and their contexts.

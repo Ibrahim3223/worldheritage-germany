@@ -64,7 +64,7 @@ Eckernförde is home to several attractions worth exploring after your visit to 
    
 2. **Eckernförde Harbor**: Stroll along the harbor to enjoy the maritime atmosphere, with various boats and fishing vessels adding to the picturesque scenery.
 
-3. **Historical Town Center**: Explore the charming streets of Eckernförde’s town center, where historic buildings and local shops create a vibrant community atmosphere.
+3. **Historical Town Center**: Explore the charming streets of Eckernförde's town center, where historic buildings and local shops create a vibrant community atmosphere.
 
 4. **Museum Eckernförde**: Delve into the local history and culture at this museum, which showcases artifacts and exhibitions related to the region.
 
@@ -94,7 +94,7 @@ A visit to Jungmannschule can typically take about 1-2 hours, depending on your 
 
 ### Is photography allowed?
 
-Yes, photography is allowed, but it’s recommended to be mindful of students and staff during school hours.
+Yes, photography is allowed, but it's recommended to be mindful of students and staff during school hours.
 
 ### Are there guided tours?
 
@@ -114,7 +114,7 @@ For current ticket purchasing options, check the official website.
 
 ### Are there restrooms and cafes?
 
-Facilities may be limited; it’s advisable to check in advance for restroom availability and nearby dining options.
+Facilities may be limited; it's advisable to check in advance for restroom availability and nearby dining options.
 
 ### What should I wear?
 

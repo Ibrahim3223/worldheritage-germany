@@ -28,9 +28,9 @@ Positioned in a region rich with cultural interactions, Kehl lies close to the F
 
 The German Epilepsy Museum is not only a place of learning but also serves as a cultural landmark in the discourse surrounding epilepsy. While specific historical milestones are not provided, the museum's establishment signifies an increasing recognition of the importance of mental health and neurological conditions in the broader context of public health.
 
-The museum’s significance can be traced to the growing awareness of epilepsy over the years. Epilepsy has historically been misunderstood, often associated with myths and stigma, leading to social isolation of those affected. By providing a dedicated space for education and discussion, the German Epilepsy Museum plays a crucial role in shifting perceptions and promoting acceptance. 
+The museum's significance can be traced to the growing awareness of epilepsy over the years. Epilepsy has historically been misunderstood, often associated with myths and stigma, leading to social isolation of those affected. By providing a dedicated space for education and discussion, the German Epilepsy Museum plays a crucial role in shifting perceptions and promoting acceptance. 
 
-The museum's collection likely includes artifacts, documents, and multimedia presentations that illustrate the evolution of treatment methods, societal attitudes, and scientific understanding of epilepsy. Such resources are invaluable for students, educators, and healthcare professionals alike, creating a comprehensive view of the condition’s impact on individuals and communities throughout history.
+The museum's collection likely includes artifacts, documents, and multimedia presentations that illustrate the evolution of treatment methods, societal attitudes, and scientific understanding of epilepsy. Such resources are invaluable for students, educators, and healthcare professionals alike, creating a comprehensive view of the condition's impact on individuals and communities throughout history.
 
 ## Architecture and Features
 

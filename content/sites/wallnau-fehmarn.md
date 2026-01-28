@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays, particularly outside of peak tou
 
 ## Practical Information
 
-When visiting Wallnau, it is advisable to wear comfortable walking shoes, as many paths may be uneven or unpaved. Depending on the season, layers can help accommodate fluctuating temperatures, and don’t forget to bring a hat or sunscreen during warmer months.
+When visiting Wallnau, it is advisable to wear comfortable walking shoes, as many paths may be uneven or unpaved. Depending on the season, layers can help accommodate fluctuating temperatures, and don't forget to bring a hat or sunscreen during warmer months.
 
 Binoculars are a must for birdwatching, and a camera will help capture the stunning landscapes and wildlife. As Wallnau is a nature reserve, it is essential to respect the environment by staying on designated paths and observing wildlife from a distance.
 

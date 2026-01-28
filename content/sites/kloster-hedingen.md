@@ -66,7 +66,7 @@ While visiting Kloster Hedingen, consider exploring some of the nearby attractio
 
 3. **The Danube River**: Enjoy a leisurely stroll or bike ride along the Danube, taking in the scenic beauty and tranquility of this important waterway.
 
-4. **Local Museums**: Explore the Sigmaringen area’s museums that showcase art, history, and culture, providing context to the region's past.
+4. **Local Museums**: Explore the Sigmaringen area's museums that showcase art, history, and culture, providing context to the region's past.
 
 5. **Natural Parks**: The surrounding natural parks offer hiking trails and opportunities to experience the local flora and fauna, perfect for nature enthusiasts.
 
@@ -78,7 +78,7 @@ When visiting Kloster Hedingen, consider these insider tips to enhance your expe
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays or outside of peak tourist seasons. This will allow for a more intimate experience with the site.
 
-- **Respect the Space**: As a place of worship, it’s important to maintain a respectful demeanor. Be mindful of ongoing services or religious events during your visit.
+- **Respect the Space**: As a place of worship, it's important to maintain a respectful demeanor. Be mindful of ongoing services or religious events during your visit.
 
 ## Practical Information
 
@@ -96,7 +96,7 @@ As you prepare for your visit to Kloster Hedingen, keep the following practical 
 A visit to Kloster Hedingen typically takes about an hour, allowing sufficient time to explore the church and enjoy its surroundings.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s essential to be respectful and mindful of ongoing services or private events.
+Photography is usually permitted, but it's essential to be respectful and mindful of ongoing services or private events.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may enhance your understanding of the church's significance.
@@ -111,7 +111,7 @@ For specific accessibility details, check the official website to confirm the av
 Availability of online ticket purchases may vary. Check the official website for current information regarding ticketing options.
 
 ### Are there restrooms and cafes?
-It’s advisable to check the official website for information regarding restroom facilities and nearby dining options.
+It's advisable to check the official website for information regarding restroom facilities and nearby dining options.
 
 ### What should I wear?
 As a place of worship, modest clothing is recommended. Additionally, dress comfortably for walking and exploring the surrounding areas.

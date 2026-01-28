@@ -48,7 +48,7 @@ The ideal time to visit Großes Fenster is during the warmer months, when the be
 
 ## Nearby Attractions
 
-1. **Schlachtensee**: A popular lake nearby, known for its swimming opportunities and scenic walking paths. It’s a great spot for outdoor activities and relaxation.
+1. **Schlachtensee**: A popular lake nearby, known for its swimming opportunities and scenic walking paths. It's a great spot for outdoor activities and relaxation.
    
 2. **Krumme Lanke**: Another picturesque lake offering swimming, boating, and expansive green spaces, making it a favorite among locals for day outings.
 
@@ -66,9 +66,9 @@ If you wish to enjoy a peaceful experience, plan your visit outside of peak summ
 
 ## Practical Information
 
-When planning a visit to Großes Fenster, it’s advisable to bring essentials such as sunscreen, towels, and water, particularly during the summer months. If you plan to swim, consider wearing appropriate swimwear and bringing a change of clothes.
+When planning a visit to Großes Fenster, it's advisable to bring essentials such as sunscreen, towels, and water, particularly during the summer months. If you plan to swim, consider wearing appropriate swimwear and bringing a change of clothes.
 
-Seasonal considerations include potential changes in water temperature and weather conditions. It’s wise to check the forecast before visiting. The beach may have a different vibe during off-peak seasons, offering a quieter experience for those who prefer solitude over the summer bustle.
+Seasonal considerations include potential changes in water temperature and weather conditions. It's wise to check the forecast before visiting. The beach may have a different vibe during off-peak seasons, offering a quieter experience for those who prefer solitude over the summer bustle.
 
 ## Frequently Asked Questions
 
@@ -91,7 +91,7 @@ Accessibility may vary, so it is best to check specific pathways and facilities 
 Check the official website for current information regarding any entry fees or ticketing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Check local resources for nearby amenities.
+Facilities may be limited, so it's advisable to plan accordingly. Check local resources for nearby amenities.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor activities and swimming, along with sun protection for a day at the beach.

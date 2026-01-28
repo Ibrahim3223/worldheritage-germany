@@ -34,7 +34,7 @@ The town of Dessau-Roßlau, situated in the state of Saxony-Anhalt, is known for
 
 The Stadtkirche St. Marien has played a pivotal role in the religious and social fabric of Roßlau. While specific dates of construction or major events in its history are not documented here, it is clear that the church has been a central gathering place for the local community for many years. Churches like St. Marien often serve as symbols of continuity, offering spiritual guidance through various epochs of change and development within the community.
 
-The church's significance extends beyond its physical structure; it represents the traditions and communal spirit of the people who have worshiped within its walls. It stands as a reflection of the town’s historical shifts, including times of peace and turmoil throughout the centuries. Visitors to the church can appreciate its role as not only a religious institution but also as a cultural hub that has facilitated gatherings, celebrations, and rites of passage for generations.
+The church's significance extends beyond its physical structure; it represents the traditions and communal spirit of the people who have worshiped within its walls. It stands as a reflection of the town's historical shifts, including times of peace and turmoil throughout the centuries. Visitors to the church can appreciate its role as not only a religious institution but also as a cultural hub that has facilitated gatherings, celebrations, and rites of passage for generations.
 
 ## Architecture and Features
 
@@ -42,7 +42,7 @@ The architectural style of Stadtkirche St. Marien reflects the character of eccl
 
 Inside, visitors may find a layout that encourages communal worship, often characterized by a nave, aisles, and a chancel. The interiors of church buildings like St. Marien typically feature stained glass windows, intricate woodwork, and religious iconography that enhance the spiritual atmosphere. 
 
-The church’s exterior might showcase traditional German architectural elements, such as a prominent steeple or bell tower, which often serve as landmarks for the surrounding area. Overall, the design and structure of Stadtkirche St. Marien reflect the historical and cultural influences that have shaped Dessau-Roßlau over time.
+The church's exterior might showcase traditional German architectural elements, such as a prominent steeple or bell tower, which often serve as landmarks for the surrounding area. Overall, the design and structure of Stadtkirche St. Marien reflect the historical and cultural influences that have shaped Dessau-Roßlau over time.
 
 ## Visiting Information
 

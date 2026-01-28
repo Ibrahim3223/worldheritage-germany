@@ -64,7 +64,7 @@ After visiting Hadamar Castle, there are several nearby attractions that can enr
 
 1. **Hadamar Town Center**: Just a short walk from the castle, the town center offers charming streets filled with shops, cafés, and local eateries, perfect for a leisurely stroll or a quick bite.
 
-2. **St. John’s Church**: This historic church, located nearby, is known for its beautiful architecture and serene atmosphere, making it a fitting complement to your visit to the castle.
+2. **St. John's Church**: This historic church, located nearby, is known for its beautiful architecture and serene atmosphere, making it a fitting complement to your visit to the castle.
 
 3. **The Old Town of Hadamar**: A walk through the Old Town, with its well-preserved buildings and quaint lanes, allows visitors to appreciate the historical context of the region further.
 
@@ -111,7 +111,7 @@ Accessibility details are not specified, so it is advisable to check the officia
 Check the official website for information regarding ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and places to eat may be available nearby, but it’s advisable to confirm this on your visit.
+Facilities such as restrooms and places to eat may be available nearby, but it's advisable to confirm this on your visit.
 
 ### What should I wear?
 Dress comfortably for walking, and consider layering clothing to accommodate changes in weather, especially if visiting during transitional seasons. 

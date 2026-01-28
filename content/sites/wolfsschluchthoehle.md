@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Wolfsschluchthöhle, an intriguing cave located in the Lenningen region of Germany, invites explorers to delve into a world shaped by natural forces. Known for its unique geological formations, this cave offers a rare glimpse into the Earth’s history and the processes that shape our planet. The cave holds significant interest not only for its natural beauty but also for its ecological and geological aspects, making it a noteworthy destination for both casual visitors and serious geologists alike.
+Wolfsschluchthöhle, an intriguing cave located in the Lenningen region of Germany, invites explorers to delve into a world shaped by natural forces. Known for its unique geological formations, this cave offers a rare glimpse into the Earth's history and the processes that shape our planet. The cave holds significant interest not only for its natural beauty but also for its ecological and geological aspects, making it a noteworthy destination for both casual visitors and serious geologists alike.
 
 Positioned at coordinates 48.5431, 9.51999, the Wolfsschluchthöhle is surrounded by the picturesque landscapes of the Swabian Jura, a mountain range renowned for its limestone formations and complex cave systems. As visitors step into its depths, they can appreciate the delicate balance between nature and history, with each stalactite and stalagmite telling a story of time and transformation. The cave offers a serene escape from the busyness of daily life, providing opportunities for reflection and exploration.
 

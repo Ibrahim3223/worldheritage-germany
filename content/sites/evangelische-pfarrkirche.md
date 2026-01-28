@@ -104,4 +104,4 @@ Check the official website for current information regarding any entry fees or t
 Information on facilities such as restrooms and nearby cafes should be verified through the official website or local resources.
 
 ### What should I wear?
-Dress comfortably and appropriately for the weather, considering the chapel’s peaceful atmosphere and respect for its sacred purpose.
+Dress comfortably and appropriately for the weather, considering the chapel's peaceful atmosphere and respect for its sacred purpose.

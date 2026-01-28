@@ -42,7 +42,7 @@ Throughout the years, Birgelener Pützchen has likely witnessed various cultural
 
 Birgelener Pützchen, although modest in size, exhibits characteristics typical of chapels found throughout Germany. The architectural style reflects the regional influences, showcasing simplicity and elegance that align with its spiritual purpose. The exterior of the chapel is likely adorned with traditional elements, though specific details about its design are not provided. 
 
-Inside, the chapel’s ambiance is designed to promote contemplation and peace. While specific interior features are not detailed, one can expect to find elements such as religious iconography, simple wooden furnishings, and perhaps stained glass windows that filter light into the sacred space, creating an atmosphere conducive to reflection and prayer.
+Inside, the chapel's ambiance is designed to promote contemplation and peace. While specific interior features are not detailed, one can expect to find elements such as religious iconography, simple wooden furnishings, and perhaps stained glass windows that filter light into the sacred space, creating an atmosphere conducive to reflection and prayer.
 
 The chapel's structure is thoughtfully integrated into its environment, contributing to the peaceful aura that surrounds it. Visitors may notice the careful maintenance and the surrounding landscaping, which further enhance the experience of visiting this spiritual haven. Birgelener Pützchen stands not only as a place of worship but also as a symbol of the community's spiritual heritage and architectural identity.
 
@@ -60,7 +60,7 @@ While Birgelener Pützchen is a destination in its own right, the surrounding ar
 
 1. **Wassenberg Castle**: A historic site offering insights into the region's past and picturesque views of the surrounding landscape.
 2. **Schloss Dyck**: A nearby castle known for its beautiful gardens and cultural events, making it a delightful addition to your itinerary.
-3. **St. Martin’s Church**: An architectural gem in Wassenberg that showcases the town's religious heritage.
+3. **St. Martin's Church**: An architectural gem in Wassenberg that showcases the town's religious heritage.
 4. **The Wassenberg Museum**: A local museum that provides an overview of the area's history and culture, perfect for those seeking a deeper understanding of the region.
 
 Exploring these nearby attractions can enrich your experience, offering a broader context to the cultural and historical significance of Birgelener Pützchen.
@@ -104,6 +104,6 @@ Check the official website for information regarding ticket purchases, including
 Facilities may be limited at the chapel. Nearby attractions may offer additional amenities, so plan accordingly.
 
 ### What should I wear? 
-Respectful attire is encouraged due to the chapel’s religious significance, and comfortable shoes are recommended for exploring the area. 
+Respectful attire is encouraged due to the chapel's religious significance, and comfortable shoes are recommended for exploring the area. 
 
 Birgelener Pützchen invites visitors to not only appreciate its spiritual essence but also to engage with the surrounding cultural landscape, making it a noteworthy stop in the heart of Wassenberg.

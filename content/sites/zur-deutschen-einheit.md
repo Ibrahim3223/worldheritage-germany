@@ -28,11 +28,11 @@ image_srcset:
 
 Zur Deutschen Einheit is a significant square located in the vibrant city of Munich, Germany. This square serves as a focal point for both locals and visitors, encapsulating the spirit of unity and cultural diversity that characterizes this dynamic metropolis. The coordinates 48.1511, 11.6436 place it conveniently within the urban fabric of Munich, making it easily accessible for exploration. 
 
-As a public square, Zur Deutschen Einheit is not just a physical space but a gathering point that reflects the city’s commitment to community and shared experiences. Its name, translating to "To German Unity," signifies a broader historical context that resonates throughout the country. Visitors to Munich will find that this square serves as an ideal starting point for further explorations into the city’s rich heritage and contemporary culture, making it an essential stop on any itinerary.
+As a public square, Zur Deutschen Einheit is not just a physical space but a gathering point that reflects the city's commitment to community and shared experiences. Its name, translating to "To German Unity," signifies a broader historical context that resonates throughout the country. Visitors to Munich will find that this square serves as an ideal starting point for further explorations into the city's rich heritage and contemporary culture, making it an essential stop on any itinerary.
 
 ## History and Significance
 
-The history of Zur Deutschen Einheit is intertwined with the broader narrative of Germany's unification and the ongoing dialogue about national identity. While specific historical dates may not be documented, the square reflects a spirit of reconciliation and unity that emerged following Germany’s reunification in the early 1990s. This theme resonates strongly throughout Munich, a city that has played a pivotal role in both historical and modern Germany.
+The history of Zur Deutschen Einheit is intertwined with the broader narrative of Germany's unification and the ongoing dialogue about national identity. While specific historical dates may not be documented, the square reflects a spirit of reconciliation and unity that emerged following Germany's reunification in the early 1990s. This theme resonates strongly throughout Munich, a city that has played a pivotal role in both historical and modern Germany.
 
 As a public space, Zur Deutschen Einheit serves as a backdrop for various cultural and civic activities, including festivals, markets, and gatherings that celebrate German culture and heritage. The square's significance extends beyond its physical boundaries; it represents the collective aspirations of the people, fostering a sense of belonging and community.
 

@@ -62,11 +62,11 @@ While exploring the Rote Burg, visitors can also take the time to discover other
 
 1. **Aachen Cathedral**: A UNESCO World Heritage Site, this iconic cathedral is renowned for its stunning architecture and historical significance. It was the burial site of Charlemagne and remains a focal point of the city's historical identity.
 
-2. **Elisenbrunnen**: A neoclassical fountain that symbolizes the city's spa culture. It is a popular meeting point and serves as a reminder of Aachen’s historical thermal springs.
+2. **Elisenbrunnen**: A neoclassical fountain that symbolizes the city's spa culture. It is a popular meeting point and serves as a reminder of Aachen's historical thermal springs.
 
 3. **Couven Museum**: Located in a former town house, this museum showcases the history of Aachen's domestic culture and 18th-century furniture. It offers insight into the local lifestyle during this period.
 
-4. **Puppenbrunnen**: A charming fountain adorned with playful sculptures, providing a whimsical touch to the city’s landscape and a perfect photo opportunity.
+4. **Puppenbrunnen**: A charming fountain adorned with playful sculptures, providing a whimsical touch to the city's landscape and a perfect photo opportunity.
 
 5. **Ludwig Forum für Internationale Kunst**: This contemporary art museum offers exhibitions featuring modern artists and provides a different perspective on the evolving art scene in Aachen.
 
@@ -80,7 +80,7 @@ When planning your visit, aim to arrive early in the day or later in the afterno
 
 When visiting Rote Burg — Büchel Museum Aachen, it is advisable to bring essentials such as a water bottle to stay hydrated and comfortable. Depending on the season, dress appropriately for the weather, as you may spend time exploring the surrounding areas before or after your visit.
 
-In terms of seasonal considerations, check the museum’s schedule for any special exhibitions or events that may coincide with your visit, as these can significantly enrich the experience.
+In terms of seasonal considerations, check the museum's schedule for any special exhibitions or events that may coincide with your visit, as these can significantly enrich the experience.
 
 ## Frequently Asked Questions
 

@@ -86,7 +86,7 @@ When planning your visit to Berggarten, keep these practical considerations in m
 
 - **What to Bring**: Comfortable walking shoes are essential, as you'll want to explore the various paths without discomfort. Additionally, consider bringing a water bottle and snacks for a leisurely day in the garden.
 
-- **Seasonal Considerations**: Each season offers a different experience at Berggarten. Spring and summer are ideal for experiencing blooming flowers, while fall provides a beautiful display of autumn foliage. Winter may see fewer blooms, but the garden’s tranquility can be refreshing.
+- **Seasonal Considerations**: Each season offers a different experience at Berggarten. Spring and summer are ideal for experiencing blooming flowers, while fall provides a beautiful display of autumn foliage. Winter may see fewer blooms, but the garden's tranquility can be refreshing.
 
 ## Frequently Asked Questions
 

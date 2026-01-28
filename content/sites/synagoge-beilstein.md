@@ -28,13 +28,13 @@ image_srcset:
 
 In the serene town of Beilstein, Germany, stands the Synagoge Beilstein, a significant cultural landmark that provides insight into the history and heritage of Jewish life in the region. This protected monument reflects the enduring spirit of a community that has faced challenges through the ages. The synagogue is more than just a building; it represents the resilience of a culture and serves as an important reminder of the contributions of Jewish people to the local community. Visitors to the synagogue will find an atmosphere that invites reflection and appreciation for the shared history of humanity.
 
-Located in the picturesque Moselle Valley, Beilstein is surrounded by lush vineyards and charming architecture, making it an ideal destination for travelers interested in both heritage and natural beauty. The synagogue’s location enhances its cultural significance, as it forms part of a broader historical landscape that includes various architectural styles and historical narratives. A visit to Synagoge Beilstein offers a chance to engage with the past, fostering a deeper understanding of the Jewish experience in Germany.
+Located in the picturesque Moselle Valley, Beilstein is surrounded by lush vineyards and charming architecture, making it an ideal destination for travelers interested in both heritage and natural beauty. The synagogue's location enhances its cultural significance, as it forms part of a broader historical landscape that includes various architectural styles and historical narratives. A visit to Synagoge Beilstein offers a chance to engage with the past, fostering a deeper understanding of the Jewish experience in Germany.
 
 ## History and Significance
 
 The Synagoge Beilstein holds a notable place in the cultural and historical fabric of the region. While specific dates and events concerning its establishment and usage may not be available, the synagogue is recognized as a protected monument, highlighting its importance as part of Germany's collective heritage. Throughout history, synagogues have served as central places of worship, community gathering, and cultural preservation for Jewish communities, and Beilstein's synagogue is no exception.
 
-The significance of the synagogue extends beyond its physical structure; it serves as a symbol of the Jewish community’s resilience and adaptability. Over time, synagogues have faced various challenges, including periods of persecution and displacement, yet they remain crucial to the cultural identity and memory of Jewish people. In Beilstein, the synagogue stands as a testament to the continuity of Jewish life, reflecting the traditions, values, and struggles of its community.
+The significance of the synagogue extends beyond its physical structure; it serves as a symbol of the Jewish community's resilience and adaptability. Over time, synagogues have faced various challenges, including periods of persecution and displacement, yet they remain crucial to the cultural identity and memory of Jewish people. In Beilstein, the synagogue stands as a testament to the continuity of Jewish life, reflecting the traditions, values, and struggles of its community.
 
 In contemporary times, the Synagoge Beilstein plays an essential role in preserving Jewish heritage and educating visitors about the history of Judaism in the area. Its existence encourages dialogue about tolerance, diversity, and the importance of remembering the past. The synagogue is not only a site of historical importance but also a place that fosters understanding and respect among different cultures.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Synagoge Beilstein, keep the following practica
 Most visitors find that spending about an hour at the synagogue is sufficient to appreciate its significance and atmosphere.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s best to check with on-site staff regarding any specific restrictions to show respect for the space.
+While photography is generally permitted, it's best to check with on-site staff regarding any specific restrictions to show respect for the space.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which can provide additional context and insights into the history of the synagogue.

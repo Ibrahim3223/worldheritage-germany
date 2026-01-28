@@ -58,9 +58,9 @@ While visiting Gutshausgarten, there are several nearby attractions that can enr
 
 3. **Franconian Wine Country**: Known for its vineyards and wine production, this region invites visitors to sample local wines and enjoy vineyard tours.
 
-4. **Historical Museum of Hammelburg**: A short trip from the garden, this museum delves into the local history, showcasing artifacts and exhibits that highlight the area’s cultural heritage.
+4. **Historical Museum of Hammelburg**: A short trip from the garden, this museum delves into the local history, showcasing artifacts and exhibits that highlight the area's cultural heritage.
 
-5. **Hammelburg’s War Memorial**: This site commemorates the sacrifices made during past conflicts, providing a somber yet important perspective on the town's history.
+5. **Hammelburg's War Memorial**: This site commemorates the sacrifices made during past conflicts, providing a somber yet important perspective on the town's history.
 
 ## Insider Tips
 
@@ -72,7 +72,7 @@ To make the most of your visit to Gutshausgarten, consider the following tips:
 
 ## Practical Information
 
-When preparing for your visit to Gutshausgarten, it’s wise to consider the following:
+When preparing for your visit to Gutshausgarten, it's wise to consider the following:
 
 - **What to Bring**: Comfortable walking shoes, a reusable water bottle, sunscreen, and a camera for capturing the beauty of the garden.
 

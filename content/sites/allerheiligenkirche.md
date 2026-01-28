@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Allerheiligenkirche, a striking church building located in the Reinickendorf district of Berlin, Germany, is a noteworthy site for those interested in architectural beauty and cultural heritage. This church represents not only a place of worship but also a reflection of the local community’s historical narrative. Its serene ambiance invites visitors to appreciate both its spiritual significance and its architectural details. 
+Allerheiligenkirche, a striking church building located in the Reinickendorf district of Berlin, Germany, is a noteworthy site for those interested in architectural beauty and cultural heritage. This church represents not only a place of worship but also a reflection of the local community's historical narrative. Its serene ambiance invites visitors to appreciate both its spiritual significance and its architectural details. 
 
 The church is situated within a vibrant urban context, offering a unique blend of historical and contemporary influences that characterize Berlin. As you approach, you will find that the church stands as a focal point for the local community, drawing in both residents and visitors alike. The promise of a contemplative experience awaits those who step inside, as well as a chance to explore the surrounding area rich with historical and cultural offerings.
 
@@ -65,7 +65,7 @@ While visiting Allerheiligenkirche, consider exploring the following nearby attr
 
 ## Insider Tips
 
-For photography enthusiasts, the best time to capture the beauty of Allerheiligenkirche is during the golden hours of early morning or late afternoon when natural light enhances the church's features. Be mindful of the church’s activities and services, as these times may require respect for worshippers and their privacy.
+For photography enthusiasts, the best time to capture the beauty of Allerheiligenkirche is during the golden hours of early morning or late afternoon when natural light enhances the church's features. Be mindful of the church's activities and services, as these times may require respect for worshippers and their privacy.
 
 To avoid larger crowds, consider visiting during weekdays rather than weekends, when local events may attract more visitors. This will allow for a more personal experience as you explore the church's interior and surroundings.
 
@@ -93,7 +93,7 @@ Weekdays generally offer a quieter experience, while weekends may be busier due 
 Accessibility for individuals with mobility challenges may vary; check the official website for detailed information regarding entry and facilities.
 
 ### Can I buy tickets online?
-Information on ticket purchasing may vary, so it’s advisable to check the official website for current options.
+Information on ticket purchasing may vary, so it's advisable to check the official website for current options.
 
 ### Are there restrooms and cafes?
 Facilities may be limited within the church itself; check the nearby area for cafes and public restrooms.

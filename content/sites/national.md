@@ -22,9 +22,9 @@ images:
 
 The National movie theater, a former cinematic landmark in Lübeck, Germany, offers a glimpse into the rich cultural fabric of this historic city known for its medieval architecture and vibrant arts scene. Situated in the northern part of Germany, Lübeck is often recognized for its well-preserved old town, which is a UNESCO World Heritage Site. The National stands as a reminder of the golden age of cinema, reflecting the city's connection to the arts and entertainment world. 
 
-Although its glory days may have faded, the National remains significant in the hearts of Lübeck’s residents and film enthusiasts alike. The theater's storied past and architectural character make it a notable stop for anyone exploring the historical layers of Lübeck. Visitors will find themselves enveloped in a nostalgic atmosphere, where the echoes of film history mingle with the contemporary vibrancy of the city. 
+Although its glory days may have faded, the National remains significant in the hearts of Lübeck's residents and film enthusiasts alike. The theater's storied past and architectural character make it a notable stop for anyone exploring the historical layers of Lübeck. Visitors will find themselves enveloped in a nostalgic atmosphere, where the echoes of film history mingle with the contemporary vibrancy of the city. 
 
-Whether you are an architecture aficionado, a film lover, or simply curious about Lübeck’s cultural hotspots, a visit to the National theater promises a unique experience that showcases the intersection of history and the arts in this picturesque German city.
+Whether you are an architecture aficionado, a film lover, or simply curious about Lübeck's cultural hotspots, a visit to the National theater promises a unique experience that showcases the intersection of history and the arts in this picturesque German city.
 
 ## History and Significance
 
@@ -32,7 +32,7 @@ The National movie theater has a storied history that intersects with the evolut
 
 As cinema evolved, so too did the National, adapting to changing tastes and technologies. The theater's role in the community extended beyond merely screening films; it served as a gathering place for social interaction and cultural exchange. For many Lübeck residents, the National was not just a location to watch movies but a cherished part of their upbringing and communal identity.
 
-The theater's significance is amplified by its location in Lübeck, a city recognized for its contributions to the arts and culture in Germany. Its presence adds depth to the city's narrative, making it a point of interest for those who wish to understand Lübeck’s artistic legacy. Today, while the National may not be a fully operational cinema, it remains a symbol of the city’s cinematic past and continues to resonate with locals and visitors alike.
+The theater's significance is amplified by its location in Lübeck, a city recognized for its contributions to the arts and culture in Germany. Its presence adds depth to the city's narrative, making it a point of interest for those who wish to understand Lübeck's artistic legacy. Today, while the National may not be a fully operational cinema, it remains a symbol of the city's cinematic past and continues to resonate with locals and visitors alike.
 
 ## Architecture and Features
 
@@ -46,13 +46,13 @@ The theater's historical significance is further enriched by any unique features
 
 Visiting the National theater is an opportunity to engage with Lübeck's cultural heritage. While specific operational hours and ticket prices are not detailed here, it is advisable to check the official website for current information regarding your visit. 
 
-Getting to the National is relatively straightforward, with public transportation options available throughout Lübeck. Depending on your starting point, local buses or trams can provide convenient access to the theater. For those who prefer a more personal touch, walking or cycling through Lübeck’s charming streets can also be a delightful way to reach your destination.
+Getting to the National is relatively straightforward, with public transportation options available throughout Lübeck. Depending on your starting point, local buses or trams can provide convenient access to the theater. For those who prefer a more personal touch, walking or cycling through Lübeck's charming streets can also be a delightful way to reach your destination.
 
 Expect to spend around an hour at the National, allowing time for exploration and reflection. The best times to visit may vary, but consider planning your trip during weekdays or early evenings to avoid larger crowds. The theater's ambiance is likely to be particularly enchanting during quieter moments, when you can fully appreciate its historical significance.
 
 ## Nearby Attractions
 
-While exploring the area around the National theater, you’ll find several attractions that complement your visit:
+While exploring the area around the National theater, you'll find several attractions that complement your visit:
 
 1. **Lübeck's Old Town** - A UNESCO World Heritage Site, this historic district is renowned for its medieval architecture, including the iconic Holstentor gate and St. Mary's Church.
    
@@ -66,7 +66,7 @@ While exploring the area around the National theater, you’ll find several attr
 
 ## Insider Tips
 
-When visiting the National theater, consider bringing a camera to capture the unique architectural features and ambiance of the space. While photography policies may vary, it’s wise to check for any restrictions before snapping photos.
+When visiting the National theater, consider bringing a camera to capture the unique architectural features and ambiance of the space. While photography policies may vary, it's wise to check for any restrictions before snapping photos.
 
 To avoid crowds, plan your visit during weekdays or earlier in the day, as weekends may attract more visitors. This will allow you to enjoy a more intimate experience while exploring the theater's historical context.
 

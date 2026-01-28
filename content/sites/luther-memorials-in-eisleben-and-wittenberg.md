@@ -28,7 +28,7 @@ image_srcset:
 
 ## Overview
 
-The Luther Memorials in Eisleben and Wittenberg represent a critical chapter in the history of Christianity and Western thought. Located in the heart of Germany, these sites commemorate the life and work of Martin Luther, the pivotal figure of the Protestant Reformation. The collection of structures encompasses significant locations tied to Luther’s life, including his birthplace in Eisleben and the famous Castle Church in Wittenberg, where he famously nailed his Ninety-Five Theses. These sites not only reflect the architectural styles of their times but also encapsulate the profound social, cultural, and religious transformations that emerged during the Reformation. Visiting these memorials offers a unique opportunity to connect with the ideals that shaped modern Christianity and to appreciate the enduring legacy of one of history's most influential figures.
+The Luther Memorials in Eisleben and Wittenberg represent a critical chapter in the history of Christianity and Western thought. Located in the heart of Germany, these sites commemorate the life and work of Martin Luther, the pivotal figure of the Protestant Reformation. The collection of structures encompasses significant locations tied to Luther's life, including his birthplace in Eisleben and the famous Castle Church in Wittenberg, where he famously nailed his Ninety-Five Theses. These sites not only reflect the architectural styles of their times but also encapsulate the profound social, cultural, and religious transformations that emerged during the Reformation. Visiting these memorials offers a unique opportunity to connect with the ideals that shaped modern Christianity and to appreciate the enduring legacy of one of history's most influential figures.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Together, these structures form a cohesive narrative of the Reformation era, ill
 
 When planning your visit to the Luther Memorials in Eisleben and Wittenberg, it is essential to consider transportation options. Both towns are well-connected by rail and road, making them easily accessible from major German cities. Upon arrival, visitors can expect a variety of guided tours available, which provide in-depth insights into the significance of each site.
 
-To fully appreciate the memorials, allocate at least half a day to explore the various locations. While the sites can be visited individually, a combined tour allows for a deeper understanding of Luther’s life and the Reformation. It is advisable to check the official website for current information on hours and prices, as they may vary seasonally.
+To fully appreciate the memorials, allocate at least half a day to explore the various locations. While the sites can be visited individually, a combined tour allows for a deeper understanding of Luther's life and the Reformation. It is advisable to check the official website for current information on hours and prices, as they may vary seasonally.
 
 The best times to visit are during the spring and early autumn months when the weather is pleasant for walking tours. Additionally, these seasons tend to attract fewer crowds than the summer months, allowing for a more intimate experience at the memorials.
 
@@ -62,19 +62,19 @@ While visiting the Luther Memorials, consider exploring other nearby attractions
 
 1. **The Wittenberg Market Square**: Surrounded by historical buildings, this lively square hosts various events and is an excellent place to enjoy local cuisine.
    
-2. **St. Mary’s Church (Marienkirche)**: A Gothic church in Wittenberg where Luther preached and which features significant artwork from the Reformation period.
+2. **St. Mary's Church (Marienkirche)**: A Gothic church in Wittenberg where Luther preached and which features significant artwork from the Reformation period.
 
 3. **The Luther Garden**: A beautiful park in Wittenberg dedicated to the Reformation, featuring trees planted by representatives of various Protestant churches from around the world.
 
-4. **The Cranach Courtyard**: A charming area in Wittenberg that highlights the work of Lucas Cranach the Elder, an artist closely associated with Luther’s circle.
+4. **The Cranach Courtyard**: A charming area in Wittenberg that highlights the work of Lucas Cranach the Elder, an artist closely associated with Luther's circle.
 
-5. **The Luther House Museum**: A former residence of Luther that has been converted into a museum showcasing his life and the Reformation’s impact.
+5. **The Luther House Museum**: A former residence of Luther that has been converted into a museum showcasing his life and the Reformation's impact.
 
 ## Insider Tips
 
 When visiting the Luther Memorials, photography opportunities abound, especially in Wittenberg's Castle Church and the picturesque Market Square. Early mornings or late afternoons are ideal for capturing the sites in softer light and avoiding larger crowds.
 
-To enhance your experience, consider timing your visit during special events or commemorations related to the Reformation, which often include lectures, concerts, and exhibitions. These events provide additional context and enrich the understanding of Luther’s legacy.
+To enhance your experience, consider timing your visit during special events or commemorations related to the Reformation, which often include lectures, concerts, and exhibitions. These events provide additional context and enrich the understanding of Luther's legacy.
 
 ## Practical Information
 

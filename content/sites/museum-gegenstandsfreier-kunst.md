@@ -76,7 +76,7 @@ To make the most of your visit to the Museum gegenstandsfreier Kunst, consider t
 
 - **Crowd Avoidance**: For a quieter experience, visit during weekday mornings or early afternoons. This is usually the time when fewer visitors are present, allowing for a more personal interaction with the art.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the artworks or upcoming events. They can provide valuable insights and enhance your understanding of the exhibitions.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the artworks or upcoming events. They can provide valuable insights and enhance your understanding of the exhibitions.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When planning your visit to the Museum gegenstandsfreier Kunst, keep the followi
 Visitors typically spend about 1-2 hours at the museum, depending on their interest in the exhibitions and the pace at which they explore.
 
 ### Is photography allowed?
-Photography policies may vary, so check the museum’s regulations upon arrival for guidance on taking photos within the galleries.
+Photography policies may vary, so check the museum's regulations upon arrival for guidance on taking photos within the galleries.
 
 ### Are there guided tours?
 The museum may offer guided tours or special programs. Check the official website for details on availability and scheduling.

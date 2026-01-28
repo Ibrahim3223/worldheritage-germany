@@ -30,7 +30,7 @@ image_srcset:
 
 Schwerin Castle, an architectural landmark located in the heart of Schwerin, Germany, is a striking example of romantic historicism. Surrounded by picturesque lakes and lush greenery, the castle is not only a magnificent structure but also a significant cultural symbol for the region. Its striking towers and ornate facades capture the imagination, drawing visitors from around the world to explore its storied halls and exquisite gardens. As the former residence of the Grand Dukes of Mecklenburg, Schwerin Castle stands as a reflection of the region's royal heritage and the evolution of German architecture through the ages. 
 
-Visitors to Schwerin Castle will find themselves immersed in a world of elegance and grandeur, where every corner tells a tale of the past. The castle’s design and its setting on an island in Lake Schwerin create a harmonious blend of nature and architecture. As you wander through its richly decorated rooms and manicured grounds, you'll encounter not just a visual feast but also a deeper understanding of the historical significance that the castle holds in the narrative of German nobility.
+Visitors to Schwerin Castle will find themselves immersed in a world of elegance and grandeur, where every corner tells a tale of the past. The castle's design and its setting on an island in Lake Schwerin create a harmonious blend of nature and architecture. As you wander through its richly decorated rooms and manicured grounds, you'll encounter not just a visual feast but also a deeper understanding of the historical significance that the castle holds in the narrative of German nobility.
 
 ## History and Significance
 

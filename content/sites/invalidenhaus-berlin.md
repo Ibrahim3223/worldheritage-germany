@@ -28,13 +28,13 @@ image_srcset:
 
 Invalidenhaus Berlin is a historical foundation located in the district of Frohnau in Berlin, Germany. This site encapsulates a unique aspect of Berlin's multifaceted history, serving various functions over the years that reflect the social and cultural evolution of the city. While the Invalidenhaus itself may not be among the most frequently visited landmarks in Berlin, its significance lies in its unique role as a foundation that has contributed to the community and its heritage. As you explore this site, you will gain insight into the architectural styles and social initiatives that have shaped Berlin's evolution.
 
-Situated in a vibrant urban area, Invalidenhaus stands as a reminder of the city’s historical developments and community support systems. Through its architecture and continued relevance, this foundation offers visitors an understanding of Berlin's commitment to caring for its citizens. 
+Situated in a vibrant urban area, Invalidenhaus stands as a reminder of the city's historical developments and community support systems. Through its architecture and continued relevance, this foundation offers visitors an understanding of Berlin's commitment to caring for its citizens. 
 
 Whether you're an architecture enthusiast, a history buff, or simply looking to broaden your travel experience, Invalidenhaus Berlin promises a rewarding visit that highlights the importance of historical foundations in shaping societal structures. 
 
 ## History and Significance
 
-The Invalidenhaus holds a crucial place in the narrative of Berlin's social history. Originally established as a foundation, the Invalidenhaus served as a home and support system for invalids and veterans, reflecting the city’s approach to care for those who have served. The purpose of such institutions has evolved over the years, but their impact on communities remains significant. 
+The Invalidenhaus holds a crucial place in the narrative of Berlin's social history. Originally established as a foundation, the Invalidenhaus served as a home and support system for invalids and veterans, reflecting the city's approach to care for those who have served. The purpose of such institutions has evolved over the years, but their impact on communities remains significant. 
 
 The foundation's existence highlights the societal changes that have occurred in Berlin, particularly in how society views and supports its vulnerable populations. The Invalidenhaus's legacy is intertwined with various historical events that have influenced the social fabric of Berlin, including wars and subsequent rehabilitation efforts. 
 
@@ -76,7 +76,7 @@ After exploring Invalidenhaus Berlin, consider visiting some nearby attractions 
 
 ## Insider Tips
 
-For those planning to photograph the Invalidenhaus, early mornings or late afternoons often provide the best natural light and fewer crowds. Be mindful of the site’s guidelines on photography to ensure a respectful visit.
+For those planning to photograph the Invalidenhaus, early mornings or late afternoons often provide the best natural light and fewer crowds. Be mindful of the site's guidelines on photography to ensure a respectful visit.
 
 To avoid the busiest times, consider visiting during weekdays, as weekends can attract more visitors. This will allow you to enjoy a more tranquil experience as you explore the foundation's features.
 
@@ -92,7 +92,7 @@ If you are visiting during the colder months, be prepared for possible winter we
 A visit typically takes around 1 to 2 hours, allowing time to explore the foundation and learn about its history.
 
 ### Is photography allowed?
-Check the site’s guidelines regarding photography to ensure compliance during your visit.
+Check the site's guidelines regarding photography to ensure compliance during your visit.
 
 ### Are there guided tours?
 Information on guided tours can be found on the official website; consider checking there for details.

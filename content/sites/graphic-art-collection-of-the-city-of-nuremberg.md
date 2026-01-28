@@ -72,7 +72,7 @@ The Graphic Art Collection is conveniently located near several other cultural a
 
 4. **Albrecht Dürer's House**: The former residence of the famed Renaissance artist Albrecht Dürer, this site provides insight into his life and work.
 
-5. **Documentation Center Nazi Party Rally Grounds**: This museum explores the history of the Nazi regime and its impact on Nuremberg, offering a sobering yet important perspective on the city’s past.
+5. **Documentation Center Nazi Party Rally Grounds**: This museum explores the history of the Nazi regime and its impact on Nuremberg, offering a sobering yet important perspective on the city's past.
 
 ## Insider Tips
 

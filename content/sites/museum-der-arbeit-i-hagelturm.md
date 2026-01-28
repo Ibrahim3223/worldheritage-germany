@@ -36,7 +36,7 @@ The Museum der Arbeit I Hagelturm is situated in a region that has witnessed sig
 
 Culturally, the museum plays a vital role in educating the public about the historical significance of labor movements and the working class's influence on contemporary society. By showcasing artifacts, documents, and multimedia presentations, the museum provides insightful perspectives on how labor dynamics have shaped social structures, economies, and communities. 
 
-The museum also serves as a venue for dialogue about the present and future of work, encouraging discussions around labor rights, employment trends, and the impact of technology on traditional practices. Its dedication to preserving labor history fosters appreciation for the contributions of workers across various fields and reminds visitors of the ongoing relevance of these themes in today’s world.
+The museum also serves as a venue for dialogue about the present and future of work, encouraging discussions around labor rights, employment trends, and the impact of technology on traditional practices. Its dedication to preserving labor history fosters appreciation for the contributions of workers across various fields and reminds visitors of the ongoing relevance of these themes in today's world.
 
 ## Architecture and Features
 

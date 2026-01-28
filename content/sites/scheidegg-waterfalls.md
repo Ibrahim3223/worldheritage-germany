@@ -64,7 +64,7 @@ Visitors to the Scheidegg Waterfalls can enhance their experience by exploring s
 
 2. **Bregenz Forest**: Just a short distance away, this expansive natural area is perfect for hiking, cycling, and exploring the diverse landscapes of the region.
 
-3. **Lake Constance**: A stunning nearby lake that provides opportunities for boating, swimming, and enjoying picturesque views, it’s a popular spot for both relaxation and recreation.
+3. **Lake Constance**: A stunning nearby lake that provides opportunities for boating, swimming, and enjoying picturesque views, it's a popular spot for both relaxation and recreation.
 
 4. **Pfahlbauten Museum**: Located in close proximity, this museum showcases the prehistoric pile-dwelling settlements once found around Lake Constance, offering insights into ancient human habitation.
 
@@ -105,7 +105,7 @@ Accessibility options may vary; check the official website for current informati
 Information regarding online ticket purchases may vary; please check the official website for the most accurate details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available nearby; it’s advisable to check the official website for current information on amenities.
+Facilities such as restrooms and cafes may be available nearby; it's advisable to check the official website for current information on amenities.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy footwear suitable for walking. Consider weather conditions and dress in layers if necessary.

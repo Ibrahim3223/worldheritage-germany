@@ -36,13 +36,13 @@ The statue of Diana is emblematic of the cultural renaissance that Berlin experi
 
 While specific historical details regarding the statue's creation and artist are not included, it is evident that the work reflects the values and aesthetics of its time. The statue contributes to the narrative of Museumsinsel as a center for the arts, where visitors can explore and engage with the legacies of the past. The cultural significance of Diana extends beyond her representation as a goddess; she embodies the aspirations and artistic endeavors of generations who have sought to capture the beauty of the human experience.
 
-The statue has become a focal point for discussions about art, mythology, and the role of women in classical narratives. As such, it invites visitors to reflect on the evolution of these themes in contemporary society, making it a relevant piece within the dynamic context of Berlin’s rich cultural landscape.
+The statue has become a focal point for discussions about art, mythology, and the role of women in classical narratives. As such, it invites visitors to reflect on the evolution of these themes in contemporary society, making it a relevant piece within the dynamic context of Berlin's rich cultural landscape.
 
 ## Architecture and Features
 
 Diana is crafted in bronze, a material that not only lends itself to intricate detail but also withstands the test of time. The statue captures the grace and poise associated with the goddess, featuring a lifelike representation that emphasizes her flowing garments and dynamic posture. The craftsmanship reflects a high level of artistry, showcasing the techniques that have been passed down through generations.
 
-The statue’s placement on Museumsinsel allows it to interact harmoniously with its surroundings, drawing the eye of passersby and encouraging engagement. As visitors approach, they can appreciate the details that highlight the artist's skill, from the delicate features of Diana's face to the intricate folds of her clothing. The statue's position within a prominent cultural site amplifies its visibility and significance, making it an integral part of the Museumsinsel experience.
+The statue's placement on Museumsinsel allows it to interact harmoniously with its surroundings, drawing the eye of passersby and encouraging engagement. As visitors approach, they can appreciate the details that highlight the artist's skill, from the delicate features of Diana's face to the intricate folds of her clothing. The statue's position within a prominent cultural site amplifies its visibility and significance, making it an integral part of the Museumsinsel experience.
 
 While the dimensions of the statue are not specified, its stature commands attention, standing as a proud symbol against the backdrop of Berlin's architectural marvels. Diana serves not only as an artistic figure but also as a cultural landmark that adds depth to the narrative of the area.
 

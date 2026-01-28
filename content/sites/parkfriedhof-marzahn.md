@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Parkfriedhof Marzahn is a significant memorial site located in the Marzahn-Hellersdorf district of Berlin, Germany. This cemetery serves as a serene reflection of the city’s historical and cultural evolution. As a resting place for many, it embodies the narratives of lives lived and the stories of the past. The cemetery is not only a final resting place but also a space that invites contemplation and remembrance amidst the hustle and bustle of urban life. Visitors can find tranquility in this expansive area, making it an ideal spot for those interested in exploring Berlin's heritage and memorial practices.
+Parkfriedhof Marzahn is a significant memorial site located in the Marzahn-Hellersdorf district of Berlin, Germany. This cemetery serves as a serene reflection of the city's historical and cultural evolution. As a resting place for many, it embodies the narratives of lives lived and the stories of the past. The cemetery is not only a final resting place but also a space that invites contemplation and remembrance amidst the hustle and bustle of urban life. Visitors can find tranquility in this expansive area, making it an ideal spot for those interested in exploring Berlin's heritage and memorial practices.
 
 Situated in the northeastern part of Berlin, Parkfriedhof Marzahn is accessible for anyone wishing to learn about the local culture and history. While the site serves its primary purpose as a cemetery, it also provides a glimpse into Berlin's past, reflecting cultural shifts and memorialization practices. Whether you're a history enthusiast, a local resident, or a curious traveler, Parkfriedhof Marzahn offers a unique perspective on the city's memorial landscape.
 

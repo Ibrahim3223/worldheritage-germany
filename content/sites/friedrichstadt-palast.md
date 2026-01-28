@@ -42,7 +42,7 @@ The architectural design of Friedrichstadt-Palast is notable for its unique feat
 
 Inside, the theatre houses one of the largest stages in Europe, providing ample space for elaborate staging and production design. The stage is equipped with advanced technology that enhances the visual experience for the audience, allowing for spectacular performances that blend traditional theatre with modern techniques. The seating arrangement is designed to provide excellent views from various angles, ensuring that every guest can enjoy the spectacle.
 
-Additionally, the interior of Friedrichstadt-Palast is adorned with opulent decor, creating an atmosphere of sophistication and excitement. The theatre's design reflects a commitment to providing an immersive experience, from the moment guests enter the venue to the final curtain call. This combination of architectural prowess and cutting-edge technology makes Friedrichstadt-Palast a standout in Berlin’s cultural scene.
+Additionally, the interior of Friedrichstadt-Palast is adorned with opulent decor, creating an atmosphere of sophistication and excitement. The theatre's design reflects a commitment to providing an immersive experience, from the moment guests enter the venue to the final curtain call. This combination of architectural prowess and cutting-edge technology makes Friedrichstadt-Palast a standout in Berlin's cultural scene.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ After experiencing a performance at Friedrichstadt-Palast, consider exploring so
 
 2. **Museum für Film und Fernsehen**: A fascinating museum dedicated to the history of film and television in Germany, this venue showcases exhibits that celebrate both the artistic and technical aspects of the industry.
 
-3. **Reichstag Building**: The seat of the German Parliament, the Reichstag is an architectural marvel with a glass dome that offers panoramic views of the city. A visit here provides insights into Germany’s political history.
+3. **Reichstag Building**: The seat of the German Parliament, the Reichstag is an architectural marvel with a glass dome that offers panoramic views of the city. A visit here provides insights into Germany's political history.
 
 4. **Brandenburger Tor**: An iconic symbol of Berlin, the Brandenburg Gate is a must-see landmark that represents unity and peace. Its proximity to Friedrichstadt-Palast makes it an excellent addition to your itinerary.
 

@@ -44,7 +44,7 @@ Burg Hammerstein is characterized by its imposing structure and distinctive arch
 
 One of the notable aspects of Burg Hammerstein is its strategic placement, which offers a commanding view of the surrounding landscape. This vantage point would have been crucial for surveillance and defense, allowing its inhabitants to spot potential threats. The layout of the castle demonstrates a thoughtful approach to both functionality and artistry, with various rooms and passages designed to accommodate both the practical needs of defense and the social activities of its residents.
 
-Visitors can explore the castle's interior, which may reveal remnants of its original furnishings and decor, though specific details may vary. The stonework and craftsmanship evident in the castle’s walls and towers highlight the skills of the builders and the resources available during its construction. The overall atmosphere of Burg Hammerstein is one of historical integrity, allowing guests to appreciate the architectural achievements of the past.
+Visitors can explore the castle's interior, which may reveal remnants of its original furnishings and decor, though specific details may vary. The stonework and craftsmanship evident in the castle's walls and towers highlight the skills of the builders and the resources available during its construction. The overall atmosphere of Burg Hammerstein is one of historical integrity, allowing guests to appreciate the architectural achievements of the past.
 
 ## Visiting Information
 

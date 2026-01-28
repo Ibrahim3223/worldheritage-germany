@@ -52,7 +52,7 @@ Reaching the Purrmann House is straightforward, with various transport options a
 
 Check the official website for current information regarding opening hours and ticket prices. The museum typically offers a range of experiences, from guided tours to self-exploration, allowing guests to choose how they wish to engage with the exhibits. On average, visitors might find that spending about two hours at the museum provides a fulfilling experience, though art enthusiasts may wish to linger longer.
 
-The best times to visit often align with local events or exhibitions, so checking the museum’s schedule can enhance your experience. Additionally, weekdays might offer a quieter ambiance, making it ideal for those who prefer a more solitary exploration.
+The best times to visit often align with local events or exhibitions, so checking the museum's schedule can enhance your experience. Additionally, weekdays might offer a quieter ambiance, making it ideal for those who prefer a more solitary exploration.
 
 ## Nearby Attractions
 
@@ -86,7 +86,7 @@ Accessibility options may be available, so checking in advance can enhance the e
 A visit of approximately two hours is recommended to fully appreciate the exhibits, though art lovers may wish to spend more time.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum's guidelines upon arrival.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Yes, guided tours are typically available, providing in-depth insights into the artworks and the artist's life.
@@ -95,7 +95,7 @@ Yes, guided tours are typically available, providing in-depth insights into the 
 Weekdays may offer a quieter experience, while special exhibitions can enhance visits during weekends.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available. It’s advisable to check the official website for detailed information.
+Accessibility features may be available. It's advisable to check the official website for detailed information.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases.

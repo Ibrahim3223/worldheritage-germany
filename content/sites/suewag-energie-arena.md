@@ -36,7 +36,7 @@ The Süwag Energie Arena stands as a modern representation of Frankfurt's evolvi
 
 Sports have always been an integral part of Frankfurt's identity, with the arena contributing significantly to this legacy. It serves as a venue for local teams, offering them a place to cultivate talent and engage with fans. The arena's flexibility allows it to host a diverse array of events, from basketball games to concerts, making it a key player in the cultural fabric of the city.
 
-In addition to its role in sports, the Süwag Energie Arena is significant for its contribution to the local economy. By attracting visitors for events, it generates business for nearby establishments, including restaurants and hotels, further intertwining the arena with the city’s economic health. As Frankfurt continues to develop, the arena remains a vital part of its cultural and social ecosystem.
+In addition to its role in sports, the Süwag Energie Arena is significant for its contribution to the local economy. By attracting visitors for events, it generates business for nearby establishments, including restaurants and hotels, further intertwining the arena with the city's economic health. As Frankfurt continues to develop, the arena remains a vital part of its cultural and social ecosystem.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ To make the most of your visit to the Süwag Energie Arena, consider these insid
 
 ## Practical Information
 
-When visiting the Süwag Energie Arena, it’s wise to keep a few practical considerations in mind:
+When visiting the Süwag Energie Arena, it's wise to keep a few practical considerations in mind:
 
 - **What to Bring**: Dress comfortably, especially if you plan to spend several hours on-site. A light jacket may be advisable, as arenas can sometimes be cooler than expected.
 
@@ -114,4 +114,4 @@ The arena is equipped with restrooms and various concessions. Visitors can expec
 ### What should I wear?
 Wear comfortable clothing suitable for the event you are attending. If you plan to spend time outdoors, consider layering for comfort.
 
-In summary, the Süwag Energie Arena is more than just a venue; it is a crucial part of Frankfurt’s cultural landscape. Whether you're a local resident or a visitor, attending an event here provides an opportunity to engage with the community and experience the lively spirit of the city.
+In summary, the Süwag Energie Arena is more than just a venue; it is a crucial part of Frankfurt's cultural landscape. Whether you're a local resident or a visitor, attending an event here provides an opportunity to engage with the community and experience the lively spirit of the city.

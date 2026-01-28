@@ -99,7 +99,7 @@ Accessibility information may vary; it is advisable to consult the official webs
 Check the official website for information about ticket purchasing options, including whether online tickets are available.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s recommended to confirm current offerings on the official website.
+Facilities may be available on-site, but it's recommended to confirm current offerings on the official website.
 
 ### What should I wear?
 Modest attire is encouraged, in keeping with the respectful atmosphere of the monastery. Comfortable shoes are also recommended for exploring the area.

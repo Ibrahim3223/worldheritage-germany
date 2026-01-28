@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Bremen, Germany, stands the Olbers memorial, a statue that pays homage to the renowned astronomer and physician Heinrich Wilhelm Olbers. Located in the Mitte district, this memorial not only honors Olbers’ contributions to science but also serves as a focal point for visitors interested in the intersection of culture and history. The Olbers memorial invites exploration and reflection, providing a glimpse into the life of one of Bremen’s most notable figures.
+In the heart of Bremen, Germany, stands the Olbers memorial, a statue that pays homage to the renowned astronomer and physician Heinrich Wilhelm Olbers. Located in the Mitte district, this memorial not only honors Olbers' contributions to science but also serves as a focal point for visitors interested in the intersection of culture and history. The Olbers memorial invites exploration and reflection, providing a glimpse into the life of one of Bremen's most notable figures.
 
 The statue's strategic placement in Bremen enhances its significance, acting as a bridge between the past and the present. With its notable artistic design, the Olbers memorial captures the attention of both locals and tourists alike, making it a must-see landmark. This guide aims to uncover the rich context surrounding the memorial, offering insights into its historical importance, architectural features, and practical information for visitors.
 
@@ -44,7 +44,7 @@ The Olbers memorial is characterized by its striking design and craftsmanship, s
 
 While specific dimensions and materials of the statue are not provided, the overall aesthetic is likely to reflect the classical influences common in memorial architecture of the time. Statues such as the Olbers memorial often feature a combination of durable materials that ensure longevity, making it a fitting tribute to a man whose contributions have endured through time.
 
-Surrounding the statue, visitors may find landscaped areas, which enhance the experience of viewing the memorial. Such settings allow for contemplation and appreciation of Olbers’ legacy in a peaceful environment. The design of the memorial not only honors the individual it commemorates but also invites public interaction, making it accessible to a wide audience.
+Surrounding the statue, visitors may find landscaped areas, which enhance the experience of viewing the memorial. Such settings allow for contemplation and appreciation of Olbers' legacy in a peaceful environment. The design of the memorial not only honors the individual it commemorates but also invites public interaction, making it accessible to a wide audience.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ Bremen is a city rich in culture and history, with several nearby attractions th
 
 1. **Bremen Town Hall**: A UNESCO World Heritage site, this architectural gem reflects the city's medieval past and is a must-visit for history enthusiasts.
   
-2. **The Bremen Roland Statue**: Located in the market square, this statue symbolizes the city’s independence and is another significant historical landmark.
+2. **The Bremen Roland Statue**: Located in the market square, this statue symbolizes the city's independence and is another significant historical landmark.
 
 3. **Schnoor Quarter**: This charming neighborhood features narrow streets and historic buildings, providing a picturesque setting to explore local shops and cafes.
 

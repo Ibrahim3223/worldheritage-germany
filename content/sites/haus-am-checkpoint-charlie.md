@@ -28,7 +28,7 @@ image_srcset:
 
 Haus am Checkpoint Charlie is a museum located in the heart of Berlin, Germany, that serves as a pivotal point for understanding the historical complexities of the Berlin Wall and the Cold War era. Situated in the Friedrichshain-Kreuzberg district, this museum provides visitors with an in-depth look at the significant events that unfolded at one of the most famous border crossings in the world. Checkpoint Charlie was not only a gateway between East and West Berlin but also a symbol of the ideological divide that characterized the Cold War.
 
-The museum is vital for those wishing to grasp the human stories behind the political tensions of the time. Through various exhibitions, Haus am Checkpoint Charlie chronicles the struggles for freedom and the harrowing experiences of those who attempted to escape from East to West Berlin. The museum’s context within Berlin, a city that has transformed over the decades, adds layers of meaning to the artifacts and narratives presented within its walls.
+The museum is vital for those wishing to grasp the human stories behind the political tensions of the time. Through various exhibitions, Haus am Checkpoint Charlie chronicles the struggles for freedom and the harrowing experiences of those who attempted to escape from East to West Berlin. The museum's context within Berlin, a city that has transformed over the decades, adds layers of meaning to the artifacts and narratives presented within its walls.
 
 Visitors can expect to see a comprehensive collection of photographs, documents, and personal accounts that illustrate the impact of the Berlin Wall on the lives of everyday citizens. The museum not only educates but also invites reflection on the importance of freedom and human rights, making it a compelling stop on any visit to Berlin.
 
@@ -44,13 +44,13 @@ Moreover, the location of the museum plays a crucial role in its significance. B
 
 ## Architecture and Features
 
-Haus am Checkpoint Charlie stands as a significant architectural entity within Berlin, reflecting the city’s turbulent history and its journey towards unity. The building itself is modern in design, characterized by clean lines and a functional layout that prioritizes accessibility and visitor engagement. 
+Haus am Checkpoint Charlie stands as a significant architectural entity within Berlin, reflecting the city's turbulent history and its journey towards unity. The building itself is modern in design, characterized by clean lines and a functional layout that prioritizes accessibility and visitor engagement. 
 
 Inside, the museum features a series of exhibition halls that are thoughtfully arranged to guide visitors through the narrative of the Berlin Wall and its impact on society. The spaces are designed to accommodate various multimedia presentations, including photographs, documents, and interactive displays. These features enhance the educational experience, allowing visitors to immerse themselves in the stories being told.
 
 Notable features of the museum include the extensive collection of artifacts related to escape attempts, such as makeshift hot air balloons and elaborate disguises used by those seeking freedom. The exhibits also include original documents and photographs that provide insight into the daily lives of Berliners during the Cold War. 
 
-One of the standout aspects of the museum is its commitment to showcasing personal stories. Life-size replicas and installations depict escape attempts and highlight the emotional journeys of individuals and families. This focus on personal narratives makes the museum’s approach unique and engaging.
+One of the standout aspects of the museum is its commitment to showcasing personal stories. Life-size replicas and installations depict escape attempts and highlight the emotional journeys of individuals and families. This focus on personal narratives makes the museum's approach unique and engaging.
 
 Furthermore, the exterior of the museum is marked by a prominent sign indicating its historical significance, making it a recognizable landmark. Visitors will find that the architecture, while modern, is a fitting tribute to the profound historical events that transpired at this site.
 
@@ -72,7 +72,7 @@ While visiting Haus am Checkpoint Charlie, there are several nearby attractions 
 
 2. **Topography of Terror**: Situated not far from Checkpoint Charlie, this outdoor and indoor museum documents the history of the institutions of terror in Nazi Germany, providing critical context to the events leading up to the Cold War.
 
-3. **Gendarmenmarkt**: A short distance away, this historic square is home to stunning architecture, including the French and German Cathedrals and the Concert House. It’s a beautiful spot for a leisurely stroll.
+3. **Gendarmenmarkt**: A short distance away, this historic square is home to stunning architecture, including the French and German Cathedrals and the Concert House. It's a beautiful spot for a leisurely stroll.
 
 4. **Brandenburg Gate**: A symbol of Berlin and Germany as a whole, this iconic landmark is a must-see, representing the reunification of the city.
 
@@ -103,7 +103,7 @@ Most visitors typically spend two to three hours at Haus am Checkpoint Charlie t
 Yes, photography is generally permitted, but be attentive to any signs indicating restrictions in specific areas.
 
 ### Are there guided tours?
-While the museum may offer audio guides or information panels, it’s best to check the official website for any available guided tours.
+While the museum may offer audio guides or information panels, it's best to check the official website for any available guided tours.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, and early morning visits can provide a quieter experience.

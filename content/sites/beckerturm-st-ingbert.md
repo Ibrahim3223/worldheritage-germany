@@ -42,7 +42,7 @@ Visitors to the Beckerturm can appreciate not just its physical presence but als
 
 The architectural design of the Beckerturm is notable for its simplicity and functionality, a characteristic that reflects the utilitarian ethos of many structures from its era. While detailed architectural specifics are not provided, the tower is recognized for its robust construction, which has allowed it to withstand the test of time.
 
-The structure’s exterior is likely to feature traditional materials that resonate with the regional building styles, embodying the aesthetic values of the local culture. Its height and prominence make it a defining feature of St. Ingbert, allowing it to be seen from various vantage points around the town. 
+The structure's exterior is likely to feature traditional materials that resonate with the regional building styles, embodying the aesthetic values of the local culture. Its height and prominence make it a defining feature of St. Ingbert, allowing it to be seen from various vantage points around the town. 
 
 Visitors will find that the Beckerturm is not just about its exterior; the interior spaces may also hold historical significance, providing insights into its original purpose and the changes it has undergone. While specific features of the interior are not detailed, the essence of the tower lies in its ability to connect past and present, offering a glimpse into the life and times of St. Ingbert.
 

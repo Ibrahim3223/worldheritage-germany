@@ -44,7 +44,7 @@ In addition to its role as a museum, the Tränenpalast has found new life as a v
 
 ## Architecture and Features
 
-The architecture of Tränenpalast is characterized by its functional design, reflective of its historical role as a border crossing. The building’s layout is straightforward, designed to facilitate the movement of people while maintaining the necessary security measures of the time. While the exterior may not boast elaborate decorations, its significance lies in what it represents—an intersection of lives and stories.
+The architecture of Tränenpalast is characterized by its functional design, reflective of its historical role as a border crossing. The building's layout is straightforward, designed to facilitate the movement of people while maintaining the necessary security measures of the time. While the exterior may not boast elaborate decorations, its significance lies in what it represents—an intersection of lives and stories.
 
 Inside, visitors can explore various exhibition spaces that detail the history of the inner-German border and the experiences of those who utilized the crossing. The museum's layout encourages exploration, with displays thoughtfully arranged to guide visitors through the narratives of separation and reunion. Multimedia installations enhance the storytelling, providing context and depth to the exhibits.
 
@@ -116,4 +116,4 @@ Facilities may be available on-site; however, for the latest details, refer to t
 ### What should I wear?
 Dress comfortably for walking and standing, and consider the weather conditions of the day to ensure a pleasant visit. 
 
-Tränenpalast is not just a museum; it is a space for reflection and understanding, making it a significant stop on any journey through Berlin’s complex history.
+Tränenpalast is not just a museum; it is a space for reflection and understanding, making it a significant stop on any journey through Berlin's complex history.

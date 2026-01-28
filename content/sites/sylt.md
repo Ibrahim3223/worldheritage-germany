@@ -97,7 +97,7 @@ Yes, guided tours are available and can provide valuable insights into the islan
 The summer months are popular for beach activities, while the shoulder seasons offer a quieter experience.
 
 ### Is it wheelchair accessible?
-Many parts of Sylt are wheelchair accessible, including some beaches and public facilities, but it’s best to check specific locations for detailed accessibility options.
+Many parts of Sylt are wheelchair accessible, including some beaches and public facilities, but it's best to check specific locations for detailed accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets online for specific attractions.

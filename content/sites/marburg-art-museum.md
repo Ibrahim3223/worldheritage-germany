@@ -56,11 +56,11 @@ In summary, while specific architectural aspects may not be detailed, the Marbur
 
 Planning a visit to the Marburg Art Museum is straightforward, with various transport options available for travelers. The museum is centrally located in Marburg, making it easily accessible by public transportation or car. For those using public transport, check local schedules for the most efficient routes to the museum.
 
-Before you go, it’s advisable to check the official website for current information regarding hours of operation and ticket prices, as these may vary throughout the year. The museum typically offers a range of exhibitions, so visitors can expect to see both permanent and temporary displays. Depending on your interests, a visit may take anywhere from a couple of hours to half a day.
+Before you go, it's advisable to check the official website for current information regarding hours of operation and ticket prices, as these may vary throughout the year. The museum typically offers a range of exhibitions, so visitors can expect to see both permanent and temporary displays. Depending on your interests, a visit may take anywhere from a couple of hours to half a day.
 
 For an optimal experience, consider visiting during weekdays or early in the day to avoid larger crowds. This timing allows for a more personal engagement with the art and a quieter atmosphere for reflection.
 
-In summary, visiting the Marburg Art Museum can be a delightful experience, where art and culture converge in an accessible location. Don’t forget to check the official website for the latest updates before your visit!
+In summary, visiting the Marburg Art Museum can be a delightful experience, where art and culture converge in an accessible location. Don't forget to check the official website for the latest updates before your visit!
 
 ## Nearby Attractions
 

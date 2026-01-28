@@ -42,7 +42,7 @@ The significance of the Schwäbisches Handwerkermuseum extends beyond mere prese
 
 ## Architecture and Features
 
-The architectural design of the Schwäbisches Handwerkermuseum reflects the historical essence of Augsburg, blending modern elements with traditional aesthetics. The museum is housed in a structure that complements the city’s architectural landscape, characterized by its historical buildings and cobblestone streets. Visitors can appreciate the thoughtful integration of contemporary design with the historical context.
+The architectural design of the Schwäbisches Handwerkermuseum reflects the historical essence of Augsburg, blending modern elements with traditional aesthetics. The museum is housed in a structure that complements the city's architectural landscape, characterized by its historical buildings and cobblestone streets. Visitors can appreciate the thoughtful integration of contemporary design with the historical context.
 
 Inside, the museum features a variety of exhibits that highlight different crafts. The layout is designed to guide visitors through a chronological journey, showcasing the evolution of tools and techniques used by artisans throughout the ages. Interactive displays allow guests to engage with the exhibits, providing hands-on experiences that enhance understanding and appreciation.
 
@@ -62,11 +62,11 @@ Augsburg is rich in history and culture, with several nearby attractions worth e
 
 1. **Augsburg Cathedral**: A stunning example of Romanesque architecture, this cathedral features remarkable stained glass windows and an impressive interior.
    
-2. **Fuggerei**: The world’s oldest social housing complex, founded in the 16th century, offers a glimpse into the lives of its residents and the philanthropic heritage of the Fugger family.
+2. **Fuggerei**: The world's oldest social housing complex, founded in the 16th century, offers a glimpse into the lives of its residents and the philanthropic heritage of the Fugger family.
 
 3. **Augsburg Town Hall**: A magnificent Renaissance building known for its intricate facade and the Golden Hall, which showcases opulent decorations.
 
-4. **Perlach Tower**: Climb this historic tower for panoramic views of Augsburg, offering a unique vantage point of the city’s rooftops and landmarks.
+4. **Perlach Tower**: Climb this historic tower for panoramic views of Augsburg, offering a unique vantage point of the city's rooftops and landmarks.
 
 5. **Schaezlerpalais**: A beautiful Baroque palace that houses an art collection and hosts temporary exhibitions, celebrating the region's artistic heritage.
 

@@ -80,22 +80,22 @@ Seasonal considerations may affect your visit, as certain times of the year may 
 Visitors typically spend between one to several hours exploring Burg Lakum, depending on their interest in history and architecture.
 
 ### Is photography allowed?
-Photography is generally permitted at Burg Lakum; however, it’s wise to check for any specific restrictions upon arrival.
+Photography is generally permitted at Burg Lakum; however, it's wise to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-While specific details about guided tours may vary, it’s advisable to check the official website for information on availability and scheduling.
+While specific details about guided tours may vary, it's advisable to check the official website for information on availability and scheduling.
 
 ### What's the best time to visit?
 Weekdays may offer a quieter experience, while early morning or late afternoon can provide optimal lighting for photography.
 
 ### Is it wheelchair accessible?
-Accessibility details may not be specified, so it’s best to check the official website for current information on wheelchair access.
+Accessibility details may not be specified, so it's best to check the official website for current information on wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for the possibility of purchasing tickets online, as this can streamline your entry process.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms and cafes may be available; however, it’s advisable to confirm this on the official website.
+Facilities like restrooms and cafes may be available; however, it's advisable to confirm this on the official website.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, particularly if you plan to explore the castle grounds.

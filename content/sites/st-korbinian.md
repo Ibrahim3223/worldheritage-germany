@@ -34,9 +34,9 @@ As you explore St. Korbinian, you will discover not just a building, but a space
 
 ## History and Significance
 
-The history of St. Korbinian is intertwined with the rich tapestry of Munich's development as a city. While specific dates regarding its founding or significant events may not be documented, the church is recognized for its cultural and religious importance in the area. As a place of worship, it has served generations of locals, becoming a cornerstone of the community’s spiritual life.
+The history of St. Korbinian is intertwined with the rich tapestry of Munich's development as a city. While specific dates regarding its founding or significant events may not be documented, the church is recognized for its cultural and religious importance in the area. As a place of worship, it has served generations of locals, becoming a cornerstone of the community's spiritual life.
 
-St. Korbinian is dedicated to the figure of Saint Korbinian, a missionary and the patron saint of Bavaria. This connection to a significant religious figure enhances the church’s prominence within the region. The influence of Saint Korbinian extends beyond the church itself, as he is often associated with the establishment of Christian communities in Bavaria. The church's dedication to him serves as a reminder of the region's commitment to its religious heritage and the values instilled by its early missionaries.
+St. Korbinian is dedicated to the figure of Saint Korbinian, a missionary and the patron saint of Bavaria. This connection to a significant religious figure enhances the church's prominence within the region. The influence of Saint Korbinian extends beyond the church itself, as he is often associated with the establishment of Christian communities in Bavaria. The church's dedication to him serves as a reminder of the region's commitment to its religious heritage and the values instilled by its early missionaries.
 
 Over the years, St. Korbinian has adapted to the changing needs of its congregation while maintaining its historical essence. Its role has evolved alongside the city, reflecting broader social and cultural shifts in Munich. Today, it stands not only as a site for worship but also as a venue for community gatherings, celebrations, and cultural events, reinforcing its significance in contemporary society.
 
@@ -106,16 +106,16 @@ When planning your visit to St. Korbinian, keep these practical considerations i
 Visitors typically spend 30 minutes to an hour exploring St. Korbinian, though your time may vary based on personal interests.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions, particularly inside the church.
+Photography is generally permitted, but it's best to check for any specific restrictions, particularly inside the church.
 
 ### Are there guided tours?
-While guided tours may be available, it’s advisable to check the official website for current offerings and scheduling.
+While guided tours may be available, it's advisable to check the official website for current offerings and scheduling.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often ideal for a quieter experience, but weekends may provide opportunities to engage with community activities.
 
 ### Is it wheelchair accessible?
-St. Korbinian strives to be accessible to all visitors. For specific details, it’s recommended to inquire ahead of your visit.
+St. Korbinian strives to be accessible to all visitors. For specific details, it's recommended to inquire ahead of your visit.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases, as policies can vary.

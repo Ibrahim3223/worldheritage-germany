@@ -86,7 +86,7 @@ It is also worth noting that visitors should respect the sanctity of the church 
 A visit typically takes about one to two hours, depending on your interests in exploring the church and its surroundings.
 
 ### Is photography allowed?
-While photography is usually permitted in many church buildings, it’s advisable to check for any specific restrictions upon your arrival.
+While photography is usually permitted in many church buildings, it's advisable to check for any specific restrictions upon your arrival.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified; however, visitors may inquire at the church for any available options.
@@ -106,4 +106,4 @@ Information about on-site facilities is not provided; it may be best to check fo
 ### What should I wear?
 Modest attire is generally recommended in places of worship, so consider that when planning your visit.
 
-For a journey into the spiritual heritage of Gütersloh, St. Pankratius stands as an inviting destination, offering both reflection and engagement with the community’s past.
+For a journey into the spiritual heritage of Gütersloh, St. Pankratius stands as an inviting destination, offering both reflection and engagement with the community's past.

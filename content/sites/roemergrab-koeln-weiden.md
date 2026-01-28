@@ -70,15 +70,15 @@ While the Römergrab Köln-Weiden is a compelling destination in its own right, 
 
 ## Insider Tips
 
-For those planning to photograph the Römergrab Köln-Weiden, it’s advisable to bring a camera with a good low-light capability, as the interior lighting may be limited. Additionally, visiting during off-peak hours, such as early mornings or weekdays, will allow for a quieter experience, enabling you to immerse yourself in the atmosphere without distractions.
+For those planning to photograph the Römergrab Köln-Weiden, it's advisable to bring a camera with a good low-light capability, as the interior lighting may be limited. Additionally, visiting during off-peak hours, such as early mornings or weekdays, will allow for a quieter experience, enabling you to immerse yourself in the atmosphere without distractions.
 
 Consider bringing along a notebook or sketchbook to jot down observations or draw the intricate details of the architecture. This can enhance your experience as you engage with the history of the site.
 
 ## Practical Information
 
-When visiting the Römergrab Köln-Weiden, it’s wise to pack light yet prepare for the cooler temperatures typical of underground sites. Comfortable walking shoes are recommended, as you may navigate uneven surfaces inside the chamber. 
+When visiting the Römergrab Köln-Weiden, it's wise to pack light yet prepare for the cooler temperatures typical of underground sites. Comfortable walking shoes are recommended, as you may navigate uneven surfaces inside the chamber. 
 
-Seasonal considerations may also play a role in your visit; the chamber’s underground location provides a consistent climate, making it an appealing destination year-round. However, check the official website for specific seasonal events or closures that could affect your visit.
+Seasonal considerations may also play a role in your visit; the chamber's underground location provides a consistent climate, making it an appealing destination year-round. However, check the official website for specific seasonal events or closures that could affect your visit.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ Seasonal considerations may also play a role in your visit; the chamber’s unde
 A visit to the Römergrab typically lasts between one to two hours, allowing ample time to explore the chamber and absorb its historical significance.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the official site before your visit.
+Photography policies can vary, so it's best to check with the official site before your visit.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history and significance of the Römergrab. Check the official website for details.

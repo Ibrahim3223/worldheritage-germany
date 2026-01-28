@@ -36,11 +36,11 @@ The history of Rathaus Greußen is deeply intertwined with the development of th
 
 The significance of Rathaus Greußen extends beyond its physical structure; it embodies the spirit of civic life in the area. Historically, city halls have been the focal point for decision-making and public discourse, and this building is no exception. It has witnessed numerous important events that shaped the social and political landscape of Greußen, serving as a stage for local leaders and citizens alike.
 
-The town's development can be traced back to its strategic location and economic activities, which have transformed over time. Rathaus Greußen stands as a reminder of this evolution, encapsulating the values and aspirations of the community. It is a landmark that represents the resilience and continuity of Greußen’s identity throughout the years.
+The town's development can be traced back to its strategic location and economic activities, which have transformed over time. Rathaus Greußen stands as a reminder of this evolution, encapsulating the values and aspirations of the community. It is a landmark that represents the resilience and continuity of Greußen's identity throughout the years.
 
 ## Architecture and Features
 
-Rathaus Greußen is characterized by its distinctive architectural style, which reflects the historical context of the region. The building’s façade features elements that are typical of various architectural movements, showcasing a blend of styles that have evolved over time. The design elements are not only aesthetically pleasing but also functional, serving the needs of the local government.
+Rathaus Greußen is characterized by its distinctive architectural style, which reflects the historical context of the region. The building's façade features elements that are typical of various architectural movements, showcasing a blend of styles that have evolved over time. The design elements are not only aesthetically pleasing but also functional, serving the needs of the local government.
 
 The structure is designed to accommodate a range of civic functions, with spacious rooms that allow for meetings, public gatherings, and administrative work. Notable features include decorative elements that highlight the craftsmanship of the era in which it was built. These intricate details contribute to the building's overall charm and character, making it an interesting subject for architectural enthusiasts.
 
@@ -60,11 +60,11 @@ While in Greußen, visitors have the opportunity to explore several nearby attra
 
 1. **St. Jacob's Church**: This historic church is a short walk away and offers stunning Gothic architecture and beautiful stained glass windows, reflecting the town's religious heritage.
 
-2. **Greußen Town Museum**: Located nearby, this museum delves into the region’s history and culture, offering insights into local traditions and artifacts that trace the town's development.
+2. **Greußen Town Museum**: Located nearby, this museum delves into the region's history and culture, offering insights into local traditions and artifacts that trace the town's development.
 
 3. **Local Parks and Green Spaces**: The area surrounding Greußen boasts several parks where visitors can relax and enjoy nature, providing a tranquil escape from urban life.
 
-4. **Historical Buildings**: The town is dotted with other historical structures that reflect a variety of architectural styles, each contributing to the rich narrative of Greußen’s past.
+4. **Historical Buildings**: The town is dotted with other historical structures that reflect a variety of architectural styles, each contributing to the rich narrative of Greußen's past.
 
 5. **Cafés and Shops**: After exploring the Rathaus, consider visiting local cafés and shops, where you can enjoy traditional Thüringen cuisine or shop for unique local crafts.
 
@@ -106,4 +106,4 @@ While restrooms may not be directly available within the Rathaus, nearby cafés 
 ### What should I wear?
 Dress comfortably, keeping in mind the weather of the day. Casual attire is usually appropriate for visiting city halls and exploring the town.
 
-In summary, Rathaus Greußen is not just a city hall; it is a vital part of the local community and a reflection of Greußen's historical narrative. A visit here enriches one’s understanding of the town's heritage, making it a worthwhile stop on any journey through Thüringen.
+In summary, Rathaus Greußen is not just a city hall; it is a vital part of the local community and a reflection of Greußen's historical narrative. A visit here enriches one's understanding of the town's heritage, making it a worthwhile stop on any journey through Thüringen.

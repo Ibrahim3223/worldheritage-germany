@@ -77,16 +77,16 @@ When preparing for your visit to Evangelische Stiftung Neuerkerode, consider the
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes a few hours, allowing ample time to engage with the staff and learn about the foundation’s initiatives.
+A visit typically takes a few hours, allowing ample time to engage with the staff and learn about the foundation's initiatives.
 
 ### Is photography allowed?
-While photography may be permitted, it’s advisable to ask for permission, particularly in areas where individuals are receiving support.
+While photography may be permitted, it's advisable to ask for permission, particularly in areas where individuals are receiving support.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and whether they are available during your visit.
 
 ### What's the best time to visit?
-Mid-week visits are often less crowded, providing a more personal experience with the foundation’s staff.
+Mid-week visits are often less crowded, providing a more personal experience with the foundation's staff.
 
 ### Is it wheelchair accessible?
 The foundation is likely designed with accessibility in mind, but checking the official website for specific details is recommended.

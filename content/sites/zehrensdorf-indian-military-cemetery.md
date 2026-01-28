@@ -28,7 +28,7 @@ image_srcset:
 
 The Zehrensdorf Indian Military Cemetery, located in Zossen, Germany, is a poignant reminder of the sacrifices made by Indian soldiers during their service in Europe. This serene cemetery serves as the final resting place for members of the Indian Army, who played a significant role during the First and Second World Wars. With its well-maintained grounds and solemn atmosphere, the cemetery invites visitors to reflect on the valor and dedication of those who served far from their homeland. 
 
-Situated approximately south of Berlin, Zehrensdorf offers a quiet respite from the bustle of urban life, allowing visitors to engage with the site’s historical significance in a tranquil setting. The cemetery’s location also connects it to broader narratives of colonial history and the contributions of Indian troops in global conflicts, making it a site of both remembrance and education. Those who seek to understand the complexities of military history and the international connections forged through warfare will find a visit to this cemetery both meaningful and insightful.
+Situated approximately south of Berlin, Zehrensdorf offers a quiet respite from the bustle of urban life, allowing visitors to engage with the site's historical significance in a tranquil setting. The cemetery's location also connects it to broader narratives of colonial history and the contributions of Indian troops in global conflicts, making it a site of both remembrance and education. Those who seek to understand the complexities of military history and the international connections forged through warfare will find a visit to this cemetery both meaningful and insightful.
 
 ## History and Significance
 
@@ -64,7 +64,7 @@ While visiting the Zehrensdorf Indian Military Cemetery, there are several nearb
 
 1. **Zossen Town Center**: Just a short distance away, Zossen offers a glimpse into local life with its quaint shops, cafes, and historical buildings. Walking through the town can provide a contrast to the solemnity of the cemetery.
 
-2. **Berlin**: Located approximately 40 kilometers away, the capital city of Germany is rich in history and culture. Visitors can explore famous landmarks, museums, and historical sites that tell the story of Germany’s past.
+2. **Berlin**: Located approximately 40 kilometers away, the capital city of Germany is rich in history and culture. Visitors can explore famous landmarks, museums, and historical sites that tell the story of Germany's past.
 
 3. **Müggelsee**: This picturesque lake, situated to the northeast of Zossen, is ideal for outdoor activities such as hiking, cycling, and picnicking. The natural beauty of the area provides a relaxing escape after a visit to the cemetery.
 

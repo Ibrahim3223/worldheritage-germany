@@ -34,7 +34,7 @@ The significance of Brunnerswegbrücke is not just functional; it reflects the e
 
 While detailed historical data specific to Brunnerswegbrücke is not readily available, its existence within the context of Darmstadt's urban development offers insights into the region's progress through the years. Bridges often symbolize the growth of a city, as they are instrumental in connecting communities and facilitating trade and travel. The evolution of such structures can reflect changes in architectural styles, engineering techniques, and the socio-economic factors influencing urban planning.
 
-Darmstadt itself has a storied history that stretches back to the Middle Ages, and the area has undergone various transformations since its founding. As cities evolve, their infrastructure must adapt to meet the needs of their populations. Brunnerswegbrücke likely played a role in these developments, serving as a testament to the ongoing growth and modernization of Darmstadt. The bridge would have witnessed numerous changes in transportation methods and urban life, reflecting the city’s response to the demands of its residents and the landscape in which they live. 
+Darmstadt itself has a storied history that stretches back to the Middle Ages, and the area has undergone various transformations since its founding. As cities evolve, their infrastructure must adapt to meet the needs of their populations. Brunnerswegbrücke likely played a role in these developments, serving as a testament to the ongoing growth and modernization of Darmstadt. The bridge would have witnessed numerous changes in transportation methods and urban life, reflecting the city's response to the demands of its residents and the landscape in which they live. 
 
 The cultural importance of Brunnerswegbrücke can be appreciated not only through its utility but also as a part of the collective memory of the community it serves. As people traverse the bridge, they connect with the layers of history and progress that have shaped Darmstadt.
 
@@ -62,7 +62,7 @@ For specific information regarding visiting hours or any potential fees, it is r
 
 2. **Darmstadt Palace**: This historical palace, surrounded by beautiful gardens, is a key landmark in Darmstadt and a great place to learn about the city's regal past.
 
-3. **Mathildenhöhe**: A UNESCO World Heritage site, this artists’ colony is renowned for its unique architecture and cultural significance, making it a must-visit for art and history enthusiasts.
+3. **Mathildenhöhe**: A UNESCO World Heritage site, this artists' colony is renowned for its unique architecture and cultural significance, making it a must-visit for art and history enthusiasts.
 
 4. **Luisenplatz**: The central square of Darmstadt, filled with shops, cafes, and public monuments, provides a lively atmosphere for visitors looking to experience local culture.
 

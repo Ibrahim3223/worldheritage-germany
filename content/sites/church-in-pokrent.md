@@ -58,7 +58,7 @@ While exploring the area around the Church in Pokrent, consider visiting these n
 
 1. **Local Parks and Green Spaces**: The natural surroundings of Pokrent often feature parks where visitors can enjoy leisurely walks and the beauty of the landscape.
 
-2. **Other Historical Churches**: The region is home to other historic churches that may share architectural styles or historical significance, offering further insight into the area’s religious heritage.
+2. **Other Historical Churches**: The region is home to other historic churches that may share architectural styles or historical significance, offering further insight into the area's religious heritage.
 
 3. **Village Center**: The village itself likely features quaint shops and cafes, perfect for experiencing local culture and cuisine.
 
@@ -68,7 +68,7 @@ While exploring the area around the Church in Pokrent, consider visiting these n
 
 ## Insider Tips
 
-For those planning to take photographs, be mindful of the church’s guidelines regarding photography, especially during services. Early mornings or late afternoons can provide beautiful natural light for exterior shots. To avoid crowds, consider visiting on weekdays or during off-peak hours. Engaging with local residents can provide additional insights into the church's history and significance, so don’t hesitate to strike up a conversation.
+For those planning to take photographs, be mindful of the church's guidelines regarding photography, especially during services. Early mornings or late afternoons can provide beautiful natural light for exterior shots. To avoid crowds, consider visiting on weekdays or during off-peak hours. Engaging with local residents can provide additional insights into the church's history and significance, so don't hesitate to strike up a conversation.
 
 ## Practical Information
 
@@ -82,7 +82,7 @@ Be sure to carry water and perhaps a light snack, particularly if you plan to sp
 A visit to the Church in Pokrent typically requires about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary. It’s advisable to check with the church for any specific guidelines regarding photography, especially during worship services.
+Photography policies may vary. It's advisable to check with the church for any specific guidelines regarding photography, especially during worship services.
 
 ### Are there guided tours?
 Information on guided tours is not specified. Visitors may inquire locally for any available tours or informational sessions.
@@ -91,7 +91,7 @@ Information on guided tours is not specified. Visitors may inquire locally for a
 Weekdays are generally quieter, while weekends might offer a chance to experience local services and community events.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided. It’s best to check in advance regarding wheelchair access.
+Accessibility details are not provided. It's best to check in advance regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information about ticket purchases is not specified. Please check the official website for details on admission and access.

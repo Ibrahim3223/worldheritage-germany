@@ -28,7 +28,7 @@ image_srcset:
 
 St. Anne's Museum, located in the historic Old City of Lübeck, Germany, serves as a compelling venue for art enthusiasts and history aficionados alike. This art museum occupies a significant place in the cultural landscape of Lübeck, where visitors can delve into a collection that reflects the city's rich artistic heritage. The museum not only showcases art but also embodies the essence of Lübeck's storied past, making it a must-visit for those exploring this UNESCO World Heritage site. Guests can anticipate a thoughtful presentation of artworks amid a backdrop that speaks to the artistic spirit of the region.
 
-Situated in a city renowned for its medieval architecture and vibrant history, St. Anne's Museum offers an engaging experience that enhances one’s understanding of Lübeck's contribution to art and culture. As you navigate through the museum's halls, you will encounter an impressive array of artistic works that highlight both local and broader artistic movements. 
+Situated in a city renowned for its medieval architecture and vibrant history, St. Anne's Museum offers an engaging experience that enhances one's understanding of Lübeck's contribution to art and culture. As you navigate through the museum's halls, you will encounter an impressive array of artistic works that highlight both local and broader artistic movements. 
 
 With its central location, St. Anne's Museum is easily accessible, making it an ideal stop for anyone looking to explore the artistic and historical dimensions of Lübeck. This guide will provide essential insights into the museum's history, architecture, visiting logistics, and surrounding attractions to help you make the most of your visit.
 
@@ -38,11 +38,11 @@ While specific dates are not available, St. Anne's Museum is an integral part of
 
 The cultural importance of St. Anne's Museum extends beyond its collection; it also acts as a venue for exhibitions and events that promote artistic dialogue and community engagement. By hosting a variety of programs, the museum ensures that it remains relevant and continues to contribute to the cultural fabric of Lübeck. Visitors can expect to find a diverse range of artworks that may include paintings, sculptures, and historical artifacts, all of which tell stories of the artists and the eras in which they were created.
 
-In addition to the artworks, the museum plays a crucial role in educating the public about art history and preserving the legacy of Lübeck’s artistic community. The commitment to education is evident in the various resources available to visitors, including catalogs, guided tours, and informational materials that enhance the experience. Thus, St. Anne's Museum stands as a cornerstone of cultural preservation in Lübeck, ensuring that the artistic achievements of the past continue to inspire future generations.
+In addition to the artworks, the museum plays a crucial role in educating the public about art history and preserving the legacy of Lübeck's artistic community. The commitment to education is evident in the various resources available to visitors, including catalogs, guided tours, and informational materials that enhance the experience. Thus, St. Anne's Museum stands as a cornerstone of cultural preservation in Lübeck, ensuring that the artistic achievements of the past continue to inspire future generations.
 
 ## Architecture and Features
 
-St. Anne's Museum is housed in a structure that complements the historical ambiance of Lübeck's Old City. The architectural style reflects the region's traditional design elements, characterized by its brickwork and distinct gabled roofs. Visitors will appreciate the museum’s layout, which facilitates an enjoyable flow through the various exhibitions. 
+St. Anne's Museum is housed in a structure that complements the historical ambiance of Lübeck's Old City. The architectural style reflects the region's traditional design elements, characterized by its brickwork and distinct gabled roofs. Visitors will appreciate the museum's layout, which facilitates an enjoyable flow through the various exhibitions. 
 
 Notable features of the museum include its well-designed galleries that provide ample space for the display of its art collection. The lighting and arrangement of artworks are thoughtfully executed to enhance the viewer's experience, allowing each piece to be appreciated in its own right. 
 
@@ -103,7 +103,7 @@ Accessibility features may be present; it is advisable to check with the museum 
 Check the official website for information regarding ticket purchasing options, including potential online sales.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it is best to verify current amenities by checking the museum’s official website.
+Facilities may be available on-site, but it is best to verify current amenities by checking the museum's official website.
 
 ### What should I wear?
 Dress comfortably, taking into account the weather and the time of year, as you will be walking and exploring.

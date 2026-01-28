@@ -22,7 +22,7 @@ images:
 
 Affentor, the southernmost of the medieval city gates of Frankfurt am Main, serves as a historical marker of the city's rich past and architectural prowess. This impressive structure stands as a reminder of Frankfurt's medieval fortifications and its importance as a commercial hub in Europe. Visitors to this iconic city gate can immerse themselves in the vibrant history of Frankfurt, which dates back to its origins as a key trading center in the Holy Roman Empire.
 
-Strategically located, Affentor provides a unique glimpse into the past while being situated in a modern urban environment. The gate is not just a remnant of defensive architecture but also a symbol of the city's evolution over centuries. Whether you're a history enthusiast, an architecture aficionado, or simply curious about the past, Affentor offers a compelling narrative of Frankfurt’s journey through time. 
+Strategically located, Affentor provides a unique glimpse into the past while being situated in a modern urban environment. The gate is not just a remnant of defensive architecture but also a symbol of the city's evolution over centuries. Whether you're a history enthusiast, an architecture aficionado, or simply curious about the past, Affentor offers a compelling narrative of Frankfurt's journey through time. 
 
 Visiting this site allows one to appreciate the craftsmanship of medieval builders and to reflect on the gate's role in the trade routes that shaped European commerce. As you approach Affentor, prepare to be transported to a time when the gate served as a crucial entry point into the bustling life of Frankfurt.
 
@@ -30,9 +30,9 @@ Visiting this site allows one to appreciate the craftsmanship of medieval builde
 
 The history of Affentor is intertwined with the development of Frankfurt as a significant urban center. This city gate is part of a larger network of fortifications that once surrounded Frankfurt, designed to protect the city from invaders and control trade. Its construction reflects the architectural styles and defensive strategies employed during the medieval period.
 
-As one of the last remaining gates from this fortification system, Affentor holds cultural significance not only as a historical monument but also as a symbol of the city’s resilience and adaptability. Over the centuries, Frankfurt evolved from a fortified settlement to a vibrant metropolis, and Affentor stands testament to that transformation.
+As one of the last remaining gates from this fortification system, Affentor holds cultural significance not only as a historical monument but also as a symbol of the city's resilience and adaptability. Over the centuries, Frankfurt evolved from a fortified settlement to a vibrant metropolis, and Affentor stands testament to that transformation.
 
-The gate has witnessed remarkable events in the history of Frankfurt, including the rise and fall of empires, trade fairs, and the city’s development into a major financial hub. Its significance extends beyond mere architecture; it is a physical manifestation of the city’s role in European history. The experience of standing before Affentor allows visitors to connect with the past and understand the strategic importance of city gates in medieval urban planning.
+The gate has witnessed remarkable events in the history of Frankfurt, including the rise and fall of empires, trade fairs, and the city's development into a major financial hub. Its significance extends beyond mere architecture; it is a physical manifestation of the city's role in European history. The experience of standing before Affentor allows visitors to connect with the past and understand the strategic importance of city gates in medieval urban planning.
 
 ## Architecture and Features
 
@@ -58,9 +58,9 @@ While visiting Affentor, consider exploring these nearby attractions that furthe
 
 1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)**: A short distance from Affentor, this stunning Gothic cathedral is renowned for its impressive tower and rich history.
 
-2. **Römer**: This iconic city hall, with its distinctive architecture and historical significance, is a must-see for those interested in Frankfurt’s civic history.
+2. **Römer**: This iconic city hall, with its distinctive architecture and historical significance, is a must-see for those interested in Frankfurt's civic history.
 
-3. **St. Paul’s Church (Paulskirche)**: This church played a pivotal role in German democracy and is a key landmark in Frankfurt's historical landscape.
+3. **St. Paul's Church (Paulskirche)**: This church played a pivotal role in German democracy and is a key landmark in Frankfurt's historical landscape.
 
 4. **Old Town (Altstadt)**: The reconstructed Old Town offers charming streets lined with half-timbered houses, shops, and cafes, perfect for leisurely strolls.
 

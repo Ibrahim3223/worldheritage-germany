@@ -68,7 +68,7 @@ Nuremberg is home to a wealth of attractions that complement a visit to the Muse
 
 4. **Germanisches Nationalmuseum**: The largest museum of cultural history in the German-speaking region, showcasing a rich collection of art and artifacts.
 
-5. **Nuremberg’s Old Town**: A charming area filled with historic buildings, shops, and cafes, perfect for leisurely exploration after a visit to the museum.
+5. **Nuremberg's Old Town**: A charming area filled with historic buildings, shops, and cafes, perfect for leisurely exploration after a visit to the museum.
 
 ## Insider Tips
 

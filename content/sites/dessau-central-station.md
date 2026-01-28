@@ -95,7 +95,7 @@ A visit to Dessau Central Station typically requires about 30 minutes to an hour
 Generally, photography is permitted in the station. However, be respectful of other travelers and any signage indicating restrictions.
 
 ### Are there guided tours?
-While specific guided tours of the station itself may not be available, local tours of nearby attractions often include discussions about the station’s significance.
+While specific guided tours of the station itself may not be available, local tours of nearby attractions often include discussions about the station's significance.
 
 ### What's the best time to visit?
 Visiting during off-peak hours, such as mid-morning or late evening, may enhance your experience by reducing crowd levels.

@@ -15,13 +15,13 @@ wikidata_id: "Q116510839"
 latitude: 51.07432912
 longitude: 10.139791403
 images:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1200px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1200px-Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
 image_srcset:
-  Die%20Grabpyramide%20derer%20„von%20Capellan“%20auf%20dem%20Kirchberg%20in%20Lüderbach%20(1).jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/400px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/800px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1200px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1920px-Die_Grabpyramide_derer_„von_Capellan“_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
+  Die%20Grabpyramide%20derer%20„von%20Capellan"%20auf%20dem%20Kirchberg%20in%20Lüderbach%20(1).jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/400px-Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/800px-Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1200px-Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg/1920px-Die_Grabpyramide_derer_„von_Capellan"_auf_dem_Kirchberg_in_Lüderbach_(1).jpg
 ---
 
 ## Overview
@@ -99,7 +99,7 @@ Accessibility information may vary, so it is advisable to check the official web
 For the latest information on ticket purchasing, including online options, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to prepare accordingly. Check the official website for information on nearby amenities.
+Facilities may be limited, so it's best to prepare accordingly. Check the official website for information on nearby amenities.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor exploration, and consider the weather conditions when choosing your attire.

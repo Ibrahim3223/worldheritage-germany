@@ -22,7 +22,7 @@ images:
 
 In the heart of Xanten, Germany, lies Tricensimae, a museum that encapsulates the essence of a Late Roman fortress, offering visitors a window into the complexities of ancient military architecture and cultural life. Situated at coordinates 51.6667, 6.45, this site serves as a powerful reminder of the Roman Empire's expansive reach and its lasting impact on European heritage. Tricensimae is not just a site of historical interest; it is also a pivotal part of the region's narrative, attracting history enthusiasts, families, and scholars alike.
 
-As you explore the museum, you will encounter carefully curated exhibits that reflect the daily lives, military strategies, and architectural innovations of the Roman era. The site’s significance goes beyond its physical remains; it is a place where stories of resilience and adaptation are preserved. Tricensimae promises an educational and engaging experience, making it a must-visit destination for anyone venturing into this culturally rich region of Germany.
+As you explore the museum, you will encounter carefully curated exhibits that reflect the daily lives, military strategies, and architectural innovations of the Roman era. The site's significance goes beyond its physical remains; it is a place where stories of resilience and adaptation are preserved. Tricensimae promises an educational and engaging experience, making it a must-visit destination for anyone venturing into this culturally rich region of Germany.
 
 ## History and Significance
 
@@ -96,4 +96,4 @@ Yes, facilities such as restrooms and cafes are typically available at the museu
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, keeping in mind the seasonal weather conditions.
 
-Tricensimae is more than just a museum; it’s a portal into the past, offering an enriching experience that educates and inspires.
+Tricensimae is more than just a museum; it's a portal into the past, offering an enriching experience that educates and inspires.

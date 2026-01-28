@@ -28,7 +28,7 @@ image_srcset:
 
 The Statue of Helmuth von Moltke the Elder is a significant landmark situated in Berlin-Tiergarten, Germany. This statue commemorates one of Prussia's most prominent military leaders, whose strategies played a crucial role in shaping modern warfare. The statue serves as a reminder of Germany's military history and the legacy of leadership that has influenced the nation. Positioned in the vibrant heart of Berlin, it attracts both locals and tourists, offering a glimpse into the historical narratives that have molded the city. Visitors can engage with the statue not just as an artistic representation but also as a symbol of national pride and military excellence.
 
-The Tiergarten, a large urban park, provides a serene backdrop for the statue, allowing for quiet contemplation amid the bustling city. Its central location makes it a convenient stop for those exploring Berlin’s rich cultural landscape. The statue stands as a tribute to von Moltke's strategic prowess and offers insight into Germany's military heritage, fitting seamlessly into the broader context of Berlin's historical monuments.
+The Tiergarten, a large urban park, provides a serene backdrop for the statue, allowing for quiet contemplation amid the bustling city. Its central location makes it a convenient stop for those exploring Berlin's rich cultural landscape. The statue stands as a tribute to von Moltke's strategic prowess and offers insight into Germany's military heritage, fitting seamlessly into the broader context of Berlin's historical monuments.
 
 ## History and Significance
 
@@ -36,11 +36,11 @@ Helmuth von Moltke the Elder was a key figure in the Prussian military during th
 
 The statue itself is part of a larger narrative concerning the evolution of military practices in Europe. Von Moltke's approach to warfare emphasized planning, logistics, and the importance of communication, principles that are still relevant in contemporary military strategy. His methodologies transformed how armies operated, making him a significant figure in military history.
 
-The cultural importance of the statue extends beyond its artistic merits; it serves as a focal point for discussions about leadership, military ethics, and the consequences of war. By commemorating such historical figures, the statue invites reflection on the complexities of national identity and the role of military leaders in shaping a country’s destiny. The legacy of Helmuth von Moltke the Elder remains influential in both military studies and discussions surrounding the ethics of warfare.
+The cultural importance of the statue extends beyond its artistic merits; it serves as a focal point for discussions about leadership, military ethics, and the consequences of war. By commemorating such historical figures, the statue invites reflection on the complexities of national identity and the role of military leaders in shaping a country's destiny. The legacy of Helmuth von Moltke the Elder remains influential in both military studies and discussions surrounding the ethics of warfare.
 
 ## Architecture and Features
 
-The Statue of Helmuth von Moltke the Elder is characterized by its grand and imposing presence, designed to reflect the stature of its subject. Crafted with care, the statue captures the essence of von Moltke in a commanding pose, dressed in military regalia that signifies his rank and achievements. The attention to detail in the statue’s features highlights the artist's dedication to portraying von Moltke's character and the gravity of his contributions.
+The Statue of Helmuth von Moltke the Elder is characterized by its grand and imposing presence, designed to reflect the stature of its subject. Crafted with care, the statue captures the essence of von Moltke in a commanding pose, dressed in military regalia that signifies his rank and achievements. The attention to detail in the statue's features highlights the artist's dedication to portraying von Moltke's character and the gravity of his contributions.
 
 The statue is constructed from durable materials, ensuring its longevity as a historical piece. Its placement within the lush surroundings of the Tiergarten complements its design, allowing visitors to appreciate the statue against the backdrop of nature and the urban environment. The surrounding area is landscaped to enhance the experience, providing pathways and seating for visitors who wish to reflect on the statue's significance.
 

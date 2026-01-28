@@ -99,7 +99,7 @@ Check the official website for specific accessibility information regarding the 
 Currently, information regarding online ticket purchases is not available. It is recommended to check the official website for updates.
 
 ### Are there restrooms and cafes?
-Details about restrooms and cafes are not provided. It’s best to check the official website for amenities available on-site.
+Details about restrooms and cafes are not provided. It's best to check the official website for amenities available on-site.
 
 ### What should I wear?
 Dress comfortably and according to the weather, as you may spend time outdoors exploring the windmill and its surroundings. 

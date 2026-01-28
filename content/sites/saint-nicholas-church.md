@@ -69,7 +69,7 @@ While visiting Saint Nicholas Church, consider exploring these nearby attraction
 
 ## Insider Tips
 
-For those planning to capture the essence of Saint Nicholas Church through photography, early morning or late afternoon light can create beautiful conditions for taking pictures. The natural light enhances the church’s architectural details, providing stunning visuals.
+For those planning to capture the essence of Saint Nicholas Church through photography, early morning or late afternoon light can create beautiful conditions for taking pictures. The natural light enhances the church's architectural details, providing stunning visuals.
 
 To avoid crowds, consider visiting during weekdays rather than weekends, when local services and events may attract larger groups. This will allow for a more peaceful experience and the chance to enjoy the church's ambiance without distractions.
 

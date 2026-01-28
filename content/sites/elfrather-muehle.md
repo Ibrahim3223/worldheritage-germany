@@ -38,11 +38,11 @@ The history of Elfrather Mühle is interwoven with the agricultural and industri
 
 While specific historical dates regarding the construction of Elfrather Mühle are not available, its design and structure reflect traditional techniques and styles typical of windmills in the region. The mill represents the technological advancements of its time—particularly the transition from manual to mechanical processes in milling. This evolution not only improved efficiency but also transformed the agricultural landscape in which such mills operated.
 
-The cultural importance of Elfrather Mühle extends beyond its functionality as a mill. It serves as a focal point for local heritage, showcasing the craftsmanship and ingenuity of windmill builders. Today, it stands as a symbol of Krefeld’s agricultural past, drawing attention to the significance of preserving such structures for future generations. The mill is often a site for community events, educational programs, and tours, allowing visitors to engage with the history and heritage of milling in an interactive manner.
+The cultural importance of Elfrather Mühle extends beyond its functionality as a mill. It serves as a focal point for local heritage, showcasing the craftsmanship and ingenuity of windmill builders. Today, it stands as a symbol of Krefeld's agricultural past, drawing attention to the significance of preserving such structures for future generations. The mill is often a site for community events, educational programs, and tours, allowing visitors to engage with the history and heritage of milling in an interactive manner.
 
 ## Architecture and Features
 
-Elfrather Mühle exemplifies the classic design of a tower windmill, characterized by its tall, cylindrical structure that tapers as it rises. This design is not only aesthetically pleasing but also functional, allowing for optimal wind capture to power the milling equipment within. The mill’s exterior features traditional wooden sails that were once used to harness wind energy effectively. These sails are often regarded as iconic elements of windmill architecture, reflecting the engineering ingenuity of the time.
+Elfrather Mühle exemplifies the classic design of a tower windmill, characterized by its tall, cylindrical structure that tapers as it rises. This design is not only aesthetically pleasing but also functional, allowing for optimal wind capture to power the milling equipment within. The mill's exterior features traditional wooden sails that were once used to harness wind energy effectively. These sails are often regarded as iconic elements of windmill architecture, reflecting the engineering ingenuity of the time.
 
 Inside, the mill retains many of its original features, including the grinding stones and machinery that powered the milling process. Although specific interior dimensions and technical details are not available, visitors can expect to see a variety of milling equipment that illustrates the operational aspects of the windmill. 
 
@@ -52,7 +52,7 @@ The surrounding landscape complements the mill's architecture, providing a pictu
 
 Elfrather Mühle is accessible via various transport options, making it a convenient destination for both locals and tourists. Visitors are encouraged to check the official website for current information regarding hours of operation and any applicable admission fees.
 
-Upon arrival, guests can expect a warm welcome and the opportunity to explore the grounds of the mill. Guided tours may be available, offering deeper insights into the mill’s history, architecture, and milling processes. The experience typically allows ample time to appreciate the structure and its surroundings, with most visitors spending at least an hour on-site.
+Upon arrival, guests can expect a warm welcome and the opportunity to explore the grounds of the mill. Guided tours may be available, offering deeper insights into the mill's history, architecture, and milling processes. The experience typically allows ample time to appreciate the structure and its surroundings, with most visitors spending at least an hour on-site.
 
 The best times to visit Elfrather Mühle are during the warmer months when the weather is pleasant and conducive to outdoor exploration. Check the official website for seasonal events or special programs that may enhance your visit. 
 

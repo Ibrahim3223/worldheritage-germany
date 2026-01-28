@@ -50,7 +50,7 @@ Inside, the castle may feature remnants of historical furnishings or artifacts t
 
 To fully appreciate Burg Müneck, visitors should plan their trip in advance. Accessible via various modes of transportation, the castle is situated within reach for those traveling by car or public transport. Parking facilities may be available nearby, though checking the official website for up-to-date information on accessibility and transport options is advisable.
 
-When planning a visit, it’s essential to check the official website for current hours and admission prices. The castle typically requires a few hours to explore adequately, allowing time to appreciate its historical significance and architectural features.
+When planning a visit, it's essential to check the official website for current hours and admission prices. The castle typically requires a few hours to explore adequately, allowing time to appreciate its historical significance and architectural features.
 
 The best times to visit are during the spring and early fall when the weather is pleasant, and the surrounding natural beauty is at its peak. Visitors can expect to find a tranquil environment to absorb the castle's atmosphere and the history it represents.
 

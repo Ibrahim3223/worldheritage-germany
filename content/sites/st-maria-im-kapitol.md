@@ -80,7 +80,7 @@ St. Maria im Kapitol is ideally situated near several other attractions in Colog
 
 ## Insider Tips
 
-For those looking to capture the beauty of St. Maria im Kapitol through photography, early mornings or late afternoons can provide the best light for exterior shots. The play of sunlight on the church's stone façade can create striking images. Inside, be respectful of the contemplative atmosphere; while photography may be allowed, it’s important to be mindful of the setting and other visitors.
+For those looking to capture the beauty of St. Maria im Kapitol through photography, early mornings or late afternoons can provide the best light for exterior shots. The play of sunlight on the church's stone façade can create striking images. Inside, be respectful of the contemplative atmosphere; while photography may be allowed, it's important to be mindful of the setting and other visitors.
 
 To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. This will allow for a more personal experience within the church, giving you the space to explore and reflect without the distractions of a busy environment.
 
@@ -96,7 +96,7 @@ As with any heritage site, being mindful of the site's significance and followin
 A visit to St. Maria im Kapitol typically takes about one hour, allowing time to appreciate the architecture and atmosphere.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to consult on-site signage or check the official website for specific guidelines regarding photography.
+Photography policies can vary, so it's best to consult on-site signage or check the official website for specific guidelines regarding photography.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on any tour options or special events.

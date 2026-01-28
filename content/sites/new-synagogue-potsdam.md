@@ -72,7 +72,7 @@ While visiting the New Synagogue Potsdam, there are several nearby attractions t
 
 To enhance your visit to the New Synagogue Potsdam, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for any restrictions, especially during services or events.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for any restrictions, especially during services or events.
 
 - **Avoiding Crowds**: To experience the synagogue in a quieter setting, aim to visit during weekdays, particularly in the morning or early afternoon.
 

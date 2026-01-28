@@ -60,11 +60,11 @@ While visiting Beginenturm, consider exploring other nearby attractions that fur
 
 1. **Hannover City Hall (Rathaus)**: A stunning architectural masterpiece, this building offers guided tours and panoramic views of the city from its dome.
    
-2. **Maschsee**: A picturesque lake perfect for leisurely strolls, boating, and picnicking, providing a serene escape from the city’s hustle and bustle.
+2. **Maschsee**: A picturesque lake perfect for leisurely strolls, boating, and picnicking, providing a serene escape from the city's hustle and bustle.
 
 3. **Hannover Botanical Garden**: A lush garden featuring diverse plant species, ideal for nature lovers seeking tranquility amidst greenery.
 
-4. **Historic Market Square (Marktkirche)**: A charming square surrounded by historic buildings, it’s a great spot to soak in local culture and ambiance.
+4. **Historic Market Square (Marktkirche)**: A charming square surrounded by historic buildings, it's a great spot to soak in local culture and ambiance.
 
 5. **Kunstverein Hannover**: An art association and exhibition space that showcases contemporary artworks, adding a modern twist to the historical narrative of the city.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Friedenskirche Charlottenburg stands as a significant landmark in Berlin's Charlottenburg-Wilmersdorf district. This Baptist church is not only a place of worship but also a reflection of the diverse religious landscape in Germany's capital. With its striking architecture and serene atmosphere, Friedenskirche offers visitors a chance to explore the spiritual and cultural dimensions of Berlin. Whether you’re seeking a quiet moment of reflection or an opportunity to learn about the city’s religious history, this church serves as an inviting destination.
+Friedenskirche Charlottenburg stands as a significant landmark in Berlin's Charlottenburg-Wilmersdorf district. This Baptist church is not only a place of worship but also a reflection of the diverse religious landscape in Germany's capital. With its striking architecture and serene atmosphere, Friedenskirche offers visitors a chance to explore the spiritual and cultural dimensions of Berlin. Whether you're seeking a quiet moment of reflection or an opportunity to learn about the city's religious history, this church serves as an inviting destination.
 
 Located at coordinates 52.5126, 13.3066, Friedenskirche is easily accessible and surrounded by the vibrant life of Berlin. The church provides an essential connection to the local community and showcases the role of faith in everyday life. Visitors to Friedenskirche Charlottenburg can expect a blend of architectural beauty, historical depth, and a welcoming environment that encourages exploration and contemplation.
 
@@ -52,11 +52,11 @@ While the church may not feature the grandeur often associated with larger cathe
 
 Friedenskirche Charlottenburg is conveniently located in Berlin, making it accessible for both locals and tourists. Visitors can reach the church via public transport, which offers various options for travel within the city. Those using the U-Bahn or bus systems will find stops nearby, facilitating easy access to this important site.
 
-Check the official website for current information regarding visiting hours and any potential admission fees. Typically, church services and community events may dictate specific visiting times, so it’s advisable to plan your visit accordingly. Visitors should expect a peaceful environment, conducive to contemplation and exploration.
+Check the official website for current information regarding visiting hours and any potential admission fees. Typically, church services and community events may dictate specific visiting times, so it's advisable to plan your visit accordingly. Visitors should expect a peaceful environment, conducive to contemplation and exploration.
 
 A visit to Friedenskirche can usually be completed in about an hour, allowing time to appreciate the architecture, reflect, and perhaps participate in a service. The best times to visit are during weekdays when the church is less crowded, providing a more intimate experience. However, attending a service can also offer insight into the community and its practices.
 
-While in the area, consider exploring the surrounding neighborhoods, which feature a mix of historical and modern attractions. This makes Friedenskirche not just a destination in itself, but part of a broader exploration of Berlin’s diverse cultural landscape.
+While in the area, consider exploring the surrounding neighborhoods, which feature a mix of historical and modern attractions. This makes Friedenskirche not just a destination in itself, but part of a broader exploration of Berlin's diverse cultural landscape.
 
 ## Nearby Attractions
 
@@ -68,17 +68,17 @@ While in the area, consider exploring the surrounding neighborhoods, which featu
 
 4. **Botanical Garden**: A tranquil escape from the urban hustle, the garden features a wide variety of plant species and peaceful walking paths.
 
-5. **Kaiser Wilhelm Memorial Church**: Another significant religious site in Berlin, known for its striking ruins and modern architecture, reflecting the city’s complex history.
+5. **Kaiser Wilhelm Memorial Church**: Another significant religious site in Berlin, known for its striking ruins and modern architecture, reflecting the city's complex history.
 
 ## Insider Tips
 
 For photography enthusiasts, Friedenskirche Charlottenburg provides a variety of angles and perspectives to capture its architectural beauty. Early mornings or late afternoons may offer the best natural light for photographs. Be mindful of the church's atmosphere; respectful photography is encouraged, especially during services or community gatherings.
 
-To avoid larger crowds, consider visiting on weekdays or during non-peak hours. This allows for a more personal experience, whether you’re looking to engage with the architecture or seek moments of quiet reflection.
+To avoid larger crowds, consider visiting on weekdays or during non-peak hours. This allows for a more personal experience, whether you're looking to engage with the architecture or seek moments of quiet reflection.
 
 ## Practical Information
 
-When visiting Friedenskirche Charlottenburg, it’s advisable to bring along a few essentials. A camera or smartphone for capturing the church's beauty is a must, as well as a notebook if you wish to jot down thoughts or reflections during your visit. Comfortable shoes are recommended, especially if you plan to explore the surrounding area.
+When visiting Friedenskirche Charlottenburg, it's advisable to bring along a few essentials. A camera or smartphone for capturing the church's beauty is a must, as well as a notebook if you wish to jot down thoughts or reflections during your visit. Comfortable shoes are recommended, especially if you plan to explore the surrounding area.
 
 Seasonal considerations may affect your visit, especially during colder months when weather can be unpredictable. Check the official website for any seasonal events or services that may enhance your experience.
 
@@ -97,7 +97,7 @@ Information on guided tours may be available on the official website. Check for 
 Weekdays, especially during the morning or late afternoon, are often the best times to visit to avoid crowds and enjoy a more serene atmosphere.
 
 ### Is it wheelchair accessible?
-Check the official website for specific accessibility options, as these can vary depending on the church’s facilities.
+Check the official website for specific accessibility options, as these can vary depending on the church's facilities.
 
 ### Can I buy tickets online?
 Typically, Friedenskirche does not charge an admission fee, but check the official website for any special events that may require tickets.

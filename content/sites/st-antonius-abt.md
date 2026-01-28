@@ -32,7 +32,7 @@ Vreden, known for its picturesque landscapes and vibrant local culture, provides
 
 ## History and Significance
 
-St. Antonius Abt has deep roots in the local community of Vreden, embodying the spiritual lineage that has shaped this region over the years. While specific historical details may not be documented, the church’s enduring presence indicates its importance as a religious institution. It has served as a spiritual center, where generations have gathered for worship, celebrations, and community events.
+St. Antonius Abt has deep roots in the local community of Vreden, embodying the spiritual lineage that has shaped this region over the years. While specific historical details may not be documented, the church's enduring presence indicates its importance as a religious institution. It has served as a spiritual center, where generations have gathered for worship, celebrations, and community events.
 
 The church is dedicated to St. Anthony the Great, a figure revered in Christianity for his ascetic life and commitment to faith. His legacy has inspired many, and the church acts as a focal point for honoring this significant saint within the local culture. The role of St. Antonius Abt in the community extends beyond mere worship; it also represents a gathering place for cultural exchanges, social support, and communal activities, thus enhancing its significance in Vreden.
 
@@ -62,7 +62,7 @@ While visiting St. Antonius Abt, take the opportunity to explore other attractio
 
 2. **Museum Vreden**: Delve into the local history and culture at this museum, which showcases exhibits related to the region's heritage.
 
-3. **St. Mary’s Church**: Another notable church in Vreden, known for its impressive architecture and community significance.
+3. **St. Mary's Church**: Another notable church in Vreden, known for its impressive architecture and community significance.
 
 4. **Local Parks**: Enjoy a stroll in one of the nearby parks, where you can relax and appreciate the natural beauty of the area.
 

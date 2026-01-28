@@ -60,7 +60,7 @@ Eichstätt is home to several attractions that complement a visit to the cathedr
 
 1. **Willibaldsburg Castle** - This historic castle offers insights into the region's past and provides panoramic views of the surrounding area.
 2. **Eichstätt University** - Known for its beautiful campus, it is a great place to stroll and appreciate the blend of education and history.
-3. **St. John’s Church** - Another striking religious site that showcases Gothic architecture and is worth a visit.
+3. **St. John's Church** - Another striking religious site that showcases Gothic architecture and is worth a visit.
 4. **Museum of the Diocese of Eichstätt** - This museum provides context to the region's ecclesiastical heritage and art.
 
 These sites encourage deeper exploration into Eichstätt's rich cultural and historical narrative.
@@ -83,7 +83,7 @@ Seasonal considerations are also important; if visiting in winter, be prepared f
 A visit to Eichstätt Cathedral typically takes about one hour, allowing time to explore the interior and appreciate its features.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to check for any specific restrictions within the cathedral.
+Photography is generally permitted, but it's wise to check for any specific restrictions within the cathedral.
 
 ### Are there guided tours?
 While specific tour information is not provided, guided tours may be available. Check the official website for details.
@@ -98,7 +98,7 @@ Accessibility information is not specified; it is advisable to check the officia
 Information regarding online ticket purchases is not specified. Check the official website for current ticketing options.
 
 ### Are there restrooms and cafes?
-Details on restrooms and cafes are not provided. It’s best to check the official website or inquire locally for visitor amenities.
+Details on restrooms and cafes are not provided. It's best to check the official website or inquire locally for visitor amenities.
 
 ### What should I wear?
 Modest attire is generally recommended when visiting religious sites. Comfortable clothing and shoes are advisable for walking.

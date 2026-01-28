@@ -28,7 +28,7 @@ image_srcset:
 
 St. Pankratius in Drensteinfurt is a notable church building that captivates visitors with its architectural charm and cultural significance. Located in the heart of Drensteinfurt, a town in the North Rhine-Westphalia region of Germany, this church stands as a focal point of community life and spiritual practice. With its historical roots and serene atmosphere, it invites both worshippers and tourists to explore its beauty and heritage.
 
-The town of Drensteinfurt itself offers a blend of quaint charm and historical interest, making it a perfect destination for those interested in exploring Germany's ecclesiastical architecture. St. Pankratius is not just a place of worship; it is a landmark that reflects the artistic and cultural narratives of the region. The church’s presence enriches the town's identity, serving as a reminder of the architectural styles and community values that have evolved over centuries.
+The town of Drensteinfurt itself offers a blend of quaint charm and historical interest, making it a perfect destination for those interested in exploring Germany's ecclesiastical architecture. St. Pankratius is not just a place of worship; it is a landmark that reflects the artistic and cultural narratives of the region. The church's presence enriches the town's identity, serving as a reminder of the architectural styles and community values that have evolved over centuries.
 
 Visitors can expect an immersive experience that transcends mere observation, as they engage with the stories and traditions that define this sacred site. Whether you're drawn by faith, history, or architecture, St. Pankratius promises a meaningful encounter in a peaceful setting.
 
@@ -68,9 +68,9 @@ While St. Pankratius is a highlight in Drensteinfurt, the town offers several ne
 
 2. **The Old Town**: Strolling through the charming streets of Drensteinfurt's Old Town allows visitors to appreciate the local architecture and vibrant community life.
 
-3. **Local Museums**: Explore museums that showcase the history and culture of Drensteinfurt, providing further context to the area’s heritage.
+3. **Local Museums**: Explore museums that showcase the history and culture of Drensteinfurt, providing further context to the area's heritage.
 
-4. **St. Joseph’s Church**: Another ecclesiastical site nearby, this church offers additional architectural and historical insights, enriching your understanding of local religious practices.
+4. **St. Joseph's Church**: Another ecclesiastical site nearby, this church offers additional architectural and historical insights, enriching your understanding of local religious practices.
 
 5. **Natural Parks**: The surrounding area may feature parks or nature reserves, perfect for a relaxing walk or a picnic after visiting the church.
 

@@ -68,7 +68,7 @@ When visiting the Franziskanerbibliothek, consider exploring several nearby attr
 
 For those planning to visit the Franziskanerbibliothek, a few insider tips can enhance your experience. If you enjoy photography, be sure to check the library's policy regarding photography, as this can vary. Early morning visits may provide you with the best opportunities to capture the serene atmosphere before the library fills with visitors.
 
-To avoid crowds, consider visiting on weekdays rather than weekends, as this may allow for a more relaxed exploration of the library's collections. If you are interested in attending any events or lectures, check the library's schedule in advance to ensure you don’t miss out on unique opportunities.
+To avoid crowds, consider visiting on weekdays rather than weekends, as this may allow for a more relaxed exploration of the library's collections. If you are interested in attending any events or lectures, check the library's schedule in advance to ensure you don't miss out on unique opportunities.
 
 ## Practical Information
 

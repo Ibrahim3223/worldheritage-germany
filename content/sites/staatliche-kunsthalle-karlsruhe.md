@@ -78,7 +78,7 @@ To make the most of your visit to the Staatliche Kunsthalle Karlsruhe, consider 
 
 ## Practical Information
 
-When visiting the Staatliche Kunsthalle Karlsruhe, it’s advisable to bring a few essentials. Comfortable footwear is recommended, as visitors can spend several hours walking through the galleries. Depending on the season, consider dressing in layers, as the temperature inside the museum may vary.
+When visiting the Staatliche Kunsthalle Karlsruhe, it's advisable to bring a few essentials. Comfortable footwear is recommended, as visitors can spend several hours walking through the galleries. Depending on the season, consider dressing in layers, as the temperature inside the museum may vary.
 
 Seasonal considerations may also influence your visit, with certain exhibitions or events being more prominent during specific times of the year. Be sure to check the official website for any seasonal highlights or special programming that may enhance your experience.
 
@@ -88,7 +88,7 @@ Seasonal considerations may also influence your visit, with certain exhibitions 
 Most visitors find that spending about two to three hours at the museum allows ample time to explore the collections and exhibitions.
 
 ### Is photography allowed?
-Photography policies can vary by exhibition, so it’s best to check the museum's guidelines upon arrival.
+Photography policies can vary by exhibition, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Yes, the museum often offers guided tours. Check the official website for schedules and availability during your visit.

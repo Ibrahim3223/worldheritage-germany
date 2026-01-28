@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Polish-Saxon Post Milestone in Berggießhübel stands as a quiet yet significant monument within the scenic landscape of Bad Gottleuba-Berggießhübel, Germany. This historical marker not only represents a point of communication and transportation from the past but also serves as a reminder of the intricate connections that once existed between regions. Positioned at the coordinates 50.875625, 13.948115, this milestone is a key feature of the area’s cultural heritage. Visitors to the site can expect a unique blend of history and tranquility, making it an essential stop for those interested in Germany's rich past. 
+The Polish-Saxon Post Milestone in Berggießhübel stands as a quiet yet significant monument within the scenic landscape of Bad Gottleuba-Berggießhübel, Germany. This historical marker not only represents a point of communication and transportation from the past but also serves as a reminder of the intricate connections that once existed between regions. Positioned at the coordinates 50.875625, 13.948115, this milestone is a key feature of the area's cultural heritage. Visitors to the site can expect a unique blend of history and tranquility, making it an essential stop for those interested in Germany's rich past. 
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ Expect to spend approximately 30 minutes to an hour at the site. This timeframe 
 
 Berggießhübel and its vicinity offer several attractions that complement a visit to the Polish-Saxon Post Milestone:
 
-1. **Bad Gottleuba-Berggießhübel Town Center**: Explore the charming town center with its local shops and cafes, providing a taste of the region’s cultural life.
+1. **Bad Gottleuba-Berggießhübel Town Center**: Explore the charming town center with its local shops and cafes, providing a taste of the region's cultural life.
    
 2. **Saxon Switzerland National Park**: A short drive away, this national park features stunning rock formations and hiking trails, perfect for outdoor enthusiasts.
 

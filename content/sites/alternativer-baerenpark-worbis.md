@@ -68,7 +68,7 @@ While visiting Alternativer Bärenpark Worbis, there are several nearby attracti
 
 When visiting Alternativer Bärenpark Worbis, photography enthusiasts should be mindful of the animals' comfort and well-being. Capturing photos from a respectful distance ensures the safety of both visitors and wildlife. Additionally, consider visiting during weekdays or early in the morning to avoid peak crowds, allowing for a more peaceful experience.
 
-Bring binoculars if you’d like to observe the bears and other wildlife from a distance, as this can enhance your viewing experience. The park's layout offers plenty of shady spots and benches, making it a great place to relax and take in the surroundings.
+Bring binoculars if you'd like to observe the bears and other wildlife from a distance, as this can enhance your viewing experience. The park's layout offers plenty of shady spots and benches, making it a great place to relax and take in the surroundings.
 
 ## Practical Information
 

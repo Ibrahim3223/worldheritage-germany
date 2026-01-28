@@ -48,7 +48,7 @@ Inside, the museum features a variety of displays that showcase the history and 
 
 When planning a visit to the Inn-Museum, visitors should consider how to reach this notable site. Rosenheim is well-connected by public transport, with options such as trains and buses available for those arriving from surrounding areas. Once in town, the museum is likely within walking distance for many visitors, making it easily accessible.
 
-Check the official website for current information regarding opening hours and ticket prices. Generally, museums of this nature tend to offer a range of ticketing options, including discounts for students or families, so it’s advisable to verify details before your visit.
+Check the official website for current information regarding opening hours and ticket prices. Generally, museums of this nature tend to offer a range of ticketing options, including discounts for students or families, so it's advisable to verify details before your visit.
 
 Allocate a few hours to fully enjoy the exhibits and take in the atmosphere of the museum. The best times to visit might include weekdays, when crowds are often smaller, allowing for a more intimate experience. However, weekends may offer special events or workshops, which can enhance your visit.
 
@@ -74,7 +74,7 @@ To avoid larger crowds, try to visit during the early hours after opening or on 
 
 ## Practical Information
 
-Before heading to the Inn-Museum, it’s wise to bring essentials such as comfortable walking shoes, especially if you plan to explore nearby attractions afterward. Depending on the season, layering clothing can provide comfort as the weather in Bavaria can be variable.
+Before heading to the Inn-Museum, it's wise to bring essentials such as comfortable walking shoes, especially if you plan to explore nearby attractions afterward. Depending on the season, layering clothing can provide comfort as the weather in Bavaria can be variable.
 
 If you plan to visit during peak tourist seasons, consider checking the official website for any seasonal events or changes in hours that might affect your visit.
 
@@ -84,7 +84,7 @@ If you plan to visit during peak tourist seasons, consider checking the official
 A visit to the Inn-Museum typically takes about 1.5 to 2 hours, allowing ample time to explore the exhibits and absorb the cultural insights.
 
 ### Is photography allowed?
-Photography policies can vary by exhibit. It’s best to check with the museum staff upon your arrival for specific guidelines.
+Photography policies can vary by exhibit. It's best to check with the museum staff upon your arrival for specific guidelines.
 
 ### Are there guided tours?
 While specific information regarding guided tours is not mentioned, many museums offer them. Check the official website or inquire at the entrance for details.
@@ -96,7 +96,7 @@ Weekdays are often less crowded, making them ideal for a quieter experience. How
 Check the official website for detailed accessibility information to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for ticket purchasing options, as many museums provide online sales for convenience.
+It's advisable to check the official website for ticket purchasing options, as many museums provide online sales for convenience.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are common in museums, but for specific information, check the official website prior to your visit.

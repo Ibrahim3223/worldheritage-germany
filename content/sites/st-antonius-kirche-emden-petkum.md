@@ -74,7 +74,7 @@ To avoid larger crowds, consider visiting during weekdays or times when services
 
 ## Practical Information
 
-When planning your visit to St.-Antonius-Kirche, it’s advisable to bring along a camera for those memorable snapshots. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. 
+When planning your visit to St.-Antonius-Kirche, it's advisable to bring along a camera for those memorable snapshots. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. 
 
 Seasonal considerations can affect your visit; check local weather conditions and dress accordingly. If you plan to attend a service or event, appropriate attire is usually appreciated, reflecting the reverence of the setting.
 

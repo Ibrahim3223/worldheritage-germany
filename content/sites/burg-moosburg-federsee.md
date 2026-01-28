@@ -94,7 +94,7 @@ The best times to visit are usually during the spring and autumn months when the
 Specific accessibility options may vary; check the official website for detailed information.
 
 ### Can I buy tickets online?
-For ticket purchasing options, it’s best to check the official website for the latest updates.
+For ticket purchasing options, it's best to check the official website for the latest updates.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are commonly available; check the official website for details.

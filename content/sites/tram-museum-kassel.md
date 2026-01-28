@@ -36,7 +36,7 @@ In addition to its educational role, the museum serves as a cultural hub, promot
 
 The Tram Museum Kassel is characterized by its functional yet inviting architecture, designed to accommodate both exhibits and visitors. The layout of the museum allows for a seamless flow of movement, guiding guests from one exhibit to the next. Inside, the museum features a variety of tram models, each representing different eras and technological advancements in tram design. 
 
-Notable features include interactive displays that engage visitors in the history of public transportation and its impact on urban life. The exhibits often include historical photographs, artifacts, and informative panels that enhance the visitor experience. The museum’s design ensures that each tram is accessible, allowing visitors to appreciate the craftsmanship and engineering that went into their creation.
+Notable features include interactive displays that engage visitors in the history of public transportation and its impact on urban life. The exhibits often include historical photographs, artifacts, and informative panels that enhance the visitor experience. The museum's design ensures that each tram is accessible, allowing visitors to appreciate the craftsmanship and engineering that went into their creation.
 
 The Tram Museum also emphasizes community engagement through workshops and educational programs, making it a dynamic space that evolves with the needs and interests of its visitors. 
 
@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during weekday mornings, as weekends may attr
 
 ## Practical Information
 
-When planning your visit to the Tram Museum Kassel, it’s advisable to bring comfortable shoes, as you may be walking or standing for extended periods. Seasonal considerations may also affect your visit; for example, during the winter months, dress warmly as you may encounter chilly weather.
+When planning your visit to the Tram Museum Kassel, it's advisable to bring comfortable shoes, as you may be walking or standing for extended periods. Seasonal considerations may also affect your visit; for example, during the winter months, dress warmly as you may encounter chilly weather.
 
 Additionally, check the official website for any specific guidelines regarding what to bring, such as food and beverages, as well as any seasonal programming that may enhance your visit.
 
@@ -89,7 +89,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekday mornings are often less crowded, making them an ideal time for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The museum aims to be accessible for all visitors, but it’s best to check the official website for specific accessibility features.
+The museum aims to be accessible for all visitors, but it's best to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online ticket sales.

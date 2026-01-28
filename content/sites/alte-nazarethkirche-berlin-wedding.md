@@ -52,7 +52,7 @@ Visiting the Alte Nazarethkirche provides an opportunity to engage with both the
 
 Upon arrival, visitors can expect a welcoming environment where they can explore the church at their own pace. It is recommended to allocate sufficient time to appreciate the architectural features and to soak in the serene atmosphere. Depending on the day and time of your visit, you may also encounter community events or services that provide additional insight into the church's role in local life.
 
-For the best experience, consider visiting during weekdays when the crowds are generally lighter. This will allow for a more personal experience as you explore the church’s interior and engage with any ongoing activities.
+For the best experience, consider visiting during weekdays when the crowds are generally lighter. This will allow for a more personal experience as you explore the church's interior and engage with any ongoing activities.
 
 ## Nearby Attractions
 

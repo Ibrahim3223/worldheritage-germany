@@ -50,7 +50,7 @@ Noteworthy features may include religious iconography, which could adorn altars 
 
 For those planning a visit to St. Nicolaus, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. The church is likely accessible via various modes of transport, making it convenient for visitors traveling from nearby towns or cities.
 
-The experience inside St. Nicolaus is typically one of quiet reflection, allowing time for personal contemplation or appreciation of the church’s architecture. Depending on your interests, a visit might last anywhere from a brief stop to a longer exploration of the building and its surroundings.
+The experience inside St. Nicolaus is typically one of quiet reflection, allowing time for personal contemplation or appreciation of the church's architecture. Depending on your interests, a visit might last anywhere from a brief stop to a longer exploration of the building and its surroundings.
 
 Optimal times for visiting may align with local festivals or religious services, which can enhance the experience and provide an opportunity to witness community engagement. The church is likely to be less crowded during weekdays, making it an ideal time for those seeking solitude.
 
@@ -86,7 +86,7 @@ It is wise to check for any seasonal events or services that might be taking pla
 A visit can typically last from 30 minutes to an hour, depending on your interest in the architecture and history of the church.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s advisable to check for any posted rules upon entering the church.
+Photography policies can vary, so it's advisable to check for any posted rules upon entering the church.
 
 ### Are there guided tours?
 Guided tours may be offered; check the official website for availability and scheduling.

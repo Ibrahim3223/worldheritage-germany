@@ -46,7 +46,7 @@ While specific events surrounding the church's history may not be documented, it
 
 The architecture of the Church in Elmenhorst is characterized by simplicity and functionality, hallmarks of many rural German churches. While detailed architectural features are not specified, such churches typically exhibit elements common to ecclesiastical buildings in the region. Visitors can expect to find a unadorned exterior, often constructed from local materials, which harmonizes with the surrounding landscape.
 
-Inside, the church likely features a central nave, flanked by aisles, with a simple altar as the focal point of worship. Stained glass windows, if present, might depict biblical scenes or local saints, contributing to the church’s spiritual ambiance. The overall design emphasizes a sense of community and accessibility, inviting worshippers to gather and engage in communal and spiritual activities.
+Inside, the church likely features a central nave, flanked by aisles, with a simple altar as the focal point of worship. Stained glass windows, if present, might depict biblical scenes or local saints, contributing to the church's spiritual ambiance. The overall design emphasizes a sense of community and accessibility, inviting worshippers to gather and engage in communal and spiritual activities.
 
 The church's architecture not only serves its liturgical function but also embodies the cultural and historical narratives of the area. It reflects the values and beliefs of the community, emphasizing the importance of faith in everyday life. 
 
@@ -86,7 +86,7 @@ To avoid crowds, aim for a weekday visit. Weekends may see more local attendees,
 
 When planning your visit to the Church in Elmenhorst, consider bringing a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A camera can capture the simplicity and beauty of the church and its environment.
 
-Seasonal considerations may also play a role in your visit. The church’s atmosphere can change with the seasons, offering different experiences throughout the year. Be prepared for varying weather conditions, and dress appropriately.
+Seasonal considerations may also play a role in your visit. The church's atmosphere can change with the seasons, offering different experiences throughout the year. Be prepared for varying weather conditions, and dress appropriately.
 
 ## Frequently Asked Questions
 

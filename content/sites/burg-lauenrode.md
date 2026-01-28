@@ -42,7 +42,7 @@ Though the castle is no longer standing, its location and historical context inv
 
 Burg Lauenrode, now a demolished castle, presents an architectural narrative that is common among its contemporaries in the region. While specific dimensions and architectural details are not available, one can infer from similar castles of the period that it likely featured typical medieval design elements, such as thick stone walls, defensive towers, and a central courtyard.
 
-The castle’s structure would have provided both protection and residence for its occupants, embodying the practical needs of its time. Typically, such castles included living quarters, storage rooms, and spaces for various activities crucial to daily life in a medieval settlement. The remnants left behind may also hint at the style of construction prevalent in Hanover, characterized by local materials and the craftsmanship of the period.
+The castle's structure would have provided both protection and residence for its occupants, embodying the practical needs of its time. Typically, such castles included living quarters, storage rooms, and spaces for various activities crucial to daily life in a medieval settlement. The remnants left behind may also hint at the style of construction prevalent in Hanover, characterized by local materials and the craftsmanship of the period.
 
 Visiting the site, one might find remnants of the castle walls or other structures that highlight its former presence. Exploring these features can provide insights into the architectural practices of the time and the lifestyle of those who once inhabited the castle.
 

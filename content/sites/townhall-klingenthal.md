@@ -34,11 +34,11 @@ Whether you are a history enthusiast, an architecture lover, or simply curious a
 
 ## History and Significance
 
-The town hall of Klingenthal is more than just a building; it is a reflection of the town’s growth and community spirit. Although specific dates and events surrounding its establishment are not detailed, the building has played a significant role in the administrative and social fabric of the town. As the center of local governance, it has hosted countless meetings, events, and gatherings that have shaped the community.
+The town hall of Klingenthal is more than just a building; it is a reflection of the town's growth and community spirit. Although specific dates and events surrounding its establishment are not detailed, the building has played a significant role in the administrative and social fabric of the town. As the center of local governance, it has hosted countless meetings, events, and gatherings that have shaped the community.
 
-Klingenthal has a history marked by craftsmanship, particularly in the production of musical instruments and other goods. This industrious spirit is echoed in the functions of the town hall, which continues to serve as a meeting point for discussions about the town’s development, cultural events, and local traditions. The building serves as a venue for civic activities, fostering a sense of community among residents.
+Klingenthal has a history marked by craftsmanship, particularly in the production of musical instruments and other goods. This industrious spirit is echoed in the functions of the town hall, which continues to serve as a meeting point for discussions about the town's development, cultural events, and local traditions. The building serves as a venue for civic activities, fostering a sense of community among residents.
 
-The significance of the town hall extends beyond its administrative functions; it stands as a historical marker of Klingenthal’s journey through various socio-economic changes. Each brick and beam encapsulates stories of the past, making the town hall an essential stop for those wishing to understand the essence of Klingenthal.
+The significance of the town hall extends beyond its administrative functions; it stands as a historical marker of Klingenthal's journey through various socio-economic changes. Each brick and beam encapsulates stories of the past, making the town hall an essential stop for those wishing to understand the essence of Klingenthal.
 
 ## Architecture and Features
 

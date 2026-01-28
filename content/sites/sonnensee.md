@@ -62,7 +62,7 @@ The best times to visit Sonnensee are during the spring and summer months when t
 
 3. **Historical Museum of the Palatinate**: Located in Speyer, this museum features exhibits that highlight the region's history and cultural heritage. It provides insights into the past and is a great complement to a visit to Sonnensee.
 
-4. **Old Gate (Alte Münze)**: This historic landmark in Speyer is a reminder of the city’s medieval past. It offers a glimpse into the architectural styles of the time and is situated near the main attractions of the city.
+4. **Old Gate (Alte Münze)**: This historic landmark in Speyer is a reminder of the city's medieval past. It offers a glimpse into the architectural styles of the time and is situated near the main attractions of the city.
 
 5. **Rhine River Promenade**: A short distance from Sonnensee, the Rhine River Promenade offers scenic walking paths along the river, perfect for leisurely strolls and enjoying the picturesque views of the water.
 

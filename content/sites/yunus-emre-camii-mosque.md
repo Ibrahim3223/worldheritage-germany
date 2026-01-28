@@ -34,7 +34,7 @@ Esslingen am Neckar, known for its picturesque medieval architecture and vibrant
 
 Yunus Emre Camii has become a vital institution for the Turkish community in Esslingen am Neckar. It stands as a symbol of cultural identity and continuity for many Turkish immigrants who sought refuge and a new life in Germany. The mosque's establishment represents an important chapter in the integration of Islamic culture within Germany, showcasing how immigrant communities can maintain their heritage while also contributing to the social fabric of their new home.
 
-The mosque is named after Yunus Emre, a notable figure in Turkish literature and Sufism. Emre's poetry emphasizes love, tolerance, and the importance of the human experience, values that resonate deeply within the community that congregates at the mosque. This connection to Emre’s legacy enriches the mosque's significance, as it serves not only as a religious site but also as a center for cultural activities, education, and community engagement.
+The mosque is named after Yunus Emre, a notable figure in Turkish literature and Sufism. Emre's poetry emphasizes love, tolerance, and the importance of the human experience, values that resonate deeply within the community that congregates at the mosque. This connection to Emre's legacy enriches the mosque's significance, as it serves not only as a religious site but also as a center for cultural activities, education, and community engagement.
 
 Throughout its history, Yunus Emre Camii has played a role in fostering interfaith dialogue and understanding. By hosting various community events, educational programs, and cultural celebrations, the mosque has become a space where individuals can come together to share experiences and learn from one another. This commitment to community outreach and education highlights the mosque's role in promoting harmony and coexistence in a diverse society.
 
@@ -72,7 +72,7 @@ Esslingen am Neckar is home to a variety of attractions that complement a visit 
 
 When visiting Yunus Emre Camii, consider the following tips to enhance your experience:
 
-- **Photography**: Always check the mosque’s photography policy, as some areas may be restricted. If allowed, be respectful and avoid disrupting ongoing prayers or services.
+- **Photography**: Always check the mosque's photography policy, as some areas may be restricted. If allowed, be respectful and avoid disrupting ongoing prayers or services.
 
 - **Crowd Avoidance**: To experience a quieter visit, consider going during weekdays or outside of prayer times, as weekends and religious holidays may attract larger crowds.
 
@@ -97,7 +97,7 @@ A visit to Yunus Emre Camii can last anywhere from 30 minutes to two hours, depe
 Photography policies may vary; check with the mosque staff regarding any restrictions on taking pictures, especially during prayer times.
 
 ### Are there guided tours?
-Information on guided tours may be available via the official website or through community outreach programs. It’s advisable to inquire ahead of your visit.
+Information on guided tours may be available via the official website or through community outreach programs. It's advisable to inquire ahead of your visit.
 
 ### What's the best time to visit?
 Weekdays are often less crowded than weekends, making them a great time for a more personal experience.

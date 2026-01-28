@@ -28,7 +28,7 @@ image_srcset:
 
 Winsen Museum Farm, located in Winsen an der Aller, Germany, offers visitors an engaging glimpse into the region's rural heritage. This museum captures the essence of traditional farming life and showcases the agricultural practices that have shaped the landscape and culture of this area. As you explore the museum, you'll encounter exhibits that reflect the local history and traditions, making it an enriching destination for those interested in understanding the agricultural roots of the region.
 
-The museum’s significance extends beyond its exhibits; it serves as a cultural hub for the community, preserving not only the physical artifacts of rural life but also the stories and experiences that accompany them. The setting provides a serene backdrop, allowing visitors to appreciate the relationship between people and the land. With its rich offerings, Winsen Museum Farm is an essential stop for anyone looking to delve into the historical context of farming in Germany.
+The museum's significance extends beyond its exhibits; it serves as a cultural hub for the community, preserving not only the physical artifacts of rural life but also the stories and experiences that accompany them. The setting provides a serene backdrop, allowing visitors to appreciate the relationship between people and the land. With its rich offerings, Winsen Museum Farm is an essential stop for anyone looking to delve into the historical context of farming in Germany.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Winsen Museum Farm has been designed to reflect the agricultural heritage of the
 
 Farming has been integral to the identity and economy of this area for centuries. The museum captures this significance by showcasing artifacts that range from vintage farming equipment to traditional clothing, thereby providing insights into the daily lives of farmers and their families. Through these exhibits, visitors can gain a deeper understanding of how agriculture has evolved over time and its ongoing impact on the community.
 
-The commitment to preserving this heritage is evident in the museum’s programming, which often includes workshops, demonstrations, and events that engage the public. These initiatives not only highlight traditional farming techniques but also foster a sense of community, connecting present-day residents with their agricultural roots. Winsen Museum Farm plays a crucial role in educating visitors about the importance of sustainable practices and the relationship between people and nature.
+The commitment to preserving this heritage is evident in the museum's programming, which often includes workshops, demonstrations, and events that engage the public. These initiatives not only highlight traditional farming techniques but also foster a sense of community, connecting present-day residents with their agricultural roots. Winsen Museum Farm plays a crucial role in educating visitors about the importance of sustainable practices and the relationship between people and nature.
 
 ## Architecture and Features
 

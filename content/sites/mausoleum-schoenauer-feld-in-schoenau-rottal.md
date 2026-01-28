@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Mausoleum Schönauer Feld in Schönau (Rottal) is a remarkable cultural heritage monument that offers a unique glimpse into Bavaria's historical landscape. Located in the serene region of Schönau, this mausoleum serves not only as a final resting place but also as a symbol of the area's architectural and cultural identity. The mausoleum’s significance lies in its representation of the local history and its connection to the broader narrative of Bavaria's heritage. Visitors are drawn to this site for both its solemnity and its artistry, making it a noteworthy stop for those exploring the region. 
+The Mausoleum Schönauer Feld in Schönau (Rottal) is a remarkable cultural heritage monument that offers a unique glimpse into Bavaria's historical landscape. Located in the serene region of Schönau, this mausoleum serves not only as a final resting place but also as a symbol of the area's architectural and cultural identity. The mausoleum's significance lies in its representation of the local history and its connection to the broader narrative of Bavaria's heritage. Visitors are drawn to this site for both its solemnity and its artistry, making it a noteworthy stop for those exploring the region. 
 
 As you approach the mausoleum, you can anticipate an experience that combines reverence with an appreciation for craftsmanship. The site invites exploration and reflection, ensuring that every visitor leaves with a deeper understanding of the cultural roots embedded within this monument.
 

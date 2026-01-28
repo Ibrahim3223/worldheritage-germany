@@ -28,7 +28,7 @@ image_srcset:
 
 Jakobikirche, a prominent church building located in the heart of Dresden, Germany, is a significant landmark that draws visitors for its architectural elegance and historical relevance. Known for its serene atmosphere, this church serves not only as a place of worship but also as a cultural hub that reflects the rich heritage of the region. With coordinates placing it centrally in the city, Jakobikirche stands as a testament to the enduring spirit of the community, making it a must-visit for travelers seeking to immerse themselves in the local culture.
 
-Dresden itself is a city renowned for its artistic treasures and stunning architecture, often referred to as the "Florence on the Elbe." The presence of Jakobikirche contributes to this reputation, offering visitors a glimpse into the city’s religious and architectural history. Whether you are a dedicated history buff, an architecture enthusiast, or simply looking to explore the city's spiritual sites, Jakobikirche promises an enriching experience that complements the broader narrative of Dresden.
+Dresden itself is a city renowned for its artistic treasures and stunning architecture, often referred to as the "Florence on the Elbe." The presence of Jakobikirche contributes to this reputation, offering visitors a glimpse into the city's religious and architectural history. Whether you are a dedicated history buff, an architecture enthusiast, or simply looking to explore the city's spiritual sites, Jakobikirche promises an enriching experience that complements the broader narrative of Dresden.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Jakobikirche is deeply intertwined with the development of Dresde
 
 Jakobikirche's importance is underscored by its contribution to the understanding of Dresden's evolution. The church has witnessed numerous historical events, serving as a backdrop to the lives of countless individuals and families. Its location has made it a focal point for gatherings and celebrations, further solidifying its role in the community. The church's enduring presence has fostered a sense of continuity and tradition in a city that has experienced substantial change over the years, particularly during and after significant conflicts.
 
-Moreover, Jakobikirche’s architecture reflects the artistic movements that have shaped the region. As you explore its interior and exterior, you may notice elements that echo the styles prevalent during different periods, showcasing the adaptability and resilience of the church as a spiritual and cultural institution. This adaptability has allowed Jakobikirche to maintain its relevance in a rapidly changing world, making it a significant site for both historical inquiry and contemporary reflection.
+Moreover, Jakobikirche's architecture reflects the artistic movements that have shaped the region. As you explore its interior and exterior, you may notice elements that echo the styles prevalent during different periods, showcasing the adaptability and resilience of the church as a spiritual and cultural institution. This adaptability has allowed Jakobikirche to maintain its relevance in a rapidly changing world, making it a significant site for both historical inquiry and contemporary reflection.
 
 ## Architecture and Features
 

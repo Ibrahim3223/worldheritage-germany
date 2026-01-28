@@ -92,7 +92,7 @@ The best times to visit are during spring and early fall when the weather is mos
 Check the official website for details regarding accessibility options, as some areas may have limitations.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s advisable to check the official website for information on online ticket sales.
+Ticket purchasing options may vary, so it's advisable to check the official website for information on online ticket sales.
 
 ### Are there restrooms and cafes?
 Facilities may be available on-site, but it's wise to check the official website for specific amenities.

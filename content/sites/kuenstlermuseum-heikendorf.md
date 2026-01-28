@@ -32,13 +32,13 @@ The Künstlermuseum offers a unique glimpse into the artistic movements that hav
 
 ## History and Significance
 
-While specific historical details regarding the establishment of Künstlermuseum Heikendorf may not be readily available, the museum plays an essential role in the local cultural scene. It serves as a testament to the importance of art in community life and reflects the broader artistic movements that have shaped the region. The museum’s programming often highlights local artists, fostering a sense of pride and connection among residents while also attracting visitors interested in the artistic heritage of the area.
+While specific historical details regarding the establishment of Künstlermuseum Heikendorf may not be readily available, the museum plays an essential role in the local cultural scene. It serves as a testament to the importance of art in community life and reflects the broader artistic movements that have shaped the region. The museum's programming often highlights local artists, fostering a sense of pride and connection among residents while also attracting visitors interested in the artistic heritage of the area.
 
 The cultural significance of the museum extends beyond its collections; it is a space for dialogue and interaction among artists, scholars, and the community. Events, workshops, and exhibitions are regularly organized, encouraging creative expression and engagement with the arts. This commitment to fostering a vibrant art community enhances the cultural landscape of Heikendorf, making the museum a key player in the promotion of local talent and artistic endeavors.
 
 ## Architecture and Features
 
-The architectural style of Künstlermuseum Heikendorf reflects the aesthetic sensibilities of its surroundings, harmonizing with the coastal environment and local architecture. Its design encourages a welcoming atmosphere, inviting visitors to explore its galleries and engage with the artworks on display. The museum’s layout is crafted to facilitate a natural flow from one exhibition space to another, allowing guests to appreciate the diverse range of artistic expressions showcased within.
+The architectural style of Künstlermuseum Heikendorf reflects the aesthetic sensibilities of its surroundings, harmonizing with the coastal environment and local architecture. Its design encourages a welcoming atmosphere, inviting visitors to explore its galleries and engage with the artworks on display. The museum's layout is crafted to facilitate a natural flow from one exhibition space to another, allowing guests to appreciate the diverse range of artistic expressions showcased within.
 
 Inside, the museum features an array of gallery spaces that display both permanent and temporary exhibitions. The thoughtful arrangement of artworks ensures that each piece is given the attention it deserves, creating an engaging experience for visitors. The museum's interiors are designed to foster a contemplative ambiance, encouraging guests to linger and immerse themselves in the art.
 
@@ -68,7 +68,7 @@ To make the most of your visit to Künstlermuseum Heikendorf, consider bringing 
 
 ## Practical Information
 
-When planning your visit to Künstlermuseum Heikendorf, it’s advisable to bring along a light jacket or sweater, as museum environments can vary in temperature. Comfortable footwear is recommended, especially if you plan on exploring nearby attractions after your museum visit. Seasonal considerations may also influence your experience; spring and summer often see more visitors, while autumn and winter can provide a quieter atmosphere. Always check the official website for any seasonal events or special exhibitions that may enhance your visit.
+When planning your visit to Künstlermuseum Heikendorf, it's advisable to bring along a light jacket or sweater, as museum environments can vary in temperature. Comfortable footwear is recommended, especially if you plan on exploring nearby attractions after your museum visit. Seasonal considerations may also influence your experience; spring and summer often see more visitors, while autumn and winter can provide a quieter atmosphere. Always check the official website for any seasonal events or special exhibitions that may enhance your visit.
 
 ## Frequently Asked Questions
 

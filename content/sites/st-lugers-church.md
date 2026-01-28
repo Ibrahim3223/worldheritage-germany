@@ -42,7 +42,7 @@ The significance of St Luger's Church extends beyond its physical presence; it r
 
 St Luger's Church is characterized by its distinctive architectural elements that reflect the ecclesiastical design principles of its time. Though specific details on dimensions and materials are not included, typical features of church buildings in Germany include soaring ceilings, intricate stained glass windows, and detailed stonework. 
 
-The church’s exterior likely showcases traditional German architectural characteristics, with a prominent façade that may include towers or spires, and perhaps a well-defined entrance adorned with sculptures or carvings that depict religious themes. Visitors may appreciate the craftsmanship evident in its construction, which serves to enhance the spiritual ambiance of the space.
+The church's exterior likely showcases traditional German architectural characteristics, with a prominent façade that may include towers or spires, and perhaps a well-defined entrance adorned with sculptures or carvings that depict religious themes. Visitors may appreciate the craftsmanship evident in its construction, which serves to enhance the spiritual ambiance of the space.
 
 Inside, St Luger's Church is expected to feature elements such as an altar, pulpit, and possibly a nave that invites worshippers to gather in reflection. The interior design may incorporate artistic features such as murals or frescoes that illustrate biblical stories or local saints, further enriching the visitor's experience.
 
@@ -85,7 +85,7 @@ Be sure to bring a camera, not just for the church itself but also for the pictu
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of about an hour is typically sufficient to appreciate the church’s architecture and atmosphere.
+A visit of about an hour is typically sufficient to appreciate the church's architecture and atmosphere.
 
 ### Is photography allowed?
 Photography is generally permitted, but be respectful of any ongoing services or events.

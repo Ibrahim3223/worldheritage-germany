@@ -64,7 +64,7 @@ While Franz-von-Sales-Kirche is a significant destination in its own right, the 
 
 1. **Wersten Park**: A local green space perfect for leisurely walks, picnics, and enjoying the outdoors.
 2. **Düsseldorf City Center**: A short distance away, this urban hub features shopping, dining, and cultural attractions.
-3. **St. Mary’s Church**: Another church in the vicinity, known for its architecture and community activities.
+3. **St. Mary's Church**: Another church in the vicinity, known for its architecture and community activities.
 4. **Local Cafés and Shops**: The neighborhood is home to various small businesses where visitors can experience local cuisine and culture.
 
 These attractions complement a visit to Franz-von-Sales-Kirche, providing opportunities for exploration and community engagement.
@@ -79,7 +79,7 @@ To avoid crowds, plan your visit during weekday mornings or early afternoons, wh
 
 As you prepare for your visit to Franz-von-Sales-Kirche, consider bringing along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A light jacket or umbrella might also be useful, depending on seasonal weather conditions.
 
-It’s advisable to check the forecast before your visit, as the weather can influence your experience. If you plan to join a service or event, familiarize yourself with the church's customs to ensure a respectful participation.
+It's advisable to check the forecast before your visit, as the weather can influence your experience. If you plan to join a service or event, familiarize yourself with the church's customs to ensure a respectful participation.
 
 ## Frequently Asked Questions
 

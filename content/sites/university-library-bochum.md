@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The University Library Bochum, located in the vibrant city of Bochum, Germany, serves as a pivotal resource for students, researchers, and the general public alike. This library is more than a mere repository of books; it is a dynamic hub of knowledge and a gathering place for those seeking information, inspiration, and intellectual engagement. With its modern facilities and extensive collections, the University Library Bochum stands as an essential component of the academic landscape and a reflection of the city’s commitment to education and culture.
+The University Library Bochum, located in the vibrant city of Bochum, Germany, serves as a pivotal resource for students, researchers, and the general public alike. This library is more than a mere repository of books; it is a dynamic hub of knowledge and a gathering place for those seeking information, inspiration, and intellectual engagement. With its modern facilities and extensive collections, the University Library Bochum stands as an essential component of the academic landscape and a reflection of the city's commitment to education and culture.
 
 Situated in the heart of Bochum, the library is easily accessible, making it an ideal stop for anyone exploring the region. Its significance extends beyond its physical collections, as it fosters a spirit of inquiry and learning through various programs and services. Visitors can expect a welcoming environment that encourages both individual study and collaborative projects. The library not only caters to the academic community but also invites the public to delve into its resources, making it an integral part of the cultural fabric of Bochum.
 
@@ -52,7 +52,7 @@ Visiting the University Library Bochum is a straightforward experience, with its
 
 Check the official website for current information regarding hours and any potential fees for entry. The library is typically open to the public, which allows for a wide range of visitors, from students to researchers and casual readers. It is advisable to set aside a few hours to fully enjoy what the library has to offer, whether through browsing collections, participating in events, or simply finding a quiet spot to read.
 
-The best times to visit are often during weekdays when the library is less crowded, allowing for a more focused experience. However, special events may draw larger crowds, so checking the library’s schedule in advance can be beneficial for those wishing to avoid peak times.
+The best times to visit are often during weekdays when the library is less crowded, allowing for a more focused experience. However, special events may draw larger crowds, so checking the library's schedule in advance can be beneficial for those wishing to avoid peak times.
 
 ## Nearby Attractions
 
@@ -105,7 +105,7 @@ The library is designed to be accessible; however, for specific accessibility fe
 Check the official website for current information regarding entry fees and online ticket purchasing.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available within the library. For cafes, it's advisable to check the library’s amenities or nearby options.
+Facilities such as restrooms are typically available within the library. For cafes, it's advisable to check the library's amenities or nearby options.
 
 ### What should I wear?
 Casual attire is generally acceptable. Comfort is key, especially if you plan to spend several hours studying or browsing.

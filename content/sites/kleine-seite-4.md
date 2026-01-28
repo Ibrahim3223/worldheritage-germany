@@ -46,7 +46,7 @@ Moreover, the integration of this building within the townscape of Hainewalde ad
 
 ## Visiting Information
 
-When planning a visit to Kleine Seite 4, accessibility is key. The town hall is conveniently located in Hainewalde, making it reachable by various modes of transportation. Whether you choose to drive or use public transit, the town's infrastructure is designed to accommodate visitors. For those traveling from afar, it’s advisable to check local transportation schedules for the most efficient routes.
+When planning a visit to Kleine Seite 4, accessibility is key. The town hall is conveniently located in Hainewalde, making it reachable by various modes of transportation. Whether you choose to drive or use public transit, the town's infrastructure is designed to accommodate visitors. For those traveling from afar, it's advisable to check local transportation schedules for the most efficient routes.
 
 Before heading out, it's essential to verify the current visiting hours and any possible entrance fees; this information can typically be found on the official website. Engaging with the local community and the town hall's activities can provide a richer experience, so consider timing your visit to coincide with community events or local meetings.
 
@@ -90,7 +90,7 @@ When visiting Kleine Seite 4, it's helpful to be prepared:
 A visit to Kleine Seite 4 can typically be completed in about 30 minutes to an hour, depending on your interest in local governance and community activities.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions, especially during official events.
+Photography is generally permitted, but it's advisable to check for any specific restrictions, especially during official events.
 
 ### Are there guided tours?
 Guided tours may be available; please check the official website for current offerings and details.
@@ -99,7 +99,7 @@ Guided tours may be available; please check the official website for current off
 Weekdays are often less crowded than weekends, making them ideal for a more relaxed visit.
 
 ### Is it wheelchair accessible?
-Accessibility features are generally available, but it’s best to confirm specifics on the official website.
+Accessibility features are generally available, but it's best to confirm specifics on the official website.
 
 ### Can I buy tickets online?
 Ticketing options may vary; check the official website for current information about purchasing tickets in advance.

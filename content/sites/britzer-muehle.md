@@ -28,7 +28,7 @@ image_srcset:
 
 Britzer Mühle is a historically significant windmill located in the vibrant city of Berlin, Germany. As a fully operational gallery Dutch windmill of the rare twelve-sided type, it serves not only as a functional structure but also as a living piece of cultural heritage. The windmill stands out in the urban landscape, drawing visitors with its unique architecture and the promise of insight into traditional milling techniques. Its operational status allows guests to witness the fascinating process of grain milling, making it an engaging destination for history enthusiasts, families, and anyone interested in the art of craftsmanship.
 
-Situated in the district of Britz, the windmill is part of a broader narrative that connects past agricultural practices to modern urban life. This site encapsulates the spirit of Berlin’s commitment to preserving its heritage while allowing visitors to explore the ingenuity of wind-powered technology. The experience of visiting Britzer Mühle is both educational and immersive, allowing for an appreciation of the craftsmanship that defined rural life in Germany.
+Situated in the district of Britz, the windmill is part of a broader narrative that connects past agricultural practices to modern urban life. This site encapsulates the spirit of Berlin's commitment to preserving its heritage while allowing visitors to explore the ingenuity of wind-powered technology. The experience of visiting Britzer Mühle is both educational and immersive, allowing for an appreciation of the craftsmanship that defined rural life in Germany.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Britzer Mühle is characterized by its distinct architectural style as a gallery
 
 The windmill is equipped with two milling stones, allowing it to grind grain effectively. Visitors can observe the operational mechanisms that drive the mill, including the sails that catch the wind and the gears that translate this energy into motion. The gallery, which wraps around the mill, provides an elevated vantage point for visitors to appreciate the intricacies of the windmill's design and operation.
 
-In addition to its functional aspects, the windmill's exterior is visually striking, with traditional materials that reflect the architectural styles of the region. The preservation of such features is vital for maintaining the authenticity of the structure, and ongoing efforts ensure that Britzer Mühle remains a vibrant part of Berlin’s cultural landscape.
+In addition to its functional aspects, the windmill's exterior is visually striking, with traditional materials that reflect the architectural styles of the region. The preservation of such features is vital for maintaining the authenticity of the structure, and ongoing efforts ensure that Britzer Mühle remains a vibrant part of Berlin's cultural landscape.
 
 ## Visiting Information
 
@@ -58,9 +58,9 @@ While the windmill is open to the public throughout the year, spring and summer 
 
 1. **Britzer Garten**: A sprawling park close to Britzer Mühle, ideal for leisurely strolls, picnics, and enjoying nature.
   
-2. **Dahlwitz-Hoppegarten**: A nearby district that offers a glimpse into Berlin’s suburban charm, featuring quaint shops and local eateries.
+2. **Dahlwitz-Hoppegarten**: A nearby district that offers a glimpse into Berlin's suburban charm, featuring quaint shops and local eateries.
 
-3. **Museum Neukölln**: Located a short distance away, this museum showcases the cultural history of the Neukölln district, providing context to the region’s development.
+3. **Museum Neukölln**: Located a short distance away, this museum showcases the cultural history of the Neukölln district, providing context to the region's development.
 
 4. **Schloss Britz**: A historical manor house that adds another layer of cultural exploration, featuring beautiful gardens and exhibitions.
 
@@ -76,7 +76,7 @@ Additionally, if you're interested in the milling process, inquire about any dem
 
 When preparing for your visit to Britzer Mühle, consider bringing along a camera, comfortable walking shoes, and a water bottle to stay hydrated during your exploration. Seasonal considerations are important; in warmer months, sunscreen and hats are advisable, while in cooler months, dressing in layers can help you stay comfortable.
 
-While there are no cafes on-site, nearby parks and attractions often feature dining options, allowing you to enjoy a meal or snack after your visit. It’s also wise to check for any specific events or seasonal activities that might require special preparations.
+While there are no cafes on-site, nearby parks and attractions often feature dining options, allowing you to enjoy a meal or snack after your visit. It's also wise to check for any specific events or seasonal activities that might require special preparations.
 
 ## Frequently Asked Questions
 

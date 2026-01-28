@@ -22,7 +22,7 @@ images:
 
 St. Jakobus Maior, a significant church building located in the tranquil village of Bubsheim, is an architectural and cultural landmark in the Freiburg Government Region of Baden-Württemberg, Germany. This church, dedicated to St. James the Greater, serves not only as a place of worship but also as a focal point for the local community and visitors alike. With its historical roots and striking architectural features, St. Jakobus Maior invites exploration and contemplation.
 
-Bubsheim, characterized by its serene landscape and vibrant community, lies in the southern part of Germany, where tradition and modernity coexist harmoniously. The church’s significance extends beyond its religious function; it symbolizes the enduring spirit of the region and reflects the values and traditions of its inhabitants. Visitors can expect to immerse themselves in the serene atmosphere of the site while contemplating its place in the broader context of German heritage.
+Bubsheim, characterized by its serene landscape and vibrant community, lies in the southern part of Germany, where tradition and modernity coexist harmoniously. The church's significance extends beyond its religious function; it symbolizes the enduring spirit of the region and reflects the values and traditions of its inhabitants. Visitors can expect to immerse themselves in the serene atmosphere of the site while contemplating its place in the broader context of German heritage.
 
 As you approach St. Jakobus Maior, the church stands as a testament to the cultural and architectural history of the area, inviting you to delve into its stories and the community that surrounds it.
 
@@ -79,7 +79,7 @@ Seasonal considerations may also influence your visit. Spring and summer often o
 A visit typically takes about one to two hours, allowing time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check local guidelines when you arrive.
+Photography policies may vary, so it's advisable to check local guidelines when you arrive.
 
 ### Are there guided tours?
 Information on guided tours can be found on the official website or by inquiring upon arrival.

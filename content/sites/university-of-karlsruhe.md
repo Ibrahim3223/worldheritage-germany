@@ -28,13 +28,13 @@ The University of Karlsruhe was established in the 1960s, during a period marked
 
 In 2009, the university underwent a significant transformation and was integrated into the Karlsruhe Institute of Technology (KIT). This merger was designed to enhance research capabilities and foster interdisciplinary collaboration, positioning KIT as one of Germany's leading research institutions. The legacy of the University of Karlsruhe continues to thrive within KIT, particularly in its emphasis on technological advancement and sustainability.
 
-Culturally, the university played a significant role in the local community, fostering partnerships with various industries and contributing to the region's economic development. Its alumni include numerous influential figures in academia, industry, and politics, further underscoring its impact. As you explore the remnants of the university’s history, you'll find that its spirit of inquiry and innovation still resonates throughout the city.
+Culturally, the university played a significant role in the local community, fostering partnerships with various industries and contributing to the region's economic development. Its alumni include numerous influential figures in academia, industry, and politics, further underscoring its impact. As you explore the remnants of the university's history, you'll find that its spirit of inquiry and innovation still resonates throughout the city.
 
 ## Architecture and Features
 
 The architectural landscape of the University of Karlsruhe reflected its commitment to both tradition and progress. While specific details about the structures may differ, the university featured a mix of modernist designs alongside more traditional academic buildings. The campus was designed to foster collaboration and engagement, with open spaces and facilities that encouraged interaction among students and faculty.
 
-Notable features of the university included state-of-the-art laboratories and lecture halls that facilitated cutting-edge research and learning. The design of these spaces was intended to promote a stimulating educational environment, blending functionality with aesthetics. In addition, the university’s commitment to sustainability was reflected in its infrastructure, which incorporated modern green technologies.
+Notable features of the university included state-of-the-art laboratories and lecture halls that facilitated cutting-edge research and learning. The design of these spaces was intended to promote a stimulating educational environment, blending functionality with aesthetics. In addition, the university's commitment to sustainability was reflected in its infrastructure, which incorporated modern green technologies.
 
 Though the physical campus has evolved into KIT, remnants of the original university can still be appreciated. The blend of historical and contemporary elements creates a unique atmosphere, appealing not just to students but to anyone interested in architecture and educational design.
 
@@ -91,7 +91,7 @@ Most of the campus is wheelchair accessible, but it is best to confirm specific 
 While entry to the campus is typically free, check the official website for any events or exhibitions that may require tickets.
 
 ### Are there restrooms and cafes?
-There are facilities available on campus, but availability may vary, so it’s advisable to plan accordingly.
+There are facilities available on campus, but availability may vary, so it's advisable to plan accordingly.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, as you may be walking and exploring for several hours.

@@ -22,7 +22,7 @@ images:
 
 The Windmühle Winkeldorf, a striking example of traditional German windmill architecture, is located in the quaint village of Horstedt, Germany. This windmill not only serves as a functional piece of machinery but also as a cultural landmark that reflects the agricultural heritage of the region. With its towering presence, the windmill stands as an enduring symbol of the ingenuity and craftsmanship of a bygone era. Visitors are drawn to this site for its historical significance, architectural beauty, and the serene landscapes that surround it.
 
-As you approach the Windmühle Winkeldorf, you are met with a striking silhouette against the horizon, a reminder of the vital role windmills played in rural communities. This site is not just a relic but an active part of the local heritage, showcasing the relationship between technology and daily life in the past. Engaging with the Windmühle Winkeldorf offers a unique opportunity to connect with the region’s agricultural roots and appreciate the skill involved in windmill construction and operation. 
+As you approach the Windmühle Winkeldorf, you are met with a striking silhouette against the horizon, a reminder of the vital role windmills played in rural communities. This site is not just a relic but an active part of the local heritage, showcasing the relationship between technology and daily life in the past. Engaging with the Windmühle Winkeldorf offers a unique opportunity to connect with the region's agricultural roots and appreciate the skill involved in windmill construction and operation. 
 
 Whether you are a history enthusiast, an architecture lover, or simply seeking a peaceful retreat in the countryside, the Windmühle Winkeldorf invites exploration and reflection. 
 
@@ -36,7 +36,7 @@ Today, the Windmühle Winkeldorf stands not only as a functional windmill but al
 
 ## Architecture and Features
 
-The Windmühle Winkeldorf is characterized by its classic windmill design, which features a tall, cylindrical tower made from locally sourced materials. The windmill’s structure, typical of the regional architectural style, showcases the ingenuity of wind energy harnessing technology. While specific architectural details are not provided, traditional German windmills often include a thatched or wooden roof, which is angled to catch the wind effectively.
+The Windmühle Winkeldorf is characterized by its classic windmill design, which features a tall, cylindrical tower made from locally sourced materials. The windmill's structure, typical of the regional architectural style, showcases the ingenuity of wind energy harnessing technology. While specific architectural details are not provided, traditional German windmills often include a thatched or wooden roof, which is angled to catch the wind effectively.
 
 One of the notable features of the Windmühle Winkeldorf is its large, sweeping sails, which are essential for capturing the wind. These sails are not only functional but also contribute to the windmill's striking aesthetic. The design often includes a cap that can be rotated to face the wind, ensuring maximum efficiency in milling operations. 
 
@@ -69,7 +69,7 @@ To avoid crowds, particularly during weekends and public holidays, aim for a vis
 
 ## Practical Information
 
-When planning your visit to the Windmühle Winkeldorf, it’s advisable to dress comfortably, as you may be exploring both inside the windmill and its surrounding grounds. Depending on the season, layering is recommended, as the weather can be variable. 
+When planning your visit to the Windmühle Winkeldorf, it's advisable to dress comfortably, as you may be exploring both inside the windmill and its surrounding grounds. Depending on the season, layering is recommended, as the weather can be variable. 
 
 Be sure to bring along essentials such as water and snacks, especially if you plan to spend an extended period exploring the area. Additionally, check the official website for any seasonal events or special exhibitions that may be taking place during your visit.
 

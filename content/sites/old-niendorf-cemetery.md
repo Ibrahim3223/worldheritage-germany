@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Old Niendorf Cemetery is a historic burial ground located in the Eimsbüttel district of Hamburg, Germany. This site serves as a poignant reminder of the city's past, housing the remains of many notable figures and reflecting the changing tides of Hamburg’s social and cultural landscape. The cemetery is not only a resting place but also a place for contemplation and reflection, attracting visitors who are interested in both history and heritage. 
+Old Niendorf Cemetery is a historic burial ground located in the Eimsbüttel district of Hamburg, Germany. This site serves as a poignant reminder of the city's past, housing the remains of many notable figures and reflecting the changing tides of Hamburg's social and cultural landscape. The cemetery is not only a resting place but also a place for contemplation and reflection, attracting visitors who are interested in both history and heritage. 
 
 The cemetery's design and layout echo the traditional European cemetery aesthetic, with winding paths and meticulously arranged graves that invite visitors to wander and explore. It provides a unique opportunity to appreciate the artistry of tombstones and memorials, many of which feature intricate carvings and inscriptions. As a piece of Hamburg's heritage, Old Niendorf Cemetery offers an engaging experience for those seeking to understand the city's historical narrative and its evolution over time.
 
@@ -34,7 +34,7 @@ The cemetery's design and layout echo the traditional European cemetery aestheti
 
 Old Niendorf Cemetery has played an essential role in the local community since its establishment. While specific historical dates are not readily available, the cemetery reflects a blend of cultural influences that have shaped Hamburg over the centuries. The interment practices and memorial styles present in the cemetery are indicative of the broader cultural shifts that have occurred in the region, particularly during the 19th and 20th centuries.
 
-The cemetery is home to the graves of various prominent individuals, including local leaders, artists, and intellectuals who have left their mark on Hamburg's history. Their presence within the cemetery offers a glimpse into the lives of those who contributed to the city’s development. The final resting places of these figures are adorned with memorials that often reflect their achievements and the values of their time, making the cemetery a site of both remembrance and education.
+The cemetery is home to the graves of various prominent individuals, including local leaders, artists, and intellectuals who have left their mark on Hamburg's history. Their presence within the cemetery offers a glimpse into the lives of those who contributed to the city's development. The final resting places of these figures are adorned with memorials that often reflect their achievements and the values of their time, making the cemetery a site of both remembrance and education.
 
 As a cultural landmark, Old Niendorf Cemetery also plays a role in the community's ongoing narrative. It is a space where families can honor their ancestors and where the public can engage with the historical context surrounding the individuals interred here. This connection to the past fosters a sense of continuity and belonging, making the cemetery a significant site within the city's social fabric.
 

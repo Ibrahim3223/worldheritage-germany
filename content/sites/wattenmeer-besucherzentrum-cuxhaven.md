@@ -36,7 +36,7 @@ Whether you are a nature enthusiast, a family looking for a day out, or a travel
 
 The Wattenmeer-Besucherzentrum Cuxhaven is an essential component of the Wadden Sea National Park, which is recognized for its exceptional natural beauty and ecological importance. The region's history is intricately linked to its unique tidal flats, shaped by the ebb and flow of the North Sea. This dynamic coastal environment has been a vital resource for local communities for centuries, providing food and livelihoods through fishing and gathering.
 
-The museum plays a pivotal role in educating visitors about the natural history and cultural significance of the Wadden Sea. Through its exhibits, the center highlights the area’s diverse flora and fauna, including thousands of migratory birds that stop in the tidal flats during their long journeys. The Wadden Sea is also home to various marine species, such as seals and crustaceans, which thrive in these unique habitats.
+The museum plays a pivotal role in educating visitors about the natural history and cultural significance of the Wadden Sea. Through its exhibits, the center highlights the area's diverse flora and fauna, including thousands of migratory birds that stop in the tidal flats during their long journeys. The Wadden Sea is also home to various marine species, such as seals and crustaceans, which thrive in these unique habitats.
 
 In addition to its ecological importance, the Wattenmeer-Besucherzentrum Cuxhaven serves as a platform for conservation efforts. The center advocates for sustainable practices and encourages visitors to understand their role in preserving this delicate ecosystem. By fostering a sense of stewardship, the museum aims to inspire future generations to appreciate and protect the Wadden Sea and its surroundings.
 
@@ -101,7 +101,7 @@ Yes, guided tours may be available; check the official website for details on sc
 Visiting during low tide offers the best opportunity to see the tidal flats and their unique ecosystems. Weekdays generally see fewer visitors.
 
 ### Is it wheelchair accessible?
-The center is designed to be accessible, but it’s advisable to check the official website for specific accessibility features.
+The center is designed to be accessible, but it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current information.

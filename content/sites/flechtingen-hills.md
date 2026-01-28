@@ -60,7 +60,7 @@ The best way to access the Flechtingen Hills is by car, with several parking are
 
 To fully appreciate the area, plan to spend several hours exploring the trails and taking in the natural surroundings. The best times to visit the Flechtingen Hills are during the spring and autumn months when the weather is mild, and the landscape is particularly picturesque.
 
-Visitors should prepare adequately for their excursion by bringing water, snacks, and appropriate clothing for outdoor activities. Comfortable footwear is essential for navigating the trails, and don’t forget a camera to capture the beautiful scenery.
+Visitors should prepare adequately for their excursion by bringing water, snacks, and appropriate clothing for outdoor activities. Comfortable footwear is essential for navigating the trails, and don't forget a camera to capture the beautiful scenery.
 
 ## Nearby Attractions
 

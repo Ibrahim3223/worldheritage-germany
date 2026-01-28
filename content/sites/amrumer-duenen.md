@@ -78,7 +78,7 @@ To avoid crowds, aim for weekdays or visit during the off-peak season. The tranq
 
 ## Practical Information
 
-When visiting Amrumer Dünen, it is advisable to wear comfortable footwear suitable for walking on sandy terrain. Layered clothing is recommended, as temperatures can fluctuate throughout the day. Don’t forget to bring water, sunscreen, and possibly snacks, as facilities may be limited within the reserve.
+When visiting Amrumer Dünen, it is advisable to wear comfortable footwear suitable for walking on sandy terrain. Layered clothing is recommended, as temperatures can fluctuate throughout the day. Don't forget to bring water, sunscreen, and possibly snacks, as facilities may be limited within the reserve.
 
 Seasonal considerations are important; spring and early autumn present the best opportunities for pleasant weather and active wildlife. Be prepared for wind, especially near the coast, and check the local weather forecast ahead of your visit.
 

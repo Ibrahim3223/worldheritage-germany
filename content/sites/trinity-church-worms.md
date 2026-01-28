@@ -34,7 +34,7 @@ As you approach Trinity Church, you will be struck by its architectural elegance
 
 Trinity Church is located in a city that has played a critical role in various historical contexts. Worms is renowned for its involvement in the Diet of Worms in 1521, where Martin Luther defended his beliefs before Emperor Charles V. This event was a pivotal moment in the Protestant Reformation. Although Trinity Church itself may not have been the site of these significant historical events, it nonetheless contributes to the city's overall narrative as a center of religious and political change.
 
-The church’s establishment is rooted in the broader tradition of ecclesiastical architecture in Germany, which reflects the evolution of Christian worship spaces over centuries. Churches like Trinity have often acted as communal hubs, serving as venues for significant life events such as baptisms, weddings, and funerals. As a result, Trinity Church holds not only architectural significance but also cultural importance as a gathering place for the local community.
+The church's establishment is rooted in the broader tradition of ecclesiastical architecture in Germany, which reflects the evolution of Christian worship spaces over centuries. Churches like Trinity have often acted as communal hubs, serving as venues for significant life events such as baptisms, weddings, and funerals. As a result, Trinity Church holds not only architectural significance but also cultural importance as a gathering place for the local community.
 
 While specific historical dates and milestones for Trinity Church may not be widely documented, the church's presence contributes to the rich tapestry of Worms's religious landscape. Visitors may find themselves contemplating the various religious and cultural influences that have shaped the region throughout the years.
 
@@ -52,7 +52,7 @@ Visiting Trinity Church is a straightforward process, as it is situated in a loc
 
 Before planning your visit, it is wise to check the official website for current information regarding hours and any potential entry fees. This will ensure that you have the most accurate details for your trip. Typically, visitors can expect a welcoming atmosphere where they can spend time exploring the church's interior and reflecting on its significance.
 
-The optimal duration for a visit often ranges from one to two hours, allowing ample time to appreciate the architectural features while engaging with the site’s history. The best times to visit may vary; however, weekdays tend to be less crowded than weekends, offering a more tranquil experience.
+The optimal duration for a visit often ranges from one to two hours, allowing ample time to appreciate the architectural features while engaging with the site's history. The best times to visit may vary; however, weekdays tend to be less crowded than weekends, offering a more tranquil experience.
 
 ## Nearby Attractions
 

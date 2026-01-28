@@ -76,7 +76,7 @@ To make the most of your visit to Museum Eisenheim, consider these insider tips:
 
 - **Timing Your Visit**: To fully appreciate the exhibits without the distraction of large crowds, aim to visit during weekday mornings. This timing can provide a more serene experience, allowing you to engage more deeply with the art.
 
-- **Participate in Events**: Keep an eye on the museum’s schedule for workshops or guided tours, which can enhance your understanding of the exhibitions and the artists featured.
+- **Participate in Events**: Keep an eye on the museum's schedule for workshops or guided tours, which can enhance your understanding of the exhibitions and the artists featured.
 
 ## Practical Information
 

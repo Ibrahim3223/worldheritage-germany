@@ -68,7 +68,7 @@ The French Cathedral is situated in a vibrant area rich with other historical la
 
 4. **Museum für Kommunikation**: Just a few minutes away, this museum showcases the history of communication, featuring interactive exhibits and historical artifacts.
 
-5. **Bebelplatz**: A historical square known for its poignant memorial to the book burning of 1933, it is an essential site for understanding Berlin’s complex history.
+5. **Bebelplatz**: A historical square known for its poignant memorial to the book burning of 1933, it is an essential site for understanding Berlin's complex history.
 
 ## Insider Tips
 

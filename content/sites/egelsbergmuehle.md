@@ -84,7 +84,7 @@ To avoid larger crowds, consider visiting during weekdays, especially outside of
 
 ## Practical Information
 
-When visiting the Egelsbergmühle, it’s advisable to wear comfortable shoes, as you may be exploring both the interior and outdoor areas. Bring along water to stay hydrated, particularly during the warmer months. 
+When visiting the Egelsbergmühle, it's advisable to wear comfortable shoes, as you may be exploring both the interior and outdoor areas. Bring along water to stay hydrated, particularly during the warmer months. 
 
 Seasonal considerations are important, as weather can impact your experience. Dressing in layers is recommended to adjust to changing conditions throughout the day. Additionally, check the official website for any seasonal events or workshops that may require advance registration or special attire.
 

@@ -50,7 +50,7 @@ Natural light plays a significant role in the museum's interior, enhancing the v
 
 Museum Ulm is conveniently located in the heart of the city, making it easily accessible for both local residents and tourists. Visitors can reach the museum via various modes of transportation, including public transit options and walking paths that connect to key areas of Ulm.
 
-When planning your visit, it's advisable to check the official website for current information regarding hours and ticket prices. This will ensure you have the most accurate data before your arrival. The museum typically offers a range of exhibitions that may change throughout the year, so be sure to explore what’s currently on display.
+When planning your visit, it's advisable to check the official website for current information regarding hours and ticket prices. This will ensure you have the most accurate data before your arrival. The museum typically offers a range of exhibitions that may change throughout the year, so be sure to explore what's currently on display.
 
 To fully enjoy the museum experience, allocate a couple of hours for your visit. This should provide ample time to engage with the exhibits, take in the architecture, and even relax in any designated viewing areas. The best times to visit are often mid-week when crowds are typically smaller, allowing for a more intimate experience with the art.
 
@@ -62,7 +62,7 @@ While Museum Ulm is a destination in itself, the surrounding area offers additio
 
 2. **Fishermen's Quarter (Fischerviertel)**: Located nearby, this charming district features narrow streets lined with traditional half-timbered houses. It's a picturesque area perfect for leisurely exploration.
 
-3. **Ulm City Hall (Rathaus)**: The historical town hall showcases remarkable architecture and vibrant frescoes. It’s a great spot to appreciate local history and culture.
+3. **Ulm City Hall (Rathaus)**: The historical town hall showcases remarkable architecture and vibrant frescoes. It's a great spot to appreciate local history and culture.
 
 4. **Danube River Promenade**: A lovely place for a stroll, the promenade along the Danube offers scenic views and a chance to relax by the water.
 

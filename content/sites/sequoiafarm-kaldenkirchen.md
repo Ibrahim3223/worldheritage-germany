@@ -52,7 +52,7 @@ The architecture of any structures within Sequoiafarm, while not specifically de
 
 ## Visiting Information
 
-When planning a visit to Sequoiafarm Kaldenkirchen, it’s important to consider transportation options. The site is accessible by various means, including public transport and private vehicles. For those driving, ample parking facilities are likely available nearby, making it convenient to explore the gardens and surrounding area.
+When planning a visit to Sequoiafarm Kaldenkirchen, it's important to consider transportation options. The site is accessible by various means, including public transport and private vehicles. For those driving, ample parking facilities are likely available nearby, making it convenient to explore the gardens and surrounding area.
 
 Check the official website for current information regarding opening hours and admission prices, as these can vary throughout the year. Generally, visitors can expect to spend a few hours at Sequoiafarm, allowing sufficient time to stroll through the gardens, participate in any workshops, and absorb the tranquil atmosphere.
 
@@ -92,7 +92,7 @@ To make the most of your visit to Sequoiafarm Kaldenkirchen, consider these insi
 
 When preparing for your visit to Sequoiafarm Kaldenkirchen, consider the following practical information:
 
-- **What to Bring**: Sunscreen, a hat, and water are recommended, especially during warmer months. If you plan to take photographs, don’t forget your camera or smartphone.
+- **What to Bring**: Sunscreen, a hat, and water are recommended, especially during warmer months. If you plan to take photographs, don't forget your camera or smartphone.
 
 - **Seasonal Considerations**: Each season offers a different experience at Sequoiafarm. Spring and summer feature vibrant flowers, while autumn showcases colorful foliage. Winter may present a quieter, more subdued beauty.
 

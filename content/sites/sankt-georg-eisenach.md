@@ -50,7 +50,7 @@ While exploring Sankt Georg, visitors are encouraged to appreciate the craftsman
 
 For those planning to visit Sankt Georg, it is advisable to check the official website for current information regarding hours and admission prices. The church is easily accessible by public transport, making it a convenient stop for travelers exploring Eisenach. Local transportation options include buses and trams that connect various parts of the city.
 
-Upon arrival, visitors can expect a serene atmosphere that invites contemplation. The time needed to experience Sankt Georg can vary depending on personal interests; however, a visit typically lasts around one hour. This timeframe allows for a thoughtful exploration of the church’s interior, reflection on its historical significance, and perhaps participation in a service if available.
+Upon arrival, visitors can expect a serene atmosphere that invites contemplation. The time needed to experience Sankt Georg can vary depending on personal interests; however, a visit typically lasts around one hour. This timeframe allows for a thoughtful exploration of the church's interior, reflection on its historical significance, and perhaps participation in a service if available.
 
 The best times to visit are generally during weekdays when the church may be less crowded, allowing for a more intimate experience. Additionally, visiting during special church events or community gatherings can provide unique insights into the local culture and religious practices.
 
@@ -72,7 +72,7 @@ Eisenach offers a variety of attractions that complement a visit to Sankt Georg:
 
 When visiting Sankt Georg, consider the following tips to enhance your experience:
 
-- **Photography**: While photography may be allowed, it’s best to be respectful of the worshippers and the sanctity of the space. Early mornings or late afternoons can provide beautiful natural light for capturing the church's exterior.
+- **Photography**: While photography may be allowed, it's best to be respectful of the worshippers and the sanctity of the space. Early mornings or late afternoons can provide beautiful natural light for capturing the church's exterior.
 
 - **Crowd Avoidance**: To avoid crowds, consider visiting during weekdays rather than weekends or around religious holidays. This will allow for a more peaceful experience within the church.
 

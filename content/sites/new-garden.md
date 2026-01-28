@@ -44,7 +44,7 @@ New Garden is characterized by its expansive, thoughtfully landscaped areas that
 
 One notable aspect of the park is its emphasis on open spaces, allowing for various recreational activities. These areas cater to different interests, whether it be a peaceful picnic on the grass or a more active pursuit like jogging or biking. The layout is designed to accommodate both solitary visitors seeking tranquility and groups looking to enjoy the outdoors together.
 
-While specific architectural features are not outlined in the available data, the general ambiance of New Garden suggests a harmonious blend of nature and human design. The park’s overall aesthetic encourages visitors to engage not only with the environment but also with each other, fostering community connections in a serene setting.
+While specific architectural features are not outlined in the available data, the general ambiance of New Garden suggests a harmonious blend of nature and human design. The park's overall aesthetic encourages visitors to engage not only with the environment but also with each other, fostering community connections in a serene setting.
 
 ## Visiting Information
 

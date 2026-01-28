@@ -36,7 +36,7 @@ The history of St. George's Abbey is intricately linked to the development of mo
 
 The monastery is not merely a religious institution; it has acted as a pivotal center for education and agriculture throughout its existence. Monastic communities were often at the forefront of agricultural innovation and education during the Middle Ages, contributing to the local economy and societal development. St. George's Abbey has likely mirrored this pattern, providing a space for education and fostering a sense of community that extends beyond its walls.
 
-Over the centuries, the abbey has witnessed significant historical events and transformations that reflect broader trends in German history, including the Reformation and the evolution of monastic practices. The cultural importance of St. George’s Abbey lies not only in its architectural beauty but also in its role as a community hub that has adapted to the changing tides of history while maintaining its core values.
+Over the centuries, the abbey has witnessed significant historical events and transformations that reflect broader trends in German history, including the Reformation and the evolution of monastic practices. The cultural importance of St. George's Abbey lies not only in its architectural beauty but also in its role as a community hub that has adapted to the changing tides of history while maintaining its core values.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ Visitors typically spend around 2-3 hours at St. George's Abbey to fully appreci
 Photography policies may vary, so it is best to check for any signs or guidelines upon arrival.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the abbey’s history and significance.
+Guided tours may be available, providing deeper insights into the abbey's history and significance.
 
 ### What's the best time to visit?
 Spring and early autumn are generally considered the best times to visit due to mild weather and beautiful surroundings.

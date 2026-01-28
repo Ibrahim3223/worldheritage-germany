@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Dom- und St. Magnifriedhof, located in Brunswick, Germany, is a cemetery that resonates with historical significance and cultural depth. This hallowed ground serves not only as a final resting place for many but also as a reflection of the city’s rich past. A visit here offers an opportunity to explore the interplay between art, history, and memory in the heart of Brunswick. 
+Dom- und St. Magnifriedhof, located in Brunswick, Germany, is a cemetery that resonates with historical significance and cultural depth. This hallowed ground serves not only as a final resting place for many but also as a reflection of the city's rich past. A visit here offers an opportunity to explore the interplay between art, history, and memory in the heart of Brunswick. 
 
-As you enter the cemetery, you will find an array of grave markers and monuments that tell stories of lives lived across different eras. The site’s serene atmosphere provides a contemplative space for reflection and remembrance, making it a notable destination for both locals and tourists. Its importance extends beyond the individual stories of those interred here, encapsulating a broader narrative about the region's evolution and the values of those who shaped it.
+As you enter the cemetery, you will find an array of grave markers and monuments that tell stories of lives lived across different eras. The site's serene atmosphere provides a contemplative space for reflection and remembrance, making it a notable destination for both locals and tourists. Its importance extends beyond the individual stories of those interred here, encapsulating a broader narrative about the region's evolution and the values of those who shaped it.
 
 ## History and Significance
 
-The history of Dom- und St. Magnifriedhof is intertwined with the development of Brunswick itself. While specific historical dates and events are not detailed, the cemetery’s origins can be traced back to the establishment of the nearby St. Magni Church, which has served as a spiritual center for the community. This connection underscores the role of the cemetery as a significant cultural and religious site over the centuries.
+The history of Dom- und St. Magnifriedhof is intertwined with the development of Brunswick itself. While specific historical dates and events are not detailed, the cemetery's origins can be traced back to the establishment of the nearby St. Magni Church, which has served as a spiritual center for the community. This connection underscores the role of the cemetery as a significant cultural and religious site over the centuries.
 
 Throughout its existence, the cemetery has witnessed various historical changes, reflecting the societal transformations in Brunswick. It has been a space for mourning, remembrance, and celebration of life, encapsulating the communal values and beliefs surrounding death and the afterlife in the region. The significance of the cemetery is further amplified by the notable personalities interred within its grounds, whose contributions to the city and beyond have left lasting legacies.
 

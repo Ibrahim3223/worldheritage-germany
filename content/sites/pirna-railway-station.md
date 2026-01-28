@@ -34,9 +34,9 @@ Whether you are a daily commuter or a visitor exploring the region, Pirna railwa
 
 The history of Pirna railway station is intertwined with the development of rail transport in Germany. Established to support the growing transportation needs of the region, the station has been pivotal in connecting Pirna with major cities and neighboring towns. The station has evolved over the years, reflecting changes in technology and travel patterns. 
 
-Pirna itself is a town steeped in history, dating back to the Middle Ages and known for its well-preserved architecture and vibrant cultural scene. The railway station has played a significant role in the town's development, facilitating trade and tourism. As a result, it has become not just a transit point, but also an integral part of the local community’s identity.
+Pirna itself is a town steeped in history, dating back to the Middle Ages and known for its well-preserved architecture and vibrant cultural scene. The railway station has played a significant role in the town's development, facilitating trade and tourism. As a result, it has become not just a transit point, but also an integral part of the local community's identity.
 
-The station’s cultural importance extends beyond its practical functions. It serves as a reminder of the era of industrialization that transformed transportation in Europe, highlighting the role of railways in shaping modern society. As visitors pass through, they connect with the broader narrative of progress and connectivity that railways represent.
+The station's cultural importance extends beyond its practical functions. It serves as a reminder of the era of industrialization that transformed transportation in Europe, highlighting the role of railways in shaping modern society. As visitors pass through, they connect with the broader narrative of progress and connectivity that railways represent.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architectural design of Pirna railway station reflects the functional style 
 
 Typical of German railway stations, you can expect a layout that prioritizes user-friendliness, ensuring that both locals and visitors can navigate the station with ease. The station is likely equipped with necessary amenities to accommodate travelers, such as information boards and seating areas. 
 
-While specific decorative features are not highlighted, many railway stations in Germany often include regional architectural characteristics, such as traditional roofing styles and local materials that reflect the town’s cultural heritage. 
+While specific decorative features are not highlighted, many railway stations in Germany often include regional architectural characteristics, such as traditional roofing styles and local materials that reflect the town's cultural heritage. 
 
 ## Visiting Information
 

@@ -52,7 +52,7 @@ Visiting Sternberg City Church offers a unique opportunity to engage with the lo
 
 When planning a visit, it is advisable to check the official website for current information regarding the church's hours of operation and any potential admission fees. Visitors can expect a warm welcome and a peaceful environment conducive to exploration and contemplation. A visit typically requires about an hour, allowing ample time to appreciate the architecture and soak in the serene atmosphere.
 
-The best times to visit the church are during weekdays when it tends to be less crowded, providing an intimate experience. However, special services or community events may attract larger crowds, so one may want to consult the church’s schedule ahead of time.
+The best times to visit the church are during weekdays when it tends to be less crowded, providing an intimate experience. However, special services or community events may attract larger crowds, so one may want to consult the church's schedule ahead of time.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ Sternberg is not only home to its city church; the surrounding area offers addit
 
 3. **Historic Town Center**: Stroll through the charming streets of Sternberg, featuring historic buildings and quaint shops, perfect for a leisurely afternoon.
 
-4. **St. Mary’s Church**: Another ecclesiastical site in the area, providing insight into the region’s architectural diversity and religious history.
+4. **St. Mary's Church**: Another ecclesiastical site in the area, providing insight into the region's architectural diversity and religious history.
 
 5. **Local Parks**: Enjoy the green spaces within and around Sternberg, which offer opportunities for picnics and outdoor activities.
 

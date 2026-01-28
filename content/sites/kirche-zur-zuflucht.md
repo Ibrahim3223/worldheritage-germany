@@ -109,7 +109,7 @@ The warmer months are ideal for visiting, as they provide pleasant weather for e
 While specific accessibility details are not provided, check the official website for current information regarding access for individuals with mobility challenges.
 
 ### Can I buy tickets online?
-For entry fees and ticketing information, it’s best to consult the official website prior to your visit.
+For entry fees and ticketing information, it's best to consult the official website prior to your visit.
 
 ### Are there restrooms and cafes?
 Nearby facilities may vary, so it's advisable to check local resources for restroom availability and dining options during your visit.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Cumberland-Denkmal in Norderney is a notable monument that encapsulates the historical and cultural essence of this charming German island. Situated in the North Sea, Norderney is part of the East Frisian Islands and is known for its unique blend of natural beauty and heritage. The monument serves as an important landmark, representing the island's historical significance and its connection to maritime activities. Visitors to the Cumberland-Denkmal can expect not only to appreciate its architectural features but also to gain insight into the island’s past.
+The Cumberland-Denkmal in Norderney is a notable monument that encapsulates the historical and cultural essence of this charming German island. Situated in the North Sea, Norderney is part of the East Frisian Islands and is known for its unique blend of natural beauty and heritage. The monument serves as an important landmark, representing the island's historical significance and its connection to maritime activities. Visitors to the Cumberland-Denkmal can expect not only to appreciate its architectural features but also to gain insight into the island's past.
 
 This monument stands as a reminder of the island's evolution and the role it has played over the years. With its commanding presence, the Cumberland-Denkmal invites travelers to explore the narratives woven into the fabric of Norderney, making it a significant stop for anyone interested in the island's story and its cultural identity.
 
@@ -67,7 +67,7 @@ While visiting the Cumberland-Denkmal, there are several nearby attractions that
 
 To make the most of your visit to the Cumberland-Denkmal, consider the following tips:
 
-- **Photography**: The monument offers excellent opportunities for photography, especially during the golden hours of sunrise and sunset. Capture the monument against the beautiful backdrop of Norderney’s landscape.
+- **Photography**: The monument offers excellent opportunities for photography, especially during the golden hours of sunrise and sunset. Capture the monument against the beautiful backdrop of Norderney's landscape.
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or early in the morning. This can enhance your time spent reflecting on the monument without the hustle of larger crowds.
 
 ## Practical Information

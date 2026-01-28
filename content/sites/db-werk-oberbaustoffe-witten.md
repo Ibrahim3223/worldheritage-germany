@@ -64,7 +64,7 @@ Visitors to DB Werk Oberbaustoffe Witten can take advantage of several nearby at
 
 ## Insider Tips
 
-Photography enthusiasts should be mindful of the factory's operational nature. While capturing the essence of the industrial site is encouraged, it’s best to check for any restrictions on photography. To avoid crowds, consider visiting during weekdays or early in the morning. Engaging with factory staff can also provide unique insights and stories that enhance your experience.
+Photography enthusiasts should be mindful of the factory's operational nature. While capturing the essence of the industrial site is encouraged, it's best to check for any restrictions on photography. To avoid crowds, consider visiting during weekdays or early in the morning. Engaging with factory staff can also provide unique insights and stories that enhance your experience.
 
 ## Practical Information
 

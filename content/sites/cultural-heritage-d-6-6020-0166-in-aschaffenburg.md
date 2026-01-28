@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Cultural Heritage D-6-6020-0166 in Aschaffenburg represents a significant historical fortification that exemplifies the military architecture of its time. Located in the charming region of Lower Franconia, Bavaria, Germany, this cultural monument offers visitors a glimpse into the past, showcasing the strategic importance of fortifications in protecting territories. The site’s design and construction reflect the military needs of its era, making it a valuable point of interest for history enthusiasts and casual travelers alike. 
+The Cultural Heritage D-6-6020-0166 in Aschaffenburg represents a significant historical fortification that exemplifies the military architecture of its time. Located in the charming region of Lower Franconia, Bavaria, Germany, this cultural monument offers visitors a glimpse into the past, showcasing the strategic importance of fortifications in protecting territories. The site's design and construction reflect the military needs of its era, making it a valuable point of interest for history enthusiasts and casual travelers alike. 
 
-Aschaffenburg itself is a city with a rich history, often referred to as the “Gateway to Bavaria.” Its landscape, dotted with historical architecture and cultural landmarks, enhances the experience of exploring this fortification. The site stands as a reminder of the intricate relationship between military prowess and architectural innovation. Visitors to this site can expect not only to learn about the fortification’s role in regional defense but also to appreciate the craftsmanship that has withstood the test of time.
+Aschaffenburg itself is a city with a rich history, often referred to as the "Gateway to Bavaria." Its landscape, dotted with historical architecture and cultural landmarks, enhances the experience of exploring this fortification. The site stands as a reminder of the intricate relationship between military prowess and architectural innovation. Visitors to this site can expect not only to learn about the fortification's role in regional defense but also to appreciate the craftsmanship that has withstood the test of time.
 
 ## History and Significance
 

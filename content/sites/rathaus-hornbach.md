@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the charming town of Hornbach, Germany, the Rathaus Hornbach stands as an iconic structure that intertwines civic function with historical significance. This city hall, which also served as a former church, offers visitors a glimpse into the architectural and cultural evolution of the region. Located at coordinates 49.185899, 7.369815, the Rathaus is not just a hub for local governance but also a landmark that reflects the rich heritage of Hornbach. As you explore this historic site, you’ll gain insights into the community's past while appreciating the unique blend of secular and sacred architecture that defines this remarkable building.
+In the charming town of Hornbach, Germany, the Rathaus Hornbach stands as an iconic structure that intertwines civic function with historical significance. This city hall, which also served as a former church, offers visitors a glimpse into the architectural and cultural evolution of the region. Located at coordinates 49.185899, 7.369815, the Rathaus is not just a hub for local governance but also a landmark that reflects the rich heritage of Hornbach. As you explore this historic site, you'll gain insights into the community's past while appreciating the unique blend of secular and sacred architecture that defines this remarkable building.
 
 Visiting Rathaus Hornbach allows for a deeper understanding of the region's history and its civic life, making it a must-see for anyone interested in heritage travel. Whether you're a local resident or a traveler from afar, the city hall promises to engage your curiosity about the town's storied past and its role in shaping the community today.
 
@@ -36,7 +36,7 @@ The history of Rathaus Hornbach is intertwined with the development of the town 
 
 Hornbach's significance in history extends beyond its city hall. The town has roots that trace back to the medieval period, making it an important location for understanding the social and political dynamics of the time. The Rathaus has served as a gathering place for local governance, community events, and celebrations, fostering a sense of unity among residents. Its role in civic engagement highlights the importance of local governance in shaping the identity of Hornbach.
 
-The architectural design of the Rathaus reflects the historical context in which it was built and later modified. Each alteration not only serves a practical purpose but also tells a story about the community’s aspirations and challenges. As such, the Rathaus Hornbach is a site of both civic pride and historical inquiry, inviting visitors to reflect on the past while engaging with the present.
+The architectural design of the Rathaus reflects the historical context in which it was built and later modified. Each alteration not only serves a practical purpose but also tells a story about the community's aspirations and challenges. As such, the Rathaus Hornbach is a site of both civic pride and historical inquiry, inviting visitors to reflect on the past while engaging with the present.
 
 ## Architecture and Features
 
@@ -101,7 +101,7 @@ For accessibility information, consult the official website or contact local aut
 Check the official website for details on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be limited, so it’s advisable to plan accordingly and explore nearby options.
+Facilities such as restrooms and cafes may be limited, so it's advisable to plan accordingly and explore nearby options.
 
 ### What should I wear?
 Dress comfortably and in layers, as temperatures can vary throughout the day. If visiting during a local event, consider wearing attire that reflects the occasion.

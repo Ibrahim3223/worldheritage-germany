@@ -67,7 +67,7 @@ These nearby sites enhance the experience of visiting Bait ul-Ghafur Mosque, all
 
 ## Insider Tips
 
-When visiting Bait ul-Ghafur Mosque, consider bringing a camera to capture the architecture, but be mindful of the mosque's rules regarding photography. It is recommended to avoid peak prayer times to experience the space more peacefully and without disruption. Engaging with community members can enrich your visit, so don’t hesitate to ask questions about the mosque or its activities.
+When visiting Bait ul-Ghafur Mosque, consider bringing a camera to capture the architecture, but be mindful of the mosque's rules regarding photography. It is recommended to avoid peak prayer times to experience the space more peacefully and without disruption. Engaging with community members can enrich your visit, so don't hesitate to ask questions about the mosque or its activities.
 
 ## Practical Information
 

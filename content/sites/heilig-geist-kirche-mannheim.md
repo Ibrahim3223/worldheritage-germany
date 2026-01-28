@@ -50,7 +50,7 @@ The design of Heilig-Geist-Kirche not only serves functional purposes but also r
 
 To visit Heilig-Geist-Kirche, travelers can easily access the site via public transport. The church's location in Mannheim makes it convenient for visitors exploring the city, as it is situated near various transport links. Check the official website for current information regarding hours of operation and any potential entry fees.
 
-When planning a visit, it is advisable to allow sufficient time to fully appreciate the church and its surroundings. A visit may take approximately one to two hours, depending on one’s interest in the architecture and history. The best times to visit are typically during daylight hours when natural light enhances the beauty of the building's features.
+When planning a visit, it is advisable to allow sufficient time to fully appreciate the church and its surroundings. A visit may take approximately one to two hours, depending on one's interest in the architecture and history. The best times to visit are typically during daylight hours when natural light enhances the beauty of the building's features.
 
 Visitors should expect a peaceful atmosphere conducive to reflection, and they may find that the church hosts various events or services that contribute to the vibrancy of the community. Be sure to check the official website for details on any scheduled events that might coincide with your visit.
 
@@ -66,11 +66,11 @@ While Heilig-Geist-Kirche is a highlight in its own right, visitors will find se
 
 4. **National Theatre Mannheim**: Known for its rich cultural offerings, this theatre hosts a variety of performances, including opera, drama, and ballet.
 
-5. **Planken, Mannheim’s Shopping Street**: A vibrant shopping area that features a mix of local shops and international brands, ideal for those looking to explore local commerce.
+5. **Planken, Mannheim's Shopping Street**: A vibrant shopping area that features a mix of local shops and international brands, ideal for those looking to explore local commerce.
 
 ## Insider Tips
 
-For photography enthusiasts, Heilig-Geist-Kirche offers several opportunities to capture its architectural beauty. Early morning or late afternoon light can create stunning effects on the building’s façade, enhancing the details that define its character. 
+For photography enthusiasts, Heilig-Geist-Kirche offers several opportunities to capture its architectural beauty. Early morning or late afternoon light can create stunning effects on the building's façade, enhancing the details that define its character. 
 
 To avoid larger crowds, consider visiting during weekdays or early in the day. This will allow for a more intimate experience within the church, providing ample time for quiet reflection.
 

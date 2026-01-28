@@ -30,7 +30,7 @@ In the heart of Dresden, the Erich Kästner Museum invites visitors to delve int
 
 Dresden, renowned for its artistic heritage and baroque architecture, provides a fitting backdrop for this museum. As you explore its exhibits, you will uncover the nuances of Kästner's life—his experiences during tumultuous times in German history and how these experiences influenced his writings. The museum not only highlights his notable works but also offers insights into his personal life, making it a significant stop for literature enthusiasts and history buffs alike.
 
-Visiting the Erich Kästner Museum is not merely an exploration of a writer’s world; it’s an invitation to engage with the themes of childhood innocence, resilience, and social critique that defined Kästner's narratives. Whether you are a seasoned Kästner reader or new to his work, the museum promises a thoughtful reflection on the power of literature to shape society and the human experience.
+Visiting the Erich Kästner Museum is not merely an exploration of a writer's world; it's an invitation to engage with the themes of childhood innocence, resilience, and social critique that defined Kästner's narratives. Whether you are a seasoned Kästner reader or new to his work, the museum promises a thoughtful reflection on the power of literature to shape society and the human experience.
 
 ## History and Significance
 

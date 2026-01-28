@@ -58,7 +58,7 @@ The best times to visit may vary, but generally, weekdays tend to see fewer crow
 
 Visitors to Keramikmuseum Bürgel may also wish to explore other attractions in the vicinity:
 
-1. **Bürgel’s Historic Town Center**: A charming area filled with historical buildings and local shops, offering a glimpse into the town's past.
+1. **Bürgel's Historic Town Center**: A charming area filled with historical buildings and local shops, offering a glimpse into the town's past.
 2. **Local Pottery Workshops**: Opportunities to observe or participate in pottery-making sessions with local artisans, providing hands-on experience of the craft.
 3. **Art Galleries**: A selection of galleries in Bürgel that feature contemporary artworks, often highlighting local artists and their interpretations of ceramic art.
 4. **Parks and Outdoor Spaces**: Scenic areas for walking and enjoying the natural beauty of the region, perfect for a quiet respite after visiting the museum.

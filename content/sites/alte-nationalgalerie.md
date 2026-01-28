@@ -50,7 +50,7 @@ Notable features of the museum include its impressive skylights, which illuminat
 
 ## Visiting Information
 
-When planning a visit to the Alte Nationalgalerie, it’s essential to consider your travel options and the best times to explore the museum. Located in the bustling Bezirk Mitte, the museum is easily accessible via public transportation, including U-Bahn and S-Bahn services. 
+When planning a visit to the Alte Nationalgalerie, it's essential to consider your travel options and the best times to explore the museum. Located in the bustling Bezirk Mitte, the museum is easily accessible via public transportation, including U-Bahn and S-Bahn services. 
 
 Check the official website for current information regarding hours and ticket prices to ensure a smooth visit. The museum typically encourages visitors to allocate a few hours to fully appreciate the collection, although time spent may vary based on individual interests.
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Alte Nationalgalerie, consider these insid
 
 - **Crowd Avoidance**: Aim for weekday visits, particularly during early hours or late afternoons, to avoid larger crowds and enjoy a more tranquil experience.
 
-- **Guided Tours**: If you are interested in a more in-depth exploration, consider joining a guided tour. These often provide valuable insights into the artwork and the museum’s history.
+- **Guided Tours**: If you are interested in a more in-depth exploration, consider joining a guided tour. These often provide valuable insights into the artwork and the museum's history.
 
 ## Practical Information
 

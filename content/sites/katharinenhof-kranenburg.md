@@ -62,7 +62,7 @@ The best times to visit might coincide with special events or exhibitions, which
 
 2. **Kranenburg Town Center**: The charming town center features local shops and cafes where visitors can experience the everyday life of Kranenburg while enjoying local cuisine and hospitality.
 
-3. **Museum of Local History**: This nearby institution complements the offerings of Katharinenhof Kranenburg by providing additional context and narratives about the region’s past.
+3. **Museum of Local History**: This nearby institution complements the offerings of Katharinenhof Kranenburg by providing additional context and narratives about the region's past.
 
 4. **Kranenburg Nature Park**: For those looking to enjoy the outdoors, this nearby park presents a peaceful setting to explore nature and engage in recreational activities.
 
@@ -72,7 +72,7 @@ The best times to visit might coincide with special events or exhibitions, which
 
 To make the most of your visit to Katharinenhof Kranenburg, consider timing your arrival during off-peak hours, typically mid-mornings or early afternoons on weekdays. This can enhance your experience by allowing for a more intimate exploration of the exhibits without the distraction of larger crowds.
 
-When it comes to photography, while many museums have specific policies regarding photography, it’s advisable to check for any restrictions at Katharinenhof Kranenburg. If allowed, capture the unique displays and artifacts that resonate with the region's history.
+When it comes to photography, while many museums have specific policies regarding photography, it's advisable to check for any restrictions at Katharinenhof Kranenburg. If allowed, capture the unique displays and artifacts that resonate with the region's history.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ Seasonal considerations may also play a role in your visit; spring and autumn of
 Visitors typically spend a few hours at Katharinenhof Kranenburg to fully appreciate the exhibits and programs. 
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or the official website for specific guidelines.
+Photography policies may vary, so it's best to check with museum staff or the official website for specific guidelines.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

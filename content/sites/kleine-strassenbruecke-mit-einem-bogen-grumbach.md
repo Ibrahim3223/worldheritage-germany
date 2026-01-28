@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Wilsdruff, Germany, lies the Kleine Straßenbrücke mit einem Bogen Grumbach, a bridge that embodies the understated elegance of regional architecture. Situated at the coordinates 51.03664879, 13.537725984, this bridge serves not only as a functional piece of infrastructure but also as a poignant reminder of the area’s rich history and cultural significance. Spanning across a local waterway, the bridge plays a crucial role in connecting the surrounding communities, facilitating transport, and offering a glimpse into traditional engineering techniques.
+In the heart of Wilsdruff, Germany, lies the Kleine Straßenbrücke mit einem Bogen Grumbach, a bridge that embodies the understated elegance of regional architecture. Situated at the coordinates 51.03664879, 13.537725984, this bridge serves not only as a functional piece of infrastructure but also as a poignant reminder of the area's rich history and cultural significance. Spanning across a local waterway, the bridge plays a crucial role in connecting the surrounding communities, facilitating transport, and offering a glimpse into traditional engineering techniques.
 
 As you approach the Kleine Straßenbrücke, you may find yourself captivated by its simple yet striking design, which reflects the practical aesthetic of its time. The bridge is more than just a passage; it is a landmark that has quietly witnessed the evolution of the surrounding landscape. This guide will delve into the history, architecture, and visitor experience associated with this noteworthy structure, inviting you to explore all that it has to offer.
 

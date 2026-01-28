@@ -66,7 +66,7 @@ Erlöserkirche is situated within a vibrant area that offers several nearby attr
 
 4. **Weißensee Cemetery**: A serene final resting place that showcases beautiful memorial architecture and lush landscapes.
 
-5. **Berlin’s Historic Districts**: A short distance away, these districts feature charming streets, cafes, and shops that capture the essence of Berlin's culture.
+5. **Berlin's Historic Districts**: A short distance away, these districts feature charming streets, cafes, and shops that capture the essence of Berlin's culture.
 
 ## Insider Tips
 

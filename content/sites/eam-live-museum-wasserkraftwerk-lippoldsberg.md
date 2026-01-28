@@ -76,7 +76,7 @@ To enhance your experience at the EAM-live-Museum Wasserkraftwerk Lippoldsberg, 
 
 - **Avoiding Crowds**: If possible, visit during mid-week or early in the day. This strategy can help you avoid larger groups and allow for a more personalized experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their insights can provide additional context and enrich your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their insights can provide additional context and enrich your visit.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When preparing for your visit to the EAM-live-Museum Wasserkraftwerk Lippoldsber
 A visit typically takes about two hours, allowing you to explore the exhibits thoroughly and engage with interactive displays.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions within the museum.
+Photography is generally permitted, but it's advisable to check for any specific restrictions within the museum.
 
 ### Are there guided tours?
 Check the official website for current information regarding the availability of guided tours, as these can enhance your understanding of the exhibits.

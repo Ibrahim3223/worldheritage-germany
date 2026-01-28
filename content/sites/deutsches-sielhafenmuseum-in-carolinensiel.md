@@ -28,7 +28,7 @@ image_srcset:
 
 The Deutsches Sielhafenmuseum in Carolinensiel is a museum that offers a fascinating glimpse into the maritime culture of Germany's northern coastline. Located in the Wittmund district, this museum serves as a cultural repository, celebrating the region's rich seafaring history. Visitors can explore the unique heritage of the Carolinensiel area, discovering how its port and waterways have shaped the lives of its inhabitants over the centuries.
 
-Carolinensiel, with its picturesque canals and historic charm, provides an inviting backdrop for this museum. The collection within the Deutsches Sielhafenmuseum captures the essence of the area’s maritime legacy, focusing on the importance of trade, fishing, and shipbuilding in the development of the local community. For those looking to immerse themselves in the unique maritime culture of Germany, a visit to this museum is both educational and enriching.
+Carolinensiel, with its picturesque canals and historic charm, provides an inviting backdrop for this museum. The collection within the Deutsches Sielhafenmuseum captures the essence of the area's maritime legacy, focusing on the importance of trade, fishing, and shipbuilding in the development of the local community. For those looking to immerse themselves in the unique maritime culture of Germany, a visit to this museum is both educational and enriching.
 
 ## History and Significance
 

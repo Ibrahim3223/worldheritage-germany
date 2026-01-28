@@ -70,7 +70,7 @@ While Dunum Church is a highlight of the region, there are several nearby attrac
 
 2. **Parks and Natural Areas**: Enjoy the natural beauty of the region by visiting nearby parks, which offer opportunities for leisurely walks and exploration.
 
-3. **Historical Sites**: Explore other historical buildings in the area that provide context to the rich tapestry of Dunum’s past.
+3. **Historical Sites**: Explore other historical buildings in the area that provide context to the rich tapestry of Dunum's past.
 
 4. **Art Galleries**: Visit local art galleries showcasing the work of regional artists, which often reflect the culture and landscape of the area.
 
@@ -80,7 +80,7 @@ While Dunum Church is a highlight of the region, there are several nearby attrac
 
 To make the most of your visit to Dunum Church, consider the following insider tips:
 
-- **Photography**: Be mindful of the atmosphere while taking photographs. Early mornings or late afternoons often provide optimal lighting for capturing the church’s features without the harsh glare of midday sun.
+- **Photography**: Be mindful of the atmosphere while taking photographs. Early mornings or late afternoons often provide optimal lighting for capturing the church's features without the harsh glare of midday sun.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider visiting during weekdays, as weekends may attract more visitors, particularly during services or community events.
 

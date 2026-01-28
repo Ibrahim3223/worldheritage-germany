@@ -28,7 +28,7 @@ image_srcset:
 
 St. Markuskirche, located in the Sonnenberg district of Chemnitz, Saxony, Germany, stands as a prominent cultural heritage monument that reflects the architectural and spiritual traditions of the region. This church building not only serves as a place of worship but also as a significant landmark in the local community, offering insights into the historical and cultural fabric of Chemnitz. The church's striking presence is complemented by its historical importance, making it a worthwhile stop for anyone exploring the area's rich heritage.
 
-As you approach St. Markuskirche, you’ll find yourself immersed in the vibrant atmosphere of Sonnenberg, a lively neighborhood known for its blend of historical and contemporary elements. The church serves as a gathering place, fostering a sense of community and continuity amidst the changes brought about by time. Visitors are invited to experience a space that resonates with both spiritual and cultural significance, offering a unique glimpse into the traditions and values upheld by its congregation.
+As you approach St. Markuskirche, you'll find yourself immersed in the vibrant atmosphere of Sonnenberg, a lively neighborhood known for its blend of historical and contemporary elements. The church serves as a gathering place, fostering a sense of community and continuity amidst the changes brought about by time. Visitors are invited to experience a space that resonates with both spiritual and cultural significance, offering a unique glimpse into the traditions and values upheld by its congregation.
 
 ## History and Significance
 
@@ -101,7 +101,7 @@ For detailed accessibility options, check the official website or contact the ch
 Check the official website for information regarding ticket purchases and any associated fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby; it’s best to check the official website for specific information.
+Facilities may be available nearby; it's best to check the official website for specific information.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind the decorum of a place of worship.

@@ -28,7 +28,7 @@ image_srcset:
 
 The Kirche unbefleckte Empfängnis, located in the historic Lutherstadt Wittenberg, Germany, is an exemplary church building that reflects the region's cultural and religious heritage. This church holds significant importance within the local community and is integral to the historical narrative of Wittenberg, a town synonymous with the Reformation and Martin Luther's pivotal role in shaping Protestantism. Visitors to the church will find a space that not only serves as a place of worship but also embodies the spirit of the Renaissance period that flourished in this part of Germany. 
 
-Situated at coordinates 51.8686, 12.6451, the church is easily accessible, allowing both pilgrims and casual travelers to experience its serene atmosphere. With its striking architecture and peaceful ambiance, Kirche unbefleckte Empfängnis is a must-visit for anyone exploring the rich tapestry of Wittenberg’s religious and cultural landscape. As a part of your journey through this historic town, the church promises to provide insight into the spiritual life that has shaped the area for centuries.
+Situated at coordinates 51.8686, 12.6451, the church is easily accessible, allowing both pilgrims and casual travelers to experience its serene atmosphere. With its striking architecture and peaceful ambiance, Kirche unbefleckte Empfängnis is a must-visit for anyone exploring the rich tapestry of Wittenberg's religious and cultural landscape. As a part of your journey through this historic town, the church promises to provide insight into the spiritual life that has shaped the area for centuries.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ While exploring Kirche unbefleckte Empfängnis, you may want to extend your jour
    
 2. **Lutherstadt Wittenberg Castle**: A historical structure that played a significant role in Wittenberg's past, offering exhibitions related to the Reformation and the town's cultural evolution.
 
-3. **St. Mary’s Church**: Another important religious site in Wittenberg, known for its association with Martin Luther and its stunning Gothic architecture.
+3. **St. Mary's Church**: Another important religious site in Wittenberg, known for its association with Martin Luther and its stunning Gothic architecture.
 
 4. **Schlosskirche (Castle Church)**: Famous for its association with Luther's Ninety-Five Theses, this church is a significant pilgrimage site for those interested in Reformation history.
 
@@ -101,7 +101,7 @@ Check the official website for information regarding accessibility options avail
 For current ticket purchasing options, refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms and nearby cafes may be available; it’s best to confirm details on the official website.
+Facilities like restrooms and nearby cafes may be available; it's best to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if planning to explore the surrounding areas.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Zeche Caroline, a significant historical mine located in Holzwickede, Germany, tells the story of coal mining in the region. This site is not only a relic of industrial heritage but also a reflection of the socio-economic transformation that coal mining brought to the area and beyond. As one of the many mines that once flourished in the Ruhr region—an area known for its heavy industry—Zeche Caroline represents the collective memory of a bygone era when coal was at the heart of Germany’s economy.
+Zeche Caroline, a significant historical mine located in Holzwickede, Germany, tells the story of coal mining in the region. This site is not only a relic of industrial heritage but also a reflection of the socio-economic transformation that coal mining brought to the area and beyond. As one of the many mines that once flourished in the Ruhr region—an area known for its heavy industry—Zeche Caroline represents the collective memory of a bygone era when coal was at the heart of Germany's economy.
 
 Visitors to Zeche Caroline can expect more than just an exploration of mining techniques; they will encounter the stories of the workers who dedicated their lives to this demanding trade. The site offers insights into the daily realities of miners, their families, and their communities, allowing for a deeper understanding of the cultural landscape of the Ruhr area. A visit here not only enlightens about the mining processes but also emphasizes the importance of preserving industrial heritage as a means to honor the labor and lives of those who contributed to this vital industry.
 
@@ -50,7 +50,7 @@ Visitors can explore the site at their own pace, appreciating the engineering fe
 
 Reaching Zeche Caroline is straightforward, with various transport options available. Those traveling by car will find that the mine is accessible via the regional road network, while public transport options may also be available, including local buses. Check the official website for current information regarding any transportation specifics.
 
-When planning your visit, it is advisable to check the official website for current hours and prices, as these can vary. The best times to visit are typically during daylight hours when you can fully appreciate the site’s features and surroundings. A visit to Zeche Caroline can generally be completed in a couple of hours, allowing time for contemplation and exploration.
+When planning your visit, it is advisable to check the official website for current hours and prices, as these can vary. The best times to visit are typically during daylight hours when you can fully appreciate the site's features and surroundings. A visit to Zeche Caroline can generally be completed in a couple of hours, allowing time for contemplation and exploration.
 
 Expect a blend of historical insight and a chance to engage with the industrial past of the area. Whether you are a history enthusiast, an architecture admirer, or simply curious about the coal mining industry, Zeche Caroline offers a unique experience that can enrich your understanding of the region's heritage.
 

@@ -32,7 +32,7 @@ The manor not only serves as a physical representation of the region's history b
 
 ## History and Significance
 
-Nustrow Manor's history is intertwined with the broader narrative of German heritage and architecture. While specific historical events may not be documented in detail, the manor's existence as a Herrenhaus signifies its importance in the social and economic landscape of the region. The term "Herrenhaus" typically refers to a manor house that served as a residence for the landowning class, often accompanied by agricultural lands. This tradition reflects the feudal systems that shaped much of Europe’s past, where such houses were centers of local governance and social activity.
+Nustrow Manor's history is intertwined with the broader narrative of German heritage and architecture. While specific historical events may not be documented in detail, the manor's existence as a Herrenhaus signifies its importance in the social and economic landscape of the region. The term "Herrenhaus" typically refers to a manor house that served as a residence for the landowning class, often accompanied by agricultural lands. This tradition reflects the feudal systems that shaped much of Europe's past, where such houses were centers of local governance and social activity.
 
 The significance of Nustrow Manor can also be seen in its role as a symbol of the architectural evolution in Germany. Manor houses like Nustrow were not merely residences; they were also statements of power and prestige. The construction and design of such structures often incorporated elements that highlighted the wealth and influence of their owners. 
 
@@ -76,7 +76,7 @@ To make the most of your visit to Nustrow Manor, consider these insider tips:
 
 - **Crowd Avoidance**: Visiting during the early hours or later in the afternoon may help you avoid larger crowds, allowing for a more intimate experience.
 
-- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the manor’s history and architectural significance. 
+- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the manor's history and architectural significance. 
 
 ## Practical Information
 

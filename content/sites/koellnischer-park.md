@@ -32,11 +32,11 @@ This park not only serves as a recreational space but also holds cultural signif
 
 ## History and Significance
 
-Köllnischer Park is an important part of Berlin's urban fabric, contributing to the city’s commitment to integrating green spaces within its architecture and planning. While specific historical details about the park's establishment are not provided, parks in urban areas like Berlin generally play a crucial role in enhancing quality of life. They offer citizens a place to connect with nature, engage in recreational activities, and foster community interaction.
+Köllnischer Park is an important part of Berlin's urban fabric, contributing to the city's commitment to integrating green spaces within its architecture and planning. While specific historical details about the park's establishment are not provided, parks in urban areas like Berlin generally play a crucial role in enhancing quality of life. They offer citizens a place to connect with nature, engage in recreational activities, and foster community interaction.
 
-The park's proximity to the River Spree suggests a historical relationship with the waterway, which has been vital to Berlin's development. The Spree has long been central to the city’s trade and transportation, and parks along its banks provide essential green corridors that enhance biodiversity and improve air quality. Köllnischer Park stands as part of these efforts, supporting both environmental sustainability and the aesthetic appeal of the area.
+The park's proximity to the River Spree suggests a historical relationship with the waterway, which has been vital to Berlin's development. The Spree has long been central to the city's trade and transportation, and parks along its banks provide essential green corridors that enhance biodiversity and improve air quality. Köllnischer Park stands as part of these efforts, supporting both environmental sustainability and the aesthetic appeal of the area.
 
-As a public park, Köllnischer Park is emblematic of Berlin’s dedication to creating accessible green spaces for all, reflecting broader societal values of inclusivity and community well-being. The park contributes to the cultural landscape of Mitte, an area known for its historical sites, galleries, and vibrant arts scene. 
+As a public park, Köllnischer Park is emblematic of Berlin's dedication to creating accessible green spaces for all, reflecting broader societal values of inclusivity and community well-being. The park contributes to the cultural landscape of Mitte, an area known for its historical sites, galleries, and vibrant arts scene. 
 
 ## Architecture and Features
 
@@ -80,7 +80,7 @@ If you're looking for a peaceful environment, consider bringing a book or journa
 
 When planning your visit to Köllnischer Park, consider bringing essentials such as water, snacks, and a picnic blanket for a comfortable outing. Whether you're enjoying a quiet afternoon or meeting with friends, these items can enhance your experience.
 
-Seasonal considerations are also important. In spring and summer, the park is likely to be lively and full of blooming flowers, while autumn brings a palette of warm colors. Winter may offer a stark beauty, though it’s advisable to dress warmly during colder months.
+Seasonal considerations are also important. In spring and summer, the park is likely to be lively and full of blooming flowers, while autumn brings a palette of warm colors. Winter may offer a stark beauty, though it's advisable to dress warmly during colder months.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Accessibility information is not provided. It is advisable to check the official
 Information on ticket purchases is not specified. For entry fees and ticketing options, consult the official website.
 
 ### Are there restrooms and cafes?
-Details on restrooms and cafes are not mentioned. It’s best to check the official website for amenities available in and around the park.
+Details on restrooms and cafes are not mentioned. It's best to check the official website for amenities available in and around the park.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to walk or spend extended time outdoors. Dress according to the season for optimal comfort.

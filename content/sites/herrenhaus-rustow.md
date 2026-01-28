@@ -38,7 +38,7 @@ Herrenhaus Rustow is characterized by its traditional manor house architecture, 
 
 While specific architectural details about Herrenhaus Rustow are not extensively documented, one can expect to find elements typical of German manor houses, such as ornate doorways, intricate woodwork, and perhaps a well-maintained garden. These features not only enhance the visual appeal of the estate but also provide practical living spaces that cater to both domestic and agricultural needs.
 
-The manor’s historical context is further emphasized by its surroundings, which are likely to include agricultural lands that were once integral to its function. Visitors may appreciate how the architecture interacts with its environment, highlighting the relationship between the house and its agricultural roots.
+The manor's historical context is further emphasized by its surroundings, which are likely to include agricultural lands that were once integral to its function. Visitors may appreciate how the architecture interacts with its environment, highlighting the relationship between the house and its agricultural roots.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While visiting Herrenhaus Rustow, there are several nearby attractions that can 
 
 4. **Sundischen Schlei**: If you venture further, this picturesque waterway offers opportunities for boating and exploring the natural landscape.
 
-5. **St. Mary’s Church**: Located in nearby towns, this church showcases beautiful Gothic architecture and is worth a visit for those interested in religious heritage.
+5. **St. Mary's Church**: Located in nearby towns, this church showcases beautiful Gothic architecture and is worth a visit for those interested in religious heritage.
 
 ## Insider Tips
 
@@ -102,7 +102,7 @@ Check the official website for current information regarding ticket purchasing o
 
 ### Are there restrooms and cafes?
 
-Information on amenities such as restrooms and cafes may be available on the official website; it’s best to check before your visit.
+Information on amenities such as restrooms and cafes may be available on the official website; it's best to check before your visit.
 
 ### What should I wear?
 

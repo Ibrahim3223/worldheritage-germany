@@ -28,7 +28,7 @@ Visitors to this academic center can expect a blend of rigorous scholarship and 
 
 ## History and Significance
 
-The Philipps-Universität Marburg, founded in 1527, is one of Germany's oldest universities and has a storied history of academic excellence. Over the centuries, it has evolved into a prominent institution for various disciplines, including a dedicated focus on the Near and Middle East through its Centrum für Nah- und Mittelost-Studien. This department emphasizes the importance of understanding the cultural, historical, and political contexts of the regions it studies, which are crucial in today’s interconnected world.
+The Philipps-Universität Marburg, founded in 1527, is one of Germany's oldest universities and has a storied history of academic excellence. Over the centuries, it has evolved into a prominent institution for various disciplines, including a dedicated focus on the Near and Middle East through its Centrum für Nah- und Mittelost-Studien. This department emphasizes the importance of understanding the cultural, historical, and political contexts of the regions it studies, which are crucial in today's interconnected world.
 
 The center serves not only as an academic department but also as a platform for fostering dialogue and research on issues pertinent to the Near and Middle East. It represents a commitment to intercultural understanding and scholarly excellence, attracting students and researchers interested in exploring the complexities of these regions. Such academic endeavors are essential in dispelling myths and promoting a nuanced understanding of cultures that are often misrepresented or oversimplified.
 
@@ -46,7 +46,7 @@ Visitors may appreciate the architectural diversity present on campus, which ran
 
 Traveling to Philipps-Universität Marburg's Centrum für Nah- und Mittelost-Studien is relatively straightforward, given its location in the town of Marburg, which is accessible by various modes of transport. The university is well-connected by public transportation, including trains and buses, making it easy for visitors to reach the campus. 
 
-While specific visiting hours and entry details can vary, it’s advisable to check the official website for current information regarding access to the center. Visitors may find that the best times to experience the university and its offerings are during the academic year when the campus is lively with students and faculty.
+While specific visiting hours and entry details can vary, it's advisable to check the official website for current information regarding access to the center. Visitors may find that the best times to experience the university and its offerings are during the academic year when the campus is lively with students and faculty.
 
 A visit typically requires a few hours to explore the center and its surroundings. Engaging with the academic vibe of the university can be enriching, especially for those interested in the subject matter. The atmosphere is often bustling, particularly during lecture times, so planning your visit accordingly can enhance your experience.
 

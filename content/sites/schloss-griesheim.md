@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schloss Griesheim is a distinguished manor house located in the picturesque town of Stadtilm, Germany. This stunning estate is not only a remarkable example of regional architecture but also a significant cultural landmark that echoes the history of the area. The manor’s strategic location in the heart of Germany offers visitors a glimpse into the nation's architectural heritage while providing an opportunity to explore the rich traditions and stories that surround it. As you approach Schloss Griesheim, you are greeted by the elegant lines and classic aesthetic of the building, inviting you to delve deeper into its history and significance. 
+Schloss Griesheim is a distinguished manor house located in the picturesque town of Stadtilm, Germany. This stunning estate is not only a remarkable example of regional architecture but also a significant cultural landmark that echoes the history of the area. The manor's strategic location in the heart of Germany offers visitors a glimpse into the nation's architectural heritage while providing an opportunity to explore the rich traditions and stories that surround it. As you approach Schloss Griesheim, you are greeted by the elegant lines and classic aesthetic of the building, inviting you to delve deeper into its history and significance. 
 
 Visitors to Schloss Griesheim can anticipate an enriching experience, whether they are history enthusiasts, architecture aficionados, or simply seeking a serene retreat. This guide will take you through the history and significance of the manor, its architectural features, practical visiting information, and nearby attractions, ensuring a well-rounded experience at this historic site.
 

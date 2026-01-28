@@ -44,7 +44,7 @@ The museum housing the Karl Gebhardt watch collection is designed to complement 
 
 Inside the museum, each section is thoughtfully curated to showcase different aspects of watchmaking. From the intricate mechanics of vintage watches to the elegant designs of contemporary pieces, the arrangement is intended to provide a comprehensive overview of the evolution of timepieces. Notable features may include interactive displays that allow visitors to gain a deeper understanding of how watches operate, as well as detailed descriptions accompanying each piece to explain its historical context and significance.
 
-The museum’s ambiance is expected to be one of reverence and intrigue, encouraging visitors to appreciate the craftsmanship and artistry behind each timepiece. The careful curation of the collection, combined with a well-designed exhibition space, creates an environment conducive to learning and exploration.
+The museum's ambiance is expected to be one of reverence and intrigue, encouraging visitors to appreciate the craftsmanship and artistry behind each timepiece. The careful curation of the collection, combined with a well-designed exhibition space, creates an environment conducive to learning and exploration.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While visiting the Karl Gebhardt watch collection, consider exploring these near
 
 1. **Nuremberg Castle** - A historic fortress that offers stunning views of the city and insights into the region's medieval past.
    
-2. **Albrecht Dürer’s House** - The former home of the famous painter and printmaker, this museum showcases his life and work, providing a glimpse into the Renaissance period.
+2. **Albrecht Dürer's House** - The former home of the famous painter and printmaker, this museum showcases his life and work, providing a glimpse into the Renaissance period.
    
 3. **Documentation Center Nazi Party Rally Grounds** - An educational site that addresses the history of the Nazi regime and its impact on Germany, fostering critical reflection on the past.
    

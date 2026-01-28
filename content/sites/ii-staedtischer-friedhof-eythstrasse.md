@@ -66,7 +66,7 @@ The Tempelhof-Schöneberg district is rich in attractions that complement a visi
 
 When visiting II. Städtischer Friedhof Eythstraße, consider bringing a camera to capture the beauty of the monuments and the serene atmosphere. Early mornings or late afternoons can provide the best lighting for photography, allowing you to appreciate the intricate details of the gravestones. 
 
-To avoid crowds, consider visiting on weekdays, as weekends may attract more visitors. This timing not only allows for a more reflective experience but also provides opportunities for better engagement with the site’s history.
+To avoid crowds, consider visiting on weekdays, as weekends may attract more visitors. This timing not only allows for a more reflective experience but also provides opportunities for better engagement with the site's history.
 
 ## Practical Information
 

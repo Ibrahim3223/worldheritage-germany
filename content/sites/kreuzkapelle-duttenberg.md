@@ -28,7 +28,7 @@ image_srcset:
 
 Kreuzkapelle Duttenberg is a serene chapel situated in Bad Friedrichshall, Germany, a location that invites visitors to explore its spiritual and cultural significance. This quaint chapel is an embodiment of local heritage and offers a peaceful retreat for reflection and contemplation. The surrounding area is characterized by its lush greenery and tranquil atmosphere, making it an appealing destination for both pilgrims and casual visitors alike.
 
-The chapel is more than just a religious structure; it serves as a focal point for the community and stands as a reminder of the region’s rich traditions and history. Visitors will find that a trip to Kreuzkapelle Duttenberg is not only an opportunity to appreciate its architectural beauty but also a chance to connect with the local culture and spiritual practices.
+The chapel is more than just a religious structure; it serves as a focal point for the community and stands as a reminder of the region's rich traditions and history. Visitors will find that a trip to Kreuzkapelle Duttenberg is not only an opportunity to appreciate its architectural beauty but also a chance to connect with the local culture and spiritual practices.
 
 As you approach the chapel, the setting itself evokes a sense of calm. Whether you are seeking a moment of peace or a deeper understanding of the area's cultural roots, Kreuzkapelle Duttenberg is sure to leave a lasting impression.
 
@@ -112,6 +112,6 @@ Specific information regarding tickets can be found on the official website; it'
 Check the official website for information on nearby facilities, as services may vary in the area.
 
 ### What should I wear?
-Comfortable clothing and shoes are recommended, keeping in mind the weather conditions during your visit. Dress modestly as a mark of respect for the chapel’s spiritual environment.
+Comfortable clothing and shoes are recommended, keeping in mind the weather conditions during your visit. Dress modestly as a mark of respect for the chapel's spiritual environment.
 
 Kreuzkapelle Duttenberg offers a unique opportunity to engage with both the natural beauty and cultural heritage of the Bad Friedrichshall area, making it a worthwhile destination for travelers seeking connection and reflection.

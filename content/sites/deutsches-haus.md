@@ -64,11 +64,11 @@ To enhance the experience, consider visiting during a local event or festival wh
 
 While visiting Deutsches Haus, take the opportunity to explore some nearby attractions that further enrich your experience in Flensburg. Here are a few notable sites:
 
-1. **Flensburg Harbor**: A short distance away, the harbor offers picturesque views and is perfect for a leisurely stroll. The area is dotted with cafés and shops that reflect the city’s maritime history.
+1. **Flensburg Harbor**: A short distance away, the harbor offers picturesque views and is perfect for a leisurely stroll. The area is dotted with cafés and shops that reflect the city's maritime history.
 
-2. **Flensburg Maritime Museum**: Dive deeper into the local maritime heritage at this museum, showcasing artifacts and exhibits related to the city’s seafaring past.
+2. **Flensburg Maritime Museum**: Dive deeper into the local maritime heritage at this museum, showcasing artifacts and exhibits related to the city's seafaring past.
 
-3. **Nikolaikirche**: This historic church, located nearby, features stunning architecture and serves as a reminder of the city’s religious and cultural history.
+3. **Nikolaikirche**: This historic church, located nearby, features stunning architecture and serves as a reminder of the city's religious and cultural history.
 
 4. **Historical Old Town**: Wander through the charming streets of Flensburg's Old Town, where you can admire well-preserved buildings and experience the local atmosphere.
 
@@ -84,7 +84,7 @@ To make the most of your visit to Deutsches Haus, consider the following tips:
 
 ## Practical Information
 
-When planning your visit to Deutsches Haus, it’s wise to consider a few practical details:
+When planning your visit to Deutsches Haus, it's wise to consider a few practical details:
 
 - **What to Bring**: Depending on the event, bring along essentials such as tickets (if applicable), a camera for photos, and perhaps a light jacket in case the venue is cool.
 
@@ -108,10 +108,10 @@ The best time to visit is during events that interest you, especially those that
 Accessibility features should be confirmed on the official website. Most modern venues strive to accommodate all visitors.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary. It’s advisable to check the official website for online ticketing availability and details.
+Ticket purchasing options may vary. It's advisable to check the official website for online ticketing availability and details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafés are typically available on-site, but it’s best to verify on your visit.
+Facilities such as restrooms and cafés are typically available on-site, but it's best to verify on your visit.
 
 ### What should I wear?
 Dress comfortably, considering the nature of the event. If attending a formal performance, smart casual attire is often appropriate.

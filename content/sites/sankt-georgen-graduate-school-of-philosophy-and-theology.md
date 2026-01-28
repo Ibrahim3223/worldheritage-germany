@@ -34,7 +34,7 @@ Situated within Frankfurt, a city renowned for its historical significance and m
 
 Sankt Georgen Graduate School of Philosophy and Theology has its roots in the Jesuit educational tradition, which dates back several centuries. The Jesuit order, known for its commitment to education, founded numerous institutions worldwide, emphasizing the importance of intellectual and moral development. Sankt Georgen continues this legacy by providing a rigorous academic curriculum that explores philosophical and theological questions pertinent to contemporary society.
 
-While specific founding dates and historical milestones are not detailed, the school has evolved to become a pivotal institution in the landscape of higher education in Germany. Its commitment to fostering dialogue between faith and reason reflects the Jesuit approach to education, which encourages a holistic understanding of the human experience. Faculty members are often distinguished scholars and practitioners, contributing to the school’s reputation as a center for critical thought and reflection.
+While specific founding dates and historical milestones are not detailed, the school has evolved to become a pivotal institution in the landscape of higher education in Germany. Its commitment to fostering dialogue between faith and reason reflects the Jesuit approach to education, which encourages a holistic understanding of the human experience. Faculty members are often distinguished scholars and practitioners, contributing to the school's reputation as a center for critical thought and reflection.
 
 The school's significance extends beyond its academic offerings; it plays a vital role in the cultural and spiritual life of the community. By hosting lectures, conferences, and public discussions, Sankt Georgen engages with broader societal issues, making its contributions relevant to both scholars and the public. This engagement reinforces the institution's mission to promote a deeper understanding of philosophical and theological concepts within the context of a rapidly changing world.
 
@@ -64,26 +64,26 @@ While visiting Sankt Georgen, consider exploring some of Frankfurt's nearby attr
 
 3. **Palmengarten**: A beautiful botanical garden offering a peaceful retreat with a variety of plant species, perfect for a leisurely stroll after your visit to the school.
 
-4. **Römer**: This historic building complex serves as Frankfurt's city hall and is an iconic symbol of the city’s medieval architecture, making it a worthwhile stop for history enthusiasts.
+4. **Römer**: This historic building complex serves as Frankfurt's city hall and is an iconic symbol of the city's medieval architecture, making it a worthwhile stop for history enthusiasts.
 
 5. **Museum Embankment (Museumsufer)**: A stretch along the River Main lined with several museums, offering a rich cultural experience and opportunities to delve deeper into art, history, and science.
 
 ## Insider Tips
 
-When visiting Sankt Georgen, photography may be permitted in certain areas but it’s wise to be respectful of the academic environment. If you wish to capture the essence of the campus, consider doing so during quieter hours when there are fewer students around. This not only avoids disruptions but also allows for a more contemplative experience.
+When visiting Sankt Georgen, photography may be permitted in certain areas but it's wise to be respectful of the academic environment. If you wish to capture the essence of the campus, consider doing so during quieter hours when there are fewer students around. This not only avoids disruptions but also allows for a more contemplative experience.
 
 To avoid crowds, plan your visit during weekdays, particularly in the morning. This timing can offer a more intimate experience of the school's atmosphere and may provide opportunities to engage directly with faculty or attend smaller lectures.
 
 ## Practical Information
 
-When planning your visit to Sankt Georgen, it’s essential to consider a few practicalities. Comfortable walking shoes are recommended, as you may explore the campus and surrounding areas. Additionally, bringing a notebook or digital device can be useful for jotting down thoughts or ideas sparked by your visit.
+When planning your visit to Sankt Georgen, it's essential to consider a few practicalities. Comfortable walking shoes are recommended, as you may explore the campus and surrounding areas. Additionally, bringing a notebook or digital device can be useful for jotting down thoughts or ideas sparked by your visit.
 
 Seasonal considerations can also play a role in your experience. Spring and fall may offer milder weather, making it a pleasant time to explore both the school and nearby outdoor attractions. Checking the official website for any seasonal events or changes in visiting hours will ensure a smooth experience.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of 2-3 hours is generally sufficient to explore the campus, attend any available lectures, and engage with the school’s offerings.
+A visit of 2-3 hours is generally sufficient to explore the campus, attend any available lectures, and engage with the school's offerings.
 
 ### Is photography allowed?
 Photography policies can vary, so it's advisable to check with the school upon arrival or on their official website regarding specific guidelines.

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Nuremberg, Germany, the Albrecht-Dürer-Denkmal stands as a tribute to one of the most influential figures in Northern Renaissance art. This memorial, located at Albrecht-Dürer-Platz, not only honors the renowned painter and engraver Albrecht Dürer but also serves as a focal point in a city rich with artistic and historical significance. The monument captures both the essence of Dürer’s legacy and the spirit of the city he called home, making it a must-see for art enthusiasts and history buffs alike.
+In the heart of Nuremberg, Germany, the Albrecht-Dürer-Denkmal stands as a tribute to one of the most influential figures in Northern Renaissance art. This memorial, located at Albrecht-Dürer-Platz, not only honors the renowned painter and engraver Albrecht Dürer but also serves as a focal point in a city rich with artistic and historical significance. The monument captures both the essence of Dürer's legacy and the spirit of the city he called home, making it a must-see for art enthusiasts and history buffs alike.
 
-Visitors to this notable site will find themselves immersed in a vibrant atmosphere, surrounded by the bustling life of Nuremberg. The memorial is not just an artistic tribute; it also reflects the city's deep-rooted connection to its cultural icons. Those who take the time to explore this landmark will discover a layered history that intertwines Dürer’s life with the broader narrative of Nuremberg’s evolution as a center of art and commerce in the Renaissance. 
+Visitors to this notable site will find themselves immersed in a vibrant atmosphere, surrounded by the bustling life of Nuremberg. The memorial is not just an artistic tribute; it also reflects the city's deep-rooted connection to its cultural icons. Those who take the time to explore this landmark will discover a layered history that intertwines Dürer's life with the broader narrative of Nuremberg's evolution as a center of art and commerce in the Renaissance. 
 
 As you approach the Albrecht-Dürer-Denkmal, prepare to be captivated by the artistry of the monument and the significance it holds within the context of Nuremberg's historical landscape.
 
@@ -36,7 +36,7 @@ As you approach the Albrecht-Dürer-Denkmal, prepare to be captivated by the art
 
 Albrecht Dürer, born in 1471, is regarded as one of the greatest artists of the Northern Renaissance. His work, characterized by meticulous detail and innovative techniques, played a pivotal role in elevating the status of printmaking and painting in Europe. The Albrecht-Dürer-Denkmal was erected to honor his contributions and legacy, further solidifying his importance in the history of art.
 
-The memorial serves as a reminder of Nuremberg's vibrant artistic heritage. During Dürer's lifetime, the city was a cultural hub, attracting artists, scholars, and merchants. Dürer’s work encompassed a variety of styles and mediums, and he was known for his self-portraits, which brought a new level of personal expression to art. The monument stands in a location that links Dürer to his native city, emphasizing his role as a central figure in its cultural narrative.
+The memorial serves as a reminder of Nuremberg's vibrant artistic heritage. During Dürer's lifetime, the city was a cultural hub, attracting artists, scholars, and merchants. Dürer's work encompassed a variety of styles and mediums, and he was known for his self-portraits, which brought a new level of personal expression to art. The monument stands in a location that links Dürer to his native city, emphasizing his role as a central figure in its cultural narrative.
 
 In addition to its artistic significance, the memorial reflects the broader historical context of Nuremberg. The city has a storied past, marked by its role in the Holy Roman Empire and later as a center for the arts during the Renaissance. The Albrecht-Dürer-Denkmal not only commemorates the artist but also symbolizes the enduring legacy of the city as a center of innovation and creativity.
 
@@ -46,7 +46,7 @@ The Albrecht-Dürer-Denkmal is an impressive structure that embodies the artistr
 
 Surrounding the statue are elements that enhance its significance, including inscriptions and decorative motifs that celebrate Dürer's life and contributions to the arts. The memorial is designed to integrate harmoniously into the square, inviting visitors to not only admire the statue but also to engage with the surrounding environment, which is rich in history.
 
-The placement of the memorial within Albrecht-Dürer-Platz is strategic, as it allows for easy access and visibility. The square itself often hosts various cultural events and activities, further connecting Dürer’s legacy to contemporary artistic expression in Nuremberg.
+The placement of the memorial within Albrecht-Dürer-Platz is strategic, as it allows for easy access and visibility. The square itself often hosts various cultural events and activities, further connecting Dürer's legacy to contemporary artistic expression in Nuremberg.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ The best times to visit are during the spring and summer months when the weather
 
 Nuremberg is brimming with attractions that complement a visit to the Albrecht-Dürer-Denkmal:
 
-1. **Nuremberg Castle**: Just a short walk away, this medieval fortress offers insights into the city’s history and stunning views of the surrounding area.
+1. **Nuremberg Castle**: Just a short walk away, this medieval fortress offers insights into the city's history and stunning views of the surrounding area.
 
 2. **Germanisches Nationalmuseum**: This museum houses an extensive collection of artworks and artifacts that reflect the cultural history of the German-speaking world.
 

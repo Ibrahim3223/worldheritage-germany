@@ -70,7 +70,7 @@ Additionally, check if there are any special tasting events or promotions, which
 
 When visiting Brauhaus am Kreuzberg, it's advisable to wear comfortable clothing and shoes, especially if you plan to engage in any outdoor activities post-visit. Seasonal considerations should also be kept in mind; for instance, if visiting during colder months, dress warmly, as brewery interiors can vary in temperature. 
 
-It’s also a good idea to bring a reusable water bottle to stay hydrated, especially if sampling a variety of beers. Lastly, consider bringing a small bag for any souvenirs or local products you might wish to take home.
+It's also a good idea to bring a reusable water bottle to stay hydrated, especially if sampling a variety of beers. Lastly, consider bringing a small bag for any souvenirs or local products you might wish to take home.
 
 ## Frequently Asked Questions
 
@@ -87,7 +87,7 @@ Check the official website for information on guided tour availability, as these
 Weekdays generally offer a quieter experience, while weekends can be more vibrant. It ultimately depends on your personal preference for atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check in advance for specific accommodations.
+Accessibility features may be available, but it's advisable to check in advance for specific accommodations.
 
 ### Can I buy tickets online?
 For the most accurate information regarding ticket purchases, check the official website prior to your visit.

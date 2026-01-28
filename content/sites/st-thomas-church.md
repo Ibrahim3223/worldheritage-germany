@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Thomas Church, located in the vibrant city of Leipzig, Germany, serves not only as a place of worship but also as a significant cultural landmark. This Lutheran church is renowned for its connections to the famous composer Johann Sebastian Bach, who was the church's music director in the early 18th century. Its importance extends beyond its ecclesiastical functions, as it has played a vital role in the city’s history and in the development of music in Germany.
+St. Thomas Church, located in the vibrant city of Leipzig, Germany, serves not only as a place of worship but also as a significant cultural landmark. This Lutheran church is renowned for its connections to the famous composer Johann Sebastian Bach, who was the church's music director in the early 18th century. Its importance extends beyond its ecclesiastical functions, as it has played a vital role in the city's history and in the development of music in Germany.
 
 As you approach St. Thomas Church, the striking architecture draws the eye, hinting at the church's storied past and significance in the community. Visitors are welcomed into a space that has been a center of Lutheran worship for centuries, where the echoes of Bach's compositions still resonate. The church is not only a site of spiritual reflection but also a gathering place for cultural events, making it a must-visit destination for history and music enthusiasts alike.
 
@@ -52,7 +52,7 @@ In addition to the organ, the church houses several notable memorials and artwor
 
 St. Thomas Church is conveniently located in the heart of Leipzig, making it easily accessible for visitors. The church is well-connected by public transportation, including trams and buses, which serve the surrounding areas of the city. When planning your visit, it is advisable to check the official website for current information on opening hours and ticket prices, as these may vary throughout the year.
 
-Upon arrival, guests can expect a warm welcome and a tranquil atmosphere, ideal for reflection and exploration. It is recommended to allocate sufficient time to fully appreciate the church’s architecture and its historical significance. A visit typically lasts around one to two hours, depending on your interest in the musical heritage and guided tours available.
+Upon arrival, guests can expect a warm welcome and a tranquil atmosphere, ideal for reflection and exploration. It is recommended to allocate sufficient time to fully appreciate the church's architecture and its historical significance. A visit typically lasts around one to two hours, depending on your interest in the musical heritage and guided tours available.
 
 The best times to visit St. Thomas Church are during the weekdays when it tends to be less crowded. However, attending a concert or service can provide a unique experience, as you will witness the church come alive with music, a testament to its enduring legacy in the world of classical music.
 
@@ -76,7 +76,7 @@ To make the most of your visit to St. Thomas Church, consider these insider tips
 
 - **Photography**: While photography is generally permitted, be respectful of worshippers and events. Early mornings or late afternoons can provide excellent lighting for interior shots.
 
-- **Crowd Avoidance**: To avoid crowds, visit early in the morning or during weekdays. If you’d like to experience the church during a service, check the schedule ahead of time.
+- **Crowd Avoidance**: To avoid crowds, visit early in the morning or during weekdays. If you'd like to experience the church during a service, check the schedule ahead of time.
 
 ## Practical Information
 
@@ -93,7 +93,7 @@ A visit to St. Thomas Church typically takes about one to two hours, allowing ti
 Yes, photography is generally permitted, but please be mindful of worshippers and any ongoing services.
 
 ### Are there guided tours?
-Yes, guided tours may be available, providing deeper insights into the church’s history and architectural features.
+Yes, guided tours may be available, providing deeper insights into the church's history and architectural features.
 
 ### What's the best time to visit?
 Weekdays, particularly early mornings, are ideal for a quieter experience. Check for concert schedules if you wish to attend a musical event.
@@ -105,7 +105,7 @@ Check the official website for detailed accessibility information regarding whee
 For current ticketing options, check the official website to see if online purchases are available.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available, but it’s advisable to check the church or nearby locations for food and drink options.
+Restroom facilities are typically available, but it's advisable to check the church or nearby locations for food and drink options.
 
 ### What should I wear?
 Dress modestly, especially if attending a service or concert. Comfortable clothing and footwear are recommended due to the potential for walking during your visit.

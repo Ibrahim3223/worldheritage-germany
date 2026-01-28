@@ -60,7 +60,7 @@ While visiting Palais Vitzthum-Schönburg, there are several nearby attractions 
 
 1. **Zwinger Palace**: A short distance from the Palais, Zwinger Palace is an architectural masterpiece of Baroque design, housing numerous museums and galleries.
 
-2. **Dresden Frauenkirche**: This iconic church, known for its stunning dome, plays a significant role in Dresden's skyline and is a symbol of the city’s resilience.
+2. **Dresden Frauenkirche**: This iconic church, known for its stunning dome, plays a significant role in Dresden's skyline and is a symbol of the city's resilience.
 
 3. **Semperoper**: The renowned opera house of Dresden, Semperoper is celebrated for its exceptional performances and opulent architecture.
 

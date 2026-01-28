@@ -50,7 +50,7 @@ In terms of recreational features, Partwitzer See supports various water activit
 
 Partwitzer See is accessible via various transportation options, making it easy for visitors to plan their trip. Depending on your starting point, driving to the lake may be the most convenient option, as it allows for flexibility in exploring the area. Public transport options may also be available, but checking the official website for current information on routes and schedules is advisable.
 
-When visiting Partwitzer See, it’s important to check the official website for hours and any potential fees associated with activities. While the lake is open for public enjoyment, certain facilities may have specific operational hours. It’s recommended to allocate a few hours to fully appreciate the natural beauty and engage in activities such as swimming, hiking, or simply relaxing by the water.
+When visiting Partwitzer See, it's important to check the official website for hours and any potential fees associated with activities. While the lake is open for public enjoyment, certain facilities may have specific operational hours. It's recommended to allocate a few hours to fully appreciate the natural beauty and engage in activities such as swimming, hiking, or simply relaxing by the water.
 
 The best time to visit Partwitzer See is during the warmer months, when outdoor activities are most enjoyable. Spring and summer offer pleasant weather conditions that are ideal for swimming and picnicking. Autumn also presents a unique charm, with colorful foliage surrounding the lake, making it a picturesque setting for walks and photography.
 
@@ -84,7 +84,7 @@ Seasonal considerations include checking the weather forecast prior to your visi
 A visit to Partwitzer See can typically last anywhere from a few hours to a full day, depending on your interests in activities such as swimming, hiking, or picnicking.
 
 ### Is photography allowed?
-Yes, photography is encouraged, especially during sunrise and sunset to capture the lake’s natural beauty.
+Yes, photography is encouraged, especially during sunrise and sunset to capture the lake's natural beauty.
 
 ### Are there guided tours?
 Currently, specific guided tours may not be available. However, exploring the area independently allows for a personalized experience of the lake and its surroundings.

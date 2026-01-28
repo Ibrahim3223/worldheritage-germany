@@ -30,7 +30,7 @@ Schabbellhaus, located in the historic town of Wismar, Germany, serves as a muse
 
 Wismar, situated along the Baltic Sea, is a city characterized by its well-preserved medieval architecture and vibrant maritime history. The Schabbellhaus contributes to this narrative, offering insights into the local customs, crafts, and daily life that defined the area through the centuries. As a part of Wismar's cultural landscape, the museum plays a vital role in preserving and interpreting the town's heritage for both locals and visitors alike.
 
-The museum's significance extends beyond its collections; it is also a place of community engagement, drawing people together to celebrate and learn about their shared history. With its central location and historical relevance, Schabbellhaus invites visitors to explore not only its exhibits but also to appreciate the broader context of Wismar’s storied past.
+The museum's significance extends beyond its collections; it is also a place of community engagement, drawing people together to celebrate and learn about their shared history. With its central location and historical relevance, Schabbellhaus invites visitors to explore not only its exhibits but also to appreciate the broader context of Wismar's storied past.
 
 ## History and Significance
 
@@ -42,9 +42,9 @@ In addition to its exhibits, the museum often hosts events, workshops, and lectu
 
 ## Architecture and Features
 
-The architecture of Schabbellhaus reflects the historical context of Wismar, showcasing elements typical of the period in which it was built. The building’s design is characterized by traditional features that speak to its significance as both a residence and a museum. While specific architectural details may not be provided, visitors can expect to see elements that are common in structures from Wismar’s medieval era, such as timber-framed construction, intricate facades, and perhaps even remnants of original interiors that evoke the atmosphere of its past.
+The architecture of Schabbellhaus reflects the historical context of Wismar, showcasing elements typical of the period in which it was built. The building's design is characterized by traditional features that speak to its significance as both a residence and a museum. While specific architectural details may not be provided, visitors can expect to see elements that are common in structures from Wismar's medieval era, such as timber-framed construction, intricate facades, and perhaps even remnants of original interiors that evoke the atmosphere of its past.
 
-Inside the museum, the layout is thoughtfully arranged to facilitate the exploration of various exhibits. Rooms may be dedicated to different aspects of Wismar’s history, allowing visitors to engage with the displays at their own pace. The museum's design prioritizes accessibility and visitor comfort, ensuring that each exhibit is both informative and inviting.
+Inside the museum, the layout is thoughtfully arranged to facilitate the exploration of various exhibits. Rooms may be dedicated to different aspects of Wismar's history, allowing visitors to engage with the displays at their own pace. The museum's design prioritizes accessibility and visitor comfort, ensuring that each exhibit is both informative and inviting.
 
 Notable features of Schabbellhaus may include interactive displays or educational resources that enhance the visitor experience. Special exhibitions could be a highlight, showcasing unique aspects of local culture or temporary collections that draw attention to specific historical events or artistic movements. Overall, the blend of historical architecture and engaging exhibits makes Schabbellhaus a noteworthy destination for anyone interested in the heritage of Wismar.
 
@@ -78,9 +78,9 @@ For those planning a visit to Schabbellhaus, here are some insider tips to enhan
 
 - **Avoiding Crowds**: To enjoy a more tranquil visit, consider arriving early in the day or later in the afternoon, especially on weekdays. This can help you avoid larger groups and provide a more intimate experience with the exhibits.
 
-- **Engage with Staff**: The museum staff can be a valuable resource. Don’t hesitate to ask questions or seek recommendations for specific exhibits or local attractions.
+- **Engage with Staff**: The museum staff can be a valuable resource. Don't hesitate to ask questions or seek recommendations for specific exhibits or local attractions.
 
-- **Plan for Events**: Check the museum's calendar for any special events or workshops that may coincide with your visit. Participating in these can provide deeper insights into Wismar’s culture and history.
+- **Plan for Events**: Check the museum's calendar for any special events or workshops that may coincide with your visit. Participating in these can provide deeper insights into Wismar's culture and history.
 
 ## Practical Information
 
@@ -110,7 +110,7 @@ Visiting during weekdays or early in the morning can help avoid larger crowds, p
 To confirm accessibility options, check the official website or contact the museum directly prior to your visit.
 
 ### Can I buy tickets online?
-Details regarding online ticket purchases can be found on the museum’s official website.
+Details regarding online ticket purchases can be found on the museum's official website.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site. For dining, explore nearby cafes and restaurants in the town.

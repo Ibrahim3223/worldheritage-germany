@@ -74,7 +74,7 @@ To avoid crowds, try to visit during weekday mornings. This is often when the mu
 
 ## Practical Information
 
-When planning your visit, it’s wise to bring along essentials such as water, comfortable walking shoes, and a light jacket, as the museum environment can be cooler than expected. Seasonal considerations, such as weather and local events, may affect your visit, so checking the forecast beforehand is advisable.
+When planning your visit, it's wise to bring along essentials such as water, comfortable walking shoes, and a light jacket, as the museum environment can be cooler than expected. Seasonal considerations, such as weather and local events, may affect your visit, so checking the forecast beforehand is advisable.
 
 If you are traveling with family, consider packing snacks for younger visitors, as dining options may not be immediately available near the museum. Make sure to check the official website for any seasonal events or special exhibitions that may enhance your experience.
 

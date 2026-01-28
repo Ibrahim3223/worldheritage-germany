@@ -36,13 +36,13 @@ Limpurg Castle's history is deeply intertwined with the development of the Schw�
 
 As a stronghold, Limpurg was not just a military fortress but also a residence for nobility, playing a crucial role in the power dynamics of the region. Castles like Limpurg were essential for controlling surrounding lands, collecting taxes, and providing security for inhabitants. The architecture and layout of the castle are indicative of the feudal system that characterized medieval Europe, where the nobility maintained power over their vassals.
 
-The cultural significance of Limpurg transcends its architectural features. It is a symbol of the historical lineage and heritage of the local community. Over the centuries, the castle has witnessed numerous events that shaped the region’s societal structure. Today, it stands as a reminder of the past, inviting visitors to reflect on the legacy of the noble families that once inhabited it. The castle's preservation allows for an appreciation of historical architecture and medieval life, making it a key site for heritage tourism.
+The cultural significance of Limpurg transcends its architectural features. It is a symbol of the historical lineage and heritage of the local community. Over the centuries, the castle has witnessed numerous events that shaped the region's societal structure. Today, it stands as a reminder of the past, inviting visitors to reflect on the legacy of the noble families that once inhabited it. The castle's preservation allows for an appreciation of historical architecture and medieval life, making it a key site for heritage tourism.
 
 ## Architecture and Features
 
 Limpurg Castle showcases distinct architectural features typical of medieval fortifications. The castle's design includes robust stone walls, which were essential for defense against intruders. Visitors can observe the careful construction techniques that have allowed the structure to endure over time.
 
-One of the notable aspects of Limpurg is its layout, which includes various towers and battlements that enhance its defensive capabilities. The towers not only served as lookout points but also as symbols of power, accentuating the castle’s stature within the feudal hierarchy. The architectural style reflects the evolution of castle design in Germany, characterized by both functionality and aesthetic appeal.
+One of the notable aspects of Limpurg is its layout, which includes various towers and battlements that enhance its defensive capabilities. The towers not only served as lookout points but also as symbols of power, accentuating the castle's stature within the feudal hierarchy. The architectural style reflects the evolution of castle design in Germany, characterized by both functionality and aesthetic appeal.
 
 The castle's interior spaces, though less documented, typically included halls, living quarters, and storage rooms that were vital for the daily lives of its inhabitants. The remnants of these areas offer insights into the lifestyle of the nobility during the medieval period. 
 
@@ -82,7 +82,7 @@ When planning your visit to Limpurg Castle, consider bringing comfortable walkin
 
 Seasonal considerations are important as well. If visiting in colder months, dressing warmly is essential, while in summer, lightweight clothing and sun protection are advisable due to potential exposure during outdoor exploration.
 
-Restrooms and refreshment options can vary, so it’s wise to check the official website for details on facilities available on-site.
+Restrooms and refreshment options can vary, so it's wise to check the official website for details on facilities available on-site.
 
 ## Frequently Asked Questions
 

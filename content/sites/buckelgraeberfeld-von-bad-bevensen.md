@@ -88,7 +88,7 @@ For those planning a visit to the Buckelgräberfeld von Bad Bevensen, here are s
 
 ## Practical Information
 
-When visiting the Buckelgräberfeld von Bad Bevensen, it’s important to consider a few practical aspects to ensure an enjoyable experience:
+When visiting the Buckelgräberfeld von Bad Bevensen, it's important to consider a few practical aspects to ensure an enjoyable experience:
 
 - **What to Bring**: Comfortable walking shoes are essential for navigating the site, along with water and snacks for a refreshing break. A camera or smartphone is also recommended for capturing the mounds and landscape.
 
@@ -117,7 +117,7 @@ Check the official website for specific details regarding accessibility, as the 
 Check the official website for information on ticketing options and availability.
 
 ### Are there restrooms and cafes?
-Information regarding facilities such as restrooms and cafes may vary. It’s advisable to check the official website for the latest updates.
+Information regarding facilities such as restrooms and cafes may vary. It's advisable to check the official website for the latest updates.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended for walking around the site. Dressing in layers is also advisable due to changing weather conditions.

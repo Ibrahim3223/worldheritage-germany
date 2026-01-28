@@ -59,7 +59,7 @@ The best times to visit are typically during the spring and autumn months, when 
 While visiting the Ehemaliges Rathaus und Schule, there are several nearby attractions worth exploring:
 
 1. **Haiger Castle**: A historical site offering insights into the region's past, with picturesque views and a rich history.
-2. **St. Mary’s Church**: A beautiful church nearby that showcases local ecclesiastical architecture.
+2. **St. Mary's Church**: A beautiful church nearby that showcases local ecclesiastical architecture.
 3. **The Haiger Stadtmuseum**: A museum dedicated to the history of Haiger, featuring exhibits that delve into local heritage and culture.
 4. **The Rothaar Mountains**: A natural area nearby, perfect for hiking and enjoying the beautiful landscapes of Hesse.
 

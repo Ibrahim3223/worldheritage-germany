@@ -50,7 +50,7 @@ Notably, Plästerlegge serves as a reminder of nature's power and artistry, with
 
 Visiting Plästerlegge is a rewarding experience, with access options available for various modes of transportation. It is advisable to check the official website for current information regarding transportation, as well as the hours of operation and any potential entrance fees. 
 
-When planning a visit, it’s helpful to allocate sufficient time to fully enjoy the area. Depending on individual interests—whether it be photography, hiking, or simply relaxing by the water—visitors may choose to spend anywhere from a couple of hours to a full day at Plästerlegge. 
+When planning a visit, it's helpful to allocate sufficient time to fully enjoy the area. Depending on individual interests—whether it be photography, hiking, or simply relaxing by the water—visitors may choose to spend anywhere from a couple of hours to a full day at Plästerlegge. 
 
 The best times to visit are during the warmer months when the surrounding nature is in full bloom, and the waterfall is at its most impressive. However, even in cooler seasons, the waterfall retains its charm, and the surrounding forest offers a tranquil environment for those seeking solitude.
 

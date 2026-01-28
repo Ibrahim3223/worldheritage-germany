@@ -38,7 +38,7 @@ As a relatively small chapel, Pietàkapelle may not attract the same attention a
 
 ## Architecture and Features
 
-Pietàkapelle is a fine example of neogothic architecture, characterized by its use of brick, which provides a sturdy yet elegant appearance. The chapel’s design features pointed arches and intricate detailing, typical of the neogothic style that became popular in the 19th century. The use of brick is particularly notable, highlighting the local resources available to craftsmen of the time.
+Pietàkapelle is a fine example of neogothic architecture, characterized by its use of brick, which provides a sturdy yet elegant appearance. The chapel's design features pointed arches and intricate detailing, typical of the neogothic style that became popular in the 19th century. The use of brick is particularly notable, highlighting the local resources available to craftsmen of the time.
 
 While specific interior details are not extensively documented, neogothic chapels often include elements such as stained glass windows, vaulted ceilings, and ornate altars, which contribute to a serene and uplifting environment. Visitors to Pietàkapelle may find these features present, inviting contemplation and reflection.
 
@@ -74,7 +74,7 @@ To avoid potential crowds, consider visiting during weekdays rather than weekend
 
 ## Practical Information
 
-When planning your visit to Pietàkapelle, it’s advisable to wear comfortable shoes, as the surrounding area may involve some walking. Depending on the season, layering your clothing can help accommodate changing weather conditions, particularly in early spring and late autumn.
+When planning your visit to Pietàkapelle, it's advisable to wear comfortable shoes, as the surrounding area may involve some walking. Depending on the season, layering your clothing can help accommodate changing weather conditions, particularly in early spring and late autumn.
 
 Visitors are encouraged to bring water and snacks, especially if planning to explore the nearby trails or the village center. Seasonal festivals or local events may also take place in the area, potentially offering unique experiences alongside your visit to the chapel.
 

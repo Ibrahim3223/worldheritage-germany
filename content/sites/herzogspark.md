@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Located in Germany, Herzogspark is a botanical garden that invites nature enthusiasts, families, and curious travelers alike to explore its lush landscapes and curated flora. This serene green space serves not just as a retreat from urban life, but also as a place of learning about plant diversity and conservation. The garden’s design and careful plant selection create a harmonious environment, offering visitors an opportunity to unwind while appreciating the beauty of nature.
+Located in Germany, Herzogspark is a botanical garden that invites nature enthusiasts, families, and curious travelers alike to explore its lush landscapes and curated flora. This serene green space serves not just as a retreat from urban life, but also as a place of learning about plant diversity and conservation. The garden's design and careful plant selection create a harmonious environment, offering visitors an opportunity to unwind while appreciating the beauty of nature.
 
 The significance of Herzogspark lies in its dedication to preserving various plant species and providing a tranquil space for reflection and enjoyment. Whether you are an avid gardener or simply seeking a peaceful stroll, the garden offers a well-maintained oasis that reflects the natural beauty of the region. With its accessible location, Herzogspark is a perfect destination for both local residents and tourists looking to experience the flora of Germany.
 

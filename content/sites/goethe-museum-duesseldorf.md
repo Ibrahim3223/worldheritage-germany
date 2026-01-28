@@ -97,7 +97,7 @@ A visit typically takes around one to two hours, allowing sufficient time to exp
 Photography policies may vary, so it's best to check with the museum upon arrival to understand the rules regarding photography within the exhibitions.
 
 ### Are there guided tours?
-Guided tours may be available, providing an in-depth exploration of the museum’s collections and insights into Goethe's life and work.
+Guided tours may be available, providing an in-depth exploration of the museum's collections and insights into Goethe's life and work.
 
 ### What's the best time to visit?
 Visiting during weekdays, particularly in the morning or early afternoon, can help avoid larger crowds and enhance your experience.

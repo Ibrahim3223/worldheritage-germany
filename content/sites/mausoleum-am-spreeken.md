@@ -34,7 +34,7 @@ The architectural style may also reflect the broader trends of its time, as maus
 
 The Mausoleum am Spreeken features a design that likely encapsulates the architectural trends prevalent during its time of construction. While specific architectural details are not provided, mausoleums often include elements such as domes, columns, and intricate stonework, all of which contribute to their solemn yet dignified presence. 
 
-Visitors can expect to see carefully crafted facades that may reflect the artistry and craftsmanship characteristic of the era. Details such as inscriptions, ornamental carvings, and possibly even stained glass could be present, each adding to the narrative of the mausoleum and its purpose. The structure’s overall design aims to provide a tranquil space for reflection, with a layout that encourages visitors to pause and consider the significance of the lives commemorated within.
+Visitors can expect to see carefully crafted facades that may reflect the artistry and craftsmanship characteristic of the era. Details such as inscriptions, ornamental carvings, and possibly even stained glass could be present, each adding to the narrative of the mausoleum and its purpose. The structure's overall design aims to provide a tranquil space for reflection, with a layout that encourages visitors to pause and consider the significance of the lives commemorated within.
 
 The surrounding environment, while not specifically described, typically complements such structures, often featuring landscaped gardens or serene paths that enhance the atmosphere of remembrance. These elements work together to create a contemplative setting for those who visit.
 
@@ -62,7 +62,7 @@ When visiting the Mausoleum am Spreeken, consider bringing a camera to capture t
 
 ## Practical Information
 
-Before your visit, it’s advisable to bring along essentials such as water, comfortable walking shoes, and perhaps a light jacket, depending on the season. Weather can influence your experience, so checking the forecast ahead of time is a wise choice. The site may be best appreciated during pleasant weather, allowing you to spend time outside in the surrounding area as well.
+Before your visit, it's advisable to bring along essentials such as water, comfortable walking shoes, and perhaps a light jacket, depending on the season. Weather can influence your experience, so checking the forecast ahead of time is a wise choice. The site may be best appreciated during pleasant weather, allowing you to spend time outside in the surrounding area as well.
 
 ## Frequently Asked Questions
 
@@ -70,7 +70,7 @@ Before your visit, it’s advisable to bring along essentials such as water, com
 A visit to the Mausoleum am Spreeken typically takes around an hour, allowing time for reflection and exploration of the site.
 
 ### Is photography allowed?
-Generally, photography is permitted, but it’s best to be respectful of the atmosphere and the purpose of the site.
+Generally, photography is permitted, but it's best to be respectful of the atmosphere and the purpose of the site.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours or any scheduled events that may enhance your visit.
@@ -85,7 +85,7 @@ Accessibility information is not specified; check the official website for detai
 For ticketing information, including potential online purchases, refer to the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities and nearby cafes may not be detailed; it’s advisable to check the official website for visitor amenities.
+Restroom facilities and nearby cafes may not be detailed; it's advisable to check the official website for visitor amenities.
 
 ### What should I wear?
 Casual and comfortable clothing is recommended, keeping in mind the weather and the respectful nature of the site.

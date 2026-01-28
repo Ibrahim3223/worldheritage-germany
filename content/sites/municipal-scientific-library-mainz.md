@@ -108,7 +108,7 @@ Midweek or early morning visits are often ideal for a quieter experience, but ch
 While specific accessibility features are not detailed here, most modern libraries strive to be accessible. Confirm details on the official website.
 
 ### Can I buy tickets online?
-For any entrance fees or special events, it’s best to check the library's official website for the latest information on ticketing options.
+For any entrance fees or special events, it's best to check the library's official website for the latest information on ticketing options.
 
 ### Are there restrooms and cafes?
 There are likely restroom facilities within the library. For cafes or food options, check nearby areas for convenient dining options.

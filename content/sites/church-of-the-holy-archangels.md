@@ -68,7 +68,7 @@ Expect to spend around an hour at the church to fully absorb its atmosphere and 
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon provides the best lighting for capturing the church’s architecture and surrounding scenery. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. Engaging with local residents can enhance your experience and provide insights into the church’s role in the community.
+For photography enthusiasts, early morning or late afternoon provides the best lighting for capturing the church's architecture and surrounding scenery. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. Engaging with local residents can enhance your experience and provide insights into the church's role in the community.
 
 ## Practical Information
 
@@ -91,7 +91,7 @@ Information regarding guided tours may vary; check the official website for deta
 Visiting during weekdays or off-peak seasons often allows for a more tranquil experience.
 
 ### Is it wheelchair accessible?
-Accessibility information isn’t specified; it’s best to check directly with the church for details.
+Accessibility information isn't specified; it's best to check directly with the church for details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and any associated costs.

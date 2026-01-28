@@ -26,7 +26,7 @@ Döbeln, a town with a rich history dating back to the Middle Ages, provides a f
 
 ## History and Significance
 
-The Metall- und Lackwarenfabrik Johannes Großfuß stands as a significant representation of Germany’s industrial development, particularly in the metalworking sector. The factory's establishment marked a pivotal moment in the advancement of manufacturing techniques and the economy of Döbeln. Factories like Großfuß played a crucial role in the region's transition from agrarian practices to industrialized production.
+The Metall- und Lackwarenfabrik Johannes Großfuß stands as a significant representation of Germany's industrial development, particularly in the metalworking sector. The factory's establishment marked a pivotal moment in the advancement of manufacturing techniques and the economy of Döbeln. Factories like Großfuß played a crucial role in the region's transition from agrarian practices to industrialized production.
 
 The factory specialized in producing metal and lacquer goods, which were essential in various sectors, contributing to both local and broader markets. The presence of such a facility not only provided employment opportunities for the local population but also facilitated the transfer of skills and technologies. This aspect underscores the factory's cultural importance, as it became intertwined with the identities of those who worked there.
 
@@ -66,7 +66,7 @@ While visiting the Metall- und Lackwarenfabrik Johannes Großfuß, take advantag
 
 For those planning a visit, consider timing your trip during weekdays to avoid potential crowds, especially if the factory is hosting any events or educational programs. Early morning visits can provide a quieter atmosphere for reflection and exploration.
 
-Photography enthusiasts should take advantage of the factory's unique industrial aesthetic. However, always be mindful of signage regarding photography restrictions. Capturing the interplay of natural light in the factory’s interior can yield striking images.
+Photography enthusiasts should take advantage of the factory's unique industrial aesthetic. However, always be mindful of signage regarding photography restrictions. Capturing the interplay of natural light in the factory's interior can yield striking images.
 
 ## Practical Information
 

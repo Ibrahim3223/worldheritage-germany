@@ -64,7 +64,7 @@ While visiting the Synagoge in Floß, there are several nearby attractions worth
 
 3. **Naturpark Oberpfälzer Wald**: Ideal for nature enthusiasts, this natural park features hiking trails and scenic landscapes, perfect for a leisurely day outdoors.
 
-4. **Landesgartenschau**: Depending on the time of year, visiting local gardens and parks can provide insight into the region’s horticultural practices and community events.
+4. **Landesgartenschau**: Depending on the time of year, visiting local gardens and parks can provide insight into the region's horticultural practices and community events.
 
 5. **Stadtmuseum Weiden**: Located in Weiden, this museum offers exhibits on local history, including aspects of Jewish life in the region.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays, as weekends may attract more
 
 ## Practical Information
 
-When planning your visit to the Synagoge in Floß, it’s advisable to bring along essentials such as water, comfortable walking shoes, and any necessary personal items. Given the historical nature of the site, be respectful of the environment and the purpose of your visit.
+When planning your visit to the Synagoge in Floß, it's advisable to bring along essentials such as water, comfortable walking shoes, and any necessary personal items. Given the historical nature of the site, be respectful of the environment and the purpose of your visit.
 
 Seasonal considerations are important as well; be sure to check the weather forecast prior to your visit. In colder months, dress in layers to ensure comfort, while warmer months may require sun protection and hydration.
 

@@ -52,7 +52,7 @@ When planning a visit to the Johann Adolf Hasse Museum, it is essential to consi
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. It is advisable to allocate at least one to two hours for the visit, allowing ample time to explore the exhibits and engage with the museum's offerings.
 
-For those looking to avoid crowds, early mornings or weekdays may present a quieter experience, providing a more intimate setting to appreciate the exhibits. Additionally, special events or temporary exhibitions may draw larger crowds, so checking the museum’s schedule in advance can help in planning your visit.
+For those looking to avoid crowds, early mornings or weekdays may present a quieter experience, providing a more intimate setting to appreciate the exhibits. Additionally, special events or temporary exhibitions may draw larger crowds, so checking the museum's schedule in advance can help in planning your visit.
 
 ## Nearby Attractions
 

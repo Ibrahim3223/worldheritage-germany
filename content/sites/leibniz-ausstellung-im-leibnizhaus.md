@@ -85,10 +85,10 @@ Guided tours may be available; check the official website for more details on sc
 Weekdays tend to be less crowded, making them ideal for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility information can be confirmed on the official website; it’s advisable to check in advance for any specific requirements.
+Accessibility information can be confirmed on the official website; it's advisable to check in advance for any specific requirements.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online; please refer to the museum’s official website for current information.
+Ticket purchasing options may be available online; please refer to the museum's official website for current information.
 
 ### Are there restrooms and cafes?
 Amenities such as restrooms may be available on-site, but details regarding cafes should be confirmed on the official website.

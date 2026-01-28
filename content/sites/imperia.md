@@ -28,7 +28,7 @@ image_srcset:
 
 Imperia is an impressive statue located in the harbor of Konstanz, Germany, that captures the imagination of visitors with its striking design and cultural significance. Created by the renowned artist Peter Lenk, this remarkable piece of art stands as a focal point in the bustling waterfront area of the city. The statue represents the historical and cultural heritage of the region, serving as a reminder of the intricate relationships between power and commerce in the context of the Middle Ages.
 
-Konstanz, situated at the borders of Germany and Switzerland and near the shores of Lake Constance, is a city steeped in history and vibrant with life. The statue of Imperia not only enhances the scenic beauty of the harbor but also symbolizes the city’s storied past, including its role as a center for trade and politics. This captivating work of art invites viewers to reflect on the complex narrative of imperial power and its impact on society. 
+Konstanz, situated at the borders of Germany and Switzerland and near the shores of Lake Constance, is a city steeped in history and vibrant with life. The statue of Imperia not only enhances the scenic beauty of the harbor but also symbolizes the city's storied past, including its role as a center for trade and politics. This captivating work of art invites viewers to reflect on the complex narrative of imperial power and its impact on society. 
 
 Visitors to Imperia will find themselves immersed in an experience that blends artistry with historical context, making it an essential stop for anyone exploring the cultural landscape of Konstanz. 
 
@@ -66,7 +66,7 @@ While visiting Imperia, several nearby attractions can enhance your experience i
 
 3. **Mainau Island**: A short ferry ride away, this picturesque island is known for its botanical gardens and beautiful landscapes, making it a popular destination for a day trip.
 
-4. **Rosgarten Museum**: Explore the local history and culture of Konstanz through various exhibits that highlight the city’s past, including its role in the Council of Constance.
+4. **Rosgarten Museum**: Explore the local history and culture of Konstanz through various exhibits that highlight the city's past, including its role in the Council of Constance.
 
 5. **Lake Constance Promenade**: Take a leisurely stroll along the promenade, where you can enjoy stunning views of the lake and nearby mountains, as well as various cafes and shops.
 
@@ -78,7 +78,7 @@ To avoid crowds, aim for weekdays rather than weekends, especially during peak t
 
 ## Practical Information
 
-When visiting Imperia, it’s advisable to wear comfortable footwear, as the harbor area invites exploration. Be sure to bring your camera to capture the unique artistry of the statue and the surrounding scenery. 
+When visiting Imperia, it's advisable to wear comfortable footwear, as the harbor area invites exploration. Be sure to bring your camera to capture the unique artistry of the statue and the surrounding scenery. 
 
 Seasonal considerations are important, as the weather can vary significantly. Summers are typically warm and enjoyable, while winters can be chilly and damp. Checking the forecast ahead of time will help you dress appropriately for your visit.
 

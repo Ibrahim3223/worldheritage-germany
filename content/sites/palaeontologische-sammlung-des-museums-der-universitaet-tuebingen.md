@@ -28,7 +28,7 @@ image_srcset:
 
 The Paläontologische Sammlung des Museums der Universität Tübingen offers an intriguing glimpse into the ancient world through its extensive collection of fossils. Located in Tübingen, Germany, this museum serves as a vital resource for both scholars and the general public, showcasing the fascinating history of life on Earth. The museum is an essential stop for anyone interested in paleontology, offering insights into the evolution of species and the geological changes that have shaped our planet.
 
-Situated in a city renowned for its academic heritage, the museum’s collection is particularly significant due to its contributions to research and education. Visitors can expect to explore a diverse array of exhibits that highlight the evolution of life forms, making it a key destination for those eager to understand the complexities of our natural history. With its rich collection and educational programs, the Paläontologische Sammlung is not just a museum but a center for discovery, inviting visitors to engage with the past in meaningful ways.
+Situated in a city renowned for its academic heritage, the museum's collection is particularly significant due to its contributions to research and education. Visitors can expect to explore a diverse array of exhibits that highlight the evolution of life forms, making it a key destination for those eager to understand the complexities of our natural history. With its rich collection and educational programs, the Paläontologische Sammlung is not just a museum but a center for discovery, inviting visitors to engage with the past in meaningful ways.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ The cultural importance of the Paläontologische Sammlung cannot be understated.
 
 The Paläontologische Sammlung is housed within the broader framework of the University of Tübingen, reflecting the architectural style typical of educational institutions in the region. The museum features several exhibit halls, each designed to facilitate an engaging experience for visitors. The layout encourages exploration and learning, with carefully curated displays that allow for in-depth examination of fossil specimens.
 
-Noteworthy features of the museum include interactive displays that appeal to a wide range of audiences, from schoolchildren to seasoned researchers. The lighting and arrangement of exhibits are designed to highlight the intricate details of each specimen, showcasing the artistry of nature’s designs over millions of years. The museum also includes educational resources, such as informational plaques and digital displays, that provide context and enhance the visitor experience.
+Noteworthy features of the museum include interactive displays that appeal to a wide range of audiences, from schoolchildren to seasoned researchers. The lighting and arrangement of exhibits are designed to highlight the intricate details of each specimen, showcasing the artistry of nature's designs over millions of years. The museum also includes educational resources, such as informational plaques and digital displays, that provide context and enhance the visitor experience.
 
 In addition to the fossil exhibits, the museum may also feature areas dedicated to the study of paleobiology and the processes of fossilization. These spaces are often equipped with tools and resources for those interested in furthering their understanding of paleontological methods, making the museum an educational hub within the academic community.
 
@@ -62,7 +62,7 @@ While visiting the Paläontologische Sammlung, there are several nearby attracti
 
 2. **Botanical Garden**: Located close to the university, the botanical garden features a variety of plant species and serves as a peaceful retreat from the urban environment.
 
-3. **Tübingen Old Town**: A stroll through the charming streets of Tübingen’s Old Town provides an opportunity to experience local culture, architecture, and dining.
+3. **Tübingen Old Town**: A stroll through the charming streets of Tübingen's Old Town provides an opportunity to experience local culture, architecture, and dining.
 
 4. **Eberhard Karls University**: As one of Germany's oldest universities, a visit to the campus can offer insights into its historical significance and architectural beauty.
 
@@ -72,11 +72,11 @@ While visiting the Paläontologische Sammlung, there are several nearby attracti
 
 To enhance your visit to the Paläontologische Sammlung, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s always best to check for any restrictions upon arrival. Capturing the details of the fossils can be a delightful way to remember your experience.
+- **Photography**: While photography may be allowed in certain areas, it's always best to check for any restrictions upon arrival. Capturing the details of the fossils can be a delightful way to remember your experience.
 
 - **Crowd Avoidance**: If you prefer a quieter visit, aim for weekday mornings. Early arrivals can also benefit from fewer crowds and a more personal atmosphere.
 
-- **Engage with Staff**: The museum staff are often knowledgeable and enthusiastic about the exhibits. Don’t hesitate to ask questions or seek recommendations for exhibits that particularly interest you.
+- **Engage with Staff**: The museum staff are often knowledgeable and enthusiastic about the exhibits. Don't hesitate to ask questions or seek recommendations for exhibits that particularly interest you.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Guided tours may be available, providing deeper insights into the collections. C
 Weekday mornings are generally quieter, making them an ideal time for visitors seeking a more personal experience.
 
 ### Is it wheelchair accessible?
-The museum strives to be accessible, but it’s best to inquire about specific accommodations before your visit.
+The museum strives to be accessible, but it's best to inquire about specific accommodations before your visit.
 
 ### Can I buy tickets online?
 Check the official website for information on online ticket purchases and any available discounts.
@@ -112,6 +112,6 @@ Check the official website for information on online ticket purchases and any av
 Facilities such as restrooms are typically available on-site, but dining options may vary. Check the website for details.
 
 ### What should I wear?
-Casual and comfortable attire is recommended, suitable for walking and exploring the museum’s exhibits.
+Casual and comfortable attire is recommended, suitable for walking and exploring the museum's exhibits.
 
 The Paläontologische Sammlung des Museums der Universität Tübingen offers an enriching experience for anyone interested in the wonders of paleontology, making it a must-visit destination in the heart of Tübingen.

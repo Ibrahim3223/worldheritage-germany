@@ -82,13 +82,13 @@ To make the most of your visit to All Saints Waterfalls, consider these insider 
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, visit during weekdays or early in the morning. This timing can help you avoid the larger crowds typically present on weekends.
 
-- **Trail Exploration**: Don’t limit yourself to just the waterfall view; explore the surrounding trails for different perspectives and experiences. Each trail offers unique vantage points and encounters with wildlife.
+- **Trail Exploration**: Don't limit yourself to just the waterfall view; explore the surrounding trails for different perspectives and experiences. Each trail offers unique vantage points and encounters with wildlife.
 
 ## Practical Information
 
 When preparing for your visit to All Saints Waterfalls, keep these practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are essential, as the terrain can be uneven. Don’t forget to bring water, snacks, and a camera to capture the scenery.
+- **What to Bring**: Comfortable walking shoes are essential, as the terrain can be uneven. Don't forget to bring water, snacks, and a camera to capture the scenery.
 
 - **Seasonal Considerations**: The weather can vary significantly throughout the year. Be prepared for potential rain in the spring and autumn, and dress accordingly. In winter, the area may be cold, but the frozen falls can present a unique sight.
 

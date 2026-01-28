@@ -36,7 +36,7 @@ A visit to the Lettl-Atrium is not merely an opportunity to view art; it is an i
 
 The architectural design of the Lettl-Atrium complements its mission as a modern art museum, showcasing a blend of contemporary aesthetics and functional space. While specific architectural details may not be available, the museum is designed to create an inviting atmosphere, encouraging visitors to explore its exhibitions freely. The layout likely incorporates flexible gallery spaces that accommodate a range of artistic expressions, from paintings and sculptures to multimedia installations.
 
-One of the notable features of the Lettl-Atrium is its ability to adapt to various exhibitions, allowing for a dynamic experience each time you visit. The museum’s design emphasizes light and openness, fostering an environment where art can be appreciated without distraction. This thoughtful approach to space enhances the viewing experience, making it easier for guests to engage with the artworks on display.
+One of the notable features of the Lettl-Atrium is its ability to adapt to various exhibitions, allowing for a dynamic experience each time you visit. The museum's design emphasizes light and openness, fostering an environment where art can be appreciated without distraction. This thoughtful approach to space enhances the viewing experience, making it easier for guests to engage with the artworks on display.
 
 Additionally, the Lettl-Atrium may offer areas for relaxation and contemplation, providing visitors with a chance to reflect on their experiences and the art they have encountered. Such spaces can serve as a welcome respite from the bustling atmosphere of the museum, allowing for a more personal connection with the art.
 
@@ -54,7 +54,7 @@ Augsburg is home to a wealth of attractions that complement your visit to the Le
 
 1. **Augsburg Cathedral** - A stunning example of Gothic architecture, this cathedral features beautiful stained glass windows and a rich history that dates back to the 11th century.
 
-2. **Fuggerei** - Recognized as the world’s oldest social housing complex, the Fuggerei offers insight into the philanthropic vision of the Fugger family and provides a unique glimpse into historical living conditions.
+2. **Fuggerei** - Recognized as the world's oldest social housing complex, the Fuggerei offers insight into the philanthropic vision of the Fugger family and provides a unique glimpse into historical living conditions.
 
 3. **Augsburg Town Hall** - An architectural masterpiece, the town hall is known for its stunning Renaissance facade and opulent Golden Hall, reflecting the city's wealth during the Renaissance period.
 

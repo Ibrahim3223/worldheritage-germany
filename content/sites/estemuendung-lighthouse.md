@@ -36,7 +36,7 @@ Visiting the Estemündung Lighthouse offers an opportunity to connect with the r
 
 The Estemündung Lighthouse serves as a significant marker in the maritime landscape of Hamburg. Its origins can be traced back to the broader development of lighthouses in the region, which aimed to enhance safety for seafarers navigating the complex waterways of northern Germany. Throughout its operational history, this lighthouse has been an integral part of maritime safety, aiding countless vessels in avoiding hazards and ensuring smooth passage along the river.
 
-Lighthouses, such as Estemündung, have historically played a crucial role in the development of trade and commerce. Hamburg, being one of the largest ports in Europe, relied heavily on such navigational aids to facilitate the movement of goods and passengers. The lighthouse stands as a reminder of the city’s enduring relationship with the sea and its ongoing commitment to maritime safety.
+Lighthouses, such as Estemündung, have historically played a crucial role in the development of trade and commerce. Hamburg, being one of the largest ports in Europe, relied heavily on such navigational aids to facilitate the movement of goods and passengers. The lighthouse stands as a reminder of the city's enduring relationship with the sea and its ongoing commitment to maritime safety.
 
 The cultural significance of the Estemündung Lighthouse extends beyond its practical function. It reflects the evolution of lighthouse design and technology over the years, marking a shift from purely functional structures to those that incorporate aesthetic elements. As maritime technology advanced, so did the design and construction of lighthouses, making them not only essential navigational tools but also architectural landmarks.
 
@@ -52,7 +52,7 @@ Surrounding the lighthouse, you may find pathways and areas that provide opportu
 
 ## Visiting Information
 
-Visiting the Estemündung Lighthouse is an enriching experience that combines history, culture, and the beauty of the Elbe River. To reach the lighthouse, various transportation options are available. Depending on your starting point in Hamburg, public transport may offer convenient routes that bring you close to the site. For those driving, local parking options may be available, but it’s advisable to check for any restrictions or fees.
+Visiting the Estemündung Lighthouse is an enriching experience that combines history, culture, and the beauty of the Elbe River. To reach the lighthouse, various transportation options are available. Depending on your starting point in Hamburg, public transport may offer convenient routes that bring you close to the site. For those driving, local parking options may be available, but it's advisable to check for any restrictions or fees.
 
 When planning your visit, it's important to check the official website for current information regarding hours of operation and any associated costs. The lighthouse may have specific visitation guidelines, particularly during peak tourist seasons. A typical visit may last between one to two hours, allowing ample time to explore the area and appreciate the surrounding scenery.
 
@@ -64,7 +64,7 @@ As you plan your visit, consider bringing essential items such as water and comf
 
 While visiting the Estemündung Lighthouse, consider exploring these nearby attractions that enhance your understanding of the region:
 
-1. **Hamburg Harbor**: As one of the largest ports in Europe, the harbor offers various activities, including boat tours that provide a unique perspective of the city’s maritime operations.
+1. **Hamburg Harbor**: As one of the largest ports in Europe, the harbor offers various activities, including boat tours that provide a unique perspective of the city's maritime operations.
 
 2. **Elbphilharmonie**: This iconic concert hall is known for its stunning architecture and acoustics. A visit here can provide a cultural counterpoint to the maritime experience at the lighthouse.
 

@@ -38,7 +38,7 @@ The Hercules monument was conceived as part of the grand vision of Landgrave Kar
 
 Over the years, the Hercules monument has become an enduring symbol of Kassel and is integral to the identity of the city. It is situated within the Bergpark Wilhelmshöhe, a UNESCO World Heritage site, recognized for its remarkable landscape architecture. The park was designed to highlight the relationship between nature and culture, blending various artistic elements seamlessly into the natural landscape. The monument, along with its surrounding gardens and waterworks, illustrates the Enlightenment era's ideals and serves as a focal point for visitors exploring the park.
 
-The monument’s significance is further enhanced by its artistic and architectural features, which reflect the period's style and values. As a national heritage site, it draws attention not only for its aesthetic appeal but also for its role in the cultural narrative of Germany. The Hercules monument continues to inspire visitors and locals alike, standing as a reminder of the country's rich artistic and historical legacy.
+The monument's significance is further enhanced by its artistic and architectural features, which reflect the period's style and values. As a national heritage site, it draws attention not only for its aesthetic appeal but also for its role in the cultural narrative of Germany. The Hercules monument continues to inspire visitors and locals alike, standing as a reminder of the country's rich artistic and historical legacy.
 
 ## Architecture and Features
 

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Kirchhof in Wissersheim is a notable monument located in the Nörvenich region of Germany, providing visitors with an insightful glimpse into the area's historical and cultural heritage. Situated at coordinates 50.8166, 6.69683, this monument serves as a significant marker of the region's architectural and historical narrative. As you explore Kirchhof, you will uncover the layers of history that have shaped this locale, making it a valuable destination for those interested in the intricate stories embedded in Europe’s past.
+Kirchhof in Wissersheim is a notable monument located in the Nörvenich region of Germany, providing visitors with an insightful glimpse into the area's historical and cultural heritage. Situated at coordinates 50.8166, 6.69683, this monument serves as a significant marker of the region's architectural and historical narrative. As you explore Kirchhof, you will uncover the layers of history that have shaped this locale, making it a valuable destination for those interested in the intricate stories embedded in Europe's past.
 
 The monument is not only a point of interest for history enthusiasts but also offers a peaceful setting for contemplation. Its significance within Nörvenich makes it a focal point for both locals and travelers alike, who come to appreciate its place in the broader context of German heritage. Visitors can expect an experience that combines historical exploration with the tranquil beauty of the surrounding area.
 
@@ -97,4 +97,4 @@ Details about restrooms and cafes near Kirchhof are not provided, so it's advisa
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering the outdoor nature of the visit. Comfortable walking shoes are recommended for exploring the area.
 
-Visiting Kirchhof offers a unique opportunity to engage with Germany’s historical narrative, providing insight into the cultural landscape of Nörvenich and its significance as a monument.
+Visiting Kirchhof offers a unique opportunity to engage with Germany's historical narrative, providing insight into the cultural landscape of Nörvenich and its significance as a monument.

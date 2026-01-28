@@ -76,7 +76,7 @@ To fully enjoy your visit to Keramikmuseum Rheinsberg, consider these insider ti
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or early in the day. Special events or weekends may draw larger crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can provide valuable insights and enhance your experience with expert knowledge.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can provide valuable insights and enhance your experience with expert knowledge.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When preparing for your visit to Keramikmuseum Rheinsberg, keep the following ti
 A visit typically lasts a few hours, but you might want to allocate more time if you wish to explore nearby attractions as well.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check with the museum upon arrival.
+Photography policies can vary; it's best to check with the museum upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available to enhance your understanding of the exhibits.

@@ -32,7 +32,7 @@ Constructed with the dual purpose of fortification and ceremonial entry, the Nor
 
 ## History and Significance
 
-The Nordertor has played an essential role in Flensburg's history, serving as a gateway for trade and travel. Originally part of the town's fortifications, it was an integral component of the city’s defensive structures. Throughout the years, the Nordertor has witnessed numerous historical events, reflecting the ebb and flow of Flensburg's development. The gate represents the architectural evolution of the city and highlights its transition from a fortified settlement to a bustling center of commerce.
+The Nordertor has played an essential role in Flensburg's history, serving as a gateway for trade and travel. Originally part of the town's fortifications, it was an integral component of the city's defensive structures. Throughout the years, the Nordertor has witnessed numerous historical events, reflecting the ebb and flow of Flensburg's development. The gate represents the architectural evolution of the city and highlights its transition from a fortified settlement to a bustling center of commerce.
 
 Flensburg itself has a unique position in German history, particularly due to its proximity to Denmark and its status as a trading hub in the Baltic Sea region. The Nordertor, with its imposing presence, is emblematic of the city's strategic significance during periods of economic growth and conflict. As part of the city's fortifications, the gate provided security against external threats while also symbolizing the prosperity that trade brought to Flensburg.
 
@@ -42,7 +42,7 @@ Over time, the Nordertor has been preserved as a cultural heritage site, offerin
 
 The Nordertor is an intriguing example of city gate architecture, characterized by its robust design and historical elements. The structure showcases a combination of defensive fortifications and aesthetic features that highlight the architectural styles prevalent at the time of its construction. The gate is adorned with intricate stonework, showcasing the skill of the craftsmen who built it.
 
-The overall design of the Nordertor reflects the practical needs of a city gate, with its thick walls and narrow passageway intended to deter potential invaders. As you approach, you can observe the sturdy construction that has withstood the test of time. The stone materials used in its construction not only provide strength but also contribute to the gate’s weathered charm.
+The overall design of the Nordertor reflects the practical needs of a city gate, with its thick walls and narrow passageway intended to deter potential invaders. As you approach, you can observe the sturdy construction that has withstood the test of time. The stone materials used in its construction not only provide strength but also contribute to the gate's weathered charm.
 
 One of the notable features of the Nordertor is its imposing archway, which invites visitors to pass beneath its grandeur. The gate also features historical carvings and insignia that speak to the heritage of Flensburg, offering a glimpse into the city's identity. As a focal point for both locals and tourists, the Nordertor is often a site for photography, drawing attention to its architectural beauty and historical significance.
 
@@ -56,7 +56,7 @@ When planning your visit, consider the time of year, as Flensburg experiences a 
 
 ## Nearby Attractions
 
-While visiting the Nordertor, take the opportunity to explore other nearby attractions that enhance your understanding of Flensburg’s rich history and culture:
+While visiting the Nordertor, take the opportunity to explore other nearby attractions that enhance your understanding of Flensburg's rich history and culture:
 
 1. **Flensburg Maritime Museum**: This museum showcases the maritime history of Flensburg, featuring exhibits on shipbuilding, navigation, and trade in the Baltic Sea.
    
@@ -66,7 +66,7 @@ While visiting the Nordertor, take the opportunity to explore other nearby attra
 
 4. **Rathaus (Town Hall)**: This architectural gem features a blend of styles and is an important civic building that reflects the town's governance and history.
 
-5. **Pedestrian Zone**: Explore Flensburg’s charming streets filled with shops, cafes, and restaurants, providing a vibrant atmosphere for visitors to enjoy local cuisine and culture.
+5. **Pedestrian Zone**: Explore Flensburg's charming streets filled with shops, cafes, and restaurants, providing a vibrant atmosphere for visitors to enjoy local cuisine and culture.
 
 ## Insider Tips
 

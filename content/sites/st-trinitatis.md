@@ -50,7 +50,7 @@ The presence of any notable artifacts or artwork within St. Trinitatis would fur
 
 Getting to St. Trinitatis is relatively straightforward, with various transportation options available to reach Warlitz. Depending on your starting point, you may consider traveling by car or utilizing local public transportation services. For those unfamiliar with the area, consulting a map or GPS can help navigate the best routes to the church.
 
-When planning your visit, it’s advisable to check the official website for current information regarding the church's hours of operation and any potential admission fees. Visitors can expect a serene environment where they can engage in quiet contemplation or admire the architectural beauty of the building. 
+When planning your visit, it's advisable to check the official website for current information regarding the church's hours of operation and any potential admission fees. Visitors can expect a serene environment where they can engage in quiet contemplation or admire the architectural beauty of the building. 
 
 The recommended time for a visit typically ranges from one to two hours, allowing ample opportunity to explore the church and reflect on its significance. Visiting during weekdays may offer a quieter experience, while weekends may see more visitors attending services or events.
 
@@ -76,7 +76,7 @@ To enhance your experience at St. Trinitatis, consider the following insider tip
 
 - **Crowd Avoidance**: If possible, plan your visit during off-peak hours, such as early mornings or weekdays, to enjoy a more peaceful atmosphere.
 
-- **Local Etiquette**: As with any place of worship, it’s essential to maintain a respectful demeanor. Quiet conversation and appropriate attire will help you blend in with the local community.
+- **Local Etiquette**: As with any place of worship, it's essential to maintain a respectful demeanor. Quiet conversation and appropriate attire will help you blend in with the local community.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When preparing for your visit to St. Trinitatis, here are some practical conside
 
 - **Seasonal Considerations**: Weather can vary, so be sure to check the forecast and dress accordingly. Spring and summer may offer pleasant conditions for outdoor exploration, while fall can provide beautiful foliage.
 
-- **Accessibility**: While specific accessibility details are not outlined, it’s prudent to inquire about facilities if you have mobility concerns.
+- **Accessibility**: While specific accessibility details are not outlined, it's prudent to inquire about facilities if you have mobility concerns.
 
 ## Frequently Asked Questions
 
@@ -109,7 +109,7 @@ Specific accessibility details are not provided. It's advisable to check the off
 Check the official website for current information regarding ticket purchasing options, if applicable.
 
 ### Are there restrooms and cafes?
-Information on amenities such as restrooms and cafes is not specified. It’s best to inquire locally or check nearby facilities.
+Information on amenities such as restrooms and cafes is not specified. It's best to inquire locally or check nearby facilities.
 
 ### What should I wear?
 Visitors should dress appropriately, keeping in mind the reverent nature of the church as a place of worship.

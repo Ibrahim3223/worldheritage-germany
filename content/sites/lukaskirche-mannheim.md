@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Lukaskirche, located in Mannheim, Germany, is a remarkable church building that serves as a significant landmark in the Karlsruhe Government Region. This church is not merely a place of worship; it embodies the architectural and cultural essence of its time. With its distinct design and inviting atmosphere, Lukaskirche draws visitors who appreciate historical architecture and seek to understand the community’s spiritual heritage. Situated at coordinates 49.4602, 8.4877, it is easily accessible, making it an ideal stop for travelers exploring Mannheim's diverse offerings. 
+Lukaskirche, located in Mannheim, Germany, is a remarkable church building that serves as a significant landmark in the Karlsruhe Government Region. This church is not merely a place of worship; it embodies the architectural and cultural essence of its time. With its distinct design and inviting atmosphere, Lukaskirche draws visitors who appreciate historical architecture and seek to understand the community's spiritual heritage. Situated at coordinates 49.4602, 8.4877, it is easily accessible, making it an ideal stop for travelers exploring Mannheim's diverse offerings. 
 
 The significance of Lukaskirche extends beyond its physical structure; it represents the intersection of faith and community life in Mannheim. Visitors can expect to find a peaceful ambiance that invites contemplation and reflection, alongside numerous opportunities to engage with the local culture.
 
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. This wi
 
 ## Practical Information
 
-When planning your visit to Lukaskirche, it’s advisable to bring a camera for capturing the stunning architecture and serene ambiance. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
+When planning your visit to Lukaskirche, it's advisable to bring a camera for capturing the stunning architecture and serene ambiance. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
 
 Seasonal considerations may influence your visit, as events or services could be held at certain times of the year. Checking the official website for any specific seasonal activities or closures will ensure a smooth experience.
 
@@ -100,4 +100,4 @@ Information about ticket purchases is not provided; please refer to the official
 Restroom facilities and café options are not mentioned; it is best to check the official website for visitor amenities.
 
 ### What should I wear?
-Visitors are encouraged to dress modestly, especially if attending services or special events, in accordance with the church’s atmosphere and practices.
+Visitors are encouraged to dress modestly, especially if attending services or special events, in accordance with the church's atmosphere and practices.

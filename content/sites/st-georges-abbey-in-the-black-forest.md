@@ -62,11 +62,11 @@ While St. George's Abbey is a significant destination in itself, the surrounding
 
 2. **The Black Forest Open Air Museum** - Located nearby, this museum showcases traditional Black Forest architecture and the region's cultural heritage through various exhibits and reenactments.
 
-3. **Lake Titisee** - A short drive away, this scenic lake is perfect for outdoor activities such as hiking, swimming, and boating, offering a refreshing break from the abbey’s tranquility.
+3. **Lake Titisee** - A short drive away, this scenic lake is perfect for outdoor activities such as hiking, swimming, and boating, offering a refreshing break from the abbey's tranquility.
 
-4. **Schwarzwaldhochstraße** - This scenic route offers stunning views of the Black Forest’s landscapes and is ideal for a leisurely drive or cycling.
+4. **Schwarzwaldhochstraße** - This scenic route offers stunning views of the Black Forest's landscapes and is ideal for a leisurely drive or cycling.
 
-5. **The German Clock Museum** - Located in nearby Furtwangen, this museum delves into the history of clock-making in the region, an important craft that has shaped the area’s identity.
+5. **The German Clock Museum** - Located in nearby Furtwangen, this museum delves into the history of clock-making in the region, an important craft that has shaped the area's identity.
 
 ## Insider Tips
 

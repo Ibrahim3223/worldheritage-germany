@@ -28,7 +28,7 @@ image_srcset:
 
 The Naturalienkabinett Waldenburg is a unique museum located in the picturesque town of Waldenburg, Germany. This institution offers visitors a fascinating glimpse into the natural world, showcasing a diverse array of specimens that capture the wonders of biodiversity. As a museum dedicated to natural history, it serves not only as a repository for scientific knowledge but also as an educational resource for the community and visitors alike. 
 
-Set against the backdrop of Waldenburg, a town rich in cultural history, the museum enhances the town’s appeal as a destination for those interested in exploring both natural and cultural heritage. The Naturalienkabinett invites curious minds to delve into the intricacies of nature, making it a significant stop for anyone traveling through the region. With its carefully curated exhibits, the museum promises an enlightening experience for visitors of all ages, fostering a deeper appreciation for the natural world.
+Set against the backdrop of Waldenburg, a town rich in cultural history, the museum enhances the town's appeal as a destination for those interested in exploring both natural and cultural heritage. The Naturalienkabinett invites curious minds to delve into the intricacies of nature, making it a significant stop for anyone traveling through the region. With its carefully curated exhibits, the museum promises an enlightening experience for visitors of all ages, fostering a deeper appreciation for the natural world.
 
 ## History and Significance
 

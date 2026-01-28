@@ -54,7 +54,7 @@ While visiting the Aischgründer Karpfenmuseum, consider exploring other attract
 
 1. **St. Johannis Church**: A historic church known for its impressive architecture and tranquil atmosphere, offering a glimpse into local religious practices.
 
-2. **Neustadt an der Aisch Town Hall**: This charming building exemplifies the town’s architectural heritage and is worth a visit for those interested in local governance history.
+2. **Neustadt an der Aisch Town Hall**: This charming building exemplifies the town's architectural heritage and is worth a visit for those interested in local governance history.
 
 3. **Local Market**: Depending on the time of year, the local market can provide an opportunity to sample regional specialties and experience the local culture firsthand.
 
@@ -80,7 +80,7 @@ Seasonal considerations may also play a role in your visit. The museum may have 
 A visit typically takes around one to two hours, allowing enough time to explore the exhibits thoroughly.
 
 ### Is photography allowed?
-Check the museum’s specific policies regarding photography, as some areas may have restrictions.
+Check the museum's specific policies regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special programs that may enhance your visit.
@@ -89,7 +89,7 @@ Check the official website for information on guided tours or special programs t
 Weekdays or early mornings tend to be quieter, making for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is best obtained directly from the museum’s official website.
+Accessibility information is best obtained directly from the museum's official website.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases.

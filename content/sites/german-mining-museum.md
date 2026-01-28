@@ -34,7 +34,7 @@ The German Mining Museum promises an enlightening journey through the depths of 
 
 ## History and Significance
 
-The German Mining Museum is a celebrated institution that encapsulates the historical significance of mining in Germany. While specific foundational dates are not available, it is known that the museum arose from the need to preserve and present the rich history of mining practices that have evolved over centuries. Mining has been a cornerstone of Germany's economic development, contributing significantly to the nation’s industrial growth.
+The German Mining Museum is a celebrated institution that encapsulates the historical significance of mining in Germany. While specific foundational dates are not available, it is known that the museum arose from the need to preserve and present the rich history of mining practices that have evolved over centuries. Mining has been a cornerstone of Germany's economic development, contributing significantly to the nation's industrial growth.
 
 Historically, the Ruhr region, where Bochum is located, was at the forefront of coal mining, which fueled the industrial revolution in Germany. The museum not only chronicles the technical advancements in mining but also addresses the social and environmental issues that arose from this extensive industrial activity. The narratives of miners, their families, and communities are interwoven throughout the exhibits, providing a deeper understanding of the human aspect of mining.
 
@@ -46,7 +46,7 @@ The German Mining Museum is not only a repository of artifacts and exhibits but 
 
 Inside, the museum features a variety of exhibition spaces that house extensive collections, including historical machinery, miner's tools, and multimedia displays that engage visitors with both visual and auditory elements. The layout encourages exploration and interaction, making it suitable for guests of all ages. Highlights include a replica of a mine shaft, which allows visitors to experience the conditions under which miners worked, and various interactive displays that illustrate the evolution of mining technology.
 
-The museum’s commitment to education is evident in its thoughtful curation of exhibits, showcasing not only the machinery but also the stories behind them. This approach fosters a comprehensive understanding of mining's impact on society, economy, and environment. The German Mining Museum thus serves as a key educational resource for anyone interested in the intricate world of mining.
+The museum's commitment to education is evident in its thoughtful curation of exhibits, showcasing not only the machinery but also the stories behind them. This approach fosters a comprehensive understanding of mining's impact on society, economy, and environment. The German Mining Museum thus serves as a key educational resource for anyone interested in the intricate world of mining.
 
 ## Visiting Information
 

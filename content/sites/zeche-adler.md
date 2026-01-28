@@ -66,7 +66,7 @@ While visiting Zeche Adler, consider exploring some of the nearby attractions th
 
 3. **Zollverein Coal Mine Industrial Complex**: A UNESCO World Heritage Site, Zollverein is an iconic coal mine complex showcasing the architectural and technological innovations of the mining industry. It offers guided tours and exhibitions that complement your visit to Zeche Adler.
 
-4. **Villa Hügel**: Once the residence of the industrialist Alfred Krupp, this grand villa is set in a vast park and serves as a cultural venue. It features exhibitions on the Krupp family's impact on the region’s industrial landscape.
+4. **Villa Hügel**: Once the residence of the industrialist Alfred Krupp, this grand villa is set in a vast park and serves as a cultural venue. It features exhibitions on the Krupp family's impact on the region's industrial landscape.
 
 5. **Essen Cathedral (Essener Münster)**: A short distance away, this historic cathedral is notable for its architecture and the famed Golden Madonna, making it a worthwhile stop for history enthusiasts.
 
@@ -99,7 +99,7 @@ A visit typically lasts a few hours, allowing ample time to explore the site and
 Photography is generally permitted, but it's advisable to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
-Yes, guided tours may be available, providing deeper insights into the site’s history and operations. Check the official website for scheduling and availability.
+Yes, guided tours may be available, providing deeper insights into the site's history and operations. Check the official website for scheduling and availability.
 
 ### What's the best time to visit?
 The best time to visit is during the spring and autumn months when temperatures are mild and visitor numbers are typically lower.

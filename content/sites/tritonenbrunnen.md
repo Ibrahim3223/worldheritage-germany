@@ -108,4 +108,4 @@ Nearby facilities may be available; check local resources for specific locations
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to walk around the city.
 
-As you plan your visit to the Tritonenbrunnen, this guide serves as a helpful resource, ensuring an enriching experience in Aachen’s vibrant urban landscape.
+As you plan your visit to the Tritonenbrunnen, this guide serves as a helpful resource, ensuring an enriching experience in Aachen's vibrant urban landscape.

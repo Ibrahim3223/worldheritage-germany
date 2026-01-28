@@ -58,11 +58,11 @@ The best times to visit Schloss Buhla are during the spring and summer months wh
 
 A visit to Schloss Buhla can be complemented by exploring several nearby attractions that enhance the cultural experience of the region:
 
-1. **Eichsfeld Village Museum**: Located in the nearby town, this museum showcases local history and traditional crafts, providing a deeper understanding of the area’s cultural heritage.
+1. **Eichsfeld Village Museum**: Located in the nearby town, this museum showcases local history and traditional crafts, providing a deeper understanding of the area's cultural heritage.
 
 2. **Monastery of Beuren**: A short drive away, this historic site offers insights into monastic life and architecture, enriching the visitor's historical journey.
 
-3. **St. Mary’s Church in Buhla**: A local church that reflects the architectural styles of the region, this site is worth a visit for its serene atmosphere and historical significance.
+3. **St. Mary's Church in Buhla**: A local church that reflects the architectural styles of the region, this site is worth a visit for its serene atmosphere and historical significance.
 
 4. **Hainich National Park**: A bit further afield, this national park is renowned for its beech forests and diverse wildlife, making it a perfect destination for nature lovers.
 
@@ -80,7 +80,7 @@ To make the most of your visit to Schloss Buhla, consider these insider tips:
 
 ## Practical Information
 
-When visiting Schloss Buhla, it’s essential to come prepared. Here are some practical considerations:
+When visiting Schloss Buhla, it's essential to come prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are recommended due to potential uneven surfaces around the manor and grounds. A water bottle can also be helpful, especially during warmer months.
 

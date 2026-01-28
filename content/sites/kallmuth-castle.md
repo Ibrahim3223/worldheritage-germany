@@ -105,7 +105,7 @@ Guided tours may be available; check the official website for details on schedul
 The best times to visit Kallmuth Castle are during the milder months of spring and autumn, when the weather is pleasant and the landscape is vibrant.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not specified. It’s best to consult the official website or contact them directly for detailed accessibility options.
+Information regarding wheelchair accessibility is not specified. It's best to consult the official website or contact them directly for detailed accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

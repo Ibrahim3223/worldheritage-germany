@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Cultural heritage D-6-6321-0045 in Amorbach is a fortification that serves as a remarkable emblem of Bavaria’s historical landscape. Situated in the charming town of Amorbach within the Miltenberg district of Lower Franconia, this site is a vital link to the region's past, illustrating the architectural and military significance of fortifications in Germany. The fortification's strategic importance reflects the historical conflicts and territorial disputes that have shaped the area over centuries, making it a focal point for both history enthusiasts and casual visitors alike.
+Cultural heritage D-6-6321-0045 in Amorbach is a fortification that serves as a remarkable emblem of Bavaria's historical landscape. Situated in the charming town of Amorbach within the Miltenberg district of Lower Franconia, this site is a vital link to the region's past, illustrating the architectural and military significance of fortifications in Germany. The fortification's strategic importance reflects the historical conflicts and territorial disputes that have shaped the area over centuries, making it a focal point for both history enthusiasts and casual visitors alike.
 
-The picturesque town of Amorbach itself adds to the site’s allure, with its scenic backdrop and quaint streets offering a glimpse into Bavarian culture. Visitors can immerse themselves in the local heritage while exploring the fortification’s storied walls. The fortification stands not only as a relic of military architecture but also as a testament to the enduring spirit of the community that has preserved its legacy. As you explore this cultural landmark, you will uncover layers of history intertwined with the charm of Amorbach, making it a worthwhile destination for anyone interested in the rich heritage of this region.
+The picturesque town of Amorbach itself adds to the site's allure, with its scenic backdrop and quaint streets offering a glimpse into Bavarian culture. Visitors can immerse themselves in the local heritage while exploring the fortification's storied walls. The fortification stands not only as a relic of military architecture but also as a testament to the enduring spirit of the community that has preserved its legacy. As you explore this cultural landmark, you will uncover layers of history intertwined with the charm of Amorbach, making it a worthwhile destination for anyone interested in the rich heritage of this region.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ Seasonal considerations include dressing in layers, as temperatures can vary. Du
 Plan for at least two hours to fully appreciate the fortification and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to follow any specific guidelines set by the site.
+Photography is generally permitted, but it's advisable to follow any specific guidelines set by the site.
 
 ### Are there guided tours?
 Information about guided tours may vary, so check the official website for availability.

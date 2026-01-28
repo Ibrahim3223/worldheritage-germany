@@ -44,7 +44,7 @@ Visitors will appreciate the scale and fortitude of the structure, which stands 
 
 To visit Cultural heritage D-6-6225-0373, travelers can utilize various modes of transportation available in Würzburg. The fortification is accessible by public transport, including buses and trams, with stops located conveniently nearby. Additionally, those who prefer to drive can find parking options in the vicinity, making it an easy excursion for both locals and tourists.
 
-Check the official website for current information on visiting hours and any potential entry fees, as these can vary seasonally or due to special events. It is advisable to allocate sufficient time for your visit, as exploring the fortification and understanding its history can be an enriching experience. A typical visit might last anywhere from one to two hours, allowing ample opportunity to appreciate the site’s significance.
+Check the official website for current information on visiting hours and any potential entry fees, as these can vary seasonally or due to special events. It is advisable to allocate sufficient time for your visit, as exploring the fortification and understanding its history can be an enriching experience. A typical visit might last anywhere from one to two hours, allowing ample opportunity to appreciate the site's significance.
 
 The best times to visit are often during the shoulder seasons of spring and fall when the weather is generally pleasant. However, be mindful of local events or holidays, as these may affect visitor traffic and accessibility.
 

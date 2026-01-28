@@ -38,7 +38,7 @@ Rathaus Benrath stands as a representation of local governance in the Benrath di
 
 The significance of Rathaus Benrath extends beyond its practical function. It serves as a gathering place for local events, public meetings, and civic celebrations, fostering a sense of community among residents. This active engagement reinforces the importance of local governance structures in enhancing social cohesion and participation within the district.
 
-Culturally, Rathaus Benrath is an important landmark that embodies the character of Benrath. The city hall’s presence in the district underscores the importance of civic institutions in the historical narrative of Düsseldorf. Its architecture and ongoing use reflect the community's values and priorities, making it a focal point for both local residents and visitors alike.
+Culturally, Rathaus Benrath is an important landmark that embodies the character of Benrath. The city hall's presence in the district underscores the importance of civic institutions in the historical narrative of Düsseldorf. Its architecture and ongoing use reflect the community's values and priorities, making it a focal point for both local residents and visitors alike.
 
 ## Architecture and Features
 

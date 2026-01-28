@@ -76,7 +76,7 @@ If you have an interest in history or architecture, taking your time to apprecia
 
 ## Practical Information
 
-When planning your visit to St. Petrus, it’s advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture your experience. Depending on the season, attire should be comfortable yet respectful, especially if attending a service. 
+When planning your visit to St. Petrus, it's advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture your experience. Depending on the season, attire should be comfortable yet respectful, especially if attending a service. 
 
 Be mindful of seasonal considerations; winter may bring colder weather, while summer can offer pleasant conditions ideal for exploration. Remember to check the official website for any seasonal events or special services that may enhance your visit.
 
@@ -101,7 +101,7 @@ Consult the official website for specific information on accessibility options a
 Check the official website for information regarding ticket purchases and entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check ahead for availability of restrooms and nearby dining options.
+Facilities may vary, so it's advisable to check ahead for availability of restrooms and nearby dining options.
 
 ### What should I wear?
 Dress comfortably and respectfully, especially if attending a service, keeping seasonal weather in mind. 

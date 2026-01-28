@@ -34,7 +34,7 @@ As one of the most visited museums in Germany, the Pergamon Museum promises an e
 
 ## History and Significance
 
-The Pergamon Museum has its roots in the 19th century when the collections that would eventually form the museum were first established. As an institution, it has played a crucial role in the preservation and presentation of artifacts from the ancient world, particularly those from the Near East and classical antiquity. The museum’s collection includes significant pieces from the Babylonian, Assyrian, and Hellenistic periods, marking it as a vital resource for understanding the cultural intersections of these ancient civilizations.
+The Pergamon Museum has its roots in the 19th century when the collections that would eventually form the museum were first established. As an institution, it has played a crucial role in the preservation and presentation of artifacts from the ancient world, particularly those from the Near East and classical antiquity. The museum's collection includes significant pieces from the Babylonian, Assyrian, and Hellenistic periods, marking it as a vital resource for understanding the cultural intersections of these ancient civilizations.
 
 One of the museum's most renowned exhibits is the Pergamon Altar, a monumental structure originally built in the ancient city of Pergamon (modern-day Turkey). This masterpiece, along with others, was meticulously reconstructed and transported to Berlin, where it has since captivated millions with its grandeur and intricate relief sculptures. 
 
@@ -72,11 +72,11 @@ While visiting the Pergamon Museum, take the opportunity to explore other remark
 
 To capture the best photographs of the exhibits, consider visiting during quieter hours, such as early in the morning or later in the afternoon. The natural lighting in certain areas enhances the beauty of the artifacts. 
 
-Avoiding weekends can also help you steer clear of larger crowds, allowing for a more contemplative experience as you explore the museum’s treasures. 
+Avoiding weekends can also help you steer clear of larger crowds, allowing for a more contemplative experience as you explore the museum's treasures. 
 
 ## Practical Information
 
-When visiting the Pergamon Museum, it’s advisable to wear comfortable shoes, as there is a considerable amount of walking involved. Bringing a water bottle can also be beneficial, especially on warmer days. 
+When visiting the Pergamon Museum, it's advisable to wear comfortable shoes, as there is a considerable amount of walking involved. Bringing a water bottle can also be beneficial, especially on warmer days. 
 
 Seasonal considerations include the possibility of increased visitor numbers during summer months, so plan accordingly. Additionally, check the official website for any seasonal events or temporary exhibitions that may be taking place during your visit.
 

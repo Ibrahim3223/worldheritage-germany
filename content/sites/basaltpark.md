@@ -74,7 +74,7 @@ Basaltpark is situated in an area rich with attractions that complement your vis
 
 4. **Landschaftsmuseum Westerwald**: This local museum offers insights into the cultural and natural history of the Westerwald region. Exhibits highlight traditional crafts, agriculture, and the area's geological features.
 
-5. **St. John’s Church**: This historic church, located in Bad Marienberg, features impressive architecture and beautiful stained glass windows. It's a lovely spot to appreciate the local heritage and enjoy a moment of tranquility.
+5. **St. John's Church**: This historic church, located in Bad Marienberg, features impressive architecture and beautiful stained glass windows. It's a lovely spot to appreciate the local heritage and enjoy a moment of tranquility.
 
 ## Insider Tips
 
@@ -84,17 +84,17 @@ To make the most of your visit to Basaltpark, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting on weekdays or during off-peak hours. Early mornings or late afternoons are often quieter, allowing for a more enjoyable exploration of the park.
 
-- **Engage with Staff**: The staff members are knowledgeable about the park and its history. Don’t hesitate to ask questions or seek recommendations for exhibits that might pique your interest.
+- **Engage with Staff**: The staff members are knowledgeable about the park and its history. Don't hesitate to ask questions or seek recommendations for exhibits that might pique your interest.
 
 ## Practical Information
 
 When preparing for your visit to Basaltpark, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are essential, as you’ll be traversing both paved and natural pathways. A water bottle and snacks can enhance your experience, especially if you plan to spend several hours exploring.
+- **What to Bring**: Comfortable walking shoes are essential, as you'll be traversing both paved and natural pathways. A water bottle and snacks can enhance your experience, especially if you plan to spend several hours exploring.
 
 - **Seasonal Considerations**: The weather can vary significantly throughout the year. Be sure to check the forecast before your visit and dress accordingly. Layers are recommended, particularly during cooler months, as temperatures can fluctuate.
 
-- **Accessibility**: While the park is designed to be welcoming to a variety of visitors, it’s advisable to check the official website for detailed information regarding accessibility options.
+- **Accessibility**: While the park is designed to be welcoming to a variety of visitors, it's advisable to check the official website for detailed information regarding accessibility options.
 
 ## Frequently Asked Questions
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Glockengasse Synagogue, located in the bustling Altstadt-Nord district of Cologne, Germany, is not just a place of worship but a significant landmark that reflects the rich cultural heritage of the Jewish community in the region. This synagogue has played a pivotal role in the spiritual and social life of its congregation, embodying the enduring legacy of Jewish traditions and the resilience of its community through history. As visitors step into this sacred space, they are met with a profound sense of history and a welcoming atmosphere that invites reflection and respect.
 
-Situated strategically within the heart of Cologne, the Glockengasse Synagogue serves as a reminder of the city’s diverse cultural fabric. The synagogue's significance extends beyond its religious functions; it stands as a symbol of Jewish identity and continuity in a city that has witnessed profound changes over the centuries. Visitors can expect to explore not only the architectural features of the synagogue but also the stories and events that have shaped its presence in Cologne.
+Situated strategically within the heart of Cologne, the Glockengasse Synagogue serves as a reminder of the city's diverse cultural fabric. The synagogue's significance extends beyond its religious functions; it stands as a symbol of Jewish identity and continuity in a city that has witnessed profound changes over the centuries. Visitors can expect to explore not only the architectural features of the synagogue but also the stories and events that have shaped its presence in Cologne.
 
 This guide will take you through the history and significance of the Glockengasse Synagogue, its architectural features, and essential visiting information to enrich your experience at this remarkable heritage site.
 
@@ -56,21 +56,21 @@ In addition to its functional features, the synagogue may include spaces for edu
 
 When planning a visit to the Glockengasse Synagogue, travelers should consider various factors to enhance their experience. The synagogue is located in Altstadt-Nord, an area rich in history and culture, making it easily accessible by public transport. Visitors can reach the site via local tram and bus routes, with several stops located nearby.
 
-Check the official website for current information regarding visiting hours and any potential admission fees. It’s advisable to allocate sufficient time for your visit, as there is much to absorb in terms of both architecture and history. Ideally, visitors should plan to spend at least an hour exploring the synagogue and reflecting on its significance.
+Check the official website for current information regarding visiting hours and any potential admission fees. It's advisable to allocate sufficient time for your visit, as there is much to absorb in terms of both architecture and history. Ideally, visitors should plan to spend at least an hour exploring the synagogue and reflecting on its significance.
 
 For the most rewarding experience, consider visiting during weekdays when the synagogue is less crowded, allowing for a more intimate atmosphere. Additionally, special events or services may be held on certain days, providing a unique opportunity to witness the synagogue in use.
 
-As you prepare for your visit, be mindful of the synagogue’s rules regarding decorum and respect, as this is a sacred space for worship and community gatherings.
+As you prepare for your visit, be mindful of the synagogue's rules regarding decorum and respect, as this is a sacred space for worship and community gatherings.
 
 ## Nearby Attractions
 
-The Glockengasse Synagogue is conveniently located near several other attractions that showcase Cologne’s rich heritage. Visitors can enhance their itinerary with the following nearby sites:
+The Glockengasse Synagogue is conveniently located near several other attractions that showcase Cologne's rich heritage. Visitors can enhance their itinerary with the following nearby sites:
 
 1. **Cologne Cathedral (Kölner Dom)**: A UNESCO World Heritage site, this iconic Gothic cathedral is just a short walk away and is renowned for its stunning architecture and remarkable stained glass windows.
 
 2. **Museum Ludwig**: Located nearby, this museum is known for its impressive collection of modern art, including works by Picasso and contemporary artists, making it a must-visit for art enthusiasts.
 
-3. **Roman-Germanic Museum**: This museum offers insights into Cologne's ancient history, showcasing artifacts from the Roman era and providing a fascinating perspective on the city’s past.
+3. **Roman-Germanic Museum**: This museum offers insights into Cologne's ancient history, showcasing artifacts from the Roman era and providing a fascinating perspective on the city's past.
 
 4. **Alter Markt**: A historic square in the Old Town, the Alter Markt is surrounded by charming cafes and shops, making it an excellent place to unwind after your visit to the synagogue.
 
@@ -92,7 +92,7 @@ To make the most of your visit to the Glockengasse Synagogue, consider these ins
 
 Before visiting the Glockengasse Synagogue, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring a small bag for personal items and perhaps a water bottle, though check for any restrictions regarding food and beverages inside the synagogue.
+- **What to Bring**: It's advisable to bring a small bag for personal items and perhaps a water bottle, though check for any restrictions regarding food and beverages inside the synagogue.
 
 - **Seasonal Considerations**: Cologne experiences a range of weather conditions throughout the year. Be prepared for varying temperatures, particularly if visiting during the winter months when it can be quite cold.
 

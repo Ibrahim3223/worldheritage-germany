@@ -64,7 +64,7 @@ After exploring the Museum für Naturkunde, consider visiting these nearby attra
 
 3. **Natural History Museum of Berlin (Museum für Naturkunde)** - A visit to the museum can be complemented by exploring the nearby botanical gardens, which showcase a vast array of plant species.
 
-4. **The Berlin Wall Memorial** - A little further, this poignant site provides insights into the history of Berlin during the Cold War, allowing visitors to reflect on the city’s past.
+4. **The Berlin Wall Memorial** - A little further, this poignant site provides insights into the history of Berlin during the Cold War, allowing visitors to reflect on the city's past.
 
 5. **Reichstag Building** - The seat of the German parliament is an architectural marvel, with a glass dome that offers a unique perspective of the city.
 

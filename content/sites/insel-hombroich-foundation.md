@@ -54,7 +54,7 @@ While the Insel Hombroich Foundation is a destination in its own right, the surr
 
 1. **Neuss City Center**: Just a short distance away, the historic city center features charming streets, shops, and eateries that invite visitors to explore local culture and cuisine.
 
-2. **Museum Insel Hombroich**: An extension of the foundation’s vision, this museum showcases a diverse range of artistic expressions and is also set in a natural environment, providing a complementary experience.
+2. **Museum Insel Hombroich**: An extension of the foundation's vision, this museum showcases a diverse range of artistic expressions and is also set in a natural environment, providing a complementary experience.
 
 3. **Kunsthaus NRW**: Located in nearby Düsseldorf, this art house offers contemporary exhibitions and is easily accessible for those looking to broaden their artistic journey in the region.
 

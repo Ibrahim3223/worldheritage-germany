@@ -48,7 +48,7 @@ The architecture of Lemle-Moses-Klaus likely echoes these traditional designs, e
 
 ## Visiting Information
 
-Visitors planning a trip to the Lemle-Moses-Klaus should prepare for an enriching experience steeped in cultural significance. The location is accessible via various modes of transport within Mannheim, making it easy to include in a broader exploration of the city’s heritage sites. 
+Visitors planning a trip to the Lemle-Moses-Klaus should prepare for an enriching experience steeped in cultural significance. The location is accessible via various modes of transport within Mannheim, making it easy to include in a broader exploration of the city's heritage sites. 
 
 Check the official website for current information regarding opening hours and any potential fees. While specific details may vary, it is advisable to allocate a couple of hours for your visit. This timeframe allows for a thorough exploration of the site and reflection on its historical context. 
 

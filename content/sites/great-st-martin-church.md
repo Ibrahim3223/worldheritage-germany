@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Great St. Martin Church, a prominent church building located in the heart of Cologne, Germany, is an architectural marvel that captures the essence of the city’s rich cultural tapestry. Situated in the Altstadt-Nord district, this stunning edifice is not only a place of worship but also a significant landmark that reflects Cologne's storied past. Known for its striking features and historical importance, the church attracts both locals and visitors alike, eager to explore its grandeur and appreciate its role in the community.
+The Great St. Martin Church, a prominent church building located in the heart of Cologne, Germany, is an architectural marvel that captures the essence of the city's rich cultural tapestry. Situated in the Altstadt-Nord district, this stunning edifice is not only a place of worship but also a significant landmark that reflects Cologne's storied past. Known for its striking features and historical importance, the church attracts both locals and visitors alike, eager to explore its grandeur and appreciate its role in the community.
 
-As you approach Great St. Martin Church, the impressive structure stands tall against the backdrop of the bustling city. Its historical significance is intertwined with the development of Cologne, making it a must-visit for anyone wishing to understand the city’s religious and cultural evolution. The church serves as a focal point for various community events and celebrations, enhancing its relevance in contemporary society. A visit here promises an insightful experience into Cologne’s ecclesiastical and artistic heritage, along with a chance to reflect on the spiritual life that continues to thrive in this vibrant city.
+As you approach Great St. Martin Church, the impressive structure stands tall against the backdrop of the bustling city. Its historical significance is intertwined with the development of Cologne, making it a must-visit for anyone wishing to understand the city's religious and cultural evolution. The church serves as a focal point for various community events and celebrations, enhancing its relevance in contemporary society. A visit here promises an insightful experience into Cologne's ecclesiastical and artistic heritage, along with a chance to reflect on the spiritual life that continues to thrive in this vibrant city.
 
 ## History and Significance
 
 Great St. Martin Church has a long-standing history that reflects the religious evolution of Cologne. The church is one of the oldest in the city and represents a significant chapter in the architectural and social narrative of the region. Its origins are linked to the early development of Christianity in Cologne, showcasing the importance of the church as a center for worship and community gatherings throughout the ages.
 
-The church has undergone several transformations over the centuries, adapting to the changing needs of its congregation and the broader community. Its significance extends beyond its religious functions; the church has served as a cultural landmark throughout Cologne’s history, witnessing major events and changes that have shaped the city. The Great St. Martin Church is also emblematic of the Catholic faith in a predominantly Protestant region, illustrating the diverse religious landscape of Germany.
+The church has undergone several transformations over the centuries, adapting to the changing needs of its congregation and the broader community. Its significance extends beyond its religious functions; the church has served as a cultural landmark throughout Cologne's history, witnessing major events and changes that have shaped the city. The Great St. Martin Church is also emblematic of the Catholic faith in a predominantly Protestant region, illustrating the diverse religious landscape of Germany.
 
 Historically, Great St. Martin Church has been a gathering point for various cultural and social activities, reflecting the vibrant spirit of the local community. Its enduring presence has made it a symbol of continuity amidst the changing tides of history, embodying the resilience of the people of Cologne.
 
@@ -108,4 +108,4 @@ While specific facilities may vary, it is advisable to check the area for nearby
 ### What should I wear?
 Dress modestly as a sign of respect for the sacred nature of the church, particularly if attending a service. 
 
-With its historical significance and stunning architecture, Great St. Martin Church remains a vital part of Cologne’s cultural fabric, inviting exploration and reflection from all who visit.
+With its historical significance and stunning architecture, Great St. Martin Church remains a vital part of Cologne's cultural fabric, inviting exploration and reflection from all who visit.

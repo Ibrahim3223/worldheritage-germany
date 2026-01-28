@@ -38,7 +38,7 @@ The architectural design of the Eisenbahnbrücke über die Müglitz showcases th
 
 Visitors can expect to observe the bridge's construction techniques that may include wrought iron or steel, materials commonly used in railway bridge construction during significant periods of industrial growth. The design is likely to exhibit elements typical of the time, such as arches or trusses that not only provide strength but also create an aesthetically pleasing silhouette against the natural landscape.
 
-The bridge’s location over the Müglitz River adds to its architectural appeal, as it harmonizes with the surrounding environment. The interaction of the bridge with the river creates opportunities for unique perspectives and photographs, particularly during sunrise or sunset when the light casts a warm glow over the structure.
+The bridge's location over the Müglitz River adds to its architectural appeal, as it harmonizes with the surrounding environment. The interaction of the bridge with the river creates opportunities for unique perspectives and photographs, particularly during sunrise or sunset when the light casts a warm glow over the structure.
 
 ## Visiting Information
 

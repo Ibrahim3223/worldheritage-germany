@@ -66,7 +66,7 @@ While visiting Schlosskirche Eisenberg, there are several nearby attractions tha
 
 2. **Parks and Green Spaces**: Enjoy the natural beauty of the area by visiting nearby parks, which offer scenic walks and spots for relaxation.
 
-3. **Historic Town Center**: Wander through Eisenberg’s town center, where charming streets and local shops provide a glimpse into daily life and local craftsmanship.
+3. **Historic Town Center**: Wander through Eisenberg's town center, where charming streets and local shops provide a glimpse into daily life and local craftsmanship.
 
 4. **Other Churches**: Discover additional churches in the vicinity that may offer different architectural styles and historical narratives, enriching the overall experience.
 

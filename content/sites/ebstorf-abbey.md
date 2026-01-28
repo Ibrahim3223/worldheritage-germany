@@ -48,7 +48,7 @@ Ebstorf Abbey's architecture reflects the typical characteristics of monastic bu
 
 The layout of the Abbey likely includes key elements found in many monastic complexes, such as a church, cloisters, and living quarters. These areas would have been designed to facilitate both communal living and solitary reflection, embodying the dual aspects of monastic life. The church, in particular, would have served as a focal point for worship and community gatherings, adorned with religious iconography that reflects the spiritual life of the Abbey.
 
-Inside the museum, visitors can expect to encounter an array of artifacts that tell the story of Ebstorf Abbey’s long history. These collections may include manuscripts, liturgical objects, and artworks that illustrate the monastic tradition and its influence on the surrounding area. The Abbey’s transformation into a museum allows for these historical treasures to be preserved and appreciated, offering insights into the daily lives of the monks and their contributions to society.
+Inside the museum, visitors can expect to encounter an array of artifacts that tell the story of Ebstorf Abbey's long history. These collections may include manuscripts, liturgical objects, and artworks that illustrate the monastic tradition and its influence on the surrounding area. The Abbey's transformation into a museum allows for these historical treasures to be preserved and appreciated, offering insights into the daily lives of the monks and their contributions to society.
 
 Overall, Ebstorf Abbey stands as a remarkable example of monastic architecture and design, with features that invite contemplation and appreciation for the craftsmanship of the past.
 
@@ -60,13 +60,13 @@ Ebstorf Abbey is located in Ebstorf, Germany, which is easily reachable by publi
 
 A typical visit to Ebstorf Abbey may require a few hours, allowing time to explore the museum's collections and to reflect on the peaceful environment. The best times to visit are often during weekdays or during the shoulder seasons, when crowds may be less intense, providing a more intimate experience of the site.
 
-As you explore the Abbey, be prepared to engage with the exhibits and take in the serene atmosphere that has been cultivated over centuries. The Abbey’s historical significance and the stories it tells make it a worthwhile stop for anyone interested in cultural heritage.
+As you explore the Abbey, be prepared to engage with the exhibits and take in the serene atmosphere that has been cultivated over centuries. The Abbey's historical significance and the stories it tells make it a worthwhile stop for anyone interested in cultural heritage.
 
 ## Nearby Attractions
 
 While visiting Ebstorf Abbey, there are several nearby attractions that complement your experience:
 
-1. **Ebstorf Town Center**: A charming area featuring local shops, cafes, and a glimpse into everyday life in Ebstorf. It’s an excellent spot to enjoy a meal after your visit to the Abbey.
+1. **Ebstorf Town Center**: A charming area featuring local shops, cafes, and a glimpse into everyday life in Ebstorf. It's an excellent spot to enjoy a meal after your visit to the Abbey.
 
 2. **St. John's Church**: Located in Ebstorf, this church is an example of local religious architecture and community life, offering another perspective on the region's spiritual heritage.
 

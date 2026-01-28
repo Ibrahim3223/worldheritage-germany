@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Alte Mann Colliery, located in Bochum, Germany, is a significant site that encapsulates the industrial heritage of the region. As a former mine, it reflects the evolution of coal mining and its impact on the economic and social landscape of the area. Bochum, situated in the heart of the Ruhr area, has a rich industrial past, making the Alte Mann Colliery an essential point of interest for those wanting to explore the roots of Germany's mining history. Visitors can expect to encounter the remnants of a once-thriving industry, where the echoes of miners’ lives and labor resonate through the structures. This site invites exploration and reflection, offering insights into the technological advancements and the human stories that shaped the local community.
+The Alte Mann Colliery, located in Bochum, Germany, is a significant site that encapsulates the industrial heritage of the region. As a former mine, it reflects the evolution of coal mining and its impact on the economic and social landscape of the area. Bochum, situated in the heart of the Ruhr area, has a rich industrial past, making the Alte Mann Colliery an essential point of interest for those wanting to explore the roots of Germany's mining history. Visitors can expect to encounter the remnants of a once-thriving industry, where the echoes of miners' lives and labor resonate through the structures. This site invites exploration and reflection, offering insights into the technological advancements and the human stories that shaped the local community.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Alte Mann Colliery features architecture typical of industrial sites from it
 
 The physical layout of the colliery likely includes remnants of the mining infrastructure, such as headframes and winding gear, which were essential for the extraction of coal. These features not only provide insight into the engineering techniques of the time but also showcase the scale of operations that once took place here. The wear and tear on these structures tell a story of hard labor and the challenges faced by those who worked within these walls.
 
-Visitors may also notice interpretive signage or displays that offer context and information about the site’s historical significance. Such features enhance the understanding of the colliery's role in the broader narrative of industrial development in Germany.
+Visitors may also notice interpretive signage or displays that offer context and information about the site's historical significance. Such features enhance the understanding of the colliery's role in the broader narrative of industrial development in Germany.
 
 ## Visiting Information
 
@@ -88,7 +88,7 @@ Seasonal considerations may also play a role in your visit; for instance, certai
 The duration of your visit can vary, but typically, 1 to 3 hours will allow you to explore the site thoroughly and engage with available exhibits.
 
 ### Is photography allowed?
-Check the site’s policy regarding photography, as some areas may have restrictions.
+Check the site's policy regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 It is advisable to check the official website for information on guided tours, as they can provide deeper insights into the history of the site.

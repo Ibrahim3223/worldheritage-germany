@@ -78,7 +78,7 @@ To avoid crowds, aim for weekdays or visit during off-peak seasons. This will al
 
 ## Practical Information
 
-When planning your visit to Knoop Manor, it’s wise to bring along items that contribute to a comfortable experience. Water bottles, light snacks, and perhaps a guidebook can enhance your exploration. Dress in layers, as temperatures may vary throughout the day, especially if you plan to explore outdoor areas.
+When planning your visit to Knoop Manor, it's wise to bring along items that contribute to a comfortable experience. Water bottles, light snacks, and perhaps a guidebook can enhance your exploration. Dress in layers, as temperatures may vary throughout the day, especially if you plan to explore outdoor areas.
 
 Seasonal considerations should also factor into your planning. Spring and summer may provide the best opportunities for outdoor exploration, while autumn could offer a picturesque backdrop with changing leaves. Always check the official website for any seasonal events or specific recommendations to enhance your visit.
 
@@ -103,7 +103,7 @@ Accessibility information may vary; check the official website for detailed acce
 For the most convenient experience, check the official website for information on online ticket purchasing.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site; it’s best to check the official website for specific amenities.
+Facilities may be available on-site; it's best to check the official website for specific amenities.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan on exploring the grounds. Dress appropriately for the weather conditions.

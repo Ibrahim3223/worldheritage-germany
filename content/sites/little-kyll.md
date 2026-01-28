@@ -46,7 +46,7 @@ Moreover, the river system that feeds into Little Kyll contributes to its ecolog
 
 ## Visiting Information
 
-Visiting Little Kyll can be a delightful experience for anyone interested in nature and tranquility. To reach the waterfall, various transport options are available. It’s advisable to check local transport routes and schedules for the most convenient access. For those driving, be mindful of parking regulations and available spaces nearby. 
+Visiting Little Kyll can be a delightful experience for anyone interested in nature and tranquility. To reach the waterfall, various transport options are available. It's advisable to check local transport routes and schedules for the most convenient access. For those driving, be mindful of parking regulations and available spaces nearby. 
 
 Check the official website for current information regarding opening hours and any potential fees. While specific details may vary, visitors should anticipate spending a few hours at Little Kyll to fully appreciate the surroundings, go for a short walk, or simply relax by the water. 
 
@@ -93,7 +93,7 @@ Currently, there are no formal guided tours specifically for Little Kyll. Howeve
 Spring and summer months are ideal for a visit, offering vibrant scenery and pleasant weather.
 
 ### Is it wheelchair accessible?
-Information on accessibility is not specified. It’s advisable to check the official website for details regarding wheelchair access.
+Information on accessibility is not specified. It's advisable to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding any tickets or entrance fees.

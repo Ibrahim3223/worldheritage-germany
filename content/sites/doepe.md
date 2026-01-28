@@ -104,4 +104,4 @@ Restroom availability and dining options are not mentioned in the available data
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to engage in outdoor activities around the lake. Dress according to the season and weather conditions. 
 
-Döpe promises a refreshing visit for those seeking to enjoy the natural beauty of Germany’s lakes. Whether you are a local or a traveler from afar, the serene atmosphere and rich natural surroundings create an inviting environment for relaxation and exploration.
+Döpe promises a refreshing visit for those seeking to enjoy the natural beauty of Germany's lakes. Whether you are a local or a traveler from afar, the serene atmosphere and rich natural surroundings create an inviting environment for relaxation and exploration.

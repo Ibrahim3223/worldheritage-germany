@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Gut Oevelgönne: Torhaus is a striking gatehouse located in Sierksdorf, Germany. Positioned within a region known for its rich historical context and picturesque landscapes, this structure serves not only as an entryway but also as a significant remnant of the area’s architectural heritage. The gatehouse is emblematic of the traditional designs that characterize German rural architecture, providing visitors with a glimpse into the past while enriching their understanding of local history.
+Gut Oevelgönne: Torhaus is a striking gatehouse located in Sierksdorf, Germany. Positioned within a region known for its rich historical context and picturesque landscapes, this structure serves not only as an entryway but also as a significant remnant of the area's architectural heritage. The gatehouse is emblematic of the traditional designs that characterize German rural architecture, providing visitors with a glimpse into the past while enriching their understanding of local history.
 
-Situated at the coordinates 54.087067, 10.744447, Gut Oevelgönne: Torhaus has become a focal point for those interested in heritage and architecture. Its presence adds cultural depth to the Sierksdorf area, inviting travelers to explore a variety of experiences that connect them to the region’s roots. Whether you are an avid historian, an architecture enthusiast, or simply seeking a unique stop during your travels, Gut Oevelgönne: Torhaus promises a worthwhile experience.
+Situated at the coordinates 54.087067, 10.744447, Gut Oevelgönne: Torhaus has become a focal point for those interested in heritage and architecture. Its presence adds cultural depth to the Sierksdorf area, inviting travelers to explore a variety of experiences that connect them to the region's roots. Whether you are an avid historian, an architecture enthusiast, or simply seeking a unique stop during your travels, Gut Oevelgönne: Torhaus promises a worthwhile experience.
 
 ## History and Significance
 

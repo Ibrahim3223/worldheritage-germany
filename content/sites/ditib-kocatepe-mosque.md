@@ -109,7 +109,7 @@ Accessibility information can usually be found on the official website, which wi
 Check the official website for any information regarding ticket purchases or fees for special events.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but for café options, it’s advisable to explore the surrounding area.
+Facilities such as restrooms may be available on-site, but for café options, it's advisable to explore the surrounding area.
 
 ### What should I wear?
 Dress modestly to show respect, covering shoulders and knees. Comfortable shoes are also recommended for walking around.

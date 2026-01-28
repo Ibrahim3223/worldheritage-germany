@@ -28,7 +28,7 @@ image_srcset:
 
 The St Salvatoris Church in Zellerfeld, Germany, is a striking ecclesiastical structure that invites visitors to explore its architectural beauty and historical significance. Located in the Harz region, this church serves as a focal point of spiritual life in the area and reflects the rich cultural heritage of the surrounding community. As you approach the church, its distinct features stand out against the backdrop of the scenic landscape, drawing in both locals and travelers alike. The significance of St Salvatoris extends beyond its religious function; it embodies the artistic and architectural traditions that have shaped the region over centuries.
 
-Visitors to St Salvatoris can expect a profound encounter with the past, as the church not only serves as a place of worship but also as a witness to the evolving narratives of its community. The serene atmosphere and historical ambiance make it a worthwhile stop for anyone interested in exploring Germany’s ecclesiastical architecture and heritage.
+Visitors to St Salvatoris can expect a profound encounter with the past, as the church not only serves as a place of worship but also as a witness to the evolving narratives of its community. The serene atmosphere and historical ambiance make it a worthwhile stop for anyone interested in exploring Germany's ecclesiastical architecture and heritage.
 
 ## History and Significance
 
@@ -58,13 +58,13 @@ The best times to visit St Salvatoris typically align with local festivities or 
 
 While visiting St Salvatoris, there are several other attractions in and around Zellerfeld that are worth exploring:
 
-1. **Clausthal-Zellerfeld Mining Museum**: This museum offers insights into the region’s mining history, showcasing artifacts and exhibits that highlight the significance of mining in the local economy.
+1. **Clausthal-Zellerfeld Mining Museum**: This museum offers insights into the region's mining history, showcasing artifacts and exhibits that highlight the significance of mining in the local economy.
 
 2. **Harz National Park**: A short drive away, this national park features stunning natural landscapes, hiking trails, and opportunities for wildlife observation, appealing to nature enthusiasts.
 
 3. **The Old Town of Clausthal**: Known for its traditional timber-framed houses, the old town provides a picturesque setting for a leisurely stroll while immersing yourself in the local culture.
 
-4. **The Battle of the Harz Mountains Memorial**: This site commemorates the historical events that took place in the region during significant conflicts, offering a deeper understanding of the area’s past.
+4. **The Battle of the Harz Mountains Memorial**: This site commemorates the historical events that took place in the region during significant conflicts, offering a deeper understanding of the area's past.
 
 5. **Zellerfeld Town Center**: A charming area with shops, cafes, and local eateries, providing visitors a taste of local cuisine and culture.
 

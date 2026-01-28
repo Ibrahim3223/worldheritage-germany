@@ -50,7 +50,7 @@ When planning a visit, anticipate spending at least an hour engaging with the mo
 
 The Monument to Freedom and Unity is strategically located near several notable attractions in Berlin, making it an excellent starting point for further exploration:
 
-1. **Berlin Wall Memorial**: This site offers a poignant reminder of the city’s divided past, featuring preserved sections of the Berlin Wall and informative exhibits.
+1. **Berlin Wall Memorial**: This site offers a poignant reminder of the city's divided past, featuring preserved sections of the Berlin Wall and informative exhibits.
    
 2. **Brandenburg Gate**: An iconic symbol of Berlin, this neoclassical monument is steeped in history and serves as a central meeting point for visitors.
 

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Denkmal für Herzog Ludwig den Reichen, or the Monument for Duke Ludwig the Rich, stands as an impressive testament to the rich historical narrative woven into the fabric of Landshut, Germany. This monument commemorates Duke Ludwig, a significant figure whose impact on the region is still felt today. Located at coordinates 48.5324, 12.1498, the monument serves as a focal point for both history enthusiasts and casual visitors alike, drawing them into the story of the region’s past.
+The Denkmal für Herzog Ludwig den Reichen, or the Monument for Duke Ludwig the Rich, stands as an impressive testament to the rich historical narrative woven into the fabric of Landshut, Germany. This monument commemorates Duke Ludwig, a significant figure whose impact on the region is still felt today. Located at coordinates 48.5324, 12.1498, the monument serves as a focal point for both history enthusiasts and casual visitors alike, drawing them into the story of the region's past.
 
 Landshut, situated in Bavaria, is known for its medieval architecture and vibrant cultural heritage. The monument not only honors a pivotal duke in the region's history but also enhances the cultural landscape of Landshut, making it an essential stop for anyone exploring the area. Whether you are an ardent historian or simply curious about the local culture, this monument promises a deeper appreciation of the city's past and its artistic expressions.
 
@@ -30,7 +30,7 @@ Duke Ludwig the Rich, who reigned during the late Middle Ages, played a crucial 
 
 The monument also encapsulates the broader historical context of the time, reflecting the power dynamics, cultural exchanges, and artistic endeavors that characterized the era. As a central figure, Ludwig's influence extended beyond Landshut, impacting Bavaria and the surrounding regions. The monument serves to remind visitors of the interconnectedness of history, local governance, and cultural identity.
 
-In recognizing Duke Ludwig, the monument also acts as a symbol of pride for the local community. It represents the values of leadership, prosperity, and cultural flourishing that have shaped Landshut’s identity over centuries. Visitors to the monument can reflect on the historical significance of its namesake while appreciating how his legacy continues to inform the region's contemporary culture.
+In recognizing Duke Ludwig, the monument also acts as a symbol of pride for the local community. It represents the values of leadership, prosperity, and cultural flourishing that have shaped Landshut's identity over centuries. Visitors to the monument can reflect on the historical significance of its namesake while appreciating how his legacy continues to inform the region's contemporary culture.
 
 ## Architecture and Features
 
@@ -54,7 +54,7 @@ While exploring the Denkmal für Herzog Ludwig den Reichen, consider extending y
 
 1. **Landshut Castle**: This historical fortress offers panoramic views of the city and provides insights into the region's medieval history.
 2. **St. Martin's Church**: Renowned for its impressive tower and beautiful architecture, this church is a must-visit for those interested in religious heritage.
-3. **Alter Peter**: This historic tower offers a glimpse into the city’s past and serves as a lovely viewpoint over Landshut.
+3. **Alter Peter**: This historic tower offers a glimpse into the city's past and serves as a lovely viewpoint over Landshut.
 4. **Museum der Stadt Landshut**: This city museum showcases the history and culture of Landshut through various exhibits and collections.
 
 Each of these sites contributes to the rich historical narrative of Landshut, making for a well-rounded visit to the area.

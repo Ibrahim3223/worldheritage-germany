@@ -30,7 +30,7 @@ image_srcset:
 
 Saint Matthew's Church, located in the vibrant city of Munich, Germany, serves as a modern architectural marvel and an important spiritual center for locals and visitors alike. Constructed in the 1950s, this church reflects a post-war revival period, encapsulating the spirit of its time while catering to the needs of a growing urban population. As a place of worship and community gathering, Saint Matthew's Church stands out not only for its serene ambiance but also for its significance in the cultural fabric of Munich. With its welcoming atmosphere and contemporary design, it offers visitors a unique opportunity to appreciate the blend of faith and architecture in a bustling city.
 
-Situated at coordinates 48.133180975, 11.56480918, the church is easily accessible and serves as a point of interest for those exploring the rich heritage of Munich. Whether you are drawn by the architectural features or the spiritual experience, a visit to Saint Matthew's Church promises to enrich your understanding of the city’s religious and cultural landscape.
+Situated at coordinates 48.133180975, 11.56480918, the church is easily accessible and serves as a point of interest for those exploring the rich heritage of Munich. Whether you are drawn by the architectural features or the spiritual experience, a visit to Saint Matthew's Church promises to enrich your understanding of the city's religious and cultural landscape.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Reaching Saint Matthew's Church is straightforward, given its central location i
 
 When planning your visit, remember to check the official website for current information regarding opening hours and any potential admission fees. Depending on your interests, you may want to allocate time for both participation in services and exploration of the church's architecture.
 
-The best times to visit are generally during regular service hours or during community events, as these occasions provide a fuller experience of the church’s vibrant role in the community. A visit to Saint Matthew's Church can typically be completed in an hour or two, allowing ample time to appreciate its features while also exploring the surrounding area.
+The best times to visit are generally during regular service hours or during community events, as these occasions provide a fuller experience of the church's vibrant role in the community. A visit to Saint Matthew's Church can typically be completed in an hour or two, allowing ample time to appreciate its features while also exploring the surrounding area.
 
 ## Nearby Attractions
 

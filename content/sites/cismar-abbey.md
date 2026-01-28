@@ -70,15 +70,15 @@ For a more enriching experience, consider participating in any special events or
 
 While visiting Cismar Abbey, there are several nearby attractions that can enhance your experience in the region:
 
-1. **Grömitz Beach**: Just a short distance away, this popular beach offers stunning coastal views and a chance to relax by the sea. It’s ideal for a leisurely stroll or a family outing.
+1. **Grömitz Beach**: Just a short distance away, this popular beach offers stunning coastal views and a chance to relax by the sea. It's ideal for a leisurely stroll or a family outing.
 
-2. **Kloster Cismar**: This historical site is in close proximity and offers additional insights into monastic life and the region's heritage. It’s worth exploring for those interested in religious architecture and history.
+2. **Kloster Cismar**: This historical site is in close proximity and offers additional insights into monastic life and the region's heritage. It's worth exploring for those interested in religious architecture and history.
 
 3. **Kellenhusen Lighthouse**: Located nearby, this lighthouse serves as a picturesque landmark and provides a splendid view of the coastline. It's an excellent spot for photography enthusiasts.
 
 4. **Old Town of Grömitz**: This charming area features quaint shops, cafes, and a vibrant local atmosphere. Strolling through the old town allows visitors to soak in the local culture and enjoy a leisurely meal.
 
-5. **Nature Reserve Cismar**: This nearby nature reserve provides opportunities for hiking and observing local wildlife. It’s a perfect way to reconnect with nature after exploring the abbey.
+5. **Nature Reserve Cismar**: This nearby nature reserve provides opportunities for hiking and observing local wildlife. It's a perfect way to reconnect with nature after exploring the abbey.
 
 ## Insider Tips
 
@@ -90,7 +90,7 @@ Additionally, plan to visit during weekdays if possible, as weekends can be busi
 
 When preparing for your visit to Cismar Abbey, it's advisable to wear comfortable shoes, as you may find yourself walking on uneven surfaces within the abbey and its grounds. Additionally, consider bringing a light jacket or sweater, as indoor areas can sometimes be cooler than expected.
 
-If you're visiting during peak tourist seasons, it’s wise to check the official website for any seasonal events or exhibits that may be scheduled. This ensures you won’t miss out on unique opportunities to engage with the abbey's history.
+If you're visiting during peak tourist seasons, it's wise to check the official website for any seasonal events or exhibits that may be scheduled. This ensures you won't miss out on unique opportunities to engage with the abbey's history.
 
 Finally, be sure to carry a water bottle and snacks, especially if you plan to explore the nearby attractions. While there may be dining options in the vicinity, having refreshments on hand can enhance your overall experience.
 

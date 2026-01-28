@@ -34,13 +34,13 @@ Strategically situated within the city, the cathedral's presence enhances the ur
 
 Minden Cathedral has a storied past that reflects the cultural and religious evolution of the region. Originally constructed as a place of worship, it has endured various historical events that have shaped its significance. The cathedral has served as a spiritual hub for the local community, reflecting the changing tides of faith and society throughout the ages.
 
-The cathedral’s role extends beyond that of a religious building; it has been a witness to significant events in the history of Minden and its surroundings. Its presence has influenced local traditions and customs, making it an integral part of the city's identity. The building itself is a repository of stories, from the lives of the faithful who have worshipped here to the historical figures who have crossed its threshold.
+The cathedral's role extends beyond that of a religious building; it has been a witness to significant events in the history of Minden and its surroundings. Its presence has influenced local traditions and customs, making it an integral part of the city's identity. The building itself is a repository of stories, from the lives of the faithful who have worshipped here to the historical figures who have crossed its threshold.
 
 As a center for both religious services and community gatherings, Minden Cathedral continues to play a vital role in the lives of the people in the region. Its enduring presence serves as a reminder of the continuity of faith and tradition in a rapidly changing world, making it a significant landmark in the cultural landscape of Minden.
 
 ## Architecture and Features
 
-Minden Cathedral is characterized by its remarkable architectural style, which combines elements of different periods and influences. The design reflects the craftsmanship and artistic vision of its creators, showcasing intricate details that delight the eye. The overall structure exhibits a strong sense of verticality, typical of cathedral architecture, drawing visitors’ gaze upward and inviting contemplation.
+Minden Cathedral is characterized by its remarkable architectural style, which combines elements of different periods and influences. The design reflects the craftsmanship and artistic vision of its creators, showcasing intricate details that delight the eye. The overall structure exhibits a strong sense of verticality, typical of cathedral architecture, drawing visitors' gaze upward and inviting contemplation.
 
 Notable features of the cathedral include its impressive façade, which is adorned with decorative elements that highlight the skill of medieval artisans. The interior of the cathedral is equally captivating, with spacious nave and aisles that create a sense of openness and tranquility. Natural light filters through beautifully crafted stained glass windows, casting colorful patterns on the stone floor and enhancing the meditative atmosphere.
 
@@ -66,7 +66,7 @@ Minden is home to several attractions that complement a visit to the cathedral. 
 
 4. **Parks and Gardens**: The surrounding parks provide green spaces for relaxation and picnicking, ideal for families or anyone looking to enjoy the outdoors.
 
-5. **St. Mary's Church**: Not far from the cathedral, this historic church is another example of Minden’s rich ecclesiastical heritage worth visiting.
+5. **St. Mary's Church**: Not far from the cathedral, this historic church is another example of Minden's rich ecclesiastical heritage worth visiting.
 
 ## Insider Tips
 

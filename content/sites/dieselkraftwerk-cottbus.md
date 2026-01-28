@@ -44,7 +44,7 @@ The architectural design of the Dieselkraftwerk Cottbus is a fascinating blend o
 
 Inside, the museum has been thoughtfully designed to accommodate a variety of art forms. The expansive galleries allow for large-scale installations, while smaller, more intimate spaces are perfect for showcasing detailed works. The layout encourages visitors to explore and engage with the art in a fluid manner, facilitating a deeper appreciation of the pieces on display.
 
-Notable features of the museum include its high ceilings, which contribute to an open and airy atmosphere, enhancing the viewing experience. The use of natural light through strategically placed windows creates a dynamic interplay of shadows and illumination, further enriching the art presented within. The museum’s commitment to maintaining the integrity of the original structure while providing modern amenities ensures that it serves both as a functional art space and a historical monument.
+Notable features of the museum include its high ceilings, which contribute to an open and airy atmosphere, enhancing the viewing experience. The use of natural light through strategically placed windows creates a dynamic interplay of shadows and illumination, further enriching the art presented within. The museum's commitment to maintaining the integrity of the original structure while providing modern amenities ensures that it serves both as a functional art space and a historical monument.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While the Dieselkraftwerk Cottbus is a compelling destination on its own, the su
 
 To make the most of your visit to Dieselkraftwerk Cottbus, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibitions may have restrictions. If allowed, be mindful of the artworks and other visitors while capturing your moments.
+- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. If allowed, be mindful of the artworks and other visitors while capturing your moments.
 
 - **Crowd Avoidance**: To experience the museum with fewer crowds, aim to visit during weekdays or during off-peak hours, typically early in the morning or late in the afternoon.
 
@@ -94,7 +94,7 @@ Before heading to Dieselkraftwerk Cottbus, consider these practical aspects to e
 A visit typically requires a few hours, allowing ample time to explore the exhibitions and engage with the art.
 
 ### Is photography allowed?
-Policies on photography may vary by exhibition, so it’s best to check the museum’s guidelines upon arrival.
+Policies on photography may vary by exhibition, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide valuable insights into the exhibitions and artists.
@@ -109,7 +109,7 @@ For detailed information about accessibility, including wheelchair access, visit
 Check the official website for options regarding online ticket purchases to streamline your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are available on-site. For dining options, explore nearby cafes or check the museum’s website for any on-site dining services.
+Facilities such as restrooms are available on-site. For dining options, explore nearby cafes or check the museum's website for any on-site dining services.
 
 ### What should I wear?
 Dress comfortably for walking, as you will be exploring both the museum and potentially outdoor attractions nearby.

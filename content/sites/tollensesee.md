@@ -36,7 +36,7 @@ Tollensesee has a deep-rooted connection to the history and culture of Neubrande
 
 In addition to its ecological importance, Tollensesee holds cultural significance for the residents of Neubrandenburg. The lake is a popular gathering spot for community events, festivals, and recreational activities. Its shores are often lined with families enjoying picnics, friends gathering for outdoor sports, and individuals seeking solace in nature. The surrounding parks and pathways have fostered a sense of community, making it a vital part of social life in the area.
 
-Furthermore, the lake's proximity to historic sites in Neubrandenburg adds another layer of significance. The city is known for its medieval architecture, including the iconic city wall and gates, which are a short distance away. Tollensesee complements the historical narrative of Neubrandenburg, offering a scenic backdrop to the city’s vibrant past.
+Furthermore, the lake's proximity to historic sites in Neubrandenburg adds another layer of significance. The city is known for its medieval architecture, including the iconic city wall and gates, which are a short distance away. Tollensesee complements the historical narrative of Neubrandenburg, offering a scenic backdrop to the city's vibrant past.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Tollensesee is primarily known for its natural beauty rather than architectural 
 
 The surrounding landscape is rich with native flora, providing a habitat for various bird species and wildlife. The area is ideal for birdwatching and nature photography, as the lake attracts a variety of migratory birds throughout the year. The tranquil setting offers a peaceful retreat from the hustle and bustle of urban life, inviting visitors to pause and appreciate the natural environment.
 
-While there are no specific architectural landmarks directly on the lake, the nearby city of Neubrandenburg adds a historical context to the area. Visitors can explore the contrast between the tranquil waters of Tollensesee and the medieval structures that define the city’s skyline. This blend of natural and historical elements creates a unique atmosphere that enhances the overall experience of visiting the lake.
+While there are no specific architectural landmarks directly on the lake, the nearby city of Neubrandenburg adds a historical context to the area. Visitors can explore the contrast between the tranquil waters of Tollensesee and the medieval structures that define the city's skyline. This blend of natural and historical elements creates a unique atmosphere that enhances the overall experience of visiting the lake.
 
 ## Visiting Information
 

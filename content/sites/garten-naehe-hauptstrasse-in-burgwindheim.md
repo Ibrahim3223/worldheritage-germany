@@ -90,7 +90,7 @@ When planning your visit to Garten Nähe Hauptstraße, consider these practical 
 A visit typically lasts around one to two hours, allowing ample time to explore and appreciate the garden's beauty.
 
 ### Is photography allowed?
-Yes, photography is allowed, so don’t forget to capture the stunning landscapes.
+Yes, photography is allowed, so don't forget to capture the stunning landscapes.
 
 ### Are there guided tours?
 Information about guided tours is not specified; check the official website for potential offerings.

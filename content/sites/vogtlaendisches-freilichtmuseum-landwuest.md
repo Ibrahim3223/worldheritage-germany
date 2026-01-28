@@ -28,7 +28,7 @@ image_srcset:
 
 The Vogtländisches Freilichtmuseum Landwüst stands as a captivating museum located in Markneukirchen, Germany, dedicated to showcasing the region's rich cultural heritage. This open-air museum offers visitors a unique opportunity to explore traditional Saxon architecture, crafts, and ways of life from various periods. The museum is set in a picturesque landscape that enhances the experience of stepping into the daily lives of past generations.
 
-As you wander through the museum’s grounds, you'll encounter a collection of historical buildings and artifacts that reflect the local customs, trades, and lifestyles of the Vogtland region. The museum not only serves as a space for education and preservation but also fosters a deep appreciation for the cultural identity of the area. Whether you're an enthusiast of history or simply looking for an engaging way to spend your day, Vogtländisches Freilichtmuseum Landwüst promises an enriching experience.
+As you wander through the museum's grounds, you'll encounter a collection of historical buildings and artifacts that reflect the local customs, trades, and lifestyles of the Vogtland region. The museum not only serves as a space for education and preservation but also fosters a deep appreciation for the cultural identity of the area. Whether you're an enthusiast of history or simply looking for an engaging way to spend your day, Vogtländisches Freilichtmuseum Landwüst promises an enriching experience.
 
 ## History and Significance
 

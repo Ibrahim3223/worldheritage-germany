@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St.-Johannis-Kirche, located in the Kirchrode-Bemerode-Wülferode region of Hannover, Germany, is a church building that captures the essence of local spiritual life and community gathering. This church not only serves as a place of worship but also represents a significant cultural landmark for the residents of Bemerode and surrounding areas. The serene ambiance and architectural features make it a notable stop for visitors interested in ecclesiastical architecture and local heritage. As you approach the church, you’ll find it situated in a tranquil environment, inviting exploration and reflection. 
+St.-Johannis-Kirche, located in the Kirchrode-Bemerode-Wülferode region of Hannover, Germany, is a church building that captures the essence of local spiritual life and community gathering. This church not only serves as a place of worship but also represents a significant cultural landmark for the residents of Bemerode and surrounding areas. The serene ambiance and architectural features make it a notable stop for visitors interested in ecclesiastical architecture and local heritage. As you approach the church, you'll find it situated in a tranquil environment, inviting exploration and reflection. 
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak hours, all
 
 ## Practical Information
 
-When visiting St.-Johannis-Kirche, it’s beneficial to bring along a camera to capture the church's architectural beauty and your experiences. Comfortable walking shoes are recommended, as you may want to explore the surrounding area.
+When visiting St.-Johannis-Kirche, it's beneficial to bring along a camera to capture the church's architectural beauty and your experiences. Comfortable walking shoes are recommended, as you may want to explore the surrounding area.
 
 Seasonal considerations may play a role in your visit; in the warmer months, outdoor activities and nearby parks can enhance your experience, while in colder months, the church may provide a warm refuge from the elements.
 
@@ -86,7 +86,7 @@ Seasonal considerations may play a role in your visit; in the warmer months, out
 A visit to St.-Johannis-Kirche typically takes about an hour, allowing you to appreciate the architecture and atmosphere. 
 
 ### Is photography allowed?
-Photography is generally permitted, especially of the exterior, but it’s best to be respectful of worshippers and check for any signs indicating restrictions inside.
+Photography is generally permitted, especially of the exterior, but it's best to be respectful of worshippers and check for any signs indicating restrictions inside.
 
 ### Are there guided tours?
 Information regarding guided tours may vary, so check the official website for availability and details.

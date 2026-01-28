@@ -78,7 +78,7 @@ To enhance your visit to Bamberg Cathedral, consider the following insider tips:
 
 ## Practical Information
 
-When visiting Bamberg Cathedral, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend significant time exploring both the cathedral and its surrounding areas. Consider bringing a light jacket, as the interior can be cooler than expected.
+When visiting Bamberg Cathedral, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend significant time exploring both the cathedral and its surrounding areas. Consider bringing a light jacket, as the interior can be cooler than expected.
 
 Seasonal considerations are also important. Summers can draw larger crowds, while winter visits may offer a more tranquil atmosphere. Always check the official website for any seasonal events or closures that could affect your visit.
 

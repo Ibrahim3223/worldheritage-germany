@@ -74,7 +74,7 @@ For those planning a visit to the Theodor-Zink-Museum, consider the following in
 
 - **Photography**: While many museums have restrictions on photography, be sure to check the specific policies at Theodor-Zink-Museum regarding capturing images of the exhibits.
 - **Crowd Avoidance**: To enjoy a quieter experience, try to visit during weekdays or outside of peak tourist seasons. Early morning visits can also provide a more serene atmosphere.
-- **Engage with Staff**: The museum staff can be an invaluable resource for insights and recommendations on exhibits or upcoming events. Don’t hesitate to ask questions or seek their guidance.
+- **Engage with Staff**: The museum staff can be an invaluable resource for insights and recommendations on exhibits or upcoming events. Don't hesitate to ask questions or seek their guidance.
 
 ## Practical Information
 

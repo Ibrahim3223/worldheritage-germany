@@ -34,7 +34,7 @@ The significance of Grundschule am Agilolfingerplatz extends beyond its primary 
 
 While specific dates regarding the establishment of Grundschule am Agilolfingerplatz are not available, the school is emblematic of the broader trends in educational architecture in Germany. The evolution of primary schools in the country has often been tied to shifts in educational policy, reflecting changing attitudes towards pedagogy and the role of schools in community life. Grundschule am Agilolfingerplatz likely emerged in response to these educational reforms, aiming to provide a nurturing and stimulating environment for children.
 
-In Germany, primary education is not just about imparting knowledge; it is also about fostering social skills and community engagement. Schools like Grundschule am Agilolfingerplatz play a vital role in this mission, serving as community hubs where families can gather and participate in various activities. The school’s design emphasizes functionality and accessibility, making it a central point of interest in the neighborhood.
+In Germany, primary education is not just about imparting knowledge; it is also about fostering social skills and community engagement. Schools like Grundschule am Agilolfingerplatz play a vital role in this mission, serving as community hubs where families can gather and participate in various activities. The school's design emphasizes functionality and accessibility, making it a central point of interest in the neighborhood.
 
 Moreover, the architectural significance of the school cannot be understated. It reflects the ongoing dialogue between education and architecture, as modern schools strive to create spaces that are not only conducive to learning but also inspiring for students. This school is part of a larger movement that prioritizes open and flexible learning environments, which can enhance creativity and collaboration among students.
 
@@ -52,7 +52,7 @@ Getting to Grundschule am Agilolfingerplatz is relatively straightforward, given
 
 Expect to see a lively environment filled with students engaged in various learning activities. While the primary function of the school is education, visitors may be able to observe the day-to-day operations, which can provide insight into modern educational practices in Germany. Depending on your interests, you might spend around an hour or two exploring the school and its surroundings.
 
-The best times to visit are typically during school hours when the building is active with students and staff. However, it’s essential to respect the learning environment; thus, engaging with the site in a quiet and unobtrusive manner is recommended.
+The best times to visit are typically during school hours when the building is active with students and staff. However, it's essential to respect the learning environment; thus, engaging with the site in a quiet and unobtrusive manner is recommended.
 
 ## Nearby Attractions
 
@@ -87,7 +87,7 @@ A visit to Grundschule am Agilolfingerplatz can take about one to two hours, dep
 While photography may be permitted, it is crucial to be respectful of the students and staff. Always check for any signs indicating photography restrictions.
 
 ### Are there guided tours?
-Guided tours may not be available at all times due to the nature of the school environment. It’s best to check with the school for any special arrangements.
+Guided tours may not be available at all times due to the nature of the school environment. It's best to check with the school for any special arrangements.
 
 ### What's the best time to visit?
 The best time to visit is during school hours, particularly mid-morning or early afternoon on weekdays, to observe the school in action.

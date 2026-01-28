@@ -66,7 +66,7 @@ While exploring St.-Johannis-Kirche, there are several nearby attractions that e
 
 ## Insider Tips
 
-For photography enthusiasts, St.-Johannis-Kirche provides numerous opportunities to capture its architectural beauty. Early morning or late afternoon light can create stunning images, particularly when highlighting the church’s details. 
+For photography enthusiasts, St.-Johannis-Kirche provides numerous opportunities to capture its architectural beauty. Early morning or late afternoon light can create stunning images, particularly when highlighting the church's details. 
 
 To avoid crowds, consider visiting during weekdays, especially if you prefer a quieter experience. Additionally, checking local event calendars can help determine when the church might be hosting special services or gatherings that could impact visitor numbers.
 

@@ -36,7 +36,7 @@ The history of Großenhain Cottbuser Bahnhof railway station is intertwined with
 
 Railway stations have historically served as social and economic hubs, and Großenhain Cottbuser Bahnhof is no exception. It has played a crucial role in connecting the community to larger cities and regions, fostering trade and tourism. This connectivity has enriched Großenhain's cultural landscape, allowing for the exchange of ideas and traditions, which is vital in a rapidly globalizing world.
 
-In the context of Germany’s extensive railway history, Großenhain Cottbuser Bahnhof stands out as a representation of local heritage. While the station itself may not feature prominently in the annals of railway history, its operational significance continues to impact the daily lives of those who reside in and travel through Großenhain. 
+In the context of Germany's extensive railway history, Großenhain Cottbuser Bahnhof stands out as a representation of local heritage. While the station itself may not feature prominently in the annals of railway history, its operational significance continues to impact the daily lives of those who reside in and travel through Großenhain. 
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ Although the station may not be characterized by elaborate embellishments or his
 
 When planning a visit to Großenhain Cottbuser Bahnhof railway station, it is advisable to check the official website for current information regarding hours of operation and ticket prices. The station is accessible via various modes of transport, making it convenient for visitors to reach. 
 
-Expect to find facilities that cater to travelers, including waiting areas and potential ticket kiosks. The typical duration for a visit may vary based on individual travel plans, but a brief stop to explore the station’s amenities and gather information about onward journeys can be accomplished in approximately 30 minutes to an hour.
+Expect to find facilities that cater to travelers, including waiting areas and potential ticket kiosks. The typical duration for a visit may vary based on individual travel plans, but a brief stop to explore the station's amenities and gather information about onward journeys can be accomplished in approximately 30 minutes to an hour.
 
 The best times to visit are often during regular commuting hours, when the station is more active and you can observe the bustle of daily life. However, if you prefer a quieter experience, consider visiting during the mid-morning or early afternoon when foot traffic may be lighter.
 

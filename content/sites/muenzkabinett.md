@@ -36,7 +36,7 @@ The Münzkabinett has evolved into an essential institution for the study of coi
 
 The museum houses various collections that may include ancient coins, medieval currency, and modern numismatic pieces, each representing a chapter in the story of human civilization. Through its collections, the Münzkabinett serves as a vital resource for scholars and the general public alike, fostering an appreciation for the rich history of money and its evolution over time. 
 
-The museum’s contributions extend beyond its exhibits. It often engages in educational programs and collaborative research, promoting a deeper understanding of numismatics and its relevance in today’s world. Visitors can expect to find not only coins but also related artifacts that illuminate the cultural practices surrounding currency, such as trade, artistry, and governance.
+The museum's contributions extend beyond its exhibits. It often engages in educational programs and collaborative research, promoting a deeper understanding of numismatics and its relevance in today's world. Visitors can expect to find not only coins but also related artifacts that illuminate the cultural practices surrounding currency, such as trade, artistry, and governance.
 
 ## Architecture and Features
 

@@ -72,7 +72,7 @@ While visiting Kunsthalle Bielefeld, there are several nearby attractions worth 
 
 To make the most of your visit to Kunsthalle Bielefeld, consider the following tips:
 
-- **Photography**: Be mindful of the museum’s photography policy. Some exhibitions may have restrictions on photography to protect the artworks, so it's best to check signage or ask staff before taking photos.
+- **Photography**: Be mindful of the museum's photography policy. Some exhibitions may have restrictions on photography to protect the artworks, so it's best to check signage or ask staff before taking photos.
   
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekday mornings. This is generally when foot traffic is lower, allowing for a more contemplative visit.
 

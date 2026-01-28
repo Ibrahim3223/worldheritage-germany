@@ -80,7 +80,7 @@ Seasonal considerations are important; spring and summer months will showcase th
 A visit typically lasts between one to two hours, allowing time for a leisurely walk and contemplation.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, making it a great opportunity to capture the garden’s beauty.
+Yes, photography is generally permitted, making it a great opportunity to capture the garden's beauty.
 
 ### Are there guided tours?
 Currently, there is no information available regarding guided tours. Check the official website for updates.
@@ -95,7 +95,7 @@ Specific accessibility information is not provided. It is advisable to check wit
 Information regarding online ticket purchases is not available. Check the official website for current details.
 
 ### Are there restrooms and cafes?
-Details on restrooms and cafes are not provided. It’s best to check local amenities in Pfarrkirchen.
+Details on restrooms and cafes are not provided. It's best to check local amenities in Pfarrkirchen.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended for walking around the garden. Dress in layers, especially during cooler months.

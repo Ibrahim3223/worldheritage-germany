@@ -42,7 +42,7 @@ The cultural significance of Berlin Zoological Garden cannot be understated. It 
 
 Berlin Zoological Garden features a blend of modern and traditional architectural styles, reflecting its long-standing history and commitment to animal care. Upon entering the zoo, visitors are greeted by spacious enclosures designed to provide a comfortable and stimulating environment for the animals. The layout of the zoo allows for easy navigation, ensuring that guests can appreciate the diverse exhibits without feeling rushed.
 
-One of the notable features of the zoo is its focus on creating immersive habitats that replicate the animals' natural settings. This design philosophy enhances the experience for both the animals and the visitors, as it encourages natural behaviors among the wildlife. The zoo’s enclosures range from lush, tropical landscapes for exotic species to more temperate environments for animals from cooler climates.
+One of the notable features of the zoo is its focus on creating immersive habitats that replicate the animals' natural settings. This design philosophy enhances the experience for both the animals and the visitors, as it encourages natural behaviors among the wildlife. The zoo's enclosures range from lush, tropical landscapes for exotic species to more temperate environments for animals from cooler climates.
 
 In addition to the animal exhibits, the zoo is equipped with various visitor amenities, including educational displays and interactive stations that provide information about the animals and their habitats. These features enhance the educational aspect of the visit, making it an enriching experience for children and adults alike.
 
@@ -80,7 +80,7 @@ To make the most of your visit to Berlin Zoological Garden, consider the followi
 
 When planning your visit to Berlin Zoological Garden, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are essential, as you’ll be exploring a large area on foot. Additionally, consider bringing a water bottle, sunscreen, and a hat, especially during warmer months.
+- **What to Bring**: Comfortable walking shoes are essential, as you'll be exploring a large area on foot. Additionally, consider bringing a water bottle, sunscreen, and a hat, especially during warmer months.
 
 - **Seasonal Considerations**: The zoo operates year-round, but be prepared for varying weather conditions. In colder months, dress warmly, and during the summer, lightweight clothing is advisable.
 

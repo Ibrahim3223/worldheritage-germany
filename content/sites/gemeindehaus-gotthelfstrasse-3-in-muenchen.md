@@ -58,7 +58,7 @@ While visiting the Gemeindehaus Gotthelfstraße 3, consider exploring other near
 4. **The New Town Hall (Neues Rathaus)** - An architectural marvel known for its impressive façade and the iconic Glockenspiel.
 5. **Bavarian State Opera** - A cultural venue that hosts world-class performances in a stunning setting.
 
-These attractions complement a visit to the Gemeindehaus Gotthelfstraße 3, enriching the overall experience of Munich’s heritage.
+These attractions complement a visit to the Gemeindehaus Gotthelfstraße 3, enriching the overall experience of Munich's heritage.
 
 ## Insider Tips
 

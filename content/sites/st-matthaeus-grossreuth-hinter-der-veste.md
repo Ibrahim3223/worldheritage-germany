@@ -32,7 +32,7 @@ The significance of St. Matthäus extends beyond its function as a church; it is
 
 ## History and Significance
 
-The history of St. Matthäus (Großreuth hinter der Veste) is deeply intertwined with the development of Nuremberg as a prominent cultural and economic center in Germany. While specific dates and events related to the church’s founding and significant milestones are not detailed here, it is known that churches in this region often served as focal points for local communities, providing spiritual guidance and a sense of identity.
+The history of St. Matthäus (Großreuth hinter der Veste) is deeply intertwined with the development of Nuremberg as a prominent cultural and economic center in Germany. While specific dates and events related to the church's founding and significant milestones are not detailed here, it is known that churches in this region often served as focal points for local communities, providing spiritual guidance and a sense of identity.
 
 Nuremberg has long been a crossroads of trade and culture, and the presence of St. Matthäus highlights the importance of faith in the lives of its residents. As a church building, it likely witnessed various historical events, from local gatherings and celebrations to pivotal moments in the community's history. The role that such institutions played in shaping social structures and fostering a sense of belonging cannot be overstated.
 
@@ -50,7 +50,7 @@ As a building of worship, St. Matthäus is more than just a physical structure; 
 
 Traveling to St. Matthäus (Großreuth hinter der Veste) is convenient thanks to its central location in Nuremberg, which is well-connected by various modes of transportation. Visitors can access the church easily via public transit, including trams and buses, or by walking from nearby attractions in the city center.
 
-When planning a visit, it’s important to check the official website for current information regarding opening hours and any potential admission fees. The church may host special services or events, which could affect visiting times, so consulting the website will ensure a smooth experience.
+When planning a visit, it's important to check the official website for current information regarding opening hours and any potential admission fees. The church may host special services or events, which could affect visiting times, so consulting the website will ensure a smooth experience.
 
 For those planning to spend time at St. Matthäus, a visit typically lasts around an hour, allowing ample time to explore the interior and reflect on its historical significance. The best times to visit are generally during weekdays when the church is less crowded, providing a peaceful atmosphere for contemplation.
 

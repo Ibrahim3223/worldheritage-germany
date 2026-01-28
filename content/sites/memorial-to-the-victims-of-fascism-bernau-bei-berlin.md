@@ -58,7 +58,7 @@ The best times to visit the memorial are typically during daylight hours, when t
 
 1. **Bernau Town Center**: The historic town center of Bernau offers charming streets, shops, and cafés, providing visitors with a glimpse into local life and culture.
 
-2. **St. Mary’s Church**: This beautiful medieval church in Bernau features stunning architecture and is a significant historical landmark in the region.
+2. **St. Mary's Church**: This beautiful medieval church in Bernau features stunning architecture and is a significant historical landmark in the region.
 
 3. **The Barnim Nature Park**: Just a short distance from the memorial, this natural park offers scenic walking and cycling paths, perfect for those looking to explore the outdoors after a visit to the monument.
 

@@ -56,13 +56,13 @@ In addition to the chapel itself, the surrounding area offers pleasant walking p
 
 ## Nearby Attractions
 
-1. **St. Martin’s Church**: Located nearby, this church is another significant religious site that showcases distinctive architecture and offers insights into the local community's faith.
+1. **St. Martin's Church**: Located nearby, this church is another significant religious site that showcases distinctive architecture and offers insights into the local community's faith.
 
 2. **Heiligenhaus Town Center**: A short distance away, the town center features shops, cafes, and local markets, providing visitors with an opportunity to experience daily life in Heiligenhaus.
 
 3. **Local Parks**: The region around Heiligenhaus is home to several parks and green spaces ideal for leisurely walks and enjoying the natural beauty of North Rhine-Westphalia.
 
-4. **Historical Museum**: For those interested in the history of Heiligenhaus and its surroundings, a visit to the local museum can provide valuable context and insights into the area’s past.
+4. **Historical Museum**: For those interested in the history of Heiligenhaus and its surroundings, a visit to the local museum can provide valuable context and insights into the area's past.
 
 ## Insider Tips
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Brocken Garden is a botanical garden located in the picturesque town of Wernigerode, Germany. This serene space serves as a lush sanctuary for plant enthusiasts and casual visitors alike, inviting exploration and appreciation of botanical diversity. The garden is significant not only for its variety of flora but also for its role in promoting environmental awareness and education. As you wander through its well-maintained paths, you will discover an array of plants, each with its own story and ecological importance.
 
-Positioned within the enchanting Harz Mountains, the Brocken Garden offers a harmonious blend of nature and tranquility. Its location is ideal for those seeking to escape the hustle of urban life while immersing themselves in the beauty of native and exotic plant species. This botanical garden is a vital component of the local heritage, reflecting the region’s commitment to conservation and education in botany.
+Positioned within the enchanting Harz Mountains, the Brocken Garden offers a harmonious blend of nature and tranquility. Its location is ideal for those seeking to escape the hustle of urban life while immersing themselves in the beauty of native and exotic plant species. This botanical garden is a vital component of the local heritage, reflecting the region's commitment to conservation and education in botany.
 
 Visitors can look forward to an engaging experience, whether they are avid gardeners or simply wish to enjoy a peaceful stroll in a vibrant setting. The garden promises a delightful immersion into the natural world, fostering a deeper understanding of plant life and its significance in our ecosystems.
 

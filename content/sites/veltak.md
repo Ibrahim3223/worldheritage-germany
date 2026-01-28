@@ -22,7 +22,7 @@ images:
 
 Veltak, located in Velten, Germany, is a significant historical site that reflects the industrial heritage of the region. Once the largest stove tile factory in Europe during the 1960s, this factory offers a unique glimpse into the manufacturing processes of a bygone era. With its fascinating history and cultural importance, Veltak stands as a reminder of the industrial advancements that shaped the local community and the broader European landscape.
 
-The factory’s architecture and the remnants of its operations provide a compelling narrative about the evolution of craftsmanship and industry in Germany. Visitors to Veltak can expect to explore not only the physical space of the factory but also the stories and traditions that have been woven into its fabric over the decades. This site serves as a crucial piece of Velten's identity, inviting you to explore the legacy of a pivotal industry in the region.
+The factory's architecture and the remnants of its operations provide a compelling narrative about the evolution of craftsmanship and industry in Germany. Visitors to Veltak can expect to explore not only the physical space of the factory but also the stories and traditions that have been woven into its fabric over the decades. This site serves as a crucial piece of Velten's identity, inviting you to explore the legacy of a pivotal industry in the region.
 
 ## History and Significance
 
@@ -80,7 +80,7 @@ When preparing for your visit to Veltak, consider bringing the following items:
 
 - **Weather-Appropriate Clothing**: Depending on the season, dress in layers to accommodate changes in temperature, especially if parts of the factory are not climate-controlled.
 
-- **Water and Snacks**: While exploring, it’s a good idea to stay hydrated and have a light snack on hand, especially if you plan to spend several hours at the site.
+- **Water and Snacks**: While exploring, it's a good idea to stay hydrated and have a light snack on hand, especially if you plan to spend several hours at the site.
 
 Seasonal considerations can also impact your visit. For example, winter months may bring colder temperatures, while summer may be more crowded. Always check the official website for any specific seasonal events or considerations.
 
@@ -90,7 +90,7 @@ Seasonal considerations can also impact your visit. For example, winter months m
 Typically, a visit to Veltak can take about 2 to 3 hours, allowing enough time to explore the factory and participate in guided tours.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas, but it’s best to check for any restrictions during guided tours.
+Photography may be permitted in certain areas, but it's best to check for any restrictions during guided tours.
 
 ### Are there guided tours?
 Yes, guided tours are available and provide valuable insights into the factory's history and operations.

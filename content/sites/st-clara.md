@@ -28,7 +28,7 @@ image_srcset:
 
 St. Clara, situated in Dortmund, Germany, is a prominent church building that captures the essence of the region's architectural and spiritual heritage. This church stands as a remarkable example of the interplay between faith and community within the urban landscape of Dortmund. Known for its stunning design and welcoming atmosphere, St. Clara not only serves as a place of worship but also a cultural landmark that invites visitors to explore its storied past and architectural beauty. 
 
-Dortmund, located in the North Rhine-Westphalia region, has a unique historical and cultural context, making it an ideal location for such significant structures. The church's presence adds to the city's diverse offerings, enhancing the experience for travelers and locals alike. Whether you are drawn by the architectural details, the serene ambiance, or the historical significance, a visit to St. Clara promises to enrich your appreciation of Dortmund’s cultural fabric.
+Dortmund, located in the North Rhine-Westphalia region, has a unique historical and cultural context, making it an ideal location for such significant structures. The church's presence adds to the city's diverse offerings, enhancing the experience for travelers and locals alike. Whether you are drawn by the architectural details, the serene ambiance, or the historical significance, a visit to St. Clara promises to enrich your appreciation of Dortmund's cultural fabric.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of St. Clara is intertwined with the development of Dortmund as a si
 
 The church is dedicated to St. Clare of Assisi, known for her commitment to the Franciscan way of life and her role in establishing the Order of Poor Ladies. This dedication signifies a connection to broader themes of simplicity, humility, and service. St. Clara's establishment has played a critical role in the spiritual life of the local population, often serving as a gathering place for important community events and religious ceremonies.
 
-Culturally, St. Clara represents more than just a place of worship; it is a testament to the communal ties that bind the people of Dortmund. Over the years, the church has likely witnessed significant local events, celebrations, and perhaps even challenges, marking it as a central figure in the city’s narrative. The church's role has likely evolved, adapting to the needs of its congregation while maintaining its foundational mission of fostering faith and community.
+Culturally, St. Clara represents more than just a place of worship; it is a testament to the communal ties that bind the people of Dortmund. Over the years, the church has likely witnessed significant local events, celebrations, and perhaps even challenges, marking it as a central figure in the city's narrative. The church's role has likely evolved, adapting to the needs of its congregation while maintaining its foundational mission of fostering faith and community.
 
 ## Architecture and Features
 

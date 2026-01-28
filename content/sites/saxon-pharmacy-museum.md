@@ -28,7 +28,7 @@ image_srcset:
 
 The Saxon Pharmacy Museum, located in Leipzig, Germany, invites visitors to explore the fascinating evolution of pharmacy and medicine over centuries. This museum is an intriguing destination for history enthusiasts, health professionals, and anyone curious about the world of pharmaceuticals. With its comprehensive collection of artifacts, including historical instruments, pharmaceutical texts, and vintage packaging, the museum presents a unique opportunity to delve into the science and art of healing.
 
-Situated in the vibrant city of Leipzig, known for its rich cultural heritage and academic significance, the Saxon Pharmacy Museum adds another layer to the city’s diverse offerings. Leipzig has long been a hub for trade and scholarship, and the museum reflects this legacy, showcasing how the practice of pharmacy has evolved from ancient remedies to modern pharmaceuticals. Visitors can expect an informative experience that highlights not only the history of pharmacy but also its impact on society. 
+Situated in the vibrant city of Leipzig, known for its rich cultural heritage and academic significance, the Saxon Pharmacy Museum adds another layer to the city's diverse offerings. Leipzig has long been a hub for trade and scholarship, and the museum reflects this legacy, showcasing how the practice of pharmacy has evolved from ancient remedies to modern pharmaceuticals. Visitors can expect an informative experience that highlights not only the history of pharmacy but also its impact on society. 
 
 As you embark on your visit, prepare to be immersed in a world where science meets history, offering insights into the profession that has shaped health and wellness across generations.
 
@@ -92,10 +92,10 @@ Bringing a water bottle is a good idea, as staying hydrated enhances your experi
 A visit to the Saxon Pharmacy Museum typically requires about 2-3 hours to fully appreciate the exhibits and their historical context.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum staff upon arrival to ensure compliance with their rules.
+Photography policies may vary, so it's best to check with the museum staff upon arrival to ensure compliance with their rules.
 
 ### Are there guided tours?
-Guided tours may be available, offering a more in-depth exploration of the museum's exhibits. It’s advisable to inquire ahead of your visit.
+Guided tours may be available, offering a more in-depth exploration of the museum's exhibits. It's advisable to inquire ahead of your visit.
 
 ### What's the best time to visit?
 Visiting during weekdays, particularly in the morning or late afternoon, tends to be less crowded, providing a more relaxed experience.
@@ -107,7 +107,7 @@ The museum aims to accommodate all visitors, but it's recommended to check the o
 Online ticket purchasing options may be available; please check the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available within the museum, but it’s best to check the official website for specific amenities.
+Facilities such as restrooms are typically available within the museum, but it's best to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably, considering the time you plan to spend exploring the museum and nearby attractions. 

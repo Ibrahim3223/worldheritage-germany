@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Marien am Behnitz is a captivating church building located in Spandau, Germany, that offers visitors a glimpse into the region's ecclesiastical architecture and cultural heritage. Situated in the vibrant district of Spandau, this church serves as a significant landmark, inviting both local residents and travelers into its serene ambiance. The church’s historical context and architectural design reflect the evolution of religious practices and communal life in the area over the years.
+St. Marien am Behnitz is a captivating church building located in Spandau, Germany, that offers visitors a glimpse into the region's ecclesiastical architecture and cultural heritage. Situated in the vibrant district of Spandau, this church serves as a significant landmark, inviting both local residents and travelers into its serene ambiance. The church's historical context and architectural design reflect the evolution of religious practices and communal life in the area over the years.
 
 Spandau is known for its mix of history and modernity, and St. Marien am Behnitz contributes to this unique blend. With its tranquil environment, the church is an ideal place for contemplation, exploration, and appreciation of the craftsmanship that has gone into its construction. As you approach, the peaceful surroundings create a welcoming atmosphere, encouraging visitors to pause and reflect on the spiritual and cultural significance of this site.
 
@@ -44,7 +44,7 @@ The cultural importance of St. Marien am Behnitz extends beyond its physical str
 
 St. Marien am Behnitz is characterized by its distinctive architectural style, which showcases elements typical of church buildings in the region. While specific details about its design may not be available, one can appreciate the craftsmanship that has been invested in its construction. The building likely features traditional elements such as a steeple, intricate stonework, and stained glass windows that contribute to its aesthetic appeal.
 
-The church’s interior is expected to reflect the sacred nature of the space, with features that enhance the worship experience. This may include an altar, pews, and decorative artwork that illustrates biblical stories or local saints. Visitors may find themselves drawn to the serene atmosphere that encourages quiet reflection and spiritual contemplation.
+The church's interior is expected to reflect the sacred nature of the space, with features that enhance the worship experience. This may include an altar, pews, and decorative artwork that illustrates biblical stories or local saints. Visitors may find themselves drawn to the serene atmosphere that encourages quiet reflection and spiritual contemplation.
 
 As a site of historical and cultural significance, St. Marien am Behnitz is an architectural representation of the community's values and beliefs. Its design and features not only serve functional purposes but also symbolize the enduring nature of faith through the ages.
 
@@ -72,7 +72,7 @@ St. Marien am Behnitz is conveniently located near several attractions that enha
 
 ## Insider Tips
 
-When visiting St. Marien am Behnitz, photography enthusiasts may want to be mindful of the church's sacred atmosphere. While capturing the beauty of the architecture is encouraged, it’s important to respect the privacy of worshippers and any ongoing services. Early morning or late afternoon visits can provide softer lighting for photographs, enhancing the overall aesthetic.
+When visiting St. Marien am Behnitz, photography enthusiasts may want to be mindful of the church's sacred atmosphere. While capturing the beauty of the architecture is encouraged, it's important to respect the privacy of worshippers and any ongoing services. Early morning or late afternoon visits can provide softer lighting for photographs, enhancing the overall aesthetic.
 
 To avoid crowds, consider visiting during weekday mornings when the church is less frequented. This allows for a more personal experience, enabling visitors to engage with the space more fully.
 
@@ -80,7 +80,7 @@ To avoid crowds, consider visiting during weekday mornings when the church is le
 
 When planning your visit to St. Marien am Behnitz, consider bringing a camera, a water bottle, and comfortable walking shoes to explore the surrounding area. Seasonal considerations should also be taken into account; during winter months, warmer clothing will be necessary, while summer visits may require sun protection.
 
-Accessibility may vary, so it’s wise to check in advance if you have specific needs or requirements. Additionally, ensure you are aware of any local customs or etiquette when visiting religious sites, as these can enhance your experience and understanding of the space.
+Accessibility may vary, so it's wise to check in advance if you have specific needs or requirements. Additionally, ensure you are aware of any local customs or etiquette when visiting religious sites, as these can enhance your experience and understanding of the space.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ Accessibility may vary, so it’s wise to check in advance if you have specific 
 A visit typically takes about an hour, allowing for time to explore the church and reflect on its significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of worshippers and any ongoing services.
+Photography is generally permitted, but it's advisable to be respectful of worshippers and any ongoing services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may enhance your visit.

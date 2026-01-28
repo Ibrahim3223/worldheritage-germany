@@ -64,13 +64,13 @@ Aachen is rich in historical and cultural attractions that complement a visit to
 
 To make the most of your visit to Mikado Library, consider these insider tips:
 
-- **Photography**: While photography may be allowed in some areas, it’s best to check for any restrictions, especially regarding flash photography or capturing images of other patrons.
+- **Photography**: While photography may be allowed in some areas, it's best to check for any restrictions, especially regarding flash photography or capturing images of other patrons.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during the early morning or late afternoon on weekdays. Weekends may see higher foot traffic.
 
 ## Practical Information
 
-When visiting Mikado Library, it’s helpful to bring a few essentials:
+When visiting Mikado Library, it's helpful to bring a few essentials:
 
 - **Library Card or ID**: If you intend to borrow books, check if a library card is required for borrowing or accessing certain services.
 
@@ -93,10 +93,10 @@ Typically, libraries do not offer guided tours, but staff may be available to as
 For a quieter experience, consider visiting during weekdays, particularly in the mornings or late afternoons.
 
 ### Is it wheelchair accessible?
-Most modern libraries strive to be accessible; however, it’s advisable to check the official website or inquire directly for specific accessibility features.
+Most modern libraries strive to be accessible; however, it's advisable to check the official website or inquire directly for specific accessibility features.
 
 ### Can I buy tickets online?
-Access to the library is generally free, but for specific events or programs, it’s best to check online for any ticketing information.
+Access to the library is generally free, but for specific events or programs, it's best to check online for any ticketing information.
 
 ### Are there restrooms and cafes?
 Most libraries offer restroom facilities, but café availability may vary. Check the official website for details about amenities.

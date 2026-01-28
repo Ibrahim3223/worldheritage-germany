@@ -52,7 +52,7 @@ Inside, the castle is likely to reveal a variety of rooms that have been preserv
 
 Reaching Schloss Hugenpoet is relatively straightforward, given its location in Essen. The castle is accessible by various modes of transport, including public transportation and private vehicles. Visitors can utilize local bus or train services that connect to central Essen, making it convenient to incorporate a visit into a broader exploration of the city.
 
-When planning your visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. This will provide the most accurate details, ensuring a smooth experience. As for what to expect, visitors can immerse themselves in the castle’s rich history while enjoying the serene surroundings of its grounds.
+When planning your visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. This will provide the most accurate details, ensuring a smooth experience. As for what to expect, visitors can immerse themselves in the castle's rich history while enjoying the serene surroundings of its grounds.
 
 Depending on your pace and interests, a visit to Schloss Hugenpoet can typically be completed in a couple of hours. This timeframe allows for a thorough exploration of the castle's architecture and possibly some time to stroll the gardens or surrounding areas. 
 

@@ -78,7 +78,7 @@ For visitors looking to make the most of their trip to Burg Dollnstein, consider
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or in the shoulder seasons. This can enhance your ability to explore the site without the hustle of larger crowds.
 
-- **Guided Tours**: If available, consider joining a guided tour for in-depth knowledge about the site’s history and significance. Check the official website for any scheduled tours.
+- **Guided Tours**: If available, consider joining a guided tour for in-depth knowledge about the site's history and significance. Check the official website for any scheduled tours.
 
 ## Practical Information
 

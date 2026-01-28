@@ -66,7 +66,7 @@ While visiting the Bremer Geschichtenhaus, you have the opportunity to explore s
 
 3. **Schlachte Promenade**: A picturesque riverside walkway lined with restaurants and bars, perfect for a leisurely stroll along the Weser River.
 
-4. **St. Peter’s Cathedral**: This impressive medieval cathedral features stunning stained glass and offers panoramic views from its tower.
+4. **St. Peter's Cathedral**: This impressive medieval cathedral features stunning stained glass and offers panoramic views from its tower.
 
 5. **Böttcherstraße**: A unique street showcasing expressionist architecture, filled with shops, galleries, and the famous Paula Modersohn-Becker Museum.
 
@@ -88,7 +88,7 @@ Plan your visit around seasonal events or exhibitions that may offer unique expe
 You should plan to spend around two to three hours at the Bremer Geschichtenhaus to fully enjoy the exhibits and activities.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check the museum’s specific policy upon arrival.
+Photography is generally permitted, but it's best to check the museum's specific policy upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours, particularly during busy periods or special exhibitions. Check the official website for details.
@@ -103,7 +103,7 @@ The Bremer Geschichtenhaus aims to be accessible to all visitors. It is advisabl
 Check the official website for information about purchasing tickets online, which may offer convenience and time savings.
 
 ### Are there restrooms and cafes?
-Restroom facilities are available within the museum, and there may be options for refreshments. It’s best to check on the official website for specific amenities.
+Restroom facilities are available within the museum, and there may be options for refreshments. It's best to check on the official website for specific amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may spend considerable time exploring the exhibits. Dressing in layers can help accommodate varying temperatures within the museum. 

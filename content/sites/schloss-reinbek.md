@@ -106,4 +106,4 @@ Restroom facilities are typically available, and there may be cafes or snack opt
 ### What should I wear?
 Comfortable clothing and shoes are recommended, along with layers for varying temperatures.
 
-Schloss Reinbek stands as a beautiful emblem of Germany’s historical and cultural richness, inviting visitors to explore its deep-rooted stories and enjoy its architectural splendor.
+Schloss Reinbek stands as a beautiful emblem of Germany's historical and cultural richness, inviting visitors to explore its deep-rooted stories and enjoy its architectural splendor.

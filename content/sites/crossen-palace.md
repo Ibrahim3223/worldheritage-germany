@@ -40,7 +40,7 @@ Visiting Crossen Palace allows for a deeper understanding of the heritage of Cro
 
 ## Architecture and Features
 
-Crossen Palace exhibits characteristics typical of traditional châteaux, with its elegant facade and thoughtfully designed interiors. The architecture reflects a blend of styles that highlight the manor’s historical significance. The exterior is marked by its grand entrances, symmetrical proportions, and decorative elements that speak to the craftsmanship of the era in which it was built.
+Crossen Palace exhibits characteristics typical of traditional châteaux, with its elegant facade and thoughtfully designed interiors. The architecture reflects a blend of styles that highlight the manor's historical significance. The exterior is marked by its grand entrances, symmetrical proportions, and decorative elements that speak to the craftsmanship of the era in which it was built.
 
 As visitors approach, they will notice the intricate details that adorn the structure, from ornamental moldings to carefully crafted windows. The use of quality materials is evident, and the overall design emphasizes both functionality and aesthetic appeal. Inside, the layout of the manor is likely to include spacious halls and rooms that were designed for both private and public use, embodying the dual purpose of habitation and hospitality.
 
@@ -52,7 +52,7 @@ When planning a visit to Crossen Palace, it is essential to consider transportat
 
 Visitors can expect a captivating experience as they explore the palace grounds and its surroundings. Depending on individual interests, a visit may take a few hours to half a day. It is advisable to check the official website for hours and ticket prices, as these can change seasonally or due to special events.
 
-The best times to visit Crossen Palace would likely be during the spring and summer months when the gardens may be at their most vibrant, and the weather is conducive to outdoor exploration. However, each season offers a unique perspective on the manor’s beauty, so any time of year can be suitable for a visit.
+The best times to visit Crossen Palace would likely be during the spring and summer months when the gardens may be at their most vibrant, and the weather is conducive to outdoor exploration. However, each season offers a unique perspective on the manor's beauty, so any time of year can be suitable for a visit.
 
 ## Nearby Attractions
 
@@ -86,7 +86,7 @@ Seasonal considerations should also be taken into account; if visiting during co
 A visit to Crossen Palace typically requires a few hours, depending on your level of interest in exploring the architecture and available exhibits.
 
 ### Is photography allowed?
-Check the official website for specific guidelines regarding photography to ensure you respect the site’s rules.
+Check the official website for specific guidelines regarding photography to ensure you respect the site's rules.
 
 ### Are there guided tours?
 Information on guided tours may vary; check the official website for current offerings and schedules.

@@ -28,7 +28,7 @@ image_srcset:
 
 Neuwieser See is a serene lake located in the Elsterheide region of Germany, celebrated for its tranquil waters and natural beauty. This lake serves as a vital ecological and recreational resource for both locals and visitors alike, offering a peaceful retreat from urban life. The surrounding landscape is characterized by lush greenery, making it a popular destination for nature enthusiasts and those seeking solitude. Its location within the Elsterheide area adds to its charm, providing visitors with opportunities to explore the rich biodiversity and scenic vistas typical of this part of Germany.
 
-The significance of Neuwieser See lies not only in its natural allure but also in its role as a habitat for various species of flora and fauna. The lake attracts birdwatchers and wildlife photographers, contributing to the region’s environmental health and awareness. Whether you are looking to unwind by the water’s edge, embark on a leisurely walk, or engage in outdoor activities, Neuwieser See promises a refreshing escape into nature.
+The significance of Neuwieser See lies not only in its natural allure but also in its role as a habitat for various species of flora and fauna. The lake attracts birdwatchers and wildlife photographers, contributing to the region's environmental health and awareness. Whether you are looking to unwind by the water's edge, embark on a leisurely walk, or engage in outdoor activities, Neuwieser See promises a refreshing escape into nature.
 
 ## History and Significance
 

@@ -64,7 +64,7 @@ While Brunneck Castle itself is a compelling destination, several nearby attract
 
 3. **The Church of St. James**: A historic church in Titting, showcasing beautiful architecture and local artistry.
 
-4. **Fossil Museum in Titting**: An intriguing museum dedicated to the region’s geological history, perfect for those interested in natural sciences.
+4. **Fossil Museum in Titting**: An intriguing museum dedicated to the region's geological history, perfect for those interested in natural sciences.
 
 5. **Regensburg**: A short drive away, this UNESCO World Heritage city features stunning medieval architecture and a vibrant cultural scene.
 
@@ -86,7 +86,7 @@ Bringing along water and snacks is also recommended, as amenities on-site may be
 A visit to Brunneck Castle typically takes around 1-2 hours, allowing ample time to explore the site and absorb its historical significance.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, making it a great opportunity to capture the site’s unique features.
+Yes, photography is generally permitted, making it a great opportunity to capture the site's unique features.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary depending on the season.

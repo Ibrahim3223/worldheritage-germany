@@ -50,7 +50,7 @@ The church's exterior showcases elements of Gothic architecture, with pointed ar
 
 Visiting Klosterkirche Uetersen is a straightforward process, with various transportation options available for those traveling to the site. The church is accessible by public transport, and the local infrastructure supports easy movement around Uetersen. Visitors are encouraged to check the official website for current information on hours of operation and any potential admission fees.
 
-The experience at Klosterkirche is enriching yet peaceful, inviting visitors to take their time exploring the church’s interior and reflecting on its history. A visit typically requires around one hour, allowing ample time to appreciate the architecture and ambiance. For those seeking a more in-depth understanding, guided tours may be available, offering insights into the church's historical significance and architectural features.
+The experience at Klosterkirche is enriching yet peaceful, inviting visitors to take their time exploring the church's interior and reflecting on its history. A visit typically requires around one hour, allowing ample time to appreciate the architecture and ambiance. For those seeking a more in-depth understanding, guided tours may be available, offering insights into the church's historical significance and architectural features.
 
 The best times to visit Klosterkirche Uetersen are during weekdays when the church is less crowded, allowing for a more personal experience. Additionally, attending a service can provide a unique perspective on the community's contemporary practices and the role of the church today.
 
@@ -76,7 +76,7 @@ If you're interested in the architectural details, bring a small notebook or a c
 
 ## Practical Information
 
-When planning your visit to Klosterkirche Uetersen, it’s advisable to wear comfortable shoes, as you may wish to explore the surrounding area. Seasonal considerations include checking the weather forecast, as conditions can vary, impacting your experience.
+When planning your visit to Klosterkirche Uetersen, it's advisable to wear comfortable shoes, as you may wish to explore the surrounding area. Seasonal considerations include checking the weather forecast, as conditions can vary, impacting your experience.
 
 Although specific amenities such as cafes and restrooms are not detailed, it is generally wise to bring water and snacks, especially if you plan to explore the nearby attractions. Being prepared will ensure you can fully enjoy your time in Uetersen without unnecessary interruptions.
 
@@ -86,22 +86,22 @@ Although specific amenities such as cafes and restrooms are not detailed, it is 
 A visit typically takes around one hour, but you may wish to spend more time if participating in a service or exploring nearby sites.
 
 ### Is photography allowed?
-Photography policies may vary, especially during services. It’s advisable to seek permission if you wish to take pictures inside the church.
+Photography policies may vary, especially during services. It's advisable to seek permission if you wish to take pictures inside the church.
 
 ### Are there guided tours?
-Check the official website for current information on guided tours, which may be available to enhance your understanding of the church’s history and architecture.
+Check the official website for current information on guided tours, which may be available to enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays are generally less crowded, allowing for a more personal experience. Early morning or late afternoon visits can also provide a serene atmosphere.
 
 ### Is it wheelchair accessible?
-Details on wheelchair accessibility are not specified. It’s recommended to check the official website for specific accommodations.
+Details on wheelchair accessibility are not specified. It's recommended to check the official website for specific accommodations.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases may vary. Check the official website for the most accurate and up-to-date details.
 
 ### Are there restrooms and cafes?
-While specific facilities are not mentioned, it’s best to plan accordingly and bring your own refreshments, especially for a longer visit.
+While specific facilities are not mentioned, it's best to plan accordingly and bring your own refreshments, especially for a longer visit.
 
 ### What should I wear?
 Comfortable attire is recommended, and consider dressing modestly, especially if attending a service.

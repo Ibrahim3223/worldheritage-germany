@@ -50,7 +50,7 @@ The preservation of such architectural features is crucial for maintaining the h
 
 Visiting Dietkirchener Hof is an opportunity to engage with a piece of history in a serene setting. To reach the manor house, consider using public transport or personal vehicles, with ample parking available nearby. Check the official website for current information on visiting hours and any potential entry fees, as these can vary.
 
-When planning your visit, it’s advisable to allocate sufficient time to explore the manor and its surroundings. A visit typically lasts a few hours, allowing for a leisurely experience. Early mornings or late afternoons tend to be quieter, offering a more intimate exploration of the site and reducing the likelihood of encountering larger crowds.
+When planning your visit, it's advisable to allocate sufficient time to explore the manor and its surroundings. A visit typically lasts a few hours, allowing for a leisurely experience. Early mornings or late afternoons tend to be quieter, offering a more intimate exploration of the site and reducing the likelihood of encountering larger crowds.
 
 Expect to find informative displays and possibly guided tours that delve into the history and significance of Dietkirchener Hof. These resources can enhance your understanding of the site, making your visit even more rewarding. 
 

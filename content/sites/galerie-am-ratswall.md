@@ -74,7 +74,7 @@ Bitterfeld-Wolfen is home to several attractions that complement a visit to Gale
 
 When planning your visit to Galerie am Ratswall, consider bringing a camera to capture the artworks, as photography can be a great way to remember your experience. However, be sure to verify the museum's photography policy upon arrival, as restrictions may apply to specific exhibits.
 
-To avoid the hustle and bustle of larger crowds, consider visiting during weekdays or during the early morning hours. This will allow you to experience the art in a more tranquil setting, enhancing your appreciation of the works on display. Additionally, keep an eye on the gallery’s schedule for special events or openings, which can provide unique opportunities to engage with artists and curators.
+To avoid the hustle and bustle of larger crowds, consider visiting during weekdays or during the early morning hours. This will allow you to experience the art in a more tranquil setting, enhancing your appreciation of the works on display. Additionally, keep an eye on the gallery's schedule for special events or openings, which can provide unique opportunities to engage with artists and curators.
 
 ## Practical Information
 

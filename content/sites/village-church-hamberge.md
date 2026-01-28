@@ -76,7 +76,7 @@ After visiting the Village Church of Hamberge, there are several attractions in 
 
 To make the most of your visit to the Village Church of Hamberge, consider these insider tips:
 
-- **Photography**: While photography may be allowed inside the church, it's essential to be respectful of any ongoing services or the privacy of worshippers. Capture the beauty of the church’s architecture, both inside and out, while maintaining a quiet presence.
+- **Photography**: While photography may be allowed inside the church, it's essential to be respectful of any ongoing services or the privacy of worshippers. Capture the beauty of the church's architecture, both inside and out, while maintaining a quiet presence.
   
 - **Crowd Avoidance**: If you're looking to avoid crowds, consider visiting during weekdays or early in the morning. This allows for a more personal experience and the opportunity to appreciate the church's serene environment.
 

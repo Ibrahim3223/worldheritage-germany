@@ -26,7 +26,7 @@ The foundation engages with a range of topics from international relations to so
 
 ## History and Significance
 
-While specific founding dates are not available, the German Foundation for Peace Research has emerged as an influential entity within the landscape of peace studies in Germany. Osnabrück itself holds a unique position in the historical narrative of peace, famously serving as the site of the Peace of Westphalia in 1648, which ended the Thirty Years' War and established a new framework for international diplomacy. This legacy of peace building resonates within the foundation’s mission, as it seeks to address contemporary conflicts and promote sustainable solutions.
+While specific founding dates are not available, the German Foundation for Peace Research has emerged as an influential entity within the landscape of peace studies in Germany. Osnabrück itself holds a unique position in the historical narrative of peace, famously serving as the site of the Peace of Westphalia in 1648, which ended the Thirty Years' War and established a new framework for international diplomacy. This legacy of peace building resonates within the foundation's mission, as it seeks to address contemporary conflicts and promote sustainable solutions.
 
 The foundation plays a critical role in bridging academic research and practical application, facilitating collaborations between scholars, policymakers, and civil society. By focusing on interdisciplinary approaches, it encourages a deeper understanding of the factors that contribute to conflict and the pathways to resolution. The significance of this work cannot be overstated, particularly in today's global landscape, where the need for effective peace strategies is paramount.
 
@@ -36,7 +36,7 @@ In addition to its research initiatives, the foundation actively engages in publ
 
 As an organization rather than a traditional museum or historical site, the German Foundation for Peace Research does not feature grand architectural landmarks typically associated with heritage sites. However, the building housing the foundation reflects a functional design that facilitates its mission of research and dialogue. The layout is likely optimized for collaboration, featuring spaces for meetings, lectures, and events that promote interaction among visitors and scholars alike.
 
-Inside, visitors may encounter rooms equipped for presentations and discussions, showcasing the foundation’s commitment to fostering an environment conducive to learning and engagement. While specific architectural details are not documented, the overall atmosphere is one of professionalism and openness, encouraging dialogue among those who gather there.
+Inside, visitors may encounter rooms equipped for presentations and discussions, showcasing the foundation's commitment to fostering an environment conducive to learning and engagement. While specific architectural details are not documented, the overall atmosphere is one of professionalism and openness, encouraging dialogue among those who gather there.
 
 ## Visiting Information
 
@@ -52,11 +52,11 @@ Osnabrück itself is rich in cultural and historical sites that complement a vis
 
 1. **Osnabrück Castle**: A stunning example of Renaissance architecture, this castle houses a museum and offers guided tours that delve into the history of the region.
 
-2. **St. Peter’s Cathedral**: This impressive cathedral features a blend of architectural styles and provides insights into the religious history of Osnabrück.
+2. **St. Peter's Cathedral**: This impressive cathedral features a blend of architectural styles and provides insights into the religious history of Osnabrück.
 
 3. **The Heger Tor**: An iconic city gate, Heger Tor is a remnant of the medieval fortifications surrounding Osnabrück and serves as a landmark for visitors.
 
-4. **Museum Industriekultur**: This museum showcases the industrial heritage of the region, offering exhibits that highlight the impact of industry on Osnabrück’s development.
+4. **Museum Industriekultur**: This museum showcases the industrial heritage of the region, offering exhibits that highlight the impact of industry on Osnabrück's development.
 
 5. **Botanical Garden**: A serene escape, the botanical garden offers a variety of plant species and tranquil paths for leisurely strolls, perfect for relaxation after a day of learning.
 

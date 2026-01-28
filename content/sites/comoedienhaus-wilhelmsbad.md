@@ -82,7 +82,7 @@ During peak seasons, it is wise to check the weather and plan accordingly, espec
 A visit typically lasts between two to three hours, depending on whether you catch a performance or explore the surrounding area.
 
 ### Is photography allowed?
-Photography policies may vary depending on the performance, so it’s best to check in advance or inquire upon arrival.
+Photography policies may vary depending on the performance, so it's best to check in advance or inquire upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available for groups, providing deeper insights into the theatre's history and architecture. Check the official website for more details.
@@ -100,6 +100,6 @@ Ticket purchasing options, including online availability, are typically provided
 Restroom facilities are available on-site, and there may also be nearby cafés for refreshments before or after performances.
 
 ### What should I wear?
-Dress comfortably, with consideration for the occasion. Some performances may have a formal dress code, so it’s wise to check in advance. 
+Dress comfortably, with consideration for the occasion. Some performances may have a formal dress code, so it's wise to check in advance. 
 
 Comoedienhaus Wilhelmsbad offers a glimpse into the vibrant cultural scene of Hanau, making it a memorable destination for theatre enthusiasts and casual visitors alike. Whether you are captivated by a performance or enjoy the beauty of the venue, this theatre is sure to leave a lasting impression.

@@ -36,7 +36,7 @@ The history of Burgruine Ettling is an essential chapter in the narrative of reg
 
 Throughout the ages, the site has witnessed various transformations, reflecting the changing social and political landscapes. The decline of such castles began with the advent of modern warfare and changes in military architecture, which rendered traditional fortifications less effective. As a result, many castles fell into disrepair, and Burgruine Ettling is no exception. Today, it serves as an archaeological site, attracting those interested in the study of medieval history and architecture.
 
-The site’s cultural importance is underscored by its representation of the regional heritage, embodying the lifestyle and values of the time. Visitors can contemplate the strategic decisions that led to the castle's construction and the daily lives of those who once called it home. The ruins provide a canvas for understanding the complexities of medieval society and the evolution of architectural styles that have influenced subsequent generations.
+The site's cultural importance is underscored by its representation of the regional heritage, embodying the lifestyle and values of the time. Visitors can contemplate the strategic decisions that led to the castle's construction and the daily lives of those who once called it home. The ruins provide a canvas for understanding the complexities of medieval society and the evolution of architectural styles that have influenced subsequent generations.
 
 ## Architecture and Features
 
@@ -78,7 +78,7 @@ It is also beneficial to bring along a good pair of walking shoes, as the terrai
 
 Visitors to Burgruine Ettling should come prepared for a few essential elements. Comfortable footwear is a must, given the nature of the site and the potential for uneven ground. Additionally, a water bottle is advisable, especially during warmer months, to stay hydrated while exploring.
 
-Seasonal considerations come into play as well. While the site is open year-round, inclement weather during winter months may affect accessibility. It’s wise to check local forecasts and plan your visit accordingly. Bringing a light jacket or layers can help ensure comfort during cooler seasons.
+Seasonal considerations come into play as well. While the site is open year-round, inclement weather during winter months may affect accessibility. It's wise to check local forecasts and plan your visit accordingly. Bringing a light jacket or layers can help ensure comfort during cooler seasons.
 
 ## Frequently Asked Questions
 

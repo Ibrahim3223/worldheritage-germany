@@ -62,7 +62,7 @@ While visiting the Gauss Tower, consider exploring nearby attractions that enhan
 
 2. **Botanical Garden of the University of Göttingen**: A peaceful escape, this garden features a diverse array of plants and is perfect for a leisurely stroll amid nature.
 
-3. **St. Jacob’s Church**: A historical church known for its stunning architecture and beautiful stained glass windows, offering insight into the region's religious heritage.
+3. **St. Jacob's Church**: A historical church known for its stunning architecture and beautiful stained glass windows, offering insight into the region's religious heritage.
 
 4. **Gänseliesel Fountain**: A beloved symbol of Göttingen, this fountain is often considered the city's landmark and is a great spot for photographs.
 

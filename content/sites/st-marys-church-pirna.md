@@ -101,7 +101,7 @@ Accessibility information is not specified; it's advisable to contact the church
 Ticket purchasing options may vary, so check the official website for the most current information regarding admission.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s recommended to explore nearby areas in Pirna for restrooms and cafes.
+Facilities may be limited, so it's recommended to explore nearby areas in Pirna for restrooms and cafes.
 
 ### What should I wear?
 Dress modestly to respect the sanctity of the church, and wear comfortable clothing for exploring Pirna and its surroundings.

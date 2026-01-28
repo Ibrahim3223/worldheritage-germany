@@ -28,7 +28,7 @@ image_srcset:
 
 Tucked away in the tranquil region of Fredersdorf-Vogelsdorf, Germany, the Grabmal Bohm is an evocative tomb that captures the essence of local heritage and memorialization. This significant site, recognized as a Baudenkmal des Landes Brandenburg, serves not only as a resting place but also as a reflection of the cultural values and historical narratives that shaped the area. The tomb is a poignant reminder of the individuals interred within, offering visitors a glimpse into the past while inviting contemplation on mortality and remembrance. 
 
-As you approach Grabmal Bohm, you’ll find yourself immersed in an environment that encourages reflection, while the architectural details invite exploration. This site, with its understated yet profound presence, has become a point of interest for those drawn to history, architecture, and the stories of lives once lived. 
+As you approach Grabmal Bohm, you'll find yourself immersed in an environment that encourages reflection, while the architectural details invite exploration. This site, with its understated yet profound presence, has become a point of interest for those drawn to history, architecture, and the stories of lives once lived. 
 
 Visiting Grabmal Bohm provides an opportunity to engage with the local culture and history, making it a worthwhile stop for heritage enthusiasts and casual travelers alike. 
 
@@ -38,7 +38,7 @@ The Grabmal Bohm stands as a significant cultural monument within Brandenburg, e
 
 While specific historical details about the individuals interred here may not be readily available, the tomb encapsulates the broader narrative of mortality and remembrance that resonates deeply within German culture. Memorials such as this one serve not only as final resting places but also as spaces for reflection and connection with the past.
 
-In the context of Brandenburg’s rich tapestry of history, the Grabmal Bohm contributes to our understanding of how communities commemorate their dead, bridging personal stories with collective memory. The tomb stands as a reminder of the importance of heritage sites in fostering a sense of identity and continuity within communities, especially in a region marked by significant historical events and transformations over the centuries.
+In the context of Brandenburg's rich tapestry of history, the Grabmal Bohm contributes to our understanding of how communities commemorate their dead, bridging personal stories with collective memory. The tomb stands as a reminder of the importance of heritage sites in fostering a sense of identity and continuity within communities, especially in a region marked by significant historical events and transformations over the centuries.
 
 ## Architecture and Features
 

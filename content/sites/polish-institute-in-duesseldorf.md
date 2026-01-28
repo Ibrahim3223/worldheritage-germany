@@ -123,7 +123,7 @@ For accessibility details, it's advisable to contact the Institute directly or c
 Check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site; it’s best to confirm details through the official website.
+Facilities may be available on-site; it's best to confirm details through the official website.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions for your visit to Düsseldorf.

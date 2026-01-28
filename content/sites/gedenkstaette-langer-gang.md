@@ -22,7 +22,7 @@ images:
 
 Gedenkstätte Langer Gang serves as an evocative memorial in Schwarzenbach an der Saale, Bavaria, Germany, inviting visitors to reflect on the poignant history it commemorates. This memorial stands as a focal point for remembrance and education, shedding light on events that shaped the region's cultural heritage. Located at coordinates 50.2215, 11.9357, it is easily accessible for those wishing to explore its significance. The site offers an opportunity for visitors to engage with the past, fostering a deeper understanding of the historical context that surrounds it.
 
-The memorial’s significance lies not only in its role as a remembrance site but also in its ability to connect individuals with the broader narratives of history. It serves as a reminder of the human experiences and struggles associated with the events it commemorates. As a peaceful location for reflection, Gedenkstätte Langer Gang invites visitors from all walks of life to contemplate the lessons of the past.
+The memorial's significance lies not only in its role as a remembrance site but also in its ability to connect individuals with the broader narratives of history. It serves as a reminder of the human experiences and struggles associated with the events it commemorates. As a peaceful location for reflection, Gedenkstätte Langer Gang invites visitors from all walks of life to contemplate the lessons of the past.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ In addition to its memorial function, the site may also host events and activiti
 
 ## Architecture and Features
 
-The physical attributes of Gedenkstätte Langer Gang contribute to its solemn atmosphere. As a memorial, it is designed to create a space for contemplation and reflection, enhancing the visitors’ experience. The architecture may feature elements that evoke a sense of reverence, encouraging individuals to pause and consider the significance of the site.
+The physical attributes of Gedenkstätte Langer Gang contribute to its solemn atmosphere. As a memorial, it is designed to create a space for contemplation and reflection, enhancing the visitors' experience. The architecture may feature elements that evoke a sense of reverence, encouraging individuals to pause and consider the significance of the site.
 
 Notable features may include inscriptions or plaques that provide context and information about the events commemorated, allowing visitors to engage with the memorial on a deeper level. The layout of the site is likely organized to facilitate movement and exploration, with pathways that guide visitors through various elements of the memorial.
 

@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Church of the Redeemer in Bad Homburg is a remarkable example of ecclesiastical architecture that reflects the cultural and historical fabric of the region. Located in the Innenstadt district of this charming German town, the church serves as an important spiritual and community hub. Its significance is not limited to its role in worship; it also stands as a symbol of the area's rich history and community spirit. Visitors to Bad Homburg will find the Church of the Redeemer not only a place for reflection but also a focal point that connects them to the town’s heritage. With its inviting atmosphere, this church promises a unique experience for those seeking both solace and a glimpse into the local culture.
+The Church of the Redeemer in Bad Homburg is a remarkable example of ecclesiastical architecture that reflects the cultural and historical fabric of the region. Located in the Innenstadt district of this charming German town, the church serves as an important spiritual and community hub. Its significance is not limited to its role in worship; it also stands as a symbol of the area's rich history and community spirit. Visitors to Bad Homburg will find the Church of the Redeemer not only a place for reflection but also a focal point that connects them to the town's heritage. With its inviting atmosphere, this church promises a unique experience for those seeking both solace and a glimpse into the local culture.
 
 ## History and Significance
 
 The Church of the Redeemer has played a vital role in the spiritual life of Bad Homburg. While specific details about its founding and early years may not be readily available, the church has undoubtedly witnessed numerous events that have shaped the community throughout its existence. Its establishment reflects the growing population and the increasing need for places of worship in a developing urban setting.
 
-As a religious structure, the Church of the Redeemer exemplifies the values of the community it serves. It stands not only as a place for prayer and contemplation but also as a gathering spot for various community events and celebrations. This aspect highlights the church’s cultural importance, as it fosters a sense of belonging among residents and visitors alike.
+As a religious structure, the Church of the Redeemer exemplifies the values of the community it serves. It stands not only as a place for prayer and contemplation but also as a gathering spot for various community events and celebrations. This aspect highlights the church's cultural importance, as it fosters a sense of belonging among residents and visitors alike.
 
 The church's role extends beyond the spiritual realm; it is intertwined with the history of Bad Homburg itself. The architectural choices made in its design, the community events hosted within its walls, and the stories of the individuals who have worshipped there contribute to the narrative of the town. As Bad Homburg continues to evolve, the Church of the Redeemer remains a steadfast symbol of continuity and community resilience.
 
@@ -89,7 +89,7 @@ A visit to the Church of the Redeemer typically takes around an hour, allowing e
 Photography policies may vary, so it is advisable to check any signs or ask staff upon arrival to ensure compliance with regulations.
 
 ### Are there guided tours?
-While specific information on guided tours is not provided, it is worth checking the official website for any available options that may enhance your understanding of the church’s history and significance.
+While specific information on guided tours is not provided, it is worth checking the official website for any available options that may enhance your understanding of the church's history and significance.
 
 ### What's the best time to visit?
 Visiting during weekday afternoons is generally recommended for a quieter experience, though the church may be open for prayer and contemplation at various times.
@@ -101,7 +101,7 @@ Accessibility features may vary, and it is advisable to check the official websi
 For the most accurate information regarding tickets and entry, check the official website.
 
 ### Are there restrooms and cafes?
-While specific facilities are not mentioned, nearby attractions may offer amenities such as restrooms and cafes. It’s a good idea to explore the surrounding area for options.
+While specific facilities are not mentioned, nearby attractions may offer amenities such as restrooms and cafes. It's a good idea to explore the surrounding area for options.
 
 ### What should I wear?
 Dress comfortably and respectfully when visiting the church, keeping in mind that it is a place of worship. 

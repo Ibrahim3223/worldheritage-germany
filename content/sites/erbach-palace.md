@@ -79,7 +79,7 @@ Guided tours may be available, but it's best to check the official website for c
 Weekdays are generally less crowded, making them an ideal time for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to consult the official website for detailed information.
+Accessibility features may be available, but it's advisable to consult the official website for detailed information.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases.

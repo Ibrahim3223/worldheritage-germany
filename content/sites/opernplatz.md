@@ -80,7 +80,7 @@ If you're looking to avoid the busiest times, consider visiting on weekdays. Whi
 
 When planning your visit to Opernplatz, bring comfortable walking shoes, as you may want to explore the surrounding areas. Depending on the season, consider layering your clothing, as the weather can fluctuate. The square is an outdoor space, so being prepared for rain or sun can enhance your experience.
 
-Additionally, it’s advisable to carry a reusable water bottle and snacks, especially if you plan to spend a few hours exploring the area. The open space around Opernplatz is perfect for a casual picnic if you find a nice spot to relax.
+Additionally, it's advisable to carry a reusable water bottle and snacks, especially if you plan to spend a few hours exploring the area. The open space around Opernplatz is perfect for a casual picnic if you find a nice spot to relax.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Yes, Opernplatz is designed to be accessible, allowing easy movement for visitor
 Check the official website for information regarding any events at Opernplatz, including ticketing options.
 
 ### Are there restrooms and cafes?
-While there may not be facilities directly within the square, nearby attractions often have amenities available. It’s advisable to check locations in advance.
+While there may not be facilities directly within the square, nearby attractions often have amenities available. It's advisable to check locations in advance.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the season. Layers are recommended to accommodate fluctuating weather conditions.

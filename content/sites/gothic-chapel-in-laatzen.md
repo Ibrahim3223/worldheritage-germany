@@ -44,7 +44,7 @@ Today, the Gothic chapel continues to be a focal point for the community in Laat
 
 The Gothic chapel in Laatzen showcases several hallmark features of Gothic architecture. Visitors will immediately notice the pointed arches that frame the entrance and windows, a characteristic design element that not only enhances the aesthetic appeal but also serves practical purposes, allowing for taller structures and more expansive interiors. The chapel likely features ribbed vaulting in the ceiling, which adds both structural integrity and visual interest.
 
-One of the chapel’s most striking aspects may be its stained glass windows, which often depict biblical scenes or saints, filtering light in a manner that creates a serene and contemplative atmosphere inside. The interplay of light and color enhances the spiritual experience, drawing visitors into a deeper connection with the space.
+One of the chapel's most striking aspects may be its stained glass windows, which often depict biblical scenes or saints, filtering light in a manner that creates a serene and contemplative atmosphere inside. The interplay of light and color enhances the spiritual experience, drawing visitors into a deeper connection with the space.
 
 Additionally, the facade of the chapel can be adorned with intricate stone carvings, a testament to the craftsmanship of the builders and the artistic expression of the era. While specific details regarding the chapel's exterior may vary, the overall design reflects the grandeur and elegance typical of Gothic structures.
 

@@ -70,7 +70,7 @@ If you're looking to expand your visit beyond the Monastery in Tempzin, several 
 
 3. **Nature Trails**: Enjoy the natural beauty of the region by taking advantage of nearby walking paths and trails that showcase the scenic landscape around the monastery.
 
-4. **Local Museums**: Discover more about the history and culture of the region by visiting local museums that may offer exhibits on the area’s monastic history and traditions.
+4. **Local Museums**: Discover more about the history and culture of the region by visiting local museums that may offer exhibits on the area's monastic history and traditions.
 
 5. **Cultural Events**: Depending on the time of your visit, check for local cultural events or festivals that may be happening in the area, providing an opportunity to experience the local customs and community spirit.
 
@@ -103,7 +103,7 @@ A visit typically takes a few hours, allowing you to explore the site and absorb
 Photography policies may vary by area; check for signs or inquire at the site to know more about where photography is permitted.
 
 ### Are there guided tours?
-Guided tours may be available, enhancing your understanding of the site’s history and architecture. Check the official website for details.
+Guided tours may be available, enhancing your understanding of the site's history and architecture. Check the official website for details.
 
 ### What's the best time to visit?
 Weekdays and early mornings or late afternoons are generally less crowded, making for a more serene experience.

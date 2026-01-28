@@ -46,9 +46,9 @@ Libraries may also incorporate modern technology within their traditional framew
 
 When planning a visit to the Gemeindebücherei St. Laurentius, it is wise to consider transportation options. The library is situated conveniently within Petershausen, making it accessible by various means of transport. Whether you are driving or using public transport, reaching the library should be straightforward.
 
-To ensure a smooth experience, check the official website for current information regarding hours of operation and any potential entry fees. Visitors can expect to spend a couple of hours exploring the library’s offerings, particularly if they wish to participate in any scheduled events or workshops.
+To ensure a smooth experience, check the official website for current information regarding hours of operation and any potential entry fees. Visitors can expect to spend a couple of hours exploring the library's offerings, particularly if they wish to participate in any scheduled events or workshops.
 
-The best times to visit might vary based on the library’s programming and local events, so consulting the website ahead of time can provide insights into peak hours and special activities. Expect a welcoming atmosphere filled with fellow readers and a wealth of resources at your fingertips.
+The best times to visit might vary based on the library's programming and local events, so consulting the website ahead of time can provide insights into peak hours and special activities. Expect a welcoming atmosphere filled with fellow readers and a wealth of resources at your fingertips.
 
 ## Nearby Attractions
 
@@ -101,7 +101,7 @@ Accessibility details are not provided. For current accessibility options, check
 Details on ticket purchases are not available. Visit the library's website for information on any events that might require tickets.
 
 ### Are there restrooms and cafes?
-Specific amenities are not mentioned. It’s advisable to check for restroom availability and nearby dining options while visiting.
+Specific amenities are not mentioned. It's advisable to check for restroom availability and nearby dining options while visiting.
 
 ### What should I wear?
 Dress comfortably, considering the weather and your plans for exploring the area after your visit.

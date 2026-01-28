@@ -30,7 +30,7 @@ image_srcset:
 
 The Old Town of Regensburg with Stadtamhof is a UNESCO World Heritage site that captivates visitors with its blend of medieval charm and vibrant modern life. Located in the heart of Bavaria, Germany, Regensburg's old town reflects centuries of history and cultural evolution. The city is situated at the confluence of the Danube, Naab, and Regen rivers, making it not only a strategic trade hub in the past but also a picturesque setting for exploration today. 
 
-Regensburg’s significance lies in its well-preserved medieval architecture and its role as an important center of commerce and governance throughout the ages. The old town is characterized by its narrow cobblestone streets, historic buildings, and lively squares that invite both leisurely strolls and deeper exploration. The atmosphere is enhanced by the presence of local cafes and shops, creating a vibrant urban scene against the backdrop of rich heritage.
+Regensburg's significance lies in its well-preserved medieval architecture and its role as an important center of commerce and governance throughout the ages. The old town is characterized by its narrow cobblestone streets, historic buildings, and lively squares that invite both leisurely strolls and deeper exploration. The atmosphere is enhanced by the presence of local cafes and shops, creating a vibrant urban scene against the backdrop of rich heritage.
 
 Visitors to Regensburg can expect an immersive experience, where the past meets the present. With its stunning architecture and historical significance, the Old Town of Regensburg with Stadtamhof promises to enchant, educate, and inspire those who walk its streets.
 
@@ -54,7 +54,7 @@ The Stone Bridge, another significant landmark, dates back to the 12th century a
 
 The narrow streets of Regensburg are lined with well-preserved buildings, many of which date back to the Middle Ages. The facades feature colorful plasterwork, decorative elements, and charming window boxes that add to the town's character. Historic squares, such as the Neupfarrplatz, are lively gathering spots, often hosting markets and events that celebrate local culture.
 
-Stadtamhof, with its quaint charm, offers a different perspective on Regensburg’s history. The area features picturesque streets and buildings that reflect a more residential aspect of the town's past. The combination of these architectural features contributes to the overall allure of Regensburg, inviting exploration and discovery at every turn.
+Stadtamhof, with its quaint charm, offers a different perspective on Regensburg's history. The area features picturesque streets and buildings that reflect a more residential aspect of the town's past. The combination of these architectural features contributes to the overall allure of Regensburg, inviting exploration and discovery at every turn.
 
 ## Visiting Information
 

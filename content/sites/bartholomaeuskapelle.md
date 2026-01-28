@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Bartholomäuskapelle, a quaint chapel located in the serene region of Korweiler, Germany, invites visitors to explore its tranquil surroundings and spiritual ambiance. While this chapel may not be as widely recognized as some of Germany’s grand cathedrals, it holds a quiet significance within the local community and offers a glimpse into the region’s cultural heritage. With its simple yet profound architecture, Bartholomäuskapelle serves as a place of reflection and worship, embodying the spiritual essence that has endured through the ages.
+Bartholomäuskapelle, a quaint chapel located in the serene region of Korweiler, Germany, invites visitors to explore its tranquil surroundings and spiritual ambiance. While this chapel may not be as widely recognized as some of Germany's grand cathedrals, it holds a quiet significance within the local community and offers a glimpse into the region's cultural heritage. With its simple yet profound architecture, Bartholomäuskapelle serves as a place of reflection and worship, embodying the spiritual essence that has endured through the ages.
 
 Set against the backdrop of the picturesque German landscape, Bartholomäuskapelle is easily accessible and offers an intimate experience for those seeking solace or a moment of contemplation. The chapel's setting allows one to appreciate not only its architectural beauty but also the surrounding natural environment, which enhances the overall experience of visiting this sacred site. Whether you are a history enthusiast, a spiritual seeker, or simply curious about regional heritage, Bartholomäuskapelle promises a meaningful visit.
 

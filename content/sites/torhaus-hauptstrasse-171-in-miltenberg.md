@@ -22,7 +22,7 @@ images:
 
 Torhaus Hauptstraße 171 in Miltenberg is a striking gatehouse that serves as a crucial cultural heritage monument in Bavaria, Germany. Located in the picturesque town of Miltenberg, this structure exemplifies the region's historical architecture and urban planning. Its coordinates place it centrally within the town, making it an easily accessible landmark for visitors exploring the area. The Torhaus, or gatehouse, historically functioned as a point of entry, embodying the significance of Miltenberg as an important trade and transport hub in earlier centuries.
 
-Visitors to Torhaus Hauptstraße 171 will find a captivating glimpse into Bavaria’s architectural evolution and urban life. The gatehouse invites exploration, revealing layers of history and cultural significance that contribute to Miltenberg’s charm. As you approach this historic site, the well-preserved features and the stories it holds promise to engage and educate those interested in the region's past.
+Visitors to Torhaus Hauptstraße 171 will find a captivating glimpse into Bavaria's architectural evolution and urban life. The gatehouse invites exploration, revealing layers of history and cultural significance that contribute to Miltenberg's charm. As you approach this historic site, the well-preserved features and the stories it holds promise to engage and educate those interested in the region's past.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ For photography enthusiasts, early morning or late afternoon provides the best n
 
 ## Practical Information
 
-When planning your visit to Torhaus Hauptstraße 171, consider bringing a camera, comfortable walking shoes, and a water bottle for hydration. The weather in Bavaria can be variable, so dress in layers and check the forecast before your visit. It’s also wise to have a light jacket or umbrella handy, especially in the spring and autumn.
+When planning your visit to Torhaus Hauptstraße 171, consider bringing a camera, comfortable walking shoes, and a water bottle for hydration. The weather in Bavaria can be variable, so dress in layers and check the forecast before your visit. It's also wise to have a light jacket or umbrella handy, especially in the spring and autumn.
 
 ## Frequently Asked Questions
 

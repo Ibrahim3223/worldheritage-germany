@@ -82,7 +82,7 @@ Engaging with local community members can enrich your visit, as they often provi
 
 ## Practical Information
 
-When planning your visit to the Selimiye-Moschee, it’s advisable to dress modestly, in keeping with the cultural and religious significance of the site. Comfortable footwear is also recommended, particularly if you plan to explore the nearby attractions.
+When planning your visit to the Selimiye-Moschee, it's advisable to dress modestly, in keeping with the cultural and religious significance of the site. Comfortable footwear is also recommended, particularly if you plan to explore the nearby attractions.
 
 Seasonal considerations include checking the weather forecast, as outdoor activities may be more enjoyable during pleasant seasons. Winter visits can also be rewarding, as the surrounding area may be adorned with seasonal decorations, creating a unique atmosphere.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 St. Afra is a distinguished church building located in the Bezirk Mitte district of Berlin, Germany. This architectural gem reflects the rich history and cultural significance of the region, serving as a spiritual and community hub for locals and visitors alike. With its strategic location in one of Berlin's most vibrant areas, it invites exploration not only of its own storied past but also of the surrounding urban landscape.
 
-The architecture of St. Afra embodies the transitions that have shaped Berlin’s identity over centuries, offering insights into the city's evolution. As you approach the church, you may find yourself drawn in by its unique design and the stories it holds within its walls. Visitors can expect to experience a blend of historical reverence and contemporary community engagement, making it a worthwhile stop on any Berlin itinerary.
+The architecture of St. Afra embodies the transitions that have shaped Berlin's identity over centuries, offering insights into the city's evolution. As you approach the church, you may find yourself drawn in by its unique design and the stories it holds within its walls. Visitors can expect to experience a blend of historical reverence and contemporary community engagement, making it a worthwhile stop on any Berlin itinerary.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ When planning a visit to St. Afra, it is essential to consider your mode of tran
 
 To make the most of your visit, it is advisable to check the official website for current hours and any potential entry fees. This will ensure you have the latest information on what to expect during your visit. On average, visitors may find that a stay of around one to two hours is sufficient to explore the church and absorb its atmosphere.
 
-The best times to visit St. Afra are typically during weekdays when there may be fewer crowds. However, if you wish to experience a service or special event, checking the church’s schedule can enhance your visit. 
+The best times to visit St. Afra are typically during weekdays when there may be fewer crowds. However, if you wish to experience a service or special event, checking the church's schedule can enhance your visit. 
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ While visiting St. Afra, take the opportunity to explore nearby attractions that
 2. **Museum Island**: A UNESCO World Heritage site, this area hosts several world-renowned museums, perfect for art and history enthusiasts.
 3. **Alexanderplatz**: A bustling square filled with shops, restaurants, and a vibrant atmosphere, ideal for a leisurely stroll or a meal.
 4. **Berlin TV Tower (Fernsehturm)**: Just a short distance away, this tower provides panoramic views of the city from its observation deck.
-5. **Nikolaiviertel**: Berlin’s historic quarter, offering charming streets and a glimpse into the city’s medieval past.
+5. **Nikolaiviertel**: Berlin's historic quarter, offering charming streets and a glimpse into the city's medieval past.
 
 ## Insider Tips
 
@@ -72,7 +72,7 @@ To avoid larger crowds, consider visiting during weekdays rather than weekends, 
 
 ## Practical Information
 
-When visiting St. Afra, it’s advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. Depending on the season, layering your clothing can ensure you remain comfortable during your visit, as interiors may vary in temperature.
+When visiting St. Afra, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. Depending on the season, layering your clothing can ensure you remain comfortable during your visit, as interiors may vary in temperature.
 
 If you're planning to spend time in the area, consider bringing a water bottle and a light snack. While the church itself may not have dining facilities, nearby cafes and restaurants offer a variety of options for refreshments.
 
@@ -94,7 +94,7 @@ Weekdays are generally less crowded, making them ideal for a quieter experience,
 Accessibility details should be confirmed on the official website, as facilities can vary.
 
 ### Can I buy tickets online?
-For entry fees or special events, it’s best to check the official website for current information on ticket purchases.
+For entry fees or special events, it's best to check the official website for current information on ticket purchases.
 
 ### Are there restrooms and cafes?
 While St. Afra may not have its own facilities, there are likely nearby options for restrooms and dining.

@@ -28,7 +28,7 @@ image_srcset:
 
 Haus im Schluh is an art museum located in the picturesque region of Worpswede, Germany. This museum serves as a cultural hub, showcasing both historical and contemporary art that reflects the artistic spirit of the area. Known for its vibrant artistic community, Worpswede has long attracted painters, sculptors, and creatives, making Haus im Schluh an essential destination for art lovers and cultural enthusiasts alike. Visitors can expect a thoughtfully curated collection that highlights the evolution of art in the region, providing insight into the creative minds that have made their mark here.
 
-The museum’s significance lies not only in its collection but also in its role within the artistic narrative of Worpswede, a place historically linked to the expressionist movement. The museum stands as a testament to the enduring legacy of this artistic enclave, inviting guests to explore the ongoing dialogue between past and present art forms. As you step into Haus im Schluh, prepare to immerse yourself in a world of creativity that reflects the unique character of this area.
+The museum's significance lies not only in its collection but also in its role within the artistic narrative of Worpswede, a place historically linked to the expressionist movement. The museum stands as a testament to the enduring legacy of this artistic enclave, inviting guests to explore the ongoing dialogue between past and present art forms. As you step into Haus im Schluh, prepare to immerse yourself in a world of creativity that reflects the unique character of this area.
 
 ## History and Significance
 

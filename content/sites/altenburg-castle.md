@@ -46,7 +46,7 @@ Altenburg Castle exhibits architectural characteristics typical of medieval fort
 
 The layout of Altenburg Castle likely includes a central courtyard, which would have served as a gathering place for residents and visitors alike. Surrounding the courtyard, various rooms and chambers would have fulfilled essential functions, including living quarters, storage, and areas for governance. The simplicity in design coupled with strategic elements highlights the practical considerations that shaped medieval architecture.
 
-As visitors explore the castle, they can appreciate the craftsmanship that went into its construction. The enduring nature of the stonework and the overall design of the castle reflect the architectural styles of the time, which prioritized both functionality and defense. While the specifics of the interior may not be detailed, the castle’s exterior and its commanding presence remain a testament to the ingenuity of medieval builders.
+As visitors explore the castle, they can appreciate the craftsmanship that went into its construction. The enduring nature of the stonework and the overall design of the castle reflect the architectural styles of the time, which prioritized both functionality and defense. While the specifics of the interior may not be detailed, the castle's exterior and its commanding presence remain a testament to the ingenuity of medieval builders.
 
 ## Visiting Information
 

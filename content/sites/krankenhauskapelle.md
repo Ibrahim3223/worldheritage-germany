@@ -28,13 +28,13 @@ image_srcset:
 
 The Krankenhauskapelle, a church building located in Halle (Saale), Germany, stands out not only as a place of worship but also as a significant piece of architectural heritage. It serves both the local community and visitors seeking to understand the region's cultural fabric. With its serene ambiance and historical resonance, the chapel invites contemplation and exploration, making it a noteworthy stop for anyone interested in religious architecture or the historical evolution of church buildings in Germany. 
 
-Situated in a vibrant urban setting, the Krankenhauskapelle is easily accessible, allowing for a convenient visit amid a city rich in history and modernity. Whether you are a history enthusiast, an architecture aficionado, or simply someone seeking a quiet space for reflection, this chapel offers a unique experience that echoes the past while remaining relevant in today’s context.
+Situated in a vibrant urban setting, the Krankenhauskapelle is easily accessible, allowing for a convenient visit amid a city rich in history and modernity. Whether you are a history enthusiast, an architecture aficionado, or simply someone seeking a quiet space for reflection, this chapel offers a unique experience that echoes the past while remaining relevant in today's context.
 
 ## History and Significance
 
 The Krankenhauskapelle is deeply intertwined with the history of Halle (Saale), a city known for its significant contributions to culture and education in Germany. While specific historical dates may not be documented, the chapel's establishment marks an essential chapter in the region's development, particularly in relation to healthcare and community services. As a church building associated with a hospital, it underscores the historical connection between faith and healing, a concept that has deep roots in many cultures.
 
-Throughout the years, the Krankenhauskapelle has likely served various roles, not just as a space for religious services but also as a place for the community to gather during times of need. Churches often act as focal points in their communities, providing comfort and support, particularly during challenging times. The chapel’s enduring presence is a reminder of the importance of spirituality in healing and recovery, reflecting a broader narrative about the role of faith in human experience.
+Throughout the years, the Krankenhauskapelle has likely served various roles, not just as a space for religious services but also as a place for the community to gather during times of need. Churches often act as focal points in their communities, providing comfort and support, particularly during challenging times. The chapel's enduring presence is a reminder of the importance of spirituality in healing and recovery, reflecting a broader narrative about the role of faith in human experience.
 
 While the specific architectural influences and styles may not be detailed, the church building represents the broader evolution of ecclesiastical architecture in Germany. It reflects shifts in religious practices and community needs, showcasing how such structures adapt over time to serve both spiritual and practical purposes.
 
@@ -101,7 +101,7 @@ Facilities may vary, so it's best to check the official website for specific acc
 Ticket purchasing options vary, so check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Amenities may be limited; it’s advisable to check nearby locations for restrooms and food options.
+Amenities may be limited; it's advisable to check nearby locations for restrooms and food options.
 
 ### What should I wear?
 Dress comfortably and modestly, particularly if visiting during a service or event.

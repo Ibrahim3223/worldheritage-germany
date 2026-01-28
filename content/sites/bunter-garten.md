@@ -55,7 +55,7 @@ Mönchengladbach is home to several attractions that complement a visit to Bunte
 1. **Schloss Rheydt**: A historic castle that offers insights into the local history and architecture, surrounded by its own beautiful park.
 2. **Museum Abteiberg**: An art museum showcasing modern and contemporary art, providing a cultural counterpoint to the natural beauty of the garden.
 3. **St. Vitus Church**: An impressive Gothic church located nearby, notable for its striking architecture and historical significance.
-4. **Bunter Garten’s surrounding parks**: Other green spaces in the vicinity offer additional opportunities for outdoor activities and relaxation.
+4. **Bunter Garten's surrounding parks**: Other green spaces in the vicinity offer additional opportunities for outdoor activities and relaxation.
 5. **Mönchengladbach City Center**: A bustling area with shops, cafés, and restaurants, perfect for a post-visit meal or coffee.
 
 These attractions can enrich your experience in Mönchengladbach, providing a mix of culture, history, and nature.
@@ -68,7 +68,7 @@ If you prefer to avoid crowds, weekdays are generally less busy compared to week
 
 ## Practical Information
 
-When visiting Bunter Garten, it’s advisable to wear comfortable clothing and shoes suitable for walking. The garden's pathways may require some walking, so be prepared for a leisurely stroll. Bringing a water bottle is a good idea, especially during warmer months, to stay hydrated while exploring.
+When visiting Bunter Garten, it's advisable to wear comfortable clothing and shoes suitable for walking. The garden's pathways may require some walking, so be prepared for a leisurely stroll. Bringing a water bottle is a good idea, especially during warmer months, to stay hydrated while exploring.
 
 Seasonal considerations are also important; spring and summer are typically when the garden is most vibrant. However, autumn can offer a unique charm with changing foliage colors. Be sure to check the official website for any seasonal events, which may enhance your visit.
 

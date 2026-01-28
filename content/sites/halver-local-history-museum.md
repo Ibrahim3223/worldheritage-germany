@@ -103,7 +103,7 @@ Accessibility features should be confirmed directly with the museum.
 Check the official website for current information regarding online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities available at the museum may vary, so it’s best to check for current amenities.
+Facilities available at the museum may vary, so it's best to check for current amenities.
 
 ### What should I wear?
 Dress comfortably and consider the weather, especially if you plan to explore the town afterward.

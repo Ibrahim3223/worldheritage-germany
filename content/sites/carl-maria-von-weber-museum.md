@@ -58,10 +58,10 @@ The best times to visit are generally during weekdays when the museum is less cr
 
 While visiting the Carl-Maria-von-Weber-Museum, there are several nearby attractions worth exploring:
 
-1. **Dresden Frauenkirche**: A stunning example of Baroque architecture, this church is a symbol of Dresden’s resilience and history.
+1. **Dresden Frauenkirche**: A stunning example of Baroque architecture, this church is a symbol of Dresden's resilience and history.
 2. **Zwinger Palace**: Home to impressive art collections and beautiful gardens, the Zwinger is a must-see for anyone interested in art and architecture.
 3. **Semper Opera House**: Renowned for its stunning design and acoustics, this opera house hosts a variety of performances throughout the year.
-4. **Dresden Castle**: One of the oldest buildings in Dresden, it houses several museums and offers insights into the city’s royal history.
+4. **Dresden Castle**: One of the oldest buildings in Dresden, it houses several museums and offers insights into the city's royal history.
 5. **Brühl's Terrace**: Known as the "Balcony of Europe," this picturesque promenade along the Elbe River offers beautiful views and a peaceful atmosphere.
 
 ## Insider Tips

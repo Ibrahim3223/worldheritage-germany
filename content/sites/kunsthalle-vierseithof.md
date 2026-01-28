@@ -60,7 +60,7 @@ Kunsthalle Vierseithof is situated in a region that offers various attractions, 
 
 1. **Local Art Galleries**: Explore smaller galleries that feature local artists and contemporary exhibitions, providing a broader view of the regional art scene.
   
-2. **Cultural Institutions**: Visit other museums or cultural centers that may offer different perspectives on art and history, enriching your understanding of the area’s heritage.
+2. **Cultural Institutions**: Visit other museums or cultural centers that may offer different perspectives on art and history, enriching your understanding of the area's heritage.
 
 3. **Parks and Green Spaces**: Take a stroll in nearby parks, which can serve as a peaceful retreat after an engaging day at the museum.
 

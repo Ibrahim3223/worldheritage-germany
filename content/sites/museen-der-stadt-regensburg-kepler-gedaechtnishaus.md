@@ -30,11 +30,11 @@ Johannes Kepler, born in 1571, was a key figure in the scientific revolution and
 
 Kepler's work was revolutionary, shifting the paradigm from the geocentric model of the universe to a heliocentric understanding, where the Earth and other planets orbit the sun. This transition was not merely a scientific advancement; it also represented a significant cultural shift that affected philosophy, religion, and the arts. The museum aims to communicate this broader significance, illustrating how Kepler's theories influenced not only future scientists but also the way humanity perceives its place in the universe.
 
-In addition to Kepler's scientific contributions, the museum offers insights into the time he lived in, a period marked by intense intellectual exploration and conflict. The exhibits serve to contextualize Kepler’s work amidst the challenges and triumphs of the era, providing a comprehensive understanding of the man behind the science.
+In addition to Kepler's scientific contributions, the museum offers insights into the time he lived in, a period marked by intense intellectual exploration and conflict. The exhibits serve to contextualize Kepler's work amidst the challenges and triumphs of the era, providing a comprehensive understanding of the man behind the science.
 
 ## Architecture and Features
 
-The Kepler-Gedächtnishaus itself is located in a historical building that reflects the architectural styles of its time. While specific details about the building's architecture are not provided, it can be expected that the museum features elements characteristic of Regensburg’s rich historical fabric. Visitors can anticipate a thoughtfully curated space that both honors its historical roots and serves as a modern venue for exhibitions.
+The Kepler-Gedächtnishaus itself is located in a historical building that reflects the architectural styles of its time. While specific details about the building's architecture are not provided, it can be expected that the museum features elements characteristic of Regensburg's rich historical fabric. Visitors can anticipate a thoughtfully curated space that both honors its historical roots and serves as a modern venue for exhibitions.
 
 Inside, the museum is likely organized thematically, with various sections dedicated to different aspects of Kepler's life and work. Artifacts may include manuscripts, models of celestial bodies, and interactive displays that engage visitors of all ages. The layout is designed to facilitate educational experiences, allowing for deeper engagement with the material presented.
 
@@ -64,7 +64,7 @@ To capture the essence of the museum through photography, be sure to bring a cam
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring along essentials such as comfortable walking shoes, a water bottle, and a notebook if you wish to jot down thoughts or reflections. Seasonal considerations may affect your visit; check local weather forecasts to dress appropriately. 
+When planning your visit, it's advisable to bring along essentials such as comfortable walking shoes, a water bottle, and a notebook if you wish to jot down thoughts or reflections. Seasonal considerations may affect your visit; check local weather forecasts to dress appropriately. 
 
 Be prepared for a variety of learning experiences, and consider engaging with interactive displays that may be available. 
 

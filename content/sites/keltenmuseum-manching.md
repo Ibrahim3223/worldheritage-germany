@@ -76,7 +76,7 @@ To make the most of your visit to Keltenmuseum Manching, consider the following 
 
 - **Crowd Avoidance**: To avoid larger crowds, aim for early morning visits or weekdays. This strategy can provide a more relaxed atmosphere for appreciating the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 

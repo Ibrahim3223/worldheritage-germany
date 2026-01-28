@@ -60,7 +60,7 @@ Visiting Rathaus Vierraden can be a rewarding experience, offering insight into 
 
 - **Check the official website for hours/prices**: To plan your visit effectively, it is advisable to refer to the official website for the most current information regarding opening hours and any potential admission fees.
 
-- **What to expect**: Visitors can look forward to exploring the city hall’s public areas, where they may gain insights into the administrative functions of local government. Depending on the day, you might witness civic activities or events that bring the community together.
+- **What to expect**: Visitors can look forward to exploring the city hall's public areas, where they may gain insights into the administrative functions of local government. Depending on the day, you might witness civic activities or events that bring the community together.
 
 - **Time needed**: A visit to Rathaus Vierraden typically requires around 30 minutes to an hour, allowing ample time to appreciate its architectural features and learn about its role in the community.
 
@@ -74,7 +74,7 @@ Exploring the vicinity of Rathaus Vierraden allows visitors to immerse themselve
 
 1. **Schwedt/Oder Town Center**: The heart of Schwedt/Oder features shops, cafes, and local eateries where you can enjoy regional cuisine and experience the local culture.
 
-2. **St. John’s Church**: A significant landmark in the area, this church showcases beautiful architecture and offers a glimpse into the religious history of the community.
+2. **St. John's Church**: A significant landmark in the area, this church showcases beautiful architecture and offers a glimpse into the religious history of the community.
 
 3. **Uckermark Nature Park**: For those seeking natural beauty, the nearby nature park offers scenic landscapes and trails, ideal for walking and enjoying the outdoors.
 

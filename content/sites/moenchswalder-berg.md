@@ -103,7 +103,7 @@ Accessibility details are not specified, so it is advisable to check the officia
 Specific ticketing information is not provided, so checking the official website for purchasing options is recommended.
 
 ### Are there restrooms and cafes?
-Details about restroom facilities and nearby cafes are not mentioned, so it’s best to plan accordingly and check for amenities in Bautzen.
+Details about restroom facilities and nearby cafes are not mentioned, so it's best to plan accordingly and check for amenities in Bautzen.
 
 ### What should I wear?
 Wear comfortable, weather-appropriate clothing and sturdy footwear suitable for hiking. Layering is recommended due to temperature changes.

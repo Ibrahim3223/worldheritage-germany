@@ -32,7 +32,7 @@ Located in the vibrant district of Charlottenburg-Wilmersdorf, Gebauer Höfe is 
 
 The history of Gebauer Höfe is intricately linked to the development of Berlin as a center of industry and commerce. Established during a period of significant urban growth, the site originally served as a manufacturing complex, housing various industrial activities. This architectural ensemble is representative of the shift from traditional craftsmanship to modern industrial production, marking a pivotal moment in the city's economic development.
 
-As Berlin transformed throughout the decades, so too did Gebauer Höfe. The buildings not only reflect the architectural styles of their time but also embody the social changes that accompanied the industrialization of Berlin. The industrial heritage of the site contributes to understanding the broader context of Berlin's history, emphasizing the importance of industry in shaping the city’s identity.
+As Berlin transformed throughout the decades, so too did Gebauer Höfe. The buildings not only reflect the architectural styles of their time but also embody the social changes that accompanied the industrialization of Berlin. The industrial heritage of the site contributes to understanding the broader context of Berlin's history, emphasizing the importance of industry in shaping the city's identity.
 
 Today, Gebauer Höfe stands as a notable example of adaptive reuse in architecture. Many of the original structures have been preserved and repurposed for contemporary use, which speaks to the ongoing dialogue between the past and the present. By maintaining these historic buildings, the ensemble not only honors its origins but also provides a platform for modern creativity, arts, and community engagement. This blend of history and modernity makes Gebauer Höfe a significant cultural landmark in Berlin.
 
@@ -72,7 +72,7 @@ To avoid larger crowds, plan your visit outside of peak tourist seasons. Late sp
 
 ## Practical Information
 
-When visiting Gebauer Höfe, it’s advisable to wear comfortable shoes, as you’ll likely be walking around the complex and its surroundings. Depending on the season, dressing in layers can help you adapt to changing temperatures, particularly if you plan to spend time outdoors.
+When visiting Gebauer Höfe, it's advisable to wear comfortable shoes, as you'll likely be walking around the complex and its surroundings. Depending on the season, dressing in layers can help you adapt to changing temperatures, particularly if you plan to spend time outdoors.
 
 Bringing a camera is recommended for capturing the unique architectural details and vibrant atmosphere of the site. While there are various dining options nearby, you may want to consider bringing snacks or water, especially if you plan to explore for an extended period.
 
@@ -91,7 +91,7 @@ Check the official website for information regarding guided tours, which may be 
 Weekdays, particularly in late spring or early autumn, tend to be less crowded and offer a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The accessibility of the site can vary, so it’s best to check the official website for specific details regarding wheelchair access and available facilities.
+The accessibility of the site can vary, so it's best to check the official website for specific details regarding wheelchair access and available facilities.
 
 ### Can I buy tickets online?
 For the most accurate information regarding ticket purchases, check the official website, as options may vary.

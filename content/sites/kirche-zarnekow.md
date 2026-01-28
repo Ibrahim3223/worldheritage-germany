@@ -34,7 +34,7 @@ While the church may not be as widely known as some of its larger counterparts, 
 
 ## History and Significance
 
-Kirche Zarnekow's history is intertwined with the cultural development of the region. While specific dates are not documented, the church’s existence reflects the longstanding tradition of ecclesiastical architecture in northern Germany. The establishment of churches in rural communities was often pivotal in forming social structures, providing not only a place of worship but also a center for community gatherings and events.
+Kirche Zarnekow's history is intertwined with the cultural development of the region. While specific dates are not documented, the church's existence reflects the longstanding tradition of ecclesiastical architecture in northern Germany. The establishment of churches in rural communities was often pivotal in forming social structures, providing not only a place of worship but also a center for community gatherings and events.
 
 Throughout the years, Kirche Zarnekow has maintained its role as a spiritual sanctuary for the local population. It has witnessed various historical events, contributing to the cultural fabric of the village and surrounding areas. As with many churches, it has likely undergone renovations and restorations to preserve its integrity and functionality, ensuring that it remains an active place of worship.
 

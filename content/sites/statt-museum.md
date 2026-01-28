@@ -72,7 +72,7 @@ To avoid busier times, plan your visit during weekdays or early in the morning. 
 
 ## Practical Information
 
-When visiting the STATT-Museum, it’s advisable to bring along essentials such as comfortable walking shoes, a water bottle, and perhaps a notebook for jotting down insights or reflections on the exhibits. Seasonal considerations may also play a role in your visit; for example, check the weather forecast to dress appropriately.
+When visiting the STATT-Museum, it's advisable to bring along essentials such as comfortable walking shoes, a water bottle, and perhaps a notebook for jotting down insights or reflections on the exhibits. Seasonal considerations may also play a role in your visit; for example, check the weather forecast to dress appropriately.
 
 If you plan to visit during a specific season, consider how the museum might adapt its exhibits or programming to reflect current themes or events. Keep an eye out for any seasonal events that may enhance your experience.
 

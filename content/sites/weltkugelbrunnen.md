@@ -60,7 +60,7 @@ The fountain is particularly enjoyable during the warmer months when the weather
 
 2. **Berlin Zoo**: One of the oldest zoos in the world, the Berlin Zoo is home to a diverse array of animal species. It offers a family-friendly experience and is situated nearby, making it a great addition to your visit.
 
-3. **Kurfürstendamm**: Known as Ku'damm, this famous shopping street is lined with boutiques, cafes, and restaurants. It’s an ideal place to explore after visiting the fountain, providing a vibrant shopping and dining experience.
+3. **Kurfürstendamm**: Known as Ku'damm, this famous shopping street is lined with boutiques, cafes, and restaurants. It's an ideal place to explore after visiting the fountain, providing a vibrant shopping and dining experience.
 
 4. **Café am Neuen See**: Nestled within the Tiergarten, this charming lakeside café is a perfect spot for refreshments. It offers a serene environment to relax after a visit to the bustling Breitscheidplatz area.
 
@@ -74,7 +74,7 @@ If you're looking to avoid crowds, aim for weekdays rather than weekends, as thi
 
 ## Practical Information
 
-When visiting the Weltkugelbrunnen, it’s advisable to bring essentials such as water, comfortable footwear, and a camera to capture the beautiful surroundings. Depending on the season, consider dressing in layers, as Berlin's weather can change quickly. 
+When visiting the Weltkugelbrunnen, it's advisable to bring essentials such as water, comfortable footwear, and a camera to capture the beautiful surroundings. Depending on the season, consider dressing in layers, as Berlin's weather can change quickly. 
 
 During the warmer months, sunscreen and hats may be necessary, especially if you plan to spend extended periods outdoors. If visiting in the colder months, be prepared for lower temperatures and potential rain. 
 

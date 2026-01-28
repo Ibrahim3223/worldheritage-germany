@@ -32,7 +32,7 @@ As one of the larger cemeteries in Leipzig, it encompasses a serene environment 
 
 ## History and Significance
 
-Leipzig South Cemetery holds a vital place in the city’s narrative, representing not only the burial practices of the past but also the evolution of the city itself. Established during a period of significant change, this cemetery reflects the socio-political shifts that occurred in Leipzig over the years. It serves as a final resting place for many who had a profound impact on the region, including artists, scholars, and influential citizens.
+Leipzig South Cemetery holds a vital place in the city's narrative, representing not only the burial practices of the past but also the evolution of the city itself. Established during a period of significant change, this cemetery reflects the socio-political shifts that occurred in Leipzig over the years. It serves as a final resting place for many who had a profound impact on the region, including artists, scholars, and influential citizens.
 
 The cemetery's establishment came during a time when urban expansion necessitated the creation of larger burial spaces, leading to the development of a site that would accommodate the growing population. Over the years, it became a site of remembrance for many families, showcasing the importance of commemorating loved ones within a community context.
 
@@ -74,7 +74,7 @@ While photography is generally allowed, be respectful of the solemn nature of th
 
 ## Practical Information
 
-When visiting Leipzig South Cemetery, it’s wise to bring along a few essentials. Comfortable walking shoes are a must, as the pathways can require some exploration. Depending on the season, consider wearing layers, as temperatures can fluctuate throughout the day.
+When visiting Leipzig South Cemetery, it's wise to bring along a few essentials. Comfortable walking shoes are a must, as the pathways can require some exploration. Depending on the season, consider wearing layers, as temperatures can fluctuate throughout the day.
 
 Check the official website for any seasonal considerations that may affect your visit, such as special events or maintenance work. If you plan to spend extended time exploring the cemetery, bringing water and snacks can enhance your experience.
 

@@ -28,9 +28,9 @@ The castle's strategic position not only highlights its defensive purpose but al
 
 The origins of Burg Neu-Sunthausen are rooted in medieval times, when castles served as vital strongholds for local nobility and military defense. While specific dates and events may be scarce, the castle represents a significant aspect of the feudal system that characterized the region during its peak. Castles like Neu-Sunthausen were not only military fortifications but also centers of administration and local governance, reflecting the societal structures of their time.
 
-The castle’s historical relevance extends beyond its architectural features. It has likely witnessed various socio-political changes throughout the centuries, from the rise and fall of noble houses to the shifts in power that shaped the area. Its preservation allows for a tangible connection to these influences, making it an important site for understanding the historical narrative of Geisingen and its surroundings.
+The castle's historical relevance extends beyond its architectural features. It has likely witnessed various socio-political changes throughout the centuries, from the rise and fall of noble houses to the shifts in power that shaped the area. Its preservation allows for a tangible connection to these influences, making it an important site for understanding the historical narrative of Geisingen and its surroundings.
 
-Today, Burg Neu-Sunthausen stands as a symbol of heritage, drawing visitors interested in the stories of the past that are embedded within its walls. The castle plays an integral role in the promotion of local history and culture, often serving as a venue for educational programs and community events. This ongoing engagement not only fosters a deeper appreciation for the castle’s heritage but also cultivates a sense of pride among residents and visitors alike.
+Today, Burg Neu-Sunthausen stands as a symbol of heritage, drawing visitors interested in the stories of the past that are embedded within its walls. The castle plays an integral role in the promotion of local history and culture, often serving as a venue for educational programs and community events. This ongoing engagement not only fosters a deeper appreciation for the castle's heritage but also cultivates a sense of pride among residents and visitors alike.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ For those planning a visit to Burg Neu-Sunthausen, here are some insider tips to
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays or off-peak seasons when tourist traffic is lighter. This will allow you to explore the castle and its surroundings at a more leisurely pace.
 
-- **Engage with Guides**: If available, take advantage of guided tours to gain deeper insights into the castle’s history and architecture. Guides often provide fascinating anecdotes that enrich the visitor experience.
+- **Engage with Guides**: If available, take advantage of guided tours to gain deeper insights into the castle's history and architecture. Guides often provide fascinating anecdotes that enrich the visitor experience.
 
 ## Practical Information
 

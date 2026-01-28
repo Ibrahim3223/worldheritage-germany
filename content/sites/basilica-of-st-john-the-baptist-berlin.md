@@ -48,7 +48,7 @@ Inside, visitors will find a space that balances functionality with aesthetic be
 
 One of the notable features of the Basilica is its commitment to fostering community engagement. The church often hosts events and activities that connect local residents, reinforcing its role as a gathering place. The architecture not only serves the needs of worship but also facilitates interactions among congregants, creating a vibrant social environment.
 
-While the Basilica of St. John the Baptist may not be the largest cathedral in Berlin, its architectural charm and community significance make it an essential part of the city’s cultural landscape.
+While the Basilica of St. John the Baptist may not be the largest cathedral in Berlin, its architectural charm and community significance make it an essential part of the city's cultural landscape.
 
 ## Visiting Information
 
@@ -62,11 +62,11 @@ As you explore the Basilica, be prepared for a serene environment conducive to r
 
 ## Nearby Attractions
 
-While the Basilica of St. John the Baptist is a captivating destination in its own right, several nearby attractions enhance the experience of visiting Neukölln. Each site contributes to a broader understanding of the area’s cultural and historical context.
+While the Basilica of St. John the Baptist is a captivating destination in its own right, several nearby attractions enhance the experience of visiting Neukölln. Each site contributes to a broader understanding of the area's cultural and historical context.
 
 1. **Tempelhofer Feld**: This former airport turned public park offers vast open spaces for recreation and relaxation. Visitors can walk, cycle, or enjoy picnics in this unique urban green space.
 
-2. **Neukölln Museum**: Located not far from the Basilica, this museum delves into the history and culture of the Neukölln district, showcasing local art and exhibits that reflect the area’s diverse community.
+2. **Neukölln Museum**: Located not far from the Basilica, this museum delves into the history and culture of the Neukölln district, showcasing local art and exhibits that reflect the area's diverse community.
 
 3. **Richardplatz**: This charming square is home to a variety of eateries, shops, and local markets, making it a perfect spot to experience the local vibe and indulge in some culinary delights.
 
@@ -100,7 +100,7 @@ When planning your visit to the Basilica of St. John the Baptist, consider the f
 A visit to the Basilica of St. John the Baptist typically lasts around an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s important to be respectful of worshippers and the sacred space.
+Photography is generally permitted, but it's important to be respectful of worshippers and the sacred space.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any specific offerings that may be available during your visit.

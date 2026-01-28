@@ -78,7 +78,7 @@ For those planning to visit Zeche Bonifacius, consider the following tips to enh
 
 ## Practical Information
 
-When visiting Zeche Bonifacius, it’s advisable to bring along essentials such as comfortable walking shoes, as exploring the site may involve some walking. Depending on the weather, consider dressing in layers to accommodate changing conditions.
+When visiting Zeche Bonifacius, it's advisable to bring along essentials such as comfortable walking shoes, as exploring the site may involve some walking. Depending on the weather, consider dressing in layers to accommodate changing conditions.
 
 Seasonal considerations can also play a role in your visit. If visiting during colder months, be prepared for potentially chilly weather, while summer may bring more visitors to the site. Always check the official website for any seasonal programs or events that may be taking place.
 
@@ -97,7 +97,7 @@ While specific information is not provided, many heritage sites offer guided tou
 The best time to visit can depend on local events and weather conditions. Consider going during weekdays for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified. It’s best to check the official website or contact site management for details regarding wheelchair access.
+Accessibility information is not specified. It's best to check the official website or contact site management for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for the latest information regarding online sales.

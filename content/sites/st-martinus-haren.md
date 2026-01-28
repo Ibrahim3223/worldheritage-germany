@@ -32,7 +32,7 @@ The church's location within Haren provides a convenient base for exploring the 
 
 ## History and Significance
 
-St. Martinus has played a crucial role in the spiritual and cultural life of Haren and its surrounding communities. While specific historical dates may not be available, the church’s presence has been felt for many years, providing a place for worship and community gatherings. The church is dedicated to St. Martin, a widely venerated figure in Christianity known for his acts of compassion and service. This dedication signifies the church's role in promoting values of charity and community spirit within the local population.
+St. Martinus has played a crucial role in the spiritual and cultural life of Haren and its surrounding communities. While specific historical dates may not be available, the church's presence has been felt for many years, providing a place for worship and community gatherings. The church is dedicated to St. Martin, a widely venerated figure in Christianity known for his acts of compassion and service. This dedication signifies the church's role in promoting values of charity and community spirit within the local population.
 
 The importance of St. Martinus extends beyond its religious functions; it has also served as a focal point for various cultural events and festivities throughout the years. The church has witnessed changes in society and has adapted to the evolving needs of its congregation, making it a living part of Haren's history. Its architectural features reflect the craftsmanship of the era and the artistic trends that have influenced church construction in the region.
 

@@ -34,7 +34,7 @@ The Friedrich-Koenig-Denkmal stands as a significant cultural landmark in the he
 
 The monument is named after Friedrich Koenig, whose contributions and legacy are honored through this structure. Koenig's connection to Eisleben and his influence in the cultural or political arena would have motivated the establishment of such a memorial, reflecting the town's commitment to preserving its historical identity. Monuments like this serve vital roles in fostering community pride and educating both residents and visitors about their shared heritage.
 
-Eisleben itself is a UNESCO World Heritage Site, recognized for its historical significance, particularly in relation to the life of Martin Luther. The presence of the Friedrich-Koenig-Denkmal complements the rich tapestry of the town’s heritage offerings. Visitors to the monument are encouraged to reflect on the impact of individuals like Koenig within the wider context of German history, particularly the Reformation period and beyond.
+Eisleben itself is a UNESCO World Heritage Site, recognized for its historical significance, particularly in relation to the life of Martin Luther. The presence of the Friedrich-Koenig-Denkmal complements the rich tapestry of the town's heritage offerings. Visitors to the monument are encouraged to reflect on the impact of individuals like Koenig within the wider context of German history, particularly the Reformation period and beyond.
 
 ## Architecture and Features
 

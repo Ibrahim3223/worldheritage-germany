@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Citadel of Münster, a prominent castle located in Germany, serves as a compelling destination for history enthusiasts and architecture aficionados alike. With its commanding presence, this fortress not only offers a glimpse into the military and civic past of the region but also stands as a symbol of the enduring significance of Münster within European history. The castle’s strategic location and its imposing structure invite visitors to explore the rich narratives that shaped the city and the surrounding areas.
+The Citadel of Münster, a prominent castle located in Germany, serves as a compelling destination for history enthusiasts and architecture aficionados alike. With its commanding presence, this fortress not only offers a glimpse into the military and civic past of the region but also stands as a symbol of the enduring significance of Münster within European history. The castle's strategic location and its imposing structure invite visitors to explore the rich narratives that shaped the city and the surrounding areas.
 
 Münster itself is a city renowned for its vibrant cultural scene and historical landmarks. The Citadel, positioned at the coordinates 51.96566123, 7.60846138, is a central figure in the urban landscape, drawing visitors eager to learn about its storied past. As a site of military importance, the Citadel has witnessed numerous events that reflect the complexities of power and governance in the region. A visit here promises not only an exploration of architecture and history but also an understanding of Münster's role in broader historical contexts.
 
@@ -66,9 +66,9 @@ While the Citadel of Münster is a significant destination on its own, there are
 
 1. **Münster Cathedral**: A short distance away, this stunning example of Gothic architecture is known for its impressive towers and historical significance.
    
-2. **The Prinzipalmarkt**: This historic market square is lined with picturesque gabled houses and serves as the heart of Münster’s social life.
+2. **The Prinzipalmarkt**: This historic market square is lined with picturesque gabled houses and serves as the heart of Münster's social life.
 
-3. **Münster City Museum**: Explore the city’s history through various exhibits, providing context to the Citadel’s role within the broader narrative of Münster.
+3. **Münster City Museum**: Explore the city's history through various exhibits, providing context to the Citadel's role within the broader narrative of Münster.
 
 4. **Botanical Garden**: A peaceful retreat, the garden showcases a diverse collection of plant species and offers a serene environment for relaxation.
 

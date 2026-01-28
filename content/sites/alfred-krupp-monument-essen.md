@@ -34,7 +34,7 @@ Essen, a city known for its industrial roots, offers a unique backdrop for this 
 
 Alfred Krupp, born in 1812, was a pivotal figure in the development of the German steel industry. His company, the Krupp Works, became one of the largest and most influential industrial enterprises in Europe. Under his leadership, the company expanded its operations and diversified its products, which included not only steel but also armaments. This expansion played a critical role in Germany's industrialization, particularly during the time leading up to and following the unification of Germany in 1871.
 
-The monument itself serves to commemorate not only Krupp's achievements but also the broader industrial legacy of the Ruhr area. This region transformed from agrarian landscapes into one of the world’s foremost industrial hubs during the 19th and early 20th centuries. The Krupp family was deeply intertwined with this transformation, and their story reflects the broader narrative of industrial progress in Germany.
+The monument itself serves to commemorate not only Krupp's achievements but also the broader industrial legacy of the Ruhr area. This region transformed from agrarian landscapes into one of the world's foremost industrial hubs during the 19th and early 20th centuries. The Krupp family was deeply intertwined with this transformation, and their story reflects the broader narrative of industrial progress in Germany.
 
 Culturally, the Alfred Krupp monument is significant as it represents the dual nature of industrialization—while it fostered economic growth and technological advancement, it also raised ethical questions about labor practices and social responsibility. The monument encourages visitors to engage with these themes and consider the implications of industrial development in contemporary society.
 
@@ -44,7 +44,7 @@ The Alfred Krupp monument is characterized by its imposing structure that embodi
 
 The monument likely incorporates materials such as stone or bronze, common in memorial architecture, which serve to convey durability and permanence. Visitors can appreciate the artistry involved in its construction, as it is not just a simple tribute but a carefully crafted representation of a pivotal figure in industrial history.
 
-Surrounding the monument, the area may feature landscaping that enhances the monument’s prominence, inviting contemplation and reflection. As visitors approach, the scale and design are intended to evoke a sense of respect for the industrial heritage it commemorates.
+Surrounding the monument, the area may feature landscaping that enhances the monument's prominence, inviting contemplation and reflection. As visitors approach, the scale and design are intended to evoke a sense of respect for the industrial heritage it commemorates.
 
 ## Visiting Information
 
@@ -93,7 +93,7 @@ Information on guided tours may vary; check the official website for availabilit
 Visiting during spring or early autumn is ideal for mild weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-The site is likely designed with accessibility in mind, but it’s best to check the official website for specific details.
+The site is likely designed with accessibility in mind, but it's best to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

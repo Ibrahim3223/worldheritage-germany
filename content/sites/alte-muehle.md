@@ -28,7 +28,7 @@ image_srcset:
 
 The Alte Mühle, an architectural ensemble located in the Wandsbek district of Hamburg, Germany, stands as a remarkable example of historical industrial architecture. Once a functioning water mill, this site reflects the rich industrial heritage of the region and offers visitors a glimpse into a bygone era. As urban landscapes evolve, sites like the Alte Mühle become increasingly significant for their ability to connect the past with the present, showcasing the evolution of engineering and design in response to the needs of society.
 
-With its unique architectural style and historical context, the Alte Mühle serves not only as a point of interest for architecture enthusiasts but also as a cultural landmark for those keen on exploring the narrative of Hamburg’s development. Visitors to the site can expect to engage with the structures that have shaped the local community, all while enjoying the ambiance of a site that has witnessed centuries of change.
+With its unique architectural style and historical context, the Alte Mühle serves not only as a point of interest for architecture enthusiasts but also as a cultural landmark for those keen on exploring the narrative of Hamburg's development. Visitors to the site can expect to engage with the structures that have shaped the local community, all while enjoying the ambiance of a site that has witnessed centuries of change.
 
 The Alte Mühle's location in Hamburg—one of Germany's most vibrant cities—adds an additional layer of significance. Its proximity to various transport links makes it an accessible destination for both locals and tourists. A visit here promises a thoughtful and enriching experience as one delves into the stories held within its walls.
 
@@ -38,13 +38,13 @@ The Alte Mühle's historical significance is deeply rooted in its role as a wate
 
 As urban growth surged in Hamburg, the Alten Mühle became a symbol of the city's industrial past. Its construction reflects the architectural trends of the time, characterized by practicality and functionality. The site stands not only as a representation of industrial progress but also as a focal point for discussions about sustainability and the preservation of historical structures in contemporary urban planning.
 
-The preservation of the Alte Mühle is indicative of a broader movement in Germany to maintain and celebrate its industrial heritage. The site contributes to the cultural identity of Hamburg, reminding residents and visitors alike of the city’s historical roots. As such, the Alte Mühle not only serves to educate future generations about the significance of water mills in the agricultural and industrial sectors but also fosters a sense of pride in local heritage.
+The preservation of the Alte Mühle is indicative of a broader movement in Germany to maintain and celebrate its industrial heritage. The site contributes to the cultural identity of Hamburg, reminding residents and visitors alike of the city's historical roots. As such, the Alte Mühle not only serves to educate future generations about the significance of water mills in the agricultural and industrial sectors but also fosters a sense of pride in local heritage.
 
 ## Architecture and Features
 
 The architectural ensemble of the Alte Mühle is notable for its distinctive design, which reflects the utilitarian nature of historical milling structures. The buildings are characterized by their robust construction and functional layout, designed to optimize the milling process. Traditional materials were likely used in its construction, further anchoring it in the local context.
 
-Key features of the Alte Mühle include its water-driven machinery, which highlights the innovative engineering of its time. The structure’s design is emblematic of the practical needs of a water mill, with elements that facilitate the flow of water and the effective operation of milling equipment. Visitors may observe remnants of the machinery that powered the mill, offering insights into the technological advancements that have occurred over the years.
+Key features of the Alte Mühle include its water-driven machinery, which highlights the innovative engineering of its time. The structure's design is emblematic of the practical needs of a water mill, with elements that facilitate the flow of water and the effective operation of milling equipment. Visitors may observe remnants of the machinery that powered the mill, offering insights into the technological advancements that have occurred over the years.
 
 The aesthetic of the Alte Mühle, while primarily functional, also reflects the craftsmanship of its builders. Details such as brickwork and the integration of the structure with its surrounding landscape contribute to its architectural charm. The site encapsulates the essence of industrial architecture, merging form with function in a way that speaks to the ingenuity of the past.
 

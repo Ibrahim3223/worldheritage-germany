@@ -34,9 +34,9 @@ The abbey's significance extends beyond its walls, contributing to the broader n
 
 St. Alban's Abbey has long been a cornerstone of monastic life in Mainz. While comprehensive historical records may be sparse, the abbey's establishment reflects the broader movement of monasticism that swept across Europe during the early medieval period. Monasteries were not only places of worship but also centers of learning, agriculture, and community support. St. Alban's played a vital role in these aspects, contributing to the spiritual and social fabric of the region.
 
-The abbey has undergone various transformations throughout its history, mirroring the changing tides of religious thought and practice. Its significance is further underscored by its contributions to the preservation of knowledge and culture during turbulent periods, such as the Carolingian Renaissance. Monks at St. Alban’s would have been involved in the transcription of texts and the cultivation of lands, thereby ensuring the continuity of both spiritual and secular knowledge.
+The abbey has undergone various transformations throughout its history, mirroring the changing tides of religious thought and practice. Its significance is further underscored by its contributions to the preservation of knowledge and culture during turbulent periods, such as the Carolingian Renaissance. Monks at St. Alban's would have been involved in the transcription of texts and the cultivation of lands, thereby ensuring the continuity of both spiritual and secular knowledge.
 
-Additionally, the abbey’s influence extends into the modern era, as it represents the enduring legacy of monastic institutions in shaping the cultural and architectural landscape of Mainz. The site offers invaluable insights into the lives of the monks who inhabited it, their daily routines, and the spiritual pursuits that guided their existence. Exploring St. Alban's Abbey provides visitors with an opportunity to reflect on the historical significance of monastic life and its impact on contemporary society.
+Additionally, the abbey's influence extends into the modern era, as it represents the enduring legacy of monastic institutions in shaping the cultural and architectural landscape of Mainz. The site offers invaluable insights into the lives of the monks who inhabited it, their daily routines, and the spiritual pursuits that guided their existence. Exploring St. Alban's Abbey provides visitors with an opportunity to reflect on the historical significance of monastic life and its impact on contemporary society.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ As you explore St. Alban's Abbey, take time to appreciate the architectural deta
 
 Visiting St. Alban's Abbey offers a unique opportunity to engage with history and culture. To reach the abbey, various transport options are available. Mainz is well-connected by public transportation, including trains and buses. Once in the city, local transit can easily guide you to the abbey's location.
 
-To plan your visit, check the official website for current information regarding hours of operation and admission prices. The site can offer insights into any special events or exhibitions that may be taking place during your visit. It is advisable to allocate a few hours for your exploration to fully appreciate the site’s historical significance and architectural features.
+To plan your visit, check the official website for current information regarding hours of operation and admission prices. The site can offer insights into any special events or exhibitions that may be taking place during your visit. It is advisable to allocate a few hours for your exploration to fully appreciate the site's historical significance and architectural features.
 
 The best times to visit St. Alban's Abbey are typically during the shoulder seasons of spring and autumn when the weather is pleasant, and the site is less crowded. This allows for a more intimate experience as you wander through the abbey and its surroundings.
 
@@ -68,7 +68,7 @@ While you are in Mainz, consider exploring these nearby attractions that enhance
 
 3. **Roman-Germanic Central Museum**: This museum features extensive collections of artifacts from Roman and Germanic history, offering a deeper insight into the region's past.
 
-4. **St. Stephen’s Church**: Renowned for its stunning stained glass windows designed by Marc Chagall, this church is a must-visit for art enthusiasts.
+4. **St. Stephen's Church**: Renowned for its stunning stained glass windows designed by Marc Chagall, this church is a must-visit for art enthusiasts.
 
 5. **Mainz Old Town**: A charming area filled with half-timbered houses, quaint shops, and cafes, perfect for a leisurely stroll after visiting the abbey.
 

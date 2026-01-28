@@ -65,7 +65,7 @@ While visiting St. Martini, consider exploring the surrounding area, which offer
 3. **Museum of the History of Halberstadt**: A museum dedicated to the local history, offering insights into the cultural heritage of the region.
 4. **St. James' Church**: Another historic church in Halberstadt, known for its unique architectural elements and artistic features.
 
-These attractions provide a comprehensive understanding of Halberstadt’s cultural landscape and complement a visit to St. Martini.
+These attractions provide a comprehensive understanding of Halberstadt's cultural landscape and complement a visit to St. Martini.
 
 ## Insider Tips
 
@@ -75,9 +75,9 @@ To avoid crowds, plan your visit during weekdays or early in the morning. This a
 
 ## Practical Information
 
-When preparing for your visit to St. Martini, it’s advisable to dress modestly, respecting the church's status as a place of worship. Comfortable shoes are recommended, as you may want to spend time exploring the church and its surroundings.
+When preparing for your visit to St. Martini, it's advisable to dress modestly, respecting the church's status as a place of worship. Comfortable shoes are recommended, as you may want to spend time exploring the church and its surroundings.
 
-Seasonal considerations can also play a role in your visit. If you’re traveling in winter, be prepared for cooler temperatures, while summer visits may offer more favorable weather for exploring the exterior and nearby attractions.
+Seasonal considerations can also play a role in your visit. If you're traveling in winter, be prepared for cooler temperatures, while summer visits may offer more favorable weather for exploring the exterior and nearby attractions.
 
 As always, check the official website for any specific recommendations regarding what to bring and any seasonal events that may enhance your visit.
 
@@ -90,10 +90,10 @@ A visit to St. Martini Church can range from 30 minutes to a few hours, dependin
 Photography is generally permitted, but be respectful of the space and any signs indicating restrictions, especially during services.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they may enhance your understanding of the church’s history and architecture.
+Check the official website for information on guided tours, as they may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
-Weekdays or early mornings tend to be less crowded, providing a more tranquil experience. Checking the church’s calendar for special events may also enhance your visit.
+Weekdays or early mornings tend to be less crowded, providing a more tranquil experience. Checking the church's calendar for special events may also enhance your visit.
 
 ### Is it wheelchair accessible?
 While specific accessibility details are not provided, it is advisable to check the official website for information regarding wheelchair access within the church.

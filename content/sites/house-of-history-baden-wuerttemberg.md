@@ -62,7 +62,7 @@ The House of History Baden-Württemberg is conveniently located near several not
 
 2. **Palace Square (Schlossplatz)**: A historical site in the heart of Stuttgart, this expansive square is home to the stunning New Palace and is surrounded by beautiful gardens, making it an excellent spot for a leisurely stroll.
 
-3. **Wilhelma Zoo and Botanical Garden**: This unique combination of zoo and botanical garden features a wide array of animal species and plant life, set within a picturesque landscape. It’s a great place for families and nature lovers.
+3. **Wilhelma Zoo and Botanical Garden**: This unique combination of zoo and botanical garden features a wide array of animal species and plant life, set within a picturesque landscape. It's a great place for families and nature lovers.
 
 4. **Stuttgart Art Museum (Kunstmuseum Stuttgart)**: For art enthusiasts, this museum offers a contemporary art collection and hosts temporary exhibitions that highlight modern artistic trends.
 
@@ -86,7 +86,7 @@ Seasonal considerations may affect your visit as well. During warmer months, the
 Most visitors find that two to three hours is sufficient to explore the museum thoroughly and engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check with museum staff regarding specific restrictions.
+Photography policies may vary by exhibit. It's best to check with museum staff regarding specific restrictions.
 
 ### Are there guided tours?
 Yes, the museum often offers guided tours. Check the official website for more details on availability and scheduling.

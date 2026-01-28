@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Steinbogenbrücke Oberfrauendorf is a striking bridge located in the Glashütte region of Germany. This architectural marvel not only serves a practical purpose but also embodies the region's historical and cultural significance. Spanning across a picturesque landscape, the bridge stands as an important conduit, linking communities and facilitating travel. Its design reflects the engineering prowess of its time, making it a noteworthy subject for both history enthusiasts and architecture aficionados. Visitors to the bridge can expect a blend of functionality and beauty, with opportunities to appreciate the surrounding area’s charm.
+The Steinbogenbrücke Oberfrauendorf is a striking bridge located in the Glashütte region of Germany. This architectural marvel not only serves a practical purpose but also embodies the region's historical and cultural significance. Spanning across a picturesque landscape, the bridge stands as an important conduit, linking communities and facilitating travel. Its design reflects the engineering prowess of its time, making it a noteworthy subject for both history enthusiasts and architecture aficionados. Visitors to the bridge can expect a blend of functionality and beauty, with opportunities to appreciate the surrounding area's charm.
 
 ## History and Significance
 

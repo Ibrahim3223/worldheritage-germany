@@ -110,4 +110,4 @@ Details on amenities such as restrooms and cafes are not specified; it's advisab
 ### What should I wear?
 Comfortable clothing and shoes suitable for walking are recommended to ensure an enjoyable visit. 
 
-Gut Wahlstorf presents a unique opportunity to delve into Germany’s heritage, offering visitors a chance to appreciate the elegance and history of this remarkable manor house. Whether you are an architecture enthusiast, a history buff, or simply seeking a serene getaway, Gut Wahlstorf is worth the visit.
+Gut Wahlstorf presents a unique opportunity to delve into Germany's heritage, offering visitors a chance to appreciate the elegance and history of this remarkable manor house. Whether you are an architecture enthusiast, a history buff, or simply seeking a serene getaway, Gut Wahlstorf is worth the visit.

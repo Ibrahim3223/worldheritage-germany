@@ -80,7 +80,7 @@ To avoid crowds, plan your visit during weekdays or outside of major community e
 
 When visiting Holy Spirit Church, it is advisable to bring along a few essential items. Comfortable footwear is recommended, especially if you plan to explore the surrounding area. A water bottle can also be useful, particularly during warmer months.
 
-Seasonal considerations are important; if you visit during the winter, be prepared for colder temperatures, and dress accordingly. In contrast, summer visits may call for lighter clothing, but don’t forget to bring a light jacket for cooler evenings.
+Seasonal considerations are important; if you visit during the winter, be prepared for colder temperatures, and dress accordingly. In contrast, summer visits may call for lighter clothing, but don't forget to bring a light jacket for cooler evenings.
 
 ## Frequently Asked Questions
 

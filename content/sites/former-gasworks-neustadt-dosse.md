@@ -58,7 +58,7 @@ The best times to visit are during weekdays when crowds may be smaller, allowing
 
 While in Neustadt (Dosse), visitors may want to explore several nearby attractions that complement the experience at the Former Gasworks. 
 
-1. **St. Mary’s Church**: A historical church with remarkable architecture, offering a glimpse into the town's religious heritage.
+1. **St. Mary's Church**: A historical church with remarkable architecture, offering a glimpse into the town's religious heritage.
 2. **Neustadt Local History Museum**: This museum provides further insights into the local culture and history, showcasing artifacts and exhibits relevant to the region.
 3. **The Town Square**: A charming area where visitors can enjoy local shops, cafes, and the vibrant atmosphere of the town.
 4. **Nearby Parks and Nature Trails**: Ideal for those looking to enjoy the outdoors, these spaces offer scenic walks and a chance to unwind in nature.

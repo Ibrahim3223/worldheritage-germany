@@ -105,7 +105,7 @@ Information regarding accessibility may vary. It's advisable to check the offici
 Check the official website for current information on ticket sales, as policies may change.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may not be available within the reserve. It’s best to plan accordingly and bring your own refreshments.
+Facilities such as restrooms and cafes may not be available within the reserve. It's best to plan accordingly and bring your own refreshments.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor activities, and choose sturdy footwear to navigate varied terrain. Be prepared for changes in weather, especially during transitional seasons.

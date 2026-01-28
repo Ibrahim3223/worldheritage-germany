@@ -52,11 +52,11 @@ While the castle's interior may have limited access, visitors can still enjoy th
 
 1. **Killer Town Center**: Explore the charming streets of Killer, featuring local shops, cafes, and restaurants that offer a taste of regional cuisine.
 
-2. **Historical Museum of Killer**: This museum provides insights into the local history and culture, showcasing artifacts and exhibits that reflect the area’s past.
+2. **Historical Museum of Killer**: This museum provides insights into the local history and culture, showcasing artifacts and exhibits that reflect the area's past.
 
 3. **Natural Park Killer Valley**: A great destination for hiking and enjoying the scenic beauty of the region, this park offers trails with varying difficulty levels suitable for all ages.
 
-4. **St. Peter’s Church**: Located nearby, this church features stunning architecture and serves as a peaceful spot for reflection amidst the historical backdrop of the area.
+4. **St. Peter's Church**: Located nearby, this church features stunning architecture and serves as a peaceful spot for reflection amidst the historical backdrop of the area.
 
 5. **Ruins of Old Castle**: An intriguing site for history buffs, these ruins offer a glimpse into the region's historical landscape and the evolution of castle architecture.
 

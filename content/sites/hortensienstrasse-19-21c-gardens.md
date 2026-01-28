@@ -95,7 +95,7 @@ Accessibility information may vary, so it's advisable to check the official webs
 Check the official website for information on ticketing options, as online purchases may be available depending on special events or exhibits.
 
 ### Are there restrooms and cafes?
-Information about restrooms and cafes may not be provided, so it’s best to check the official website for details on visitor amenities.
+Information about restrooms and cafes may not be provided, so it's best to check the official website for details on visitor amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended for walking around the gardens. Be prepared for varying weather conditions based on the season.

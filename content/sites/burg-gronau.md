@@ -60,7 +60,7 @@ While visiting Burg Gronau, there are several nearby attractions worth consideri
 
 1. **Heidelberg Castle** - Just a short drive away, this iconic hilltop castle offers stunning views and rich history.
 2. **The Old Bridge of Heidelberg** - A picturesque structure with historical significance, perfect for photography enthusiasts.
-3. **Philosophenweg (Philosopher’s Walk)** - A scenic trail that provides beautiful vistas of Heidelberg and the surrounding area.
+3. **Philosophenweg (Philosopher's Walk)** - A scenic trail that provides beautiful vistas of Heidelberg and the surrounding area.
 4. **Kurpfälzisches Museum** - Located in Heidelberg, this museum showcases regional history and art, enriching your understanding of the area's culture.
 5. **Bergheim Castle** - Another nearby castle that presents a charming glimpse into the region's feudal past.
 

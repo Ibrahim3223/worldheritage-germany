@@ -48,7 +48,7 @@ To visit the Altes Palais, travelers can easily reach the location given its cen
 
 When planning your visit, check the official website for current information on hours and ticket prices. The time required to explore the Altes Palais can vary based on personal interest, but a general recommendation would be to allocate at least an hour to fully appreciate the palace and its surroundings. 
 
-For those wishing to experience the site with fewer crowds, it’s advisable to visit during weekdays or outside of peak tourist seasons. The best times for a visit would depend on local events, so checking the calendar for any special exhibitions or activities at the palace can enhance your experience.
+For those wishing to experience the site with fewer crowds, it's advisable to visit during weekdays or outside of peak tourist seasons. The best times for a visit would depend on local events, so checking the calendar for any special exhibitions or activities at the palace can enhance your experience.
 
 Expect to encounter a space that invites exploration, contemplation, and a connection to the past. The Altes Palais can serve as a focal point for a broader exploration of Hannover, making it a worthwhile addition to your travel plans.
 

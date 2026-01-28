@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kettenschmiedemuseum Sichtigvor invites visitors to delve into the world of traditional chain forging, a craft that has shaped both local industry and cultural heritage. Located in Warstein, Germany, this museum offers an insightful glimpse into the artisanal techniques that have been passed down through generations. As you explore its exhibits, you’ll discover the tools, processes, and historical context surrounding the art of chain making, which has played a significant role in the regional economy and craftsmanship.
+The Kettenschmiedemuseum Sichtigvor invites visitors to delve into the world of traditional chain forging, a craft that has shaped both local industry and cultural heritage. Located in Warstein, Germany, this museum offers an insightful glimpse into the artisanal techniques that have been passed down through generations. As you explore its exhibits, you'll discover the tools, processes, and historical context surrounding the art of chain making, which has played a significant role in the regional economy and craftsmanship.
 
 Warstein, nestled in the picturesque region of North Rhine-Westphalia, is known for its rich industrial history and stunning landscapes. The Kettenschmiedemuseum stands out as a key cultural institution, showcasing the legacy of chain forging that is intrinsic to the area. Visitors can expect to engage with both the past and present of this unique craft, making it a destination of interest for history enthusiasts, families, and anyone curious about traditional manufacturing processes.
 
@@ -38,7 +38,7 @@ The Kettenschmiedemuseum Sichtigvor reflects the evolution of chain forging, whi
 
 Chain-making in this region has roots that trace back many generations, with local craftsmen utilizing their skills to produce high-quality chains for various applications, from agricultural tools to industrial machinery. The museum provides an educational platform that highlights the importance of preserving these traditional methods, offering workshops and demonstrations that engage both young and old in the art of chain forging.
 
-In addition to its focus on craftsmanship, the Kettenschmiedemuseum serves as a repository of local history. It plays a vital role in the community by fostering an appreciation for the region’s industrial heritage. Through its exhibits, the museum emphasizes the importance of maintaining traditional skills in an increasingly mechanized world, advocating for the recognition of artisanal trades as vital components of cultural identity.
+In addition to its focus on craftsmanship, the Kettenschmiedemuseum serves as a repository of local history. It plays a vital role in the community by fostering an appreciation for the region's industrial heritage. Through its exhibits, the museum emphasizes the importance of maintaining traditional skills in an increasingly mechanized world, advocating for the recognition of artisanal trades as vital components of cultural identity.
 
 ## Architecture and Features
 

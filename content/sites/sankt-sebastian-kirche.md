@@ -87,7 +87,7 @@ A visit typically lasts about an hour, allowing time to explore the cathedral an
 Yes, photography is generally permitted, but be respectful of any ongoing services or sacred moments.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they may enhance your understanding of the cathedral’s significance.
+Check the official website for information on guided tours, as they may enhance your understanding of the cathedral's significance.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, providing a quieter experience compared to weekends.

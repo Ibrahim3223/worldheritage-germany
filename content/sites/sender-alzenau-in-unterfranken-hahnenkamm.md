@@ -66,7 +66,7 @@ Expect to find a straightforward experience, as the site is likely to have minim
 
 While Sender Alzenau may be a focal point, several nearby attractions enhance the overall experience of visiting the area. Here are a few noteworthy places to consider:
 
-1. **Alzenau Castle**: A historical site that offers insights into the region's medieval past. The castle’s architecture and surrounding grounds are perfect for exploration.
+1. **Alzenau Castle**: A historical site that offers insights into the region's medieval past. The castle's architecture and surrounding grounds are perfect for exploration.
 
 2. **Hahnenkamm Nature Park**: An ideal location for outdoor enthusiasts, this park offers trails for hiking and enjoying the natural beauty of the region.
 

@@ -42,7 +42,7 @@ Moreover, Johanneskirche often hosts various events, including concerts and comm
 
 Johanneskirche showcases an architectural style that is both functional and aesthetically pleasing. The design of the church incorporates traditional elements that resonate with the historical context of the region while also reflecting modern sensibilities. Its exterior features are particularly striking, inviting visitors to admire the craftsmanship and attention to detail.
 
-Key architectural elements include the church’s façade, which may exhibit intricate designs that speak to the artistry of its builders. The use of local materials in the construction reflects a connection to the surrounding environment, grounding the structure within its urban setting. 
+Key architectural elements include the church's façade, which may exhibit intricate designs that speak to the artistry of its builders. The use of local materials in the construction reflects a connection to the surrounding environment, grounding the structure within its urban setting. 
 
 Inside, Johanneskirche is characterized by a spacious interior that promotes a sense of peace and contemplation. Visitors may notice the arrangement of pews, altars, and other liturgical furnishings that enhance the spiritual atmosphere of the church. The interplay of light through stained glass windows, if present, can create a serene ambiance that adds to the overall experience.
 
@@ -54,7 +54,7 @@ Visiting Johanneskirche is easily achievable due to its central location in Düs
 
 For current hours of operation and any potential entry fees, check the official website for Johanneskirche. Visitors can expect to spend approximately an hour exploring the church, absorbing its architectural beauty, and possibly attending a service or event if the timing aligns.
 
-The best times to visit are typically during weekdays when the church may be less crowded, allowing for a more personal experience. However, weekends may offer unique opportunities to witness community gatherings and services, enhancing the visit’s cultural context.
+The best times to visit are typically during weekdays when the church may be less crowded, allowing for a more personal experience. However, weekends may offer unique opportunities to witness community gatherings and services, enhancing the visit's cultural context.
 
 As you plan your visit, consider the seasonal weather, as this may influence the experience. Each season in Düsseldorf offers a distinct atmosphere, from spring blooms to winter festivities, which can enhance your time at Johanneskirche.
 
@@ -99,7 +99,7 @@ Check the official website for information on guided tours, as these may be offe
 Weekdays or early mornings are ideal for a quieter experience, while weekends may offer unique events.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s best to check the official website for information on wheelchair access.
+Accessibility details may vary; it's best to check the official website for information on wheelchair access.
 
 ### Can I buy tickets online?
 For current ticketing options, including online purchases, check the official website.

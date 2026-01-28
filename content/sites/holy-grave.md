@@ -60,7 +60,7 @@ When it comes to transportation, the mausoleum is accessible by various means, i
 
 A visit to the Holy Grave typically takes around one to two hours, allowing ample time to explore the mausoleum and reflect on its historical significance. The best times to visit are often during weekdays when crowds are thinner, enhancing the experience of solitude and contemplation.
 
-As you prepare for your visit, keep in mind the site’s historical context and the need for respectful behavior, as it is a place of remembrance. Expect to encounter a serene environment where the echoes of history linger, providing a backdrop for personal reflection and appreciation of the craftsmanship involved in its creation.
+As you prepare for your visit, keep in mind the site's historical context and the need for respectful behavior, as it is a place of remembrance. Expect to encounter a serene environment where the echoes of history linger, providing a backdrop for personal reflection and appreciation of the craftsmanship involved in its creation.
 
 ## Nearby Attractions
 
@@ -98,7 +98,7 @@ Before heading to the Holy Grave, it's important to consider a few practical asp
 A visit to the Holy Grave typically takes one to two hours, allowing enough time to explore and reflect.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s essential to be respectful of the site's solemnity and other visitors.
+Photography may be permitted, but it's essential to be respectful of the site's solemnity and other visitors.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or educational programs that may be available during your visit.

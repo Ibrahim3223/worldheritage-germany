@@ -38,7 +38,7 @@ The history of Rathaus Roßlau is intertwined with the broader narrative of Dess
 
 Culturally, Rathaus Roßlau is significant as a gathering place for civic events and public meetings. It embodies the spirit of local governance and community participation, reflecting the values of democracy and public service. As such, it is not merely a physical structure but a representation of the collective identity of the local population. The building has played host to many important events and decisions that have shaped the local community, making it a vital part of the city's heritage.
 
-In recent years, the Rathaus has also become a point of interest for cultural activities, hosting art exhibitions and community events that draw in visitors from both near and far. This transition highlights the building’s adaptability and relevance in contemporary society, allowing it to remain a focal point for both governance and cultural exchange.
+In recent years, the Rathaus has also become a point of interest for cultural activities, hosting art exhibitions and community events that draw in visitors from both near and far. This transition highlights the building's adaptability and relevance in contemporary society, allowing it to remain a focal point for both governance and cultural exchange.
 
 ## Architecture and Features
 

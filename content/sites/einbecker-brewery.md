@@ -28,7 +28,7 @@ image_srcset:
 
 Einbecker Brewery, located in the charming town of Einbeck, Germany, is a prominent establishment famed for its beer production and brewing heritage. As a public company, it represents a significant aspect of local culture and industry. The brewery is known for its historical contributions to brewing techniques and styles, particularly the Einbecker beer, which played a pivotal role in the development of the bock beer style that is celebrated worldwide today. Visitors to the brewery can expect to engage with a blend of tradition and modern brewing practices, making it a notable destination for beer enthusiasts and cultural explorers alike. 
 
-Situated in the heart of Lower Saxony, Einbeck offers easy access to the brewery, which is a cornerstone of the town's historical identity. The brewery’s commitment to quality and craftsmanship is evident in its operations, inviting visitors to learn more about the brewing process and the rich history that accompanies it. Einbecker Brewery serves not only as a place for production but also as a cultural hub, showcasing the importance of brewing in the region's social fabric.
+Situated in the heart of Lower Saxony, Einbeck offers easy access to the brewery, which is a cornerstone of the town's historical identity. The brewery's commitment to quality and craftsmanship is evident in its operations, inviting visitors to learn more about the brewing process and the rich history that accompanies it. Einbecker Brewery serves not only as a place for production but also as a cultural hub, showcasing the importance of brewing in the region's social fabric.
 
 ## History and Significance
 

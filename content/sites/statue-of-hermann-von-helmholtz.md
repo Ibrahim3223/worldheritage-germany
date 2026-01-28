@@ -50,7 +50,7 @@ Surrounding the statue, the setting is often landscaped to enhance its visual im
 
 Visiting the Statue of Hermann von Helmholtz offers an opportunity to engage with a significant cultural landmark in Berlin. The statue's coordinates are 52.51785, 13.39374, placing it conveniently within the Bezirk Mitte district. This central location makes it accessible by various modes of transport, including public transit options like buses and trams.
 
-For the most current information regarding visiting hours and any associated costs, check the official website. While the statue itself is typically free to view, it’s advisable to look up any events or special exhibitions that may be taking place nearby.
+For the most current information regarding visiting hours and any associated costs, check the official website. While the statue itself is typically free to view, it's advisable to look up any events or special exhibitions that may be taking place nearby.
 
 Visitors should plan to spend around 30 minutes to an hour at the site, allowing time for exploration and reflection. To enhance the experience, consider visiting during the early morning or late afternoon when the light casts interesting shadows and creates a more tranquil atmosphere.
 
@@ -103,7 +103,7 @@ Accessibility information is not specified; check the official website for detai
 As the statue is typically free to view, ticket purchases may not be necessary. For current information, check the official website.
 
 ### Are there restrooms and cafes?
-Specific amenities are not detailed; however, nearby attractions may offer facilities. It’s advisable to check local maps for amenities.
+Specific amenities are not detailed; however, nearby attractions may offer facilities. It's advisable to check local maps for amenities.
 
 ### What should I wear?
 Wear comfortable clothing suitable for walking, and consider layering for changing weather conditions.

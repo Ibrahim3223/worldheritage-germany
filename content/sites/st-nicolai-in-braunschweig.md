@@ -76,9 +76,9 @@ While photography may be allowed, it is always best to be respectful and mindful
 
 ## Practical Information
 
-When visiting St. Nicolai, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as exploring the church and its surroundings may involve some walking. Depending on the season, dressing in layers can help ensure comfort, especially if there are variations in temperature.
+When visiting St. Nicolai, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as exploring the church and its surroundings may involve some walking. Depending on the season, dressing in layers can help ensure comfort, especially if there are variations in temperature.
 
-Seasonal considerations may also affect your visit. For instance, winter may bring holiday decorations that add to the ambiance, while spring could offer lush greenery around the church’s vicinity. Always check the official website for any seasonal events or changes in visiting hours.
+Seasonal considerations may also affect your visit. For instance, winter may bring holiday decorations that add to the ambiance, while spring could offer lush greenery around the church's vicinity. Always check the official website for any seasonal events or changes in visiting hours.
 
 ## Frequently Asked Questions
 

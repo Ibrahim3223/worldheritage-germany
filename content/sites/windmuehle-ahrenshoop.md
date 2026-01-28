@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Windmühle Ahrenshoop, located in the charming coastal village of Ahrenshoop in Mecklenburg-Vorpommern, Germany, is a captivating example of traditional windmill architecture. This windmill not only serves as a functional piece of machinery but also stands as a cultural symbol of the region’s agricultural history and maritime heritage. As you approach this historic structure, you’ll be greeted by the gentle sound of whirring sails, a nostalgic reminder of a time when wind power was an essential part of daily life.
+Windmühle Ahrenshoop, located in the charming coastal village of Ahrenshoop in Mecklenburg-Vorpommern, Germany, is a captivating example of traditional windmill architecture. This windmill not only serves as a functional piece of machinery but also stands as a cultural symbol of the region's agricultural history and maritime heritage. As you approach this historic structure, you'll be greeted by the gentle sound of whirring sails, a nostalgic reminder of a time when wind power was an essential part of daily life.
 
 Ahrenshoop is situated on the Baltic Sea coast, and its picturesque landscape has attracted artists, poets, and travelers for centuries. The Windmühle adds an intriguing layer to the village's artistic and historical narrative, making it a significant point of interest for visitors seeking to immerse themselves in the local culture. The mill is not just a relic of the past; it represents the ingenuity of traditional craftsmanship and the community's connection to the land.
 
@@ -64,7 +64,7 @@ While Windmühle Ahrenshoop is a highlight of the village, several nearby attrac
 
 1. **Ahrenshoop Beach**: Just a short walk away, the beach offers a serene coastal experience, perfect for a relaxing stroll or a moment of contemplation by the sea.
 
-2. **Artists’ Village Ahrenshoop**: Explore the village's artistic heritage through galleries and studios showcasing the work of local artists inspired by the enchanting landscapes.
+2. **Artists' Village Ahrenshoop**: Explore the village's artistic heritage through galleries and studios showcasing the work of local artists inspired by the enchanting landscapes.
 
 3. **Wustrow**: A neighboring village accessible by a pleasant walk along the coast, Wustrow features charming architecture and lovely waterfront views.
 

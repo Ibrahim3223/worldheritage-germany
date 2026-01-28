@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Oheimb, a distinguished manor house located in Holzhausen, Germany, offers a glimpse into the architectural and cultural heritage of the Porta Westfalica region. This historic estate is not merely a structure; it represents a significant chapter in local history and embodies the stylistic nuances of manor houses prevalent in Germany. Visitors to Gut Oheimb can expect an enriching experience filled with exploration of the estate’s architectural beauty and its surrounding landscape.
+Gut Oheimb, a distinguished manor house located in Holzhausen, Germany, offers a glimpse into the architectural and cultural heritage of the Porta Westfalica region. This historic estate is not merely a structure; it represents a significant chapter in local history and embodies the stylistic nuances of manor houses prevalent in Germany. Visitors to Gut Oheimb can expect an enriching experience filled with exploration of the estate's architectural beauty and its surrounding landscape.
 
 Positioned within a region known for its scenic beauty and historic importance, Gut Oheimb serves as a reminder of the past while inviting guests to appreciate the artistry of a bygone era. This manor house stands out as a notable landmark, offering insights into the lifestyle and traditions of the families that once inhabited such estates. Whether you are a history buff, an architecture enthusiast, or simply seeking a serene escape, Gut Oheimb promises an engaging visit that melds historical significance with natural beauty.
 
@@ -44,7 +44,7 @@ Gut Oheimb is characterized by its classic manor house architecture, typical of 
 
 The layout of the manor is likely designed to accommodate both family living and the hosting of guests, reflecting the social customs of the time. Visitors may find elegant rooms that would have served various purposes from private family quarters to public entertaining spaces.
 
-Surrounding the manor, you may encounter landscaped gardens or grounds that were traditionally cultivated for both recreation and agricultural purposes. These outdoor spaces would have played a vital role in the lifestyle of the estate’s inhabitants, offering a serene environment to enjoy nature and privacy.
+Surrounding the manor, you may encounter landscaped gardens or grounds that were traditionally cultivated for both recreation and agricultural purposes. These outdoor spaces would have played a vital role in the lifestyle of the estate's inhabitants, offering a serene environment to enjoy nature and privacy.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. This ti
 
 ## Practical Information
 
-When planning your visit to Gut Oheimb, it’s advisable to bring comfortable walking shoes as you may explore various areas around the manor. Seasonal considerations are essential; in summer, light clothing is recommended, while warmer layers may be necessary in cooler months.
+When planning your visit to Gut Oheimb, it's advisable to bring comfortable walking shoes as you may explore various areas around the manor. Seasonal considerations are essential; in summer, light clothing is recommended, while warmer layers may be necessary in cooler months.
 
 If you plan to spend an extended period at the site, consider packing refreshments or snacks, as local dining options can vary. Always check the official website for the latest updates on visitor amenities and facilities available on site.
 

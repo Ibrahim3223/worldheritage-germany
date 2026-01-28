@@ -50,7 +50,7 @@ The design of Burg Krautheim embodies the principles of medieval architecture, w
 
 ## Visiting Information
 
-When planning a visit to Burg Krautheim, travelers should consider various transport options available to reach this historic site. Depending on your starting point, roads and public transport facilities can facilitate access to the castle. Once in Krautheim, the castle’s location makes it a prominent landmark that is likely easy to find.
+When planning a visit to Burg Krautheim, travelers should consider various transport options available to reach this historic site. Depending on your starting point, roads and public transport facilities can facilitate access to the castle. Once in Krautheim, the castle's location makes it a prominent landmark that is likely easy to find.
 
 Check the official website for current information regarding hours of operation and ticket prices. The experience at Burg Krautheim can vary based on the time of your visit, with weekends potentially attracting more visitors. It is advisable to plan your visit during weekdays for a quieter experience.
 

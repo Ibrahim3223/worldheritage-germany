@@ -44,7 +44,7 @@ As you explore the castle grounds, take a moment to appreciate the craftsmanship
 
 Visiting Burg Holzkirch is a rewarding experience for anyone interested in history and architecture. The castle is accessible by various means of transportation, making it a convenient stop for those exploring the Holzkirch region. Whether you arrive by car or public transport, the journey to the castle is sure to be enjoyable.
 
-Check the official website for current information regarding opening hours and ticket prices. It’s advisable to plan your visit accordingly, as hours may vary seasonally or due to special events. When visiting, expect to spend a few hours exploring the castle and its surroundings. Guided tours may be available, providing deeper insights into the history and architecture of Burg Holzkirch.
+Check the official website for current information regarding opening hours and ticket prices. It's advisable to plan your visit accordingly, as hours may vary seasonally or due to special events. When visiting, expect to spend a few hours exploring the castle and its surroundings. Guided tours may be available, providing deeper insights into the history and architecture of Burg Holzkirch.
 
 The best time to visit is during the spring and early autumn months when the weather is pleasant for outdoor exploration. The castle often hosts events during these times, enhancing the visitor experience with cultural programs and historical reenactments. Make sure to check the official website for any upcoming events that might coincide with your visit.
 
@@ -70,7 +70,7 @@ To make the most of your visit to Burg Holzkirch, consider these insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try to visit during weekdays or early in the day, especially during peak tourist seasons. This way, you can explore the grounds at your own pace.
 
-- **Engage with Locals**: Don’t hesitate to ask locals about the history of the castle and the area. Their insights can enhance your understanding and appreciation of the site.
+- **Engage with Locals**: Don't hesitate to ask locals about the history of the castle and the area. Their insights can enhance your understanding and appreciation of the site.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Accessibility information may vary. Check the official website for specifics reg
 Ticket purchasing options may be available online. Confirm the details on the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on-site, but dining options could be limited. It’s wise to plan accordingly.
+Restroom facilities may be available on-site, but dining options could be limited. It's wise to plan accordingly.
 
 ### What should I wear?
 Dress comfortably for walking and consider weather conditions. Layers are recommended for changes in temperature.

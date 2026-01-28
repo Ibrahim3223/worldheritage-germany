@@ -66,7 +66,7 @@ While exploring the Skulpturensammlung und Museum für Byzantinische Kunst, you 
 
 To make the most of your visit to the Skulpturensammlung und Museum für Byzantinische Kunst, consider these insider tips:
 
-- **Photography**: While photography may be permitted in some areas, it’s always a good practice to check for any restrictions or guidelines posted in the museum. Be respectful of other visitors and the artworks.
+- **Photography**: While photography may be permitted in some areas, it's always a good practice to check for any restrictions or guidelines posted in the museum. Be respectful of other visitors and the artworks.
 
 - **Crowd Avoidance**: For a quieter experience, aim to visit during weekday mornings or later in the afternoon. Weekends tend to attract larger crowds, particularly during peak tourist seasons.
 

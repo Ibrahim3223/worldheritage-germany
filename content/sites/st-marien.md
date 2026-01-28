@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Marien, located in the quaint town of Friedland, Germany, is a church building that serves as a focal point for both local residents and visitors alike. This sacred site is not only a place of worship; it also encapsulates the historical and cultural essence of the region. Friedland, nestled in the scenic landscapes of northeastern Germany, offers a rich backdrop that enhances the experience of exploring St. Marien. With its serene environment and architectural charm, the church stands as a significant landmark for understanding the area’s heritage.
+St. Marien, located in the quaint town of Friedland, Germany, is a church building that serves as a focal point for both local residents and visitors alike. This sacred site is not only a place of worship; it also encapsulates the historical and cultural essence of the region. Friedland, nestled in the scenic landscapes of northeastern Germany, offers a rich backdrop that enhances the experience of exploring St. Marien. With its serene environment and architectural charm, the church stands as a significant landmark for understanding the area's heritage.
 
 Visitors can expect to immerse themselves in a space that reflects both spiritual devotion and community life. St. Marien draws those interested in architecture, history, and religious practices, making it a multifaceted destination. Whether you seek a moment of reflection or a deeper understanding of local traditions, this church offers a unique opportunity to engage with the past while appreciating its ongoing relevance.
 
@@ -81,7 +81,7 @@ Seasonal considerations are also important; during colder months, dress appropri
 A visit of at least an hour is recommended to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the specific guidelines posted at the church.
+Photography policies can vary, so it's best to check the specific guidelines posted at the church.
 
 ### Are there guided tours?
 Information on guided tours may be available; check the official website for details.

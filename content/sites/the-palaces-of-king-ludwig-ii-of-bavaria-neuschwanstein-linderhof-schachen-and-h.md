@@ -36,7 +36,7 @@ Visiting these sites offers a glimpse into the lavish lifestyle of King Ludwig I
 
 ## History and Significance
 
-The legacy of King Ludwig II, often referred to as the “Swan King,” is deeply intertwined with the history of Bavaria and its cultural landscape. Born in 1845, Ludwig ascended to the throne at a young age and became known for his eccentric character, passion for the arts, and romantic ideals. His reign was marked by a fascination with medieval themes and fairy-tale narratives, which profoundly influenced his architectural endeavors.
+The legacy of King Ludwig II, often referred to as the "Swan King," is deeply intertwined with the history of Bavaria and its cultural landscape. Born in 1845, Ludwig ascended to the throne at a young age and became known for his eccentric character, passion for the arts, and romantic ideals. His reign was marked by a fascination with medieval themes and fairy-tale narratives, which profoundly influenced his architectural endeavors.
 
 Neuschwanstein Castle, perhaps the most famous of his creations, was commissioned in 1869 as a tribute to the operas of Richard Wagner, a close friend and artistic inspiration for Ludwig. The castle, still under construction at the time of Ludwig's untimely death in 1886, showcases the king's vision of a fantastical world, drawing from Germanic legends and romanticized medieval architecture. Linderhof Palace, completed earlier, is a reflection of Ludwig's admiration for Versailles, offering an intimate yet lavish retreat surrounded by exquisite gardens and fountains.
 

@@ -60,7 +60,7 @@ For the most enjoyable experience, consider visiting during weekdays or early mo
 
 While exploring Hochheim am Main and the Königin-Victoria-Denkmal, there are several nearby attractions worth visiting:
 
-1. **Hochheim Town Center**: The charming town center is a hub of local life, featuring shops, cafes, and traditional German architecture. It’s a great place to unwind and enjoy local cuisine.
+1. **Hochheim Town Center**: The charming town center is a hub of local life, featuring shops, cafes, and traditional German architecture. It's a great place to unwind and enjoy local cuisine.
 
 2. **St. Peter and Paul Church**: This historic church showcases beautiful architecture and offers insights into the local history and culture. Its serene atmosphere provides a perfect backdrop for reflection.
 
@@ -92,10 +92,10 @@ In addition, check the official website for any specific guidelines regarding vi
 Most visitors spend between 30 minutes to a couple of hours at the Königin-Victoria-Denkmal, allowing time to appreciate the monument and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, making it a great opportunity to capture the monument’s beauty.
+Yes, photography is generally permitted, making it a great opportunity to capture the monument's beauty.
 
 ### Are there guided tours?
-Information on guided tours may be available through the official website or local tourism offices. It’s advisable to check in advance for options.
+Information on guided tours may be available through the official website or local tourism offices. It's advisable to check in advance for options.
 
 ### What's the best time to visit?
 Weekdays or early mornings are ideal for avoiding crowds. Spring and autumn offer pleasant weather for outdoor exploration.
@@ -107,7 +107,7 @@ Check the official website for the most accurate information regarding accessibi
 Information regarding ticket purchases can be found on the official website, which will provide details about online options.
 
 ### Are there restrooms and cafes?
-Restroom facilities and nearby cafes may be available, but it’s advisable to confirm these details before your visit.
+Restroom facilities and nearby cafes may be available, but it's advisable to confirm these details before your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to explore the surrounding areas. Dress according to the season for a more enjoyable experience. 

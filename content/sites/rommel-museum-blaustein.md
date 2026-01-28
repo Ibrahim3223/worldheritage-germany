@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Rommel Museum in Blaustein, Germany, offers a unique glimpse into the life and legacy of one of World War II's most enigmatic figures, General Erwin Rommel. This museum is not just a repository of artifacts; it is a place where history enthusiasts can explore the complex narratives surrounding military strategy and leadership during a tumultuous period. The museum’s location in Blaustein, a town rich in cultural heritage, adds another layer of significance, making it a worthwhile stop for those interested in military history and the legacy of the Second World War.
+The Rommel Museum in Blaustein, Germany, offers a unique glimpse into the life and legacy of one of World War II's most enigmatic figures, General Erwin Rommel. This museum is not just a repository of artifacts; it is a place where history enthusiasts can explore the complex narratives surrounding military strategy and leadership during a tumultuous period. The museum's location in Blaustein, a town rich in cultural heritage, adds another layer of significance, making it a worthwhile stop for those interested in military history and the legacy of the Second World War.
 
 By visiting the Rommel Museum, guests can engage with a wide range of exhibits that detail Rommel's military campaigns and personal life. The museum captures the essence of a man who was both revered and controversial, providing insights into his strategic mind and the moral dilemmas of warfare. Whether you are a history buff or simply curious about the past, the Rommel Museum presents an opportunity to gain a deeper understanding of a pivotal era in global history.
 
@@ -44,7 +44,7 @@ The architecture of the Rommel Museum complements its historical themes, designe
 
 Inside, the museum features a variety of display areas, each dedicated to specific themes related to Rommel's legacy. Visitors can expect to see meticulously curated exhibits that include dioramas, maps, and multimedia presentations. These elements work together to create an immersive experience that draws attention to the strategic brilliance and moral complexities of military leadership.
 
-One notable feature of the museum is its collection of personal items belonging to Rommel, which provides a more intimate look at the man behind the military accolades. The combination of personal artifacts and historical documents invites reflection on the duality of Rommel’s legacy, serving as a reminder of both his tactical genius and the controversial decisions he faced.
+One notable feature of the museum is its collection of personal items belonging to Rommel, which provides a more intimate look at the man behind the military accolades. The combination of personal artifacts and historical documents invites reflection on the duality of Rommel's legacy, serving as a reminder of both his tactical genius and the controversial decisions he faced.
 
 ## Visiting Information
 

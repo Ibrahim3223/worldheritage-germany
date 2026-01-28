@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-In the heart of Nuremberg, a city rich with cultural heritage and historical narratives, the Hans-Sachs-Denkmal stands as an emblem of artistic legacy and communal remembrance. This memorial, dedicated to the illustrious 16th-century poet Hans Sachs, serves not only as a tribute to his contributions to German literature but also as a gateway to understanding the rich tapestry of Nuremberg’s history. The monument invites visitors to reflect on the significance of Sachs’ work while providing a glimpse into the cultural milieu of the time in which he lived.
+In the heart of Nuremberg, a city rich with cultural heritage and historical narratives, the Hans-Sachs-Denkmal stands as an emblem of artistic legacy and communal remembrance. This memorial, dedicated to the illustrious 16th-century poet Hans Sachs, serves not only as a tribute to his contributions to German literature but also as a gateway to understanding the rich tapestry of Nuremberg's history. The monument invites visitors to reflect on the significance of Sachs' work while providing a glimpse into the cultural milieu of the time in which he lived.
 
-Nuremberg itself is a city marked by its medieval architecture and vibrant history, with roots tracing back to the Holy Roman Empire. The Hans-Sachs-Denkmal, located within this historic landscape, enhances the experience for anyone exploring the artistic and literary heritage of the region. As you approach this striking monument, you’re not just encountering a piece of art; you’re stepping into a narrative that connects past and present, inviting reflection and appreciation for the cultural figures that have shaped German literature.
+Nuremberg itself is a city marked by its medieval architecture and vibrant history, with roots tracing back to the Holy Roman Empire. The Hans-Sachs-Denkmal, located within this historic landscape, enhances the experience for anyone exploring the artistic and literary heritage of the region. As you approach this striking monument, you're not just encountering a piece of art; you're stepping into a narrative that connects past and present, inviting reflection and appreciation for the cultural figures that have shaped German literature.
 
-Visitors to the monument can expect an experience that combines historical insight with a sense of place, as the memorial is set against the backdrop of Nuremberg’s picturesque streets, bustling with life. This guide will help you navigate the significance of the Hans-Sachs-Denkmal, offering insights into its history, architectural features, and practical tips for your visit.
+Visitors to the monument can expect an experience that combines historical insight with a sense of place, as the memorial is set against the backdrop of Nuremberg's picturesque streets, bustling with life. This guide will help you navigate the significance of the Hans-Sachs-Denkmal, offering insights into its history, architectural features, and practical tips for your visit.
 
 ## History and Significance
 
 Hans Sachs, the man behind the monument, was a pivotal figure in the development of German literature during the Renaissance. A member of the Nuremberg Meistersinger, a guild of poet-musicians, Sachs was known for his ability to weave complex narratives into his works, making them accessible and relatable to the common people. His plays and poetry reflect the social and political currents of his time, engaging with themes of morality, love, and humor.
 
-The monument itself serves as a focal point for celebrating not only Sachs’ literary contributions but also the broader cultural heritage of Nuremberg, a city that has long been a center of art and culture in Germany. The Hans-Sachs-Denkmal embodies the spirit of the Meistersinger tradition, honoring the art of storytelling and performance that was central to the community's identity. As such, it stands as a reminder of the importance of preserving cultural narratives and the role they play in shaping societal values.
+The monument itself serves as a focal point for celebrating not only Sachs' literary contributions but also the broader cultural heritage of Nuremberg, a city that has long been a center of art and culture in Germany. The Hans-Sachs-Denkmal embodies the spirit of the Meistersinger tradition, honoring the art of storytelling and performance that was central to the community's identity. As such, it stands as a reminder of the importance of preserving cultural narratives and the role they play in shaping societal values.
 
 The significance of the Hans-Sachs-Denkmal extends beyond its commemorative purpose; it is a symbol of the resilience of art in the face of historical upheaval. Throughout Nuremberg's tumultuous history, including its destruction during World War II and subsequent reconstruction, the memory of figures like Sachs has continued to inspire and unite the community. Thus, the monument is a testament to the enduring power of literature and the arts in fostering a sense of belonging and identity.
 
@@ -50,7 +50,7 @@ As you explore the monument, take the time to appreciate the craftsmanship invol
 
 ## Visiting Information
 
-Visiting the Hans-Sachs-Denkmal offers a unique opportunity to immerse yourself in the rich cultural landscape of Nuremberg. The monument is conveniently located in the city, making it accessible by various modes of transport. For those arriving by public transportation, Nuremberg’s extensive tram and bus networks provide easy access to the area. Check the official website for current information regarding the best routes and any potential service disruptions.
+Visiting the Hans-Sachs-Denkmal offers a unique opportunity to immerse yourself in the rich cultural landscape of Nuremberg. The monument is conveniently located in the city, making it accessible by various modes of transport. For those arriving by public transportation, Nuremberg's extensive tram and bus networks provide easy access to the area. Check the official website for current information regarding the best routes and any potential service disruptions.
 
 While visiting, expect to spend a short amount of time at the monument itself, often around 30 minutes to an hour. This allows for ample time to appreciate the artistry of the memorial, take photographs, and absorb the surrounding atmosphere. For a more enriching experience, consider combining your visit with a stroll through nearby streets, where additional historical sites and local shops can be explored.
 
@@ -64,13 +64,13 @@ While the Hans-Sachs-Denkmal is a significant site in its own right, Nuremberg i
 
 1. **Nuremberg Castle**: This medieval fortress provides stunning views of the city and insight into its historical significance. The castle complex includes several museums detailing the history of Nuremberg.
 
-2. **St. Lorenz Church**: A striking example of Gothic architecture, this church is known for its impressive stained glass windows and intricate sculptures. It’s a short walk from the monument and worth a visit for its architectural beauty.
+2. **St. Lorenz Church**: A striking example of Gothic architecture, this church is known for its impressive stained glass windows and intricate sculptures. It's a short walk from the monument and worth a visit for its architectural beauty.
 
 3. **Documentation Center Nazi Party Rally Grounds**: For those interested in the darker aspects of Nuremberg's history, this museum offers an in-depth look at the city's role during the Nazi regime and the impact of World War II.
 
 4. **Albrecht Dürer House**: The home of the famous Renaissance artist Albrecht Dürer is now a museum showcasing his life and works. It is located within walking distance and offers a fascinating glimpse into the art of the period.
 
-5. **Nuremberg Market Square**: This vibrant square is the heart of the city, bustling with activity and offering a range of shops, cafes, and local delicacies. It’s a great place to experience the local culture and cuisine.
+5. **Nuremberg Market Square**: This vibrant square is the heart of the city, bustling with activity and offering a range of shops, cafes, and local delicacies. It's a great place to experience the local culture and cuisine.
 
 ## Insider Tips
 

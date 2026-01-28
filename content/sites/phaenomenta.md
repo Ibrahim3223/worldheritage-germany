@@ -28,11 +28,11 @@ image_srcset:
 
 Phänomenta is an engaging science center and museum located in the vibrant city of Flensburg, Germany. This unique establishment serves as a gateway for visitors of all ages to explore the wonders of science through interactive exhibits and hands-on experiences. Situated in a region known for its rich maritime history and cultural diversity, Phänomenta stands out as a destination that invites curiosity and fosters a deeper understanding of scientific principles. Whether you are a family seeking a day of educational entertainment or a traveler intrigued by the intersection of science and art, Phänomenta offers an experience that is both enlightening and enjoyable.
 
-The museum's focus on interactive learning makes it a significant addition to Flensburg’s cultural landscape. Visitors are encouraged to touch, experiment, and discover, transforming the way they engage with scientific concepts. Phänomenta not only provides insights into the natural world but also inspires the next generation of thinkers and innovators. With a diverse array of exhibitions that cater to different interests, it promises to leave a lasting impression on all who enter its doors.
+The museum's focus on interactive learning makes it a significant addition to Flensburg's cultural landscape. Visitors are encouraged to touch, experiment, and discover, transforming the way they engage with scientific concepts. Phänomenta not only provides insights into the natural world but also inspires the next generation of thinkers and innovators. With a diverse array of exhibitions that cater to different interests, it promises to leave a lasting impression on all who enter its doors.
 
 ## History and Significance
 
-Phänomenta's establishment in Flensburg marks a significant addition to the city’s educational and cultural institutions. As a science center, it plays a crucial role in promoting scientific literacy and enthusiasm among the public. The museum’s various exhibits are designed to bridge the gap between complex scientific theories and everyday experiences, making science accessible to everyone.
+Phänomenta's establishment in Flensburg marks a significant addition to the city's educational and cultural institutions. As a science center, it plays a crucial role in promoting scientific literacy and enthusiasm among the public. The museum's various exhibits are designed to bridge the gap between complex scientific theories and everyday experiences, making science accessible to everyone.
 
 The cultural importance of Phänomenta extends beyond its exhibits; it embodies the spirit of inquiry and exploration that characterizes the scientific community. By engaging visitors in hands-on activities, the museum cultivates a sense of wonder and encourages critical thinking. This approach aligns with the broader educational goals of many modern museums, which aim to inspire curiosity and facilitate learning outside traditional classroom settings.
 
@@ -48,7 +48,7 @@ The museum's emphasis on interactivity is a defining characteristic, setting it 
 
 ## Visiting Information
 
-When planning a visit to Phänomenta, it's essential to consider transport options and accessibility. Flensburg is well-connected by public transport, making it easy to reach the museum from various parts of the city. For those driving, parking facilities may be available nearby, though it’s advisable to check the official website for the most current information regarding parking and accessibility.
+When planning a visit to Phänomenta, it's essential to consider transport options and accessibility. Flensburg is well-connected by public transport, making it easy to reach the museum from various parts of the city. For those driving, parking facilities may be available nearby, though it's advisable to check the official website for the most current information regarding parking and accessibility.
 
 Visitors can expect a diverse array of interactive exhibits that cover various scientific themes. The museum is designed to be engaging for all age groups, making it an excellent destination for families, school groups, and curious individuals alike. The recommended time to spend at Phänomenta can vary depending on personal interests, but many guests find that 2 to 3 hours allows for a thorough exploration of the exhibits.
 
@@ -78,9 +78,9 @@ Engaging with the exhibits often requires hands-on participation, so wear comfor
 
 ## Practical Information
 
-When preparing for your visit to Phänomenta, it’s advisable to bring a reusable water bottle and snacks, as this can enhance your comfort during your time at the museum. Seasonal considerations may also play a role in your visit; check the weather forecast and dress accordingly, especially if you plan to explore outdoor areas or nearby attractions.
+When preparing for your visit to Phänomenta, it's advisable to bring a reusable water bottle and snacks, as this can enhance your comfort during your time at the museum. Seasonal considerations may also play a role in your visit; check the weather forecast and dress accordingly, especially if you plan to explore outdoor areas or nearby attractions.
 
-Accessibility options are likely available to accommodate all visitors, but it’s best to verify details on the official website to ensure a smooth experience.
+Accessibility options are likely available to accommodate all visitors, but it's best to verify details on the official website to ensure a smooth experience.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ Accessibility options are likely available to accommodate all visitors, but it�
 Most visitors find that spending 2 to 3 hours at Phänomenta allows ample time to explore the exhibits and participate in hands-on activities.
 
 ### Is photography allowed?
-Photography policies may vary for different exhibits. It’s best to check with museum staff upon arrival for any specific guidelines.
+Photography policies may vary for different exhibits. It's best to check with museum staff upon arrival for any specific guidelines.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. These tours can provide additional insights into the exhibits and enhance your overall experience.

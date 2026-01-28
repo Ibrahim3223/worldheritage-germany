@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Beethoven-Oberschule stands as a notable educational institution in Berlin, Germany, blending the essence of historical significance with modern educational practices. Located in the heart of one of Europe's most vibrant cities, this school not only serves as a center for learning but also reflects the cultural and architectural evolution of the region. Its establishment is woven into the fabric of Berlin's educational landscape, making it a point of interest for those keen on exploring the city’s diverse heritage.
+The Beethoven-Oberschule stands as a notable educational institution in Berlin, Germany, blending the essence of historical significance with modern educational practices. Located in the heart of one of Europe's most vibrant cities, this school not only serves as a center for learning but also reflects the cultural and architectural evolution of the region. Its establishment is woven into the fabric of Berlin's educational landscape, making it a point of interest for those keen on exploring the city's diverse heritage.
 
 As a school building, Beethoven-Oberschule plays a pivotal role in shaping the minds of future generations. Its design and purpose are integral to understanding the evolution of educational methodologies in Germany. Visitors to Berlin will find this site an enriching addition to their itinerary, providing insights into the local educational system while also highlighting the importance of architecture in fostering a conducive learning environment.
 
@@ -100,7 +100,7 @@ Weekdays during school hours are ideal for experiencing the school environment, 
 Accessibility information is not specified; check the official website for details on facilities for visitors with mobility challenges.
 
 ### Can I buy tickets online?
-There are no entry fees to visit Beethoven-Oberschule, but it’s advisable to confirm any visitor guidelines through the official website.
+There are no entry fees to visit Beethoven-Oberschule, but it's advisable to confirm any visitor guidelines through the official website.
 
 ### Are there restrooms and cafes?
 Facilities may be limited; check the official website for information on available amenities.

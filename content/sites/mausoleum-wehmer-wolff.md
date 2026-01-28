@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mausoleum Wehmer-Wolff stands as a poignant reminder of Hannover's rich heritage, located in the Herrenhausen-Stöcken district of Germany. Constructed in 1896, this mausoleum serves as the final resting place for the Wehmer and Wolff families, intertwining their legacies within the city’s historical narrative. The structure is situated within the Stadtfriedhof Stöcken, a cemetery that reflects the cultural and social evolution of Hannover over the decades. Visitors to this mausoleum can expect to encounter not only a site of remembrance but also a significant piece of architectural artistry that encapsulates the era in which it was built.
+The Mausoleum Wehmer-Wolff stands as a poignant reminder of Hannover's rich heritage, located in the Herrenhausen-Stöcken district of Germany. Constructed in 1896, this mausoleum serves as the final resting place for the Wehmer and Wolff families, intertwining their legacies within the city's historical narrative. The structure is situated within the Stadtfriedhof Stöcken, a cemetery that reflects the cultural and social evolution of Hannover over the decades. Visitors to this mausoleum can expect to encounter not only a site of remembrance but also a significant piece of architectural artistry that encapsulates the era in which it was built.
 
 The mausoleum is more than a burial site; it is a cultural monument that offers insight into the customs and traditions surrounding death and remembrance in late 19th-century Germany. Its location within the cemetery allows for a tranquil visit, inviting contemplation and reflection on the lives that are memorialized here. As you explore this significant landmark, you will gain an appreciation for the blending of history, architecture, and community that defines the essence of Hannover.
 
@@ -52,7 +52,7 @@ As an architectural piece, the Mausoleum Wehmer-Wolff stands as a testament to t
 
 ## Visiting Information
 
-Visiting the Mausoleum Wehmer-Wolff offers a unique opportunity to engage with Hannover’s heritage in a serene environment. The mausoleum is located within the Stadtfriedhof Stöcken, making it accessible for those interested in exploring this significant cultural site.
+Visiting the Mausoleum Wehmer-Wolff offers a unique opportunity to engage with Hannover's heritage in a serene environment. The mausoleum is located within the Stadtfriedhof Stöcken, making it accessible for those interested in exploring this significant cultural site.
 
 For transportation, visitors can check local public transit options which typically service the Herrenhausen-Stöcken area. The cemetery is generally within walking distance of public transport stops, making it easily reachable for those traveling by bus or tram. 
 
@@ -66,7 +66,7 @@ The best times to visit are typically during the spring and early autumn when th
 
 While the Mausoleum Wehmer-Wolff is a significant destination in its own right, there are several nearby attractions that visitors may find enriching:
 
-1. **Stadtfriedhof Stöcken**: The cemetery itself is a historical site worth exploring, with various graves and memorials that provide insight into Hannover’s past.
+1. **Stadtfriedhof Stöcken**: The cemetery itself is a historical site worth exploring, with various graves and memorials that provide insight into Hannover's past.
 
 2. **Herrenhausen Gardens**: Located a short distance away, these beautifully landscaped gardens offer a chance to enjoy stunning horticulture and serene walking paths.
 

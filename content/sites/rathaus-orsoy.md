@@ -44,7 +44,7 @@ The cultural importance of Rathaus Orsoy extends beyond its physical structure. 
 
 The architectural design of Rathaus Orsoy reflects the functional requirements of a city hall while also showcasing elements typical of municipal buildings in Germany. While detailed descriptions of its architectural style and specific features are not provided, city halls often exhibit a blend of practicality and aesthetic appeal. 
 
-Typically, such buildings may feature distinct entrances, spacious rooms for meetings and public gatherings, and perhaps a clock tower or decorative elements that highlight the municipality’s identity. The façade may also include traditional elements that resonate with the local culture, making it a visually engaging site for visitors.
+Typically, such buildings may feature distinct entrances, spacious rooms for meetings and public gatherings, and perhaps a clock tower or decorative elements that highlight the municipality's identity. The façade may also include traditional elements that resonate with the local culture, making it a visually engaging site for visitors.
 
 The city hall's design is not just about functionality; it is also about conveying a sense of stability and governance. The materials used and the overall design ethos likely reflect the historical context of Orsoy, contributing to its character as a civic building.
 

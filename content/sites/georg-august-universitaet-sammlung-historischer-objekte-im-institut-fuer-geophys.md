@@ -58,7 +58,7 @@ While in Göttingen, take the opportunity to explore several nearby attractions 
 
 2. **St. Jacob's Church (Jakobskirche)**: A stunning example of Gothic architecture, this historic church is known for its beautiful stained glass and rich history, making it a must-visit for architecture enthusiasts.
 
-3. **Alte Aula**: The Old Auditorium of the Georg-August-Universität showcases impressive interiors and is often a venue for university events, providing insight into the institution’s academic culture.
+3. **Alte Aula**: The Old Auditorium of the Georg-August-Universität showcases impressive interiors and is often a venue for university events, providing insight into the institution's academic culture.
 
 4. **Botanical Garden**: A peaceful escape, the Botanical Garden offers a diverse array of plant species and tranquil walking paths, ideal for a leisurely stroll after visiting the museum.
 
@@ -68,7 +68,7 @@ While in Göttingen, take the opportunity to explore several nearby attractions 
 
 To make the most of your visit to the Georg-August-Universität: Sammlung historischer Objekte, consider the following tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibits may have restrictions. If permitted, capture images that reflect the unique artifacts and your experience.
+- **Photography**: Check the museum's policy on photography, as some exhibits may have restrictions. If permitted, capture images that reflect the unique artifacts and your experience.
 
 - **Crowd Avoidance**: Visiting during the early hours or on weekdays can help you avoid larger crowds, allowing for a more personal exploration of the exhibits.
 
@@ -82,7 +82,7 @@ When preparing for your visit to the museum, consider the following practical as
 
 - **Seasonal Considerations**: Weather may affect your visit, particularly if you plan to explore nearby attractions. Check the forecast and dress accordingly, especially if you intend to walk outdoors.
 
-- **Accessibility**: While specific details on accessibility are not provided, it’s advisable to check the official website for information regarding facilities for visitors with mobility challenges.
+- **Accessibility**: While specific details on accessibility are not provided, it's advisable to check the official website for information regarding facilities for visitors with mobility challenges.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ When preparing for your visit to the museum, consider the following practical as
 Most visitors typically spend around one to two hours at the museum, allowing enough time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Check the museum’s specific policy on photography, as restrictions may apply to certain exhibits.
+Check the museum's specific policy on photography, as restrictions may apply to certain exhibits.
 
 ### Are there guided tours?
 Information about guided tours can be found on the official website. These can enhance your understanding of the collections.

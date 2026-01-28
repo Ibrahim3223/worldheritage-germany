@@ -28,7 +28,7 @@ image_srcset:
 
 Junkerstor, the remarkable city gate of Aachen, Germany, serves as a significant historical landmark that offers insights into the region's architectural and cultural heritage. Positioned at the coordinates 50.77083, 6.07389, this gate is a prominent feature of the cityscape. Its historical relevance stretches back to a time when gates were crucial for defense and urban planning, providing a glimpse into the life and times of past civilizations.
 
-Aachen is known for its rich history as a significant center during the Carolingian Empire, and Junkerstor contributes to this legacy, attracting visitors interested in both history and architecture. The gate stands as a reminder of the city’s medieval past, serving not only as an entry point but also as a symbol of the city's growth and development through the centuries. 
+Aachen is known for its rich history as a significant center during the Carolingian Empire, and Junkerstor contributes to this legacy, attracting visitors interested in both history and architecture. The gate stands as a reminder of the city's medieval past, serving not only as an entry point but also as a symbol of the city's growth and development through the centuries. 
 
 Visitors to Junkerstor can expect to encounter a blend of historical significance and architectural beauty, making it a must-see destination for those exploring Aachen. 
 
@@ -50,7 +50,7 @@ In addition to its functional design, Junkerstor often features ornamental eleme
 
 ## Visiting Information
 
-Visiting Junkerstor provides an opportunity to engage with a piece of Aachen’s rich history. For those planning a visit, various transport options are available, making the site easily accessible. Whether traveling by public transport or car, the city offers facilities that cater to visitors.
+Visiting Junkerstor provides an opportunity to engage with a piece of Aachen's rich history. For those planning a visit, various transport options are available, making the site easily accessible. Whether traveling by public transport or car, the city offers facilities that cater to visitors.
 
 Check the official website for current information regarding hours and prices, as these can vary seasonally or due to special events. Expect to spend a moderate amount of time exploring Junkerstor, allowing for leisurely photography and appreciation of the surrounding area.
 
@@ -58,13 +58,13 @@ The best times to visit are typically during the spring and fall when the weathe
 
 ## Nearby Attractions
 
-While visiting Junkerstor, there are several nearby attractions worth exploring, which can enrich your understanding of Aachen’s heritage:
+While visiting Junkerstor, there are several nearby attractions worth exploring, which can enrich your understanding of Aachen's heritage:
 
 1. **Aachen Cathedral**: A UNESCO World Heritage site, this stunning cathedral is known for its unique architecture and historical significance, particularly as the burial site of Charlemagne.
    
 2. **Elisenbrunnen**: A historic fountain that is famous for its thermal springs, offering visitors a chance to relax and learn about the spa culture of Aachen.
 
-3. **Centre Charlemagne**: This museum dedicated to the history of Aachen provides a comprehensive look at the city’s past, including its role during the Carolingian era.
+3. **Centre Charlemagne**: This museum dedicated to the history of Aachen provides a comprehensive look at the city's past, including its role during the Carolingian era.
 
 4. **Aachen Town Hall**: A remarkable example of Gothic architecture, the town hall is located close to Junkerstor and features impressive interiors and historical exhibits.
 

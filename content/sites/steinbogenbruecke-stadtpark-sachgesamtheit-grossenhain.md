@@ -22,7 +22,7 @@ images:
 
 The Steinbogenbrücke, located in the town of Großenhain, Germany, is a bridge that reflects both the engineering prowess and the historical context of its time. This structure is not just a means of transportation; it serves as a vital connection within the region, linking various pathways and enhancing the town's infrastructure. Großenhain, with its rich cultural heritage, provides a backdrop that enhances the significance of the bridge, making it an interesting point of interest for visitors and locals alike.
 
-As you explore the area, the Steinbogenbrücke invites you to delve deeper into the history and culture of Großenhain. The bridge stands as a symbol of the town’s development, embodying the spirit of progress while also serving a practical purpose. Whether you are crossing it or simply admiring it from a distance, the Steinbogenbrücke is an integral part of the local landscape and history.
+As you explore the area, the Steinbogenbrücke invites you to delve deeper into the history and culture of Großenhain. The bridge stands as a symbol of the town's development, embodying the spirit of progress while also serving a practical purpose. Whether you are crossing it or simply admiring it from a distance, the Steinbogenbrücke is an integral part of the local landscape and history.
 
 ## History and Significance
 
@@ -68,7 +68,7 @@ While exploring the Steinbogenbrücke, take some time to discover other attracti
 
 To make the most of your visit to the Steinbogenbrücke, consider these insider tips. For photography enthusiasts, early morning or late afternoon light can enhance the beauty of the bridge, capturing it in its best light. If you prefer a quieter experience, plan your visit during the weekdays when tourist traffic may be lighter.
 
-Additionally, take time to explore the surrounding area. The combination of the bridge and the nearby attractions provides a fuller picture of Großenhain’s culture and history. Engaging with local residents may also enrich your understanding of the area, as they can offer insights and anecdotes that bring the bridge and town to life.
+Additionally, take time to explore the surrounding area. The combination of the bridge and the nearby attractions provides a fuller picture of Großenhain's culture and history. Engaging with local residents may also enrich your understanding of the area, as they can offer insights and anecdotes that bring the bridge and town to life.
 
 ## Practical Information
 

@@ -42,7 +42,7 @@ The establishment of the memorial reflects a broader appreciation for cultural f
 
 The Freiligrath Memorial is characterized by its simple yet elegant design, which aligns with the ethos of Freiligrath himself—an embodiment of clarity and purpose in expression. The monument features inscriptions of his most notable works, allowing visitors to engage directly with his poetry. The choice of materials and design elements reflects the aesthetic sensibilities of the period, emphasizing a connection between the memorial and the cultural heritage of Germany.
 
-Surrounding the memorial, visitors will find landscaped areas that provide a peaceful atmosphere for contemplation. The setting is designed to encourage reflection on Freiligrath’s life and the broader themes of freedom and justice that he championed. The combination of natural beauty and artistic expression serves to enhance the experience, making the memorial not only a site of historical significance but also a space for personal introspection.
+Surrounding the memorial, visitors will find landscaped areas that provide a peaceful atmosphere for contemplation. The setting is designed to encourage reflection on Freiligrath's life and the broader themes of freedom and justice that he championed. The combination of natural beauty and artistic expression serves to enhance the experience, making the memorial not only a site of historical significance but also a space for personal introspection.
 
 ## Visiting Information
 

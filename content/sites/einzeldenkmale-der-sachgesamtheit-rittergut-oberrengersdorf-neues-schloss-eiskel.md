@@ -70,7 +70,7 @@ While visiting the Einzeldenkmale der Sachgesamtheit Rittergut Oberrengersdorf, 
 
 1. **Kodersdorf Village**: A charming village that offers a glimpse into local life and history, featuring traditional German architecture and quaint shops.
    
-2. **Burg Scharfenstein**: A historic castle located nearby, providing insights into medieval architecture and the region’s feudal past.
+2. **Burg Scharfenstein**: A historic castle located nearby, providing insights into medieval architecture and the region's feudal past.
 
 3. **Kulturhaus Kodersdorf**: A local cultural center that often hosts events and exhibitions, showcasing the artistic side of the community.
 
@@ -123,7 +123,7 @@ Accessibility information can vary; check the official website for specific deta
 Check the official website for information regarding ticket purchases and availability.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for information on restrooms and nearby dining options.
+Facilities may vary, so it's advisable to check the official website for information on restrooms and nearby dining options.
 
 ### What should I wear?
 Dress comfortably and wear appropriate footwear for walking, considering the seasonal weather conditions.

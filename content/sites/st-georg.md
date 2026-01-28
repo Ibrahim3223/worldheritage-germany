@@ -42,7 +42,7 @@ In addition to its religious functions, St. Georg has also been a place for comm
 
 St. Georg is characterized by its traditional architectural style, typical of church buildings in the region. While specific design elements are not detailed in the available information, one can expect to find features that reflect both historical influences and local craftsmanship. The church likely includes elements such as stained glass windows, wooden pews, and a central altar, which are common in ecclesiastical architecture.
 
-Visitors to St. Georg may appreciate the serene atmosphere that envelops the church, created by its design and the spiritual practices that occur within. The interior space is likely adorned with religious iconography and art that provide insight into the local faith community’s values and heritage. Overall, the architecture of St. Georg serves as a physical manifestation of the town's history and collective identity.
+Visitors to St. Georg may appreciate the serene atmosphere that envelops the church, created by its design and the spiritual practices that occur within. The interior space is likely adorned with religious iconography and art that provide insight into the local faith community's values and heritage. Overall, the architecture of St. Georg serves as a physical manifestation of the town's history and collective identity.
 
 ## Visiting Information
 

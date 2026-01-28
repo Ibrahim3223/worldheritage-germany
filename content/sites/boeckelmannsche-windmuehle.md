@@ -22,7 +22,7 @@ images:
 
 The Böckelmannsche Windmühle, once a prominent feature of the Magdeburg landscape, was not just a functional windmill but a symbol of the industrial heritage of the region. Although it no longer exists, its legacy continues to evoke curiosity and admiration. Situated in the Westerhüsen district of Magdeburg, this windmill played a significant role in the agricultural and industrial development of the area. It served as a focal point for local farmers and traders alike, facilitating grain milling and demonstrating the ingenuity of engineering during its operational days.
 
-Exploring the remnants of such sites allows visitors to appreciate the technological advancements of the past and the cultural shifts that accompanied them. While the windmill itself may have disappeared, the stories and significance embedded in its history provide a unique lens through which one can view the evolution of this part of Germany. The Böckelmannsche Windmühle stands as a reminder of the region’s agrarian roots and the importance of windmills in the daily lives of people in the past.
+Exploring the remnants of such sites allows visitors to appreciate the technological advancements of the past and the cultural shifts that accompanied them. While the windmill itself may have disappeared, the stories and significance embedded in its history provide a unique lens through which one can view the evolution of this part of Germany. The Böckelmannsche Windmühle stands as a reminder of the region's agrarian roots and the importance of windmills in the daily lives of people in the past.
 
 ## History and Significance
 

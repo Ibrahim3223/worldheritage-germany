@@ -34,7 +34,7 @@ Visitors to St.-Nicolai-Kirche can anticipate a serene atmosphere, inviting cont
 
 The significance of St.-Nicolai-Kirche extends beyond its physical structure; it is a symbol of the community's dedication to faith and tradition. While specific historical events or dates are not documented, the church's presence in Hagenburg indicates its long-standing role in the spiritual life of the village. Churches often serve as communal gathering places, and St.-Nicolai-Kirche is likely no exception, providing a venue for celebrations, rites, and local events that reinforce community ties.
 
-As a church building, St.-Nicolai-Kirche is representative of the religious practices and architectural styles that have shaped the German landscape over the centuries. It stands as a reminder of the influence of Christianity in the development of local culture and social structures. The church’s architecture, designed to accommodate worship and community functions, reflects the values and aesthetics of its time, though specific details on its architectural evolution may not be available.
+As a church building, St.-Nicolai-Kirche is representative of the religious practices and architectural styles that have shaped the German landscape over the centuries. It stands as a reminder of the influence of Christianity in the development of local culture and social structures. The church's architecture, designed to accommodate worship and community functions, reflects the values and aesthetics of its time, though specific details on its architectural evolution may not be available.
 
 In summary, St.-Nicolai-Kirche serves not only as a place of worship but also as a historical landmark, embodying the rich cultural heritage of Hagenburg and surrounding areas.
 
@@ -82,7 +82,7 @@ When visiting St.-Nicolai-Kirche, consider these insider tips to enhance your ex
 
 When planning your visit to St.-Nicolai-Kirche, keep a few practical considerations in mind:
 
-- **What to Bring**: It’s advisable to bring a camera, a water bottle, and perhaps a light jacket, as temperatures can vary throughout the day.
+- **What to Bring**: It's advisable to bring a camera, a water bottle, and perhaps a light jacket, as temperatures can vary throughout the day.
 
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather. Summer may require lighter clothing, while winter visits might necessitate warmer attire.
 
@@ -95,7 +95,7 @@ A visit to St.-Nicolai-Kirche typically requires about 30 minutes to an hour, de
 Check the official website for current policies regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insight into the church's history and architecture. It’s best to check the official website for details.
+Guided tours may be available, providing deeper insight into the church's history and architecture. It's best to check the official website for details.
 
 ### What's the best time to visit?
 Early mornings or late afternoons are ideal for a quieter experience, but checking local events may also be beneficial.

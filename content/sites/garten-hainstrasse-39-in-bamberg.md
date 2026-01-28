@@ -26,7 +26,7 @@ With its well-tended greenery, the garden reflects the aesthetic principles and 
 
 ## History and Significance
 
-Bamberg is renowned for its well-preserved medieval architecture and has been designated a UNESCO World Heritage site. The garden at Garten Hainstraße 39 adds to this cultural significance as it is classified as a cultural heritage monument (D-4-61-000-256). As a garden, it serves not only as a space for leisure but also as an essential component of Bamberg's urban landscape, reflecting the historical gardening practices and the importance of green spaces in the city’s development.
+Bamberg is renowned for its well-preserved medieval architecture and has been designated a UNESCO World Heritage site. The garden at Garten Hainstraße 39 adds to this cultural significance as it is classified as a cultural heritage monument (D-4-61-000-256). As a garden, it serves not only as a space for leisure but also as an essential component of Bamberg's urban landscape, reflecting the historical gardening practices and the importance of green spaces in the city's development.
 
 While specific historical details about the garden itself may not be readily available, the broader context of Bamberg's history enhances its significance. The city has been a center of art, culture, and religion since its establishment, and gardens like this one have traditionally played a role in urban planning and community life. The presence of such gardens is indicative of a culture that values green spaces, contributing to the quality of life and the aesthetic appeal of the urban environment.
 
@@ -74,7 +74,7 @@ Additionally, be mindful of the local wildlife; quiet observation can yield rewa
 
 ## Practical Information
 
-When preparing for your visit to Garten Hainstraße 39, consider bringing along essentials such as water, comfortable walking shoes, and a light jacket or sun protection, depending on the season. The garden may have limited facilities, so it’s prudent to arrive equipped for your visit.
+When preparing for your visit to Garten Hainstraße 39, consider bringing along essentials such as water, comfortable walking shoes, and a light jacket or sun protection, depending on the season. The garden may have limited facilities, so it's prudent to arrive equipped for your visit.
 
 Seasonal considerations also play a role in your experience. The garden may look distinctly different throughout the year, with spring and summer showcasing vibrant blooms, while autumn presents a palette of warm colors. Winter can offer a serene, quiet landscape, albeit with different visiting conditions.
 

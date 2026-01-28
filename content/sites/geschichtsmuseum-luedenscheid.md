@@ -78,7 +78,7 @@ When it comes to photography, check museum policies regarding camera use to ensu
 
 ## Practical Information
 
-When preparing for your visit, it’s advisable to bring comfortable walking shoes, as you may spend an extended period exploring the museum's exhibits. Seasonal considerations can also play a role; in cooler months, dressing in layers will help ensure comfort as you navigate indoor and outdoor spaces.
+When preparing for your visit, it's advisable to bring comfortable walking shoes, as you may spend an extended period exploring the museum's exhibits. Seasonal considerations can also play a role; in cooler months, dressing in layers will help ensure comfort as you navigate indoor and outdoor spaces.
 
 Additionally, consider carrying a small notebook or digital device for jotting down thoughts or reflections, as museums often inspire deeper contemplation about the subject matter presented.
 
@@ -91,7 +91,7 @@ Visitors typically spend around two hours at Geschichtsmuseum Lüdenscheid, whic
 Policies on photography may vary. It's best to consult the museum's guidelines upon arrival to ensure compliance.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s advisable to check the official website for details and scheduling information.
+Guided tours may be available, but it's advisable to check the official website for details and scheduling information.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning or late afternoon, are often the best times to visit for a quieter experience.

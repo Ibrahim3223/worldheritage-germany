@@ -78,9 +78,9 @@ If you're looking to avoid peak tourist times, weekdays are typically quieter th
 
 When visiting Burg Homberg, it's advisable to dress comfortably and wear sturdy footwear, especially if you plan to explore the castle grounds thoroughly. Depending on the season, layers may be beneficial, as temperatures can vary throughout the day.
 
-Be sure to bring water and snacks, as amenities may be limited on-site. If you’re visiting during the warmer months, sunscreen and a hat are also recommended. 
+Be sure to bring water and snacks, as amenities may be limited on-site. If you're visiting during the warmer months, sunscreen and a hat are also recommended. 
 
-For those interested in learning more about the site, consider bringing a guidebook or downloading relevant materials to enhance your understanding of Burg Homberg’s historical context.
+For those interested in learning more about the site, consider bringing a guidebook or downloading relevant materials to enhance your understanding of Burg Homberg's historical context.
 
 ## Frequently Asked Questions
 

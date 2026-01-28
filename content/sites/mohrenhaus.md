@@ -93,10 +93,10 @@ Seasonal considerations are also important; spring and autumn can offer pleasant
 A visit to Mohrenhaus typically takes a few hours, allowing ample time to explore the architecture and surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always good practice to be mindful of any restrictions in specific areas.
+Photography is generally permitted, but it's always good practice to be mindful of any restrictions in specific areas.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which may enhance your understanding of the site’s history and significance.
+Check the official website for information regarding guided tours, which may enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 The best time to visit is during the spring or autumn when the weather is usually mild, making it comfortable for outdoor exploration.

@@ -102,4 +102,4 @@ For specific ticketing information, including online purchases, please refer to 
 Yes, Strandbad Wannsee is equipped with restrooms and cafes for visitor convenience.
 
 ### What should I wear?
-Comfortable beach attire is recommended, including swimsuits, cover-ups, and sandals. Don’t forget sun protection essentials like hats and sunscreen.
+Comfortable beach attire is recommended, including swimsuits, cover-ups, and sandals. Don't forget sun protection essentials like hats and sunscreen.

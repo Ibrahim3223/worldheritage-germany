@@ -70,7 +70,7 @@ While visiting the Papiertheatermuseum Hanau, guests can explore several nearby 
 
 ## Insider Tips
 
-To make the most of your visit to the Papiertheatermuseum Hanau, consider bringing a camera to capture the intricate details of the exhibits. However, be sure to check the museum’s photography policy beforehand. 
+To make the most of your visit to the Papiertheatermuseum Hanau, consider bringing a camera to capture the intricate details of the exhibits. However, be sure to check the museum's photography policy beforehand. 
 
 To avoid crowds, aim for a weekday visit, particularly in the morning when the museum opens. This timing allows for a more relaxed exploration of the exhibits. 
 
@@ -88,7 +88,7 @@ If you have specific interests in mind, consider bringing a notebook or device t
 A typical visit to the Papiertheatermuseum Hanau can last between one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it is best to check the museum’s guidelines upon arrival to ensure compliance.
+Photography policies may vary, so it is best to check the museum's guidelines upon arrival to ensure compliance.
 
 ### Are there guided tours?
 The museum may offer guided tours or educational programs. Check the official website for current offerings and schedules.

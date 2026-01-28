@@ -89,7 +89,7 @@ Visitors generally find that one to two hours is sufficient to appreciate the ex
 Check the museum's policy on photography, as regulations may vary depending on the exhibitions.
 
 ### Are there guided tours?
-The gallery may offer guided tours; it’s best to check the official website for availability and scheduling.
+The gallery may offer guided tours; it's best to check the official website for availability and scheduling.
 
 ### What's the best time to visit?
 Weekdays, particularly during the morning, tend to be less crowded, offering a more intimate experience.

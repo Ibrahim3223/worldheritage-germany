@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Zeche Alstaden is a significant cultural landmark located in Oberhausen, Germany. As a former coal mine, it represents a crucial chapter in the region's industrial history, reflecting the transformation of the Ruhr area from a primarily agrarian society to an industrial powerhouse. Established during a time when coal mining was a driving force in the economy, Zeche Alstaden played a pivotal role in shaping the local community and its prosperity. Today, it stands as a reminder of the region’s industrial heritage, inviting visitors to explore the stories embedded within its structures.
+Zeche Alstaden is a significant cultural landmark located in Oberhausen, Germany. As a former coal mine, it represents a crucial chapter in the region's industrial history, reflecting the transformation of the Ruhr area from a primarily agrarian society to an industrial powerhouse. Established during a time when coal mining was a driving force in the economy, Zeche Alstaden played a pivotal role in shaping the local community and its prosperity. Today, it stands as a reminder of the region's industrial heritage, inviting visitors to explore the stories embedded within its structures.
 
-The site’s historical impact extends beyond its operational years; it is part of a broader narrative that showcases the evolution of mining practices and the socio-economic dynamics of the 19th and 20th centuries. The significance of Zeche Alstaden is not merely in its past operations but also in its role as a cultural monument, a place where history and community converge. Visitors to the site can expect an informative experience that highlights the importance of coal mining in Germany, the lives of the miners, and the technological advancements that emerged during this era. 
+The site's historical impact extends beyond its operational years; it is part of a broader narrative that showcases the evolution of mining practices and the socio-economic dynamics of the 19th and 20th centuries. The significance of Zeche Alstaden is not merely in its past operations but also in its role as a cultural monument, a place where history and community converge. Visitors to the site can expect an informative experience that highlights the importance of coal mining in Germany, the lives of the miners, and the technological advancements that emerged during this era. 
 
 Zeche Alstaden is more than just a relic of the past; it is an educational resource, a cultural touchstone, and a reminder of the resilience of communities throughout industrialization. The site's location in Oberhausen makes it accessible for those looking to delve into the history of the Ruhr area, making it a worthwhile stop on any heritage journey.
 
@@ -34,7 +34,7 @@ Coal mining had a profound influence on the lives of those who worked within the
 
 The operational years of Zeche Alstaden also saw advancements in mining technology, which improved safety and efficiency. As the industry evolved, so did the complexities surrounding labor relations, with miners advocating for better working conditions and rights. The site stands as a symbol of the labor movement and the ongoing fight for workers' rights, making it an important point of reference for understanding industrial labor history.
 
-After ceasing operations, Zeche Alstaden transitioned from a functioning mine to a site of cultural preservation. Efforts to maintain and promote its history have led to its recognition as a heritage site. The mine is not only a reminder of the past but also serves as a venue for educational programs, exhibitions, and events that celebrate the region’s industrial legacy and its impact on contemporary society.
+After ceasing operations, Zeche Alstaden transitioned from a functioning mine to a site of cultural preservation. Efforts to maintain and promote its history have led to its recognition as a heritage site. The mine is not only a reminder of the past but also serves as a venue for educational programs, exhibitions, and events that celebrate the region's industrial legacy and its impact on contemporary society.
 
 ## Architecture and Features
 
@@ -61,7 +61,7 @@ In terms of amenities, visitors should verify the availability of restrooms and 
 While Zeche Alstaden is a captivating destination on its own, it is also conveniently located near several other attractions worth exploring:
 
 1. **Landschaftspark Duisburg-Nord**: Just a short drive away, this former steel mill has been transformed into a public park, combining industrial heritage with recreational spaces.
-2. **Oberhausen Centro**: One of Europe’s largest shopping centers, offering a wide range of shopping, dining, and entertainment options.
+2. **Oberhausen Centro**: One of Europe's largest shopping centers, offering a wide range of shopping, dining, and entertainment options.
 3. **Gasometer Oberhausen**: An iconic landmark, this former gas holder has been repurposed into a unique exhibition space, showcasing art and cultural events.
 4. **Museum of the City of Oberhausen**: This museum provides a deeper understanding of the city's history, including its industrial past.
 5. **Wildpark Frankenhof**: A family-friendly wildlife park that allows visitors to enjoy nature and learn about local fauna.

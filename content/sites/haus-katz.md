@@ -61,7 +61,7 @@ Expect a tranquil environment where you can take leisurely walks around the mano
 While Haus Katz itself is a destination worth visiting, several nearby attractions can complement your trip to Jüchen. Consider exploring the following places:
 
 1. **Jüchen Town Center**: A charming area filled with local shops, cafes, and eateries, perfect for a post-visit stroll.
-2. **St. Martin’s Church**: An architectural gem that often draws visitors for its stunning design and historical significance.
+2. **St. Martin's Church**: An architectural gem that often draws visitors for its stunning design and historical significance.
 3. **Local Parks**: The region is home to beautiful parks where visitors can enjoy nature and relax after touring the manor.
 4. **Museum of Local History**: A site that provides deeper insights into Jüchen's past and culture, enhancing your understanding of the area.
 5. **Nearby Villages**: Exploring surrounding villages can offer a glimpse into local life and showcase the rural beauty of the region.

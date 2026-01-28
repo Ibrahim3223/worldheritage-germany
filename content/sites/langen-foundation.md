@@ -111,7 +111,7 @@ For detailed accessibility information, please refer to the official website.
 Ticket purchasing options may be available online; check the official website for current details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available; it’s advisable to check the official website for specifics.
+Facilities such as restrooms and cafes may be available; it's advisable to check the official website for specifics.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the weather and any outdoor activities you may wish to engage in during your visit.

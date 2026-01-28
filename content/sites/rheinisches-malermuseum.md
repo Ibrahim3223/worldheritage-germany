@@ -36,7 +36,7 @@ The Rheinisches Malermuseum is significant not only for its collection but also 
 
 The museum is dedicated to the preservation and promotion of artworks that reflect the unique character of the Rhineland. This focus on regional art fosters a deeper connection between the community and its artistic heritage. The museum also serves as an educational resource, offering programs and exhibitions that engage the public and encourage dialogue about the arts.
 
-In the broader context of Bonn's cultural landscape, the Rheinisches Malermuseum plays a vital role. It complements other cultural institutions in the area, contributing to a dynamic arts scene that attracts visitors from around the world. This synergy between different cultural venues enhances the overall experience for those exploring Bonn’s rich artistic history.
+In the broader context of Bonn's cultural landscape, the Rheinisches Malermuseum plays a vital role. It complements other cultural institutions in the area, contributing to a dynamic arts scene that attracts visitors from around the world. This synergy between different cultural venues enhances the overall experience for those exploring Bonn's rich artistic history.
 
 ## Architecture and Features
 

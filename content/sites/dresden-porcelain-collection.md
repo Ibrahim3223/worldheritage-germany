@@ -72,7 +72,7 @@ While in Dresden, visitors can explore several nearby attractions that complemen
 
 To make the most of your visit to the Dresden Porcelain Collection, consider the following tips:
 
-- **Photography**: While many museums have restrictions on photography, it’s best to check the museum’s policy before your visit. If allowed, capture the intricate details of the porcelain pieces, but be mindful of using flash, which may not be permitted.
+- **Photography**: While many museums have restrictions on photography, it's best to check the museum's policy before your visit. If allowed, capture the intricate details of the porcelain pieces, but be mindful of using flash, which may not be permitted.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekdays or early in the day when foot traffic is lower. This will give you the opportunity to fully immerse yourself in the exhibits without feeling rushed.
 

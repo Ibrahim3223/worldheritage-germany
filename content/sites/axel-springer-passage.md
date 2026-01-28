@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Axel-Springer-Passage, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany, presents a striking architectural ensemble that reflects the city’s modern ethos. This architectural structure, known for its innovative design, serves as a significant landmark in the area. The passage not only connects different parts of the urban landscape but also acts as a symbol of the evolving character of Berlin, marked by a blend of contemporary and historical influences. 
+The Axel-Springer-Passage, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, Germany, presents a striking architectural ensemble that reflects the city's modern ethos. This architectural structure, known for its innovative design, serves as a significant landmark in the area. The passage not only connects different parts of the urban landscape but also acts as a symbol of the evolving character of Berlin, marked by a blend of contemporary and historical influences. 
 
 As you explore this site, you will encounter a dynamic space that fosters interaction and engagement among its visitors. The design encourages a flow of movement, making it a hub for both locals and tourists alike. The Axel-Springer-Passage promises an experience that is as enriching as it is visually stimulating, allowing you to immerse yourself in the architectural trends that shape modern Berlin.
 
 ## History and Significance
 
-The Axel-Springer-Passage is named after the influential German publisher Axel Springer, whose media group has played a pivotal role in shaping the media landscape in Germany since its establishment. The architectural ensemble reflects the transformation of Berlin into a center of media and communication, aligning with the city’s post-reunification growth and modernization. 
+The Axel-Springer-Passage is named after the influential German publisher Axel Springer, whose media group has played a pivotal role in shaping the media landscape in Germany since its establishment. The architectural ensemble reflects the transformation of Berlin into a center of media and communication, aligning with the city's post-reunification growth and modernization. 
 
 This site symbolizes not only the legacy of Axel Springer but also the broader narrative of urban development in Berlin, where traditional structures coexist with modern innovations. The passage is a manifestation of the city's ongoing dialogue between its historical roots and its aspirations for the future. 
 
@@ -50,7 +50,7 @@ The passage also includes areas designed for public use, such as seating and gat
 
 Visiting the Axel-Springer-Passage offers a chance to experience Berlin's modern architectural landscape firsthand. To reach the site, various modes of public transportation are available, making it easily accessible from different parts of the city. 
 
-When planning your visit, it’s advisable to check the official website for current information regarding hours and any potential entry fees. The passage is generally open to the public, allowing visitors to explore the architectural ensemble at their leisure. 
+When planning your visit, it's advisable to check the official website for current information regarding hours and any potential entry fees. The passage is generally open to the public, allowing visitors to explore the architectural ensemble at their leisure. 
 
 A visit can take around an hour, depending on your level of interest in architecture and urban design. The best times to visit are during weekdays when the passage is less crowded, providing a more intimate experience with the structure and its surroundings. 
 
@@ -60,7 +60,7 @@ Expect to be captivated by the unique architectural features and the vibrant atm
 
 While exploring the Axel-Springer-Passage, consider visiting these nearby attractions that further enrich your experience in Friedrichshain-Kreuzberg:
 
-1. **East Side Gallery**: This open-air gallery features murals painted on a section of the Berlin Wall, reflecting the city’s tumultuous history and artistic spirit.
+1. **East Side Gallery**: This open-air gallery features murals painted on a section of the Berlin Wall, reflecting the city's tumultuous history and artistic spirit.
    
 2. **Oberbaum Bridge**: A notable landmark that connects Friedrichshain and Kreuzberg, this iconic bridge is celebrated for its striking architecture and scenic views.
 
@@ -78,7 +78,7 @@ To avoid the busiest times, consider visiting midweek and outside of typical wor
 
 ## Practical Information
 
-When visiting the Axel-Springer-Passage, it’s advisable to wear comfortable shoes, as you may want to stroll through the surrounding area. Depending on the season, dressing in layers can help accommodate varying temperatures, especially if you plan to enjoy outdoor attractions nearby. 
+When visiting the Axel-Springer-Passage, it's advisable to wear comfortable shoes, as you may want to stroll through the surrounding area. Depending on the season, dressing in layers can help accommodate varying temperatures, especially if you plan to enjoy outdoor attractions nearby. 
 
 Bringing a camera is recommended to document your visit, though be sure to respect any signage regarding photography within the passage. 
 

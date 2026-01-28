@@ -42,7 +42,7 @@ Over the years, Altes Rathaus Schwerte has undergone changes to adapt to the evo
 
 Altes Rathaus Schwerte showcases architectural elements that reflect the style prevalent during the period of its construction, although specific details about its design are not provided. The building's facade likely features traditional motifs and craftsmanship that are characteristic of historical civic buildings in Germany. 
 
-Visitors can expect to see a structure that embodies a blend of functionality and aesthetic appeal, with elements that may include decorative stonework, large windows, and a commanding presence in the town square. The city hall’s design is intended to convey a sense of authority and permanence, qualities that are essential for a building serving as a center for local governance.
+Visitors can expect to see a structure that embodies a blend of functionality and aesthetic appeal, with elements that may include decorative stonework, large windows, and a commanding presence in the town square. The city hall's design is intended to convey a sense of authority and permanence, qualities that are essential for a building serving as a center for local governance.
 
 While exploring the exterior, look for architectural details that hint at the building's age and significance within the community. The old town hall may also include spaces designed for public gatherings, reflecting its role as a venue for civic engagement. These features not only enhance the building's functionality but also contribute to its historical narrative.
 

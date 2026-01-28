@@ -103,7 +103,7 @@ Accessibility may vary, so check with the official site for detailed information
 Check the official website for information on any potential fees and whether online purchasing is available.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be limited; it’s advisable to plan accordingly and check the official website for more details.
+Facilities such as restrooms and cafes may be limited; it's advisable to plan accordingly and check the official website for more details.
 
 ### What should I wear?
 Dress in layers for outdoor activities, and ensure you have comfortable footwear suitable for hiking or cycling. Seasonal attire is also essential.

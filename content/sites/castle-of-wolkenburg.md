@@ -70,7 +70,7 @@ To make the most of your visit to the Castle of Wolkenburg, consider these insid
 
 - **Photography**: Capture the beauty of the castle by bringing a camera. Early mornings or late afternoons often provide the best light for photography.
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays rather than weekends, as this can help you avoid larger crowds.
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights about the exhibits; their knowledge can enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights about the exhibits; their knowledge can enhance your visit.
 
 ## Practical Information
 

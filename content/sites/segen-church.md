@@ -60,7 +60,7 @@ Check the official website for current information regarding the church's hours 
 
 During your visit, expect a serene atmosphere that encourages reflection and contemplation. It is advisable to allocate sufficient time to explore both the interior and exterior of the church fully. A visit of approximately one hour may allow for a thorough appreciation of the space, including any available informational materials or guided resources.
 
-The best times to visit Segen Church may vary, but mornings and early afternoons often provide a quieter experience, allowing you to enjoy the church without the distractions of larger crowds. If you are interested in attending a service, check the church’s schedule for relevant times and any specific liturgical events that may be taking place during your visit.
+The best times to visit Segen Church may vary, but mornings and early afternoons often provide a quieter experience, allowing you to enjoy the church without the distractions of larger crowds. If you are interested in attending a service, check the church's schedule for relevant times and any specific liturgical events that may be taking place during your visit.
 
 ## Nearby Attractions
 
@@ -102,7 +102,7 @@ Photography may be permitted in certain areas. Be mindful of any posted signs or
 Information about guided tours may vary. Check the official website for details on any available tours or resources.
 
 ### What's the best time to visit?
-Weekdays and early mornings are ideal for a quieter experience. If you're interested in attending a service, check the church’s schedule for specific times.
+Weekdays and early mornings are ideal for a quieter experience. If you're interested in attending a service, check the church's schedule for specific times.
 
 ### Is it wheelchair accessible?
 Accessibility features may be available, but it's best to check the official website for detailed information regarding wheelchair access.

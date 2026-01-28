@@ -68,9 +68,9 @@ To avoid crowds, consider visiting during weekday mornings, which often tend to 
 
 ## Practical Information
 
-When planning your visit to Schloss Auerstedt, it’s essential to bring along any personal items you may need for a comfortable experience. Consider packing a small bag with essentials like water, a light snack, and a camera if photography is allowed.
+When planning your visit to Schloss Auerstedt, it's essential to bring along any personal items you may need for a comfortable experience. Consider packing a small bag with essentials like water, a light snack, and a camera if photography is allowed.
 
-Seasonal considerations are vital for your visit. The museum may have different operating hours or special events based on the time of year, so be sure to check the official website for the most current information. Additionally, the area’s weather can vary, so dressing in layers is advisable to accommodate changing conditions.
+Seasonal considerations are vital for your visit. The museum may have different operating hours or special events based on the time of year, so be sure to check the official website for the most current information. Additionally, the area's weather can vary, so dressing in layers is advisable to accommodate changing conditions.
 
 ## Frequently Asked Questions
 

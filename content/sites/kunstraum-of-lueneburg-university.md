@@ -24,7 +24,7 @@ The Kunstraum of Lüneburg University stands as a contemporary art gallery that 
 
 Lüneburg, known for its medieval architecture and as a former salt trading center, adds a unique layer to the experience of visiting the Kunstraum. The juxtaposition of the historical city with the cutting-edge works displayed in the museum offers a stimulating environment for reflection and inspiration. Art lovers can expect to encounter thought-provoking exhibitions that challenge perceptions and provoke dialogue about contemporary issues.
 
-This guide will explore the rich offerings of the Kunstraum of Lüneburg University, providing insights into its history, architectural features, visiting information, and nearby attractions. Whether you are a local resident or a traveler exploring the region, the Kunstraum promises an engaging experience that highlights the significance of contemporary art in today’s society.
+This guide will explore the rich offerings of the Kunstraum of Lüneburg University, providing insights into its history, architectural features, visiting information, and nearby attractions. Whether you are a local resident or a traveler exploring the region, the Kunstraum promises an engaging experience that highlights the significance of contemporary art in today's society.
 
 ## History and Significance
 
@@ -32,7 +32,7 @@ The Kunstraum of Lüneburg University plays a significant role in the cultural l
 
 While specific dates of establishment are not available, the Kunstraum has evolved alongside the university, adapting to the changing currents of contemporary art. The exhibitions often address pressing social issues and invite audiences to engage with themes of identity, sustainability, and technology. This focus on contemporary relevance allows the Kunstraum to resonate with a diverse audience, from students to local residents and visiting art aficionados.
 
-The significance of the Kunstraum extends beyond its exhibitions; it serves as a site for educational programming and community engagement. The gallery often hosts workshops, lectures, and discussions that encourage dialogue around the artworks on display. This emphasis on interaction fosters a deeper understanding of contemporary art and its impact on society, making the Kunstraum an integral part of Lüneburg’s cultural fabric.
+The significance of the Kunstraum extends beyond its exhibitions; it serves as a site for educational programming and community engagement. The gallery often hosts workshops, lectures, and discussions that encourage dialogue around the artworks on display. This emphasis on interaction fosters a deeper understanding of contemporary art and its impact on society, making the Kunstraum an integral part of Lüneburg's cultural fabric.
 
 In addition to its educational initiatives, the Kunstraum nurtures relationships with artists and curators, providing a space for experimentation and collaboration. This commitment to supporting the arts not only enriches the local cultural scene but also contributes to the broader discourse on contemporary art in Germany and beyond.
 
@@ -50,7 +50,7 @@ As visitors navigate the gallery, they are likely to encounter thoughtfully arra
 
 When planning a visit to the Kunstraum of Lüneburg University, it's essential to consider your transport options. The museum is accessible by various means, including public transportation and private vehicles. For those using public transport, local bus services connect to the university, making it convenient to reach the gallery. If driving, check for available parking options nearby.
 
-Before visiting, it’s advisable to check the official website for current information regarding opening hours and admission prices. The Kunstraum often hosts temporary exhibitions, so visitors may want to review the exhibition schedule to make the most of their visit.
+Before visiting, it's advisable to check the official website for current information regarding opening hours and admission prices. The Kunstraum often hosts temporary exhibitions, so visitors may want to review the exhibition schedule to make the most of their visit.
 
 Expect to spend approximately one to two hours exploring the Kunstraum, depending on your interest in the artworks and any special events or programs taking place during your visit. The atmosphere within the gallery is typically quiet and contemplative, allowing visitors to engage deeply with the art.
 
@@ -78,7 +78,7 @@ To enhance your visit to the Kunstraum, consider the following insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or earlier in the day. Special openings or events can draw larger crowds, so plan accordingly.
 
-- **Engage with Staff**: The staff at the Kunstraum are often knowledgeable about the exhibitions and can provide insights that enrich your experience. Don’t hesitate to ask questions or seek recommendations.
+- **Engage with Staff**: The staff at the Kunstraum are often knowledgeable about the exhibitions and can provide insights that enrich your experience. Don't hesitate to ask questions or seek recommendations.
 
 ## Practical Information
 

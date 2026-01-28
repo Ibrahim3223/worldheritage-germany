@@ -60,7 +60,7 @@ The best times to visit may vary, but early mornings or late afternoons could of
 
 While visiting Salem Abbey, consider exploring other notable sites in the vicinity:
 
-1. **Salem Castle**: Just a short distance away, this historical castle offers insights into the region’s noble heritage and provides beautiful grounds for walking.
+1. **Salem Castle**: Just a short distance away, this historical castle offers insights into the region's noble heritage and provides beautiful grounds for walking.
    
 2. **Lake Constance**: A stunning natural area nearby, perfect for leisurely walks, cycling, or enjoying water activities.
 

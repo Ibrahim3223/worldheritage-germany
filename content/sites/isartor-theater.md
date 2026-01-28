@@ -46,23 +46,23 @@ Throughout its operational period, the Isartor-Theater has likely undergone reno
 
 ## Visiting Information
 
-Visiting the Isartor-Theater offers a unique opportunity to engage with Munich’s cultural history. While specific hours and prices for entry may vary, it is advisable to check the official website for current information prior to your visit. The theatre's central location in Munich makes it accessible via various modes of transportation, including public transit options such as buses and trams. 
+Visiting the Isartor-Theater offers a unique opportunity to engage with Munich's cultural history. While specific hours and prices for entry may vary, it is advisable to check the official website for current information prior to your visit. The theatre's central location in Munich makes it accessible via various modes of transportation, including public transit options such as buses and trams. 
 
 As you plan your visit, consider allocating sufficient time to explore the theatre and its surroundings. While the time spent may depend on your interests, a visit of around 1 to 2 hours is generally recommended. This allows for a leisurely exploration of the site and an opportunity to absorb its historical significance.
 
-The best times to visit are typically during weekdays when foot traffic may be lighter, allowing for a more relaxed experience. However, if you’re keen on catching a performance, be sure to check the schedule in advance to secure your tickets.
+The best times to visit are typically during weekdays when foot traffic may be lighter, allowing for a more relaxed experience. However, if you're keen on catching a performance, be sure to check the schedule in advance to secure your tickets.
 
 ## Nearby Attractions
 
 When visiting the Isartor-Theater, there are several nearby attractions that complement your cultural exploration of Munich:
 
-1. **Isartor Gate**: Just a short walk away, this historic city gate is one of the best-preserved medieval structures in Munich and offers insights into the city’s past.
+1. **Isartor Gate**: Just a short walk away, this historic city gate is one of the best-preserved medieval structures in Munich and offers insights into the city's past.
 
-2. **Deutsches Museum**: The world’s largest museum of science and technology, located nearby, provides an engaging experience with its extensive exhibits and collections.
+2. **Deutsches Museum**: The world's largest museum of science and technology, located nearby, provides an engaging experience with its extensive exhibits and collections.
 
 3. **Bavarian National Museum**: This museum houses an impressive collection of art and cultural artifacts from Bavaria and beyond, making it a great addition to your itinerary.
 
-4. **St. Peter's Church**: One of Munich’s oldest churches, it features a stunning tower that provides panoramic views of the city and is rich in historical significance.
+4. **St. Peter's Church**: One of Munich's oldest churches, it features a stunning tower that provides panoramic views of the city and is rich in historical significance.
 
 5. **Viktualienmarkt**: A bustling market nearby, it offers an array of local delicacies and a vibrant atmosphere, perfect for a leisurely stroll or a casual meal.
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Isartor-Theater, consider these insider ti
 
 Before heading to the Isartor-Theater, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring a camera for capturing memories, a notepad for jotting down thoughts, and a water bottle to stay hydrated.
+- **What to Bring**: It's advisable to bring a camera for capturing memories, a notepad for jotting down thoughts, and a water bottle to stay hydrated.
 
 - **Seasonal Considerations**: Depending on the time of year, weather can vary. Dress appropriately for Munich's climate, and if visiting in colder months, layers are recommended.
 

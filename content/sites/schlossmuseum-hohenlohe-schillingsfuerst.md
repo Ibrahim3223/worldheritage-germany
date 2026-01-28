@@ -64,7 +64,7 @@ In addition to Schlossmuseum Hohenlohe-Schillingsfürst, the surrounding area is
 
 For those planning a visit to Schlossmuseum Hohenlohe-Schillingsfürst, a few insider tips can enhance your experience:
 
-- **Photography**: Be sure to check the museum’s policy on photography. Some exhibitions may have restrictions, so it's best to respect the guidelines.
+- **Photography**: Be sure to check the museum's policy on photography. Some exhibitions may have restrictions, so it's best to respect the guidelines.
 
 - **Crowd Avoidance**: To avoid the busiest times, consider visiting during weekdays or early in the morning. This allows for a more personal experience with the exhibits and less congestion in popular areas.
 

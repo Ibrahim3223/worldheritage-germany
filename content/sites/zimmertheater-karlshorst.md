@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Zimmertheater Karlshorst, located in the vibrant Lichtenberg district of Berlin, is a unique theatre building that serves as a cultural hub for the local community. This intimate venue offers an engaging space where diverse performances unfold, making it a significant part of the area’s artistic landscape. With its rich programming, Zimmertheater Karlshorst fosters a connection between artists and audiences, promoting the performing arts in an inviting atmosphere.
+Zimmertheater Karlshorst, located in the vibrant Lichtenberg district of Berlin, is a unique theatre building that serves as a cultural hub for the local community. This intimate venue offers an engaging space where diverse performances unfold, making it a significant part of the area's artistic landscape. With its rich programming, Zimmertheater Karlshorst fosters a connection between artists and audiences, promoting the performing arts in an inviting atmosphere.
 
 The theatre's location within Lichtenberg places it within a dynamic urban environment, surrounded by a mix of residential areas and cultural sites. This accessibility enhances its status as a community theater, where locals and visitors alike come together to experience the power of live performance. Those who seek a genuine connection to Berlin's cultural scene will find Zimmertheater Karlshorst to be an enriching destination.
 
@@ -88,7 +88,7 @@ Check the official website for any updates regarding accessibility options, as w
 The duration of your visit can vary based on the performance schedule. Typically, plan for at least two to three hours to enjoy the show and any pre- or post-performance activities.
 
 ### Is photography allowed?
-Photography policies can differ by event. It’s advisable to check in advance or inquire on arrival about specific performance guidelines.
+Photography policies can differ by event. It's advisable to check in advance or inquire on arrival about specific performance guidelines.
 
 ### Are there guided tours?
 Currently, Zimmertheater Karlshorst does not have regular guided tours. However, special events may offer opportunities to learn more about the theatre.
@@ -100,7 +100,7 @@ Weekday performances often attract smaller crowds, providing a more intimate exp
 For specific accessibility information, check the official website or contact the theatre directly to ensure a comfortable experience for all visitors.
 
 ### Can I buy tickets online?
-Typically, tickets can be purchased online, but it’s best to verify current purchasing options on the official website.
+Typically, tickets can be purchased online, but it's best to verify current purchasing options on the official website.
 
 ### Are there restrooms and cafes?
 Facilities, including restrooms, are usually available on-site. Check the website for details on any food or beverage options.

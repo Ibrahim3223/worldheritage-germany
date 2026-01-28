@@ -40,7 +40,7 @@ As a center of worship, the mosque provides a space for daily prayers, religious
 
 The mosque's name honors Sultan Selim I, a historical figure known for his military campaigns and administrative reforms in the Ottoman Empire. This connection not only enriches the mosque's identity but also ties it to a broader historical context that resonates with many Muslims around the world.
 
-In contemporary times, the Yavuz Sultan Selim Mosque has become a platform for dialogue and cultural exchange, facilitating events that bridge the gap between different communities. It plays a crucial role in promoting understanding and respect among people of various backgrounds, highlighting the importance of inclusivity in today’s society.
+In contemporary times, the Yavuz Sultan Selim Mosque has become a platform for dialogue and cultural exchange, facilitating events that bridge the gap between different communities. It plays a crucial role in promoting understanding and respect among people of various backgrounds, highlighting the importance of inclusivity in today's society.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ The Yavuz Sultan Selim Mosque features architectural elements that reflect tradi
 
 The mosque is designed to accommodate a large congregation, with spacious prayer halls that provide an inviting atmosphere for worshippers. Inside, visitors can expect to see beautiful calligraphic inscriptions and geometric patterns that are hallmarks of Islamic art. These designs not only serve decorative purposes but also carry spiritual significance, often featuring verses from the Quran that inspire reflection and contemplation.
 
-Natural light plays a significant role in the mosque’s ambiance, often filtering through stained glass or intricately designed windows, creating a serene environment conducive to prayer and meditation. The layout of the mosque is typically organized to facilitate communal worship, with designated areas for men and women, reflecting the mosque's commitment to inclusivity.
+Natural light plays a significant role in the mosque's ambiance, often filtering through stained glass or intricately designed windows, creating a serene environment conducive to prayer and meditation. The layout of the mosque is typically organized to facilitate communal worship, with designated areas for men and women, reflecting the mosque's commitment to inclusivity.
 
 Outside the mosque, the surrounding area is likely to feature gardens or open spaces, offering a peaceful setting for visitors to gather and socialize. The mosque stands as a prominent structure within its urban environment, inviting not only worshippers but also those interested in experiencing its architectural beauty.
 

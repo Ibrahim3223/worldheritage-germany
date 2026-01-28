@@ -36,13 +36,13 @@ The history of Chiemsee is deeply intertwined with the development of the surrou
 
 Culturally, Chiemsee holds a special place in Bavarian tradition. The lake is often featured in local legends and folklore, many of which revolve around its islands, particularly Fraueninsel and Herreninsel. These islands are steeped in history, with Fraueninsel being home to a Benedictine convent founded in the 8th century. This convent has been a significant religious site for centuries and continues to attract visitors today.
 
-In the 19th century, Chiemsee became a popular retreat for the Bavarian royalty, particularly King Ludwig II, who constructed the extravagant Herrenchiemsee Palace on Herreninsel. Inspired by the Palace of Versailles, this magnificent structure is a testament to Ludwig’s artistic vision and has garnered much attention as a historical site. The lake's cultural significance is further enhanced by its role in the local tourism industry, as it attracts thousands of visitors each year, eager to explore its rich history and natural beauty.
+In the 19th century, Chiemsee became a popular retreat for the Bavarian royalty, particularly King Ludwig II, who constructed the extravagant Herrenchiemsee Palace on Herreninsel. Inspired by the Palace of Versailles, this magnificent structure is a testament to Ludwig's artistic vision and has garnered much attention as a historical site. The lake's cultural significance is further enhanced by its role in the local tourism industry, as it attracts thousands of visitors each year, eager to explore its rich history and natural beauty.
 
 ## Architecture and Features
 
 Chiemsee is characterized by its clear, shimmering waters and surrounding landscapes, which include lush green hills and the striking backdrop of the Alps. The lake itself is dotted with several islands, the most prominent being Herreninsel and Fraueninsel. Herreninsel is notable for its grand Herrenchiemsee Palace, which is an architectural marvel inspired by French Baroque design. The palace features ornate gardens, opulent rooms, and intricate details that reflect the grandeur of royal ambitions.
 
-Fraueninsel, in contrast, is more rustic and tranquil, home to the historic Benedictine convent and charming traditional buildings. The island’s serene environment is perfect for leisurely strolls and offers a glimpse into the region's monastic history.
+Fraueninsel, in contrast, is more rustic and tranquil, home to the historic Benedictine convent and charming traditional buildings. The island's serene environment is perfect for leisurely strolls and offers a glimpse into the region's monastic history.
 
 The surrounding areas of Chiemsee are equally captivating, with a variety of hiking and biking trails that provide access to panoramic views of the lake and its islands. The natural features of the lake, including its diverse ecosystems, are essential for local wildlife, making it a significant area for both conservation and recreation.
 
@@ -110,4 +110,4 @@ Yes, both Herreninsel and Fraueninsel have restrooms and cafes where visitors ca
 
 ### What should I wear?
 
-Dress in layers to accommodate changing weather conditions, and wear comfortable shoes suitable for walking and hiking. Don’t forget a hat and sunscreen, especially in the summer months.
+Dress in layers to accommodate changing weather conditions, and wear comfortable shoes suitable for walking and hiking. Don't forget a hat and sunscreen, especially in the summer months.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Ignatius Church, located in the heart of Frankfurt, Germany, is a noteworthy church building that encapsulates the spiritual and architectural heritage of this vibrant city. With its origins rooted in the rich tapestry of Frankfurt’s history, the church serves as a significant site of worship and community gathering. The church’s location offers visitors a chance to explore not only its spiritual significance but also the broader cultural context of Frankfurt am Main, a city known for its blend of modernity and tradition. St. Ignatius stands as a place where the past and present intersect, inviting visitors to reflect on the enduring influence of faith and community in urban life.
+St. Ignatius Church, located in the heart of Frankfurt, Germany, is a noteworthy church building that encapsulates the spiritual and architectural heritage of this vibrant city. With its origins rooted in the rich tapestry of Frankfurt's history, the church serves as a significant site of worship and community gathering. The church's location offers visitors a chance to explore not only its spiritual significance but also the broader cultural context of Frankfurt am Main, a city known for its blend of modernity and tradition. St. Ignatius stands as a place where the past and present intersect, inviting visitors to reflect on the enduring influence of faith and community in urban life.
 
 ## History and Significance
 
@@ -48,9 +48,9 @@ The exterior of St. Ignatius may include elements such as a steeple or bell towe
 
 When planning a visit to St. Ignatius Church, it is recommended to check the official website for current information regarding hours of operation and potential admission fees. The church is accessible via various modes of transportation, including public transit options that connect to key areas of Frankfurt.
 
-Upon arrival, visitors can expect a serene atmosphere suitable for contemplation and reflection. It’s advisable to allocate sufficient time to explore the church, appreciate its architecture, and perhaps engage in quiet prayer or meditation. The best times to visit may vary depending on the local schedule of services, so consulting the church’s calendar on the official website will enhance your experience.
+Upon arrival, visitors can expect a serene atmosphere suitable for contemplation and reflection. It's advisable to allocate sufficient time to explore the church, appreciate its architecture, and perhaps engage in quiet prayer or meditation. The best times to visit may vary depending on the local schedule of services, so consulting the church's calendar on the official website will enhance your experience.
 
-For those interested in the surrounding area, St. Ignatius is conveniently located near other points of interest, making it an excellent stop on a broader exploration of Frankfurt’s historical and cultural sites.
+For those interested in the surrounding area, St. Ignatius is conveniently located near other points of interest, making it an excellent stop on a broader exploration of Frankfurt's historical and cultural sites.
 
 ## Nearby Attractions
 
@@ -68,11 +68,11 @@ For those interested in the surrounding area, St. Ignatius is conveniently locat
 
 For photography enthusiasts, St. Ignatius Church offers several appealing angles for capturing its architectural beauty. Early morning or late afternoon light can enhance your photographs, providing a soft glow. To avoid crowds, consider visiting during weekday mornings, when the church is less likely to be busy with services or visitors.
 
-It’s also advisable to be respectful of the church’s atmosphere. If attending a service, dress appropriately and maintain a quiet demeanor to ensure a peaceful environment for worshippers.
+It's also advisable to be respectful of the church's atmosphere. If attending a service, dress appropriately and maintain a quiet demeanor to ensure a peaceful environment for worshippers.
 
 ## Practical Information
 
-When visiting St. Ignatius Church, it’s wise to bring essentials such as water and a light jacket, as temperatures can fluctuate. Comfortable footwear is recommended, especially if you plan to explore the surrounding areas on foot. 
+When visiting St. Ignatius Church, it's wise to bring essentials such as water and a light jacket, as temperatures can fluctuate. Comfortable footwear is recommended, especially if you plan to explore the surrounding areas on foot. 
 
 Seasonal considerations can impact your experience; spring and summer may offer lush greenery in the vicinity, while autumn brings colorful foliage. Each season provides a unique backdrop for your visit, enriching your experience of this historic site.
 
@@ -85,7 +85,7 @@ A visit to St. Ignatius Church typically takes about 30 minutes to an hour, allo
 Check the specific guidelines upon arrival or consult the official website, as photography policies may vary.
 
 ### Are there guided tours?
-Guided tours may be available; it’s best to inquire directly with the church or check the official website for current offerings.
+Guided tours may be available; it's best to inquire directly with the church or check the official website for current offerings.
 
 ### What's the best time to visit?
 Weekday mornings are often less crowded, making it a good time to visit if you prefer a quieter experience.

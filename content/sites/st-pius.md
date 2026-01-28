@@ -28,7 +28,7 @@ image_srcset:
 
 St. Pius is an intriguing church building located in Aschaffenburg, a city in Bavaria, Germany. With its distinctive architectural style and serene ambiance, it serves as a significant landmark for both locals and visitors alike. Aschaffenburg, often referred to as the "Gateway to Bavaria," offers a rich cultural backdrop that enhances the allure of St. Pius. This church is not just a place of worship; it embodies the historical and spiritual essence of the region, making it a must-visit for those interested in ecclesiastical architecture and Bavarian heritage.
 
-The significance of St. Pius extends beyond its physical structure. It reflects the community's dedication to preserving its spiritual and cultural identity amidst the evolving landscape of modern Germany. Visitors to St. Pius will discover a tranquil atmosphere, inviting them to pause and reflect while absorbing the beauty of the church’s design and its surroundings. The experience promises to leave a lasting impression on anyone who steps through its doors.
+The significance of St. Pius extends beyond its physical structure. It reflects the community's dedication to preserving its spiritual and cultural identity amidst the evolving landscape of modern Germany. Visitors to St. Pius will discover a tranquil atmosphere, inviting them to pause and reflect while absorbing the beauty of the church's design and its surroundings. The experience promises to leave a lasting impression on anyone who steps through its doors.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during the week, ideally outside of major relig
 
 ## Practical Information
 
-When visiting St. Pius, it’s advisable to bring a few essentials, including a camera, comfortable walking shoes, and perhaps a light jacket, depending on the season. The church may have specific guidelines regarding photography, so be prepared to respect the space.
+When visiting St. Pius, it's advisable to bring a few essentials, including a camera, comfortable walking shoes, and perhaps a light jacket, depending on the season. The church may have specific guidelines regarding photography, so be prepared to respect the space.
 
 Seasonal considerations can also impact your visit. Spring and summer offer pleasant weather for exploring the surrounding area, while fall may provide a beautiful backdrop with changing foliage. Winter visits can be magical, particularly if the church is adorned for the holiday season.
 

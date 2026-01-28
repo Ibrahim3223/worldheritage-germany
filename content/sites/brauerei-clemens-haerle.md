@@ -70,7 +70,7 @@ To avoid the largest crowds, plan your visit during weekdays or earlier in the d
 
 ## Practical Information
 
-When planning your visit to Brauerei Clemens Härle, consider bringing along a few essentials. Comfortable footwear is advisable, especially if you plan to explore areas around the brewery. Depending on the season, dress in layers to accommodate changing weather conditions, and don’t forget to stay hydrated, especially if sampling beer.
+When planning your visit to Brauerei Clemens Härle, consider bringing along a few essentials. Comfortable footwear is advisable, especially if you plan to explore areas around the brewery. Depending on the season, dress in layers to accommodate changing weather conditions, and don't forget to stay hydrated, especially if sampling beer.
 
 Seasonal considerations may also affect your visit; for example, summer months might see lively outdoor gatherings, while winter could offer a cozy indoor atmosphere. Always check the official website for any specific events or seasonal offerings that may enhance your experience.
 

@@ -28,7 +28,7 @@ As you explore the garden, it's an opportunity to immerse yourself in the tranqu
 
 The garden at Uffenheimer Straße 15 serves as a cultural heritage monument, a designation that signifies its importance within the historic narrative of Ochsenfurt. This town, with roots dating back to the Middle Ages, has long been an important trading hub due to its strategic location along the Main River. The development of gardens and green spaces in the area reflects a broader cultural movement towards enhancing public spaces for community enjoyment and environmental stewardship.
 
-While specific historical details about the garden's origins may not be readily available, its designation as a cultural heritage monument highlights its role in the preservation of local identity. The garden contributes to the overall aesthetic and cultural fabric of Ochsenfurt, offering insight into the community’s values surrounding nature, beauty, and heritage. Additionally, gardens such as this one often serve as venues for cultural events and gatherings, further embedding them in the social life of the area.
+While specific historical details about the garden's origins may not be readily available, its designation as a cultural heritage monument highlights its role in the preservation of local identity. The garden contributes to the overall aesthetic and cultural fabric of Ochsenfurt, offering insight into the community's values surrounding nature, beauty, and heritage. Additionally, gardens such as this one often serve as venues for cultural events and gatherings, further embedding them in the social life of the area.
 
 In the context of Bavaria's rich gardening traditions, this site exemplifies the local commitment to maintaining green spaces that not only enhance urban living but also provide a refuge for flora and fauna. The garden stands as a reminder of the balance between urban development and the preservation of natural environments, showcasing the community's dedication to sustainability and ecological awareness.
 
@@ -68,7 +68,7 @@ Enjoying a quiet moment in the garden can be particularly rewarding during off-p
 
 ## Practical Information
 
-When visiting Garten Uffenheimer Straße 15, it’s advisable to bring water, especially during warmer months, as well as comfortable walking shoes suitable for a garden environment. A light jacket might be necessary during cooler seasons. 
+When visiting Garten Uffenheimer Straße 15, it's advisable to bring water, especially during warmer months, as well as comfortable walking shoes suitable for a garden environment. A light jacket might be necessary during cooler seasons. 
 
 Seasonal considerations are important; spring and summer months typically feature the most blooms and vibrant colors, while autumn can offer stunning foliage. Winter visits may reveal a serene landscape, though the garden may be less visually dynamic during this season.
 

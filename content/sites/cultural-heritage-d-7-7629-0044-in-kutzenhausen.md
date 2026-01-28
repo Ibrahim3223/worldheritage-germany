@@ -38,7 +38,7 @@ Cultural heritage D-7-7629-0044 exhibits the architectural characteristics typic
 
 While specific details about the materials and structural elements are not provided, fortifications in the region generally incorporate local stone and timber, reflecting the available resources at the time of construction. The layout of such sites typically features a robust perimeter designed to withstand sieges, alongside interior spaces that may have housed military personnel or served as storage for armaments.
 
-Visitors to the site can expect to observe the remnants of these defensive features, which provide insight into the military architecture of the past. The fortification’s design not only reflects its defensive purpose but also offers a glimpse into the daily lives of those who inhabited or utilized the space.
+Visitors to the site can expect to observe the remnants of these defensive features, which provide insight into the military architecture of the past. The fortification's design not only reflects its defensive purpose but also offers a glimpse into the daily lives of those who inhabited or utilized the space.
 
 ## Visiting Information
 

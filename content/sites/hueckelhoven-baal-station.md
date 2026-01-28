@@ -68,7 +68,7 @@ Hückelhoven-Baal station is strategically located near several attractions that
 
 1. **Hückelhoven Town Center**: Just a short distance from the station, the town center offers a variety of shops, cafes, and local eateries, perfect for a leisurely stroll and a taste of local cuisine.
 
-2. **Museum der Stadt Hückelhoven**: This town museum provides insights into the local history and culture of Hückelhoven. It is an excellent stop for those interested in learning about the region’s heritage.
+2. **Museum der Stadt Hückelhoven**: This town museum provides insights into the local history and culture of Hückelhoven. It is an excellent stop for those interested in learning about the region's heritage.
 
 3. **Schloss Hückelhoven**: A historical castle that adds to the charm of the area. While specific details about the castle may not be provided, it typically offers picturesque views and a glimpse into the architectural styles of the past.
 

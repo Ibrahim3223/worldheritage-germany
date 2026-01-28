@@ -38,7 +38,7 @@ As a designated cultural heritage monument, Torhaus Marktplatz 10 is not only a 
 
 ## Architecture and Features
 
-Torhaus Marktplatz 10 is characterized by its distinct architectural features that exemplify the style typical of Bavarian gatehouses. While specific measurements and detailed descriptions may not be provided, the structure is designed to reflect both functionality and aesthetic qualities inherent in the region’s heritage.
+Torhaus Marktplatz 10 is characterized by its distinct architectural features that exemplify the style typical of Bavarian gatehouses. While specific measurements and detailed descriptions may not be provided, the structure is designed to reflect both functionality and aesthetic qualities inherent in the region's heritage.
 
 The gatehouse typically features robust construction materials that contribute to its durability, with elements that may include stone and timber. Its façade may display traditional Bavarian architectural motifs, such as ornate window frames and intricate detailing that highlight the craftsmanship of the builders. 
 
@@ -120,4 +120,4 @@ Specific details on restrooms and cafes are not provided. Explore the town for l
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering layers if visiting during transitional seasons.
 
-In conclusion, Torhaus Marktplatz 10 in Lonnerstadt offers a captivating glimpse into Bavaria’s architectural and cultural heritage. Whether you are visiting for its historical significance or simply to enjoy the beauty of the region, the gatehouse is a meaningful addition to any travel itinerary.
+In conclusion, Torhaus Marktplatz 10 in Lonnerstadt offers a captivating glimpse into Bavaria's architectural and cultural heritage. Whether you are visiting for its historical significance or simply to enjoy the beauty of the region, the gatehouse is a meaningful addition to any travel itinerary.

@@ -85,7 +85,7 @@ Guided tours may be available in the surrounding towns. Check local resources fo
 Spring and autumn are ideal for visiting Bächergrund due to mild weather and vibrant scenery.
 
 ### Is it wheelchair accessible?
-Accessibility considerations can vary; it’s best to check specific paths and routes in advance.
+Accessibility considerations can vary; it's best to check specific paths and routes in advance.
 
 ### Can I buy tickets online?
 Check the official website for information regarding tickets and any associated costs.

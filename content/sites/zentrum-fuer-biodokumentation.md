@@ -78,7 +78,7 @@ Seasonal considerations may also play a role in your experience. For example, su
 Visitors typically find that a few hours is sufficient to explore the exhibits and engage with the material thoroughly.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum’s guidelines upon arrival.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the museum's mission. Check the official website for scheduling and availability.
@@ -87,13 +87,13 @@ Guided tours may be available, providing deeper insights into the exhibits and t
 Weekdays or early mornings are generally recommended for a quieter experience, while special events may enhance your visit.
 
 ### Is it wheelchair accessible?
-The museum typically strives for accessibility, but it’s advisable to confirm specifics on the official website or by contacting them directly.
+The museum typically strives for accessibility, but it's advisable to confirm specifics on the official website or by contacting them directly.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for the most up-to-date information on ticket availability and sales.
 
 ### Are there restrooms and cafes?
-Visitor amenities, including restrooms and potential cafes, can usually be found within the museum or nearby, but it’s wise to verify these details before your visit.
+Visitor amenities, including restrooms and potential cafes, can usually be found within the museum or nearby, but it's wise to verify these details before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may be walking or standing for extended periods while exploring the museum and its exhibits.

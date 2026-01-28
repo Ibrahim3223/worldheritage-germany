@@ -52,7 +52,7 @@ When planning a visit to the Landschaftsgarten in Lauf an der Pegnitz, it is ess
 
 Before heading out, it is advisable to check the official website for current information regarding hours of operation and any potential entrance fees. The experience of wandering through the garden can be enhanced by planning your visit during seasons when the flora is at its most vibrant, typically spring and summer. 
 
-Expect to spend a leisurely few hours exploring the garden, with time to sit and reflect in its peaceful surroundings. The garden’s atmosphere is particularly inviting during early mornings or late afternoons, when the light casts a warm glow on the landscape and the crowds are typically smaller.
+Expect to spend a leisurely few hours exploring the garden, with time to sit and reflect in its peaceful surroundings. The garden's atmosphere is particularly inviting during early mornings or late afternoons, when the light casts a warm glow on the landscape and the crowds are typically smaller.
 
 ## Nearby Attractions
 

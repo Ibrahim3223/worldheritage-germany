@@ -20,15 +20,15 @@ images:
 
 ## Overview
 
-Markuskirche, an intriguing church building located in the vibrant city of Leipzig, Germany, invites visitors to explore its unique architectural style and rich cultural significance. Situated at the coordinates 51.3388, 12.4037, this house of worship is a testament to the area’s deep-rooted religious heritage and community spirit. As a focal point for both spiritual gatherings and cultural events, Markuskirche represents a vital part of Leipzig's historical narrative, engaging both locals and tourists alike.
+Markuskirche, an intriguing church building located in the vibrant city of Leipzig, Germany, invites visitors to explore its unique architectural style and rich cultural significance. Situated at the coordinates 51.3388, 12.4037, this house of worship is a testament to the area's deep-rooted religious heritage and community spirit. As a focal point for both spiritual gatherings and cultural events, Markuskirche represents a vital part of Leipzig's historical narrative, engaging both locals and tourists alike.
 
-In the context of Leipzig’s historical landscape, Markuskirche plays a significant role, embodying the city’s evolving identity. Whether you are drawn to its architectural beauty, its place in the community, or the stories that echo within its walls, a visit to Markuskirche promises to enrich your understanding of the city's cultural fabric. 
+In the context of Leipzig's historical landscape, Markuskirche plays a significant role, embodying the city's evolving identity. Whether you are drawn to its architectural beauty, its place in the community, or the stories that echo within its walls, a visit to Markuskirche promises to enrich your understanding of the city's cultural fabric. 
 
 ## History and Significance
 
 The history of Markuskirche reflects the broader historical currents that have shaped Leipzig over the centuries. While specific founding details are not available, the church is emblematic of the city's long-standing tradition of religious observance and community involvement. Leipzig, known for its vibrant arts scene and historical importance, has been a center of learning and culture since the medieval period. 
 
-Markuskirche’s significance extends beyond its role as a place of worship; it serves as a gathering space for community events, concerts, and other cultural activities. This multifunctionality has helped to establish the church as a central hub within the neighborhood, fostering a sense of belonging among its members. 
+Markuskirche's significance extends beyond its role as a place of worship; it serves as a gathering space for community events, concerts, and other cultural activities. This multifunctionality has helped to establish the church as a central hub within the neighborhood, fostering a sense of belonging among its members. 
 
 The church reflects the socio-political changes that have occurred in Leipzig, particularly during key historical events that shaped the region. As such, Markuskirche stands not only as a spiritual sanctuary but also as a symbol of resilience and continuity amidst the shifting tides of history.
 
@@ -100,6 +100,6 @@ Entry policies can vary, so it's recommended to visit the official website for i
 Facilities may be limited; therefore, check the official website for details on available amenities nearby.
 
 ### What should I wear?
-Dress codes may vary depending on events held at the church. It’s advisable to wear respectful attire, particularly if attending a service.
+Dress codes may vary depending on events held at the church. It's advisable to wear respectful attire, particularly if attending a service.
 
 Markuskirche stands as a significant landmark in Leipzig, inviting exploration and engagement with the community and its history. Prepare to discover not just a place of worship but a vibrant center of culture within this dynamic city.

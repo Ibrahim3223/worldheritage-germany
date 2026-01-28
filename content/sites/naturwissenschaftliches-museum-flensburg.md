@@ -74,13 +74,13 @@ Flensburg is home to several attractions that complement a visit to the Naturwis
 
 For those planning a visit to the Naturwissenschaftliches Museum Flensburg, consider these insider tips:
 
-- **Photography**: While photography policies may vary by exhibit, it’s generally advisable to check for any restrictions before taking photos. Some areas may allow it, while others may not.
+- **Photography**: While photography policies may vary by exhibit, it's generally advisable to check for any restrictions before taking photos. Some areas may allow it, while others may not.
   
 - **Crowd Avoidance**: To avoid larger crowds, aim for a weekday visit, particularly in the morning or late afternoon. This can enhance your experience, allowing for more engagement with the exhibits.
 
 ## Practical Information
 
-When visiting the Naturwissenschaftliches Museum Flensburg, it’s beneficial to bring a few essentials. Comfortable walking shoes are recommended, as you may be on your feet exploring various exhibits. 
+When visiting the Naturwissenschaftliches Museum Flensburg, it's beneficial to bring a few essentials. Comfortable walking shoes are recommended, as you may be on your feet exploring various exhibits. 
 
 Seasonal considerations are also important; Flensburg experiences a temperate climate, so packing a light jacket or umbrella may be wise, particularly in the spring and fall months. Check the official website for any seasonal events or special exhibitions that may be occurring during your visit.
 

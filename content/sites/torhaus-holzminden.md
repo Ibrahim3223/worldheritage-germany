@@ -48,7 +48,7 @@ As you explore the Torhaus, take the time to appreciate the craftsmanship that h
 
 ## Visiting Information
 
-When planning your visit to the Torhaus, it’s essential to consider several factors to enhance your experience. The site is accessible by various forms of transportation, making it a convenient stop during your explorations of Holzminden. Visitors can reach the Torhaus via public transport or by car, with parking options likely available nearby.
+When planning your visit to the Torhaus, it's essential to consider several factors to enhance your experience. The site is accessible by various forms of transportation, making it a convenient stop during your explorations of Holzminden. Visitors can reach the Torhaus via public transport or by car, with parking options likely available nearby.
 
 Check the official website for current information regarding visiting hours and potential admission fees. While the duration of your visit may depend on personal interest, most guests find that spending around an hour at the Torhaus allows for a thorough appreciation of the structure and its surroundings. 
 

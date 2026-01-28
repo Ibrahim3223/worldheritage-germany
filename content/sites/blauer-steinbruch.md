@@ -74,7 +74,7 @@ After exploring Blauer Steinbruch, consider visiting these nearby attractions to
 
 For those looking to capture the essence of Blauer Steinbruch through photography, consider visiting during the golden hours of early morning or late afternoon when the light is soft and warm. This is also when wildlife is often more active, providing excellent opportunities for nature shots.
 
-To avoid crowds, plan your visit on weekdays rather than weekends, especially during peak seasons. Early morning visits can also enhance your experience, allowing you to enjoy the tranquility of the reserve before the day’s visitors arrive.
+To avoid crowds, plan your visit on weekdays rather than weekends, especially during peak seasons. Early morning visits can also enhance your experience, allowing you to enjoy the tranquility of the reserve before the day's visitors arrive.
 
 ## Practical Information
 

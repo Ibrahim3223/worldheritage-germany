@@ -86,7 +86,7 @@ When preparing for your visit to Bassenheimer Hof, consider the following practi
 
 - **Seasonal Considerations**: Check the weather forecast and dress appropriately for the season. If visiting during warmer months, consider bringing water to stay hydrated.
 
-- **Accessibility**: If you have specific needs, it’s advisable to check the official website for accessibility options available at the palace.
+- **Accessibility**: If you have specific needs, it's advisable to check the official website for accessibility options available at the palace.
 
 ## Frequently Asked Questions
 
@@ -109,7 +109,7 @@ For specific accessibility information, check the official website to ensure you
 Ticket purchasing options may vary; check the official website for the latest information on ticket availability and online purchasing.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to check the official website for the most current information regarding amenities.
+Facilities may be available on-site, but it's best to check the official website for the most current information regarding amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that you may be visiting both outdoor and indoor spaces. 

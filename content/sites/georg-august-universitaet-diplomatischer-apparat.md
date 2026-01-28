@@ -26,7 +26,7 @@ The museum invites exploration into various themes related to diplomacy, showcas
 
 ## History and Significance
 
-The Georg-August-Universität, founded in 1737, has long been a center of academic excellence and intellectual discourse. The museum, known as the Diplomatischer Apparat, is an extension of this legacy, focusing on the evolution and significance of diplomatic relations throughout history. The museum’s collection encompasses a range of materials that reflect the intricate web of interactions among nations, illustrating how diplomacy has developed over time.
+The Georg-August-Universität, founded in 1737, has long been a center of academic excellence and intellectual discourse. The museum, known as the Diplomatischer Apparat, is an extension of this legacy, focusing on the evolution and significance of diplomatic relations throughout history. The museum's collection encompasses a range of materials that reflect the intricate web of interactions among nations, illustrating how diplomacy has developed over time.
 
 While specific historical milestones may be sparse in detail, the museum is part of a broader tradition of academic institutions in Göttingen that have contributed significantly to the understanding of international relations. The university itself has been associated with many prominent scholars and thinkers whose work has influenced diplomatic theory and practice. 
 
@@ -46,7 +46,7 @@ Reaching the Georg-August-Universität: Diplomatischer Apparat is relatively str
 
 For current information on opening hours and ticket prices, check the official website. Visitors can typically expect to spend around 1-2 hours at the museum, which allows ample time to engage with the exhibits and participate in any ongoing programs. 
 
-The best times to visit are often during weekdays when crowds are less likely to be a concern, allowing for a more intimate experience with the exhibitions. Additionally, visiting during specific events or exhibitions may enrich the experience, so be sure to keep an eye on the museum’s schedule for special happenings.
+The best times to visit are often during weekdays when crowds are less likely to be a concern, allowing for a more intimate experience with the exhibitions. Additionally, visiting during specific events or exhibitions may enrich the experience, so be sure to keep an eye on the museum's schedule for special happenings.
 
 ## Nearby Attractions
 
@@ -58,7 +58,7 @@ Göttingen is home to a variety of attractions that complement a visit to the Ge
 
 3. **Botanical Garden**: A peaceful retreat located near the university, the Botanical Garden provides a lush environment for relaxation and exploration of diverse plant species.
 
-4. **St. Jacob’s Church**: A striking medieval church with impressive architecture and a rich history, this site is a testament to the city's heritage.
+4. **St. Jacob's Church**: A striking medieval church with impressive architecture and a rich history, this site is a testament to the city's heritage.
 
 5. **Bismarck Tower**: Offering panoramic views of the surrounding area, the Bismarck Tower is a popular spot for those who enjoy hiking and nature.
 
@@ -66,7 +66,7 @@ Göttingen is home to a variety of attractions that complement a visit to the Ge
 
 When visiting the Georg-August-Universität: Diplomatischer Apparat, consider timing your visit during off-peak hours, typically early in the morning or later in the afternoon, to avoid crowds. This allows for a more personal experience as you engage with the exhibits without feeling rushed.
 
-For photography enthusiasts, while the museum’s policy may vary, it is advisable to check whether photography is permitted in specific areas. Capturing the ambiance and artifacts can enhance your personal collection of memories from the visit.
+For photography enthusiasts, while the museum's policy may vary, it is advisable to check whether photography is permitted in specific areas. Capturing the ambiance and artifacts can enhance your personal collection of memories from the visit.
 
 ## Practical Information 
 
@@ -80,7 +80,7 @@ Seasonal considerations can also play a role in your visit. If you're traveling 
 A visit typically lasts between 1 to 2 hours, allowing enough time to engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site or consult the official website before your visit.
+Photography policies may vary, so it's best to check on-site or consult the official website before your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for scheduling and booking options.

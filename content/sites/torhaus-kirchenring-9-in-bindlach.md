@@ -76,7 +76,7 @@ Engaging with local residents can also enrich your visit; they may offer insight
 
 ## Practical Information
 
-When planning your visit to Torhaus Kirchenring 9, it’s advisable to bring a camera for capturing the architectural details and surrounding scenery. Comfortable walking shoes are recommended, as you may want to explore the immediate area surrounding the gatehouse.
+When planning your visit to Torhaus Kirchenring 9, it's advisable to bring a camera for capturing the architectural details and surrounding scenery. Comfortable walking shoes are recommended, as you may want to explore the immediate area surrounding the gatehouse.
 
 Seasonal considerations can also affect your experience. Spring and summer months are typically more pleasant for outdoor exploration, while fall may offer beautiful foliage. Be prepared for varying weather conditions, and check local forecasts prior to your visit.
 

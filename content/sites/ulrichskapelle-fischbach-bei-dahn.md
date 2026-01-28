@@ -46,7 +46,7 @@ As the landscape surrounding Fischbach bei Dahn developed, the Ulrichskapelle re
 
 The architectural design of the Ulrichskapelle reflects the simplicity and functionality typical of chapels from its era. Constructed primarily from local materials, the chapel exhibits a harmonious relationship with its natural surroundings. Its modest size does not detract from its presence; instead, it emphasizes the intimate nature of worship often found in smaller religious structures.
 
-The chapel’s exterior features traditional elements that are characteristic of rural chapels in Germany. The façade is likely adorned with a simple yet elegant entrance, inviting visitors to step inside and partake in the serene atmosphere. The roof, typically sloped, contributes to the chapel's humble yet charming aesthetic, harmonizing with the surrounding landscape.
+The chapel's exterior features traditional elements that are characteristic of rural chapels in Germany. The façade is likely adorned with a simple yet elegant entrance, inviting visitors to step inside and partake in the serene atmosphere. The roof, typically sloped, contributes to the chapel's humble yet charming aesthetic, harmonizing with the surrounding landscape.
 
 Inside, the chapel offers a tranquil space for reflection and prayer. While specific details regarding the interior decoration may not be available, chapels of this nature often feature simple altars, stained glass windows, and religious iconography that enhance the spiritual ambiance. Such elements serve to inspire worshippers and create a sense of reverence within the space.
 

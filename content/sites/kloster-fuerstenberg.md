@@ -88,7 +88,7 @@ When visiting Kloster Fürstenberg, it's advisable to bring the following items:
 
 - **Water Bottle**: Staying hydrated is important, especially if you plan on walking around the grounds.
 
-Consider seasonal factors, such as holidays or special events that may affect your visit. It’s always a good idea to check for any specific requirements or recommendations related to your visit.
+Consider seasonal factors, such as holidays or special events that may affect your visit. It's always a good idea to check for any specific requirements or recommendations related to your visit.
 
 ## Frequently Asked Questions
 

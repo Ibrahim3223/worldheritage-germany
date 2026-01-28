@@ -60,7 +60,7 @@ Before visiting, it is wise to confirm the center's hours of operation and any p
 
 To fully appreciate what the Parish Community Center Holy Ghost has to offer, consider allocating at least an hour or two for your visit. This will provide ample time to explore the building, participate in activities, or engage with community members. 
 
-The best times to visit may align with community events or services, which can enhance your experience. Engaging with local activities can provide deeper insights into the community’s culture and the church's role within it.
+The best times to visit may align with community events or services, which can enhance your experience. Engaging with local activities can provide deeper insights into the community's culture and the church's role within it.
 
 ## Nearby Attractions
 
@@ -86,7 +86,7 @@ If you wish to participate in specific activities, checking the events calendar 
 
 ## Practical Information
 
-When planning your visit to the Parish Community Center Holy Ghost, it’s important to consider what to bring. Comfortable clothing is recommended, especially if you plan to participate in community activities or services. 
+When planning your visit to the Parish Community Center Holy Ghost, it's important to consider what to bring. Comfortable clothing is recommended, especially if you plan to participate in community activities or services. 
 
 Seasonal considerations should also be taken into account; for instance, if you are visiting during the colder months, dress warmly, as the center may not be fully heated. In contrast, summer visitors may appreciate light clothing, as certain events could take place outdoors.
 

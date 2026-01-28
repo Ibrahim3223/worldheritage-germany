@@ -28,15 +28,15 @@ image_srcset:
 
 The Museum für Mineralogie und Geologie Dresden is a captivating destination for anyone intrigued by the natural world, specifically the vibrant realms of minerals and geological formations. Located in the heart of Dresden, Germany, this museum serves as a sanctuary for geology enthusiasts, students, and curious visitors alike, offering a comprehensive look at the Earth's treasures. From stunning mineral specimens to enlightening geological exhibits, the museum invites exploration and learning.
 
-As part of Dresden's rich cultural landscape, the museum holds a significant position in the study of mineralogy and geology, contributing to both local and international scientific communities. Its collections are meticulously curated to provide insights into the Earth’s processes and the materials that compose it. Visitors to the museum can expect a blend of educational displays and aesthetic marvels, making it a worthwhile stop for anyone traveling through this historic city.
+As part of Dresden's rich cultural landscape, the museum holds a significant position in the study of mineralogy and geology, contributing to both local and international scientific communities. Its collections are meticulously curated to provide insights into the Earth's processes and the materials that compose it. Visitors to the museum can expect a blend of educational displays and aesthetic marvels, making it a worthwhile stop for anyone traveling through this historic city.
 
 ## History and Significance
 
 The Museum für Mineralogie und Geologie Dresden has evolved as a crucial institution for scientific research and education in the field of Earth sciences. Though specific dates for its founding are not provided, the museum has a storied background that reflects the broader historical context of geology and mineralogy in Germany. The museum serves not only as a repository of knowledge but also as a platform for advancing research in these fields.
 
-Throughout its history, the museum has played a vital role in disseminating knowledge about the Earth’s materials, showcasing specimens that highlight the diversity and complexity of minerals. This emphasis on education is evident in the museum's commitment to engaging visitors through interactive exhibits and informative displays. As a result, the museum has become an integral part of the community, fostering a greater understanding of geological sciences among the public.
+Throughout its history, the museum has played a vital role in disseminating knowledge about the Earth's materials, showcasing specimens that highlight the diversity and complexity of minerals. This emphasis on education is evident in the museum's commitment to engaging visitors through interactive exhibits and informative displays. As a result, the museum has become an integral part of the community, fostering a greater understanding of geological sciences among the public.
 
-The cultural significance of the Museum für Mineralogie und Geologie Dresden extends beyond its collections; it also represents a commitment to preserving the Earth’s history and promoting sustainable practices. As environmental concerns become increasingly pressing, the museum's role in educating the public about geology and mineral resources is more pertinent than ever.
+The cultural significance of the Museum für Mineralogie und Geologie Dresden extends beyond its collections; it also represents a commitment to preserving the Earth's history and promoting sustainable practices. As environmental concerns become increasingly pressing, the museum's role in educating the public about geology and mineral resources is more pertinent than ever.
 
 ## Architecture and Features
 

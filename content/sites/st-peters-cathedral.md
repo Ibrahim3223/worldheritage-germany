@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Peter's Cathedral, located in the heart of Osnabrück, Germany, serves as the principal church of the Roman Catholic Diocese of Osnabrück. This notable cathedral is not only an important religious site but also a symbol of the city’s rich cultural heritage. Its striking architecture and historical significance make it a must-see for visitors exploring the region. The cathedral's impressive structure invites awe and reverence, reflecting the artistry and devotion of its architects and builders.
+St. Peter's Cathedral, located in the heart of Osnabrück, Germany, serves as the principal church of the Roman Catholic Diocese of Osnabrück. This notable cathedral is not only an important religious site but also a symbol of the city's rich cultural heritage. Its striking architecture and historical significance make it a must-see for visitors exploring the region. The cathedral's impressive structure invites awe and reverence, reflecting the artistry and devotion of its architects and builders.
 
 Osnabrück, with its vibrant history and position as a crossroads of trade and culture, provides the perfect backdrop for this monumental cathedral. As a center for both spiritual and community life, St. Peter's Cathedral plays a pivotal role in the daily lives of its parishioners and the broader community. Visitors will find themselves immersed in a space that has witnessed centuries of faith and historical events, making it a key highlight in any exploration of Osnabrück.
 
@@ -34,9 +34,9 @@ Osnabrück, with its vibrant history and position as a crossroads of trade and c
 
 St. Peter's Cathedral holds a significant place in the history of Osnabrück and the broader region of Lower Saxony. The cathedral is a prominent example of ecclesiastical architecture, and through its long-standing presence, it has been a place of worship, community gathering, and cultural expression for generations. The cathedral's history is intertwined with the development of the Diocese of Osnabrück, which was established to serve the spiritual needs of the local population.
 
-The architectural evolution of St. Peter’s reflects broader trends in ecclesiastical design across Europe. While specific dates for construction phases may not be available, the cathedral has undergone various modifications and restorations over its long history, adapting to the changing needs of its congregation and the historical context of the region. Its significance extends beyond religious observance; it has been a venue for important events and ceremonies, solidifying its role as a community pillar.
+The architectural evolution of St. Peter's reflects broader trends in ecclesiastical design across Europe. While specific dates for construction phases may not be available, the cathedral has undergone various modifications and restorations over its long history, adapting to the changing needs of its congregation and the historical context of the region. Its significance extends beyond religious observance; it has been a venue for important events and ceremonies, solidifying its role as a community pillar.
 
-The cathedral is not only a site of worship but also a monument that tells the story of Osnabrück itself. It has witnessed key historical moments, including local conflicts and the peace negotiations that eventually led to the Treaty of Westphalia. This treaty, signed in the city in the 17th century, marked a turning point in European history, making St. Peter’s a silent witness to significant political and social changes.
+The cathedral is not only a site of worship but also a monument that tells the story of Osnabrück itself. It has witnessed key historical moments, including local conflicts and the peace negotiations that eventually led to the Treaty of Westphalia. This treaty, signed in the city in the 17th century, marked a turning point in European history, making St. Peter's a silent witness to significant political and social changes.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or early in the day. This tim
 
 ## Practical Information
 
-As you prepare for your visit to St. Peter's Cathedral, it’s advisable to bring along essentials such as a camera, a reusable water bottle, and comfortable walking shoes. Depending on the season, consider layering your clothing, as the interior can be cool, especially during winter months.
+As you prepare for your visit to St. Peter's Cathedral, it's advisable to bring along essentials such as a camera, a reusable water bottle, and comfortable walking shoes. Depending on the season, consider layering your clothing, as the interior can be cool, especially during winter months.
 
 St. Peter's Cathedral welcomes visitors year-round, but certain times of year may offer unique events or services, adding to the experience. Always check the official website for the latest information on special events or seasonal considerations.
 
@@ -89,7 +89,7 @@ It is recommended to spend at least one hour exploring St. Peter's Cathedral to 
 Photography is generally permitted, but be respectful of worshippers and follow any guidelines provided by the cathedral staff.
 
 ### Are there guided tours?
-Guided tours may be available, providing insights into the cathedral’s history and architecture. Check the official website for more information.
+Guided tours may be available, providing insights into the cathedral's history and architecture. Check the official website for more information.
 
 ### What's the best time to visit?
 Visiting during weekdays or early morning can help you avoid crowds and enjoy a more contemplative experience.

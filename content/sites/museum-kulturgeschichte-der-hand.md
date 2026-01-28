@@ -28,7 +28,7 @@ As you step into the museum, you are invited to discover how the hand has shaped
 
 The Museum Kulturgeschichte der Hand is not just a repository of objects; it is a space that reflects the cultural importance of hands in human civilization. From the earliest tools crafted by hand to the intricate art forms developed over centuries, hands have been instrumental in shaping our world. The museum curates displays that illustrate this relationship, providing insights into how hands have been used for creation, communication, and expression across various cultures.
 
-While specific historical dates may not be documented, the museum’s collection represents a broad timeline of human innovation and artistry. It celebrates the dexterity and skill that hands have brought to crafts, trades, and the arts. The significance of the hand is further emphasized in the museum’s commitment to education and outreach, where visitors can engage with the cultural narratives that surround this vital part of the human experience.
+While specific historical dates may not be documented, the museum's collection represents a broad timeline of human innovation and artistry. It celebrates the dexterity and skill that hands have brought to crafts, trades, and the arts. The significance of the hand is further emphasized in the museum's commitment to education and outreach, where visitors can engage with the cultural narratives that surround this vital part of the human experience.
 
 The museum also serves as a center for scholarly research and public education, fostering a deeper understanding of the historical and cultural contexts in which hands have played a pivotal role. By examining the connection between hands and societal development, the museum invites visitors to reflect on their own interactions with the world around them.
 
@@ -36,7 +36,7 @@ The museum also serves as a center for scholarly research and public education, 
 
 The architectural design of the Museum Kulturgeschichte der Hand complements its mission. The building itself is thoughtfully designed to house a variety of exhibits that engage visitors with the theme of hands and their cultural significance. The layout encourages exploration, featuring spaces that allow for both intimate appreciation of artifacts and broader thematic displays.
 
-Key features of the museum include its well-curated exhibition halls, which are tailored to showcase the diverse roles hands have played in different cultures. Visitors may find areas dedicated to craftsmanship, artistic expression, and the symbolic meanings associated with hands across various societies. The museum’s design not only facilitates an engaging visitor experience but also reflects the artistry that hands contribute to the world.
+Key features of the museum include its well-curated exhibition halls, which are tailored to showcase the diverse roles hands have played in different cultures. Visitors may find areas dedicated to craftsmanship, artistic expression, and the symbolic meanings associated with hands across various societies. The museum's design not only facilitates an engaging visitor experience but also reflects the artistry that hands contribute to the world.
 
 Additionally, the museum may include interactive elements that encourage visitor participation, allowing guests to connect with the exhibits on a personal level. While specific architectural details are not provided, the overall ambiance is one that fosters learning and appreciation of the cultural narratives surrounding human hands.
 

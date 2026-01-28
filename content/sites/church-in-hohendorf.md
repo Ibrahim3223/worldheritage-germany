@@ -3,7 +3,7 @@ title: "Church in Hohendorf"
 site_name: "Church in Hohendorf"
 date: 2026-01-26
 draft: false
-description: "The Church in Hohendorf stands as a notable religious structure in the Wolgast region of Germany, reflecting the area’s cultural and architectural heritage."
+description: "The Church in Hohendorf stands as a notable religious structure in the Wolgast region of Germany, reflecting the area's cultural and architectural heritage."
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Church in Hohendorf stands as a notable religious structure in the Wolgast region of Germany, reflecting the area’s cultural and architectural heritage. This church, characterized by its traditional design, serves not only as a place of worship but also as a significant landmark within the local community. Situated at coordinates 54.0229, 13.7326, it offers a glimpse into the historical and spiritual fabric of the region.
+The Church in Hohendorf stands as a notable religious structure in the Wolgast region of Germany, reflecting the area's cultural and architectural heritage. This church, characterized by its traditional design, serves not only as a place of worship but also as a significant landmark within the local community. Situated at coordinates 54.0229, 13.7326, it offers a glimpse into the historical and spiritual fabric of the region.
 
 Visitors to Hohendorf will find that the church is more than just a destination; it embodies the essence of local traditions and communal life. As you approach, the building invites contemplation and connection, making it a worthy stop for those exploring the historical narratives of Wolgast. The serene atmosphere surrounding the church enhances its significance, offering a peaceful retreat for reflection. 
 
@@ -71,7 +71,7 @@ To make the most of your visit to the Church in Hohendorf, consider the followin
 
 - **Photography**: Capture the church's exterior and surrounding landscape, but be mindful and respectful of any restrictions regarding photography inside the church.
 - **Crowd Avoidance**: Aim to visit during weekdays or early mornings to experience a quieter atmosphere, allowing for personal reflection without the presence of larger groups.
-- **Dress Code**: If attending a service, it is advisable to dress modestly and respectfully, in keeping with the church’s traditions.
+- **Dress Code**: If attending a service, it is advisable to dress modestly and respectfully, in keeping with the church's traditions.
 
 ## Practical Information
 

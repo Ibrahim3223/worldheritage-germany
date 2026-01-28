@@ -26,15 +26,15 @@ The museum's focus on art underscores its commitment to showcasing both local an
 
 ## History and Significance
 
-The Neue Galerie im Höhmannhaus is an integral part of Augsburg's cultural landscape. Its establishment reflects the city’s long-standing dedication to the arts, which has been a defining characteristic since the Renaissance period. Augsburg, known for its historical significance as a Free Imperial City, has nurtured an environment where artists can thrive. The museum serves as a modern continuation of this legacy, offering a platform for artistic dialogue and cultural exchange.
+The Neue Galerie im Höhmannhaus is an integral part of Augsburg's cultural landscape. Its establishment reflects the city's long-standing dedication to the arts, which has been a defining characteristic since the Renaissance period. Augsburg, known for its historical significance as a Free Imperial City, has nurtured an environment where artists can thrive. The museum serves as a modern continuation of this legacy, offering a platform for artistic dialogue and cultural exchange.
 
 While specific dates regarding its founding might be elusive, the museum's role in the cultural narrative of Augsburg is clear. It stands as a testament to the city's appreciation for art and its desire to foster creativity within the community. The museum not only displays works from various periods but also engages in educational initiatives that aim to deepen the public's understanding of art.
 
-The significance of the Neue Galerie im Höhmannhaus extends beyond its walls. It plays a vital role in the city’s art scene, hosting exhibitions that often showcase contemporary artists alongside historical works. This blend creates a dynamic atmosphere where visitors can experience the evolution of artistic expression. By participating in local and international art events, the museum helps to elevate Augsburg’s profile in the global art community.
+The significance of the Neue Galerie im Höhmannhaus extends beyond its walls. It plays a vital role in the city's art scene, hosting exhibitions that often showcase contemporary artists alongside historical works. This blend creates a dynamic atmosphere where visitors can experience the evolution of artistic expression. By participating in local and international art events, the museum helps to elevate Augsburg's profile in the global art community.
 
 ## Architecture and Features
 
-The architectural design of the Neue Galerie im Höhmannhaus complements its artistic mission. The museum is housed within a structure that reflects the architectural styles prevalent in Augsburg, integrating seamlessly into the urban fabric of the city. While specifics about the architecture are not detailed, the building is likely to feature elements that resonate with the city’s historical character, combining traditional aesthetics with modern functionality.
+The architectural design of the Neue Galerie im Höhmannhaus complements its artistic mission. The museum is housed within a structure that reflects the architectural styles prevalent in Augsburg, integrating seamlessly into the urban fabric of the city. While specifics about the architecture are not detailed, the building is likely to feature elements that resonate with the city's historical character, combining traditional aesthetics with modern functionality.
 
 Inside, the museum is designed to facilitate the display of art in various formats, allowing for both permanent collections and temporary exhibitions. The layout is intended to guide visitors through the different sections of the museum, encouraging exploration and contemplation. The lighting and space allocation are thoughtfully arranged to enhance the viewing experience, allowing artworks to be appreciated in their full context.
 
@@ -56,7 +56,7 @@ While visiting the Neue Galerie im Höhmannhaus, you might consider exploring se
 
 1. **Augsburg Cathedral**: A stunning example of Romanesque architecture, this cathedral is known for its intricate stained glass windows and beautiful artwork, making it a must-visit for anyone interested in history and art.
 
-2. **Fuggerei**: This famous social housing complex, established in the 16th century, offers insights into Augsburg's social history and architectural heritage, showcasing the city’s commitment to community welfare.
+2. **Fuggerei**: This famous social housing complex, established in the 16th century, offers insights into Augsburg's social history and architectural heritage, showcasing the city's commitment to community welfare.
 
 3. **Augsburg Town Hall**: Renowned for its ornate Renaissance façade and grand interiors, the Town Hall is a symbol of Augsburg's historical significance and offers guided tours to learn more about its storied past.
 

@@ -38,7 +38,7 @@ The Alte Saline has its roots deeply embedded in the history of salt mining in t
 
 The cultural importance of the Alte Saline extends beyond its economic impact. The building represents a significant chapter in the architectural evolution of the area. Over the years, it has undergone various renovations and restorations, each reflecting the changing styles and needs of its time. The architectural ensemble showcases elements that highlight the technological advancements of salt production, as well as the artistry that went into its construction.
 
-Moreover, the Alte Saline is not merely a historical site; it is a center for education and cultural events. Visitors often engage with exhibitions that detail the history and processes involved in salt extraction, providing a deeper understanding of its significance in Bavarian culture. The site serves as a platform for preserving and promoting the region’s heritage, making it a vital part of Bad Reichenhall’s identity.
+Moreover, the Alte Saline is not merely a historical site; it is a center for education and cultural events. Visitors often engage with exhibitions that detail the history and processes involved in salt extraction, providing a deeper understanding of its significance in Bavarian culture. The site serves as a platform for preserving and promoting the region's heritage, making it a vital part of Bad Reichenhall's identity.
 
 As you explore the Alte Saline, you will gain insights into how this building and its surrounding facilities have influenced the lives of those in Bad Reichenhall. The blend of history, culture, and architecture makes it a compelling destination for those interested in Bavaria's past.
 

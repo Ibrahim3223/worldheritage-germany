@@ -102,7 +102,7 @@ When preparing for your visit to Museum Leben am Meer, consider the following pr
 A typical visit to Museum Leben am Meer may take between one to two hours, but you are welcome to extend your stay if you wish to explore more thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check for any specific restrictions upon arrival.
+Photography policies may vary by exhibit. It's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can enhance your understanding of the exhibits.

@@ -52,7 +52,7 @@ Visiting the Kammergericht can be a rewarding experience for those interested in
 
 Typically, visitors can expect to spend around an hour at the Kammergericht, allowing ample time to take in the architectural details and learn about its historical significance. The best times to visit usually align with weekdays when the courthouse is operational, providing a glimpse into the workings of the legal system.
 
-While you may be able to view certain areas of the courthouse, access to some parts may be restricted during legal proceedings. Therefore, it's advisable to check ahead of your visit to understand what areas are open to the public. Whether you are a legal enthusiast or simply a curious traveler, the Kammergericht offers a unique perspective on Berlin’s rich heritage.
+While you may be able to view certain areas of the courthouse, access to some parts may be restricted during legal proceedings. Therefore, it's advisable to check ahead of your visit to understand what areas are open to the public. Whether you are a legal enthusiast or simply a curious traveler, the Kammergericht offers a unique perspective on Berlin's rich heritage.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ For photography enthusiasts, the exterior of the courthouse provides excellent o
 
 ## Practical Information
 
-When visiting the Kammergericht, it’s advisable to bring along any essentials you may need, such as water, comfortable walking shoes, and a camera for exterior shots. Seasonal considerations are also important; Berlin can be quite cold in winter, so dress accordingly. In contrast, spring and summer offer pleasant weather for exploring the surrounding areas.
+When visiting the Kammergericht, it's advisable to bring along any essentials you may need, such as water, comfortable walking shoes, and a camera for exterior shots. Seasonal considerations are also important; Berlin can be quite cold in winter, so dress accordingly. In contrast, spring and summer offer pleasant weather for exploring the surrounding areas.
 
 Additionally, be mindful of courthouse etiquette, as this is a functioning legal institution. Respecting the rules and procedures in place will enhance your experience and ensure that your visit is enjoyable.
 
@@ -95,7 +95,7 @@ Guided tours may or may not be available. Check the official website for details
 Weekdays are ideal for visiting, especially in the morning when the courthouse is operational and less crowded.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary. It’s advisable to check the official website for the most current details regarding wheelchair access.
+Accessibility information may vary. It's advisable to check the official website for the most current details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information about ticket purchases can be found on the official website. Be sure to check for any requirements before your visit.

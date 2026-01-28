@@ -68,13 +68,13 @@ Castle Landskron is situated near several points of interest that enhance the ov
 
 1. **Oppenheim Town Center**: A short distance from the castle, the town center offers charming streets lined with historical buildings, shops, and local eateries, perfect for a leisurely stroll or a bite to eat.
 
-2. **St. Catherine’s Church**: This nearby church is known for its impressive Gothic architecture and beautiful stained glass windows, providing a serene atmosphere for visitors interested in religious history.
+2. **St. Catherine's Church**: This nearby church is known for its impressive Gothic architecture and beautiful stained glass windows, providing a serene atmosphere for visitors interested in religious history.
 
 3. **The Archaeological Museum**: Located in Oppenheim, this museum showcases artifacts from the region's past, allowing visitors to delve deeper into the area's archaeological significance.
 
 4. **Rhein River Promenade**: A scenic walk along the Rhine River offers picturesque views and opportunities for outdoor activities, making it a pleasant addition to your itinerary.
 
-5. **Nearby Vineyards**: The surrounding region is known for its wine production, and a visit to local vineyards can provide a delightful taste of the area’s renowned wines.
+5. **Nearby Vineyards**: The surrounding region is known for its wine production, and a visit to local vineyards can provide a delightful taste of the area's renowned wines.
 
 ## Insider Tips
 

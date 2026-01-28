@@ -54,7 +54,7 @@ The memorial aspect of the site is equally significant, providing a space for re
 
 ## Visiting Information
 
-The German Resistance Memorial Center is conveniently located in Berlin’s Bezirk Mitte, making it accessible for both locals and tourists. Visitors can reach the center via various forms of public transport, including buses and trains, which frequently service the area. For those driving, parking options may be available nearby, although it is advisable to check for specific details.
+The German Resistance Memorial Center is conveniently located in Berlin's Bezirk Mitte, making it accessible for both locals and tourists. Visitors can reach the center via various forms of public transport, including buses and trains, which frequently service the area. For those driving, parking options may be available nearby, although it is advisable to check for specific details.
 
 When planning a visit, it is important to check the official website for current information on opening hours and ticket prices. The center typically accommodates a range of visitors, from those interested in history to students and educators seeking to deepen their understanding of resistance movements.
 
@@ -70,7 +70,7 @@ While visiting the German Resistance Memorial Center, there are several nearby a
 
 2. **Berlin Wall Memorial**: A significant historical site that commemorates the division of Berlin during the Cold War. It offers a deeper understanding of the city's complex history and the struggle for freedom.
 
-3. **Reichstag Building**: The seat of the German parliament, the Reichstag is an architectural landmark featuring a glass dome that provides panoramic views of the city. It is an essential site for understanding Germany’s democratic evolution.
+3. **Reichstag Building**: The seat of the German parliament, the Reichstag is an architectural landmark featuring a glass dome that provides panoramic views of the city. It is an essential site for understanding Germany's democratic evolution.
 
 4. **Checkpoint Charlie**: Once a key crossing point between East and West Berlin during the Cold War, this site now features informative displays about the Berlin Wall and the divided city.
 
@@ -84,7 +84,7 @@ To make the most of your experience at the German Resistance Memorial Center, co
 
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for weekday mornings or late afternoons. This will allow for an enhanced experience as you navigate through the exhibits with fewer distractions.
 
-- **Engage with Staff**: The staff at the center are often knowledgeable and passionate about the subject matter. Don’t hesitate to ask questions or seek recommendations for specific exhibits or resources.
+- **Engage with Staff**: The staff at the center are often knowledgeable and passionate about the subject matter. Don't hesitate to ask questions or seek recommendations for specific exhibits or resources.
 
 ## Practical Information
 

@@ -103,7 +103,7 @@ Information regarding accessibility may be limited; check the official website f
 Check the official website for any entry fees or ticketing information.
 
 ### Are there restrooms and cafes?
-While specific amenities are not detailed, it is advisable to check the church’s official website for visitor facilities.
+While specific amenities are not detailed, it is advisable to check the church's official website for visitor facilities.
 
 ### What should I wear?
 Modest attire is recommended, especially if attending a service. Comfortable shoes are advisable for exploring the area.

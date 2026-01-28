@@ -42,7 +42,7 @@ The Czech Centre is thoughtfully designed to reflect the modern ethos of Czech c
 
 One notable aspect of the Centre is its exhibition space, which is frequently updated to showcase a range of artistic disciplines, from visual arts to multimedia installations. The adaptable nature of the galleries means that they can accommodate various types of exhibitions, providing a platform for both established and emerging Czech artists.
 
-In addition to the gallery space, the Centre may also feature areas designated for lectures and film screenings, enhancing its role as a cultural and educational hub. The commitment to creating an inviting atmosphere is evident in the Centre’s layout, which encourages visitors to explore and engage with the exhibitions and programs at their own pace.
+In addition to the gallery space, the Centre may also feature areas designated for lectures and film screenings, enhancing its role as a cultural and educational hub. The commitment to creating an inviting atmosphere is evident in the Centre's layout, which encourages visitors to explore and engage with the exhibitions and programs at their own pace.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ The Czech Centre is situated in a culturally rich part of Berlin, making it conv
 
 To make the most of your visit to the Czech Centre, consider these insider tips:
 
-- **Photography**: While photography might be permitted in some areas, it’s advisable to respect any signs indicating restrictions, especially during exhibitions.
+- **Photography**: While photography might be permitted in some areas, it's advisable to respect any signs indicating restrictions, especially during exhibitions.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekday mornings or early afternoons. Weekends can attract larger crowds, particularly when special events are taking place.
 

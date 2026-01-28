@@ -70,7 +70,7 @@ To avoid larger crowds, consider visiting during weekdays or outside of peak tou
 
 ## Practical Information
 
-When preparing for your visit to the synagogue, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A light jacket may be necessary, depending on the season, as weather conditions can vary.
+When preparing for your visit to the synagogue, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A light jacket may be necessary, depending on the season, as weather conditions can vary.
 
 Seasonal considerations can also affect your visit. Spring and autumn are generally pleasant times to explore the area, with milder temperatures and beautiful scenery. Always check the official website for any announcements regarding seasonal events or changes in visiting hours.
 
@@ -82,7 +82,7 @@ A visit to the synagogue typically requires about 30 minutes to an hour, allowin
 
 ### Is photography allowed?
 
-Check the site’s regulations regarding photography, as policies may vary.
+Check the site's regulations regarding photography, as policies may vary.
 
 ### Are there guided tours?
 

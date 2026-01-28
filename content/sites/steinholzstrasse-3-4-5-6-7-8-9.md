@@ -40,7 +40,7 @@ Quedlinburg is noteworthy for its connection to the Ottonian dynasty, with the t
 
 As you explore Steinholzstraße, you will encounter elements that reflect the socio-economic conditions of the time, including features that suggest the buildings were designed for both practicality and aesthetic appeal. This dual focus on functionality and beauty can be seen in the intricate facades and the layout of the structures, which often catered to the needs of their occupants while also contributing to the overall harmony of the streetscape.
 
-The significance of Steinholzstraße extends beyond its physical appearance; it stands as a representation of the communal life that defined Quedlinburg. The area has served as a backdrop for social interactions, trade, and cultural exchanges, making it a vital part of the town’s historical narrative. Thus, visiting this architectural ensemble not only allows for an appreciation of its artistry but also encourages reflection on the lives of those who once inhabited these spaces.
+The significance of Steinholzstraße extends beyond its physical appearance; it stands as a representation of the communal life that defined Quedlinburg. The area has served as a backdrop for social interactions, trade, and cultural exchanges, making it a vital part of the town's historical narrative. Thus, visiting this architectural ensemble not only allows for an appreciation of its artistry but also encourages reflection on the lives of those who once inhabited these spaces.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ In summary, the architectural features of Steinholzstraße 3, 4, 5, 6, 7, 8, and
 
 ## Visiting Information
 
-When planning a visit to Steinholzstraße, it’s important to consider how to best experience this architectural ensemble. Quedlinburg is easily accessible by train and car, making it a convenient destination for those traveling from larger cities in Germany. The coordinates 51.7933, 11.140185 can guide visitors directly to the site.
+When planning a visit to Steinholzstraße, it's important to consider how to best experience this architectural ensemble. Quedlinburg is easily accessible by train and car, making it a convenient destination for those traveling from larger cities in Germany. The coordinates 51.7933, 11.140185 can guide visitors directly to the site.
 
 While specific hours for visiting Steinholzstraße may vary, it is advisable to check the official website for current information regarding access and any potential guided tours. Typically, the site can be explored during daylight hours, allowing ample time to appreciate the architectural details and overall ambiance of the ensemble.
 

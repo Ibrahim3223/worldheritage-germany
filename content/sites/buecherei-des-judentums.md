@@ -64,7 +64,7 @@ Buchen is surrounded by several attractions that enhance the cultural experience
 
 2. **Kulturhaus Buchen** - A cultural center that hosts various events and exhibitions, providing additional context to the local cultural landscape.
 
-3. **Buchen’s Historic Churches** - Visit the local churches, which offer insights into the architectural styles and religious history of the region.
+3. **Buchen's Historic Churches** - Visit the local churches, which offer insights into the architectural styles and religious history of the region.
 
 4. **Odenwald Nature Park** - For those interested in nature, this nearby park offers scenic hiking trails and a chance to experience the natural beauty of the area.
 
@@ -88,7 +88,7 @@ Seasonal considerations might influence your visit; spring and autumn often prov
 While the duration of your visit may vary based on your interests, most guests find that spending two to three hours allows for a thorough exploration of the collection.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to inquire at the entrance about any restrictions.
+Photography policies can vary, so it's best to inquire at the entrance about any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, but check the official website for specific offerings and times.
@@ -97,13 +97,13 @@ Guided tours may be available, but check the official website for specific offer
 Weekday mornings or early afternoons typically offer a quieter experience.
 
 ### Is it wheelchair accessible?
-For accessibility information, please consult the library’s website or contact them directly.
+For accessibility information, please consult the library's website or contact them directly.
 
 ### Can I buy tickets online?
-Ticketing procedures may vary, so it’s best to check the official website for current options.
+Ticketing procedures may vary, so it's best to check the official website for current options.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s advisable to check the official website for specific details.
+Facilities may be available, but it's advisable to check the official website for specific details.
 
 ### What should I wear?
 Casual, comfortable clothing is recommended, especially if you plan to spend an extended time studying.

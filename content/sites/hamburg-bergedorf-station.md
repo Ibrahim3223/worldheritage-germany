@@ -44,11 +44,11 @@ Hamburg-Bergedorf station exhibits a practical architectural style typical of ma
 
 Although specific architectural details are not provided, one can expect to find essential facilities such as ticket counters, waiting areas, and signage designed to guide passengers effectively. These elements contribute to the overall user experience, making the station conducive for both quick stops and longer waits.
 
-The layout of the station is designed for ease of navigation, reflecting modern design principles that prioritize passenger flow and accessibility. While it may not have grand historical architecture, its utilitarian style serves the community’s needs, reinforcing the idea that functionality is at the heart of public transport infrastructure.
+The layout of the station is designed for ease of navigation, reflecting modern design principles that prioritize passenger flow and accessibility. While it may not have grand historical architecture, its utilitarian style serves the community's needs, reinforcing the idea that functionality is at the heart of public transport infrastructure.
 
 ## Visiting Information
 
-Hamburg-Bergedorf station is well-connected to the broader public transport system, making it an easy stop for visitors. It is served by various local train lines, which provide frequent services to Hamburg's city center and other suburbs. The station’s strategic location makes it a convenient entry point for those exploring the Bergedorf district.
+Hamburg-Bergedorf station is well-connected to the broader public transport system, making it an easy stop for visitors. It is served by various local train lines, which provide frequent services to Hamburg's city center and other suburbs. The station's strategic location makes it a convenient entry point for those exploring the Bergedorf district.
 
 For the latest information regarding operational hours and ticket prices, check the official website. When visiting, you can expect a clean and organized environment, with facilities that cater to the needs of travelers. The station can be busy during peak commuting hours, so plan your visit accordingly to avoid crowds, especially during weekday mornings and evenings.
 

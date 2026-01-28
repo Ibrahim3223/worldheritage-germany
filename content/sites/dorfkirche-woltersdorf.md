@@ -71,7 +71,7 @@ To avoid crowds, plan your visit during off-peak hours, typically outside of loc
 
 ## Practical Information
 
-When planning your visit to Dorfkirche Woltersdorf, it can be beneficial to bring a few essentials. Comfortable walking shoes are recommended, especially if you intend to explore the surrounding area. A camera is a must for capturing the church’s architectural charm and the tranquil setting.
+When planning your visit to Dorfkirche Woltersdorf, it can be beneficial to bring a few essentials. Comfortable walking shoes are recommended, especially if you intend to explore the surrounding area. A camera is a must for capturing the church's architectural charm and the tranquil setting.
 
 Seasonal considerations are important as well. If visiting in the winter, be prepared for colder temperatures and potentially slippery paths. In contrast, spring and summer offer a vibrant landscape, making it an ideal time to explore the outdoors.
 
@@ -81,7 +81,7 @@ Seasonal considerations are important as well. If visiting in the winter, be pre
 Visitors typically spend around one hour at Dorfkirche Woltersdorf, allowing time to explore and appreciate the church and its surroundings.
 
 ### Is photography allowed?
-While photography is generally allowed, it’s respectful to check for any specific restrictions, especially during services.
+While photography is generally allowed, it's respectful to check for any specific restrictions, especially during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.
@@ -96,7 +96,7 @@ Check the official website for current information regarding accessibility featu
 Admission is typically free, but for any special events or services, check the official website for ticketing information.
 
 ### Are there restrooms and cafes?
-Local amenities may be available in the nearby village. It’s best to check ahead for specific locations.
+Local amenities may be available in the nearby village. It's best to check ahead for specific locations.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that this is a place of worship. Layers are recommended for changing weather conditions. 

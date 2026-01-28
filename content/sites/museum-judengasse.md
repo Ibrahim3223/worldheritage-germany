@@ -48,7 +48,7 @@ One of the notable features of the museum is its commitment to accessibility and
 
 ## Visiting Information
 
-Reaching Museum Judengasse is convenient, as it is located in central Frankfurt. Visitors can take advantage of the city’s robust public transportation system, which includes tram and bus services that operate frequently. Additionally, the museum is within walking distance of various other cultural landmarks, making it an ideal stop on a day of exploration.
+Reaching Museum Judengasse is convenient, as it is located in central Frankfurt. Visitors can take advantage of the city's robust public transportation system, which includes tram and bus services that operate frequently. Additionally, the museum is within walking distance of various other cultural landmarks, making it an ideal stop on a day of exploration.
 
 Check the official website for current information regarding opening hours and ticket prices. Visitors typically spend about two hours at the museum, allowing ample time to engage with the exhibitions and reflect on the historical narratives presented. The best times to visit are during weekdays when the museum tends to be less crowded, providing a more intimate experience.
 
@@ -58,7 +58,7 @@ Upon arrival, guests can expect a welcoming atmosphere, with friendly staff read
 
 1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)**: An iconic Gothic structure, this cathedral is a short walk from the museum and offers insights into the city's religious architecture.
    
-2. **Römer**: This historic building complex serves as Frankfurt’s city hall and is renowned for its picturesque facades and rich history, making it a must-visit for those interested in the city's civic heritage.
+2. **Römer**: This historic building complex serves as Frankfurt's city hall and is renowned for its picturesque facades and rich history, making it a must-visit for those interested in the city's civic heritage.
 
 3. **Städel Museum**: Located nearby, this museum features an extensive collection of European art, ranging from the Middle Ages to contemporary works, appealing to art enthusiasts.
 

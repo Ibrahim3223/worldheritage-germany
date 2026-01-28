@@ -68,7 +68,7 @@ If you're interested in capturing the surrounding landscapes, consider exploring
 
 When visiting the Kleine einbogige Sandsteinquaderbrücke, it is advisable to wear comfortable footwear suitable for walking, as you may want to explore the area surrounding the bridge. Bring a camera to capture the unique architecture and natural beauty of the landscape. 
 
-Seasonal considerations include preparing for varying weather conditions. Spring and autumn typically offer mild temperatures, but it’s wise to check the forecast before your visit. In winter, be mindful of icy conditions that might affect accessibility to the bridge.
+Seasonal considerations include preparing for varying weather conditions. Spring and autumn typically offer mild temperatures, but it's wise to check the forecast before your visit. In winter, be mindful of icy conditions that might affect accessibility to the bridge.
 
 ## Frequently Asked Questions
 

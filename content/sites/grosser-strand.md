@@ -54,7 +54,7 @@ Visitors are encouraged to plan their trips around the seasons, as the beach exp
 
 While Großer Strand is a destination in itself, several nearby attractions enhance the overall experience for visitors. Here are a few notable places to consider:
 
-1. **Usedom Island**: Just a short distance away, Usedom Island is known for its picturesque seaside resorts, charming towns, and expansive natural parks. It’s an excellent destination for outdoor enthusiasts and those looking to explore coastal landscapes.
+1. **Usedom Island**: Just a short distance away, Usedom Island is known for its picturesque seaside resorts, charming towns, and expansive natural parks. It's an excellent destination for outdoor enthusiasts and those looking to explore coastal landscapes.
 
 2. **Peenemünde Historical Technical Museum**: Located nearby, this museum offers insights into the history of technology and military developments during World War II. It provides a thought-provoking contrast to the beach's leisure-focused environment.
 
@@ -108,4 +108,4 @@ Entry to Großer Strand is generally free, but it is advisable to check the offi
 Basic facilities, including restrooms, are available near the beach. However, dining options may be limited on-site, so consider bringing snacks or checking nearby towns for cafes.
 
 ### What should I wear?
-Dress comfortably in beach attire, including swimwear, sandals, and light clothing. Don’t forget sun protection essentials like hats and sunglasses.
+Dress comfortably in beach attire, including swimwear, sandals, and light clothing. Don't forget sun protection essentials like hats and sunglasses.

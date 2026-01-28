@@ -52,7 +52,7 @@ While visiting Hephatha-Kirche, there are several nearby attractions that can en
 
 1. **Tempelhofer Feld**: A former airport turned public park, it offers expansive spaces for walking, cycling, and picnicking.
 2. **Neukölln Arcaden**: A shopping center that features a variety of shops, cafes, and entertainment options for a more urban experience.
-3. **Columbiahalle**: A historic concert venue that regularly hosts performances, providing a taste of Berlin’s vibrant music scene.
+3. **Columbiahalle**: A historic concert venue that regularly hosts performances, providing a taste of Berlin's vibrant music scene.
 4. **Richardplatz**: A charming square with a mix of historic and modern buildings, perfect for a leisurely stroll.
 5. **Körnerpark**: A beautifully landscaped park featuring gardens and art installations, offering a peaceful retreat from the urban hustle.
 

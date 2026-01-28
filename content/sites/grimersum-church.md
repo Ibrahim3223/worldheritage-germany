@@ -50,7 +50,7 @@ As a site of historical and architectural significance, Grimersum Church invites
 
 Grimersum Church is accessible to visitors looking to explore its history and architecture. While specific transport options are not detailed, the region of Krummhörn is generally well-serviced by local transport networks. Visitors can expect to reach the church via personal vehicles or public transportation, with ample opportunity for parking nearby.
 
-To optimize your experience, it’s advisable to check the official website for current information regarding operational hours and any potential entry fees. The church is likely to be open to visitors throughout the week, but hours may vary, especially on weekends or during religious observances.
+To optimize your experience, it's advisable to check the official website for current information regarding operational hours and any potential entry fees. The church is likely to be open to visitors throughout the week, but hours may vary, especially on weekends or during religious observances.
 
 When planning your visit, consider dedicating at least an hour to fully appreciate the church and its surroundings. Early mornings or late afternoons may provide a quieter atmosphere, allowing for a more reflective visit. Additionally, the changing light at these times can enhance the experience, making it an ideal time for photography.
 

@@ -40,7 +40,7 @@ The Lyrik-Kabinett, while primarily focused on its literary mission, embodies a 
 
 Notable features may include a well-curated collection of books, ranging from classic to contemporary works, offering a diverse selection for visitors to explore. The design likely incorporates areas for readings and events, creating an accessible environment for literary gatherings. The thoughtful layout of the Lyrik-Kabinett serves to enhance the overall experience, making it a welcoming haven for those seeking to connect with literature.
 
-Although specific architectural details are not provided, the foundation’s commitment to creating an engaging literary space is evident in its design and functionality. The overall ambiance is likely a reflection of its mission, combining aesthetics with practicality to inspire creativity and intellectual discourse among its patrons.
+Although specific architectural details are not provided, the foundation's commitment to creating an engaging literary space is evident in its design and functionality. The overall ambiance is likely a reflection of its mission, combining aesthetics with practicality to inspire creativity and intellectual discourse among its patrons.
 
 ## Visiting Information
 
@@ -50,7 +50,7 @@ When planning your visit, it is advisable to check the official website for curr
 
 Expect to spend around one to two hours at the Lyrik-Kabinett, allowing ample time to browse the collection and possibly participate in discussions or events. The atmosphere is generally calm and conducive to reflection, making it a perfect spot for both solitary readers and groups alike. 
 
-The best times to visit are often during weekdays when foot traffic tends to be lighter, allowing for a more intimate experience. However, if you wish to participate in scheduled events, it’s worth checking the calendar on the official website to align your visit accordingly.
+The best times to visit are often during weekdays when foot traffic tends to be lighter, allowing for a more intimate experience. However, if you wish to participate in scheduled events, it's worth checking the calendar on the official website to align your visit accordingly.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ While visiting the Lyrik-Kabinett, take the opportunity to explore other nearby 
 
 5. **Deutsches Museum**: A short ride away, this museum is dedicated to technology and science, featuring fascinating exhibitions that appeal to a wide range of interests.
 
-Exploring these attractions provides a well-rounded experience of Munich’s cultural offerings, enhancing your visit to the Lyrik-Kabinett.
+Exploring these attractions provides a well-rounded experience of Munich's cultural offerings, enhancing your visit to the Lyrik-Kabinett.
 
 ## Insider Tips
 

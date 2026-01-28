@@ -28,7 +28,7 @@ image_srcset:
 
 Haus Marktstraße 28, a significant cultural monument located in Groß-Bieberau, Germany, serves as the town's City Hall and represents an important piece of local heritage. This site is situated in the Darmstadt-Dieburg district of Hesse, an area known for its rich history and charming architecture. The building stands as a focal point for community activities, reflecting the civic pride and historical continuity of the region. Visitors to Haus Marktstraße 28 will find not only a functional municipal building but also an embodiment of the town's identity, making it a worthwhile stop for anyone interested in the intersection of culture, government, and local history.
 
-The significance of Haus Marktstraße 28 extends beyond its structural form; it acts as a hub for local governance and community events, ensuring that it remains a pivotal part of everyday life in Groß-Bieberau. The building's architecture and historical relevance draw visitors who are keen to explore the narratives that unfold within its walls. The site encourages exploration and engagement, promising a deeper understanding of the town’s past and present. 
+The significance of Haus Marktstraße 28 extends beyond its structural form; it acts as a hub for local governance and community events, ensuring that it remains a pivotal part of everyday life in Groß-Bieberau. The building's architecture and historical relevance draw visitors who are keen to explore the narratives that unfold within its walls. The site encourages exploration and engagement, promising a deeper understanding of the town's past and present. 
 
 ## History and Significance
 

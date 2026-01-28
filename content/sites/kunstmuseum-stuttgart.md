@@ -38,7 +38,7 @@ The museum's collection includes works from notable artists, encompassing a wide
 
 Over the years, the museum has hosted numerous exhibitions that have drawn local and international attention, showcasing both established and new talents. These exhibitions not only highlight the works of renowned artists but also bring to light the contributions of emerging creators, thus ensuring the ongoing relevance of contemporary art in the public discourse.
 
-The museum’s role in the Stuttgart cultural landscape cannot be understated. It functions as an educational resource for schools, art students, and the general public, offering programs and workshops that aim to enhance understanding and appreciation of art. By facilitating access to contemporary art, the Kunstmuseum Stuttgart encourages visitors to engage with complex themes and ideas, making the arts more accessible to a wide audience.
+The museum's role in the Stuttgart cultural landscape cannot be understated. It functions as an educational resource for schools, art students, and the general public, offering programs and workshops that aim to enhance understanding and appreciation of art. By facilitating access to contemporary art, the Kunstmuseum Stuttgart encourages visitors to engage with complex themes and ideas, making the arts more accessible to a wide audience.
 
 ## Architecture and Features
 
@@ -78,11 +78,11 @@ While visiting Kunstmuseum Stuttgart, there are several nearby attractions worth
 
 To enhance your visit to Kunstmuseum Stuttgart, consider these insider tips:
 
-- **Photography**: While photography is generally allowed in many exhibitions, it’s wise to check specific guidelines upon entry. Some artworks may have restrictions, so pay attention to signage.
+- **Photography**: While photography is generally allowed in many exhibitions, it's wise to check specific guidelines upon entry. Some artworks may have restrictions, so pay attention to signage.
 
 - **Crowd Avoidance**: For a more relaxed experience, aim to visit during the week or early in the day. This strategy can help you enjoy the artworks without the hustle and bustle of larger weekend crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about current exhibitions or recommendations for specific artists. Their insights can enrich your understanding and appreciation of the artworks.
+- **Engage with Staff**: Don't hesitate to ask museum staff about current exhibitions or recommendations for specific artists. Their insights can enrich your understanding and appreciation of the artworks.
 
 ## Practical Information
 

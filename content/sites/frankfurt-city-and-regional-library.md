@@ -44,7 +44,7 @@ The architectural style of the Frankfurt City and Regional Library reflects func
 
 Inside, visitors can expect to find a diverse collection of books, periodicals, and digital resources. The library likely features areas designated for children, quiet study spaces, and community meeting rooms. These spaces are integral to the library's role as a communal hub, offering residents and visitors alike a welcoming environment.
 
-In addition to its reading materials, the library may also house special collections or archives that reflect the local culture and history of Frankfurt (Oder). These resources can be invaluable for researchers, historians, and anyone interested in the region’s heritage.
+In addition to its reading materials, the library may also house special collections or archives that reflect the local culture and history of Frankfurt (Oder). These resources can be invaluable for researchers, historians, and anyone interested in the region's heritage.
 
 ## Visiting Information
 
@@ -52,14 +52,14 @@ To visit the Frankfurt City and Regional Library, it is advisable to check the o
 
 For an enriching experience, consider visiting during weekdays when the library is likely to be less crowded. This allows for quieter exploration of the resources available and the opportunity to engage with staff or volunteers who can provide insights into the library's offerings. 
 
-Expect a variety of programming available throughout the year, so checking the library’s calendar on its official website can help maximize your visit. 
+Expect a variety of programming available throughout the year, so checking the library's calendar on its official website can help maximize your visit. 
 
 ## Nearby Attractions
 
 The Frankfurt City and Regional Library is situated in a region rich in cultural and historical attractions. Nearby places of interest include:
 
 1. **St. Mary's Church** - A historic church known for its stunning architecture and significance in local history.
-2. **Frankfurt (Oder) Town Hall** - An architectural landmark that showcases the city’s administrative history.
+2. **Frankfurt (Oder) Town Hall** - An architectural landmark that showcases the city's administrative history.
 3. **Museum Viadrina** - A cultural institution dedicated to the history and heritage of the region, often featuring exhibitions and events.
 4. **Oder Park** - A beautiful green space perfect for leisurely walks, picnics, and enjoying the outdoors.
 5. **Frankfurt (Oder) Old Town** - A charming area filled with shops, cafes, and historical buildings, ideal for a stroll after visiting the library.
@@ -70,7 +70,7 @@ To make the most of your visit to the Frankfurt City and Regional Library, consi
 
 - **Photography**: While photography might be allowed in certain areas, it's best to check with the staff to ensure compliance with any policies.
 - **Crowd Avoidance**: Weekdays are generally less crowded than weekends, making them a better choice for a peaceful visit.
-- **Engagement**: Don’t hesitate to ask the library staff about upcoming events or workshops that might coincide with your visit, enhancing your experience further.
+- **Engagement**: Don't hesitate to ask the library staff about upcoming events or workshops that might coincide with your visit, enhancing your experience further.
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ The library is designed to be accessible; check the official website for detaile
 Check the official website for information on membership and borrowing policies, including any online options.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms are typically available, but it’s best to check the official website for specific amenities.
+Facilities like restrooms are typically available, but it's best to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably, especially if you plan to spend a lot of time exploring the library or surrounding attractions.

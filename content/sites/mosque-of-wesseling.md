@@ -3,7 +3,7 @@ title: "Mosque of Wesseling"
 site_name: "Mosque of Wesseling"
 date: 2026-01-26
 draft: false
-description: "The Mosque of Wesseling serves as a spiritual and cultural hub in the heart of Germany, reflecting the diverse tapestry of the country’s religious landscape."
+description: "The Mosque of Wesseling serves as a spiritual and cultural hub in the heart of Germany, reflecting the diverse tapestry of the country's religious landscape."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Mosque"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mosque of Wesseling serves as a spiritual and cultural hub in the heart of Germany, reflecting the diverse tapestry of the country’s religious landscape. Located in Wesseling, a town that bridges the Rhine River and the urban vibrancy of nearby cities, this mosque is more than just a place of worship; it is a symbol of community and cultural exchange. The significance of the Mosque of Wesseling extends beyond its architectural design, representing the growing multicultural fabric of contemporary Germany.
+The Mosque of Wesseling serves as a spiritual and cultural hub in the heart of Germany, reflecting the diverse tapestry of the country's religious landscape. Located in Wesseling, a town that bridges the Rhine River and the urban vibrancy of nearby cities, this mosque is more than just a place of worship; it is a symbol of community and cultural exchange. The significance of the Mosque of Wesseling extends beyond its architectural design, representing the growing multicultural fabric of contemporary Germany.
 
 As visitors approach the mosque, they are greeted by an environment that emphasizes inclusivity and respect for different faiths. This site invites individuals from various backgrounds to come together in contemplation and dialogue, making it an essential stop for those interested in understanding the cultural dynamics of the region. Whether you are a local resident or a traveler seeking knowledge, the Mosque of Wesseling promises an enriching experience, fostering connections through shared values and respect for diversity.
 

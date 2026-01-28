@@ -50,7 +50,7 @@ As an art museum, the Neuer Aachener Kunstverein also likely includes facilities
 
 Visiting the Neuer Aachener Kunstverein is an enriching experience for those interested in contemporary art. To make the most of your visit, it's essential to check the official website for current information on opening hours and ticket prices. The museum may offer various admission options, including discounts for students or group visits.
 
-In terms of transport, the museum's location in Aachen makes it accessible by various means. Public transportation options, including buses and trams, are available for those traveling from different parts of the city or surrounding areas. For visitors driving, parking facilities may be nearby, but it’s advisable to confirm this through the official website or local resources.
+In terms of transport, the museum's location in Aachen makes it accessible by various means. Public transportation options, including buses and trams, are available for those traveling from different parts of the city or surrounding areas. For visitors driving, parking facilities may be nearby, but it's advisable to confirm this through the official website or local resources.
 
 When planning your visit, consider allocating a few hours to fully appreciate the exhibitions and any associated programs. The museum may host temporary exhibitions that change frequently, so returning visitors may discover something new each time. The best times to visit are likely during weekdays when the museum may be less crowded, providing a more intimate experience with the art on display.
 
@@ -89,7 +89,7 @@ It is recommended to spend at least two to three hours at the Neuer Aachener Kun
 Photography policies can vary by exhibition. Check with the museum staff or signage upon entry to confirm the rules regarding photography.
 
 ### Are there guided tours?
-Guided tours may be offered at the Neuer Aachener Kunstverein. It’s advisable to check the official website for details on availability and scheduling.
+Guided tours may be offered at the Neuer Aachener Kunstverein. It's advisable to check the official website for details on availability and scheduling.
 
 ### What's the best time to visit?
 The best time to visit is typically during weekdays when the museum may be less crowded, allowing for a more personal experience with the artwork.

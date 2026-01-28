@@ -66,7 +66,7 @@ In addition to the church, there may be local cafés or shops nearby where you c
 
 3. **The Berlin-Dahlem Botanical Garden**: A beautiful garden featuring diverse plant species, perfect for a leisurely stroll and a peaceful retreat from the urban environment.
 
-4. **Allied Museum**: Located not far from Salvator, this museum offers insights into the history of the Cold War and the Allied presence in Berlin, enriching your understanding of the city’s past.
+4. **Allied Museum**: Located not far from Salvator, this museum offers insights into the history of the Cold War and the Allied presence in Berlin, enriching your understanding of the city's past.
 
 5. **Zehlendorf Village**: A picturesque area with historical buildings and vibrant community life, great for those looking to explore more of Berlin's local neighborhoods.
 
@@ -78,7 +78,7 @@ If you wish to engage more deeply with the history of the church, inquire locall
 
 ## Practical Information
 
-When visiting Salvator, it’s advisable to bring a small bag for personal belongings, as well as a camera for photography. Dress comfortably, keeping in mind that some areas may require modest attire due to the religious nature of the site. 
+When visiting Salvator, it's advisable to bring a small bag for personal belongings, as well as a camera for photography. Dress comfortably, keeping in mind that some areas may require modest attire due to the religious nature of the site. 
 
 Seasonal considerations are important; during colder months, ensure you wear appropriate clothing, as the church may not have heating. Conversely, summer visits may offer a more pleasant outdoor experience, allowing you to enjoy the surrounding area.
 

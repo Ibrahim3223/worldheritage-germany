@@ -68,7 +68,7 @@ While visiting the Stadtgeschichtliches Museum im Alten Gymnasium, there are sev
 
 When visiting the Stadtgeschichtliches Museum im Alten Gymnasium, consider these insider tips to enhance your experience:
 
-- **Photography**: While photography policies can vary, it’s always a good idea to check for any restrictions on taking photos inside the museum. Some exhibits may allow it, while others may not.
+- **Photography**: While photography policies can vary, it's always a good idea to check for any restrictions on taking photos inside the museum. Some exhibits may allow it, while others may not.
   
 - **Crowd Avoidance**: To fully appreciate the museum without the hustle and bustle, try to visit during weekdays or during off-peak hours. Early mornings or late afternoons can often be quieter.
 

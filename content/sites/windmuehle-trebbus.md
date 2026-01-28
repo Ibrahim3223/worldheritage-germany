@@ -38,7 +38,7 @@ The Windmühle Trebbus is characterized by its traditional bockwindmühle design
 
 Notable features of the Windmühle Trebbus include its large sails, which were designed to harness wind power effectively. The design allows for easy rotation of the mill to face changing wind directions, a crucial aspect of its operational efficiency. Visitors can observe the intricate mechanisms that were once used to convert wind energy into mechanical energy for milling grain.
 
-While details on specific materials and dimensions are not available, the overall design reflects the architectural practices of the time. The windmill’s exterior is likely characterized by a weathered wooden façade, a testament to its enduring presence in the landscape. Inside, one can expect to find remnants of milling equipment and possibly displays that educate visitors about the windmill's operation and the history of milling in the region.
+While details on specific materials and dimensions are not available, the overall design reflects the architectural practices of the time. The windmill's exterior is likely characterized by a weathered wooden façade, a testament to its enduring presence in the landscape. Inside, one can expect to find remnants of milling equipment and possibly displays that educate visitors about the windmill's operation and the history of milling in the region.
 
 ## Visiting Information
 

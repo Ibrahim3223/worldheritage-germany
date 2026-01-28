@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Neublankenheim is a captivating castle located in the heart of Üxheim, Germany. This historic site offers visitors a glimpse into the architectural and cultural heritage of the region, making it an essential stop for history enthusiasts and casual travelers alike. The castle, with its storied past, stands as a silent witness to the evolution of the area and provides an intriguing backdrop for exploration.
 
-The castle’s strategic location in the picturesque landscape of Germany adds to its allure, making it not only a site of historical significance but also a point of interest for those looking to immerse themselves in the natural beauty surrounding it. Visitors can expect to uncover the layers of history embedded within its walls, experiencing the essence of medieval architecture while enjoying the tranquility of the surrounding environment. As you delve into the past of Burg Neublankenheim, you will find both a sense of peace and a connection to the legacy of those who once inhabited this remarkable structure.
+The castle's strategic location in the picturesque landscape of Germany adds to its allure, making it not only a site of historical significance but also a point of interest for those looking to immerse themselves in the natural beauty surrounding it. Visitors can expect to uncover the layers of history embedded within its walls, experiencing the essence of medieval architecture while enjoying the tranquility of the surrounding environment. As you delve into the past of Burg Neublankenheim, you will find both a sense of peace and a connection to the legacy of those who once inhabited this remarkable structure.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ While exploring the area around Burg Neublankenheim, visitors can discover sever
    
 2. **Waldmuseum Üxheim**: This local museum showcases the natural history and cultural heritage of the surrounding area, providing a broader context for visitors.
 
-3. **St. John’s Church**: An interesting historical site, this church reflects the architectural styles and religious history of the region.
+3. **St. John's Church**: An interesting historical site, this church reflects the architectural styles and religious history of the region.
 
 4. **Vulkaneifel Nature Park**: For those interested in the natural environment, this park provides opportunities for hiking and enjoying the scenic beauty of the volcanic landscape.
 

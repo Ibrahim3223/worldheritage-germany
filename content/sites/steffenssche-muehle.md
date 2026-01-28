@@ -36,7 +36,7 @@ The history of Steffenssche Mühle is deeply intertwined with the agricultural p
 
 The significance of Steffenssche Mühle extends beyond its functional role. As a cultural landmark, it reflects the technological advancements of its time and the evolving relationship between communities and their environment. The preservation of such windmills contributes to the cultural identity of the area, fostering a sense of pride among locals and providing educational opportunities for visitors. The mill has likely seen various phases of restoration and use, indicative of the ongoing interest in maintaining such historical sites.
 
-In addition, Steffenssche Mühle symbolizes the broader narrative of renewable energy—a topic that resonates with contemporary discussions on sustainability. As societies strive to reduce their carbon footprints, the historical use of wind power in milling serves as an early example of harnessing natural energy sources, making it relevant in today’s dialogue about energy practices.
+In addition, Steffenssche Mühle symbolizes the broader narrative of renewable energy—a topic that resonates with contemporary discussions on sustainability. As societies strive to reduce their carbon footprints, the historical use of wind power in milling serves as an early example of harnessing natural energy sources, making it relevant in today's dialogue about energy practices.
 
 ## Architecture and Features
 
@@ -96,7 +96,7 @@ When visiting Steffenssche Mühle, it's advisable to bring along some essentials
 Visitors typically spend between one to two hours at Steffenssche Mühle, allowing ample time to explore the site and learn about its history.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, so don’t forget your camera to capture the unique features of the windmill.
+Yes, photography is generally permitted, so don't forget your camera to capture the unique features of the windmill.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may enhance your understanding of the windmill's history and operation.

@@ -32,7 +32,7 @@ The museum's extensive collection and rotating exhibitions provide a deep dive i
 
 ## History and Significance 
 
-Haus der Kunst has a complex history that reflects the cultural shifts in Germany over the decades. Originally constructed as a pavilion for the 1937 Great German Art Exhibition, its inception was tied to the ideologies of the time. The museum was designed to showcase Nazi-approved art, but it later transitioned into a venue for a broader spectrum of artistic expression. This evolution highlights the institution’s ability to adapt and respond to the changing cultural landscape of Germany.
+Haus der Kunst has a complex history that reflects the cultural shifts in Germany over the decades. Originally constructed as a pavilion for the 1937 Great German Art Exhibition, its inception was tied to the ideologies of the time. The museum was designed to showcase Nazi-approved art, but it later transitioned into a venue for a broader spectrum of artistic expression. This evolution highlights the institution's ability to adapt and respond to the changing cultural landscape of Germany.
 
 Throughout its history, Haus der Kunst has played a pivotal role in the promotion of contemporary art. It has served as a platform for significant artistic movements and has hosted numerous influential exhibitions. The museum's programming often emphasizes the intersection of art with social, political, and environmental issues, encouraging visitors to engage critically with the works on display.
 
@@ -44,7 +44,7 @@ The architectural design of Haus der Kunst is both striking and functional. The 
 
 Inside, the museum is designed to accommodate a variety of exhibitions and events. The layout includes multiple galleries of varying sizes, allowing for both large-scale installations and intimate displays. The flexibility of the exhibition spaces is a key feature, enabling the museum to host a diverse range of artistic expressions and presentations.
 
-Notably, the museum’s design also incorporates natural light, enhancing the viewing experience. The interplay of light and space in the galleries creates an inviting atmosphere for contemplation and appreciation of the artworks. The architectural integrity of Haus der Kunst not only serves its function as an art museum but also contributes to the overall experience of visitors.
+Notably, the museum's design also incorporates natural light, enhancing the viewing experience. The interplay of light and space in the galleries creates an inviting atmosphere for contemplation and appreciation of the artworks. The architectural integrity of Haus der Kunst not only serves its function as an art museum but also contributes to the overall experience of visitors.
 
 ## Visiting Information 
 
@@ -59,7 +59,7 @@ Expect a diverse array of exhibitions that change regularly, showcasing both est
 While exploring Haus der Kunst, consider visiting these nearby attractions to enrich your cultural experience in Munich:
 
 1. **Englischer Garten**: One of the largest urban parks in the world, perfect for a leisurely stroll or a picnic.
-2. **Bavarian National Museum**: A museum dedicated to art and cultural history, offering insights into Bavaria’s heritage.
+2. **Bavarian National Museum**: A museum dedicated to art and cultural history, offering insights into Bavaria's heritage.
 3. **Munich Residenz**: The former royal palace of the Bavarian monarchs, showcasing opulent architecture and art collections.
 4. **Pinakothek der Moderne**: A premier modern art museum featuring a vast collection of 20th-century art.
 5. **Viktualienmarkt**: A famous food market where you can experience local delicacies and vibrant market culture.
@@ -72,7 +72,7 @@ Additionally, consider joining a guided tour if available, as this can provide d
 
 ## Practical Information 
 
-When visiting Haus der Kunst, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you will likely spend several hours exploring the galleries. Depending on the season, layering your clothing can help you adapt to varying temperatures inside the museum.
+When visiting Haus der Kunst, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you will likely spend several hours exploring the galleries. Depending on the season, layering your clothing can help you adapt to varying temperatures inside the museum.
 
 Check the official website for information on seasonal exhibitions, as special events may influence your visit. Additionally, consider bringing a reusable water bottle to stay hydrated during your exploration.
 

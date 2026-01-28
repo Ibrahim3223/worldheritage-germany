@@ -36,7 +36,7 @@ Visitors to Linderhof are greeted by a harmonious blend of natural beauty and hu
 
 Linderhof Palace has a rich history closely tied to the enigmatic figure of King Ludwig II, often referred to as the "Swan King." Ludwig, who ascended to the throne in 1864, was known for his fascination with mythology, art, and nature. He envisioned Linderhof as a personal retreat where he could escape the pressures of royal life and indulge in his creative pursuits. The palace was constructed in the latter part of his reign and reflects his romantic ideals.
 
-The palace itself was inspired by the grandeur of the French palaces, particularly the Palace of Versailles, but it also incorporates elements of Bavarian architecture. Ludwig’s intention was to create a space that embodied his artistic sensibilities while also allowing him to immerse himself in nature. The gardens, designed with meticulous attention to detail, are as much a part of the palace's allure as the building itself.
+The palace itself was inspired by the grandeur of the French palaces, particularly the Palace of Versailles, but it also incorporates elements of Bavarian architecture. Ludwig's intention was to create a space that embodied his artistic sensibilities while also allowing him to immerse himself in nature. The gardens, designed with meticulous attention to detail, are as much a part of the palace's allure as the building itself.
 
 Linderhof served not only as a residence but also as a stage for the king's elaborate fantasies. The palace is adorned with opulent interiors, featuring intricate woodwork, lavish furnishings, and stunning artworks that showcase the craftsmanship of the period. Each room tells a story, reflecting Ludwig's eclectic tastes and his desire to create a world reminiscent of the fairy tales he cherished.
 
@@ -68,7 +68,7 @@ While Linderhof Palace is an enchanting destination in its own right, several ne
 
 1. **Ettal Abbey**: Just a short distance from Linderhof, Ettal Abbey is a stunning Benedictine monastery known for its impressive baroque architecture and beautiful frescoes. Visitors can explore the abbey's church and the adjacent brewery.
 
-2. **Neuschwanstein Castle**: A short drive away, this iconic castle, also commissioned by King Ludwig II, is famous for its fairy-tale appearance and dramatic mountain backdrop. A visit to Neuschwanstein offers insight into Ludwig’s vision and architectural ambitions.
+2. **Neuschwanstein Castle**: A short drive away, this iconic castle, also commissioned by King Ludwig II, is famous for its fairy-tale appearance and dramatic mountain backdrop. A visit to Neuschwanstein offers insight into Ludwig's vision and architectural ambitions.
 
 3. **Garmisch-Partenkirchen**: This charming town is known for its alpine beauty and outdoor activities. Visitors can enjoy hiking, skiing, or simply exploring the picturesque streets filled with shops and restaurants.
 

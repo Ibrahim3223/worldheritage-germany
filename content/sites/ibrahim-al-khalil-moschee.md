@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Ibrahim-al-Khalil-Moschee, located in the Tempelhof-Schöneberg district of Berlin, serves as an important Islamic place of worship and a cultural landmark within Germany's diverse religious landscape. As one of the key mosques in the city, it reflects the increasing presence of the Muslim community in Berlin, which has become a significant aspect of the city’s multicultural identity. This mosque not only provides a spiritual home for its congregation but also offers a space for dialogue and cultural exchange in a globalized world. 
+The Ibrahim-al-Khalil-Moschee, located in the Tempelhof-Schöneberg district of Berlin, serves as an important Islamic place of worship and a cultural landmark within Germany's diverse religious landscape. As one of the key mosques in the city, it reflects the increasing presence of the Muslim community in Berlin, which has become a significant aspect of the city's multicultural identity. This mosque not only provides a spiritual home for its congregation but also offers a space for dialogue and cultural exchange in a globalized world. 
 
 With its distinct architectural style and community engagement, the Ibrahim-al-Khalil-Moschee stands as a focal point for both local residents and visitors interested in understanding the cultural tapestry of Berlin. Whether you are drawn to its architectural beauty, its role in the community, or its significance in the broader context of Islamic heritage in Europe, a visit to the mosque promises to be a meaningful experience.
 
@@ -56,7 +56,7 @@ While visiting the Ibrahim-al-Khalil-Moschee, there are several nearby attractio
 
 2. **Käthe Kollwitz Museum**: Dedicated to the works of the renowned artist Käthe Kollwitz, this museum offers insight into her poignant art focusing on social issues and the human condition.
 
-3. **Schöneberg Town Hall**: A historic building that played a significant role in German history, particularly during the Weimar Republic. The town hall’s architecture is noteworthy and reflects the political history of Berlin.
+3. **Schöneberg Town Hall**: A historic building that played a significant role in German history, particularly during the Weimar Republic. The town hall's architecture is noteworthy and reflects the political history of Berlin.
 
 4. **Martin-Gropius-Bau**: An exhibition hall known for hosting a range of contemporary art exhibits, this venue adds a modern artistic dimension to your cultural itinerary.
 

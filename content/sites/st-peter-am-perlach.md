@@ -50,7 +50,7 @@ Overall, the architectural features and artistic details of St. Peter am Perlach
 
 ## Visiting Information
 
-When planning a visit to St. Peter am Perlach, it’s essential to consider the most efficient means of transport. Augsburg is well connected by public transportation, including buses and trams, making it accessible for those traveling from other cities or nearby towns. For visitors driving, parking options may be available in the vicinity, although checking local regulations is advisable.
+When planning a visit to St. Peter am Perlach, it's essential to consider the most efficient means of transport. Augsburg is well connected by public transportation, including buses and trams, making it accessible for those traveling from other cities or nearby towns. For visitors driving, parking options may be available in the vicinity, although checking local regulations is advisable.
 
 To learn about the most current visiting hours and any associated entry fees, it is recommended to check the official website before your visit. This will provide the latest information regarding accessibility and any special events or services that may be taking place during your stay.
 
@@ -64,7 +64,7 @@ While in Augsburg, several nearby attractions complement a visit to St. Peter am
 
 1. **Augsburg Cathedral (Augsburger Dom)**: This stunning cathedral is a short walk away and features a beautiful combination of Romanesque and Gothic architecture, along with remarkable stained glass.
 
-2. **Fuggerei**: Known as the world’s oldest social housing complex, the Fuggerei offers a glimpse into the philanthropic efforts of the Fugger family and the history of social welfare in Augsburg.
+2. **Fuggerei**: Known as the world's oldest social housing complex, the Fuggerei offers a glimpse into the philanthropic efforts of the Fugger family and the history of social welfare in Augsburg.
 
 3. **Augsburg Town Hall (Rathaus)**: An iconic symbol of the city's history, the Town Hall is renowned for its magnificent Golden Hall and the impressive façade that showcases Renaissance architecture.
 

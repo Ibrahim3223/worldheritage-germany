@@ -85,7 +85,7 @@ A visit to the Kehrwiederturm typically takes around one to two hours, allowing 
 Photography is generally permitted, but it is advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Information about guided tours may vary, so it’s best to consult the official website for details regarding availability.
+Information about guided tours may vary, so it's best to consult the official website for details regarding availability.
 
 ### What's the best time to visit?
 The best time to visit is during the milder seasons, typically spring and autumn, when the weather is most favorable for exploration.

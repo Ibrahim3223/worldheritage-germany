@@ -34,9 +34,9 @@ The significance of St. Mary's Church extends beyond its physical structure; it 
 
 While specific dates regarding the establishment of St. Mary's Church are not provided, the church's presence in Grundhof speaks volumes about the region's historical and cultural evolution. Churches in this area have typically served as central hubs for community life, reflecting the traditions and values of the people over generations. The architectural style and design elements of St. Mary's Church reveal influences that may date back to earlier periods of German ecclesiastical architecture.
 
-Culturally, St. Mary's Church holds significance as a gathering place for local events and religious ceremonies. It stands as a symbol of faith for the residents of Grundhof, offering a space for worship and reflection throughout the year. The church’s role in the community is further emphasized by its potential involvement in local festivals and celebrations, where the church transforms into a backdrop for significant cultural expressions.
+Culturally, St. Mary's Church holds significance as a gathering place for local events and religious ceremonies. It stands as a symbol of faith for the residents of Grundhof, offering a space for worship and reflection throughout the year. The church's role in the community is further emphasized by its potential involvement in local festivals and celebrations, where the church transforms into a backdrop for significant cultural expressions.
 
-The church’s historical relevance is amplified by its connection to the broader narrative of Schleswig-Holstein, a region known for its rich tapestry of cultural influences stemming from both German and Danish histories. Although specific historical milestones may not be highlighted, the significance of St. Mary's Church remains evident in its role as a spiritual and cultural landmark.
+The church's historical relevance is amplified by its connection to the broader narrative of Schleswig-Holstein, a region known for its rich tapestry of cultural influences stemming from both German and Danish histories. Although specific historical milestones may not be highlighted, the significance of St. Mary's Church remains evident in its role as a spiritual and cultural landmark.
 
 ## Architecture and Features
 

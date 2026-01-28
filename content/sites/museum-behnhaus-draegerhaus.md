@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Museum Behnhaus Drägerhaus, located in the heart of Lübeck's Old City, is a captivating destination for art enthusiasts and history buffs alike. This art museum showcases a diverse collection that reflects the rich cultural heritage of the region. Visitors can expect to explore a variety of artistic styles and movements, from classical to contemporary, all housed within a historical setting that enhances the overall experience. As one of Lübeck’s prominent cultural institutions, the museum not only highlights the artistry of its exhibits but also serves as a window into the city’s vibrant past.
+Museum Behnhaus Drägerhaus, located in the heart of Lübeck's Old City, is a captivating destination for art enthusiasts and history buffs alike. This art museum showcases a diverse collection that reflects the rich cultural heritage of the region. Visitors can expect to explore a variety of artistic styles and movements, from classical to contemporary, all housed within a historical setting that enhances the overall experience. As one of Lübeck's prominent cultural institutions, the museum not only highlights the artistry of its exhibits but also serves as a window into the city's vibrant past.
 
 Lübeck, known for its well-preserved medieval architecture, was once the leading city of the Hanseatic League, a powerful trading network in Northern Europe. The museum's location within this UNESCO World Heritage site adds to its significance, inviting exploration of both its artistic and historical contexts. The experience promises to be enriching, providing insight into the broader narrative of art and culture in Lübeck and beyond.
 
 ## History and Significance
 
-The Museum Behnhaus Drägerhaus occupies two historic buildings that have their own stories to tell. The museum's origins can be traced back to the late 19th century when the Behn family, prominent art collectors, established their residence and collection in Lübeck. Over the years, the museum has evolved to become a key player in the preservation and exhibition of art in the region. The museum’s mission includes not only showcasing art but also fostering an appreciation for cultural heritage.
+The Museum Behnhaus Drägerhaus occupies two historic buildings that have their own stories to tell. The museum's origins can be traced back to the late 19th century when the Behn family, prominent art collectors, established their residence and collection in Lübeck. Over the years, the museum has evolved to become a key player in the preservation and exhibition of art in the region. The museum's mission includes not only showcasing art but also fostering an appreciation for cultural heritage.
 
-The museum’s collection features notable works from various periods, including pieces from the Romantic period and the 19th century, reflecting the artistic movements that have influenced German art. The emphasis on regional artists is evident, with many pieces highlighting the local talent and the ways in which Lübeck has contributed to the broader European art scene. 
+The museum's collection features notable works from various periods, including pieces from the Romantic period and the 19th century, reflecting the artistic movements that have influenced German art. The emphasis on regional artists is evident, with many pieces highlighting the local talent and the ways in which Lübeck has contributed to the broader European art scene. 
 
 In addition to its permanent collection, the museum regularly hosts temporary exhibitions, lectures, and workshops, making it a dynamic space for cultural exchange and artistic exploration. This commitment to engaging the community and promoting dialogue around art is a fundamental aspect of the museum's significance.
 
@@ -70,13 +70,13 @@ Lübeck is renowned for its rich history and architectural beauty, making it a p
 
 ## Insider Tips
 
-For photography enthusiasts, the museum provides several opportunities for capturing memorable moments. While photography policies may vary, it’s often best to check in advance or inquire upon arrival. Early mornings or late afternoons tend to be quieter, allowing for fewer distractions while taking photos.
+For photography enthusiasts, the museum provides several opportunities for capturing memorable moments. While photography policies may vary, it's often best to check in advance or inquire upon arrival. Early mornings or late afternoons tend to be quieter, allowing for fewer distractions while taking photos.
 
 To avoid crowds, consider visiting during weekdays rather than weekends, especially if a special exhibition is on display. This will enhance your experience as you can enjoy the artworks at a leisurely pace.
 
 ## Practical Information
 
-When planning your visit to Museum Behnhaus Drägerhaus, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as exploring the museum and its nearby attractions may involve considerable walking. 
+When planning your visit to Museum Behnhaus Drägerhaus, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as exploring the museum and its nearby attractions may involve considerable walking. 
 
 Seasonal considerations are also important; check the weather forecast before your visit to dress appropriately, especially if you plan to explore Lübeck's outdoor attractions. 
 

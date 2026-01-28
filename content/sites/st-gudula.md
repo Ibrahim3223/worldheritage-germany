@@ -56,7 +56,7 @@ Transportation to St. Gudula is convenient, with various options available for r
 
 When planning your visit, consider setting aside sufficient time to fully appreciate the church. A visit can range from a brief stop to an extended period of exploration, depending on your interests. Engaging with the surroundings and taking time for reflection can enhance your experience.
 
-The best times to visit may vary based on personal preference. Early mornings or weekdays tend to be quieter, allowing for a more introspective experience. Additionally, attending a service or community event can provide a deeper understanding of the church’s role within the community.
+The best times to visit may vary based on personal preference. Early mornings or weekdays tend to be quieter, allowing for a more introspective experience. Additionally, attending a service or community event can provide a deeper understanding of the church's role within the community.
 
 ## Nearby Attractions
 
@@ -80,7 +80,7 @@ To avoid crowds, aim for visits on weekdays or during off-peak seasons. This wil
 
 ## Practical Information
 
-When preparing for your visit to St. Gudula, consider bringing along any essentials such as a camera for photography, a notebook for reflection, and comfortable walking shoes. The church may have specific guidelines regarding photography, so it’s a good idea to familiarize yourself with these prior to your visit.
+When preparing for your visit to St. Gudula, consider bringing along any essentials such as a camera for photography, a notebook for reflection, and comfortable walking shoes. The church may have specific guidelines regarding photography, so it's a good idea to familiarize yourself with these prior to your visit.
 
 Seasonal considerations also play a role in your experience. Depending on the time of year, weather can impact your visit. Spring and fall typically offer mild temperatures, making for pleasant exploration. Each season brings its unique charm to the church and its surroundings, enhancing the overall experience.
 

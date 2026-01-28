@@ -24,7 +24,7 @@ The Torhaus Waldkrankenhaus, an intriguing gatehouse located in Fürth, Bavaria,
 
 As you approach the Torhaus Waldkrankenhaus, you are greeted by a façade that reflects the craftsmanship and design sensibilities of its time. Visitors are often drawn to its historical backdrop, which not only highlights its architectural features but also offers insights into the socio-political circumstances that shaped its existence. The gatehouse stands as a reminder of the intricate relationship between built heritage and the communities that have evolved around it.
 
-Exploring this monument provides an enriching experience, inviting visitors to delve deeper into Bavaria’s cultural history and the evolution of its urban landscapes.
+Exploring this monument provides an enriching experience, inviting visitors to delve deeper into Bavaria's cultural history and the evolution of its urban landscapes.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Additionally, the layout of the gatehouse may include functional spaces that hin
 
 ## Visiting Information
 
-Visiting the Torhaus Waldkrankenhaus provides a unique opportunity to engage with Bavaria’s architectural heritage. To reach the gatehouse, travelers can utilize various modes of transportation available in Fürth, including public transit options. Upon arrival, visitors can expect a well-preserved structure that invites exploration and appreciation.
+Visiting the Torhaus Waldkrankenhaus provides a unique opportunity to engage with Bavaria's architectural heritage. To reach the gatehouse, travelers can utilize various modes of transportation available in Fürth, including public transit options. Upon arrival, visitors can expect a well-preserved structure that invites exploration and appreciation.
 
 For current information regarding opening hours and ticket prices, check the official website. It is advisable to allocate sufficient time to absorb the historical context and architectural details of the gatehouse. A visit typically requires about an hour, allowing for a leisurely exploration of the area.
 

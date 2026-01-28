@@ -58,7 +58,7 @@ The best times to visit Staffelsee are during the warmer months, particularly la
 
 1. **Garmisch-Partenkirchen**: This nearby town is famous for its stunning alpine scenery and outdoor activities, including skiing in winter and hiking in summer. It is also rich in cultural experiences, featuring traditional Bavarian events and festivals.
 
-2. **Zugspitze**: As Germany's highest peak, Zugspitze offers breathtaking mountain views, hiking trails, and a cable car that takes visitors to the summit for panoramic vistas. It’s a must-visit for those who enjoy alpine adventures.
+2. **Zugspitze**: As Germany's highest peak, Zugspitze offers breathtaking mountain views, hiking trails, and a cable car that takes visitors to the summit for panoramic vistas. It's a must-visit for those who enjoy alpine adventures.
 
 3. **Partnach Gorge**: Located a short distance from Staffelsee, this natural wonder features a stunning, narrow gorge carved by the Partnach River. Visitors can explore the trails that wind through the gorge, making it a fascinating spot for nature lovers.
 

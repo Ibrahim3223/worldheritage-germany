@@ -54,7 +54,7 @@ Check the official website for current information regarding opening hours and t
 
 The best times to visit the Memorium are during weekdays, as weekends may attract larger crowds. If possible, consider visiting during the shoulder seasons of spring or autumn, when the weather is pleasant, and tourist numbers are generally lower.
 
-Visitors can expect to encounter a well-organized space that guides them through the historical narrative effectively. The museum’s staff are knowledgeable and often available to answer questions, enhancing the overall experience.
+Visitors can expect to encounter a well-organized space that guides them through the historical narrative effectively. The museum's staff are knowledgeable and often available to answer questions, enhancing the overall experience.
 
 ## Nearby Attractions 
 
@@ -66,7 +66,7 @@ While the Memorium Nürnberger Prozesse is a significant destination in its own 
 
 3. **St. Lorenz Church**: A beautiful example of Gothic architecture that houses impressive artworks and is an important part of Nuremberg's religious heritage.
 
-4. **Albrecht Dürer’s House**: The former home of the famous painter and engraver, this museum showcases Dürer’s life and works, providing cultural insights into the Renaissance era.
+4. **Albrecht Dürer's House**: The former home of the famous painter and engraver, this museum showcases Dürer's life and works, providing cultural insights into the Renaissance era.
 
 5. **Nuremberg Old Town**: A charming area filled with medieval buildings, shops, and restaurants, perfect for a leisurely stroll after visiting the museum.
 
@@ -74,11 +74,11 @@ While the Memorium Nürnberger Prozesse is a significant destination in its own 
 
 To make the most of your visit to the Memorium Nürnberger Prozesse, consider these insider tips:
 
-- **Photography**: While photography might be allowed in certain areas, ensure to check specific guidelines to respect the museum’s rules. Capturing the essence of the exhibits can enhance your experience but be mindful of restrictions.
+- **Photography**: While photography might be allowed in certain areas, ensure to check specific guidelines to respect the museum's rules. Capturing the essence of the exhibits can enhance your experience but be mindful of restrictions.
 
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekday mornings or late afternoons. This will allow for a more intimate experience as you explore the museum.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their insights can provide valuable context and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their insights can provide valuable context and enhance your understanding of the exhibits.
 
 ## Practical Information 
 
@@ -96,7 +96,7 @@ When preparing for your visit to the Memorium Nürnberger Prozesse, consider the
 Visitors typically spend around two to three hours at the Memorium, allowing ample time to explore the exhibits and engage with the material.
 
 ### Is photography allowed?  
-Check the museum’s specific guidelines regarding photography, as restrictions may apply in certain areas.
+Check the museum's specific guidelines regarding photography, as restrictions may apply in certain areas.
 
 ### Are there guided tours?  
 Guided tours may be available, providing deeper insights into the exhibits. Check the official website for details about scheduling and availability.

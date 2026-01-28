@@ -84,7 +84,7 @@ To ensure a comfortable visit to Gartenweg 15, here are some practical considera
 A visit to Gartenweg 15 typically requires about 30 minutes to an hour, depending on any events or activities taking place.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s best to check for any signs or restrictions, especially during official events.
+Photography may be permitted, but it's best to check for any signs or restrictions, especially during official events.
 
 ### Are there guided tours?
 Guided tours may not be available, but local events could provide informal insights into the building's significance.
@@ -96,12 +96,12 @@ The best time to visit would be during local events or community gatherings, whi
 Accessibility details are not specified, so checking the official website for information regarding wheelchair access is recommended.
 
 ### Can I buy tickets online?
-Ticketing information is not provided; it’s best to check the official website for details regarding entry fees and ticket purchases.
+Ticketing information is not provided; it's best to check the official website for details regarding entry fees and ticket purchases.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available within or nearby the city hall; however, it’s advisable to check beforehand. Nearby cafes may offer refreshments.
+Restroom facilities may be available within or nearby the city hall; however, it's advisable to check beforehand. Nearby cafes may offer refreshments.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to explore the surrounding area.
 
-In conclusion, Gartenweg 15 serves as an important civic structure in Niedercunnersdorf, offering insights into local governance and community life. As you explore this city hall and its surroundings, you’ll gain a deeper appreciation for the cultural heritage of the Kottmar region.
+In conclusion, Gartenweg 15 serves as an important civic structure in Niedercunnersdorf, offering insights into local governance and community life. As you explore this city hall and its surroundings, you'll gain a deeper appreciation for the cultural heritage of the Kottmar region.

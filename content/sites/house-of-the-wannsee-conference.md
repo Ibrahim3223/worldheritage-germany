@@ -100,7 +100,7 @@ When visiting the House of the Wannsee Conference, keep in mind a few practical 
 Visitors typically spend between one to two hours exploring the museum, but history enthusiasts may want to allocate more time for a deeper engagement with the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check for specific rules upon arrival, especially in exhibition areas.
+Photography policies may vary, so it's advisable to check for specific rules upon arrival, especially in exhibition areas.
 
 ### Are there guided tours?
 Guided tours may be available, providing an in-depth understanding of the site's history and significance. Check the official website for details.

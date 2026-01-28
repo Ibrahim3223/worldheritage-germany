@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Mainau, an enchanting island park located in the Constance region of Germany, offers visitors a harmonious blend of nature and cultural allure. This inland island, celebrated for its lush gardens and serene landscapes, provides a unique escape from the hustle and bustle of everyday life. As you explore its winding paths and vibrant flora, you’ll find a sanctuary that showcases the splendor of botanical diversity amid picturesque surroundings. 
+Mainau, an enchanting island park located in the Constance region of Germany, offers visitors a harmonious blend of nature and cultural allure. This inland island, celebrated for its lush gardens and serene landscapes, provides a unique escape from the hustle and bustle of everyday life. As you explore its winding paths and vibrant flora, you'll find a sanctuary that showcases the splendor of botanical diversity amid picturesque surroundings. 
 
 The island's significance extends beyond its aesthetic charm; it plays a vital role in the environmental and cultural heritage of the area. Mainau is a haven for plant enthusiasts, families, and those seeking tranquility, making it an exceptional destination for both leisure and education. The park's design encourages exploration, inviting visitors to immerse themselves in the beauty of nature while discovering the artistry of garden planning.
 
@@ -86,7 +86,7 @@ Most visitors find that spending at least three to four hours allows ample time 
 Yes, photography is generally permitted throughout the park, but be respectful of other visitors and specific areas that may have restrictions.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which can provide deeper insights into the park’s history and botanical features.
+Check the official website for information regarding guided tours, which can provide deeper insights into the park's history and botanical features.
 
 ### What's the best time to visit?
 The best times to visit are during the blooming seasons in spring and summer, although autumn can also be beautiful for foliage.

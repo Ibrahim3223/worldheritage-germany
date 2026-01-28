@@ -36,13 +36,13 @@ The history of Körnerpark is intertwined with the cultural evolution of Berlin 
 
 The park is particularly significant as a cultural space within Neukölln, an area known for its diverse community and artistic endeavors. The landscape design of Körnerpark incorporates various elements that celebrate both nature and artistic expression. Throughout the years, the park has served as a venue for events, exhibitions, and community gatherings, facilitating connections between residents and fostering a sense of belonging.
 
-The design of Körnerpark emphasizes harmony between built structures and natural landscapes. This approach not only enhances the aesthetic appeal of the space but also encourages an appreciation for both art and nature among visitors. The park’s commitment to maintaining green spaces amid urbanization reflects broader themes in Berlin's history, including the importance of sustainability and community spaces in modern city life.
+The design of Körnerpark emphasizes harmony between built structures and natural landscapes. This approach not only enhances the aesthetic appeal of the space but also encourages an appreciation for both art and nature among visitors. The park's commitment to maintaining green spaces amid urbanization reflects broader themes in Berlin's history, including the importance of sustainability and community spaces in modern city life.
 
 ## Architecture and Features
 
 Körnerpark is characterized by its thoughtful landscaping and architectural elements that create a harmonious environment. As you enter the park, you are greeted by a blend of natural beauty and artistic installations. The design integrates pathways, water features, and lush greenery, inviting visitors to explore its many facets.
 
-One of the park's notable features is its carefully curated garden areas, which showcase a variety of plants and flowers that change with the seasons. These vibrant displays contribute to the park’s charm and offer visitors a chance to connect with nature. The pathways meander through the park, encouraging leisurely strolls while providing vantage points to appreciate the surrounding scenery.
+One of the park's notable features is its carefully curated garden areas, which showcase a variety of plants and flowers that change with the seasons. These vibrant displays contribute to the park's charm and offer visitors a chance to connect with nature. The pathways meander through the park, encouraging leisurely strolls while providing vantage points to appreciate the surrounding scenery.
 
 In addition to its natural elements, Körnerpark is home to artistic interventions that enhance its cultural significance. Sculptures and installations are strategically placed throughout the park, creating a dialogue between art and the environment. These features not only serve as focal points for visitors but also invite contemplation and reflection.
 

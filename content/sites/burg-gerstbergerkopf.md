@@ -97,13 +97,13 @@ Information about guided tours may vary; check the official website for current 
 The best times to visit are during the spring and autumn months when the weather is mild and pleasant.
 
 ### Is it wheelchair accessible?
-Some areas of the castle may not be wheelchair accessible, so it’s advisable to check the official website for specific details on accessibility.
+Some areas of the castle may not be wheelchair accessible, so it's advisable to check the official website for specific details on accessibility.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchases and availability.
 
 ### Are there restrooms and cafes?
-While specific amenities are not detailed, it’s best to check with the official website for information about facilities available on-site.
+While specific amenities are not detailed, it's best to check with the official website for information about facilities available on-site.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to explore the surrounding areas. Dress in layers to accommodate changing weather conditions. 

@@ -40,7 +40,7 @@ Through its long history, Burg Gemen has witnessed significant events and change
 
 ## Architecture and Features
 
-Burg Gemen showcases a classic medieval castle design, characterized by its imposing stone walls and defensive features. The castle's architecture is reflective of the styles prevalent during its era, with sturdy towers and a robust layout that once provided security to its inhabitants. The strategic placement of towers not only enhances the castle’s defensive capabilities but also offers a commanding view of the surrounding landscape.
+Burg Gemen showcases a classic medieval castle design, characterized by its imposing stone walls and defensive features. The castle's architecture is reflective of the styles prevalent during its era, with sturdy towers and a robust layout that once provided security to its inhabitants. The strategic placement of towers not only enhances the castle's defensive capabilities but also offers a commanding view of the surrounding landscape.
 
 The entrance to the castle is marked by a formidable gate, which was historically designed to deter intruders. Inside, the layout typically includes various chambers that would have served multiple purposes, ranging from living quarters to spaces for governance and storage. Although specific details about the castle's interior are not available, one can expect that the design reflects the practical needs of its historical residents.
 

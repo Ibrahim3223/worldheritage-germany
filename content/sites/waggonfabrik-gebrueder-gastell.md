@@ -32,7 +32,7 @@ Situated at the coordinates 50.0161, 8.23417, Waggonfabrik Gebrüder Gastell is 
 
 ## History and Significance
 
-The history of Waggonfabrik Gebrüder Gastell is intertwined with the evolution of the railway system in Germany. Established as a factory dedicated to the production of rolling stock, it contributed to the burgeoning railway networks that emerged in the 19th and 20th centuries. The factory’s output, which included various types of railway carriages, helped meet the growing demand for efficient transportation solutions during a time of industrial expansion in Germany.
+The history of Waggonfabrik Gebrüder Gastell is intertwined with the evolution of the railway system in Germany. Established as a factory dedicated to the production of rolling stock, it contributed to the burgeoning railway networks that emerged in the 19th and 20th centuries. The factory's output, which included various types of railway carriages, helped meet the growing demand for efficient transportation solutions during a time of industrial expansion in Germany.
 
 The factory not only symbolized technological progress but also served as a vital employment hub for local communities. As railway networks expanded across Europe, the demand for reliable and innovative rolling stock surged, and factories like Gebrüder Gastell were at the forefront of this movement. The site played a crucial role in fostering local industry and supporting the economic landscape of the region.
 
@@ -74,7 +74,7 @@ For those interested in photography, the factory's exterior offers intriguing an
 
 When visiting Waggonfabrik Gebrüder Gastell, it is advisable to wear comfortable shoes, as you will likely be walking on uneven surfaces typical of industrial sites. Depending on the season, dress in layers to accommodate changing temperatures, particularly if you plan to spend time outdoors.
 
-Consider bringing water and snacks, especially if you plan to explore the nearby attractions afterward. It’s also prudent to check the weather forecast before your visit, as conditions can vary throughout the year.
+Consider bringing water and snacks, especially if you plan to explore the nearby attractions afterward. It's also prudent to check the weather forecast before your visit, as conditions can vary throughout the year.
 
 ## Frequently Asked Questions
 

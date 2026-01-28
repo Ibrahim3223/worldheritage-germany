@@ -64,7 +64,7 @@ Visitors to Bornriethmoor can explore several nearby attractions that complement
 
 3. **Wilseder Berg**: Known as the highest point in the Lüneburg Heath, it provides scenic views and hiking opportunities, ideal for a day of exploration.
 
-4. **Fischbek Nature Reserve**: Another nearby reserve, Fischbek offers similar ecological features and the chance to experience more of Lower Saxony’s diverse landscapes.
+4. **Fischbek Nature Reserve**: Another nearby reserve, Fischbek offers similar ecological features and the chance to experience more of Lower Saxony's diverse landscapes.
 
 5. **Celle**: A historic town with beautiful half-timbered houses, Celle is perfect for a cultural excursion, showcasing the region's architectural heritage.
 

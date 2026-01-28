@@ -101,7 +101,7 @@ Check the official website for information on guided tours, which may provide de
 The best time to visit may depend on personal preferences, but early mornings and late afternoons often provide a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Check the official website for current accessibility information, as it may vary based on the site’s facilities.
+Check the official website for current accessibility information, as it may vary based on the site's facilities.
 
 ### Can I buy tickets online?
 Ticketing options may vary; it's advisable to check the official website for any information regarding online purchases.

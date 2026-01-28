@@ -50,7 +50,7 @@ Notable features of Herrenalb Abbey include the remnants of the church, which wo
 
 Reaching Herrenalb Abbey is relatively straightforward, with multiple transport options available for visitors. Travelers can arrive by car, taking advantage of the well-maintained roadways that lead into Bad Herrenalb. Public transportation is also an option, with local bus services connecting the abbey to surrounding towns and cities.
 
-When planning your visit, it’s essential to check the official website for current information regarding opening hours and ticket prices. This will ensure you have the most up-to-date details before your trip. Visitors should anticipate spending approximately one to two hours exploring the abbey and its surroundings, allowing ample time to take in the historical context and ambiance of the site.
+When planning your visit, it's essential to check the official website for current information regarding opening hours and ticket prices. This will ensure you have the most up-to-date details before your trip. Visitors should anticipate spending approximately one to two hours exploring the abbey and its surroundings, allowing ample time to take in the historical context and ambiance of the site.
 
 The best times to visit Herrenalb Abbey are during the spring and autumn months when the weather is mild, and the surrounding landscapes are particularly beautiful. These seasons provide an ideal backdrop for exploring both the abbey and the natural beauty of the Black Forest.
 
@@ -97,7 +97,7 @@ Accessibility information can vary, so it is recommended to check the official w
 Ticket purchasing options may be available online; consult the official website for current purchasing methods.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available at or near the site, but it’s best to confirm current amenities on the official website.
+Facilities such as restrooms may be available at or near the site, but it's best to confirm current amenities on the official website.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, especially if you plan to explore the surrounding areas.

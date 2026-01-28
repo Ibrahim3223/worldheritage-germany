@@ -107,7 +107,7 @@ Information regarding guided tours may vary. It's best to check the official web
 Weekdays, especially early in the morning, tend to be less crowded, providing a more personal experience.
 
 ### Is it wheelchair accessible?
-For detailed accessibility information, it’s advisable to check the official website before your visit.
+For detailed accessibility information, it's advisable to check the official website before your visit.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary. Please refer to the official website for current ticketing information.

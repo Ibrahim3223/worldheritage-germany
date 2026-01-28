@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Villengarten Bahnhofstraße 10 in Michelau in Oberfranken is a serene garden space that captures the essence of cultural heritage in Bavaria, Germany. This garden is not just a green retreat but a recognized cultural heritage monument, designated as D-4-78-145-62. Situated in the charming town of Michelau, the garden offers visitors a tranquil environment to explore the intertwining of nature and history. As you stroll through its pathways, you’ll find a setting that reflects the historical and cultural significance of the region.
+Villengarten Bahnhofstraße 10 in Michelau in Oberfranken is a serene garden space that captures the essence of cultural heritage in Bavaria, Germany. This garden is not just a green retreat but a recognized cultural heritage monument, designated as D-4-78-145-62. Situated in the charming town of Michelau, the garden offers visitors a tranquil environment to explore the intertwining of nature and history. As you stroll through its pathways, you'll find a setting that reflects the historical and cultural significance of the region.
 
 Michelau in Oberfranken, located in the Upper Franconia district, is known for its picturesque landscapes and rich traditions. The garden at Bahnhofstraße 10 serves as a peaceful sanctuary amid the bustling town life, inviting locals and travelers alike to engage with its natural beauty. Whether you are looking to unwind, appreciate horticultural artistry, or delve into the history of the area, this garden promises a worthwhile experience.
 

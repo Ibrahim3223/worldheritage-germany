@@ -74,7 +74,7 @@ When exploring the interior, be respectful of the sacred space and the people wh
 
 ## Practical Information
 
-When planning your visit to the Church in Ruest, it’s advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A light jacket can be beneficial, especially during cooler months when temperatures may drop.
+When planning your visit to the Church in Ruest, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A light jacket can be beneficial, especially during cooler months when temperatures may drop.
 
 Consider the seasonal variations in weather when planning your trip. Spring and summer can provide pleasant conditions for outdoor activities, while fall may showcase beautiful foliage in the region. Checking the weather forecast ahead of your visit can help ensure a more enjoyable experience.
 
@@ -93,7 +93,7 @@ Information about guided tours may vary; check the official website for the late
 Early mornings or late afternoons are often ideal for a quieter experience, but visiting during services can provide a unique perspective.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s advisable to check the official website for the most accurate information regarding wheelchair access.
+Accessibility details may vary; it's advisable to check the official website for the most accurate information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information regarding online ticket purchases should be confirmed on the official website, as policies may change.
@@ -102,6 +102,6 @@ Information regarding online ticket purchases should be confirmed on the officia
 Facilities such as restrooms and cafes may not be available on-site; checking local options in the village is recommended.
 
 ### What should I wear?
-Dress comfortably and respectfully, keeping in mind the church’s sacred nature. Modest clothing is encouraged, especially during worship times.
+Dress comfortably and respectfully, keeping in mind the church's sacred nature. Modest clothing is encouraged, especially during worship times.
 
 Visiting the Church in Ruest offers a glimpse into the spiritual and cultural essence of Mestlin, allowing travelers to appreciate both the architecture and the community it serves.

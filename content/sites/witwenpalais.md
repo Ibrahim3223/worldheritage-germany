@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Witwenpalais, a distinguished palace located in Eutin, Germany, stands as a significant cultural landmark in the region. Known for its architectural elegance and historical relevance, this palace offers visitors a unique insight into the heritage of the area. Eutin itself is situated in the heart of Schleswig-Holstein, surrounded by a landscape of lakes and green spaces, making it an appealing destination for those interested in both history and nature. Witwenpalais is not only an architectural marvel but also a symbol of the city’s storied past, inviting travelers to explore its halls and gardens.
+Witwenpalais, a distinguished palace located in Eutin, Germany, stands as a significant cultural landmark in the region. Known for its architectural elegance and historical relevance, this palace offers visitors a unique insight into the heritage of the area. Eutin itself is situated in the heart of Schleswig-Holstein, surrounded by a landscape of lakes and green spaces, making it an appealing destination for those interested in both history and nature. Witwenpalais is not only an architectural marvel but also a symbol of the city's storied past, inviting travelers to explore its halls and gardens.
 
 As you approach the palace, you are welcomed by an air of refinement that hints at the grandeur within. This splendid building has witnessed countless events over the years, embodying the evolution of Eutin's societal fabric. With its rich history and aesthetic appeal, the Witwenpalais serves as a focal point for cultural activities and gatherings, making it a must-visit site for any heritage enthusiast.
 
@@ -36,7 +36,7 @@ The history of Witwenpalais is steeped in the broader narrative of Eutin and its
 
 Throughout its existence, Witwenpalais has served various functions, adapting to the changing needs of the community. From serving as a residence to hosting important events, the palace has maintained its status as a cultural hub within Eutin. The architectural design and layout of the building encapsulate the essence of the era in which it was built, showcasing the evolution of styles and influences that have shaped its character.
 
-Witwenpalais also plays a role in the ongoing cultural narrative of Eutin. It is often used for exhibitions and community events, fostering a connection between the past and present. The palace’s significance extends beyond its walls; it is part of the broader cultural landscape of the region, contributing to Eutin's identity and attracting visitors who seek to understand the historical context of the area.
+Witwenpalais also plays a role in the ongoing cultural narrative of Eutin. It is often used for exhibitions and community events, fostering a connection between the past and present. The palace's significance extends beyond its walls; it is part of the broader cultural landscape of the region, contributing to Eutin's identity and attracting visitors who seek to understand the historical context of the area.
 
 ## Architecture and Features
 

@@ -50,7 +50,7 @@ Visitors to Die Säule can appreciate not only the performances but also the env
 
 When planning a visit to Die Säule, it's essential to consider transportation options to reach this cultural landmark. Duisburg has a well-connected public transport system, including buses and trains, making it accessible for both locals and visitors. For those driving, check for available parking facilities nearby.
 
-Before visiting, it’s advisable to check the official website for current information on opening hours and ticket prices. Depending on the schedule, performances may vary, so planning ahead can enhance your experience. Visitors should expect to spend a few hours at Die Säule, allowing time to enjoy a performance as well as explore the venue itself.
+Before visiting, it's advisable to check the official website for current information on opening hours and ticket prices. Depending on the schedule, performances may vary, so planning ahead can enhance your experience. Visitors should expect to spend a few hours at Die Säule, allowing time to enjoy a performance as well as explore the venue itself.
 
 The best times to visit are often during the evenings when performances typically take place, but matinee shows can also offer a unique experience. Regardless of the timing, the atmosphere within Die Säule promises a warm welcome and an engaging cultural experience.
 

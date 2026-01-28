@@ -40,11 +40,11 @@ Throughout its existence, the church has likely undergone various renovations an
 
 The church's role in the community extends beyond its religious functions; it has likely been a site for local events and gatherings, fostering a sense of unity among the residents of Lich. Marienstiftskirche stands as a reminder of the enduring nature of faith and community, and its presence adds to the cultural landscape of the region.
 
-Visitors to the church can appreciate its significance not just as a place of worship but as a witness to the historical narratives that have shaped Lich. The church has likely played a role in various historical events and movements, making it an integral part of the town’s identity.
+Visitors to the church can appreciate its significance not just as a place of worship but as a witness to the historical narratives that have shaped Lich. The church has likely played a role in various historical events and movements, making it an integral part of the town's identity.
 
 ## Architecture and Features
 
-Marienstiftskirche showcases a unique architectural style typical of church buildings in Germany. While specific details about its design elements are not provided, it is common for such structures to feature intricate facades, stained glass windows, and distinct steeples. These elements contribute to the church’s aesthetic appeal and its functionality as a place of worship.
+Marienstiftskirche showcases a unique architectural style typical of church buildings in Germany. While specific details about its design elements are not provided, it is common for such structures to feature intricate facades, stained glass windows, and distinct steeples. These elements contribute to the church's aesthetic appeal and its functionality as a place of worship.
 
 Inside, the church likely encompasses various features that reflect its historical significance. This may include altars, religious iconography, and other artistic elements that enhance the spiritual ambiance of the space. Such features not only serve a decorative purpose but also provide insights into the religious practices and beliefs of the congregations that have worshipped here over the years.
 
@@ -72,7 +72,7 @@ While visiting Marienstiftskirche, consider exploring other attractions in Lich 
 
 4. **The Lich Botanical Garden**: A serene space to enjoy nature and relax, showcasing a variety of plant species.
 
-5. **The Local Museum**: This museum may offer exhibitions about Lich’s history and culture, providing further context to your visit.
+5. **The Local Museum**: This museum may offer exhibitions about Lich's history and culture, providing further context to your visit.
 
 ## Insider Tips
 

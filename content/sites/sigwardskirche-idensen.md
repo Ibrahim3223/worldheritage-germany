@@ -78,7 +78,7 @@ To avoid peak visitation times, weekdays are often less busy compared to weekend
 
 When visiting Sigwardskirche Idensen, it's advisable to bring along a camera, as the architectural details and serene atmosphere provide excellent photographic opportunities. Comfortable walking shoes are also recommended, especially if you plan to explore the surrounding area.
 
-Seasonal considerations may affect your visit, with summer typically offering pleasant weather for outdoor exploration. However, be prepared for varying weather conditions, especially in the cooler months, and dress accordingly. It’s also wise to check for any special events that may be occurring at the church or in Wunstorf during your visit.
+Seasonal considerations may affect your visit, with summer typically offering pleasant weather for outdoor exploration. However, be prepared for varying weather conditions, especially in the cooler months, and dress accordingly. It's also wise to check for any special events that may be occurring at the church or in Wunstorf during your visit.
 
 ## Frequently Asked Questions
 

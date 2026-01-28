@@ -22,7 +22,7 @@ images:
 
 The Arbeitsgemeinschaft Geesthachter Eisenbahn, located in the vibrant region of Hamburg, Germany, offers a unique insight into the historical significance of rail transport in the area. This museum is dedicated to preserving the legacy of the Geesthachter Railway, a once vital connector that facilitated trade and travel, shaping the socio-economic landscape of the region. Visitors to the museum can expect a well-curated experience that not only highlights the technological advancements of railways but also delves into the cultural context surrounding this mode of transport.
 
-As you explore the museum's exhibits, you will encounter a range of artifacts, photographs, and information that articulate the story of the railway’s impact on the community. The museum serves as an educational resource, ensuring that the history of railways remains alive in the public consciousness. Whether you are a history enthusiast, a railway aficionado, or simply curious about the region’s past, the Arbeitsgemeinschaft Geesthachter Eisenbahn offers an enriching experience that promises to engage and inform.
+As you explore the museum's exhibits, you will encounter a range of artifacts, photographs, and information that articulate the story of the railway's impact on the community. The museum serves as an educational resource, ensuring that the history of railways remains alive in the public consciousness. Whether you are a history enthusiast, a railway aficionado, or simply curious about the region's past, the Arbeitsgemeinschaft Geesthachter Eisenbahn offers an enriching experience that promises to engage and inform.
 
 ## History and Significance
 

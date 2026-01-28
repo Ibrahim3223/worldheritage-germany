@@ -28,7 +28,7 @@ image_srcset:
 
 The Berliner Kabarett Anstalt is more than just a venue; it is a vibrant part of Berlin's cultural identity, showcasing the city's rich tradition of cabaret theatre. Located in the Friedrichshain-Kreuzberg district, this theatre building plays a significant role in the ongoing narrative of performance art in Germany. With its roots in satire and social commentary, the Berliner Kabarett Anstalt invites audiences to engage with thought-provoking performances that reflect contemporary issues while maintaining a connection to historical traditions. Visitors can expect an experience that is not just entertaining but also intellectually stimulating, making it a must-visit for anyone interested in the performing arts.
 
-Situated in a bustling area known for its eclectic mix of culture and creativity, the Berliner Kabarett Anstalt encapsulates the spirit of Berlin. The theatre serves as a gathering place for locals and tourists alike, offering a unique glimpse into the city’s artistic landscape. As you explore the theatre, you will find a venue that has adapted over time yet remains committed to its original purpose: to challenge, amuse, and inspire.
+Situated in a bustling area known for its eclectic mix of culture and creativity, the Berliner Kabarett Anstalt encapsulates the spirit of Berlin. The theatre serves as a gathering place for locals and tourists alike, offering a unique glimpse into the city's artistic landscape. As you explore the theatre, you will find a venue that has adapted over time yet remains committed to its original purpose: to challenge, amuse, and inspire.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ The vibrant Friedrichshain-Kreuzberg area is home to a multitude of attractions 
 
 To enhance your visit to the Berliner Kabarett Anstalt, consider the following insider tips:
 
-- **Photography**: While photography during performances may be restricted, feel free to capture the theatre’s unique interior before the show begins. It’s advisable to ask staff for permission if you're unsure.
+- **Photography**: While photography during performances may be restricted, feel free to capture the theatre's unique interior before the show begins. It's advisable to ask staff for permission if you're unsure.
 
 - **Crowd Avoidance**: If you prefer a more intimate experience, consider attending a weekday performance, which typically attracts fewer visitors than weekend shows.
 
@@ -86,7 +86,7 @@ When planning your visit to the Berliner Kabarett Anstalt, there are several pra
 
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast and dress accordingly. Berlin can experience chilly winters, so layering is advisable.
 
-- **Accessibility**: While specific accessibility information is not provided, it’s best to check the official website or contact staff for details regarding wheelchair access and accommodations for individuals with disabilities.
+- **Accessibility**: While specific accessibility information is not provided, it's best to check the official website or contact staff for details regarding wheelchair access and accommodations for individuals with disabilities.
 
 ## Frequently Asked Questions
 
@@ -94,22 +94,22 @@ When planning your visit to the Berliner Kabarett Anstalt, there are several pra
 A visit to the Berliner Kabarett Anstalt typically involves spending a couple of hours for the performance, with additional time if you wish to enjoy the atmosphere before the show.
 
 ### Is photography allowed?
-Photography during performances is generally restricted. However, you may take photos of the theatre’s interior before the show begins.
+Photography during performances is generally restricted. However, you may take photos of the theatre's interior before the show begins.
 
 ### Are there guided tours?
-Information regarding guided tours is not specified. It’s advisable to check the official website for any special events or offerings.
+Information regarding guided tours is not specified. It's advisable to check the official website for any special events or offerings.
 
 ### What's the best time to visit?
 The best times to visit are often during the weekend when more performances are available, but weekday shows can also provide a unique experience with smaller audiences.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided, so it’s best to contact the theatre directly or check their official website for information on accommodations for individuals with disabilities.
+Accessibility details are not provided, so it's best to contact the theatre directly or check their official website for information on accommodations for individuals with disabilities.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s recommended to check the official website for current ticketing information.
+Ticket purchasing options may vary, so it's recommended to check the official website for current ticketing information.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and food services are not specified. It’s advisable to check the theatre’s official website for facilities available on the premises.
+Details regarding restrooms and food services are not specified. It's advisable to check the theatre's official website for facilities available on the premises.
 
 ### What should I wear?
 Casual, comfortable clothing is recommended. Since theatres can be cool, consider bringing a light jacket or sweater for comfort during the performance.

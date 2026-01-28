@@ -32,7 +32,7 @@ As you approach the church, its impressive facade and towering presence invite r
 
 ## History and Significance
 
-The history of St. Petri is deeply woven into the fabric of Braunschweig’s identity. While specific dates of its establishment are not detailed, this church is recognized as an essential part of the region's ecclesiastical history. Throughout the centuries, it has served not only as a place of worship but also as a community hub, reflecting the spiritual and social life of the people in Braunschweig.
+The history of St. Petri is deeply woven into the fabric of Braunschweig's identity. While specific dates of its establishment are not detailed, this church is recognized as an essential part of the region's ecclesiastical history. Throughout the centuries, it has served not only as a place of worship but also as a community hub, reflecting the spiritual and social life of the people in Braunschweig.
 
 The church is named after Saint Peter, one of the most significant figures in Christianity, known as the apostle and leader of the early church. This connection to a prominent saint adds to St. Petri's significance within the Christian community, marking it as a site of pilgrimage and reverence. It has witnessed various historical events, contributing to its cultural importance in the region.
 
@@ -44,7 +44,7 @@ St. Petri showcases a blend of architectural styles that speak to its long histo
 
 The exterior of St. Petri is notable for its intricate stonework and detailed facades, which exhibit craftsmanship that has been honed over the centuries. The use of local materials in its construction connects the church to its geographical context, making it a fundamental component of the cityscape.
 
-Inside, visitors will find an array of features that highlight the church’s religious significance. The interior design is marked by artistic elements that reflect both spiritual themes and local artistry. The arrangement of the nave and the altar space is designed to enhance the worship experience, emphasizing the church's role as a sanctuary.
+Inside, visitors will find an array of features that highlight the church's religious significance. The interior design is marked by artistic elements that reflect both spiritual themes and local artistry. The arrangement of the nave and the altar space is designed to enhance the worship experience, emphasizing the church's role as a sanctuary.
 
 Additionally, St. Petri may house various artworks, including stained glass windows, sculptures, and altarpieces, which contribute to the spiritual atmosphere and provide insight into the artistic heritage of the region. Each element within the church tells a story, making it a space for contemplation and appreciation of both faith and art.
 
@@ -59,14 +59,14 @@ Depending on the day of the week and time of year, visitor traffic can vary. Ear
 ## Nearby Attractions
 
 1. **Brunswick Cathedral**: Another significant ecclesiastical site in Braunschweig, known for its unique architecture and historical relevance.
-2. **Castle Square (Burgplatz)**: A vibrant public space that often hosts events and is surrounded by historical buildings, offering a glimpse into the city’s past.
+2. **Castle Square (Burgplatz)**: A vibrant public space that often hosts events and is surrounded by historical buildings, offering a glimpse into the city's past.
 3. **The Happy Rizzi House**: A modern architectural landmark in Braunschweig, known for its colorful facade and whimsical design.
-4. **St. Mary’s Cathedral**: A short distance away, this cathedral is renowned for its impressive Gothic architecture and rich history.
+4. **St. Mary's Cathedral**: A short distance away, this cathedral is renowned for its impressive Gothic architecture and rich history.
 5. **The Natural History Museum**: A family-friendly destination that provides educational insights into the natural world, suitable for all ages.
 
 ## Insider Tips
 
-When planning your visit to St. Petri, consider bringing a camera to capture the intricate details of the church’s architecture. Early morning visits are often quieter, allowing for uninterrupted photography and a more peaceful experience inside the church. 
+When planning your visit to St. Petri, consider bringing a camera to capture the intricate details of the church's architecture. Early morning visits are often quieter, allowing for uninterrupted photography and a more peaceful experience inside the church. 
 
 If you wish to avoid crowds, consider visiting during weekdays rather than weekends when local congregations may be attending services. This will enable you to explore the church in a more contemplative setting. 
 
@@ -97,7 +97,7 @@ Check the official website for detailed accessibility information.
 For current ticketing options, including online purchases, refer to the official website.
 
 ### Are there restrooms and cafes?
-There may be nearby facilities, but it’s advisable to check local amenities before your visit.
+There may be nearby facilities, but it's advisable to check local amenities before your visit.
 
 ### What should I wear?
 Modest attire is recommended as it is a place of worship. Comfortable shoes are also advisable for exploring the surrounding area.

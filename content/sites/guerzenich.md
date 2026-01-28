@@ -28,13 +28,13 @@ image_srcset:
 
 The Gürzenich is a striking multi-purpose hall located in the heart of Cologne's Altstadt-Nord, Germany. This architectural structure stands as a significant venue for cultural and social events, making it an integral part of the city's heritage. Known for its adaptability, the Gürzenich hosts everything from concerts and conferences to balls and exhibitions, attracting both locals and tourists alike. With its rich history and vibrant atmosphere, a visit to the Gürzenich offers a unique glimpse into Cologne's cultural life and architectural prowess.
 
-As you approach the Gürzenich, you'll find it situated in a bustling area of the city, surrounded by a blend of historical and modern structures that reflect Cologne's diverse character. The hall serves not only as a venue for entertainment but also as a symbol of the city’s communal spirit, where people gather to celebrate and share experiences. Whether you are an architecture enthusiast, a history buff, or simply seeking a dynamic place to soak up the local culture, the Gürzenich is a must-visit destination.
+As you approach the Gürzenich, you'll find it situated in a bustling area of the city, surrounded by a blend of historical and modern structures that reflect Cologne's diverse character. The hall serves not only as a venue for entertainment but also as a symbol of the city's communal spirit, where people gather to celebrate and share experiences. Whether you are an architecture enthusiast, a history buff, or simply seeking a dynamic place to soak up the local culture, the Gürzenich is a must-visit destination.
 
 ## History and Significance
 
 The Gürzenich has deep cultural roots within Cologne, serving as a central hub for civic life since its inception. Although specific historical dates are not available, the hall has long been integral to the city's social fabric, facilitating a variety of events that foster community engagement and cultural exchange. Over the years, it has evolved to accommodate changing social needs while retaining its historical significance.
 
-The hall's role in hosting major events makes it a cornerstone of Cologne's cultural identity. It has witnessed countless celebrations, from grand balls to significant public gatherings, reflecting the city's vibrant community spirit. The Gürzenich’s importance extends beyond mere function; it embodies the traditions and aspirations of the people of Cologne, standing as a venue where history and modernity intersect.
+The hall's role in hosting major events makes it a cornerstone of Cologne's cultural identity. It has witnessed countless celebrations, from grand balls to significant public gatherings, reflecting the city's vibrant community spirit. The Gürzenich's importance extends beyond mere function; it embodies the traditions and aspirations of the people of Cologne, standing as a venue where history and modernity intersect.
 
 The architectural and cultural significance of the Gürzenich continues to resonate today. It serves not only as a venue for performances and events but also as a gathering place for discussions on contemporary issues facing the city and its inhabitants. This adaptability highlights the hall's ongoing relevance, ensuring its place in Cologne's future as well as its past.
 
@@ -60,7 +60,7 @@ Exploring the Gürzenich opens up a world of nearby attractions that further enr
 
 1. **Cologne Cathedral (Kölner Dom)**: This iconic Gothic masterpiece is a UNESCO World Heritage Site and a must-see for any visitor to the city. Its towering spires and intricate stained glass windows are awe-inspiring.
 
-2. **Old Town (Altstadt)**: The charming streets of the Old Town are lined with colorful buildings, shops, and cafés. It’s a perfect area for a leisurely stroll or a quick bite to eat.
+2. **Old Town (Altstadt)**: The charming streets of the Old Town are lined with colorful buildings, shops, and cafés. It's a perfect area for a leisurely stroll or a quick bite to eat.
 
 3. **Museum Ludwig**: A modern art museum that houses a renowned collection of contemporary art, including works by Picasso, Warhol, and Lichtenstein.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Gürzenich, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid large crowds, consider visiting during weekdays or attending less popular events. Early morning visits may also provide a quieter atmosphere.
 
-- **Event Timing**: If you’re interested in attending an event, purchase tickets in advance to secure your spot, especially for popular performances that may sell out quickly.
+- **Event Timing**: If you're interested in attending an event, purchase tickets in advance to secure your spot, especially for popular performances that may sell out quickly.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When planning your visit to the Gürzenich, keep the following practical conside
 A visit can range from a couple of hours to a full day, depending on the events and activities you choose to engage in.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to verify if there are any restrictions during specific events.
+Photography is generally allowed, but it's best to verify if there are any restrictions during specific events.
 
 ### Are there guided tours?
 Guided tours may be available during certain events or exhibitions. Check the official website for details.

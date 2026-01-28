@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Paulinerkirche, a historic building housing the Niedersächsische Staats- und Universitätsbibliothek, stands as a significant cultural landmark in Göttingen, Germany. This museum not only reflects the city’s rich academic heritage but also serves as an architectural marvel, drawing visitors interested in the intersection of history, education, and artistry. Located in the heart of Göttingen, this site serves as a testament to the city’s long-standing tradition of scholarship and learning, making it a must-visit for anyone exploring the region.
+The Paulinerkirche, a historic building housing the Niedersächsische Staats- und Universitätsbibliothek, stands as a significant cultural landmark in Göttingen, Germany. This museum not only reflects the city's rich academic heritage but also serves as an architectural marvel, drawing visitors interested in the intersection of history, education, and artistry. Located in the heart of Göttingen, this site serves as a testament to the city's long-standing tradition of scholarship and learning, making it a must-visit for anyone exploring the region.
 
-As the former church of the Pauliner monks, the structure has undergone several transformations throughout its history, culminating in its current role as a repository of knowledge and culture. The Paulinerkirche offers a unique glimpse into the past, showcasing the evolution of the educational landscape in Germany. Visitors can expect to encounter not only the impressive architecture of the building but also a curated collection of historical documents and artifacts that reflect Göttingen’s academic legacy.
+As the former church of the Pauliner monks, the structure has undergone several transformations throughout its history, culminating in its current role as a repository of knowledge and culture. The Paulinerkirche offers a unique glimpse into the past, showcasing the evolution of the educational landscape in Germany. Visitors can expect to encounter not only the impressive architecture of the building but also a curated collection of historical documents and artifacts that reflect Göttingen's academic legacy.
 
 The Paulinerkirche is more than just a museum; it is a vibrant space that continues to foster intellectual engagement. Whether you are an academic, a history enthusiast, or simply a curious traveler, the Paulinerkirche invites you to explore its storied halls and discover the wealth of knowledge contained within.
 
@@ -46,7 +46,7 @@ In the context of German heritage, the Paulinerkirche is emblematic of the lasti
 
 The Paulinerkirche is an architectural gem that showcases elements from various periods, highlighting its evolving purpose over the centuries. The structure features a blend of Gothic and Baroque styles, evident in its soaring ceilings, intricate stonework, and ornate detailing. The design reflects the religious significance of the site while also accommodating its transformation into a space for scholarly pursuits.
 
-One of the notable architectural features of the Paulinerkirche is its grand nave, which is characterized by large, arched windows that allow natural light to flood the interior. This creates an inviting atmosphere for visitors as they navigate through the museum’s exhibits. The craftsmanship of the stonework is particularly impressive, with meticulous attention to detail that speaks to the skill of the builders.
+One of the notable architectural features of the Paulinerkirche is its grand nave, which is characterized by large, arched windows that allow natural light to flood the interior. This creates an inviting atmosphere for visitors as they navigate through the museum's exhibits. The craftsmanship of the stonework is particularly impressive, with meticulous attention to detail that speaks to the skill of the builders.
 
 Inside, visitors will find areas dedicated to exhibitions that highlight the history of the university and its library. The layout of the museum is designed to facilitate exploration and engagement with the exhibits, inviting guests to immerse themselves in the rich history contained within the walls.
 
@@ -66,7 +66,7 @@ Visitors should be prepared for a thoughtful experience, as the museum encourage
 
 While exploring the Paulinerkirche, there are several nearby attractions worth visiting:
 
-1. **Gänseliesel Fountain**: This iconic fountain is a symbol of Göttingen and features a bronze statue of a young girl herding geese. It’s a popular meeting point and a great photo opportunity.
+1. **Gänseliesel Fountain**: This iconic fountain is a symbol of Göttingen and features a bronze statue of a young girl herding geese. It's a popular meeting point and a great photo opportunity.
 
 2. **Alte Aula**: The Old Auditorium of the University of Göttingen is another historical site that showcases the university's architectural heritage and is often open for public tours.
 
@@ -80,9 +80,9 @@ While exploring the Paulinerkirche, there are several nearby attractions worth v
 
 To enhance your visit to the Paulinerkirche, consider arriving early in the day to enjoy a quieter experience. This time allows you to engage more deeply with the exhibits without the distractions of larger crowds. 
 
-Photography is often a popular activity, but it’s essential to be respectful of the space and other visitors. Some areas may have restrictions on photography, so be sure to check for signage or inquire with staff if you are uncertain.
+Photography is often a popular activity, but it's essential to be respectful of the space and other visitors. Some areas may have restrictions on photography, so be sure to check for signage or inquire with staff if you are uncertain.
 
-If you’re looking to enjoy the exhibits more thoroughly, take your time reading the information provided. Engaging with the material can enrich your understanding and appreciation of the site.
+If you're looking to enjoy the exhibits more thoroughly, take your time reading the information provided. Engaging with the material can enrich your understanding and appreciation of the site.
 
 ## Practical Information
 

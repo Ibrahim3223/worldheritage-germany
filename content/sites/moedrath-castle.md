@@ -46,7 +46,7 @@ Inside the museum, the layout is designed to enhance the visitor experience, gui
 
 Mödrath Castle is accessible by various means of transportation, making it convenient for both locals and tourists. Visitors are encouraged to check the official website for current information regarding opening hours and admission prices, as these can vary based on the time of year or special events.
 
-When planning a visit, it’s advisable to allocate a few hours to fully enjoy the exhibits and the surrounding grounds. The museum experience is designed to be informative and engaging, so taking your time will enhance your understanding and appreciation of the local heritage.
+When planning a visit, it's advisable to allocate a few hours to fully enjoy the exhibits and the surrounding grounds. The museum experience is designed to be informative and engaging, so taking your time will enhance your understanding and appreciation of the local heritage.
 
 The best times to visit Mödrath Castle are during the spring and fall months when the weather is typically mild, allowing for a pleasant exploration of the area. Special events and exhibitions may also be scheduled at certain times of the year, providing additional reasons to plan your visit accordingly.
 
@@ -82,7 +82,7 @@ Additionally, be sure to bring a camera to capture the moments and memories you 
 Most visitors find that spending a few hours at Mödrath Castle allows ample time to explore the exhibits and enjoy the surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the guidelines upon arrival.
+Photography policies may vary, so it's best to check the guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are offered and how to book them.

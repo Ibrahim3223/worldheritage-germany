@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The University Library Freiberg, located within the Technische Universität Bergakademie Freiberg in Germany, serves as a vital resource for students, researchers, and the broader community. Characterized by its commitment to knowledge and education, this library is more than just a repository of books; it is a center of learning and innovation in the region. Its collection supports a wide array of disciplines, with a particular emphasis on mining, metallurgy, and energy, all of which are integral to Freiberg’s historical and contemporary significance.
+The University Library Freiberg, located within the Technische Universität Bergakademie Freiberg in Germany, serves as a vital resource for students, researchers, and the broader community. Characterized by its commitment to knowledge and education, this library is more than just a repository of books; it is a center of learning and innovation in the region. Its collection supports a wide array of disciplines, with a particular emphasis on mining, metallurgy, and energy, all of which are integral to Freiberg's historical and contemporary significance.
 
 Set in the heart of Freiberg, a city known for its rich mining heritage, the library plays an essential role in preserving and advancing academic research. Visitors can expect not only an extensive collection of resources but also a welcoming environment conducive to study and exploration. The library's commitment to providing access to knowledge makes it a key player in the educational landscape of Germany.
 
@@ -40,7 +40,7 @@ The library's collection includes a wealth of materials related to engineering, 
 
 ## Architecture and Features
 
-The University Library Freiberg’s architecture is a blend of functionality and aesthetic appeal, designed to create an inviting environment for study and collaboration. While specific architectural details are not provided, libraries typically feature spacious reading rooms, study areas, and collections organized for ease of access. The layout is likely designed to facilitate both individual study and group work, accommodating a variety of learning styles.
+The University Library Freiberg's architecture is a blend of functionality and aesthetic appeal, designed to create an inviting environment for study and collaboration. While specific architectural details are not provided, libraries typically feature spacious reading rooms, study areas, and collections organized for ease of access. The layout is likely designed to facilitate both individual study and group work, accommodating a variety of learning styles.
 
 Inside, visitors can expect a modern yet classic atmosphere, with ample natural light and comfortable seating arrangements. The library is equipped with necessary technology to support research, including computers, printers, and internet access. These features enhance the user experience, making it a place where students can effectively engage with their studies.
 
@@ -50,7 +50,7 @@ In addition to its physical collections, the library may offer digital resources
 
 Planning a visit to the University Library Freiberg is straightforward, though it is advisable to check the official website for current information regarding hours and any potential admission fees. The library is accessible via various modes of transport, making it easy for both locals and tourists to reach.
 
-Upon arrival, visitors can expect to find a welcoming atmosphere with staff available to assist with inquiries. It’s recommended to allow at least a couple of hours to explore the library thoroughly, especially for those interested in delving into specific collections or utilizing study spaces. 
+Upon arrival, visitors can expect to find a welcoming atmosphere with staff available to assist with inquiries. It's recommended to allow at least a couple of hours to explore the library thoroughly, especially for those interested in delving into specific collections or utilizing study spaces. 
 
 The best times to visit may vary, but typically weekdays can be less crowded compared to weekends when students may frequent the library. Seasonal considerations may also play a role; visiting during the academic year could provide a more dynamic environment as students engage in research and study.
 
@@ -72,7 +72,7 @@ Freiberg is a city rich in history and culture, offering several nearby attracti
 
 For those planning a visit, consider the following tips to enhance your experience at the University Library Freiberg:
 
-- **Photography**: Check the library’s policy on photography, as some areas may have restrictions in place to protect the integrity of the materials.
+- **Photography**: Check the library's policy on photography, as some areas may have restrictions in place to protect the integrity of the materials.
   
 - **Crowd Avoidance**: To enjoy a quieter visit, aim to arrive early in the day or during off-peak hours on weekdays when students are less likely to be present.
 
@@ -80,9 +80,9 @@ For those planning a visit, consider the following tips to enhance your experien
 
 ## Practical Information
 
-When visiting the University Library Freiberg, it’s advisable to bring along any necessary materials for study, such as notebooks, pens, and your own devices if you plan to use them for research. Seasonal considerations may also play a role in your visit; for example, in winter, ensure you are dressed warmly as the weather can be quite cold.
+When visiting the University Library Freiberg, it's advisable to bring along any necessary materials for study, such as notebooks, pens, and your own devices if you plan to use them for research. Seasonal considerations may also play a role in your visit; for example, in winter, ensure you are dressed warmly as the weather can be quite cold.
 
-Additionally, familiarize yourself with the library’s rules and regulations regarding the use of materials and study spaces, as this can enhance your visit and prevent any misunderstandings.
+Additionally, familiarize yourself with the library's rules and regulations regarding the use of materials and study spaces, as this can enhance your visit and prevent any misunderstandings.
 
 ## Frequently Asked Questions
 
@@ -90,10 +90,10 @@ Additionally, familiarize yourself with the library’s rules and regulations re
 It is recommended to allocate at least two hours to fully explore the library and utilize its resources. However, longer visits may be necessary for in-depth research or study.
 
 ### Is photography allowed?
-Check the library’s official policy regarding photography, as certain areas or collections may have restrictions in place.
+Check the library's official policy regarding photography, as certain areas or collections may have restrictions in place.
 
 ### Are there guided tours?
-Information about guided tours can typically be found on the library’s official website. Check for any scheduled tours or events that may provide additional insights.
+Information about guided tours can typically be found on the library's official website. Check for any scheduled tours or events that may provide additional insights.
 
 ### What's the best time to visit?
 Weekdays, particularly in the early morning, can be the best times to visit when the library is less crowded.
@@ -105,7 +105,7 @@ Ensure to inquire about accessibility options on the library's official website 
 Confirm with the official website whether online tickets are available, as this may vary.
 
 ### Are there restrooms and cafes?
-Most libraries, including the University Library Freiberg, provide restroom facilities. For cafes, check the library’s offerings or nearby locations.
+Most libraries, including the University Library Freiberg, provide restroom facilities. For cafes, check the library's offerings or nearby locations.
 
 ### What should I wear?
 Dress comfortably for your visit, keeping in mind that you may be sitting for extended periods. Layering may be a good option to adjust to varying temperatures inside the library.

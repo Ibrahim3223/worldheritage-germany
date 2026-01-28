@@ -32,7 +32,7 @@ The castle's location in the Swabian Jura provides a backdrop that enhances its 
 
 ## History and Significance
 
-The history of Burg Hahnenkamm is intertwined with the broader narrative of the region’s feudal past. While specific historical dates may be elusive, it is understood that this castle has played a crucial role in the local governance and defense mechanisms throughout its existence. Castles like Hahnenkamm were essential during the medieval period, serving as fortified structures that provided safety for local inhabitants and acted as administrative centers.
+The history of Burg Hahnenkamm is intertwined with the broader narrative of the region's feudal past. While specific historical dates may be elusive, it is understood that this castle has played a crucial role in the local governance and defense mechanisms throughout its existence. Castles like Hahnenkamm were essential during the medieval period, serving as fortified structures that provided safety for local inhabitants and acted as administrative centers.
 
 The cultural significance of the castle extends beyond its military functions. It has been a witness to the social and political changes that have shaped Bissingen an der Teck over the centuries. Its presence reflects the power dynamics of the time, as noble families often established such strongholds to demonstrate their authority and control over the surrounding lands.
 

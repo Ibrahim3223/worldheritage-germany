@@ -54,7 +54,7 @@ Visiting the University Library of Freie Universität Berlin can be a rewarding 
 
 To plan your visit effectively, it is advisable to check the official website for current information regarding opening hours and any potential entry fees. The library is designed to accommodate both short visits for quick research and longer study sessions, so consider your needs before arriving.
 
-The best times to visit tend to be during weekdays when the library is less crowded. If you wish to experience the library’s full offerings, allocating several hours for your visit is recommended. This will give you ample opportunity to explore the collections, utilize study spaces, and engage with available resources.
+The best times to visit tend to be during weekdays when the library is less crowded. If you wish to experience the library's full offerings, allocating several hours for your visit is recommended. This will give you ample opportunity to explore the collections, utilize study spaces, and engage with available resources.
 
 ## Nearby Attractions
 
@@ -92,7 +92,7 @@ When preparing for your visit to the University Library, here are a few practica
 It is recommended to allocate at least a few hours to fully appreciate the resources and study spaces available in the library.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas, but it’s best to check for specific rules upon arrival.
+Photography may be permitted in certain areas, but it's best to check for specific rules upon arrival.
 
 ### Are there guided tours?
 While the library primarily functions as a study space, check the official website for any special events or tours that may be available.
@@ -101,7 +101,7 @@ While the library primarily functions as a study space, check the official websi
 Weekdays, particularly in the morning or late afternoon, tend to be less crowded, providing a more conducive environment for study.
 
 ### Is it wheelchair accessible?
-The library is designed to be accessible, but it’s advisable to check specific accessibility options on the official website.
+The library is designed to be accessible, but it's advisable to check specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 Entry is generally free, but check the official website for any special exhibitions or events that may require tickets.

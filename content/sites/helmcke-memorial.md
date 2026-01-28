@@ -48,7 +48,7 @@ The overall layout of the Helmcke Memorial is likely designed to facilitate a co
 
 ## Visiting Information
 
-Visiting the Helmcke Memorial is an accessible experience for individuals interested in exploring Hannover’s rich cultural landscape. The memorial is located within the city, making it easy to reach via various modes of transportation. Public transport options typically include buses and trams, allowing visitors to navigate the area conveniently.
+Visiting the Helmcke Memorial is an accessible experience for individuals interested in exploring Hannover's rich cultural landscape. The memorial is located within the city, making it easy to reach via various modes of transportation. Public transport options typically include buses and trams, allowing visitors to navigate the area conveniently.
 
 Check the official website for current information on hours and any potential entrance fees. While the memorial can generally be visited year-round, it is advisable to check for any specific events or ceremonies that may be taking place, as these can provide deeper insights into the memorial's significance.
 

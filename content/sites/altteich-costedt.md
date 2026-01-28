@@ -22,7 +22,7 @@ images:
 
 Altteich Costedt, a notable nature reserve situated in Porta Westfalica, North Rhine-Westphalia, Germany, invites visitors to explore its unique landscape and diverse ecosystems. This protected area serves not only as a sanctuary for native flora and fauna but also as a space for recreational activities and environmental education. The reserve exemplifies the commitment to conserving natural habitats and promoting biodiversity, making it a significant element of the region's ecological heritage.
 
-The region surrounding Altteich Costedt is characterized by its picturesque scenery, featuring lush greenery and varied terrain, which provides an ideal backdrop for outdoor enthusiasts. This nature reserve is an integral part of the local environment, contributing to conservation efforts and offering a peaceful retreat for those looking to immerse themselves in nature. Whether you’re a birdwatcher, a plant enthusiast, or simply seeking tranquility, Altteich Costedt promises a refreshing experience in the heart of North Rhine-Westphalia.
+The region surrounding Altteich Costedt is characterized by its picturesque scenery, featuring lush greenery and varied terrain, which provides an ideal backdrop for outdoor enthusiasts. This nature reserve is an integral part of the local environment, contributing to conservation efforts and offering a peaceful retreat for those looking to immerse themselves in nature. Whether you're a birdwatcher, a plant enthusiast, or simply seeking tranquility, Altteich Costedt promises a refreshing experience in the heart of North Rhine-Westphalia.
 
 ## History and Significance
 
@@ -103,7 +103,7 @@ Check the official website for detailed accessibility information regarding path
 Check the official website for current information on ticketing and entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for information about restrooms and nearby dining options.
+Facilities may vary; it's advisable to check the official website for information about restrooms and nearby dining options.
 
 ### What should I wear?
 Dress in weather-appropriate clothing and sturdy footwear suitable for walking on trails. 

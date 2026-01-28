@@ -30,7 +30,7 @@ The statue of Albrecht Thaer, located in the heart of Berlin's Bezirk Mitte, ser
 
 Situated within a vibrant urban environment, the statue underscores Berlin's commitment to honoring influential figures in its academic and cultural history. Visitors can find the statue amidst the bustling atmosphere of the city, surrounded by a blend of modernity and historic architecture. The location makes it easily accessible for those exploring the rich tapestry of Berlin's heritage.
 
-Whether you are a history enthusiast, a student of agriculture, or simply a curious traveler, the statue of Albrecht Thaer offers a unique opportunity to reflect on the evolution of agricultural science while enjoying the lively ambiance of one of Europe’s most dynamic cities.
+Whether you are a history enthusiast, a student of agriculture, or simply a curious traveler, the statue of Albrecht Thaer offers a unique opportunity to reflect on the evolution of agricultural science while enjoying the lively ambiance of one of Europe's most dynamic cities.
 
 ## History and Significance
 
@@ -78,11 +78,11 @@ To avoid crowds, consider visiting during the early morning on weekdays. This wi
 
 ## Practical Information
 
-When planning your visit to the statue of Albrecht Thaer, it’s advisable to bring comfortable walking shoes, as the surrounding area is best explored on foot. Additionally, carrying a water bottle can be helpful, especially during warmer months, when you might spend time walking around the nearby attractions.
+When planning your visit to the statue of Albrecht Thaer, it's advisable to bring comfortable walking shoes, as the surrounding area is best explored on foot. Additionally, carrying a water bottle can be helpful, especially during warmer months, when you might spend time walking around the nearby attractions.
 
 Seasonal considerations are important as well. Berlin experiences a range of weather conditions throughout the year, so dress appropriately for the season. Spring and summer offer a pleasant climate for outdoor activities, while fall and winter can be chilly, so layering is recommended.
 
-Check the official website for specific seasonal events or exhibitions that may coincide with your visit, as these can enhance your experience and offer deeper insights into both Thaer’s work and the history of agriculture in Germany.
+Check the official website for specific seasonal events or exhibitions that may coincide with your visit, as these can enhance your experience and offer deeper insights into both Thaer's work and the history of agriculture in Germany.
 
 ## Frequently Asked Questions
 

@@ -52,7 +52,7 @@ Visiting Barbara-Kirche offers a unique opportunity to engage with the local cul
 
 When planning your visit, it's advisable to check the official website for current information regarding visiting hours and any potential admission fees. The church typically welcomes visitors during the day, allowing ample time for exploration and introspection.
 
-Expect to spend around an hour at Barbara-Kirche to fully appreciate its architecture and significance. The best times to visit are likely mid-morning or early afternoon when the light enhances the beauty of the church’s features.
+Expect to spend around an hour at Barbara-Kirche to fully appreciate its architecture and significance. The best times to visit are likely mid-morning or early afternoon when the light enhances the beauty of the church's features.
 
 As you plan your visit, remember that the church may host services or community events that can enhance your experience. Checking the schedule in advance can help you align your visit with such occasions for a more immersive experience.
 
@@ -60,7 +60,7 @@ As you plan your visit, remember that the church may host services or community 
 
 While visiting Barbara-Kirche, consider exploring the following nearby attractions:
 
-1. **Großefehn Windmill** - An iconic local landmark, this windmill offers a glimpse into the region’s agricultural history and is a picturesque spot for photography.
+1. **Großefehn Windmill** - An iconic local landmark, this windmill offers a glimpse into the region's agricultural history and is a picturesque spot for photography.
 
 2. **Local Museums** - Look for small museums in the area that may showcase local history and culture, providing context to the community's heritage.
 

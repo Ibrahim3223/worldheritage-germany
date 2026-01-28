@@ -72,7 +72,7 @@ Eutin is home to several attractions that complement a visit to the library:
 
 To make the most of your visit to Eutin State Library, consider bringing a camera. While photography rules may vary, capturing the ambiance of the library's interior and exterior can be rewarding. 
 
-To avoid larger crowds, try visiting during weekday mornings, when local students are often in class and the library sees fewer visitors. If you are interested in attending specific events or programs, checking the library’s schedule in advance is advisable, as these can attract larger audiences.
+To avoid larger crowds, try visiting during weekday mornings, when local students are often in class and the library sees fewer visitors. If you are interested in attending specific events or programs, checking the library's schedule in advance is advisable, as these can attract larger audiences.
 
 ## Practical Information
 
@@ -89,10 +89,10 @@ The duration of your visit can vary based on your interests. Plan for at least o
 Photography policies may vary. It is advisable to check with library staff upon your arrival regarding specific rules.
 
 ### Are there guided tours?
-While guided tours may not be a standard offering, community events and programs may provide opportunities for guided experiences. Check the library’s official website for details.
+While guided tours may not be a standard offering, community events and programs may provide opportunities for guided experiences. Check the library's official website for details.
 
 ### What's the best time to visit?
-Weekdays, particularly in the morning, are often less crowded. However, if you are interested in specific events, consult the library’s calendar.
+Weekdays, particularly in the morning, are often less crowded. However, if you are interested in specific events, consult the library's calendar.
 
 ### Is it wheelchair accessible?
 Accessibility features may be available, but it is best to inquire in advance to ensure a comfortable experience. 

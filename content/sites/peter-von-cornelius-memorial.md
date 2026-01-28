@@ -3,7 +3,7 @@ title: "Peter-von-Cornelius-Memorial"
 site_name: "Peter-von-Cornelius-Memorial"
 date: 2026-01-26
 draft: false
-description: "The Peter-von-Cornelius-Memorial serves as a significant tribute in Düsseldorf, Germany, honoring the legacy of one of the country’s esteemed painters and..."
+description: "The Peter-von-Cornelius-Memorial serves as a significant tribute in Düsseldorf, Germany, honoring the legacy of one of the country's esteemed painters and..."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview 
 
-The Peter-von-Cornelius-Memorial serves as a significant tribute in Düsseldorf, Germany, honoring the legacy of one of the country’s esteemed painters and muralists. Situated in the bustling heart of this vibrant city, the memorial stands as a reflection of the rich cultural heritage that Düsseldorf embodies. This striking statue not only commemorates the artistic contributions of Peter von Cornelius but also invites visitors to engage with the city's artistic narrative. 
+The Peter-von-Cornelius-Memorial serves as a significant tribute in Düsseldorf, Germany, honoring the legacy of one of the country's esteemed painters and muralists. Situated in the bustling heart of this vibrant city, the memorial stands as a reflection of the rich cultural heritage that Düsseldorf embodies. This striking statue not only commemorates the artistic contributions of Peter von Cornelius but also invites visitors to engage with the city's artistic narrative. 
 
 Düsseldorf, known for its dynamic arts scene and modern architecture, provides a fascinating juxtaposition to the classical elegance of the memorial. As you explore the area, you will find that the statue is an integral part of the urban landscape, drawing both locals and tourists alike. The memorial's placement encourages visitors to pause and reflect on the artistic achievements that have shaped the region. 
 
@@ -105,7 +105,7 @@ Accessibility details are not specified; it is recommended to check the official
 As the memorial is a public installation, ticket purchasing details are not typically applicable. Check the official website for any specific events or tours that may require tickets.
 
 ### Are there restrooms and cafes?
-While specific facilities near the memorial are not mentioned, Düsseldorf offers various cafes and public restrooms nearby. It’s advisable to explore the surrounding area for amenities.
+While specific facilities near the memorial are not mentioned, Düsseldorf offers various cafes and public restrooms nearby. It's advisable to explore the surrounding area for amenities.
 
 ### What should I wear?
 Dress comfortably and wear suitable footwear, particularly if you plan to explore the nearby attractions. Seasonal considerations should also guide your clothing choices.

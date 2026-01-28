@@ -78,7 +78,7 @@ To maximize your experience at the Donatusstatue, consider the following insider
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or early in the morning, avoiding peak tourist times.
 
-- **Engage with Locals**: Don’t hesitate to strike up conversations with local residents who may share stories and insights about the statue’s significance.
+- **Engage with Locals**: Don't hesitate to strike up conversations with local residents who may share stories and insights about the statue's significance.
 
 ## Practical Information
 

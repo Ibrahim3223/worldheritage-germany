@@ -109,7 +109,7 @@ For specific information regarding wheelchair accessibility, please refer to the
 Check the official website for details on ticket purchasing options and any potential online availability.
 
 ### Are there restrooms and cafes?
-Facilities may not be detailed. It’s best to check the official website for current amenities available on-site.
+Facilities may not be detailed. It's best to check the official website for current amenities available on-site.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Comfortable shoes are recommended for walking around the fortification and surrounding areas.

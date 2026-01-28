@@ -3,7 +3,7 @@ title: "Kugelbrunnen (Albert Sous)"
 site_name: "Kugelbrunnen (Albert Sous)"
 date: 2026-01-26
 draft: false
-description: "In the heart of Aachen, Germany, the Kugelbrunnen, or “Ball Fountain,” presents an intriguing blend of art and engineering."
+description: "In the heart of Aachen, Germany, the Kugelbrunnen, or "Ball Fountain," presents an intriguing blend of art and engineering."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-In the heart of Aachen, Germany, the Kugelbrunnen, or “Ball Fountain,” presents an intriguing blend of art and engineering. Surrounded by the historical ambiance of the city, this unique fountain not only serves as a refreshing water feature but also as a focal point for both locals and tourists. It stands as a contemporary addition to the cityscape, symbolizing the modernity that intertwines with Aachen’s rich history. The Kugelbrunnen invites visitors to pause, reflect, and appreciate the interplay of water, light, and movement within its design, making it a captivating stop in any exploration of Aachen.
+In the heart of Aachen, Germany, the Kugelbrunnen, or "Ball Fountain," presents an intriguing blend of art and engineering. Surrounded by the historical ambiance of the city, this unique fountain not only serves as a refreshing water feature but also as a focal point for both locals and tourists. It stands as a contemporary addition to the cityscape, symbolizing the modernity that intertwines with Aachen's rich history. The Kugelbrunnen invites visitors to pause, reflect, and appreciate the interplay of water, light, and movement within its design, making it a captivating stop in any exploration of Aachen.
 
 Situated in the Aachen-Mitte district, the Kugelbrunnen lies within a vibrant urban environment that boasts a mix of historical and modern architecture. As you take in the sights and sounds of the city, the fountain serves as a reminder of Aachen's enduring spirit, blending tradition and innovation in a space that encourages social interaction and relaxation.
 
-While the fountain’s design is striking, it is also a testament to Aachen's commitment to art in public spaces. Visitors are drawn not only to its aesthetic appeal but also to its role as a communal gathering point, where locals and tourists alike can enjoy a moment of respite. Whether you are stopping by for a few minutes to admire the fountain’s movement or planning an extended visit to explore the surrounding area, the Kugelbrunnen is sure to leave a lasting impression.
+While the fountain's design is striking, it is also a testament to Aachen's commitment to art in public spaces. Visitors are drawn not only to its aesthetic appeal but also to its role as a communal gathering point, where locals and tourists alike can enjoy a moment of respite. Whether you are stopping by for a few minutes to admire the fountain's movement or planning an extended visit to explore the surrounding area, the Kugelbrunnen is sure to leave a lasting impression.
 
 ## History and Significance
 
@@ -97,7 +97,7 @@ While there may not be guided tours specifically for the Kugelbrunnen, local wal
 Early mornings or late afternoons are ideal for a quieter experience, while warmer months offer a lively atmosphere.
 
 ### Is it wheelchair accessible?
-The Kugelbrunnen is generally accessible, but it’s advisable to check specific access routes if you have mobility concerns.
+The Kugelbrunnen is generally accessible, but it's advisable to check specific access routes if you have mobility concerns.
 
 ### Can I buy tickets online?
 There is no entry fee for the Kugelbrunnen, but check the official website for any special events that may require tickets.

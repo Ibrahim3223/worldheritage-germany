@@ -94,7 +94,7 @@ When visiting Andreaskirche, keep the following practical considerations in mind
 
 - **Seasonal Considerations**: The climate in Norden can be variable, with wet weather common in certain seasons. Check the forecast before your visit and dress accordingly.
 
-- **Accessibility**: As the site is a historical church, accessibility may vary. If you have specific mobility needs, it’s best to check the official website or contact local resources for detailed information.
+- **Accessibility**: As the site is a historical church, accessibility may vary. If you have specific mobility needs, it's best to check the official website or contact local resources for detailed information.
 
 ## Frequently Asked Questions
 

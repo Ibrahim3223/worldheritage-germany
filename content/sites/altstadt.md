@@ -109,10 +109,10 @@ Yes, guided tours are available and can provide valuable insights into the histo
 The best times to visit Altstadt are during spring and early autumn when the weather is pleasant for walking and outdoor activities.
 
 ### Is it wheelchair accessible?
-While many areas of Altstadt are accessible, some cobblestone streets may present challenges. It’s advisable to check specific locations for accessibility options.
+While many areas of Altstadt are accessible, some cobblestone streets may present challenges. It's advisable to check specific locations for accessibility options.
 
 ### Can I buy tickets online?
-It’s best to check the official website for information regarding online ticket purchases for specific attractions in Altstadt.
+It's best to check the official website for information regarding online ticket purchases for specific attractions in Altstadt.
 
 ### Are there restrooms and cafes?
 Yes, there are public restrooms available, and a variety of cafés and restaurants can be found throughout the old town.

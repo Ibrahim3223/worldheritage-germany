@@ -78,7 +78,7 @@ Seasonal considerations can affect your experience; for instance, winter months 
 A visit to Heilig Kreuz typically takes about an hour, allowing enough time to appreciate the chapel and its peaceful atmosphere.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific signage upon arrival regarding restrictions.
+Photography policies may vary, so it's best to check for any specific signage upon arrival regarding restrictions.
 
 ### Are there guided tours?
 Currently, there is no information available regarding guided tours at Heilig Kreuz. Check the official website for updates.

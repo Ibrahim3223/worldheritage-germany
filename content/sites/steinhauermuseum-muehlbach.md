@@ -28,7 +28,7 @@ image_srcset:
 
 The Steinhauermuseum Mühlbach, located in the quaint town of Eppingen, Germany, is a unique museum dedicated to the craft and history of stone cutting. This specialized institution serves as a crucial link between the past artisans of the region and contemporary visitors seeking to understand the intricacies of stone craftsmanship. The museum offers insight into the techniques, tools, and cultural significance of stone cutting, a craft that has shaped local identity for generations. As you explore the exhibits, you will discover not only the artistry involved in stonework but also its impact on the community and the surrounding areas.
 
-Situated in the heart of Eppingen, the museum draws visitors with its focus on an often-overlooked trade that has contributed to the region's historical development. The museum’s collection showcases a variety of artifacts, including tools, historical documents, and examples of stone workmanship, all curated to provide a comprehensive understanding of this fascinating craft. The Steinhauermuseum Mühlbach is more than just a repository of historical items; it is a vibrant space that invites engagement and education about the heritage of stone cutting in Germany.
+Situated in the heart of Eppingen, the museum draws visitors with its focus on an often-overlooked trade that has contributed to the region's historical development. The museum's collection showcases a variety of artifacts, including tools, historical documents, and examples of stone workmanship, all curated to provide a comprehensive understanding of this fascinating craft. The Steinhauermuseum Mühlbach is more than just a repository of historical items; it is a vibrant space that invites engagement and education about the heritage of stone cutting in Germany.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ To enhance your visit to the Steinhauermuseum Mühlbach, consider these insider 
 
 - **Crowd Avoidance**: Plan your visit during weekdays or early in the day to avoid peak crowds. This will allow for a more immersive experience with the exhibits and staff.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions about the exhibits. Their insights can deepen your understanding and appreciation of the craft.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions about the exhibits. Their insights can deepen your understanding and appreciation of the craft.
 
 ## Practical Information
 

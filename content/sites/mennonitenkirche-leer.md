@@ -95,7 +95,7 @@ While specific guided tours may not be available, visitors are encouraged to exp
 The best times to visit are typically on weekdays or during early morning or late afternoon to avoid crowds and enjoy a peaceful atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s best to check the official website for current information regarding wheelchair access.
+Accessibility details are not specified, so it's best to check the official website for current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Details regarding ticket purchases are not provided; check the official website for current information on entry fees and purchasing options.

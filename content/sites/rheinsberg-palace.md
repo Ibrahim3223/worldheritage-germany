@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Rheinsberg Palace, located in the picturesque region of Rheinsberg, Brandenburg, Germany, is a remarkable example of royal architecture that captures the elegance of its era. Situated at coordinates 53.0986, 12.8894, this palace is more than just a beautiful structure; it is a landmark that reflects the historical and cultural narrative of the region. Renowned for its serene lakeside setting and lush gardens, Rheinsberg Palace invites visitors to explore its grand rooms and gardens, making it a significant destination for history and architecture enthusiasts alike. The palace’s charm lies not only in its aesthetic appeal but also in its ability to transport visitors through the historical context of 18th-century royal life.
+Rheinsberg Palace, located in the picturesque region of Rheinsberg, Brandenburg, Germany, is a remarkable example of royal architecture that captures the elegance of its era. Situated at coordinates 53.0986, 12.8894, this palace is more than just a beautiful structure; it is a landmark that reflects the historical and cultural narrative of the region. Renowned for its serene lakeside setting and lush gardens, Rheinsberg Palace invites visitors to explore its grand rooms and gardens, making it a significant destination for history and architecture enthusiasts alike. The palace's charm lies not only in its aesthetic appeal but also in its ability to transport visitors through the historical context of 18th-century royal life.
 
 ## History and Significance
 
 Rheinsberg Palace has a fascinating history that intertwines with the cultural development of Germany. Originally constructed as a hunting lodge, it became a favored retreat for Frederick the Great, King of Prussia. The palace played a pivotal role in the king's early life, offering a tranquil escape from the political pressures of Berlin. Its transformation into a sumptuous residence marked a significant period in Prussian history, reflecting the tastes and aspirations of the royal family during the 18th century.
 
-Frederick the Great’s patronage turned Rheinsberg into a center of literary and artistic life, attracting prominent figures of the Enlightenment. The palace was not just a private residence; it was a cultural hub where ideas flourished, influencing the artistic movements of the time. The gardens and surrounding landscape were meticulously designed to complement the palace, showcasing the integration of nature and architecture that was characteristic of the period.
+Frederick the Great's patronage turned Rheinsberg into a center of literary and artistic life, attracting prominent figures of the Enlightenment. The palace was not just a private residence; it was a cultural hub where ideas flourished, influencing the artistic movements of the time. The gardens and surrounding landscape were meticulously designed to complement the palace, showcasing the integration of nature and architecture that was characteristic of the period.
 
 The palace's significance extends beyond its architectural merit; it represents a time of philosophical and cultural awakening in Europe, making it a noteworthy site for understanding the evolution of royal patronage and the arts. Today, it stands as a reminder of the intricate relationship between power, culture, and nature in the shaping of European history.
 
@@ -42,7 +42,7 @@ Rheinsberg Palace exemplifies the transition between Baroque and Rococo architec
 
 Inside, Rheinsberg Palace is equally captivating, with rooms adorned with period furnishings, exquisite tapestries, and art that reflects the tastes of the royal family. The grand halls and intimate chambers provide a glimpse into the opulent lifestyle of the past. Notable features include the lavishly decorated salons, which often hosted gatherings of intellectuals and artists, and the private chambers that reveal the personal touch of the royal inhabitants.
 
-The surrounding gardens, designed in the French style, complement the palace’s architecture, providing a serene environment that enhances the overall experience of the site. Visitors can wander through these meticulously landscaped grounds, which not only serve as a backdrop to the palace but also highlight the importance of nature in the royal lifestyle.
+The surrounding gardens, designed in the French style, complement the palace's architecture, providing a serene environment that enhances the overall experience of the site. Visitors can wander through these meticulously landscaped grounds, which not only serve as a backdrop to the palace but also highlight the importance of nature in the royal lifestyle.
 
 ## Visiting Information
 

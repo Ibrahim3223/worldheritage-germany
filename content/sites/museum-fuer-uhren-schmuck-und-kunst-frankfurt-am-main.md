@@ -36,7 +36,7 @@ The Museum für Uhren, Schmuck und Kunst highlights the evolution of timekeeping
 
 Timepieces have long been more than mere instruments for measuring hours; they embody technological advancements and artistic expression. Jewelry, similarly, serves not only as decoration but also as a reflection of societal values and personal identity. The museum plays a critical role in educating visitors about these intertwined histories, allowing for a deeper understanding of how these items have influenced human experience.
 
-The museum’s offerings provide context for the cultural significance of its collections, emphasizing the stories behind each piece. By examining the intersections of art, craftsmanship, and history, the Museum für Uhren, Schmuck und Kunst fosters an appreciation for the artistry involved in these timeless pursuits.
+The museum's offerings provide context for the cultural significance of its collections, emphasizing the stories behind each piece. By examining the intersections of art, craftsmanship, and history, the Museum für Uhren, Schmuck und Kunst fosters an appreciation for the artistry involved in these timeless pursuits.
 
 ## Architecture and Features
 
@@ -70,7 +70,7 @@ When visiting the Museum für Uhren, Schmuck und Kunst, consider exploring addit
 
 When visiting the Museum für Uhren, Schmuck und Kunst, here are some insider tips to enhance your experience:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibitions may have restrictions. If permitted, consider using natural light to capture the intricate details of the pieces.
+- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. If permitted, consider using natural light to capture the intricate details of the pieces.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, aim for early weekday mornings. This is when the museum is often less crowded, allowing you to engage more deeply with the exhibits.
 

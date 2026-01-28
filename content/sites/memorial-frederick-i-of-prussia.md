@@ -44,7 +44,7 @@ The Memorial Frederick I of Prussia is characterized by its majestic and dignifi
 
 Visitors will notice the intricate craftsmanship of the statue, which captures the essence of Frederick I with a commanding presence. The surrounding landscape, designed to complement the monument, adds to the overall aesthetic experience. The gardens themselves are an extension of the royal legacy, featuring formal layouts and seasonal blooms that invite leisurely strolls and contemplation.
 
-The architectural style reflects the Baroque influences that were prominent during Frederick I’s reign, characterized by grandeur and opulence. This connection to the Baroque movement further emphasizes the cultural richness of the period, encouraging visitors to appreciate the artistic achievements of the time as they engage with the monument.
+The architectural style reflects the Baroque influences that were prominent during Frederick I's reign, characterized by grandeur and opulence. This connection to the Baroque movement further emphasizes the cultural richness of the period, encouraging visitors to appreciate the artistic achievements of the time as they engage with the monument.
 
 ## Visiting Information
 

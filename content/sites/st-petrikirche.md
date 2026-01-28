@@ -78,7 +78,7 @@ To make the most of your visit to St. Petrikirche, consider these insider tips:
 
 ## Practical Information
 
-Before visiting St. Petrikirche, it’s helpful to keep a few practical considerations in mind:
+Before visiting St. Petrikirche, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are advisable, especially if you plan to explore the nearby attractions. Additionally, bringing a camera can enhance your experience as you capture the beauty of the church and its surroundings.
 

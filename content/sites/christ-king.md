@@ -72,7 +72,7 @@ While visiting Christ King, consider exploring some of the nearby attractions th
 
 For those looking to capture the beauty of Christ King through photography, consider visiting during the early morning or late afternoon when natural light enhances the church's features. Avoid peak hours to enjoy a quieter atmosphere, allowing for candid shots without the distraction of crowds.
 
-If you are interested in attending a service, check the church’s schedule in advance, as this may provide a unique opportunity to experience the church in a communal setting. Additionally, be respectful of the sacred nature of the space when photographing interiors or during services.
+If you are interested in attending a service, check the church's schedule in advance, as this may provide a unique opportunity to experience the church in a communal setting. Additionally, be respectful of the sacred nature of the space when photographing interiors or during services.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ Keep in mind that many religious sites have specific customs and expectations re
 A visit to Christ King generally takes about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s important to be respectful, especially during services or private events.
+Photography is usually permitted, but it's important to be respectful, especially during services or private events.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website for details on availability and scheduling.
@@ -98,7 +98,7 @@ Weekdays or early mornings are ideal for a quieter experience, while weekends ma
 Accessibility features may be available, but checking with the church directly is recommended for the most accurate information.
 
 ### Can I buy tickets online?
-For any entry fees or special events, it’s best to check the official website for options regarding online ticket purchasing.
+For any entry fees or special events, it's best to check the official website for options regarding online ticket purchasing.
 
 ### Are there restrooms and cafes?
 Restroom facilities can typically be found on-site, but for cafes or dining options, exploring nearby areas is advisable.

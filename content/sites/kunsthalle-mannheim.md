@@ -60,7 +60,7 @@ Check the official website for current information regarding opening hours and a
 
 The best times to visit are typically during weekdays when crowds are smaller, allowing for a more intimate viewing experience. However, weekends may also offer special events or guided tours that can enhance your understanding of the exhibits.
 
-Upon arrival, visitors can expect a welcoming atmosphere, with staff available to assist with any inquiries. While exploring, take your time to engage with the artworks, and don’t hesitate to make use of any educational resources the museum provides.
+Upon arrival, visitors can expect a welcoming atmosphere, with staff available to assist with any inquiries. While exploring, take your time to engage with the artworks, and don't hesitate to make use of any educational resources the museum provides.
 
 ## Nearby Attractions
 
@@ -70,9 +70,9 @@ While Kunsthalle Mannheim is a compelling destination in its own right, the surr
 
 2. **Luisenpark**: A stunning urban park that offers lush green spaces, walking paths, and a variety of recreational activities. It is an ideal spot for a leisurely stroll after your museum visit.
 
-3. **Technoseum**: This technology and science museum showcases the history of technology and its impact on society. It’s a fascinating complement to the artistic focus of Kunsthalle Mannheim.
+3. **Technoseum**: This technology and science museum showcases the history of technology and its impact on society. It's a fascinating complement to the artistic focus of Kunsthalle Mannheim.
 
-4. **National Theatre Mannheim**: This historic theater hosts a range of performances, including opera, ballet, and drama. It’s a great place to experience the performing arts in the heart of the city.
+4. **National Theatre Mannheim**: This historic theater hosts a range of performances, including opera, ballet, and drama. It's a great place to experience the performing arts in the heart of the city.
 
 5. **Mannheim Market Square**: A vibrant area filled with shops, cafes, and local vendors, perfect for sampling regional specialties and enjoying the lively atmosphere.
 

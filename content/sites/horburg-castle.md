@@ -22,7 +22,7 @@ images:
 
 Perched above the charming town of Staufen im Breisgau, Horburg Castle offers visitors a captivating glimpse into medieval architecture and history. This castle, located in the scenic region of Baden-Württemberg, Germany, attracts both history enthusiasts and casual travelers alike with its storied past and picturesque setting. As you explore the remnants of this historical fortress, you are transported to an era characterized by tales of knights and fortifications. 
 
-Horburg Castle serves as a significant cultural landmark, representing the intricate narratives of the region’s past. Its enduring presence continues to captivate the imagination of those who visit, making it a must-see destination for anyone traveling through this part of Germany. The surrounding landscape adds to its allure, creating an enchanting backdrop for exploration and discovery.
+Horburg Castle serves as a significant cultural landmark, representing the intricate narratives of the region's past. Its enduring presence continues to captivate the imagination of those who visit, making it a must-see destination for anyone traveling through this part of Germany. The surrounding landscape adds to its allure, creating an enchanting backdrop for exploration and discovery.
 
 Whether you are a history buff, an architecture admirer, or simply seeking a serene escape, Horburg Castle promises to deliver a unique experience steeped in history and natural beauty.
 

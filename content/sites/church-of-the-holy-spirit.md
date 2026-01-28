@@ -68,7 +68,7 @@ The best times to visit the Church of the Holy Spirit are typically during weekd
 
 Flensburg is home to several attractions that complement a visit to the Church of the Holy Spirit. Here are a few notable sites to consider:
 
-1. **Flensburg Maritime Museum**: Delve into the maritime history of the region at this engaging museum, which showcases exhibits related to shipbuilding, navigation, and the city’s seafaring heritage.
+1. **Flensburg Maritime Museum**: Delve into the maritime history of the region at this engaging museum, which showcases exhibits related to shipbuilding, navigation, and the city's seafaring heritage.
 
 2. **Flensburg Fjord**: This scenic fjord offers opportunities for leisurely walks, boating, and enjoying the natural beauty of the area. The waterfront is an ideal spot for relaxation and reflection.
 

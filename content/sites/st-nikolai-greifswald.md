@@ -36,7 +36,7 @@ Visitors to St. Nikolai will find themselves immersed in the serene atmosphere o
 
 St. Nikolai Church has long been a focal point for the spiritual and communal life in Greifswald. Its establishment reflects the broader historical context of the region, as churches often served as pivotal sites for congregation and community identity. The church's presence in the city underscores its significance during various historical epochs, including the flourishing of trade and education that characterized Greifswald in the Middle Ages.
 
-While specific dates of construction and significant events in the church’s history may not be detailed, it is evident that St. Nikolai has been an integral part of the city’s development. Its architectural style and continued use speak to its enduring relevance in the lives of the local populace. As a prominent religious institution, St. Nikolai has witnessed the changes in society, including the impact of wars, economic shifts, and cultural transformations.
+While specific dates of construction and significant events in the church's history may not be detailed, it is evident that St. Nikolai has been an integral part of the city's development. Its architectural style and continued use speak to its enduring relevance in the lives of the local populace. As a prominent religious institution, St. Nikolai has witnessed the changes in society, including the impact of wars, economic shifts, and cultural transformations.
 
 The church also serves as a repository of local traditions and practices, where various rites of passage, such as baptisms, weddings, and funerals, have occurred over the centuries. This continuity of function adds layers of meaning to the structure, making it a symbol of resilience and community spirit. As such, St. Nikolai is not just a church but a reflection of the collective memory of the people of Greifswald.
 
@@ -48,7 +48,7 @@ One of the notable aspects of St. Nikolai is its impressive height, which elevat
 
 Inside, the church may reveal a variety of artistic elements, such as stained glass windows, religious iconography, and intricate woodwork. Such details contribute to the spiritual atmosphere of the space, allowing visitors to appreciate the craftsmanship involved in its creation. Additionally, the layout of the church is designed to facilitate congregational gatherings, reflecting the communal role that St. Nikolai plays in the lives of its visitors.
 
-While exploring the church, one may also notice the various memorials or plaques that commemorate significant individuals or events associated with the church’s history. These elements serve as reminders of the enduring legacy of St. Nikolai within the community.
+While exploring the church, one may also notice the various memorials or plaques that commemorate significant individuals or events associated with the church's history. These elements serve as reminders of the enduring legacy of St. Nikolai within the community.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ When planning a visit to St. Nikolai Church, it is advisable to check the offici
 
 Greifswald is well-connected through public transportation, making it easy to reach the church. Visitors can expect to spend approximately an hour or more at St. Nikolai, allowing ample time to absorb the atmosphere and appreciate the architectural details. The best times to visit are generally during weekdays when crowds may be lighter, providing a more contemplative experience.
 
-Upon arrival, guests can anticipate a peaceful ambiance, conducive to reflection and admiration of the church’s features. Whether you are drawn by spiritual curiosity or architectural interest, St. Nikolai offers a welcoming space for all. 
+Upon arrival, guests can anticipate a peaceful ambiance, conducive to reflection and admiration of the church's features. Whether you are drawn by spiritual curiosity or architectural interest, St. Nikolai offers a welcoming space for all. 
 
 ## Nearby Attractions
 
@@ -76,11 +76,11 @@ While visiting St. Nikolai Church, consider exploring additional attractions tha
 
 For those looking to capture the beauty of St. Nikolai Church, early morning or late afternoon are ideal times for photography, as the lighting enhances the architecture. Additionally, visiting during weekdays may allow for a quieter experience, as weekends often attract more visitors. 
 
-If you’re interested in attending a service or special event, check the church's schedule in advance. This can provide a unique opportunity to see the church in use and engage with the local community.
+If you're interested in attending a service or special event, check the church's schedule in advance. This can provide a unique opportunity to see the church in use and engage with the local community.
 
 ## Practical Information
 
-When visiting St. Nikolai Church, it’s advisable to bring a small bag for personal items and a camera if photography is permitted. Comfortable walking shoes are recommended, as you may want to explore the surrounding area after your visit. 
+When visiting St. Nikolai Church, it's advisable to bring a small bag for personal items and a camera if photography is permitted. Comfortable walking shoes are recommended, as you may want to explore the surrounding area after your visit. 
 
 Consider seasonal factors when planning your trip; spring and summer months often provide milder weather, making it pleasant for outdoor exploration of Greifswald. Layering clothing is suggested, as temperatures can fluctuate throughout the day.
 

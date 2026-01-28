@@ -42,7 +42,7 @@ Furthermore, courthouses often hold a deeper cultural significance, acting as ve
 
 Drachenfelsstraße 39 is characterized by architectural elements commonly found in courthouses throughout Germany. The design likely reflects a blend of functionality and aesthetic appeal, incorporating features that are both practical for legal proceedings and representative of the town's historical architecture.
 
-While specific architectural details are not provided, courthouses typically showcase grand entrances, spacious courtrooms, and offices designed for legal personnel. The external façade may exhibit classic stylistic elements, including symmetry, decorative stonework, and large windows that allow natural light to filter into the interior spaces. Such design choices not only enhance the building’s functionality but also contribute to its presence as a landmark in the town.
+While specific architectural details are not provided, courthouses typically showcase grand entrances, spacious courtrooms, and offices designed for legal personnel. The external façade may exhibit classic stylistic elements, including symmetry, decorative stonework, and large windows that allow natural light to filter into the interior spaces. Such design choices not only enhance the building's functionality but also contribute to its presence as a landmark in the town.
 
 Inside, visitors may expect to find a layout conducive to the workings of the court, with clear pathways to various chambers and administrative offices. The courthouse serves as both a hub of legal activity and a place where the community can witness the judicial processes that govern their lives.
 

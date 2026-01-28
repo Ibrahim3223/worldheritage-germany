@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Borwall is an intriguing archaeological site located in the Brunswick region of Germany. This site, characterized by its historical significance as a castle, offers visitors a glimpse into the architectural and cultural heritage of the area. Situated at coordinates 52.3013, 10.5827, Borwall is not only an important relic of the past but also a point of interest for those eager to explore the remnants of medieval life. Its presence in the landscape underscores the historical evolution of Brunswick and provides context for the region’s development over the centuries.
+Borwall is an intriguing archaeological site located in the Brunswick region of Germany. This site, characterized by its historical significance as a castle, offers visitors a glimpse into the architectural and cultural heritage of the area. Situated at coordinates 52.3013, 10.5827, Borwall is not only an important relic of the past but also a point of interest for those eager to explore the remnants of medieval life. Its presence in the landscape underscores the historical evolution of Brunswick and provides context for the region's development over the centuries.
 
 As you approach Borwall, the majestic outlines of the castle structure evoke curiosity and admiration. This site serves as a vital link between the past and present, attracting historians, archaeologists, and travelers alike who seek to understand the complexities of early Germanic fortifications. In addition to its historical value, Borwall offers an opportunity for reflection on how architecture can shape and influence community identity, making it an essential stop for anyone interested in the stories of bygone eras.
 
@@ -56,7 +56,7 @@ The best times to visit Borwall are during the spring and autumn months when the
 
 ## Nearby Attractions
 
-1. **Brunswick Cathedral**: Just a short distance away, this impressive structure showcases stunning Gothic architecture, providing insight into the region’s ecclesiastical history.
+1. **Brunswick Cathedral**: Just a short distance away, this impressive structure showcases stunning Gothic architecture, providing insight into the region's ecclesiastical history.
 
 2. **Schloss Richmond**: A picturesque palace located nearby, offering beautiful gardens and a chance to delve into the lifestyle of the nobility.
 

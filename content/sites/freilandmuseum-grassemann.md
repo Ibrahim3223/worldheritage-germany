@@ -72,7 +72,7 @@ These nearby attractions provide additional context and opportunities for explor
 
 To make the most of your visit to Freilandmuseum Grassemann, consider the following tips:
 
-- **Photography**: While photography may be allowed in many areas, it’s wise to check for any restrictions in specific exhibits.
+- **Photography**: While photography may be allowed in many areas, it's wise to check for any restrictions in specific exhibits.
 - **Crowd Avoidance**: Visiting during weekdays or outside of peak tourist seasons can enhance your experience by allowing for a quieter exploration of the museum.
 - **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the exhibits and the history of the site.
 
@@ -88,10 +88,10 @@ Additionally, check the official website for information on amenities such as re
 A visit typically lasts a few hours, allowing ample time to explore the exhibits and engage with the information presented.
 
 ### Is photography allowed?
-Photography policies may vary throughout the museum, so it’s best to check for specific guidelines upon arrival.
+Photography policies may vary throughout the museum, so it's best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
-Guided tours may be available, providing visitors with in-depth insights into the museum’s history and exhibits.
+Guided tours may be available, providing visitors with in-depth insights into the museum's history and exhibits.
 
 ### What's the best time to visit?
 The warmer months are often the best time to visit, as outdoor activities and events are more likely to be scheduled.

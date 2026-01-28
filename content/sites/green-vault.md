@@ -72,7 +72,7 @@ While visiting the Green Vault, there are several nearby attractions that comple
 
 To enhance your experience at the Green Vault, consider the following tips:
 
-- **Photography**: While photography may be restricted in certain areas to protect the artifacts, be sure to check the museum’s regulations regarding photography before your visit.
+- **Photography**: While photography may be restricted in certain areas to protect the artifacts, be sure to check the museum's regulations regarding photography before your visit.
 
 - **Crowd Avoidance**: Arriving early in the morning or later in the afternoon can help you avoid larger crowds, allowing for a more intimate experience with the exhibits.
 

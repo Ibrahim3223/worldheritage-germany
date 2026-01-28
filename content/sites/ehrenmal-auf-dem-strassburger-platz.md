@@ -53,7 +53,7 @@ When visiting, allow ample time to reflect and absorb the atmosphere surrounding
 Osnabrück is rich with attractions that complement a visit to the Ehrenmal auf dem Straßburger Platz. Nearby, you can explore:
 
 1. **Osnabrück Castle**: A historic site that reflects the city's medieval past, offering guided tours and beautiful gardens.
-2. **St. Peter’s Cathedral**: An architectural marvel with stunning interiors and a rich history dating back to the 8th century.
+2. **St. Peter's Cathedral**: An architectural marvel with stunning interiors and a rich history dating back to the 8th century.
 3. **The Botanical Garden**: A tranquil escape with diverse plant species and peaceful walking paths, ideal for those seeking a natural retreat.
 4. **Felix-Nussbaum-Haus**: A museum dedicated to the works of Jewish painter Felix Nussbaum, providing insight into the impact of war on art and culture.
 5. **Osnabrück Zoo**: A family-friendly attraction that offers an enjoyable day out, showcasing a variety of animal species and conservation efforts.

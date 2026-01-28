@@ -114,7 +114,7 @@ Weekdays are generally less crowded, making them ideal for a more personal exper
 The museum aims to accommodate all visitors, including those with mobility challenges. For specific accessibility inquiries, it's advisable to contact the museum in advance.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so check the museum’s official website for the latest information on online ticket availability.
+Ticket purchasing options may vary, so check the museum's official website for the latest information on online ticket availability.
 
 ### Are there restrooms and cafes?
 Check the museum's facilities for restrooms. Information about cafes or dining options nearby can also be found on the official website.

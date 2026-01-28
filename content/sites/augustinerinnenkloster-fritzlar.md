@@ -90,7 +90,7 @@ For those planning a visit to the Augustinerinnenkloster Fritzlar, here are some
 
 ## Practical Information
 
-When visiting the Augustinerinnenkloster Fritzlar, it’s essential to prepare adequately:
+When visiting the Augustinerinnenkloster Fritzlar, it's essential to prepare adequately:
 
 - **What to Bring**: A camera for capturing the beautiful architecture, a water bottle, and perhaps a journal for reflection are recommended. If you plan to explore nearby attractions, consider packing snacks or a light lunch.
 
@@ -113,7 +113,7 @@ Check the official website for information regarding guided tours, as offerings 
 Weekdays or early mornings are often less crowded and provide a more tranquil atmosphere for visitors.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary, so it’s best to check the official website for current information regarding wheelchair access within the monastery.
+Accessibility details can vary, so it's best to check the official website for current information regarding wheelchair access within the monastery.
 
 ### Can I buy tickets online?
 For ticketing options, including online purchases, refer to the official website for the most accurate and current information.

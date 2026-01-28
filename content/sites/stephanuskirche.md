@@ -52,7 +52,7 @@ The exterior of the building may also include noteworthy features such as bell t
 
 ## Visiting Information
 
-When planning a visit to Stephanuskirche, it is advisable to consider the various transport options available. Munich’s efficient public transportation system, including trams and buses, makes it easy to reach the church from different parts of the city. Depending on your starting point, checking the best routes will ensure a smooth journey.
+When planning a visit to Stephanuskirche, it is advisable to consider the various transport options available. Munich's efficient public transportation system, including trams and buses, makes it easy to reach the church from different parts of the city. Depending on your starting point, checking the best routes will ensure a smooth journey.
 
 Before your visit, it is crucial to check the official website for current information regarding hours of operation and any potential admission fees. This will help you plan your visit accordingly, as opening times may vary, especially during holidays or special events.
 

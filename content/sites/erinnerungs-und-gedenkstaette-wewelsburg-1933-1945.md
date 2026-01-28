@@ -44,7 +44,7 @@ The architecture of Wewelsburg Castle is striking and historically significant. 
 
 Inside, the museum houses various exhibitions that utilize the space to tell the story of the castle's transformation during the Nazi era. Visitors can expect to encounter a range of artifacts, photographs, and multimedia presentations that illustrate the castle's historical significance and the ideologies it represented. The design of the exhibitions is intended to engage visitors, making use of the castle's unique architecture to enhance the storytelling experience.
 
-One notable feature of the site is the ceremonial hall, which was intended for the SS's rituals and gatherings. This space serves as a stark reminder of the ideologies that influenced the castle's history. The museum’s layout encourages exploration, with rooms dedicated to different aspects of the castle’s past and the broader historical context of the Nazi regime.
+One notable feature of the site is the ceremonial hall, which was intended for the SS's rituals and gatherings. This space serves as a stark reminder of the ideologies that influenced the castle's history. The museum's layout encourages exploration, with rooms dedicated to different aspects of the castle's past and the broader historical context of the Nazi regime.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While visiting the Erinnerungs- und Gedenkstätte Wewelsburg, there are several 
   
 3. **Wewelsburg Castle Grounds**: The surrounding area of the castle itself offers scenic walking paths and views of the landscape.
 
-4. **The Historic Town of Paderborn**: Located a short drive away, Paderborn features additional historical sites, including the Paderborn Cathedral and the city’s charming old town.
+4. **The Historic Town of Paderborn**: Located a short drive away, Paderborn features additional historical sites, including the Paderborn Cathedral and the city's charming old town.
 
 5. **The Externsteine**: A geological formation and cultural site, known for its striking rock formations and historical significance, located a bit further but worthwhile for those interested in natural history.
 

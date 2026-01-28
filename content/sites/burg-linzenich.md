@@ -58,7 +58,7 @@ While visiting Burg Linzenich, there are several nearby attractions that complem
 
 1. **Zülpicher See**: A scenic lake offering recreational opportunities, such as walking trails and picnicking areas, perfect for unwinding after a day of exploration.
 
-2. **St. Peter’s Church in Zülpich**: This historic church features notable architecture and is a great place to appreciate local heritage.
+2. **St. Peter's Church in Zülpich**: This historic church features notable architecture and is a great place to appreciate local heritage.
 
 3. **Roman Museum Zülpich**: Dive deeper into the region's history with exhibits that highlight the area's Roman past.
 

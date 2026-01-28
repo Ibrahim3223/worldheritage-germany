@@ -42,7 +42,7 @@ In addition to its spiritual significance, the chapel also offers insights into 
 
 The Todesangst-Christi-Kapelle is an exemplary representation of chapel architecture, characterized by its thoughtful design and meticulous craftsmanship. While specific architectural details may not be provided, chapels of this type typically showcase elements such as vaulted ceilings, stained glass windows, and intricate altars, all of which contribute to their spiritual ambiance.
 
-Upon entering the chapel, visitors are often greeted by a serene interior that invites contemplation. The use of light, often filtered through colored glass, creates a dynamic interplay of shadow and illumination within the space, enhancing the spiritual experience. The chapel’s layout is typically designed to facilitate worship and reflection, allowing for a sense of community while also providing areas for individual contemplation.
+Upon entering the chapel, visitors are often greeted by a serene interior that invites contemplation. The use of light, often filtered through colored glass, creates a dynamic interplay of shadow and illumination within the space, enhancing the spiritual experience. The chapel's layout is typically designed to facilitate worship and reflection, allowing for a sense of community while also providing areas for individual contemplation.
 
 Distinctive features of the chapel may include religious iconography, sculptures, and paintings that tell stories from the Bible or depict saints, further enriching the spiritual atmosphere. These artistic elements serve both decorative and educational purposes, helping visitors to connect with the faith's teachings.
 
@@ -72,7 +72,7 @@ The region surrounding the Todesangst-Christi-Kapelle is rich with attractions t
 
 To make the most of your visit to the Todesangst-Christi-Kapelle, consider these insider tips:
 
-- **Photography**: If photography is allowed, capture the intricate details of the chapel’s architecture and the interplay of light within the space. Early morning or late afternoon light often creates beautiful effects.
+- **Photography**: If photography is allowed, capture the intricate details of the chapel's architecture and the interplay of light within the space. Early morning or late afternoon light often creates beautiful effects.
   
 - **Crowd Avoidance**: To avoid larger crowds, visit during weekdays or outside of peak tourist seasons. Early morning hours can also provide a quieter experience.
 

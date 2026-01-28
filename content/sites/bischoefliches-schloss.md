@@ -76,7 +76,7 @@ For those looking to extend their cultural exploration beyond the Bischöfliches
 
 To make the most of your visit to the Bischöfliches Schloss, consider the following tips:
 
-- **Photography**: If you’re an avid photographer, the palace’s architectural details provide excellent opportunities for stunning shots. Be mindful of signs regarding photography and respect any restrictions that may be in place.
+- **Photography**: If you're an avid photographer, the palace's architectural details provide excellent opportunities for stunning shots. Be mindful of signs regarding photography and respect any restrictions that may be in place.
 - **Crowd Avoidance**: Visiting during the weekdays or in the early morning can help you avoid larger crowds, allowing for a more intimate experience with the site.
 - **Engage with Local Guides**: If available, consider joining a guided tour to gain deeper insights into the history and significance of the Bischöfliches Schloss, enhancing your understanding of the site.
 
@@ -103,13 +103,13 @@ Guided tours may be available, providing deeper insights into the history and si
 Weekdays and early mornings are often less crowded, offering a more relaxed atmosphere to explore the palace.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s advisable to check the official website or contact the site directly for specific information regarding wheelchair access.
+Accessibility details may vary, so it's advisable to check the official website or contact the site directly for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available, but it’s best to confirm these details before your visit.
+Facilities such as restrooms and nearby cafes may be available, but it's best to confirm these details before your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to walk around the gardens or nearby attractions.

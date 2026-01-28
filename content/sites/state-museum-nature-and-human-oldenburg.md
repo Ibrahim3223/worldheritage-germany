@@ -82,7 +82,7 @@ Depending on the season, dressing in layers can help accommodate fluctuating ind
 A visit typically takes a few hours, depending on your interest level and engagement with the exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any restrictions in specific exhibit areas.
+Photography is generally permitted, but it's advisable to check for any restrictions in specific exhibit areas.
 
 ### Are there guided tours?
 Guided tours may be available, providing an enriched experience through expert insights. Check the official website for details.
@@ -91,7 +91,7 @@ Guided tours may be available, providing an enriched experience through expert i
 Weekday mornings or late afternoons are often the best times to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s best to verify specific accessibility features on the official website.
+The museum is designed to be accessible, but it's best to verify specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current information.

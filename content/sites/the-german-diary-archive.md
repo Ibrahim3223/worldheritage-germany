@@ -54,7 +54,7 @@ Reaching The German Diary Archive is accessible via various forms of transport. 
 
 Check the official website for current information on visiting hours and ticket prices. Visitors can expect to spend a few hours exploring the Archive, depending on their interests and engagement with the exhibits. It's advisable to allocate sufficient time to fully appreciate the collections and any additional programs that might be occurring during your visit.
 
-The best times to visit could vary depending on the season and any special exhibitions. It may be beneficial to check the Archive’s calendar for events or workshops that align with your visit.
+The best times to visit could vary depending on the season and any special exhibitions. It may be beneficial to check the Archive's calendar for events or workshops that align with your visit.
 
 ## Nearby Attractions
 

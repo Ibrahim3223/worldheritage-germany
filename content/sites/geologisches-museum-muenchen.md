@@ -88,7 +88,7 @@ To make the most of your visit to the Geologisches Museum München, here are som
 
 - **Educational Resources**: Take advantage of the educational materials available at the museum. Many exhibits have accompanying informational panels that provide valuable context and insights.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can offer additional information and recommendations that can enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can offer additional information and recommendations that can enhance your visit.
 
 By keeping these tips in mind, you can ensure a more fulfilling experience at the Geologisches Museum München.
 
@@ -100,7 +100,7 @@ When preparing for your visit to the Geologisches Museum München, consider the 
 
 - **Seasonal Considerations**: The museum is open year-round, but be mindful of seasonal weather when planning your visit. Munich experiences a variety of weather conditions, so dressing in layers may be advantageous.
 
-- **Amenities**: While the museum may have limited amenities, it’s advisable to check for available restrooms and potential food options. Planning ahead can ensure a more comfortable visit.
+- **Amenities**: While the museum may have limited amenities, it's advisable to check for available restrooms and potential food options. Planning ahead can ensure a more comfortable visit.
 
 By considering these practical aspects, you can enhance your experience at the Geologisches Museum München and enjoy all that it has to offer.
 

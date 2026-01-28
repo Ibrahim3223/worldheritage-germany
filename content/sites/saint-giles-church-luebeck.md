@@ -28,7 +28,7 @@ image_srcset:
 
 Saint Giles Church, located in Lübeck's Old City, is a notable church building that captures the essence of the region's architectural heritage and religious significance. This city, characterized by its Hanseatic history, provides a rich backdrop for the church, which reflects Lübeck's cultural narrative through its history and design. As part of the UNESCO World Heritage site, the Old City of Lübeck, Saint Giles Church contributes to the understanding of medieval ecclesiastical architecture in Northern Germany. 
 
-Visitors to Lübeck will find Saint Giles Church an essential stop, offering insight into the city's past and its role in the wider context of European history. The church stands as a symbol of the resilience of Lübeck’s community, having survived various historical tribulations. Whether you are a history enthusiast, an architecture lover, or a spiritual seeker, Saint Giles Church invites you to explore its serene atmosphere and rich legacy.
+Visitors to Lübeck will find Saint Giles Church an essential stop, offering insight into the city's past and its role in the wider context of European history. The church stands as a symbol of the resilience of Lübeck's community, having survived various historical tribulations. Whether you are a history enthusiast, an architecture lover, or a spiritual seeker, Saint Giles Church invites you to explore its serene atmosphere and rich legacy.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ While specific dates for the founding of Saint Giles Church are not documented, 
 
 The church is dedicated to Saint Giles, a revered figure in Christian tradition, known for his compassion toward the poor and his role as a protector of the disabled. The choice of Saint Giles as the patron saint underscores the church's mission of community support and spiritual guidance. Over the centuries, Saint Giles Church has witnessed numerous events, from local celebrations to significant religious ceremonies, reinforcing its central role in Lübeck's social fabric.
 
-Moreover, Saint Giles Church stands as a testament to the resilience of the Lübeck community. It has endured various historical challenges, including conflicts and changes in political regimes. Its survival is indicative of the community’s dedication to preserving its heritage and traditions. Today, the church serves as a reminder of Lübeck’s storied past and its ongoing cultural relevance.
+Moreover, Saint Giles Church stands as a testament to the resilience of the Lübeck community. It has endured various historical challenges, including conflicts and changes in political regimes. Its survival is indicative of the community's dedication to preserving its heritage and traditions. Today, the church serves as a reminder of Lübeck's storied past and its ongoing cultural relevance.
 
 ## Architecture and Features
 

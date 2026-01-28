@@ -72,17 +72,17 @@ Exploring the Library of Kloster Ottobeuren can easily be complemented by a visi
 
 For those planning to visit the Library of Kloster Ottobeuren, consider the following insider tips to enhance your experience:
 
-- **Photography**: While the library’s stunning architecture is certainly photogenic, be sure to check the library's policy regarding photography to respect the environment and other visitors.
+- **Photography**: While the library's stunning architecture is certainly photogenic, be sure to check the library's policy regarding photography to respect the environment and other visitors.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or in the morning. This can provide a more peaceful atmosphere for reading or studying.
 
-- **Engage with Staff**: The library staff can offer valuable insights into the collection and any special events happening during your visit. Don’t hesitate to ask questions or seek recommendations.
+- **Engage with Staff**: The library staff can offer valuable insights into the collection and any special events happening during your visit. Don't hesitate to ask questions or seek recommendations.
 
 ## Practical Information
 
 When preparing for a visit to the Library of Kloster Ottobeuren, consider the following practical information:
 
-- **What to Bring**: It’s advisable to bring a notebook or device for note-taking if you plan to study or conduct research. A reusable water bottle is also a good idea for hydration during your visit.
+- **What to Bring**: It's advisable to bring a notebook or device for note-taking if you plan to study or conduct research. A reusable water bottle is also a good idea for hydration during your visit.
 
 - **Seasonal Considerations**: Depending on the time of year, be prepared for varying weather conditions. Dress comfortably, keeping in mind that the library may have temperature controls that differ from outside.
 

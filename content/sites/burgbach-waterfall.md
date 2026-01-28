@@ -64,7 +64,7 @@ While Burgbach Waterfall is a captivating destination on its own, the surroundin
 
 1. **Bad Rippoldsau-Schapbach**: The charming village nearby is known for its scenic beauty and outdoor activities, including hiking and cycling trails. It serves as a perfect base for exploring the Black Forest.
 
-2. **Black Forest National Park**: Just a short distance away, this national park features stunning landscapes, diverse wildlife, and numerous hiking trails. It’s an excellent destination for those looking to delve deeper into the natural beauty of the region.
+2. **Black Forest National Park**: Just a short distance away, this national park features stunning landscapes, diverse wildlife, and numerous hiking trails. It's an excellent destination for those looking to delve deeper into the natural beauty of the region.
 
 3. **Schwarzwaldhochstraße**: This scenic road offers breathtaking views of the Black Forest and is dotted with lookout points, making it an ideal route for leisurely drives or cycling.
 
@@ -113,7 +113,7 @@ Trail conditions may vary, and certain areas may not be fully accessible. It is 
 Check the official website for current information regarding entrance fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the immediate area. It’s advisable to bring your own snacks and drinks, and check for the nearest restrooms before your visit.
+Facilities may be limited in the immediate area. It's advisable to bring your own snacks and drinks, and check for the nearest restrooms before your visit.
 
 ### What should I wear?
 Comfortable outdoor clothing and sturdy footwear are recommended. Dress in layers to accommodate changing weather conditions, and consider bringing a light rain jacket if rain is in the forecast.

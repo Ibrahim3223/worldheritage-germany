@@ -50,7 +50,7 @@ The design of the memorial is a crucial aspect of its ability to convey the emot
 
 ## Visiting Information
 
-To visit the Khojaly Massacre Memorial in Berlin, travelers can easily access the site via public transportation. The district of Steglitz-Zehlendorf is well connected to the city’s extensive public transport network, making it convenient for visitors to reach the memorial.
+To visit the Khojaly Massacre Memorial in Berlin, travelers can easily access the site via public transportation. The district of Steglitz-Zehlendorf is well connected to the city's extensive public transport network, making it convenient for visitors to reach the memorial.
 
 As with any cultural site, it's advisable to check the official website for current information regarding hours of operation and any potential admission fees. While the memorial is typically open to the public, specific visiting hours may vary, so planning ahead is recommended. 
 
@@ -94,7 +94,7 @@ Before heading to the Khojaly Massacre Memorial, it's helpful to keep the follow
 A visit to the Khojaly Massacre Memorial typically takes about one hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally allowed, but visitors are encouraged to be respectful of the memorial’s somber atmosphere.
+Photography is generally allowed, but visitors are encouraged to be respectful of the memorial's somber atmosphere.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours offered at the memorial. However, visitors can access informational materials at the site.

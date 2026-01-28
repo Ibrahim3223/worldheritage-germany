@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Cultural heritage D-6-5627-0027 in Heustreu offers visitors a fascinating glimpse into a significant fortification located in the picturesque region of Rhön-Grabfeld, within Lower Franconia, Bavaria, Germany. This site stands as an important cultural heritage monument that reflects the historical significance of fortifications in the area. Set against the backdrop of Heustreu’s charming landscape, the fortification invites exploration and appreciation of its storied past.
+Cultural heritage D-6-5627-0027 in Heustreu offers visitors a fascinating glimpse into a significant fortification located in the picturesque region of Rhön-Grabfeld, within Lower Franconia, Bavaria, Germany. This site stands as an important cultural heritage monument that reflects the historical significance of fortifications in the area. Set against the backdrop of Heustreu's charming landscape, the fortification invites exploration and appreciation of its storied past.
 
 This site not only serves as a reminder of the region's defensive architecture but also embodies the cultural landscape that has evolved over centuries. As you delve into the history and architecture of this fortification, you will gain insight into the strategies and lifestyles of those who once inhabited this area. The fortification is a vital piece of the historical puzzle, offering a unique opportunity to understand the dynamics of regional power and protection.
 
@@ -44,7 +44,7 @@ Visitors can expect to see remnants of these features, which tell a story of the
 
 ## Visiting Information
 
-To reach Cultural heritage D-6-5627-0027 in Heustreu, visitors can utilize various modes of transportation available in the region. Given Heustreu's location in Bavaria, it is accessible by car, and public transport options may also be available. It’s advisable to check local transport schedules to plan your visit effectively.
+To reach Cultural heritage D-6-5627-0027 in Heustreu, visitors can utilize various modes of transportation available in the region. Given Heustreu's location in Bavaria, it is accessible by car, and public transport options may also be available. It's advisable to check local transport schedules to plan your visit effectively.
 
 Check the official website for current information regarding hours of operation and any associated entry fees. The site can typically be explored in a couple of hours, allowing time for both a thorough examination of the fortification and an appreciation of the surrounding area.
 

@@ -103,7 +103,7 @@ Accessibility details can vary, so it's best to check the official website for t
 Information regarding ticket purchases can vary, so checking the official website is advisable for the latest updates.
 
 ### Are there restrooms and cafes?
-Facilities may be available in the area, but it’s best to check the official website for specifics on amenities.
+Facilities may be available in the area, but it's best to check the official website for specifics on amenities.
 
 ### What should I wear?
 Comfortable clothing and footwear suitable for outdoor activities are recommended, along with layers for changing weather conditions.

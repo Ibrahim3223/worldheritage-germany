@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The German Broadcasting Archive, situated in the historic city of Potsdam, serves as a vital repository for the preservation and accessibility of Germany's audio-visual heritage. As a foundation, it plays a significant role in safeguarding the nation’s broadcasting history, including radio and television programs that have shaped cultural discourse over decades.
+The German Broadcasting Archive, situated in the historic city of Potsdam, serves as a vital repository for the preservation and accessibility of Germany's audio-visual heritage. As a foundation, it plays a significant role in safeguarding the nation's broadcasting history, including radio and television programs that have shaped cultural discourse over decades.
 
 Potsdam, known for its historical significance and architectural beauty, enhances the archive's importance as a cultural institution. Visitors to the German Broadcasting Archive can expect to engage with an extensive collection that reflects the evolution of media in Germany, showcasing how broadcasting has influenced society and culture. The archive not only preserves the past but also offers insights into the future of media, making it a fascinating destination for those interested in communications, history, and cultural studies.
 
@@ -50,7 +50,7 @@ Noteworthy features of the archive may include viewing rooms where visitors can 
 
 ## Visiting Information
 
-Visiting the German Broadcasting Archive offers an opportunity to delve into the world of broadcasting history, but it’s essential to plan ahead for a smooth experience. The archive is located in Potsdam, which is accessible via various modes of transport, including public transportation and private vehicles. Visitors are encouraged to check the official website for current information regarding hours and admission prices.
+Visiting the German Broadcasting Archive offers an opportunity to delve into the world of broadcasting history, but it's essential to plan ahead for a smooth experience. The archive is located in Potsdam, which is accessible via various modes of transport, including public transportation and private vehicles. Visitors are encouraged to check the official website for current information regarding hours and admission prices.
 
 Upon arrival, guests can expect a welcoming environment, with knowledgeable staff ready to assist with inquiries. The archive offers a range of experiences, from self-guided tours of its exhibitions to curated programs that provide deeper insights into specific aspects of broadcasting history. Depending on your interests, allotting at least a few hours for your visit is advisable to ensure a thorough exploration of the archive's offerings.
 
@@ -62,9 +62,9 @@ Potsdam is home to several notable attractions that complement a visit to the Ge
 
 1. **Sanssouci Palace**: A UNESCO World Heritage site, this opulent palace was the summer residence of Frederick the Great and features stunning gardens and architecture.
    
-2. **The Brandenburg Gate**: Not to be confused with its Berlin counterpart, this historical gate is an iconic symbol of Potsdam, reflecting the city’s rich history.
+2. **The Brandenburg Gate**: Not to be confused with its Berlin counterpart, this historical gate is an iconic symbol of Potsdam, reflecting the city's rich history.
 
-3. **The Dutch Quarter**: A charming area characterized by its unique Dutch-style architecture, offering quaint shops, cafes, and a glimpse into the city’s diverse cultural influences.
+3. **The Dutch Quarter**: A charming area characterized by its unique Dutch-style architecture, offering quaint shops, cafes, and a glimpse into the city's diverse cultural influences.
 
 4. **Film Museum Potsdam**: Situated nearby, this museum celebrates the history of film and cinema, providing a fascinating counterpoint to the broadcast medium.
 
@@ -96,7 +96,7 @@ When planning your visit to the German Broadcasting Archive, keep the following 
 A visit typically requires a few hours, depending on your level of interest in the exhibitions and collections.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit; check the archive’s guidelines upon arrival.
+Photography policies may vary by exhibit; check the archive's guidelines upon arrival.
 
 ### Are there guided tours?
 Yes, guided tours may be available, offering deeper insights into the collections and history of broadcasting.

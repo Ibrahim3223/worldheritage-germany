@@ -34,7 +34,7 @@ As you wander through its halls, Uniseum promises an enriching experience that u
 
 Uniseum holds a vital position in the narrative of Freiburg im Breisgau, reflecting the evolution of education and scholarship in Germany. The Albert-Ludwigs-University, founded in the 15th century, has long been a center of innovation and intellectual exchange. Uniseum was established to commemorate this tradition, preserving not only the artifacts of the university's past but also the stories of its influential figures and alumni who have made significant contributions to various academic fields.
 
-The museum’s collections provide insight into the university's extensive history, showcasing items that range from historical documents and manuscripts to scientific instruments and artistic works. Each exhibit is carefully curated to highlight the milestones in education, research advancements, and the impact of the university on both a national and global scale.
+The museum's collections provide insight into the university's extensive history, showcasing items that range from historical documents and manuscripts to scientific instruments and artistic works. Each exhibit is carefully curated to highlight the milestones in education, research advancements, and the impact of the university on both a national and global scale.
 
 Uniseum also plays a role in fostering a dialogue about the importance of higher education in contemporary society. By engaging visitors with the historical context of the university's achievements, the museum encourages reflection on the ongoing relevance of academic inquiry and the pursuit of knowledge. With its emphasis on education and cultural heritage, Uniseum serves as a reminder of the enduring power of learning and the necessity of preserving historical narratives for future generations.
 
@@ -44,7 +44,7 @@ The architectural design of Uniseum is closely tied to the aesthetic of the Albe
 
 Inside Uniseum, visitors can explore a variety of exhibition spaces that are thoughtfully arranged to facilitate both individual exploration and guided tours. Each gallery features a selection of artifacts and displays that are designed to engage the audience and provoke curiosity. The layout is conducive to both learning and reflection, with spaces that invite visitors to ponder the historical significance of the items on display.
 
-Notable features of the museum include its diverse collection of academic memorabilia, original manuscripts, and various educational tools that have been used throughout the university’s history. These artifacts stand as a testament to the evolution of teaching and learning methodologies over the centuries. Additionally, the museum often hosts temporary exhibitions, lectures, and events, further enriching the intellectual environment of the university.
+Notable features of the museum include its diverse collection of academic memorabilia, original manuscripts, and various educational tools that have been used throughout the university's history. These artifacts stand as a testament to the evolution of teaching and learning methodologies over the centuries. Additionally, the museum often hosts temporary exhibitions, lectures, and events, further enriching the intellectual environment of the university.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting Uniseum can be an enriching experience for those interested in academia
 
 Check the official website for current information regarding hours of operation and admission prices, as these can vary depending on the time of year and special events. A visit typically requires a couple of hours, allowing ample time to explore the exhibits and engage with the educational resources available.
 
-The best times to visit Uniseum are during weekdays, when the museum is less crowded, allowing for a more intimate experience with the exhibits. Additionally, consider visiting during the university’s academic calendar for a chance to engage with student-led activities or special events that may be taking place.
+The best times to visit Uniseum are during weekdays, when the museum is less crowded, allowing for a more intimate experience with the exhibits. Additionally, consider visiting during the university's academic calendar for a chance to engage with student-led activities or special events that may be taking place.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ To enhance your visit to Uniseum, consider these insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter visit, aim for early morning or late afternoon times during weekdays, when the museum is typically less busy.
 
-- **Engage with Staff**: The museum staff are knowledgeable and can provide valuable insights about the exhibits and the history of the university, so don’t hesitate to ask questions.
+- **Engage with Staff**: The museum staff are knowledgeable and can provide valuable insights about the exhibits and the history of the university, so don't hesitate to ask questions.
 
 ## Practical Information
 

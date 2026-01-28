@@ -50,7 +50,7 @@ Among the notable features of the church are its elaborate altar and pulpit, bot
 
 To reach the Market Church of Our Dear Ladies, visitors can take advantage of various transport options available in Halle (Saale). The church is conveniently located in the city center, making it accessible via public transport or on foot. Parking options may also be available nearby, but it is advisable to check local guidelines.
 
-When planning a visit, it’s essential to consult the official website for current information regarding hours and ticket prices, as these can change. Visitors can expect to spend about one to two hours exploring the church and its surroundings, allowing ample time to appreciate both the interior and exterior features.
+When planning a visit, it's essential to consult the official website for current information regarding hours and ticket prices, as these can change. Visitors can expect to spend about one to two hours exploring the church and its surroundings, allowing ample time to appreciate both the interior and exterior features.
 
 The best times to visit are typically during weekdays when the church may be less crowded, providing a more intimate experience. Additionally, attending a service or event can offer a unique perspective on the church's role in the community.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or earlier in the day. If you
 
 ## Practical Information
 
-When planning your visit, it’s advisable to wear comfortable shoes, as exploring the church and its surroundings may involve some walking. Bringing a light jacket or sweater can also be helpful, as the interior may be cooler than expected.
+When planning your visit, it's advisable to wear comfortable shoes, as exploring the church and its surroundings may involve some walking. Bringing a light jacket or sweater can also be helpful, as the interior may be cooler than expected.
 
 Seasonal considerations are important as well; check the weather forecast prior to your visit to ensure a comfortable experience. If visiting during the winter months, be prepared for potentially colder temperatures and dress accordingly.
 
@@ -89,7 +89,7 @@ Visitors typically spend about one to two hours at the Market Church of Our Dear
 Photography is generally permitted, but it is always best to be respectful of the space and check for any specific guidelines upon entering.
 
 ### Are there guided tours?
-Check the official website for current information regarding guided tours, as they may be available for those interested in a deeper understanding of the church’s history and architecture.
+Check the official website for current information regarding guided tours, as they may be available for those interested in a deeper understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays, particularly in the mornings, are ideal for a quieter experience. Attending a service can also provide a unique perspective.

@@ -32,7 +32,7 @@ The Church of Our Lady is a prime example of the enduring religious and communit
 
 ## History and Significance
 
-The Church of Our Lady has played a pivotal role in the spiritual and communal life of Bremen. Its historical significance is deeply intertwined with the city’s development as a trading hub in the Hanseatic League. Throughout the years, it has served as a center for not only worship but also community gatherings and social events, reflecting the city's evolving identity.
+The Church of Our Lady has played a pivotal role in the spiritual and communal life of Bremen. Its historical significance is deeply intertwined with the city's development as a trading hub in the Hanseatic League. Throughout the years, it has served as a center for not only worship but also community gatherings and social events, reflecting the city's evolving identity.
 
 While specific dates of construction and major historical events are not detailed, the church represents a continuity of faith and community that has persisted in Bremen for generations. It stands as a symbol of resilience, having endured various historical changes and challenges over time. The church's architecture and the traditions associated with it offer insights into the religious practices and cultural values of the Bremen populace throughout history.
 
@@ -72,7 +72,7 @@ To avoid the crowds, try to plan your visit on a weekday rather than the weekend
 
 ## Practical Information
 
-When visiting the Church of Our Lady, it’s advisable to bring a small bag for personal items and a camera if you wish to document your experience. Dress comfortably but respectfully, as this is a place of worship. 
+When visiting the Church of Our Lady, it's advisable to bring a small bag for personal items and a camera if you wish to document your experience. Dress comfortably but respectfully, as this is a place of worship. 
 
 Seasonal considerations are also important; in winter, the church may host special services and events, while summer can bring additional cultural activities. Always check the official website for any seasonal updates or special events that may enhance your visit.
 

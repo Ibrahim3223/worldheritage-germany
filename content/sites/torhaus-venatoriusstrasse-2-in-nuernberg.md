@@ -36,11 +36,11 @@ As you prepare to visit, the Torhaus promises an engaging experience that highli
 
 The Torhaus Venatoriusstraße 2 holds a significant place within Nuremberg's rich tapestry of history. While specific dates regarding its construction and initial use may not be readily available, the gatehouse represents the architectural style and urban planning of the medieval period in Nuremberg. 
 
-Historically, gatehouses served as fortified entrances to cities, providing both protection and a means of control over the movement of people and goods. In the context of Nuremberg, a city that thrived as an important economic and cultural center during the Middle Ages, the Torhaus would have played a critical role in safeguarding the city’s interests. The gatehouse is emblematic of the defensive structures that were prevalent in medieval towns, reflecting the need for security during times of conflict and unrest.
+Historically, gatehouses served as fortified entrances to cities, providing both protection and a means of control over the movement of people and goods. In the context of Nuremberg, a city that thrived as an important economic and cultural center during the Middle Ages, the Torhaus would have played a critical role in safeguarding the city's interests. The gatehouse is emblematic of the defensive structures that were prevalent in medieval towns, reflecting the need for security during times of conflict and unrest.
 
 In addition to its defensive function, the Torhaus likely facilitated trade and commerce by regulating access to the city, making it an integral part of Nuremberg's urban infrastructure. The cultural importance of the site extends beyond its physical structure, as it resonates with the stories of the countless individuals who passed through its gates over the centuries.
 
-As a cultural heritage monument, the Torhaus is not merely a relic of the past but a vital piece of Nuremberg's ongoing narrative. It contributes to the understanding of the city’s historical evolution and its role in shaping regional identity. The preservation of such structures is crucial for future generations, providing a tangible connection to the past and the opportunity to learn from historical contexts.
+As a cultural heritage monument, the Torhaus is not merely a relic of the past but a vital piece of Nuremberg's ongoing narrative. It contributes to the understanding of the city's historical evolution and its role in shaping regional identity. The preservation of such structures is crucial for future generations, providing a tangible connection to the past and the opportunity to learn from historical contexts.
 
 ## Architecture and Features
 

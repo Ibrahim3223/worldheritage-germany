@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rathaus Lehrte is not just a city hall; it symbolizes the civic heart of Lehrte, a town located just northeast of Hannover, Germany. This building serves as a hub for local governance and community engagement, standing as a significant landmark within the region. Its location makes it easily accessible for both residents and visitors, providing a glimpse into the administrative workings of a typical German town. The Rathaus is deeply woven into the fabric of local life, reflecting the community’s identity and commitment to public service.
+Rathaus Lehrte is not just a city hall; it symbolizes the civic heart of Lehrte, a town located just northeast of Hannover, Germany. This building serves as a hub for local governance and community engagement, standing as a significant landmark within the region. Its location makes it easily accessible for both residents and visitors, providing a glimpse into the administrative workings of a typical German town. The Rathaus is deeply woven into the fabric of local life, reflecting the community's identity and commitment to public service.
 
 Surrounded by the historical and modern elements of Lehrte, the Rathaus is an essential stop for anyone interested in understanding the socio-political landscape of the area. The city hall is not only a functional space but also a visual representation of the town's aspirations and history. As you approach the building, you'll find it invites curiosity, urging visitors to explore its surroundings and the stories of the people who have shaped its legacy.
 
@@ -72,7 +72,7 @@ While visiting Rathaus Lehrte, there are several nearby attractions worth explor
 
 For photography enthusiasts, Rathaus Lehrte offers several picturesque angles, especially from the town square. Early mornings or late afternoons provide the best natural lighting for capturing the building's exterior. To avoid crowds, consider visiting during weekdays, particularly in the morning when the city hall is less busy.
 
-Engaging with local staff can also enhance your experience; they may share insights or stories about the building and its significance. Don’t hesitate to ask questions, as this can provide a richer understanding of the site.
+Engaging with local staff can also enhance your experience; they may share insights or stories about the building and its significance. Don't hesitate to ask questions, as this can provide a richer understanding of the site.
 
 ## Practical Information
 

@@ -44,7 +44,7 @@ St. Andrew's Church features elements that reflect its historical lineage and ar
 
 As you approach the church, you may notice its facade, which combines traditional elements with artistic enhancements. The interior is likely adorned with significant religious artworks and architectural details that contribute to its reverent atmosphere. 
 
-While specific dimensions and features are not detailed here, visitors can expect to find a space that encourages contemplation and admiration. The church’s design elements, from stained glass to altars, likely tell stories of faith and artistry, offering a glimpse into the spiritual life that has flourished within its walls.
+While specific dimensions and features are not detailed here, visitors can expect to find a space that encourages contemplation and admiration. The church's design elements, from stained glass to altars, likely tell stories of faith and artistry, offering a glimpse into the spiritual life that has flourished within its walls.
 
 ## Visiting Information
 
@@ -74,7 +74,7 @@ To fully appreciate the church's atmosphere, plan your visit during quieter time
 
 ## Practical Information
 
-When visiting St. Andrew's Church, it’s advisable to bring a camera to capture the stunning architecture and details of the interior. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
+When visiting St. Andrew's Church, it's advisable to bring a camera to capture the stunning architecture and details of the interior. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
 
 Seasonal considerations may impact your visit; check weather forecasts before heading out, and dress accordingly. If visiting during colder months, layering your clothing can make for a more enjoyable experience.
 

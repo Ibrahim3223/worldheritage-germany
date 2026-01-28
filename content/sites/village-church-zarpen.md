@@ -69,7 +69,7 @@ For photography enthusiasts, the Village Church Zarpen offers many opportunities
 
 ## Practical Information
 
-When planning your visit, it’s advisable to wear comfortable shoes, as exploring the church and its surroundings may involve walking. Depending on the season, bring appropriate clothing to ensure comfort during your visit. If you're planning to spend a longer time in the area, consider packing a light snack or water, although local cafes may also be available for refreshments.
+When planning your visit, it's advisable to wear comfortable shoes, as exploring the church and its surroundings may involve walking. Depending on the season, bring appropriate clothing to ensure comfort during your visit. If you're planning to spend a longer time in the area, consider packing a light snack or water, although local cafes may also be available for refreshments.
 
 ## Frequently Asked Questions
 
@@ -77,7 +77,7 @@ When planning your visit, it’s advisable to wear comfortable shoes, as explori
 A visit typically takes around one hour, but you may wish to stay longer to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the space and any services that may be taking place.
+Photography is generally permitted, but it's best to be respectful of the space and any services that may be taking place.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may offer deeper insights into the church's history.

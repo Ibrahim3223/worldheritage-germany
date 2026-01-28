@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-St. Thomas Church in Hörnum is a serene embodiment of the spiritual and cultural heritage of this charming coastal town in Germany. Located on the island of Sylt, Hörnum serves as a gateway to both natural beauty and historical significance. The church stands as a focal point for the local community, offering a space for worship and a venue for cultural gatherings. Its presence enhances the character of Hörnum, providing visitors with a glimpse into the region’s architectural style and religious practices.
+St. Thomas Church in Hörnum is a serene embodiment of the spiritual and cultural heritage of this charming coastal town in Germany. Located on the island of Sylt, Hörnum serves as a gateway to both natural beauty and historical significance. The church stands as a focal point for the local community, offering a space for worship and a venue for cultural gatherings. Its presence enhances the character of Hörnum, providing visitors with a glimpse into the region's architectural style and religious practices.
 
 The significance of St. Thomas Church extends beyond its physical structure. It is a landmark where locals and tourists alike come together to appreciate the serene ambiance of the island, while also engaging with the community's values and traditions. As visitors explore the church, they are invited to reflect on the cultural narratives that have shaped this coastal region throughout the years. 
 
 ## History and Significance
 
-St. Thomas Church is an important religious site in Hörnum, reflecting the long-standing Christian traditions that have played a crucial role in the community’s development. While specific historical details are scarce, the church's significance can be understood through its role as a center for worship and community gatherings. It serves as a vital link between the past and present for the residents of Hörnum, reinforcing their shared identity and cultural continuity.
+St. Thomas Church is an important religious site in Hörnum, reflecting the long-standing Christian traditions that have played a crucial role in the community's development. While specific historical details are scarce, the church's significance can be understood through its role as a center for worship and community gatherings. It serves as a vital link between the past and present for the residents of Hörnum, reinforcing their shared identity and cultural continuity.
 
-The church is part of a broader narrative that encompasses the development of Hörnum, which has transitioned from a small fishing village to a popular tourist destination. As such, St. Thomas Church represents a cornerstone of local identity, providing a place for reflection and connection amidst the changes brought about by modernization and tourism. The church’s enduring presence serves as a reminder of the values and beliefs that have shaped the community over time.
+The church is part of a broader narrative that encompasses the development of Hörnum, which has transitioned from a small fishing village to a popular tourist destination. As such, St. Thomas Church represents a cornerstone of local identity, providing a place for reflection and connection amidst the changes brought about by modernization and tourism. The church's enduring presence serves as a reminder of the values and beliefs that have shaped the community over time.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ Inside, visitors will find a space that is both welcoming and contemplative. The
 
 Visiting St. Thomas Church in Hörnum offers a tranquil experience for those looking to immerse themselves in the local culture and spirituality. The church is accessible via various transport options, including local bus services and walking paths from nearby accommodations. It is advisable to check the official website for current information regarding opening hours and any potential entrance fees, as details may vary seasonally.
 
-Visitors can expect a peaceful atmosphere, perfect for contemplation and exploration. While the duration of a visit may vary based on individual interests, spending around 30 minutes to an hour is often sufficient to appreciate the church’s architecture and ambiance. The best times to visit are typically during weekdays and early mornings, allowing for a more solitary experience away from potential crowds.
+Visitors can expect a peaceful atmosphere, perfect for contemplation and exploration. While the duration of a visit may vary based on individual interests, spending around 30 minutes to an hour is often sufficient to appreciate the church's architecture and ambiance. The best times to visit are typically during weekdays and early mornings, allowing for a more solitary experience away from potential crowds.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ When planning your visit to St. Thomas Church, it is advisable to bring a camera
 Typically, a visit to St. Thomas Church can take about 30 minutes to an hour, depending on your interest in the architecture and surroundings.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s always best to be respectful of the space and any ongoing services.
+While photography is generally permitted, it's always best to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available, as this may vary by season.

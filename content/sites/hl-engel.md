@@ -34,7 +34,7 @@ A visit to Hl. Engel provides an opportunity to engage with the local community 
 
 ## History and Significance
 
-The history of Hl. Engel reflects the broader narrative of church buildings in Germany, which have served as pivotal centers for community gatherings and spiritual life. While specific dates regarding its construction or significant events may not be readily available, the church’s enduring presence in Peine illustrates its long-standing importance to the community.
+The history of Hl. Engel reflects the broader narrative of church buildings in Germany, which have served as pivotal centers for community gatherings and spiritual life. While specific dates regarding its construction or significant events may not be readily available, the church's enduring presence in Peine illustrates its long-standing importance to the community.
 
 Church buildings like Hl. Engel often represent more than just a place of worship; they are sites where significant cultural and social events take place. They serve as venues for community celebrations, religious ceremonies, and a variety of gatherings that foster a sense of belonging among residents. The church's role extends beyond its religious significance, as it also acts as a historical landmark that has witnessed the changes and developments in the town over the years.
 

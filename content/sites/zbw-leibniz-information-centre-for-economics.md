@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Nestled in the vibrant city of Hamburg, Germany, the ZBW - Leibniz Information Centre for Economics serves as the world's largest library dedicated to the field of economics. This foundation is not merely a repository of books; it is a hub of knowledge and research, fostering an appreciation for economic science and its relevance in today’s world. As a significant institution in the global landscape of economic research, ZBW offers resources that cater to scholars, students, and the general public interested in economic theory and practice.
+Nestled in the vibrant city of Hamburg, Germany, the ZBW - Leibniz Information Centre for Economics serves as the world's largest library dedicated to the field of economics. This foundation is not merely a repository of books; it is a hub of knowledge and research, fostering an appreciation for economic science and its relevance in today's world. As a significant institution in the global landscape of economic research, ZBW offers resources that cater to scholars, students, and the general public interested in economic theory and practice.
 
 The library is strategically located in Hamburg, a city known for its historical maritime trade and economic significance in Europe. This prime location allows for easy access to a wealth of information and serves as a focal point for economic discourse. Visitors to ZBW can expect to find a modern facility equipped with extensive collections, advanced technology, and a commitment to promoting economic literacy.
 
@@ -82,7 +82,7 @@ Exploring these nearby attractions can enhance your visit to the ZBW, allowing y
 
 To make the most of your visit to the ZBW - Leibniz Information Centre for Economics, consider the following tips:
 
-- **Photography**: While personal photography may be allowed in certain areas, it’s always best to check in with the staff about any restrictions, especially in study zones.
+- **Photography**: While personal photography may be allowed in certain areas, it's always best to check in with the staff about any restrictions, especially in study zones.
   
 - **Crowd Avoidance**: To enjoy a quieter experience, visit during weekday mornings or early afternoons, avoiding peak hours when students and researchers are more likely to be present.
 
@@ -104,7 +104,7 @@ When planning your visit to the ZBW - Leibniz Information Centre for Economics, 
 Depending on your interests and research needs, a visit can last anywhere from a couple of hours to a full day. 
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check with the staff upon arrival.
+Photography policies may vary; it's best to check with the staff upon arrival.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website; check for current offerings.

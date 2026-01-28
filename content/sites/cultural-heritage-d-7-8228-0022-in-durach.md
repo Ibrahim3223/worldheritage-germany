@@ -54,7 +54,7 @@ As a cultural heritage monument, the fortification is not just a relic of milita
 
 For those planning a visit to Cultural heritage D-7-8228-0022 in Durach, accessing the site is relatively straightforward. Durach is well-connected by local transportation, making it easier for visitors to reach this fortification. Whether you choose to drive or use public transport, the site is accessible for a variety of travel preferences.
 
-Check the official website for current information regarding opening hours and any potential admission fees. While specific hours may vary, it's advisable to plan your visit during daylight hours to fully appreciate the site’s features and the surrounding area. 
+Check the official website for current information regarding opening hours and any potential admission fees. While specific hours may vary, it's advisable to plan your visit during daylight hours to fully appreciate the site's features and the surrounding area. 
 
 Expect to spend a couple of hours exploring the fortification, allowing ample time to soak in the atmosphere and engage with the historical context. The best times to visit are typically during the spring and autumn months when the weather is mild, and crowds are generally smaller, allowing for a more intimate experience with the site.
 

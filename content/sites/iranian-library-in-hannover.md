@@ -74,7 +74,7 @@ While visiting the Iranian Library in Hannover, consider exploring some nearby a
 
 When planning your visit to the Iranian Library in Hannover, consider bringing a notebook or device for taking notes, especially if you're interested in the literary resources available. Depending on the time of year, dress comfortably for the weather, as you may want to explore the surrounding area afterward. 
 
-If you have specific interests in Persian literature or culture, consider researching topics or authors in advance to enrich your experience. Seasonal events may also dictate the best times to visit, so checking the library’s official website for updates and announcements is advisable.
+If you have specific interests in Persian literature or culture, consider researching topics or authors in advance to enrich your experience. Seasonal events may also dictate the best times to visit, so checking the library's official website for updates and announcements is advisable.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ Weekdays or early mornings may offer a quieter experience. Additionally, conside
 The library generally strives to be accessible; however, it is advisable to check in advance regarding specific facilities.
 
 ### Can I buy tickets online?
-For current information regarding ticket purchases, including any potential fees, please check the library’s official website.
+For current information regarding ticket purchases, including any potential fees, please check the library's official website.
 
 ### Are there restrooms and cafes?
 The library typically provides restroom facilities. For cafes or dining options, explore nearby locations, as the library may not have an on-site cafe.

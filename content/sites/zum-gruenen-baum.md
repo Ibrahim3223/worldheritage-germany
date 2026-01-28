@@ -28,7 +28,7 @@ image_srcset:
 
 Zum Grünen Baum, located in the heart of Kempten, Germany, is a brewery that embodies the region's rich brewing tradition and architectural heritage. This significant site is not just a place to enjoy locally crafted beer; it is an architectural heritage monument that showcases the historical significance of brewing in the area. Kempten, known for its charming streets and vibrant culture, provides a fitting backdrop for this establishment, which has been a part of the community for generations. 
 
-Visitors to Zum Grünen Baum can expect a unique experience that combines the appreciation of traditional brewing techniques with an exploration of the site’s historical context. The brewery’s long-standing presence in Kempten highlights the importance of local craftsmanship and the cultural practices associated with beer production. Whether you are a history enthusiast, a beer connoisseur, or simply looking for an engaging outing, Zum Grünen Baum promises a delightful encounter with both heritage and hospitality.
+Visitors to Zum Grünen Baum can expect a unique experience that combines the appreciation of traditional brewing techniques with an exploration of the site's historical context. The brewery's long-standing presence in Kempten highlights the importance of local craftsmanship and the cultural practices associated with beer production. Whether you are a history enthusiast, a beer connoisseur, or simply looking for an engaging outing, Zum Grünen Baum promises a delightful encounter with both heritage and hospitality.
 
 ## History and Significance
 
@@ -103,7 +103,7 @@ Accessibility may vary, so it's best to check with the brewery directly for spec
 Confirm with the official website regarding the availability of online ticket purchases.
 
 ### Are there restrooms and cafes?
-Facilities are typically available on-site, but it’s best to verify current amenities on the brewery’s website.
+Facilities are typically available on-site, but it's best to verify current amenities on the brewery's website.
 
 ### What should I wear?
 Dress comfortably, and consider layers, as temperatures can vary within the brewery and surrounding areas.

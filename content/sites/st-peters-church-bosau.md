@@ -62,7 +62,7 @@ While visiting St. Peters Church, there are several nearby attractions worth exp
 
 1. **Lake Dieksee**: Just a short distance away, this scenic lake offers opportunities for walking, picnicking, and enjoying nature. 
    
-2. **The Historic Town Center**: Take a stroll through Bosau’s charming streets, where you can discover local shops and eateries.
+2. **The Historic Town Center**: Take a stroll through Bosau's charming streets, where you can discover local shops and eateries.
    
 3. **The Evangelische Kirche**: Another nearby church that may interest visitors, showcasing different architectural styles and community history.
    
@@ -74,7 +74,7 @@ While visiting St. Peters Church, there are several nearby attractions worth exp
 
 For the best photography opportunities, early morning or late afternoon light can create stunning effects against the church's architecture. Be mindful of any ongoing services or community events, as these may attract larger crowds and limit your ability to capture serene images. 
 
-To avoid the busiest times, consider visiting during weekdays. If you’re looking for a quieter experience, aim for mid-morning or early afternoon, when traffic is generally lighter. Engaging with locals can also enrich your visit, as they may share personal stories or insights about the church and its significance in the community.
+To avoid the busiest times, consider visiting during weekdays. If you're looking for a quieter experience, aim for mid-morning or early afternoon, when traffic is generally lighter. Engaging with locals can also enrich your visit, as they may share personal stories or insights about the church and its significance in the community.
 
 ## Practical Information
 
@@ -88,16 +88,16 @@ Accessibility features may vary, so be sure to check for any accommodations if n
 A visit typically takes about one hour, but you may wish to stay longer to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally welcomed, but it’s recommended to be respectful of worshippers and any services taking place.
+Photography is generally welcomed, but it's recommended to be respectful of worshippers and any services taking place.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may enhance your understanding of the church’s history and architecture.
+Check the official website for information on guided tours, which may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Midweek visits are often quieter, providing a more intimate experience. Early mornings or late afternoons are ideal for photography.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary. It’s best to check the official website for details regarding wheelchair access.
+Accessibility information can vary. It's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket availability and purchasing options.

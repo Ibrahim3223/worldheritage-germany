@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Murgtalsperre Kirschbaumwasen is a remarkable dam located in Forbach, Germany, showcasing the intersection of engineering and natural beauty. This dam serves not only a practical purpose in water management but also stands as a significant structure within the region, contributing to flood control and hydroelectric power generation. The dam's strategic positioning in the Murg Valley allows it to harness the region’s water resources effectively, making it a vital asset for both local communities and the environment.
+The Murgtalsperre Kirschbaumwasen is a remarkable dam located in Forbach, Germany, showcasing the intersection of engineering and natural beauty. This dam serves not only a practical purpose in water management but also stands as a significant structure within the region, contributing to flood control and hydroelectric power generation. The dam's strategic positioning in the Murg Valley allows it to harness the region's water resources effectively, making it a vital asset for both local communities and the environment.
 
 Visitors to the Murgtalsperre Kirschbaumwasen can expect to find a blend of serene landscapes and impressive engineering. The dam is surrounded by lush greenery and the tranquil waters of the reservoir, creating a picturesque setting that invites exploration. Whether you are an enthusiast of engineering marvels or simply seeking a peaceful spot in nature, this dam offers an appealing destination.
 
@@ -106,4 +106,4 @@ Facilities like restrooms and cafes may be available; consult the official websi
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended, considering the potential variability in terrain and weather conditions.
 
-The Murgtalsperre Kirschbaumwasen stands as a significant feature in the Forbach region, offering visitors a unique blend of natural beauty and engineering excellence. As you explore this site, you’ll gain insights into the importance of water management and the cultural significance of such structures.
+The Murgtalsperre Kirschbaumwasen stands as a significant feature in the Forbach region, offering visitors a unique blend of natural beauty and engineering excellence. As you explore this site, you'll gain insights into the importance of water management and the cultural significance of such structures.

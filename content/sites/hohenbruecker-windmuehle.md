@@ -78,7 +78,7 @@ For photography enthusiasts, the best shots of the windmill are typically taken 
 
 ## Practical Information
 
-When visiting Hohenbrücker Windmühle, it’s beneficial to bring a few essentials along. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. A camera is a must for capturing the unique architecture and picturesque landscapes.
+When visiting Hohenbrücker Windmühle, it's beneficial to bring a few essentials along. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. A camera is a must for capturing the unique architecture and picturesque landscapes.
 
 Seasonal considerations are important; spring and summer generally offer the most favorable weather for outdoor activities, while fall may provide beautiful foliage. Always check the official website for any seasonal events or changes in visiting hours, especially during holidays.
 
@@ -88,10 +88,10 @@ Seasonal considerations are important; spring and summer generally offer the mos
 A typical visit may take about one to two hours, allowing time for exploration and learning.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s advisable to be respectful of any guidelines provided by staff.
+Yes, photography is generally permitted, but it's advisable to be respectful of any guidelines provided by staff.
 
 ### Are there guided tours?
-Guided tours are often available, providing insight into the windmill’s history and mechanics.
+Guided tours are often available, providing insight into the windmill's history and mechanics.
 
 ### What's the best time to visit?
 The warm months, particularly spring and summer, are ideal for visiting when the weather is pleasant and conducive to outdoor activities.

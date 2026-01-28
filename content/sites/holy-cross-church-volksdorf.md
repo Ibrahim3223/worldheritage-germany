@@ -78,7 +78,7 @@ To make the most of your visit to Holy Cross Church Volksdorf, consider these in
 
 ## Practical Information
 
-When visiting Holy Cross Church Volksdorf, it’s advisable to bring a few essentials to enhance your experience. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area. A camera can be useful for capturing the church's architectural details, though be mindful of the church's policies on photography.
+When visiting Holy Cross Church Volksdorf, it's advisable to bring a few essentials to enhance your experience. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area. A camera can be useful for capturing the church's architectural details, though be mindful of the church's policies on photography.
 
 Seasonal considerations should also be taken into account. If visiting during the winter months, dress warmly, as the church may be cooler than expected. In contrast, summer visits allow for enjoying the outdoor surroundings, making it a pleasant time to explore both the church and its nearby attractions.
 

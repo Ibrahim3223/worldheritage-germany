@@ -26,7 +26,7 @@ As you approach the museum, you'll find it conveniently situated, making it an a
 
 ## History and Significance
 
-Museum Viechtach is not just a repository of artifacts; it plays a crucial role in the cultural landscape of the region. The museum’s dedication to preserving local history is evident in its carefully curated exhibits that cover various aspects of the area's development. Although specific historical dates may not be available, the museum encapsulates the evolution of Viechtach from its early origins to its contemporary significance.
+Museum Viechtach is not just a repository of artifacts; it plays a crucial role in the cultural landscape of the region. The museum's dedication to preserving local history is evident in its carefully curated exhibits that cover various aspects of the area's development. Although specific historical dates may not be available, the museum encapsulates the evolution of Viechtach from its early origins to its contemporary significance.
 
 The museum often focuses on themes that resonate with the local population, such as traditional crafts, agricultural practices, and community life. This emphasis on local culture provides visitors with valuable insights into the customs and traditions that have shaped the identity of Viechtach over the years. Engaging displays encourage guests to reflect on how these historical narratives continue to influence their lives today.
 
@@ -54,7 +54,7 @@ Museum Viechtach is situated in a region rich with additional attractions that c
 
 1. **Viechtach Town Center** - A charming area filled with local shops and cafes, perfect for a leisurely stroll.
 2. **Local Parks** - The surrounding parks offer scenic walking paths and natural beauty, ideal for outdoor enthusiasts.
-3. **Historical Sites** - Discover other historical landmarks in the area that provide insight into the region’s past.
+3. **Historical Sites** - Discover other historical landmarks in the area that provide insight into the region's past.
 4. **Cultural Festivals** - Check local listings for any festivals or events celebrating regional culture, often held throughout the year.
 5. **Nature Trails** - For those interested in outdoor activities, nearby nature trails offer an opportunity to explore the stunning landscape.
 

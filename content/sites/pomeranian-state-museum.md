@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview 
 
-The Pomeranian State Museum, located in the historic city of Greifswald, Germany, serves as a public institution that specializes in the history and arts of the Pomeranian region. As a significant cultural establishment, it offers an insightful exploration of the area’s heritage, showcasing a diverse collection that spans various artistic expressions and historical narratives. Visitors are welcomed into a space that not only celebrates local art but also provides a deeper understanding of Pomeranian culture and its evolution over time.
+The Pomeranian State Museum, located in the historic city of Greifswald, Germany, serves as a public institution that specializes in the history and arts of the Pomeranian region. As a significant cultural establishment, it offers an insightful exploration of the area's heritage, showcasing a diverse collection that spans various artistic expressions and historical narratives. Visitors are welcomed into a space that not only celebrates local art but also provides a deeper understanding of Pomeranian culture and its evolution over time.
 
 Situated in the picturesque landscape of northern Germany, Greifswald itself has a rich intellectual tradition, being home to one of the oldest universities in the country. The museum plays a vital role in preserving and presenting the artistic and historical legacy of Pomerania, attracting both local residents and international visitors. With its comprehensive exhibits and engaging educational programs, the Pomeranian State Museum promises a rewarding experience for all who seek to connect with the region's past and artistic endeavors.
 
@@ -34,7 +34,7 @@ Situated in the picturesque landscape of northern Germany, Greifswald itself has
 
 The Pomeranian State Museum is a cornerstone of cultural heritage in Greifswald, reflecting the rich history of Pomerania that dates back centuries. The museum's collections encompass a variety of art forms, including paintings, sculptures, and historical artifacts that narrate the story of this unique region. The significance of the museum extends beyond its collections; it serves as a venue for exhibitions and cultural events, fostering a deeper appreciation of Pomeranian identity.
 
-Throughout its existence, the museum has played a pivotal role in the preservation of local history and culture. Its commitment to education and community engagement has made it a vital resource for researchers, artists, and history enthusiasts alike. The museum’s exhibitions often highlight the connections between Pomerania and broader European art movements, showcasing how local artists have contributed to and been influenced by wider trends. 
+Throughout its existence, the museum has played a pivotal role in the preservation of local history and culture. Its commitment to education and community engagement has made it a vital resource for researchers, artists, and history enthusiasts alike. The museum's exhibitions often highlight the connections between Pomerania and broader European art movements, showcasing how local artists have contributed to and been influenced by wider trends. 
 
 As a public institution, the museum is dedicated to making art and history accessible to everyone, embodying the spirit of inclusivity and engagement. Through its various programs, it encourages dialogue about the region's past and its relevance to contemporary society, ensuring that the legacy of Pomerania continues to inspire future generations.
 
@@ -86,7 +86,7 @@ It is also wise to bring a reusable water bottle and perhaps a light snack, as y
 A typical visit lasts about two to three hours, allowing you to fully engage with the exhibits and any special programs.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum staff or signage regarding specific restrictions in certain exhibits.
+Photography policies may vary, so it's best to check with the museum staff or signage regarding specific restrictions in certain exhibits.
 
 ### Are there guided tours?
 Yes, the museum regularly offers guided tours that provide deeper insights into the collections and their significance.

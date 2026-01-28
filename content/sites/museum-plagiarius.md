@@ -92,10 +92,10 @@ When preparing for your visit to Museum Plagiarius, here are some practical cons
 Most visitors spend around two hours at Museum Plagiarius, but this can vary based on personal interest.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the museum upon arrival.
+Photography policies can vary, so it's best to check with the museum upon arrival.
 
 ### Are there guided tours?
-Information regarding guided tours can usually be found on the museum’s official website.
+Information regarding guided tours can usually be found on the museum's official website.
 
 ### What's the best time to visit?
 Weekdays are generally less crowded, making them ideal for a more relaxed experience.

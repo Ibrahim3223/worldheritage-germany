@@ -42,7 +42,7 @@ The Preußengrab is characterized by its straightforward yet poignant design tha
 
 Visitors can expect to encounter inscriptions or plaques that provide insight into the individuals or events being commemorated. Such features are vital for conveying the significance of the site and enhancing the visitor experience. The simplicity of the design often allows for a direct emotional connection, prompting contemplation of the lives and stories represented.
 
-The setting of the monument in Thuringia adds another layer of significance. It is surrounded by the natural beauty of the region, which enhances the memorial’s impact as a place of reflection. The peaceful environment encourages visitors to engage deeply with the site’s meaning while appreciating the landscape that frames it.
+The setting of the monument in Thuringia adds another layer of significance. It is surrounded by the natural beauty of the region, which enhances the memorial's impact as a place of reflection. The peaceful environment encourages visitors to engage deeply with the site's meaning while appreciating the landscape that frames it.
 
 ## Visiting Information
 
@@ -50,7 +50,7 @@ Visiting the Preußengrab Ichtershausen is an enriching experience that offers a
 
 While you plan your visit, it's essential to check the official website for the latest details on hours of operation and any potential entry fees. The monument is accessible year-round, and the tranquil environment makes it a suitable destination for reflection at any time.
 
-Expect to spend approximately an hour at the Preußengrab, allowing time to absorb the site’s significance and enjoy the surrounding area. Early mornings or late afternoons may offer a more peaceful experience, as these times often see fewer visitors.
+Expect to spend approximately an hour at the Preußengrab, allowing time to absorb the site's significance and enjoy the surrounding area. Early mornings or late afternoons may offer a more peaceful experience, as these times often see fewer visitors.
 
 ## Nearby Attractions
 

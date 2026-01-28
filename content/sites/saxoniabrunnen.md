@@ -34,7 +34,7 @@ Chemnitz, known for its industrial history and modern developments, has transfor
 
 While specific historical dates may not be available, Saxoniabrunnen has played a vital role in the urban landscape of Chemnitz. The fountain reflects the city's growth and transformation over the years, symbolizing community life and public engagement. Historically, fountains have served as essential water sources and social hubs, fostering connection and interaction among residents. In this regard, Saxoniabrunnen aligns with this longstanding tradition.
 
-Culturally, the fountain’s presence speaks volumes about the values of public art in urban settings. Fountains often embody artistic expressions that resonate with the local community, and Saxoniabrunnen is no exception. It not only enhances the aesthetic appeal of its surroundings but also invites contemplation and enjoyment, contributing to the overall character of Chemnitz.
+Culturally, the fountain's presence speaks volumes about the values of public art in urban settings. Fountains often embody artistic expressions that resonate with the local community, and Saxoniabrunnen is no exception. It not only enhances the aesthetic appeal of its surroundings but also invites contemplation and enjoyment, contributing to the overall character of Chemnitz.
 
 As cities evolve, the preservation of elements like Saxoniabrunnen becomes crucial. The fountain stands as a reminder of the importance of integrating historical features within modern urban planning, ensuring that the past remains a part of the present. 
 

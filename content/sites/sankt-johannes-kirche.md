@@ -66,7 +66,7 @@ When visiting Sankt-Johannes-Kirche, consider exploring some nearby attractions 
    
 3. **Museum of Local History**: Delve into the local heritage and learn about the history of Arendsee and its surroundings through various exhibits and displays.
 
-4. **St. Mary's Church (Marienkirche)**: Another notable church in the area that showcases different architectural styles and offers insight into the region’s religious history.
+4. **St. Mary's Church (Marienkirche)**: Another notable church in the area that showcases different architectural styles and offers insight into the region's religious history.
 
 5. **Nature Reserves**: The Altmark region is home to several nature reserves that provide excellent hiking and birdwatching opportunities, allowing visitors to connect with the local flora and fauna.
 
@@ -82,7 +82,7 @@ When planning your visit to Sankt-Johannes-Kirche, consider these insider tips:
 
 Visitors to Sankt-Johannes-Kirche should come prepared for their trip. Comfortable walking shoes are recommended, as you may wish to explore the church grounds and nearby attractions. Depending on the season, consider dressing in layers, as church interiors can be cooler than expected, especially in winter.
 
-If you plan to visit during peak tourist seasons, it’s wise to check for any scheduled events that may affect access to the church. Bringing a small bag for personal items, a refillable water bottle, and perhaps a notebook for jotting down thoughts or sketches can enhance your visit.
+If you plan to visit during peak tourist seasons, it's wise to check for any scheduled events that may affect access to the church. Bringing a small bag for personal items, a refillable water bottle, and perhaps a notebook for jotting down thoughts or sketches can enhance your visit.
 
 ## Frequently Asked Questions
 
@@ -92,7 +92,7 @@ A visit to Sankt-Johannes-Kirche typically takes about an hour, allowing for exp
 
 ### Is photography allowed?
 
-Photography is usually allowed, but it’s best to check for specific restrictions, especially during religious services.
+Photography is usually allowed, but it's best to check for specific restrictions, especially during religious services.
 
 ### Are there guided tours?
 

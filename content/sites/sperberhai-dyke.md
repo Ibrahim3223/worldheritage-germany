@@ -28,7 +28,7 @@ image_srcset:
 
 The Sperberhai Dyke, located in the heart of Clausthal-Zellerfeld, Germany, is an impressive aqueduct that forms part of the Oberharzer Wasserregal, a historic water management system. This engineering marvel not only served practical purposes in the past but also stands as an emblem of the region's industrious spirit and innovative approaches to resource management. The aqueduct is a key element in understanding the complex relationship between water management and mining activities that characterized the Harz Mountains, particularly during the mining boom of the late medieval period and beyond.
 
-Visitors to the Sperberhai Dyke can expect to immerse themselves in the serene beauty of the surrounding landscape while also appreciating the historical significance of this structure. The aqueduct is easily accessible, making it a perfect stop for those exploring the Harz region’s natural and cultural heritage. The experience promises not just a glimpse into the past but also a deeper understanding of how the management of water resources has shaped the development of the area.
+Visitors to the Sperberhai Dyke can expect to immerse themselves in the serene beauty of the surrounding landscape while also appreciating the historical significance of this structure. The aqueduct is easily accessible, making it a perfect stop for those exploring the Harz region's natural and cultural heritage. The experience promises not just a glimpse into the past but also a deeper understanding of how the management of water resources has shaped the development of the area.
 
 ## History and Significance
 

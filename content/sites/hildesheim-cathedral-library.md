@@ -32,9 +32,9 @@ The library's collection encompasses a wide array of texts, reflecting the eccle
 
 ## History and Significance
 
-The Hildesheim Cathedral Library has been an essential part of the Bishopric of Hildesheim, a diocese that has played a pivotal role in the religious and cultural landscape of Germany. The library’s origins can be traced back to the early medieval period, a time when monasteries served as crucial centers for learning and preservation of texts. Throughout the centuries, the library has amassed a significant collection of manuscripts, many of which are invaluable for their historical and theological content.
+The Hildesheim Cathedral Library has been an essential part of the Bishopric of Hildesheim, a diocese that has played a pivotal role in the religious and cultural landscape of Germany. The library's origins can be traced back to the early medieval period, a time when monasteries served as crucial centers for learning and preservation of texts. Throughout the centuries, the library has amassed a significant collection of manuscripts, many of which are invaluable for their historical and theological content.
 
-The library’s significance extends beyond its collection; it has been a center for scholarly activity and theological discourse. The texts housed here have influenced generations of scholars, theologians, and laypeople alike. The institution reflects the importance of libraries in safeguarding knowledge through turbulent times, including the Reformation and various cultural shifts in Europe.
+The library's significance extends beyond its collection; it has been a center for scholarly activity and theological discourse. The texts housed here have influenced generations of scholars, theologians, and laypeople alike. The institution reflects the importance of libraries in safeguarding knowledge through turbulent times, including the Reformation and various cultural shifts in Europe.
 
 The library's role in the community of Hildesheim cannot be overstated. It has fostered a culture of education and inquiry, contributing to the intellectual vibrancy of the region. The collection has been carefully curated to include works that not only reflect the religious heritage of the area but also encompass broader intellectual developments. 
 
@@ -68,7 +68,7 @@ While visiting the Hildesheim Cathedral Library, take the opportunity to explore
 
 1. **Hildesheim Cathedral**: Just steps away, this UNESCO World Heritage site is renowned for its stunning architecture and historical significance.
 
-2. **St. Michael’s Church**: Another UNESCO site, this church features remarkable Romanesque architecture and beautiful frescoes.
+2. **St. Michael's Church**: Another UNESCO site, this church features remarkable Romanesque architecture and beautiful frescoes.
 
 3. **Historic Market Square**: A picturesque area filled with half-timbered houses, shops, and cafes, perfect for a leisurely stroll.
 
@@ -88,7 +88,7 @@ To enhance your visit to the Hildesheim Cathedral Library, consider these inside
 
 When planning your trip to the Hildesheim Cathedral Library, keep the following practical considerations in mind:
 
-- **What to bring**: It’s advisable to carry a notebook and pen for jotting down thoughts or notes. If you plan to conduct research, consider bringing a laptop or tablet.
+- **What to bring**: It's advisable to carry a notebook and pen for jotting down thoughts or notes. If you plan to conduct research, consider bringing a laptop or tablet.
 
 - **Seasonal considerations**: Hildesheim experiences a temperate climate, so dress appropriately for the season. Spring and early autumn are particularly pleasant times to visit, with mild weather conducive to exploration.
 

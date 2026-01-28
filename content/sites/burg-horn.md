@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Horn, a captivating castle located in Horn-Bad Meinberg, Germany, invites visitors to explore its storied past and architectural charm. This historical fortress serves as a reminder of the region's medieval heritage, showcasing the strategic importance of such structures in times gone by. Surrounded by lush landscapes and a picturesque town, Burg Horn finds itself at the crossroads of history and natural beauty, making it a compelling destination for heritage enthusiasts and casual travelers alike. 
 
-As you approach the castle, the impressive silhouette of its towers and walls conveys a sense of grandeur and intrigue. The castle’s historical significance extends beyond its architecture, providing insights into the life and times of those who once inhabited these grounds. Whether you're a history buff, an architecture aficionado, or simply looking to enjoy a peaceful retreat, Burg Horn promises an enriching experience.
+As you approach the castle, the impressive silhouette of its towers and walls conveys a sense of grandeur and intrigue. The castle's historical significance extends beyond its architecture, providing insights into the life and times of those who once inhabited these grounds. Whether you're a history buff, an architecture aficionado, or simply looking to enjoy a peaceful retreat, Burg Horn promises an enriching experience.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Burg Horn's architectural design showcases the characteristics of medieval castl
 
 Visitors will notice the strategic placement of the castle, designed to maximize its defensive capabilities. The layout may include an inner courtyard, which often served as a gathering space for residents and their guests. The imposing presence of the castle, with its vertical lines and stone masonry, speaks to the craftsmanship and engineering skills of the time.
 
-In addition to its defensive features, Burg Horn’s design may reflect the lifestyle of its inhabitants. Elements such as living quarters, storage rooms, and communal areas would have been essential for daily life in the castle. The combination of functionality and strength is a hallmark of medieval architecture, making Burg Horn a fascinating study for those interested in historical building practices.
+In addition to its defensive features, Burg Horn's design may reflect the lifestyle of its inhabitants. Elements such as living quarters, storage rooms, and communal areas would have been essential for daily life in the castle. The combination of functionality and strength is a hallmark of medieval architecture, making Burg Horn a fascinating study for those interested in historical building practices.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or during off-peak hours. Thi
 
 When planning your visit to Burg Horn, it's wise to bring a few essentials. Comfortable walking shoes are recommended, as exploring the castle grounds may involve uneven terrain. Depending on the season, dress in layers to accommodate changing weather conditions, particularly if you plan to spend time outdoors.
 
-Check the local weather forecast to prepare for your visit, and consider bringing a camera to capture the castle's striking features. If you’re interested in learning more about the history or architecture, consider bringing along a guidebook or research materials to enhance your understanding of the site.
+Check the local weather forecast to prepare for your visit, and consider bringing a camera to capture the castle's striking features. If you're interested in learning more about the history or architecture, consider bringing along a guidebook or research materials to enhance your understanding of the site.
 
 ## Frequently Asked Questions
 

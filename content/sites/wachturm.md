@@ -50,7 +50,7 @@ The overall aesthetic of Wachturm, like many castles in the region, reflects the
 
 For those planning to visit Wachturm, the journey begins with transportation options to Kasendorf. The castle is accessible by car, with parking available nearby. Public transport options may also exist, so checking local transit schedules is advisable. 
 
-Visitors should check the official website for current information regarding hours of operation and any potential entry fees. It is recommended to allocate a few hours for the visit, allowing ample time to explore the grounds and appreciate the castle’s architecture. While specific peak times are not mentioned, visiting during weekdays or early in the morning may help avoid larger crowds.
+Visitors should check the official website for current information regarding hours of operation and any potential entry fees. It is recommended to allocate a few hours for the visit, allowing ample time to explore the grounds and appreciate the castle's architecture. While specific peak times are not mentioned, visiting during weekdays or early in the morning may help avoid larger crowds.
 
 As you approach Wachturm, be prepared for a site that invites exploration. Whether you are interested in photography, history, or architecture, the castle offers various perspectives that capture its essence.
 

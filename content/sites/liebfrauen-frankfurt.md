@@ -46,11 +46,11 @@ Visitors will find that the church's architecture not only serves a functional p
 
 ## Visiting Information
 
-When planning a visit to Liebfrauen, it’s essential to consider transportation options, as the church is conveniently located in Frankfurt's Innenstadt. Public transportation, including tram and bus services, provides easy access to the church. Visitors can check the official website for the most current information regarding hours of operation and any potential admission fees.
+When planning a visit to Liebfrauen, it's essential to consider transportation options, as the church is conveniently located in Frankfurt's Innenstadt. Public transportation, including tram and bus services, provides easy access to the church. Visitors can check the official website for the most current information regarding hours of operation and any potential admission fees.
 
 Expect a tranquil atmosphere within the church, where you can spend time reflecting or simply enjoying the serene environment. The average visit might last around an hour, allowing ample time to explore the interior, appreciate the architecture, and absorb the church's ambiance. 
 
-For the best experience, consider visiting during weekdays when the church is less crowded, allowing for a more intimate encounter with the space. Additionally, attending a Mass or service can offer unique insights into the church’s role in the community.
+For the best experience, consider visiting during weekdays when the church is less crowded, allowing for a more intimate encounter with the space. Additionally, attending a Mass or service can offer unique insights into the church's role in the community.
 
 ## Nearby Attractions
 
@@ -70,7 +70,7 @@ While visiting Liebfrauen, take advantage of the opportunity to explore other no
 
 For those looking to capture the beauty of Liebfrauen, it is advisable to visit during the early morning or late afternoon. The softer light during these times enhances the church's architectural features and the vibrancy of the stained glass. Additionally, visiting on weekdays can help avoid larger crowds, allowing for a more peaceful experience.
 
-If you are interested in attending a service, check the schedule in advance, as this can provide a unique perspective on the church’s community engagement and spiritual life.
+If you are interested in attending a service, check the schedule in advance, as this can provide a unique perspective on the church's community engagement and spiritual life.
 
 ## Practical Information 
 

@@ -84,7 +84,7 @@ When visiting Burgruine Steinenschloss, consider these insider tips to enhance y
 
 ## Practical Information
 
-Before heading to Burgruine Steinenschloss, it’s essential to prepare appropriately for your visit:
+Before heading to Burgruine Steinenschloss, it's essential to prepare appropriately for your visit:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as the terrain may be uneven. Additionally, a water bottle, sunscreen, and a camera can enhance your experience.
 

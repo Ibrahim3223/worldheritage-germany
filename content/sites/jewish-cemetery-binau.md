@@ -34,7 +34,7 @@ Visiting the Jewish Cemetery in Binau is more than just a trip to a historical s
 
 ## History and Significance
 
-The Jewish Cemetery in Binau holds deep cultural and historical significance for both the local community and visitors. While specific dates and events may not be detailed in the available information, the cemetery stands as a testament to the Jewish presence in the area, which has been an integral part of Binau’s history. 
+The Jewish Cemetery in Binau holds deep cultural and historical significance for both the local community and visitors. While specific dates and events may not be detailed in the available information, the cemetery stands as a testament to the Jewish presence in the area, which has been an integral part of Binau's history. 
 
 Throughout the centuries, Jewish communities in Germany faced numerous challenges, including persecution and displacement. The cemetery serves as a memorial to those who lived, suffered, and contributed to the cultural fabric of Binau before the community dwindled due to the impacts of World War II and subsequent events. Each gravestone encapsulates personal histories, reflecting the lives of individuals and families who once inhabited this region.
 

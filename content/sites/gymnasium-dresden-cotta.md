@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gymnasium Dresden-Cotta is an educational institution situated in the vibrant city of Dresden, Germany. This school building serves as a crucial part of the academic landscape in the region, contributing to the education and development of its students in a historically rich environment. Located at the coordinates 51.0578, 13.6865, the gymnasium not only serves its primary purpose as a center for learning but also stands as a significant emblem of the community’s commitment to education and cultural development. 
+Gymnasium Dresden-Cotta is an educational institution situated in the vibrant city of Dresden, Germany. This school building serves as a crucial part of the academic landscape in the region, contributing to the education and development of its students in a historically rich environment. Located at the coordinates 51.0578, 13.6865, the gymnasium not only serves its primary purpose as a center for learning but also stands as a significant emblem of the community's commitment to education and cultural development. 
 
 Dresden, known for its stunning architecture and historical significance, provides a fitting backdrop for such an institution. As part of a city that has seen extensive restoration and modernization, Gymnasium Dresden-Cotta embodies the spirit of resilience and progress. This guide will delve into the history, architectural features, and visiting information for those interested in exploring this educational establishment.
 
@@ -72,7 +72,7 @@ When visiting Gymnasium Dresden-Cotta, there are several nearby attractions wort
 
 For those planning to visit Gymnasium Dresden-Cotta, consider the following insider tips:
 
-- **Photography**: While exterior photography is generally permitted, it’s best to check for any specific restrictions regarding capturing images of students or faculty.
+- **Photography**: While exterior photography is generally permitted, it's best to check for any specific restrictions regarding capturing images of students or faculty.
   
 - **Crowd Avoidance**: Visiting early in the morning or later in the afternoon may help avoid larger groups, particularly during school events or peak visiting hours.
 
@@ -90,7 +90,7 @@ When planning your visit to Gymnasium Dresden-Cotta, it's essential to consider 
 A visit to Gymnasium Dresden-Cotta can be brief, generally taking around 30 minutes to an hour, especially if focusing on the exterior and nearby attractions.
 
 ### Is photography allowed?
-Photography rules can vary, so while exterior photography is typically allowed, it’s wise to check for any restrictions regarding interior shots or photography of individuals.
+Photography rules can vary, so while exterior photography is typically allowed, it's wise to check for any restrictions regarding interior shots or photography of individuals.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours offered for Gymnasium Dresden-Cotta. However, group visits may be arranged through the school.
@@ -105,7 +105,7 @@ Access details may vary; it's best to consult the official website for current a
 Check the official website for information on admission and ticketing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s recommended to plan ahead for restrooms and nearby dining options.
+Facilities may be limited, so it's recommended to plan ahead for restrooms and nearby dining options.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, considering that a fair amount of walking may be involved when exploring the surrounding area. 

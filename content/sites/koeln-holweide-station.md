@@ -72,7 +72,7 @@ Köln-Holweide station is conveniently located near several attractions that can
 
 To make the most of your visit to Köln-Holweide station, consider these insider tips:
 
-- **Photography Tips**: The station’s architecture and the bustle of passengers can make for interesting photographs. Early morning or late afternoon light can enhance your shots. Be mindful of privacy and seek permission if capturing images of individuals.
+- **Photography Tips**: The station's architecture and the bustle of passengers can make for interesting photographs. Early morning or late afternoon light can enhance your shots. Be mindful of privacy and seek permission if capturing images of individuals.
 
 - **Crowd Avoidance**: If you prefer a less crowded experience, try to visit during the mid-morning or early afternoon, when commuter traffic may be lower.
 

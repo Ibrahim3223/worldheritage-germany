@@ -82,7 +82,7 @@ Check the official website for any specific guidelines or recommendations regard
 Most visitors typically spend about 30 minutes to an hour at the Kleine Kirche, allowing time to appreciate its architecture and ambiance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always good to check for any specific restrictions when you arrive.
+Photography is generally permitted, but it's always good to check for any specific restrictions when you arrive.
 
 ### Are there guided tours?
 While specific guided tour information is not provided, local resources may offer guided experiences. Check the official website for updates.
@@ -91,7 +91,7 @@ While specific guided tour information is not provided, local resources may offe
 Mid-morning or early afternoon is ideal for avoiding crowds and enjoying the best natural light for photography.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s advisable to consult the official website for current information on facilities.
+Accessibility details are not specified, so it's advisable to consult the official website for current information on facilities.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options and any potential fees.
@@ -100,6 +100,6 @@ Check the official website for information on ticket purchasing options and any 
 While specific facilities are not mentioned, nearby attractions likely offer restrooms and food options. It's best to check local resources.
 
 ### What should I wear?
-Dress modestly and comfortably, respecting the church’s sacred environment.
+Dress modestly and comfortably, respecting the church's sacred environment.
 
 Exploring the Kleine Kirche in Karlsruhe provides a meaningful glimpse into the spiritual and architectural heritage of the city. Whether you're drawn by its history, seeking a moment of tranquility, or simply curious about local culture, this church stands ready to welcome you into its embrace.

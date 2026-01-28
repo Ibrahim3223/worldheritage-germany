@@ -36,7 +36,7 @@ Erbdrostenhof has a fascinating history that reflects the political and cultural
 
 The palace's significance extends beyond its function as a residence. It embodies the Baroque style that was prevalent in the 17th and 18th centuries, a period that witnessed substantial changes in European architecture and social structures. The design and construction of Erbdrostenhof highlight the affluence of the local nobility and their influence on the region's governance.
 
-Throughout the years, the palace has witnessed many historical events, serving as a backdrop to various social and political gatherings. Its presence in Münster is a reminder of the city's historical significance as a center of trade and culture. Today, Erbdrostenhof remains a symbol of the city’s heritage, attracting visitors eager to learn about its past and appreciate its architectural beauty.
+Throughout the years, the palace has witnessed many historical events, serving as a backdrop to various social and political gatherings. Its presence in Münster is a reminder of the city's historical significance as a center of trade and culture. Today, Erbdrostenhof remains a symbol of the city's heritage, attracting visitors eager to learn about its past and appreciate its architectural beauty.
 
 ## Architecture and Features
 
@@ -90,7 +90,7 @@ Before you head out to visit Erbdrostenhof, here are a few practical considerati
 Most visitors find that one to two hours is sufficient to explore Erbdrostenhof thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for specific guidelines once you arrive at the palace.
+Photography policies may vary, so it's best to check for specific guidelines once you arrive at the palace.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and architecture of the palace. Check the official website for details.

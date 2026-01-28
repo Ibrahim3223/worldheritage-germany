@@ -50,7 +50,7 @@ Additionally, the artifacts uncovered during excavations—such as pottery, tool
 
 Visiting Varnenum provides a unique opportunity to delve into the past while enjoying the serene surroundings of the Aachen region. Accessibility to the site varies, so it's advisable to check the official website for current information regarding hours of operation and any potential entry fees.
 
-For those traveling to Varnenum, public transportation options are available, with local bus services connecting the site to nearby towns. If you prefer to drive, parking facilities may be accessible, allowing for a flexible travel experience. The site is most enjoyable during daylight hours, and planning your visit early in the morning or later in the afternoon can enhance your experience, as you’ll encounter fewer crowds.
+For those traveling to Varnenum, public transportation options are available, with local bus services connecting the site to nearby towns. If you prefer to drive, parking facilities may be accessible, allowing for a flexible travel experience. The site is most enjoyable during daylight hours, and planning your visit early in the morning or later in the afternoon can enhance your experience, as you'll encounter fewer crowds.
 
 When visiting, expect to spend approximately 1-2 hours exploring the site, allowing ample time to absorb the historical context and appreciate the artifacts on display. The best times to visit are during the milder seasons of spring and autumn, when the weather is conducive to outdoor exploration.
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends, as this can
 
 ## Practical Information
 
-When planning your visit to Varnenum, it’s advisable to dress comfortably and wear sturdy footwear, as the terrain may be uneven. Consider bringing a water bottle and snacks, especially if you plan to spend an extended period on-site.
+When planning your visit to Varnenum, it's advisable to dress comfortably and wear sturdy footwear, as the terrain may be uneven. Consider bringing a water bottle and snacks, especially if you plan to spend an extended period on-site.
 
 Seasonal considerations should also be taken into account; spring and autumn are generally pleasant for outdoor visits, while summer may attract more visitors. Always check the weather forecast ahead of your trip to ensure a comfortable experience.
 
@@ -93,13 +93,13 @@ Check the official website for information on guided tours, as they may be avail
 The best times to visit are during the milder seasons of spring and autumn when the weather is pleasant and there are fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s recommended to check the official website for details on wheelchair access at Varnenum.
+Accessibility information can vary, so it's recommended to check the official website for details on wheelchair access at Varnenum.
 
 ### Can I buy tickets online?
 For current ticketing options and prices, please check the official website before your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available nearby, but it’s advisable to confirm this information on the official website.
+Facilities such as restrooms and cafes may be available nearby, but it's advisable to confirm this information on the official website.
 
 ### What should I wear?
 Dress comfortably and wear sturdy footwear suitable for exploring an archaeological site, and consider weather conditions when planning your outfit.

@@ -106,7 +106,7 @@ Accessibility may be limited due to the natural terrain. It is advisable to chec
 Check the official website for details regarding ticket purchases and any fees associated with visiting.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to bring your own provisions and check for restroom availability on-site.
+Facilities may be limited, so it's best to bring your own provisions and check for restroom availability on-site.
 
 ### What should I wear?
 Wear comfortable hiking attire and sturdy footwear. Layering is recommended to accommodate changing weather conditions.

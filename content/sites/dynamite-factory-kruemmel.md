@@ -28,19 +28,19 @@ image_srcset:
 
 The Dynamite Factory Krümmel, located in Geesthacht, Germany, is a historical industrial site that reflects the evolution of explosives manufacturing. This factory played a significant role in the local economy and industrial landscape, particularly during its operational years. As you explore this unique site, you will gain insights into the history of explosives production and its broader implications on technological advancements and safety regulations in the industry. This heritage site invites visitors to engage with its storied past while appreciating the architectural remnants of a once-bustling factory.
 
-Geesthacht, a town situated on the banks of the Elbe River, benefits from its proximity to Hamburg, making the Dynamite Factory an intriguing stop for those interested in industrial history. The factory’s legacy goes beyond its production of explosives; it raises discussions about the impact of industrialization and the evolution of safety standards in manufacturing processes. A visit here promises a thought-provoking experience, emphasizing the intricate balance between technological progress and societal responsibility.
+Geesthacht, a town situated on the banks of the Elbe River, benefits from its proximity to Hamburg, making the Dynamite Factory an intriguing stop for those interested in industrial history. The factory's legacy goes beyond its production of explosives; it raises discussions about the impact of industrialization and the evolution of safety standards in manufacturing processes. A visit here promises a thought-provoking experience, emphasizing the intricate balance between technological progress and societal responsibility.
 
 ## History and Significance
 
 The Dynamite Factory Krümmel is emblematic of the significant advancements in explosive manufacturing during its operational period. While specific dates are not available, this factory was pivotal in the production of dynamite, a material that transformed construction, mining, and warfare. The establishment of such factories was driven by the growing demand for explosives in various industries, marking a shift in both economic and technological landscapes.
 
-The factory’s significance extends beyond mere production. It served as a focal point for local employment, contributing to the economic vitality of Geesthacht. As one of the early facilities of its kind, the factory played a crucial role in setting safety standards that would influence future industrial practices. Over time, as awareness regarding safety and environmental responsibilities grew, the factory's operations were scrutinized, leading to changes that would shape the industry.
+The factory's significance extends beyond mere production. It served as a focal point for local employment, contributing to the economic vitality of Geesthacht. As one of the early facilities of its kind, the factory played a crucial role in setting safety standards that would influence future industrial practices. Over time, as awareness regarding safety and environmental responsibilities grew, the factory's operations were scrutinized, leading to changes that would shape the industry.
 
 In addition, the Dynamite Factory Krümmel offers a glimpse into the socio-political milieu of its time. The evolution of explosives manufacturing was often linked to military needs and advancements. Thus, the factory's history is interwoven with broader narratives of conflict, innovation, and the quest for safety in a rapidly industrializing world. Today, it serves not only as a reminder of the past but also as a catalyst for discussions about the legacy of industrial practices and their implications for contemporary society.
 
 ## Architecture and Features
 
-The architecture of the Dynamite Factory Krümmel reflects the utilitarian design typical of industrial buildings from its era. The factory’s structure is characterized by large, robust facilities designed to withstand the pressures and hazards associated with explosive production. Its layout was likely optimized for functionality, with designated areas for production, storage, and safety measures in place to mitigate risks.
+The architecture of the Dynamite Factory Krümmel reflects the utilitarian design typical of industrial buildings from its era. The factory's structure is characterized by large, robust facilities designed to withstand the pressures and hazards associated with explosive production. Its layout was likely optimized for functionality, with designated areas for production, storage, and safety measures in place to mitigate risks.
 
 Noteworthy features of the factory include the remnants of its production facilities, which are indicative of the manufacturing processes used during its operational years. Visitors may observe the distinctive construction materials and techniques that were employed, showcasing the industrial aesthetic of the time. The buildings, though aged, present a compelling narrative of technological advancement and the evolution of safety protocols in factory settings.
 
@@ -91,7 +91,7 @@ A visit to the Dynamite Factory Krümmel typically lasts about two to three hour
 Yes, photography is generally permitted at the factory, but visitors should be respectful of any signage regarding restricted areas.
 
 ### Are there guided tours?
-Check the official website for information about guided tours, which may offer deeper insights into the factory’s history and operations.
+Check the official website for information about guided tours, which may offer deeper insights into the factory's history and operations.
 
 ### What's the best time to visit?
 Visiting in the spring or early autumn is recommended for pleasant weather and fewer crowds.

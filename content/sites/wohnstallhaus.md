@@ -60,7 +60,7 @@ While visiting Wohnstallhaus, there are several nearby attractions worth explori
 
 4. **The Franconian Switzerland**: Known for its dramatic rock formations and charming villages, this area offers numerous hiking trails and scenic spots to explore.
 
-5. **Local Breweries**: Bavaria is famous for its beer culture, and several local breweries offer tours and tastings, providing a taste of the region’s culinary traditions.
+5. **Local Breweries**: Bavaria is famous for its beer culture, and several local breweries offer tours and tastings, providing a taste of the region's culinary traditions.
 
 ## Insider Tips
 

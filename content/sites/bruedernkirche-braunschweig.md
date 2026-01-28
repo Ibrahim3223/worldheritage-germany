@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Brüdernkirche Braunschweig is an architectural and historical landmark located in the heart of Brunswick, Germany. This church building serves as a significant reminder of the city’s rich ecclesiastical heritage and offers visitors an opportunity to explore its storied past. The church is not only a place of worship but also an embodiment of the cultural and architectural evolution that has shaped the region. As you approach the church, its presence commands attention, reflecting the historical depth of Brunswick. 
+Brüdernkirche Braunschweig is an architectural and historical landmark located in the heart of Brunswick, Germany. This church building serves as a significant reminder of the city's rich ecclesiastical heritage and offers visitors an opportunity to explore its storied past. The church is not only a place of worship but also an embodiment of the cultural and architectural evolution that has shaped the region. As you approach the church, its presence commands attention, reflecting the historical depth of Brunswick. 
 
-Visitors to Brüdernkirche can expect to engage with both the sacred and the historical, as the church has played a vital role in the community’s spiritual life for centuries. The building stands as a focal point for both locals and tourists alike, making it a worthwhile stop for anyone exploring the area. Its architectural features and historical significance promise to enrich any visit, inviting exploration and reflection in equal measure.
+Visitors to Brüdernkirche can expect to engage with both the sacred and the historical, as the church has played a vital role in the community's spiritual life for centuries. The building stands as a focal point for both locals and tourists alike, making it a worthwhile stop for anyone exploring the area. Its architectural features and historical significance promise to enrich any visit, inviting exploration and reflection in equal measure.
 
 ## History and Significance
 
@@ -69,7 +69,7 @@ These attractions complement a visit to Brüdernkirche, creating an engaging iti
 
 For those looking to capture the beauty of Brüdernkirche through photography, consider visiting during early morning or late afternoon when the light is softer, enhancing the architectural details. Additionally, be mindful of any services or events taking place, as these may create opportunities for unique photographs but also may restrict movement within the church.
 
-To avoid crowds, visiting on weekdays is generally a good strategy. If you’re interested in a quieter experience, aim to arrive early in the day.
+To avoid crowds, visiting on weekdays is generally a good strategy. If you're interested in a quieter experience, aim to arrive early in the day.
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ Be prepared for possible seasonal considerations that may affect your visit. Che
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of one to two hours is recommended to fully appreciate the church’s architecture and atmosphere.
+A visit of one to two hours is recommended to fully appreciate the church's architecture and atmosphere.
 
 ### Is photography allowed?
 Photography is generally permitted, but be respectful of any signs or guidelines regarding flash photography or specific areas.
@@ -98,7 +98,7 @@ Check the official website for details on accessibility options and facilities.
 Ticket purchasing options may vary; check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to plan accordingly as options can vary.
+Facilities may be available nearby, but it's advisable to plan accordingly as options can vary.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that it is a place of worship.

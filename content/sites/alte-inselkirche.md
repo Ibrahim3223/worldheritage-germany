@@ -28,7 +28,7 @@ image_srcset:
 
 The Alte Inselkirche, a charming church building located on the serene island of Spiekeroog in Germany, serves as both a spiritual haven and a significant cultural landmark. This picturesque structure captures the essence of the island's historical narrative, blending local architectural traditions with a sense of community that has flourished over generations. Situated within the North Sea, Spiekeroog is part of the East Frisian Islands, known for their unspoiled landscapes and tranquil atmosphere. The Alte Inselkirche stands as a focal point for residents and visitors alike, reflecting the island's rich heritage and the central role of faith in its community.
 
-As you approach the church, you are greeted by the backdrop of Spiekeroog's idyllic scenery, where the gentle sounds of nature create a serene ambiance. This church not only serves as a place of worship but also symbolizes the connection between the island’s inhabitants and their maritime environment. Whether you are seeking spiritual solace, an appreciation for local culture, or simply a moment of quiet reflection, the Alte Inselkirche promises a meaningful experience amid its historic walls.
+As you approach the church, you are greeted by the backdrop of Spiekeroog's idyllic scenery, where the gentle sounds of nature create a serene ambiance. This church not only serves as a place of worship but also symbolizes the connection between the island's inhabitants and their maritime environment. Whether you are seeking spiritual solace, an appreciation for local culture, or simply a moment of quiet reflection, the Alte Inselkirche promises a meaningful experience amid its historic walls.
 
 ## History and Significance
 

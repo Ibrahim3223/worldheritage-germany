@@ -82,7 +82,7 @@ For those planning a visit to Burg Friedeburg, here are some insider tips to enh
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going on weekdays or during off-peak seasons. This will allow you to explore the castle at a leisurely pace without large crowds.
 
-- **Guided Tours**: If available, opt for a guided tour to gain a deeper understanding of the castle’s history and architectural features. Guides often share fascinating anecdotes that enrich the visit.
+- **Guided Tours**: If available, opt for a guided tour to gain a deeper understanding of the castle's history and architectural features. Guides often share fascinating anecdotes that enrich the visit.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ When planning your visit to Burg Friedeburg, consider bringing the following ite
 
 - **Seasonal Considerations**: Dress in layers, especially if you are visiting during transitional seasons. The weather can change quickly, so being prepared will enhance your comfort.
 
-- **Water and Snacks**: While exploring, it’s always a good idea to stay hydrated and bring along some light snacks, especially if you plan to spend a significant amount of time at the site.
+- **Water and Snacks**: While exploring, it's always a good idea to stay hydrated and bring along some light snacks, especially if you plan to spend a significant amount of time at the site.
 
 ## Frequently Asked Questions
 

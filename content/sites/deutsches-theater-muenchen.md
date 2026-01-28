@@ -99,7 +99,7 @@ Check the official website for information about guided tours, which may be avai
 Evenings are ideal for performances, but consider visiting during special events or festivals for a unique experience.
 
 ### Is it wheelchair accessible?
-The theatre is equipped to accommodate wheelchair users, but it’s best to check ahead for specific arrangements.
+The theatre is equipped to accommodate wheelchair users, but it's best to check ahead for specific arrangements.
 
 ### Can I buy tickets online?
 Yes, tickets can typically be purchased online. Check the official website for the latest information on ticket availability.

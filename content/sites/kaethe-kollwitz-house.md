@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Käthe Kollwitz House, a museum dedicated to the renowned German artist Käthe Kollwitz, is situated in the picturesque town of Moritzburg, Germany. This museum is not only a tribute to Kollwitz’s impactful body of work but also offers visitors a glimpse into the life of a woman who profoundly influenced 20th-century art through her poignant themes of social justice, war, and human suffering. Located in a region characterized by its charming landscapes and rich cultural heritage, the Käthe Kollwitz House stands out as a significant stop for art enthusiasts and history buffs alike.
+Käthe Kollwitz House, a museum dedicated to the renowned German artist Käthe Kollwitz, is situated in the picturesque town of Moritzburg, Germany. This museum is not only a tribute to Kollwitz's impactful body of work but also offers visitors a glimpse into the life of a woman who profoundly influenced 20th-century art through her poignant themes of social justice, war, and human suffering. Located in a region characterized by its charming landscapes and rich cultural heritage, the Käthe Kollwitz House stands out as a significant stop for art enthusiasts and history buffs alike.
 
 The museum illuminates the life and artistry of Kollwitz, who is celebrated for her evocative prints, drawings, and sculptures. Her work often addressed the plight of the working class and the brutality of war, making her art both timeless and resonant. With its engaging exhibits and serene surroundings, the Käthe Kollwitz House invites visitors to reflect on the powerful messages embedded in her art while exploring the environment that inspired her creative journey.
 
@@ -28,7 +28,7 @@ As you step into the museum, prepare to immerse yourself in a space that not onl
 
 ## History and Significance
 
-Käthe Kollwitz was born in 1867 and became one of the most celebrated female artists in Germany, known for her powerful expressionism and social themes. The Käthe Kollwitz House serves as a museum dedicated to her life and works, highlighting her contributions to art and society. Kollwitz’s art was heavily influenced by her personal experiences, including the loss of her son during World War I, which deeply affected her artistic output and thematic choices. 
+Käthe Kollwitz was born in 1867 and became one of the most celebrated female artists in Germany, known for her powerful expressionism and social themes. The Käthe Kollwitz House serves as a museum dedicated to her life and works, highlighting her contributions to art and society. Kollwitz's art was heavily influenced by her personal experiences, including the loss of her son during World War I, which deeply affected her artistic output and thematic choices. 
 
 The museum itself is located in Moritzburg, a place that holds a special connection to the artist. It was here that Kollwitz found not only inspiration but also a retreat from the urban environment of Berlin. The museum seeks to preserve her legacy, providing insights into her creative process, the evolution of her work, and her role as a voice for the marginalized.
 
@@ -42,7 +42,7 @@ The architectural style of the Käthe Kollwitz House reflects the charm of Morit
 
 Inside, the museum features several rooms dedicated to different aspects of Kollwitz's artistic career. The exhibits include not only her most famous pieces but also lesser-known works that illustrate the breadth of her talent. Visitors can find original prints, drawings, and sculptures, each displayed with informative descriptions that provide context and insight into her creative process.
 
-The museum also houses personal artifacts belonging to Kollwitz, giving a more intimate glimpse into her life. These items help to convey her journey as an artist and the influences that shaped her work, making the experience more relatable and engaging. The serene atmosphere within the museum encourages contemplation, allowing visitors to connect with Kollwitz’s emotions and the themes she explored in her art.
+The museum also houses personal artifacts belonging to Kollwitz, giving a more intimate glimpse into her life. These items help to convey her journey as an artist and the influences that shaped her work, making the experience more relatable and engaging. The serene atmosphere within the museum encourages contemplation, allowing visitors to connect with Kollwitz's emotions and the themes she explored in her art.
 
 In addition to the permanent exhibits, the Käthe Kollwitz House often features temporary exhibitions that showcase contemporary artists whose work resonates with Kollwitz's themes. These exhibitions keep the museum dynamic and relevant, fostering a connection between historical and modern artistic expressions.
 
@@ -77,7 +77,7 @@ When visiting the Käthe Kollwitz House, consider these insider tips to enhance 
 - **Photography**: Be mindful of museum policies regarding photography; check if it is allowed in certain areas to respect the artwork and other visitors.
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for weekdays or check if the museum offers early morning or late afternoon hours, which might be less crowded.
 - **Engagement**: Take your time to engage with the exhibits and read the descriptions. Understanding the context of Kollwitz's work can deepen your appreciation.
-- **Guided Tours**: If available, consider joining a guided tour for a more in-depth exploration of the artist’s life and works, often led by knowledgeable staff.
+- **Guided Tours**: If available, consider joining a guided tour for a more in-depth exploration of the artist's life and works, often led by knowledgeable staff.
 
 ## Practical Information
 

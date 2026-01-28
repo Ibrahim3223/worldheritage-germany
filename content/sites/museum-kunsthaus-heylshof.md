@@ -42,7 +42,7 @@ The museum also serves as a venue for various cultural events, enabling collabor
 
 ## Architecture and Features
 
-The architectural design of Museum Kunsthaus Heylshof is an integral part of the visitor experience. While specific architectural details may not be available, the museum likely features a thoughtful layout that enhances the display of art. The building’s design may incorporate elements that reflect both contemporary aesthetics and the historical significance of its surroundings, creating a harmonious environment for art appreciation.
+The architectural design of Museum Kunsthaus Heylshof is an integral part of the visitor experience. While specific architectural details may not be available, the museum likely features a thoughtful layout that enhances the display of art. The building's design may incorporate elements that reflect both contemporary aesthetics and the historical significance of its surroundings, creating a harmonious environment for art appreciation.
 
 Inside, the museum is organized to facilitate the exploration of various art forms. The exhibition spaces are likely designed to accommodate a variety of artworks, from paintings to sculptures, allowing for a fluid experience as visitors move through the galleries. Lighting and spatial arrangements are typically optimized to highlight the nuances of each piece, inviting viewers to engage with the art on a deeper level.
 

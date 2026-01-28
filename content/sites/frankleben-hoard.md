@@ -22,7 +22,7 @@ images:
 
 The Frankleben hoard stands as a crucial archaeological site located in Braunsbedra, Germany, offering a unique glimpse into the material culture of the region. This site is not merely a collection of artifacts; it encapsulates the historical narratives and social dynamics of ancient communities. Each object unearthed contributes to a broader understanding of the past, making it a significant point of interest for archaeologists and history enthusiasts alike. 
 
-Situated at coordinates 51.3, 11.93, the site is set against the backdrop of Germany's diverse landscapes, which have seen millennia of human activity. The Frankleben hoard’s archaeological significance is amplified by its location within a country renowned for its rich historical heritage. Visitors to the site can expect to engage with artifacts that tell stories of the lives once led in this region, allowing for a profound connection to history. 
+Situated at coordinates 51.3, 11.93, the site is set against the backdrop of Germany's diverse landscapes, which have seen millennia of human activity. The Frankleben hoard's archaeological significance is amplified by its location within a country renowned for its rich historical heritage. Visitors to the site can expect to engage with artifacts that tell stories of the lives once led in this region, allowing for a profound connection to history. 
 
 For anyone eager to explore the depths of German archaeology, the Frankleben hoard promises an enlightening experience, revealing layers of history through its meticulously preserved remnants.
 
@@ -70,7 +70,7 @@ While exploring the Frankleben hoard, visitors can enhance their experience by c
 
 For those planning to visit the Frankleben hoard, consider these insider tips to enhance your experience:
 
-- **Photography Tips**: While capturing your visit, be mindful of any regulations regarding photography. Some sites may have restrictions, so it’s best to check beforehand.
+- **Photography Tips**: While capturing your visit, be mindful of any regulations regarding photography. Some sites may have restrictions, so it's best to check beforehand.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or off-peak hours. Early mornings often provide a quieter atmosphere for exploration.
 

@@ -32,7 +32,7 @@ Set against a backdrop of the tranquil German countryside, this manor house stan
 
 ## History and Significance
 
-Gut Dollrott holds a place of cultural importance within Dollrottfeld, representing the architectural and social evolution of manor houses in Germany. The manor's construction reflects the agricultural practices and lifestyle of the local aristocracy, serving as a residence that likely played a significant role in the community’s social fabric. While specific historical dates and events related to Gut Dollrott are not detailed, its existence indicates a period when manorial estates were central to rural life, influencing local economies and social structures.
+Gut Dollrott holds a place of cultural importance within Dollrottfeld, representing the architectural and social evolution of manor houses in Germany. The manor's construction reflects the agricultural practices and lifestyle of the local aristocracy, serving as a residence that likely played a significant role in the community's social fabric. While specific historical dates and events related to Gut Dollrott are not detailed, its existence indicates a period when manorial estates were central to rural life, influencing local economies and social structures.
 
 The manor's significance extends beyond its walls; it serves as a reminder of the historical relationship between land ownership and social status. During the time of its prominence, estates like Gut Dollrott were often associated with the agricultural production that sustained local populations. The manor would have been a hub for both social gatherings and economic activity in the region.
 
@@ -88,7 +88,7 @@ When planning a visit to Gut Dollrott, consider the following practical informat
 A visit to Gut Dollrott typically takes a few hours, allowing ample time to explore the manor and its surroundings.
 
 ### Is photography allowed?
-Generally, photography is permitted, but it’s advisable to check for any restrictions in specific areas.
+Generally, photography is permitted, but it's advisable to check for any restrictions in specific areas.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website, so check for current offerings.

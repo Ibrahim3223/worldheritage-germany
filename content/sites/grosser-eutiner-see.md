@@ -44,7 +44,7 @@ While detailed historical records may not be readily available, the lake's prese
 
 Großer Eutiner See is characterized by its expansive waters and the natural landscapes that surround it. The lake's surface is often calm, providing a mirror-like reflection of the sky and trees, which enhances its aesthetic appeal. The shoreline is lined with lush greenery, including trees and shrubs that contribute to the area's biodiversity.
 
-While the lake itself is the central feature, various structures can be found nearby that cater to visitors’ needs. Walking paths and recreational areas have been established, allowing guests to enjoy leisurely strolls while taking in the scenic surroundings. Additionally, facilities for boating and fishing can be found at designated spots around the lake, promoting active engagement with the water.
+While the lake itself is the central feature, various structures can be found nearby that cater to visitors' needs. Walking paths and recreational areas have been established, allowing guests to enjoy leisurely strolls while taking in the scenic surroundings. Additionally, facilities for boating and fishing can be found at designated spots around the lake, promoting active engagement with the water.
 
 The integration of nature and human activity at Großer Eutiner See exemplifies the balance that can be achieved in recreational spaces. Visitors can enjoy the tranquility of the lake while also taking advantage of the amenities provided for a more interactive experience with the environment.
 

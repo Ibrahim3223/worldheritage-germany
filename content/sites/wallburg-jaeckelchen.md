@@ -78,7 +78,7 @@ When planning your visit to Wallburg Jäckelchen, consider bringing essentials s
 
 Seasonal considerations include checking the weather forecast before your visit, as conditions can vary significantly. Spring and autumn often provide the most pleasant weather for outdoor exploration.
 
-Additionally, it’s wise to check the official website for current information regarding any specific visitor guidelines, including hours of operation and potential restrictions.
+Additionally, it's wise to check the official website for current information regarding any specific visitor guidelines, including hours of operation and potential restrictions.
 
 ## Frequently Asked Questions
 

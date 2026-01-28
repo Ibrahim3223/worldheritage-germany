@@ -28,7 +28,7 @@ image_srcset:
 
 The Tahir Mosque, located in the city of Koblenz, Germany, represents an important facet of the region's cultural and religious landscape. As a mosque, it serves as a place of worship and community gathering for Muslims in the area, reflecting the diversity and multiculturalism that define modern European cities. Situated at coordinates 50.3753, 7.59208, this mosque is not just a religious site; it also embodies the principles of coexistence and dialogue between different cultures and faiths. Visitors to Koblenz will find the mosque an essential stop, offering insights into the Islamic heritage that has taken root in Germany.
 
-While Koblenz is known for its scenic rivers and historical landmarks, the Tahir Mosque adds a unique layer to the city’s narrative. Its presence illustrates the evolution of religious practices in Europe and encourages intercultural understanding. Those who take the time to visit will discover a space that is both sacred and welcoming, inviting dialogue and reflection.
+While Koblenz is known for its scenic rivers and historical landmarks, the Tahir Mosque adds a unique layer to the city's narrative. Its presence illustrates the evolution of religious practices in Europe and encourages intercultural understanding. Those who take the time to visit will discover a space that is both sacred and welcoming, inviting dialogue and reflection.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ While specific architectural details of the Tahir Mosque are not provided, it is
 
 Many mosques are adorned with intricate geometric patterns and calligraphy, which serve both aesthetic and spiritual purposes. These features often illustrate key tenets of Islam and enhance the spiritual atmosphere of the space. The exterior may also display characteristics such as domes or decorative tiles, common in Islamic architecture, though the specific design elements of the Tahir Mosque should be explored during a visit.
 
-The mosque’s layout is typically organized to facilitate communal worship, allowing for an inclusive space where believers can gather for prayers. It may also include facilities for educational programs and community outreach, fostering engagement with both the Muslim community and the broader public.
+The mosque's layout is typically organized to facilitate communal worship, allowing for an inclusive space where believers can gather for prayers. It may also include facilities for educational programs and community outreach, fostering engagement with both the Muslim community and the broader public.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ Koblenz is home to several notable attractions that complement a visit to the Ta
 
 3. **Cable Car Koblenz**: Connecting the city to Ehrenbreitstein Fortress, the cable car ride offers a unique perspective of the rivers and landscape, making it a memorable addition to any itinerary.
 
-4. **Koblenz Old Town**: This charming area is filled with narrow streets, historic buildings, and vibrant cafes. It’s an excellent place to experience local culture and cuisine.
+4. **Koblenz Old Town**: This charming area is filled with narrow streets, historic buildings, and vibrant cafes. It's an excellent place to experience local culture and cuisine.
 
 5. **Liebfrauenkirche**: A stunning example of Gothic architecture, this church features beautiful stained glass and is a short distance from the mosque, providing another opportunity to explore the architectural heritage of Koblenz.
 
@@ -74,7 +74,7 @@ Koblenz is home to several notable attractions that complement a visit to the Ta
 
 When visiting the Tahir Mosque, consider bringing a camera to capture the unique architectural elements; however, always check if photography is allowed inside the prayer areas. To avoid crowds, aim to visit during weekday mornings or early afternoons. This will provide a more serene experience, allowing for personal reflection and interaction with the space.
 
-Engaging with community members can enhance your visit. Many are open to discussing their culture and beliefs, offering valuable insights into the mosque’s significance and operations.
+Engaging with community members can enhance your visit. Many are open to discussing their culture and beliefs, offering valuable insights into the mosque's significance and operations.
 
 ## Practical Information
 

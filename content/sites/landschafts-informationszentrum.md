@@ -86,7 +86,7 @@ Additionally, check the official website for any seasonal considerations or spec
 Most visitors find that spending two to three hours at the Landschafts-Informationszentrum allows ample time to explore the exhibits and engage with the educational programs.
 
 ### Is photography allowed?
-While photography policies may vary, it’s recommended to check with museum staff or the official website for specific guidelines regarding photography within the exhibits.
+While photography policies may vary, it's recommended to check with museum staff or the official website for specific guidelines regarding photography within the exhibits.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. These tours can enhance your understanding of the exhibits and the significance of the area.

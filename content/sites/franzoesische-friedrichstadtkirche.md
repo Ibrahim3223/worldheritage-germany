@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview 
 
-Französische Friedrichstadtkirche, located in the heart of Berlin's Bezirk Mitte, is a striking church building that reflects the city's complex history and cultural evolution. With its unique blend of architectural styles and rich historical significance, this church stands as an important landmark within the vibrant tapestry of Berlin’s urban landscape. Constructed in a period marked by change and cultural exchange, it serves as a reminder of Berlin's multifaceted identity, where history, faith, and community intersect.
+Französische Friedrichstadtkirche, located in the heart of Berlin's Bezirk Mitte, is a striking church building that reflects the city's complex history and cultural evolution. With its unique blend of architectural styles and rich historical significance, this church stands as an important landmark within the vibrant tapestry of Berlin's urban landscape. Constructed in a period marked by change and cultural exchange, it serves as a reminder of Berlin's multifaceted identity, where history, faith, and community intersect.
 
 Visitors to Französische Friedrichstadtkirche will find themselves enveloped in an atmosphere that resonates with the echoes of the past, amid a city that is constantly evolving. The church is not only a place of worship but also a venue for concerts and community events, making it a dynamic part of the local cultural scene. Its central location makes it an ideal stop for those exploring Berlin's numerous attractions, and its architectural beauty invites contemplation and appreciation.
 
@@ -38,13 +38,13 @@ Französische Friedrichstadtkirche, often referred to as the French Church, was 
 
 The church was built to serve the Huguenot community, reflecting their distinct architectural style and liturgical practices. Over the years, Französische Friedrichstadtkirche has witnessed numerous historical events that shaped not only the local community but also the wider socio-political landscape of Germany. The building has been a site of worship, a gathering place during times of conflict, and a symbol of resilience as it weathered the storms of war and change.
 
-In addition to its religious significance, the church has become a cultural hub, hosting various events that promote dialogue and understanding among different communities. Its role extends beyond that of a mere place of worship; it is also a space for artistic expression and cultural exchange. As such, the church continues to hold a significant place within the fabric of Berlin’s society, embodying the spirit of tolerance and diversity.
+In addition to its religious significance, the church has become a cultural hub, hosting various events that promote dialogue and understanding among different communities. Its role extends beyond that of a mere place of worship; it is also a space for artistic expression and cultural exchange. As such, the church continues to hold a significant place within the fabric of Berlin's society, embodying the spirit of tolerance and diversity.
 
 ## Architecture and Features
 
 Französische Friedrichstadtkirche is a remarkable example of 18th-century architecture, characterized by its elegant proportions and thoughtful design. The church features a striking facade that is both welcoming and imposing, drawing the eye of passersby. The exterior combines elements of neoclassical design with Baroque influences, creating a harmonious structure that stands out in the urban landscape.
 
-One of the most notable features of the church is its grand tower, which rises prominently above the surrounding buildings. This tower serves not only as a visual focal point but also houses a bell that has historically marked the passage of time for the community. The church’s interior is equally noteworthy, with a spacious nave adorned with beautiful detailing that reflects the craftsmanship of the era in which it was built.
+One of the most notable features of the church is its grand tower, which rises prominently above the surrounding buildings. This tower serves not only as a visual focal point but also houses a bell that has historically marked the passage of time for the community. The church's interior is equally noteworthy, with a spacious nave adorned with beautiful detailing that reflects the craftsmanship of the era in which it was built.
 
 The use of light within the church is particularly striking; large windows allow natural light to fill the space, creating a serene atmosphere that is conducive to reflection and worship. The simplicity of the interior design, combined with the elegance of the architectural elements, provides a fitting backdrop for the various religious and cultural activities that take place within its walls.
 
@@ -90,7 +90,7 @@ Before heading to Französische Friedrichstadtkirche, consider the following pra
 
 - **Seasonal Considerations**: Berlin experiences distinct seasons, so be prepared for varying weather conditions. In winter, dress warmly as temperatures can drop, while summer may require lighter clothing. An umbrella might be useful in the rainy months.
 
-- **Facilities**: While specific facilities may not be detailed, it’s advisable to check for nearby cafes or restrooms, especially if you plan to spend an extended period exploring the area.
+- **Facilities**: While specific facilities may not be detailed, it's advisable to check for nearby cafes or restrooms, especially if you plan to spend an extended period exploring the area.
 
 ## Frequently Asked Questions
 

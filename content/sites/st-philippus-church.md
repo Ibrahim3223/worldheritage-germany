@@ -28,7 +28,7 @@ image_srcset:
 
 St.-Philippus Church, located in the Bothfeld-Vahrenheide district of Hannover, Germany, is a significant structure that serves not only as a place of worship but also as a landmark within the community. This church building exemplifies the architectural and cultural landscape of Hannover, reflecting the region's historical and spiritual evolution. The church stands as a focal point for both local residents and visitors who seek to immerse themselves in the area's religious heritage. 
 
-As you approach St.-Philippus Church, you'll be enveloped in the serene atmosphere that surrounds this sacred space. The church’s location within a vibrant neighborhood enhances its role as a community hub, making it accessible to a wide range of visitors. Whether you are interested in architecture, history, or simply looking for a moment of reflection, St.-Philippus Church offers a welcoming ambiance and a glimpse into the spiritual life of the community.
+As you approach St.-Philippus Church, you'll be enveloped in the serene atmosphere that surrounds this sacred space. The church's location within a vibrant neighborhood enhances its role as a community hub, making it accessible to a wide range of visitors. Whether you are interested in architecture, history, or simply looking for a moment of reflection, St.-Philippus Church offers a welcoming ambiance and a glimpse into the spiritual life of the community.
 
 ## History and Significance 
 

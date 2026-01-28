@@ -109,7 +109,7 @@ Accessibility details can vary, so check the official website for the latest inf
 Check the official website for current ticketing options, including online purchasing if available.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for specific amenities.
+Facilities may be available on-site, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably and modestly, keeping in mind that this is a place of worship. Consider layers to accommodate varying indoor temperatures.

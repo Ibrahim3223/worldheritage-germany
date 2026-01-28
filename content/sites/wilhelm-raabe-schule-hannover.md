@@ -80,7 +80,7 @@ Engaging with local residents or educators can provide unique insights into the 
 
 When visiting the Wilhelm-Raabe-Schule, bring along essentials such as a camera, comfortable walking shoes, and a notebook if you wish to jot down observations. Seasonal considerations may affect your visit; spring and summer could offer pleasant weather for outdoor exploration, while autumn might provide a picturesque backdrop with changing leaves.
 
-It’s also wise to check weather forecasts before your visit, as Hannover can experience varied conditions throughout the year. Dress appropriately to ensure a comfortable experience as you explore the surrounding area.
+It's also wise to check weather forecasts before your visit, as Hannover can experience varied conditions throughout the year. Dress appropriately to ensure a comfortable experience as you explore the surrounding area.
 
 ## Frequently Asked Questions
 
@@ -88,10 +88,10 @@ It’s also wise to check weather forecasts before your visit, as Hannover can e
 A short visit may take about an hour to appreciate the architecture and surrounding area, but engaging with local events may extend your stay.
 
 ### Is photography allowed?
-While photography of the exterior is generally acceptable, it’s best to inquire about interior photography upon arrival.
+While photography of the exterior is generally acceptable, it's best to inquire about interior photography upon arrival.
 
 ### Are there guided tours?
-Check the official website for information on guided tours or special events that may offer deeper insights into the school’s history and significance.
+Check the official website for information on guided tours or special events that may offer deeper insights into the school's history and significance.
 
 ### What's the best time to visit?
 Weekdays during school hours may provide a more immersive experience, while weekends might be busier due to community activities.

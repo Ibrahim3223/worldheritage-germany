@@ -34,7 +34,7 @@ Significantly, Mengerskirchen Castle serves not only as a historical landmark bu
 
 Mengerskirchen Castle stands as a noteworthy example of regional fortification architecture, though specific historical details may not be readily available. As with many castles in Germany, it likely played a role in the defense and administration of the surrounding areas, indicative of the strategic importance of such structures during their active years.
 
-The cultural significance of Mengerskirchen Castle is underscored by its function in the local community. Castles often served not just as defensive structures but as centers of governance, trade, and social interaction. While the specifics of Mengerskirchen’s role may be less documented, its existence contributes to the narrative of feudal society in medieval Germany, where castles symbolized power and control.
+The cultural significance of Mengerskirchen Castle is underscored by its function in the local community. Castles often served not just as defensive structures but as centers of governance, trade, and social interaction. While the specifics of Mengerskirchen's role may be less documented, its existence contributes to the narrative of feudal society in medieval Germany, where castles symbolized power and control.
 
 Visitors to the castle can reflect on its historical context, imagining the lives of those who might have walked its halls centuries ago. The stories contained within its stone walls are part of a larger narrative about the evolution of German architectural styles and social structures. The castle represents resilience and continuity, standing through the ages as a reminder of the region's historical landscape.
 

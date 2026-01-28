@@ -82,7 +82,7 @@ To make the most of your visit to the Museum of the University of Tübingen, con
 
 - **Interactive Elements**: Take advantage of any interactive exhibits or displays. These often provide a more engaging way to learn about the topics covered in the museum.
 
-- **Plan for Breaks**: If you’re visiting with family or friends, consider scheduling breaks to discuss what you’ve seen or to enjoy refreshments nearby. This can enhance the overall experience.
+- **Plan for Breaks**: If you're visiting with family or friends, consider scheduling breaks to discuss what you've seen or to enjoy refreshments nearby. This can enhance the overall experience.
 
 ## Practical Information
 

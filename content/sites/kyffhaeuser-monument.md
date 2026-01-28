@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kyffhäuser Monument, an iconic symbol of German nationalism and heritage, stands prominently in the Bad Frankenhausen region of Germany. This remarkable monument commemorates historical figures and events that have shaped the nation’s identity. Located in a picturesque area, the monument draws visitors not only for its historical significance but also for its architectural splendor. As you approach this grand structure, you are invited to explore the rich tales woven into its very fabric, making it a must-visit for history enthusiasts and casual travelers alike. 
+The Kyffhäuser Monument, an iconic symbol of German nationalism and heritage, stands prominently in the Bad Frankenhausen region of Germany. This remarkable monument commemorates historical figures and events that have shaped the nation's identity. Located in a picturesque area, the monument draws visitors not only for its historical significance but also for its architectural splendor. As you approach this grand structure, you are invited to explore the rich tales woven into its very fabric, making it a must-visit for history enthusiasts and casual travelers alike. 
 
 With its towering presence, the Kyffhäuser Monument offers a unique opportunity to delve into Germany's past while enjoying the surrounding natural beauty. Visitors can expect to encounter a monument that serves both as a reminder of historical events and as a gathering point for reflection and appreciation of cultural heritage. The monument promises to leave a lasting impression on anyone who ventures to explore its depths.
 

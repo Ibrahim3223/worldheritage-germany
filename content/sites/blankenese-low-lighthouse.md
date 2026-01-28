@@ -3,7 +3,7 @@ title: "Blankenese Low Lighthouse"
 site_name: "Blankenese Low Lighthouse"
 date: 2026-01-26
 draft: false
-description: "Perched along the banks of the Elbe River in Hamburg’s Altona district, the Blankenese Low Lighthouse serves not just as a navigational aid but as a..."
+description: "Perched along the banks of the Elbe River in Hamburg's Altona district, the Blankenese Low Lighthouse serves not just as a navigational aid but as a..."
 region: "Hamburg"
 country: "Germany"
 heritage_type: "Lighthouse"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Perched along the banks of the Elbe River in Hamburg’s Altona district, the Blankenese Low Lighthouse serves not just as a navigational aid but as a historical landmark that captures the maritime heritage of the region. With its distinctive architecture and storied past, this lighthouse is a reminder of the vital role that coastal navigation has played in the development of Hamburg as a significant port city. Visitors to this site can expect an enriching experience, steeped in both history and scenic beauty, as they explore the lighthouse and its surroundings. 
+Perched along the banks of the Elbe River in Hamburg's Altona district, the Blankenese Low Lighthouse serves not just as a navigational aid but as a historical landmark that captures the maritime heritage of the region. With its distinctive architecture and storied past, this lighthouse is a reminder of the vital role that coastal navigation has played in the development of Hamburg as a significant port city. Visitors to this site can expect an enriching experience, steeped in both history and scenic beauty, as they explore the lighthouse and its surroundings. 
 
 The Blankenese Low Lighthouse stands at coordinates 53.55769, 9.79583, making it easily accessible for those exploring the vibrant maritime culture of Hamburg. Whether you are a history buff, a photography enthusiast, or simply in search of a picturesque spot to unwind, the lighthouse offers a unique glimpse into the region's nautical traditions and architectural elegance.
 

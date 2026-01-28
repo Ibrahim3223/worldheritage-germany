@@ -30,7 +30,7 @@ Eberbach Monastery has a storied history that reflects the broader narrative of 
 
 The monastery's influence peaked during the Middle Ages, and its lands extended across the surrounding area, contributing to local economies and the development of the wine industry. Monks at Eberbach were pioneers in viticulture, and the monastery's vineyards are still recognized for their quality. This agricultural legacy continues today, and the region remains renowned for its wine production.
 
-In the 19th century, the monastery fell into disuse and disrepair, prompting efforts for its preservation. The establishment of Stiftung Kloster Eberbach marked a turning point in the site’s history, as the foundation was created to ensure the preservation and restoration of this cultural monument. Today, the foundation actively engages in various cultural activities, promoting the monastery as a venue for art, music, and communal events, thereby continuing its legacy of cultural significance.
+In the 19th century, the monastery fell into disuse and disrepair, prompting efforts for its preservation. The establishment of Stiftung Kloster Eberbach marked a turning point in the site's history, as the foundation was created to ensure the preservation and restoration of this cultural monument. Today, the foundation actively engages in various cultural activities, promoting the monastery as a venue for art, music, and communal events, thereby continuing its legacy of cultural significance.
 
 ## Architecture and Features
 

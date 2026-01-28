@@ -72,13 +72,13 @@ St. Michael's location in Dormagen provides access to several nearby attractions
 
 For those looking to capture the essence of St. Michael through photography, early mornings or late afternoons provide the best natural light. This time of day can enhance the colors and details of the church's architecture. Additionally, visiting during weekdays may help avoid crowds, allowing for unobstructed views and quieter moments of reflection.
 
-If you’re interested in local events or services, checking the church's schedule in advance can provide opportunities to experience the community's religious practices and traditions.
+If you're interested in local events or services, checking the church's schedule in advance can provide opportunities to experience the community's religious practices and traditions.
 
 ## Practical Information
 
 When visiting St. Michael, consider bringing a small bag for personal items, along with a camera if you wish to document your experience. Dress appropriately for a church setting, which typically means modest clothing. Seasonal considerations may also be important; warmer clothing is advisable in winter months, while lighter attire is suitable for summer visits.
 
-It’s also a good idea to check the local weather forecast before your visit to ensure a comfortable experience, especially if you plan to explore the surrounding area.
+It's also a good idea to check the local weather forecast before your visit to ensure a comfortable experience, especially if you plan to explore the surrounding area.
 
 ## Frequently Asked Questions
 
@@ -89,7 +89,7 @@ A typical visit may take between 30 minutes to an hour, allowing time to explore
 Photography policies can vary; check the official website for specific guidelines regarding photography inside the church.
 
 ### Are there guided tours?
-Information regarding guided tours is not specified. It’s best to inquire on the official website or upon arrival.
+Information regarding guided tours is not specified. It's best to inquire on the official website or upon arrival.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, making them ideal for a more peaceful experience.

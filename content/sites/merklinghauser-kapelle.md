@@ -34,7 +34,7 @@ As you approach the Merklinghauser Kapelle, you may find yourself enveloped in t
 
 The history of the Merklinghauser Kapelle is deeply intertwined with the cultural fabric of Hallenberg. While specific dates remain elusive, it is evident that the chapel has served as a significant religious site for local communities over the years. Many chapels like Merklinghauser were established to provide a place of worship and reflection for the surrounding population, often becoming focal points for communal gatherings and celebrations.
 
-As a chapel, Merklinghauser is emblematic of the region’s commitment to preserving its spiritual heritage. The design and function of such chapels often reflect the local architectural styles and the socio-religious context of the time they were built. Notably, it has likely been a site for various religious ceremonies, contributing to the spiritual life of the community and serving as a witness to the changes and continuities in local traditions.
+As a chapel, Merklinghauser is emblematic of the region's commitment to preserving its spiritual heritage. The design and function of such chapels often reflect the local architectural styles and the socio-religious context of the time they were built. Notably, it has likely been a site for various religious ceremonies, contributing to the spiritual life of the community and serving as a witness to the changes and continuities in local traditions.
 
 The significance of the Merklinghauser Kapelle extends beyond its physical presence. It stands as a reminder of the community's shared values, beliefs, and history. Visitors to the chapel can engage with this heritage, reflecting on the role that faith and spirituality play within the lives of the people in Hallenberg.
 

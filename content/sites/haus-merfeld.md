@@ -90,7 +90,7 @@ When preparing for your visit to Haus Merfeld, keep the following practical cons
 A visit to Haus Merfeld typically takes around 1.5 to 2 hours, allowing you to explore both the manor and its grounds at a comfortable pace.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any specific guidelines provided on-site.
+Photography is generally permitted, but it's advisable to be respectful of any specific guidelines provided on-site.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may be available on certain days or during special events.

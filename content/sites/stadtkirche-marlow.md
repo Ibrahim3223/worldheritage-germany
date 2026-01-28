@@ -30,7 +30,7 @@ Stadtkirche Marlow, a prominent church building located in the picturesque town 
 
 Situated at coordinates 54.1541° N latitude and 12.5717° E longitude, the church is conveniently located within the town, making it easily accessible for tourists and locals. The town of Marlow itself is characterized by its charming streets and vibrant community, offering a perfect backdrop for a visit to this sacred site. As you walk through Marlow, the Stadtkirche serves as a reminder of the town's deep-rooted history and its enduring spiritual significance.
 
-Visitors to the Stadtkirche Marlow can expect to immerse themselves in a space that reflects centuries of devotion and architectural evolution. The church not only functions as a place of worship but also as a cultural hub where community events and gatherings take place. Whether you are an architecture enthusiast, a history buff, or simply seeking a moment of tranquility, Stadtkirche Marlow offers a unique experience that captures the essence of the region’s heritage.
+Visitors to the Stadtkirche Marlow can expect to immerse themselves in a space that reflects centuries of devotion and architectural evolution. The church not only functions as a place of worship but also as a cultural hub where community events and gatherings take place. Whether you are an architecture enthusiast, a history buff, or simply seeking a moment of tranquility, Stadtkirche Marlow offers a unique experience that captures the essence of the region's heritage.
 
 ## History and Significance
 
@@ -103,7 +103,7 @@ Approximately one hour is ideal to appreciate the church's architecture and hist
 Photography may be permitted in certain areas; check for any signage or guidelines regarding photography inside the church.
 
 ### Are there guided tours?
-Check the official website for information about guided tours, which can provide valuable insights into the church’s history and architecture.
+Check the official website for information about guided tours, which can provide valuable insights into the church's history and architecture.
 
 ### What's the best time to visit?
 Visiting during weekdays or off-peak hours can provide a more peaceful experience, while local events may also enhance your visit.
@@ -115,7 +115,7 @@ For information on accessibility, check the official website to confirm availabl
 Check the official website for details on ticket purchasing and entrance requirements.
 
 ### Are there restrooms and cafes?
-Nearby facilities may be available; however, it’s advisable to check for specific amenities in the vicinity.
+Nearby facilities may be available; however, it's advisable to check for specific amenities in the vicinity.
 
 ### What should I wear?
-Modest attire is recommended, respecting the church’s nature as a place of worship. Comfortable clothing and shoes are suggested for exploring the area.
+Modest attire is recommended, respecting the church's nature as a place of worship. Comfortable clothing and shoes are suggested for exploring the area.

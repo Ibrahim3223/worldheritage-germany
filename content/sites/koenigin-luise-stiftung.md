@@ -32,7 +32,7 @@ As you explore Berlin, the Königin-Luise-Stiftung offers a unique perspective o
 
 ## History and Significance
 
-The Königin-Luise-Stiftung stands as a noteworthy example of educational philanthropy in Berlin. While specific historical dates and events may not be readily available, the foundation’s significance is rooted in its commitment to providing quality education through its three private schools. These institutions cater to a diverse student body, offering an alternative to traditional public education and contributing to the rich educational landscape of the city.
+The Königin-Luise-Stiftung stands as a noteworthy example of educational philanthropy in Berlin. While specific historical dates and events may not be readily available, the foundation's significance is rooted in its commitment to providing quality education through its three private schools. These institutions cater to a diverse student body, offering an alternative to traditional public education and contributing to the rich educational landscape of the city.
 
 The name of the foundation pays homage to Queen Louise of Prussia, a historical figure known for her influence and contribution to the cultural life of her time. The foundation embodies her legacy of support for education and civic responsibility. The schools under its purview are designed not only to foster academic achievement but also to encourage personal growth, creativity, and social responsibility among students.
 
@@ -52,7 +52,7 @@ Visiting the Königin-Luise-Stiftung offers a unique opportunity to engage with 
 
 For those planning a visit, public transportation in Berlin is efficient and can be easily navigated to reach the foundation. Expect to spend a few hours exploring the surroundings and potentially engaging with the educational programs offered. 
 
-The best times to visit would likely be during the school year when the activities are in full swing, allowing visitors to witness the foundation’s impact on the community firsthand. You may also consider visiting during school events or open days, which can provide deeper insights into the educational philosophy of the Königin-Luise-Stiftung.
+The best times to visit would likely be during the school year when the activities are in full swing, allowing visitors to witness the foundation's impact on the community firsthand. You may also consider visiting during school events or open days, which can provide deeper insights into the educational philosophy of the Königin-Luise-Stiftung.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ While in the vicinity of the Königin-Luise-Stiftung, consider exploring these n
 
 2. **Schloss Charlottenburg**: This historic palace offers a glimpse into royal life in Berlin, complete with opulent gardens and rich history.
 
-3. **Kaiser Wilhelm Memorial Church**: An iconic landmark that serves as a poignant reminder of Berlin’s tumultuous history, blending old and new architecture.
+3. **Kaiser Wilhelm Memorial Church**: An iconic landmark that serves as a poignant reminder of Berlin's tumultuous history, blending old and new architecture.
 
 4. **Museum Berggruen**: Located nearby, this museum houses an impressive collection of modern art, including works by Picasso and Matisse, enriching your cultural experience in Berlin.
 

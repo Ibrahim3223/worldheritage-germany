@@ -40,7 +40,7 @@ Churches in Berlin often reflect the city's broader historical narratives, inclu
 
 ## Architecture and Features
 
-Genezareth Church features a design that embodies the architectural trends prevalent in Berlin’s churches, showcasing elements that resonate with both functionality and aesthetics. While specific architectural details about the church may not be documented, typical features of churches in the region include tall steeples, arched windows, and intricate stained glass that often depict biblical scenes or local history.
+Genezareth Church features a design that embodies the architectural trends prevalent in Berlin's churches, showcasing elements that resonate with both functionality and aesthetics. While specific architectural details about the church may not be documented, typical features of churches in the region include tall steeples, arched windows, and intricate stained glass that often depict biblical scenes or local history.
 
 Visitors can expect to find a welcoming interior that encourages reflection and prayer. The layout typically includes a nave where congregants gather, as well as designated areas for worship and community activities. The church's design promotes a sense of unity and community, inviting individuals to come together for shared experiences.
 

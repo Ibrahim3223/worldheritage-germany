@@ -66,7 +66,7 @@ When visiting Ehrenfriedhof, consider exploring some of the nearby attractions t
 
 2. **Historical City Center**: The charming old town of Heilbronn is filled with historical architecture, shops, and cafes, perfect for a leisurely stroll after visiting the cemetery.
 
-3. **St. Kilian’s Church**: A prominent landmark in Heilbronn, this church showcases stunning architecture and offers a glimpse into the region's religious heritage.
+3. **St. Kilian's Church**: A prominent landmark in Heilbronn, this church showcases stunning architecture and offers a glimpse into the region's religious heritage.
 
 4. **The Experimenta Science Center**: A family-friendly attraction, this interactive science museum provides engaging exhibits and activities suitable for visitors of all ages.
 

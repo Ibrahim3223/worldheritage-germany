@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Hamburg-Nord, the Otto-Linne-Denkmal stands as a significant monument honoring the contributions of a notable figure in the realm of science. This monument not only commemorates the legacy of Otto Linne but also enriches the cultural landscape of the city. The monument is situated at coordinates 53.62306944, 10.06272222, making it accessible to visitors exploring the vibrant history and heritage of Hamburg. 
 
-As an integral part of Hamburg's public art collection, the Otto-Linne-Denkmal serves as a point of reference for both locals and tourists alike. Its presence encourages a deeper understanding of scientific advancements and the individuals behind them. The monument represents a connection to the past, inviting visitors to reflect on the impact of Linne’s work on contemporary science and society. Whether you are a history enthusiast or simply looking for a thoughtful place to visit, the Otto-Linne-Denkmal promises to enrich your experience in Hamburg.
+As an integral part of Hamburg's public art collection, the Otto-Linne-Denkmal serves as a point of reference for both locals and tourists alike. Its presence encourages a deeper understanding of scientific advancements and the individuals behind them. The monument represents a connection to the past, inviting visitors to reflect on the impact of Linne's work on contemporary science and society. Whether you are a history enthusiast or simply looking for a thoughtful place to visit, the Otto-Linne-Denkmal promises to enrich your experience in Hamburg.
 
 ## History and Significance
 

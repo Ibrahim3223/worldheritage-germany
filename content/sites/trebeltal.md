@@ -28,7 +28,7 @@ image_srcset:
 
 Trebeltal is a captivating nature reserve located in the Mecklenburg-Vorpommern region of Germany. This protected area, known as a Naturschutzgebiet, offers a unique opportunity to immerse oneself in the natural beauty and biodiversity of northeastern Germany. Spanning a diverse ecosystem, Trebeltal serves not only as a sanctuary for wildlife but also as a space for exploration and education about the environment. The reserve's significance lies in its commitment to conservation and the promotion of ecological awareness, making it an essential destination for nature lovers and outdoor enthusiasts.
 
-Visitors to Trebeltal can expect to encounter a range of habitats, from lush woodlands to serene wetlands, home to various plant and animal species. The reserve’s coordinates, 54.0141° N latitude and 12.7744° E longitude, place it within a context of rich flora and fauna, attracting those interested in environmental studies and photography. The tranquility of the area offers a welcome retreat from urban life, providing visitors with a chance to appreciate the intricate beauty of nature.
+Visitors to Trebeltal can expect to encounter a range of habitats, from lush woodlands to serene wetlands, home to various plant and animal species. The reserve's coordinates, 54.0141° N latitude and 12.7744° E longitude, place it within a context of rich flora and fauna, attracting those interested in environmental studies and photography. The tranquility of the area offers a welcome retreat from urban life, providing visitors with a chance to appreciate the intricate beauty of nature.
 
 ## History and Significance
 

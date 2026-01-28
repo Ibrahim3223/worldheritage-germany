@@ -70,7 +70,7 @@ Consider engaging with any events or activities happening in the vicinity, as th
 
 ## Practical Information
 
-When planning your visit to Gemeindehaus Weißenseestraße 35, it’s advisable to bring a camera for capturing the architecture and any events you might encounter. Comfortable walking shoes are recommended, as the area may encourage exploration beyond the building itself.
+When planning your visit to Gemeindehaus Weißenseestraße 35, it's advisable to bring a camera for capturing the architecture and any events you might encounter. Comfortable walking shoes are recommended, as the area may encourage exploration beyond the building itself.
 
 Seasonal considerations can also impact your visit. In warmer months, the surrounding parks and outdoor areas may be more vibrant, while winter could offer a quieter, reflective atmosphere. Be prepared for varying weather conditions, and check the forecast before you go.
 

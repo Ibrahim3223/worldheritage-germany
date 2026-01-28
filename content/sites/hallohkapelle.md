@@ -28,7 +28,7 @@ image_srcset:
 
 Hallohkapelle, a serene chapel located in the picturesque region of Meschede, Germany, serves as a significant spiritual and cultural landmark. With its tranquil surroundings and understated architectural elegance, this chapel invites visitors to pause and reflect amid the bustle of modern life. Meschede, nestled in the heart of North Rhine-Westphalia, is not just known for its natural beauty but also for its rich history and cultural heritage, making Hallohkapelle an ideal stop for those exploring the region.
 
-The chapel’s significance extends beyond its physical structure; it represents a space for community gathering, reflection, and worship for locals and visitors alike. Whether you are seeking a moment of peace, a deeper understanding of the cultural landscape, or simply a unique architectural experience, Hallohkapelle offers a compelling reason to explore this area of Germany.
+The chapel's significance extends beyond its physical structure; it represents a space for community gathering, reflection, and worship for locals and visitors alike. Whether you are seeking a moment of peace, a deeper understanding of the cultural landscape, or simply a unique architectural experience, Hallohkapelle offers a compelling reason to explore this area of Germany.
 
 ## History and Significance
 

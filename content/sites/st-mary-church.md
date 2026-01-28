@@ -32,11 +32,11 @@ Stendal itself is a town rich in history, and St. Mary Church contributes to its
 
 ## History and Significance
 
-The history of St. Mary Church reflects the broader narrative of Stendal and its development over the centuries. Though specific dates are not provided, the church has long been an integral part of the town’s identity, serving as a focal point for the local community. Its construction and subsequent renovations are indicative of the architectural trends and religious practices that have evolved in Germany, particularly in Saxony-Anhalt.
+The history of St. Mary Church reflects the broader narrative of Stendal and its development over the centuries. Though specific dates are not provided, the church has long been an integral part of the town's identity, serving as a focal point for the local community. Its construction and subsequent renovations are indicative of the architectural trends and religious practices that have evolved in Germany, particularly in Saxony-Anhalt.
 
-The church has played a vital role in the spiritual life of the community, hosting numerous religious services, celebrations, and events that bring together residents and visitors alike. As a place of worship, it has provided spiritual guidance and support to generations of Stendal’s inhabitants. The church’s significance extends beyond its religious functions; it also serves as a cultural hub where art, music, and community gatherings take place.
+The church has played a vital role in the spiritual life of the community, hosting numerous religious services, celebrations, and events that bring together residents and visitors alike. As a place of worship, it has provided spiritual guidance and support to generations of Stendal's inhabitants. The church's significance extends beyond its religious functions; it also serves as a cultural hub where art, music, and community gatherings take place.
 
-Moreover, the church stands as a reminder of the historical events that have shaped Stendal. From periods of prosperity to times of conflict, St. Mary Church has witnessed the changes that have swept through the town and has remained a steadfast presence in the lives of its people. This rich history contributes to the overall significance of the church as not just a building, but as a living testament to the community’s resilience and faith.
+Moreover, the church stands as a reminder of the historical events that have shaped Stendal. From periods of prosperity to times of conflict, St. Mary Church has witnessed the changes that have swept through the town and has remained a steadfast presence in the lives of its people. This rich history contributes to the overall significance of the church as not just a building, but as a living testament to the community's resilience and faith.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ While specific architectural details are not provided, visitors can expect to ob
 
 Inside, the church may feature an altar that reflects the religious significance of the space, along with pews arranged for congregational worship. The overall atmosphere is likely to be one of tranquility and reverence, inviting visitors to take a moment to reflect and appreciate the artistry that surrounds them.
 
-Additionally, the church’s location within Stendal provides a scenic backdrop that enhances the overall experience of visiting. Its presence in the landscape serves as a visual marker of the town's historical and cultural landscape, encouraging exploration and appreciation of the area.
+Additionally, the church's location within Stendal provides a scenic backdrop that enhances the overall experience of visiting. Its presence in the landscape serves as a visual marker of the town's historical and cultural landscape, encouraging exploration and appreciation of the area.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ The area surrounding St. Mary Church is rich with attractions that complement yo
 
 1. **Stendal Town Hall**: A remarkable example of medieval architecture, this historic building is a short distance from the church and provides insights into the town's governance and history.
 
-2. **Stendal’s Old Town**: Wander through the charming streets of Stendal’s Old Town, where you can admire various historical buildings and enjoy local shops and cafes.
+2. **Stendal's Old Town**: Wander through the charming streets of Stendal's Old Town, where you can admire various historical buildings and enjoy local shops and cafes.
 
 3. **The Church of St. John**: Another significant church in Stendal, known for its distinct architectural style and historical relevance, providing an additional layer to your cultural exploration.
 
@@ -76,13 +76,13 @@ The area surrounding St. Mary Church is rich with attractions that complement yo
 
 When visiting St. Mary Church, consider bringing a camera to capture the architectural beauty and serene interiors. However, be mindful of any photography restrictions that may apply within the church premises.
 
-To avoid crowds, aim to visit during weekday mornings or late afternoons. This timing often allows for a quieter experience, giving you the opportunity to appreciate the church’s ambiance without the hustle and bustle of larger groups.
+To avoid crowds, aim to visit during weekday mornings or late afternoons. This timing often allows for a quieter experience, giving you the opportunity to appreciate the church's ambiance without the hustle and bustle of larger groups.
 
-Additionally, engaging with locals or church staff can provide valuable insights and stories that enhance your understanding of the church’s significance.
+Additionally, engaging with locals or church staff can provide valuable insights and stories that enhance your understanding of the church's significance.
 
 ## Practical Information
 
-When preparing for your visit to St. Mary Church, it’s advisable to bring essentials such as a water bottle, comfortable walking shoes, and a light jacket, as temperatures can vary, especially in the cooler months.
+When preparing for your visit to St. Mary Church, it's advisable to bring essentials such as a water bottle, comfortable walking shoes, and a light jacket, as temperatures can vary, especially in the cooler months.
 
 Seasonal considerations are important; spring and summer offer pleasant weather for exploring the town and surroundings. Conversely, winter visits may present a unique charm, albeit with colder temperatures, so dress accordingly.
 
@@ -109,7 +109,7 @@ Accessibility features may vary; it is recommended to check in advance to ensure
 Check the official website for information regarding ticket purchasing options or any entrance fees.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s a good idea to check the area surrounding the church for available amenities.
+Facilities may vary; it's a good idea to check the area surrounding the church for available amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for a place of worship; consider modest attire and layers for varying temperatures.

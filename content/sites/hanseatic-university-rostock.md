@@ -24,7 +24,7 @@ The Hanseatic University Rostock, located in the picturesque coastal city of Ros
 
 Rostock itself is a city steeped in maritime history, and the university reflects this legacy through its various programs and research initiatives. The university is a key player in fostering innovation and development in the region, contributing to both local and international academic communities. Its commitment to nurturing future leaders in science, technology, humanities, and social sciences makes it a vital institution in Germany's educational framework.
 
-Visitors to the Hanseatic University Rostock can expect not only a glimpse into the academic life of one of Germany's oldest universities but also the opportunity to engage with the local culture and history. The university’s campuses are designed to inspire learning and creativity, inviting exploration from both prospective students and curious travelers alike.
+Visitors to the Hanseatic University Rostock can expect not only a glimpse into the academic life of one of Germany's oldest universities but also the opportunity to engage with the local culture and history. The university's campuses are designed to inspire learning and creativity, inviting exploration from both prospective students and curious travelers alike.
 
 ## History and Significance
 
@@ -32,7 +32,7 @@ The roots of the Hanseatic University Rostock trace back to its founding in the 
 
 Throughout its history, the university has witnessed significant changes, adapting to the political and social transformations in Germany. It has served as an important site for the exchange of ideas, attracting scholars and students from diverse backgrounds. The university's commitment to academic freedom and research excellence has ensured its relevance throughout the ages, and it continues to be a respected institution in the global academic community.
 
-The university's influence extends beyond academia; it has been integral in fostering cultural ties within the Hanseatic League, a historic alliance of merchant cities that facilitated trade and cultural exchange in Northern Europe. This legacy is reflected in the university’s emphasis on international collaboration and research, making it a contemporary center for innovation.
+The university's influence extends beyond academia; it has been integral in fostering cultural ties within the Hanseatic League, a historic alliance of merchant cities that facilitated trade and cultural exchange in Northern Europe. This legacy is reflected in the university's emphasis on international collaboration and research, making it a contemporary center for innovation.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ The best times to visit are during the academic year when the campus is bustling
 
 ## Nearby Attractions
 
-When visiting the Hanseatic University Rostock, you are also in proximity to several notable attractions that highlight the city’s rich cultural heritage:
+When visiting the Hanseatic University Rostock, you are also in proximity to several notable attractions that highlight the city's rich cultural heritage:
 
 1. **Rostock City Center**: Just a short distance from the university, the city center boasts a variety of shops, cafes, and historical sites, including the iconic St. Mary's Church and the Town Hall.
 
@@ -76,7 +76,7 @@ To enhance your visit to the Hanseatic University Rostock, keep the following ti
 
 - **Crowd Avoidance**: To avoid the largest crowds, plan your visit during weekdays, particularly in the morning or early afternoon. Avoid exam periods when the campus may be busier with students.
 
-- **Events and Lectures**: Check the university’s calendar for public lectures or events that may be occurring during your visit. Participating in these can provide a richer understanding of the university's academic environment.
+- **Events and Lectures**: Check the university's calendar for public lectures or events that may be occurring during your visit. Participating in these can provide a richer understanding of the university's academic environment.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ When planning your visit to the Hanseatic University Rostock, consider the follo
 A visit of 2-3 hours is recommended to fully explore the campus and engage with its surroundings.
 
 ### Is photography allowed?
-Generally, photography is permitted on campus, but it’s best to avoid taking photos in restricted areas.
+Generally, photography is permitted on campus, but it's best to avoid taking photos in restricted areas.
 
 ### Are there guided tours?
 Check the official website for information about guided tours and any scheduled events that may be open to visitors.

@@ -44,7 +44,7 @@ Notable features may include various exhibition halls that can accommodate a ran
 
 Getting to Syker Vorwerk is straightforward, with various transportation options available for visitors. Those traveling by car will find parking facilities nearby, while public transport may offer convenient routes to the museum from surrounding areas. 
 
-When planning your visit, it’s essential to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. The museum typically welcomes visitors on weekdays and weekends, making it accessible for both short trips and longer stays.
+When planning your visit, it's essential to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. The museum typically welcomes visitors on weekdays and weekends, making it accessible for both short trips and longer stays.
 
 Expect to spend approximately 1 to 2 hours exploring the exhibits, depending on your interest level and engagement with the artworks. For a more enriching experience, consider visiting during special exhibitions or events, which often feature guided tours and artist talks.
 
@@ -82,7 +82,7 @@ Seasonal considerations may also play a role in your visit. Spring and autumn of
 Most visitors find that spending 1 to 2 hours at Syker Vorwerk allows ample time to explore the exhibits and appreciate the artwork.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check upon arrival at the museum for specific guidelines on taking photos.
+Photography policies can vary, so it's best to check upon arrival at the museum for specific guidelines on taking photos.
 
 ### Are there guided tours?
 Guided tours may be available during special exhibitions or events. Check the official website for details on scheduling and availability.

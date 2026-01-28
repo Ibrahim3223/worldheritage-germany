@@ -76,7 +76,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. This no
 
 ## Practical Information
 
-When visiting St. Antonius, it’s advisable to bring essential items such as water, comfortable walking shoes, and a camera to document your experience. Depending on the season, appropriate clothing should be considered, as weather conditions can vary. 
+When visiting St. Antonius, it's advisable to bring essential items such as water, comfortable walking shoes, and a camera to document your experience. Depending on the season, appropriate clothing should be considered, as weather conditions can vary. 
 
 If visiting during colder months, ensure that you are adequately dressed to enjoy your time outside the chapel. In warmer months, light clothing and sun protection may be necessary. Always check the official website for specific seasonal considerations or events that may influence your visit.
 
@@ -95,7 +95,7 @@ Specific information regarding guided tours may vary. Check the official website
 Daylight hours provide the best experience for visiting St. Antonius, particularly during early morning or late afternoon for ideal lighting conditions.
 
 ### Is it wheelchair accessible?
-Accessibility information is not detailed. It’s best to check the official website or contact local resources for specific accessibility options.
+Accessibility information is not detailed. It's best to check the official website or contact local resources for specific accessibility options.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases is not specified. Be sure to check the official website for updates on ticketing and entry requirements.

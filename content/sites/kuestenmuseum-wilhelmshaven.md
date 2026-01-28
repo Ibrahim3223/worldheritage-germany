@@ -58,7 +58,7 @@ The best times to visit may vary, but weekdays could offer a quieter experience 
 
 In addition to the enriching experience at Küstenmuseum Wilhelmshaven, several nearby attractions merit exploration:
 
-1. **Wilhelmshaven Naval Museum**: This museum complements the coastal narrative with a focus on naval history, showcasing the city’s maritime military heritage.
+1. **Wilhelmshaven Naval Museum**: This museum complements the coastal narrative with a focus on naval history, showcasing the city's maritime military heritage.
 
 2. **JadeWeserPort InfoCenter**: Located near the port, this center provides insights into the operations of one of Germany's most significant deep-water ports.
 

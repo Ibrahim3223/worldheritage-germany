@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Marx-Engels Forum in Berlin is a compelling memorial park that invites reflection on the lives and legacies of two of the most influential thinkers in modern history. Located in the heart of the Bezirk Mitte district, this urban oasis serves not only as a tribute to Karl Marx and Friedrich Engels but also as a vibrant public space where visitors can engage with the city’s cultural landscape. The forum sits adjacent to the bustling streets of Berlin, making it a focal point for both locals and travelers seeking a moment of tranquility amid the urban hustle.
+The Marx-Engels Forum in Berlin is a compelling memorial park that invites reflection on the lives and legacies of two of the most influential thinkers in modern history. Located in the heart of the Bezirk Mitte district, this urban oasis serves not only as a tribute to Karl Marx and Friedrich Engels but also as a vibrant public space where visitors can engage with the city's cultural landscape. The forum sits adjacent to the bustling streets of Berlin, making it a focal point for both locals and travelers seeking a moment of tranquility amid the urban hustle.
 
 The park is more than just a resting place for monumental statues; it is a space that fosters dialogue about ideology, history, and the impact of Marxist thought on contemporary society. The significance of the Marx-Engels Forum extends beyond its physical boundaries, inviting visitors to ponder the philosophical questions raised by its namesakes. As you stroll through the park, the combination of art and nature creates a backdrop for contemplation, community gatherings, and a deeper understanding of Berlin's complex historical narrative.
 
@@ -82,7 +82,7 @@ To enhance your experience at the Marx-Engels Forum, consider these insider tips
 
 When preparing for your visit to the Marx-Engels Forum, consider the following practical information:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you’ll likely want to stroll through the park. Bringing a camera can enhance your experience, allowing you to capture the beautiful statues and surrounding landscapes.
+- **What to Bring**: Comfortable walking shoes are recommended, as you'll likely want to stroll through the park. Bringing a camera can enhance your experience, allowing you to capture the beautiful statues and surrounding landscapes.
 
 - **Seasonal Considerations**: The park is open year-round, but the best time to visit is during warmer months when the greenery is lush. In fall, the changing leaves provide a picturesque setting, while winter may offer a quieter atmosphere, albeit with colder weather.
 
@@ -103,7 +103,7 @@ Check the official website for information regarding any guided tours or events 
 The best times to visit are during spring and summer, particularly in the early morning or late afternoon for optimal lighting.
 
 ### Is it wheelchair accessible?
-The park is designed to be accessible, but specific features may vary. It’s advisable to check the official website for detailed accessibility information.
+The park is designed to be accessible, but specific features may vary. It's advisable to check the official website for detailed accessibility information.
 
 ### Can I buy tickets online?
 Entry to the Marx-Engels Forum is generally free. However, check the official website for any events that may require tickets.

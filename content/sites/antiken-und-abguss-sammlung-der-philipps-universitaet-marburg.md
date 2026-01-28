@@ -101,7 +101,7 @@ Accessibility information can be found on the museum's official website, ensurin
 Check the official website for details on purchasing tickets online for convenience.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available; however, it’s best to confirm on the museum’s official site. 
+Facilities such as restrooms may be available; however, it's best to confirm on the museum's official site. 
 
 ### What should I wear?
 Comfortable clothing and footwear are advisable, as you will likely be walking and exploring the museum for an extended period.

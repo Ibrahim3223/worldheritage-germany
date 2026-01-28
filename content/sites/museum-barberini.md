@@ -30,7 +30,7 @@ Museum Barberini, located in the charming city of Potsdam, Germany, is a disting
 
 The museum's mission is to provide a platform for a wide range of art, from classical to contemporary, thereby fostering an appreciation for artistic expression. Its strategic location in Potsdam, a city known for its palaces and gardens, adds to the allure of a visit. Visitors can expect an enriching experience that combines visual splendor with educational insights, allowing them to engage deeply with the artworks on display.
 
-Museum Barberini stands as a significant marker in the landscape of German art institutions. It not only highlights the importance of artistic heritage but also promotes dialogue and understanding through art. Whether you’re an aficionado or simply curious about the world of art, a visit to Museum Barberini promises to inspire and educate.
+Museum Barberini stands as a significant marker in the landscape of German art institutions. It not only highlights the importance of artistic heritage but also promotes dialogue and understanding through art. Whether you're an aficionado or simply curious about the world of art, a visit to Museum Barberini promises to inspire and educate.
 
 ## History and Significance
 
@@ -122,4 +122,4 @@ Yes, the museum provides restrooms and a café for visitor convenience.
 ### What should I wear?
 Dress comfortably, and consider layering, as museum environments can vary in temperature.
 
-A visit to Museum Barberini promises an enriching exploration of art and culture in the beautiful setting of Potsdam. Whether you’re drawn by the artworks, the architecture, or the cultural significance, this museum offers a memorable experience for all.
+A visit to Museum Barberini promises an enriching exploration of art and culture in the beautiful setting of Potsdam. Whether you're drawn by the artworks, the architecture, or the cultural significance, this museum offers a memorable experience for all.

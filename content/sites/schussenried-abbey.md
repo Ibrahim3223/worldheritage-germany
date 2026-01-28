@@ -46,7 +46,7 @@ The architecture of Schussenried Abbey reflects the design sensibilities typical
 
 Visitors will find notable features that highlight the craftsmanship of the period, including intricately designed facades, decorative elements, and possible artworks that adorn the interiors. The overall aesthetic of the abbey is expected to evoke a sense of tranquility, aligning with the monastic ideals of simplicity and reflection.
 
-The abbey may also house various artifacts that provide insight into the daily lives of the monks and the historical context of monasticism in the region. These artifacts, along with the architectural details, contribute to a comprehensive understanding of the site’s historical significance.
+The abbey may also house various artifacts that provide insight into the daily lives of the monks and the historical context of monasticism in the region. These artifacts, along with the architectural details, contribute to a comprehensive understanding of the site's historical significance.
 
 ## Visiting Information
 

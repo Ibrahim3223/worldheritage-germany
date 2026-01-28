@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays rather than weekends. This wi
 
 ## Practical Information
 
-When planning your visit to the Old Chapel in Leegebruch, it’s advisable to bring along a few essentials. Comfortable shoes are recommended for walking around the area, especially if you intend to explore nearby attractions. A camera is also a great companion, as you’ll likely want to capture the chapel’s charm.
+When planning your visit to the Old Chapel in Leegebruch, it's advisable to bring along a few essentials. Comfortable shoes are recommended for walking around the area, especially if you intend to explore nearby attractions. A camera is also a great companion, as you'll likely want to capture the chapel's charm.
 
 Seasonal considerations include checking the weather prior to your visit, as Germany can experience varied climates throughout the year. Spring and early fall are often pleasant seasons for travel, offering mild temperatures conducive to exploration.
 
@@ -95,7 +95,7 @@ Currently, specific information regarding guided tours is not available. Check t
 Weekdays or early mornings are ideal for a quieter experience, allowing for personal reflection in the chapel.
 
 ### Is it wheelchair accessible?
-Information on wheelchair accessibility is not specified. It’s best to check the official website for current details.
+Information on wheelchair accessibility is not specified. It's best to check the official website for current details.
 
 ### Can I buy tickets online?
 Details on ticket purchases are not provided. Please check the official website for the most accurate information.

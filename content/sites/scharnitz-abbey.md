@@ -98,7 +98,7 @@ Be sure to check the official website for current information on visiting hours,
 Typically, visitors find that a few hours are sufficient to explore Scharnitz Abbey and take in its serene environment.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the abbey directly regarding specific guidelines.
+Photography policies may vary, so it's best to check with the abbey directly regarding specific guidelines.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the abbey's history and architecture. Check the official website for more details.

@@ -28,11 +28,11 @@ image_srcset:
 
 Located in the heart of Munich, Germany, the Deutsches Museum is a premier destination for science and technology enthusiasts. As one of the largest and oldest science museums in the world, this institution serves as a hub for innovation, exploration, and education. With its extensive collection of exhibits and artifacts, the museum offers visitors an engaging and comprehensive look at the evolution of scientific thought and technological advancements. 
 
-The Deutsches Museum holds a significant position within the cultural landscape of Munich, showcasing the city’s commitment to scientific inquiry and technological prowess. Its location in the Ludwigsvorstadt-Isarvorstadt district places it conveniently within the urban fabric, making it accessible for both locals and travelers. Whether you are a curious child or a seasoned scientist, the museum promises a day filled with discovery and inspiration.
+The Deutsches Museum holds a significant position within the cultural landscape of Munich, showcasing the city's commitment to scientific inquiry and technological prowess. Its location in the Ludwigsvorstadt-Isarvorstadt district places it conveniently within the urban fabric, making it accessible for both locals and travelers. Whether you are a curious child or a seasoned scientist, the museum promises a day filled with discovery and inspiration.
 
 ## History and Significance
 
-The Deutsches Museum was established to provide a platform for scientific education and to illustrate the progress of technology through the ages. Although specific founding dates are not available, the museum's inception marked a pivotal moment in Germany’s cultural and educational history. It represents a broader movement towards public engagement with science, reflecting a societal belief in the power of knowledge and innovation.
+The Deutsches Museum was established to provide a platform for scientific education and to illustrate the progress of technology through the ages. Although specific founding dates are not available, the museum's inception marked a pivotal moment in Germany's cultural and educational history. It represents a broader movement towards public engagement with science, reflecting a societal belief in the power of knowledge and innovation.
 
 Throughout its history, the museum has played a vital role in fostering interest in science and technology among the general public. It has also been instrumental in preserving Germany's scientific heritage, showcasing inventions and discoveries that have shaped modern life. The museum has continually evolved to incorporate new scientific fields and technological advancements, ensuring that it remains relevant in an ever-changing world.
 

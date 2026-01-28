@@ -62,7 +62,7 @@ While visiting the Winckelmann Museum, consider exploring these nearby attractio
 
 2. **The Town Hall**: An architectural landmark in Stendal, the Town Hall showcases Renaissance-style elements and serves as a focal point for local events and festivities.
 
-3. **Stendal’s Old Town**: Wandering through the charming streets of the Old Town offers visitors a glimpse into the city’s past, with well-preserved buildings and quaint shops.
+3. **Stendal's Old Town**: Wandering through the charming streets of the Old Town offers visitors a glimpse into the city's past, with well-preserved buildings and quaint shops.
 
 4. **The Archaeological Park**: Located not far from the museum, this park features reconstructions of ancient structures, providing additional context to the artifacts seen within the museum.
 
@@ -76,7 +76,7 @@ To enhance your visit to the Winckelmann Museum, consider the following insider 
 
 - **Crowd Avoidance**: Visiting during weekday mornings often results in fewer crowds, allowing for a more personal experience with the exhibits. 
 
-- **Engage with Staff**: Museum staff are typically knowledgeable and passionate about the collections. Don’t hesitate to ask questions or seek recommendations for areas of interest.
+- **Engage with Staff**: Museum staff are typically knowledgeable and passionate about the collections. Don't hesitate to ask questions or seek recommendations for areas of interest.
 
 ## Practical Information
 
@@ -109,7 +109,7 @@ While specific accessibility features are not detailed, most modern museums stri
 Ticket purchasing options may vary. It's advisable to check the official website for current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available within the museum, but it’s recommended to check the official website for specific amenities and cafes.
+Facilities such as restrooms may be available within the museum, but it's recommended to check the official website for specific amenities and cafes.
 
 ### What should I wear?
 Casual and comfortable clothing is recommended for your visit, especially if you plan to spend extended time walking around the museum and its exhibits.

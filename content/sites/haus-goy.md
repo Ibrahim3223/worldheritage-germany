@@ -44,9 +44,9 @@ The interior of Haus Goy, while specific features are not detailed, likely conta
 
 For those planning a visit to Haus Goy, there are several practical considerations to keep in mind. The manor house is situated in Bochum, which is easily accessible by various forms of transportation. Visitors can reach the site by car or public transit, making it a convenient destination for both locals and tourists.
 
-Check the official website for current information regarding visiting hours and ticket prices, as these can vary throughout the year. When visiting, it is advisable to allocate sufficient time to fully appreciate the site’s architecture and history. A typical visit could range from an hour to a couple of hours, depending on your level of interest and any guided tours that may be available.
+Check the official website for current information regarding visiting hours and ticket prices, as these can vary throughout the year. When visiting, it is advisable to allocate sufficient time to fully appreciate the site's architecture and history. A typical visit could range from an hour to a couple of hours, depending on your level of interest and any guided tours that may be available.
 
-The best times to visit Haus Goy generally coincide with pleasant weather, which enhances the experience of exploring the grounds. Whether you’re an architecture enthusiast or a history buff, the manor’s unique charm is best appreciated during the spring and summer months when the surrounding environment is vibrant and inviting.
+The best times to visit Haus Goy generally coincide with pleasant weather, which enhances the experience of exploring the grounds. Whether you're an architecture enthusiast or a history buff, the manor's unique charm is best appreciated during the spring and summer months when the surrounding environment is vibrant and inviting.
 
 ## Nearby Attractions
 
@@ -60,11 +60,11 @@ Haus Goy is conveniently located near several attractions that enhance the overa
 
 4. **Deutsches Bergbau-Museum** - The German Mining Museum, which outlines the significant role of mining in the region's history and economy.
 
-5. **LWL-Museum für Archäologie** - This archaeology museum focuses on the history of North Rhine-Westphalia, featuring fascinating exhibits that provide insight into the area’s ancient past.
+5. **LWL-Museum für Archäologie** - This archaeology museum focuses on the history of North Rhine-Westphalia, featuring fascinating exhibits that provide insight into the area's ancient past.
 
 ## Insider Tips
 
-For those planning to photograph Haus Goy, early morning or late afternoon light can provide the best conditions for capturing the manor’s exterior. The structure's details are often highlighted during these times, allowing for stunning photographs that reflect its architectural beauty. 
+For those planning to photograph Haus Goy, early morning or late afternoon light can provide the best conditions for capturing the manor's exterior. The structure's details are often highlighted during these times, allowing for stunning photographs that reflect its architectural beauty. 
 
 To avoid crowds, consider visiting during weekdays when school groups and tourists are less likely to be present. Additionally, aim for the shoulder seasons of spring and autumn when the weather is still pleasant but tourist traffic may be lighter.
 
@@ -80,7 +80,7 @@ In terms of amenities, check the official website for information on available f
 A visit to Haus Goy typically requires about one to two hours, depending on your interest level and any guided tours.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to verify specific rules at the site.
+Photography is generally permitted, but it's always best to verify specific rules at the site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the manor's history and architecture.
@@ -100,4 +100,4 @@ Check the official website for information on available amenities, including res
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider layers for changing weather conditions. 
 
-Haus Goy presents an opportunity to delve into Germany’s rich architectural history while enjoying the beautiful surroundings of Bochum. With this guide, you’re well-prepared to explore this fascinating manor house and appreciate its significance in the cultural landscape.
+Haus Goy presents an opportunity to delve into Germany's rich architectural history while enjoying the beautiful surroundings of Bochum. With this guide, you're well-prepared to explore this fascinating manor house and appreciate its significance in the cultural landscape.

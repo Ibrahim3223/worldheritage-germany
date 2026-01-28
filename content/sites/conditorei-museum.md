@@ -46,7 +46,7 @@ The Conditorei-Museum is situated in a building that complements its mission, of
 
 Notable features of the museum include interactive displays that engage visitors of all ages. These exhibits often include demonstrations of traditional baking techniques, showcasing the artistry involved in creating confections. Additionally, the museum houses a collection of vintage baking tools and equipment, providing insight into the evolution of pastry-making over the years.
 
-The museum’s design emphasizes the sensory experience of sweets, with vibrant colors and enticing displays that capture the eye. Visitors can expect to encounter a range of informative panels covering topics from the history of sugar production to the significance of certain desserts in German culture. The thoughtful curation ensures that each aspect of the museum contributes to a comprehensive understanding of confectionery arts.
+The museum's design emphasizes the sensory experience of sweets, with vibrant colors and enticing displays that capture the eye. Visitors can expect to encounter a range of informative panels covering topics from the history of sugar production to the significance of certain desserts in German culture. The thoughtful curation ensures that each aspect of the museum contributes to a comprehensive understanding of confectionery arts.
 
 ## Visiting Information
 

@@ -70,9 +70,9 @@ To enhance your experience at the Church of the Holy Cross, consider the followi
 
 ## Practical Information
 
-Before heading to the Church of the Holy Cross, it’s wise to prepare for your visit:
+Before heading to the Church of the Holy Cross, it's wise to prepare for your visit:
 
-- **What to Bring**: Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions. A camera can be useful for capturing the church’s architectural details.
+- **What to Bring**: Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions. A camera can be useful for capturing the church's architectural details.
 
 - **Seasonal Considerations**: Check the local weather forecast, as conditions can vary throughout the year. If visiting during colder months, dress in layers to ensure comfort.
 

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Jesuit College of Ingolstadt, located in the heart of Ingolstadt, Germany, is a significant educational institution with deep historical roots. Established as a center for Jesuit education, it has played a crucial role in shaping intellectual and theological discourse in Europe. As you explore this remarkable site, you will find a blend of academic ambition and spiritual heritage that is deeply intertwined with the Jesuit order’s mission. The college not only stands as a monument to the Jesuit tradition but also encapsulates the broader educational and cultural movements of its time.
+The Jesuit College of Ingolstadt, located in the heart of Ingolstadt, Germany, is a significant educational institution with deep historical roots. Established as a center for Jesuit education, it has played a crucial role in shaping intellectual and theological discourse in Europe. As you explore this remarkable site, you will find a blend of academic ambition and spiritual heritage that is deeply intertwined with the Jesuit order's mission. The college not only stands as a monument to the Jesuit tradition but also encapsulates the broader educational and cultural movements of its time.
 
-Ingolstadt itself is a city rich with history, situated along the banks of the Danube River. The college’s location offers visitors an opportunity to immerse themselves in the cultural landscape of southern Germany. The Jesuit College of Ingolstadt is not just an academic institution; it is a site that invites contemplation of the interplay between education, faith, and community. As you delve into its history and architecture, prepare to uncover the stories that have shaped this venerable institution.
+Ingolstadt itself is a city rich with history, situated along the banks of the Danube River. The college's location offers visitors an opportunity to immerse themselves in the cultural landscape of southern Germany. The Jesuit College of Ingolstadt is not just an academic institution; it is a site that invites contemplation of the interplay between education, faith, and community. As you delve into its history and architecture, prepare to uncover the stories that have shaped this venerable institution.
 
 ## History and Significance
 
@@ -52,19 +52,19 @@ The college's interiors may also include religious artwork and symbols that refl
 
 ## Visiting Information
 
-Visiting the Jesuit College of Ingolstadt offers a unique opportunity to explore a site of profound historical and educational significance. To make the most of your visit, it’s advisable to plan your transportation in advance. Ingolstadt is accessible by train and bus, providing convenient options for travelers. 
+Visiting the Jesuit College of Ingolstadt offers a unique opportunity to explore a site of profound historical and educational significance. To make the most of your visit, it's advisable to plan your transportation in advance. Ingolstadt is accessible by train and bus, providing convenient options for travelers. 
 
 Upon arrival, check the official website for current information regarding hours and prices, as these can vary. While the college grounds are usually open to the public, certain areas may have restricted access or specific visiting hours. 
 
 When preparing for your visit, consider setting aside a couple of hours to explore the site fully. This will give you ample time to appreciate the architecture and reflect on the historical context of the college. The best times to visit are typically during the spring and fall, when the weather is pleasant and the campus is less crowded.
 
-Expect a serene atmosphere as you wander through the historic grounds. The college is not just a place for intellectual pursuit; it’s also a space for reflection and contemplation, allowing visitors to engage with its rich heritage.
+Expect a serene atmosphere as you wander through the historic grounds. The college is not just a place for intellectual pursuit; it's also a space for reflection and contemplation, allowing visitors to engage with its rich heritage.
 
 ## Nearby Attractions
 
 Ingolstadt is home to several attractions that complement a visit to the Jesuit College. Here are a few notable sites to consider exploring:
 
-1. **Ingolstadt Fortress**: A remarkable example of military architecture, this fortress offers insights into the city’s history and strategic importance in the past.
+1. **Ingolstadt Fortress**: A remarkable example of military architecture, this fortress offers insights into the city's history and strategic importance in the past.
 
 2. **The Audi Museum**: For automobile enthusiasts, this museum showcases the history and innovation of the Audi brand, highlighting its connection to the city.
 
@@ -82,7 +82,7 @@ To avoid peak tourist times, consider visiting during weekdays rather than weeke
 
 ## Practical Information
 
-When visiting the Jesuit College of Ingolstadt, it’s advisable to bring a camera to capture the stunning architecture and surroundings. Comfortable walking shoes are recommended, as you may want to explore the college grounds and nearby attractions.
+When visiting the Jesuit College of Ingolstadt, it's advisable to bring a camera to capture the stunning architecture and surroundings. Comfortable walking shoes are recommended, as you may want to explore the college grounds and nearby attractions.
 
 Seasons can affect your visit, so consider checking the weather forecast beforehand. Spring and fall are generally pleasant, while summer can be warm and busy. Winter months may offer a quieter experience, albeit with colder temperatures.
 
@@ -101,7 +101,7 @@ Check the official website for information on guided tours, as these may be avai
 Spring and fall are ideal for visiting, with mild weather and fewer tourists.
 
 ### Is it wheelchair accessible?
-Specific accessibility features may be available, but it’s best to check the official website for detailed information.
+Specific accessibility features may be available, but it's best to check the official website for detailed information.
 
 ### Can I buy tickets online?
 Ticket availability and purchasing options may vary, so consult the official website for current information.

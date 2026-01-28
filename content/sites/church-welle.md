@@ -54,7 +54,7 @@ Visitors should be aware that, depending on the time of year, the church may hos
 
 ## Nearby Attractions
 
-1. **Saxon-Anhalt Historical Museum**: Located not far from Welle, this museum offers insights into the region’s rich history, showcasing artifacts that span centuries.
+1. **Saxon-Anhalt Historical Museum**: Located not far from Welle, this museum offers insights into the region's rich history, showcasing artifacts that span centuries.
 
 2. **Welle Town Center**: A charming area where visitors can enjoy local shops, cafes, and the architectural beauty of the town.
 

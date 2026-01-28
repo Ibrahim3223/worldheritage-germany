@@ -54,7 +54,7 @@ Petershagen synagogue is accessible to visitors seeking to learn about its histo
 
 Visitors should check the official website for current information regarding opening hours and any potential entrance fees. The ambiance of the site encourages thoughtful exploration, and visitors should anticipate spending approximately an hour or so to fully absorb the history and significance of the synagogue.
 
-The best times to visit may align with local events or commemorative activities, which can provide deeper insights into the community’s engagement with its heritage. Engaging with the local community, when possible, may enhance the experience, providing visitors with personal narratives that enrich their understanding.
+The best times to visit may align with local events or commemorative activities, which can provide deeper insights into the community's engagement with its heritage. Engaging with the local community, when possible, may enhance the experience, providing visitors with personal narratives that enrich their understanding.
 
 ## Nearby Attractions
 

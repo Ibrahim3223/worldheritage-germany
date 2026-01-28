@@ -72,7 +72,7 @@ The Upper Weser Valley is surrounded by a variety of attractions that enhance th
 
 ## Insider Tips
 
-For those looking to capture the beauty of the Upper Weser Valley through photography, early mornings or late afternoons provide the best natural light. The soft glow during these times enhances the scenery and creates stunning images of the valley’s landscape.
+For those looking to capture the beauty of the Upper Weser Valley through photography, early mornings or late afternoons provide the best natural light. The soft glow during these times enhances the scenery and creates stunning images of the valley's landscape.
 
 To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. This approach allows for a more tranquil experience where you can fully appreciate the sights without the hustle and bustle of large groups.
 
@@ -106,7 +106,7 @@ Spring and autumn are ideal times to visit, offering pleasant weather and vibran
 
 ### Is it wheelchair accessible?
 
-Accessibility may vary by location. It’s best to check individual sites and pathways for wheelchair access before your visit.
+Accessibility may vary by location. It's best to check individual sites and pathways for wheelchair access before your visit.
 
 ### Can I buy tickets online?
 

@@ -74,7 +74,7 @@ While the Bewaldete Düne bei Noer offers a fulfilling experience on its own, th
 
 3. **Laboe Naval Memorial**: Situated along the coast, this memorial commemorates the sailors lost during the World Wars. The site features an impressive tower with panoramic views and a museum dedicated to naval history.
 
-4. **Schönberg Beach**: For those looking to enjoy the seaside, Schönberg Beach is a family-friendly destination with sandy shores and recreational activities. It’s an excellent spot for sunbathing, swimming, or enjoying beachside cafes.
+4. **Schönberg Beach**: For those looking to enjoy the seaside, Schönberg Beach is a family-friendly destination with sandy shores and recreational activities. It's an excellent spot for sunbathing, swimming, or enjoying beachside cafes.
 
 5. **Dänische Wohld**: This nearby area is known for its beautiful countryside and charming villages. It provides opportunities for hiking and cycling, making it perfect for outdoor enthusiasts.
 

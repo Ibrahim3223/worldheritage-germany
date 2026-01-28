@@ -62,7 +62,7 @@ Expect to find informative signage and possibly guided tours that will enhance y
    
 2. **Albrecht Dürer's House**: Located in Nürnberg, this museum is dedicated to the life and works of the famous Renaissance artist, providing a glimpse into the cultural heritage of the region.
 
-3. **Documentation Center Nazi Party Rally Grounds**: This museum in Nürnberg offers a poignant look at the city’s role during the Nazi regime, housed in the remnants of the former party rally grounds.
+3. **Documentation Center Nazi Party Rally Grounds**: This museum in Nürnberg offers a poignant look at the city's role during the Nazi regime, housed in the remnants of the former party rally grounds.
 
 4. **St. Lorenz Church**: A remarkable example of Gothic architecture, this church is a must-visit for those interested in religious art and history.
 

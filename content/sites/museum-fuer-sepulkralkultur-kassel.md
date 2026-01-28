@@ -68,7 +68,7 @@ While the Museum für Sepulkralkultur is a destination in its own right, Kassel 
 
 4. **Documenta**: If your visit coincides with this major contemporary art exhibition held every five years, it is a must-see event that transforms the entire city into a vibrant art space.
 
-5. **Kassel’s cemeteries**: Exploring the historical cemeteries in Kassel can provide further insights into the local burial practices and memorial traditions, complementing the themes discussed at the museum.
+5. **Kassel's cemeteries**: Exploring the historical cemeteries in Kassel can provide further insights into the local burial practices and memorial traditions, complementing the themes discussed at the museum.
 
 ## Insider Tips
 

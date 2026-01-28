@@ -98,7 +98,7 @@ The optimal visiting times are during spring and summer when the garden is in fu
 Check the official website for detailed accessibility information to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-Details on ticket purchasing options can be found on the official website; it’s advisable to check for the latest updates.
+Details on ticket purchasing options can be found on the official website; it's advisable to check for the latest updates.
 
 ### Are there restrooms and cafes?
 Confirm the availability of restrooms and nearby cafes by visiting the official website.

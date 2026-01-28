@@ -32,7 +32,7 @@ The museum's strategic location enhances its accessibility, inviting exploration
 
 ## History and Significance
 
-Museum Pankow stands as a critical institution in preserving and interpreting the history of the Pankow district. The museum’s collection chronicles the area's development, reflecting the changes that have occurred over decades. Exploring the exhibits, visitors can gain insights into significant cultural and social transformations that have taken place in Pankow.
+Museum Pankow stands as a critical institution in preserving and interpreting the history of the Pankow district. The museum's collection chronicles the area's development, reflecting the changes that have occurred over decades. Exploring the exhibits, visitors can gain insights into significant cultural and social transformations that have taken place in Pankow.
 
 The museum also highlights the district's role during pivotal moments in German history, particularly during the Cold War and the fall of the Berlin Wall. These narratives are essential for understanding how Pankow fits into the broader context of Berlin's history. By focusing on local stories and individual experiences, the museum strives to create a connection between the past and contemporary issues, encouraging discussions about identity, community, and resilience.
 

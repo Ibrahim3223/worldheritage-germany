@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-St. James' Church, a prominent landmark in Hamburg-Mitte, embodies the spiritual and architectural heritage of the city. Known as one of Hamburg's main churches, this sacred space holds significant cultural importance for locals and visitors alike. With its striking presence and historical depth, St. James' Church invites exploration and reflection. As you approach, the church's architecture stands as a testament to the enduring faith and resilience of the community that built it. The church is not only a place of worship but also a gathering point for cultural events and concerts, making it a vibrant part of Hamburg’s urban landscape.
+St. James' Church, a prominent landmark in Hamburg-Mitte, embodies the spiritual and architectural heritage of the city. Known as one of Hamburg's main churches, this sacred space holds significant cultural importance for locals and visitors alike. With its striking presence and historical depth, St. James' Church invites exploration and reflection. As you approach, the church's architecture stands as a testament to the enduring faith and resilience of the community that built it. The church is not only a place of worship but also a gathering point for cultural events and concerts, making it a vibrant part of Hamburg's urban landscape.
 
 ## History and Significance
 
-St. James' Church has long been an integral component of Hamburg's religious and community life. While specific dates regarding its founding are not provided, the church's historical significance cannot be overstated. It has witnessed the city’s evolution, from its early days to its status as a bustling metropolis. The church serves as a reminder of Hamburg’s rich cultural and religious tapestry, reflecting the diverse influences that have shaped the city over the centuries.
+St. James' Church has long been an integral component of Hamburg's religious and community life. While specific dates regarding its founding are not provided, the church's historical significance cannot be overstated. It has witnessed the city's evolution, from its early days to its status as a bustling metropolis. The church serves as a reminder of Hamburg's rich cultural and religious tapestry, reflecting the diverse influences that have shaped the city over the centuries.
 
 Throughout its existence, St. James' Church has been a center for the Christian community, offering not only spiritual services but also social support to the surrounding populace. Its role extends beyond the ecclesiastical sphere; the church has hosted numerous events, including concerts and community gatherings, reinforcing its position as a cultural hub within the city. This engagement with the community contributes to the church's ongoing relevance and importance.
 
@@ -68,7 +68,7 @@ St. James' Church is conveniently located near several other attractions worth e
 
 ## Insider Tips
 
-For the best photography opportunities, consider visiting during early morning or late afternoon when the light casts a warm glow on the church’s exterior. If you're looking to avoid crowds, aim for weekdays or plan your visit during off-peak hours. 
+For the best photography opportunities, consider visiting during early morning or late afternoon when the light casts a warm glow on the church's exterior. If you're looking to avoid crowds, aim for weekdays or plan your visit during off-peak hours. 
 
 Respect the sacred environment by being mindful of noise levels and observing any guidelines regarding photography inside the church, particularly during services.
 
@@ -84,7 +84,7 @@ Be sure to check the official website for any specific seasonal events or activi
 A visit to St. James' Church typically takes about 1 to 2 hours, allowing time to explore the interior, reflect, and appreciate the surrounding area.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check for any restrictions, particularly during worship services.
+Photography policies may vary. It's best to check for any restrictions, particularly during worship services.
 
 ### Are there guided tours?
 Guided tours may be available. Check with the official website for details on scheduling and availability.

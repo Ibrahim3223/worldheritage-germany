@@ -28,7 +28,7 @@ image_srcset:
 
 The Rathaus Immenhausen, situated in Kusterdingen, Germany, serves not only as a functional city hall but also a significant landmark within the community. This municipal building embodies the essence of local governance while reflecting the architectural style and cultural history of the region. With its strategic location in Kusterdingen, the Rathaus acts as a hub for civic activities and a focal point for community engagement. Visitors to this site can appreciate its role in the administrative landscape of the area, while also soaking in the surrounding ambiance that captures the spirit of Kusterdingen.
 
-The city hall's historical and architectural significance makes it a noteworthy destination for those exploring the region. Its presence in Kusterdingen is a reminder of the area’s commitment to civic duty and local heritage. As you stroll through the vicinity, the Rathaus stands as a symbol of the community’s identity, inviting visitors to delve deeper into the narrative of this charming locality.
+The city hall's historical and architectural significance makes it a noteworthy destination for those exploring the region. Its presence in Kusterdingen is a reminder of the area's commitment to civic duty and local heritage. As you stroll through the vicinity, the Rathaus stands as a symbol of the community's identity, inviting visitors to delve deeper into the narrative of this charming locality.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ The significance of Rathaus Immenhausen extends beyond its physical structure; i
 
 Rathaus Immenhausen exemplifies the characteristics commonly associated with civic architecture in Germany. While specific architectural details may not be highlighted, city halls typically showcase a combination of functionality and aesthetic appeal. They often feature grand entrances, spacious interiors, and rooms designed for public gatherings, which reflect the importance of transparency and accessibility in local governance.
 
-The building’s exterior may incorporate traditional elements that resonate with the architectural styles found throughout Kusterdingen, blending seamlessly into the surrounding urban landscape. Visitors can expect to encounter a structure that not only serves its purpose as a city hall but also contributes to the overall character of the area.
+The building's exterior may incorporate traditional elements that resonate with the architectural styles found throughout Kusterdingen, blending seamlessly into the surrounding urban landscape. Visitors can expect to encounter a structure that not only serves its purpose as a city hall but also contributes to the overall character of the area.
 
 Inside, the Rathaus likely houses various functional spaces including offices for local officials, meeting rooms, and areas for public engagement. These spaces are designed to foster communication and collaboration among citizens and their representatives. The thoughtful layout and design of city halls like Rathaus Immenhausen often aim to create an inviting atmosphere for community interaction.
 
@@ -96,7 +96,7 @@ When preparing for your visit to Rathaus Immenhausen, keep the following practic
 A typical visit can last anywhere from 30 minutes to an hour, depending on your interest in local governance and the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted outside the building. However, it’s best to check any specific guidelines regarding photography inside.
+Photography is generally permitted outside the building. However, it's best to check any specific guidelines regarding photography inside.
 
 ### Are there guided tours?
 Information on guided tours may not be readily available. Check the official website for any offerings.

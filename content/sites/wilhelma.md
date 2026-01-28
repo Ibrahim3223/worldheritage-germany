@@ -84,7 +84,7 @@ To make the most of your visit to Wilhelma, consider these insider tips:
 
 Before you head to Wilhelma, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are essential, as the garden spans a considerable area. Don’t forget to bring water, especially during warmer months, as you may spend several hours exploring the grounds.
+- **What to Bring**: Comfortable walking shoes are essential, as the garden spans a considerable area. Don't forget to bring water, especially during warmer months, as you may spend several hours exploring the grounds.
 
 - **Seasonal Considerations**: Each season brings a unique charm to Wilhelma, from spring blooms to autumn foliage. Be sure to check for seasonal events or exhibitions that may enhance your visit.
 

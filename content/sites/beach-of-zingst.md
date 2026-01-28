@@ -86,7 +86,7 @@ When planning your visit to the Beach of Zingst, here are some practical conside
 
 - **Seasonal Considerations:** Summer is the most popular time to visit, but the beach offers a unique charm in the off-season as well. Be prepared for cooler temperatures and potentially less predictable weather in spring and autumn.
 
-- **Amenities:** Facilities such as restrooms and changing areas are available, but it’s wise to check the official website for specific details.
+- **Amenities:** Facilities such as restrooms and changing areas are available, but it's wise to check the official website for specific details.
 
 ## Frequently Asked Questions
 

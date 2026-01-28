@@ -28,7 +28,7 @@ image_srcset:
 
 The Grönegaumuseum, located in Melle, Germany, serves as an inviting hub for those interested in exploring the cultural and historical narrative of the region. This museum provides insights into local heritage through carefully curated exhibits that reflect the traditions, art, and daily life of the community. Situated within the picturesque backdrop of Melle, the museum stands out as a center for education and appreciation of regional culture, making it a notable destination for both locals and tourists.
 
-Visitors to the Grönegaumuseum can expect a thoughtful representation of the area’s history, presented in a way that engages a diverse audience. The museum's exhibits are designed to foster a deeper understanding of the local identity while connecting visitors to the broader historical currents that have shaped Melle and its surroundings. Whether you are a history enthusiast or simply curious about the region, the Grönegaumuseum promises a rewarding experience.
+Visitors to the Grönegaumuseum can expect a thoughtful representation of the area's history, presented in a way that engages a diverse audience. The museum's exhibits are designed to foster a deeper understanding of the local identity while connecting visitors to the broader historical currents that have shaped Melle and its surroundings. Whether you are a history enthusiast or simply curious about the region, the Grönegaumuseum promises a rewarding experience.
 
 ## History and Significance
 
@@ -94,7 +94,7 @@ When planning your visit to the Grönegaumuseum, keep the following practical co
 A visit typically lasts a few hours, allowing ample time to explore the exhibits and engage with the material presented.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding any restrictions.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website. Consider checking for schedules and availability.

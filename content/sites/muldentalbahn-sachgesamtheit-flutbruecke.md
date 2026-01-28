@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Muldentalbahn, particularly its Flutbrücke, serves not only as a functional bridge but also as an emblem of the region's rich industrial heritage. Located in Colditz, Germany, this bridge is a vital part of the historical railway network that shaped the area’s transport and commerce. The structure encapsulates the story of engineering advances in the 19th and 20th centuries, reflecting the evolving needs of the community it serves. Visitors to the Flutbrücke can appreciate its significance while enjoying a serene atmosphere that pays homage to the region’s railway history.
+The Muldentalbahn, particularly its Flutbrücke, serves not only as a functional bridge but also as an emblem of the region's rich industrial heritage. Located in Colditz, Germany, this bridge is a vital part of the historical railway network that shaped the area's transport and commerce. The structure encapsulates the story of engineering advances in the 19th and 20th centuries, reflecting the evolving needs of the community it serves. Visitors to the Flutbrücke can appreciate its significance while enjoying a serene atmosphere that pays homage to the region's railway history.
 
 ## History and Significance
 
@@ -28,7 +28,7 @@ The Muldentalbahn has played a crucial role in the development of transport with
 
 The bridge is not just a mere crossing; it represents the legacy of the railway system that has influenced the lives of generations. The Muldentalbahn was part of a broader network that connected various towns and cities, enabling trade and mobility. As rail transportation expanded, so did the communities it served, making the bridge an integral part of local history and culture. 
 
-In the context of Germany’s railway heritage, the Flutbrücke stands out as an example of how infrastructure development has shaped societal progress. While the specifics of its construction may not be widely documented, its continued presence speaks volumes about the historical importance of railways in fostering economic and social ties.
+In the context of Germany's railway heritage, the Flutbrücke stands out as an example of how infrastructure development has shaped societal progress. While the specifics of its construction may not be widely documented, its continued presence speaks volumes about the historical importance of railways in fostering economic and social ties.
 
 ## Architecture and Features
 

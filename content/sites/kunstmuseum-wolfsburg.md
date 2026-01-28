@@ -32,7 +32,7 @@ Wolfsburg itself is a city deeply intertwined with the history of automotive inn
 
 ## History and Significance
 
-Kunstmuseum Wolfsburg was established with the aim of promoting contemporary art and culture in the region. Although specific founding details are not provided, the museum's mission has always been to serve as a dynamic platform for artistic innovation. It plays a significant role in the cultural life of Wolfsburg, contributing to the city’s identity as a center for modern creativity.
+Kunstmuseum Wolfsburg was established with the aim of promoting contemporary art and culture in the region. Although specific founding details are not provided, the museum's mission has always been to serve as a dynamic platform for artistic innovation. It plays a significant role in the cultural life of Wolfsburg, contributing to the city's identity as a center for modern creativity.
 
 Over the years, the museum has hosted a variety of exhibitions that have highlighted both established and emerging artists. This commitment to showcasing a range of artistic practices has solidified its reputation as a key institution in the contemporary art scene. The museum also emphasizes educational outreach, aiming to engage the community and foster a deeper understanding of modern art through workshops, lectures, and guided tours.
 

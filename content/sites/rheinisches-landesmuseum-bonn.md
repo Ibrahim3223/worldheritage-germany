@@ -76,7 +76,7 @@ The Rheinisches Landesmuseum Bonn is surrounded by several attractions that can 
 
 To enhance your visit to the Rheinisches Landesmuseum Bonn, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography to ensure you capture your experience appropriately. Some exhibitions may have restrictions.
+- **Photography**: Check the museum's policy on photography to ensure you capture your experience appropriately. Some exhibitions may have restrictions.
 
 - **Crowd Avoidance**: If possible, visit during weekdays and earlier in the day to enjoy a quieter experience. This allows for better engagement with the exhibits without the distraction of large crowds.
 

@@ -60,7 +60,7 @@ While visiting Alter Friedhof, consider exploring other nearby attractions that 
 
 1. **St. Laurentius Church**: A historical church near the cemetery, known for its stunning architecture and significance in the local community.
    
-2. **Wiesloch Museum**: This museum offers insights into the town's history, showcasing artifacts and exhibitions that highlight the area’s cultural heritage.
+2. **Wiesloch Museum**: This museum offers insights into the town's history, showcasing artifacts and exhibitions that highlight the area's cultural heritage.
 
 3. **Local Parks**: The surrounding parks provide spaces for relaxation and leisure, perfect for a peaceful stroll after visiting the cemetery.
 
@@ -72,7 +72,7 @@ While visiting Alter Friedhof, consider exploring other nearby attractions that 
 
 For those wishing to capture the essence of Alter Friedhof through photography, consider visiting during early morning or late afternoon when the lighting is softer and the atmosphere is particularly serene. This timing can enhance the beauty of the gravestones and natural surroundings. 
 
-To avoid crowds, try to visit on weekdays, as weekends may attract more visitors. The cemetery's tranquil ambiance is best experienced in solitude, allowing for deeper reflection and appreciation of the site’s significance.
+To avoid crowds, try to visit on weekdays, as weekends may attract more visitors. The cemetery's tranquil ambiance is best experienced in solitude, allowing for deeper reflection and appreciation of the site's significance.
 
 ## Practical Information
 

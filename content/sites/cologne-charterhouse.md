@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Cologne Charterhouse, a historic monastery located in the Altstadt-Süd district of Cologne, Germany, encapsulates centuries of spiritual devotion and architectural evolution. This site is not merely a structure but a symbol of the monastic life that has been a part of Cologne’s heritage. Visitors to this serene sanctuary are invited to explore a space steeped in history, reflecting the values of community, solitude, and spiritual reflection that have characterized monastic life for generations.
+Cologne Charterhouse, a historic monastery located in the Altstadt-Süd district of Cologne, Germany, encapsulates centuries of spiritual devotion and architectural evolution. This site is not merely a structure but a symbol of the monastic life that has been a part of Cologne's heritage. Visitors to this serene sanctuary are invited to explore a space steeped in history, reflecting the values of community, solitude, and spiritual reflection that have characterized monastic life for generations.
 
 Situated in a vibrant urban area, the Charterhouse offers a unique juxtaposition of tranquil monastic grounds against the backdrop of a bustling city. Its significance extends beyond its architectural merits; it serves as a reminder of the enduring legacy of religious communities in shaping cultural and spiritual landscapes throughout history. For those seeking a respite from the city's hustle and bustle, Cologne Charterhouse promises a contemplative experience where one can reflect on the past while engaging with the present.
 
@@ -40,7 +40,7 @@ Throughout its history, the Cologne Charterhouse has been a site of refuge and s
 
 ## Architecture and Features
 
-The architectural design of Cologne Charterhouse is emblematic of the Carthusian order’s principles, emphasizing simplicity and functionality. The monastery features a series of cloistered spaces that promote quiet reflection and prayer. Visitors will find that the layout encourages a sense of tranquility, with gardens and courtyards that invite contemplation and connection with nature.
+The architectural design of Cologne Charterhouse is emblematic of the Carthusian order's principles, emphasizing simplicity and functionality. The monastery features a series of cloistered spaces that promote quiet reflection and prayer. Visitors will find that the layout encourages a sense of tranquility, with gardens and courtyards that invite contemplation and connection with nature.
 
 Notable features of the Charterhouse include the iconic cloister, a covered walkway that serves as a central hub for monastic life. This area is typically characterized by its arched columns and serene atmosphere, providing a peaceful respite for both monks and visitors. The interior spaces reflect a minimalist aesthetic, aligning with the Carthusian focus on austerity and spiritual discipline.
 
@@ -50,7 +50,7 @@ In addition to its architectural elements, the surrounding gardens and outdoor s
 
 For those planning a visit to Cologne Charterhouse, several logistical considerations will enhance the experience. The monastery is accessible via various modes of transportation, making it convenient for both locals and tourists. Public transport options, including buses and trams, are readily available, allowing easy access from different parts of the city.
 
-Visitors should check the official website for current information regarding hours of operation and any potential entrance fees. While specific details may vary, it’s advisable to allocate a few hours for the visit to fully appreciate the peaceful surroundings and explore the historical significance of the site.
+Visitors should check the official website for current information regarding hours of operation and any potential entrance fees. While specific details may vary, it's advisable to allocate a few hours for the visit to fully appreciate the peaceful surroundings and explore the historical significance of the site.
 
 The best times to visit are usually during weekdays when the monastery is less crowded, offering a more intimate experience. Early mornings or late afternoons can also provide a serene atmosphere, ideal for those looking to engage in quiet reflection.
 

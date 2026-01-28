@@ -64,7 +64,7 @@ Zellingen is home to several attractions that complement a visit to the Gemeinde
 
 3. **Cultural Events**: Keep an eye out for local festivals or cultural events that may coincide with your visit, offering additional opportunities for engagement with the community.
 
-4. **Historical Sites**: Explore the rich history of the region by visiting local monuments or churches that reflect the town’s heritage.
+4. **Historical Sites**: Explore the rich history of the region by visiting local monuments or churches that reflect the town's heritage.
 
 5. **Nearby Towns**: Consider visiting neighboring towns that offer their own unique attractions and cultural experiences, enriching your overall journey in the area.
 
@@ -105,7 +105,7 @@ The library is designed to be accessible, but it's advisable to check the offici
 Admission to the library is typically free, but it's always good to confirm current policies on the official website.
 
 ### Are there restrooms and cafes?
-While specific amenities may vary, it is advisable to check the library’s facilities on the official website.
+While specific amenities may vary, it is advisable to check the library's facilities on the official website.
 
 ### What should I wear?
 Dress comfortably for your visit, considering the weather and your activities, especially if you plan to explore the surrounding area afterward.

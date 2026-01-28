@@ -92,10 +92,10 @@ Additionally, be mindful of any specific regulations regarding photography or ot
 A visit to Schwedenhaus can typically take around one to two hours, depending on your level of interest in architecture and history.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any restrictions upon arrival.
+Photography policies can vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
-Guided tours may be available, offering deeper insights into the building’s history and significance. Check the official website for details.
+Guided tours may be available, offering deeper insights into the building's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 The best times to visit are generally during daylight hours, particularly in the morning or late afternoon for optimal lighting.
@@ -104,7 +104,7 @@ The best times to visit are generally during daylight hours, particularly in the
 Accessibility features may be available, but it is advisable to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s recommended to visit the official website for the most current information.
+Ticket purchasing options may vary, so it's recommended to visit the official website for the most current information.
 
 ### Are there restrooms and cafes?
 Visitor amenities such as restrooms and nearby cafes may be available; check the official website for specific details.

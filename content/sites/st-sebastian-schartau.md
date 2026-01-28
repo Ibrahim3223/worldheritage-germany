@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Sebastian (Schartau) is a notable church building located in Burg (bei Magdeburg), in the Saxony-Anhalt region of Germany. This architectural site reflects the historical and cultural tapestry of the area, serving as a focal point for both local worship and community gatherings. While the church’s exact origins are not detailed, its presence in the charming town of Burg speaks to the rich religious heritage that has shaped this part of Germany. Visitors to St. Sebastian can expect to engage not only with the church's architectural beauty but also with the surrounding landscapes that highlight the region's historical significance.
+St. Sebastian (Schartau) is a notable church building located in Burg (bei Magdeburg), in the Saxony-Anhalt region of Germany. This architectural site reflects the historical and cultural tapestry of the area, serving as a focal point for both local worship and community gatherings. While the church's exact origins are not detailed, its presence in the charming town of Burg speaks to the rich religious heritage that has shaped this part of Germany. Visitors to St. Sebastian can expect to engage not only with the church's architectural beauty but also with the surrounding landscapes that highlight the region's historical significance.
 
 The town of Burg, situated near Magdeburg, provides an inviting atmosphere for exploration. As one moves through the area, the blend of history and modernity becomes apparent, with St. Sebastian serving as a portal into the area's past. The church stands as a symbol of the enduring faith and community spirit that has characterized this region throughout the centuries.
 
@@ -64,7 +64,7 @@ Burg offers several nearby attractions for visitors looking to enrich their expe
 
 3. **The Old Market Square**: Located in the heart of Burg, this square is surrounded by charming buildings and offers a glimpse into the town's historical significance.
 
-4. **The Cultural History Museum**: This museum showcases the local heritage of Burg and the surrounding area, providing context to the church’s role in the community.
+4. **The Cultural History Museum**: This museum showcases the local heritage of Burg and the surrounding area, providing context to the church's role in the community.
 
 5. **St. George's Church**: Another significant church in Burg, known for its unique architectural features and historical importance.
 
@@ -76,7 +76,7 @@ If you prefer a quieter experience, consider visiting during weekdays rather tha
 
 ## Practical Information
 
-When visiting St. Sebastian, it’s advisable to bring a camera for photography, as well as comfortable walking shoes for exploring the surrounding area. Depending on the season, dressing in layers may be beneficial, as temperatures can vary throughout the day.
+When visiting St. Sebastian, it's advisable to bring a camera for photography, as well as comfortable walking shoes for exploring the surrounding area. Depending on the season, dressing in layers may be beneficial, as temperatures can vary throughout the day.
 
 Seasonal considerations should also be taken into account, as the church may host special events or services during holidays, which can impact visiting hours. Always check the official website for the most accurate information regarding any seasonal changes or special events.
 
@@ -86,7 +86,7 @@ Seasonal considerations should also be taken into account, as the church may hos
 A visit of about one to two hours is recommended to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s advisable to be respectful of any services or activities taking place.
+Photography is typically permitted, but it's advisable to be respectful of any services or activities taking place.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified. Check the official website for current options.

@@ -34,9 +34,9 @@ Situated in the heart of Düsseldorf, the church is easily accessible and serves
 
 The history of St. Mariä Empfängnis reflects the broader narrative of the Christian faith in Germany. Although specific dates and events pertaining to its establishment are not available, the church stands as a symbol of the enduring presence of Catholicism in the region. Churches like St. Mariä Empfängnis have historically served as community centers, not only for worship but also for social gatherings and cultural events, reinforcing their significance in the local community.
 
-Throughout its existence, St. Mariä Empfängnis has witnessed changes in the socio-political landscape of Germany, particularly during periods of religious reformation and conflict. It has played a role in shaping the spiritual identity of the city’s inhabitants, contributing to the rich cultural fabric of Düsseldorf. The church remains an active site for religious activities, offering services and events that cater to the spiritual needs of its congregation.
+Throughout its existence, St. Mariä Empfängnis has witnessed changes in the socio-political landscape of Germany, particularly during periods of religious reformation and conflict. It has played a role in shaping the spiritual identity of the city's inhabitants, contributing to the rich cultural fabric of Düsseldorf. The church remains an active site for religious activities, offering services and events that cater to the spiritual needs of its congregation.
 
-As a part of the urban heritage of Düsseldorf, St. Mariä Empfängnis is a reminder of the city's historical evolution and the role of religious institutions in fostering community and tradition. Its significance extends beyond its walls, influencing local culture and providing a touchstone for the city’s residents.
+As a part of the urban heritage of Düsseldorf, St. Mariä Empfängnis is a reminder of the city's historical evolution and the role of religious institutions in fostering community and tradition. Its significance extends beyond its walls, influencing local culture and providing a touchstone for the city's residents.
 
 ## Architecture and Features
 
@@ -44,13 +44,13 @@ St. Mariä Empfängnis is characterized by its distinctive architectural style, 
 
 Visitors will find that the church's design includes elements that highlight both functionality and aesthetic appeal, typical of ecclesiastical architecture. Inside, the atmosphere is enhanced by artistic features such as stained glass windows, which not only illuminate the space but also convey biblical narratives and themes of faith. The overall layout of the church encourages both individual reflection and communal worship, making it a welcoming environment for all.
 
-The church's exterior often garners attention from passersby, with its structure harmonizing with the urban landscape of Düsseldorf. The surrounding area adds to the church’s appeal, as it is framed by the city's modern architecture, creating a dialogue between the old and new.
+The church's exterior often garners attention from passersby, with its structure harmonizing with the urban landscape of Düsseldorf. The surrounding area adds to the church's appeal, as it is framed by the city's modern architecture, creating a dialogue between the old and new.
 
 ## Visiting Information
 
 Visiting St. Mariä Empfängnis is an accessible experience for those in the heart of Düsseldorf. The church is conveniently located in Stadtmitte, making it easy to reach via public transport. Multiple tram and bus lines service the area, and for those who prefer to drive, there are parking options nearby. 
 
-When planning your visit, it’s advisable to check the official website for current information regarding opening hours and any associated costs for entry. Visitors typically find that a visit to the church can be completed in about an hour, allowing time for exploration of both the interior and the surrounding area. 
+When planning your visit, it's advisable to check the official website for current information regarding opening hours and any associated costs for entry. Visitors typically find that a visit to the church can be completed in about an hour, allowing time for exploration of both the interior and the surrounding area. 
 
 The best times to visit are often during weekday mornings when the church is quieter, offering a more reflective atmosphere. Additionally, attending a service can provide a unique opportunity to experience the church's community life and spiritual offerings.
 

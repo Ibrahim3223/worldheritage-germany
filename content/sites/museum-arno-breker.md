@@ -76,7 +76,7 @@ To make the most of your visit to Museum Arno Breker, consider the following tip
 
 When preparing for your visit to Museum Arno Breker, consider bringing the following essentials:
 
-- **Comfortable Shoes**: Given that you may be walking and standing for extended periods, it’s advisable to wear comfortable footwear.
+- **Comfortable Shoes**: Given that you may be walking and standing for extended periods, it's advisable to wear comfortable footwear.
 
 - **Water Bottle**: Staying hydrated is important, especially if you plan to spend several hours exploring the museum.
 
@@ -90,7 +90,7 @@ As with all travel plans, be mindful of seasonal considerations. Check the offic
 Typically, visitors spend about two to three hours exploring the museum to fully appreciate the collection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or the official website before taking photos.
+Photography policies may vary, so it's best to check with museum staff or the official website before taking photos.
 
 ### Are there guided tours?
 The museum may offer guided tours, which can enrich your understanding of the exhibits. Check the official website for availability.

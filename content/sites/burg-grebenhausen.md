@@ -66,7 +66,7 @@ To make the most of your visit to Burg Grebenhausen, consider these insider tips
 
 - **Photography**: Capture the beauty of the castle and its surroundings, but be mindful of any restrictions regarding photography in certain areas.
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekdays or early in the morning. This can help you avoid larger groups of tourists and allow for a more personal exploration of the site.
-- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the castle’s history and architecture. Local guides often share fascinating stories that enhance the visit.
+- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the castle's history and architecture. Local guides often share fascinating stories that enhance the visit.
 
 ## Practical Information
 
@@ -82,7 +82,7 @@ When preparing for your visit to Burg Grebenhausen, keep the following practical
 A typical visit to Burg Grebenhausen usually lasts a couple of hours, allowing for exploration and appreciation of the site's features.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing a more in-depth understanding of the castle's history and architecture. Check the official website for details.
@@ -102,4 +102,4 @@ Specific details about facilities are not provided; inquire upon arrival for ava
 ### What should I wear?
 Dress comfortably and wear suitable footwear for exploring the castle. Layering may be wise, depending on the weather.
 
-Burg Grebenhausen presents a unique combination of history, architecture, and cultural significance, making it a compelling stop for travelers seeking to engage with Germany’s medieval heritage. Whether you are drawn by the castle's storied past or the surrounding beauty of the Möttau region, a visit promises to be enriching and memorable.
+Burg Grebenhausen presents a unique combination of history, architecture, and cultural significance, making it a compelling stop for travelers seeking to engage with Germany's medieval heritage. Whether you are drawn by the castle's storied past or the surrounding beauty of the Möttau region, a visit promises to be enriching and memorable.

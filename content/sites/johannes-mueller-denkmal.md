@@ -28,7 +28,7 @@ image_srcset:
 
 The Johannes-Müller-Denkmal stands as a prominent memorial in Koblenz, Germany, honoring the contributions of the esteemed mathematician and astronomer Johannes Müller, also known as Regiomontanus. This monument not only commemorates an influential figure in the history of science but also adds to the rich cultural fabric of Koblenz, a city located at the confluence of the Moselle and Rhine rivers. The memorial serves as a point of interest for both locals and visitors, inviting them to reflect on the legacy of knowledge and exploration that Müller represented. 
 
-Situated in a region known for its historical significance and architectural beauty, the Johannes-Müller-Denkmal is a fitting tribute to a man who played a crucial role in the development of mathematics and astronomy during the Renaissance. As you approach this monument, you may find yourself contemplating the strides made in these fields and the lasting impact of Müller’s work on contemporary science.
+Situated in a region known for its historical significance and architectural beauty, the Johannes-Müller-Denkmal is a fitting tribute to a man who played a crucial role in the development of mathematics and astronomy during the Renaissance. As you approach this monument, you may find yourself contemplating the strides made in these fields and the lasting impact of Müller's work on contemporary science.
 
 ## History and Significance
 
@@ -36,13 +36,13 @@ Johannes Müller, born in the 15th century, was a pioneering figure in mathemati
 
 The memorial is situated in Koblenz, a city that has witnessed the ebb and flow of various cultures and intellectual movements. The monument itself symbolizes the intersection of science and art, reflecting the Renaissance spirit that Müller embodied. His contributions to the field of astronomy, particularly through his work in trigonometry and the reform of astronomical tables, have had a profound influence on navigation and the understanding of celestial phenomena.
 
-While specific dates and details about the establishment of the Johannes-Müller-Denkmal may not be readily available, the memorial is an essential part of Koblenz’s cultural landscape. It stands as a reminder of the city’s dedication to honoring figures who have shaped our understanding of the universe.
+While specific dates and details about the establishment of the Johannes-Müller-Denkmal may not be readily available, the memorial is an essential part of Koblenz's cultural landscape. It stands as a reminder of the city's dedication to honoring figures who have shaped our understanding of the universe.
 
 ## Architecture and Features
 
-The Johannes-Müller-Denkmal features a design that reflects the classical approach to monument construction, characterized by its dignified stature and intricate details. While specific architectural styles and dimensions are not provided, the monument's design typically emphasizes formality and respect, aligning with the memorial’s purpose.
+The Johannes-Müller-Denkmal features a design that reflects the classical approach to monument construction, characterized by its dignified stature and intricate details. While specific architectural styles and dimensions are not provided, the monument's design typically emphasizes formality and respect, aligning with the memorial's purpose.
 
-The monument likely includes symbolic elements that pay homage to Müller’s work, potentially incorporating astronomical motifs or representations of mathematical principles. The craftsmanship involved in its creation would reflect the artistic skills of the time, showcasing the dedication to commemoration and the importance of Müller’s legacy.
+The monument likely includes symbolic elements that pay homage to Müller's work, potentially incorporating astronomical motifs or representations of mathematical principles. The craftsmanship involved in its creation would reflect the artistic skills of the time, showcasing the dedication to commemoration and the importance of Müller's legacy.
 
 Visitors to the site can appreciate the monument not only for its aesthetic qualities but also for the contemplative atmosphere it creates. This space invites reflection on the achievements of historical figures who have contributed significantly to the advancement of knowledge in their respective fields.
 
@@ -52,9 +52,9 @@ Koblenz is accessible via various modes of transport, including trains and buses
 
 When planning a visit, it is recommended to check the official website for current information regarding hours of operation and any potential entry fees. Although the monument is typically open to the public, it may be wise to confirm any specifics ahead of time.
 
-Expect to spend a brief amount of time at the monument, especially if you are interested in taking photographs or reading up on Müller’s contributions. The site is likely to attract a moderate number of visitors, so visiting during off-peak hours, such as early morning or late afternoon, could enhance your experience.
+Expect to spend a brief amount of time at the monument, especially if you are interested in taking photographs or reading up on Müller's contributions. The site is likely to attract a moderate number of visitors, so visiting during off-peak hours, such as early morning or late afternoon, could enhance your experience.
 
-Best times to visit may align with local events or festivals that celebrate the city’s historical figures, providing additional context and engagement during your visit.
+Best times to visit may align with local events or festivals that celebrate the city's historical figures, providing additional context and engagement during your visit.
 
 ## Nearby Attractions
 

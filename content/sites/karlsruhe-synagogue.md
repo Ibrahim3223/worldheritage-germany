@@ -68,7 +68,7 @@ While visiting the Karlsruhe Synagogue, consider exploring some of the nearby at
 
 4. **State Museum of Baden**: This museum showcases the art and cultural history of the Baden region, with collections ranging from antiquities to contemporary works.
 
-5. **St. Stephen's Church**: An architectural highlight in Karlsruhe, this church features stunning stained glass and serves as another point of interest for those exploring the city’s religious heritage.
+5. **St. Stephen's Church**: An architectural highlight in Karlsruhe, this church features stunning stained glass and serves as another point of interest for those exploring the city's religious heritage.
 
 ## Insider Tips
 

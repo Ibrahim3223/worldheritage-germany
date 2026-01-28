@@ -48,7 +48,7 @@ Inside, the castle may feature various rooms that reflect the lifestyle of the n
 
 ## Visiting Information
 
-Karlsburg Castle is conveniently located and accessible by various forms of transportation. Whether you are arriving by car, public transport, or on foot, the castle’s location in Karlsruhe makes it a practical stop for heritage travelers. Visitors should check the official website for current information on hours of operation and ticket prices to plan their visit effectively.
+Karlsburg Castle is conveniently located and accessible by various forms of transportation. Whether you are arriving by car, public transport, or on foot, the castle's location in Karlsruhe makes it a practical stop for heritage travelers. Visitors should check the official website for current information on hours of operation and ticket prices to plan their visit effectively.
 
 Expect to spend a few hours exploring the castle and its grounds. A leisurely stroll through the gardens, combined with a tour of the castle's interior, allows for a thorough appreciation of the site. The best times to visit are during the spring and summer months when the gardens are in full bloom, and outdoor activities are more enjoyable.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Ehrenhof, a distinguished architectural ensemble located in Düsseldorf, Germany, captures the imagination with its harmonious blend of building and garden designs. Situated at the coordinates 51.2344, 6.77258, this site stands as a testament to the region's cultural and architectural heritage. With its elegant structures and thoughtfully designed gardens, Ehrenhof provides a tranquil escape from the bustling city, inviting visitors to explore its serene landscapes and appreciate its artistic merit. This site is not only a visual delight but also an important cultural landmark, making it a must-visit for anyone exploring Düsseldorf.
 
-Düsseldorf itself is a vibrant city known for its fashion industry and arts scene, but Ehrenhof offers a quieter reflection of the city’s historical narrative. As you stroll through the grounds, you will find yourself immersed in a space that balances nature and architecture, embodying a sense of peace and inspiration. This guide will delve into the history, architectural features, and visitor information to ensure a fulfilling experience at Ehrenhof.
+Düsseldorf itself is a vibrant city known for its fashion industry and arts scene, but Ehrenhof offers a quieter reflection of the city's historical narrative. As you stroll through the grounds, you will find yourself immersed in a space that balances nature and architecture, embodying a sense of peace and inspiration. This guide will delve into the history, architectural features, and visitor information to ensure a fulfilling experience at Ehrenhof.
 
 ## History and Significance
 

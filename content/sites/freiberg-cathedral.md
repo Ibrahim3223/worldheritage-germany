@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Freiberg Cathedral, known as the Freiberg Dom, is a striking example of Gothic architecture located in the heart of Freiberg, Germany. This cathedral, with its intricate design and historical significance, serves as both a spiritual center and a cultural landmark. As you approach the cathedral, the towering structure commands attention, its spires reaching towards the sky, inviting visitors to explore its rich heritage. The cathedral’s history intertwines with the city’s own narrative, reflecting the evolution of Freiberg from a bustling mining town to a center of education and culture.
+Freiberg Cathedral, known as the Freiberg Dom, is a striking example of Gothic architecture located in the heart of Freiberg, Germany. This cathedral, with its intricate design and historical significance, serves as both a spiritual center and a cultural landmark. As you approach the cathedral, the towering structure commands attention, its spires reaching towards the sky, inviting visitors to explore its rich heritage. The cathedral's history intertwines with the city's own narrative, reflecting the evolution of Freiberg from a bustling mining town to a center of education and culture.
 
 The significance of Freiberg Cathedral extends beyond its architectural beauty; it has been a focal point for religious and community gatherings for centuries. The cathedral stands as a testament to the craftsmanship of its builders and the devotion of its congregants. It is an essential stop for those interested in exploring the historical and cultural fabric of this region in Saxony.
 
@@ -34,9 +34,9 @@ Visitors to Freiberg Cathedral can expect a profound experience, one that resona
 
 ## History and Significance
 
-Freiberg Cathedral's history is deeply intertwined with the development of the city itself. While specific dates may escape documentation, the cathedral has undergone various phases of construction and renovation that speak volumes about the changing times and the aspirations of its builders. Originally intended as a church for the burgeoning mining community, it quickly evolved into a central place of worship for the city’s inhabitants.
+Freiberg Cathedral's history is deeply intertwined with the development of the city itself. While specific dates may escape documentation, the cathedral has undergone various phases of construction and renovation that speak volumes about the changing times and the aspirations of its builders. Originally intended as a church for the burgeoning mining community, it quickly evolved into a central place of worship for the city's inhabitants.
 
-The cathedral has witnessed significant historical events throughout the ages, serving not only as a religious site but also as a venue for civic ceremonies. Its prominence grew alongside Freiberg’s economic prosperity, particularly during the height of silver mining in the region. This economic boom allowed for the expansion of the cathedral, enhancing its stature within the community.
+The cathedral has witnessed significant historical events throughout the ages, serving not only as a religious site but also as a venue for civic ceremonies. Its prominence grew alongside Freiberg's economic prosperity, particularly during the height of silver mining in the region. This economic boom allowed for the expansion of the cathedral, enhancing its stature within the community.
 
 Freiberg Cathedral is also linked to important figures in religious history, having been associated with various bishops who played roles in shaping the theological landscape of the area. The building has been a site for major ecclesiastical meetings and decisions, influencing the religious direction of the region.
 
@@ -68,7 +68,7 @@ Freiberg offers additional attractions that complement a visit to the cathedral.
 
 1. **Freiberg Mining Museum**: This museum provides a fascinating insight into the history of mining in the region and its economic impact on Freiberg.
    
-2. **Schloss Freudenstein**: A historical castle that houses more exhibits related to the city’s mining heritage, making it an interesting follow-up to your cathedral visit.
+2. **Schloss Freudenstein**: A historical castle that houses more exhibits related to the city's mining heritage, making it an interesting follow-up to your cathedral visit.
 
 3. **Stadtkirche St. Afra**: Another remarkable church in Freiberg, noted for its beautiful architecture and historical significance.
 
@@ -88,7 +88,7 @@ To make the most of your visit to Freiberg Cathedral, consider the following tip
 
 When planning your visit to Freiberg Cathedral, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as the cathedral and surrounding areas may involve some walking. It’s also a good idea to bring a camera or smartphone for capturing memories, while respecting any photography restrictions.
+- **What to Bring**: Comfortable walking shoes are recommended, as the cathedral and surrounding areas may involve some walking. It's also a good idea to bring a camera or smartphone for capturing memories, while respecting any photography restrictions.
 
 - **Seasonal Considerations**: The cathedral is open year-round, but check the official website for any seasonal events or changes in opening hours. Visiting during spring or fall can provide a more pleasant climate for exploring the surrounding city.
 

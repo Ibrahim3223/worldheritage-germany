@@ -80,7 +80,7 @@ If you are interested in attending a concert or cultural event, check the schedu
 
 ## Practical Information
 
-When visiting St. Matthäuskirche, it’s advisable to bring a few essentials, such as a camera for photography and a water bottle for hydration. Respecting the sacred nature of the space is important, so consider dressing modestly.
+When visiting St. Matthäuskirche, it's advisable to bring a few essentials, such as a camera for photography and a water bottle for hydration. Respecting the sacred nature of the space is important, so consider dressing modestly.
 
 Seasonal considerations can affect your experience; spring and summer often bring more visitors due to favorable weather, while fall and winter may provide a quieter atmosphere. 
 
@@ -92,7 +92,7 @@ Remember to check the official website for any updates regarding events or chang
 A visit to St. Matthäuskirche typically takes about an hour, but feel free to stay longer if you wish to reflect or enjoy a concert.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s important to be respectful of the worshippers and the sacred space.
+Photography is generally permitted inside the church, but it's important to be respectful of the worshippers and the sacred space.
 
 ### Are there guided tours?
 While specific tours may not be regularly scheduled, check the official website for any special events or guided opportunities.
@@ -101,7 +101,7 @@ While specific tours may not be regularly scheduled, check the official website 
 Weekdays tend to be quieter, making them ideal for a peaceful visit. Special events or concerts can also enhance the experience.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available, but it’s best to check in advance with the church to ensure a comfortable visit.
+Accessibility options may be available, but it's best to check in advance with the church to ensure a comfortable visit.
 
 ### Can I buy tickets online?
 For current ticketing information, check the official website prior to your visit.

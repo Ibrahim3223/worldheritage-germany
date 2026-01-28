@@ -50,7 +50,7 @@ Visitors to Burg Dreieichenhain may also appreciate the scenic surroundings that
 
 ## Visiting Information
 
-Burg Dreieichenhain is accessible to visitors looking to explore its historic grounds. While specific transport details are not provided, the castle’s location in Dreieich suggests that it is reachable via local transport options, including buses and trains. Those traveling by car will likely find parking facilities nearby.
+Burg Dreieichenhain is accessible to visitors looking to explore its historic grounds. While specific transport details are not provided, the castle's location in Dreieich suggests that it is reachable via local transport options, including buses and trains. Those traveling by car will likely find parking facilities nearby.
 
 To ensure an enriching experience, it is advisable to check the official website for current information regarding hours of operation and ticket prices. This will help in planning a visit that aligns with available guided tours or special events that may enhance the experience.
 
@@ -108,4 +108,4 @@ Details about facilities such as restrooms and cafes are not provided; it is rec
 ### What should I wear?
 Comfortable clothing and shoes are recommended for exploring the castle and its grounds.
 
-Burg Dreieichenhain is a captivating destination that offers a blend of history, architecture, and cultural significance, making it a worthwhile addition to any travel itinerary focused on Germany’s heritage.
+Burg Dreieichenhain is a captivating destination that offers a blend of history, architecture, and cultural significance, making it a worthwhile addition to any travel itinerary focused on Germany's heritage.

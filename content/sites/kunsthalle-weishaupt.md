@@ -28,7 +28,7 @@ image_srcset:
 
 Kunsthalle Weishaupt, situated in the city of Ulm, Germany, is a distinguished art museum renowned for its contemporary art exhibits and engaging cultural programs. With its strategic location in a region rich with artistic heritage, the museum stands as a significant institution for art lovers and cultural enthusiasts alike. Its mission is to promote contemporary art and foster dialogue between artists and audiences, making it a vital part of the local and international art scene.
 
-The museum features a diverse array of exhibitions that often include works from both established and emerging artists, reflecting a commitment to innovation and creativity. Visitors can expect a thought-provoking experience as they explore various artistic expressions that challenge perceptions and inspire discussions. Kunsthalle Weishaupt’s contemporary focus and dedication to artistic exploration make it a must-visit destination for anyone interested in the modern art landscape.
+The museum features a diverse array of exhibitions that often include works from both established and emerging artists, reflecting a commitment to innovation and creativity. Visitors can expect a thought-provoking experience as they explore various artistic expressions that challenge perceptions and inspire discussions. Kunsthalle Weishaupt's contemporary focus and dedication to artistic exploration make it a must-visit destination for anyone interested in the modern art landscape.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ In addition to its exhibition areas, the museum may include spaces for education
 
 ## Visiting Information
 
-Reaching Kunsthalle Weishaupt is straightforward, with various transport options available to visitors. Public transportation services in Ulm typically offer convenient access to the museum, making it easy to include in your itinerary. As with any travel plans, it’s advisable to check the official website for current information regarding hours and ticket prices before your visit.
+Reaching Kunsthalle Weishaupt is straightforward, with various transport options available to visitors. Public transportation services in Ulm typically offer convenient access to the museum, making it easy to include in your itinerary. As with any travel plans, it's advisable to check the official website for current information regarding hours and ticket prices before your visit.
 
 When planning your visit, consider the amount of time you wish to spend exploring the exhibits. A visit typically lasts around two hours, allowing ample time to appreciate the artworks and engage with the museum's offerings. For an enhanced experience, consider visiting during special exhibitions or events, which often provide unique insights into the art on display.
 
@@ -78,7 +78,7 @@ For those planning a trip to Kunsthalle Weishaupt, here are some insider tips to
 
 ## Practical Information
 
-When visiting Kunsthalle Weishaupt, it’s wise to consider what to bring. Comfortable shoes are essential, as you may be walking and standing for extended periods while exploring the exhibits. Additionally, bringing a water bottle can help you stay hydrated.
+When visiting Kunsthalle Weishaupt, it's wise to consider what to bring. Comfortable shoes are essential, as you may be walking and standing for extended periods while exploring the exhibits. Additionally, bringing a water bottle can help you stay hydrated.
 
 Seasonal considerations may also play a role in your visit. The museum is an indoor venue, making it an excellent destination year-round. However, be aware of local events or school holidays that may affect visitor numbers.
 

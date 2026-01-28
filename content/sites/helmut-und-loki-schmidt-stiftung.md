@@ -89,7 +89,7 @@ Guided tours are often available; check the official website for details on sche
 Weekdays or early mornings tend to be less crowded, making for a more enjoyable experience. Special exhibitions or events can also enhance your visit.
 
 ### Is it wheelchair accessible?
-The foundation is designed to be accessible; however, it’s advisable to check ahead for specific accommodations.
+The foundation is designed to be accessible; however, it's advisable to check ahead for specific accommodations.
 
 ### Can I buy tickets online?
 Ticketing options may vary; check the official website for information on purchasing tickets in advance.

@@ -103,13 +103,13 @@ Information regarding guided tours is not specified. Check the official website 
 Spring and summer are ideal for visiting Aschwardener Mühle, as the weather is more favorable for outdoor activities.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided. It’s best to check the official website for information on wheelchair access.
+Accessibility details are not provided. It's best to check the official website for information on wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options are not mentioned. For the latest information, visit the official website prior to your visit.
 
 ### Are there restrooms and cafes?
-Specific information about restrooms and cafes is not available. It’s advisable to check local amenities when planning your visit.
+Specific information about restrooms and cafes is not available. It's advisable to check local amenities when planning your visit.
 
 ### What should I wear?
 Dress comfortably according to the weather, and consider wearing layers, especially during transitional seasons. Comfortable footwear is recommended due to potential walking. 

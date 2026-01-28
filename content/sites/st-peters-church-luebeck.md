@@ -32,7 +32,7 @@ As you approach St. Peter's Church, the atmosphere is infused with a sense of re
 
 ## History and Significance
 
-The history of St. Peter’s Church is intertwined with that of Lübeck itself. This church serves as a significant marker of the city's evolution, having been a prominent site of Christian worship since its establishment. It is known for its role in the spiritual life of Lübeck, where generations have gathered for services, celebrations, and community events.
+The history of St. Peter's Church is intertwined with that of Lübeck itself. This church serves as a significant marker of the city's evolution, having been a prominent site of Christian worship since its establishment. It is known for its role in the spiritual life of Lübeck, where generations have gathered for services, celebrations, and community events.
 
 Throughout the years, St. Peter's Church has witnessed the ebb and flow of Lübeck's fortunes. As an important member of the Hanseatic League, Lübeck flourished in trade and commerce, and the church stood as a spiritual anchor for its citizens. The church's design reflects the architectural trends of its time, showcasing the importance placed on both functionality and artistry in religious structures. 
 
@@ -40,11 +40,11 @@ Over the centuries, St. Peter's Church has undergone various renovations and res
 
 ## Architecture and Features
 
-St. Peter's Church is characterized by its striking Gothic architecture, which features pointed arches, ribbed vaults, and intricate stonework. The exterior is adorned with ornate details that capture the eye and reflect the artistry of the period. The towering spires are particularly noteworthy, reaching skyward and contributing to the church’s grandeur.
+St. Peter's Church is characterized by its striking Gothic architecture, which features pointed arches, ribbed vaults, and intricate stonework. The exterior is adorned with ornate details that capture the eye and reflect the artistry of the period. The towering spires are particularly noteworthy, reaching skyward and contributing to the church's grandeur.
 
 Inside, the church presents a serene atmosphere, with expansive naves and beautifully crafted altars. Visitors can admire the stained glass windows, which allow natural light to filter through, casting colorful reflections on the stone floors. The interior design emphasizes space and light, creating a peaceful sanctuary for worshippers and visitors alike.
 
-Among the notable features is the church's impressive organ, a centerpiece that highlights the musical heritage associated with St. Peter’s. The craftsmanship of the organ is a testament to the dedication to music in the church's liturgical practices. 
+Among the notable features is the church's impressive organ, a centerpiece that highlights the musical heritage associated with St. Peter's. The craftsmanship of the organ is a testament to the dedication to music in the church's liturgical practices. 
 
 The overall design of St. Peter's Church not only serves its function as a place of worship but also stands as a celebration of the architectural advancements of its time, inviting admiration from architectural enthusiasts and casual visitors alike.
 
@@ -70,7 +70,7 @@ While visiting St. Peter's Church, take advantage of the opportunity to explore 
 
 4. **The Market Square (Marktplatz)**: Located nearby, this vibrant square is surrounded by historic buildings, cafes, and shops, making it a perfect place to relax and enjoy the local atmosphere.
 
-5. **St. Mary's Church**: Another remarkable church within walking distance, known for its impressive interior and significant role in Lübeck’s religious history.
+5. **St. Mary's Church**: Another remarkable church within walking distance, known for its impressive interior and significant role in Lübeck's religious history.
 
 ## Insider Tips
 
@@ -112,4 +112,4 @@ While restrooms may be available, check the official website for specific facili
 ### What should I wear?
 Dress modestly, as St. Peter's Church is a place of worship. Comfortable clothing is recommended for an enjoyable visit. 
 
-By keeping these insights in mind, you can ensure a meaningful visit to St. Peter's Church, immersing yourself in the rich history and architectural beauty of Lübeck’s Old City.
+By keeping these insights in mind, you can ensure a meaningful visit to St. Peter's Church, immersing yourself in the rich history and architectural beauty of Lübeck's Old City.

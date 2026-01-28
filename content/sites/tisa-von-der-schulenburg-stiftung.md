@@ -58,13 +58,13 @@ The best times to visit may depend on specific events or seasonal programs. Gene
 
 While visiting the Tisa von der Schulenburg-Stiftung, take the opportunity to explore nearby cultural and historical sites. Some noteworthy attractions in the vicinity include:
 
-1. **Local Museums**: Many local museums offer insights into the region's history, art, and culture, complementing the foundation’s mission.
+1. **Local Museums**: Many local museums offer insights into the region's history, art, and culture, complementing the foundation's mission.
 
 2. **Art Galleries**: Exploring nearby art galleries may provide additional context to the cultural landscape, featuring local artists and ongoing exhibitions.
 
 3. **Community Parks**: Parks in the area may offer a serene environment for relaxation and reflection, perfect for unwinding after your visit.
 
-4. **Historical Landmarks**: Several historical landmarks can enrich your understanding of the area’s heritage and architectural styles.
+4. **Historical Landmarks**: Several historical landmarks can enrich your understanding of the area's heritage and architectural styles.
 
 5. **Cafés and Boutiques**: Local cafés and shops nearby may offer a taste of the local cuisine and crafts, enhancing your overall experience of the area.
 
@@ -72,13 +72,13 @@ While visiting the Tisa von der Schulenburg-Stiftung, take the opportunity to ex
 
 To make the most of your visit to the Tisa von der Schulenburg-Stiftung, consider the following tips:
 
-- **Photography**: Check if photography is allowed inside the foundation, as some spaces may have restrictions. Capturing the essence of the foundation’s architecture or exhibitions can enhance your memories.
+- **Photography**: Check if photography is allowed inside the foundation, as some spaces may have restrictions. Capturing the essence of the foundation's architecture or exhibitions can enhance your memories.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider visiting during weekdays or outside of peak visiting hours. This can provide a more relaxed atmosphere to appreciate the foundation's offerings.
 
 ## Practical Information
 
-When preparing for your visit to the Tisa von der Schulenburg-Stiftung, it’s advisable to consider the following practicalities:
+When preparing for your visit to the Tisa von der Schulenburg-Stiftung, it's advisable to consider the following practicalities:
 
 - **What to Bring**: A notebook or sketchbook can be helpful for jotting down ideas inspired by your visit. If you plan to take photographs, ensure your camera or smartphone is charged.
 

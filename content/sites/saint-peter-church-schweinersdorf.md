@@ -44,7 +44,7 @@ Saint Peter Church is characterized by its traditional church architecture, typi
 
 Inside, the church likely showcases elements such as stained glass windows, an altar, and religious iconography that enhance the worship experience. These features often tell stories of biblical narratives and local saints, connecting the congregation to their faith and heritage. The design of the interior may also encourage contemplation and prayer, making it a peaceful retreat from the bustle of daily life.
 
-While visiting, take the time to appreciate the craftsmanship that went into the church’s construction, as well as the historical context that informs its design. The architectural style reflects the period in which it was built and provides insight into the community’s values and priorities at that time.
+While visiting, take the time to appreciate the craftsmanship that went into the church's construction, as well as the historical context that informs its design. The architectural style reflects the period in which it was built and provides insight into the community's values and priorities at that time.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ These nearby attractions offer additional opportunities to immerse yourself in t
 
 ## Insider Tips
 
-When visiting Saint Peter Church, consider bringing a camera to capture the beauty of the church’s architecture. However, be respectful of the sacred space and its visitors while taking photographs. To avoid crowds, plan your visit during weekdays or early mornings, as weekends may see more local attendees, especially during religious services.
+When visiting Saint Peter Church, consider bringing a camera to capture the beauty of the church's architecture. However, be respectful of the sacred space and its visitors while taking photographs. To avoid crowds, plan your visit during weekdays or early mornings, as weekends may see more local attendees, especially during religious services.
 
 ## Practical Information
 

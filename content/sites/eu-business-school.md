@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-EU Business School, a distinguished private European business school, is situated in the picturesque town of Montreux, Switzerland. Renowned for its innovative approach to business education, this institution attracts students from around the globe, offering a unique blend of practical and theoretical knowledge essential for navigating the complexities of the modern business landscape. The school’s strategic location in Montreux, a hub of culture and commerce, enhances its appeal, providing students not only with a robust education but also with a vibrant community rich in cultural experiences.
+EU Business School, a distinguished private European business school, is situated in the picturesque town of Montreux, Switzerland. Renowned for its innovative approach to business education, this institution attracts students from around the globe, offering a unique blend of practical and theoretical knowledge essential for navigating the complexities of the modern business landscape. The school's strategic location in Montreux, a hub of culture and commerce, enhances its appeal, providing students not only with a robust education but also with a vibrant community rich in cultural experiences.
 
 The significance of EU Business School extends beyond its academic offerings. It represents a convergence of diverse cultures, ideas, and perspectives, fostering an environment where future leaders can thrive. With a commitment to excellence in business education, the school prepares its graduates to excel in various sectors, making it a key player in the global education landscape. For those considering a transformative educational experience, EU Business School promises an engaging and dynamic environment conducive to personal and professional growth.
 
@@ -88,10 +88,10 @@ When preparing for your visit to EU Business School, consider bringing the follo
 A few hours are typically sufficient to explore the campus and engage with staff or faculty members. However, if you plan to visit nearby attractions, consider dedicating a full day.
 
 ### Is photography allowed?
-Photography is generally permitted in public areas of the campus, but it’s advisable to check for restrictions in specific locations.
+Photography is generally permitted in public areas of the campus, but it's advisable to check for restrictions in specific locations.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are available, as they can provide valuable insights into the school’s offerings.
+Check the official website for information on whether guided tours are available, as they can provide valuable insights into the school's offerings.
 
 ### What's the best time to visit?
 Weekdays during the school year provide the best opportunity to experience the campus's vibrant atmosphere.
@@ -103,7 +103,7 @@ For information on accessibility options, please check the official website.
 Check the official website for details on any events or tours that may require advance tickets.
 
 ### Are there restrooms and cafes?
-Facilities typically include restrooms and possibly on-campus cafes, but it’s advisable to confirm details on the official website.
+Facilities typically include restrooms and possibly on-campus cafes, but it's advisable to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for a campus environment, keeping in mind any specific events you may be attending.

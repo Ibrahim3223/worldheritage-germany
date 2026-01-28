@@ -34,7 +34,7 @@ The monastery's historical roots and architectural integrity offer insights into
 
 The history of Obermünster is deeply intertwined with the development of Christianity in the region. While specific dates and events are not detailed, it is well understood that monasteries like Obermünster were vital to the spread of Christian teachings and the establishment of religious communities throughout Europe. In the medieval period, monasteries were centers of learning, agriculture, and culture, influencing the social landscape of their surroundings.
 
-As one of the prominent religious institutions in Regensburg, Obermünster has witnessed various historical developments, including the fluctuations of political power and shifts in cultural norms. The monastery’s role extended beyond spiritual guidance; it was also a place where art and scholarship flourished, attracting scholars and artists who contributed to the intellectual wealth of the region. Over the centuries, the building has likely undergone renovations and restorations that reflect changing architectural styles and religious practices, although specific details about these changes are not available.
+As one of the prominent religious institutions in Regensburg, Obermünster has witnessed various historical developments, including the fluctuations of political power and shifts in cultural norms. The monastery's role extended beyond spiritual guidance; it was also a place where art and scholarship flourished, attracting scholars and artists who contributed to the intellectual wealth of the region. Over the centuries, the building has likely undergone renovations and restorations that reflect changing architectural styles and religious practices, although specific details about these changes are not available.
 
 The significance of Obermünster goes beyond its physical structure; it embodies the historical narrative of monastic life in Regensburg and its contribution to the broader cultural and religious heritage of Germany. As such, exploring this monastery offers a glimpse into the enduring legacy of ecclesiastical institutions and their impact on societal development.
 
@@ -44,7 +44,7 @@ Obermünster presents a striking architectural profile that reflects the monasti
 
 Notable features likely include the altar area, where worshippers gather for services, as well as chapels dedicated to various saints. The layout of the monastery probably follows traditional patterns, with designated spaces for prayer, reflection, and community gatherings. The overall design would have been intended to foster a sense of tranquility and reverence, enhancing the spiritual experience for visitors and worshippers alike.
 
-In addition to its architectural merits, Obermünster may house various artifacts and artworks that contribute to its historical narrative. Items of religious significance, such as liturgical vessels, vestments, or manuscripts, could provide further context to its role within the community. These aspects, while not specifically detailed, underscore the monastery’s cultural and spiritual importance.
+In addition to its architectural merits, Obermünster may house various artifacts and artworks that contribute to its historical narrative. Items of religious significance, such as liturgical vessels, vestments, or manuscripts, could provide further context to its role within the community. These aspects, while not specifically detailed, underscore the monastery's cultural and spiritual importance.
 
 ## Visiting Information
 
@@ -88,7 +88,7 @@ As you prepare for your visit to Obermünster, consider the following practical 
 A visit to Obermünster typically takes a few hours, allowing sufficient time for exploration and contemplation.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon arrival.
+Photography policies may vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details.

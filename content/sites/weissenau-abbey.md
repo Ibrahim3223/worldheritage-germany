@@ -28,11 +28,11 @@ image_srcset:
 
 Weissenau Abbey, a former monastery located near Ravensburg in Germany, carries a profound legacy that intertwines spirituality and community health. Originally established as a center for monastic life, Weissenau Abbey now serves a crucial role as a hospital, showcasing its adaptability and ongoing relevance in contemporary society. The abbey's historical significance and architectural features make it an intriguing destination for those interested in heritage, culture, and the evolution of religious institutions. 
 
-Set against the serene backdrop of the Ravensburg region, Weissenau Abbey invites visitors to explore its profound past while considering its current role in the healthcare landscape. The abbey’s rich history reflects the broader narrative of monastic life in Germany, inviting exploration into its cultural contributions that extend well beyond its original religious functions.
+Set against the serene backdrop of the Ravensburg region, Weissenau Abbey invites visitors to explore its profound past while considering its current role in the healthcare landscape. The abbey's rich history reflects the broader narrative of monastic life in Germany, inviting exploration into its cultural contributions that extend well beyond its original religious functions.
 
 ## History and Significance
 
-Weissenau Abbey’s history is deeply rooted in the tradition of monasticism, which played a pivotal role in shaping the social and cultural landscape of Germany. Monasteries like Weissenau were not only centers of spiritual life but also hubs of education, agriculture, and healthcare. The abbey's establishment marked a significant moment in the region's development, as it contributed to the cultivation of knowledge and the preservation of religious texts during times when such endeavors were crucial for community cohesion.
+Weissenau Abbey's history is deeply rooted in the tradition of monasticism, which played a pivotal role in shaping the social and cultural landscape of Germany. Monasteries like Weissenau were not only centers of spiritual life but also hubs of education, agriculture, and healthcare. The abbey's establishment marked a significant moment in the region's development, as it contributed to the cultivation of knowledge and the preservation of religious texts during times when such endeavors were crucial for community cohesion.
 
 Throughout its history, Weissenau Abbey has witnessed various transformations. Initially, it served as a site for religious devotion, where monks dedicated their lives to prayer and community service. Over the centuries, the abbey adapted to the changing needs of society, ultimately transitioning from a monastic institution to a healthcare facility. This transformation highlights the abbey's ability to evolve while maintaining its foundational values of service and care for the community.
 
@@ -50,7 +50,7 @@ While specific architectural details may not be extensively documented, the over
 
 When planning a visit to Weissenau Abbey, it is essential to consider transport options to ensure a smooth journey. The abbey is accessible by various means of transportation, including car and public transit. For those driving, ample parking may be available nearby, but checking the official website for the latest details is advisable.
 
-As Weissenau Abbey now functions as a hospital, visitors should be aware that access to certain areas may be restricted. It’s recommended to check the official website for current information regarding operational hours and any potential entry fees. 
+As Weissenau Abbey now functions as a hospital, visitors should be aware that access to certain areas may be restricted. It's recommended to check the official website for current information regarding operational hours and any potential entry fees. 
 
 Upon arrival, guests can expect a serene atmosphere that invites exploration and reflection. The time needed for a visit can vary, but planning for at least an hour allows for a thorough appreciation of the abbey's historical and architectural significance. The best times to visit are typically during weekdays, when there may be fewer visitors, allowing for a more personal experience.
 

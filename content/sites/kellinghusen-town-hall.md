@@ -80,7 +80,7 @@ To avoid crowds, consider visiting during weekdays when the town hall is less bu
 
 ## Practical Information
 
-Before your visit to Kellinghusen Town Hall, it’s advisable to bring along essentials such as water, a hat, or sunscreen, especially during warmer months. Comfortable walking shoes are recommended, as you may wish to explore the surrounding areas.
+Before your visit to Kellinghusen Town Hall, it's advisable to bring along essentials such as water, a hat, or sunscreen, especially during warmer months. Comfortable walking shoes are recommended, as you may wish to explore the surrounding areas.
 
 Seasonal considerations may affect your visit, particularly in winter when weather conditions could alter accessibility. Be sure to check the official website for any updates regarding seasonal hours or special events that might influence your experience.
 
@@ -90,7 +90,7 @@ Seasonal considerations may affect your visit, particularly in winter when weath
 A visit to Kellinghusen Town Hall typically takes about 30 minutes to an hour, allowing time to explore the building and engage with the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted in public spaces, but it’s best to check for any specific guidelines upon your arrival.
+Photography is generally permitted in public spaces, but it's best to check for any specific guidelines upon your arrival.
 
 ### Are there guided tours?
 Information on guided tours may not be readily available, so it's a good idea to inquire at the town hall for any scheduled tours.
@@ -102,7 +102,7 @@ Weekdays may offer a quieter experience, while weekends could provide opportunit
 Accessibility features may vary; check the official website for detailed information regarding access for individuals with mobility challenges.
 
 ### Can I buy tickets online?
-Ticketing options may not be specified; it’s advisable to check the official website for information on potential online purchases.
+Ticketing options may not be specified; it's advisable to check the official website for information on potential online purchases.
 
 ### Are there restrooms and cafes?
 Facilities may be available nearby; inquire locally for the best options for refreshments and restrooms.

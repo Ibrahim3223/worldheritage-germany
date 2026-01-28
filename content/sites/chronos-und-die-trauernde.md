@@ -50,7 +50,7 @@ Surrounding the statue, the ambiance of the area complements its themes, with na
 
 ## Visiting Information
 
-Visiting Chronos und die Trauernde is a meaningful experience for those exploring Radebeul. The statue is accessible to the public, allowing visitors to engage with the artwork at their own pace. To ensure a fulfilling visit, it’s advisable to check the official website for current information, including hours of operation and any potential admission fees.
+Visiting Chronos und die Trauernde is a meaningful experience for those exploring Radebeul. The statue is accessible to the public, allowing visitors to engage with the artwork at their own pace. To ensure a fulfilling visit, it's advisable to check the official website for current information, including hours of operation and any potential admission fees.
 
 Transportation options to Radebeul are varied, with local public transport providing convenient access for both tourists and residents. Once in the vicinity, the statue is located in a setting that encourages contemplation and reflection, making it a perfect spot for a quiet moment away from the bustle of daily life.
 
@@ -99,13 +99,13 @@ Currently, there are no specific guided tours for the statue, but local tourism 
 Weekdays or early mornings are ideal for a quieter experience. Seasonal variations can also enhance your visit.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s advisable to check the official website for current information on access options.
+Accessibility details are not specified, so it's advisable to check the official website for current information on access options.
 
 ### Can I buy tickets online?
 Check the official website for any ticketing information, including options for advance purchase.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check local resources for nearby amenities.
+Facilities may vary, so it's best to check local resources for nearby amenities.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to explore the surrounding area.

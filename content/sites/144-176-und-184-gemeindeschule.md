@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The 144., 176. und 184. Gemeindeschule, an architectural ensemble located in the vibrant city of Berlin, stands as a noteworthy example of educational architecture. This complex not only serves as a functional space for learning but also reflects the historical and cultural evolution of educational institutions in Germany. With its strategic location and rich architectural details, it represents a significant chapter in Berlin’s urban development. Visitors will find that the site offers both a glimpse into the past and a functioning element of contemporary educational life.
+The 144., 176. und 184. Gemeindeschule, an architectural ensemble located in the vibrant city of Berlin, stands as a noteworthy example of educational architecture. This complex not only serves as a functional space for learning but also reflects the historical and cultural evolution of educational institutions in Germany. With its strategic location and rich architectural details, it represents a significant chapter in Berlin's urban development. Visitors will find that the site offers both a glimpse into the past and a functioning element of contemporary educational life.
 
 Situated within a dynamic urban landscape, this ensemble underscores the importance of architecture in shaping educational environments. As education continues to evolve, the design of schools remains integral, influencing teaching methods and student experiences. The 144., 176. und 184. Gemeindeschule invites exploration, encouraging visitors to appreciate its historical significance and architectural merit.
 

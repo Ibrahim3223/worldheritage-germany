@@ -44,7 +44,7 @@ The simplicity and elegance of such memorial sites often serve to enhance their 
 
 Reaching Leitenhausen is made convenient by its location within Gompertshausen. Visitors can expect a welcoming environment that is suitable for individuals and families alike. While specific transport options may vary, it is advisable to check local resources for the best routes and means of access. 
 
-For those planning a visit, it’s important to check the official website for current information regarding hours of operation and any potential admission fees. The site is likely to accommodate various visitor needs, ensuring a comfortable experience for everyone. 
+For those planning a visit, it's important to check the official website for current information regarding hours of operation and any potential admission fees. The site is likely to accommodate various visitor needs, ensuring a comfortable experience for everyone. 
 
 As for the duration of your visit, a couple of hours should provide ample time to explore the memorial and appreciate its significance. Engaging with the site during quieter times may enhance the experience, allowing for uninterrupted reflection. 
 
@@ -62,13 +62,13 @@ After visiting Leitenhausen, consider exploring these nearby attractions:
 
 ## Insider Tips
 
-For those looking to capture memorable moments, photography may be encouraged at Leitenhausen. However, it’s wise to be mindful of any signs or guidelines regarding photography, particularly in areas where reverence is expected. 
+For those looking to capture memorable moments, photography may be encouraged at Leitenhausen. However, it's wise to be mindful of any signs or guidelines regarding photography, particularly in areas where reverence is expected. 
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This timing allows for a more personal experience and the opportunity to engage deeply with the memorial's significance without distractions.
 
 ## Practical Information
 
-When planning your visit to Leitenhausen, it’s advisable to bring along essentials such as water, a camera, and comfortable walking shoes. Seasonal considerations may also influence your packing; in warmer months, sunscreen and hats can be beneficial, while cooler seasons may necessitate layers for comfort.
+When planning your visit to Leitenhausen, it's advisable to bring along essentials such as water, a camera, and comfortable walking shoes. Seasonal considerations may also influence your packing; in warmer months, sunscreen and hats can be beneficial, while cooler seasons may necessitate layers for comfort.
 
 Additionally, checking the weather forecast before your visit can enhance your experience, allowing you to dress appropriately for outdoor exploration.
 
@@ -78,7 +78,7 @@ Additionally, checking the weather forecast before your visit can enhance your e
 A couple of hours is typically sufficient to explore Leitenhausen and reflect on its significance.
 
 ### Is photography allowed?
-Photography is often permitted, but it’s best to check for any specific guidelines on-site.
+Photography is often permitted, but it's best to check for any specific guidelines on-site.
 
 ### Are there guided tours?
 Current information regarding guided tours can be obtained by checking the official website.

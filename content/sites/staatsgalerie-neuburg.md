@@ -36,7 +36,7 @@ The Staatsgalerie's commitment to showcasing a diverse range of artworks makes i
 
 ## Architecture and Features
 
-The architectural style of the Staatsgalerie Neuburg complements its artistic mission, combining functionality with aesthetic appeal. While specific architectural details are not provided, visitors can expect to encounter a design that reflects the historical and cultural context of the region. The museum’s layout typically facilitates an engaging flow through its galleries, allowing for an immersive experience as visitors navigate from one exhibit to the next.
+The architectural style of the Staatsgalerie Neuburg complements its artistic mission, combining functionality with aesthetic appeal. While specific architectural details are not provided, visitors can expect to encounter a design that reflects the historical and cultural context of the region. The museum's layout typically facilitates an engaging flow through its galleries, allowing for an immersive experience as visitors navigate from one exhibit to the next.
 
 Noteworthy features within the museum may include thoughtfully curated exhibition spaces that accommodate a variety of artistic forms, from classic to contemporary pieces. The thoughtful arrangement of artworks encourages visitors to appreciate the nuances of each piece and its place within the larger collection. The museum is likely equipped with facilities that enhance the visitor experience, making it accessible to a wide audience.
 
@@ -95,7 +95,7 @@ It is advisable to spend approximately two to three hours exploring the Staatsga
 Photography policies can vary, so be sure to check the museum's guidelines upon your arrival for any restrictions on photography.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these can provide valuable insights into the artworks and the museum’s history.
+Check the official website for information on guided tours, as these can provide valuable insights into the artworks and the museum's history.
 
 ### What's the best time to visit?
 Weekday mornings are typically less crowded, making this an ideal time for a more personal experience with the exhibits.

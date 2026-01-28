@@ -44,7 +44,7 @@ St. Mary's Church showcases a design that reflects the architectural trends of i
 
 Inside, the church is expected to exhibit a sense of tranquility and reverence, with spacious interiors that allow for congregational gatherings. The interior may include notable features such as stained glass windows, which can illuminate the space with colorful light, creating an atmosphere conducive to reflection and meditation. Additionally, wooden pews and an altar may be present, reflecting the church's ongoing use for worship and community events.
 
-The church’s architecture not only serves a religious function but also acts as an artistic expression of the time periods it has witnessed. Each element of the building can tell a story, from the craftsmanship of the stone masons to the artistic choices made in its decoration. Visitors to St. Mary's Church can appreciate the harmony between form, function, and faith that this structure embodies.
+The church's architecture not only serves a religious function but also acts as an artistic expression of the time periods it has witnessed. Each element of the building can tell a story, from the craftsmanship of the stone masons to the artistic choices made in its decoration. Visitors to St. Mary's Church can appreciate the harmony between form, function, and faith that this structure embodies.
 
 ## Visiting Information
 

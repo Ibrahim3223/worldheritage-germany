@@ -58,7 +58,7 @@ While Burg Neuenburg is a highlight of Blumberg, several nearby attractions can 
 
 - **The Zähringer Castle Ruins**: Located not too far from Burg Neuenburg, these ruins provide insight into another aspect of the region's medieval history.
 
-- **The Museum of Local History**: A great stop for those wanting to delve deeper into Blumberg's local heritage, this museum showcases artifacts and exhibits related to the area’s past.
+- **The Museum of Local History**: A great stop for those wanting to delve deeper into Blumberg's local heritage, this museum showcases artifacts and exhibits related to the area's past.
 
 - **Hiking Trails**: The surrounding landscape offers various hiking paths that allow visitors to appreciate the natural beauty and tranquility of the Black Forest region.
 
@@ -70,7 +70,7 @@ To make the most of your visit to Burg Neuenburg, consider the following tips:
 
 - **Crowd Avoidance**: Visiting on weekdays or during the off-peak season can help you avoid larger crowds, allowing for a more personal and intimate experience with the site.
 
-- **Guided Tours**: If available, guided tours can provide valuable insights and anecdotes about the castle’s history and significance, enhancing your understanding of the site.
+- **Guided Tours**: If available, guided tours can provide valuable insights and anecdotes about the castle's history and significance, enhancing your understanding of the site.
 
 ## Practical Information
 

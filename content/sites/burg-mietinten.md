@@ -54,7 +54,7 @@ As you plan your visit, consider checking the official website for any special e
 
 When visiting Burg Mietinten, consider exploring these nearby attractions to enhance your experience:
 
-1. **Historic Town of Mietingen**: This charming town features traditional German architecture and quaint streets. It’s a perfect place to enjoy a leisurely stroll and sample local cuisine.
+1. **Historic Town of Mietingen**: This charming town features traditional German architecture and quaint streets. It's a perfect place to enjoy a leisurely stroll and sample local cuisine.
 
 2. **Burg Hohenzollern**: Located a short drive away, this impressive castle offers breathtaking views and a wealth of history, making it a worthwhile addition to your itinerary.
 
@@ -82,7 +82,7 @@ Check the official website for information on seasonal events or activities that
 Visitors typically spend a few hours exploring Burg Mietinten, allowing time for both the castle and its surroundings.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s advisable to check for any specific restrictions upon arrival.
+While photography is generally permitted, it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for details.

@@ -76,7 +76,7 @@ To make the most of your visit to the Pole-Poppenspäler-Museum, consider these 
 
 - **Crowd Avoidance**: Aim to visit during weekdays or earlier in the day to experience a quieter atmosphere. This will allow you to engage more deeply with the exhibits and participate in any interactive displays without feeling rushed.
 
-- **Engagement**: Don’t hesitate to ask the staff about the stories behind the puppets. Their insights can enhance your understanding and appreciation of the art form.
+- **Engagement**: Don't hesitate to ask the staff about the stories behind the puppets. Their insights can enhance your understanding and appreciation of the art form.
 
 ## Practical Information
 

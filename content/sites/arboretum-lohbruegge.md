@@ -26,7 +26,7 @@ Visitors to Arboretum Lohbrügge can expect a meticulously maintained landscape 
 
 ## History and Significance
 
-Arboretum Lohbrügge’s significance lies not only in its botanical diversity but also in its role in promoting environmental awareness and conservation. While specific historical details are not available, the garden has become a vital part of the local landscape, often serving as a place for community engagement and educational programs. These initiatives highlight the importance of trees and their contributions to urban life, including air quality improvement, shade provision, and biodiversity support.
+Arboretum Lohbrügge's significance lies not only in its botanical diversity but also in its role in promoting environmental awareness and conservation. While specific historical details are not available, the garden has become a vital part of the local landscape, often serving as a place for community engagement and educational programs. These initiatives highlight the importance of trees and their contributions to urban life, including air quality improvement, shade provision, and biodiversity support.
 
 In addition to its role in conservation, the Arboretum offers a window into the relationship between humans and nature. It serves as a living laboratory for students, scientists, and nature enthusiasts, providing insights into plant behavior and ecology. The garden welcomes educational groups and families, encouraging a deeper understanding of the environment and the need for sustainable practices. 
 
@@ -38,7 +38,7 @@ Arboretum Lohbrügge is characterized by its thoughtfully designed layout, which
 
 The pathways within the garden are designed to encourage leisurely strolls, allowing visitors to immerse themselves in the natural beauty surrounding them. Various seating areas provide spaces for relaxation, where one can enjoy the serenity of the garden while taking in the sights and sounds of nature. Seasonal blooms add to the garden's charm, ensuring that each visit can offer something new.
 
-The layout of the Arboretum also includes areas that are specifically designed for educational purposes, such as demonstration gardens or areas for workshops. These spaces are utilized for community events, further emphasizing the Arboretum’s role in promoting environmental education. 
+The layout of the Arboretum also includes areas that are specifically designed for educational purposes, such as demonstration gardens or areas for workshops. These spaces are utilized for community events, further emphasizing the Arboretum's role in promoting environmental education. 
 
 While the garden's design focuses on its plant collections, it also considers the comfort and accessibility of visitors, making it an inclusive space for everyone to enjoy.
 

@@ -100,7 +100,7 @@ When visiting the Borusseum, it's advisable to bring along a few essentials to e
 Most visitors find that 1.5 to 2 hours is sufficient to explore the exhibits and fully appreciate what the Borusseum has to offer.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions within certain exhibits.
+Photography is generally permitted, but it's advisable to check for any specific restrictions within certain exhibits.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may enhance your understanding of the museum's displays.
@@ -109,7 +109,7 @@ Check the official website for information regarding guided tours, as these may 
 Weekdays, particularly in the morning, are often less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-The Borusseum is designed to be accessible, but it’s best to consult the official website for detailed accessibility features.
+The Borusseum is designed to be accessible, but it's best to consult the official website for detailed accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets online, which can save time and ensure entry during busy periods.

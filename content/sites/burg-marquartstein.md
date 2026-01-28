@@ -90,7 +90,7 @@ When preparing for your visit to Burg Marquartstein, consider the following prac
 A visit to Burg Marquartstein typically takes several hours. This allows enough time to explore the castle and its surroundings at a leisurely pace.
 
 ### Is photography allowed?
-Generally, photography is permitted at Burg Marquartstein. However, it’s wise to check for any specific restrictions on photography, especially inside the castle.
+Generally, photography is permitted at Burg Marquartstein. However, it's wise to check for any specific restrictions on photography, especially inside the castle.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for current offerings.
@@ -105,7 +105,7 @@ Accessibility details are not specified; it's best to check the official website
 Ticket purchasing options may vary. Please check the official website for information on online ticket sales and availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available on-site. For cafes or dining options, it’s advisable to check the official website or local guides.
+Restroom facilities are typically available on-site. For cafes or dining options, it's advisable to check the official website or local guides.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended for exploring the castle and its grounds. Dress in layers to accommodate changing weather conditions. 

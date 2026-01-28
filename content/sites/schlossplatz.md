@@ -36,11 +36,11 @@ The historical significance of Schlossplatz is woven into the very essence of Co
 
 While specific dates may be elusive, it is important to note that the square has served as a central point for residents and visitors alike, fostering a sense of community and tradition. Over time, Schlossplatz has been the stage for numerous cultural events, fairs, and markets, enhancing its role as a social hub. The square's enduring presence in the town's life highlights its importance in the collective memory of Coburg's inhabitants, making it a vital part of the local narrative.
 
-As a gathering space, Schlossplatz also reflects the architectural styles and urban planning of the region. The square has witnessed the evolution of Coburg’s skyline and serves as a reminder of the town's historical journey. Its ability to adapt and accommodate modern events while maintaining its historical roots underscores its significance as a cultural landmark.
+As a gathering space, Schlossplatz also reflects the architectural styles and urban planning of the region. The square has witnessed the evolution of Coburg's skyline and serves as a reminder of the town's historical journey. Its ability to adapt and accommodate modern events while maintaining its historical roots underscores its significance as a cultural landmark.
 
 ## Architecture and Features
 
-Schlossplatz is characterized by its open layout, bordered by various buildings that reflect different architectural styles, contributing to the square’s unique atmosphere. The surrounding structures, though not detailed here, provide a backdrop that enhances the square's appeal. Visitors can appreciate the harmonious blend of historical and contemporary architecture that defines the area.
+Schlossplatz is characterized by its open layout, bordered by various buildings that reflect different architectural styles, contributing to the square's unique atmosphere. The surrounding structures, though not detailed here, provide a backdrop that enhances the square's appeal. Visitors can appreciate the harmonious blend of historical and contemporary architecture that defines the area.
 
 The square itself is designed to facilitate gatherings and public events, making it an ideal location for markets, festivals, and community celebrations. Its spaciousness allows for a variety of activities, while the surrounding buildings create a vibrant environment that invites exploration. The layout encourages visitors to engage with the space, whether through leisurely walks or participation in local events.
 
@@ -62,7 +62,7 @@ While Schlossplatz itself is a focal point of Coburg, several nearby attractions
 
 1. **Coburg Fortress (Veste Coburg)**: A historical fortress offering stunning views and a deep dive into the region's history, just a short distance from Schlossplatz.
 2. **St. Margaret's Church**: A beautiful church known for its impressive architecture and historical significance, located within walking distance.
-3. **Coburg Town Hall**: An architectural marvel that reflects the town’s heritage, often featured in local events and ceremonies.
+3. **Coburg Town Hall**: An architectural marvel that reflects the town's heritage, often featured in local events and ceremonies.
 4. **The Ehrenburg Palace**: This palace, with its rich history and stunning interiors, is a must-visit for those interested in Coburg's aristocratic past.
 5. **Coburg Market**: If visiting during market days, this local market near Schlossplatz offers a taste of regional products and culture.
 

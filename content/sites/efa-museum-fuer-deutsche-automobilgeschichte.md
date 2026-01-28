@@ -78,7 +78,7 @@ When visiting the EFA-Museum für Deutsche Automobilgeschichte, there are severa
 
 To make the most of your visit to the EFA-Museum für Deutsche Automobilgeschichte, consider these insider tips:
 
-- **Photography**: While photography may be permitted in some areas, it’s best to check with the museum staff to ensure you’re following their guidelines.
+- **Photography**: While photography may be permitted in some areas, it's best to check with the museum staff to ensure you're following their guidelines.
   
 - **Crowd Avoidance**: Visiting during weekday mornings can help you avoid larger crowds, allowing for a more relaxed exploration of the exhibits.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the EFA-Museum für Deutsche Automobilgeschicht
 
 - **Seasonal Considerations**: Check the weather prior to your visit, as certain exhibits or outdoor areas may be impacted by seasonal conditions.
 
-- **Accessibility**: For those with mobility concerns, it’s advisable to inquire about wheelchair accessibility options.
+- **Accessibility**: For those with mobility concerns, it's advisable to inquire about wheelchair accessibility options.
 
 ## Frequently Asked Questions
 

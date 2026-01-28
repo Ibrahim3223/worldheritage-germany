@@ -36,7 +36,7 @@ The history of the Village Church Friedersdorf reflects the enduring faith and r
 
 The significance of the church extends beyond its function as a place of worship. It represents the historical narrative of the people of Friedersdorf and their connection to the land. Over the years, the church has likely witnessed numerous changes within the community, from the impact of regional developments to the evolution of social norms and traditions. 
 
-As you explore the Village Church, it’s essential to appreciate its role in the spiritual life of the community. It has been a site for various ceremonies, including baptisms, weddings, and funerals, uniting generations of families within its walls. The church has likely played a part in the cultural celebrations and festivals that characterize life in Brandenburg, making it a living part of the community's heritage.
+As you explore the Village Church, it's essential to appreciate its role in the spiritual life of the community. It has been a site for various ceremonies, including baptisms, weddings, and funerals, uniting generations of families within its walls. The church has likely played a part in the cultural celebrations and festivals that characterize life in Brandenburg, making it a living part of the community's heritage.
 
 ## Architecture and Features
 
@@ -109,7 +109,7 @@ Accessibility features may vary. It's advisable to check with local resources or
 For the most current information on ticketing, including the possibility of online purchases, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the church itself. It’s advisable to plan ahead and locate nearby amenities prior to your visit.
+Facilities may be limited at the church itself. It's advisable to plan ahead and locate nearby amenities prior to your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for a church setting. Consider the weather and wear suitable footwear for any outdoor exploration.

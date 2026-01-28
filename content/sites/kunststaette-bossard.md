@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during non-peak hours, such as early mornings
 
 When preparing for your visit to Kunststätte Bossard, it's wise to bring comfortable walking shoes, as the museum may require some walking to fully explore its offerings. Additionally, if you plan to spend an extended time, consider bringing a water bottle and light snacks.
 
-Seasonal considerations can also impact your visit; check the weather beforehand and dress appropriately. If you’re visiting during colder months, layers may be ideal, while summer visitors should prepare for potentially warm conditions.
+Seasonal considerations can also impact your visit; check the weather beforehand and dress appropriately. If you're visiting during colder months, layers may be ideal, while summer visitors should prepare for potentially warm conditions.
 
 ## Frequently Asked Questions
 

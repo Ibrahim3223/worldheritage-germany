@@ -38,7 +38,7 @@ The brewery is significant not only for its beer but also for its role in the so
 
 Moreover, the brewery is a testament to the resilience of local craftsmanship in an age of mass production. By adhering to traditional brewing techniques and utilizing local ingredients, Brauerei zur Malzmühle ensures that each glass of kölsch maintains the quality and flavor that has made it a staple in Cologne's culinary heritage. 
 
-The brewery’s significance extends beyond its beverages; it is a vibrant part of Cologne's cultural landscape, hosting events and gatherings that reflect the city's rich traditions. Visitors to Brauerei zur Malzmühle experience not just a taste of beer, but also a slice of Cologne's communal life and its enduring passion for brewing.
+The brewery's significance extends beyond its beverages; it is a vibrant part of Cologne's cultural landscape, hosting events and gatherings that reflect the city's rich traditions. Visitors to Brauerei zur Malzmühle experience not just a taste of beer, but also a slice of Cologne's communal life and its enduring passion for brewing.
 
 ## Architecture and Features
 
@@ -68,7 +68,7 @@ After enjoying your time at Brauerei zur Malzmühle, consider exploring some of 
 2. **Museum Ludwig**: Just a stone's throw from the brewery, this museum features modern art collections, including works by Picasso and Warhol.
 3. **Old Town (Altstadt)**: Wander through the charming streets of Cologne's Old Town, where you'll find picturesque squares, shops, and additional eateries to explore.
 4. **Hohenzollern Bridge**: A famous pedestrian bridge known for its love locks, offering picturesque views of the city and the Rhine River.
-5. **Cologne City Hall (Kölner Rathaus)**: A historical building with parts dating back to the 12th century, showcasing medieval architecture and housing the city’s archives.
+5. **Cologne City Hall (Kölner Rathaus)**: A historical building with parts dating back to the 12th century, showcasing medieval architecture and housing the city's archives.
 
 ## Insider Tips
 

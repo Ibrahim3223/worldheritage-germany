@@ -42,7 +42,7 @@ While the specifics of the fortification's design elements may not be elaborated
 
 ## Visiting Information
 
-Visiting Cultural heritage D-6-5628-0033 offers a unique opportunity to engage with the historical fabric of the region. To reach Hendungen, visitors can utilize various modes of transport, including personal vehicles or public transportation options that may be available from nearby towns. The site’s coordinates are 50.387840149, 10.427786604, which can assist in navigation for those driving.
+Visiting Cultural heritage D-6-5628-0033 offers a unique opportunity to engage with the historical fabric of the region. To reach Hendungen, visitors can utilize various modes of transport, including personal vehicles or public transportation options that may be available from nearby towns. The site's coordinates are 50.387840149, 10.427786604, which can assist in navigation for those driving.
 
 While specific hours of operation and ticket prices are not detailed, it is advisable to check the official website for current information before planning your visit. Exploring the fortification may take a couple of hours, depending on your interest in the various features and historical context. 
 

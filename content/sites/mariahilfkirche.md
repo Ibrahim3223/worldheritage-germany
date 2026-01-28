@@ -28,9 +28,9 @@ image_srcset:
 
 Mariahilfkirche, a distinguished church building located in Munich, Germany, serves as a key landmark within the city's architectural landscape. Dedicated to the Virgin Mary, this place of worship is renowned for its serene ambiance and striking design, making it an essential destination for both religious pilgrims and cultural enthusiasts. As a part of Upper Bavaria's rich heritage, Mariahilfkirche invites visitors to explore its significance, history, and architectural charm.
 
-Positioned strategically within Munich, the church reflects the city’s deep-rooted connection to its religious traditions while also showcasing elements of various artistic styles that have evolved over the centuries. Whether you are a local resident or a traveler from afar, Mariahilfkirche offers a peaceful retreat from the bustling city life, providing a space for reflection and admiration of its intricate details. 
+Positioned strategically within Munich, the church reflects the city's deep-rooted connection to its religious traditions while also showcasing elements of various artistic styles that have evolved over the centuries. Whether you are a local resident or a traveler from afar, Mariahilfkirche offers a peaceful retreat from the bustling city life, providing a space for reflection and admiration of its intricate details. 
 
-With its inviting atmosphere and historical importance, a visit to Mariahilfkirche promises to enrich your understanding of Munich’s cultural fabric and the architectural evolution of religious buildings in Germany.
+With its inviting atmosphere and historical importance, a visit to Mariahilfkirche promises to enrich your understanding of Munich's cultural fabric and the architectural evolution of religious buildings in Germany.
 
 ## History and Significance
 

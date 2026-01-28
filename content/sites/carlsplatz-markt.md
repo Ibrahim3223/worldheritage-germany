@@ -62,7 +62,7 @@ Carlsplatz Markt is surrounded by several attractions that enhance the overall e
 
 2. **Altstadt (Old Town)**: Just a short walk away, the historic Old Town is filled with charming streets, pubs, and cultural landmarks. It's an excellent area to explore after visiting the market, where visitors can enjoy traditional German cuisine and local beers.
 
-3. **Düsseldorf City Museum**: Located in the vicinity, this museum provides insights into the city's history and culture. It’s an ideal stop for those looking to delve deeper into the local heritage.
+3. **Düsseldorf City Museum**: Located in the vicinity, this museum provides insights into the city's history and culture. It's an ideal stop for those looking to delve deeper into the local heritage.
 
 4. **Rhine River Promenade**: A leisurely walk along the Rhine offers picturesque views and a relaxing atmosphere. This scenic route is perfect for unwinding after a busy day at the market.
 

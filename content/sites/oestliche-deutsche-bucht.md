@@ -91,7 +91,7 @@ Information regarding accessibility can vary, so it's best to check the official
 Check the official website for information on ticket purchasing and any potential fees associated with visiting the reserve.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the reserve, so it’s advisable to plan accordingly and bring your own refreshments.
+Facilities may be limited at the reserve, so it's advisable to plan accordingly and bring your own refreshments.
 
 ### What should I wear?
 Dress in layers and wear comfortable walking shoes suitable for outdoor exploration, as weather conditions can change.

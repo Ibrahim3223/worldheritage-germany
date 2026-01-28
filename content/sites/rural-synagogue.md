@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The rural synagogue in Weimar, Germany, stands as a profound representation of the Jewish heritage that once thrived in this region. As a former German synagogue, it reflects the historical and cultural narratives of a community that has played a significant role in shaping the area’s identity. Located at coordinates 50.7278, 8.72667, this site invites visitors to engage with the echoes of the past while contemplating the resilience of cultural traditions. The rural synagogue's historical context provides an opportunity for reflection on the Jewish experience in Germany, making it a significant stop for heritage travelers and history enthusiasts alike.
+The rural synagogue in Weimar, Germany, stands as a profound representation of the Jewish heritage that once thrived in this region. As a former German synagogue, it reflects the historical and cultural narratives of a community that has played a significant role in shaping the area's identity. Located at coordinates 50.7278, 8.72667, this site invites visitors to engage with the echoes of the past while contemplating the resilience of cultural traditions. The rural synagogue's historical context provides an opportunity for reflection on the Jewish experience in Germany, making it a significant stop for heritage travelers and history enthusiasts alike.
 
 Visitors to this site can expect a journey that intertwines history, architecture, and the enduring spirit of the Jewish community. The synagogue serves as both a reminder of the past and a space for contemplation, inviting visitors to explore the cultural importance of Jewish life in rural Germany. In a region rich in artistic and intellectual heritage, the rural synagogue is a landmark that contributes to a broader understanding of Weimar's multifaceted history.
 
@@ -36,7 +36,7 @@ The rural synagogue of Weimar, a former center of Jewish worship, holds a deep c
 
 The synagogue serves as a poignant reminder of the historical challenges faced by Jewish communities, particularly during the tumultuous periods of the 20th century. The rise of anti-Semitism and the eventual impact of the Holocaust saw many synagogues across Germany dismantled or repurposed, leading to a loss of cultural heritage. The preservation of the rural synagogue is therefore emblematic of the enduring spirit of those who worshipped there, as well as a commitment to remembering and honoring their legacy. 
 
-In contemporary times, this synagogue offers not only a space for remembrance but also an educational platform. It allows visitors to gain insights into Jewish traditions, customs, and the community’s contributions to German society. The synagogue stands as a crucial link in the chain of cultural understanding, urging visitors to engage thoughtfully with the history of the Jewish people in Germany.
+In contemporary times, this synagogue offers not only a space for remembrance but also an educational platform. It allows visitors to gain insights into Jewish traditions, customs, and the community's contributions to German society. The synagogue stands as a crucial link in the chain of cultural understanding, urging visitors to engage thoughtfully with the history of the Jewish people in Germany.
 
 ## Architecture and Features
 

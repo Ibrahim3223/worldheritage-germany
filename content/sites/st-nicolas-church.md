@@ -62,7 +62,7 @@ Stendal is home to several attractions that complement a visit to St. Nicolas Ch
 
 1. **Stendal Town Hall**: A historical building showcasing the architectural style of the region and offering insight into Stendal's governance and history.
   
-2. **The Stendal City Museum**: This museum provides a deeper understanding of the town’s history, culture, and significance in the broader context of Saxony-Anhalt.
+2. **The Stendal City Museum**: This museum provides a deeper understanding of the town's history, culture, and significance in the broader context of Saxony-Anhalt.
 
 3. **The Church of St. Mary**: Another important ecclesiastical site nearby, known for its distinctive architecture and historical significance.
 
@@ -74,7 +74,7 @@ Stendal is home to several attractions that complement a visit to St. Nicolas Ch
 
 For those looking to capture the essence of St. Nicolas Church through photography, it is advisable to visit during the golden hours of early morning or late afternoon for the best natural light. The interior may have restrictions on photography during services, so checking in advance can enhance the experience.
 
-To avoid crowds, consider visiting on weekdays rather than weekends, as this can provide a more peaceful atmosphere to reflect and enjoy the architecture. Participating in a service can also offer a unique perspective on the church’s role in the community.
+To avoid crowds, consider visiting on weekdays rather than weekends, as this can provide a more peaceful atmosphere to reflect and enjoy the architecture. Participating in a service can also offer a unique perspective on the church's role in the community.
 
 ## Practical Information
 

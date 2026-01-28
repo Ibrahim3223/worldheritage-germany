@@ -88,7 +88,7 @@ Seasonal considerations are also important; spring and autumn offer pleasant wea
 A visit of one to two hours is recommended to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to be mindful of any signs or guidelines while inside the church.
+Photography is generally allowed, but it's best to be mindful of any signs or guidelines while inside the church.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special events that may be taking place during your visit.

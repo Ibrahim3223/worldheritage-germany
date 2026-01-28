@@ -48,7 +48,7 @@ The Dominican Museum Rottweil is housed in a building that reflects the architec
 
 Inside the museum, the exhibitions are thoughtfully arranged to guide visitors through the narrative of the Dominican Order and its impact on Rottweil. The use of light and space is integral to the experience, enhancing the visibility of the artifacts while creating an inviting atmosphere for exploration. 
 
-Notable features of the museum may include dedicated areas for temporary exhibitions, allowing for a dynamic presentation of contemporary art that resonates with the museum’s historical themes. The thoughtful curation of these exhibits showcases the museum's commitment to keeping the conversation about art and history alive and relevant.
+Notable features of the museum may include dedicated areas for temporary exhibitions, allowing for a dynamic presentation of contemporary art that resonates with the museum's historical themes. The thoughtful curation of these exhibits showcases the museum's commitment to keeping the conversation about art and history alive and relevant.
 
 In addition to the exhibition spaces, the museum may offer areas for educational activities, workshops, and community events. These spaces are essential for fostering engagement and providing visitors with opportunities to delve deeper into the subjects presented within the museum.
 

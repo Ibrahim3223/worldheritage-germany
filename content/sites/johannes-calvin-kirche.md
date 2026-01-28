@@ -28,7 +28,7 @@ image_srcset:
 
 The Johannes-Calvin-Kirche, situated in the heart of Mannheim, Germany, serves as an important spiritual and architectural landmark. This church, characterized by its unique design and cultural significance, invites visitors to explore both its interior and the surrounding urban landscape. As a place of worship and community gathering, it reflects the historical and religious developments that have shaped Mannheim over the years. 
 
-Mannheim itself is known for its vibrant atmosphere, blending a rich history with modern urban life. The church’s location adds to its appeal, offering visitors a glimpse into the city’s architectural diversity and its role in religious life. With its striking presence, the Johannes-Calvin-Kirche promises an enriching experience for anyone interested in exploring the confluence of faith, history, and culture.
+Mannheim itself is known for its vibrant atmosphere, blending a rich history with modern urban life. The church's location adds to its appeal, offering visitors a glimpse into the city's architectural diversity and its role in religious life. With its striking presence, the Johannes-Calvin-Kirche promises an enriching experience for anyone interested in exploring the confluence of faith, history, and culture.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The architecture of the Johannes-Calvin-Kirche reflects the principles of Reform
 
 While specific details about the church's dimensions or materials are not provided, one can expect a design that emphasizes light and openness, common in Protestant churches. The interior may feature elements such as a prominent pulpit, simple wooden pews, and perhaps stained glass that conveys biblical stories or themes central to the Reformed faith.
 
-Visitors will likely find that the overall aesthetic of the Johannes-Calvin-Kirche promotes a sense of tranquility, making it a fitting space for reflection and spiritual engagement. The church’s design not only serves its liturgical purpose but also invites contemplation, allowing individuals to connect with their faith in a serene environment.
+Visitors will likely find that the overall aesthetic of the Johannes-Calvin-Kirche promotes a sense of tranquility, making it a fitting space for reflection and spiritual engagement. The church's design not only serves its liturgical purpose but also invites contemplation, allowing individuals to connect with their faith in a serene environment.
 
 ## Visiting Information
 
@@ -75,7 +75,7 @@ To avoid peak times, consider visiting on weekdays, particularly in the morning.
 
 When visiting the Johannes-Calvin-Kirche, it is advisable to dress appropriately, respecting the site's spiritual significance. Comfortable shoes are recommended, as visitors may wish to explore the area surrounding the church. 
 
-Seasonal considerations can also impact one’s experience. During warmer months, the outdoor areas around the church may be more inviting, while winter visits can offer a different perspective, particularly during the holiday season. Always check the local weather forecast before your visit for comfortable planning.
+Seasonal considerations can also impact one's experience. During warmer months, the outdoor areas around the church may be more inviting, while winter visits can offer a different perspective, particularly during the holiday season. Always check the local weather forecast before your visit for comfortable planning.
 
 ## Frequently Asked Questions
 

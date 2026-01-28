@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Gerichtsgebäude in Bremen is a prominent courthouse that plays a pivotal role in the judicial landscape of the city. Situated in the Mitte district, this architectural landmark not only serves a functional purpose but also serves as a symbol of law and order in the region. As a visitor, you will find yourself amidst a site that is steeped in the cultural and legal heritage of Bremen, making it an essential stop for those interested in the city’s development and governance. The courthouse reflects the values and history of Bremen, inviting exploration into its significance within the broader context of German jurisprudence.
+The Gerichtsgebäude in Bremen is a prominent courthouse that plays a pivotal role in the judicial landscape of the city. Situated in the Mitte district, this architectural landmark not only serves a functional purpose but also serves as a symbol of law and order in the region. As a visitor, you will find yourself amidst a site that is steeped in the cultural and legal heritage of Bremen, making it an essential stop for those interested in the city's development and governance. The courthouse reflects the values and history of Bremen, inviting exploration into its significance within the broader context of German jurisprudence.
 
 ## History and Significance
 
 The Gerichtsgebäude has long been an integral part of Bremen's legal system, embodying the principles of justice and civic duty. While specific historical dates are not available, it is clear that this courthouse has been central to the administration of law and the upholding of justice in the area. The establishment of courthouses, like the Gerichtsgebäude, underscores the importance of a structured legal system in any society, particularly in a historical context where governance often relied on localized judicial frameworks.
 
-The significance of the courthouse extends beyond its walls; it serves as a physical representation of Bremen’s commitment to legal integrity and civic order. This place has witnessed numerous legal proceedings that have shaped the community and influenced the lives of its residents. The courthouse's presence reinforces the concept of accountability within the governance of Bremen, making it a location of both historical and cultural importance.
+The significance of the courthouse extends beyond its walls; it serves as a physical representation of Bremen's commitment to legal integrity and civic order. This place has witnessed numerous legal proceedings that have shaped the community and influenced the lives of its residents. The courthouse's presence reinforces the concept of accountability within the governance of Bremen, making it a location of both historical and cultural importance.
 
 In addition to its judicial functions, the Gerichtsgebäude often serves as a backdrop for discussions surrounding the evolution of law in Germany. The courthouse is a reminder of how legal institutions adapt over time to meet the needs of society, reflecting shifts in both societal norms and legal practices. Visitors to the site can appreciate its role in the ongoing narrative of law and justice in Bremen and beyond.
 
@@ -58,7 +58,7 @@ While visiting the Gerichtsgebäude, consider exploring these notable nearby att
 
 1. **Bremen Town Hall**: A UNESCO World Heritage site, this stunning example of Gothic and Renaissance architecture is located just a short distance away and is a must-see for its historical significance.
 
-2. **The Roland Statue**: Adjacent to the Town Hall, this iconic statue symbolizes Bremen's independence and is another UNESCO World Heritage site, offering insights into the city’s history.
+2. **The Roland Statue**: Adjacent to the Town Hall, this iconic statue symbolizes Bremen's independence and is another UNESCO World Heritage site, offering insights into the city's history.
 
 3. **Schnoor Quarter**: A charming area filled with narrow lanes and old buildings, the Schnoor Quarter offers a glimpse into Bremen's medieval past and is perfect for leisurely strolls.
 

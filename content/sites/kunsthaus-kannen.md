@@ -48,7 +48,7 @@ The layout of Kunsthaus Kannen is likely to include various exhibition halls, ea
 
 When planning a visit to Kunsthaus Kannen, it is advisable to check the official website for current information regarding operating hours and admission prices. The museum typically welcomes visitors throughout the week, but specific days and times may vary based on seasonal programming or special events.
 
-Münster is well connected, making it accessible via various modes of transport. Public transportation options, including buses and trams, can facilitate easy access to the museum from different parts of the city. For those driving, parking facilities may be available nearby, although it’s wise to verify the current parking situation.
+Münster is well connected, making it accessible via various modes of transport. Public transportation options, including buses and trams, can facilitate easy access to the museum from different parts of the city. For those driving, parking facilities may be available nearby, although it's wise to verify the current parking situation.
 
 Expect to spend a few hours at Kunsthaus Kannen to fully appreciate the exhibitions and participate in any ongoing events or programs. The best times to visit may vary, but weekdays generally offer a quieter experience compared to weekends, allowing for a more intimate exploration of the art on display.
 
@@ -68,11 +68,11 @@ While Kunsthaus Kannen is a destination in its own right, Münster offers numero
 
 ## Insider Tips
 
-For photography enthusiasts, remember to check the museum's policy on photography. It’s often a great way to capture your experience, but some exhibitions may have restrictions. To avoid crowds, consider visiting during weekdays or early in the day. Special events or openings can draw larger crowds, so planning your visit accordingly can enhance your experience.
+For photography enthusiasts, remember to check the museum's policy on photography. It's often a great way to capture your experience, but some exhibitions may have restrictions. To avoid crowds, consider visiting during weekdays or early in the day. Special events or openings can draw larger crowds, so planning your visit accordingly can enhance your experience.
 
 ## Practical Information
 
-When visiting Kunsthaus Kannen, it’s wise to dress comfortably, as you may spend a lot of time walking through the exhibits. Depending on the season, layering clothing can be beneficial. Consider bringing a small bag for personal items and any materials you might need for note-taking or sketching.
+When visiting Kunsthaus Kannen, it's wise to dress comfortably, as you may spend a lot of time walking through the exhibits. Depending on the season, layering clothing can be beneficial. Consider bringing a small bag for personal items and any materials you might need for note-taking or sketching.
 
 As you plan your visit, take into account seasonal considerations that might affect your experience. Check the museum's official website for information on any special exhibitions, workshops, or events that may be taking place during your visit.
 

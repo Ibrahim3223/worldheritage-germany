@@ -34,7 +34,7 @@ As you approach the museum, you can sense the blend of historical significance a
 
 The history of the Märkisches Museum is intertwined with the development of Witten as a cultural center. Established to preserve and promote the artistic heritage of the region, the museum has played a crucial role in documenting the evolution of local art. Although specific founding dates and events are not detailed, the museum continues to evolve alongside the artistic landscape, adapting its exhibitions to highlight both historical and contemporary works.
 
-The significance of the Märkisches Museum extends beyond its collections; it serves as a focal point for cultural exchange and community engagement. By hosting exhibitions, workshops, and educational programs, the museum fosters a deeper understanding of art and its relevance to everyday life. This commitment to cultural enrichment positions the Märkisches Museum as a key player in the region’s artistic dialogue.
+The significance of the Märkisches Museum extends beyond its collections; it serves as a focal point for cultural exchange and community engagement. By hosting exhibitions, workshops, and educational programs, the museum fosters a deeper understanding of art and its relevance to everyday life. This commitment to cultural enrichment positions the Märkisches Museum as a key player in the region's artistic dialogue.
 
 Moreover, the museum stands as a testament to the local community's efforts to preserve its heritage. It provides a platform for emerging artists, allowing them to showcase their work and connect with a broader audience. In this way, the Märkisches Museum not only celebrates the past but also nurtures the future of art in Witten.
 
@@ -82,7 +82,7 @@ Seasonal considerations may also play a role in your visit. In warmer months, co
 A visit typically takes a few hours, allowing ample time to explore the exhibits and engage with the art.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum's guidelines upon arrival.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available and their scheduling.

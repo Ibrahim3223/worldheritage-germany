@@ -50,7 +50,7 @@ Visitors can expect to encounter a variety of artistic mediums, including painti
 
 ## Visiting Information
 
-Reaching the Museum of Asian Art is convenient, thanks to its central location in Bezirk Mitte. Visitors can access the museum via public transport, with various options likely available, including buses and trains. For the latest information on transport options, it’s advisable to check local transit services.
+Reaching the Museum of Asian Art is convenient, thanks to its central location in Bezirk Mitte. Visitors can access the museum via public transport, with various options likely available, including buses and trains. For the latest information on transport options, it's advisable to check local transit services.
 
 When planning your visit, be sure to check the official website for current information regarding hours of operation and ticket prices. The museum typically accommodates a range of visitors, and you can expect to spend a few hours exploring the collection. For the most fulfilling experience, consider visiting during weekdays or early in the day to avoid larger crowds.
 
@@ -68,7 +68,7 @@ While visiting the Museum of Asian Art, consider exploring these nearby attracti
 
 4. **Monbijou Park**: A lovely green space perfect for a leisurely stroll or a picnic, located just a short distance from the museum.
 
-5. **Hackescher Markt**: A vibrant area filled with shops, restaurants, and galleries, ideal for experiencing Berlin’s contemporary cultural scene.
+5. **Hackescher Markt**: A vibrant area filled with shops, restaurants, and galleries, ideal for experiencing Berlin's contemporary cultural scene.
 
 ## Insider Tips
 
@@ -96,7 +96,7 @@ When visiting the Museum of Asian Art, here are some practical considerations:
 Typically, visitors spend around two to three hours exploring the museum, allowing adequate time to appreciate the collections.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the specific guidelines on the museum’s website before your visit.
+Photography policies can vary, so it's best to check the specific guidelines on the museum's website before your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for the latest offerings and schedule.

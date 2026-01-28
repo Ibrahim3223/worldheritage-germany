@@ -3,7 +3,7 @@ title: "Museum of the Thirty Years War"
 site_name: "Museum of the Thirty Years War"
 date: 2026-01-26
 draft: false
-description: "The Museum of the Thirty Years War in Wittstock/Dosse, Germany, stands as a dedicated venue to immerse visitors in one of Europe’s most tumultuous periods."
+description: "The Museum of the Thirty Years War in Wittstock/Dosse, Germany, stands as a dedicated venue to immerse visitors in one of Europe's most tumultuous periods."
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Museum"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Museum of the Thirty Years War in Wittstock/Dosse, Germany, stands as a dedicated venue to immerse visitors in one of Europe’s most tumultuous periods. The Thirty Years War, spanning from 1618 to 1648, drastically altered the political and cultural landscape of the continent, and this museum serves as a vital repository of artifacts, narratives, and insights related to the conflict. Located in the heart of Germany, the museum not only reflects the historical significance of the war but also highlights the impact it had on the local area and beyond. 
+The Museum of the Thirty Years War in Wittstock/Dosse, Germany, stands as a dedicated venue to immerse visitors in one of Europe's most tumultuous periods. The Thirty Years War, spanning from 1618 to 1648, drastically altered the political and cultural landscape of the continent, and this museum serves as a vital repository of artifacts, narratives, and insights related to the conflict. Located in the heart of Germany, the museum not only reflects the historical significance of the war but also highlights the impact it had on the local area and beyond. 
 
-Incorporating a variety of exhibits, the museum provides a thoughtful exploration of the war’s causes, consequences, and its enduring legacy. Visitors can expect to find an engaging range of displays, making it a worthwhile stop for history enthusiasts, scholars, and casual tourists alike. With its well-curated collections and educational programs, the Museum of the Thirty Years War promises to be an enlightening experience, capturing the essence of a conflict that shaped the trajectory of European history.
+Incorporating a variety of exhibits, the museum provides a thoughtful exploration of the war's causes, consequences, and its enduring legacy. Visitors can expect to find an engaging range of displays, making it a worthwhile stop for history enthusiasts, scholars, and casual tourists alike. With its well-curated collections and educational programs, the Museum of the Thirty Years War promises to be an enlightening experience, capturing the essence of a conflict that shaped the trajectory of European history.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ Wittstock/Dosse is home to several attractions that complement a visit to the Mu
 
 For the best experience at the Museum of the Thirty Years War, consider visiting during off-peak hours, such as early mornings or late afternoons. This timing often results in fewer crowds, allowing for a more personal exploration of the exhibits.
 
-Photography might be permitted in certain sections, but it’s advisable to check for any restrictions upon arrival. Take your time to absorb the information presented; the museum's exhibits are designed to provoke thought and discussion.
+Photography might be permitted in certain sections, but it's advisable to check for any restrictions upon arrival. Take your time to absorb the information presented; the museum's exhibits are designed to provoke thought and discussion.
 
 ## Practical Information
 

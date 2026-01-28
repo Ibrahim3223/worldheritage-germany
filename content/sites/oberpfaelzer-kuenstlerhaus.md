@@ -88,7 +88,7 @@ Before your visit, check the official website for information on any special eve
 A visit to the Oberpfälzer Künstlerhaus typically requires a few hours, depending on the exhibitions on display and your level of engagement with the artworks.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum's guidelines regarding photography before your visit.
+Photography policies may vary, so it's best to check the museum's guidelines regarding photography before your visit.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. Check for any scheduled tours or programs that can enhance your experience.

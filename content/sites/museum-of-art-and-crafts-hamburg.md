@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Museum of Art and Crafts Hamburg, situated in the vibrant district of Hamburg-Mitte, is a distinguished institution dedicated to the celebration and preservation of fine, applied, and decorative arts. This museum serves as a vital cultural hub in one of Germany’s most dynamic cities, offering visitors an opportunity to explore an expansive collection that spans various artistic disciplines. With its strategic location in Hamburg, a city marked by its rich maritime history and eclectic cultural scene, the museum not only enhances the artistic fabric of the region but also draws art enthusiasts from around the globe.
+The Museum of Art and Crafts Hamburg, situated in the vibrant district of Hamburg-Mitte, is a distinguished institution dedicated to the celebration and preservation of fine, applied, and decorative arts. This museum serves as a vital cultural hub in one of Germany's most dynamic cities, offering visitors an opportunity to explore an expansive collection that spans various artistic disciplines. With its strategic location in Hamburg, a city marked by its rich maritime history and eclectic cultural scene, the museum not only enhances the artistic fabric of the region but also draws art enthusiasts from around the globe.
 
 Visitors to the museum can expect a thoughtfully curated experience that highlights the intersection of art and craftsmanship, showcasing everything from traditional techniques to contemporary innovations. The museum's collections reflect a diverse range of artistic movements and styles, making it a significant stop for anyone interested in the evolution of art and design. The Museum of Art and Crafts Hamburg promises a rewarding exploration for art lovers, historians, and casual visitors alike.
 
 ## History and Significance
 
-Established in the heart of Hamburg, the Museum of Art and Crafts Hamburg has become a cornerstone of the city’s cultural landscape. Its commitment to the arts is evident through its extensive collection that encompasses various forms of artistic expression. The museum aims to educate and inspire, emphasizing the importance of craftsmanship and the role it plays in the broader context of art history.
+Established in the heart of Hamburg, the Museum of Art and Crafts Hamburg has become a cornerstone of the city's cultural landscape. Its commitment to the arts is evident through its extensive collection that encompasses various forms of artistic expression. The museum aims to educate and inspire, emphasizing the importance of craftsmanship and the role it plays in the broader context of art history.
 
-The museum's significance extends beyond its collections; it serves as a platform for dialogue about the relevance of art in contemporary society. By hosting exhibitions, workshops, and educational programs, the museum fosters a deeper understanding of both historical and modern artistic practices. This dedication to education and community engagement underscores the museum’s vital role in preserving cultural heritage and promoting artistic innovation.
+The museum's significance extends beyond its collections; it serves as a platform for dialogue about the relevance of art in contemporary society. By hosting exhibitions, workshops, and educational programs, the museum fosters a deeper understanding of both historical and modern artistic practices. This dedication to education and community engagement underscores the museum's vital role in preserving cultural heritage and promoting artistic innovation.
 
 Over the years, the museum has adapted to the changing tides of the art world, continually updating its exhibitions to reflect current trends and conversations within the realm of art and design. This ongoing evolution ensures that the Museum of Art and Crafts Hamburg remains relevant and exciting for visitors of all ages and backgrounds.
 
@@ -58,7 +58,7 @@ To enhance your experience, consider visiting during weekdays or earlier in the 
 
 The Museum of Art and Crafts Hamburg is situated in a culturally rich area that offers several nearby attractions:
 
-1. **Hamburg Rathaus (City Hall)**: This grand building showcases impressive architecture and is a significant symbol of the city’s governance.
+1. **Hamburg Rathaus (City Hall)**: This grand building showcases impressive architecture and is a significant symbol of the city's governance.
   
 2. **St. Michael's Church**: One of Hamburg's most famous landmarks, this baroque church features a stunning tower that offers panoramic views of the city.
 

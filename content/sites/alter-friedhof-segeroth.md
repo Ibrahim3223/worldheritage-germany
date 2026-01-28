@@ -109,7 +109,7 @@ While much of the cemetery is accessible, it is advisable to check in advance fo
 Check the official website for current information regarding entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s best to confirm on the official website. Nearby parks and cafes may provide additional amenities.
+Facilities may vary; it's best to confirm on the official website. Nearby parks and cafes may provide additional amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering that you may be walking on uneven terrain.

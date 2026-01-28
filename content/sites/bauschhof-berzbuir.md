@@ -46,7 +46,7 @@ One of the striking features of Bauschhof is its intricate woodwork, which often
 
 The construction method employed at Bauschhof also emphasizes the importance of structural integrity and adaptability. The design reflects a deep understanding of the material properties of wood, allowing for spaces that are both open and inviting while still providing the necessary support for the building's longevity. Visitors will notice that the ensemble is not only an architectural achievement but also a representation of the harmonious relationship between craftsmanship and functionality.
 
-The site’s layout and features encourage exploration, with various vantage points that allow for a comprehensive appreciation of its design. As one strolls through the area, the sense of history and the skill involved in such construction become palpable.
+The site's layout and features encourage exploration, with various vantage points that allow for a comprehensive appreciation of its design. As one strolls through the area, the sense of history and the skill involved in such construction become palpable.
 
 ## Visiting Information
 

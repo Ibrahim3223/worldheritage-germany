@@ -44,7 +44,7 @@ The architecture of the Evangelische Kirche is reflective of its historical and 
 
 Expect to find a classic church layout, often characterized by a nave, aisles, and possibly a chancel, which together create a sense of space conducive to worship. Stained glass windows, if present, may depict biblical scenes or abstract designs, allowing natural light to illuminate the interior in a serene manner. The use of local materials in construction typically ties the building to its geographical context, while the overall structure likely reflects the craftsmanship of the era in which it was built.
 
-The church’s interior may feature simple furnishings that enhance the worship experience, along with symbols of faith that resonate with the Protestant tradition. The ambiance within the church is likely one of tranquility, inviting visitors to reflect and engage with their spiritual selves. The surrounding area may also include outdoor spaces that contribute to the overall environment, providing a serene backdrop for contemplation.
+The church's interior may feature simple furnishings that enhance the worship experience, along with symbols of faith that resonate with the Protestant tradition. The ambiance within the church is likely one of tranquility, inviting visitors to reflect and engage with their spiritual selves. The surrounding area may also include outdoor spaces that contribute to the overall environment, providing a serene backdrop for contemplation.
 
 ## Visiting Information
 
@@ -86,7 +86,7 @@ When visiting the Evangelische Kirche, consider bringing a few essentials:
 
 - **Personal Items**: Bring a reusable water bottle and any personal items you might need during your visit.
 
-It’s also wise to check seasonal considerations, as certain events or services may be held during specific times of the year.
+It's also wise to check seasonal considerations, as certain events or services may be held during specific times of the year.
 
 ## Frequently Asked Questions
 

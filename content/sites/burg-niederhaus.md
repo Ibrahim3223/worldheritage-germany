@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Perched elegantly amidst the scenic landscape of Ederheim, Burg Niederhaus is a castle that encapsulates the essence of Germany's medieval architecture and heritage. This historic structure serves not only as a monument to the region’s past but also as a focal point for visitors seeking to immerse themselves in the rich tapestry of its history. With its commanding presence and strategic location, Burg Niederhaus stands as a reminder of the region's significance during various epochs, inviting travelers to explore its storied walls.
+Perched elegantly amidst the scenic landscape of Ederheim, Burg Niederhaus is a castle that encapsulates the essence of Germany's medieval architecture and heritage. This historic structure serves not only as a monument to the region's past but also as a focal point for visitors seeking to immerse themselves in the rich tapestry of its history. With its commanding presence and strategic location, Burg Niederhaus stands as a reminder of the region's significance during various epochs, inviting travelers to explore its storied walls.
 
 The castle's distinct architecture and historical relevance make it a must-visit site for those traversing this part of Germany. Whether you're a history enthusiast, an architecture aficionado, or simply someone looking to appreciate the beauty of ancient structures, Burg Niederhaus holds a wealth of experiences waiting to be uncovered. 
 
@@ -36,7 +36,7 @@ The history of Burg Niederhaus is intertwined with the broader narrative of the 
 
 Throughout its existence, Burg Niederhaus has witnessed various historical events that shaped the surrounding area. It likely played a role in local governance and feudal systems, becoming a center of authority and culture. The castle's enduring presence is a testament to the strategic importance of such fortifications, as they provided security against external threats while facilitating the administration of the land.
 
-While the precise timeline of its construction remains elusive, the castle’s architecture reflects the design principles prevalent in medieval Germany, emphasizing strength and durability. The structure has undergone changes and restorations, reflecting the evolving needs and influences of different eras. Today, Burg Niederhaus stands not only as a remnant of the past but also as a cultural symbol that continues to draw interest and admiration.
+While the precise timeline of its construction remains elusive, the castle's architecture reflects the design principles prevalent in medieval Germany, emphasizing strength and durability. The structure has undergone changes and restorations, reflecting the evolving needs and influences of different eras. Today, Burg Niederhaus stands not only as a remnant of the past but also as a cultural symbol that continues to draw interest and admiration.
 
 ## Architecture and Features
 
@@ -95,7 +95,7 @@ Information on guided tours may be available, so check the official website for 
 The best times to visit are during the spring and fall when the weather is mild and the landscape is particularly attractive.
 
 ### Is it wheelchair accessible?
-Accessibility details may not be specified, so it’s recommended to check the official website for information regarding wheelchair access.
+Accessibility details may not be specified, so it's recommended to check the official website for information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available, so check the official website for current procedures and pricing.

@@ -112,4 +112,4 @@ Facilities may vary; check the official website for the latest information regar
 ### What should I wear?
 Modest attire is generally recommended when visiting places of worship; comfortable shoes are advisable for exploring the synagogue and surrounding areas. 
 
-The Weisenauer Synagogue in Mainz is not just a place of worship; it is a vital part of the community’s cultural landscape, making it an important destination for visitors to explore and appreciate.
+The Weisenauer Synagogue in Mainz is not just a place of worship; it is a vital part of the community's cultural landscape, making it an important destination for visitors to explore and appreciate.

@@ -80,7 +80,7 @@ When preparing for your visit to the Historische Sammlung der Gebirgstruppe, her
 Visitors typically spend a few hours at the museum to fully appreciate the exhibits and materials on display.
 
 ### Is photography allowed?
-Check the museum’s policies regarding photography before your visit, as restrictions may apply in certain areas.
+Check the museum's policies regarding photography before your visit, as restrictions may apply in certain areas.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibitions and the history of the Gebirgstruppe.

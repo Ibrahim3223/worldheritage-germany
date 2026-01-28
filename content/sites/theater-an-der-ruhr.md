@@ -48,7 +48,7 @@ As a theater building, it emphasizes the importance of not just the performances
 
 ## Visiting Information
 
-When planning a visit to Theater an der Ruhr, it’s essential to consider your transport options to Mülheim an der Ruhr. The theater is easily accessible via public transport, including trains and buses that connect with major cities in the region. Visitors can check local schedules to ensure a smooth journey to the venue.
+When planning a visit to Theater an der Ruhr, it's essential to consider your transport options to Mülheim an der Ruhr. The theater is easily accessible via public transport, including trains and buses that connect with major cities in the region. Visitors can check local schedules to ensure a smooth journey to the venue.
 
 To make the most of your experience, it is advisable to check the official website for current information on showtimes, ticket prices, and any special events that may be taking place during your visit. The theater often hosts a variety of performances, so securing tickets in advance can enhance your experience.
 
@@ -80,7 +80,7 @@ To avoid crowds, consider attending performances during weekdays or matinee show
 
 ## Practical Information
 
-When planning your visit to Theater an der Ruhr, it’s wise to bring items that enhance your experience, such as a notebook for jotting down thoughts or reflections on the performances. Depending on the season, layering clothing may be beneficial, as theater environments can vary in temperature.
+When planning your visit to Theater an der Ruhr, it's wise to bring items that enhance your experience, such as a notebook for jotting down thoughts or reflections on the performances. Depending on the season, layering clothing may be beneficial, as theater environments can vary in temperature.
 
 Consider checking the official website for seasonal events or special programming that may be available during your visit. This can provide additional context and opportunities to engage with the theater beyond the performances.
 
@@ -90,7 +90,7 @@ Consider checking the official website for seasonal events or special programmin
 A visit to Theater an der Ruhr typically involves attending a performance, which may last from one to three hours. Allocating additional time for pre-show activities or exploring the venue is advisable.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check with the theater before your visit, as capturing the ambiance before a show is usually permitted, while taking photos during performances may be restricted.
+Photography policies may vary. It's best to check with the theater before your visit, as capturing the ambiance before a show is usually permitted, while taking photos during performances may be restricted.
 
 ### Are there guided tours?
 Guided tours may be available, providing insights into the theater's history and architecture. Check the official website for details on scheduling and availability.

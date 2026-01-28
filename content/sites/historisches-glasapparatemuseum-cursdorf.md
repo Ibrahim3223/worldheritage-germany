@@ -100,7 +100,7 @@ When preparing for your visit to the Historisches Glasapparatemuseum Cursdorf, c
 
 - **Seasonal Considerations**: Depending on the season, weather can impact your travel plans. Check the forecast and dress accordingly, especially if you plan to explore the surrounding natural areas.
 
-- **Snacks and Refreshments**: While specifics about dining options are not mentioned, it’s wise to bring along water and a light snack, especially if you plan to spend several hours at the museum.
+- **Snacks and Refreshments**: While specifics about dining options are not mentioned, it's wise to bring along water and a light snack, especially if you plan to spend several hours at the museum.
 
 By keeping these practical considerations in mind, you can ensure a comfortable and enjoyable visit to the museum.
 

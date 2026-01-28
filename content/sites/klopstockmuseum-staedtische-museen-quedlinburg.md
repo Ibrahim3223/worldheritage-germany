@@ -28,7 +28,7 @@ image_srcset:
 
 The Klopstockmuseum, located in the historic town of Quedlinburg, Germany, serves as a dedicated homage to the life and works of the notable poet Friedrich Gottlieb Klopstock. This museum not only showcases the literary contributions of Klopstock but also encapsulates the cultural essence of the region, providing visitors with a unique glimpse into the world of 18th-century German literature. Quedlinburg, recognized for its well-preserved medieval architecture and cobblestone streets, enhances the museum's allure, making it a must-visit destination for literary enthusiasts and history buffs alike.
 
-Situated within the charming confines of a town that has witnessed centuries of cultural evolution, the Klopstockmuseum invites guests to explore the intricacies of Klopstock’s influence on German literature. The museum's collection includes personal artifacts, manuscripts, and exhibitions that reflect the poet's legacy and the broader cultural currents of his time. For visitors looking to enrich their understanding of German literary history, a trip to this museum is both enlightening and inspiring.
+Situated within the charming confines of a town that has witnessed centuries of cultural evolution, the Klopstockmuseum invites guests to explore the intricacies of Klopstock's influence on German literature. The museum's collection includes personal artifacts, manuscripts, and exhibitions that reflect the poet's legacy and the broader cultural currents of his time. For visitors looking to enrich their understanding of German literary history, a trip to this museum is both enlightening and inspiring.
 
 ## History and Significance
 
@@ -36,15 +36,15 @@ Friedrich Gottlieb Klopstock (1724-1803) is celebrated as one of the foremost fi
 
 Although specific establishment dates for the museum are not provided, its existence plays a crucial role in commemorating Klopstock's literary achievements and drawing attention to the cultural landscape of 18th-century Germany. Within the walls of this museum, visitors can connect with the spirit of Klopstock's poetry, which often explored themes of spirituality, nature, and humanity's relationship with the divine. 
 
-The museum also serves as a cultural hub, hosting various events, lectures, and exhibitions that celebrate not only Klopstock’s works but also other elements of German literature and the arts. By fostering an appreciation for literary heritage, the Klopstockmuseum contributes to the ongoing dialogue about the importance of literature in shaping cultural identity.
+The museum also serves as a cultural hub, hosting various events, lectures, and exhibitions that celebrate not only Klopstock's works but also other elements of German literature and the arts. By fostering an appreciation for literary heritage, the Klopstockmuseum contributes to the ongoing dialogue about the importance of literature in shaping cultural identity.
 
 ## Architecture and Features
 
 The Klopstockmuseum is housed in a building that reflects the architectural style of the region, complementing the historical ambiance of Quedlinburg. While specific details regarding the architectural style are not outlined, the museum's structure is consistent with the overall aesthetic of the town, characterized by half-timbered houses and medieval influences.
 
-Inside, the museum features several exhibition spaces that showcase a variety of artifacts related to Klopstock’s life and work. Visitors can expect to find original manuscripts, personal items, and curated displays that highlight the significance of his contributions to literature. The thoughtful arrangement of exhibits allows for a comprehensive understanding of Klopstock's impact on his contemporaries and subsequent generations of writers.
+Inside, the museum features several exhibition spaces that showcase a variety of artifacts related to Klopstock's life and work. Visitors can expect to find original manuscripts, personal items, and curated displays that highlight the significance of his contributions to literature. The thoughtful arrangement of exhibits allows for a comprehensive understanding of Klopstock's impact on his contemporaries and subsequent generations of writers.
 
-The museum’s layout encourages exploration, inviting visitors to immerse themselves in the literary culture of Klopstock’s era. Interactive displays and informative signage enhance the experience, making it accessible to both seasoned literary scholars and casual visitors.
+The museum's layout encourages exploration, inviting visitors to immerse themselves in the literary culture of Klopstock's era. Interactive displays and informative signage enhance the experience, making it accessible to both seasoned literary scholars and casual visitors.
 
 ## Visiting Information
 

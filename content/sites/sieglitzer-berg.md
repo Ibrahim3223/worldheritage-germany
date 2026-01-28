@@ -42,7 +42,7 @@ Over the years, Sieglitzer Berg has retained its relevance, drawing visitors who
 
 ## Architecture and Features
 
-The architectural features of Sieglitzer Berg are integral to its charm and historical significance. The park exhibits a variety of design elements that reflect the ideals of landscape architecture from the Enlightenment period. Visitors can explore the carefully curated pathways that wind through the park, revealing various vistas and scenic points that enhance one’s experience of nature.
+The architectural features of Sieglitzer Berg are integral to its charm and historical significance. The park exhibits a variety of design elements that reflect the ideals of landscape architecture from the Enlightenment period. Visitors can explore the carefully curated pathways that wind through the park, revealing various vistas and scenic points that enhance one's experience of nature.
 
 Among the notable features are the ornamental structures that blend seamlessly with the surrounding landscape. These structures often serve as focal points, inviting contemplation and admiration. The layout encourages visitors to engage with the park at a leisurely pace, as they discover hidden corners and thoughtfully designed gardens that exemplify the artistry of landscape design.
 

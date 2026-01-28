@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Einbogige Sandsteinbrücke, or the Arch Bridge of Wilschdorf, is a captivating structure that invites visitors to explore the scenic landscapes of Dürrröhrsdorf-Dittersbach in Germany. This bridge, notable for its architectural form and craftsmanship, serves not only as a functional passage but also as a historical landmark that reflects the engineering prowess of its time. Situated at coordinates 51.049418941, 13.99665548, it offers a glimpse into the region’s heritage and invites exploration of the surrounding natural beauty.
+The Einbogige Sandsteinbrücke, or the Arch Bridge of Wilschdorf, is a captivating structure that invites visitors to explore the scenic landscapes of Dürrröhrsdorf-Dittersbach in Germany. This bridge, notable for its architectural form and craftsmanship, serves not only as a functional passage but also as a historical landmark that reflects the engineering prowess of its time. Situated at coordinates 51.049418941, 13.99665548, it offers a glimpse into the region's heritage and invites exploration of the surrounding natural beauty.
 
 As you approach the bridge, you will find yourself immersed in a tranquil setting characterized by lush greenery and gentle hills, making it a serene spot for relaxation and reflection. The significance of this site extends beyond its physical structure; it stands as a symbol of the region's historical development and the connection between communities. Whether you are a history enthusiast, an architecture aficionado, or simply a traveler seeking picturesque views, the Einbogige Sandsteinbrücke promises an enriching experience.
 

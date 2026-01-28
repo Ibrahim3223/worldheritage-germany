@@ -94,7 +94,7 @@ Accessibility options should be confirmed through the official website or by con
 Ticket purchasing options may be available online, so checking the official website is recommended for current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available, but it’s advisable to confirm their location within the hall.
+Facilities such as restrooms and cafes are typically available, but it's advisable to confirm their location within the hall.
 
 ### What should I wear?
 Dress comfortably and consider the nature of the event when deciding what to wear. Casual attire is generally suitable for most occasions. 

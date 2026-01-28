@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Berlin, amidst the bustling energy of Bezirk Mitte, stands a remarkable statue created by the artist August Gaul. This statue, known as Lion, is not merely a work of art; it embodies a significant slice of German cultural heritage. The Lion captures the essence of strength and majesty, drawing visitors who are keen to explore its artistic and historical context. Situated in a vibrant urban area, the statue is easily accessible, making it an essential stop for anyone interested in the artistic expressions of the early 20th century and the evolution of public art in Germany.
 
-The Lion statue is not just a representation of its animal namesake; it reflects a time when sculpture played a vital role in public discourse and national identity. As you stand before this impressive figure, you are invited to contemplate the artistic choices that defined Gaul’s work and how they resonate with the broader cultural movements of his time. Visitors to Berlin will find that a trip to see the Lion is both an aesthetic pleasure and an opportunity to engage with Germany's rich artistic heritage.
+The Lion statue is not just a representation of its animal namesake; it reflects a time when sculpture played a vital role in public discourse and national identity. As you stand before this impressive figure, you are invited to contemplate the artistic choices that defined Gaul's work and how they resonate with the broader cultural movements of his time. Visitors to Berlin will find that a trip to see the Lion is both an aesthetic pleasure and an opportunity to engage with Germany's rich artistic heritage.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ Surrounding the statue, the space is often landscaped to complement the artwork,
 
 ## Visiting Information
 
-Visiting the Lion statue provides an opportunity to engage with an important piece of Berlin’s artistic heritage. The statue is located in Bezirk Mitte, easily accessible by public transportation. Visitors can reach the area via various modes of transit, including buses and trains that serve this central district of Berlin.
+Visiting the Lion statue provides an opportunity to engage with an important piece of Berlin's artistic heritage. The statue is located in Bezirk Mitte, easily accessible by public transportation. Visitors can reach the area via various modes of transit, including buses and trains that serve this central district of Berlin.
 
 Check the official website for current information regarding hours and potential entry fees. While the statue itself is typically accessible at all times, surrounding events or maintenance may influence access. It is advisable to allocate sufficient time for your visit, allowing for a leisurely appreciation of the statue and its surroundings. Generally, an hour should suffice to enjoy the site fully, but art lovers may wish to linger longer to soak in the details.
 
@@ -62,7 +62,7 @@ After visiting the Lion statue, consider exploring these nearby attractions to e
 
 2. **Museum Island (Museumsinsel)**: Just a short walk away, this UNESCO World Heritage site hosts several world-renowned museums, including the Pergamon Museum and the Altes Museum. It is a cultural hub that showcases art and artifacts from various civilizations.
 
-3. **Brandenburg Gate (Brandenburger Tor)**: A symbol of Berlin’s history and unity, this neoclassical monument is a must-see. It is located within a short distance and serves as a backdrop for many historical events and celebrations.
+3. **Brandenburg Gate (Brandenburger Tor)**: A symbol of Berlin's history and unity, this neoclassical monument is a must-see. It is located within a short distance and serves as a backdrop for many historical events and celebrations.
 
 4. **Tiergarten Park**: A beautiful urban park that offers a tranquil escape from the city's hustle and bustle. Stroll through its pathways, enjoy the greenery, and perhaps find a spot for a picnic.
 
@@ -72,7 +72,7 @@ After visiting the Lion statue, consider exploring these nearby attractions to e
 
 To make the most of your visit to the Lion statue, consider these insider tips:
 
-- **Photography**: The Lion statue offers numerous opportunities for photography, especially during the golden hour when the light is soft. Experiment with different angles to capture the statue’s intricate details.
+- **Photography**: The Lion statue offers numerous opportunities for photography, especially during the golden hour when the light is soft. Experiment with different angles to capture the statue's intricate details.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, visit early in the morning or during the week. Midday on weekends tends to attract larger crowds, which may hinder your ability to appreciate the statue fully.
 

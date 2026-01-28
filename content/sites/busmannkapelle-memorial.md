@@ -80,7 +80,7 @@ To avoid larger crowds, consider visiting on weekdays rather than weekends. This
 
 When visiting the Busmannkapelle Memorial, it is advisable to bring along a few essentials. Comfortable walking shoes are recommended, as exploring the memorial and surrounding areas may involve some walking. Additionally, a bottle of water and a light snack can enhance your visit, especially if you plan to spend time reflecting at the site.
 
-Seasonal considerations may also play a role in your visit. The memorial can be enjoyed year-round, but weather conditions may influence your experience. Spring and early autumn often provide pleasant weather for outdoor activities, while winter can add a unique charm to the memorial’s atmosphere.
+Seasonal considerations may also play a role in your visit. The memorial can be enjoyed year-round, but weather conditions may influence your experience. Spring and early autumn often provide pleasant weather for outdoor activities, while winter can add a unique charm to the memorial's atmosphere.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ Seasonal considerations may also play a role in your visit. The memorial can be 
 A visit to the Busmannkapelle Memorial typically takes about an hour, allowing time for reflection and exploration of the site.
 
 ### Is photography allowed?
-Photography is generally permitted at the memorial, but it’s best to be respectful of the space and the sentiments of other visitors.
+Photography is generally permitted at the memorial, but it's best to be respectful of the space and the sentiments of other visitors.
 
 ### Are there guided tours?
 Currently, guided tours may not be available specifically for the memorial. However, local tours of Dresden often include significant sites that provide context about the memorial.

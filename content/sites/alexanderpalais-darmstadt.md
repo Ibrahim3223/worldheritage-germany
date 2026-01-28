@@ -38,7 +38,7 @@ The history of Alexanderpalais is intertwined with the broader narrative of Darm
 
 Throughout its existence, Alexanderpalais has served various functions, adapting to the changing needs of the society around it. The palace has been a witness to significant events and transformations in Darmstadt, contributing to its identity as a center of culture and governance. The importance of the Alexanderpalais is not only in its physical structure but also in its ability to embody the social and political dynamics of the era it represents.
 
-The palace is part of a broader heritage that includes other historical sites in Darmstadt, making it a critical component of the city’s cultural landscape. Its preservation allows for continued appreciation of the historical narratives that shaped Darmstadt and provides a space for reflection on the past.
+The palace is part of a broader heritage that includes other historical sites in Darmstadt, making it a critical component of the city's cultural landscape. Its preservation allows for continued appreciation of the historical narratives that shaped Darmstadt and provides a space for reflection on the past.
 
 ## Architecture and Features
 

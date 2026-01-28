@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Ursulinenkloster Straubing, located in the heart of Straubing, Bavaria, is a striking example of monastic heritage that intertwines spirituality and community service. This monastery, dedicated to the Order of Saint Ursula, has played a vital role in the region’s cultural and educational history. As a place of worship and learning, it offers visitors a glimpse into the life of the Ursuline nuns who dedicated their lives to education and social work. With its historical significance and serene ambiance, Ursulinenkloster Straubing invites exploration and reflection, making it a meaningful destination for those interested in both history and spirituality.
+The Ursulinenkloster Straubing, located in the heart of Straubing, Bavaria, is a striking example of monastic heritage that intertwines spirituality and community service. This monastery, dedicated to the Order of Saint Ursula, has played a vital role in the region's cultural and educational history. As a place of worship and learning, it offers visitors a glimpse into the life of the Ursuline nuns who dedicated their lives to education and social work. With its historical significance and serene ambiance, Ursulinenkloster Straubing invites exploration and reflection, making it a meaningful destination for those interested in both history and spirituality.
 
 The monastery is situated at coordinates 48.883888888, 12.573611111, placing it conveniently within the scenic landscape of Bavaria, known for its rich cultural landmarks. The serene environment surrounding the monastery enhances its appeal, offering a peaceful retreat from the hustle and bustle of modern life. Visitors can expect to engage with the site's profound historical narratives while appreciating its architectural beauty.
 
 ## History and Significance
 
-The Ursulinenkloster Straubing has deep roots as a center of education and religious life. Founded as part of the Ursuline order, which originated in the early 16th century, the monastery reflects the values of the Catholic Church’s commitment to education, particularly for young women. The Ursulines were known for their innovative approaches to teaching, emphasizing the importance of moral and spiritual development alongside academic learning. 
+The Ursulinenkloster Straubing has deep roots as a center of education and religious life. Founded as part of the Ursuline order, which originated in the early 16th century, the monastery reflects the values of the Catholic Church's commitment to education, particularly for young women. The Ursulines were known for their innovative approaches to teaching, emphasizing the importance of moral and spiritual development alongside academic learning. 
 
 Throughout its history, the monastery has adapted to the changing social and political landscapes of Bavaria. It has served various functions, including providing refuge and support during tumultuous periods. The commitment of the Ursuline nuns to social work and education has left an indelible mark on the community, contributing to the development of local education systems and supporting countless families over the centuries. 
 
-The monastery’s influence extends beyond its walls; it has been an integral part of the broader cultural and religious narrative of the region. Its historical significance is intertwined with the evolution of women's roles in education and religious life, making it a noteworthy site for those interested in the progression of these themes in history.
+The monastery's influence extends beyond its walls; it has been an integral part of the broader cultural and religious narrative of the region. Its historical significance is intertwined with the evolution of women's roles in education and religious life, making it a noteworthy site for those interested in the progression of these themes in history.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ The surrounding grounds are equally significant, designed to promote a sense of 
 
 ## Visiting Information
 
-Visiting the Ursulinenkloster Straubing offers a unique opportunity to immerse oneself in the tranquil atmosphere of a working monastery. Travelers can reach the site using various modes of transportation, including public transit and private vehicles. The monastery’s location in Straubing makes it accessible for day trips from nearby cities or as part of a longer exploration of Bavaria.
+Visiting the Ursulinenkloster Straubing offers a unique opportunity to immerse oneself in the tranquil atmosphere of a working monastery. Travelers can reach the site using various modes of transportation, including public transit and private vehicles. The monastery's location in Straubing makes it accessible for day trips from nearby cities or as part of a longer exploration of Bavaria.
 
 While specific visiting hours and ticket prices may vary, it is advisable to check the official website for current information before planning your visit. Expect to spend approximately one to two hours exploring the site, allowing ample time to appreciate the architecture, gardens, and the peaceful ambiance that the monastery offers. 
 
@@ -62,7 +62,7 @@ While visiting the Ursulinenkloster Straubing, there are several nearby attracti
    
 2. **Straubing City Center**: The heart of Straubing offers charming streets filled with shops, cafes, and restaurants, perfect for a leisurely stroll.
 
-3. **Bavarian Forest National Park**: A bit further afield, this national park provides a stunning natural landscape for hiking and outdoor activities, showcasing Bavaria’s natural beauty.
+3. **Bavarian Forest National Park**: A bit further afield, this national park provides a stunning natural landscape for hiking and outdoor activities, showcasing Bavaria's natural beauty.
 
 4. **Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik**: Located in Munich, this museum is dedicated to the history of science and technology, offering a fascinating complement to your visit.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When visiting Ursulinenkloster Straubing, it’s advisable to bring comfortable walking shoes, as exploring the monastery grounds may involve some walking. Depending on the season, layers of clothing can be helpful, as the weather in Bavaria can be variable. 
+When visiting Ursulinenkloster Straubing, it's advisable to bring comfortable walking shoes, as exploring the monastery grounds may involve some walking. Depending on the season, layers of clothing can be helpful, as the weather in Bavaria can be variable. 
 
 If you plan to spend time outdoors, consider bringing a water bottle and light snacks, especially if visiting during warmer months when you might want to enjoy a picnic in the gardens. 
 

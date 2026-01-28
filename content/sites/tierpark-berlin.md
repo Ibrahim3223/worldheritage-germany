@@ -42,7 +42,7 @@ Educational programs are also central to Tierpark Berlin's mission. The zoo enga
 
 Tierpark Berlin is characterized by its thoughtfully designed exhibits that prioritize animal welfare and visitor experience. The layout of the zoo allows for spacious habitats that replicate the natural environments of the animals housed there. Each area is carefully crafted to provide the animals with a sense of security and comfort while offering visitors an engaging way to observe them up close.
 
-One notable feature of Tierpark Berlin is its expansive landscape, which encompasses lush greenery and walking paths that meander through various animal enclosures. The zoo’s design facilitates a seamless blend of natural beauty with educational opportunities. Visitors can expect to encounter a diverse range of species, including large mammals, birds, and reptiles, each in environments that reflect their native habitats.
+One notable feature of Tierpark Berlin is its expansive landscape, which encompasses lush greenery and walking paths that meander through various animal enclosures. The zoo's design facilitates a seamless blend of natural beauty with educational opportunities. Visitors can expect to encounter a diverse range of species, including large mammals, birds, and reptiles, each in environments that reflect their native habitats.
 
 The architecture within the zoo is designed not only for aesthetic appeal but also for functionality and sustainability. This commitment to thoughtful design allows for both the comfort of the animals and the enjoyment of the visitors. The exhibits often include interactive elements, encouraging guests to engage with and learn about the animals in a hands-on manner.
 
@@ -50,7 +50,7 @@ The architecture within the zoo is designed not only for aesthetic appeal but al
 
 Visiting Tierpark Berlin is an experience that can take several hours, depending on your level of interest and engagement with the exhibits. To fully appreciate the diversity of wildlife and the various educational opportunities, it is recommended to allocate a significant portion of your day to exploring the zoo.
 
-Transport options to Tierpark Berlin are diverse, making it easily accessible from various parts of the city. Visitors can utilize public transportation, including buses and trams, which connect the zoo to central Berlin. For those driving, there are parking facilities available, but it’s advisable to verify availability in advance.
+Transport options to Tierpark Berlin are diverse, making it easily accessible from various parts of the city. Visitors can utilize public transportation, including buses and trams, which connect the zoo to central Berlin. For those driving, there are parking facilities available, but it's advisable to verify availability in advance.
 
 Check the official website for current information about hours and ticket prices, as these can vary throughout the year. The best times to visit generally coincide with mild weather, as animals are more active and the outdoor exhibits are most enjoyable. Early mornings or late afternoons during weekdays can also be ideal for avoiding larger crowds.
 

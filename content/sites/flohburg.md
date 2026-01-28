@@ -32,7 +32,7 @@ As you enter Flohburg, you are greeted by an array of displays that showcase the
 
 ## History and Significance
 
-Flohburg's historical significance is intertwined with the broader narrative of Nordhausen, a city that has witnessed various transformations over the centuries. Although specific dates and events are not detailed, the museum’s collection reflects a timeline of cultural and social shifts in the area. The artifacts on display provide insights into the daily lives of the people who have inhabited this region, showcasing their traditions, struggles, and advancements.
+Flohburg's historical significance is intertwined with the broader narrative of Nordhausen, a city that has witnessed various transformations over the centuries. Although specific dates and events are not detailed, the museum's collection reflects a timeline of cultural and social shifts in the area. The artifacts on display provide insights into the daily lives of the people who have inhabited this region, showcasing their traditions, struggles, and advancements.
 
 The museum plays a crucial role in preserving the local heritage, offering visitors an opportunity to connect with the past. It serves as a reminder of the interplay between history and community, emphasizing the importance of cultural preservation in an ever-evolving world. By fostering an understanding of the local identity, Flohburg contributes to a greater appreciation of Germany's diverse historical landscape.
 
@@ -44,7 +44,7 @@ Flohburg's architectural design complements its role as a museum, providing a we
 
 Inside, the museum features various galleries dedicated to different aspects of local history. Each gallery is curated to tell a specific story, allowing visitors to engage with the exhibits in a meaningful way. Notable features may include interactive displays or artifacts that invite exploration and contemplation, fostering an immersive experience for those who visit.
 
-The museum’s design also emphasizes accessibility, making it easier for all visitors to navigate through the exhibits. Whether you are an art aficionado or a casual observer, the architectural essence of Flohburg enhances the overall experience.
+The museum's design also emphasizes accessibility, making it easier for all visitors to navigate through the exhibits. Whether you are an art aficionado or a casual observer, the architectural essence of Flohburg enhances the overall experience.
 
 ## Visiting Information
 
@@ -104,7 +104,7 @@ Visiting during weekdays or early in the day can help you avoid larger crowds.
 Flohburg is generally designed to accommodate visitors with mobility challenges. Check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary. It’s advisable to check the official website for current information regarding online ticket sales.
+Ticket purchasing options may vary. It's advisable to check the official website for current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are typically available onsite. For the most accurate information, check the official website before your visit.

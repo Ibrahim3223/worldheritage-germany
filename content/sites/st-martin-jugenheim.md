@@ -58,7 +58,7 @@ The best times to visit St. Martin typically include weekdays or early mornings 
 
 When visiting St. Martin in Jugenheim, consider exploring these nearby attractions to enrich your experience:
 
-1. **Jugenheim Village Center**: The heart of the village, where you can find charming shops, local cafés, and the essence of Jugenheim’s community life.
+1. **Jugenheim Village Center**: The heart of the village, where you can find charming shops, local cafés, and the essence of Jugenheim's community life.
 
 2. **Bodenheim**: A neighboring town known for its picturesque streets and historical architecture, offering a pleasant stroll and a glimpse into local traditions.
 
@@ -70,7 +70,7 @@ When visiting St. Martin in Jugenheim, consider exploring these nearby attractio
 
 ## Insider Tips
 
-For photography enthusiasts, St. Martin offers numerous opportunities to capture its beauty. Early mornings or late afternoons often provide the best natural lighting, enhancing the visual appeal of the church’s architecture. Be respectful of the worshippers and quiet moments when taking photos inside.
+For photography enthusiasts, St. Martin offers numerous opportunities to capture its beauty. Early mornings or late afternoons often provide the best natural lighting, enhancing the visual appeal of the church's architecture. Be respectful of the worshippers and quiet moments when taking photos inside.
 
 To avoid larger crowds, consider visiting on weekdays or during off-peak seasons. This will not only provide a more peaceful experience but also allow for deeper engagement with the site.
 

@@ -59,7 +59,7 @@ The best times to visit Burg Müddersheim are during the spring and early autumn
 While exploring Burg Müddersheim, there are several nearby attractions worth visiting:
 
 1. **Vettweiß Town Center**: A charming area featuring local shops, cafes, and historical buildings that reflect the character of the town.
-2. **St. John’s Church**: An architectural landmark with beautiful stained glass windows, offering insight into the region's religious heritage.
+2. **St. John's Church**: An architectural landmark with beautiful stained glass windows, offering insight into the region's religious heritage.
 3. **The Vettweiß Museum**: A small museum that showcases local history and culture, providing a deeper understanding of the area.
 4. **Auerbach Castle**: Another nearby castle that adds to the rich historical context of the region, offering additional exploration opportunities.
 5. **Local Parks and Nature Trails**: Engage with the natural beauty surrounding Vettweiß through its parks and walking paths, perfect for a leisurely stroll.

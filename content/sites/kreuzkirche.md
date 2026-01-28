@@ -3,7 +3,7 @@ title: "Kreuzkirche"
 site_name: "Kreuzkirche"
 date: 2026-01-26
 draft: false
-description: "Kreuzkirche, located in the heart of Dresden, Germany, is a church building that holds a prominent place in the city’s cultural and architectural landscape."
+description: "Kreuzkirche, located in the heart of Dresden, Germany, is a church building that holds a prominent place in the city's cultural and architectural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Kreuzkirche, located in the heart of Dresden, Germany, is a church building that holds a prominent place in the city’s cultural and architectural landscape. This remarkable structure not only serves as a place of worship but also as a historical landmark that reflects the evolution of Dresden through the ages. With its striking architecture and vibrant community life, Kreuzkirche invites visitors to explore its rich heritage and significance in the region. 
+Kreuzkirche, located in the heart of Dresden, Germany, is a church building that holds a prominent place in the city's cultural and architectural landscape. This remarkable structure not only serves as a place of worship but also as a historical landmark that reflects the evolution of Dresden through the ages. With its striking architecture and vibrant community life, Kreuzkirche invites visitors to explore its rich heritage and significance in the region. 
 
 Dresden itself is known for its stunning Baroque architecture and artistic legacy, making it a hub for heritage tourism. Kreuzkirche stands as an essential part of this narrative, drawing both locals and tourists alike who wish to experience its unique ambiance. Visitors to this church will find a space that embodies the spiritual and cultural life of the city, making it a must-see for anyone exploring Dresden.
 
 ## History and Significance
 
-Kreuzkirche holds a significant place in Dresden’s history, reflecting the architectural and cultural developments that have taken place in the region. While specific dates may not be available, the church's construction and subsequent renovations have contributed to its status as a central religious site for the local community. 
+Kreuzkirche holds a significant place in Dresden's history, reflecting the architectural and cultural developments that have taken place in the region. While specific dates may not be available, the church's construction and subsequent renovations have contributed to its status as a central religious site for the local community. 
 
 Over the years, Kreuzkirche has served not only as a religious venue but also as a site for important cultural events. It has witnessed the changing tides of history, including the impact of the Second World War, which led to substantial destruction in Dresden. The church has been a focal point for the city's resilience, symbolizing hope and renewal in the face of adversity.
 
@@ -82,7 +82,7 @@ It is also a good idea to bring a small bag for personal items, and be mindful o
 A visit to Kreuzkirche typically takes about an hour, though you may want to spend more time if attending a service or concert.
 
 ### Is photography allowed?
-Photography is usually permitted inside the church, but it’s advisable to be respectful of the worshippers and the sacred space.
+Photography is usually permitted inside the church, but it's advisable to be respectful of the worshippers and the sacred space.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available, as this can enhance your understanding of the church's history and architecture.

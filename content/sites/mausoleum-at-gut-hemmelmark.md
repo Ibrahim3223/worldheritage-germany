@@ -54,7 +54,7 @@ Check the official website for current information regarding hours of operation 
 
 The best times to visit may vary, but early mornings or late afternoons can offer a more peaceful experience, allowing visitors to fully appreciate the ambiance of the site without the distractions of larger crowds. 
 
-Visitors should be prepared for a serene environment, where the focus is on remembrance and historical appreciation. The mausoleum’s location in a quiet area adds to its charm and makes it a contemplative space.
+Visitors should be prepared for a serene environment, where the focus is on remembrance and historical appreciation. The mausoleum's location in a quiet area adds to its charm and makes it a contemplative space.
 
 ## Nearby Attractions
 
@@ -101,7 +101,7 @@ Information regarding guided tours may vary, so check the official website for d
 Early mornings or late afternoons are recommended for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s best to check the official website for current information.
+Accessibility details are not specified, so it's best to check the official website for current information.
 
 ### Can I buy tickets online?
 For ticket purchasing options, check the official website for current information.

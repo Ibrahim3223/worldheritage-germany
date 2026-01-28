@@ -52,7 +52,7 @@ Palmengarten is more than just a collection of plants; it is an immersive experi
 
 ## Visiting Information
 
-Visiting Palmengarten offers a unique opportunity to engage with nature and learn about plant diversity. The garden is conveniently located in Frankfurt, making it easily accessible by public transport. Visitors can take advantage of the city’s extensive transportation network to reach the garden. 
+Visiting Palmengarten offers a unique opportunity to engage with nature and learn about plant diversity. The garden is conveniently located in Frankfurt, making it easily accessible by public transport. Visitors can take advantage of the city's extensive transportation network to reach the garden. 
 
 Check the official website for current information about opening hours and admission prices, as these may vary throughout the year. Generally, allocating a few hours for your visit is advisable, as this allows ample time to explore the various themed areas and enjoy the serene environment.
 
@@ -70,13 +70,13 @@ While visiting Palmengarten, there are several nearby attractions that can enhan
 
 3. **Goethe University**: The university campus is not only an educational institution but also features beautiful architecture and green spaces, making it a pleasant area to explore.
 
-4. **Palmengarten’s Café**: Within the garden, this café provides a lovely spot for refreshments, offering a selection of snacks and beverages to enjoy amidst the flora.
+4. **Palmengarten's Café**: Within the garden, this café provides a lovely spot for refreshments, offering a selection of snacks and beverages to enjoy amidst the flora.
 
 5. **Grüneburgpark**: Adjacent to Palmengarten, this park is ideal for a leisurely walk or a picnic, providing additional green space in the heart of the city.
 
 ## Insider Tips
 
-For the best photographic opportunities, consider visiting early in the morning when the light is soft and the gardens are less crowded. Early visits also allow you to capture the tranquility of the garden before the day’s activities begin. 
+For the best photographic opportunities, consider visiting early in the morning when the light is soft and the gardens are less crowded. Early visits also allow you to capture the tranquility of the garden before the day's activities begin. 
 
 To avoid larger crowds, especially on weekends, plan your visit during weekdays or consider off-peak hours. This will enhance your experience as you can enjoy the serene atmosphere and take your time exploring the various sections of the garden.
 

@@ -52,7 +52,7 @@ Overall, the Kleiner Leuchtturm encapsulates the essence of a traditional lighth
 
 Visiting the Kleiner Leuchtturm is a delightful experience for travelers seeking to appreciate both its maritime history and its scenic surroundings. To reach the lighthouse, visitors can utilize various modes of transportation available on Borkum, including bicycles or walk along the coastal paths that lead to this iconic landmark. The island is known for its bike-friendly environment, making cycling a popular choice for exploring the area.
 
-When planning a visit, it’s advisable to check the official website for current information regarding hours and any potential admission fees. The lighthouse's accessibility may vary depending on the season, so visitors should ensure they have the latest information before heading out. 
+When planning a visit, it's advisable to check the official website for current information regarding hours and any potential admission fees. The lighthouse's accessibility may vary depending on the season, so visitors should ensure they have the latest information before heading out. 
 
 Expect to spend a leisurely hour or two at the Kleiner Leuchtturm, allowing time to explore the immediate area and take photographs. The best times to visit are typically during the early morning or late afternoon when the light casts a warm glow over the landscape, enhancing the overall experience.
 
@@ -86,7 +86,7 @@ To make the most of your visit to the Kleiner Leuchtturm, consider the following
 
 When planning your visit to the Kleiner Leuchtturm, keep the following practical considerations in mind:
 
-- **What to Bring**: Dress in comfortable clothing and sturdy shoes, as exploring the area may involve walking on sandy or uneven terrain. Don’t forget to pack a camera to capture the stunning coastal scenery.
+- **What to Bring**: Dress in comfortable clothing and sturdy shoes, as exploring the area may involve walking on sandy or uneven terrain. Don't forget to pack a camera to capture the stunning coastal scenery.
 
 - **Seasonal Considerations**: The weather on Borkum can be variable, so check the forecast before your visit. Dressing in layers is advisable, as the coastal winds can be brisk, particularly during spring and autumn.
 

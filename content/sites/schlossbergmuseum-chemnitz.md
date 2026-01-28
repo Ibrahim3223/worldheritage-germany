@@ -86,7 +86,7 @@ Seasonal considerations include checking the weather before your visit, as this 
 A visit of approximately two to three hours is recommended to fully appreciate the exhibits and engage with any educational offerings.
 
 ### Is photography allowed?
-Photography policies can vary within the museum, so it’s best to check for signs or inquire at the entrance regarding restrictions.
+Photography policies can vary within the museum, so it's best to check for signs or inquire at the entrance regarding restrictions.
 
 ### Are there guided tours?
 While specific information about guided tours is not provided, many museums offer them. Check the official website for details on availability and scheduling.
@@ -95,7 +95,7 @@ While specific information about guided tours is not provided, many museums offe
 Weekday mornings are generally quieter, providing a more intimate experience with the exhibits. Check the official website for any special events that may attract larger crowds.
 
 ### Is it wheelchair accessible?
-Information on accessibility is not specified, so it’s advisable to check directly with the museum for accommodations and facilities available for visitors with mobility issues.
+Information on accessibility is not specified, so it's advisable to check directly with the museum for accommodations and facilities available for visitors with mobility issues.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online sales, which may facilitate easier entry.

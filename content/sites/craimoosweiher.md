@@ -74,7 +74,7 @@ To avoid peak visitor times, plan your visit during weekdays or in the early mor
 
 ## Practical Information
 
-When visiting Craimoosweiher, it’s advisable to bring essentials such as water, snacks, and comfortable walking shoes to fully enjoy the surrounding paths. Depending on the season, be prepared for varying weather conditions—layers are recommended, and a light jacket may be beneficial even during warmer months.
+When visiting Craimoosweiher, it's advisable to bring essentials such as water, snacks, and comfortable walking shoes to fully enjoy the surrounding paths. Depending on the season, be prepared for varying weather conditions—layers are recommended, and a light jacket may be beneficial even during warmer months.
 
 For those interested in spending extended periods by the lake, consider bringing a picnic blanket and a book to unwind in the serene environment. Seasonal considerations also play a role; spring and summer are ideal for enjoying the outdoors, while autumn offers a unique display of foliage.
 
@@ -99,7 +99,7 @@ Information on wheelchair accessibility is limited. It is advisable to check the
 There is no admission fee to visit Craimoosweiher; therefore, online ticket purchases are not applicable.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are not specified. It’s recommended to plan accordingly and bring your own refreshments.
+Facilities such as restrooms and cafes are not specified. It's recommended to plan accordingly and bring your own refreshments.
 
 ### What should I wear?
 Comfortable clothing suitable for outdoor activities and walking is recommended, along with appropriate footwear for the terrain. Weather conditions should also be considered when planning your attire.

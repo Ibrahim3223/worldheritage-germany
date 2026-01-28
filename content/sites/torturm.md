@@ -30,7 +30,7 @@ Torturm, an impressive gatehouse located in the quaint village of Neubrunn in Ba
 
 Situated in Unterfranken, Neubrunn is a serene locale that offers visitors a glimpse into the past while inviting exploration of its picturesque surroundings. The gatehouse is characterized by its classic architectural features, which reflect the traditional styles prevalent in the region. As visitors approach Torturm, they are greeted with a sense of curiosity and admiration for the craftsmanship that has endured through the ages.
 
-Visiting Torturm provides an opportunity not only to appreciate its cultural significance but also to explore the charming village and its nearby attractions. Whether you’re a history enthusiast or simply curious about Bavarian architecture, Torturm promises an enriching experience that connects you with the heritage of this remarkable region.
+Visiting Torturm provides an opportunity not only to appreciate its cultural significance but also to explore the charming village and its nearby attractions. Whether you're a history enthusiast or simply curious about Bavarian architecture, Torturm promises an enriching experience that connects you with the heritage of this remarkable region.
 
 ## History and Significance
 
@@ -88,7 +88,7 @@ When visiting Torturm, it's wise to prepare for your trip by considering a few p
 
 - **Seasonal Considerations**: Depending on the time of year, weather conditions can vary. Check forecasts and dress accordingly, layering for cooler days if visiting in autumn or spring.
 
-- **Accessibility**: While specific accessibility information is not provided, it is advisable to inquire about the site’s accommodations if needed.
+- **Accessibility**: While specific accessibility information is not provided, it is advisable to inquire about the site's accommodations if needed.
 
 ## Frequently Asked Questions
 

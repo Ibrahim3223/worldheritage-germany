@@ -76,7 +76,7 @@ To avoid crowds, aim for visits during weekdays, as weekends may attract more vi
 
 ## Practical Information
 
-When preparing for your visit to the Kiel Transmission Tower, it’s important to bring essentials such as water, comfortable walking shoes, and possibly a light jacket, depending on the weather. Seasonal considerations may affect your experience, so check the forecast ahead of time to ensure a pleasant visit.
+When preparing for your visit to the Kiel Transmission Tower, it's important to bring essentials such as water, comfortable walking shoes, and possibly a light jacket, depending on the weather. Seasonal considerations may affect your experience, so check the forecast ahead of time to ensure a pleasant visit.
 
 Since the tower is situated in an urban area, facilities such as restrooms and cafes may be available nearby. However, specific amenities surrounding the tower are not detailed, so it can be helpful to explore the area for additional comforts during your visit.
 

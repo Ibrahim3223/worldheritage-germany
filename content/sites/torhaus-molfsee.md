@@ -66,7 +66,7 @@ While visiting Torhaus Molfsee, you may want to explore several nearby attractio
 
 4. **Ratzeburg**: A picturesque town offering scenic views and historical sites, perfect for a day trip.
 
-5. **Plön Castle**: A historical castle surrounded by beautiful landscapes, providing a glimpse into the area’s noble past.
+5. **Plön Castle**: A historical castle surrounded by beautiful landscapes, providing a glimpse into the area's noble past.
 
 ## Insider Tips
 
@@ -84,7 +84,7 @@ If you plan to spend several hours at the museum, consider bringing snacks or a 
 A visit to Torhaus Molfsee can typically take a few hours, depending on your interest in the exhibits and the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for specific guidelines upon arrival.
+Photography is generally permitted, but it's always best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details and scheduling.

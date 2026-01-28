@@ -74,7 +74,7 @@ While the Landschaftsmuseum Westerwald is a highlight in Hachenburg, the surroun
 
 When visiting Landschaftsmuseum Westerwald, consider bringing a camera to capture the unique artifacts and exhibits. However, be sure to check the museum's photography policy before snapping photos. To avoid crowds, visiting during off-peak hours, such as mid-morning or late afternoon, can provide a more tranquil experience. 
 
-Engaging with the museum staff can also enhance your visit; they often possess a wealth of knowledge about the exhibits and local history. Don’t hesitate to ask questions or seek recommendations for other attractions in the area.
+Engaging with the museum staff can also enhance your visit; they often possess a wealth of knowledge about the exhibits and local history. Don't hesitate to ask questions or seek recommendations for other attractions in the area.
 
 ## Practical Information
 

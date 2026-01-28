@@ -70,13 +70,13 @@ The best times to visit are typically during weekdays or off-peak hours, which c
 
 For photography enthusiasts, Porzellanikon offers a wealth of opportunities to capture stunning images of porcelain art. However, check the museum's policies regarding photography, as restrictions may apply in certain areas. To avoid crowds, consider visiting during weekday mornings or just before closing time. This strategy can enhance your experience, allowing for more intimate engagement with the exhibits.
 
-If you're interested in participating in workshops or special events, it’s advisable to book in advance to ensure availability. Engaging in these activities can significantly enrich your visit.
+If you're interested in participating in workshops or special events, it's advisable to book in advance to ensure availability. Engaging in these activities can significantly enrich your visit.
 
 ## Practical Information
 
 When planning your visit to Porzellanikon, it is wise to bring comfortable shoes, as you may spend several hours exploring the museum. Seasonal considerations may influence your visit; for example, during winter months, be prepared for colder weather. 
 
-It’s also a good idea to check the official website for any specific guidelines regarding COVID-19 or other health measures that may be in effect during your visit. 
+It's also a good idea to check the official website for any specific guidelines regarding COVID-19 or other health measures that may be in effect during your visit. 
 
 ## Frequently Asked Questions
 

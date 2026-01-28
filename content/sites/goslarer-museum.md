@@ -82,7 +82,7 @@ To enhance your experience at Goslarer Museum, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid large crowds, consider visiting during weekdays or early in the morning. This will allow you to enjoy the exhibits with greater ease and a more intimate experience.
 
-- **Engage with Staff**: The museum staff are knowledgeable and often available to answer questions or provide insights about the exhibits. Don’t hesitate to ask for recommendations on what to see or learn more about specific artifacts.
+- **Engage with Staff**: The museum staff are knowledgeable and often available to answer questions or provide insights about the exhibits. Don't hesitate to ask for recommendations on what to see or learn more about specific artifacts.
 
 ## Practical Information
 

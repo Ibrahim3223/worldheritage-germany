@@ -76,7 +76,7 @@ To avoid crowds, try visiting on weekdays or during off-peak hours. This will al
 
 ## Practical Information
 
-When planning your visit to Kirche am Südstern, it’s advisable to bring along a few essentials. A camera is recommended for capturing the church's architectural details and the surrounding area. Comfortable walking shoes will enhance your experience as you explore the neighborhood.
+When planning your visit to Kirche am Südstern, it's advisable to bring along a few essentials. A camera is recommended for capturing the church's architectural details and the surrounding area. Comfortable walking shoes will enhance your experience as you explore the neighborhood.
 
 Seasonal considerations can also impact your visit. In warmer months, you may want to enjoy the outdoor spaces nearby, while winter visits may require appropriate clothing to stay warm. Regardless of when you choose to visit, be prepared for varying weather conditions and plan accordingly.
 
@@ -101,7 +101,7 @@ For accessibility information, please refer to the official website to confirm t
 Details regarding ticket purchases can be found on the official website.
 
 ### Are there restrooms and cafes?
-Nearby amenities may be available, but it’s advisable to check the area for specific locations.
+Nearby amenities may be available, but it's advisable to check the area for specific locations.
 
 ### What should I wear?
 Dress comfortably and appropriately for a place of worship; modest attire is usually recommended.

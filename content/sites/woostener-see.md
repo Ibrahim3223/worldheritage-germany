@@ -38,7 +38,7 @@ While specific historical details about Woostener See may not be readily availab
 
 The ecological significance of Woostener See cannot be overstated. Lakes in this region often serve as vital habitats for numerous species of birds, fish, and other wildlife. The preservation of such natural environments is essential not only for the species that inhabit them but also for the overall health of the ecosystem. This lake contributes to the biodiversity of the area, supporting both aquatic and terrestrial life forms.
 
-In addition, the lake’s surrounding landscape has likely been a part of the local human experience for generations. Whether for leisure or sustenance, Woostener See has provided a space for local inhabitants to connect with nature, engage in recreational activities, and foster community bonds. Although exact historical milestones may not be documented, the lake remains a vital part of the cultural fabric of the Goldberg region.
+In addition, the lake's surrounding landscape has likely been a part of the local human experience for generations. Whether for leisure or sustenance, Woostener See has provided a space for local inhabitants to connect with nature, engage in recreational activities, and foster community bonds. Although exact historical milestones may not be documented, the lake remains a vital part of the cultural fabric of the Goldberg region.
 
 ## Architecture and Features
 

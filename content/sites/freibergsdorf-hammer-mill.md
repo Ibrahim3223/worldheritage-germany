@@ -42,7 +42,7 @@ Moreover, the Freibergsdorf Hammer Mill contributes to the narrative of sustaina
 
 ## Architecture and Features
 
-The Freibergsdorf Hammer Mill features traditional industrial architecture that is both functional and reflective of its historical context. Visitors will find a well-preserved structure that showcases the craftsmanship of the era. The building itself is constructed using local materials, which not only emphasizes the region’s resources but also its architectural heritage.
+The Freibergsdorf Hammer Mill features traditional industrial architecture that is both functional and reflective of its historical context. Visitors will find a well-preserved structure that showcases the craftsmanship of the era. The building itself is constructed using local materials, which not only emphasizes the region's resources but also its architectural heritage.
 
 One of the most notable features of the hammer mill is the large waterwheel, which powered the machinery within. This waterwheel is a testament to the ingenuity of early industrial practices, utilizing the natural flow of water to operate heavy machinery. Inside the mill, visitors can observe the various tools and equipment that were essential for iron production, providing a tangible connection to the past.
 
@@ -76,7 +76,7 @@ While the Freibergsdorf Hammer Mill is a highlight, the area is rich with additi
 
 For those planning a visit, consider timing your arrival to avoid peak hours, especially during weekends or holidays when the museum may experience larger crowds. Early mornings or late afternoons tend to be quieter, allowing for a more intimate experience with the exhibits.
 
-Photography enthusiasts should be aware that some areas may have restrictions on photography. Observing signage regarding photography is important to preserve the integrity of the museum’s exhibits.
+Photography enthusiasts should be aware that some areas may have restrictions on photography. Observing signage regarding photography is important to preserve the integrity of the museum's exhibits.
 
 Dress comfortably, as you may be walking through both indoor and outdoor spaces. Layers are recommended, especially in cooler months, as temperatures can vary within the historic structures.
 

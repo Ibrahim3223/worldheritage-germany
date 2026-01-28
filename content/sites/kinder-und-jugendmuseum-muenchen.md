@@ -48,7 +48,7 @@ As you explore the museum, look for specific installations or exhibits that may 
 
 ## Visiting Information
 
-Visiting the Kinder- und Jugendmuseum München is a straightforward experience, conveniently located in a central area of Munich. For those using public transport, the city offers an extensive network of buses and trains, making it easy to reach the museum. Parking may be available nearby, but it’s advisable to check local regulations and availability.
+Visiting the Kinder- und Jugendmuseum München is a straightforward experience, conveniently located in a central area of Munich. For those using public transport, the city offers an extensive network of buses and trains, making it easy to reach the museum. Parking may be available nearby, but it's advisable to check local regulations and availability.
 
 Before planning your visit, check the official website for current information regarding hours and ticket prices. The museum typically welcomes visitors of all ages, with programs tailored to different age groups, offering a chance for families to engage in meaningful activities together.
 
@@ -62,9 +62,9 @@ While the Kinder- und Jugendmuseum München is a delightful destination, there a
 
 2. **Theresienwiese**: This vast open space is known for hosting the Oktoberfest, but it also serves as a great area for picnics and leisure activities when events are not taking place.
 
-3. **Sendlinger Tor**: A historic city gate that provides a glimpse into Munich’s past, this landmark is surrounded by shops and cafes, perfect for a leisurely stroll.
+3. **Sendlinger Tor**: A historic city gate that provides a glimpse into Munich's past, this landmark is surrounded by shops and cafes, perfect for a leisurely stroll.
 
-4. **St. Paul’s Church**: A beautiful church located in the vicinity, known for its stunning architecture and serene atmosphere. 
+4. **St. Paul's Church**: A beautiful church located in the vicinity, known for its stunning architecture and serene atmosphere. 
 
 5. **Bavarian State Opera**: For those interested in the performing arts, catching a performance here can be a remarkable experience.
 
@@ -88,7 +88,7 @@ When visiting the Kinder- und Jugendmuseum München, here are some practical con
 
 - **Seasonal Considerations**: Check the weather before your visit, especially if you plan to explore nearby outdoor attractions. Munich can experience diverse weather conditions throughout the year.
 
-- **Accessibility**: The museum typically aims to be accessible for all visitors, but it’s advisable to confirm specific accessibility features on the official website.
+- **Accessibility**: The museum typically aims to be accessible for all visitors, but it's advisable to confirm specific accessibility features on the official website.
 
 ## Frequently Asked Questions
 
@@ -96,7 +96,7 @@ When visiting the Kinder- und Jugendmuseum München, here are some practical con
 Plan to spend at least two to three hours at the museum, allowing time to explore exhibits and participate in activities.
 
 ### Is photography allowed?
-Policies on photography can vary, so it’s best to check with museum staff or the official website for any restrictions.
+Policies on photography can vary, so it's best to check with museum staff or the official website for any restrictions.
 
 ### Are there guided tours?
 Check the official website for availability of guided tours, which may enhance your understanding of the exhibits.

@@ -28,7 +28,7 @@ image_srcset:
 
 Nassau Castle, an imposing structure located in the picturesque town of Nassau in the Rhineland-Palatinate region of Germany, captivates visitors with its historical significance and architectural grandeur. This medieval castle, perched on a hill, offers a glimpse into the past, showcasing the strategic importance of fortifications in the region during earlier centuries. As you approach the castle, the serene landscape surrounding Nassau enhances the sense of stepping into a different era, where the castle once served as a bastion of power and protection.
 
-The castle’s historical relevance extends beyond its walls; it played a significant role in the local power dynamics and served as a residence for various noble families. Today, Nassau Castle not only stands as a monument to the region's rich history but also attracts visitors from around the world, providing an opportunity to explore its storied past and appreciate its architectural beauty. Whether you're a history buff, an architecture enthusiast, or simply looking for a picturesque spot to visit, Nassau Castle promises to deliver a memorable experience.
+The castle's historical relevance extends beyond its walls; it played a significant role in the local power dynamics and served as a residence for various noble families. Today, Nassau Castle not only stands as a monument to the region's rich history but also attracts visitors from around the world, providing an opportunity to explore its storied past and appreciate its architectural beauty. Whether you're a history buff, an architecture enthusiast, or simply looking for a picturesque spot to visit, Nassau Castle promises to deliver a memorable experience.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Visiting Nassau Castle offers an enriching experience filled with history and sc
 
 Check the official website for current information regarding opening hours and ticket prices, as these details can vary throughout the year. Upon your arrival, expect to spend a few hours exploring the castle grounds and its historical significance. Guided tours may be available, providing deeper insights into the castle's history and architecture.
 
-The best times to visit are during the spring and early autumn, when the weather is generally mild and conducive to outdoor exploration. These seasons also tend to attract fewer crowds, allowing for a more intimate experience as you wander through the castle’s corridors and grounds.
+The best times to visit are during the spring and early autumn, when the weather is generally mild and conducive to outdoor exploration. These seasons also tend to attract fewer crowds, allowing for a more intimate experience as you wander through the castle's corridors and grounds.
 
 ## Nearby Attractions
 

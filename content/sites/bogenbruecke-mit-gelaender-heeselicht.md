@@ -38,7 +38,7 @@ While specific narratives surrounding the Bogenbrücke may not be documented, it
 
 ## Architecture and Features
 
-The architecture of the Bogenbrücke mit Geländer Heeselicht presents a striking example of bridge design, marked by its elegant curvature and functional features. The bridge’s design incorporates a distinctive arch, which not only supports the structure but also lends it a graceful appearance. This arching form is not just aesthetically pleasing; it serves a practical purpose by distributing weight efficiently, a hallmark of effective bridge engineering.
+The architecture of the Bogenbrücke mit Geländer Heeselicht presents a striking example of bridge design, marked by its elegant curvature and functional features. The bridge's design incorporates a distinctive arch, which not only supports the structure but also lends it a graceful appearance. This arching form is not just aesthetically pleasing; it serves a practical purpose by distributing weight efficiently, a hallmark of effective bridge engineering.
 
 The railings along the bridge—referred to as the "Geländer"—add an additional layer of safety while also contributing to the visual appeal of the structure. These railings, often crafted with care, can reflect the craftsmanship of local artisans and the design sensibilities of the period during which the bridge was constructed. 
 
@@ -68,7 +68,7 @@ Stolpen is home to several attractions that complement a visit to the Bogenbrüc
 
 4. **The Saxon Switzerland National Park**: A bit further afield, this national park is known for its stunning rock formations and offers extensive hiking trails for outdoor enthusiasts.
 
-5. **Local Museums**: Check out local museums that may highlight regional history and culture, enriching your understanding of the area’s heritage.
+5. **Local Museums**: Check out local museums that may highlight regional history and culture, enriching your understanding of the area's heritage.
 
 ## Insider Tips
 

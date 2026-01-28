@@ -70,7 +70,7 @@ While the Motor Technica Museum is a highlight of Bad Oeynhausen, visitors may a
 
 ## Insider Tips
 
-When visiting the Motor Technica Museum, consider bringing a camera to capture the impressive vehicles on display. However, it’s essential to check the museum's photography policy to ensure you comply with any restrictions.
+When visiting the Motor Technica Museum, consider bringing a camera to capture the impressive vehicles on display. However, it's essential to check the museum's photography policy to ensure you comply with any restrictions.
 
 To avoid crowds, aim to visit during the week or early in the day. This timing will not only enhance your experience but also provide ample opportunities to interact with exhibits without feeling rushed. 
 
@@ -78,7 +78,7 @@ If you have a particular interest in specific types of vehicles, it may be benef
 
 ## Practical Information
 
-When planning your visit to the Motor Technica Museum, it’s advisable to bring along comfortable walking shoes, as exploring the exhibits may involve a fair amount of walking. Additionally, consider checking the weather in advance, as this could influence your travel plans and experience.
+When planning your visit to the Motor Technica Museum, it's advisable to bring along comfortable walking shoes, as exploring the exhibits may involve a fair amount of walking. Additionally, consider checking the weather in advance, as this could influence your travel plans and experience.
 
 Seasonal considerations may also affect your visit; therefore, checking the official website for any events or seasonal exhibitions can enhance your experience. It's a good idea to carry a small bag for any personal items and refreshments, although you should verify the availability of facilities on-site.
 

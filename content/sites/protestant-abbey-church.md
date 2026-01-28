@@ -70,11 +70,11 @@ Hornbach itself is a charming town with several attractions that complement a vi
 
 When visiting the Protestant abbey church, photography can enhance your experience, capturing the unique architectural details and the serene atmosphere. Early morning or late afternoon light can provide excellent conditions for photography. To avoid crowds, consider visiting during weekdays or off-peak seasons.
 
-It’s also advisable to take some time for quiet reflection within the church, as well as to explore the surrounding areas at a leisurely pace to fully absorb the tranquil environment.
+It's also advisable to take some time for quiet reflection within the church, as well as to explore the surrounding areas at a leisurely pace to fully absorb the tranquil environment.
 
 ## Practical Information
 
-When visiting the Protestant abbey church, it’s wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds and nearby attractions. Depending on the season, dressing in layers can help accommodate varying weather conditions.
+When visiting the Protestant abbey church, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds and nearby attractions. Depending on the season, dressing in layers can help accommodate varying weather conditions.
 
 Additionally, consider bringing a reusable water bottle and any personal items you may need for a comfortable visit. Checking for seasonal events or special services on the official website before your visit can enhance your experience.
 
@@ -84,7 +84,7 @@ Additionally, consider bringing a reusable water bottle and any personal items y
 Visitors typically spend between one and three hours exploring the church and its surroundings, depending on personal interest.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check for any specific restrictions upon arrival.
+Photography policies can vary; it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website, providing insights into the church's history and architecture.

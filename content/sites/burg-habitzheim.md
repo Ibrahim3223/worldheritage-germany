@@ -67,7 +67,7 @@ Exploring these nearby attractions can enhance your understanding of the region 
 
 ## Insider Tips
 
-For the best photography opportunities, consider visiting Burg Habitzheim early in the morning or later in the afternoon when the sunlight casts a warm glow on the castle’s stone façade. This timing can help avoid the harsh midday light and provide a more visually pleasing scene.
+For the best photography opportunities, consider visiting Burg Habitzheim early in the morning or later in the afternoon when the sunlight casts a warm glow on the castle's stone façade. This timing can help avoid the harsh midday light and provide a more visually pleasing scene.
 
 To avoid crowds, plan your visit during weekdays rather than weekends, as weekends tend to attract more visitors. This will allow for a more personal experience and the chance to explore the castle at your own pace.
 

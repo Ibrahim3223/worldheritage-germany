@@ -56,7 +56,7 @@ Expect to spend a few hours at Büchereck to fully appreciate the natural beauty
 
 Büchereck is conveniently located near several attractions that can enhance your visit. Here are a few notable sites to consider:
 
-1. **Black Forest National Park**: A vast expanse of protected land featuring dense forests, hiking trails, and diverse wildlife. It’s an excellent place for nature lovers and outdoor enthusiasts.
+1. **Black Forest National Park**: A vast expanse of protected land featuring dense forests, hiking trails, and diverse wildlife. It's an excellent place for nature lovers and outdoor enthusiasts.
 
 2. **The Town of Offenburg**: A charming nearby town with historic architecture, shops, and local dining options, perfect for a leisurely exploration after your visit to the pass.
 
@@ -93,7 +93,7 @@ While specific guided tours may not be available at Büchereck itself, local tou
 The best time to visit Büchereck is during the spring and summer months for pleasant weather and vibrant scenery. Autumn is also beautiful with the changing leaves, while winter offers opportunities for snow-related activities.
 
 ### Is it wheelchair accessible?
-Accessibility may vary, so it’s best to check specific paths and facilities if you require assistance. Some areas may be more challenging, given the natural terrain.
+Accessibility may vary, so it's best to check specific paths and facilities if you require assistance. Some areas may be more challenging, given the natural terrain.
 
 ### Can I buy tickets online?
 Check the official website for information on any fees or tickets that may be required for specific areas or activities in the vicinity.

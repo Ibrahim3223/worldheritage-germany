@@ -32,7 +32,7 @@ As you explore the Stadtmuseum, you can expect to gain insights into Kitzingen's
 
 ## History and Significance
 
-The Stadtmuseum Kitzingen stands as an important institution for the preservation of the town's history and cultural identity. While specific founding dates and historical milestones are not detailed, the museum’s collections reflect the diverse narratives that have unfolded in Kitzingen over the years. From its early days as a settlement, Kitzingen has experienced various transformations, influenced by factors such as trade, agriculture, and the wine industry.
+The Stadtmuseum Kitzingen stands as an important institution for the preservation of the town's history and cultural identity. While specific founding dates and historical milestones are not detailed, the museum's collections reflect the diverse narratives that have unfolded in Kitzingen over the years. From its early days as a settlement, Kitzingen has experienced various transformations, influenced by factors such as trade, agriculture, and the wine industry.
 
 The museum plays a significant role in documenting the social and economic developments that have defined Kitzingen. Visitors can explore exhibitions that illuminate the town's historic significance as a trade hub, particularly during the Middle Ages when Kitzingen thrived due to its strategic location along trade routes. The museum also showcases the local wine culture, which remains a cornerstone of Kitzingen's identity today. 
 
@@ -60,7 +60,7 @@ To enhance your experience, consider visiting during special events or exhibitio
 
 After exploring the Stadtmuseum Kitzingen, there are several nearby attractions that further enrich your experience in the region:
 
-1. **Kitzingen Old Town**: Stroll through the charming streets of Kitzingen’s Old Town, where you can admire historic buildings and quaint shops.
+1. **Kitzingen Old Town**: Stroll through the charming streets of Kitzingen's Old Town, where you can admire historic buildings and quaint shops.
    
 2. **Main River Promenade**: Enjoy a leisurely walk along the Main River, where scenic views and peaceful surroundings provide a perfect backdrop for relaxation.
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Stadtmuseum Kitzingen, here are some practi
 A visit to the Stadtmuseum Kitzingen typically takes between one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary; it’s advisable to check the museum's guidelines on photography when you arrive.
+Photography policies may vary; it's advisable to check the museum's guidelines on photography when you arrive.
 
 ### Are there guided tours?
 Information on guided tours can typically be found on the official website, so check there for details on availability and scheduling.

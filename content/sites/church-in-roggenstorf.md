@@ -67,7 +67,7 @@ While visiting the Church in Roggenstorf, consider exploring nearby attractions 
 1. **Local Parks**: Enjoy the natural beauty of the surrounding area by visiting local parks, ideal for leisurely walks and outdoor relaxation.
 2. **Village Center**: Take a stroll through the village center, where you can find quaint shops and cafes, offering a taste of local culture and hospitality.
 3. **Historical Sites**: Explore other historical sites in the vicinity that may provide additional context to the region's heritage.
-4. **Culinary Experiences**: Sample local cuisine at nearby restaurants, where traditional German dishes can enhance your understanding of the area’s cultural identity.
+4. **Culinary Experiences**: Sample local cuisine at nearby restaurants, where traditional German dishes can enhance your understanding of the area's cultural identity.
 
 These nearby attractions can enrich your visit and provide a broader understanding of the cultural landscape surrounding the Church in Roggenstorf.
 

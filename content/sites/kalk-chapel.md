@@ -68,9 +68,9 @@ After visiting Kalk Chapel, consider exploring these nearby attractions:
 
 For those planning a visit to Kalk Chapel, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography is generally allowed inside chapels, it’s courteous to ask if there are any restrictions, especially during services or events.
+- **Photography**: While photography is generally allowed inside chapels, it's courteous to ask if there are any restrictions, especially during services or events.
 - **Crowd Avoidance**: If you wish to enjoy a more tranquil experience, consider visiting during the early morning or on weekdays when there are fewer visitors.
-- **Dress Respectfully**: As this is a place of worship, it’s advisable to dress modestly and respectfully during your visit.
+- **Dress Respectfully**: As this is a place of worship, it's advisable to dress modestly and respectfully during your visit.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ Seasonal considerations are also worth noting; spring and early autumn are ideal
 A visit to Kalk Chapel typically takes about 30 minutes to an hour, but if you plan to attend a service or engage with the community, consider allocating more time.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s respectful to check for any restrictions, particularly during services.
+Photography is usually permitted, but it's respectful to check for any restrictions, particularly during services.
 
 ### Are there guided tours?
 Currently, specific guided tours for Kalk Chapel are not detailed, so check the official website for any available options.
@@ -97,7 +97,7 @@ Currently, specific guided tours for Kalk Chapel are not detailed, so check the 
 Weekdays in the morning are ideal for a quieter experience, while weekends may be busier due to services and community events.
 
 ### Is it wheelchair accessible?
-Specific accessibility information is not provided, so it’s best to check the official website for details regarding wheelchair access.
+Specific accessibility information is not provided, so it's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 For current ticketing options, including online purchases, please check the official website.

@@ -36,7 +36,7 @@ The Francke Foundations were established by August Hermann Francke, a theologian
 
 The significance of the Francke Foundations extends beyond their initial educational purposes. They played a crucial role in shaping the landscape of social welfare in the 18th century. Francke's innovative approaches to education, which included practical training and moral instruction, laid the groundwork for modern educational practices. The foundations also became a center for research and development in pedagogy, contributing to the broader discourse on education during that period.
 
-Over the centuries, the Francke Foundations have adapted to the changing needs of society, continuously evolving their programs and outreach. Today, they remain committed to Francke’s vision, offering a range of educational programs, workshops, and exhibitions that highlight the importance of social responsibility and community engagement. The museum's focus on educational reform and social welfare resonates with contemporary audiences, making it an important site for those interested in the evolution of these concepts.
+Over the centuries, the Francke Foundations have adapted to the changing needs of society, continuously evolving their programs and outreach. Today, they remain committed to Francke's vision, offering a range of educational programs, workshops, and exhibitions that highlight the importance of social responsibility and community engagement. The museum's focus on educational reform and social welfare resonates with contemporary audiences, making it an important site for those interested in the evolution of these concepts.
 
 ## Architecture and Features
 

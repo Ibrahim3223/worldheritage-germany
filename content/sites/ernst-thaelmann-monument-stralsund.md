@@ -28,7 +28,7 @@ image_srcset:
 
 The Ernst Thälmann Monument in Stralsund, Germany, stands as a significant structure that encapsulates a moment in history marked by political symbolism and cultural identity. Located in the picturesque region of Mecklenburg-Vorpommern, this monument pays homage to Ernst Thälmann, a prominent leader of the German Communist Party during the early 20th century. The monument not only serves as a tribute to Thälmann's contributions but also reflects the broader historical currents of the time, particularly the social and political struggles faced in Germany.
 
-Visitors to Stralsund will find the monument situated in a location that is easily accessible, allowing for a convenient stop on a broader exploration of the city’s rich heritage. As a notable landmark, it offers insights into the ideological battles that characterized Germany's complex history, making it a compelling destination for those interested in political history and memorial architecture. The monument invites reflection on the legacy of its namesake, encouraging visitors to engage with the past and consider its implications for the present.
+Visitors to Stralsund will find the monument situated in a location that is easily accessible, allowing for a convenient stop on a broader exploration of the city's rich heritage. As a notable landmark, it offers insights into the ideological battles that characterized Germany's complex history, making it a compelling destination for those interested in political history and memorial architecture. The monument invites reflection on the legacy of its namesake, encouraging visitors to engage with the past and consider its implications for the present.
 
 ## History and Significance
 

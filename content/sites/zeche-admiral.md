@@ -86,7 +86,7 @@ Bringing along essentials such as water and snacks can enhance your experience, 
 The duration of your visit can vary based on your interest level, but typically, 2-4 hours allows for a thorough exploration.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always wise to check for specific restrictions at the site.
+Photography is generally permitted, but it's always wise to check for specific restrictions at the site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they can enhance your understanding of the site's history.
@@ -95,7 +95,7 @@ Check the official website for information on guided tours, as they can enhance 
 Weekdays may offer a quieter experience, but checking the official site for specific events or programs can also be beneficial.
 
 ### Is it wheelchair accessible?
-Check the official website for accessibility options and information regarding the site’s layout.
+Check the official website for accessibility options and information regarding the site's layout.
 
 ### Can I buy tickets online?
 For the latest information on ticket purchasing options, visit the official website.
@@ -106,4 +106,4 @@ Check the official website for amenities available on-site, including restrooms 
 ### What should I wear?
 Dress comfortably and wear sturdy shoes suitable for walking on varied surfaces. Consider layering clothing based on the season. 
 
-Zeche Admiral is a compelling site that encapsulates an important part of Germany’s industrial heritage, inviting visitors to reflect on the historical significance of mining in the Ruhr region.
+Zeche Admiral is a compelling site that encapsulates an important part of Germany's industrial heritage, inviting visitors to reflect on the historical significance of mining in the Ruhr region.

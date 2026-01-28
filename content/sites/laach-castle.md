@@ -30,7 +30,7 @@ Visitors to Laach Castle can expect an immersive experience that showcases the a
 
 Laach Castle's history is interwoven with the narrative of medieval Germany. While specific dates of construction and major events may be less documented, the castle is emblematic of the era's strategic military architecture. Originally built as a defensive structure, Laach Castle has played a crucial role in regional governance and protection throughout its existence. 
 
-The castle's construction reflects the sociopolitical climate of the time, where fortifications were essential for the safety and control of territory. Over the centuries, Laach Castle has witnessed numerous historical events, including shifts in power among local nobility and changes in territorial boundaries. Each of these transitions contributed to the castle’s evolving significance in the region.
+The castle's construction reflects the sociopolitical climate of the time, where fortifications were essential for the safety and control of territory. Over the centuries, Laach Castle has witnessed numerous historical events, including shifts in power among local nobility and changes in territorial boundaries. Each of these transitions contributed to the castle's evolving significance in the region.
 
 The cultural importance of Laach Castle extends beyond its military function. It has served as a residence, a center for local governance, and a point of community identity. The castle's architecture embodies the craftsmanship of the period, showcasing the artistic and functional design principles prevalent in medieval fortifications. 
 
@@ -94,7 +94,7 @@ The best times to visit Laach Castle are during the spring and early autumn mont
 While some areas of the castle may be accessible, check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary; it’s recommended to check the official website for current information regarding online ticket sales.
+Ticket purchasing options may vary; it's recommended to check the official website for current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site. For food options, check nearby areas or the official website for recommendations.

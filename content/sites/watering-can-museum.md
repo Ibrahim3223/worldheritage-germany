@@ -72,19 +72,19 @@ Giessen is home to several attractions that complement a visit to the Watering C
 
 To make the most of your visit to the Watering Can Museum, consider these insider tips:
 
-- **Photography**: While photography is generally allowed, it’s wise to check for any specific restrictions regarding flash photography or certain exhibits. Capturing the intricate designs of the watering cans can make for some great memories.
+- **Photography**: While photography is generally allowed, it's wise to check for any specific restrictions regarding flash photography or certain exhibits. Capturing the intricate designs of the watering cans can make for some great memories.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim for a mid-morning visit on weekdays when the museum is less likely to be busy. This will allow you to explore the exhibits at your own pace without the crowds.
 
 ## Practical Information
 
-Before heading to the Watering Can Museum, it’s important to prepare adequately for your visit. Here are some practical tips:
+Before heading to the Watering Can Museum, it's important to prepare adequately for your visit. Here are some practical tips:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you may spend a good amount of time exploring the exhibits. Additionally, bringing a water bottle can help you stay hydrated.
 
 - **Seasonal Considerations**: Depending on the time of year, consider the local weather conditions. Giessen experiences a temperate climate, so dress accordingly, especially if planning to visit the nearby Botanical Garden.
 
-- **Accessibility**: The museum is expected to be accessible, but it’s always best to confirm on the official website if you have specific mobility needs.
+- **Accessibility**: The museum is expected to be accessible, but it's always best to confirm on the official website if you have specific mobility needs.
 
 ## Frequently Asked Questions
 
@@ -92,7 +92,7 @@ Before heading to the Watering Can Museum, it’s important to prepare adequatel
 A visit to the Watering Can Museum typically takes around one to two hours, allowing ample time to explore the exhibits and engage with the educational materials.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any restrictions on specific exhibits or areas within the museum.
+Photography is generally permitted, but it's advisable to check for any restrictions on specific exhibits or areas within the museum.
 
 ### Are there guided tours?
 Information regarding guided tours may vary. Check the official website for details on availability and scheduling.

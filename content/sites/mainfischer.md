@@ -36,7 +36,7 @@ While exploring the city, Mainfischer stands as a reminder of the deep ties betw
 
 The Mainfischer statue is more than just a visually striking piece of art; it encapsulates the history and cultural significance of Offenbach. Statues often serve as memorials or representations of important figures and events, and Mainfischer is no exception. Though specific historical dates are not documented, the statue is emblematic of the region's longstanding connection to the Main River, which has played a crucial role in the city's economic and social development.
 
-The statue likely draws inspiration from the traditional riverside fishing culture that has been a part of the region for centuries. Fishermen, known as Mainfischer, have historically contributed to the local economy and community, providing sustenance and fostering social connections among residents. The statue captures this essence, symbolizing the enduring relationship between the inhabitants of Offenbach and the Main River, which remains vital to the city’s identity.
+The statue likely draws inspiration from the traditional riverside fishing culture that has been a part of the region for centuries. Fishermen, known as Mainfischer, have historically contributed to the local economy and community, providing sustenance and fostering social connections among residents. The statue captures this essence, symbolizing the enduring relationship between the inhabitants of Offenbach and the Main River, which remains vital to the city's identity.
 
 In terms of artistic expression, Mainfischer reflects the craftsmanship and creativity that have flourished in Offenbach. The statue serves not only as a focal point for local pride but also as a tribute to the artisans who have contributed to the city's rich cultural landscape. By commemorating the fishing tradition, Mainfischer invites contemplation on the broader themes of sustainability, community, and the relationship between humans and nature.
 
@@ -60,7 +60,7 @@ Visiting Mainfischer in Offenbach am Main is an experience that can easily be in
 
 As you plan your visit, check the official website for current information regarding hours and any potential entry fees. While the statue may not be behind gates, understanding local guidelines and any special events is beneficial for a smooth experience.
 
-When visiting, consider allocating time to explore the surrounding area. A short visit to Mainfischer itself may take approximately 15 to 30 minutes, depending on your interest in photography and reflection. However, to fully appreciate the cultural context, setting aside a couple of hours to wander the nearby streets and parks can enhance your understanding of Offenbach’s heritage.
+When visiting, consider allocating time to explore the surrounding area. A short visit to Mainfischer itself may take approximately 15 to 30 minutes, depending on your interest in photography and reflection. However, to fully appreciate the cultural context, setting aside a couple of hours to wander the nearby streets and parks can enhance your understanding of Offenbach's heritage.
 
 The best times to visit are typically during daylight hours when the statue is illuminated by natural light, allowing for optimal photography opportunities. Weekdays may offer a quieter atmosphere, while weekends might attract more visitors, so plan accordingly if you prefer a more tranquil experience.
 
@@ -78,7 +78,7 @@ While in Offenbach am Main, take the opportunity to explore several nearby attra
 
 5. **Mainufer**: Stroll along the banks of the Main River, where you can enjoy scenic views and perhaps catch a glimpse of local fishermen, connecting back to the theme of Mainfischer.
 
-These attractions collectively enrich your visit to Offenbach am Main, offering diverse experiences that highlight the city’s cultural and historical significance.
+These attractions collectively enrich your visit to Offenbach am Main, offering diverse experiences that highlight the city's cultural and historical significance.
 
 ## Insider Tips
 
@@ -117,7 +117,7 @@ While specific guided tours may not be available at the statue itself, local tou
 Visiting during daylight hours is recommended, with early mornings or late afternoons providing the best lighting for photography.
 
 ### Is it wheelchair accessible?
-Accessibility features are typically considered in public spaces, but it’s best to check local resources for specific information regarding wheelchair access.
+Accessibility features are typically considered in public spaces, but it's best to check local resources for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 As Mainfischer is a public statue, there is generally no entry fee, but for other nearby attractions, check the official websites for ticketing options.

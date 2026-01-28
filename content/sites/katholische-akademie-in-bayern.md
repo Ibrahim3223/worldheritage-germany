@@ -28,7 +28,7 @@ image_srcset:
 
 The Katholische Akademie in Bayern, located in the vibrant city of Munich, stands as a significant foundation dedicated to the exploration and understanding of Catholic thought and its interplay with contemporary society. As a hub for intellectual discourse, the Academy offers a platform for discussions on ethics, culture, and spirituality, making it an essential stop for those interested in the intersection of faith and modernity. The Academy's location in Munich, a city known for its rich cultural heritage and academic institutions, enhances its role as a center for learning and dialogue.
 
-With an emphasis on fostering a deeper understanding of Catholicism in today’s world, the Katholische Akademie engages with a diverse audience through lectures, workshops, and various events. Visitors are encouraged to immerse themselves in the Academy's offerings, which reflect the institution's commitment to addressing pressing social and moral issues. Whether you are a scholar, a student, or simply a curious traveler, the Katholische Akademie invites you to explore the depths of Catholic thought and its relevance in contemporary discourse.
+With an emphasis on fostering a deeper understanding of Catholicism in today's world, the Katholische Akademie engages with a diverse audience through lectures, workshops, and various events. Visitors are encouraged to immerse themselves in the Academy's offerings, which reflect the institution's commitment to addressing pressing social and moral issues. Whether you are a scholar, a student, or simply a curious traveler, the Katholische Akademie invites you to explore the depths of Catholic thought and its relevance in contemporary discourse.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ Over the years, the Academy has hosted numerous events, featuring distinguished 
 
 ## Architecture and Features
 
-The Katholische Akademie in Bayern is housed in a structure that reflects a blend of historical and contemporary architectural elements. While specific details about the building’s design are limited, the Academy’s setting in Munich underscores its connection to the city's rich architectural heritage. The infrastructure is designed to facilitate various functions, including lecture halls, meeting rooms, and spaces for reflection.
+The Katholische Akademie in Bayern is housed in a structure that reflects a blend of historical and contemporary architectural elements. While specific details about the building's design are limited, the Academy's setting in Munich underscores its connection to the city's rich architectural heritage. The infrastructure is designed to facilitate various functions, including lecture halls, meeting rooms, and spaces for reflection.
 
 Inside, visitors may find spaces that encourage dialogue and learning, equipped with resources that support educational activities and community engagement. The Academy's facilities exemplify a commitment to creating an environment conducive to thoughtful reflection and discussion, essential for the mission it upholds. The thoughtful integration of functional spaces allows for a seamless flow of activities, from lectures to informal gatherings.
 
@@ -62,7 +62,7 @@ The Katholische Akademie in Bayern is conveniently located near several notewort
 
 ## Insider Tips
 
-When visiting the Katholische Akademie, consider bringing a camera to capture the architecture and atmosphere, but check the photography policy beforehand. To avoid crowds, aim to visit during weekdays or attend events that are less popular. Engaging with the Academy’s offerings can also provide a more intimate experience, allowing for deeper connections with fellow attendees and speakers.
+When visiting the Katholische Akademie, consider bringing a camera to capture the architecture and atmosphere, but check the photography policy beforehand. To avoid crowds, aim to visit during weekdays or attend events that are less popular. Engaging with the Academy's offerings can also provide a more intimate experience, allowing for deeper connections with fellow attendees and speakers.
 
 ## Practical Information
 
@@ -96,4 +96,4 @@ Facilities including restrooms are available on-site. Cafés or dining options m
 ### What should I wear?
 Dress comfortably and appropriately for the season. If attending a formal event, consider dressing smartly to respect the occasion.
 
-By immersing yourself in the programs and activities offered at the Katholische Akademie in Bayern, you can gain valuable insights into Catholic thought and its relevance in today’s world, all while enjoying the vibrant cultural landscape of Munich.
+By immersing yourself in the programs and activities offered at the Katholische Akademie in Bayern, you can gain valuable insights into Catholic thought and its relevance in today's world, all while enjoying the vibrant cultural landscape of Munich.

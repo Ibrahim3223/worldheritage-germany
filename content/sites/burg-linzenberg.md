@@ -42,7 +42,7 @@ As you wander through the castle, the remnants of its past echo stories of the m
 
 ## Architecture and Features
 
-Burg Linzenberg showcases a blend of architectural styles that reflect the evolution of castle design over the centuries. Though specific features may vary, the castle’s structure is characterized by robust stone walls and strategic positioning that highlight its military origins. Visitors will notice the formidable battlements that once served to protect its inhabitants from invaders.
+Burg Linzenberg showcases a blend of architectural styles that reflect the evolution of castle design over the centuries. Though specific features may vary, the castle's structure is characterized by robust stone walls and strategic positioning that highlight its military origins. Visitors will notice the formidable battlements that once served to protect its inhabitants from invaders.
 
 The layout of the castle typically includes key elements such as a keep, which would have functioned as the stronghold of the castle, and various living quarters designed for both nobility and servants. The architecture often includes narrow windows that not only provided light but also served as defensive measures against any potential assailants. 
 
@@ -84,7 +84,7 @@ When exploring the castle, take your time to absorb the details of the architect
 
 ## Practical Information
 
-When preparing for your visit to Burg Linzenberg, it’s wise to bring along essentials such as water, snacks, and a camera to capture the memorable moments. Comfortable footwear is important, as the castle grounds may include uneven surfaces and require some walking.
+When preparing for your visit to Burg Linzenberg, it's wise to bring along essentials such as water, snacks, and a camera to capture the memorable moments. Comfortable footwear is important, as the castle grounds may include uneven surfaces and require some walking.
 
 Seasonal considerations should also be taken into account. During the summer months, ensure you have sun protection, while in colder months, dress in layers to accommodate fluctuating temperatures. 
 
@@ -108,7 +108,7 @@ Spring and early autumn are often considered the best times due to pleasant weat
 Accessibility options may vary; check the official website for the latest information on wheelchair access within the castle.
 
 ### Can I buy tickets online?
-To avoid long lines, it’s advisable to check the official website for information on online ticket purchasing options.
+To avoid long lines, it's advisable to check the official website for information on online ticket purchasing options.
 
 ### Are there restrooms and cafes?
 Amenities may be limited, so it's best to check the official website for details about available facilities.

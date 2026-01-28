@@ -30,7 +30,7 @@ Visitors to the museum can expect a comprehensive experience, filled with engagi
 
 The Red Cross Museum East Bavaria stands as a significant institution within the context of humanitarian history. It is part of the international Red Cross and Red Crescent Movement, founded in the 19th century by Henry Dunant. The movement was established in response to the devastating consequences of war and conflict, seeking to provide relief and aid to those affected.
 
-In Germany, the Red Cross has played a vital role in various humanitarian efforts, including disaster relief, emergency medical services, and support for vulnerable populations. The museum reflects this ongoing commitment, providing visitors with an understanding of the various facets of the organization’s work. The exhibits delve into the principles of neutrality, impartiality, and voluntary service that guide the Red Cross, emphasizing the importance of humanitarian action in times of crisis.
+In Germany, the Red Cross has played a vital role in various humanitarian efforts, including disaster relief, emergency medical services, and support for vulnerable populations. The museum reflects this ongoing commitment, providing visitors with an understanding of the various facets of the organization's work. The exhibits delve into the principles of neutrality, impartiality, and voluntary service that guide the Red Cross, emphasizing the importance of humanitarian action in times of crisis.
 
 The museum also highlights significant historical events where the Red Cross has intervened, showcasing the organization's adaptability and resilience. Through its collection, the museum illustrates how the Red Cross has responded to both global conflicts and local emergencies, reinforcing its relevance in contemporary society.
 
@@ -58,7 +58,7 @@ Nabburg is home to several points of interest that complement a visit to the Red
 
 1. **Nabburg Town Center**: Explore the charming streets of Nabburg, which feature a mix of historic buildings, shops, and cafes.
    
-2. **St. John’s Church**: A historic church in the town known for its architectural beauty and cultural significance.
+2. **St. John's Church**: A historic church in the town known for its architectural beauty and cultural significance.
 
 3. **Schloss Nabburg**: Visit this nearby castle, which offers insights into the region's history and stunning views of the surrounding area.
 
@@ -70,7 +70,7 @@ Nabburg is home to several points of interest that complement a visit to the Red
 
 To make the most of your visit to the Red Cross Museum East Bavaria, consider these insider tips:
 
-- **Photography**: Check the museum’s policies regarding photography. While some exhibits may allow photos, others may not, especially if they contain sensitive material.
+- **Photography**: Check the museum's policies regarding photography. While some exhibits may allow photos, others may not, especially if they contain sensitive material.
 
 - **Crowd Avoidance**: Aim to visit during the week and in the morning hours. This can help you avoid larger groups and provide a more personal exploration of the exhibits.
 

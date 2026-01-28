@@ -78,7 +78,7 @@ Riepenburger Mühle is situated within a region rich in cultural and natural att
 
 When visiting Riepenburger Mühle, photography enthusiasts should take advantage of the natural lighting during early morning or late afternoon for the best shots of the windmill and its surroundings. Crowds are typically lighter during weekdays, so planning your visit accordingly can enhance your experience.
 
-For a unique perspective, consider walking around the windmill to capture it from different angles, and don’t forget to explore the surrounding grounds, where the landscape can provide stunning backdrops.
+For a unique perspective, consider walking around the windmill to capture it from different angles, and don't forget to explore the surrounding grounds, where the landscape can provide stunning backdrops.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ Be sure to check for any specific visitor guidelines or safety protocols that ma
 A visit to Riepenburger Mühle typically requires a few hours to fully appreciate the site, including time for exploration and photography.
 
 ### Is photography allowed?
-Photography is generally permitted, but it is always wise to be considerate of other visitors and the site’s regulations.
+Photography is generally permitted, but it is always wise to be considerate of other visitors and the site's regulations.
 
 ### Are there guided tours?
 Check the official website for information about guided tours or educational programs that may be offered.
@@ -109,9 +109,9 @@ Accessibility information may vary; check the official website for current detai
 Check the official website for information about ticket purchasing options, including any availability for online purchases.
 
 ### Are there restrooms and cafes?
-Visitor amenities, including restrooms and cafes, may be limited; it’s advisable to check the official website for current facilities available on-site.
+Visitor amenities, including restrooms and cafes, may be limited; it's advisable to check the official website for current facilities available on-site.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather when planning your attire, as conditions can change throughout the day.
 
-In summary, Riepenburger Mühle invites visitors to explore a significant aspect of Hamburg’s heritage, offering an engaging experience that combines history, architecture, and the beauty of rural life.
+In summary, Riepenburger Mühle invites visitors to explore a significant aspect of Hamburg's heritage, offering an engaging experience that combines history, architecture, and the beauty of rural life.

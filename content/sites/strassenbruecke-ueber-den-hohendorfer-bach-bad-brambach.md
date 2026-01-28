@@ -22,7 +22,7 @@ images:
 
 The Straßenbrücke über den Hohendorfer Bach in Bad Brambach stands as a remarkable example of civil engineering within a captivating landscape. This bridge, located in the eastern part of Germany, is more than just a means to cross a stream; it serves as a connection between the rich history and natural beauty of the region. The bridge encapsulates the essence of functional design while inviting visitors to explore the surrounding environment. 
 
-Situated in the picturesque town of Bad Brambach, known for its thermal spas and natural springs, the bridge enhances the area’s charm. Visitors to the bridge can expect a tranquil experience, enhanced by the serene sound of flowing water from the Hohendorfer Bach. While the bridge itself may not be a grand architectural feat, its historical significance and the role it plays in local connectivity make it a noteworthy stop for those exploring the area.
+Situated in the picturesque town of Bad Brambach, known for its thermal spas and natural springs, the bridge enhances the area's charm. Visitors to the bridge can expect a tranquil experience, enhanced by the serene sound of flowing water from the Hohendorfer Bach. While the bridge itself may not be a grand architectural feat, its historical significance and the role it plays in local connectivity make it a noteworthy stop for those exploring the area.
 
 ## History and Significance
 
@@ -96,4 +96,4 @@ Restrooms and cafes may not be available directly at the bridge. Visitors should
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking, especially if you plan to explore the surrounding area. Weather-appropriate attire is also advisable. 
 
-In summary, a visit to the Straßenbrücke über den Hohendorfer Bach presents an opportunity to appreciate a simple yet significant structure that enhances the experience of exploring Bad Brambach. Whether you’re a history buff, an architecture enthusiast, or simply looking for a peaceful retreat, this bridge is a worthwhile stop on your journey.
+In summary, a visit to the Straßenbrücke über den Hohendorfer Bach presents an opportunity to appreciate a simple yet significant structure that enhances the experience of exploring Bad Brambach. Whether you're a history buff, an architecture enthusiast, or simply looking for a peaceful retreat, this bridge is a worthwhile stop on your journey.

@@ -84,7 +84,7 @@ When preparing for your visit to the Osnabrück Botanical Garden, consider bring
 
 - **Weather Preparedness**: Check the weather forecast before your visit and dress accordingly. Layers may be advisable, as temperatures can vary throughout the day.
 
-- **Sunscreen and Water**: If visiting during warmer months, don’t forget sunscreen and stay hydrated, especially if you plan to spend several hours exploring.
+- **Sunscreen and Water**: If visiting during warmer months, don't forget sunscreen and stay hydrated, especially if you plan to spend several hours exploring.
 
 - **Camera and Binoculars**: For nature lovers and photography enthusiasts, a camera is a must. Binoculars can also enhance your experience by allowing you to observe birds and other wildlife.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Osnabrück Botanical Garden, consider bring
 A typical visit to the Osnabrück Botanical Garden can take anywhere from two to four hours, depending on your interest in the plant collections and your desire to explore the surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally allowed in the garden. It’s a great opportunity to capture the beauty of the plants and the overall landscape.
+Yes, photography is generally allowed in the garden. It's a great opportunity to capture the beauty of the plants and the overall landscape.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as availability may vary throughout the year.

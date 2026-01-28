@@ -42,7 +42,7 @@ The lake's surroundings feature a variety of fauna and flora, enhancing its ecol
 
 Dreetzsee, as a natural lake, does not possess traditional architectural features but is rather defined by its stunning natural landscapes. The lake is characterized by its clear waters, which reflect the surrounding greenery and provide a picturesque environment for visitors. The shoreline is often fringed with trees and native vegetation, creating a harmonious blend of water and land.
 
-Visitors can explore various areas around the lake, with walking paths and spots designated for fishing and picnicking. The calm waters of Dreetzsee lend themselves to activities such as kayaking and canoeing, allowing for an intimate experience of the lake’s natural beauty. The diverse aquatic life contributes to the overall ecological system, making this lake a vital component of the Feldberger Seenlandschaft.
+Visitors can explore various areas around the lake, with walking paths and spots designated for fishing and picnicking. The calm waters of Dreetzsee lend themselves to activities such as kayaking and canoeing, allowing for an intimate experience of the lake's natural beauty. The diverse aquatic life contributes to the overall ecological system, making this lake a vital component of the Feldberger Seenlandschaft.
 
 While specific structural features are not highlighted, the natural scenery surrounding Dreetzsee is undoubtedly its main attraction. The peaceful environment provides an ideal backdrop for outdoor enthusiasts, photographers, and anyone looking to immerse themselves in nature.
 

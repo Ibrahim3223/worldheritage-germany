@@ -34,7 +34,7 @@ The museum is situated in a region known for its artistic heritage and historica
 
 The Berggruen Museum's inception is closely tied to the vision of its namesake, Heinz Berggruen, an influential art dealer and collector. His passion for modern art led to the establishment of the museum, which serves as a homage to his dedication to the promotion of significant artistic movements. The collection features a variety of artworks that span different styles and periods, showcasing masterpieces from the likes of Pablo Picasso, Henri Matisse, and Paul Klee.
 
-Culturally, the museum plays an important role in preserving and presenting modern art within a city that has long been a hub for artistic innovation. It contributes to Berlin’s reputation as a center for creativity, attracting both locals and international visitors. The museum’s focus on modern art reflects broader trends in the art world, emphasizing the importance of artistic exploration and experimentation.
+Culturally, the museum plays an important role in preserving and presenting modern art within a city that has long been a hub for artistic innovation. It contributes to Berlin's reputation as a center for creativity, attracting both locals and international visitors. The museum's focus on modern art reflects broader trends in the art world, emphasizing the importance of artistic exploration and experimentation.
 
 Additionally, the museum has undergone various transformations since its establishment. It continues to adapt to the changing landscape of art appreciation and education, ensuring that it remains relevant and accessible to a diverse audience. The Berggruen Museum not only houses art but also facilitates discussions about the role of art in society, making it a vital institution within the cultural fabric of Berlin.
 
@@ -66,7 +66,7 @@ The Berggruen Museum is situated in a culturally rich area, surrounded by severa
 
 ## Insider Tips
 
-For those looking to capture the essence of the Berggruen Museum through photography, it’s advisable to check the museum's policy on photography. Engaging with the art through your lens can enhance your experience, but be mindful of restrictions.
+For those looking to capture the essence of the Berggruen Museum through photography, it's advisable to check the museum's policy on photography. Engaging with the art through your lens can enhance your experience, but be mindful of restrictions.
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This allows for a more personal experience with the artworks and facilitates deeper engagement with the exhibits.
 

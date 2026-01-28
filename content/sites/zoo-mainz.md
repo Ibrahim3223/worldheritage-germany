@@ -52,7 +52,7 @@ Inside the zoo, expect to find amenities such as rest areas and food options. Th
 
 Zoo Mainz is situated in a region rich with attractions that can complement your visit. Here are a few nearby places to consider:
 
-1. **Mainz Cathedral**: A stunning example of Romanesque architecture, the Mainz Cathedral offers insight into the city’s rich history and is a must-see for architecture enthusiasts.
+1. **Mainz Cathedral**: A stunning example of Romanesque architecture, the Mainz Cathedral offers insight into the city's rich history and is a must-see for architecture enthusiasts.
 
 2. **Gutenberg Museum**: Dedicated to Johannes Gutenberg, the inventor of the printing press, this museum showcases the history of printing and its impact on communication.
 

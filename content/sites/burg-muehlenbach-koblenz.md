@@ -44,7 +44,7 @@ Burg Mühlenbach exhibits characteristics typical of medieval castles, with feat
 
 Inside, the layout of the castle would have included living quarters, storage rooms, and areas designated for gathering, reflecting the multi-functional use of such spaces in medieval life. The design and materials used in construction likely illustrate the craftsmanship of the time, with stonework that has endured through the centuries.
 
-Visitors can appreciate the castle’s enduring structural integrity as they explore its grounds. The features that remain stand as a testament to the architectural styles prevalent during the time of its use, inviting observers to consider the lives of those who resided there.
+Visitors can appreciate the castle's enduring structural integrity as they explore its grounds. The features that remain stand as a testament to the architectural styles prevalent during the time of its use, inviting observers to consider the lives of those who resided there.
 
 ## Visiting Information
 

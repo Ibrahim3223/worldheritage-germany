@@ -99,7 +99,7 @@ Accessibility information may vary; it is advisable to check the official websit
 Ticket purchasing options may be available online; please visit the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but dining options could be limited. It’s recommended to check ahead.
+Facilities such as restrooms may be available on-site, but dining options could be limited. It's recommended to check ahead.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, taking into account the weather and whether you plan to explore the grounds.

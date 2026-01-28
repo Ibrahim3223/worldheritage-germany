@@ -42,7 +42,7 @@ As a cave, Geißenklösterle's architecture is defined by its geological formati
 
 Inside Geißenklösterle, visitors may notice signs of ancient habitation, including areas that suggest the presence of hearths where prehistoric peoples may have gathered for warmth and cooking. The cave's dimensions and layout have made it a suitable location for both shelter and social interaction among early human communities. The natural acoustics within the cave are also noteworthy, which may have influenced the way early inhabitants communicated and interacted with their surroundings.
 
-While the cave’s interior remains largely untouched, the careful management of the site ensures that it can be appreciated without compromising its archaeological integrity. Visitors are encouraged to observe the cave's features respectfully, as they represent a link to our distant past.
+While the cave's interior remains largely untouched, the careful management of the site ensures that it can be appreciated without compromising its archaeological integrity. Visitors are encouraged to observe the cave's features respectfully, as they represent a link to our distant past.
 
 ## Visiting Information
 

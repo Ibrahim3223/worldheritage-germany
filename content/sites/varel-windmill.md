@@ -56,7 +56,7 @@ The best times to visit the Varel windmill are during the spring and summer mont
 
 ## Nearby Attractions
 
-1. **Varel Town Center**: Explore the charming streets of Varel, where you can find shops, cafes, and local markets that reflect the town’s character.
+1. **Varel Town Center**: Explore the charming streets of Varel, where you can find shops, cafes, and local markets that reflect the town's character.
 
 2. **Castle of Varel**: A short distance from the windmill, this historic castle offers insights into the region's noble heritage and architecture.
 
@@ -70,7 +70,7 @@ The best times to visit the Varel windmill are during the spring and summer mont
 
 For photography enthusiasts, the Varel windmill presents numerous opportunities for capturing stunning images. Early morning or late afternoon light can create dramatic shadows and highlights, enhancing the visual appeal of the structure. Additionally, consider exploring different angles and perspectives, including close-ups of the blades and the surrounding landscape.
 
-To avoid crowds, plan your visit during weekdays or early in the day, as weekends may draw more visitors. Engaging with staff or local historians can enrich your understanding of the windmill’s significance, providing deeper insights into its history and operation.
+To avoid crowds, plan your visit during weekdays or early in the day, as weekends may draw more visitors. Engaging with staff or local historians can enrich your understanding of the windmill's significance, providing deeper insights into its history and operation.
 
 ## Practical Information
 

@@ -74,7 +74,7 @@ If you prefer a more solitary visit, consider going on weekdays rather than week
 
 ## Practical Information
 
-When visiting the Cemetery Chapel, it is advisable to bring a camera to capture the site’s beauty. Comfortable walking shoes are recommended, especially if you plan to explore the cemetery and surrounding areas.
+When visiting the Cemetery Chapel, it is advisable to bring a camera to capture the site's beauty. Comfortable walking shoes are recommended, especially if you plan to explore the cemetery and surrounding areas.
 
 Seasonal considerations include checking the weather forecast, as conditions can vary significantly. Spring and summer often provide more favorable weather for exploration, while winter may present challenges due to cold temperatures and potential snow.
 
@@ -86,7 +86,7 @@ Be mindful of the chapel's solemn atmosphere and consider dressing respectfully,
 A visit typically lasts around one hour, allowing you time to explore the chapel and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s respectful to avoid taking photos during services or memorials.
+Photography is generally permitted, but it's respectful to avoid taking photos during services or memorials.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current information and scheduling.

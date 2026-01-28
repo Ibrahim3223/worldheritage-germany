@@ -72,7 +72,7 @@ To make the most of your visit to Simonswoldmer Kirche, consider the following i
 
 ## Practical Information
 
-When planning your visit to Simonswoldmer Kirche, it’s essential to consider a few practical aspects:
+When planning your visit to Simonswoldmer Kirche, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended for exploring the church and surrounding area. A camera can help capture the beauty of the architecture and landscape.
 - **Seasonal Considerations**: Be mindful of weather conditions, as northern Germany can experience rain and chilly temperatures, particularly in the fall and winter months. Dress in layers and bring an umbrella if visiting during these seasons.

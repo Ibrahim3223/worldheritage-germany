@@ -72,7 +72,7 @@ While visiting Zum Guten Hirten, consider exploring other nearby attractions tha
 
 When planning your visit to Zum Guten Hirten, consider the following insider tips to enhance your experience:
 
-- **Photography**: While photography may be permitted inside the church, it is always courteous to check for any restrictions or guidelines. Outside, the church’s architecture provides excellent opportunities for capturing its beauty, particularly during early morning or late afternoon when the light is softer.
+- **Photography**: While photography may be permitted inside the church, it is always courteous to check for any restrictions or guidelines. Outside, the church's architecture provides excellent opportunities for capturing its beauty, particularly during early morning or late afternoon when the light is softer.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays. Sundays may see larger crowds due to regular worship services, making it a vibrant time to experience the community but potentially less peaceful for personal reflection.
 

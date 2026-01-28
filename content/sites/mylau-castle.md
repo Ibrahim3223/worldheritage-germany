@@ -40,7 +40,7 @@ While specific dates of construction and significant events are not detailed, th
 
 Culturally, Mylau Castle has been a site of importance not just for its military function but also as a center for governance and local administration. Over the centuries, it has witnessed numerous historical events, including territorial disputes and local governance, making it a pivotal point in understanding the region's past.
 
-The castle's significance extends beyond its walls, contributing to the cultural heritage of Reichenbach im Vogtland. It stands as a reminder of the region’s medieval past, providing a connection to the customs and lifestyles of those who lived and thrived in its shadow. Visitors to Mylau Castle can appreciate its historical context while engaging with the stories that have shaped the local community.
+The castle's significance extends beyond its walls, contributing to the cultural heritage of Reichenbach im Vogtland. It stands as a reminder of the region's medieval past, providing a connection to the customs and lifestyles of those who lived and thrived in its shadow. Visitors to Mylau Castle can appreciate its historical context while engaging with the stories that have shaped the local community.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ Mylau Castle is characterized by its robust architectural style, which reflects 
 
 One of the notable features of Mylau Castle is its impressive tower, which serves as a focal point of the complex. This tower not only offered a strategic advantage for surveillance and defense but also provided a residence for the noble families who occupied the castle. The thick walls are a testament to the engineering capabilities of the period, designed to endure the challenges of warfare.
 
-Inside, visitors may find remnants of the castle’s past, including architectural elements that showcase the craftsmanship of medieval builders. Although specific interior details are not outlined, the design principles that governed its construction are evident in the layout and structural integrity of the castle.
+Inside, visitors may find remnants of the castle's past, including architectural elements that showcase the craftsmanship of medieval builders. Although specific interior details are not outlined, the design principles that governed its construction are evident in the layout and structural integrity of the castle.
 
 Overall, Mylau Castle embodies the architectural evolution of fortifications in Germany. Its design reflects a blend of practicality and aesthetic appeal, making it a significant study for those interested in medieval architecture and history.
 
@@ -100,7 +100,7 @@ Restrooms and other facilities may be limited, so planning accordingly is advisa
 A visit to Mylau Castle typically lasts a few hours, allowing ample time for exploration and appreciation of the site.
 
 ### Is photography allowed?
-Photography is generally permitted, making it a great opportunity to capture the castle’s unique features.
+Photography is generally permitted, making it a great opportunity to capture the castle's unique features.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may offer enhanced insights into the castle's history and architecture.

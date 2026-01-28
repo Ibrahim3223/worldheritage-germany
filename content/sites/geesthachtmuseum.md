@@ -42,7 +42,7 @@ In addition to its permanent collections, the museum may feature temporary exhib
 
 GeesthachtMuseum! features a structure that reflects its purpose as a center for cultural preservation and education. While specific architectural details are not provided, museums of this nature typically feature a blend of modern design with elements that nod to historical styles. This approach not only allows for the exhibition of artifacts in a way that is conducive to learning but also creates an inviting atmosphere for visitors.
 
-Inside, the layout often includes various exhibition halls that allow for a diverse range of displays, from permanent collections to temporary exhibitions. Visitors can expect to see thoughtfully curated sections that guide them through different aspects of Geesthacht’s history, each designed to engage and inform.
+Inside, the layout often includes various exhibition halls that allow for a diverse range of displays, from permanent collections to temporary exhibitions. Visitors can expect to see thoughtfully curated sections that guide them through different aspects of Geesthacht's history, each designed to engage and inform.
 
 Notable features may include interactive displays or multimedia presentations that enhance the educational experience. These elements help to make historical narratives accessible and relatable, drawing visitors into the stories of the past. The museum's design is likely intended to facilitate an immersive experience, encouraging guests to linger and explore.
 

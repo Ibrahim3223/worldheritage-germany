@@ -101,7 +101,7 @@ Information on wheelchair accessibility is not specified; check the official web
 As the cemetery is a public site, tickets are typically not required. However, check the official website for any updates or changes.
 
 ### Are there restrooms and cafes?
-Restroom facilities may not be available on-site, and there are no cafes directly at the cemetery. It’s advisable to plan ahead for refreshments.
+Restroom facilities may not be available on-site, and there are no cafes directly at the cemetery. It's advisable to plan ahead for refreshments.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Sensible shoes are recommended for walking through the cemetery grounds.

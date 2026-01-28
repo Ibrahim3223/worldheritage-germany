@@ -30,11 +30,11 @@ In the heart of Munich stands the Palastartiges Mietsgebäude, later known as Pa
 
 ## History and Significance
 
-Constructed between 1824 and 1825, the Palais Eichthal stands as a representation of the architectural ambitions of Munich during the early 19th century. Leo von Klenze, who was instrumental in shaping the city’s architectural identity, designed this building at a time when Munich was on the brink of cultural flourishing. The palace originally served as a residential building, reflecting the affluence and lifestyle of its inhabitants.
+Constructed between 1824 and 1825, the Palais Eichthal stands as a representation of the architectural ambitions of Munich during the early 19th century. Leo von Klenze, who was instrumental in shaping the city's architectural identity, designed this building at a time when Munich was on the brink of cultural flourishing. The palace originally served as a residential building, reflecting the affluence and lifestyle of its inhabitants.
 
 With the passage of time, the Palais evolved in its purpose. It transitioned from a private residence to its current role as an office and commercial building. This transformation signifies not only the changing dynamics of urban living but also illustrates how historical structures can be adapted for modern use while retaining their architectural integrity. Although much of the original structure has been altered, the façade remains a key feature, allowing visitors to appreciate the craftsmanship and style of the early 19th century.
 
-The significance of the Palais Eichthal extends beyond architecture; it is a marker of Munich's historical narrative, illustrating the city’s growth and the shifts in its social fabric. As such, it holds an essential place in the lineage of Munich’s development, embodying the aspirations and cultural ideals of its time.
+The significance of the Palais Eichthal extends beyond architecture; it is a marker of Munich's historical narrative, illustrating the city's growth and the shifts in its social fabric. As such, it holds an essential place in the lineage of Munich's development, embodying the aspirations and cultural ideals of its time.
 
 ## Architecture and Features
 
@@ -42,7 +42,7 @@ The Palastartiges Mietsgebäude is characterized by its striking façade, which 
 
 While the original interior has been modified to accommodate modern functions, the exterior remains a significant focal point. Visitors can admire the elegant lines and proportions that define the building's form. Notable features include classic elements such as pilasters, decorative cornices, and a harmonious color palette that enhances its visual appeal.
 
-The building’s design is representative of Leo von Klenze’s broader architectural philosophy, which emphasized the importance of beauty, function, and historical reference. His ability to merge these elements into a cohesive structure makes the Palais Eichthal an important study in architectural history, reflecting the transitional period in which it was built.
+The building's design is representative of Leo von Klenze's broader architectural philosophy, which emphasized the importance of beauty, function, and historical reference. His ability to merge these elements into a cohesive structure makes the Palais Eichthal an important study in architectural history, reflecting the transitional period in which it was built.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ When planning a visit, it is advisable to consider the potential for busier time
 
 2. **Frauenkirche**: This iconic church, recognizable by its twin towers, is a significant landmark in Munich and offers a glimpse into the city's religious architecture.
 
-3. **Viktualienmarkt**: A bustling market that showcases local produce, gourmet foods, and traditional Bavarian fare. It’s an excellent spot for sampling regional delicacies.
+3. **Viktualienmarkt**: A bustling market that showcases local produce, gourmet foods, and traditional Bavarian fare. It's an excellent spot for sampling regional delicacies.
 
 4. **The Residenz**: Once the royal palace of the Bavarian monarchs, this grand building is now a museum that displays art and artifacts from the royal collections.
 

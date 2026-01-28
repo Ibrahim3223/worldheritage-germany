@@ -28,7 +28,7 @@ image_srcset:
 
 Metternich Castle, located in the scenic village of Beilstein in Germany, is a captivating ruin that offers a glimpse into the region's medieval past. Perched on a hill overlooking the Moselle River, this castle invites visitors to explore its remnants while absorbing the picturesque landscapes that surround it. The site is not just a testament to historic architecture; it also holds significance for its strategic location, providing insights into the feudal dynamics of the area during its prime.
 
-Visitors to Metternich Castle can expect to delve into the echoes of history, wandering through the remnants of its walls and imagining the lives of those who once inhabited this fortification. The castle’s ruins stand as a reminder of a time when castles were crucial for defense and local governance, representing the power struggles of the noble families of the era.
+Visitors to Metternich Castle can expect to delve into the echoes of history, wandering through the remnants of its walls and imagining the lives of those who once inhabited this fortification. The castle's ruins stand as a reminder of a time when castles were crucial for defense and local governance, representing the power struggles of the noble families of the era.
 
 As you approach the site, the enchanting setting and the imposing structure invite exploration and reflection. Whether you are a history enthusiast, an architecture aficionado, or simply someone seeking a serene escape into nature, Metternich Castle promises an enriching experience.
 
@@ -44,9 +44,9 @@ The cultural importance of Metternich Castle extends beyond its architectural fe
 
 Metternich Castle, while now in ruins, still showcases elements of medieval architecture that provide insights into its original design and purpose. The remnants of thick stone walls are a testament to the construction techniques of the era, designed to withstand sieges and attacks. The castle's layout reflects typical fortification strategies, with towers and defensive walls strategically placed to provide vantage points over the surrounding landscape.
 
-Visitors can observe the traces of what were once grand halls and living quarters, where noble families would have resided. The structure may have originally included a keep, a central tower used as a residence and a last line of defense during attacks. The layout of the castle is indicative of the period’s architectural styles, with elements that suggest both practicality and a sense of grandeur.
+Visitors can observe the traces of what were once grand halls and living quarters, where noble families would have resided. The structure may have originally included a keep, a central tower used as a residence and a last line of defense during attacks. The layout of the castle is indicative of the period's architectural styles, with elements that suggest both practicality and a sense of grandeur.
 
-As you explore the ruins, you can find remnants of the castle’s former life, including the foundations of various buildings and sections of the wall that have stood the test of time. The setting of the castle is equally noteworthy, as it is perched on a hill that provides a commanding view of the Moselle River and the lush vineyards that characterize the region.
+As you explore the ruins, you can find remnants of the castle's former life, including the foundations of various buildings and sections of the wall that have stood the test of time. The setting of the castle is equally noteworthy, as it is perched on a hill that provides a commanding view of the Moselle River and the lush vineyards that characterize the region.
 
 ## Visiting Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 St. Martin Church is a notable church building located in the Marzahn-Hellersdorf district of Berlin, Germany. While the church itself may not be widely recognized on the global stage, it serves as a significant landmark within its community, representing both the spiritual heritage and architectural traditions of the region. This church not only serves as a place of worship but also as a cultural hub where local traditions and congregational activities thrive. Visitors to St. Martin Church will find a serene atmosphere that invites reflection and appreciation for its historical importance, making it a worthwhile stop for anyone interested in exploring the diverse religious architecture of Berlin.
 
-Situated in a bustling urban area, St. Martin Church offers a unique juxtaposition of tranquility amidst the city’s vibrancy. While contemporary developments surround it, the church stands as a reminder of the enduring nature of faith and community. The building’s design and function contribute to its significance in the local context, drawing visitors who seek to understand the architectural and cultural landscape of Marzahn-Hellersdorf.
+Situated in a bustling urban area, St. Martin Church offers a unique juxtaposition of tranquility amidst the city's vibrancy. While contemporary developments surround it, the church stands as a reminder of the enduring nature of faith and community. The building's design and function contribute to its significance in the local context, drawing visitors who seek to understand the architectural and cultural landscape of Marzahn-Hellersdorf.
 
 In this guide, we will delve into the history and significance of St. Martin Church, explore its architectural features, and provide essential information for those looking to visit. Whether you are a history enthusiast, an architecture aficionado, or simply in search of a peaceful place to reflect, St. Martin Church offers a unique experience that is both enriching and enlightening.
 
@@ -54,7 +54,7 @@ Visiting St. Martin Church can be a rewarding experience, offering a chance to e
 
 Transport to St. Martin Church is accessible, with several options available for reaching the church. Public transportation is commonly utilized in Berlin, and visitors can expect to find bus and tram services that connect to the Marzahn-Hellersdorf area. For those traveling by car, parking facilities may be available nearby, but it is best to check local regulations.
 
-In terms of what to expect during your visit, you may find a peaceful atmosphere conducive to reflection and prayer. Depending on the time of year, the church may host regular services or special events, providing opportunities for visitors to engage with the community. Allocating approximately an hour for your visit should allow sufficient time to appreciate the church’s interior and surroundings.
+In terms of what to expect during your visit, you may find a peaceful atmosphere conducive to reflection and prayer. Depending on the time of year, the church may host regular services or special events, providing opportunities for visitors to engage with the community. Allocating approximately an hour for your visit should allow sufficient time to appreciate the church's interior and surroundings.
 
 As for the best times to visit, weekdays may offer a quieter experience, while weekends might see more activity due to services and community events. Checking the official website can provide insights into any specific happenings during your visit.
 
@@ -68,7 +68,7 @@ St. Martin Church is situated in a vibrant district of Berlin that offers severa
 
 3. **Kienbergpark**: Adjacent to the Gardens of the World, this park is known for its scenic pathways and recreational areas, making it an excellent spot for relaxation.
 
-4. **Berlin’s Historic District**: A little further afield, visitors can explore the rich history of Berlin, including significant landmarks and museums that illustrate the city’s past.
+4. **Berlin's Historic District**: A little further afield, visitors can explore the rich history of Berlin, including significant landmarks and museums that illustrate the city's past.
 
 5. **Local Cafes and Shops**: The Marzahn-Hellersdorf area is home to various local cafes and shops, providing an opportunity to experience the local culinary scene and shop for unique souvenirs.
 

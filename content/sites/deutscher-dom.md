@@ -28,13 +28,13 @@ image_srcset:
 
 The Deutscher Dom, located in the historic Bezirk Mitte of Berlin, serves as a significant landmark that encapsulates the architectural and cultural evolution of Germany. A church building known for its striking presence, it is part of the iconic Gendarmenmarkt square, a place that attracts both locals and visitors alike. This site not only serves as a house of worship but also as a symbol of the post-reformation era and the development of religious freedom in Germany. Visitors to the Deutscher Dom can expect to engage with its rich historical narrative while appreciating its architectural grandeur.
 
-The church’s prominence in Berlin’s landscape and its connection to the city’s tumultuous history make it a must-see for anyone wanting to understand the essence of Germany’s past. The Deutscher Dom, or "German Cathedral," presents an opportunity for exploration and reflection, providing insights into the nation’s journey through various socio-political landscapes. As you walk through its doors, you step into a space where history, spirituality, and artistry converge, inviting contemplation and admiration.
+The church's prominence in Berlin's landscape and its connection to the city's tumultuous history make it a must-see for anyone wanting to understand the essence of Germany's past. The Deutscher Dom, or "German Cathedral," presents an opportunity for exploration and reflection, providing insights into the nation's journey through various socio-political landscapes. As you walk through its doors, you step into a space where history, spirituality, and artistry converge, inviting contemplation and admiration.
 
 ## History and Significance
 
 The Deutscher Dom was originally constructed in the 18th century and has undergone several transformations that reflect the dynamic history of Berlin itself. Initially designed as a Protestant church, it has served as a site for various religious activities and gatherings throughout the years. Its establishment is closely linked to the rise of the German Enlightenment and the movement towards greater religious tolerance and freedom.
 
-The church has experienced its share of trials, particularly during World War II when it suffered significant damage. However, the post-war period saw a revival effort that restored its interiors and preserved its historical importance, showcasing the resilience of Berlin’s cultural heritage. The Deutscher Dom is not only a place of worship but also a symbol of national identity, representing the Protestant ethos that influenced German culture and society.
+The church has experienced its share of trials, particularly during World War II when it suffered significant damage. However, the post-war period saw a revival effort that restored its interiors and preserved its historical importance, showcasing the resilience of Berlin's cultural heritage. The Deutscher Dom is not only a place of worship but also a symbol of national identity, representing the Protestant ethos that influenced German culture and society.
 
 In addition to its religious significance, the building has been a venue for various cultural events and exhibitions, further cementing its role in contemporary society. The church is often associated with the Deutscher Dom Foundation, which promotes the ideals of democracy and human rights, linking the past to present-day discussions.
 
@@ -48,15 +48,15 @@ The Deutscher Dom is also home to various exhibitions that delve into the themes
 
 ## Visiting Information
 
-Visiting the Deutscher Dom is an enriching experience that can be seamlessly integrated into a day of exploration in Berlin’s Mitte district. The church's location makes it easily accessible via public transportation, with several tram and bus lines operating in close proximity. Visitors are encouraged to check the official website for current information regarding hours and ticket prices, as these can vary.
+Visiting the Deutscher Dom is an enriching experience that can be seamlessly integrated into a day of exploration in Berlin's Mitte district. The church's location makes it easily accessible via public transportation, with several tram and bus lines operating in close proximity. Visitors are encouraged to check the official website for current information regarding hours and ticket prices, as these can vary.
 
-When planning your visit, it’s advisable to allocate at least an hour to fully appreciate the architecture and exhibitions. Early mornings or late afternoons tend to be less crowded, allowing for a more intimate experience within the church's serene environment. 
+When planning your visit, it's advisable to allocate at least an hour to fully appreciate the architecture and exhibitions. Early mornings or late afternoons tend to be less crowded, allowing for a more intimate experience within the church's serene environment. 
 
 While inside, guests can expect a calm atmosphere conducive to reflection. Guided tours may be available, providing deeper insights into the church's history and architecture. Check the official website for specific tour schedules and availability.
 
 ## Nearby Attractions
 
-The Deutscher Dom is situated in an area rich with cultural and historical attractions. Nearby, you’ll find:
+The Deutscher Dom is situated in an area rich with cultural and historical attractions. Nearby, you'll find:
 
 1. **Französischer Dom (French Cathedral)** - Another prominent church in Gendarmenmarkt, known for its stunning architecture and cultural events.
 2. **Konzerthaus Berlin** - A renowned concert hall showcasing a variety of musical performances, located just steps away from the Deutscher Dom.

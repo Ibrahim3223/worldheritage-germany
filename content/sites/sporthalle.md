@@ -64,13 +64,13 @@ To enhance your visit to Sporthalle, consider the following tips:
 
 - **Crowd Avoidance**: To experience the venue with fewer crowds, try attending events earlier in the week or during off-peak hours, if possible.
 
-- **Plan Ahead**: Familiarize yourself with the event schedule in advance to ensure you don’t miss out on anything of interest.
+- **Plan Ahead**: Familiarize yourself with the event schedule in advance to ensure you don't miss out on anything of interest.
 
 ## Practical Information
 
 When planning your visit to Sporthalle, consider bringing the following:
 
-- **Comfortable Clothing**: Dress appropriately for the type of event you are attending. If it’s a sporting event, comfort is key.
+- **Comfortable Clothing**: Dress appropriately for the type of event you are attending. If it's a sporting event, comfort is key.
 
 - **Seasonal Considerations**: Check the weather forecast if you plan to explore nearby attractions before or after your visit.
 

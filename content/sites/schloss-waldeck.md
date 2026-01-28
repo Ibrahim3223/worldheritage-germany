@@ -64,7 +64,7 @@ While visiting Schloss Waldeck, consider exploring these nearby attractions that
 2. **Schloss Friedrichstein**: Another historic castle nearby, offering insights into the region's noble history and architecture.
 3. **Waldeck Town**: A quaint town with charming streets, local shops, and cafes, ideal for a leisurely stroll and experiencing local life.
 4. **Wildpark Edersee**: A wildlife park showcasing native species, providing an enjoyable outing for families and nature lovers.
-5. **St. Mary’s Church**: A historic church in the area, known for its beautiful architecture and serene atmosphere.
+5. **St. Mary's Church**: A historic church in the area, known for its beautiful architecture and serene atmosphere.
 
 ## Insider Tips
 
@@ -74,7 +74,7 @@ To avoid crowds, plan your visit during weekdays or outside of peak tourist seas
 
 ## Practical Information
 
-When heading to Schloss Waldeck, it’s advisable to bring comfortable walking shoes, especially if you plan to explore the grounds and any outdoor exhibits. A camera is also recommended for capturing the beautiful architecture and landscape.
+When heading to Schloss Waldeck, it's advisable to bring comfortable walking shoes, especially if you plan to explore the grounds and any outdoor exhibits. A camera is also recommended for capturing the beautiful architecture and landscape.
 
 Seasonal considerations may affect your visit. In the warmer months, lightweight clothing is suitable, while layering is advisable during cooler seasons. Always check the weather forecast ahead of your visit to ensure you are prepared.
 

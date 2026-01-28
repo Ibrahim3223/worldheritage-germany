@@ -60,7 +60,7 @@ While visiting Bau am Ölberg, take the opportunity to explore other attractions
 
 1. **Gütighofen Historic Town Center**: Wander through the charming streets of Gütighofen, where you can admire traditional architecture and local shops, providing a glimpse into everyday life in the region.
 
-2. **Regional Museum**: Discover the local history and culture at this nearby museum, which showcases artifacts and exhibits related to the area’s heritage.
+2. **Regional Museum**: Discover the local history and culture at this nearby museum, which showcases artifacts and exhibits related to the area's heritage.
 
 3. **Nature Trails**: Surrounding the castle are scenic trails perfect for hiking or leisurely walks. Enjoy the natural beauty of the landscape while reflecting on the historical significance of your surroundings.
 

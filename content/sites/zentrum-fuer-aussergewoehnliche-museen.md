@@ -92,7 +92,7 @@ Before heading out to the Zentrum für Außergewöhnliche Museen, keep these pra
 A visit typically requires about two to three hours to fully appreciate the exhibits and activities.
 
 ### Is photography allowed?
-Check the museum’s policy regarding photography to ensure compliance with any restrictions.
+Check the museum's policy regarding photography to ensure compliance with any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for specifics regarding scheduling and availability.

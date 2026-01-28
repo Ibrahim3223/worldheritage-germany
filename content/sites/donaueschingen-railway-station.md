@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Donaueschingen railway station serves as a vital link in the extensive German rail network, located in the charming town of Donaueschingen, Germany. This station not only facilitates regional transportation but also offers travelers an opportunity to explore the picturesque landscapes of the Black Forest and the Danube River's source. The station’s strategic position makes it a gateway for both locals and visitors, connecting them to larger cities and serene rural areas alike. As a hub of activity, Donaueschingen railway station represents the convergence of modern transportation and regional culture, catering to the needs of commuters while inviting exploration of the rich heritage surrounding the area.
+Donaueschingen railway station serves as a vital link in the extensive German rail network, located in the charming town of Donaueschingen, Germany. This station not only facilitates regional transportation but also offers travelers an opportunity to explore the picturesque landscapes of the Black Forest and the Danube River's source. The station's strategic position makes it a gateway for both locals and visitors, connecting them to larger cities and serene rural areas alike. As a hub of activity, Donaueschingen railway station represents the convergence of modern transportation and regional culture, catering to the needs of commuters while inviting exploration of the rich heritage surrounding the area.
 
 ## History and Significance
 

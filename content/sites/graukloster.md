@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Graukloster, an evocative example of monastic life, is located in the historical town of Schleswig, Germany. Renowned for its serene atmosphere and architectural elegance, this monastery offers a glimpse into the spiritual and communal practices that have shaped the region. With its roots deeply embedded in centuries of tradition, Graukloster serves as a significant cultural landmark, inviting visitors to explore its heritage and understand the monastic way of life. The monastery stands as a serene refuge, providing insights into the daily lives of the monks who once inhabited its walls, while also serving as a vital part of Schleswig’s historical narrative.
+Graukloster, an evocative example of monastic life, is located in the historical town of Schleswig, Germany. Renowned for its serene atmosphere and architectural elegance, this monastery offers a glimpse into the spiritual and communal practices that have shaped the region. With its roots deeply embedded in centuries of tradition, Graukloster serves as a significant cultural landmark, inviting visitors to explore its heritage and understand the monastic way of life. The monastery stands as a serene refuge, providing insights into the daily lives of the monks who once inhabited its walls, while also serving as a vital part of Schleswig's historical narrative.
 
 Situated in Schleswig, a region known for its rich history and picturesque landscapes, Graukloster is easily accessible and well-positioned for those interested in exploring northern Germany's historical sites. The monastery is a compelling destination for heritage enthusiasts, art lovers, and anyone intrigued by the architectural and cultural landscapes of the past. Visitors can expect a tranquil environment that encourages reflection and appreciation of the enduring legacy of monastic traditions.
 
@@ -88,7 +88,7 @@ For those interested in a more immersive experience, consider bringing a noteboo
 Visitors typically spend around 2-4 hours at Graukloster to fully appreciate the site, including time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s recommended to check the official website or inquire on-site regarding specific restrictions.
+Photography policies can vary, so it's recommended to check the official website or inquire on-site regarding specific restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing in-depth insights into the history and architecture of Graukloster. Check the official website for more details.
@@ -103,7 +103,7 @@ Accessibility information may vary, so it is advisable to check the official web
 Check the official website for information regarding online ticket purchases or any special promotions.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site; it’s best to confirm with the official website for the most accurate information.
+Facilities may be available on-site; it's best to confirm with the official website for the most accurate information.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if exploring the outdoor areas. Dress in layers to accommodate varying temperatures.

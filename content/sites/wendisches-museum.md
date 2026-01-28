@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Cottbus, Germany, lies the Wendisches Museum, a cultural institution dedicated to preserving and showcasing the heritage of the Sorbian people, an ethnic minority with a distinct language and traditions. This museum offers visitors an engaging insight into the unique history and customs of the Sorbs, who have inhabited the region for centuries. Located at coordinates 51.7598, 14.3345, the museum serves as a vital repository of the Sorbian culture, contributing to the broader narrative of Germany’s diverse ethnic landscape.
+In the heart of Cottbus, Germany, lies the Wendisches Museum, a cultural institution dedicated to preserving and showcasing the heritage of the Sorbian people, an ethnic minority with a distinct language and traditions. This museum offers visitors an engaging insight into the unique history and customs of the Sorbs, who have inhabited the region for centuries. Located at coordinates 51.7598, 14.3345, the museum serves as a vital repository of the Sorbian culture, contributing to the broader narrative of Germany's diverse ethnic landscape.
 
 As you step into the Wendisches Museum, you embark on a journey that illuminates the traditions, art, and daily life of the Sorbian community. The museum not only serves to educate visitors about this fascinating culture but also fosters appreciation and respect for the diversity that exists within Germany. With its rich collection and well-curated exhibitions, the Wendisches Museum promises an enlightening experience for all who walk through its doors.
 
@@ -72,7 +72,7 @@ While visiting the Wendisches Museum, take the opportunity to explore other attr
 
 To make the most of your visit to the Wendisches Museum, consider the following insider tips:
 
-- **Photography**: Be sure to check the museum’s policy on photography, as some exhibitions may have restrictions. Capturing the traditional costumes and artifacts can provide lasting memories of your experience.
+- **Photography**: Be sure to check the museum's policy on photography, as some exhibitions may have restrictions. Capturing the traditional costumes and artifacts can provide lasting memories of your experience.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during mid-week and avoid weekends, as these days tend to attract larger crowds.
 

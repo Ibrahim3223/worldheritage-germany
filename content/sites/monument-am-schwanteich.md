@@ -80,7 +80,7 @@ When planning your visit to Monument am Schwanteich, keep the following practica
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the area may involve walking along trails or around the monument. A water bottle and sunscreen can also be useful, particularly on sunny days.
 
-- **Seasonal Considerations**: Weather can affect your experience, so it’s wise to check forecasts before your visit. Spring and fall may offer pleasant temperatures for outdoor exploration, while summer could be ideal for enjoying longer daylight hours.
+- **Seasonal Considerations**: Weather can affect your experience, so it's wise to check forecasts before your visit. Spring and fall may offer pleasant temperatures for outdoor exploration, while summer could be ideal for enjoying longer daylight hours.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ When planning your visit to Monument am Schwanteich, keep the following practica
 Allocating a few hours is advisable to fully appreciate the monument and its surroundings, though this can vary based on personal interest.
 
 ### Is photography allowed?
-Yes, photography is typically allowed, but it’s always best to check for any specific regulations at the site.
+Yes, photography is typically allowed, but it's always best to check for any specific regulations at the site.
 
 ### Are there guided tours?
 While specific information on guided tours is not available, check the official website to see if any are offered during your visit.

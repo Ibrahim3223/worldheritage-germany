@@ -34,9 +34,9 @@ With its prime location, St. Johann von Capistran invites visitors to explore bo
 
 St. Johann von Capistran is more than just a place of worship; it is a reflection of the cultural and historical evolution of Munich. Its roots can be traced back to the legacy of St. John of Capistrano, who played a pivotal role in the religious landscape of the 15th century. Known for his powerful sermons and commitment to the Franciscan order, St. John is celebrated for his efforts in promoting peace and social justice during a tumultuous period in Europe. 
 
-The establishment of the church dedicated to him signifies the importance of his teachings and the Franciscans’ influence in the region. Over the years, St. Johann von Capistran has served not only as a religious center but also as a gathering place for community events, reflecting the church's role in nurturing local culture and identity. Its enduring presence in Bogenhausen illustrates the continuity of faith and community values that have shaped the area.
+The establishment of the church dedicated to him signifies the importance of his teachings and the Franciscans' influence in the region. Over the years, St. Johann von Capistran has served not only as a religious center but also as a gathering place for community events, reflecting the church's role in nurturing local culture and identity. Its enduring presence in Bogenhausen illustrates the continuity of faith and community values that have shaped the area.
 
-In addition to its spiritual significance, the church contributes to the narrative of Munich’s architectural development. As urbanization transformed the city, structures like St. Johann von Capistran adapted to embody both contemporary and traditional styles, showcasing the dynamic nature of the region's architectural landscape.
+In addition to its spiritual significance, the church contributes to the narrative of Munich's architectural development. As urbanization transformed the city, structures like St. Johann von Capistran adapted to embody both contemporary and traditional styles, showcasing the dynamic nature of the region's architectural landscape.
 
 ## Architecture and Features
 

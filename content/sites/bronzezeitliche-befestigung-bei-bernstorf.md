@@ -44,7 +44,7 @@ The significance of the site extends beyond its physical structure. Archaeologic
 
 The Bronzezeitliche Befestigung bei Bernstorf showcases remarkable examples of Bronze Age architecture through its surviving fortifications. The layout of the site is characterized by defensive walls that would have served to protect its inhabitants from invaders. Though the exact dimensions of these structures may not be provided, they are indicative of the engineering capabilities of the time.
 
-Visitors may observe the remnants of earthworks and ditches that formed a part of the site’s protective measures. These structures were likely constructed using locally available materials, demonstrating the resourcefulness of the ancient builders. The design and construction techniques employed reveal a sophisticated understanding of fortification and defense, highlighting the importance of security in Bronze Age settlements.
+Visitors may observe the remnants of earthworks and ditches that formed a part of the site's protective measures. These structures were likely constructed using locally available materials, demonstrating the resourcefulness of the ancient builders. The design and construction techniques employed reveal a sophisticated understanding of fortification and defense, highlighting the importance of security in Bronze Age settlements.
 
 In addition to the fortifications, the site may house various artifacts that offer further insight into the architectural practices of the era. While specific details on these artifacts are not mentioned, they can provide context about the daily lives and technologies of the people who occupied the site. 
 
@@ -74,7 +74,7 @@ While visiting the Bronzezeitliche Befestigung bei Bernstorf, there are several 
 
 When planning your visit to the Bronzezeitliche Befestigung bei Bernstorf, consider the following tips to enhance your experience:
 
-- **Photography**: Capture the unique features of the site but be mindful of any restrictions regarding photography. Always respect the site’s rules to preserve its integrity.
+- **Photography**: Capture the unique features of the site but be mindful of any restrictions regarding photography. Always respect the site's rules to preserve its integrity.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or in the early morning. This can enhance your ability to explore the site without the hustle and bustle of larger crowds.
 

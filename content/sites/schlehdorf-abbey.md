@@ -42,7 +42,7 @@ As you explore the abbey, its historical context becomes apparent through the ar
 
 Schlehdorf Abbey is characterized by its distinct architectural style, typical of monastic buildings in Bavaria. The layout is designed to facilitate not only the daily life of the monks but also the communal aspects of their existence. The abbey features a series of connected buildings, each serving specific functions, from living quarters to spaces for worship and study.
 
-The architectural design emphasizes simplicity and functionality, which are hallmarks of monastic architecture. Visitors will notice the use of local materials, creating a harmonious blend with the surrounding landscape. While specific details about the abbey’s features are limited, the overall aesthetic reflects a commitment to the monastic ideals of humility and serenity.
+The architectural design emphasizes simplicity and functionality, which are hallmarks of monastic architecture. Visitors will notice the use of local materials, creating a harmonious blend with the surrounding landscape. While specific details about the abbey's features are limited, the overall aesthetic reflects a commitment to the monastic ideals of humility and serenity.
 
 Inside, the abbey's chapel is a focal point, where one can appreciate the artistry of the religious space. The chapel often features intricate decorations and artwork that highlight the religious devotion of the community. Exploring these spaces provides insight into the daily life and spiritual practices of the monks.
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting on weekdays or during the off-peak season. Th
 
 When visiting Schlehdorf Abbey, it is advisable to wear comfortable shoes suitable for walking, as the grounds may require some exploration. Depending on the season, bringing layers for changing weather conditions is wise, particularly in the cooler months.
 
-Make sure to have a water bottle and snacks, as amenities around the abbey may be limited. Engaging with the site’s natural surroundings can be a refreshing addition to your visit.
+Make sure to have a water bottle and snacks, as amenities around the abbey may be limited. Engaging with the site's natural surroundings can be a refreshing addition to your visit.
 
 ## Frequently Asked Questions
 
@@ -97,7 +97,7 @@ Accessibility information may vary; check the official website for the latest up
 Ticket purchasing options may be available online. Please refer to the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to check the official website for current amenities.
+Facilities may be limited; it's advisable to check the official website for current amenities.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended for exploring the abbey and its grounds.

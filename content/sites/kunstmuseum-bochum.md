@@ -50,7 +50,7 @@ In addition to its exhibition spaces, the museum often includes areas dedicated 
 
 Kunstmuseum Bochum is conveniently located in Bochum-Mitte, making it easily accessible by various modes of transport. Visitors can reach the museum by public transport, including buses and trams, which frequently service the area. For those driving, check the official website for parking details and availability.
 
-When planning your visit, it’s important to check the official website for current information regarding opening hours and ticket prices. The museum typically hosts a range of exhibitions that may vary in theme and focus, ensuring that there is always something new to discover. 
+When planning your visit, it's important to check the official website for current information regarding opening hours and ticket prices. The museum typically hosts a range of exhibitions that may vary in theme and focus, ensuring that there is always something new to discover. 
 
 To fully appreciate the museum, a visit of around two to three hours is recommended. This timeframe allows for a leisurely exploration of the exhibitions and participation in any ongoing programs or discussions. The best times to visit are often during weekdays when the museum is less crowded, providing a more intimate viewing experience.
 

@@ -60,13 +60,13 @@ The best times to visit Gedenkstätte Lüneburg are during weekdays when crowds 
 
 While in Lüneburg, consider exploring other nearby attractions that complement your visit to Gedenkstätte Lüneburg:
 
-1. **Lüneburg Town Hall**: An impressive example of Gothic architecture, this historic building serves as a focal point in the town’s marketplace, offering guided tours that delve into its rich history.
+1. **Lüneburg Town Hall**: An impressive example of Gothic architecture, this historic building serves as a focal point in the town's marketplace, offering guided tours that delve into its rich history.
 
-2. **St. Nicholas Church**: A magnificent church known for its stunning stained glass windows and intricate interior, providing insight into the town’s religious heritage.
+2. **St. Nicholas Church**: A magnificent church known for its stunning stained glass windows and intricate interior, providing insight into the town's religious heritage.
 
-3. **Lüneburg Salt Museum**: This museum highlights the town’s historical connection to salt production, featuring exhibits that showcase the industry’s importance to Lüneburg’s development.
+3. **Lüneburg Salt Museum**: This museum highlights the town's historical connection to salt production, featuring exhibits that showcase the industry's importance to Lüneburg's development.
 
-4. **Historic Old Town**: Stroll through the charming streets lined with medieval buildings, cafés, and shops, capturing the essence of Lüneburg’s rich history.
+4. **Historic Old Town**: Stroll through the charming streets lined with medieval buildings, cafés, and shops, capturing the essence of Lüneburg's rich history.
 
 5. **The Old Lüneburg Cemetery**: A serene place for reflection, this cemetery contains several historically significant graves and memorials, complementing the themes of remembrance explored at Gedenkstätte Lüneburg.
 

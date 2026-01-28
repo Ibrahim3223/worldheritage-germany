@@ -115,7 +115,7 @@ Accessibility information may vary; it is advisable to check the official websit
 Check the official website for the latest information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may not be available on-site; it’s best to bring your own refreshments and plan for restroom breaks before your visit.
+Facilities may not be available on-site; it's best to bring your own refreshments and plan for restroom breaks before your visit.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking on varied terrain. Dress according to the weather conditions for a more enjoyable experience.

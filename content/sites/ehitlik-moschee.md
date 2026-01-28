@@ -28,7 +28,7 @@ image_srcset:
 
 The Şehitlik-Moschee, located in the Neukölln district of Berlin, serves as a significant cultural and religious symbol for the Islamic community in Germany. This mosque not only functions as a place of worship but also plays an integral role in fostering understanding and dialogue within the multicultural fabric of modern Berlin. With roots deeply intertwined in the history of Turkish migration to Germany, the mosque stands as a focal point for community activities and spiritual gatherings.
 
-Visitors to the mosque can expect a welcoming atmosphere that encourages interaction and learning about Islamic culture. The Şehitlik-Moschee is not just a religious structure; it is a space that embodies the experiences of many individuals who have called Berlin home. The mosque's architectural style reflects traditional Islamic design principles, offering a striking contrast to the urban landscape surrounding it. Whether you are drawn by religious, cultural, or architectural interests, a visit to the Şehitlik-Moschee promises a rewarding experience in one of Europe’s most dynamic cities.
+Visitors to the mosque can expect a welcoming atmosphere that encourages interaction and learning about Islamic culture. The Şehitlik-Moschee is not just a religious structure; it is a space that embodies the experiences of many individuals who have called Berlin home. The mosque's architectural style reflects traditional Islamic design principles, offering a striking contrast to the urban landscape surrounding it. Whether you are drawn by religious, cultural, or architectural interests, a visit to the Şehitlik-Moschee promises a rewarding experience in one of Europe's most dynamic cities.
 
 ## History and Significance
 

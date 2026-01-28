@@ -88,7 +88,7 @@ Seasonal considerations are also important; check the local weather forecast bef
 A visit typically takes about an hour, allowing time to explore the chapel and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, though it’s advisable to be respectful of the space and any ongoing services.
+Photography is generally permitted, though it's advisable to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
 Specific information about guided tours is not available; check the official website for any updates regarding tours.
@@ -103,7 +103,7 @@ Accessibility details are not specified; you may want to check directly with the
 Ticket purchasing options are not detailed; please refer to the official website for current information.
 
 ### Are there restrooms and cafes?
-Specific facilities at the chapel are not mentioned; it’s best to check nearby areas for amenities.
+Specific facilities at the chapel are not mentioned; it's best to check nearby areas for amenities.
 
 ### What should I wear?
 Comfortable clothing is advisable, considering the weather and the nature of your visit.

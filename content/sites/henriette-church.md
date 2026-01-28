@@ -71,12 +71,12 @@ These attractions can complement your visit to Henriette Church, allowing you to
 
 To make the most of your visit to Henriette Church, consider these insider tips:
 
-- **Photography**: If you plan to take photographs, be respectful of the worship environment. It’s best to check for any restrictions on photography within the church.
+- **Photography**: If you plan to take photographs, be respectful of the worship environment. It's best to check for any restrictions on photography within the church.
 - **Crowd Avoidance**: If you prefer a quieter experience, try visiting during off-peak hours or avoid weekends when services may attract more visitors.
 
 ## Practical Information
 
-When preparing for your visit to Henriette Church, it’s helpful to consider a few practical aspects:
+When preparing for your visit to Henriette Church, it's helpful to consider a few practical aspects:
 
 - **What to Bring**: A small bag with essentials such as water, a camera, and comfortable walking shoes is recommended.
 - **Seasonal Considerations**: Check the weather forecast before your visit, as conditions can vary. If visiting during colder months, dress warmly as churches may be less heated.

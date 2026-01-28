@@ -28,7 +28,7 @@ image_srcset:
 
 Fundgrube St. Anna, located in the heart of Saxony, Germany, is a museum that delves into the region's rich mining heritage. This unique site features a collection of historical monuments, including the Tagesschacht (day shaft), Mundloch (mine entrance), Halde (tailings heap), and Haspelort (hoisting area), all of which are indicative of the area's mining activities. The museum provides valuable insights into the technological advancements and socio-economic conditions of mining in Saxony, making it an essential stop for history enthusiasts and those interested in industrial heritage. 
 
-Visitors can expect an engaging exploration of the mining landscape that once played a crucial role in the region’s development. The significance of Fundgrube St. Anna lies not only in its historical artifacts but also in its role as a cultural touchstone that connects past mining practices to contemporary understanding of industrial history. 
+Visitors can expect an engaging exploration of the mining landscape that once played a crucial role in the region's development. The significance of Fundgrube St. Anna lies not only in its historical artifacts but also in its role as a cultural touchstone that connects past mining practices to contemporary understanding of industrial history. 
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ While visiting Fundgrube St. Anna, consider exploring these nearby attractions t
 
 To enhance your visit to Fundgrube St. Anna, consider these insider tips:
 
-- **Photography Tips**: While capturing the site’s unique features, be mindful of any restrictions on photography inside the museum. Early mornings or late afternoons may provide the best natural light for outdoor shots.
+- **Photography Tips**: While capturing the site's unique features, be mindful of any restrictions on photography inside the museum. Early mornings or late afternoons may provide the best natural light for outdoor shots.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekdays or outside of peak tourist seasons. Early arrivals can also help you avoid larger groups.
 

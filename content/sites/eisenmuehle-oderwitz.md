@@ -61,7 +61,7 @@ While visiting Eisenmühle, there are several other attractions in the vicinity 
 1. **Elstertrebnitz Cultural Center**: A local hub for arts and community events that often hosts exhibitions, performances, and workshops.
 2. **Historical Town Center of Oderwitz**: A picturesque area showcasing traditional architecture and local shops, perfect for a leisurely stroll.
 3. **Local Parks and Green Spaces**: Ideal for those seeking outdoor activities or a quiet retreat amidst nature.
-4. **Nearby Historical Sites**: Explore other museums or historical buildings that highlight the region’s industrial past or cultural heritage.
+4. **Nearby Historical Sites**: Explore other museums or historical buildings that highlight the region's industrial past or cultural heritage.
 
 These nearby attractions offer a well-rounded experience, allowing visitors to delve deeper into the local culture while enjoying the serene landscapes of the region.
 

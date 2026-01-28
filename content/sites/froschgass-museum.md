@@ -26,7 +26,7 @@ Visitors to the Froschgass-Museum can expect an enriching experience that highli
 
 ## History and Significance
 
-The history of the Froschgass-Museum is intertwined with the evolution of the local community. While specific dates and events may not be documented, the museum is a vital institution that has played a crucial role in preserving the cultural artifacts and narratives of the region. It serves as an important educational resource, providing insight into the traditions and practices that have influenced the area’s heritage.
+The history of the Froschgass-Museum is intertwined with the evolution of the local community. While specific dates and events may not be documented, the museum is a vital institution that has played a crucial role in preserving the cultural artifacts and narratives of the region. It serves as an important educational resource, providing insight into the traditions and practices that have influenced the area's heritage.
 
 Museums like the Froschgass-Museum contribute significantly to the understanding of regional identity. They house collections that reflect the local craftsmanship, artistic endeavors, and everyday life of the people who have lived in this area. In doing so, the Froschgass-Museum not only preserves history but also encourages dialogue about cultural continuity and change.
 

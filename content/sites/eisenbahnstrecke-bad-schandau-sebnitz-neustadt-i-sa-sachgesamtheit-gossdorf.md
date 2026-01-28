@@ -66,7 +66,7 @@ Additionally, take time to explore the surrounding areas for unique perspectives
 
 ## Practical Information
 
-When visiting the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa., bring comfortable walking shoes as you may wish to explore the area on foot. Depending on the season, it’s advisable to dress in layers, as weather conditions can fluctuate throughout the day.
+When visiting the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa., bring comfortable walking shoes as you may wish to explore the area on foot. Depending on the season, it's advisable to dress in layers, as weather conditions can fluctuate throughout the day.
 
 Plan your visit according to seasonal considerations, as some paths or viewpoints may be less accessible in winter. Always check the official website for any updates regarding accessibility and any seasonal events that might enhance your visit.
 

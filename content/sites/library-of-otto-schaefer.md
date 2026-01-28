@@ -48,7 +48,7 @@ When planning a visit to the Library of Otto Schäfer, it is advisable to check 
 
 Visitors can expect a peaceful atmosphere, ideal for quiet reading or studying. It is recommended to allocate a few hours for your visit, allowing ample time to explore the collection and possibly participate in any scheduled events. The library is suitable for all ages, making it a family-friendly destination.
 
-The best times to visit may vary based on programming and local events, so checking the library’s calendar can enhance your experience. Additionally, weekdays may be less crowded than weekends, providing a more tranquil environment for those looking to immerse themselves in literature.
+The best times to visit may vary based on programming and local events, so checking the library's calendar can enhance your experience. Additionally, weekdays may be less crowded than weekends, providing a more tranquil environment for those looking to immerse themselves in literature.
 
 ## Nearby Attractions
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Library of Otto Schäfer, consider these i
 
 - **Photography**: While exploring the library, be mindful of any posted rules regarding photography. Capturing the serene spaces can enhance your experience, but respect the environment and fellow visitors.
 
-- **Crowd Avoidance**: If you prefer a quieter visit, try to come during weekdays, especially in the morning or early afternoon. This can provide a more intimate experience with the library’s collections.
+- **Crowd Avoidance**: If you prefer a quieter visit, try to come during weekdays, especially in the morning or early afternoon. This can provide a more intimate experience with the library's collections.
 
 ## Practical Information
 

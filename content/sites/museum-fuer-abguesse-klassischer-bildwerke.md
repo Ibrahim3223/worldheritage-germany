@@ -30,7 +30,7 @@ The Museum für Abgüsse Klassischer Bildwerke, located in the vibrant Maxvorsta
 
 As you explore the museum, you will find a unique blend of education and inspiration. The museum's commitment to preserving and presenting classical art engages audiences of all ages, making it a popular destination for both locals and tourists. The tranquil setting of Maxvorstadt, known for its artistic and intellectual heritage, further enhances the experience, inviting visitors to reflect on the timeless beauty of classical sculptures.
 
-The Museum für Abgüsse Klassischer Bildwerke promises an enlightening visit, whether you are an art enthusiast, a history buff, or simply curious about the past. Its impressive collection and dedication to cultural education make it a significant stop in any exploration of Munich’s rich heritage.
+The Museum für Abgüsse Klassischer Bildwerke promises an enlightening visit, whether you are an art enthusiast, a history buff, or simply curious about the past. Its impressive collection and dedication to cultural education make it a significant stop in any exploration of Munich's rich heritage.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ The Museum für Abgüsse Klassischer Bildwerke has carved out a unique niche in 
 
 While specific dates and events in the museum's history may not be detailed, its establishment reflects a broader trend of museums worldwide to collect and display replicas of significant sculptures. These casts serve not only as educational tools but also as a means of democratizing access to art that might otherwise be limited to select audiences or confined to their original locations. The museum's collection, which includes notable works from Greek and Roman antiquity, contributes to an understanding of the aesthetic values and societal norms of those civilizations.
 
-The significance of the Museum für Abgüsse Klassischer Bildwerke extends beyond its collection. It plays a vital role in fostering appreciation for classical art and its impact on contemporary culture. Through exhibitions and educational programs, the museum engages with the public, encouraging discourse on the relevance of classical art in today’s world. By doing so, it ensures that the legacy of these ancient masterpieces continues to inspire future generations.
+The significance of the Museum für Abgüsse Klassischer Bildwerke extends beyond its collection. It plays a vital role in fostering appreciation for classical art and its impact on contemporary culture. Through exhibitions and educational programs, the museum engages with the public, encouraging discourse on the relevance of classical art in today's world. By doing so, it ensures that the legacy of these ancient masterpieces continues to inspire future generations.
 
 ## Architecture and Features
 

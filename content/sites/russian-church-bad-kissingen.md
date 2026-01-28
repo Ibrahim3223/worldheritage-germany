@@ -74,9 +74,9 @@ If you are interested in learning more about the church's history and significan
 
 ## Practical Information
 
-When visiting the Russian Church, it’s advisable to wear comfortable shoes, as you may spend time walking around the church and its surroundings. Depending on the season, bringing a light jacket or umbrella can be beneficial, as weather conditions in Bavaria can change quickly.
+When visiting the Russian Church, it's advisable to wear comfortable shoes, as you may spend time walking around the church and its surroundings. Depending on the season, bringing a light jacket or umbrella can be beneficial, as weather conditions in Bavaria can change quickly.
 
-If you plan to spend a longer day in Bad Kissingen, consider packing a small bag with snacks and water, especially if you plan to visit nearby attractions afterward. It’s also wise to have a portable charger for your devices, ensuring you can capture all your experiences during your visit.
+If you plan to spend a longer day in Bad Kissingen, consider packing a small bag with snacks and water, especially if you plan to visit nearby attractions afterward. It's also wise to have a portable charger for your devices, ensuring you can capture all your experiences during your visit.
 
 ## Frequently Asked Questions
 
@@ -84,7 +84,7 @@ If you plan to spend a longer day in Bad Kissingen, consider packing a small bag
 A visit of about one hour is recommended to appreciate the church's architecture and atmosphere fully.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signs or inquire with staff regarding restrictions.
+Photography policies can vary, so it's best to check for any signs or inquire with staff regarding restrictions.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are offered and their schedules.

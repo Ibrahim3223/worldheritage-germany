@@ -82,9 +82,9 @@ If you're interested in local customs or events, check community calendars for a
 
 ## Practical Information
 
-When visiting Wolfgangskapelle, it’s advisable to bring along any essentials you might need, such as a water bottle, comfortable walking shoes, and a camera for capturing the chapel's beauty. 
+When visiting Wolfgangskapelle, it's advisable to bring along any essentials you might need, such as a water bottle, comfortable walking shoes, and a camera for capturing the chapel's beauty. 
 
-Seasonal considerations are important; if you are visiting during colder months, ensure you dress warmly, as chapels can be cool, particularly in the absence of heating. Conversely, summer visits may encourage lighter clothing, but it’s wise to bring layers for the possibility of changing weather.
+Seasonal considerations are important; if you are visiting during colder months, ensure you dress warmly, as chapels can be cool, particularly in the absence of heating. Conversely, summer visits may encourage lighter clothing, but it's wise to bring layers for the possibility of changing weather.
 
 Check the official website for any specific guidelines regarding what to bring or any special events that may be happening during your visit.
 

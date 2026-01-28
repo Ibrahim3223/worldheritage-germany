@@ -36,7 +36,7 @@ The museum plays a crucial role in preserving the memory of the Wall and the eve
 
 ## Architecture and Features
 
-The Wall Museum’s design is both functional and reflective of its historical context. While specific architectural details are not outlined in the available data, museums of this nature typically feature modern design elements that facilitate the display of historical artifacts and multimedia exhibits. The layout is likely organized to guide visitors through a chronological journey, echoing the narrative of the Berlin Wall itself.
+The Wall Museum's design is both functional and reflective of its historical context. While specific architectural details are not outlined in the available data, museums of this nature typically feature modern design elements that facilitate the display of historical artifacts and multimedia exhibits. The layout is likely organized to guide visitors through a chronological journey, echoing the narrative of the Berlin Wall itself.
 
 The museum's interior likely includes a variety of exhibition spaces that host a range of displays—from photographs and documents to interactive installations. These features are designed to engage visitors, allowing them to explore the complexities of the Wall and its impact on everyday lives. 
 
@@ -60,7 +60,7 @@ The Wall Museum is situated in a culturally rich area of Berlin, offering severa
 
 3. **Oberbaum Bridge**: An iconic bridge that spans the Spree River, linking Friedrichshain and Kreuzberg. It offers picturesque views and is a significant historical landmark.
 
-4. **Markthalle Neun**: A vibrant marketplace nearby, known for its food stalls and local produce. It’s an excellent spot to experience Berlin's culinary scene.
+4. **Markthalle Neun**: A vibrant marketplace nearby, known for its food stalls and local produce. It's an excellent spot to experience Berlin's culinary scene.
 
 5. **Treptower Park**: A large park in the vicinity that features beautiful green spaces, walking paths, and the impressive Soviet War Memorial, ideal for a leisurely stroll.
 
@@ -95,7 +95,7 @@ Check the official website for information on guided tours, as they may enhance 
 Weekdays tend to be less crowded, making it an ideal time for a more personal experience.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s best to confirm specific accessibility features on the official website.
+The museum is designed to be accessible, but it's best to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for the most current information.

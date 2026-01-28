@@ -40,7 +40,7 @@ While specific historical details about Römisches Haus are scarce, the building
 
 Weimar's history is marked by its transformation from a small town to a cultural capital during the late 18th and early 19th centuries. This period saw the flourishing of the Weimar Classicism movement, characterized by the works of Goethe and Schiller, who were instrumental in shaping German literature and philosophy. The presence of Römisches Haus within this context highlights the importance of architectural contributions to the overall cultural landscape of the city.
 
-As Weimar evolved, so did its architecture, reflecting various styles and influences. Römisches Haus, with its distinctive design, adds to the narrative of Weimar's architectural evolution. The building represents a blend of various architectural elements, showcasing the city’s ongoing dialogue with both its historical roots and contemporary interpretations. 
+As Weimar evolved, so did its architecture, reflecting various styles and influences. Römisches Haus, with its distinctive design, adds to the narrative of Weimar's architectural evolution. The building represents a blend of various architectural elements, showcasing the city's ongoing dialogue with both its historical roots and contemporary interpretations. 
 
 The significance of Römisches Haus lies not only in its physical structure but also in its role as a symbol of Weimar's artistic spirit. As a visitor to the site, one can appreciate the layers of history that surround it, fostering a deeper connection to the cultural narratives that define Weimar.
 
@@ -113,7 +113,7 @@ Accessibility information may vary, so it is best to consult the official websit
 Information regarding online ticket purchases should be verified through the official website, as this can change based on the season or specific events.
 
 ### Are there restrooms and cafes?
-Visitor facilities, including restrooms and nearby cafes, may be available. It’s a good idea to check the official website for details.
+Visitor facilities, including restrooms and nearby cafes, may be available. It's a good idea to check the official website for details.
 
 ### What should I wear?
 Dress comfortably and consider the season when planning your visit. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.

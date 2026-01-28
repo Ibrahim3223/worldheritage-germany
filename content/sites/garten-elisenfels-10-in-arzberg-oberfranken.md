@@ -46,7 +46,7 @@ The careful arrangement of plants and pathways typically reflects principles of 
 
 Visiting Garten Elisenfels 10 is a straightforward process, allowing guests to immerse themselves in the natural beauty and cultural significance of the garden. To reach Arzberg, visitors can take advantage of the local transportation options available in the region. Depending on your starting point, check local schedules for the most convenient travel routes.
 
-Upon arrival, it’s advisable to check the official website for current information regarding opening hours and any potential entrance fees. The garden offers an ideal space for a leisurely stroll, and visitors typically spend around one to two hours exploring the grounds at their own pace. 
+Upon arrival, it's advisable to check the official website for current information regarding opening hours and any potential entrance fees. The garden offers an ideal space for a leisurely stroll, and visitors typically spend around one to two hours exploring the grounds at their own pace. 
 
 The best times to visit are during the spring and summer months when the garden is in full bloom, providing a vibrant display of colors and scents. Early mornings or late afternoons tend to be less crowded, allowing for a more serene experience.
 

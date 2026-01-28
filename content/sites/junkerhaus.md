@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Lemgo, Germany, the Junkerhaus serves as a captivating museum dedicated to the unique vision of artist Karl Junker. This extraordinary house, a testament to the artistic and architectural innovations of the late 19th century, invites visitors to explore the intricate interplay of art, design, and personal history. The building itself reflects Junker’s distinctive style, merging eclectic architectural elements with a personal narrative that resonates with those who walk its halls. 
+In the heart of Lemgo, Germany, the Junkerhaus serves as a captivating museum dedicated to the unique vision of artist Karl Junker. This extraordinary house, a testament to the artistic and architectural innovations of the late 19th century, invites visitors to explore the intricate interplay of art, design, and personal history. The building itself reflects Junker's distinctive style, merging eclectic architectural elements with a personal narrative that resonates with those who walk its halls. 
 
 Situated within a region steeped in cultural heritage, Lemgo offers a perfect backdrop for the Junkerhaus, connecting visitors to the broader historical context of the area. As one navigates the rooms filled with original artworks and meticulously crafted details, it becomes clear that the museum is not merely a collection of artifacts but a living representation of an artist's life and philosophy. The Junkerhaus stands as a significant cultural landmark, promising an enriching experience for art enthusiasts and casual visitors alike.
 
@@ -44,7 +44,7 @@ The architectural design of Junkerhaus is a striking manifestation of Karl Junke
 
 One of the most visually striking aspects of Junkerhaus is its elaborate exterior. The facade is adorned with decorative carvings and sculptures, each telling a story or representing an aspect of Junker's life. The use of natural materials, such as wood and stone, further enhances the organic feel of the structure. Inside, visitors can explore a series of rooms, each showcasing different artistic techniques and styles, from stained glass windows to intricately designed furniture.
 
-The museum not only highlights Junker’s architectural genius but also offers insights into his artistic process. Many of the original artworks created by Junker are displayed throughout the house, allowing visitors to appreciate his multifaceted talents. The thoughtful arrangement of exhibits provides a comprehensive understanding of his contributions to the art world, making it an enriching experience for anyone interested in architecture and design.
+The museum not only highlights Junker's architectural genius but also offers insights into his artistic process. Many of the original artworks created by Junker are displayed throughout the house, allowing visitors to appreciate his multifaceted talents. The thoughtful arrangement of exhibits provides a comprehensive understanding of his contributions to the art world, making it an enriching experience for anyone interested in architecture and design.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting Junkerhaus is an opportunity to immerse oneself in the artistic legacy 
 
 The museum typically offers a leisurely experience, with most guests spending between one to two hours exploring the various rooms and exhibits. Those interested in delving deeper into the artistic concepts and historical context may wish to allocate additional time. It is advisable to visit during weekdays or early in the morning to avoid peak crowds, allowing for a more intimate experience with the art and architecture.
 
-As you plan your visit, consider checking the official website for any seasonal events or special exhibitions that may enhance your experience. The time of year can also impact the overall atmosphere of the museum, so it’s worth exploring options that align with your interests.
+As you plan your visit, consider checking the official website for any seasonal events or special exhibitions that may enhance your experience. The time of year can also impact the overall atmosphere of the museum, so it's worth exploring options that align with your interests.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ After exploring Junkerhaus, visitors can take advantage of the rich cultural off
 
 1. **Lemgo Town Hall**: An architectural highlight, this historic building showcases Renaissance design elements and is a focal point in the town's center.
    
-2. **St. Mary’s Church**: Known for its stunning Gothic architecture and impressive stained glass windows, this church represents an important religious site in the region.
+2. **St. Mary's Church**: Known for its stunning Gothic architecture and impressive stained glass windows, this church represents an important religious site in the region.
 
 3. **The Hexenbürgermeisterhaus**: A museum dedicated to the witch trials that took place in Lemgo, offering insights into the local history and societal changes over time.
 

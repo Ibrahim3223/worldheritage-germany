@@ -50,7 +50,7 @@ Additionally, the foundation's commitment to accessibility is reflected in its d
 
 ## Visiting Information
 
-When planning a visit to the German Cancer Aid, it is advisable to check the official website for current information regarding visiting hours and any potential admission fees. The foundation’s location in Bonn makes it easily accessible via various modes of transport, including public transportation and private vehicles.
+When planning a visit to the German Cancer Aid, it is advisable to check the official website for current information regarding visiting hours and any potential admission fees. The foundation's location in Bonn makes it easily accessible via various modes of transport, including public transportation and private vehicles.
 
 Visitors can expect to learn about the foundation's significant work and initiatives. Allocate a reasonable amount of time to explore the available resources, engage with staff, and participate in any scheduled events or programs. Typically, a visit may last from one to two hours, allowing ample time to absorb the information and support available.
 

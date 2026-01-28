@@ -56,11 +56,11 @@ On average, visitors can expect to spend around one to two hours exploring the l
 
 ## Nearby Attractions
 
-1. **Lindau Old Town**: Just a short walk from the lighthouse, the charming old town features cobblestone streets, historic buildings, and a lively market atmosphere. It’s an excellent place for shopping and dining.
+1. **Lindau Old Town**: Just a short walk from the lighthouse, the charming old town features cobblestone streets, historic buildings, and a lively market atmosphere. It's an excellent place for shopping and dining.
 
 2. **The Mangturm Tower**: Located close to the lighthouse, this historic tower offers visitors insights into Lindau's past and provides another vantage point for enjoying views of the lake.
 
-3. **Lindau Harbor**: The harbor area is a hub of activity and a great spot for leisurely walks along the water. It’s an ideal place to watch boats come and go, soaking in the lively maritime atmosphere.
+3. **Lindau Harbor**: The harbor area is a hub of activity and a great spot for leisurely walks along the water. It's an ideal place to watch boats come and go, soaking in the lively maritime atmosphere.
 
 4. **The Lighthouse Museum**: For those interested in maritime history, this museum offers fascinating exhibits related to navigation and the role of lighthouses in sea travel.
 

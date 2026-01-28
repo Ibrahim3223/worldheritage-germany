@@ -82,7 +82,7 @@ When visiting Zeche Arenberg-Fortsetzung, consider the following tips to enhance
 
 Before heading to Zeche Arenberg-Fortsetzung, it's important to prepare adequately:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as the terrain may include uneven surfaces. A camera is also a great addition for those wanting to capture the site’s historical elements.
+- **What to Bring**: Comfortable walking shoes are recommended, as the terrain may include uneven surfaces. A camera is also a great addition for those wanting to capture the site's historical elements.
 
 - **Seasonal Considerations**: Check the weather forecast before your visit. The Ruhr region can experience a range of weather conditions, so dressing in layers and being prepared for rain is advisable.
 
@@ -95,7 +95,7 @@ A visit to Zeche Arenberg-Fortsetzung typically lasts around one to two hours, a
 Photography is generally permitted at the site, making it an excellent opportunity to capture the unique industrial architecture and remnants of mining history.
 
 ### Are there guided tours?
-Check the official website for current information regarding guided tours, as these can provide valuable insights into the site’s history and significance.
+Check the official website for current information regarding guided tours, as these can provide valuable insights into the site's history and significance.
 
 ### What's the best time to visit?
 While the site is open year-round, visiting during weekdays or local heritage events may enhance your experience by reducing crowds.

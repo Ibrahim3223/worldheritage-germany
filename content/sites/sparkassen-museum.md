@@ -76,9 +76,9 @@ Eisenach is rich in cultural and historical attractions that complement a visit 
 
 To make the most of your visit to the Sparkassen-Museum, consider the following tips:
 
-- **Photography**: Check the museum’s policy regarding photography, as some exhibits may have restrictions.
+- **Photography**: Check the museum's policy regarding photography, as some exhibits may have restrictions.
 - **Crowd Avoidance**: If you prefer a quieter experience, plan your visit during weekdays or early in the morning.
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and recommendations for your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and recommendations for your visit.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When visiting the Sparkassen-Museum, there are a few practical considerations to
 A visit can typically take between one to three hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Check the museum’s official policy regarding photography, as restrictions may apply to certain exhibits.
+Check the museum's official policy regarding photography, as restrictions may apply to certain exhibits.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

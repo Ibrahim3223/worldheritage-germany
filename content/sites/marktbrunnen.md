@@ -28,7 +28,7 @@ image_srcset:
 
 The Marktbrunnen, located in the heart of Goslar, Germany, is more than just a fountain; it is a focal point of the town's historical and cultural landscape. With coordinates 51.9059, 10.4291, this structure serves as a gathering place for both locals and visitors, reflecting the vibrant spirit of the community. Known for its elegance and historical significance, Marktbrunnen has stood as a symbol of public life in Goslar, marking the town's evolution through centuries.
 
-This remarkable fountain provides a refreshing pause in the bustling marketplace, where visitors can admire its artistic features while soaking in the lively atmosphere of the surrounding area. The Marktbrunnen is not only a visual highlight but also a testament to the town's commitment to preserving its heritage and promoting community engagement. Whether you’re exploring the cobbled streets of Goslar or delving into its rich history, a visit to Marktbrunnen is an essential part of the experience.
+This remarkable fountain provides a refreshing pause in the bustling marketplace, where visitors can admire its artistic features while soaking in the lively atmosphere of the surrounding area. The Marktbrunnen is not only a visual highlight but also a testament to the town's commitment to preserving its heritage and promoting community engagement. Whether you're exploring the cobbled streets of Goslar or delving into its rich history, a visit to Marktbrunnen is an essential part of the experience.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The architectural design of Marktbrunnen is a captivating blend of functionality
 
 Surrounding the fountain, the market square offers a lively backdrop, with stalls and shops that enhance the overall ambiance. Visitors can appreciate not only the fountain itself but also the way it interacts with its environment, serving as a centerpiece in the bustling marketplace. The intricate details of the fountain often invite close inspection, revealing the skill and artistry that went into its creation.
 
-The Marktbrunnen’s design elements may include motifs that are significant to the local culture and history, providing insights into the values and artistic trends of the time. This combination of beauty and practicality makes the fountain a noteworthy highlight of Goslar's architectural landscape.
+The Marktbrunnen's design elements may include motifs that are significant to the local culture and history, providing insights into the values and artistic trends of the time. This combination of beauty and practicality makes the fountain a noteworthy highlight of Goslar's architectural landscape.
 
 ## Visiting Information
 

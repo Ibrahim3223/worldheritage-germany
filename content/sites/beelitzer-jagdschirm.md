@@ -52,7 +52,7 @@ Outside, the Beelitzer Jagdschirm is surrounded by picturesque greenery, with pa
 
 Reaching the Beelitzer Jagdschirm is relatively straightforward, with various transport options available for visitors. The hut is accessible from Berlin, with public transport links that connect to nearby stations. Once arrived at the Wannsee area, a short ferry ride or a walking path leads directly to the island, where the hut awaits.
 
-Check the official website for current information regarding operating hours and any potential entrance fees. Visitors can expect a tranquil environment, perfect for enjoying a leisurely afternoon. Depending on one’s interests, the time spent at the Beelitzer Jagdschirm can vary. Some may wish to linger for a few hours, while others may opt to stay longer to explore the island's trails and natural beauty.
+Check the official website for current information regarding operating hours and any potential entrance fees. Visitors can expect a tranquil environment, perfect for enjoying a leisurely afternoon. Depending on one's interests, the time spent at the Beelitzer Jagdschirm can vary. Some may wish to linger for a few hours, while others may opt to stay longer to explore the island's trails and natural beauty.
 
 The best times to visit are during spring and summer when the island is in full bloom. Autumn also offers a unique charm as the foliage changes color, creating a captivating backdrop for photography and leisurely walks. 
 

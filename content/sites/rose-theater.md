@@ -46,7 +46,7 @@ The decor often embodies a blend of classic and modern elements, creating a spac
 
 Visiting the Rose-Theater is an engaging experience for both theatre enthusiasts and casual visitors. The theatre is located in a central area of Berlin, making it accessible via various transportation options. Visitors can reach the venue through public transit, including buses and trains, commonly used in the city. 
 
-For the latest information regarding opening hours and ticket prices, check the official website. When planning a visit, it’s advisable to allocate sufficient time to explore the venue and soak in the atmosphere before the performance begins. The theatre often experiences peak attendance during weekends and special events; thus, visiting during weekdays or off-peak hours may enhance the experience.
+For the latest information regarding opening hours and ticket prices, check the official website. When planning a visit, it's advisable to allocate sufficient time to explore the venue and soak in the atmosphere before the performance begins. The theatre often experiences peak attendance during weekends and special events; thus, visiting during weekdays or off-peak hours may enhance the experience.
 
 Expect to be welcomed into an inviting environment, where the excitement of live performance fills the air. The Rose-Theater typically offers a variety of shows, catering to different tastes and interests. The best times to visit would be during the theatre's main performance season, which aligns with Berlin's vibrant cultural calendar.
 

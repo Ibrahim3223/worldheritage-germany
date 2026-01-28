@@ -48,7 +48,7 @@ Visiting the Friedhofshalle und Gedenkstätte der jüdischen Gemeinde is an expe
 
 Once you arrive, expect an environment that encourages reflection and contemplation. It is advisable to allocate sufficient time for your visit, as engaging with the memorial and its significance can take longer than anticipated. While the site can be visited year-round, considering the best times to visit may enhance your experience; quieter periods may allow for a more personal connection to the memorial.
 
-As you prepare for your visit, it’s also wise to familiarize yourself with the guidelines and expectations for behavior within the memorial. This ensures that the experience remains respectful for all visitors.
+As you prepare for your visit, it's also wise to familiarize yourself with the guidelines and expectations for behavior within the memorial. This ensures that the experience remains respectful for all visitors.
 
 ## Nearby Attractions
 

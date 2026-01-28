@@ -44,7 +44,7 @@ The architecture of the Lahn-Marmor-Museum harmonizes with its purpose, reflecti
 
 Inside, the museum features a variety of exhibits that showcase the different applications of Lahn marble. Visitors can expect to see displays of both historical and contemporary works, including sculptures, architectural fragments, and artistic installations that highlight the versatility of this material. The layout of the museum is designed to facilitate a smooth flow from one exhibit to another, allowing guests to engage with the stories behind each piece.
 
-Interactive exhibits may also be present, providing opportunities for hands-on learning about the quarrying and crafting processes. Such features enhance the overall educational experience, making it accessible to visitors of all ages and backgrounds. By focusing on the unique aspects of Lahn marble, the museum encapsulates the artistry and hard work that has defined the region’s cultural landscape.
+Interactive exhibits may also be present, providing opportunities for hands-on learning about the quarrying and crafting processes. Such features enhance the overall educational experience, making it accessible to visitors of all ages and backgrounds. By focusing on the unique aspects of Lahn marble, the museum encapsulates the artistry and hard work that has defined the region's cultural landscape.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ For those traveling from afar, it may be beneficial to combine a visit to the La
 
 2. **Lahn River Promenade**: A scenic area for walking or cycling, the promenade offers a picturesque view of the river and surrounding landscapes.
 
-3. **Castle of Weilburg**: A short distance away, this castle provides a glimpse into the region’s noble history and architecture, with guided tours available.
+3. **Castle of Weilburg**: A short distance away, this castle provides a glimpse into the region's noble history and architecture, with guided tours available.
 
 4. **Wetzlar Old Town**: Known for its medieval charm, Wetzlar features well-preserved buildings and an array of shops and restaurants.
 

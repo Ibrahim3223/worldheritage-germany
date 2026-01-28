@@ -30,7 +30,7 @@ Burg Kinzweiler, a captivating castle located in the heart of Eschweiler, German
 
 Eschweiler, situated in the North Rhine-Westphalia region, is known for its industrial heritage, but the allure of Burg Kinzweiler lies in its ability to transport visitors to a different era. The castle's impressive structure serves as a reminder of the feudal systems that once dominated this area and the lives of those who inhabited it, from nobility to common folk. As you approach Burg Kinzweiler, you not only encounter a remarkable architectural feat, but also a site that embodies the cultural evolution of the region.
 
-Whether you are a history enthusiast, an architecture aficionado, or simply looking for a picturesque spot to visit, Burg Kinzweiler offers an enchanting experience. The castle’s serene surroundings and rich history promise an engaging exploration that will appeal to a diverse audience.
+Whether you are a history enthusiast, an architecture aficionado, or simply looking for a picturesque spot to visit, Burg Kinzweiler offers an enchanting experience. The castle's serene surroundings and rich history promise an engaging exploration that will appeal to a diverse audience.
 
 ## History and Significance
 
@@ -85,7 +85,7 @@ Seasonal considerations may also play a role in your visit. Spring and early aut
 A visit to Burg Kinzweiler typically takes around two hours, allowing ample time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site or refer to the official website for guidelines during your visit.
+Photography policies may vary, so it's best to check on-site or refer to the official website for guidelines during your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current offerings and schedules.

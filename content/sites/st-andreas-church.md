@@ -32,7 +32,7 @@ As you approach St. Andreas Church, you will be enveloped by the charm of the su
 
 ## History and Significance
 
-The history of St. Andreas Church is woven into the larger tapestry of Cologne’s past. While specific founding details are not documented, the church has played an essential role in the community for centuries. Its significance extends beyond mere architecture; it has served as a gathering place for worship and reflection for generations, embodying the spiritual life of the city.
+The history of St. Andreas Church is woven into the larger tapestry of Cologne's past. While specific founding details are not documented, the church has played an essential role in the community for centuries. Its significance extends beyond mere architecture; it has served as a gathering place for worship and reflection for generations, embodying the spiritual life of the city.
 
 Cologne itself has a rich ecclesiastical history, with many churches dotting the landscape, but St. Andreas stands out due to its unique architectural features and historical relevance. It has been a witness to significant events throughout the ages and has retained its role as a sanctuary for those seeking solace in their faith. The church's enduring presence amidst the changing tides of history exemplifies its cultural importance, as it continues to be a focal point for both spiritual and community activities.
 
@@ -50,7 +50,7 @@ Among the church's notable features is its altar, which is artistically designed
 
 Visiting St. Andreas Church provides a unique opportunity to immerse oneself in the spiritual and cultural richness of Cologne. The church is located in the Altstadt-Nord district, easily accessible by public transport. Check the official website for current information regarding visiting hours and any potential entry fees.
 
-When planning your visit, it is advisable to allow ample time to explore the church’s interior and take in its architectural beauty. Many visitors find that an hour is a suitable amount of time to appreciate the church fully. For a more enriching experience, consider visiting during a service or special event, where the atmosphere is particularly uplifting.
+When planning your visit, it is advisable to allow ample time to explore the church's interior and take in its architectural beauty. Many visitors find that an hour is a suitable amount of time to appreciate the church fully. For a more enriching experience, consider visiting during a service or special event, where the atmosphere is particularly uplifting.
 
 The best times to visit are typically during weekdays when the church is less crowded, allowing for a peaceful experience. Early mornings or late afternoons also provide a quieter setting for reflection. 
 
@@ -60,7 +60,7 @@ St. Andreas Church is conveniently located near several other notable attraction
 
 1. **Cologne Cathedral (Kölner Dom)**: Just a short walk away, this UNESCO World Heritage site is one of Germany's most iconic landmarks, renowned for its stunning Gothic architecture and twin spires.
   
-2. **Roman-Germanic Museum**: Located nearby, this museum offers insights into the Roman history of Cologne, showcasing artifacts and exhibitions that highlight the city’s ancient past.
+2. **Roman-Germanic Museum**: Located nearby, this museum offers insights into the Roman history of Cologne, showcasing artifacts and exhibitions that highlight the city's ancient past.
 
 3. **Hohenzollern Bridge**: A picturesque bridge that spans the Rhine River, providing stunning views of the city and a popular spot for couples to attach love locks.
 
@@ -89,7 +89,7 @@ A visit to St. Andreas Church typically takes about an hour. This allows suffici
 Photography is generally permitted, but be mindful of your surroundings and refrain from using flash during services.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide additional context and insights into the church’s history.
+Check the official website for information on guided tours, which can provide additional context and insights into the church's history.
 
 ### What's the best time to visit?
 The best time to visit is during weekdays, particularly in the morning or late afternoon, to avoid larger crowds.
@@ -101,7 +101,7 @@ Check the official website for current information on accessibility options for 
 Check the official website for information regarding tickets and potential online purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes can usually be found, but it’s advisable to check in advance for specific details.
+Facilities such as restrooms and nearby cafes can usually be found, but it's advisable to check in advance for specific details.
 
 ### What should I wear?
 Dress modestly while visiting to respect the sacred atmosphere of the church. Comfortable shoes are recommended for exploring the area.

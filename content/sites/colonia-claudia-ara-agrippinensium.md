@@ -28,7 +28,7 @@ image_srcset:
 
 Colonia Claudia Ara Agrippinensium, the name of an ancient Roman colony, encapsulates a significant chapter in the history of Cologne, Germany. Established during the Roman Empire, this archaeological site provides valuable insights into the urban planning and social dynamics of Roman colonial settlements. Located at coordinates 50.938055555, 6.956944444, the site is a crucial piece of the historical puzzle that illustrates the expansion of Roman influence across Europe. Today, it serves as an important reminder of Cologne's rich past, inviting visitors to explore the remnants of a civilization that has left an indelible mark on the region.
 
-Colonia Claudia Ara Agrippinensium is not only an archaeological site but also a testament to the cultural and economic significance of Roman settlements in the area. The site’s remains highlight the sophisticated and structured nature of Roman urban life, showcasing how the Romans adapted their architectural styles and urban planning techniques in new territories. As one of the key starting points for the Romanization of Germania, the site attracts historians, archaeologists, and travelers alike, eager to delve into the depths of its storied past.
+Colonia Claudia Ara Agrippinensium is not only an archaeological site but also a testament to the cultural and economic significance of Roman settlements in the area. The site's remains highlight the sophisticated and structured nature of Roman urban life, showcasing how the Romans adapted their architectural styles and urban planning techniques in new territories. As one of the key starting points for the Romanization of Germania, the site attracts historians, archaeologists, and travelers alike, eager to delve into the depths of its storied past.
 
 Visiting this archaeological site offers a unique opportunity to connect with history in a tangible way. Although much of the original structure has been lost to time, the fragments that remain tell a compelling story of life in a Roman colony, making it a must-see destination for anyone interested in the ancient world and the evolution of modern cities.
 
@@ -50,7 +50,7 @@ Among the most notable features of the site are the remains of public buildings,
 
 Additionally, evidence of residential areas provides insight into the daily lives of the inhabitants. The arrangement of homes, along with findings of domestic artifacts, offers a glimpse into the living conditions and social hierarchies present in the colony. The use of local materials in construction also showcases how the Romans adapted their building techniques to suit the resources available in their new environment.
 
-The site also contains remnants that suggest the presence of temples dedicated to Roman deities, highlighting the importance of religion in the life of the colony’s residents. The architectural features and spatial organization of these structures reflect Roman religious practices and the integration of spirituality into everyday life.
+The site also contains remnants that suggest the presence of temples dedicated to Roman deities, highlighting the importance of religion in the life of the colony's residents. The architectural features and spatial organization of these structures reflect Roman religious practices and the integration of spirituality into everyday life.
 
 While much of the original site has eroded over the centuries, the remaining structures and artifacts continue to tell the story of a flourishing Roman community, illustrating the blending of Roman engineering prowess with local customs and traditions.
 
@@ -74,7 +74,7 @@ Colonia Claudia Ara Agrippinensium is situated within a vibrant historical conte
 
 3. **Roman-Germanic Museum**: This museum complements a visit to Colonia Claudia Ara Agrippinensium with its extensive collection of Roman artifacts, including mosaics, jewelry, and tools, providing further context to the Roman presence in Cologne.
 
-4. **Old Town (Altstadt)**: A stroll through the charming streets of Cologne’s Old Town will reveal picturesque buildings, traditional breweries, and quaint shops, offering a perfect blend of history and modern culture.
+4. **Old Town (Altstadt)**: A stroll through the charming streets of Cologne's Old Town will reveal picturesque buildings, traditional breweries, and quaint shops, offering a perfect blend of history and modern culture.
 
 5. **Hohenzollern Bridge**: This iconic bridge, famous for its love locks, offers scenic views of the Rhine River and the Cologne skyline. It is a popular spot for photography and leisurely walks.
 
@@ -84,7 +84,7 @@ To make the most of your visit to Colonia Claudia Ara Agrippinensium, consider b
 
 Be mindful that weekends and holidays may attract larger crowds, so planning your visit during the week can offer a more peaceful atmosphere. Additionally, wearing comfortable shoes is advisable, as the site may involve walking over uneven terrain.
 
-If you’re interested in learning more during your visit, look for any available brochures or information panels that provide insights into the site’s history and significance. Engaging with these resources can enrich your experience.
+If you're interested in learning more during your visit, look for any available brochures or information panels that provide insights into the site's history and significance. Engaging with these resources can enrich your experience.
 
 ## Practical Information
 

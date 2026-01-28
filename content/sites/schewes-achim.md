@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Schewes Achim, a former synagogue located on Gluckstraße in the Hamburg-Barmbek district, encapsulates the rich cultural and religious history of the Jewish community in Hamburg. Established in a city known for its vibrant history and diverse population, this site serves as a poignant reminder of the Jewish presence in Germany and the significant contributions of this community to the city’s fabric. Visitors to Schewes Achim will discover not only a space for reflection but also an opportunity to delve into the narratives that have shaped the Jewish experience in Hamburg.
+Schewes Achim, a former synagogue located on Gluckstraße in the Hamburg-Barmbek district, encapsulates the rich cultural and religious history of the Jewish community in Hamburg. Established in a city known for its vibrant history and diverse population, this site serves as a poignant reminder of the Jewish presence in Germany and the significant contributions of this community to the city's fabric. Visitors to Schewes Achim will discover not only a space for reflection but also an opportunity to delve into the narratives that have shaped the Jewish experience in Hamburg.
 
 Hamburg, a major port city in northern Germany, has long been a melting pot of cultures and traditions. The region's Jewish heritage dates back centuries, and sites like Schewes Achim provide vital insights into the social, spiritual, and architectural developments that have occurred over time. This synagogue is an important landmark that highlights the resilience of the Jewish community, particularly in light of the challenges they faced during historical upheaval.
 
@@ -54,7 +54,7 @@ The best times to visit are typically during weekdays when the site is less crow
 
 While in the Barmbek district, there are several noteworthy attractions that complement a visit to Schewes Achim:
 
-1. **Hamburg's City Hall (Rathaus)**: A short distance away, this impressive building is a symbol of Hamburg’s political history and features stunning architecture and guided tours.
+1. **Hamburg's City Hall (Rathaus)**: A short distance away, this impressive building is a symbol of Hamburg's political history and features stunning architecture and guided tours.
 
 2. **Heiligengeistfeld**: This open space often hosts events and festivals, providing a lively atmosphere that contrasts with the contemplative nature of the synagogue.
 

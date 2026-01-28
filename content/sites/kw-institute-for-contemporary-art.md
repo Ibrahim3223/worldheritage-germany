@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The KW Institute for Contemporary Art stands as a vital hub of contemporary art in Berlin, Germany. Located in the Bezirk Mitte district, this art museum is a cornerstone of the city’s vibrant cultural landscape, drawing in art enthusiasts and curious visitors alike. The institute not only showcases innovative works from both established and emerging artists but also engages with critical discourse surrounding contemporary issues in art and society. Its programming often reflects the dynamic nature of the art world, making it a significant player in global contemporary art dialogues.
+The KW Institute for Contemporary Art stands as a vital hub of contemporary art in Berlin, Germany. Located in the Bezirk Mitte district, this art museum is a cornerstone of the city's vibrant cultural landscape, drawing in art enthusiasts and curious visitors alike. The institute not only showcases innovative works from both established and emerging artists but also engages with critical discourse surrounding contemporary issues in art and society. Its programming often reflects the dynamic nature of the art world, making it a significant player in global contemporary art dialogues.
 
-Berlin, known for its rich history and diverse cultural offerings, provides a fitting backdrop for the KW Institute. The city’s transformation over the decades has fostered a unique environment for contemporary art to flourish, and KW plays a crucial role in this narrative. With its commitment to supporting new forms of artistic expression, the institute promises to be a thought-provoking stop on any art lover’s itinerary.
+Berlin, known for its rich history and diverse cultural offerings, provides a fitting backdrop for the KW Institute. The city's transformation over the decades has fostered a unique environment for contemporary art to flourish, and KW plays a crucial role in this narrative. With its commitment to supporting new forms of artistic expression, the institute promises to be a thought-provoking stop on any art lover's itinerary.
 
 Visitors to the KW Institute can expect an enriching experience that transcends traditional museum visits, offering insights into the ever-evolving landscape of contemporary art.
 
@@ -52,7 +52,7 @@ Planning a visit to the KW Institute for Contemporary Art involves considering v
 
 Check the official website for current information regarding hours and ticket prices, as these may vary. The typical visit duration can range from one to two hours, depending on the exhibitions and personal interests. For those who prefer a quieter experience, visiting during weekday afternoons may be ideal, as weekends tend to attract larger crowds.
 
-Upon arrival, visitors can expect to find a welcoming atmosphere with knowledgeable staff ready to assist. The institute often hosts a variety of exhibitions and events, so it’s worth checking the schedule ahead of time to ensure you don’t miss any special programs.
+Upon arrival, visitors can expect to find a welcoming atmosphere with knowledgeable staff ready to assist. The institute often hosts a variety of exhibitions and events, so it's worth checking the schedule ahead of time to ensure you don't miss any special programs.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ While in the Bezirk Mitte district, several nearby attractions complement a visi
 
 3. **Museum für Naturkunde**: This natural history museum is known for its extensive collection, including dinosaur skeletons and a fascinating exhibition on evolution.
 
-4. **Potsdamer Platz**: A bustling square featuring shopping, dining, and entertainment options, it’s a great place to experience Berlin's modern architecture and vibrant city life.
+4. **Potsdamer Platz**: A bustling square featuring shopping, dining, and entertainment options, it's a great place to experience Berlin's modern architecture and vibrant city life.
 
 5. **Brandenburg Gate**: An iconic symbol of Berlin, this neoclassical monument is a must-see for anyone visiting the city.
 

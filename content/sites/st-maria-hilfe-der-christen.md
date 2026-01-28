@@ -88,7 +88,7 @@ When planning your visit to St. Maria Hilfe der Christen, consider the following
 
 - **Seasonal Considerations**: Depending on the time of year, weather conditions can vary. Dress appropriately for the weather, and consider bringing an umbrella if visiting during the rainy season.
 
-- **Accessibility**: If you have mobility concerns, it’s advisable to check the official website for information on accessibility options at the church.
+- **Accessibility**: If you have mobility concerns, it's advisable to check the official website for information on accessibility options at the church.
 
 ## Frequently Asked Questions
 

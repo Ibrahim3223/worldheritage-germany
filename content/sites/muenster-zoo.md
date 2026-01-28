@@ -32,7 +32,7 @@ As you wander through the zoo, you will encounter a variety of animal species, e
 
 ## History and Significance
 
-Münster Zoo has played a vital role in the region's cultural and educational landscape. Established to promote wildlife conservation and public awareness, the zoo has evolved over the years, adapting to the changing needs of its inhabitants and the community. While specific historical milestones may not be documented, the zoo’s mission aligns with global conservation efforts, emphasizing the importance of protecting endangered species and their habitats.
+Münster Zoo has played a vital role in the region's cultural and educational landscape. Established to promote wildlife conservation and public awareness, the zoo has evolved over the years, adapting to the changing needs of its inhabitants and the community. While specific historical milestones may not be documented, the zoo's mission aligns with global conservation efforts, emphasizing the importance of protecting endangered species and their habitats.
 
 The zoo not only provides a recreational space but also functions as a key educational resource. It hosts various programs aimed at raising awareness about environmental issues, animal behavior, and conservation strategies. Through these initiatives, Münster Zoo fosters a connection between the public and the natural world, inspiring future generations to engage with and protect wildlife. 
 
@@ -101,7 +101,7 @@ Check the official website for information regarding guided tours, as they may b
 The best time to visit is during the spring and summer months when the weather is pleasant, and animals are more active. Early mornings or late afternoons can also be ideal for avoiding crowds.
 
 ### Is it wheelchair accessible?
-Münster Zoo is designed to be accessible for visitors with mobility challenges. Pathways are generally well-maintained, but it’s best to verify specific accessibility options on the official website.
+Münster Zoo is designed to be accessible for visitors with mobility challenges. Pathways are generally well-maintained, but it's best to verify specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 Check the official website for the option to purchase tickets online, which can help streamline your entry and avoid queues.

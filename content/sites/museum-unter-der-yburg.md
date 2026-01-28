@@ -90,9 +90,9 @@ To get the most out of your visit to the Museum unter der Yburg, consider a few 
 
 - **Crowd Avoidance**: Aim to visit during weekdays or early mornings to avoid larger crowds that may gather on weekends or during special events. This will allow you to enjoy the exhibits with greater ease and comfort.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about any ongoing exhibitions or programs. They can provide valuable insights and enhance your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about any ongoing exhibitions or programs. They can provide valuable insights and enhance your understanding of the displays.
 
-- **Plan for Additional Time**: If you’re particularly interested in local history or art, consider allocating extra time for your visit. You may find yourself wanting to explore each exhibit in greater detail.
+- **Plan for Additional Time**: If you're particularly interested in local history or art, consider allocating extra time for your visit. You may find yourself wanting to explore each exhibit in greater detail.
 
 ## Practical Information
 

@@ -64,7 +64,7 @@ When visiting the Stiftung Niedersächsisches Wirtschaftsarchiv, consider bringi
 
 ## Practical Information
 
-Visitors should consider bringing a notebook or device for taking notes, as the wealth of information can be overwhelming. Dress comfortably, as you may spend extended periods walking or sitting while reviewing materials. Seasonal considerations may affect your visit, so it’s advisable to check the weather forecast and dress accordingly.
+Visitors should consider bringing a notebook or device for taking notes, as the wealth of information can be overwhelming. Dress comfortably, as you may spend extended periods walking or sitting while reviewing materials. Seasonal considerations may affect your visit, so it's advisable to check the weather forecast and dress accordingly.
 
 ## Frequently Asked Questions
 

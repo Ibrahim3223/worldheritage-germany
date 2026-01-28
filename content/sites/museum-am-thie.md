@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Museum am Thie is an engaging cultural institution located in Göttingen, Germany. This museum serves as a gateway to understanding the local heritage and the broader historical narratives that shape the region. With its commitment to showcasing both the past and present of Göttingen, visitors are invited to explore a variety of exhibits that reflect the area’s unique character. The museum's strategic location in the heart of the city makes it an accessible stop for those interested in delving into the cultural landscape of Germany.
+Museum am Thie is an engaging cultural institution located in Göttingen, Germany. This museum serves as a gateway to understanding the local heritage and the broader historical narratives that shape the region. With its commitment to showcasing both the past and present of Göttingen, visitors are invited to explore a variety of exhibits that reflect the area's unique character. The museum's strategic location in the heart of the city makes it an accessible stop for those interested in delving into the cultural landscape of Germany.
 
 As you step into the Museum am Thie, you are greeted with an inviting atmosphere that encourages curiosity and exploration. The museum plays a significant role in preserving and presenting the cultural identity of Göttingen, making it an essential visit for anyone looking to grasp the essence of this vibrant city. Whether you are a history enthusiast, an art lover, or simply someone looking to learn more about the region, the museum promises an enriching experience.
 
@@ -30,7 +30,7 @@ Museum am Thie is not just a place to view artifacts; it is a space where the na
 
 The significance of the Museum am Thie lies in its role as a custodian of local history. It offers insight into various aspects of life in Göttingen, from its academic roots, given the presence of the University of Göttingen, to the influences of the surrounding region. The museum often engages with the community, hosting events and exhibitions that highlight contemporary issues and foster dialogue among residents and visitors alike.
 
-In addition to showcasing local history, the museum also serves as a platform for artists and historians to collaborate on projects that celebrate Göttingen’s heritage. Through its varied programming, Museum am Thie not only preserves the past but also acts as a living entity, reflecting the ongoing evolution of the city's cultural landscape.
+In addition to showcasing local history, the museum also serves as a platform for artists and historians to collaborate on projects that celebrate Göttingen's heritage. Through its varied programming, Museum am Thie not only preserves the past but also acts as a living entity, reflecting the ongoing evolution of the city's cultural landscape.
 
 ## Architecture and Features
 
@@ -54,7 +54,7 @@ Göttingen is home to several noteworthy attractions that complement a visit to 
 
 1. **Gänseliesel Fountain**: This iconic fountain features a statue of a young girl herding geese and is often regarded as a symbol of the city. It is located in the town square and is a popular meeting spot.
 
-2. **St. Jacob’s Church (Jakobskirche)**: A short walk from the museum, this medieval church is known for its stunning architecture and impressive stained glass windows, offering insights into the city’s religious history.
+2. **St. Jacob's Church (Jakobskirche)**: A short walk from the museum, this medieval church is known for its stunning architecture and impressive stained glass windows, offering insights into the city's religious history.
 
 3. **University of Göttingen**: Known for its prestigious academic reputation, the university campus boasts beautiful architecture and gardens, making it an interesting area to explore.
 

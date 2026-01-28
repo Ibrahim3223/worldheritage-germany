@@ -34,7 +34,7 @@ The museum not only highlights the significance of graphic arts in contemporary 
 
 Grafik Museum Stiftung Schreiner has been established to preserve and promote the art of graphic design, providing a platform for both historical and contemporary works. Although specific historical details about its founding are not provided, the museum plays a crucial role in the cultural landscape of Bad Steben. It reflects the broader movement within Germany and Europe to celebrate and document the evolution of graphic arts.
 
-The significance of the museum lies in its commitment to education and community engagement. By hosting exhibitions, workshops, and lectures, it fosters a deeper understanding of graphic arts among a diverse audience. The museum’s collection is a testament to the skill and creativity of artists who have contributed to the field, making it a valuable resource for students, educators, and art lovers.
+The significance of the museum lies in its commitment to education and community engagement. By hosting exhibitions, workshops, and lectures, it fosters a deeper understanding of graphic arts among a diverse audience. The museum's collection is a testament to the skill and creativity of artists who have contributed to the field, making it a valuable resource for students, educators, and art lovers.
 
 Furthermore, Grafik Museum Stiftung Schreiner enhances the cultural offerings of Bad Steben, a town already recognized for its wellness tourism. By integrating art into the local community, the museum not only enriches the visitor experience but also supports the town's cultural identity. It serves as a bridge between artistic expression and community development, highlighting the vital role art plays in society.
 

@@ -89,7 +89,7 @@ Most visitors find that spending a few hours at Schloss Engers allows ample time
 Photography policies may vary, so it is best to check signage within the museum or inquire with staff regarding specific areas.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as they may enhance your understanding of the palace’s history and significance.
+Check the official website for information regarding guided tours, as they may enhance your understanding of the palace's history and significance.
 
 ### What's the best time to visit?
 Weekdays or early mornings are generally less crowded, allowing for a more relaxed experience.

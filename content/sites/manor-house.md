@@ -30,7 +30,7 @@ The Manor House is more than just a historical building; it represents the evolu
 
 Throughout the centuries, manor houses like this one served as centers of agriculture and governance, reflecting the socio-economic structures of their time. They were often the sites where significant local decisions were made, and they housed individuals who played pivotal roles in the development of the surrounding communities. 
 
-In its role as a museum, the Manor House actively contributes to preserving and interpreting this history. It showcases various artifacts that illustrate the domestic life of its former residents and the broader cultural narratives of the region. Visitors can gain a sense of how the manor’s inhabitants lived, worked, and interacted, providing an engaging context for understanding the historical significance of such estates.
+In its role as a museum, the Manor House actively contributes to preserving and interpreting this history. It showcases various artifacts that illustrate the domestic life of its former residents and the broader cultural narratives of the region. Visitors can gain a sense of how the manor's inhabitants lived, worked, and interacted, providing an engaging context for understanding the historical significance of such estates.
 
 ## Architecture and Features
 
@@ -62,11 +62,11 @@ While visiting the Manor House, there are several nearby attractions worth explo
 
 For photography enthusiasts, the Manor House offers a variety of picturesque scenes, both inside and out. However, it is advisable to check for any restrictions on photography, especially in certain exhibition areas. 
 
-Crowd levels can vary, so visiting during weekdays or off-peak hours may provide a more intimate experience. If you’re planning to participate in guided tours, arriving early can ensure a spot, as they may be limited in size.
+Crowd levels can vary, so visiting during weekdays or off-peak hours may provide a more intimate experience. If you're planning to participate in guided tours, arriving early can ensure a spot, as they may be limited in size.
 
 ## Practical Information
 
-When planning your visit to the Manor House, it’s beneficial to bring comfortable walking shoes, as exploring the museum and surrounding areas may involve some walking. Seasonal considerations, such as weather conditions, should also be taken into account; bringing an umbrella or sunscreen, depending on the season, can enhance your experience.
+When planning your visit to the Manor House, it's beneficial to bring comfortable walking shoes, as exploring the museum and surrounding areas may involve some walking. Seasonal considerations, such as weather conditions, should also be taken into account; bringing an umbrella or sunscreen, depending on the season, can enhance your experience.
 
 Visitors should also be prepared for varying indoor temperatures, especially in older buildings. A light jacket may be useful during cooler months. 
 
@@ -76,7 +76,7 @@ Visitors should also be prepared for varying indoor temperatures, especially in 
 Visitors typically spend around 2-3 hours at the Manor House to fully appreciate the exhibits and grounds.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival to see if there are any restrictions on taking pictures.
+Photography policies may vary, so it's best to check upon arrival to see if there are any restrictions on taking pictures.
 
 ### Are there guided tours?
 Yes, guided tours are often available, providing deeper insights into the history and significance of the Manor House.

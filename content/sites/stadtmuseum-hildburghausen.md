@@ -100,7 +100,7 @@ When preparing for your visit to the Stadtmuseum Hildburghausen, consider bringi
 
 - **Weather Considerations**: Depending on the season, dress appropriately for the weather. Layers can be beneficial, particularly if you're visiting during transitional seasons.
 
-- **Water and Snacks**: While the museum may have facilities, it’s always a good idea to bring a water bottle and some light snacks, especially if you plan to explore the town afterward.
+- **Water and Snacks**: While the museum may have facilities, it's always a good idea to bring a water bottle and some light snacks, especially if you plan to explore the town afterward.
 
 - **Map or Guide**: Having a map or guide can be helpful to navigate both the museum and nearby attractions efficiently.
 

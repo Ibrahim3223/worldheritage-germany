@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Bebauung am Luisenplatz is a striking architectural ensemble located in the Charlottenburg-Wilmersdorf district of Berlin, Germany. This carefully curated collection of structures reflects the rich cultural and historical narrative of the area, serving as a remarkable example of the city’s architectural evolution. The ensemble is situated at coordinates 52.5208, 13.2999, making it easily accessible for visitors exploring Berlin’s vibrant urban landscape. 
+Bebauung am Luisenplatz is a striking architectural ensemble located in the Charlottenburg-Wilmersdorf district of Berlin, Germany. This carefully curated collection of structures reflects the rich cultural and historical narrative of the area, serving as a remarkable example of the city's architectural evolution. The ensemble is situated at coordinates 52.5208, 13.2999, making it easily accessible for visitors exploring Berlin's vibrant urban landscape. 
 
 The significance of Bebauung am Luisenplatz extends beyond its physical presence; it is a testament to the architectural movements that have shaped Berlin over the decades. As visitors approach the ensemble, they are greeted by a synthesis of styles that illustrate the region's dynamic history, from neoclassical influences to modernist interpretations. This diversity not only enhances the visual appeal of the site but also invites contemplation about the cultural shifts that have occurred in this part of the city. Whether you are an architecture aficionado or a casual traveler, Bebauung am Luisenplatz promises a captivating experience that invites exploration and appreciation.
 
 ## History and Significance
 
-The history of Bebauung am Luisenplatz is intertwined with the broader narrative of Berlin's architectural development. This ensemble stands as a representation of the city’s evolution, reflecting various artistic and cultural movements throughout the years. While specific dates and events may vary, the architectural significance of this site is grounded in its ability to showcase the transitions that have occurred in Berlin’s urban planning and design.
+The history of Bebauung am Luisenplatz is intertwined with the broader narrative of Berlin's architectural development. This ensemble stands as a representation of the city's evolution, reflecting various artistic and cultural movements throughout the years. While specific dates and events may vary, the architectural significance of this site is grounded in its ability to showcase the transitions that have occurred in Berlin's urban planning and design.
 
 The site has been a focal point for cultural engagement, serving as a backdrop for social interactions and community gatherings. Its prominence in the urban fabric of Charlottenburg-Wilmersdorf highlights the importance of thoughtful architectural design in shaping public spaces. As the area around Luisenplatz developed, the ensemble became an essential element of the neighborhood, illustrating how architecture can influence social dynamics and cultural identity.
 
@@ -46,7 +46,7 @@ The buildings within the ensemble showcase a range of materials and techniques, 
 
 Notable features of Bebauung am Luisenplatz include carefully designed entrances, ornamental details, and the use of public spaces that encourage interaction. The layout of the ensemble is thoughtfully planned, allowing for a seamless flow between the various buildings and surrounding areas. This attention to connectivity not only enhances the usability of the site but also enriches the visitor experience, providing spaces for reflection and gathering.
 
-As an architectural ensemble, Bebauung am Luisenplatz serves as an important case study for understanding the evolution of urban design in Berlin. The site encapsulates the city’s ongoing dialogue between tradition and innovation, making it a significant destination for those interested in architectural heritage.
+As an architectural ensemble, Bebauung am Luisenplatz serves as an important case study for understanding the evolution of urban design in Berlin. The site encapsulates the city's ongoing dialogue between tradition and innovation, making it a significant destination for those interested in architectural heritage.
 
 ## Visiting Information
 

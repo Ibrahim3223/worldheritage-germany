@@ -32,7 +32,7 @@ The square is not just a geographic landmark; it represents the cultural mosaic 
 
 ## History and Significance
 
-Leopoldplatz has a rich history that reflects the broader narrative of Berlin’s urban development. Originally designed as a public square in the late 19th century, Leopoldplatz has undergone several transformations that mirror the changes in the city itself. The square has served various purposes over the years, from a marketplace to a social gathering spot, adapting to the needs of the community while maintaining its central role in the area.
+Leopoldplatz has a rich history that reflects the broader narrative of Berlin's urban development. Originally designed as a public square in the late 19th century, Leopoldplatz has undergone several transformations that mirror the changes in the city itself. The square has served various purposes over the years, from a marketplace to a social gathering spot, adapting to the needs of the community while maintaining its central role in the area.
 
 The significance of Leopoldplatz extends beyond its practical uses; it is a symbol of the diverse cultural landscape of Berlin. Throughout the years, it has hosted numerous events and festivals that celebrate the local communities, showcasing the ethnic and cultural diversity that characterizes the district of Wedding. This square has been a witness to the city's turbulent history, including the aftermath of World War II, which left a lasting impact on Berlin's architecture and social fabric.
 
@@ -50,7 +50,7 @@ In addition to its architectural elements, Leopoldplatz is often animated by loc
 
 Leopoldplatz is easily accessible via public transport, making it a convenient destination for both locals and tourists. Visitors can reach the square by taking the U-Bahn (subway) to the nearby station, which connects to various parts of the city. Additionally, bus routes service the area, providing further accessibility.
 
-When planning a visit, it’s advisable to check the official website for current information regarding events, hours, and any potential entry fees. Expect to spend a few hours exploring the square and its surroundings, especially if you take the time to enjoy a meal or coffee at one of the nearby cafes.
+When planning a visit, it's advisable to check the official website for current information regarding events, hours, and any potential entry fees. Expect to spend a few hours exploring the square and its surroundings, especially if you take the time to enjoy a meal or coffee at one of the nearby cafes.
 
 The best times to visit Leopoldplatz are during the weekdays when local life thrives, and the square is bustling with activity. Weekends can be lively as well, with various events and markets drawing larger crowds. Regardless of when you choose to go, be prepared for a lively atmosphere where you can observe the everyday life of Berlin's diverse communities.
 
@@ -60,7 +60,7 @@ While visiting Leopoldplatz, take the opportunity to explore the surrounding are
 
 1. **Volkspark Rehberge**: A short walk from Leopoldplatz, this expansive park offers green spaces, walking trails, and recreational facilities, providing a perfect backdrop for a leisurely stroll.
 
-2. **Brunnenstraße**: This street is known for its eclectic mix of shops, cafes, and restaurants. It’s a great place to explore the local culinary scene and discover unique boutiques.
+2. **Brunnenstraße**: This street is known for its eclectic mix of shops, cafes, and restaurants. It's a great place to explore the local culinary scene and discover unique boutiques.
 
 3. **Wedding's Historic Market Hall**: Located nearby, this market hall is an excellent spot for sampling local delicacies and artisanal products, embodying the culinary diversity of the area.
 
@@ -76,7 +76,7 @@ If you plan to enjoy the local markets or events, arriving early can provide a m
 
 ## Practical Information
 
-When visiting Leopoldplatz, it’s recommended to bring a camera to capture the vibrant scenes, as well as comfortable walking shoes to explore the area thoroughly. Seasonal considerations are important; during summer, the square is lively with outdoor events, while winter may offer a quieter experience. 
+When visiting Leopoldplatz, it's recommended to bring a camera to capture the vibrant scenes, as well as comfortable walking shoes to explore the area thoroughly. Seasonal considerations are important; during summer, the square is lively with outdoor events, while winter may offer a quieter experience. 
 
 Be sure to check the weather forecast ahead of your visit, and dress appropriately. Layers can be beneficial, as temperatures can fluctuate throughout the day. Additionally, if you plan to enjoy local food or beverages, consider bringing along a reusable water bottle to stay hydrated while exploring.
 
@@ -95,7 +95,7 @@ Currently, there are no specific guided tours of Leopoldplatz, but local walking
 Weekdays are ideal for experiencing the local atmosphere, while weekends may be busier with events and markets.
 
 ### Is it wheelchair accessible?
-Leopoldplatz is designed to be accessible, but it’s advisable to check specific access points and pathways for any potential obstacles.
+Leopoldplatz is designed to be accessible, but it's advisable to check specific access points and pathways for any potential obstacles.
 
 ### Can I buy tickets online?
 There are typically no entry fees for Leopoldplatz, but for specific events or nearby attractions, check their official websites for ticketing information.

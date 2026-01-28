@@ -60,7 +60,7 @@ When visiting Friedhof der Märzgefallenen, there are several nearby attractions
   
 2. **Boxhagener Platz**: A lively square that hosts a weekly market and offers a variety of cafes and shops, perfect for a leisurely stroll or a coffee break.
 
-3. **Kreuzberg Museum**: Dedicated to the cultural and social history of the Kreuzberg district, this museum provides further context to the area’s vibrant past.
+3. **Kreuzberg Museum**: Dedicated to the cultural and social history of the Kreuzberg district, this museum provides further context to the area's vibrant past.
 
 4. **Tempelhofer Feld**: Once an airport, this expansive park is now a public space where visitors can enjoy walking, cycling, and picnicking, making it a great spot to unwind.
 

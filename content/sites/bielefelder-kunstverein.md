@@ -72,7 +72,7 @@ In addition to Bielefelder Kunstverein, visitors to Bielefeld will find several 
 
 ## Insider Tips
 
-For photography enthusiasts, be sure to check the museum’s policy on photography before your visit, as some exhibitions may have restrictions. Early morning visits or weekdays are often less crowded, allowing for better opportunities to capture images without the distraction of other visitors.
+For photography enthusiasts, be sure to check the museum's policy on photography before your visit, as some exhibitions may have restrictions. Early morning visits or weekdays are often less crowded, allowing for better opportunities to capture images without the distraction of other visitors.
 
 Taking part in guided tours, if available, can provide deeper insight into the artworks and exhibitions, enhancing your overall experience. 
 

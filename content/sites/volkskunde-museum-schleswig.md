@@ -89,13 +89,13 @@ A visit typically takes around 2-3 hours to appreciate the exhibits fully, but y
 Photography policies can vary; check for signage within the museum to determine where photography is permitted.
 
 ### Are there guided tours?
-Information on guided tours may be available on the museum’s official website. These tours can provide additional insights into the exhibits.
+Information on guided tours may be available on the museum's official website. These tours can provide additional insights into the exhibits.
 
 ### What's the best time to visit?
 Weekdays are generally less crowded, making them ideal for a more relaxed visit. However, weekends may feature special events.
 
 ### Is it wheelchair accessible?
-Accessibility information is best confirmed on the museum’s official website, ensuring you have the latest details for your visit.
+Accessibility information is best confirmed on the museum's official website, ensuring you have the latest details for your visit.
 
 ### Can I buy tickets online?
 Check the official website for options regarding purchasing tickets in advance, which may streamline your entry.

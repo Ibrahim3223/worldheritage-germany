@@ -101,7 +101,7 @@ While specific accessibility details are not provided, many church buildings str
 For current information on ticketing, check the official website before your visit.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and cafes near St. Bruder Konrad are not specified, so it’s advisable to plan accordingly.
+Details regarding restrooms and cafes near St. Bruder Konrad are not specified, so it's advisable to plan accordingly.
 
 ### What should I wear?
 Dress comfortably and consider the nature of the visit—if attending a service, more formal attire may be appreciated.

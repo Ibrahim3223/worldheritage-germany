@@ -48,11 +48,11 @@ The exterior of the building, while modest, reflects the spirit of the Hansavier
 
 ## Visiting Information
 
-When planning a visit to Grips-Theater, it is important to consider various aspects to enhance your experience. The theatre is well-connected to Berlin’s public transport system, making it easily accessible. Various tram and bus lines serve the area, and for those who prefer the subway, nearby stations provide convenient options for reaching the venue.
+When planning a visit to Grips-Theater, it is important to consider various aspects to enhance your experience. The theatre is well-connected to Berlin's public transport system, making it easily accessible. Various tram and bus lines serve the area, and for those who prefer the subway, nearby stations provide convenient options for reaching the venue.
 
 Check the official website for current information on performance schedules, ticket prices, and hours of operation. This will ensure you can plan your visit around exciting shows and events. The theatre typically hosts a range of performances throughout the week, and attending a matinee can provide a more relaxed atmosphere, while evening shows often attract larger audiences.
 
-Expect to spend approximately two to three hours at the theatre, depending on the length of the performance you choose to attend. Arrive early to explore the venue and soak in the atmosphere. The best times to visit are during the theatre’s regular performance season, when new productions are launched and special events are held.
+Expect to spend approximately two to three hours at the theatre, depending on the length of the performance you choose to attend. Arrive early to explore the venue and soak in the atmosphere. The best times to visit are during the theatre's regular performance season, when new productions are launched and special events are held.
 
 ## Nearby Attractions
 
@@ -90,7 +90,7 @@ When preparing for your visit to Grips-Theater, keep a few practical considerati
 A visit to Grips-Theater typically involves a performance that lasts about two to three hours, so plan for additional time to arrive, explore, and enjoy the atmosphere.
 
 ### Is photography allowed?
-Photography during performances is generally not permitted. However, you can take photos of the theatre’s interior and exterior before or after the show.
+Photography during performances is generally not permitted. However, you can take photos of the theatre's interior and exterior before or after the show.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as availability may vary depending on the theatre's schedule and special events.

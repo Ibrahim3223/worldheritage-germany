@@ -82,11 +82,11 @@ While visiting the GRASSI Museum of Applied Arts, take advantage of the opportun
 
 To make the most of your visit to the GRASSI Museum of Applied Arts, consider the following insider tips:
 
-- **Photography**: While photography policies may vary, it’s advisable to check the rules upon entry. Some exhibitions may allow photography, while others might restrict it to protect the artworks.
+- **Photography**: While photography policies may vary, it's advisable to check the rules upon entry. Some exhibitions may allow photography, while others might restrict it to protect the artworks.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, plan your visit during weekdays or earlier in the day. This strategy can help you avoid peak times and allow for a more intimate exploration of the collections.
 
-- **Engage with Staff**: Museum staff can provide valuable insights and recommendations. Don’t hesitate to ask questions or seek their guidance on specific exhibits.
+- **Engage with Staff**: Museum staff can provide valuable insights and recommendations. Don't hesitate to ask questions or seek their guidance on specific exhibits.
 
 ## Practical Information
 

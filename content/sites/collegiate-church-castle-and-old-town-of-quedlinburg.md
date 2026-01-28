@@ -42,7 +42,7 @@ Despite suffering from various challenges throughout the centuries, including wa
 
 ## Architecture and Features
 
-The architectural landscape of Quedlinburg is a captivating blend of styles that reflect its long history. The Collegiate Church, a key feature of the site, is notable for its Romanesque design, characterized by sturdy stone walls and intricate arches. The church's tower, which dominates the skyline, serves as both an architectural landmark and a testament to the town’s religious heritage.
+The architectural landscape of Quedlinburg is a captivating blend of styles that reflect its long history. The Collegiate Church, a key feature of the site, is notable for its Romanesque design, characterized by sturdy stone walls and intricate arches. The church's tower, which dominates the skyline, serves as both an architectural landmark and a testament to the town's religious heritage.
 
 Surrounding the church are numerous half-timbered houses that showcase the craftsmanship of medieval builders. These structures, with their distinctive wooden frames and colorful facades, contribute to the unique character of the Old Town. The layout of the streets, winding and narrow, invites exploration and discovery, revealing hidden corners and inviting squares.
 

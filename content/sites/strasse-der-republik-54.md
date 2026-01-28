@@ -30,7 +30,7 @@ While specific historical dates may not be readily available, the town hall at S
 
 The significance of city halls in Germany is well-recognized. They often act as venues for civic engagement, community gatherings, and local decision-making processes. As a city hall, Straße der Republik 54 embodies this spirit of public service and local governance. It represents the democratic values that underpin community life, offering citizens a place to voice their concerns and participate in civic discussions.
 
-Niederoderwitz itself is a charming town, contributing to the cultural landscape of the Saxony region. The town hall’s presence is a reminder of the importance of local governance in maintaining community cohesion and addressing the needs and aspirations of residents. As you explore the building, you may reflect on how such institutions have evolved over the years in response to changing societal needs.
+Niederoderwitz itself is a charming town, contributing to the cultural landscape of the Saxony region. The town hall's presence is a reminder of the importance of local governance in maintaining community cohesion and addressing the needs and aspirations of residents. As you explore the building, you may reflect on how such institutions have evolved over the years in response to changing societal needs.
 
 ## Architecture and Features
 
@@ -94,9 +94,9 @@ Accessibility features may be present, but it's best to check the official websi
 Information about ticket purchases, if applicable, can be found on the official website.
 
 ### Are there restrooms and cafes?
-Local amenities such as restrooms and cafes may be available in the vicinity. It’s advisable to explore nearby options for refreshments.
+Local amenities such as restrooms and cafes may be available in the vicinity. It's advisable to explore nearby options for refreshments.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions, as you may be walking in and around the town hall and its surroundings.
 
-Whether you’re a local resident or a curious traveler, a visit to Straße der Republik 54 offers a valuable connection to the civic life and heritage of Niederoderwitz.
+Whether you're a local resident or a curious traveler, a visit to Straße der Republik 54 offers a valuable connection to the civic life and heritage of Niederoderwitz.

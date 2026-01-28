@@ -42,7 +42,7 @@ In a broader context, the Denkmal der Gattenzärtlichkeit und Volksliebe contrib
 
 While specific architectural details about the Denkmal der Gattenzärtlichkeit und Volksliebe may not be extensively documented, the monument is characterized by its thoughtful design that communicates its themes of love and community. The aesthetics of the structure are reflective of the period in which it was conceived, showcasing artistic elements that invite admiration and contemplation.
 
-Visitors will likely notice the careful craftsmanship and artistic motifs that adorn the monument. These features work in harmony to create a space that is both inviting and reflective, encouraging visitors to pause and engage with the monument's message. The monument’s design elements may include intricate carvings or sculptures that symbolize love and unity, enhancing its role as a cultural landmark.
+Visitors will likely notice the careful craftsmanship and artistic motifs that adorn the monument. These features work in harmony to create a space that is both inviting and reflective, encouraging visitors to pause and engage with the monument's message. The monument's design elements may include intricate carvings or sculptures that symbolize love and unity, enhancing its role as a cultural landmark.
 
 As a monument, it is also designed to be accessible to the public, allowing for easy interaction and engagement. Its placement in an open space provides an opportunity for visitors to gather, reflect, and appreciate the ideals it represents.
 

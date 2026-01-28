@@ -52,7 +52,7 @@ Visiting St. Laurentius offers a unique opportunity to connect with the local cu
 
 Check the official website for current information regarding opening hours and any potential fees associated with visiting. Visitors are encouraged to allocate sufficient time to explore the church and its surroundings, as well as to engage in quiet reflection or prayer.
 
-The best times to visit St. Laurentius are typically during weekdays when crowds are smaller, allowing for a more intimate experience. Early mornings or late afternoons also tend to be quieter, providing a serene atmosphere for those wishing to enjoy the church’s architectural beauty and spiritual ambiance.
+The best times to visit St. Laurentius are typically during weekdays when crowds are smaller, allowing for a more intimate experience. Early mornings or late afternoons also tend to be quieter, providing a serene atmosphere for those wishing to enjoy the church's architectural beauty and spiritual ambiance.
 
 ## Nearby Attractions
 
@@ -65,9 +65,9 @@ Exploring Schönberg offers more than just a visit to St. Laurentius. Nearby att
 
 ## Insider Tips
 
-For photography enthusiasts, St. Laurentius presents several opportunities to capture its architectural beauty. Early morning light can create stunning contrasts against the church’s façade. Due to its significance as a place of worship, visitors should be respectful and mindful of the space, particularly during services.
+For photography enthusiasts, St. Laurentius presents several opportunities to capture its architectural beauty. Early morning light can create stunning contrasts against the church's façade. Due to its significance as a place of worship, visitors should be respectful and mindful of the space, particularly during services.
 
-To avoid crowds, consider visiting on weekdays or during off-peak hours. This will allow for a more personal experience and greater opportunity to appreciate the church’s features without interruption.
+To avoid crowds, consider visiting on weekdays or during off-peak hours. This will allow for a more personal experience and greater opportunity to appreciate the church's features without interruption.
 
 ## Practical Information
 
@@ -101,4 +101,4 @@ While there may not be facilities directly at the church, nearby locations in Sc
 ### What should I wear?
 Modest attire is recommended, as St. Laurentius is a place of worship. Consider dressing comfortably for walking and exploring. 
 
-Visiting St. Laurentius in Schönberg offers a unique glimpse into the architectural and cultural heritage of the area, making it a noteworthy stop for anyone exploring Germany’s rich history.
+Visiting St. Laurentius in Schönberg offers a unique glimpse into the architectural and cultural heritage of the area, making it a noteworthy stop for anyone exploring Germany's rich history.

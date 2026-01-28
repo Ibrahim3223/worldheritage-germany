@@ -30,7 +30,7 @@ Whether you are a local resident or a traveler seeking to delve deeper into Berl
 
 The Library of the Free is remarkable not only for its collection but for its mission to uphold the principles of freedom and accessibility in learning. While detailed historical records may not be readily available, the library's establishment is rooted in a commitment to providing a space for open access to information. This aligns with broader movements that advocate for public libraries and the democratization of knowledge, especially in a city that has undergone significant political and social transformations.
 
-In a world where access to information can be restricted, the Library of the Free stands as a facilitator of intellectual growth. It serves diverse communities, offering resources that cater to various interests and needs. The library provides an environment conducive to study, research, and community interaction, reinforcing its status as a vital institution within Berlin’s cultural fabric.
+In a world where access to information can be restricted, the Library of the Free stands as a facilitator of intellectual growth. It serves diverse communities, offering resources that cater to various interests and needs. The library provides an environment conducive to study, research, and community interaction, reinforcing its status as a vital institution within Berlin's cultural fabric.
 
 Moreover, the library often hosts events, workshops, and discussions, fostering a vibrant community of learners and thinkers. These programs not only enhance the library's role as a knowledge center but also contribute to its significance in promoting cultural exchange and dialogue among different demographics.
 
@@ -68,7 +68,7 @@ The Library of the Free is conveniently located near several notable attractions
 
 When visiting the Library of the Free, consider bringing a camera to capture the unique atmosphere and design of the space. Photography may be allowed in certain areas, but it's advisable to check for any restrictions upon entry. 
 
-To avoid crowds, consider visiting during off-peak hours, such as mid-morning or early afternoon on weekdays. This will enhance your experience by allowing for a more relaxed exploration of the library’s resources and features.
+To avoid crowds, consider visiting during off-peak hours, such as mid-morning or early afternoon on weekdays. This will enhance your experience by allowing for a more relaxed exploration of the library's resources and features.
 
 Connecting with the library's community programs can also enhance your visit. Engage with staff or inquire about upcoming events that could provide additional insights into the local culture and the library's role within it.
 

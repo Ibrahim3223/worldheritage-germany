@@ -44,7 +44,7 @@ In addition to its historical significance, the monument also represents a cultu
 
 The Kaiserin-Augusta-Denkmal is an impressive example of 19th-century monument design. The statue of Empress Augusta stands tall, capturing her regal presence with intricate details that highlight her attire and features. The craftsmanship reflects the artistic sensibilities of the time, showcasing the skill of the artisans who created it.
 
-The monument incorporates traditional elements typical of commemorative statues, including a robust pedestal that elevates the figure, allowing for a commanding view of the surrounding area. The use of durable materials ensures not only the monument’s longevity but also its ability to withstand the elements, allowing it to remain a prominent feature in Koblenz.
+The monument incorporates traditional elements typical of commemorative statues, including a robust pedestal that elevates the figure, allowing for a commanding view of the surrounding area. The use of durable materials ensures not only the monument's longevity but also its ability to withstand the elements, allowing it to remain a prominent feature in Koblenz.
 
 Surrounding the statue are landscaped areas that enhance its aesthetic appeal and provide a tranquil setting for visitors. The careful arrangement of greenery complements the monument, creating a harmonious environment that invites contemplation and appreciation.
 

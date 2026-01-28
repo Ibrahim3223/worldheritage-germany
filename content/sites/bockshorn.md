@@ -86,7 +86,7 @@ When visiting Bockshorn, consider the following practical tips:
 
 - **Seasonal Considerations**: The reserve can be lovely year-round, but be mindful of weather conditions. Spring and autumn typically offer comfortable temperatures, while summer can be warm. Dress appropriately according to the season.
 
-- **Safety**: It’s advisable to stay on marked trails to protect both yourself and the delicate ecosystems of the reserve.
+- **Safety**: It's advisable to stay on marked trails to protect both yourself and the delicate ecosystems of the reserve.
 
 ## Frequently Asked Questions
 

@@ -38,7 +38,7 @@ The Behördenzentrum Ilmenau consists of a cohesive group of structures that emb
 
 The design of the buildings reflects typical features found in administrative architecture, characterized by functional layouts and a focus on durability. The use of materials and construction techniques can be observed, showcasing a commitment to both aesthetic appeal and practicality. 
 
-Visitors will likely notice various architectural details, such as window designs and facade treatments, that contribute to the overall character of the ensemble. The arrangement of the buildings around communal spaces may enhance the experience, providing opportunities for reflection and appreciation of the site’s historical context. 
+Visitors will likely notice various architectural details, such as window designs and facade treatments, that contribute to the overall character of the ensemble. The arrangement of the buildings around communal spaces may enhance the experience, providing opportunities for reflection and appreciation of the site's historical context. 
 
 With its combination of administrative function and architectural beauty, the Behördenzentrum is a compelling example of how public spaces can serve both practical purposes and contribute to the cultural identity of a community.
 
@@ -62,7 +62,7 @@ While visiting the Behördenzentrum Ilmenau, there are several nearby attraction
 4. **Museum Ilmenau**: A local museum that showcases the history and culture of the area, providing deeper insights into its past.
 5. **Thuringian Forest**: A vast natural area nearby, known for hiking trails and beautiful scenery, ideal for outdoor adventures.
 
-These attractions create an enriching context for your visit to the Behördenzentrum, allowing for a comprehensive experience of Ilmenau’s heritage.
+These attractions create an enriching context for your visit to the Behördenzentrum, allowing for a comprehensive experience of Ilmenau's heritage.
 
 ## Insider Tips
 
@@ -70,7 +70,7 @@ When visiting the Behördenzentrum Ilmenau, consider bringing a camera to captur
 
 To avoid crowds, try to visit during early morning hours or on weekdays. This strategy not only enhances your experience but also allows you to engage more deeply with the site without the distraction of larger groups.
 
-Additionally, take time to explore the nearby old town and other attractions, as they provide a broader understanding of Ilmenau’s cultural landscape. 
+Additionally, take time to explore the nearby old town and other attractions, as they provide a broader understanding of Ilmenau's cultural landscape. 
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ Accessibility information may vary, so check the official website for the latest
 For ticket purchasing options, check the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available, but it’s best to verify details on the official website.
+Facilities such as restrooms and nearby cafes may be available, but it's best to verify details on the official website.
 
 ### What should I wear?
 Dress comfortably and in layers, as weather conditions can change throughout the day.

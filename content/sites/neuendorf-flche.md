@@ -72,7 +72,7 @@ While visiting Neuendorf Flèche, consider exploring these nearby attractions th
 
 For those looking to capture the essence of Neuendorf Flèche through photography, consider visiting during the golden hours of early morning or late afternoon when the light is soft and enhances the fort's features. To avoid crowds, aim for weekdays, particularly outside of peak tourist seasons.
 
-While exploring the site, take your time to appreciate not just the fortification itself but also the surrounding landscape, which adds to the overall experience. Engaging with the site’s informational materials can provide valuable context and enhance your visit.
+While exploring the site, take your time to appreciate not just the fortification itself but also the surrounding landscape, which adds to the overall experience. Engaging with the site's informational materials can provide valuable context and enhance your visit.
 
 ## Practical Information
 

@@ -32,7 +32,7 @@ Visiting Herrgottskapelle provides not only a moment of tranquility but also an 
 
 ## History and Significance
 
-Herrgottskapelle is deeply embedded in the cultural landscape of Holzheim, although detailed historical records are sparse. This chapel reflects the longstanding tradition of religious architecture in the region, showcasing the importance of faith in the daily lives of the community’s residents. Chapels like Herrgottskapelle often served multifunctional purposes throughout history, acting as venues for worship, community gatherings, and celebrations of local traditions.
+Herrgottskapelle is deeply embedded in the cultural landscape of Holzheim, although detailed historical records are sparse. This chapel reflects the longstanding tradition of religious architecture in the region, showcasing the importance of faith in the daily lives of the community's residents. Chapels like Herrgottskapelle often served multifunctional purposes throughout history, acting as venues for worship, community gatherings, and celebrations of local traditions.
 
 While specific events and timelines related to Herrgottskapelle remain undocumented, its role as a place of worship has likely been significant since its inception. Chapels in this area often served as focal points for community life, representing not only spiritual aspirations but also social cohesion among the populace. The architectural style and features of the chapel may provide clues to its historical context, reflecting the influences of various periods in German architectural history.
 

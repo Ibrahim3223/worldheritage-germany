@@ -79,7 +79,7 @@ To avoid crowds, try to plan your visit on weekdays rather than weekends, as wee
 
 When planning your visit to Ellerbruch, consider bringing a few essentials. Comfortable walking shoes are recommended due to the pathways within the cemetery. A water bottle and perhaps a light snack can also be beneficial, especially if you plan to spend an extended period reflecting.
 
-Seasonal considerations are important; spring and autumn typically offer the best weather for visits. However, it’s wise to check the forecast in advance and prepare for changes in weather conditions.
+Seasonal considerations are important; spring and autumn typically offer the best weather for visits. However, it's wise to check the forecast in advance and prepare for changes in weather conditions.
 
 Respect the environment and the sanctity of the site by ensuring that any waste is disposed of properly and that you maintain a quiet demeanor during your visit.
 

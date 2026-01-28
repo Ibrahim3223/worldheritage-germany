@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview 
 
-The Ulu Mosque is an intriguing cultural landmark located in Lahr/Schwarzwald, Germany. This mosque serves as a focal point for the local Muslim community and represents a significant part of the social fabric of the area. Situated within a region known for its picturesque landscapes and charming towns, the mosque stands as a symbol of diversity and inclusivity in contemporary Germany. Visitors to Lahr will find that the Ulu Mosque not only provides spiritual services but also acts as a venue for cultural exchange and community gatherings, making it a valuable addition to the city’s heritage.
+The Ulu Mosque is an intriguing cultural landmark located in Lahr/Schwarzwald, Germany. This mosque serves as a focal point for the local Muslim community and represents a significant part of the social fabric of the area. Situated within a region known for its picturesque landscapes and charming towns, the mosque stands as a symbol of diversity and inclusivity in contemporary Germany. Visitors to Lahr will find that the Ulu Mosque not only provides spiritual services but also acts as a venue for cultural exchange and community gatherings, making it a valuable addition to the city's heritage.
 
 The mosque's architecture and design reflect Islamic traditions while also integrating elements that resonate with the local context. As a space of worship, it invites both the faithful and curious travelers alike to explore its serene environment. The Ulu Mosque is an important reminder of the multicultural dimensions of modern German society, where various faiths coexist and contribute to the rich narrative of the nation's history. 
 
@@ -114,4 +114,4 @@ Facilities may vary; check the official website for information on amenities ava
 ### What should I wear?
 Modest clothing is recommended when visiting the mosque to respect its customs and practices. 
 
-In conclusion, the Ulu Mosque stands as a significant cultural and spiritual landmark in Lahr/Schwarzwald, inviting visitors to engage with its rich heritage and the vibrant community it serves. Through careful exploration, one can appreciate the mosque’s role in promoting cultural diversity and fostering dialogue among various faiths.
+In conclusion, the Ulu Mosque stands as a significant cultural and spiritual landmark in Lahr/Schwarzwald, inviting visitors to engage with its rich heritage and the vibrant community it serves. Through careful exploration, one can appreciate the mosque's role in promoting cultural diversity and fostering dialogue among various faiths.

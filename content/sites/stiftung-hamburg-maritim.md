@@ -62,11 +62,11 @@ Stiftung Hamburg Maritim is conveniently located near several other attractions 
    
 2. **Hamburg Harbor**: A bustling area where visitors can take boat tours to appreciate the scale of the port and its significance in global trade.
 
-3. **Miniatur Wunderland**: The world’s largest model railway exhibition, which also includes intricate models of various landscapes, including maritime scenes.
+3. **Miniatur Wunderland**: The world's largest model railway exhibition, which also includes intricate models of various landscapes, including maritime scenes.
 
 4. **Elbphilharmonie**: An architectural marvel and concert hall that offers panoramic views of the harbor and serves as a cultural focal point in the city.
 
-5. **Speicherstadt**: A UNESCO World Heritage Site, this historic warehouse district showcases Hamburg’s trading history and features picturesque canals and brick buildings.
+5. **Speicherstadt**: A UNESCO World Heritage Site, this historic warehouse district showcases Hamburg's trading history and features picturesque canals and brick buildings.
 
 ## Insider Tips
 

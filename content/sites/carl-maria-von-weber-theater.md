@@ -30,11 +30,11 @@ The Carl-Maria-von-Weber-Theater stands as an emblematic theatre building in Ber
 
 ## History and Significance
 
-The Carl-Maria-von-Weber-Theater has a rich history that reflects the evolution of performing arts in Germany. Named after the renowned composer Carl Maria von Weber, who significantly influenced the Romantic era of music and opera, the theatre embodies a commitment to the arts in Saxony-Anhalt. The theatre's establishment marked an important chapter in Bernburg’s cultural development, providing a venue for various theatrical performances, operas, and concerts.
+The Carl-Maria-von-Weber-Theater has a rich history that reflects the evolution of performing arts in Germany. Named after the renowned composer Carl Maria von Weber, who significantly influenced the Romantic era of music and opera, the theatre embodies a commitment to the arts in Saxony-Anhalt. The theatre's establishment marked an important chapter in Bernburg's cultural development, providing a venue for various theatrical performances, operas, and concerts.
 
 Over the years, the theatre has hosted numerous events that showcase both local talent and renowned artists, contributing to the cultural dialogue within the community and beyond. Its programming often includes a mix of classical and contemporary works, appealing to diverse audiences and fostering a love for the performing arts. The theatre not only serves as a stage but also as a platform for cultural exchange, reflecting the community's values and aspirations.
 
-As an architectural and cultural landmark, the Carl-Maria-von-Weber-Theater is a vital part of Bernburg’s identity. It provides insight into the historical context of the region's performing arts and serves as a reminder of the enduring power of theatre to inspire and connect people.
+As an architectural and cultural landmark, the Carl-Maria-von-Weber-Theater is a vital part of Bernburg's identity. It provides insight into the historical context of the region's performing arts and serves as a reminder of the enduring power of theatre to inspire and connect people.
 
 ## Architecture and Features
 

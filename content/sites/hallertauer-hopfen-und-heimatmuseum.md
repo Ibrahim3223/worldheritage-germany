@@ -84,7 +84,7 @@ Seasonal considerations should also be taken into account. The best time for vis
 A visit typically requires about one to two hours, allowing ample time to explore the exhibits and learn about the significance of hops in the region.
 
 ### Is photography allowed?
-Photography is generally permitted within the museum, but it’s best to confirm any specific guidelines upon arrival.
+Photography is generally permitted within the museum, but it's best to confirm any specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may enhance your understanding of the exhibits.
@@ -93,7 +93,7 @@ Check the official website for information regarding guided tours, as they may e
 The best time to visit may coincide with local festivals or the hop harvesting season, providing a more enriching experience.
 
 ### Is it wheelchair accessible?
-Details regarding accessibility are not specified; it’s advisable to check the official website for information on facilities available for visitors with mobility challenges.
+Details regarding accessibility are not specified; it's advisable to check the official website for information on facilities available for visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

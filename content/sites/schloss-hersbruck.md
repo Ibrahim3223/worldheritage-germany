@@ -34,7 +34,7 @@ Strategically positioned in the Franconian region, Schloss Hersbruck is easily a
 
 The history of Schloss Hersbruck is woven into the broader narrative of the local community and its political landscape. Originally serving as a local court, the castle has played a vital role in the administration and governance of Hersbruck. Castles like Schloss Hersbruck were often centers of power, where local lords and officials would manage affairs of the region, enforce laws, and provide a sense of order during tumultuous times.
 
-While the specific dates of construction and renovation may not be documented, the architectural elements of Schloss Hersbruck reflect the styles prevalent in various periods throughout its existence. The castle has likely witnessed many significant events that contributed to the local culture and identity of Hersbruck. Understanding the castle's history provides visitors with a deeper appreciation for the region’s development and the enduring legacy of its historical structures.
+While the specific dates of construction and renovation may not be documented, the architectural elements of Schloss Hersbruck reflect the styles prevalent in various periods throughout its existence. The castle has likely witnessed many significant events that contributed to the local culture and identity of Hersbruck. Understanding the castle's history provides visitors with a deeper appreciation for the region's development and the enduring legacy of its historical structures.
 
 In addition to its administrative functions, Schloss Hersbruck has been a silent observer of the changing tides of history, including the impact of various political regimes and social movements in Germany. As such, it stands as a significant monument to the resilience of local governance and community spirit through the ages.
 
@@ -60,7 +60,7 @@ Visitors to Schloss Hersbruck will find a variety of nearby attractions that com
 
 1. **Hersbruck Old Town**: A charming area nearby, featuring traditional architecture and quaint shops, perfect for a leisurely stroll and local dining options.
 
-2. **St. John’s Church**: This historic church, with its stunning architecture and serene atmosphere, offers a glimpse into the religious heritage of the area.
+2. **St. John's Church**: This historic church, with its stunning architecture and serene atmosphere, offers a glimpse into the religious heritage of the area.
 
 3. **Hersbruck Nature Park**: A beautiful natural reserve that provides opportunities for hiking and enjoying the outdoors, showcasing the scenic beauty of the Franconian countryside.
 

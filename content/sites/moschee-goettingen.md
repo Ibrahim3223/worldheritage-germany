@@ -32,7 +32,7 @@ Göttingen itself is renowned for its academic institutions, attracting students
 
 ## History and Significance
 
-The Moschee Göttingen stands as an important marker of the Islamic presence in Germany, particularly in the context of the city’s rich academic and cultural landscape. Established to meet the spiritual and social needs of the Muslim population in Göttingen, the mosque has fostered a sense of community and belonging among its members. Although specific historical dates are not provided, the mosque’s establishment can be seen as part of a broader movement to create inclusive spaces for diverse faiths in urban centers.
+The Moschee Göttingen stands as an important marker of the Islamic presence in Germany, particularly in the context of the city's rich academic and cultural landscape. Established to meet the spiritual and social needs of the Muslim population in Göttingen, the mosque has fostered a sense of community and belonging among its members. Although specific historical dates are not provided, the mosque's establishment can be seen as part of a broader movement to create inclusive spaces for diverse faiths in urban centers.
 
 The mosque serves as a vital resource for education and cultural exchange, hosting various events and activities that promote understanding among different communities. This engagement is particularly significant in a university town like Göttingen, where students and residents come together from various backgrounds. The Moschee Göttingen emphasizes not only religious practices but also encourages dialogue about values such as peace, tolerance, and respect.
 
@@ -62,11 +62,11 @@ While visiting the Moschee Göttingen, several nearby attractions can enhance yo
 
 1. **Gänseliesel Fountain**: This iconic fountain is a symbol of Göttingen and features a statue of a girl herding geese. It is a popular meeting point and a short walk from the mosque.
 
-2. **St. Jacob’s Church (Jakobskirche)**: A historic church known for its beautiful architecture and stained glass windows, offering insight into the city’s Christian heritage.
+2. **St. Jacob's Church (Jakobskirche)**: A historic church known for its beautiful architecture and stained glass windows, offering insight into the city's Christian heritage.
 
 3. **Botanical Garden**: Managed by the University of Göttingen, this garden showcases a variety of plant species and serves as a peaceful retreat for visitors.
 
-4. **Göttingen University**: One of Germany’s oldest universities, it features several notable buildings and museums that reflect the academic history of the city.
+4. **Göttingen University**: One of Germany's oldest universities, it features several notable buildings and museums that reflect the academic history of the city.
 
 5. **Alte Aula**: The old auditorium of the University of Göttingen, showcasing stunning architecture and often hosting events and exhibitions.
 

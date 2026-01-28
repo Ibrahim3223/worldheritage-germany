@@ -74,11 +74,11 @@ When planning your visit to Haus Letmathe, consider bringing a camera to capture
 
 To avoid crowds, consider visiting during off-peak hours, typically early in the morning or later in the afternoon. This can enhance your experience, allowing for a more personal interaction with the exhibits and staff.
 
-Additionally, engaging with museum guides or staff can provide deeper insights and enhance your understanding of the displays, so don’t hesitate to ask questions during your visit.
+Additionally, engaging with museum guides or staff can provide deeper insights and enhance your understanding of the displays, so don't hesitate to ask questions during your visit.
 
 ## Practical Information
 
-When visiting Haus Letmathe, it is advisable to bring along some essentials, such as a water bottle, comfortable shoes for walking, and any materials you might want for note-taking. Seasonal considerations may also play a role in your visit; if you’re traveling during colder months, dress in layers to ensure your comfort while exploring.
+When visiting Haus Letmathe, it is advisable to bring along some essentials, such as a water bottle, comfortable shoes for walking, and any materials you might want for note-taking. Seasonal considerations may also play a role in your visit; if you're traveling during colder months, dress in layers to ensure your comfort while exploring.
 
 As the museum may host special events or temporary exhibitions, checking the official website ahead of your visit can provide you with information on any unique programming that may be available during your stay.
 

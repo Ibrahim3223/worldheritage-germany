@@ -81,7 +81,7 @@ Seasonal considerations may play a role in your visit; spring and summer months 
 A visit to the Manor House can vary in length but typically lasts a few hours. This allows ample time to explore the house and grounds.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check with site management upon arrival.
+Photography policies may vary, so it's advisable to check with site management upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability can change.

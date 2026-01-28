@@ -74,15 +74,15 @@ These attractions complement the educational themes found in the Carl Bosch Muse
 
 To make the most of your visit to the Carl Bosch Museum, consider these insider tips:
 
-- **Photography**: While personal photography may be permitted, it’s advisable to check for any specific restrictions within the museum. Always be respectful of the exhibits and other visitors.
+- **Photography**: While personal photography may be permitted, it's advisable to check for any specific restrictions within the museum. Always be respectful of the exhibits and other visitors.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekdays or early in the morning. This strategy can help you avoid peak hours and engage more deeply with the exhibits.
 
-- **Educational Resources**: If you have a particular interest in scientific history or Bosch’s contributions, inquire at the reception about any guided tours or educational materials that can enhance your visit.
+- **Educational Resources**: If you have a particular interest in scientific history or Bosch's contributions, inquire at the reception about any guided tours or educational materials that can enhance your visit.
 
 ## Practical Information
 
-When visiting the Carl Bosch Museum, it’s helpful to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend an extended period exploring the exhibits. If you are visiting during warmer months, consider bringing a water bottle and wearing sun protection, especially if you plan to explore outdoor attractions nearby.
+When visiting the Carl Bosch Museum, it's helpful to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend an extended period exploring the exhibits. If you are visiting during warmer months, consider bringing a water bottle and wearing sun protection, especially if you plan to explore outdoor attractions nearby.
 
 Additionally, seasonal considerations may affect your visit. Be sure to check the official website for any special events or exhibitions that might be taking place during your intended visit, as these can provide unique opportunities for engagement.
 

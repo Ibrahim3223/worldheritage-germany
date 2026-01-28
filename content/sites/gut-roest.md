@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Roest is a distinguished manor house located in Kappeln, Germany. As one of the notable examples of historic architecture in the region, this manor offers a glimpse into the heritage and lifestyle of the area’s past. Surrounded by the serene beauty of rural Germany, Gut Roest serves not only as a historical monument but also as a cultural landmark that reflects the historical significance of manorial estates in northern Europe.
+Gut Roest is a distinguished manor house located in Kappeln, Germany. As one of the notable examples of historic architecture in the region, this manor offers a glimpse into the heritage and lifestyle of the area's past. Surrounded by the serene beauty of rural Germany, Gut Roest serves not only as a historical monument but also as a cultural landmark that reflects the historical significance of manorial estates in northern Europe.
 
 The manor house is situated at coordinates 54.6589, 9.8945, making it easily accessible for visitors interested in exploring the rich tapestry of Kappeln's history. This site provides an opportunity to delve into the architectural and cultural nuances that characterize manor houses in Germany, making it a worthwhile stop for history enthusiasts and casual travelers alike. Visitors can expect a tranquil environment that invites reflection on the past while enjoying the picturesque surroundings.
 
@@ -36,7 +36,7 @@ The history of Gut Roest is emblematic of the broader narrative of manor houses 
 
 Manor houses like Gut Roest were typically owned by influential families who wielded power over the surrounding lands and communities. Such estates were not only residential homes but also centers for local administration, trade, and land management. The architectural design of these manors often mirrored the wealth and status of their owners, showcasing intricate details and craftsmanship that can still be appreciated today.
 
-The cultural significance of Gut Roest extends beyond its architecture; it serves as a reminder of the agricultural heritage of the Kappeln region. As visitors explore the manor, they can gain insights into the lifestyle of the nobility and the working classes that coexisted in this historical context. The estate’s preservation contributes to the understanding of social dynamics and the evolution of rural communities in Germany over the centuries.
+The cultural significance of Gut Roest extends beyond its architecture; it serves as a reminder of the agricultural heritage of the Kappeln region. As visitors explore the manor, they can gain insights into the lifestyle of the nobility and the working classes that coexisted in this historical context. The estate's preservation contributes to the understanding of social dynamics and the evolution of rural communities in Germany over the centuries.
 
 ## Architecture and Features
 
@@ -112,4 +112,4 @@ Facilities may be available on-site, but it is advisable to check the official w
 ### What should I wear?
 Comfortable attire and shoes are recommended, particularly if you plan to explore the surrounding grounds.
 
-Gut Roest is a valuable destination for those looking to engage with Germany’s architectural heritage and cultural history. Whether you are a history buff or simply seeking a peaceful retreat, this manor house offers a unique opportunity to connect with the past while enjoying the present.
+Gut Roest is a valuable destination for those looking to engage with Germany's architectural heritage and cultural history. Whether you are a history buff or simply seeking a peaceful retreat, this manor house offers a unique opportunity to connect with the past while enjoying the present.

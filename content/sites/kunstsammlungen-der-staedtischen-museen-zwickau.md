@@ -32,9 +32,9 @@ Zwickau, a city with a rich industrial heritage, has played an important role in
 
 ## History and Significance
 
-The Kunstsammlungen der Städtischen Museen Zwickau has a history intertwined with the evolution of Zwickau itself. While specific dates of establishment are not provided, the museum represents a long-standing commitment to preserving and showcasing the artistic heritage of the region. Over the years, it has become a cultural landmark in Zwickau, reflecting the city’s transformation from an industrial center to a hub of art and culture.
+The Kunstsammlungen der Städtischen Museen Zwickau has a history intertwined with the evolution of Zwickau itself. While specific dates of establishment are not provided, the museum represents a long-standing commitment to preserving and showcasing the artistic heritage of the region. Over the years, it has become a cultural landmark in Zwickau, reflecting the city's transformation from an industrial center to a hub of art and culture.
 
-The museum’s collections encompass a wide range of artistic styles and periods, allowing visitors to appreciate not only local artists but also significant works from broader German art movements. This aligns with Zwickau's historical role as a center for creativity, particularly during various artistic periods that have influenced the region.
+The museum's collections encompass a wide range of artistic styles and periods, allowing visitors to appreciate not only local artists but also significant works from broader German art movements. This aligns with Zwickau's historical role as a center for creativity, particularly during various artistic periods that have influenced the region.
 
 The museum is dedicated to education and outreach, offering programs that engage the community and foster a deeper appreciation for art. This commitment to cultural education is crucial in a time when museums play an essential role in promoting art as a vehicle for dialogue and understanding across different societal groups.
 

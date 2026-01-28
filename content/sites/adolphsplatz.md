@@ -40,7 +40,7 @@ As you stroll through Adolphsplatz, you may find remnants of its historical sign
 
 ## Architecture and Features
 
-Adolphsplatz is characterized by a variety of architectural styles that surround the square, showcasing Hamburg's rich design history. While the specific details of the buildings may not be outlined, the aesthetics of the square are likely to encompass a mix of modern and traditional elements, reflecting the city’s diverse architectural landscape.
+Adolphsplatz is characterized by a variety of architectural styles that surround the square, showcasing Hamburg's rich design history. While the specific details of the buildings may not be outlined, the aesthetics of the square are likely to encompass a mix of modern and traditional elements, reflecting the city's diverse architectural landscape.
 
 The square itself is designed to accommodate both pedestrians and vehicles, promoting a lively atmosphere that encourages interaction among visitors. Its layout allows for ease of movement and provides ample space for people to gather, relax, or engage in conversation. You may find benches or other seating arrangements that invite you to take a moment and appreciate your surroundings.
 
@@ -66,7 +66,7 @@ Adolphsplatz is conveniently located near several notable attractions, making it
 
 3. **The Alster Lakes**: A picturesque area for walking, cycling, or enjoying a boat ride, the Alster Lakes are a short distance away and provide an excellent escape from the urban environment.
 
-4. **Miniatur Wunderland**: This fascinating attraction features intricate miniature landscapes and models, appealing to both children and adults alike. It’s located not far from the square, making it an easy addition to your itinerary.
+4. **Miniatur Wunderland**: This fascinating attraction features intricate miniature landscapes and models, appealing to both children and adults alike. It's located not far from the square, making it an easy addition to your itinerary.
 
 5. **Speicherstadt**: A UNESCO World Heritage site, this historic warehouse district is a short stroll from Adolphsplatz and is known for its stunning brick architecture and canals.
 
@@ -99,7 +99,7 @@ While there may not be specific guided tours of Adolphsplatz, local tours often 
 Visiting during the morning or late afternoon can offer a quieter experience, while weekends might be busier with locals and tourists alike.
 
 ### Is it wheelchair accessible?
-Adolphsplatz is generally accessible, but it’s always a good idea to check specific accessibility features of the surrounding areas.
+Adolphsplatz is generally accessible, but it's always a good idea to check specific accessibility features of the surrounding areas.
 
 ### Can I buy tickets online?
 Since Adolphsplatz is a public square, there are no tickets required for entry. However, events held in the square may have ticketing information available on official event websites.

@@ -83,7 +83,7 @@ Seasonal considerations can impact your visit. In winter, be prepared for colder
 A visit to Vicelinkirche typically takes about one hour, giving you time to explore and reflect.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s important to be respectful of the space and other visitors.
+Photography may be permitted, but it's important to be respectful of the space and other visitors.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available, as this can enhance your understanding of the church's significance.
@@ -98,7 +98,7 @@ Specific accessibility options are not detailed; check the official website for 
 Check the official website for any online ticket purchasing options, especially if there are special events or services.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms and cafes may be available nearby, but it’s best to check the vicinity or the official church website for specific details.
+Facilities like restrooms and cafes may be available nearby, but it's best to check the vicinity or the official church website for specific details.
 
 ### What should I wear?
 While there is no strict dress code, wearing modest attire is advisable, especially when visiting a place of worship. Comfortable shoes are recommended for exploring the area. 

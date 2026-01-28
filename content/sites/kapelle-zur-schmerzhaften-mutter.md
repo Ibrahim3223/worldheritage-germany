@@ -36,7 +36,7 @@ The Kapelle zur schmerzhaften Mutter has long served as an important spiritual c
 
 This chapel signifies the enduring faith of the local population, as it often serves as a site for prayer and reflection. The tradition of pilgrimage to such chapels has been common in many regions of Germany, providing a connection to divine grace and community solidarity. The Kapelle zur schmerzhaften Mutter is not just a building; it encapsulates the spiritual journey of countless individuals who have sought solace within its walls over the years.
 
-In addition to its religious importance, the chapel contributes to the cultural landscape of Ostbevern. It stands as a reminder of the area’s historical commitment to preserving religious practices and architectural heritage, fostering a sense of belonging and identity among local residents. 
+In addition to its religious importance, the chapel contributes to the cultural landscape of Ostbevern. It stands as a reminder of the area's historical commitment to preserving religious practices and architectural heritage, fostering a sense of belonging and identity among local residents. 
 
 ## Architecture and Features
 

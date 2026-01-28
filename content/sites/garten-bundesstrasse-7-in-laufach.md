@@ -36,7 +36,7 @@ The importance of gardens in Bavarian culture cannot be overstated; they are oft
 
 Garten Bundesstraße 7 is characterized by its thoughtful layout and selection of plant species that are both aesthetically pleasing and ecologically significant. While specific design elements are not detailed, gardens of this nature typically feature a variety of plants that demonstrate the diversity of local flora. Visitors can expect to see well-maintained flower beds, paths that invite leisurely strolls, and perhaps seating areas that encourage visitors to pause and enjoy the surroundings.
 
-The architecture of the garden may also reflect traditional Bavarian gardening styles, which often incorporate natural materials and designs that harmonize with the local environment. Features such as ornamental borders, gravel paths, and seasonal displays could enhance the garden’s appeal, inviting exploration and contemplation.
+The architecture of the garden may also reflect traditional Bavarian gardening styles, which often incorporate natural materials and designs that harmonize with the local environment. Features such as ornamental borders, gravel paths, and seasonal displays could enhance the garden's appeal, inviting exploration and contemplation.
 
 In addition to its botanical aspects, the garden likely serves as a habitat for local wildlife, contributing to biodiversity in the area. This aspect not only enriches the visitor experience but also underscores the garden's role in promoting ecological balance within the community.
 

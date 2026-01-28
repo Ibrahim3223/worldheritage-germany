@@ -72,13 +72,13 @@ While Marienstatt Abbey is a destination in itself, several nearby attractions e
 
 To make the most of your visit to Marienstatt Abbey, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s respectful to check for any restrictions, especially during services or in private spaces. Early mornings or late afternoons can provide beautiful natural light for photos.
+- **Photography**: While photography may be allowed in certain areas, it's respectful to check for any restrictions, especially during services or in private spaces. Early mornings or late afternoons can provide beautiful natural light for photos.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or outside of peak tourist seasons. Early mornings are also ideal for fewer crowds.
 
 ## Practical Information
 
-When planning a visit to Marienstatt Abbey, it’s essential to prepare appropriately. Here are some practical considerations:
+When planning a visit to Marienstatt Abbey, it's essential to prepare appropriately. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are recommended due to the potential for uneven surfaces. Additionally, visitors may wish to bring a bottle of water and light snacks, as options on-site may be limited.
 
@@ -90,7 +90,7 @@ When planning a visit to Marienstatt Abbey, it’s essential to prepare appropri
 A visit to Marienstatt Abbey typically requires a few hours to fully appreciate the architecture and the peaceful environment.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon arrival, especially during services.
+Photography policies may vary, so it's best to check for any restrictions upon arrival, especially during services.
 
 ### Are there guided tours?
 Guided tours may be available; please check the official website for current offerings and schedules.
@@ -99,7 +99,7 @@ Guided tours may be available; please check the official website for current off
 Spring and early autumn are generally considered the best times to visit for pleasant weather and fewer tourists.
 
 ### Is it wheelchair accessible?
-Access may vary; it’s advisable to consult the official website for information on accessibility features.
+Access may vary; it's advisable to consult the official website for information on accessibility features.
 
 ### Can I buy tickets online?
 Information regarding ticket purchasing options should be verified on the official website.

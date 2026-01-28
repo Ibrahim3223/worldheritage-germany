@@ -103,7 +103,7 @@ Accessibility details may vary; check the official website for current informati
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available, but it’s advisable to check the official site for specifics. Nearby cafes may offer refreshments.
+Restroom facilities may be available, but it's advisable to check the official site for specifics. Nearby cafes may offer refreshments.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if planning to engage in outdoor activities or explore the surrounding areas.

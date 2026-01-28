@@ -32,7 +32,7 @@ As you approach the church, its prominent structure stands out against the backd
 
 ## History and Significance
 
-The history of Alt St. Alban is intertwined with the evolution of Cologne itself. While specific historical dates may not be documented here, the church's presence highlights the long-standing tradition of worship and community gathering in this part of the city. Churches in Cologne often reflect the city’s historical resilience and adaptation through various periods, including the Middle Ages and the Reformation.
+The history of Alt St. Alban is intertwined with the evolution of Cologne itself. While specific historical dates may not be documented here, the church's presence highlights the long-standing tradition of worship and community gathering in this part of the city. Churches in Cologne often reflect the city's historical resilience and adaptation through various periods, including the Middle Ages and the Reformation.
 
 The cultural importance of Alt St. Alban is evident in its role as a center for local worship and community events. As urban life in Cologne evolved, the church has remained a steadfast symbol of faith and community. It reflects the architectural styles and religious practices that have shaped the area over time, contributing to the overall identity of the Cologne Altstadt-Nord.
 
@@ -48,9 +48,9 @@ The church may also host various religious artifacts and artworks, each telling 
 
 ## Visiting Information
 
-Visiting Alt St. Alban offers an enriching experience for travelers interested in exploring Cologne’s religious heritage. To reach the church, visitors can utilize the city's efficient public transportation system, which includes trams and buses. The church's central location makes it easily accessible from various parts of the city.
+Visiting Alt St. Alban offers an enriching experience for travelers interested in exploring Cologne's religious heritage. To reach the church, visitors can utilize the city's efficient public transportation system, which includes trams and buses. The church's central location makes it easily accessible from various parts of the city.
 
-When planning your visit, it’s advisable to check the official website for current information regarding hours of operation and any potential entry fees. While the time needed to explore the church can vary based on personal interests, a visit typically lasts around 30 minutes to an hour. This allows ample time to appreciate the architecture, calm atmosphere, and any ongoing community activities.
+When planning your visit, it's advisable to check the official website for current information regarding hours of operation and any potential entry fees. While the time needed to explore the church can vary based on personal interests, a visit typically lasts around 30 minutes to an hour. This allows ample time to appreciate the architecture, calm atmosphere, and any ongoing community activities.
 
 The best times to visit may vary, depending on local events or services. Early mornings or weekdays might offer a quieter experience, allowing for deeper reflection and exploration without the crowds.
 
@@ -78,7 +78,7 @@ When preparing for your visit to Alt St. Alban, here are some practical consider
 
 - **What to Bring**: Consider bringing a small bag for personal items, a camera for photographs, and perhaps a notebook if you wish to jot down reflections or thoughts.
 - **Seasonal Considerations**: Weather can vary, so check the forecast ahead of your visit. In colder months, dress warmly, as church interiors can sometimes be chilly.
-- **Respectful Attire**: When visiting a place of worship, it’s advisable to dress modestly. This shows respect for the sacredness of the space and the community that worships there.
+- **Respectful Attire**: When visiting a place of worship, it's advisable to dress modestly. This shows respect for the sacredness of the space and the community that worships there.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ When preparing for your visit to Alt St. Alban, here are some practical consider
 A visit to Alt St. Alban typically lasts around 30 minutes to an hour, depending on your interest in exploring the architecture and atmosphere.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s advisable to check for any signs indicating restrictions, particularly during services.
+Photography may be permitted, but it's advisable to check for any signs indicating restrictions, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available at Alt St. Alban.

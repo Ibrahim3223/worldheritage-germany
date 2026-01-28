@@ -44,7 +44,7 @@ The mausoleum of Count William of Schaumburg-Lippe features distinct architectur
 
 Visitors will likely notice the use of high-quality materials, which would have been typical for a structure intended to honor a noble. The design is likely to include intricate stonework, possibly featuring reliefs or commemorative inscriptions that celebrate the life of Count William. The surrounding landscape at Jagdschloss Baum provides a tranquil atmosphere, enhancing the mausoleum's solemnity and reflective quality.
 
-Inside, the mausoleum may contain symbolic elements that represent Count William’s life and values. These features serve not only as artistic expressions but also as narrative devices that communicate his legacy to future generations. The careful arrangement of space within the mausoleum likely reflects the importance of contemplation and remembrance, inviting visitors to pay homage to the past.
+Inside, the mausoleum may contain symbolic elements that represent Count William's life and values. These features serve not only as artistic expressions but also as narrative devices that communicate his legacy to future generations. The careful arrangement of space within the mausoleum likely reflects the importance of contemplation and remembrance, inviting visitors to pay homage to the past.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While visiting the mausoleum, consider exploring other historical sites and attr
 
 1. **Bückeburg Castle**: A short distance from the mausoleum, this castle is a notable landmark with rich history and beautiful architecture, offering guided tours that delve into its past.
 
-2. **The Schaumburg-Lippe Museum**: Located in Bückeburg, this museum showcases the heritage of the Schaumburg-Lippe principality and provides insights into the region’s history.
+2. **The Schaumburg-Lippe Museum**: Located in Bückeburg, this museum showcases the heritage of the Schaumburg-Lippe principality and provides insights into the region's history.
 
 3. **St. Martin's Church**: This historic church is a key part of Bückeburg's architectural landscape and is known for its impressive interior and historical significance.
 

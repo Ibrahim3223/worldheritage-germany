@@ -28,7 +28,7 @@ image_srcset:
 
 Österberg, a prominent mountain located in the Tübingen region of Germany, is more than just a geographical feature; it serves as a vital landmark that enhances the area's natural beauty and cultural significance. Rising gracefully above the surrounding landscape, Österberg is an integral part of the local topography, offering residents and visitors alike a sense of place and identity. Its coordinates, 48.5231° N, 9.07° E, position it conveniently for exploration, making it a worthwhile destination for nature enthusiasts and those interested in the local environment.
 
-The mountain’s presence is not only a physical one but also a cultural touchstone for the community of Tübingen. It invites hikers, families, and adventurers to engage with the great outdoors, promoting a healthy lifestyle while fostering an appreciation for the natural world. The blend of natural beauty and community spirit at Österberg provides an enriching experience, encouraging exploration and connection.
+The mountain's presence is not only a physical one but also a cultural touchstone for the community of Tübingen. It invites hikers, families, and adventurers to engage with the great outdoors, promoting a healthy lifestyle while fostering an appreciation for the natural world. The blend of natural beauty and community spirit at Österberg provides an enriching experience, encouraging exploration and connection.
 
 ## History and Significance
 
@@ -42,13 +42,13 @@ Visitors to the area can appreciate the historical significance of Österberg, w
 
 Österberg may not feature architectural marvels in the traditional sense, as its allure lies primarily in its natural form. The mountain is characterized by its rugged terrain, which is typical of the region. Its slopes provide opportunities for various outdoor activities, including hiking and nature walks, making it a popular spot for both locals and visitors.
 
-The mountain’s landscape is punctuated by lush greenery, with a variety of trees and plants that change with the seasons. This vibrant ecosystem not only enhances the visual appeal of Österberg but also supports local wildlife, creating a dynamic environment for nature watchers and photographers alike.
+The mountain's landscape is punctuated by lush greenery, with a variety of trees and plants that change with the seasons. This vibrant ecosystem not only enhances the visual appeal of Österberg but also supports local wildlife, creating a dynamic environment for nature watchers and photographers alike.
 
 One notable aspect of Österberg is its accessibility. Well-trodden paths make it easier for families and individuals of varying fitness levels to explore the mountain. The trails may vary in difficulty, allowing for both leisurely strolls and more challenging hikes, catering to a wide range of preferences.
 
 ## Visiting Information
 
-Visiting Österberg is an enriching experience that can be tailored to fit different schedules and interests. For those keen on exploring the trails, it’s advisable to allocate a few hours to fully appreciate the natural beauty and engage with the surroundings. While specific hours of operation for the mountain are not provided, checking the official website for current information before heading out is recommended.
+Visiting Österberg is an enriching experience that can be tailored to fit different schedules and interests. For those keen on exploring the trails, it's advisable to allocate a few hours to fully appreciate the natural beauty and engage with the surroundings. While specific hours of operation for the mountain are not provided, checking the official website for current information before heading out is recommended.
 
 Transportation options to Österberg are varied. Visitors can reach the site by car, bike, or public transport, depending on their starting point. The mountain's location in Tübingen makes it relatively easy to access, whether you're coming from within the city or traveling from nearby regions.
 
@@ -93,7 +93,7 @@ Currently, guided tours are not specified. Visitors may explore the mountain ind
 Spring and autumn are ideal for pleasant weather and beautiful scenery.
 
 ### Is it wheelchair accessible?
-Specific accessibility features are not mentioned, so it’s advisable to check ahead for detailed information.
+Specific accessibility features are not mentioned, so it's advisable to check ahead for detailed information.
 
 ### Can I buy tickets online?
 No admission fees are specified, but check the official website for any updates regarding entry.

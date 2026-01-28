@@ -62,7 +62,7 @@ Reinbek is home to several attractions that can enhance your visit to the Museum
 
 1. **Schloss Reinbek**: This historic castle offers guided tours and beautiful gardens, making it a perfect complement to your museum visit.
    
-2. **Reinbek Town Center**: Take a stroll through the charming town center, where you can find shops, cafes, and local eateries that highlight the region’s culinary offerings.
+2. **Reinbek Town Center**: Take a stroll through the charming town center, where you can find shops, cafes, and local eateries that highlight the region's culinary offerings.
    
 3. **Boberger Duenen**: Located a short distance away, this natural park features dunes and walking paths ideal for a leisurely hike or picnic.
    
@@ -88,7 +88,7 @@ To make the most of your visit to the Museum Rade am Schloss Reinbek, consider t
 
 - **Seasonal Considerations**: Check the weather forecast for Reinbek before your visit, as it can influence your travel plans and outdoor activities nearby. Dress in layers to accommodate changing temperatures.
 
-- **Accessibility**: If you or someone in your party has mobility concerns, check the museum’s accessibility options to ensure a comfortable visit.
+- **Accessibility**: If you or someone in your party has mobility concerns, check the museum's accessibility options to ensure a comfortable visit.
 
 ## Frequently Asked Questions
 

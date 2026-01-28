@@ -91,7 +91,7 @@ Check the official website for information on guided tours, as they may be offer
 Visiting during the early morning or late afternoon can provide a quieter experience and better lighting for photography.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not provided, it’s best to check the official website for the latest information regarding accessibility features.
+While specific accessibility details are not provided, it's best to check the official website for the latest information regarding accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket availability and purchasing options.

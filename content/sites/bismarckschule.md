@@ -70,7 +70,7 @@ Transportation options to Bismarckschule are likely varied, with public transpor
 
 For those looking to capture the essence of Bismarckschule, consider visiting during the early morning or late afternoon when natural light enhances photography. Be aware of school hours, as visiting during class times may limit your ability to explore freely. 
 
-To avoid crowds, aim for visits during weekdays or school holidays when classes are not in session. This timing may provide a more tranquil experience, allowing for reflection on the school’s significance.
+To avoid crowds, aim for visits during weekdays or school holidays when classes are not in session. This timing may provide a more tranquil experience, allowing for reflection on the school's significance.
 
 ## Practical Information
 

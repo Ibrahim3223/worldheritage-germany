@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Haus der Berge serves as a central hub for the Nationalpark Berchtesgaden, a remarkable destination for those eager to connect with the natural splendor of the region. Situated in the scenic Berchtesgaden area of Germany, this museum offers an engaging exploration of the park's diverse ecosystems, flora, and fauna. Visitors can expect to gain a deeper understanding of the park’s significance, its conservation efforts, and the unique cultural heritage of the area.
+Haus der Berge serves as a central hub for the Nationalpark Berchtesgaden, a remarkable destination for those eager to connect with the natural splendor of the region. Situated in the scenic Berchtesgaden area of Germany, this museum offers an engaging exploration of the park's diverse ecosystems, flora, and fauna. Visitors can expect to gain a deeper understanding of the park's significance, its conservation efforts, and the unique cultural heritage of the area.
 
 As you step inside the Haus der Berge, you are welcomed by an array of informative exhibits designed to immerse you in the natural world. The museum acts as both an educational center and a point of interest for tourists, making it an essential stop for anyone exploring the Berchtesgaden region. With a variety of programs and displays, it invites visitors of all ages to appreciate the beauty and complexity of the natural environment surrounding them.
 
-The museum's location also enhances its appeal, situated within a region celebrated for its mountainous landscapes and outdoor activities. Whether you are a nature enthusiast, a family seeking educational fun, or a traveler wanting to learn about the area’s ecology, Haus der Berge promises a fulfilling experience.
+The museum's location also enhances its appeal, situated within a region celebrated for its mountainous landscapes and outdoor activities. Whether you are a nature enthusiast, a family seeking educational fun, or a traveler wanting to learn about the area's ecology, Haus der Berge promises a fulfilling experience.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ Notable features of the museum include its educational programs and workshops, w
 
 ## Visiting Information
 
-Reaching Haus der Berge is relatively straightforward, with various transport options available. The museum is conveniently located for those traveling from nearby towns and cities. It’s advisable to check the official website for current information regarding hours and pricing, as these may vary.
+Reaching Haus der Berge is relatively straightforward, with various transport options available. The museum is conveniently located for those traveling from nearby towns and cities. It's advisable to check the official website for current information regarding hours and pricing, as these may vary.
 
 Expect to spend approximately two to three hours exploring the museum, depending on your level of interest in the exhibits and programs. The layout allows for a leisurely pace, and visitors can engage with the interactive displays at their convenience.
 
@@ -72,11 +72,11 @@ Timing your visit can enhance your experience. While the museum is open year-rou
 
 To capture the essence of Haus der Berge in photographs, consider visiting during quieter times, such as early mornings or late afternoons. This way, you can avoid crowds and get unobstructed shots of the exhibits. Additionally, explore the museum's outdoor areas, as they may offer unique perspectives of the surrounding environment.
 
-For a more enriching experience, participate in guided tours or educational workshops if available. These programs provide deeper insights into the exhibits and enhance your understanding of the park’s ecosystems.
+For a more enriching experience, participate in guided tours or educational workshops if available. These programs provide deeper insights into the exhibits and enhance your understanding of the park's ecosystems.
 
 ## Practical Information
 
-When planning your visit to Haus der Berge, it’s advisable to bring a camera for capturing the stunning exhibits and any outdoor scenery. Comfortable walking shoes are recommended, as you may want to explore the surrounding area and take advantage of nearby trails.
+When planning your visit to Haus der Berge, it's advisable to bring a camera for capturing the stunning exhibits and any outdoor scenery. Comfortable walking shoes are recommended, as you may want to explore the surrounding area and take advantage of nearby trails.
 
 As seasons change, so too does the experience at the museum. Be prepared for varying weather conditions, especially if you plan to explore outdoor attractions in conjunction with your museum visit. 
 
@@ -86,7 +86,7 @@ As seasons change, so too does the experience at the museum. Be prepared for var
 Most visitors spend around two to three hours at Haus der Berge, but this may vary based on personal interest in the exhibits and programs.
 
 ### Is photography allowed?
-Photography is generally permitted within the museum, but it’s best to confirm specific guidelines upon arrival.
+Photography is generally permitted within the museum, but it's best to confirm specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.
@@ -95,7 +95,7 @@ Check the official website for information on guided tours, as availability may 
 Weekdays tend to be less crowded, making them ideal for a more relaxed experience. Seasonal events may also influence the best time for your visit.
 
 ### Is it wheelchair accessible?
-Haus der Berge strives to accommodate all visitors, but it’s advisable to check the official website for specific accessibility information.
+Haus der Berge strives to accommodate all visitors, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for current information regarding online sales.

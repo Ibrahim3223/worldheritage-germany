@@ -64,7 +64,7 @@ While visiting Burg Friedestrom, there are several nearby attractions that can f
 
 1. **Düsseldorf**: A vibrant city known for its modern architecture and cultural offerings, Düsseldorf is a short drive away and offers a variety of museums, galleries, and shopping experiences.
 
-2. **Neuss**: This historic town features remnants of Roman architecture, including the impressive Roman Tower, showcasing the area’s ancient history.
+2. **Neuss**: This historic town features remnants of Roman architecture, including the impressive Roman Tower, showcasing the area's ancient history.
 
 3. **Zons**: A picturesque medieval town with well-preserved fortifications, Zons provides a charming backdrop for a leisurely stroll and exploration of its quaint streets.
 
@@ -80,7 +80,7 @@ To enhance your experience, consider exploring the castle at a leisurely pace, a
 
 ## Practical Information
 
-When visiting Burg Friedestrom, it’s advisable to bring essentials such as comfortable walking shoes, a refillable water bottle, and a light jacket, particularly if you plan to explore the grounds extensively. Seasonal considerations should also be taken into account, as weather conditions may vary.
+When visiting Burg Friedestrom, it's advisable to bring essentials such as comfortable walking shoes, a refillable water bottle, and a light jacket, particularly if you plan to explore the grounds extensively. Seasonal considerations should also be taken into account, as weather conditions may vary.
 
 During the warmer months, sunscreen and a hat are recommended, while in cooler seasons, dressing in layers will ensure comfort as you navigate both indoor and outdoor areas of the castle. Checking the official website for any special events or temporary exhibitions can enhance your visit, providing additional context to your experience.
 
@@ -105,7 +105,7 @@ Accessibility features may vary; it's advisable to check in advance for specific
 Ticket purchasing options may be available online; refer to the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities may be present on-site, but it’s wise to confirm availability on the official website.
+Facilities may be present on-site, but it's wise to confirm availability on the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended for exploring the castle and its grounds.

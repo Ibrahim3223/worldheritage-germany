@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Berlin lies Gipsformerei, a unique museum dedicated to the art of replication and the preservation of cultural heritage. This establishment, part of the prestigious Staatliche Museen, serves as a workshop where artisans meticulously create plaster casts of renowned sculptures and architectural masterpieces. As a pivotal resource for art historians, restorers, and enthusiasts alike, Gipsformerei offers an insightful glimpse into the intricate processes behind art conservation and reproduction. Visitors are not only treated to impressive displays of craftsmanship but also engage with the philosophical questions surrounding originality and replication in the art world. The museum’s commitment to preserving cultural artifacts makes it a significant stop for anyone interested in the intersection of art, science, and history.
+In the heart of Berlin lies Gipsformerei, a unique museum dedicated to the art of replication and the preservation of cultural heritage. This establishment, part of the prestigious Staatliche Museen, serves as a workshop where artisans meticulously create plaster casts of renowned sculptures and architectural masterpieces. As a pivotal resource for art historians, restorers, and enthusiasts alike, Gipsformerei offers an insightful glimpse into the intricate processes behind art conservation and reproduction. Visitors are not only treated to impressive displays of craftsmanship but also engage with the philosophical questions surrounding originality and replication in the art world. The museum's commitment to preserving cultural artifacts makes it a significant stop for anyone interested in the intersection of art, science, and history.
 
 ## History and Significance
 

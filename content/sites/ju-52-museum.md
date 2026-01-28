@@ -80,7 +80,7 @@ To enhance your visit to the Ju-52-Museum, consider these insider tips:
 
 - **Crowd Avoidance**: Weekdays typically see fewer visitors, making them an excellent time for a more relaxed exploration of the museum.
 
-- **Engagement**: Don’t hesitate to ask the staff questions. They are often passionate about aviation and can provide fascinating insights that enhance your understanding of the exhibits.
+- **Engagement**: Don't hesitate to ask the staff questions. They are often passionate about aviation and can provide fascinating insights that enhance your understanding of the exhibits.
 
 ## Practical Information
 

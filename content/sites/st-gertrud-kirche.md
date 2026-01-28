@@ -58,7 +58,7 @@ The best times to visit St.-Gertrud-Kirche are typically during weekdays when th
 
 1. **Lübeck Cathedral**: A short distance from St.-Gertrud-Kirche, this Gothic cathedral is known for its impressive architecture and rich history.
 
-2. **Holstentor**: This iconic gate is one of Lübeck's most recognized landmarks, providing insight into the city’s medieval past.
+2. **Holstentor**: This iconic gate is one of Lübeck's most recognized landmarks, providing insight into the city's medieval past.
 
 3. **St. Mary's Church**: Another significant church in Lübeck, St. Mary's features stunning architecture and notable artworks.
 

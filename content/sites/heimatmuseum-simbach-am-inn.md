@@ -22,11 +22,11 @@ images:
 
 The Heimatmuseum Simbach am Inn serves as a cultural repository that encapsulates the heritage and history of Simbach am Inn, a charming town in Bavaria, Germany. This museum is a reflection of the region's traditions, showcasing artifacts and exhibitions that highlight daily life, local customs, and significant historical events that have shaped the community. Visitors to the museum can expect a deep dive into the local culture, allowing them to appreciate the intricacies of Bavarian life and the historical context in which it has evolved.
 
-Situated at the coordinates 48.266467, 13.028108, the museum is easily accessible and offers a welcoming atmosphere for both locals and travelers. It stands as a significant cultural institution within the region, providing a space for education and reflection on the past. The museum’s commitment to preserving the local heritage makes it a valuable destination for anyone interested in the cultural landscape of southern Germany.
+Situated at the coordinates 48.266467, 13.028108, the museum is easily accessible and offers a welcoming atmosphere for both locals and travelers. It stands as a significant cultural institution within the region, providing a space for education and reflection on the past. The museum's commitment to preserving the local heritage makes it a valuable destination for anyone interested in the cultural landscape of southern Germany.
 
 ## History and Significance
 
-The Heimatmuseum is more than just a collection of artifacts; it represents the collective memory of Simbach am Inn. While specific historical dates and events may not be documented here, the museum captures the essence of the town’s evolution through various exhibits that detail agricultural practices, traditional crafts, and everyday life in the region. Such exhibitions provide insights into how local customs have been maintained and adapted over time, emphasizing the resilience and creativity of the inhabitants.
+The Heimatmuseum is more than just a collection of artifacts; it represents the collective memory of Simbach am Inn. While specific historical dates and events may not be documented here, the museum captures the essence of the town's evolution through various exhibits that detail agricultural practices, traditional crafts, and everyday life in the region. Such exhibitions provide insights into how local customs have been maintained and adapted over time, emphasizing the resilience and creativity of the inhabitants.
 
 The significance of the Heimatmuseum lies not only in its exhibitions but also in its role as a community hub. It engages with the public through events, workshops, and educational programs, fostering a sense of pride and connection among residents. The museum's dedication to preserving the cultural identity of Simbach am Inn plays a vital role in maintaining the town's historical narrative and ensuring that future generations appreciate their heritage.
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Heimatmuseum Simbach am Inn, consider bring
 A visit to the Heimatmuseum Simbach am Inn typically takes about 1 to 2 hours, depending on your interest level in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to inquire upon arrival regarding any restrictions.
+Photography policies may vary, so it's advisable to inquire upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special programs that may be available during your visit.
@@ -101,7 +101,7 @@ Check the official website for details regarding accessibility options for visit
 Ticket purchasing options may vary; checking the official website can provide the most accurate information.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafes can enhance your visit, so it’s best to check the official website for details on available facilities.
+Amenities such as restrooms and cafes can enhance your visit, so it's best to check the official website for details on available facilities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to explore the area surrounding the museum.

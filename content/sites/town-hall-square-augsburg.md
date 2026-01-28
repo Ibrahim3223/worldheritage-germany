@@ -56,7 +56,7 @@ The best times to visit Town Hall Square are during the morning or late afternoo
 
 1. **Augsburg Town Hall**: A must-see for its stunning architecture and historical significance, this building is a central feature of the square.
    
-2. **Fugger Museum and Fuggerei**: Located nearby, this museum offers insights into the life and legacy of the Fugger family, one of Europe’s wealthiest families during the Renaissance.
+2. **Fugger Museum and Fuggerei**: Located nearby, this museum offers insights into the life and legacy of the Fugger family, one of Europe's wealthiest families during the Renaissance.
 
 3. **St. Anne's Church**: A short walk from the square, this church is known for its impressive interior and historical importance.
 

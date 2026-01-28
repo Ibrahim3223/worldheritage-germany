@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Schillstraße 37 is an architectural ensemble located in the historic city of Stralsund, Germany. This site is part of the UNESCO World Heritage-listed town, which is renowned for its well-preserved medieval structures and significant maritime history. As you explore the cobblestone streets of Stralsund, Schillstraße 37 stands out as an emblem of the city’s architectural heritage, inviting visitors to delve into its past. With its proximity to the Baltic Sea, Stralsund has long been a hub of trade and culture, making this building a vital piece of the urban fabric that contributes to the city's narrative.
+Schillstraße 37 is an architectural ensemble located in the historic city of Stralsund, Germany. This site is part of the UNESCO World Heritage-listed town, which is renowned for its well-preserved medieval structures and significant maritime history. As you explore the cobblestone streets of Stralsund, Schillstraße 37 stands out as an emblem of the city's architectural heritage, inviting visitors to delve into its past. With its proximity to the Baltic Sea, Stralsund has long been a hub of trade and culture, making this building a vital piece of the urban fabric that contributes to the city's narrative.
 
-The architectural ensemble is not just a building; it reflects the craftsmanship and urban planning of its time. Visitors can expect to encounter a blend of historical charm and cultural significance that exemplifies Stralsund’s evolution over the centuries. Whether you are an architecture enthusiast, a history buff, or simply someone looking to appreciate the beauty of this architectural ensemble, Schillstraße 37 offers a unique insight into the past.
+The architectural ensemble is not just a building; it reflects the craftsmanship and urban planning of its time. Visitors can expect to encounter a blend of historical charm and cultural significance that exemplifies Stralsund's evolution over the centuries. Whether you are an architecture enthusiast, a history buff, or simply someone looking to appreciate the beauty of this architectural ensemble, Schillstraße 37 offers a unique insight into the past.
 
 ## History and Significance
 
@@ -59,7 +59,7 @@ Expect to spend around an hour at Schillstraße 37, allowing ample time to absor
 When visiting Schillstraße 37, several nearby attractions complement your exploration of Stralsund's rich heritage:
 
 1. **Stralsund Old Town**: A UNESCO World Heritage site, featuring a remarkable collection of medieval buildings and a vibrant marketplace.
-2. **St. Mary’s Church (Marienkirche)**: A stunning example of brick Gothic architecture, this church is renowned for its impressive height and beautiful interior.
+2. **St. Mary's Church (Marienkirche)**: A stunning example of brick Gothic architecture, this church is renowned for its impressive height and beautiful interior.
 3. **Stralsund Museum**: Located nearby, this museum houses extensive exhibits related to the city's maritime history and cultural heritage.
 4. **Ozeaneum**: An impressive aquarium and maritime museum that showcases marine life and oceanic ecosystems, offering educational insights.
 5. **Gorch Fock**: A historic sailing ship that serves as a museum, providing a glimpse into nautical life and maritime history.

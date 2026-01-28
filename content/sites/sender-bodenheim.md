@@ -76,7 +76,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak seasons. This 
 
 ## Practical Information
 
-When visiting Sender Bodenheim, it’s advisable to bring comfortable walking shoes, as exploration may involve some walking around the tower and its vicinity. A camera is also recommended to capture the tower's architectural beauty and the surrounding landscape.
+When visiting Sender Bodenheim, it's advisable to bring comfortable walking shoes, as exploration may involve some walking around the tower and its vicinity. A camera is also recommended to capture the tower's architectural beauty and the surrounding landscape.
 
 Seasonal considerations are important; during warmer months, visitors should stay hydrated and wear sun protection, while cooler months may require warmer clothing. 
 

@@ -36,7 +36,7 @@ The Augustiner Museum has a compelling history that underscores its significance
 
 The collection within the museum is noteworthy for its extensive range of artworks, many of which highlight the region's artistic legacy. From medieval religious art to contemporary pieces, the museum presents a narrative of artistic evolution that invites visitors to reflect on the changing themes and techniques that have emerged over time. This broad chronological scope underscores the importance of the Augustiner Museum as a custodian of regional artistic heritage.
 
-In addition to its permanent collection, the museum often hosts temporary exhibitions that showcase both local and international artists. These exhibitions provide an opportunity for visitors to engage with current artistic dialogues and further emphasize the museum's role as a dynamic space for cultural exchange. This commitment to contemporary art ensures that the Augustiner Museum remains relevant in today’s ever-changing art landscape.
+In addition to its permanent collection, the museum often hosts temporary exhibitions that showcase both local and international artists. These exhibitions provide an opportunity for visitors to engage with current artistic dialogues and further emphasize the museum's role as a dynamic space for cultural exchange. This commitment to contemporary art ensures that the Augustiner Museum remains relevant in today's ever-changing art landscape.
 
 The museum also serves as an educational resource, offering programs and workshops aimed at fostering a deeper understanding of art history among visitors of all ages. By facilitating discussions and encouraging hands-on experiences, the Augustiner Museum plays a vital role in promoting art appreciation in the community.
 
@@ -64,9 +64,9 @@ Freiburg im Breisgau is a city rich in cultural and historical attractions. Whil
 
 1. **Freiburg Minster**: This iconic Gothic cathedral is a short walk from the museum and features stunning architecture and beautiful stained glass windows. Climbing its tower offers a panoramic view of the city.
 
-2. **Schwartzwald**: Just a short distance from the city center, this expansive forest offers numerous trails for hiking and enjoying the natural beauty of the region. It’s an excellent escape for those looking to explore the outdoors.
+2. **Schwartzwald**: Just a short distance from the city center, this expansive forest offers numerous trails for hiking and enjoying the natural beauty of the region. It's an excellent escape for those looking to explore the outdoors.
 
-3. **Augustinerplatz**: The square adjacent to the museum is a vibrant gathering place with cafes and shops. It’s a great spot to relax after visiting the museum, soaking in the local atmosphere.
+3. **Augustinerplatz**: The square adjacent to the museum is a vibrant gathering place with cafes and shops. It's a great spot to relax after visiting the museum, soaking in the local atmosphere.
 
 4. **Universitätsbibliothek Freiburg**: This historic university library is known for its impressive collection of books and manuscripts, providing further insight into the academic legacy of Freiburg.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Augustiner Museum, consider the following 
 
 - **Crowd Avoidance**: Visiting during the week, particularly in the morning, can help you avoid larger crowds. This allows for a more intimate experience with the art and exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about highlights or recommendations within the collection. Their insights can enhance your understanding and appreciation of the artworks.
+- **Engage with Staff**: Don't hesitate to ask museum staff about highlights or recommendations within the collection. Their insights can enhance your understanding and appreciation of the artworks.
 
 ## Practical Information
 
@@ -98,7 +98,7 @@ When planning your visit to the Augustiner Museum, keep a few practical consider
 A visit to the Augustiner Museum typically takes around 2 to 3 hours, depending on your interest in the exhibitions and any guided tours you may choose to take.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the museum upon arrival for specific guidelines regarding photography within the galleries.
+Photography policies can vary, so it's best to check with the museum upon arrival for specific guidelines regarding photography within the galleries.
 
 ### Are there guided tours?
 Yes, the Augustiner Museum often offers guided tours, which can provide valuable insights into the artworks and their historical contexts. Check the official website for scheduling and availability.
@@ -116,4 +116,4 @@ Check the official website for details on ticket purchasing options, including o
 The museum typically provides restroom facilities for visitors. For dining options, consider exploring nearby cafes and restaurants in the area.
 
 ### What should I wear?
-Dress comfortably for your visit, as you may be walking and standing for extended periods. It’s advisable to check the weather and dress accordingly if you plan to explore the surrounding area.
+Dress comfortably for your visit, as you may be walking and standing for extended periods. It's advisable to check the weather and dress accordingly if you plan to explore the surrounding area.

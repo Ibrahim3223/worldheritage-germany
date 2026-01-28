@@ -36,7 +36,7 @@ While specific historical details may be limited, the establishment of Stadtpark
 
 Culturally, the garden contributes to the identity of Gütersloh, serving as a gathering place for community events and public gatherings. It is a venue where locals celebrate seasonal festivals and engage in educational programs that highlight environmental stewardship. Through these initiatives, the garden not only showcases the beauty of flora but also encourages sustainable practices among community members.
 
-Enhancing its significance is the garden's integration into the city’s broader landscape. As urban areas grow, the preservation of green spaces becomes increasingly vital. Stadtpark und Botanischer Garten Gütersloh exemplifies this philosophy, providing a much-needed balance to the urban environment while hosting a variety of plant species for public enjoyment and education.
+Enhancing its significance is the garden's integration into the city's broader landscape. As urban areas grow, the preservation of green spaces becomes increasingly vital. Stadtpark und Botanischer Garten Gütersloh exemplifies this philosophy, providing a much-needed balance to the urban environment while hosting a variety of plant species for public enjoyment and education.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ Information about guided tours may vary; check the official website for details.
 Spring and early summer are particularly beautiful times to visit due to the blooming flowers.
 
 ### Is it wheelchair accessible?
-The park is designed to be accessible, but specific areas may vary. It’s best to check directly for detailed accessibility information.
+The park is designed to be accessible, but specific areas may vary. It's best to check directly for detailed accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and any potential fees.

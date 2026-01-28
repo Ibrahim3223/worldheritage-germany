@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Palace of Aachen, a remarkable Carolingian edifice in Germany, is a site where history and architecture converge. Located in the heart of Aachen, this palace was once the favored residence of Charlemagne, the first Holy Roman Emperor, and a central hub of political power during the Carolingian Renaissance. Its significance transcends mere bricks and mortar; it symbolizes the unification of Europe under Charlemagne’s reign. Visitors to this UNESCO World Heritage site can expect to explore a location steeped in cultural and historical importance, making it an essential destination for anyone interested in the legacy of medieval Europe.
+The Palace of Aachen, a remarkable Carolingian edifice in Germany, is a site where history and architecture converge. Located in the heart of Aachen, this palace was once the favored residence of Charlemagne, the first Holy Roman Emperor, and a central hub of political power during the Carolingian Renaissance. Its significance transcends mere bricks and mortar; it symbolizes the unification of Europe under Charlemagne's reign. Visitors to this UNESCO World Heritage site can expect to explore a location steeped in cultural and historical importance, making it an essential destination for anyone interested in the legacy of medieval Europe.
 
 The Palace of Aachen is not just an architectural marvel but also an emblem of the era's innovation in art and governance. Set against the backdrop of a city known for its thermal springs, the palace's rich history is intertwined with the development of Aachen as a political and cultural center. As you wander through its halls and gardens, you'll find echoes of a time when this site was a bustling court filled with scholars, artists, and dignitaries.
 
@@ -46,15 +46,15 @@ The significance of the Palace of Aachen extends into contemporary times. It was
 
 The architectural design of the Palace of Aachen is a blend of influences that reflect the transitional period between antiquity and the Middle Ages. The core of the palace is known for its Palatine Chapel, which is considered one of the most important examples of Carolingian architecture. The chapel features a stunning octagonal plan, inspired by the Byzantine architecture of Ravenna, and is adorned with a magnificent wooden ceiling and intricate mosaics.
 
-Surrounding the chapel, the palace complex includes various structures that served different functions, including residential quarters, administrative offices, and spaces for ceremonial activities. The use of Roman and early Christian architectural elements demonstrates Charlemagne’s desire to link his reign to the grandeur of the Roman Empire. 
+Surrounding the chapel, the palace complex includes various structures that served different functions, including residential quarters, administrative offices, and spaces for ceremonial activities. The use of Roman and early Christian architectural elements demonstrates Charlemagne's desire to link his reign to the grandeur of the Roman Empire. 
 
-Key features of the palace include the grand entrance and impressive columns, which create a sense of authority and grandeur. The use of arches, capitals, and decorative elements reflects the artistic innovations of the Carolingian Renaissance. The palace’s design also incorporates aspects of fortification, with thick walls and strategic layouts that indicate its role as a secure residence for the emperor.
+Key features of the palace include the grand entrance and impressive columns, which create a sense of authority and grandeur. The use of arches, capitals, and decorative elements reflects the artistic innovations of the Carolingian Renaissance. The palace's design also incorporates aspects of fortification, with thick walls and strategic layouts that indicate its role as a secure residence for the emperor.
 
 Visitors can explore the remnants of the palace's extensive grounds, which include gardens and courtyards that would have been used for relaxation and gatherings. This combination of functional spaces and aesthetic beauty exemplifies the sophistication of early medieval architecture.
 
 ## Visiting Information
 
-For those planning a visit to the Palace of Aachen, the site is accessible and designed to accommodate a range of visitors. To make the most of your experience, it’s advisable to check the official website for current information regarding hours and ticket prices. The palace is typically open throughout the week, with varying hours that can change seasonally.
+For those planning a visit to the Palace of Aachen, the site is accessible and designed to accommodate a range of visitors. To make the most of your experience, it's advisable to check the official website for current information regarding hours and ticket prices. The palace is typically open throughout the week, with varying hours that can change seasonally.
 
 When visiting, expect to spend a few hours exploring the palace and its surroundings. Guided tours are often available and can provide deeper insights into the architecture and history of the site. Audio guides may also be offered, allowing for a more personalized experience as you navigate through the complex.
 
@@ -117,7 +117,7 @@ The palace aims to be accessible, but it's best to check the official website fo
 Online ticket purchasing options may be available. Check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available on-site or nearby. It’s best to confirm specifics on the official website.
+Facilities such as restrooms and cafes are typically available on-site or nearby. It's best to confirm specifics on the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the grounds extensively.

@@ -26,19 +26,19 @@ image_srcset:
 
 ## Overview
 
-The Tawhid-Moschee stands as a vital place of worship in Dietzenbach, Hesse, Germany, reflecting the cultural diversity and religious practices of the local Muslim community. This mosque is more than just a house of prayer; it serves as a social and community hub, fostering a sense of belonging among its members. Located at the coordinates 50.00699, 8.7928, it is easily accessible for both residents and visitors keen on exploring the rich tapestry of Dietzenbach’s cultural landscape. 
+The Tawhid-Moschee stands as a vital place of worship in Dietzenbach, Hesse, Germany, reflecting the cultural diversity and religious practices of the local Muslim community. This mosque is more than just a house of prayer; it serves as a social and community hub, fostering a sense of belonging among its members. Located at the coordinates 50.00699, 8.7928, it is easily accessible for both residents and visitors keen on exploring the rich tapestry of Dietzenbach's cultural landscape. 
 
-As you approach the mosque, you’ll find that it embodies the spirit of inclusivity, inviting worshippers and curious travelers alike to learn more about Islamic traditions and the role of faith in everyday life. The mosque not only fulfills religious obligations but also serves as a center for various community activities, making it a significant landmark in the region.
+As you approach the mosque, you'll find that it embodies the spirit of inclusivity, inviting worshippers and curious travelers alike to learn more about Islamic traditions and the role of faith in everyday life. The mosque not only fulfills religious obligations but also serves as a center for various community activities, making it a significant landmark in the region.
 
 Whether you are drawn by spiritual curiosity, an interest in architectural design, or a desire to engage with the local community, a visit to Tawhid-Moschee promises to enrich your understanding of the cultural fabric of Dietzenbach.
 
 ## History and Significance
 
-The Tawhid-Moschee holds a significant place in the narrative of the Muslim community in Dietzenbach. While specific historical dates and events may not be readily available, it is essential to recognize the mosque’s role as a center for worship and community engagement since its establishment. The mosque symbolizes the growth of the Muslim population in the area, mirroring broader demographic trends and the increasing acceptance of diverse faiths in Germany.
+The Tawhid-Moschee holds a significant place in the narrative of the Muslim community in Dietzenbach. While specific historical dates and events may not be readily available, it is essential to recognize the mosque's role as a center for worship and community engagement since its establishment. The mosque symbolizes the growth of the Muslim population in the area, mirroring broader demographic trends and the increasing acceptance of diverse faiths in Germany.
 
 The mosque is named "Tawhid," which translates to the concept of monotheism in Islam, underlining the core belief that there is only one God. This fundamental principle resonates throughout the mosque's activities, including daily prayers, educational programs, and community services, which aim to foster understanding and cooperation among different cultural groups.
 
-As a place of worship, Tawhid-Moschee also serves an educational purpose, hosting events that aim to dispel myths about Islam and promote dialogue among various faith communities. The mosque’s leadership is often involved in interfaith initiatives, demonstrating a commitment to harmony and mutual respect in a multicultural society.
+As a place of worship, Tawhid-Moschee also serves an educational purpose, hosting events that aim to dispel myths about Islam and promote dialogue among various faith communities. The mosque's leadership is often involved in interfaith initiatives, demonstrating a commitment to harmony and mutual respect in a multicultural society.
 
 The mosque's establishment reflects the broader trends of migration and integration, highlighting the importance of religious institutions in fostering community cohesion and understanding. In this regard, the Tawhid-Moschee is not only a place for spiritual reflection but also a landmark of cultural significance in Dietzenbach, embodying the aspirations and contributions of its Muslim community.
 
@@ -56,7 +56,7 @@ The exterior of the mosque is designed to be welcoming, often featuring landscap
 
 Visiting Tawhid-Moschee offers a unique opportunity to learn about Islamic culture and engage with the local community. To get there, public transport options may be available, and parking facilities can accommodate those who prefer to drive. Check the official website for current information on transport options and accessibility.
 
-When planning your visit, it's advisable to check the mosque’s official website for details on hours of operation and any entrance fees, if applicable. As a place of worship, the mosque may have specific times for prayers during which visitors are encouraged to be respectful and maintain a quiet demeanor.
+When planning your visit, it's advisable to check the mosque's official website for details on hours of operation and any entrance fees, if applicable. As a place of worship, the mosque may have specific times for prayers during which visitors are encouraged to be respectful and maintain a quiet demeanor.
 
 A typical visit could last anywhere from one to two hours, depending on your interest in exploring the space and engaging with community members. It's recommended to visit during community events or open house days, which may provide deeper insights into the practices and beliefs of the mosque's congregation.
 
@@ -66,7 +66,7 @@ For the most enriching experience, consider visiting during the weekend when the
 
 While visiting Tawhid-Moschee, you might also explore some nearby attractions that reflect the cultural and historical richness of Dietzenbach:
 
-1. **St. Martin’s Church**: A historic church in the area, showcasing local architectural styles and offering a glimpse into the region's Christian heritage.
+1. **St. Martin's Church**: A historic church in the area, showcasing local architectural styles and offering a glimpse into the region's Christian heritage.
    
 2. **Dietzenbach Town Hall**: An example of modern municipal architecture, the town hall is a hub for local governance and community events.
    

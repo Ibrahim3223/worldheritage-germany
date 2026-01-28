@@ -60,7 +60,7 @@ After exploring Bionicum, visitors can extend their cultural experience in Nurem
 
 1. **Nuremberg Castle**: A historic fortress that offers panoramic views of the city and insights into its medieval past.
 2. **German National Museum**: The largest museum of cultural history in Germany, showcasing an extensive collection of art and artifacts.
-3. **Documentation Center Nazi Party Rally Grounds**: A museum that provides a critical examination of the city’s role during the Nazi era.
+3. **Documentation Center Nazi Party Rally Grounds**: A museum that provides a critical examination of the city's role during the Nazi era.
 4. **St. Lorenz Church**: A stunning example of Gothic architecture, known for its intricate stained glass and historical significance.
 5. **Nuremberg Zoo**: A family-friendly destination home to a variety of animal species, providing an opportunity to connect with wildlife.
 
@@ -68,7 +68,7 @@ After exploring Bionicum, visitors can extend their cultural experience in Nurem
 
 To make the most of your visit to Bionicum, consider the following insider tips:
 
-- **Photography**: While many museums allow photography, it’s prudent to check the specific rules regarding photography at Bionicum. Respecting exhibit signage is essential to maintain the integrity of the displays.
+- **Photography**: While many museums allow photography, it's prudent to check the specific rules regarding photography at Bionicum. Respecting exhibit signage is essential to maintain the integrity of the displays.
 
 - **Crowd Avoidance**: Visiting during weekday afternoons can help you avoid the busier weekend crowds. This allows for a more intimate experience with the exhibits.
 

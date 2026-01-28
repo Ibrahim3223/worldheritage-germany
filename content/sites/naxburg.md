@@ -74,7 +74,7 @@ These attractions complement a visit to Naxburg, allowing for a deeper appreciat
 
 For the best photography opportunities, consider visiting Naxburg early in the morning or late in the afternoon when the soft light enhances the castle's features. Exploring the grounds at these times may also help you avoid larger crowds, providing a more intimate experience of the castle.
 
-To make the most of your visit, familiarize yourself with the layout of the castle and any notable points of interest beforehand. This preparation can help you navigate the site efficiently and ensure that you don’t miss any significant features.
+To make the most of your visit, familiarize yourself with the layout of the castle and any notable points of interest beforehand. This preparation can help you navigate the site efficiently and ensure that you don't miss any significant features.
 
 ## Practical Information
 
@@ -97,7 +97,7 @@ Check the official website for information on guided tours, which may enhance yo
 The best times to visit are in spring or fall when the weather is pleasant for outdoor exploration, although winter offers a unique atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided; it’s advisable to check the official website for details regarding wheelchair access.
+Accessibility information is not provided; it's advisable to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current information.

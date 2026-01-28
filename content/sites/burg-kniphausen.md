@@ -87,7 +87,7 @@ A visit to Burg Kniphausen typically takes about one to two hours, allowing you 
 Photography is generally permitted, but be mindful of any specific rules or restrictions that may apply within the castle.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, if available, as these can provide valuable insights into the castle’s history.
+Check the official website for information on guided tours, if available, as these can provide valuable insights into the castle's history.
 
 ### What's the best time to visit?
 Spring and early fall are often considered the best times to visit, as the weather is typically mild and conducive to outdoor exploration.

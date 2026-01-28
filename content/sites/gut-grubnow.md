@@ -66,7 +66,7 @@ While visiting Gut Grubnow, consider exploring the surrounding areas to enhance 
 
 3. **Cape Arkona**: This historic cape features impressive cliffs, a lighthouse, and remnants of ancient Slavic settlements. It provides a fascinating insight into the region's history and breathtaking coastal views.
 
-4. **Jasmund National Park**: Known for its chalk cliffs and lush forests, this national park is a haven for nature lovers. Hiking trails offer the chance to explore the island’s natural beauty.
+4. **Jasmund National Park**: Known for its chalk cliffs and lush forests, this national park is a haven for nature lovers. Hiking trails offer the chance to explore the island's natural beauty.
 
 5. **Putbus**: A nearby town known for its classic architecture, Putbus is home to a picturesque park and the historic theater, providing a cultural touch to your visit.
 

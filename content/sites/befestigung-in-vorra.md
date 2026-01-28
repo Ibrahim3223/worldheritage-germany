@@ -62,7 +62,7 @@ While visiting Befestigung in Vorra, several nearby attractions can enhance your
 
 3. **Museum of Industrial Culture**: Situated in Nuremberg, this museum explores the region's industrial heritage, providing context to the economic developments that accompanied the fortification's history.
 
-4. **Albrecht Dürer’s House**: This museum is dedicated to the life and works of the famous Renaissance artist, located in Nuremberg, and offers insights into the cultural history of the area.
+4. **Albrecht Dürer's House**: This museum is dedicated to the life and works of the famous Renaissance artist, located in Nuremberg, and offers insights into the cultural history of the area.
 
 5. **Bavarian Forest National Park**: A bit farther afield, this national park offers stunning natural scenery and a range of outdoor activities, perfect for those looking to extend their exploration of Bavaria.
 

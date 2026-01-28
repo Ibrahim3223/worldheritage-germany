@@ -86,7 +86,7 @@ Seasonal events may influence the museum's offerings, so be sure to check the of
 The average visit to the Kunstmuseum Ravensburg can take between one to three hours, depending on your interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check the specific rules upon arrival or on the official website.
+Photography policies may vary by exhibition. It's best to check the specific rules upon arrival or on the official website.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and topics covered.
@@ -101,7 +101,7 @@ The museum aims to be accessible to all visitors, but it is advisable to check t
 Check the official website for current ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available, but it’s recommended to confirm on the official website.
+Facilities such as restrooms and cafes are typically available, but it's recommended to confirm on the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding areas after your museum visit.

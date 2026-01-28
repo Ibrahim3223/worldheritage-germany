@@ -95,13 +95,13 @@ Currently, specific information about guided tours is not provided. It is advisa
 The best times to visit Manslagt Church are during the spring and summer months when the weather is generally pleasant.
 
 ### Is it wheelchair accessible?
-Details regarding accessibility are not specified. It’s a good idea to check the official website for the most accurate information.
+Details regarding accessibility are not specified. It's a good idea to check the official website for the most accurate information.
 
 ### Can I buy tickets online?
 For current information regarding entry fees and ticket purchasing options, check the official website.
 
 ### Are there restrooms and cafes?
-Information about restrooms and nearby cafes is not provided. It’s recommended to prepare accordingly before your visit.
+Information about restrooms and nearby cafes is not provided. It's recommended to prepare accordingly before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the nearby attractions and walk in the area.

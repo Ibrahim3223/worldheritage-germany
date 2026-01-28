@@ -74,7 +74,7 @@ If you wish to avoid crowds, consider visiting during the week rather than on we
 
 ## Practical Information
 
-When visiting Sacred Heart Church, it’s advisable to bring a small bag with essentials such as water and perhaps a light jacket, as temperatures can vary. Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions.
+When visiting Sacred Heart Church, it's advisable to bring a small bag with essentials such as water and perhaps a light jacket, as temperatures can vary. Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions.
 
 Seasonal considerations should also be made; visiting during spring or early fall may offer the most pleasant weather for exploring the area and enjoying outdoor activities.
 
@@ -84,7 +84,7 @@ Seasonal considerations should also be made; visiting during spring or early fal
 A visit typically takes about one hour, allowing time to appreciate the church's architecture and atmosphere.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to observe any posted signs or inquire with staff regarding specific restrictions.
+Photography is generally permitted, but it's best to observe any posted signs or inquire with staff regarding specific restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or educational programs that may be available during your visit.

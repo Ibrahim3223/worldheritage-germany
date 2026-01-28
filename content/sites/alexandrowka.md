@@ -64,7 +64,7 @@ While visiting Alexandrowka, there are several nearby attractions worth explorin
 
 1. **Sanssouci Palace**: A short distance away, this iconic palace is a UNESCO World Heritage site renowned for its stunning gardens and opulent architecture. It served as the summer residence of Frederick the Great and is a must-visit for history enthusiasts.
 
-2. **Potsdam's Dutch Quarter**: This charming area features Dutch-style buildings and quaint shops, providing a delightful contrast to Alexandrowka's Russian influence. It’s perfect for a leisurely stroll and offers various cafes for a quick refreshment.
+2. **Potsdam's Dutch Quarter**: This charming area features Dutch-style buildings and quaint shops, providing a delightful contrast to Alexandrowka's Russian influence. It's perfect for a leisurely stroll and offers various cafes for a quick refreshment.
 
 3. **The New Palace**: Located within the park of Sanssouci, this grand palace exemplifies Baroque architecture and houses an impressive collection of art and artifacts, making it an enriching stop for visitors.
 

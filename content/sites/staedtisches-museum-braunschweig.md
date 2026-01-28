@@ -50,7 +50,7 @@ In addition to its permanent collections, the museum often hosts temporary exhib
 
 Visiting the Städtisches Museum Braunschweig is a straightforward and enriching experience. The museum is well-connected by public transport, making it accessible to both locals and tourists. Visitors can check the official website for current information regarding opening hours and ticket prices. 
 
-When planning your visit, consider setting aside a few hours to fully appreciate the exhibits. The museum’s layout encourages leisurely exploration, and visitors often find themselves drawn into the narratives presented through the collections. The best times to visit may vary, but weekdays are generally less crowded, allowing for a more intimate experience with the artworks and artifacts.
+When planning your visit, consider setting aside a few hours to fully appreciate the exhibits. The museum's layout encourages leisurely exploration, and visitors often find themselves drawn into the narratives presented through the collections. The best times to visit may vary, but weekdays are generally less crowded, allowing for a more intimate experience with the artworks and artifacts.
 
 In addition to the main exhibits, the museum may offer events, workshops, or guided tours that enhance the visitor experience. Checking the official website ahead of time can provide insights into any special programming occurring during your visit.
 
@@ -70,7 +70,7 @@ These attractions provide additional context to the rich cultural landscape of B
 
 To make the most of your visit to Städtisches Museum Braunschweig, consider these insider tips:
 
-- **Photography**: While many museums have restrictions on photography, it’s best to check the specific policies at Städtisches Museum Braunschweig upon arrival.
+- **Photography**: While many museums have restrictions on photography, it's best to check the specific policies at Städtisches Museum Braunschweig upon arrival.
 - **Crowd Avoidance**: To avoid larger crowds, aim for visits during weekdays, especially in the morning hours when the museum is typically quieter.
 - **Plan Your Route**: Familiarize yourself with the layout of the museum before you go, as this can help you prioritize exhibits that are of particular interest to you.
 
@@ -91,7 +91,7 @@ Most visitors find that a visit of 2 to 3 hours allows sufficient time to explor
 Check the museum's policy upon arrival, as photography rules can vary by exhibit and may change over time.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s best to consult the official website for current offerings and scheduling.
+Guided tours may be available, but it's best to consult the official website for current offerings and scheduling.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, tend to be less crowded, providing a more relaxed experience.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The CGM Arena, located in the vibrant city of Koblenz, Germany, serves as a dynamic multi-purpose hall within the Sportpark Oberwerth. As the second-largest arena in the state of Rhineland-Palatinate, it plays a pivotal role in the region’s cultural and sporting landscape. The venue accommodates diverse events, from thrilling sports competitions to captivating concerts, making it a focal point for both locals and visitors. Its strategic positioning in Koblenz, a city where the Rhine and Moselle Rivers converge, enhances its accessibility and significance, attracting a multitude of events throughout the year.
+The CGM Arena, located in the vibrant city of Koblenz, Germany, serves as a dynamic multi-purpose hall within the Sportpark Oberwerth. As the second-largest arena in the state of Rhineland-Palatinate, it plays a pivotal role in the region's cultural and sporting landscape. The venue accommodates diverse events, from thrilling sports competitions to captivating concerts, making it a focal point for both locals and visitors. Its strategic positioning in Koblenz, a city where the Rhine and Moselle Rivers converge, enhances its accessibility and significance, attracting a multitude of events throughout the year.
 
 Visitors to the CGM Arena can anticipate a versatile space designed to cater to a wide array of activities, ensuring a vibrant atmosphere year-round. The arena not only enriches the cultural fabric of Koblenz but also contributes to the local economy by drawing crowds for various events. Whether you are a sports enthusiast eager to watch a riveting game or a music lover looking to enjoy a live performance, the CGM Arena promises an engaging experience that highlights the best of what the region has to offer.
 
@@ -34,7 +34,7 @@ Visitors to the CGM Arena can anticipate a versatile space designed to cater to 
 
 The CGM Arena stands as a vital component in the sporting and cultural narrative of Koblenz. While specific historical details may be elusive, the arena's establishment marked a significant development in the region's capacity to host large-scale events. As a multi-purpose facility, it has allowed Koblenz to expand its horizons, offering a venue that accommodates a diverse range of activities.
 
-Culturally, the CGM Arena has become synonymous with local pride and community spirit. It is home to various sporting events, including basketball and volleyball, as well as concerts and exhibitions that draw both regional and national attention. The arena’s versatility reflects the community’s need for a space that can adapt to different forms of entertainment and gatherings. The events hosted here often become focal points for socialization and community engagement, reinforcing the arena's role as a cultural hub.
+Culturally, the CGM Arena has become synonymous with local pride and community spirit. It is home to various sporting events, including basketball and volleyball, as well as concerts and exhibitions that draw both regional and national attention. The arena's versatility reflects the community's need for a space that can adapt to different forms of entertainment and gatherings. The events hosted here often become focal points for socialization and community engagement, reinforcing the arena's role as a cultural hub.
 
 Through its continuous use for various events, the CGM Arena has also contributed to the evolution of Koblenz as a destination for both tourists and residents. Its presence has encouraged the development of surrounding infrastructure and amenities, making Koblenz a more attractive location for hosting events and activities. The arena serves as a gathering place, fostering connections among people from different backgrounds and interests, which is a vital aspect of any thriving community.
 
@@ -48,7 +48,7 @@ While specific architectural details may not be provided, the arena's modernity 
 
 ## Visiting Information
 
-When planning a visit to the CGM Arena, it's essential to consider various transport options available in Koblenz. The arena is easily accessible by public transportation, including buses and trains, with nearby stops allowing for convenient access. If traveling by car, parking facilities are available, but it’s advisable to arrive early during major events to secure a spot.
+When planning a visit to the CGM Arena, it's essential to consider various transport options available in Koblenz. The arena is easily accessible by public transportation, including buses and trains, with nearby stops allowing for convenient access. If traveling by car, parking facilities are available, but it's advisable to arrive early during major events to secure a spot.
 
 Check the official website for current information on opening hours and ticket prices, as these can vary based on the events scheduled. Visitors can expect a lively atmosphere, particularly during events, so planning ahead is recommended. Depending on the event, visitors may want to allocate a few hours to fully enjoy the experience, factoring in time for arrival and any pre-event activities.
 
@@ -64,7 +64,7 @@ While visiting the CGM Arena, take the opportunity to explore some of the nearby
    
 3. **Rhein-Mosel-Halle**: Another significant venue in Koblenz, hosting various cultural events, exhibitions, and fairs.
    
-4. **Liebfrauenkirche**: This beautiful church is renowned for its Gothic architecture and is a testament to the city’s rich religious history.
+4. **Liebfrauenkirche**: This beautiful church is renowned for its Gothic architecture and is a testament to the city's rich religious history.
    
 5. **Cable Car to Ehrenbreitstein**: Experience breathtaking views of the city and the rivers as you take a ride on the cable car leading to the fortress.
 

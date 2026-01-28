@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Castle Reckenberg, located in Fürstenberg, Germany, is an impressive manor house that captures the essence of historical architecture and cultural heritage. Set within the picturesque region of Lichtenfels, this estate provides visitors with an opportunity to explore a unique blend of historical significance and architectural beauty. The castle’s grandeur is not only a reflection of its past but also a marker of the evolution of German manor houses through the centuries. As you approach Castle Reckenberg, the surrounding landscape hints at the stories and lives that have unfolded within its walls, making it a significant stop for heritage enthusiasts and curious travelers alike.
+Castle Reckenberg, located in Fürstenberg, Germany, is an impressive manor house that captures the essence of historical architecture and cultural heritage. Set within the picturesque region of Lichtenfels, this estate provides visitors with an opportunity to explore a unique blend of historical significance and architectural beauty. The castle's grandeur is not only a reflection of its past but also a marker of the evolution of German manor houses through the centuries. As you approach Castle Reckenberg, the surrounding landscape hints at the stories and lives that have unfolded within its walls, making it a significant stop for heritage enthusiasts and curious travelers alike.
 
 ## History and Significance
 
 While specific historical dates concerning Castle Reckenberg may not be documented, the manor house represents a significant aspect of German heritage. Manor houses in Germany often served as centers of power and influence, reflecting the social and economic structures of their time. Castle Reckenberg, like many such estates, was likely a site for both residential and administrative activities, intertwining the lives of nobility and common folk. 
 
-The cultural importance of Castle Reckenberg lies not only in its function but also in its representation of the architectural styles and societal norms of its time. As a manor house, it serves as a reminder of the feudal system that shaped much of Europe’s history. Visitors to the site can appreciate how such estates contributed to local economies and governance, as well as their roles in the broader narrative of German history.
+The cultural importance of Castle Reckenberg lies not only in its function but also in its representation of the architectural styles and societal norms of its time. As a manor house, it serves as a reminder of the feudal system that shaped much of Europe's history. Visitors to the site can appreciate how such estates contributed to local economies and governance, as well as their roles in the broader narrative of German history.
 
 The legacy of Castle Reckenberg is also seen in its preservation efforts, which aim to maintain the structure for future generations. This commitment to heritage is essential in understanding how historical sites can foster a sense of identity and continuity within contemporary society.
 
@@ -40,7 +40,7 @@ The legacy of Castle Reckenberg is also seen in its preservation efforts, which 
 
 Castle Reckenberg showcases the distinctive characteristics typical of German manor houses. The architecture reflects functional design while incorporating elements of aesthetic appeal. The facade is likely marked by a combination of sturdy stonework and decorative elements that emphasize both strength and elegance.
 
-Key features of Castle Reckenberg may include grand entryways, intricate window designs, and expansive grounds that complement the manor’s stature. The layout of the property would have been designed to accommodate both the daily needs of its inhabitants and the grandeur befitting its status. Visitors can expect to see various architectural details that highlight craftsmanship, such as ornamental stone carvings or timber framework, which are often prevalent in manor houses of this era.
+Key features of Castle Reckenberg may include grand entryways, intricate window designs, and expansive grounds that complement the manor's stature. The layout of the property would have been designed to accommodate both the daily needs of its inhabitants and the grandeur befitting its status. Visitors can expect to see various architectural details that highlight craftsmanship, such as ornamental stone carvings or timber framework, which are often prevalent in manor houses of this era.
 
 While exploring the castle, one can appreciate how the building's design not only served practical purposes but also reflected the social dynamics of the time. Spaces within the manor would have been designed for both private family life and public gatherings, illustrating the dual nature of such estates.
 
@@ -81,7 +81,7 @@ Check the official website for any specific guidelines related to visiting the s
 A visit to Castle Reckenberg generally takes a few hours to fully appreciate the architecture and grounds.
 
 ### Is photography allowed?
-Photography is typically permitted; however, it’s recommended to check for any restrictions upon arrival.
+Photography is typically permitted; however, it's recommended to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more information on scheduling and availability.
@@ -90,7 +90,7 @@ Guided tours may be available; check the official website for more information o
 The best time to visit is during the spring and summer months when the weather is most pleasant.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary, so it’s advisable to check the official website for specific details.
+Accessibility options may vary, so it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

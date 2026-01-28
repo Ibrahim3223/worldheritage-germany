@@ -95,7 +95,7 @@ A visit typically takes between two to four hours, depending on your interest le
 Yes, photography is generally permitted, but be sure to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
-Guided tours may be available; it’s best to check the official website for details on scheduling and availability.
+Guided tours may be available; it's best to check the official website for details on scheduling and availability.
 
 ### What's the best time to visit?
 Spring and autumn are ideal for a visit due to mild weather, but weekdays are often less crowded.

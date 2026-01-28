@@ -36,7 +36,7 @@ The significance of Hühnerberg extends beyond its physical presence; it is a sy
 
 The history of Hühnerberg is intertwined with the cultural heritage of Bavaria. While specific historical milestones are not documented in detail, the mountain has long been a part of the local landscape, influencing the community and its traditions. The significance of Hühnerberg goes beyond mere geological formation; it has served as a gathering place for families, friends, and outdoor enthusiasts for generations.
 
-Bavaria, known for its stunning natural landscapes, has a deep-rooted connection to its mountains. Hühnerberg contributes to this legacy, reinforcing the region’s identity and its relationship with nature. The mountain's presence has fostered a sense of belonging among the local population, making it a cherished location for recreational activities.
+Bavaria, known for its stunning natural landscapes, has a deep-rooted connection to its mountains. Hühnerberg contributes to this legacy, reinforcing the region's identity and its relationship with nature. The mountain's presence has fostered a sense of belonging among the local population, making it a cherished location for recreational activities.
 
 Culturally, Hühnerberg is representative of the Bavarian ethos, which emphasizes the importance of outdoor life and community engagement. Festivals, outdoor activities, and cultural gatherings often take place in the vicinity, showcasing the area's commitment to maintaining a vibrant connection to nature. This relationship between the community and Hühnerberg highlights the mountain's role in promoting well-being, recreation, and a sense of heritage.
 

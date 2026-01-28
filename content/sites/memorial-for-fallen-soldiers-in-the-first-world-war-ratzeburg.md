@@ -48,7 +48,7 @@ The Memorial for fallen soldiers in the First World War in Ratzeburg is characte
 
 The memorial's physical presence serves as a powerful reminder of the sacrifices made during wartime, with its simplicity conveying deep respect. Visitors may find that the layout encourages a reflective experience, inviting individuals to pause and consider the weight of history and the lives lost.
 
-Notable features might include plaques or inscriptions that honor specific individuals or groups, allowing visitors to connect on a personal level with the history being commemorated. The surrounding environment, likely designed to enhance the meditative quality of the space, adds to the memorial’s significance, providing a tranquil area for reflection amid the bustle of modern life.
+Notable features might include plaques or inscriptions that honor specific individuals or groups, allowing visitors to connect on a personal level with the history being commemorated. The surrounding environment, likely designed to enhance the meditative quality of the space, adds to the memorial's significance, providing a tranquil area for reflection amid the bustle of modern life.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ Visiting the Memorial for fallen soldiers in the First World War in Ratzeburg of
 
 Transportation options to Ratzeburg are varied, with numerous public transit routes connecting the area to larger cities in Germany. Whether arriving by train or car, visitors will find the journey to the memorial straightforward. 
 
-Check the official website for current information regarding hours and any potential admission fees. While the memorial itself may not charge an entrance fee, it’s wise to check for any seasonal events or commemorations that could affect accessibility.
+Check the official website for current information regarding hours and any potential admission fees. While the memorial itself may not charge an entrance fee, it's wise to check for any seasonal events or commemorations that could affect accessibility.
 
 Expect to spend around an hour at the memorial, allowing time for reflection and exploration. The best times to visit are during the quieter hours of the day, preferably in the early morning or late afternoon, when the light is soft and the atmosphere is calm.
 

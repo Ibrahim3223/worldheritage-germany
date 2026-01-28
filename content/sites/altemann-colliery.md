@@ -70,7 +70,7 @@ To make the most of your visit to Altemann Colliery, consider the following insi
 
 - **Crowd Avoidance**: If possible, visit on weekdays or during off-peak hours to enjoy a quieter experience. This allows for a more immersive exploration of the site and its exhibits.
 
-- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the site’s history and significance. Guides often share anecdotes and insights that enrich your experience.
+- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the site's history and significance. Guides often share anecdotes and insights that enrich your experience.
 
 ## Practical Information
 

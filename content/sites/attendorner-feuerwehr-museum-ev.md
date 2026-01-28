@@ -72,7 +72,7 @@ After exploring the Attendorner Feuerwehr-Museum e.V., consider visiting these n
 
 For the best experience at the Attendorner Feuerwehr-Museum e.V., consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography; some exhibits may have restrictions.
+- **Photography**: Check the museum's policy on photography; some exhibits may have restrictions.
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for weekday afternoons, as weekends can draw larger crowds.
 - **Engagement**: Take your time to read the informative plaques accompanying exhibits, as they offer valuable context to the displays.
 
@@ -104,7 +104,7 @@ For specific accessibility options, it is best to check the official website or 
 Ticket purchasing options can vary; confirm through the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available; however, dining options should be confirmed through the museum’s website or local resources.
+Facilities such as restrooms may be available; however, dining options should be confirmed through the museum's website or local resources.
 
 ### What should I wear?
 Dress comfortably and wear appropriate footwear, especially if you plan to explore nearby outdoor attractions after your museum visit.

@@ -72,7 +72,7 @@ If you're looking to enjoy a peaceful day, weekdays tend to be less crowded comp
 
 ## Practical Information
 
-When planning your visit to Schwansee, it’s advisable to bring essentials such as water, snacks, and sunscreen, especially during the warmer months. Comfortable walking shoes are recommended, as the terrain can vary around the lake.
+When planning your visit to Schwansee, it's advisable to bring essentials such as water, snacks, and sunscreen, especially during the warmer months. Comfortable walking shoes are recommended, as the terrain can vary around the lake.
 
 Seasonal considerations include potential snowfall in winter, which may affect accessibility and visibility. Each season has its unique appeal, so consider what type of experience you're seeking when choosing when to visit.
 

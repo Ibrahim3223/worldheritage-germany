@@ -62,7 +62,7 @@ While a short visit to Frankfurt-Oberrad may only require about 30 minutes, you 
 
 1. **Schwanheimer Düne**: A nature reserve located not far from Oberrad, Schwanheimer Düne is a unique outdoor space featuring sandy dunes and diverse flora. It's an excellent spot for nature walks and birdwatching.
 
-2. **Frankfurt Zoo**: Just a short distance away, the Frankfurt Zoo is home to a wide variety of animal species and offers educational programs for visitors of all ages. It’s a great destination for families.
+2. **Frankfurt Zoo**: Just a short distance away, the Frankfurt Zoo is home to a wide variety of animal species and offers educational programs for visitors of all ages. It's a great destination for families.
 
 3. **St. John's Church (Johanneskirche)**: This historic church is located nearby and showcases beautiful architecture and serene surroundings. It is a peaceful place to visit and appreciate local heritage.
 

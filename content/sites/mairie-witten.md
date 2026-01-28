@@ -32,7 +32,7 @@ The history of Mairie Witten is intertwined with the development of Witten itsel
 
 The significance of Mairie Witten is evident in its function as a center for local government. This building not only houses administrative offices but also serves as a venue for public meetings, civic events, and community gatherings. The city hall reflects the principles of civic engagement, encouraging residents to participate in the democratic processes of their community.
 
-Culturally, Mairie Witten stands as a symbol of the town's identity. It embodies the aspirations and the historical narrative of Witten, showcasing the evolution of the town from a small settlement to a thriving urban center. While specific dates and detailed accounts of its foundation may not be readily available, the city hall remains a crucial part of Witten’s heritage, providing insight into the local governance structure and fostering community ties.
+Culturally, Mairie Witten stands as a symbol of the town's identity. It embodies the aspirations and the historical narrative of Witten, showcasing the evolution of the town from a small settlement to a thriving urban center. While specific dates and detailed accounts of its foundation may not be readily available, the city hall remains a crucial part of Witten's heritage, providing insight into the local governance structure and fostering community ties.
 
 ## Architecture and Features
 

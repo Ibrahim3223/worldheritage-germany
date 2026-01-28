@@ -34,7 +34,7 @@ Set against the backdrop of Harsewinkel, a town known for its quaint charm and f
 
 The history of St. Lucia is intertwined with the development of Harsewinkel itself. The church serves as a vital spiritual center for the community and reflects the religious traditions that have influenced the region over the years. While specific historical dates may be absent, the church's ongoing role in community life signifies its enduring importance. 
 
-As a church building, St. Lucia has likely played a key role in various local events, from religious ceremonies to festive gatherings. Such institutions often serve as social hubs, reinforcing community ties and fostering a sense of belonging among residents. This cultural significance extends beyond its physical structure, as the church’s presence embodies the values and traditions upheld by its congregation.
+As a church building, St. Lucia has likely played a key role in various local events, from religious ceremonies to festive gatherings. Such institutions often serve as social hubs, reinforcing community ties and fostering a sense of belonging among residents. This cultural significance extends beyond its physical structure, as the church's presence embodies the values and traditions upheld by its congregation.
 
 In addition to its spiritual function, St. Lucia's architectural characteristics may also speak to the broader trends in church design prevalent during the period of its construction. The church is a reflection of the historical and cultural shifts experienced in the region, making it a valuable site for understanding local heritage.
 
@@ -50,7 +50,7 @@ To visit St. Lucia, travelers can easily reach Harsewinkel through various trans
 
 When planning your visit, consider the amount of time you wish to spend at the church. A typical visit may take around one to two hours, allowing for ample time to explore the interior, appreciate the architecture, and engage with the local community. The best times to visit are often during daylight hours, when the church is open to the public and when natural light enhances the beauty of its features.
 
-Visitors should be prepared for a tranquil atmosphere, often conducive to reflection and appreciation of the church’s significance. Whether you are attending a service or simply exploring, St. Lucia offers a peaceful retreat from the bustle of everyday life.
+Visitors should be prepared for a tranquil atmosphere, often conducive to reflection and appreciation of the church's significance. Whether you are attending a service or simply exploring, St. Lucia offers a peaceful retreat from the bustle of everyday life.
 
 ## Nearby Attractions
 

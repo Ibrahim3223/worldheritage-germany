@@ -3,7 +3,7 @@ title: "Minoritenkloster Hannover"
 site_name: "Minoritenkloster Hannover"
 date: 2026-01-26
 draft: false
-description: "In the heart of Hanover, the Minoritenkloster Hannover stands as a remarkable reminder of the city’s historical and spiritual landscape."
+description: "In the heart of Hanover, the Minoritenkloster Hannover stands as a remarkable reminder of the city's historical and spiritual landscape."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monastery"
@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Hanover, the Minoritenkloster Hannover stands as a remarkable reminder of the city’s historical and spiritual landscape. This former monastery, which has roots deeply embedded in the fabric of Hanover, invites visitors to reflect on its past and explore the stories it carries. While modern Hanover thrives around it, the Minoritenkloster offers a serene escape into a world where monastic life once flourished. 
+In the heart of Hanover, the Minoritenkloster Hannover stands as a remarkable reminder of the city's historical and spiritual landscape. This former monastery, which has roots deeply embedded in the fabric of Hanover, invites visitors to reflect on its past and explore the stories it carries. While modern Hanover thrives around it, the Minoritenkloster offers a serene escape into a world where monastic life once flourished. 
 
 As you approach this site, the architectural elegance and historical ambiance create an atmosphere ripe for exploration. The Minoritenkloster serves not only as a monument to the past but also as a cultural hub that hosts various events and activities, making it an essential stop for anyone curious about Hanover's heritage. Its location in the bustling city center makes it an easily accessible destination for both tourists and locals alike, promising an enriching experience amid the contemporary urban environment.
 

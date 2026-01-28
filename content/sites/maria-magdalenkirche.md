@@ -76,7 +76,7 @@ If you're attending a service or event, arrive a little early to find a good sea
 
 ## Practical Information
 
-As you prepare for your visit to Maria-Magdalenkirche, it’s advisable to bring a few essentials. Comfortable walking shoes will enhance your experience as you explore the church and its surroundings. Depending on the season, layers may be necessary, as temperatures can fluctuate, especially in the cooler months.
+As you prepare for your visit to Maria-Magdalenkirche, it's advisable to bring a few essentials. Comfortable walking shoes will enhance your experience as you explore the church and its surroundings. Depending on the season, layers may be necessary, as temperatures can fluctuate, especially in the cooler months.
 
 Seasonal considerations also play a role in your visit; during major holidays, the church may host special events or services that could offer a unique glimpse into local traditions and practices. Always check the official website for any specific seasonal programs or activities that may be taking place during your visit.
 

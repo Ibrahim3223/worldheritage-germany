@@ -28,7 +28,7 @@ image_srcset:
 
 Drostei, an elegant palace located in the charming town of Pinneberg, Germany, represents a significant piece of local heritage and architectural beauty. This historic building, recognized as a protected monument, stands as a reminder of the past while contributing to the cultural landscape of the region. Set against the backdrop of Pinneberg, Drostei invites visitors to explore not only its stunning architecture but also the stories that shaped its existence. 
 
-The palace’s prominent location and rich history make it an essential stop for those interested in heritage tourism. Drostei is more than just a building; it embodies the spirit of the area and reflects the architectural developments of its time. Visitors can expect a blend of historical insights and aesthetic pleasure as they wander through this remarkable site.
+The palace's prominent location and rich history make it an essential stop for those interested in heritage tourism. Drostei is more than just a building; it embodies the spirit of the area and reflects the architectural developments of its time. Visitors can expect a blend of historical insights and aesthetic pleasure as they wander through this remarkable site.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Drostei is woven into the fabric of Pinneberg's development. As a
 
 Palaces like Drostei were often centers of social and political activity, serving as venues for gatherings and celebrations. They reflect the lifestyle and values of the periods during which they were constructed. The architectural design of Drostei exemplifies the style prevalent at the time, mirroring both elegance and functionality. 
 
-As a heritage site, Drostei also serves educational purposes, providing insights into the social history of Pinneberg and its residents. It stands as a cultural landmark, reminding visitors of the historical narratives that have shaped the town and the surrounding areas. The palace contributes to the community's identity and serves as a focal point for local events, making it an integral part of Pinneberg’s contemporary cultural scene.
+As a heritage site, Drostei also serves educational purposes, providing insights into the social history of Pinneberg and its residents. It stands as a cultural landmark, reminding visitors of the historical narratives that have shaped the town and the surrounding areas. The palace contributes to the community's identity and serves as a focal point for local events, making it an integral part of Pinneberg's contemporary cultural scene.
 
 ## Architecture and Features
 

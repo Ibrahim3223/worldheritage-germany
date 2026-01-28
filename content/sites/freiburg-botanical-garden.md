@@ -36,7 +36,7 @@ Freiburg Botanical Garden has a rich history intertwined with the development of
 
 Over the years, the garden has evolved significantly, expanding its collection to include a diverse array of plant species from various climates and regions. This evolution reflects broader trends in botanical gardens worldwide, which increasingly focus on conservation and education. Freiburg Botanical Garden has embraced these trends, playing an essential role in promoting biodiversity and sustainable practices.
 
-The garden’s significance extends beyond its educational role. It serves as a green haven for the community, encouraging a deeper appreciation for the environment. Furthermore, it collaborates with various research initiatives, contributing to the understanding of plant biology and conservation efforts. The garden is a place where learning and leisure coexist, fostering a connection between people and the natural world.
+The garden's significance extends beyond its educational role. It serves as a green haven for the community, encouraging a deeper appreciation for the environment. Furthermore, it collaborates with various research initiatives, contributing to the understanding of plant biology and conservation efforts. The garden is a place where learning and leisure coexist, fostering a connection between people and the natural world.
 
 ## Architecture and Features
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning, espe
 
 ## Practical Information
 
-When planning a visit to Freiburg Botanical Garden, it’s advisable to bring along comfortable walking shoes, as the garden encourages exploration. A water bottle and sunscreen are also recommended, particularly during the warmer months. 
+When planning a visit to Freiburg Botanical Garden, it's advisable to bring along comfortable walking shoes, as the garden encourages exploration. A water bottle and sunscreen are also recommended, particularly during the warmer months. 
 
 Seasonal considerations can enhance your experience: Spring brings blooming flowers, while autumn offers a spectacular display of colored leaves. Each season has its unique charm, making it worthwhile to explore the garden at different times of the year.
 

@@ -76,7 +76,7 @@ Consider exploring the museum's temporary exhibits, as they can provide unique i
 
 ## Practical Information
 
-When visiting the Kreismuseum Jerichower Land, it’s beneficial to bring a camera if photography is permitted, as well as a notebook for jotting down interesting facts or stories. Comfortable walking shoes are recommended, as you may spend a considerable amount of time exploring the various exhibits.
+When visiting the Kreismuseum Jerichower Land, it's beneficial to bring a camera if photography is permitted, as well as a notebook for jotting down interesting facts or stories. Comfortable walking shoes are recommended, as you may spend a considerable amount of time exploring the various exhibits.
 
 Seasonal considerations may affect your visit, so consider checking the weather forecast ahead of time. The museum may also have seasonal events or programs that could enhance your experience, so be sure to check the official website for any special offerings during your visit.
 
@@ -86,7 +86,7 @@ Seasonal considerations may affect your visit, so consider checking the weather 
 A visit typically takes about 2-3 hours to fully appreciate the exhibits and engage with the material.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or on the official website for specific guidelines.
+Photography policies may vary, so it's best to check with museum staff or on the official website for specific guidelines.
 
 ### Are there guided tours?
 The museum may offer guided tours, providing deeper insights into the exhibits and their significance. Check the official website for availability.

@@ -38,7 +38,7 @@ Lichtenstein Castle has a rich history that reflects the tumultuous and vibrant 
 
 The castle is significant not only for its architectural features but also for its cultural importance. It represents the feudal system prevalent in medieval Europe, where such fortifications were central to the power dynamics of the time. As a cultural heritage monument, Lichtenstein Castle stands as a symbol of Bavaria's rich history, showcasing the craftsmanship and architectural innovations that have stood the test of time.
 
-The significance of the castle extends beyond its physical attributes; it is a testament to the societal structures that defined the era. The stories of the noble families that once inhabited Lichtenstein Castle are woven into the fabric of Bavarian history, contributing to the region's identity. Visitors can explore these narratives through the castle’s architecture and the artifacts that may be displayed within its walls.
+The significance of the castle extends beyond its physical attributes; it is a testament to the societal structures that defined the era. The stories of the noble families that once inhabited Lichtenstein Castle are woven into the fabric of Bavarian history, contributing to the region's identity. Visitors can explore these narratives through the castle's architecture and the artifacts that may be displayed within its walls.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Access to Lichtenstein Castle can typically be achieved through various means of
 
 Once you arrive, be prepared to spend a few hours exploring the grounds and soaking in the historical atmosphere. The best times to visit are usually during the spring and early autumn months when the weather is mild, and the surrounding landscape is particularly picturesque.
 
-Expect a range of experiences during your visit, from guided tours that delve into the castle's history to self-guided explorations that allow you to wander at your leisure. The site’s architecture and historical significance provide ample opportunity for reflection and appreciation of Bavaria's cultural heritage.
+Expect a range of experiences during your visit, from guided tours that delve into the castle's history to self-guided explorations that allow you to wander at your leisure. The site's architecture and historical significance provide ample opportunity for reflection and appreciation of Bavaria's cultural heritage.
 
 ## Nearby Attractions
 

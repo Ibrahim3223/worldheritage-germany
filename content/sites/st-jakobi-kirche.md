@@ -32,7 +32,7 @@ Situated at coordinates 52.3223, 10.2274, the church is easily accessible, makin
 
 ## History and Significance
 
-The history of St.-Jakobi-Kirche is intertwined with the development of Peine itself. As a church building, it has played an essential role in the spiritual life of the community, serving as a gathering point for worship and celebration. The church’s architectural features reflect the styles and cultural influences that have evolved over the years, marking its importance not just as a place of worship, but also as a symbol of the town's identity.
+The history of St.-Jakobi-Kirche is intertwined with the development of Peine itself. As a church building, it has played an essential role in the spiritual life of the community, serving as a gathering point for worship and celebration. The church's architectural features reflect the styles and cultural influences that have evolved over the years, marking its importance not just as a place of worship, but also as a symbol of the town's identity.
 
 While specific dates and historical events related to St.-Jakobi-Kirche may not be readily available, it is evident that its presence has been a cornerstone of community life. Churches often serve as focal points in towns, and St.-Jakobi-Kirche is no exception, likely witnessing significant events that shaped the town and its inhabitants. The church's architecture may reflect various styles that have influenced its construction and renovation, further adding to its cultural significance.
 

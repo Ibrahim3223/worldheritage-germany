@@ -28,7 +28,7 @@ image_srcset:
 
 Heilig Kreuz, located in the historic city of Aachen, Germany, serves as a poignant example of ecclesiastical architecture and local heritage. This parish church is not just a religious structure; it represents a vital part of the cultural fabric of Aachen, a city known for its rich history and significance as a former capital of the Carolingian Empire. Visitors to Heilig Kreuz can immerse themselves in its serene atmosphere while reflecting on its historical and architectural importance.
 
-The church stands as a testament to the spiritual life of the community, drawing locals and travelers alike. Its location in Aachen, a city that has captivated visitors for centuries with its thermal springs and medieval charm, enhances its appeal. Whether you are a history buff, an architecture enthusiast, or simply seeking a peaceful place for contemplation, Heilig Kreuz offers a unique experience that is deeply intertwined with the city’s narrative.
+The church stands as a testament to the spiritual life of the community, drawing locals and travelers alike. Its location in Aachen, a city that has captivated visitors for centuries with its thermal springs and medieval charm, enhances its appeal. Whether you are a history buff, an architecture enthusiast, or simply seeking a peaceful place for contemplation, Heilig Kreuz offers a unique experience that is deeply intertwined with the city's narrative.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ The exterior of Heilig Kreuz is equally captivating, with a façade that may inc
 
 Heilig Kreuz is accessible to visitors wanting to explore this significant church in Aachen. The site is well-connected by public transportation, making it easy to reach from various parts of the city. Those driving may find parking options nearby, although it's advisable to check local regulations.
 
-To ensure a fulfilling visit, check the official website for hours and potential entry fees. Visitors often find that a stay of approximately one hour is sufficient to appreciate the church’s architecture and atmosphere fully. 
+To ensure a fulfilling visit, check the official website for hours and potential entry fees. Visitors often find that a stay of approximately one hour is sufficient to appreciate the church's architecture and atmosphere fully. 
 
 The best times to visit are during weekdays when crowds are lighter, allowing for a more intimate experience. Special services or events may attract larger groups, so planning your visit accordingly can enhance your experience.
 

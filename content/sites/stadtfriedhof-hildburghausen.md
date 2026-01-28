@@ -64,7 +64,7 @@ Visitors can expect a peaceful environment conducive to contemplation, with path
 
 While visiting Stadtfriedhof Hildburghausen, there are several attractions nearby that enhance your cultural experience:
 
-1. **Hildburghausen Town Center**: Explore the charming streets filled with local shops, cafes, and historical buildings, which provide insight into the town’s character.
+1. **Hildburghausen Town Center**: Explore the charming streets filled with local shops, cafes, and historical buildings, which provide insight into the town's character.
 
 2. **Schloss Hildburghausen**: This historical castle offers guided tours, showcasing its architecture and the history of the region. The castle grounds may also provide a lovely area for a leisurely stroll.
 

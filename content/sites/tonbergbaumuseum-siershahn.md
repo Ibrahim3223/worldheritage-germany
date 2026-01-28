@@ -74,7 +74,7 @@ To make the most of your visit to the Tonbergbaumuseum Siershahn, consider these
 
 - **Photography**: While photography may be allowed in certain areas, it's best to check for any restrictions on the use of cameras or flash.
 - **Crowd Avoidance**: Visiting during weekdays or early in the day can help you avoid larger groups, allowing for a more peaceful experience.
-- **Engagement**: Don’t hesitate to engage with museum staff, who can provide valuable insights and recommend specific exhibits based on your interests.
+- **Engagement**: Don't hesitate to engage with museum staff, who can provide valuable insights and recommend specific exhibits based on your interests.
 
 ## Practical Information
 
@@ -89,7 +89,7 @@ When preparing for your visit to the Tonbergbaumuseum Siershahn, consider the fo
 Most visitors find that spending about two to three hours is sufficient to explore the museum's exhibits and engage with the available resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check specific guidelines upon arrival to ensure compliance with museum regulations.
+Photography policies may vary, so it's advisable to check specific guidelines upon arrival to ensure compliance with museum regulations.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the history of the timber industry. Check the official website for details.

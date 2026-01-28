@@ -67,7 +67,7 @@ These attractions can enhance your visit, allowing you to immerse yourself in th
 
 ## Insider Tips
 
-For photography enthusiasts, St. Petrus und Paulus presents a variety of opportunities to capture its architectural beauty. Early mornings or late afternoons often provide the best natural lighting for photographs. Be mindful of the church’s services and any events, as this may limit photography opportunities during certain times.
+For photography enthusiasts, St. Petrus und Paulus presents a variety of opportunities to capture its architectural beauty. Early mornings or late afternoons often provide the best natural lighting for photographs. Be mindful of the church's services and any events, as this may limit photography opportunities during certain times.
 
 To avoid crowds, consider visiting during weekdays or outside peak tourist seasons. This will allow for a more personal experience within the church and the chance to absorb its tranquil atmosphere.
 
@@ -83,7 +83,7 @@ Seasonal considerations may affect your visit; be aware of weather conditions, p
 A visit typically takes about an hour, allowing time to explore the church and reflect in its serene environment.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any signs or inquire with staff upon arrival.
+Photography policies may vary; it's best to check for any signs or inquire with staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information about guided tours or any special events that may be available during your visit.

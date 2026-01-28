@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Bamberg, Germany, the **Evangelische Chapel** stands as a cultural heritage monument, reflecting the profound historical influences and architectural styles of the region. This chapel, located in Bavaria, captures the essence of the city’s artistic legacy and its spiritual significance. With coordinates pinpointing it at 49.89 latitude and 10.8856 longitude, the chapel is easily accessible for those exploring the rich tapestry of Bamberg's heritage. 
+In the heart of Bamberg, Germany, the **Evangelische Chapel** stands as a cultural heritage monument, reflecting the profound historical influences and architectural styles of the region. This chapel, located in Bavaria, captures the essence of the city's artistic legacy and its spiritual significance. With coordinates pinpointing it at 49.89 latitude and 10.8856 longitude, the chapel is easily accessible for those exploring the rich tapestry of Bamberg's heritage. 
 
 Bamberg itself is known for its medieval charm, characterized by its UNESCO World Heritage-listed old town, and the Evangelische Chapel contributes to this ambience. Visitors to the chapel can expect not only to appreciate its architectural beauty but also to delve into the cultural narratives that have shaped this part of Germany. The chapel serves as a quiet refuge amidst the bustling city, inviting pilgrims and tourists alike to reflect on its serene surroundings.
 

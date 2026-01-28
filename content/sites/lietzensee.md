@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during weekdays or early in the morning, as wee
 
 ## Practical Information
 
-When visiting Lietzensee, it’s advisable to bring essentials such as water, sunscreen, and comfortable walking shoes, especially if you plan to explore the park extensively. A light picnic could enhance your visit, allowing you to fully appreciate the natural surroundings.
+When visiting Lietzensee, it's advisable to bring essentials such as water, sunscreen, and comfortable walking shoes, especially if you plan to explore the park extensively. A light picnic could enhance your visit, allowing you to fully appreciate the natural surroundings.
 
 Seasonal considerations are also important. In spring and summer, the park is vibrant with flowers and greenery, while fall brings a beautiful array of colors. Winter can be a quieter time, with fewer visitors, but the serene landscape offers a unique charm.
 
@@ -103,7 +103,7 @@ Yes, the paths around Lietzensee are generally accessible for wheelchairs, allow
 Currently, there are no admission fees for Lietzensee, but it's best to check the official website for any updates.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to check the official website for information on available amenities nearby.
+Facilities may be limited, so it's advisable to check the official website for information on available amenities nearby.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to walk or engage in outdoor activities. Dress appropriately for the weather conditions during your visit. 

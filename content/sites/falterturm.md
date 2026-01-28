@@ -34,11 +34,11 @@ As you approach the Falterturm, you will appreciate its strategic placement, whi
 
 ## History and Significance
 
-The history of the Falterturm is deeply rooted in the fortifications of Kitzingen, which date back to a time when the town was critical for trade and military defense. The tower’s primary function was to serve as a lookout point and a defensive structure against potential invasions. Its construction reflects the military needs of the era, showcasing the strategic importance of Kitzingen as a key location along trade routes.
+The history of the Falterturm is deeply rooted in the fortifications of Kitzingen, which date back to a time when the town was critical for trade and military defense. The tower's primary function was to serve as a lookout point and a defensive structure against potential invasions. Its construction reflects the military needs of the era, showcasing the strategic importance of Kitzingen as a key location along trade routes.
 
 Through the centuries, Kitzingen has undergone various transformations, and the Falterturm has witnessed significant events that shaped the region. While specific historical milestones related to the tower may be elusive, it is clear that the fortifications played a crucial role in protecting Kitzingen from various conflicts. The architectural design and the materials used in the construction of the tower could offer clues about the technological advancements and military strategies of the time.
 
-The cultural significance of the Falterturm extends beyond its military role. Towers such as this one often served as gathering points for the community, symbolizing strength and resilience. The presence of the tower has likely influenced the development of local traditions and the identity of Kitzingen, making it an integral part of the town’s heritage.
+The cultural significance of the Falterturm extends beyond its military role. Towers such as this one often served as gathering points for the community, symbolizing strength and resilience. The presence of the tower has likely influenced the development of local traditions and the identity of Kitzingen, making it an integral part of the town's heritage.
 
 In contemporary times, the Falterturm stands as a historical monument that attracts visitors interested in German history and architecture. It serves as a reminder of the past while being a part of ongoing efforts to preserve and promote the cultural heritage of the region. Understanding the significance of the Falterturm provides valuable context for appreciating the broader historical narrative of Bavaria and the role of its fortifications in shaping the cultural landscape.
 
@@ -84,7 +84,7 @@ To make the most of your visit to the Falterturm, consider the following tips:
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, visit during weekdays or early in the morning when tourist traffic tends to be lower. This will allow for a more intimate encounter with the site and its history.
 
-- **Engage with Locals**: Don’t hesitate to ask local residents or staff about the history of the tower and the town. Their insights can enrich your understanding and appreciation of the site.
+- **Engage with Locals**: Don't hesitate to ask local residents or staff about the history of the tower and the town. Their insights can enrich your understanding and appreciation of the site.
 
 ## Practical Information
 

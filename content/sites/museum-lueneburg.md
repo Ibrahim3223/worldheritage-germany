@@ -68,11 +68,11 @@ While visiting Museum Lüneburg, consider exploring other nearby attractions tha
 
 1. **St. Nicholas Church (Nikolaikirche)**: This historic church is known for its striking architecture and beautiful stained-glass windows. It offers insight into Lüneburg's religious history.
 
-2. **Lüneburg Town Hall (Rathaus)**: An architectural gem, the Town Hall is notable for its stunning façade and serves as a symbol of the city’s civic pride.
+2. **Lüneburg Town Hall (Rathaus)**: An architectural gem, the Town Hall is notable for its stunning façade and serves as a symbol of the city's civic pride.
 
 3. **The Historic Saltworks**: Located nearby, this UNESCO World Heritage site showcases the history of salt production, which was pivotal to Lüneburg's economic development.
 
-4. **Lüneburg’s Old Town**: A stroll through the Old Town reveals charming streets lined with medieval buildings, quaint shops, and inviting cafés, perfect for a leisurely afternoon.
+4. **Lüneburg's Old Town**: A stroll through the Old Town reveals charming streets lined with medieval buildings, quaint shops, and inviting cafés, perfect for a leisurely afternoon.
 
 5. **The German Salt Museum**: Complementing the museum's focus on local history, this museum delves deeper into the salt trade's significance in Lüneburg and beyond.
 
@@ -86,7 +86,7 @@ To enhance your experience at Museum Lüneburg, consider these insider tips:
 
 - **Engage with Staff**: The museum staff are often knowledgeable and can provide insights or recommendations for exhibits that may pique your interest.
 
-- **Plan Your Route**: Familiarize yourself with the layout of the museum to make the most of your time and ensure you don’t miss any key exhibits.
+- **Plan Your Route**: Familiarize yourself with the layout of the museum to make the most of your time and ensure you don't miss any key exhibits.
 
 ## Practical Information
 
@@ -96,7 +96,7 @@ When planning your visit to Museum Lüneburg, keep the following practical infor
 
 - **Seasonal Considerations**: Be aware of seasonal events or temporary exhibitions that might impact your visit. Check the official website for updates on current programming.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to consult the museum's official resources to ensure a comfortable visit.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to consult the museum's official resources to ensure a comfortable visit.
 
 ## Frequently Asked Questions
 

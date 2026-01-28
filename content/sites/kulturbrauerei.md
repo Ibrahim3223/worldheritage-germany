@@ -32,7 +32,7 @@ As you explore the heart of Prenzlauer Berg, known for its lively atmosphere and
 
 ## History and Significance
 
-The history of Kulturbrauerei dates back to its original use as a brewery, a feature of Berlin's industrial landscape that has undergone a significant transformation. The brewery was once a hub of production, contributing to the city's economic and social fabric. Its evolution into an arts centre reflects the broader changes in Berlin, particularly following the reunification of Germany. This transition highlights the city’s commitment to preserving its cultural heritage while embracing modernity.
+The history of Kulturbrauerei dates back to its original use as a brewery, a feature of Berlin's industrial landscape that has undergone a significant transformation. The brewery was once a hub of production, contributing to the city's economic and social fabric. Its evolution into an arts centre reflects the broader changes in Berlin, particularly following the reunification of Germany. This transition highlights the city's commitment to preserving its cultural heritage while embracing modernity.
 
 Kulturbrauerei has become a vital cultural institution in Berlin, serving as a platform for independent films, documentaries, and artistic performances. It fosters a sense of community among cinema-goers and artists, making it a beloved venue for cultural exchange. The centre's programming often includes film festivals, art exhibitions, and live performances, which further enrich the local arts scene. By providing a space for diverse voices and creative expressions, Kulturbrauerei plays a crucial role in the cultural landscape of Berlin.
 
@@ -44,7 +44,7 @@ Kulturbrauerei is marked by its striking architecture, a blend of industrial her
 
 Inside, visitors can find a variety of screening rooms equipped with state-of-the-art technology, providing an exceptional cinematic experience. The artwork displayed throughout the centre adds to the aesthetic appeal, creating an environment that is both welcoming and inspiring. The integration of modern amenities ensures that guests enjoy comfort while engaging with the arts.
 
-The surrounding area further contributes to the experience at Kulturbrauerei. The vibrant atmosphere of Prenzlauer Berg, with its cafes, boutiques, and parks, complements the arts centre, making it an ideal location for those looking to immerse themselves in Berlin’s cultural scene.
+The surrounding area further contributes to the experience at Kulturbrauerei. The vibrant atmosphere of Prenzlauer Berg, with its cafes, boutiques, and parks, complements the arts centre, making it an ideal location for those looking to immerse themselves in Berlin's cultural scene.
 
 ## Visiting Information
 

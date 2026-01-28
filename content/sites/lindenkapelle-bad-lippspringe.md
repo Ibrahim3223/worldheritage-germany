@@ -74,7 +74,7 @@ To avoid larger crowds, plan your visit on weekdays rather than weekends, especi
 
 ## Practical Information
 
-When planning your visit to the Lindenkapelle, it’s advisable to bring a camera, comfortable walking shoes, and a small bag for personal items. If you wish to spend time in the nearby parks, consider packing a picnic to enjoy in the scenic surroundings.
+When planning your visit to the Lindenkapelle, it's advisable to bring a camera, comfortable walking shoes, and a small bag for personal items. If you wish to spend time in the nearby parks, consider packing a picnic to enjoy in the scenic surroundings.
 
 Seasonal considerations include checking the weather forecast, as conditions can vary. Spring and autumn often provide mild weather, making these seasons ideal for outdoor exploration. 
 

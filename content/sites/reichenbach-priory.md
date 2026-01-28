@@ -68,7 +68,7 @@ In addition to Reichenbach Priory, Baiersbronn and its vicinity offer several at
 
 4. **Local Cuisine**: The region is famous for its Black Forest cake and hearty local dishes, which can be enjoyed at several nearby eateries.
 
-5. **Schwarzwald Hochstraße**: A scenic drive that showcases the Black Forest’s stunning landscapes, ideal for those looking to explore the area by car.
+5. **Schwarzwald Hochstraße**: A scenic drive that showcases the Black Forest's stunning landscapes, ideal for those looking to explore the area by car.
 
 ## Insider Tips
 
@@ -99,7 +99,7 @@ Check the official website for information on guided tours that may be available
 The spring and summer months are ideal for enjoying the gardens, but autumn also offers beautiful seasonal changes.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility information may vary, so it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options.

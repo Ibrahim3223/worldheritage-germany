@@ -28,7 +28,7 @@ image_srcset:
 
 Am Schwedderberg 1, 2, 4, 6, 7a, 8, 9a, 10, 12 is an architectural ensemble located in Gernrode, near the historic town of Quedlinburg in Germany. This collection of buildings exemplifies the architectural heritage of the region, showcasing styles that reflect the cultural and historical evolution of the area. Gernrode, with its charming streets and rich history, is situated in the heart of Saxony-Anhalt, an area recognized for its medieval architecture and vibrant traditions.
 
-Visitors to this ensemble are not only treated to a glimpse of architectural diversity but also the opportunity to explore the local culture and history that these structures represent. The ensemble is significant for its contribution to the architectural landscape of the region and serves as a reminder of the area’s historical importance. 
+Visitors to this ensemble are not only treated to a glimpse of architectural diversity but also the opportunity to explore the local culture and history that these structures represent. The ensemble is significant for its contribution to the architectural landscape of the region and serves as a reminder of the area's historical importance. 
 
 With a visit to Am Schwedderberg, guests can immerse themselves in the rich narrative of Gernrode and its surroundings, experiencing firsthand the architectural nuances that define this part of Germany. Whether you are an architecture enthusiast, a history buff, or simply looking to explore a unique aspect of German heritage, Am Schwedderberg is a destination that promises an enriching experience.
 

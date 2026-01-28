@@ -40,7 +40,7 @@ Over the years, St. Maria and Clemens Church has witnessed numerous changes, ada
 
 ## Architecture and Features
 
-St. Maria and Clemens Church is characterized by its elegant architectural style, which reflects both traditional and contemporary influences. The church’s exterior features a harmonious facade that draws the eye, with thoughtful details that enhance its aesthetic appeal. The design incorporates elements common to religious buildings in the region, including a prominent steeple and intricate stonework that showcases skilled craftsmanship.
+St. Maria and Clemens Church is characterized by its elegant architectural style, which reflects both traditional and contemporary influences. The church's exterior features a harmonious facade that draws the eye, with thoughtful details that enhance its aesthetic appeal. The design incorporates elements common to religious buildings in the region, including a prominent steeple and intricate stonework that showcases skilled craftsmanship.
 
 Inside the church, visitors will find a peaceful atmosphere complemented by tasteful decorations. The interior is adorned with religious artwork and stained glass windows that contribute to the overall ambiance. These artistic features not only serve a decorative purpose but also convey spiritual narratives that resonate with the church's mission.
 
@@ -77,7 +77,7 @@ When visiting St. Maria and Clemens Church, consider the following tips to enhan
 
 When planning your visit to St. Maria and Clemens Church, keep in mind the following practical considerations:
 
-- **What to Bring**: It’s advisable to carry a small bag with essentials such as water, a camera, and comfortable walking shoes, as you may want to explore the surrounding area.
+- **What to Bring**: It's advisable to carry a small bag with essentials such as water, a camera, and comfortable walking shoes, as you may want to explore the surrounding area.
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather, as the church may not have climate control. If visiting during winter, be prepared for colder temperatures.
 
 ## Frequently Asked Questions

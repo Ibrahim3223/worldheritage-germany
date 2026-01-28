@@ -78,11 +78,11 @@ To make the most of your visit to the Botanischer Garten der Universität Duisbu
 
 Photography enthusiasts will find plenty of opportunities to capture the beauty of the plant life. However, be mindful of the garden's guidelines regarding photography, especially if you are using tripods or other equipment.
 
-If you’re looking to learn more during your visit, keep an eye out for any special events or workshops that may be taking place. These can provide unique insights and enhance your appreciation of the garden's diverse plant collections.
+If you're looking to learn more during your visit, keep an eye out for any special events or workshops that may be taking place. These can provide unique insights and enhance your appreciation of the garden's diverse plant collections.
 
 ## Practical Information
 
-When preparing for your visit to the Botanischer Garten der Universität Duisburg-Essen, here are some practical considerations. Comfortable walking shoes are essential, as the garden’s pathways can be extensive. Depending on the season, layers are advisable, as weather conditions can vary throughout the day.
+When preparing for your visit to the Botanischer Garten der Universität Duisburg-Essen, here are some practical considerations. Comfortable walking shoes are essential, as the garden's pathways can be extensive. Depending on the season, layers are advisable, as weather conditions can vary throughout the day.
 
 Bringing a reusable water bottle is a great way to stay hydrated, especially during warmer months. Additionally, consider packing snacks or a picnic to enjoy in one of the garden's tranquil spots.
 

@@ -48,7 +48,7 @@ Inside, visitors can expect various exhibits that chronicle the life and history
 
 Traveling to the Donauschwäbisches Zentralmuseum is convenient, given its central location in Ulm. Various transport options are available, including public transportation and walking routes from nearby attractions. Visitors should check the official website for current information regarding opening hours and admission prices, as these can vary throughout the year.
 
-When planning a visit, it's advisable to allocate a couple of hours to fully appreciate the exhibits and engage with the informative displays. The museum’s environment is conducive to learning and reflection, making it suitable for both casual visitors and those with a specific interest in cultural heritage. 
+When planning a visit, it's advisable to allocate a couple of hours to fully appreciate the exhibits and engage with the informative displays. The museum's environment is conducive to learning and reflection, making it suitable for both casual visitors and those with a specific interest in cultural heritage. 
 
 For an optimal experience, consider visiting during weekdays or early mornings to avoid larger crowds. Special events or exhibitions may draw additional visitors, so checking the official website in advance can help in planning your visit effectively.
 

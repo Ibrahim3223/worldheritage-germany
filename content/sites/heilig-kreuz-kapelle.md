@@ -96,7 +96,7 @@ Make sure to check the official website for information on any amenities such as
 A visit to the Heilig-Kreuz-Kapelle can take about one hour, allowing you time to explore the chapel and its surroundings.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s respectful to check for any signs indicating restrictions, especially during services.
+Photography is generally allowed, but it's respectful to check for any signs indicating restrictions, especially during services.
 
 ### Are there guided tours?
 Guided tours may not be available; however, self-guided exploration is encouraged. Check the official website for any scheduled events.

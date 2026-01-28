@@ -30,7 +30,7 @@ The Old City Hall in Höchst, a former administrative center in Frankfurt, embod
 
 ## History and Significance
 
-The Old City Hall of Höchst stands as a significant marker of the area’s administrative history. Established when Höchst was a prominent town within the Holy Roman Empire, this building was central to local governance and community affairs. Its function as a city hall signifies the importance of civic administration in shaping the community's identity and coherence over time.
+The Old City Hall of Höchst stands as a significant marker of the area's administrative history. Established when Höchst was a prominent town within the Holy Roman Empire, this building was central to local governance and community affairs. Its function as a city hall signifies the importance of civic administration in shaping the community's identity and coherence over time.
 
 The historical significance of the Old City Hall extends beyond its architectural features; it represents the evolution of local governance and public service in the region. As various civic functions took place within its walls, the city hall became a place where residents gathered to discuss community matters, celebrate local traditions, and address challenges faced by the town. The hall, thus, has been a witness to the socio-political developments that have influenced Höchst and Frankfurt at large.
 
@@ -56,11 +56,11 @@ Expect to find informative displays and possibly guided tours that elaborate on 
 
 While visiting the Old City Hall, there are several nearby attractions that enhance the experience of exploring Höchst:
 
-1. **Höchst Castle**: This historic castle offers insights into the region’s feudal past and features beautiful gardens.
-2. **St. Justin’s Church**: An architectural marvel with a stunning interior, this church is a must-see for history and architecture enthusiasts.
+1. **Höchst Castle**: This historic castle offers insights into the region's feudal past and features beautiful gardens.
+2. **St. Justin's Church**: An architectural marvel with a stunning interior, this church is a must-see for history and architecture enthusiasts.
 3. **Frankfurt Höchst Historical Museum**: Located close to the city hall, this museum provides a broader context of the area's history and culture.
 4. **The Main River Promenade**: A scenic area ideal for a leisurely walk, offering picturesque views of the river and surrounding landscape.
-5. **Café and Shops in Höchst’s Old Town**: Explore local cafés and shops that reflect the community's character, perfect for a break after sightseeing.
+5. **Café and Shops in Höchst's Old Town**: Explore local cafés and shops that reflect the community's character, perfect for a break after sightseeing.
 
 ## Insider Tips
 
@@ -80,7 +80,7 @@ Ensure to check the weather forecast before your trip and dress accordingly. Hav
 Typically, visitors spend around one to two hours exploring the Old City Hall and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for any specific restrictions during your visit.
+Photography is generally permitted, but it's always best to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more details on scheduling and availability.

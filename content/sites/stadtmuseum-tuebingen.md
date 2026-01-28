@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the picturesque town of Tübingen, Germany, the Stadtmuseum Tübingen offers a unique glimpse into the region's rich cultural and historical narrative. This museum serves as a vibrant hub for exploring the local heritage, showcasing a diverse range of exhibits that reflect the everyday life and significant events that have shaped Tübingen over the centuries. 
 
-The museum's strategic position in Tübingen, a city renowned for its academic institutions and charming old town, makes it an essential stop for visitors keen to understand both the local culture and broader historical context. The town itself is characterized by its medieval architecture and a lively atmosphere, attributed to its university population. The Stadtmuseum not only adds to the cultural fabric of Tübingen but also serves as a vital resource for both residents and tourists interested in the city’s past.
+The museum's strategic position in Tübingen, a city renowned for its academic institutions and charming old town, makes it an essential stop for visitors keen to understand both the local culture and broader historical context. The town itself is characterized by its medieval architecture and a lively atmosphere, attributed to its university population. The Stadtmuseum not only adds to the cultural fabric of Tübingen but also serves as a vital resource for both residents and tourists interested in the city's past.
 
 Whether you are a history enthusiast or a casual visitor, the Stadtmuseum Tübingen promises an engaging experience that deepens your appreciation for this academic haven and its storied legacy.
 
@@ -62,7 +62,7 @@ The charm of Tübingen extends beyond the Stadtmuseum, with several attractions 
 
 1. **Hohentübingen Castle** - A short walk from the museum, this historic castle offers panoramic views of Tübingen and houses additional museum exhibits.
    
-2. **St. George’s Collegiate Church** - This stunning church is known for its impressive architecture and beautiful stained glass windows, situated just a few minutes away.
+2. **St. George's Collegiate Church** - This stunning church is known for its impressive architecture and beautiful stained glass windows, situated just a few minutes away.
 
 3. **Botanical Garden** - Adjacent to the university, the garden features a diverse collection of plants and is perfect for a leisurely stroll.
 

@@ -34,7 +34,7 @@ With its origins closely linked to the Carolingian Empire and the reign of Charl
 
 ## History and Significance
 
-The history of Aachen Cathedral Treasury is intertwined with the story of the cathedral itself, which began as a Palatine Chapel commissioned by Charlemagne in the late 8th century. Initially constructed as a place for royal ceremonies, the chapel evolved into a significant pilgrimage site, attracting visitors from all over Europe. As a result, the treasury began to accumulate valuable artifacts that reflected the city’s prominence during the Carolingian era and beyond.
+The history of Aachen Cathedral Treasury is intertwined with the story of the cathedral itself, which began as a Palatine Chapel commissioned by Charlemagne in the late 8th century. Initially constructed as a place for royal ceremonies, the chapel evolved into a significant pilgrimage site, attracting visitors from all over Europe. As a result, the treasury began to accumulate valuable artifacts that reflected the city's prominence during the Carolingian era and beyond.
 
 Throughout the Middle Ages, the treasury became a repository for sacred items that were used in religious ceremonies and worship. Many of these artifacts were created by skilled artisans, showcasing techniques and styles of their time. The items within the treasury often held deep spiritual significance, serving as symbols of faith and devotion. The collection includes exquisite goldsmith work, intricate textiles, and remarkable reliquaries that housed the relics of saints, which were believed to possess miraculous powers.
 
@@ -68,7 +68,7 @@ Aachen is a city rich in history and culture, making it an ideal base for explor
    
 2. **Palatine Chapel**: Located within the cathedral, this chapel is one of the oldest surviving Carolingian structures and is known for its impressive octagonal design.
 
-3. **Aquisgrana Thermal Baths**: Just a short walk from the cathedral, these historic thermal baths are a reminder of Aachen’s Roman heritage and a perfect spot for relaxation.
+3. **Aquisgrana Thermal Baths**: Just a short walk from the cathedral, these historic thermal baths are a reminder of Aachen's Roman heritage and a perfect spot for relaxation.
 
 4. **Couven Museum**: This museum is dedicated to the decorative arts of the 18th and 19th centuries and offers a glimpse into the lifestyle of that period through its extensive collections.
 

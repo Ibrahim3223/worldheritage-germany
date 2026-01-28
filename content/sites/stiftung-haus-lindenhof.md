@@ -60,7 +60,7 @@ Schwäbisch Gmünd is home to several attractions that complement a visit to Sti
 
 3. **Kunsthalle**: A space dedicated to contemporary art, the Kunsthalle often hosts exhibitions, workshops, and events that engage the community in cultural discourse.
 
-4. **Schwäbisch Gmünd Town Hall**: This charming building is an architectural highlight, reflecting the town’s historical significance and serving as a focal point for local governance.
+4. **Schwäbisch Gmünd Town Hall**: This charming building is an architectural highlight, reflecting the town's historical significance and serving as a focal point for local governance.
 
 5. **Stadtpark**: A peaceful park in the heart of Schwäbisch Gmünd, ideal for leisurely strolls and relaxation, providing a perfect contrast to the structured environment of the foundation.
 
@@ -68,9 +68,9 @@ Schwäbisch Gmünd is home to several attractions that complement a visit to Sti
 
 When visiting Stiftung Haus Lindenhof, consider the following tips to enhance your experience:
 
-- **Photography Tips**: While capturing moments within the foundation, be respectful of the privacy of residents. It’s best to seek permission or inquire about photography policies to ensure a comfortable atmosphere for all.
+- **Photography Tips**: While capturing moments within the foundation, be respectful of the privacy of residents. It's best to seek permission or inquire about photography policies to ensure a comfortable atmosphere for all.
 
-- **Avoiding Crowds**: To experience a quieter visit, consider going during weekdays or during off-peak hours. This will allow for a more personal engagement with the foundation’s activities and staff.
+- **Avoiding Crowds**: To experience a quieter visit, consider going during weekdays or during off-peak hours. This will allow for a more personal engagement with the foundation's activities and staff.
 
 ## Practical Information
 
@@ -84,15 +84,15 @@ Before your visit to Stiftung Haus Lindenhof, here are some practical considerat
 
 ### How long should I spend visiting?
 
-A visit to Stiftung Haus Lindenhof typically takes about one to two hours, allowing enough time to engage with the foundation’s mission and activities.
+A visit to Stiftung Haus Lindenhof typically takes about one to two hours, allowing enough time to engage with the foundation's mission and activities.
 
 ### Is photography allowed?
 
-While photography may be permitted, it’s essential to respect the privacy of residents. Always check the foundation's policy on photography before capturing images.
+While photography may be permitted, it's essential to respect the privacy of residents. Always check the foundation's policy on photography before capturing images.
 
 ### Are there guided tours?
 
-Guided tours may be available, providing insights into the foundation’s operations and community engagement. It’s best to inquire in advance or check the official website for more information.
+Guided tours may be available, providing insights into the foundation's operations and community engagement. It's best to inquire in advance or check the official website for more information.
 
 ### What's the best time to visit?
 
@@ -104,11 +104,11 @@ Stiftung Haus Lindenhof is designed to accommodate individuals with diverse need
 
 ### Can I buy tickets online?
 
-Information about ticket purchasing can be found on the official website. It’s advisable to check for any available online ticket options before your visit.
+Information about ticket purchasing can be found on the official website. It's advisable to check for any available online ticket options before your visit.
 
 ### Are there restrooms and cafes?
 
-Facilities such as restrooms are typically available within the foundation. However, details about cafes or dining options may vary, so it’s best to check the official website for the most current information.
+Facilities such as restrooms are typically available within the foundation. However, details about cafes or dining options may vary, so it's best to check the official website for the most current information.
 
 ### What should I wear?
 

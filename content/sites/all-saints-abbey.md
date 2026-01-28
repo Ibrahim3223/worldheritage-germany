@@ -28,7 +28,7 @@ image_srcset:
 
 All Saints Abbey, a former monastery located in Speyer, Germany, invites visitors to explore its historical significance and architectural charm. Situated at the heart of the Rhine Valley, this abbey is not only a captivating site for those interested in religious history but also a representation of the monastic life that flourished in the region during the medieval period. Originally established as a center of learning and spirituality, the abbey has witnessed centuries of change, making it a remarkable place for reflection and exploration.
 
-This site holds a special place in the cultural fabric of Speyer, a city known for its rich history and vibrant community. As travelers approach the abbey, they are greeted by a sense of tranquility that permeates the grounds. The peaceful atmosphere, combined with the abbey’s historical context, makes it a compelling destination for both history enthusiasts and casual visitors alike.
+This site holds a special place in the cultural fabric of Speyer, a city known for its rich history and vibrant community. As travelers approach the abbey, they are greeted by a sense of tranquility that permeates the grounds. The peaceful atmosphere, combined with the abbey's historical context, makes it a compelling destination for both history enthusiasts and casual visitors alike.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of All Saints Abbey is intertwined with the broader narrative of mon
 
 Throughout its existence, the abbey served as a sanctuary for monks who dedicated their lives to spiritual pursuits. The community within the abbey engaged in various activities, including education, agriculture, and the creation of manuscripts, contributing to the cultural and intellectual heritage of Speyer and beyond. As with many monastic sites, the abbey experienced periods of growth as well as challenges, reflecting the shifting tides of history in the region.
 
-The abbey’s influence extended beyond its walls. It acted as a center of pilgrimage and attracted visitors seeking spiritual solace and enlightenment. The site played a significant role in the local economy and helped shape the cultural landscape of Speyer, making it a crucial institution in the development of the community.
+The abbey's influence extended beyond its walls. It acted as a center of pilgrimage and attracted visitors seeking spiritual solace and enlightenment. The site played a significant role in the local economy and helped shape the cultural landscape of Speyer, making it a crucial institution in the development of the community.
 
 ## Architecture and Features
 

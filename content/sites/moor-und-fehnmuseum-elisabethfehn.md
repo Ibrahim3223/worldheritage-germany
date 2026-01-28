@@ -92,7 +92,7 @@ When preparing for your visit to the Moor- und Fehnmuseum Elisabethfehn, conside
 A visit typically takes around two to three hours to fully appreciate the exhibits and engage with the museum's offerings.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit, so it’s advisable to check for any signs or ask museum staff for guidance.
+Photography policies may vary by exhibit, so it's advisable to check for any signs or ask museum staff for guidance.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, which may be available at certain times.

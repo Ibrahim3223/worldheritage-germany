@@ -44,7 +44,7 @@ Visitors can expect to encounter a mix of terrain, from gentle slopes to steeper
 
 Reaching Zackelberg is relatively straightforward, with several transport options available for visitors. Depending on your starting point, you may choose to drive or utilize public transportation. Local bus services may connect to nearby towns, and from there, it is often a short hike to the mountain itself.
 
-When planning your visit, it’s essential to check the official website for current information regarding hours and any potential entrance fees. While specific times may vary, it is advisable to allocate a half-day to a full day for your excursion. This timeframe allows for a leisurely hike, opportunities for photography, and moments of quiet reflection to take in the stunning natural scenery.
+When planning your visit, it's essential to check the official website for current information regarding hours and any potential entrance fees. While specific times may vary, it is advisable to allocate a half-day to a full day for your excursion. This timeframe allows for a leisurely hike, opportunities for photography, and moments of quiet reflection to take in the stunning natural scenery.
 
 The best times to visit Zackelberg are generally during the spring and autumn months when the weather is mild, and the flora displays vibrant colors. However, each season offers its own charm, with summer providing lush greenery and winter presenting a serene landscape.
 
@@ -56,7 +56,7 @@ While exploring Zackelberg, consider visiting these nearby attractions:
   
 2. **Quedlinburg**: A UNESCO World Heritage site known for its medieval architecture and charming old town, perfect for a cultural excursion.
 
-3. **Wernigerode Castle**: A picturesque castle that provides insight into the region’s history, set against scenic backdrops.
+3. **Wernigerode Castle**: A picturesque castle that provides insight into the region's history, set against scenic backdrops.
 
 4. **The Brocken**: The highest peak in northern Germany, accessible via hiking trails, offering panoramic views and a chance to explore the unique landscape.
 

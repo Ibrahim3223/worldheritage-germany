@@ -28,7 +28,7 @@ image_srcset:
 
 The University of Altdorf, a significant cultural heritage monument located in Altdorf bei Nürnberg, Bavaria, Germany, stands as an emblem of educational progress and intellectual pursuit in the region. Founded in a context of emerging academic inquiry, the university played a pivotal role in shaping the landscape of higher education in Germany. Although the original institution no longer exists in its initial form, its legacy continues to resonate within the community and the broader academic world. 
 
-Situated in the picturesque Landkreis Nürnberger Land, the university’s historical significance offers a rare glimpse into the evolution of educational practices from the past to present. Visitors can appreciate not only the architectural features of the site but also the stories and scholarly endeavors that have taken place within its walls. The University of Altdorf invites both history enthusiasts and curious travelers to explore its rich narrative and the cultural context of Bavaria.
+Situated in the picturesque Landkreis Nürnberger Land, the university's historical significance offers a rare glimpse into the evolution of educational practices from the past to present. Visitors can appreciate not only the architectural features of the site but also the stories and scholarly endeavors that have taken place within its walls. The University of Altdorf invites both history enthusiasts and curious travelers to explore its rich narrative and the cultural context of Bavaria.
 
 ## History and Significance
 

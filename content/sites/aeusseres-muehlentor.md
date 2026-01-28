@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Äußeres Mühlentor, a notable city gate in Lübeck, Germany, serves as a striking reminder of the city's medieval past. Originally constructed as part of Lübeck's fortifications, the gate reflects the city’s historical significance as a key trade hub in the Hanseatic League. Its architectural style and historical context make it a focal point for visitors interested in exploring the heritage of this UNESCO World Heritage-listed city. 
+The Äußeres Mühlentor, a notable city gate in Lübeck, Germany, serves as a striking reminder of the city's medieval past. Originally constructed as part of Lübeck's fortifications, the gate reflects the city's historical significance as a key trade hub in the Hanseatic League. Its architectural style and historical context make it a focal point for visitors interested in exploring the heritage of this UNESCO World Heritage-listed city. 
 
 Lübeck, known for its well-preserved medieval architecture, offers a unique experience for those interested in history and architecture. The Äußeres Mühlentor stands as an important landmark, inviting exploration of the surrounding area, which is rich in cultural heritage. As you approach this city gate, the sense of history is palpable, making it an essential stop for anyone traveling to Lübeck.
 
 ## History and Significance
 
-The Äußeres Mühlentor played a vital role in Lübeck's defenses during the medieval era. Serving as one of the city’s main entrances, it was integral to the city’s fortifications, which were built to protect Lübeck from potential invasions. The gate functioned not only as a military structure but also as a symbol of the city’s wealth and power during its peak as a trading center in Northern Europe.
+The Äußeres Mühlentor played a vital role in Lübeck's defenses during the medieval era. Serving as one of the city's main entrances, it was integral to the city's fortifications, which were built to protect Lübeck from potential invasions. The gate functioned not only as a military structure but also as a symbol of the city's wealth and power during its peak as a trading center in Northern Europe.
 
-Historically, Lübeck was a member of the Hanseatic League, a powerful economic alliance of trading cities that dominated commerce in the Baltic and North Seas. The Äußeres Mühlentor stands testament to Lübeck’s strategic importance during this period, marking the entry point for merchants and travelers alike. 
+Historically, Lübeck was a member of the Hanseatic League, a powerful economic alliance of trading cities that dominated commerce in the Baltic and North Seas. The Äußeres Mühlentor stands testament to Lübeck's strategic importance during this period, marking the entry point for merchants and travelers alike. 
 
 As Lübeck evolved over the centuries, the significance of the gate diminished with advancements in military architecture and changes in urban planning. However, the preservation of the Äußeres Mühlentor allows modern visitors to appreciate the historical context of the city and its architectural evolution. It serves as a reminder of the city's role in shaping trade and politics in medieval Europe.
 
@@ -42,9 +42,9 @@ As Lübeck evolved over the centuries, the significance of the gate diminished w
 
 The Äußeres Mühlentor is characterized by its robust medieval architecture, which reflects the defensive needs of the time. The gate features thick stone walls, designed to withstand any potential siege. Its construction style is emblematic of the era, showcasing the craftsmanship of medieval builders.
 
-One of the notable features of the Äußeres Mühlentor is its imposing arched entrance, which would have greeted merchants and travelers entering the city. The gate's design incorporates elements typical of fortifications, such as arrow loops and a drawbridge mechanism, although these features may no longer be operational. The structure’s symmetry and the use of locally sourced materials contribute to its historical integrity, allowing it to stand as a significant architectural landmark.
+One of the notable features of the Äußeres Mühlentor is its imposing arched entrance, which would have greeted merchants and travelers entering the city. The gate's design incorporates elements typical of fortifications, such as arrow loops and a drawbridge mechanism, although these features may no longer be operational. The structure's symmetry and the use of locally sourced materials contribute to its historical integrity, allowing it to stand as a significant architectural landmark.
 
-Visitors can observe intricate details in the stonework and architecture, which reflect the skilled craftsmanship of the time. The gate is not merely a functional structure; it is also an artistic representation of Lübeck’s medieval heritage, blending utility with aesthetic appeal.
+Visitors can observe intricate details in the stonework and architecture, which reflect the skilled craftsmanship of the time. The gate is not merely a functional structure; it is also an artistic representation of Lübeck's medieval heritage, blending utility with aesthetic appeal.
 
 ## Visiting Information
 
@@ -68,9 +68,9 @@ While visiting, take the opportunity to learn about the history and significance
 
 ## Insider Tips
 
-For photography enthusiasts, early mornings or late afternoons provide the best light for capturing the Äußeres Mühlentor. The gate’s impressive structure can be framed beautifully with the right lighting. To avoid crowds, consider visiting during the week rather than on weekends, especially during peak tourist seasons.
+For photography enthusiasts, early mornings or late afternoons provide the best light for capturing the Äußeres Mühlentor. The gate's impressive structure can be framed beautifully with the right lighting. To avoid crowds, consider visiting during the week rather than on weekends, especially during peak tourist seasons.
 
-Additionally, exploring the surrounding area can yield unexpected photographic opportunities. Look for unique angles and perspectives that highlight the gate against the backdrop of Lübeck’s historical architecture.
+Additionally, exploring the surrounding area can yield unexpected photographic opportunities. Look for unique angles and perspectives that highlight the gate against the backdrop of Lübeck's historical architecture.
 
 ## Practical Information
 

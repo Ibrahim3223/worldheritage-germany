@@ -36,7 +36,7 @@ The Church in Rittermannshagen has been a pivotal element in the community's spi
 
 In many towns throughout Germany, churches often reflect the changes in society, including shifts in religious practices, architectural styles, and community needs. This church likely mirrors such transformations, adapting to the evolving dynamics of the region while maintaining its core purpose as a site of worship. Its enduring presence has made it a symbol of stability and continuity for the residents of Rittermannshagen.
 
-The cultural significance of the church extends beyond its religious functions. It is a place where community members gather not only for services but also for various festivities and events that foster a sense of belonging and unity. The church’s role in the local community underscores its importance in the social fabric of Faulenrost, making it a vital point of connection for residents and visitors alike.
+The cultural significance of the church extends beyond its religious functions. It is a place where community members gather not only for services but also for various festivities and events that foster a sense of belonging and unity. The church's role in the local community underscores its importance in the social fabric of Faulenrost, making it a vital point of connection for residents and visitors alike.
 
 ## Architecture and Features
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Church in Rittermannshagen, consider the fo
 A visit typically lasts about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any restrictions, especially during services.
+Photography is generally permitted, but it's advisable to check for any restrictions, especially during services.
 
 ### Are there guided tours?
 Specific information about guided tours is not available; check the official website for details.

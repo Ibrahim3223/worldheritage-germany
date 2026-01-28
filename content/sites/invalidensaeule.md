@@ -91,13 +91,13 @@ Check the official website for information on guided tours, as availability may 
 Weekdays, particularly in the early morning or late afternoon, provide a quieter experience with better lighting for photography.
 
 ### Is it wheelchair accessible?
-The accessibility of the monument and surrounding areas may vary. It’s best to check the official website for specific accessibility information.
+The accessibility of the monument and surrounding areas may vary. It's best to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for current ticketing options and availability.
 
 ### Are there restrooms and cafes?
-Nearby parks often provide public restrooms, but specific facilities may be limited. It’s advisable to plan accordingly or visit nearby cafes for refreshments.
+Nearby parks often provide public restrooms, but specific facilities may be limited. It's advisable to plan accordingly or visit nearby cafes for refreshments.
 
 ### What should I wear?
 Dress comfortably, considering the weather and the likelihood of walking in the surrounding areas. Layers are suggested for fluctuating temperatures. 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Memorial and Education Centre Andreasstrasse serves as a poignant reminder of a tumultuous chapter in German history, specifically focusing on the operations of the Stasi, the former East German secret police. Located in Erfurt, this museum stands on the site of a former Stasi prison, where countless individuals were detained for political reasons during the era of the German Democratic Republic (GDR). As visitors approach the centre, they are met with a stark reminder of the past, prompting reflection on the themes of oppression, resistance, and the quest for freedom.
 
-The museum's mission is not only to preserve the memory of those affected by the Stasi’s oppressive regime but also to educate the public about the mechanisms of totalitarianism and the importance of safeguarding democratic values. The centre features a range of exhibitions and educational programs designed to engage visitors with the complexities of history, encouraging critical thinking and empathy towards those who suffered under oppressive systems. 
+The museum's mission is not only to preserve the memory of those affected by the Stasi's oppressive regime but also to educate the public about the mechanisms of totalitarianism and the importance of safeguarding democratic values. The centre features a range of exhibitions and educational programs designed to engage visitors with the complexities of history, encouraging critical thinking and empathy towards those who suffered under oppressive systems. 
 
 As you traverse the halls of this museum, expect to confront unsettling truths about state surveillance and the impact of authoritarian rule. The Memorial and Education Centre Andreasstrasse is not just a place to learn about the past; it is a space for dialogue and reflection on contemporary issues related to freedom and human rights.
 
@@ -68,7 +68,7 @@ While visiting the Memorial and Education Centre Andreasstrasse, you may want to
 
 3. **Krämerbrücke (Merchant's Bridge)**: One of Erfurt's most iconic landmarks, this bridge is lined with picturesque half-timbered houses and shops, perfect for leisurely exploration and local shopping.
 
-4. **Egapark Erfurt**: A beautiful garden and park area that provides a relaxing space amidst the city’s historical sites. Ideal for a stroll or a picnic after visiting the museum.
+4. **Egapark Erfurt**: A beautiful garden and park area that provides a relaxing space amidst the city's historical sites. Ideal for a stroll or a picnic after visiting the museum.
 
 5. **Fischmarkt (Fish Market)**: A lively square in the city center, surrounded by historic buildings, where visitors can enjoy local cuisine and shop for regional products.
 
@@ -111,7 +111,7 @@ The museum aims to be accessible; however, check the official website for specif
 Ticket purchasing options may be available online; check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but for dining options, it’s best to explore nearby cafes and restaurants after your visit.
+Facilities such as restrooms are typically available, but for dining options, it's best to explore nearby cafes and restaurants after your visit.
 
 ### What should I wear?
 Dress comfortably and consider layers, as temperatures can vary throughout the day. Comfortable footwear is recommended for exploring the museum and surrounding areas.

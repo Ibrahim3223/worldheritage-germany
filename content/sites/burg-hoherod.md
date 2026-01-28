@@ -56,7 +56,7 @@ The castle is accessible via various modes of transport, including personal vehi
 
 The best times to visit typically align with the milder months of the year, when the weather is pleasant for outdoor exploration. Early mornings or late afternoons may provide a quieter experience, allowing for a more intimate encounter with the castle and its grounds.
 
-In addition to the castle itself, visitors should anticipate engaging interpretive displays or informative brochures that enhance the understanding of the site’s history. These resources can provide valuable context and enrich the overall experience.
+In addition to the castle itself, visitors should anticipate engaging interpretive displays or informative brochures that enhance the understanding of the site's history. These resources can provide valuable context and enrich the overall experience.
 
 ## Nearby Attractions
 
@@ -82,7 +82,7 @@ To avoid larger crowds, consider visiting during weekdays, especially during the
 
 When planning your visit to Burg Hoherod, be sure to bring comfortable walking shoes, as exploring the castle and its surroundings may involve uneven terrain and some elevation changes. A camera is essential for capturing the beauty of the castle and the vistas beyond.
 
-Seasonal considerations include checking the weather forecast prior to your visit, as conditions can vary. Dress in layers for comfort, and don’t forget to pack essentials such as water and snacks, especially if you plan to hike in the area.
+Seasonal considerations include checking the weather forecast prior to your visit, as conditions can vary. Dress in layers for comfort, and don't forget to pack essentials such as water and snacks, especially if you plan to hike in the area.
 
 ## Frequently Asked Questions
 

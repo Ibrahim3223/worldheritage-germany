@@ -34,7 +34,7 @@ The Coburg-Eckardtsberg transmitter represents an evolution in communication tec
 
 The significance of such towers extends beyond their technical capabilities; they are emblematic of the technological strides made during the 20th century. In an era where instant communication is a norm, the role of transmitters like Coburg-Eckardtsberg is often overlooked. These structures facilitate connectivity and ensure that communities can access vital information, making them essential to both local and national communication networks.
 
-As a representative of telecommunication infrastructure, the transmitter has also likely contributed to Coburg’s identity as a hub of technology and innovation. While the specifics of its construction and technological advancements may require further exploration, the transmitter stands as an example of how engineering and communication intersect in meaningful ways.
+As a representative of telecommunication infrastructure, the transmitter has also likely contributed to Coburg's identity as a hub of technology and innovation. While the specifics of its construction and technological advancements may require further exploration, the transmitter stands as an example of how engineering and communication intersect in meaningful ways.
 
 ## Architecture and Features
 
@@ -56,11 +56,11 @@ The best times to visit are typically during daylight hours when the clarity of 
 
 While visiting the Coburg-Eckardtsberg transmitter, there are several nearby attractions worth exploring:
 
-1. **Coburg Fortress**: A historic fortress offering stunning views of the city and insights into Coburg’s past.
+1. **Coburg Fortress**: A historic fortress offering stunning views of the city and insights into Coburg's past.
 2. **Morizkirche**: A beautiful church known for its architecture and historical significance.
 3. **Coburg City Hall**: A striking building located in the heart of Coburg, featuring impressive architecture and a vibrant atmosphere.
 4. **Veste Coburg Museum**: This museum provides a deeper understanding of local history and culture.
-5. **Schloss Ehrenburg**: A palace showcasing the grandeur of Coburg’s royal history and exquisite gardens.
+5. **Schloss Ehrenburg**: A palace showcasing the grandeur of Coburg's royal history and exquisite gardens.
 
 ## Insider Tips
 
@@ -85,7 +85,7 @@ Yes, photography is generally permitted, allowing visitors to capture the transm
 ### Are there guided tours?
 Specific information on guided tours may not be available. Check the official website for current offerings.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 Daylight hours are ideal for visiting, with early morning or late afternoon providing optimal lighting conditions.
 
 ### Is it wheelchair accessible?

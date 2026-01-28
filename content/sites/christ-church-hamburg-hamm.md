@@ -76,7 +76,7 @@ To avoid larger crowds, plan your visit on weekdays, as weekends may see an infl
 
 ## Practical Information
 
-When visiting Christ Church, it’s advisable to bring along a few essentials. Comfortable walking shoes will enhance your experience, especially if you plan to explore the surrounding area afterward. Additionally, consider bringing a water bottle to stay hydrated during your explorations.
+When visiting Christ Church, it's advisable to bring along a few essentials. Comfortable walking shoes will enhance your experience, especially if you plan to explore the surrounding area afterward. Additionally, consider bringing a water bottle to stay hydrated during your explorations.
 
 Seasonal considerations can also enhance your visit. Hamburg experiences a variety of weather conditions throughout the year, so dressing in layers is recommended. Summer months can be warm, while winters may require a heavier coat. Always check the weather forecast before your trip for optimal comfort.
 
@@ -95,7 +95,7 @@ While specific information on guided tours isn't provided, many churches offer i
 Visiting during weekday mornings or early afternoons can offer a quieter experience, whereas attending services on weekends may provide insight into the community's worship practices.
 
 ### Is it wheelchair accessible?
-While specific accessibility information is not detailed, many modern church buildings strive to accommodate visitors with mobility challenges. It’s advisable to check with the church for specific arrangements.
+While specific accessibility information is not detailed, many modern church buildings strive to accommodate visitors with mobility challenges. It's advisable to check with the church for specific arrangements.
 
 ### Can I buy tickets online?
 Current information about ticketing and admission can be found on the official website, so it's recommended to check there for any updates.

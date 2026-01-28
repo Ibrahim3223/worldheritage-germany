@@ -50,7 +50,7 @@ Additionally, the museum may include interactive elements that invite visitor pa
 
 To reach the Rautenstrauch-Joest Museum, visitors can take advantage of Cologne's efficient public transport system. Various tram and bus lines serve the area, making it easy to access from different parts of the city. For those driving, check the official website for parking options nearby.
 
-Regarding visiting hours and ticket prices, it’s advisable to check the official website for current information, as these details may vary. The museum typically offers a range of exhibitions and programs that can enrich the visitor experience. 
+Regarding visiting hours and ticket prices, it's advisable to check the official website for current information, as these details may vary. The museum typically offers a range of exhibitions and programs that can enrich the visitor experience. 
 
 On average, guests should plan to spend a couple of hours exploring the museum, although those with a keen interest in anthropology or specific cultural exhibits may wish to linger longer. The best times to visit are during weekday mornings to avoid larger crowds, especially during school holidays and weekends when attendance tends to increase.
 
@@ -101,7 +101,7 @@ Accessibility details can vary; check the official website for the most current 
 Check the official website for options regarding online ticket purchases.
 
 ### Are there restrooms and cafes?
-The museum provides visitor amenities, including restrooms; it’s advisable to check the official website for details on dining options.
+The museum provides visitor amenities, including restrooms; it's advisable to check the official website for details on dining options.
 
 ### What should I wear?
 Dress comfortably, as you may be walking and standing for extended periods. Consider layers for changing weather conditions. 

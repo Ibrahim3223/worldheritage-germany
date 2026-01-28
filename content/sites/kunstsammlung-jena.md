@@ -22,7 +22,7 @@ images:
 
 Kunstsammlung Jena, an esteemed art museum located in the vibrant city of Jena, Germany, offers visitors a unique glimpse into the world of artistic expression through an impressive collection of works. Situated in the heart of this historical city, the museum serves as a cultural hub, showcasing a diverse array of art that spans various styles and eras. With its commitment to both traditional and contemporary art, Kunstsammlung Jena invites art lovers and casual visitors alike to explore the rich cultural landscape of the region.
 
-As a key player in the local cultural scene, the museum not only houses remarkable art pieces but also engages the community through exhibitions, educational programs, and events. Its significance is further enhanced by the city’s own historical and intellectual legacy, which has made Jena a center for philosophy, science, and the arts. Whether you are an art aficionado or simply looking to immerse yourself in a creative atmosphere, a visit to Kunstsammlung Jena promises to be enlightening and inspiring.
+As a key player in the local cultural scene, the museum not only houses remarkable art pieces but also engages the community through exhibitions, educational programs, and events. Its significance is further enhanced by the city's own historical and intellectual legacy, which has made Jena a center for philosophy, science, and the arts. Whether you are an art aficionado or simply looking to immerse yourself in a creative atmosphere, a visit to Kunstsammlung Jena promises to be enlightening and inspiring.
 
 ## History and Significance
 
@@ -30,11 +30,11 @@ The history of Kunstsammlung Jena is intertwined with the city's development as 
 
 The significance of Kunstsammlung Jena extends beyond its collection. It acts as a platform for both established and emerging artists, fostering a dialogue between different generations of creators. The museum often organizes exhibitions that reflect contemporary issues and artistic trends, making it a relevant space for discussions surrounding art in today's society. This commitment to inclusivity and engagement ensures that the museum remains a vital part of Jena's cultural fabric.
 
-The collection housed at Kunstsammlung Jena features a variety of artworks that resonate with both local and international audiences. The museum’s dedication to presenting diverse artistic expressions contributes to the understanding of art's role in society, inviting visitors to reflect on the narratives that shape our world. As such, the museum stands as a significant cultural institution that emphasizes the importance of art in personal and communal identity.
+The collection housed at Kunstsammlung Jena features a variety of artworks that resonate with both local and international audiences. The museum's dedication to presenting diverse artistic expressions contributes to the understanding of art's role in society, inviting visitors to reflect on the narratives that shape our world. As such, the museum stands as a significant cultural institution that emphasizes the importance of art in personal and communal identity.
 
 ## Architecture and Features
 
-Kunstsammlung Jena is characterized by its modern architectural design, which harmonizes with the historical context of Jena. The structure itself reflects contemporary design principles while integrating elements that pay homage to the city’s rich heritage. The museum's facade is an inviting blend of glass and stone, allowing natural light to pour into its exhibition spaces, thereby enhancing the viewing experience.
+Kunstsammlung Jena is characterized by its modern architectural design, which harmonizes with the historical context of Jena. The structure itself reflects contemporary design principles while integrating elements that pay homage to the city's rich heritage. The museum's facade is an inviting blend of glass and stone, allowing natural light to pour into its exhibition spaces, thereby enhancing the viewing experience.
 
 Inside, the layout of Kunstsammlung Jena is thoughtfully designed to facilitate the flow of visitors through its galleries. Each exhibition space is meticulously curated, providing ample room for the artworks to be displayed in a manner that encourages contemplation and engagement. The museum's interior features a variety of settings, from intimate spaces that encourage close inspection of individual works to larger halls that accommodate expansive installations.
 
@@ -58,7 +58,7 @@ While in Jena, visitors have the opportunity to explore several nearby attractio
 
 3. **Planetarium Jena**: One of the oldest planetariums in the world, offering captivating shows about the cosmos, making it a great destination for families and science enthusiasts.
 
-4. **St. Michael’s Church**: An architectural landmark in Jena, this church features stunning stained glass and offers insight into the city’s religious heritage.
+4. **St. Michael's Church**: An architectural landmark in Jena, this church features stunning stained glass and offers insight into the city's religious heritage.
 
 5. **Museum 2.0**: A contemporary art space that focuses on modern artistic practices, providing a contrast to the traditional exhibitions at Kunstsammlung Jena.
 

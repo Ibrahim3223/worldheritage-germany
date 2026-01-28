@@ -76,7 +76,7 @@ For those looking to capture the essence of the Lessing-Denkmal through photogra
 
 To avoid crowds, try visiting during weekdays or outside of peak tourist seasons. Early mornings are often quieter, allowing for a more personal experience with the monument. 
 
-Engaging with local guides or utilizing informational displays around the area can also enrich your understanding of Lessing’s contributions and the monument's significance. 
+Engaging with local guides or utilizing informational displays around the area can also enrich your understanding of Lessing's contributions and the monument's significance. 
 
 ## Practical Information
 

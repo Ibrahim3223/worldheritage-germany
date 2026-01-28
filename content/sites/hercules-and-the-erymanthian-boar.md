@@ -50,7 +50,7 @@ Additionally, the statue is crafted from materials that enhance its durability a
 
 Visiting the Hercules and the Erymanthian Boar statue is an enriching experience that allows for a personal connection with both the art and the mythology it embodies. The statue is located in Bezirk Mitte, making it accessible for those exploring the area. For detailed information regarding transportation options, check the official website for current information.
 
-When planning your visit, it is advisable to consider the time needed to fully appreciate the statue and its surroundings. While many may spend a brief moment admiring the work, taking the time to reflect on its historical and cultural significance can deepen one’s experience. 
+When planning your visit, it is advisable to consider the time needed to fully appreciate the statue and its surroundings. While many may spend a brief moment admiring the work, taking the time to reflect on its historical and cultural significance can deepen one's experience. 
 
 The best times to visit are typically during the early morning or late afternoon, when the light enhances the statue's features and allows for optimal photography. As you explore, be prepared for potential crowds, especially during peak tourist season. Engaging with the statue in a quieter moment can provide a more contemplative experience.
 
@@ -62,7 +62,7 @@ While the Hercules and the Erymanthian Boar statue is a must-see, the surroundin
 
 1. **Berlin's Museum Island** - A UNESCO World Heritage site featuring a collection of world-class museums, including the Pergamon Museum and the Altes Museum.
   
-2. **Brandenburg Gate** - An iconic symbol of Berlin and a historical landmark that has witnessed many of the city’s pivotal moments.
+2. **Brandenburg Gate** - An iconic symbol of Berlin and a historical landmark that has witnessed many of the city's pivotal moments.
 
 3. **The Berlin Cathedral (Berliner Dom)** - A stunning architectural masterpiece that offers visitors the chance to explore its interior and enjoy panoramic views from its dome.
 

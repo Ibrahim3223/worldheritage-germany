@@ -64,7 +64,7 @@ Additionally, the surrounding area offers scenic views that can enhance the visi
 
 1. **Menden Town Center**: A vibrant area that showcases local shops, cafes, and restaurants. It's a great place to enjoy a meal or shop for local crafts after your visit to the chapel.
 
-2. **St. Vincentius Church**: Just a short distance from the chapel, this church features remarkable architecture and is another spot of interest for those exploring Menden’s religious heritage.
+2. **St. Vincentius Church**: Just a short distance from the chapel, this church features remarkable architecture and is another spot of interest for those exploring Menden's religious heritage.
 
 3. **Burg Altena**: Located a bit further from the chapel, this historic castle offers stunning views of the surrounding landscape and a glimpse into medieval life in the region.
 

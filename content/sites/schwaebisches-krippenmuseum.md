@@ -44,7 +44,7 @@ Notable features of the museum include interactive displays that encourage visit
 
 Visiting the Schwäbisches Krippenmuseum offers an engaging experience for individuals and families alike. To reach the museum, visitors can utilize local transportation options, which may include buses or trains that service Mindelheim. The central location of the museum makes it easily accessible for those exploring the town.
 
-Check the official website for current information regarding opening hours and ticket prices. It is advisable to allocate sufficient time to fully explore the museum’s exhibits, which can vary based on personal interest. For those looking to avoid crowds, considering a visit during weekdays or non-peak seasons may enhance the experience, allowing for a more intimate exploration of the displays.
+Check the official website for current information regarding opening hours and ticket prices. It is advisable to allocate sufficient time to fully explore the museum's exhibits, which can vary based on personal interest. For those looking to avoid crowds, considering a visit during weekdays or non-peak seasons may enhance the experience, allowing for a more intimate exploration of the displays.
 
 The best times to visit are typically in the lead-up to Christmas, when the museum may feature special exhibits or events related to the holiday season. However, year-round, visitors can expect a warm welcome and an immersive experience into the world of nativity scenes.
 
@@ -52,7 +52,7 @@ The best times to visit are typically in the lead-up to Christmas, when the muse
 
 The Schwäbisches Krippenmuseum is conveniently located near several other attractions in Mindelheim, enriching the overall experience for visitors. 
 
-1. **St. Stephen’s Church**: A historic church known for its stunning architecture and beautiful interiors, making it a worthwhile stop for architecture enthusiasts.
+1. **St. Stephen's Church**: A historic church known for its stunning architecture and beautiful interiors, making it a worthwhile stop for architecture enthusiasts.
    
 2. **Mindelheim Castle**: This medieval structure provides insight into the region's history and offers scenic views of the surrounding area.
 

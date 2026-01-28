@@ -64,7 +64,7 @@ While exploring the Glaselefant, consider extending your visit to nearby attract
 
 3. **Museum of Local History**: Delve into the history of Hamm at this museum, which showcases artifacts and exhibits pertaining to the region's cultural heritage.
 
-4. **St. Paul’s Church**: An architectural highlight in Hamm, this church is known for its stunning stained glass and peaceful ambiance, offering a moment of reflection.
+4. **St. Paul's Church**: An architectural highlight in Hamm, this church is known for its stunning stained glass and peaceful ambiance, offering a moment of reflection.
 
 5. **Hamm Market Square**: A lively area where local vendors gather, this market square is ideal for experiencing local life and sampling regional delicacies.
 

@@ -88,7 +88,7 @@ When planning your visit to Freie Universität Berlin, consider the following pr
 
 - **Seasonal Considerations**: Summer months may be more crowded, while spring and autumn can offer pleasant weather for outdoor exploration. Be sure to check the weather forecast and dress appropriately.
 
-- **Amenities**: While specific amenities may vary, the university typically offers restrooms and dining options on campus. It’s advisable to check the official website for details on available facilities during your visit.
+- **Amenities**: While specific amenities may vary, the university typically offers restrooms and dining options on campus. It's advisable to check the official website for details on available facilities during your visit.
 
 ## Frequently Asked Questions
 
@@ -96,7 +96,7 @@ When planning your visit to Freie Universität Berlin, consider the following pr
 A visit of around 2-3 hours should provide ample time to explore the campus and nearby attractions.
 
 ### Is photography allowed?
-Yes, photography is generally permitted on campus, but it’s always good practice to be respectful of individuals and events.
+Yes, photography is generally permitted on campus, but it's always good practice to be respectful of individuals and events.
 
 ### Are there guided tours?
 While specific guided tours may not be regularly offered, visitors can inquire about any scheduled events or open days through the official website.
@@ -105,13 +105,13 @@ While specific guided tours may not be regularly offered, visitors can inquire a
 Weekdays during the academic year typically provide a lively atmosphere, making it a great time for a visit.
 
 ### Is it wheelchair accessible?
-The campus is designed to be accessible, but it’s advisable to check specific building access on the official website.
+The campus is designed to be accessible, but it's advisable to check specific building access on the official website.
 
 ### Can I buy tickets online?
 Most facilities on campus are free to enter, but checking the official website for any special events or exhibitions is recommended.
 
 ### Are there restrooms and cafes?
-Yes, the university generally provides restrooms and dining options, though it’s best to confirm specific locations on the official website.
+Yes, the university generally provides restrooms and dining options, though it's best to confirm specific locations on the official website.
 
 ### What should I wear?
 Dress comfortably and according to the weather, as you may spend time both indoors and outdoors exploring the campus and its surroundings.

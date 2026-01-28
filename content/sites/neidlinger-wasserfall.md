@@ -101,7 +101,7 @@ Accessibility information may vary; check the official website for current detai
 Information about ticket purchasing can be found on the official website; check there for the latest updates.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for current amenities available at the site.
+Facilities may vary; it's advisable to check the official website for current amenities available at the site.
 
 ### What should I wear?
 Dress comfortably for outdoor activities; wearing sturdy footwear is recommended, especially if you plan to explore surrounding trails.

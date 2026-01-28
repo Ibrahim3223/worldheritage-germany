@@ -28,13 +28,13 @@ image_srcset:
 
 Uenglinger Tor, a remarkable city gate located in Stendal, Germany, stands as a striking reminder of the architectural prowess and historical significance of the late Middle Ages. This impressive structure serves as a gateway not only to the city but also to a rich narrative that whispers tales of the past. As one approaches this well-preserved monument, the intricate design and robust construction hint at the strategic importance it once held in the city's defenses. Set against the backdrop of Stendal, known for its medieval charm, Uenglinger Tor invites visitors to explore the layers of history encapsulated within its walls.
 
-The city of Stendal, situated in the northern part of Germany, offers a unique blend of heritage and culture. Uenglinger Tor is part of the city’s historical fabric, contributing significantly to its identity and allure. This gate, along with other structures in the vicinity, forms a cohesive narrative of the region's past, making it an essential stop for history enthusiasts and casual tourists alike. Visitors can expect to engage with the site through a blend of architectural appreciation and historical insight, promising a memorable experience that connects them with the essence of Stendal.
+The city of Stendal, situated in the northern part of Germany, offers a unique blend of heritage and culture. Uenglinger Tor is part of the city's historical fabric, contributing significantly to its identity and allure. This gate, along with other structures in the vicinity, forms a cohesive narrative of the region's past, making it an essential stop for history enthusiasts and casual tourists alike. Visitors can expect to engage with the site through a blend of architectural appreciation and historical insight, promising a memorable experience that connects them with the essence of Stendal.
 
 ## History and Significance
 
 The Uenglinger Tor serves as a significant historical landmark in Stendal, embodying the defense mechanisms of medieval urban settlements. City gates like Uenglinger Tor were not merely entrances; they were critical components of the city's fortifications. They were designed to protect the inhabitants from potential invasions while also regulating trade and movement in and out of the city. 
 
-While specific dates and events related to the construction and usage of Uenglinger Tor are not detailed here, the architectural style suggests that it was built during a time when city gates played a vital role in the socio-economic and political landscape of the region. The gate’s presence indicates that Stendal was a city of importance, likely involved in trade routes and regional governance.
+While specific dates and events related to the construction and usage of Uenglinger Tor are not detailed here, the architectural style suggests that it was built during a time when city gates played a vital role in the socio-economic and political landscape of the region. The gate's presence indicates that Stendal was a city of importance, likely involved in trade routes and regional governance.
 
 Moreover, Uenglinger Tor is part of a broader historical context that includes various other structures and remnants of Stendal's medieval past. The gate's endurance through the centuries reflects not only the architectural techniques of the time but also the community's efforts to preserve their heritage. As such, it stands as a significant cultural marker, offering insights into the daily lives of the people who once traversed its passage.
 
@@ -52,7 +52,7 @@ Visitors to Uenglinger Tor can expect an enriching experience that combines hist
 
 When planning a visit, it is advisable to allocate sufficient time to fully appreciate the gate and its surroundings. A visit of approximately one to two hours should allow for a thorough exploration of the site and the opportunity to capture photographs. The best times to visit Uenglinger Tor are typically during the spring and early autumn months when the weather is pleasant, and the surrounding area is vibrant with local life.
 
-While visiting, expect to find informative signage that provides context and details about the gate’s history and significance. Engaging with these resources can enhance your understanding and appreciation of the site.
+While visiting, expect to find informative signage that provides context and details about the gate's history and significance. Engaging with these resources can enhance your understanding and appreciation of the site.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ While visiting, take a moment to step back and observe the gate from different a
 
 ## Practical Information
 
-When planning your visit to Uenglinger Tor, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a camera to document your experience. Depending on the time of year, consider dressing in layers, as weather conditions can vary. 
+When planning your visit to Uenglinger Tor, it's advisable to bring along essentials such as water, comfortable walking shoes, and a camera to document your experience. Depending on the time of year, consider dressing in layers, as weather conditions can vary. 
 
 It's also worth checking for any events or exhibitions that might be taking place at the gate or nearby, as these can enhance your visit and provide additional context to your experience.
 

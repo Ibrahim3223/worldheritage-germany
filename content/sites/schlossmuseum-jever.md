@@ -76,7 +76,7 @@ To make the most of your visit to the Schlossmuseum Jever, consider the followin
 
 - **Crowd Avoidance**: Visiting during weekday mornings often results in fewer crowds, allowing for a more relaxed exploration of the exhibits. 
 
-- **Plan Your Visit**: If you are particularly interested in specific collections or temporary exhibitions, check the museum's schedule ahead of time to ensure you don’t miss out.
+- **Plan Your Visit**: If you are particularly interested in specific collections or temporary exhibitions, check the museum's schedule ahead of time to ensure you don't miss out.
 
 ## Practical Information
 

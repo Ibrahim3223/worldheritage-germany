@@ -34,7 +34,7 @@ As you approach this remarkable piece, you will be struck by its historical weig
 
 The Fragment from the tomb of Nikarete represents a significant piece of ancient Greek sculpture that provides context into the practices and beliefs surrounding death and commemoration in antiquity. Although specific dates regarding its creation are not available, the style and craftsmanship suggest a connection to well-established artistic traditions of classical Greece. 
 
-Tombs in ancient Greek culture were not merely resting places; they were elaborate structures often adorned with sculptures that reflected the status and identity of the deceased. Nikarete’s tomb likely served as a physical manifestation of her life and legacy, with the fragment symbolizing the reverence held for the deceased. Such sculptures were typically designed to evoke emotions, commemorate the dead, and act as a connection between the living and the departed.
+Tombs in ancient Greek culture were not merely resting places; they were elaborate structures often adorned with sculptures that reflected the status and identity of the deceased. Nikarete's tomb likely served as a physical manifestation of her life and legacy, with the fragment symbolizing the reverence held for the deceased. Such sculptures were typically designed to evoke emotions, commemorate the dead, and act as a connection between the living and the departed.
 
 Scholars suggest that the aesthetic qualities of the statue, such as its form and detailing, are indicative of the high level of skill possessed by ancient Greek sculptors. This fragment not only highlights the artistic trends of the time but also provides insight into the social constructs surrounding gender and mortality. Works like this often featured female figures that embodied virtues and ideals admired in Greek society. Therefore, the fragment is not just an artistic piece but also a cultural artifact that opens discussions about the roles of women and societal values in ancient Greece.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Fragment from the tomb of Nikarete, consid
 
 When preparing for your visit, consider the following practical tips:
 
-- **What to Bring**: Essentials include a camera (if permitted), a notebook for notes, and comfortable walking shoes. It’s also wise to carry a water bottle to stay hydrated during your exploration.
+- **What to Bring**: Essentials include a camera (if permitted), a notebook for notes, and comfortable walking shoes. It's also wise to carry a water bottle to stay hydrated during your exploration.
 - **Seasonal Considerations**: Depending on the time of year, dress in layers. Berlin's weather can vary, so be prepared for changes, especially if you plan to walk around the area.
 - **Accessibility**: Familiarize yourself with the accessibility options available at the site, ensuring a comfortable visit for everyone in your group.
 

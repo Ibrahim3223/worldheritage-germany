@@ -38,7 +38,7 @@ The Lüneburger Museum is housed in a building that reflects the architectural s
 
 Visitors can expect a thoughtfully designed interior that facilitates both exploration and learning. The layout is likely organized to guide guests through various exhibitions seamlessly, offering a coherent narrative that enhances the overall experience. Notable features may include interactive displays, multimedia installations, and spaces for temporary exhibitions, all designed to engage visitors and encourage them to delve deeper into the subjects presented.
 
-The museum’s commitment to accessibility and visitor comfort is evident in its design, ensuring that all guests can enjoy the exhibits regardless of their mobility needs. 
+The museum's commitment to accessibility and visitor comfort is evident in its design, ensuring that all guests can enjoy the exhibits regardless of their mobility needs. 
 
 ## Visiting Information
 
@@ -56,9 +56,9 @@ While exploring Lüneburg, consider visiting these nearby attractions:
 
 2. **Lüneburg Salt Museum**: Located nearby, this museum provides insight into the salt production that once dominated the local economy, offering a fascinating look at the industry that shaped the region.
 
-3. **Historic Market Square**: An iconic area of Lüneburg, filled with charming buildings, shops, and cafes. It’s a great place to relax and soak in the local atmosphere.
+3. **Historic Market Square**: An iconic area of Lüneburg, filled with charming buildings, shops, and cafes. It's a great place to relax and soak in the local atmosphere.
 
-4. **Lüneburg’s Old Town**: A stroll through the Old Town reveals well-preserved medieval architecture, quaint streets, and a variety of dining options and boutiques.
+4. **Lüneburg's Old Town**: A stroll through the Old Town reveals well-preserved medieval architecture, quaint streets, and a variety of dining options and boutiques.
 
 5. **The German Salt Museum**: Another nearby attraction, focusing on the history of salt mining in Germany, adds depth to your understanding of Lüneburg's past.
 

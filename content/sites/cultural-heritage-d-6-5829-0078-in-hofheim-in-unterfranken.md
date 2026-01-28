@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Bavaria's Lower Franconia region lies a cultural heritage site steeped in history and significance—the fortification D-6-5829-0078 in Hofheim in Unterfranken. This impressive structure serves as a reminder of the area’s strategic importance throughout the centuries, reflecting the architectural styles and defensive needs of its time. While the details of its origin may not be documented, its presence in the landscape underscores the historical narrative of Hofheim and its surroundings. Visitors to this site can expect a blend of historical intrigue and architectural wonder, making it a worthwhile stop for anyone exploring the rich cultural fabric of Germany.
+In the heart of Bavaria's Lower Franconia region lies a cultural heritage site steeped in history and significance—the fortification D-6-5829-0078 in Hofheim in Unterfranken. This impressive structure serves as a reminder of the area's strategic importance throughout the centuries, reflecting the architectural styles and defensive needs of its time. While the details of its origin may not be documented, its presence in the landscape underscores the historical narrative of Hofheim and its surroundings. Visitors to this site can expect a blend of historical intrigue and architectural wonder, making it a worthwhile stop for anyone exploring the rich cultural fabric of Germany.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ Additionally, bringing a water bottle and light snacks can enhance your experien
 A visit typically lasts between one to two hours, allowing enough time to explore the fortification and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to confirm any restrictions on site.
+Photography is generally permitted, but it's best to confirm any restrictions on site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and special programs that may be available during your visit.

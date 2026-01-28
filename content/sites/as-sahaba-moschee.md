@@ -28,7 +28,7 @@ image_srcset:
 
 The As-Sahaba-Moschee in Berlin's Wedding district stands as a notable place of worship and cultural significance within the diverse tapestry of the city. As a mosque, it serves the spiritual needs of the local Muslim community while also acting as a point of interest for visitors wanting to explore the rich cultural fabric of Berlin. Located at coordinates 52.54118, 13.35116, this mosque is positioned in a vibrant neighborhood that embodies the multicultural essence of modern Berlin.
 
-The significance of the As-Sahaba-Moschee extends beyond its function as a religious site; it reflects the increasing diversity of Berlin’s population and promotes interfaith dialogue and understanding. As such, the mosque not only offers a place for prayer and reflection but also serves as a bridge between various cultures, fostering community and inclusivity. Visitors can expect to encounter a welcoming environment, where they can learn about Islamic traditions and the mosque's role in the community.
+The significance of the As-Sahaba-Moschee extends beyond its function as a religious site; it reflects the increasing diversity of Berlin's population and promotes interfaith dialogue and understanding. As such, the mosque not only offers a place for prayer and reflection but also serves as a bridge between various cultures, fostering community and inclusivity. Visitors can expect to encounter a welcoming environment, where they can learn about Islamic traditions and the mosque's role in the community.
 
 Whether you are a local resident or a traveler exploring Berlin's multifaceted identity, a visit to As-Sahaba-Moschee provides a unique opportunity to witness the coexistence of different faiths and cultures in one of Europe's most dynamic cities.
 
@@ -38,7 +38,7 @@ The origins of the As-Sahaba-Moschee are closely tied to the broader narrative o
 
 The mosque not only serves as a place for daily prayers but also plays an essential role in various community events and educational programs. These initiatives often aim to promote understanding and dialogue among different cultural and religious groups. In this way, As-Sahaba-Moschee acts as a melting pot where individuals from diverse backgrounds can come together to share their experiences and foster mutual respect.
 
-The mosque’s presence in Wedding, a district known for its multicultural character, further emphasizes its role in promoting inclusivity. The area is home to a wide array of ethnicities and cultures, making it an ideal location for a mosque that aims to serve not only as a place of worship but also as a community hub. The As-Sahaba-Moschee thus stands as a significant landmark in Berlin, highlighting the importance of cultural diversity in contemporary urban life.
+The mosque's presence in Wedding, a district known for its multicultural character, further emphasizes its role in promoting inclusivity. The area is home to a wide array of ethnicities and cultures, making it an ideal location for a mosque that aims to serve not only as a place of worship but also as a community hub. The As-Sahaba-Moschee thus stands as a significant landmark in Berlin, highlighting the importance of cultural diversity in contemporary urban life.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ Visitors can expect to find a serene atmosphere within the mosque, conducive to 
 
 Notable features may include intricate calligraphy, geometric patterns, and possibly a dedicated area for women, all of which are common in mosques to enhance the spiritual environment. The emphasis on light and space in mosque architecture often creates a peaceful setting, allowing visitors to engage in contemplation or prayer.
 
-While specific design elements unique to the As-Sahaba-Moschee are not documented, the mosque’s overall architecture likely embodies principles that are prevalent in Islamic structures, promoting a sense of tranquility and devotion.
+While specific design elements unique to the As-Sahaba-Moschee are not documented, the mosque's overall architecture likely embodies principles that are prevalent in Islamic structures, promoting a sense of tranquility and devotion.
 
 ## Visiting Information
 
@@ -78,17 +78,17 @@ While visiting the As-Sahaba-Moschee, consider exploring other nearby attraction
 
 For those planning a visit to the As-Sahaba-Moschee, consider these insider tips to enhance your experience:
 
-- **Photography**: While exploring, be respectful of the worshippers and the sanctity of the space. Photography may be allowed in certain areas, but it’s best to ask permission beforehand.
+- **Photography**: While exploring, be respectful of the worshippers and the sanctity of the space. Photography may be allowed in certain areas, but it's best to ask permission beforehand.
 
 - **Crowd Avoidance**: To experience the mosque with fewer visitors, consider visiting during off-peak hours, particularly outside of prayer times when the mosque is most populated.
 
-- **Engagement**: Take the opportunity to engage with mosque staff or community members. They can provide valuable insights into the mosque’s activities and the role it plays in the local community.
+- **Engagement**: Take the opportunity to engage with mosque staff or community members. They can provide valuable insights into the mosque's activities and the role it plays in the local community.
 
 ## Practical Information
 
 When preparing for your visit to the As-Sahaba-Moschee, keep these practical considerations in mind:
 
-- **What to Bring**: It’s advisable to carry a small bag with essentials such as water, a notebook for notes, and comfortable shoes for walking. If you plan to stay for prayers, a prayer mat may be useful.
+- **What to Bring**: It's advisable to carry a small bag with essentials such as water, a notebook for notes, and comfortable shoes for walking. If you plan to stay for prayers, a prayer mat may be useful.
 
 - **Seasonal Considerations**: Depending on the time of year, Berlin can experience varied weather. Dress accordingly, as winters can be cold and summers warm, affecting your overall comfort during your visit.
 

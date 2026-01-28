@@ -88,7 +88,7 @@ When preparing for your visit to the Handschriften-Ausstellung der Universitäts
 Visitors typically spend a few hours exploring the Handschriften-Ausstellung, allowing ample time to appreciate the manuscripts and exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check the official guidelines regarding photography before your visit.
+Photography policies may vary. It's best to check the official guidelines regarding photography before your visit.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for details on scheduling and availability.

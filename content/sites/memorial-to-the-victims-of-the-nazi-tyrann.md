@@ -32,7 +32,7 @@ The Memorial to the Victims of the Nazi Tyranny serves as a poignant reminder of
 
 The Memorial to the Victims of the Nazi Tyranny is a significant cultural and historical site that embodies the collective memory of those who suffered under Nazi rule. Its establishment reflects a broader movement across Germany to confront the repercussions of the Holocaust and totalitarianism. This monument serves as a solemn reminder of the millions who were persecuted, imprisoned, and murdered during the Nazi regime.
 
-The memorial's creation is part of Germany’s ongoing efforts to acknowledge its past and educate future generations about the consequences of intolerance and hatred. It symbolizes the commitment to remembering the victims and ensuring such atrocities are never repeated. By fostering awareness and understanding, the memorial plays a crucial role in promoting peace and tolerance in contemporary society.
+The memorial's creation is part of Germany's ongoing efforts to acknowledge its past and educate future generations about the consequences of intolerance and hatred. It symbolizes the commitment to remembering the victims and ensuring such atrocities are never repeated. By fostering awareness and understanding, the memorial plays a crucial role in promoting peace and tolerance in contemporary society.
 
 The monument stands in a city that has witnessed significant historical events, making it a fitting location for such a tribute. While specific details about its inception and evolution are not readily available, the monument's presence is indicative of Germany's journey toward reconciliation with its history.
 

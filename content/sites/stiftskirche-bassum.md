@@ -28,7 +28,7 @@ image_srcset:
 
 Stiftskirche Bassum, a prominent church building located in the town of Bassum, Germany, stands as a significant landmark in the region. With its historical roots deeply embedded in the local culture, this church serves not only as a place of worship but also as a testament to the architectural evolution that has taken place over centuries. The church's serene surroundings and ecclesiastical ambiance attract visitors from various backgrounds, offering a glimpse into the spiritual and cultural life of the community.
 
-Bassum itself is situated in the Lower Saxony region, known for its rich history and picturesque landscapes. The Stiftskirche has become a focal point for both residents and tourists, symbolizing the town’s dedication to preserving its historical identity while fostering a sense of community. As you explore this architectural gem, you will discover its significance beyond mere bricks and mortar, offering insights into the faith, artistry, and communal values that have shaped this area.
+Bassum itself is situated in the Lower Saxony region, known for its rich history and picturesque landscapes. The Stiftskirche has become a focal point for both residents and tourists, symbolizing the town's dedication to preserving its historical identity while fostering a sense of community. As you explore this architectural gem, you will discover its significance beyond mere bricks and mortar, offering insights into the faith, artistry, and communal values that have shaped this area.
 
 Visitors can expect a tranquil atmosphere that invites reflection and appreciation of the church's artistic and historical merits. Whether you are a history enthusiast or seeking spiritual solace, Stiftskirche Bassum promises an enriching experience that resonates with the essence of German heritage.
 
@@ -62,7 +62,7 @@ For those looking to extend their visit beyond Stiftskirche Bassum, the surround
 
 1. **Bassum Town Center**: A charming area filled with local shops and cafes, perfect for experiencing the daily life of the community.
 2. **Local Parks**: Enjoy the natural beauty of the region with nearby parks that provide walking paths and picnic areas.
-3. **Historical Sites**: Explore other historical buildings and landmarks within Bassum to gain a deeper understanding of the town’s heritage.
+3. **Historical Sites**: Explore other historical buildings and landmarks within Bassum to gain a deeper understanding of the town's heritage.
 4. **Cultural Events**: Keep an eye out for local festivals and events that may be taking place during your visit, showcasing the town's vibrant culture.
 
 These attractions promise to enrich your visit to Bassum, providing opportunities for exploration and engagement with the local community.
@@ -72,7 +72,7 @@ These attractions promise to enrich your visit to Bassum, providing opportunitie
 To make the most of your visit to Stiftskirche Bassum, consider the following insider tips:
 
 - **Photography**: While photography is often appreciated, be mindful of the interior decor and the congregational setting. If in doubt, ask about photography permissions.
-- **Crowd Avoidance**: If possible, visit during weekdays or early mornings to enjoy a quieter experience, allowing for personal reflection and appreciation of the church’s beauty without distractions.
+- **Crowd Avoidance**: If possible, visit during weekdays or early mornings to enjoy a quieter experience, allowing for personal reflection and appreciation of the church's beauty without distractions.
 - **Dress Code**: A respectful dress code is advisable, particularly when visiting during services or events.
 
 ## Practical Information

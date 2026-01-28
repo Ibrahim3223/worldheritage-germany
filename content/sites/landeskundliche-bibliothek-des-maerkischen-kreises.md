@@ -73,13 +73,13 @@ Seasonal considerations are also important; if you plan to visit during colder m
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Visitors typically spend a few hours exploring the collections and engaging with resources. If you’re conducting research, you may want to allocate more time.
+Visitors typically spend a few hours exploring the collections and engaging with resources. If you're conducting research, you may want to allocate more time.
 
 ### Is photography allowed?
 Photography may be restricted in certain areas of the library to ensure the privacy of patrons. Always check library policies upon arrival.
 
 ### Are there guided tours?
-Information on guided tours is not specified. It’s best to inquire directly with the library staff for any organized tours or educational programs.
+Information on guided tours is not specified. It's best to inquire directly with the library staff for any organized tours or educational programs.
 
 ### What's the best time to visit?
 Weekdays, especially in the morning, tend to be less crowded, providing a more peaceful environment for study and exploration.
@@ -91,7 +91,7 @@ Accessibility features are not detailed. It is recommended to check with the lib
 Details about online ticket purchasing are not provided. Please check the official website for the most accurate and current information.
 
 ### Are there restrooms and cafes?
-Information regarding restrooms and café facilities is not specified. It’s advisable to check the library’s amenities upon arrival.
+Information regarding restrooms and café facilities is not specified. It's advisable to check the library's amenities upon arrival.
 
 ### What should I wear?
 Casual and comfortable clothing is recommended. Consider layering for seasonal variations, as library environments can vary in temperature.

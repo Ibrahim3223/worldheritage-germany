@@ -44,7 +44,7 @@ Today, the site of the former Neue Synagoge serves as a reminder of this rich ye
 
 While the physical structure of the Neue Synagoge no longer stands, its architectural significance can still be appreciated through historical accounts and the context of synagogues from its era. Synagogues of this period often featured a blend of traditional Jewish design elements with local architectural styles, reflecting both the cultural heritage of the Jewish community and the influences of their surrounding environment.
 
-Typically, synagogues of the time included features such as a central prayer hall, a bimah (a raised platform for reading the Torah), and decorative elements that emphasized the spiritual significance of the space. While specific details about the Neue Synagoge’s architecture are not available, many synagogues incorporated intricate designs, stained glass windows, and symbolic motifs that resonated with the community's identity and beliefs.
+Typically, synagogues of the time included features such as a central prayer hall, a bimah (a raised platform for reading the Torah), and decorative elements that emphasized the spiritual significance of the space. While specific details about the Neue Synagoge's architecture are not available, many synagogues incorporated intricate designs, stained glass windows, and symbolic motifs that resonated with the community's identity and beliefs.
 
 The absence of the building today does not diminish its legacy. The site continues to evoke a sense of place where spirituality and community once flourished. Visitors to Bingen can appreciate the architectural styles of other historical buildings in the area, which may reflect the design sensibilities that influenced the Neue Synagoge.
 

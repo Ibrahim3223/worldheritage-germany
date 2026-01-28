@@ -34,7 +34,7 @@ As you explore Tobiashammer, you'll find a space dedicated to preserving and pro
 
 Tobiashammer's history is intertwined with the development of Ohrdruf, a town with a legacy that dates back centuries. The museum serves not only as a space for artifacts but also as a narrative of the community's evolution. Cultural practices, artisanal skills, and the daily lives of the residents are illustrated through various exhibits, which offer visitors a deeper appreciation for the region's past.
 
-Throughout its existence, the museum has played a crucial role in preserving the stories of local craftsmen and women, showcasing the techniques and materials they used. This focus on traditional practices highlights the cultural importance of craftsmanship in Ohrdruf, emphasizing how these skills were passed down through generations. As you navigate through the museum, you may encounter displays that reflect the socio-economic changes over time, further enriching your understanding of the area’s development.
+Throughout its existence, the museum has played a crucial role in preserving the stories of local craftsmen and women, showcasing the techniques and materials they used. This focus on traditional practices highlights the cultural importance of craftsmanship in Ohrdruf, emphasizing how these skills were passed down through generations. As you navigate through the museum, you may encounter displays that reflect the socio-economic changes over time, further enriching your understanding of the area's development.
 
 The significance of Tobiashammer extends beyond mere documentation of history; it acts as a center for education and community engagement. By hosting events, workshops, and lectures, the museum fosters a connection between the past and present, encouraging visitors to engage with the local culture actively. This dedication to community involvement ensures that the heritage of Ohrdruf remains vibrant and relevant.
 
@@ -50,7 +50,7 @@ Notable features of Tobiashammer include interactive exhibits and informative pa
 
 When planning a visit to Tobiashammer, travelers should consider the best methods of transportation available to reach Ohrdruf. The museum's location makes it accessible by various means, including public transport and private vehicles. For those traveling from nearby cities, a drive to the museum can be a pleasant journey through the picturesque German countryside.
 
-Before heading out, it’s advisable to check the official website for current information regarding operating hours and ticket prices. This ensures that visitors can plan their trip without any unexpected surprises. The museum typically allows for a leisurely exploration, and visitors may want to allocate around two to three hours for a thorough experience. 
+Before heading out, it's advisable to check the official website for current information regarding operating hours and ticket prices. This ensures that visitors can plan their trip without any unexpected surprises. The museum typically allows for a leisurely exploration, and visitors may want to allocate around two to three hours for a thorough experience. 
 
 Ideally, visiting during weekdays may help avoid larger crowds, providing a more intimate experience with the exhibits. Seasonal considerations can also play a role in your visit; some times of the year may offer special exhibitions or events that enhance the overall experience.
 
@@ -97,7 +97,7 @@ The availability of guided tours may vary; check the official website for inform
 Weekdays, particularly in the morning, tend to be less crowded, allowing for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility may not be explicitly stated; it’s best to reach out to the museum directly for details.
+Information regarding wheelchair accessibility may not be explicitly stated; it's best to reach out to the museum directly for details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online sales.

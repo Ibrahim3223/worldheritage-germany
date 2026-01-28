@@ -52,7 +52,7 @@ For current information regarding opening hours, entry fees, and any seasonal ev
    
 2. **Warendorf**: Known for its picturesque old town and equestrian culture, Warendorf is just a short drive away and features a range of historical sites and cultural experiences.
    
-3. **St. John’s Church**: An impressive historical church located in Ostbevern, known for its architecture and community significance.
+3. **St. John's Church**: An impressive historical church located in Ostbevern, known for its architecture and community significance.
    
 4. **Nature Park Teutoburg Forest**: Slightly further afield, this larger nature park offers extensive hiking trails, panoramic views, and a diverse range of wildlife.
 
@@ -64,7 +64,7 @@ When visiting Brüskenheide, early mornings or late afternoons are typically les
 
 ## Practical Information
 
-When planning a visit to Brüskenheide, it’s advisable to wear comfortable walking shoes suitable for uneven terrain. Seasonal considerations are important as well; in spring, wildflowers bloom, while autumn showcases vibrant foliage. Be sure to bring water and snacks, as facilities within the reserve may be limited. Additionally, consider weather conditions and dress accordingly, as the climate can vary significantly throughout the year.
+When planning a visit to Brüskenheide, it's advisable to wear comfortable walking shoes suitable for uneven terrain. Seasonal considerations are important as well; in spring, wildflowers bloom, while autumn showcases vibrant foliage. Be sure to bring water and snacks, as facilities within the reserve may be limited. Additionally, consider weather conditions and dress accordingly, as the climate can vary significantly throughout the year.
 
 ## Frequently Asked Questions
 

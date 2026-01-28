@@ -66,7 +66,7 @@ The best times to visit the church are typically during weekdays when the foot t
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon light can create stunning images of the church’s exterior. Additionally, visiting during weekdays may provide opportunities for quieter shots without the interference of crowds.
+For photography enthusiasts, early morning or late afternoon light can create stunning images of the church's exterior. Additionally, visiting during weekdays may provide opportunities for quieter shots without the interference of crowds.
 
 To avoid larger groups, try to plan your visit during non-holiday periods, as weekends and religious events can attract more visitors. Arriving shortly after opening or later in the afternoon can also help in finding a more peaceful environment to appreciate the church.
 
@@ -82,7 +82,7 @@ Seasonal considerations should also be kept in mind; in winter, be prepared for 
 Expect to spend about an hour at St. Johannes der Täufer, which allows time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is typically allowed, but it’s always best to check for any specific guidelines upon arrival.
+Photography is typically allowed, but it's always best to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 While specific tour information may not be provided, check the official website for any available guided options.

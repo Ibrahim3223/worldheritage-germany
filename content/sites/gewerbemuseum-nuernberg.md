@@ -58,13 +58,13 @@ Expect to spend a couple of hours exploring the different exhibits, allowing amp
 
 While visiting the Gewerbemuseum Nürnberg, consider exploring some of the nearby attractions that Nuremberg has to offer:
 
-1. **Nuremberg Castle**: This historic fortress provides a glimpse into the city’s medieval past and offers panoramic views of the surrounding area.
+1. **Nuremberg Castle**: This historic fortress provides a glimpse into the city's medieval past and offers panoramic views of the surrounding area.
 
 2. **Germanisches Nationalmuseum**: This museum showcases a vast collection of German art and culture, complementing the themes explored at the Gewerbemuseum.
 
 3. **St. Lorenz Church**: An exquisite example of Gothic architecture, this church features stunning stained glass windows and intricate sculptures.
 
-4. **Documentation Center Nazi Party Rally Grounds**: This center presents the history of the Nazi regime and its impact on Nuremberg, offering a somber yet important perspective on the city’s past.
+4. **Documentation Center Nazi Party Rally Grounds**: This center presents the history of the Nazi regime and its impact on Nuremberg, offering a somber yet important perspective on the city's past.
 
 5. **Nuremberg Market Square**: A vibrant area filled with shops and cafes, perfect for experiencing local cuisine and culture.
 
@@ -76,7 +76,7 @@ To avoid crowds, visit during the early morning or late afternoon on weekdays, a
 
 ## Practical Information
 
-When visiting the Gewerbemuseum Nürnberg, consider bringing a small bag for personal items, as larger bags may need to be checked. Comfortable footwear is recommended, as you may spend considerable time exploring the museum’s various exhibits.
+When visiting the Gewerbemuseum Nürnberg, consider bringing a small bag for personal items, as larger bags may need to be checked. Comfortable footwear is recommended, as you may spend considerable time exploring the museum's various exhibits.
 
 Seasonal considerations can also impact your visit. Nuremberg experiences a range of weather conditions, so dress appropriately for the time of year. Check the official website for any seasonal events or exhibitions that may enhance your visit.
 

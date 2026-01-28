@@ -69,7 +69,7 @@ Engaging with museum staff can enhance your experience; they often have valuable
 
 Before visiting, it is wise to bring a few essentials, such as comfortable walking shoes, a water bottle, and perhaps a notebook if you wish to jot down observations. Seasonal considerations may also influence your visit; check weather forecasts to dress appropriately.
 
-As the museum may host various events or exhibits, it’s a good idea to check the official website for any special activities or programs that may coincide with your visit.
+As the museum may host various events or exhibits, it's a good idea to check the official website for any special activities or programs that may coincide with your visit.
 
 ## Frequently Asked Questions
 

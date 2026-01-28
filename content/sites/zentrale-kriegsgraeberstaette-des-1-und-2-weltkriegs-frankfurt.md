@@ -76,7 +76,7 @@ When visiting the Zentrale Kriegsgräberstätte, consider the following tips to 
 
 - **Crowd Avoidance**: To enjoy a quieter visit, aim to come during weekdays or off-peak hours. Early mornings or late afternoons often see fewer visitors.
 
-- **Engagement**: Take time to read the inscriptions on the gravestones and reflect on the stories they tell. Engaging with the history can deepen your understanding of the site’s significance.
+- **Engagement**: Take time to read the inscriptions on the gravestones and reflect on the stories they tell. Engaging with the history can deepen your understanding of the site's significance.
 
 ## Practical Information
 
@@ -109,7 +109,7 @@ Check the official website for detailed information on accessibility options at 
 Information regarding ticket purchasing can be found on the official website, including any potential fees for entry.
 
 ### Are there restrooms and cafes?
-Restroom availability may be limited, so it’s advisable to plan accordingly. Check the official website for current amenities.
+Restroom availability may be limited, so it's advisable to plan accordingly. Check the official website for current amenities.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended, especially if you plan to explore the surrounding areas. Dress appropriately for the weather conditions during your visit. 

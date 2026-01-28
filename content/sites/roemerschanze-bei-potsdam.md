@@ -28,7 +28,7 @@ image_srcset:
 
 Römerschanze bei Potsdam invites visitors to explore the remnants of a historic hillfort, steeped in the echoes of ancient civilization. Located in the vicinity of Sacrow, a district of Potsdam, Germany, this archaeological site offers a glimpse into the strategic military architecture of the region. The hillfort's elevated position once provided a vantage point for observing the surrounding landscape, highlighting its significance in historical defense systems. Today, it stands as a silent witness to the past, offering a unique opportunity for those interested in heritage and archaeology.
 
-Potsdam, known for its palaces and gardens, is not far from Berlin, making Römerschanze an accessible destination for history enthusiasts. Visitors can engage with the site’s history while enjoying the natural beauty of the surrounding area. The site serves as a reminder of the complex social structures and military strategies of the time, attracting those who appreciate ancient architecture and historical narratives.
+Potsdam, known for its palaces and gardens, is not far from Berlin, making Römerschanze an accessible destination for history enthusiasts. Visitors can engage with the site's history while enjoying the natural beauty of the surrounding area. The site serves as a reminder of the complex social structures and military strategies of the time, attracting those who appreciate ancient architecture and historical narratives.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ As archaeological interest in the region grows, so too does the understanding of
 
 ## Architecture and Features
 
-Römerschanze bei Potsdam is characterized by its defensive architecture typical of hillforts from ancient periods. The hillfort’s construction reflects the practical needs of its time, where elevated positions provided strategic advantages in surveillance and defense. While specific architectural details may not be readily available, hillforts generally feature earthworks, such as ramparts and ditches, designed to deter attacks and protect inhabitants.
+Römerschanze bei Potsdam is characterized by its defensive architecture typical of hillforts from ancient periods. The hillfort's construction reflects the practical needs of its time, where elevated positions provided strategic advantages in surveillance and defense. While specific architectural details may not be readily available, hillforts generally feature earthworks, such as ramparts and ditches, designed to deter attacks and protect inhabitants.
 
 Visitors to Römerschanze can expect to see remnants of these earthworks, which may include the outlines of walls that once enclosed the settlement. The layout of such hillforts often incorporates a central area where communal activities would have taken place, surrounded by fortifications. The design emphasizes not only defense but also the social aspects of life within the settlement.
 

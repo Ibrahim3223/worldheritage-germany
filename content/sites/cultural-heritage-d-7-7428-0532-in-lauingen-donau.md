@@ -80,10 +80,10 @@ Seasonal considerations include checking the weather forecast before your visit,
 Visitors typically spend around two hours exploring the fortification and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally allowed, but it’s always good to check for specific restrictions at the site.
+Yes, photography is generally allowed, but it's always good to check for specific restrictions at the site.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may provide deeper insights into the site’s history.
+Check the official website for information on guided tours, which may provide deeper insights into the site's history.
 
 ### What's the best time to visit?
 The best times to visit are during the milder months of spring and early autumn for pleasant weather.

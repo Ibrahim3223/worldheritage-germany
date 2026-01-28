@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Riesa, Germany, the Straßenbrücke über die Jahna serves not only as a crucial infrastructure piece but also as a captivating focal point for the local community. This bridge, located at coordinates 51.299784203, 13.32316526, spans the Jahna River and plays a vital role in connecting neighborhoods and facilitating transportation. While its primary function is practical, the bridge also represents the engineering ingenuity and historical development of the area. Visitors to Riesa will find that this structure offers a glimpse into the city’s commitment to maintaining its connections—both literally and figuratively.
+In the heart of Riesa, Germany, the Straßenbrücke über die Jahna serves not only as a crucial infrastructure piece but also as a captivating focal point for the local community. This bridge, located at coordinates 51.299784203, 13.32316526, spans the Jahna River and plays a vital role in connecting neighborhoods and facilitating transportation. While its primary function is practical, the bridge also represents the engineering ingenuity and historical development of the area. Visitors to Riesa will find that this structure offers a glimpse into the city's commitment to maintaining its connections—both literally and figuratively.
 
 The bridge's significance extends beyond its physical presence; it stands as a symbol of progress in an evolving urban landscape. As you approach this remarkable site, you will appreciate its strategic importance in the region's transportation network. The surrounding area offers a blend of nature and urban life, making the bridge an ideal spot for a leisurely stroll or a quiet moment of reflection. 
 

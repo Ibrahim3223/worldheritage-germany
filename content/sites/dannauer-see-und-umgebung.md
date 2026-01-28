@@ -40,9 +40,9 @@ Although specific historical events related to the reserve may not be documented
 
 ## Architecture and Features
 
-Dannauer See und Umgebung is primarily defined by its natural features rather than man-made structures. The landscape is marked by a variety of ecosystems, including wetlands, forests, and open water, each contributing to its ecological richness. The reserve’s waters are home to diverse aquatic life, offering habitat for numerous bird species, particularly during migration seasons.
+Dannauer See und Umgebung is primarily defined by its natural features rather than man-made structures. The landscape is marked by a variety of ecosystems, including wetlands, forests, and open water, each contributing to its ecological richness. The reserve's waters are home to diverse aquatic life, offering habitat for numerous bird species, particularly during migration seasons.
 
-Visitors can expect to find well-maintained trails that meander through the reserve, providing access to different vantage points for observing wildlife and enjoying the scenery. The paths are designed to accommodate visitors while minimizing impact on the environment, which is a key aspect of the reserve’s management. 
+Visitors can expect to find well-maintained trails that meander through the reserve, providing access to different vantage points for observing wildlife and enjoying the scenery. The paths are designed to accommodate visitors while minimizing impact on the environment, which is a key aspect of the reserve's management. 
 
 The area is marked by its lush vegetation, with a mix of native plants that support the local ecosystem. The interplay of water, flora, and fauna creates a dynamic environment that changes with the seasons, offering different experiences throughout the year. 
 

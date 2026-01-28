@@ -66,7 +66,7 @@ Visitors to Modelleisenbahn Faszination Gotthardbahn can also explore several ne
 
 To make the most of your visit to Modelleisenbahn Faszination Gotthardbahn, consider some insider tips. First, arriving early in the day can help you avoid the crowds, especially on weekends. This allows for a more personal experience with the exhibits.
 
-In terms of photography, be sure to check the museum’s policy on photography, as many museums have restrictions on flash photography or using tripods. Capturing the intricate details of the model landscapes can be rewarding, so prepare your camera accordingly.
+In terms of photography, be sure to check the museum's policy on photography, as many museums have restrictions on flash photography or using tripods. Capturing the intricate details of the model landscapes can be rewarding, so prepare your camera accordingly.
 
 Lastly, consider bringing a small notebook or sketchpad. The vibrant details in the miniature displays may inspire creativity, and jotting down thoughts or sketches can enhance your experience.
 

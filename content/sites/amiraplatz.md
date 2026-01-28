@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Amiraplatz is a public square located in the Altstadt-Lehel district of Munich, Germany. This lively square serves as a focal point for both locals and visitors, embodying the vibrant character of the city while offering a gateway to its rich cultural heritage. Surrounded by historical architecture and modern amenities, Amiraplatz invites exploration and social interaction. Its central location makes it a perfect starting point for discovering the surrounding areas, while its open space encourages gatherings, events, and leisurely strolls. As you wander through this urban square, you’ll find a blend of Munich's storied past and its contemporary lifestyle, making it a must-visit for anyone traversing this historic city.
+Amiraplatz is a public square located in the Altstadt-Lehel district of Munich, Germany. This lively square serves as a focal point for both locals and visitors, embodying the vibrant character of the city while offering a gateway to its rich cultural heritage. Surrounded by historical architecture and modern amenities, Amiraplatz invites exploration and social interaction. Its central location makes it a perfect starting point for discovering the surrounding areas, while its open space encourages gatherings, events, and leisurely strolls. As you wander through this urban square, you'll find a blend of Munich's storied past and its contemporary lifestyle, making it a must-visit for anyone traversing this historic city.
 
 ## History and Significance
 
@@ -42,11 +42,11 @@ Amiraplatz is characterized by its open layout, allowing for a spacious environm
 
 The square's design promotes accessibility and interaction, making it an ideal spot for casual gatherings, relaxation, and socializing. Visitors can expect to find benches and green spaces that encourage leisurely stays, along with pathways that facilitate movement throughout the area. The surrounding structures reflect the city's architectural heritage, with elegant facades and intricate designs that invite admiration.
 
-As a public square, Amiraplatz is not only a place to pass through but also a destination in itself, where the local flavor can be experienced. Whether it’s enjoying a coffee at a nearby café, attending a local event, or simply soaking in the atmosphere, the square's features contribute to a vibrant urban experience.
+As a public square, Amiraplatz is not only a place to pass through but also a destination in itself, where the local flavor can be experienced. Whether it's enjoying a coffee at a nearby café, attending a local event, or simply soaking in the atmosphere, the square's features contribute to a vibrant urban experience.
 
 ## Visiting Information
 
-Amiraplatz is conveniently accessible via various forms of transportation. Whether you opt for public transport or walk through the city’s pedestrian-friendly streets, reaching the square is straightforward. The area is well-connected, making it easy for visitors to include Amiraplatz in their itinerary.
+Amiraplatz is conveniently accessible via various forms of transportation. Whether you opt for public transport or walk through the city's pedestrian-friendly streets, reaching the square is straightforward. The area is well-connected, making it easy for visitors to include Amiraplatz in their itinerary.
 
 For the most current information regarding visiting hours, events, and any potential entry fees, check the official website. Expect to spend anywhere from a brief visit to several hours at Amiraplatz, depending on your interest in exploring the surrounding attractions and participating in local events.
 
@@ -91,7 +91,7 @@ While the square itself may not have specific guided tours, many local tours of 
 The best times to visit Amiraplatz are late mornings or early afternoons during weekdays, while evenings can be enjoyable for a more social atmosphere.
 
 ### Is it wheelchair accessible?
-The square is generally accessible, with pathways suitable for wheelchair users, but it’s recommended to check specific accessibility information on the official website.
+The square is generally accessible, with pathways suitable for wheelchair users, but it's recommended to check specific accessibility information on the official website.
 
 ### Can I buy tickets online?
 Check the official website for any events that may require tickets, as not all activities in the square may have an entry fee.

@@ -68,7 +68,7 @@ In addition to Zantberg, visitors to the Hirschbach region can explore several n
 
 For those planning to capture the essence of Zantberg through photography, consider visiting during the early morning or late afternoon when the lighting is soft and the colors are more vibrant. This golden hour can enhance the natural beauty of the mountain and surrounding landscapes.
 
-To avoid crowds, try visiting on weekdays or during the shoulder seasons, which are typically less busy than peak summer months. This approach allows for a more peaceful experience as you explore the mountain’s trails.
+To avoid crowds, try visiting on weekdays or during the shoulder seasons, which are typically less busy than peak summer months. This approach allows for a more peaceful experience as you explore the mountain's trails.
 
 ## Practical Information
 

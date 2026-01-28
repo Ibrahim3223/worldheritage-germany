@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Neuhof, a distinguished manor house located in the quaint village of Heimsen within the city of Petershagen, Germany, embodies the essence of historical architecture and cultural significance. This manor, set in the picturesque Minden-Lübbecke district, exudes an air of elegance that reflects the region’s rich heritage. Visitors are drawn to this site not only for its striking architecture but also for the stories it carries from the past. 
+Gut Neuhof, a distinguished manor house located in the quaint village of Heimsen within the city of Petershagen, Germany, embodies the essence of historical architecture and cultural significance. This manor, set in the picturesque Minden-Lübbecke district, exudes an air of elegance that reflects the region's rich heritage. Visitors are drawn to this site not only for its striking architecture but also for the stories it carries from the past. 
 
 The manor house is characterized by its charming setting and historical context, making it a point of interest for travelers seeking to explore the cultural depths of Germany. As a home that has witnessed the ebb and flow of time, Gut Neuhof stands as a reminder of the agricultural and architectural evolution that has occurred in the area. Whether you are an architecture aficionado or simply looking to immerse yourself in local history, Gut Neuhof offers a unique glimpse into the past, framed by the serene landscape of Petershagen.
 
@@ -40,7 +40,7 @@ Visitors interested in the historical context of Gut Neuhof will find that it pr
 
 ## Architecture and Features
 
-The architecture of Gut Neuhof is a striking example of traditional German manor houses, characterized by its functional yet aesthetically pleasing design. The structure is composed of elements that reflect regional architectural styles, blending practicality with elegance. While specific architectural details may not be available, the manor’s layout likely follows the typical configuration of a Herrenhaus, which often includes residential quarters, administrative offices, and spaces designated for agricultural management.
+The architecture of Gut Neuhof is a striking example of traditional German manor houses, characterized by its functional yet aesthetically pleasing design. The structure is composed of elements that reflect regional architectural styles, blending practicality with elegance. While specific architectural details may not be available, the manor's layout likely follows the typical configuration of a Herrenhaus, which often includes residential quarters, administrative offices, and spaces designated for agricultural management.
 
 Visitors will appreciate the traditional craftsmanship that characterizes the building, from the materials used in construction to the intricate details that adorn its facade. The positioning of the manor within its landscape allows for an engaging interaction with the surrounding environment, enhancing its visual appeal.
 
@@ -72,7 +72,7 @@ While visiting Gut Neuhof, consider exploring other attractions in the Petershag
 
 To enhance your visit to Gut Neuhof, consider the following tips:
 
-- **Photography**: While photography is generally allowed, it’s best to check for any specific restrictions upon arrival. The manor's exterior offers excellent opportunities for capturing its architectural beauty.
+- **Photography**: While photography is generally allowed, it's best to check for any specific restrictions upon arrival. The manor's exterior offers excellent opportunities for capturing its architectural beauty.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays or early in the morning. This timing can help you avoid larger groups of visitors.
 

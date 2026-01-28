@@ -48,7 +48,7 @@ The materials used in constructing the church would have been selected not only 
 
 ## Visiting Information
 
-When planning a visit to Dorfkirche Hohenseeden, it is essential to consider transportation options. Being located in the Elbe-Parey region, the church may be accessible via local roads, and travelers should check for public transport services if available. As you prepare for your visit, it’s advisable to "check the official website for hours/prices" to ensure you have the most current information regarding visiting times and any potential entrance fees.
+When planning a visit to Dorfkirche Hohenseeden, it is essential to consider transportation options. Being located in the Elbe-Parey region, the church may be accessible via local roads, and travelers should check for public transport services if available. As you prepare for your visit, it's advisable to "check the official website for hours/prices" to ensure you have the most current information regarding visiting times and any potential entrance fees.
 
 Visitors can expect a peaceful environment conducive to contemplation and exploration. A typical visit may last anywhere from an hour to a few hours, depending on your interest in the architectural details and historical context. The best times to visit are likely during daylight hours when the church is open to the public, allowing for a full appreciation of its features.
 

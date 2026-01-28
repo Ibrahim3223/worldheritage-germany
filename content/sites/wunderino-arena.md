@@ -32,13 +32,13 @@ The arena's significance extends beyond its physical structure; it represents th
 
 ## History and Significance
 
-Wunderino Arena has evolved into a vital part of Kiel’s cultural and sporting landscape. While specific historical milestones may not be available, its role as a multi-purpose hall indicates its adaptability to meet the changing needs of the community. Since its inception, the arena has hosted a variety of events that reflect the interests and passions of the people of Kiel. 
+Wunderino Arena has evolved into a vital part of Kiel's cultural and sporting landscape. While specific historical milestones may not be available, its role as a multi-purpose hall indicates its adaptability to meet the changing needs of the community. Since its inception, the arena has hosted a variety of events that reflect the interests and passions of the people of Kiel. 
 
 The significance of the arena can be seen in its ability to bring together diverse groups, whether for high-stakes sports competitions or large-scale entertainment events. Local sports teams often utilize the arena for games, fostering a sense of community pride and camaraderie among fans. Furthermore, the venue has become a popular choice for concerts featuring both national and international artists, enhancing Kiel's cultural vibrancy.
 
 In addition to entertainment, the arena serves as a venue for trade fairs and exhibitions, showcasing local businesses and innovations. This multifunctional use underscores the importance of Wunderino Arena in supporting local economic development and cultural initiatives. 
 
-As a cornerstone of Kiel, the arena is more than just a building; it symbolizes the city’s commitment to fostering a lively and inclusive environment for all its residents and visitors.
+As a cornerstone of Kiel, the arena is more than just a building; it symbolizes the city's commitment to fostering a lively and inclusive environment for all its residents and visitors.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ To make the most of your visit, allocate sufficient time to explore the arena an
 
 Kiel is home to several attractions that complement a visit to Wunderino Arena. Here are a few notable places to explore nearby:
 
-1. **Kiel Maritime Museum**: Located not far from the arena, this museum showcases the city’s rich maritime history through a collection of exhibits and artifacts.
+1. **Kiel Maritime Museum**: Located not far from the arena, this museum showcases the city's rich maritime history through a collection of exhibits and artifacts.
 
 2. **Holtenau Lighthouse**: A short distance away, this iconic lighthouse offers picturesque views of the Kiel Canal and is a lovely spot for a leisurely stroll.
 

@@ -74,7 +74,7 @@ If you wish to avoid crowds, try to visit on weekdays or early in the day. The w
 
 ## Practical Information
 
-When heading to Frillen-See, it’s advisable to bring essentials such as water, snacks, sunscreen, and comfortable clothing suitable for outdoor activities. If you plan to engage in water-based activities, consider bringing swimwear and towels.
+When heading to Frillen-See, it's advisable to bring essentials such as water, snacks, sunscreen, and comfortable clothing suitable for outdoor activities. If you plan to engage in water-based activities, consider bringing swimwear and towels.
 
 Seasonal considerations are also important; the summer months are ideal for swimming and enjoying the outdoors, while spring and autumn can offer beautiful foliage and milder weather. Winter may bring colder temperatures, so dress appropriately if you visit during this season.
 
@@ -84,7 +84,7 @@ Seasonal considerations are also important; the summer months are ideal for swim
 You can comfortably spend a few hours at Frillen-See, depending on your interests in activities and relaxation.
 
 ### Is photography allowed?
-Yes, photography is encouraged, especially to capture the lake’s natural beauty.
+Yes, photography is encouraged, especially to capture the lake's natural beauty.
 
 ### Are there guided tours?
 Check the official website for information on any guided tours or activities that may be available.
@@ -102,4 +102,4 @@ For current information regarding tickets or entry fees, check the official webs
 Check the official website for amenities such as restrooms and food options available near the lake.
 
 ### What should I wear?
-Dress in comfortable, weather-appropriate clothing suitable for outdoor activities, and don’t forget swimwear if you plan to swim.
+Dress in comfortable, weather-appropriate clothing suitable for outdoor activities, and don't forget swimwear if you plan to swim.

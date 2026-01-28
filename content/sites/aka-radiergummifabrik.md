@@ -42,7 +42,7 @@ The architecture of the AKA-Radiergummifabrik reflects the practical and utilita
 
 The factory layout was likely optimized for production efficiency, with distinct areas designated for various processes. Visitors can observe remnants of machinery and equipment that once played crucial roles in the manufacturing of rubber products. The scale and layout of the factory illustrate the expansive nature of industrial operations, demonstrating how such spaces were designed to accommodate large-scale production.
 
-In addition to its functional design, the AKA-Radiergummifabrik holds aesthetic value, with elements that may reflect the industrial zeitgeist of the time. The interplay of light and shadow created by the factory’s large windows can evoke a sense of nostalgia, transporting visitors to a time when this site was bustling with activity. The preservation of certain architectural features also provides insight into the construction techniques and materials prevalent during its operational years.
+In addition to its functional design, the AKA-Radiergummifabrik holds aesthetic value, with elements that may reflect the industrial zeitgeist of the time. The interplay of light and shadow created by the factory's large windows can evoke a sense of nostalgia, transporting visitors to a time when this site was bustling with activity. The preservation of certain architectural features also provides insight into the construction techniques and materials prevalent during its operational years.
 
 As an example of industrial architecture, the AKA-Radiergummifabrik stands out not only for its historical significance but also for its physical presence. It serves as a cultural artifact that encapsulates the essence of an era defined by innovation, labor, and economic transformation.
 
@@ -50,7 +50,7 @@ As an example of industrial architecture, the AKA-Radiergummifabrik stands out n
 
 To visit the AKA-Radiergummifabrik, travelers can easily access the site via public transportation or by car, depending on their starting point in Hannover. Given its central location in the Mitte district, it is accessible through various modes of transport. Visitors planning their journey should consider checking the official website for current information on transportation options and directions.
 
-While exploring the factory, guests can expect to take in the historical ambiance of the site. It’s advisable to allocate sufficient time to fully appreciate the surroundings and the stories embedded within the factory’s walls. The duration of the visit may vary based on personal interests, but a few hours should suffice for a comprehensive experience.
+While exploring the factory, guests can expect to take in the historical ambiance of the site. It's advisable to allocate sufficient time to fully appreciate the surroundings and the stories embedded within the factory's walls. The duration of the visit may vary based on personal interests, but a few hours should suffice for a comprehensive experience.
 
 For those interested in guided tours or educational programs, it is best to verify availability and schedules through the official website. Visiting hours and any potential admission fees should also be confirmed in advance to ensure a smooth experience. 
 

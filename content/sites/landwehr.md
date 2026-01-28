@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Landwehr, located in Maisborn, Germany, represents a significant element of the Roman Limes, the ancient frontier that delineated the boundaries of the Roman Empire. This archaeological site invites visitors to explore the remnants of a once-vibrant civilization, offering insights into the military and administrative strategies employed during the Roman era. The site’s historical context is enriched by its geographical setting, which played a crucial role in the defense and expansion of Roman territories. Visiting Landwehr allows one to engage with the remnants of Roman engineering and architecture while reflecting on the broader implications of Roman influence in Europe.
+The Landwehr, located in Maisborn, Germany, represents a significant element of the Roman Limes, the ancient frontier that delineated the boundaries of the Roman Empire. This archaeological site invites visitors to explore the remnants of a once-vibrant civilization, offering insights into the military and administrative strategies employed during the Roman era. The site's historical context is enriched by its geographical setting, which played a crucial role in the defense and expansion of Roman territories. Visiting Landwehr allows one to engage with the remnants of Roman engineering and architecture while reflecting on the broader implications of Roman influence in Europe.
 
 As you approach the Landwehr, the sense of history becomes palpable. The fortifications that once protected against invasions are still visible, inviting contemplation of the past and its enduring legacy. This heritage site not only serves as a reminder of a powerful empire but also as a cultural landmark that highlights the importance of preservation and education about ancient civilizations. With its intriguing stories and historical significance, Landwehr is a must-visit for those intrigued by the ancient world.
 
@@ -60,7 +60,7 @@ Upon arrival, visitors will find themselves surrounded by an environment that en
 
 2. **Bingen am Rhein**: This charming town, located along the Rhine River, features historical buildings and scenic views, making it an excellent complement to a visit to Landwehr.
 
-3. **Rheinstein Castle**: Perched above the Rhine, this beautifully restored castle offers insights into medieval architecture and the region’s feudal history.
+3. **Rheinstein Castle**: Perched above the Rhine, this beautifully restored castle offers insights into medieval architecture and the region's feudal history.
 
 4. **Burg Klopp**: Another nearby castle, Burg Klopp provides panoramic views of Bingen and the surrounding landscape, along with a sense of the historical significance of fortifications in the area.
 
@@ -84,7 +84,7 @@ Seasonal considerations are essential when planning your trip. Spring and autumn
 A visit to Landwehr typically requires about two to three hours to fully appreciate the site and its historical context.
 
 ### Is photography allowed?
-Yes, photography is usually permitted, allowing visitors to capture the site’s unique features and historical remnants.
+Yes, photography is usually permitted, allowing visitors to capture the site's unique features and historical remnants.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website for details regarding the availability of guided experiences.

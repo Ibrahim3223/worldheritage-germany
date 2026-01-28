@@ -38,7 +38,7 @@ Kunstforum Ostdeutsche Galerie has established itself as a vital institution for
 
 The significance of the museum extends beyond its collections; it serves as a platform for dialogue and reflection on the cultural changes that have taken place in Eastern Germany over the decades. The artworks displayed are not just visual representations; they are narratives that encapsulate the experiences and transformations of society throughout various periods.
 
-The museum’s exhibitions often focus on key themes such as identity, memory, and the impact of political changes on artistic expression. By showcasing both established and emerging artists, Kunstforum Ostdeutsche Galerie contributes to a broader understanding of the artistic landscape in Eastern Germany, making it a key player in the cultural dialogue within the region.
+The museum's exhibitions often focus on key themes such as identity, memory, and the impact of political changes on artistic expression. By showcasing both established and emerging artists, Kunstforum Ostdeutsche Galerie contributes to a broader understanding of the artistic landscape in Eastern Germany, making it a key player in the cultural dialogue within the region.
 
 Moreover, the museum frequently collaborates with local and international artists, creating opportunities for innovative exhibitions that challenge conventional perspectives. This engagement with the contemporary art scene ensures that the museum remains relevant and responsive to current artistic trends and discourses.
 
@@ -50,7 +50,7 @@ Inside, the layout is thoughtfully organized to facilitate the flow of visitors 
 
 Natural light floods the exhibition spaces, enhancing the viewing experience and allowing the artworks to be appreciated in their best light. The museum often features temporary exhibitions alongside its permanent collection, providing visitors with fresh perspectives on Eastern German art.
 
-Additionally, the museum is equipped with facilities that enhance the visitor experience, including spaces for educational programs, workshops, and events. These features underscore the museum’s commitment to engaging the public and fostering a deeper appreciation for the arts.
+Additionally, the museum is equipped with facilities that enhance the visitor experience, including spaces for educational programs, workshops, and events. These features underscore the museum's commitment to engaging the public and fostering a deeper appreciation for the arts.
 
 ## Visiting Information
 

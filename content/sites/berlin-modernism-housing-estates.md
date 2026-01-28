@@ -28,9 +28,9 @@ image_srcset:
 
 ## Overview
 
-Berlin, a city known for its dynamic history and cultural evolution, is home to the Berlin Modernism Housing Estates, a remarkable architectural ensemble that showcases innovative housing solutions from the early 20th century. These six subsidized housing estates reflect Germany’s progressive social policies and avant-garde architectural movements, particularly the ideas of the modernist movement. Recognized as a UNESCO World Heritage Site, these estates offer insights into the social and artistic ambitions of the time, blending functionality with aesthetic appeal.
+Berlin, a city known for its dynamic history and cultural evolution, is home to the Berlin Modernism Housing Estates, a remarkable architectural ensemble that showcases innovative housing solutions from the early 20th century. These six subsidized housing estates reflect Germany's progressive social policies and avant-garde architectural movements, particularly the ideas of the modernist movement. Recognized as a UNESCO World Heritage Site, these estates offer insights into the social and artistic ambitions of the time, blending functionality with aesthetic appeal.
 
-Located in the heart of Berlin, the housing estates demonstrate the city’s commitment to providing quality living spaces for all, breaking away from traditional housing designs. As visitors explore these unique residences, they will not only appreciate the architectural innovations but also understand the socio-political context that led to their creation. The Berlin Modernism Housing Estates invite travelers to witness a significant chapter in urban living and architectural history, reflecting a vision that sought to improve the quality of life for residents.
+Located in the heart of Berlin, the housing estates demonstrate the city's commitment to providing quality living spaces for all, breaking away from traditional housing designs. As visitors explore these unique residences, they will not only appreciate the architectural innovations but also understand the socio-political context that led to their creation. The Berlin Modernism Housing Estates invite travelers to witness a significant chapter in urban living and architectural history, reflecting a vision that sought to improve the quality of life for residents.
 
 ## History and Significance
 
@@ -86,9 +86,9 @@ To make the most of your visit to the Berlin Modernism Housing Estates, consider
 
 ## Practical Information
 
-When visiting the Berlin Modernism Housing Estates, it’s advisable to bring comfortable walking shoes, as exploring the estates involves some walking. A water bottle and light snacks can also enhance your experience, especially if you plan to spend a few hours exploring.
+When visiting the Berlin Modernism Housing Estates, it's advisable to bring comfortable walking shoes, as exploring the estates involves some walking. A water bottle and light snacks can also enhance your experience, especially if you plan to spend a few hours exploring.
 
-Seasonal considerations may affect your visit; spring and early autumn are typically pleasant times to experience Berlin’s outdoor spaces. Be sure to check the weather forecast and dress appropriately. 
+Seasonal considerations may affect your visit; spring and early autumn are typically pleasant times to experience Berlin's outdoor spaces. Be sure to check the weather forecast and dress appropriately. 
 
 ## Frequently Asked Questions
 

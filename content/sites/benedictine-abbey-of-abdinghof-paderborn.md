@@ -28,7 +28,7 @@ image_srcset:
 
 The Benedictine Abbey of Abdinghof, situated in the heart of Paderborn, Germany, is a remarkable site that resonates with spiritual and architectural significance. Founded as a monastery, it serves as a vital link to the region's ecclesiastical history and cultural heritage. The abbey's serene environment provides a contemplative space for visitors and locals alike, inviting exploration into its tranquil grounds and historical narratives.
 
-Paderborn is a city known for its rich religious history, and the presence of the Abdinghof Abbey enhances the area’s spiritual landscape. This site not only reflects the monastic life that has thrived in the region for centuries but also continues to be a center for community and faith today. Visitors can expect a blend of history and spirituality, with opportunities to appreciate the architectural beauty and the peaceful setting that surrounds the abbey.
+Paderborn is a city known for its rich religious history, and the presence of the Abdinghof Abbey enhances the area's spiritual landscape. This site not only reflects the monastic life that has thrived in the region for centuries but also continues to be a center for community and faith today. Visitors can expect a blend of history and spirituality, with opportunities to appreciate the architectural beauty and the peaceful setting that surrounds the abbey.
 
 As you approach the abbey, the sense of tranquility envelops you, providing a perfect backdrop for reflection and exploration. Whether you are a history enthusiast, a spiritual seeker, or simply curious about the local culture, the Benedictine Abbey of Abdinghof promises an engaging experience.
 

@@ -56,7 +56,7 @@ The best times to visit Urkevitz are during the spring and summer months when th
 
 3. **Puttbus**: A nearby town rich in history, Puttbus features beautiful parks and gardens, as well as historical architecture that reflects its past as a spa town.
 
-4. **Granitz Hunting Lodge**: Located on Rügen Island, this historic structure offers guided tours and insights into the region’s aristocratic history, alongside stunning views of the surrounding landscape.
+4. **Granitz Hunting Lodge**: Located on Rügen Island, this historic structure offers guided tours and insights into the region's aristocratic history, alongside stunning views of the surrounding landscape.
 
 5. **Jasmund National Park**: Famous for its chalk cliffs and ancient beech forests, this national park is perfect for outdoor enthusiasts seeking hiking trails and breathtaking scenery.
 

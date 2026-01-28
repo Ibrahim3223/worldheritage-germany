@@ -34,7 +34,7 @@ Essen, situated in the heart of the Ruhr area, is known for its industrial herit
 
 While specific historical dates may not be documented, the Alter Friedhof Huttrop has served as an important cemetery for the region, reflecting the local traditions and customs surrounding death and remembrance. The cemetery's design and layout often mirror the cultural attitudes of the times, providing insight into the social fabric of the community it served. As a cemetery, it holds significant cultural importance, representing both the grief of loss and the celebration of life.
 
-Throughout its existence, the cemetery has likely been a point of gathering for families and friends, serving as a place to honor the memories of loved ones. The headstones and monuments found within its grounds offer glimpses into the lives of individuals who once played vital roles in the community. Each grave tells a story, encapsulating the essence of those buried there, from the prominent figures of the city’s industrial past to everyday citizens whose lives contributed to the local culture.
+Throughout its existence, the cemetery has likely been a point of gathering for families and friends, serving as a place to honor the memories of loved ones. The headstones and monuments found within its grounds offer glimpses into the lives of individuals who once played vital roles in the community. Each grave tells a story, encapsulating the essence of those buried there, from the prominent figures of the city's industrial past to everyday citizens whose lives contributed to the local culture.
 
 As a park, Alter Friedhof Huttrop also contributes to the ecological landscape of Essen. The combination of lush greenery and historical monuments creates a unique environment that fosters both natural beauty and contemplation, making it a relevant site not only for remembrance but also for appreciating nature.
 
@@ -64,7 +64,7 @@ Alter Friedhof Huttrop is conveniently located in the vibrant city of Essen, whi
 
 3. **Grugapark** - A large urban park that features beautiful gardens, walking paths, and recreational areas, perfect for a leisurely day outdoors.
 
-4. **Villa Hügel** - The former residence of the Krupp family, this grand villa is surrounded by picturesque grounds and offers insights into the region’s industrial history.
+4. **Villa Hügel** - The former residence of the Krupp family, this grand villa is surrounded by picturesque grounds and offers insights into the region's industrial history.
 
 5. **Zollverein Coal Mine Industrial Complex** - Another UNESCO World Heritage Site, this former coal mine is now a cultural hub, showcasing the region's industrial past.
 
@@ -76,7 +76,7 @@ Keep in mind that, as a cemetery, visitors are encouraged to maintain a respectf
 
 ## Practical Information
 
-When visiting Alter Friedhof Huttrop, consider bringing a few essentials to enhance your experience. Comfortable walking shoes are advisable, as the cemetery features pathways that can be explored extensively. A light jacket may be needed during cooler months, and it’s wise to check the weather forecast before your visit.
+When visiting Alter Friedhof Huttrop, consider bringing a few essentials to enhance your experience. Comfortable walking shoes are advisable, as the cemetery features pathways that can be explored extensively. A light jacket may be needed during cooler months, and it's wise to check the weather forecast before your visit.
 
 Seasonal considerations are also important; spring and summer months tend to bring vibrant foliage and blooming flowers, while autumn offers a picturesque display of changing leaves. Regardless of the season, Alter Friedhof Huttrop provides a tranquil escape where visitors can connect with both nature and history.
 

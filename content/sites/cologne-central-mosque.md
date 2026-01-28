@@ -68,7 +68,7 @@ The Cologne Central Mosque is strategically located near several notable attract
 
 4. **Rheinauhafen**: This picturesque waterfront area features modern architecture, restaurants, and scenic views of the Rhine River, ideal for a leisurely stroll.
 
-5. **Old Town (Altstadt)**: Explore the charming streets of Cologne’s Old Town, filled with historic buildings, shops, and cafés that capture the essence of the city.
+5. **Old Town (Altstadt)**: Explore the charming streets of Cologne's Old Town, filled with historic buildings, shops, and cafés that capture the essence of the city.
 
 ## Insider Tips
 

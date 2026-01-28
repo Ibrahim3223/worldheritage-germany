@@ -38,7 +38,7 @@ As a school building, Carl-Fuhlrott-Gymnasium fosters a sense of belonging among
 
 Moreover, the gymnasium represents a significant aspect of Wuppertal's cultural heritage. The city itself is recognized for its artistic and intellectual contributions to Germany, and the gymnasium is a vital part of this narrative. It stands alongside other historic institutions that have shaped the educational landscape of the region, contributing to a culture that values knowledge and lifelong learning.
 
-Visiting Carl-Fuhlrott-Gymnasium provides an opportunity to engage with this rich historical backdrop. While the details of its founding may be elusive, the school’s ongoing commitment to education and community makes it a vital part of Wuppertal's identity.
+Visiting Carl-Fuhlrott-Gymnasium provides an opportunity to engage with this rich historical backdrop. While the details of its founding may be elusive, the school's ongoing commitment to education and community makes it a vital part of Wuppertal's identity.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ While specific architectural details may not be available, school buildings like
 
 In addition to its functional spaces, the gymnasium might incorporate outdoor areas that serve as recreational spaces for students. These areas are essential for providing a well-rounded educational experience, allowing for physical activity and social interaction outside of the classroom.
 
-Overall, the architecture of Carl-Fuhlrott-Gymnasium reflects a thoughtful approach to educational design, prioritizing both functionality and the well-being of its occupants. Visitors to the school can appreciate the thoughtful intent behind the building’s design and how it supports the educational mission of the institution.
+Overall, the architecture of Carl-Fuhlrott-Gymnasium reflects a thoughtful approach to educational design, prioritizing both functionality and the well-being of its occupants. Visitors to the school can appreciate the thoughtful intent behind the building's design and how it supports the educational mission of the institution.
 
 ## Visiting Information
 

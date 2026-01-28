@@ -84,7 +84,7 @@ When preparing for your visit to the Naturkundliches Museum, consider the follow
 Most visitors find that spending two to three hours allows for a thorough exploration of the exhibits and educational materials.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check with museum staff upon your arrival regarding any restrictions.
+Photography policies can vary. It's best to check with museum staff upon your arrival regarding any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits. Check the official website for more information.

@@ -40,7 +40,7 @@ Visitors to the courthouse can gain insight into how the legal system has evolve
 
 ## Architecture and Features
 
-Burgstraße 4 presents a façade that reflects the functional design typical of courthouses, combined with elements that capture the essence of Runkel’s architectural style. The structure maintains a balance between practicality and aesthetic appeal, showcasing features that are both utilitarian and dignified.
+Burgstraße 4 presents a façade that reflects the functional design typical of courthouses, combined with elements that capture the essence of Runkel's architectural style. The structure maintains a balance between practicality and aesthetic appeal, showcasing features that are both utilitarian and dignified.
 
 The exterior is characterized by sturdy materials, designed to convey a sense of permanence and authority. The design may include traditional architectural elements, such as symmetrical windows and a prominent entrance, which are common in buildings serving legal purposes. While specific architectural details are not detailed in the data, courthouses generally emphasize clarity and order, reflecting the values of the legal system they represent.
 
@@ -48,7 +48,7 @@ Inside, visitors can expect functional spaces that facilitate legal proceedings,
 
 ## Visiting Information
 
-Visitors interested in exploring Burgstraße 4 will find it located conveniently in the heart of Runkel. The courthouse is accessible by various modes of transportation, reflecting the town’s connectivity. Those traveling by car can find parking options nearby, making it easy to include this site in a broader itinerary of the area.
+Visitors interested in exploring Burgstraße 4 will find it located conveniently in the heart of Runkel. The courthouse is accessible by various modes of transportation, reflecting the town's connectivity. Those traveling by car can find parking options nearby, making it easy to include this site in a broader itinerary of the area.
 
 When planning a visit, it is advisable to check the official website for current hours and any potential restrictions, as the courthouse may have specific visiting guidelines due to its operational nature. Visitors can expect to spend approximately one hour at the site, allowing time to appreciate the architecture and learn about its historical context.
 
@@ -62,9 +62,9 @@ While in Runkel, visitors can explore several nearby attractions that complement
    
 2. **Lahn River Promenade**: A lovely area for strolls, the promenade features scenic views and picnic spots, ideal for a leisurely afternoon.
    
-3. **St. Peter's Church**: This beautiful church is known for its architecture and historical significance, providing insight into the region’s religious heritage.
+3. **St. Peter's Church**: This beautiful church is known for its architecture and historical significance, providing insight into the region's religious heritage.
 
-4. **Local Museums**: Various small museums in Runkel showcase the town’s history, culture, and traditions, making them worthwhile stops for history enthusiasts.
+4. **Local Museums**: Various small museums in Runkel showcase the town's history, culture, and traditions, making them worthwhile stops for history enthusiasts.
 
 5. **Walking Trails**: The surrounding area offers walking and cycling trails that allow visitors to appreciate the natural beauty and tranquility of the region.
 

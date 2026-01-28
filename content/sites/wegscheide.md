@@ -42,7 +42,7 @@ Wegscheide is characterized by its natural architecture, shaped by the geologica
 
 Notable features of Wegscheide include well-maintained trails that provide access to various viewpoints and paths suitable for hiking and nature walks. These trails cater to a range of skill levels, making it accessible for both casual walkers and experienced hikers. The surrounding vegetation varies from deciduous forests to open glades, creating diverse habitats for wildlife and opportunities for birdwatching.
 
-In addition to the natural features, the area may include remnants of historical structures, such as old roadways or paths that have been used for centuries. These elements serve as a reminder of the pass's long-standing importance in the region’s history. 
+In addition to the natural features, the area may include remnants of historical structures, such as old roadways or paths that have been used for centuries. These elements serve as a reminder of the pass's long-standing importance in the region's history. 
 
 While Wegscheide may not have man-made architectural wonders, its natural beauty and the interplay of land and vegetation create a unique environment that draws nature enthusiasts and history buffs alike.
 
@@ -62,7 +62,7 @@ While Wegscheide is a delightful destination on its own, several nearby attracti
 
 1. **Felsenmeer**: A geological marvel formed by the erosion of granite, Felsenmeer features a unique landscape of large boulders and rocks. It offers hiking paths and opportunities for exploration within this fascinating natural site.
 
-2. **Bensheim**: A charming town located not far from Wegscheide, Bensheim is known for its historical architecture, including the beautiful St. George’s Church and a vibrant marketplace. Visitors can enjoy local restaurants and shops.
+2. **Bensheim**: A charming town located not far from Wegscheide, Bensheim is known for its historical architecture, including the beautiful St. George's Church and a vibrant marketplace. Visitors can enjoy local restaurants and shops.
 
 3. **Lorsch Abbey**: A UNESCO World Heritage site, Lorsch Abbey is an important historical landmark that reflects the Carolingian era. The abbey's remains and the surrounding gardens provide a glimpse into the region's monastic past.
 
@@ -97,7 +97,7 @@ Currently, specific guided tours may not be available at Wegscheide, but local h
 Spring and fall are recommended for visiting, with mild weather and beautiful natural scenery.
 
 ### Is it wheelchair accessible?
-Certain areas may pose challenges for wheelchair accessibility. It’s advisable to check specific trail information beforehand.
+Certain areas may pose challenges for wheelchair accessibility. It's advisable to check specific trail information beforehand.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding any entry fees or ticketing options.

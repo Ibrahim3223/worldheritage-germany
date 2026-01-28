@@ -88,11 +88,11 @@ If you plan to visit with children, consider checking for any family-oriented pr
 
 ## Practical Information
 
-When preparing for your visit to Märchenhaus, it’s advisable to bring a light jacket or sweater, as museum environments can sometimes be cooler than expected. Comfortable walking shoes are also recommended, as you may spend significant time exploring the various exhibits.
+When preparing for your visit to Märchenhaus, it's advisable to bring a light jacket or sweater, as museum environments can sometimes be cooler than expected. Comfortable walking shoes are also recommended, as you may spend significant time exploring the various exhibits.
 
 Seasonal considerations can impact your visit; if you plan to visit during the summer months, be prepared for warmer weather and potential crowds. Conversely, winter visits may offer a quieter experience, but be sure to check for any seasonal events or decorations that could enhance your visit.
 
-Additionally, it’s a good idea to bring a water bottle to stay hydrated during your time at the museum. Be sure to check the official website for information on amenities such as restrooms and cafes, which can provide convenience during your visit.
+Additionally, it's a good idea to bring a water bottle to stay hydrated during your time at the museum. Be sure to check the official website for information on amenities such as restrooms and cafes, which can provide convenience during your visit.
 
 ## Frequently Asked Questions
 

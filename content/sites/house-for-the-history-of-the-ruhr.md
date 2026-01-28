@@ -80,7 +80,7 @@ For those planning a visit to the House for the History of the Ruhr, consider th
 
 - **Crowd Avoidance**: To avoid busy periods, consider visiting during mid-week, particularly in the mornings. This will allow for quieter access to resources and a more peaceful atmosphere.
 
-- **Engage with Staff**: Don’t hesitate to ask the staff for recommendations on resources or upcoming events. They can offer valuable insights and help guide your research.
+- **Engage with Staff**: Don't hesitate to ask the staff for recommendations on resources or upcoming events. They can offer valuable insights and help guide your research.
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ A visit typically takes a few hours, especially if you wish to explore the libra
 Check the library's specific policies regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
-Information about guided tours can often be found on the official website. It’s advisable to inquire ahead of your visit.
+Information about guided tours can often be found on the official website. It's advisable to inquire ahead of your visit.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, tend to be less crowded, offering a more focused experience.

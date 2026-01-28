@@ -85,7 +85,7 @@ When preparing for your visit to Ehemalige Flakbatterie bei Fischbach, consider 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes about two to three hours, allowing for exploration and reflection on the site’s history and architecture.
+A visit typically takes about two to three hours, allowing for exploration and reflection on the site's history and architecture.
 
 ### Is photography allowed?
 Yes, photography is generally permitted, so feel free to capture the unique elements of the Flakbatterie.
@@ -103,7 +103,7 @@ Accessibility details are not specified; it is advisable to check the official w
 Information about ticketing and entry fees can vary, so check the official website for details on purchasing tickets.
 
 ### Are there restrooms and cafes?
-Currently, there is no specific information available regarding restrooms or cafes on-site. It’s advisable to plan ahead and visit nearby facilities.
+Currently, there is no specific information available regarding restrooms or cafes on-site. It's advisable to plan ahead and visit nearby facilities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that the site may require walking over uneven terrain.

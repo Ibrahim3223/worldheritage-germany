@@ -48,7 +48,7 @@ Visitors can anticipate an environment that encourages exploration and learning,
 
 ## Visiting Information
 
-The Sugar Museum is accessible via various means of transportation, making it convenient for visitors. Those traveling by public transport can utilize Berlin’s extensive network of buses, trams, and trains. For those driving, parking options may be available nearby, but checking the official website for the most up-to-date information regarding parking and accessibility is advisable.
+The Sugar Museum is accessible via various means of transportation, making it convenient for visitors. Those traveling by public transport can utilize Berlin's extensive network of buses, trams, and trains. For those driving, parking options may be available nearby, but checking the official website for the most up-to-date information regarding parking and accessibility is advisable.
 
 It is recommended to check the official website for current hours and ticket prices before planning your visit. The museum typically offers a range of experiences, from self-guided tours to potential educational programs, ensuring that visitors can tailor their experiences to their interests.
 
@@ -64,7 +64,7 @@ After your visit to the Sugar Museum, consider exploring these nearby attraction
 
 3. **Alexanderplatz**: A bustling square that features the famous TV Tower (Fernsehturm), shopping opportunities, and various dining options, perfect for a leisurely stroll after your museum visit.
 
-4. **Berlin State Library (Staatsbibliothek zu Berlin)**: An architectural marvel, this library is one of the largest in Germany and offers a glimpse into the city’s literary heritage.
+4. **Berlin State Library (Staatsbibliothek zu Berlin)**: An architectural marvel, this library is one of the largest in Germany and offers a glimpse into the city's literary heritage.
 
 5. **Nikolaiviertel**: This historic neighborhood offers charming cobblestone streets, quaint shops, and cafés, perfect for those looking to experience Berlin's medieval past.
 

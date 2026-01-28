@@ -107,7 +107,7 @@ Accessibility information is not specified; it is advisable to check with the ch
 Check the official website for information on ticket purchases, as this may vary.
 
 ### Are there restrooms and cafes?
-Information on amenities such as restrooms and nearby cafés is not specified; it’s advisable to explore the town center for these facilities.
+Information on amenities such as restrooms and nearby cafés is not specified; it's advisable to explore the town center for these facilities.
 
 ### What should I wear?
 Dress modestly to respect the church environment while ensuring comfort during your visit.

@@ -34,7 +34,7 @@ The museum is easily accessible and situated within a city that is rich in its o
 
 While specific historical milestones may not be documented in detail, the Gustav-Lübcke-Museum has established itself as a key institution in the cultural landscape of Hamm. The museum is named after Gustav Lübcke, a notable figure whose contributions to the arts have had a lasting impact on the region. The importance of the museum lies not only in its collections but also in its role as a platform for community engagement and artistic expression.
 
-Throughout its history, the museum has adapted to changing cultural trends and has made efforts to remain relevant in an ever-evolving artistic environment. It has become a gathering place for art enthusiasts, scholars, and the general public, fostering a dialogue about the significance of art in society. This focus on education and accessibility underscores the museum’s commitment to promoting cultural understanding and appreciation.
+Throughout its history, the museum has adapted to changing cultural trends and has made efforts to remain relevant in an ever-evolving artistic environment. It has become a gathering place for art enthusiasts, scholars, and the general public, fostering a dialogue about the significance of art in society. This focus on education and accessibility underscores the museum's commitment to promoting cultural understanding and appreciation.
 
 The museum's collection includes a variety of artworks, reflecting both local and international influences. Exhibitions often change, allowing for fresh perspectives and new discoveries. Visitors can expect to encounter a selection of pieces that not only highlight the artistic heritage of Hamm but also situate it within a broader context. The museum serves as a reminder of the ongoing dialogue between past and present, encouraging visitors to explore the nuances of artistic expression.
 
@@ -60,11 +60,11 @@ When planning your visit to the Gustav-Lübcke-Museum, consider exploring additi
 
 1. **Hamm City Park**: A picturesque green space perfect for a leisurely stroll or a picnic, offering beautiful landscaping and a serene environment.
 
-2. **St. Paul’s Church**: An impressive historical site, featuring striking architecture and an intriguing history that reflects the cultural fabric of Hamm.
+2. **St. Paul's Church**: An impressive historical site, featuring striking architecture and an intriguing history that reflects the cultural fabric of Hamm.
 
 3. **Maximilianpark**: A unique park that combines nature with art and architecture, featuring a butterfly house and various installations that make it a delightful destination for families.
 
-4. **Hamm’s Old Town**: This area is ripe for exploration, with charming streets and local shops that offer a taste of the community's heritage and everyday life.
+4. **Hamm's Old Town**: This area is ripe for exploration, with charming streets and local shops that offer a taste of the community's heritage and everyday life.
 
 5. **Museum of Local History**: A complementary visit for those interested in the local narratives that connect with the broader themes explored in the Gustav-Lübcke-Museum.
 

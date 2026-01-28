@@ -28,7 +28,7 @@ image_srcset:
 
 The church and cemetery in Obercunnersdorf, a quaint village located in the Kottmar region of Saxony, Germany, offer visitors a glimpse into the area's rich cultural heritage. This site is not merely a place of worship but also a significant historical landmark that reflects the architectural and spiritual traditions of the region. As you walk through the cemetery, you will encounter an array of tombstones that tell stories of the local community, while the church structure stands as a focal point for both residents and visitors alike.
 
-Obercunnersdorf itself is characterized by its picturesque landscape and tranquil atmosphere, making it an ideal destination for those seeking a peaceful retreat infused with historical significance. The church and cemetery are integral to the village’s identity, serving as a reminder of the past while also playing a crucial role in the community today. Whether you are an architecture enthusiast, a history buff, or simply in search of a serene spot to reflect, this site promises an enriching experience.
+Obercunnersdorf itself is characterized by its picturesque landscape and tranquil atmosphere, making it an ideal destination for those seeking a peaceful retreat infused with historical significance. The church and cemetery are integral to the village's identity, serving as a reminder of the past while also playing a crucial role in the community today. Whether you are an architecture enthusiast, a history buff, or simply in search of a serene spot to reflect, this site promises an enriching experience.
 
 ## History and Significance
 
@@ -99,7 +99,7 @@ Accessibility information is not specified; check with the official website for 
 Check the official website for information on ticket purchasing and entry requirements.
 
 ### Are there restrooms and cafes?
-Amenities like restrooms and cafes are not mentioned; it’s best to check locally for available facilities.
+Amenities like restrooms and cafes are not mentioned; it's best to check locally for available facilities.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather when planning your outfit. 

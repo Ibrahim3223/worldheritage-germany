@@ -44,7 +44,7 @@ Maria- und Martha-Kirche exemplifies the architectural styles prevalent in the r
 
 Notable features of the church may include elements such as stained glass windows, intricate woodwork, and a carefully designed interior that reflects the values of the community it serves. Each aspect of the church, from the altar to the seating arrangements, is likely designed to enhance the worship experience and foster a sense of community among attendees.
 
-The church’s facade, while not detailed in this guide, would typically showcase stonework that aligns with the historical context of Bautzen. This architectural integrity contributes to the overall character of the church, making it a prominent feature of the city’s landscape.
+The church's facade, while not detailed in this guide, would typically showcase stonework that aligns with the historical context of Bautzen. This architectural integrity contributes to the overall character of the church, making it a prominent feature of the city's landscape.
 
 ## Visiting Information
 
@@ -59,7 +59,7 @@ As you arrive, be prepared for a peaceful environment that encourages contemplat
 Bautzen is home to several attractions that complement a visit to Maria- und Martha-Kirche:
 
 1. **Bautzen Old Town**: A stroll through the historic old town reveals medieval architecture, charming streets, and a variety of shops and cafes.
-2. **The Bautzen Tower**: Offering a panoramic view of the city, this tower is a reminder of Bautzen’s fortified past and is a great spot for photography enthusiasts.
+2. **The Bautzen Tower**: Offering a panoramic view of the city, this tower is a reminder of Bautzen's fortified past and is a great spot for photography enthusiasts.
 3. **St. Peter's Cathedral**: Another significant religious site, this cathedral showcases the rich architectural styles and history of Bautzen.
 4. **The Sorbian Museum**: For those interested in local culture, this museum provides insights into the traditions and history of the Sorbian people, a Slavic minority in the region.
 5. **The Spree River**: Ideal for a leisurely walk, the riverbank offers scenic views and a peaceful atmosphere, perfect for unwinding after visiting the church.

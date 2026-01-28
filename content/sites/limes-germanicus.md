@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Limes Germanicus represents an extraordinary feat of ancient engineering, marking the northern frontier of the Roman Empire across present-day Germany. This complex of fortifications delineates the boundary that once safeguarded Roman territories from external threats. Stretching across various landscapes, these remnants of wall structures, forts, and watchtowers offer a compelling glimpse into the military and administrative prowess of the Roman Empire. As you explore Limes Germanicus, you engage with a significant chapter in European history that illustrates Rome's efforts to control and integrate its provinces, while also showcasing the strategic importance of these fortifications in the empire’s expansion and defense mechanisms.
+Limes Germanicus represents an extraordinary feat of ancient engineering, marking the northern frontier of the Roman Empire across present-day Germany. This complex of fortifications delineates the boundary that once safeguarded Roman territories from external threats. Stretching across various landscapes, these remnants of wall structures, forts, and watchtowers offer a compelling glimpse into the military and administrative prowess of the Roman Empire. As you explore Limes Germanicus, you engage with a significant chapter in European history that illustrates Rome's efforts to control and integrate its provinces, while also showcasing the strategic importance of these fortifications in the empire's expansion and defense mechanisms.
 
 The Limes Germanicus is not only a UNESCO World Heritage Site but also a symbol of cultural heritage and shared history in the region. It invites visitors to contemplate the ancient world, providing an opportunity to reflect on the interactions between diverse cultures and the legacies that endure today. As you traverse these ancient boundaries, the site promises an enriching experience that combines historical inquiry with a sense of adventure.
 
@@ -78,7 +78,7 @@ When exploring the Limes, consider bringing a good pair of walking shoes, as une
 
 ## Practical Information
 
-When planning your visit to Limes Germanicus, it’s important to bring essentials such as water, snacks, and sun protection, especially during warmer months. Seasonal considerations are also vital; spring and autumn typically offer the most favorable weather, while winter may present challenges due to cold temperatures and potential snow.
+When planning your visit to Limes Germanicus, it's important to bring essentials such as water, snacks, and sun protection, especially during warmer months. Seasonal considerations are also vital; spring and autumn typically offer the most favorable weather, while winter may present challenges due to cold temperatures and potential snow.
 
 Check the official website for updated information regarding amenities available on-site, including restrooms and cafés, to ensure a comfortable visit.
 
@@ -88,7 +88,7 @@ Check the official website for updated information regarding amenities available
 A visit typically requires several hours to adequately explore the site and absorb its historical significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions at individual sites.
+Photography is generally permitted, but it's advisable to check for any specific restrictions at individual sites.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the historical context of the Limes.
@@ -97,7 +97,7 @@ Guided tours may be available, providing deeper insights into the historical con
 The best time to visit is during the spring and early autumn, when the weather is pleasant for outdoor exploration.
 
 ### Is it wheelchair accessible?
-Accessibility may vary across different sections of the site; it’s best to check specific information before your visit.
+Accessibility may vary across different sections of the site; it's best to check specific information before your visit.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

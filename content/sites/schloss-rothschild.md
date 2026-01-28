@@ -34,13 +34,13 @@ The significance of Schloss Rothschild extends beyond its practical role in gove
 
 The origins of Schloss Rothschild can be traced through the evolution of Hemsbach itself, a town with a history that reflects the broader socio-political changes in Germany. While specific dates of construction or significant events are not documented here, the building stands as a symbol of civic pride and serves as a central hub for local governance. Its establishment aligns with the growth of the town, which has transformed over the years into a vibrant community.
 
-The architectural style of Schloss Rothschild is representative of the region’s historical trends, showcasing influences that may have been prevalent during its construction. Such buildings often served dual purposes, functioning as administrative centers while also being spaces for community gatherings and events. This multifunctionality highlights the importance of city halls in fostering civic engagement and social cohesion.
+The architectural style of Schloss Rothschild is representative of the region's historical trends, showcasing influences that may have been prevalent during its construction. Such buildings often served dual purposes, functioning as administrative centers while also being spaces for community gatherings and events. This multifunctionality highlights the importance of city halls in fostering civic engagement and social cohesion.
 
 Visiting Schloss Rothschild offers a unique opportunity to understand the local governance structure and cultural identity of Hemsbach. As the city hall, it has likely witnessed numerous significant events, decisions, and changes that have shaped the community. Engaging with the building allows visitors to appreciate its role in the ongoing narrative of Hemsbach and the Rhein-Neckar-Kreis.
 
 ## Architecture and Features
 
-Schloss Rothschild is characterized by its representative architectural style, which reflects the historical significance of its role as a city hall. The façade is thoughtfully designed to convey both authority and accessibility, making it a prominent feature in the town’s landscape. While specific architectural details are not listed, municipal buildings of this nature typically incorporate elements that highlight their civic function, such as grand entrances, spacious halls, and decorative features.
+Schloss Rothschild is characterized by its representative architectural style, which reflects the historical significance of its role as a city hall. The façade is thoughtfully designed to convey both authority and accessibility, making it a prominent feature in the town's landscape. While specific architectural details are not listed, municipal buildings of this nature typically incorporate elements that highlight their civic function, such as grand entrances, spacious halls, and decorative features.
 
 Internally, the layout is likely to accommodate various administrative functions, providing spaces for meetings, public services, and community events. The building's design not only serves practical purposes but also aims to inspire a sense of community pride and belonging among residents. 
 

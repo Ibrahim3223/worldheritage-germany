@@ -64,7 +64,7 @@ While Marientor is a highlight of Naumburg, there are several other attractions 
 
 3. **St. Wenceslas Church**: Known for its unique architecture, this church offers insight into the religious history of the area.
 
-4. **Naumburg’s Old Town**: A stroll through the cobblestone streets of the Old Town reveals picturesque half-timbered houses and inviting local shops.
+4. **Naumburg's Old Town**: A stroll through the cobblestone streets of the Old Town reveals picturesque half-timbered houses and inviting local shops.
 
 5. **Castle Ruins of Rabenstein**: A short distance from the city, the ruins provide a glimpse into the region's feudal past and offer scenic views.
 

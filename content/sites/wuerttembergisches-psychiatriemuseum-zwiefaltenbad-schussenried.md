@@ -38,7 +38,7 @@ The Württembergisches Psychiatriemuseum is housed in a historical building that
 
 Notable features of the museum include its thoughtfully curated exhibits, which include original documents and tools used in psychiatric treatment throughout history. The layout is designed to facilitate an educational journey, with each section dedicated to different eras and significant milestones in the field of psychiatry. 
 
-Visitors can also expect to find interactive elements that encourage engagement with the material, fostering a deeper understanding of the subjects presented. The museum’s commitment to education is evident in its comprehensive displays, which are designed to inform and provoke thought about the sensitive topics surrounding mental health.
+Visitors can also expect to find interactive elements that encourage engagement with the material, fostering a deeper understanding of the subjects presented. The museum's commitment to education is evident in its comprehensive displays, which are designed to inform and provoke thought about the sensitive topics surrounding mental health.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ While visiting the Württembergisches Psychiatriemuseum, there are several nearb
 
 For those planning a visit to the Württembergisches Psychiatriemuseum, a few insider tips can enhance your experience:
 
-- **Photography**: Be mindful of photography policies within the museum; some areas may have restrictions, so it’s best to ask staff if unsure.
+- **Photography**: Be mindful of photography policies within the museum; some areas may have restrictions, so it's best to ask staff if unsure.
 - **Crowd Avoidance**: Plan your visit during weekdays or in the early morning or late afternoon to avoid larger groups and enjoy a quieter atmosphere.
 - **Engagement**: Take the time to read the informative panels and engage with any interactive exhibits to enrich your understanding of the material presented.
 

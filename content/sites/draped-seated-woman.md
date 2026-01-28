@@ -28,7 +28,7 @@ image_srcset:
 
 The Draped Seated Woman, a captivating sculpture by the renowned British artist Henry Moore, is a striking piece that invites contemplation and admiration. Located in the Von der Heydt Museum in Wuppertal, Germany, this statue exemplifies Moore's mastery in portraying the human form through abstraction and simplicity. The statue is not just a piece of art; it represents a significant moment in 20th-century sculpture, reflecting the post-war era's search for identity and form. Visitors are drawn not only to the sculpture itself but also to the serene environment that surrounds it, creating a perfect setting for artistic appreciation and reflection.
 
-As part of the broader context of Wuppertal, a city known for its unique blend of industrial heritage and natural beauty, the Draped Seated Woman captures a slice of the artistic evolution that defines the region. Moore’s work resonates with the themes of humanity and nature, making it a significant cultural landmark in Germany. A visit to this statue is more than a mere encounter with art; it is an engagement with the philosophical questions that underpin the human experience.
+As part of the broader context of Wuppertal, a city known for its unique blend of industrial heritage and natural beauty, the Draped Seated Woman captures a slice of the artistic evolution that defines the region. Moore's work resonates with the themes of humanity and nature, making it a significant cultural landmark in Germany. A visit to this statue is more than a mere encounter with art; it is an engagement with the philosophical questions that underpin the human experience.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ In Wuppertal, the statue adds to the city's artistic heritage, which includes va
 
 The Draped Seated Woman is characterized by its smooth contours and abstract form, which are hallmarks of Henry Moore's style. The statue captures the essence of the human figure through a combination of curves and folds, creating a sense of movement and fluidity. While specific dimensions are not available, the statue's scale is significant enough to draw attention and appreciation from viewers. 
 
-Moore's use of drapery in the sculpture is particularly noteworthy. The flowing lines suggest the weight of the fabric while simultaneously conveying a sense of ease and comfort in the seated position. This juxtaposition of heaviness and lightness serves to emphasize the figure’s contemplative posture, encouraging viewers to engage with its emotional depth.
+Moore's use of drapery in the sculpture is particularly noteworthy. The flowing lines suggest the weight of the fabric while simultaneously conveying a sense of ease and comfort in the seated position. This juxtaposition of heaviness and lightness serves to emphasize the figure's contemplative posture, encouraging viewers to engage with its emotional depth.
 
 The material used for the Draped Seated Woman contributes to its overall impact. Moore often worked with stone and bronze; however, the specific material for this statue is not mentioned. Regardless, the texture and finish of the piece reflect Moore's commitment to craftsmanship and his ability to transform raw materials into evocative works of art. 
 
@@ -66,7 +66,7 @@ The best times to visit are typically during weekdays to avoid larger crowds, al
 
 4. **Bergisches Land**: Just outside the city, this picturesque region offers hiking and outdoor activities, perfect for those looking to explore the natural beauty surrounding Wuppertal.
 
-5. **Historic City Center**: Stroll through Wuppertal’s city center to discover charming shops, cafes, and historical architecture, adding a cultural dimension to your visit.
+5. **Historic City Center**: Stroll through Wuppertal's city center to discover charming shops, cafes, and historical architecture, adding a cultural dimension to your visit.
 
 ## Insider Tips
 

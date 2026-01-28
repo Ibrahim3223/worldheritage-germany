@@ -74,7 +74,7 @@ To avoid crowds, try visiting during weekdays or outside of peak tourist season.
 
 When visiting the site of Palais Hoym, dress comfortably and wear appropriate footwear, as you may do some walking around the surrounding area. Seasonal considerations are important; Dresden can be quite cold in winter, so dressing in layers is advisable. 
 
-If you're looking to learn more about the history of the area, consider bringing a guidebook or downloading resources that provide context about the palace and its significance in Dresden’s history.
+If you're looking to learn more about the history of the area, consider bringing a guidebook or downloading resources that provide context about the palace and its significance in Dresden's history.
 
 ## Frequently Asked Questions
 

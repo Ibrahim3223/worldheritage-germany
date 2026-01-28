@@ -54,7 +54,7 @@ The functionality of the fountain, serving as a water well, emphasizes its signi
 
 Visiting the Fischerbuberl-Brunnen is a delightful experience that can be easily incorporated into a day exploring the Au-Haidhausen district. While specific hours and entry fees are not provided here, it is advisable to check the official website for current information regarding access and any potential visitor guidelines.
 
-Transport options to the fountain are plentiful, given its central location in Munich. The area is well-served by public transportation, including trams and buses, making it accessible for both locals and tourists. For those who prefer walking, the fountain is easily reachable from many nearby attractions and neighborhoods, allowing visitors to soak in the city’s atmosphere along the way.
+Transport options to the fountain are plentiful, given its central location in Munich. The area is well-served by public transportation, including trams and buses, making it accessible for both locals and tourists. For those who prefer walking, the fountain is easily reachable from many nearby attractions and neighborhoods, allowing visitors to soak in the city's atmosphere along the way.
 
 When planning a visit, consider the time of day for a more serene experience. Early mornings or late afternoons may offer a quieter ambiance, ideal for reflection or photography. The fountain, being a public space, is open for visits year-round, and each season offers a different perspective on the surrounding environment.
 
@@ -92,7 +92,7 @@ To make the most of your visit to the Fischerbuberl-Brunnen, consider these insi
 
 When planning your visit to the Fischerbuberl-Brunnen, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to carry a reusable water bottle to fill from the fountain, especially during warm weather. Comfortable walking shoes will also enhance your experience as you explore the surrounding area.
+- **What to Bring**: It's advisable to carry a reusable water bottle to fill from the fountain, especially during warm weather. Comfortable walking shoes will also enhance your experience as you explore the surrounding area.
 
 - **Seasonal Considerations**: Each season offers a unique charm; spring is particularly lovely with blooming flowers nearby, while winter may transform the atmosphere into a cozy winter scene. Dress accordingly to enjoy your visit fully.
 
@@ -119,7 +119,7 @@ The fountain is located in a public area, which is generally accessible, but it'
 As the Fischerbuberl-Brunnen is a public fountain, there are no tickets required for entry. Check the official website for any special events that may have associated costs.
 
 ### Are there restrooms and cafes?
-Nearby cafes and restaurants may provide restroom facilities, but it’s recommended to check for specific locations upon arrival.
+Nearby cafes and restaurants may provide restroom facilities, but it's recommended to check for specific locations upon arrival.
 
 ### What should I wear?
 Dress comfortably for outdoor exploration. Consider layering clothing, as temperatures can vary throughout the day, especially in transitional seasons.

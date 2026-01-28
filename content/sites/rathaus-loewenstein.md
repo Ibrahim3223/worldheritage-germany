@@ -97,7 +97,7 @@ A visit to Rathaus Löwenstein typically takes about an hour, but you may want t
 Yes, photography is generally allowed outside the Rathaus. Be respectful of any signs or regulations regarding photography inside.
 
 ### Are there guided tours?
-Information about guided tours may vary, so it’s best to check the official website for details regarding availability and scheduling.
+Information about guided tours may vary, so it's best to check the official website for details regarding availability and scheduling.
 
 ### What's the best time to visit?
 Weekdays are ideal for a quieter experience, while weekends may offer opportunities to engage with local events.

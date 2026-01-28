@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Monument to the X-ray and Radium Martyrs of All Nations stands as a poignant reminder of the sacrifices made by the pioneers of radiation therapy. Located in the serene garden of St George’s Hospital in Hamburg, this monument serves not only as a tribute to those who suffered due to the misuse of X-rays and radium but also reflects the broader historical narrative of medical advancement and ethical considerations in healthcare. With coordinates placing it centrally in the bustling city of Hamburg, the monument is easily accessible to both locals and visitors, making it a significant stop for those interested in medical history and ethics.
+The Monument to the X-ray and Radium Martyrs of All Nations stands as a poignant reminder of the sacrifices made by the pioneers of radiation therapy. Located in the serene garden of St George's Hospital in Hamburg, this monument serves not only as a tribute to those who suffered due to the misuse of X-rays and radium but also reflects the broader historical narrative of medical advancement and ethical considerations in healthcare. With coordinates placing it centrally in the bustling city of Hamburg, the monument is easily accessible to both locals and visitors, making it a significant stop for those interested in medical history and ethics.
 
 This monument invites reflection on the dual nature of scientific progress—the potential for both healing and harm. It encapsulates a period where the boundaries of medical practice were being tested, and its significance extends beyond its physical presence, prompting discussions about patient safety and ethical practices that continue to resonate today.
 
@@ -40,7 +40,7 @@ Additionally, this site reflects a broader awareness surrounding accountability 
 
 ## Architecture and Features
 
-The design of the Monument to the X-ray and Radium Martyrs is characterized by its thoughtful integration into the garden of St George’s Hospital. While specific architectural details are not outlined, the monument typically features elements that evoke solemnity and contemplation, reflecting its purpose as a memorial.
+The design of the Monument to the X-ray and Radium Martyrs is characterized by its thoughtful integration into the garden of St George's Hospital. While specific architectural details are not outlined, the monument typically features elements that evoke solemnity and contemplation, reflecting its purpose as a memorial.
 
 The setting within a hospital garden enhances its significance, allowing visitors to engage with the monument in a tranquil environment conducive to reflection. The garden itself is likely landscaped, providing a peaceful backdrop that invites visitors to pause and consider the profound impact of medical innovation.
 
@@ -90,7 +90,7 @@ As you prepare for your visit to the Monument to the X-ray and Radium Martyrs, k
 A visit typically lasts between 30 minutes to an hour, allowing time for reflection and exploration of the garden.
 
 ### Is photography allowed?
-Yes, photography is generally permitted at the monument. It’s best to visit during times with good natural light for the best photos.
+Yes, photography is generally permitted at the monument. It's best to visit during times with good natural light for the best photos.
 
 ### Are there guided tours?
 Guided tours may not be available specifically for the monument, but the surrounding area and hospital may offer insights through their own tours.
@@ -102,7 +102,7 @@ Daytime visits are ideal, especially during weekdays or early in the morning to 
 Check the official website for current information on accessibility features at the monument and surrounding garden.
 
 ### Can I buy tickets online?
-Typically, there is no admission fee, but it’s best to check the official website for any updates regarding entry.
+Typically, there is no admission fee, but it's best to check the official website for any updates regarding entry.
 
 ### Are there restrooms and cafes?
 While the monument itself may not have facilities, nearby establishments in the hospital or local cafes may provide amenities.

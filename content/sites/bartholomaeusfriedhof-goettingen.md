@@ -64,7 +64,7 @@ Göttingen is home to a variety of attractions that complement a visit to Bartho
 
 1. **Gänseliesel Fountain**: Located in the city center, this iconic fountain features a statue of a young girl herding geese and is a beloved symbol of Göttingen.
    
-2. **St. Jacob's Church (Jakobskirche)**: This historic church is known for its stunning architecture and beautiful stained-glass windows, providing visitors with a glimpse into the city’s religious heritage.
+2. **St. Jacob's Church (Jakobskirche)**: This historic church is known for its stunning architecture and beautiful stained-glass windows, providing visitors with a glimpse into the city's religious heritage.
 
 3. **University of Göttingen**: As one of Germany's oldest and most prestigious universities, the campus is steeped in academic history and is home to several museums and libraries.
 
@@ -82,7 +82,7 @@ To make the most of your visit to Bartholomäusfriedhof, consider these insider 
 
 ## Practical Information
 
-When planning your visit to Bartholomäusfriedhof, it’s helpful to keep a few practical considerations in mind:
+When planning your visit to Bartholomäusfriedhof, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may be spending considerable time on foot. A camera can help you capture the site's beauty, but remember to be respectful of the space.
 

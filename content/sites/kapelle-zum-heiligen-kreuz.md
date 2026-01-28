@@ -30,7 +30,7 @@ The Kapelle zum heiligen Kreuz, a quaint chapel located in the heart of Heusenst
 
 This chapel stands as a significant structure within the community, embodying the historical and spiritual journey of its inhabitants. Visitors can expect a peaceful environment, perfect for reflection and appreciation of the intricate details that characterize this sacred space. The Kapelle zum heiligen Kreuz is not just a place for prayer; it is a window into the past, offering insights into the traditions and beliefs that have shaped the local culture.
 
-Whether you are a history enthusiast, an architecture aficionado, or simply seeking a moment of tranquility, the Kapelle zum heiligen Kreuz promises an enriching experience that captures the essence of Heusenstamm’s heritage.
+Whether you are a history enthusiast, an architecture aficionado, or simply seeking a moment of tranquility, the Kapelle zum heiligen Kreuz promises an enriching experience that captures the essence of Heusenstamm's heritage.
 
 ## History and Significance
 
@@ -68,7 +68,7 @@ While the Kapelle zum heiligen Kreuz is a destination in its own right, there ar
 
 2. **St. Jakobus Church** - Close to the chapel, this church is another example of local religious architecture and is often frequented by visitors.
 
-3. **Heusenstamm Local History Museum** - This museum provides a deeper understanding of the area’s history and cultural evolution, making it an excellent stop for history enthusiasts.
+3. **Heusenstamm Local History Museum** - This museum provides a deeper understanding of the area's history and cultural evolution, making it an excellent stop for history enthusiasts.
 
 4. **The Town Square** - A lively area where visitors can enjoy local shops and cafes, perfect for sampling regional delicacies or simply relaxing.
 
@@ -94,7 +94,7 @@ Seasonal considerations may affect your visit; spring and fall offer mild weathe
 A visit typically takes about one to two hours, allowing time to explore the chapel and its surroundings.
 
 ### Is photography allowed?
-While photography is often permitted, it’s best to be respectful of the space and others who may be there for worship.
+While photography is often permitted, it's best to be respectful of the space and others who may be there for worship.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may be available during your visit.

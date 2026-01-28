@@ -44,7 +44,7 @@ Kastl Abbey is characterized by its monastic architecture, which typically inclu
 
 The design of monasteries often emphasizes simplicity and contemplation, creating an environment conducive to prayer and reflection. The layout usually integrates beautiful gardens and serene courtyards, providing spaces for meditation and connection with nature. These aspects contribute to the overall atmosphere of tranquility that visitors experience upon arrival.
 
-In addition to its structural elements, the abbey likely houses religious artifacts and artworks that reflect its spiritual significance. These items can include altarpieces, sculptures, and manuscripts that serve to enhance the visitor’s understanding of the abbey's role in religious life. The combination of architecture and art within Kastl Abbey helps convey the monastic mission of fostering spiritual growth and community service.
+In addition to its structural elements, the abbey likely houses religious artifacts and artworks that reflect its spiritual significance. These items can include altarpieces, sculptures, and manuscripts that serve to enhance the visitor's understanding of the abbey's role in religious life. The combination of architecture and art within Kastl Abbey helps convey the monastic mission of fostering spiritual growth and community service.
 
 ## Visiting Information
 
@@ -85,7 +85,7 @@ Visitors to Kastl Abbey should prepare accordingly to ensure a comfortable exper
 A visit to Kastl Abbey typically takes a few hours, allowing time to explore the grounds and reflect on the historical significance of the site.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s advisable to be respectful of the sacred nature of the site and check for any specific restrictions.
+Photography may be permitted, but it's advisable to be respectful of the sacred nature of the site and check for any specific restrictions.
 
 ### Are there guided tours?
 Information on guided tours is not specified; checking the official website can provide current offerings regarding tours and educational programs.

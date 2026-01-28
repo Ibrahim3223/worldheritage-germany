@@ -36,7 +36,7 @@ While specific dates regarding the museum's establishment are not available, the
 
 The museum plays a crucial role in the cultural landscape of Ludwigshafen and the broader Rhineland-Palatinate region. It not only showcases contemporary works but also organizes exhibitions that reflect on the interplay between art and society. The museum's programming often includes temporary exhibitions, workshops, and educational initiatives aimed at fostering a deeper understanding of art among diverse audiences.
 
-In addition to its collection, the museum’s commitment to public engagement and education underscores its significance. It serves as a meeting point for artists, scholars, and the public, stimulating discussions about art, culture, and their relevance in today's world. The Wilhelm-Hack-Museum is not merely a place to view art; it is an active participant in the cultural dialogue of its time, making it indispensable to the local and regional community.
+In addition to its collection, the museum's commitment to public engagement and education underscores its significance. It serves as a meeting point for artists, scholars, and the public, stimulating discussions about art, culture, and their relevance in today's world. The Wilhelm-Hack-Museum is not merely a place to view art; it is an active participant in the cultural dialogue of its time, making it indispensable to the local and regional community.
 
 ## Architecture and Features
 
@@ -74,7 +74,7 @@ To avoid crowds, visit during weekdays, especially in the morning, when the muse
 
 ## Practical Information
 
-When planning your visit, it’s advisable to wear comfortable clothing and shoes, as you may spend a significant amount of time walking through the galleries and exploring the museum's features. Seasonal considerations should also be taken into account; during the warmer months, the museum may have extended hours or special events that cater to outdoor activities.
+When planning your visit, it's advisable to wear comfortable clothing and shoes, as you may spend a significant amount of time walking through the galleries and exploring the museum's features. Seasonal considerations should also be taken into account; during the warmer months, the museum may have extended hours or special events that cater to outdoor activities.
 
 Be sure to check the official website for any updates on exhibitions, events, and specific visitor guidelines. Bringing a refillable water bottle is a good idea, especially if you plan to spend a few hours at the museum and nearby attractions.
 

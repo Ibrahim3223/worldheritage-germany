@@ -36,7 +36,7 @@ The history of Castle Friedlingen is woven into the broader tapestry of the regi
 
 Throughout its existence, Castle Friedlingen has witnessed numerous historical events and changes in ownership, each contributing to its legacy. Its role in regional politics and defense strategies underscores its significance as a military fortification in a time when such structures were crucial for safeguarding territories. The castle's architecture also embodies the evolution of castle design, illustrating shifts in military needs and domestic life over the centuries.
 
-Today, Castle Friedlingen is not only a remnant of the past but also a symbol of cultural heritage. It stands as a reminder of the region’s complex history, where various nations and cultures intersected. Visitors to the castle can appreciate its historical context, which encompasses a rich narrative tied to the broader developments in Germany and Europe.
+Today, Castle Friedlingen is not only a remnant of the past but also a symbol of cultural heritage. It stands as a reminder of the region's complex history, where various nations and cultures intersected. Visitors to the castle can appreciate its historical context, which encompasses a rich narrative tied to the broader developments in Germany and Europe.
 
 ## Architecture and Features
 
@@ -109,7 +109,7 @@ Check the official website for detailed information on accessibility options.
 Ticket purchase options may vary; check the official website for online ticketing information.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to confirm through the official website before your visit.
+Facilities may be available on-site, but it's advisable to confirm through the official website before your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear suitable for walking are recommended, along with layers for temperature fluctuations.

@@ -74,7 +74,7 @@ When visiting St. Cyriakus, consider bringing a camera to capture the architectu
 
 ## Practical Information
 
-As you prepare for your visit to St. Cyriakus, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a light jacket, especially for cooler days. The church is often cooler inside than outside, so dressing in layers is a practical choice. 
+As you prepare for your visit to St. Cyriakus, it's advisable to bring along essentials such as water, comfortable walking shoes, and a light jacket, especially for cooler days. The church is often cooler inside than outside, so dressing in layers is a practical choice. 
 
 Keep in mind the seasonal considerations when planning your visit. Spring and autumn provide ideal weather conditions for exploration, while summer months may attract more tourists. Regardless of when you visit, be sure to check the official website for any seasonal events or special services that may be taking place during your stay.
 

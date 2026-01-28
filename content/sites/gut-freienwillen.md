@@ -62,7 +62,7 @@ While visiting Gut Freienwillen, there are several nearby attractions that can e
 
 3. **Schleswig-Holstein Wadden Sea National Park**: A UNESCO World Heritage site, the park is renowned for its unique marine ecosystem and offers various nature trails and viewpoints.
 
-4. **Historisches Museum Schleswig**: Located a short distance away, this museum provides a comprehensive overview of the region’s history, featuring artifacts and exhibitions.
+4. **Historisches Museum Schleswig**: Located a short distance away, this museum provides a comprehensive overview of the region's history, featuring artifacts and exhibitions.
 
 5. **Fjord of Flensburg**: This picturesque fjord presents a stunning natural landscape, ideal for outdoor enthusiasts and those looking to experience local wildlife.
 
@@ -104,4 +104,4 @@ Details about facilities such as restrooms and cafes should be confirmed through
 ### What should I wear?
 Dress comfortably and seasonally appropriate, with comfortable walking shoes recommended for exploring the grounds.
 
-In summary, a visit to Gut Freienwillen offers insight into the architectural elegance and cultural significance of German manor houses within the serene landscape of Langballig. Whether you’re a history enthusiast or simply seeking a peaceful place to unwind, this site is a worthwhile addition to your travel itinerary.
+In summary, a visit to Gut Freienwillen offers insight into the architectural elegance and cultural significance of German manor houses within the serene landscape of Langballig. Whether you're a history enthusiast or simply seeking a peaceful place to unwind, this site is a worthwhile addition to your travel itinerary.

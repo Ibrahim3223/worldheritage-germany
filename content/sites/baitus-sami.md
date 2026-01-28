@@ -36,7 +36,7 @@ Baitus Sami holds considerable cultural importance within the context of Hanover
 
 The establishment of mosques like Baitus Sami is part of a wider trend in Germany, where the Muslim population has increased over the decades. This mosque caters to a diverse group of worshippers, providing not only a place for prayer but also a venue for educational programs, cultural events, and community gatherings. These functions help foster understanding and tolerance among different cultural and religious groups.
 
-As a center of interfaith dialogue, Baitus Sami is involved in various outreach programs aimed at bridging cultural divides and promoting mutual respect. The mosque’s commitment to community service and education exemplifies the positive role that religious institutions can play in contemporary society. By hosting events that encourage cooperation and understanding, Baitus Sami contributes to the cultural richness of Hanover and the greater region.
+As a center of interfaith dialogue, Baitus Sami is involved in various outreach programs aimed at bridging cultural divides and promoting mutual respect. The mosque's commitment to community service and education exemplifies the positive role that religious institutions can play in contemporary society. By hosting events that encourage cooperation and understanding, Baitus Sami contributes to the cultural richness of Hanover and the greater region.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ When visiting Baitus Sami, keep a few insider tips in mind to enhance your exper
 
 Before your visit to Baitus Sami, consider the following practical information to ensure a smooth experience:
 
-- **What to Bring**: Carry a small bag for personal items, and consider bringing a water bottle. It’s also wise to have a light jacket or sweater, as indoor spaces can vary in temperature.
+- **What to Bring**: Carry a small bag for personal items, and consider bringing a water bottle. It's also wise to have a light jacket or sweater, as indoor spaces can vary in temperature.
 
 - **Seasonal Considerations**: Depending on the season, be prepared for weather fluctuations. In winter, dress warmly, while summer may require light clothing. Always check the forecast before your visit.
 

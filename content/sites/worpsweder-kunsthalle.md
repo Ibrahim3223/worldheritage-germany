@@ -52,7 +52,7 @@ In addition to the exhibition spaces, the Kunsthalle may offer areas for reflect
 
 ## Visiting Information
 
-Visiting the Worpsweder Kunsthalle offers a unique opportunity to engage with contemporary art in a vibrant setting. To reach the museum, visitors can utilize various modes of transport, including local buses or trains, which connect Worpswede to larger cities in the region. For those driving, parking options may be available nearby, but it’s advisable to check local information to ensure convenience.
+Visiting the Worpsweder Kunsthalle offers a unique opportunity to engage with contemporary art in a vibrant setting. To reach the museum, visitors can utilize various modes of transport, including local buses or trains, which connect Worpswede to larger cities in the region. For those driving, parking options may be available nearby, but it's advisable to check local information to ensure convenience.
 
 Before planning your visit, it is important to check the official website for current information regarding opening hours and ticket prices. The museum typically welcomes visitors throughout the week, but specific days and hours may vary, especially during holidays or special events. As for the time needed to fully enjoy the Kunsthalle, most visitors find that two hours allow for a thorough exploration of the exhibitions and a chance to engage with the museum's offerings.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Worpsweder Kunsthalle, keep the following p
 
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather, especially if you plan to explore the outdoor areas around the museum. 
 
-- **Amenities**: While details about amenities are not specified, it’s advisable to check for available facilities such as restrooms and cafes to ensure a comfortable visit.
+- **Amenities**: While details about amenities are not specified, it's advisable to check for available facilities such as restrooms and cafes to ensure a comfortable visit.
 
 ## Frequently Asked Questions
 

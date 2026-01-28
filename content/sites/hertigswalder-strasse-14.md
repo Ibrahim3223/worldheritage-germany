@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Hertigswalder Straße 14 in Sebnitz is a captivating museum that showcases the architectural style and cultural heritage of the Upper Lusatian region in Germany. Located in the picturesque town of Sebnitz, known for its scenic landscapes and charming old town, this museum serves as a vital resource for understanding the area’s history and traditions. Visitors to this site can expect a unique exploration of local life, craftsmanship, and the evolution of architecture in this part of Germany.
+Hertigswalder Straße 14 in Sebnitz is a captivating museum that showcases the architectural style and cultural heritage of the Upper Lusatian region in Germany. Located in the picturesque town of Sebnitz, known for its scenic landscapes and charming old town, this museum serves as a vital resource for understanding the area's history and traditions. Visitors to this site can expect a unique exploration of local life, craftsmanship, and the evolution of architecture in this part of Germany.
 
 The significance of Hertigswalder Straße 14 extends beyond its walls; it reflects the broader narrative of Upper Lusatia, a cultural region that has been shaped by various influences over centuries. The museum is an engaging destination for anyone interested in learning about the local customs and the architectural lineage that defines this unique corner of the country. Whether you're an architecture enthusiast, a history buff, or simply curious about the local culture, the museum promises an enlightening experience.
 
 ## History and Significance
 
-The area surrounding Hertigswalder Straße 14 has a rich historical context that plays an integral role in the fabric of Sebnitz. The museum itself is housed in a traditional Upper Lusatian house, a structure that exemplifies the architectural styles prevalent in this region. These houses have historically been characterized by their distinctive wooden frames and picturesque facades, which have been preserved and celebrated through the museum’s exhibits.
+The area surrounding Hertigswalder Straße 14 has a rich historical context that plays an integral role in the fabric of Sebnitz. The museum itself is housed in a traditional Upper Lusatian house, a structure that exemplifies the architectural styles prevalent in this region. These houses have historically been characterized by their distinctive wooden frames and picturesque facades, which have been preserved and celebrated through the museum's exhibits.
 
 Upper Lusatia has a diverse cultural heritage influenced by various populations and historical events. The region has been inhabited since prehistoric times, with significant settlements emerging during the Middle Ages. Over the centuries, the area has seen the rise and fall of different political entities, each leaving an imprint on local traditions and architectural styles. The museum at Hertigswalder Straße 14 plays a crucial role in preserving this local heritage, offering insights into traditional crafts, domestic life, and the evolution of the community.
 

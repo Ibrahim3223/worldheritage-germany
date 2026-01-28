@@ -82,7 +82,7 @@ To avoid the busiest times, consider attending performances during weekdays rath
 
 ## Practical Information
 
-When preparing for your visit to the Großes Schauspielhaus, it’s advisable to bring along essentials such as a valid form of identification, especially if you are purchasing tickets at the venue. Depending on the season, consider dressing in layers, as theatre interiors can vary in temperature.
+When preparing for your visit to the Großes Schauspielhaus, it's advisable to bring along essentials such as a valid form of identification, especially if you are purchasing tickets at the venue. Depending on the season, consider dressing in layers, as theatre interiors can vary in temperature.
 
 Additionally, check the official website for information regarding seasonal performances or special events that may enhance your visit. Being aware of any potential restrictions or guidelines for visitors will ensure a smooth experience.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Loburg, a captivating castle located in the Möckern region of Germany, invites visitors to explore its storied past and architectural charm. Situated at coordinates 52.1111, 12.0697, this castle offers a glimpse into the historical landscape of the region. Its significance is not just in its physical structure but also in the cultural narratives that have unfolded within its walls over the centuries. As you approach Burg Loburg, you will find yourself immersed in an atmosphere that reflects the spirit of its time, making it a compelling destination for history enthusiasts and casual travelers alike.
 
-Burg Loburg stands as a noteworthy example of medieval architecture, inviting exploration and reflection. The castle’s enduring presence in the region highlights its cultural importance, serving as a silent witness to the events that have shaped the area. Whether you're an aficionado of historical sites or simply curious about the past, Burg Loburg promises an enriching experience that connects you with the heritage of Germany.
+Burg Loburg stands as a noteworthy example of medieval architecture, inviting exploration and reflection. The castle's enduring presence in the region highlights its cultural importance, serving as a silent witness to the events that have shaped the area. Whether you're an aficionado of historical sites or simply curious about the past, Burg Loburg promises an enriching experience that connects you with the heritage of Germany.
 
 ## History and Significance
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Herzogin-Agnes-Gedächtniskirche, a church building located in Altenburg, Thuringia, Germany, is a notable place of worship and a significant part of the region’s cultural landscape. This church is named in honor of Duchess Agnes, symbolizing the rich heritage and religious devotion that has characterized the area for centuries. As visitors approach, they are greeted by the church's architectural elegance, which stands as a reminder of the past while serving the spiritual needs of the local community. 
+The Herzogin-Agnes-Gedächtniskirche, a church building located in Altenburg, Thuringia, Germany, is a notable place of worship and a significant part of the region's cultural landscape. This church is named in honor of Duchess Agnes, symbolizing the rich heritage and religious devotion that has characterized the area for centuries. As visitors approach, they are greeted by the church's architectural elegance, which stands as a reminder of the past while serving the spiritual needs of the local community. 
 
 Altenburg, known for its historical significance, offers a backdrop that enhances the experience of visiting the Herzogin-Agnes-Gedächtniskirche. This charming town is steeped in history, with roots that date back to the medieval era. The church itself is not only a place of worship but also a venue for cultural events, making it a vibrant part of the community. Whether you are drawn by religious interest, architectural beauty, or historical curiosity, a visit to this church promises to be an enriching experience.
 
@@ -73,7 +73,7 @@ To make the most of your visit to the Herzogin-Agnes-Gedächtniskirche, consider
 
 ## Practical Information
 
-When planning your visit, it’s essential to prepare adequately for your experience at the Herzogin-Agnes-Gedächtniskirche:
+When planning your visit, it's essential to prepare adequately for your experience at the Herzogin-Agnes-Gedächtniskirche:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. Consider bringing a camera for photography and a notebook if you enjoy jotting down thoughts or observations.
 - **Seasonal Considerations**: Be mindful of the local climate and dress accordingly. In colder months, layers may be necessary, while warmer months might call for lighter clothing. 

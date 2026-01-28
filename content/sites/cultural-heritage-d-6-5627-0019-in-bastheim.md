@@ -26,7 +26,7 @@ The significance of this fortification extends beyond its physical presence; it 
 
 ## History and Significance
 
-The fortification in Bastheim, designated as Cultural Heritage D-6-5627-0019, serves as a vital reminder of the region’s historical landscape and military significance. Its precise origins are not detailed, but fortifications such as this one have historically played crucial roles in safeguarding territories and asserting control over regions.
+The fortification in Bastheim, designated as Cultural Heritage D-6-5627-0019, serves as a vital reminder of the region's historical landscape and military significance. Its precise origins are not detailed, but fortifications such as this one have historically played crucial roles in safeguarding territories and asserting control over regions.
 
 Throughout history, Bastheim has been influenced by various powers and events, which have shaped the architectural landscape of the area. The fortification likely served as a defensive structure during tumultuous periods, reflecting the strategic importance of controlling key routes and settlements. This site provides a lens through which visitors can understand the broader context of military architecture in Bavaria and its role in regional defense strategies.
 
@@ -74,7 +74,7 @@ For those planning to photograph Cultural heritage D-6-5627-0019, consider visit
 
 To avoid crowds, aim for visits during weekdays and outside of peak tourist seasons. This will allow for a more personal experience while you explore the fortification and its surroundings.
 
-Be sure to bring a good pair of walking shoes, as the terrain around the fortification may vary. If you’re interested in capturing the site in the best light, a tripod could be beneficial. 
+Be sure to bring a good pair of walking shoes, as the terrain around the fortification may vary. If you're interested in capturing the site in the best light, a tripod could be beneficial. 
 
 ## Practical Information
 

@@ -42,7 +42,7 @@ Moreover, the theatre's intimate setting enhances the connection between the per
 
 ## Architecture and Features
 
-Theater im Zimmer is characterized by its distinctive layout and intimate design. While specific architectural details are not provided, the theatre’s configuration typically encourages close interaction between the audience and performers, enhancing the overall experience. Such environments foster a sense of intimacy that is particularly valuable in theatrical performances, allowing for a deeper emotional connection to the material presented.
+Theater im Zimmer is characterized by its distinctive layout and intimate design. While specific architectural details are not provided, the theatre's configuration typically encourages close interaction between the audience and performers, enhancing the overall experience. Such environments foster a sense of intimacy that is particularly valuable in theatrical performances, allowing for a deeper emotional connection to the material presented.
 
 Inside, visitors can expect a cozy atmosphere, likely featuring comfortable seating arrangements that prioritize audience engagement. The design often incorporates flexible staging options, enabling a variety of performance styles, from traditional plays to avant-garde productions. This adaptability showcases the theatre's commitment to innovation and creativity, allowing it to remain relevant in a constantly changing artistic landscape.
 
@@ -62,7 +62,7 @@ While visiting Theater im Zimmer, take the opportunity to explore the surroundin
 
 1. **Colonnaden**: A charming shopping street featuring a mix of boutiques, cafes, and restaurants, perfect for a leisurely stroll before or after a performance.
   
-2. **Hamburg State Opera**: Located nearby, this prestigious venue offers a range of operatic performances and is a cornerstone of Hamburg’s rich cultural life.
+2. **Hamburg State Opera**: Located nearby, this prestigious venue offers a range of operatic performances and is a cornerstone of Hamburg's rich cultural life.
 
 3. **Museum für Kunst und Gewerbe**: A short distance away, this museum showcases a wide array of decorative arts and design, offering insights into the artistic heritage of the region.
 

@@ -68,9 +68,9 @@ While Sankt Sakrament is a focal point in its own right, the surrounding area of
 
 ## Insider Tips
 
-To make the most of your visit to Sankt Sakrament, consider timing your visit during non-peak hours, typically in the morning or late afternoon, to enjoy a quieter experience. If you're interested in photography, take advantage of natural light, especially during the golden hour, to capture the church’s architecture beautifully. 
+To make the most of your visit to Sankt Sakrament, consider timing your visit during non-peak hours, typically in the morning or late afternoon, to enjoy a quieter experience. If you're interested in photography, take advantage of natural light, especially during the golden hour, to capture the church's architecture beautifully. 
 
-Respect the sacred nature of the space by maintaining a low volume and being mindful of ongoing services or events. Engaging with local attendees can also enhance your experience, offering personal stories and insights into the church’s role in the community.
+Respect the sacred nature of the space by maintaining a low volume and being mindful of ongoing services or events. Engaging with local attendees can also enhance your experience, offering personal stories and insights into the church's role in the community.
 
 ## Practical Information
 

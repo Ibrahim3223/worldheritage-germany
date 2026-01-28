@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Walhalla-Theater, a notable former movie theater located in the Bezirk Mitte district of Berlin, invites visitors into a world where film and history intertwine. This site, rich with cultural significance, reflects a vibrant chapter of Berlin’s cinematic past. Located in the heart of the city, the theater is easily accessible, making it an intriguing stop for both history enthusiasts and those interested in the evolution of entertainment. The Walhalla-Theater is emblematic of Berlin's artistic heritage, offering insight into the city's storied relationship with the performing arts and its transition through various historical epochs.
+The Walhalla-Theater, a notable former movie theater located in the Bezirk Mitte district of Berlin, invites visitors into a world where film and history intertwine. This site, rich with cultural significance, reflects a vibrant chapter of Berlin's cinematic past. Located in the heart of the city, the theater is easily accessible, making it an intriguing stop for both history enthusiasts and those interested in the evolution of entertainment. The Walhalla-Theater is emblematic of Berlin's artistic heritage, offering insight into the city's storied relationship with the performing arts and its transition through various historical epochs.
 
-As you explore this landmark, you will uncover the stories that shaped its existence, becoming part of a narrative that extends beyond the screen. The theater not only reflects the artistic movements of its time but also serves as a reminder of the communal experiences that cinemas have historically provided, making it a relevant point of interest in today’s urban landscape.
+As you explore this landmark, you will uncover the stories that shaped its existence, becoming part of a narrative that extends beyond the screen. The theater not only reflects the artistic movements of its time but also serves as a reminder of the communal experiences that cinemas have historically provided, making it a relevant point of interest in today's urban landscape.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Walhalla-Theater has a rich history that mirrors the evolution of cinema its
 
 The building's transformation and longevity reflect broader changes in society, particularly in the realm of entertainment. Throughout its history, the Walhalla-Theater has witnessed the rise and fall of various cinematic trends, from silent films to the golden age of cinema, and beyond. As Berlin experienced tumultuous periods through the 20th century, including the impact of two World Wars and the Cold War, the theater remained a constant, a place where people could escape reality through film.
 
-The Walhalla-Theater also stands as a cultural landmark, representing the resilience of the arts in times of upheaval. It has served as a gathering space for film enthusiasts, local artists, and the community, contributing to the cultural fabric of Berlin. While the theater’s operational status may have changed over time, its legacy continues to resonate, making it a point of interest for those exploring the historical significance of cinema in urban settings.
+The Walhalla-Theater also stands as a cultural landmark, representing the resilience of the arts in times of upheaval. It has served as a gathering space for film enthusiasts, local artists, and the community, contributing to the cultural fabric of Berlin. While the theater's operational status may have changed over time, its legacy continues to resonate, making it a point of interest for those exploring the historical significance of cinema in urban settings.
 
 ## Architecture and Features
 
@@ -70,7 +70,7 @@ When visiting the Walhalla-Theater, consider bringing a camera to capture the ar
 
 ## Practical Information
 
-When preparing for your visit to the Walhalla-Theater, it’s wise to bring a small bag with essentials, such as a camera, a bottle of water, and perhaps a guidebook or notebook for jotting down insights. Seasonal considerations may also affect your visit; dress comfortably, and be prepared for varying weather conditions, especially if you plan to explore the surrounding areas.
+When preparing for your visit to the Walhalla-Theater, it's wise to bring a small bag with essentials, such as a camera, a bottle of water, and perhaps a guidebook or notebook for jotting down insights. Seasonal considerations may also affect your visit; dress comfortably, and be prepared for varying weather conditions, especially if you plan to explore the surrounding areas.
 
 ## Frequently Asked Questions
 
@@ -78,7 +78,7 @@ When preparing for your visit to the Walhalla-Theater, it’s wise to bring a sm
 Plan to spend about two to three hours at the Walhalla-Theater, including time for exploration and reflection on its historical significance.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival or consult the official website before your visit.
+Photography policies may vary, so it's best to check upon arrival or consult the official website before your visit.
 
 ### Are there guided tours?
 Information regarding guided tours may not be available; check the official website for any special programming.

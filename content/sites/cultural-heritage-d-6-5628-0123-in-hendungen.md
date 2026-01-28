@@ -64,7 +64,7 @@ While visiting Cultural heritage D-6-5628-0123, consider exploring these nearby 
 
 For those planning a visit to Cultural heritage D-6-5628-0123, consider these insider tips to enhance your experience:
 
-- **Photography**: While capturing the fortification’s grandeur, be mindful of lighting conditions. Early morning or late afternoon often yields the best natural light for photography.
+- **Photography**: While capturing the fortification's grandeur, be mindful of lighting conditions. Early morning or late afternoon often yields the best natural light for photography.
 - **Crowd Avoidance**: To avoid the busiest times, consider visiting on weekdays or during off-peak hours. This allows for a more intimate experience with the site and its surroundings.
 
 ## Practical Information

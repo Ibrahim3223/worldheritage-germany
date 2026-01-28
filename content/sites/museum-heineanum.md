@@ -40,7 +40,7 @@ Through its exhibitions, Museum Heineanum contributes to the understanding of ho
 
 ## Architecture and Features
 
-The architectural style of Museum Heineanum is reflective of the region's historical significance, although specific details about the building's design and layout are not provided. Visitors can expect a structure that harmonizes with Halberstadt’s aesthetic, potentially featuring elements typical of German museum architecture.
+The architectural style of Museum Heineanum is reflective of the region's historical significance, although specific details about the building's design and layout are not provided. Visitors can expect a structure that harmonizes with Halberstadt's aesthetic, potentially featuring elements typical of German museum architecture.
 
 Inside, the museum is likely arranged to facilitate an intuitive flow of movement between exhibitions. The layout may include dedicated spaces for permanent collections, temporary exhibitions, and educational programs, creating a dynamic environment for learning and discovery. The use of light, color, and space within the museum enhances the visitor experience, inviting exploration and curiosity.
 

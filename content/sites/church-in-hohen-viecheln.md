@@ -52,7 +52,7 @@ For those planning a visit to the Church in Hohen Viecheln, accessibility and tr
 
 When visiting, expect a serene atmosphere where you can take time to explore the church and its surroundings. A visit may require approximately one to two hours, allowing ample time to appreciate the architecture and reflect on the significance of the site. The best times to visit are typically during weekdays or off-peak hours to avoid larger crowds, ensuring a more intimate experience.
 
-It’s advisable to check local weather conditions before your visit, as seasonal changes can affect the experience. Depending on the time of year, you may also want to plan for varying daylight hours.
+It's advisable to check local weather conditions before your visit, as seasonal changes can affect the experience. Depending on the time of year, you may also want to plan for varying daylight hours.
 
 ## Nearby Attractions
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Church in Hohen Viecheln, consider the foll
 A visit to the Church in Hohen Viecheln typically requires about one to two hours to appreciate the architecture and reflect on its significance.
 
 ### Is photography allowed?  
-While photography may be allowed, it’s essential to respect the sacred nature of the church. Look for any posted signs regarding photography guidelines.
+While photography may be allowed, it's essential to respect the sacred nature of the church. Look for any posted signs regarding photography guidelines.
 
 ### Are there guided tours?  
 Check the official website for information on whether guided tours are available, as this may vary based on the time of year or specific events.
@@ -106,10 +106,10 @@ The best times to visit are usually during weekdays or early mornings to avoid l
 Check the official website for information on accessibility options, as this can vary by location.
 
 ### Can I buy tickets online?  
-Ticketing options may vary; it’s best to check the official website for current information on entry fees and purchasing options.
+Ticketing options may vary; it's best to check the official website for current information on entry fees and purchasing options.
 
 ### Are there restrooms and cafes?  
-Facilities such as restrooms and cafes may be available nearby, but it’s advisable to confirm on your visit to ensure convenience.
+Facilities such as restrooms and cafes may be available nearby, but it's advisable to confirm on your visit to ensure convenience.
 
 ### What should I wear?  
 Dress respectfully, considering that the church is a place of worship. Comfortable footwear is recommended for exploring the area.

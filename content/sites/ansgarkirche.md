@@ -76,7 +76,7 @@ To avoid larger crowds, consider visiting during weekdays or early in the mornin
 
 ## Practical Information
 
-When visiting Ansgarkirche, it’s advisable to dress modestly, respecting the sanctity of the space. Comfortable shoes are recommended, as you may wish to explore the surrounding area after your visit. 
+When visiting Ansgarkirche, it's advisable to dress modestly, respecting the sanctity of the space. Comfortable shoes are recommended, as you may wish to explore the surrounding area after your visit. 
 
 Seasonal considerations may play a role in your planning; Hamburg experiences a maritime climate, so check the local weather forecast to dress accordingly. Umbrellas or light jackets may be necessary during the wetter months, while summer visits may require sun protection.
 
@@ -86,7 +86,7 @@ Seasonal considerations may play a role in your planning; Hamburg experiences a 
 Most visitors find that spending about an hour at Ansgarkirche is sufficient to appreciate its architecture and atmosphere.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to be respectful during worship services.
+Photography is generally allowed, but it's best to be respectful during worship services.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not provided. Check the official website for potential offerings.
@@ -101,7 +101,7 @@ The accessibility of Ansgarkirche has not been specified. It is advisable to che
 Information regarding online ticket purchases is not provided. Check the official website for current ticketing options.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not mentioned. It’s a good idea to check the official website for available facilities.
+Specific amenities such as restrooms and cafes are not mentioned. It's a good idea to check the official website for available facilities.
 
 ### What should I wear?
 Modest clothing is recommended to respect the sanctity of the church, along with comfortable shoes for exploring the surrounding area.

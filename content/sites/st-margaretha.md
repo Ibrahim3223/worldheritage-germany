@@ -42,7 +42,7 @@ In addition to its role as a religious structure, St. Margaretha may also have p
 
 St. Margaretha's architectural style is representative of the church buildings found in the Cologne region. Although specific details about the design and layout are not provided, church buildings in this area typically feature elements that resonate with both Gothic and Romanesque influences. Visitors can expect to see characteristic features such as pointed arches, intricate stained glass windows, and possibly a bell tower that enhances its silhouette against the skyline.
 
-Inside, the church may hold significant artworks, including altarpieces and sculptures that contribute to its spiritual atmosphere. The interior design often aims to inspire reflection and reverence, with an emphasis on light and space that guides the visitor’s experience. The church's furnishings, such as pews and altar, likely reflect the community's devotion and artistic sensibilities.
+Inside, the church may hold significant artworks, including altarpieces and sculptures that contribute to its spiritual atmosphere. The interior design often aims to inspire reflection and reverence, with an emphasis on light and space that guides the visitor's experience. The church's furnishings, such as pews and altar, likely reflect the community's devotion and artistic sensibilities.
 
 As a church building, St. Margaretha serves not only as a physical space for worship but also as a canvas for artistic expression and cultural storytelling. The combination of its architectural features and the community's history makes it an important site for understanding the regional heritage.
 

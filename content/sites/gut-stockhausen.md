@@ -96,7 +96,7 @@ When preparing for your visit to Gut Stockhausen, here are some practical consid
 A visit to Gut Stockhausen typically takes around 2 to 3 hours, allowing ample time to explore the manor and its grounds. 
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific restrictions on taking photographs inside the manor house.
+Photography policies may vary, so it's best to check for any specific restrictions on taking photographs inside the manor house.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, which may provide deeper insights into the history and architecture of the manor.

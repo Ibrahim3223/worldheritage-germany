@@ -28,15 +28,15 @@ image_srcset:
 
 The Alexander Nevsky Memorial Church in Potsdam, Germany, offers visitors a unique glimpse into the city's cultural and religious heritage. This striking church, dedicated to the revered Russian prince and military leader Alexander Nevsky, stands as a symbol of the historical ties between Russia and Germany. Located in a picturesque setting, the church attracts not only the faithful but also those interested in architecture and history. Its serene ambiance provides a peaceful escape from the hustle and bustle of urban life, making it a worthwhile stop for travelers exploring Potsdam's diverse offerings.
 
-Potsdam, positioned just outside Berlin, has long been a hub of political and cultural significance. The Alexander Nevsky Memorial Church adds a layer of depth to the city's narrative, representing the intricate relationship between the two nations, especially during the 19th century. Visitors to the area will find that the church’s strong architectural presence and tranquil surroundings invite contemplation and appreciation for both its religious significance and its artistic merit.
+Potsdam, positioned just outside Berlin, has long been a hub of political and cultural significance. The Alexander Nevsky Memorial Church adds a layer of depth to the city's narrative, representing the intricate relationship between the two nations, especially during the 19th century. Visitors to the area will find that the church's strong architectural presence and tranquil surroundings invite contemplation and appreciation for both its religious significance and its artistic merit.
 
-Whether you are drawn by the church’s historical context, its architectural beauty, or simply the desire for a moment of reflection, the Alexander Nevsky Memorial Church promises a fulfilling experience that resonates with the rich heritage of Potsdam.
+Whether you are drawn by the church's historical context, its architectural beauty, or simply the desire for a moment of reflection, the Alexander Nevsky Memorial Church promises a fulfilling experience that resonates with the rich heritage of Potsdam.
 
 ## History and Significance
 
 The Alexander Nevsky Memorial Church is not just a church building; it represents a significant chapter in the cultural exchange between Russia and Germany. The church was constructed in the late 19th century, a period marked by increasing diplomatic and cultural ties between the two nations. Named after Alexander Nevsky, a key figure in Russian history known for his military prowess and leadership, the church serves as a memorial to the Russian soldiers who lost their lives during World War I and the subsequent conflicts.
 
-The church’s establishment was also a reflection of the Russian community living in Potsdam at the time, which was largely comprised of émigrés and diplomats. It became a center for the Eastern Orthodox faith in Germany, serving not only as a place of worship but also as a cultural hub for Russian traditions and practices. The church has played a vital role in maintaining the spiritual and cultural identity of the Russian diaspora, making it an important landmark in both Potsdam and the broader context of Russian heritage in Europe.
+The church's establishment was also a reflection of the Russian community living in Potsdam at the time, which was largely comprised of émigrés and diplomats. It became a center for the Eastern Orthodox faith in Germany, serving not only as a place of worship but also as a cultural hub for Russian traditions and practices. The church has played a vital role in maintaining the spiritual and cultural identity of the Russian diaspora, making it an important landmark in both Potsdam and the broader context of Russian heritage in Europe.
 
 Over the years, the Alexander Nevsky Memorial Church has hosted various religious services, cultural events, and community gatherings, reinforcing its significance as a pivotal institution within both the local and expatriate communities. Its role as a memorial and a place of worship has made it a focal point for remembrance and reflection, contributing to the historical narrative of both Germany and Russia.
 
@@ -46,7 +46,7 @@ The architectural design of the Alexander Nevsky Memorial Church is a noteworthy
 
 One of the most prominent features of the church is its distinctive dome structure, which is crowned with a golden cross. This not only enhances the church's silhouette against the skyline but also serves to symbolize its religious significance. The use of vibrant colors and detailed frescoes inside the church captures the essence of Russian Orthodox artistry, offering visitors a glimpse into the spiritual and cultural richness of the faith.
 
-Inside, the church is adorned with a variety of religious icons and artistic decorations that reflect the traditions of Eastern Orthodox worship. The interior’s ambiance is designed to evoke a sense of peace and reverence, making it a conducive space for prayer and contemplation. The church's architectural elements, combined with its artistic features, create an environment that is both inspiring and inviting.
+Inside, the church is adorned with a variety of religious icons and artistic decorations that reflect the traditions of Eastern Orthodox worship. The interior's ambiance is designed to evoke a sense of peace and reverence, making it a conducive space for prayer and contemplation. The church's architectural elements, combined with its artistic features, create an environment that is both inspiring and inviting.
 
 ## Visiting Information
 
@@ -78,9 +78,9 @@ To avoid crowds, try to visit during weekdays or early in the morning. This not 
 
 ## Practical Information
 
-When preparing for your visit to the Alexander Nevsky Memorial Church, it’s helpful to bring a few essentials. Comfortable walking shoes are recommended, as you may find yourself exploring the surrounding area. Depending on the season, you might also want to dress in layers, as temperatures can vary throughout the day.
+When preparing for your visit to the Alexander Nevsky Memorial Church, it's helpful to bring a few essentials. Comfortable walking shoes are recommended, as you may find yourself exploring the surrounding area. Depending on the season, you might also want to dress in layers, as temperatures can vary throughout the day.
 
-If you plan to attend a service or event, it’s courteous to dress modestly, respecting the traditions of the Orthodox faith. Seasonal considerations, such as Christmas or Easter, may offer unique opportunities to experience the church’s community events, so check the official website for any special programming during these times.
+If you plan to attend a service or event, it's courteous to dress modestly, respecting the traditions of the Orthodox faith. Seasonal considerations, such as Christmas or Easter, may offer unique opportunities to experience the church's community events, so check the official website for any special programming during these times.
 
 ## Frequently Asked Questions
 

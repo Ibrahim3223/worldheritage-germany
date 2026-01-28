@@ -78,7 +78,7 @@ To avoid larger crowds, consider visiting during weekdays or outside of peak tou
 
 When visiting Lehnberg, it's advisable to wear comfortable, sturdy footwear, particularly if you plan to hike. Weather conditions can change rapidly, so layering clothing is recommended to accommodate varying temperatures.
 
-Bringing water and snacks is essential, as amenities may be limited in the area. A small backpack can help carry these items comfortably. It’s also wise to have a basic first-aid kit, especially if you plan to explore the trails extensively.
+Bringing water and snacks is essential, as amenities may be limited in the area. A small backpack can help carry these items comfortably. It's also wise to have a basic first-aid kit, especially if you plan to explore the trails extensively.
 
 Seasonal considerations are important; spring and autumn offer mild weather ideal for hiking, while summer can be warm and crowded. Winter visits require appropriate gear, including warm clothing and possibly traction devices for icy paths.
 

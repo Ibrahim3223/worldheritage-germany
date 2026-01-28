@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Landhausstraße 6 is a notable palace located in the vibrant city of Dresden, Saxony, Germany. This architectural gem adds to the rich tapestry of the city’s historical landscape, reflecting the grandeur and elegance that characterize the region's heritage. Positioned within a city renowned for its cultural significance, Landhausstraße 6 is part of an area that has witnessed significant historical events and transformations. This location not only serves as a residence but also stands as a reminder of Dresden's illustrious past, making it a must-visit for those interested in architectural beauty and history. Visitors to this site can engage with the layers of culture that enhance the experience of exploring one of Germany's most captivating cities.
+Landhausstraße 6 is a notable palace located in the vibrant city of Dresden, Saxony, Germany. This architectural gem adds to the rich tapestry of the city's historical landscape, reflecting the grandeur and elegance that characterize the region's heritage. Positioned within a city renowned for its cultural significance, Landhausstraße 6 is part of an area that has witnessed significant historical events and transformations. This location not only serves as a residence but also stands as a reminder of Dresden's illustrious past, making it a must-visit for those interested in architectural beauty and history. Visitors to this site can engage with the layers of culture that enhance the experience of exploring one of Germany's most captivating cities.
 
 ## History and Significance
 

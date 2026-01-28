@@ -60,7 +60,7 @@ Upon arrival, visitors can expect a welcoming space around the statue, ideal for
 
 In terms of time, a visit to the Weyhe-Denkmal can be tailored to fit into various itineraries. A brief stop to appreciate the statue may require only a few minutes, while those looking to delve deeper into its significance might spend an hour or more reflecting and taking photographs. The best times to visit typically coincide with early mornings or late afternoons when the light is softer, enhancing the overall experience.
 
-Visitors should also be mindful of seasonal considerations, as the environment around the statue may change throughout the year. Whether it’s the vibrant colors of spring flowers or the serene ambiance of winter, each season offers a unique backdrop for the Weyhe-Denkmal.
+Visitors should also be mindful of seasonal considerations, as the environment around the statue may change throughout the year. Whether it's the vibrant colors of spring flowers or the serene ambiance of winter, each season offers a unique backdrop for the Weyhe-Denkmal.
 
 ## Nearby Attractions
 

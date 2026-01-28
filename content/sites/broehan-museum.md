@@ -66,13 +66,13 @@ When visiting the Bröhan Museum, there are several nearby attractions that enha
 
 4. **Museum Berggruen**: Just a short walk from the Bröhan Museum, this museum focuses on modern art, featuring works by renowned artists such as Picasso and Klee.
 
-5. **Kaiser Wilhelm Memorial Church**: A short journey away, this iconic structure serves as a poignant reminder of Berlin’s history and offers visitors insight into the city’s resilience.
+5. **Kaiser Wilhelm Memorial Church**: A short journey away, this iconic structure serves as a poignant reminder of Berlin's history and offers visitors insight into the city's resilience.
 
 ## Insider Tips
 
 For the best experience at the Bröhan Museum, consider these insider tips:
 
-- **Photography**: While many museums have restrictions on photography, it’s best to check the museum's policy upon arrival. Be respectful of the artwork and fellow visitors when capturing moments.
+- **Photography**: While many museums have restrictions on photography, it's best to check the museum's policy upon arrival. Be respectful of the artwork and fellow visitors when capturing moments.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for mid-week visits or early opening hours. This can help you fully appreciate the exhibits without the hustle and bustle of larger crowds.
 
@@ -80,7 +80,7 @@ For the best experience at the Bröhan Museum, consider these insider tips:
 
 When planning your visit to the Bröhan Museum, consider the following practical tips:
 
-- **What to Bring**: A notepad or sketchbook can be useful for jotting down thoughts or inspirations while viewing the exhibits. Comfortable shoes are recommended due to the museum’s layout.
+- **What to Bring**: A notepad or sketchbook can be useful for jotting down thoughts or inspirations while viewing the exhibits. Comfortable shoes are recommended due to the museum's layout.
 
 - **Seasonal Considerations**: Berlin experiences distinct seasons, so dress accordingly. The museum is indoors, providing a welcome retreat from cold weather during winter months.
 

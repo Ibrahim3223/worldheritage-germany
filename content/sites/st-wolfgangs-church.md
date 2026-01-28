@@ -56,10 +56,10 @@ In addition to the church's interior, the surrounding area offers opportunities 
 
 While visiting St. Wolfgang's Church, consider exploring these nearby attractions:
 
-1. **Schneeberg Mining Museum**: Delve into the region’s mining history and its impact on local culture.
+1. **Schneeberg Mining Museum**: Delve into the region's mining history and its impact on local culture.
 2. **Waldkirchen**: A nearby village offering picturesque landscapes and pathways for hiking enthusiasts.
 3. **Pochwerk**: Explore this historical site that showcases traditional Erzgebirge craftsmanship.
-4. **Schneeberg Town Center**: Stroll through the town’s center to experience local shops and cafes.
+4. **Schneeberg Town Center**: Stroll through the town's center to experience local shops and cafes.
 5. **Kulturhaus Schneeberg**: A venue for various cultural events and performances, enriching your visit with local arts.
 
 ## Insider Tips

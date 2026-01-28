@@ -62,7 +62,7 @@ While visiting Stadttheater Amberg, take the opportunity to explore other nearby
 
 2. **St. Martin's Church**: This impressive Gothic church is a must-see, with its striking architecture and beautiful interior, showcasing the historical significance of religious structures in the area.
 
-3. **The City Wall**: Explore the remnants of Amberg’s medieval city wall, which offers insights into the town's past as a fortified settlement.
+3. **The City Wall**: Explore the remnants of Amberg's medieval city wall, which offers insights into the town's past as a fortified settlement.
 
 4. **The Amberg Museum**: Delve deeper into the local history and culture at this museum, which features exhibitions that highlight the town's development through the ages.
 

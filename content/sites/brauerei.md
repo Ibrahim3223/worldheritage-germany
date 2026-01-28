@@ -70,7 +70,7 @@ Photography enthusiasts should be mindful of any restrictions regarding photogra
 
 ## Practical Information
 
-When visiting the Brauerei, it’s advisable to wear comfortable clothing and shoes, as you may be exploring both indoor and outdoor areas. Depending on the season, layers are recommended to adjust to changing temperatures.
+When visiting the Brauerei, it's advisable to wear comfortable clothing and shoes, as you may be exploring both indoor and outdoor areas. Depending on the season, layers are recommended to adjust to changing temperatures.
 
 Visitors should also bring a reusable water bottle to stay hydrated, especially if sampling various brews. If you plan to attend any events or tastings, be sure to check the official website for any specific requirements or recommendations.
 

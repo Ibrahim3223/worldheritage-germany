@@ -30,7 +30,7 @@ The Gemeindebücherei Wiggensbach stands as a pivotal institution in the communi
 
 As a public library, Gemeindebücherei Wiggensbach fulfills essential roles that extend beyond providing books. It serves as a gathering place for various community events, workshops, and discussions, emphasizing its role in enhancing social cohesion. Additionally, the library often collaborates with local schools and organizations to promote reading and literacy initiatives, further solidifying its status as a central player in the educational landscape of Wiggensbach.
 
-The library’s collection likely reflects local interests and cultural themes, making it a resource for understanding the region's literature and history. By supporting local authors and hosting events, the Gemeindebücherei reinforces the importance of local culture and community identity. This commitment to cultural preservation and promotion underscores the library's significance in connecting past, present, and future generations.
+The library's collection likely reflects local interests and cultural themes, making it a resource for understanding the region's literature and history. By supporting local authors and hosting events, the Gemeindebücherei reinforces the importance of local culture and community identity. This commitment to cultural preservation and promotion underscores the library's significance in connecting past, present, and future generations.
 
 ## Architecture and Features
 

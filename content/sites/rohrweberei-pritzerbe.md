@@ -62,7 +62,7 @@ While exploring Pritzerbe, there are several nearby attractions that complement 
 
 1. **Havelsee**: A picturesque lake that offers opportunities for leisurely walks and picnics, making it a perfect spot for relaxation after visiting the museum.
 
-2. **St. Mary’s Church**: An architectural landmark in the area with a rich history, providing insight into the local culture and community.
+2. **St. Mary's Church**: An architectural landmark in the area with a rich history, providing insight into the local culture and community.
 
 3. **Pritzerbe Historic Mill**: An example of traditional milling techniques, this site showcases the historical significance of milling in the region.
 
@@ -82,7 +82,7 @@ For those planning a visit to Rohrweberei Pritzerbe, here are a few insider tips
 
 ## Practical Information
 
-When visiting Rohrweberei Pritzerbe, it’s advisable to bring along a few essentials to ensure a comfortable experience:
+When visiting Rohrweberei Pritzerbe, it's advisable to bring along a few essentials to ensure a comfortable experience:
 
 - **Comfortable Shoes**: Expect to do some walking, especially if you plan to explore the surrounding area.
 

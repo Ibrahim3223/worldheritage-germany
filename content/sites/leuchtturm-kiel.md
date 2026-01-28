@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Leuchtturm Kiel, a prominent lighthouse located in Schleswig-Holstein, Germany, stands as a vital navigational aid along the northern coast of the country. With its striking presence against the backdrop of the Baltic Sea, this lighthouse serves not only a practical purpose but also acts as a landmark for both mariners and visitors. The region itself is steeped in maritime heritage, making the Leuchtturm Kiel an important symbol of the area’s connection to the sea and its history of seafaring.
+The Leuchtturm Kiel, a prominent lighthouse located in Schleswig-Holstein, Germany, stands as a vital navigational aid along the northern coast of the country. With its striking presence against the backdrop of the Baltic Sea, this lighthouse serves not only a practical purpose but also acts as a landmark for both mariners and visitors. The region itself is steeped in maritime heritage, making the Leuchtturm Kiel an important symbol of the area's connection to the sea and its history of seafaring.
 
 Visitors to the lighthouse can expect to immerse themselves in a unique blend of natural beauty and cultural significance. The lighthouse is situated at coordinates 54.49972222, 10.27361111, an area that provides a stunning view of the surrounding waters. As you approach the lighthouse, you'll discover the charm of the coastal landscape, where the sea meets the sky. This site is not just a point of interest; it is a reminder of the important role that lighthouses have played in maritime navigation, guiding countless ships safely to shore.
 
@@ -103,7 +103,7 @@ Check the official website for information on guided tours, which may enhance yo
 Early morning or late afternoon is ideal for avoiding crowds and enjoying the best lighting for photography.
 
 ### Is it wheelchair accessible?
-Check the official website for accessibility information, as it may vary depending on the site’s facilities.
+Check the official website for accessibility information, as it may vary depending on the site's facilities.
 
 ### Can I buy tickets online?
 For the most current information regarding ticket purchasing options, visit the official website.

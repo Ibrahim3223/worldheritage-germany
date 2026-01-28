@@ -28,7 +28,7 @@ image_srcset:
 
 The Museum im Kleihues-Bau, located in Kornwestheim, Germany, serves as a significant cultural venue within the Stuttgart Government Region of Baden-Württemberg. This museum is not only a repository of art and history but also a modern architectural statement in its own right. Visitors can expect an engaging experience that highlights both contemporary and historical perspectives, making it an essential stop for those interested in the intersection of art and society. 
 
-The museum’s location in Kornwestheim adds to its charm, offering a peaceful setting that contrasts with the more bustling urban centers nearby. As a center for cultural exchange and artistic exploration, the Museum im Kleihues-Bau invites visitors to immerse themselves in a variety of exhibitions that reflect the evolving narrative of the region.
+The museum's location in Kornwestheim adds to its charm, offering a peaceful setting that contrasts with the more bustling urban centers nearby. As a center for cultural exchange and artistic exploration, the Museum im Kleihues-Bau invites visitors to immerse themselves in a variety of exhibitions that reflect the evolving narrative of the region.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ While specific historical milestones for the Museum im Kleihues-Bau may not be d
 
 The museum's name pays homage to Klaus Kleihues, an influential architect known for his commitment to creating spaces that reflect community values. His design philosophy often emphasizes transparency and interaction, which is evident in the museum's layout and function. The museum not only serves as a gallery for exhibitions but also as a space for community engagement, educational programs, and cultural events.
 
-In the broader context, the Museum im Kleihues-Bau participates in the dialogue surrounding modern art and architecture, contributing to Kornwestheim’s identity as a center for cultural enrichment. It showcases the region’s dedication to promoting the arts, providing a venue where artists can exhibit their work and the public can engage with contemporary issues through the lens of art. 
+In the broader context, the Museum im Kleihues-Bau participates in the dialogue surrounding modern art and architecture, contributing to Kornwestheim's identity as a center for cultural enrichment. It showcases the region's dedication to promoting the arts, providing a venue where artists can exhibit their work and the public can engage with contemporary issues through the lens of art. 
 
 ## Architecture and Features
 
@@ -44,11 +44,11 @@ The Museum im Kleihues-Bau is noted for its modern architectural design, reflect
 
 Visitors can expect to see a blend of open gallery spaces that allow for a dynamic display of exhibits. The architecture facilitates natural light, creating an inviting atmosphere for viewing artworks. The design not only serves functional purposes but also contributes to the overarching narrative of modernity and openness that the museum embodies.
 
-While specific architectural details are not provided, the museum's physical presence is significant in itself, contributing to Kornwestheim's urban landscape. It stands as a symbol of the community’s commitment to arts and education, while also providing a modern venue for exhibitions that reflect contemporary cultural themes.
+While specific architectural details are not provided, the museum's physical presence is significant in itself, contributing to Kornwestheim's urban landscape. It stands as a symbol of the community's commitment to arts and education, while also providing a modern venue for exhibitions that reflect contemporary cultural themes.
 
 ## Visiting Information
 
-When planning a visit to the Museum im Kleihues-Bau, it’s advisable to check the official website for current information regarding hours of operation and ticket prices. Accessing the museum is convenient, with various transport options available in the region, including public transportation and parking facilities nearby.
+When planning a visit to the Museum im Kleihues-Bau, it's advisable to check the official website for current information regarding hours of operation and ticket prices. Accessing the museum is convenient, with various transport options available in the region, including public transportation and parking facilities nearby.
 
 Expect to spend a couple of hours exploring the museum, as it features a rotating selection of exhibitions that cater to diverse interests. The ambiance within the museum is typically calm, making it an ideal setting for both art enthusiasts and casual visitors alike. 
 
@@ -58,7 +58,7 @@ The best times to visit may vary, so checking the official website for any speci
 
 1. **Kornwestheim Town Center**: A short distance from the museum, this area offers a variety of shops and cafes, perfect for a leisurely stroll or a bite to eat after your museum visit.
 
-2. **Ludwigsburg Palace**: Located just a short drive away, this Baroque palace is renowned for its stunning gardens and rich history, offering insight into the region’s cultural heritage.
+2. **Ludwigsburg Palace**: Located just a short drive away, this Baroque palace is renowned for its stunning gardens and rich history, offering insight into the region's cultural heritage.
 
 3. **Theater der Stadt Ludwigsburg**: This local theater hosts a range of performances, from plays to concerts, providing a cultural experience that complements a visit to the museum.
 

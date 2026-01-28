@@ -107,7 +107,7 @@ Accessibility options may vary; check the official website for specific informat
 For current information on ticket purchasing, including online options, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site; however, it’s advisable to confirm this information in advance.
+Facilities such as restrooms may be available on-site; however, it's advisable to confirm this information in advance.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions. Modest attire is recommended out of respect for the monastic environment.

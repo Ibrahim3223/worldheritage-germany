@@ -36,7 +36,7 @@ While specific historical dates and events related to the Ostermann-Arena are no
 
 The significance of the arena extends beyond its physical structure; it represents the city's commitment to promoting sports and wellness. By providing a space where local athletes can compete and communities can come together, the Ostermann-Arena plays a crucial role in fostering civic pride and social interaction. The arena's ability to host diverse events makes it a focal point for various demographics, from families attending a weekend game to young people participating in concerts or exhibitions.
 
-In addition to its role in sports, the Ostermann-Arena contributes to the local economy by attracting visitors who frequent nearby businesses, thus enhancing the overall vibrancy of Leverkusen. It stands as a symbol of the city’s investment in health, culture, and community development, making it a vital asset for both residents and visitors.
+In addition to its role in sports, the Ostermann-Arena contributes to the local economy by attracting visitors who frequent nearby businesses, thus enhancing the overall vibrancy of Leverkusen. It stands as a symbol of the city's investment in health, culture, and community development, making it a vital asset for both residents and visitors.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The Ostermann-Arena is designed as a multi-purpose hall, which allows it to acco
 
 The arena's design is indicative of modern sports facilities, focusing on versatility and spectator comfort. Large open spaces are typical in such venues, allowing for easy movement and accessibility. Additionally, the arena may include amenities such as concession stands and restrooms to cater to the needs of visitors during events.
 
-In hosting various sports, the arena is equipped to meet the standards required for professional competitions, making it a preferred choice for local teams and organizations. Its adaptability not only facilitates sporting events but also allows for concerts, exhibitions, and community gatherings, showcasing its role as a central hub in Leverkusen’s social and cultural fabric.
+In hosting various sports, the arena is equipped to meet the standards required for professional competitions, making it a preferred choice for local teams and organizations. Its adaptability not only facilitates sporting events but also allows for concerts, exhibitions, and community gatherings, showcasing its role as a central hub in Leverkusen's social and cultural fabric.
 
 ## Visiting Information
 
@@ -64,9 +64,9 @@ While the Ostermann-Arena is a highlight in itself, Leverkusen offers several ne
 
 2. **Botanischer Garten Leverkusen**: This beautiful botanical garden showcases a variety of plant species and offers a peaceful retreat for those looking to relax after an event at the arena.
 
-3. **Schloss Morsbroich**: A historic castle that now serves as a museum for contemporary art, Schloss Morsbroich is an enriching destination for art enthusiasts and a great way to explore Leverkusen’s cultural heritage.
+3. **Schloss Morsbroich**: A historic castle that now serves as a museum for contemporary art, Schloss Morsbroich is an enriching destination for art enthusiasts and a great way to explore Leverkusen's cultural heritage.
 
-4. **Leverkusen’s City Center**: A vibrant mix of shops, cafes, and restaurants can be found in the city center, making it a perfect spot to enjoy a meal or do some shopping before or after your visit to the Ostermann-Arena.
+4. **Leverkusen's City Center**: A vibrant mix of shops, cafes, and restaurants can be found in the city center, making it a perfect spot to enjoy a meal or do some shopping before or after your visit to the Ostermann-Arena.
 
 5. **Rheinisches Industriemuseum**: This museum offers insights into the industrial history of the region and is a fascinating stop for those interested in learning more about the local heritage.
 

@@ -32,7 +32,7 @@ Constructed with modern design elements, EWS Arena reflects the contemporary spi
 
 ## History and Significance
 
-While specific historical details about EWS Arena are not readily available, it represents an important addition to Göppingen’s cultural landscape. The hall serves multiple purposes, catering to a wide array of events that contribute to the region's social fabric. As a central hub for community engagement, EWS Arena plays a critical role in fostering interaction among residents and visitors alike.
+While specific historical details about EWS Arena are not readily available, it represents an important addition to Göppingen's cultural landscape. The hall serves multiple purposes, catering to a wide array of events that contribute to the region's social fabric. As a central hub for community engagement, EWS Arena plays a critical role in fostering interaction among residents and visitors alike.
 
 The significance of such multi-purpose facilities lies in their ability to host diverse activities, from sports events that inspire local pride to concerts that bring together various musical genres. This versatility not only highlights the arena's architectural prowess but also underscores its importance in promoting cultural activities within the town. As a gathering place for large audiences, it facilitates a shared experience that enriches the community and enhances the cultural identity of Göppingen.
 
@@ -62,7 +62,7 @@ While EWS Arena itself is a focal point in Göppingen, several nearby attraction
 
 2. **Museum im Löwen**: This local museum showcases the history and culture of Göppingen, providing insight into the region's heritage.
 
-3. **St. Jacob’s Church**: An architectural gem, this church is known for its stunning stained glass and historical significance, making it a worthwhile visit.
+3. **St. Jacob's Church**: An architectural gem, this church is known for its stunning stained glass and historical significance, making it a worthwhile visit.
 
 4. **Hohenstaufen Castle**: Located on a nearby hill, this castle offers panoramic views of the surrounding landscape as well as a glimpse into medieval architecture.
 

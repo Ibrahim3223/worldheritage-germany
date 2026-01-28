@@ -26,7 +26,7 @@ Visitors to this site can expect an immersion into the architectural aesthetics 
 
 ## History and Significance
 
-Palais Sendlinger Straße 18 holds a significant place in Munich’s cultural narrative, showcasing the evolution of the city through various periods. The palace's history is intertwined with the broader socio-political changes in Bavaria, reflecting the transitions in power and culture over time. Though specific dates and events are not detailed, the architectural style and structure offer insights into the historical context of its construction and use.
+Palais Sendlinger Straße 18 holds a significant place in Munich's cultural narrative, showcasing the evolution of the city through various periods. The palace's history is intertwined with the broader socio-political changes in Bavaria, reflecting the transitions in power and culture over time. Though specific dates and events are not detailed, the architectural style and structure offer insights into the historical context of its construction and use.
 
 Historically, palaces like this one served not only as residences but also as venues for social gatherings and cultural events. They were often designed to display wealth and power, and Palais Sendlinger Straße 18 is no exception. Its presence within the city contributes to a deeper understanding of Bavaria's aristocratic past and the role such structures played in the social dynamics of the time.
 
@@ -42,9 +42,9 @@ Inside, the palace may house various rooms that reflect the lifestyles of its hi
 
 ## Visiting Information
 
-When planning a visit to Palais Sendlinger Straße 18, it’s essential to consider transportation options. The palace is located in a central area of Munich, making it accessible via public transport. Various tram and bus lines service the vicinity, and the Münchner U-Bahn network offers convenient connections to nearby neighborhoods.
+When planning a visit to Palais Sendlinger Straße 18, it's essential to consider transportation options. The palace is located in a central area of Munich, making it accessible via public transport. Various tram and bus lines service the vicinity, and the Münchner U-Bahn network offers convenient connections to nearby neighborhoods.
 
-Check the official website for current information regarding visiting hours and admission prices, as these details can fluctuate. It’s advisable to allocate sufficient time for your visit, ideally a couple of hours, to fully appreciate the palace's architecture and significance.
+Check the official website for current information regarding visiting hours and admission prices, as these details can fluctuate. It's advisable to allocate sufficient time for your visit, ideally a couple of hours, to fully appreciate the palace's architecture and significance.
 
 The best times to visit are typically during weekdays, as weekends may draw larger crowds. Visiting during off-peak hours can enhance the experience, allowing for a more contemplative exploration of the site.
 

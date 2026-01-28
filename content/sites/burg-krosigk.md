@@ -89,7 +89,7 @@ A visit to Burg Krosigk typically takes a few hours, allowing ample time to expl
 Photography policies may vary, so it is best to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
-While information on guided tours may not be specified, it’s advisable to check the official website for updates.
+While information on guided tours may not be specified, it's advisable to check the official website for updates.
 
 ### What's the best time to visit?
 The warmer months are generally the best time for a visit, as the weather is more accommodating for outdoor exploration.

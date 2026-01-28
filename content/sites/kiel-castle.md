@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Kiel Castle, located in the vibrant city of Kiel, Germany, serves as a remarkable piece of architectural and historical significance. This castle, with its strategic position in northern Germany, offers visitors a glimpse into the region’s rich heritage. Once a military stronghold, Kiel Castle has transitioned through various forms and functions over the centuries, reflecting the changing tides of history. Today, it stands not only as a historical site but also as a cultural hub, inviting travelers to explore its storied past and the beauty of its surroundings.
+Kiel Castle, located in the vibrant city of Kiel, Germany, serves as a remarkable piece of architectural and historical significance. This castle, with its strategic position in northern Germany, offers visitors a glimpse into the region's rich heritage. Once a military stronghold, Kiel Castle has transitioned through various forms and functions over the centuries, reflecting the changing tides of history. Today, it stands not only as a historical site but also as a cultural hub, inviting travelers to explore its storied past and the beauty of its surroundings.
 
-The castle is situated in a region known for its maritime traditions and bustling port activities, making it an integral part of Kiel’s identity. As visitors approach, they can appreciate the blend of historical architecture and the lively atmosphere of the city. Kiel Castle is a must-see for history enthusiasts and casual visitors alike, promising a multifaceted experience that encompasses both the past and present.
+The castle is situated in a region known for its maritime traditions and bustling port activities, making it an integral part of Kiel's identity. As visitors approach, they can appreciate the blend of historical architecture and the lively atmosphere of the city. Kiel Castle is a must-see for history enthusiasts and casual visitors alike, promising a multifaceted experience that encompasses both the past and present.
 
 ## History and Significance
 
-The origins of Kiel Castle can be traced back to a time when it was constructed as a military stronghold. It has played a pivotal role in the defense and administrative functions of the region, particularly during periods of conflict in northern Europe. The castle’s strategic location allowed it to oversee the surrounding waters and serve as a key point for maritime activities. Over the years, it has witnessed countless events that have shaped the course of the local history.
+The origins of Kiel Castle can be traced back to a time when it was constructed as a military stronghold. It has played a pivotal role in the defense and administrative functions of the region, particularly during periods of conflict in northern Europe. The castle's strategic location allowed it to oversee the surrounding waters and serve as a key point for maritime activities. Over the years, it has witnessed countless events that have shaped the course of the local history.
 
 Throughout its existence, Kiel Castle has undergone numerous renovations and restorations, reflecting the evolving architectural styles and the needs of its inhabitants. The castle has transitioned from a formidable fortress to a symbol of civic pride, adapting to the changing dynamics of the city of Kiel. Its significance extends beyond mere military function; it has also served as a residence for nobility and a center for administrative governance.
 
@@ -46,7 +46,7 @@ One of the notable features of Kiel Castle is its impressive façade, which disp
 
 Inside, the castle houses a variety of rooms and spaces that were once utilized for both military and domestic purposes. Although specific details of the interior may vary, visitors can expect to find grand halls, chambers filled with historical artifacts, and areas designed for public engagement. The castle often utilizes its spaces for exhibitions and cultural events, making the internal environment dynamic and engaging.
 
-Overall, Kiel Castle represents an amalgamation of military might and noble elegance, inviting exploration of its features and the stories they tell. Whether it’s the stone walls that have stood the test of time or the ornate details that adorn its interior, the castle offers a rich architectural experience.
+Overall, Kiel Castle represents an amalgamation of military might and noble elegance, inviting exploration of its features and the stories they tell. Whether it's the stone walls that have stood the test of time or the ornate details that adorn its interior, the castle offers a rich architectural experience.
 
 ## Visiting Information
 
@@ -62,15 +62,15 @@ Expect to find various informational displays and possibly guided tours that enh
 
 While Kiel Castle is a central attraction, the surrounding area offers several additional points of interest that can enrich your visit to the city. Here are a few nearby attractions to consider:
 
-1. **Kiel Maritime Museum**: Situated close to the castle, this museum showcases the maritime history of Kiel and the surrounding region. It features exhibits on shipbuilding, navigation, and the city’s role as a major port, making it a natural complement to a visit to the castle.
+1. **Kiel Maritime Museum**: Situated close to the castle, this museum showcases the maritime history of Kiel and the surrounding region. It features exhibits on shipbuilding, navigation, and the city's role as a major port, making it a natural complement to a visit to the castle.
 
 2. **St. Nicholas Church**: This historic church is not far from Kiel Castle and is known for its striking architecture and beautiful stained glass windows. The church provides a serene atmosphere and an opportunity to appreciate local religious heritage.
 
-3. **Schleswig-Holstein State Museum**: Located a short distance away, this museum focuses on the cultural history of the Schleswig-Holstein region. It offers diverse exhibitions ranging from art to historical artifacts, providing further context to the area’s rich heritage.
+3. **Schleswig-Holstein State Museum**: Located a short distance away, this museum focuses on the cultural history of the Schleswig-Holstein region. It offers diverse exhibitions ranging from art to historical artifacts, providing further context to the area's rich heritage.
 
 4. **Kiel Canal**: A short walk from the castle, the Kiel Canal is one of the most famous artificial waterways in the world. Visitors can enjoy scenic walks along the canal, watch ships transit, and learn about its significance in maritime trade.
 
-5. **Botanical Garden Kiel**: For those who enjoy nature, the Botanical Garden offers a peaceful retreat with a variety of plant species and themed gardens. It’s an ideal spot to relax after exploring the castle and nearby attractions.
+5. **Botanical Garden Kiel**: For those who enjoy nature, the Botanical Garden offers a peaceful retreat with a variety of plant species and themed gardens. It's an ideal spot to relax after exploring the castle and nearby attractions.
 
 ## Insider Tips
 
@@ -97,7 +97,7 @@ Allocating a few hours will allow you to explore the castle thoroughly and appre
 Photography is generally permitted, but be aware of any specific restrictions in certain areas, particularly where exhibitions are displayed.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the castle’s history and architecture. Check the official website for details.
+Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for details.
 
 ### What's the best time to visit?
 Visiting during spring or early autumn often means milder weather and fewer crowds, enhancing the experience.

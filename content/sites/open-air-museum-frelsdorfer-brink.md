@@ -80,7 +80,7 @@ To make the most of your visit to the Open Air Museum Frelsdorfer Brink, conside
 
 When preparing for your visit to the Open Air Museum Frelsdorfer Brink, consider bringing a few essentials:
 
-- **Comfortable shoes**: The museum’s layout encourages walking, so comfortable footwear is recommended.
+- **Comfortable shoes**: The museum's layout encourages walking, so comfortable footwear is recommended.
   
 - **Weather-appropriate clothing**: Depending on the season, be prepared for changing weather conditions, especially if you plan to explore outdoor exhibits.
   
@@ -101,7 +101,7 @@ Guided tours may be available, offering deeper insights into the exhibits and hi
 Spring and summer are ideal for visiting, as the weather is generally pleasant for outdoor activities.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary. It’s advisable to check with the museum ahead of your visit to confirm available accommodations.
+Accessibility options may vary. It's advisable to check with the museum ahead of your visit to confirm available accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. For the most accurate information, check the official website.

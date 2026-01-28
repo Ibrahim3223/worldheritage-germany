@@ -28,7 +28,7 @@ image_srcset:
 
 Gymnasium Dresden-Plauen is an educational establishment located in the vibrant city of Dresden, Saxony, Germany. This secondary school not only serves as a crucial institution for local education but also embodies the architectural and cultural milieu of its urban setting. The school is situated in a region steeped in history, surrounded by a city known for its impressive Baroque architecture and rich artistic heritage. As a significant part of the educational framework in Dresden, Gymnasium Dresden-Plauen plays a key role in shaping the future of its students while simultaneously reflecting the evolving nature of education in Germany.
 
-While visiting, you can expect to see the school’s commitment to academic excellence and community engagement. The school not only focuses on the academic development of its students but also fosters an environment that encourages creativity and critical thinking. This balance of tradition and modernity makes Gymnasium Dresden-Plauen a noteworthy stop for anyone interested in the educational landscape of Germany.
+While visiting, you can expect to see the school's commitment to academic excellence and community engagement. The school not only focuses on the academic development of its students but also fosters an environment that encourages creativity and critical thinking. This balance of tradition and modernity makes Gymnasium Dresden-Plauen a noteworthy stop for anyone interested in the educational landscape of Germany.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ As this is a functioning educational institution, visitors should check the offi
 
 A visit may take a few hours, depending on your interest in the school's programs and facilities. Engaging with staff or students, if allowed, can provide deeper insights into the school's role in the community and its educational philosophy. 
 
-For the best experience, consider visiting during the school year when various events, exhibitions, or open days may be taking place, offering a unique glimpse into the school’s culture and activities. 
+For the best experience, consider visiting during the school year when various events, exhibitions, or open days may be taking place, offering a unique glimpse into the school's culture and activities. 
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ Dresden is rich in cultural and historical attractions, making it an ideal desti
 
 1. **Zwinger Palace**: An exquisite example of Baroque architecture, this palace is home to several museums and stunning gardens, making it a must-visit for art and history enthusiasts.
 
-2. **Dresden Frauenkirche**: A remarkable Lutheran church that was rebuilt after its destruction in WWII, the Frauenkirche is an iconic symbol of Dresden’s resilience and architectural beauty.
+2. **Dresden Frauenkirche**: A remarkable Lutheran church that was rebuilt after its destruction in WWII, the Frauenkirche is an iconic symbol of Dresden's resilience and architectural beauty.
 
 3. **Semper Opera House**: Recognized for its stunning design and world-class performances, the opera house is a cultural landmark that showcases the rich artistic heritage of the city.
 
@@ -89,13 +89,13 @@ When planning your visit to Gymnasium Dresden-Plauen, here are some practical co
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes a few hours. If you’re interested in engaging with the school’s programs or events, allocate extra time.
+A visit typically takes a few hours. If you're interested in engaging with the school's programs or events, allocate extra time.
 
 ### Is photography allowed?
 Photography policies can vary. Check with school administration upon arrival or refer to their official website for guidelines.
 
 ### Are there guided tours?
-Information about guided tours may not be readily available. It’s best to check with the school directly for any opportunities.
+Information about guided tours may not be readily available. It's best to check with the school directly for any opportunities.
 
 ### What's the best time to visit?
 Weekdays during the school year are ideal for experiencing daily activities. Check their calendar for any special events.

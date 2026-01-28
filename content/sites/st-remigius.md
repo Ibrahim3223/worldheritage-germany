@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Remigius in Homburg-Beeden, Germany, is a notable church that embodies both architectural elegance and community significance. Located in the scenic region of Homburg, this church serves not just as a place of worship but also as a focal point for the local community, reflecting the area's cultural and historical heritage. The church’s enduring presence invites visitors to explore its serene environment and appreciate the craftsmanship of its design. With its rich narrative woven into the fabric of Homburg's history, St. Remigius stands as a significant landmark for both residents and travelers alike.
+St. Remigius in Homburg-Beeden, Germany, is a notable church that embodies both architectural elegance and community significance. Located in the scenic region of Homburg, this church serves not just as a place of worship but also as a focal point for the local community, reflecting the area's cultural and historical heritage. The church's enduring presence invites visitors to explore its serene environment and appreciate the craftsmanship of its design. With its rich narrative woven into the fabric of Homburg's history, St. Remigius stands as a significant landmark for both residents and travelers alike.
 
 ## History and Significance
 

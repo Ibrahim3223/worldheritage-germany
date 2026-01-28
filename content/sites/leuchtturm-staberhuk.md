@@ -28,7 +28,7 @@ image_srcset:
 
 The Leuchtturm Staberhuk, perched on the northeastern tip of Fehmarn in Schleswig-Holstein, Germany, is not just a functional maritime structure; it represents a significant part of the region's maritime heritage. This lighthouse, with its striking presence along the Baltic Sea, has long served as a guide for seafarers navigating the waters of this picturesque coastline. The lighthouse's historical and architectural significance contributes to the allure of this charming destination, attracting visitors eager to explore its storied past and enjoy the coastal scenery.
 
-Visitors to Leuchtturm Staberhuk can expect a blend of cultural heritage and natural beauty, as the surrounding landscape enhances the lighthouse's charm. The site stands as a symbol of Fehmarn’s fishing and shipping history, inviting travelers to immerse themselves in the region’s maritime traditions. Whether you are an avid history buff, a photography enthusiast, or simply seeking a serene coastal getaway, the lighthouse promises an enriching experience.
+Visitors to Leuchtturm Staberhuk can expect a blend of cultural heritage and natural beauty, as the surrounding landscape enhances the lighthouse's charm. The site stands as a symbol of Fehmarn's fishing and shipping history, inviting travelers to immerse themselves in the region's maritime traditions. Whether you are an avid history buff, a photography enthusiast, or simply seeking a serene coastal getaway, the lighthouse promises an enriching experience.
 
 ## History and Significance
 

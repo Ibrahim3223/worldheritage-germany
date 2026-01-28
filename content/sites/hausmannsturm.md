@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-In the heart of Dresden, Germany, the Hausmannsturm stands as a distinctive landmark, captivating visitors with its historical significance and architectural charm. This tower, which forms part of the city's skyline, offers a glimpse into Dresden's rich cultural heritage. Its prominence is not just due to its height but also its role in the city’s storied past and its continuing relevance today.
+In the heart of Dresden, Germany, the Hausmannsturm stands as a distinctive landmark, captivating visitors with its historical significance and architectural charm. This tower, which forms part of the city's skyline, offers a glimpse into Dresden's rich cultural heritage. Its prominence is not just due to its height but also its role in the city's storied past and its continuing relevance today.
 
 Dresden, known for its Baroque architecture and vibrant arts scene, is located along the Elbe River. The Hausmannsturm is situated within this dynamic environment, drawing both history enthusiasts and casual tourists alike. As you explore this remarkable structure, you will find that it embodies both the resilience and evolution of Dresden, particularly in the face of historical challenges. 
 
-Visitors can expect an engaging experience that melds history with stunning views and the chance to delve into the architectural nuances of the tower. The Hausmannsturm invites you to discover not only its own narrative but also the broader story of Dresden’s transformation over the centuries.
+Visitors can expect an engaging experience that melds history with stunning views and the chance to delve into the architectural nuances of the tower. The Hausmannsturm invites you to discover not only its own narrative but also the broader story of Dresden's transformation over the centuries.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ The tower is named after the prominent architect who designed it, highlighting t
 
 Following the extensive destruction Dresden faced during World War II, the Hausmannsturm underwent significant restoration efforts. These initiatives not only aimed to preserve its structural integrity but also to revitalize the surrounding area, making it a vital part of Dresden's post-war recovery and rebirth.
 
-The tower is emblematic of the city's resilience and dedication to honoring its rich heritage while also embracing modernity. This duality is a hallmark of Dresden as a whole, where historical reverence intersects with contemporary life, making the Hausmannsturm a must-visit site for those wishing to understand the city’s complex identity.
+The tower is emblematic of the city's resilience and dedication to honoring its rich heritage while also embracing modernity. This duality is a hallmark of Dresden as a whole, where historical reverence intersects with contemporary life, making the Hausmannsturm a must-visit site for those wishing to understand the city's complex identity.
 
 ## Architecture and Features
 

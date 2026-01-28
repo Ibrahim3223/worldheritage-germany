@@ -44,7 +44,7 @@ The architecture of Georgium is characterized by its elegant castle and surround
 
 The sculpture garden is a standout feature of Georgium, showcasing a variety of artworks that enhance the natural landscape. These sculptures are strategically placed throughout the park, encouraging visitors to explore and interact with their surroundings. The combination of art and nature creates a unique atmosphere that fosters contemplation and appreciation for both the human and natural elements present.
 
-In addition to the castle and sculptures, visitors can enjoy beautifully landscaped pathways, well-maintained greenery, and tranquil water features. The layout of the park invites leisurely walks, providing opportunities for reflection and enjoyment of the artistic and natural surroundings. Georgium’s design exemplifies the principles of landscape architecture that prioritize aesthetic beauty and the integration of art with nature, making it a compelling destination for all who visit.
+In addition to the castle and sculptures, visitors can enjoy beautifully landscaped pathways, well-maintained greenery, and tranquil water features. The layout of the park invites leisurely walks, providing opportunities for reflection and enjoyment of the artistic and natural surroundings. Georgium's design exemplifies the principles of landscape architecture that prioritize aesthetic beauty and the integration of art with nature, making it a compelling destination for all who visit.
 
 ## Visiting Information
 

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Matthäuskirche Frankfurt am Main stands as a significant landmark in the vibrant city of Frankfurt, Germany. This church building, with its distinctive architecture and cultural importance, serves not only as a place of worship but also as a testament to the city’s rich history and community spirit. Located in the heart of Frankfurt, Matthäuskirche is conveniently situated for both residents and visitors seeking to explore the heritage of this dynamic urban environment.
+Matthäuskirche Frankfurt am Main stands as a significant landmark in the vibrant city of Frankfurt, Germany. This church building, with its distinctive architecture and cultural importance, serves not only as a place of worship but also as a testament to the city's rich history and community spirit. Located in the heart of Frankfurt, Matthäuskirche is conveniently situated for both residents and visitors seeking to explore the heritage of this dynamic urban environment.
 
-The church’s central location makes it an ideal starting point for discovering the surrounding areas of Frankfurt, known for its blend of modernity and tradition. As one of the notable ecclesiastical buildings in the city, Matthäuskirche invites those interested in architecture, culture, and history to delve deeper into its significance. Visitors can appreciate the church’s role within the community while reflecting on its contributions to the cultural landscape of Frankfurt.
+The church's central location makes it an ideal starting point for discovering the surrounding areas of Frankfurt, known for its blend of modernity and tradition. As one of the notable ecclesiastical buildings in the city, Matthäuskirche invites those interested in architecture, culture, and history to delve deeper into its significance. Visitors can appreciate the church's role within the community while reflecting on its contributions to the cultural landscape of Frankfurt.
 
 Whether you are a history enthusiast, a spiritual seeker, or simply someone looking to immerse yourself in the local atmosphere, a visit to Matthäuskirche offers a meaningful experience. 
 
@@ -48,7 +48,7 @@ The design of Matthäuskirche is likely characterized by traditional ecclesiasti
 
 Inside, visitors can expect to find a space that is both inviting and reverent, designed to accommodate congregational activities and community gatherings. The layout may include areas for seating, altars, and spaces for communal interaction, fostering a sense of belonging and unity among parishioners and visitors alike.
 
-Overall, Matthäuskirche stands as a significant architectural feature within Frankfurt, a reflection of the city’s historical evolution and cultural identity.
+Overall, Matthäuskirche stands as a significant architectural feature within Frankfurt, a reflection of the city's historical evolution and cultural identity.
 
 ## Visiting Information
 
@@ -88,11 +88,11 @@ To make the most of your visit to Matthäuskirche, consider these insider tips:
 
 When preparing for your visit to Matthäuskirche, keep the following practical considerations in mind:
 
-- **What to Bring**: Bring a camera if you wish to capture the architecture and ambiance. It’s also advisable to have a water bottle, especially if you plan to explore nearby attractions.
+- **What to Bring**: Bring a camera if you wish to capture the architecture and ambiance. It's also advisable to have a water bottle, especially if you plan to explore nearby attractions.
 
 - **Seasonal Considerations**: Check the weather before your visit and dress accordingly, as you may be spending time outdoors while exploring nearby sites.
 
-- **Accessibility**: While specific details may not be available, churches typically aim to accommodate all visitors. It’s best to check in advance regarding wheelchair access and any facilities that may be available.
+- **Accessibility**: While specific details may not be available, churches typically aim to accommodate all visitors. It's best to check in advance regarding wheelchair access and any facilities that may be available.
 
 ## Frequently Asked Questions
 
@@ -100,7 +100,7 @@ When preparing for your visit to Matthäuskirche, keep the following practical c
 A typical visit to Matthäuskirche may take about 30 minutes to an hour, depending on your interests.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the space and any worshippers present.
+Photography is generally permitted, but it's best to be respectful of the space and any worshippers present.
 
 ### Are there guided tours?
 Information on guided tours may vary, so check the official website for details regarding availability.

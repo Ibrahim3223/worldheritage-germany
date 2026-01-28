@@ -76,7 +76,7 @@ Rüsselsheim is home to several attractions that visitors can explore before or 
 
 To make the most of your visit to the Stadttheater Rüsselsheim, consider the following tips:
 
-- **Photography**: While capturing the theatre’s ambiance, be mindful of any restrictions on photography during performances. It is best to check with the venue staff regarding their policy.
+- **Photography**: While capturing the theatre's ambiance, be mindful of any restrictions on photography during performances. It is best to check with the venue staff regarding their policy.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider attending performances during the weekdays, when the audience is often smaller compared to weekends.
 

@@ -78,7 +78,7 @@ To avoid larger crowds, visiting early in the morning or later in the evening is
 
 When visiting Hardenbergplatz, it's advisable to wear comfortable clothing and footwear, as you may want to explore the surrounding areas on foot. Depending on the season, consider the weather conditions—bringing an umbrella or sun protection may be necessary.
 
-As a public square, Hardenbergplatz does not have specific amenities like cafes or restrooms within it. However, nearby establishments cater to visitors’ needs, providing opportunities for refreshments or breaks during your exploration.
+As a public square, Hardenbergplatz does not have specific amenities like cafes or restrooms within it. However, nearby establishments cater to visitors' needs, providing opportunities for refreshments or breaks during your exploration.
 
 ## Frequently Asked Questions
 

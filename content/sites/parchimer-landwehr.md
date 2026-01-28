@@ -36,7 +36,7 @@ Visiting the Parchimer Landwehr promises an enriching experience, combining elem
 
 The origins of the Parchimer Landwehr can be traced back to the late Middle Ages, a period characterized by the rising need for fortified structures to protect settlements. While specific dates of construction are not documented, the fortification represents a critical response to the evolving political landscape of the time. As various powers contested regions in northern Germany, the necessity for robust defensive measures became paramount.
 
-The Parchimer Landwehr served multiple purposes throughout its existence. Primarily, it acted as a border security measure for the city of Parchim, which was strategically located along various trade routes. This placement not only made it a vital hub for commerce but also a target for potential invasions. The fortification’s design reflects the military architecture of its time, which was focused on deterrence and defense.
+The Parchimer Landwehr served multiple purposes throughout its existence. Primarily, it acted as a border security measure for the city of Parchim, which was strategically located along various trade routes. This placement not only made it a vital hub for commerce but also a target for potential invasions. The fortification's design reflects the military architecture of its time, which was focused on deterrence and defense.
 
 The cultural significance of the Parchimer Landwehr extends beyond its military function. It stands as a physical representation of the community's resilience against external threats. Over the centuries, the fortification has witnessed numerous historical events and changes in governance, from feudal conflicts to the emergence of modern nation-states. 
 
@@ -68,7 +68,7 @@ The area surrounding Parchimer Landwehr offers several attractions that compleme
 
 1. **Parchim City Center**: A short distance from the fortification, the city center features charming architecture and local shops, perfect for a leisurely stroll.
 
-2. **St. Mary’s Church (Marienkirche)**: This impressive Gothic church, located nearby, showcases stunning stained glass and intricate stonework, providing insight into the region's religious heritage.
+2. **St. Mary's Church (Marienkirche)**: This impressive Gothic church, located nearby, showcases stunning stained glass and intricate stonework, providing insight into the region's religious heritage.
 
 3. **Museum of the Parchim Region**: Offering exhibits on local history, culture, and artifacts, this museum is a valuable stop for those wanting to delve deeper into the area's past.
 

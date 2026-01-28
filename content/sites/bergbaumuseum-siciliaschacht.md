@@ -80,7 +80,7 @@ To make the most of your visit to the Bergbaumuseum Siciliaschacht, consider the
 
 - **Crowd Avoidance**: Plan your visit during weekdays or early in the morning to avoid larger crowds and enjoy a more intimate experience with the exhibits.
 
-- **Engage with Staff**: Museum staff often have valuable insights and stories to share about the exhibits. Don’t hesitate to ask questions and engage with them.
+- **Engage with Staff**: Museum staff often have valuable insights and stories to share about the exhibits. Don't hesitate to ask questions and engage with them.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Bergbaumuseum Siciliaschacht, here are some
 
 - **Seasonal Considerations**: The museum is typically open year-round; however, check the official website for any seasonal events or special exhibitions that may be taking place during your visit.
 
-- **Amenities**: Be prepared for the possibility of limited on-site amenities. It’s advisable to check for nearby cafes or dining options if you plan to spend an extended period at the museum.
+- **Amenities**: Be prepared for the possibility of limited on-site amenities. It's advisable to check for nearby cafes or dining options if you plan to spend an extended period at the museum.
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Accessibility details may vary, so please check the official website or contact 
 Ticket purchasing options may be available online; please check the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but it’s best to confirm this on the official website. Nearby cafes can be explored after your visit.
+Facilities such as restrooms may be available on-site, but it's best to confirm this on the official website. Nearby cafes can be explored after your visit.
 
 ### What should I wear?
 Dress comfortably, considering the season and weather conditions. Comfortable shoes are recommended due to potential walking and exploration of the museum. 

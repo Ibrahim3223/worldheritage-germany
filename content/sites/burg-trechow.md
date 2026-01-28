@@ -48,7 +48,7 @@ Burg Trechow's architecture reflects the characteristics typical of manor houses
 
 The layout of manor houses often includes multiple rooms for various purposes, such as living quarters, dining areas, and spaces for administration. The design typically emphasizes both aesthetics and practicality, with large windows allowing natural light to illuminate the interiors. Visitors may find decorative elements that highlight the craftsmanship of the era, contributing to the overall character of the manor house.
 
-Surrounding the manor, the grounds likely encompass gardens or landscaped areas, enhancing the beauty of the setting. These outdoor spaces often serve as a reflection of the estate's overall design philosophy, providing both leisure and functional areas for the estate’s inhabitants.
+Surrounding the manor, the grounds likely encompass gardens or landscaped areas, enhancing the beauty of the setting. These outdoor spaces often serve as a reflection of the estate's overall design philosophy, providing both leisure and functional areas for the estate's inhabitants.
 
 As you explore the various aspects of Burg Trechow, take note of the architectural nuances that tell their own story. While the specifics of its design may be understated, the overall impression of Burg Trechow as a manor house remains significant in understanding the architectural heritage of the region.
 

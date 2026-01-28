@@ -56,7 +56,7 @@ While exploring Düren, consider visiting these nearby attractions:
 
 1. **St. Anna Kirche**: An impressive church known for its stunning architecture and historical significance, offering insights into the region's religious heritage.
    
-2. **Düren City Museum**: This museum provides a broader look at the city's history, featuring exhibitions that span various aspects of Düren’s past.
+2. **Düren City Museum**: This museum provides a broader look at the city's history, featuring exhibitions that span various aspects of Düren's past.
 
 3. **Burgau Park**: A lovely park perfect for a leisurely stroll, offering green spaces and beautiful scenery for relaxation after your museum visit.
 
@@ -72,7 +72,7 @@ If there are workshops or special events scheduled, pre-registration may be requ
 
 ## Practical Information
 
-When visiting the Papiermuseum Düren, it’s advisable to bring a small bag or backpack for personal belongings. Comfortable shoes are recommended, as you may be walking around the museum and participating in activities. Seasonal considerations should also be taken into account; if visiting in colder months, dress warmly, as some areas may be less heated.
+When visiting the Papiermuseum Düren, it's advisable to bring a small bag or backpack for personal belongings. Comfortable shoes are recommended, as you may be walking around the museum and participating in activities. Seasonal considerations should also be taken into account; if visiting in colder months, dress warmly, as some areas may be less heated.
 
 If you plan to engage in workshops or hands-on activities, check for any specific materials or tools that may be provided by the museum or if you need to bring anything along.
 

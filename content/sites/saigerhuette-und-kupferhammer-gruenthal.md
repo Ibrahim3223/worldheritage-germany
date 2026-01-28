@@ -34,7 +34,7 @@ The museum's significance extends beyond its exhibitions; it acts as a cultural 
 
 The Saigerhütte und Kupferhammer Grünthal museum stands on the foundations of a historic copper hammer mill, a type of facility essential to the processing of copper. The history of copper production in this region dates back several centuries, reflecting the area's transformation from a predominantly agrarian society to an industrial powerhouse. The site was a bustling center of activity where raw copper was transformed into usable materials for various applications.
 
-The cultural importance of the site cannot be overstated. It embodies the technological advancements of its time, showcasing the methods and tools used by artisans and laborers. The museum’s collection includes exhibits that trace the evolution of copper production, illustrating how the industry adapted to changing demands and technological innovations. These elements serve as a reminder of the skills and labor that contributed to the region’s economic development.
+The cultural importance of the site cannot be overstated. It embodies the technological advancements of its time, showcasing the methods and tools used by artisans and laborers. The museum's collection includes exhibits that trace the evolution of copper production, illustrating how the industry adapted to changing demands and technological innovations. These elements serve as a reminder of the skills and labor that contributed to the region's economic development.
 
 Visiting Saigerhütte und Kupferhammer Grünthal allows guests to explore not only the history of copper but also the broader historical context of the region's industrial growth. By engaging with the exhibits, visitors gain a deeper appreciation for the craftsmanship involved in metalworking and its importance to local and national economies. The museum plays a vital role in preserving this history for future generations, offering educational programs and resources to enhance understanding of industrial heritage.
 
@@ -101,7 +101,7 @@ Accessibility features may be available. For specific inquiries, check the offic
 Ticket purchasing options may vary. Check the official website for information on online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site. It’s best to check the official website for details regarding visitor amenities.
+Facilities may be available on-site. It's best to check the official website for details regarding visitor amenities.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to explore the museum and surrounding areas extensively.

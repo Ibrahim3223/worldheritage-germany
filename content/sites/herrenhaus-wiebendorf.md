@@ -38,7 +38,7 @@ Today, the site serves as a focal point for discussions about heritage conservat
 
 Herrenhaus Wiebendorf, as a manor house, would have originally featured the hallmarks of traditional German architecture, characterized by a blend of functionality and aesthetic appeal. While specific architectural details about the structure are not documented due to its destruction, one can imagine the elements typical of manorial estates of the period.
 
-Typically, manor houses in this region would exhibit a combination of medieval and Renaissance influences, often showcasing intricate facades, large windows, and expansive grounds. The design would likely have included spacious rooms for entertaining guests, as well as private quarters for the family. The surrounding landscape would have been carefully manicured, emphasizing the estate’s prominence and the owner's status.
+Typically, manor houses in this region would exhibit a combination of medieval and Renaissance influences, often showcasing intricate facades, large windows, and expansive grounds. The design would likely have included spacious rooms for entertaining guests, as well as private quarters for the family. The surrounding landscape would have been carefully manicured, emphasizing the estate's prominence and the owner's status.
 
 Although the physical structure is no longer intact, the remnants may still convey hints of its former grandeur. Visitors may find traces of the building's foundation, garden layouts, or paths that once connected various areas of the estate. Such remnants provide a canvas for the imagination, allowing one to reconstruct the manor's historical ambiance and understand its place within the local context.
 
@@ -72,7 +72,7 @@ To avoid crowds, aim for weekdays rather than weekends, as this may allow for a 
 
 ## Practical Information
 
-When visiting Herrenhaus Wiebendorf, it is advisable to bring essentials such as water, comfortable walking shoes, and a camera for capturing the site’s atmosphere. As the area may lack extensive facilities, prepare for a self-sufficient visit.
+When visiting Herrenhaus Wiebendorf, it is advisable to bring essentials such as water, comfortable walking shoes, and a camera for capturing the site's atmosphere. As the area may lack extensive facilities, prepare for a self-sufficient visit.
 
 Seasonal considerations are important; spring and summer months are ideal, while winter may present challenges due to weather. Always check the official website for updates regarding any seasonal events or changes in accessibility.
 

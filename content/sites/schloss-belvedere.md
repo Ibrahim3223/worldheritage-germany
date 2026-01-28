@@ -34,11 +34,11 @@ In addition to its architectural beauty, Schloss Belvedere is a testament to the
 
 ## History and Significance
 
-The history of Schloss Belvedere is intertwined with the cultural and political developments of Weimar. The palace was originally constructed as a summer residence for the Duke of Saxe-Weimar, who sought a serene escape from the bustling city life. Over the years, it has played host to numerous artistic and cultural events, reflecting the city’s vibrant intellectual scene.
+The history of Schloss Belvedere is intertwined with the cultural and political developments of Weimar. The palace was originally constructed as a summer residence for the Duke of Saxe-Weimar, who sought a serene escape from the bustling city life. Over the years, it has played host to numerous artistic and cultural events, reflecting the city's vibrant intellectual scene.
 
-Throughout its history, Schloss Belvedere has also served as a venue for esteemed guests and artists, contributing to the cultural fabric of Weimar. This connection to the artistic community has enhanced its significance, as the palace became a gathering place for thinkers and creators during a transformative period in German history. The legacy of figures such as Johann Wolfgang von Goethe and Friedrich Schiller, who were closely associated with Weimar, continues to influence the palace’s cultural narrative today.
+Throughout its history, Schloss Belvedere has also served as a venue for esteemed guests and artists, contributing to the cultural fabric of Weimar. This connection to the artistic community has enhanced its significance, as the palace became a gathering place for thinkers and creators during a transformative period in German history. The legacy of figures such as Johann Wolfgang von Goethe and Friedrich Schiller, who were closely associated with Weimar, continues to influence the palace's cultural narrative today.
 
-The gardens surrounding the palace are equally significant, designed to complement the opulence of the architecture. They are a fine example of landscape design from the period, drawing visitors into a realm of beauty and tranquility. As part of the UNESCO World Heritage Site designation that includes Weimar’s cultural heritage, Schloss Belvedere stands as an important landmark that tells the story of the city’s past and its contributions to art and philosophy.
+The gardens surrounding the palace are equally significant, designed to complement the opulence of the architecture. They are a fine example of landscape design from the period, drawing visitors into a realm of beauty and tranquility. As part of the UNESCO World Heritage Site designation that includes Weimar's cultural heritage, Schloss Belvedere stands as an important landmark that tells the story of the city's past and its contributions to art and philosophy.
 
 ## Architecture and Features
 
@@ -107,7 +107,7 @@ Check the official website for current information on accessibility options at S
 Yes, tickets may be available for purchase online. Check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available on-site, but it’s advisable to check the official website for the most current information.
+Facilities such as restrooms and cafes are typically available on-site, but it's advisable to check the official website for the most current information.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, especially if you plan to explore the gardens extensively.

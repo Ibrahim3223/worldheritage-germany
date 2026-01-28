@@ -44,7 +44,7 @@ Großbernsau Castle is characterized by its remnants, which include various elem
 
 Key architectural features may include thick stone walls, which were essential for protection against invaders, as well as narrow windows designed to minimize exposure while allowing for defensive operations. The layout of the castle would have been strategic, with various sections dedicated to living quarters, storage, and defensive mechanisms. Visitors can observe how the remaining structures are aligned with the natural terrain, which would have been crucial for both aesthetic and defensive purposes.
 
-The ruins also offer an opportunity to appreciate the craftsmanship of the builders, as the remnants display evidence of the skill and artistry involved in medieval construction. Exploring these features allows visitors to gain a deeper understanding of the architectural innovations that were prevalent during the castle’s operational period.
+The ruins also offer an opportunity to appreciate the craftsmanship of the builders, as the remnants display evidence of the skill and artistry involved in medieval construction. Exploring these features allows visitors to gain a deeper understanding of the architectural innovations that were prevalent during the castle's operational period.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While exploring Großbernsau Castle, consider visiting these nearby attractions 
 
 3. **Castle Löwenburg**: Another nearby castle, known for its picturesque setting and historical significance, making it a worthwhile addition to your itinerary.
 
-4. **St. John the Baptist Church**: An important local landmark that showcases beautiful architecture and offers insights into the region’s religious heritage.
+4. **St. John the Baptist Church**: An important local landmark that showcases beautiful architecture and offers insights into the region's religious heritage.
 
 5. **Hiking Trails**: The surrounding areas of Overath are home to various hiking trails, allowing visitors to explore the natural beauty of the region while enjoying scenic views.
 

@@ -36,15 +36,15 @@ The history of St.-Johannis-Kapelle is interwoven with the development of Kirchr
 
 Chapters of community life have unfolded around St.-Johannis-Kapelle, with many generations gathering for worship and significant life events. The chapel has likely served as a venue for baptisms, weddings, and memorial services, reinforcing its role as an integral part of local customs. Over the years, it has adapted to the changing needs of its congregation while maintaining its core identity as a place of worship.
 
-The architectural design of St.-Johannis-Kapelle mirrors the styles prevalent in the region, showcasing elements that resonate with local craftsmanship. Its continued use and preservation speak to the community’s commitment to maintaining its cultural heritage. The chapel is not merely a religious site but a symbol of continuity and resilience, representing the bonds formed through shared faith and communal support.
+The architectural design of St.-Johannis-Kapelle mirrors the styles prevalent in the region, showcasing elements that resonate with local craftsmanship. Its continued use and preservation speak to the community's commitment to maintaining its cultural heritage. The chapel is not merely a religious site but a symbol of continuity and resilience, representing the bonds formed through shared faith and communal support.
 
 ## Architecture and Features 
 
-St.-Johannis-Kapelle is characterized by its classic chapel architecture, which reflects the ecclesiastical styles prominent in the area. The chapel’s structure is likely modest yet elegant, designed to facilitate communal worship and individual reflection. Its facade may feature traditional elements such as arched windows and a simple yet inviting entrance, which draws visitors inside.
+St.-Johannis-Kapelle is characterized by its classic chapel architecture, which reflects the ecclesiastical styles prominent in the area. The chapel's structure is likely modest yet elegant, designed to facilitate communal worship and individual reflection. Its facade may feature traditional elements such as arched windows and a simple yet inviting entrance, which draws visitors inside.
 
 Inside the chapel, one may find a serene atmosphere, conducive to contemplation and prayer. The interior may be adorned with meaningful religious symbols, art, or furnishings that enhance the spiritual experience. The design is intended to foster a sense of connection among worshippers, encouraging a community-centered approach to faith.
 
-The chapel’s setting within the Kirchrode-Bemerode-Wülferode region further complements its architectural appeal. Surrounded by the natural landscape, St.-Johannis-Kapelle serves as a serene backdrop for both spiritual and community gatherings. The simplicity of its design allows the focus to remain on the act of worship and the shared experiences of those who visit.
+The chapel's setting within the Kirchrode-Bemerode-Wülferode region further complements its architectural appeal. Surrounded by the natural landscape, St.-Johannis-Kapelle serves as a serene backdrop for both spiritual and community gatherings. The simplicity of its design allows the focus to remain on the act of worship and the shared experiences of those who visit.
 
 ## Visiting Information 
 
@@ -70,7 +70,7 @@ When visiting St.-Johannis-Kapelle, consider exploring these nearby attractions 
 
 ## Insider Tips 
 
-For the best photography opportunities, aim to visit during the golden hours of early morning or late afternoon, when natural light enhances the beauty of the chapel’s exterior. If you wish to avoid crowds, visiting on a weekday is advisable, as weekends may attract more visitors.
+For the best photography opportunities, aim to visit during the golden hours of early morning or late afternoon, when natural light enhances the beauty of the chapel's exterior. If you wish to avoid crowds, visiting on a weekday is advisable, as weekends may attract more visitors.
 
 When photographing inside the chapel, be respectful of the sacred space and consider the presence of others who may be there for worship or reflection.
 
@@ -95,7 +95,7 @@ Check the official website for information regarding guided tours or programs th
 Weekdays or early mornings are ideal for a quieter experience, allowing you to enjoy the chapel without large crowds.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility may vary, so it’s best to check the official website for the most current details.
+Information regarding accessibility may vary, so it's best to check the official website for the most current details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticketing options and availability, as policies may change.

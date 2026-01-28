@@ -72,7 +72,7 @@ While exploring Burg Hohentann, consider visiting the following nearby attractio
 
 When visiting Burg Hohentann, consider bringing a camera to capture the impressive architecture and scenic views. Early mornings or late afternoons often provide the best natural light for photography, particularly during golden hour.
 
-To avoid crowds, plan your visit during weekdays or less popular seasons. This not only enhances your experience but also allows for a more contemplative exploration of the site’s history.
+To avoid crowds, plan your visit during weekdays or less popular seasons. This not only enhances your experience but also allows for a more contemplative exploration of the site's history.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ Additionally, check the official website for any seasonal considerations, such a
 A visit to Burg Hohentann typically takes a few hours, allowing time for exploration and appreciation of the castle and its surroundings.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s best to check for any specific restrictions on signage at the site.
+While photography is generally permitted, it's best to check for any specific restrictions on signage at the site.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website. Consider checking there for any scheduled tours or special events.

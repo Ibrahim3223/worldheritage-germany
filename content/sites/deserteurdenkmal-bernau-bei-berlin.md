@@ -28,7 +28,7 @@ image_srcset:
 
 The Deserteurdenkmal, located in Bernau bei Berlin, is a poignant monument dedicated to the memory of those who resisted military service in the former German Democratic Republic (GDR). This solemn site serves as a reminder of the struggles faced by individuals who made the difficult decision to desert the military during a time of political repression. Set against the backdrop of Brandenburg, this monument not only commemorates the courage of these individuals but also encourages reflection on the broader themes of freedom and human rights. 
 
-Visitors to the Deserteurdenkmal will find a space that invites contemplation and respect. The monument stands as a symbol of resistance against coercion and the quest for personal autonomy, making it a significant landmark in understanding Germany’s complex history in the context of the Cold War. As you approach the monument, you will be struck by its solemnity and the weight of its message, offering a unique opportunity to engage with the past and its implications for present-day values.
+Visitors to the Deserteurdenkmal will find a space that invites contemplation and respect. The monument stands as a symbol of resistance against coercion and the quest for personal autonomy, making it a significant landmark in understanding Germany's complex history in the context of the Cold War. As you approach the monument, you will be struck by its solemnity and the weight of its message, offering a unique opportunity to engage with the past and its implications for present-day values.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Deserteurdenkmal has deep cultural resonance, particularly given its focus o
 
 This monument not only memorializes the acts of these courageous individuals but also serves as a broader commentary on the nature of duty, freedom, and the human spirit's resilience in the face of oppression. The site has become an important location for remembrance and reflection, drawing attention to the complex narratives of loyalty and dissent that characterized life under a totalitarian regime.
 
-The significance of the Deserteurdenkmal extends beyond its immediate context; it resonates with contemporary discussions on civil rights and the importance of standing up for one’s beliefs, even when such acts may lead to personal risk. The monument encourages visitors to reflect on the importance of freedom of choice and the moral complexities associated with military service. As such, it plays a crucial role in fostering dialogue about peace, justice, and human rights.
+The significance of the Deserteurdenkmal extends beyond its immediate context; it resonates with contemporary discussions on civil rights and the importance of standing up for one's beliefs, even when such acts may lead to personal risk. The monument encourages visitors to reflect on the importance of freedom of choice and the moral complexities associated with military service. As such, it plays a crucial role in fostering dialogue about peace, justice, and human rights.
 
 ## Architecture and Features
 
@@ -56,9 +56,9 @@ As always, check the official website for hours and any potential entry fees bef
 
 ## Nearby Attractions
 
-1. **Bernau’s Historic Town Center**: Explore the charming streets of Bernau, which feature historical architecture and quaint shops, providing a glimpse into local life.
+1. **Bernau's Historic Town Center**: Explore the charming streets of Bernau, which feature historical architecture and quaint shops, providing a glimpse into local life.
 
-2. **St. Mary’s Church (Sankt Marien)**: A beautiful Gothic church located nearby, known for its stunning architecture and historical significance.
+2. **St. Mary's Church (Sankt Marien)**: A beautiful Gothic church located nearby, known for its stunning architecture and historical significance.
 
 3. **The Barnim Nature Park**: For those who appreciate the outdoors, this park offers trails and natural beauty, perfect for a leisurely walk or a picnic.
 
@@ -74,7 +74,7 @@ To avoid larger crowds, plan your visit during weekdays rather than weekends. Th
 
 ## Practical Information
 
-When planning your visit to the Deserteurdenkmal, it’s wise to bring along essentials such as water and comfortable walking shoes, as you may want to explore the surrounding area. 
+When planning your visit to the Deserteurdenkmal, it's wise to bring along essentials such as water and comfortable walking shoes, as you may want to explore the surrounding area. 
 
 Seasonal considerations should also be accounted for; spring and autumn can offer mild weather ideal for walking. In winter, be prepared for colder temperatures, which may affect your visit duration as outdoor exploration can be less appealing.
 

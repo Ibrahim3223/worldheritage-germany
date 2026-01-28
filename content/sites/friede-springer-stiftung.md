@@ -22,7 +22,7 @@ images:
 
 ## Overview
 
-In the heart of Berlin, the Friede Springer Stiftung stands as a nonprofit organization dedicated to fostering cultural and social initiatives. Established with a vision to support various charitable projects, the foundation plays a significant role in the vibrant landscape of Berlin’s philanthropic endeavors. As a prominent entity within the German nonprofit sector, it addresses pressing social issues and champions cultural initiatives that enhance community well-being. Visitors and locals alike can appreciate the foundation's commitment to enriching the social fabric of the city. Although the foundation itself is not a museum or traditional tourist attraction, it represents an important aspect of Berlin's contemporary culture and civic life.
+In the heart of Berlin, the Friede Springer Stiftung stands as a nonprofit organization dedicated to fostering cultural and social initiatives. Established with a vision to support various charitable projects, the foundation plays a significant role in the vibrant landscape of Berlin's philanthropic endeavors. As a prominent entity within the German nonprofit sector, it addresses pressing social issues and champions cultural initiatives that enhance community well-being. Visitors and locals alike can appreciate the foundation's commitment to enriching the social fabric of the city. Although the foundation itself is not a museum or traditional tourist attraction, it represents an important aspect of Berlin's contemporary culture and civic life.
 
 ## History and Significance
 
@@ -89,7 +89,7 @@ Photography policies may vary by event. Always check with staff or signage regar
 The foundation may offer guided tours or events, but details can vary. Check the official website for current offerings.
 
 ### What's the best time to visit?
-The best time to visit aligns with specific events or exhibitions, so keep an eye on the foundation’s schedule.
+The best time to visit aligns with specific events or exhibitions, so keep an eye on the foundation's schedule.
 
 ### Is it wheelchair accessible?
 Accessibility information may vary. It is advisable to check directly with the foundation for specific accommodations.

@@ -52,7 +52,7 @@ For those planning to visit the Church in Alt Meteln, it is advisable to check t
 
 Transportation options to Alt Meteln vary, with local public transport providing access to the village. Those driving can enjoy scenic routes that showcase the beauty of the German countryside. Once in the village, the church is likely within walking distance from key transport hubs.
 
-A visit typically requires about an hour, allowing ample time to appreciate the church’s architecture and the peaceful surroundings. The best times to explore the church are during weekdays or off-peak hours, providing a more serene experience away from larger crowds often found during weekends or special events.
+A visit typically requires about an hour, allowing ample time to appreciate the church's architecture and the peaceful surroundings. The best times to explore the church are during weekdays or off-peak hours, providing a more serene experience away from larger crowds often found during weekends or special events.
 
 ## Nearby Attractions
 
@@ -88,7 +88,7 @@ If visiting during colder months, dress in layers to remain comfortable while ex
 A visit typically takes about an hour, allowing ample time to explore the church and surrounding area.
 
 ### Is photography allowed?
-Photography rules may vary; it’s advisable to check for any restrictions, particularly inside the church.
+Photography rules may vary; it's advisable to check for any restrictions, particularly inside the church.
 
 ### Are there guided tours?
 Information about guided tours may not be available; check the official website for the latest updates.

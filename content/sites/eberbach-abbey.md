@@ -28,7 +28,7 @@ image_srcset:
 
 Eberbach Abbey, a former monastery now transformed into a museum, invites visitors to explore its historical and cultural legacy in the heart of the Rheingau region of Germany. Situated in Eltville am Rhein, this site not only serves as a remarkable example of medieval monastic architecture but also highlights the rich traditions of viticulture and spirituality that thrived in this area. As you step into the abbey, you will encounter an environment steeped in history, where the echoes of monastic life resonate through its ancient walls.
 
-The abbey’s well-preserved structures and tranquil gardens provide a serene backdrop for exploration, drawing in those with interests ranging from architecture to history and wine culture. Eberbach Abbey is a significant cultural site that reflects the monastic practices and lifestyle from centuries past. Visitors can expect a thoughtful experience that blends education with the beauty of the surrounding vineyards and landscapes.
+The abbey's well-preserved structures and tranquil gardens provide a serene backdrop for exploration, drawing in those with interests ranging from architecture to history and wine culture. Eberbach Abbey is a significant cultural site that reflects the monastic practices and lifestyle from centuries past. Visitors can expect a thoughtful experience that blends education with the beauty of the surrounding vineyards and landscapes.
 
 ## History and Significance
 
@@ -64,7 +64,7 @@ While visiting Eberbach Abbey, consider exploring these nearby attractions:
 
 1. **Eltville am Rhein**: The town surrounding the abbey offers picturesque streets, charming shops, and the beautiful banks of the Rhine River. It is an ideal place to stroll and enjoy local cuisine.
 
-2. **Rheingau Wine Region**: Known for its vineyards and wineries, the Rheingau region is perfect for wine enthusiasts. Many local wineries offer tastings and tours, celebrating the area’s rich vinicultural heritage.
+2. **Rheingau Wine Region**: Known for its vineyards and wineries, the Rheingau region is perfect for wine enthusiasts. Many local wineries offer tastings and tours, celebrating the area's rich vinicultural heritage.
 
 3. **Castle Johannisberg**: Located a short distance from the abbey, this historic castle offers tours and stunning views of the surrounding vineyards. It is also known for its wine production.
 

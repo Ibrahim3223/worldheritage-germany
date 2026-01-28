@@ -103,7 +103,7 @@ Check the official website for details on accessibility options available at the
 For information on ticket purchasing and entry fees, consult the official website for the latest updates.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to check local resources for nearby amenities before your visit.
+Facilities may be limited, so it's advisable to check local resources for nearby amenities before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, taking into account that you may be visiting a sacred space.

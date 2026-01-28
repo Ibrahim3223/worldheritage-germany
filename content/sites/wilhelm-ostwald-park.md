@@ -44,7 +44,7 @@ The architectural design of Wilhelm Ostwald Park reflects a blend of functionali
 
 Inside the museum, visitors will find a variety of exhibits that detail Ostwald's contributions to chemistry and philosophy. Interactive displays and educational materials may be available to enhance the learning experience, allowing guests to engage with complex concepts in an accessible manner. The park itself is designed to encourage exploration, with pathways that invite visitors to wander and reflect on the ideas presented.
 
-The thoughtful landscaping surrounding the museum complements its mission by providing a tranquil setting for contemplation. Visitors can expect to find areas conducive to relaxation and reflection, making the park an ideal spot for those looking to engage with Ostwald’s legacy in a peaceful environment.
+The thoughtful landscaping surrounding the museum complements its mission by providing a tranquil setting for contemplation. Visitors can expect to find areas conducive to relaxation and reflection, making the park an ideal spot for those looking to engage with Ostwald's legacy in a peaceful environment.
 
 ## Visiting Information
 

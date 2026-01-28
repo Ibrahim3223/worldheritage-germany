@@ -95,7 +95,7 @@ A visit to Wartburg typically takes around 2-3 hours, allowing time for explorat
 Yes, photography is generally allowed, but be mindful of any specific restrictions in certain areas.
 
 ### Are there guided tours?
-Guided tours are available and provide a deeper understanding of the castle’s history and architecture.
+Guided tours are available and provide a deeper understanding of the castle's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are spring and autumn when the weather is mild and the surrounding scenery is particularly beautiful.

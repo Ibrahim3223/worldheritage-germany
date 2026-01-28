@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Nidberg, a castle located in the Marienberg region of Germany, invites visitors to explore its historical depths and architectural charm. This medieval structure provides a glimpse into the past, standing as a silent witness to centuries of regional history. Set against the backdrop of the picturesque German landscape, the castle not only serves as a reminder of the era of knights and nobility but also contributes to the cultural heritage of the area.
 
-The significance of Burg Nidberg extends beyond its stone walls; it represents a period in history where castles served as both fortifications and residences. As you navigate through its corridors and grounds, you will uncover stories of the people who once inhabited this fortress, adding layers to your understanding of local culture and history. An exploration of Burg Nidberg is more than a visit to a historical site; it’s a chance to connect with the legacy of a bygone era.
+The significance of Burg Nidberg extends beyond its stone walls; it represents a period in history where castles served as both fortifications and residences. As you navigate through its corridors and grounds, you will uncover stories of the people who once inhabited this fortress, adding layers to your understanding of local culture and history. An exploration of Burg Nidberg is more than a visit to a historical site; it's a chance to connect with the legacy of a bygone era.
 
 This guide will provide you with all the necessary information to make the most of your visit, from its historical context to practical tips for navigating your journey. Whether you're a history aficionado or simply curious about the architectural marvels of the past, Burg Nidberg promises an enriching experience.
 
@@ -46,7 +46,7 @@ Burg Nidberg showcases the typical architectural characteristics of medieval cas
 
 The layout of the castle includes various rooms that would have been used for different purposes, such as living quarters, storage, and possibly even areas for governance. While specifics about interior features may not be detailed, the overall structure offers insights into how these buildings functioned in their heyday.
 
-Additionally, the surrounding landscape plays an integral role in the castle’s historical context. The elevated position of Burg Nidberg would have provided its inhabitants with a strategic overview of the surrounding area, enhancing its defensive capabilities while also serving as a hub of activity.
+Additionally, the surrounding landscape plays an integral role in the castle's historical context. The elevated position of Burg Nidberg would have provided its inhabitants with a strategic overview of the surrounding area, enhancing its defensive capabilities while also serving as a hub of activity.
 
 ## Visiting Information
 
@@ -73,7 +73,7 @@ To avoid larger crowds, plan your visit on weekdays if possible. Early mornings 
 
 ## Practical Information
 
-When visiting Burg Nidberg, it’s advisable to wear comfortable shoes, as exploring the castle and its grounds may involve walking on uneven surfaces. Bringing a water bottle can also help you stay hydrated, especially during warmer months.
+When visiting Burg Nidberg, it's advisable to wear comfortable shoes, as exploring the castle and its grounds may involve walking on uneven surfaces. Bringing a water bottle can also help you stay hydrated, especially during warmer months.
 
 Seasonal considerations are important, as winter may bring colder temperatures, which could affect your experience. Always check the weather forecast before your visit to dress appropriately for the conditions.
 
@@ -92,7 +92,7 @@ While specific guided tours may not be available, exploring the castle independe
 The best times to visit are usually during the spring and early autumn when the weather is mild and conducive to exploration.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s recommended to check the official website for details regarding wheelchair access.
+Accessibility information may vary; it's recommended to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and availability.

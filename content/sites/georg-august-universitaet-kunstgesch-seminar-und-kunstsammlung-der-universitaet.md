@@ -22,7 +22,7 @@ images:
 
 In the heart of Göttingen, Germany, lies the Georg-August-Universität: Kunstgesch. Seminar und Kunstsammlung der Universität, a distinguished museum that serves as a cultural and educational hub within one of Germany's oldest universities. This institution not only showcases a diverse collection of artworks but also functions as a seminar space dedicated to the study of art history. Founded in the 18th century, the university has a longstanding tradition of scholarly excellence and innovation, making this museum an integral part of its legacy. 
 
-Visitors to the museum can expect to explore a variety of art pieces that reflect the rich academic environment of the university and the region's cultural heritage. The museum aims to foster a deeper appreciation of art by providing access to significant works, thereby enriching the visitor experience and contributing to the academic community. The museum’s collection is carefully curated, allowing for a thoughtful presentation of art that stimulates both learning and engagement.
+Visitors to the museum can expect to explore a variety of art pieces that reflect the rich academic environment of the university and the region's cultural heritage. The museum aims to foster a deeper appreciation of art by providing access to significant works, thereby enriching the visitor experience and contributing to the academic community. The museum's collection is carefully curated, allowing for a thoughtful presentation of art that stimulates both learning and engagement.
 
 As you step into the museum, prepare to immerse yourself in a world that celebrates artistic expression and academic inquiry, all while being situated in the vibrant city of Göttingen.
 
@@ -32,7 +32,7 @@ The Georg-August-Universität, established in 1737, is renowned for its contribu
 
 The cultural importance of this museum extends beyond its collection; it serves as a venue for academic discourse, workshops, and exhibitions that engage students, scholars, and the general public. This commitment to education and accessibility is a defining characteristic of the museum, where the intersection of art and scholarship is celebrated.
 
-The museum’s establishment is tied to the university’s mission of fostering an environment of inquiry and learning. By integrating a museum within an academic institution, the Georg-August-Universität emphasizes the value of arts in education and the importance of historical context in understanding contemporary issues. The museum not only preserves the past but also encourages critical thinking and discussion about art's role in society.
+The museum's establishment is tied to the university's mission of fostering an environment of inquiry and learning. By integrating a museum within an academic institution, the Georg-August-Universität emphasizes the value of arts in education and the importance of historical context in understanding contemporary issues. The museum not only preserves the past but also encourages critical thinking and discussion about art's role in society.
 
 ## Architecture and Features
 
@@ -40,7 +40,7 @@ The architectural style of the Georg-August-Universität: Kunstgesch. Seminar un
 
 Inside the museum, visitors will find thoughtfully arranged exhibition spaces that allow for an engaging exploration of the artwork. Each piece is displayed with consideration for its historical context and artistic merit, inviting viewers to reflect on the connections between the works and the ideas they represent. The layout is designed to facilitate both individual exploration and guided tours, accommodating a variety of visitor preferences.
 
-The museum also features seminar rooms where academic discussions and lectures take place, reinforcing the institution’s dual role as both an educational space and a gallery. This unique combination enables the museum to serve as a dynamic platform for the study of art history.
+The museum also features seminar rooms where academic discussions and lectures take place, reinforcing the institution's dual role as both an educational space and a gallery. This unique combination enables the museum to serve as a dynamic platform for the study of art history.
 
 ## Visiting Information
 

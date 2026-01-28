@@ -100,7 +100,7 @@ When preparing for your visit to St.-Cornelius-und-Cyprian-Kirche, consider brin
 A typical visit to St.-Cornelius-und-Cyprian-Kirche can range from 30 minutes to an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon arrival.
+Photography policies may vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Currently, specific details about guided tours may not be available. Check the official website for potential offerings.

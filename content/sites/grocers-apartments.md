@@ -28,9 +28,9 @@ image_srcset:
 
 The Grocers' Apartments, located in the heart of Hamburg-Mitte, Germany, serve as a unique museum that showcases the historical significance of urban life and commerce in the city. This site connects visitors with Hamburg's vibrant past, particularly its role as a major trading hub. The museum invites guests to explore the living conditions of grocers in previous centuries, offering a glimpse into their daily lives and the evolution of commerce in this bustling port city. 
 
-Set against the backdrop of Hamburg's rich maritime history, the Grocers' Apartments are an essential stop for those interested in understanding the intricate tapestry of the city’s development. With its focus on the domestic spaces of grocers, the museum highlights a lesser-known aspect of urban history, making it a worthwhile destination for anyone curious about the intersection of commerce, culture, and community.
+Set against the backdrop of Hamburg's rich maritime history, the Grocers' Apartments are an essential stop for those interested in understanding the intricate tapestry of the city's development. With its focus on the domestic spaces of grocers, the museum highlights a lesser-known aspect of urban history, making it a worthwhile destination for anyone curious about the intersection of commerce, culture, and community.
 
-Visitors can expect an engaging experience that not only educates but also inspires appreciation for the perseverance and ingenuity of those who shaped Hamburg’s commercial landscape. Whether you are a history buff, a museum enthusiast, or simply looking to understand more about the city's heritage, the Grocers' Apartments promise an enlightening visit.
+Visitors can expect an engaging experience that not only educates but also inspires appreciation for the perseverance and ingenuity of those who shaped Hamburg's commercial landscape. Whether you are a history buff, a museum enthusiast, or simply looking to understand more about the city's heritage, the Grocers' Apartments promise an enlightening visit.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ When planning your visit to the Grocers' Apartments, consider bringing a camera,
 A visit to the Grocers' Apartments typically requires about 2 to 3 hours to fully explore the exhibits and appreciate the historical context.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival to understand any restrictions.
+Photography policies may vary, so it's best to check with museum staff upon arrival to understand any restrictions.
 
 ### Are there guided tours?
 While specific details about guided tours are not provided here, it is recommended to inquire at the museum for available options.

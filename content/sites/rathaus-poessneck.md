@@ -34,9 +34,9 @@ The museum is not only a repository of artifacts and stories but also a center f
 
 The Rathaus Pößneck is situated in a town that has seen various transformations throughout its history. While specific details about its founding or significant events are not outlined, the museum itself serves as a reflection of Pößneck's cultural evolution. Traditionally, town halls across Germany functioned as administrative centers and spaces for public gatherings, making them pivotal in the development of civic identity.
 
-In Pößneck, the Rathaus has likely played a similar role, being central to the community's political and social life. As a museum, it now represents an essential resource for understanding the local community's past. The exhibits may include artifacts related to Pößneck’s industrial history, local crafts, and the daily life of its inhabitants through different eras, showcasing how the community has adapted to change over time.
+In Pößneck, the Rathaus has likely played a similar role, being central to the community's political and social life. As a museum, it now represents an essential resource for understanding the local community's past. The exhibits may include artifacts related to Pößneck's industrial history, local crafts, and the daily life of its inhabitants through different eras, showcasing how the community has adapted to change over time.
 
-The cultural significance of the Rathaus extends beyond its physical structure. It stands as a symbol of local governance and civic pride, embodying the collective memory of the town’s residents. As visitors engage with the displays and educational materials, they not only learn about Pößneck but also gain insight into the broader narrative of German history, particularly in the context of small towns and their unique contributions to the national story.
+The cultural significance of the Rathaus extends beyond its physical structure. It stands as a symbol of local governance and civic pride, embodying the collective memory of the town's residents. As visitors engage with the displays and educational materials, they not only learn about Pößneck but also gain insight into the broader narrative of German history, particularly in the context of small towns and their unique contributions to the national story.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Rathaus Pößneck may also host special events or exhibitions throughout the yea
 
 While exploring Pößneck, several nearby attractions can complement your visit to Rathaus Pößneck. Consider the following:
 
-- **St. John’s Church**: A prominent landmark in Pößneck, this church showcases beautiful architecture and often serves as a venue for cultural events.
+- **St. John's Church**: A prominent landmark in Pößneck, this church showcases beautiful architecture and often serves as a venue for cultural events.
 
 - **Pößneck Town Park**: An ideal place for a leisurely stroll, the park offers green spaces and walking paths, perfect for relaxing after your museum visit.
 
@@ -76,7 +76,7 @@ For those planning a visit to Rathaus Pößneck, here are some insider tips to e
 
 - **Crowd Avoidance**: To enjoy a more intimate experience with the exhibits, consider visiting during the morning or on weekdays when the museum is likely to be less crowded.
 
-- **Engage with Staff**: The museum staff can provide valuable insights and information, so don’t hesitate to ask questions or seek recommendations on what to see.
+- **Engage with Staff**: The museum staff can provide valuable insights and information, so don't hesitate to ask questions or seek recommendations on what to see.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Check the official website for information on whether guided tours are available
 Weekdays and mornings tend to be quieter, allowing for a more relaxed experience with the exhibits.
 
 ### Is it wheelchair accessible?
-For accessibility information, it’s best to consult the official website before your visit to ensure a comfortable experience.
+For accessibility information, it's best to consult the official website before your visit to ensure a comfortable experience.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, including whether online purchases are available.

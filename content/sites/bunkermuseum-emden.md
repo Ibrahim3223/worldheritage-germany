@@ -78,9 +78,9 @@ To enhance your visit to the Bunkermuseum Emden, consider the following tips:
 
 ## Practical Information
 
-When visiting the Bunkermuseum Emden, it’s advisable to wear comfortable shoes, as the museum may require some walking. Depending on the time of year, consider layering your clothing to accommodate varying temperatures, especially if you plan to explore outdoor areas.
+When visiting the Bunkermuseum Emden, it's advisable to wear comfortable shoes, as the museum may require some walking. Depending on the time of year, consider layering your clothing to accommodate varying temperatures, especially if you plan to explore outdoor areas.
 
-It’s also recommended to bring a water bottle and a small bag for any personal items or souvenirs you might acquire during your visit. 
+It's also recommended to bring a water bottle and a small bag for any personal items or souvenirs you might acquire during your visit. 
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Check the official website for detailed accessibility information to ensure a co
 For ticket purchasing options, including online availability, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are available on-site, but for dining options, check the museum’s amenities or nearby establishments.
+Facilities such as restrooms are available on-site, but for dining options, check the museum's amenities or nearby establishments.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to spend time exploring the museum and its surroundings.

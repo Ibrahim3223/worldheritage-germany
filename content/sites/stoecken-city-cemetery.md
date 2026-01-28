@@ -62,7 +62,7 @@ While visiting Stöcken City Cemetery, consider exploring the following nearby a
    
 2. **Wishing Well**: Located within the vicinity, this quaint site offers a charming spot to pause and reflect, surrounded by local flora.
    
-3. **St. Joseph’s Church**: This nearby church features stunning architecture and historical significance, making it a worthwhile stop for those interested in religious sites.
+3. **St. Joseph's Church**: This nearby church features stunning architecture and historical significance, making it a worthwhile stop for those interested in religious sites.
 
 4. **Hanover Zoo**: A bit further afield, this popular attraction provides a family-friendly experience and opportunities to learn about wildlife conservation.
 
@@ -72,7 +72,7 @@ While visiting Stöcken City Cemetery, consider exploring the following nearby a
 
 For those planning to visit Stöcken City Cemetery, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography is generally permitted in cemeteries, it’s important to be respectful of the space and the solemn nature of the site. Consider capturing the intricate details of gravestones and monuments rather than broader landscape shots.
+- **Photography**: While photography is generally permitted in cemeteries, it's important to be respectful of the space and the solemn nature of the site. Consider capturing the intricate details of gravestones and monuments rather than broader landscape shots.
 
 - **Timing Your Visit**: To avoid crowds, try visiting during weekdays or early morning hours. This will allow you more space and quiet to reflect on the cemetery's atmosphere.
 
@@ -92,7 +92,7 @@ When visiting Stöcken City Cemetery, it is advisable to bring a few essentials 
 A visit typically takes about one to two hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s recommended to be respectful of the site and its significance.
+Photography is generally permitted, but it's recommended to be respectful of the site and its significance.
 
 ### Are there guided tours?
 Currently, there is no specific information on guided tours. Check the official website for potential updates.

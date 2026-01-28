@@ -97,7 +97,7 @@ Accessibility features are typically a priority for institutions like the Sobek 
 Details about ticket purchases can be found on the official website; it is recommended to verify options prior to your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and possible cafes are likely available; it’s best to check the official website for specific amenities.
+Facilities such as restrooms and possible cafes are likely available; it's best to check the official website for specific amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended to ensure an enjoyable visit, especially if you plan on exploring various areas of the foundation.

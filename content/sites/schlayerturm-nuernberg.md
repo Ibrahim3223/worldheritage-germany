@@ -36,9 +36,9 @@ As part of the historical fabric of Nürnberg, the Schlayerturm has witnessed si
 
 The Schlayerturm is a prominent example of medieval tower architecture, characterized by its robust construction and strategic design. While detailed architectural specifications are not available, the tower exemplifies the defensive features typical of structures built during its era. The use of solid stone materials signifies its purpose as a protective edifice, while its design may include elements such as crenellations, narrow windows, and a commanding height, all contributing to its defensive capabilities.
 
-Visitors can observe the tower’s structural integrity, which has allowed it to endure through the ages. The craftsmanship is indicative of the period's architectural practices, showcasing techniques that have withstood the test of time. The simplicity of its form, combined with functional design elements, reflects the dual necessity of utility and fortification in medieval architecture.
+Visitors can observe the tower's structural integrity, which has allowed it to endure through the ages. The craftsmanship is indicative of the period's architectural practices, showcasing techniques that have withstood the test of time. The simplicity of its form, combined with functional design elements, reflects the dual necessity of utility and fortification in medieval architecture.
 
-The surrounding area of the Schlayerturm may also provide insight into how the tower integrates with the urban landscape of Nürnberg. It stands as a reminder of the city’s medieval fortifications, which once encircled the town, and serves as a focal point for understanding the historical layout and planning of urban centers in that period.
+The surrounding area of the Schlayerturm may also provide insight into how the tower integrates with the urban landscape of Nürnberg. It stands as a reminder of the city's medieval fortifications, which once encircled the town, and serves as a focal point for understanding the historical layout and planning of urban centers in that period.
 
 ## Visiting Information
 

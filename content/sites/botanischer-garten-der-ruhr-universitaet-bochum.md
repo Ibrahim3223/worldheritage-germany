@@ -115,7 +115,7 @@ The garden is designed to be accessible, but check the official website for spec
 Check the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but it’s advisable to refer to the official website for the most accurate information.
+Facilities such as restrooms may be available, but it's advisable to refer to the official website for the most accurate information.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking. Depending on the season, layering is recommended to adjust to changing temperatures.

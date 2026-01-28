@@ -62,7 +62,7 @@ While visiting Ladeburg, take the opportunity to explore nearby attractions that
 
 1. **Bernau bei Berlin Town Center**: Just a short journey from Ladeburg, the town center features charming streets, shops, and local eateries that reflect the character of the region.
    
-2. **St. Mary's Church (Marienkirche)**: Located in the heart of Bernau, this church is notable for its impressive Gothic architecture and historical significance, offering insights into the area’s religious past.
+2. **St. Mary's Church (Marienkirche)**: Located in the heart of Bernau, this church is notable for its impressive Gothic architecture and historical significance, offering insights into the area's religious past.
 
 3. **The Old Town of Bernau**: A stroll through the Old Town reveals well-preserved buildings and a glimpse into the architectural styles that have shaped the town over centuries.
 

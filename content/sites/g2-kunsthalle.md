@@ -30,11 +30,11 @@ G2 Kunsthalle is a notable establishment within Leipzig's rich cultural landscap
 
 The museum's programming typically features a mix of local talent and international artists, emphasizing the importance of contemporary art in reflecting societal issues and personal narratives. By doing so, G2 Kunsthalle plays a significant role in supporting the local art community while also positioning itself as a platform for global artistic dialogues.
 
-The museum’s exhibitions often change, providing a dynamic space for both emerging and established artists to showcase their work. This focus on contemporary practices not only highlights the evolution of art but also encourages visitors to engage with the current cultural climate. G2 Kunsthalle's commitment to innovation and creativity reflects Leipzig's broader reputation as a center for artistic experimentation.
+The museum's exhibitions often change, providing a dynamic space for both emerging and established artists to showcase their work. This focus on contemporary practices not only highlights the evolution of art but also encourages visitors to engage with the current cultural climate. G2 Kunsthalle's commitment to innovation and creativity reflects Leipzig's broader reputation as a center for artistic experimentation.
 
 ## Architecture and Features
 
-The architectural design of G2 Kunsthalle complements its mission of promoting contemporary art. While specific details about the building’s design are not available, many modern art museums prioritize open spaces that facilitate the display of large-scale installations and multimedia works. 
+The architectural design of G2 Kunsthalle complements its mission of promoting contemporary art. While specific details about the building's design are not available, many modern art museums prioritize open spaces that facilitate the display of large-scale installations and multimedia works. 
 
 The museum typically features clean lines and minimalistic aesthetics, allowing the artwork to take center stage. Natural light is often a key element in the design, creating an inviting atmosphere that enhances the viewing experience. Inside, the layout is likely to include various exhibition spaces that accommodate a range of artistic practices, from painting and sculpture to video installations.
 
@@ -89,7 +89,7 @@ Guided tours may be offered, providing deeper insights into the exhibitions and 
 Weekday mornings are often quieter, allowing for a more intimate viewing experience.
 
 ### Is it wheelchair accessible?
-G2 Kunsthalle typically aims to be accessible to all visitors, but it’s advisable to check the official website for specific accessibility features.
+G2 Kunsthalle typically aims to be accessible to all visitors, but it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchasing options.

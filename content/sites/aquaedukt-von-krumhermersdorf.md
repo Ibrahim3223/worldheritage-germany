@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Aquädukt von Krumhermersdorf is an impressive feat of engineering that spans the picturesque landscape of Zschopau, Germany. This aqueduct plays a crucial role in the region’s water supply, channeling drinking water from the Neunzehainer Talsperren to the urban center of Chemnitz. Its historical and technical significance makes it not only a vital infrastructure component but also a remarkable landmark that reflects the ingenuity of water management in the area. Visitors are drawn to its imposing structure and the historical context that surrounds its construction, offering a glimpse into the engineering advancements of its time.
+The Aquädukt von Krumhermersdorf is an impressive feat of engineering that spans the picturesque landscape of Zschopau, Germany. This aqueduct plays a crucial role in the region's water supply, channeling drinking water from the Neunzehainer Talsperren to the urban center of Chemnitz. Its historical and technical significance makes it not only a vital infrastructure component but also a remarkable landmark that reflects the ingenuity of water management in the area. Visitors are drawn to its imposing structure and the historical context that surrounds its construction, offering a glimpse into the engineering advancements of its time.
 
 Set against the backdrop of the beautiful Zschopau region, the aqueduct invites exploration and appreciation. While it serves a practical purpose, its aesthetic presence enhances the local landscape, making it a point of interest for both history enthusiasts and casual travelers alike. The Aquädukt von Krumhermersdorf stands as a symbol of the harmonious blend between nature and human ingenuity, promising an enriching experience for all who visit.
 

@@ -54,7 +54,7 @@ Bochum is home to a variety of attractions that complement a visit to the Bochum
 
 1. **German Mining Museum Bochum**: This museum offers an in-depth look at Germany's rich mining history, showcasing artifacts and exhibits that highlight the significance of coal mining in the region.
 
-2. **Starlight Express**: A unique musical experience, Starlight Express is a thrilling roller-skate performance that has captivated audiences for years. It’s a great option for an entertaining evening out after visiting the museum.
+2. **Starlight Express**: A unique musical experience, Starlight Express is a thrilling roller-skate performance that has captivated audiences for years. It's a great option for an entertaining evening out after visiting the museum.
 
 3. **RewirpowerSTADION**: The home of VfL Bochum, this stadium is a must-visit for sports enthusiasts. Catching a local football match can add an exciting touch to your Bochum experience.
 
@@ -66,7 +66,7 @@ Bochum is home to a variety of attractions that complement a visit to the Bochum
 
 When planning your visit to the Bochumer Krippenmuseum, consider the following insider tips to enhance your experience:
 
-- **Photography**: While many museums have restrictions on photography, be sure to check the museum’s policy regarding photography to capture your memories.
+- **Photography**: While many museums have restrictions on photography, be sure to check the museum's policy regarding photography to capture your memories.
 - **Crowd Avoidance**: To enjoy a more intimate experience, aim to visit during weekdays or early in the morning when foot traffic is typically lower.
 - **Guided Tours**: Inquire about any available guided tours. These can provide valuable insights and a deeper understanding of the exhibits.
 - **Interactive Displays**: Keep an eye out for any interactive elements or special features within the museum that may enhance your visit.

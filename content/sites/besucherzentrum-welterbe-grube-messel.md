@@ -48,7 +48,7 @@ Notable features of the museum include fossil replicas and original specimens, w
 
 ## Visiting Information
 
-Reaching the Besucherzentrum Welterbe Grube Messel is convenient, with several transport options available in the region. Visitors can arrive by car, utilizing available parking facilities nearby, or opt for public transportation services that connect Messel to larger cities in Germany. The museum’s strategic location makes it accessible for those traveling from various parts of the country.
+Reaching the Besucherzentrum Welterbe Grube Messel is convenient, with several transport options available in the region. Visitors can arrive by car, utilizing available parking facilities nearby, or opt for public transportation services that connect Messel to larger cities in Germany. The museum's strategic location makes it accessible for those traveling from various parts of the country.
 
 Check the official website for current information on hours and ticket prices. The museum typically caters to a wide range of visitors, from families to school groups, and offers various programs throughout the year. A visit to the Besucherzentrum can take anywhere from one to three hours, depending on your level of interest and engagement with the exhibits.
 
@@ -84,7 +84,7 @@ Depending on the time of year, consider seasonal factors such as weather and day
 Visitors typically spend between one to three hours at the museum, depending on their interest in the exhibits.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s best to check for any specific restrictions on certain exhibits.
+Photography is usually permitted, but it's best to check for any specific restrictions on certain exhibits.
 
 ### Are there guided tours?
 Yes, the museum offers guided tours that provide deeper insights into the exhibits and the significance of the Messel Pit.

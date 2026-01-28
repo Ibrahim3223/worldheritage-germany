@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Jaromarsburg, located in the serene landscape of Putgarten, Germany, is an ancient castle that offers a captivating glimpse into the region's spiritual and cultural heritage. Once a significant cult location, this site embodies centuries of history and is steeped in the legends of the early Slavic peoples who revered it as a sacred place. The castle’s strategic position provides a sense of connection to the surrounding environment, reflecting its historical importance as a center of worship and community gatherings.
+Jaromarsburg, located in the serene landscape of Putgarten, Germany, is an ancient castle that offers a captivating glimpse into the region's spiritual and cultural heritage. Once a significant cult location, this site embodies centuries of history and is steeped in the legends of the early Slavic peoples who revered it as a sacred place. The castle's strategic position provides a sense of connection to the surrounding environment, reflecting its historical importance as a center of worship and community gatherings.
 
 Visitors to Jaromarsburg can expect an engaging exploration of its storied past. The remnants of the castle, alongside the lush landscape, create a unique atmosphere that invites contemplation and appreciation for the cultures that once thrived here. Whether you are a history enthusiast, an architecture lover, or simply looking for a serene locale to enjoy a day out, Jaromarsburg promises an enriching experience that highlights the intersection of history and nature.
 
@@ -62,7 +62,7 @@ While visiting Jaromarsburg, consider exploring other nearby attractions that en
    
 2. **Cape Arkona**: This striking coastal landmark features dramatic cliffs and historic lighthouses, providing stunning views of the Baltic Sea.
 
-3. **Vitte**: A nearby fishing village known for its picturesque harbor and fresh seafood. It’s a perfect spot for a leisurely meal.
+3. **Vitte**: A nearby fishing village known for its picturesque harbor and fresh seafood. It's a perfect spot for a leisurely meal.
 
 4. **Museum of the Baltic Sea**: Located not far from Jaromarsburg, this museum offers insights into the maritime history and ecology of the Baltic Sea region.
 
@@ -76,7 +76,7 @@ Engaging with the site requires a sense of respect for its historical significan
 
 ## Practical Information
 
-When preparing for your visit to Jaromarsburg, it’s advisable to wear comfortable clothing and sturdy footwear, as exploring the grounds may involve some walking. Consider bringing a water bottle and snacks, especially if you plan to spend several hours at the site without nearby amenities.
+When preparing for your visit to Jaromarsburg, it's advisable to wear comfortable clothing and sturdy footwear, as exploring the grounds may involve some walking. Consider bringing a water bottle and snacks, especially if you plan to spend several hours at the site without nearby amenities.
 
 Seasonal considerations are important; check the weather forecast before your trip to ensure you are adequately prepared. If visiting during the cooler months, dress in layers to stay comfortable while enjoying the outdoor setting.
 

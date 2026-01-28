@@ -32,7 +32,7 @@ Ravensburg, known for its medieval architecture and vibrant cultural scene, comp
 
 ## History and Significance
 
-The Wirtschaftsmuseum serves as a chronicle of Ravensburg’s economic evolution, showcasing how the region adapted to changing industrial landscapes in the 19th and 20th centuries. The museum's focus on economic and social history reflects the profound shifts that took place during these pivotal years. 
+The Wirtschaftsmuseum serves as a chronicle of Ravensburg's economic evolution, showcasing how the region adapted to changing industrial landscapes in the 19th and 20th centuries. The museum's focus on economic and social history reflects the profound shifts that took place during these pivotal years. 
 
 As industrialization began to take root, Ravensburg transformed from a primarily agricultural society into a dynamic hub of commerce and manufacturing. This transition not only reshaped the local economy but also influenced the social fabric of the community, impacting everything from labor practices to family life. The museum presents a comprehensive overview of these developments, examining both the challenges and opportunities that arose during this era. 
 
@@ -44,7 +44,7 @@ The physical space of the Wirtschaftsmuseum itself is a reflection of its purpos
 
 Inside, visitors will find a variety of displays that have been arranged to facilitate an engaging experience. Artifacts from the 19th and 20th centuries, including tools, machinery, and documents, are thoughtfully curated to tell the story of economic transformations in the region. Each exhibit is accompanied by informative text, providing context and insights into the items on display.
 
-The museum’s layout encourages exploration, with pathways that guide visitors through the progression of economic history. Interactive elements may enhance the learning experience, allowing guests to engage with the material on a deeper level. While specific architectural details about the museum are not provided, its design prioritizes accessibility and visitor comfort, making it an inviting space for all.
+The museum's layout encourages exploration, with pathways that guide visitors through the progression of economic history. Interactive elements may enhance the learning experience, allowing guests to engage with the material on a deeper level. While specific architectural details about the museum are not provided, its design prioritizes accessibility and visitor comfort, making it an inviting space for all.
 
 ## Visiting Information
 

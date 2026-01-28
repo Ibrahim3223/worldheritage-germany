@@ -112,4 +112,4 @@ For current ticketing options, including online purchases, check the official we
 Facilities may be available at the fortress; check the official website for details on amenities during your visit.
 
 ### What should I wear?
-Comfortable clothing and footwear are recommended, especially if you plan to explore the fortress’s various paths and levels.
+Comfortable clothing and footwear are recommended, especially if you plan to explore the fortress's various paths and levels.

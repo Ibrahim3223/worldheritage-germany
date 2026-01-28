@@ -30,7 +30,7 @@ Bonner Bogen, located in the Beuel district of Bonn, Germany, presents an intrig
 
 Positioned strategically along the Rhine, Bonner Bogen serves as a focal point for both locals and tourists alike. The site embodies the spirit of contemporary urban planning while paying homage to the historical significance of the region. Its development signifies a commitment to enhancing public spaces that foster community interaction, leisure activities, and artistic expression.
 
-Visitors to Bonner Bogen can expect a carefully curated environment that invites them to stroll along the river’s edge, enjoy recreational activities, and appreciate the modern aesthetics of the architecture. As an area that merges nature with urban life, Bonner Bogen holds a promise of discovery and enjoyment for all who venture here.
+Visitors to Bonner Bogen can expect a carefully curated environment that invites them to stroll along the river's edge, enjoy recreational activities, and appreciate the modern aesthetics of the architecture. As an area that merges nature with urban life, Bonner Bogen holds a promise of discovery and enjoyment for all who venture here.
 
 ## History and Significance
 

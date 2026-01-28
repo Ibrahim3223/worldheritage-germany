@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Göhrener Ei is an architectural ensemble located in the vibrant capital of Germany, Berlin. This intriguing building complex holds a significant place in the city’s diverse architectural landscape, showcasing a blend of styles and urban planning concepts that reflect the evolving nature of Berlin over the years. Situated at coordinates 52.5409, 13.4211, Göhrener Ei invites visitors to explore its unique design and the cultural heritage that it embodies. As you navigate through Berlin, a city renowned for its historical depth and contemporary vibrancy, the Göhrener Ei stands as a captivating reminder of the architectural innovation that characterizes the city.
+Göhrener Ei is an architectural ensemble located in the vibrant capital of Germany, Berlin. This intriguing building complex holds a significant place in the city's diverse architectural landscape, showcasing a blend of styles and urban planning concepts that reflect the evolving nature of Berlin over the years. Situated at coordinates 52.5409, 13.4211, Göhrener Ei invites visitors to explore its unique design and the cultural heritage that it embodies. As you navigate through Berlin, a city renowned for its historical depth and contemporary vibrancy, the Göhrener Ei stands as a captivating reminder of the architectural innovation that characterizes the city.
 
-Visitors to Göhrener Ei can expect to engage with a significant piece of Berlin's architectural narrative, understanding how such complexes contribute to the overall aesthetic and cultural fabric of the city. The ensemble serves not only as a visual landmark but also as a point of interest for those keen on exploring Berlin’s architectural diversity. Whether you are an architecture enthusiast or a curious traveler, Göhrener Ei presents an opportunity to appreciate the nuances of design and the history embedded in its walls.
+Visitors to Göhrener Ei can expect to engage with a significant piece of Berlin's architectural narrative, understanding how such complexes contribute to the overall aesthetic and cultural fabric of the city. The ensemble serves not only as a visual landmark but also as a point of interest for those keen on exploring Berlin's architectural diversity. Whether you are an architecture enthusiast or a curious traveler, Göhrener Ei presents an opportunity to appreciate the nuances of design and the history embedded in its walls.
 
 ## History and Significance
 
@@ -30,7 +30,7 @@ Göhrener Ei is a compelling representation of Berlin's architectural evolution.
 
 The architectural ensemble plays a crucial role in illustrating the architectural movements prevalent during its construction period, showcasing the interplay between functionality and aesthetic appeal. It is not simply a collection of buildings but rather a statement of the urban planning philosophies that have influenced Berlin throughout its history. The significance of Göhrener Ei extends beyond its physical structure; it embodies the spirit of resilience and reinvention that characterizes Berlin as a whole.
 
-Visiting Göhrener Ei allows for deeper engagement with the city’s narrative, offering insights into how architecture can reflect broader social and cultural shifts. Its presence enhances the understanding of Berlin’s past and present, making it a critical stop for anyone interested in the architectural heritage of the city.
+Visiting Göhrener Ei allows for deeper engagement with the city's narrative, offering insights into how architecture can reflect broader social and cultural shifts. Its presence enhances the understanding of Berlin's past and present, making it a critical stop for anyone interested in the architectural heritage of the city.
 
 ## Architecture and Features
 

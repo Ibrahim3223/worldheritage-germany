@@ -88,7 +88,7 @@ When preparing for your visit to Augustinerkloster Königsberg, consider the fol
 A visit of about two to three hours is usually sufficient to explore the monastery, its grounds, and any available exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and its significance.
+Photography is generally permitted, but it's advisable to be respectful of the space and its significance.
 
 ### Are there guided tours?
 Check the official website for information on guided tours that may enhance your understanding of the site.
@@ -103,7 +103,7 @@ For specific accessibility options, check the official website prior to your vis
 Check the official website for current information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to check the official website for details.
+Facilities may be available on-site, but it's best to check the official website for details.
 
 ### What should I wear?
 Comfortable, respectful attire is recommended, particularly if you plan to engage in any spiritual activities.

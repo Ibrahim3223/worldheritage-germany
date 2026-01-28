@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Gut Rothenburg, a distinguished manor house located in Warburg, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region. This stately building, characterized by its historical significance and elegant design, stands as a reminder of the area’s aristocratic past. Surrounded by the picturesque landscapes of North Rhine-Westphalia, it attracts history enthusiasts and architecture aficionados alike. Whether you’re wandering through its refined halls or exploring the surrounding grounds, a visit to Gut Rothenburg promises a unique experience steeped in the legacy of German manor houses.
+Gut Rothenburg, a distinguished manor house located in Warburg, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region. This stately building, characterized by its historical significance and elegant design, stands as a reminder of the area's aristocratic past. Surrounded by the picturesque landscapes of North Rhine-Westphalia, it attracts history enthusiasts and architecture aficionados alike. Whether you're wandering through its refined halls or exploring the surrounding grounds, a visit to Gut Rothenburg promises a unique experience steeped in the legacy of German manor houses.
 
 This manor house is an exemplary representation of the architectural styles prevalent in its era, reflecting the social structures and lifestyles of its time. Warburg, known for its medieval charm and historical sites, complements the experience at Gut Rothenburg, making it an ideal stop for travelers interested in German heritage. As you delve into the history and artistry of this site, prepare for an engaging exploration of the cultural narratives that define the region.
 
@@ -44,7 +44,7 @@ The overall aesthetic of Gut Rothenburg, combined with its historical relevance,
 
 Traveling to Gut Rothenburg is relatively straightforward, with Warburg being accessible by various means of transportation. Visitors can arrive via car, with parking available nearby, or utilize public transport options that connect to the town. The manor's coordinates are 51.498449, 9.221025, useful for navigation purposes.
 
-When planning your visit, it’s essential to check the official website for current information regarding opening hours and ticket prices. This will ensure you have the most accurate details before your arrival. Expect to spend a few hours exploring the manor and its surroundings, allowing ample time to soak in the atmosphere and appreciate the historical context.
+When planning your visit, it's essential to check the official website for current information regarding opening hours and ticket prices. This will ensure you have the most accurate details before your arrival. Expect to spend a few hours exploring the manor and its surroundings, allowing ample time to soak in the atmosphere and appreciate the historical context.
 
 The best times to visit are typically during the spring and autumn months when the weather is mild, and the natural surroundings are particularly inviting. This allows for a more comfortable experience as you wander through the grounds and engage with the architecture.
 
@@ -52,10 +52,10 @@ The best times to visit are typically during the spring and autumn months when t
 
 Warburg is home to several attractions that complement a visit to Gut Rothenburg. Consider exploring these nearby sites:
 
-1. **St. Mary’s Church (St. Marien)**: A historical church known for its stunning architecture and art, offering insights into the local religious heritage.
-2. **Warburg Town Hall**: An impressive building showcasing the town’s medieval architecture, often serving as a backdrop for local events.
-3. **The Old Town**: Wander through the charming streets of Warburg’s Old Town, where you can admire half-timbered houses and quaint shops.
-4. **Castle Ruins of Warburg**: Explore the remnants of the local castle, which provide a glimpse into the region’s feudal past.
+1. **St. Mary's Church (St. Marien)**: A historical church known for its stunning architecture and art, offering insights into the local religious heritage.
+2. **Warburg Town Hall**: An impressive building showcasing the town's medieval architecture, often serving as a backdrop for local events.
+3. **The Old Town**: Wander through the charming streets of Warburg's Old Town, where you can admire half-timbered houses and quaint shops.
+4. **Castle Ruins of Warburg**: Explore the remnants of the local castle, which provide a glimpse into the region's feudal past.
 5. **Nature Trails**: The surrounding landscape offers several trails for hiking and biking, allowing visitors to enjoy the natural beauty of North Rhine-Westphalia.
 
 ## Insider Tips
@@ -66,7 +66,7 @@ To avoid crowds, consider visiting during weekdays, as weekends may draw more vi
 
 ## Practical Information
 
-When visiting Gut Rothenburg, it’s advisable to wear comfortable shoes, especially if you plan to explore the gardens or surrounding areas. Depending on the season, layering your clothing is a good idea, as temperatures can vary throughout the day.
+When visiting Gut Rothenburg, it's advisable to wear comfortable shoes, especially if you plan to explore the gardens or surrounding areas. Depending on the season, layering your clothing is a good idea, as temperatures can vary throughout the day.
 
 Be sure to bring along a water bottle and some snacks if you plan to spend an extended period at the site. While specific amenities like cafes or restrooms are not mentioned, checking the official website prior to your visit will provide the most accurate information regarding available facilities.
 

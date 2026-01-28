@@ -52,7 +52,7 @@ The collections are curated with care, providing context and background informat
 
 Visiting the Zinnfiguren-Museum is an enriching experience for those interested in art and history. The museum is accessible via various modes of transport, making it convenient for both locals and tourists. As specifics about transport options and hours of operation may vary, it is advisable to check the official website for current information prior to your visit.
 
-When planning your trip, consider spending at least a couple of hours at the museum to fully engage with the exhibits and appreciate the craftsmanship on display. The museum’s layout typically allows for a self-paced exploration, making it a suitable destination for visitors of all ages.
+When planning your trip, consider spending at least a couple of hours at the museum to fully engage with the exhibits and appreciate the craftsmanship on display. The museum's layout typically allows for a self-paced exploration, making it a suitable destination for visitors of all ages.
 
 The best times to visit may depend on the season and any special events that the museum may host. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons, which can enhance your overall experience.
 

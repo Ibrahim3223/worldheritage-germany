@@ -48,7 +48,7 @@ Getting to the museum is typically straightforward, with various transportation 
 
 Expect to spend a few hours exploring the collections, as the museum offers a wealth of information and artifacts that invite deeper examination. The best times to visit may vary, but weekdays generally see fewer crowds, providing a more intimate experience with the exhibits.
 
-Visitors should prepare for a thoughtful exploration of the museum’s offerings, with opportunities to engage with the material through guided tours or educational programs. Be sure to allocate time to absorb the insights presented by the artifacts and any accompanying information.
+Visitors should prepare for a thoughtful exploration of the museum's offerings, with opportunities to engage with the material through guided tours or educational programs. Be sure to allocate time to absorb the insights presented by the artifacts and any accompanying information.
 
 ## Nearby Attractions
 
@@ -60,13 +60,13 @@ In addition to the Völkerkundliche Sammlung, there are several attractions near
 
 3. **St. Elizabeth's Church**: A remarkable Gothic church known for its intricate architecture and serene atmosphere, perfect for a quiet moment of reflection.
 
-4. **Old Town (Altstadt)**: Wander through the charming streets of Marburg’s Old Town, filled with half-timbered houses, quaint shops, and local eateries.
+4. **Old Town (Altstadt)**: Wander through the charming streets of Marburg's Old Town, filled with half-timbered houses, quaint shops, and local eateries.
 
 5. **Botanical Garden**: A peaceful retreat featuring a diverse collection of plants, ideal for a leisurely stroll or a quiet picnic.
 
 ## Insider Tips
 
-When visiting the Völkerkundliche Sammlung, photography may be subject to restrictions, so it’s wise to check the guidelines upon arrival. Engaging with the exhibits through a personal lens can enhance your experience, but be respectful of the museum's policies.
+When visiting the Völkerkundliche Sammlung, photography may be subject to restrictions, so it's wise to check the guidelines upon arrival. Engaging with the exhibits through a personal lens can enhance your experience, but be respectful of the museum's policies.
 
 To avoid crowds, consider visiting during weekdays or during off-peak hours. This will allow for a more personal interaction with the artifacts and the opportunity to reflect on what you encounter without distractions.
 
@@ -101,7 +101,7 @@ Accessibility information is best confirmed on the official website to ensure a 
 Check the official website for information on ticket purchasing options, including any online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available; confirm on the museum’s official website for specifics.
+Facilities such as restrooms and cafes may be available; confirm on the museum's official website for specifics.
 
 ### What should I wear?
 Dress comfortably for walking, and consider seasonal weather when planning your outfit.

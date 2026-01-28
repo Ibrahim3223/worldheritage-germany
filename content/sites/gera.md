@@ -42,7 +42,7 @@ Bremerhaven itself has a rich maritime heritage, having served as a significant 
 
 Gera's architecture as a museum ship reflects the utilitarian designs typical of naval vessels, focusing on functionality and durability. While specific architectural details are not outlined, museum ships generally feature robust construction meant to withstand the harsh conditions of the sea. Visitors can expect to find a variety of spaces that offer insights into life at sea, including crew quarters, operational areas, and possibly even engine rooms, depending on the ship's design.
 
-The interior of Gera is likely to be arranged to provide an immersive experience for visitors. Exhibits may showcase maritime artifacts, navigational tools, and displays that narrate the history of the ship and its voyages. These features work together to create an engaging atmosphere that evokes the essence of life aboard a ship. The ship’s decks may also be accessible, allowing visitors to explore the outdoor areas and appreciate the maritime environment firsthand.
+The interior of Gera is likely to be arranged to provide an immersive experience for visitors. Exhibits may showcase maritime artifacts, navigational tools, and displays that narrate the history of the ship and its voyages. These features work together to create an engaging atmosphere that evokes the essence of life aboard a ship. The ship's decks may also be accessible, allowing visitors to explore the outdoor areas and appreciate the maritime environment firsthand.
 
 As a museum ship, Gera is designed not just for preservation but also for education. Each space is an opportunity for learning, whether through guided tours, informational plaques, or interactive exhibits. The design and layout focus on providing a realistic portrayal of maritime life, enabling visitors to understand and appreciate the complexities and challenges of seafaring.
 
@@ -78,7 +78,7 @@ Engaging with staff members can enhance your experience; they often have valuabl
 
 When preparing for your visit to Gera, consider bringing comfortable walking shoes, as exploring the ship may involve navigating various levels and spaces. Seasonal considerations are also important; if visiting during colder months, dress warmly, as ships can be chilly, especially in exposed areas.
 
-It’s a good idea to check for any special events or educational programs hosted on the ship, as these can enrich your experience and provide additional context to the exhibits.
+It's a good idea to check for any special events or educational programs hosted on the ship, as these can enrich your experience and provide additional context to the exhibits.
 
 ## Frequently Asked Questions
 
@@ -89,7 +89,7 @@ A visit to Gera typically takes between one to three hours, depending on your in
 Generally, photography is allowed, but it's best to check for specific restrictions in certain areas.
 
 ### Are there guided tours?
-Guided tours may be available, offering deeper insights into the ship’s history and maritime significance.
+Guided tours may be available, offering deeper insights into the ship's history and maritime significance.
 
 ### What's the best time to visit?
 Weekdays or early mornings tend to be less crowded, making for a more enjoyable experience.

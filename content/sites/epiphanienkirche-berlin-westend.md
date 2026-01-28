@@ -34,15 +34,15 @@ As part of Berlin's diverse religious heritage, this church contributes to the c
 
 The history of Epiphanienkirche is closely linked to the development of the Charlottenburg area. This church was constructed during a time of significant change in Berlin, as the city expanded and modernized. The architectural style of the church reflects the influences of various periods, showcasing the community's evolving identity.
 
-Throughout the years, Epiphanienkirche has served as a center for worship and community gatherings. Its role has evolved in response to the changing needs of the local population, making it an integral part of the area’s social fabric. The church has hosted numerous events, fostering a sense of community and belonging among its congregants. 
+Throughout the years, Epiphanienkirche has served as a center for worship and community gatherings. Its role has evolved in response to the changing needs of the local population, making it an integral part of the area's social fabric. The church has hosted numerous events, fostering a sense of community and belonging among its congregants. 
 
 In addition to its religious functions, Epiphanienkirche has also been a site for cultural activities and artistic expressions. Its walls have echoed with music, art, and dialogue, contributing to the wider cultural landscape of Berlin. The church has become a symbol of resilience and continuity, standing firm through the city's tumultuous history.
 
-As you explore Epiphanienkirche, you may find yourself contemplating the stories of those who have gathered here over the decades, reflecting on the church’s role in shaping the community’s collective memory.
+As you explore Epiphanienkirche, you may find yourself contemplating the stories of those who have gathered here over the decades, reflecting on the church's role in shaping the community's collective memory.
 
 ## Architecture and Features
 
-Epiphanienkirche is characterized by its distinctive architectural style, which draws from various influences that have graced Berlin's skyline. The building’s design features elements that are both functional and aesthetically pleasing, embodying the values of the community it serves. 
+Epiphanienkirche is characterized by its distinctive architectural style, which draws from various influences that have graced Berlin's skyline. The building's design features elements that are both functional and aesthetically pleasing, embodying the values of the community it serves. 
 
 The exterior of the church showcases a blend of traditional and modern architectural elements, creating a harmonious balance that reflects the historical context of its construction. The façade is adorned with intricate details that invite admiration, while large windows allow natural light to filter into the interior, creating a warm and inviting atmosphere.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Epiphanienkirche, consider bringing a camera t
 
 To avoid crowds, try visiting during weekday mornings or early afternoons. This way, you can fully appreciate the peaceful atmosphere and have space to take in the beauty of the church without feeling rushed.
 
-If attending a service, familiarize yourself with the customs and practices beforehand to enhance your experience. Engaging with the local community can offer unique insights into the church’s significance and the role it plays in people’s lives.
+If attending a service, familiarize yourself with the customs and practices beforehand to enhance your experience. Engaging with the local community can offer unique insights into the church's significance and the role it plays in people's lives.
 
 ## Practical Information
 
@@ -109,7 +109,7 @@ Accessibility information can vary. Check the official website for details regar
 Check the official website for information on ticket availability and purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the church. It’s advisable to check the official website for information on nearby amenities.
+Facilities may be limited within the church. It's advisable to check the official website for information on nearby amenities.
 
 ### What should I wear?
 Dress comfortably, but consider wearing modest attire, especially if you plan to attend a service or event.

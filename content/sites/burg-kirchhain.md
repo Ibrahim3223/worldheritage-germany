@@ -72,7 +72,7 @@ While Burg Kirchhain is a highlight in itself, the surrounding region offers sev
 
 3. **Botanischer Garten Marburg**: Just a short drive away, this botanical garden showcases a diverse collection of plant species, providing a peaceful retreat into nature.
 
-4. **Marburg’s Old Town**: A charming area filled with half-timbered houses, shops, and cafes, Marburg invites visitors to explore its historic streets and vibrant atmosphere.
+4. **Marburg's Old Town**: A charming area filled with half-timbered houses, shops, and cafes, Marburg invites visitors to explore its historic streets and vibrant atmosphere.
 
 5. **Burg Gleiberg**: Another castle in the vicinity, Gleiberg offers panoramic views of the surrounding landscape and is a great example of medieval architecture.
 

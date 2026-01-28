@@ -78,7 +78,7 @@ Weißenburg in Bayern is rich in history and offers several attractions near St.
 
 To capture the essence of St. Willibald, consider visiting early in the morning or later in the afternoon when natural light enhances the church's features. This timing can also help you avoid larger crowds. 
 
-If you wish to take photographs, be respectful of the worshippers and the sacred space. It’s a good practice to ask for permission if you plan to photograph people during services.
+If you wish to take photographs, be respectful of the worshippers and the sacred space. It's a good practice to ask for permission if you plan to photograph people during services.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ Seasonal considerations may affect your experience; spring and early autumn ofte
 Allocate at least one hour for your visit to fully appreciate the architecture and atmosphere of St. Willibald.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s respectful to avoid taking pictures during services and to seek permission if capturing images of individuals.
+Photography may be permitted, but it's respectful to avoid taking pictures during services and to seek permission if capturing images of individuals.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours or educational programs that may be available.

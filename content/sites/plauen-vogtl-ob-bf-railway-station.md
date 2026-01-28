@@ -60,11 +60,11 @@ Plauen is rich in cultural and historical sites, making it an appealing destinat
 
 1. **Plauen City Hall**: An impressive landmark in the city, showcasing elegant architecture and a glimpse into the local governance.
    
-2. **St. John’s Church**: A beautiful example of ecclesiastical architecture that offers insight into the region's religious history.
+2. **St. John's Church**: A beautiful example of ecclesiastical architecture that offers insight into the region's religious history.
 
 3. **The Vogtland Museum**: This museum displays a collection of artifacts and exhibits that reflect the history and culture of the Vogtland region.
 
-4. **The Old Town**: Wander through the charming streets of Plauen’s Old Town, offering a mix of historical buildings, shops, and cafes.
+4. **The Old Town**: Wander through the charming streets of Plauen's Old Town, offering a mix of historical buildings, shops, and cafes.
 
 5. **The Rote-Veilchen Fountain**: A notable local landmark that adds to the city's character and serves as a popular meeting spot.
 

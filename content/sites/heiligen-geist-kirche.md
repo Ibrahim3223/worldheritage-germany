@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Wismar, Germany, the Heiligen-Geist-Kirche stands as a significant church building that reflects the rich ecclesiastical heritage of the region. This church not only serves as a place of worship but also as a landmark that captures the spirit of the community. Wismar, a port city on the Baltic Sea, is renowned for its well-preserved medieval architecture, and the Heiligen-Geist-Kirche contributes to this historical narrative. Visitors to this church will find a serene atmosphere that invites reflection and exploration, making it an essential stop for those interested in cultural and religious history.
 
-The church's central location means it is easily accessible, allowing both locals and tourists to appreciate its architectural beauty and spiritual significance. As you approach, the structure’s notable features and surroundings beckon you to discover more about its past and role in the community. Heiligen-Geist-Kirche stands not just as a building but as a symbol of faith and resilience, inviting a deeper understanding of its place in Wismar's historical landscape.
+The church's central location means it is easily accessible, allowing both locals and tourists to appreciate its architectural beauty and spiritual significance. As you approach, the structure's notable features and surroundings beckon you to discover more about its past and role in the community. Heiligen-Geist-Kirche stands not just as a building but as a symbol of faith and resilience, inviting a deeper understanding of its place in Wismar's historical landscape.
 
 ## History and Significance
 

@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during weekdays or in the early morning hours
 
 ## Practical Information
 
-When planning your visit to the jewellery museum Pforzheim, it’s advisable to bring a small bag for personal items, as well as a light jacket in case the museum's climate control feels cool. Seasonal considerations may affect your visit, so check the official website for updated information regarding weather-related events or exhibitions. 
+When planning your visit to the jewellery museum Pforzheim, it's advisable to bring a small bag for personal items, as well as a light jacket in case the museum's climate control feels cool. Seasonal considerations may affect your visit, so check the official website for updated information regarding weather-related events or exhibitions. 
 
 Comfortable footwear is recommended, as you may spend a significant amount of time walking through the various exhibits. 
 

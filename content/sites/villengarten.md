@@ -82,7 +82,7 @@ Seasonal considerations are important; spring and summer will showcase the garde
 Most visitors find that spending two to three hours at Villengarten is sufficient to explore the garden and enjoy its peaceful atmosphere.
 
 ### Is photography allowed?
-Yes, photography is generally permitted in the garden. However, it’s always good to be respectful of other visitors and the natural surroundings.
+Yes, photography is generally permitted in the garden. However, it's always good to be respectful of other visitors and the natural surroundings.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for updates on any available tours or programs.

@@ -60,7 +60,7 @@ While visiting the Library of the Evangelical Monastery of St. Augustine's, cons
 
 1. **Erfurt Cathedral**: A stunning example of Gothic architecture, this cathedral is a short walk from the library and an essential site in Erfurt's history.
    
-2. **Krämerbrücke (Merchant's Bridge)**: This picturesque bridge, lined with shops and cafes, offers a glimpse into Erfurt’s medieval past and vibrant present.
+2. **Krämerbrücke (Merchant's Bridge)**: This picturesque bridge, lined with shops and cafes, offers a glimpse into Erfurt's medieval past and vibrant present.
 
 3. **Augustinerkloster (Augustinian Monastery)**: Adjacent to the library, this well-preserved monastery complex is rich in history and provides deeper insights into the life of Martin Luther.
 
@@ -76,14 +76,14 @@ To avoid crowds, aim to visit during mid-morning on weekdays. This timing often 
 
 ## Practical Information
 
-When preparing for your visit to the Library of the Evangelical Monastery of St. Augustine's, it’s wise to bring a notebook or electronic device for taking notes, especially if you plan to engage with the library's resources. Consider carrying a reusable water bottle, as staying hydrated is essential during your explorations.
+When preparing for your visit to the Library of the Evangelical Monastery of St. Augustine's, it's wise to bring a notebook or electronic device for taking notes, especially if you plan to engage with the library's resources. Consider carrying a reusable water bottle, as staying hydrated is essential during your explorations.
 
 Seasonal considerations may also play a role in your visit. The library is open year-round, but spring and autumn typically offer mild weather ideal for exploring the surrounding areas. During winter, be prepared for colder temperatures, and check for any holiday hours that may affect your visit.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes between one to three hours, depending on your interest in the library’s collections.
+A visit typically takes between one to three hours, depending on your interest in the library's collections.
 
 ### Is photography allowed?
 Photography policies may vary; check with library staff for specific guidelines upon your arrival.

@@ -68,7 +68,7 @@ The Hohenwarte Dam is located in an area that offers several interesting attract
 
 When visiting the Hohenwarte Dam, photography enthusiasts should take advantage of the early morning or late afternoon light for the best shots of the dam and the surrounding landscape. To avoid crowds, consider visiting on weekdays or during off-peak seasons.
 
-If you're interested in a more in-depth understanding of the dam’s workings, check for any available informational panels or guided tours that may provide valuable insights into its construction and operation. 
+If you're interested in a more in-depth understanding of the dam's workings, check for any available informational panels or guided tours that may provide valuable insights into its construction and operation. 
 
 ## Practical Information
 

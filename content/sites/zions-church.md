@@ -32,7 +32,7 @@ The church sits at the heart of Worpswede, a community renowned for its artistic
 
 ## History and Significance
 
-The history of Zion's Church is deeply intertwined with the identity of Worpswede. Although specific founding dates are not provided, the church has likely been a central place of worship in the community for many years, reflecting the religious practices and social dynamics of its time. The church’s significance is further underscored by its role as a gathering place for local events, rituals, and celebrations that mark the passage of life in this charming village.
+The history of Zion's Church is deeply intertwined with the identity of Worpswede. Although specific founding dates are not provided, the church has likely been a central place of worship in the community for many years, reflecting the religious practices and social dynamics of its time. The church's significance is further underscored by its role as a gathering place for local events, rituals, and celebrations that mark the passage of life in this charming village.
 
 Worpswede itself has a storied past, attracting artists and writers since the late 19th century, who were inspired by its natural beauty and tranquil environment. This artistic community has left an indelible mark on the region, and Zion's Church stands as a symbol of this cultural heritage. The church not only serves its religious purpose but also acts as a cultural landmark, representing the community's resilience and creativity throughout the years.
 
@@ -52,7 +52,7 @@ When planning a visit to Zion's Church, it is essential to consider the various 
 
 Expect to spend approximately an hour exploring the church and its surroundings, allowing time for reflection and photography. The best times to visit are typically during the week when the church is less crowded, offering a more intimate experience. 
 
-Upon arrival, visitors can expect a warm and inviting atmosphere, with opportunities to engage with the church’s history and significance. The church grounds may also provide space for peaceful walks, enhancing the overall experience.
+Upon arrival, visitors can expect a warm and inviting atmosphere, with opportunities to engage with the church's history and significance. The church grounds may also provide space for peaceful walks, enhancing the overall experience.
 
 ## Nearby Attractions
 

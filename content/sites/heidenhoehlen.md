@@ -88,7 +88,7 @@ To make the most of your visit to the Heidenhöhlen, consider the following insi
 
 When preparing for your visit to the Heidenhöhlen, keep the following practical information in mind:
 
-- **What to Bring**: Comfortable walking shoes are essential due to the uneven surfaces within the caves. A flashlight can also be beneficial for exploring darker areas. Don’t forget to bring water and snacks to stay refreshed during your visit.
+- **What to Bring**: Comfortable walking shoes are essential due to the uneven surfaces within the caves. A flashlight can also be beneficial for exploring darker areas. Don't forget to bring water and snacks to stay refreshed during your visit.
 
 - **Seasonal Considerations**: The temperature inside the caves can be cooler than outside, so dress in layers. If you visit during the winter months, be prepared for potential icy conditions in the surrounding area.
 

@@ -62,7 +62,7 @@ Visitors to the Fatih-Moschee will find several nearby attractions that enhance 
    
 2. **Schnoor Quarter**: A charming neighborhood filled with narrow alleys, quaint shops, and cafes, perfect for a leisurely stroll.
 
-3. **Bremen Cathedral (St. Petri Dom)**: An architectural marvel that showcases the city’s historical significance and offers panoramic views from its towers.
+3. **Bremen Cathedral (St. Petri Dom)**: An architectural marvel that showcases the city's historical significance and offers panoramic views from its towers.
 
 4. **Weserburg Museum of Modern Art**: Located along the Weser River, this museum features contemporary art exhibitions that reflect modern artistic trends.
 

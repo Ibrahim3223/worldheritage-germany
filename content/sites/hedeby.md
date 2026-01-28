@@ -82,7 +82,7 @@ To enhance your visit to Hedeby, consider these insider tips:
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or in the shoulder seasons to avoid the larger crowds that typically gather during weekends and summer months.
 
-- **Guided Tours**: Check in advance for any available guided tours, as these can provide valuable insights and enhance your understanding of the site’s significance.
+- **Guided Tours**: Check in advance for any available guided tours, as these can provide valuable insights and enhance your understanding of the site's significance.
 
 ## Practical Information
 

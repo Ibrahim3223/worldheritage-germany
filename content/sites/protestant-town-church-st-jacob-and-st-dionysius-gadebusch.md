@@ -36,7 +36,7 @@ The Protestant Town Church St. Jacob and St. Dionysius has a rich history that r
 
 While specific dates and events related to the church's founding and development may be less documented, its role as a Protestant place of worship is clear. The church has witnessed various historical events, including shifts in governance and societal changes that have influenced the religious landscape of the area. Through the centuries, it has served not only as a spiritual hub but also as a gathering point for the community, symbolizing unity and resilience in the face of change.
 
-The church’s significance extends beyond its function as a place of worship; it stands as a cultural landmark in Gadebusch. It has hosted numerous events that foster community spirit, from festivals to concerts, thereby enriching the local culture and heritage. The church continues to be a place where tradition meets contemporary life, bridging generations and offering a space for reflection and gathering.
+The church's significance extends beyond its function as a place of worship; it stands as a cultural landmark in Gadebusch. It has hosted numerous events that foster community spirit, from festivals to concerts, thereby enriching the local culture and heritage. The church continues to be a place where tradition meets contemporary life, bridging generations and offering a space for reflection and gathering.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ When planning a visit to the Protestant Town Church St. Jacob and St. Dionysius,
 
 Check the official website for current information regarding visiting hours and any potential entry fees. Expect to spend around an hour exploring the church and its surroundings, allowing enough time to appreciate the architecture and reflect on the history encapsulated within its walls. 
 
-The best times to visit are typically during weekdays when the church is less crowded, allowing for a more personal experience. Additionally, consider attending a service or event, as this can provide a deeper understanding of the church’s role in the community.
+The best times to visit are typically during weekdays when the church is less crowded, allowing for a more personal experience. Additionally, consider attending a service or event, as this can provide a deeper understanding of the church's role in the community.
 
 ## Nearby Attractions
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays, as weekends may see an influ
 
 ## Practical Information
 
-When visiting the Protestant Town Church St. Jacob and St. Dionysius, it’s advisable to bring a small bag with essentials such as water and a camera. Dress comfortably, as you may want to spend time both inside and outside the church, and be mindful of any weather conditions that may impact your visit.
+When visiting the Protestant Town Church St. Jacob and St. Dionysius, it's advisable to bring a small bag with essentials such as water and a camera. Dress comfortably, as you may want to spend time both inside and outside the church, and be mindful of any weather conditions that may impact your visit.
 
 Seasonal considerations are important as well; spring and early autumn often provide pleasant weather for walking around Gadebusch and enjoying the surrounding scenery. Be sure to check for any special events or services that may coincide with your visit, as these can enrich your experience.
 

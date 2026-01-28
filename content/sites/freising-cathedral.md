@@ -64,7 +64,7 @@ While visiting Freising Cathedral, consider exploring other nearby attractions t
 
 3. **Asam Church**: A short walk from the cathedral, this Baroque church is known for its stunning interior artwork and design, showcasing the artistic heritage of the region.
 
-4. **Freising's City Museum**: Learn about the town's history and culture through various exhibits that highlight significant events and figures in Freising’s past.
+4. **Freising's City Museum**: Learn about the town's history and culture through various exhibits that highlight significant events and figures in Freising's past.
 
 5. **St. George's Church**: Another remarkable church nearby, known for its impressive architecture and peaceful atmosphere.
 
@@ -103,7 +103,7 @@ Accessibility details are best confirmed on the official website, as facilities 
 Check the official website for information on ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-While facilities may be available near the cathedral, it’s advisable to explore nearby cafes and restaurants in Freising for refreshments.
+While facilities may be available near the cathedral, it's advisable to explore nearby cafes and restaurants in Freising for refreshments.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of worship. Light layers are recommended for varying indoor temperatures.

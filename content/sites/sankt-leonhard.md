@@ -28,7 +28,7 @@ image_srcset:
 
 Sankt Leonhard is a captivating chapel located in the serene region of Balzhausen, Bavaria, Germany. This understated yet significant church building offers visitors a glimpse into the architectural and spiritual heritage of the area. Surrounded by the tranquil Bavarian landscape, Sankt Leonhard is not only a place of worship but also a cultural landmark that reflects the local community's history and traditions. Its peaceful ambiance invites travelers to pause and reflect, making it an essential stop for those exploring the rich cultural tapestry of Bavaria.
 
-As you approach this charming chapel, you’ll find that its presence is both humble and profound. The structure serves as a testament to the enduring nature of faith and community in this picturesque region. Whether you are a history enthusiast, an architecture aficionado, or simply someone seeking a moment of quiet contemplation, Sankt Leonhard promises a fulfilling experience amidst its historical and spiritual significance.
+As you approach this charming chapel, you'll find that its presence is both humble and profound. The structure serves as a testament to the enduring nature of faith and community in this picturesque region. Whether you are a history enthusiast, an architecture aficionado, or simply someone seeking a moment of quiet contemplation, Sankt Leonhard promises a fulfilling experience amidst its historical and spiritual significance.
 
 ## History and Significance
 
@@ -89,7 +89,7 @@ A visit to Sankt Leonhard can typically take about an hour, depending on your le
 Photography is generally permitted, but it is advisable to be respectful of any signs or requests made by the chapel's management regarding photography.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are available, as local organizations may offer insights into the chapel’s history and significance.
+Check the official website for information on whether guided tours are available, as local organizations may offer insights into the chapel's history and significance.
 
 ### What's the best time to visit?
 Visiting early in the morning or late in the afternoon may provide a quieter experience, especially during weekdays.
@@ -101,7 +101,7 @@ Accessibility information is not specified, so it's best to check the official w
 Check the official website for information on ticketing options, as online sales may vary.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may not be available directly at the chapel. It’s recommended to check nearby town amenities for these services.
+Facilities such as restrooms and cafes may not be available directly at the chapel. It's recommended to check nearby town amenities for these services.
 
 ### What should I wear?
 Dress comfortably, considering seasonal weather variations. Modest attire may be appreciated, especially when visiting a place of worship. 

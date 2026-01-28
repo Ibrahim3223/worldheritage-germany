@@ -32,7 +32,7 @@ In addition to its historical collections, the museum often engages in education
 
 ## Architecture and Features
 
-The architectural design of the Textilmuseum der Brennet AG complements its mission of preserving textile history. The museum is housed in a structure that reflects both industrial design and modern functionality, creating an inviting space for visitors. The building’s design facilitates the display of various exhibits and artifacts in a way that enhances the visitor experience, allowing for both educational engagement and aesthetic appreciation.
+The architectural design of the Textilmuseum der Brennet AG complements its mission of preserving textile history. The museum is housed in a structure that reflects both industrial design and modern functionality, creating an inviting space for visitors. The building's design facilitates the display of various exhibits and artifacts in a way that enhances the visitor experience, allowing for both educational engagement and aesthetic appreciation.
 
 Inside, the museum is organized to guide visitors through a chronological journey of textile history. The layout is thoughtfully arranged to facilitate easy navigation, with sections dedicated to different aspects of textile production. Notable features include interactive displays that allow guests to experience textile creation first-hand, making the learning process both informative and enjoyable. 
 
@@ -52,7 +52,7 @@ For those traveling by car, there is parking available nearby, and public transp
 
 After exploring the Textilmuseum der Brennet AG, there are several attractions in the vicinity that can enrich your visit:
 
-1. **Wehr Nature Reserve**: A beautiful area perfect for nature walks and observing local wildlife, providing a serene contrast to the museum’s industrial focus.
+1. **Wehr Nature Reserve**: A beautiful area perfect for nature walks and observing local wildlife, providing a serene contrast to the museum's industrial focus.
   
 2. **St. Ambrosius Church**: A historic church known for its architectural beauty and cultural significance within the community.
 

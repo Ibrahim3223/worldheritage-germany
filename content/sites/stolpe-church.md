@@ -52,7 +52,7 @@ The church's design embodies the principles of clarity and purpose, making it no
 
 Visiting Stolpe Church offers a unique opportunity to engage with both its architectural beauty and its historical significance. The church is accessible via various modes of transport, making it convenient for both locals and travelers. Public transport options in the area are efficient, allowing visitors to reach the church with ease.
 
-Check the official website for current information on visiting hours and any associated costs. While the church may not require an entrance fee, it’s advisable to confirm any specifics before your visit. Expect to spend around an hour exploring the church and its surroundings, allowing ample time for reflection and photography.
+Check the official website for current information on visiting hours and any associated costs. While the church may not require an entrance fee, it's advisable to confirm any specifics before your visit. Expect to spend around an hour exploring the church and its surroundings, allowing ample time for reflection and photography.
 
 The best times to visit Stolpe Church are during weekdays when the crowds are typically thinner, offering a peaceful atmosphere. If you are interested in experiencing any community events or services, check the official website for a schedule of activities.
 
@@ -84,10 +84,10 @@ Seasonal considerations are also important; spring and summer often attract more
 A visit to Stolpe Church typically takes around one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to be respectful of the space and any services that may be taking place.
+Photography is generally permitted, but it's wise to be respectful of the space and any services that may be taking place.
 
 ### Are there guided tours?
-Check the official website for information on guided tours or community events, which may enhance your understanding of the church’s history.
+Check the official website for information on guided tours or community events, which may enhance your understanding of the church's history.
 
 ### What's the best time to visit?
 Weekdays are preferable for a quieter experience, while early mornings or late afternoons offer the best natural light for photography.

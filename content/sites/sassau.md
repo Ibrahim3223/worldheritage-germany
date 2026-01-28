@@ -97,7 +97,7 @@ Information on wheelchair accessibility is not specified. It is advisable to con
 Details regarding ticket purchases are not provided. Check the official website for current information on entrance fees and ticketing.
 
 ### Are there restrooms and cafes?
-Specific details about restrooms and cafes are not mentioned. It’s recommended to check the official website for the latest amenities available on the island.
+Specific details about restrooms and cafes are not mentioned. It's recommended to check the official website for the latest amenities available on the island.
 
 ### What should I wear?
 Dress comfortably and according to the season. Sturdy footwear and weather-appropriate clothing are advisable for a pleasant visit.

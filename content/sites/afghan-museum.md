@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Afghan Museum in Hamburg-Mitte offers a unique glimpse into the culture and history of Afghanistan, presenting visitors with a curated experience that reflects the nation’s rich heritage. This private museum is dedicated to showcasing artifacts and exhibits that highlight the diverse cultural landscape of Afghanistan, a country known for its storied past and vibrant traditions. Located in Germany's bustling second-largest city, the museum serves as a vital cultural bridge, fostering understanding and appreciation for Afghan history and artistry.
+The Afghan Museum in Hamburg-Mitte offers a unique glimpse into the culture and history of Afghanistan, presenting visitors with a curated experience that reflects the nation's rich heritage. This private museum is dedicated to showcasing artifacts and exhibits that highlight the diverse cultural landscape of Afghanistan, a country known for its storied past and vibrant traditions. Located in Germany's bustling second-largest city, the museum serves as a vital cultural bridge, fostering understanding and appreciation for Afghan history and artistry.
 
 As the world increasingly seeks to comprehend Afghanistan's complex narrative, the Afghan Museum emerges as an important resource. It provides a platform for education and dialogue, drawing visitors interested in the broader implications of cultural preservation amidst global challenges. The museum not only appeals to historians and art enthusiasts but also caters to anyone curious about Afghanistan's contributions to human civilization.
 
@@ -30,7 +30,7 @@ When you visit the Afghan Museum, you can expect a thoughtful collection of exhi
 
 The Afghan Museum is not just a collection of artifacts; it is a celebration of Afghan cultural history that resonates with the experiences of its people. Afghanistan has long been a crossroads of civilizations, influenced by various empires and cultures throughout its history. The museum seeks to preserve and present this multicultural legacy, emphasizing the importance of cultural heritage in a world that often overlooks it.
 
-The establishment of the museum reflects the growing awareness of the need to document and share the stories of Afghanistan, especially in light of recent conflicts that have threatened its cultural landmarks and traditions. The collections in the museum highlight various aspects of Afghan life, from traditional crafts and textiles to historical artifacts that tell the story of the nation’s resilience and creativity.
+The establishment of the museum reflects the growing awareness of the need to document and share the stories of Afghanistan, especially in light of recent conflicts that have threatened its cultural landmarks and traditions. The collections in the museum highlight various aspects of Afghan life, from traditional crafts and textiles to historical artifacts that tell the story of the nation's resilience and creativity.
 
 In its mission, the Afghan Museum serves as a reminder of the importance of cultural preservation. It stands as a space where education and empathy can flourish, allowing visitors to engage with the narratives that have shaped Afghanistan over centuries. By showcasing the country's art, history, and traditions, the museum contributes to a more informed and compassionate understanding of Afghan identity on a global scale.
 

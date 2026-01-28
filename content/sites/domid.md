@@ -48,9 +48,9 @@ While specific architectural details may not be extensively documented, the desi
 
 ## Visiting Information
 
-Reaching DOMiD is straightforward, thanks to Cologne's efficient public transportation system. Visitors can easily navigate the city via tram or bus, with several stops located within walking distance of the museum. For those opting to drive, parking availability may vary, so it’s advisable to check local arrangements ahead of time.
+Reaching DOMiD is straightforward, thanks to Cologne's efficient public transportation system. Visitors can easily navigate the city via tram or bus, with several stops located within walking distance of the museum. For those opting to drive, parking availability may vary, so it's advisable to check local arrangements ahead of time.
 
-When planning a visit, check the official website for current information regarding opening hours and ticket prices. The museum typically offers a range of exhibitions that may change frequently, so it’s beneficial to review what is on display prior to your visit. Generally, visitors should allocate at least two hours to explore the exhibits fully, allowing time for contemplation and engagement with the material.
+When planning a visit, check the official website for current information regarding opening hours and ticket prices. The museum typically offers a range of exhibitions that may change frequently, so it's beneficial to review what is on display prior to your visit. Generally, visitors should allocate at least two hours to explore the exhibits fully, allowing time for contemplation and engagement with the material.
 
 The museum is particularly enjoyable during weekdays when crowds are thinner, providing a more intimate experience. However, weekends may also see special events or guided tours, which can enhance the visit.
 
@@ -72,7 +72,7 @@ While exploring the cultural offerings of Cologne, consider visiting these nearb
 
 To make the most of your visit to DOMiD, consider the following insider tips:
 
-- **Photography**: While photography is generally allowed in many areas, it’s best to check for any specific restrictions, especially in temporary exhibitions.
+- **Photography**: While photography is generally allowed in many areas, it's best to check for any specific restrictions, especially in temporary exhibitions.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during the early hours on weekdays. This time is typically less crowded than weekends.
 
@@ -94,7 +94,7 @@ When planning your visit to DOMiD, consider bringing along a few essentials:
 A visit to DOMiD typically takes around two hours, allowing ample time to explore the exhibits and engage with the material.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions in specific exhibition areas upon arrival.
+Photography policies may vary, so it's best to check for any restrictions in specific exhibition areas upon arrival.
 
 ### Are there guided tours?
 DOMiD may offer guided tours, which can enhance your understanding of the exhibits. Check the official website for current offerings.

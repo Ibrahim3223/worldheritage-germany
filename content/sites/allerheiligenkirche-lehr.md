@@ -50,7 +50,7 @@ If you explore the church, pay attention to the craftsmanship of the wooden elem
 
 Visiting Allerheiligenkirche Lehr offers a chance to engage with both the spiritual and architectural aspects of Ulm. While specific hours and admission prices are not listed, it is advisable to check the official website for current information prior to your visit. The church is accessible by various modes of transportation, including public transit, which is well-connected within the city. 
 
-Once you arrive, expect to find a serene environment conducive to reflection and exploration. The church’s layout typically encourages visitors to take their time, whether they are there for worship or simply to appreciate the architecture. A visit can take anywhere from 30 minutes to an hour, depending on your level of interest and engagement with the space.
+Once you arrive, expect to find a serene environment conducive to reflection and exploration. The church's layout typically encourages visitors to take their time, whether they are there for worship or simply to appreciate the architecture. A visit can take anywhere from 30 minutes to an hour, depending on your level of interest and engagement with the space.
 
 For the most enjoyable experience, consider planning your visit during weekdays or early mornings when the church is less crowded. This allows for a more intimate experience as you take in the ambiance and explore the features at your own pace.
 
@@ -60,7 +60,7 @@ For the most enjoyable experience, consider planning your visit during weekdays 
 
 2. **Fishermen's Quarter**: Explore the picturesque streets of this charming area, characterized by medieval buildings and canals. It's an excellent place for a leisurely stroll and offers various dining options.
 
-3. **Ulm Museum**: This museum features collections that highlight the history and culture of Ulm and the surrounding region. It’s a great place for those looking to delve deeper into the city’s past.
+3. **Ulm Museum**: This museum features collections that highlight the history and culture of Ulm and the surrounding region. It's a great place for those looking to delve deeper into the city's past.
 
 4. **The Danube River**: Enjoy a scenic walk along the riverbanks, where you can take in the natural beauty of the area and perhaps even partake in a boat tour.
 

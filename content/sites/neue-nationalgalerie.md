@@ -28,7 +28,7 @@ image_srcset:
 
 The Neue Nationalgalerie, located in Berlin's Bezirk Mitte, is a distinguished art museum that captivates visitors with its modernist architecture and outstanding collection of 20th-century art. This museum is an essential stop for both art lovers and casual tourists exploring the vibrant cultural landscape of Germany's capital. Housing an array of works from celebrated artists, the Neue Nationalgalerie presents a unique opportunity to engage with pivotal movements in art history, from expressionism to surrealism.
 
-The museum's strategic location in the heart of Berlin places it within easy reach of other notable cultural institutions, enhancing its significance within the city’s artistic milieu. Visitors can anticipate an experience that merges artistic expression with architectural elegance, making it a profound destination for contemplation and inspiration.
+The museum's strategic location in the heart of Berlin places it within easy reach of other notable cultural institutions, enhancing its significance within the city's artistic milieu. Visitors can anticipate an experience that merges artistic expression with architectural elegance, making it a profound destination for contemplation and inspiration.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The Neue Nationalgalerie stands out for its striking modernist architecture, cha
 
 One of the most distinctive elements of the museum is its large, flat roof, which shelters visitors while allowing natural light to flood the galleries. This design choice not only illuminates the artworks but also creates an inviting atmosphere for contemplation. The spacious atrium serves as a gathering point, connecting different areas of the museum and providing a seamless flow for visitors.
 
-Inside, the exhibition spaces are thoughtfully curated, guiding visitors through a carefully structured narrative of modern art. The arrangement of artworks encourages dialogue between pieces, allowing viewers to draw connections and explore themes across different styles and eras. The museum’s commitment to showcasing both historical and contemporary works underscores its importance as a dynamic platform for artistic engagement.
+Inside, the exhibition spaces are thoughtfully curated, guiding visitors through a carefully structured narrative of modern art. The arrangement of artworks encourages dialogue between pieces, allowing viewers to draw connections and explore themes across different styles and eras. The museum's commitment to showcasing both historical and contemporary works underscores its importance as a dynamic platform for artistic engagement.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ Consider combining your visit with a guided tour for a deeper understanding of t
 
 ## Practical Information
 
-When visiting the Neue Nationalgalerie, it’s advisable to bring along a few essentials, such as a water bottle and a light jacket, as the temperature inside can vary. Comfortable footwear is recommended, as you may spend several hours exploring the galleries.
+When visiting the Neue Nationalgalerie, it's advisable to bring along a few essentials, such as a water bottle and a light jacket, as the temperature inside can vary. Comfortable footwear is recommended, as you may spend several hours exploring the galleries.
 
 Seasonal considerations can impact your visit, particularly during peak tourist seasons when crowds may be larger. Checking the official website for any seasonal events or special exhibitions can help you plan your visit more effectively.
 

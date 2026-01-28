@@ -28,7 +28,7 @@ The history of Schulstraße 1 is emblematic of the broader educational and civic
 
 This transformation highlights the importance of multifunctional buildings in smaller communities, where resources are often shared to accommodate various local needs. The site represents a microcosm of how educational institutions can serve broader societal roles, reinforcing the idea that learning environments can evolve into centers of governance and community activity. As a former school, it retains the echoes of youthful vitality, while its current function underscores the continuity of community service.
 
-The cultural significance of Schulstraße 1 extends beyond its architectural form; it occupies a central place in the collective memory of Neueibau. It is a site where local decisions are made, and community gatherings occur, reinforcing its status as a vital part of civic life. The building’s history invites reflection on the changing roles of public spaces, making it an intriguing stop for those interested in understanding how local history shapes contemporary life.
+The cultural significance of Schulstraße 1 extends beyond its architectural form; it occupies a central place in the collective memory of Neueibau. It is a site where local decisions are made, and community gatherings occur, reinforcing its status as a vital part of civic life. The building's history invites reflection on the changing roles of public spaces, making it an intriguing stop for those interested in understanding how local history shapes contemporary life.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ When planning a visit to Schulstraße 1, travelers should consider the transport
 
 While the building itself may not require a lengthy visit, allocating around one to two hours allows for a comprehensive exploration of the site, including any nearby attractions. The best times to visit are typically during weekdays when local activities may provide insight into the functioning of the city hall, although weekend visits can also be rewarding with fewer crowds.
 
-Expect a welcoming atmosphere where visitors can learn about the building's history and significance. Be prepared for a blend of educational insights and civic engagement, as the staff may be available to share knowledge about the building’s role in the community. 
+Expect a welcoming atmosphere where visitors can learn about the building's history and significance. Be prepared for a blend of educational insights and civic engagement, as the staff may be available to share knowledge about the building's role in the community. 
 
 ## Nearby Attractions
 

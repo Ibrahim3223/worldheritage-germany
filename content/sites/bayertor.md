@@ -54,7 +54,7 @@ Bayertor is situated in the heart of Landsberg am Lech, making it easily accessi
 
 While specific details regarding hours of operation and entrance fees are not provided, it is advisable to check the official website for current information before planning your visit. As you prepare for your trip, expect to spend approximately one to two hours exploring the tower and its surroundings, depending on your level of interest in the historical context and architectural features.
 
-The best times to visit Bayertor are during the spring and early autumn months when the weather is typically mild. This allows for a more enjoyable experience as you explore the area and appreciate the tower’s impressive architecture without the discomfort of extreme temperatures.
+The best times to visit Bayertor are during the spring and early autumn months when the weather is typically mild. This allows for a more enjoyable experience as you explore the area and appreciate the tower's impressive architecture without the discomfort of extreme temperatures.
 
 ## Nearby Attractions
 
@@ -62,11 +62,11 @@ The best times to visit Bayertor are during the spring and early autumn months w
 
 2. **Lech River Promenade**: This scenic promenade runs along the river, offering a peaceful setting for walking or cycling while enjoying views of the water and nature.
 
-3. **St. Mary’s Church (Mariä Himmelfahrt)**: An important religious site in the town, this church is known for its stunning interior and beautiful artwork, making it a worthwhile stop for visitors.
+3. **St. Mary's Church (Mariä Himmelfahrt)**: An important religious site in the town, this church is known for its stunning interior and beautiful artwork, making it a worthwhile stop for visitors.
 
 4. **Old Town Hall**: Located nearby, the Old Town Hall showcases beautiful architecture and serves as a reminder of the town's historical governance.
 
-5. **Pillinger Tower**: Another historical tower in Landsberg, it complements your visit to Bayertor and offers additional insights into the town’s fortifications.
+5. **Pillinger Tower**: Another historical tower in Landsberg, it complements your visit to Bayertor and offers additional insights into the town's fortifications.
 
 ## Insider Tips
 

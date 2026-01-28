@@ -36,7 +36,7 @@ The history of Museum Abtei Liesborn is intricately connected to the region's cu
 
 The museum is situated in a former abbey, which has long been a center of learning and spirituality. The choice of location enhances its significance, as it continues the legacy of the abbey in promoting culture and education. The exhibits often showcase local artists and craftsmen, reflecting the region's creative spirit and its contributions to the broader German cultural landscape.
 
-Through its exhibitions, Museum Abtei Liesborn provides a platform for understanding local history, art, and culture. The collection is designed to engage visitors with various aspects of life in the region, from historical artifacts to contemporary art. This dual focus on past and present not only preserves the area’s heritage but also inspires ongoing dialogue about cultural identity and artistic expression.
+Through its exhibitions, Museum Abtei Liesborn provides a platform for understanding local history, art, and culture. The collection is designed to engage visitors with various aspects of life in the region, from historical artifacts to contemporary art. This dual focus on past and present not only preserves the area's heritage but also inspires ongoing dialogue about cultural identity and artistic expression.
 
 ## Architecture and Features
 

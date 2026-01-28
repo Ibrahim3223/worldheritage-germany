@@ -38,7 +38,7 @@ As visitors walk the grounds, they can contemplate the stories of those who once
 
 ## Architecture and Features
 
-Burg Heid features classic elements characteristic of medieval castle design, combining both functional and aesthetic considerations. The castle’s robust structure is designed to withstand sieges and attacks, showcasing the engineering ingenuity of its builders. Visitors will notice the defensive walls and towers that are typical of castles from this era, which not only served to protect inhabitants but also to signify the power of those who resided within.
+Burg Heid features classic elements characteristic of medieval castle design, combining both functional and aesthetic considerations. The castle's robust structure is designed to withstand sieges and attacks, showcasing the engineering ingenuity of its builders. Visitors will notice the defensive walls and towers that are typical of castles from this era, which not only served to protect inhabitants but also to signify the power of those who resided within.
 
 While specific architectural details are not available, it can be anticipated that visitors will encounter features such as stone facades, narrow windows designed for defense, and potentially a central courtyard that would have served as a gathering place for the castle's inhabitants. The design of Burg Heid reflects the historical context of its time, providing insight into the lifestyle and priorities of its occupants.
 

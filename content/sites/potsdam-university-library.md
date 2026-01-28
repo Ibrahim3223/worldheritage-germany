@@ -46,7 +46,7 @@ The architectural design of the Potsdam University Library reflects a blend of f
 
 Inside, the library is likely to feature a range of modern amenities that enhance the user experience. This may include comfortable seating areas, study rooms, and technology-equipped spaces that support collaborative work. The layout is thoughtfully arranged to ensure that users can navigate the library efficiently, making it easy to locate materials and find a suitable spot to work.
 
-Natural light is often a key aspect of library design, and the Potsdam University Library may incorporate large windows or open spaces that allow for a bright and airy atmosphere. This thoughtful architecture not only contributes to the comfort of those who use the space but also aligns with the library’s mission to promote learning and scholarship.
+Natural light is often a key aspect of library design, and the Potsdam University Library may incorporate large windows or open spaces that allow for a bright and airy atmosphere. This thoughtful architecture not only contributes to the comfort of those who use the space but also aligns with the library's mission to promote learning and scholarship.
 
 The library's collection is a central feature, encompassing a wide array of academic texts, periodicals, and digital resources. While the specifics of the collection are not detailed, it is tailored to support the university's diverse academic programs, ensuring that students and researchers have access to the materials they need.
 
@@ -56,7 +56,7 @@ When planning a visit to the Potsdam University Library, it is essential to cons
 
 For the most accurate information regarding opening hours and any potential admission fees, it is recommended to check the official website prior to your visit. This will provide the latest updates on hours of operation and any special events or closures.
 
-A typical visit to the library can last anywhere from a few hours to an entire day, depending on one’s research needs or study goals. It is advisable to allocate sufficient time to explore the collections and take advantage of the quiet study areas.
+A typical visit to the library can last anywhere from a few hours to an entire day, depending on one's research needs or study goals. It is advisable to allocate sufficient time to explore the collections and take advantage of the quiet study areas.
 
 The best times to visit often coincide with weekdays, as weekends may see higher foot traffic from students and community members. Early mornings or late afternoons can also provide a quieter atmosphere for those seeking solitude.
 

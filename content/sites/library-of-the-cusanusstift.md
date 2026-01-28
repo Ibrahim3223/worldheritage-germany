@@ -38,7 +38,7 @@ Throughout its history, the library has contributed significantly to the academi
 
 The library's collections are particularly notable for their diversity, featuring works in a range of disciplines including theology, philosophy, and history. This wide-ranging scope underscores the library's role as a center for learning and reflection, inviting scholars, students, and curious visitors alike to delve into its literary treasures.
 
-In the context of Bernkastel-Kues, the Library of the Cusanusstift is a vital component of the town’s cultural identity. It acts as a bridge connecting the past to the present, fostering a sense of community and intellectual engagement among its visitors. The library not only preserves the written word but also stimulates dialogue and inquiry, making it an essential stop for anyone seeking to understand the rich heritage of the region.
+In the context of Bernkastel-Kues, the Library of the Cusanusstift is a vital component of the town's cultural identity. It acts as a bridge connecting the past to the present, fostering a sense of community and intellectual engagement among its visitors. The library not only preserves the written word but also stimulates dialogue and inquiry, making it an essential stop for anyone seeking to understand the rich heritage of the region.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ The architectural design of the Library of the Cusanusstift reflects the histori
 
 Inside, the library features reading rooms that are designed to provide a conducive environment for study and reflection. The arrangement of shelves filled with books and manuscripts creates a warm and inviting atmosphere, encouraging visitors to explore the extensive collections. The thoughtful layout allows for both individual study and communal engagement, making it a versatile space for learning.
 
-Notably, the library houses a collection of rare manuscripts that are often the highlight for visitors. These documents, preserved with care, offer insights into historical thought and scholarship. The library’s commitment to maintaining and showcasing these works illustrates its dedication to intellectual heritage.
+Notably, the library houses a collection of rare manuscripts that are often the highlight for visitors. These documents, preserved with care, offer insights into historical thought and scholarship. The library's commitment to maintaining and showcasing these works illustrates its dedication to intellectual heritage.
 
 In addition to its literary collections, the library may also host various academic events, lectures, and exhibitions that further enrich the visitor experience. These activities provide opportunities for deeper engagement with the materials and themes presented in the library, highlighting its role as a living institution within the community.
 
@@ -97,7 +97,7 @@ When planning your visit to the Library of the Cusanusstift, consider the follow
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of approximately two to three hours is recommended to allow for ample time to explore the collections and enjoy the library’s ambiance.
+A visit of approximately two to three hours is recommended to allow for ample time to explore the collections and enjoy the library's ambiance.
 
 ### Is photography allowed?
 Photography policies may vary, so it is best to check for any specific guidelines regarding photography upon arrival.

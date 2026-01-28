@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Erlangen, Germany, the Aromagarten Erlangen presents a unique botanical experience centered around the captivating world of fragrant plants. This serene garden invites visitors to immerse themselves in an olfactory journey, discovering the diverse scents of nature and the fascinating stories behind them. With its carefully curated selection of aromatic flora, the garden serves not only as a place for leisure but also as a vital educational resource, enhancing awareness of the ecological and cultural significance of these plants.
 
-The garden’s geographical location in Erlangen, a city known for its rich history and vibrant cultural life, adds another layer of significance. As a part of the city’s botanical landscape, Aromagarten Erlangen contributes to the region’s commitment to environmental education and sustainability. Visitors can expect a tranquil environment where the beauty and complexity of plant life are celebrated, making it a perfect spot for both relaxation and exploration.
+The garden's geographical location in Erlangen, a city known for its rich history and vibrant cultural life, adds another layer of significance. As a part of the city's botanical landscape, Aromagarten Erlangen contributes to the region's commitment to environmental education and sustainability. Visitors can expect a tranquil environment where the beauty and complexity of plant life are celebrated, making it a perfect spot for both relaxation and exploration.
 
 Whether you are a horticultural enthusiast, a casual visitor, or someone seeking a peaceful retreat, Aromagarten Erlangen promises a refreshing experience that engages the senses and fosters a deeper appreciation for the world of plants.
 
@@ -44,7 +44,7 @@ As visitors wander through the garden, they may notice the thoughtful arrangemen
 
 The layout of Aromagarten Erlangen is thoughtfully designed to enhance the visitor experience. While specific architectural details may not be provided, the garden is characterized by well-maintained pathways that meander through diverse plant collections. Visitors can expect to encounter various sections dedicated to different aromatic species, each contributing to the overall sensory experience.
 
-One of the garden’s notable features is the variety of fragrant plants it showcases. From culinary herbs like basil and rosemary to exotic blooms that offer unique scents, the garden offers a comprehensive exploration of aroma. Informational signage throughout the garden provides insights into the uses and characteristics of the plants, making it an educational experience as well as a visual delight.
+One of the garden's notable features is the variety of fragrant plants it showcases. From culinary herbs like basil and rosemary to exotic blooms that offer unique scents, the garden offers a comprehensive exploration of aroma. Informational signage throughout the garden provides insights into the uses and characteristics of the plants, making it an educational experience as well as a visual delight.
 
 Seating areas scattered throughout the garden invite visitors to pause and savor the atmosphere. These tranquil spots provide opportunities for reflection, whether you're enjoying a moment of solitude or sharing the experience with friends or family. The integration of natural elements, such as water features or artistic displays, enhances the garden's aesthetic appeal, fostering a sense of harmony with nature.
 
@@ -54,7 +54,7 @@ Visiting the Aromagarten Erlangen is an enriching experience that allows for rel
 
 Check the official website for current information regarding opening hours and any entrance fees. The garden typically offers a peaceful environment that can accommodate visitors of all ages. A visit might take anywhere from an hour to a few hours, depending on individual interests and the desire to explore the different plant sections thoroughly.
 
-The best times to visit the Aromagarten are likely during the spring and summer months when the plants are in full bloom, and the scents are at their most intense. Early mornings or late afternoons can provide a quieter experience, making it easier to appreciate the garden’s beauty without the crowds.
+The best times to visit the Aromagarten are likely during the spring and summer months when the plants are in full bloom, and the scents are at their most intense. Early mornings or late afternoons can provide a quieter experience, making it easier to appreciate the garden's beauty without the crowds.
 
 ## Nearby Attractions
 
@@ -68,7 +68,7 @@ Erlangen is rich in cultural and historical attractions. While visiting Aromagar
 
 4. **Stadtkirche St. Matthäus**: An architectural gem, this church features impressive stained glass and a rich history, making it a notable stop for visitors.
 
-5. **Erlangen's Old Town**: Wander through the charming streets of Erlangen’s Old Town, where you can find quaint shops, cafes, and historical landmarks.
+5. **Erlangen's Old Town**: Wander through the charming streets of Erlangen's Old Town, where you can find quaint shops, cafes, and historical landmarks.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ To avoid crowds, try to visit during weekdays rather than weekends or public hol
 
 ## Practical Information
 
-When planning your visit to Aromagarten Erlangen, it’s wise to consider what to bring. Comfortable walking shoes are recommended, as the garden’s paths may require some walking. A water bottle can help you stay hydrated, especially during warmer months.
+When planning your visit to Aromagarten Erlangen, it's wise to consider what to bring. Comfortable walking shoes are recommended, as the garden's paths may require some walking. A water bottle can help you stay hydrated, especially during warmer months.
 
 Seasonal considerations are also important. Spring and summer are typically ideal for viewing the garden in full bloom, while fall can offer a different experience with changing foliage. If visiting during cooler months, dress in layers to ensure comfort as temperatures can fluctuate.
 

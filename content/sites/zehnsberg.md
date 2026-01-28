@@ -100,7 +100,7 @@ Specific accessibility information may vary; check the official website for curr
 Check the official website for information on ticketing and any potential online purchase options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to be prepared and check the official website for current amenities.
+Facilities may be limited, so it's advisable to be prepared and check the official website for current amenities.
 
 ### What should I wear?
 Dress in comfortable, weather-appropriate clothing and wear sturdy shoes suitable for hiking.

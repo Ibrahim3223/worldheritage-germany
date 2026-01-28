@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Umar Ibn Al Khattab Mosque, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, serves as a significant spiritual and cultural landmark for the Muslim community in Germany. This mosque not only provides a place of worship but also acts as a center for community activities, bridging cultural divides and fostering understanding among diverse groups. The mosque's presence in Berlin reflects the city’s multicultural fabric and commitment to inclusivity and dialogue. Visitors to this site will find a welcoming atmosphere, whether they are there to attend a service, learn about Islamic culture, or simply admire the architecture.
+The Umar Ibn Al Khattab Mosque, located in the vibrant district of Friedrichshain-Kreuzberg in Berlin, serves as a significant spiritual and cultural landmark for the Muslim community in Germany. This mosque not only provides a place of worship but also acts as a center for community activities, bridging cultural divides and fostering understanding among diverse groups. The mosque's presence in Berlin reflects the city's multicultural fabric and commitment to inclusivity and dialogue. Visitors to this site will find a welcoming atmosphere, whether they are there to attend a service, learn about Islamic culture, or simply admire the architecture.
 
 As you approach the mosque, the surrounding urban environment adds to the experience, with its blend of contemporary and historical influences. The mosque stands out as a place where tradition meets modernity, inviting all who enter to explore its spiritual and communal significance. 
 

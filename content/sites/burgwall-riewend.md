@@ -54,7 +54,7 @@ The physical features of Burgwall Riewend not only highlight the ingenuity of Sl
 
 ## Visiting Information
 
-Visiting Burgwall Riewend is an enriching experience that allows for exploration of both historical and natural settings. To reach the site, travelers can utilize various modes of transport, with options including private vehicles or public transport services that operate in the region. The site’s coordinates are 52.5414, 12.7219, which can be entered into navigation systems for precise directions.
+Visiting Burgwall Riewend is an enriching experience that allows for exploration of both historical and natural settings. To reach the site, travelers can utilize various modes of transport, with options including private vehicles or public transport services that operate in the region. The site's coordinates are 52.5414, 12.7219, which can be entered into navigation systems for precise directions.
 
 While specific hours of operation and entrance fees are not provided, it is advisable to check the official website for current information before planning your visit. Typically, such heritage sites may have seasonal hours, so verifying this in advance ensures a smooth experience.
 

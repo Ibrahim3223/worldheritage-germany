@@ -40,7 +40,7 @@ As visitors explore Gräfgenstein Castle, they can appreciate its historical sig
 
 ## Architecture and Features
 
-Gräfgenstein Castle presents a fascinating study in medieval architecture. The castle’s design reflects the military and residential needs of its time, combining functionality with aesthetic considerations. While specific architectural details such as dimensions or construction materials are not provided, one can expect to find features typical of castles from its era, including robust stone walls, strategic towers, and defensive structures.
+Gräfgenstein Castle presents a fascinating study in medieval architecture. The castle's design reflects the military and residential needs of its time, combining functionality with aesthetic considerations. While specific architectural details such as dimensions or construction materials are not provided, one can expect to find features typical of castles from its era, including robust stone walls, strategic towers, and defensive structures.
 
 The layout of the castle likely includes various rooms and halls that were used for both domestic and administrative purposes, showcasing the dual role of castles as homes and centers of power. Visitors may notice remnants of various architectural styles, indicating modifications made over the centuries as the castle adapted to changing tastes and requirements.
 
@@ -58,7 +58,7 @@ Best times to visit may vary, but consider checking local events or seasonal act
 
 While Gräfgenstein Castle is a focal point for heritage enthusiasts, there are several nearby attractions that complement a visit to the area:
 
-1. **Ratingen Town Center**: A short distance from the castle, the town center offers charming streets, shops, and local eateries that reflect the town’s character.
+1. **Ratingen Town Center**: A short distance from the castle, the town center offers charming streets, shops, and local eateries that reflect the town's character.
 
 2. **LVR-Industriemuseum**: This industrial museum showcases the region's industrial heritage and offers insights into the development of Ratingen and its surroundings.
 
@@ -76,7 +76,7 @@ When visiting Gräfgenstein Castle, consider the following tips to enhance your 
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays or outside of peak tourist seasons. Early visits can also help you avoid larger crowds.
 
-- **Explore the Surroundings**: Don’t overlook the areas surrounding the castle. A leisurely walk around the grounds can offer unique perspectives and photo opportunities, as well as a chance to appreciate the natural beauty of the area.
+- **Explore the Surroundings**: Don't overlook the areas surrounding the castle. A leisurely walk around the grounds can offer unique perspectives and photo opportunities, as well as a chance to appreciate the natural beauty of the area.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ Before heading to Gräfgenstein Castle, it's wise to prepare adequately:
 A visit to Gräfgenstein Castle typically requires a few hours, allowing time to explore the castle and take in its surroundings.
 
 ### Is photography allowed?
-While photography is usually welcomed at historical sites, it’s best to check for any specific restrictions upon arrival.
+While photography is usually welcomed at historical sites, it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on tour options and schedules.

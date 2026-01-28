@@ -34,7 +34,7 @@ Visitors to the Town Hall can expect to immerse themselves in an environment tha
 
 ## History and Significance
 
-The Town Hall in Zeitz has played a pivotal role in the city's governance and community life. While specific dates may not be documented, the building’s legacy is intertwined with the development of Zeitz as a significant urban center in Saxony-Anhalt. The hall not only houses administrative functions but also serves as a venue for cultural events and civic gatherings, reinforcing its importance as a social hub.
+The Town Hall in Zeitz has played a pivotal role in the city's governance and community life. While specific dates may not be documented, the building's legacy is intertwined with the development of Zeitz as a significant urban center in Saxony-Anhalt. The hall not only houses administrative functions but also serves as a venue for cultural events and civic gatherings, reinforcing its importance as a social hub.
 
 Throughout its history, the Town Hall has witnessed various political and social changes, reflecting the broader historical currents of Germany. The building stands as a symbol of the city's resilience and adaptation, having weathered periods of change, including the shifts brought about by industrialization and post-war reconstruction. The significance of this structure is further enhanced by its role in the local community, where it continues to host events that celebrate Zeitz's heritage and foster community involvement.
 

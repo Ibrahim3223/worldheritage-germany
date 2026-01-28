@@ -46,9 +46,9 @@ Visitors to Hardthöhlen can expect to encounter a range of geological features,
 
 Planning a visit to Hardthöhlen is an exciting prospect for anyone interested in geology, ecology, or simply the beauty of nature. The caves are located conveniently in Wuppertal, making them accessible for both local and international visitors. 
 
-Transportation options to Hardthöhlen include public transport and private vehicles. For those relying on public transport, Wuppertal’s extensive network of buses and trains can facilitate easy access to the area. However, specific details regarding transport routes and schedules should be checked prior to your visit.
+Transportation options to Hardthöhlen include public transport and private vehicles. For those relying on public transport, Wuppertal's extensive network of buses and trains can facilitate easy access to the area. However, specific details regarding transport routes and schedules should be checked prior to your visit.
 
-To ensure a fulfilling experience, it’s advisable to allocate several hours for your visit. This timeframe allows for exploration and the opportunity to fully appreciate the unique features of the caves. While the exact hours of operation and ticket prices may vary, visitors are encouraged to check the official website for current information before planning their trip.
+To ensure a fulfilling experience, it's advisable to allocate several hours for your visit. This timeframe allows for exploration and the opportunity to fully appreciate the unique features of the caves. While the exact hours of operation and ticket prices may vary, visitors are encouraged to check the official website for current information before planning their trip.
 
 The best times to visit Hardthöhlen may vary based on weather conditions and seasonal factors. Visiting during milder weather can enhance the outdoor experience surrounding the caves, as well as make travel to the site more comfortable.
 
@@ -82,7 +82,7 @@ Seasonal considerations are important when planning your visit. Spring and summe
 A visit to Hardthöhlen typically requires several hours to fully explore the cave system and appreciate its features.
 
 ### Is photography allowed?
-Photography is generally permitted, but be mindful of the cave’s natural environment and other visitors.
+Photography is generally permitted, but be mindful of the cave's natural environment and other visitors.
 
 ### Are there guided tours?
 Details about guided tours may be available on the official website. Check for current offerings.

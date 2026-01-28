@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kirchenruine Käcklitz is a striking remnant of ecclesiastical architecture located in Hohenberg-Krusemark, Saxony-Anhalt, Germany. This church building, though now in ruins, carries a legacy that speaks to the region's historical and cultural evolution. As visitors approach the site, they are greeted by an aura of tranquility that invites exploration and reflection. The ruins stand as a poignant reminder of the community’s past, evoking both curiosity and reverence among travelers and historians alike.
+Kirchenruine Käcklitz is a striking remnant of ecclesiastical architecture located in Hohenberg-Krusemark, Saxony-Anhalt, Germany. This church building, though now in ruins, carries a legacy that speaks to the region's historical and cultural evolution. As visitors approach the site, they are greeted by an aura of tranquility that invites exploration and reflection. The ruins stand as a poignant reminder of the community's past, evoking both curiosity and reverence among travelers and historians alike.
 
 Hohenberg-Krusemark itself is a picturesque village, with a rich backdrop of German heritage, making it an ideal location for this site. Situated at coordinates 52.7752, 12.0151, Kirchenruine Käcklitz serves not only as a historical landmark but also as a focal point for understanding the architectural styles and religious practices of the time. The site promises an enriching experience for those seeking to delve into the layers of history that shaped this region.
 
@@ -68,7 +68,7 @@ After exploring Kirchenruine Käcklitz, visitors may wish to discover additional
 
 1. **Hohenberg-Krusemark Village Center**: This quaint village offers a glimpse into local life and architecture, with charming streets and traditional buildings that reflect the area's heritage.
 
-2. **St. Stephen’s Church, Hohenberg-Krusemark**: A nearby church that serves as an active place of worship, showcasing more contemporary architectural styles while maintaining a connection to the region's religious traditions.
+2. **St. Stephen's Church, Hohenberg-Krusemark**: A nearby church that serves as an active place of worship, showcasing more contemporary architectural styles while maintaining a connection to the region's religious traditions.
 
 3. **Möckern Castle**: Located a short drive away, this historic castle features beautiful grounds and offers insight into the nobility's past in Saxony-Anhalt.
 

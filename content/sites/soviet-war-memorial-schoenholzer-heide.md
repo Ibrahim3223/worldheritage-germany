@@ -78,7 +78,7 @@ Engaging with the memorial's surroundings can enhance your visit. Take time to w
 
 ## Practical Information
 
-When planning your visit to the Soviet War Memorial Schönholzer Heide, it is advisable to bring comfortable walking shoes, as the park is best explored on foot. A camera can help capture the memorial and its surroundings, but be mindful of the site’s respectful atmosphere.
+When planning your visit to the Soviet War Memorial Schönholzer Heide, it is advisable to bring comfortable walking shoes, as the park is best explored on foot. A camera can help capture the memorial and its surroundings, but be mindful of the site's respectful atmosphere.
 
 Seasonal considerations are also important; in spring and summer, the park is lush and vibrant, while autumn offers beautiful foliage. In winter, the memorial may be quieter but can be just as poignant against a backdrop of frost or snow.
 

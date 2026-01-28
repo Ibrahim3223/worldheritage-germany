@@ -80,7 +80,7 @@ To make the most of your visit to Haller Straße 3, consider a few insider tips 
 
 - **Timing Your Visit**: To avoid crowds, plan your visit during weekdays or early in the morning. This timing allows for a more personal experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask the museum staff questions. They can provide valuable insights and anecdotes that enrich your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask the museum staff questions. They can provide valuable insights and anecdotes that enrich your understanding of the exhibits.
 
 ## Practical Information
 

@@ -82,7 +82,7 @@ To make the most of your visit to Steinwache Memorial, consider the following ti
 
 - **Crowd Avoidance**: If possible, visit during the early morning or late afternoon on weekdays. This will help you avoid larger crowds and allow for a more personal experience with the exhibits.
 
-- **Engage with Staff**: The staff members are often knowledgeable about the site and its history. Don’t hesitate to ask questions or seek more information about specific exhibits.
+- **Engage with Staff**: The staff members are often knowledgeable about the site and its history. Don't hesitate to ask questions or seek more information about specific exhibits.
 
 ## Practical Information
 

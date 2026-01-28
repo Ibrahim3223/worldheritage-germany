@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Luke's Church, a prominent church building located in Dresden, Germany, serves as a significant landmark within the region of Saxony. Known for its architectural elegance and cultural importance, this church embodies the rich history of the area while providing a space for reflection and community gatherings. The coordinates of St. Luke’s Church are 51.0317 latitude and 13.7342 longitude, placing it centrally within the vibrant city of Dresden. This guide will delve into the history, architectural features, and practical advice for visiting this noteworthy site.
+St. Luke's Church, a prominent church building located in Dresden, Germany, serves as a significant landmark within the region of Saxony. Known for its architectural elegance and cultural importance, this church embodies the rich history of the area while providing a space for reflection and community gatherings. The coordinates of St. Luke's Church are 51.0317 latitude and 13.7342 longitude, placing it centrally within the vibrant city of Dresden. This guide will delve into the history, architectural features, and practical advice for visiting this noteworthy site.
 
 ## History and Significance
 
@@ -42,13 +42,13 @@ St. Luke's Church is characterized by its distinct architectural style, which re
 
 The exterior of St. Luke's Church showcases a harmonious blend of materials and craftsmanship typical of the period, contributing to its visual appeal. Its façade is marked by intricate details that enhance its overall presence, inviting visitors to appreciate the artistry involved in its construction. The church's structure is designed not only for function but also for inspiring a sense of awe among those who enter.
 
-Inside, the church may feature various religious artworks, stained glass windows, and a layout that facilitates worship and community gatherings. These elements play a vital role in the church's atmosphere, making it a peaceful retreat in the midst of the urban environment. Visitors can expect to experience a sense of tranquility as they explore the interior, allowing for personal reflection and appreciation of the church’s cultural significance.
+Inside, the church may feature various religious artworks, stained glass windows, and a layout that facilitates worship and community gatherings. These elements play a vital role in the church's atmosphere, making it a peaceful retreat in the midst of the urban environment. Visitors can expect to experience a sense of tranquility as they explore the interior, allowing for personal reflection and appreciation of the church's cultural significance.
 
 ## Visiting Information
 
 Visitors to St. Luke's Church will find it conveniently located within Dresden, making it accessible by various forms of transportation. Public transport options, including buses and trams, typically connect to central areas of the city, facilitating easy access to the church. For those traveling by car, check the official website for parking information and any potential restrictions.
 
-As for practical visiting details, it is advisable to check the official website for current information regarding hours of operation and any potential entry fees. When planning a visit, consider allocating sufficient time to fully appreciate the church’s architecture and ambiance. A visit typically takes about an hour, allowing for a leisurely exploration of the interior and exterior spaces.
+As for practical visiting details, it is advisable to check the official website for current information regarding hours of operation and any potential entry fees. When planning a visit, consider allocating sufficient time to fully appreciate the church's architecture and ambiance. A visit typically takes about an hour, allowing for a leisurely exploration of the interior and exterior spaces.
 
 The best times to visit St. Luke's Church are during weekdays when it is less crowded, providing a more intimate experience. Early mornings or late afternoons may also offer a quieter atmosphere for reflection.
 

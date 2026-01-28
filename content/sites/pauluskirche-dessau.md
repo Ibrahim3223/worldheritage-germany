@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Pauluskirche, located in the heart of Dessau-Roßlau, Germany, is a notable church building that serves as a spiritual and cultural landmark in the region. Its striking architecture and historical significance make it a focal point for both locals and visitors. The church, steeped in the context of the area’s rich heritage, reflects the artistic and architectural movements that have shaped Dessau over the years. As one approaches this sacred space, the sense of community and history envelops them, promising an enriching experience for all who enter.
+Pauluskirche, located in the heart of Dessau-Roßlau, Germany, is a notable church building that serves as a spiritual and cultural landmark in the region. Its striking architecture and historical significance make it a focal point for both locals and visitors. The church, steeped in the context of the area's rich heritage, reflects the artistic and architectural movements that have shaped Dessau over the years. As one approaches this sacred space, the sense of community and history envelops them, promising an enriching experience for all who enter.
 
 Situated within the vibrant urban landscape of Dessau-Roßlau, Pauluskirche is more than just a religious site; it represents the broader narrative of the city itself. This guide aims to delve deeper into the church's history, architectural features, and practical information for visitors, ensuring a well-rounded understanding of this significant structure.
 
@@ -34,7 +34,7 @@ Situated within the vibrant urban landscape of Dessau-Roßlau, Pauluskirche is m
 
 While specific dates regarding the construction and development of Pauluskirche are not detailed, the church stands as an important symbol of the community's religious and cultural life. The church has witnessed various historical epochs, each leaving its mark on the congregation and the building itself. As a place of worship, Pauluskirche has served not only as a spiritual center but also as a gathering place for community events, celebrations, and local traditions.
 
-The church’s significance extends beyond its religious functions; it is a reflection of the artistic spirit that has characterized Dessau over time. The region is known for its connections to various cultural movements, including the Bauhaus, which has influenced many aspects of architecture and design in Dessau. Pauluskirche, while primarily a place of worship, also embodies the artistic ethos that resonates throughout the city, making it an integral part of Dessau's identity.
+The church's significance extends beyond its religious functions; it is a reflection of the artistic spirit that has characterized Dessau over time. The region is known for its connections to various cultural movements, including the Bauhaus, which has influenced many aspects of architecture and design in Dessau. Pauluskirche, while primarily a place of worship, also embodies the artistic ethos that resonates throughout the city, making it an integral part of Dessau's identity.
 
 As you explore the history of Pauluskirche, it's essential to consider its role in the lives of the individuals who have frequented it over the years. The church has offered solace, community support, and a sense of belonging, making it a cherished institution within Dessau-Roßlau. Its ongoing relevance highlights the importance of preserving such heritage sites for future generations, allowing them to connect with their past while fostering community spirit.
 

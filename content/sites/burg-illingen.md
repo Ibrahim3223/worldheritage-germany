@@ -86,7 +86,7 @@ When planning your visit to Burg Illingen, consider these tips for an enhanced e
 
 - **Crowd Avoidance**: To appreciate the tranquility of the site, visit during off-peak hours. Weekdays can be less crowded compared to weekends, allowing for a more intimate exploration of the castle.
 
-- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the castle’s history and architecture. Knowledgeable guides can provide context that enriches your understanding.
+- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the castle's history and architecture. Knowledgeable guides can provide context that enriches your understanding.
 
 - **Local Cuisine**: If time permits, try local cuisine at nearby establishments. Sampling regional dishes can add a culinary element to your heritage experience.
 

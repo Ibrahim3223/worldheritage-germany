@@ -58,9 +58,9 @@ A visit typically requires a couple of hours to fully appreciate the exhibits an
 
 While exploring Göttingen, there are several attractions nearby that can complement your visit to the Georg-August-Universität: Nutztierforschung. 
 
-1. **Gänseliesel Fountain**: This iconic fountain features a statue of a young girl with geese and is a beloved symbol of Göttingen. It’s a great spot for photographs and a brief rest.
+1. **Gänseliesel Fountain**: This iconic fountain features a statue of a young girl with geese and is a beloved symbol of Göttingen. It's a great spot for photographs and a brief rest.
 
-2. **St. Jacob’s Church (Jakobskirche)**: A beautiful medieval church known for its stunning architecture and historical significance. It is a short walk from the museum and worth visiting.
+2. **St. Jacob's Church (Jakobskirche)**: A beautiful medieval church known for its stunning architecture and historical significance. It is a short walk from the museum and worth visiting.
 
 3. **Botanical Garden of the University of Göttingen**: This expansive garden showcases a diverse collection of plants and provides a peaceful setting for a stroll or relaxation.
 

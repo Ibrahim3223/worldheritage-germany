@@ -32,7 +32,7 @@ As visitors approach Schinkelplatz, they are enveloped in a unique atmosphere th
 
 ## History and Significance
 
-The history of Schinkelplatz is intertwined with the rich narrative of Berlin itself. Named after the eminent Prussian architect Karl Friedrich Schinkel, whose influence is widely recognized in the city’s architectural landscape, the square pays homage to his contributions to urban design. Schinkel was a pivotal figure in the early 19th century, known for his neoclassical buildings that harmoniously blended functionality with aesthetic appeal. 
+The history of Schinkelplatz is intertwined with the rich narrative of Berlin itself. Named after the eminent Prussian architect Karl Friedrich Schinkel, whose influence is widely recognized in the city's architectural landscape, the square pays homage to his contributions to urban design. Schinkel was a pivotal figure in the early 19th century, known for his neoclassical buildings that harmoniously blended functionality with aesthetic appeal. 
 
 While specific historical milestones of Schinkelplatz are not detailed, the square serves as a testament to Berlin's architectural evolution and urban planning. Over the years, it has transitioned from a purely functional space into a lively area that fosters community interaction. This transformation mirrors the broader changes within Berlin, particularly as the city has navigated through periods of war, division, and reunification.
 

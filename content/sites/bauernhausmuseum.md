@@ -90,7 +90,7 @@ When preparing for your visit to the Bauernhausmuseum, consider the following pr
 
 - **Seasonal Considerations**: Be aware of the weather conditions during your visit, as some outdoor areas may be less accessible during inclement weather. Checking the forecast ahead of time can help you dress appropriately.
 
-- **Accessibility**: For visitors with mobility concerns, it’s best to check the official website for accessibility options within the museum.
+- **Accessibility**: For visitors with mobility concerns, it's best to check the official website for accessibility options within the museum.
 
 - **Dining Options**: While specific dining facilities are not mentioned, it is advisable to bring snacks or check for nearby cafes to enhance your visit.
 
@@ -100,7 +100,7 @@ When preparing for your visit to the Bauernhausmuseum, consider the following pr
 A visit typically lasts a few hours, allowing time to explore the various buildings and engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival for any specific restrictions.
+Photography policies may vary, so it's best to check upon arrival for any specific restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the museum's exhibits and history.
@@ -112,10 +112,10 @@ Visiting during the spring or summer can enhance your experience, as outdoor act
 For information regarding wheelchair accessibility, check the official website for specifics.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for details on ticket purchasing options.
+It's advisable to check the official website for details on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available, but for dining options, it’s best to check for nearby cafes or bring your own snacks.
+Restroom facilities may be available, but for dining options, it's best to check for nearby cafes or bring your own snacks.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather conditions for your visit.

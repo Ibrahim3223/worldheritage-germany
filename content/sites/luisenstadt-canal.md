@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Luisenstadt Canal, a historic waterway in Berlin, is a serene escape amid the bustling city life. Originally constructed between 1852 and 1926, this canal serves as both a park and a reminder of Berlin's intricate past. Spanning approximately 3.3 kilometers, the canal was part of a broader initiative to enhance the city’s navigational and aesthetic appeal. Today, it stands as a popular destination for locals and visitors alike, offering a unique blend of nature, recreation, and urban history. Whether you’re looking to stroll along its banks, enjoy a leisurely boat ride, or simply unwind in a green space, the Luisenstadt Canal promises an enriching experience.
+The Luisenstadt Canal, a historic waterway in Berlin, is a serene escape amid the bustling city life. Originally constructed between 1852 and 1926, this canal serves as both a park and a reminder of Berlin's intricate past. Spanning approximately 3.3 kilometers, the canal was part of a broader initiative to enhance the city's navigational and aesthetic appeal. Today, it stands as a popular destination for locals and visitors alike, offering a unique blend of nature, recreation, and urban history. Whether you're looking to stroll along its banks, enjoy a leisurely boat ride, or simply unwind in a green space, the Luisenstadt Canal promises an enriching experience.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ While exploring the Luisenstadt Canal, consider visiting these nearby attraction
 
 1. **Tempelhofer Feld**: Once an airport, this expansive park is now a popular spot for picnics, kite flying, and cycling. Its open fields provide a stark contrast to the urban environment.
    
-2. **Kreuzberg**: This vibrant neighborhood is known for its diverse culture, street art, and numerous cafés and restaurants. A stroll through Kreuzberg offers a taste of Berlin’s eclectic lifestyle.
+2. **Kreuzberg**: This vibrant neighborhood is known for its diverse culture, street art, and numerous cafés and restaurants. A stroll through Kreuzberg offers a taste of Berlin's eclectic lifestyle.
 
 3. **Landwehr Canal**: Just a short distance away, this canal also features beautiful walking paths and is lined with historic buildings, making it another great place to explore.
 

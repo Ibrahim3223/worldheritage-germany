@@ -60,7 +60,7 @@ While Mannhagener Moor itself is a significant draw, the surrounding area also o
 
 1. **Sundhagen Village**: This charming village showcases traditional Mecklenburg architecture and provides insights into local culture and history.
 
-2. **Rügen Island**: A short drive away, Rügen is Germany’s largest island, known for its stunning coastline, chalk cliffs, and charming seaside resorts.
+2. **Rügen Island**: A short drive away, Rügen is Germany's largest island, known for its stunning coastline, chalk cliffs, and charming seaside resorts.
 
 3. **Greifswald**: This nearby city is home to historic buildings, a vibrant university atmosphere, and cultural events throughout the year.
 

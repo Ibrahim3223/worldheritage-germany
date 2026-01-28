@@ -91,7 +91,7 @@ Currently, there are no specific guided tours for the Zschopaubrücke. However, 
 The best times to visit are during the early morning or late afternoon, when the lighting is most favorable for photography and the crowds are smaller.
 
 ### Is it wheelchair accessible?
-Details on wheelchair accessibility are not specified, so it’s advisable to check local resources or the official website for the most accurate information.
+Details on wheelchair accessibility are not specified, so it's advisable to check local resources or the official website for the most accurate information.
 
 ### Can I buy tickets online?
 There are no ticket requirements for visiting the Zschopaubrücke, but check the official website for any updates regarding events or guided tours.

@@ -52,7 +52,7 @@ When planning a visit to the Center of Advanced European Studies and Research, i
 
 Upon arrival, guests can expect a welcoming atmosphere where they can learn about ongoing research initiatives and possibly engage with scholars. The time needed for a visit may vary based on personal interest in the research topics being discussed; however, a couple of hours should suffice for a general exploration. 
 
-The best times to visit are likely during academic events or conferences, which may provide unique opportunities to engage with researchers and gain deeper insights into their work. Engaging in such events can greatly enhance the experience, allowing for a more immersive understanding of the center’s contributions to European studies.
+The best times to visit are likely during academic events or conferences, which may provide unique opportunities to engage with researchers and gain deeper insights into their work. Engaging in such events can greatly enhance the experience, allowing for a more immersive understanding of the center's contributions to European studies.
 
 ## Nearby Attractions
 
@@ -72,13 +72,13 @@ While visiting the Center of Advanced European Studies and Research, consider ex
 
 For photography enthusiasts, capturing the vibrant atmosphere of the center can enhance your experience. Be sure to ask about any photography policies on-site, as some areas may have restrictions. To avoid crowds, consider visiting during weekdays or during specific events when attendance may be lower.
 
-Engaging with staff and researchers can provide unique insights and enhance your understanding of the center’s mission. Don't hesitate to ask questions or express your interests, as those present are usually eager to share their knowledge and passion for their work.
+Engaging with staff and researchers can provide unique insights and enhance your understanding of the center's mission. Don't hesitate to ask questions or express your interests, as those present are usually eager to share their knowledge and passion for their work.
 
 ## Practical Information
 
 When preparing for a visit to the Center of Advanced European Studies and Research, consider bringing a notebook or digital device to jot down interesting insights and ideas. Depending on the season, dress comfortably and check the weather forecast to ensure a pleasant experience. 
 
-It’s also a good idea to carry a water bottle and some snacks, as this can enhance your visit by allowing you to stay refreshed while exploring the center. 
+It's also a good idea to carry a water bottle and some snacks, as this can enhance your visit by allowing you to stay refreshed while exploring the center. 
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ For accessibility information, please check the official website or contact the 
 Ticket purchasing options may vary; consult the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site, but it’s advisable to confirm this on the official website.
+Facilities such as restrooms and cafes may be available on-site, but it's advisable to confirm this on the official website.
 
 ### What should I wear?
 Dress comfortably and consider seasonal weather conditions when planning your attire for the visit.

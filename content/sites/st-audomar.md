@@ -88,7 +88,7 @@ When visiting St. Audomar, be sure to dress appropriately for a church setting, 
 
 It is advisable to check seasonal weather forecasts for Frechen before your visit, as conditions can vary throughout the year. If you plan to visit during colder months, dress in layers to ensure comfort while exploring.
 
-Be mindful of any specific rules regarding photography within the church, and always respect the sanctity of the space. It’s also a good idea to bring a small bag with water and snacks, especially if you plan to spend time exploring nearby attractions.
+Be mindful of any specific rules regarding photography within the church, and always respect the sanctity of the space. It's also a good idea to bring a small bag with water and snacks, especially if you plan to spend time exploring nearby attractions.
 
 ## Frequently Asked Questions
 

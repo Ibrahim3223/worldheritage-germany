@@ -84,7 +84,7 @@ Accessibility may vary, particularly with uneven terrain common around historica
 Visitors typically spend about one to two hours at Gleiberg Castle to explore the ruins and appreciate the historical context.
 
 ### Is photography allowed?
-Yes, photography is permitted throughout the castle grounds, making it an excellent opportunity for capturing the site’s beauty.
+Yes, photography is permitted throughout the castle grounds, making it an excellent opportunity for capturing the site's beauty.
 
 ### Are there guided tours?
 While self-guided exploration is common, it's advisable to check if any guided tours are available on the official website for a more in-depth experience.
@@ -93,7 +93,7 @@ While self-guided exploration is common, it's advisable to check if any guided t
 Spring and autumn are ideal times to visit due to pleasant weather and scenic surroundings. Check local weather forecasts for specific conditions.
 
 ### Is it wheelchair accessible?
-The site may pose challenges due to uneven terrain, so it’s recommended to check specific accessibility details on the official website before your visit.
+The site may pose challenges due to uneven terrain, so it's recommended to check specific accessibility details on the official website before your visit.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options and availability.

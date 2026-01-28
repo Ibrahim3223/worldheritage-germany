@@ -84,7 +84,7 @@ When planning your visit to Villengarten Im Eichgehölz 15, keep the following p
 A visit of about one to two hours is recommended to fully enjoy the garden's beauty and tranquility.
 
 ### Is photography allowed?
-Yes, photography is allowed, making it a great place to capture nature’s beauty.
+Yes, photography is allowed, making it a great place to capture nature's beauty.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours mentioned. Check the official website for any updates on available tours.
@@ -96,7 +96,7 @@ Early morning or late afternoon is ideal for a peaceful experience and optimal l
 Check the official website for detailed accessibility information regarding pathways and facilities.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases is not specified. It’s best to check the official website for current details.
+Information regarding online ticket purchases is not specified. It's best to check the official website for current details.
 
 ### Are there restrooms and cafes?
 Facilities like restrooms and cafes are not detailed; verify with the official website for current amenities.

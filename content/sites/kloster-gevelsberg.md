@@ -88,7 +88,7 @@ While specific tour information is not provided, check the official website for 
 Weekdays are often quieter, making them ideal for a peaceful visit. Early morning or late afternoon can provide the best lighting for photography.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s best to check with the official website for current details regarding wheelchair access.
+Accessibility information is not specified, so it's best to check with the official website for current details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticketing information is not provided in detail; check the official website for options related to online purchasing.

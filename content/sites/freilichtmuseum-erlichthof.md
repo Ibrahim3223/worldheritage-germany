@@ -28,7 +28,7 @@ image_srcset:
 
 Freilichtmuseum Erlichthof is a captivating museum located in Rietschen, Germany, dedicated to showcasing the traditional rural life of the region through its engaging open-air exhibits. This museum offers visitors an opportunity to explore historical buildings and artifacts, providing a glimpse into the customs, architecture, and livelihoods of past generations. Set against the backdrop of Germany's picturesque landscape, it serves as a vital cultural resource, helping to preserve and promote the heritage of the area.
 
-The museum stands out not just for its collection but also for its immersive experience, where the past is brought to life through various displays and activities. Visitors can expect to encounter authentic structures, such as farms and workshops, which illustrate the day-to-day realities of rural living. The museum is an essential stop for those interested in understanding the historical context of rural Germany, making it a significant addition to the country’s cultural landscape.
+The museum stands out not just for its collection but also for its immersive experience, where the past is brought to life through various displays and activities. Visitors can expect to encounter authentic structures, such as farms and workshops, which illustrate the day-to-day realities of rural living. The museum is an essential stop for those interested in understanding the historical context of rural Germany, making it a significant addition to the country's cultural landscape.
 
 ## History and Significance
 
@@ -70,7 +70,7 @@ While visiting Freilichtmuseum Erlichthof, it's worthwhile to explore some nearb
 
 3. **Museum of Local History in Löbau**: This museum complements your visit to Freilichtmuseum Erlichthof by offering additional context about the regional history and culture.
 
-4. **Zittau**: A nearby town known for its charming architecture and vibrant cultural scene; it’s an excellent spot for dining and shopping.
+4. **Zittau**: A nearby town known for its charming architecture and vibrant cultural scene; it's an excellent spot for dining and shopping.
 
 5. **Schwarze Pumpe Nature Reserve**: A tranquil area ideal for nature walks and birdwatching, providing a peaceful retreat after an educational day at the museum.
 
@@ -82,7 +82,7 @@ To make the most of your visit to Freilichtmuseum Erlichthof, consider these ins
 
 - **Crowd Avoidance**: To experience the museum with fewer visitors, consider visiting during weekdays or during off-peak seasons. Early mornings or late afternoons can also provide a quieter atmosphere.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions about the exhibits or the history of the buildings. Their insights can greatly enhance your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions about the exhibits or the history of the buildings. Their insights can greatly enhance your understanding of the displays.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ When planning your visit to Freilichtmuseum Erlichthof, keep the following pract
 
 - **Seasonal Considerations**: Depending on the season, be prepared for varying weather conditions. Layered clothing is advisable, as temperatures can fluctuate throughout the day.
 
-- **Accessibility**: While the museum aims to be inclusive, it’s best to check the official website for details regarding accessibility options for those with mobility challenges.
+- **Accessibility**: While the museum aims to be inclusive, it's best to check the official website for details regarding accessibility options for those with mobility challenges.
 
 ## Frequently Asked Questions
 

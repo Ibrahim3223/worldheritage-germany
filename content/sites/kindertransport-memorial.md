@@ -30,7 +30,7 @@ The Kindertransport memorial in Hamburg serves as a poignant reminder of the liv
 
 As you approach the memorial, you are met with an atmosphere that resonates with history and emotion. This site is integral to understanding the narrative of the Kindertransport, an initiative that allowed thousands of Jewish children to escape Nazi Germany and find refuge in the United Kingdom before the onset of World War II. Hamburg, a bustling city with a complex history, adds layers of context to the memorial, making it an essential stop for those interested in heritage and human rights.
 
-Visiting the Kindertransport memorial is not just an opportunity to learn about the past; it’s a chance to engage deeply with a story that still holds relevance today. Whether you’re a local or a traveler from afar, the memorial invites you to reflect on the collective responsibility of societies to protect the innocent and vulnerable.
+Visiting the Kindertransport memorial is not just an opportunity to learn about the past; it's a chance to engage deeply with a story that still holds relevance today. Whether you're a local or a traveler from afar, the memorial invites you to reflect on the collective responsibility of societies to protect the innocent and vulnerable.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ The Kindertransport memorial in Hamburg is a focal point for remembrance and edu
 
 ## Architecture and Features
 
-The Kindertransport memorial is characterized by its striking bronze sculpture, which captures the essence of the children’s experience during this harrowing chapter in history. The sculpture features figures of children and their guardians, symbolizing both the innocence of youth and the protective instinct of those who sought to save them. The artistry reflects deep emotional resonance, conveying a sense of both hope and sorrow.
+The Kindertransport memorial is characterized by its striking bronze sculpture, which captures the essence of the children's experience during this harrowing chapter in history. The sculpture features figures of children and their guardians, symbolizing both the innocence of youth and the protective instinct of those who sought to save them. The artistry reflects deep emotional resonance, conveying a sense of both hope and sorrow.
 
 Positioned prominently at the southern exit of Hamburg Dammtor station, the memorial is designed to be accessible to the public, allowing for easy visitation and reflection. The choice of location is significant, as it was at train stations like this that many children embarked on their uncertain journeys to safety. 
 

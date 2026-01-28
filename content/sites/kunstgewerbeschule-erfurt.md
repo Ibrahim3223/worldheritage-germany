@@ -62,7 +62,7 @@ As you plan your visit, be sure to wear comfortable shoes, as you may want to st
 
 ## Nearby Attractions
 
-After visiting Kunstgewerbeschule Erfurt, consider exploring some of the nearby attractions that enrich your understanding of the city’s history and culture:
+After visiting Kunstgewerbeschule Erfurt, consider exploring some of the nearby attractions that enrich your understanding of the city's history and culture:
 
 1. **Erfurt Cathedral**: A stunning example of Gothic architecture, this cathedral dominates the skyline and provides insights into the city's ecclesiastical history.
    
@@ -92,7 +92,7 @@ Seasonal considerations may play a role in your visit. If you're traveling in th
 Visitors typically spend about an hour at Kunstgewerbeschule Erfurt, allowing time to appreciate the architecture and reflect on its significance. 
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and its surroundings.
+Photography is generally permitted, but it's advisable to be respectful of the space and its surroundings.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours available for Kunstgewerbeschule Erfurt. However, visitors can explore the site at their own pace.

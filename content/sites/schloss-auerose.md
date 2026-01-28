@@ -74,7 +74,7 @@ While visiting Schloss Auerose, consider exploring these nearby attractions that
 
 To make the most of your visit to Schloss Auerose, consider these insider tips:
 
-- **Photography**: While capturing the manor’s beauty, be mindful of any restrictions regarding photography, especially inside the building. Early morning or late afternoon light can enhance your photos, providing a soft glow to the architecture.
+- **Photography**: While capturing the manor's beauty, be mindful of any restrictions regarding photography, especially inside the building. Early morning or late afternoon light can enhance your photos, providing a soft glow to the architecture.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting on weekdays or during off-peak hours. This will allow you to explore the grounds without the bustle of larger crowds.
 
@@ -90,7 +90,7 @@ Additionally, check the official website for any specific recommendations regard
 A visit to Schloss Auerose typically requires a few hours, allowing ample time to explore the architecture and grounds at a leisurely pace.
 
 ### Is photography allowed?
-Photography policies may vary, especially inside the manor. It’s best to check for any signage or guidelines upon arrival.
+Photography policies may vary, especially inside the manor. It's best to check for any signage or guidelines upon arrival.
 
 ### Are there guided tours?
 Currently, guided tour availability is not specified. Check the official website for information on tours or self-guided options.

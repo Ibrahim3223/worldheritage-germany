@@ -48,7 +48,7 @@ The architecture of Brauerei Kelbra showcases the functional yet distinctive des
 
 As you walk through the site, look for features that may indicate the brewing processes used in the past. Elements such as large windows, which were likely designed to provide ample light during brewing operations, or storage areas that would have housed barrels, may still be visible. The layout of the brewery, too, can offer insights into how the production workflow was organized, from the initial brewing stages to the final packaging of the product.
 
-Although specific details about the interior spaces are not available, the overall aesthetic of the brewery is likely characterized by a robust and utilitarian style, reflecting its primary purpose. The buildings’ enduring presence in the landscape serves not only as a reminder of the brewery's operational days but also as an architectural landmark that contributes to the cultural heritage of Kelbra.
+Although specific details about the interior spaces are not available, the overall aesthetic of the brewery is likely characterized by a robust and utilitarian style, reflecting its primary purpose. The buildings' enduring presence in the landscape serves not only as a reminder of the brewery's operational days but also as an architectural landmark that contributes to the cultural heritage of Kelbra.
 
 ## Visiting Information
 

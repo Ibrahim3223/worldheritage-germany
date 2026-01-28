@@ -22,7 +22,7 @@ images:
 
 Rauhes Haus, a distinguished social service institution located in the heart of Hamburg, Germany, embodies a commitment to community welfare that has persisted since its founding in 1833. This foundation plays a crucial role in the social fabric of Hamburg-Mitte, serving various community needs through its extensive programs and services. As a visitor, the Rauhes Haus offers a unique opportunity to understand the historical and contemporary landscape of social services in Germany, while also providing insight into the city's ongoing dedication to social responsibility.
 
-While Rauhes Haus is primarily a functioning institution, its historical significance and architectural features make it worth exploring during your time in Hamburg. The foundation's longstanding mission and its prominent role in the community invite visitors to reflect on the evolution of social services in urban settings. Whether you are interested in social history, architecture, or simply want to engage with a meaningful part of Hamburg’s community, a visit to Rauhes Haus is both enlightening and rewarding.
+While Rauhes Haus is primarily a functioning institution, its historical significance and architectural features make it worth exploring during your time in Hamburg. The foundation's longstanding mission and its prominent role in the community invite visitors to reflect on the evolution of social services in urban settings. Whether you are interested in social history, architecture, or simply want to engage with a meaningful part of Hamburg's community, a visit to Rauhes Haus is both enlightening and rewarding.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ The best times to visit Rauhes Haus are during weekdays when programs are in ful
 
 ## Nearby Attractions
 
-While visiting Rauhes Haus, take the opportunity to explore several nearby attractions that enhance your understanding of Hamburg’s cultural landscape:
+While visiting Rauhes Haus, take the opportunity to explore several nearby attractions that enhance your understanding of Hamburg's cultural landscape:
 
 1. **Hamburg Museum**: Just a short distance away, this museum provides a comprehensive overview of the city's history, offering insights into its development over the centuries.
 
@@ -58,7 +58,7 @@ While visiting Rauhes Haus, take the opportunity to explore several nearby attra
 
 3. **HafenCity**: Explore this innovative urban development area that combines modern architecture with waterfront views, showcasing Hamburg's commitment to urban regeneration.
 
-4. **Elbphilharmonie**: An architectural marvel, this concert hall is situated on the banks of the Elbe River and is renowned for its unique design and acoustics. A visit here can complement your understanding of Hamburg’s modern cultural scene.
+4. **Elbphilharmonie**: An architectural marvel, this concert hall is situated on the banks of the Elbe River and is renowned for its unique design and acoustics. A visit here can complement your understanding of Hamburg's modern cultural scene.
 
 5. **Planten un Blomen**: A beautiful park offering peaceful gardens and walking paths, providing a serene escape from the urban environment.
 
@@ -68,7 +68,7 @@ To make the most of your visit to Rauhes Haus, consider these insider tips:
 
 - **Photography**: While photography may be allowed in certain areas, it is advisable to respect the privacy of those utilizing the services. Always ask for permission if you are capturing individuals in your photos.
 
-- **Crowd Avoidance**: To enjoy a more intimate experience, visit during the early afternoon on weekdays when there are typically fewer visitors. This will allow you to engage more deeply with the foundation’s activities.
+- **Crowd Avoidance**: To enjoy a more intimate experience, visit during the early afternoon on weekdays when there are typically fewer visitors. This will allow you to engage more deeply with the foundation's activities.
 
 ## Practical Information
 

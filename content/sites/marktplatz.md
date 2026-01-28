@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Marktplatz, a vibrant public square in Heidelberg, Germany, is a focal point of social and cultural life in this picturesque city. Located in the heart of Heidelberg, this square is surrounded by historic buildings, charming shops, and inviting cafes, making it an ideal spot for both locals and visitors. The square serves as a hub for various events, markets, and festivals throughout the year, drawing people together in celebration of the city’s rich heritage. 
+Marktplatz, a vibrant public square in Heidelberg, Germany, is a focal point of social and cultural life in this picturesque city. Located in the heart of Heidelberg, this square is surrounded by historic buildings, charming shops, and inviting cafes, making it an ideal spot for both locals and visitors. The square serves as a hub for various events, markets, and festivals throughout the year, drawing people together in celebration of the city's rich heritage. 
 
 Heidelberg itself is renowned for its stunning architecture, academic history, and the iconic Heidelberg Castle, which looms majestically above the city. Marktplatz serves not only as a meeting place but also as a gateway to exploring the many attractions and experiences that Heidelberg has to offer. With its picturesque setting and bustling atmosphere, Marktplatz is a must-visit location for anyone looking to immerse themselves in the local culture and history.
 
@@ -62,7 +62,7 @@ While Marktplatz serves as a centerpiece of Heidelberg, several nearby attractio
 
 2. **Heiliggeistkirche (Church of the Holy Spirit)**: Located right on the square, this church is known for its stunning Gothic architecture and serene atmosphere, often attracting visitors for both its beauty and historical significance.
 
-3. **Philosophenweg (Philosopher’s Path)**: A scenic walking trail that offers panoramic views of Heidelberg, this path is ideal for those looking to enjoy nature while reflecting on the city’s intellectual heritage.
+3. **Philosophenweg (Philosopher's Path)**: A scenic walking trail that offers panoramic views of Heidelberg, this path is ideal for those looking to enjoy nature while reflecting on the city's intellectual heritage.
 
 4. **Old Bridge (Alte Brücke)**: This iconic bridge connects the old town with the opposite bank of the Neckar River, providing a picturesque walk and views of the castle and cityscape.
 

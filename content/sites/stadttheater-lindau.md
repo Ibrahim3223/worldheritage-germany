@@ -48,7 +48,7 @@ The theatre is not only a performance venue but also a space that can host vario
 
 ## Visiting Information
 
-To visit Stadttheater Lindau, various transport options are available. Lindau is well-connected by public transportation, including trains and buses, making it accessible for visitors coming from nearby cities. The theatre’s location in the town center means it is often within walking distance of other attractions.
+To visit Stadttheater Lindau, various transport options are available. Lindau is well-connected by public transportation, including trains and buses, making it accessible for visitors coming from nearby cities. The theatre's location in the town center means it is often within walking distance of other attractions.
 
 When planning your visit, check the official website for current information on performance schedules, ticket prices, and opening hours. Visitors typically spend a few hours at the theatre, allowing time to enjoy a performance and perhaps explore the surrounding area before or after the show. 
 

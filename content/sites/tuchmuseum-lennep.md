@@ -92,7 +92,7 @@ When preparing for your visit to Tuchmuseum Lennep, consider the following pract
 Most visitors find that spending 2-3 hours at Tuchmuseum Lennep allows ample time to explore the exhibits fully.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check with museum staff upon arrival regarding specific restrictions.
+Photography policies may vary, so it's advisable to check with museum staff upon arrival regarding specific restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing a more in-depth understanding of the exhibits. Check the official website for details on availability.

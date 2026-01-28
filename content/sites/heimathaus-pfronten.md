@@ -72,11 +72,11 @@ While visiting Heimathaus Pfronten, consider exploring the following nearby attr
 
 For photography enthusiasts, be sure to capture the charming exterior of Heimathaus Pfronten, as well as the intriguing artifacts displayed inside. However, it is essential to respect any guidelines regarding photography within the museum.
 
-To avoid larger crowds, consider visiting during weekdays or early in the morning. This timing allows for a more intimate experience as you explore the exhibits and engage with the museum’s offerings.
+To avoid larger crowds, consider visiting during weekdays or early in the morning. This timing allows for a more intimate experience as you explore the exhibits and engage with the museum's offerings.
 
 ## Practical Information
 
-When preparing for your visit to Heimathaus Pfronten, consider bringing a camera to document your experience, but be mindful of the museum’s photography policies. Comfortable walking shoes are also recommended, as you may want to explore both the indoor exhibits and the surrounding area.
+When preparing for your visit to Heimathaus Pfronten, consider bringing a camera to document your experience, but be mindful of the museum's photography policies. Comfortable walking shoes are also recommended, as you may want to explore both the indoor exhibits and the surrounding area.
 
 Seasonal considerations are important; check the official website for information about any special events or exhibitions that might be taking place during your visit. Additionally, the weather can vary, so dressing in layers is advisable to ensure comfort throughout your exploration.
 
@@ -86,7 +86,7 @@ Seasonal considerations are important; check the official website for informatio
 Most visitors find that spending a couple of hours is sufficient to explore the exhibits and participate in any available activities.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival.
+Photography policies may vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any scheduled times.

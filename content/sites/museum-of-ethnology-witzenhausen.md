@@ -46,7 +46,7 @@ When planning a visit to the Museum of Ethnology Witzenhausen, travelers should 
 
 Check the official website for current information regarding hours of operation and admission prices, as these can vary seasonally. Typically, a visit to the museum may take between one to two hours, allowing ample time to explore the exhibits and engage with the materials.
 
-The best times to visit are often during weekdays or early in the morning, as this can help avoid larger crowds and provide a more intimate experience in the museum. Special events or exhibitions may also attract additional visitors, so checking the calendar of events on the museum’s official site can enhance your visit.
+The best times to visit are often during weekdays or early in the morning, as this can help avoid larger crowds and provide a more intimate experience in the museum. Special events or exhibitions may also attract additional visitors, so checking the calendar of events on the museum's official site can enhance your visit.
 
 Expect to encounter a welcoming atmosphere, with staff ready to assist and share insights about the exhibits. The museum is designed to cater to a diverse audience, ensuring that individuals of all backgrounds can appreciate the cultural narratives presented.
 

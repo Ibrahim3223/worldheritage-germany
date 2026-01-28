@@ -56,7 +56,7 @@ Visitors to Waldenserkirche will find that the architecture and features of the 
 
 Waldenserkirche is accessible to visitors seeking to explore its historical and cultural significance. While specific hours and ticket prices are not provided, it is advisable to check the official website for current information regarding visiting times and any potential fees for entry.
 
-Transportation to Waldenserkirche is facilitated by the local infrastructure, making it relatively easy to reach this significant site. Whether arriving by car or public transport, visitors can plan their journey to ensure a smooth arrival. The surrounding area typically provides parking options, though it’s wise to verify availability ahead of time.
+Transportation to Waldenserkirche is facilitated by the local infrastructure, making it relatively easy to reach this significant site. Whether arriving by car or public transport, visitors can plan their journey to ensure a smooth arrival. The surrounding area typically provides parking options, though it's wise to verify availability ahead of time.
 
 When visiting, guests can expect a peaceful atmosphere conducive to contemplation and reflection. The interior of the church may encourage visitors to take their time, engaging with the historical narratives and spiritual significance imbued within its walls. A visit may last anywhere from thirty minutes to an hour, depending on personal interest and engagement with the site.
 
@@ -98,7 +98,7 @@ When planning your visit to Waldenserkirche, here are some practical considerati
 A visit to Waldenserkirche may take approximately thirty minutes to an hour, depending on your level of interest and engagement with the site.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check with the church or observe posted signs regarding photography during your visit.
+Photography policies may vary; it's best to check with the church or observe posted signs regarding photography during your visit.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified; check the official website for any available options during your visit.

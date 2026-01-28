@@ -66,7 +66,7 @@ When visiting the Antenna Tower of WSA Wilhelmshaven, there are several nearby a
 
 3. **Marine Museum Wilhelmshaven**: Delve into the naval history of the region at this museum, which features exhibits on maritime artifacts, naval vessels, and local maritime history.
 
-4. **Kaiser Wilhelm Bridge**: An iconic structure in Wilhelmshaven, this bridge is a great location for photographs and offers a glimpse into the city’s engineering achievements.
+4. **Kaiser Wilhelm Bridge**: An iconic structure in Wilhelmshaven, this bridge is a great location for photographs and offers a glimpse into the city's engineering achievements.
 
 5. **JadeWeserPort**: As a significant container port, this area represents the modern shipping industry and is worth visiting for those interested in maritime commerce.
 

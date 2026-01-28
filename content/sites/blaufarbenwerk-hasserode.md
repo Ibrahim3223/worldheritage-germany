@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Blaufarbenwerk Hasserode stands as a remarkable historical factory located in the quaint district of Hasserode, part of Wernigerode in Germany’s Harz region. This site, once a bustling center for the production of blue glass color, encapsulates the industrial heritage of the area while offering a glimpse into the fascinating processes behind the creation of vibrant glass pigments. The factory’s significance lies not only in its historical function but also in its representation of the industrial evolution that marked this region.
+Blaufarbenwerk Hasserode stands as a remarkable historical factory located in the quaint district of Hasserode, part of Wernigerode in Germany's Harz region. This site, once a bustling center for the production of blue glass color, encapsulates the industrial heritage of the area while offering a glimpse into the fascinating processes behind the creation of vibrant glass pigments. The factory's significance lies not only in its historical function but also in its representation of the industrial evolution that marked this region.
 
-As visitors approach this site, they are greeted by a blend of historical architecture and the remnants of industrial machinery that tell a story of craftsmanship and innovation. The factory’s setting in the picturesque Harz Mountains provides a scenic backdrop that enhances the experience of exploring this unique heritage site. Whether you are a history buff, an enthusiast of industrial heritage, or simply seeking an educational outing, Blaufarbenwerk Hasserode promises an engaging exploration of Germany's industrial past.
+As visitors approach this site, they are greeted by a blend of historical architecture and the remnants of industrial machinery that tell a story of craftsmanship and innovation. The factory's setting in the picturesque Harz Mountains provides a scenic backdrop that enhances the experience of exploring this unique heritage site. Whether you are a history buff, an enthusiast of industrial heritage, or simply seeking an educational outing, Blaufarbenwerk Hasserode promises an engaging exploration of Germany's industrial past.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ When preparing for your visit to Blaufarbenwerk Hasserode, consider the followin
 Most visitors find that one to two hours is sufficient to explore the factory and engage with the exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website, so check for updates on tour offerings.

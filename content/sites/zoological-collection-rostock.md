@@ -28,7 +28,7 @@ Visitors can expect to encounter a range of exhibits that highlight the importan
 
 ## History and Significance
 
-The Zoological Collection Rostock is an integral part of the University of Rostock's commitment to scientific research and education. While specific historical dates may be absent, the collection’s origins can be traced back to the institution's long-standing tradition of studying natural sciences. The museum plays a crucial role in advancing knowledge in zoology, offering resources for both academic research and public education. 
+The Zoological Collection Rostock is an integral part of the University of Rostock's commitment to scientific research and education. While specific historical dates may be absent, the collection's origins can be traced back to the institution's long-standing tradition of studying natural sciences. The museum plays a crucial role in advancing knowledge in zoology, offering resources for both academic research and public education. 
 
 The significance of the collection extends beyond academia; it serves as a vital resource for conservation efforts and biodiversity studies. The museum's specimens contribute to ongoing research that addresses critical environmental issues, such as species extinction and habitat loss. By showcasing various species and their ecological contexts, the Zoological Collection helps raise awareness about the delicate balance of ecosystems and the impact of human activity on the natural world.
 

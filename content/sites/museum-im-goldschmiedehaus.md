@@ -66,7 +66,7 @@ While the Museum im Goldschmiedehaus is a highlight in Ahlen, there are several 
 
 4. **The Old Town of Ahlen**: A charming area where visitors can wander through historic streets, enjoy local shops, and experience the town's vibrant atmosphere.
 
-5. **The Ahlen Water Tower**: An architectural landmark that offers panoramic views of the city, it’s a great spot for photography and appreciating the surrounding landscape.
+5. **The Ahlen Water Tower**: An architectural landmark that offers panoramic views of the city, it's a great spot for photography and appreciating the surrounding landscape.
 
 ## Insider Tips
 
@@ -109,7 +109,7 @@ The accessibility of the museum is an important consideration. For detailed info
 To find out if online ticket purchasing is available, check the official website prior to your visit.
 
 ### Are there restrooms and cafes?
-It’s a good idea to verify the availability of restrooms and cafes at the museum by checking the official website.
+It's a good idea to verify the availability of restrooms and cafes at the museum by checking the official website.
 
 ### What should I wear?
 Dress comfortably, considering that you may spend time walking through exhibits and possibly exploring nearby attractions.

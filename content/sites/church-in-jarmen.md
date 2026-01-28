@@ -84,7 +84,7 @@ Seasonal considerations may also play a role in your visit. Spring and early aut
 A visit usually takes about an hour, allowing you to explore the church and appreciate its features.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s advisable to be respectful of others during your visit.
+Photography is generally permitted inside the church, but it's advisable to be respectful of others during your visit.
 
 ### Are there guided tours?
 Check the official website for information about guided tour availability and schedules.

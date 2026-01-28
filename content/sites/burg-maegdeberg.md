@@ -48,7 +48,7 @@ The castle's overall silhouette against the skyline is captivating, making it a 
 
 ## Visiting Information
 
-To plan your visit to Burg Mägdeberg, consider your transportation options. The castle is accessible by various means, including personal vehicles and public transportation. If you’re traveling by car, check local maps for the best routes leading to the site. Public transport options may include buses or trains, so researching schedules in advance is advisable.
+To plan your visit to Burg Mägdeberg, consider your transportation options. The castle is accessible by various means, including personal vehicles and public transportation. If you're traveling by car, check local maps for the best routes leading to the site. Public transport options may include buses or trains, so researching schedules in advance is advisable.
 
 Before visiting, be sure to check the official website for current information on opening hours and ticket prices. Depending on the time of year, the castle may have varying visitor hours, so verifying this ahead of time can enhance your experience. It's also recommended to allocate enough time to explore the castle and its surroundings thoroughly; a few hours should suffice for a meaningful visit.
 
@@ -76,7 +76,7 @@ Additionally, if you're interested in delving deeper into the history of the cas
 
 ## Practical Information
 
-When preparing for your visit to Burg Mägdeberg, it’s wise to dress comfortably, as you may be walking on uneven surfaces or exploring various levels of the castle. Depending on the season, layering your clothing can provide comfort as temperatures fluctuate throughout the day.
+When preparing for your visit to Burg Mägdeberg, it's wise to dress comfortably, as you may be walking on uneven surfaces or exploring various levels of the castle. Depending on the season, layering your clothing can provide comfort as temperatures fluctuate throughout the day.
 
 Ensure to bring essentials such as water, especially if you're visiting during warmer months, and comfortable walking shoes to navigate the castle and its grounds. If you plan to spend an extended time exploring, consider a light snack to keep your energy up. Seasonal considerations may also affect what you pack, so check the weather forecast in advance.
 

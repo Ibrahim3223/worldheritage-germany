@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Burg Hirschau, a captivating castle located in the Tübingen region of Germany, offers a glimpse into the architectural and historical intricacies of medieval fortifications. This castle, with its substantial presence, evokes curiosity and admiration from visitors and history enthusiasts alike. Its strategic location near the picturesque town of Tübingen enhances the appeal of the site, making it a notable destination for those interested in Germany’s rich heritage.
+Burg Hirschau, a captivating castle located in the Tübingen region of Germany, offers a glimpse into the architectural and historical intricacies of medieval fortifications. This castle, with its substantial presence, evokes curiosity and admiration from visitors and history enthusiasts alike. Its strategic location near the picturesque town of Tübingen enhances the appeal of the site, making it a notable destination for those interested in Germany's rich heritage.
 
-With its robust structure and storied past, Burg Hirschau serves not only as a reminder of the region's feudal history but also as a focal point for cultural exploration. As you explore the grounds, you’ll find that the castle encapsulates the essence of medieval architecture, inviting you to delve deeper into its historical narrative. Whether you are a local or a traveler, visiting Burg Hirschau promises a unique experience that reflects the historical significance of the region.
+With its robust structure and storied past, Burg Hirschau serves not only as a reminder of the region's feudal history but also as a focal point for cultural exploration. As you explore the grounds, you'll find that the castle encapsulates the essence of medieval architecture, inviting you to delve deeper into its historical narrative. Whether you are a local or a traveler, visiting Burg Hirschau promises a unique experience that reflects the historical significance of the region.
 
 ## History and Significance
 

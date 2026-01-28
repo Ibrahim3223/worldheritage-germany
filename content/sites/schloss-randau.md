@@ -68,7 +68,7 @@ While visiting Schloss Randau, consider exploring these nearby attractions:
 
 4. **Museum of Cultural History**: Located in Magdeburg, this museum provides insights into the region's historical development and cultural heritage through various exhibits.
 
-5. **Otto von Guericke Museum**: Dedicated to the famous scientist and mayor of Magdeburg, this museum offers interactive exhibits and showcases the city’s scientific contributions.
+5. **Otto von Guericke Museum**: Dedicated to the famous scientist and mayor of Magdeburg, this museum offers interactive exhibits and showcases the city's scientific contributions.
 
 ## Insider Tips
 

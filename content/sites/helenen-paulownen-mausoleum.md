@@ -70,11 +70,11 @@ While visiting the Helenen-Paulownen-Mausoleum, there are several nearby attract
 
 3. **Ludwigslust Town Center**: A charming area with shops and cafes, allowing visitors to enjoy local cuisine and shop for unique souvenirs from their trip.
 
-4. **Historic Windmill**: Located a short distance from the mausoleum, this working windmill serves as a glimpse into the region’s agricultural past and offers guided tours.
+4. **Historic Windmill**: Located a short distance from the mausoleum, this working windmill serves as a glimpse into the region's agricultural past and offers guided tours.
 
 5. **Rundlingsdorf**: An example of a traditional round village, showcasing the unique architectural style of the region and providing insight into local culture and history.
 
-These attractions complement the visit to the Helenen-Paulownen-Mausoleum and offer a broader understanding of Ludwigslust’s cultural and historical context.
+These attractions complement the visit to the Helenen-Paulownen-Mausoleum and offer a broader understanding of Ludwigslust's cultural and historical context.
 
 ## Insider Tips
 
@@ -84,7 +84,7 @@ For those planning a visit to the Helenen-Paulownen-Mausoleum, here are some ins
 
 - **Crowd Avoidance**: To enjoy a quieter experience, try to visit on weekdays rather than weekends. Early morning visits are also recommended to avoid larger groups.
 
-- **Explore the Grounds**: Don’t rush your visit; take time to wander through the Schlosspark and appreciate the various garden designs and pathways that lead to the mausoleum.
+- **Explore the Grounds**: Don't rush your visit; take time to wander through the Schlosspark and appreciate the various garden designs and pathways that lead to the mausoleum.
 
 ## Practical Information
 
@@ -105,7 +105,7 @@ Typically, visitors find that spending around one hour at the mausoleum is suffi
 Photography is generally permitted, but visitors should be respectful of the site and avoid using flash in enclosed areas.
 
 ### Are there guided tours?
-Check the official website for information on guided tours that may be available; they can enhance your understanding of the site’s history and significance.
+Check the official website for information on guided tours that may be available; they can enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 The best times to visit are usually during spring and summer when the gardens are at their most vibrant. Early mornings or late afternoons can help avoid the crowds.

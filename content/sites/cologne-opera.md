@@ -28,7 +28,7 @@ image_srcset:
 
 The Cologne Opera, located in Altstadt-Nord, Germany, is a renowned cultural institution that serves as one of the central pillars of the city's vibrant arts scene. This theatre building is not only a venue for exceptional operatic performances but also a crucial part of Cologne's rich artistic heritage. The opera house attracts visitors from around the globe, drawn by its impressive programming and significant contributions to the performing arts.
 
-Cologne, situated in North Rhine-Westphalia, is known for its historical landmarks, and the opera house stands as a prominent feature within the city’s architectural landscape. With its dynamic productions and diverse repertoire, the Cologne Opera promises an enriching experience that resonates with both locals and tourists alike. Attending a performance is a chance to immerse oneself in the cultural fabric of this historic city, making it an essential stop for anyone interested in the performing arts.
+Cologne, situated in North Rhine-Westphalia, is known for its historical landmarks, and the opera house stands as a prominent feature within the city's architectural landscape. With its dynamic productions and diverse repertoire, the Cologne Opera promises an enriching experience that resonates with both locals and tourists alike. Attending a performance is a chance to immerse oneself in the cultural fabric of this historic city, making it an essential stop for anyone interested in the performing arts.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Visiting the Cologne Opera is an experience that combines cultural immersion wit
 
 When planning your visit, consider allocating sufficient time to explore the surrounding area, as the opera house is located close to other significant attractions. Arriving early allows visitors to take in the architectural beauty of the building and perhaps enjoy a pre-show drink or snack at one of the nearby cafes.
 
-The best times to visit the Cologne Opera are typically during the main performance seasons, which feature a wide array of operas and musical events. However, it’s worth checking the schedule for any special performances or events that may be of interest.
+The best times to visit the Cologne Opera are typically during the main performance seasons, which feature a wide array of operas and musical events. However, it's worth checking the schedule for any special performances or events that may be of interest.
 
 ## Nearby Attractions
 
@@ -86,7 +86,7 @@ Bring any necessary personal items, such as a small bag for essentials, and cons
 A visit to the Cologne Opera can vary in duration depending on whether you are attending a performance. Plan to spend at least a few hours, including time for exploration and refreshments.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the official website for specific rules regarding photography during performances.
+Photography policies can vary, so it's best to check the official website for specific rules regarding photography during performances.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be offered periodically, providing insights into the history and architecture of the opera house.

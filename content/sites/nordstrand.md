@@ -76,7 +76,7 @@ To avoid crowds, plan your visit on weekdays, as weekends tend to attract more l
 
 When visiting Nordstrand, it is advisable to bring essentials such as sunscreen, water, and snacks, especially if you plan to spend an extended period at the beach. A beach umbrella or a hat can provide additional sun protection.
 
-Seasonal considerations are important, as the beach is most enjoyable during the warmer months when temperatures rise and activities abound. However, it’s essential to be prepared for changing weather conditions, as coastal areas can experience sudden shifts.
+Seasonal considerations are important, as the beach is most enjoyable during the warmer months when temperatures rise and activities abound. However, it's essential to be prepared for changing weather conditions, as coastal areas can experience sudden shifts.
 
 ## Frequently Asked Questions
 

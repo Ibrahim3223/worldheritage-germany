@@ -68,7 +68,7 @@ While visiting the Seligenstädter Fastnachtsmuseum, there are several nearby at
 
 To make the most of your visit to the Seligenstädter Fastnachtsmuseum, consider the following tips:
 
-- **Photography**: While many museums allow photography, it’s best to check for any restrictions in specific exhibition areas. Capture the vibrant costumes and artifacts, but be respectful of other visitors.
+- **Photography**: While many museums allow photography, it's best to check for any restrictions in specific exhibition areas. Capture the vibrant costumes and artifacts, but be respectful of other visitors.
 
 - **Crowd Avoidance**: If possible, plan your visit during the mid-week, as weekends may be busier with local visitors and tourists. Early morning can also be a quieter time.
 
@@ -95,13 +95,13 @@ While specific details about guided tours are not provided, it's advisable to ch
 Weekdays, particularly in the morning, tend to be less crowded than weekends, making for a more enjoyable visit.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s recommended to verify on the official website or contact the museum directly for details regarding wheelchair access.
+Accessibility information is not specified, so it's recommended to verify on the official website or contact the museum directly for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information about ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities are likely available within the museum, but for specific amenities like cafes, it’s best to consult the official website.
+Restroom facilities are likely available within the museum, but for specific amenities like cafes, it's best to consult the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, keeping in mind that you may be walking or standing for extended periods while exploring the exhibits.

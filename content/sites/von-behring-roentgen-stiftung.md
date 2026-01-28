@@ -30,7 +30,7 @@ The Von Behring-Röntgen-Stiftung was established to honor the legacies of two p
 
 The foundation serves as a platform for furthering research and education in these fields, embodying the ideals of scientific inquiry and public service. It acts not only as a repository of knowledge but also as a catalyst for collaboration among researchers, educators, and practitioners. By supporting various initiatives and projects, the Von Behring-Röntgen-Stiftung plays a crucial role in promoting advancements that can lead to improved health outcomes.
 
-Culturally, the foundation is significant as it embodies Germany’s historical contributions to medical science. It stands at the intersection of education, research, and public health, making it a vital institution in the landscape of medical foundations. This commitment to scientific progress and community well-being resonates throughout its various programs, which aim to inspire future generations of medical professionals and researchers.
+Culturally, the foundation is significant as it embodies Germany's historical contributions to medical science. It stands at the intersection of education, research, and public health, making it a vital institution in the landscape of medical foundations. This commitment to scientific progress and community well-being resonates throughout its various programs, which aim to inspire future generations of medical professionals and researchers.
 
 ## Architecture and Features
 
@@ -66,11 +66,11 @@ To make the most of your visit to the Von Behring-Röntgen-Stiftung, consider th
 
 - **Photography**: If photography is allowed, capture the essence of the foundation and its surroundings. Early mornings or late afternoons often provide the best light for stunning photos.
 
-- **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or when special events are not taking place. This will allow for a more intimate exploration of the foundation’s offerings.
+- **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or when special events are not taking place. This will allow for a more intimate exploration of the foundation's offerings.
 
 ## Practical Information
 
-When visiting the Von Behring-Röntgen-Stiftung, it’s advisable to bring along essentials such as a water bottle, comfortable walking shoes, and a notepad if you wish to jot down insights. Seasonal considerations may affect your visit. For example, during colder months, layering is recommended, while spring and summer may offer more favorable weather for exploring the area.
+When visiting the Von Behring-Röntgen-Stiftung, it's advisable to bring along essentials such as a water bottle, comfortable walking shoes, and a notepad if you wish to jot down insights. Seasonal considerations may affect your visit. For example, during colder months, layering is recommended, while spring and summer may offer more favorable weather for exploring the area.
 
 Be sure to check the foundation's website for any seasonal programs or events that might enhance your experience.
 

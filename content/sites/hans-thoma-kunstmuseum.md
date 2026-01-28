@@ -76,7 +76,7 @@ If you're keen on a more in-depth understanding of the exhibits, consider partic
 
 ## Practical Information
 
-As you prepare for your visit to the Hans-Thoma-Kunstmuseum, consider bringing comfortable walking shoes, as you may spend a significant amount of time exploring the exhibits and the surrounding area. If you plan to visit during the warmer months, don’t forget to pack sunscreen and stay hydrated.
+As you prepare for your visit to the Hans-Thoma-Kunstmuseum, consider bringing comfortable walking shoes, as you may spend a significant amount of time exploring the exhibits and the surrounding area. If you plan to visit during the warmer months, don't forget to pack sunscreen and stay hydrated.
 
 Weather in the Black Forest can be unpredictable, so it's advisable to check the forecast and dress in layers. This way, you'll be comfortable whether you're outdoors enjoying the scenery or inside the museum.
 
@@ -103,7 +103,7 @@ Accessibility details are not specified, so it is recommended to check the offic
 Check the official website for options regarding online ticket purchases and any available discounts.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but for dining options, it’s advisable to explore nearby cafes and restaurants in Bernau.
+Facilities such as restrooms may be available on-site, but for dining options, it's advisable to explore nearby cafes and restaurants in Bernau.
 
 ### What should I wear?
 Dress comfortably, considering the weather, and opt for layers if visiting during transitional seasons. Comfortable shoes are recommended for walking and exploring.

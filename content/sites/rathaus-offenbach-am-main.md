@@ -28,7 +28,7 @@ image_srcset:
 
 Rathaus Offenbach am Main stands at the heart of the city, serving as both a civic center and a symbol of local governance. Located in Offenbach am Main, Germany, this city hall plays a crucial role in the community, housing essential administrative functions while also providing a venue for public events and gatherings. The building's significance extends beyond its practical use, reflecting the architectural and cultural evolution of the region. 
 
-Situated in the vibrant city of Offenbach, which is known for its rich industrial history and contemporary art scene, Rathaus Offenbach am Main is more than just a functional structure; it is a landmark that connects residents with their heritage. The city of Offenbach, with its proximity to Frankfurt, offers a blend of urban life and historical depth, making the city hall an integral part of the local narrative. Visitors can expect to engage with the building’s heritage while exploring the lively surroundings that contribute to its community spirit.
+Situated in the vibrant city of Offenbach, which is known for its rich industrial history and contemporary art scene, Rathaus Offenbach am Main is more than just a functional structure; it is a landmark that connects residents with their heritage. The city of Offenbach, with its proximity to Frankfurt, offers a blend of urban life and historical depth, making the city hall an integral part of the local narrative. Visitors can expect to engage with the building's heritage while exploring the lively surroundings that contribute to its community spirit.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ Be respectful of the building's primary function as a government facility. When 
 
 ## Practical Information
 
-When visiting Rathaus Offenbach, it’s advisable to bring your identification, especially if you plan to engage with any municipal services. Seasonal considerations should also be kept in mind; the building may have different hours of operation during holidays or special events. 
+When visiting Rathaus Offenbach, it's advisable to bring your identification, especially if you plan to engage with any municipal services. Seasonal considerations should also be kept in mind; the building may have different hours of operation during holidays or special events. 
 
 Dress comfortably, as you may want to explore the surrounding areas after your visit. Wearing comfortable shoes is recommended, especially if you plan to walk along the Main River promenade or visit nearby attractions.
 

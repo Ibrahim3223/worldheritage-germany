@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Friedhof Ruhleben stands as a solemn reminder of the past within the vibrant metropolis of Berlin, Germany. This historic cemetery offers visitors a glimpse into the city’s multifaceted narratives, housing the graves of prominent figures and everyday individuals alike. Situated within the bustling urban landscape, the cemetery serves not only as a final resting place but also as a site for reflection and contemplation amidst the demands of contemporary life.
+Friedhof Ruhleben stands as a solemn reminder of the past within the vibrant metropolis of Berlin, Germany. This historic cemetery offers visitors a glimpse into the city's multifaceted narratives, housing the graves of prominent figures and everyday individuals alike. Situated within the bustling urban landscape, the cemetery serves not only as a final resting place but also as a site for reflection and contemplation amidst the demands of contemporary life.
 
 Established in an era marked by significant social and political change, Friedhof Ruhleben reflects the evolution of the city itself. The cemetery's significance extends beyond its tranquil grounds, encompassing the cultural and historical fabric of Berlin. Visitors are invited to explore its pathways, lined with elaborate tombstones and memorials, which narrate stories of lives lived and lost. The cemetery is an essential stop for those seeking to understand Berlin's history from a more personal perspective.
 
@@ -28,7 +28,7 @@ Whether you are a history enthusiast, a lover of architecture, or simply in sear
 
 ## History and Significance
 
-Friedhof Ruhleben is rooted in the historical context of Berlin, serving as a burial ground that has witnessed the city’s transformation over decades. The cemetery has been a site of significance for various communities, marking the resting place for individuals from diverse backgrounds. This aspect of Friedhof Ruhleben highlights the multicultural tapestry of Berlin, illustrating how the city has been shaped by its inhabitants over time.
+Friedhof Ruhleben is rooted in the historical context of Berlin, serving as a burial ground that has witnessed the city's transformation over decades. The cemetery has been a site of significance for various communities, marking the resting place for individuals from diverse backgrounds. This aspect of Friedhof Ruhleben highlights the multicultural tapestry of Berlin, illustrating how the city has been shaped by its inhabitants over time.
 
 The cemetery is particularly notable for its connections to prominent figures in the arts, politics, and other fields. These individuals have left an indelible mark on Berlin's cultural landscape, and their presence within the cemetery serves as a reminder of their contributions. The stories etched into the gravestones offer insights into the lives of those who played pivotal roles in the city's history.
 
@@ -76,7 +76,7 @@ These attractions provide a well-rounded experience for visitors to Friedhof Ruh
 
 To make the most of your visit to Friedhof Ruhleben, consider a few insider tips. Early mornings or late afternoons are ideal times to explore the cemetery, as these hours often see fewer visitors, allowing for a more personal experience.
 
-Photography enthusiasts will find plenty of opportunities to capture the intricate details of the memorials and the surrounding landscape. However, it’s essential to approach the task with sensitivity, given the nature of the site. Respect the solemn atmosphere, ensuring that your photography does not disturb others seeking contemplation.
+Photography enthusiasts will find plenty of opportunities to capture the intricate details of the memorials and the surrounding landscape. However, it's essential to approach the task with sensitivity, given the nature of the site. Respect the solemn atmosphere, ensuring that your photography does not disturb others seeking contemplation.
 
 As you wander through the cemetery, take your time to read the inscriptions and reflect on the lives represented. Engaging with these stories can deepen your appreciation of the site and its significance.
 

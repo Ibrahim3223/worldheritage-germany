@@ -36,7 +36,7 @@ While specific historical dates may not be readily available, Haus Samson embodi
 
 The museum is not just about the artifacts on display; it is also about the stories behind them. Each exhibit is curated with care to provide insights into the daily lives of the people who have lived in this region. By connecting visitors with the cultural narratives of the past, Haus Samson enhances the appreciation of local heritage and fosters a sense of community pride.
 
-In addition to its permanent collections, the museum frequently hosts temporary exhibitions and cultural events, further emphasizing its role as a cultural hub in Leer. These events often feature local artists, historians, and craftsmen, providing a platform for dialogue and education about the region’s diverse cultural influences. As such, Haus Samson is not merely a building filled with artifacts; it is a vibrant part of the community and an essential institution for cultural exchange.
+In addition to its permanent collections, the museum frequently hosts temporary exhibitions and cultural events, further emphasizing its role as a cultural hub in Leer. These events often feature local artists, historians, and craftsmen, providing a platform for dialogue and education about the region's diverse cultural influences. As such, Haus Samson is not merely a building filled with artifacts; it is a vibrant part of the community and an essential institution for cultural exchange.
 
 ## Architecture and Features
 

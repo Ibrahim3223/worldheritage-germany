@@ -44,7 +44,7 @@ St. Peter und Paul is a church building characterized by its traditional archite
 
 Inside, visitors can expect to find an atmosphere of tranquility, enhanced by the natural light filtering through the windows. The layout of the church is designed to accommodate congregational gatherings, with areas for both communal worship and private contemplation. The overall design emphasizes simplicity and functionality, allowing the space to fulfill its primary purpose as a place of worship.
 
-The church’s exterior may include a steeple or tower, a common feature in many church buildings, which not only serves as a visual focal point in the skyline but also traditionally houses bells that call the community to worship. The surrounding area may be landscaped to provide a peaceful environment for visitors and parishioners alike.
+The church's exterior may include a steeple or tower, a common feature in many church buildings, which not only serves as a visual focal point in the skyline but also traditionally houses bells that call the community to worship. The surrounding area may be landscaped to provide a peaceful environment for visitors and parishioners alike.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While in Herne, visitors can explore several nearby attractions that complement 
 
 3. **St. Joseph Church** - Another architectural gem in Herne, this church showcases different styles and offers a contrasting experience to St. Peter und Paul.
 
-4. **Recklinghausen Town Hall** - A bit further afield, the historic town hall in Recklinghausen is notable for its architecture and serves as a reminder of the region’s administrative history.
+4. **Recklinghausen Town Hall** - A bit further afield, the historic town hall in Recklinghausen is notable for its architecture and serves as a reminder of the region's administrative history.
 
 5. **Cranger Kirmes** - If visiting in August, do not miss this local fair, which features rides, games, and traditional food, providing a lively cultural experience.
 
@@ -86,7 +86,7 @@ Seasonal considerations may affect the number of visitors and the church's activ
 A visit to St. Peter und Paul typically takes about an hour, allowing time to explore the interior and appreciate the church's architecture.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s advisable to be respectful of worshippers and the sanctity of the space, especially during services.
+While photography is generally permitted, it's advisable to be respectful of worshippers and the sanctity of the space, especially during services.
 
 ### Are there guided tours?
 Guided tours may not be available at all times, so check the official website for any offerings or scheduled events that include guided visits.
@@ -98,10 +98,10 @@ Weekdays, particularly in the morning, tend to be less crowded, providing a more
 Accessibility information may vary; it is recommended to check the official website for specific accommodations.
 
 ### Can I buy tickets online?
-For any entrance fees or special events, it’s best to check the official website for current information regarding ticket purchases.
+For any entrance fees or special events, it's best to check the official website for current information regarding ticket purchases.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s wise to check the official website for information on nearby amenities.
+Facilities may vary, so it's wise to check the official website for information on nearby amenities.
 
 ### What should I wear?
 Visitors should dress comfortably and respectfully, keeping in mind that this is a place of worship.

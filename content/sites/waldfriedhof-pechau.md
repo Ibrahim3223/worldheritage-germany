@@ -46,7 +46,7 @@ In addition to the individual graves, Waldfriedhof Pechau may feature communal a
 
 ## Visiting Information
 
-For those planning a visit to Waldfriedhof Pechau, it’s advisable to check the official website for current information regarding opening hours and any relevant fees. The cemetery is accessible by various means of transport, including public transit and private vehicles, making it convenient for visitors from both near and far.
+For those planning a visit to Waldfriedhof Pechau, it's advisable to check the official website for current information regarding opening hours and any relevant fees. The cemetery is accessible by various means of transport, including public transit and private vehicles, making it convenient for visitors from both near and far.
 
 A typical visit to Waldfriedhof Pechau can last anywhere from one to two hours, allowing ample time for exploration and reflection. The peaceful atmosphere encourages visitors to take their time, read the inscriptions on the headstones, and contemplate the lives represented.
 

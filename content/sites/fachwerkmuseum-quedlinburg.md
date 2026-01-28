@@ -28,7 +28,7 @@ image_srcset:
 
 The Fachwerkmuseum in Quedlinburg invites visitors to explore the fascinating world of half-timbered architecture and the cultural history of this picturesque German town. Located in the heart of Quedlinburg, a UNESCO World Heritage Site, the museum serves as a vital resource for understanding the unique architectural styles that characterize this region. As you walk through its exhibits, you will uncover the craftsmanship and historical significance of the buildings that dot the landscape, offering insights into the lives of the people who once inhabited them. 
 
-Quedlinburg itself is a town steeped in medieval history, with a blend of Romanesque and Gothic architecture that dates back to the 10th century. The Fachwerkmuseum complements this historical backdrop, showcasing not only the artistry of timber-framed buildings but also their significance in the development of German architecture. Whether you are an architecture enthusiast, a history buff, or simply curious about local culture, the museum promises an engaging experience that highlights the legacy of Quedlinburg’s unique architectural heritage.
+Quedlinburg itself is a town steeped in medieval history, with a blend of Romanesque and Gothic architecture that dates back to the 10th century. The Fachwerkmuseum complements this historical backdrop, showcasing not only the artistry of timber-framed buildings but also their significance in the development of German architecture. Whether you are an architecture enthusiast, a history buff, or simply curious about local culture, the museum promises an engaging experience that highlights the legacy of Quedlinburg's unique architectural heritage.
 
 ## History and Significance
 
@@ -36,11 +36,11 @@ The Fachwerkmuseum plays a crucial role in preserving and promoting the history 
 
 Quedlinburg itself has a rich history, having been founded in the early medieval period. The town was an important center during the reign of the Ottonian dynasty, with its abbey serving as a religious and cultural hub. As such, the Fachwerkmuseum stands as an important institution for understanding the broader cultural and historical context of Quedlinburg. It offers insights into the daily lives of the townsfolk and their architectural choices, reflecting the social and economic conditions of different periods.
 
-In addition to its role in preservation, the museum also engages in educational programs and community events that foster a deeper appreciation for the region’s architectural heritage. Through workshops and guided tours, visitors can gain practical knowledge about the construction and maintenance of half-timbered buildings, ensuring that the skills necessary for this traditional craft continue to thrive.
+In addition to its role in preservation, the museum also engages in educational programs and community events that foster a deeper appreciation for the region's architectural heritage. Through workshops and guided tours, visitors can gain practical knowledge about the construction and maintenance of half-timbered buildings, ensuring that the skills necessary for this traditional craft continue to thrive.
 
 ## Architecture and Features
 
-The Fachwerkmuseum itself is housed within a historic half-timbered building, which serves as a fitting backdrop for its exhibits. Visitors will find the structure’s timber framing and traditional construction methods on display, illustrating the techniques that have defined Quedlinburg’s architectural landscape. The interior of the museum is designed to reflect the style of the period, with exhibits carefully curated to showcase various aspects of half-timbered architecture.
+The Fachwerkmuseum itself is housed within a historic half-timbered building, which serves as a fitting backdrop for its exhibits. Visitors will find the structure's timber framing and traditional construction methods on display, illustrating the techniques that have defined Quedlinburg's architectural landscape. The interior of the museum is designed to reflect the style of the period, with exhibits carefully curated to showcase various aspects of half-timbered architecture.
 
 Notable features include detailed models of traditional houses, showcasing their structural elements and decorative motifs. Visitors can explore various exhibit spaces that focus on different facets of half-timbered construction, including the materials used, the significance of design choices, and the evolution of architectural styles over time. The layout is intuitive, allowing for an engaging exploration of the themes presented.
 
@@ -50,7 +50,7 @@ The museum also often hosts temporary exhibitions that highlight specific aspect
 
 Getting to the Fachwerkmuseum is straightforward, as it is located centrally in Quedlinburg. The town is well-connected by public transport, with regular train services from major German cities. For those driving, parking options are available nearby, making it convenient for visitors traveling by car.
 
-When planning your visit, it’s essential to check the official website for current information regarding hours and admission prices. The museum typically welcomes visitors throughout the week, but specific days or times may vary. It’s advisable to allocate at least one to two hours to fully appreciate the exhibits and soak in the rich history presented.
+When planning your visit, it's essential to check the official website for current information regarding hours and admission prices. The museum typically welcomes visitors throughout the week, but specific days or times may vary. It's advisable to allocate at least one to two hours to fully appreciate the exhibits and soak in the rich history presented.
 
 The best times to visit are generally during the shoulder seasons of spring and fall, when the weather is pleasant and tourist crowds are lighter. This timing allows for a more relaxed experience, enabling you to engage with the exhibits without feeling rushed.
 
@@ -89,7 +89,7 @@ It is recommended to spend at least one to two hours at the Fachwerkmuseum to fu
 Check the museum's photography policy upon arrival, as some exhibits may have restrictions on photography.
 
 ### Are there guided tours?
-Guided tours may be offered; it’s best to check the official website for availability and scheduling.
+Guided tours may be offered; it's best to check the official website for availability and scheduling.
 
 ### What's the best time to visit?
 Visiting during the shoulder seasons of spring and fall generally provides a more enjoyable experience with pleasant weather and fewer crowds.

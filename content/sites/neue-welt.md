@@ -28,11 +28,11 @@ image_srcset:
 
 Located in the vibrant district of Neukölln, Berlin, the Neue Welt offers a unique blend of entertainment and cultural experience within the city's dynamic movie theater scene. This venue stands out as a significant cultural landmark, drawing film enthusiasts and casual viewers alike to its screens. With a legacy that intertwines with Berlin's cinematic history, the Neue Welt invites visitors to immerse themselves in the world of film in a setting that reflects the eclectic spirit of Neukölln. 
 
-As urban life pulses around it, the theater serves not only as a place to watch films but also as a gathering space for community events and celebrations, making it a vital part of the local cultural fabric. Whether you’re a cinephile eager to catch the latest independent films or simply seeking a cozy spot to enjoy a popular release, the Neue Welt promises an engaging experience that complements the rich cultural offerings of Berlin.
+As urban life pulses around it, the theater serves not only as a place to watch films but also as a gathering space for community events and celebrations, making it a vital part of the local cultural fabric. Whether you're a cinephile eager to catch the latest independent films or simply seeking a cozy spot to enjoy a popular release, the Neue Welt promises an engaging experience that complements the rich cultural offerings of Berlin.
 
 ## History and Significance
 
-The Neue Welt has a storied presence in Berlin’s film landscape, contributing to the city’s cultural narrative for many years. Established in a district known for its artistic and creative vigor, the theater has served as a venue for a diverse array of films, from blockbusters to independent productions. This variety not only caters to the eclectic tastes of the local population but also plays a critical role in promoting lesser-known filmmakers and their works.
+The Neue Welt has a storied presence in Berlin's film landscape, contributing to the city's cultural narrative for many years. Established in a district known for its artistic and creative vigor, the theater has served as a venue for a diverse array of films, from blockbusters to independent productions. This variety not only caters to the eclectic tastes of the local population but also plays a critical role in promoting lesser-known filmmakers and their works.
 
 As Neukölln has evolved over the decades, the theater has adapted alongside the shifting demographics and cultural priorities of its community. Its commitment to showcasing a wide range of genres and formats has made it a popular destination for both residents and visitors. The Neue Welt fosters a sense of community engagement through film screenings that often reflect social themes and contemporary issues, encouraging dialogue among its audience.
 
@@ -40,7 +40,7 @@ While specific historical milestones may be less documented, the theater's conti
 
 ## Architecture and Features
 
-The architecture of the Neue Welt is characteristic of the eclectic styles that define much of Berlin’s urban landscape. The theater features a facade that captures the charm of early 20th-century design, with elements that reflect both historical and modern influences. The exterior is inviting, with a marquee that often showcases the latest film titles and events, drawing the attention of passersby.
+The architecture of the Neue Welt is characteristic of the eclectic styles that define much of Berlin's urban landscape. The theater features a facade that captures the charm of early 20th-century design, with elements that reflect both historical and modern influences. The exterior is inviting, with a marquee that often showcases the latest film titles and events, drawing the attention of passersby.
 
 Inside, the theater is designed to provide a comfortable viewing experience, with seating that accommodates various group sizes, from intimate outings to larger gatherings. The screening rooms are equipped with modern technology, ensuring high-quality audio and visual experiences for all attendees. The ambiance blends a sense of nostalgia with contemporary touches, making it a pleasant space for film lovers.
 
@@ -50,13 +50,13 @@ The Neue Welt also frequently hosts events that utilize its facilities beyond st
 
 Reaching the Neue Welt is relatively straightforward, thanks to its accessible location in Neukölln. Public transport options are abundant, with nearby bus and train stations that connect to the wider Berlin transit network. Visitors can easily plan their journey using local transport apps or maps.
 
-When planning a visit, it’s essential to check the official website for current information regarding operating hours and ticket prices. The theater often features a rotating schedule of films, making it worthwhile to explore what’s on during your visit. Generally, you can expect to spend a couple of hours at the theater, including time for pre-show refreshments or a post-film discussion.
+When planning a visit, it's essential to check the official website for current information regarding operating hours and ticket prices. The theater often features a rotating schedule of films, making it worthwhile to explore what's on during your visit. Generally, you can expect to spend a couple of hours at the theater, including time for pre-show refreshments or a post-film discussion.
 
-The best times to visit are typically during weekday evenings or matinee screenings on weekends, when crowds may be more manageable. However, special events and premieres can attract larger audiences, so it’s advisable to arrive early if you’re attending a popular screening.
+The best times to visit are typically during weekday evenings or matinee screenings on weekends, when crowds may be more manageable. However, special events and premieres can attract larger audiences, so it's advisable to arrive early if you're attending a popular screening.
 
 ## Nearby Attractions
 
-While visiting the Neue Welt, you’ll find yourself in a neighborhood rich with attractions:
+While visiting the Neue Welt, you'll find yourself in a neighborhood rich with attractions:
 
 1. **Tempelhofer Feld**: This expansive park, located on the site of a former airport, is perfect for leisurely walks, cycling, or picnicking, offering a unique perspective on urban green spaces.
 
@@ -66,7 +66,7 @@ While visiting the Neue Welt, you’ll find yourself in a neighborhood rich with
 
 4. **Columbiahalle**: A concert venue that hosts a variety of live performances, from local bands to international artists, adding to the rich cultural offerings of the area.
 
-5. **Schillerkiez**: This charming neighborhood is known for its local cafes, bakeries, and markets, perfect for a stroll and a taste of Neukölln’s culinary scene.
+5. **Schillerkiez**: This charming neighborhood is known for its local cafes, bakeries, and markets, perfect for a stroll and a taste of Neukölln's culinary scene.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ To avoid larger crowds, consider visiting during off-peak hours, such as weekday
 
 ## Practical Information
 
-When planning your visit to the Neue Welt, it’s advisable to bring along a few essentials. Comfortable shoes are recommended, especially if you plan to explore the surrounding Neukölln area. Additionally, consider bringing a light jacket or sweater, as theaters can vary in temperature.
+When planning your visit to the Neue Welt, it's advisable to bring along a few essentials. Comfortable shoes are recommended, especially if you plan to explore the surrounding Neukölln area. Additionally, consider bringing a light jacket or sweater, as theaters can vary in temperature.
 
 Seasonal considerations may also influence your visit. In the summer months, outdoor events and screenings may be more common, while winter may offer cozy indoor experiences. Always check the official website for any seasonal programming or special events that may be taking place during your visit.
 
@@ -97,7 +97,7 @@ Currently, the Neue Welt does not offer guided tours. However, the staff is know
 For a quieter experience, consider weekday afternoons or late-night screenings. Special events may draw larger crowds, so check the schedule in advance.
 
 ### Is it wheelchair accessible?
-The Neue Welt strives to accommodate all guests, but it’s advisable to check with the theater directly to confirm specific accessibility features.
+The Neue Welt strives to accommodate all guests, but it's advisable to check with the theater directly to confirm specific accessibility features.
 
 ### Can I buy tickets online?
 Yes, tickets can typically be purchased online through the official website, allowing for easier planning.

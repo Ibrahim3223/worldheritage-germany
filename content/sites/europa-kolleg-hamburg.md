@@ -22,7 +22,7 @@ images:
 
 Situated in the bustling city of Hamburg, the Europa-Kolleg Hamburg serves as a notable foundation dedicated to international academic exchange and cooperation. This institution plays an essential role in fostering dialogue between cultures and nations, particularly in Europe. With its commitment to enhancing knowledge and understanding among different societies, the Europa-Kolleg Hamburg stands out as a vital hub for students and professionals alike, contributing to Hamburg's identity as a vibrant center for education and culture.
 
-The foundation provides various programs aimed at promoting European integration and collaboration, reflecting the region's dynamic history and contemporary significance. The spirit of internationalism is palpable in this establishment, drawing individuals from diverse backgrounds to engage in meaningful discourse and learning opportunities. Visitors to Hamburg will find that the Europa-Kolleg not only enriches the academic landscape but also symbolizes the city’s commitment to fostering connections across borders.
+The foundation provides various programs aimed at promoting European integration and collaboration, reflecting the region's dynamic history and contemporary significance. The spirit of internationalism is palpable in this establishment, drawing individuals from diverse backgrounds to engage in meaningful discourse and learning opportunities. Visitors to Hamburg will find that the Europa-Kolleg not only enriches the academic landscape but also symbolizes the city's commitment to fostering connections across borders.
 
 With its strategic location in northern Germany, Hamburg serves as a gateway to European cultural exchanges. The Europa-Kolleg Hamburg is ideally positioned to engage with local and international communities, making it a focal point for those interested in exploring themes of transnational cooperation and cultural diplomacy.
 
@@ -50,7 +50,7 @@ Reaching the Europa-Kolleg Hamburg is straightforward, with various transport op
 
 As for visiting hours and admission prices, it is advisable to consult the official website to confirm the latest details before planning your visit. The Europa-Kolleg Hamburg is primarily an academic institution, and while it may not operate as a traditional tourist site, guests can expect a welcoming environment where they can learn about its programs and initiatives.
 
-A visit can typically take a few hours, depending on your level of interest in engaging with the foundation's activities or exhibitions. The best time to visit may vary, so it’s wise to check for any scheduled events or open houses that might enhance your experience.
+A visit can typically take a few hours, depending on your level of interest in engaging with the foundation's activities or exhibitions. The best time to visit may vary, so it's wise to check for any scheduled events or open houses that might enhance your experience.
 
 ## Nearby Attractions
 
@@ -96,10 +96,10 @@ Weekday mornings generally provide a quieter experience, although specific event
 Accessibility features may be in place, but it is recommended to check the official website for detailed information.
 
 ### Can I buy tickets online?
-Ticketing procedures can differ, so it’s advisable to refer to the official website for current information regarding online purchases.
+Ticketing procedures can differ, so it's advisable to refer to the official website for current information regarding online purchases.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s wise to verify on the official website or inquire upon arrival.
+Facilities may be available, but it's wise to verify on the official website or inquire upon arrival.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the weather conditions and the nature of the activities you plan to participate in.

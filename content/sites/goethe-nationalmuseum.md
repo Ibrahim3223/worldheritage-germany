@@ -28,7 +28,7 @@ image_srcset:
 
 The Goethe-Nationalmuseum, located in the heart of Weimar, Germany, stands as a prominent institution dedicated to honoring the life and works of one of Germany's most celebrated literary figures, Johann Wolfgang von Goethe. This museum not only showcases an impressive array of Goethe's literary contributions but also provides a profound insight into his life, philosophy, and the cultural milieu of the late 18th and early 19th centuries. Weimar, a city known for its rich artistic heritage and intellectual legacy, serves as an appropriate backdrop for this homage to Goethe. 
 
-The museum is housed in the very building where Goethe lived and worked for many years, establishing a direct connection between the author’s life and his creative output. Visitors can expect to engage with a variety of exhibitions that include original manuscripts, personal items, and artworks that illustrate Goethe's profound influence on literature and the arts. A visit to the Goethe-Nationalmuseum promises to enrich your understanding of not just Goethe himself, but also the broader cultural currents of his time.
+The museum is housed in the very building where Goethe lived and worked for many years, establishing a direct connection between the author's life and his creative output. Visitors can expect to engage with a variety of exhibitions that include original manuscripts, personal items, and artworks that illustrate Goethe's profound influence on literature and the arts. A visit to the Goethe-Nationalmuseum promises to enrich your understanding of not just Goethe himself, but also the broader cultural currents of his time.
 
 ## History and Significance
 
@@ -101,7 +101,7 @@ Accessibility information is subject to change, so please check the official web
 Check the official website for the option to purchase tickets online, which may save time during your visit.
 
 ### Are there restrooms and cafes?  
-Facilities such as restrooms and nearby cafes are typically available; however, it’s best to confirm this on the official website.
+Facilities such as restrooms and nearby cafes are typically available; however, it's best to confirm this on the official website.
 
 ### What should I wear?  
 Dress comfortably for walking and consider checking the weather forecast to dress appropriately for your visit.

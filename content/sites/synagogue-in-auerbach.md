@@ -70,7 +70,7 @@ When visiting the Synagogue in Auerbach, consider the following insider tips to 
 
 - **Photography**: Be respectful of the site's significance when taking photographs. If photography is allowed, focus on capturing the architectural details and the ambiance of the space.
 - **Crowd Avoidance**: To avoid larger groups, plan your visit during early morning or late afternoon hours, especially on weekdays. This can provide a more personal experience.
-- **Engage with Local History**: If possible, speak with local historians or guides to gain deeper insights into the synagogue’s history and its impact on the community.
+- **Engage with Local History**: If possible, speak with local historians or guides to gain deeper insights into the synagogue's history and its impact on the community.
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ For detailed accessibility information, it's recommended to check directly with 
 Current information about ticket purchasing options should be verified on the official website.
 
 ### Are there restrooms and cafes?
-Details regarding amenities such as restrooms and nearby cafes are not specified; it’s best to check local facilities before your visit.
+Details regarding amenities such as restrooms and nearby cafes are not specified; it's best to check local facilities before your visit.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of historical significance. 

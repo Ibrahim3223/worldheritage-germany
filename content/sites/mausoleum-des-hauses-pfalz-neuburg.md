@@ -28,7 +28,7 @@ image_srcset:
 
 The Mausoleum des Hauses Pfalz-Neuburg is a striking architectural landmark located in Düsseldorf, Germany. Situated adjacent to the St. Andreas Church, this mausoleum serves as a final resting place for members of the noble House of Pfalz-Neuburg. Its distinct twelve-sided design not only embodies the artistry of its era but also reflects the cultural and historical significance of the region. As visitors approach, they are greeted by the aura of reverence that surrounds this sacred space, which invites exploration and reflection on the lives of those interred within.
 
-This mausoleum is not just a sepulchral monument but also a vital part of Düsseldorf's historical narrative, symbolizing the city’s medieval and early modern heritage. The structure's unique architectural form enhances its importance, making it a noteworthy stop for anyone interested in the intersection of history, art, and architecture. With its rich background and distinctiveness, the Mausoleum des Hauses Pfalz-Neuburg promises to engage visitors with both its solemnity and its beauty.
+This mausoleum is not just a sepulchral monument but also a vital part of Düsseldorf's historical narrative, symbolizing the city's medieval and early modern heritage. The structure's unique architectural form enhances its importance, making it a noteworthy stop for anyone interested in the intersection of history, art, and architecture. With its rich background and distinctiveness, the Mausoleum des Hauses Pfalz-Neuburg promises to engage visitors with both its solemnity and its beauty.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ While the Mausoleum des Hauses Pfalz-Neuburg is a focal point of historical inte
 
 1. **Hofkirche St. Andreas**: This adjacent church complements the mausoleum with its own historical significance and architectural beauty. Visitors can explore its interiors and appreciate the sacred art within.
 
-2. **Schlossturm**: Located not far from the mausoleum, Schlossturm is the last remaining tower of the former Düsseldorf Palace, offering insight into the city’s royal past.
+2. **Schlossturm**: Located not far from the mausoleum, Schlossturm is the last remaining tower of the former Düsseldorf Palace, offering insight into the city's royal past.
 
 3. **Kunstsammlung Nordrhein-Westfalen**: An art museum housing an impressive collection of modern and contemporary art, perfect for those looking to engage with the creative side of Düsseldorf.
 
@@ -82,7 +82,7 @@ Before setting out to the Mausoleum des Hauses Pfalz-Neuburg, here are some prac
 
 - **What to Bring**: Comfortable walking shoes are recommended, as visitors may want to explore the surrounding area. A camera may also be beneficial for capturing memories, subject to the site's photography policies.
 
-- **Seasonal Considerations**: Depending on the time of year, weather conditions in Düsseldorf can vary. It’s wise to check the forecast and dress accordingly, particularly if planning to explore the nearby outdoor attractions.
+- **Seasonal Considerations**: Depending on the time of year, weather conditions in Düsseldorf can vary. It's wise to check the forecast and dress accordingly, particularly if planning to explore the nearby outdoor attractions.
 
 ## Frequently Asked Questions
 

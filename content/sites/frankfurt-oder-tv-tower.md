@@ -52,7 +52,7 @@ The best times to visit typically align with pleasant weather, making it easier 
 
 While the Frankfurt (Oder) TV Tower is a focal point, the surrounding area offers several points of interest worth exploring:
 
-1. **Frankfurt (Oder) Cathedral**: A historical landmark, this cathedral showcases stunning Gothic architecture and is an important part of the city’s heritage.
+1. **Frankfurt (Oder) Cathedral**: A historical landmark, this cathedral showcases stunning Gothic architecture and is an important part of the city's heritage.
 
 2. **Museum Viadrina**: This museum often features exhibits related to the history and culture of the region, providing additional context to your visit.
 
@@ -80,10 +80,10 @@ If you plan to stay in the area, consider local accommodations that can enhance 
 A visit to the Frankfurt (Oder) TV Tower can typically take around 1-2 hours, including time for exploration and photography.
 
 ### Is photography allowed?
-Yes, photography is generally allowed at the tower. It’s an excellent opportunity to capture the structure and its surroundings.
+Yes, photography is generally allowed at the tower. It's an excellent opportunity to capture the structure and its surroundings.
 
 ### Are there guided tours?
-While specific information on guided tours is not provided, it’s worthwhile to check the official website for any available options.
+While specific information on guided tours is not provided, it's worthwhile to check the official website for any available options.
 
 ### What's the best time to visit?
 Visiting during pleasant weather, preferably in the spring or summer, can enhance your experience. Early mornings or late afternoons are often less crowded.

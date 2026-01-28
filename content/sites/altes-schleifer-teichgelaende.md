@@ -28,7 +28,7 @@ image_srcset:
 
 Altes Schleifer Teichgelände, a designated nature reserve located in the Schleife region of Sachsen, Germany, presents a serene retreat for nature enthusiasts and a vital habitat for local wildlife. This area, with its unique ecosystem, offers a blend of tranquility and natural beauty, drawing visitors who wish to immerse themselves in the lush landscapes and diverse flora and fauna. The reserve is a key part of the region's commitment to preserving natural habitats, making it significant not only for its ecological role but also for its contribution to biodiversity.
 
-Visitors to Altes Schleifer Teichgelände can look forward to exploring various walking trails that meander through the reserve, providing opportunities for birdwatching and observing the delicate balance of nature. The site encourages a deeper appreciation for the environment and highlights the importance of conservation in today’s world. Whether you are a seasoned hiker or simply seeking a peaceful environment to unwind, the reserve promises a refreshing experience.
+Visitors to Altes Schleifer Teichgelände can look forward to exploring various walking trails that meander through the reserve, providing opportunities for birdwatching and observing the delicate balance of nature. The site encourages a deeper appreciation for the environment and highlights the importance of conservation in today's world. Whether you are a seasoned hiker or simply seeking a peaceful environment to unwind, the reserve promises a refreshing experience.
 
 ## History and Significance
 

@@ -91,7 +91,7 @@ Currently, there are no specific guided tours available at Bärwalder See, but s
 The warmer months, particularly late spring through early autumn, are ideal for enjoying outdoor activities at the lake.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary, so it’s advisable to check the official website for specific information.
+Accessibility features may vary, so it's advisable to check the official website for specific information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding any potential fees and ticket purchasing options.

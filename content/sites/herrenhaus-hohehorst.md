@@ -36,7 +36,7 @@ Herrenhaus Hohehorst's significance lies not only in its architectural beauty bu
 
 The manor house likely served as a residence for local nobility or wealthy landowners, embodying the aspirations and status of its inhabitants. Such structures often played a central role in local governance, agriculture, and social life, acting as hubs for community gatherings and decision-making processes. 
 
-In the context of regional heritage, Herrenhaus Hohehorst contributes to the understanding of Germany’s architectural evolution, particularly in the realm of manor houses. These structures often signify not only personal wealth but also the historical agricultural practices that shaped the countryside. As part of the cultural landscape, Herrenhaus Hohehorst allows for a deeper appreciation of the heritage that defines the Schwanewede region.
+In the context of regional heritage, Herrenhaus Hohehorst contributes to the understanding of Germany's architectural evolution, particularly in the realm of manor houses. These structures often signify not only personal wealth but also the historical agricultural practices that shaped the countryside. As part of the cultural landscape, Herrenhaus Hohehorst allows for a deeper appreciation of the heritage that defines the Schwanewede region.
 
 ## Architecture and Features
 

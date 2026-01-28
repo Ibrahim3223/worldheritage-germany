@@ -95,7 +95,7 @@ While specific information about guided tours may not be provided, it is worth i
 The best time to visit may depend on local events, with weekdays often being quieter compared to weekends or religious holidays.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility may vary, so it’s best to check the official website for details on wheelchair access to the church.
+Information regarding accessibility may vary, so it's best to check the official website for details on wheelchair access to the church.
 
 ### Can I buy tickets online?
 For information on ticket purchasing, including online options, please refer to the official website.

@@ -34,7 +34,7 @@ The waterfall is situated at coordinates 51.9581, 10.5725, making it easily acce
 
 The Radau waterfall is not only a natural attraction but also a site of cultural significance. The Harz region has been a focal point for various cultural and historical developments over centuries. While specific historical records of Radau may not be abundant, the surrounding area has been inhabited since ancient times, with evidence of mining, forestry, and tourism shaping its identity.
 
-The Harz mountains have long been a source of inspiration for artists, poets, and nature lovers. The waterfall itself has become a symbol of the region’s natural beauty, often featured in local literature and art. As a part of the extensive network of trails in the Harz National Park, Radau serves as a vital component of the area's eco-tourism efforts, promoting conservation and appreciation for natural landscapes.
+The Harz mountains have long been a source of inspiration for artists, poets, and nature lovers. The waterfall itself has become a symbol of the region's natural beauty, often featured in local literature and art. As a part of the extensive network of trails in the Harz National Park, Radau serves as a vital component of the area's eco-tourism efforts, promoting conservation and appreciation for natural landscapes.
 
 The significance of Radau extends beyond its physical presence. The waterfall is a reminder of the importance of preserving natural habitats and the delicate ecosystems that thrive in the region. Visiting Radau not only allows individuals to enjoy its beauty but also to connect with a broader narrative about the environment and the cultural heritage of the Harz region.
 
@@ -84,7 +84,7 @@ Seasonal considerations are essential; spring and early summer typically present
 A visit to Radau can last from one to several hours, depending on your interest in hiking and exploring the surrounding area.
 
 ### Is photography allowed?
-Yes, photography is allowed, and early morning or late afternoon light provides excellent conditions for capturing the waterfall’s beauty.
+Yes, photography is allowed, and early morning or late afternoon light provides excellent conditions for capturing the waterfall's beauty.
 
 ### Are there guided tours?
 Check local listings for any guided tour options that may include Radau as part of a larger itinerary.

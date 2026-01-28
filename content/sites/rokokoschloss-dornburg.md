@@ -78,7 +78,7 @@ To avoid larger crowds, aim for weekdays instead of weekends, particularly durin
 
 When visiting Rokokoschloss Dornburg, it is recommended to bring along a few essentials. Comfortable footwear is advised, as the palace grounds can require some walking. Additionally, a water bottle and snacks can enhance your experience, especially if you plan to spend several hours exploring.
 
-Seasonal considerations should also be taken into account. Spring and summer are ideal for enjoying the gardens, while autumn offers a picturesque landscape with changing leaves. Winter visits may present a different charm, though it’s wise to dress warmly.
+Seasonal considerations should also be taken into account. Spring and summer are ideal for enjoying the gardens, while autumn offers a picturesque landscape with changing leaves. Winter visits may present a different charm, though it's wise to dress warmly.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ Seasonal considerations should also be taken into account. Spring and summer are
 A visit typically requires a few hours to fully appreciate the palace and its gardens.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any specific guidelines posted at the site.
+Photography is generally permitted, but it's advisable to respect any specific guidelines posted at the site.
 
 ### Are there guided tours?
 Check the official website for information on any available guided tours.

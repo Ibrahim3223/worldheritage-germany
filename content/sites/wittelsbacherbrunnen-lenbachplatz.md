@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the bustling heart of Munich, the Wittelsbacherbrunnen stands as a serene water well, inviting both locals and travelers to pause and appreciate its charm. Located at Lenbachplatz, this fountain serves as a refreshing focal point amidst the city's vibrant urban life. The surrounding area, rich with cultural and historical significance, enhances the fountain’s appeal, making it a noteworthy stop for those exploring the dynamic landscape of Munich. With its elegant design and inviting atmosphere, Wittelsbacherbrunnen offers a moment of tranquility where visitors can unwind, reflect, and soak in the essence of the city.
+In the bustling heart of Munich, the Wittelsbacherbrunnen stands as a serene water well, inviting both locals and travelers to pause and appreciate its charm. Located at Lenbachplatz, this fountain serves as a refreshing focal point amidst the city's vibrant urban life. The surrounding area, rich with cultural and historical significance, enhances the fountain's appeal, making it a noteworthy stop for those exploring the dynamic landscape of Munich. With its elegant design and inviting atmosphere, Wittelsbacherbrunnen offers a moment of tranquility where visitors can unwind, reflect, and soak in the essence of the city.
 
 ## History and Significance
 

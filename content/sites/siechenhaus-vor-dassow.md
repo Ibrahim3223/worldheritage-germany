@@ -60,7 +60,7 @@ The best times to visit often coincide with local events or services, which can 
 
 The region surrounding the Siechenhaus vor Dassow is rich with attractions that complement a visit to the church. Here are a few noteworthy options:
 
-1. **Dassow Town Center**: Explore the charming town center, where local shops and cafés offer a glimpse into everyday life in Dassow. It’s an excellent spot for leisurely walks and soaking in the local ambiance.
+1. **Dassow Town Center**: Explore the charming town center, where local shops and cafés offer a glimpse into everyday life in Dassow. It's an excellent spot for leisurely walks and soaking in the local ambiance.
 
 2. **Historic Buildings**: In addition to the Siechenhaus, visitors can discover other historical buildings in Dassow, which reflect the region's architectural heritage.
 

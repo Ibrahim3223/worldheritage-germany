@@ -48,7 +48,7 @@ Inside, Rathaus Gächingen may feature spaces for meetings, community events, an
 
 ## Visiting Information
 
-For those planning a visit to Rathaus Gächingen, it’s important to consider transportation options and the overall experience. The city hall is accessible by various means of transport, including public transit and private vehicles. However, travelers should check the official website for current information on hours of operation and any potential restrictions due to events or renovations.
+For those planning a visit to Rathaus Gächingen, it's important to consider transportation options and the overall experience. The city hall is accessible by various means of transport, including public transit and private vehicles. However, travelers should check the official website for current information on hours of operation and any potential restrictions due to events or renovations.
 
 Upon arrival, visitors can expect a friendly atmosphere where locals may be engaged in various activities or events. The city hall is likely to have informative displays or materials about its history and significance, providing context for visitors. A typical visit might last anywhere from 30 minutes to an hour, depending on your level of interest in exploring the building and any ongoing events.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When visiting Rathaus Gächingen, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. Depending on the season, dress appropriately for the weather, as outdoor conditions can vary significantly.
+When visiting Rathaus Gächingen, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. Depending on the season, dress appropriately for the weather, as outdoor conditions can vary significantly.
 
 If you plan to explore the town further, consider packing a small picnic or snacks to enjoy in one of the local parks. Seasonal events or festivals may also influence what you choose to bring, so keep an eye out for local announcements.
 
@@ -95,7 +95,7 @@ Information regarding guided tours can be found on the official website.
 Spring and summer are generally ideal for pleasant weather, but each season offers unique experiences.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to check the official website for specific details.
+Accessibility features may be available, but it's best to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

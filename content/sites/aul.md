@@ -42,7 +42,7 @@ The Aul stands as a robust structure, characterized by its utilitarian design in
 
 Distinct features of the Aul include arrow slits, which were essential for archers during sieges, allowing them to defend the tower while minimizing exposure. The overall shape of the tower is practical, contributing to its defensive capabilities while also enhancing its imposing appearance. 
 
-Visitors to the site will appreciate the craftsmanship and thought that went into its construction. While specific ornamental details may be limited, the Aul’s solid form speaks volumes about the era's architectural priorities—functionality and protection over decoration.
+Visitors to the site will appreciate the craftsmanship and thought that went into its construction. While specific ornamental details may be limited, the Aul's solid form speaks volumes about the era's architectural priorities—functionality and protection over decoration.
 
 ## Visiting Information
 
@@ -56,9 +56,9 @@ Expect to spend around an hour at the Aul, providing ample time to appreciate it
 
 Zwingenberg is home to several attractions that enrich the visitor experience:
 
-1. **St. Peter’s Church**: A beautiful example of Gothic architecture, this church is a short walk from the Aul and offers stunning interiors and historical significance.
+1. **St. Peter's Church**: A beautiful example of Gothic architecture, this church is a short walk from the Aul and offers stunning interiors and historical significance.
    
-2. **The Old Town**: Stroll through the charming streets of Zwingenberg, where you’ll find a mix of traditional buildings and lively shops.
+2. **The Old Town**: Stroll through the charming streets of Zwingenberg, where you'll find a mix of traditional buildings and lively shops.
    
 3. **The Bergstraße Wine Route**: Just beyond the town, this scenic route invites you to explore vineyards and taste local wines, making it a perfect complement to your historical visit.
    
@@ -68,7 +68,7 @@ Zwingenberg is home to several attractions that enrich the visitor experience:
 
 ## Insider Tips
 
-For those keen on photography, the Aul offers numerous angles that capture its imposing structure against the backdrop of Zwingenberg. Early morning or late afternoon provides the best natural light for photographs, ensuring that you can highlight the tower’s architectural features without harsh shadows.
+For those keen on photography, the Aul offers numerous angles that capture its imposing structure against the backdrop of Zwingenberg. Early morning or late afternoon provides the best natural light for photographs, ensuring that you can highlight the tower's architectural features without harsh shadows.
 
 To avoid crowds, consider visiting on weekdays or during off-peak hours. This not only enhances your experience but allows for a more intimate exploration of the site. 
 

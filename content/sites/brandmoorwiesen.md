@@ -78,7 +78,7 @@ Photography enthusiasts will find plenty of opportunities to capture the natural
 
 ## Practical Information
 
-Before heading to Brandmoorwiesen, it’s essential to prepare accordingly. Wear comfortable shoes suitable for walking on various terrains, as the paths may not always be paved. Depending on the season, dress in layers to accommodate changing weather conditions, and don’t forget a hat and sunscreen during sunny days.
+Before heading to Brandmoorwiesen, it's essential to prepare accordingly. Wear comfortable shoes suitable for walking on various terrains, as the paths may not always be paved. Depending on the season, dress in layers to accommodate changing weather conditions, and don't forget a hat and sunscreen during sunny days.
 
 Consider bringing a picnic to enjoy in the tranquil surroundings, but be sure to follow any guidelines regarding waste disposal to help maintain the reserve's natural beauty. A reusable water bottle is also a good idea to stay hydrated during your visit.
 

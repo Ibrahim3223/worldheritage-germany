@@ -101,7 +101,7 @@ A few hours should suffice to explore Burg Großbodungen, but you may wish to li
 Photography is generally allowed; however, check for any specific restrictions at the site.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these may enhance your understanding of the castle’s history.
+Check the official website for information regarding guided tours, as these may enhance your understanding of the castle's history.
 
 ### What's the best time to visit?
 Visiting during spring or fall is recommended for mild weather and vibrant surroundings.

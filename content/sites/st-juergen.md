@@ -28,21 +28,21 @@ image_srcset:
 
 St. Jürgen is a notable church building located in Lübeck, Germany, a city recognized for its well-preserved medieval architecture and rich Hanseatic history. This church, while perhaps not as widely known as some of its counterparts, contributes to the architectural and cultural landscape of Lübeck, which is a UNESCO World Heritage site. Visitors to St. Jürgen will find themselves in a space that reflects the spiritual and communal life of the region, a place where centuries of worship and community gatherings have taken place. 
 
-The church is positioned at coordinates 53.8531, 10.7008, which places it centrally within Lübeck, making it easily accessible for those exploring the city’s historical sites. St. Jürgen not only serves as a place of worship but also stands as a link between the past and present, highlighting the architectural styles and community values that define this part of Germany.
+The church is positioned at coordinates 53.8531, 10.7008, which places it centrally within Lübeck, making it easily accessible for those exploring the city's historical sites. St. Jürgen not only serves as a place of worship but also stands as a link between the past and present, highlighting the architectural styles and community values that define this part of Germany.
 
 As you explore the charming streets of Lübeck, St. Jürgen invites you to pause and reflect on its significance, both architecturally and historically, as you delve deeper into the heart of this enchanting city.
 
 ## History and Significance
 
-The history of St. Jürgen is entwined with the broader narrative of Lübeck, a city that played a crucial role in European trade during the medieval period. While specific historical dates and events surrounding the church may not be documented here, it is known that Lübeck's churches were pivotal in the spiritual life of its citizens and reflected the city’s wealth and importance in the Hanseatic League.
+The history of St. Jürgen is entwined with the broader narrative of Lübeck, a city that played a crucial role in European trade during the medieval period. While specific historical dates and events surrounding the church may not be documented here, it is known that Lübeck's churches were pivotal in the spiritual life of its citizens and reflected the city's wealth and importance in the Hanseatic League.
 
-St. Jürgen, like many churches in Lübeck, symbolizes the strong religious tradition that has been a cornerstone of life in this region. The church has been a place for community gatherings, celebrations, and milestones such as baptisms, weddings, and funerals, serving as a significant social hub. The architectural design and functions of St. Jürgen likely mirror the evolution of church buildings in Northern Germany, evolving alongside the city’s development over the centuries.
+St. Jürgen, like many churches in Lübeck, symbolizes the strong religious tradition that has been a cornerstone of life in this region. The church has been a place for community gatherings, celebrations, and milestones such as baptisms, weddings, and funerals, serving as a significant social hub. The architectural design and functions of St. Jürgen likely mirror the evolution of church buildings in Northern Germany, evolving alongside the city's development over the centuries.
 
 Culturally, St. Jürgen represents more than just a place of worship; it showcases the artistic and architectural styles that have influenced Lübeck. As the city underwent changes through various historical events, the church has remained a constant, embodying both the resilience and adaptability of the community. 
 
 ## Architecture and Features
 
-St. Jürgen is characterized as a church building that reflects the architectural trends prevalent in Lübeck and Northern Germany. While specific details of its architectural style are not provided, one can anticipate elements typical of the region’s ecclesiastical structures, such as intricate brickwork, ornate facades, and possibly a tower that serves both functional and aesthetic purposes.
+St. Jürgen is characterized as a church building that reflects the architectural trends prevalent in Lübeck and Northern Germany. While specific details of its architectural style are not provided, one can anticipate elements typical of the region's ecclesiastical structures, such as intricate brickwork, ornate facades, and possibly a tower that serves both functional and aesthetic purposes.
 
 Inside, visitors can expect to find features that highlight the spiritual significance of the space. The interior may include traditional elements such as an altar, stained glass windows, and other decorative details that contribute to the church's ambiance. The layout typically suggests a nave, side aisles, and a chancel, allowing for both congregational worship and individual reflection.
 
@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during off-peak hours, such as mid-mornings or 
 
 ## Practical Information
 
-When visiting St. Jürgen, it is advisable to bring a water bottle and comfortable walking shoes, especially if you plan to explore Lübeck’s charming streets afterward. The weather can vary, so layers are recommended to ensure comfort throughout your visit.
+When visiting St. Jürgen, it is advisable to bring a water bottle and comfortable walking shoes, especially if you plan to explore Lübeck's charming streets afterward. The weather can vary, so layers are recommended to ensure comfort throughout your visit.
 
 Seasonal considerations are also important; spring and early autumn are typically pleasant times to visit, with milder temperatures and fewer tourists.
 

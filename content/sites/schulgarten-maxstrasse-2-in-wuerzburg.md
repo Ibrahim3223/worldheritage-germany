@@ -28,9 +28,9 @@ Situated in the heart of Würzburg, the garden is easily accessible and is a per
 
 The Schulgarten, or School Garden, has a history intertwined with the educational and cultural development of Würzburg. While specific dates are not provided, the garden is recognized as a cultural heritage monument, highlighting its significance in the region's historical landscape. Gardens such as this often served educational purposes in the past, allowing students and the community to engage with horticulture and environmental stewardship.
 
-In the context of Würzburg's broader historical narrative, the garden reflects the city’s commitment to preserving green spaces that contribute to the quality of urban life. As cities evolve, the significance of maintaining gardens becomes increasingly apparent, and Schulgarten Maxstraße stands as a reminder of the essential role that such spaces play in fostering community and well-being.
+In the context of Würzburg's broader historical narrative, the garden reflects the city's commitment to preserving green spaces that contribute to the quality of urban life. As cities evolve, the significance of maintaining gardens becomes increasingly apparent, and Schulgarten Maxstraße stands as a reminder of the essential role that such spaces play in fostering community and well-being.
 
-Moreover, the garden’s existence ties into the educational practices of earlier centuries, where the integration of nature into learning environments was commonplace. This aspect adds a layer of cultural importance, making the garden not only a place of beauty but also a site of reflection on the evolution of education and public spaces.
+Moreover, the garden's existence ties into the educational practices of earlier centuries, where the integration of nature into learning environments was commonplace. This aspect adds a layer of cultural importance, making the garden not only a place of beauty but also a site of reflection on the evolution of education and public spaces.
 
 ## Architecture and Features
 
@@ -87,7 +87,7 @@ Check the official website for information on any available guided tours or educ
 The best times to visit are spring and summer when the garden is in full bloom.
 
 ### Is it wheelchair accessible?
-The garden is likely designed with accessibility in mind, but it’s best to check for specific details on the official website.
+The garden is likely designed with accessibility in mind, but it's best to check for specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding admission fees and ticket purchasing options.

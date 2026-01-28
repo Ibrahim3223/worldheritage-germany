@@ -42,9 +42,9 @@ The square's historical significance is further underscored by its proximity to 
 
 Rosa-Luxemburg-Platz features a blend of architectural styles that reflect the city's eclectic design ethos. The square serves as a junction where modernity meets history, with contemporary buildings standing alongside structures that echo Berlin's storied past. The surrounding architecture provides a visual representation of the city's evolution, from pre-war designs to modern constructions.
 
-One of the most notable features of Rosa-Luxemburg-Platz is the prominent U-Bahn station, which is integral to the square’s functionality as a transportation hub. This station not only facilitates easy access to various parts of Berlin but also integrates seamlessly with the square's urban design. The square itself is characterized by open spaces that invite visitors to gather, relax, and engage with one another, making it a lively focal point in the bustling city.
+One of the most notable features of Rosa-Luxemburg-Platz is the prominent U-Bahn station, which is integral to the square's functionality as a transportation hub. This station not only facilitates easy access to various parts of Berlin but also integrates seamlessly with the square's urban design. The square itself is characterized by open spaces that invite visitors to gather, relax, and engage with one another, making it a lively focal point in the bustling city.
 
-In addition to its transport features, Rosa-Luxemburg-Platz is often adorned with public art installations and features green areas that enhance the urban environment. These elements contribute to the square's charm, providing a space for reflection amidst the city’s hustle and bustle. The combination of architecture, art, and open space creates an inviting atmosphere for both locals and tourists.
+In addition to its transport features, Rosa-Luxemburg-Platz is often adorned with public art installations and features green areas that enhance the urban environment. These elements contribute to the square's charm, providing a space for reflection amidst the city's hustle and bustle. The combination of architecture, art, and open space creates an inviting atmosphere for both locals and tourists.
 
 ## Visiting Information
 

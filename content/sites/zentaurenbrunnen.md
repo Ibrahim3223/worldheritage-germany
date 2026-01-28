@@ -80,7 +80,7 @@ To make the most of your visit to the Zentaurenbrunnen, consider these insider t
 
 ## Practical Information
 
-When preparing for your visit to the Zentaurenbrunnen, it’s important to consider what to bring and any seasonal variations that may affect your experience:
+When preparing for your visit to the Zentaurenbrunnen, it's important to consider what to bring and any seasonal variations that may affect your experience:
 
 - **What to Bring**: A camera is essential for capturing the beauty of the fountain and the surrounding area. Additionally, bringing a water bottle and a light snack can enhance your visit, especially if you plan to spend some time relaxing nearby.
 
@@ -112,4 +112,4 @@ Information on nearby amenities can vary; check local resources for the nearest 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, and consider wearing comfortable shoes for walking.
 
-Visiting the Zentaurenbrunnen offers a chance to immerse yourself in Neustadt’s cultural landscape while enjoying a moment of serenity in a bustling urban environment. 
+Visiting the Zentaurenbrunnen offers a chance to immerse yourself in Neustadt's cultural landscape while enjoying a moment of serenity in a bustling urban environment. 

@@ -42,9 +42,9 @@ Despite the changes brought by modern technologies, the windmill remains a symbo
 
 Wallhöfener Mühle is characterized by its classic windmill architecture, which features a tall, cylindrical tower topped with a rotating cap and sails that harness the wind for milling. The design reflects the functionality that was crucial for the windmill's operation, allowing it to capture wind from different directions. Although specific architectural details are not provided, windmills of this type typically include a robust wooden frame, large blades, and a mechanism inside that converts the wind's energy into mechanical power for grinding grain.
 
-Visitors to Wallhöfener Mühle can expect to see the traditional features associated with historical windmills, such as the large sails, which are essential for capturing the wind, and the well-preserved structure that highlights the craftsmanship of the builders. The windmill’s exterior, often painted in natural tones, blends harmoniously with the surrounding landscape, creating a picturesque scene that invites exploration and appreciation.
+Visitors to Wallhöfener Mühle can expect to see the traditional features associated with historical windmills, such as the large sails, which are essential for capturing the wind, and the well-preserved structure that highlights the craftsmanship of the builders. The windmill's exterior, often painted in natural tones, blends harmoniously with the surrounding landscape, creating a picturesque scene that invites exploration and appreciation.
 
-Inside, while detailed information on the internal layout may be limited, many windmills typically include machinery that demonstrates the milling process, along with educational exhibits that provide context about the windmill’s operation and its significance to local agriculture. The combination of these features makes Wallhöfener Mühle not just an architectural marvel, but also an educational resource for visitors.
+Inside, while detailed information on the internal layout may be limited, many windmills typically include machinery that demonstrates the milling process, along with educational exhibits that provide context about the windmill's operation and its significance to local agriculture. The combination of these features makes Wallhöfener Mühle not just an architectural marvel, but also an educational resource for visitors.
 
 ## Visiting Information
 
@@ -82,7 +82,7 @@ Seasonal considerations are also important; check the weather forecast before yo
 A visit typically lasts between one to two hours, allowing sufficient time to explore the windmill and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally allowed, but it’s best to be respectful of any signage or guidelines provided on-site.
+Yes, photography is generally allowed, but it's best to be respectful of any signage or guidelines provided on-site.
 
 ### Are there guided tours?
 Information regarding guided tours may vary; check the official website for details on availability and scheduling.
@@ -91,7 +91,7 @@ Information regarding guided tours may vary; check the official website for deta
 Visiting during the warmer months is recommended, as the surrounding landscape is particularly vibrant and inviting.
 
 ### Is it wheelchair accessible?
-Specific accessibility features are not mentioned; it’s advisable to check the official website for detailed information.
+Specific accessibility features are not mentioned; it's advisable to check the official website for detailed information.
 
 ### Can I buy tickets online?
 For ticket purchasing options, please refer to the official website for the most accurate and current information.

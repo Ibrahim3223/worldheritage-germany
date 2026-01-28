@@ -28,7 +28,7 @@ image_srcset:
 
 The Botanischer Garten der TU Darmstadt is a serene oasis of botanical diversity situated in the heart of Darmstadt, Germany. This botanical garden serves not only as an educational resource for students and researchers at the Technical University of Darmstadt but also as a tranquil retreat for locals and visitors alike. With its verdant landscapes and meticulously curated plant collections, the garden encapsulates the beauty of flora from various climates and regions, inviting exploration and reflection.
 
-Established by the university, the garden plays a vital role in both academic and community engagement. It fosters a deeper understanding of plant biology, ecology, and conservation, bridging the gap between science and the public. The garden’s diverse ecosystems and cultivated spaces provide a peaceful escape while promoting environmental awareness and appreciation of nature’s complexities.
+Established by the university, the garden plays a vital role in both academic and community engagement. It fosters a deeper understanding of plant biology, ecology, and conservation, bridging the gap between science and the public. The garden's diverse ecosystems and cultivated spaces provide a peaceful escape while promoting environmental awareness and appreciation of nature's complexities.
 
 The garden's coordinates, 49.8692° N latitude and 8.67861° E longitude, place it centrally within Darmstadt, making it easily accessible for those exploring the region. Visitors can expect a harmonious blend of education and leisure, where each visit reveals something new amid the flora.
 

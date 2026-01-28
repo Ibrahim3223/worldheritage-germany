@@ -78,7 +78,7 @@ To make the most of your visit to Borsteler Mühle, consider a few insider tips:
 
 ## Practical Information
 
-When preparing for your visit to Borsteler Mühle, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may be exploring the grounds and nearby areas. Additionally, consider packing water and snacks, especially if you plan to spend a leisurely day in the vicinity.
+When preparing for your visit to Borsteler Mühle, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may be exploring the grounds and nearby areas. Additionally, consider packing water and snacks, especially if you plan to spend a leisurely day in the vicinity.
 
 Seasonal considerations are also important. If visiting during the spring, be sure to check for blooming seasons in the orchards, which can enhance your experience. In the autumn, the area is known for its apple harvest, making it an exciting time to witness local agricultural practices.
 

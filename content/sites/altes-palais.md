@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Altes Palais, an architectural gem located in Schwerin, Germany, reflects the historical richness of the region and offers visitors a glimpse into the elegance of past eras. This Fachwerkbau, or timber-framed building, is situated near the Old Garden, an area that enhances its picturesque setting. Altes Palais not only serves as a significant landmark in Schwerin but also as a representation of the cultural and historical evolution of the area. As you explore this captivating site, you’ll find that its charm lies not only in its architecture but also in the stories it tells about the people and events that shaped the region.
+Altes Palais, an architectural gem located in Schwerin, Germany, reflects the historical richness of the region and offers visitors a glimpse into the elegance of past eras. This Fachwerkbau, or timber-framed building, is situated near the Old Garden, an area that enhances its picturesque setting. Altes Palais not only serves as a significant landmark in Schwerin but also as a representation of the cultural and historical evolution of the area. As you explore this captivating site, you'll find that its charm lies not only in its architecture but also in the stories it tells about the people and events that shaped the region.
 
-Visitors to Altes Palais will appreciate its strategic location in Schwerin, a city known for its enchanting lakes and parklands. The palace is surrounded by historical context, making it an integral part of a broader narrative that encompasses the architectural and cultural heritage of northern Germany. Whether you’re a history enthusiast, an architecture lover, or simply seeking a serene spot to enjoy the landscape, Altes Palais promises a fulfilling experience.
+Visitors to Altes Palais will appreciate its strategic location in Schwerin, a city known for its enchanting lakes and parklands. The palace is surrounded by historical context, making it an integral part of a broader narrative that encompasses the architectural and cultural heritage of northern Germany. Whether you're a history enthusiast, an architecture lover, or simply seeking a serene spot to enjoy the landscape, Altes Palais promises a fulfilling experience.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Altes Palais is intertwined with the broader narrative of Schweri
 
 The significance of Altes Palais extends beyond its architectural features; it also plays a role in the cultural fabric of Schwerin. The palace has witnessed numerous events and gatherings, contributing to its reputation as a social hub in the region. Its proximity to the Old Garden further enhances its cultural importance, as this area has historically served as a gathering place for both locals and visitors.
 
-As an example of Fachwerk architecture, Altes Palais is a vital component of Schwerin's architectural landscape. Fachwerkbau, characterized by its exposed timber framing, not only provides aesthetic appeal but also reflects the practical construction methods of the period. The structure’s resilience has allowed it to endure through the years, making it a valuable asset for understanding the architectural heritage of the region.
+As an example of Fachwerk architecture, Altes Palais is a vital component of Schwerin's architectural landscape. Fachwerkbau, characterized by its exposed timber framing, not only provides aesthetic appeal but also reflects the practical construction methods of the period. The structure's resilience has allowed it to endure through the years, making it a valuable asset for understanding the architectural heritage of the region.
 
 ## Architecture and Features
 

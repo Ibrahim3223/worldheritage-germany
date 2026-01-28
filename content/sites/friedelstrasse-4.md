@@ -32,7 +32,7 @@ The courthouse is set in a region that has witnessed various transformations ove
 
 ## History and Significance
 
-The courthouse at Friedelstraße 4 holds a distinctive place in Hainichen’s legal history. While specific dates and events are not documented here, the significance of courthouses in German towns cannot be overstated. They often symbolize the rule of law and the administration of justice, serving vital roles in both historical and contemporary society.
+The courthouse at Friedelstraße 4 holds a distinctive place in Hainichen's legal history. While specific dates and events are not documented here, the significance of courthouses in German towns cannot be overstated. They often symbolize the rule of law and the administration of justice, serving vital roles in both historical and contemporary society.
 
 Courthouses like Friedelstraße 4 are integral to the fabric of local governance. They function as venues for legal proceedings, housing courtrooms where judges preside over cases and ensure that justice is served. This building not only serves the current legal framework but also echoes the historical legal practices that shaped the community. Given its functions and historical context, Friedelstraße 4 stands as a reflection of the local culture and the evolution of the legal system in Germany.
 
@@ -70,7 +70,7 @@ While in Hainichen, consider exploring additional attractions that enhance your 
 
 When visiting Friedelstraße 4, consider bringing a camera to capture the courthouse's architecture, but remember to respect any photography restrictions that may be in place. To avoid crowds, plan your visit during the early morning or on weekdays when court sessions are less likely to draw large numbers of visitors.
 
-Familiarizing yourself with the local customs and legal practices may enhance your understanding of the courthouse’s significance. Additionally, engaging with local residents or staff can provide deeper insights into the building's role in the community.
+Familiarizing yourself with the local customs and legal practices may enhance your understanding of the courthouse's significance. Additionally, engaging with local residents or staff can provide deeper insights into the building's role in the community.
 
 ## Practical Information
 
@@ -99,7 +99,7 @@ Accessibility may vary; consider contacting the courthouse in advance to inquire
 Check the official website for information on ticketing and any online purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available within the courthouse, but it’s advisable to check the official site for specifics. Nearby cafes can be explored for refreshments.
+Facilities such as restrooms may be available within the courthouse, but it's advisable to check the official site for specifics. Nearby cafes can be explored for refreshments.
 
 ### What should I wear?
 Dress smartly and comfortably, keeping in mind that you are visiting a courthouse, which may have specific dress codes.

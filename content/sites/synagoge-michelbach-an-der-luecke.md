@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Synagoge in Michelbach an der Lücke stands as a poignant symbol of the Jewish heritage in Wallhausen, Germany. With its roots deeply embedded in the community’s history, this synagogue serves both as a place of worship and a reminder of the cultural narratives that shaped the region. Located at the coordinates 49.2351, 10.1187, its significance stretches beyond its architectural features, embodying the resilience and continuity of Jewish traditions in a changing world. Visitors to this site can expect to engage with its spiritual atmosphere and reflect on the stories that resonate within its walls. 
+The Synagoge in Michelbach an der Lücke stands as a poignant symbol of the Jewish heritage in Wallhausen, Germany. With its roots deeply embedded in the community's history, this synagogue serves both as a place of worship and a reminder of the cultural narratives that shaped the region. Located at the coordinates 49.2351, 10.1187, its significance stretches beyond its architectural features, embodying the resilience and continuity of Jewish traditions in a changing world. Visitors to this site can expect to engage with its spiritual atmosphere and reflect on the stories that resonate within its walls. 
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ Visitors can expect to find a serene environment conducive to reflection and con
 
 ## Visiting Information
 
-Visiting the Synagoge in Michelbach an der Lücke offers an opportunity to engage with the site’s historical and cultural significance. Accessing the synagogue is straightforward, as it is located within the town of Michelbach an der Lücke. Visitors can travel by car or public transport to reach this location.
+Visiting the Synagoge in Michelbach an der Lücke offers an opportunity to engage with the site's historical and cultural significance. Accessing the synagogue is straightforward, as it is located within the town of Michelbach an der Lücke. Visitors can travel by car or public transport to reach this location.
 
 Check the official website for current information regarding operational hours and any associated entry fees. While specific visiting hours are not provided, it is advisable to plan your visit during regular daytime hours to ensure access. 
 
@@ -91,7 +91,7 @@ A visit to the Synagoge typically takes about an hour, allowing for both explora
 Check the official website for specific photography policies, as guidelines may vary depending on the time of visit.
 
 ### Are there guided tours?
-Availability of guided tours may vary. It’s advisable to check the official website for any scheduled tours or educational programs.
+Availability of guided tours may vary. It's advisable to check the official website for any scheduled tours or educational programs.
 
 ### What's the best time to visit?
 Weekday mornings or early afternoons are ideal for a quieter experience.

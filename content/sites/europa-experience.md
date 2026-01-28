@@ -30,7 +30,7 @@ Whether you are an EU enthusiast, a student, or simply a curious traveler, the E
 
 The Europa Experience serves as a pivotal educational platform that reflects on the historical evolution of the European Union. While specific dates are not outlined, the narrative of the EU is rooted in the aftermath of World War II, a period during which European nations sought to forge stronger ties to prevent future conflicts. This endeavor led to the establishment of various treaties and agreements aimed at promoting peace, stability, and economic cooperation among member states.
 
-The significance of the EU extends beyond mere political alliances; it embodies a collective vision for a prosperous and democratic Europe. The museum’s exhibits delve into the core principles that guide the EU, such as solidarity, equality, and the protection of human rights. Through various themes presented in the exhibition, visitors can better understand the challenges that the EU faces today, including migration, economic disparities, and the rise of nationalism.
+The significance of the EU extends beyond mere political alliances; it embodies a collective vision for a prosperous and democratic Europe. The museum's exhibits delve into the core principles that guide the EU, such as solidarity, equality, and the protection of human rights. Through various themes presented in the exhibition, visitors can better understand the challenges that the EU faces today, including migration, economic disparities, and the rise of nationalism.
 
 In addition to showcasing the EU's accomplishments, the Europa Experience also encourages dialogue about its future. It highlights the importance of active citizen participation in shaping policies and decisions that affect their lives. By promoting awareness and understanding of European integration, the museum plays a crucial role in fostering a sense of belonging among the citizens of Europe.
 
@@ -44,7 +44,7 @@ The attention to detail in the exhibition spaces showcases the commitment to pro
 
 ## Visiting Information
 
-When planning your visit to the Europa Experience, it’s important to consider transport options and accessibility. The museum is conveniently located in Berlin, making it easily reachable via public transportation. Visitors can use the city's extensive network of buses and trains to arrive at the European House Berlin. 
+When planning your visit to the Europa Experience, it's important to consider transport options and accessibility. The museum is conveniently located in Berlin, making it easily reachable via public transportation. Visitors can use the city's extensive network of buses and trains to arrive at the European House Berlin. 
 
 To avoid disappointment, check the official website for current information regarding opening hours and ticket prices. The museum typically welcomes visitors throughout the week, but hours may vary, especially during holidays or special events. 
 
@@ -110,4 +110,4 @@ Restroom facilities are typically available on-site. While the museum may not ha
 ### What should I wear?
 Dress comfortably, considering the weather and your plans for walking. Layers are recommended, especially during colder months.
 
-Visiting the Europa Experience offers a valuable opportunity to deepen your understanding of the European Union and its role in shaping the continent’s present and future. With its engaging exhibits and strategic location, it is a must-visit for anyone exploring Berlin.
+Visiting the Europa Experience offers a valuable opportunity to deepen your understanding of the European Union and its role in shaping the continent's present and future. With its engaging exhibits and strategic location, it is a must-visit for anyone exploring Berlin.

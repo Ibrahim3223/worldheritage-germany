@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-WOK – World of Kitchen is an innovative museum located in Hannover, Germany, that invites visitors to explore the multifaceted world of culinary arts. This museum stands out by focusing on the cultural and historical significance of kitchens, showcasing how they serve as the heart of both domestic and public life. The location in Hannover makes it a convenient stop for those exploring the city’s vibrant culture or its historical landmarks. Visitors can anticipate an engaging experience that highlights the evolution of kitchen spaces, tools, and cooking practices throughout history.
+WOK – World of Kitchen is an innovative museum located in Hannover, Germany, that invites visitors to explore the multifaceted world of culinary arts. This museum stands out by focusing on the cultural and historical significance of kitchens, showcasing how they serve as the heart of both domestic and public life. The location in Hannover makes it a convenient stop for those exploring the city's vibrant culture or its historical landmarks. Visitors can anticipate an engaging experience that highlights the evolution of kitchen spaces, tools, and cooking practices throughout history.
 
 WOK is not just a museum; it is a celebration of culinary history, emphasizing the role of kitchens in shaping social interactions and cultural rituals around food. The exhibitions promise to capture the imagination of food enthusiasts, history buffs, and anyone interested in the stories behind the meals we prepare and share. With its unique focus, WOK offers a refreshing perspective on a subject that is integral to human life: cooking.
 

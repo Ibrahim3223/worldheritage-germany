@@ -72,9 +72,9 @@ When planning your visit to An den Wurten 37, consider the following tips to enh
 
 ## Practical Information
 
-When visiting An den Wurten 37, it’s advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Depending on the season, dress appropriately for local weather conditions, as northern Germany can experience variable weather.
+When visiting An den Wurten 37, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Depending on the season, dress appropriately for local weather conditions, as northern Germany can experience variable weather.
 
-Be sure to check the official website for any seasonal events or special hours that could affect your visit. It’s also a good idea to have a water bottle and snacks on hand, as you might enjoy some time in the nearby parks or along the riverbank.
+Be sure to check the official website for any seasonal events or special hours that could affect your visit. It's also a good idea to have a water bottle and snacks on hand, as you might enjoy some time in the nearby parks or along the riverbank.
 
 ## Frequently Asked Questions
 

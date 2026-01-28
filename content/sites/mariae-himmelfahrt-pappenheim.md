@@ -36,7 +36,7 @@ The origins of Mariä Himmelfahrt are intertwined with the religious development
 
 Throughout its history, Mariä Himmelfahrt has served not only as a place of worship but also as a community hub. It has witnessed numerous significant events, including religious ceremonies, festivals, and social gatherings, reinforcing its role in the spiritual and communal life of Pappenheim. The church stands as a symbol of resilience and continuity, having adapted to the changing needs of its congregation while maintaining its sacred purpose.
 
-Culturally, Mariä Himmelfahrt represents an important aspect of Bavarian identity. It is a site where art, spirituality, and community converge, making it an integral part of the local heritage. The church’s significance extends beyond its religious function; it is a landmark that fosters a sense of belonging and continuity among residents and visitors alike.
+Culturally, Mariä Himmelfahrt represents an important aspect of Bavarian identity. It is a site where art, spirituality, and community converge, making it an integral part of the local heritage. The church's significance extends beyond its religious function; it is a landmark that fosters a sense of belonging and continuity among residents and visitors alike.
 
 ## Architecture and Features
 

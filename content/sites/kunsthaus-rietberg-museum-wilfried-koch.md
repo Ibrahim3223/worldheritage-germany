@@ -70,7 +70,7 @@ For those planning to visit Kunsthaus Rietberg, consider the following tips to e
 
 - **Photography**: While the museum may allow photography in certain areas, be sure to check for specific guidelines to avoid any disruptions.
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during the week, as weekends might attract larger crowds.
-- **Engage with Staff**: Don’t hesitate to ask staff members about the exhibitions; they can provide valuable insights and recommendations.
+- **Engage with Staff**: Don't hesitate to ask staff members about the exhibitions; they can provide valuable insights and recommendations.
 
 ## Practical Information
 
@@ -85,7 +85,7 @@ When preparing for your visit to Kunsthaus Rietberg, consider the following prac
 Visitors typically spend around 2 to 3 hours at Kunsthaus Rietberg to fully appreciate the exhibitions and engage with the art.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or signage upon arrival to understand the guidelines.
+Photography policies may vary, so it's best to check with museum staff or signage upon arrival to understand the guidelines.
 
 ### Are there guided tours?
 Information on guided tours is not specified. Check the official website for any available options or scheduled tours.
@@ -94,7 +94,7 @@ Information on guided tours is not specified. Check the official website for any
 Weekdays may offer a quieter experience, while weekends might be busier due to local visitors. 
 
 ### Is it wheelchair accessible?
-Accessibility features are not detailed, so it’s advisable to check the official website for specific accommodations.
+Accessibility features are not detailed, so it's advisable to check the official website for specific accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing options are not specified; visit the official website for current information on ticket availability.

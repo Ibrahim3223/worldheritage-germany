@@ -107,7 +107,7 @@ Access details may vary; check the official website or contact local authorities
 Typically, access to the bridge is free, but check the official website for any specific events or exhibitions that may require tickets.
 
 ### Are there restrooms and cafes?
-Nearby towns usually offer restrooms and dining options. It’s advisable to plan your visit accordingly.
+Nearby towns usually offer restrooms and dining options. It's advisable to plan your visit accordingly.
 
 ### What should I wear?
 Dress comfortably and consider the weather. Sturdy footwear is recommended for walking around the area.

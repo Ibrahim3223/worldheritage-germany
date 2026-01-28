@@ -105,7 +105,7 @@ Check the official website for specific accessibility information regarding the 
 As Zoologischer Garten Düsseldorf is no longer operating as a traditional zoo, there are no tickets available for purchase.
 
 ### Are there restrooms and cafes?
-Restroom availability may be limited, so it’s advisable to plan accordingly. Nearby attractions may offer dining options.
+Restroom availability may be limited, so it's advisable to plan accordingly. Nearby attractions may offer dining options.
 
 ### What should I wear?
 Comfortable clothing and shoes suitable for walking are recommended for your visit.

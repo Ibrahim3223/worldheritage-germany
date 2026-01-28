@@ -70,13 +70,13 @@ While in Cologne, visitors to Germania Judaica will find several nearby attracti
 
 2. **Museum Ludwig**: This modern art museum features an extensive collection of contemporary art, including works by renowned artists such as Pablo Picasso. It provides an interesting contrast to the historical focus of Germania Judaica.
 
-3. **Cologne City Museum**: Offering insights into the history and development of Cologne, this museum showcases artifacts and exhibits that trace the city’s evolution from its Roman origins to the present day.
+3. **Cologne City Museum**: Offering insights into the history and development of Cologne, this museum showcases artifacts and exhibits that trace the city's evolution from its Roman origins to the present day.
 
 4. **Roman-Germanic Museum**: Located near the Cathedral, this museum houses a collection of artifacts from Cologne's Roman past, providing a fascinating glimpse into the city's ancient history.
 
 5. **Rheinauhafen**: A revitalized waterfront area featuring modern architecture, restaurants, and shops, Rheinauhafen is a great place to relax and enjoy the views of the Rhine River.
 
-These attractions complement a visit to Germania Judaica, allowing for a well-rounded exploration of Cologne’s rich cultural landscape.
+These attractions complement a visit to Germania Judaica, allowing for a well-rounded exploration of Cologne's rich cultural landscape.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ To enhance your experience at Germania Judaica, consider these insider tips:
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider arriving early in the day or during the week. This can provide a more intimate atmosphere for exploring the library's resources.
 
-- **Engage with Staff**: The library staff are knowledgeable and passionate about the collection. Don’t hesitate to ask questions or seek recommendations for specific texts or resources related to your interests.
+- **Engage with Staff**: The library staff are knowledgeable and passionate about the collection. Don't hesitate to ask questions or seek recommendations for specific texts or resources related to your interests.
 
 ## Practical Information
 
@@ -104,7 +104,7 @@ When preparing for your visit to Germania Judaica, keep the following practical 
 A visit can typically last a few hours, especially if you plan to explore the collections thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for signage or inquire with library staff.
+Photography policies may vary; it's best to check for signage or inquire with library staff.
 
 ### Are there guided tours?
 Information on guided tours can be found on the official website. Be sure to check for any scheduled events.
@@ -119,9 +119,9 @@ The library strives to accommodate all visitors. For specific accessibility conc
 Check the official website for information regarding ticket purchases and any associated fees.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s best to check upon arrival or refer to the official website for details.
+Facilities may vary; it's best to check upon arrival or refer to the official website for details.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season. If you plan to spend extended time in the library, consider layers for varying temperatures. 
 
-In summary, Germania Judaica is an essential cultural institution in Cologne that offers unique insights into Jewish heritage. The library’s extensive resources and community engagement make it a must-visit destination for anyone interested in exploring the rich history of Jewish culture in Germany.
+In summary, Germania Judaica is an essential cultural institution in Cologne that offers unique insights into Jewish heritage. The library's extensive resources and community engagement make it a must-visit destination for anyone interested in exploring the rich history of Jewish culture in Germany.

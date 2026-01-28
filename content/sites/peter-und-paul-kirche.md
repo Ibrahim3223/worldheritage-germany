@@ -44,9 +44,9 @@ As you delve into the history of the Peter-und-Paul-Kirche, you'll appreciate ho
 
 ## Architecture and Features
 
-The architectural design of the Peter-und-Paul-Kirche reflects traditional styles commonly found in church buildings across Germany. The structure exudes a sense of solemnity and grace, typical of places of worship. While specific details about the building’s dimensions and design elements are not available, one can anticipate a harmonious blend of functional and aesthetic considerations in its layout.
+The architectural design of the Peter-und-Paul-Kirche reflects traditional styles commonly found in church buildings across Germany. The structure exudes a sense of solemnity and grace, typical of places of worship. While specific details about the building's dimensions and design elements are not available, one can anticipate a harmonious blend of functional and aesthetic considerations in its layout.
 
-Key features of the church may include stained glass windows, which often depict biblical scenes or local saints, allowing natural light to filter through and create a serene atmosphere inside. Additionally, the interior may showcase wooden beams, vaulted ceilings, and an altar that highlights the church’s spiritual focus. 
+Key features of the church may include stained glass windows, which often depict biblical scenes or local saints, allowing natural light to filter through and create a serene atmosphere inside. Additionally, the interior may showcase wooden beams, vaulted ceilings, and an altar that highlights the church's spiritual focus. 
 
 Visitors may also find various decorative elements that reflect the local craftsmanship and artistic traditions. These features not only serve a decorative purpose but also enhance the spiritual ambiance of the church, inviting contemplation and a deeper connection to the sacred.
 
@@ -90,7 +90,7 @@ To make the most of your visit to the Peter-und-Paul-Kirche, here are some insid
 
 When planning your visit to the Peter-und-Paul-Kirche, consider the following practical information:
 
-- **What to Bring**: It’s advisable to carry a light jacket or sweater, as churches can often be cooler than expected. A small bag for personal items and a notebook for reflections can also enhance your visit.
+- **What to Bring**: It's advisable to carry a light jacket or sweater, as churches can often be cooler than expected. A small bag for personal items and a notebook for reflections can also enhance your visit.
 
 - **Seasonal Considerations**: Depending on the time of year, be prepared for varying weather conditions. If visiting in winter, check that the church remains accessible during potential snow or icy conditions.
 
@@ -102,10 +102,10 @@ When planning your visit to the Peter-und-Paul-Kirche, consider the following pr
 Visitors typically spend about one to two hours at the Peter-und-Paul-Kirche, allowing time to explore its features and soak in the atmosphere.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific guidelines upon your arrival.
+Photography policies may vary, so it's best to check for any specific guidelines upon your arrival.
 
 ### Are there guided tours?
-While specific information about guided tours is not provided, check with local resources or the church’s official website for potential offerings.
+While specific information about guided tours is not provided, check with local resources or the church's official website for potential offerings.
 
 ### What's the best time to visit?
 Weekdays or early mornings generally offer a quieter experience, making it easier to reflect and enjoy the space.

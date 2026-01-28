@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Steindeckerbrücke (VIII) über den Haselbach, located in the picturesque Haselbachtal region of Germany, is a noteworthy example of local bridge architecture. This bridge serves as a vital link in the community, facilitating the movement of people and goods while also connecting the past with the present. The surrounding landscape, characterized by lush greenery and tranquil waters, provides a serene backdrop that enhances the bridge’s significance. As you explore this area, the Steindeckerbrücke offers insights into the engineering practices and local culture that have shaped the region. 
+The Steindeckerbrücke (VIII) über den Haselbach, located in the picturesque Haselbachtal region of Germany, is a noteworthy example of local bridge architecture. This bridge serves as a vital link in the community, facilitating the movement of people and goods while also connecting the past with the present. The surrounding landscape, characterized by lush greenery and tranquil waters, provides a serene backdrop that enhances the bridge's significance. As you explore this area, the Steindeckerbrücke offers insights into the engineering practices and local culture that have shaped the region. 
 
 Visiting the Steindeckerbrücke not only rewards travelers with an opportunity to appreciate its architectural form but also invites contemplation of the historical and social narratives that have unfolded along its span. Whether you are a bridge enthusiast, a history buff, or simply seeking a peaceful retreat in nature, this site promises a unique experience.
 

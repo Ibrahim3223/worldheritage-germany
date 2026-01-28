@@ -38,7 +38,7 @@ Kühnauer Park is an integral part of the cultural fabric of Dessau-Roßlau. Whi
 
 In a broader sense, parks like Kühnauer play a vital role in urban planning, contributing to biodiversity and offering a refuge for various species of flora and fauna. As cities grow and develop, the preservation of green spaces becomes increasingly important for maintaining ecological balance and providing recreational opportunities. Kühnauer Park exemplifies the commitment to creating accessible outdoor spaces that serve the needs of the community.
 
-The park’s design and layout reflect the principles of landscape architecture that prioritize the integration of natural elements into urban settings. While specific architectural features of the park are not highlighted, it is not unusual for parks to include pathways, seating areas, and flowerbeds that enhance the visitor experience. Such elements invite exploration and provide spaces for relaxation and social interaction.
+The park's design and layout reflect the principles of landscape architecture that prioritize the integration of natural elements into urban settings. While specific architectural features of the park are not highlighted, it is not unusual for parks to include pathways, seating areas, and flowerbeds that enhance the visitor experience. Such elements invite exploration and provide spaces for relaxation and social interaction.
 
 ## Architecture and Features
 

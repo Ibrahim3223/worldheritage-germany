@@ -28,15 +28,15 @@ image_srcset:
 
 The Still Eilhard Mitscherlich statue, located at Humboldt University of Berlin, is a striking homage to one of Germany's influential chemists. Eilhard Mitscherlich, known for his work in crystallography and the discovery of isomorphism, is commemorated through this statue, which stands prominently in the university's campus. Situated in Bezirk Mitte, the heart of Berlin, this statue serves as a focal point of interest for students, scholars, and visitors alike, bridging the gap between the past and present in the realm of science and education.
 
-This statue not only celebrates Mitscherlich’s contributions to chemistry but also invites reflection on the role of higher education in shaping modern scientific thought. As you approach the statue, you will find yourself surrounded by the vibrant life of the university—a place where knowledge and innovation thrive. Whether you are a history buff, a science enthusiast, or simply a traveler looking to explore Berlin's rich academic landscape, a visit to this statue promises an enriching experience.
+This statue not only celebrates Mitscherlich's contributions to chemistry but also invites reflection on the role of higher education in shaping modern scientific thought. As you approach the statue, you will find yourself surrounded by the vibrant life of the university—a place where knowledge and innovation thrive. Whether you are a history buff, a science enthusiast, or simply a traveler looking to explore Berlin's rich academic landscape, a visit to this statue promises an enriching experience.
 
 ## History and Significance
 
 Eilhard Mitscherlich, born in 1794, played a pivotal role in the development of modern chemistry. His research laid foundational principles that continue to underpin scientific inquiry to this day. Not only did Mitscherlich discover isomorphism, which describes the phenomenon of different substances sharing the same crystal structure, but he also contributed significantly to the understanding of chemical compounds and their relationships.
 
-The statue itself serves as a tribute to Mitscherlich’s legacy within the context of Humboldt University, which has a long tradition of fostering intellectual growth and scientific advancement. Established in 1810, the university was instrumental in shaping the landscape of higher education in Germany and beyond. The inclusion of Mitscherlich's statue on campus reflects the university's commitment to honoring those who have significantly impacted science and education.
+The statue itself serves as a tribute to Mitscherlich's legacy within the context of Humboldt University, which has a long tradition of fostering intellectual growth and scientific advancement. Established in 1810, the university was instrumental in shaping the landscape of higher education in Germany and beyond. The inclusion of Mitscherlich's statue on campus reflects the university's commitment to honoring those who have significantly impacted science and education.
 
-This statue is not just an artistic representation; it is a reminder of the importance of academic pursuit and the contributions of individuals who have shaped various disciplines. As visitors engage with the statue, it sparks conversations about the evolution of scientific thought and the continuing relevance of such work in today’s world.
+This statue is not just an artistic representation; it is a reminder of the importance of academic pursuit and the contributions of individuals who have shaped various disciplines. As visitors engage with the statue, it sparks conversations about the evolution of scientific thought and the continuing relevance of such work in today's world.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The Still Eilhard Mitscherlich statue is notable for its classical design, chara
 
 The statue is set against the backdrop of the university's historic architecture, which enhances its visual appeal. This setting not only serves to elevate the statue but also embodies the academic spirit of Humboldt University. The materials used in the statue contribute to its durability and timelessness, allowing it to withstand the test of time while remaining a significant landmark on campus.
 
-As you approach the statue, the intricate details become apparent— from the depiction of Mitscherlich's attire to the thoughtful expression that captures his intellectual prowess. Surrounding the statue, the university’s green spaces and pathways create a serene environment, perfect for contemplation and appreciation of both the art and the legacy it represents.
+As you approach the statue, the intricate details become apparent— from the depiction of Mitscherlich's attire to the thoughtful expression that captures his intellectual prowess. Surrounding the statue, the university's green spaces and pathways create a serene environment, perfect for contemplation and appreciation of both the art and the legacy it represents.
 
 ## Visiting Information
 
@@ -60,17 +60,17 @@ While there are no specific facilities directly associated with the statue, the 
 
 2. **Museum für Naturkunde**: Located a short distance from the university, this natural history museum houses an extensive collection of specimens and exhibits related to the natural sciences, offering a fascinating insight into the world of biology and geology.
 
-3. **Berlin Cathedral**: A stunning architectural marvel, the Berlin Cathedral is nearby and provides a glimpse into the city’s history and religious heritage. Visitors can explore the interior and, for those feeling adventurous, climb to the dome for panoramic views of Berlin.
+3. **Berlin Cathedral**: A stunning architectural marvel, the Berlin Cathedral is nearby and provides a glimpse into the city's history and religious heritage. Visitors can explore the interior and, for those feeling adventurous, climb to the dome for panoramic views of Berlin.
 
 4. **Leopoldplatz**: This vibrant square is not far from the university and serves as a social hub where locals gather, making it a perfect spot to relax and experience the everyday life of Berliners.
 
-5. **Brandenburg Gate**: Just a short journey away, this iconic symbol of Berlin is a must-visit site, steeped in history and a central part of the city’s cultural identity.
+5. **Brandenburg Gate**: Just a short journey away, this iconic symbol of Berlin is a must-visit site, steeped in history and a central part of the city's cultural identity.
 
 ## Insider Tips
 
-For the best photography opportunities, visit the Still Eilhard Mitscherlich statue early in the morning or later in the afternoon when the sunlight casts softer shadows and highlights the statue’s features. During peak hours, the area may become crowded with students and tourists, so arriving early can provide a quieter atmosphere for contemplation and taking pictures.
+For the best photography opportunities, visit the Still Eilhard Mitscherlich statue early in the morning or later in the afternoon when the sunlight casts softer shadows and highlights the statue's features. During peak hours, the area may become crowded with students and tourists, so arriving early can provide a quieter atmosphere for contemplation and taking pictures.
 
-Don’t hesitate to explore the surrounding campus, where you can discover additional statues and historical markers that contribute to the educational landscape of Humboldt University. Engaging with the local student body can also offer unique insights into the university's culture and history.
+Don't hesitate to explore the surrounding campus, where you can discover additional statues and historical markers that contribute to the educational landscape of Humboldt University. Engaging with the local student body can also offer unique insights into the university's culture and history.
 
 ## Practical Information
 

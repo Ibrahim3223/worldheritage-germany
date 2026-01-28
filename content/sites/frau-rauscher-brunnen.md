@@ -28,17 +28,17 @@ image_srcset:
 
 The Frau Rauscher-Brunnen, a captivating fountain located in the heart of Frankfurt am Main, Germany, presents a unique blend of artistry and cultural significance. This statue serves as a focal point within the urban landscape, inviting visitors to pause and appreciate the craftsmanship that adorns this public space. Its coordinates place it conveniently within reach of both locals and tourists, making it an ideal stop while exploring the vibrant city. 
 
-As a symbol of local folklore, the fountain is not merely a decorative element but also a representation of the stories and legends that have shaped the cultural fabric of Frankfurt. Visitors can expect to discover a piece of the city’s history and enjoy moments of reflection beside this iconic statue. Whether you are an art enthusiast, a history buff, or simply in search of a serene spot to unwind, the Frau Rauscher-Brunnen promises a memorable experience.
+As a symbol of local folklore, the fountain is not merely a decorative element but also a representation of the stories and legends that have shaped the cultural fabric of Frankfurt. Visitors can expect to discover a piece of the city's history and enjoy moments of reflection beside this iconic statue. Whether you are an art enthusiast, a history buff, or simply in search of a serene spot to unwind, the Frau Rauscher-Brunnen promises a memorable experience.
 
 ## History and Significance
 
-The origins of the Frau Rauscher-Brunnen are deeply rooted in the local lore of Frankfurt. The statue is named after a legendary figure, Frau Rauscher, who is often depicted as a mysterious and enchanting woman associated with the city’s history. While specific dates regarding its establishment are not documented, the fountain has become an integral part of the community, symbolizing not only artistic expression but also the intertwining of myth and reality.
+The origins of the Frau Rauscher-Brunnen are deeply rooted in the local lore of Frankfurt. The statue is named after a legendary figure, Frau Rauscher, who is often depicted as a mysterious and enchanting woman associated with the city's history. While specific dates regarding its establishment are not documented, the fountain has become an integral part of the community, symbolizing not only artistic expression but also the intertwining of myth and reality.
 
 Throughout the years, the fountain has likely witnessed various events, from social gatherings to celebrations, making it a silent observer of Frankfurt's evolution. Its significance extends beyond mere aesthetics; it embodies the spirit of the city and serves as a reminder of the rich narratives that permeate its streets. The fountain stands as a cultural landmark, drawing attention to the importance of public art in urban environments and fostering a sense of identity among residents and visitors alike.
 
 ## Architecture and Features
 
-The architectural design of the Frau Rauscher-Brunnen is characterized by its elegant form and intricate details that reflect the artistic styles prevalent during its creation. The statue itself is a prominent feature, capturing the essence of the legendary Frau Rauscher in a way that is both captivating and thought-provoking. The craftsmanship involved in the fountain's construction showcases the skilled artistry that has contributed to Frankfurt’s architectural heritage.
+The architectural design of the Frau Rauscher-Brunnen is characterized by its elegant form and intricate details that reflect the artistic styles prevalent during its creation. The statue itself is a prominent feature, capturing the essence of the legendary Frau Rauscher in a way that is both captivating and thought-provoking. The craftsmanship involved in the fountain's construction showcases the skilled artistry that has contributed to Frankfurt's architectural heritage.
 
 The fountain is designed to be both functional and ornamental, serving as a source of water while enhancing the public space around it. Its presence invites contemplation, making it an ideal spot for relaxation amidst the bustling city. Visitors will appreciate the delicate features of the statue and the overall composition of the fountain, which harmoniously blends with its surroundings.
 
@@ -53,7 +53,7 @@ While specific hours of operation and entry fees may vary, it is advisable to ch
 Located in the vicinity of the Frau Rauscher-Brunnen, several notable attractions enhance the experience for visitors:
 
 1. **Römer** - The historic town hall of Frankfurt, known for its stunning medieval architecture and vibrant squares.
-2. **Frankfurt Cathedral (Kaiserdom)** - A magnificent Gothic cathedral that towers above the skyline, offering insight into the city’s religious history.
+2. **Frankfurt Cathedral (Kaiserdom)** - A magnificent Gothic cathedral that towers above the skyline, offering insight into the city's religious history.
 3. **Städel Museum** - An art museum housing an impressive collection of European art from the Middle Ages to contemporary works.
 4. **Palmengarten** - A beautiful botanical garden that features a variety of plant species and serene walking paths.
 5. **Main Tower** - An iconic skyscraper that offers panoramic views of Frankfurt from its observation deck.

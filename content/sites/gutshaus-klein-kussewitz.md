@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gutshaus Klein Kussewitz is an enchanting manor house located in the quaint village of Klein Kussewitz in the Bentwisch municipality, situated within the Landkreis Rostock region of Germany. This historical estate captures the essence of rural German architecture and serves as a reminder of the country’s noble heritage. Surrounded by serene landscapes, the manor house is a remarkable representation of the region's agricultural past and the lifestyle of the aristocracy that once thrived here. 
+Gutshaus Klein Kussewitz is an enchanting manor house located in the quaint village of Klein Kussewitz in the Bentwisch municipality, situated within the Landkreis Rostock region of Germany. This historical estate captures the essence of rural German architecture and serves as a reminder of the country's noble heritage. Surrounded by serene landscapes, the manor house is a remarkable representation of the region's agricultural past and the lifestyle of the aristocracy that once thrived here. 
 
 As you approach this stately building, the charm of its classic design invites you to explore its storied halls and lush surroundings. Gutshaus Klein Kussewitz is not only a significant cultural landmark but also a fascinating glimpse into the architectural styles that define northern Germany. Visitors can expect to uncover the layers of history that echo through its walls, all while enjoying the tranquil atmosphere that permeates this picturesque locale.
 
@@ -75,7 +75,7 @@ To make the most of your visit to Gutshaus Klein Kussewitz, consider the followi
 When visiting Gutshaus Klein Kussewitz, it is essential to be prepared for a comfortable experience:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may wish to explore the grounds. A camera is also a must for capturing the beauty of the estate.
-- **Seasonal Considerations**: During colder months, dress in layers to ensure comfort while exploring both indoors and outdoors. Spring and summer visits will benefit from lighter attire, but don’t forget sun protection for outdoor exploration.
+- **Seasonal Considerations**: During colder months, dress in layers to ensure comfort while exploring both indoors and outdoors. Spring and summer visits will benefit from lighter attire, but don't forget sun protection for outdoor exploration.
 
 ## Frequently Asked Questions
 

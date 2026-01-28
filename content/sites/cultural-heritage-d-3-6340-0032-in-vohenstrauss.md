@@ -38,7 +38,7 @@ Cultural heritage D-3-6340-0032 showcases the architectural characteristics typi
 
 Visitors can expect to observe the remnants of walls and fortifications that may have served as critical defense mechanisms. The layout and materials used in construction would have been determined by the need for durability and functionality, reflecting the military engineering practices of the time. The scale of the fortification likely suggests its significance as a local defense point, indicating its role in safeguarding the surrounding community.
 
-As you explore the site, you may notice features that highlight both the defensive capabilities and the aesthetic considerations of the period. These could include the remnants of towers, gates, and possibly other architectural elements designed to enhance both security and the fortification’s imposing presence. While specific features are not detailed, the fortification represents the typical design principles of military architecture from its era.
+As you explore the site, you may notice features that highlight both the defensive capabilities and the aesthetic considerations of the period. These could include the remnants of towers, gates, and possibly other architectural elements designed to enhance both security and the fortification's imposing presence. While specific features are not detailed, the fortification represents the typical design principles of military architecture from its era.
 
 ## Visiting Information
 

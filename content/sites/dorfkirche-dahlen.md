@@ -44,7 +44,7 @@ Dorfkirche Dahlen, as a church building, showcases architectural elements typica
 
 The exterior of the church may exhibit local materials and craftsmanship, reflecting the cultural influences and building practices of the area. The design likely emphasizes verticality, drawing the eye upward and creating a sense of spiritual aspiration. Inside, visitors may encounter elements such as stained glass windows, wooden pews, and an altar that highlight the religious significance of the space.
 
-Notable features, although not explicitly described, could include historical artifacts, religious iconography, and decorative elements that serve to enhance the worship experience. These aspects not only contribute to the church’s aesthetic appeal but also provide insight into the artistic expressions of faith practiced by the local community.
+Notable features, although not explicitly described, could include historical artifacts, religious iconography, and decorative elements that serve to enhance the worship experience. These aspects not only contribute to the church's aesthetic appeal but also provide insight into the artistic expressions of faith practiced by the local community.
 
 ## Visiting Information
 

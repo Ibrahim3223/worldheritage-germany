@@ -38,7 +38,7 @@ By visiting this monument, one can appreciate not only the engineering marvels o
 
 ## Architecture and Features
 
-The Zeppelindenkmal is characterized by its simple yet impactful design. Although detailed architectural specifications are not provided, the monument's structure is likely to reflect the style of commemorative monuments found throughout Germany, emphasizing both functionality and aesthetics. Visitors can expect to encounter a well-maintained site that showcases the monument’s significance through its design and placement.
+The Zeppelindenkmal is characterized by its simple yet impactful design. Although detailed architectural specifications are not provided, the monument's structure is likely to reflect the style of commemorative monuments found throughout Germany, emphasizing both functionality and aesthetics. Visitors can expect to encounter a well-maintained site that showcases the monument's significance through its design and placement.
 
 The location of the Zeppelindenkmal at Kornsand adds to its allure. Surrounded by the natural beauty of the Trebur region, the site offers a sense of tranquility, making it an ideal place for reflection. The monument is likely adorned with inscriptions or plaques that detail its significance, providing context for its importance in aviation history. Observing the monument from different angles can provide varying perspectives, enhancing the visitor experience.
 

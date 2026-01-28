@@ -64,7 +64,7 @@ While exploring Monschau Castle, visitors will find several nearby attractions t
 
 3. **Eifel National Park**: A short drive from Monschau, this national park offers stunning nature trails, diverse wildlife, and an opportunity to explore the natural beauty of the Eifel region.
 
-4. **Red House (Rotes Haus)**: An important cultural site in Monschau, this museum provides insight into the town’s textile industry and local history.
+4. **Red House (Rotes Haus)**: An important cultural site in Monschau, this museum provides insight into the town's textile industry and local history.
 
 5. **Hiking Trails**: The surrounding area is rich with hiking opportunities, allowing visitors to explore the scenic vistas and wooded landscapes of the Eifel region.
 

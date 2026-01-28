@@ -68,7 +68,7 @@ Erlöserkirche is strategically located near several attractions that enhance th
 
 4. **The Siebengebirge Nature Park**: A vast area for hiking and nature exploration, showcasing the natural beauty of the region.
 
-5. **Bad Honnef Town Center**: A vibrant area filled with shops, restaurants, and local attractions that reflect the town’s character and community spirit.
+5. **Bad Honnef Town Center**: A vibrant area filled with shops, restaurants, and local attractions that reflect the town's character and community spirit.
 
 ## Insider Tips
 

@@ -97,7 +97,7 @@ About an hour is typically sufficient to explore the Gatehouse and its surroundi
 Yes, photography is generally permitted, allowing you to capture the architectural beauty of the Gatehouse.
 
 ### Are there guided tours?
-Currently, specific information about guided tours is not available. It’s best to check the official website for any updates.
+Currently, specific information about guided tours is not available. It's best to check the official website for any updates.
 
 ### What's the best time to visit?
 Visiting during daylight hours is ideal, with early mornings being particularly peaceful.
@@ -109,7 +109,7 @@ Accessibility details are not specified; check the official website for current 
 Information about online ticket purchases is not provided. Please refer to the official website for details.
 
 ### Are there restrooms and cafes?
-Details about restrooms and cafes are not specified. It’s advisable to plan ahead and check local amenities.
+Details about restrooms and cafes are not specified. It's advisable to plan ahead and check local amenities.
 
 ### What should I wear?
 Dress comfortably and consider weather conditions. Layering is recommended to adapt to changing temperatures.

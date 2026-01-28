@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gardelegen Castle is an intriguing historical landmark located in the town of Gardelegen in Germany. Its striking architecture and storied past draw visitors looking to explore the remnants of a bygone era. The castle serves as a reminder of the region's rich heritage and offers a glimpse into the architectural styles prevalent in medieval Germany. As you approach this impressive structure, you’ll find yourself enveloped in a sense of curiosity about the lives that unfolded within its walls.
+Gardelegen Castle is an intriguing historical landmark located in the town of Gardelegen in Germany. Its striking architecture and storied past draw visitors looking to explore the remnants of a bygone era. The castle serves as a reminder of the region's rich heritage and offers a glimpse into the architectural styles prevalent in medieval Germany. As you approach this impressive structure, you'll find yourself enveloped in a sense of curiosity about the lives that unfolded within its walls.
 
 Situated in the picturesque landscape of the Saxony-Anhalt region, Gardelegen Castle has stood the test of time, embodying the cultural significance of the area. Its presence not only enhances the charm of Gardelegen but also acts as a focal point for those interested in history and architecture. With its well-preserved features and the stories they tell, Gardelegen Castle promises an enriching experience for visitors.
 

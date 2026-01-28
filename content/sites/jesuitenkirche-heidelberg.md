@@ -3,7 +3,7 @@ title: "Jesuitenkirche (Heidelberg)"
 site_name: "Jesuitenkirche (Heidelberg)"
 date: 2026-01-26
 draft: false
-description: "The Jesuitenkirche, or Jesuit Church, in Heidelberg, Germany, is a remarkable example of ecclesiastical architecture that reflects the city’s rich..."
+description: "The Jesuitenkirche, or Jesuit Church, in Heidelberg, Germany, is a remarkable example of ecclesiastical architecture that reflects the city's rich..."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Jesuitenkirche, or Jesuit Church, in Heidelberg, Germany, is a remarkable example of ecclesiastical architecture that reflects the city’s rich historical and cultural landscape. Located in the heart of Heidelberg, this church serves not only as a place of worship but also as a significant reminder of the Jesuit order's influence in the region during the Counter-Reformation. The church's serene atmosphere and elegant design draw visitors from around the world, making it an essential stop for those exploring the city's heritage.
+The Jesuitenkirche, or Jesuit Church, in Heidelberg, Germany, is a remarkable example of ecclesiastical architecture that reflects the city's rich historical and cultural landscape. Located in the heart of Heidelberg, this church serves not only as a place of worship but also as a significant reminder of the Jesuit order's influence in the region during the Counter-Reformation. The church's serene atmosphere and elegant design draw visitors from around the world, making it an essential stop for those exploring the city's heritage.
 
-Heidelberg itself is steeped in history, known for its picturesque old town, the iconic Heidelberg Castle, and its vibrant student population fueled by one of Europe’s oldest universities. The Jesuitenkirche stands as a testament to the city’s diverse architectural styles, showcasing the Baroque era's grandeur while harmonizing with its surroundings. Visitors to the church can expect to encounter not only its spiritual essence but also a deep connection to the historical narratives that have shaped Heidelberg over the centuries.
+Heidelberg itself is steeped in history, known for its picturesque old town, the iconic Heidelberg Castle, and its vibrant student population fueled by one of Europe's oldest universities. The Jesuitenkirche stands as a testament to the city's diverse architectural styles, showcasing the Baroque era's grandeur while harmonizing with its surroundings. Visitors to the church can expect to encounter not only its spiritual essence but also a deep connection to the historical narratives that have shaped Heidelberg over the centuries.
 
 As you enter the Jesuitenkirche, prepare to immerse yourself in a space that encapsulates both artistic beauty and historical significance. Whether you are drawn to its architectural intricacies or the tranquil ambiance, this church promises an enriching experience that complements your exploration of Heidelberg.
 
@@ -58,7 +58,7 @@ Before planning your visit, it is advisable to check the official website for cu
 
 When visiting the Jesuitenkirche, allocate sufficient time to fully appreciate its architecture and ambiance. A visit typically lasts around an hour, allowing you to explore the interior, take in the artistic details, and reflect in the tranquil atmosphere. The best times to visit are during weekdays when the crowds are thinner, offering a more serene experience.
 
-As you explore, be mindful of the church’s ongoing use for religious services, which may affect your visit. It is recommended to check the schedule for any services that might coincide with your planned visit.
+As you explore, be mindful of the church's ongoing use for religious services, which may affect your visit. It is recommended to check the schedule for any services that might coincide with your planned visit.
 
 ## Nearby Attractions
 

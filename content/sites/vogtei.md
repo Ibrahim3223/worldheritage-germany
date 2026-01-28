@@ -34,7 +34,7 @@ The city hall of Vogtei stands as a central point in Bergrheinfeld, embodying th
 
 The cultural significance of Vogtei extends beyond its function as a government building. City halls like this one often serve as venues for community gatherings, celebrations, and important civic ceremonies. They can be seen as a reflection of the values and organization of the local society throughout the years. The architecture and style of Vogtei likely echo historical trends in Bavarian design, showcasing how civic structures were influenced by the social and political climate of their times.
 
-While the exact historical milestones of Vogtei might not be documented here, the city hall remains an integral part of Bergrheinfeld’s identity, offering a connection to the region's heritage and community spirit. Visitors to the site can appreciate its role in the ongoing story of local governance and cultural tradition, inviting further exploration of the narratives that shape this part of Bavaria.
+While the exact historical milestones of Vogtei might not be documented here, the city hall remains an integral part of Bergrheinfeld's identity, offering a connection to the region's heritage and community spirit. Visitors to the site can appreciate its role in the ongoing story of local governance and cultural tradition, inviting further exploration of the narratives that shape this part of Bavaria.
 
 ## Architecture and Features
 

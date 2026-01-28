@@ -36,7 +36,7 @@ The history of the Ernestinenschule is intertwined with the educational landscap
 
 Educators and students alike have passed through its doors, contributing to a legacy that emphasizes the importance of learning as a pillar of civilization. The school's establishment reflects the growing recognition of education's vital role in societal development during various historical periods. The Ernestinenschule is not merely a building; it embodies the aspirations of generations aimed at enlightenment and knowledge.
 
-As part of Lübeck's Old City, which is recognized as a UNESCO World Heritage Site, the Ernestinenschule also plays a role in the broader narrative of the city’s historical significance. Lübeck was once a leading city of the Hanseatic League, a powerful trading alliance in Northern Europe, and its institutions reflect the city's historical wealth and cultural exchanges. The Ernestinenschule contributes to the understanding of how education has evolved in tandem with Lübeck's growth as a cultural and economic hub.
+As part of Lübeck's Old City, which is recognized as a UNESCO World Heritage Site, the Ernestinenschule also plays a role in the broader narrative of the city's historical significance. Lübeck was once a leading city of the Hanseatic League, a powerful trading alliance in Northern Europe, and its institutions reflect the city's historical wealth and cultural exchanges. The Ernestinenschule contributes to the understanding of how education has evolved in tandem with Lübeck's growth as a cultural and economic hub.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ Visitors can expect to see features that encourage interaction and engagement, v
 
 ## Visiting Information
 
-When planning a visit to the Ernestinenschule, it’s essential to consider how to reach this historic site and what to expect upon arrival. Located in Lübeck's Old City, the school is accessible via various modes of transportation, including public transit options that connect to the city center. Visitors are encouraged to check the official website for current information regarding hours of operation and any potential entry fees.
+When planning a visit to the Ernestinenschule, it's essential to consider how to reach this historic site and what to expect upon arrival. Located in Lübeck's Old City, the school is accessible via various modes of transportation, including public transit options that connect to the city center. Visitors are encouraged to check the official website for current information regarding hours of operation and any potential entry fees.
 
 As you explore the Ernestinenschule, take your time to absorb the atmosphere and the significance of the space. A visit may typically last around an hour, allowing ample time to appreciate the architecture and reflect on the educational legacy it represents. The best times to visit are usually during weekdays when the school is in session, providing a vibrant glimpse into contemporary educational practices.
 
@@ -86,7 +86,7 @@ Visitors to the Ernestinenschule should come prepared for a culturally enriching
 
 - **Seasonal Considerations**: Depending on the time of year, be prepared for varying weather conditions. Layers are recommended for cooler months, while summer visitors should bring sun protection.
 
-- **Local Etiquette**: As this site functions as an educational institution, it’s important to maintain a respectful demeanor, especially during school hours.
+- **Local Etiquette**: As this site functions as an educational institution, it's important to maintain a respectful demeanor, especially during school hours.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ Visitors to the Ernestinenschule should come prepared for a culturally enriching
 A visit typically takes around one hour, allowing enough time to appreciate the architecture and historical context.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any restrictions, especially indoors.
+Photography policies may vary; it's best to check for any restrictions, especially indoors.
 
 ### Are there guided tours?
 Check the official website for information on guided tour availability and schedules.

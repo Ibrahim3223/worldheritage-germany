@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 When visiting Langweiler, it's a good idea to bring the essentials: water, snacks, and a camera to document your experience. Depending on the season, pack additional layers to adjust to changing weather conditions. 
 
-The site may have limited facilities, so plan accordingly for restroom breaks and meals. If you’re looking for refreshments, nearby Aldenhoven offers various dining options.
+The site may have limited facilities, so plan accordingly for restroom breaks and meals. If you're looking for refreshments, nearby Aldenhoven offers various dining options.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ The site may have limited facilities, so plan accordingly for restroom breaks an
 A visit typically lasts around two hours, allowing time to explore the site and engage with the information provided.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any signs indicating restricted areas.
+Photography is generally permitted, but it's advisable to respect any signs indicating restricted areas.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which can enrich your experience by providing deeper insights into the site.
@@ -97,7 +97,7 @@ Check the official website for specific accessibility information as facilities 
 Check the official website for details regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the site, so it’s advisable to plan for restroom breaks and meals in nearby areas.
+Facilities may be limited at the site, so it's advisable to plan for restroom breaks and meals in nearby areas.
 
 ### What should I wear?
 Dress comfortably and wear sturdy shoes, as the terrain may be uneven. Consider layering for weather changes. 

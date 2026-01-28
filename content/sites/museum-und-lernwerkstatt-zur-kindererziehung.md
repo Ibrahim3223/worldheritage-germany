@@ -74,7 +74,7 @@ To make the most of your visit to the Museum und Lernwerkstatt zur Kindererziehu
 
 ## Practical Information
 
-Before visiting the Museum und Lernwerkstatt zur Kindererziehung, it’s wise to consider what to bring. Comfortable shoes are recommended, as you may spend a fair amount of time walking and exploring. If traveling with children, consider bringing snacks or water, although local cafes may be available.
+Before visiting the Museum und Lernwerkstatt zur Kindererziehung, it's wise to consider what to bring. Comfortable shoes are recommended, as you may spend a fair amount of time walking and exploring. If traveling with children, consider bringing snacks or water, although local cafes may be available.
 
 Seasonal considerations can also enhance your experience. If visiting during school breaks or holiday seasons, expect families and children to be present, which can create a lively atmosphere. Checking the official website for any seasonal events or special exhibitions will help you plan your visit accordingly.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Bad Kissingen, a charming spa town in Bavaria, Germany, lies the Sacred-Heart Church, a church building that serves as a focal point for both the local community and visitors alike. This remarkable structure is not only a place of worship but also a reflection of the town's cultural and architectural heritage. The church's serene environment invites contemplation, while its design and history offer a glimpse into the artistic trends of the region.
 
-Bad Kissingen is known for its healing springs and therapeutic mineral waters, attracting visitors seeking relaxation and rejuvenation. The Sacred-Heart Church enhances this tranquil atmosphere, providing a spiritual sanctuary amidst the vibrant social and wellness activities of the town. As you explore Bad Kissingen, the church stands out as a significant landmark, enriching your understanding of the area’s religious and cultural tapestry.
+Bad Kissingen is known for its healing springs and therapeutic mineral waters, attracting visitors seeking relaxation and rejuvenation. The Sacred-Heart Church enhances this tranquil atmosphere, providing a spiritual sanctuary amidst the vibrant social and wellness activities of the town. As you explore Bad Kissingen, the church stands out as a significant landmark, enriching your understanding of the area's religious and cultural tapestry.
 
 Visitors to this venue can expect to immerse themselves in the peaceful ambiance of the church while appreciating its artistic elements. The Sacred-Heart Church is more than just a religious site; it embodies the spirit of Bad Kissingen, making it a must-visit location for those interested in heritage and community life.
 
@@ -94,7 +94,7 @@ Seasonal considerations may affect your experience. Spring and summer offer lush
 A visit to the Sacred-Heart Church typically takes about one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s advisable to be respectful of others and any ongoing services.
+Photography is usually permitted, but it's advisable to be respectful of others and any ongoing services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may be available during your visit.

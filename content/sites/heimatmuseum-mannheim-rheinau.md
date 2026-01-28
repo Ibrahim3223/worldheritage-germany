@@ -36,7 +36,7 @@ In an age where globalization can overshadow local narratives, the museum stands
 
 The Heimatmuseum Mannheim-Rheinau features a design that reflects its purpose as a cultural institution. While specific architectural details may not be outlined, the museum is characterized by its welcoming atmosphere, making it accessible for all visitors. The interior is thoughtfully arranged to facilitate a smooth flow through various exhibits, allowing guests to engage with the displays at their own pace.
 
-Exhibits within the museum are thoughtfully curated, showcasing artifacts that represent the daily lives, customs, and traditions of the Mannheim-Rheinau community. The layout encourages exploration and discovery, inviting visitors to delve deeper into the narratives presented. Whether it’s through photographs, traditional clothing, or household items, each exhibit tells a story that adds depth to the visitor's understanding of the region's history.
+Exhibits within the museum are thoughtfully curated, showcasing artifacts that represent the daily lives, customs, and traditions of the Mannheim-Rheinau community. The layout encourages exploration and discovery, inviting visitors to delve deeper into the narratives presented. Whether it's through photographs, traditional clothing, or household items, each exhibit tells a story that adds depth to the visitor's understanding of the region's history.
 
 In addition to permanent exhibits, the museum may host temporary displays that highlight specific themes or events, ensuring that there is always something new for return visitors to experience. This dynamic approach to curation keeps the museum relevant and engaging, appealing to a wide audience.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Freiburg Minster, an impressive Roman Catholic cathedral located in the heart of Freiburg im Breisgau, is a striking embodiment of Gothic architecture and a symbol of the city's cultural and historical significance. Dominating the skyline with its tall spire, the Minster is not just a house of worship but a centerpiece of community life in this vibrant city in southwestern Germany. The cathedral's intricate details and majestic presence draw visitors from around the world, making it a must-see for anyone exploring the region of Baden-Württemberg.
 
-As you approach Freiburg Minster, its grandeur becomes evident, reflecting centuries of architecture, artistry, and devotion. The cathedral serves as both a spiritual hub and a testament to the city’s resilience and history. Visitors can expect to be enveloped in an atmosphere of reverence and awe, as they explore the various elements that contribute to its significance, from its storied past to the artistry of its design.
+As you approach Freiburg Minster, its grandeur becomes evident, reflecting centuries of architecture, artistry, and devotion. The cathedral serves as both a spiritual hub and a testament to the city's resilience and history. Visitors can expect to be enveloped in an atmosphere of reverence and awe, as they explore the various elements that contribute to its significance, from its storied past to the artistry of its design.
 
 This guide will provide a comprehensive overview of Freiburg Minster, highlighting its history, architectural features, practical visitor information, and nearby attractions to enhance your experience in this charming city.
 
@@ -38,7 +38,7 @@ Freiburg Minster's history is interwoven with the development of Freiburg im Bre
 
 While specific dates of construction are not detailed, the cathedral's design reflects the characteristics of the Gothic style, which became prominent in Europe during the 12th to 16th centuries. Its intricate façade, soaring arches, and detailed sculptures illustrate the craftsmanship of the period. The Minster has witnessed significant historical events, serving as a backdrop for local traditions and gatherings, and has played a vital role in the spiritual life of Freiburg's residents.
 
-The cathedral's significance extends beyond its architectural beauty; it is also a focal point for local festivals and religious ceremonies. It represents the heart of Freiburg’s identity, attracting pilgrims and tourists alike who come to appreciate its history and the stories it tells. The Minster has been a site of reflection, celebration, and community engagement, making it an integral part of Freiburg's cultural landscape.
+The cathedral's significance extends beyond its architectural beauty; it is also a focal point for local festivals and religious ceremonies. It represents the heart of Freiburg's identity, attracting pilgrims and tourists alike who come to appreciate its history and the stories it tells. The Minster has been a site of reflection, celebration, and community engagement, making it an integral part of Freiburg's cultural landscape.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ A visit to Freiburg Minster typically takes about one to two hours, allowing amp
 Photography is generally permitted, but be respectful of worshippers and any specific guidelines in place.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide deeper insights into the cathedral’s history and features.
+Check the official website for information on guided tours, which can provide deeper insights into the cathedral's history and features.
 
 ### What's the best time to visit?
 Early mornings or late afternoons during weekdays are ideal for a quieter experience.
@@ -111,7 +111,7 @@ The cathedral is generally accessible, but check for specific accommodations or 
 Check the official website for information regarding ticket sales and any requirements for entry.
 
 ### Are there restrooms and cafes?
-There are facilities available nearby, but options may vary. It’s advisable to plan accordingly.
+There are facilities available nearby, but options may vary. It's advisable to plan accordingly.
 
 ### What should I wear?
-Dress respectfully and comfortably, considering the cathedral’s nature as both a tourist site and a place of worship.
+Dress respectfully and comfortably, considering the cathedral's nature as both a tourist site and a place of worship.

@@ -36,7 +36,7 @@ The Neanderkirche holds a significant place in the cultural landscape of Düssel
 
 As part of the Altstadt, often referred to as the "longest bar in the world" due to its numerous bars and pubs, the church also reflects the juxtaposition of modern social life with historical architecture. The surrounding neighborhood, rich with narrow streets and lively squares, creates a unique atmosphere where the Neanderkirche stands out as a quiet refuge amid the hustle and bustle.
 
-The church has become a gathering place for ceremonies, community events, and concerts, further solidifying its role as a hub of local culture. Its significance extends beyond mere architecture; it represents the enduring faith of the community and the ongoing relevance of such spaces in today’s society. 
+The church has become a gathering place for ceremonies, community events, and concerts, further solidifying its role as a hub of local culture. Its significance extends beyond mere architecture; it represents the enduring faith of the community and the ongoing relevance of such spaces in today's society. 
 
 ## Architecture and Features
 
@@ -72,7 +72,7 @@ While visiting Neanderkirche, several nearby attractions can enrich your experie
 
 For photography enthusiasts, the Neanderkirche offers a variety of angles to capture its architectural beauty. Early morning light can create a soft glow around the building, making for stunning photographs. Additionally, consider visiting during less busy times to avoid crowds, allowing for unobstructed shots.
 
-If you wish to engage with the local community or participate in events, check the church’s schedule for any upcoming services or concerts. These experiences can deepen your appreciation of the cultural significance of the site.
+If you wish to engage with the local community or participate in events, check the church's schedule for any upcoming services or concerts. These experiences can deepen your appreciation of the cultural significance of the site.
 
 ## Practical Information
 

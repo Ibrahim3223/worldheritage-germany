@@ -66,7 +66,7 @@ Kochelsee is conveniently located near several attractions that can enhance your
 
 3. **Isar River**: Just a short distance away, the Isar River offers opportunities for kayaking and fishing, as well as picturesque walking trails.
 
-4. **Dachau Concentration Camp Memorial Site**: A significant site for historical reflection, located not far from Kochelsee, it provides visitors with the context of Germany’s past.
+4. **Dachau Concentration Camp Memorial Site**: A significant site for historical reflection, located not far from Kochelsee, it provides visitors with the context of Germany's past.
 
 5. **Bavarian Alps**: The majestic mountains surrounding Kochelsee offer skiing in winter and hiking trails in summer, catering to adventure seekers year-round.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Old Botanical Garden in Kiel, Germany, serves as a verdant retreat within the urban landscape, showcasing a diverse collection of flora that reflects both local and exotic plant species. Established to foster a connection between nature and education, the garden is an important site for botanical research and public enjoyment. Its location in the heart of Kiel makes it easily accessible for both residents and travelers, providing an oasis of tranquility amidst the hustle and bustle of city life. Visitors can expect to immerse themselves in a lush environment that not only serves as a place for leisure but also plays a role in conservation and scientific study.
 
-The Old Botanical Garden is not just a collection of plants; it is a living laboratory that contributes to the understanding of plant biodiversity and ecology. The garden is part of the University of Kiel, which enhances its significance as a center for education and research. As you stroll through its pathways, you'll encounter a variety of plant species, meticulously arranged and cared for, offering a glimpse into the natural world’s complexity and beauty.
+The Old Botanical Garden is not just a collection of plants; it is a living laboratory that contributes to the understanding of plant biodiversity and ecology. The garden is part of the University of Kiel, which enhances its significance as a center for education and research. As you stroll through its pathways, you'll encounter a variety of plant species, meticulously arranged and cared for, offering a glimpse into the natural world's complexity and beauty.
 
 ## History and Significance
 

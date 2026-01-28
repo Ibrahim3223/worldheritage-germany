@@ -60,7 +60,7 @@ While Der Höst is a destination in itself, the surrounding area also offers var
 
 3. **Vechte River**: This picturesque river runs through the region and is ideal for leisurely walks along its banks or enjoying a picnic by the water.
 
-4. **Museum of Cultural History Nordhorn**: An engaging stop for those interested in the local history and culture of the region, providing insights into the area’s heritage.
+4. **Museum of Cultural History Nordhorn**: An engaging stop for those interested in the local history and culture of the region, providing insights into the area's heritage.
 
 5. **Moorland Nature Reserve**: This area features unique landscapes and ecosystems that are worth exploring, offering a different perspective on the ecological diversity of Lower Saxony.
 

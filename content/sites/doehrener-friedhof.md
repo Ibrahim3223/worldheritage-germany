@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Döhrener Friedhof, located in the Döhren-Wülfel district of Germany, presents an intriguing blend of serene beauty and historical significance. This cemetery is not just a resting place for the departed; it embodies the cultural and social narratives of the community it serves. With its meticulously maintained grounds, it provides visitors an opportunity for reflection and remembrance amid a natural landscape. The cemetery is an essential part of the local heritage, offering insight into the lives of the individuals who shaped the region’s history. Whether you are interested in genealogy, architecture, or simply seeking a peaceful environment, a visit to Döhrener Friedhof promises a meaningful experience.
+Döhrener Friedhof, located in the Döhren-Wülfel district of Germany, presents an intriguing blend of serene beauty and historical significance. This cemetery is not just a resting place for the departed; it embodies the cultural and social narratives of the community it serves. With its meticulously maintained grounds, it provides visitors an opportunity for reflection and remembrance amid a natural landscape. The cemetery is an essential part of the local heritage, offering insight into the lives of the individuals who shaped the region's history. Whether you are interested in genealogy, architecture, or simply seeking a peaceful environment, a visit to Döhrener Friedhof promises a meaningful experience.
 
 ## History and Significance
 

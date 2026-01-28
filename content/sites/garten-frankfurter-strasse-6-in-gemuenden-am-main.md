@@ -86,7 +86,7 @@ For those planning to visit Garten Frankfurter Straße 6, here are a few insider
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider going on weekdays or during less popular times. Early mornings or late afternoons may also result in fewer visitors, allowing for a more tranquil experience.
 
-- **Take Your Time**: Don’t rush through the garden. Allow yourself to wander, take in the sights, and soak up the peaceful atmosphere. 
+- **Take Your Time**: Don't rush through the garden. Allow yourself to wander, take in the sights, and soak up the peaceful atmosphere. 
 
 By following these tips, you can make the most of your visit to Garten Frankfurter Straße 6, ensuring a rewarding experience in this serene garden.
 
@@ -123,7 +123,7 @@ Check with local resources or the official website for specific accessibility in
 Information regarding online ticket purchases may vary; it is advisable to check the official website for the latest details.
 
 ### Are there restrooms and cafes?
-Details about restrooms and cafes may not be specified; it’s best to verify this information on the official website prior to your visit.
+Details about restrooms and cafes may not be specified; it's best to verify this information on the official website prior to your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may be walking on various surfaces within the garden. Weather-appropriate attire is also advised.

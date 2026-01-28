@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Rosenkrantz Gate House, a notable example of historic architecture, stands prominently in the Schinkel region of Germany. This gatehouse serves as a striking reminder of the country’s architectural heritage and historical significance. As visitors approach, they encounter a structure that encapsulates both functionality and artistry—a gateway that once played a crucial role in the fortifications of the area. The site invites exploration into the rich narratives of the past, offering an opportunity to appreciate the craftsmanship that has endured through the ages. 
+Gut Rosenkrantz Gate House, a notable example of historic architecture, stands prominently in the Schinkel region of Germany. This gatehouse serves as a striking reminder of the country's architectural heritage and historical significance. As visitors approach, they encounter a structure that encapsulates both functionality and artistry—a gateway that once played a crucial role in the fortifications of the area. The site invites exploration into the rich narratives of the past, offering an opportunity to appreciate the craftsmanship that has endured through the ages. 
 
 Situated at coordinates 54.34457, 9.94677, Gut Rosenkrantz is easily accessible for travelers eager to delve into the cultural landscape of Germany. This location not only enhances the gatehouse's historical relevance but also positions it as a key landmark within the region. Its preservation allows for a greater understanding of historical military architecture and the roles such structures played in their respective communities.
 

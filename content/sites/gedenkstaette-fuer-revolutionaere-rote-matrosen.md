@@ -28,7 +28,7 @@ image_srcset:
 
 The Gedenkstätte für Revolutionäre Rote Matrosen, or Memorial for Revolutionary Red Sailors, is a poignant memorial located in Rostock, Germany. This site pays tribute to the sailors who played an integral role in the revolutionary movements of the early 20th century. Positioned within a city rich in maritime heritage, the memorial offers visitors a chance to reflect on the historical context of workers' rights and the struggle for social justice. Its significance extends beyond local history, resonating with broader themes of political and social change that have shaped modern Germany.
 
-Rostock, situated on the Baltic Sea, has been a pivotal maritime city for centuries, serving as a hub for trade and cultural exchange. The memorial stands not only as a historical marker but also as a place for remembrance and contemplation, inviting visitors to engage with the stories of those who sought reform and revolution. The memorial’s thoughtful design and location contribute to its impact, making it a must-visit for those interested in Germany's social history and the maritime struggles that have influenced its course.
+Rostock, situated on the Baltic Sea, has been a pivotal maritime city for centuries, serving as a hub for trade and cultural exchange. The memorial stands not only as a historical marker but also as a place for remembrance and contemplation, inviting visitors to engage with the stories of those who sought reform and revolution. The memorial's thoughtful design and location contribute to its impact, making it a must-visit for those interested in Germany's social history and the maritime struggles that have influenced its course.
 
 At the Gedenkstätte für Revolutionäre Rote Matrosen, visitors can expect to encounter a space dedicated to honoring the legacy of revolutionary sailors and their fight for justice. This memorial encapsulates a critical chapter in Germany's past, offering insight into the challenges faced by these individuals and the enduring relevance of their struggles today.
 
@@ -68,7 +68,7 @@ Those exploring the area around the Gedenkstätte für Revolutionäre Rote Matro
 
 3. **Rostock Zoo**: A family-friendly attraction showcasing a diverse range of animal species and providing insights into conservation efforts.
 
-4. **University of Rostock**: One of the oldest universities in Germany, offering a glimpse into the city’s academic heritage.
+4. **University of Rostock**: One of the oldest universities in Germany, offering a glimpse into the city's academic heritage.
 
 5. **Historical Market Square**: The central square features charming architecture and a lively atmosphere, ideal for leisurely strolls and local dining experiences.
 

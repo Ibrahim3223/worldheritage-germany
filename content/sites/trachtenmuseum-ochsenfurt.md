@@ -68,11 +68,11 @@ While visiting the Trachtenmuseum Ochsenfurt, consider exploring these nearby at
 
 To make the most of your visit to the Trachtenmuseum Ochsenfurt, consider the following insider tips:
 
-- **Photography**: Check the museum’s photography policy upon entry. While some museums may allow photography without flash, others might have restrictions to protect the exhibits.
+- **Photography**: Check the museum's photography policy upon entry. While some museums may allow photography without flash, others might have restrictions to protect the exhibits.
 
 - **Crowd Avoidance**: To enjoy a more intimate experience, plan your visit during weekdays or early in the morning. This can help you avoid larger crowds that tend to gather on weekends or during special events.
 
-- **Engage with Staff**: Museum staff can provide valuable insights and recommendations. Don’t hesitate to ask questions about specific exhibits or the history of the items on display.
+- **Engage with Staff**: Museum staff can provide valuable insights and recommendations. Don't hesitate to ask questions about specific exhibits or the history of the items on display.
 
 ## Practical Information
 

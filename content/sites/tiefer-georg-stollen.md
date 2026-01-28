@@ -28,7 +28,7 @@ image_srcset:
 
 ## Overview
 
-Tiefer Georg-Stollen, located in the picturesque region of Bad Grund, Germany, serves as a remarkable example of historical engineering in the realm of water drainage. This water drainage gallery, situated in the Harz mountains, reflects the ingenuity of past mining endeavors, striving to manage the region's natural water flow and mitigate flooding risks. With its intricate network of tunnels, the Tiefer Georg-Stollen is not only a testament to the technical capabilities of earlier generations but also a valuable cultural artifact that tells the story of the area’s mining heritage.
+Tiefer Georg-Stollen, located in the picturesque region of Bad Grund, Germany, serves as a remarkable example of historical engineering in the realm of water drainage. This water drainage gallery, situated in the Harz mountains, reflects the ingenuity of past mining endeavors, striving to manage the region's natural water flow and mitigate flooding risks. With its intricate network of tunnels, the Tiefer Georg-Stollen is not only a testament to the technical capabilities of earlier generations but also a valuable cultural artifact that tells the story of the area's mining heritage.
 
 Visitors to the Tiefer Georg-Stollen can expect an engaging experience that connects them to the historical significance of this underground marvel. As they traverse the galleries, they will gain insight into the challenges faced by miners and the importance of water management in mining operations. The gallery stands as a reminder of how human ingenuity has shaped the landscape and industry of this mountainous region, making it a must-visit for heritage enthusiasts and history buffs alike.
 

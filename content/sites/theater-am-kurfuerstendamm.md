@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Theater am Kurfürstendamm serves as an essential cultural hub in Berlin, situated in the vibrant district of Charlottenburg-Wilmersdorf. This privately owned theatre is not just a venue for performances; it embodies the dynamic spirit of Berlin’s theatrical scene. With its strategic location in one of the city's most significant thoroughfares, the Kurfürstendamm, the theater attracts a diverse audience, making it a focal point for arts and culture enthusiasts.
+The Theater am Kurfürstendamm serves as an essential cultural hub in Berlin, situated in the vibrant district of Charlottenburg-Wilmersdorf. This privately owned theatre is not just a venue for performances; it embodies the dynamic spirit of Berlin's theatrical scene. With its strategic location in one of the city's most significant thoroughfares, the Kurfürstendamm, the theater attracts a diverse audience, making it a focal point for arts and culture enthusiasts.
 
-This esteemed establishment is known for its eclectic programming, which ranges from contemporary plays to classic performances. The theater's commitment to showcasing a mix of genres appeals to both locals and visitors, making it a must-visit destination for anyone looking to experience Berlin's cultural offerings. A visit here promises not only entertainment but also a deeper appreciation for the performing arts in one of Europe’s most iconic cities.
+This esteemed establishment is known for its eclectic programming, which ranges from contemporary plays to classic performances. The theater's commitment to showcasing a mix of genres appeals to both locals and visitors, making it a must-visit destination for anyone looking to experience Berlin's cultural offerings. A visit here promises not only entertainment but also a deeper appreciation for the performing arts in one of Europe's most iconic cities.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ The theater's interior spaces are often adorned with artistic touches that celeb
 
 ## Visiting Information
 
-Getting to the Theater am Kurfürstendamm is convenient, thanks to its central location in Berlin. Public transportation options abound, including buses and trains that service the area. For those driving, parking may be available nearby, though it’s advisable to check local regulations.
+Getting to the Theater am Kurfürstendamm is convenient, thanks to its central location in Berlin. Public transportation options abound, including buses and trains that service the area. For those driving, parking may be available nearby, though it's advisable to check local regulations.
 
 When planning your visit, be sure to check the official website for current information regarding hours of operation and ticket prices, as these can vary. Depending on the programming, performances may take place in the evenings or during matinee hours, providing flexibility for different schedules. It's also a good idea to arrive early to soak in the atmosphere and enjoy any pre-show activities that may be offered.
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Theater am Kurfürstendamm, consider the fo
 A typical visit, including the performance and intermission, usually lasts around two to three hours. Arriving early to enjoy the theater's ambiance is recommended.
 
 ### Is photography allowed?
-Photography during performances is generally prohibited. However, capturing the theater’s exterior before the show is typically permitted. Always check specific venue policies.
+Photography during performances is generally prohibited. However, capturing the theater's exterior before the show is typically permitted. Always check specific venue policies.
 
 ### Are there guided tours?
 Currently, there is no standard information available regarding guided tours at the Theater am Kurfürstendamm. Check the official website for any special events or informational sessions.

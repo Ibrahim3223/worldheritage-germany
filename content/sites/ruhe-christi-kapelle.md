@@ -70,7 +70,7 @@ These attractions can enrich your visit, providing a broader context for the cul
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon visits can provide the best natural light for capturing the chapel's beauty. The surrounding landscape also offers excellent opportunities for scenic photography, so don’t forget your camera.
+For photography enthusiasts, early morning or late afternoon visits can provide the best natural light for capturing the chapel's beauty. The surrounding landscape also offers excellent opportunities for scenic photography, so don't forget your camera.
 
 To avoid crowds, consider visiting during weekdays or outside of peak holiday seasons. This not only enhances your experience at the chapel but also allows for a more personal connection with the site.
 
@@ -86,7 +86,7 @@ If you plan to spend more time exploring the area, consider packing a light snac
 A visit of approximately 30 minutes to an hour is typically sufficient to appreciate the chapel and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s advisable to be respectful of the space and any visitors who may be there for worship.
+Yes, photography is generally permitted, but it's advisable to be respectful of the space and any visitors who may be there for worship.
 
 ### Are there guided tours?
 Currently, specific guided tours are not mentioned; check the official website for any updates regarding tour availability.
@@ -95,13 +95,13 @@ Currently, specific guided tours are not mentioned; check the official website f
 Weekdays or off-peak hours are ideal for a quieter experience, allowing for personal reflection and exploration.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility is not specified; it’s recommended to check the official website for confirmation.
+Information regarding accessibility is not specified; it's recommended to check the official website for confirmation.
 
 ### Can I buy tickets online?
 Check the official website for any current ticketing policies or requirements prior to your visit.
 
 ### Are there restrooms and cafes?
-Details about nearby facilities are not provided; it’s advisable to plan accordingly before your visit.
+Details about nearby facilities are not provided; it's advisable to plan accordingly before your visit.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider seasonal variations in weather when dressing for your visit.

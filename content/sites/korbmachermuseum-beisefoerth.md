@@ -59,7 +59,7 @@ While the Korbmachermuseum Beiseförth is a destination in itself, there are sev
 
 ## Insider Tips
 
-Photography within the museum may be permitted, but it’s advisable to check for specific guidelines upon arrival. To avoid crowds, aim for a weekday visit, as weekends might attract more visitors, especially during special events or workshops. Engaging with the staff can enhance your experience; they often have insights and stories about the exhibits that are not found in the displayed information.
+Photography within the museum may be permitted, but it's advisable to check for specific guidelines upon arrival. To avoid crowds, aim for a weekday visit, as weekends might attract more visitors, especially during special events or workshops. Engaging with the staff can enhance your experience; they often have insights and stories about the exhibits that are not found in the displayed information.
 
 ## Practical Information
 
@@ -73,7 +73,7 @@ Seasonal considerations may also apply; check the weather forecast before your v
 A visit typically takes about one to two hours, depending on your interest in the exhibits and potential workshops.
 
 ### Is photography allowed?
-Photography guidelines may vary, so it’s best to check with museum staff upon arrival for specific rules.
+Photography guidelines may vary, so it's best to check with museum staff upon arrival for specific rules.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and their availability during your visit.
@@ -88,7 +88,7 @@ The museum strives to accommodate all visitors, but checking the official websit
 Visit the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s advisable to check the official information for specifics.
+Facilities may be available, but it's advisable to check the official information for specifics.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to participate in any hands-on activities or workshops.

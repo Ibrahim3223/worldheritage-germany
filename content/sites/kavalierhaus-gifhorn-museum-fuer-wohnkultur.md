@@ -36,7 +36,7 @@ In addition to its role as a museum, Kavalierhaus Gifhorn encourages community i
 
 ## Architecture and Features
 
-The Kavalierhaus itself is an architectural highlight, reflecting elements typical of regional design. Although specific details about the structure's architectural style are not provided, visitors can expect to find a building that harmonizes with the cultural aesthetics of Gifhorn. The museum’s physical presence adds to its allure, as the architecture serves as a canvas for the exhibitions housed within.
+The Kavalierhaus itself is an architectural highlight, reflecting elements typical of regional design. Although specific details about the structure's architectural style are not provided, visitors can expect to find a building that harmonizes with the cultural aesthetics of Gifhorn. The museum's physical presence adds to its allure, as the architecture serves as a canvas for the exhibitions housed within.
 
 Inside, the museum features an array of displays that showcase the evolution of household items and living spaces. Visitors can expect to see a diverse collection ranging from traditional furnishings to contemporary design elements. Each exhibit is carefully curated to illustrate the relationship between people and their living environments, allowing for a deeper understanding of how domestic spaces have transformed over time.
 

@@ -44,9 +44,9 @@ Efforts to maintain the former synagogue have also included initiatives to educa
 
 ## Architecture and Features
 
-The Former Synagogue is characterized by its striking hall building, constructed from ashlar masonry, which contributes to its dignified appearance. The use of this material not only highlights the craftsmanship of the era but also enhances the building’s overall aesthetic appeal.
+The Former Synagogue is characterized by its striking hall building, constructed from ashlar masonry, which contributes to its dignified appearance. The use of this material not only highlights the craftsmanship of the era but also enhances the building's overall aesthetic appeal.
 
-Though specific architectural details may not be readily available, the synagogue’s design typically embodies traditional Jewish architectural elements, such as a central prayer hall, which would have been the heart of congregational life. The layout likely facilitates community gatherings, reflecting the importance of collective worship and social interaction within the Jewish tradition.
+Though specific architectural details may not be readily available, the synagogue's design typically embodies traditional Jewish architectural elements, such as a central prayer hall, which would have been the heart of congregational life. The layout likely facilitates community gatherings, reflecting the importance of collective worship and social interaction within the Jewish tradition.
 
 Visitors may notice the structure's unique features, which may include decorative elements that resonate with historical significance, though specific examples are not provided in this guide. The building's exterior is likely to evoke a sense of solemnity and respect, aligning with its purpose as a place of worship.
 
@@ -88,7 +88,7 @@ To enhance your experience at the Former Synagogue, consider these insider tips:
 
 ## Practical Information
 
-When visiting the Former Synagogue, it’s essential to prepare adequately. Here are some practical tips:
+When visiting the Former Synagogue, it's essential to prepare adequately. Here are some practical tips:
 
 - **What to Bring**: A camera, water bottle, and a small notebook for jotting down thoughts or insights can enhance your visit. Comfortable walking shoes are advisable for exploring the surrounding area.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Situated in the heart of Bielefeld, Germany, the Grafschaftsdenkmal is an architectural monument that embodies the region's historical and cultural heritage. This structure serves as a significant landmark, symbolizing the area’s past and its contributions to the broader narrative of German history. Visitors to the Grafschaftsdenkmal are greeted with a unique opportunity to reflect on the architectural styles and historical context that have shaped Bielefeld and its surroundings.
+Situated in the heart of Bielefeld, Germany, the Grafschaftsdenkmal is an architectural monument that embodies the region's historical and cultural heritage. This structure serves as a significant landmark, symbolizing the area's past and its contributions to the broader narrative of German history. Visitors to the Grafschaftsdenkmal are greeted with a unique opportunity to reflect on the architectural styles and historical context that have shaped Bielefeld and its surroundings.
 
 As you explore this monument, you will likely find yourself immersed in the stories woven into its fabric, stories that speak of the people and events that have defined the region. The Grafschaftsdenkmal stands not just as a physical structure but as a representation of the community's identity and aspirations. Its accessibility makes it an inviting destination for both casual visitors and history enthusiasts alike.
 
@@ -72,7 +72,7 @@ While visiting the Grafschaftsdenkmal, consider exploring these nearby attractio
 
 2. **Old Market Square (Alter Markt)**: This vibrant square is a hub of activity, where you can find shops, restaurants, and local markets, perfect for experiencing Bielefeld's culture.
 
-3. **St. Mary’s Church (Sankt Marien)**: An important religious landmark in the city, this church features stunning architecture and beautiful stained glass windows that are worth a visit.
+3. **St. Mary's Church (Sankt Marien)**: An important religious landmark in the city, this church features stunning architecture and beautiful stained glass windows that are worth a visit.
 
 4. **Botanischer Garten Bielefeld**: A tranquil escape, the botanical garden showcases various plant species and provides a relaxing environment for a leisurely stroll.
 
@@ -108,7 +108,7 @@ By preparing adequately, you can ensure a smooth and enjoyable experience at the
 The amount of time you spend at the Grafschaftsdenkmal can vary based on your interests. A typical visit may last between 30 minutes to an hour, allowing time to appreciate the monument and take photographs.
 
 ### Is photography allowed?
-Photography is generally permitted at the Grafschaftsdenkmal, making it an excellent opportunity to capture the monument’s architectural features.
+Photography is generally permitted at the Grafschaftsdenkmal, making it an excellent opportunity to capture the monument's architectural features.
 
 ### Are there guided tours?
 While specific details about guided tours may not be available, it is worth checking the official website for information on any organized tours or educational programs that may enhance your visit.

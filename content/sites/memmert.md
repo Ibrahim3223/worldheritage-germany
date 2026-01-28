@@ -67,7 +67,7 @@ These nearby locations provide additional opportunities for exploration and enjo
 
 ## Insider Tips
 
-When visiting Memmert, photography enthusiasts will find plenty of opportunities to capture the island’s natural beauty, particularly at sunset when the light casts a warm glow over the landscape. Early mornings are also ideal for birdwatching, as many species are active during this time.
+When visiting Memmert, photography enthusiasts will find plenty of opportunities to capture the island's natural beauty, particularly at sunset when the light casts a warm glow over the landscape. Early mornings are also ideal for birdwatching, as many species are active during this time.
 
 To avoid crowds, consider visiting during weekdays or in the early morning, especially during peak tourist seasons. This will allow for a more intimate experience with the island's serene environment.
 

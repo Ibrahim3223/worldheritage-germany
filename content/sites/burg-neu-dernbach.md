@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Neu-Dernbach is an intriguing castle located in the charming region of Bad Endbach, Germany. This historical site invites visitors to explore its storied past and architectural features that reflect the era in which it was constructed. Situated at coordinates 50.7806, 8.50583, the castle provides a vantage point to appreciate the landscape and cultural heritage of the area. While exact details about its establishment may be elusive, the castle remains a significant landmark within the region, drawing the interest of history enthusiasts and casual visitors alike.
 
-As you approach Burg Neu-Dernbach, the castle's presence commands attention with its robust structure and commanding features. It serves as a reminder of medieval architecture and the history that shaped the region of Hesse. Whether you're a local or a traveler exploring Germany’s rich heritage, a visit to this castle promises a blend of historical intrigue and scenic beauty.
+As you approach Burg Neu-Dernbach, the castle's presence commands attention with its robust structure and commanding features. It serves as a reminder of medieval architecture and the history that shaped the region of Hesse. Whether you're a local or a traveler exploring Germany's rich heritage, a visit to this castle promises a blend of historical intrigue and scenic beauty.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during weekdays or opt for off-peak seasons. Th
 
 ## Practical Information
 
-When preparing for your visit to Burg Neu-Dernbach, it’s wise to bring comfortable walking shoes, as exploring the castle grounds may involve uneven surfaces and stairs. A light jacket or sweater is advisable, especially during the cooler months, as temperatures can fluctuate.
+When preparing for your visit to Burg Neu-Dernbach, it's wise to bring comfortable walking shoes, as exploring the castle grounds may involve uneven surfaces and stairs. A light jacket or sweater is advisable, especially during the cooler months, as temperatures can fluctuate.
 
 Seasonal considerations should also be noted; spring and autumn are generally ideal for visiting due to mild weather. Be sure to check the official website for any updates on opening hours, ticket prices, or seasonal events that may enhance your experience.
 

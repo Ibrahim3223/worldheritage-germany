@@ -66,7 +66,7 @@ While Tietzowsee itself is a tranquil destination, there are several nearby attr
 
 2. **Local Villages**: Discover the charm of nearby villages, where you can experience local culture, cuisine, and hospitality.
 
-3. **Cultural Sites**: Look for regional museums or historical sites that provide insight into the area’s heritage and history.
+3. **Cultural Sites**: Look for regional museums or historical sites that provide insight into the area's heritage and history.
 
 4. **Hiking Trails**: Investigate local hiking trails that may lead you through picturesque landscapes and offer varying levels of difficulty.
 

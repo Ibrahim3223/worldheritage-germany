@@ -48,7 +48,7 @@ Gigelberghalle presents a modern architectural design, characterized by its spac
 
 Notable features of Gigelberghalle may include a flexible stage area, sound and lighting systems tailored for performances, and seating arrangements designed to allow for both intimate gatherings and larger crowds. The multi-purpose nature of the hall means that it can be reconfigured to suit different types of events, enhancing its usability and appeal.
 
-The surrounding environment further complements the hall’s purpose. The location on Gigelberg provides a pleasant backdrop, likely enhancing the overall experience for attendees. While specific architectural details are not provided, the combination of functionality and aesthetic considerations in the design reflects the community's commitment to creating a welcoming space for all.
+The surrounding environment further complements the hall's purpose. The location on Gigelberg provides a pleasant backdrop, likely enhancing the overall experience for attendees. While specific architectural details are not provided, the combination of functionality and aesthetic considerations in the design reflects the community's commitment to creating a welcoming space for all.
 
 ## Visiting Information
 

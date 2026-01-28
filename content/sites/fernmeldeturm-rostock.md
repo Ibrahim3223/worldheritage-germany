@@ -50,7 +50,7 @@ The tower may also include observation areas or viewing platforms that provide v
 
 ## Visiting Information
 
-When planning a visit to the Fernmeldeturm Rostock, it’s advisable to consider various transport options. The tower is located in a central area, making it accessible by public transport, including buses and trams that operate regularly within the city. Additionally, for those who prefer to drive, parking facilities may be available nearby.
+When planning a visit to the Fernmeldeturm Rostock, it's advisable to consider various transport options. The tower is located in a central area, making it accessible by public transport, including buses and trams that operate regularly within the city. Additionally, for those who prefer to drive, parking facilities may be available nearby.
 
 Check the official website for current information regarding hours of operation and ticket prices, as these can vary. Visitors can generally expect to spend an hour or so at the site, allowing ample time to explore and appreciate the tower's features. The best times to visit are often during daylight hours when visibility is optimal, offering clearer views of the cityscape.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Deutschherrn Bridge, a prominent railway bridge located in Frankfurt, Germany, serves as a vital corridor for rail transportation while symbolizing the city’s industrial heritage. Spanning a significant railway line, the bridge is an impressive engineering feat that not only facilitates connectivity within the region but also stands as a reminder of the evolution of infrastructure in urban settings. Its strategic location in Frankfurt, a major financial hub and cultural center, enhances its significance, making it an essential point of interest for both locals and visitors alike.
+The Deutschherrn Bridge, a prominent railway bridge located in Frankfurt, Germany, serves as a vital corridor for rail transportation while symbolizing the city's industrial heritage. Spanning a significant railway line, the bridge is an impressive engineering feat that not only facilitates connectivity within the region but also stands as a reminder of the evolution of infrastructure in urban settings. Its strategic location in Frankfurt, a major financial hub and cultural center, enhances its significance, making it an essential point of interest for both locals and visitors alike.
 
 As you approach the bridge, you will find that it embodies the blend of functionality and historical relevance. The surrounding area offers a glimpse into the dynamic urban landscape of Frankfurt, where modernity meets remnants of the past. The Deutschherrn Bridge is not merely a transit route; it is a landmark that encapsulates the spirit of progress and innovation associated with the railways. Whether you are traveling through the city or simply exploring, the bridge is an essential part of the Frankfurt experience.
 

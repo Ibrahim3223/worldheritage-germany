@@ -40,7 +40,7 @@ Visitors can expect to find well-appointed spaces that cater to a variety of cul
 
 Getting to the Berthold Leibinger Stiftung is relatively straightforward, with multiple transport options available in Ditzingen. Visitors can arrive via public transportation or by car, as the foundation is conveniently located within the city. For those planning a visit, it's advisable to check the official website for current information regarding hours of operation and any potential entrance fees.
 
-While the foundation may not require a full day for exploration, visitors should allocate a few hours to fully appreciate the ongoing exhibitions and programs. The best time to visit could vary depending on the specific events that the foundation hosts, so it’s beneficial to check any upcoming programs or exhibitions that might be of interest. Engaging with the foundation's offerings can provide deeper insights into its mission and the cultural initiatives it supports.
+While the foundation may not require a full day for exploration, visitors should allocate a few hours to fully appreciate the ongoing exhibitions and programs. The best time to visit could vary depending on the specific events that the foundation hosts, so it's beneficial to check any upcoming programs or exhibitions that might be of interest. Engaging with the foundation's offerings can provide deeper insights into its mission and the cultural initiatives it supports.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ Ditzingen offers a variety of attractions that complement a visit to the Berthol
 
 To make the most of your visit to the Berthold Leibinger Stiftung, consider the following tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s always best to check for any restrictions, especially during special events or exhibitions.
+- **Photography**: While photography may be allowed in certain areas, it's always best to check for any restrictions, especially during special events or exhibitions.
   
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekdays or during special events, which may draw larger audiences. Early mornings or late afternoons can also provide a quieter experience.
 
@@ -68,7 +68,7 @@ To make the most of your visit to the Berthold Leibinger Stiftung, consider the 
 
 When planning your visit to the Berthold Leibinger Stiftung, keep these practical considerations in mind:
 
-- **What to Bring**: It’s advisable to carry a camera if photography is permitted, a notebook for any inspirations, and comfortable shoes for walking.
+- **What to Bring**: It's advisable to carry a camera if photography is permitted, a notebook for any inspirations, and comfortable shoes for walking.
 
 - **Seasonal Considerations**: Weather can vary, so check the forecast before your visit. Dress in layers to ensure comfort throughout the day, especially if spending time outdoors in nearby parks or attractions.
 

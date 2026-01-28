@@ -68,7 +68,7 @@ After visiting Hindemith Kabinett, there are several nearby attractions worth ex
 
 4. **Palmengarten** - This botanical garden is a lush oasis in the city, featuring a variety of plant species and beautifully landscaped areas ideal for a leisurely stroll.
 
-5. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)** - A remarkable Gothic cathedral that dominates the city skyline and offers insights into Frankfurt’s ecclesiastical history.
+5. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)** - A remarkable Gothic cathedral that dominates the city skyline and offers insights into Frankfurt's ecclesiastical history.
 
 ## Insider Tips
 

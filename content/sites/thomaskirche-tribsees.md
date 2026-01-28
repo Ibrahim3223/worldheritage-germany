@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Thomaskirche Tribsees is a notable church building located in the tranquil town of Tribsees, Germany. This structure is not just a place of worship; it serves as a cultural landmark that reflects the rich heritage of the region. The church's architectural style and historical significance contribute to its role as a vital part of the community’s identity. Visitors to Thomaskirche can expect to encounter not only a place of spiritual reflection but also a glimpse into the local traditions and history that characterize this area of Germany. With its serene surroundings and cultural depth, Thomaskirche Tribsees invites exploration and appreciation.
+Thomaskirche Tribsees is a notable church building located in the tranquil town of Tribsees, Germany. This structure is not just a place of worship; it serves as a cultural landmark that reflects the rich heritage of the region. The church's architectural style and historical significance contribute to its role as a vital part of the community's identity. Visitors to Thomaskirche can expect to encounter not only a place of spiritual reflection but also a glimpse into the local traditions and history that characterize this area of Germany. With its serene surroundings and cultural depth, Thomaskirche Tribsees invites exploration and appreciation.
 
 ## History and Significance
 

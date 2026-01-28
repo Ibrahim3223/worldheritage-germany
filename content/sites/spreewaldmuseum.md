@@ -28,7 +28,7 @@ image_srcset:
 
 The Spreewaldmuseum in Lübbenau/Spreewald offers an immersive look into the cultural heritage of the Spreewald region, renowned for its unique landscape of waterways and traditional farming practices. As you traverse the museum, you will discover the intricate connections between the land, its people, and their customs. This museum serves as a vital repository of the area's history, showcasing artifacts and exhibits that illuminate the lives of those who have inhabited this picturesque locale. Visitors can expect a blend of educational displays and engaging storytelling that reveals the significance of the Spreewald within the broader context of German culture.
 
-Lübbenau/Spreewald, located in the state of Brandenburg, is easily accessible from larger cities and offers a charming backdrop with its traditional architecture and serene waterways. The museum stands as an important landmark, drawing visitors who wish to deepen their understanding of the region’s past while experiencing its present-day charm. 
+Lübbenau/Spreewald, located in the state of Brandenburg, is easily accessible from larger cities and offers a charming backdrop with its traditional architecture and serene waterways. The museum stands as an important landmark, drawing visitors who wish to deepen their understanding of the region's past while experiencing its present-day charm. 
 
 ## History and Significance
 

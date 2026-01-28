@@ -34,7 +34,7 @@ As you approach the museum, its location within a culturally rich urban landscap
 
 The NS-Dokumentationszentrum was established to confront the historical realities of National Socialism and the consequences of its ideology. Munich, often referred to as the birthplace of the Nazi Party, is central to understanding the rise of this totalitarian regime. The museum sheds light on how the Nazi ideology permeated various aspects of life in Munich and beyond, influencing art, politics, and social dynamics.
 
-The museum’s mission includes educating the public about the mechanisms of propaganda and the dangers of political extremism. By presenting well-researched exhibitions, it offers a platform for critical reflection on the past. Through its collections and programming, the NS-Dokumentationszentrum seeks to foster a culture of remembrance and awareness, encouraging visitors to engage with the complexities of history and its relevance today.
+The museum's mission includes educating the public about the mechanisms of propaganda and the dangers of political extremism. By presenting well-researched exhibitions, it offers a platform for critical reflection on the past. Through its collections and programming, the NS-Dokumentationszentrum seeks to foster a culture of remembrance and awareness, encouraging visitors to engage with the complexities of history and its relevance today.
 
 Visitors are presented with a range of multimedia exhibits that explore themes such as the persecution of marginalized groups, the role of propaganda in shaping public opinion, and the resistance movements that emerged in response to Nazi policies. This emphasis on interactivity allows for a deeper engagement with the material, encouraging visitors to consider their own roles in promoting tolerance and understanding in contemporary society.
 
@@ -62,7 +62,7 @@ While the NS-Dokumentationszentrum offers a profound experience, the surrounding
    
 2. **Munich Documentation Centre for the History of National Socialism**: This nearby institution complements the NS-Dokumentationszentrum with additional resources and exhibitions focusing on the history and impact of National Socialism.
 
-3. **Kunstareal**: Munich’s art district, where visitors can find a concentration of museums, galleries, and cultural institutions.
+3. **Kunstareal**: Munich's art district, where visitors can find a concentration of museums, galleries, and cultural institutions.
 
 4. **Karlsplatz (Stachus)**: A bustling square that serves as a central hub for transportation and shopping, offering a lively atmosphere.
 
@@ -80,7 +80,7 @@ Additionally, take advantage of any guided tours or educational programs offered
 
 When preparing for your visit, it is advisable to wear comfortable clothing and footwear, as you will likely be walking and standing for extended periods while exploring the museum. Depending on the season, consider bringing a light jacket, as indoor temperatures can vary.
 
-Additionally, check the official website for any seasonal considerations or cultural events that may impact your visit. It’s always a good idea to have a water bottle with you, as well as a notepad if you wish to jot down thoughts or reflections inspired by the exhibits.
+Additionally, check the official website for any seasonal considerations or cultural events that may impact your visit. It's always a good idea to have a water bottle with you, as well as a notepad if you wish to jot down thoughts or reflections inspired by the exhibits.
 
 ## Frequently Asked Questions
 

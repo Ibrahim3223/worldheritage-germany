@@ -80,7 +80,7 @@ For an enjoyable visit to the Robert-Bosch-Haus, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid larger crowds, aim to visit during the early hours on weekdays. This not only enhances your experience but also allows for more interaction with the exhibits.
 
-- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions; they can provide valuable insights that enrich your understanding of Bosch's contributions.
+- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions; they can provide valuable insights that enrich your understanding of Bosch's contributions.
 
 ## Practical Information
 

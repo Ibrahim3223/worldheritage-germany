@@ -56,7 +56,7 @@ Time needed for a visit can vary depending on your interest level, but a general
 
 ## Nearby Attractions
 
-Stadioner Hof is located within close proximity to several other attractions in Mainz that offer additional insights into the city’s heritage. Here are a few notable sites to consider:
+Stadioner Hof is located within close proximity to several other attractions in Mainz that offer additional insights into the city's heritage. Here are a few notable sites to consider:
 
 1. **Gutenberg Museum**: Celebrating the legacy of Johannes Gutenberg, this museum offers fascinating exhibits on the history of printing and the impact of Gutenberg's innovations.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Pauluskirche in Worms, Germany, serves as a remarkable example of ecclesiastical architecture and a focal point for both locals and visitors. Known for its striking presence, the church is located in the heart of Worms, a city with a rich historical narrative that spans centuries. This church is not merely a place of worship; it is a significant symbol of the region’s cultural and spiritual heritage. Those who find their way to this architectural gem will discover a space that reflects the deep roots of the Christian faith and the evolving styles of German church design.
+The Pauluskirche in Worms, Germany, serves as a remarkable example of ecclesiastical architecture and a focal point for both locals and visitors. Known for its striking presence, the church is located in the heart of Worms, a city with a rich historical narrative that spans centuries. This church is not merely a place of worship; it is a significant symbol of the region's cultural and spiritual heritage. Those who find their way to this architectural gem will discover a space that reflects the deep roots of the Christian faith and the evolving styles of German church design.
 
 Situated at the coordinates 49.6307, 8.36558, the Pauluskirche stands as a testament to the resilience and continuity of religious tradition in Germany. Visitors can expect to be enveloped by the serene atmosphere of the church, making it an ideal spot for reflection and exploration of its artistic and architectural features.
 
@@ -56,15 +56,15 @@ The best times to visit may vary depending on local events or services, so check
 
 ## Nearby Attractions
 
-1. **Luther Monument**: This monument commemorates Martin Luther and his role in the Reformation, located nearby and offering a deeper insight into the city’s religious history.
+1. **Luther Monument**: This monument commemorates Martin Luther and his role in the Reformation, located nearby and offering a deeper insight into the city's religious history.
    
-2. **Jewish Cemetery**: One of the oldest Jewish cemeteries in Europe, it offers a poignant connection to the city’s multicultural past.
+2. **Jewish Cemetery**: One of the oldest Jewish cemeteries in Europe, it offers a poignant connection to the city's multicultural past.
 
 3. **Worms Cathedral (Dom St. Peter)**: A stunning example of Romanesque architecture, this cathedral is a must-visit for its historical and architectural significance.
 
 4. **Nibelungen Bridge**: This bridge provides a scenic route over the Rhine and connects travelers to beautiful views and local parks.
 
-5. **Worms City Museum**: A place to delve deeper into the history of Worms, showcasing artifacts and exhibitions that highlight the city’s rich heritage.
+5. **Worms City Museum**: A place to delve deeper into the history of Worms, showcasing artifacts and exhibitions that highlight the city's rich heritage.
 
 ## Insider Tips
 

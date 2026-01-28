@@ -78,7 +78,7 @@ For those planning a visit to the Torgau memorial site, consider these insider t
 
 - **Crowd Avoidance**: To experience the site with fewer crowds, consider visiting during weekday mornings. This can also provide a more reflective atmosphere as you engage with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits. They can often provide additional insights and context that enrich your understanding of the material.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits. They can often provide additional insights and context that enrich your understanding of the material.
 
 ## Practical Information
 

@@ -28,15 +28,15 @@ image_srcset:
 
 In the heart of Munich, St. Sebastian stands as a significant church building, showcasing the architectural elegance and cultural heritage of this vibrant city. Known for its unique design and historical relevance, St. Sebastian is not just a place of worship but also a site that attracts visitors keen to explore its artistic and architectural merits. Located at coordinates 48.167611142, 11.565876004, the church serves as a focal point for both locals and tourists, reflecting the spiritual and historical essence of Munich.
 
-This church's importance extends beyond its religious function; it is an integral part of the city’s cultural fabric. Visitors are drawn to its serene atmosphere and the opportunity to appreciate its architectural features. Whether you are seeking spiritual solace or a deeper understanding of Munich’s heritage, St. Sebastian promises an enriching experience that highlights the city's past and present.
+This church's importance extends beyond its religious function; it is an integral part of the city's cultural fabric. Visitors are drawn to its serene atmosphere and the opportunity to appreciate its architectural features. Whether you are seeking spiritual solace or a deeper understanding of Munich's heritage, St. Sebastian promises an enriching experience that highlights the city's past and present.
 
 ## History and Significance
 
-The history of St. Sebastian is closely intertwined with the development of Munich itself. While specific dates may not be highlighted, it is evident that the church has played a vital role in the religious and cultural life of the community. As one of the prominent churches in Munich, St. Sebastian has witnessed significant events that shaped the city’s trajectory.
+The history of St. Sebastian is closely intertwined with the development of Munich itself. While specific dates may not be highlighted, it is evident that the church has played a vital role in the religious and cultural life of the community. As one of the prominent churches in Munich, St. Sebastian has witnessed significant events that shaped the city's trajectory.
 
 The church serves as a place of worship for the local Catholic community, reflecting the religious traditions that have been upheld for centuries. Beyond its spiritual role, St. Sebastian has also become a site for various cultural and community events, further emphasizing its significance in the social landscape of Munich. 
 
-As a symbol of faith and community, St. Sebastian stands as a reminder of the enduring values that bind people together. Its presence in the city is not only a reflection of architectural beauty but also of the collective memory and identity of Munich’s residents.
+As a symbol of faith and community, St. Sebastian stands as a reminder of the enduring values that bind people together. Its presence in the city is not only a reflection of architectural beauty but also of the collective memory and identity of Munich's residents.
 
 ## Architecture and Features
 

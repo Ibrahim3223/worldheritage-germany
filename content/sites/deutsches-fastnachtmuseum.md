@@ -3,7 +3,7 @@ title: "Deutsches Fastnachtmuseum"
 site_name: "Deutsches Fastnachtmuseum"
 date: 2026-01-26
 draft: false
-description: "The Deutsches Fastnachtmuseum, located in Kitzingen, Germany, serves as a vibrant homage to the country’s carnival traditions."
+description: "The Deutsches Fastnachtmuseum, located in Kitzingen, Germany, serves as a vibrant homage to the country's carnival traditions."
 region: "Baden-Württemberg"
 country: "Germany"
 heritage_type: "Museum"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Deutsches Fastnachtmuseum, located in Kitzingen, Germany, serves as a vibrant homage to the country’s carnival traditions. This museum encapsulates the essence of Fastnacht, a festive celebration marked by colorful parades, elaborate costumes, and spirited performances. Situated in the heart of Kitzingen, the museum offers an immersive experience that highlights the unique cultural significance of Fastnacht, allowing visitors to explore the historical roots and contemporary expressions of this cherished tradition. 
+The Deutsches Fastnachtmuseum, located in Kitzingen, Germany, serves as a vibrant homage to the country's carnival traditions. This museum encapsulates the essence of Fastnacht, a festive celebration marked by colorful parades, elaborate costumes, and spirited performances. Situated in the heart of Kitzingen, the museum offers an immersive experience that highlights the unique cultural significance of Fastnacht, allowing visitors to explore the historical roots and contemporary expressions of this cherished tradition. 
 
-As you step inside, expect to be greeted by a plethora of exhibits that narrate the evolution of Fastnacht through various interactive displays and artifacts. The museum not only caters to enthusiasts of folklore and tradition but also invites those curious about local customs and celebrations. With Kitzingen’s picturesque setting, visitors are encouraged to delve into the carnival spirit, making it an enriching stop for anyone exploring the region.
+As you step inside, expect to be greeted by a plethora of exhibits that narrate the evolution of Fastnacht through various interactive displays and artifacts. The museum not only caters to enthusiasts of folklore and tradition but also invites those curious about local customs and celebrations. With Kitzingen's picturesque setting, visitors are encouraged to delve into the carnival spirit, making it an enriching stop for anyone exploring the region.
 
 ## History and Significance
 

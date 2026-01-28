@@ -72,7 +72,7 @@ Engaging with museum staff or volunteers can provide additional insights and enr
 
 When planning your visit to the Lindenfelser Museum, consider bringing essentials like water, comfortable shoes for walking, and a notebook if you wish to jot down thoughts or take notes on exhibits that interest you. Seasonal variations in weather may also influence your visit, so be prepared for changes in conditions.
 
-If visiting during peak tourist seasons, it’s advisable to check for any advisories regarding crowd levels, as this could impact your overall experience. Additionally, some areas may have restrictions or require advance reservations for special programs, so staying informed is key.
+If visiting during peak tourist seasons, it's advisable to check for any advisories regarding crowd levels, as this could impact your overall experience. Additionally, some areas may have restrictions or require advance reservations for special programs, so staying informed is key.
 
 ## Frequently Asked Questions
 

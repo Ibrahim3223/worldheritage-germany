@@ -91,7 +91,7 @@ Check the official website for information on guided tours and educational progr
 Weekdays and early mornings or late afternoons tend to be less crowded, offering a more leisurely experience.
 
 ### Is it wheelchair accessible?  
-The zoo strives to be accessible, but it’s best to verify specific accessibility features on the official website prior to your visit.
+The zoo strives to be accessible, but it's best to verify specific accessibility features on the official website prior to your visit.
 
 ### Can I buy tickets online?  
 Check the official website for options regarding online ticket purchases to streamline your entrance.

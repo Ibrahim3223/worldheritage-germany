@@ -88,7 +88,7 @@ Before heading to Uhrenmuseum Hubben, here are some practical considerations:
 Most visitors find that 1-2 hours is sufficient to explore the exhibits at Uhrenmuseum Hubben thoroughly.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s recommended to check with museum staff upon arrival.
+Photography policies can vary, so it's recommended to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide enhanced insights into the collection.

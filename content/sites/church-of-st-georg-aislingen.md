@@ -93,7 +93,7 @@ Visitors typically spend 30 minutes to an hour exploring the church, but those w
 Photography policies can vary, so check for any signs or inquire with church staff about permitted areas for photography.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are available, as this can enhance your understanding of the church’s history and architecture.
+Check the official website for information on whether guided tours are available, as this can enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays generally provide a quieter experience, while attending a service on Sunday can offer insight into the local community's worship practices.

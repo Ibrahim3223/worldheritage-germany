@@ -72,13 +72,13 @@ While exploring the Storchen Museum, take advantage of the opportunity to visit 
 
 ## Insider Tips
 
-For those planning a visit to the Storchen Museum, consider bringing a camera to capture the engaging exhibits and unique architecture. However, be sure to check the museum’s photography policy, as certain areas may have restrictions.
+For those planning a visit to the Storchen Museum, consider bringing a camera to capture the engaging exhibits and unique architecture. However, be sure to check the museum's photography policy, as certain areas may have restrictions.
 
 To enhance your experience, try to visit during off-peak hours, typically early in the morning or later in the afternoon. This will allow you to enjoy a more intimate exploration of the museum without the distraction of large groups.
 
 ## Practical Information
 
-When preparing for your visit to the Storchen Museum, it's wise to bring essentials such as water, comfortable walking shoes, and perhaps a light jacket depending on the season. The museum's environment is generally welcoming, but it’s always good to come prepared for varying weather conditions.
+When preparing for your visit to the Storchen Museum, it's wise to bring essentials such as water, comfortable walking shoes, and perhaps a light jacket depending on the season. The museum's environment is generally welcoming, but it's always good to come prepared for varying weather conditions.
 
 Seasonal considerations may influence your visit, especially during holidays or local festivals, when the museum might have special events or extended hours. Always check the official website for current information to ensure you have the most accurate details regarding your visit.
 
@@ -97,7 +97,7 @@ Guided tours may be available, providing a deeper understanding of the exhibits 
 Weekdays are often less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-The museum strives to accommodate all visitors. It’s advisable to check with the official website for specific accessibility information.
+The museum strives to accommodate all visitors. It's advisable to check with the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary. Check the official website for details on online ticket sales.

@@ -36,7 +36,7 @@ The historical importance of Taborkirche is deeply rooted in its role within the
 
 Leipzig has been a melting pot of ideas, particularly during periods of social and political change. The church has likely been a venue for community gatherings, religious services, and possibly even discussions that shaped local and regional perspectives. While exact historical milestones may not be available, the church stands as a reminder of the resilient spirit of its congregation and the local community over the years.
 
-Moreover, the church's architecture and design encapsulate various influences that have permeated the region. As styles evolved, so too did the buildings that represented them. Taborkirche’s design reflects the transitions in architectural trends, making it not only a place of worship but also a canvas of the city’s evolving identity. This significance is amplified by the church's location within Leipzig, an area saturated with cultural landmarks, which positions Taborkirche as a crucial player in the city's broader historical context.
+Moreover, the church's architecture and design encapsulate various influences that have permeated the region. As styles evolved, so too did the buildings that represented them. Taborkirche's design reflects the transitions in architectural trends, making it not only a place of worship but also a canvas of the city's evolving identity. This significance is amplified by the church's location within Leipzig, an area saturated with cultural landmarks, which positions Taborkirche as a crucial player in the city's broader historical context.
 
 ## Architecture and Features
 
@@ -84,7 +84,7 @@ To fully enjoy your visit to Taborkirche, consider these insider tips:
 
 When preparing for a visit to Taborkirche, keep the following practical considerations in mind:
 
-- **What to Bring**: It’s advisable to bring a small bag with essentials such as water, a camera, and perhaps a notebook for jotting down thoughts or observations.
+- **What to Bring**: It's advisable to bring a small bag with essentials such as water, a camera, and perhaps a notebook for jotting down thoughts or observations.
 
 - **Seasonal Considerations**: Weather can affect your visit, so check the forecast in advance. Dressing in layers is often a good idea, as church interiors may be cooler or warmer than expected.
 
@@ -94,7 +94,7 @@ When preparing for a visit to Taborkirche, keep the following practical consider
 A visit typically takes about one to two hours, depending on your interest in exploring the surroundings.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any restrictions, particularly during services.
+Photography policies may vary; it's best to check for any restrictions, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and whether they are available during your visit.
@@ -103,7 +103,7 @@ Check the official website for information on guided tours and whether they are 
 Weekdays are generally quieter, making them a great choice for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s advisable to confirm with the official website for current information.
+Accessibility details may vary; it's advisable to confirm with the official website for current information.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

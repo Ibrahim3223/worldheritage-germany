@@ -72,7 +72,7 @@ While visiting the Koenraad-Bosman-Museum, several nearby attractions can comple
 
 To make the most of your visit to the Koenraad-Bosman-Museum, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibitions may have restrictions. If permitted, be mindful of your surroundings and fellow visitors.
+- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. If permitted, be mindful of your surroundings and fellow visitors.
   
 - **Crowd Avoidance**: Aim to visit during weekdays or early in the day to enjoy a quieter experience. Special exhibitions can attract larger crowds, so planning ahead is beneficial.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Koenraad-Bosman-Museum, consider the follow
 Most visitors find that a visit of 2 to 3 hours allows ample time to explore the galleries and engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it is best to check the museum’s guidelines upon arrival or on their official website.
+Photography policies can vary, so it is best to check the museum's guidelines upon arrival or on their official website.
 
 ### Are there guided tours?
 The museum may offer guided tours, but availability can vary. Check the official website for scheduling and details.
@@ -99,7 +99,7 @@ The museum may offer guided tours, but availability can vary. Check the official
 Weekdays or early mornings tend to be less crowded, offering a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features are generally available, but it’s advisable to confirm specific accommodations on the official website.
+Accessibility features are generally available, but it's advisable to confirm specific accommodations on the official website.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and any discounts that may be available.

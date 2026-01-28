@@ -58,7 +58,7 @@ The museum may experience varying levels of attendance throughout the week. If y
 
 While visiting the Gotha Museum of Nature, consider exploring other attractions in the vicinity to enrich your experience in the region. Nearby points of interest may include:
 
-1. **Gotha Palace**: An historical landmark showcasing exquisite architecture and gardens, offering insight into the region’s royal heritage.
+1. **Gotha Palace**: An historical landmark showcasing exquisite architecture and gardens, offering insight into the region's royal heritage.
    
 2. **Duchess Anna Amalia Library**: A UNESCO World Heritage site that houses a vast collection of books and manuscripts, providing a glimpse into the literary history of Germany.
 
@@ -76,7 +76,7 @@ Engaging with museum staff can enhance your visit; they are typically knowledgea
 
 ## Practical Information
 
-When preparing for your visit to the Gotha Museum of Nature, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a notebook if you wish to jot down interesting facts. Seasonal considerations, such as weather conditions, may also influence your experience, so check forecasts and dress accordingly.
+When preparing for your visit to the Gotha Museum of Nature, it's advisable to bring along essentials such as water, comfortable walking shoes, and a notebook if you wish to jot down interesting facts. Seasonal considerations, such as weather conditions, may also influence your experience, so check forecasts and dress accordingly.
 
 If you are traveling during peak tourist seasons, be sure to plan ahead to ensure a smooth visit, especially if you aim to participate in specific events or programs. 
 

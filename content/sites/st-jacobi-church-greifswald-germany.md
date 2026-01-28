@@ -32,7 +32,7 @@ St. Jacobi, located in the historic town of Greifswald, Germany, serves as a sig
 
 While specific dates in the church's history are not outlined, St. Jacobi's significance emerges from its longstanding presence in Greifswald. The church reflects the architectural styles and cultural influences that have shaped the region over the years. Greifswald itself has a storied past, having been a center of trade and scholarship since the Middle Ages. St. Jacobi stands as a witness to the myriad changes that have occurred in the town, from economic shifts to the evolution of religious practices.
 
-The church's role in the community is profound. It has served as a spiritual sanctuary for generations, fostering a sense of belonging among residents. In addition, St. Jacobi has hosted numerous cultural events and gatherings, strengthening its position as a cultural hub in Greifswald. The church’s architecture and the stories it tells contribute to a broader understanding of the region's identity and values.
+The church's role in the community is profound. It has served as a spiritual sanctuary for generations, fostering a sense of belonging among residents. In addition, St. Jacobi has hosted numerous cultural events and gatherings, strengthening its position as a cultural hub in Greifswald. The church's architecture and the stories it tells contribute to a broader understanding of the region's identity and values.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ The best times to visit are generally during weekdays when the church may be les
 
 1. **Greifswald University**: One of Germany's oldest universities, known for its impressive architecture and vibrant student life.
 2. **Museum of Cultural History**: Offers insights into the regional history of Greifswald and its surroundings, showcasing various artifacts and exhibitions.
-3. **St. Mary’s Church**: Another significant church in the area, noted for its unique architectural features and historical importance.
+3. **St. Mary's Church**: Another significant church in the area, noted for its unique architectural features and historical importance.
 4. **Ryck River Promenade**: A scenic pathway along the river, perfect for leisurely walks and enjoying the natural beauty of the region.
 5. **Greifswald Botanical Garden**: A peaceful spot showcasing a variety of plant species, ideal for relaxation and exploration.
 
@@ -62,7 +62,7 @@ For photography enthusiasts, early mornings or late afternoons provide the best 
 
 ## Practical Information
 
-When visiting St. Jacobi, it’s advisable to dress modestly, keeping in mind that it is a place of worship. Bringing a small bag for personal items is recommended, as larger bags may not be permitted inside. Seasonal considerations should also be taken into account; during the winter months, temperatures can be quite low, so dressing warmly is essential.
+When visiting St. Jacobi, it's advisable to dress modestly, keeping in mind that it is a place of worship. Bringing a small bag for personal items is recommended, as larger bags may not be permitted inside. Seasonal considerations should also be taken into account; during the winter months, temperatures can be quite low, so dressing warmly is essential.
 
 Be sure to check the official website for any updates on local events or specific visiting guidelines that may be in place during your visit.
 
@@ -75,7 +75,7 @@ A visit to St. Jacobi typically takes about an hour, allowing ample time to appr
 Photography is generally permitted, but it is important to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
-Information on guided tours may vary, so it’s best to check the official website for details on available options.
+Information on guided tours may vary, so it's best to check the official website for details on available options.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, making them ideal for a more peaceful experience. Local festivals or events can also enhance your visit.

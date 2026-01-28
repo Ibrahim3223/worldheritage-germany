@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Max Planck Digital Library, located in the vibrant city of Munich, Germany, serves as a central service unit for the Max Planck Society (MPG). This esteemed institution is dedicated to promoting scientific research and facilitating access to scholarly resources. The library not only enhances the research capabilities of MPG’s numerous institutes but also plays a pivotal role in the global academic community. As an essential resource for researchers and scholars, it provides access to a vast array of scientific publications, databases, and digital tools that support innovation and discovery.
+The Max Planck Digital Library, located in the vibrant city of Munich, Germany, serves as a central service unit for the Max Planck Society (MPG). This esteemed institution is dedicated to promoting scientific research and facilitating access to scholarly resources. The library not only enhances the research capabilities of MPG's numerous institutes but also plays a pivotal role in the global academic community. As an essential resource for researchers and scholars, it provides access to a vast array of scientific publications, databases, and digital tools that support innovation and discovery.
 
-Situated in a city renowned for its rich cultural heritage and academic prowess, the Max Planck Digital Library is strategically positioned to serve both local and international researchers. The significance of this library extends beyond its physical space; it embodies the spirit of collaboration and knowledge-sharing that is central to the mission of the Max Planck Society. Visitors and researchers alike will find a wealth of resources that reflect the organization’s commitment to excellence in research and education.
+Situated in a city renowned for its rich cultural heritage and academic prowess, the Max Planck Digital Library is strategically positioned to serve both local and international researchers. The significance of this library extends beyond its physical space; it embodies the spirit of collaboration and knowledge-sharing that is central to the mission of the Max Planck Society. Visitors and researchers alike will find a wealth of resources that reflect the organization's commitment to excellence in research and education.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ Moreover, the library plays a vital role in preserving scientific literature and
 
 ## Architecture and Features
 
-The Max Planck Digital Library’s architectural design reflects a modern approach to library spaces, emphasizing functionality and accessibility. While specific architectural details are not provided, the library is designed to accommodate the needs of researchers and scholars, creating an environment conducive to study and collaboration.
+The Max Planck Digital Library's architectural design reflects a modern approach to library spaces, emphasizing functionality and accessibility. While specific architectural details are not provided, the library is designed to accommodate the needs of researchers and scholars, creating an environment conducive to study and collaboration.
 
 Inside, visitors will discover a range of digital resources and tools that facilitate research. The library's digital infrastructure is noteworthy, featuring access to numerous scientific databases, e-journals, and online publications. The user-friendly interface enables researchers to navigate vast amounts of information quickly, making their research process more efficient.
 
@@ -52,7 +52,7 @@ For those interested in exploring the Max Planck Digital Library, it is advisabl
 
 To ensure a productive experience, check the official website for current information regarding opening hours and any potential admission fees. As a hub of scholarly activity, the library may experience peak times, particularly during academic semesters or when major research initiatives are underway. To avoid crowds, consider visiting during mid-week or during quieter periods of the academic calendar.
 
-Typically, visitors may want to allocate a few hours to fully explore the library’s offerings. Whether you are a researcher on a specific project or simply interested in the resources available, the Max Planck Digital Library provides an enriching experience.
+Typically, visitors may want to allocate a few hours to fully explore the library's offerings. Whether you are a researcher on a specific project or simply interested in the resources available, the Max Planck Digital Library provides an enriching experience.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ While visiting the Max Planck Digital Library, consider exploring some of the ne
 
 When planning your visit to the Max Planck Digital Library, consider the following insider tips for enhancing your experience:
 
-- **Photography**: Check the library’s photography policy before taking pictures, as there may be restrictions in place to preserve the privacy and integrity of the research environment.
+- **Photography**: Check the library's photography policy before taking pictures, as there may be restrictions in place to preserve the privacy and integrity of the research environment.
 
 - **Crowd Avoidance**: To experience the library in a quieter setting, visit during weekdays, particularly in the morning or early afternoon when foot traffic is typically lower.
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Max Planck Digital Library, keep the follow
 Visitors typically allocate a few hours to explore the library thoroughly, depending on their research needs.
 
 ### Is photography allowed?
-Photography policies may vary, so check the library’s guidelines before taking any pictures.
+Photography policies may vary, so check the library's guidelines before taking any pictures.
 
 ### Are there guided tours?
 The library may offer resources or self-guided materials for visitors. Check the official website for more information.

@@ -101,19 +101,19 @@ The time spent at the site can vary based on personal interest. A visit could ta
 Photography policies may vary, so check for any signage or guidelines at the site regarding photography.
 
 ### Are there guided tours?
-While specific guided tours may not be available at the site, local tour operators may offer broader historical tours of Mainz that include the synagogue’s history.
+While specific guided tours may not be available at the site, local tour operators may offer broader historical tours of Mainz that include the synagogue's history.
 
 ### What's the best time to visit?
 Weekdays and early mornings are generally the best times for a quieter experience. 
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for details on wheelchair access to the site.
+Accessibility information may vary, so it's advisable to check the official website for details on wheelchair access to the site.
 
 ### Can I buy tickets online?
 Check the official website for information on any ticketing requirements or opportunities for online purchases.
 
 ### Are there restrooms and cafes?
-Depending on the site’s current offerings, amenities may vary. Be sure to check for nearby cafes and restrooms in the surrounding area.
+Depending on the site's current offerings, amenities may vary. Be sure to check for nearby cafes and restrooms in the surrounding area.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that some visitors may prefer more respectful attire when visiting historical and religious sites.

@@ -28,7 +28,7 @@ image_srcset:
 
 The Staatliche Kunstsammlungen Dresden represents a remarkable confluence of artistry and history, showcasing an extensive collection of fine art across a complex of 15 museums in Dresden, Germany. This prestigious institution is one of the oldest and most significant art collections in the world, housing masterpieces that span centuries and diverse cultures. The museum complex is located in the heart of Dresden, a city famed for its architectural beauty and cultural heritage, making it a must-visit destination for art enthusiasts and casual visitors alike. 
 
-As you explore the halls of the Staatliche Kunstsammlungen, you will encounter works by renowned artists, intricate decorative arts, and exhibitions that reflect the rich artistic legacy of Europe. The collection invites you to appreciate art’s power to inspire, provoke thought, and convey the complexities of human experience. Whether you are an aficionado of classical paintings or curious about contemporary installations, the museum promises an engaging and stimulating experience.
+As you explore the halls of the Staatliche Kunstsammlungen, you will encounter works by renowned artists, intricate decorative arts, and exhibitions that reflect the rich artistic legacy of Europe. The collection invites you to appreciate art's power to inspire, provoke thought, and convey the complexities of human experience. Whether you are an aficionado of classical paintings or curious about contemporary installations, the museum promises an engaging and stimulating experience.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ Today, the Staatliche Kunstsammlungen Dresden serves not only as a repository of
 
 ## Architecture and Features
 
-The architectural ensemble of the Staatliche Kunstsammlungen Dresden reflects the grandeur and elegance of its historical context. Each of the 15 museums showcases unique architectural styles, from Baroque to Neoclassical, harmonizing with the city’s overall aesthetic. One of the most iconic structures within the complex is the Zwinger Palace, a masterpiece of Baroque architecture that serves as the centerpiece of the collection.
+The architectural ensemble of the Staatliche Kunstsammlungen Dresden reflects the grandeur and elegance of its historical context. Each of the 15 museums showcases unique architectural styles, from Baroque to Neoclassical, harmonizing with the city's overall aesthetic. One of the most iconic structures within the complex is the Zwinger Palace, a masterpiece of Baroque architecture that serves as the centerpiece of the collection.
 
 Visitors will be drawn to the intricate façades, ornate detailing, and beautifully designed courtyards that characterize the Zwinger. Inside, the museum features spacious galleries with high ceilings, allowing art to be displayed in a manner that enhances the viewer's experience. The interplay of light through large windows adds an ethereal quality to the artworks on display, creating an inviting atmosphere.
 

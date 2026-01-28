@@ -34,7 +34,7 @@ With its unique position within the community and its architectural merits, Mari
 
 ## History and Significance
 
-While specific historical details about Maria Königin are not provided, the church’s existence within Lüdenscheid highlights the importance of religious architecture in German culture. Churches often serve as historical markers, encapsulating the spiritual and social evolution of their communities. Maria Königin is likely to have witnessed various phases of local history, reflecting the changing dynamics of faith and community.
+While specific historical details about Maria Königin are not provided, the church's existence within Lüdenscheid highlights the importance of religious architecture in German culture. Churches often serve as historical markers, encapsulating the spiritual and social evolution of their communities. Maria Königin is likely to have witnessed various phases of local history, reflecting the changing dynamics of faith and community.
 
 Church buildings like Maria Königin typically act as gathering points for celebrations, ceremonies, and communal activities, establishing them as integral parts of the local identity. The architecture and design of such buildings often mirror the artistic and cultural trends of their time, offering insights into the values and priorities of the community.
 
@@ -52,7 +52,7 @@ In addition to its physical structure, the church likely holds artistic elements
 
 When planning a visit to Maria Königin, it is advisable to check the official website for current information regarding visiting hours and any potential admission fees. Lüdenscheid is accessible via various transport options, with public transit providing convenient routes to the church. Depending on your location, driving might also be a viable option, with parking facilities typically available nearby.
 
-Visitors can expect to spend a leisurely amount of time exploring the church’s interior and participating in the tranquil atmosphere it offers. Whether attending a service or simply enjoying the space, a visit can be both enriching and restorative.
+Visitors can expect to spend a leisurely amount of time exploring the church's interior and participating in the tranquil atmosphere it offers. Whether attending a service or simply enjoying the space, a visit can be both enriching and restorative.
 
 The best times to visit may coincide with community events, services, or during quieter parts of the day when fewer visitors are present. Engaging with the local community through such events can enhance the experience of visiting Maria Königin.
 

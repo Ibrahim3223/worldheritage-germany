@@ -86,7 +86,7 @@ When preparing for your visit to the DITIB-Zentralmoschee Essen, keep the follow
 A visit can typically last between one to two hours, allowing enough time to explore the mosque and engage with community members.
 
 ### Is photography allowed?
-Photography may be allowed in certain areas, but it’s best to ask for permission, particularly during prayer times.
+Photography may be allowed in certain areas, but it's best to ask for permission, particularly during prayer times.
 
 ### Are there guided tours?
 Guided tours may be available, but it's advisable to check the official website for current offerings and schedules.

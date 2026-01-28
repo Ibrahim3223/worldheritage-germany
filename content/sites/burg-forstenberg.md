@@ -72,7 +72,7 @@ While Burg Forstenberg is a destination in its own right, several nearby attract
 
 When planning your visit to Burg Forstenberg, consider the following tips to enhance your experience:
 
-- **Photography**: The remnants of the castle provide ample opportunities for photography. Early mornings or late afternoons typically offer the best natural light for capturing the site’s features.
+- **Photography**: The remnants of the castle provide ample opportunities for photography. Early mornings or late afternoons typically offer the best natural light for capturing the site's features.
 
 - **Crowd Avoidance**: To avoid peak visitor times, consider visiting on weekdays or during the shoulder seasons. This allows for a more intimate experience as you explore the site.
 
@@ -95,7 +95,7 @@ A visit to Burg Forstenberg typically takes about 2 hours, allowing time for exp
 Yes, photography is generally permitted, but it's always wise to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-While specific details about guided tours may vary, it’s advisable to check the official website for current information regarding availability.
+While specific details about guided tours may vary, it's advisable to check the official website for current information regarding availability.
 
 ### What's the best time to visit?
 The best times to visit are during the warmer months, though each season offers a unique perspective on the site.

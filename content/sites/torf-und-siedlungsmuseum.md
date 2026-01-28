@@ -76,7 +76,7 @@ To enhance your visit to the Torf- und Siedlungsmuseum, consider the following t
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the morning can provide a quieter experience, allowing for more intimate engagement with the exhibits.
 
-- **Take Notes**: If you’re keen on learning, bringing a notebook can help you jot down interesting facts or reflections during your visit.
+- **Take Notes**: If you're keen on learning, bringing a notebook can help you jot down interesting facts or reflections during your visit.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ Always check the official website for any updates on visiting conditions, specia
 Typically, visitors spend about 1-2 hours exploring the exhibits, but this can vary based on personal interest.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival.
+Photography policies may vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

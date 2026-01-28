@@ -36,7 +36,7 @@ Through its exhibitions, the museum engages with pressing social and cultural is
 
 The architectural design of the Talberg Museum complements its artistic mission. While specific architectural details are not provided, the museum likely features spaces conducive to displaying a variety of art forms. Art museums often prioritize natural lighting to enhance the viewing experience, creating an inviting atmosphere for visitors to engage with the artwork.
 
-Inside, the layout is designed to facilitate movement and exploration, allowing visitors to navigate through different galleries seamlessly. The arrangement of artworks is typically curated to encourage reflection and interaction, fostering a deeper understanding of the pieces on display. As you wander through the museum’s halls, anticipate encountering various artistic media, including paintings, sculptures, and possibly multimedia installations.
+Inside, the layout is designed to facilitate movement and exploration, allowing visitors to navigate through different galleries seamlessly. The arrangement of artworks is typically curated to encourage reflection and interaction, fostering a deeper understanding of the pieces on display. As you wander through the museum's halls, anticipate encountering various artistic media, including paintings, sculptures, and possibly multimedia installations.
 
 Additionally, the museum's interior may include features that enhance the visitor experience, such as informative plaques, interactive displays, or areas designated for special exhibitions. These elements work together to create a cohesive environment where art can be appreciated in its many forms.
 
@@ -68,7 +68,7 @@ While the Talberg Museum is a destination in its own right, the surrounding area
 
 To enhance your experience at the Talberg Museum, consider the following insider tips:
 
-- **Photography**: Be mindful of the museum’s photography policy. While some museums allow photography, others may have restrictions to protect the artwork. Always check the guidelines upon entry.
+- **Photography**: Be mindful of the museum's photography policy. While some museums allow photography, others may have restrictions to protect the artwork. Always check the guidelines upon entry.
 
 - **Crowd Avoidance**: If you prefer a quieter atmosphere, aim for early morning visits or weekdays, as weekends may attract larger crowds.
 
@@ -101,7 +101,7 @@ Check the official website for information on guided tours that may be available
 Weekdays or early mornings are often quieter, while the fall and spring months offer pleasant weather for travel.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s best to consult the official website for details on facilities.
+Accessibility information can vary, so it's best to consult the official website for details on facilities.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases for convenience.

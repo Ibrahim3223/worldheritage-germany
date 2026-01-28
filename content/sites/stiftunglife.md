@@ -82,7 +82,7 @@ Photography policies may vary, so it's best to check upon arrival for any specif
 Check the official website for information on guided tours and any associated costs.
 
 ### What's the best time to visit?
-Weekdays or early mornings may offer a quieter experience, but it’s wise to check for special events that could enhance your visit.
+Weekdays or early mornings may offer a quieter experience, but it's wise to check for special events that could enhance your visit.
 
 ### Is it wheelchair accessible?
 Accessibility information may be available on the official website, which is recommended for the most accurate details.

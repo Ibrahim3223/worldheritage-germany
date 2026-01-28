@@ -102,7 +102,7 @@ The best times to visit are during spring and autumn when the weather is mild an
 Accessibility details are not specified; check the official website for the latest information regarding accessibility options.
 
 ### Can I buy tickets online?
-Details regarding ticket purchasing are not provided, so it’s advisable to check the official website for current information.
+Details regarding ticket purchasing are not provided, so it's advisable to check the official website for current information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are not mentioned; be sure to check the official website for visitor amenities.

@@ -78,7 +78,7 @@ For those planning a visit to Barker Heide, here are a few insider tips to enhan
 
 ## Practical Information
 
-When visiting Barker Heide, it’s essential to come prepared. Here are some practical tips to ensure a smooth experience:
+When visiting Barker Heide, it's essential to come prepared. Here are some practical tips to ensure a smooth experience:
 
 - **What to Bring**: Comfortable walking shoes, water, and sunscreen are important for a day spent outdoors. A pair of binoculars can enhance your birdwatching experience.
 
@@ -90,10 +90,10 @@ When visiting Barker Heide, it’s essential to come prepared. Here are some pra
 Visitors typically spend a few hours at Barker Heide, depending on how much of the reserve they wish to explore.
 
 ### Is photography allowed?
-Yes, photography is allowed, but it’s encouraged to respect wildlife and their habitats by maintaining a safe distance.
+Yes, photography is allowed, but it's encouraged to respect wildlife and their habitats by maintaining a safe distance.
 
 ### Are there guided tours?
-Currently, specific guided tours may not be available. It’s best to check the official website for any educational programs or events that may be offered.
+Currently, specific guided tours may not be available. It's best to check the official website for any educational programs or events that may be offered.
 
 ### What's the best time to visit?
 The best times to visit are during spring and fall when the flora is vibrant and wildlife is most active.

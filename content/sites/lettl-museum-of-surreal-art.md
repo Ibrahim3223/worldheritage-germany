@@ -52,9 +52,9 @@ The best times to visit the museum can vary, but typically, weekdays tend to be 
 
 While visiting the Lettl Museum, consider exploring other notable attractions in Augsburg:
 
-1. **Augsburg Cathedral**: A stunning example of Gothic architecture, this cathedral is an essential stop for anyone interested in the city’s religious and architectural history.
+1. **Augsburg Cathedral**: A stunning example of Gothic architecture, this cathedral is an essential stop for anyone interested in the city's religious and architectural history.
 
-2. **Fuggerei**: The world’s oldest social housing complex, established in the 16th century, offers a fascinating glimpse into Augsburg’s social history.
+2. **Fuggerei**: The world's oldest social housing complex, established in the 16th century, offers a fascinating glimpse into Augsburg's social history.
 
 3. **Augsburg Town Hall**: Renowned for its opulent Renaissance architecture, the Town Hall is home to impressive frescoes and an ornate golden hall.
 
@@ -86,7 +86,7 @@ When planning your visit to the Lettl Museum of Surreal Art, consider the follow
 A visit of one to two hours is generally sufficient to engage with the exhibits at the Lettl Museum, depending on your interest level.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum’s official website for specific guidelines regarding photography.
+Photography policies may vary, so it's best to check the museum's official website for specific guidelines regarding photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the artworks and their significance.
@@ -98,7 +98,7 @@ Weekdays, particularly in the afternoon, tend to be less crowded than weekends, 
 For information on accessibility, including wheelchair access, please refer to the official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options can vary, so it’s recommended to check the official website for current information on online ticket sales.
+Ticket purchasing options can vary, so it's recommended to check the official website for current information on online ticket sales.
 
 ### Are there restrooms and cafes?
 Visitors should check the official website for details on available amenities, including restrooms and dining options.

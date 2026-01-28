@@ -34,7 +34,7 @@ As you approach the castle, the imposing structure is a reminder of the ingenuit
 
 Burg Hohenkrähen's history is steeped in the complexities of medieval power dynamics and territorial control. While specific historical dates may not be available, the castle's origins can be traced back to a period when fortified structures were vital for protection against rival factions. As a defensive stronghold, it played a crucial role in the regional conflicts that shaped the area.
 
-The castle’s architecture reflects the strategic importance of its location. Its elevated position provided a significant advantage for surveillance and defense, allowing its inhabitants to oversee the surrounding territories. Over the centuries, Burg Hohenkrähen witnessed various changes in ownership and purpose, adapting to the shifting tides of history. It has served not only as a military stronghold but also as a residence for noble families, each contributing to the castle's evolving narrative.
+The castle's architecture reflects the strategic importance of its location. Its elevated position provided a significant advantage for surveillance and defense, allowing its inhabitants to oversee the surrounding territories. Over the centuries, Burg Hohenkrähen witnessed various changes in ownership and purpose, adapting to the shifting tides of history. It has served not only as a military stronghold but also as a residence for noble families, each contributing to the castle's evolving narrative.
 
 Culturally, Burg Hohenkrähen stands as a symbol of the medieval heritage of Germany. It embodies the architectural styles and defensive techniques of its time, offering insights into the societal structures and lifestyles of those who lived within its walls. The castle's significance extends beyond its physical structure; it is a reminder of the region's historical journey and the people who shaped it.
 
@@ -94,7 +94,7 @@ When planning your trip to Burg Hohenkrähen, here are some practical considerat
 A visit typically takes around 2-3 hours, allowing time to explore the castle grounds and appreciate its historical significance.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but be respectful of other visitors and the site’s guidelines.
+Yes, photography is generally permitted, but be respectful of other visitors and the site's guidelines.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary throughout the year.
@@ -109,9 +109,9 @@ Accessibility details may vary; check the official website for specific informat
 Check the official website for current ticket purchasing options, as this may change.
 
 ### Are there restrooms and cafes?
-Amenities may be limited on-site. It’s advisable to bring your own snacks and check for restroom facilities before your visit.
+Amenities may be limited on-site. It's advisable to bring your own snacks and check for restroom facilities before your visit.
 
 ### What should I wear?
 Dress comfortably and wear sturdy shoes suitable for walking on uneven surfaces. Consider layering for changing weather conditions.
 
-Burg Hohenkrähen is more than just a castle; it’s a portal into the past that invites exploration and reflection on the historical narratives that have shaped the region. Whether you are a history buff, an architecture enthusiast, or simply seeking a peaceful retreat, this remarkable site offers something for everyone.
+Burg Hohenkrähen is more than just a castle; it's a portal into the past that invites exploration and reflection on the historical narratives that have shaped the region. Whether you are a history buff, an architecture enthusiast, or simply seeking a peaceful retreat, this remarkable site offers something for everyone.

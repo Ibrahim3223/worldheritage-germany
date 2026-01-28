@@ -54,7 +54,7 @@ While visiting Cultural heritage D-7-7632-0044, consider exploring these nearby 
 
 1. **Friedberg Town Center**: A short distance away, the town center offers charming streets lined with shops and cafes, perfect for an afternoon stroll.
 
-2. **St. Jacob’s Church**: This historic church, known for its stunning architecture, provides insight into the religious heritage of the area.
+2. **St. Jacob's Church**: This historic church, known for its stunning architecture, provides insight into the religious heritage of the area.
 
 3. **Aichach Castle**: Located a bit further, this castle showcases the historical significance of the region and offers beautiful grounds for exploration.
 
@@ -80,7 +80,7 @@ Check for any specific regulations regarding what items are permitted within the
 A few hours are generally sufficient to explore the fortification and enjoy the surrounding area, but you could extend your visit if you wish to delve deeper into local attractions.
 
 ### Is photography allowed?
-Typically, photography is allowed, but it’s advisable to check any specific regulations at the site upon arrival.
+Typically, photography is allowed, but it's advisable to check any specific regulations at the site upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may enhance your experience with detailed insights.

@@ -28,7 +28,7 @@ image_srcset:
 
 St. Vitus in Gammelsdorf is an enchanting church building located in the heart of Bavaria, Germany. This site serves not only as a place of worship but also as a significant cultural landmark within the region. The church's historical and architectural significance attracts visitors who seek a deeper understanding of Bavarian ecclesiastical architecture and its impact on local heritage. Nestled in a tranquil setting, St. Vitus invites exploration and contemplation, making it a worthwhile destination for those journeying through Bavaria.
 
-The church's coordinates place it conveniently within Gammelsdorf, a charming village that offers a glimpse into the pastoral life of this picturesque area. As you approach St. Vitus, you will find that it stands as a focal point of community life, reflecting the traditions and values of the local populace. Visitors can expect a serene atmosphere complemented by the church’s historical significance, making it an ideal stop for cultural enthusiasts and casual travelers alike.
+The church's coordinates place it conveniently within Gammelsdorf, a charming village that offers a glimpse into the pastoral life of this picturesque area. As you approach St. Vitus, you will find that it stands as a focal point of community life, reflecting the traditions and values of the local populace. Visitors can expect a serene atmosphere complemented by the church's historical significance, making it an ideal stop for cultural enthusiasts and casual travelers alike.
 
 ## History and Significance
 

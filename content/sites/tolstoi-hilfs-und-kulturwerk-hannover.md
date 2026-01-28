@@ -84,7 +84,7 @@ When preparing for your visit to the Tolstoi Hilfs- und Kulturwerk, keep the fol
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. Bringing a notebook or sketchpad can also be beneficial for jotting down insights or sketching inspiration during your visit.
 
-- **Seasonal Considerations**: The programming may vary with the seasons, so it’s wise to check the official website for special events or seasonal activities that could enhance your visit.
+- **Seasonal Considerations**: The programming may vary with the seasons, so it's wise to check the official website for special events or seasonal activities that could enhance your visit.
 
 ## Frequently Asked Questions
 

@@ -78,7 +78,7 @@ When visiting the Library at the Church Administrative Office, consider these in
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during mid-week days and avoid weekends when the library may see more visitors due to community programs or events.
 
-- **Resources**: Familiarize yourself with the library’s catalog or inquire with staff upon arrival. They can guide you to specific resources that align with your interests.
+- **Resources**: Familiarize yourself with the library's catalog or inquire with staff upon arrival. They can guide you to specific resources that align with your interests.
 
 - **Study Areas**: Utilize designated study areas for a comfortable experience. If you plan to spend several hours, bring a notebook or laptop for note-taking.
 
@@ -100,7 +100,7 @@ Before visiting the Library at the Church Administrative Office of the Evangelic
 A visit can range from one to several hours, depending on your interest in exploring the collections and engaging with the library's resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with library staff upon arrival regarding any restrictions.
+Photography policies may vary, so it's best to check with library staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 While specific information on guided tours is not available, inquire with staff if they offer tours or special programs during your visit.

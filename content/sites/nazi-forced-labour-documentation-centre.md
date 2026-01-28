@@ -28,7 +28,7 @@ image_srcset:
 
 The Nazi Forced Labour Documentation Centre stands as a crucial site of remembrance and education in Berlin, Germany. This museum delves into the harrowing history of forced labor during the Nazi regime, presenting a narrative that is both significant and necessary for understanding the broader implications of human rights and dignity. Located in a city steeped in history, the museum offers visitors an opportunity to reflect on the past while fostering discussions about justice and reconciliation in contemporary society.
 
-As a part of Germany’s efforts to confront its past, the Documentation Centre meticulously curates exhibits that detail the experiences of millions of individuals who were subjected to forced labor. Through a combination of personal stories, historical documents, and multimedia installations, the museum provides an immersive experience that encourages deep reflection on the consequences of intolerance and oppression. 
+As a part of Germany's efforts to confront its past, the Documentation Centre meticulously curates exhibits that detail the experiences of millions of individuals who were subjected to forced labor. Through a combination of personal stories, historical documents, and multimedia installations, the museum provides an immersive experience that encourages deep reflection on the consequences of intolerance and oppression. 
 
 Whether you are a history enthusiast, a student, or simply a curious traveler, the Nazi Forced Labour Documentation Centre promises to deliver an impactful experience that resonates long after your visit.
 
@@ -92,7 +92,7 @@ When planning your visit to the Nazi Forced Labour Documentation Centre, conside
 Plan to spend around two to three hours at the museum to fully engage with the exhibits and content presented.
 
 ### Is photography allowed?
-Photography policies may vary within the museum. It’s best to check for signs or inquire at the entrance.
+Photography policies may vary within the museum. It's best to check for signs or inquire at the entrance.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website. Consider booking in advance if you prefer a guided experience.
@@ -101,7 +101,7 @@ Information on guided tours may be available on the official website. Consider b
 Early mornings or weekdays are generally recommended for a quieter experience, avoiding the busier weekends.
 
 ### Is it wheelchair accessible?
-The museum aims to be inclusive, but it’s advisable to check the official website for specific accessibility information.
+The museum aims to be inclusive, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases, which may save you time during your visit.

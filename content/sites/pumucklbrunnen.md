@@ -76,7 +76,7 @@ To avoid larger crowds, visiting during weekdays is advisable, as weekends tend 
 
 ## Practical Information
 
-When visiting Pumucklbrunnen, it’s wise to bring essentials such as a water bottle, comfortable walking shoes, and a camera to capture the delightful moments. Depending on the season, dressing in layers can be beneficial, as Munich weather can be unpredictable.
+When visiting Pumucklbrunnen, it's wise to bring essentials such as a water bottle, comfortable walking shoes, and a camera to capture the delightful moments. Depending on the season, dressing in layers can be beneficial, as Munich weather can be unpredictable.
 
 In warmer months, visitors may want to carry sunscreen and a hat, while cooler months may require a jacket. Additionally, if you plan to enjoy the nearby parks or cafes, consider bringing snacks or a picnic blanket for a more relaxed experience.
 

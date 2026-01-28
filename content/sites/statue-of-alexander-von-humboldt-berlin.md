@@ -28,7 +28,7 @@ image_srcset:
 
 The Statue of Alexander von Humboldt in Berlin stands as a tribute to one of the most influential figures in the history of science and exploration. Located in the Bezirk Mitte district, this statue honors Humboldt's contributions to natural sciences and geography. Renowned for his expeditions and meticulous observations, Humboldt's legacy extends far beyond Germany, influencing countless scientists and thinkers around the world. As visitors approach the statue, they are invited to reflect on the spirit of inquiry and discovery that Humboldt embodied throughout his lifetime. The statue serves not only as a monument commemorating his achievements but also as a point of interest in the vibrant cultural landscape of Berlin.
 
-Enveloping the statue are the bustling streets of Berlin, where history and modernity coexist. The site is easily accessible, making it an inviting stop for anyone exploring the city. Its significance goes beyond mere commemoration; it represents the ideals of scientific exploration and the interconnectedness of nature and humanity—a theme that resonates deeply in today’s world.
+Enveloping the statue are the bustling streets of Berlin, where history and modernity coexist. The site is easily accessible, making it an inviting stop for anyone exploring the city. Its significance goes beyond mere commemoration; it represents the ideals of scientific exploration and the interconnectedness of nature and humanity—a theme that resonates deeply in today's world.
 
 ## History and Significance
 
@@ -64,13 +64,13 @@ The area surrounding the Statue of Alexander von Humboldt is rich with attractio
 
 4. **Berlin State Library**: Located nearby, this library is a treasure for those interested in literature and research, showcasing extensive collections and historical documents.
 
-5. **Humboldt University**: Founded in the 19th century, this university is known for its contributions to education and research, reflecting Humboldt’s legacy in its commitment to scholarly inquiry.
+5. **Humboldt University**: Founded in the 19th century, this university is known for its contributions to education and research, reflecting Humboldt's legacy in its commitment to scholarly inquiry.
 
 ## Insider Tips
 
 For those looking to capture the perfect photograph of the statue, early mornings or late afternoons provide the best natural light. The softer lighting during these times enhances the statue's features and reduces the likelihood of crowds intruding on your shot. Additionally, consider framing the statue within the context of its surroundings to capture the essence of Berlin.
 
-To avoid peak visitation times, aim for weekday visits rather than weekends. This approach will allow for a more serene experience, facilitating deeper reflection on Humboldt’s contributions to science and exploration.
+To avoid peak visitation times, aim for weekday visits rather than weekends. This approach will allow for a more serene experience, facilitating deeper reflection on Humboldt's contributions to science and exploration.
 
 ## Practical Information
 
@@ -99,7 +99,7 @@ Accessibility features are generally available, but checking specific details on
 Typically, there are no entry fees for the statue; however, check the official website for any specific events or exhibitions that may require tickets.
 
 ### Are there restrooms and cafes?
-Public facilities may be available nearby. It’s advisable to explore local cafes and restaurants in the area for refreshments.
+Public facilities may be available nearby. It's advisable to explore local cafes and restaurants in the area for refreshments.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, as outdoor conditions can vary significantly throughout the year. Comfortable walking shoes are recommended for exploring the surrounding area.

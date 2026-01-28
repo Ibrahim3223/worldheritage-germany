@@ -84,7 +84,7 @@ When preparing for your visit to Torhaus Schloß Kreuth 2, keep the following pr
 The time spent at Torhaus Schloß Kreuth 2 can vary depending on your interest level, but generally, a visit can take anywhere from 30 minutes to a couple of hours.
 
 ### Is photography allowed?
-Photography is typically permitted at heritage sites like Torhaus Schloß Kreuth 2, but it’s advisable to be respectful of any guidelines that may be in place.
+Photography is typically permitted at heritage sites like Torhaus Schloß Kreuth 2, but it's advisable to be respectful of any guidelines that may be in place.
 
 ### Are there guided tours?
 Specific information about guided tours is not provided, so check the official website for details regarding any available tours or informational sessions.

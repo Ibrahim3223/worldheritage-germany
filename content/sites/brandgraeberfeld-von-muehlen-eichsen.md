@@ -36,7 +36,7 @@ The significance of the Brandgräberfeld von Mühlen Eichsen extends beyond its 
 
 The Brandgräberfeld von Mühlen Eichsen is primarily characterized by its burial mounds, which are significant features of the site. These mounds vary in size and shape, indicative of the different burial practices that may have existed in ancient times. The architecture of such mounds often involves earthworks, where soil is heaped to create a raised area, which serves as a final resting place for the deceased.
 
-While precise descriptions of individual features may not be available, burial mounds typically serve as markers of social status, with larger mounds potentially indicating more prominent individuals within the community. The arrangement of these mounds can also provide insights into the community’s layout and their cultural significance. 
+While precise descriptions of individual features may not be available, burial mounds typically serve as markers of social status, with larger mounds potentially indicating more prominent individuals within the community. The arrangement of these mounds can also provide insights into the community's layout and their cultural significance. 
 
 Visitors can expect to encounter a landscape dotted with these structures, each mound telling its own story of the past. As an archaeological site, the Brandgräberfeld von Mühlen Eichsen represents a physical manifestation of the cultural practices related to death and remembrance, inviting contemplation of the values placed upon those who have passed.
 

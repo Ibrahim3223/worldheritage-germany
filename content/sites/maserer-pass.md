@@ -48,7 +48,7 @@ While there may not be specific buildings or structures directly on the pass, th
 
 ## Visiting Information
 
-Reaching Maserer-Pass can be an adventure in itself, with several transportation options available. The nearest major city is Traunstein, from where travelers can embark on their journey to the pass. Depending on your starting point, private vehicles are a popular choice, as they offer flexibility in exploring the surrounding region. Public transport options may also be available, but it’s advisable to check the official website for the latest information on schedules and connections.
+Reaching Maserer-Pass can be an adventure in itself, with several transportation options available. The nearest major city is Traunstein, from where travelers can embark on their journey to the pass. Depending on your starting point, private vehicles are a popular choice, as they offer flexibility in exploring the surrounding region. Public transport options may also be available, but it's advisable to check the official website for the latest information on schedules and connections.
 
 While there are no specific opening hours or entry fees associated with the pass, visitors should check the official website for current information regarding accessibility and any seasonal considerations. The best times to visit are during the warmer months when the weather is more conducive to outdoor activities. 
 

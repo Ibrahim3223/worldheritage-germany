@@ -56,11 +56,11 @@ Overall, the architecture of Andreasstift serves not just as a backdrop for reli
 
 Visiting Andreasstift is a rewarding experience for those interested in heritage and spirituality. The monastery is accessible via various means of transport, making it convenient for travelers exploring Worms. Public transportation options, including buses and trains, connect the monastery to the wider region, allowing for easy access.
 
-When planning your visit, it’s essential to check the official website for current information regarding hours and ticket prices, as these may vary. Typically, visitors can expect to spend a few hours exploring the monastery and its surroundings, depending on their level of interest in the site.
+When planning your visit, it's essential to check the official website for current information regarding hours and ticket prices, as these may vary. Typically, visitors can expect to spend a few hours exploring the monastery and its surroundings, depending on their level of interest in the site.
 
 The best times to visit are often during the spring and fall when the weather is mild, making it enjoyable to stroll through the gardens and outdoor spaces. Additionally, visiting during weekdays may provide a quieter experience, allowing for a more personal encounter with the site's serene atmosphere.
 
-As you explore Andreasstift, be prepared for a variety of experiences, from guided tours that delve into the monastery’s history to moments of quiet reflection in the church. This combination of educational and spiritual opportunities makes for a meaningful visit.
+As you explore Andreasstift, be prepared for a variety of experiences, from guided tours that delve into the monastery's history to moments of quiet reflection in the church. This combination of educational and spiritual opportunities makes for a meaningful visit.
 
 ## Nearby Attractions
 

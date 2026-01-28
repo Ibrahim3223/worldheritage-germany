@@ -74,7 +74,7 @@ Engaging with the museum staff can also enhance your visit—ask questions about
 
 ## Practical Information
 
-When planning a visit to Otto-Huus, it’s advisable to bring a small bag for personal items and a notebook if you wish to jot down thoughts or reflections. Comfortable footwear is recommended, as you will likely be exploring the museum for an extended period.
+When planning a visit to Otto-Huus, it's advisable to bring a small bag for personal items and a notebook if you wish to jot down thoughts or reflections. Comfortable footwear is recommended, as you will likely be exploring the museum for an extended period.
 
 Depending on the season, dress appropriately for the weather. Emden can experience varied climates, so layers may be ideal for changing conditions. If visiting in peak tourist seasons, consider planning your trip during less busy times of the week.
 
@@ -87,10 +87,10 @@ Most visitors find that a visit of one to two hours is sufficient to explore the
 Photography policies can vary, so it is best to check with the museum upon arrival or on their official website.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the exhibits and the artist’s significance. Check the official website for details.
+Guided tours may be available, providing deeper insights into the exhibits and the artist's significance. Check the official website for details.
 
 ### What's the best time to visit?
-Weekdays typically see fewer crowds, making for a more relaxed visit. However, check the museum’s calendar for any special events or exhibitions.
+Weekdays typically see fewer crowds, making for a more relaxed visit. However, check the museum's calendar for any special events or exhibitions.
 
 ### Is it wheelchair accessible?
 Accessibility information can be confirmed by checking the official website before your visit to ensure a comfortable experience.

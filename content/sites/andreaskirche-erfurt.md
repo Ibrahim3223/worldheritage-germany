@@ -34,7 +34,7 @@ As you delve into the history and features of the Andreaskirche, you will discov
 
 ## History and Significance
 
-The Andreaskirche has played a vital role in the cultural and religious life of Erfurt for many generations. While specific dates and details may be elusive, the church’s establishment and its various transformations over time reflect the broader historical changes in the region. The church has witnessed significant events, from local religious practices to wider societal shifts, making it an important site for understanding the area's development.
+The Andreaskirche has played a vital role in the cultural and religious life of Erfurt for many generations. While specific dates and details may be elusive, the church's establishment and its various transformations over time reflect the broader historical changes in the region. The church has witnessed significant events, from local religious practices to wider societal shifts, making it an important site for understanding the area's development.
 
 Throughout its history, the Andreaskirche has served different functions, adapting to the needs of the community it serves. Its influence extends beyond religion, as it has also been a gathering place for cultural events and community activities. This dual role enriches its significance within Erfurt, emphasizing the church's place in the daily lives of its citizens.
 
@@ -42,7 +42,7 @@ The architectural style of the Andreaskirche also tells a story of its own. As s
 
 ## Architecture and Features
 
-The Andreaskirche is a notable example of church architecture that reflects the historical styles prevalent in the region. While specific architectural details might not be available, the church is characterized by its impressive structure and design elements that draw visitors’ attention. 
+The Andreaskirche is a notable example of church architecture that reflects the historical styles prevalent in the region. While specific architectural details might not be available, the church is characterized by its impressive structure and design elements that draw visitors' attention. 
 
 As you approach the church, you will likely notice its distinctive façade, which is intricately designed and speaks to the skill of the artisans who constructed it. The use of various materials and the layout of the building contribute to its overall aesthetic appeal. Inside, the church likely features an array of artistic elements such as stained glass windows, woodwork, and possibly altars that add to its spiritual ambiance.
 
@@ -60,7 +60,7 @@ The best times to visit are often during weekdays when crowds are thinner, provi
 
 ## Nearby Attractions
 
-The Andreaskirche’s central location in Erfurt means you can easily explore several nearby attractions:
+The Andreaskirche's central location in Erfurt means you can easily explore several nearby attractions:
 
 1. **Erfurt Cathedral (Dom St. Marien)**: A stunning example of Gothic architecture, the cathedral is known for its impressive towers and beautiful interior.
    
@@ -82,7 +82,7 @@ To avoid crowds, plan your visit during weekday mornings or early afternoons. Th
 
 When preparing for your visit to the Andreaskirche, it is advisable to wear comfortable shoes, as you may want to explore the surrounding area on foot. Additionally, consider bringing a light jacket or sweater, as indoor temperatures can vary depending on the season.
 
-Erfurt experiences distinct seasons, so check the weather forecast before your visit to dress appropriately. Whether you’re visiting in the warmth of summer or the chill of winter, the church offers a welcoming atmosphere year-round.
+Erfurt experiences distinct seasons, so check the weather forecast before your visit to dress appropriately. Whether you're visiting in the warmth of summer or the chill of winter, the church offers a welcoming atmosphere year-round.
 
 ## Frequently Asked Questions
 

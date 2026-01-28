@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Saarland University & State Library, located in Saarbrücken, Germany, serves as a vital hub for academic pursuit and public knowledge. This university library stands out not only for its extensive collection of resources but also for its commitment to fostering a conducive environment for research and learning. The library plays a critical role in supporting the educational needs of students and faculty alike, making it a cornerstone of the university’s academic community. Its modern design and functional spaces invite visitors to explore the wealth of knowledge housed within its walls, contributing to the cultural landscape of Saarland.
+Saarland University & State Library, located in Saarbrücken, Germany, serves as a vital hub for academic pursuit and public knowledge. This university library stands out not only for its extensive collection of resources but also for its commitment to fostering a conducive environment for research and learning. The library plays a critical role in supporting the educational needs of students and faculty alike, making it a cornerstone of the university's academic community. Its modern design and functional spaces invite visitors to explore the wealth of knowledge housed within its walls, contributing to the cultural landscape of Saarland.
 
 The library's strategic location in the heart of Saarbrücken ensures accessibility for both local residents and international visitors. It is situated in a region known for its blend of German and French influences, which is reflected in its diverse academic offerings and the multicultural atmosphere that permeates the university campus. The library not only serves as a place for study and research but also as a gathering space that encourages intellectual exchange and collaboration.
 
-As you step into Saarland University & State Library, you can expect a welcoming environment enriched with resources that cater to various academic disciplines. Whether you are a student seeking knowledge, a researcher delving into specific topics, or a visitor curious about the library’s offerings, this institution promises a comprehensive experience that goes beyond traditional library services.
+As you step into Saarland University & State Library, you can expect a welcoming environment enriched with resources that cater to various academic disciplines. Whether you are a student seeking knowledge, a researcher delving into specific topics, or a visitor curious about the library's offerings, this institution promises a comprehensive experience that goes beyond traditional library services.
 
 ## History and Significance
 

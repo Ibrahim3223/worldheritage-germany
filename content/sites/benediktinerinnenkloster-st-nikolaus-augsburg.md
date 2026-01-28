@@ -54,7 +54,7 @@ Check the official website for current information regarding opening hours and a
 
 Plan to spend at least an hour at the monastery to fully appreciate its atmosphere and explore its features. A longer visit may be beneficial for those interested in delving deeper into the history and significance of the site. 
 
-The monastery’s peaceful environment makes it particularly enjoyable during early mornings or late afternoons when the light casts a soft glow over the grounds. Visitors are encouraged to dress modestly, respecting the sanctity of the space.
+The monastery's peaceful environment makes it particularly enjoyable during early mornings or late afternoons when the light casts a soft glow over the grounds. Visitors are encouraged to dress modestly, respecting the sanctity of the space.
 
 ## Nearby Attractions
 

@@ -76,7 +76,7 @@ For those planning to visit the Städtische Galerie im Schlosspark Strünkede, c
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays or during early hours when the gallery first opens.
 
-- **Engage with Staff**: Don’t hesitate to ask gallery staff about the current exhibitions or any upcoming events; they can offer valuable insights.
+- **Engage with Staff**: Don't hesitate to ask gallery staff about the current exhibitions or any upcoming events; they can offer valuable insights.
 
 ## Practical Information
 

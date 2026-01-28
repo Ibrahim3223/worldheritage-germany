@@ -46,7 +46,7 @@ Visitors interested in military architecture will appreciate the fortification's
 
 Visiting Cultural heritage D-7-8027-0015 in Hawangen offers a chance to engage with the region's historical landscape. For those planning to travel to this site, it is advisable to check the official website for current information regarding opening hours and any potential entry fees. 
 
-The site is accessible by various modes of transport, and visitors can consider local public transportation options or private vehicles. The experience can be enhanced by allocating sufficient time to explore the fortification and absorb its cultural significance. A visit may typically take a few hours, allowing for a thorough examination of the site’s features and historical context.
+The site is accessible by various modes of transport, and visitors can consider local public transportation options or private vehicles. The experience can be enhanced by allocating sufficient time to explore the fortification and absorb its cultural significance. A visit may typically take a few hours, allowing for a thorough examination of the site's features and historical context.
 
 For an optimal experience, consider visiting during weekdays or early mornings when crowds are likely to be smaller, enabling a more intimate exploration of the fortification. Seasonal considerations may also play a role in your visit; the site may offer unique insights depending on the time of year, as different seasons can alter the surrounding landscape.
 
@@ -56,7 +56,7 @@ When visiting Hawangen, there are several nearby attractions to enhance your cul
 
 1. **Unterallgäu Museum**: Located not far from the fortification, this museum offers a deeper insight into the history and culture of the Unterallgäu region, showcasing artifacts and exhibitions that span centuries.
 
-2. **St. George’s Church**: This historic church features beautiful architecture and provides a serene atmosphere for reflection, making it a worthwhile stop for visitors interested in local religious heritage.
+2. **St. George's Church**: This historic church features beautiful architecture and provides a serene atmosphere for reflection, making it a worthwhile stop for visitors interested in local religious heritage.
 
 3. **Schloss Hohenzollern**: A bit farther afield, this impressive castle offers stunning views and a glimpse into the lives of the nobility in Bavaria, further enriching your understanding of the region's history.
 

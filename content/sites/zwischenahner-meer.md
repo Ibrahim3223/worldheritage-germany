@@ -36,7 +36,7 @@ Throughout the years, the Zwischenahner Meer has been celebrated not only for it
 
 The lake is also a remarkable ecological site, hosting a diverse range of flora and fauna. Its wetlands are crucial for various bird species, making it an important area for birdwatching enthusiasts. The ecological significance of the lake is a point of pride for the community, which actively works to preserve its natural environment.
 
-In summary, the Zwischenahner Meer is more than just a body of water; it represents a vibrant part of the local heritage and culture. Its importance to the local economy, combined with its role in recreation and conservation, makes it a vital part of the region’s identity.
+In summary, the Zwischenahner Meer is more than just a body of water; it represents a vibrant part of the local heritage and culture. Its importance to the local economy, combined with its role in recreation and conservation, makes it a vital part of the region's identity.
 
 ## Architecture and Features
 

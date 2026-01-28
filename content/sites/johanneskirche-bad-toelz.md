@@ -107,7 +107,7 @@ Accessibility information may vary. It's advisable to consult the official websi
 Check the official website for information on ticketing options, including online purchases if available.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to check local resources or the official website for specific locations.
+Facilities may be available nearby, but it's best to check local resources or the official website for specific locations.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind the church's environment. If you are attending a service, modest clothing may be appropriate.

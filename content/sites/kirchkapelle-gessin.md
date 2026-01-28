@@ -68,7 +68,7 @@ While Kirchkapelle Gessin is a destination in its own right, the surrounding are
 
 4. **Cultural Events** - Depending on the time of year, there may be local festivals or events that celebrate the heritage and community spirit of Basedow. Engaging in these activities can enhance your visit.
 
-5. **Museums** - Regional museums may offer additional context about the historical significance of the area and its cultural practices, enriching your understanding of Kirchkapelle Gessin’s role in the broader narrative.
+5. **Museums** - Regional museums may offer additional context about the historical significance of the area and its cultural practices, enriching your understanding of Kirchkapelle Gessin's role in the broader narrative.
 
 ## Insider Tips
 

@@ -34,7 +34,7 @@ Moreover, the foundation's role extends beyond mere funding; it actively encoura
 
 ## Architecture and Features
 
-The Hamburgische Wissenschaftliche Stiftung’s physical presence reflects its mission and significance within the city. While specific architectural details may not be available, the foundation is housed in a setting that embodies the character of Hamburg, a city known for its blend of historic and modern structures. The foundation's facilities are designed to support a range of activities, from administrative functions to hosting events and lectures.
+The Hamburgische Wissenschaftliche Stiftung's physical presence reflects its mission and significance within the city. While specific architectural details may not be available, the foundation is housed in a setting that embodies the character of Hamburg, a city known for its blend of historic and modern structures. The foundation's facilities are designed to support a range of activities, from administrative functions to hosting events and lectures.
 
 Visitors to the foundation can expect to encounter spaces that foster creativity and collaboration. The design and layout of the premises are likely to facilitate interactions among scholars, researchers, and the public, thus enhancing the foundation's role as a community hub for intellectual exchange. The atmosphere within the foundation is one of openness and engagement, encouraging dialogue and the sharing of ideas among diverse groups.
 
@@ -108,4 +108,4 @@ Facilities may be available, but it's best to check the official website for spe
 ### What should I wear?
 Comfortable clothing is recommended, considering the weather conditions, as well as any events you may attend. 
 
-In conclusion, the Hamburgische Wissenschaftliche Stiftung is not only a foundation of academic significance but also a vibrant part of Hamburg's cultural landscape. Whether you are a scholar, a student, or a curious traveler, your visit can offer insights into the city’s commitment to knowledge and innovation.
+In conclusion, the Hamburgische Wissenschaftliche Stiftung is not only a foundation of academic significance but also a vibrant part of Hamburg's cultural landscape. Whether you are a scholar, a student, or a curious traveler, your visit can offer insights into the city's commitment to knowledge and innovation.

@@ -28,7 +28,7 @@ image_srcset:
 
 Dolgener See is a captivating lake located in Dolgen am See, Germany. This picturesque body of water serves as a serene escape for nature enthusiasts and those seeking tranquility in an increasingly fast-paced world. The lake is nestled amidst lush greenery, offering a peaceful setting that invites visitors to unwind and reconnect with nature. As a key feature of the Dolgen am See region, Dolgener See not only contributes to the local ecosystem but also plays a significant role in recreational activities, making it a favored destination for both locals and travelers alike.
 
-The lake’s geographical coordinates are 53.95° latitude and 12.2469° longitude, placing it in a region known for its natural beauty and vibrant flora and fauna. Visitors are drawn to the area for various reasons, including water-based activities such as swimming, boating, and fishing, as well as the opportunity to enjoy leisurely walks around its perimeter. Whether you are looking to immerse yourself in nature or engage in recreational pursuits, Dolgener See promises a refreshing experience that caters to a diverse range of interests.
+The lake's geographical coordinates are 53.95° latitude and 12.2469° longitude, placing it in a region known for its natural beauty and vibrant flora and fauna. Visitors are drawn to the area for various reasons, including water-based activities such as swimming, boating, and fishing, as well as the opportunity to enjoy leisurely walks around its perimeter. Whether you are looking to immerse yourself in nature or engage in recreational pursuits, Dolgener See promises a refreshing experience that caters to a diverse range of interests.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ Dolgener See is also part of the broader environmental landscape, supporting bio
 
 ## Architecture and Features
 
-Dolgener See is primarily characterized by its natural beauty, with no significant man-made structures directly on its shores. The lake's perimeter is adorned with lush vegetation, which contributes to its tranquil atmosphere. Visitors can expect to see a variety of plant life, from native trees to flowering plants that enhance the area’s aesthetic appeal.
+Dolgener See is primarily characterized by its natural beauty, with no significant man-made structures directly on its shores. The lake's perimeter is adorned with lush vegetation, which contributes to its tranquil atmosphere. Visitors can expect to see a variety of plant life, from native trees to flowering plants that enhance the area's aesthetic appeal.
 
 The clear waters of Dolgener See create a picturesque scene, especially during sunrise and sunset when the light reflects off its surface. This natural feature offers an ideal backdrop for outdoor activities, including photography and leisurely strolls. The surrounding landscape features gentle slopes and green spaces that encourage visitors to engage in recreational activities such as picnicking and hiking along the nearby trails.
 

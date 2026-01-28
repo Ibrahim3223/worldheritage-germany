@@ -34,7 +34,7 @@ Visitors to St. Ludgerus will find themselves immersed in a setting that reflect
 
 The history of St. Ludgerus is intertwined with the broader narrative of Christianity in Germany. Though specific historical dates and events are not detailed, the church's significance stems from its role as a center of worship and community gathering in Schermbeck. Churches like St. Ludgerus played an essential part in the spiritual lives of the local populace, serving as places for religious ceremonies, community meetings, and social gatherings.
 
-St. Ludgerus is named after St. Ludger, the first bishop of Münster, who significantly contributed to the spread of Christianity in the region during the early medieval period. His legacy is reflected in the church's dedication, which symbolizes the enduring influence of early Christian leaders in shaping the religious landscape of Germany. The church's architecture and the art within it often echo themes associated with St. Ludger’s teachings and the greater mission of the church during his time.
+St. Ludgerus is named after St. Ludger, the first bishop of Münster, who significantly contributed to the spread of Christianity in the region during the early medieval period. His legacy is reflected in the church's dedication, which symbolizes the enduring influence of early Christian leaders in shaping the religious landscape of Germany. The church's architecture and the art within it often echo themes associated with St. Ludger's teachings and the greater mission of the church during his time.
 
 As a focal point for the community, St. Ludgerus has likely witnessed numerous events that mark the evolution of Schermbeck over the years, from local traditions to significant historical moments. While the church itself may not host large-scale historical events, its role in the community makes it an integral part of the cultural fabric of Schermbeck.
 
@@ -52,7 +52,7 @@ St. Ludgerus is situated in the heart of Schermbeck, making it easily accessible
 
 When planning your visit, it is advisable to check the official website for hours of operation and any potential entrance fees. The church is typically open to the public, allowing individuals to explore its interior and appreciate its architectural beauty. Visitors should allocate sufficient time to experience the church fully, including time for reflection and photography.
 
-The best times to visit St. Ludgerus are during the weekdays when the church may be less crowded, allowing for a more personal experience. Additionally, attending a service or community event can provide a unique insight into the church’s role in the local culture.
+The best times to visit St. Ludgerus are during the weekdays when the church may be less crowded, allowing for a more personal experience. Additionally, attending a service or community event can provide a unique insight into the church's role in the local culture.
 
 ## Nearby Attractions
 

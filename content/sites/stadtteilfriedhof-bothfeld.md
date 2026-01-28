@@ -118,7 +118,7 @@ Visiting during weekdays or in the early morning or late afternoon can help you 
 The cemetery is likely to have pathways, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
-Currently, no specific admission fees are mentioned, but it’s always best to check the official website for the latest updates.
+Currently, no specific admission fees are mentioned, but it's always best to check the official website for the latest updates.
 
 ### Are there restrooms and cafes?
 While facilities may vary, it's a good idea to check nearby areas for restrooms and cafes, particularly in the town center.

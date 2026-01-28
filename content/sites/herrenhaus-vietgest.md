@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends, when local 
 
 ## Practical Information
 
-When planning your visit to Herrenhaus Vietgest, it’s wise to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds thoroughly. Additionally, consider seasonal weather conditions, as Germany can experience varied climates throughout the year.
+When planning your visit to Herrenhaus Vietgest, it's wise to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds thoroughly. Additionally, consider seasonal weather conditions, as Germany can experience varied climates throughout the year.
 
 Check the official website for any specific seasonal events or offerings that could enhance your experience. Having a plan can help ensure a rewarding visit to this notable heritage site.
 

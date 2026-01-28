@@ -36,15 +36,15 @@ Willy Brandt, born Herbert Ernst Karl Frahm in 1913, rose to prominence in the t
 
 The museum itself serves as a significant site for understanding Brandt's impact on German and European politics. It houses various artifacts, including personal letters, photographs, and documents that illuminate both his public and private life. The commitment to preserving and showcasing Brandt's legacy reflects the importance of historical figures in shaping the contemporary political landscape.
 
-In recent years, the museum has also become a venue for discussions and events that explore ongoing political themes, emphasizing the relevance of Brandt's ideals in today’s world. It not only honors the past but also engages with current political discourse, making it a vital cultural institution in Lübeck.
+In recent years, the museum has also become a venue for discussions and events that explore ongoing political themes, emphasizing the relevance of Brandt's ideals in today's world. It not only honors the past but also engages with current political discourse, making it a vital cultural institution in Lübeck.
 
 ## Architecture and Features
 
-The Willy Brandt House is located in a historic building that complements its purpose as a museum. The architecture reflects the character of Lübeck’s Old City, with its well-preserved medieval structures and charming streets. While specific architectural details may not be provided, visitors can expect a space that has been thoughtfully adapted to serve as a museum, offering an inviting atmosphere for exploration and reflection.
+The Willy Brandt House is located in a historic building that complements its purpose as a museum. The architecture reflects the character of Lübeck's Old City, with its well-preserved medieval structures and charming streets. While specific architectural details may not be provided, visitors can expect a space that has been thoughtfully adapted to serve as a museum, offering an inviting atmosphere for exploration and reflection.
 
 Inside, the museum features a series of carefully curated exhibits that highlight various aspects of Brandt's life. The layout is designed to guide visitors through different stages of his career, encouraging a deeper understanding of his contributions to German society. Interactive elements may also be present, enriching the visitor experience and fostering engagement with the exhibits.
 
-The combination of historical artifacts and modern presentation techniques creates a dynamic environment that captures the essence of Brandt’s legacy and the broader historical context in which he operated.
+The combination of historical artifacts and modern presentation techniques creates a dynamic environment that captures the essence of Brandt's legacy and the broader historical context in which he operated.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ Lübeck's Old City is home to several attractions that complement a visit to the
 
 1. **St. Mary's Church (Marienkirche)**: A stunning example of Gothic architecture, this church features beautiful stained glass and impressive altars.
 2. **Lübeck Cathedral**: This historic cathedral, with its twin towers, offers a glimpse into the city's ecclesiastical heritage and features remarkable artworks.
-3. **The Holstentor**: One of Lübeck's most iconic landmarks, this medieval gate is a symbol of the city’s Hanseatic past.
+3. **The Holstentor**: One of Lübeck's most iconic landmarks, this medieval gate is a symbol of the city's Hanseatic past.
 4. **The European Hansemuseum**: This museum delves into the history of the Hanseatic League and its impact on Lübeck and Europe.
 5. **The Buddenbrook House**: A literary museum dedicated to the works of Thomas Mann, this house offers insights into the life of the Nobel Prize-winning author.
 

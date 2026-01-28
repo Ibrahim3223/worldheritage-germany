@@ -50,7 +50,7 @@ Visitors to Burgwall Hungerstorf can observe the remnants of these ancient forti
 
 Burgwall Hungerstorf is accessible to visitors who wish to explore its historical and cultural significance. For those planning a visit, various transport options are available in the surrounding areas, making it relatively easy to reach the site. As with many heritage sites, it is advisable to check the official website for current information regarding hours of operation and any associated entry fees.
 
-When visiting, expect to spend a couple of hours exploring the site. This timeframe allows for a thorough appreciation of the hillfort’s architecture and the opportunity to engage with any available informational materials. The site is likely to attract various visitors, so planning your visit during less busy hours can enhance the experience.
+When visiting, expect to spend a couple of hours exploring the site. This timeframe allows for a thorough appreciation of the hillfort's architecture and the opportunity to engage with any available informational materials. The site is likely to attract various visitors, so planning your visit during less busy hours can enhance the experience.
 
 For the best experience, consider visiting during pleasant weather conditions, which can provide a more comfortable exploration of the outdoor site. Ensure to wear appropriate footwear, as the terrain may vary.
 

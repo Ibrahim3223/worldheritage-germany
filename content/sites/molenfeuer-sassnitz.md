@@ -28,7 +28,7 @@ image_srcset:
 
 Molenfeuer Sassnitz stands as a notable lighthouse in the picturesque region of Mecklenburg-Western Pomerania, Germany. Located in the coastal town of Sassnitz, this lighthouse is not merely a functional structure guiding vessels safely along the Baltic Sea; it is also a symbol of maritime heritage that has withstood the test of time. As visitors approach the shores of Sassnitz, they are greeted by the striking silhouette of Molenfeuer Sassnitz, a sight that evokes curiosity and admiration alike.
 
-The lighthouse’s significance extends beyond its primary role of navigation. It serves as a reminder of the region's rich maritime history and is an integral part of the area's cultural landscape. The lighthouse offers a unique opportunity for visitors to explore the interplay between nature and human ingenuity, making it a must-see destination for those interested in maritime history and architecture.
+The lighthouse's significance extends beyond its primary role of navigation. It serves as a reminder of the region's rich maritime history and is an integral part of the area's cultural landscape. The lighthouse offers a unique opportunity for visitors to explore the interplay between nature and human ingenuity, making it a must-see destination for those interested in maritime history and architecture.
 
 While the lighthouse itself is a focal point, the surrounding area is equally inviting, with scenic coastal paths and the vibrant atmosphere of Sassnitz adding to the overall experience. Whether you're a history enthusiast, a photography buff, or simply seeking a peaceful retreat by the sea, Molenfeuer Sassnitz promises an engaging visit with plenty to discover.
 
@@ -111,7 +111,7 @@ Check the official website for detailed accessibility information, as conditions
 Check the official website for current information regarding ticket purchases and potential entrance fees.
 
 ### Are there restrooms and cafes?
-Facilities may be limited near the lighthouse. It’s advisable to plan accordingly and check in the nearby harbor area for cafes and restrooms.
+Facilities may be limited near the lighthouse. It's advisable to plan accordingly and check in the nearby harbor area for cafes and restrooms.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Layering is recommended as coastal conditions can change rapidly. 

@@ -28,7 +28,7 @@ Whether you are a gardening enthusiast, a history buff, or simply in search of a
 
 ## History and Significance
 
-The Villengarten at Südliche Seestraße 31 in Münsing is classified as a cultural heritage monument (D-1-73-137-26), underscoring its status as an important historical site. The garden exemplifies the concept of villa gardens that emerged during various periods of cultural development in Bavaria. These gardens were designed not only for aesthetic pleasure but also as a statement of the owner’s wealth and social standing.
+The Villengarten at Südliche Seestraße 31 in Münsing is classified as a cultural heritage monument (D-1-73-137-26), underscoring its status as an important historical site. The garden exemplifies the concept of villa gardens that emerged during various periods of cultural development in Bavaria. These gardens were designed not only for aesthetic pleasure but also as a statement of the owner's wealth and social standing.
 
 Cultural heritage monuments like this garden play a critical role in preserving the historical narrative of a region. They reflect the artistic and architectural styles that have shaped Bavarian identity over the centuries. The careful design and maintenance of the garden highlight the value placed on nature and beauty in the lives of the people who inhabited the area.
 

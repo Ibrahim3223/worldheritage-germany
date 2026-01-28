@@ -42,7 +42,7 @@ While the castle may not have the extensive documentation of larger or more famo
 
 ## Architecture and Features
 
-Burg Weißandt-Gölzau features a design that reflects the typical characteristics of medieval castles. Although detailed architectural descriptions are not provided, visitors can appreciate the castle’s robust structure and the defensive elements that were integral to its design. Castles of this era often included thick stone walls, towers, and battlements, all of which served both aesthetic and practical purposes.
+Burg Weißandt-Gölzau features a design that reflects the typical characteristics of medieval castles. Although detailed architectural descriptions are not provided, visitors can appreciate the castle's robust structure and the defensive elements that were integral to its design. Castles of this era often included thick stone walls, towers, and battlements, all of which served both aesthetic and practical purposes.
 
 The castle likely showcases features such as arrow slits and a fortified gate, which not only offered protection but also allowed for surveillance of the surrounding area. Visitors can explore these architectural elements, gaining insight into the engineering practices of the time and the importance of fortification in medieval society.
 
@@ -82,7 +82,7 @@ Additionally, take the time to explore the surrounding grounds. Often, the more 
 
 ## Practical Information
 
-Before heading to Burg Weißandt-Gölzau, it’s advisable to prepare adequately for your visit. Bring along essentials such as water, comfortable walking shoes, and a camera. Depending on the season, consider wearing layers, as temperatures can vary throughout the day.
+Before heading to Burg Weißandt-Gölzau, it's advisable to prepare adequately for your visit. Bring along essentials such as water, comfortable walking shoes, and a camera. Depending on the season, consider wearing layers, as temperatures can vary throughout the day.
 
 Check the weather forecast in advance, as rain or inclement weather can impact your experience. If you plan to explore the grounds extensively, a light jacket or umbrella may be beneficial. 
 

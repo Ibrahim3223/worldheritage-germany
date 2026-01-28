@@ -74,7 +74,7 @@ While in Fürth, there are several attractions that visitors may want to explore
 
 For visitors hoping to capture the essence of the Dialysemuseum Fürth through photography, consider timing your visit to coincide with less busy hours, often early in the day or on weekdays. This will enable you to take unobstructed photos of the exhibits without the interference of large crowds. 
 
-Engaging with museum staff can also enhance your experience; they often provide valuable insights and may even share stories that are not covered in the exhibits. Don’t hesitate to ask questions or seek recommendations for other attractions in the area.
+Engaging with museum staff can also enhance your experience; they often provide valuable insights and may even share stories that are not covered in the exhibits. Don't hesitate to ask questions or seek recommendations for other attractions in the area.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ Also, be prepared for potential changes in museum policies regarding health and 
 Visitors typically spend about one to two hours at the Dialysemuseum, allowing ample time to engage with the exhibits and materials.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding any restrictions.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 While the museum may offer guided tours, it is advisable to check the official website for availability and scheduling.
@@ -105,7 +105,7 @@ The museum strives to be accessible to all visitors; however, it is recommended 
 Check the official website for options regarding online ticket purchases and any potential discounts.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available; however, it’s wise to confirm this on your visit. Nearby cafes and eateries can provide refreshment options.
+Facilities such as restrooms may be available; however, it's wise to confirm this on your visit. Nearby cafes and eateries can provide refreshment options.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to spend a significant amount of time exploring the exhibits. 

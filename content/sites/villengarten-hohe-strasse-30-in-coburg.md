@@ -72,9 +72,9 @@ Additionally, bring along a picnic blanket and snacks to enjoy a leisurely meal 
 
 ## Practical Information
 
-When planning your visit to the Villengarten Hohe Straße 30, it’s advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture the scenic beauty. Depending on the season, consider wearing layers to adapt to changing weather conditions, especially in spring and autumn when temperatures can fluctuate.
+When planning your visit to the Villengarten Hohe Straße 30, it's advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture the scenic beauty. Depending on the season, consider wearing layers to adapt to changing weather conditions, especially in spring and autumn when temperatures can fluctuate.
 
-If your visit coincides with the blooming seasons, you’ll likely experience the garden at its most vibrant. However, winter visits can also be enchanting, showcasing the garden in a different light. Regardless of the season, be prepared for a peaceful retreat into nature.
+If your visit coincides with the blooming seasons, you'll likely experience the garden at its most vibrant. However, winter visits can also be enchanting, showcasing the garden in a different light. Regardless of the season, be prepared for a peaceful retreat into nature.
 
 ## Frequently Asked Questions
 

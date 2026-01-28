@@ -62,7 +62,7 @@ While in Putbus, there are several nearby attractions worth exploring that compl
 
 2. **The Theater Putbus**: This historic theater adds to the cultural richness of the town, showcasing various performances and events throughout the year.
 
-3. **The Castle Putbus**: A short walk from the church, this castle offers insights into the town’s aristocratic history and serves as a focal point for local heritage.
+3. **The Castle Putbus**: A short walk from the church, this castle offers insights into the town's aristocratic history and serves as a focal point for local heritage.
 
 4. **Rügen Island**: A short drive away, this island features beautiful coastlines and natural landscapes, making it an excellent destination for outdoor enthusiasts.
 

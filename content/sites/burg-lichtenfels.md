@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Lichtenfels is an intriguing castle located in the serene region of Dalwigksthal, Germany. This historical edifice, with its commanding presence, invites visitors to explore its storied past and architectural significance. While details regarding its origins may be sparse, the castle remains a notable landmark, drawing those interested in both history and architecture. The site serves as a reminder of the medieval period and the role such fortifications played in the landscape of German heritage.
 
-The castle’s location adds to its allure, as it is surrounded by the picturesque scenery typical of the region. Visitors can expect to engage with the remnants of a time long past, experiencing firsthand the ambiance that these structures evoke. Burg Lichtenfels not only offers a glimpse into the architectural practices of its era but also provides an opportunity for reflection amidst its storied walls. 
+The castle's location adds to its allure, as it is surrounded by the picturesque scenery typical of the region. Visitors can expect to engage with the remnants of a time long past, experiencing firsthand the ambiance that these structures evoke. Burg Lichtenfels not only offers a glimpse into the architectural practices of its era but also provides an opportunity for reflection amidst its storied walls. 
 
 As you plan your visit, prepare to immerse yourself in an experience that melds culture, history, and the serene atmosphere of Dalwigksthal, making it a worthy destination for heritage enthusiasts and casual travelers alike.
 
@@ -68,7 +68,7 @@ If you find yourself in the vicinity of Burg Lichtenfels, consider exploring the
 
 1. **Dalwigksthal Village**: A charming nearby village that offers insights into local culture and history. Stroll through its streets to appreciate traditional architecture and local crafts.
 
-2. **Historical Sites**: Other castles and historical sites in the area may provide additional context to the historical landscape of the region. Exploring these can enhance your understanding of the area’s heritage.
+2. **Historical Sites**: Other castles and historical sites in the area may provide additional context to the historical landscape of the region. Exploring these can enhance your understanding of the area's heritage.
 
 3. **Nature Trails**: The surrounding landscape may feature trails that invite exploration of the natural beauty typical of Dalwigksthal. Hiking or walking in the area can complement your castle visit.
 

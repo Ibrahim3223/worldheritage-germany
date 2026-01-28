@@ -84,7 +84,7 @@ To avoid larger crowds, consider visiting during weekdays or outside of major re
 
 ## Practical Information
 
-When visiting Auferstehungskirche, it’s advisable to bring a camera, especially if you're interested in photography. Comfortable footwear is recommended, as you may want to explore the surrounding area.
+When visiting Auferstehungskirche, it's advisable to bring a camera, especially if you're interested in photography. Comfortable footwear is recommended, as you may want to explore the surrounding area.
 
 Seasonal considerations can impact your visit. For instance, spring and summer may provide more pleasant weather for walking around the nearby attractions, while fall may offer beautiful foliage. Always check the official website for any seasonal events or changes in hours before your visit.
 

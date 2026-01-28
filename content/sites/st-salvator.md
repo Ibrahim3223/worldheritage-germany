@@ -97,7 +97,7 @@ Accessibility details are not specified; check the official website for updated 
 Check the official website for information regarding ticket purchases and any potential online options.
 
 ### Are there restrooms and cafes?
-Specific details about amenities are not provided; it’s recommended to check local resources or the official website.
+Specific details about amenities are not provided; it's recommended to check local resources or the official website.
 
 ### What should I wear?
 Dress comfortably and consider layers, as coastal weather can change throughout the day.

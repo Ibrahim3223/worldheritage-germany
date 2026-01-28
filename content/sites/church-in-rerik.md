@@ -38,7 +38,7 @@ The Church in Rerik holds a significant place in the town's history and the broa
 
 Throughout the centuries, this church has likely witnessed various changes in the social and cultural landscape of Rerik. It has served as a gathering place for generations, where local residents have come together to celebrate milestones, seek solace, and partake in communal activities. This continuity of purpose underscores the church's significance as a vital part of the community's identity. 
 
-The church's role extends beyond mere worship; it stands as a custodian of local traditions and stories, embodying the spirit of the people who have frequented its halls. As a result, the Church in Rerik not only serves as a spiritual sanctuary but also as an important historical landmark, contributing to our understanding of the region’s past.
+The church's role extends beyond mere worship; it stands as a custodian of local traditions and stories, embodying the spirit of the people who have frequented its halls. As a result, the Church in Rerik not only serves as a spiritual sanctuary but also as an important historical landmark, contributing to our understanding of the region's past.
 
 ## Architecture and Features
 
@@ -70,7 +70,7 @@ Rerik is surrounded by several points of interest that complement a visit to the
 
 When visiting the Church in Rerik, consider bringing a camera to capture the church's architectural details and the serene atmosphere. However, be mindful of any photography restrictions that may be in place. To avoid larger crowds, plan your visit during the morning or early afternoon, especially on weekdays.
 
-If you are interested in a deeper understanding of the church’s significance, consider inquiring about any available informational materials or guides upon your arrival. Engaging with local residents can also provide valuable insights into the church's role in the community.
+If you are interested in a deeper understanding of the church's significance, consider inquiring about any available informational materials or guides upon your arrival. Engaging with local residents can also provide valuable insights into the church's role in the community.
 
 ## Practical Information
 

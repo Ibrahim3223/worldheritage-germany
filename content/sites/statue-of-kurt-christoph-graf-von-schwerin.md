@@ -80,7 +80,7 @@ To make the most of your visit to the Statue of Kurt Christoph Graf von Schwerin
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle to stay hydrated. Depending on the season, consider dressing in layers, as Berlin's weather can vary throughout the year. 
+When planning your visit, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle to stay hydrated. Depending on the season, consider dressing in layers, as Berlin's weather can vary throughout the year. 
 
 Spring and fall often provide pleasant temperatures, while summers can be warm and winters chilly. Be prepared for varying weather conditions, especially if you plan to explore the surrounding area, and check the official website for any seasonal events that may be taking place.
 

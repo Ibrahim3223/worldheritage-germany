@@ -30,7 +30,7 @@ The history of Löwenapotheke am Kornmarkt is intertwined with the broader cultu
 
 Breweries have historically served as community gathering places, fostering connections among residents and visitors alike. The Löwenapotheke, by offering a combination of brewing, dining, and accommodation, stands as a reflection of this tradition. Its presence in Mühlhausen contributes to the local economy, attracting tourists and encouraging cultural exchange.
 
-The brewery not only produces local beers but also serves as a venue for events and social gatherings, highlighting its role as a community hub. This multifunctionality enhances its relevance in today’s society, where the demand for authentic, locally sourced experiences is growing. In this way, Löwenapotheke am Kornmarkt exemplifies the enduring importance of breweries in German culture and community life.
+The brewery not only produces local beers but also serves as a venue for events and social gatherings, highlighting its role as a community hub. This multifunctionality enhances its relevance in today's society, where the demand for authentic, locally sourced experiences is growing. In this way, Löwenapotheke am Kornmarkt exemplifies the enduring importance of breweries in German culture and community life.
 
 ## Architecture and Features
 

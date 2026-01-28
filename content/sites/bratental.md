@@ -76,7 +76,7 @@ If you are interested in birdwatching, bring binoculars and a field guide to enh
 
 ## Practical Information
 
-When planning your visit to Bratental, it’s advisable to wear comfortable walking shoes suitable for nature trails. Depending on the season, consider dressing in layers to accommodate fluctuating temperatures, and bring rain gear if rain is in the forecast.
+When planning your visit to Bratental, it's advisable to wear comfortable walking shoes suitable for nature trails. Depending on the season, consider dressing in layers to accommodate fluctuating temperatures, and bring rain gear if rain is in the forecast.
 
 Pack essentials such as water, snacks, and sunscreen, particularly in warmer months. Being prepared will ensure you can fully enjoy your time in this natural haven.
 

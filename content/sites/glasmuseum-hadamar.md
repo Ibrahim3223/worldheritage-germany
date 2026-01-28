@@ -78,7 +78,7 @@ To make the most of your visit to the Glasmuseum Hadamar, consider these insider
 
 - **Timing**: Plan your visit during weekday mornings for a quieter experience. This allows for a more personal interaction with the exhibits and a better opportunity to engage with staff for insights.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific pieces or exhibitions. Their expertise can greatly enhance your understanding and appreciation of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific pieces or exhibitions. Their expertise can greatly enhance your understanding and appreciation of the exhibits.
 
 - **Guided Tours**: If available, consider joining a guided tour for a more in-depth exploration of the museum's collection. This can provide context and historical background that enriches your visit.
 
@@ -90,7 +90,7 @@ As you prepare for your trip to the Glasmuseum Hadamar, keep the following pract
 
 - **Seasonal Considerations**: Depending on the time of year, the weather can vary. Check the forecast before your visit to dress appropriately, especially if you plan to explore the nearby attractions.
 
-- **Accessibility**: While specific details regarding accessibility may not be provided, it’s advisable to check the official website for information regarding wheelchair access and any facilities available for visitors with disabilities.
+- **Accessibility**: While specific details regarding accessibility may not be provided, it's advisable to check the official website for information regarding wheelchair access and any facilities available for visitors with disabilities.
 
 - **Local Cuisine**: If time allows, consider sampling local cuisine in nearby eateries. This can be a delightful way to round off your cultural experience in Hadamar.
 

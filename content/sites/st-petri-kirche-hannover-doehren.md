@@ -86,7 +86,7 @@ When visiting St.-Petri-Kirche, there are several practical considerations to ke
 
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather. During colder months, layers may be necessary, while warmer weather might call for light clothing.
 
-- **Local Etiquette**: Be aware of local customs and etiquette when visiting religious sites. It’s respectful to dress modestly and observe any guidelines posted at the church.
+- **Local Etiquette**: Be aware of local customs and etiquette when visiting religious sites. It's respectful to dress modestly and observe any guidelines posted at the church.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ When visiting St.-Petri-Kirche, there are several practical considerations to ke
 A visit typically takes about an hour, allowing time for exploration and contemplation.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and any ongoing services.
+Photography is generally permitted, but it's advisable to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website for details.

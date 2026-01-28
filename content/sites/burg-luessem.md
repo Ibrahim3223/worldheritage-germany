@@ -82,7 +82,7 @@ Seasonal considerations can affect your visit, particularly in winter or during 
 A visit to Burg Lüssem typically takes a few hours, allowing for exploration of the castle and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions on-site.
+Photography is generally permitted, but it's best to check for any specific restrictions on-site.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for details.

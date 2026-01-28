@@ -22,7 +22,7 @@ images:
 
 Burg Haldessen, a historic castle located in the charming region of Grebenstein, Germany, captures the imagination of visitors with its enduring presence and intriguing history. This castle, though less known than its larger counterparts, offers an authentic glimpse into the architectural and cultural heritage of the area. Situated at coordinates 51.4686, 9.44236, it is easily accessible for those looking to explore the lesser-trodden paths of German heritage. As you approach this robust structure, the sense of history and grandeur is palpable, inviting you to delve deeper into its storied past.
 
-The significance of Burg Haldessen lies not only in its architectural features but also in its role within the local community and its reflection of the region’s historical narrative. This castle stands as a reminder of the medieval era, offering insights into the lives of those who once inhabited these walls. Visitors can expect to discover a blend of history, culture, and natural beauty that surrounds this remarkable site, making it a worthwhile addition to any travel itinerary.
+The significance of Burg Haldessen lies not only in its architectural features but also in its role within the local community and its reflection of the region's historical narrative. This castle stands as a reminder of the medieval era, offering insights into the lives of those who once inhabited these walls. Visitors can expect to discover a blend of history, culture, and natural beauty that surrounds this remarkable site, making it a worthwhile addition to any travel itinerary.
 
 ## History and Significance
 

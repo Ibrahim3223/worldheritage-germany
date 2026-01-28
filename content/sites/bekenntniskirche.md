@@ -64,7 +64,7 @@ While the Bekenntniskirche is a destination in its own right, there are several 
 
 4. **Botanical Garden Augsburg**: A relaxing place to explore diverse plant life, this garden provides an oasis of tranquility, perfect for a peaceful afternoon.
 
-5. **Fugger Museum and Fuggerei**: Located in Augsburg, this site showcases the history of one of Europe’s oldest social housing complexes, offering insights into social responsibility and urban development.
+5. **Fugger Museum and Fuggerei**: Located in Augsburg, this site showcases the history of one of Europe's oldest social housing complexes, offering insights into social responsibility and urban development.
 
 ## Insider Tips
 

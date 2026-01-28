@@ -30,7 +30,7 @@ Burg Neuhaus, located in the Föritztal region of Germany, presents a fascinatin
 
 As you approach Burg Neuhaus, you are greeted by the serene landscape that surrounds this impressive structure. The combination of its formidable presence and the tranquil countryside creates a setting that invites exploration and reflection. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat, Burg Neuhaus offers a compelling experience that merits a visit.
 
-The castle’s importance extends beyond its physical structure; it is a reflection of the region's historical dynamics and cultural heritage. Visitors can anticipate engaging with the stories that echo through its walls, making it a significant site for understanding the broader historical context of the Föritztal area.
+The castle's importance extends beyond its physical structure; it is a reflection of the region's historical dynamics and cultural heritage. Visitors can anticipate engaging with the stories that echo through its walls, making it a significant site for understanding the broader historical context of the Föritztal area.
 
 ## History and Significance
 

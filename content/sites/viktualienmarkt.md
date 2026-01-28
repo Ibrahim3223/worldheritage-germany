@@ -34,7 +34,7 @@ Whether you're a culinary enthusiast or simply looking to experience Munich's lo
 
 ## History and Significance
 
-The origins of Viktualienmarkt can be traced back several centuries, reflecting the evolution of Munich's marketplace culture. Initially established as a farmers’ market, it has gradually transformed into a comprehensive food market that caters to the modern palate while preserving traditional Bavarian culinary practices. The market's significance extends beyond its function as a place to buy goods; it serves as a cultural landmark that embodies the spirit of Munich.
+The origins of Viktualienmarkt can be traced back several centuries, reflecting the evolution of Munich's marketplace culture. Initially established as a farmers' market, it has gradually transformed into a comprehensive food market that caters to the modern palate while preserving traditional Bavarian culinary practices. The market's significance extends beyond its function as a place to buy goods; it serves as a cultural landmark that embodies the spirit of Munich.
 
 Throughout its history, Viktualienmarkt has played a vital role in the community, providing a space for local farmers and artisans to sell their products. This connection to the local agricultural landscape has reinforced the importance of sustainability and quality in food production, making the market a champion of regional products. The lively interaction between vendors and customers fosters a sense of community, where conversations about food and traditions flourish.
 
@@ -68,7 +68,7 @@ Viktualienmarkt is conveniently located near several notable attractions that en
 
 4. **Sendlinger Tor**: This historic city gate is a remnant of Munich's medieval fortifications. It provides a glimpse into the city's past and is a picturesque spot for photography.
 
-5. **Asamkirche**: A short distance from the market, this Baroque church is renowned for its ornate interior and stunning frescoes. It’s a hidden treasure that showcases the artistic heritage of the region.
+5. **Asamkirche**: A short distance from the market, this Baroque church is renowned for its ornate interior and stunning frescoes. It's a hidden treasure that showcases the artistic heritage of the region.
 
 ## Insider Tips
 

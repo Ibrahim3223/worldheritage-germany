@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Kobisenmühle, located in the serene setting of St. Georgen im Schwarzwald, Germany, is a remarkable museum dedicated to the preservation and presentation of watermill heritage. This museum offers visitors a unique opportunity to explore the craftsmanship and technology behind traditional watermills, which played a crucial role in rural life for centuries. As you step into this historical gem, you’ll discover the intricate workings of a watermill and the essential role it played in the local economy and community. 
+Kobisenmühle, located in the serene setting of St. Georgen im Schwarzwald, Germany, is a remarkable museum dedicated to the preservation and presentation of watermill heritage. This museum offers visitors a unique opportunity to explore the craftsmanship and technology behind traditional watermills, which played a crucial role in rural life for centuries. As you step into this historical gem, you'll discover the intricate workings of a watermill and the essential role it played in the local economy and community. 
 
 Situated at the coordinates 48.093533 latitude and 8.340509 longitude, Kobisenmühle is surrounded by the lush landscapes of the Black Forest, making it an ideal stop for those seeking a blend of cultural enrichment and natural beauty. The museum is a testament to the region's agricultural history and the evolution of milling technology, emphasizing the importance of watermills as centers of innovation and community life. Visitors can expect not only to learn about the historical significance of the mill but also to appreciate its architectural beauty and the tranquility of its surroundings.
 
@@ -34,7 +34,7 @@ In addition to its functional role, the mill serves as a cultural landmark, ofte
 
 ## Architecture and Features
 
-Kobisenmühle's architecture reflects the traditional designs of watermills prevalent in the Black Forest region. The structure showcases robust timber framing and stonework, characteristic of the area’s historical buildings. The mill is designed to maximize the use of waterpower, with its wheel strategically positioned to harness the flow of water effectively.
+Kobisenmühle's architecture reflects the traditional designs of watermills prevalent in the Black Forest region. The structure showcases robust timber framing and stonework, characteristic of the area's historical buildings. The mill is designed to maximize the use of waterpower, with its wheel strategically positioned to harness the flow of water effectively.
 
 Inside the museum, visitors can observe the inner workings of the mill, including the millstone, which is essential for grinding grains. The machinery, much of which has been preserved or restored, provides a fascinating glimpse into the engineering practices of the past. The museum layout allows for easy navigation, with informative displays that guide guests through the various processes involved in milling.
 
@@ -95,7 +95,7 @@ For accessibility options, please refer to the official website or contact the m
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Visitor amenities, including restrooms, are typically available. Cafes or snack options may be found nearby, but it’s best to verify this on the official website.
+Visitor amenities, including restrooms, are typically available. Cafes or snack options may be found nearby, but it's best to verify this on the official website.
 
 ### What should I wear?
 Dress comfortably and in layers, considering the season and the nature of your activities while visiting.

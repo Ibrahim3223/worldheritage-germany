@@ -36,7 +36,7 @@ The history of Burg Helfenstein is woven into the broader tapestry of Koblenz, a
 
 Throughout the centuries, castles like Helfenstein played crucial roles in regional politics and military strategy. They were often centers of power, governance, and control, acting as a stronghold for local nobility. Today, Burg Helfenstein serves not only as a reminder of the past but also as a cultural landmark that continues to attract visitors with its historical significance.
 
-The castle’s enduring presence also highlights the importance of preservation and heritage in modern Germany. As an emblem of the region's historical architecture, Burg Helfenstein contributes to our understanding of medieval life, social structures, and the evolution of fortifications. Its historical significance is enhanced by its location in Koblenz, a city that has long been a crossroads of trade and cultural exchange.
+The castle's enduring presence also highlights the importance of preservation and heritage in modern Germany. As an emblem of the region's historical architecture, Burg Helfenstein contributes to our understanding of medieval life, social structures, and the evolution of fortifications. Its historical significance is enhanced by its location in Koblenz, a city that has long been a crossroads of trade and cultural exchange.
 
 ## Architecture and Features
 
@@ -90,7 +90,7 @@ Check the official website for details on whether guided tours are available, as
 Spring and early autumn are ideal times to visit, as the weather is usually pleasant and the landscape is vibrant.
 
 ### Is it wheelchair accessible?
-Check the official website for specific accessibility information regarding the castle’s facilities.
+Check the official website for specific accessibility information regarding the castle's facilities.
 
 ### Can I buy tickets online?
 Please verify current ticket purchasing options on the official website before your visit.

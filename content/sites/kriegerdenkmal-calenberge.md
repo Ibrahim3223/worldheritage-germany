@@ -68,7 +68,7 @@ While visiting the Kriegerdenkmal Calenberge, you may wish to explore other attr
 
 4. **Green Citadel of Magdeburg** - An architectural marvel designed by Friedensreich Hundertwasser, this unique building is a vibrant addition to the city and offers a fascinating contrast to the monument.
 
-5. **The Old Market Square** - Explore the heart of Magdeburg, where historical buildings and shops offer a glimpse into the city’s cultural heritage.
+5. **The Old Market Square** - Explore the heart of Magdeburg, where historical buildings and shops offer a glimpse into the city's cultural heritage.
 
 ## Insider Tips
 
@@ -114,7 +114,7 @@ Check the official website for information regarding entry fees and ticket purch
 
 ### Are there restrooms and cafes?
 
-Restroom facilities and cafes are not explicitly mentioned. It’s advisable to plan accordingly and check for nearby options in the Magdeburg area.
+Restroom facilities and cafes are not explicitly mentioned. It's advisable to plan accordingly and check for nearby options in the Magdeburg area.
 
 ### What should I wear?
 

@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Mendelssohn-Denkmal in Leipzig, Germany, is a striking statue that commemorates the renowned composer Felix Mendelssohn Bartholdy. Located in the heart of a city with a rich musical heritage, this statue serves as both a tribute to Mendelssohn’s contributions to classical music and a reflection of Leipzig’s vibrant cultural landscape. As visitors approach the statue, they are greeted not only by the impressive craftsmanship of the monument but also by the historical significance of its surroundings, where music and art have flourished for centuries.
+The Mendelssohn-Denkmal in Leipzig, Germany, is a striking statue that commemorates the renowned composer Felix Mendelssohn Bartholdy. Located in the heart of a city with a rich musical heritage, this statue serves as both a tribute to Mendelssohn's contributions to classical music and a reflection of Leipzig's vibrant cultural landscape. As visitors approach the statue, they are greeted not only by the impressive craftsmanship of the monument but also by the historical significance of its surroundings, where music and art have flourished for centuries.
 
 Leipzig, a city known as a hub for musicians, scholars, and artists, has played a pivotal role in the evolution of Western classical music. The Mendelssohn-Denkmal is strategically positioned to honor this legacy, serving as a focal point for both locals and tourists. This guide will delve into the history and significance of the statue, its architectural features, and practical information for visitors looking to explore this cultural landmark.
 
 ## History and Significance
 
-Felix Mendelssohn Bartholdy, born in 1809, was a pivotal figure in the Romantic era of music. He is celebrated for his exceptional compositions, which include symphonies, concertos, and chamber music. Mendelssohn’s influence on the music scene in Leipzig is profound, as he served as the conductor of the Gewandhaus Orchestra and played a significant role in the establishment of the Leipzig Conservatory. 
+Felix Mendelssohn Bartholdy, born in 1809, was a pivotal figure in the Romantic era of music. He is celebrated for his exceptional compositions, which include symphonies, concertos, and chamber music. Mendelssohn's influence on the music scene in Leipzig is profound, as he served as the conductor of the Gewandhaus Orchestra and played a significant role in the establishment of the Leipzig Conservatory. 
 
-The statue, erected to honor Mendelssohn's legacy, encapsulates the spirit of the time and the composer’s profound impact on the cultural landscape of Leipzig. While specific details about the statue's creation are not provided, it is clear that the monument is not only an artistic tribute but also a symbol of the city's ongoing commitment to preserving its musical heritage. 
+The statue, erected to honor Mendelssohn's legacy, encapsulates the spirit of the time and the composer's profound impact on the cultural landscape of Leipzig. While specific details about the statue's creation are not provided, it is clear that the monument is not only an artistic tribute but also a symbol of the city's ongoing commitment to preserving its musical heritage. 
 
-Mendelssohn’s contributions extended beyond his compositions; he was instrumental in reviving interest in the works of earlier composers, notably Johann Sebastian Bach. The statue serves as a reminder of Mendelssohn's role in shaping the musical narrative of Germany and his lasting influence on musicians around the world.
+Mendelssohn's contributions extended beyond his compositions; he was instrumental in reviving interest in the works of earlier composers, notably Johann Sebastian Bach. The statue serves as a reminder of Mendelssohn's role in shaping the musical narrative of Germany and his lasting influence on musicians around the world.
 
 ## Architecture and Features
 
@@ -83,7 +83,7 @@ A visit to the Mendelssohn-Denkmal typically takes around 30 minutes to an hour,
 Yes, photography is permitted, and capturing the statue from different angles can yield beautiful images.
 
 ### Are there guided tours?
-While specific guided tours of the Mendelssohn-Denkmal may not be available, self-guided tours focusing on Leipzig’s musical heritage can enhance your visit.
+While specific guided tours of the Mendelssohn-Denkmal may not be available, self-guided tours focusing on Leipzig's musical heritage can enhance your visit.
 
 ### What's the best time to visit?
 The best time to visit is during the warmer months, particularly in spring and summer, when outdoor activities and events are more frequent.

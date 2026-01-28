@@ -68,11 +68,11 @@ While visiting Saalbau Witten, there are several nearby attractions worth explor
 
 4. **Sauerland**: Just a short drive away, the Sauerland region provides opportunities for hiking and enjoying the natural beauty of the German countryside.
 
-5. **Witten’s Town Centre**: Explore the local shops, cafes, and restaurants that reflect the character of the town, offering a taste of Witten’s everyday life.
+5. **Witten's Town Centre**: Explore the local shops, cafes, and restaurants that reflect the character of the town, offering a taste of Witten's everyday life.
 
 ## Insider Tips
 
-For photography enthusiasts, Saalbau Witten presents numerous opportunities to capture the essence of the events held within. However, it’s essential to be respectful of performers and other audience members. Always check event policies regarding photography, as some performances may prohibit it.
+For photography enthusiasts, Saalbau Witten presents numerous opportunities to capture the essence of the events held within. However, it's essential to be respectful of performers and other audience members. Always check event policies regarding photography, as some performances may prohibit it.
 
 To avoid larger crowds, consider attending events during off-peak hours, such as weekday performances or matinees. This not only enhances the experience but also allows for a more relaxed atmosphere.
 

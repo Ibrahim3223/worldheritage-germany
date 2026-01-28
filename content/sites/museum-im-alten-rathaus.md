@@ -54,7 +54,7 @@ Best times to visit generally align with local tourism seasons, but this museum 
 
 While in Pfarrkirchen, visitors can explore several attractions that complement a visit to the Museum im Alten Rathaus:
 
-1. **St. John’s Church** - A historic church that reflects the architectural style of the region and offers insight into local religious practices.
+1. **St. John's Church** - A historic church that reflects the architectural style of the region and offers insight into local religious practices.
 
 2. **Pfarrkirchen Town Square** - A charming area where visitors can enjoy the ambiance of the town, complete with local shops and eateries.
 
@@ -62,7 +62,7 @@ While in Pfarrkirchen, visitors can explore several attractions that complement 
 
 4. **Local Markets** - Engaging with local markets can provide visitors with a taste of regional cuisine and crafts, highlighting the town's culture.
 
-5. **Historic Town Center** - Wander through the historic streets of Pfarrkirchen, where you can admire the architecture and discover more about the town’s history.
+5. **Historic Town Center** - Wander through the historic streets of Pfarrkirchen, where you can admire the architecture and discover more about the town's history.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ When visiting the Museum im Alten Rathaus, it's advisable to wear comfortable cl
 
 Seasonal considerations may also play a role in your visit. During warmer months, the town may be busier, while winter visits may offer a quieter experience. Always check the official website for any seasonal events or changes in opening hours.
 
-Don’t forget to bring any necessary items such as water, a notebook for notes, or a guidebook if you wish to enhance your learning experience. 
+Don't forget to bring any necessary items such as water, a notebook for notes, or a guidebook if you wish to enhance your learning experience. 
 
 ## Frequently Asked Questions
 
@@ -99,7 +99,7 @@ Accessibility information should be confirmed by checking the official website o
 Check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available; please check the museum’s amenities on their official site.
+Facilities may be available; please check the museum's amenities on their official site.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the town surrounding the museum.

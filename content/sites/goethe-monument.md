@@ -87,7 +87,7 @@ A visit to the Goethe Monument typically takes between 30 minutes to an hour, de
 Yes, photography is permitted at the Goethe Monument. Early mornings or late afternoons provide the best lighting for capturing the statue.
 
 ### Are there guided tours?
-While the monument itself may not offer guided tours, local tour companies often include it in broader walking tours of Berlin’s cultural sites.
+While the monument itself may not offer guided tours, local tour companies often include it in broader walking tours of Berlin's cultural sites.
 
 ### What's the best time to visit?
 The best times to visit are early mornings or late afternoons, when the light is most favorable for photography and crowds are generally smaller.

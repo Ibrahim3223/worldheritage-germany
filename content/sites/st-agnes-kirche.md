@@ -34,13 +34,13 @@ The church serves not only as a place of worship but also as a cultural hub, hos
 
 St.-Agnes-Kirche has a storied presence within the community of Berlin-Kreuzberg, a district known for its diverse population and historical significance. While specific dates and events in its history are not detailed, it can be understood that the church has evolved alongside the dynamic changes in its environment. The area has witnessed substantial transformation over the decades, from its early days to the post-war era and into contemporary times.
 
-The church's role extends beyond that of a traditional house of worship. It has become a focal point for community gatherings, cultural events, and artistic initiatives, reflecting the vibrant spirit of the Kreuzberg district. This adaptability highlights St.-Agnes-Kirche's importance as a community center, fostering connections among residents and visitors alike. The building’s design and function resonate with the broader narratives of urban development, social change, and cultural expression in Berlin.
+The church's role extends beyond that of a traditional house of worship. It has become a focal point for community gatherings, cultural events, and artistic initiatives, reflecting the vibrant spirit of the Kreuzberg district. This adaptability highlights St.-Agnes-Kirche's importance as a community center, fostering connections among residents and visitors alike. The building's design and function resonate with the broader narratives of urban development, social change, and cultural expression in Berlin.
 
 Moreover, St.-Agnes-Kirche is part of a wider dialogue about architectural heritage in Berlin, standing as an example of how sacred spaces can blend seamlessly into the urban fabric. The church's significance thus lies not only in its physical presence but also in its contributions to the cultural landscape and community life.
 
 ## Architecture and Features
 
-St.-Agnes-Kirche presents a distinct architectural profile that sets it apart from other church buildings in the region. While specific architectural styles or elements are not detailed, it is evident that the design reflects a thoughtful integration of form and function. The church is characterized by its sturdy construction and stylistic choices that may echo various influences typical of Berlin’s architectural vernacular.
+St.-Agnes-Kirche presents a distinct architectural profile that sets it apart from other church buildings in the region. While specific architectural styles or elements are not detailed, it is evident that the design reflects a thoughtful integration of form and function. The church is characterized by its sturdy construction and stylistic choices that may echo various influences typical of Berlin's architectural vernacular.
 
 Visitors can expect to observe notable features that may include intricate details in the facade, spacious interiors, and elements conducive to both worship and community gatherings. Such architectural features often enhance the ambiance of the space, providing a serene environment for reflection and connection.
 
@@ -64,7 +64,7 @@ While St.-Agnes-Kirche itself is a significant stop, the surrounding area of Fri
   
 3. **Markthalle Neun**: A historic market hall that hosts a variety of food vendors, craft markets, and community events, perfect for sampling local cuisine.
   
-4. **Kreuzberg Museum**: Dedicated to the history and culture of the Kreuzberg district, this museum provides insights into the area’s past and its diverse population.
+4. **Kreuzberg Museum**: Dedicated to the history and culture of the Kreuzberg district, this museum provides insights into the area's past and its diverse population.
   
 5. **Victoria Park**: Known for its picturesque waterfall and expansive green spaces, this park is a great spot for a leisurely walk or a picnic.
 
@@ -101,7 +101,7 @@ Accessibility details are best confirmed by checking the official website or con
 For any events or special exhibitions, checking the official website for ticketing options is recommended.
 
 ### Are there restrooms and cafes?
-While specifics are not detailed, nearby attractions often have amenities. It’s advisable to explore the surrounding area for cafes and restrooms.
+While specifics are not detailed, nearby attractions often have amenities. It's advisable to explore the surrounding area for cafes and restrooms.
 
 ### What should I wear?
 Dress comfortably for your visit, keeping in mind the season and the potential for cooler temperatures in the church.

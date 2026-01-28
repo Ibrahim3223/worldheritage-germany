@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays or during the shoulder seasons wh
 
 ## Practical Information
 
-When planning your visit to Schuttern Abbey, it’s advisable to bring along some essentials. Comfortable walking shoes are recommended, as you may wish to explore the grounds thoroughly. Additionally, a camera is a must for capturing the beauty of the abbey and its surroundings.
+When planning your visit to Schuttern Abbey, it's advisable to bring along some essentials. Comfortable walking shoes are recommended, as you may wish to explore the grounds thoroughly. Additionally, a camera is a must for capturing the beauty of the abbey and its surroundings.
 
 Seasonal considerations include preparing for varying weather conditions. While the abbey may be accessible year-round, spring and fall typically offer the most pleasant weather for outdoor exploration. 
 

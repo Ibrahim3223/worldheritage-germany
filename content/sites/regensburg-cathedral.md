@@ -3,7 +3,7 @@ title: "Regensburg Cathedral"
 site_name: "Regensburg Cathedral"
 date: 2026-01-26
 draft: false
-description: "Regensburg Cathedral, an iconic church building in Germany, stands as an emblem of the city’s rich cultural heritage and architectural splendor."
+description: "Regensburg Cathedral, an iconic church building in Germany, stands as an emblem of the city's rich cultural heritage and architectural splendor."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Regensburg Cathedral, an iconic church building in Germany, stands as an emblem of the city’s rich cultural heritage and architectural splendor. Its striking façade and soaring spires dominate the skyline of Regensburg, a city recognized for its well-preserved medieval structures and UNESCO World Heritage status. This cathedral not only serves as a place of worship but also as a symbol of the city’s historical significance dating back to the Roman Empire and its pivotal role in the region's development through the centuries. Visitors to Regensburg will find that stepping into the cathedral offers an experience steeped in spiritual ambiance and artistic grandeur.
+Regensburg Cathedral, an iconic church building in Germany, stands as an emblem of the city's rich cultural heritage and architectural splendor. Its striking façade and soaring spires dominate the skyline of Regensburg, a city recognized for its well-preserved medieval structures and UNESCO World Heritage status. This cathedral not only serves as a place of worship but also as a symbol of the city's historical significance dating back to the Roman Empire and its pivotal role in the region's development through the centuries. Visitors to Regensburg will find that stepping into the cathedral offers an experience steeped in spiritual ambiance and artistic grandeur.
 
 As you approach the cathedral, you will be captivated by its impressive Gothic architecture, characterized by intricate stone carvings and towering stained glass windows that tell stories of faith and history. The cathedral is not merely an architectural marvel; it also plays an essential role in the religious and cultural life of Regensburg. With its deep-rooted history and ongoing significance, Regensburg Cathedral invites exploration and reflection, making it a must-visit for anyone interested in the rich tapestry of European heritage.
 

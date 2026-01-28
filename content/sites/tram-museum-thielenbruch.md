@@ -66,7 +66,7 @@ While visiting the Tram Museum Thielenbruch, consider exploring some of the near
 
 3. **St. Joseph Church**: An architectural landmark in the region, this church reflects the historical and cultural significance of the area.
 
-4. **The Dhünn River**: A scenic spot for a leisurely walk or picnic, the river’s surroundings offer a peaceful retreat from the hustle and bustle of city life.
+4. **The Dhünn River**: A scenic spot for a leisurely walk or picnic, the river's surroundings offer a peaceful retreat from the hustle and bustle of city life.
 
 5. **The City of Cologne**: Just a short distance away, Cologne offers a wealth of attractions, including the Cologne Cathedral, museums, and vibrant shopping districts.
 
@@ -74,7 +74,7 @@ While visiting the Tram Museum Thielenbruch, consider exploring some of the near
 
 Photography enthusiasts will find ample opportunities to capture the historical essence of the Tram Museum Thielenbruch. While taking pictures, be mindful of any restrictions that may apply to specific exhibits. Early morning or late afternoon visits can help avoid larger crowds, allowing for a more relaxed experience.
 
-If you’re looking to engage in deeper conversations about the exhibits or the history of trams, consider visiting during weekdays when the museum may be less busy. Museum staff are often available to answer questions and share insights, enhancing your understanding of the displays.
+If you're looking to engage in deeper conversations about the exhibits or the history of trams, consider visiting during weekdays when the museum may be less busy. Museum staff are often available to answer questions and share insights, enhancing your understanding of the displays.
 
 ## Practical Information
 

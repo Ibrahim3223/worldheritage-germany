@@ -36,7 +36,7 @@ Burg Grüneck's origins trace back to a time when castles were essential for def
 
 Throughout the years, Burg Grüneck witnessed various historical events that shaped the region. Castles like this one were often centers of power and influence, where political and social dynamics unfolded. The architectural features of such castles were not merely for aesthetics; they were designed to withstand sieges and offer protection to their inhabitants.
 
-Burg Grüneck’s historical significance is also tied to the cultural exchanges that occurred in its vicinity. As a site of governance, it likely hosted numerous gatherings that influenced local customs and traditions. Though the castle may not be as well-known as others in Germany, its role in the fabric of local history is undeniable, making it a noteworthy site for those interested in understanding the broader historical context of the region.
+Burg Grüneck's historical significance is also tied to the cultural exchanges that occurred in its vicinity. As a site of governance, it likely hosted numerous gatherings that influenced local customs and traditions. Though the castle may not be as well-known as others in Germany, its role in the fabric of local history is undeniable, making it a noteworthy site for those interested in understanding the broader historical context of the region.
 
 ## Architecture and Features
 

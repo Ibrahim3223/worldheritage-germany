@@ -64,7 +64,7 @@ While visiting the Hausgarten des Wohnhauses Dürerstraße 28A, consider explori
 
 1. **Botanischer Garten Berlin (Berlin Botanical Garden)**: Just a short distance away, this expansive botanical garden features a diverse collection of plants from around the world, making it a must-visit for nature lovers.
 
-2. **Schloßstraße**: This bustling shopping street offers a variety of shops, cafes, and restaurants. It’s a great place to unwind after visiting the garden or to grab a bite to eat.
+2. **Schloßstraße**: This bustling shopping street offers a variety of shops, cafes, and restaurants. It's a great place to unwind after visiting the garden or to grab a bite to eat.
 
 3. **Grunewald Forest**: A larger natural area nearby, Grunewald offers extensive walking and cycling paths, perfect for those looking to immerse themselves in nature even further.
 
@@ -78,7 +78,7 @@ For those looking to capture the beauty of the Hausgarten des Wohnhauses Dürers
 
 To avoid crowds, try to visit on weekdays or during non-peak hours. This will allow you to enjoy the garden's tranquility without the hustle and bustle of larger groups. 
 
-If you’re interested in learning more about the plants and their significance, consider speaking with locals or visiting during community events, if available. Engaging with the community can provide deeper insights into the garden's history and its role in local culture.
+If you're interested in learning more about the plants and their significance, consider speaking with locals or visiting during community events, if available. Engaging with the community can provide deeper insights into the garden's history and its role in local culture.
 
 ## Practical Information
 

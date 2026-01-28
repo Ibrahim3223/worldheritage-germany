@@ -80,7 +80,7 @@ To make the most of your time at Appelhorn, consider these insider tips:
 
 ## Practical Information
 
-When visiting Appelhorn, it’s helpful to be prepared for a range of outdoor conditions. Here are some practical considerations:
+When visiting Appelhorn, it's helpful to be prepared for a range of outdoor conditions. Here are some practical considerations:
 
 - **What to Bring**: Essential items include comfortable walking shoes, water, snacks, and a hat for sun protection. Binoculars can enhance your wildlife viewing experience.
 

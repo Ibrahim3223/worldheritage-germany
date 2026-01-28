@@ -42,7 +42,7 @@ The architectural style of the gatehouse reflects the specific building techniqu
 
 The Sogenanntes Wendentor is characterized by its traditional wooden architecture, which is a hallmark of Sorbian building practices. The structure features intricate carvings and details that reflect the artisan craftsmanship typical of the region. The use of local materials and time-honored techniques in its construction is evident, making it a significant example of regional architectural heritage.
 
-The gatehouse serves both a decorative and practical purpose. Its design includes elements that are not only visually appealing but also functional, creating a space that welcomes visitors while preserving the essence of traditional Sorbian architecture. The craftsmanship is not merely aesthetic; it also tells a story of the community’s identity and historical significance.
+The gatehouse serves both a decorative and practical purpose. Its design includes elements that are not only visually appealing but also functional, creating a space that welcomes visitors while preserving the essence of traditional Sorbian architecture. The craftsmanship is not merely aesthetic; it also tells a story of the community's identity and historical significance.
 
 Notable features of the Sogenanntes Wendentor include its unique roof structure and the detailed wooden embellishments that adorn the façade. These elements are representative of the craftsmanship that has been a source of pride for the Sorbian people. The gatehouse stands as a physical manifestation of cultural expression, appealing to both architecture enthusiasts and those interested in the history of the Sorbian community.
 
@@ -88,7 +88,7 @@ It is wise to bring along water and snacks, particularly if you plan to spend an
 A visit typically takes about one to two hours, allowing time to explore the gatehouse and its surroundings at a leisurely pace.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s courteous to be respectful of any guidelines provided at the site.
+Yes, photography is generally permitted, but it's courteous to be respectful of any guidelines provided at the site.
 
 ### Are there guided tours?
 Information regarding guided tours may vary; check the official website for the latest details.

@@ -68,7 +68,7 @@ While exploring the industrious spirit of Lübeck, there are several nearby attr
 
 4. **Museum of Theatre Puppetry**: A unique museum dedicated to the art of puppetry, offering amusing and enlightening exhibitions that cater to all ages.
 
-5. **Lübeck's Old Town**: Stroll through the charming streets of the city’s Old Town, filled with medieval architecture, shops, and cafes, providing a perfect blend of history and modernity.
+5. **Lübeck's Old Town**: Stroll through the charming streets of the city's Old Town, filled with medieval architecture, shops, and cafes, providing a perfect blend of history and modernity.
 
 ## Insider Tips
 
@@ -92,7 +92,7 @@ Before heading to the Industriemuseum Geschichtswerkstatt Herrenwyk, here are so
 A visit typically takes around 2-3 hours, allowing you to explore the exhibits and participate in any interactive displays.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum upon arrival.
+Photography policies may vary, so it's best to check with the museum upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details about availability and scheduling.

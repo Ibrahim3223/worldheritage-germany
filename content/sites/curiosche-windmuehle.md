@@ -78,7 +78,7 @@ Seasonal considerations are important as well. Spring and summer months tend to 
 A visit to the area can take about 30 minutes to an hour, allowing time to reflect on the historical context and enjoy the surrounding attractions.
 
 ### Is photography allowed?
-While photography is generally permitted in public spaces, it’s always best to be respectful of any signage or local guidelines.
+While photography is generally permitted in public spaces, it's always best to be respectful of any signage or local guidelines.
 
 ### Are there guided tours?
 Check local museums or heritage centers for information on guided tours that may include insights about the windmill and its historical significance.

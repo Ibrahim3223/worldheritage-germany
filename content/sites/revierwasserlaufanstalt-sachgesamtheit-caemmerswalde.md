@@ -87,7 +87,7 @@ Check the official website for information regarding guided tours and their avai
 Visiting during early morning or late afternoon is ideal for avoiding crowds and enjoying the best lighting for photographs.
 
 ### Is it wheelchair accessible?
-Information on accessibility may vary; it’s best to check the official website for current details.
+Information on accessibility may vary; it's best to check the official website for current details.
 
 ### Can I buy tickets online?
 For ticketing information, including online purchases, check the official website.

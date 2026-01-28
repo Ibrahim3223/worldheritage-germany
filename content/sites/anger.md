@@ -70,7 +70,7 @@ Additionally, consider exploring the narrower streets adjacent to Anger for uniq
 
 ## Practical Information
 
-When visiting Anger, it’s advisable to wear comfortable walking shoes, as the area is best explored on foot. Seasonal considerations include dressing in layers, especially during colder months, as weather can be unpredictable. 
+When visiting Anger, it's advisable to wear comfortable walking shoes, as the area is best explored on foot. Seasonal considerations include dressing in layers, especially during colder months, as weather can be unpredictable. 
 
 Bringing a reusable water bottle is recommended, as there are often opportunities to refill it nearby. If you plan to enjoy a meal or coffee, check out the local cafes for a taste of regional flavors.
 

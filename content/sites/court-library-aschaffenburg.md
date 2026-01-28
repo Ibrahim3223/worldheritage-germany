@@ -72,7 +72,7 @@ Aschaffenburg is home to a number of attractions that complement a visit to the 
 
 To enhance your experience at the Court Library Aschaffenburg, consider these insider tips:
 
-- **Photography**: While the library may have specific guidelines regarding photography, it’s best to check for any restrictions upon arrival. If permitted, capturing the architecture and serene study spaces can be rewarding.
+- **Photography**: While the library may have specific guidelines regarding photography, it's best to check for any restrictions upon arrival. If permitted, capturing the architecture and serene study spaces can be rewarding.
 
 - **Avoiding Crowds**: Plan your visit during off-peak hours, such as weekday mornings or later in the afternoon. This will allow you to enjoy a quieter environment and more personal interaction with the library's resources.
 
@@ -80,7 +80,7 @@ To enhance your experience at the Court Library Aschaffenburg, consider these in
 
 To ensure a smooth visit to the Court Library Aschaffenburg, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to carry a notebook or device for note-taking, as well as any specific research materials you may need. A reusable water bottle may also be helpful, though it’s wise to check library policies regarding refreshments.
+- **What to Bring**: It's advisable to carry a notebook or device for note-taking, as well as any specific research materials you may need. A reusable water bottle may also be helpful, though it's wise to check library policies regarding refreshments.
 
 - **Seasonal Considerations**: Be mindful of the weather when planning your visit. Germany can experience varying conditions throughout the year, so dress accordingly for comfort, particularly if you plan to explore nearby attractions afterward.
 
@@ -90,7 +90,7 @@ To ensure a smooth visit to the Court Library Aschaffenburg, here are some pract
 A visit to the Court Library Aschaffenburg can typically last from one to three hours, depending on your interests and the depth of exploration you wish to undertake.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s important to check the rules upon arrival. Some areas may permit photography, while others may not.
+Photography policies may vary, so it's important to check the rules upon arrival. Some areas may permit photography, while others may not.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available, as this may enhance your understanding of the library's history and collections.
@@ -99,7 +99,7 @@ Check the official website for information on whether guided tours are available
 Weekday mornings or late afternoons are often the best times to visit to avoid crowds and enjoy a quieter atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility may vary, so it’s advisable to check the official website for specific accommodations and facilities available for wheelchair users.
+Accessibility may vary, so it's advisable to check the official website for specific accommodations and facilities available for wheelchair users.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases can be found on the official website, so consult it for details on entry fees and purchasing options.

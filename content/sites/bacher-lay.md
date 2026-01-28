@@ -60,7 +60,7 @@ While Bacher Lay is a destination in itself, visitors may wish to explore some n
 
 1. **Nisterau River**: Known for its scenic beauty, the river offers opportunities for fishing, kayaking, and peaceful riverside walks.
    
-2. **Hiking Trails**: The surrounding area features numerous hiking trails that cater to various skill levels, providing a chance to explore more of Rheinland-Pfalz’s natural beauty.
+2. **Hiking Trails**: The surrounding area features numerous hiking trails that cater to various skill levels, providing a chance to explore more of Rheinland-Pfalz's natural beauty.
 
 3. **Local Villages**: The charming villages in the vicinity offer a glimpse into traditional German life, with quaint architecture and local shops.
 

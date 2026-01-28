@@ -64,7 +64,7 @@ When visiting Cultural heritage D-6-6325-0227, the surrounding area offers addit
 
 1. **Würzburg Residence**: A UNESCO World Heritage Site, this stunning Baroque palace showcases exquisite architecture and beautiful gardens. It is a must-visit for those interested in grand historical residences.
 
-2. **Festung Marienberg**: This fortress is perched above the city of Würzburg and provides insight into the region’s military history. Visitors can explore its museums and enjoy sweeping views of the surrounding area.
+2. **Festung Marienberg**: This fortress is perched above the city of Würzburg and provides insight into the region's military history. Visitors can explore its museums and enjoy sweeping views of the surrounding area.
 
 3. **The Old Main Bridge (Alte Mainbrücke)**: An iconic structure in Würzburg, this bridge offers picturesque views and is lined with statues that celebrate the city's history. It's a lovely spot for a leisurely walk.
 

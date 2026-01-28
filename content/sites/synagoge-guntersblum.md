@@ -28,7 +28,7 @@ Beyond its historical significance, the synagogue becomes a focal point for disc
 
 ## History and Significance
 
-The history of Synagoge Guntersblum is intertwined with the Jewish community that once flourished in the area. Though specific dates regarding its establishment and operational years are not detailed, the synagogue represents a period when Jewish life was a vibrant part of the village’s identity. The Jewish presence in Guntersblum is indicative of broader patterns of Jewish settlement in rural Germany, where communities often formed around synagogues that served as religious, social, and cultural hubs.
+The history of Synagoge Guntersblum is intertwined with the Jewish community that once flourished in the area. Though specific dates regarding its establishment and operational years are not detailed, the synagogue represents a period when Jewish life was a vibrant part of the village's identity. The Jewish presence in Guntersblum is indicative of broader patterns of Jewish settlement in rural Germany, where communities often formed around synagogues that served as religious, social, and cultural hubs.
 
 As the 20th century progressed, the Jewish communities across Germany faced increasing challenges, culminating in the Holocaust. Many synagogues were destroyed, abandoned, or repurposed, leading to the loss of countless cultural artifacts and heritage sites. Synagoge Guntersblum serves as a poignant reminder of this history, allowing visitors to reflect on the resilience of the Jewish community and the importance of memory in combating intolerance.
 
@@ -62,7 +62,7 @@ When visiting Synagoge Guntersblum, consider exploring the following nearby attr
 
 4. **Nierstein Vineyard**: Located nearby, this area is renowned for its vineyards and wine production. A visit can include wine tastings and scenic vineyard views.
 
-5. **Darmstadt**: A bit further afield, Darmstadt features numerous museums and cultural sites, including the Mathildenhöhe artists’ colony, famous for its Art Nouveau architecture.
+5. **Darmstadt**: A bit further afield, Darmstadt features numerous museums and cultural sites, including the Mathildenhöhe artists' colony, famous for its Art Nouveau architecture.
 
 ## Insider Tips
 

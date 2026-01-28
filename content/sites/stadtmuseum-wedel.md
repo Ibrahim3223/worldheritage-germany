@@ -80,7 +80,7 @@ For a more enjoyable experience at the Stadtmuseum Wedel, consider these insider
   
 - **Crowd Avoidance:** To avoid larger crowds, plan your visit during weekday mornings or early afternoons. This will provide a quieter atmosphere for exploring the exhibits.
 
-- **Engage with Staff:** Don’t hesitate to ask museum staff questions. They can offer insights and information that enhance your understanding of the exhibits.
+- **Engage with Staff:** Don't hesitate to ask museum staff questions. They can offer insights and information that enhance your understanding of the exhibits.
 
 ## Practical Information
 

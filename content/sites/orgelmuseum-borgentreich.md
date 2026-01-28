@@ -72,11 +72,11 @@ While Orgelmuseum Borgentreich is a significant destination in itself, the surro
 
 To make the most of your visit to Orgelmuseum Borgentreich, consider the following tips:
 
-- **Photography**: Check the museum’s policy on photography before your visit. Capturing images of the instruments can be a delightful way to remember your experience, but be mindful of any restrictions.
+- **Photography**: Check the museum's policy on photography before your visit. Capturing images of the instruments can be a delightful way to remember your experience, but be mindful of any restrictions.
 
 - **Timing**: To avoid crowds, aim to visit during weekdays or during off-peak hours. This will allow you to enjoy the exhibits at a more leisurely pace and engage more deeply with the displays.
 
-- **Engage with Staff**: Museum staff are typically knowledgeable and passionate about the subject matter. Don’t hesitate to ask questions or seek recommendations for specific exhibits that might interest you.
+- **Engage with Staff**: Museum staff are typically knowledgeable and passionate about the subject matter. Don't hesitate to ask questions or seek recommendations for specific exhibits that might interest you.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When preparing for your visit to Orgelmuseum Borgentreich, consider bringing the
 A visit typically takes about two hours, allowing time to explore exhibits and possibly attend a performance. 
 
 ### Is photography allowed?
-Check the museum’s policy on photography. Policies may vary, so it's best to confirm upon arrival.
+Check the museum's policy on photography. Policies may vary, so it's best to confirm upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the instruments on display. 

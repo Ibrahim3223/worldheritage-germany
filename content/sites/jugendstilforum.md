@@ -60,7 +60,7 @@ The best times to visit the Jugendstilforum are during weekdays when crowds are 
 
 While visiting the Jugendstilforum, take the opportunity to explore other attractions in Bad Nauheim and its surroundings. Here are a few places to consider:
 
-1. **Kurpark Bad Nauheim**: A beautifully landscaped park that showcases the town’s spa culture, ideal for leisurely walks and relaxation.
+1. **Kurpark Bad Nauheim**: A beautifully landscaped park that showcases the town's spa culture, ideal for leisurely walks and relaxation.
    
 2. **Sprudelhof**: This historical spa complex features stunning architecture and thermal baths, offering a glimpse into the town's wellness heritage.
 
@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during the weekdays or early in the morning. Th
 
 ## Practical Information
 
-When visiting the Jugendstilforum, it’s advisable to wear comfortable shoes, especially if you plan to explore nearby attractions. The museum may have specific seasonal considerations, so check the weather before your visit. 
+When visiting the Jugendstilforum, it's advisable to wear comfortable shoes, especially if you plan to explore nearby attractions. The museum may have specific seasonal considerations, so check the weather before your visit. 
 
 Bringing a water bottle is also a good idea, as it will keep you hydrated during your exploration. Additionally, be prepared for potential changes in the museum's schedule or programming, and always check their official website for the latest information.
 
@@ -88,7 +88,7 @@ Bringing a water bottle is also a good idea, as it will keep you hydrated during
 A visit typically takes 1-2 hours, depending on your interest in the exhibits and any events or workshops taking place.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival.
+Photography policies can vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available during certain times.

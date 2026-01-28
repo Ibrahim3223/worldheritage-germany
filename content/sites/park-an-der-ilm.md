@@ -40,7 +40,7 @@ The origins of Park an der Ilm date back to the 18th century when it was develop
 
 Culturally, the park is significant not only for its aesthetic appeal but also for its role in the lives of prominent figures associated with Weimar. The city has long been a hub for writers, philosophers, and artists, and the park has served as a source of inspiration for many. Its paths and meadows have been the backdrop for reflective thought and creative endeavors, contributing to the cultural richness that Weimar is known for today.
 
-Moreover, Park an der Ilm is part of the UNESCO World Heritage site designation for Weimar, which recognizes the city’s unique combination of architectural and cultural landmarks. This designation highlights the park’s importance within a broader historical context, showcasing its contribution to the cultural identity of Weimar and Germany as a whole.
+Moreover, Park an der Ilm is part of the UNESCO World Heritage site designation for Weimar, which recognizes the city's unique combination of architectural and cultural landmarks. This designation highlights the park's importance within a broader historical context, showcasing its contribution to the cultural identity of Weimar and Germany as a whole.
 
 ## Architecture and Features
 

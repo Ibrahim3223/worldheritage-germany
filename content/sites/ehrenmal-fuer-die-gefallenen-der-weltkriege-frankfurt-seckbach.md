@@ -70,7 +70,7 @@ While visiting the Ehrenmal für die Gefallenen der Weltkriege, you may want to 
 
 To make the most of your visit to the Ehrenmal für die Gefallenen der Weltkriege, consider the following insider tips:
 
-- **Photography**: While capturing the monument’s solemnity is encouraged, be mindful of the atmosphere and respect the purpose of the site. Early mornings or late afternoons provide soft lighting for photographs.
+- **Photography**: While capturing the monument's solemnity is encouraged, be mindful of the atmosphere and respect the purpose of the site. Early mornings or late afternoons provide soft lighting for photographs.
 
 - **Crowd Avoidance**: To experience the monument in a more tranquil setting, consider visiting during weekdays or early in the morning when foot traffic is lower.
 

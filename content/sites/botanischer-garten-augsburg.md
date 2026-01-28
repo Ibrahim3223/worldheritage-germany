@@ -46,7 +46,7 @@ One of the notable features of the garden is its collection of greenhouses, whic
 
 Additionally, the garden includes walking paths that meander through various landscaped areas, offering visitors a chance to immerse themselves in the sights and sounds of nature. The integration of seating areas throughout the garden encourages relaxation and contemplation, making it an ideal spot for reading or enjoying a quiet moment.
 
-The attention to detail in the garden’s design reflects a commitment to horticultural excellence, with plant beds arranged in aesthetically pleasing patterns and labeled for educational purposes. This thoughtful curation not only enhances the visitor experience but also underscores the garden's role in botanical education.
+The attention to detail in the garden's design reflects a commitment to horticultural excellence, with plant beds arranged in aesthetically pleasing patterns and labeled for educational purposes. This thoughtful curation not only enhances the visitor experience but also underscores the garden's role in botanical education.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ Expect to spend at least a couple of hours exploring the various sections of the
 
 Augsburg is rich in history and culture, and several attractions are located within proximity to the Botanischer Garten. Here are a few notable sites worth exploring:
 
-1. **Augsburg Cathedral**: This stunning structure, with its twin towers and intricate stained-glass windows, offers insight into the city’s architectural heritage.
+1. **Augsburg Cathedral**: This stunning structure, with its twin towers and intricate stained-glass windows, offers insight into the city's architectural heritage.
 
 2. **Fuggerei**: The world's oldest social housing complex, established in the 16th century, provides a fascinating glimpse into the lives of its residents and the philanthropic efforts of the Fugger family.
 
@@ -108,4 +108,4 @@ Restroom facilities are typically available on-site, but check the official webs
 ### What should I wear?
 Dress comfortably for walking and consider layers depending on the weather, as temperatures can vary throughout the day.
 
-In summary, the Botanischer Garten Augsburg is a captivating destination that invites visitors to explore the wonders of the plant kingdom. With its blend of beauty, education, and cultural significance, it stands as a key highlight in Augsburg’s rich tapestry of attractions. Whether you're a local resident or a traveler from afar, this botanical garden promises an enriching experience that connects you with the natural world.
+In summary, the Botanischer Garten Augsburg is a captivating destination that invites visitors to explore the wonders of the plant kingdom. With its blend of beauty, education, and cultural significance, it stands as a key highlight in Augsburg's rich tapestry of attractions. Whether you're a local resident or a traveler from afar, this botanical garden promises an enriching experience that connects you with the natural world.

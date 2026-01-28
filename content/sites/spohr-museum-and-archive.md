@@ -46,7 +46,7 @@ Notable features of the museum may include interactive exhibits that allow visit
 
 ## Visiting Information
 
-Reaching the Spohr Museum is convenient, owing to Kassel’s well-connected public transport system. Visitors can use local buses or trams to access the museum easily. For those traveling by car, parking facilities may be available nearby, but checking the official website for up-to-date information on transport options is advisable.
+Reaching the Spohr Museum is convenient, owing to Kassel's well-connected public transport system. Visitors can use local buses or trams to access the museum easily. For those traveling by car, parking facilities may be available nearby, but checking the official website for up-to-date information on transport options is advisable.
 
 Before planning your visit, it is essential to check the official website for current information on opening hours and ticket prices. The museum typically offers a variety of experiences suitable for different interests, so visitors can expect to spend a few hours exploring the exhibits.
 
@@ -64,7 +64,7 @@ While visiting the Spohr Museum, consider exploring other cultural sites in Kass
 
 4. **Fridericianum**: One of the oldest exhibition halls in Europe, it hosts a range of exhibitions focusing on contemporary art and culture.
 
-5. **Kassel’s City Museum**: This museum provides insights into the local history and culture of Kassel, complementing the musical focus of the Spohr Museum.
+5. **Kassel's City Museum**: This museum provides insights into the local history and culture of Kassel, complementing the musical focus of the Spohr Museum.
 
 ## Insider Tips
 

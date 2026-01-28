@@ -70,7 +70,7 @@ To avoid larger crowds, aim to visit during weekdays or early in the morning. Th
 
 ## Practical Information
 
-When preparing for your visit to the New Synagogue, it’s essential to be mindful of what to bring. Comfortable shoes are recommended for exploring the site and surrounding areas. Additionally, consider packing a light jacket or sweater, as indoor temperatures can vary.
+When preparing for your visit to the New Synagogue, it's essential to be mindful of what to bring. Comfortable shoes are recommended for exploring the site and surrounding areas. Additionally, consider packing a light jacket or sweater, as indoor temperatures can vary.
 
 Seasonal considerations play a role in your visit as well. Summers can be warm, while winters may bring chilly temperatures, so dress appropriately for the weather. 
 

@@ -44,7 +44,7 @@ The architectural design of the Spitalkirche is characterized by its traditional
 
 The interior of the church likely contains various elements that enhance its spiritual atmosphere. Features such as stained glass windows, wooden pews, and altar pieces may contribute to the overall aesthetic and ambiance of the space. These design elements not only serve practical purposes but also enhance the worship experience, inviting reflection and contemplation.
 
-Additionally, the overall layout of the Spitalkirche may reflect the traditional design of churches, with a nave that leads to the altar, allowing for a clear line of sight for congregants. The church’s architectural features serve not only to beautify the space but also to create an environment conducive to worship and community gatherings.
+Additionally, the overall layout of the Spitalkirche may reflect the traditional design of churches, with a nave that leads to the altar, allowing for a clear line of sight for congregants. The church's architectural features serve not only to beautify the space but also to create an environment conducive to worship and community gatherings.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ If you're interested in a more personal experience, try to engage with any avail
 
 ## Practical Information
 
-When planning your visit to Spitalkirche, consider bringing a camera to capture the intricate details of the church's architecture and interior. It’s also wise to dress modestly, as a sign of respect for the religious significance of the site. 
+When planning your visit to Spitalkirche, consider bringing a camera to capture the intricate details of the church's architecture and interior. It's also wise to dress modestly, as a sign of respect for the religious significance of the site. 
 
 Seasonal considerations may impact your visit, with certain times of year experiencing more visitors due to local festivals or events. It's best to check the local calendar for any happenings that might coincide with your visit.
 
@@ -101,7 +101,7 @@ Information regarding wheelchair accessibility may vary; consult the official we
 Check the official website for current information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Visitor amenities, including restrooms and nearby cafes, may be available, but it’s best to confirm this information prior to your visit.
+Visitor amenities, including restrooms and nearby cafes, may be available, but it's best to confirm this information prior to your visit.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind the church's religious significance.

@@ -46,7 +46,7 @@ For those planning a visit to the Hessisches Forstmuseum Alte Fasanerie, it is a
 
 The best approach to reach the museum is via public transport or personal vehicle, with ample parking available on-site. Visitors should allocate a few hours to fully experience the exhibits and outdoor trails, allowing ample time for exploration and learning.
 
-The museum’s atmosphere is particularly inviting during spring and fall, when the surrounding landscapes are vibrant with color, adding to the overall experience. Seasonal events may also take place, enhancing the relevance of the exhibits and showcasing specific themes related to forestry and wildlife.
+The museum's atmosphere is particularly inviting during spring and fall, when the surrounding landscapes are vibrant with color, adding to the overall experience. Seasonal events may also take place, enhancing the relevance of the exhibits and showcasing specific themes related to forestry and wildlife.
 
 ## Nearby Attractions
 

@@ -30,7 +30,7 @@ While specific historical details about the founding of the Mineralogisch-Geolog
 
 The significance of the museum extends beyond its collections; it serves as a hub for research and education in the fields of mineralogy and geology. By providing access to a wide range of specimens and educational resources, the museum contributes to the scientific community's understanding of Earth's materials and processes. This commitment to education is crucial in a time when environmental awareness and geological knowledge are increasingly important.
 
-Moreover, the museum’s collections often include rare and significant specimens that reflect the geological diversity found within Germany and beyond. Through exhibitions and educational programs, the Mineralogisch-Geologisches Museum not only showcases these specimens but also encourages critical thinking about our planet's resources and the importance of sustainable practices.
+Moreover, the museum's collections often include rare and significant specimens that reflect the geological diversity found within Germany and beyond. Through exhibitions and educational programs, the Mineralogisch-Geologisches Museum not only showcases these specimens but also encourages critical thinking about our planet's resources and the importance of sustainable practices.
 
 ## Architecture and Features
 

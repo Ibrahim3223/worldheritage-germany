@@ -70,7 +70,7 @@ While visiting the Synagoge in Blomberg, you may want to explore additional attr
 
 To make the most of your visit to the Synagoge in Blomberg, consider the following insider tips:
 
-- **Photography**: While capturing the architecture is tempting, be mindful of any restrictions regarding photography inside the synagogue. It’s always best to ask before taking photos.
+- **Photography**: While capturing the architecture is tempting, be mindful of any restrictions regarding photography inside the synagogue. It's always best to ask before taking photos.
 - **Crowd Avoidance**: Visit during non-peak hours, typically early in the morning or late afternoon, to enjoy a quieter experience.
 - **Engagement**: If available, participate in guided tours or educational programs to gain deeper insights into the synagogue's history and significance.
 
@@ -98,7 +98,7 @@ Weekdays are often less crowded, providing a more peaceful atmosphere for contem
 Check the official website for information on accessibility options.
 
 ### Can I buy tickets online?
-Ticketing options may vary, so it’s best to consult the official website for the latest information.
+Ticketing options may vary, so it's best to consult the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Facilities may not be available on-site. Consider looking for nearby options before your visit.

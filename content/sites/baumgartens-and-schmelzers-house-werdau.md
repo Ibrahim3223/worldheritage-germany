@@ -89,7 +89,7 @@ Staying informed about these aspects can help you enjoy your visit to this impor
 A visit typically lasts around one to two hours, allowing time to explore the exhibits and learn about the house's history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions during your visit.
+Photography is generally permitted, but it's best to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insight into the house's history and significance.

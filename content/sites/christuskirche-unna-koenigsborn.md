@@ -52,7 +52,7 @@ When planning a visit to Christuskirche Unna-Königsborn, it's advisable to chec
 
 Accessing the church is relatively straightforward, with public transport options available for those traveling from nearby cities. Visitors should anticipate spending about an hour exploring the church, although this can vary based on individual interest in its architecture and history.
 
-The best times to visit Christuskirche are typically during weekdays when it is less crowded, allowing for a more personal experience. Additionally, attending a service could provide insight into the community's practices and the church’s role in daily life.
+The best times to visit Christuskirche are typically during weekdays when it is less crowded, allowing for a more personal experience. Additionally, attending a service could provide insight into the community's practices and the church's role in daily life.
 
 ## Nearby Attractions
 
@@ -70,7 +70,7 @@ These attractions enhance the overall experience of visiting Christuskirche, mak
 
 To make the most of your visit to Christuskirche Unna-Königsborn, consider arriving early in the day to avoid crowds, particularly on weekends. This allows for a more tranquil experience as you explore the church's interior and reflect on its significance.
 
-Photography enthusiasts should be mindful of church etiquette when capturing images inside the building. It’s best to respect the sacred nature of the space while also being aware of any signs that may indicate photography restrictions.
+Photography enthusiasts should be mindful of church etiquette when capturing images inside the building. It's best to respect the sacred nature of the space while also being aware of any signs that may indicate photography restrictions.
 
 ## Practical Information
 

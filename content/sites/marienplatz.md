@@ -34,7 +34,7 @@ At the center of the square, the impressive New Town Hall (Neues Rathaus) comman
 
 Marienplatz has acted as Munich's central square since the 12th century, evolving from a marketplace into a crucial cultural and civic hub. Initially known as "Marktplatz" or marketplace, it became a center for trade and public gatherings. The square is named after the Mariensäule, a Marian column erected in 1638 to commemorate the end of Swedish occupation during the Thirty Years' War. This column symbolizes protection and peace and remains a focal point of the square.
 
-Over the centuries, Marienplatz has witnessed significant events, from royal proclamations to public celebrations. It has served as a backdrop for the city's development, reflecting the changing tides of politics and culture in Munich. The square continues to hold importance as a venue for traditional events like the Christmas market and the annual Oktoberfest, demonstrating its enduring role in Munich’s social life.
+Over the centuries, Marienplatz has witnessed significant events, from royal proclamations to public celebrations. It has served as a backdrop for the city's development, reflecting the changing tides of politics and culture in Munich. The square continues to hold importance as a venue for traditional events like the Christmas market and the annual Oktoberfest, demonstrating its enduring role in Munich's social life.
 
 Culturally, Marienplatz is not just a physical space but a representation of Munich's identity. It connects the past and present, allowing visitors to appreciate the city's heritage while engaging with its contemporary vibrancy. The square is a living testament to the city's resilience and spirit, making it a vital stop on any itinerary.
 
@@ -44,15 +44,15 @@ The architectural landscape of Marienplatz is dominated by the New Town Hall (Ne
 
 Adjacent to the New Town Hall stands the Old Town Hall (Altes Rathaus), which dates back to the late 15th century. This building presents a stark contrast to its newer neighbor, exhibiting a more understated Gothic style. The Old Town Hall now serves as a toy museum, offering insight into the history of play and childhood in Munich.
 
-The Mariensäule, located in the center of the square, is an important landmark. This column, topped with a golden statue of the Virgin Mary, is a symbol of Munich’s protection and divine guidance. Surrounding the square, visitors will find a mix of historic and modern buildings, shops, and restaurants, creating a lively atmosphere.
+The Mariensäule, located in the center of the square, is an important landmark. This column, topped with a golden statue of the Virgin Mary, is a symbol of Munich's protection and divine guidance. Surrounding the square, visitors will find a mix of historic and modern buildings, shops, and restaurants, creating a lively atmosphere.
 
-Marienplatz is also characterized by its open space, which allows for gatherings and events. The square's cobblestone paths are ideal for strolling, providing a perfect setting for people-watching and soaking in the ambiance of Munich’s bustling life.
+Marienplatz is also characterized by its open space, which allows for gatherings and events. The square's cobblestone paths are ideal for strolling, providing a perfect setting for people-watching and soaking in the ambiance of Munich's bustling life.
 
 ## Visiting Information
 
 Marienplatz is easily accessible by various forms of transportation, including the U-Bahn (subway) and buses, making it a convenient destination for visitors. The square is in close proximity to other major attractions in Munich, allowing for a seamless exploration of the city.
 
-When planning a visit, it’s advisable to check the official website for current information regarding the hours and any possible entry fees for nearby attractions. The best time to experience Marienplatz is during the morning or late afternoon when the square is less crowded, allowing for a more leisurely exploration of its features and nearby shops.
+When planning a visit, it's advisable to check the official website for current information regarding the hours and any possible entry fees for nearby attractions. The best time to experience Marienplatz is during the morning or late afternoon when the square is less crowded, allowing for a more leisurely exploration of its features and nearby shops.
 
 Typically, visitors may spend about one to two hours in the square, taking in the sights, enjoying a coffee, and perhaps catching the Glockenspiel in action. For those interested in deeper exploration, consider setting aside additional time to visit the nearby attractions.
 

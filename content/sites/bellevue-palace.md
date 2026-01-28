@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Located in the heart of Berlin, Bellevue Palace serves as the official residence of the President of the Federal Republic of Germany. This stunning palace not only embodies the prestige of the German presidency but also reflects the architectural elegance and historical narratives woven into the fabric of Berlin. Surrounded by lush gardens and situated along the banks of the Spree River, the palace occupies a prominent place in the city’s cultural and political landscape. Its significance extends beyond mere aesthetics; Bellevue Palace is a focal point for official state functions and a symbol of Germany's democratic values. 
+Located in the heart of Berlin, Bellevue Palace serves as the official residence of the President of the Federal Republic of Germany. This stunning palace not only embodies the prestige of the German presidency but also reflects the architectural elegance and historical narratives woven into the fabric of Berlin. Surrounded by lush gardens and situated along the banks of the Spree River, the palace occupies a prominent place in the city's cultural and political landscape. Its significance extends beyond mere aesthetics; Bellevue Palace is a focal point for official state functions and a symbol of Germany's democratic values. 
 
-As visitors approach, they are met with a structure that harmonizes classical elements with the vibrancy of modern Germany. The palace offers an engaging glimpse into the country’s heritage, making it a worthwhile inclusion on any itinerary. Whether you are an architecture enthusiast, a history buff, or simply curious about contemporary German politics, Bellevue Palace promises an enriching experience. 
+As visitors approach, they are met with a structure that harmonizes classical elements with the vibrancy of modern Germany. The palace offers an engaging glimpse into the country's heritage, making it a worthwhile inclusion on any itinerary. Whether you are an architecture enthusiast, a history buff, or simply curious about contemporary German politics, Bellevue Palace promises an enriching experience. 
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Bellevue Palace, originally constructed as a summer residence in the early 18th 
 
 The palace transitioned into the official residence of the German president after World War II, symbolizing the country's commitment to democracy and reconciliation. Throughout its history, Bellevue Palace has witnessed numerous pivotal moments in German politics, hosting foreign dignitaries and serving as a venue for state events. Today, it stands as a powerful representation of the Federal Republic, embodying the principles of unity and governance.
 
-Bellevue Palace is not just a residence; it is a cultural landmark that showcases Germany’s dedication to its democratic ideals. It also plays a role in promoting international relations, as it often hosts state visits and ceremonies, fostering diplomatic ties with countries around the world. This rich history makes it an essential stop for anyone seeking to understand the complexities of modern Germany.
+Bellevue Palace is not just a residence; it is a cultural landmark that showcases Germany's dedication to its democratic ideals. It also plays a role in promoting international relations, as it often hosts state visits and ceremonies, fostering diplomatic ties with countries around the world. This rich history makes it an essential stop for anyone seeking to understand the complexities of modern Germany.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Bellevue Palace exhibits a striking neoclassical design, characterized by its sy
 
 Visitors will be captivated by the palace's expansive gardens, which are meticulously landscaped and open to the public. These gardens provide a serene backdrop to the palace, enhancing its regal presence. The main building features several grand rooms, each with its own unique decor that reflects the history and importance of the site. The interiors are characterized by high ceilings, intricate moldings, and tasteful furnishings, offering a glimpse into the formal life of the presidency.
 
-While the palace is primarily a working residence, its architectural beauty and historical significance make it a compelling subject for exploration. The combination of its stunning exterior and thoughtfully designed interior spaces provides an enriching experience for visitors interested in Germany’s political and cultural heritage.
+While the palace is primarily a working residence, its architectural beauty and historical significance make it a compelling subject for exploration. The combination of its stunning exterior and thoughtfully designed interior spaces provides an enriching experience for visitors interested in Germany's political and cultural heritage.
 
 ## Visiting Information
 

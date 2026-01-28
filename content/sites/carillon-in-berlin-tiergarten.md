@@ -34,9 +34,9 @@ The Tiergarten itself is a vast, historic park that has played a significant rol
 
 The Carillon in Berlin-Tiergarten stands as an emblem of the city's artistic aspirations and cultural legacy. Though specific historical dates are not provided, the tower's establishment aligns with a broader movement in Europe to create public spaces that celebrate music and community. The Carillon has become an integral part of Berlin's cultural landscape, often associated with various public events and celebrations.
 
-The significance of the Carillon extends beyond its physical presence; it serves as a venue for musical performances, providing a platform for artists and musicians to share their talents with the public. This commitment to artistic expression reflects the city’s dedication to cultural enrichment and community engagement.
+The significance of the Carillon extends beyond its physical presence; it serves as a venue for musical performances, providing a platform for artists and musicians to share their talents with the public. This commitment to artistic expression reflects the city's dedication to cultural enrichment and community engagement.
 
-In recent times, the Carillon has also come to symbolize the unity and resilience of the people of Berlin. As a gathering place within the expansive Tiergarten, it fosters connections among visitors from diverse backgrounds, making it a significant landmark in the city’s social fabric.
+In recent times, the Carillon has also come to symbolize the unity and resilience of the people of Berlin. As a gathering place within the expansive Tiergarten, it fosters connections among visitors from diverse backgrounds, making it a significant landmark in the city's social fabric.
 
 ## Architecture and Features
 

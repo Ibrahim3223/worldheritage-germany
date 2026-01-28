@@ -36,13 +36,13 @@ The Church in Roidin is a focal point of local history, representing the endurin
 
 Throughout the centuries, churches have often mirrored the societal changes around them, adapting to the needs of their congregations while maintaining their core functions. The Church in Roidin likely reflects the cultural shifts that have occurred over the years, including changes in architectural styles, liturgical practices, and community engagement. Its architecture may reveal influences from different periods, serving as a canvas for the evolving expression of faith.
 
-In the broader context of German ecclesiastical architecture, the Church in Roidin is part of a tradition that encompasses various styles, from Romanesque to Gothic, illustrating the diverse influences that have permeated the region. Churches often played a central role in the formation of local identities, and the Church in Roidin is no exception, standing as a representation of the community’s values and beliefs.
+In the broader context of German ecclesiastical architecture, the Church in Roidin is part of a tradition that encompasses various styles, from Romanesque to Gothic, illustrating the diverse influences that have permeated the region. Churches often played a central role in the formation of local identities, and the Church in Roidin is no exception, standing as a representation of the community's values and beliefs.
 
 ## Architecture and Features
 
 The architecture of the Church in Roidin is emblematic of church buildings in the region, showcasing elements typical of its style and function. While specific architectural details are not provided, church buildings generally feature significant aspects such as a prominent steeple, stained glass windows, and intricate woodwork. These features not only serve aesthetic purposes but also reflect the theological concepts central to Christian worship.
 
-The church’s interior likely includes elements designed to facilitate worship, including an altar, pews, and possibly artwork that conveys religious narratives. Such features are integral to the church's function as a place of gathering and contemplation. The design of the church may also incorporate local materials and craftsmanship, contributing to its authenticity and connection to the community's heritage.
+The church's interior likely includes elements designed to facilitate worship, including an altar, pews, and possibly artwork that conveys religious narratives. Such features are integral to the church's function as a place of gathering and contemplation. The design of the church may also incorporate local materials and craftsmanship, contributing to its authenticity and connection to the community's heritage.
 
 Visitors to the Church in Roidin can expect to see an environment that fosters a sense of peace and reflection, with architectural elements that invite contemplation and admiration. The building's design serves not only a practical purpose but also enhances the spiritual experience of those who enter.
 
@@ -112,4 +112,4 @@ Check local amenities for restrooms and cafes nearby, as specific details are no
 ### What should I wear?
 Modest and comfortable attire is recommended, especially if attending a service at the church.
 
-The Church in Roidin is not only a place of worship but also a significant cultural landmark that invites exploration and reflection. With its serene atmosphere and architectural beauty, it remains a vital part of the community’s heritage.
+The Church in Roidin is not only a place of worship but also a significant cultural landmark that invites exploration and reflection. With its serene atmosphere and architectural beauty, it remains a vital part of the community's heritage.

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Oeffinger Franziskanerkloster, located in the charming town of Fellbach in the Stuttgart Government Region of Baden-Württemberg, is a striking example of monastic architecture and history. This Franciscan monastery offers visitors a glimpse into a significant chapter of Germany’s religious and cultural heritage. As you approach the site, you'll be enveloped by an atmosphere that invites contemplation and admiration for the craftsmanship of earlier centuries. 
+The Oeffinger Franziskanerkloster, located in the charming town of Fellbach in the Stuttgart Government Region of Baden-Württemberg, is a striking example of monastic architecture and history. This Franciscan monastery offers visitors a glimpse into a significant chapter of Germany's religious and cultural heritage. As you approach the site, you'll be enveloped by an atmosphere that invites contemplation and admiration for the craftsmanship of earlier centuries. 
 
 The monastery's strategic location in Fellbach, a town known for its wine production and vibrant community, adds to its allure, making it an ideal stop for those exploring the greater Stuttgart area. Whether you seek spiritual enrichment, architectural inspiration, or a peaceful retreat from modernity, the Oeffinger Franziskanerkloster promises a unique experience that resonates with the essence of historical monastic life.
 
@@ -56,7 +56,7 @@ While visiting the Oeffinger Franziskanerkloster, there are several nearby attra
 
 1. **Fellbach Vineyards**: Known for its wine production, the nearby vineyards offer tours and tastings, providing a perfect complement to your visit to the monastery.
 
-2. **Stuttgart**: Just a short drive away, Germany’s state capital boasts numerous cultural institutions, including museums, theaters, and parks.
+2. **Stuttgart**: Just a short drive away, Germany's state capital boasts numerous cultural institutions, including museums, theaters, and parks.
 
 3. **Schillerplatz**: Located in the heart of Stuttgart, this historic square features beautiful architecture, shops, and restaurants, perfect for a leisurely stroll.
 

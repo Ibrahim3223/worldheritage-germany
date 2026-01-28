@@ -28,11 +28,11 @@ image_srcset:
 
 The Anatomieturm Jena, a historic tower located in the city of Jena, Germany, is an intriguing remnant of the region's architectural heritage. This round tower, part of the city wall, stands as a silent witness to centuries of urban development and cultural evolution. Its strategic position amidst the remnants of old fortifications offers visitors a unique glimpse into the past, highlighting Jena's importance as a center of academic and cultural activity. The tower's presence adds depth to the landscape, making it an essential stop for history enthusiasts and casual visitors alike. 
 
-As you explore the area, you can appreciate the juxtaposition of ancient structures with modern developments, reflecting the city’s dynamic history. The Anatomieturm serves not only as an architectural curiosity but also as a reminder of the importance of preservation in urban environments. Whether you are a local resident or a traveler, a visit to this tower offers a chance to engage with Jena's storied past while enjoying the vibrant atmosphere of the city.
+As you explore the area, you can appreciate the juxtaposition of ancient structures with modern developments, reflecting the city's dynamic history. The Anatomieturm serves not only as an architectural curiosity but also as a reminder of the importance of preservation in urban environments. Whether you are a local resident or a traveler, a visit to this tower offers a chance to engage with Jena's storied past while enjoying the vibrant atmosphere of the city.
 
 ## History and Significance
 
-The Anatomieturm Jena's history is intertwined with the broader narrative of the city itself. Jena has long been recognized as a hub of academic and cultural significance. The tower's origins are linked to the city’s fortifications, which were critical for its protection during various historical conflicts. Although specific dates and events are not detailed, the tower represents the architectural evolution of Jena from a medieval settlement to a modern city.
+The Anatomieturm Jena's history is intertwined with the broader narrative of the city itself. Jena has long been recognized as a hub of academic and cultural significance. The tower's origins are linked to the city's fortifications, which were critical for its protection during various historical conflicts. Although specific dates and events are not detailed, the tower represents the architectural evolution of Jena from a medieval settlement to a modern city.
 
 The significance of the Anatomieturm extends beyond its physical structure. It embodies the spirit of resilience and adaptation that characterizes Jena. Over the centuries, the city has undergone numerous transformations, and the tower has remained a steadfast part of its landscape. It serves as a reminder of the importance of historical architecture in maintaining a sense of identity within a rapidly changing urban environment.
 
@@ -42,7 +42,7 @@ Visitors to the Anatomieturm can appreciate its role within the context of Jena'
 
 The Anatomieturm is characterized by its round design and rustic appearance. This architectural style reflects the practical needs of a defensive structure while also showcasing the aesthetic sensibilities of the time. The tower's robust walls speak to its purpose as a fortification, designed to withstand the rigors of conflict and time.
 
-While specific dimensions and construction details are not provided, the tower's enduring presence indicates a solid construction that has withstood the test of time. Its placement along the city wall enhances its significance, serving both as a lookout point and a means of defense against potential invaders. The tower’s design is emblematic of the medieval architecture prevalent in the region, showcasing the craftsmanship and engineering skills of its builders.
+While specific dimensions and construction details are not provided, the tower's enduring presence indicates a solid construction that has withstood the test of time. Its placement along the city wall enhances its significance, serving both as a lookout point and a means of defense against potential invaders. The tower's design is emblematic of the medieval architecture prevalent in the region, showcasing the craftsmanship and engineering skills of its builders.
 
 Visitors will find the Anatomieturm intriguing not only for its historical context but also for its architectural features. The simplicity of its form is complemented by the rugged texture of the stone, which has weathered the elements over the years. The tower's survival amidst urban development serves as a striking contrast to the modern buildings that surround it, inviting exploration and reflection on the layers of history that define Jena.
 
@@ -103,7 +103,7 @@ Accessibility information can vary, so check the official website for the latest
 For information regarding tickets and potential online purchases, please refer to the official website.
 
 ### Are there restrooms and cafes?
-While specific facilities are not detailed, the surrounding area may have cafes and restrooms. It’s advisable to check before your visit.
+While specific facilities are not detailed, the surrounding area may have cafes and restrooms. It's advisable to check before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, particularly if you plan to explore the nearby areas. Dress according to the weather conditions during your visit.

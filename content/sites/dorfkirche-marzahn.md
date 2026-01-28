@@ -57,7 +57,7 @@ While visiting Dorfkirche Marzahn, you may also want to explore other attraction
 
 ## Insider Tips
 
-When photographing the Dorfkirche Marzahn, try to visit during the golden hours of early morning or late afternoon when the light casts a warm glow on the church’s facade. To avoid crowds, consider visiting on weekdays or during off-peak hours. Additionally, engaging with local community members can enhance your experience, providing personal insights and stories related to the church.
+When photographing the Dorfkirche Marzahn, try to visit during the golden hours of early morning or late afternoon when the light casts a warm glow on the church's facade. To avoid crowds, consider visiting on weekdays or during off-peak hours. Additionally, engaging with local community members can enhance your experience, providing personal insights and stories related to the church.
 
 ## Practical Information
 
@@ -84,7 +84,7 @@ Check the official website for current accessibility options available at Dorfki
 Inquire on the official website for ticketing information and any associated costs.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but it’s advisable to check the official website for detailed information.
+Facilities such as restrooms may be available on-site, but it's advisable to check the official website for detailed information.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that you are visiting a place of worship.

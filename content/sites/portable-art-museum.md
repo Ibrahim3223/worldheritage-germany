@@ -93,7 +93,7 @@ The museum may offer guided tours or educational programs; check the official we
 Weekdays or early afternoons are generally less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The museum aims to be inclusive, but it’s advisable to check the official website for specific accessibility information.
+The museum aims to be inclusive, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options and any current promotions.

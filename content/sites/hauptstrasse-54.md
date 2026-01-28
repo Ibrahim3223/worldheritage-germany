@@ -58,7 +58,7 @@ When planning your visit, it is important to check the official website for curr
 
 The best times to visit Hauptstraße 54 would generally be during regular business hours when the city hall is fully operational, giving you a chance to witness the civic processes in action. Additionally, visiting during community events or local gatherings can provide deeper insights into the role of the city hall in fostering community spirit.
 
-As you explore the villa, take a moment to appreciate the surrounding ambiance and the daily life of Großschönau. This site is not only a place of governance but also an integral part of the community’s fabric.
+As you explore the villa, take a moment to appreciate the surrounding ambiance and the daily life of Großschönau. This site is not only a place of governance but also an integral part of the community's fabric.
 
 ## Nearby Attractions
 
@@ -84,7 +84,7 @@ When planning your visit to Hauptstraße 54, consider these insider tips to enha
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays rather than weekends, as city halls can be busier during peak times. Early morning visits may also help you avoid larger crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask questions or engage with the staff if they are available. They can provide valuable insights into the building's history and its role within the community.
+- **Engage with Staff**: Don't hesitate to ask questions or engage with the staff if they are available. They can provide valuable insights into the building's history and its role within the community.
 
 - **Combine Visits**: Plan your visit to include nearby attractions, as this can create a fuller understanding of the area and allow for a more enjoyable day exploring Großschönau.
 
@@ -96,7 +96,7 @@ Before heading to Hauptstraße 54, keep the following practical considerations i
 
 - **Seasonal Considerations**: The time of year may affect your visit. Check the weather forecast and dress appropriately. If visiting during colder months, ensure you have warm clothing, as some areas may be exposed to the elements.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to check in advance regarding the facilities available at Hauptstraße 54 to ensure a comfortable visit.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to check in advance regarding the facilities available at Hauptstraße 54 to ensure a comfortable visit.
 
 Being prepared can greatly enhance your experience at Hauptstraße 54, allowing you to focus on discovering the rich history and community spirit of Großschönau.
 
@@ -106,7 +106,7 @@ Being prepared can greatly enhance your experience at Hauptstraße 54, allowing 
 A visit to Hauptstraße 54 typically takes about one hour, allowing for exploration of the building and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions, especially regarding interior photography.
+Photography policies may vary, so it's best to check for any restrictions, especially regarding interior photography.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for any updates regarding tours and events.

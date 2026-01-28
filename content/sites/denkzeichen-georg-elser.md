@@ -28,11 +28,11 @@ image_srcset:
 
 In the heart of Berlin, the Denkzeichen Georg Elser stands as a poignant reminder of individual bravery in the face of tyranny. This monument commemorates Georg Elser, a German carpenter who attempted to assassinate Adolf Hitler in 1939. Elser's act of resistance, though ultimately unsuccessful, is a powerful symbol of courage against oppression, making this site significant not only for its historical context but also for its messages of resistance and moral integrity. Positioned in Bezirk Mitte, the Denkzeichen invites visitors to reflect on the complexities of history and the moral choices faced by individuals during times of political strife. 
 
-As you approach the monument, you are greeted by a modern sculpture that prompts contemplation and discussion. The site is easily accessible for those navigating Berlin’s vibrant urban landscape, and it offers an opportunity to engage with the narrative of one man's brave stand against one of history's darkest regimes. Visitors can expect a thought-provoking experience that encourages dialogue on courage, ethics, and the impact of individual actions in the broader scope of history.
+As you approach the monument, you are greeted by a modern sculpture that prompts contemplation and discussion. The site is easily accessible for those navigating Berlin's vibrant urban landscape, and it offers an opportunity to engage with the narrative of one man's brave stand against one of history's darkest regimes. Visitors can expect a thought-provoking experience that encourages dialogue on courage, ethics, and the impact of individual actions in the broader scope of history.
 
 ## History and Significance
 
-Georg Elser’s story is one of determination and moral conviction. In the years leading up to World War II, Elser observed the escalating dangers posed by the Nazi regime. Fueled by a desire to end the violence and oppression, he meticulously planned an assassination attempt on Hitler during a speech at the Bürgerbräukeller in Munich. His efforts included constructing a bomb, which he successfully placed in the venue. However, due to a shift in the schedule, Hitler was not present when the bomb detonated, leading to a significant loss of life among others but sparing the Führer himself.
+Georg Elser's story is one of determination and moral conviction. In the years leading up to World War II, Elser observed the escalating dangers posed by the Nazi regime. Fueled by a desire to end the violence and oppression, he meticulously planned an assassination attempt on Hitler during a speech at the Bürgerbräukeller in Munich. His efforts included constructing a bomb, which he successfully placed in the venue. However, due to a shift in the schedule, Hitler was not present when the bomb detonated, leading to a significant loss of life among others but sparing the Führer himself.
 
 Elser's actions were a radical departure from the apathy that characterized many during this tumultuous period. Following his capture, he was imprisoned and ultimately executed in 1945, shortly before the war's end. His legacy, however, has lived on, and the Denkzeichen Georg Elser serves as a testament to his bravery and the moral dilemmas faced by those who resisted the Nazi regime. The monument encourages visitors to reflect on the consequences of silence in the face of injustice and the profound impact one individual can have on the course of history.
 
@@ -48,7 +48,7 @@ The Denkzeichen is not just a physical structure; it is a space for contemplatio
 
 ## Visiting Information
 
-Visiting the Denkzeichen Georg Elser provides a unique opportunity to connect with an important piece of history. The monument is situated in Bezirk Mitte, making it easily accessible via public transport. Visitors can reach the site using various modes of transportation, including buses and trains, which connect to Berlin’s extensive public transit network.
+Visiting the Denkzeichen Georg Elser provides a unique opportunity to connect with an important piece of history. The monument is situated in Bezirk Mitte, making it easily accessible via public transport. Visitors can reach the site using various modes of transportation, including buses and trains, which connect to Berlin's extensive public transit network.
 
 Check the official website for current information regarding hours of operation and any potential entry fees. Typically, visiting the Denkzeichen does not require a ticket, allowing visitors to engage with the monument freely. It is advisable to allocate around 30 minutes to an hour for your visit, as this will provide ample time to appreciate the monument and reflect on its significance.
 
@@ -56,7 +56,7 @@ The best times to visit are generally during weekdays when crowds are smaller, a
 
 ## Nearby Attractions
 
-While visiting the Denkzeichen Georg Elser, you may want to explore several nearby attractions that enrich your understanding of Berlin’s complex history:
+While visiting the Denkzeichen Georg Elser, you may want to explore several nearby attractions that enrich your understanding of Berlin's complex history:
 
 1. **Topography of Terror**: Located just a short distance away, this outdoor and indoor museum documents the history of the Nazi regime and its crimes, providing critical context for understanding the era in which Elser lived.
 
@@ -72,7 +72,7 @@ While visiting the Denkzeichen Georg Elser, you may want to explore several near
 
 To enhance your visit to the Denkzeichen Georg Elser, consider the following tips:
 
-- **Photography Tips**: The monument’s design is abstract and can be interpreted in various ways. Experiment with different angles to capture its essence. Early morning or late afternoon light can create dramatic shadows that accentuate the sculpture’s lines.
+- **Photography Tips**: The monument's design is abstract and can be interpreted in various ways. Experiment with different angles to capture its essence. Early morning or late afternoon light can create dramatic shadows that accentuate the sculpture's lines.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or early in the morning. This will allow you to immerse yourself in the atmosphere without the distractions of larger crowds.
 

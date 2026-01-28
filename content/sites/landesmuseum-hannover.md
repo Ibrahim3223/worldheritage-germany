@@ -100,7 +100,7 @@ Be sure to check the official website for any specific guidelines or requirement
 A typical visit to the Landesmuseum Hannover may take around two to three hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check upon entry for any specific guidelines regarding photography.
+Photography policies may vary by exhibit. It's best to check upon entry for any specific guidelines regarding photography.
 
 ### Are there guided tours?
 Yes, the museum often offers guided tours that provide deeper insights into the collections. Check the official website for scheduling and availability.

@@ -76,7 +76,7 @@ Consider taking the time to engage with any educational programs or guided tours
 
 When preparing for your visit to Museum Peter Gehring, consider bringing along essentials such as a camera, a notebook for jotting down thoughts, and comfortable walking shoes. Munich's weather can vary, so check the forecast and dress accordingly, especially if you plan to explore nearby outdoor attractions.
 
-Seasonal events or exhibits may influence the experience at the museum, so it’s worth checking for any special programming during your visit. Lastly, familiarize yourself with the amenities available in and around the museum, which can enhance your overall experience.
+Seasonal events or exhibits may influence the experience at the museum, so it's worth checking for any special programming during your visit. Lastly, familiarize yourself with the amenities available in and around the museum, which can enhance your overall experience.
 
 ## Frequently Asked Questions
 

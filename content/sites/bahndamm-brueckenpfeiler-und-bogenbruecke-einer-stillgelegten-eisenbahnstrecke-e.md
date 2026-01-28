@@ -46,7 +46,7 @@ Visitors can appreciate the craftsmanship involved in creating these structures 
 
 ## Visiting Information
 
-Reaching the Bahndamm, Brückenpfeiler und Bogenbrücke is relatively straightforward, as it is located in Ebersbach, Germany. Travelers can access the site using various modes of transport, including private vehicles and public transportation. Parking may be available nearby, but it’s advisable to check local sources for the most current information.
+Reaching the Bahndamm, Brückenpfeiler und Bogenbrücke is relatively straightforward, as it is located in Ebersbach, Germany. Travelers can access the site using various modes of transport, including private vehicles and public transportation. Parking may be available nearby, but it's advisable to check local sources for the most current information.
 
 When planning a visit, be sure to check the official website for details on opening hours and any potential access restrictions. Visitors should anticipate spending a few hours at the site to fully appreciate its historical significance and architectural features.
 
@@ -103,7 +103,7 @@ While specific guided tours may not be available, local historians or guides mig
 Visiting during spring or autumn is recommended for pleasant weather. Early mornings or late afternoons can also provide a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility may vary depending on the site’s terrain. It is advisable to check ahead for specific accessibility features.
+Accessibility may vary depending on the site's terrain. It is advisable to check ahead for specific accessibility features.
 
 ### Can I buy tickets online?
 Currently, there is no information suggesting a fee for entry, but check the official website for the most up-to-date information.

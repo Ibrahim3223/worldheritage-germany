@@ -70,7 +70,7 @@ If you are looking to immerse yourself in the tranquility of the area, bringing 
 
 ## Practical Information
 
-When visiting Dreiseengebiet, it’s advisable to bring along essentials such as water, snacks, and sun protection, particularly during warmer months. Comfortable footwear is also recommended, especially if you plan to explore the trails around the lake. 
+When visiting Dreiseengebiet, it's advisable to bring along essentials such as water, snacks, and sun protection, particularly during warmer months. Comfortable footwear is also recommended, especially if you plan to explore the trails around the lake. 
 
 Seasonal considerations are important to note. Spring and summer are ideal for enjoying the lake's outdoor activities, while fall can offer stunning foliage. Winter may limit access to some areas but could provide a unique perspective of the lake and its surroundings. 
 

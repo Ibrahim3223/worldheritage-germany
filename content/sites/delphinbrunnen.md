@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Delphinbrunnen, or Dolphin Fountain, stands as a significant landmark in Munich, Germany. This water well, located in the heart of the city, serves not only as a functional source of water but also as an artistic representation of municipal heritage. The fountain is an emblem of the city’s rich artistic endeavors and reflects the historical importance of public water features within urban landscapes. As you approach the Delphinbrunnen, the charm of its design draws you in, inviting reflection on both its aesthetic appeal and cultural relevance. 
+The Delphinbrunnen, or Dolphin Fountain, stands as a significant landmark in Munich, Germany. This water well, located in the heart of the city, serves not only as a functional source of water but also as an artistic representation of municipal heritage. The fountain is an emblem of the city's rich artistic endeavors and reflects the historical importance of public water features within urban landscapes. As you approach the Delphinbrunnen, the charm of its design draws you in, inviting reflection on both its aesthetic appeal and cultural relevance. 
 
-Situated at coordinates 48.144639893, 11.559847395, the fountain is seamlessly integrated into the vibrant urban fabric of Munich. Its location makes it an accessible point of interest for visitors exploring the city. While its primary function is that of a water well, the artistic elements and historical context make it a notable stop for those interested in the intersection of art, history, and public utility. The Delphinbrunnen represents an enduring link to the city’s past while continuing to serve the community today.
+Situated at coordinates 48.144639893, 11.559847395, the fountain is seamlessly integrated into the vibrant urban fabric of Munich. Its location makes it an accessible point of interest for visitors exploring the city. While its primary function is that of a water well, the artistic elements and historical context make it a notable stop for those interested in the intersection of art, history, and public utility. The Delphinbrunnen represents an enduring link to the city's past while continuing to serve the community today.
 
 ## History and Significance
 
-The Delphinbrunnen is more than just a fountain; it is a reflection of Munich’s commitment to public art and functionality. Throughout history, fountains have played a crucial role in urban planning, serving as both practical water sources and aesthetic enhancements to public spaces. In many European cities, including Munich, fountains have historically been symbols of prosperity and civic pride.
+The Delphinbrunnen is more than just a fountain; it is a reflection of Munich's commitment to public art and functionality. Throughout history, fountains have played a crucial role in urban planning, serving as both practical water sources and aesthetic enhancements to public spaces. In many European cities, including Munich, fountains have historically been symbols of prosperity and civic pride.
 
 The cultural importance of the Delphinbrunnen lies in its embodiment of these themes. It serves as a reminder of the vital role that water played in the daily lives of residents and the community's reliance on such public amenities. Water features like the Delphinbrunnen have historically been gathering places for locals, promoting social interaction and community engagement.
 
-While specific historical details about the fountain may not be readily available, its presence in the city can be seen as an essential part of Munich’s urban landscape. Fountains like this one often reflect artistic trends and societal values of their time, showcasing craftsmanship and design philosophies that resonate through the ages. The Delphinbrunnen stands as an illustration of the city's heritage, blending utility with artistry and serving as a focal point for both residents and visitors.
+While specific historical details about the fountain may not be readily available, its presence in the city can be seen as an essential part of Munich's urban landscape. Fountains like this one often reflect artistic trends and societal values of their time, showcasing craftsmanship and design philosophies that resonate through the ages. The Delphinbrunnen stands as an illustration of the city's heritage, blending utility with artistry and serving as a focal point for both residents and visitors.
 
 ## Architecture and Features
 
@@ -106,4 +106,4 @@ Nearby attractions such as Marienplatz and Viktualienmarkt offer various ameniti
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if you plan to walk around and explore the surrounding areas. Dress in layers to accommodate changing weather conditions. 
 
-The Delphinbrunnen is a noteworthy stop in Munich, providing insight into the city’s artistic heritage while serving as a functional water source. Whether you are a local or a visitor, spending time at this fountain is an opportunity to appreciate the blend of art, culture, and community that defines Munich.
+The Delphinbrunnen is a noteworthy stop in Munich, providing insight into the city's artistic heritage while serving as a functional water source. Whether you are a local or a visitor, spending time at this fountain is an opportunity to appreciate the blend of art, culture, and community that defines Munich.

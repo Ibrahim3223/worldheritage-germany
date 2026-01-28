@@ -115,7 +115,7 @@ While specific tours may not be regularly scheduled, inquire at the chapel for a
 The best time to visit is during weekdays or off-peak hours to enjoy a quieter experience. Local events may also enhance your visit.
 
 ### Is it wheelchair accessible?
-Access information is not provided, so it’s advisable to check with the chapel directly regarding wheelchair accessibility.
+Access information is not provided, so it's advisable to check with the chapel directly regarding wheelchair accessibility.
 
 ### Can I buy tickets online?
 Ticketing information is not specified; check the official website for details regarding admission and any online purchasing options.

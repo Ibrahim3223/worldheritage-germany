@@ -48,7 +48,7 @@ The museum's interior space is conducive to both individual exploration and grou
 
 ## Visiting Information
 
-When planning a visit to the Eulenspiegel-Museum, it’s important to consider your travel options. Mölln is accessible via various modes of transportation, making it convenient for both local and international travelers. Public transport options, including trains and buses, connect Mölln with larger cities in the region, providing a straightforward route to the museum.
+When planning a visit to the Eulenspiegel-Museum, it's important to consider your travel options. Mölln is accessible via various modes of transportation, making it convenient for both local and international travelers. Public transport options, including trains and buses, connect Mölln with larger cities in the region, providing a straightforward route to the museum.
 
 While specific hours of operation and ticket prices are not detailed here, visitors are encouraged to check the official website for current information regarding opening times and admission fees. It is advisable to allocate ample time for your visit, as the museum offers a range of exhibits that can captivate and engage visitors for several hours.
 
@@ -74,7 +74,7 @@ While visiting the Eulenspiegel-Museum, consider exploring some of the nearby at
 
 To make the most of your visit to the Eulenspiegel-Museum, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography before your visit. If allowed, take advantage of the opportunity to capture the whimsical exhibits and displays.
+- **Photography**: Check the museum's policy on photography before your visit. If allowed, take advantage of the opportunity to capture the whimsical exhibits and displays.
 
 - **Crowd Avoidance**: Aim for a mid-morning visit on weekdays to experience a quieter atmosphere. This will allow for a more enriching exploration of the exhibits.
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Eulenspiegel-Museum, keep the following pra
 
 - **Seasonal Considerations**: Be mindful of seasonal weather conditions when planning your visit. Mölln experiences a temperate climate, so dress accordingly to ensure comfort during your exploration.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to consult the official website for information on wheelchair access and other accommodations.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to consult the official website for information on wheelchair access and other accommodations.
 
 ## Frequently Asked Questions
 
@@ -96,7 +96,7 @@ When preparing for your visit to the Eulenspiegel-Museum, keep the following pra
 Plan to spend approximately 1.5 to 2 hours at the Eulenspiegel-Museum to fully appreciate the exhibits and engage with the displayed narratives.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check the museum's guidelines upon arrival or on their official website.
+Photography policies may vary. It's best to check the museum's guidelines upon arrival or on their official website.
 
 ### Are there guided tours?
 Check the museum's official website for information on guided tour availability, as they may offer scheduled tours or special events.

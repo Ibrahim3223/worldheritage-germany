@@ -42,9 +42,9 @@ Culturally, Neuburg Abbey has served as a center for education and spiritual gui
 
 The architecture of Neuburg Abbey reflects the traditional designs associated with Benedictine monasteries. The structure is characterized by its robust stone walls, intricate designs, and a harmonious layout that emphasizes both functionality and beauty. Visitors will appreciate the detailed craftsmanship evident in various elements of the abbey, including the cloisters, chapel, and brewing facilities.
 
-One of the notable features of Neuburg Abbey is its impressive brewing hall, where the monks historically crafted their beers. This area is a testament to the abbey’s long-standing brewing tradition and showcases the tools and methods used in the brewing process. The brewing hall may also host exhibitions or demonstrations, providing visitors with insights into the art of monastic brewing.
+One of the notable features of Neuburg Abbey is its impressive brewing hall, where the monks historically crafted their beers. This area is a testament to the abbey's long-standing brewing tradition and showcases the tools and methods used in the brewing process. The brewing hall may also host exhibitions or demonstrations, providing visitors with insights into the art of monastic brewing.
 
-The abbey’s serene gardens and surrounding landscapes offer a peaceful retreat for those looking to reflect or simply enjoy nature. The thoughtful design of the grounds emphasizes tranquility, making it an ideal spot for contemplation or leisure.
+The abbey's serene gardens and surrounding landscapes offer a peaceful retreat for those looking to reflect or simply enjoy nature. The thoughtful design of the grounds emphasizes tranquility, making it an ideal spot for contemplation or leisure.
 
 ## Visiting Information
 

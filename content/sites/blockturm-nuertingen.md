@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Blockturm Nürtingen, an iconic structure in the heart of Nürtingen, Germany, invites visitors to explore its historical significance and architectural charm. This tower, with its striking presence, has stood the test of time, representing a pivotal part of the town's heritage. Set against the backdrop of this picturesque region, Blockturm serves as a reminder of Nürtingen’s rich history and cultural evolution. Visitors to this site can anticipate a unique blend of history, exploration, and an appreciation for architectural craftsmanship.
+Blockturm Nürtingen, an iconic structure in the heart of Nürtingen, Germany, invites visitors to explore its historical significance and architectural charm. This tower, with its striking presence, has stood the test of time, representing a pivotal part of the town's heritage. Set against the backdrop of this picturesque region, Blockturm serves as a reminder of Nürtingen's rich history and cultural evolution. Visitors to this site can anticipate a unique blend of history, exploration, and an appreciation for architectural craftsmanship.
 
 The tower's prominence in the town makes it a noteworthy landmark that captures the attention of both locals and tourists alike. As you approach Blockturm, the robust structure evokes curiosity about its past and the stories it holds. Those who venture to this site will appreciate its role in shaping the local landscape and its importance to the community.
 
@@ -52,7 +52,7 @@ Visiting Blockturm Nürtingen is an enriching experience that allows guests to e
 
 Expect to spend a few hours exploring Blockturm and its surroundings. The atmosphere is conducive to leisurely exploration, allowing ample time to absorb the sights and take in the historical context. The best times to visit are during the spring and autumn months when the weather is mild, enhancing the overall experience.
 
-When planning your visit, it’s essential to prepare for varying weather conditions. Comfortable footwear is recommended, as the terrain may involve some walking. Visitors should also consider bringing a camera to capture the tower's architectural details and the picturesque landscape that surrounds it.
+When planning your visit, it's essential to prepare for varying weather conditions. Comfortable footwear is recommended, as the terrain may involve some walking. Visitors should also consider bringing a camera to capture the tower's architectural details and the picturesque landscape that surrounds it.
 
 ## Nearby Attractions
 

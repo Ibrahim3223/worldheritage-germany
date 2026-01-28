@@ -80,7 +80,7 @@ Seasonal considerations are important to keep in mind. If visiting in cooler mon
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Most visitors find that a few hours is sufficient to explore Heidelsburg. This allows time to appreciate the site’s historical significance and take photos.
+Most visitors find that a few hours is sufficient to explore Heidelsburg. This allows time to appreciate the site's historical significance and take photos.
 
 ### Is photography allowed?
 Photography is typically permitted, allowing you to capture the beauty and details of the castle and its surroundings.

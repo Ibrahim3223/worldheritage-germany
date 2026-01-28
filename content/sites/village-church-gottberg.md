@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Located in the charming region of Märkisch Linden, the Village Church Gottberg stands as a serene embodiment of the area's spiritual and architectural heritage. This church, set within the picturesque landscapes of Brandenburg state, Germany, offers visitors a unique glimpse into the local culture and history. Whether you are a history enthusiast, an architecture lover, or simply seeking a peaceful retreat, the Village Church Gottberg promises a reflective experience that enriches one’s understanding of the region's spiritual traditions.
+Located in the charming region of Märkisch Linden, the Village Church Gottberg stands as a serene embodiment of the area's spiritual and architectural heritage. This church, set within the picturesque landscapes of Brandenburg state, Germany, offers visitors a unique glimpse into the local culture and history. Whether you are a history enthusiast, an architecture lover, or simply seeking a peaceful retreat, the Village Church Gottberg promises a reflective experience that enriches one's understanding of the region's spiritual traditions.
 
 The significance of the Village Church Gottberg extends beyond its physical structure; it symbolizes the communal values and enduring faith of the local population. Its location amidst the tranquil environment enhances its appeal, making it an inviting destination for both worshippers and tourists alike. As you explore this site, expect to uncover layers of history that speak to the resilience and unity of the community throughout the ages.
 

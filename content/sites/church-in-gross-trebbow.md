@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during weekdays, as weekends may attract more v
 
 ## Practical Information
 
-When visiting the Church in Groß Trebbow, it’s advisable to bring a few essentials. A camera is a must for capturing the church's architecture and the beauty of the surrounding area. Comfortable walking shoes will enhance your experience, particularly if you plan to explore the nearby trails or local towns.
+When visiting the Church in Groß Trebbow, it's advisable to bring a few essentials. A camera is a must for capturing the church's architecture and the beauty of the surrounding area. Comfortable walking shoes will enhance your experience, particularly if you plan to explore the nearby trails or local towns.
 
 Seasonal considerations are important as well; the church can be visited year-round, but the rural landscape changes dramatically with the seasons. Spring and summer offer lush greenery, while autumn brings vibrant foliage, and winter may cloak the area in a serene blanket of snow.
 
@@ -97,7 +97,7 @@ Check the official website for information regarding any available guided tours 
 Weekdays are often less crowded, providing a more tranquil experience. However, visiting during special services or events can offer unique insights into the church's community role.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s recommended to check the official website for specific information regarding wheelchair access.
+Accessibility details may vary, so it's recommended to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticketing options and availability.

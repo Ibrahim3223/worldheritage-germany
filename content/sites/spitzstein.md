@@ -78,7 +78,7 @@ When visiting Spitzstein, it's essential to prepare for the varying conditions t
 
 In terms of seasonal considerations, spring and summer are ideal for hiking due to milder weather and clearer trails. However, if you're interested in winter sports, the mountain can also be enjoyed during the colder months. Be sure to check local forecasts and trail conditions before setting out.
 
-Don't forget to bring along essentials such as water, snacks, sunscreen, and a first-aid kit. This preparation will enhance your experience and ensure you’re ready for the adventure ahead.
+Don't forget to bring along essentials such as water, snacks, sunscreen, and a first-aid kit. This preparation will enhance your experience and ensure you're ready for the adventure ahead.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Due to the mountain's natural terrain, accessibility may be limited. It is advis
 Check the official website for current information regarding any fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s best to plan accordingly and bring your own refreshments.
+Facilities may be limited; it's best to plan accordingly and bring your own refreshments.
 
 ### What should I wear?
 Dress in layers appropriate for changing weather conditions, and wear sturdy hiking boots for comfort and support.

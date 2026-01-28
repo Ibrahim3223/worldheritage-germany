@@ -68,7 +68,7 @@ If you're interested in personal reflection or prayer, visiting during quieter h
 
 ## Practical Information
 
-When visiting Zwinglikirche, it’s wise to wear comfortable shoes, as you may wish to explore the surrounding area on foot. Always check the weather beforehand and dress appropriately, as Berlin can have varying temperatures and conditions throughout the year. 
+When visiting Zwinglikirche, it's wise to wear comfortable shoes, as you may wish to explore the surrounding area on foot. Always check the weather beforehand and dress appropriately, as Berlin can have varying temperatures and conditions throughout the year. 
 
 Bringing a small bag with essentials such as water and snacks can enhance your visit, particularly if you plan to enjoy nearby parks or cultural sites afterward. 
 
@@ -78,7 +78,7 @@ Bringing a small bag with essentials such as water and snacks can enhance your v
 A visit to Zwinglikirche typically takes about an hour, allowing time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s respectful to check for any specific restrictions or guidelines upon entry.
+Photography is generally permitted inside the church, but it's respectful to check for any specific restrictions or guidelines upon entry.
 
 ### Are there guided tours?
 Guided tours may be available at certain times; check the official website for details on scheduling and availability.

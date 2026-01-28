@@ -64,7 +64,7 @@ While visiting the motorway bridge Dreilinden, consider exploring these nearby a
    
 3. **Nikolassee**: A picturesque lake located not far from Kleinmachnow, ideal for a peaceful outing or a picnic by the water.
    
-4. **The Berlin Wall Trail**: Explore sections of the historic Berlin Wall, which provide insights into the city’s divided past and the broader implications for East-West relations.
+4. **The Berlin Wall Trail**: Explore sections of the historic Berlin Wall, which provide insights into the city's divided past and the broader implications for East-West relations.
    
 5. **Dahlem Museums**: A collection of museums in Berlin that focus on ethnology and various aspects of art, providing a cultural counterpoint to the industrial heritage of the bridge.
 

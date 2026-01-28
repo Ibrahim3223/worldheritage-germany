@@ -78,7 +78,7 @@ To avoid crowds, planning a visit on a weekday is generally more effective. If y
 
 ## Practical Information
 
-When visiting the Evangelische Universitätskirche, it’s advisable to bring a light jacket or sweater, as church interiors can sometimes be cooler. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area. 
+When visiting the Evangelische Universitätskirche, it's advisable to bring a light jacket or sweater, as church interiors can sometimes be cooler. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area. 
 
 Seasonal considerations should also be kept in mind; spring and early autumn are particularly pleasant times to visit Münster, with mild weather conducive to walking and exploring. 
 

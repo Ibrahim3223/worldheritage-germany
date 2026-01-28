@@ -54,7 +54,7 @@ While Gelsenkirchen-Altstadt is a destination in its own right, several nearby a
 
 1. **Zoologischer Garten Gelsenkirchen**: This well-maintained zoo offers a chance to explore a diverse range of animal species in an engaging environment, perfect for families and wildlife enthusiasts.
 
-2. **Schalke 04 Stadium (Veltins-Arena)**: Home to the famous football club FC Schalke 04, the stadium is an iconic structure in Gelsenkirchen. Guided tours provide insight into the club’s history and the stadium's features.
+2. **Schalke 04 Stadium (Veltins-Arena)**: Home to the famous football club FC Schalke 04, the stadium is an iconic structure in Gelsenkirchen. Guided tours provide insight into the club's history and the stadium's features.
 
 3. **Nordsternpark**: A former coal mine turned recreational park, this green space offers walking paths, gardens, and a chance to learn about the region's industrial heritage.
 
@@ -81,13 +81,13 @@ A visit of around three to four hours is recommended to fully explore Gelsenkirc
 Photography is generally allowed in public spaces, but it's advisable to be respectful of privacy in residential areas and to check for any specific restrictions in certain locations.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may be available to enhance your understanding of the area’s history and culture.
+Check the official website for information on guided tours, which may be available to enhance your understanding of the area's history and culture.
 
 ### What's the best time to visit?
 The best time to visit can vary, but local events and festivals often provide an enriched experience. Spring and early fall may offer pleasant weather for outdoor exploration.
 
 ### Is it wheelchair accessible?
-Gelsenkirchen-Altstadt has made efforts to improve accessibility, but conditions may vary. It’s best to check specific locations for wheelchair access.
+Gelsenkirchen-Altstadt has made efforts to improve accessibility, but conditions may vary. It's best to check specific locations for wheelchair access.
 
 ### Can I buy tickets online?
 For any specific attractions or events, check the official website for information on ticket availability and purchasing options.

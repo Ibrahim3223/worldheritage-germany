@@ -42,7 +42,7 @@ Upon entering, visitors may notice the remnants of defensive features, such as a
 
 Inside, the layout often includes living quarters, storage rooms, and communal spaces, all contributing to a self-sufficient environment. While specific interior features may vary, the overall design can evoke a sense of how life was organized within the castle walls centuries ago. The stonework, though weathered, still conveys the skill of the artisans who crafted this fortress.
 
-Burg Hohlenstein’s architecture invites exploration, encouraging visitors to appreciate the ingenuity and resilience of its builders. Each stone tells a story, making the castle a captivating subject for those interested in historical architecture.
+Burg Hohlenstein's architecture invites exploration, encouraging visitors to appreciate the ingenuity and resilience of its builders. Each stone tells a story, making the castle a captivating subject for those interested in historical architecture.
 
 ## Visiting Information
 

@@ -52,7 +52,7 @@ In addition to the plant displays, Hohenheim Gardens is enhanced by various arch
 
 Visiting Hohenheim Gardens is an enriching experience, and there are several practical aspects to consider before your trip. The gardens are well-connected by public transport, making them easily accessible from various points in Stuttgart. For those driving, parking options may be available nearby, but it is advisable to check the official website for current information regarding parking facilities.
 
-When planning your visit, it’s essential to check the official website for the most up-to-date information on hours and admission prices. While the garden is generally open to the public, special events or seasonal changes may affect accessibility.
+When planning your visit, it's essential to check the official website for the most up-to-date information on hours and admission prices. While the garden is generally open to the public, special events or seasonal changes may affect accessibility.
 
 Expect to spend a couple of hours exploring the diverse plant collections and enjoying the serene environment. The best times to visit are typically during spring and summer when the gardens are in full bloom, showcasing a vibrant display of colors and fragrances. Early mornings or late afternoons may also be ideal for avoiding larger crowds and experiencing a more tranquil atmosphere.
 
@@ -103,13 +103,13 @@ A visit to Hohenheim Gardens typically takes around 2-3 hours, allowing ample ti
 Yes, photography is permitted in Hohenheim Gardens. Visitors are encouraged to capture the beauty of the garden and its diverse plant life.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours. These may provide deeper insights into the garden’s significance and its various plant species.
+Check the official website for information regarding guided tours. These may provide deeper insights into the garden's significance and its various plant species.
 
 ### What's the best time to visit?
 The best times to visit are generally during spring and summer when the gardens are in bloom. Early mornings or late afternoons are ideal for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-While specific accessibility features may vary, many areas of Hohenheim Gardens are designed to be wheelchair friendly. It’s advisable to check the official website for detailed accessibility information.
+While specific accessibility features may vary, many areas of Hohenheim Gardens are designed to be wheelchair friendly. It's advisable to check the official website for detailed accessibility information.
 
 ### Can I buy tickets online?
 Details about ticket purchasing can be found on the official website. This may help you avoid queues and ensure a smooth entry.

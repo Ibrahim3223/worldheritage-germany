@@ -3,7 +3,7 @@ title: "Schiller's garden house"
 site_name: "Schiller's garden house"
 date: 2026-01-26
 draft: false
-description: "Schiller's Garden House, located in the historic city of Jena, Germany, serves as a poignant reminder of the life and work of one of the nation’s most..."
+description: "Schiller's Garden House, located in the historic city of Jena, Germany, serves as a poignant reminder of the life and work of one of the nation's most..."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Museum"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schiller's Garden House, located in the historic city of Jena, Germany, serves as a poignant reminder of the life and work of one of the nation’s most celebrated poets, Friedrich Schiller. This museum is not merely an architectural site; it embodies the spirit of German literature and philosophy during a time of profound cultural transformation. The garden house offers visitors a glimpse into the personal life of Schiller, where he crafted some of his most significant works amidst the serene setting of his garden.
+Schiller's Garden House, located in the historic city of Jena, Germany, serves as a poignant reminder of the life and work of one of the nation's most celebrated poets, Friedrich Schiller. This museum is not merely an architectural site; it embodies the spirit of German literature and philosophy during a time of profound cultural transformation. The garden house offers visitors a glimpse into the personal life of Schiller, where he crafted some of his most significant works amidst the serene setting of his garden.
 
 The city of Jena, nestled in the picturesque Thuringian Forest, is known for its academic heritage and vibrant cultural scene. It has been home to various prominent figures throughout history, and Schiller's influence remains palpable. This garden house is a vital piece of the cultural mosaic of Jena, attracting literature enthusiasts and history buffs alike.
 
@@ -48,7 +48,7 @@ The architecture of Schiller's Garden House reflects the simplicity and function
 
 The interior of the museum showcases a variety of rooms that offer a glimpse into Schiller's daily life and work. Visitors can expect to find original furnishings, manuscripts, and personal items that belonged to the poet, creating an atmosphere that feels both personal and historically significant. 
 
-Notably, the garden itself is a key feature of the site. It is meticulously maintained and mirrors the aesthetic sensibilities of Schiller's time. The garden serves not only as a backdrop to the house but also as a living testament to the natural beauty that inspired Schiller’s writing.
+Notably, the garden itself is a key feature of the site. It is meticulously maintained and mirrors the aesthetic sensibilities of Schiller's time. The garden serves not only as a backdrop to the house but also as a living testament to the natural beauty that inspired Schiller's writing.
 
 The combination of the house and the garden creates a serene environment that encourages reflection, making it an ideal setting for those seeking to understand the life and works of Friedrich Schiller.
 
@@ -60,7 +60,7 @@ When planning your visit, it is advisable to check the official website for curr
 
 Visitors should allocate at least a couple of hours to fully explore the house and its garden, taking time to appreciate the exhibits and the tranquil environment. The best times to visit are generally during weekdays when crowds are lighter, allowing for a more contemplative experience.
 
-In addition to the museum itself, the surrounding area offers a wealth of opportunities to explore Jena’s rich cultural landscape, making it possible to combine a visit to the garden house with other local attractions.
+In addition to the museum itself, the surrounding area offers a wealth of opportunities to explore Jena's rich cultural landscape, making it possible to combine a visit to the garden house with other local attractions.
 
 ## Nearby Attractions
 

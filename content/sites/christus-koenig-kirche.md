@@ -54,7 +54,7 @@ As you explore the interiors of the Christus-König-Kirche, take note of any art
 
 ## Visiting Information
 
-Visiting Christus-König-Kirche offers a chance to engage with its architectural beauty and serene environment. For those planning a trip, it’s advisable to check the official website for current information regarding hours of operation and any potential entry fees.
+Visiting Christus-König-Kirche offers a chance to engage with its architectural beauty and serene environment. For those planning a trip, it's advisable to check the official website for current information regarding hours of operation and any potential entry fees.
 
 Brackenheim is accessible via various modes of transport, including public transit and personal vehicles, making it easy for visitors to reach the church. Once you arrive, you can expect a peaceful atmosphere, conducive to reflection or quiet observation. The church is typically open to visitors, allowing for exploration of its interior and exterior spaces.
 
@@ -72,7 +72,7 @@ Brackenheim and its surroundings offer visitors a variety of attractions to expl
 
 2. **Heilbronn**: Located nearby, this city offers additional cultural experiences, including museums, parks, and historical sites, perfect for a day trip.
 
-3. **Klingenberg Castle**: Just a short distance away, this historic castle provides a glimpse into the region’s medieval past, complete with picturesque views of the surrounding landscape.
+3. **Klingenberg Castle**: Just a short distance away, this historic castle provides a glimpse into the region's medieval past, complete with picturesque views of the surrounding landscape.
 
 4. **Wine Routes**: The Heilbronn district is renowned for its vineyards. Consider taking a wine tour to experience the local wine culture and taste some of the region's famous varietals.
 

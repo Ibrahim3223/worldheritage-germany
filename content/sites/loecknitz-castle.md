@@ -75,7 +75,7 @@ To avoid larger crowds, plan your visit on weekdays, especially during the off-p
 
 ## Practical Information
 
-When preparing for your visit to Löcknitz Castle, it’s advisable to wear comfortable clothing and sturdy shoes, especially if you plan to explore the surrounding areas. Seasonal considerations may affect your experience; therefore, checking the weather forecast prior to your trip can ensure you're adequately prepared.
+When preparing for your visit to Löcknitz Castle, it's advisable to wear comfortable clothing and sturdy shoes, especially if you plan to explore the surrounding areas. Seasonal considerations may affect your experience; therefore, checking the weather forecast prior to your trip can ensure you're adequately prepared.
 
 Bringing a camera is highly recommended to capture the beauty of the castle and its surroundings. A small backpack with snacks and water can enhance your visit, allowing you to enjoy a leisurely day without needing to leave the site for refreshments.
 

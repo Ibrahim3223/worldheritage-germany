@@ -30,7 +30,7 @@ The Johanniskirche in Malchin, Germany, is a remarkable church building that ser
 
 Situated in the heart of Malchin, this church is easily accessible to both locals and tourists. The building stands as a symbol of the town's resilience and continuity through centuries of change. As you approach the Johanniskirche, you will find it integrated into the fabric of daily life in Malchin, where residents gather for worship, community events, and cultural activities. 
 
-For those seeking a deeper understanding of the region’s history and culture, a visit to Johanniskirche offers a profound connection to the past and an opportunity to appreciate the enduring role of churches in shaping communities.
+For those seeking a deeper understanding of the region's history and culture, a visit to Johanniskirche offers a profound connection to the past and an opportunity to appreciate the enduring role of churches in shaping communities.
 
 ## History and Significance
 

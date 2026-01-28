@@ -36,7 +36,7 @@ The Museum zur Geschichte von Christen und Juden is rooted in the cultural and h
 
 The establishment of this museum underscores a growing recognition of the need to address the historical narratives that have often been overlooked or misrepresented. By focusing on the shared history of Christians and Jews, the museum highlights the complexities of their interactions, which have ranged from cooperation and coexistence to conflict and discord. This dual perspective is particularly important in today's global landscape, where issues of religious tolerance and understanding are more relevant than ever.
 
-The museum's significance extends beyond its exhibits; it serves as a platform for education and dialogue, aiming to foster mutual respect and understanding among different faith communities. It provides an opportunity for visitors to engage with difficult questions about identity, heritage, and the challenges of living together in a diverse society. The museum’s commitment to promoting awareness of these issues makes it a vital part of Laupheim's cultural landscape.
+The museum's significance extends beyond its exhibits; it serves as a platform for education and dialogue, aiming to foster mutual respect and understanding among different faith communities. It provides an opportunity for visitors to engage with difficult questions about identity, heritage, and the challenges of living together in a diverse society. The museum's commitment to promoting awareness of these issues makes it a vital part of Laupheim's cultural landscape.
 
 ## Architecture and Features
 

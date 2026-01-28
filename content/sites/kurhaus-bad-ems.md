@@ -82,11 +82,11 @@ If possible, check the event schedule in advance to plan visits around performan
 
 ## Practical Information
 
-When visiting Kurhaus Bad Ems, it’s advisable to wear comfortable clothing suitable for attending a theatre performance. Consider bringing light layers, as the indoor temperature can vary.
+When visiting Kurhaus Bad Ems, it's advisable to wear comfortable clothing suitable for attending a theatre performance. Consider bringing light layers, as the indoor temperature can vary.
 
 Seasonal considerations may affect your visit, so checking the weather in advance is recommended. During the summer, you might enjoy the outdoor areas around the Kurhaus, while winter events may offer a cozy indoor experience.
 
-It’s also helpful to prepare for your visit by bringing essentials such as a water bottle and any personal items you may need during your time at the venue.
+It's also helpful to prepare for your visit by bringing essentials such as a water bottle and any personal items you may need during your time at the venue.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ It’s also helpful to prepare for your visit by bringing essentials such as a w
 A visit typically takes two to three hours, depending on whether you attend an event and explore the surrounding area.
 
 ### Is photography allowed?
-Photography policies may vary by event, so it’s best to check specific guidelines before taking photos during performances.
+Photography policies may vary by event, so it's best to check specific guidelines before taking photos during performances.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, as availability can vary based on the event schedule.

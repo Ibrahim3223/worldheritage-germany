@@ -88,7 +88,7 @@ Seasonal considerations may play a role in your experience; spring and summer ty
 A visit to the Peace Church of Saint Sava typically takes about one hour, allowing time to explore the architecture and reflect on its significance.
 
 ### Is photography allowed?
-Photography is generally allowed within the church. However, it’s respectful to be mindful of any specific restrictions during services or events.
+Photography is generally allowed within the church. However, it's respectful to be mindful of any specific restrictions during services or events.
 
 ### Are there guided tours?
 Information regarding guided tours may vary. Check the official website for any available tour options or special events.

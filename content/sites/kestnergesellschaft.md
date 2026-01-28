@@ -28,7 +28,7 @@ image_srcset:
 
 The Kestnergesellschaft, an esteemed art museum located in the heart of Hannover, Germany, serves as a vital cultural hub for both locals and visitors alike. Established as an art organization, it plays a pivotal role in the promotion and exhibition of contemporary art, showcasing a diverse range of artistic expressions that reflect the evolving landscape of modern creativity. Situated in the vibrant Mitte district, the museum not only enhances the cultural fabric of Hannover but also positions itself as a key player in the broader European art scene. With its thought-provoking exhibitions and engaging programming, Kestnergesellschaft invites art enthusiasts, casual visitors, and scholars to explore the myriad ways in which art interacts with society.
 
-As one navigates through Hannover, the Kestnergesellschaft stands out not just for its artistic offerings but also for its commitment to fostering dialogue between artists and the public. The museum’s location adds to its accessibility, making it a convenient stop for those exploring the city’s rich array of attractions. Whether you are an art aficionado or simply curious about contemporary expressions, a visit to this museum promises an enriching experience that broadens one’s understanding of the art world today.
+As one navigates through Hannover, the Kestnergesellschaft stands out not just for its artistic offerings but also for its commitment to fostering dialogue between artists and the public. The museum's location adds to its accessibility, making it a convenient stop for those exploring the city's rich array of attractions. Whether you are an art aficionado or simply curious about contemporary expressions, a visit to this museum promises an enriching experience that broadens one's understanding of the art world today.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The design of the Kestnergesellschaft reflects a modern aesthetic that complemen
 
 Inside, the Kestnergesellschaft is designed to showcase a wide range of artworks, from installations to traditional pieces, ensuring that each exhibition is presented in a manner that enhances its impact. The museum also often incorporates innovative display techniques, engaging visitors and encouraging interaction with the artworks. The interiors are adaptable, allowing for flexibility in exhibition design, which is essential for accommodating diverse artistic formats.
 
-While the Kestnergesellschaft’s architectural features are not detailed, its commitment to contemporary art is evident in the thoughtfully curated spaces that invite exploration and reflection. This focus on creating an engaging experience for visitors positions the museum as a significant destination within Hannover's cultural landscape.
+While the Kestnergesellschaft's architectural features are not detailed, its commitment to contemporary art is evident in the thoughtfully curated spaces that invite exploration and reflection. This focus on creating an engaging experience for visitors positions the museum as a significant destination within Hannover's cultural landscape.
 
 ## Visiting Information
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Kestnergesellschaft, here are some practica
 A visit typically lasts between one to two hours, allowing ample time to explore the exhibitions and engage with the art.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. Check the museum’s guidelines upon arrival to see if photography is permitted.
+Photography policies may vary by exhibition. Check the museum's guidelines upon arrival to see if photography is permitted.
 
 ### Are there guided tours?
 The Kestnergesellschaft may offer guided tours. Check the official website for availability and scheduling.

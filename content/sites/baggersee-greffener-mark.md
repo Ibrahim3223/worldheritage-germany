@@ -84,13 +84,13 @@ For those planning a visit to Baggersee Greffener Mark, here are some insider ti
 
 ## Practical Information
 
-When visiting Baggersee Greffener Mark, it’s helpful to come prepared. Here are a few practical considerations:
+When visiting Baggersee Greffener Mark, it's helpful to come prepared. Here are a few practical considerations:
 
 - **What to Bring**: Comfortable walking shoes, weather-appropriate clothing, water, snacks, and perhaps a picnic blanket if you plan to spend an extended time enjoying the outdoors.
 
 - **Seasonal Considerations**: Each season offers a different experience at the reserve. Spring blossoms and summer greenery contrast with the vibrant colors of autumn foliage and the stark beauty of winter landscapes.
 
-- **Safety and Etiquette**: Remember to respect the natural environment by staying on designated paths and not disturbing wildlife. It’s also important to follow any posted guidelines or regulations to help preserve the reserve for future visitors.
+- **Safety and Etiquette**: Remember to respect the natural environment by staying on designated paths and not disturbing wildlife. It's also important to follow any posted guidelines or regulations to help preserve the reserve for future visitors.
 
 ## Frequently Asked Questions
 
@@ -113,7 +113,7 @@ Accessibility details can vary; check the official website for current informati
 Check the official website for information regarding entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to check the official website for current information on amenities.
+Facilities may be limited, so it's advisable to check the official website for current information on amenities.
 
 ### What should I wear?
 Wear comfortable clothing and footwear suitable for walking and outdoor exploration; layers are recommended for changing weather conditions. 

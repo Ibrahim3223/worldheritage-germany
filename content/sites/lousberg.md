@@ -60,7 +60,7 @@ Expect to spend a few hours exploring Lousberg, depending on your interests and 
 
 2. **Elisenbrunnen**: Located in the city center, this neoclassical fountain is famous for its thermal springs and is a popular spot for both locals and tourists.
 
-3. **Couven Museum**: This museum showcases the everyday life of the 18th and 19th centuries in Aachen, displaying period furniture and artifacts that reflect the city’s rich cultural history.
+3. **Couven Museum**: This museum showcases the everyday life of the 18th and 19th centuries in Aachen, displaying period furniture and artifacts that reflect the city's rich cultural history.
 
 4. **Ludwig Forum für Internationale Kunst**: A contemporary art museum that hosts a variety of exhibitions and events, offering a modern perspective on the cultural landscape.
 
@@ -89,7 +89,7 @@ Yes, photography is permitted throughout Lousberg. The scenic views and natural 
 ### Are there guided tours?
 Currently, there are no specific guided tours of Lousberg. However, visitors can explore the trails at their own pace and enjoy the surrounding areas.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 The best times to visit Lousberg are during spring and autumn. Mild weather and beautiful foliage make these seasons particularly enjoyable for outdoor activities.
 
 ### Is it wheelchair accessible?

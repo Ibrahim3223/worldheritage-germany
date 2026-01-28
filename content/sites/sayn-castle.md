@@ -28,7 +28,7 @@ image_srcset:
 
 Sayn Castle, located in the picturesque town of Bendorf, Germany, offers a captivating glimpse into the past through its imposing ruins. Perched atop a hill, the castle commands an impressive presence in the landscape, serving as a historical landmark that draws visitors intrigued by its storied legacy. Surrounded by lush greenery and scenic vistas, Sayn Castle stands as a reminder of the region's medieval heritage and offers an opportunity to explore the remnants of a time long gone.
 
-The castle’s strategic location has made it a vital point of interest over the centuries. Its ruins present a unique opportunity to delve into the architectural styles and defense mechanisms of medieval fortifications. As visitors wander through the remnants, they can appreciate the historical significance of Sayn Castle, which has witnessed countless events that shaped the surrounding area. 
+The castle's strategic location has made it a vital point of interest over the centuries. Its ruins present a unique opportunity to delve into the architectural styles and defense mechanisms of medieval fortifications. As visitors wander through the remnants, they can appreciate the historical significance of Sayn Castle, which has witnessed countless events that shaped the surrounding area. 
 
 For those looking to immerse themselves in a blend of history, architecture, and natural beauty, Sayn Castle is a must-visit destination that promises a memorable experience.
 
@@ -101,7 +101,7 @@ Due to the nature of the ruins and the surrounding terrain, Sayn Castle may not 
 Check the official website for current information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the castle site. It’s advisable to check for nearby amenities in Bendorf.
+Facilities may be limited at the castle site. It's advisable to check for nearby amenities in Bendorf.
 
 ### What should I wear?
 Comfortable walking shoes are recommended, along with weather-appropriate clothing based on the season of your visit.

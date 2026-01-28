@@ -82,7 +82,7 @@ To enhance your experience at Benthullener Moor, consider these insider tips:
 
 When preparing for your visit to Benthullener Moor, keep the following practical tips in mind:
 
-- **What to Bring**: Comfortable walking shoes are essential for exploring the trails. It’s also wise to bring water, snacks, and a camera to capture the stunning landscapes. Binoculars can enhance your wildlife observation experience.
+- **What to Bring**: Comfortable walking shoes are essential for exploring the trails. It's also wise to bring water, snacks, and a camera to capture the stunning landscapes. Binoculars can enhance your wildlife observation experience.
 
 - **Seasonal Considerations**: Weather conditions can change rapidly in this region, so dressing in layers is advisable. Waterproof clothing and sturdy footwear are recommended, especially if you plan to explore during wetter months.
 
@@ -107,7 +107,7 @@ Check the official website for specific accessibility information regarding the 
 There is no admission fee for Benthullener Moor, but check the official website for any updates or specific event-related information.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the reserve. It’s advisable to bring your own refreshments and check for nearby amenities before your visit.
+Facilities may be limited within the reserve. It's advisable to bring your own refreshments and check for nearby amenities before your visit.
 
 ### What should I wear?
 Dress accordingly for outdoor activities, wearing comfortable clothing and sturdy shoes. Consider weather conditions, and dress in layers to adapt to changing temperatures.

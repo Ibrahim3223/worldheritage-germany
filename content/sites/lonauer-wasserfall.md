@@ -66,7 +66,7 @@ The area surrounding the Lonauer Wasserfall is rich with additional attractions 
 
 1. **Herzberg Castle**: A short distance from the waterfall, this historical castle offers a glimpse into the region's past and provides beautiful views of the surrounding landscape.
 
-2. **The Harz National Park**: This expansive park is home to diverse ecosystems, hiking trails, and stunning vistas. It’s an ideal location for outdoor activities such as hiking, bird watching, and nature photography.
+2. **The Harz National Park**: This expansive park is home to diverse ecosystems, hiking trails, and stunning vistas. It's an ideal location for outdoor activities such as hiking, bird watching, and nature photography.
 
 3. **The Town of Herzberg am Harz**: Explore the charming streets of this town, where you can find local shops, cafes, and restaurants that reflect the culture and hospitality of the region.
 

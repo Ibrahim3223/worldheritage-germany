@@ -70,7 +70,7 @@ While visiting the Nagelfabrik Röcker, consider exploring some nearby attractio
 
 4. **Local Wine Estates**: The Löchgau region is known for its wineries, and a visit to one of the local estates can provide an enjoyable experience of the area's viticulture.
 
-5. **Museum of Local History**: Explore the broader historical context of the region through exhibits detailing the area’s past, including agriculture, industry, and culture.
+5. **Museum of Local History**: Explore the broader historical context of the region through exhibits detailing the area's past, including agriculture, industry, and culture.
 
 ## Insider Tips
 
@@ -101,7 +101,7 @@ A typical visit may take around one to two hours, allowing you to explore the fa
 Photography policies may vary, so check for any restrictions regarding photography inside the factory.
 
 ### Are there guided tours?
-If available, guided tours can provide an in-depth understanding of the factory’s history and significance.
+If available, guided tours can provide an in-depth understanding of the factory's history and significance.
 
 ### What's the best time to visit?
 Weekdays, especially in the morning, are often the best times to avoid larger crowds.

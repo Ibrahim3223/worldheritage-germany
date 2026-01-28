@@ -28,7 +28,7 @@ image_srcset:
 
 Ölpersee, a picturesque lake located in the Brunswick region of Germany, is an inviting escape for nature lovers and outdoor enthusiasts alike. This serene body of water, surrounded by lush greenery, serves as a tranquil retreat from the hustle and bustle of urban life. With its striking natural landscapes and diverse wildlife, Ölpersee offers visitors a unique opportunity to immerse themselves in the beauty of the outdoors. Whether you are looking to engage in recreational activities, enjoy a peaceful day by the water, or explore the local flora and fauna, Ölpersee is a destination that promises a memorable experience.
 
-The lake’s significance extends beyond its aesthetic appeal. As part of the Braunschweig area, Ölpersee is a reflection of the region's commitment to preserving natural habitats and promoting outdoor leisure. The area is well-suited for a variety of activities, making it a popular spot for both locals and tourists. From leisurely strolls along the shore to invigorating hikes in the surrounding areas, Ölpersee offers a refreshing escape into nature.
+The lake's significance extends beyond its aesthetic appeal. As part of the Braunschweig area, Ölpersee is a reflection of the region's commitment to preserving natural habitats and promoting outdoor leisure. The area is well-suited for a variety of activities, making it a popular spot for both locals and tourists. From leisurely strolls along the shore to invigorating hikes in the surrounding areas, Ölpersee offers a refreshing escape into nature.
 
 ## History and Significance
 

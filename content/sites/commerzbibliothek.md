@@ -54,7 +54,7 @@ Visiting the Commerzbibliothek offers a unique opportunity to engage with an ext
 
 - **Time Needed**: Depending on your research needs, a visit could range from an hour for a quick look at the collection to several hours for in-depth study. Planning your time based on your interests will enhance your experience.
 
-- **Best Times to Visit**: Weekdays are typically quieter, making them ideal for focused research. However, check the library’s schedule for any special events or peak times.
+- **Best Times to Visit**: Weekdays are typically quieter, making them ideal for focused research. However, check the library's schedule for any special events or peak times.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ While visiting the Commerzbibliothek, consider exploring other notable sites in 
 
 ## Insider Tips
 
-- **Photography Tips**: While photography may be allowed in certain areas, it’s always best to check library policies. If permitted, consider capturing the library's atmosphere during quieter hours for a more serene backdrop.
+- **Photography Tips**: While photography may be allowed in certain areas, it's always best to check library policies. If permitted, consider capturing the library's atmosphere during quieter hours for a more serene backdrop.
 
 - **Crowd Avoidance**: To avoid crowds, plan your visit during the early morning or late afternoon on weekdays when fewer people are likely to be present.
 
@@ -80,17 +80,17 @@ While visiting the Commerzbibliothek, consider exploring other notable sites in 
 
 When planning your visit to the Commerzbibliothek, keep the following practical tips in mind:
 
-- **What to Bring**: A notebook and pen can be useful for jotting down notes or ideas during your research. If you plan to use digital devices, don’t forget your chargers.
+- **What to Bring**: A notebook and pen can be useful for jotting down notes or ideas during your research. If you plan to use digital devices, don't forget your chargers.
 
 - **Seasonal Considerations**: Hamburg experiences varying weather throughout the year. Check the forecast prior to your visit and dress accordingly to ensure a comfortable experience, especially if you plan to explore the city afterwards.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-The length of your visit can vary based on your interests. Plan for at least one hour if you’re just browsing, or several hours if you intend to conduct in-depth research.
+The length of your visit can vary based on your interests. Plan for at least one hour if you're just browsing, or several hours if you intend to conduct in-depth research.
 
 ### Is photography allowed?
-Photography policies can vary by library. It’s advisable to check with staff or signage upon entry to confirm if photography is permitted.
+Photography policies can vary by library. It's advisable to check with staff or signage upon entry to confirm if photography is permitted.
 
 ### Are there guided tours?
 Information about guided tours may vary. Check the official website for current offerings and scheduling.

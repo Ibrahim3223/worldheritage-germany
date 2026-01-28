@@ -72,11 +72,11 @@ While in Büdelsdorf, there are several nearby attractions that complement a vis
 
 ## Insider Tips
 
-For photography enthusiasts, Carlshütte presents an array of interesting angles and perspectives. Early morning or late afternoon light can create striking contrasts against the factory's architecture, enhancing your photos. Additionally, consider capturing details of the machinery and structural elements that tell the story of the factory’s industrial past.
+For photography enthusiasts, Carlshütte presents an array of interesting angles and perspectives. Early morning or late afternoon light can create striking contrasts against the factory's architecture, enhancing your photos. Additionally, consider capturing details of the machinery and structural elements that tell the story of the factory's industrial past.
 
 To avoid crowds, plan your visit on a weekday rather than the weekend. This not only allows for a more peaceful experience but also provides opportunities for thoughtful reflection on the historical significance of the site.
 
-If you engage with any onsite information displays or guides, be sure to ask questions. The insights shared can deepen your understanding and appreciation of Carlshütte’s role in the industrial narrative of the region.
+If you engage with any onsite information displays or guides, be sure to ask questions. The insights shared can deepen your understanding and appreciation of Carlshütte's role in the industrial narrative of the region.
 
 ## Practical Information
 

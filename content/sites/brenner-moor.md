@@ -57,8 +57,8 @@ Transportation options to Brenner Moor vary, but it is advisable to arrive by ca
 1. **Bad Oldesloe**: A charming town known for its historical architecture and local shops, located just a short drive from Brenner Moor.
 2. **Lübeck**: Famous for its well-preserved medieval old town, a UNESCO World Heritage Site, offering a wealth of history and culture.
 3. **Stormarn Nature Reserve**: Another nearby conservation area, which features diverse landscapes and hiking opportunities.
-4. **Holstentor**: A historic city gate in Lübeck, symbolizing the town’s Hanseatic heritage and architectural grandeur.
-5. **Kiel Canal**: One of the world’s busiest artificial waterways, providing opportunities for boating and cycling along its scenic banks.
+4. **Holstentor**: A historic city gate in Lübeck, symbolizing the town's Hanseatic heritage and architectural grandeur.
+5. **Kiel Canal**: One of the world's busiest artificial waterways, providing opportunities for boating and cycling along its scenic banks.
 
 ## Insider Tips
 

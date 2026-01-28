@@ -38,7 +38,7 @@ The importance of Brennburg extends far beyond its physical remains. As an archa
 
 The site has likely witnessed various phases of habitation, each contributing layers to the historical narrative. Archaeologists and researchers have been drawn to Brennburg due to its potential for uncovering valuable information about historical human activity in the region. Such discoveries can illuminate the interactions between different groups, trade practices, and the evolution of societal norms over time.
 
-Brennburg also plays a role in the broader context of Germany’s archaeological landscape. It contributes to a deeper understanding of the migration patterns, settlement strategies, and cultural exchanges that characterize the region's history. As studies continue, Brennburg remains a key site for scholars interested in the complexities of human development in Europe.
+Brennburg also plays a role in the broader context of Germany's archaeological landscape. It contributes to a deeper understanding of the migration patterns, settlement strategies, and cultural exchanges that characterize the region's history. As studies continue, Brennburg remains a key site for scholars interested in the complexities of human development in Europe.
 
 ## Architecture and Features
 
@@ -91,7 +91,7 @@ By being prepared, you can ensure a pleasant and enjoyable visit to Brennburg, a
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to Brennburg typically requires a few hours, allowing time for exploration and engagement with the site’s features.
+A visit to Brennburg typically requires a few hours, allowing time for exploration and engagement with the site's features.
 
 ### Is photography allowed?
 Photography policies may vary, so it is recommended to check for any posted guidelines regarding photography at the site.

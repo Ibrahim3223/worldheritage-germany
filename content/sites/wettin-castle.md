@@ -34,7 +34,7 @@ Visitors can expect to encounter a blend of history and stunning architecture, w
 
 Wettin Castle has a storied past that reflects the shifting tides of power in medieval Germany. Originally constructed as a stronghold, the castle has played a crucial role in the political and military landscape of the region. Throughout its history, Wettin Castle has witnessed numerous changes in ownership and function, evolving from a fortress into a residence for nobility.
 
-The castle is named after the Wettin dynasty, a significant noble family in German history. This dynasty was influential in shaping the region and had connections to various royal lineages throughout Europe. The castle’s strategic location allowed its occupants to oversee the surrounding lands, making it a vital part of the local defense network.
+The castle is named after the Wettin dynasty, a significant noble family in German history. This dynasty was influential in shaping the region and had connections to various royal lineages throughout Europe. The castle's strategic location allowed its occupants to oversee the surrounding lands, making it a vital part of the local defense network.
 
 As the years progressed, the castle underwent various renovations and expansions, each reflecting the architectural trends of the time. While specific dates and details of these transformations are not available, the enduring presence of Wettin Castle symbolizes the resilience and adaptability of its historical legacy. Today, it stands not merely as a relic but as a place for cultural gatherings and events that celebrate the heritage of the region.
 

@@ -40,7 +40,7 @@ The architecture of the Werthmann-Heyne-Stiftung complements its artistic missio
 
 Inside the foundation, guests can anticipate a thoughtfully curated exhibition space that showcases the sculptures in a way that highlights their unique qualities. The arrangement of artworks may vary, providing dynamic experiences during each visit. The lighting, space allocation, and overall ambiance are designed to create an inviting environment for contemplation and discussion.
 
-Notable features of the Werthmann-Heyne-Stiftung likely include areas dedicated to both permanent and temporary exhibitions, allowing for a diverse array of artistic expressions to be presented. Additionally, educational resources and programming may be available to further enhance the visitor’s understanding of the abstract-informal art movement.
+Notable features of the Werthmann-Heyne-Stiftung likely include areas dedicated to both permanent and temporary exhibitions, allowing for a diverse array of artistic expressions to be presented. Additionally, educational resources and programming may be available to further enhance the visitor's understanding of the abstract-informal art movement.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ Upon arrival, guests can expect a welcoming atmosphere, with staff available to 
 
 While visiting the Werthmann-Heyne-Stiftung, consider exploring other cultural sites in Düsseldorf that complement your artistic journey:
 
-1. **Kunstsammlung Nordrhein-Westfalen**: This renowned museum houses a significant collection of modern and contemporary art, including works by prominent artists. It’s an excellent next stop for those interested in further exploring abstract and modern art.
+1. **Kunstsammlung Nordrhein-Westfalen**: This renowned museum houses a significant collection of modern and contemporary art, including works by prominent artists. It's an excellent next stop for those interested in further exploring abstract and modern art.
 
 2. **Museum Kunstpalast**: Featuring a diverse collection that spans several centuries, this museum offers a comprehensive view of European art, including temporary exhibitions that may align with your interests.
 
@@ -70,7 +70,7 @@ While visiting the Werthmann-Heyne-Stiftung, consider exploring other cultural s
 
 To enhance your visit to the Werthmann-Heyne-Stiftung, consider these insider tips:
 
-- **Photography**: While photography may be allowed, it’s advisable to check the rules upon entry, as some exhibitions may have restrictions. If permitted, capturing the sculptures can help you remember the experience.
+- **Photography**: While photography may be allowed, it's advisable to check the rules upon entry, as some exhibitions may have restrictions. If permitted, capturing the sculptures can help you remember the experience.
 
 - **Crowd Avoidance**: If you prefer a quieter visit, consider arriving during the weekdays or early in the day. This can provide a more personal experience and allow for uninterrupted contemplation of the artworks.
 
@@ -88,7 +88,7 @@ When planning your visit to the Werthmann-Heyne-Stiftung, keep the following pra
 A visit typically requires 1-2 hours to fully appreciate the collection and engage with the artworks.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff upon arrival.
+Photography policies may vary, so it's best to check with staff upon arrival.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website; check for details regarding availability and scheduling.
@@ -103,7 +103,7 @@ Accessibility options should be confirmed with the foundation directly or throug
 Check the official website for information regarding online ticket purchases and booking options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site; however, details about cafes or dining options should be verified through the foundation’s official resources.
+Facilities such as restrooms may be available on-site; however, details about cafes or dining options should be verified through the foundation's official resources.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding areas after your visit.

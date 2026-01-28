@@ -22,7 +22,7 @@ images:
 
 The Steindeckerbrücke, located at Dorfstraße 117 (gegenüber) in the tranquil region of Königshain, Germany, is a captivating bridge that serves as both a functional structure and a significant cultural landmark. This bridge is not just a means of crossing; it symbolizes the connection between communities and showcases the architectural ingenuity of its time. Its strategic location presents a vital link for local transport while also offering an opportunity to appreciate the historical context of the area. Visitors are drawn to the bridge for its unique character and the serene environment surrounding it, making it a noteworthy stop on any exploration of the region.
 
-Königshain, known for its rich cultural heritage and picturesque landscapes, provides a welcoming backdrop for the Steindeckerbrücke. The area invites travelers to immerse themselves in its local traditions and natural beauty. As you traverse this bridge, you are not merely crossing a waterway; you are engaging with the essence of the community’s past and present. The promise of discovery awaits both the casual visitor and the heritage enthusiast, making this bridge a significant point of interest.
+Königshain, known for its rich cultural heritage and picturesque landscapes, provides a welcoming backdrop for the Steindeckerbrücke. The area invites travelers to immerse themselves in its local traditions and natural beauty. As you traverse this bridge, you are not merely crossing a waterway; you are engaging with the essence of the community's past and present. The promise of discovery awaits both the casual visitor and the heritage enthusiast, making this bridge a significant point of interest.
 
 ## History and Significance
 
@@ -93,7 +93,7 @@ Accessibility information is not specified. It is advisable to check ahead to en
 Details regarding online ticket purchases are not available. Check the official website for current information.
 
 ### Are there restrooms and cafes?
-Information about restrooms and cafes is not specified. It’s best to check local amenities in the area.
+Information about restrooms and cafes is not specified. It's best to check local amenities in the area.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to walk or explore nearby attractions.

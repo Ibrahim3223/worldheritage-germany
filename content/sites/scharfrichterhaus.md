@@ -38,7 +38,7 @@ The history of Scharfrichterhaus is intertwined with the broader narrative of Pa
 
 Scharfrichterhaus plays a crucial role in promoting local talent and hosting various artistic endeavors. By screening a diverse range of films, from mainstream blockbusters to independent cinema, it caters to a wide audience, fostering an appreciation for different genres and styles. This commitment to cultural diversity is essential in a world where cinematic storytelling continues to evolve.
 
-In addition to film screenings, the venue often serves as a gathering place for community events, discussions, and workshops. This makes it a vital component of Passau’s cultural ecosystem, encouraging dialogue and interaction among residents and visitors alike. The arts center aspect of Scharfrichterhaus enhances its significance, allowing for a broader range of artistic expression beyond film.
+In addition to film screenings, the venue often serves as a gathering place for community events, discussions, and workshops. This makes it a vital component of Passau's cultural ecosystem, encouraging dialogue and interaction among residents and visitors alike. The arts center aspect of Scharfrichterhaus enhances its significance, allowing for a broader range of artistic expression beyond film.
 
 As Passau continues to grow and attract visitors, Scharfrichterhaus remains a beacon of cultural engagement, showcasing the importance of the arts in fostering community connections. 
 
@@ -96,7 +96,7 @@ To enhance your visit to Scharfrichterhaus, consider the following insider tips:
 
 When planning your visit to Scharfrichterhaus, consider the following practical information:
 
-- **What to Bring**: It’s advisable to bring a light jacket or sweater, as indoor venues can sometimes be cooler than expected. Additionally, having a portable charger for your devices can be useful if you plan to take photos or use your phone for navigation.
+- **What to Bring**: It's advisable to bring a light jacket or sweater, as indoor venues can sometimes be cooler than expected. Additionally, having a portable charger for your devices can be useful if you plan to take photos or use your phone for navigation.
 
 - **Seasonal Considerations**: Passau experiences four distinct seasons, so check the local weather forecast before your trip. Spring and summer typically offer mild temperatures, while winter can be quite cold. Dressing in layers is recommended to adapt to changing weather conditions.
 
@@ -119,7 +119,7 @@ Guided tours may not be available specifically for Scharfrichterhaus, but the ve
 Evenings and weekends are popular for screenings, while mid-week visits may offer a quieter experience. Check the schedule for specific events.
 
 ### Is it wheelchair accessible?
-Accessibility information is typically available on the official website. It’s advisable to check for specific accommodations.
+Accessibility information is typically available on the official website. It's advisable to check for specific accommodations.
 
 ### Can I buy tickets online?
 Yes, tickets can often be purchased online, but it's best to visit the official website for the most current information.

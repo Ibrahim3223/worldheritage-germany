@@ -46,7 +46,7 @@ The best times to visit are typically during the weekdays when crowds are smalle
 
 While visiting the Württembergische Uhrenfabrik Bürk, consider exploring these nearby attractions:
 
-1. **Pforzheim Jewelry Museum**: Celebrate the city’s rich tradition in jewelry making and design, showcasing exquisite pieces from various eras.
+1. **Pforzheim Jewelry Museum**: Celebrate the city's rich tradition in jewelry making and design, showcasing exquisite pieces from various eras.
    
 2. **Black Forest**: Just a short drive away, this expansive natural region offers scenic landscapes and outdoor activities, ideal for hiking and nature walks.
 
@@ -72,7 +72,7 @@ Check the official website for any specific items that may be restricted within 
 A visit typically lasts between two to three hours, depending on your interest in the exhibits and any guided tours.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff upon arrival.
+Photography policies may vary, so it's best to check with staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may be offered, providing a more in-depth understanding of the factory's history and operations.

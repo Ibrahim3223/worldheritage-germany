@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Wittenbergplatz, located in the vibrant Tempelhof-Schöneberg district of Berlin, serves as a vital hub for both locals and visitors seeking a connection to the city’s urban culture. This square is not only a central transport nexus but also a gathering place that embodies the spirit of contemporary Berlin. With its accessibility and proximity to various attractions, Wittenbergplatz is an ideal starting point for those looking to explore the city. The square’s significance extends beyond its practicality; it is a location where social life unfolds against a backdrop of urban architecture and public art, making it an essential stop on any Berlin itinerary.
+Wittenbergplatz, located in the vibrant Tempelhof-Schöneberg district of Berlin, serves as a vital hub for both locals and visitors seeking a connection to the city's urban culture. This square is not only a central transport nexus but also a gathering place that embodies the spirit of contemporary Berlin. With its accessibility and proximity to various attractions, Wittenbergplatz is an ideal starting point for those looking to explore the city. The square's significance extends beyond its practicality; it is a location where social life unfolds against a backdrop of urban architecture and public art, making it an essential stop on any Berlin itinerary.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The cultural importance of Wittenbergplatz is underscored by its role in the com
 
 ## Architecture and Features
 
-Wittenbergplatz is characterized by its open layout and urban design, integrating elements of modern architecture with traditional influences. The square features wide pathways and seating areas, inviting passersby to pause and engage with the surroundings. Notably, the square is home to the iconic Kaufhaus des Westens (KaDeWe), one of Europe’s largest department stores, which adds a distinct commercial element to the area. The building’s architecture complements the square, featuring grand facades and a vibrant atmosphere that attracts shoppers and tourists alike.
+Wittenbergplatz is characterized by its open layout and urban design, integrating elements of modern architecture with traditional influences. The square features wide pathways and seating areas, inviting passersby to pause and engage with the surroundings. Notably, the square is home to the iconic Kaufhaus des Westens (KaDeWe), one of Europe's largest department stores, which adds a distinct commercial element to the area. The building's architecture complements the square, featuring grand facades and a vibrant atmosphere that attracts shoppers and tourists alike.
 
 In addition to commercial structures, Wittenbergplatz is surrounded by various public artworks and installations that reflect the artistic spirit of Berlin. The square's design emphasizes accessibility, with clear sightlines and pedestrian-friendly spaces that encourage exploration. Visitors can expect a blend of historical and contemporary elements that create a unique urban experience.
 
@@ -50,7 +50,7 @@ When planning a visit, it is essential to check the official website for current
 
 1. **Kaufhaus des Westens (KaDeWe)**: As one of the largest department stores in Europe, KaDeWe offers a diverse shopping experience, with a gourmet food hall that is a must-visit for food enthusiasts.
 
-2. **Berlin’s Zoo**: Located a short distance from Wittenbergplatz, the Berlin Zoo is one of the oldest zoos in the world, home to a wide variety of animal species and beautiful landscaped areas.
+2. **Berlin's Zoo**: Located a short distance from Wittenbergplatz, the Berlin Zoo is one of the oldest zoos in the world, home to a wide variety of animal species and beautiful landscaped areas.
 
 3. **Potsdamer Platz**: This nearby square is known for its modern architecture and entertainment options, featuring cinemas, shops, and restaurants.
 

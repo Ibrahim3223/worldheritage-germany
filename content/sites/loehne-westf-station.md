@@ -28,7 +28,7 @@ image_srcset:
 
 Löhne (Westf) station serves as a critical junction in the heart of North Rhine-Westphalia, Germany. Located in the town of Löhne, this railway station is not just a hub for daily commuters but also an essential stop for travelers exploring the region. The station contributes to the connectivity of the area, linking various localities and providing access to larger cities. With its strategic location, Löhne station enhances the mobility of residents and visitors alike, making it a significant component of the regional transportation network.
 
-As you approach the station, you’ll find it serves not just as a transit point but also as a gateway to the cultural and historical richness of Löhne. The surrounding area invites exploration, from charming local shops to historical sites. Whether you are a daily commuter or a curious traveler, Löhne (Westf) station is poised to facilitate your journey through this vibrant region of Germany.
+As you approach the station, you'll find it serves not just as a transit point but also as a gateway to the cultural and historical richness of Löhne. The surrounding area invites exploration, from charming local shops to historical sites. Whether you are a daily commuter or a curious traveler, Löhne (Westf) station is poised to facilitate your journey through this vibrant region of Germany.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ Best times to visit the station can vary, but early mornings and late afternoons
 
 While Löhne (Westf) station itself is a hub of activity, the surrounding area offers a variety of attractions that are easily accessible. Here are a few notable places to consider exploring:
 
-1. **Löhne Town Center**: The town center is a short walk from the station, featuring shops, cafes, and local eateries. It’s an ideal spot to experience the local culture and cuisine.
+1. **Löhne Town Center**: The town center is a short walk from the station, featuring shops, cafes, and local eateries. It's an ideal spot to experience the local culture and cuisine.
 
 2. **Museum Löhne**: This local museum showcases the history and culture of Löhne and its surroundings. It provides insight into the region's heritage and is a great place for history enthusiasts.
 

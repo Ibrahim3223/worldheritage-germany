@@ -77,7 +77,7 @@ As you prepare for your visit to the Steindeckerbrücke, consider bringing essen
 
 During warmer months, lightweight clothing is appropriate, while cooler seasons may require layers. If you plan to walk or hike in the area, sturdy footwear will enhance your comfort. 
 
-It’s also wise to have a plan for meals or snacks, as local dining options can vary in availability based on the season. 
+It's also wise to have a plan for meals or snacks, as local dining options can vary in availability based on the season. 
 
 ## Frequently Asked Questions
 

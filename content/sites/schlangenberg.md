@@ -32,7 +32,7 @@ As you explore this nature reserve, you will find opportunities for education an
 
 ## History and Significance
 
-While specific historical details about Schlangenberg might not be extensively documented, the cultural significance of such nature reserves in Germany is profound. The preservation of natural habitats reflects a growing awareness of environmental conservation and the need to protect biodiversity. This commitment to safeguarding nature is rooted in Germany’s broader environmental policies, which have evolved significantly in the past century.
+While specific historical details about Schlangenberg might not be extensively documented, the cultural significance of such nature reserves in Germany is profound. The preservation of natural habitats reflects a growing awareness of environmental conservation and the need to protect biodiversity. This commitment to safeguarding nature is rooted in Germany's broader environmental policies, which have evolved significantly in the past century.
 
 The establishment of Schlangenberg as a Naturschutzgebiet (nature reserve) underscores the importance of conserving natural ecosystems. Nature reserves play a crucial role in environmental education, fostering a connection between people and nature. They serve as critical areas for research, allowing scientists and students to study the interactions within ecosystems and the impacts of human activity on natural environments. 
 

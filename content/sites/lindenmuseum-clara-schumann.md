@@ -40,7 +40,7 @@ In addition to personal artifacts, the museum hosts exhibitions that contextuali
 
 The Lindenmuseum Clara Schumann is housed in a building that resonates with the charm of traditional Saxon architecture. While detailed architectural specifics are not provided, the museum's design is likely reflective of the regional style, characterized by its warm, inviting atmosphere. The layout is designed to facilitate a seamless flow through various exhibits, allowing visitors to engage deeply with the material on display.
 
-Inside, the museum features several rooms dedicated to different aspects of Clara Schumann's life and career. Each space is designed to enhance the visitor experience, with exhibits organized to tell a coherent story. Visitors can expect to find an assortment of artifacts including sheet music, personal letters, and photographs that illuminate Clara’s life and her impact on the world of music.
+Inside, the museum features several rooms dedicated to different aspects of Clara Schumann's life and career. Each space is designed to enhance the visitor experience, with exhibits organized to tell a coherent story. Visitors can expect to find an assortment of artifacts including sheet music, personal letters, and photographs that illuminate Clara's life and her impact on the world of music.
 
 The museum's thoughtful curation encourages exploration and reflection, making it a fitting tribute to a woman who not only excelled as a musician but also shaped the musical landscape of her time. The serene environment surrounding the museum complements its purpose, providing a peaceful setting for contemplation and appreciation of Clara's legacy.
 

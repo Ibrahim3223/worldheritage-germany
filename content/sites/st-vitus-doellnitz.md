@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Vitus in Döllnitz is more than just a church; it is an emblematic structure that speaks to the spiritual and cultural life of its community in Schkopau, Germany. This historic church building, known for its architectural charm and serene ambiance, serves as a focal point for local residents and visitors alike. Situated in the heart of the charming region of Saxony-Anhalt, St. Vitus not only offers a glimpse into local ecclesiastical architecture but also reflects the community’s enduring religious traditions. The church invites exploration, offering visitors a unique opportunity to connect with the area's rich heritage.
+St. Vitus in Döllnitz is more than just a church; it is an emblematic structure that speaks to the spiritual and cultural life of its community in Schkopau, Germany. This historic church building, known for its architectural charm and serene ambiance, serves as a focal point for local residents and visitors alike. Situated in the heart of the charming region of Saxony-Anhalt, St. Vitus not only offers a glimpse into local ecclesiastical architecture but also reflects the community's enduring religious traditions. The church invites exploration, offering visitors a unique opportunity to connect with the area's rich heritage.
 
 As you plan your visit, you will discover that St. Vitus is not just a destination for worship but a landmark that encapsulates the essence of Döllnitz. Its historical significance, along with its architectural features, makes it an essential stop for anyone interested in the cultural narratives of Germany. Whether you are intrigued by religious architecture, seeking a peaceful space for contemplation, or simply looking to appreciate a piece of local history, St. Vitus promises a rewarding experience.
 
@@ -68,7 +68,7 @@ While visiting St. Vitus, you may wish to explore some nearby attractions that c
 
 4. **Local Parks and Nature Reserves** – The surrounding area may feature parks and trails that offer opportunities for outdoor activities, providing a refreshing complement to your cultural visit.
 
-5. **Museum of Local History** – If available, this museum may provide insight into the cultural and historical context of the region, deepening your understanding of the area’s heritage.
+5. **Museum of Local History** – If available, this museum may provide insight into the cultural and historical context of the region, deepening your understanding of the area's heritage.
 
 ## Insider Tips
 
@@ -107,7 +107,7 @@ Accessibility details are not specified; check the official website or contact l
 Information about online ticketing is not provided. It is best to check the official website for the latest details on admission.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and cafes are not mentioned. Check the local area or the church’s official resources for visitor facilities.
+Details regarding restrooms and cafes are not mentioned. Check the local area or the church's official resources for visitor facilities.
 
 ### What should I wear?
 Dress comfortably and respectfully, considering the nature of the site as a place of worship.

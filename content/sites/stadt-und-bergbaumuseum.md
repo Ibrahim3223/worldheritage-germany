@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Freiberg, Germany, the Stadt- und Bergbaumuseum serves as a significant cultural institution dedicated to the exploration of mining history and the city’s industrial heritage. Housed in a historic building, this museum offers an engaging glimpse into the region's past, illuminating the pivotal role that mining played in shaping Freiberg's economy and community. Visitors can expect to discover a diverse collection of artifacts, exhibits, and multimedia presentations that narrate the story of both the city's mining activities and the broader implications of mineral extraction.
+In the heart of Freiberg, Germany, the Stadt- und Bergbaumuseum serves as a significant cultural institution dedicated to the exploration of mining history and the city's industrial heritage. Housed in a historic building, this museum offers an engaging glimpse into the region's past, illuminating the pivotal role that mining played in shaping Freiberg's economy and community. Visitors can expect to discover a diverse collection of artifacts, exhibits, and multimedia presentations that narrate the story of both the city's mining activities and the broader implications of mineral extraction.
 
-As the museum is situated in Freiberg, a town with roots tracing back to the Middle Ages, it provides an essential context for understanding the evolution of mining practices over the centuries. The museum's exhibits delve into various aspects of mining, including techniques, tools, and the lives of miners, thereby offering a comprehensive picture of this vital industry. Whether you are a history buff, a mining enthusiast, or simply curious about Freiberg’s past, the Stadt- und Bergbaumuseum promises an enriching experience that connects visitors with the region's heritage.
+As the museum is situated in Freiberg, a town with roots tracing back to the Middle Ages, it provides an essential context for understanding the evolution of mining practices over the centuries. The museum's exhibits delve into various aspects of mining, including techniques, tools, and the lives of miners, thereby offering a comprehensive picture of this vital industry. Whether you are a history buff, a mining enthusiast, or simply curious about Freiberg's past, the Stadt- und Bergbaumuseum promises an enriching experience that connects visitors with the region's heritage.
 
 ## History and Significance
 
@@ -105,7 +105,7 @@ The museum aims to accommodate all visitors. Check the official website for deta
 Ticket purchasing options may vary. Check the official website for the most current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available. For food and beverages, check if there’s a café within the museum or nearby options in the town.
+Facilities such as restrooms are typically available. For food and beverages, check if there's a café within the museum or nearby options in the town.
 
 ### What should I wear?
 Dress comfortably and in layers, especially if your visit coincides with cooler weather. Comfortable shoes are recommended for exploring the exhibits. 

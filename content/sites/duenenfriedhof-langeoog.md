@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Dünenfriedhof Langeoog, a serene cemetery located on the island of Langeoog in Germany, stands as a poignant reminder of the lives that have shaped this small community. Situated along the North Sea coast, Langeoog is known for its unspoiled landscapes, sandy beaches, and a charming atmosphere that attracts visitors year-round. The cemetery serves not only as a final resting place but also as a cultural landmark, reflecting the island’s history and the deep connections of its inhabitants to the land and sea.
+Dünenfriedhof Langeoog, a serene cemetery located on the island of Langeoog in Germany, stands as a poignant reminder of the lives that have shaped this small community. Situated along the North Sea coast, Langeoog is known for its unspoiled landscapes, sandy beaches, and a charming atmosphere that attracts visitors year-round. The cemetery serves not only as a final resting place but also as a cultural landmark, reflecting the island's history and the deep connections of its inhabitants to the land and sea.
 
 As you stroll through the tranquil pathways of Dünenfriedhof, you will encounter a landscape that tells the stories of those who have come before. The unique setting of the cemetery, surrounded by natural dunes, enhances its peaceful ambiance, offering a reflective space for both locals and visitors. The site is significant for understanding the cultural heritage of Langeoog, making it an important stop for those interested in the island's history and community.
 
@@ -38,7 +38,7 @@ The history of Dünenfriedhof Langeoog is intertwined with the development of th
 
 The cemetery is a significant cultural space that provides insight into the traditions surrounding death and remembrance in this region of Germany. It is a place where local customs and values are honored, marking the lives of those who lived, worked, and loved on the island. Each headstone and memorial tells a story, often revealing the maritime connections of the deceased, as many inhabitants historically relied on the sea for their livelihood.
 
-The design and layout of the cemetery also reflect local values. The incorporation of natural elements, such as the surrounding dunes, signifies a harmonious relationship between the community and its environment. This interplay between nature and heritage enhances the cemetery’s significance, as it stands not only as a final resting place but also as a symbol of the enduring legacy of the island’s residents.
+The design and layout of the cemetery also reflect local values. The incorporation of natural elements, such as the surrounding dunes, signifies a harmonious relationship between the community and its environment. This interplay between nature and heritage enhances the cemetery's significance, as it stands not only as a final resting place but also as a symbol of the enduring legacy of the island's residents.
 
 ## Architecture and Features
 
@@ -80,7 +80,7 @@ While exploring, take time to engage with the local flora and fauna, as the natu
 
 When visiting Dünenfriedhof Langeoog, consider bringing a camera, water, and comfortable walking shoes, as the sandy paths can be uneven. Seasonal considerations are important; in the summer, light clothing and sun protection are advisable, while cooler months may require warmer layers.
 
-It’s also wise to have a small bag for any personal items you may wish to carry, as there are limited facilities in the cemetery. Check the official website for any seasonal events or activities that might coincide with your visit, enhancing your experience.
+It's also wise to have a small bag for any personal items you may wish to carry, as there are limited facilities in the cemetery. Check the official website for any seasonal events or activities that might coincide with your visit, enhancing your experience.
 
 ## Frequently Asked Questions
 

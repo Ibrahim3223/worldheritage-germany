@@ -34,7 +34,7 @@ Whether you are an avid art enthusiast or simply looking to spend a day immersed
 
 ## History and Significance
 
-The Bade~museum norderney/Galerie Hans Trimborn's history is intertwined with the art and cultural movements that have influenced the region. Established to celebrate local and international artists, the museum plays a crucial role in fostering an appreciation for the arts within the community. The museum’s exhibitions often reflect the themes of nature, identity, and the human experience, resonating with the island's unique environment.
+The Bade~museum norderney/Galerie Hans Trimborn's history is intertwined with the art and cultural movements that have influenced the region. Established to celebrate local and international artists, the museum plays a crucial role in fostering an appreciation for the arts within the community. The museum's exhibitions often reflect the themes of nature, identity, and the human experience, resonating with the island's unique environment.
 
 While specific dates and milestones in its history may not be available, the museum has become a cultural hub on Norderney, enhancing the island's reputation as a center for artistic exploration. By showcasing a diverse range of works, including paintings, sculptures, and mixed media, the museum provides a platform for both emerging and established artists. The commitment to promoting contemporary art within a historical context allows visitors to engage with the evolving narrative of art in the region.
 
@@ -70,7 +70,7 @@ After visiting the Bade~museum norderney/Galerie Hans Trimborn, several nearby a
 
 To make the most of your visit to the Bade~museum norderney/Galerie Hans Trimborn, consider bringing a camera, as photography can enhance your experience. However, be sure to respect any posted guidelines regarding photography within the exhibition spaces.
 
-To avoid crowds, visit during weekdays or early in the morning. This allows for a more intimate experience with the art and gives you the chance to appreciate the exhibits without the hustle and bustle of larger groups. Additionally, engaging with museum staff can provide deeper insights into the exhibitions, so don’t hesitate to ask questions.
+To avoid crowds, visit during weekdays or early in the morning. This allows for a more intimate experience with the art and gives you the chance to appreciate the exhibits without the hustle and bustle of larger groups. Additionally, engaging with museum staff can provide deeper insights into the exhibitions, so don't hesitate to ask questions.
 
 ## Practical Information
 

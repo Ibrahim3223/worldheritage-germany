@@ -50,7 +50,7 @@ Visitors can expect to find an atmosphere of tranquility within the chapel. The 
 
 Wegkapelle Hof is accessible for visitors wishing to explore this charming chapel. The location can be reached by various means of transport, including private vehicles and public transportation. For precise travel arrangements and directions, it is advisable to check local resources or navigation apps.
 
-Visitors should check the official website for current information regarding opening hours and any potential entrance fees. The chapel is typically open for visitation, allowing guests to appreciate its architecture and spiritual significance. It is recommended to allocate enough time for a leisurely visit, as this will enable visitors to fully absorb the atmosphere and engage with the site’s history.
+Visitors should check the official website for current information regarding opening hours and any potential entrance fees. The chapel is typically open for visitation, allowing guests to appreciate its architecture and spiritual significance. It is recommended to allocate enough time for a leisurely visit, as this will enable visitors to fully absorb the atmosphere and engage with the site's history.
 
 The best times to visit Wegkapelle Hof may vary, but early mornings or late afternoons can provide a quieter experience, allowing for personal reflection and exploration without the hustle and bustle of larger crowds. Seasonal considerations may also influence the experience; spring and summer often offer pleasant weather for outdoor exploration, while autumn may provide a picturesque backdrop with changing foliage.
 
@@ -86,7 +86,7 @@ Consider checking the weather forecast prior to your visit to ensure a pleasant 
 A visit to Wegkapelle Hof typically requires about 30 minutes to an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary. It’s advisable to check the chapel's guidelines regarding photography upon arrival.
+Photography policies can vary. It's advisable to check the chapel's guidelines regarding photography upon arrival.
 
 ### Are there guided tours?
 Current information on guided tours is not specified. For the most accurate details, check the official website before your visit.

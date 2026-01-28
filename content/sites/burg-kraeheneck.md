@@ -36,7 +36,7 @@ While information about specific dates is limited, Burg Kräheneck is believed t
 
 The castle's historical significance extends beyond its walls, reflecting the broader societal trends of the time. It represents the feudal system that dominated much of Europe, where lords ruled over their lands, and castles were central to their authority. Moreover, Burg Kräheneck likely witnessed various events that shaped the region's history, including conflicts, alliances, and the daily lives of those who inhabited it.
 
-As you delve into the castle’s past, you may find that it stands as an important reminder of the medieval era, offering insights into the lives of those who lived within its confines. Although the specifics may vary, the cultural importance of such a monument cannot be overstated, as it continues to be a source of local pride and historical interest.
+As you delve into the castle's past, you may find that it stands as an important reminder of the medieval era, offering insights into the lives of those who lived within its confines. Although the specifics may vary, the cultural importance of such a monument cannot be overstated, as it continues to be a source of local pride and historical interest.
 
 ## Architecture and Features
 

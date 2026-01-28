@@ -67,7 +67,7 @@ While in Waiblingen, there are several nearby attractions that provide further i
 1. **Waiblingen Castle**: This historic castle offers a glimpse into the local nobility's past and features beautiful gardens.
 2. **Rems-Murr-Kreis Museum**: A museum dedicated to the history and culture of the Rems-Murr region, showcasing local artifacts and exhibitions.
 3. **Historic Town Center**: The charming streets of Waiblingen's historic center reveal medieval architecture and quaint shops and cafes.
-4. **St. Peter’s Church**: An example of Gothic architecture, this church features stunning stained glass and is a key part of Waiblingen's religious heritage.
+4. **St. Peter's Church**: An example of Gothic architecture, this church features stunning stained glass and is a key part of Waiblingen's religious heritage.
 
 Exploring these attractions can enrich your understanding of the local history and culture, providing a well-rounded experience during your visit.
 
@@ -82,7 +82,7 @@ To make the most of your visit to the Nasir Mosque, consider these insider tips:
 
 Before heading to the Nasir Mosque, here are a few practical considerations:
 
-- **What to Bring**: Visitors should dress modestly, which is respectful in a place of worship. It’s also a good idea to carry a small bag for personal items and any necessary documentation.
+- **What to Bring**: Visitors should dress modestly, which is respectful in a place of worship. It's also a good idea to carry a small bag for personal items and any necessary documentation.
 - **Seasonal Considerations**: Weather can affect your visit, so check forecasts and dress accordingly. In colder months, ensure you have appropriate outerwear, as some areas may be less heated.
 
 ## Frequently Asked Questions
@@ -91,7 +91,7 @@ Before heading to the Nasir Mosque, here are a few practical considerations:
 A visit to the Nasir Mosque typically lasts about an hour, but you may want to spend longer if you engage in community events or discussions.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s advisable to ask for permission, especially during prayer times when worshippers are present.
+Photography is generally allowed, but it's advisable to ask for permission, especially during prayer times when worshippers are present.
 
 ### Are there guided tours?
 Currently, specific information on guided tours is not available. Check the official website for any updates regarding tours or group visits.
@@ -100,13 +100,13 @@ Currently, specific information on guided tours is not available. Check the offi
 Weekdays, particularly early mornings or late afternoons, are ideal for a quieter experience. Fridays are significant for communal prayers.
 
 ### Is it wheelchair accessible?
-Details on accessibility might not be specified. It’s best to check with the mosque directly or refer to the official website for specific information.
+Details on accessibility might not be specified. It's best to check with the mosque directly or refer to the official website for specific information.
 
 ### Can I buy tickets online?
 Information on ticketing may vary. Please check the official website for the most accurate and up-to-date information.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check upon arrival. Nearby cafes and restaurants in Waiblingen offer dining options.
+Facilities may vary, so it's advisable to check upon arrival. Nearby cafes and restaurants in Waiblingen offer dining options.
 
 ### What should I wear?
 Modest clothing is recommended when visiting the mosque. Visitors should ensure their attire is respectful of the religious setting.

@@ -28,13 +28,13 @@ image_srcset:
 
 The Gedenkstätte Museum in der "Runden Ecke" serves as a poignant reflection on Germany's turbulent past, particularly during the era of the Cold War. Located in Leipzig, Saxony, this museum is housed in a building that once served as the headquarters of the Stasi, the East German secret police. The museum not only provides insight into the operations of the Stasi but also offers a broader understanding of life in East Germany, making it a significant site for those interested in contemporary history and human rights. Visitors can expect to engage with a variety of exhibitions that delve into the complexities of surveillance, repression, and resistance, all while exploring the rich narrative of the city itself.
 
-Leipzig, known for its vibrant cultural scene and historical significance, sets the stage for this important heritage site. As one of the key cities in East Germany, it witnessed pivotal events leading to reunification. The museum’s location is strategic, allowing easy access for both locals and tourists, underscoring its role as a center for education and remembrance.
+Leipzig, known for its vibrant cultural scene and historical significance, sets the stage for this important heritage site. As one of the key cities in East Germany, it witnessed pivotal events leading to reunification. The museum's location is strategic, allowing easy access for both locals and tourists, underscoring its role as a center for education and remembrance.
 
 The Gedenkstätte Museum in der "Runden Ecke" promises to enlighten visitors about the past while fostering discussions on privacy, freedom, and the value of democratic principles today.
 
 ## History and Significance
 
-The Gedenkstätte Museum in der "Runden Ecke" holds a critical place in the narrative of East Germany, particularly concerning the Stasi's efforts to monitor and control the populace. Established in a location that once functioned as the Stasi’s regional headquarters, the museum stands as a symbol of the fight against oppression and the importance of transparency in governance. 
+The Gedenkstätte Museum in der "Runden Ecke" holds a critical place in the narrative of East Germany, particularly concerning the Stasi's efforts to monitor and control the populace. Established in a location that once functioned as the Stasi's regional headquarters, the museum stands as a symbol of the fight against oppression and the importance of transparency in governance. 
 
 The Stasi was notorious for its extensive surveillance tactics, employing a network of informants and employing various methods to suppress dissent. The museum showcases the impact of these actions on the lives of ordinary citizens, providing visitors with a detailed look at the mechanisms of state control. Through personal stories, artifacts, and documents, the exhibitions convey the emotional and psychological toll of living under such a regime.
 
@@ -60,7 +60,7 @@ Expect a thoughtful environment that encourages reflection. The museum is design
 
 ## Nearby Attractions
 
-1. **Leipzig Panometer** - This impressive panoramic artwork housed in a former gasometer offers a unique visual experience, showcasing various themes related to the city’s history and environment.
+1. **Leipzig Panometer** - This impressive panoramic artwork housed in a former gasometer offers a unique visual experience, showcasing various themes related to the city's history and environment.
 
 2. **St. Thomas Church** - Famous for its association with Johann Sebastian Bach, this church not only features stunning architecture but also hosts regular concerts and services.
 

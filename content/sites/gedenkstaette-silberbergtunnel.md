@@ -58,7 +58,7 @@ The best times to visit the Gedenkstätte are typically during spring and autumn
 
 Exploring the Gedenkstätte Silberbergtunnel opens up opportunities to discover other notable sites in the Bad Neuenahr-Ahrweiler region. Here are a few attractions that complement a visit to the memorial:
 
-1. **Ahrweiler Old Town** – Just a short distance from the memorial, this charming medieval town features well-preserved architecture, cobblestone streets, and inviting cafes. It’s perfect for a leisurely stroll after your visit.
+1. **Ahrweiler Old Town** – Just a short distance from the memorial, this charming medieval town features well-preserved architecture, cobblestone streets, and inviting cafes. It's perfect for a leisurely stroll after your visit.
 
 2. **Thermalbad Bad Neuenahr** – Located nearby, this spa offers thermal baths and wellness treatments, providing a relaxing way to unwind after a day of exploration.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Berlin, the Bärenquell-Brauerei stands as a prominent symbol of the city's brewing heritage. This historic brewery has become a significant landmark not only for beer enthusiasts but also for those interested in the industrial history of the region. The brewery's trademark quality is a reflection of traditional brewing methods that have been refined over decades. Established in a city known for its vibrant culture and rich history, Bärenquell-Brauerei offers visitors a unique glimpse into Berlin's past as well as its evolving craft beer scene. 
 
-As you explore this site, you will uncover the stories of craftsmanship and innovation that have shaped the brewery’s identity. Whether you are a casual visitor or a dedicated aficionado, Bärenquell-Brauerei promises an engaging experience that highlights the intersection of tradition and modernity within the realm of brewing.
+As you explore this site, you will uncover the stories of craftsmanship and innovation that have shaped the brewery's identity. Whether you are a casual visitor or a dedicated aficionado, Bärenquell-Brauerei promises an engaging experience that highlights the intersection of tradition and modernity within the realm of brewing.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ While in the vicinity of Bärenquell-Brauerei, consider exploring these nearby a
 
 1. **Tempelhofer Feld**: Once an airport, this expansive park invites visitors to enjoy outdoor activities in a unique setting.
 2. **Kreuzberg District**: Known for its diverse culture, dining options, and vibrant street art, this area is perfect for a leisurely stroll.
-3. **Markthalle Neun**: A historic market hall that features local vendors, this is a great spot to experience Berlin’s culinary scene.
+3. **Markthalle Neun**: A historic market hall that features local vendors, this is a great spot to experience Berlin's culinary scene.
 4. **East Side Gallery**: This open-air gallery showcases murals painted on the remnants of the Berlin Wall, celebrating freedom and artistic expression.
 5. **Landwehr Canal**: Ideal for a relaxing walk or bike ride, this picturesque canal is surrounded by lush greenery and cafes.
 

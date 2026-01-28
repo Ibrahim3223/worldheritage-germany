@@ -67,7 +67,7 @@ These sites can enrich your journey and provide further context to the historica
 
 For those planning a visit to Kapelle Alt Pansow, a few insider tips can enhance the experience:
 
-- **Photography Tips**: If photography is allowed, consider visiting during golden hour for softer lighting. Capture both the chapel’s exterior and interior details to showcase its charm.
+- **Photography Tips**: If photography is allowed, consider visiting during golden hour for softer lighting. Capture both the chapel's exterior and interior details to showcase its charm.
 - **Crowd Avoidance**: To enjoy a more peaceful experience, try to visit during weekdays or early in the morning, as weekends may attract more visitors.
 
 ## Practical Information

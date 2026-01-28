@@ -82,7 +82,7 @@ Check the official website for any seasonal events or special programs that migh
 A visit typically lasts a few hours, allowing time to explore the castle grounds and appreciate its historical context.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any specific guidelines that may be in place.
+Photography is generally permitted, but it's advisable to be respectful of any specific guidelines that may be in place.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the castle's history.

@@ -34,7 +34,7 @@ Whether you are a history enthusiast or simply seeking to learn more about the e
 
 ## History and Significance
 
-The Seelow Heights are historically significant due to their role in the final stages of World War II. The site was the backdrop for intense fighting during the Soviet offensive against the German Wehrmacht in April 1945. This battle was crucial as Soviet forces sought to penetrate the German defenses in their march toward Berlin. Gedenkstätte Seelower Höhen serves as a reminder of the human cost of war, and the museum’s exhibits reflect the cultural and historical narratives surrounding the conflict. 
+The Seelow Heights are historically significant due to their role in the final stages of World War II. The site was the backdrop for intense fighting during the Soviet offensive against the German Wehrmacht in April 1945. This battle was crucial as Soviet forces sought to penetrate the German defenses in their march toward Berlin. Gedenkstätte Seelower Höhen serves as a reminder of the human cost of war, and the museum's exhibits reflect the cultural and historical narratives surrounding the conflict. 
 
 Though specific dates may be absent from the records, the events that transpired here have left a lasting impact on both local and national memory. The museum not only honors those who fought but also educates visitors about the broader implications of the war, including the shifts in power and the consequences for civilian populations. It stands as a significant site for understanding the complexities of this period in history and the interplay between military strategy and human experience.
 
@@ -66,7 +66,7 @@ While Gedenkstätte Seelower Höhen is a significant site in its own right, ther
 
 3. **St. Mary's Church**: A historic church located in Seelow, known for its beautiful architecture and peaceful grounds.
 
-4. **Battlefield Memorials**: Various memorials in the vicinity commemorate the soldiers who fought in the Seelow Heights, providing further context to the area’s historical significance.
+4. **Battlefield Memorials**: Various memorials in the vicinity commemorate the soldiers who fought in the Seelow Heights, providing further context to the area's historical significance.
 
 5. **Local Parks**: Several parks in Seelow offer spaces for relaxation and reflection, perfect for unwinding after a day of exploration.
 

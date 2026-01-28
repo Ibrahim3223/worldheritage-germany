@@ -92,7 +92,7 @@ When preparing for your visit to Gutenkapelle, keep the following practical cons
 A visit to Gutenkapelle can range from 30 minutes to a couple of hours, depending on your interest in exploring the chapel and its surroundings.
 
 ### Is photography allowed?
-Photography is typically permitted outside the chapel, but it’s best to check for any specific restrictions inside.
+Photography is typically permitted outside the chapel, but it's best to check for any specific restrictions inside.
 
 ### Are there guided tours?
 Information about guided tours may vary, so check the official website for details on any available tours or special events.

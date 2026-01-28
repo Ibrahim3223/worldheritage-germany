@@ -44,7 +44,7 @@ The Gedenkstätte Lindenstraße 54/55 is characterized by its unassuming exterio
 
 Inside, the memorial features various exhibitions that provide context and depth to the narratives being presented. The layout is designed to facilitate reflection and contemplation, guiding visitors through a series of displays that highlight the experiences of those who were detained on the premises. The interior spaces are thoughtfully arranged to evoke a sense of solemnity, encouraging visitors to engage with the content in a meaningful way.
 
-Notable features of the memorial include personal testimonies, photographs, and artifacts that illustrate the impact of political repression on individuals and families. These elements work together to create a comprehensive understanding of the site’s role in historical events. The memorial may also host temporary exhibitions that explore related themes, further enriching the visitor experience.
+Notable features of the memorial include personal testimonies, photographs, and artifacts that illustrate the impact of political repression on individuals and families. These elements work together to create a comprehensive understanding of the site's role in historical events. The memorial may also host temporary exhibitions that explore related themes, further enriching the visitor experience.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting the Gedenkstätte Lindenstraße 54/55 can be a profound experience for 
 
 When planning your visit, consider allocating ample time to fully immerse yourself in the exhibitions and the narratives presented. A visit typically requires at least one to two hours, allowing for a thorough exploration of the site. The best times to visit are during weekdays when the memorial may be less crowded, providing a quieter atmosphere for reflection.
 
-Expect to engage with a range of multimedia displays, personal stories, and educational resources designed to enhance your understanding of the memorial’s significance. The environment encourages contemplation, so be prepared for a thoughtful journey.
+Expect to engage with a range of multimedia displays, personal stories, and educational resources designed to enhance your understanding of the memorial's significance. The environment encourages contemplation, so be prepared for a thoughtful journey.
 
 ## Nearby Attractions
 
@@ -94,10 +94,10 @@ Preparing for your visit to the Gedenkstätte Lindenstraße 54/55 will ensure a 
 A visit typically requires at least one to two hours to fully engage with the exhibitions and reflect on the narratives presented.
 
 ### Is photography allowed?
-While photography is generally permitted, be mindful of the memorial’s solemn atmosphere and adhere to any posted guidelines regarding photography.
+While photography is generally permitted, be mindful of the memorial's solemn atmosphere and adhere to any posted guidelines regarding photography.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may provide additional context and insight into the memorial’s significance.
+Check the official website for information on guided tours, which may provide additional context and insight into the memorial's significance.
 
 ### What's the best time to visit?
 To avoid crowds, consider visiting early in the morning during weekdays. This allows for a quieter atmosphere conducive to reflection.

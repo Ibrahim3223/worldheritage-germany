@@ -28,7 +28,7 @@ image_srcset:
 
 Industry Park Schöneweide is a distinctive museum located in Berlin, Germany, that offers insight into the area's industrial heritage. Set against the backdrop of a historically significant landscape, the museum serves as a central hub for understanding the evolution of industry in this vibrant city. With its roots embedded in the core of Berlin's industrial revolution, the park captures the essence of a bygone era while also embracing contemporary innovations. 
 
-What makes Industry Park Schöneweide noteworthy is not just its exhibitions, but its broader context within Berlin’s transformation from an industrial center to a modern metropolis. Visitors can expect an engaging display of artifacts, information, and experiences that shed light on the evolution of technology and craftsmanship in the region. 
+What makes Industry Park Schöneweide noteworthy is not just its exhibitions, but its broader context within Berlin's transformation from an industrial center to a modern metropolis. Visitors can expect an engaging display of artifacts, information, and experiences that shed light on the evolution of technology and craftsmanship in the region. 
 
 This guide will navigate you through the historical significance, architectural features, and essential visiting information for Industry Park Schöneweide, ensuring a comprehensive understanding of what this museum has to offer.
 
@@ -50,7 +50,7 @@ Inside the museum, exhibitions are thoughtfully arranged to provide an immersive
 
 ## Visiting Information
 
-Getting to Industry Park Schöneweide is convenient, with access to public transport options. Visitors are encouraged to explore the area using the local train and bus services that connect to Berlin’s extensive transportation network. 
+Getting to Industry Park Schöneweide is convenient, with access to public transport options. Visitors are encouraged to explore the area using the local train and bus services that connect to Berlin's extensive transportation network. 
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary. Expect to spend a few hours at the museum to fully appreciate the exhibitions and the stories they tell. 
 
@@ -98,7 +98,7 @@ Guided tours may be offered; check the official website for details on availabil
 Weekdays, especially in the morning, tend to be less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The museum is designed to accommodate visitors with mobility challenges, but it’s advisable to check specific accessibility features.
+The museum is designed to accommodate visitors with mobility challenges, but it's advisable to check specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and any available discounts.

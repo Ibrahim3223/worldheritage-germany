@@ -105,7 +105,7 @@ Accessibility may vary; check the official website for specific information rega
 Visit the official website to find out if online ticket purchasing is available.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for details.
+Facilities may be available on-site, but it's advisable to check the official website for details.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking, especially if you plan to explore the castle grounds.

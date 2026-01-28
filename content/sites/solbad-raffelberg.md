@@ -54,7 +54,7 @@ While visiting Solbad Raffelberg, consider exploring other attractions in the re
 
 1. **Mülheim an der Ruhr City Center**: Just a short distance away, the city center offers shopping, dining, and cultural experiences, providing a comprehensive view of local life.
 
-2. **Stadtmuseum Mülheim an der Ruhr**: This museum showcases the history and culture of Mülheim, featuring exhibits that highlight the city’s industrial past and its development over time.
+2. **Stadtmuseum Mülheim an der Ruhr**: This museum showcases the history and culture of Mülheim, featuring exhibits that highlight the city's industrial past and its development over time.
 
 3. **Ruhr Park**: A peaceful park that invites visitors to enjoy leisurely walks, picnics, and various recreational activities, making it a perfect complement to a day spent at Solbad Raffelberg.
 

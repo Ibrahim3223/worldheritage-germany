@@ -70,7 +70,7 @@ While visiting the Gut-Hirten-Kirche, consider exploring these nearby attraction
 
 ## Insider Tips
 
-For photography enthusiasts, the Gut-Hirten-Kirche presents ample opportunities for capturing its architectural beauty. Early mornings or late afternoons provide the best natural light for photography, ensuring that the details of the church’s design are well highlighted.
+For photography enthusiasts, the Gut-Hirten-Kirche presents ample opportunities for capturing its architectural beauty. Early mornings or late afternoons provide the best natural light for photography, ensuring that the details of the church's design are well highlighted.
 
 To avoid crowds, consider visiting during weekdays or outside of major religious holidays when the church may host larger gatherings. This allows for a more personal experience and a chance to appreciate the tranquility of the space.
 

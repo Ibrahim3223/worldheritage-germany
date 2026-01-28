@@ -96,7 +96,7 @@ It is also a good idea to familiarize yourself with the site's rules and regulat
 A visit to Schloss Mühltroff typically requires about two to three hours, allowing ample time to explore the grounds and appreciate the architecture.
 
 ### Is photography allowed?
-Photography is generally permitted in public areas, but it’s advisable to check specific guidelines upon arrival.
+Photography is generally permitted in public areas, but it's advisable to check specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details regarding scheduling and availability.

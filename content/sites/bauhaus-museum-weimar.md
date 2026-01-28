@@ -30,7 +30,7 @@ The Bauhaus Museum in Weimar invites visitors to explore the profound influence 
 
 Weimar itself is a city steeped in cultural significance, known for its pivotal role in various artistic and intellectual movements. The Bauhaus Museum is part of this rich heritage, situated in a region that offers visitors a glimpse into Germany's avant-garde history. The museum's commitment to showcasing the principles of the Bauhaus—where creativity meets craftsmanship—makes it a must-visit for anyone interested in the evolution of modern design.
 
-As you step into the museum, prepare to be engaged by a thoughtfully curated collection that spans various disciplines, including architecture, graphic design, furniture, and textiles. The Bauhaus Museum not only highlights the historical significance of the movement but also fosters an understanding of its ongoing relevance in today’s design landscape.
+As you step into the museum, prepare to be engaged by a thoughtfully curated collection that spans various disciplines, including architecture, graphic design, furniture, and textiles. The Bauhaus Museum not only highlights the historical significance of the movement but also fosters an understanding of its ongoing relevance in today's design landscape.
 
 ## History and Significance
 
@@ -106,7 +106,7 @@ By taking these practical considerations into account, you can enhance your over
 A visit typically lasts around two hours, but you may want to allocate more time if you wish to engage deeply with the exhibits or participate in any workshops.
 
 ### Is photography allowed?
-Photography policies may vary. It’s recommended to check upon arrival for any specific restrictions regarding photography in the museum.
+Photography policies may vary. It's recommended to check upon arrival for any specific restrictions regarding photography in the museum.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may offer deeper insights into the collections and history of the Bauhaus movement.

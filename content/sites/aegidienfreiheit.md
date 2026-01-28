@@ -30,13 +30,13 @@ Aegidienfreiheit, as part of the larger city of Brunswick, has a history that re
 
 Throughout the years, the town has witnessed significant events that have shaped its character. The architecture found within Aegidienfreiheit tells a story of various styles and influences, showcasing how the town has adapted to the shifting tides of history. From medieval structures to more modern buildings, the architectural landscape is a canvas that illustrates the town's evolution.
 
-Moreover, Aegidienfreiheit holds cultural importance as it has been a gathering place for community activities and events. This vibrant old town continues to serve as a backdrop for local traditions, festivals, and markets, reinforcing its role as a vital part of Brunswick’s social fabric. As visitors stroll through its streets, they can feel the pulse of the community and the resonance of its history.
+Moreover, Aegidienfreiheit holds cultural importance as it has been a gathering place for community activities and events. This vibrant old town continues to serve as a backdrop for local traditions, festivals, and markets, reinforcing its role as a vital part of Brunswick's social fabric. As visitors stroll through its streets, they can feel the pulse of the community and the resonance of its history.
 
 ## Architecture and Features
 
 Aegidienfreiheit is characterized by a distinctive architectural style that reflects various periods of its development. The town features a harmonious blend of old and new, with buildings that showcase medieval craftsmanship alongside more contemporary designs. The streets are lined with charming facades, often adorned with intricate details that highlight the skills of local artisans throughout history.
 
-Notable features of Aegidienfreiheit include well-preserved historical buildings that stand as reminders of the town’s past. Visitors can admire the craftsmanship evident in the stonework and timber framing, which tell stories of the people who lived and worked there. The layout of the old town, with its narrow alleys and open squares, encourages exploration and discovery, inviting visitors to delve deeper into its historical narrative.
+Notable features of Aegidienfreiheit include well-preserved historical buildings that stand as reminders of the town's past. Visitors can admire the craftsmanship evident in the stonework and timber framing, which tell stories of the people who lived and worked there. The layout of the old town, with its narrow alleys and open squares, encourages exploration and discovery, inviting visitors to delve deeper into its historical narrative.
 
 The community aspect of Aegidienfreiheit is also evident in its public spaces, where locals and tourists alike gather to enjoy the atmosphere. The town often hosts events and markets, allowing visitors to engage with the living heritage of the area. The architecture, combined with the vibrant community life, creates an inviting and engaging environment that reflects the spirit of Aegidienfreiheit.
 

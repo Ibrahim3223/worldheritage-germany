@@ -34,7 +34,7 @@ Visitors to the theatre can anticipate an engaging experience, whether attending
 
 While specific historical dates and events are not detailed, the significance of Westflügel Leipzig can be understood through its role in the broader context of Leipzig's cultural heritage. The theatre has emerged as a vital component of the local arts scene, providing a platform for various performances that resonate with both residents and visitors alike. This theatre has contributed to the cultural dialogue in Leipzig, hosting a range of events that showcase the talents of local and international artists.
 
-Leipzig itself has a storied history as a cultural hub, known for its contributions to music, literature, and the visual arts. Westflügel Leipzig fits seamlessly into this narrative, reinforcing the city’s commitment to innovation in the arts. The theatre's programming often focuses on contemporary issues, making it a relevant space for discussions about society, politics, and culture. As such, Westflügel Leipzig is more than just a performance venue; it is a space where creativity flourishes and where audiences can engage with thought-provoking material.
+Leipzig itself has a storied history as a cultural hub, known for its contributions to music, literature, and the visual arts. Westflügel Leipzig fits seamlessly into this narrative, reinforcing the city's commitment to innovation in the arts. The theatre's programming often focuses on contemporary issues, making it a relevant space for discussions about society, politics, and culture. As such, Westflügel Leipzig is more than just a performance venue; it is a space where creativity flourishes and where audiences can engage with thought-provoking material.
 
 The legacy of the theatre is also reflected in its ability to adapt to changing artistic landscapes, ensuring that it remains a relevant player in the world of performing arts. The theatre often collaborates with local artists, creating a community-oriented atmosphere that enriches the cultural fabric of Leipzig.
 
@@ -58,19 +58,19 @@ The best times to visit are typically during the main performance seasons, when 
 
 1. **Leipzig Museum of Fine Arts**: This museum showcases an impressive collection of artworks, offering insights into both historical and contemporary pieces. It is a short distance from Westflügel Leipzig and a must-visit for art enthusiasts.
 
-2. **Clara Zetkin Park**: A beautiful green space ideal for a leisurely stroll or a picnic. This park provides a serene escape from the city’s hustle and bustle and is perfect for unwinding before or after a performance.
+2. **Clara Zetkin Park**: A beautiful green space ideal for a leisurely stroll or a picnic. This park provides a serene escape from the city's hustle and bustle and is perfect for unwinding before or after a performance.
 
-3. **Spinnerei**: A former cotton mill turned cultural center, Spinnerei is home to galleries, studios, and creative spaces. It represents the innovative spirit of Leipzig’s art scene and is worth exploring for those interested in contemporary art.
+3. **Spinnerei**: A former cotton mill turned cultural center, Spinnerei is home to galleries, studios, and creative spaces. It represents the innovative spirit of Leipzig's art scene and is worth exploring for those interested in contemporary art.
 
 4. **St. Thomas Church**: This historic church is notable for its association with composer Johann Sebastian Bach. Visitors can explore its stunning architecture and learn about its musical heritage.
 
-5. **Leipzig Botanical Garden**: A tranquil spot featuring a diverse collection of plants and flowers. It’s an excellent place to relax and enjoy nature, conveniently located near the city center.
+5. **Leipzig Botanical Garden**: A tranquil spot featuring a diverse collection of plants and flowers. It's an excellent place to relax and enjoy nature, conveniently located near the city center.
 
 ## Insider Tips
 
 For photography enthusiasts, Westflügel Leipzig presents ample opportunities to capture the essence of the theatre both inside and outside. However, it is advisable to check for any restrictions on photography during performances to respect the artists and audience. 
 
-To avoid larger crowds, consider attending performances during the week, as weekends tend to attract more visitors. Arriving early not only allows you to find the best seating but also gives you time to explore the theatre’s interior and engage with the pre-show atmosphere.
+To avoid larger crowds, consider attending performances during the week, as weekends tend to attract more visitors. Arriving early not only allows you to find the best seating but also gives you time to explore the theatre's interior and engage with the pre-show atmosphere.
 
 ## Practical Information
 

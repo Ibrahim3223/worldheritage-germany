@@ -44,7 +44,7 @@ In addition to its historical relevance, Liebenzell Castle has become a site for
 
 ## Architecture and Features
 
-Liebenzell Castle showcases a blend of architectural styles, reflecting the various periods of its construction and renovation. The castle’s design is emblematic of medieval fortifications, featuring robust stone walls and strategic towers that illustrate the need for defense. The imposing structure is characteristic of the era, designed to withstand sieges and protect its inhabitants.
+Liebenzell Castle showcases a blend of architectural styles, reflecting the various periods of its construction and renovation. The castle's design is emblematic of medieval fortifications, featuring robust stone walls and strategic towers that illustrate the need for defense. The imposing structure is characteristic of the era, designed to withstand sieges and protect its inhabitants.
 
 One of the notable features of the castle is its sturdy entrance, which is both functional and aesthetically pleasing. Visitors are greeted by a grand portal that sets the tone for the exploration ahead. The castle's layout typically includes a central courtyard, surrounded by living quarters, storage areas, and defensive walls. This arrangement not only provided protection but also facilitated daily life within the castle.
 
@@ -90,7 +90,7 @@ When preparing for a visit to Liebenzell Castle, it's essential to bring along b
 
 Seasonal considerations are important, as the weather can vary significantly throughout the year. In winter, colder temperatures may necessitate warmer clothing, while summer visits might call for sun protection. Always check the local forecast prior to your visit to ensure a comfortable experience.
 
-Restrooms and other visitor facilities may be available, but it’s wise to confirm this through the official website before your trip. This preparation will help ensure a smooth and enjoyable visit.
+Restrooms and other visitor facilities may be available, but it's wise to confirm this through the official website before your trip. This preparation will help ensure a smooth and enjoyable visit.
 
 ## Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Guided tours may be available, offering insights into the castle's history and a
 Spring and early autumn are ideal for visiting, as the weather is generally mild and the scenery is vibrant.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility may vary, so it’s best to check the official website for specific details.
+Information regarding accessibility may vary, so it's best to check the official website for specific details.
 
 ### Can I buy tickets online?
 For ticket purchasing options and current prices, please refer to the official website.

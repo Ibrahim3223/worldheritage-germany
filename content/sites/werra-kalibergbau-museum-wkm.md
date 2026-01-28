@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Werra-Kalibergbau-Museum (WKM) serves as an important homage to the history of potash mining in Germany, particularly in the Werra Valley region. This museum not only showcases the industrial heritage of the area but also highlights the significance of mining practices that have shaped local economies and communities. Visitors can explore exhibits that illuminate the evolution of mining techniques and the impact of this industry on the region’s development.
+The Werra-Kalibergbau-Museum (WKM) serves as an important homage to the history of potash mining in Germany, particularly in the Werra Valley region. This museum not only showcases the industrial heritage of the area but also highlights the significance of mining practices that have shaped local economies and communities. Visitors can explore exhibits that illuminate the evolution of mining techniques and the impact of this industry on the region's development.
 
-Located at coordinates 50.886835, 10.00654, the museum is easily accessible for those traveling through Germany. The WKM offers a unique educational experience, revealing the intricacies of mining and its pivotal role in the local culture and economy. Through engaging displays and artifacts, the museum aims to foster a deeper understanding of the mining industry’s historical context and its contributions to the region's identity.
+Located at coordinates 50.886835, 10.00654, the museum is easily accessible for those traveling through Germany. The WKM offers a unique educational experience, revealing the intricacies of mining and its pivotal role in the local culture and economy. Through engaging displays and artifacts, the museum aims to foster a deeper understanding of the mining industry's historical context and its contributions to the region's identity.
 
 As you step into the museum, you are invited to delve into the world of kalibergbau (potash mining) and discover stories that span generations. The Werra-Kalibergbau-Museum stands as a significant cultural institution, perfect for both history enthusiasts and those looking to gain insights into the industrial heritage of Germany.
 
@@ -40,7 +40,7 @@ The architectural design of the Werra-Kalibergbau-Museum reflects its industrial
 
 Inside the museum, you will find models, tools, and photographs that depict the workings of a potash mine. The displays are curated to provide an informative experience, with each section dedicated to different aspects of mining history. The exhibits may also include interactive elements that enhance visitor engagement, making the learning process more immersive.
 
-While the specifics of the structure's design may not be detailed, the museum’s environment is crafted to evoke the industrial spirit of the region, allowing visitors to connect with the history of kalibergbau in a meaningful way.
+While the specifics of the structure's design may not be detailed, the museum's environment is crafted to evoke the industrial spirit of the region, allowing visitors to connect with the history of kalibergbau in a meaningful way.
 
 ## Visiting Information
 
@@ -68,11 +68,11 @@ While visiting the Werra-Kalibergbau-Museum, consider exploring these nearby att
 
 To make the most of your visit to the Werra-Kalibergbau-Museum, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibits may have restrictions.
+- **Photography**: Check the museum's policy on photography, as some exhibits may have restrictions.
 
 - **Crowd Avoidance**: Plan to visit during weekdays or early morning to avoid larger crowds, ensuring a more enjoyable experience.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ As you prepare for your visit to the Werra-Kalibergbau-Museum, here are some pra
 Visitors typically spend around two hours at the museum, but those with a keen interest in mining history may wish to extend their visit for a deeper exploration.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as certain areas or exhibits may have restrictions.
+Check the museum's policy on photography, as certain areas or exhibits may have restrictions.
 
 ### Are there guided tours?
 The availability of guided tours may vary. It is advisable to check the official website for any scheduled tours or programs.

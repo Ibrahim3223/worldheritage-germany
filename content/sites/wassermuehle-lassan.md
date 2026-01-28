@@ -100,7 +100,7 @@ When planning your visit to Wassermühle Lassan, keep the following practical co
 A few hours is generally sufficient to explore the museum and engage with the exhibits. If you wish to participate in special programs or workshops, you may want to allocate additional time.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to confirm with museum staff upon arrival. Certain areas may have restrictions.
+Photography policies can vary, so it's best to confirm with museum staff upon arrival. Certain areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history and significance of the museum's exhibits. Check the official website for more information on tour availability.

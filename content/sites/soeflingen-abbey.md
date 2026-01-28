@@ -36,7 +36,7 @@ The origins of Söflingen Abbey are deeply rooted in the medieval period, reflec
 
 Throughout its history, Söflingen Abbey has witnessed various transformations that mirror the changing tides of history. It has endured the challenges of war, reform, and social change, adapting to the needs of the surrounding community while maintaining its spiritual core. The Abbey is not only a place of worship but also a repository of history, housing artifacts and documents that tell the story of its past inhabitants and their contributions to society.
 
-Culturally, the Abbey represents a nexus of local traditions and religious practices. Many festivals and events are tied to its calendar, drawing both locals and visitors to celebrate faith and community. The Abbey’s influence extends beyond its walls, as it has shaped the cultural identity of Ulm and its surroundings.
+Culturally, the Abbey represents a nexus of local traditions and religious practices. Many festivals and events are tied to its calendar, drawing both locals and visitors to celebrate faith and community. The Abbey's influence extends beyond its walls, as it has shaped the cultural identity of Ulm and its surroundings.
 
 ## Architecture and Features
 

@@ -101,7 +101,7 @@ Guided tours may be available, offering deeper insights into the palace's histor
 Weekdays are generally less crowded, making them ideal for a more relaxed experience. Early morning or late afternoon visits can also be beneficial.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility features may be available, but it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Online ticket purchasing may be an option. Visit the official website for current information on ticket availability and prices.

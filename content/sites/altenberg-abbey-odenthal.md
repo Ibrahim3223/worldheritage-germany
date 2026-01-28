@@ -84,7 +84,7 @@ To make the most of your visit to Altenberg Abbey, consider these insider tips:
 
 ## Practical Information
 
-When visiting Altenberg Abbey, it’s advisable to bring comfortable walking shoes, as the site involves some walking and exploration. A water bottle can be beneficial, especially during warmer months, and a light jacket may be useful for cooler days. 
+When visiting Altenberg Abbey, it's advisable to bring comfortable walking shoes, as the site involves some walking and exploration. A water bottle can be beneficial, especially during warmer months, and a light jacket may be useful for cooler days. 
 
 Seasonal considerations include the blooming of flowers in spring, which enhances the abbey's gardens, and the colorful foliage in autumn. Each season offers a unique perspective on the abbey's beauty, so choose your timing based on your interests.
 

@@ -62,7 +62,7 @@ Neuötting is surrounded by several attractions that complement a visit to Stadt
 
 To make the most of your visit to Stadtmuseum Neuötting, consider bringing a camera to capture the exhibits, keeping in mind any photography regulations in place. Arriving early can help you avoid larger crowds, allowing for a more personal exploration of the museum's collections. 
 
-If you’re interested in specific exhibitions, inquire ahead of time to see if any guided tours are available, as these can provide additional context and insights into the displays.
+If you're interested in specific exhibitions, inquire ahead of time to see if any guided tours are available, as these can provide additional context and insights into the displays.
 
 ## Practical Information
 

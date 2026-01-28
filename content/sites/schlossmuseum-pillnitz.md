@@ -64,7 +64,7 @@ Schlossmuseum Pillnitz is conveniently located near several other attractions th
 
 3. **Brühl's Terrace**: Known as the "Balcony of Europe," this scenic promenade along the Elbe River offers beautiful views of the city and is a great spot for leisurely walks.
 
-4. **Dresden’s Historic Old Town**: A UNESCO World Heritage site, the Old Town is home to numerous historical landmarks, including the Frauenkirche and the Royal Palace, making it an essential stop for history enthusiasts.
+4. **Dresden's Historic Old Town**: A UNESCO World Heritage site, the Old Town is home to numerous historical landmarks, including the Frauenkirche and the Royal Palace, making it an essential stop for history enthusiasts.
 
 5. **Elbe Valley**: The picturesque landscapes along the Elbe River provide opportunities for hiking and cycling, showcasing the natural beauty of the region.
 
@@ -90,7 +90,7 @@ When planning your visit to Schlossmuseum Pillnitz, keep these practical conside
 A visit typically takes between one to three hours, depending on your interest in the exhibits and gardens.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for specific guidelines upon arrival.
+Photography policies may vary, so it's best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; visiting the official website for current offerings and schedules is recommended.

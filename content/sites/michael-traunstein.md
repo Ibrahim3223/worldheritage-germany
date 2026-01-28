@@ -97,7 +97,7 @@ It is advisable to spend approximately one to two hours at Michael Traunstein to
 Typically, photography is permitted, but it is recommended to verify any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which may enhance your understanding of the manor’s history and significance.
+Check the official website for information regarding guided tours, which may enhance your understanding of the manor's history and significance.
 
 ### What's the best time to visit?
 Weekdays, particularly in spring or early autumn, are ideal for a less crowded experience.

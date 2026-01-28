@@ -28,7 +28,7 @@ image_srcset:
 
 The University Library Freiburg, located in the historic city of Freiburg im Breisgau, Germany, serves as an essential academic hub for students and researchers alike. As part of the University of Freiburg, one of the oldest universities in Germany, the library plays a vital role in supporting the institution's academic mission. With its extensive collection and commitment to providing access to knowledge, the library stands out not only as a resource for the university community but also as a significant cultural landmark.
 
-Freiburg itself is renowned for its charming medieval architecture and vibrant student life, making it an inviting destination for visitors. The library, situated close to the heart of the city, is easily accessible and integrates seamlessly with Freiburg’s rich academic environment. Whether you are a scholar in search of rare texts or a visitor intrigued by the cultural significance of academic libraries, the University Library Freiburg offers a unique experience that embodies the spirit of inquiry and scholarship.
+Freiburg itself is renowned for its charming medieval architecture and vibrant student life, making it an inviting destination for visitors. The library, situated close to the heart of the city, is easily accessible and integrates seamlessly with Freiburg's rich academic environment. Whether you are a scholar in search of rare texts or a visitor intrigued by the cultural significance of academic libraries, the University Library Freiburg offers a unique experience that embodies the spirit of inquiry and scholarship.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ Notable features may include specialized collections, digital resources, and are
 
 When planning a visit to the University Library Freiburg, it is advisable to check the official website for current information regarding hours of operation and any applicable entry fees. The library is conveniently located within the city, making it accessible by various modes of transportation, including public transit and cycling.
 
-Visitors can expect a welcoming environment where they can explore the collections, utilize study spaces, and engage with the library’s resources. A visit typically requires a few hours, allowing time to browse the stacks, enjoy the reading areas, and participate in any ongoing events or exhibitions.
+Visitors can expect a welcoming environment where they can explore the collections, utilize study spaces, and engage with the library's resources. A visit typically requires a few hours, allowing time to browse the stacks, enjoy the reading areas, and participate in any ongoing events or exhibitions.
 
 The best times to visit may vary, but weekdays tend to be less crowded compared to weekends. This can provide a more peaceful atmosphere for studying or exploring the library's offerings.
 
@@ -78,9 +78,9 @@ To make the most of your visit to the University Library Freiburg, consider thes
 
 ## Practical Information
 
-When preparing for your visit to the University Library Freiburg, consider bringing essential items such as a notebook, laptop, or reading materials. Also, it’s advisable to check the weather forecast, as seasonal considerations may affect your plans. Dress comfortably, as you may spend several hours exploring the library and its surroundings.
+When preparing for your visit to the University Library Freiburg, consider bringing essential items such as a notebook, laptop, or reading materials. Also, it's advisable to check the weather forecast, as seasonal considerations may affect your plans. Dress comfortably, as you may spend several hours exploring the library and its surroundings.
 
-Additionally, visitors should be aware that the library may have specific regulations regarding food and drink, so it’s best to check these details beforehand to ensure a smooth visit.
+Additionally, visitors should be aware that the library may have specific regulations regarding food and drink, so it's best to check these details beforehand to ensure a smooth visit.
 
 ## Frequently Asked Questions
 
@@ -91,7 +91,7 @@ A visit typically requires a few hours, depending on your interests and whether 
 Photography policies may vary; check for specific guidelines upon arrival.
 
 ### Are there guided tours?
-Information about guided tours is best confirmed through the library’s official website.
+Information about guided tours is best confirmed through the library's official website.
 
 ### What's the best time to visit?
 Weekdays, particularly mid-morning or early afternoon, are generally less crowded.

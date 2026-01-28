@@ -28,7 +28,7 @@ image_srcset:
 
 Charenza, a captivating castle located in the Western Pomerania-Rügen District of Germany, offers visitors a glimpse into the region's historical architecture and cultural heritage. With its striking structure and serene surroundings, Charenza serves as a reminder of the medieval past that shaped this part of Europe. Situated at coordinates 54.5017° N and 13.31665° E, the castle's setting adds to its allure, drawing history enthusiasts and casual visitors alike to explore its grounds.
 
-The significance of Charenza extends beyond its physical presence; it represents the architectural styles and societal structures that have evolved over centuries in the area. As you approach the castle, you’ll find yourself enveloped in a sense of curiosity, eager to uncover the stories that lie within its walls. Whether you are an avid historian or simply seeking an enriching experience, Charenza promises to captivate your imagination.
+The significance of Charenza extends beyond its physical presence; it represents the architectural styles and societal structures that have evolved over centuries in the area. As you approach the castle, you'll find yourself enveloped in a sense of curiosity, eager to uncover the stories that lie within its walls. Whether you are an avid historian or simply seeking an enriching experience, Charenza promises to captivate your imagination.
 
 ## History and Significance
 

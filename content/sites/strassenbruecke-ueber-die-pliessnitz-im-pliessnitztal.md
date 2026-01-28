@@ -30,7 +30,7 @@ The exact historical timeline of the Straßenbrücke über die Pließnitz remain
 
 The cultural importance of this bridge is underscored by its role in the daily lives of residents and visitors alike. It serves not only as a physical crossing but also as a cultural landmark that may evoke memories of shared experiences for those who have traversed it over the years. The bridge is a reminder of the ingenuity and determination of past generations who built the infrastructure that supports present-day society.
 
-Moreover, the bridge’s functionality speaks to the challenges faced by engineers and builders in the region, particularly in ensuring stability and safety in a landscape that may have presented numerous obstacles. While the specific architectural details of its construction are not documented here, bridges like this often reflect a blend of local materials and building techniques that showcase the craftsmanship of the time.
+Moreover, the bridge's functionality speaks to the challenges faced by engineers and builders in the region, particularly in ensuring stability and safety in a landscape that may have presented numerous obstacles. While the specific architectural details of its construction are not documented here, bridges like this often reflect a blend of local materials and building techniques that showcase the craftsmanship of the time.
 
 ## Architecture and Features
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Straßenbrücke über die Pließnitz, keep 
 A short visit of about 30 minutes to an hour is usually sufficient to appreciate the bridge and take photographs. However, if you plan to explore nearby attractions, consider dedicating more time.
 
 ### Is photography allowed?
-Yes, photography is permitted at the bridge. It’s a great spot for capturing the surrounding landscape.
+Yes, photography is permitted at the bridge. It's a great spot for capturing the surrounding landscape.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours available for the bridge, but local information centers may provide insights into the area's history.

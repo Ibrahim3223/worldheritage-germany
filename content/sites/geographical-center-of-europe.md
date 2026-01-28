@@ -72,7 +72,7 @@ While the memorial itself is a focal point, take time to explore the nearby natu
 
 When visiting the geographical center of Europe, it is advisable to dress comfortably and wear appropriate footwear, as exploring the area may involve some walking. Bringing along a water bottle and snacks can enhance your experience, especially if you plan to spend a few hours at the site.
 
-Seasonal considerations are also important: summers can be warm, while winters may bring colder temperatures. It’s wise to check the weather forecast and dress accordingly to ensure a pleasant visit.
+Seasonal considerations are also important: summers can be warm, while winters may bring colder temperatures. It's wise to check the weather forecast and dress accordingly to ensure a pleasant visit.
 
 ## Frequently Asked Questions
 
@@ -95,7 +95,7 @@ Accessibility features are not detailed; however, it is advisable to check the o
 Ticket purchasing methods are not specified; please check the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are not mentioned; it’s best to check the official website for visitor amenities.
+Facilities such as restrooms and cafes are not mentioned; it's best to check the official website for visitor amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended for a pleasant visit, especially if you plan to walk around the area.

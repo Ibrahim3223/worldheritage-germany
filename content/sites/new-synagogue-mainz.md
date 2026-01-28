@@ -78,7 +78,7 @@ To make the most of your visit to the New Synagogue, consider these insider tips
 
 - **Crowd Avoidance**: To experience a more tranquil visit, consider going during weekdays or early in the morning. Special events may attract larger crowds, so plan accordingly if you prefer a quieter experience.
 
-- **Engage with Staff**: The synagogue staff are often knowledgeable and passionate about the history and significance of the site. Don’t hesitate to ask questions or seek recommendations for your visit.
+- **Engage with Staff**: The synagogue staff are often knowledgeable and passionate about the history and significance of the site. Don't hesitate to ask questions or seek recommendations for your visit.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ Before heading to the New Synagogue, here are some practical considerations to k
 
 - **Seasonal Considerations**: Depending on the time of year, weather can impact your visit. Check the forecast ahead of your trip and dress appropriately for the season.
 
-- **Respectful Attire**: As a place of worship, it’s advisable to wear modest clothing. If unsure, consider observing local customs or guidelines regarding attire.
+- **Respectful Attire**: As a place of worship, it's advisable to wear modest clothing. If unsure, consider observing local customs or guidelines regarding attire.
 
 ## Frequently Asked Questions
 
@@ -96,7 +96,7 @@ Before heading to the New Synagogue, here are some practical considerations to k
 A visit typically requires about one to two hours to fully appreciate the synagogue and its significance.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for signage or inquire with staff before taking photos.
+Photography policies may vary, so it's best to check for signage or inquire with staff before taking photos.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on any organized tours or educational programs.

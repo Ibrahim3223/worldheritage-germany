@@ -54,7 +54,7 @@ Visiting Stiftskirche St. Servatius offers a unique opportunity to explore a sig
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. While exploring the church, visitors can expect to spend about an hour admiring its architecture and absorbing the spiritual atmosphere. The best times to visit are typically during weekdays when the foot traffic is lighter, allowing for a more intimate experience within this sacred space.
 
-Inside, guests will find informative displays that provide context about the church’s history and significance. Be prepared to engage with the serene environment, where the echoes of centuries past resonate within the walls.
+Inside, guests will find informative displays that provide context about the church's history and significance. Be prepared to engage with the serene environment, where the echoes of centuries past resonate within the walls.
 
 ## Nearby Attractions
 
@@ -91,7 +91,7 @@ Visitors typically spend about an hour exploring the church, though you may wish
 Photography is generally permitted inside the church, but it is advisable to be respectful and considerate of other visitors and the sacred space.
 
 ### Are there guided tours?
-Check the official website for current information regarding guided tours, as they can enhance your understanding of the church’s history and significance.
+Check the official website for current information regarding guided tours, as they can enhance your understanding of the church's history and significance.
 
 ### What's the best time to visit?
 Weekdays tend to be less crowded, making them an ideal time for a more tranquil experience.

@@ -40,13 +40,13 @@ The architectural design of the Museum in der Majolika-Manufaktur reflects a har
 
 Inside, the museum is adorned with a variety of ceramic works, each telling its own story through color and form. Notable features include the meticulously curated displays that highlight both historical pieces and contemporary works, allowing for a comprehensive understanding of the majolica tradition. Visitors may find themselves captivated by the intricate designs and the vibrant glazes that characterize the collections.
 
-In addition to the permanent exhibitions, the museum frequently hosts temporary exhibitions that further enhance the visitor experience. These exhibitions often focus on specific themes or showcase the works of contemporary artists, providing a fresh perspective on the craft of ceramics. The combination of historical and contemporary pieces creates a dynamic environment that encourages dialogue about the future of majolica and its relevance in today’s artistic landscape.
+In addition to the permanent exhibitions, the museum frequently hosts temporary exhibitions that further enhance the visitor experience. These exhibitions often focus on specific themes or showcase the works of contemporary artists, providing a fresh perspective on the craft of ceramics. The combination of historical and contemporary pieces creates a dynamic environment that encourages dialogue about the future of majolica and its relevance in today's artistic landscape.
 
 ## Visiting Information
 
 Getting to the Museum in der Majolika-Manufaktur is convenient, with various transport options available for visitors. Located in Karlsruhe, the museum is accessible via public transportation, making it easy to integrate into a day of exploring the city. For those driving, check the official website for parking information.
 
-When planning your visit, check the official website for current information regarding hours and ticket prices. The museum typically offers a range of exhibitions that cater to diverse interests, so visitors should allow ample time to fully appreciate the collections on display. A visit of approximately 1-2 hours is generally recommended to ensure a thorough exploration of the museum’s offerings.
+When planning your visit, check the official website for current information regarding hours and ticket prices. The museum typically offers a range of exhibitions that cater to diverse interests, so visitors should allow ample time to fully appreciate the collections on display. A visit of approximately 1-2 hours is generally recommended to ensure a thorough exploration of the museum's offerings.
 
 The best times to visit are usually during weekdays when the museum is less crowded, allowing for a more intimate experience with the art. However, special events or exhibitions may draw larger crowds, so it's advisable to plan ahead.
 

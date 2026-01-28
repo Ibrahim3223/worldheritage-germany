@@ -76,7 +76,7 @@ While visiting the Martin-Luther-Kirche, there are several nearby attractions th
 
 When visiting the Martin-Luther-Kirche, photography can be a rewarding endeavor. Capture the intricate architectural details from various angles, but be mindful of any restrictions on photography inside the church. Engaging with the community can provide unique opportunities for candid shots of local events or gatherings.
 
-To avoid larger crowds, consider visiting during weekdays or early in the morning. This can enhance the experience by allowing for quieter moments of reflection and exploration. Engaging with church staff or local community members can enrich your understanding of the church’s role in Blumenthal.
+To avoid larger crowds, consider visiting during weekdays or early in the morning. This can enhance the experience by allowing for quieter moments of reflection and exploration. Engaging with church staff or local community members can enrich your understanding of the church's role in Blumenthal.
 
 ## Practical Information
 

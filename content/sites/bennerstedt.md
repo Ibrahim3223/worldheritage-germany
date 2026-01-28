@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Bennerstedt is a captivating nature reserve located in the Scharnebeck region of Lower Saxony, Germany. This area is not only a sanctuary for diverse flora and fauna but also serves as a critical ecological space, promoting biodiversity and environmental awareness. Though it may not be widely known, Bennerstedt is significant for both nature enthusiasts and those seeking tranquility away from urban settings. Visitors can expect to explore the rich natural landscapes that characterize the reserve, providing opportunities for leisurely walks, birdwatching, and moments of reflection amidst nature’s beauty.
+Bennerstedt is a captivating nature reserve located in the Scharnebeck region of Lower Saxony, Germany. This area is not only a sanctuary for diverse flora and fauna but also serves as a critical ecological space, promoting biodiversity and environmental awareness. Though it may not be widely known, Bennerstedt is significant for both nature enthusiasts and those seeking tranquility away from urban settings. Visitors can expect to explore the rich natural landscapes that characterize the reserve, providing opportunities for leisurely walks, birdwatching, and moments of reflection amidst nature's beauty.
 
 The reserve's geographic coordinates are approximately 53.3225° N latitude and 10.4797° E longitude, placing it within a scenic part of Germany that is accessible for day trips from nearby towns and cities. Its location underscores the importance of preserving natural habitats in an increasingly urbanized world. Whether you are a local resident or a traveler passing through, Bennerstedt invites a deeper appreciation of the natural world through its serene landscapes and ecological significance.
 
@@ -60,7 +60,7 @@ While Bennerstedt is a destination in itself, several nearby attractions can enh
 
 1. **Scharnebeck Schiffshebewerk** - An engineering marvel, this boat lift allows vessels to navigate the elevation changes of the Elbe-Lübeck Canal, offering a fascinating glimpse into Germany's maritime infrastructure.
 
-2. **Lüneburg** - A charming town known for its medieval architecture and salt trade history. Lüneburg’s historic center is a UNESCO World Heritage Site and is worth exploring for its picturesque streets and local shops.
+2. **Lüneburg** - A charming town known for its medieval architecture and salt trade history. Lüneburg's historic center is a UNESCO World Heritage Site and is worth exploring for its picturesque streets and local shops.
 
 3. **Biosphaerenreservat Niedersächsische Elbtalaue** - This biosphere reserve is nearby and showcases the unique ecosystems of the Elbe River area, providing additional opportunities for nature lovers.
 
@@ -105,7 +105,7 @@ Check the official website for current accessibility information regarding trail
 For any fees associated with visiting Bennerstedt, check the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Amenities may be limited, so it’s advisable to bring your own refreshments and check the official website for restroom availability.
+Amenities may be limited, so it's advisable to bring your own refreshments and check the official website for restroom availability.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, especially if you plan to walk the trails. Dress in layers to accommodate changes in weather throughout the day.

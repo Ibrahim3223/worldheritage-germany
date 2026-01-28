@@ -48,7 +48,7 @@ The exterior may be characterized by traditional construction materials, such as
 
 ## Visiting Information
 
-Visiting Kapelle Althof can be a peaceful experience, allowing guests to immerse themselves in the spirituality and tranquility of the site. To reach the chapel, you'll find that transportation options are available, though specific details on public transport routes or parking facilities are best verified through official channels. It’s advisable to check the official website for current information regarding hours of operation and any potential visitor fees.
+Visiting Kapelle Althof can be a peaceful experience, allowing guests to immerse themselves in the spirituality and tranquility of the site. To reach the chapel, you'll find that transportation options are available, though specific details on public transport routes or parking facilities are best verified through official channels. It's advisable to check the official website for current information regarding hours of operation and any potential visitor fees.
 
 When planning your visit, consider the time needed to explore the chapel fully. A visit can take anywhere from 30 minutes to an hour, depending on your level of interest in the architecture and history. The best times to visit are typically during daylight hours, allowing for ample natural light to enhance the beauty of the chapel's features.
 

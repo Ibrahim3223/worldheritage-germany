@@ -97,7 +97,7 @@ Accessibility information is typically provided on the museum's official website
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are usually available, but it’s a good idea to verify these amenities on the official site.
+Facilities such as restrooms and cafes are usually available, but it's a good idea to verify these amenities on the official site.
 
 ### What should I wear?
 Dress comfortably, and consider the weather conditions on the day of your visit, especially if you plan to explore outdoor areas.

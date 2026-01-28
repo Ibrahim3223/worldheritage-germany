@@ -130,4 +130,4 @@ Restroom facilities may be available nearby, but it is advisable to verify with 
 
 Dress modestly when visiting, as it is a place of worship. Comfortable attire and shoes are recommended for a pleasant visit. 
 
-In conclusion, St. Ignaz in Mainz is not only a place of worship but also a site of historical and cultural importance. As you explore this church and its surroundings, you will uncover layers of meaning and connection to the city’s vibrant heritage.
+In conclusion, St. Ignaz in Mainz is not only a place of worship but also a site of historical and cultural importance. As you explore this church and its surroundings, you will uncover layers of meaning and connection to the city's vibrant heritage.

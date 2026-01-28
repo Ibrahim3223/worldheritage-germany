@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Aquädukt (Roter Graben) Halsbrücke is a remarkable aqueduct located in the Halsbrücke region of Germany. This impressive structure serves as a bridge and is an essential part of the area's historical and architectural landscape. As a significant feat of engineering, the aqueduct not only facilitated water transport but also showcases the ingenuity of its creators. Visitors to this site can appreciate its functional design while contemplating its role in the development of local infrastructure. Whether you’re an architecture enthusiast, a history buff, or simply looking for an intriguing day out, the Aquädukt (Roter Graben) promises a unique experience.
+The Aquädukt (Roter Graben) Halsbrücke is a remarkable aqueduct located in the Halsbrücke region of Germany. This impressive structure serves as a bridge and is an essential part of the area's historical and architectural landscape. As a significant feat of engineering, the aqueduct not only facilitated water transport but also showcases the ingenuity of its creators. Visitors to this site can appreciate its functional design while contemplating its role in the development of local infrastructure. Whether you're an architecture enthusiast, a history buff, or simply looking for an intriguing day out, the Aquädukt (Roter Graben) promises a unique experience.
 
 ## History and Significance
 

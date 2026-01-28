@@ -72,7 +72,7 @@ When visiting, be prepared for security measures, as it is a place of worship an
 
 4. **Museum of Cultural History**: Located nearby, this museum offers exhibitions on Magdeburg's history, art, and culture, providing context to the cathedral's significance in the region.
 
-5. **St. John’s Church**: Just a short distance away, this church features remarkable baroque architecture and is a fine example of the city’s religious heritage.
+5. **St. John's Church**: Just a short distance away, this church features remarkable baroque architecture and is a fine example of the city's religious heritage.
 
 ## Insider Tips
 
@@ -84,7 +84,7 @@ If you wish to attend a service or concert, check the cathedral's official websi
 
 ## Practical Information
 
-When planning your visit to the Cathedral of Magdeburg, it’s wise to dress comfortably, as you may spend considerable time walking and exploring. As a place of worship, modest attire is recommended; be mindful of local customs.
+When planning your visit to the Cathedral of Magdeburg, it's wise to dress comfortably, as you may spend considerable time walking and exploring. As a place of worship, modest attire is recommended; be mindful of local customs.
 
 Seasonal considerations should also be taken into account. During winter, the weather can be cold, so layering is advisable. In contrast, summer visits may require sun protection, especially if you plan to explore the cathedral's surrounding outdoor areas.
 

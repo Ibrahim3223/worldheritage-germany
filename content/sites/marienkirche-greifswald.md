@@ -32,11 +32,11 @@ The church's striking presence adds to the city's distinctive skyline, making it
 
 ## History and Significance
 
-The history of Marienkirche is intertwined with the development of Greifswald itself. Its origins are deeply rooted in the city’s past, reflecting the changing tides of religious, political, and cultural influences over the centuries. The church has played a significant role in the community, serving as a center for spiritual life and a gathering place for important events.
+The history of Marienkirche is intertwined with the development of Greifswald itself. Its origins are deeply rooted in the city's past, reflecting the changing tides of religious, political, and cultural influences over the centuries. The church has played a significant role in the community, serving as a center for spiritual life and a gathering place for important events.
 
 Throughout its existence, Marienkirche has witnessed numerous transformations. It has been a silent observer of the social fabric of Greifswald, adapting to the evolving needs of its congregation while also preserving its historical essence. The church has been a site for various religious services and ceremonies, reinforcing its position as a cornerstone of the local community.
 
-Beyond its spiritual significance, Marienkirche has also served as a cultural hub, hosting concerts, art exhibitions, and community gatherings. This multifaceted role enhances its importance in the region, making it not just a place of worship but also a vibrant center of community life. The church stands as a symbol of resilience and continuity, reflecting the enduring spirit of Greifswald’s residents through the ages.
+Beyond its spiritual significance, Marienkirche has also served as a cultural hub, hosting concerts, art exhibitions, and community gatherings. This multifaceted role enhances its importance in the region, making it not just a place of worship but also a vibrant center of community life. The church stands as a symbol of resilience and continuity, reflecting the enduring spirit of Greifswald's residents through the ages.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ The best times to visit are generally during weekdays when the church is less cr
 
 While visiting Marienkirche, take the opportunity to explore other attractions in Greifswald. Here are a few notable places nearby:
 
-1. **Museumshafen Greifswald:** A historic harbor that showcases traditional ships and maritime culture, offering a glimpse into the city’s maritime history.
+1. **Museumshafen Greifswald:** A historic harbor that showcases traditional ships and maritime culture, offering a glimpse into the city's maritime history.
 2. **Pomeranian State Museum:** This museum provides insights into the region's history and culture, featuring exhibitions that highlight local art and artifacts.
 3. **St. Nikolai Church:** Another significant church in the area, known for its impressive architecture and historical importance.
 4. **Greifswald Botanical Garden:** A tranquil space perfect for a leisurely stroll, featuring diverse plant species and serene landscapes.

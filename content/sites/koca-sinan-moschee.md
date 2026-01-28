@@ -32,7 +32,7 @@ Berlin, known for its rich history and vibrant neighborhoods, serves as a fittin
 
 ## History and Significance
 
-The Koca-Sinan-Moschee’s history is intertwined with the development of Berlin as a multicultural city. As the Muslim population in Germany has grown over the decades, so too has the need for places of worship and community centers that cater to their spiritual and social needs. While specific dates and historical milestones may not be available, the mosque stands as a representation of the Islamic faith's presence in Berlin and its ongoing evolution.
+The Koca-Sinan-Moschee's history is intertwined with the development of Berlin as a multicultural city. As the Muslim population in Germany has grown over the decades, so too has the need for places of worship and community centers that cater to their spiritual and social needs. While specific dates and historical milestones may not be available, the mosque stands as a representation of the Islamic faith's presence in Berlin and its ongoing evolution.
 
 Culturally, the Koca-Sinan-Moschee serves as a focal point for various community activities, including educational programs, interfaith dialogues, and social events. Such initiatives help to foster a sense of belonging among community members, while also promoting a greater understanding of Islamic traditions to the wider public. In this context, the mosque plays a crucial role in bridging cultural divides and encouraging a spirit of tolerance and cooperation.
 
@@ -66,7 +66,7 @@ While visiting the Koca-Sinan-Moschee, there are several attractions nearby that
 
 ## Insider Tips
 
-When visiting the Koca-Sinan-Moschee, consider bringing a camera to capture the mosque’s architectural beauty, but ensure you respect any photography guidelines that may be in place. To avoid larger crowds, try to visit during weekdays or outside of major prayer times. Engaging with community members can often lead to more profound insights, so don’t hesitate to ask questions if opportunities arise.
+When visiting the Koca-Sinan-Moschee, consider bringing a camera to capture the mosque's architectural beauty, but ensure you respect any photography guidelines that may be in place. To avoid larger crowds, try to visit during weekdays or outside of major prayer times. Engaging with community members can often lead to more profound insights, so don't hesitate to ask questions if opportunities arise.
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ Seasonal considerations can impact your visit, so it is wise to check the weathe
 A visit of about two hours is recommended to fully appreciate the mosque and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with mosque staff upon arrival.
+Photography policies may vary, so it's best to check with mosque staff upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may be available on the mosque's official website or through community outreach programs.
@@ -95,7 +95,7 @@ Accessibility information is best confirmed by referring to the official website
 Check the official website for details on entry fees and ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities details can vary, so it’s advisable to check the official website for current amenities.
+Facilities details can vary, so it's advisable to check the official website for current amenities.
 
 ### What should I wear?
 Modest clothing is recommended to show respect for the cultural and religious significance of the mosque.

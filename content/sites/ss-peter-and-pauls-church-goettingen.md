@@ -38,7 +38,7 @@ The history of SS. Peter and Paul's Church is intertwined with the evolution of 
 
 Göttingen has long been recognized for its contributions to education and research, and the church has been a silent witness to the developments within the city, including the establishment of the University of Göttingen. Founded in 1734, the university has attracted scholars from around the world, contributing to the flourishing culture and intellectual environment that characterizes the area.
 
-The church's historical significance extends beyond its religious functions; it has also been a backdrop for various social and cultural events throughout the years. As such, it has become an integral part of Göttingen's identity, reflecting the city's growth and changes over time. The church’s architecture and design elements also encapsulate the artistic trends of the period in which it was built, allowing for further exploration of its cultural relevance.
+The church's historical significance extends beyond its religious functions; it has also been a backdrop for various social and cultural events throughout the years. As such, it has become an integral part of Göttingen's identity, reflecting the city's growth and changes over time. The church's architecture and design elements also encapsulate the artistic trends of the period in which it was built, allowing for further exploration of its cultural relevance.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ SS. Peter and Paul's Church features architectural elements that reflect its his
 
 The church's facade may exhibit intricate craftsmanship, typical of the period's ecclesiastical buildings in Germany. Visitors can expect to find a harmonious blend of form and function that not only serves aesthetic purposes but also reflects the spiritual aspirations of its former congregation.
 
-Inside, the church likely features a nave and aisles that create a sense of openness, inviting contemplation and reflection. Any remaining religious artifacts or symbols within the church would provide insight into its role in the community’s spiritual life. 
+Inside, the church likely features a nave and aisles that create a sense of openness, inviting contemplation and reflection. Any remaining religious artifacts or symbols within the church would provide insight into its role in the community's spiritual life. 
 
 While exploring the architectural features, visitors can reflect on the craftsmanship and artistic expression that went into its creation, which remains a point of interest for those fascinated by religious architecture.
 
@@ -66,17 +66,17 @@ Visitors to SS. Peter and Paul's Church can easily explore other notable attract
 
 1. **Gänseliesel Fountain**: A beloved symbol of Göttingen, this fountain features a statue of a young girl herding geese and is a popular meeting point in the city.
 
-2. **Alte Aula der Universität Göttingen**: The Old Auditorium of the University of Göttingen showcases impressive architecture and serves as a reminder of the city’s academic heritage.
+2. **Alte Aula der Universität Göttingen**: The Old Auditorium of the University of Göttingen showcases impressive architecture and serves as a reminder of the city's academic heritage.
 
 3. **Botanical Garden**: A short walk from the church, the garden offers a peaceful retreat filled with diverse plant species, perfect for a leisurely stroll.
 
-4. **St. Jacob’s Church**: Another significant church in the area, known for its stunning architecture and historical importance.
+4. **St. Jacob's Church**: Another significant church in the area, known for its stunning architecture and historical importance.
 
 5. **Göttingen Cemetery**: This historical cemetery is the final resting place of many notable figures, including famous scholars and writers.
 
 ## Insider Tips
 
-For photography enthusiasts, the church’s exterior provides numerous opportunities for striking images, particularly during the golden hours of sunrise and sunset. The play of light on the church's facade can yield beautiful results.
+For photography enthusiasts, the church's exterior provides numerous opportunities for striking images, particularly during the golden hours of sunrise and sunset. The play of light on the church's facade can yield beautiful results.
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This will allow for a more intimate experience as you explore the church and its surroundings, giving you the space to appreciate its details without the distraction of large groups.
 

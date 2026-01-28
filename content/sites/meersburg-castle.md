@@ -91,7 +91,7 @@ Guided tours may be available, providing insightful context about the castle's h
 The best time to visit is during spring or early autumn, when the weather is pleasant and the landscape is vibrant.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for current details on wheelchair access within the castle.
+Accessibility information may vary, so it's advisable to check the official website for current details on wheelchair access within the castle.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets online, as this can help save time during your visit.

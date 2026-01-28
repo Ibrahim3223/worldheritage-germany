@@ -44,7 +44,7 @@ Jammerhecke, as a mountain pass, does not feature traditional architectural elem
 
 Visitors can expect to find well-marked paths that lead them through varied terrains, from rocky outcrops to lush greenery. The surrounding environment showcases a mix of flora and fauna typical of Hesse's mountainous regions, providing an opportunity for nature observation. 
 
-While there may not be man-made structures directly within the pass itself, the trails and pathways leading to and from Jammerhecke are designed to enhance the experience of traversing this natural wonder. The accessibility of these trails allows visitors to engage intimately with the landscape, creating a connection with the natural world that is increasingly rare in today’s fast-paced society.
+While there may not be man-made structures directly within the pass itself, the trails and pathways leading to and from Jammerhecke are designed to enhance the experience of traversing this natural wonder. The accessibility of these trails allows visitors to engage intimately with the landscape, creating a connection with the natural world that is increasingly rare in today's fast-paced society.
 
 ## Visiting Information
 
@@ -101,7 +101,7 @@ Accessibility information may vary; check the official website for details on tr
 Check the official website for current information regarding entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for details on available amenities in the area.
+Facilities may vary; it's advisable to check the official website for details on available amenities in the area.
 
 ### What should I wear?
 Wear comfortable, weather-appropriate clothing and sturdy footwear suitable for hiking, as well as layers for changing weather conditions. 

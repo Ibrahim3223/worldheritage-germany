@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Leipzig, Germany, the Liebesdenkmal emerges as a poignant memorial dedicated to love and remembrance. This monument stands as a cultural landmark, drawing visitors who seek to understand the depths of human emotion and connection. The Liebesdenkmal is not only a tribute to love but also a reflection of the city’s rich history and its evolution through time. As you approach this significant site, you will be enveloped in a sense of reverence, capturing the essence of what it means to commemorate the bonds that transcend time. 
+In the heart of Leipzig, Germany, the Liebesdenkmal emerges as a poignant memorial dedicated to love and remembrance. This monument stands as a cultural landmark, drawing visitors who seek to understand the depths of human emotion and connection. The Liebesdenkmal is not only a tribute to love but also a reflection of the city's rich history and its evolution through time. As you approach this significant site, you will be enveloped in a sense of reverence, capturing the essence of what it means to commemorate the bonds that transcend time. 
 
 This memorial is strategically located in Leipzig, a city known for its vibrant arts scene and historical significance, making it an essential stop for those exploring the region. The Liebesdenkmal invites reflection and introspection, offering a serene space for visitors to connect with the themes of love and loss. Whether you're a history enthusiast, a romantic at heart, or simply curious about the cultural narratives of the area, this monument promises an engaging experience that resonates on multiple levels.
 
@@ -58,7 +58,7 @@ When planning your visit, consider allocating sufficient time to fully absorb th
 
 While the Liebesdenkmal is a significant destination in its own right, there are several nearby attractions worth exploring:
 
-1. **Leipzig City Hall**: A historical building showcasing impressive architecture and offering insights into the city’s governance and history.
+1. **Leipzig City Hall**: A historical building showcasing impressive architecture and offering insights into the city's governance and history.
    
 2. **St. Thomas Church**: Renowned for its association with the composer Johann Sebastian Bach, this church is a must-visit for music lovers and history buffs alike.
    
@@ -66,7 +66,7 @@ While the Liebesdenkmal is a significant destination in its own right, there are
 
 4. **Leipzig Market Square**: A vibrant area filled with shops and eateries, perfect for experiencing local life and cuisine.
 
-5. **Völkerschlachtdenkmal**: A grand monument commemorating the Battle of Leipzig, offering a deeper understanding of the city’s historical significance.
+5. **Völkerschlachtdenkmal**: A grand monument commemorating the Battle of Leipzig, offering a deeper understanding of the city's historical significance.
 
 ## Insider Tips
 

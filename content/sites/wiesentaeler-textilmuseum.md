@@ -72,11 +72,11 @@ Zell im Wiesental is surrounded by various attractions that cater to diverse int
 
 To enhance your visit to the Wiesentäler Textilmuseum, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check with the museum staff for specific guidelines to avoid disrupting exhibits.
+- **Photography**: While photography may be allowed in certain areas, it's best to check with the museum staff for specific guidelines to avoid disrupting exhibits.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or in the early hours after opening. This can provide a more personal connection with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and additional context about the exhibits that may not be covered in the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and additional context about the exhibits that may not be covered in the displays.
 
 ## Practical Information
 

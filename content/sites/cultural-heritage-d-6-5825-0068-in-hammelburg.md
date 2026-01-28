@@ -42,7 +42,7 @@ Cultural heritage D-6-5825-0068 is characterized by its robust architectural des
 
 The primary structure likely incorporates elements such as arrow slits or embrasures, which provided defenders with vantage points while maintaining a degree of protection. Additionally, the fortification may include barracks or storage facilities essential for sustaining military personnel during sieges or prolonged engagements.
 
-Visitors will appreciate the craftsmanship involved in the construction of the fortification, as it reflects the engineering capabilities of its time. The use of local materials not only adds to the site’s historical authenticity but also connects it to the surrounding landscape, reinforcing the bond between the community and its heritage.
+Visitors will appreciate the craftsmanship involved in the construction of the fortification, as it reflects the engineering capabilities of its time. The use of local materials not only adds to the site's historical authenticity but also connects it to the surrounding landscape, reinforcing the bond between the community and its heritage.
 
 The fortification's overall design is not only practical for defense but also serves as an aesthetic representation of the era's architectural trends. As you explore the site, take note of the intricate stonework and any surviving decorative elements that provide insights into the cultural influences of the time.
 

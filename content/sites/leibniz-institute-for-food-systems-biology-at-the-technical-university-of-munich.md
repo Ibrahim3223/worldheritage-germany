@@ -48,9 +48,9 @@ Visitors can expect a well-organized environment that encourages interaction amo
 
 ## Visiting Information
 
-Reaching the Leibniz-Institute for Food Systems Biology in Freising is convenient, given its proximity to Munich. Travelers can access the site using various modes of transportation, including trains and buses. Freising is well-connected to Munich’s public transport network, making it an accessible destination for both local and international visitors.
+Reaching the Leibniz-Institute for Food Systems Biology in Freising is convenient, given its proximity to Munich. Travelers can access the site using various modes of transportation, including trains and buses. Freising is well-connected to Munich's public transport network, making it an accessible destination for both local and international visitors.
 
-Before planning your visit, it is advisable to check the official website for current information regarding hours, prices, and specific visitor guidelines. It's important to note that the institute may have designated visiting hours, and it’s prudent to confirm any entry requirements ahead of time.
+Before planning your visit, it is advisable to check the official website for current information regarding hours, prices, and specific visitor guidelines. It's important to note that the institute may have designated visiting hours, and it's prudent to confirm any entry requirements ahead of time.
 
 Visitors should allocate sufficient time to explore the institute and its offerings. Depending on the nature of your visit—whether attending a seminar, participating in a workshop, or simply touring the facilities—time needed may vary. Engaging with the staff and researchers can provide deeper insights into the work being done at the institute.
 

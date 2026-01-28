@@ -66,7 +66,7 @@ While Weltenburg Abbey itself is a significant attraction, the surrounding area 
 
 3. **Befreiungshalle**: A short drive from the abbey, this impressive monument commemorates the liberation of Bavaria from Napoleonic rule and offers panoramic views of the surrounding countryside.
 
-4. **St. George’s Church in Weltenburg**: This historic church adjacent to the abbey features beautiful Baroque architecture and is worth a visit for its artistic details.
+4. **St. George's Church in Weltenburg**: This historic church adjacent to the abbey features beautiful Baroque architecture and is worth a visit for its artistic details.
 
 5. **Regensburg**: A UNESCO World Heritage site, this nearby city is renowned for its medieval architecture, vibrant cultural scene, and historical significance, making it an excellent complement to your trip.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Weltenburg Abbey, consider the following insid
 
 - **Crowd Avoidance**: To enjoy a more serene experience, visit during weekdays or early in the morning. Weekends and public holidays often see a higher influx of visitors.
 
-- **Guided Tours**: If available, join a guided tour to gain deeper insights into the abbey’s history and architecture. Guides can provide valuable context and stories that enhance your understanding of the site.
+- **Guided Tours**: If available, join a guided tour to gain deeper insights into the abbey's history and architecture. Guides can provide valuable context and stories that enhance your understanding of the site.
 
 ## Practical Information
 
@@ -116,4 +116,4 @@ Facilities may be available, but check the official website for current informat
 ### What should I wear?
 Dress comfortably and appropriately, considering the spiritual nature of the site. Layers are advisable for variable weather conditions. 
 
-Weltenburg Abbey offers a unique blend of spiritual heritage and cultural history, making it a noteworthy stop for those exploring the rich tapestry of Germany’s monastic sites.
+Weltenburg Abbey offers a unique blend of spiritual heritage and cultural history, making it a noteworthy stop for those exploring the rich tapestry of Germany's monastic sites.

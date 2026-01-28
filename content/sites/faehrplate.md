@@ -62,7 +62,7 @@ While Fährplate itself is a tranquil destination, several attractions in the su
 
 ## Insider Tips
 
-When visiting Fährplate, photography enthusiasts should take advantage of the island’s natural beauty during the golden hours of sunrise and sunset for the best light. To avoid crowds, consider visiting on weekdays when fewer tourists are likely to be present. The peaceful surroundings are perfect for capturing the essence of the island, so bring along a camera to document your experience.
+When visiting Fährplate, photography enthusiasts should take advantage of the island's natural beauty during the golden hours of sunrise and sunset for the best light. To avoid crowds, consider visiting on weekdays when fewer tourists are likely to be present. The peaceful surroundings are perfect for capturing the essence of the island, so bring along a camera to document your experience.
 
 ## Practical Information
 

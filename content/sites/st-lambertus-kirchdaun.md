@@ -86,7 +86,7 @@ If you are visiting during the warmer months, be sure to stay hydrated, while in
 A visit typically requires about an hour, allowing time to explore both the interior and exterior of the church.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always good practice to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's always good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on any available guided tours or educational programs that may enhance your visit.

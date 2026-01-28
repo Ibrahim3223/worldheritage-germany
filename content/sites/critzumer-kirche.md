@@ -48,7 +48,7 @@ The interior space is likely adorned with elements that enhance its spiritual am
 
 ## Visiting Information
 
-When planning a visit to Critzumer Kirche, it’s advisable to check the official website for current information regarding opening hours and potential entry fees. The church is accessible by various means of transport, including personal vehicles and public transport options available in the Jemgum region. Visitors can expect a tranquil environment, perfect for quiet reflection and exploration.
+When planning a visit to Critzumer Kirche, it's advisable to check the official website for current information regarding opening hours and potential entry fees. The church is accessible by various means of transport, including personal vehicles and public transport options available in the Jemgum region. Visitors can expect a tranquil environment, perfect for quiet reflection and exploration.
 
 Typically, a visit to Critzumer Kirche may take around an hour, allowing ample time to appreciate its architecture, take photographs, and perhaps engage in personal reflection or prayer. The best times to visit are often during weekdays when the church is less crowded, providing a peaceful atmosphere for contemplation.
 
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekday mornings or early afternoons. 
 
 ## Practical Information
 
-When visiting Critzumer Kirche, it’s advisable to bring a camera to capture the beautiful architecture and surroundings. If you plan to stay for a while, consider bringing a small notebook for jotting down thoughts or reflections inspired by the site.
+When visiting Critzumer Kirche, it's advisable to bring a camera to capture the beautiful architecture and surroundings. If you plan to stay for a while, consider bringing a small notebook for jotting down thoughts or reflections inspired by the site.
 
 Seasonal considerations may affect your visit. Spring and autumn can offer pleasant weather for exploring the area, while winter may provide a serene, quiet atmosphere. Always check the local weather forecast to ensure a comfortable experience.
 
@@ -93,7 +93,7 @@ Check the official website for information on guided tours and availability.
 Weekdays, especially in the morning or early afternoon, are ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s best to consult the official website for specific details.
+Accessibility information may vary, so it's best to consult the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and availability.

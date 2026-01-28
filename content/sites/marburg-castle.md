@@ -46,7 +46,7 @@ Marburg Castle is a captivating example of medieval architecture, characterized 
 
 One of the notable features of Marburg Castle is the large courtyard that lies at its heart. This open space is surrounded by various buildings, including the impressive Palas, which was the residence of the landgraves. The Palas is distinguished by its ornate design and large windows, allowing for natural light to filter into the rooms, creating an inviting atmosphere.
 
-Visitors can also explore the castle’s chapel, which is an architectural highlight with its intricate details and historical significance. The chapel has been a site for various religious ceremonies, further emphasizing the castle's role in the spiritual life of Marburg. 
+Visitors can also explore the castle's chapel, which is an architectural highlight with its intricate details and historical significance. The chapel has been a site for various religious ceremonies, further emphasizing the castle's role in the spiritual life of Marburg. 
 
 The castle's towers provide vantage points for visitors to appreciate the surrounding landscape. While the castle itself is a marvel, it is the combination of its architectural features and its historical context that makes Marburg Castle a compelling destination for exploration.
 
@@ -80,7 +80,7 @@ If you're interested in guided tours, inquire in advance about availability, as 
 
 ## Practical Information
 
-When planning your visit to Marburg Castle, it’s advisable to bring comfortable walking shoes, as the terrain can be uneven and requires some uphill walking. The weather can vary, so layers are recommended, especially during cooler months. 
+When planning your visit to Marburg Castle, it's advisable to bring comfortable walking shoes, as the terrain can be uneven and requires some uphill walking. The weather can vary, so layers are recommended, especially during cooler months. 
 
 Seasonal considerations include potential closures or changes in hours during holidays, so checking the official website for updates is essential. Additionally, be prepared for varying crowds, particularly during tourist seasons, which may influence your experience.
 

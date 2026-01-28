@@ -52,7 +52,7 @@ Check the official website for current information regarding opening hours and t
 
 The best times to visit are generally during the spring and autumn months when the weather is pleasant, allowing for enjoyable exploration both inside and outside the palace. Be mindful of any special events or exhibitions that may be taking place, as these can enhance your experience and provide additional insights into the cultural significance of the site.
 
-During your visit, expect to encounter informative displays and possibly guided tours, which can enrich your understanding of the palace’s history and architecture. 
+During your visit, expect to encounter informative displays and possibly guided tours, which can enrich your understanding of the palace's history and architecture. 
 
 ## Nearby Attractions
 
@@ -95,7 +95,7 @@ A visit to Palais Schloßplatz 5 b typically requires at least a couple of hours
 Photography policies may vary, so it's best to check the guidelines upon arrival to ensure compliance with any restrictions.
 
 ### Are there guided tours?
-Guided tours may be available, enriching your understanding of the palace’s history and architecture. Check the official website for more details on offerings.
+Guided tours may be available, enriching your understanding of the palace's history and architecture. Check the official website for more details on offerings.
 
 ### What's the best time to visit?
 The best times to visit are generally during the spring and autumn months for pleasant weather, but check the official website for specific events that may enhance your experience.
@@ -107,7 +107,7 @@ Accessibility options may vary, so it's advisable to check the official website 
 Ticket purchasing options may be available online. Check the official website for current information on ticket availability and pricing.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site or nearby. It’s best to check the official website for details regarding restrooms and dining options.
+Facilities may be available on-site or nearby. It's best to check the official website for details regarding restrooms and dining options.
 
 ### What should I wear?
 Dress comfortably and consider layering, especially if visiting during variable weather conditions. Comfortable shoes are recommended for walking.

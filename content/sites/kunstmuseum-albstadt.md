@@ -60,7 +60,7 @@ The best times to visit are often during special exhibitions or events, which ca
 
 Kunstmuseum Albstadt is ideally situated near several attractions that enhance the cultural experience of visitors. Nearby places of interest include:
 
-1. **Historical Landmarks**: Explore the rich history of Albstadt through its various historical sites that reflect the region’s heritage.
+1. **Historical Landmarks**: Explore the rich history of Albstadt through its various historical sites that reflect the region's heritage.
 2. **Natural Parks**: The surrounding natural landscapes provide opportunities for hiking and outdoor activities, perfect for those who enjoy nature.
 3. **Local Cafés and Shops**: Experience the local culture by visiting nearby cafés and shops that offer regional products and cuisine.
 4. **Art Galleries**: Discover additional art venues in the area that complement the offerings at Kunstmuseum Albstadt, providing a broader context of the local art scene.
@@ -87,7 +87,7 @@ When visiting Kunstmuseum Albstadt, there are a few practical considerations to 
 Most visitors spend about two to three hours at Kunstmuseum Albstadt, allowing ample time to explore the exhibitions and engage with any events.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to verify the rules upon entry or check the official website for specific guidelines.
+Photography policies may vary by exhibition. It's best to verify the rules upon entry or check the official website for specific guidelines.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be offered during special exhibitions or events.

@@ -42,7 +42,7 @@ The cultural significance of Heiligenburg Castle extends beyond its architectura
 
 The architectural features of Heiligenburg Castle are indicative of medieval design, characterized by robust stone structures built for defense and utility. While specific details about the castle's layout and dimensions are not provided, the remnants suggest a design that included fortified walls and watchtowers, typical of castles from this era. 
 
-Visitors can explore the ruins that reveal hints of the castle’s former grandeur. The walls, though weathered, still convey the strength of the construction methods used centuries ago. The strategic placement of the castle on the hill would have allowed for an advantageous view of the surrounding area, further enhancing its defensive capabilities.
+Visitors can explore the ruins that reveal hints of the castle's former grandeur. The walls, though weathered, still convey the strength of the construction methods used centuries ago. The strategic placement of the castle on the hill would have allowed for an advantageous view of the surrounding area, further enhancing its defensive capabilities.
 
 As a castle ruin, Heiligenburg offers a canvas for imagination. The remains invite visitors to picture the bustling life that once filled its corridors, from noble gatherings to the daily activities of those who called it home. The natural landscape surrounding the castle adds to its charm, creating a serene atmosphere that contrasts with its historical significance.
 
@@ -73,7 +73,7 @@ Crowds may be lighter during weekdays or outside of peak tourist seasons, offeri
 
 ## Practical Information
 
-When preparing for your trip to Heiligenburg Castle, it’s important to bring comfortable walking shoes, as the terrain may involve uneven surfaces. Depending on the season, consider dressing in layers to accommodate fluctuating temperatures, especially in the cooler months. 
+When preparing for your trip to Heiligenburg Castle, it's important to bring comfortable walking shoes, as the terrain may involve uneven surfaces. Depending on the season, consider dressing in layers to accommodate fluctuating temperatures, especially in the cooler months. 
 
 Water and snacks can enhance your experience, allowing you to take breaks while enjoying the surroundings. Always check the weather forecast before your visit to ensure a pleasant experience.
 

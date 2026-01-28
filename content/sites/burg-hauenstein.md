@@ -71,7 +71,7 @@ For those looking to capture the essence of Burg Hauenstein through photography,
 
 ## Practical Information
 
-When planning your visit to Burg Hauenstein, it’s wise to bring essentials such as comfortable walking shoes, water, and a camera. Seasonal considerations should also be taken into account; spring and summer may offer the most pleasant weather for outdoor exploration, while fall can present a stunning backdrop with changing foliage.
+When planning your visit to Burg Hauenstein, it's wise to bring essentials such as comfortable walking shoes, water, and a camera. Seasonal considerations should also be taken into account; spring and summer may offer the most pleasant weather for outdoor exploration, while fall can present a stunning backdrop with changing foliage.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ Guided tours may be available, providing deeper insights into the history and ar
 The best time to visit is often during pleasant weather, which enhances the outdoor experience. Weekdays may also be less crowded.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s recommended to check the official website for details regarding wheelchair access.
+Accessibility information is not specified, so it's recommended to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary. Check the official website for current information on online ticket availability.

@@ -36,7 +36,7 @@ The origins of Burgwall Klempenow are rooted in the broader context of early med
 
 Archaeological studies in the region indicate that Burgwall Klempenow was likely a focal point for local communities, serving not only as a military stronghold but also as a center for trade and social interaction. The construction techniques employed in the fort's creation reflect a sophisticated understanding of earthworks, with walls designed to withstand sieges and provide refuge for inhabitants. 
 
-The cultural importance of Burgwall Klempenow is underscored by its connection to the early societies that inhabited the area. These communities relied on such fortifications for protection and stability, shaping the socio-political landscape of their time. Today, the site stands as a reminder of the resilience and adaptability of early European societies, inviting contemporary visitors to appreciate the complexities of their ancestors’ lives.
+The cultural importance of Burgwall Klempenow is underscored by its connection to the early societies that inhabited the area. These communities relied on such fortifications for protection and stability, shaping the socio-political landscape of their time. Today, the site stands as a reminder of the resilience and adaptability of early European societies, inviting contemporary visitors to appreciate the complexities of their ancestors' lives.
 
 ## Architecture and Features 
 

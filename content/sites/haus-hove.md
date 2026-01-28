@@ -44,13 +44,13 @@ Haus Hove showcases a distinctive architectural style that is representative of 
 
 Prominent features of Haus Hove may include decorative motifs, unique window designs, and structural elements that reflect the local architectural vernacular. The ensemble's layout and orientation are also significant, offering insights into the functional considerations of its design.
 
-Visitors can expect to encounter a variety of materials used in the construction, each selected for both aesthetic appeal and durability. The interplay of light and shadow across the surfaces of the building adds to the ensemble’s visual dynamism, making it an engaging subject for photography and exploration.
+Visitors can expect to encounter a variety of materials used in the construction, each selected for both aesthetic appeal and durability. The interplay of light and shadow across the surfaces of the building adds to the ensemble's visual dynamism, making it an engaging subject for photography and exploration.
 
 Overall, Haus Hove stands as a remarkable example of architectural heritage, inviting visitors to appreciate not only its beauty but also the craftsmanship and cultural narratives embedded within its walls.
 
 ## Visiting Information
 
-Haus Hove is accessible via various modes of transportation, making it an easy addition to your travel itinerary. Whether you are driving or utilizing public transport, the site’s location is convenient for both local residents and visitors from afar. For the most accurate information regarding hours of operation and ticket prices, it is advisable to check the official website before planning your visit.
+Haus Hove is accessible via various modes of transportation, making it an easy addition to your travel itinerary. Whether you are driving or utilizing public transport, the site's location is convenient for both local residents and visitors from afar. For the most accurate information regarding hours of operation and ticket prices, it is advisable to check the official website before planning your visit.
 
 When visiting, expect to spend a few hours exploring the ensemble and absorbing its history and architecture. The site can attract visitors during peak seasons, so planning your visit for early mornings or weekdays can enhance your experience by avoiding larger crowds.
 
@@ -61,7 +61,7 @@ The best times to visit may correlate with local events or seasonal changes, as 
 While exploring Haus Hove, consider visiting these nearby attractions to enhance your journey:
 
 1. **Volmarstein Castle** - A historical castle nearby that offers a glimpse into the region's medieval past.
-2. **St. John’s Church** - A beautiful church known for its stunning architecture and serene ambiance.
+2. **St. John's Church** - A beautiful church known for its stunning architecture and serene ambiance.
 3. **The Ruhr Valley** - A picturesque area for outdoor activities and scenic views, perfect for a leisurely stroll or hike.
 4. **Local Museums** - Explore museums in the area that focus on the cultural and historical aspects of Volmarstein and its surroundings.
 

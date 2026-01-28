@@ -70,7 +70,7 @@ For those looking to extend their exploration beyond Burg Hohlach, several nearb
 
 To capture the best photographs of Burg Hohlach, consider visiting during the golden hours of sunrise or sunset when the light casts a warm glow on the castle. This not only enhances the visual appeal but also creates a serene atmosphere for exploration. 
 
-To avoid crowds, it’s advisable to visit on weekdays, particularly during the shoulder seasons of spring and autumn when tourism is generally lower. This will allow for a more intimate experience while exploring the castle and its surroundings.
+To avoid crowds, it's advisable to visit on weekdays, particularly during the shoulder seasons of spring and autumn when tourism is generally lower. This will allow for a more intimate experience while exploring the castle and its surroundings.
 
 ## Practical Information
 

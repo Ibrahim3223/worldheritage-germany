@@ -74,7 +74,7 @@ While visiting the Bayerisches Moor- und Torfmuseum, consider taking the opportu
 
 To make the most of your visit to the Bayerisches Moor- und Torfmuseum, consider these insider tips:
 
-- **Photography**: While photography may be permitted in certain areas, it’s advisable to check museum policies. Capture the intriguing exhibits and any special displays, but be mindful of other visitors.
+- **Photography**: While photography may be permitted in certain areas, it's advisable to check museum policies. Capture the intriguing exhibits and any special displays, but be mindful of other visitors.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or early in the day. This will allow you to engage more deeply with the exhibits without the distraction of large crowds.
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Bayerisches Moor- und Torfmuseum, here are 
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may spend significant time exploring the exhibits and surrounding grounds. A refillable water bottle can also be handy, especially during warmer months.
 
-- **Seasonal Considerations**: Depending on the time of year, the museum’s offerings may vary. Be sure to check the website for seasonal programs or special events that may enhance your visit.
+- **Seasonal Considerations**: Depending on the time of year, the museum's offerings may vary. Be sure to check the website for seasonal programs or special events that may enhance your visit.
 
 ## Frequently Asked Questions
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Bayerisches Moor- und Torfmuseum, here are 
 Visitors typically spend a few hours at the museum to fully engage with the exhibits and programs.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival.
+Photography policies may vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any scheduled times.

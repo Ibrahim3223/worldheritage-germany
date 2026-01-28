@@ -40,7 +40,7 @@ The Torhalle itself served as the principal entrance to the convent, welcoming v
 
 Throughout the centuries, the monastery endured various challenges, including political changes and the impact of the Reformation, which reshaped many religious communities across Europe. Despite these trials, the convent at Frauenchiemsee maintained its significance as a center of spirituality and learning. The Torhalle remains a point of interest for historians and visitors alike, as it encapsulates the resilience and adaptability of monastic life.
 
-The cultural importance of the Torhalle extends beyond its physical structure. It serves as a reminder of the intersection between faith and daily life in medieval Bavaria. The stories of the monks, their contributions to agriculture, education, and the arts, and their interactions with the surrounding communities underscore the enduring impact of this site on the region’s heritage.
+The cultural importance of the Torhalle extends beyond its physical structure. It serves as a reminder of the intersection between faith and daily life in medieval Bavaria. The stories of the monks, their contributions to agriculture, education, and the arts, and their interactions with the surrounding communities underscore the enduring impact of this site on the region's heritage.
 
 ## Architecture and Features
 

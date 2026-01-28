@@ -22,7 +22,7 @@ images:
 
 Judensiedlung in Altenstadt (Iller) is a remarkable architectural ensemble in the region of Schwaben, Germany, that encapsulates the historical essence of Jewish life in the area. This site, marked by its unique architectural characteristics and cultural significance, provides visitors with an opportunity to delve into the rich heritage of Jewish communities in Germany. Situated at coordinates 48.163392, 10.113082, the Judensiedlung is not just a collection of buildings; it is a narrative woven through the lives of those who once inhabited this community.
 
-The significance of the Judensiedlung extends beyond its physical structures. It serves as a poignant reminder of the Jewish presence in Schwaben and the broader historical context of Jewish life in Germany. The architectural ensemble reflects the amalgamation of cultural influences that shaped the community’s identity over the years. For anyone interested in architecture, history, or cultural studies, a visit to this site is both enlightening and thought-provoking.
+The significance of the Judensiedlung extends beyond its physical structures. It serves as a poignant reminder of the Jewish presence in Schwaben and the broader historical context of Jewish life in Germany. The architectural ensemble reflects the amalgamation of cultural influences that shaped the community's identity over the years. For anyone interested in architecture, history, or cultural studies, a visit to this site is both enlightening and thought-provoking.
 
 As you explore the Judensiedlung, you will encounter a landscape that speaks volumes about resilience, community, and the enduring legacy of a culture that has faced numerous challenges throughout history. This guide will help you navigate the site, offering insights into its history, architectural features, and practical tips for your visit.
 
@@ -38,7 +38,7 @@ The architectural ensemble serves as a reminder of the vibrant, albeit complex, 
 
 The Judensiedlung in Altenstadt is characterized by its distinctive architectural features that represent the styles prevalent during its period of significance. While specific details about individual buildings are not provided, the ensemble as a whole reflects a harmonious integration of various architectural elements that tell the story of its inhabitants.
 
-Visitors can expect to see structures that exhibit traditional craftsmanship, showcasing the skill and artistry of builders who contributed to the community’s development. The layout of the site is likely to illustrate the typical organization of a Jewish settlement, including residential buildings, communal spaces, and possibly areas designated for religious observance.
+Visitors can expect to see structures that exhibit traditional craftsmanship, showcasing the skill and artistry of builders who contributed to the community's development. The layout of the site is likely to illustrate the typical organization of a Jewish settlement, including residential buildings, communal spaces, and possibly areas designated for religious observance.
 
 The architecture of the Judensiedlung is not merely functional; it is a representation of identity and community. The design choices made by the builders often reflect the cultural influences that shaped the Jewish experience in Germany. Whether through the choice of materials, decorative elements, or spatial organization, the ensemble encapsulates the life and aspirations of its former residents.
 

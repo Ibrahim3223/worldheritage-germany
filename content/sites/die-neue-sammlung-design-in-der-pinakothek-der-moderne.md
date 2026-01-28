@@ -48,7 +48,7 @@ The museum's commitment to modern design extends to its furniture within the pub
 
 ## Visiting Information
 
-Visiting Die Neue Sammlung is a straightforward endeavor, with various transport options available for reaching the museum. Located in the heart of Munich, it is accessible via public transportation, including trams and buses, which connect to major city hubs. For those driving, there are parking facilities nearby, but it’s advisable to check for availability and any associated fees.
+Visiting Die Neue Sammlung is a straightforward endeavor, with various transport options available for reaching the museum. Located in the heart of Munich, it is accessible via public transportation, including trams and buses, which connect to major city hubs. For those driving, there are parking facilities nearby, but it's advisable to check for availability and any associated fees.
 
 When planning your visit, check the official website for current information on hours and ticket prices. The museum typically welcomes visitors throughout the week, but specific days and times may vary, especially during holidays or special events. 
 

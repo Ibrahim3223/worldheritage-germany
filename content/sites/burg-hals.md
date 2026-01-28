@@ -46,7 +46,7 @@ Visitors planning a trip to Burg Hals can expect a fascinating exploration of me
 
 Check the official website for current information regarding visiting hours and ticket prices, as these can vary throughout the year. The castle is likely to offer guided tours, which can enhance your understanding of the site and its significance. Allowing at least a couple of hours for your visit is advisable to fully appreciate the castle's features and the surrounding landscape.
 
-The best times to visit Burg Hals may be during the spring and early autumn when the weather is generally pleasant, and the natural scenery is at its most vibrant. Be prepared for a bit of walking, as the castle’s architecture may require some exploration on foot, and wear comfortable shoes.
+The best times to visit Burg Hals may be during the spring and early autumn when the weather is generally pleasant, and the natural scenery is at its most vibrant. Be prepared for a bit of walking, as the castle's architecture may require some exploration on foot, and wear comfortable shoes.
 
 ## Nearby Attractions
 
@@ -91,7 +91,7 @@ Guided tours may be available to provide deeper insights into the castle's histo
 Spring and early autumn are ideal times to visit, as the weather is typically pleasant and the surrounding landscape is vibrant.
 
 ### Is it wheelchair accessible?
-Check the official website for current accessibility information regarding the castle’s facilities.
+Check the official website for current accessibility information regarding the castle's facilities.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Visit the official website for the latest details.

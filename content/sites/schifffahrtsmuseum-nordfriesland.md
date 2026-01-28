@@ -28,13 +28,13 @@ image_srcset:
 
 The Schifffahrtsmuseum Nordfriesland, located in the charming town of Husum, Germany, serves as a key institution dedicated to maritime heritage. This museum highlights the rich history of seafaring in the Nordfriesland region and provides visitors with insights into the significance of maritime activities in shaping local culture and economy. With its engaging exhibits, the museum reflects the profound relationship between the people of this area and the North Sea, showcasing how this connection has influenced their lives over centuries.
 
-Husum itself is a picturesque coastal town characterized by its historic buildings and vibrant atmosphere. The museum stands as a crucial anchor for understanding the maritime narrative that has shaped both the town and the broader region. Visitors can immerse themselves in the unique stories of ships, sailors, and the evolving maritime industry, revealing the importance of the sea to local communities. The Schifffahrtsmuseum Nordfriesland invites exploration for everyone, from maritime enthusiasts to casual visitors, offering a compelling glimpse into the sea’s impact on life in Nordfriesland.
+Husum itself is a picturesque coastal town characterized by its historic buildings and vibrant atmosphere. The museum stands as a crucial anchor for understanding the maritime narrative that has shaped both the town and the broader region. Visitors can immerse themselves in the unique stories of ships, sailors, and the evolving maritime industry, revealing the importance of the sea to local communities. The Schifffahrtsmuseum Nordfriesland invites exploration for everyone, from maritime enthusiasts to casual visitors, offering a compelling glimpse into the sea's impact on life in Nordfriesland.
 
 ## History and Significance
 
-While the specific founding details of the Schifffahrtsmuseum Nordfriesland are not readily available, its establishment reflects a broader movement in Germany to preserve and promote maritime history. The museum serves not only as a repository of artifacts but also as a cultural center that celebrates the region’s rich nautical traditions. Husum’s location along the North Sea has historically made it a vital hub for trade, fishing, and shipbuilding, which are central themes within the museum’s exhibits.
+While the specific founding details of the Schifffahrtsmuseum Nordfriesland are not readily available, its establishment reflects a broader movement in Germany to preserve and promote maritime history. The museum serves not only as a repository of artifacts but also as a cultural center that celebrates the region's rich nautical traditions. Husum's location along the North Sea has historically made it a vital hub for trade, fishing, and shipbuilding, which are central themes within the museum's exhibits.
 
-The museum's collection includes a variety of items that illustrate the maritime heritage of Nordfriesland. Artifacts such as ship models, navigational tools, and historical documents tell the story of the region’s seafaring past. These items provide context for understanding how local communities adapted to and thrived in a maritime environment. By contextualizing maritime activities within the social and economic frameworks of the time, the museum highlights the significance of the sea in the development of local identity.
+The museum's collection includes a variety of items that illustrate the maritime heritage of Nordfriesland. Artifacts such as ship models, navigational tools, and historical documents tell the story of the region's seafaring past. These items provide context for understanding how local communities adapted to and thrived in a maritime environment. By contextualizing maritime activities within the social and economic frameworks of the time, the museum highlights the significance of the sea in the development of local identity.
 
 In addition to its exhibitions, the museum plays a role in educational outreach. Programs designed for schools and community groups encourage a deeper understanding of maritime history and its relevance today. The Schifffahrtsmuseum Nordfriesland thus stands as a vital institution for preserving the collective memory of a region intrinsically linked to the sea.
 
@@ -95,7 +95,7 @@ While the museum may offer guided tours, availability can vary. Check the offici
 Weekdays tend to be less crowded, providing a more relaxed experience. Seasonal events may also influence the best times to visit.
 
 ### Is it wheelchair accessible?
-Accessibility options are typically available, but it’s best to check the official website for specific details on facilities and accommodations.
+Accessibility options are typically available, but it's best to check the official website for specific details on facilities and accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for the latest information on online ticket sales.

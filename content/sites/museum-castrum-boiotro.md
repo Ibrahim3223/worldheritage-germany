@@ -44,7 +44,7 @@ Notable features include interactive displays that engage visitors of all ages, 
 
 Visiting Museum Castrum Boiotro is straightforward, with various transport options available for reaching this central location in Passau. Travelers can utilize local public transport systems, which provide convenient access to the museum. If driving, there may be parking facilities available nearby, though it's advisable to check for the latest updates on parking options.
 
-It’s important to check the official website for current hours and ticket prices as these can change seasonally. Typically, visitors should plan to spend a few hours exploring the museum to fully appreciate its offerings. The museum can attract crowds during peak tourist seasons, so visiting during weekdays or early in the day can enhance the experience.
+It's important to check the official website for current hours and ticket prices as these can change seasonally. Typically, visitors should plan to spend a few hours exploring the museum to fully appreciate its offerings. The museum can attract crowds during peak tourist seasons, so visiting during weekdays or early in the day can enhance the experience.
 
 The best times to visit are generally during the spring and autumn months when the weather is mild, and the city is less crowded. This allows for a more leisurely exploration of the exhibits and a more enjoyable overall experience.
 
@@ -87,7 +87,7 @@ Typically, visitors should allocate around 2-3 hours to fully explore the museum
 Photography policies vary; check with museum staff or the official website for specific guidelines.
 
 ### Are there guided tours?
-Guided tours may be available; it’s best to check the official website for current offerings and schedules.
+Guided tours may be available; it's best to check the official website for current offerings and schedules.
 
 ### What's the best time to visit?
 Visiting during weekdays or off-peak seasons can provide a more enjoyable experience with fewer crowds.
@@ -99,7 +99,7 @@ Check the official website for information on accessibility features and accommo
 Ticket purchasing options may vary; visit the official website for current information about online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and dining options may be available; it’s advisable to check the official website for specifics.
+Facilities such as restrooms and dining options may be available; it's advisable to check the official website for specifics.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the season and weather conditions. Comfortable shoes are recommended for walking around the museum.

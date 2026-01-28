@@ -66,7 +66,7 @@ For those looking to expand their exploration beyond the Evangelische Kirche Vol
 
 To make the most of your visit to the Evangelische Kirche Vollmarshausen, consider the following tips:
 
-- **Photography**: Be respectful of the sacred environment while capturing images. It’s advisable to ask if photography is permitted, especially during services.
+- **Photography**: Be respectful of the sacred environment while capturing images. It's advisable to ask if photography is permitted, especially during services.
 - **Crowd Avoidance**: Aim to visit during weekdays or early in the morning on weekends to sidestep larger crowds, especially if you prefer a quieter experience.
 - **Engage with Locals**: If possible, speak with locals who may provide additional insights and stories about the church's significance in their lives.
 
@@ -74,7 +74,7 @@ To make the most of your visit to the Evangelische Kirche Vollmarshausen, consid
 
 When preparing for your visit, keep in mind a few practical considerations:
 
-- **What to Bring**: It’s advisable to carry a small bag with essentials such as water, a light jacket, and any personal items you may need.
+- **What to Bring**: It's advisable to carry a small bag with essentials such as water, a light jacket, and any personal items you may need.
 - **Seasonal Considerations**: Be aware of the weather conditions during your visit. The church may not have heating or cooling, so dress appropriately for the climate.
 - **Respectful Attire**: As a place of worship, dress modestly to show respect for the sacred space.
 
@@ -84,7 +84,7 @@ When preparing for your visit, keep in mind a few practical considerations:
 Visitors typically spend about one hour to appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check with church officials upon arrival.
+Photography policies may vary. It's best to check with church officials upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding any available guided tours or special events.

@@ -28,11 +28,11 @@ image_srcset:
 
 Bauhaus Dessau is a landmark of modernist architecture and design, situated in the city of Dessau-Roßlau, Germany. Renowned for its pivotal role in the Bauhaus movement, which revolutionized art, architecture, and design in the early 20th century, this museum complex stands as a significant cultural institution. The Bauhaus school, founded by Walter Gropius, focused on unifying art and technology, which is clearly reflected in the innovative structures and design philosophies that emerged from this period. Visitors to Bauhaus Dessau can expect to immerse themselves in a world where form meets function, experiencing firsthand the principles that have influenced countless architects and designers around the globe.
 
-As you explore this significant site, you’ll not only encounter striking architectural features but also gain insight into the educational philosophies that shaped modern design. Established in a context of social and political change, the Bauhaus movement sought to create a new artistic language that resonated with the needs of contemporary society. Today, Bauhaus Dessau serves as both a museum and a center for research, continuing the legacy of its founders while engaging with new generations of artists and designers.
+As you explore this significant site, you'll not only encounter striking architectural features but also gain insight into the educational philosophies that shaped modern design. Established in a context of social and political change, the Bauhaus movement sought to create a new artistic language that resonated with the needs of contemporary society. Today, Bauhaus Dessau serves as both a museum and a center for research, continuing the legacy of its founders while engaging with new generations of artists and designers.
 
 ## History and Significance
 
-The Bauhaus movement originated in Weimar, Germany, in 1919 under the visionary leadership of Walter Gropius. Gropius envisioned a school that would integrate crafts and fine arts, fostering a new approach to design that emphasized functionality and simplicity. The movement eventually relocated to Dessau in 1925, where the iconic Bauhaus building was constructed. This period marked a significant expansion of the school’s influence, attracting notable figures such as Paul Klee, Wassily Kandinsky, and Marcel Breuer, who contributed to its legacy.
+The Bauhaus movement originated in Weimar, Germany, in 1919 under the visionary leadership of Walter Gropius. Gropius envisioned a school that would integrate crafts and fine arts, fostering a new approach to design that emphasized functionality and simplicity. The movement eventually relocated to Dessau in 1925, where the iconic Bauhaus building was constructed. This period marked a significant expansion of the school's influence, attracting notable figures such as Paul Klee, Wassily Kandinsky, and Marcel Breuer, who contributed to its legacy.
 
 The Bauhaus Dessau building complex was not merely an educational institution but also a laboratory for experimentation in architecture and design. The school focused on the principles of mass production combined with artistic creativity, which would come to define modernism. This approach addressed the socio-economic challenges of the time, promoting the idea that good design should be accessible to all. The building itself, designed by Gropius, exemplifies these ideals through its functional yet aesthetically pleasing design, characterized by clean lines, open spaces, and the use of industrial materials.
 
@@ -97,7 +97,7 @@ A visit typically lasts around 2-4 hours, depending on your interest in the exhi
 Photography is generally permitted, but be aware of any specific restrictions in exhibition areas.
 
 ### Are there guided tours?
-Yes, guided tours are available and can enhance your understanding of the site’s history and significance.
+Yes, guided tours are available and can enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 Weekdays and early mornings are ideal for avoiding crowds and enjoying a quieter experience.

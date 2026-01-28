@@ -105,7 +105,7 @@ There are no structured guided tours specifically for Uettelsheimer See, but loc
 The warmer months, particularly spring and summer, are ideal for outdoor activities and wildlife observation.
 
 ### Is it wheelchair accessible?
-The paths around the lake are generally accessible, but it’s best to check specific areas for mobility concerns.
+The paths around the lake are generally accessible, but it's best to check specific areas for mobility concerns.
 
 ### Can I buy tickets online?
 There is no entry fee for Uettelsheimer See, so tickets are not required.

@@ -70,11 +70,11 @@ While visiting the Palatine State Library, take the opportunity to explore other
 
 When visiting the Palatine State Library, photography may be limited in certain areas to protect the integrity of the collections, so be sure to check for any restrictions. To avoid crowds, consider visiting during the earlier hours of the day or on weekdays when foot traffic is lighter. This will allow you to fully immerse yourself in the tranquil atmosphere and enjoy the library's resources without distraction.
 
-If you have specific interests, do not hesitate to ask the staff for recommendations on which sections or collections may be particularly engaging. Engaging with knowledgeable staff can enhance your experience and provide deeper insights into the library’s treasures.
+If you have specific interests, do not hesitate to ask the staff for recommendations on which sections or collections may be particularly engaging. Engaging with knowledgeable staff can enhance your experience and provide deeper insights into the library's treasures.
 
 ## Practical Information
 
-As you prepare for your visit to the Palatine State Library, it’s advisable to bring a few essential items. A notebook and pen can be helpful if you wish to take notes or jot down thoughts during your exploration. Given that the library may have varying temperature controls, dressing in layers will ensure your comfort throughout your visit.
+As you prepare for your visit to the Palatine State Library, it's advisable to bring a few essential items. A notebook and pen can be helpful if you wish to take notes or jot down thoughts during your exploration. Given that the library may have varying temperature controls, dressing in layers will ensure your comfort throughout your visit.
 
 Seasonal considerations may also play a role in your experience. Spring and autumn generally offer pleasant weather for walking around Speyer, while summer can be warm. Check the official website for any seasonal events or changes in hours that may affect your visit.
 

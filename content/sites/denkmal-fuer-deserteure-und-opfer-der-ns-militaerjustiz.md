@@ -38,11 +38,11 @@ The Denkmal für Deserteure und Opfer der NS-Militärjustiz memorializes a criti
 
 The cultural importance of this memorial lies not only in its dedication to those who resisted the Nazi regime but also in its role as a conversation starter about broader themes of justice, human rights, and the moral implications of war. By commemorating these individuals, the Denkmal für Deserteure und Opfer der NS-Militärjustiz contributes to a growing recognition of the need to remember and learn from the past. It challenges visitors to reflect on the responsibilities of citizenship and the importance of standing up against injustice, even at great personal risk.
 
-Situated in a city that witnessed significant wartime events, the memorial also serves as part of Cologne's collective memory. It reminds visitors of the city’s complex history and the diverse narratives that shape our understanding of the past. As a public artwork, it engages the community and invites ongoing dialogue about the moral choices individuals face during times of conflict, making it a vital part of the heritage landscape in Cologne.
+Situated in a city that witnessed significant wartime events, the memorial also serves as part of Cologne's collective memory. It reminds visitors of the city's complex history and the diverse narratives that shape our understanding of the past. As a public artwork, it engages the community and invites ongoing dialogue about the moral choices individuals face during times of conflict, making it a vital part of the heritage landscape in Cologne.
 
 ## Architecture and Features
 
-The Denkmal für Deserteure und Opfer der NS-Militärjustiz is an evocative piece of public art designed by Ruedi Baur. The memorial’s architecture is characterized by its thoughtful integration into the urban environment, creating a space that encourages contemplation and dialogue. The design reflects a minimalist aesthetic while employing powerful symbolism to convey its message.
+The Denkmal für Deserteure und Opfer der NS-Militärjustiz is an evocative piece of public art designed by Ruedi Baur. The memorial's architecture is characterized by its thoughtful integration into the urban environment, creating a space that encourages contemplation and dialogue. The design reflects a minimalist aesthetic while employing powerful symbolism to convey its message.
 
 Key features of the memorial include a series of stone elements that form a pathway, guiding visitors through the space. These stones symbolize the journey of those who resisted military service and faced persecution. The layout invites visitors to walk through and engage with the memorial on a personal level, reflecting on the choices made by those commemorated.
 
@@ -78,7 +78,7 @@ While in Cologne, visitors can explore a rich array of nearby attractions that c
 
 For visitors looking to enhance their experience at the Denkmal für Deserteure und Opfer der NS-Militärjustiz, consider the following tips:
 
-- **Photography**: The memorial’s design provides interesting angles for photography. Early morning or late afternoon light can create dramatic shadows, enhancing the visual impact of your images.
+- **Photography**: The memorial's design provides interesting angles for photography. Early morning or late afternoon light can create dramatic shadows, enhancing the visual impact of your images.
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, visit during the weekday mornings. This is typically when there are fewer visitors, allowing for quiet contemplation.
 
@@ -105,13 +105,13 @@ While there may not be specific guided tours for the memorial, local guides ofte
 Weekday mornings are generally the best time to avoid crowds and enjoy a more reflective experience.
 
 ### Is it wheelchair accessible?
-The memorial is designed to be accessible, but it’s advisable to check specific access routes when planning your visit.
+The memorial is designed to be accessible, but it's advisable to check specific access routes when planning your visit.
 
 ### Can I buy tickets online?
 Admission to the memorial is free. However, it's best to check the official website for any updates or special events.
 
 ### Are there restrooms and cafes?
-While nearby facilities may vary, it’s recommended to explore the surrounding area for restrooms and cafes before or after your visit.
+While nearby facilities may vary, it's recommended to explore the surrounding area for restrooms and cafes before or after your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to walk around the area.

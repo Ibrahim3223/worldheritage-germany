@@ -79,7 +79,7 @@ Seasonal considerations may impact your visit, so check the official website for
 Visitors typically spend around two hours exploring the museum, allowing ample time to appreciate the exhibits and engage with the information presented.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival. Generally, personal photography is permitted unless otherwise indicated.
+Photography policies may vary, so it's best to check with museum staff upon arrival. Generally, personal photography is permitted unless otherwise indicated.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may be offered at specific times or require advance booking.

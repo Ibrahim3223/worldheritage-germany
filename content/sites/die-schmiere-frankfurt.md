@@ -58,21 +58,21 @@ Expect to spend a couple of hours enjoying a performance at Die Schmiere, with a
 
 Located in the bustling city of Frankfurt, Die Schmiere is surrounded by a variety of attractions that cater to diverse interests. Here are a few notable nearby sites:
 
-1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)** - A stunning Gothic cathedral that offers visitors a glimpse into the city’s rich ecclesiastical history, featuring impressive architecture and scenic views from its tower.
+1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)** - A stunning Gothic cathedral that offers visitors a glimpse into the city's rich ecclesiastical history, featuring impressive architecture and scenic views from its tower.
 
-2. **Römer** - This historic building complex serves as Frankfurt's city hall and is a symbol of the city’s medieval heritage. The Römer is located in the picturesque Römerberg square, which is perfect for leisurely strolls.
+2. **Römer** - This historic building complex serves as Frankfurt's city hall and is a symbol of the city's medieval heritage. The Römer is located in the picturesque Römerberg square, which is perfect for leisurely strolls.
 
 3. **Städel Museum** - A major art museum that houses a vast collection of European art, ranging from the Middle Ages to contemporary works. It is an excellent destination for art lovers.
 
 4. **Palmengarten** - A beautiful botanical garden that provides a peaceful retreat from the urban environment. Visitors can explore a variety of plant species and enjoy the serene landscapes.
 
-5. **Main Tower** - For those seeking panoramic views of the city, the Main Tower offers an observation deck that showcases Frankfurt’s modern skyline and picturesque surroundings.
+5. **Main Tower** - For those seeking panoramic views of the city, the Main Tower offers an observation deck that showcases Frankfurt's modern skyline and picturesque surroundings.
 
 ## Insider Tips
 
 When visiting Die Schmiere, consider arriving early to fully enjoy the theatre's ambiance and perhaps engage with other attendees. This can also provide you with a chance to find good seating and participate in any pre-show activities.
 
-Photography may not be allowed during performances, so it’s best to check the theatre's policy regarding photography in advance. If you are interested in capturing the venue's interior, consider visiting during the day when the theatre is open for non-performance events.
+Photography may not be allowed during performances, so it's best to check the theatre's policy regarding photography in advance. If you are interested in capturing the venue's interior, consider visiting during the day when the theatre is open for non-performance events.
 
 To avoid larger crowds, try attending performances on weekdays or during less popular time slots. This can enhance your experience, allowing for a more personal connection with the performance and the space.
 

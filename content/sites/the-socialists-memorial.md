@@ -64,7 +64,7 @@ While visiting The Socialists' Memorial, several nearby attractions can enhance 
 
 2. **Biesdorf Park**: Located a short distance away, this park offers a pleasant escape with its lush greenery and walking paths, perfect for a leisurely stroll after visiting the memorial.
 
-3. **Berlin's Historical District**: A bit further afield, the historical district of Berlin offers a wealth of museums and landmarks that further illuminate the city’s rich history, including sites related to the socialist movement.
+3. **Berlin's Historical District**: A bit further afield, the historical district of Berlin offers a wealth of museums and landmarks that further illuminate the city's rich history, including sites related to the socialist movement.
 
 4. **The Karl Marx Monument**: Situated in a nearby location, this monument commemorates one of the central figures of socialism and provides additional context to the themes explored at The Socialists' Memorial.
 
@@ -96,7 +96,7 @@ When preparing for your visit to The Socialists' Memorial, keep the following pr
 A visit to The Socialists' Memorial typically requires at least an hour, allowing time for reflection and exploration of the surrounding cemetery.
 
 ### Is photography allowed?
-Photography is generally allowed, but it's important to maintain a respectful demeanor given the memorial’s somber nature.
+Photography is generally allowed, but it's important to maintain a respectful demeanor given the memorial's somber nature.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these can provide additional insights into the memorial and its historical context.

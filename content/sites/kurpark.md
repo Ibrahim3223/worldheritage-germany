@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-Kurpark, located in Wiesbaden, Germany, is a serene park that invites visitors to immerse themselves in its lush landscapes and tranquil atmosphere. This beautifully designed green space provides a refreshing escape from urban life, featuring winding paths, manicured gardens, and an array of flora that reflects the region's natural beauty. The park serves not only as a recreational area but also as a cultural landmark, embodying the essence of Wiesbaden’s historical significance as a spa town. 
+Kurpark, located in Wiesbaden, Germany, is a serene park that invites visitors to immerse themselves in its lush landscapes and tranquil atmosphere. This beautifully designed green space provides a refreshing escape from urban life, featuring winding paths, manicured gardens, and an array of flora that reflects the region's natural beauty. The park serves not only as a recreational area but also as a cultural landmark, embodying the essence of Wiesbaden's historical significance as a spa town. 
 
-As you explore Kurpark, you’ll encounter a harmonious blend of nature and culture, with elements that highlight its importance in the local community. Whether you are seeking a peaceful spot to unwind, a location for leisurely walks, or a place to appreciate nature, Kurpark offers a fulfilling experience that resonates with both locals and tourists alike.
+As you explore Kurpark, you'll encounter a harmonious blend of nature and culture, with elements that highlight its importance in the local community. Whether you are seeking a peaceful spot to unwind, a location for leisurely walks, or a place to appreciate nature, Kurpark offers a fulfilling experience that resonates with both locals and tourists alike.
 
 ## History and Significance
 
-Kurpark has its roots in Wiesbaden's development as a renowned spa town, which flourished in the 19th century. The park was established as part of the city's efforts to enhance the health benefits associated with the thermal springs that Wiesbaden is famous for. The design of Kurpark was influenced by the Romantic movement, which emphasized natural beauty and picturesque landscapes, making it a vital part of the city’s appeal.
+Kurpark has its roots in Wiesbaden's development as a renowned spa town, which flourished in the 19th century. The park was established as part of the city's efforts to enhance the health benefits associated with the thermal springs that Wiesbaden is famous for. The design of Kurpark was influenced by the Romantic movement, which emphasized natural beauty and picturesque landscapes, making it a vital part of the city's appeal.
 
 The cultural importance of Kurpark extends beyond its aesthetic appeal. It was designed not only as a recreational space but also as a social hub where visitors could partake in leisurely activities, enjoy the fresh air, and engage in social interactions. The park has been a gathering place for generations, hosting various events and activities that foster community spirit and celebrate local traditions.
 
-Throughout its history, Kurpark has undergone various modifications and enhancements to maintain its charm and functionality. The historic significance of the park is underscored by its role in promoting wellness and relaxation, aligning perfectly with Wiesbaden’s identity as a spa destination. The park continues to serve as a reminder of the city’s commitment to health, community, and the appreciation of nature.
+Throughout its history, Kurpark has undergone various modifications and enhancements to maintain its charm and functionality. The historic significance of the park is underscored by its role in promoting wellness and relaxation, aligning perfectly with Wiesbaden's identity as a spa destination. The park continues to serve as a reminder of the city's commitment to health, community, and the appreciation of nature.
 
 ## Architecture and Features
 
@@ -68,7 +68,7 @@ While Kurpark is a destination in itself, there are several attractions within c
 4. **Hessisches Staatstheater**: A cultural hub where visitors can enjoy various performances, from opera to drama, reflecting the artistic spirit of the region.
 5. **Schlossplatz**: The main square in Wiesbaden, surrounded by impressive buildings and offering a lively atmosphere with shops and cafes.
 
-These nearby attractions complement a visit to Kurpark, providing a well-rounded experience of Wiesbaden’s cultural and historical offerings.
+These nearby attractions complement a visit to Kurpark, providing a well-rounded experience of Wiesbaden's cultural and historical offerings.
 
 ## Insider Tips
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Heilig Geist, a striking church building situated in the town of Lemgo, Germany, represents a significant landmark both architecturally and culturally. This sacred space serves as a focal point within the region, inviting visitors to explore its historical depth and serene atmosphere. The church is emblematic of the area’s religious heritage and offers a glimpse into the community's spiritual life, making it an essential stop for those interested in the intersection of faith and history. 
+Heilig Geist, a striking church building situated in the town of Lemgo, Germany, represents a significant landmark both architecturally and culturally. This sacred space serves as a focal point within the region, inviting visitors to explore its historical depth and serene atmosphere. The church is emblematic of the area's religious heritage and offers a glimpse into the community's spiritual life, making it an essential stop for those interested in the intersection of faith and history. 
 
 Lemgo, located in the North Rhine-Westphalia region, is known for its rich past, characterized by medieval architecture and vibrant traditions. Heilig Geist stands at the heart of this historical context, providing a spiritual haven amidst the bustling town life. Whether you are a local resident or a traveler passing through, a visit to Heilig Geist promises moments of reflection and appreciation of the intricate narratives woven into its walls.
 
@@ -86,7 +86,7 @@ Seasonal considerations can impact your experience. Spring and early autumn ofte
 Visitors typically spend between 30 minutes to an hour at Heilig Geist, depending on their interest in the architecture and history.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any signage or ask staff upon arrival.
+Photography policies may vary, so it's best to check for any signage or ask staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be offered at specific times or during special events.
@@ -95,13 +95,13 @@ Check the official website for information regarding guided tours, as they may b
 Weekdays tend to be less crowded, providing a more peaceful environment for exploration.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s recommended to verify with the church directly or via their official website.
+Accessibility features may be available, but it's recommended to verify with the church directly or via their official website.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket sales, as options may vary.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly and consider nearby cafes for refreshments.
+Facilities may be limited, so it's advisable to plan accordingly and consider nearby cafes for refreshments.
 
 ### What should I wear?
 Dress modestly and comfortably, respecting the sacred nature of the church environment. 

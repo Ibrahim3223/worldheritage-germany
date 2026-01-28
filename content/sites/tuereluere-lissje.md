@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Türelüre-Lißje is a captivating fountain located in the heart of Aachen, Germany. Known for its historical significance and artistic elegance, this fountain serves as a vital landmark within the city’s urban landscape. Situated in the Aachen-Mitte district, Türelüre-Lißje not only quenches the thirst of passersby but also stands as a reminder of the city's rich cultural heritage. The fountain reflects the artistry and craftsmanship of its time, inviting visitors to pause and appreciate its beauty amidst the bustle of modern life.
+Türelüre-Lißje is a captivating fountain located in the heart of Aachen, Germany. Known for its historical significance and artistic elegance, this fountain serves as a vital landmark within the city's urban landscape. Situated in the Aachen-Mitte district, Türelüre-Lißje not only quenches the thirst of passersby but also stands as a reminder of the city's rich cultural heritage. The fountain reflects the artistry and craftsmanship of its time, inviting visitors to pause and appreciate its beauty amidst the bustle of modern life.
 
 Aachen, a city with a storied past, is renowned for its role as a center of power during the Carolingian period and as a spa town famous for its thermal springs. The Türelüre-Lißje fountain adds to this narrative, enriching the experience of exploring the city. Visitors can expect a blend of history and artistry, making it a worthy stop on any tour of Aachen.
 
 ## History and Significance
 
-The Türelüre-Lißje fountain holds a place of cultural importance in Aachen, contributing to the city’s identity and historical narrative. Though specific dates regarding its construction are not available, fountains like Türelüre-Lißje were commonly built in urban areas to provide water to the public, serving both practical and aesthetic purposes.
+The Türelüre-Lißje fountain holds a place of cultural importance in Aachen, contributing to the city's identity and historical narrative. Though specific dates regarding its construction are not available, fountains like Türelüre-Lißje were commonly built in urban areas to provide water to the public, serving both practical and aesthetic purposes.
 
 The significance of fountains in this region extends beyond simple utility; they often symbolize the social and communal aspects of city life. In Aachen, where the history of public bathing and thermal springs has been long celebrated, the presence of such fountains enhances the sense of community and connection among residents and visitors alike. Türelüre-Lißje, in particular, reflects the artistic movements of its time, showcasing the craftsmanship that has characterized Aachen's public art.
 

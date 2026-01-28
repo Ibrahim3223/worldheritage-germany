@@ -66,7 +66,7 @@ While visiting the Ehekarussell, you can enhance your experience by exploring ne
    
 3. **Documentation Center Nazi Party Rally Grounds**: For those interested in history, this museum provides a comprehensive overview of Nuremberg's role during the Nazi regime.
 
-4. **Albrecht Dürer’s House**: The former residence of the famous painter and printmaker, this museum offers a glimpse into the life and works of one of Germany's most celebrated artists.
+4. **Albrecht Dürer's House**: The former residence of the famous painter and printmaker, this museum offers a glimpse into the life and works of one of Germany's most celebrated artists.
 
 5. **Nuremberg Toy Museum**: A delightful experience for families and toy enthusiasts, showcasing the history of toys and their cultural significance.
 
@@ -78,7 +78,7 @@ If you prefer a quieter experience, aim to visit during weekdays, as weekends ca
 
 ## Practical Information
 
-When planning your visit to the Ehekarussell, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and perhaps a light jacket, especially during cooler months. Seasonal considerations can affect your experience; spring and summer often see more vibrant activity around the fountain, with events and gatherings in the surrounding area.
+When planning your visit to the Ehekarussell, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and perhaps a light jacket, especially during cooler months. Seasonal considerations can affect your experience; spring and summer often see more vibrant activity around the fountain, with events and gatherings in the surrounding area.
 
 Additionally, if you plan to spend time exploring Nuremberg, consider bringing a reusable water bottle and snacks, as the fountain area can be a lovely spot to take a break amidst your adventures.
 

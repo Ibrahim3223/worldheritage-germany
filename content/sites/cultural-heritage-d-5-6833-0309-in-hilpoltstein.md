@@ -61,7 +61,7 @@ For those planning a visit to Cultural heritage D-5-6833-0309, consider these in
 
 - **Photography**: Bring your camera to capture the architectural details of the fortification, as well as the surrounding landscape. Early morning or late afternoon can provide the best natural light.
 - **Crowd Avoidance**: Aim to visit during weekdays or off-peak hours to avoid larger crowds, allowing for a more intimate exploration of the site.
-- **Local Guides**: Engage with local historians or guides, if available, to gain a deeper understanding of the fortification’s significance and the stories it holds.
+- **Local Guides**: Engage with local historians or guides, if available, to gain a deeper understanding of the fortification's significance and the stories it holds.
 
 ## Practical Information
 

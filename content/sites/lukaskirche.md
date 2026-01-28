@@ -28,7 +28,7 @@ image_srcset:
 
 Lukaskirche, an architectural gem located in the Vahrenwald-List district of Hanover, Germany, serves as both a place of worship and a captivating landmark within the city's landscape. This church building is more than just a spiritual center; it embodies the cultural and historical narratives of the region. Visitors to Lukaskirche can expect a blend of serene worship and engaging architecture, making it an essential stop for anyone exploring Hanover. 
 
-The church’s significance is not solely derived from its religious function but also from its role as a gathering point for the community, fostering connections and traditions that have persisted over time. Set against the backdrop of Hanover's dynamic urban environment, Lukaskirche invites individuals to reflect on both the spiritual and communal aspects of life.
+The church's significance is not solely derived from its religious function but also from its role as a gathering point for the community, fostering connections and traditions that have persisted over time. Set against the backdrop of Hanover's dynamic urban environment, Lukaskirche invites individuals to reflect on both the spiritual and communal aspects of life.
 
 As you approach Lukaskirche, you are greeted by its striking presence, which promises an exploration of history, architecture, and community life. Whether you're a history enthusiast, an architecture aficionado, or simply seeking a quiet space for contemplation, Lukaskirche offers a unique experience that resonates with visitors from all walks of life.
 
@@ -73,9 +73,9 @@ Exploring these nearby attractions can provide a fuller picture of what Hanover 
 
 To make the most of your visit to Lukaskirche, consider these insider tips:
 
-1. **Photography** - While capturing the beauty of the church, be respectful of any worship services or private events that may be occurring. It’s best to check for any photography restrictions upon arrival.
+1. **Photography** - While capturing the beauty of the church, be respectful of any worship services or private events that may be occurring. It's best to check for any photography restrictions upon arrival.
 2. **Crowd Avoidance** - If you prefer a quieter experience, try to visit during weekdays or during off-peak hours. Early mornings or late afternoons may offer a more peaceful atmosphere.
-3. **Local Insights** - Engaging with locals or church staff can yield interesting stories and insights about Lukaskirche’s history and significance within the community.
+3. **Local Insights** - Engaging with locals or church staff can yield interesting stories and insights about Lukaskirche's history and significance within the community.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ By preparing in advance, you can ensure a smooth and enjoyable visit to Lukaskir
 A visit to Lukaskirche typically takes around one hour, allowing adequate time to appreciate its architecture and ambiance.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s wise to be respectful of any ongoing services and check for specific restrictions upon arrival.
+Photography may be permitted, but it's wise to be respectful of any ongoing services and check for specific restrictions upon arrival.
 
 ### Are there guided tours?
 Currently, it is advisable to check the official website for information regarding guided tours or special events that may be available.

@@ -42,7 +42,7 @@ Georgskirche exemplifies traditional church architecture, characterized by its e
 
 Inside, the church likely contains significant artistic features, such as religious iconography, wooden pews, and possibly a richly decorated altar. These elements contribute to the spiritual ambiance, offering visitors a space for contemplation and connection.
 
-The construction materials and design choices may reflect the local building traditions of the time, often using stone or brick typical of the region. Georgskirche’s layout and features not only serve functional purposes but also enhance the aesthetic experience for worshippers and visitors alike.
+The construction materials and design choices may reflect the local building traditions of the time, often using stone or brick typical of the region. Georgskirche's layout and features not only serve functional purposes but also enhance the aesthetic experience for worshippers and visitors alike.
 
 ## Visiting Information
 
@@ -85,7 +85,7 @@ A visit to Georgskirche typically lasts between thirty minutes to an hour, depen
 While photography may be permitted in many areas, it's advisable to check for any restrictions, especially regarding interior photography.
 
 ### Are there guided tours?
-Information about guided tours may not be readily available, so it’s best to check the official website or inquire locally for options.
+Information about guided tours may not be readily available, so it's best to check the official website or inquire locally for options.
 
 ### What's the best time to visit?
 Visiting early in the morning or during weekdays can provide a quieter experience, allowing for more personal reflection and exploration.
@@ -97,7 +97,7 @@ Specific accessibility information is not provided; however, contacting the chur
 Details regarding ticket purchases may vary, so check the official website for current information on admission and any potential fees.
 
 ### Are there restrooms and cafes?
-Information about amenities such as restrooms or cafes near Georgskirche is not specified, so it’s advisable to plan accordingly.
+Information about amenities such as restrooms or cafes near Georgskirche is not specified, so it's advisable to plan accordingly.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that you may be visiting a place of worship. Comfortable shoes are recommended for any walking you plan to do in the area.

@@ -67,7 +67,7 @@ An additional tip is to bring along a small picnic. The garden's peaceful atmosp
 
 ## Practical Information
 
-When planning your visit to the Villengarten In Unterelkofen, it’s advisable to bring comfortable walking shoes, as the garden invites exploration along its paths. Depending on the season, layering clothing can ensure comfort, as temperatures may vary throughout the day. 
+When planning your visit to the Villengarten In Unterelkofen, it's advisable to bring comfortable walking shoes, as the garden invites exploration along its paths. Depending on the season, layering clothing can ensure comfort, as temperatures may vary throughout the day. 
 
 Consider visiting during the spring or summer months when the garden is in full bloom. However, each season offers a unique ambiance, with autumn providing a spectacular display of fall colors and winter offering a quiet, serene landscape.
 

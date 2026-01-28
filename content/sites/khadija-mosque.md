@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Khadija Mosque is a significant cultural and spiritual landmark located in the Pankow district of Berlin, Germany. As a mosque, it serves as a center for the Muslim community, offering a space for worship, community gatherings, and cultural exchange. Its establishment reflects the growing diversity of Berlin, showcasing the city’s rich multicultural fabric. Visitors to the mosque can expect to encounter not only a place of worship but also a hub for educational and cultural activities, fostering dialogue and understanding among different communities.
+Khadija Mosque is a significant cultural and spiritual landmark located in the Pankow district of Berlin, Germany. As a mosque, it serves as a center for the Muslim community, offering a space for worship, community gatherings, and cultural exchange. Its establishment reflects the growing diversity of Berlin, showcasing the city's rich multicultural fabric. Visitors to the mosque can expect to encounter not only a place of worship but also a hub for educational and cultural activities, fostering dialogue and understanding among different communities.
 
-Positioned in a vibrant urban setting, Khadija Mosque plays an essential role in promoting inclusivity and faith-based initiatives within the larger context of Berlin’s history as a city of migration and integration. The mosque is a testament to the ongoing narrative of coexistence and collaboration among various cultural and religious groups in the area. Whether you are a local or a traveler, visiting Khadija Mosque offers an opportunity to engage with the community and learn more about Islamic traditions.
+Positioned in a vibrant urban setting, Khadija Mosque plays an essential role in promoting inclusivity and faith-based initiatives within the larger context of Berlin's history as a city of migration and integration. The mosque is a testament to the ongoing narrative of coexistence and collaboration among various cultural and religious groups in the area. Whether you are a local or a traveler, visiting Khadija Mosque offers an opportunity to engage with the community and learn more about Islamic traditions.
 
 ## History and Significance
 
 The Khadija Mosque is part of a broader movement toward Islamic architecture and community spaces in Berlin. The mosque serves a diverse congregation, reflecting the multicultural makeup of the city. It stands as a vital point for Muslim worshippers, providing not only a place of prayer but also educational programs that promote understanding of Islamic culture.
 
-While specific historical details are not provided, the mosque’s establishment aligns with the growth of the Muslim population in Germany, particularly in urban areas like Berlin. This demographic shift has led to the establishment of various mosques that serve the spiritual and social needs of the community. Khadija Mosque plays a critical role in this context, representing the integration of Islamic practices within the German cultural landscape.
+While specific historical details are not provided, the mosque's establishment aligns with the growth of the Muslim population in Germany, particularly in urban areas like Berlin. This demographic shift has led to the establishment of various mosques that serve the spiritual and social needs of the community. Khadija Mosque plays a critical role in this context, representing the integration of Islamic practices within the German cultural landscape.
 
 The mosque also functions as a cultural center, where events and workshops are organized to educate both Muslims and non-Muslims about Islamic teachings and values. This aspect of the mosque is crucial in fostering interfaith dialogue and encouraging a sense of community among diverse groups. As such, Khadija Mosque contributes to the broader narrative of coexistence in Berlin and serves as a model for community engagement.
 
@@ -48,7 +48,7 @@ In addition to the prayer hall, many mosques include educational spaces, reflect
 
 ## Visiting Information
 
-Khadija Mosque is accessible to visitors wishing to learn more about its role in the community and Islamic practices. For those planning a visit, it’s advisable to check the official website for current information regarding visiting hours and any potential entrance fees.
+Khadija Mosque is accessible to visitors wishing to learn more about its role in the community and Islamic practices. For those planning a visit, it's advisable to check the official website for current information regarding visiting hours and any potential entrance fees.
 
 The mosque is situated in an area that is well-connected to public transport, making it easy to reach. Visitors can expect to spend at least an hour exploring the mosque and its surroundings, depending on their level of interest and engagement in the offerings available.
 
@@ -65,7 +65,7 @@ When visiting Khadija Mosque, several nearby attractions offer further explorati
 
 ## Insider Tips
 
-For photography enthusiasts, it’s advisable to check the mosque’s policy on photography before capturing images, especially during prayer times. To avoid crowds, consider visiting during weekday mornings or early afternoons when the mosque is less busy. Engaging with community members or participating in events can deepen your understanding of the mosque's role and significance.
+For photography enthusiasts, it's advisable to check the mosque's policy on photography before capturing images, especially during prayer times. To avoid crowds, consider visiting during weekday mornings or early afternoons when the mosque is less busy. Engaging with community members or participating in events can deepen your understanding of the mosque's role and significance.
 
 ## Practical Information
 

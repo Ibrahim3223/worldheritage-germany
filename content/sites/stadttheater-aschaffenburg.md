@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Stadttheater Aschaffenburg is an iconic theatre located in the heart of Aschaffenburg, Bavaria, Germany. This theatre not only serves as a cultural hub but also as a significant landmark reflecting the artistic spirit of the region. With a rich history and a vibrant program of performances, it draws both locals and visitors alike to experience the performing arts in a historic setting. The theatre is situated in a charming area that embodies the unique character of Aschaffenburg, making it an integral part of the city’s cultural landscape.
+The Stadttheater Aschaffenburg is an iconic theatre located in the heart of Aschaffenburg, Bavaria, Germany. This theatre not only serves as a cultural hub but also as a significant landmark reflecting the artistic spirit of the region. With a rich history and a vibrant program of performances, it draws both locals and visitors alike to experience the performing arts in a historic setting. The theatre is situated in a charming area that embodies the unique character of Aschaffenburg, making it an integral part of the city's cultural landscape.
 
 As you approach the Stadttheater, the building itself commands attention with its architectural presence. The theatre is more than just a venue for plays and concerts; it is a gathering place that fosters community and creativity. Whether you are a theatre enthusiast or a casual visitor, attending a performance here offers an opportunity to engage with the local culture and appreciate the arts in a beautifully designed space.
 
@@ -34,7 +34,7 @@ As you approach the Stadttheater, the building itself commands attention with it
 
 The Stadttheater Aschaffenburg carries a legacy that reflects the cultural evolution of the region. Although specific dates of its establishment are not detailed, its significance in the local community is well-recognized. The theatre has served as a platform for various forms of artistic expression, including drama, music, and dance, showcasing both local talents and renowned artists.
 
-Throughout its history, the Stadttheater has played a pivotal role in promoting the arts in Aschaffenburg, contributing to the city’s identity as a center for cultural activities. The theatre often hosts a diverse array of performances, ranging from classical theatre productions to contemporary plays and musical concerts. This variety not only enriches the cultural offerings of the city but also attracts a wide audience, fostering a love for the performing arts.
+Throughout its history, the Stadttheater has played a pivotal role in promoting the arts in Aschaffenburg, contributing to the city's identity as a center for cultural activities. The theatre often hosts a diverse array of performances, ranging from classical theatre productions to contemporary plays and musical concerts. This variety not only enriches the cultural offerings of the city but also attracts a wide audience, fostering a love for the performing arts.
 
 Moreover, the Stadttheater has been a witness to the changing dynamics of society over the years. It has adapted to the evolving tastes of the public, reflecting broader cultural trends while remaining a steadfast pillar of the local arts scene. The theatre serves as a reminder of the importance of cultural institutions in enhancing community life and providing a platform for creative expression.
 

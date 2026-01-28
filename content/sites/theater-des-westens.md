@@ -104,4 +104,4 @@ Facilities such as restrooms and refreshment areas are available within the thea
 ### What should I wear?
 While there is no strict dress code, smart casual attire is generally recommended for theatre-goers to enhance the experience.
 
-With its rich history, vibrant performances, and architectural beauty, the Theater des Westens remains a cornerstone of Berlin’s cultural life. Whether you are attending a show or simply exploring the surroundings, this theatre promises to leave a lasting impression.
+With its rich history, vibrant performances, and architectural beauty, the Theater des Westens remains a cornerstone of Berlin's cultural life. Whether you are attending a show or simply exploring the surroundings, this theatre promises to leave a lasting impression.

@@ -64,7 +64,7 @@ Visitors can expect a peaceful atmosphere, ideal for walking, birdwatching, and 
 
 While Buchhorster Auwald itself is a serene escape, the surrounding region offers additional attractions that complement a visit to the nature reserve:
 
-1. **Balge Village**: A quaint village nearby, Balge features charming streets and local shops that provide a glimpse into the community’s culture and lifestyle.
+1. **Balge Village**: A quaint village nearby, Balge features charming streets and local shops that provide a glimpse into the community's culture and lifestyle.
 
 2. **Nienburg/Weser**: This nearby town has historical significance and offers various attractions, including museums, parks, and local dining options.
 

@@ -32,7 +32,7 @@ Frankfurt am Main, known for its blend of modern skyscrapers and historic buildi
 
 ## History and Significance
 
-While specific dates and events surrounding Adornodenkmal may not be readily available, its significance within Frankfurt's cultural landscape is undeniable. Monuments like Adornodenkmal often serve various purposes, from commemorating notable events to honoring figures who have played crucial roles in the region's development. The monument stands as a physical reminder of the historical narratives that shape the city’s identity.
+While specific dates and events surrounding Adornodenkmal may not be readily available, its significance within Frankfurt's cultural landscape is undeniable. Monuments like Adornodenkmal often serve various purposes, from commemorating notable events to honoring figures who have played crucial roles in the region's development. The monument stands as a physical reminder of the historical narratives that shape the city's identity.
 
 Frankfurt has long been a hub of commerce, culture, and politics in Germany. The presence of Adornodenkmal within this vibrant city emphasizes the importance of remembering and acknowledging the past while looking toward the future. Monuments such as this one not only enhance the aesthetic appeal of the city but also foster a sense of community pride and historical awareness among residents and visitors alike.
 
@@ -58,7 +58,7 @@ Consider timing your visit to avoid peak hours, which can enhance your experienc
 
 1. **Frankfurt Cathedral (Kaiserdom St. Bartholomeus)** – Just a short distance from Adornodenkmal, this Gothic cathedral is a must-see for its stunning architecture and historical significance.
 
-2. **Römer** – The city hall of Frankfurt, with its distinctive façade, is a historical site that showcases the city’s medieval past and is located in the picturesque Römerberg square.
+2. **Römer** – The city hall of Frankfurt, with its distinctive façade, is a historical site that showcases the city's medieval past and is located in the picturesque Römerberg square.
 
 3. **Städel Museum** – A renowned art museum that houses an impressive collection of European art, the Städel Museum is a cultural highlight for art enthusiasts visiting the area.
 

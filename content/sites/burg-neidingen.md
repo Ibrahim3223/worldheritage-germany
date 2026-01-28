@@ -54,7 +54,7 @@ Burg Neidingen welcomes visitors eager to explore its historical significance an
 
 The castle is accessible by various means of transportation, making it a convenient destination for both local and visiting travelers. Upon arrival, expect to spend a few hours exploring the grounds, delving into the history of the site, and taking in the atmosphere that surrounds this remarkable structure.
 
-The best times to visit Burg Neidingen are typically during the spring and autumn months when the weather is mild, and the natural surroundings are particularly inviting. These seasons also tend to attract fewer crowds, allowing for a more intimate experience of the castle’s offerings.
+The best times to visit Burg Neidingen are typically during the spring and autumn months when the weather is mild, and the natural surroundings are particularly inviting. These seasons also tend to attract fewer crowds, allowing for a more intimate experience of the castle's offerings.
 
 As you plan your visit, consider wearing comfortable shoes and dressing appropriately for the weather, as exploring the castle grounds can involve some walking.
 

@@ -52,7 +52,7 @@ Visitors to Burg Neidenfels can appreciate the craftsmanship of the time, with s
 
 Visiting Burg Neidenfels offers an opportunity to step into a world of medieval heritage. To reach the castle, various modes of transportation are available. Depending on your starting point, driving may be the most convenient option, allowing for flexibility and ease of access. Public transportation options may also exist, but it's advisable to check local schedules for the best routes.
 
-For current information regarding hours of operation and ticket prices, it’s recommended to check the official website, as these details can vary. Visitors should plan for a visit that allows ample time to explore the site; typically, a few hours will suffice to take in the architecture and soak in the atmosphere.
+For current information regarding hours of operation and ticket prices, it's recommended to check the official website, as these details can vary. Visitors should plan for a visit that allows ample time to explore the site; typically, a few hours will suffice to take in the architecture and soak in the atmosphere.
 
 The best times to visit Burg Neidenfels are during the spring and early autumn when the weather is generally mild, enhancing the experience of exploring the castle and enjoying the surrounding landscape. As you wander through the castle grounds, be prepared for varying terrain, which may require comfortable footwear.
 
@@ -62,7 +62,7 @@ Burg Neidenfels is situated within a region that offers several attractions wort
 
 1. **Neidenfels Village**: This quaint village provides a glimpse into local life and culture, with charming streets and local shops to explore.
    
-2. **Historical Sites of the Rhine Valley**: The nearby Rhine River is home to numerous castles and historical sites that reflect the area’s rich heritage.
+2. **Historical Sites of the Rhine Valley**: The nearby Rhine River is home to numerous castles and historical sites that reflect the area's rich heritage.
 
 3. **Local Hiking Trails**: The surrounding landscapes feature trails suitable for hiking, offering a chance to immerse yourself in nature while enjoying scenic views.
 
@@ -107,7 +107,7 @@ Access may be limited due to the castle's historical structure. It's advisable t
 For current information on ticket purchasing, including online options, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to plan accordingly. Check the official website for details.
+Facilities may be limited, so it's best to plan accordingly. Check the official website for details.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended to navigate the castle and its terrain easily. Dress in layers based on the season.

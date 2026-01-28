@@ -40,7 +40,7 @@ Culturally, the Neandertal continues to be a focal point for discussions surroun
 
 ## Architecture and Features
 
-The Neandertal valley is characterized by its gently rolling hills, lush vegetation, and winding streams, creating an inviting environment for visitors. The natural formations in the valley provide a backdrop that is not only beautiful but also historically rich. While the valley does not feature traditional architectural structures, its geological formations serve as a canvas illustrating the Earth’s history, showcasing layers of sediment that tell the story of a dynamic landscape shaped over millennia.
+The Neandertal valley is characterized by its gently rolling hills, lush vegetation, and winding streams, creating an inviting environment for visitors. The natural formations in the valley provide a backdrop that is not only beautiful but also historically rich. While the valley does not feature traditional architectural structures, its geological formations serve as a canvas illustrating the Earth's history, showcasing layers of sediment that tell the story of a dynamic landscape shaped over millennia.
 
 The highlight of the valley is undoubtedly the Neanderthal Museum, which serves as a gateway to understanding the significance of the site. The museum is designed to enhance the visitor experience by presenting archaeological findings, interactive exhibits, and educational resources that detail the lives of Neanderthals and their place in human history. The architecture of the museum itself is designed to harmonize with the natural surroundings, creating a seamless blend of nature and human ingenuity.
 

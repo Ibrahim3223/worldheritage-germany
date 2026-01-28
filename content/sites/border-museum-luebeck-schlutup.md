@@ -82,7 +82,7 @@ These attractions not only enhance your understanding of Lübeck's cultural land
 
 To make the most of your visit to the Border Museum Lübeck-Schlutup, consider the following tips:
 
-- **Photography**: Check museum policy regarding photography. Some exhibits may have restrictions, so it’s best to be respectful and inquire upon arrival.
+- **Photography**: Check museum policy regarding photography. Some exhibits may have restrictions, so it's best to be respectful and inquire upon arrival.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during the early morning or later in the afternoon on weekdays. This can enhance your ability to engage with the exhibits and staff.
 
@@ -100,7 +100,7 @@ Before your visit to the Border Museum Lübeck-Schlutup, consider bringing along
 
 - **Water Bottle**: Staying hydrated is essential, so bringing a refillable water bottle can be convenient, especially if you plan to explore the nearby attractions afterwards.
 
-The museum typically provides facilities for visitors, but it’s best to check the official website for details on restrooms and any on-site dining options.
+The museum typically provides facilities for visitors, but it's best to check the official website for details on restrooms and any on-site dining options.
 
 ## Frequently Asked Questions
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Castle Caputh, a striking structure located in the serene region of Schwielowsee near Potsdam, Germany, is a fascinating museum that tells a story of historical significance and cultural heritage. This charming castle stands as a reminder of the architectural elegance of its time and provides a glimpse into the past for visitors eager to explore its halls. The surrounding area, characterized by picturesque landscapes and a tranquil atmosphere, further enhances the appeal of this heritage site. 
 
-Set against the backdrop of Germany's rich history, Castle Caputh serves as a cultural institution, inviting guests to delve into the stories and influences that shaped this part of the country. Whether you are an art enthusiast, a history buff, or simply someone looking to enjoy a leisurely day in a beautiful locale, Castle Caputh promises an engaging experience. The museum’s dedication to preserving and showcasing the castle's heritage enhances its allure, making it a must-visit destination for anyone traveling in the vicinity of Potsdam.
+Set against the backdrop of Germany's rich history, Castle Caputh serves as a cultural institution, inviting guests to delve into the stories and influences that shaped this part of the country. Whether you are an art enthusiast, a history buff, or simply someone looking to enjoy a leisurely day in a beautiful locale, Castle Caputh promises an engaging experience. The museum's dedication to preserving and showcasing the castle's heritage enhances its allure, making it a must-visit destination for anyone traveling in the vicinity of Potsdam.
 
 ## History and Significance
 

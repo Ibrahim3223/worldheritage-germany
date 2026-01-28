@@ -58,7 +58,7 @@ While Altes Schloss is a highlight of the region, several nearby attractions com
 
 1. **Lebach Town Center**: Stroll through the charming streets of Lebach, where you can explore local shops and cafés, immersing yourself in the community's atmosphere.
 
-2. **St. John’s Church**: A short distance from the castle, this church features stunning architecture and is an excellent example of local religious heritage.
+2. **St. John's Church**: A short distance from the castle, this church features stunning architecture and is an excellent example of local religious heritage.
 
 3. **Local Museums**: Various small museums in the area provide insights into the cultural and historical context surrounding Lebach, offering a broader understanding of the region's past.
 

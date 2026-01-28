@@ -78,7 +78,7 @@ While the primary focus may be on the Vocational School IV Dr. Otto Schlein, the
 
 For a successful visit to the Vocational School IV Dr. Otto Schlein, consider these insider tips:
 
-- **Photography tips**: While capturing the essence of the school, be respectful of the learning environment. If students are present, it’s best to ask permission before taking photographs.
+- **Photography tips**: While capturing the essence of the school, be respectful of the learning environment. If students are present, it's best to ask permission before taking photographs.
 
 - **Crowd avoidance**: To experience a quieter atmosphere, aim for visits during mid-week days, avoiding peak school hours if possible.
 
@@ -96,7 +96,7 @@ When preparing for your visit to the Vocational School IV Dr. Otto Schlein, keep
 The duration of your visit can vary based on personal interest, with a general recommendation of one to two hours for a thorough exploration.
 
 ### Is photography allowed?
-Photography policies may vary; it’s advisable to seek permission, especially if students are present during your visit.
+Photography policies may vary; it's advisable to seek permission, especially if students are present during your visit.
 
 ### Are there guided tours?
 Guided tour availability can depend on special events or educational programs; check the official website for details.
@@ -111,7 +111,7 @@ Accessibility details are not specified; check the official website for informat
 Ticketing options would be confirmed on the official website, so check for availability and purchasing methods.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s best to confirm the availability of restrooms and nearby cafes on the official website.
+Facilities may vary; it's best to confirm the availability of restrooms and nearby cafes on the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, keeping in mind that you will be in an educational environment.

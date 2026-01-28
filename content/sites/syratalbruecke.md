@@ -105,7 +105,7 @@ Accessibility details are not specified; check the official website for current 
 Details about ticketing are not provided. It is advisable to check the official website for current information on any associated costs.
 
 ### Are there restrooms and cafes?
-Information about amenities such as restrooms and cafes is not specified. It’s advisable to check nearby locations in Plauen for facilities.
+Information about amenities such as restrooms and cafes is not specified. It's advisable to check nearby locations in Plauen for facilities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Good walking shoes are recommended, especially if you plan to explore the area around the bridge. 

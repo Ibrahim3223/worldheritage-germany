@@ -28,13 +28,13 @@ The Gemeindehaus is an essential stop for anyone interested in understanding the
 
 The Gemeindehaus Augsburger Straße 14 stands as a representation of Memmingen's historical evolution. The city itself has a storied past, characterized by its role in the Swabian League and its significance during the Reformation. While specific historical dates about the building's construction and modifications may not be readily available, the significance of the site is evident in its designation as a cultural heritage monument. 
 
-The city hall has played a pivotal role in local governance and the community's social fabric. As a central hub for civic activities, it reflects the democratic values and administrative practices that have been integral to Memmingen’s identity. The building has witnessed various historical events and developments, serving as a backdrop to the city's engagement with social, political, and cultural movements over the centuries.
+The city hall has played a pivotal role in local governance and the community's social fabric. As a central hub for civic activities, it reflects the democratic values and administrative practices that have been integral to Memmingen's identity. The building has witnessed various historical events and developments, serving as a backdrop to the city's engagement with social, political, and cultural movements over the centuries.
 
 In addition to its governmental functions, the Gemeindehaus is a venue for cultural events and community gatherings, further solidifying its status as a cornerstone of Memmingen's civic life. The preservation of this building underscores the importance of maintaining historical structures that contribute to a city's character and continuity.
 
 ## Architecture and Features
 
-The architectural style of Gemeindehaus Augsburger Straße 14 is emblematic of the region’s historical aesthetics, showcasing elements that reflect the design preferences of its era. Although specific architectural details may not be highlighted, one can expect to find features typical of city halls, such as grand facades, well-defined entrances, and functional spaces designed for public access.
+The architectural style of Gemeindehaus Augsburger Straße 14 is emblematic of the region's historical aesthetics, showcasing elements that reflect the design preferences of its era. Although specific architectural details may not be highlighted, one can expect to find features typical of city halls, such as grand facades, well-defined entrances, and functional spaces designed for public access.
 
 The structure likely incorporates local materials that align with the traditional building practices of Bavaria, enhancing its integration into the surrounding urban landscape. The simplicity yet functionality of the design illustrates the dual purpose of the building as both an administrative center and a community space.
 
@@ -52,13 +52,13 @@ The best times to visit often align with weekdays when local governance activiti
 
 While exploring the area around Gemeindehaus Augsburger Straße 14, several notable attractions are within walking distance:
 
-1. **St. Martin's Church**: A striking example of Gothic architecture, this church is a key feature of Memmingen’s skyline and offers insight into the city’s religious heritage.
-2. **Memmingen Town Museum**: Housed in a historic building, the museum provides a deeper understanding of the city’s past through various exhibits and artifacts.
+1. **St. Martin's Church**: A striking example of Gothic architecture, this church is a key feature of Memmingen's skyline and offers insight into the city's religious heritage.
+2. **Memmingen Town Museum**: Housed in a historic building, the museum provides a deeper understanding of the city's past through various exhibits and artifacts.
 3. **City Walls and Gates**: The remnants of Memmingen's medieval fortifications can be explored, offering a fascinating perspective on the city's historical defenses.
 4. **Memmingen Market Square**: A vibrant area featuring local shops and eateries, it serves as a social hub and is often the site of community events.
 5. **Kulturzentrum**: A cultural center that hosts various exhibitions and performances, enriching the local arts scene.
 
-These attractions provide an excellent complement to a visit to Gemeindehaus Augsburger Straße 14, enhancing the overall experience of Memmingen’s historical and cultural offerings.
+These attractions provide an excellent complement to a visit to Gemeindehaus Augsburger Straße 14, enhancing the overall experience of Memmingen's historical and cultural offerings.
 
 ## Insider Tips
 

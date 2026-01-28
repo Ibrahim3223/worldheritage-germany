@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Grabmal Familie Schmitt, located in Darmstadt, Germany, is a significant cultural monument that reflects the area's historical and artistic heritage. This tomb offers a glimpse into the past, showcasing the traditions surrounding memorials in German society. As you approach the site, you’ll find yourself immersed in a landscape where history and artistry converge, inviting visitors to reflect on the lives commemorated within. The architectural aspects of the tomb and the symbolism embedded in its design make it an intriguing destination for history enthusiasts, scholars, and casual visitors alike.
+The Grabmal Familie Schmitt, located in Darmstadt, Germany, is a significant cultural monument that reflects the area's historical and artistic heritage. This tomb offers a glimpse into the past, showcasing the traditions surrounding memorials in German society. As you approach the site, you'll find yourself immersed in a landscape where history and artistry converge, inviting visitors to reflect on the lives commemorated within. The architectural aspects of the tomb and the symbolism embedded in its design make it an intriguing destination for history enthusiasts, scholars, and casual visitors alike.
 
 Darmstadt, known for its contributions to art and science, serves as an appropriate backdrop for this notable site. The tomb is part of a broader legacy of memorials that dot the landscape, each telling its own story. The Grabmal Familie Schmitt stands apart, inviting exploration and contemplation of both the individuals it honors and the cultural practices surrounding memorialization in Germany.
 

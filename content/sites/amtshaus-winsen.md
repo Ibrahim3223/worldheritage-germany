@@ -44,7 +44,7 @@ The architectural design of Amtshaus Winsen is reflective of the styles that cha
 
 Internally, Amtshaus Winsen likely includes various rooms designated for administrative tasks, public meetings, and community events. The layout of such buildings is generally designed to facilitate interaction between government officials and the public, encouraging transparency and civic engagement. 
 
-While the exact features of Amtshaus Winsen may vary, visitors can expect to find a blend of historical charm and practical design, making it a suitable setting for both formal and informal gatherings. The building’s presence in the town enhances the overall architectural landscape, contributing to the character of Winsen an der Aller.
+While the exact features of Amtshaus Winsen may vary, visitors can expect to find a blend of historical charm and practical design, making it a suitable setting for both formal and informal gatherings. The building's presence in the town enhances the overall architectural landscape, contributing to the character of Winsen an der Aller.
 
 ## Visiting Information
 

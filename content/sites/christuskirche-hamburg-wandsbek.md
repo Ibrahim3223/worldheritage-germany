@@ -86,10 +86,10 @@ Ensure to check the official website for any updates on hours of operation, spec
 A visit to Christuskirche typically takes about one hour, allowing time to explore its architecture and soak in the atmosphere.
 
 ### Is photography allowed?
-Photography policies may vary, particularly during services. It’s advisable to check for any restrictions on photography inside the church.
+Photography policies may vary, particularly during services. It's advisable to check for any restrictions on photography inside the church.
 
 ### Are there guided tours?
-While specific tour information is not mentioned, inquire locally to see if guided tours are available for those interested in deeper insights into the church’s history and architecture.
+While specific tour information is not mentioned, inquire locally to see if guided tours are available for those interested in deeper insights into the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays or early mornings are generally less crowded, providing a more tranquil experience compared to weekends when services may attract larger congregations.
@@ -101,7 +101,7 @@ Accessibility details are not specified. Checking the official website or contac
 Information regarding tickets is not provided; checking the official website for current admission details is advisable.
 
 ### Are there restrooms and cafes?
-While specific amenities are not mentioned, it’s common for churches to have basic facilities. Nearby attractions may offer additional options for cafes and restrooms.
+While specific amenities are not mentioned, it's common for churches to have basic facilities. Nearby attractions may offer additional options for cafes and restrooms.
 
 ### What should I wear?
 Modest clothing is advisable when visiting a church. Comfortable shoes are recommended for exploring the surrounding area.

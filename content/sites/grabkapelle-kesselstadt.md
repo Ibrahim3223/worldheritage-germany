@@ -68,7 +68,7 @@ While visiting Grabkapelle Kesselstadt, take the opportunity to explore the surr
 
 For a more fulfilling visit to Grabkapelle Kesselstadt, consider the following tips:
 
-- **Photography Tips**: Capture the chapel’s exterior during the golden hours of sunrise or sunset for the best lighting. Inside, be respectful of the sacred space while taking photographs.
+- **Photography Tips**: Capture the chapel's exterior during the golden hours of sunrise or sunset for the best lighting. Inside, be respectful of the sacred space while taking photographs.
 - **Crowd Avoidance**: To enjoy a more solitary experience, plan your visit during weekdays or early mornings when foot traffic is typically lower.
 
 ## Practical Information

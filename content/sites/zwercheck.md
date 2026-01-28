@@ -80,7 +80,7 @@ To make the most of your visit to Zwercheck, consider these insider tips:
 
 When preparing for your visit to Zwercheck, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable hiking shoes, plenty of water, and snacks are essential. A map or GPS device can help navigate the trails. Don’t forget your camera to capture the natural beauty.
+- **What to Bring**: Comfortable hiking shoes, plenty of water, and snacks are essential. A map or GPS device can help navigate the trails. Don't forget your camera to capture the natural beauty.
 
 - **Seasonal Considerations**: The best months for hiking are typically late spring through early autumn. Winter visits may require specific gear due to snow and ice.
 

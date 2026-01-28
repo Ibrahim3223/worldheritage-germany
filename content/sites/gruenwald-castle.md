@@ -54,7 +54,7 @@ Visiting Grünwald Castle is a straightforward endeavor, thanks to its convenien
 
 Before planning your visit, it's advisable to check the official website for current information regarding hours of operation and ticket prices. Visiting times may vary seasonally, and knowing the schedule can help you make the most of your trip. 
 
-When you arrive at Grünwald Castle, expect to spend a few hours exploring the grounds and immersing yourself in its history. Guided tours may be available, providing deeper insights into the castle's past and architecture. It’s recommended to wear comfortable shoes, as exploring the castle grounds and surrounding area may involve walking on uneven terrain.
+When you arrive at Grünwald Castle, expect to spend a few hours exploring the grounds and immersing yourself in its history. Guided tours may be available, providing deeper insights into the castle's past and architecture. It's recommended to wear comfortable shoes, as exploring the castle grounds and surrounding area may involve walking on uneven terrain.
 
 The best times to visit are typically during the spring and early fall when the weather is mild, and the landscape is vibrant. This period allows for a more pleasant outdoor experience, whether you choose to stroll through the castle grounds or enjoy a picnic nearby.
 
@@ -76,7 +76,7 @@ If you find yourself in Grünwald, there are several nearby attractions worth ex
 
 To enhance your visit to Grünwald Castle, consider the following tips:
 
-- **Photography**: The castle and its surroundings provide excellent opportunities for photography. Early morning or late afternoon light can create beautiful conditions for capturing the castle’s architecture and the natural landscape.
+- **Photography**: The castle and its surroundings provide excellent opportunities for photography. Early morning or late afternoon light can create beautiful conditions for capturing the castle's architecture and the natural landscape.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try to visit during weekdays or outside of peak tourist season. Early mornings often see fewer visitors, allowing for a more personal exploration of the site.
 

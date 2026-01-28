@@ -36,7 +36,7 @@ The significance of the memorial extends beyond merely honoring Egk; it fosters 
 
 The architecture of the Werner Egk Meeting Place is designed to reflect its purpose as a memorial and museum. While specific details about the building's design may not be available, visitors can expect a space that is both functional and reflective of the artistic themes represented within its walls. The layout likely accommodates various exhibits that showcase Egk's work and life, providing a narrative that draws visitors into the story of his musical journey.
 
-Inside, the museum features a range of displays that may include photographs, manuscripts, and audio recordings of Egk's compositions. These elements work together to create an immersive experience that allows guests to connect with the music on a personal level. The thoughtful arrangement of exhibits encourages exploration and provides insight into Egk’s creative process and the historical context of his works.
+Inside, the museum features a range of displays that may include photographs, manuscripts, and audio recordings of Egk's compositions. These elements work together to create an immersive experience that allows guests to connect with the music on a personal level. The thoughtful arrangement of exhibits encourages exploration and provides insight into Egk's creative process and the historical context of his works.
 
 In addition to the main exhibition areas, the memorial may offer spaces for temporary displays or community events, further enriching the cultural offerings of Donauwörth. This adaptability ensures that the Werner Egk Meeting Place remains vibrant and relevant, continuing to engage visitors with the arts in a dynamic way.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Werner Egk Meeting Place, consider the fol
 
 - **Crowd Avoidance**: If you prefer a quieter visit, aim to arrive early in the day or during weekdays when tourist traffic is typically lower. This will give you ample opportunity to engage with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about special events or recommendations for further exploration in the area. Their insights can enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff about special events or recommendations for further exploration in the area. Their insights can enhance your visit.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ For information on accessibility features, check the official website or inquire
 Check the official website for details on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for specific amenities.
+Facilities may be available on-site, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably for walking and consider layering, especially if you plan to explore the area outside the museum.

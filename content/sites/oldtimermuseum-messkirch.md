@@ -76,7 +76,7 @@ To make the most of your visit to the Oldtimermuseum Meßkirch, consider these i
 
 - **Crowd Avoidance**: For a more intimate experience, plan your visit during weekdays or early in the morning. This can help you explore the exhibits without the hustle and bustle of larger crowds.
 
-- **Engage with Staff**: The museum staff are typically knowledgeable and passionate about the collection. Don’t hesitate to ask questions or seek recommendations for your visit.
+- **Engage with Staff**: The museum staff are typically knowledgeable and passionate about the collection. Don't hesitate to ask questions or seek recommendations for your visit.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Check the official website for information on guided tours and any associated co
 Weekdays or early mornings tend to be less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-For detailed accessibility options, please consult the museum’s official website.
+For detailed accessibility options, please consult the museum's official website.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

@@ -28,7 +28,7 @@ image_srcset:
 
 Königliches Gymnasium, located at Alleestraße 32 in Düsseldorf, Germany, represents a significant piece of the educational and architectural landscape of the region. This school building is not only a hub of learning but also a structure that embodies the evolution of educational practices in Germany. While the building has always served its primary function as an academic institution, it also reflects broader cultural and social narratives that have shaped the community around it. Visitors to Düsseldorf will find that this site offers a glimpse into the historical context of education in the region, making it a meaningful stop for anyone interested in the interplay between architecture and education.
 
-The Königliches Gymnasium is strategically situated in Düsseldorf, a city known for its vibrant arts scene and rich history. The school’s location enhances its significance, as it is part of a larger cultural and educational fabric that defines the city. Whether you are an educational historian, an architecture enthusiast, or simply a curious traveler, a visit to this school building promises to enrich your understanding of the area's heritage.
+The Königliches Gymnasium is strategically situated in Düsseldorf, a city known for its vibrant arts scene and rich history. The school's location enhances its significance, as it is part of a larger cultural and educational fabric that defines the city. Whether you are an educational historian, an architecture enthusiast, or simply a curious traveler, a visit to this school building promises to enrich your understanding of the area's heritage.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Königliches Gymnasium reflects the evolution of educational inst
 
 The cultural importance of Königliches Gymnasium extends beyond its educational role. It has served as a community center for generations, fostering not only academic growth but also social interactions and cultural exchanges among students. The emphasis on classical education has influenced many prominent figures in German society, contributing to the intellectual and cultural discourse of the time.
 
-As Düsseldorf evolved into a cultural hub, the gymnasium's role adapted to meet the changing needs of society. Its presence in the area highlights the ongoing commitment to education and the importance placed on fostering a well-rounded, informed citizenry. The school’s legacy continues to resonate, making it a noteworthy site for those keen on understanding Germany's educational history.
+As Düsseldorf evolved into a cultural hub, the gymnasium's role adapted to meet the changing needs of society. Its presence in the area highlights the ongoing commitment to education and the importance placed on fostering a well-rounded, informed citizenry. The school's legacy continues to resonate, making it a noteworthy site for those keen on understanding Germany's educational history.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ After visiting Königliches Gymnasium, consider exploring the following nearby a
 
 4. **Schloss Benrath**: A stunning baroque palace with beautiful gardens, perfect for those interested in history and architecture.
 
-5. **Düsseldorf’s Media Harbour**: A hub of modern architecture and design, offering a contrast to the historic elements found in the city.
+5. **Düsseldorf's Media Harbour**: A hub of modern architecture and design, offering a contrast to the historic elements found in the city.
 
 ## Insider Tips
 

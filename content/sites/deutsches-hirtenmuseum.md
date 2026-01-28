@@ -59,7 +59,7 @@ For an optimal experience, consider visiting during weekdays when the museum may
 Hersbruck is surrounded by several attractions that complement a visit to the Deutsches Hirtenmuseum:
 
 1. **Hersbruck Castle:** A historic castle offering insights into the region's past, with beautiful views of the surrounding area.
-2. **Stadtmuseum Hersbruck:** This local museum provides a broader context of the town’s history and culture, making it a worthwhile stop.
+2. **Stadtmuseum Hersbruck:** This local museum provides a broader context of the town's history and culture, making it a worthwhile stop.
 3. **Burg Rabenstein:** Just a short drive from Hersbruck, this medieval castle features a stunning landscape and beautiful hiking trails.
 4. **Frankenalb Nature Park:** Ideal for outdoor enthusiasts, this nature park offers various recreational activities, including trails for hiking and cycling.
 
@@ -71,7 +71,7 @@ To make the most of your visit to the Deutsches Hirtenmuseum, consider these ins
 
 - **Photography:** Be sure to check if photography is allowed in the museum. If so, capturing images of the exhibits can help you remember your experience.
 - **Crowd Avoidance:** For a quieter visit, aim for weekdays, particularly in the morning hours, when the museum is less likely to be busy.
-- **Engage with Staff:** Museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for further exploration.
+- **Engage with Staff:** Museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for further exploration.
 
 ## Practical Information
 

@@ -66,7 +66,7 @@ After visiting the Mahnmal am Bahnhof Fischerhof, there are several nearby attra
 
 2. **Hannover City Hall (Rathaus)**: A short distance away, this impressive building features stunning architecture and a museum detailing the city's history, providing further context to the region's past.
 
-3. **Maschsee**: This artificial lake offers a scenic area for walking and relaxation, perfect for reflecting on the day’s experiences after visiting the memorial.
+3. **Maschsee**: This artificial lake offers a scenic area for walking and relaxation, perfect for reflecting on the day's experiences after visiting the memorial.
 
 4. **The Lower Saxony State Museum**: Located not far from the memorial, this museum houses a diverse collection of art and artifacts, including exhibits on regional history and culture.
 
@@ -98,7 +98,7 @@ For your visit to the Mahnmal am Bahnhof Fischerhof, be sure to consider the fol
 A visit to the Mahnmal am Bahnhof Fischerhof typically takes about 30 to 60 minutes, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally permitted, but it is important to approach the site with respect, focusing on the memorial’s significance rather than posed shots.
+Photography is generally permitted, but it is important to approach the site with respect, focusing on the memorial's significance rather than posed shots.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours for the memorial. However, visitors are encouraged to engage with the informational materials available on-site.

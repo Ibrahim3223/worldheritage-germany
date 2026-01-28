@@ -28,7 +28,7 @@ Ottobeuren, known for its rich cultural heritage and scenic beauty, offers visit
 
 The Museum für zeitgenössische Kunst – Diether Kunerth stands as a significant cultural institution in Ottobeuren, where contemporary art takes center stage. While specific dates regarding its establishment are not provided, the museum's focus on modern artistic practices indicates a commitment to celebrating innovation in the art world. Diether Kunerth himself is celebrated for his unique contributions to contemporary art, which are reflected in the collections and exhibitions hosted at the museum.
 
-The museum plays an essential role in fostering an appreciation for contemporary art, encouraging dialogue around current artistic movements and the societal issues they address. It is a space where visitors can engage with the transformative power of art, exploring themes relevant to today’s world. The significance of this museum extends beyond its physical space; it serves as a hub for cultural exchange and education, inviting local and international audiences to explore the dynamic landscape of contemporary art.
+The museum plays an essential role in fostering an appreciation for contemporary art, encouraging dialogue around current artistic movements and the societal issues they address. It is a space where visitors can engage with the transformative power of art, exploring themes relevant to today's world. The significance of this museum extends beyond its physical space; it serves as a hub for cultural exchange and education, inviting local and international audiences to explore the dynamic landscape of contemporary art.
 
 In addition to exhibitions dedicated to Kunerth, the museum often features works from a variety of artists, providing a diverse range of perspectives and styles. This commitment to showcasing contemporary art underscores the museum's mission to remain relevant and responsive to the evolving art scene. The impact of the museum is felt not just in Ottobeuren, but also in the broader context of contemporary art in Germany and beyond.
 
@@ -38,7 +38,7 @@ The architectural style of the Museum für zeitgenössische Kunst – Diether Ku
 
 Inside, visitors can expect thoughtfully curated exhibitions that change periodically, showcasing not just the works of Diether Kunerth but also a range of contemporary artists. The layout of the museum is designed to promote an immersive experience, where visitors can engage with each piece and its context. This thoughtful approach to exhibition design encourages reflection and conversation among visitors, making each visit a unique experience.
 
-The museum’s facilities are designed to accommodate a variety of events, including workshops, lectures, and special exhibitions, which further enrich the cultural fabric of Ottobeuren. These features ensure that the museum is not only a place of passive viewing but also an active participant in the cultural dialogue surrounding contemporary art.
+The museum's facilities are designed to accommodate a variety of events, including workshops, lectures, and special exhibitions, which further enrich the cultural fabric of Ottobeuren. These features ensure that the museum is not only a place of passive viewing but also an active participant in the cultural dialogue surrounding contemporary art.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Museum für zeitgenössische Kunst – Die
 
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting during weekdays or early in the day can help you avoid larger groups and allow for a more personal engagement with the artwork.
 
-- **Engagement**: Take your time with each piece of art. Many contemporary works invite deep reflection and discussion, so don’t hesitate to engage with the themes presented.
+- **Engagement**: Take your time with each piece of art. Many contemporary works invite deep reflection and discussion, so don't hesitate to engage with the themes presented.
 
 ## Practical Information
 

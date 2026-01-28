@@ -56,7 +56,7 @@ While exploring the museum, visitors will find themselves surrounded by not only
 
 Getting to Sammlung Falckenberg is convenient, thanks to Hamburg's well-developed public transport system. Visitors can easily access the museum via bus or train, making it a practical stop on any cultural itinerary. Check the official website for current information on specific transport options and routes.
 
-As for visiting hours and ticket prices, it’s best to check the official website for current information, as these details may change. When planning your visit, consider that a typical exploration of the museum can take anywhere from one to two hours, depending on how deeply you wish to engage with the exhibits.
+As for visiting hours and ticket prices, it's best to check the official website for current information, as these details may change. When planning your visit, consider that a typical exploration of the museum can take anywhere from one to two hours, depending on how deeply you wish to engage with the exhibits.
 
 The museum can be particularly vibrant during special exhibitions and events, so those interested in a more lively atmosphere should consider visiting during these times. Conversely, if you prefer a quieter experience, aim for weekdays or early in the day when attendance may be lower.
 
@@ -70,7 +70,7 @@ After your visit to Sammlung Falckenberg, consider exploring some nearby attract
 
 2. **Deichtorhallen**: Another key cultural venue, Deichtorhallen is known for its focus on contemporary visual art and photography, often hosting international exhibitions.
 
-3. **Speicherstadt**: A UNESCO World Heritage site, this historic warehouse district is characterized by its distinctive red-brick architecture and network of canals, offering a glimpse into Hamburg’s trading past.
+3. **Speicherstadt**: A UNESCO World Heritage site, this historic warehouse district is characterized by its distinctive red-brick architecture and network of canals, offering a glimpse into Hamburg's trading past.
 
 4. **Elbphilharmonie**: A modern architectural marvel, this concert hall not only hosts musical performances but also features stunning views of the city from its plaza.
 
@@ -84,7 +84,7 @@ When planning your visit to Sammlung Falckenberg, consider these insider tips fo
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekday mornings or during off-peak seasons. This will allow you to enjoy the exhibits in a more serene environment.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about current exhibitions or special events. They can provide valuable insights and enhance your understanding of the artworks.
+- **Engage with Staff**: Don't hesitate to ask museum staff about current exhibitions or special events. They can provide valuable insights and enhance your understanding of the artworks.
 
 ## Practical Information
 

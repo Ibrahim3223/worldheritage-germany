@@ -56,7 +56,7 @@ In addition to its architectural beauty, Ebrach Abbey's surroundings enhance its
 
 Getting to Ebrach Abbey is relatively straightforward, with various transport options available for visitors. The abbey's location in the town of Ebrach makes it accessible for those traveling by car or public transport. For detailed directions and travel advice, check the official website for current information.
 
-While planning your visit, it’s important to check the official website for hours and prices as they may vary throughout the year. Visitors can expect to spend a few hours at Ebrach Abbey, allowing ample time to explore its architectural features, soak in the atmosphere, and reflect on its historical significance.
+While planning your visit, it's important to check the official website for hours and prices as they may vary throughout the year. Visitors can expect to spend a few hours at Ebrach Abbey, allowing ample time to explore its architectural features, soak in the atmosphere, and reflect on its historical significance.
 
 Ebrach Abbey is particularly enchanting during specific times of the year when the surrounding landscape offers a different perspective on the site. Whether bathed in the golden light of autumn or under a blanket of snow in winter, the abbey's beauty adapts to the seasons, inviting visitors to return throughout the year.
 

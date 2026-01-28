@@ -36,7 +36,7 @@ This guide delves into the history, architectural features, visiting information
 
 The Bismarck Tower in Remscheid is part of a series of towers built in honor of Otto von Bismarck, the first Chancellor of the German Empire. While specific dates regarding its construction are not provided, Bismarck Towers were erected throughout Germany in the late 19th and early 20th centuries as monuments to German unity and national pride.
 
-The construction of these towers was often prompted by a desire to commemorate Bismarck’s role in shaping modern Germany. The Remscheid tower serves as a local landmark, representing not only a tribute to Bismarck but also the aspirations and sentiments of the communities that built them. Throughout the years, Bismarck Towers have become focal points for local gatherings, celebrations, and even tourism, deepening their cultural importance.
+The construction of these towers was often prompted by a desire to commemorate Bismarck's role in shaping modern Germany. The Remscheid tower serves as a local landmark, representing not only a tribute to Bismarck but also the aspirations and sentiments of the communities that built them. Throughout the years, Bismarck Towers have become focal points for local gatherings, celebrations, and even tourism, deepening their cultural importance.
 
 In Remscheid, the tower stands as a reminder of the city's historical narrative, intertwining themes of unity, national identity, and local heritage. Visitors can engage with this history, reflecting on the legacy of Bismarck and the era in which he lived.
 

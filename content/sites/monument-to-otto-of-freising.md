@@ -42,9 +42,9 @@ The monument's location within the cathedral courtyard is significant, as it pla
 
 The Monument to Otto of Freising is a striking example of 19th-century sculpture, executed by the renowned artist Caspar von Zumbusch. The statue itself is life-sized, designed to capture the likeness of Otto in a dignified manner. He is depicted in traditional ecclesiastical attire, which not only signifies his role as a bishop but also reflects the artistic conventions of his time. 
 
-The statue is mounted on a robust Romanesque pedestal that complements the overall design, providing a foundation that emphasizes Otto’s status and the importance of the monument. The craftsmanship involved in both the sculpture and the pedestal speaks to the skill and artistic vision of von Zumbusch, whose work was characterized by a blend of realism and idealism.
+The statue is mounted on a robust Romanesque pedestal that complements the overall design, providing a foundation that emphasizes Otto's status and the importance of the monument. The craftsmanship involved in both the sculpture and the pedestal speaks to the skill and artistic vision of von Zumbusch, whose work was characterized by a blend of realism and idealism.
 
-In terms of features, the monument displays intricate details that invite closer examination. From the folds of Otto’s robes to the expression on his face, every aspect is carefully rendered, contributing to the lifelike quality of the sculpture. The pedestal may incorporate symbolic elements or inscriptions that further enhance its significance, although specific details regarding these features are not provided in the available data.
+In terms of features, the monument displays intricate details that invite closer examination. From the folds of Otto's robes to the expression on his face, every aspect is carefully rendered, contributing to the lifelike quality of the sculpture. The pedestal may incorporate symbolic elements or inscriptions that further enhance its significance, although specific details regarding these features are not provided in the available data.
 
 As a whole, the Monument to Otto of Freising is not just a tribute to a single individual but a representation of the artistry and historical narrative of the time. Its placement within the cathedral courtyard creates a harmonious relationship between the monument and its surroundings, encouraging visitors to reflect on the interplay between art, history, and faith.
 
@@ -68,7 +68,7 @@ Freising is rich in heritage, and several nearby attractions complement a visit 
 
 3. **Bavarian State Brewery Weihenstephan**: Located nearby, this brewery provides insight into the brewing process and the history of beer production in the region.
 
-4. **St. George’s Church**: A few minutes' walk from the monument, this church is known for its striking architecture and historical significance.
+4. **St. George's Church**: A few minutes' walk from the monument, this church is known for its striking architecture and historical significance.
 
 5. **Freising's Old Town**: Explore the charming streets filled with shops, cafes, and historical buildings that reflect the city's rich past.
 

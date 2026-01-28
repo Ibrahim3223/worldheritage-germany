@@ -84,7 +84,7 @@ When planning your visit to Ahrweilerplatz, here are a few practical considerati
 The time spent at Ahrweilerplatz can vary. Most visitors find that half an hour to a couple of hours is sufficient to appreciate the square and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally allowed in Ahrweilerplatz. It’s a great opportunity to capture the local culture and atmosphere.
+Yes, photography is generally allowed in Ahrweilerplatz. It's a great opportunity to capture the local culture and atmosphere.
 
 ### Are there guided tours?
 While specific guided tours may not be available for Ahrweilerplatz itself, local tourism information can provide details on broader tours of Düren that include the square.

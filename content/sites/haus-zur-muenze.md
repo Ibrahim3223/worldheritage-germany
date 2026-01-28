@@ -82,7 +82,7 @@ When visiting Haus zur Münze, consider the following tips for an enhanced exper
 
 Before heading to Haus zur Münze, here are some practical considerations to keep in mind:
 
-- **What to Bring**: A camera, comfortable walking shoes, and a water bottle are advisable. If you’re planning to explore the surrounding area, consider bringing a small backpack for convenience.
+- **What to Bring**: A camera, comfortable walking shoes, and a water bottle are advisable. If you're planning to explore the surrounding area, consider bringing a small backpack for convenience.
   
 - **Seasonal Considerations**: The weather in Worms can vary throughout the year. Dress appropriately for the season, and check forecasts in advance to ensure a comfortable visit.
 
@@ -92,7 +92,7 @@ Before heading to Haus zur Münze, here are some practical considerations to kee
 A visit to Haus zur Münze typically takes about an hour, allowing you to explore the building and learn about its significance.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with staff on-site regarding any restrictions.
+Photography policies can vary, so it's best to check with staff on-site regarding any restrictions.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website, so be sure to check there for current offerings.
@@ -112,4 +112,4 @@ Facilities like restrooms and nearby cafes may be available, but check the offic
 ### What should I wear?
 Dress comfortably, keeping in mind the weather and any activities you plan to engage in during your visit.
 
-Haus zur Münze is more than just a city hall; it is a vital part of Worms’ identity, inviting visitors to engage with the past while exploring the ongoing story of this remarkable city.
+Haus zur Münze is more than just a city hall; it is a vital part of Worms' identity, inviting visitors to engage with the past while exploring the ongoing story of this remarkable city.

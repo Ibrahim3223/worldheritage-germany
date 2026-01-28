@@ -52,7 +52,7 @@ To reach Schloss Stedten, visitors can take advantage of the public transport op
 
 When planning your visit, consider allocating sufficient time to fully appreciate the architecture and the surrounding areas. Depending on your interests, a visit may take anywhere from an hour to a few hours. The best times to visit would typically be during the spring and summer months when the landscape is vibrant and the weather is conducive to outdoor exploration.
 
-Expect a peaceful atmosphere as you wander through the estate, allowing you to soak in the historical significance and beauty of Schloss Stedten. The manor house may offer various experiences, such as guided tours or exhibitions, enhancing your understanding of the site’s heritage.
+Expect a peaceful atmosphere as you wander through the estate, allowing you to soak in the historical significance and beauty of Schloss Stedten. The manor house may offer various experiences, such as guided tours or exhibitions, enhancing your understanding of the site's heritage.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ If you plan to explore the grounds or gardens, consider wearing comfortable shoe
 
 ## Practical Information
 
-When visiting Schloss Stedten, it’s advisable to bring a camera to capture the beauty of the architecture and surrounding landscape. Also, consider packing water and snacks for a leisurely exploration of the area. Seasonal considerations are essential; spring and summer provide the best conditions for outdoor activities, while autumn offers beautiful foliage.
+When visiting Schloss Stedten, it's advisable to bring a camera to capture the beauty of the architecture and surrounding landscape. Also, consider packing water and snacks for a leisurely exploration of the area. Seasonal considerations are essential; spring and summer provide the best conditions for outdoor activities, while autumn offers beautiful foliage.
 
 Dress in layers, as temperatures can vary throughout the day, particularly if you plan to spend time outdoors. Adequate planning ensures a comfortable and enjoyable visit to this historical site.
 

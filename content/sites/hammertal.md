@@ -62,7 +62,7 @@ While visiting, guests can expect a peaceful atmosphere, with opportunities for 
 
 3. **Bergisches Land Nature Park**: A short drive from Hammertal, this expansive natural park is perfect for those looking to extend their outdoor adventures with additional hiking, cycling, and wildlife observation opportunities.
 
-4. **Museum für Frühindustrialisierung**: Located in Remscheid, this museum showcases the industrial history of the region, offering exhibits that highlight the area’s development during the industrial revolution.
+4. **Museum für Frühindustrialisierung**: Located in Remscheid, this museum showcases the industrial history of the region, offering exhibits that highlight the area's development during the industrial revolution.
 
 5. **Lüttringhausen Castle**: This historical castle features beautiful architecture and gardens, providing a picturesque setting for exploration and relaxation.
 

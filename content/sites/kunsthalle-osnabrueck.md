@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Kunsthalle Osnabrück is an intriguing destination that combines historical architecture with contemporary art, located in the heart of Osnabrück, Germany. Originally a church building, this museum has evolved into a significant cultural venue, showcasing a variety of artistic expressions and exhibitions that reflect both local and international artistic trends. Visitors can expect a thoughtfully curated space where art intersects with the narrative of the venue’s storied past, creating a unique atmosphere that invites exploration and reflection.
+Kunsthalle Osnabrück is an intriguing destination that combines historical architecture with contemporary art, located in the heart of Osnabrück, Germany. Originally a church building, this museum has evolved into a significant cultural venue, showcasing a variety of artistic expressions and exhibitions that reflect both local and international artistic trends. Visitors can expect a thoughtfully curated space where art intersects with the narrative of the venue's storied past, creating a unique atmosphere that invites exploration and reflection.
 
-Osnabrück itself is steeped in rich history, serving as a pivotal city in the Peace of Westphalia negotiations in the 17th century, which ended the Thirty Years' War. The presence of Kunsthalle Osnabrück adds to the city’s cultural landscape, making it a focal point for art lovers and history enthusiasts alike. As a museum, it not only serves as a gallery for visual arts but also functions as a platform for public engagement with art, fostering a deeper appreciation of both contemporary and historical works.
+Osnabrück itself is steeped in rich history, serving as a pivotal city in the Peace of Westphalia negotiations in the 17th century, which ended the Thirty Years' War. The presence of Kunsthalle Osnabrück adds to the city's cultural landscape, making it a focal point for art lovers and history enthusiasts alike. As a museum, it not only serves as a gallery for visual arts but also functions as a platform for public engagement with art, fostering a deeper appreciation of both contemporary and historical works.
 
 Visitors will find that Kunsthalle Osnabrück is more than just a museum; it is a space where creativity flourishes amidst the backdrop of a former sacred site, offering a distinct experience that resonates with both art aficionados and casual visitors alike.
 
@@ -44,11 +44,11 @@ This institution exemplifies the importance of art in societal development, serv
 
 ## Architecture and Features
 
-The architecture of Kunsthalle Osnabrück reflects its origins as a church, with elements that pay homage to its historical roots while accommodating the needs of a modern art gallery. The building’s exterior retains a sense of solemnity and grandeur, characterized by traditional church architectural features that invite curiosity from passersby.
+The architecture of Kunsthalle Osnabrück reflects its origins as a church, with elements that pay homage to its historical roots while accommodating the needs of a modern art gallery. The building's exterior retains a sense of solemnity and grandeur, characterized by traditional church architectural features that invite curiosity from passersby.
 
 Inside, the space is thoughtfully designed to facilitate the display of various art forms. The galleries are adaptable, allowing for a diverse range of exhibitions, from large-scale installations to intimate showcases. The layout is conducive to movement, encouraging visitors to engage with the artwork at their own pace. 
 
-One of the notable features is the interplay between natural light and the artwork on display. The museum’s design incorporates windows that illuminate the galleries, enhancing the viewing experience and creating an inviting atmosphere. This careful consideration of lighting is essential for displaying contemporary art, where the interaction between light and medium can dramatically influence perception.
+One of the notable features is the interplay between natural light and the artwork on display. The museum's design incorporates windows that illuminate the galleries, enhancing the viewing experience and creating an inviting atmosphere. This careful consideration of lighting is essential for displaying contemporary art, where the interaction between light and medium can dramatically influence perception.
 
 Kunsthalle Osnabrück also includes areas for educational programming, where workshops and discussions can take place, further bridging the gap between artists and the community. This blend of historical architecture and contemporary functionality makes Kunsthalle Osnabrück a distinctive venue for both art appreciation and cultural discourse.
 
@@ -68,7 +68,7 @@ Visiting Kunsthalle Osnabrück opens up opportunities to explore other cultural 
 
 1. **Osnabrück Castle**: A short walk from the museum, this historical site offers a glimpse into the region's past and houses the Osnabrück Cultural History Museum.
 
-2. **St. Peter’s Cathedral**: Located nearby, this impressive cathedral features stunning architecture and offers insights into the city's ecclesiastical history.
+2. **St. Peter's Cathedral**: Located nearby, this impressive cathedral features stunning architecture and offers insights into the city's ecclesiastical history.
 
 3. **Felix-Nussbaum-Haus**: Dedicated to the works of artist Felix Nussbaum, this museum showcases his poignant artworks and serves as a memorial to the Holocaust, making it a significant cultural site.
 
@@ -86,7 +86,7 @@ If you have a particular interest in contemporary art, keep an eye out for speci
 
 ## Practical Information
 
-When planning your visit to Kunsthalle Osnabrück, it’s advisable to wear comfortable shoes, as you may spend a fair amount of time exploring the galleries and nearby attractions. Depending on the season, consider layering your clothing, as museum environments can vary in temperature.
+When planning your visit to Kunsthalle Osnabrück, it's advisable to wear comfortable shoes, as you may spend a fair amount of time exploring the galleries and nearby attractions. Depending on the season, consider layering your clothing, as museum environments can vary in temperature.
 
 Bringing a water bottle is also recommended, as it will keep you refreshed during your exploration. While specific amenities may vary, checking the official website prior to your visit can provide additional information on facilities available within the museum.
 
@@ -98,7 +98,7 @@ As you prepare for your visit, be mindful of seasonal considerations. During pea
 A visit typically takes between one to two hours, depending on your interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check upon entry to see which areas permit photography.
+Photography policies may vary. It's best to check upon entry to see which areas permit photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special events that may be scheduled during your visit.

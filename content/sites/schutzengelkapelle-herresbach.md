@@ -72,7 +72,7 @@ Visitors to the Schutzengelkapelle can explore several nearby attractions that c
 
 For those wishing to capture the essence of the Schutzengelkapelle through photography, early mornings or late afternoons are ideal for softer, natural lighting. Be mindful of any restrictions regarding photography inside the chapel, as certain areas may prohibit the use of cameras to maintain the sanctity of the space.
 
-To avoid crowds, consider visiting during weekdays when local traffic is typically lower, allowing for a more personal experience. If you’re interested in connecting with the community, inquire about any upcoming local events or services that may be open to visitors.
+To avoid crowds, consider visiting during weekdays when local traffic is typically lower, allowing for a more personal experience. If you're interested in connecting with the community, inquire about any upcoming local events or services that may be open to visitors.
 
 ## Practical Information
 
@@ -88,13 +88,13 @@ It is also advisable to check the official website for any specific guidelines r
 A visit to the Schutzengelkapelle typically takes about an hour, allowing enough time to explore the chapel and reflect in its serene environment.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check any posted guidelines upon arrival to ensure respectful conduct within the chapel.
+Photography policies can vary; it's best to check any posted guidelines upon arrival to ensure respectful conduct within the chapel.
 
 ### Are there guided tours?
 Information about guided tours is not specified; check the official website or inquire locally for any available options.
 
 ### What's the best time to visit?
-The best times to visit are early mornings or late afternoons, when natural light enhances the chapel’s atmosphere.
+The best times to visit are early mornings or late afternoons, when natural light enhances the chapel's atmosphere.
 
 ### Is it wheelchair accessible?
 Accessibility details are not provided; it is advisable to check the official website for more information regarding wheelchair access.

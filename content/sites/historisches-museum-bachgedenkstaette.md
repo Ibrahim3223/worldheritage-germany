@@ -32,7 +32,7 @@ As the museum continues to preserve and present artifacts related to Bach and th
 
 ## History and Significance
 
-The Historisches Museum & Bachgedenkstätte holds significant cultural importance, particularly in relation to Johann Sebastian Bach. Although specific dates and historical milestones are not detailed, it is known that Bach worked in Köthen from 1717 to 1723, a period during which he composed some of his most celebrated works. The museum serves as a vital link to this musical heritage, preserving artifacts and documentation that reflect the composer’s life and contributions during this pivotal time.
+The Historisches Museum & Bachgedenkstätte holds significant cultural importance, particularly in relation to Johann Sebastian Bach. Although specific dates and historical milestones are not detailed, it is known that Bach worked in Köthen from 1717 to 1723, a period during which he composed some of his most celebrated works. The museum serves as a vital link to this musical heritage, preserving artifacts and documentation that reflect the composer's life and contributions during this pivotal time.
 
 Köthen itself has a rich history, with roots that can be traced back several centuries. The town has witnessed various cultural and political transformations over the years, making it a fascinating focal point for understanding the broader historical narrative of the region. The museum not only showcases Bach's influence but also highlights the historical developments that shaped Köthen, including its role in the arts and education.
 

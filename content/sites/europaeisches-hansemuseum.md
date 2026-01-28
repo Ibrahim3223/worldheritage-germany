@@ -62,7 +62,7 @@ While in Lübeck, there are several nearby attractions worth exploring.
    
 2. **St. Mary's Church**: Another remarkable Gothic structure, St. Mary's Church features impressive stained glass and an astronomical clock, reflecting the city's artistic heritage.
    
-3. **Holstentor**: This iconic city gate is a symbol of Lübeck and offers a glimpse into the city’s medieval fortifications.
+3. **Holstentor**: This iconic city gate is a symbol of Lübeck and offers a glimpse into the city's medieval fortifications.
 
 4. **Buddenbrook House**: A museum dedicated to the famous literary family, the Manns, this site provides cultural context to Lübeck's intellectual legacy.
 

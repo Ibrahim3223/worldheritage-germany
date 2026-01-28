@@ -66,7 +66,7 @@ Several attractions in Herten complement a visit to Schloßkapelle St. Martinus,
 
 4. **Bertlich Nature Reserve**: For those interested in nature, this nearby reserve offers trails and opportunities to enjoy the natural beauty of the region.
 
-5. **St. Joseph Church**: Another notable religious building in Herten, offering a different perspective on the area’s architectural heritage.
+5. **St. Joseph Church**: Another notable religious building in Herten, offering a different perspective on the area's architectural heritage.
 
 ## Insider Tips
 

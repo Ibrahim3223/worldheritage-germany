@@ -38,7 +38,7 @@ The architectural design of the Dokumentationsstätte Gefangenenhaus Ostertorwac
 
 Inside, the museum combines both preserved and renovated spaces that facilitate the various exhibitions. The layout is designed to guide visitors through the narratives of imprisonment and justice, providing an immersive experience that encourages reflection and understanding. The careful curation of exhibits makes use of multimedia elements, including photographs, documents, and personal testimonies, to create an engaging environment.
 
-The museum’s dedication to presenting the stories of those who were imprisoned is reflected in its exhibitions, which highlight both the historical and contemporary aspects of the justice system. This thoughtful approach helps to foster a deeper understanding of the implications of incarceration, making the museum an important educational resource.
+The museum's dedication to presenting the stories of those who were imprisoned is reflected in its exhibitions, which highlight both the historical and contemporary aspects of the justice system. This thoughtful approach helps to foster a deeper understanding of the implications of incarceration, making the museum an important educational resource.
 
 ## Visiting Information
 
@@ -86,7 +86,7 @@ Seasonal considerations may also play a role in your visit. Bremen experiences a
 A typical visit can take between 1.5 to 2.5 hours, depending on your interest in exploring the exhibits in depth.
 
 ### Is photography allowed?
-Check the museum’s policies regarding photography, as rules may vary by exhibition.
+Check the museum's policies regarding photography, as rules may vary by exhibition.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

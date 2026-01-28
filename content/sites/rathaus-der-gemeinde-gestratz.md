@@ -50,7 +50,7 @@ Visitors can expect to see a structure that harmonizes with the surrounding envi
 
 Notable features of the Rathaus might include a prominent entrance, possibly adorned with decorative elements that signify its importance as a municipal building. While specific architectural details are not outlined, one can imagine elements that reflect the local craftsmanship and attention to design that the region is known for.
 
-The city hall’s functionality is a primary aspect of its architecture. It is designed to accommodate various administrative functions and public interactions, making it a versatile space that adapts to the needs of the community. 
+The city hall's functionality is a primary aspect of its architecture. It is designed to accommodate various administrative functions and public interactions, making it a versatile space that adapts to the needs of the community. 
 
 ## Visiting Information
 

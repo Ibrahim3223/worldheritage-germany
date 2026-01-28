@@ -22,7 +22,7 @@ images:
 
 The Kunstsammlungen der Stadt Limburg is a distinguished museum located in the heart of Germany. This cultural institution not only showcases an impressive collection of art but also serves as a significant cultural hub in the region. Visitors to Limburg can expect a harmonious blend of artistic expression and historical narrative, making it a worthwhile stop for art enthusiasts and casual travelers alike. The museum is strategically situated, providing easy access for those exploring the rich heritage of this part of Germany.
 
-As a museum, Kunstsammlungen der Stadt Limburg plays a vital role in preserving and presenting art and cultural artifacts. It invites visitors to engage with art in its many forms, offering a space for reflection and inspiration. The museum’s collection is a reflection of both local and broader artistic movements, ensuring that the experience is both enriching and enlightening.
+As a museum, Kunstsammlungen der Stadt Limburg plays a vital role in preserving and presenting art and cultural artifacts. It invites visitors to engage with art in its many forms, offering a space for reflection and inspiration. The museum's collection is a reflection of both local and broader artistic movements, ensuring that the experience is both enriching and enlightening.
 
 ## History and Significance
 
@@ -54,11 +54,11 @@ When visiting Kunstsammlungen der Stadt Limburg, there are several nearby attrac
 
 1. **Limburg Cathedral**: A stunning example of Romanesque architecture, this cathedral is one of Limburg's most iconic landmarks and is known for its intricate façade and beautiful stained glass windows.
 
-2. **Historic Old Town**: Wander the charming streets of Limburg’s Old Town, characterized by half-timbered houses and a vibrant atmosphere filled with shops and cafes.
+2. **Historic Old Town**: Wander the charming streets of Limburg's Old Town, characterized by half-timbered houses and a vibrant atmosphere filled with shops and cafes.
 
 3. **Lahn River Promenade**: Enjoy a leisurely stroll along the banks of the Lahn River, where scenic views and peaceful surroundings provide a perfect backdrop for relaxation.
 
-4. **St. George’s Chapel**: A small but significant chapel located within the cathedral complex, offering insight into the religious architecture of the region.
+4. **St. George's Chapel**: A small but significant chapel located within the cathedral complex, offering insight into the religious architecture of the region.
 
 5. **Limburg Castle Ruins**: Explore the remnants of this medieval castle, which offers historical context and panoramic views of the town and surrounding area.
 

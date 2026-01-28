@@ -34,7 +34,7 @@ The museum serves as a platform for various exhibitions and events that not only
 
 Antikriegshaus Sievershausen is rooted in the desire to address the consequences of war and the importance of peace in society. The establishment emerged from a collective recognition that the lessons of the past must be conveyed to future generations. Although specific dates regarding its founding are not detailed, its cultural significance lies in its commitment to promoting awareness and understanding of the complexities surrounding war and peace.
 
-The museum’s focus is not only on historical events but also on their long-lasting effects on communities and individuals. It serves as a reminder of the human cost of conflict, providing a space where visitors can reflect on the importance of peace-building initiatives. Through various exhibitions and events, Antikriegshaus Sievershausen encourages dialogue about the social, political, and ethical dimensions of peace and war, fostering a greater understanding of global issues.
+The museum's focus is not only on historical events but also on their long-lasting effects on communities and individuals. It serves as a reminder of the human cost of conflict, providing a space where visitors can reflect on the importance of peace-building initiatives. Through various exhibitions and events, Antikriegshaus Sievershausen encourages dialogue about the social, political, and ethical dimensions of peace and war, fostering a greater understanding of global issues.
 
 Educational programs and community events are integral to the museum's mission, aiming to engage the local population and visitors alike. By exploring themes of peace, conflict resolution, and the impact of war, the museum plays a crucial role in shaping public consciousness regarding these important issues.
 
@@ -72,7 +72,7 @@ Antikriegshaus Sievershausen is located in a region rich with other attractions 
 
 ## Insider Tips
 
-When visiting Antikriegshaus Sievershausen, consider bringing a camera to capture the thoughtful exhibitions and installations. However, it is advisable to check the museum’s photography policy upon arrival to ensure compliance with guidelines.
+When visiting Antikriegshaus Sievershausen, consider bringing a camera to capture the thoughtful exhibitions and installations. However, it is advisable to check the museum's photography policy upon arrival to ensure compliance with guidelines.
 
 To avoid crowds, plan your visit during weekdays or early in the day, especially if you are interested in attending special events or lectures. This can provide a more intimate experience and allow for deeper engagement with the exhibitions.
 

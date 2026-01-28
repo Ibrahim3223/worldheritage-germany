@@ -36,7 +36,7 @@ The Abbey of Saint Peter has long been an influential center for monastic life i
 
 Throughout its history, the abbey has been a site of pilgrimage and devotion, attracting worshippers seeking solace and spiritual connection. The monks of Saint Peter were known for their dedication to various crafts, agriculture, and education, contributing to the local economy and society. The cultural significance of the abbey extends beyond its walls, influencing the development of the surrounding communities. 
 
-As you explore the grounds, you may sense the echoes of centuries past—moments of prayer, scholarship, and community life continue to resonate in this tranquil space. The abbey’s role as a center of spirituality and learning remains relevant today, as it continues to welcome visitors and seekers from all walks of life.
+As you explore the grounds, you may sense the echoes of centuries past—moments of prayer, scholarship, and community life continue to resonate in this tranquil space. The abbey's role as a center of spirituality and learning remains relevant today, as it continues to welcome visitors and seekers from all walks of life.
 
 ## Architecture and Features
 

@@ -86,7 +86,7 @@ Seasonal considerations play a role in planning your visit; spring and autumn of
 A visit to the Alte Evangelische Kirche typically takes around one to two hours, depending on whether you plan to enjoy a film or explore the venue.
 
 ### Is photography allowed?
-Photography may be permitted, but it is advisable to check with the venue’s policies, especially during film screenings.
+Photography may be permitted, but it is advisable to check with the venue's policies, especially during film screenings.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for updates and potential offerings.

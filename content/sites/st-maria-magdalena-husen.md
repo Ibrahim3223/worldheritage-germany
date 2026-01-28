@@ -52,7 +52,7 @@ Visitors planning to explore St. Maria Magdalena should consider the best means 
 
 Before visiting, check the official website for current information regarding hours of operation and any potential admission fees. While specific details are not provided, typical church visiting hours may allow for ample time to explore both the interior and exterior of the building. 
 
-When planning your visit, it’s advisable to set aside a couple of hours to fully appreciate the church and its surroundings. The best times to visit are often during weekdays or early mornings when crowds may be smaller, allowing for a more intimate experience.
+When planning your visit, it's advisable to set aside a couple of hours to fully appreciate the church and its surroundings. The best times to visit are often during weekdays or early mornings when crowds may be smaller, allowing for a more intimate experience.
 
 As you arrive, be prepared for the tranquil atmosphere of the church, which encourages reflection and quiet contemplation. Visitors may find benches or quiet spaces ideal for taking in the beauty of the architecture and the peacefulness of the environment.
 

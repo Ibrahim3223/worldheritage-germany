@@ -70,7 +70,7 @@ Upon arrival, guests can anticipate a welcoming environment, with staff ready to
 
 3. **Funkhaus Berlin**: This former radio broadcasting complex has been transformed into a cultural venue, hosting concerts, events, and exhibitions, adding to the artistic richness of the area.
 
-4. **Charité – Universitätsmedizin Berlin**: One of Europe’s largest university hospitals, the Charité has a history dating back to the 18th century and is known for its contributions to medical research and education.
+4. **Charité – Universitätsmedizin Berlin**: One of Europe's largest university hospitals, the Charité has a history dating back to the 18th century and is known for its contributions to medical research and education.
 
 5. **Reichstag Building**: A short distance from ACUD, this historic government building features a striking glass dome offering panoramic views of the city, making it a significant political and architectural landmark.
 

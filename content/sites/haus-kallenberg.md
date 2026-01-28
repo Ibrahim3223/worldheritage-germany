@@ -36,7 +36,7 @@ The history of Haus Kallenberg reflects the broader narrative of architectural d
 
 Haus Kallenberg stands as a reminder of the region's past, showcasing how architecture can convey the values and aspirations of a community. Its significance is amplified by its status as an architectural heritage monument, which highlights its importance in preserving the collective memory of the area. The careful attention to detail and craftsmanship evident in the structure speaks to the dedication of those who constructed and maintained it over the years.
 
-As a site of cultural importance, Haus Kallenberg has likely hosted various events and gatherings, serving as a focal point for community interaction. The ensemble not only represents architectural excellence but also embodies the spirit of the local population, making it an essential part of Ende’s identity. Visitors to the site can appreciate the historical context and the stories that each stone and beam may hold.
+As a site of cultural importance, Haus Kallenberg has likely hosted various events and gatherings, serving as a focal point for community interaction. The ensemble not only represents architectural excellence but also embodies the spirit of the local population, making it an essential part of Ende's identity. Visitors to the site can appreciate the historical context and the stories that each stone and beam may hold.
 
 ## Architecture and Features
 

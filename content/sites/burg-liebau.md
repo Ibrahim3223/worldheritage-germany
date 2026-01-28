@@ -58,7 +58,7 @@ Burg Liebau is accessible to visitors eager to explore its historic grounds. To 
 
 Check the official website for current information regarding opening hours and ticket prices, as these details can vary throughout the year. Visitors are encouraged to plan their visit accordingly to ensure they maximize their experience.
 
-A visit to Burg Liebau typically requires a few hours, allowing ample time to wander the grounds and absorb the historical significance of the site. The best times to visit are often during the spring and autumn months when the weather is mild and the natural surroundings complement the castle’s aura.
+A visit to Burg Liebau typically requires a few hours, allowing ample time to wander the grounds and absorb the historical significance of the site. The best times to visit are often during the spring and autumn months when the weather is mild and the natural surroundings complement the castle's aura.
 
 While exploring, guests can expect to encounter informative displays and possibly guided tours that delve deeper into the castle's history and architectural features. Be prepared for some walking, as the terrain may vary, and comfortable footwear is recommended.
 
@@ -93,7 +93,7 @@ A visit to Burg Liebau typically takes a few hours, allowing time to explore the
 Photography is generally permitted; however, be mindful of any restrictions that may be in place during special events or guided tours.
 
 ### Are there guided tours?
-Guided tours may be available, providing an in-depth understanding of the castle’s history and architecture. Check the official website for details.
+Guided tours may be available, providing an in-depth understanding of the castle's history and architecture. Check the official website for details.
 
 ### What's the best time to visit?
 The best times to visit are often in spring and autumn when the weather is pleasant, and the environment is inviting for exploration.

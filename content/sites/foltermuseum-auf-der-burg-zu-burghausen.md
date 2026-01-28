@@ -50,11 +50,11 @@ The museum's atmosphere is both educational and somber, creating a space where v
 
 ## Visiting Information
 
-When planning a visit to the Foltermuseum auf der Burg zu Burghausen, it’s important to consider the best ways to reach this historical site. The museum is located within the Burghausen Castle grounds, accessible by foot from the town of Burghausen. The town has public transport options, including buses that connect to larger cities, making it easier for visitors to access the museum.
+When planning a visit to the Foltermuseum auf der Burg zu Burghausen, it's important to consider the best ways to reach this historical site. The museum is located within the Burghausen Castle grounds, accessible by foot from the town of Burghausen. The town has public transport options, including buses that connect to larger cities, making it easier for visitors to access the museum.
 
 Check the official website for current information regarding visiting hours and ticket prices, as these can vary. Generally, allocating a couple of hours for your visit is advisable to fully appreciate the exhibits and the context in which they exist. The museum tends to be less crowded on weekdays, making that an ideal time for those who prefer a quieter experience.
 
-For an enriching visit, it’s recommended to explore the castle grounds further, as they offer stunning views of the surrounding area and additional historical context. The best times to visit are during the spring and autumn months when the weather is generally mild, allowing for comfortable exploration.
+For an enriching visit, it's recommended to explore the castle grounds further, as they offer stunning views of the surrounding area and additional historical context. The best times to visit are during the spring and autumn months when the weather is generally mild, allowing for comfortable exploration.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ While visiting the Foltermuseum auf der Burg zu Burghausen, there are several ne
 
 1. **Burghausen Castle**: Beyond the museum, the castle itself is a significant attraction, with its extensive grounds and historical significance. Exploring the various courtyards and towers can provide additional insights into medieval life.
 
-2. **St. Jakob Church**: Located in Burghausen, this church is known for its impressive Gothic architecture and beautiful frescoes. It’s a short walk from the castle and offers a serene atmosphere for reflection.
+2. **St. Jakob Church**: Located in Burghausen, this church is known for its impressive Gothic architecture and beautiful frescoes. It's a short walk from the castle and offers a serene atmosphere for reflection.
 
 3. **Salzach River Promenade**: A stroll along the river provides picturesque views and a pleasant environment to unwind after your museum visit. The promenade is ideal for a leisurely walk or a picnic.
 
@@ -111,7 +111,7 @@ For details on accessibility, visit the official website to understand the facil
 Check the official website for information on ticket purchasing options, including online sales if available.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available, but it’s advisable to check the official website for specific amenities, including dining options.
+Restroom facilities are typically available, but it's advisable to check the official website for specific amenities, including dining options.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, as you may be walking outdoors within the castle grounds.

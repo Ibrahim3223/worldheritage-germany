@@ -36,7 +36,7 @@ The Slevogthof manor house is a notable example of 19th-century German architect
 
 Manor houses like Slevogthof were often central to the community, acting as hubs for social gatherings, administrative functions, and agricultural management. The architectural style of the manor is indicative of the prosperity experienced in the 19th century, a time when many such estates were constructed to reflect the wealth and status of their owners.
 
-In addition to its architectural significance, Slevogthof has cultural importance as part of the local heritage. It stands as a reminder of the historical land use and social structures that shaped the region. The manor’s preservation allows for continued appreciation and study of the lifestyle and customs of those who lived and worked in such estates.
+In addition to its architectural significance, Slevogthof has cultural importance as part of the local heritage. It stands as a reminder of the historical land use and social structures that shaped the region. The manor's preservation allows for continued appreciation and study of the lifestyle and customs of those who lived and worked in such estates.
 
 ## Architecture and Features
 
@@ -86,7 +86,7 @@ Be sure to check seasonal considerations, as opening hours and available tours c
 A visit to Slevogthof typically takes around two hours, allowing for exploration of the interior and grounds.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check on-site or refer to the official website for specific guidelines.
+Photography policies can vary, so it's best to check on-site or refer to the official website for specific guidelines.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. Check ahead to see if such options are offered during your visit.
@@ -95,7 +95,7 @@ Information about guided tours may be available on the official website. Check a
 Visiting during spring or autumn is ideal, as the weather is usually mild and conducive to exploring the manor and its surroundings.
 
 ### Is it wheelchair accessible?
-Access information can vary, so it’s advisable to check the official website for details regarding wheelchair accessibility.
+Access information can vary, so it's advisable to check the official website for details regarding wheelchair accessibility.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding online ticket purchasing options.

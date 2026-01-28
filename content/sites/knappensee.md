@@ -42,9 +42,9 @@ In addition to its ecological importance, the lake has become a focal point for 
 
 ## Architecture and Features
 
-Knappensee is characterized by its expansive body of water, surrounded by natural landscapes that provide a scenic backdrop for various activities. The lake’s shores are lined with gentle slopes and patches of greenery, creating a welcoming environment for outdoor enthusiasts. Though specific architectural features may not be present, the natural beauty of the lake is its primary attraction.
+Knappensee is characterized by its expansive body of water, surrounded by natural landscapes that provide a scenic backdrop for various activities. The lake's shores are lined with gentle slopes and patches of greenery, creating a welcoming environment for outdoor enthusiasts. Though specific architectural features may not be present, the natural beauty of the lake is its primary attraction.
 
-The reservoir’s design as a water management facility reflects a practical approach to harnessing nature's resources. The construction and maintenance of the dam and surrounding areas are vital for ensuring the lake's functionality and ecological health. Visitors can enjoy the peaceful ambiance created by the lake's expansive waters and the surrounding flora.
+The reservoir's design as a water management facility reflects a practical approach to harnessing nature's resources. The construction and maintenance of the dam and surrounding areas are vital for ensuring the lake's functionality and ecological health. Visitors can enjoy the peaceful ambiance created by the lake's expansive waters and the surrounding flora.
 
 The area around Knappensee is ideal for a variety of recreational activities, including walking, cycling, and fishing. The lake's tranquil waters are often dotted with kayaks and small boats, inviting visitors to take advantage of the recreational opportunities available. The combination of natural beauty and functional design makes Knappensee a noteworthy destination for those who appreciate both ecology and leisure.
 

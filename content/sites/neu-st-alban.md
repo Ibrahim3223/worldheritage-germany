@@ -36,13 +36,13 @@ The historical context of Neu St. Alban is intertwined with the broader narrativ
 
 The cultural importance of Neu St. Alban extends beyond its religious functions; it embodies the artistic expressions of the era in which it was built. Churches in Germany often reflect the changing styles and trends of architecture, and Neu St. Alban is no exception. Its design and structure not only serve the practical purposes of a place of worship but also contribute to the artistic landscape of Cologne.
 
-Additionally, the church’s presence in Neustadt-Nord highlights the area's development as a residential and commercial hub. As Cologne grew and transformed over the years, Neu St. Alban remained a constant, symbolizing stability and continuity in a city marked by change.
+Additionally, the church's presence in Neustadt-Nord highlights the area's development as a residential and commercial hub. As Cologne grew and transformed over the years, Neu St. Alban remained a constant, symbolizing stability and continuity in a city marked by change.
 
 ## Architecture and Features
 
 Neu St. Alban exhibits characteristics typical of church buildings in the region, featuring a blend of architectural styles that reflect its historical context. The exterior of the church is likely marked by traditional elements that are synonymous with ecclesiastical architecture, including pointed arches, large windows, and intricate detailing. Such features not only enhance the visual appeal of the building but also serve functional purposes, allowing light to filter into the interior space and creating an uplifting atmosphere.
 
-Inside, visitors can expect to find a sanctuary that fosters a sense of peace and contemplation. The interior design may include artistic elements such as stained glass windows, wooden altars, and religious iconography, all of which contribute to the church’s spiritual ambiance. The layout of the church is typically oriented towards the altar, guiding congregants in their worship and reflection.
+Inside, visitors can expect to find a sanctuary that fosters a sense of peace and contemplation. The interior design may include artistic elements such as stained glass windows, wooden altars, and religious iconography, all of which contribute to the church's spiritual ambiance. The layout of the church is typically oriented towards the altar, guiding congregants in their worship and reflection.
 
 While specific architectural details about Neu St. Alban may not be available, the general features associated with church buildings in the area suggest that it is a site worthy of exploration for those interested in religious art and architecture.
 

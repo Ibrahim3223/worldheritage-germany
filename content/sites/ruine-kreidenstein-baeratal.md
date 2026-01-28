@@ -82,7 +82,7 @@ For an enriching visit to Ruine Kreidenstein, consider the following tips:
 
 When preparing for your visit to Ruine Kreidenstein, consider the following practicalities:
 
-- **What to Bring**: Comfortable walking shoes are essential, as the terrain may require some exploration. Additionally, it’s wise to carry a bottle of water, especially if visiting during warmer months.
+- **What to Bring**: Comfortable walking shoes are essential, as the terrain may require some exploration. Additionally, it's wise to carry a bottle of water, especially if visiting during warmer months.
 
 - **Seasonal Considerations**: Weather can vary, so check forecasts ahead of your visit. Spring and autumn typically offer the most pleasant conditions for exploring the site and its surroundings.
 

@@ -92,7 +92,7 @@ In terms of amenities, visitors should check the official website for informatio
 A visit to Herrenhaus Schönfeld typically requires a few hours, allowing time to explore both the interior and grounds.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s advisable to check for specific guidelines, especially inside the manor.
+Photography is generally allowed, but it's advisable to check for specific guidelines, especially inside the manor.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and architecture of the manor.

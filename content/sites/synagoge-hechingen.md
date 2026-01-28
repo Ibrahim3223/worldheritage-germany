@@ -80,7 +80,7 @@ When planning your visit to the Synagoge Hechingen, consider the following tips:
 
 Before heading to the Synagoge Hechingen, keep in mind a few practical considerations:
 
-- **What to Bring**: It’s advisable to bring a small bag for personal items, and consider having a notepad or device for taking notes if you wish to document your visit.
+- **What to Bring**: It's advisable to bring a small bag for personal items, and consider having a notepad or device for taking notes if you wish to document your visit.
 
 - **Seasonal Considerations**: Depending on the time of year, weather can vary significantly. Dress appropriately for the season, and check local forecasts to ensure comfort during your visit.
 

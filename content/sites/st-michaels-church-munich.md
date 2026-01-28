@@ -60,7 +60,7 @@ St. Michael's Church is situated amidst several other notable attractions in Mun
 
 1. **Marienplatz** - The central square of Munich, famous for its historic buildings and vibrant atmosphere. The New Town Hall and Glockenspiel are must-see features.
    
-2. **The Residenz Munich** - A former royal palace that now serves as a museum, showcasing the history and art of Bavaria’s royal families.
+2. **The Residenz Munich** - A former royal palace that now serves as a museum, showcasing the history and art of Bavaria's royal families.
 
 3. **Viktualienmarkt** - A renowned daily food market offering a wide variety of local produce, meats, and delicacies, perfect for sampling Bavarian cuisine.
 

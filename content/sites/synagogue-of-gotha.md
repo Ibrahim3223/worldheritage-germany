@@ -28,7 +28,7 @@ image_srcset:
 
 The Synagogue of Gotha, located in the heart of Gotha, Germany, represents a poignant chapter in the city's Jewish heritage. Though the structure itself no longer stands, its legacy continues to resonate in the community and offers a reflective space for understanding the history of Jewish life in this region. As you navigate through Gotha, the coordinates 50.9514, 10.7016 serve as a reminder of where Jewish worship and community life once flourished. Today, the site invites reflection on the cultural and historical significance of Jewish communities in Germany, making it a vital stop for heritage enthusiasts and history buffs alike.
 
-The synagogue was an integral part of Gotha’s social fabric, serving not only as a place of worship but also as a center for cultural activities. Visitors to the site can delve into the narratives of resilience and loss that characterize the Jewish experience in Europe, particularly during challenging historical periods.
+The synagogue was an integral part of Gotha's social fabric, serving not only as a place of worship but also as a center for cultural activities. Visitors to the site can delve into the narratives of resilience and loss that characterize the Jewish experience in Europe, particularly during challenging historical periods.
 
 With Gotha being accessible through various modes of transport, the site of the former synagogue is not just a point on a map, but a place that urges visitors to engage with its history and the broader context of Jewish life in Germany.
 
@@ -48,7 +48,7 @@ Although the Synagogue of Gotha is no longer standing, its architectural legacy 
 
 Typically, synagogues of the time were designed to accommodate communal worship, featuring a main hall for prayer, a bimah (elevated platform for reading the Torah), and often intricate stained glass windows that added to the spiritual atmosphere within. The design of the synagogue in Gotha would have reflected the cultural influences of the region while integrating traditional Jewish motifs.
 
-The community’s commitment to their faith was often expressed through the synagogue’s architecture, making it not just a physical space but a manifestation of their religious and cultural identity. The absence of the building today serves as a stark reminder of the fragility of cultural heritage and the importance of preserving the memory of such sites.
+The community's commitment to their faith was often expressed through the synagogue's architecture, making it not just a physical space but a manifestation of their religious and cultural identity. The absence of the building today serves as a stark reminder of the fragility of cultural heritage and the importance of preserving the memory of such sites.
 
 ## Visiting Information
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekday mornings when the area is typi
 
 ## Practical Information
 
-When planning your visit to the site of the former Synagogue of Gotha, it’s advisable to dress comfortably, as you may wish to explore the nearby attractions on foot. Bring water and perhaps a small snack, particularly if you plan to spend more time exploring the city and its heritage.
+When planning your visit to the site of the former Synagogue of Gotha, it's advisable to dress comfortably, as you may wish to explore the nearby attractions on foot. Bring water and perhaps a small snack, particularly if you plan to spend more time exploring the city and its heritage.
 
 Seasonal considerations should also be kept in mind; while the site is accessible year-round, spring and early autumn tend to offer milder weather, making for a pleasant visit. 
 

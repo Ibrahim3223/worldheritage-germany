@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kunstmuseum Dieselkraftwerk Cottbus stands as a unique cultural institution in Cottbus, Germany, dedicated to the exploration and presentation of contemporary art. Housed in a former diesel power station, the museum provides an intriguing backdrop that enhances the experience of its varied exhibitions. With its innovative approach to art, the museum not only showcases contemporary works but also engages with the community, making it a vibrant part of Cottbus’s cultural landscape.
+The Kunstmuseum Dieselkraftwerk Cottbus stands as a unique cultural institution in Cottbus, Germany, dedicated to the exploration and presentation of contemporary art. Housed in a former diesel power station, the museum provides an intriguing backdrop that enhances the experience of its varied exhibitions. With its innovative approach to art, the museum not only showcases contemporary works but also engages with the community, making it a vibrant part of Cottbus's cultural landscape.
 
 Situated in the heart of Cottbus, the museum is easily accessible, drawing both locals and visitors from afar. As you explore its galleries, you will encounter a diverse array of artistic expressions that challenge perceptions and provoke thought. The Kunstmuseum is not just a place for viewing art; it serves as a platform for dialogue and education, inviting visitors to delve deeper into the contemporary art scene.
 
@@ -36,7 +36,7 @@ Whether you're an art aficionado or a casual visitor, a trip to the Kunstmuseum 
 
 The Kunstmuseum Dieselkraftwerk Cottbus has a rich history that intertwines the evolution of industrial architecture with the development of contemporary art in Germany. Originally functioning as a diesel power station, the site has undergone significant transformation to serve as a museum. This shift from energy production to an art institution symbolizes a broader cultural transition, highlighting the importance of adaptive reuse in heritage conservation.
 
-The establishment of the museum marks a significant moment in Cottbus's commitment to fostering artistic expression and cultural dialogue. It plays an essential role in the region’s cultural identity, providing a space where contemporary artists can present their work and engage with the public. The museum's programming often reflects current social issues and artistic movements, making it a relevant venue for discussions on the role of art in society.
+The establishment of the museum marks a significant moment in Cottbus's commitment to fostering artistic expression and cultural dialogue. It plays an essential role in the region's cultural identity, providing a space where contemporary artists can present their work and engage with the public. The museum's programming often reflects current social issues and artistic movements, making it a relevant venue for discussions on the role of art in society.
 
 Through its exhibitions and educational initiatives, the Kunstmuseum Dieselkraftwerk Cottbus aims to inspire creativity and critical thinking. The museum not only showcases established artists but also provides a platform for emerging talents, thus nurturing the next generation of artists. This commitment to innovation and inclusivity further emphasizes the museum's significance within the cultural fabric of Cottbus and beyond.
 
@@ -94,7 +94,7 @@ Additionally, check the official website for any specific requirements or recomm
 Most visitors typically spend about 1.5 to 2 hours in the museum, but art enthusiasts may wish to stay longer to fully appreciate the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check the museum's official website or inquire at the entrance for specific guidelines.
+Photography policies may vary. It's best to check the museum's official website or inquire at the entrance for specific guidelines.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the exhibitions and artworks on display. Check the official website for details.

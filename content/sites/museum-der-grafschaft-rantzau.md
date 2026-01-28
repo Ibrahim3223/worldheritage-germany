@@ -32,7 +32,7 @@ With its diverse collection and engaging exhibitions, the Museum der Grafschaft 
 
 ## History and Significance
 
-The Museum der Grafschaft Rantzau stands as a significant cultural institution in Barmstedt, reflecting the historical importance of the region. Established to preserve and showcase the heritage of the County of Rantzau, the museum collects and exhibits artifacts that tell the story of the area’s development over the centuries. The museum emphasizes local history, offering insights into the lives of its inhabitants, the evolution of the town, and the events that have influenced the region.
+The Museum der Grafschaft Rantzau stands as a significant cultural institution in Barmstedt, reflecting the historical importance of the region. Established to preserve and showcase the heritage of the County of Rantzau, the museum collects and exhibits artifacts that tell the story of the area's development over the centuries. The museum emphasizes local history, offering insights into the lives of its inhabitants, the evolution of the town, and the events that have influenced the region.
 
 The history of the County of Rantzau is intertwined with the broader narrative of northern Germany, marked by various historical events and figures. The museum's collections include items from different periods, which help to illustrate the cultural and social changes that have occurred in Barmstedt and its surroundings. Through its exhibitions, the museum fosters a deeper understanding of the local identity and heritage, making it a vital resource for both residents and visitors.
 

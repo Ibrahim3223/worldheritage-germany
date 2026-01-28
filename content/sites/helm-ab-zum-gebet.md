@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Lübeck, Germany, the statue known as "Helm ab zum Gebet" stands as a silent observer of time, embodying the spirit and culture of this historic city. This striking statue, designed by Friedrich Wilhelm Virck, offers visitors a glimpse into the artistic and historical legacy of Lübeck, a UNESCO World Heritage site renowned for its medieval architecture and rich maritime history. While many travelers come to Lübeck for its iconic Holstentor or the charming old town, the statue serves as a contemplative spot, inviting reflection on the city’s past and its enduring cultural significance.
+In the heart of Lübeck, Germany, the statue known as "Helm ab zum Gebet" stands as a silent observer of time, embodying the spirit and culture of this historic city. This striking statue, designed by Friedrich Wilhelm Virck, offers visitors a glimpse into the artistic and historical legacy of Lübeck, a UNESCO World Heritage site renowned for its medieval architecture and rich maritime history. While many travelers come to Lübeck for its iconic Holstentor or the charming old town, the statue serves as a contemplative spot, inviting reflection on the city's past and its enduring cultural significance.
 
-As you approach the statue, located at coordinates 53.8859, 10.7083, you’ll find yourself amidst a vibrant atmosphere filled with local life and history. The surrounding area is a blend of modernity and tradition, making it an ideal starting point for discovering the layers of Lübeck's heritage. The statue not only represents artistic expression but also serves as a reminder of the values and beliefs held by the community over time. 
+As you approach the statue, located at coordinates 53.8859, 10.7083, you'll find yourself amidst a vibrant atmosphere filled with local life and history. The surrounding area is a blend of modernity and tradition, making it an ideal starting point for discovering the layers of Lübeck's heritage. The statue not only represents artistic expression but also serves as a reminder of the values and beliefs held by the community over time. 
 
 Whether you are an art enthusiast, a history buff, or simply seeking a moment of tranquility, Helm ab zum Gebet offers a unique opportunity to connect with Lübeck's narrative. While the statue itself is a focal point, it is also a gateway to exploring the cultural richness that defines this remarkable city.
 
@@ -46,7 +46,7 @@ As you stand before this statue, you are not merely observing art; you are engag
 
 "Helm ab zum Gebet," crafted by the talented Friedrich Wilhelm Virck, showcases a unique architectural style that reflects both artistic skill and cultural essence. The statue is characterized by its detailed craftsmanship, which captures the intricate features of its subject with remarkable precision. While specific dimensions and materials are not available, the artistry involved in its creation is evident in the thoughtful representation and posture of the figure.
 
-The statue's design emphasizes the act of raising a helmet, a gesture imbued with meaning. This pose not only demonstrates the physicality of the artwork but also conveys a sense of humility and reverence, aligning with the themes of respect and prayer that it embodies. The attention to detail in the statue’s facial expressions and clothing serves to enhance its narrative, allowing viewers to connect emotionally with the piece.
+The statue's design emphasizes the act of raising a helmet, a gesture imbued with meaning. This pose not only demonstrates the physicality of the artwork but also conveys a sense of humility and reverence, aligning with the themes of respect and prayer that it embodies. The attention to detail in the statue's facial expressions and clothing serves to enhance its narrative, allowing viewers to connect emotionally with the piece.
 
 Surrounding the statue is a thoughtfully curated environment that complements its presence. The placement within Lübeck allows for interaction with both locals and visitors, creating an inviting atmosphere that encourages contemplation and appreciation. The integration of the statue into the urban landscape further highlights the significance of public art in fostering community spirit.
 
@@ -66,9 +66,9 @@ During your visit, you may find amenities such as cafes and restrooms nearby, ca
 
 Lübeck is home to a wealth of attractions that complement your visit to "Helm ab zum Gebet." Here are a few noteworthy sites nearby:
 
-1. **Holstentor**: This iconic city gate is a symbol of Lübeck’s medieval heritage. Its impressive architecture and historical significance make it a must-visit landmark.
+1. **Holstentor**: This iconic city gate is a symbol of Lübeck's medieval heritage. Its impressive architecture and historical significance make it a must-visit landmark.
 
-2. **St. Mary's Church (Marienkirche)**: Known for its stunning brick Gothic architecture, this church offers insight into Lübeck’s religious history and is famous for its impressive altar and organ.
+2. **St. Mary's Church (Marienkirche)**: Known for its stunning brick Gothic architecture, this church offers insight into Lübeck's religious history and is famous for its impressive altar and organ.
 
 3. **Buddenbrook House**: A museum dedicated to the works of the famous German authors Thomas and Heinrich Mann, this cultural site provides a glimpse into the literary history of Lübeck.
 
@@ -76,7 +76,7 @@ Lübeck is home to a wealth of attractions that complement your visit to "Helm a
 
 5. **The European Hansemuseum**: This museum explores the history of the Hanseatic League and its significance to Lübeck and the greater region, making it an informative companion to your visit.
 
-Exploring these nearby attractions will provide a comprehensive understanding of Lübeck’s cultural landscape, enriching your experience of the statue "Helm ab zum Gebet."
+Exploring these nearby attractions will provide a comprehensive understanding of Lübeck's cultural landscape, enriching your experience of the statue "Helm ab zum Gebet."
 
 ## Insider Tips
 
@@ -96,7 +96,7 @@ When preparing for your visit to "Helm ab zum Gebet," keep the following practic
 
 - **Seasonal Considerations**: Lübeck experiences a temperate climate, so dress in layers, especially during the cooler months. Summer may bring warmer weather, making it ideal for outdoor exploration.
 
-- **Local Etiquette**: Be respectful of the statue and its significance. It’s a place for contemplation, so maintaining a quiet demeanor is appreciated by both locals and fellow visitors.
+- **Local Etiquette**: Be respectful of the statue and its significance. It's a place for contemplation, so maintaining a quiet demeanor is appreciated by both locals and fellow visitors.
 
 ## Frequently Asked Questions
 

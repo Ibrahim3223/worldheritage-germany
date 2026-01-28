@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Franziskaner-Klosterkirche is an intriguing church building located in the heart of Berlin, Germany, specifically in the Bezirk Mitte district. This historical site not only serves as a place of worship but also as a significant cultural landmark that reflects the architectural and spiritual evolution of the region. The church's existence contributes to the rich historical narrative of Berlin, offering visitors a glimpse into the city’s past and its religious practices. With its stunning architecture and serene atmosphere, Franziskaner-Klosterkirche promises a unique experience for both locals and travelers.
+Franziskaner-Klosterkirche is an intriguing church building located in the heart of Berlin, Germany, specifically in the Bezirk Mitte district. This historical site not only serves as a place of worship but also as a significant cultural landmark that reflects the architectural and spiritual evolution of the region. The church's existence contributes to the rich historical narrative of Berlin, offering visitors a glimpse into the city's past and its religious practices. With its stunning architecture and serene atmosphere, Franziskaner-Klosterkirche promises a unique experience for both locals and travelers.
 
 As you approach this church, the urban landscape of Berlin unfolds around you, showcasing a blend of contemporary life and historical depth. The significance of Franziskaner-Klosterkirche extends beyond its function as a religious building, as it also represents the enduring legacy of the Franciscan order in Germany. Visitors will find a space that invites reflection and reverence, making it a worthwhile stop on any Berlin itinerary.
 
@@ -70,13 +70,13 @@ Franziskaner-Klosterkirche is situated in close proximity to several notable att
 
 4. **Nikolaiviertel**: This historic neighborhood features charming cobblestone streets and significant landmarks, including the Nikolaikirche, providing a glimpse into Berlin's medieval past.
 
-5. **The Berlin Wall Memorial**: A poignant reminder of the city’s divided history, this outdoor exhibition provides insights into the impact of the Berlin Wall and the stories of those affected by it.
+5. **The Berlin Wall Memorial**: A poignant reminder of the city's divided history, this outdoor exhibition provides insights into the impact of the Berlin Wall and the stories of those affected by it.
 
 ## Insider Tips
 
 For those planning to visit Franziskaner-Klosterkirche, a few insider tips can enhance the experience:
 
-- **Photography**: While photography may be allowed in certain areas, it’s important to be respectful of the sacredness of the space. Always check for any signs indicating restrictions.
+- **Photography**: While photography may be allowed in certain areas, it's important to be respectful of the sacredness of the space. Always check for any signs indicating restrictions.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or early in the morning. Avoid weekends and public holidays when local attendance may be higher.
 

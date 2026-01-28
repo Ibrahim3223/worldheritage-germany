@@ -28,7 +28,7 @@ image_srcset:
 
 Sausenburg Castle, an imposing structure situated in the scenic region of Kandern, Germany, is a remarkable site that invites visitors to explore its storied past. Perched on a hill, the castle offers a glimpse into medieval architecture and the strategic significance of fortifications from centuries past. While the castle's history may be less prominent than some of its counterparts, its charm and the surrounding natural beauty provide a peaceful retreat for history enthusiasts and casual visitors alike. 
 
-This castle stands as a silent witness to the changes that have swept through the region, encapsulating the essence of the area’s cultural heritage. As you approach the site, the remnants of the castle evoke a sense of wonder, blending seamlessly with the landscape. Whether you are a history buff, a photography enthusiast, or someone looking for a tranquil escape, Sausenburg Castle offers a unique experience that resonates with the essence of the past.
+This castle stands as a silent witness to the changes that have swept through the region, encapsulating the essence of the area's cultural heritage. As you approach the site, the remnants of the castle evoke a sense of wonder, blending seamlessly with the landscape. Whether you are a history buff, a photography enthusiast, or someone looking for a tranquil escape, Sausenburg Castle offers a unique experience that resonates with the essence of the past.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ For those planning their visit, the best times to explore Sausenburg Castle are 
 
 1. **Kandern Town**: A short distance from the castle, Kandern itself is worth exploring. This quaint town features charming architecture and local shops, providing a taste of authentic German culture.
 
-2. **Vitra Campus**: Located nearby, the Vitra Campus is a collection of buildings designed by renowned architects, showcasing modern design and architecture. It’s an inspiring site for those interested in contemporary architectural trends.
+2. **Vitra Campus**: Located nearby, the Vitra Campus is a collection of buildings designed by renowned architects, showcasing modern design and architecture. It's an inspiring site for those interested in contemporary architectural trends.
 
 3. **Schauinsland Mountain**: A bit further afield, this mountain offers hiking trails and panoramic views of the surrounding Black Forest region. Outdoor enthusiasts will appreciate the natural beauty and recreational opportunities.
 

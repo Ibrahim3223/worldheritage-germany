@@ -38,7 +38,7 @@ While specific historical milestones of Wildpark Leipzig are not detailed, the s
 
 Wildpark Leipzig is part of a broader movement within the zoological community to create environments that prioritize animal welfare and conservation efforts. This commitment to ethical practices and sustainability is increasingly reflected in modern zoo design and operations, aligning with global conservation goals. The park focuses on creating habitats that resemble the animals' natural ecosystems, allowing them to exhibit more natural behaviors.
 
-As a cultural institution, Wildpark Leipzig contributes to the local community by promoting awareness of wildlife issues and providing educational programs for visitors of all ages. This commitment to education enhances the public’s understanding of the challenges facing animal populations globally and fosters a sense of responsibility towards conservation efforts.
+As a cultural institution, Wildpark Leipzig contributes to the local community by promoting awareness of wildlife issues and providing educational programs for visitors of all ages. This commitment to education enhances the public's understanding of the challenges facing animal populations globally and fosters a sense of responsibility towards conservation efforts.
 
 ## Architecture and Features
 

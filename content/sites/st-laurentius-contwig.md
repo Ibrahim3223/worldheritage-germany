@@ -28,7 +28,7 @@ image_srcset:
 
 St. Laurentius in Contwig, Germany, presents a captivating glimpse into the region's ecclesiastical architecture and community heritage. This church building serves not only as a place of worship but also as a significant landmark reflecting the cultural and historical fabric of the area. Located within the quaint confines of Contwig, St. Laurentius stands as a focal point for both locals and visitors, drawing those interested in spirituality and history alike. The surrounding region is characterized by its serene environment, enhancing the experience of visiting this notable site.
 
-As you approach St. Laurentius, you are greeted by the charm of the village, where traditional German architecture complements the church’s design. The significance of St. Laurentius extends beyond its physical structure; it is a testament to the enduring faith and community spirit of the residents of Contwig. The church serves as a gathering place, marking important community events and celebrations throughout the year. For those seeking to explore the spiritual and cultural heritage of Germany, St. Laurentius offers a meaningful destination.
+As you approach St. Laurentius, you are greeted by the charm of the village, where traditional German architecture complements the church's design. The significance of St. Laurentius extends beyond its physical structure; it is a testament to the enduring faith and community spirit of the residents of Contwig. The church serves as a gathering place, marking important community events and celebrations throughout the year. For those seeking to explore the spiritual and cultural heritage of Germany, St. Laurentius offers a meaningful destination.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ St. Laurentius is characterized by architectural features typical of German chur
 
 The layout of such churches typically includes a nave, side aisles, and an apse, allowing for both functional and aesthetic experiences during services. Visitors to St. Laurentius can expect to find religious iconography that reflects Christian traditions, enhancing the spiritual ambiance of the space. 
 
-The church’s exterior may feature traditional stonework, with details that showcase the craftsmanship of the builders. Attention to detail in both the interior and exterior is common in church architecture, serving to inspire reverence and reflection among visitors.
+The church's exterior may feature traditional stonework, with details that showcase the craftsmanship of the builders. Attention to detail in both the interior and exterior is common in church architecture, serving to inspire reverence and reflection among visitors.
 
 ## Visiting Information
 

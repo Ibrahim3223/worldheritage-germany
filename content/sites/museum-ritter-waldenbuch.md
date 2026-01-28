@@ -40,7 +40,7 @@ In addition to its local impact, Museum Ritter positions itself within the large
 
 ## Architecture and Features
 
-The architecture of Museum Ritter complements its artistic mission, featuring a design that is both modern and functional. The museum’s exterior captivates with clean lines and an inviting façade, creating a welcoming atmosphere for visitors. The interior spaces are thoughtfully arranged to facilitate the display of various artworks, ensuring that each piece can be appreciated in an optimal setting.
+The architecture of Museum Ritter complements its artistic mission, featuring a design that is both modern and functional. The museum's exterior captivates with clean lines and an inviting façade, creating a welcoming atmosphere for visitors. The interior spaces are thoughtfully arranged to facilitate the display of various artworks, ensuring that each piece can be appreciated in an optimal setting.
 
 One of the notable features of the museum is its flexible exhibition spaces, which are designed to accommodate a rotating array of exhibitions. This adaptability allows Museum Ritter to continually refresh its offerings, providing returning visitors with new experiences. The lighting throughout the museum is carefully curated to enhance the viewing of artworks, highlighting the nuances of each piece while maintaining a comfortable environment for guests.
 

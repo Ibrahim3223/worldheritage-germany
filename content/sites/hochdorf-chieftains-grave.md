@@ -66,7 +66,7 @@ The best times to visit the Hochdorf Chieftain's Grave are during the spring and
 
 4. **Pforzheim Jewellery Museum**: Located nearby, this museum focuses on the history of jewelry design and craftsmanship, providing insights into another aspect of German cultural heritage.
 
-5. **Stuttgart’s Old Castle**: A remarkable example of Renaissance architecture, this castle is home to the Württemberg State Museum and offers a fascinating glimpse into the region's medieval history.
+5. **Stuttgart's Old Castle**: A remarkable example of Renaissance architecture, this castle is home to the Württemberg State Museum and offers a fascinating glimpse into the region's medieval history.
 
 ## Insider Tips
 

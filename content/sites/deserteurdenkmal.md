@@ -42,7 +42,7 @@ The monument stands in a city that has experienced its share of conflict and cha
 
 The architectural design of the Deserteurdenkmal is both striking and contemplative. While specific design details may be limited, the monument's form embodies a sense of solemnity and respect. It features a minimalist aesthetic that encourages introspection, drawing visitors in to reflect on its meaning.
 
-The surrounding environment enhances the monument’s impact. Located in Hamburg-Mitte, it is easily accessible and is often integrated into walking routes that explore the city's rich history. The choice of materials and the monument’s placement within the urban landscape create a dialogue with the surrounding architecture, merging the past and present.
+The surrounding environment enhances the monument's impact. Located in Hamburg-Mitte, it is easily accessible and is often integrated into walking routes that explore the city's rich history. The choice of materials and the monument's placement within the urban landscape create a dialogue with the surrounding architecture, merging the past and present.
 
 Visitors may notice that the monument is designed to evoke a sense of solemnity, with its clean lines and thoughtful placement encouraging a moment of pause. This design choice reinforces the monument's purpose: to honor the sacrifices of those who resisted militarism while prompting visitors to engage with their own beliefs about war and peace.
 

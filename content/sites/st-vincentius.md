@@ -50,7 +50,7 @@ Elements such as vaulted ceilings and pointed arches may be present, allowing fo
 
 Visiting St. Vincentius can be a fulfilling experience for those interested in architecture, history, or spiritual reflection. The church is located in Dinslaken, accessible through various modes of transport. Public transport options may include local buses or trains that connect to the city, making it relatively easy to integrate a visit into a larger exploration of the area.
 
-While specific opening hours and entrance fees are not provided, it is advisable to check the official website for current information regarding visiting hours and any potential costs associated with entry. Visitors are encouraged to allocate sufficient time to absorb the atmosphere and appreciate the architectural details. Depending on one’s interest level, a visit could take anywhere from a brief stop to a more extended exploration.
+While specific opening hours and entrance fees are not provided, it is advisable to check the official website for current information regarding visiting hours and any potential costs associated with entry. Visitors are encouraged to allocate sufficient time to absorb the atmosphere and appreciate the architectural details. Depending on one's interest level, a visit could take anywhere from a brief stop to a more extended exploration.
 
 The best times to visit are often during weekdays when the church may be less crowded, allowing for a more intimate experience. Special services or community events may also be scheduled throughout the year, providing visitors with unique opportunities to engage with the local traditions.
 

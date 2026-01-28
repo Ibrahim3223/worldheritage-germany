@@ -34,7 +34,7 @@ As a hub for researchers and fashion aficionados, the Von Parish Costume Library
 
 The Von Parish Costume Library has become an important institution for the study of costumes and fashion. Though specific historical milestones are not detailed, the library's establishment aligns with a growing global interest in costume history as a vital aspect of cultural studies. Costumes are not merely garments; they encapsulate societal norms, artistic movements, and historical events. As such, the library plays a crucial role in preserving the literature that documents these facets.
 
-The cultural importance of the Von Parish Costume Library extends beyond academia. It serves as a resource for designers seeking inspiration from historical garments, making it a pivotal point of reference in the fashion industry. The library’s collection supports various disciplines, including theater, film, and dance, where costume plays an essential role in storytelling and character development.
+The cultural importance of the Von Parish Costume Library extends beyond academia. It serves as a resource for designers seeking inspiration from historical garments, making it a pivotal point of reference in the fashion industry. The library's collection supports various disciplines, including theater, film, and dance, where costume plays an essential role in storytelling and character development.
 
 In addition to its extensive collection, the library often hosts workshops, lectures, and exhibitions, further enhancing its role as a center for education and discussion. By doing so, the Von Parish Costume Library not only preserves the past but also encourages the future generations of designers and scholars to appreciate the art of costume-making.
 
@@ -64,7 +64,7 @@ While the Von Parish Costume Library is a significant destination in itself, vis
 
 3. **Munich Residenz**: The former royal palace of the Bavarian monarchs, offering tours of opulent rooms and fascinating insights into royal life.
 
-4. **Marienplatz**: The city’s central square, known for its historic buildings and the iconic Glockenspiel, making it a great place to experience local culture.
+4. **Marienplatz**: The city's central square, known for its historic buildings and the iconic Glockenspiel, making it a great place to experience local culture.
 
 5. **Allianz Arena**: For sports enthusiasts, this famous football stadium offers tours, showcasing its unique architecture and history.
 

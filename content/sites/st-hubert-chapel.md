@@ -64,7 +64,7 @@ When planning your visit, be sure to check the official website for any events o
 
 While St. Hubert Chapel is a delightful destination in its own right, there are several nearby attractions worth exploring:
 
-1. **Düsseldorf Old Town (Altstadt)**: Just a short distance away, the historic old town is renowned for its vibrant atmosphere, cobblestone streets, and numerous cafes and shops. It’s a great spot to experience local culture.
+1. **Düsseldorf Old Town (Altstadt)**: Just a short distance away, the historic old town is renowned for its vibrant atmosphere, cobblestone streets, and numerous cafes and shops. It's a great spot to experience local culture.
 
 2. **The Rhine River Promenade**: Offering scenic walks along the river, the promenade provides opportunities for leisurely strolls and enjoying the natural beauty of the area.
 
@@ -76,7 +76,7 @@ While St. Hubert Chapel is a delightful destination in its own right, there are 
 
 ## Insider Tips
 
-When visiting St. Hubert Chapel, consider bringing a camera to capture the serene surroundings. The chapel’s architecture and the natural beauty of the area present excellent opportunities for photography. However, be mindful of the respectful atmosphere; ensure that photography does not disrupt the sacred environment.
+When visiting St. Hubert Chapel, consider bringing a camera to capture the serene surroundings. The chapel's architecture and the natural beauty of the area present excellent opportunities for photography. However, be mindful of the respectful atmosphere; ensure that photography does not disrupt the sacred environment.
 
 To avoid crowds, aim to visit during the early morning or on weekdays. This will give you a more peaceful experience, allowing for quiet reflection and an opportunity to appreciate the chapel's ambiance without distractions.
 

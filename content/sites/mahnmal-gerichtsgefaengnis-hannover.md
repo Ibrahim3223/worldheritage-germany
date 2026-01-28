@@ -103,13 +103,13 @@ Check the official website for information regarding guided tours, which may enh
 Weekdays are often less crowded, making them an ideal time for a more contemplative experience.
 
 ### Is it wheelchair accessible?
-Access for individuals with mobility challenges is typically considered, but it’s advisable to check the official website for detailed information.
+Access for individuals with mobility challenges is typically considered, but it's advisable to check the official website for detailed information.
 
 ### Can I buy tickets online?
 Please verify on the official website for information regarding tickets and any potential online purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to check the official website for specifics about amenities.
+Facilities may be available nearby, but it's best to check the official website for specifics about amenities.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are advisable, particularly if you plan to explore the surrounding area.

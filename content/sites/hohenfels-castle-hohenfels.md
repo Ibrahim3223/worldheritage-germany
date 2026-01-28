@@ -58,7 +58,7 @@ Transportation options to Hohenfels Castle may include local public transport se
 
 Hohenfels Castle is situated in a region rich with other cultural and historical attractions. Here are a few nearby sites that complement your visit:
 
-1. **Local Historical Museum**: This museum offers insights into the broader history of the region, showcasing artifacts and exhibits that highlight the area’s cultural heritage.
+1. **Local Historical Museum**: This museum offers insights into the broader history of the region, showcasing artifacts and exhibits that highlight the area's cultural heritage.
    
 2. **Hohenfels Town Center**: A charming area with quaint shops and local eateries, perfect for experiencing the daily life and culture of the town.
 

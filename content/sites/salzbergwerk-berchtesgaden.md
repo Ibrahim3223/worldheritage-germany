@@ -66,7 +66,7 @@ While the Salzbergwerk Berchtesgaden is a must-see, several nearby attractions c
 
 4. **Dokumentation Obersalzberg**: A historical museum that provides insights into the history of the Obersalzberg area during the Nazi era.
 
-5. **Watzmann Mountain**: One of Bavaria’s most iconic peaks, offering various hiking routes for outdoor enthusiasts.
+5. **Watzmann Mountain**: One of Bavaria's most iconic peaks, offering various hiking routes for outdoor enthusiasts.
 
 ## Insider Tips
 

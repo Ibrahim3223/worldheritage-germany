@@ -68,7 +68,7 @@ Engaging with museum staff can enrich your visit; they often have valuable insig
 
 ## Practical Information
 
-When planning your visit to the Eiszeitmuseum, it’s advisable to bring comfortable walking shoes, as you may spend considerable time exploring the exhibits. A light jacket could be beneficial, especially if the museum has climate-controlled environments.
+When planning your visit to the Eiszeitmuseum, it's advisable to bring comfortable walking shoes, as you may spend considerable time exploring the exhibits. A light jacket could be beneficial, especially if the museum has climate-controlled environments.
 
 Seasonal considerations are important; check the weather forecast before your visit to ensure you dress appropriately. Whether you're visiting in summer or winter, the museum is a great indoor option for educational entertainment, regardless of outdoor conditions.
 
@@ -81,13 +81,13 @@ A visit typically lasts a few hours, allowing ample time to explore the exhibits
 Photography policies may vary. It is best to check with museum staff upon arrival regarding their specific guidelines.
 
 ### Are there guided tours?
-Information on guided tours may be available through the museum’s official website. These tours can provide deeper insights into the exhibits.
+Information on guided tours may be available through the museum's official website. These tours can provide deeper insights into the exhibits.
 
 ### What's the best time to visit?
 Weekdays are generally less crowded, making them ideal for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features are likely in place, but it’s advisable to verify specific details on the official website.
+Accessibility features are likely in place, but it's advisable to verify specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for current ticket purchasing options, as online sales may be available.

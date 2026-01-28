@@ -56,7 +56,7 @@ When planning your visit, it is essential to check the official website for curr
 
 A typical visit to Freilichtmuseum Glentleiten can take around two to four hours, depending on your level of interest in the exhibits and activities. The best times to visit are during the warmer months when the gardens are in full bloom, and outdoor demonstrations and events are often held.
 
-Visitors can expect a welcoming atmosphere, with opportunities to engage with knowledgeable staff who can answer questions and provide context for the exhibits. The museum’s layout encourages leisurely exploration, so be prepared to spend time enjoying the historical structures and the natural surroundings.
+Visitors can expect a welcoming atmosphere, with opportunities to engage with knowledgeable staff who can answer questions and provide context for the exhibits. The museum's layout encourages leisurely exploration, so be prepared to spend time enjoying the historical structures and the natural surroundings.
 
 ## Nearby Attractions
 

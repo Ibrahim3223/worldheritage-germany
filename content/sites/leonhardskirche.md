@@ -48,7 +48,7 @@ Noteworthy are the artistic elements found within the church, which may include 
 
 ## Visiting Information
 
-Visiting Leonhardskirche allows for an immersive experience in Stuttgart’s historical and cultural context. The church is accessible via various modes of transportation, making it an easy addition to any itinerary in the city. As you plan your visit, check the official website for current information regarding opening hours and any potential admission fees.
+Visiting Leonhardskirche allows for an immersive experience in Stuttgart's historical and cultural context. The church is accessible via various modes of transportation, making it an easy addition to any itinerary in the city. As you plan your visit, check the official website for current information regarding opening hours and any potential admission fees.
 
 Expect to spend around an hour exploring the church, taking in its architectural beauty and perhaps participating in a moment of quiet reflection. The best times to visit are typically during weekdays when the church is less crowded, allowing for a more personal experience.
 
@@ -73,7 +73,7 @@ If you're interested in photography, be mindful of the lighting conditions as th
 
 ## Practical Information
 
-When planning your visit to Leonhardskirche, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Additionally, consider bringing a small camera to capture the church's beauty and any noteworthy details you encounter.
+When planning your visit to Leonhardskirche, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Additionally, consider bringing a small camera to capture the church's beauty and any noteworthy details you encounter.
 
 Seasonal considerations can also enhance your experience. Spring and early autumn offer pleasant weather, making it an ideal time for outdoor exploration around the church and nearby attractions.
 

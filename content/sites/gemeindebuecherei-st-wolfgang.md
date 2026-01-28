@@ -64,7 +64,7 @@ Exploring the area around Gemeindebücherei St. Wolfgang can enrich your visit. 
 
 4. **Cafés and Restaurants**: After your visit to the library, consider stopping by local cafés or restaurants to sample regional cuisine and enjoy the community atmosphere.
 
-5. **Cultural Events**: Check local listings for any events or festivals happening during your visit, which can provide a deeper understanding of the community’s culture.
+5. **Cultural Events**: Check local listings for any events or festivals happening during your visit, which can provide a deeper understanding of the community's culture.
 
 ## Insider Tips
 
@@ -74,7 +74,7 @@ To make the most of your visit to Gemeindebücherei St. Wolfgang, consider these
 
 - **Crowd Avoidance**: If possible, plan your visit during the early morning or late afternoon on weekdays to experience a quieter atmosphere. 
 
-- **Engagement**: Don’t hesitate to engage with library staff. They can offer insights into local literature and recommend books based on your interests.
+- **Engagement**: Don't hesitate to engage with library staff. They can offer insights into local literature and recommend books based on your interests.
 
 ## Practical Information
 

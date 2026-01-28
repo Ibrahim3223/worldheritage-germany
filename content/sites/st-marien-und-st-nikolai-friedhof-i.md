@@ -44,7 +44,7 @@ In addition to its individual stories, the cemetery serves as a communal space w
 
 St. Marien- und St. Nikolai-Friedhof I is characterized by its traditional cemetery layout, featuring a variety of gravestones, mausoleums, and memorials that reflect different architectural styles. The cemetery is designed to provide an organized yet natural layout, with paths winding through lush greenery and shaded areas. 
 
-One of the remarkable features of this cemetery is the diversity of gravestone designs, ranging from simple markers to elaborate sculptures. Each tombstone tells a unique story, often adorned with symbols and inscriptions that denote the individual’s life, beliefs, or achievements. This variety adds an artistic dimension to the site, making it not only a place of mourning but also a venue for reflection on the artistry of memorialization.
+One of the remarkable features of this cemetery is the diversity of gravestone designs, ranging from simple markers to elaborate sculptures. Each tombstone tells a unique story, often adorned with symbols and inscriptions that denote the individual's life, beliefs, or achievements. This variety adds an artistic dimension to the site, making it not only a place of mourning but also a venue for reflection on the artistry of memorialization.
 
 The overall ambiance of St. Marien- und St. Nikolai-Friedhof I is marked by tranquility, with trees and plants thoughtfully arranged to create a serene environment. The careful landscaping contributes to the cemetery's sense of peace, inviting visitors to take their time as they explore the grounds.
 
@@ -78,9 +78,9 @@ To avoid crowds, try visiting during weekdays or early in the morning. This will
 
 ## Practical Information
 
-When visiting St. Marien- und St. Nikolai-Friedhof I, it’s advisable to wear comfortable shoes, as the cemetery grounds may require some walking. Bringing a water bottle can also enhance your visit, especially during warmer months.
+When visiting St. Marien- und St. Nikolai-Friedhof I, it's advisable to wear comfortable shoes, as the cemetery grounds may require some walking. Bringing a water bottle can also enhance your visit, especially during warmer months.
 
-Be mindful of the changing seasons, as they can affect the landscape and your experience. Spring and summer typically showcase vibrant greenery, while autumn may offer stunning foliage. Winter visits can be serene, but it’s important to dress warmly.
+Be mindful of the changing seasons, as they can affect the landscape and your experience. Spring and summer typically showcase vibrant greenery, while autumn may offer stunning foliage. Winter visits can be serene, but it's important to dress warmly.
 
 In terms of etiquette, remember that this is a place of remembrance. Maintain a respectful demeanor, and be mindful of others who may be visiting to pay their respects.
 

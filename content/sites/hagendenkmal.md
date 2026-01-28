@@ -80,7 +80,7 @@ Be mindful of the sensitivity surrounding the site, as it commemorates significa
 
 When preparing for your visit to the Hagendenkmal, consider bringing comfortable walking shoes, as you may wish to explore the immediate area. A bottle of water and some light snacks could also enhance your experience, particularly if you plan to spend time reflecting on the monument. 
 
-Seasonal considerations are essential; check the weather forecast before your visit to ensure a pleasant experience. The monument is open to the public, but it’s always wise to check the official website for any seasonal events or changes in hours of operation. 
+Seasonal considerations are essential; check the weather forecast before your visit to ensure a pleasant experience. The monument is open to the public, but it's always wise to check the official website for any seasonal events or changes in hours of operation. 
 
 ## Frequently Asked Questions
 

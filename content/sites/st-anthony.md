@@ -28,7 +28,7 @@ image_srcset:
 
 St. Anthony Church, a noteworthy architectural and cultural landmark located in Düsseldorf's Stadtmitte district, draws visitors with its unique character and rich history. This church stands as a vital part of the local community and offers a serene space for reflection amidst the bustling city. Its easily accessible location makes it a valuable stop for those exploring the heart of Düsseldorf. Not only does St. Anthony serve as a place of worship, but it also reflects the historical and artistic fabric of the region, making it an essential visit for those interested in heritage and architecture.
 
-The church's significance extends beyond its physical structure; it symbolizes the religious and cultural heritage of Düsseldorf, offering insight into the city’s evolution over the centuries. Visitors can expect a tranquil atmosphere, inviting them to pause and appreciate both the spiritual and artistic elements present within its walls. 
+The church's significance extends beyond its physical structure; it symbolizes the religious and cultural heritage of Düsseldorf, offering insight into the city's evolution over the centuries. Visitors can expect a tranquil atmosphere, inviting them to pause and appreciate both the spiritual and artistic elements present within its walls. 
 
 ## History and Significance
 
@@ -48,9 +48,9 @@ Attention to detail is evident throughout the church, from the altar to the pews
 
 ## Visiting Information
 
-Visiting St. Anthony Church is a rewarding experience for those interested in exploring its spiritual and architectural significance. The church is conveniently located in Stadtmitte, making it easily reachable by various forms of public transportation. Whether you prefer to walk, take public transit, or drive, the site is well-connected to the city’s transportation network.
+Visiting St. Anthony Church is a rewarding experience for those interested in exploring its spiritual and architectural significance. The church is conveniently located in Stadtmitte, making it easily reachable by various forms of public transportation. Whether you prefer to walk, take public transit, or drive, the site is well-connected to the city's transportation network.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and any potential admission fees. The time you’ll want to allocate for your visit can vary depending on your interest levels, but generally, a visit of about an hour allows for a thorough exploration of the church and its features.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and any potential admission fees. The time you'll want to allocate for your visit can vary depending on your interest levels, but generally, a visit of about an hour allows for a thorough exploration of the church and its features.
 
 The best times to visit may depend on your preference for a quieter atmosphere versus attending services or events. Early mornings or weekdays might offer a more peaceful experience, while weekends often see more visitors due to services.
 
@@ -70,13 +70,13 @@ While exploring the area around St. Anthony Church, several other notable attrac
 
 ## Insider Tips
 
-For photography enthusiasts, St. Anthony Church presents numerous opportunities to capture its beauty. The best light for photography typically occurs during the golden hour, just after sunrise or before sunset. Be mindful of the church’s atmosphere; it is a place of worship, so respectful photography is encouraged, especially during services.
+For photography enthusiasts, St. Anthony Church presents numerous opportunities to capture its beauty. The best light for photography typically occurs during the golden hour, just after sunrise or before sunset. Be mindful of the church's atmosphere; it is a place of worship, so respectful photography is encouraged, especially during services.
 
 To avoid crowds, consider visiting during weekday mornings, as weekends and religious holidays may attract larger groups. This quieter time allows for a more intimate experience within the church.
 
 ## Practical Information
 
-When visiting St. Anthony Church, it’s advisable to dress modestly, respecting the nature of the site as a place of worship. Comfortable footwear is also recommended, as you may wish to explore the surrounding area.
+When visiting St. Anthony Church, it's advisable to dress modestly, respecting the nature of the site as a place of worship. Comfortable footwear is also recommended, as you may wish to explore the surrounding area.
 
 Seasonal considerations may affect your visit. Spring and early autumn often provide pleasant weather for walking around the city, while winter can bring festive decorations and events that enhance the local atmosphere.
 
@@ -97,13 +97,13 @@ Check the official website for information on guided tours or informational mate
 Early mornings or weekdays may offer a quieter experience, while weekends can be busier due to services.
 
 ### Is it wheelchair accessible?
-For accessibility details, it’s best to consult the official website for the latest information.
+For accessibility details, it's best to consult the official website for the latest information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding any admission fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for specifics on available amenities.
+Facilities may vary, so it's advisable to check the official website for specifics on available amenities.
 
 ### What should I wear?
 Modest attire is recommended, as it is a place of worship. Comfortable footwear is also suggested for exploring the area around the church.

@@ -92,7 +92,7 @@ Photography policies may vary, so it is best to check for any signage or ask sta
 While specific information on guided tours is not provided, local resources may offer insights into whether guided tours are available. Check the official website or inquire locally for the most accurate information.
 
 ### What's the best time to visit?
-Weekdays are typically less crowded, making them ideal for a peaceful visit. If you are interested in attending a service or event, consult the church’s schedule for specific times.
+Weekdays are typically less crowded, making them ideal for a peaceful visit. If you are interested in attending a service or event, consult the church's schedule for specific times.
 
 ### Is it wheelchair accessible?
 Information regarding wheelchair accessibility is not specified. It is advisable to check the official website or contact the church for details on access options.

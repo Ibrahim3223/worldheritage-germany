@@ -28,7 +28,7 @@ image_srcset:
 
 The Gersthofen Moschee, located in the town of Gersthofen near Augsburg, Germany, serves as a vital center for the local Turkish-Islamic community. Officially known as the Moschee der Türkisch-Islamischen Union (DITIB), this mosque not only provides a space for worship but also fosters cultural exchange and community engagement. As a notable religious and cultural landmark, it plays an essential role in promoting understanding between diverse communities within Germany.
 
-Situated at coordinates 48.4149° N latitude and 10.8792° E longitude, Gersthofen is characterized by its proximity to Augsburg, a city rich in history and cultural diversity. The mosque's presence contributes to the multicultural fabric of the region, emphasizing the importance of inclusivity and mutual respect in today’s society. Visitors to the Gersthofen Moschee can expect to engage with a welcoming community while experiencing the architectural and spiritual elements typical of a modern mosque.
+Situated at coordinates 48.4149° N latitude and 10.8792° E longitude, Gersthofen is characterized by its proximity to Augsburg, a city rich in history and cultural diversity. The mosque's presence contributes to the multicultural fabric of the region, emphasizing the importance of inclusivity and mutual respect in today's society. Visitors to the Gersthofen Moschee can expect to engage with a welcoming community while experiencing the architectural and spiritual elements typical of a modern mosque.
 
 With its profound significance and inviting atmosphere, the Gersthofen Moschee stands as a symbol of coexistence, offering insights into the Islamic faith while enhancing the cultural landscape of Gersthofen and beyond.
 
@@ -60,7 +60,7 @@ Visitors should also be mindful of cultural protocols when entering the mosque. 
 
 While visiting the Gersthofen Moschee, there are several nearby attractions that can enhance your experience in the region:
 
-1. **Augsburg City Center**: Just a short distance away, the historic city center of Augsburg offers a wealth of attractions, including the Fuggerei, the world’s oldest social housing complex, and the stunning Augsburg Cathedral.
+1. **Augsburg City Center**: Just a short distance away, the historic city center of Augsburg offers a wealth of attractions, including the Fuggerei, the world's oldest social housing complex, and the stunning Augsburg Cathedral.
 
 2. **Augsburg Botanical Garden**: A peaceful retreat, the botanical garden features diverse plant species and tranquil walking paths, perfect for a leisurely stroll after visiting the mosque.
 

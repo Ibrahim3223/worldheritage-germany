@@ -87,7 +87,7 @@ A visit to Burg Naumburg typically takes around 2-3 hours, allowing ample time t
 Yes, photography is generally permitted, but be mindful of any specific restrictions indicated during your visit.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the castle’s history and architecture.
+Guided tours may be available, providing deeper insights into the castle's history and architecture.
 
 ### What's the best time to visit?
 Spring and autumn offer pleasant weather and fewer crowds, making them ideal times for a visit.
@@ -99,7 +99,7 @@ Check the official website for specific accessibility information regarding the 
 For the most current ticket purchasing options, check the official website before your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s wise to confirm this on the official website before your visit.
+Facilities may be available on-site, but it's wise to confirm this on the official website before your visit.
 
 ### What should I wear?
 Dress comfortably, and consider wearing layers to accommodate changing weather conditions during your visit.

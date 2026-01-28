@@ -78,7 +78,7 @@ To fully enjoy your visit to Dichterhaus Brückner-Kühner, consider the followi
 
 - **Crowd Avoidance**: Visiting during off-peak hours, especially on weekdays, can provide a more intimate experience with the exhibits. Early mornings or late afternoons tend to be quieter, allowing for a more reflective visit.
 
-- **Engage with Staff**: Museum staff often have valuable insights and stories about the exhibits. Don’t hesitate to ask questions and engage in conversations that can enrich your understanding of the literary figures represented.
+- **Engage with Staff**: Museum staff often have valuable insights and stories about the exhibits. Don't hesitate to ask questions and engage in conversations that can enrich your understanding of the literary figures represented.
 
 ## Practical Information
 

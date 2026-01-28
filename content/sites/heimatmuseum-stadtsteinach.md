@@ -99,7 +99,7 @@ Information on guided tours may vary. Check the official website for updates on 
 Weekdays may offer a quieter experience, but check for special events or exhibitions that could enhance your visit.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s best to contact the museum directly or check their official website.
+For specific accessibility information, it's best to contact the museum directly or check their official website.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, including online availability.

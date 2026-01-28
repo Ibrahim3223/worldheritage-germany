@@ -91,7 +91,7 @@ Information on guided tours may not be detailed here; check the official website
 Daylight hours are ideal for visiting, with early mornings or late afternoons often providing more serene experiences.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s advisable to check in advance for any accommodations.
+Accessibility details are not specified; it's advisable to check in advance for any accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing information is not provided; please refer to the official website for current options.

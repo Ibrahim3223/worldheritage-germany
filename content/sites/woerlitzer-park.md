@@ -84,7 +84,7 @@ For photography enthusiasts, the soft light during early morning or late afterno
 
 When planning your visit to Wörlitzer Park, it's advisable to wear comfortable walking shoes, as the park's paths can be extensive. Depending on the season, dress appropriately for the weather, and consider bringing layers for cooler evenings.
 
-It’s also a good idea to pack a light picnic or snacks, as you might find idyllic spots to relax while enjoying the scenery. Keep in mind the park's natural setting, and be respectful of the environment by following any posted guidelines and regulations.
+It's also a good idea to pack a light picnic or snacks, as you might find idyllic spots to relax while enjoying the scenery. Keep in mind the park's natural setting, and be respectful of the environment by following any posted guidelines and regulations.
 
 ## Frequently Asked Questions
 

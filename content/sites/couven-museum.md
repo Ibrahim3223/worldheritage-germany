@@ -36,7 +36,7 @@ As you explore the museum, expect to be drawn into the stories behind the object
 
 The Couven-Museum occupies a building that reflects the architectural style and domestic life of the late Baroque and early Classicism periods. This period was marked by a growing middle class in Germany, leading to a transformation in the design and function of residential spaces. The museum is named after the influential Aachen architect, Hermann Josef Couven, who was instrumental in shaping the aesthetic of the region during the 18th century.
 
-In its mission to preserve and present the decorative arts, the museum highlights the importance of craftsmanship and design in domestic settings. The museum’s collections are particularly significant for their representation of the period's social dynamics, showcasing how art and design were intertwined with everyday life. Visitors can observe a wide array of items that reflect not only aesthetic preferences but also technological advancements in production methods of the era.
+In its mission to preserve and present the decorative arts, the museum highlights the importance of craftsmanship and design in domestic settings. The museum's collections are particularly significant for their representation of the period's social dynamics, showcasing how art and design were intertwined with everyday life. Visitors can observe a wide array of items that reflect not only aesthetic preferences but also technological advancements in production methods of the era.
 
 The museum also plays an educational role, hosting temporary exhibitions and events that explore various aspects of art history and cultural heritage. These programs aim to foster a deeper understanding of the historical context surrounding the collections and encourage appreciation for the craftsmanship that characterizes this period.
 
@@ -68,7 +68,7 @@ Aachen is rich in cultural and historical attractions, making it easy to extend 
 
 4. **Puppenbrunnen**: A charming fountain that adds a whimsical touch to the cityscape, perfect for a quick photo opportunity.
 
-5. **Aachen Town Hall**: An architectural landmark that showcases the city’s medieval past and is worth a visit for its impressive facade and historical rooms.
+5. **Aachen Town Hall**: An architectural landmark that showcases the city's medieval past and is worth a visit for its impressive facade and historical rooms.
 
 ## Insider Tips
 
@@ -96,7 +96,7 @@ When planning your visit to the Couven-Museum, consider the following practical 
 A visit to the Couven-Museum typically takes about one to two hours, depending on your level of interest and engagement with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum regarding restrictions on photography within the exhibits.
+Photography policies may vary, so it's best to check with the museum regarding restrictions on photography within the exhibits.
 
 ### Are there guided tours?
 The museum may offer guided tours, providing deeper insights into the collections. Check the official website for availability and scheduling.
@@ -111,7 +111,7 @@ For specific accessibility details, please check the official website for inform
 Information on ticket purchases, including online options, can be found on the museum's official website.
 
 ### Are there restrooms and cafes?
-Facilities, including restrooms and potential café options, may be available. It’s advisable to check the official website for the latest details.
+Facilities, including restrooms and potential café options, may be available. It's advisable to check the official website for the latest details.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, as you may be walking and standing for extended periods while exploring the museum. 

@@ -95,7 +95,7 @@ Currently, there is no specific information regarding guided tours. Check the of
 Weekdays or early mornings are ideal for a quieter experience, but seasonal events may also provide unique opportunities.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified. It’s best to check the official website for details regarding entrance and facilities.
+Accessibility information is not specified. It's best to check the official website for details regarding entrance and facilities.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and any potential online options.

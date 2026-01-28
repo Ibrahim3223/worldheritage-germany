@@ -86,7 +86,7 @@ To make the most of your visit to Benediktinerkloster Belecke, consider the foll
 
 When preparing for your visit to Benediktinerkloster Belecke, consider the following practical information:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the grounds extensively. A camera for capturing the site’s beauty can also be beneficial.
+- **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the grounds extensively. A camera for capturing the site's beauty can also be beneficial.
 
 - **Seasonal Considerations**: Depending on the time of year, dress in layers to accommodate changing weather conditions. Spring and fall may require light jackets, while summer may call for lighter clothing.
 

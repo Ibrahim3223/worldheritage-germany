@@ -72,7 +72,7 @@ Additionally, engaging with museum staff can provide valuable insights and recom
 
 ## Practical Information
 
-Before visiting Heimatmuseum Rückersdorf, it’s wise to prepare for your trip. Bringing a water bottle and comfortable walking shoes can enhance your experience, as you explore the museum and surrounding areas. Depending on the season, be mindful of the weather and dress accordingly, especially if you plan to spend time outdoors.
+Before visiting Heimatmuseum Rückersdorf, it's wise to prepare for your trip. Bringing a water bottle and comfortable walking shoes can enhance your experience, as you explore the museum and surrounding areas. Depending on the season, be mindful of the weather and dress accordingly, especially if you plan to spend time outdoors.
 
 For seasonal considerations, check the official website for any special events or temporary exhibitions that may be taking place during your visit. This can provide unique opportunities to experience local culture and heritage in a dynamic way.
 

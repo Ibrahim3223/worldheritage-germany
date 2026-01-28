@@ -22,7 +22,7 @@ images:
 
 The Heimatmuseum Altes Rathaus Loßburg is a cultural institution located in Germany that invites visitors to explore the local heritage and historical narratives of the region. Positioned within the town of Loßburg, this museum serves as an important educational resource, offering insights into the lives, traditions, and customs of the area. Although specifics about its collection and exhibitions may vary, the museum aims to connect visitors with the regional history in a meaningful way.
 
-The museum is situated at the coordinates 48.415155, 8.448351, placing it in a locale that is easily accessible for those traveling through Germany. Its significance is underscored by its commitment to preserving local culture, making it a noteworthy stop for anyone interested in understanding the history and lifestyle of the Loßburg community. Visitors can expect to engage with a variety of exhibits that showcase the area’s past, enhancing their appreciation for the cultural landscape of this part of Germany.
+The museum is situated at the coordinates 48.415155, 8.448351, placing it in a locale that is easily accessible for those traveling through Germany. Its significance is underscored by its commitment to preserving local culture, making it a noteworthy stop for anyone interested in understanding the history and lifestyle of the Loßburg community. Visitors can expect to engage with a variety of exhibits that showcase the area's past, enhancing their appreciation for the cultural landscape of this part of Germany.
 
 ## History and Significance
 

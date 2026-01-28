@@ -28,7 +28,7 @@ image_srcset:
 
 Zeidlerschloss, a distinguished manor house located in Feucht, Bavaria, stands as a notable cultural heritage monument in the Landkreis Nürnberger Land. This historic structure captures the essence of traditional German architecture while inviting visitors to explore its storied past. Surrounded by lush landscapes typical of the Bavarian countryside, the manor serves not only as a visual delight but also as a focal point for understanding the region's cultural heritage.
 
-As you approach Zeidlerschloss, you’ll be struck by its elegant façade and tranquil surroundings, making it an ideal destination for heritage enthusiasts and casual visitors alike. The manor house encapsulates the character of the area, offering insights into the architectural styles and social history of Bavaria. Whether you are drawn by the allure of its artistic features or the serene environment, a visit to Zeidlerschloss promises to be a rewarding experience.
+As you approach Zeidlerschloss, you'll be struck by its elegant façade and tranquil surroundings, making it an ideal destination for heritage enthusiasts and casual visitors alike. The manor house encapsulates the character of the area, offering insights into the architectural styles and social history of Bavaria. Whether you are drawn by the allure of its artistic features or the serene environment, a visit to Zeidlerschloss promises to be a rewarding experience.
 
 ## History and Significance
 

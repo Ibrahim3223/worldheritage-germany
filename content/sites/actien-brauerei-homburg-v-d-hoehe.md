@@ -93,13 +93,13 @@ A visit typically takes between two to four hours, depending on your interest in
 Photography policies may vary; check on-site regulations regarding photography to ensure compliance.
 
 ### Are there guided tours?
-Guided tours may be available, providing valuable insights into the brewery’s history and operations.
+Guided tours may be available, providing valuable insights into the brewery's history and operations.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning or late afternoon, may offer a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility features can vary; it’s advisable to check the official website for specific information regarding accessibility.
+Accessibility features can vary; it's advisable to check the official website for specific information regarding accessibility.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, as they can vary.

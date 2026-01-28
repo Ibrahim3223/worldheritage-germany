@@ -54,7 +54,7 @@ Before visiting, it is advisable to check the official website for current infor
 
 In terms of time commitment, visitors are encouraged to allocate a few hours to fully appreciate the exhibitions. The museum is designed to engage guests with its informative displays, and many choose to spend extra time exploring the intricacies of the artifacts.
 
-For a more enjoyable experience, consider visiting during weekdays or early in the morning to avoid larger crowds. This allows for a more intimate exploration of the museum’s offerings, providing opportunities for deeper engagement with the exhibits.
+For a more enjoyable experience, consider visiting during weekdays or early in the morning to avoid larger crowds. This allows for a more intimate exploration of the museum's offerings, providing opportunities for deeper engagement with the exhibits.
 
 ## Nearby Attractions
 
@@ -74,7 +74,7 @@ Dresden is rich in cultural and historical landmarks, making it an ideal destina
 
 For photography enthusiasts, the Dresden Armory allows photography in certain areas, but it is essential to check for any restrictions upon entry. Early morning visits not only provide a quieter experience but also present opportunities to capture artifacts in natural light.
 
-To avoid crowds, try to visit during weekdays or outside of peak tourist seasons. Planning your visit around local events or holidays may also contribute to a more relaxed experience, allowing for a deeper exploration of the museum’s offerings.
+To avoid crowds, try to visit during weekdays or outside of peak tourist seasons. Planning your visit around local events or holidays may also contribute to a more relaxed experience, allowing for a deeper exploration of the museum's offerings.
 
 ## Practical Information
 

@@ -66,7 +66,7 @@ While visiting the Augustinian Convent Obernkirchen, there are several nearby at
 
 To make the most of your visit to the Augustinian Convent Obernkirchen, consider these insider tips:
 
-- **Photography**: While photography is often allowed in many areas of the museum, it’s best to check for specific restrictions, especially in areas housing sensitive artifacts.
+- **Photography**: While photography is often allowed in many areas of the museum, it's best to check for specific restrictions, especially in areas housing sensitive artifacts.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or earlier in the day. The weekends may attract more visitors, making for a busier atmosphere.
 

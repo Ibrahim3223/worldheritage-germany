@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Stiftung Charité, a notable foundation based in Bezirk Mitte, Germany, plays a vital role in the support of the Berlin University Medical School. Established in 2005, this non-profit organization is dedicated to advancing medical education and research, reflecting the commitment to healthcare excellence in one of Europe’s leading medical hubs. Its geographical context in Berlin, a city known for its rich history and innovation, positions the foundation as an integral part of the medical landscape, promoting academic growth and fostering partnerships within the healthcare sector.
+Stiftung Charité, a notable foundation based in Bezirk Mitte, Germany, plays a vital role in the support of the Berlin University Medical School. Established in 2005, this non-profit organization is dedicated to advancing medical education and research, reflecting the commitment to healthcare excellence in one of Europe's leading medical hubs. Its geographical context in Berlin, a city known for its rich history and innovation, positions the foundation as an integral part of the medical landscape, promoting academic growth and fostering partnerships within the healthcare sector.
 
 The foundation not only contributes to the academic community but also serves as a bridge between education, research, and patient care. Visitors to Stiftung Charité can expect to immerse themselves in an environment where the future of medicine is being shaped. With its emphasis on collaboration and knowledge transfer, Stiftung Charité stands out as a significant player in the ongoing evolution of healthcare in Germany.
 
@@ -28,7 +28,7 @@ The foundation not only contributes to the academic community but also serves as
 
 Stiftung Charité has its roots in the renowned Charité hospital, one of the oldest and largest university hospitals in Europe. While specific historical milestones are not detailed, the foundation itself was established in 2005 to consolidate efforts in supporting medical education at the Berlin University Medical School. This initiative reflects a broader trend in Germany to enhance medical training and research capabilities, ensuring that the next generation of healthcare professionals is equipped with cutting-edge knowledge and skills.
 
-The foundation’s significance extends beyond mere educational support; it represents a commitment to fostering innovation in medical research and improving patient care standards. By providing resources and facilitating collaborations among researchers, medical practitioners, and educational institutions, Stiftung Charité plays a crucial role in advancing healthcare initiatives. The foundation is instrumental in addressing pressing health issues through research and development of new medical practices, thereby contributing to global advancements in medicine.
+The foundation's significance extends beyond mere educational support; it represents a commitment to fostering innovation in medical research and improving patient care standards. By providing resources and facilitating collaborations among researchers, medical practitioners, and educational institutions, Stiftung Charité plays a crucial role in advancing healthcare initiatives. The foundation is instrumental in addressing pressing health issues through research and development of new medical practices, thereby contributing to global advancements in medicine.
 
 Moreover, the foundation reflects Berlin's historical context as a center for medical research and education. Its location in Bezirk Mitte places it within reach of other significant medical and educational institutions, enhancing its collaborative potential. Through its initiatives, Stiftung Charité not only contributes to local health outcomes but also impacts global health discourse, reinforcing Germany's position as a leader in medical research and education.
 
@@ -56,17 +56,17 @@ Visitors to Stiftung Charité can take advantage of its proximity to several not
    
 2. **Museum Island**: A UNESCO World Heritage site, this area is home to some of Berlin's most important museums, including the Pergamon Museum and the Altes Museum.
 
-3. **Brandenburg Gate**: This iconic landmark, symbolizing Berlin’s reunification, is easily accessible and serves as a must-see attraction for visitors.
+3. **Brandenburg Gate**: This iconic landmark, symbolizing Berlin's reunification, is easily accessible and serves as a must-see attraction for visitors.
 
 4. **Tiergarten**: This expansive park provides a serene environment for a leisurely stroll, picnicking, or simply relaxing amidst nature.
 
-5. **Soviet War Memorial**: Located in the Tiergarten, this memorial offers insight into the city’s WWII history and is a poignant place to reflect on the past.
+5. **Soviet War Memorial**: Located in the Tiergarten, this memorial offers insight into the city's WWII history and is a poignant place to reflect on the past.
 
 ## Insider Tips
 
 For those planning a visit to Stiftung Charité, consider these insider tips to enhance your experience:
 
-- **Photography**: Check the foundation's policy on photography, as some areas may have restrictions. If allowed, capture the architectural details and exhibits that reflect the foundation’s mission.
+- **Photography**: Check the foundation's policy on photography, as some areas may have restrictions. If allowed, capture the architectural details and exhibits that reflect the foundation's mission.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during the early hours of the day or on weekdays. This can provide a more intimate experience and greater access to any exhibitions or activities.
 

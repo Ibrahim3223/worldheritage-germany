@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Commedia Futura is a notable theatre building located in the heart of Hanover, Germany. It exemplifies the rich cultural heritage of the region, contributing to the city’s vibrant performing arts scene. As a dynamic venue for theatre, it attracts both locals and visitors, offering a variety of performances that showcase contemporary and classical works. This theatre stands as a cultural hub, where creativity and expression flourish, reflecting the artistic spirit of Hanover.
+Commedia Futura is a notable theatre building located in the heart of Hanover, Germany. It exemplifies the rich cultural heritage of the region, contributing to the city's vibrant performing arts scene. As a dynamic venue for theatre, it attracts both locals and visitors, offering a variety of performances that showcase contemporary and classical works. This theatre stands as a cultural hub, where creativity and expression flourish, reflecting the artistic spirit of Hanover.
 
-The theatre’s location in Hanover, known for its historical significance and cultural institutions, adds to its allure. Visitors can immerse themselves in the local arts scene while exploring the city's other attractions. Commedia Futura is more than just a theatre; it represents the community's dedication to the performing arts, making it a must-visit for anyone interested in the cultural landscape of Germany.
+The theatre's location in Hanover, known for its historical significance and cultural institutions, adds to its allure. Visitors can immerse themselves in the local arts scene while exploring the city's other attractions. Commedia Futura is more than just a theatre; it represents the community's dedication to the performing arts, making it a must-visit for anyone interested in the cultural landscape of Germany.
 
 ## History and Significance
 
@@ -34,15 +34,15 @@ The theatre also engages with the community through outreach programs, workshops
 
 ## Architecture and Features
 
-Commedia Futura is designed to accommodate a variety of performances, offering a versatile space that caters to both intimate gatherings and larger productions. The building’s architecture reflects a modern aesthetic, characterized by clean lines and functional design that enhance the experience of attendees. 
+Commedia Futura is designed to accommodate a variety of performances, offering a versatile space that caters to both intimate gatherings and larger productions. The building's architecture reflects a modern aesthetic, characterized by clean lines and functional design that enhance the experience of attendees. 
 
 Inside, the theatre features a comfortable seating arrangement that ensures excellent sightlines for the audience, providing an immersive experience during performances. The stage is equipped with advanced technical facilities, allowing for a wide range of productions to take place. 
 
-Noteworthy features include the theatre’s acoustics, which are designed to enhance sound quality and ensure that every performance resonates with the audience. The overall atmosphere of the theatre is one of warm elegance, inviting patrons to engage with the performances fully.
+Noteworthy features include the theatre's acoustics, which are designed to enhance sound quality and ensure that every performance resonates with the audience. The overall atmosphere of the theatre is one of warm elegance, inviting patrons to engage with the performances fully.
 
 ## Visiting Information
 
-Visiting Commedia Futura offers a chance to delve into Hanover's vibrant arts scene. The theatre is centrally located, making it easily accessible via public transportation. Visitors can arrive by bus or tram, with nearby stops within walking distance. Parking options may also be available for those traveling by car, though it’s advisable to check the specific arrangements.
+Visiting Commedia Futura offers a chance to delve into Hanover's vibrant arts scene. The theatre is centrally located, making it easily accessible via public transportation. Visitors can arrive by bus or tram, with nearby stops within walking distance. Parking options may also be available for those traveling by car, though it's advisable to check the specific arrangements.
 
 Before planning your visit, check the official website for current information regarding performance schedules, ticket prices, and any special events. Typically, visitors can expect a range of performances throughout the week, showcasing both established pieces and new works.
 
@@ -102,7 +102,7 @@ Weekdays may offer a quieter experience, while weekends can be busier. The best 
 
 ### Is it wheelchair accessible?
 
-For specific accessibility information, including wheelchair access, it’s best to consult the official website before your visit.
+For specific accessibility information, including wheelchair access, it's best to consult the official website before your visit.
 
 ### Can I buy tickets online?
 

@@ -78,7 +78,7 @@ To avoid larger crowds, aim for mid-week visits rather than weekends or during h
 
 ## Practical Information
 
-When visiting Domkirche, it’s advisable to bring a few essential items. Comfortable footwear is recommended, as you may want to explore the surrounding areas or take part in local walks. A camera or smartphone is also a good idea for capturing the architecture and any significant moments during your visit.
+When visiting Domkirche, it's advisable to bring a few essential items. Comfortable footwear is recommended, as you may want to explore the surrounding areas or take part in local walks. A camera or smartphone is also a good idea for capturing the architecture and any significant moments during your visit.
 
 Seasonal considerations can enhance your experience. Spring and autumn typically offer pleasant weather, making for a comfortable visit. However, if you are visiting during winter, dress warmly, as church buildings can sometimes be cooler due to their size and materials.
 
@@ -88,7 +88,7 @@ Seasonal considerations can enhance your experience. Spring and autumn typically
 A visit to Domkirche generally takes about an hour, allowing time to appreciate its architecture and reflect in the space.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions, especially during services or special events.
+Photography policies may vary, so it's best to check for any restrictions, especially during services or special events.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the church's history and significance.
@@ -103,7 +103,7 @@ For accessibility information, check the official website to ensure that your vi
 Ticket purchasing options may vary, so it's advisable to check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to verify this information beforehand for your convenience.
+Facilities may be available nearby, but it's best to verify this information beforehand for your convenience.
 
 ### What should I wear?
 Dress comfortably and appropriately for a religious site, keeping in mind that certain attire may be expected in places of worship.

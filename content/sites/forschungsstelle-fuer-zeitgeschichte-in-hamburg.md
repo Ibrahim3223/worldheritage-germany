@@ -76,7 +76,7 @@ If you're interested in specific topics, checking the foundation's schedule for 
 
 When planning your visit to the Forschungsstelle für Zeitgeschichte, consider bringing essentials such as a notebook or digital device for taking notes during your exploration. Seasonal weather in Hamburg can be variable, so dressing in layers is advisable to ensure comfort throughout your visit.
 
-Additionally, it’s wise to check the official website for any seasonal events or special exhibitions that may require advance planning or reservations. Staying informed about local transportation options and parking facilities can further enhance your visit.
+Additionally, it's wise to check the official website for any seasonal events or special exhibitions that may require advance planning or reservations. Staying informed about local transportation options and parking facilities can further enhance your visit.
 
 ## Frequently Asked Questions
 
@@ -84,7 +84,7 @@ Additionally, it’s wise to check the official website for any seasonal events 
 A visit typically requires a few hours, allowing time to explore exhibits and participate in programs.
 
 ### Is photography allowed?
-Check the foundation’s official website for the specific photography policy, as it may vary by exhibit.
+Check the foundation's official website for the specific photography policy, as it may vary by exhibit.
 
 ### Are there guided tours?
 The foundation may offer guided tours, providing insights into its research and exhibitions. Check the official website for availability.

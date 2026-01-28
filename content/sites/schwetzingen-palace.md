@@ -103,7 +103,7 @@ Yes, guided tours are available and provide valuable insights into the history a
 Spring and summer are ideal for experiencing the gardens in full bloom, while weekdays can be less crowded.
 
 ### Is it wheelchair accessible?
-The palace and gardens aim to be accessible, but it’s advisable to check the official website for specific accessibility information.
+The palace and gardens aim to be accessible, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and special events.

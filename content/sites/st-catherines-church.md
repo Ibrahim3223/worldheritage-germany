@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St. Catherine's Church, an emblematic church building located in Lübeck's Old City, Germany, invites visitors to explore its historical and architectural significance. Renowned for its striking design and cultural heritage, the church serves as a prominent landmark in this UNESCO World Heritage site. As you approach its grand façade, you can’t help but appreciate the blend of religious and artistic influences that characterize this medieval structure. 
+St. Catherine's Church, an emblematic church building located in Lübeck's Old City, Germany, invites visitors to explore its historical and architectural significance. Renowned for its striking design and cultural heritage, the church serves as a prominent landmark in this UNESCO World Heritage site. As you approach its grand façade, you can't help but appreciate the blend of religious and artistic influences that characterize this medieval structure. 
 
-Lübeck, a city with a storied past as a major trading hub during the Hanseatic League, provides the perfect backdrop for St. Catherine's Church. Its location within the Old City, known for its well-preserved medieval architecture, enhances the church's significance as a center of community life and spirituality. With a sense of tranquility and reverence, St. Catherine’s stands ready to welcome those interested in both its architectural splendor and its role in Lübeck's spiritual and cultural narrative.
+Lübeck, a city with a storied past as a major trading hub during the Hanseatic League, provides the perfect backdrop for St. Catherine's Church. Its location within the Old City, known for its well-preserved medieval architecture, enhances the church's significance as a center of community life and spirituality. With a sense of tranquility and reverence, St. Catherine's stands ready to welcome those interested in both its architectural splendor and its role in Lübeck's spiritual and cultural narrative.
 
 Whether you are a history enthusiast, an architect, or a traveler seeking moments of reflection, St. Catherine's Church offers a unique glimpse into the past while remaining a vital part of the present-day community.
 
@@ -78,7 +78,7 @@ While St. Catherine's Church is a significant destination in its own right, seve
 
 ## Insider Tips
 
-For photography enthusiasts, the best times to capture St. Catherine's Church are early in the morning or late in the afternoon when the natural light enhances the church's features. Be mindful of the church’s atmosphere and the presence of worshippers when taking photos.
+For photography enthusiasts, the best times to capture St. Catherine's Church are early in the morning or late in the afternoon when the natural light enhances the church's features. Be mindful of the church's atmosphere and the presence of worshippers when taking photos.
 
 To avoid larger crowds, plan your visit during weekdays or outside of peak tourist seasons. This allows for a more peaceful experience and the opportunity to engage more deeply with the space.
 

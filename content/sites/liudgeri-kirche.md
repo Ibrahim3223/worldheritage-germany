@@ -72,7 +72,7 @@ While exploring the Jemgum region, there are several nearby attractions that can
 
 For photography enthusiasts, early morning or late afternoon provides the best natural light for capturing the church's exterior and surrounding scenery. Aim for weekdays if you prefer a quieter atmosphere, as weekends may attract more visitors due to services and events.
 
-If you are interested in attending a service or community event, consider checking the church’s schedule in advance. This can enhance your experience and provide insight into the local customs and traditions associated with the church.
+If you are interested in attending a service or community event, consider checking the church's schedule in advance. This can enhance your experience and provide insight into the local customs and traditions associated with the church.
 
 ## Practical Information
 

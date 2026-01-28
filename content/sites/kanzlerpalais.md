@@ -40,7 +40,7 @@ Culturally, the palace is emblematic of the artistic influences that have permea
 
 ## Architecture and Features
 
-Kanzlerpalais stands out not just for its historical significance but also for its architectural elegance. The design of the palace embodies elements that are characteristic of the region, showcasing a blend of styles that have evolved over time. The structure’s façade is marked by intricate details that draw the eye, offering a glimpse into the craftsmanship that defines much of German architecture.
+Kanzlerpalais stands out not just for its historical significance but also for its architectural elegance. The design of the palace embodies elements that are characteristic of the region, showcasing a blend of styles that have evolved over time. The structure's façade is marked by intricate details that draw the eye, offering a glimpse into the craftsmanship that defines much of German architecture.
 
 The layout of Kanzlerpalais is thoughtfully designed, allowing for both functional and aesthetic purposes. Visitors will find spacious rooms that were historically utilized for gatherings and receptions, each with its own unique design elements that reflect the palace's historical significance. The interiors are as noteworthy as the exterior, featuring decor that speaks to the era in which the palace was most actively used.
 
@@ -80,7 +80,7 @@ To make the most of your visit to Kanzlerpalais, consider these insider tips:
 
 When preparing for your visit to Kanzlerpalais, keep the following practical information in mind:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you’ll likely be exploring various areas of the palace. A light jacket may be advisable, depending on the season.
+- **What to Bring**: Comfortable walking shoes are recommended, as you'll likely be exploring various areas of the palace. A light jacket may be advisable, depending on the season.
 
 - **Seasonal Considerations**: The best time to visit is typically during the spring and summer months when the gardens are at their most vibrant. However, each season offers a unique perspective on the palace and its surroundings.
 

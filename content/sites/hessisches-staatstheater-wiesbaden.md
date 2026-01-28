@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Hessisches Staatstheater Wiesbaden is a prominent theatre and opera house located in the heart of Wiesbaden, Germany. As a vital cultural institution, it serves as a hub for artistic expression, offering a diverse array of performances ranging from operas and ballets to theatrical productions. The theatre has earned its reputation not only for its captivating performances but also for its striking architectural design that draws visitors from both near and far. Wiesbaden, the capital of the state of Hesse, is known for its thermal springs and rich cultural heritage, making the theatre a key part of the city’s vibrant artistic scene.
+The Hessisches Staatstheater Wiesbaden is a prominent theatre and opera house located in the heart of Wiesbaden, Germany. As a vital cultural institution, it serves as a hub for artistic expression, offering a diverse array of performances ranging from operas and ballets to theatrical productions. The theatre has earned its reputation not only for its captivating performances but also for its striking architectural design that draws visitors from both near and far. Wiesbaden, the capital of the state of Hesse, is known for its thermal springs and rich cultural heritage, making the theatre a key part of the city's vibrant artistic scene.
 
-With a history that intertwines with the cultural evolution of Wiesbaden, the Hessisches Staatstheater holds significant importance, reflecting the city’s dedication to the arts. Visitors to the theatre can expect an engaging experience, whether attending a performance or simply exploring the building itself. The theatre stands as a testament to the enduring power of creativity and the arts, inviting audiences to immerse themselves in a world of storytelling and music.
+With a history that intertwines with the cultural evolution of Wiesbaden, the Hessisches Staatstheater holds significant importance, reflecting the city's dedication to the arts. Visitors to the theatre can expect an engaging experience, whether attending a performance or simply exploring the building itself. The theatre stands as a testament to the enduring power of creativity and the arts, inviting audiences to immerse themselves in a world of storytelling and music.
 
 ## History and Significance
 

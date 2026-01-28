@@ -36,7 +36,7 @@ The Zisterzienserinnenkloster Donndorf has a significant place in the cultural f
 
 Monasteries like Donndorf played a crucial role in the spiritual and social lives of their communities, serving not only as places of worship but also as centers of education, agriculture, and hospitality. The nuns of the Cistercian order were known for their dedication to their faith and their contributions to the community, often involved in agricultural development and the promotion of sustainable practices. 
 
-The architectural style of the Zisterzienserinnenkloster reflects the principles of the Cistercian order, which valued functionality and simplicity. This approach can be seen in the design of the church building, which typically features unadorned stonework and a layout that promotes communal worship and reflection. The monastery’s historical significance extends beyond its physical structure; it is a representation of the broader movements within Christianity that sought to reform and deepen the spiritual experience of its followers.
+The architectural style of the Zisterzienserinnenkloster reflects the principles of the Cistercian order, which valued functionality and simplicity. This approach can be seen in the design of the church building, which typically features unadorned stonework and a layout that promotes communal worship and reflection. The monastery's historical significance extends beyond its physical structure; it is a representation of the broader movements within Christianity that sought to reform and deepen the spiritual experience of its followers.
 
 ## Architecture and Features
 
@@ -62,7 +62,7 @@ Aside from the Zisterzienserinnenkloster Donndorf, the Roßleben-Wiehe region is
    
 2. **Roßleben Town Center**: A charming area that features local shops and cafes, perfect for experiencing the local culture and cuisine.
 
-3. **Wiehe Castle Ruins**: A short distance away, these ruins offer a glimpse into the region’s feudal past and are surrounded by picturesque landscapes.
+3. **Wiehe Castle Ruins**: A short distance away, these ruins offer a glimpse into the region's feudal past and are surrounded by picturesque landscapes.
 
 4. **The River Unstrut**: Ideal for nature lovers, the river offers scenic walking paths and opportunities for outdoor activities.
 

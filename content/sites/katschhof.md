@@ -28,7 +28,7 @@ image_srcset:
 
 Katschhof is a vibrant public square located in the heart of Aachen, Germany. This urban space serves as a focal point for both locals and visitors, offering a glimpse into the city's cultural life and historical significance. Surrounded by notable landmarks, Katschhof is not just a thoroughfare but a gathering place that hosts various events, markets, and celebrations throughout the year.
 
-Situated at the coordinates 50.7754611, 6.0837963, Katschhof holds a prominent position within the Aachen-Mitte district. Its accessibility makes it an ideal starting point for exploring the rich heritage of Aachen, a city known for its unique blend of Roman and medieval architecture. The square’s layout encourages visitors to pause, engage with their surroundings, and appreciate the historical context that has shaped this enchanting locale.
+Situated at the coordinates 50.7754611, 6.0837963, Katschhof holds a prominent position within the Aachen-Mitte district. Its accessibility makes it an ideal starting point for exploring the rich heritage of Aachen, a city known for its unique blend of Roman and medieval architecture. The square's layout encourages visitors to pause, engage with their surroundings, and appreciate the historical context that has shaped this enchanting locale.
 
 As you traverse Katschhof, you'll find that it acts as a bridge between the past and present, offering both a place for relaxation and a hub for community activities. With its charming ambiance, Katschhof invites exploration and discovery, making it an essential stop on any itinerary focused on the heritage of Aachen.
 
@@ -36,7 +36,7 @@ As you traverse Katschhof, you'll find that it acts as a bridge between the past
 
 Katschhof's historical significance is intertwined with Aachen's rich cultural narrative. The square has been a site of social interaction for centuries, reflecting the evolving dynamics of the city. While specific historical events may not be detailed, Katschhof has always served as a central meeting point, facilitating communication and commerce among the residents of Aachen.
 
-The name "Katschhof" itself suggests a connection to the historical use of space, possibly stemming from its earlier functions in the community. Over time, the square has adapted to the needs of its inhabitants, evolving from a simple gathering place to a vibrant hub of activity. Its position within the city allows it to interact with other historical sites, emphasizing the interconnectedness of Aachen’s architectural and cultural history.
+The name "Katschhof" itself suggests a connection to the historical use of space, possibly stemming from its earlier functions in the community. Over time, the square has adapted to the needs of its inhabitants, evolving from a simple gathering place to a vibrant hub of activity. Its position within the city allows it to interact with other historical sites, emphasizing the interconnectedness of Aachen's architectural and cultural history.
 
 Additionally, Katschhof's role in hosting seasonal events, markets, and local celebrations has solidified its importance in the community. These gatherings not only showcase local artisans and foods but also foster a sense of belonging among residents and visitors alike. As such, Katschhof stands as a testament to the communal spirit that characterizes Aachen, making it a significant site for understanding the city's heritage.
 
@@ -66,7 +66,7 @@ Katschhof is conveniently located near several notable attractions, making it an
    
 3. **Elisenbrunnen**: A beautiful neoclassical fountain located nearby, known for its thermal springs and significance in Aachen's spa culture.
    
-4. **Museum Couven**: This museum showcases the lifestyle of the bourgeoisie in the 18th and 19th centuries, providing insight into Aachen’s social history.
+4. **Museum Couven**: This museum showcases the lifestyle of the bourgeoisie in the 18th and 19th centuries, providing insight into Aachen's social history.
    
 5. **Aachen's Thermal Baths**: A short distance from Katschhof, these historic baths highlight the city's long-standing connection to wellness and relaxation.
 
@@ -94,7 +94,7 @@ Yes, photography is generally permitted in Katschhof, especially during events a
 While Katschhof itself does not offer guided tours, local guided tours of Aachen often include the square as a stop, providing context and history.
 
 ### What's the best time to visit?
-Late mornings and early afternoons are ideal for experiencing Katschhof’s vibrant atmosphere, while weekdays tend to be less crowded.
+Late mornings and early afternoons are ideal for experiencing Katschhof's vibrant atmosphere, while weekdays tend to be less crowded.
 
 ### Is it wheelchair accessible?
 Yes, Katschhof is designed to be accessible, with flat surfaces and pathways suitable for wheelchairs.

@@ -80,7 +80,7 @@ Check the official website for current information regarding seasonal events or 
 Most visitors spend a few hours at the museum to fully appreciate the exhibits and participate in activities. 
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions at individual exhibits.
+Photography is generally permitted, but it's best to check for any specific restrictions at individual exhibits.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

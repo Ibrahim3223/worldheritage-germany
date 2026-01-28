@@ -28,7 +28,7 @@ image_srcset:
 
 Greiffenberg Castle, a striking historical edifice located in the Brandenburg region of Germany, offers visitors a glimpse into the architectural and cultural heritage of the area. This castle stands as a notable example of German fortification and design, reflecting the historical significance of the region. Set amid the picturesque landscapes of Angermünde, it draws history enthusiasts and casual visitors alike, providing an opportunity to explore the legacy of medieval architecture in a serene environment.
 
-The castle’s strategic location, combined with its architectural features, makes it an important site for understanding the region's past. Its enduring presence invites exploration and curiosity, promising insights into the life and times of those who once inhabited its walls. As you approach Greiffenberg Castle, the grandeur of its structure hints at the stories and histories waiting to be uncovered within.
+The castle's strategic location, combined with its architectural features, makes it an important site for understanding the region's past. Its enduring presence invites exploration and curiosity, promising insights into the life and times of those who once inhabited its walls. As you approach Greiffenberg Castle, the grandeur of its structure hints at the stories and histories waiting to be uncovered within.
 
 ## History and Significance
 

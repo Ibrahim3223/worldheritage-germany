@@ -82,7 +82,7 @@ Seasonal considerations may affect your visit; for instance, spring and summer o
 A visit typically lasts around one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s important to be respectful of others who may be there for worship.
+Photography is generally permitted, but it's important to be respectful of others who may be there for worship.
 
 ### Are there guided tours?
 Check the official website for information on any available guided tours or events.

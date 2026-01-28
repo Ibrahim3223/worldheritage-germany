@@ -42,7 +42,7 @@ The architecture of Dorfkirche Priborn reflects typical characteristics of churc
 
 The interior of the church likely showcases elements such as wooden pews, an altar, and possibly religious iconography that reflects the community's faith. The design of the church is typically functional, aiming to accommodate congregational gatherings while providing a space conducive to worship and reflection. 
 
-Additionally, the materials used in its construction would generally consist of local stone or brick, harmonizing with the surrounding environment. This connection to local materials not only emphasizes the church’s role as a community focal point but also highlights the craftsmanship of builders who contributed to its establishment.
+Additionally, the materials used in its construction would generally consist of local stone or brick, harmonizing with the surrounding environment. This connection to local materials not only emphasizes the church's role as a community focal point but also highlights the craftsmanship of builders who contributed to its establishment.
 
 Visitors can expect to find a serene atmosphere within Dorfkirche Priborn, where the architectural simplicity invites contemplation and respect for the traditions upheld within this sacred space.
 
@@ -96,7 +96,7 @@ Before heading to Dorfkirche Priborn, here are some practical considerations:
 A visit typically takes around 30 minutes to an hour, depending on your interest in exploring the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival regarding any restrictions, particularly inside the church.
+Photography policies may vary, so it's best to check upon arrival regarding any restrictions, particularly inside the church.
 
 ### Are there guided tours?
 Information about guided tours is not specified, so check the official website or inquire locally for any available options.

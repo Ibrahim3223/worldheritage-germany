@@ -36,7 +36,7 @@ The Lambert Steinwich memorial stands as a tribute to an influential figure with
 
 Stralsund, with its strategic location along the Baltic Sea, has a rich maritime history that reflects the economic and cultural exchanges that have taken place over centuries. Statues like the Lambert Steinwich memorial serve as focal points within the city, helping to connect residents and visitors alike with the stories that have shaped the region. In commemorating Steinwich, the memorial stands not only as a physical marker but also as a symbol of community pride and historical legacy.
 
-The memorial adds to the depth of understanding of Stralsund’s past, providing context for the city's development and its connection to broader historical narratives. As a site of remembrance, the statue invites reflection on the values and principles that have guided the community through challenges and triumphs alike. Visiting the Lambert Steinwich memorial provides an opportunity to engage with this history, making it a significant stop for those seeking a deeper understanding of the area.
+The memorial adds to the depth of understanding of Stralsund's past, providing context for the city's development and its connection to broader historical narratives. As a site of remembrance, the statue invites reflection on the values and principles that have guided the community through challenges and triumphs alike. Visiting the Lambert Steinwich memorial provides an opportunity to engage with this history, making it a significant stop for those seeking a deeper understanding of the area.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ When planning your visit, consider allocating sufficient time to explore the are
 
 ## Nearby Attractions
 
-1. **Stralsund Old Town**: A UNESCO World Heritage site, the Old Town of Stralsund is known for its well-preserved medieval architecture and vibrant atmosphere. Exploring its cobblestone streets and historic buildings can provide further insight into the city’s past.
+1. **Stralsund Old Town**: A UNESCO World Heritage site, the Old Town of Stralsund is known for its well-preserved medieval architecture and vibrant atmosphere. Exploring its cobblestone streets and historic buildings can provide further insight into the city's past.
 
 2. **St. Nicholas Church**: This impressive Gothic church is one of Stralsund's most notable landmarks. Visitors can admire its architecture and learn about its historical significance, which dates back to the 13th century.
 

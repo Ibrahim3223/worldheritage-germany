@@ -76,7 +76,7 @@ In addition to Burg Lüdinghausen, the surrounding area offers several attractio
 
 To make the most of your visit to Burg Lüdinghausen, consider arriving early in the day to avoid larger crowds, especially during peak tourist seasons. This allows for a more peaceful exploration of the castle and its grounds.
 
-For photography enthusiasts, the best time to capture the castle’s features is during the golden hour, just after sunrise or before sunset, when the light casts a warm glow on the stone walls. Be mindful of any restrictions regarding photography inside the castle, and respect the space to ensure a pleasant experience for all visitors.
+For photography enthusiasts, the best time to capture the castle's features is during the golden hour, just after sunrise or before sunset, when the light casts a warm glow on the stone walls. Be mindful of any restrictions regarding photography inside the castle, and respect the space to ensure a pleasant experience for all visitors.
 
 ## Practical Information
 

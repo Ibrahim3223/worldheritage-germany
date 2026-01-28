@@ -28,7 +28,7 @@ image_srcset:
 
 Friedenskirche Westerholt is a serene church building located in the quaint town of Westerholt, Germany. This architectural landmark serves as a focal point for both the local community and visitors seeking to explore the rich cultural and religious heritage of the region. Its significance extends beyond mere functionality as a place of worship; the church stands as a symbol of peace and unity, aptly reflected in its name, which translates to "Church of Peace."
 
-Situated at coordinates 53.5911, 7.45819, the church is easily accessible and invites you to delve into its profound history and spiritual essence. Visitors often find themselves captivated not only by the church's architecture but also by the tranquil atmosphere that surrounds it. Friedenskirche Westerholt is a testament to the enduring nature of faith and community, making it a worthwhile stop on your exploration of Germany’s rich ecclesiastical heritage.
+Situated at coordinates 53.5911, 7.45819, the church is easily accessible and invites you to delve into its profound history and spiritual essence. Visitors often find themselves captivated not only by the church's architecture but also by the tranquil atmosphere that surrounds it. Friedenskirche Westerholt is a testament to the enduring nature of faith and community, making it a worthwhile stop on your exploration of Germany's rich ecclesiastical heritage.
 
 ## History and Significance
 
@@ -94,7 +94,7 @@ Seasonal considerations can also enhance your visit. Each season may bring uniqu
 A visit to Friedenskirche Westerholt typically lasts between 30 minutes to an hour, depending on your interest in the church's architecture and history.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check for signs or inquire with staff regarding any restrictions, particularly during services.
+Photography policies may vary. It's best to check for signs or inquire with staff regarding any restrictions, particularly during services.
 
 ### Are there guided tours?
 Information about guided tours is not specified. Check the official website or inquire locally for any available tour options.

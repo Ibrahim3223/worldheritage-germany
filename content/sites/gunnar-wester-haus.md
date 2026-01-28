@@ -69,7 +69,7 @@ Exploring these attractions can provide a broader understanding of the cultural 
 
 To make the most of your visit to Gunnar-Wester-Haus, consider these insider tips:
 
-- **Photography**: If you’re keen on capturing memories, check if photography is permitted within the museum. Some exhibits may have restrictions, so be respectful of any guidelines.
+- **Photography**: If you're keen on capturing memories, check if photography is permitted within the museum. Some exhibits may have restrictions, so be respectful of any guidelines.
 - **Crowd Avoidance**: To avoid large crowds, consider visiting during weekdays or in the early hours of the day. This might enhance your experience by allowing for more personal engagement with the exhibits.
 
 ## Practical Information
@@ -85,7 +85,7 @@ As you prepare for your visit to Gunnar-Wester-Haus, keep the following practica
 Visitors typically spend 1-2 hours at Gunnar-Wester-Haus to engage with the exhibits and educational offerings fully.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check directly with the museum upon arrival to confirm any restrictions.
+Photography policies can vary, so it's best to check directly with the museum upon arrival to confirm any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details and scheduling.

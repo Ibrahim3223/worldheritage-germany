@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Buckauer Tor is an iconic city gate situated in the historic city of Magdeburg, Germany. This architectural landmark serves as a poignant reminder of the city’s past as a fortified settlement and is a key point of interest for those exploring the region's rich cultural heritage. The gate is a symbol of Magdeburg's historical significance, showcasing the evolution of the city from ancient fortifications to its modern urban landscape. With its strategic location, Buckauer Tor invites visitors to delve into the stories of resilience and transformation that define this vibrant city.
+Buckauer Tor is an iconic city gate situated in the historic city of Magdeburg, Germany. This architectural landmark serves as a poignant reminder of the city's past as a fortified settlement and is a key point of interest for those exploring the region's rich cultural heritage. The gate is a symbol of Magdeburg's historical significance, showcasing the evolution of the city from ancient fortifications to its modern urban landscape. With its strategic location, Buckauer Tor invites visitors to delve into the stories of resilience and transformation that define this vibrant city.
 
 The gate's historical role as a former street gate of the Magdeburg fortress reflects the city's past military importance, providing a glimpse into the defensive structures that once safeguarded its inhabitants. Today, Buckauer Tor stands not just as a relic of a bygone era but also as a focal point for understanding the urban development of Magdeburg. Its proximity to other heritage sites enhances its appeal, making it a must-visit for anyone interested in exploring the historical narrative woven through the architecture of the city.
 

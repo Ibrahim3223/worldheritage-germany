@@ -28,7 +28,7 @@ image_srcset:
 
 The DITIB-Zentralmoschee Köln-Chorweiler represents an important architectural and cultural landmark in North Rhine-Westphalia, Germany. As a prominent mosque, it serves not only as a place of worship for the Muslim community but also as a symbol of the multicultural fabric of modern German society. Its striking architectural design and community engagement render it significant in the context of interfaith dialogue and cultural exchange. Visitors to the mosque can expect an enriching experience that highlights the role of Islam in contemporary Europe.
 
-Located in the northern district of Cologne, Chorweiler, the mosque is easily accessible and stands out as a key feature of the area. The DITIB-Zentralmoschee Köln-Chorweiler invites exploration and understanding, offering insights into Islamic architecture and the local Muslim community's contributions to Cologne's cultural landscape. The mosque’s presence is a reminder of the diverse narratives that coexist within Germany, making it a must-visit for those interested in cultural heritage and religious architecture.
+Located in the northern district of Cologne, Chorweiler, the mosque is easily accessible and stands out as a key feature of the area. The DITIB-Zentralmoschee Köln-Chorweiler invites exploration and understanding, offering insights into Islamic architecture and the local Muslim community's contributions to Cologne's cultural landscape. The mosque's presence is a reminder of the diverse narratives that coexist within Germany, making it a must-visit for those interested in cultural heritage and religious architecture.
 
 ## History and Significance
 

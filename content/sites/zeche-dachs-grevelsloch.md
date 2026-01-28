@@ -56,7 +56,7 @@ While Zeche Dachs & Grevelsloch is a focal point of industrial heritage, there a
 
 2. **Sprockhövel Town Center** - A short distance away, the town center features charming shops and cafes, perfect for a leisurely stroll after visiting the mine.
 
-3. **Ruhr Valley** - Known for its scenic landscapes and historical significance, the Ruhr Valley offers numerous walking and biking paths, as well as opportunities to learn about the region’s industrial past.
+3. **Ruhr Valley** - Known for its scenic landscapes and historical significance, the Ruhr Valley offers numerous walking and biking paths, as well as opportunities to learn about the region's industrial past.
 
 4. **Bergisches Land Nature Park** - Ideal for nature enthusiasts, this nearby park offers lush landscapes and outdoor activities, providing a contrast to the industrial sites.
 

@@ -32,7 +32,7 @@ Visiting the Schumannhaus allows for a deep dive into the world of 19th-century 
 
 ## History and Significance
 
-The Schumannhaus is significant not just as a museum, but as a dwelling that once belonged to the Schumann family. Robert Schumann, born in 1810, was a pivotal figure in the Romantic movement in music. His compositions include symphonies, concertos, and chamber music that have left an indelible mark on the classical repertoire. Clara Schumann, a gifted pianist and composer in her own right, played a crucial role in promoting her husband’s work while also forging her own path in a male-dominated field.
+The Schumannhaus is significant not just as a museum, but as a dwelling that once belonged to the Schumann family. Robert Schumann, born in 1810, was a pivotal figure in the Romantic movement in music. His compositions include symphonies, concertos, and chamber music that have left an indelible mark on the classical repertoire. Clara Schumann, a gifted pianist and composer in her own right, played a crucial role in promoting her husband's work while also forging her own path in a male-dominated field.
 
 The couple's life together was marked by artistic collaboration and personal challenges, including Robert's struggles with mental health. This house serves as a testament to their enduring legacy, showcasing not only their musical achievements but also their profound partnership. The museum aims to preserve and communicate this narrative, shedding light on the broader cultural context of their time.
 

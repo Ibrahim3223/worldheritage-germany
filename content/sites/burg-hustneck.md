@@ -22,9 +22,9 @@ images:
 
 Burg Hustneck, a captivating castle located in Gammertingen, Germany, invites visitors to explore its storied past and architectural beauty. Perched on a hill, the castle offers a unique perspective on the region's historical landscape, serving as a reminder of the area's medieval heritage. This structure stands as a significant cultural landmark, revealing the enduring legacy of the era in which it was constructed. Whether one is a history enthusiast or simply seeking a picturesque destination, Burg Hustneck promises an enriching experience.
 
-The castle’s strategic location emphasizes its historical importance, as it once provided protection and oversight to the surrounding territory. Its presence is a testament to the architectural and military advancements of its time, showcasing the ingenuity and craftsmanship of those who built it. As you approach the site, the castle commands attention, evoking curiosity about the stories that echo through its walls.
+The castle's strategic location emphasizes its historical importance, as it once provided protection and oversight to the surrounding territory. Its presence is a testament to the architectural and military advancements of its time, showcasing the ingenuity and craftsmanship of those who built it. As you approach the site, the castle commands attention, evoking curiosity about the stories that echo through its walls.
 
-Visitors to Burg Hustneck can expect not only to revel in the beauty of the castle itself but also to appreciate the surrounding landscape and the historical context that shaped this remarkable structure. It’s a destination that combines history, culture, and scenic beauty, making it a worthwhile stop for anyone traveling through this part of Germany.
+Visitors to Burg Hustneck can expect not only to revel in the beauty of the castle itself but also to appreciate the surrounding landscape and the historical context that shaped this remarkable structure. It's a destination that combines history, culture, and scenic beauty, making it a worthwhile stop for anyone traveling through this part of Germany.
 
 ## History and Significance
 

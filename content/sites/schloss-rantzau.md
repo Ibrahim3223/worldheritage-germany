@@ -62,7 +62,7 @@ Exploring Schloss Rantzau also opens doors to other historical sites in Lübeck'
 
 2. **Holstentor**: One of Lübeck's most iconic symbols, this medieval city gate showcases the city's fortifications and is located just a few minutes away.
 
-3. **St. Mary's Church (Marienkirche)**: This remarkable church is known for its impressive architecture and historical significance, making it a must-visit for those interested in Lübeck’s ecclesiastical heritage.
+3. **St. Mary's Church (Marienkirche)**: This remarkable church is known for its impressive architecture and historical significance, making it a must-visit for those interested in Lübeck's ecclesiastical heritage.
 
 4. **The Buddenbrook House**: A museum dedicated to the works of the famous authors Thomas and Heinrich Mann, providing insight into the literary history of Lübeck.
 

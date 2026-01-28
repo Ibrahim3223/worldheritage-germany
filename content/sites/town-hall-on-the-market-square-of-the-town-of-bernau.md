@@ -80,7 +80,7 @@ To avoid crowds, consider visiting during weekdays, particularly outside of typi
 
 When visiting the town hall in Bernau, it is advisable to bring a camera and comfortable footwear, as you may wish to explore the surrounding market square and nearby attractions on foot. Seasonal considerations may affect your visit; spring and autumn often present pleasant weather for outdoor activities, while summer may feature local events that enhance the experience.
 
-In colder months, check for any seasonal events or decorations that might add to the charm of your visit. Always remember to check the official website for any specific information regarding the town hall’s operations during your planned visit.
+In colder months, check for any seasonal events or decorations that might add to the charm of your visit. Always remember to check the official website for any specific information regarding the town hall's operations during your planned visit.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ In colder months, check for any seasonal events or decorations that might add to
 A visit to the town hall and its surrounding market square can be comfortably enjoyed in about an hour or two, depending on your interest in exploring nearby attractions.
 
 ### Is photography allowed?
-Yes, photography is typically allowed in public spaces like the market square and the town hall. However, it’s always good practice to be respectful of any posted signs regarding photography.
+Yes, photography is typically allowed in public spaces like the market square and the town hall. However, it's always good practice to be respectful of any posted signs regarding photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and whether they are available during your visit.
@@ -97,7 +97,7 @@ Check the official website for information on guided tours and whether they are 
 Weekdays are often quieter, making them a good choice for avoiding crowds. However, local events or festivals on weekends can also provide a unique experience.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s best to check the official website for details regarding wheelchair access at the town hall.
+Accessibility information can vary, so it's best to check the official website for details regarding wheelchair access at the town hall.
 
 ### Can I buy tickets online?
 For any entry fees or guided tours, check the official website for options regarding online ticket purchases.

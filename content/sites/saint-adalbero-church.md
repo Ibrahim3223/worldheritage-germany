@@ -36,7 +36,7 @@ Saint Adalbero Church is an important religious institution in the Sanderau dist
 
 The church not only serves as a place for worship but also plays a vital role in the cultural fabric of Würzburg. It hosts various community events, religious ceremonies, and gatherings that foster a sense of belonging among residents. As such, Saint Adalbero Church is intertwined with the local traditions and rituals that characterize the spiritual life of the area.
 
-The church’s presence in Würzburg highlights the city’s historical importance as a center of religious and cultural activity. Würzburg itself has been shaped by its ecclesiastical heritage, and institutions like Saint Adalbero Church contribute to the continuity of this legacy. Visitors to the church can appreciate its role in the ongoing story of the city and its residents.
+The church's presence in Würzburg highlights the city's historical importance as a center of religious and cultural activity. Würzburg itself has been shaped by its ecclesiastical heritage, and institutions like Saint Adalbero Church contribute to the continuity of this legacy. Visitors to the church can appreciate its role in the ongoing story of the city and its residents.
 
 ## Architecture and Features
 

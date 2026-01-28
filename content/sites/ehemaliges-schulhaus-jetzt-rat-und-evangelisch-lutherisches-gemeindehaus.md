@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Ehemaliges Schulhaus, now serving as the Rat- und evangelisch-lutherisches Gemeindehaus, is a notable landmark located in the charming town of Ohrenbach, Middle Franconia, Germany. This former schoolhouse has transitioned into a city hall and community center, reflecting both the historical evolution of public spaces and the contemporary cultural needs of the community. Positioned in a region rich in heritage and tradition, this site not only serves administrative functions but also stands as a focal point for local activities and gatherings. Visitors to Ohrenbach will find that the Gemeindehaus encapsulates the essence of the town’s communal spirit, making it an essential stop for those interested in the local culture and history.
+The Ehemaliges Schulhaus, now serving as the Rat- und evangelisch-lutherisches Gemeindehaus, is a notable landmark located in the charming town of Ohrenbach, Middle Franconia, Germany. This former schoolhouse has transitioned into a city hall and community center, reflecting both the historical evolution of public spaces and the contemporary cultural needs of the community. Positioned in a region rich in heritage and tradition, this site not only serves administrative functions but also stands as a focal point for local activities and gatherings. Visitors to Ohrenbach will find that the Gemeindehaus encapsulates the essence of the town's communal spirit, making it an essential stop for those interested in the local culture and history.
 
-As you explore this quaint town, the building's significance becomes evident. It is not merely a functional space but a symbol of the town’s dedication to preserving its educational roots while adapting to modern community needs. The architectural features and historical context provide insights into the evolution of public buildings in Germany, making the Ehemaliges Schulhaus a compelling destination for heritage enthusiasts.
+As you explore this quaint town, the building's significance becomes evident. It is not merely a functional space but a symbol of the town's dedication to preserving its educational roots while adapting to modern community needs. The architectural features and historical context provide insights into the evolution of public buildings in Germany, making the Ehemaliges Schulhaus a compelling destination for heritage enthusiasts.
 
 ## History and Significance
 
@@ -68,7 +68,7 @@ To avoid crowds, plan your visit during weekdays or non-peak hours. Local events
 
 ## Practical Information
 
-When visiting the Ehemaliges Schulhaus, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture your experience. Depending on the season, check the weather forecast as this may influence your visit. 
+When visiting the Ehemaliges Schulhaus, it's advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture your experience. Depending on the season, check the weather forecast as this may influence your visit. 
 
 In the colder months, appropriate clothing is recommended, while warmer months may offer opportunities for outdoor activities in the vicinity. Being prepared for varying weather conditions will enhance your overall experience during your visit.
 

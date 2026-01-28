@@ -102,7 +102,7 @@ For information on accessibility features, check the official website or contact
 Information regarding ticket purchases can typically be found on the museum's official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and dining options may be available, but it’s advisable to check the official website for details.
+Facilities such as restrooms and dining options may be available, but it's advisable to check the official website for details.
 
 ### What should I wear?
 Dress comfortably, suitable for walking and exploring, and consider seasonal weather when choosing your attire.

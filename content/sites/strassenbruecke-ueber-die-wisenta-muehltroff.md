@@ -55,7 +55,7 @@ While visiting the Straßenbrücke über die Wisenta Mühltroff, consider explor
 1. **Pausa-Mühltroff Town Center**: A charming area where visitors can experience local culture, shops, and eateries.
 2. **Wisenta River Trail**: A scenic pathway adjacent to the river, perfect for walking, cycling, or simply enjoying nature.
 3. **Local Parks**: Explore nearby parks that may offer recreational activities, picnic areas, and beautiful landscapes.
-4. **Historical Sites**: Investigate local historical landmarks that provide context about the region’s past.
+4. **Historical Sites**: Investigate local historical landmarks that provide context about the region's past.
 
 These attractions provide opportunities to enrich your travel experience by immersing yourself in the local community and its heritage.
 

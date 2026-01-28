@@ -63,7 +63,7 @@ Visitors to Jörgenberg Castle will find several attractions in the vicinity tha
 3. **Scenic Hiking Trails** - The surrounding landscape offers trails where visitors can enjoy the natural beauty of the area, perfect for those looking to combine history with outdoor activities.
 4. **Other Historical Sites** - The region may host additional castles and historical landmarks, each with its own unique story to tell.
 
-These attractions complement a visit to Jörgenberg Castle and provide opportunities for further exploration of the area’s rich heritage.
+These attractions complement a visit to Jörgenberg Castle and provide opportunities for further exploration of the area's rich heritage.
 
 ## Insider Tips
 
@@ -102,7 +102,7 @@ Accessibility options may vary. Check the official website for detailed informat
 It's best to check the official website for ticketing options, including any online purchasing possibilities.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for specific amenities.
+Facilities may be available on-site, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, especially if you plan to explore the grounds thoroughly.

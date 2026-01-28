@@ -48,7 +48,7 @@ As you approach the Heimkehrerdenkmal, you will likely notice how its presence c
 
 ## Visiting Information
 
-Visiting the Heimkehrerdenkmal offers a meaningful opportunity to engage with an important part of Germany's post-war history. To reach the monument, Friedland is accessible by various modes of transportation, including regional trains and local buses. The town’s compact size makes it easy to navigate on foot, allowing visitors to explore the surrounding area at their leisure.
+Visiting the Heimkehrerdenkmal offers a meaningful opportunity to engage with an important part of Germany's post-war history. To reach the monument, Friedland is accessible by various modes of transportation, including regional trains and local buses. The town's compact size makes it easy to navigate on foot, allowing visitors to explore the surrounding area at their leisure.
 
 Check the official website for current information regarding visiting hours and any associated costs. It is advisable to plan your visit during daylight hours to fully appreciate the monument and its surrounding landscape. 
 

@@ -74,7 +74,7 @@ While the Gustav Adolf Stave Church is a highlight in its own right, visitors ca
 
 When visiting the Gustav Adolf Stave Church, there are a few insider tips that can enhance your experience:
 
-- **Photography**: While photography is often allowed, it’s respectful to check for any restrictions, especially during services or events. Early morning or late afternoon light can create a beautiful ambiance for photography.
+- **Photography**: While photography is often allowed, it's respectful to check for any restrictions, especially during services or events. Early morning or late afternoon light can create a beautiful ambiance for photography.
 
 - **Crowd Avoidance**: To avoid larger crowds, try visiting during weekday mornings. This will provide a more intimate experience and allow for quiet reflection.
 

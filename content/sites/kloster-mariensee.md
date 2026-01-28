@@ -48,7 +48,7 @@ The architectural design of Kloster Mariensee reflects the functional needs of a
 
 Notable features of Kloster Mariensee include communal areas designed for gatherings, worship, and educational activities. These spaces are essential for fostering a sense of community among residents and visitors alike. The layout of the convent likely encourages interaction while also providing areas for individual reflection and prayer, which are integral to convent life.
 
-Visitors can expect to see elements that highlight the convent’s historical significance, including artifacts and exhibits that showcase the lives of the women who lived and worked there. These displays not only inform about the day-to-day experiences of the convent’s residents but also emphasize the spiritual and educational missions that have been central to its existence.
+Visitors can expect to see elements that highlight the convent's historical significance, including artifacts and exhibits that showcase the lives of the women who lived and worked there. These displays not only inform about the day-to-day experiences of the convent's residents but also emphasize the spiritual and educational missions that have been central to its existence.
 
 The tranquil setting of Kloster Mariensee, combined with its architectural features, creates a peaceful environment that invites contemplation. As a museum, it aims to preserve the legacy of the convent and share its stories with a broader audience.
 

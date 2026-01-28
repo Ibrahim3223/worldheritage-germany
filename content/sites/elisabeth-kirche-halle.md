@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Elisabeth-Kirche, located in Halle (Saale), Germany, serves as a remarkable example of ecclesiastical architecture and a significant cultural landmark. As a church building, it embodies the spiritual heritage of the region, attracting visitors seeking to understand its historical and architectural value. The church is situated in a vibrant urban area, making it easily accessible for both locals and travelers. Its presence in Halle not only enriches the city’s architectural landscape but also contributes to its cultural narrative, resonating with those interested in religious history and architectural design.
+Elisabeth-Kirche, located in Halle (Saale), Germany, serves as a remarkable example of ecclesiastical architecture and a significant cultural landmark. As a church building, it embodies the spiritual heritage of the region, attracting visitors seeking to understand its historical and architectural value. The church is situated in a vibrant urban area, making it easily accessible for both locals and travelers. Its presence in Halle not only enriches the city's architectural landscape but also contributes to its cultural narrative, resonating with those interested in religious history and architectural design.
 
 Visitors to Elisabeth-Kirche can expect a serene environment that encourages reflection and exploration. The church stands as a focal point for community gatherings and religious ceremonies, playing a vital role in the lives of many. A visit offers a chance to engage with the rich traditions of the church while appreciating the artistry of its structure. Whether you are an architecture enthusiast, a history buff, or simply curious about local culture, Elisabeth-Kirche promises a unique experience that embodies the spirit of Halle.
 
@@ -63,7 +63,7 @@ While visiting Elisabeth-Kirche, you may want to explore other notable attractio
 1. **Marktkirche**: A prominent church located nearby, known for its striking architecture and historical significance.
 2. **Halle State Museum of Prehistory**: This museum showcases artifacts from various historical periods, providing insight into the region's past.
 3. **Botanischer Garten**: The botanical garden offers a peaceful retreat and a chance to admire diverse plant species and landscaped gardens.
-4. **Moritzburg**: A picturesque castle nearby, offering visitors a glimpse into the region’s noble history and architecture.
+4. **Moritzburg**: A picturesque castle nearby, offering visitors a glimpse into the region's noble history and architecture.
 5. **Franckesche Stiftungen**: A complex of historical buildings that host exhibitions and events, showcasing Halle's educational heritage.
 
 These attractions complement a visit to Elisabeth-Kirche, providing a fuller understanding of the cultural landscape of Halle.

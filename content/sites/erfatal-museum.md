@@ -66,7 +66,7 @@ While the Erfatal Museum itself is a captivating destination, there are several 
 
 1. **The Town Center**: A short walk from the museum, Hardheim's town center offers quaint shops and cafes where visitors can relax and soak in the local atmosphere.
 
-2. **St. Joseph’s Church**: This historic church is known for its beautiful architecture and serene ambiance, making it a lovely spot for a peaceful moment after your museum visit.
+2. **St. Joseph's Church**: This historic church is known for its beautiful architecture and serene ambiance, making it a lovely spot for a peaceful moment after your museum visit.
 
 3. **Hardheim Castle**: Although specifics about the castle are not provided, it is a known point of interest in the region, offering scenic views and a glimpse into the area's historical architecture.
 
@@ -82,7 +82,7 @@ To make the most of your visit to the Erfatal Museum, consider these insider tip
 
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekday mornings when foot traffic is typically lower. This will allow for a more intimate experience as you explore the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits or any upcoming events. Their insights can enrich your understanding of the museum's collections.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits or any upcoming events. Their insights can enrich your understanding of the museum's collections.
 
 ## Practical Information
 

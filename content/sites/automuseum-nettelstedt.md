@@ -42,7 +42,7 @@ The architecture of Automuseum Nettelstedt is designed to complement its automot
 
 Inside, visitors can expect to find well-curated exhibitions that not only showcase the vehicles but also tell the stories behind them. This may include information about the manufacturers, design innovations, and the cultural context in which these vehicles were produced. Interactive displays are often incorporated to engage younger audiences and provide an immersive educational experience.
 
-Noteworthy features may include themed exhibits that focus on specific automotive eras, unique design philosophies, or influential manufacturers. The museum’s layout is likely designed to guide visitors through a chronological or thematic exploration of automotive history, allowing for a comprehensive understanding of the vehicles' significance.
+Noteworthy features may include themed exhibits that focus on specific automotive eras, unique design philosophies, or influential manufacturers. The museum's layout is likely designed to guide visitors through a chronological or thematic exploration of automotive history, allowing for a comprehensive understanding of the vehicles' significance.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While exploring the area around Automuseum Nettelstedt, visitors may find severa
 
 4. **Local Cafes and Restaurants**: Sampling local cuisine at nearby eateries can enhance the cultural experience, offering a taste of regional flavors.
 
-5. **Other Museums**: If time permits, visiting additional museums in the area may provide further context on Germany’s industrial and cultural history.
+5. **Other Museums**: If time permits, visiting additional museums in the area may provide further context on Germany's industrial and cultural history.
 
 ## Insider Tips
 

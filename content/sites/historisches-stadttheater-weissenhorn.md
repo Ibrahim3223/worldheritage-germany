@@ -32,7 +32,7 @@ As you approach the theatre, you are greeted by its classic facade, which hints 
 
 ## History and Significance
 
-The history of the Historisches Stadttheater Weißenhorn is intertwined with the evolution of the town itself. While specific dates of its establishment are not provided, the theatre has played a pivotal role in the cultural life of Weißenhorn, showcasing both local talent and renowned productions over the years. The theatre’s existence reflects the town's commitment to fostering the arts and providing a platform for artistic expression.
+The history of the Historisches Stadttheater Weißenhorn is intertwined with the evolution of the town itself. While specific dates of its establishment are not provided, the theatre has played a pivotal role in the cultural life of Weißenhorn, showcasing both local talent and renowned productions over the years. The theatre's existence reflects the town's commitment to fostering the arts and providing a platform for artistic expression.
 
 As a community hub, the theatre has hosted a variety of performances ranging from traditional plays to contemporary works, contributing to the vibrant cultural scene of the area. The significance of the Historisches Stadttheater goes beyond mere entertainment; it serves as a gathering place for people to connect, share experiences, and appreciate the performing arts. The theatre has also been a site for cultural events and festivals, celebrating not only local talent but also bringing in artists and performers from outside the region.
 
@@ -80,7 +80,7 @@ For those planning to visit the Historisches Stadttheater Weißenhorn, here are 
 
 When visiting the Historisches Stadttheater Weißenhorn, there are a few practical considerations to keep in mind:
 
-- **What to Bring**: It’s a good idea to bring a light jacket or sweater, as theatres can sometimes be cooler than expected. Additionally, having a small bag for personal items is recommended.
+- **What to Bring**: It's a good idea to bring a light jacket or sweater, as theatres can sometimes be cooler than expected. Additionally, having a small bag for personal items is recommended.
 
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast before your visit to ensure you are dressed appropriately for outdoor activities before or after your theatre experience.
 
@@ -104,7 +104,7 @@ The best time to visit is during scheduled performances, which offer a vibrant e
 For detailed accessibility information, please check the official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary; it’s advisable to visit the official website for the latest details.
+Ticket purchasing options may vary; it's advisable to visit the official website for the latest details.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and possibly cafés may be available; check the official website for specifics.

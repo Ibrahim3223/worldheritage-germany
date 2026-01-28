@@ -107,7 +107,7 @@ Accessibility features may vary; check the official website for detailed informa
 Check the official website for the latest information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Visitor amenities may be available, but it’s best to confirm current facilities on the official website.
+Visitor amenities may be available, but it's best to confirm current facilities on the official website.
 
 ### What should I wear?
 Dress modestly and comfortably, especially if you plan to visit the church areas, where respectful attire is appreciated. 

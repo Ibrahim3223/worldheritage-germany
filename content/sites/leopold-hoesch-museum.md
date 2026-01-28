@@ -58,9 +58,9 @@ The best times to visit are likely during weekdays or early mornings when crowds
 
 The Leopold-Hoesch-Museum is situated amidst several attractions that enhance the cultural experience of your visit to Düren:
 
-1. **Düren Castle** - A historical site that offers insight into the region’s past and features beautiful architecture worth exploring.
+1. **Düren Castle** - A historical site that offers insight into the region's past and features beautiful architecture worth exploring.
 2. **Bismarck Tower** - An observation tower providing panoramic views of the surrounding area, ideal for those looking to enjoy a bit of nature and scenery.
-3. **St. Anne’s Church** - A stunning example of Gothic architecture, this church is a short distance from the museum and adds to the cultural landscape of Düren.
+3. **St. Anne's Church** - A stunning example of Gothic architecture, this church is a short distance from the museum and adds to the cultural landscape of Düren.
 4. **Düren City Park** - A lovely green space perfect for a leisurely stroll or a picnic, providing a serene contrast to the museum experience.
 5. **Local Art Galleries** - Explore smaller galleries in the vicinity that often feature works by local artists, enriching your understanding of the regional art scene.
 
@@ -91,7 +91,7 @@ Guided tours may be available, providing an enriched experience through expert i
 Weekdays or early mornings are often quieter, allowing for a more serene experience.
 
 ### Is it wheelchair accessible?
-Accessibility features are likely available, but it’s advisable to confirm through the official website or contact the museum directly.
+Accessibility features are likely available, but it's advisable to confirm through the official website or contact the museum directly.
 
 ### Can I buy tickets online?
 Check the official website for the availability of online ticket purchases and any potential discounts.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Berlin Warschauer Straße station represents a significant junction in the heart of the Friedrichshain-Kreuzberg district, serving as a key access point for both locals and travelers exploring the vibrant cultural landscape of Berlin. This S-Bahn station is more than just a transit hub; it embodies the architectural evolution and urban development of the area. Its strategic location makes it an essential stop for those venturing into the eclectic neighborhoods surrounding the station, offering a glimpse into the city’s dynamic blend of history and modernity. As you navigate through the station, you can appreciate the intricate design and functionality that have contributed to its status as an architectural ensemble in Berlin.
+Berlin Warschauer Straße station represents a significant junction in the heart of the Friedrichshain-Kreuzberg district, serving as a key access point for both locals and travelers exploring the vibrant cultural landscape of Berlin. This S-Bahn station is more than just a transit hub; it embodies the architectural evolution and urban development of the area. Its strategic location makes it an essential stop for those venturing into the eclectic neighborhoods surrounding the station, offering a glimpse into the city's dynamic blend of history and modernity. As you navigate through the station, you can appreciate the intricate design and functionality that have contributed to its status as an architectural ensemble in Berlin.
 
 ## History and Significance
 

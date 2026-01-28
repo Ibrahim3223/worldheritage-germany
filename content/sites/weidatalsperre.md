@@ -87,7 +87,7 @@ A visit to Weidatalsperre can typically take a few hours. This allows time for e
 Yes, photography is generally allowed at Weidatalsperre. Visitors are encouraged to capture the beauty of the dam and its surroundings.
 
 ### Are there guided tours?
-Information regarding guided tours is not specified, so it’s best to check the official website or inquire locally for any available options.
+Information regarding guided tours is not specified, so it's best to check the official website or inquire locally for any available options.
 
 ### What's the best time to visit?
 The best times to visit are usually during spring and summer when the weather is pleasant. Early mornings and late afternoons can also provide a quieter experience.

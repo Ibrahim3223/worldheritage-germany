@@ -42,7 +42,7 @@ St. Severin showcases a blend of architectural styles that reflect the evolution
 
 The layout of St. Severin typically includes a nave, aisles, and an altar, which are characteristic of traditional church architecture. Visitors can expect to find a serene interior that encourages contemplation and reflection. The use of natural light, often through stained glass, adds to the church's tranquil ambiance, creating a setting conducive to both worship and tourism.
 
-As the church has likely undergone renovations and restorations over the years, it may exhibit a combination of historical and contemporary design elements. This fusion can offer insights into the changing artistic preferences of different eras while maintaining the core essence of the church’s original structure.
+As the church has likely undergone renovations and restorations over the years, it may exhibit a combination of historical and contemporary design elements. This fusion can offer insights into the changing artistic preferences of different eras while maintaining the core essence of the church's original structure.
 
 ## Visiting Information
 
@@ -50,7 +50,7 @@ To reach St. Severin in Meschede, visitors can utilize various modes of transpor
 
 When planning a visit, anticipate spending at least an hour to fully appreciate the architecture, soak in the atmosphere, and perhaps partake in any available services or activities. The best times to visit may vary, but weekdays often provide a quieter experience compared to weekends, allowing for a more personal exploration of the church.
 
-As a place of worship, visitors should be respectful of the church’s sanctity. Expect to find an environment that encourages reflection, with potential opportunities to engage with local parishioners or clergy who may offer insights into the church’s history and significance.
+As a place of worship, visitors should be respectful of the church's sanctity. Expect to find an environment that encourages reflection, with potential opportunities to engage with local parishioners or clergy who may offer insights into the church's history and significance.
 
 ## Nearby Attractions
 
@@ -68,7 +68,7 @@ While visiting St. Severin, consider exploring some of the nearby attractions th
 
 ## Insider Tips
 
-When visiting St. Severin, consider bringing a camera to capture the intricate details of the church’s architecture. However, be mindful of any photography restrictions that may be in place, particularly during services. To avoid larger crowds, aim to visit during the early morning or late afternoon on weekdays. This will enhance your experience, allowing for a more peaceful exploration of the church and its surroundings.
+When visiting St. Severin, consider bringing a camera to capture the intricate details of the church's architecture. However, be mindful of any photography restrictions that may be in place, particularly during services. To avoid larger crowds, aim to visit during the early morning or late afternoon on weekdays. This will enhance your experience, allowing for a more peaceful exploration of the church and its surroundings.
 
 ## Practical Information
 

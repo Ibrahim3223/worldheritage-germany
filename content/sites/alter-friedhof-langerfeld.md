@@ -28,7 +28,7 @@ image_srcset:
 
 Alter Friedhof Langerfeld, located in Wuppertal, Germany, is a cemetery that offers visitors a unique glimpse into the cultural and historical narratives of the region. Founded in the 19th century, this cemetery is more than just a final resting place; it is an emblem of local heritage that captures the stories of individuals who have contributed to the community. The cemetery's serene environment, combined with its historical significance, makes it a poignant destination for those interested in exploring Germany's past. 
 
-Positioned in Wuppertal, a city known for its innovative transportation system and lush green surroundings, Alter Friedhof Langerfeld is easily accessible and invites reflection and remembrance. As you wander through its paths, you may find inspiration in the artistry of the gravestones and the stories they tell, providing a deeper understanding of the region’s cultural fabric. 
+Positioned in Wuppertal, a city known for its innovative transportation system and lush green surroundings, Alter Friedhof Langerfeld is easily accessible and invites reflection and remembrance. As you wander through its paths, you may find inspiration in the artistry of the gravestones and the stories they tell, providing a deeper understanding of the region's cultural fabric. 
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Alter Friedhof Langerfeld is woven into the broader narrative of 
 
 While specific dates of establishment may not be readily available, it is evident that the cemetery has served as a vital space for the community, honoring the lives of individuals from various backgrounds and professions. The gravestones, many of which display intricate designs and inscriptions, are markers of remembrance that document the lives of those interred here, including notable figures who played critical roles in the region's development.
 
-Alter Friedhof Langerfeld is not just a cemetery; it is a place of heritage that underscores the importance of remembrance and respect for those who have passed. The cemetery’s layout and the artistry of its monuments reflect the values and beliefs of the society that created it, making it a significant cultural landmark in Wuppertal.
+Alter Friedhof Langerfeld is not just a cemetery; it is a place of heritage that underscores the importance of remembrance and respect for those who have passed. The cemetery's layout and the artistry of its monuments reflect the values and beliefs of the society that created it, making it a significant cultural landmark in Wuppertal.
 
 ## Architecture and Features
 

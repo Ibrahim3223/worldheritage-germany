@@ -28,7 +28,7 @@ image_srcset:
 
 The Beaches of Borkum invite visitors to experience the serene beauty of the North Sea. Located on the largest of the East Frisian Islands, Borkum offers expansive sandy shores that stretch along the coastline, providing a perfect setting for relaxation and recreation. The island itself is renowned for its natural landscapes, making it an ideal destination for those seeking a blend of coastal charm and outdoor activities. 
 
-With its unique geographic position, Borkum serves as a gateway to the North Sea’s rich marine environment, where the tidal rhythms create dynamic ecosystems. The beaches are not just a place for sunbathing; they hold historical and cultural significance for the island’s inhabitants and visitors alike. Whether you are drawn by the allure of the sea, the promise of fresh air, or the chance to explore local wildlife, the Beaches of Borkum offer an experience that is both refreshing and culturally enriching.
+With its unique geographic position, Borkum serves as a gateway to the North Sea's rich marine environment, where the tidal rhythms create dynamic ecosystems. The beaches are not just a place for sunbathing; they hold historical and cultural significance for the island's inhabitants and visitors alike. Whether you are drawn by the allure of the sea, the promise of fresh air, or the chance to explore local wildlife, the Beaches of Borkum offer an experience that is both refreshing and culturally enriching.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Beaches of Borkum, consider the following p
 
 - **What to Bring**: Essentials include sunscreen, hats, beach towels, and reusable water bottles. If you plan on spending the day, consider bringing snacks or a picnic lunch.
 
-- **Seasonal Considerations**: The weather can be unpredictable, so layering your clothing is advisable. Even in summer, it’s wise to pack a light jacket or sweater for cooler evenings.
+- **Seasonal Considerations**: The weather can be unpredictable, so layering your clothing is advisable. Even in summer, it's wise to pack a light jacket or sweater for cooler evenings.
 
 - **Beach Essentials**: Renting a beach hut can provide shelter and a private area for your group, making it easier to enjoy a full day at the beach. 
 

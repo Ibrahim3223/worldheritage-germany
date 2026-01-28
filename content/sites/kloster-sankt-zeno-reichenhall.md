@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kloster Sankt Zeno Reichenhall is a serene monastery located in Bad Reichenhall, Germany. This site is a captivating fusion of spirituality and historical significance, making it a compelling destination for heritage travelers. The monastery, which serves as a church, invites visitors to explore its architectural beauty and appreciate its role in the region’s religious and cultural landscape. Set against the backdrop of Bad Reichenhall, known for its picturesque alpine scenery, Kloster Sankt Zeno offers a tranquil escape from the hustle and bustle of modern life. Visitors can immerse themselves in an environment that emphasizes reflection and historical appreciation, providing a unique opportunity to connect with the spiritual heritage of the area.
+Kloster Sankt Zeno Reichenhall is a serene monastery located in Bad Reichenhall, Germany. This site is a captivating fusion of spirituality and historical significance, making it a compelling destination for heritage travelers. The monastery, which serves as a church, invites visitors to explore its architectural beauty and appreciate its role in the region's religious and cultural landscape. Set against the backdrop of Bad Reichenhall, known for its picturesque alpine scenery, Kloster Sankt Zeno offers a tranquil escape from the hustle and bustle of modern life. Visitors can immerse themselves in an environment that emphasizes reflection and historical appreciation, providing a unique opportunity to connect with the spiritual heritage of the area.
 
 ## History and Significance
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Concrete Time Track in Dresden, Germany, invites visitors to explore a unique piece of heritage that reflects the evolution of timekeeping and the historical significance of clocks. This former open-air museum serves as a testament to the innovative spirit of the region, offering an intriguing glimpse into the mechanisms that have shaped our understanding of time. Located in the vibrant city of Dresden, the museum is easily accessible and presents an opportunity for both locals and travelers to deepen their appreciation of horology and its cultural implications.
 
-Dresden is known for its rich artistic and architectural heritage, making the Concrete Time Track a fitting addition to the city’s roster of cultural attractions. Situated at coordinates 51.0533, 13.7689, the museum finds itself amidst a backdrop of historical landmarks and modern conveniences, enhancing its appeal to a diverse audience. As visitors wander through the displays and exhibits, they will uncover the intricate relationship between time, technology, and society, making this a worthwhile stop for history enthusiasts and curious minds alike.
+Dresden is known for its rich artistic and architectural heritage, making the Concrete Time Track a fitting addition to the city's roster of cultural attractions. Situated at coordinates 51.0533, 13.7689, the museum finds itself amidst a backdrop of historical landmarks and modern conveniences, enhancing its appeal to a diverse audience. As visitors wander through the displays and exhibits, they will uncover the intricate relationship between time, technology, and society, making this a worthwhile stop for history enthusiasts and curious minds alike.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ The best times to visit are typically during the spring and fall when the weathe
 
 When visiting the Concrete Time Track, consider exploring these nearby attractions to enrich your experience in Dresden:
 
-1. **Dresden Castle**: This historical site offers a wealth of art and artifacts, providing insight into the city’s royal past.
+1. **Dresden Castle**: This historical site offers a wealth of art and artifacts, providing insight into the city's royal past.
 2. **Zwinger Palace**: A stunning example of Baroque architecture, this palace hosts a variety of museums and beautiful gardens.
 3. **Frauenkirche**: This iconic church, rebuilt after World War II, is a symbol of reconciliation and offers stunning views from its dome.
 4. **Semper Opera House**: Known for its remarkable architecture and world-class performances, this opera house is a cultural highlight in Dresden.
@@ -68,7 +68,7 @@ When visiting the Concrete Time Track, consider exploring these nearby attractio
 
 For photography enthusiasts, the Concrete Time Track presents a variety of interesting subjects, from intricate clock designs to the museum's layout. Early morning or late afternoon light can enhance your photos, particularly if the weather is clear. 
 
-To avoid crowds, consider visiting during weekdays or during special exhibits’ off-peak hours. Engaging with the museum staff can also enrich your experience, as they may share insights or little-known facts about the exhibits.
+To avoid crowds, consider visiting during weekdays or during special exhibits' off-peak hours. Engaging with the museum staff can also enrich your experience, as they may share insights or little-known facts about the exhibits.
 
 ## Practical Information
 

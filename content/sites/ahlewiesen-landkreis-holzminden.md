@@ -93,7 +93,7 @@ Currently, information about guided tours is not specified. Check the official w
 The best times to visit are typically spring and early summer when the flora is vibrant and wildlife activity is at its peak.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility features is not provided; it’s advisable to check the official website for details.
+Information regarding accessibility features is not provided; it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Details about online ticket purchasing are not specified. Please verify on the official website for current entry requirements.

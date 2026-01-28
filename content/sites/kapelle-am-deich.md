@@ -28,7 +28,7 @@ image_srcset:
 
 Kapelle am Deich is a church building located in the quaint village of Lemwerder, Germany. This site offers visitors a glimpse into the architectural and spiritual heritage of the region. Though it may not be a prominent tourist destination, its significance lies in its role as a community hub and a point of interest for those exploring the cultural landscape of Lower Saxony. As you approach the church, you will find yourself enveloped by the serene atmosphere that characterizes this charming locale, making it an ideal stop for those interested in ecclesiastical architecture and local history.
 
-Lemwerder itself is situated along the banks of the Weser River, providing a picturesque backdrop that enriches the experience of visiting Kapelle am Deich. This church stands as a reflection of the community’s values and traditions, offering insights into the religious life of its inhabitants. The simplicity of the structure allows visitors to connect with its historical context and appreciate the role it has played throughout the years.
+Lemwerder itself is situated along the banks of the Weser River, providing a picturesque backdrop that enriches the experience of visiting Kapelle am Deich. This church stands as a reflection of the community's values and traditions, offering insights into the religious life of its inhabitants. The simplicity of the structure allows visitors to connect with its historical context and appreciate the role it has played throughout the years.
 
 Whether you are a history enthusiast, an architecture lover, or simply looking for a peaceful spot to reflect, Kapelle am Deich promises to be a rewarding stop in your travels through this part of Germany.
 

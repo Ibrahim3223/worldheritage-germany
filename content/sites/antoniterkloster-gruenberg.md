@@ -84,7 +84,7 @@ When preparing for your visit to the Antoniterkloster Grünberg, it's advisable 
 
 Depending on the season, weather considerations may impact your visit. Be sure to check the forecast and dress appropriately for the conditions, whether that means layering for cooler months or bringing sun protection during warmer seasons.
 
-For those traveling with children or needing specific facilities, it’s also a good idea to check the official website for any available amenities and accessibility options.
+For those traveling with children or needing specific facilities, it's also a good idea to check the official website for any available amenities and accessibility options.
 
 ## Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Accessibility information should be confirmed on the official website to ensure 
 Check the official website for information regarding online ticket purchases and availability.
 
 ### Are there restrooms and cafes?
-Facilities may be available; it’s best to consult the official website for current amenities.
+Facilities may be available; it's best to consult the official website for current amenities.
 
 ### What should I wear?
 Comfortable attire and shoes are recommended, suitable for walking and exploring the site.

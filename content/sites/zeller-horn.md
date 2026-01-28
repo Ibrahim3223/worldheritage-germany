@@ -86,7 +86,7 @@ When planning your visit to Zeller Horn, here are some practical considerations:
 
 - **Seasonal Considerations**: Spring and autumn are generally the best times to visit due to pleasant temperatures and beautiful scenery. Summer can be warm, and winter may bring snow and icy conditions, so prepare accordingly.
 
-- **Safety Precautions**: Always inform someone of your hiking plans, especially if you’re venturing out alone. Familiarize yourself with the trails and keep an eye on the weather forecast.
+- **Safety Precautions**: Always inform someone of your hiking plans, especially if you're venturing out alone. Familiarize yourself with the trails and keep an eye on the weather forecast.
 
 ## Frequently Asked Questions
 

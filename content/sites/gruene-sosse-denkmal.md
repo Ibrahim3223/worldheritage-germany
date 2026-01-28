@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Frankfurt am Main, the Grüne-Soße-Denkmal stands as a monument that honors a beloved culinary tradition of the region. This striking structure is not just a tribute to the famous green sauce, or "Grüne Soße," but also serves as a reminder of the cultural identity of Frankfurt and its people. The monument invites visitors to explore the historical and cultural roots of one of the city’s most cherished dishes, renowned for its unique blend of seven herbs and often served with meat, fish, or potatoes. 
+In the heart of Frankfurt am Main, the Grüne-Soße-Denkmal stands as a monument that honors a beloved culinary tradition of the region. This striking structure is not just a tribute to the famous green sauce, or "Grüne Soße," but also serves as a reminder of the cultural identity of Frankfurt and its people. The monument invites visitors to explore the historical and cultural roots of one of the city's most cherished dishes, renowned for its unique blend of seven herbs and often served with meat, fish, or potatoes. 
 
-Situated at the coordinates 50.1009, 8.71802, the monument is easily accessible, making it a convenient stop for both locals and tourists. While the Grüne-Soße-Denkmal may not be the largest or most famous monument in Germany, its significance lies in its ability to connect visitors with the culinary heritage of the region, reflecting the spirit of Frankfurt’s vibrant food culture. This guide will delve into the history, architecture, and visitor experience offered by this unique monument.
+Situated at the coordinates 50.1009, 8.71802, the monument is easily accessible, making it a convenient stop for both locals and tourists. While the Grüne-Soße-Denkmal may not be the largest or most famous monument in Germany, its significance lies in its ability to connect visitors with the culinary heritage of the region, reflecting the spirit of Frankfurt's vibrant food culture. This guide will delve into the history, architecture, and visitor experience offered by this unique monument.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The Grüne-Soße-Denkmal is characterized by its straightforward yet impactful d
 
 Visitors will find that the monument's design encourages engagement. Its placement in a public area allows for easy access, inviting passersby to stop, reflect, and perhaps even share their own experiences with the green sauce. The surrounding environment typically features elements that enhance the monument's visibility and significance, making it a focal point for discussions about local cuisine.
 
-In addition to its physical presence, the Grüne-Soße-Denkmal serves as a canvas for community events and celebrations related to Frankfurt’s culinary traditions. The monument not only represents a dish but also acts as a social space where locals and visitors can come together to celebrate the flavors of the region.
+In addition to its physical presence, the Grüne-Soße-Denkmal serves as a canvas for community events and celebrations related to Frankfurt's culinary traditions. The monument not only represents a dish but also acts as a social space where locals and visitors can come together to celebrate the flavors of the region.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While visiting the Grüne-Soße-Denkmal, consider exploring some of the nearby a
 
 1. **Römer**: This iconic medieval building serves as the city hall of Frankfurt and is a prime example of the city's historical architecture. It's a short walk from the monument and offers insight into Frankfurt's past.
 
-2. **St. Bartholomew’s Cathedral**: An impressive Gothic structure, this cathedral is known for its stunning architecture and is an essential stop for anyone interested in Frankfurt's religious heritage.
+2. **St. Bartholomew's Cathedral**: An impressive Gothic structure, this cathedral is known for its stunning architecture and is an essential stop for anyone interested in Frankfurt's religious heritage.
 
 3. **Palmengarten**: A beautiful botanical garden that features diverse plant species and serene landscapes, providing a peaceful escape from the bustling city.
 
@@ -72,7 +72,7 @@ While visiting the Grüne-Soße-Denkmal, consider exploring some of the nearby a
 
 When visiting the Grüne-Soße-Denkmal, photography enthusiasts will find ample opportunities to capture the monument from various angles. Early mornings or late afternoons typically provide the best natural light. To avoid crowds, consider visiting during weekdays, as weekends may attract more visitors.
 
-If you’re planning to enjoy a meal featuring Grüne Soße, look for local restaurants that serve this dish. Engaging with locals or restaurant staff can enhance your understanding of its cultural significance and variations in preparation.
+If you're planning to enjoy a meal featuring Grüne Soße, look for local restaurants that serve this dish. Engaging with locals or restaurant staff can enhance your understanding of its cultural significance and variations in preparation.
 
 ## Practical Information
 

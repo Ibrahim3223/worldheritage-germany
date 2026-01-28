@@ -52,7 +52,7 @@ As with many heritage sites, it is advisable to check the official website for c
 
 When planning your visit, consider allocating sufficient time to fully explore the fortification and absorb its historical significance. A visit of a few hours should allow you to appreciate the site and its surroundings. The best times to visit are typically during the mild seasons when the weather is pleasant, enhancing your overall experience.
 
-During your visit, expect to encounter informative displays or signage that provide context about the fortification’s history and architecture. These resources can greatly enrich your understanding and appreciation of the site. 
+During your visit, expect to encounter informative displays or signage that provide context about the fortification's history and architecture. These resources can greatly enrich your understanding and appreciation of the site. 
 
 In summary, a visit to Cultural heritage D-6-6426-0028 in Aub promises an engaging experience, where history and architecture converge in a significant cultural landscape.
 
@@ -76,7 +76,7 @@ These attractions complement your visit to the fortification, allowing for a wel
 
 For an optimal experience at Cultural heritage D-6-6426-0028 in Aub, consider the following insider tips:
 
-- **Photography**: While capturing the fortification’s unique architecture, be mindful of the lighting conditions. Early morning or late afternoon can provide softer light, enhancing your photos.
+- **Photography**: While capturing the fortification's unique architecture, be mindful of the lighting conditions. Early morning or late afternoon can provide softer light, enhancing your photos.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, aim to arrive early in the day or later in the afternoon. Weekdays may also see fewer visitors compared to weekends.
 

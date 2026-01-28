@@ -64,7 +64,7 @@ The best times to visit may vary, but generally, weekdays can offer a quieter ex
 
 While exploring St. Matthäus, you may want to take advantage of the surrounding area, which offers several attractions worth visiting:
 
-1. **Niederkassel Town Center**: A pleasant stroll through the heart of Niederkassel can reveal charming shops, cafes, and local markets that showcase the town’s culture.
+1. **Niederkassel Town Center**: A pleasant stroll through the heart of Niederkassel can reveal charming shops, cafes, and local markets that showcase the town's culture.
 
 2. **Rheinpark**: Located nearby, this park features beautiful green spaces and walking paths along the Rhine River, perfect for a leisurely afternoon in nature.
 
@@ -78,11 +78,11 @@ While exploring St. Matthäus, you may want to take advantage of the surrounding
 
 To enhance your visit to St. Matthäus, consider these insider tips:
 
-- **Photography**: If you’re interested in capturing the beauty of the church, be mindful of any restrictions regarding photography inside the building. It’s a good practice to ask before taking photos, especially during services.
+- **Photography**: If you're interested in capturing the beauty of the church, be mindful of any restrictions regarding photography inside the building. It's a good practice to ask before taking photos, especially during services.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting during weekdays or early in the morning can help you avoid larger crowds that may gather during weekend services or events.
 
-- **Engage with Locals**: Don’t hesitate to engage with local residents or church members, as they can provide valuable insights into the church's history and significance in the community.
+- **Engage with Locals**: Don't hesitate to engage with local residents or church members, as they can provide valuable insights into the church's history and significance in the community.
 
 ## Practical Information
 
@@ -114,10 +114,10 @@ Weekdays or early mornings generally offer a quieter experience, making them ide
 Check the official website or inquire locally for information regarding accessibility options at St. Matthäus.
 
 ### Can I buy tickets online?
-Details regarding ticket sales can be confirmed through the official website. It’s always best to check ahead for any entry fees or requirements.
+Details regarding ticket sales can be confirmed through the official website. It's always best to check ahead for any entry fees or requirements.
 
 ### Are there restrooms and cafes?
-Nearby amenities, such as restrooms and cafes, may vary. It’s advisable to check local resources for available facilities.
+Nearby amenities, such as restrooms and cafes, may vary. It's advisable to check local resources for available facilities.
 
 ### What should I wear?
 Visitors should dress modestly and comfortably, keeping in mind that St. Matthäus is a place of worship.

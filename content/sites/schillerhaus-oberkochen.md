@@ -50,7 +50,7 @@ The museum is designed to facilitate both individual exploration and group activ
 
 Visiting Schillerhaus offers a unique opportunity to engage with German literary history. The museum is conveniently located in Oberkochen, making it accessible for both locals and tourists. To reach the museum, visitors can utilize local transport options, which may include buses or personal vehicles. Parking facilities may also be available nearby, though it is advisable to check the official website for the most current information.
 
-Upon arrival, guests can expect to be greeted by knowledgeable staff who are enthusiastic about sharing insights into Schiller’s life and works. The museum often hosts exhibitions that may change periodically, so a return visit might provide fresh perspectives on the material presented. 
+Upon arrival, guests can expect to be greeted by knowledgeable staff who are enthusiastic about sharing insights into Schiller's life and works. The museum often hosts exhibitions that may change periodically, so a return visit might provide fresh perspectives on the material presented. 
 
 To experience the museum fully, it is recommended to allocate at least a few hours for your visit. This time allows for a thorough exploration of the exhibits and a chance to engage with any scheduled events or talks. The best times to visit may vary, but weekdays typically see fewer crowds, providing a more intimate experience.
 

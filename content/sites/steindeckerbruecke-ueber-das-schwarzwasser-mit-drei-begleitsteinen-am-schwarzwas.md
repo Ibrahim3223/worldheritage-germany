@@ -61,7 +61,7 @@ In addition to the Steindeckerbrücke, the Schmölln-Putzkau region hosts severa
 1. **Schmölln Town Center**: Rich in local history, the town center features charming architecture and quaint shops.
 2. **Putzkau Church**: This historic church is a nearby landmark, offering insight into local religious architecture.
 3. **Local Parks and Trails**: The region is home to several parks and walking trails, perfect for those looking to enjoy the natural beauty of the area.
-4. **Historic Mill Sites**: Explore the remnants of old mills in the vicinity, which provide context to the area’s industrial past.
+4. **Historic Mill Sites**: Explore the remnants of old mills in the vicinity, which provide context to the area's industrial past.
 
 These nearby attractions can complement your experience at the Steindeckerbrücke, providing a fuller understanding of the local culture and heritage.
 

@@ -67,7 +67,7 @@ If you wish to avoid crowds, plan your visit during weekdays or early in the day
 
 ## Practical Information
 
-When preparing for your visit to Alte Arztpraxis, it’s wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend a good amount of time on your feet while exploring the museum. A small bag to carry personal items is also advisable.
+When preparing for your visit to Alte Arztpraxis, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend a good amount of time on your feet while exploring the museum. A small bag to carry personal items is also advisable.
 
 Seasonal considerations should be kept in mind; if visiting during colder months, dress warmly as you may need to walk outside to access the museum. It's also beneficial to check the official website for any seasonal events or changes in opening hours.
 

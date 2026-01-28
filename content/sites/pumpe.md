@@ -86,7 +86,7 @@ To make the most of your visit to Pumpe, consider these insider tips:
 
 When visiting Pumpe, it's helpful to bring essentials such as your ticket (if purchased in advance) and a light jacket, as the cinema's climate may vary. Be prepared for potential seasonal considerations, such as colder temperatures in winter, which may influence your overall experience.
 
-Remember to check the official website for any specific requirements or recommendations related to your visit. Pumpe may also have specific guidelines regarding food and drink, so it’s advisable to familiarize yourself with these before your arrival.
+Remember to check the official website for any specific requirements or recommendations related to your visit. Pumpe may also have specific guidelines regarding food and drink, so it's advisable to familiarize yourself with these before your arrival.
 
 ## Frequently Asked Questions
 

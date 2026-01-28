@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Döllnitzviadukt, an impressive bridge on the Leipzig-Dresdner Eisenbahn in Oschatz, Germany, serves as both a vital transportation link and a remarkable piece of engineering. Spanning the Döllnitz River, this bridge is not only integral to the region's railway system but also represents a significant historical achievement in civil engineering. Its strategic location in Oschatz makes it an easily accessible destination for both railway enthusiasts and those interested in architectural marvels. As visitors approach, they are greeted by the sight of the bridge's sturdy structure, which has withstood the test of time and continues to serve its purpose in today’s transportation landscape. 
+The Döllnitzviadukt, an impressive bridge on the Leipzig-Dresdner Eisenbahn in Oschatz, Germany, serves as both a vital transportation link and a remarkable piece of engineering. Spanning the Döllnitz River, this bridge is not only integral to the region's railway system but also represents a significant historical achievement in civil engineering. Its strategic location in Oschatz makes it an easily accessible destination for both railway enthusiasts and those interested in architectural marvels. As visitors approach, they are greeted by the sight of the bridge's sturdy structure, which has withstood the test of time and continues to serve its purpose in today's transportation landscape. 
 
 ## History and Significance
 

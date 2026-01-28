@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Einsteinhaus Caputh is a significant memorial located in the picturesque region of Schwielowsee, Germany. This house, which served as the residence of the renowned physicist Albert Einstein from 1929 to 1932, offers visitors a unique glimpse into the personal life of one of the most influential scientists in history. The tranquil surroundings and the architectural design of the house reflect Einstein’s affinity for nature and simplicity, making it an intriguing destination for both science enthusiasts and those interested in architectural heritage.
+Einsteinhaus Caputh is a significant memorial located in the picturesque region of Schwielowsee, Germany. This house, which served as the residence of the renowned physicist Albert Einstein from 1929 to 1932, offers visitors a unique glimpse into the personal life of one of the most influential scientists in history. The tranquil surroundings and the architectural design of the house reflect Einstein's affinity for nature and simplicity, making it an intriguing destination for both science enthusiasts and those interested in architectural heritage.
 
 The significance of Einsteinhaus Caputh extends beyond its association with Einstein; it embodies a pivotal time in his life when he moved away from the bustling atmosphere of Berlin to seek peace and inspiration. This period saw the development of some of his most profound ideas, including his work on unified field theory. The house not only serves as a memorial to Einstein but also as a place that encourages reflection on the interplay between science, nature, and human creativity.
 

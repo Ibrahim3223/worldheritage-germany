@@ -80,7 +80,7 @@ For those planning a visit to the Autobahnkapelle St. Gallus, consider the follo
 
 ## Practical Information
 
-When preparing for your visit to the Autobahnkapelle St. Gallus, it’s advisable to bring along a few essentials:
+When preparing for your visit to the Autobahnkapelle St. Gallus, it's advisable to bring along a few essentials:
 
 - **Comfortable Footwear**: If you plan to explore the surrounding area, comfortable shoes will enhance your experience.
 
@@ -103,13 +103,13 @@ Currently, there are no specific guided tours mentioned. However, the chapel is 
 The best times to visit are during daylight hours, particularly on weekdays when crowds are smaller.
 
 ### Is it wheelchair accessible?
-While specific accessibility features are not detailed, it’s advisable to check the official website for any accommodations that may be available.
+While specific accessibility features are not detailed, it's advisable to check the official website for any accommodations that may be available.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases is not specified. Check the official website for current information on entry requirements.
 
 ### Are there restrooms and cafes?
-Details about facilities such as restrooms and cafes near the chapel are not provided. It’s advisable to plan accordingly.
+Details about facilities such as restrooms and cafes near the chapel are not provided. It's advisable to plan accordingly.
 
 ### What should I wear?
 Dress comfortably and respectfully, considering the chapel's function as a place of worship. Dressing in layers may be beneficial due to varying weather conditions. 

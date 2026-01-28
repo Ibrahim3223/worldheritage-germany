@@ -34,7 +34,7 @@ As you approach the Kongresshaus Rosengarten, you will find yourself enveloped i
 
 The Kongresshaus Rosengarten has become an integral part of Coburg's cultural landscape. While specific historical details are not extensively documented, the hall is recognized for its role in the community as a venue that fosters public engagement and cultural exchange. The significance of the Kongresshaus lies in its ability to cater to a wide array of events, from concerts that highlight local and international talent to conventions that bring together professionals from various fields.
 
-The hall contributes to Coburg's reputation as a center of culture and business, providing a space where ideas can be shared and creativity can flourish. The architecture and design of the Kongresshaus reflect the evolving needs of a modern society while maintaining a connection to the town’s historical roots. This balance between tradition and modernity is what makes the Kongresshaus a noteworthy site in Coburg.
+The hall contributes to Coburg's reputation as a center of culture and business, providing a space where ideas can be shared and creativity can flourish. The architecture and design of the Kongresshaus reflect the evolving needs of a modern society while maintaining a connection to the town's historical roots. This balance between tradition and modernity is what makes the Kongresshaus a noteworthy site in Coburg.
 
 As a multi-purpose hall, it also exemplifies the spirit of community in Coburg. Events hosted here often celebrate local traditions, art, and music, thereby reinforcing the connection between the venue and the residents. The Kongresshaus is not merely a building; it is a living part of the community that adapts to the changing cultural landscape while remaining a steadfast landmark in the region.
 
@@ -60,11 +60,11 @@ Be sure to take note of any seasonal programming, as the Kongresshaus often host
 
 When visiting the Kongresshaus Rosengarten, take the opportunity to explore other attractions in Coburg that enhance your experience of the region:
 
-1. **Veste Coburg**: This impressive fortress overlooks the city and offers panoramic views along with a glimpse into the region’s history. It houses a museum with exhibits on Coburg's past.
+1. **Veste Coburg**: This impressive fortress overlooks the city and offers panoramic views along with a glimpse into the region's history. It houses a museum with exhibits on Coburg's past.
 
 2. **Schloss Ehrenburg**: Just a short distance away, this historic palace is a stunning example of Romantic architecture and provides insight into the lives of noble families in the area.
 
-3. **Coburg’s City Park**: Perfect for a leisurely stroll, this park is known for its beautiful gardens and tranquil atmosphere, making it a great spot to relax before or after your visit to the Kongresshaus.
+3. **Coburg's City Park**: Perfect for a leisurely stroll, this park is known for its beautiful gardens and tranquil atmosphere, making it a great spot to relax before or after your visit to the Kongresshaus.
 
 4. **Market Square (Marktplatz)**: The heart of Coburg, this bustling square features charming shops, cafes, and regular markets where you can experience local life and cuisine.
 

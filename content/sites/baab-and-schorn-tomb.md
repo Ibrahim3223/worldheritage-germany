@@ -52,7 +52,7 @@ Reaching the Baab and Schorn tomb is accessible by various means of transport, m
 
 When planning your visit, consider the time needed to fully appreciate the tomb and its surroundings. A leisurely exploration of the site may take around an hour, allowing time for reflection and photography. The best times to visit are typically during the spring and early fall, when the weather is pleasant and the area is less crowded.
 
-Visitors should expect a tranquil environment conducive to contemplation. The site may attract those interested in history, architecture, and cultural heritage, so it’s advisable to visit during off-peak hours for a more personal experience.
+Visitors should expect a tranquil environment conducive to contemplation. The site may attract those interested in history, architecture, and cultural heritage, so it's advisable to visit during off-peak hours for a more personal experience.
 
 ## Nearby Attractions
 
@@ -84,7 +84,7 @@ When visiting the Baab and Schorn tomb, it's advisable to bring along a few esse
   
 - **Weather Considerations**: Check the weather forecast before your visit. Dress in layers, as temperatures can vary throughout the day, especially in spring and fall.
 
-- **Water and Snacks**: While the area may have nearby amenities, it’s a good idea to bring a water bottle and light snacks to enjoy during your visit.
+- **Water and Snacks**: While the area may have nearby amenities, it's a good idea to bring a water bottle and light snacks to enjoy during your visit.
 
 ## Frequently Asked Questions
 

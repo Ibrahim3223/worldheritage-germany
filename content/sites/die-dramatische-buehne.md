@@ -32,7 +32,7 @@ Die Dramatische Bühne, located in the heart of Frankfurt am Main, is a vibrant 
 
 Die Dramatische Bühne has established itself as an essential part of Frankfurt's cultural fabric. While specific historical milestones may be elusive, the theatre embodies the spirit of artistic freedom and experimentation that characterizes the city's theatre scene. The venue is particularly noteworthy for its commitment to promoting emerging talents and experimental works, allowing playwrights, directors, and actors to explore themes that may not be traditionally represented in mainstream theatre.
 
-The significance of Die Dramatische Bühne extends beyond its performances; it serves as a platform for dialogue and reflection on contemporary issues. By addressing socially relevant topics, the theatre fosters community engagement and encourages audiences to contemplate the world around them. This focus on inclusivity and artistic expression aligns with Frankfurt’s broader cultural mission of supporting diverse art forms and voices.
+The significance of Die Dramatische Bühne extends beyond its performances; it serves as a platform for dialogue and reflection on contemporary issues. By addressing socially relevant topics, the theatre fosters community engagement and encourages audiences to contemplate the world around them. This focus on inclusivity and artistic expression aligns with Frankfurt's broader cultural mission of supporting diverse art forms and voices.
 
 Moreover, the theatre's dedication to free theatre aligns with a growing movement across Europe that champions accessibility in the arts. By removing financial barriers, Die Dramatische Bühne invites a wider audience to experience the transformative power of live performances, ensuring that the arts remain a vital part of public life in Frankfurt.
 
@@ -50,7 +50,7 @@ Visiting Die Dramatische Bühne offers a unique opportunity to engage with Frank
 
 When attending a performance, you can expect an intimate setting that encourages audience participation and connection with the performers. The duration of performances may vary, typically ranging from one to two hours, so it's advisable to arrive early to find your seat and soak in the atmosphere. 
 
-The best times to visit often coincide with the theatre’s scheduled performances, which may vary throughout the year. It's recommended to check the official website for seasonal offerings, as the theatre may host special events or festivals that highlight local talent.
+The best times to visit often coincide with the theatre's scheduled performances, which may vary throughout the year. It's recommended to check the official website for seasonal offerings, as the theatre may host special events or festivals that highlight local talent.
 
 ## Nearby Attractions
 
@@ -58,7 +58,7 @@ While in Frankfurt, there are several nearby attractions that complement a visit
 
 1. **Frankfurt Cathedral (Kaiserdom)**: This stunning Gothic cathedral is a short distance away, offering visitors a glimpse into the city's religious heritage and stunning architecture.
 
-2. **Römer**: The iconic town hall of Frankfurt, known for its medieval architecture, is a must-visit for those interested in the city’s history and culture.
+2. **Römer**: The iconic town hall of Frankfurt, known for its medieval architecture, is a must-visit for those interested in the city's history and culture.
 
 3. **Städel Museum**: An art museum located nearby, it houses an impressive collection of European masterpieces, offering a rich cultural experience for art enthusiasts.
 
@@ -80,7 +80,7 @@ To enhance your visit to Die Dramatische Bühne, consider these insider tips:
 
 When preparing for your visit to Die Dramatische Bühne, keep these practical tips in mind:
 
-- **What to Bring**: A light jacket or sweater may be advisable, as theatre spaces can sometimes be cooler than expected. It’s also a good idea to bring a notepad or device to jot down thoughts if you wish to reflect on the performance later.
+- **What to Bring**: A light jacket or sweater may be advisable, as theatre spaces can sometimes be cooler than expected. It's also a good idea to bring a notepad or device to jot down thoughts if you wish to reflect on the performance later.
 
 - **Seasonal Considerations**: With performances held throughout the year, be mindful of the weather when planning your visit. Winter months may require warmer clothing, while summer may offer more comfortable conditions for attending outdoor events if applicable.
 

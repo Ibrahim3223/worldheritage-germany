@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Ehmken Hoff is an architectural ensemble located in Dörverden, Germany, that encapsulates the essence of traditional German rural architecture. This collection of buildings serves as a significant representation of the region’s cultural heritage. With its quaint charm and historical importance, Ehmken Hoff invites visitors to explore its structures, which reflect the lifestyle and craftsmanship of a bygone era. As you approach this ensemble, you will find yourself immersed in the local history and architecture that define this part of Germany, making it a noteworthy destination for those interested in heritage and culture.
+Ehmken Hoff is an architectural ensemble located in Dörverden, Germany, that encapsulates the essence of traditional German rural architecture. This collection of buildings serves as a significant representation of the region's cultural heritage. With its quaint charm and historical importance, Ehmken Hoff invites visitors to explore its structures, which reflect the lifestyle and craftsmanship of a bygone era. As you approach this ensemble, you will find yourself immersed in the local history and architecture that define this part of Germany, making it a noteworthy destination for those interested in heritage and culture.
 
 Dörverden, situated in Lower Saxony, is known for its picturesque landscapes and rich agricultural history. Ehmken Hoff stands as a focal point in this region, showcasing not only the architectural styles of the past but also the community's connection to its agricultural roots. Visitors can expect an engaging experience as they traverse through the buildings, each with its own story to tell.
 
@@ -58,7 +58,7 @@ As you wander through the ensemble, expect to encounter informative displays tha
 
 While visiting Ehmken Hoff, consider exploring other nearby attractions that showcase the rich heritage and natural beauty of the Dörverden region:
 
-1. **Dörverden Museum**: A short distance from Ehmken Hoff, this museum offers additional insights into the local history and culture, featuring exhibits related to the region’s agricultural practices.
+1. **Dörverden Museum**: A short distance from Ehmken Hoff, this museum offers additional insights into the local history and culture, featuring exhibits related to the region's agricultural practices.
 
 2. **Nature Reserves**: The surrounding area is home to various nature reserves that provide opportunities for walking, birdwatching, and enjoying the natural scenery of Lower Saxony.
 

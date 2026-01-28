@@ -38,7 +38,7 @@ Grünes Labor Coburg holds cultural and educational significance within the regi
 
 The concept of a garden as a learning environment is deeply rooted in modern ecological practices, emphasizing the importance of connecting people with nature. Grünes Labor Coburg exemplifies this approach, providing visitors with insights into various gardening techniques and ecological principles. This focus on education helps foster a deeper appreciation for the natural world and encourages sustainable behaviors among community members.
 
-Furthermore, the garden enhances Coburg's cultural landscape by serving as a venue for workshops, community events, and educational programs. These activities not only promote knowledge sharing but also strengthen community ties, making the garden a vital part of Coburg’s social fabric. The blend of nature and education at Grünes Labor Coburg creates a unique space that inspires visitors to engage with their environment thoughtfully.
+Furthermore, the garden enhances Coburg's cultural landscape by serving as a venue for workshops, community events, and educational programs. These activities not only promote knowledge sharing but also strengthen community ties, making the garden a vital part of Coburg's social fabric. The blend of nature and education at Grünes Labor Coburg creates a unique space that inspires visitors to engage with their environment thoughtfully.
 
 ## Architecture and Features
 

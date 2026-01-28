@@ -48,7 +48,7 @@ Visitors can expect to engage with the building's historical essence, whether th
 
 ## Visiting Information
 
-To reach Batschari, visitors can utilize various transportation options, including public transport and personal vehicles. The factory’s proximity to central Baden-Baden makes it accessible for those exploring the region. 
+To reach Batschari, visitors can utilize various transportation options, including public transport and personal vehicles. The factory's proximity to central Baden-Baden makes it accessible for those exploring the region. 
 
 Check the official website for current information regarding operating hours and ticket prices. It is advisable to plan your visit during weekdays to avoid potential crowds, allowing for a more intimate experience with the site's history.
 

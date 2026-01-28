@@ -48,7 +48,7 @@ In addition to its physical features, the Wasserturm serves as a canvas for loca
 
 ## Visiting Information
 
-Visiting Wasserturm Bardenberg is an enriching experience for those looking to immerse themselves in local culture and history. To reach the tower, visitors can utilize various modes of transport, including public transportation options available in Würselen, as well as personal vehicles. The site’s location in a residential area makes it relatively accessible, although checking the official website for current transport options is advisable.
+Visiting Wasserturm Bardenberg is an enriching experience for those looking to immerse themselves in local culture and history. To reach the tower, visitors can utilize various modes of transport, including public transportation options available in Würselen, as well as personal vehicles. The site's location in a residential area makes it relatively accessible, although checking the official website for current transport options is advisable.
 
 When planning your visit, it is important to check the official website for hours of operation and any potential admission fees. The tower may offer specific visiting times, and planning ahead ensures you can make the most of your time there. Visitors can expect to spend around an hour at the site, allowing ample time for exploration and photography. 
 
@@ -105,7 +105,7 @@ Accessibility details are not specified; check the official website for current 
 Ticketing options may vary; check the official website for information on purchasing tickets online.
 
 ### Are there restrooms and cafes?
-Restroom facilities and dining options may not be specified; it’s best to check local establishments or the official website for nearby amenities.
+Restroom facilities and dining options may not be specified; it's best to check local establishments or the official website for nearby amenities.
 
 ### What should I wear?
 Dress comfortably and in layers to accommodate changes in weather, particularly if you plan to explore the surrounding area.

@@ -28,7 +28,7 @@ As you explore the University of Fulda, you will find an environment that nurtur
 
 ## History and Significance
 
-The University of Fulda's history is intertwined with the development of education in Germany. Though specific dates are not available, its establishment marked a notable shift in the region’s academic landscape. Over the years, the university has contributed significantly to the cultural and intellectual life of Fulda and its surroundings.
+The University of Fulda's history is intertwined with the development of education in Germany. Though specific dates are not available, its establishment marked a notable shift in the region's academic landscape. Over the years, the university has contributed significantly to the cultural and intellectual life of Fulda and its surroundings.
 
 Initially, the university served as a center for theological studies, reflecting the religious and educational needs of the time. Its evolution is indicative of broader trends in higher education in Germany, responding to societal changes and the increasing demand for diverse fields of study. The institution has adapted to meet the needs of students and the community, fostering a spirit of innovation and inquiry.
 
@@ -42,7 +42,7 @@ The architecture of the University of Fulda is reflective of its historical sign
 
 As you walk through the grounds, you will notice buildings that exhibit classic design elements, which speak to the university's long-standing heritage. These structures often feature intricate facades and spacious courtyards, providing a serene atmosphere conducive to study and reflection.
 
-In contrast, newer buildings on campus are designed with contemporary functionality in mind, incorporating modern amenities that support the needs of today’s students. This blend of old and new highlights the university's commitment to maintaining its historical roots while embracing innovation in education.
+In contrast, newer buildings on campus are designed with contemporary functionality in mind, incorporating modern amenities that support the needs of today's students. This blend of old and new highlights the university's commitment to maintaining its historical roots while embracing innovation in education.
 
 The campus is also home to various facilities that enhance the academic experience, including libraries, study spaces, and communal areas. These features contribute to a vibrant campus life, fostering interaction among students, faculty, and visitors.
 
@@ -62,7 +62,7 @@ While the University of Fulda itself is a captivating destination, the surroundi
 
 1. **Fulda Cathedral**: This impressive baroque cathedral is a short distance from the university and is known for its stunning architecture and historical significance.
 
-2. **St. Michael’s Church**: Renowned for its beautiful frescoes and intricate design, this church offers another glimpse into Fulda’s rich cultural heritage.
+2. **St. Michael's Church**: Renowned for its beautiful frescoes and intricate design, this church offers another glimpse into Fulda's rich cultural heritage.
 
 3. **Fulda Palace**: A magnificent palace that serves as a reminder of the city's princely past, featuring beautiful gardens and historical exhibitions.
 
@@ -78,7 +78,7 @@ Engaging with current students or faculty can enhance your experience, providing
 
 ## Practical Information
 
-Before heading to the University of Fulda, it’s advisable to check the weather forecast and dress accordingly, as conditions can vary. Comfortable shoes are recommended, as you may spend a significant amount of time walking around the campus.
+Before heading to the University of Fulda, it's advisable to check the weather forecast and dress accordingly, as conditions can vary. Comfortable shoes are recommended, as you may spend a significant amount of time walking around the campus.
 
 Bringing a water bottle can be beneficial, especially if you plan to spend several hours exploring. Additionally, consider packing a light snack, as this will allow you to enjoy your time without needing to leave the campus for food.
 

@@ -66,11 +66,11 @@ There are several notable attractions within close proximity to St. John's Churc
 
 2. **St. Nicholas' Church**: Another significant religious site in Lüneburg, St. Nicholas' Church offers a glimpse into the city's diverse architectural styles and serves an active congregation.
 
-3. **Lüneburg Salt Museum**: Dive deeper into the city’s history with a visit to this museum, which showcases the importance of salt production in Lüneburg and its impact on the region’s development.
+3. **Lüneburg Salt Museum**: Dive deeper into the city's history with a visit to this museum, which showcases the importance of salt production in Lüneburg and its impact on the region's development.
 
-4. **Historic Market Square**: Explore the vibrant atmosphere of Lüneburg’s Market Square, lined with shops, cafes, and historical buildings, making it an ideal spot to relax and soak in the local culture.
+4. **Historic Market Square**: Explore the vibrant atmosphere of Lüneburg's Market Square, lined with shops, cafes, and historical buildings, making it an ideal spot to relax and soak in the local culture.
 
-5. **The Water Tower**: For those interested in panoramic views of the city, the Water Tower provides a vantage point to appreciate Lüneburg’s layout and historical landmarks.
+5. **The Water Tower**: For those interested in panoramic views of the city, the Water Tower provides a vantage point to appreciate Lüneburg's layout and historical landmarks.
 
 ## Insider Tips
 
@@ -82,7 +82,7 @@ If you wish to participate in a service or event, check the official website for
 
 ## Practical Information
 
-When planning your visit to St. John's Church, it’s advisable to bring along a few essentials such as water, comfortable walking shoes, and a light jacket, especially if visiting during cooler months. The church environment is generally calm and reflective, so dressing modestly is appreciated.
+When planning your visit to St. John's Church, it's advisable to bring along a few essentials such as water, comfortable walking shoes, and a light jacket, especially if visiting during cooler months. The church environment is generally calm and reflective, so dressing modestly is appreciated.
 
 Seasonal considerations can also enhance your visit. During the summer, longer daylight hours allow for extended exploration, while winter may bring special holiday events that highlight the church's role in the community during festive times.
 

@@ -64,7 +64,7 @@ Leipzig is home to numerous attractions that complement a visit to the Panometer
 
 4. **St. Thomas Church**: Famous for its association with Johann Sebastian Bach, this historic church hosts concerts and services, adding a musical dimension to your visit.
 
-5. **Mendelssohn-Haus**: The former residence of composer Felix Mendelssohn, this museum offers insights into the life and works of one of Leipzig’s most celebrated figures.
+5. **Mendelssohn-Haus**: The former residence of composer Felix Mendelssohn, this museum offers insights into the life and works of one of Leipzig's most celebrated figures.
 
 ## Insider Tips
 

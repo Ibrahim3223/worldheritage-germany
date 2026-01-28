@@ -66,7 +66,7 @@ While visiting Jesus Church, consider exploring other nearby attractions that co
 
 4. **Berlin Gardens**: Explore the nearby gardens, which showcase a variety of plant species and beautiful landscaping typical of the region.
 
-5. **Local Markets**: Experience the vibrant local culture by visiting nearby markets that offer fresh produce, handmade goods, and a taste of the community’s culinary offerings.
+5. **Local Markets**: Experience the vibrant local culture by visiting nearby markets that offer fresh produce, handmade goods, and a taste of the community's culinary offerings.
 
 ## Insider Tips
 

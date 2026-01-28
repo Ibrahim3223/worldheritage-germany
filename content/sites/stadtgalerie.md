@@ -46,7 +46,7 @@ The museum's dedication to the contemporary art scene is reflected in its progra
 
 The Stadtgalerie features a design that complements its mission as an art museum. While specific architectural details are not provided, art museums typically prioritize open spaces that allow for flexible exhibition layouts. This design approach enables curators to create immersive experiences that engage visitors with the artwork on display.
 
-Upon entering the Stadtgalerie, visitors are likely to encounter a bright and inviting atmosphere, characterized by clean lines and minimalist aesthetics that allow the art to take center stage. The gallery’s layout is designed to facilitate movement and exploration, encouraging guests to wander through the various exhibition spaces at their own pace.
+Upon entering the Stadtgalerie, visitors are likely to encounter a bright and inviting atmosphere, characterized by clean lines and minimalist aesthetics that allow the art to take center stage. The gallery's layout is designed to facilitate movement and exploration, encouraging guests to wander through the various exhibition spaces at their own pace.
 
 In addition to the exhibition areas, the museum may include facilities that enhance the visitor experience, such as informational displays, seating areas, and possibly interactive installations. These features contribute to an environment that encourages reflection and dialogue about the artworks.
 
@@ -82,11 +82,11 @@ These nearby attractions complement a visit to the Stadtgalerie, offering a well
 
 To make the most of your visit to the Stadtgalerie, consider a few insider tips that can enhance your experience:
 
-- **Photography**: If you’re interested in capturing your visit, check the museum's policy regarding photography. Some exhibitions may have restrictions, so it's best to be informed beforehand.
+- **Photography**: If you're interested in capturing your visit, check the museum's policy regarding photography. Some exhibitions may have restrictions, so it's best to be informed beforehand.
 
 - **Crowd Avoidance**: To enjoy a more intimate experience with the artworks, plan your visit during weekdays or early in the day when visitor numbers may be lower. Special events and opening nights can attract larger crowds, so consider these when scheduling your trip.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions about the exhibitions or artists. They can provide valuable insights that enhance your understanding and appreciation of the art.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions about the exhibitions or artists. They can provide valuable insights that enhance your understanding and appreciation of the art.
 
 ## Practical Information
 

@@ -82,11 +82,11 @@ Also, be mindful of the weather and dress accordingly, as conditions can change 
 
 ## Practical Information
 
-When preparing for your visit to Alzenauer Sande, it’s advisable to bring along essentials such as water, snacks, and sunscreen, especially if you plan to spend an extended period in the reserve. Comfortable walking shoes are a must, as the paths can vary in terrain.
+When preparing for your visit to Alzenauer Sande, it's advisable to bring along essentials such as water, snacks, and sunscreen, especially if you plan to spend an extended period in the reserve. Comfortable walking shoes are a must, as the paths can vary in terrain.
 
 Seasonal considerations are also important. In spring and summer, insect repellent may be useful, while in the cooler months, a warm jacket could be necessary. Always check the weather forecast prior to your visit for the most enjoyable experience.
 
-Although the reserve is designed for public access, it’s wise to check for any specific regulations or guidelines that may be in place to protect the environment and enhance visitor experience.
+Although the reserve is designed for public access, it's wise to check for any specific regulations or guidelines that may be in place to protect the environment and enhance visitor experience.
 
 ## Frequently Asked Questions
 

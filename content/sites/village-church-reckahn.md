@@ -28,7 +28,7 @@ image_srcset:
 
 The Village Church Reckahn, located in the tranquil Kloster Lehnin region of Brandenburg, Germany, is a noteworthy church building that offers visitors a glimpse into the architectural and cultural heritage of the area. Its serene setting and historical significance make it a significant site for both locals and travelers alike. Amidst the picturesque landscape of the Potsdam-Mittelmark district, this church stands as a reminder of the region's rich past, reflecting centuries of local traditions and religious practices.
 
-Visitors to Reckahn are drawn not only by the church’s architectural charm but also by the stories embedded within its walls. As a historical site, it serves as a focal point for the community and a place of worship, contributing to the cultural fabric of Kloster Lehnin. Whether you are an architecture enthusiast, a history buff, or simply seeking a peaceful retreat, the Village Church Reckahn promises an enriching experience steeped in local history and community spirit.
+Visitors to Reckahn are drawn not only by the church's architectural charm but also by the stories embedded within its walls. As a historical site, it serves as a focal point for the community and a place of worship, contributing to the cultural fabric of Kloster Lehnin. Whether you are an architecture enthusiast, a history buff, or simply seeking a peaceful retreat, the Village Church Reckahn promises an enriching experience steeped in local history and community spirit.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ While the Village Church Reckahn itself is a significant draw, there are several
 
 For those planning a visit to the Village Church Reckahn, here are a few insider tips to enhance your experience:
 
-- **Photography**: Capture the church’s architecture and serene surroundings, but be respectful of any guidelines regarding photography inside the building.
+- **Photography**: Capture the church's architecture and serene surroundings, but be respectful of any guidelines regarding photography inside the building.
   
 - **Crowd Avoidance**: If you prefer a quieter visit, consider going on weekdays or during off-peak hours to fully enjoy the peaceful atmosphere.
 

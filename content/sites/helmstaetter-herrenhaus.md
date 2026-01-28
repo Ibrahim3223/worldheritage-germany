@@ -34,7 +34,7 @@ The Helmstätter Herrenhaus holds a significant place in the history of Heidelbe
 
 Manor houses like Helmstätter Herrenhaus were often centers of agricultural and social activity, serving not only as residences but also as administrative hubs for surrounding lands. Such structures were commonly owned by influential families, and they played a vital role in the local economy and governance. The Helmstätter Herrenhaus, with its elegant design and historical relevance, provides insight into the lives of the individuals who would have inhabited it, showcasing the interplay between architecture, culture, and society.
 
-In the broader context of Heidelberg’s heritage, the manor house contributes to the understanding of the region’s development through various historical periods. Its preservation as a Baudenkmal highlights the community's commitment to maintaining its historical landmarks, ensuring that future generations can appreciate the architectural and cultural narratives embedded within.
+In the broader context of Heidelberg's heritage, the manor house contributes to the understanding of the region's development through various historical periods. Its preservation as a Baudenkmal highlights the community's commitment to maintaining its historical landmarks, ensuring that future generations can appreciate the architectural and cultural narratives embedded within.
 
 ## Architecture and Features
 

@@ -28,13 +28,13 @@ image_srcset:
 
 Maus Castle, an imposing structure located in Sankt Goarshausen, Germany, captures the imagination of visitors with its storied past and architectural splendor. This castle, perched majestically on the banks of the Rhine River, is not only a significant historical site but also a vital part of the region's cultural landscape. Known for its strategic position, Maus Castle served as a defensive stronghold during feudal times, providing a glimpse into medieval life and the turbulent history of the area.
 
-The castle’s location along the Rhine is crucial, as it has long been a vital trade route in Europe. Today, it stands as a symbol of the rich heritage of the region, drawing visitors from around the world who seek to uncover its secrets. When exploring Maus Castle, one can expect to encounter a blend of captivating history and stunning architecture, making it an essential stop for anyone traveling through this picturesque part of Germany.
+The castle's location along the Rhine is crucial, as it has long been a vital trade route in Europe. Today, it stands as a symbol of the rich heritage of the region, drawing visitors from around the world who seek to uncover its secrets. When exploring Maus Castle, one can expect to encounter a blend of captivating history and stunning architecture, making it an essential stop for anyone traveling through this picturesque part of Germany.
 
 ## History and Significance
 
 Maus Castle has played an integral role in the history of the Rhine Valley, acting as both a protective bastion and a symbol of power for the noble families that once inhabited it. While exact details of its construction and early history are not available, the castle is believed to have been built in the 13th century, during a time when the Rhine was a critical highway for commerce and trade. Its strategic location allowed it to oversee and control the river traffic, providing both security and revenue for its owners.
 
-Throughout the centuries, the castle changed hands multiple times among various noble families, each of whom left their mark on the structure and its surroundings. The castle’s significance extends beyond its military functions; it is a representation of the feudal system that defined much of medieval Europe. The stories of its occupants reflect the power struggles and alliances that shaped the region.
+Throughout the centuries, the castle changed hands multiple times among various noble families, each of whom left their mark on the structure and its surroundings. The castle's significance extends beyond its military functions; it is a representation of the feudal system that defined much of medieval Europe. The stories of its occupants reflect the power struggles and alliances that shaped the region.
 
 In modern times, Maus Castle has become a symbol of cultural heritage, recognized for its role in the history of the Rhine and its contribution to the identity of Sankt Goarshausen. The castle is part of the larger UNESCO World Heritage Site designation that encompasses the Upper Middle Rhine Valley, underscoring its importance in the broader context of European history.
 
@@ -44,7 +44,7 @@ Maus Castle is characterized by its robust structure and distinct architectural 
 
 The castle is notable for its towering walls, which are made from local stone, providing both durability and a connection to the surrounding landscape. The design incorporates several defensive elements, including battlements and arrow slits, which were essential for protection during conflicts. The central courtyard is a focal point of the castle, offering insight into the daily life of its inhabitants and the layout of the fortification.
 
-Various rooms within the castle reveal aspects of medieval life, including living quarters, a chapel, and storage areas. Visitors can appreciate the craftsmanship of the period through the stone carvings and architectural details that adorn the castle's facade. While some areas may not be accessible, those that are open to the public offer a compelling glimpse into the past and the lifestyle of the castle’s former residents.
+Various rooms within the castle reveal aspects of medieval life, including living quarters, a chapel, and storage areas. Visitors can appreciate the craftsmanship of the period through the stone carvings and architectural details that adorn the castle's facade. While some areas may not be accessible, those that are open to the public offer a compelling glimpse into the past and the lifestyle of the castle's former residents.
 
 ## Visiting Information
 

@@ -42,7 +42,7 @@ As a popular meeting point, the fountain fosters social interaction and communit
 
 The architectural design of the Opernbrunnen reflects the style typical of fountains found in urban settings. While specific details about its construction materials and design elements are not available, fountains in this region often feature intricate detailing and artistic embellishments. The Opernbrunnen likely showcases a blend of traditional design elements with functional aspects that enhance its usability.
 
-Typically, fountains are characterized by their water features, which may include spouts, basins, and decorative sculptures. The Opernbrunnen may also exhibit aesthetic qualities that draw the eye, with flowing water that creates a serene auditory backdrop amidst the city’s vibrant sounds. The soothing sight and sound of water can provide a moment of respite for individuals navigating the hustle and bustle of urban life.
+Typically, fountains are characterized by their water features, which may include spouts, basins, and decorative sculptures. The Opernbrunnen may also exhibit aesthetic qualities that draw the eye, with flowing water that creates a serene auditory backdrop amidst the city's vibrant sounds. The soothing sight and sound of water can provide a moment of respite for individuals navigating the hustle and bustle of urban life.
 
 In addition to its visual appeal, the fountain serves a practical purpose. It may offer a space for individuals to cool off during warmer months, making it a welcome sight for those exploring the city. The design likely encourages interaction, inviting people to approach and enjoy the refreshing water.
 

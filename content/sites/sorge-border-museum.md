@@ -76,7 +76,7 @@ Additionally, take time to engage with the museum staff; they can provide valuab
 
 ## Practical Information
 
-When visiting the Sorge Border Museum, it's advisable to wear comfortable shoes, as you’ll likely be walking and standing for extended periods while exploring the exhibits. Depending on the season, consider layering your clothing, as the weather in the Oberharz am Brocken region can vary significantly.
+When visiting the Sorge Border Museum, it's advisable to wear comfortable shoes, as you'll likely be walking and standing for extended periods while exploring the exhibits. Depending on the season, consider layering your clothing, as the weather in the Oberharz am Brocken region can vary significantly.
 
 Bringing a water bottle is also a good idea, especially if you plan to explore the nearby attractions afterward. Be sure to check the official website for any seasonal considerations that may affect your visit, such as special events or changes to operating hours.
 
@@ -89,13 +89,13 @@ Most visitors find that two hours is sufficient to explore the museum and engage
 Check the museum's policy on photography during your visit, as restrictions may apply to certain exhibits.
 
 ### Are there guided tours?
-Information about guided tours may be available on the museum's official website. It’s worthwhile to check ahead if you're interested in a more in-depth experience.
+Information about guided tours may be available on the museum's official website. It's worthwhile to check ahead if you're interested in a more in-depth experience.
 
 ### What's the best time to visit?
 Weekdays tend to be less crowded, providing a more intimate experience with the exhibits.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, consult the museum’s official website or contact them directly.
+For specific accessibility information, consult the museum's official website or contact them directly.
 
 ### Can I buy tickets online?
 Check the official website for details regarding online ticket purchases and any available discounts.

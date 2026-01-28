@@ -34,7 +34,7 @@ As you approach this notable structure, you are greeted by an array of elements 
 
 ## History and Significance
 
-The Hubertusburg Castle Gatehouse holds a prominent place in the historical narrative of the region. Originally part of a larger castle complex, the gatehouse served as the main entry point, welcoming guests to the opulent surroundings of the Hubertusburg Castle. While specific dates and events may not be documented in detail, the significance of the gatehouse within the broader context of the castle’s history is clear.
+The Hubertusburg Castle Gatehouse holds a prominent place in the historical narrative of the region. Originally part of a larger castle complex, the gatehouse served as the main entry point, welcoming guests to the opulent surroundings of the Hubertusburg Castle. While specific dates and events may not be documented in detail, the significance of the gatehouse within the broader context of the castle's history is clear.
 
 Constructed during a period when Saxony was a significant player in European politics, the Hubertusburg Castle Gatehouse reflects the architectural styles and cultural values of its time. It played a crucial role in the ceremonial and practical functions of the castle, symbolizing the power and prestige associated with the electors of Saxony. The gatehouse not only marked the boundary between the public and private spaces of the castle but also showcased the wealth and artistry of the era.
 

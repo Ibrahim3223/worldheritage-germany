@@ -58,7 +58,7 @@ While in Stemwede, consider exploring nearby attractions to enrich your experien
 
 3. **Bad Essen**: A charming spa town not far from Stemwede, it features beautiful parks and gardens, perfect for a leisurely stroll.
 
-4. **Historic Town of Rahden**: Explore this nearby town’s history and enjoy its local dining options.
+4. **Historic Town of Rahden**: Explore this nearby town's history and enjoy its local dining options.
 
 5. **Natural Park Dümmer**: A short distance away, this park is a great spot for birdwatching and enjoying nature, especially for those interested in environmental conservation.
 

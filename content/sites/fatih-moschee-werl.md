@@ -36,7 +36,7 @@ With its unique characteristics and welcoming atmosphere, the Fatih-Moschee is a
 
 The Fatih-Moschee serves as a focal point for the Muslim community in Werl, representing a broader narrative of migration and integration in Germany. As the Muslim population in the country has grown, so too has the establishment of places of worship that cater to their spiritual needs. The mosque's construction is part of this larger trend, which signifies the importance of inclusivity in contemporary society.
 
-While specific historical details about the mosque’s founding are not provided, it is known that mosques often serve multiple roles in their communities. They are not just places for prayer but also serve as centers for education, social interaction, and cultural exchange. The Fatih-Moschee embodies these functions, creating a space where individuals can come together to practice their faith, engage in community activities, and foster a sense of belonging.
+While specific historical details about the mosque's founding are not provided, it is known that mosques often serve multiple roles in their communities. They are not just places for prayer but also serve as centers for education, social interaction, and cultural exchange. The Fatih-Moschee embodies these functions, creating a space where individuals can come together to practice their faith, engage in community activities, and foster a sense of belonging.
 
 The significance of the Fatih-Moschee extends beyond its architectural features; it is a symbol of the coexistence of diverse cultures. As visitors and locals gather within its walls, the mosque encourages dialogue and understanding among different cultural backgrounds, thus enriching the social fabric of Werl.
 
@@ -71,13 +71,13 @@ These attractions complement the visit to the mosque, allowing for a fuller unde
 
 ## Insider Tips
 
-For photography enthusiasts, the Fatih-Moschee presents several opportunities for capturing its architectural beauty. However, it’s crucial to be respectful of the worshippers and adhere to any photography guidelines posted at the mosque. Aim for early morning or late afternoon for the best natural lighting, which can enhance the beauty of the mosque's features.
+For photography enthusiasts, the Fatih-Moschee presents several opportunities for capturing its architectural beauty. However, it's crucial to be respectful of the worshippers and adhere to any photography guidelines posted at the mosque. Aim for early morning or late afternoon for the best natural lighting, which can enhance the beauty of the mosque's features.
 
 To avoid larger crowds, consider visiting during weekdays or outside of prayer times. This approach will allow you to experience the mosque in a more peaceful setting and provide ample opportunity for reflection.
 
 ## Practical Information
 
-When visiting the Fatih-Moschee, it’s advisable to bring along a few essential items. Comfortable walking shoes will be beneficial, especially if you plan to explore the surrounding area. Additionally, modest clothing is typically expected in places of worship, so consider wearing attire that covers shoulders and knees.
+When visiting the Fatih-Moschee, it's advisable to bring along a few essential items. Comfortable walking shoes will be beneficial, especially if you plan to explore the surrounding area. Additionally, modest clothing is typically expected in places of worship, so consider wearing attire that covers shoulders and knees.
 
 Seasonal considerations may also play a role in your visit. Be sure to check the weather forecast for Werl to dress appropriately. If visiting in colder months, a warm jacket may be necessary, while summer visitors might appreciate lightweight clothing.
 
@@ -96,7 +96,7 @@ Information on guided tours is not specified. Check the official website for pot
 Weekdays or non-prayer times are generally the best for a tranquil visit, allowing for a more personal experience.
 
 ### Is it wheelchair accessible?
-Specific accessibility features are not mentioned. It’s best to contact the mosque directly for detailed information on accessibility.
+Specific accessibility features are not mentioned. It's best to contact the mosque directly for detailed information on accessibility.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases is not provided. Check the official website for the latest updates.

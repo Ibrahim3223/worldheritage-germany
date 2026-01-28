@@ -32,9 +32,9 @@ The significance of Grabmal Willy Merck extends beyond its physical presence; it
 
 ## History and Significance
 
-The legacy of Grabmal Willy Merck is intertwined with the history of Darmstadt itself, a city known for its rich cultural and artistic heritage. While the specific details surrounding the establishment of this tomb may not be documented in abundance, it stands as a representation of the era’s architectural styles and funerary practices. The tomb serves as a testament to the memory of Willy Merck, whose life and contributions remain significant to the local community.
+The legacy of Grabmal Willy Merck is intertwined with the history of Darmstadt itself, a city known for its rich cultural and artistic heritage. While the specific details surrounding the establishment of this tomb may not be documented in abundance, it stands as a representation of the era's architectural styles and funerary practices. The tomb serves as a testament to the memory of Willy Merck, whose life and contributions remain significant to the local community.
 
-In German culture, tombs and memorials are vital aspects of commemorating lives and ensuring that memories endure beyond death. They encapsulate not just the individual’s story but also reflect broader societal values regarding mortality, remembrance, and the passage of time. As such, Grabmal Willy Merck holds cultural importance, serving as a space for reflection for both locals and visitors alike. 
+In German culture, tombs and memorials are vital aspects of commemorating lives and ensuring that memories endure beyond death. They encapsulate not just the individual's story but also reflect broader societal values regarding mortality, remembrance, and the passage of time. As such, Grabmal Willy Merck holds cultural importance, serving as a space for reflection for both locals and visitors alike. 
 
 The site attracts those who are interested in understanding how the past continues to influence the present. It encourages contemplation on themes such as legacy, loss, and the ways in which communities honor their deceased. The tomb exemplifies the enduring human desire to remember and celebrate lives well-lived, making it a poignant site of reflection in Darmstadt.
 

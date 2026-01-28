@@ -50,7 +50,7 @@ The park is designed to accommodate various activities, from peaceful strolls to
 
 Alter Kurpark is easily accessible for visitors, with transport options available from various points in Bad Soden am Taunus. The park is situated within a short walking distance from the town center, making it a convenient destination for both locals and tourists. For those traveling from further afield, public transport options are available, providing easy access to this tranquil oasis.
 
-When planning your visit, it’s advisable to check the official website for current information regarding hours of operation and any potential admission fees. The experience of wandering through the park can vary seasonally, with each time of year offering its unique charm and flora. Visitors typically find that spending a few hours in the park allows them to fully appreciate its beauty and engage with the peaceful surroundings.
+When planning your visit, it's advisable to check the official website for current information regarding hours of operation and any potential admission fees. The experience of wandering through the park can vary seasonally, with each time of year offering its unique charm and flora. Visitors typically find that spending a few hours in the park allows them to fully appreciate its beauty and engage with the peaceful surroundings.
 
 The best times to visit Alter Kurpark are during the spring and summer months when the gardens are in full bloom, and the weather is conducive to outdoor activities. Autumn also offers a picturesque experience, as the foliage transforms into a palette of vibrant colors. Regardless of when you visit, the park provides a refreshing break from the hustle and bustle of everyday life.
 

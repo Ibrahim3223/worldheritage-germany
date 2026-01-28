@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Dinotherium-Museum in Eppelsheim, Germany, offers a unique glimpse into the prehistoric world through the lens of one of its most fascinating creatures: the dinotherium. With a focus on both education and preservation, this museum provides an informative experience that attracts visitors interested in paleontology and natural history. Eppelsheim, a quaint village located in the Rhineland-Palatinate region, serves as an ideal backdrop for this exploration of ancient life. The museum’s commitment to showcasing the dinotherium, a prehistoric relative of modern elephants, highlights its significance in understanding evolutionary biology.
+The Dinotherium-Museum in Eppelsheim, Germany, offers a unique glimpse into the prehistoric world through the lens of one of its most fascinating creatures: the dinotherium. With a focus on both education and preservation, this museum provides an informative experience that attracts visitors interested in paleontology and natural history. Eppelsheim, a quaint village located in the Rhineland-Palatinate region, serves as an ideal backdrop for this exploration of ancient life. The museum's commitment to showcasing the dinotherium, a prehistoric relative of modern elephants, highlights its significance in understanding evolutionary biology.
 
 Visitors to the Dinotherium-Museum can expect an engaging atmosphere filled with exhibits that delve into the life and times of this remarkable animal. The museum stands as a significant cultural institution, inviting both locals and tourists to appreciate the wonders of the ancient world. With its educational programs and unique exhibits, it promises to be an enriching experience for all ages.
 
@@ -103,7 +103,7 @@ Check the official website for information on guided tours, as they may be avail
 Weekdays are generally less crowded, making them ideal for a more leisurely experience. Early mornings or late afternoons may also be good times to avoid larger groups.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, check the museum’s official website to ensure accommodations are available for all visitors.
+For specific accessibility information, check the museum's official website to ensure accommodations are available for all visitors.
 
 ### Can I buy tickets online?
 Visit the official website for the latest updates regarding ticket purchasing options.

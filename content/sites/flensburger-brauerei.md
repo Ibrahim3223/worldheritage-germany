@@ -42,7 +42,7 @@ Beyond its economic impact, Flensburger Brauerei serves as a gathering place for
 
 Flensburger Brauerei features architecture that reflects its functional purpose while also embracing elements of local design. The layout of the brewery is practical, designed for efficiency in beer production, but visitors will also notice aesthetic touches that harmonize with the surrounding environment. The buildings are structured to facilitate the brewing process, with various sections designated for fermentation, bottling, and storage. 
 
-The brewery's design allows for an open and inviting atmosphere, encouraging engagement with visitors. Inside, guests can expect to find a combination of modern brewing technology alongside traditional methods, showcasing the brewery’s dedication to quality and innovation. The interior spaces are often decorated with memorabilia and historical artifacts that narrate the story of Flensburger Brauerei, enriching the visitor experience.
+The brewery's design allows for an open and inviting atmosphere, encouraging engagement with visitors. Inside, guests can expect to find a combination of modern brewing technology alongside traditional methods, showcasing the brewery's dedication to quality and innovation. The interior spaces are often decorated with memorabilia and historical artifacts that narrate the story of Flensburger Brauerei, enriching the visitor experience.
 
 While specific architectural details may not be highlighted, the brewery's functionality and welcoming atmosphere create an inviting environment for exploration. Visitors can wander through different areas, gaining insight into the brewing process and the craftsmanship that goes into each batch of beer produced. 
 

@@ -92,7 +92,7 @@ Before heading to the Beeckerwerth coal mine, keep in mind the following practic
 While the duration of your visit may vary, planning for a few hours allows ample time to explore the site and appreciate its significance.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s best to check for any specific restrictions when you arrive.
+Photography is typically permitted, but it's best to check for any specific restrictions when you arrive.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special events that may be available during your visit.
@@ -112,4 +112,4 @@ Facilities such as restrooms and cafes should be confirmed through the official 
 ### What should I wear?
 Dress comfortably and consider the weather conditions for your visit, opting for layers that can be adjusted as needed.
 
-Exploring the Beeckerwerth coal mine offers a unique glimpse into Germany’s industrial past, making it a compelling destination for those interested in heritage and history. As you navigate the site, take a moment to reflect on the stories and lives intertwined with this significant landmark.
+Exploring the Beeckerwerth coal mine offers a unique glimpse into Germany's industrial past, making it a compelling destination for those interested in heritage and history. As you navigate the site, take a moment to reflect on the stories and lives intertwined with this significant landmark.

@@ -78,7 +78,7 @@ Engaging with staff or volunteers can enhance your visit, as they often have val
 
 When planning your visit to Orgelzentrum Valley, be sure to bring comfortable walking shoes, as exploring the museum can involve a fair amount of walking. Seasonal considerations may affect your experience, so check the local weather forecast ahead of time.
 
-It’s wise to bring a water bottle to stay hydrated during your visit. If you plan to spend an extended time, consider packing a light snack, as amenities may vary. 
+It's wise to bring a water bottle to stay hydrated during your visit. If you plan to spend an extended time, consider packing a light snack, as amenities may vary. 
 
 ## Frequently Asked Questions
 
@@ -95,7 +95,7 @@ Guided tours may be available or can be arranged. Check the official website for
 To avoid crowds, consider visiting during weekdays. Check the official website for any special events that might enhance your experience.
 
 ### Is it wheelchair accessible?
-Accessibility options are typically provided at museums. It’s best to consult the official website for specific details regarding accessibility features.
+Accessibility options are typically provided at museums. It's best to consult the official website for specific details regarding accessibility features.
 
 ### Can I buy tickets online?
 Ticketing options may be available online. For the latest information, visit the official website.

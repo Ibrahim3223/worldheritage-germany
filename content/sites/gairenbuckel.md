@@ -76,11 +76,11 @@ If you're looking to extend your visit, consider bringing a sketchbook or journa
 
 ## Practical Information
 
-When visiting Gairenbuckel, it’s advisable to wear sturdy footwear suitable for hiking, as the terrain can vary from smooth paths to rocky sections. Depending on the season, layering your clothing can help you adapt to changing weather conditions.
+When visiting Gairenbuckel, it's advisable to wear sturdy footwear suitable for hiking, as the terrain can vary from smooth paths to rocky sections. Depending on the season, layering your clothing can help you adapt to changing weather conditions.
 
 In terms of seasonal considerations, spring and fall are generally the most pleasant times to visit. If you plan to visit during winter, ensure that you check local weather conditions, as snow may impact accessibility.
 
-Always bring sufficient water and snacks. A small backpack can be helpful for carrying your essentials, and don’t forget your camera or smartphone to capture the stunning scenery.
+Always bring sufficient water and snacks. A small backpack can be helpful for carrying your essentials, and don't forget your camera or smartphone to capture the stunning scenery.
 
 ## Frequently Asked Questions
 

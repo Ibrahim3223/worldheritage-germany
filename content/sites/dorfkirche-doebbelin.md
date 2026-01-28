@@ -52,7 +52,7 @@ The exterior of the church may showcase traditional elements such as a sturdy fa
 
 Visiting Dorfkirche Döbbelin offers a chance to immerse oneself in the local culture and spirituality of the area. For travelers planning their visit, knowing how to get there is essential. The church is situated in the village of Döbbelin, which is accessible by road. Public transport options may be limited, so checking local transportation schedules or considering driving is advisable.
 
-When planning your visit, it’s essential to check the official website for current information regarding hours of operation and any potential admission fees. Depending on the time of year, the church may have varying hours of accessibility, so confirming this in advance ensures a smooth visit.
+When planning your visit, it's essential to check the official website for current information regarding hours of operation and any potential admission fees. Depending on the time of year, the church may have varying hours of accessibility, so confirming this in advance ensures a smooth visit.
 
 Expect to spend around an hour exploring the church and its surroundings. This allows time to appreciate the architecture, reflect on its significance, and perhaps engage with any local community members who may be present. The best times to visit are typically during daylight hours, which provide ample natural light for viewing the church's interior and exterior features.
 

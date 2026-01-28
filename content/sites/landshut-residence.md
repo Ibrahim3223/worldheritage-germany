@@ -60,7 +60,7 @@ Typically, visitors can expect to spend a few hours exploring the extensive grou
 
 The best times to visit the Landshut Residence are during the spring and early autumn when the weather is pleasant and conducive to exploration. These seasons also tend to attract fewer crowds, allowing for a more intimate experience as you wander through the palace.
 
-Be prepared for a variety of experiences, from guided tours to self-exploration, each designed to enhance your understanding of the site’s historical and cultural significance. Whether you are a history buff, an architecture enthusiast, or simply looking for a unique experience, the Landshut Residence promises a memorable visit.
+Be prepared for a variety of experiences, from guided tours to self-exploration, each designed to enhance your understanding of the site's historical and cultural significance. Whether you are a history buff, an architecture enthusiast, or simply looking for a unique experience, the Landshut Residence promises a memorable visit.
 
 ## Nearby Attractions
 

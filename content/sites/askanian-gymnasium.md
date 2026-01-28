@@ -95,13 +95,13 @@ Information about guided tours may not be readily available. Check the official 
 Visiting during regular school hours can provide a vibrant atmosphere, but also consider quieter times for a more reflective experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s advisable to contact the school directly or check their website for information regarding facilities.
+Accessibility details are not specified. It's advisable to contact the school directly or check their website for information regarding facilities.
 
 ### Can I buy tickets online?
 Details regarding ticket purchases are not provided. Please check the official website for current information on admissions.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafes are typically part of educational buildings, but it’s best to verify their availability on the official website.
+Amenities such as restrooms and cafes are typically part of educational buildings, but it's best to verify their availability on the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season. Consider the activities planned during your visit, whether exploring the school or the surrounding area.

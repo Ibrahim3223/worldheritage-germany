@@ -32,7 +32,7 @@ As you explore the grounds of Alter Friedhof Bonn, you will encounter a variety 
 
 ## History and Significance
 
-The history of Alter Friedhof Bonn is intertwined with the development of Bonn as a significant cultural and political center in Germany. While specific founding dates and events may not be documented, the cemetery has long served as a vital component of the city’s heritage. It has been the final resting place for some of Bonn’s most prominent residents, including politicians, artists, and intellectuals, reflecting the city’s role as a hub of cultural and academic life.
+The history of Alter Friedhof Bonn is intertwined with the development of Bonn as a significant cultural and political center in Germany. While specific founding dates and events may not be documented, the cemetery has long served as a vital component of the city's heritage. It has been the final resting place for some of Bonn's most prominent residents, including politicians, artists, and intellectuals, reflecting the city's role as a hub of cultural and academic life.
 
 Throughout the years, the cemetery has evolved, with various sections dedicated to different groups, including notable citizens and those who contributed to the city's history. The significance of Alter Friedhof Bonn extends beyond its role as a burial ground; it is a space that encapsulates the stories of individuals who have shaped the region's identity. The graves and memorials serve as poignant reminders of the past, providing insight into the lives and legacies of those interred within its grounds.
 
@@ -93,7 +93,7 @@ A visit typically takes about 1-2 hours, allowing ample time to explore the grav
 Yes, photography is permitted, but visitors should be mindful of the respectful atmosphere of the cemetery.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, if available, to enhance your understanding of the site’s history.
+Check the official website for information regarding guided tours, if available, to enhance your understanding of the site's history.
 
 ### What's the best time to visit?
 The best times to visit are during spring and autumn when the climate is pleasant and the natural scenery is particularly vibrant.

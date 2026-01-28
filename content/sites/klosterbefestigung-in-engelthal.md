@@ -60,7 +60,7 @@ Engelthal is surrounded by several attractions that complement a visit to the Kl
 
 1. **Engelthal Monastery**: This historic site, closely associated with the fortification, offers further insight into the monastic traditions of the region.
    
-2. **Nuremberg Castle**: Located a short drive away, this iconic landmark provides a deeper understanding of the region’s fortified architecture and historical significance.
+2. **Nuremberg Castle**: Located a short drive away, this iconic landmark provides a deeper understanding of the region's fortified architecture and historical significance.
    
 3. **Auerbach Castle**: A well-preserved fortress that showcases the architectural styles of the time and offers panoramic views of the surrounding countryside.
 
@@ -76,7 +76,7 @@ To avoid potential crowds, aim to visit during weekdays or outside of peak touri
 
 ## Practical Information
 
-Before visiting the Klosterbefestigung, it’s advisable to bring along essentials such as comfortable walking shoes, water, and perhaps a light snack, as amenities may be limited at the site. Seasonal considerations are important, as weather conditions can vary significantly. It is wise to check the forecast and dress accordingly, especially during colder months.
+Before visiting the Klosterbefestigung, it's advisable to bring along essentials such as comfortable walking shoes, water, and perhaps a light snack, as amenities may be limited at the site. Seasonal considerations are important, as weather conditions can vary significantly. It is wise to check the forecast and dress accordingly, especially during colder months.
 
 Visitors should also be mindful of local customs and regulations when exploring the site. Respecting the integrity of historical structures is crucial, so be sure to follow any guidelines provided during your visit.
 
@@ -95,7 +95,7 @@ Check the official website for current information regarding guided tours, as av
 The best time to visit may depend on personal preference, but weekdays or off-peak seasons often provide a quieter experience.
 
 ### Is it wheelchair accessible?
-Information about accessibility can vary; it’s best to check the official website for specific details regarding wheelchair access at the site.
+Information about accessibility can vary; it's best to check the official website for specific details regarding wheelchair access at the site.
 
 ### Can I buy tickets online?
 For information about ticket purchasing options, including online availability, please check the official website.

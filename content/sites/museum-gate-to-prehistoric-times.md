@@ -62,9 +62,9 @@ Exploring the area surrounding the Museum Gate to Prehistoric Times can enhance 
 
 3. **Church of Our Lady**: Not far from the museum, this historic church features stunning architecture and houses notable art, including a sculpture by Michelangelo.
 
-4. **Groeningemuseum**: An art museum showcasing a collection of Flemish Primitives and other significant artworks, perfect for those interested in the region’s artistic heritage.
+4. **Groeningemuseum**: An art museum showcasing a collection of Flemish Primitives and other significant artworks, perfect for those interested in the region's artistic heritage.
 
-5. **Canal Tours**: Experience Brügge from the water with a canal tour, providing a unique perspective on the city’s architecture and history.
+5. **Canal Tours**: Experience Brügge from the water with a canal tour, providing a unique perspective on the city's architecture and history.
 
 ## Insider Tips
 

@@ -34,7 +34,7 @@ While the museum is an important educational hub, it also serves as a gathering 
 
 The Volkskundemuseum's history is intertwined with the cultural evolution of the Schönberg region. Established to safeguard and highlight the local traditions, the museum plays a crucial role in fostering an appreciation for ethnological studies. Through its collections, it offers a lens into the customs, crafts, and daily life of the people, revealing how historical contexts have influenced contemporary practices.
 
-The museum’s significance extends beyond mere preservation; it actively engages in educational programs, workshops, and community events that reinforce the importance of cultural heritage. By providing a platform for both historical artifacts and living traditions, the Volkskundemuseum serves as a bridge connecting the past with the present. Visitors not only observe but also participate in cultural experiences, enhancing their understanding of the region's history.
+The museum's significance extends beyond mere preservation; it actively engages in educational programs, workshops, and community events that reinforce the importance of cultural heritage. By providing a platform for both historical artifacts and living traditions, the Volkskundemuseum serves as a bridge connecting the past with the present. Visitors not only observe but also participate in cultural experiences, enhancing their understanding of the region's history.
 
 This institution stands as a vital resource for researchers, students, and anyone interested in the rich tapestry of German folk culture. The Volkskundemuseum is a place where narratives are shared, memories are preserved, and the legacy of the community is celebrated.
 
@@ -62,7 +62,7 @@ While the Volkskundemuseum is a highlight in Schönberg, the surrounding area of
 
 1. **Local Markets**: Experience the vibrant local culture by visiting nearby markets where artisans display their crafts and local produce.
 
-2. **Historic Sites**: Explore other historical landmarks in Schönberg that provide context to the region’s development and heritage.
+2. **Historic Sites**: Explore other historical landmarks in Schönberg that provide context to the region's development and heritage.
 
 3. **Nature Trails**: Enjoy the natural beauty of the surrounding countryside by taking a walk along designated nature trails, which showcase local flora and fauna.
 
@@ -74,7 +74,7 @@ While the Volkskundemuseum is a highlight in Schönberg, the surrounding area of
 
 To make the most of your visit to the Volkskundemuseum, consider the following tips:
 
-- **Photography**: If you’re keen on capturing memories, check the museum's policy on photography. Some exhibits may have restrictions, so be respectful of the guidelines.
+- **Photography**: If you're keen on capturing memories, check the museum's policy on photography. Some exhibits may have restrictions, so be respectful of the guidelines.
 
 - **Timing Your Visit**: Arrive early in the day to avoid crowds, especially on weekends or during school holidays when the museum might be busier.
 

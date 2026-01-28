@@ -50,7 +50,7 @@ Visiting Schelf Church offers an opportunity to connect with both history and sp
 
 Expect to spend anywhere from an hour to several hours at the church, depending on your interest in exploring the architectural features and absorbing the ambiance. The best times to visit may be during quieter hours when you can enjoy the church's interior without distractions. 
 
-Before heading out, consider looking up local transportation options, including public transit or parking facilities, to ensure a smooth visit. Keep in mind that special events or services may affect accessibility, so it’s wise to review the schedule in advance.
+Before heading out, consider looking up local transportation options, including public transit or parking facilities, to ensure a smooth visit. Keep in mind that special events or services may affect accessibility, so it's wise to review the schedule in advance.
 
 ## Nearby Attractions
 
@@ -68,7 +68,7 @@ These attractions complement your visit to Schelf Church, enriching your overall
 
 To make the most of your visit to Schelf Church, consider these insider tips:
 
-- **Photography**: While photography may be allowed inside the church, it’s respectful to check for any specific restrictions or guidelines. Early mornings or late afternoons can provide optimal lighting for capturing the church's architectural features without the interference of crowds.
+- **Photography**: While photography may be allowed inside the church, it's respectful to check for any specific restrictions or guidelines. Early mornings or late afternoons can provide optimal lighting for capturing the church's architectural features without the interference of crowds.
   
 - **Crowd Avoidance**: If you prefer a quieter experience, try to visit during weekdays or outside of major religious holidays, when the church is likely to be less crowded.
 

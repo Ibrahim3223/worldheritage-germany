@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the quiet outskirts of Hamburg, Germany, the Neuengamme Concentration Camp Memorial stands as an essential site of remembrance, reflection, and education. Established on the grounds of a former Nazi concentration camp, this memorial serves as a poignant reminder of the atrocities committed during one of history’s darkest periods. Visitors are encouraged to explore the site not only to honor the memory of the victims but also to engage with the broader narratives of human rights, tolerance, and the importance of historical awareness. The memorial invites a deep engagement with the past, providing insights into the lives of those who suffered under the brutal regime.
+In the quiet outskirts of Hamburg, Germany, the Neuengamme Concentration Camp Memorial stands as an essential site of remembrance, reflection, and education. Established on the grounds of a former Nazi concentration camp, this memorial serves as a poignant reminder of the atrocities committed during one of history's darkest periods. Visitors are encouraged to explore the site not only to honor the memory of the victims but also to engage with the broader narratives of human rights, tolerance, and the importance of historical awareness. The memorial invites a deep engagement with the past, providing insights into the lives of those who suffered under the brutal regime.
 
 The Neuengamme Memorial is more than just a historical site; it is a place that fosters dialogue about the implications of intolerance and the need for vigilance in protecting human rights. As you walk through the grounds, you are met with stark reminders of suffering and resilience, compelling visitors to confront the uncomfortable truths of history. This memorial is a crucial stop for anyone interested in understanding the complexities of the Holocaust, the impact of totalitarianism, and the ongoing quest for justice and reconciliation.
 
@@ -66,7 +66,7 @@ While the Neuengamme Concentration Camp Memorial is a site of solemn reflection,
 
 To enhance your visit to the Neuengamme Concentration Camp Memorial, consider the following insider tips:
 
-- **Photography**: Be respectful when taking photographs. While the memorial allows photography, it’s important to be mindful of the sensitive nature of the site.
+- **Photography**: Be respectful when taking photographs. While the memorial allows photography, it's important to be mindful of the sensitive nature of the site.
   
 - **Crowd Avoidance**: If possible, visit during the week rather than on weekends to avoid larger crowds. Early mornings can also be a quieter time to experience the memorial.
 

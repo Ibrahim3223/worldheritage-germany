@@ -78,7 +78,7 @@ If you have a particular interest in contemporary art, look for any special exhi
 
 ## Practical Information
 
-When preparing for your visit, it’s advisable to bring a notebook or sketchpad if you enjoy jotting down thoughts or artistic inspirations. Comfortable walking shoes are recommended, as you may spend considerable time exploring the galleries and nearby attractions.
+When preparing for your visit, it's advisable to bring a notebook or sketchpad if you enjoy jotting down thoughts or artistic inspirations. Comfortable walking shoes are recommended, as you may spend considerable time exploring the galleries and nearby attractions.
 
 Seasonal considerations can also influence your visit. During the summer months, you might enjoy the extended daylight hours, while winter visits could provide a cozy atmosphere to appreciate the art indoors. 
 

@@ -36,7 +36,7 @@ Salam Mosque was established in response to the growing Muslim population in Ise
 
 The mosque is significant not only for its religious functions but also as a symbol of multiculturalism in Germany. In a country where the Muslim community is often discussed in terms of integration and diversity, Salam Mosque stands as an important site for dialogue and understanding. It serves as a focal point for cultural exchange, allowing individuals from different backgrounds to learn about Islamic traditions and practices.
 
-Moreover, Salam Mosque contributes to the broader conversation about religious tolerance and coexistence in contemporary society. By hosting interfaith events and open days, it encourages engagement between Muslims and non-Muslims, fostering a spirit of unity and respect. The mosque’s presence in Iserlohn emphasizes the importance of community cohesion and the value of embracing diversity.
+Moreover, Salam Mosque contributes to the broader conversation about religious tolerance and coexistence in contemporary society. By hosting interfaith events and open days, it encourages engagement between Muslims and non-Muslims, fostering a spirit of unity and respect. The mosque's presence in Iserlohn emphasizes the importance of community cohesion and the value of embracing diversity.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Salam Mosque features architectural elements that reflect Islamic design, charac
 
 The prayer hall is the heart of the mosque, designed to accommodate worshippers during prayer times. It often includes decorative motifs and calligraphy that convey religious messages and enhance the spiritual atmosphere. Visitors can expect to see a welcoming space that invites reflection and connection with the divine.
 
-Additionally, the mosque may feature areas for educational activities, community gatherings, and social services, demonstrating its role beyond a mere place of worship. The layout and facilities are designed to support a vibrant community life, reflecting the mosque’s commitment to serving its congregation and the wider community in Iserlohn.
+Additionally, the mosque may feature areas for educational activities, community gatherings, and social services, demonstrating its role beyond a mere place of worship. The layout and facilities are designed to support a vibrant community life, reflecting the mosque's commitment to serving its congregation and the wider community in Iserlohn.
 
 ## Visiting Information
 
@@ -61,7 +61,7 @@ While visiting Salam Mosque, take the opportunity to explore nearby attractions 
 1. **Iserlohn City Park** - A scenic area perfect for leisurely walks and picnics, providing a peaceful escape in the heart of the city.
 2. **Dechen Cave and Cave Museum** - A fascinating natural attraction featuring impressive stalactite formations and an educational museum about the caves' geology and history.
 3. **Iserlohn Museum** - This local museum showcases the history of Iserlohn, including its industrial past and cultural heritage.
-4. **The Old Town** - Wander through the charming streets of Iserlohn’s historic center, where you can find quaint shops, cafes, and traditional architecture.
+4. **The Old Town** - Wander through the charming streets of Iserlohn's historic center, where you can find quaint shops, cafes, and traditional architecture.
 5. **Seilersee** - A picturesque lake offering recreational opportunities such as walking, cycling, and boating, ideal for a relaxing day outdoors.
 
 ## Insider Tips
@@ -97,7 +97,7 @@ Consult the official website for details on accessibility features within the mo
 For information about any potential admission fees or ticketing options, check the official website.
 
 ### Are there restrooms and cafes?
-Restroom availability and nearby cafe options can vary; it’s advisable to check the official website or inquire upon arrival for the most accurate information.
+Restroom availability and nearby cafe options can vary; it's advisable to check the official website or inquire upon arrival for the most accurate information.
 
 ### What should I wear?
 Dress modestly, covering shoulders and knees, to respect the mosque's cultural and religious practices.

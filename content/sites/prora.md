@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Prora, located on the northeastern coast of Germany, is an extraordinary architectural ensemble that tells a story of ambition, ideology, and resilience. This vast complex, situated in Binz on the island of Rügen, was originally conceived as a leisure facility for the Nazi regime’s Strength Through Joy program in the 1930s. With its sweeping beachfront and imposing design, Prora reflects the social and political aspirations of its time. Today, it stands as a multifaceted site that invites exploration, offering insights into Germany's complex history and the evolution of its architectural styles.
+Prora, located on the northeastern coast of Germany, is an extraordinary architectural ensemble that tells a story of ambition, ideology, and resilience. This vast complex, situated in Binz on the island of Rügen, was originally conceived as a leisure facility for the Nazi regime's Strength Through Joy program in the 1930s. With its sweeping beachfront and imposing design, Prora reflects the social and political aspirations of its time. Today, it stands as a multifaceted site that invites exploration, offering insights into Germany's complex history and the evolution of its architectural styles.
 
 As you approach Prora, the sheer scale of the structure becomes apparent. Stretching over 4.5 kilometers along the coastline, the site is a remarkable example of 20th-century architecture. Its significance extends beyond mere aesthetics, serving as a reminder of the past while also evolving into a space for cultural and recreational activities. Visitors to Prora can expect a blend of historical reflection and contemporary use, making it a unique destination for those interested in both heritage and the future of communal spaces.
 
@@ -36,11 +36,11 @@ The history of Prora is deeply intertwined with the socio-political climate of G
 
 Throughout the war, the unfinished buildings were repurposed for military use, and after the war, the site underwent a series of transformations. In the years following the reunification of Germany, Prora evolved from a relic of the past into a vibrant space for cultural events, exhibitions, and community activities. Today, it serves as both a historical monument and a contemporary gathering place, symbolizing the resilience of the human spirit in the face of adversity.
 
-Prora’s significance extends beyond its physical structure. It serves as a focal point for discussions about memory, architecture, and the role of public spaces in society. The complex has become a canvas for artistic expression, hosting various events that engage with its complex history while addressing contemporary themes. By visiting Prora, guests not only explore its architectural grandeur but also reflect on the broader narratives that shaped the nation.
+Prora's significance extends beyond its physical structure. It serves as a focal point for discussions about memory, architecture, and the role of public spaces in society. The complex has become a canvas for artistic expression, hosting various events that engage with its complex history while addressing contemporary themes. By visiting Prora, guests not only explore its architectural grandeur but also reflect on the broader narratives that shaped the nation.
 
 ## Architecture and Features
 
-Prora is an architectural ensemble characterized by its monumental scale and functional design. The complex consists of eight long, rectangular blocks, each designed to house a large number of vacationers. The buildings are primarily constructed from reinforced concrete, a material that was both cost-effective and durable, aligning with the era’s architectural trends.
+Prora is an architectural ensemble characterized by its monumental scale and functional design. The complex consists of eight long, rectangular blocks, each designed to house a large number of vacationers. The buildings are primarily constructed from reinforced concrete, a material that was both cost-effective and durable, aligning with the era's architectural trends.
 
 One of the most notable features of Prora is its linear layout, which runs parallel to the coastline, providing stunning views of the Baltic Sea. The design emphasizes continuity and connection, allowing guests to navigate the space easily while enjoying the natural beauty surrounding them. The façade of the buildings is marked by large, repetitive windows, which were intended to maximize natural light and create a sense of openness.
 
@@ -52,7 +52,7 @@ The overall architectural style of Prora reflects the functionalist principles o
 
 Reaching Prora is relatively straightforward, with various transport options available. Trains and buses connect Binz to major cities in Germany, and once in Binz, local transport can take you directly to the site. The area is also accessible by car, with parking facilities nearby.
 
-When planning your visit, it’s advisable to check the official website for current information regarding hours of operation and admission prices, as these can vary throughout the year. The site typically offers a range of experiences, including exhibitions, guided tours, and events, allowing visitors to engage with the history of Prora in a meaningful way.
+When planning your visit, it's advisable to check the official website for current information regarding hours of operation and admission prices, as these can vary throughout the year. The site typically offers a range of experiences, including exhibitions, guided tours, and events, allowing visitors to engage with the history of Prora in a meaningful way.
 
 Expect to spend a few hours at Prora to fully appreciate its vastness and historical significance. The best times to visit are during the spring and summer months, when the weather is more accommodating for exploring the outdoor spaces and enjoying the nearby beach.
 

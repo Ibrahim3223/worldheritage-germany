@@ -115,7 +115,7 @@ Photography policies may vary, so check for any restrictions upon entry. Capturi
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history and significance of the museum. Check the official website for details and scheduling.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 The best times to visit are during the spring and autumn months when the weather is pleasant, and crowds are typically smaller.
 
 ### Is it wheelchair accessible?

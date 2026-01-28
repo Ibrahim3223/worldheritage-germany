@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Brunnen der Völkerfreundschaft, or the Fountain of Friendship of Peoples, is a striking urban feature located in the vibrant Alexanderplatz area of Berlin, Germany. This fountain serves not only as a refreshing visual element but also as a symbol of unity and peace among nations. Situated in Bezirk Mitte, it draws both locals and visitors alike, providing a focal point in a bustling city known for its rich history and cultural diversity. As you approach its flowing waters and intricate designs, you can’t help but feel the spirit of camaraderie that this monument represents.
+The Brunnen der Völkerfreundschaft, or the Fountain of Friendship of Peoples, is a striking urban feature located in the vibrant Alexanderplatz area of Berlin, Germany. This fountain serves not only as a refreshing visual element but also as a symbol of unity and peace among nations. Situated in Bezirk Mitte, it draws both locals and visitors alike, providing a focal point in a bustling city known for its rich history and cultural diversity. As you approach its flowing waters and intricate designs, you can't help but feel the spirit of camaraderie that this monument represents.
 
 Positioned in one of Berlin's most notable public squares, the Brunnen der Völkerfreundschaft captures the essence of the city's commitment to harmony and collaboration. Its artistic design and central location make it an ideal spot for relaxation, reflection, and social interaction. Whether you're taking a leisurely stroll, enjoying a moment of tranquility, or snapping photos, the fountain offers a unique experience that encapsulates Berlin's modern ethos infused with historical significance.
 

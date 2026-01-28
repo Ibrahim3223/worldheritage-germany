@@ -66,7 +66,7 @@ Fette Henne is conveniently located near several other points of interest that e
 
 ## Insider Tips
 
-For photographers, Fette Henne presents a unique opportunity to capture the essence of Berlin’s urban life. Early morning or late afternoon lighting can add warmth to your photos, while fewer crowds enhance the experience. To avoid peak times, consider visiting during weekdays rather than weekends, when local events and gatherings may draw larger crowds to the area.
+For photographers, Fette Henne presents a unique opportunity to capture the essence of Berlin's urban life. Early morning or late afternoon lighting can add warmth to your photos, while fewer crowds enhance the experience. To avoid peak times, consider visiting during weekdays rather than weekends, when local events and gatherings may draw larger crowds to the area.
 
 Engage with local residents to gain insights into the history and culture surrounding the fountain. Many locals are eager to share their stories and experiences, which can add depth to your visit.
 

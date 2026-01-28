@@ -108,4 +108,4 @@ Facilities may be limited; it's advisable to check in advance for available amen
 ### What should I wear?
 Dress in layers, wear sturdy footwear, and prepare for changing weather conditions, especially in the mountains.
 
-The Riedberg Pass invites exploration and appreciation of Bavaria’s natural beauty, offering a unique blend of adventure, culture, and history in the heart of the Allgäu Alps.
+The Riedberg Pass invites exploration and appreciation of Bavaria's natural beauty, offering a unique blend of adventure, culture, and history in the heart of the Allgäu Alps.

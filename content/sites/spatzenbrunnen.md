@@ -48,7 +48,7 @@ As a focal point within Aachen-Mitte, the Spatzenbrunnen not only serves as a fu
 
 ## Visiting Information
 
-Getting to the Spatzenbrunnen is straightforward, given its central location in Aachen-Mitte. The area is well-served by public transportation options, including buses and trams, making it easily accessible for visitors. If you’re exploring on foot, the fountain is conveniently located near other attractions, allowing for a leisurely stroll through the city.
+Getting to the Spatzenbrunnen is straightforward, given its central location in Aachen-Mitte. The area is well-served by public transportation options, including buses and trams, making it easily accessible for visitors. If you're exploring on foot, the fountain is conveniently located near other attractions, allowing for a leisurely stroll through the city.
 
 Check the official website for current information regarding visiting hours and any potential entry fees. Generally, you can expect the fountain to be visible and accessible at all times, allowing you to enjoy its beauty at your convenience. 
 

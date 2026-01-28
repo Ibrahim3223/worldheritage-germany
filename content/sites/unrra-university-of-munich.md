@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The UNRRA University of Munich is a significant educational institution located in the vibrant city of Munich, Germany. Established as a focal point for international cooperation in higher education, it embodies the spirit of collaboration and innovation. This university is not only a hub for academic pursuit but also a reflection of Munich’s broader commitment to cultural and intellectual development. Its presence contributes to the rich educational landscape of the city, renowned for its blend of tradition and modernity.
+The UNRRA University of Munich is a significant educational institution located in the vibrant city of Munich, Germany. Established as a focal point for international cooperation in higher education, it embodies the spirit of collaboration and innovation. This university is not only a hub for academic pursuit but also a reflection of Munich's broader commitment to cultural and intellectual development. Its presence contributes to the rich educational landscape of the city, renowned for its blend of tradition and modernity.
 
-Munich, the capital of Bavaria, is famous for its historical landmarks, vibrant arts scene, and a strong focus on research and technology. The city is strategically positioned in southern Germany, making it a center for both local and international travel. The university’s significance extends beyond its academic programs; it serves as a platform for intercultural dialogue and the exchange of ideas, reinforcing Munich’s position as a global educational leader.
+Munich, the capital of Bavaria, is famous for its historical landmarks, vibrant arts scene, and a strong focus on research and technology. The city is strategically positioned in southern Germany, making it a center for both local and international travel. The university's significance extends beyond its academic programs; it serves as a platform for intercultural dialogue and the exchange of ideas, reinforcing Munich's position as a global educational leader.
 
 Visitors to the UNRRA University of Munich can expect an environment that encourages intellectual exploration and personal growth. The university not only invites students from various backgrounds but also fosters a community that values diversity and collaboration. This guide will delve into the history, architecture, and visitor information regarding this important institution, ensuring a comprehensive understanding of what the university offers.
 
@@ -30,9 +30,9 @@ Visitors to the UNRRA University of Munich can expect an environment that encour
 
 The UNRRA University of Munich has a layered history that reflects the changing tides of Europe in the 20th century. While specific dates and events are not detailed, the university's inception is linked to the post-World War II era, where it emerged as a response to the need for rebuilding and fostering international relations through education. This period was characterized by a collective desire to promote peace, cooperation, and understanding among nations, setting the foundation for the university's mission.
 
-As an educational institution, the university plays a crucial role in addressing contemporary global challenges. By emphasizing research and interdisciplinary studies, it contributes to significant advancements in various fields. The university’s commitment to international collaboration is evident in its diverse student body, which includes individuals from numerous countries, creating a multicultural environment that enriches the academic experience. This aspect of its identity not only enhances the educational offerings but also promotes a deeper understanding of global issues among students.
+As an educational institution, the university plays a crucial role in addressing contemporary global challenges. By emphasizing research and interdisciplinary studies, it contributes to significant advancements in various fields. The university's commitment to international collaboration is evident in its diverse student body, which includes individuals from numerous countries, creating a multicultural environment that enriches the academic experience. This aspect of its identity not only enhances the educational offerings but also promotes a deeper understanding of global issues among students.
 
-Furthermore, the university is a part of Munich’s broader cultural and intellectual heritage. The city itself has been a significant player in Germany's educational landscape, housing several prestigious institutions. The UNRRA University of Munich, with its unique focus and international orientation, complements this rich academic milieu, making it an essential component of the city's identity. As such, it holds cultural importance for both locals and international visitors who seek to engage with its educational initiatives.
+Furthermore, the university is a part of Munich's broader cultural and intellectual heritage. The city itself has been a significant player in Germany's educational landscape, housing several prestigious institutions. The UNRRA University of Munich, with its unique focus and international orientation, complements this rich academic milieu, making it an essential component of the city's identity. As such, it holds cultural importance for both locals and international visitors who seek to engage with its educational initiatives.
 
 ## Architecture and Features
 
@@ -94,7 +94,7 @@ Photography is typically allowed in most areas, but be mindful of any restrictio
 Check the official website for information on guided tours or events that may offer insights into the university's history and programs.
 
 ### What's the best time to visit?
-Weekdays during the academic year are ideal for experiencing the university’s vibrant atmosphere.
+Weekdays during the academic year are ideal for experiencing the university's vibrant atmosphere.
 
 ### Is it wheelchair accessible?
 The university is designed to be accessible, but checking specific accessibility options on the official website is recommended.
@@ -108,4 +108,4 @@ Facilities such as restrooms and cafes are available on campus, making it conven
 ### What should I wear?
 Dress comfortably, keeping in mind that you may be walking around the campus. Consider the weather when planning your outfit. 
 
-In conclusion, the UNRRA University of Munich stands as a significant institution within the city’s educational landscape, inviting visitors to engage with its mission of international cooperation and academic excellence. Whether you are a prospective student, a researcher, or a curious traveler, this university offers a unique perspective on the role of education in fostering global understanding.
+In conclusion, the UNRRA University of Munich stands as a significant institution within the city's educational landscape, inviting visitors to engage with its mission of international cooperation and academic excellence. Whether you are a prospective student, a researcher, or a curious traveler, this university offers a unique perspective on the role of education in fostering global understanding.

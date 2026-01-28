@@ -62,7 +62,7 @@ While Reitwein itself is a small village, several nearby attractions can enrich 
 
 2. **Schwedt**: A town located not far from Reitwein, Schwedt features historical sites, including the St. John's Church and the Schwedt Palace, which reflect the region's architectural heritage.
 
-3. **Neubrandenburger Tor**: Situated in nearby towns, this historic gate is a significant landmark that showcases medieval architecture and serves as a gateway to exploring the area’s history.
+3. **Neubrandenburger Tor**: Situated in nearby towns, this historic gate is a significant landmark that showcases medieval architecture and serves as a gateway to exploring the area's history.
 
 4. **Cottbus**: A little farther afield, Cottbus is known for its charming old town, cultural institutions, and parks, making it a worthwhile day trip for those interested in exploring more of Brandenburg.
 

@@ -22,7 +22,7 @@ images:
 
 The Museum der Stadt Rüsselsheim, located in the heart of Rüsselsheim am Main, Germany, serves as a significant cultural institution that reflects the local heritage and history of the region. This museum provides an insightful look into the city's past, showcasing its evolution from a small settlement to a modern urban center. The museum's collection offers a comprehensive narrative of Rüsselsheim's development, making it an interesting destination for history enthusiasts and casual visitors alike.
 
-Situated in a region known for its rich industrial heritage, the museum stands as a key player in preserving and promoting the cultural identity of Rüsselsheim. Visitors can expect a well-curated experience that highlights the city’s unique characteristics and contributions to the broader historical landscape of Germany. The museum not only offers exhibitions but also engages the community through various programs, ensuring that history remains relevant to contemporary audiences.
+Situated in a region known for its rich industrial heritage, the museum stands as a key player in preserving and promoting the cultural identity of Rüsselsheim. Visitors can expect a well-curated experience that highlights the city's unique characteristics and contributions to the broader historical landscape of Germany. The museum not only offers exhibitions but also engages the community through various programs, ensuring that history remains relevant to contemporary audiences.
 
 Whether you're a local resident or a traveler exploring the area, the Museum der Stadt Rüsselsheim promises an engaging experience, allowing you to delve into the stories that have shaped this vibrant city.
 
@@ -72,7 +72,7 @@ If you have an interest in specific topics, such as local history or industrial 
 
 ## Practical Information
 
-When preparing for your visit to the Museum der Stadt Rüsselsheim, it’s wise to bring comfortable walking shoes, as you may spend a considerable amount of time exploring various exhibits. Seasonal considerations may also play a role in your visit; for example, if you are visiting during colder months, dress accordingly to ensure a comfortable experience.
+When preparing for your visit to the Museum der Stadt Rüsselsheim, it's wise to bring comfortable walking shoes, as you may spend a considerable amount of time exploring various exhibits. Seasonal considerations may also play a role in your visit; for example, if you are visiting during colder months, dress accordingly to ensure a comfortable experience.
 
 Additionally, checking the official website for any specific requirements or recommendations, such as any temporary exhibitions or events, can enhance your overall experience. 
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Bahlburger Bruch is a nature reserve located in Lower Saxony, Germany, specifically in the region of Garstedt. This protected area showcases the region’s natural beauty and biodiversity, making it a significant ecological site. The reserve is home to various plant and animal species, contributing to the preservation of the local environment. Visitors to Bahlburger Bruch can expect a tranquil atmosphere where nature enthusiasts can engage in birdwatching, hiking, and appreciating the beauty of the landscape. 
+Bahlburger Bruch is a nature reserve located in Lower Saxony, Germany, specifically in the region of Garstedt. This protected area showcases the region's natural beauty and biodiversity, making it a significant ecological site. The reserve is home to various plant and animal species, contributing to the preservation of the local environment. Visitors to Bahlburger Bruch can expect a tranquil atmosphere where nature enthusiasts can engage in birdwatching, hiking, and appreciating the beauty of the landscape. 
 
 The site serves as an essential habitat for wildlife, emphasizing the importance of conservation in today's rapidly changing world. As urbanization encroaches on natural spaces, reserves like Bahlburger Bruch play a critical role in safeguarding ecosystems and providing a refuge for flora and fauna. With its rich biodiversity and serene setting, Bahlburger Bruch is a compelling destination for those seeking to connect with nature while supporting conservation efforts.
 
@@ -66,7 +66,7 @@ While visiting Bahlburger Bruch, several nearby attractions can enhance your exp
 
 4. **Nature Park Südheide**: This park encompasses a variety of ecosystems, offering visitors opportunities for hiking, cycling, and enjoying the great outdoors.
 
-5. **Museum Lüneburg**: Located in the heart of Lüneburg, this museum provides insights into the region’s history and culture, making it a worthwhile stop.
+5. **Museum Lüneburg**: Located in the heart of Lüneburg, this museum provides insights into the region's history and culture, making it a worthwhile stop.
 
 ## Insider Tips
 

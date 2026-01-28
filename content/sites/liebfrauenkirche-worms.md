@@ -28,7 +28,7 @@ image_srcset:
 
 The Liebfrauenkirche in Worms, Germany, is a striking church building that encapsulates centuries of religious devotion and architectural evolution. Situated in the heart of the historic city of Worms, this church is a significant landmark that reflects the intertwining of faith and culture in the region. Its importance extends beyond its religious functions, serving as a testament to the artistic and historical values of the community. 
 
-Worms, with its rich history dating back to Roman times, provides a vibrant backdrop to the Liebfrauenkirche. The church's presence enhances the city’s cultural landscape, inviting visitors to explore its storied past. As you approach this architectural marvel, you'll find a structure that not only serves as a place of worship but also as a symbol of resilience and continuity in a city that has witnessed numerous historical events. 
+Worms, with its rich history dating back to Roman times, provides a vibrant backdrop to the Liebfrauenkirche. The church's presence enhances the city's cultural landscape, inviting visitors to explore its storied past. As you approach this architectural marvel, you'll find a structure that not only serves as a place of worship but also as a symbol of resilience and continuity in a city that has witnessed numerous historical events. 
 
 Visiting the Liebfrauenkirche offers a promise of discovery, where one can immerse in the artistic details and spiritual ambiance of this revered space. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a moment of tranquility, the Liebfrauenkirche is a destination that invites exploration.
 
@@ -38,7 +38,7 @@ The Liebfrauenkirche is a significant landmark within the historical fabric of W
 
 The historical significance of Liebfrauenkirche is enhanced by its location in Worms, a city known for pivotal moments in German history. It has served as a backdrop for various events, contributing to the narrative of faith and resilience among its residents. This church has not only functioned as a place for individual reflection and communal worship but has also played a role in broader historical movements within the region.
 
-While specific dates and events may not be detailed, the church’s ongoing role in the community highlights its importance as a focal point for both religious practices and cultural gatherings. This connection to the community reinforces its standing as an integral part of the city's identity, symbolizing continuity amidst change.
+While specific dates and events may not be detailed, the church's ongoing role in the community highlights its importance as a focal point for both religious practices and cultural gatherings. This connection to the community reinforces its standing as an integral part of the city's identity, symbolizing continuity amidst change.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ For a more enriching experience, consider visiting during quieter times. Early m
 
 ## Nearby Attractions
 
-After exploring Liebfrauenkirche, visitors to Worms can take advantage of several nearby attractions that further highlight the city’s historical significance:
+After exploring Liebfrauenkirche, visitors to Worms can take advantage of several nearby attractions that further highlight the city's historical significance:
 
 1. **Worms Cathedral (Dom St. Peter)**: An impressive Romanesque structure that dominates the skyline, this cathedral is a must-visit for its architectural grandeur and historical relevance.
 

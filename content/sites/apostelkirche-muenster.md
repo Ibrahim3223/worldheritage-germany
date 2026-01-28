@@ -86,7 +86,7 @@ Seasonal considerations should also be taken into account; Münster experiences 
 A visit of about one hour is typically sufficient to appreciate Apostelkirche, though those interested in attending services may wish to stay longer.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any restrictions upon arrival.
+Photography policies can vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tour availability and schedules.
@@ -101,7 +101,7 @@ Accessibility features may be available, but it is recommended to check ahead fo
 Ticket purchasing options can vary, so consult the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to check local resources for the most accurate information.
+Facilities may be available nearby, but it's advisable to check local resources for the most accurate information.
 
 ### What should I wear?
 Visitors are encouraged to dress respectfully, particularly if attending a service, and to consider seasonal weather conditions.

@@ -34,9 +34,9 @@ The castle's historical significance extends beyond its walls; it exemplifies th
 
 New Castle's construction in 1490 marked a pivotal moment in the military history of Bavaria. Designed as a citadel of the Ingolstadt Fortress, the castle represented the shift in defensive architecture during a time when gunpowder weaponry began to change the face of warfare. Originally intended to protect the city from invasions and to serve as a stronghold for the Duke of Bavaria, New Castle played a significant role in the region's defense strategy.
 
-As a military installation, New Castle housed troops and stored armaments, reflecting the growing need for fortified structures in response to evolving warfare tactics. The castle’s strategic placement allowed for effective surveillance of the surrounding area, ensuring the safety of Ingolstadt and its inhabitants. Over the centuries, New Castle has witnessed numerous historical events and has been an integral part of the city’s development.
+As a military installation, New Castle housed troops and stored armaments, reflecting the growing need for fortified structures in response to evolving warfare tactics. The castle's strategic placement allowed for effective surveillance of the surrounding area, ensuring the safety of Ingolstadt and its inhabitants. Over the centuries, New Castle has witnessed numerous historical events and has been an integral part of the city's development.
 
-The significance of New Castle extends to its architectural features, which blend functionality with aesthetic appeal. As time passed, the castle adapted to meet the needs of its users, evolving from a purely military stronghold to a site that also catered to administrative and residential purposes. Today, it stands as a reminder of the region’s complex history and the role of military architecture in shaping the landscape of Bavaria.
+The significance of New Castle extends to its architectural features, which blend functionality with aesthetic appeal. As time passed, the castle adapted to meet the needs of its users, evolving from a purely military stronghold to a site that also catered to administrative and residential purposes. Today, it stands as a reminder of the region's complex history and the role of military architecture in shaping the landscape of Bavaria.
 
 ## Architecture and Features
 
@@ -70,15 +70,15 @@ As you explore the Ingolstadt area, several other attractions can enrich your ex
 
 ## Insider Tips
 
-For photography enthusiasts, New Castle presents numerous opportunities to capture its grandeur. The best angles can be found from the surrounding grounds, particularly during the golden hours of sunrise and sunset when the light casts a warm glow on the castle’s stone walls. 
+For photography enthusiasts, New Castle presents numerous opportunities to capture its grandeur. The best angles can be found from the surrounding grounds, particularly during the golden hours of sunrise and sunset when the light casts a warm glow on the castle's stone walls. 
 
 To avoid crowds, consider visiting on weekdays or during the early morning hours. This will allow for a more peaceful experience as you explore the castle and its surroundings.
 
 ## Practical Information
 
-When planning your visit to New Castle, it’s advisable to bring comfortable walking shoes, as the castle’s grounds and interior may require some exploration on foot. Depending on the season, layers are recommended, as temperatures can vary throughout the day.
+When planning your visit to New Castle, it's advisable to bring comfortable walking shoes, as the castle's grounds and interior may require some exploration on foot. Depending on the season, layers are recommended, as temperatures can vary throughout the day.
 
-Be mindful of local weather conditions, as rain can impact outdoor experiences. It’s also helpful to check the official website for any seasonal events or special exhibitions that may be taking place during your visit.
+Be mindful of local weather conditions, as rain can impact outdoor experiences. It's also helpful to check the official website for any seasonal events or special exhibitions that may be taking place during your visit.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Accessibility can vary, so it's best to consult the official website for informa
 Check the official website for options on purchasing tickets online and any available discounts.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available nearby. It’s advisable to check in advance for specifics on-site amenities.
+Facilities such as restrooms and cafes may be available nearby. It's advisable to check in advance for specifics on-site amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended for walking and exploring the castle grounds, while considering weather conditions for your visit.

@@ -60,7 +60,7 @@ In addition to the charm of Pfarrgarten Saxdorf, several nearby attractions enha
 
 1. **Uebigau Castle**: A historic site that reflects the architectural styles of its time, offering insights into the local history and culture.
 2. **Biosphere Reserve Flusslandschaft Elbe**: An expansive area dedicated to the preservation of diverse ecosystems, ideal for nature walks and wildlife observation.
-3. **St. Mary’s Church**: An architectural landmark in the area, known for its historical significance and beautiful interior.
+3. **St. Mary's Church**: An architectural landmark in the area, known for its historical significance and beautiful interior.
 4. **Schwielowsee**: A picturesque lake nearby, perfect for outdoor activities such as hiking, biking, or picnicking along the shores.
 
 ## Insider Tips
@@ -71,7 +71,7 @@ If you are looking for the perfect spot to rest or take photos, seek out seclude
 
 ## Practical Information
 
-When planning your visit to Pfarrgarten Saxdorf, it’s wise to bring along essentials such as comfortable walking shoes, a water bottle, and perhaps a small picnic if you wish to enjoy a meal in the serene environment. Seasonal considerations may also play a role in your experience; spring and summer usually offer pleasant weather, while fall showcases the changing leaves.
+When planning your visit to Pfarrgarten Saxdorf, it's wise to bring along essentials such as comfortable walking shoes, a water bottle, and perhaps a small picnic if you wish to enjoy a meal in the serene environment. Seasonal considerations may also play a role in your experience; spring and summer usually offer pleasant weather, while fall showcases the changing leaves.
 
 Check the official website for any specific recommendations regarding what to bring or any special events that might be happening during your visit.
 

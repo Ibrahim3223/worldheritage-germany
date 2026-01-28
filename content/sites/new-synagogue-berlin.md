@@ -3,7 +3,7 @@ title: "New Synagogue Berlin"
 site_name: "New Synagogue Berlin"
 date: 2026-01-26
 draft: false
-description: "The New Synagogue in Berlin serves as a poignant symbol of resilience and renewal, embodying the city’s complex Jewish heritage."
+description: "The New Synagogue in Berlin serves as a poignant symbol of resilience and renewal, embodying the city's complex Jewish heritage."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Synagogue"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The New Synagogue in Berlin serves as a poignant symbol of resilience and renewal, embodying the city’s complex Jewish heritage. Located in the Bezirk Mitte district, this architectural landmark is not only a place of worship but also a cultural center and a reminder of the vibrant Jewish community that once flourished in Berlin. Its significance extends beyond its religious functions; it has become a focal point for discussions on tolerance and understanding in contemporary society.
+The New Synagogue in Berlin serves as a poignant symbol of resilience and renewal, embodying the city's complex Jewish heritage. Located in the Bezirk Mitte district, this architectural landmark is not only a place of worship but also a cultural center and a reminder of the vibrant Jewish community that once flourished in Berlin. Its significance extends beyond its religious functions; it has become a focal point for discussions on tolerance and understanding in contemporary society.
 
 The New Synagogue was built in the 19th century, showcasing an eclectic mix of Moorish and Byzantine architectural styles that reflect the artistic trends of the time. Today, the synagogue attracts visitors from around the globe, eager to explore its majestic interiors and learn about the history of Jews in Berlin. The New Synagogue stands as a crucial site for both remembrance and education, promising visitors an enriching experience.
 
@@ -36,7 +36,7 @@ The New Synagogue was constructed in the mid-19th century, a period marked by si
 
 During the tumultuous years of the early 20th century and the rise of the Nazi regime, the New Synagogue faced immense challenges. On November 9, 1938, during Kristallnacht, the synagogue was vandalized and set on fire, leading to the destruction of many of its interior features. Although the building survived the war, it remained abandoned for decades, a silent witness to the atrocities that occurred during that era.
 
-In the late 20th century, efforts were made to restore the New Synagogue, which culminated in its reopening in 1995. Today, it stands not only as a place of worship but also as a cultural and educational institution, hosting exhibitions and events that promote understanding and dialogue about Jewish history and culture. The New Synagogue is a significant landmark, serving as a reminder of the resilience of the Jewish community in Berlin and their contributions to the city’s diverse heritage.
+In the late 20th century, efforts were made to restore the New Synagogue, which culminated in its reopening in 1995. Today, it stands not only as a place of worship but also as a cultural and educational institution, hosting exhibitions and events that promote understanding and dialogue about Jewish history and culture. The New Synagogue is a significant landmark, serving as a reminder of the resilience of the Jewish community in Berlin and their contributions to the city's diverse heritage.
 
 ## Architecture and Features
 

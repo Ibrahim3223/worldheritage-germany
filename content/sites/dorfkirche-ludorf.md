@@ -75,7 +75,7 @@ To enhance your visit to Dorfkirche Ludorf, consider these insider tips:
 When visiting Dorfkirche Ludorf, it's advisable to bring a few essentials:
 
 - **Comfortable Shoes**: As you explore the church and its surroundings, comfortable footwear will enhance your experience.
-- **Seasonal Considerations**: Check the weather forecast ahead of your visit to dress appropriately for the day’s conditions.
+- **Seasonal Considerations**: Check the weather forecast ahead of your visit to dress appropriately for the day's conditions.
 
 ## Frequently Asked Questions
 
@@ -83,7 +83,7 @@ When visiting Dorfkirche Ludorf, it's advisable to bring a few essentials:
 A visit of about one hour is generally sufficient to appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography may be permitted; however, it’s essential to be considerate of the sacred atmosphere and other visitors.
+Photography may be permitted; however, it's essential to be considerate of the sacred atmosphere and other visitors.
 
 ### Are there guided tours?
 Currently, there is no specific information on guided tours. Check the official website for updates.

@@ -28,7 +28,7 @@ The park's location in the heart of Halle (Saale) places it within easy reach of
 
 While specific historical details about Amtsgarten may be limited, the park plays an important role in the cultural fabric of Halle (Saale). Parks like Amtsgarten are vital for urban environments, providing residents and visitors with much-needed green spaces that promote mental well-being and community interaction.
 
-The park is part of a broader movement in many cities to incorporate nature into urban planning, reflecting a growing awareness of the importance of greenery in improving quality of life. In Halle, Amtsgarten serves as a reminder of the city’s dedication to creating spaces where people can gather, socialize, and connect with nature. These parks often host local events, festivals, or community gatherings, further enhancing their significance as communal hubs.
+The park is part of a broader movement in many cities to incorporate nature into urban planning, reflecting a growing awareness of the importance of greenery in improving quality of life. In Halle, Amtsgarten serves as a reminder of the city's dedication to creating spaces where people can gather, socialize, and connect with nature. These parks often host local events, festivals, or community gatherings, further enhancing their significance as communal hubs.
 
 The cultural importance of such parks cannot be overstated. They not only enhance the aesthetic appeal of a city but also foster a sense of community. In the case of Amtsgarten, it stands as an emblem of Halle's commitment to ensuring that residents have access to nature, leisure activities, and a space to relax amidst the urban hustle.
 
@@ -89,7 +89,7 @@ Currently, there are no specific guided tours of Amtsgarten; however, local tour
 Spring and summer offer vibrant scenery, while early mornings or late afternoons provide a quieter experience.
 
 ### Is it wheelchair accessible?
-The park is generally accessible, but specific pathways may vary in terms of accessibility. It’s advisable to check the official website for detailed information.
+The park is generally accessible, but specific pathways may vary in terms of accessibility. It's advisable to check the official website for detailed information.
 
 ### Can I buy tickets online?
 Entry to Amtsgarten is typically free. However, check the official website for any special events that may require tickets.

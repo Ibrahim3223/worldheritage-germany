@@ -28,9 +28,9 @@ image_srcset:
 
 ## Overview
 
-The Church of St. George is a remarkable example of ecclesiastical architecture located on the island of Reichenau in Baden-Württemberg, Germany. This historic church is part of a UNESCO World Heritage site that encompasses the island’s monastic buildings, which reflect the significant role the site played in the cultural and religious life of the region during the early Middle Ages. The church's serene setting, surrounded by water and lush landscapes, offers visitors a peaceful retreat and a glimpse into the spiritual heritage of the area.
+The Church of St. George is a remarkable example of ecclesiastical architecture located on the island of Reichenau in Baden-Württemberg, Germany. This historic church is part of a UNESCO World Heritage site that encompasses the island's monastic buildings, which reflect the significant role the site played in the cultural and religious life of the region during the early Middle Ages. The church's serene setting, surrounded by water and lush landscapes, offers visitors a peaceful retreat and a glimpse into the spiritual heritage of the area.
 
-Reichenau Island itself is known for its rich biodiversity and cultural significance, making it a unique destination for both nature lovers and history enthusiasts. The Church of St. George is not only a place of worship but also an important landmark that symbolizes the island’s enduring legacy. Its architectural features and artistic elements provide insights into the religious practices and artistic developments of its time. Visitors can expect to experience a blend of tranquility and historical depth, making this a must-see site for anyone exploring the region.
+Reichenau Island itself is known for its rich biodiversity and cultural significance, making it a unique destination for both nature lovers and history enthusiasts. The Church of St. George is not only a place of worship but also an important landmark that symbolizes the island's enduring legacy. Its architectural features and artistic elements provide insights into the religious practices and artistic developments of its time. Visitors can expect to experience a blend of tranquility and historical depth, making this a must-see site for anyone exploring the region.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ The Church of St. George features a blend of architectural styles that reflect i
 
 One of the notable features of the church is its layout, which is designed to accommodate both communal worship and individual reflection. The interior is adorned with artistic elements that showcase the craftsmanship of the period, including frescoes and decorative motifs that convey religious themes. These artworks not only enhance the spiritual ambiance of the space but also serve as a visual narrative of biblical stories and saints.
 
-The church’s architecture emphasizes verticality, with soaring ceilings that create a sense of openness and light. The windows, strategically placed to allow natural light to filter in, add to the ethereal quality of the interior. Visitors will appreciate the meticulous attention to detail, from the intricate carvings on the wooden elements to the thoughtful arrangement of the altar and seating.
+The church's architecture emphasizes verticality, with soaring ceilings that create a sense of openness and light. The windows, strategically placed to allow natural light to filter in, add to the ethereal quality of the interior. Visitors will appreciate the meticulous attention to detail, from the intricate carvings on the wooden elements to the thoughtful arrangement of the altar and seating.
 
 The combination of these architectural features and artistic embellishments makes the Church of St. George a significant site for those interested in the evolution of church architecture and the artistic expressions of faith throughout history.
 
@@ -70,7 +70,7 @@ While visiting the Church of St. George, several nearby attractions enhance the 
 
 3. **St. Peter and Paul Church**: Another significant church on the island, known for its artistic treasures and architectural features.
 
-4. **Reichenau Island's Nature Trails**: Explore the island’s natural landscapes through well-maintained walking and biking paths, showcasing the local flora and fauna.
+4. **Reichenau Island's Nature Trails**: Explore the island's natural landscapes through well-maintained walking and biking paths, showcasing the local flora and fauna.
 
 5. **Mainau Island**: A short ferry ride away, this island is renowned for its botanical gardens and stunning floral displays, making it a perfect complement to a visit to Reichenau.
 
@@ -82,7 +82,7 @@ To avoid crowds, consider visiting during weekdays or during off-peak seasons. T
 
 ## Practical Information
 
-When planning your visit to the Church of St. George, it’s advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture the stunning architecture. Seasonal considerations should be taken into account, as the weather can vary significantly. Layering clothing is recommended, especially during cooler months.
+When planning your visit to the Church of St. George, it's advisable to bring essentials such as water, comfortable walking shoes, and a camera to capture the stunning architecture. Seasonal considerations should be taken into account, as the weather can vary significantly. Layering clothing is recommended, especially during cooler months.
 
 Be prepared for varying crowds, especially during peak tourist seasons. It can be beneficial to check the weather forecast before your visit to ensure a comfortable experience while exploring the island and its historical sites.
 
@@ -95,13 +95,13 @@ Visitors typically spend about one to two hours exploring the Church of St. Geor
 Photography policies may vary, so it is advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which may enhance your understanding of the church’s history and architecture.
+Check the official website for information regarding guided tours, which may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are during spring and early fall when the weather is pleasant, and the island is less crowded.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary; it’s recommended to check in advance for specific information regarding wheelchair access.
+Accessibility features may vary; it's recommended to check in advance for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 For ticketing options, including online purchases, check the official website for current information.

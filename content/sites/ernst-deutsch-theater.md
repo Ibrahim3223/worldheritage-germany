@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Ernst Deutsch Theater, located in the vibrant Hamburg-Nord district of Germany, is a prominent theatre and former cinema that serves as a cultural hub for performance art enthusiasts. This theatre is not only a platform for innovative productions but also a historical landmark that reflects the evolution of theatrical arts in Hamburg. As one of the city’s notable institutions, it plays a significant role in the local arts scene, showcasing a diverse repertoire that resonates with audiences from all walks of life.
+The Ernst Deutsch Theater, located in the vibrant Hamburg-Nord district of Germany, is a prominent theatre and former cinema that serves as a cultural hub for performance art enthusiasts. This theatre is not only a platform for innovative productions but also a historical landmark that reflects the evolution of theatrical arts in Hamburg. As one of the city's notable institutions, it plays a significant role in the local arts scene, showcasing a diverse repertoire that resonates with audiences from all walks of life.
 
-With its rich cultural offerings, the Ernst Deutsch Theater attracts both locals and visitors, providing an engaging environment for those interested in the performing arts. The theatre’s commitment to quality productions and its historical roots make it an essential stop for anyone exploring Hamburg's artistic landscape. Beyond the performances, the building itself offers insights into the architectural styles and cultural shifts that have shaped the city over the years.
+With its rich cultural offerings, the Ernst Deutsch Theater attracts both locals and visitors, providing an engaging environment for those interested in the performing arts. The theatre's commitment to quality productions and its historical roots make it an essential stop for anyone exploring Hamburg's artistic landscape. Beyond the performances, the building itself offers insights into the architectural styles and cultural shifts that have shaped the city over the years.
 
 ## History and Significance
 
@@ -90,7 +90,7 @@ When visiting the Ernst Deutsch Theater, consider the following insider tips to 
 
 When planning your visit to the Ernst Deutsch Theater, keep these practical considerations in mind:
 
-- **What to Bring**: It’s advisable to bring a light jacket or sweater, as theatres can sometimes be cool due to air conditioning. Additionally, having a small bag for personal items is recommended.
+- **What to Bring**: It's advisable to bring a light jacket or sweater, as theatres can sometimes be cool due to air conditioning. Additionally, having a small bag for personal items is recommended.
 
 - **Seasonal Considerations**: Depending on the time of year, the theatre may host special seasonal performances or events. Check the calendar for unique offerings that might coincide with your visit.
 
@@ -107,7 +107,7 @@ A visit to the Ernst Deutsch Theater typically lasts around 2 to 3 hours, includ
 Photography policies vary; generally, personal photography in common areas is permitted, but during performances, it is often prohibited.
 
 ### Are there guided tours?
-Guided tours may be available, offering insights into the theatre’s history and architecture. Check the official website for details.
+Guided tours may be available, offering insights into the theatre's history and architecture. Check the official website for details.
 
 ### What's the best time to visit?
 The best times to visit are often during weekday performances or matinees to avoid large crowds, but weekends can provide a vibrant atmosphere.
@@ -119,7 +119,7 @@ The theatre is designed to accommodate various needs, but it is recommended to c
 Yes, tickets can typically be purchased online through the theatre's official website, ensuring you secure your seats in advance.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are available on-site, but options for dining may vary. It’s best to explore nearby cafes for a pre-show meal.
+Facilities such as restrooms are available on-site, but options for dining may vary. It's best to explore nearby cafes for a pre-show meal.
 
 ### What should I wear?
 Dress codes can vary, but smart casual attire is generally appropriate for theatre performances. Consider comfort while maintaining a polished look.

@@ -28,15 +28,15 @@ image_srcset:
 
 Zamenhofpark, located in the vibrant district of Lichtenberg in Berlin, offers a serene escape from the urban bustle. This park is a testament to thoughtful urban planning, designed as a green oasis for relaxation and recreation. With its lush landscapes and well-maintained paths, Zamenhofpark serves as an essential space for locals and visitors alike, promoting outdoor activities and community gatherings. The park's design encourages exploration, making it a suitable destination for families, joggers, and nature enthusiasts.
 
-Situated in the heart of Berlin, Zamenhofpark reflects the city’s commitment to blending green spaces with urban living. The park’s strategic location allows easy access from various parts of the city, making it an ideal spot for a leisurely afternoon or a quick escape into nature. The significance of Zamenhofpark lies not only in its recreational offerings but also in its role in enhancing the quality of life in a bustling metropolis. 
+Situated in the heart of Berlin, Zamenhofpark reflects the city's commitment to blending green spaces with urban living. The park's strategic location allows easy access from various parts of the city, making it an ideal spot for a leisurely afternoon or a quick escape into nature. The significance of Zamenhofpark lies not only in its recreational offerings but also in its role in enhancing the quality of life in a bustling metropolis. 
 
-Whether you're seeking a peaceful stroll, a spot for meditation, or a vibrant place to engage with the community, Zamenhofpark promises a refreshing experience amidst Berlin’s urban landscape.
+Whether you're seeking a peaceful stroll, a spot for meditation, or a vibrant place to engage with the community, Zamenhofpark promises a refreshing experience amidst Berlin's urban landscape.
 
 ## History and Significance
 
 Zamenhofpark is named after L. L. Zamenhof, the creator of the international auxiliary language Esperanto. While the specific historical milestones of the park's development remain unclear, its establishment reflects the broader trends of urban parks evolving in response to the growing need for green spaces in urban areas. 
 
-The cultural importance of Zamenhofpark can be traced back to the ideals of community and communication that Esperanto embodies. The park serves as a gathering place where people from diverse backgrounds can come together, reflecting the spirit of Zamenhof’s vision. Parks like Zamenhofpark are integral to urban life, providing not just recreational opportunities but also fostering social cohesion and a sense of belonging among residents.
+The cultural importance of Zamenhofpark can be traced back to the ideals of community and communication that Esperanto embodies. The park serves as a gathering place where people from diverse backgrounds can come together, reflecting the spirit of Zamenhof's vision. Parks like Zamenhofpark are integral to urban life, providing not just recreational opportunities but also fostering social cohesion and a sense of belonging among residents.
 
 In modern Berlin, where historical narratives intermingle with contemporary life, Zamenhofpark represents a commitment to accessible public spaces. As cities continue to grow, the demand for parks that promote wellness and community interaction is more pressing than ever. Zamenhofpark stands as an example of how urban design can prioritize both nature and social engagement.
 
@@ -60,7 +60,7 @@ The best times to visit are during the spring and summer months when the park is
 
 ## Nearby Attractions
 
-Zamenhofpark’s location in Lichtenberg places it conveniently near several noteworthy attractions:
+Zamenhofpark's location in Lichtenberg places it conveniently near several noteworthy attractions:
 
 1. **Stasi Museum**: Just a short distance away, the Stasi Museum provides insight into East Germany's secret police and the country's history during the Cold War.
 
@@ -74,13 +74,13 @@ Zamenhofpark’s location in Lichtenberg places it conveniently near several not
 
 ## Insider Tips
 
-For those planning to visit Zamenhofpark, consider bringing a camera to capture the park’s serene landscapes and community activities. Early mornings can be particularly photogenic, with soft natural light filtering through the trees.
+For those planning to visit Zamenhofpark, consider bringing a camera to capture the park's serene landscapes and community activities. Early mornings can be particularly photogenic, with soft natural light filtering through the trees.
 
 To avoid larger crowds, try visiting during weekdays or in the early morning hours. This allows for a more peaceful experience and gives you the chance to fully appreciate the park's natural beauty.
 
 ## Practical Information
 
-When preparing for your visit to Zamenhofpark, it’s wise to bring essentials such as water, snacks, and sunscreen, especially during warmer months. Comfortable walking shoes are recommended, as the park encourages exploration along its paths.
+When preparing for your visit to Zamenhofpark, it's wise to bring essentials such as water, snacks, and sunscreen, especially during warmer months. Comfortable walking shoes are recommended, as the park encourages exploration along its paths.
 
 Seasonal considerations can also enhance your experience. Spring and summer bring vibrant flowers and lush greenery, while autumn offers beautiful foliage. Winter may present a serene, quiet atmosphere, although be sure to dress warmly.
 

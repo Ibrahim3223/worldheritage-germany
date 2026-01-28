@@ -34,7 +34,7 @@ As you explore the castle's grounds, you will find well-preserved structures tha
 
 ## History and Significance
 
-Burg Nideggen’s historical significance is deeply intertwined with the development of the region. Initially built as a defensive stronghold, the castle has played a crucial role in local military strategies and territorial control. Its location was chosen for its strategic advantages, allowing for effective surveillance and defense against potential invaders.
+Burg Nideggen's historical significance is deeply intertwined with the development of the region. Initially built as a defensive stronghold, the castle has played a crucial role in local military strategies and territorial control. Its location was chosen for its strategic advantages, allowing for effective surveillance and defense against potential invaders.
 
 Throughout the centuries, Burg Nideggen has undergone various transformations, adapting to the changing needs of its inhabitants and the broader socio-political landscape. The castle's architecture reflects the different styles that emerged as it was modified over time, showcasing the evolution of defensive structures in medieval Europe. Its construction was likely influenced by the architectural trends of the time, with a focus on fortification and resilience.
 
@@ -54,7 +54,7 @@ To reach Burg Nideggen, travelers can utilize various transport options, includi
 
 Upon arrival, guests can expect a well-maintained site that offers a combination of historical insights and scenic views. Exploring the castle typically takes a couple of hours, allowing ample time to soak in the atmosphere and learn about its history. The best times to visit are during the spring and autumn months when the weather is mild and the surrounding landscapes are particularly inviting.
 
-As part of the experience, visitors may encounter guided tours that provide in-depth knowledge about the castle’s history and architecture. These tours can enhance the visit, offering valuable context and stories that bring the site to life. 
+As part of the experience, visitors may encounter guided tours that provide in-depth knowledge about the castle's history and architecture. These tours can enhance the visit, offering valuable context and stories that bring the site to life. 
 
 ## Nearby Attractions
 

@@ -54,7 +54,7 @@ When planning your visit to the Palais Vitzthum-Rutowski, consider the various t
 
 While specific hours of operation and ticket prices are not detailed here, it is advisable to check the official website for current information. This will ensure you have the most accurate details regarding entry fees and visiting hours, which can vary depending on the season or special events.
 
-Expect to spend a few hours at the Palais Vitzthum-Rutowski to fully appreciate its architectural details and historical context. Guided tours may be available, providing insights into the palace’s history and significance. The best times to visit are typically during weekdays when crowds are thinner, allowing for a more intimate exploration of the palace.
+Expect to spend a few hours at the Palais Vitzthum-Rutowski to fully appreciate its architectural details and historical context. Guided tours may be available, providing insights into the palace's history and significance. The best times to visit are typically during weekdays when crowds are thinner, allowing for a more intimate exploration of the palace.
 
 For those who enjoy photography, the palace provides ample opportunities to capture its grandeur. However, be mindful of any guidelines regarding photography within the premises. 
 
@@ -109,7 +109,7 @@ Guided tours may be available; confirm details on the official website for the m
 Weekdays or early mornings are often less crowded, providing a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Specific accessibility features are not detailed here. It’s advisable to check the official website for current information on accessibility.
+Specific accessibility features are not detailed here. It's advisable to check the official website for current information on accessibility.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and availability.

@@ -22,7 +22,7 @@ images:
 
 The German Rheumatism Research Centre (Deutsches Rheumatologie-Forschungszentrum) is a pivotal institution located in the vibrant city of Berlin, Germany. This foundation plays a crucial role in advancing research related to rheumatic diseases, contributing significantly to the broader field of medical science and patient care. With its commitment to understanding and treating conditions that affect millions worldwide, the Centre is not only a hub of scientific inquiry but also a vital resource for patients and healthcare professionals alike.
 
-Berlin, known for its rich history and cultural diversity, serves as an ideal backdrop for the Centre. Its location in this dynamic metropolis enhances opportunities for collaboration with other research institutions, universities, and healthcare facilities. As a visitor, exploring the Centre offers a unique opportunity to engage with cutting-edge medical research while experiencing the cultural vibrancy of one of Europe’s most influential cities.
+Berlin, known for its rich history and cultural diversity, serves as an ideal backdrop for the Centre. Its location in this dynamic metropolis enhances opportunities for collaboration with other research institutions, universities, and healthcare facilities. As a visitor, exploring the Centre offers a unique opportunity to engage with cutting-edge medical research while experiencing the cultural vibrancy of one of Europe's most influential cities.
 
 The German Rheumatism Research Centre promises an insightful experience for those interested in healthcare advancements. Whether you are a medical professional, a researcher, or simply curious about the latest in medical science, a visit here offers a glimpse into the future of rheumatology.
 
@@ -98,7 +98,7 @@ By planning ahead and being prepared, you can make the most of your experience a
 A visit to the German Rheumatism Research Centre typically lasts a couple of hours, depending on your interests and available programs.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to inquire with the staff upon arrival.
+Photography policies may vary, so it's best to inquire with the staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or educational sessions that may be available during your visit.
@@ -113,7 +113,7 @@ For specific accessibility options, please consult the official website prior to
 Check the official website for information regarding ticket purchasing and any required reservations.
 
 ### Are there restrooms and cafes?
-Facilities may include restrooms, but for dining options, it’s advisable to explore nearby cafes and restaurants.
+Facilities may include restrooms, but for dining options, it's advisable to explore nearby cafes and restaurants.
 
 ### What should I wear?
 Dress in layers to accommodate Berlin's variable weather, and wear comfortable shoes for exploring the area. 

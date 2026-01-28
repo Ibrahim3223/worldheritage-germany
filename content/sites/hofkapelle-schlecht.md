@@ -42,7 +42,7 @@ While specific dates and events may not be documented, the significance of the H
 
 The architectural design of Hofkapelle Schlecht reflects the traditional styles prevalent in chapels of its kind, characterized by simplicity and elegance. As an architectural structure, it emphasizes both functionality and aesthetic appeal, features that have allowed it to endure through the years. 
 
-Visitors will notice the chapel’s exterior, which may include elements such as a modest façade, possibly adorned with decorative motifs or religious symbols that highlight its sacred purpose. Inside, the chapel is likely to feature a main altar, which serves as the focal point of worship, along with pews arranged to accommodate visitors during services.
+Visitors will notice the chapel's exterior, which may include elements such as a modest façade, possibly adorned with decorative motifs or religious symbols that highlight its sacred purpose. Inside, the chapel is likely to feature a main altar, which serves as the focal point of worship, along with pews arranged to accommodate visitors during services.
 
 While specific architectural details may not be extensively documented, the overall ambiance of Hofkapelle Schlecht invites contemplation and reverence. The interplay of light and space within the chapel creates a serene atmosphere, ideal for reflection and spiritual connection. This architectural experience offers a glimpse into the values and craftsmanship of the time, making it a noteworthy site for those interested in religious architecture.
 

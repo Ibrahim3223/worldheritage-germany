@@ -38,7 +38,7 @@ The Stadtgeschichtliches Museum holds a pivotal place in Wolgast's narrative, se
 
 Wolgast's location has made it a focal point of various historical events, particularly during the Middle Ages when it was an important settlement in the Duchy of Pomerania. The museum encapsulates these narratives through its exhibits, showcasing artifacts that reflect the daily lives, craftsmanship, and customs of the local population. By emphasizing the cultural significance of Wolgast, the museum fosters a sense of pride and identity among its visitors and residents alike.
 
-Moreover, the Stadtgeschichtliches Museum acts as a bridge connecting the past and present. It provides an educational platform for both locals and tourists, encouraging an appreciation for the area’s rich history. The museum’s commitment to documenting and sharing Wolgast's stories ensures that the cultural heritage of the region is preserved for future generations.
+Moreover, the Stadtgeschichtliches Museum acts as a bridge connecting the past and present. It provides an educational platform for both locals and tourists, encouraging an appreciation for the area's rich history. The museum's commitment to documenting and sharing Wolgast's stories ensures that the cultural heritage of the region is preserved for future generations.
 
 ## Architecture and Features
 

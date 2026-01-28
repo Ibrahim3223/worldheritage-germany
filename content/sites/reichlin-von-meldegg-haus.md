@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning. This
 
 ## Practical Information
 
-When planning your trip to the Reichlin-von-Meldegg-Haus, it’s advisable to bring a camera for capturing the moments that resonate with you. Comfortable footwear is recommended, as you may spend significant time walking through exhibits and exploring the surrounding area.
+When planning your trip to the Reichlin-von-Meldegg-Haus, it's advisable to bring a camera for capturing the moments that resonate with you. Comfortable footwear is recommended, as you may spend significant time walking through exhibits and exploring the surrounding area.
 
 Seasonal considerations may also play a role in your visit. The summer months might bring more tourists, while the spring and autumn can offer milder weather and fewer crowds. Always check the official website for any seasonal events or special exhibits that may enhance your experience.
 
@@ -101,7 +101,7 @@ Check the official website for information regarding accessibility features of t
 Details about online ticket purchasing options should be confirmed on the museum's official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available, but it’s best to verify this information through the museum's official resources.
+Facilities such as restrooms and cafes may be available, but it's best to verify this information through the museum's official resources.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, particularly if you plan to explore the surrounding area after your museum visit. 

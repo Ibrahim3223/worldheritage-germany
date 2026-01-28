@@ -38,7 +38,7 @@ In the broader context of European conservation, Salmorth aligns with numerous e
 
 ## Architecture and Features
 
-Salmorth’s primary allure lies in its natural architecture, which comprises a variety of ecosystems that create a rich habitat for numerous species. The reserve is characterized by its diverse plant life, which includes both native and endemic species that thrive in the region's climate. Visitors can explore trails that wind through dense woodlands, open fields, and wetlands, each offering a unique glimpse into the area's ecological diversity.
+Salmorth's primary allure lies in its natural architecture, which comprises a variety of ecosystems that create a rich habitat for numerous species. The reserve is characterized by its diverse plant life, which includes both native and endemic species that thrive in the region's climate. Visitors can explore trails that wind through dense woodlands, open fields, and wetlands, each offering a unique glimpse into the area's ecological diversity.
 
 One of the notable features of Salmorth is its well-maintained pathways that allow for easy exploration while minimizing environmental impact. These paths are designed to guide visitors through different habitats, providing opportunities for birdwatching and observing wildlife in their natural setting. The reserve's landscape is not only visually appealing but also serves as an essential refuge for various animal species, making it a critical area for biodiversity.
 
@@ -76,7 +76,7 @@ Plan your visit during weekdays if possible, as weekends may see more visitors, 
 
 ## Practical Information
 
-When visiting Salmorth, it’s advisable to bring along essentials such as water, snacks, and appropriate clothing for the weather conditions. Comfortable walking shoes are a must, as the trails may vary in terrain. 
+When visiting Salmorth, it's advisable to bring along essentials such as water, snacks, and appropriate clothing for the weather conditions. Comfortable walking shoes are a must, as the trails may vary in terrain. 
 
 Seasonal considerations are important; spring and summer often bring lush greenery and active wildlife, while autumn offers beautiful foliage. Winter visits can be serene, but be sure to dress warmly.
 

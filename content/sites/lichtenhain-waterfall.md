@@ -111,7 +111,7 @@ Check the official website for current information regarding accessibility optio
 Check the official website for current information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to check the official website for current information.
+Facilities may be available nearby, but it's advisable to check the official website for current information.
 
 ### What should I wear?
 Wear comfortable and weather-appropriate clothing and sturdy shoes suitable for walking on trails.

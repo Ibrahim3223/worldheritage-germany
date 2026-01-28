@@ -73,7 +73,7 @@ To avoid crowds, plan your visit on weekdays rather than weekends, when many loc
 
 ## Practical Information
 
-When visiting Bethlehemkirche Hannover, it’s advisable to bring a small camera or smartphone for photography, though be sure to check if any restrictions are in place regarding photography inside the church. Comfortable shoes are recommended, as you may wish to explore the area on foot.
+When visiting Bethlehemkirche Hannover, it's advisable to bring a small camera or smartphone for photography, though be sure to check if any restrictions are in place regarding photography inside the church. Comfortable shoes are recommended, as you may wish to explore the area on foot.
 
 Seasonal considerations can also play a role in your visit. If you are planning to visit during colder months, be prepared for potentially chilly weather, while summer may offer a more pleasant atmosphere for exploring the surrounding neighborhood.
 

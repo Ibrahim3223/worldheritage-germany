@@ -72,7 +72,7 @@ While Am Busch is a peaceful destination in its own right, there are several nea
 
 5. **Local Farms**: Explore the rural landscape by visiting local farms, where you can learn about agricultural practices and perhaps even purchase fresh produce directly from the source.
 
-These nearby attractions complement the experience of visiting Am Busch, giving you a well-rounded taste of the region’s cultural and natural offerings.
+These nearby attractions complement the experience of visiting Am Busch, giving you a well-rounded taste of the region's cultural and natural offerings.
 
 ## Insider Tips
 

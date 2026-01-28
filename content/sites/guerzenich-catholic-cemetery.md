@@ -64,7 +64,7 @@ Gürzenich Catholic Cemetery is situated in proximity to several notable attract
 
 2. **Museum von Düren**: This local museum showcases the cultural history of Düren and the surrounding region, featuring exhibitions on art, archaeology, and local heritage.
 
-3. **Düren Castle**: An emblematic structure in the city, this castle reflects the region’s historical significance and architectural heritage. While the original structure has undergone changes over the years, it remains a focal point for visitors.
+3. **Düren Castle**: An emblematic structure in the city, this castle reflects the region's historical significance and architectural heritage. While the original structure has undergone changes over the years, it remains a focal point for visitors.
 
 4. **Schloss Burgau**: Located slightly further afield, this beautiful park offers walking trails and scenic views, ideal for a relaxing stroll after your visit to the cemetery.
 

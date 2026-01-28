@@ -38,7 +38,7 @@ The Youth Hostel Museum in Altena is housed within a structure that reflects bot
 
 Inside, visitors can expect to find a variety of exhibits that chronicle the history of youth hostels, featuring artifacts, photographs, and informational panels that illustrate the development of hosteling practices. Interactive displays may also engage visitors, offering hands-on experiences that enhance understanding of the hostel experience.
 
-Notable features of the museum include dedicated spaces for temporary exhibitions, which allow for a dynamic exploration of various themes related to travel and culture. This adaptability ensures that there is always something new for repeat visitors to discover. Overall, the museum’s design aims to create an inviting atmosphere that encourages exploration and connection among guests.
+Notable features of the museum include dedicated spaces for temporary exhibitions, which allow for a dynamic exploration of various themes related to travel and culture. This adaptability ensures that there is always something new for repeat visitors to discover. Overall, the museum's design aims to create an inviting atmosphere that encourages exploration and connection among guests.
 
 ## Visiting Information
 

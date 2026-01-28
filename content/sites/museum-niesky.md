@@ -52,7 +52,7 @@ Planning your visit to Museum Niesky is straightforward, allowing you to fully i
 
 For current information regarding hours of operation and admission prices, it is advisable to check the official website before your visit. This will ensure that you are informed about any changes or special events taking place during your time at the museum.
 
-Visitors can expect to spend a few hours at Museum Niesky, depending on their interests and the exhibitions on display. The museum’s layout allows for a leisurely exploration of its collections, with opportunities for deeper engagement through workshops and educational programs. It is recommended to allocate sufficient time to fully enjoy the diverse offerings.
+Visitors can expect to spend a few hours at Museum Niesky, depending on their interests and the exhibitions on display. The museum's layout allows for a leisurely exploration of its collections, with opportunities for deeper engagement through workshops and educational programs. It is recommended to allocate sufficient time to fully enjoy the diverse offerings.
 
 As for the best times to visit, weekdays may be less crowded, providing a more tranquil atmosphere for exploration. However, weekends often feature special events or guided tours that can enhance your experience.
 
@@ -62,7 +62,7 @@ In summary, Museum Niesky welcomes visitors with open arms, offering an accessib
 
 While visiting Museum Niesky, you may want to explore some nearby attractions that complement your experience:
 
-1. **St. John’s Church**: This local landmark is known for its architectural beauty and historical significance. A visit to the church provides insight into the spiritual heritage of the area.
+1. **St. John's Church**: This local landmark is known for its architectural beauty and historical significance. A visit to the church provides insight into the spiritual heritage of the area.
 
 2. **Niesky Town Center**: The town center offers a variety of shops, cafes, and local eateries, perfect for a leisurely stroll and a taste of local cuisine.
 
@@ -70,7 +70,7 @@ While visiting Museum Niesky, you may want to explore some nearby attractions th
 
 4. **Local Art Studios**: Nearby art studios often feature works by local artists and may offer workshops or exhibitions that enhance the cultural experience of the region.
 
-5. **Historical Sites**: Explore other historical sites in Niesky that reflect the town’s past, contributing to a broader understanding of the area’s heritage.
+5. **Historical Sites**: Explore other historical sites in Niesky that reflect the town's past, contributing to a broader understanding of the area's heritage.
 
 These attractions, combined with your visit to Museum Niesky, create an enriching experience that showcases the culture and history of the region.
 
@@ -84,7 +84,7 @@ To make the most of your visit to Museum Niesky, consider the following insider 
 
 - **Plan for Workshops**: If interested in workshops or educational programs, check the schedule in advance and sign up if necessary. These opportunities often provide a deeper understanding of the exhibitions.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions about the exhibits or seek recommendations for your visit. Their insights can enhance your experience.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions about the exhibits or seek recommendations for your visit. Their insights can enhance your experience.
 
 By following these tips, you can ensure a rewarding and engaging visit to Museum Niesky.
 
@@ -92,7 +92,7 @@ By following these tips, you can ensure a rewarding and engaging visit to Museum
 
 When planning your visit to Museum Niesky, consider the following practical information to enhance your experience:
 
-- **What to Bring**: It’s advisable to bring a small bag for personal items, a water bottle to stay hydrated, and a notebook if you wish to jot down thoughts or observations.
+- **What to Bring**: It's advisable to bring a small bag for personal items, a water bottle to stay hydrated, and a notebook if you wish to jot down thoughts or observations.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the climate. The museum is usually a comfortable environment, but be prepared for variable weather conditions if you plan to explore the area outside.
 

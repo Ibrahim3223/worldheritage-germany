@@ -61,7 +61,7 @@ While exploring Mainz, you may find several nearby attractions that complement y
 1. **Mainz Cathedral**: A remarkable example of Romanesque architecture, the cathedral features stunning interiors and historical significance.
 2. **Gutenberg Museum**: Dedicated to Johannes Gutenberg, this museum highlights the invention of movable type and its impact on communication.
 3. **Roman-Germanic Central Museum**: Focused on the archaeology of the region, this museum offers insights into the lives of ancient peoples.
-4. **St. Stephen’s Church**: Known for its beautiful stained-glass windows by Marc Chagall, this church is a short walk from the museum.
+4. **St. Stephen's Church**: Known for its beautiful stained-glass windows by Marc Chagall, this church is a short walk from the museum.
 5. **Rheinpromenade**: A scenic riverside promenade ideal for a leisurely stroll or enjoying views of the Rhine River.
 
 ## Insider Tips
@@ -86,10 +86,10 @@ Before heading to the Museum of Ancient Shipbuilding, it's wise to consider a fe
 Most visitors typically spend 2-3 hours at the museum to fully appreciate the exhibits and displays.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or the official website for specific guidelines.
+Photography policies may vary, so it's best to check with museum staff or the official website for specific guidelines.
 
 ### Are there guided tours?
-While guided tours may be offered, it’s advisable to confirm availability and schedule on the museum’s official website.
+While guided tours may be offered, it's advisable to confirm availability and schedule on the museum's official website.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often quieter, making them ideal for a more comfortable visit.

@@ -99,7 +99,7 @@ The accessibility of the pathways may vary. It is best to check the official web
 Check the official website for current information on any potential entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited near the waterfall. It’s advisable to plan ahead and utilize amenities in the nearby town of Lauf an der Pegnitz.
+Facilities may be limited near the waterfall. It's advisable to plan ahead and utilize amenities in the nearby town of Lauf an der Pegnitz.
 
 ### What should I wear?
 Dress in comfortable clothing suitable for walking outdoors. Bring layers if visiting in cooler months, and wear sturdy footwear for uneven terrain.

@@ -28,7 +28,7 @@ image_srcset:
 
 Mühle Münkeboe stands as a striking example of traditional windmill architecture in the picturesque region of Südbrookmerland, Germany. This windmill captures the essence of Ostfriesland with its historic charm and functional design. Located at coordinates 53.5155, 7.37263, the mill is not only a testament to the region's agricultural history but also a functional piece of machinery that has served the local community for generations. Visitors to this site can expect to gain insights into the historical significance of windmills in Germany, particularly in their role in grain processing and rural life.
 
-Mühle Münkeboe invites travelers to experience more than just a visual spectacle; it offers a glimpse into the cultural identity of the area. The windmill is an integral part of the landscape, symbolizing the ingenuity of past generations who harnessed wind power for everyday needs. A visit here promises educational encounters, picturesque scenery, and a deeper appreciation of the region’s heritage.
+Mühle Münkeboe invites travelers to experience more than just a visual spectacle; it offers a glimpse into the cultural identity of the area. The windmill is an integral part of the landscape, symbolizing the ingenuity of past generations who harnessed wind power for everyday needs. A visit here promises educational encounters, picturesque scenery, and a deeper appreciation of the region's heritage.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ To make the most of your visit to Mühle Münkeboe, consider the following tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try to visit during weekdays or outside of peak tourist seasons. This will allow for a more personal exploration of the site.
 
-- **Engagement with Staff**: Don’t hesitate to ask questions or engage with the staff present at the windmill. They can provide fascinating insights and stories that enhance your understanding of the site.
+- **Engagement with Staff**: Don't hesitate to ask questions or engage with the staff present at the windmill. They can provide fascinating insights and stories that enhance your understanding of the site.
 
 ## Practical Information
 

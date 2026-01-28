@@ -62,7 +62,7 @@ While visiting Schwäbisch Gmünd station, travelers have the opportunity to exp
 
 2. **St. Johannes Church**: This prominent church, known for its impressive architecture, is a significant landmark in Schwäbisch Gmünd, offering visitors insight into the region's religious heritage.
 
-3. **Museum Schwäbisch Gmünd**: Located nearby, this museum showcases local history, art, and culture, making it a worthwhile stop for those interested in the area’s past.
+3. **Museum Schwäbisch Gmünd**: Located nearby, this museum showcases local history, art, and culture, making it a worthwhile stop for those interested in the area's past.
 
 4. **Waldstetter See**: A serene lake that provides opportunities for relaxation and outdoor activities, this natural attraction is perfect for a leisurely stroll or a picnic.
 

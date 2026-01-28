@@ -70,7 +70,7 @@ Engaging with local vendors during market days can enhance your experience and p
 
 ## Practical Information
 
-When visiting Bürgerweide, it’s advisable to wear comfortable footwear, as you may spend time walking around the square and exploring the nearby attractions. Depending on the season, bringing an umbrella or sunscreen can be beneficial, as outdoor events are often held regardless of weather conditions.
+When visiting Bürgerweide, it's advisable to wear comfortable footwear, as you may spend time walking around the square and exploring the nearby attractions. Depending on the season, bringing an umbrella or sunscreen can be beneficial, as outdoor events are often held regardless of weather conditions.
 
 Consider visiting during local festivals or market days to experience the square at its most vibrant. Check the official website for information on upcoming events and activities, ensuring a visit that aligns with your interests.
 
@@ -80,7 +80,7 @@ Consider visiting during local festivals or market days to experience the square
 The time spent at Bürgerweide can vary based on your interests. A brief visit may take around 30 minutes, while those wishing to engage with events or explore the surrounding area might enjoy a couple of hours.
 
 ### Is photography allowed?
-Yes, photography is generally allowed in Bürgerweide, especially during public events. It’s a great opportunity to capture the lively atmosphere.
+Yes, photography is generally allowed in Bürgerweide, especially during public events. It's a great opportunity to capture the lively atmosphere.
 
 ### Are there guided tours?
 While specific guided tours may not be offered for Bürgerweide itself, local tour companies often include the square in broader city tours. Check with local providers for options.

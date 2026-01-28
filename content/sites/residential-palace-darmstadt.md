@@ -42,7 +42,7 @@ Throughout its history, the Residential Palace has also witnessed numerous event
 
 ## Architecture and Features
 
-The architecture of the Residential Palace Darmstadt reflects a blend of styles that evolved over the centuries. The exterior of the palace is characterized by its striking façade, which showcases elements of Baroque and Neo-Renaissance design. Visitors will find intricate details and decorative motifs that speak to the craftsmanship of the era. The palace’s grand entrance and well-maintained gardens further enhance its aesthetic appeal, providing a picturesque setting for exploration.
+The architecture of the Residential Palace Darmstadt reflects a blend of styles that evolved over the centuries. The exterior of the palace is characterized by its striking façade, which showcases elements of Baroque and Neo-Renaissance design. Visitors will find intricate details and decorative motifs that speak to the craftsmanship of the era. The palace's grand entrance and well-maintained gardens further enhance its aesthetic appeal, providing a picturesque setting for exploration.
 
 Inside, the palace transforms into a captivating museum space, where various rooms are adorned with exquisite furnishings, artwork, and historical artifacts. Each room tells a story, whether through its decor or the items on display. The interiors are designed to reflect the opulence of royal life, featuring ornate ceilings, elegant chandeliers, and carefully curated collections that highlight the artistic tastes of the Grand Dukes.
 

@@ -62,9 +62,9 @@ While visiting Alwine Colliery, there are several nearby attractions that comple
 
 1. **German Mining Museum Bochum**: Located just a short distance from the colliery, this museum offers extensive exhibitions on mining history, showcasing artifacts and interactive displays that provide insight into the mining process.
 
-2. **Starlight Express Theatre**: This unique venue in Bochum hosts the famous musical "Starlight Express," which features roller-skating performers. It’s a vibrant addition to the cultural landscape and a great option for entertainment after your visit to the colliery.
+2. **Starlight Express Theatre**: This unique venue in Bochum hosts the famous musical "Starlight Express," which features roller-skating performers. It's a vibrant addition to the cultural landscape and a great option for entertainment after your visit to the colliery.
 
-3. **Bochum City Park**: For a leisurely stroll or a picnic, the Bochum City Park offers green spaces and scenic paths. It’s a perfect place to unwind after exploring the industrial sites.
+3. **Bochum City Park**: For a leisurely stroll or a picnic, the Bochum City Park offers green spaces and scenic paths. It's a perfect place to unwind after exploring the industrial sites.
 
 4. **LWL Industrial Museum**: This museum focuses on the industrial history of the Ruhr area, presenting a broader context to the mining history of Alwine Colliery. It's an excellent place to deepen your understanding of the region's industrial past.
 

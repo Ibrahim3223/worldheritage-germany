@@ -22,7 +22,7 @@ images:
 
 Museum Raabe-Haus, located in the quaint town of Eschershausen, Germany, serves as a captivating tribute to the literary genius of Wilhelm Raabe, a notable figure in 19th-century German literature. This museum offers visitors an intimate glimpse into the life and works of Raabe, whose narratives reflect a deep understanding of human nature and social dynamics. The museum not only showcases his literary contributions but also acts as a cultural hub for the local community, promoting the appreciation of literature and art.
 
-Eschershausen, situated in the picturesque Lower Saxony region, provides a charming backdrop for this institution. The museum’s location invites exploration of the surrounding area, known for its rich traditions and historical significance. Visitors can look forward to an engaging experience that combines literary history with the vibrant cultural fabric of the region.
+Eschershausen, situated in the picturesque Lower Saxony region, provides a charming backdrop for this institution. The museum's location invites exploration of the surrounding area, known for its rich traditions and historical significance. Visitors can look forward to an engaging experience that combines literary history with the vibrant cultural fabric of the region.
 
 By immersing yourself in the exhibits and activities at Museum Raabe-Haus, you will gain insights into Raabe's influence on German literature and the broader cultural movements of his time. This promises to be an enriching experience for literature enthusiasts, history buffs, and casual visitors alike.
 
@@ -93,7 +93,7 @@ It is advisable to spend a few hours at the museum to fully appreciate the exhib
 Photography policies may vary, so it is best to check with the museum upon arrival regarding any restrictions or guidelines.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they may offer deeper insights into the exhibits and Raabe’s works.
+Check the official website for information on guided tours, as they may offer deeper insights into the exhibits and Raabe's works.
 
 ### What's the best time to visit?
 Weekdays or early mornings are typically ideal for visiting, as these times may be less crowded.

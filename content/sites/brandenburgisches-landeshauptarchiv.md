@@ -88,7 +88,7 @@ When planning your visit to the Brandenburgisches Landeshauptarchiv, keep the fo
 The length of your visit can vary based on your interests. A few hours may suffice for casual exploration, while dedicated researchers might spend an entire day.
 
 ### Is photography allowed?
-Policies on photography may vary. It’s best to check with the staff upon arrival to understand the rules regarding photography within the archive.
+Policies on photography may vary. It's best to check with the staff upon arrival to understand the rules regarding photography within the archive.
 
 ### Are there guided tours?
 Information about guided tours is not specified. It is advisable to inquire at the archive for any available tours or educational programs during your visit.

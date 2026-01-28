@@ -58,7 +58,7 @@ The best times to visit St. Katharinen are during weekdays when there may be few
 
 While visiting St. Katharinen, consider exploring other attractions in Halle (Saale) that highlight the city's rich heritage:
 
-1. **Marktkirche St. Mauritius** - This prominent market church is a stunning example of Gothic architecture and is located nearby, offering a glimpse into the city’s architectural diversity.
+1. **Marktkirche St. Mauritius** - This prominent market church is a stunning example of Gothic architecture and is located nearby, offering a glimpse into the city's architectural diversity.
 
 2. **Halle State Museum of Prehistory** - A short distance from the church, this museum showcases artifacts that reveal the prehistoric past of the region, providing a broader context to Halle's historical significance.
 
@@ -72,13 +72,13 @@ While visiting St. Katharinen, consider exploring other attractions in Halle (Sa
 
 To make the most of your visit to St. Katharinen, consider the following tips:
 
-- **Photography**: While photography may be permitted in certain areas, it’s respectful to check for any restrictions within the church. Early mornings or late afternoons often provide the best natural lighting for capturing the essence of the architecture.
+- **Photography**: While photography may be permitted in certain areas, it's respectful to check for any restrictions within the church. Early mornings or late afternoons often provide the best natural lighting for capturing the essence of the architecture.
 
 - **Crowd Avoidance**: To avoid larger groups, plan your visit during weekdays rather than weekends. If possible, visit during non-service hours for a quieter experience.
 
 ## Practical Information
 
-Before heading to St. Katharinen, it’s advisable to prepare accordingly:
+Before heading to St. Katharinen, it's advisable to prepare accordingly:
 
 - **What to Bring**: Ensure to carry a small bag for personal items, a camera if photography is permitted, and perhaps a notebook for jotting down your reflections or insights during your visit.
 
@@ -87,7 +87,7 @@ Before heading to St. Katharinen, it’s advisable to prepare accordingly:
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to St. Katharinen typically takes about an hour, but you may want to extend your stay if you wish to explore the surrounding area or engage with the church’s history more deeply.
+A visit to St. Katharinen typically takes about an hour, but you may want to extend your stay if you wish to explore the surrounding area or engage with the church's history more deeply.
 
 ### Is photography allowed?
 Photography policies may vary, so it's best to check for any signs or ask staff upon arrival. Generally, capturing the beauty of the church is encouraged, but respect for the space must be maintained.
@@ -99,7 +99,7 @@ Check the official website for information on whether guided tours are available
 Visiting during weekdays is recommended to avoid crowds. Early morning or late afternoon visits can also enhance your experience with a quieter atmosphere.
 
 ### Is it wheelchair accessible?
-While specific accessibility information is not provided, many modern church buildings strive to accommodate all visitors. It’s best to inquire upon arrival or check the official website for details.
+While specific accessibility information is not provided, many modern church buildings strive to accommodate all visitors. It's best to inquire upon arrival or check the official website for details.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any special events that may require advance booking.

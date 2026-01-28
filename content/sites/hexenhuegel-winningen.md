@@ -72,7 +72,7 @@ While visiting Hexenhügel Winningen, there are several nearby attractions that 
 
 2. **Mosel Wine Region**: Known for its picturesque vineyards and wine production, this region offers various wine tasting experiences and tours, showcasing the local viticulture.
 
-3. **Burg Thurant**: This medieval castle, located a short drive away, provides insights into the region’s feudal history and offers stunning views of the Moselle River.
+3. **Burg Thurant**: This medieval castle, located a short drive away, provides insights into the region's feudal history and offers stunning views of the Moselle River.
 
 4. **Cochem Castle**: Another historic site, Cochem Castle is perched above the town of Cochem and offers guided tours, showcasing its impressive architecture and rich history.
 

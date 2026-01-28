@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Osterkirche, a prominent church building located in the Wandsbek region of Germany, serves as a significant cultural and architectural landmark. The church is not only a place of worship but also a reflection of the area’s historical and artistic heritage. Its location is easily accessible and offers visitors a glimpse into the spiritual life of the community. Whether you are a history enthusiast, an architecture admirer, or simply seeking a peaceful retreat from the urban hustle, Osterkirche promises an enriching experience.
+Osterkirche, a prominent church building located in the Wandsbek region of Germany, serves as a significant cultural and architectural landmark. The church is not only a place of worship but also a reflection of the area's historical and artistic heritage. Its location is easily accessible and offers visitors a glimpse into the spiritual life of the community. Whether you are a history enthusiast, an architecture admirer, or simply seeking a peaceful retreat from the urban hustle, Osterkirche promises an enriching experience.
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ While Osterkirche itself is a notable site, visitors can also explore several ne
 
 1. **Wandsbeker Marktplatz**: A lively market square that hosts various shops and eateries, offering a glimpse into local life.
 2. **Schwarzenberg Park**: A spacious park ideal for leisurely walks, picnics, or simply enjoying nature.
-3. **Wandsbek Quarters**: An area rich in local shops and cafés, perfect for experiencing the community’s daily rhythms.
+3. **Wandsbek Quarters**: An area rich in local shops and cafés, perfect for experiencing the community's daily rhythms.
 4. **Museum für Hamburgische Geschichte**: An informative museum that delves into the history of Hamburg and its surrounding region.
 5. **St. John's Church**: Another architectural landmark nearby that offers insights into the religious history of the area.
 

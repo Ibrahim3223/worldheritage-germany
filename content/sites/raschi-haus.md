@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Raschi-Haus, located in the historic city of Worms, Germany, is a significant museum that invites visitors to explore the rich cultural heritage of the region. This historical building serves not only as a museum but also as a symbol of the city’s diverse history and contributions to Jewish culture in Germany. Worms, known for its deep-rooted history, is situated in the picturesque Rhineland-Palatinate region, making Raschi-Haus a compelling stop for those interested in both history and culture.
+Raschi-Haus, located in the historic city of Worms, Germany, is a significant museum that invites visitors to explore the rich cultural heritage of the region. This historical building serves not only as a museum but also as a symbol of the city's diverse history and contributions to Jewish culture in Germany. Worms, known for its deep-rooted history, is situated in the picturesque Rhineland-Palatinate region, making Raschi-Haus a compelling stop for those interested in both history and culture.
 
 The museum is dedicated to the legacy of the Jewish community in Worms, which has existed for over a thousand years. It offers insights into the life, traditions, and challenges faced by this community throughout the centuries. Visitors can expect to engage with a range of exhibits that highlight the significance of Jewish culture, as well as the historical events that shaped it. Whether you are a history buff or simply curious about cultural narratives, Raschi-Haus promises an enriching experience.
 

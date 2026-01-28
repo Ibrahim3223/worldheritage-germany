@@ -75,7 +75,7 @@ To make the most of your visit to Ehrenfriedhof Elberfeld, consider a few inside
 
 ## Practical Information
 
-When planning your visit to Ehrenfriedhof Elberfeld, it’s essential to prepare appropriately:
+When planning your visit to Ehrenfriedhof Elberfeld, it's essential to prepare appropriately:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as the cemetery may have uneven terrain. Additionally, bringing water and a small snack can be beneficial, especially for longer visits.
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast and dress accordingly. Spring and summer visits may require lighter clothing, while autumn and winter may call for layers.
@@ -86,7 +86,7 @@ When planning your visit to Ehrenfriedhof Elberfeld, it’s essential to prepare
 A visit typically lasts between one to two hours, depending on your interests in exploring the memorials and their backgrounds.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s important to be respectful of the space and the memories associated with it.
+Photography is generally permitted, but it's important to be respectful of the space and the memories associated with it.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, which may enhance your understanding of the cemetery's history.
@@ -95,7 +95,7 @@ Check the official website for information regarding guided tours, which may enh
 Early mornings or late afternoons during weekdays are ideal for a peaceful experience, particularly in the spring and autumn.
 
 ### Is it wheelchair accessible?
-Information on accessibility features is not specified; it’s recommended to check the official website for detailed information.
+Information on accessibility features is not specified; it's recommended to check the official website for detailed information.
 
 ### Can I buy tickets online?
 Details regarding ticket purchases are not provided; please check the official website for current information.

@@ -118,4 +118,4 @@ Specific amenities, including restrooms and cafes, may vary. Verify with the off
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended for your visit, along with seasonal attire.
 
-Haseldorf Manor stands as a significant cultural landmark, inviting visitors to appreciate the historical narratives that shape the region's identity. Whether you’re a history enthusiast or simply seeking a peaceful escape, a visit to this manor house promises to be a rewarding experience.
+Haseldorf Manor stands as a significant cultural landmark, inviting visitors to appreciate the historical narratives that shape the region's identity. Whether you're a history enthusiast or simply seeking a peaceful escape, a visit to this manor house promises to be a rewarding experience.

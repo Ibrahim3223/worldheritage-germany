@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mevlana Mosque, located in the Friedrichshain-Kreuzberg district of Berlin, serves as a significant cultural and religious center for the Muslim community in the city. This mosque represents not just a place of worship but also a space for community engagement, social interaction, and cultural exchange. With its prominent location, the mosque plays a vital role in promoting understanding and connection among diverse cultural groups in one of Europe’s most vibrant cities.
+The Mevlana Mosque, located in the Friedrichshain-Kreuzberg district of Berlin, serves as a significant cultural and religious center for the Muslim community in the city. This mosque represents not just a place of worship but also a space for community engagement, social interaction, and cultural exchange. With its prominent location, the mosque plays a vital role in promoting understanding and connection among diverse cultural groups in one of Europe's most vibrant cities.
 
 Berlin, known for its rich history and multicultural landscape, is an ideal setting for such a prominent religious structure. The Mevlana Mosque stands out as a symbol of the Islamic faith and its contributions to the cultural mosaic of the city. The mosque invites visitors to explore its serene environment, offering a glimpse into the spiritual practices and community life of its congregants.
 
@@ -56,7 +56,7 @@ Visiting the Mevlana Mosque offers a unique opportunity to engage with the local
 
 For current information regarding visiting hours, entry fees, and special events, it is advisable to check the official website. Visitors should expect a welcoming environment, with opportunities to participate in or observe daily prayers and community activities.
 
-The mosque is typically open to visitors throughout the week, offering ample opportunity to explore its spiritual and cultural significance. Depending on personal interests, visitors may find that spending an hour or two is sufficient to appreciate the mosque’s atmosphere and engage with its community.
+The mosque is typically open to visitors throughout the week, offering ample opportunity to explore its spiritual and cultural significance. Depending on personal interests, visitors may find that spending an hour or two is sufficient to appreciate the mosque's atmosphere and engage with its community.
 
 The best times to visit often coincide with prayer times, which can provide a richer experience as one can witness the mosque in action. Additionally, visiting during community events may offer insights into the cultural practices and social interactions within the mosque.
 
@@ -66,11 +66,11 @@ The Mevlana Mosque is conveniently located near several other notable attraction
 
 1. **Tempelhofer Feld** - A vast public park located on the site of a former airport, perfect for walking, cycling, or picnicking.
    
-2. **East Side Gallery** - A famous stretch of the Berlin Wall adorned with murals and street art, offering a glimpse into the city’s history and artistic expression.
+2. **East Side Gallery** - A famous stretch of the Berlin Wall adorned with murals and street art, offering a glimpse into the city's history and artistic expression.
    
 3. **Kreuzberg District** - Known for its vibrant culture, eclectic dining options, and artistic community, a stroll through Kreuzberg reveals the diverse spirit of Berlin.
    
-4. **Markthalle Neun** - A historic market hall that showcases local food vendors, craft beers, and artisanal products, providing a taste of Berlin’s culinary scene.
+4. **Markthalle Neun** - A historic market hall that showcases local food vendors, craft beers, and artisanal products, providing a taste of Berlin's culinary scene.
 
 5. **Bergmannkiez** - A charming neighborhood filled with cafes, boutiques, and parks, ideal for those looking to experience local life.
 
@@ -78,7 +78,7 @@ The Mevlana Mosque is conveniently located near several other notable attraction
 
 To make the most of your visit to the Mevlana Mosque, consider the following tips:
 
-- **Photography**: Respect the sacredness of the space. While photos may be allowed in certain areas, it’s best to ask for permission, particularly during prayer times.
+- **Photography**: Respect the sacredness of the space. While photos may be allowed in certain areas, it's best to ask for permission, particularly during prayer times.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider visiting during weekdays or outside of prayer times, as weekends may see higher foot traffic.
 
@@ -98,7 +98,7 @@ When planning your visit to the Mevlana Mosque, consider bringing a few essentia
 A visit to the Mevlana Mosque typically takes around one to two hours, depending on your level of interest in the mosque's services and community activities.
 
 ### Is photography allowed?
-Photography policies may vary. It’s advisable to ask for permission, especially during prayer times, to ensure respect for the sacred space.
+Photography policies may vary. It's advisable to ask for permission, especially during prayer times, to ensure respect for the sacred space.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may be offered on specific days or during special events.
@@ -113,9 +113,9 @@ For specific accessibility information, consult the official website or contact 
 Information about ticketing can be found on the official website, as policies may vary based on events or special occasions.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s recommended to check the official website for details regarding restrooms or nearby dining options.
+Facilities may vary, so it's recommended to check the official website for details regarding restrooms or nearby dining options.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly. Women may be asked to cover their heads, and all visitors should wear respectful attire while inside the mosque. 
 
-In summary, the Mevlana Mosque is not only a place of worship but also a vital cultural center that enriches the diverse landscape of Berlin. Engaging with its community and events allows for a deeper appreciation of Islamic traditions and their role in the wider context of the city’s heritage.
+In summary, the Mevlana Mosque is not only a place of worship but also a vital cultural center that enriches the diverse landscape of Berlin. Engaging with its community and events allows for a deeper appreciation of Islamic traditions and their role in the wider context of the city's heritage.

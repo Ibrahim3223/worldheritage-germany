@@ -62,7 +62,7 @@ To enhance your experience, consider visiting during weekdays when the museum ma
 
 3. **Böttcherstraße**: Known for its unique architecture and artistic flair, this street is home to galleries, shops, and the famous Glockenspiel House.
 
-4. **Bremer Roland**: A UNESCO World Heritage site, this statue symbolizes the city’s autonomy and is a significant historical landmark in Bremen.
+4. **Bremer Roland**: A UNESCO World Heritage site, this statue symbolizes the city's autonomy and is a significant historical landmark in Bremen.
 
 5. **Wallanlagen Park**: A picturesque park surrounding the old city walls, providing a serene environment for walking or relaxing.
 
@@ -74,7 +74,7 @@ Engaging with the museum staff can also enhance your visit; they often have valu
 
 ## Practical Information
 
-When visiting the Bremen School Museum, it’s advisable to bring a light jacket or sweater, as museum environments can sometimes be cooler than expected. Comfortable walking shoes are also recommended, as you may spend considerable time exploring the various exhibits.
+When visiting the Bremen School Museum, it's advisable to bring a light jacket or sweater, as museum environments can sometimes be cooler than expected. Comfortable walking shoes are also recommended, as you may spend considerable time exploring the various exhibits.
 
 Seasonal considerations may affect your visit, so preparing for the weather on the day of your trip is essential. If you plan to visit during peak tourist seasons, expect larger crowds, which may influence your overall experience.
 

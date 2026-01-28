@@ -66,7 +66,7 @@ While in Muggendorf, visitors can explore several nearby attractions that comple
 
 To make the most of your visit to the Modellbahnmuseum Muggendorf, consider the following tips:
 
-- **Photography**: While many museums allow photography, it’s wise to check for any restrictions on flash photography or specific exhibits. This will help you capture memorable moments without disrupting other visitors.
+- **Photography**: While many museums allow photography, it's wise to check for any restrictions on flash photography or specific exhibits. This will help you capture memorable moments without disrupting other visitors.
 
 - **Timing Your Visit**: Arrive early in the day or later in the afternoon to avoid larger crowds. This can enhance your experience, allowing for a more leisurely exploration of the exhibits.
 

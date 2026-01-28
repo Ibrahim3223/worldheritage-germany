@@ -36,7 +36,7 @@ Although specific historical records regarding Humboldtinsel are limited, the is
 
 The island's significance extends beyond its naming; it plays a vital role in local recreational activities. Over the years, it has evolved into a popular destination for residents of Berlin and visitors from further afield. The combination of natural beauty and opportunities for leisure activities has made Humboldtinsel an integral part of the region's identity. The island fosters community engagement through events and activities that highlight the importance of nature conservation and outdoor recreation.
 
-Humboldtinsel’s landscape offers a glimpse into the ecological diversity of the region, supporting various flora and fauna. This aspect not only enhances its aesthetic appeal but also emphasizes the importance of preserving such natural habitats in urban areas. As a result, visitors to Humboldtinsel can appreciate both the island’s beauty and its environmental significance.
+Humboldtinsel's landscape offers a glimpse into the ecological diversity of the region, supporting various flora and fauna. This aspect not only enhances its aesthetic appeal but also emphasizes the importance of preserving such natural habitats in urban areas. As a result, visitors to Humboldtinsel can appreciate both the island's beauty and its environmental significance.
 
 ## Architecture and Features
 

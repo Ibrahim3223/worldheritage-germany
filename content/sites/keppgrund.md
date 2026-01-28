@@ -58,7 +58,7 @@ As with any outdoor destination, checking the official website for hours and any
 
 ## Nearby Attractions
 
-1. **Dresden Zoo**: Just a short distance from Keppgrund, the Dresden Zoo offers an opportunity to see a variety of animal species and learn about conservation efforts. It’s a great family-friendly destination.
+1. **Dresden Zoo**: Just a short distance from Keppgrund, the Dresden Zoo offers an opportunity to see a variety of animal species and learn about conservation efforts. It's a great family-friendly destination.
 
 2. **Großer Garten**: This expansive park features beautiful gardens, walking paths, and recreational areas. It serves as a perfect complement to a visit to Keppgrund, offering additional green space to explore.
 
@@ -103,7 +103,7 @@ Access information may vary; check the official website for the most current det
 Entrance to Keppgrund is typically free, but check the official website for any special events or activities that may require tickets.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the valley; it’s advisable to plan ahead and consider bringing refreshments.
+Facilities may be limited in the valley; it's advisable to plan ahead and consider bringing refreshments.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, especially for walking along the valley paths.

@@ -64,11 +64,11 @@ The best times to visit are during the spring and fall when the weather is mild,
 
 ## Nearby Attractions
 
-1. **Roman Museum in Bonn**: Just a short drive from various limes locations, this museum showcases a range of artifacts from the Roman period, providing context to the sites you’ll visit.
+1. **Roman Museum in Bonn**: Just a short drive from various limes locations, this museum showcases a range of artifacts from the Roman period, providing context to the sites you'll visit.
   
 2. **Archaeological Park Xanten**: An extensive reconstruction of a Roman city, this park offers an immersive experience of life during the Roman Empire, featuring buildings, streets, and interactive exhibits.
 
-3. **Hadrian’s Wall**: Located in the UK, this UNESCO World Heritage site represents the northern frontier of the Roman Empire and offers stunning landscapes along with rich historical insights.
+3. **Hadrian's Wall**: Located in the UK, this UNESCO World Heritage site represents the northern frontier of the Roman Empire and offers stunning landscapes along with rich historical insights.
 
 4. **Cologne Cathedral**: A short distance from the limes, this stunning Gothic cathedral is a UNESCO World Heritage site and one of Germany's most iconic structures.
 
@@ -78,7 +78,7 @@ The best times to visit are during the spring and fall when the weather is mild,
 
 When visiting the borders of the Roman Empire, consider timing your visit during weekdays to avoid larger crowds. Early mornings are typically quieter, allowing for a more reflective experience as you explore the ruins.
 
-Photography is encouraged, but it’s wise to be mindful of local guidelines regarding flash and commercial use. Capture the sweeping vistas and intricate details of the architecture, but respect the site's integrity.
+Photography is encouraged, but it's wise to be mindful of local guidelines regarding flash and commercial use. Capture the sweeping vistas and intricate details of the architecture, but respect the site's integrity.
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ Many sites offer guided tours, which can provide deeper insights into the histor
 Spring and fall are ideal times for visiting, with milder weather and fewer tourists compared to the summer months.
 
 ### Is it wheelchair accessible?
-Accessibility varies by site. Some locations may have limited access, so it’s best to check in advance.
+Accessibility varies by site. Some locations may have limited access, so it's best to check in advance.
 
 ### Can I buy tickets online?
 Ticket purchasing options can vary by site. Check the official website for details on online ticket availability.

@@ -70,7 +70,7 @@ While visiting the Deutsches Zweirad- und NSU-Museum, consider exploring these n
 
 To make the most of your visit to the Deutsches Zweirad- und NSU-Museum, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for any restrictions upon entry. Capturing the intricate details of the motorcycles can offer lasting memories of your visit.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for any restrictions upon entry. Capturing the intricate details of the motorcycles can offer lasting memories of your visit.
 
 - **Avoiding Crowds**: If possible, plan your visit on a weekday rather than the weekend. Early mornings or later afternoons might also provide a quieter experience, allowing you to engage more deeply with the exhibits.
 

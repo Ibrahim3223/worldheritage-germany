@@ -64,7 +64,7 @@ Burg Laubenbergerstein is well-positioned near several noteworthy attractions th
 
 3. **Allgäu Alps**: The surrounding mountains provide numerous outdoor activities, including hiking, skiing, and mountain biking, catering to adventure enthusiasts.
 
-4. **St. Nikolaus Church**: Located in Immenstadt, this church features stunning architecture and is a peaceful place to reflect on the region’s history.
+4. **St. Nikolaus Church**: Located in Immenstadt, this church features stunning architecture and is a peaceful place to reflect on the region's history.
 
 5. **Museum of Local History**: This museum offers insights into the cultural and historical development of the Allgäu area, complementing your visit to Burg Laubenbergerstein.
 

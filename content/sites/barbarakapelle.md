@@ -42,7 +42,7 @@ As you explore the chapel, you may find yourself contemplating the various event
 
 Architecturally, the Barbarakapelle presents a charming yet simple design, characteristic of many chapels throughout Germany. Its structure is representative of the styles that are common in the region, emphasizing functionality over ostentation. The chapel is likely constructed from local materials, adding to its authenticity and connection to the surrounding landscape.
 
-Notable features may include stained glass windows that filter light into the interior, casting colorful patterns on the chapel’s surfaces. These windows often depict religious themes or figures, enriching the spiritual ambiance of the space. Inside, visitors might find an altar that serves as the focal point for worship, adorned with candles and religious iconography. 
+Notable features may include stained glass windows that filter light into the interior, casting colorful patterns on the chapel's surfaces. These windows often depict religious themes or figures, enriching the spiritual ambiance of the space. Inside, visitors might find an altar that serves as the focal point for worship, adorned with candles and religious iconography. 
 
 The chapel's exterior may feature a modest façade, possibly adorned with simple carvings or stonework that reflect the craftsmanship of the era in which it was built. The surrounding area, while not specifically detailed, is likely designed to enhance the chapel's serene atmosphere, offering a peaceful environment for contemplation and prayer.
 

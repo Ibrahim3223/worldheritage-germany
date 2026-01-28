@@ -28,7 +28,7 @@ image_srcset:
 
 The Ibn Rushd-Goethe Mosque in Berlin, Germany, serves as a vibrant symbol of cultural exchange and dialogue between diverse traditions. Established in the heart of the Bezirk Mitte district, this mosque not only provides a place of worship but also embodies the spirit of cooperation and understanding among different faiths. Named after the influential Muslim philosopher Ibn Rushd (Averroes) and the renowned German poet Johann Wolfgang von Goethe, this site honors the rich intellectual heritage shared by both cultures. Visitors to the mosque will find an atmosphere of tranquility and reflection amid a bustling urban environment, making it an essential stop for those interested in the intersections of art, philosophy, and spirituality.
 
-The mosque’s location in Berlin’s central district places it within reach of other significant cultural landmarks, enhancing its appeal to travelers. As more people seek to understand the diverse narratives that shape our world, the Ibn Rushd-Goethe Mosque stands as a welcoming space for dialogue, education, and community. Whether you are drawn to its architectural beauty, its philosophical significance, or simply wish to explore a different aspect of Berlin’s rich heritage, this mosque promises a meaningful experience.
+The mosque's location in Berlin's central district places it within reach of other significant cultural landmarks, enhancing its appeal to travelers. As more people seek to understand the diverse narratives that shape our world, the Ibn Rushd-Goethe Mosque stands as a welcoming space for dialogue, education, and community. Whether you are drawn to its architectural beauty, its philosophical significance, or simply wish to explore a different aspect of Berlin's rich heritage, this mosque promises a meaningful experience.
 
 ## History and Significance
 
@@ -40,11 +40,11 @@ Beyond its religious functions, the Ibn Rushd-Goethe Mosque actively engages wit
 
 ## Architecture and Features
 
-The architecture of the Ibn Rushd-Goethe Mosque is a blend of modern design elements and traditional Islamic motifs, reflecting its commitment to both contemporary aesthetics and historical reverence. While detailed specifics about its dimensions or materials are not provided, the mosque’s design incorporates features characteristic of Islamic architecture, such as arches, intricate tile work, and calligraphic inscriptions.
+The architecture of the Ibn Rushd-Goethe Mosque is a blend of modern design elements and traditional Islamic motifs, reflecting its commitment to both contemporary aesthetics and historical reverence. While detailed specifics about its dimensions or materials are not provided, the mosque's design incorporates features characteristic of Islamic architecture, such as arches, intricate tile work, and calligraphic inscriptions.
 
-The mosque’s interior is designed to create an atmosphere of serenity and contemplation, with open spaces that encourage communal worship and reflection. Natural light plays a significant role in illuminating the prayer hall, enhancing the sense of peace and tranquility that visitors often experience. The layout is thoughtfully arranged to accommodate both individual and collective prayers, making it a functional space for worshippers.
+The mosque's interior is designed to create an atmosphere of serenity and contemplation, with open spaces that encourage communal worship and reflection. Natural light plays a significant role in illuminating the prayer hall, enhancing the sense of peace and tranquility that visitors often experience. The layout is thoughtfully arranged to accommodate both individual and collective prayers, making it a functional space for worshippers.
 
-One of the mosque’s notable features is its commitment to inclusivity. The design considers the diverse needs of its community, creating a welcoming environment for individuals of all backgrounds. The integration of educational spaces within the mosque signifies its role as a center for learning and engagement, further enhancing its architectural significance in the urban landscape of Berlin.
+One of the mosque's notable features is its commitment to inclusivity. The design considers the diverse needs of its community, creating a welcoming environment for individuals of all backgrounds. The integration of educational spaces within the mosque signifies its role as a center for learning and engagement, further enhancing its architectural significance in the urban landscape of Berlin.
 
 ## Visiting Information
 
@@ -62,11 +62,11 @@ When visiting the Ibn Rushd-Goethe Mosque, several notable attractions are withi
    
 2. **Museum Island (Museumsinsel)**: A UNESCO World Heritage site, this area hosts several world-class museums, including the Pergamon Museum and the Altes Museum, showcasing art and artifacts from various civilizations.
    
-3. **Brandenburg Gate**: One of Berlin’s most iconic landmarks, this neoclassical monument is a must-see for visitors, symbolizing unity and peace.
+3. **Brandenburg Gate**: One of Berlin's most iconic landmarks, this neoclassical monument is a must-see for visitors, symbolizing unity and peace.
    
 4. **Reichstag Building**: The seat of the German parliament, this historic building features a glass dome that provides panoramic views of the city, allowing visitors to learn about German politics and history.
    
-5. **Tiergarten**: A large urban park located nearby, perfect for a leisurely stroll or a peaceful retreat from the city’s hustle and bustle.
+5. **Tiergarten**: A large urban park located nearby, perfect for a leisurely stroll or a peaceful retreat from the city's hustle and bustle.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ Seasonal considerations are important as well; Berlin experiences cold winters, 
 Most visitors find that spending about an hour is sufficient to explore the mosque and participate in any ongoing activities. However, those interested in deeper engagement might wish to stay longer.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s courteous to ask permission if photographing individuals, especially during prayer times. Be respectful of the worshippers and their practices.
+Photography is generally permitted, but it's courteous to ask permission if photographing individuals, especially during prayer times. Be respectful of the worshippers and their practices.
 
 ### Are there guided tours?
 Check the official website for the availability of guided tours. Many mosques offer educational sessions that provide insight into their history and significance.

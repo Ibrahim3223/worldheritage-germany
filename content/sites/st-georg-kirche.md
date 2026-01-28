@@ -80,7 +80,7 @@ For a fulfilling visit to St.-Georg-Kirche, consider the following insider tips:
 
 As you prepare for your visit to St.-Georg-Kirche, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring a camera for photography, a notebook for reflections, and perhaps a light jacket, as temperatures can vary inside the church.
+- **What to Bring**: It's advisable to bring a camera for photography, a notebook for reflections, and perhaps a light jacket, as temperatures can vary inside the church.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately. Summers can be warm, while winters may require heavier clothing. Additionally, check local weather forecasts to plan your visit accordingly.
 

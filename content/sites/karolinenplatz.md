@@ -30,7 +30,7 @@ Karolinenplatz is a vibrant public square located in the heart of Maxvorstadt, a
 
 Situated at the coordinates 48.1447, 11.5692, the square is easily accessible and strategically located near several key attractions. Its significance extends beyond mere aesthetics, as it plays an essential role in the cultural fabric of Munich. Visitors can expect a dynamic environment, enriched by the presence of cafés, shops, and cultural institutions that line the square. 
 
-Whether you are seeking a place to relax, a spot to engage with local life, or a starting point for further exploration of the Maxvorstadt area, Karolinenplatz promises an engaging experience steeped in the essence of Munich’s urban landscape.
+Whether you are seeking a place to relax, a spot to engage with local life, or a starting point for further exploration of the Maxvorstadt area, Karolinenplatz promises an engaging experience steeped in the essence of Munich's urban landscape.
 
 ## History and Significance
 

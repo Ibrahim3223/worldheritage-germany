@@ -50,7 +50,7 @@ Visiting the Holy-Trinity-Church is an enriching experience, allowing guests to 
 
 When planning your visit, it is advisable to check the official website for current information regarding opening hours and any potential entrance fees. This ensures that visitors are aware of any changes or specific events that may affect accessibility.
 
-While the duration of a visit can vary based on individual interests, dedicating at least an hour allows for a meaningful exploration of the church’s interior and exterior. The best times to visit may vary, but early mornings or weekdays often provide a quieter atmosphere, ideal for reflection and photography.
+While the duration of a visit can vary based on individual interests, dedicating at least an hour allows for a meaningful exploration of the church's interior and exterior. The best times to visit may vary, but early mornings or weekdays often provide a quieter atmosphere, ideal for reflection and photography.
 
 ## Nearby Attractions
 

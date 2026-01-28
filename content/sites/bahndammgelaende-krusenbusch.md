@@ -34,7 +34,7 @@ As a Naturschutzgebiet, or nature reserve, Bahndammgelände Krusenbusch emphasiz
 
 The Bahndammgelände Krusenbusch is more than just a scenic landscape; it is a reflection of the region's commitment to preserving its natural heritage. The designation of Bahndammgelände as a nature reserve underscores the importance of safeguarding the diverse ecosystems that have flourished here over time. Although specific historical milestones are not detailed, it is evident that the establishment of such a protected area aligns with broader conservation efforts within Germany and Europe aimed at preserving biodiversity and promoting sustainable practices.
 
-Located in the Oldenburg region, this nature reserve serves as a crucial habitat for various species, many of which are native to the area. The conservation efforts here are significant, not only for the local wildlife but also for the ecological studies and research that can be conducted within its boundaries. The area’s designation as a Naturschutzgebiet reflects a growing recognition of the need to protect natural spaces in the face of urbanization and environmental change.
+Located in the Oldenburg region, this nature reserve serves as a crucial habitat for various species, many of which are native to the area. The conservation efforts here are significant, not only for the local wildlife but also for the ecological studies and research that can be conducted within its boundaries. The area's designation as a Naturschutzgebiet reflects a growing recognition of the need to protect natural spaces in the face of urbanization and environmental change.
 
 Visitors to Bahndammgelände Krusenbusch can gain insights into the importance of preserving such areas, learning about the specific flora and fauna that thrive here, and the ongoing efforts to maintain ecological balance. This highlights the role that nature reserves play in educating the public about environmental stewardship and the significance of biodiversity.
 
@@ -64,7 +64,7 @@ While Bahndammgelände Krusenbusch is a standout in its own right, visitors to t
 
 2. **Eversten Holz** - A local forest area perfect for hiking and enjoying nature walks, providing additional opportunities for outdoor exploration.
 
-3. **Oldenburg Palace** - Steeped in history, this former ducal palace is now home to a museum that provides insights into the region’s cultural heritage.
+3. **Oldenburg Palace** - Steeped in history, this former ducal palace is now home to a museum that provides insights into the region's cultural heritage.
 
 4. **Stadtmuseum Oldenburg** - This city museum offers exhibitions that highlight the history and art of Oldenburg, making it a great complement to a day spent in nature.
 

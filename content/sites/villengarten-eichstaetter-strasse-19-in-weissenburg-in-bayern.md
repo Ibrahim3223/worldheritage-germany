@@ -42,7 +42,7 @@ Visitors can expect to encounter a tranquil atmosphere, ideal for reflection or 
 
 ## Visiting Information
 
-When planning a visit to the Villengarten Eichstätter Straße 19, it’s essential to consider transportation options. Weißenburg in Bayern is well-connected by public transport, making it accessible for both locals and tourists. Check the official website for current information regarding hours and any potential entry fees. 
+When planning a visit to the Villengarten Eichstätter Straße 19, it's essential to consider transportation options. Weißenburg in Bayern is well-connected by public transport, making it accessible for both locals and tourists. Check the official website for current information regarding hours and any potential entry fees. 
 
 Upon arrival, visitors can expect a peaceful setting that encourages leisurely exploration. It is advisable to allocate at least an hour to wander through the garden, taking the time to appreciate its design and tranquil ambiance. The best times to visit are typically during the spring and summer months when the garden is in full bloom, although each season offers its unique charm.
 

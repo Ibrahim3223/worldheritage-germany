@@ -96,7 +96,7 @@ Photography policies may vary within the museum. It is advisable to check for sp
 While specific information about guided tours is not provided, many museums offer options for guided experiences. Check the official website for details on available tours and programs.
 
 ### What's the best time to visit?
-For a quieter experience, consider visiting during weekdays or early mornings. Additionally, check the museum’s calendar for special events that may enhance your visit.
+For a quieter experience, consider visiting during weekdays or early mornings. Additionally, check the museum's calendar for special events that may enhance your visit.
 
 ### Is it wheelchair accessible?
 Information about wheelchair accessibility is not specified. It is recommended to check the official website for detailed accessibility options.

@@ -72,7 +72,7 @@ While Petersberg itself is a noteworthy destination, the surrounding region offe
 
 3. **Schloss Drachenburg**: This 19th-century villa located near Drachenfels offers a glimpse into the opulent architecture of the period and is surrounded by beautiful gardens.
 
-4. **Nibelungenhalle**: Located nearby, this hall celebrates the legends of Siegfried and the Nibelungen, adding a cultural dimension to the area’s rich heritage.
+4. **Nibelungenhalle**: Located nearby, this hall celebrates the legends of Siegfried and the Nibelungen, adding a cultural dimension to the area's rich heritage.
 
 5. **The Rhine River**: A visit to Petersberg would be incomplete without exploring the nearby Rhine. Boat tours and riverside walks provide a relaxing way to appreciate this famous waterway.
 
@@ -109,7 +109,7 @@ The mountain trails may not be fully accessible for those with mobility challeng
 Entry to Petersberg does not typically require tickets, but check the official website for any special events that may have ticketing information.
 
 ### Are there restrooms and cafes?
-Amenities may be limited on the mountain, so it’s advisable to bring your own supplies. Check for facilities in Königswinter before your hike.
+Amenities may be limited on the mountain, so it's advisable to bring your own supplies. Check for facilities in Königswinter before your hike.
 
 ### What should I wear?
 Wear comfortable, weather-appropriate clothing and sturdy hiking shoes to ensure a safe and enjoyable experience on the mountain.

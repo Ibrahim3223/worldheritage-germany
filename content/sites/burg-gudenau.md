@@ -101,7 +101,7 @@ Accessibility information may vary, so check the official website for details re
 Check the official website for options on purchasing tickets online to streamline your entry.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to check the official website for information on available amenities.
+Facilities may be limited, so it's best to check the official website for information on available amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are advisable, especially if you plan to explore the grounds extensively.

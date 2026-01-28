@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Am Tannenwäldchen 7 und 10 is an intriguing architectural ensemble located in Düsseldorf, Germany. This site is emblematic of the city's architectural evolution, showcasing styles that reflect its rich cultural history. Situated in a vibrant urban area, the ensemble draws the attention of both architecture enthusiasts and casual visitors alike. The structures stand as a reminder of Düsseldorf’s dynamic development and its place in Germany’s architectural narrative, making it a worthwhile stop for anyone exploring this bustling city.
+Am Tannenwäldchen 7 und 10 is an intriguing architectural ensemble located in Düsseldorf, Germany. This site is emblematic of the city's architectural evolution, showcasing styles that reflect its rich cultural history. Situated in a vibrant urban area, the ensemble draws the attention of both architecture enthusiasts and casual visitors alike. The structures stand as a reminder of Düsseldorf's dynamic development and its place in Germany's architectural narrative, making it a worthwhile stop for anyone exploring this bustling city.
 
 Düsseldorf, known for its modern and contemporary architecture, is also steeped in historical significance. The architectural ensemble at Am Tannenwäldchen 7 und 10 contributes to the understanding of the city's architectural landscape. The site not only highlights the craftsmanship of its time but also serves as an essential piece of the urban fabric that has shaped the city's identity. Visitors can expect to engage with the historical context of the area while appreciating the aesthetic qualities of the structures.
 

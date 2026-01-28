@@ -50,7 +50,7 @@ Notable elements within the church might include religious iconography, altars, 
 
 When planning a visit to St Stephen's Church, travelers should consider local transport options available within Tangermünde. The town is accessible by various means, and visitors often find that walking allows for a more immersive experience of the local environment. 
 
-To ensure a smooth visit, it’s advisable to check the official website for current information regarding hours and prices, as these can vary seasonally or due to special events. Generally, visitors can expect to spend around an hour exploring the church and soaking in its historical ambiance.
+To ensure a smooth visit, it's advisable to check the official website for current information regarding hours and prices, as these can vary seasonally or due to special events. Generally, visitors can expect to spend around an hour exploring the church and soaking in its historical ambiance.
 
 The best times to visit are during weekdays when the church is less crowded, allowing for a more personal experience. Early mornings or late afternoons may also provide a quieter atmosphere, enhancing the contemplative nature of the visit.
 
@@ -62,7 +62,7 @@ The best times to visit are during weekdays when the church is less crowded, all
    
 3. **St. Mary's Church**: Another notable church in the area, showcasing unique architectural features and historical significance.
    
-4. **Old Town**: The charming streets of Tangermünde’s Old Town are lined with timber-framed houses and quaint shops, perfect for a leisurely exploration.
+4. **Old Town**: The charming streets of Tangermünde's Old Town are lined with timber-framed houses and quaint shops, perfect for a leisurely exploration.
 
 5. **Historic Market Square**: A vibrant area where visitors can experience local culture, markets, and events throughout the year.
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting on weekdays, as weekends may attract more vis
 
 ## Practical Information
 
-When visiting St Stephen's Church, it’s advisable to bring a camera for documenting the stunning architecture and surroundings. Comfortable walking shoes are recommended, as exploring Tangermünde may involve walking on cobblestone streets.
+When visiting St Stephen's Church, it's advisable to bring a camera for documenting the stunning architecture and surroundings. Comfortable walking shoes are recommended, as exploring Tangermünde may involve walking on cobblestone streets.
 
 Seasonal considerations should also be taken into account; the summer months can be warm, while winter may bring colder temperatures. Ensure to dress appropriately for the weather and check for any special events that may influence accessibility.
 
@@ -84,7 +84,7 @@ Seasonal considerations should also be taken into account; the summer months can
 Approximately one hour is recommended to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography is typically allowed, but it’s important to be respectful of the space, especially during services.
+Photography is typically allowed, but it's important to be respectful of the space, especially during services.
 
 ### Are there guided tours?
 Information on guided tours may vary, so check the official website for current offerings.

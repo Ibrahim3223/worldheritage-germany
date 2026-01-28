@@ -36,7 +36,7 @@ Windbergstraße 22 holds a place of importance in the historical framework of Dr
 
 Although specific historical dates are not provided, the evolution of town halls often mirrors the socio-political context of their time. In periods of growth and change, such buildings often become symbols of local pride and civic engagement. The role of Windbergstraße 22 as a town hall would have made it a focal point for community interaction, where citizens gathered for meetings, celebrations, and important announcements.
 
-The significance of Windbergstraße 22 extends beyond its functional purpose. It represents a commitment to civic responsibility and local governance that has been integral to the development of Dresden. The building is a reminder of the city’s journey through various historical phases, including times of prosperity and upheaval. As such, it remains an essential part of the collective memory of the community.
+The significance of Windbergstraße 22 extends beyond its functional purpose. It represents a commitment to civic responsibility and local governance that has been integral to the development of Dresden. The building is a reminder of the city's journey through various historical phases, including times of prosperity and upheaval. As such, it remains an essential part of the collective memory of the community.
 
 In a broader context, the architectural style and design of Windbergstraße 22 reflect the characteristics of civic buildings in Germany, where functionality often meets aesthetic considerations. This intersection of form and function is an important aspect of the cultural heritage of Dresden and the surrounding areas.
 

@@ -40,7 +40,7 @@ The Holzkapelle is also significant in that it represents the architectural styl
 
 ## Architecture and Features
 
-The architectural structure of Holzkapelle Ralswiek is a testament to traditional building methods, showcasing the skill of local artisans. While specific details about the chapel’s dimensions and materials are not provided, it is typical for chapels of this nature to feature wooden construction, which aligns with the name "Holzkapelle," translating to "Wood Chapel." Such structures often exhibit intricate woodwork, giving them a distinctive character that sets them apart from more modern constructions.
+The architectural structure of Holzkapelle Ralswiek is a testament to traditional building methods, showcasing the skill of local artisans. While specific details about the chapel's dimensions and materials are not provided, it is typical for chapels of this nature to feature wooden construction, which aligns with the name "Holzkapelle," translating to "Wood Chapel." Such structures often exhibit intricate woodwork, giving them a distinctive character that sets them apart from more modern constructions.
 
 The design of the chapel likely includes features commonly found in similar religious buildings, such as a simple yet elegant façade, a pitched roof, and perhaps stained glass windows that allow natural light to illuminate the interior. The interior space is expected to be modest, creating an intimate atmosphere for worship and reflection. 
 
@@ -62,7 +62,7 @@ While visiting the Holzkapelle Ralswiek, consider exploring other nearby attract
 
 2. **Rügen Island** - Just a short distance away, Rügen Island is known for its stunning coastline and natural beauty. Visitors can indulge in outdoor activities such as hiking, cycling, and beachcombing.
 
-3. **St. Mary’s Church in Ralswiek** - This church is another significant religious site in the area worth visiting. Its architecture and serene ambiance provide a deeper understanding of the local spiritual landscape.
+3. **St. Mary's Church in Ralswiek** - This church is another significant religious site in the area worth visiting. Its architecture and serene ambiance provide a deeper understanding of the local spiritual landscape.
 
 4. **Jasmund National Park** - Famous for its chalk cliffs and diverse flora and fauna, this national park is a perfect destination for nature lovers looking to explore the breathtaking landscapes of the region.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or during off-peak hours. Thi
 
 ## Practical Information
 
-When planning your visit to the Holzkapelle Ralswiek, it’s wise to bring a few essentials. A camera is a must for capturing the beauty of the chapel and its surroundings. Additionally, comfortable walking shoes are recommended, especially if you intend to explore the area around the chapel and visit nearby attractions.
+When planning your visit to the Holzkapelle Ralswiek, it's wise to bring a few essentials. A camera is a must for capturing the beauty of the chapel and its surroundings. Additionally, comfortable walking shoes are recommended, especially if you intend to explore the area around the chapel and visit nearby attractions.
 
 Seasonal considerations are important as well. During the colder months, be sure to dress warmly, as the region can experience chilly temperatures. Conversely, in warmer weather, light layers may be more suitable, allowing for comfort as you enjoy the outdoor spaces of Ralswiek.
 

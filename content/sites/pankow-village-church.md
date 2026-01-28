@@ -15,20 +15,20 @@ wikidata_id: "Q1244581"
 latitude: 52.5706
 longitude: 13.4086
 images:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
 image_srcset:
-  Berlin%20-%20Alte%20Pfarrkirche%20„Zu%20den%20Vier%20Evangelisten“.jpg:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/400px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/800px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten“.jpg
+  Berlin%20-%20Alte%20Pfarrkirche%20„Zu%20den%20Vier%20Evangelisten".jpg:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/400px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/800px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1200px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg/1920px-Berlin_-_Alte_Pfarrkirche_„Zu_den_Vier_Evangelisten".jpg
 ---
 
 ## Overview
 
 Pankow village church, located in the Pankow district of Berlin, Germany, is a noteworthy example of ecclesiastical architecture that reflects the historical and cultural evolution of the region. This church serves not only as a place of worship but also as a focal point for community gatherings and local heritage. Visitors to the church will find themselves immersed in the tranquil atmosphere of its surroundings, offering a moment of respite from the bustling urban environment of Berlin. 
 
-The church is situated at coordinates 52.5706, 13.4086, making it accessible for those exploring the wider Pankow area. Its significance lies not only in its architectural features but also in its role as a communal space that has witnessed the passage of time and the changing dynamics of the local population. A visit to Pankow village church promises to enrich one's understanding of the area’s heritage and its contemporary relevance.
+The church is situated at coordinates 52.5706, 13.4086, making it accessible for those exploring the wider Pankow area. Its significance lies not only in its architectural features but also in its role as a communal space that has witnessed the passage of time and the changing dynamics of the local population. A visit to Pankow village church promises to enrich one's understanding of the area's heritage and its contemporary relevance.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ The architectural style of the church may reflect the broader trends in ecclesia
 
 Pankow village church is characterized by its traditional church architecture, which reflects the prevailing styles of its time. While specific architectural details are not provided, church buildings typically feature elements such as a prominent steeple, stained glass windows, and intricate woodwork. These features not only enhance the aesthetic appeal of the church but also serve functional purposes, such as providing natural light and creating a welcoming atmosphere for worshippers.
 
-Visitors can expect to encounter an interior that may include elements like an altar, pews, and possibly artwork that reflects the religious themes central to the church’s mission. The overall design likely aims to create a sense of peace and reverence, inviting contemplation and worship. 
+Visitors can expect to encounter an interior that may include elements like an altar, pews, and possibly artwork that reflects the religious themes central to the church's mission. The overall design likely aims to create a sense of peace and reverence, inviting contemplation and worship. 
 
 The church's exterior might include stone or brickwork, which is common in many German churches, offering a solid and lasting structure that has withstood the test of time. The choice of materials and design elements would have been influenced by local resources and building traditions, contributing to the church's unique character.
 
@@ -72,7 +72,7 @@ To avoid larger crowds, consider visiting during weekdays or early mornings. Thi
 
 ## Practical Information
 
-When visiting Pankow village church, it’s advisable to bring a camera to capture the architectural beauty, as well as a notebook if you wish to jot down reflections or insights. Comfortable walking shoes are recommended, as exploring the surrounding area may involve some walking.
+When visiting Pankow village church, it's advisable to bring a camera to capture the architectural beauty, as well as a notebook if you wish to jot down reflections or insights. Comfortable walking shoes are recommended, as exploring the surrounding area may involve some walking.
 
 Seasonal considerations are also important; spring and summer offer pleasant weather for outdoor exploration, while the fall may provide a picturesque backdrop with changing leaves. Winter visits may be less crowded, but ensure to check the church's heating arrangements if you prefer a warm environment during colder months.
 
@@ -97,7 +97,7 @@ For accessibility details, please check the official website or contact the chur
 Ticketing information varies, so check the official website for current options.
 
 ### Are there restrooms and cafes?
-Nearby amenities can vary; it’s best to explore the area or check local listings for cafes and restrooms.
+Nearby amenities can vary; it's best to explore the area or check local listings for cafes and restrooms.
 
 ### What should I wear?
 Dress modestly, particularly if attending a service. Comfortable clothing and shoes are recommended for exploring the church and surrounding area.

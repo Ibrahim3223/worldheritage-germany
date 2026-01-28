@@ -85,7 +85,7 @@ Most visitors find that spending 2-3 hours at the museum allows ample time to ex
 Photography policies may vary, so it's best to check with the museum upon arrival or refer to the official website.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s advisable to check the official website for details on scheduling and availability.
+Guided tours may be available, but it's advisable to check the official website for details on scheduling and availability.
 
 ### What's the best time to visit?
 Weekdays are generally quieter, offering a more relaxed experience. Check the official website for any special events that may be occurring.

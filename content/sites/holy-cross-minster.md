@@ -90,7 +90,7 @@ Seasonal considerations may also play a role in your visit. If planning to explo
 A visit to Holy Cross Minster typically ranges from 30 minutes to 1 hour, depending on your interest in the architecture and art.
 
 ### Is photography allowed?
-Photography is generally permitted inside the Minster, but it’s recommended to check for any specific restrictions regarding flash photography or tripods.
+Photography is generally permitted inside the Minster, but it's recommended to check for any specific restrictions regarding flash photography or tripods.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the history and significance of the Minster.

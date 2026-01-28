@@ -82,7 +82,7 @@ Keep in mind that visiting hours may vary, and events may impact accessibility, 
 A visit of at least an hour is recommended to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to observe local guidelines while visiting.
+Photography policies may vary, so it's best to observe local guidelines while visiting.
 
 ### Are there guided tours?
 Information regarding guided tours is typically available on the official website or at the church.

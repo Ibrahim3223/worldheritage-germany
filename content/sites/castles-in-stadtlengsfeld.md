@@ -68,7 +68,7 @@ While the Castles in Stadtlengsfeld are a focal point of interest, several nearb
 
 Photography enthusiasts will find ample opportunities to capture the beauty of the castles, particularly during the early morning or late afternoon when the light is softer. To avoid crowds, consider visiting on weekdays or during off-peak seasons.
 
-If you’re looking for unique perspectives, explore different angles of the castles, both from a distance and up close. The natural surroundings can also provide interesting frames for your shots. 
+If you're looking for unique perspectives, explore different angles of the castles, both from a distance and up close. The natural surroundings can also provide interesting frames for your shots. 
 
 ## Practical Information
 
@@ -91,7 +91,7 @@ Guided tours may be available, providing deeper insights into the history and ar
 Late afternoon or early evening is often ideal for photography and fewer crowds.
 
 ### Is it wheelchair accessible?
-Access may vary; it’s best to check the official website for specific information regarding accessibility.
+Access may vary; it's best to check the official website for specific information regarding accessibility.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

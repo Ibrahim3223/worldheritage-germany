@@ -60,7 +60,7 @@ When visiting Hendungen, consider exploring these nearby attractions to enrich y
 
 3. **Schloss Balthasar Neumann**: A short drive away, this baroque palace is an architectural marvel and offers insight into the region's history.
 
-4. **Museum of Local History in Bad Neustadt**: This museum provides a deeper understanding of the area’s cultural heritage and historical developments.
+4. **Museum of Local History in Bad Neustadt**: This museum provides a deeper understanding of the area's cultural heritage and historical developments.
 
 5. **The Historic Town of Fulda**: A bit farther afield, Fulda is known for its beautiful baroque architecture and the stunning Fulda Cathedral.
 

@@ -104,7 +104,7 @@ When preparing for a visit to Holzheim Castle, it is advisable to bring along ce
 A visit to Holzheim Castle typically requires a few hours, allowing time for exploration and appreciation of the site.
 
 ### Is photography allowed?
-While specific rules may vary, photography is generally permitted. It’s advisable to check for any restrictions upon arrival.
+While specific rules may vary, photography is generally permitted. It's advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may enhance your understanding of the castle's history.

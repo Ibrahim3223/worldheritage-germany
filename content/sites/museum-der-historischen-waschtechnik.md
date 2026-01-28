@@ -78,7 +78,7 @@ To make the most of your visit to the Museum der historischen Waschtechnik, cons
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim for a mid-week visit or arrive shortly after opening. This strategy allows you to explore the exhibits without the hustle and bustle of larger groups.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits. They can provide additional insights and stories that may not be included in the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits. They can provide additional insights and stories that may not be included in the displays.
 
 - **Plan for Refreshments**: Depending on the museum's facilities, plan for a break to enjoy a snack or drink. If the museum does not offer dining options, explore local cafes in Ostbevern.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Museum der historischen Waschtechnik, consi
 
 - **Seasonal Considerations**: Weather can vary significantly throughout the year in Germany. Be sure to check the forecast and dress appropriately, especially if you plan to explore the surrounding area.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to contact the museum in advance to inquire about facilities and accommodations available for visitors.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to contact the museum in advance to inquire about facilities and accommodations available for visitors.
 
 ## Frequently Asked Questions
 

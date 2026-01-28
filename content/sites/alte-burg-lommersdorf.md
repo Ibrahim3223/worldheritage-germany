@@ -56,7 +56,7 @@ When visiting Alte Burg, consider exploring these nearby attractions to enrich y
    
 3. **Eifel National Park** – Located a short drive away, this national park offers outdoor activities, including hiking and cycling amidst diverse flora and fauna.
    
-4. **Museum of Blankenheim** – A local museum that provides insights into the area’s history, culture, and art through various exhibits.
+4. **Museum of Blankenheim** – A local museum that provides insights into the area's history, culture, and art through various exhibits.
 
 5. **St. Martin's Church** – An architectural gem in Blankenheim, this church features beautiful interiors and historical significance dating back many centuries.
 
@@ -68,7 +68,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When planning your visit to Alte Burg, it’s advisable to bring along essentials such as water, a camera, and perhaps a light snack. Given the castle's outdoor setting, consider seasonal weather conditions; dressing in layers can be beneficial, as temperatures can fluctuate throughout the day.
+When planning your visit to Alte Burg, it's advisable to bring along essentials such as water, a camera, and perhaps a light snack. Given the castle's outdoor setting, consider seasonal weather conditions; dressing in layers can be beneficial, as temperatures can fluctuate throughout the day.
 
 In the winter months, ensure that you check for any accessibility issues or closures that may arise due to weather conditions. During summer, sun protection is recommended, as there may be limited shaded areas around the castle.
 
@@ -93,7 +93,7 @@ Information regarding accessibility should be verified on the official website, 
 Check the official website for current information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available nearby; it’s advisable to check the official website for detailed information.
+Facilities such as restrooms and cafes may be available nearby; it's advisable to check the official website for detailed information.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, as visitors may encounter varying terrain while exploring the castle and its grounds. 

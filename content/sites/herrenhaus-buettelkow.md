@@ -38,9 +38,9 @@ The history of Herrenhaus Büttelkow is woven into the broader narrative of the 
 
 Throughout its existence, the manor house has likely played an essential role in the agricultural and economic development of the surrounding area. Manor houses in this region were often centers of activity, not just for the gentry but also for the local populace who depended on the estates for employment and sustenance. Herrenhaus Büttelkow is a prime example of how such estates contributed to the social fabric of their communities.
 
-The architectural style of the manor illustrates the influences of various historical periods, which is significant in understanding the transitions that occurred in the region. The evolution of Herrenhaus Büttelkow reflects the broader changes in architectural tastes and social structures in Germany, making it an essential point of interest for those looking to delve deeper into the area’s historical context.
+The architectural style of the manor illustrates the influences of various historical periods, which is significant in understanding the transitions that occurred in the region. The evolution of Herrenhaus Büttelkow reflects the broader changes in architectural tastes and social structures in Germany, making it an essential point of interest for those looking to delve deeper into the area's historical context.
 
-As you explore Herrenhaus Büttelkow, you’ll find that the stories of the people who lived and worked here are as compelling as the structure itself. The manor is not just a monument; it is a repository of cultural memory, providing insight into the lives lived here and the historical events that unfolded in its vicinity.
+As you explore Herrenhaus Büttelkow, you'll find that the stories of the people who lived and worked here are as compelling as the structure itself. The manor is not just a monument; it is a repository of cultural memory, providing insight into the lives lived here and the historical events that unfolded in its vicinity.
 
 ## Architecture and Features
 
@@ -109,7 +109,7 @@ Check the official website for information on whether guided tours are available
 The best times to visit are often spring and autumn when the weather is pleasant and the gardens may be in bloom.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s recommended to check ahead of your visit for specific information.
+Accessibility details may vary, so it's recommended to check ahead of your visit for specific information.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options, including online sales.

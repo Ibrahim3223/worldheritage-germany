@@ -96,7 +96,7 @@ When planning your visit to Allgäuhalle, keep these practical considerations in
 
 - **Seasonal Considerations**: Weather can influence your visit, especially if you plan to explore outdoor attractions nearby. Check the forecast and dress accordingly.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to contact the venue in advance to confirm available accommodations.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to contact the venue in advance to confirm available accommodations.
 
 ## Frequently Asked Questions
 

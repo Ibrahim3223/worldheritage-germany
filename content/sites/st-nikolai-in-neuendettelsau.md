@@ -34,11 +34,11 @@ Visitors can expect a blend of historical significance and architectural beauty,
 
 St. Nikolai's history is intertwined with the development of Neuendettelsau as a settlement. While specific founding dates may not be documented, the church has played a pivotal role in the spiritual life of the community for many generations. As a center of worship, it has witnessed numerous changes in the surrounding area, adapting to the evolving needs of its congregation while maintaining its core significance.
 
-The church is named after Saint Nicholas, a figure known for his generosity and compassion, which resonates with the values upheld by the local community. This patronage underscores the church’s role in fostering a spirit of charity and community service, which has been a hallmark of Neuendettelsau's identity.
+The church is named after Saint Nicholas, a figure known for his generosity and compassion, which resonates with the values upheld by the local community. This patronage underscores the church's role in fostering a spirit of charity and community service, which has been a hallmark of Neuendettelsau's identity.
 
 In addition to its religious functions, St. Nikolai serves as a cultural hub, hosting various events that bring together residents and visitors. This has helped to solidify its status as a central figure in the town, contributing to a sense of belonging among the community. 
 
-The church is also significant for its connection to local traditions and celebrations, where it often serves as the backdrop for festivals and communal gatherings. These events reinforce community bonds and highlight the church’s role beyond mere architectural presence, emphasizing its importance as a living part of Neuendettelsau's cultural narrative.
+The church is also significant for its connection to local traditions and celebrations, where it often serves as the backdrop for festivals and communal gatherings. These events reinforce community bonds and highlight the church's role beyond mere architectural presence, emphasizing its importance as a living part of Neuendettelsau's cultural narrative.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ Engage with local congregants or staff if available; they can provide insights a
 
 When visiting St. Nikolai, it is advisable to dress modestly, respecting the sacred nature of the site. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area after your visit.
 
-Consider seasonal variations in weather when planning your trip. Spring and early fall often provide mild weather, ideal for exploration. In winter, be prepared for colder temperatures and possibly snow, which can add a unique charm to the church’s appearance.
+Consider seasonal variations in weather when planning your trip. Spring and early fall often provide mild weather, ideal for exploration. In winter, be prepared for colder temperatures and possibly snow, which can add a unique charm to the church's appearance.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ Consider seasonal variations in weather when planning your trip. Spring and earl
 Aim for approximately one to two hours to fully appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, particularly during services. It’s best to check for specific guidelines upon arrival.
+Photography policies may vary, particularly during services. It's best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding any available guided tours.

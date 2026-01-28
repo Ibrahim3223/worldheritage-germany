@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekdays or off-peak seasons. This als
 
 When visiting Burgberg, it's beneficial to bring essentials such as water, snacks, and a camera to capture your experience. Comfortable walking shoes are recommended due to the varying terrain around the castle.
 
-Seasonal considerations play a role in planning your visit. In spring and summer, visitors can enjoy the blooming flora, while autumn offers striking foliage. Winter may bring a different charm, though it’s essential to check weather conditions if planning to visit during colder months.
+Seasonal considerations play a role in planning your visit. In spring and summer, visitors can enjoy the blooming flora, while autumn offers striking foliage. Winter may bring a different charm, though it's essential to check weather conditions if planning to visit during colder months.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Information about accessibility can vary; check the official website for detaile
 Check the official website for current options regarding online ticket purchases, as availability may change.
 
 ### Are there restrooms and cafes?
-It’s advisable to check the official website for information on available facilities, including restrooms and dining options.
+It's advisable to check the official website for information on available facilities, including restrooms and dining options.
 
 ### What should I wear?
 Dress comfortably and wear suitable footwear for walking, considering the terrain you may encounter during your visit.

@@ -28,7 +28,7 @@ image_srcset:
 
 The Römergrab von Nehren is an intriguing archaeological site located in the picturesque region of Rhineland-Palatinate, Germany. This site offers visitors a glimpse into the ancient world, serving as a key location for understanding the cultural and historical developments of the region. Known for its archaeological significance, Römergrab von Nehren provides an opportunity to explore the remnants of Roman influence in this part of Europe, reflecting the intricate social dynamics and architectural practices of the time.
 
-Situated at the coordinates 50.0898, 7.18583, the site is surrounded by the natural beauty typical of Rhineland-Palatinate, making it a compelling destination for history enthusiasts and casual visitors alike. The archaeological findings here not only enhance our understanding of Roman burial practices but also contribute to the broader narrative of Germany’s rich heritage. As you visit, you will find a space that invites reflection on the past and a deeper appreciation for the historical layers that shape contemporary society.
+Situated at the coordinates 50.0898, 7.18583, the site is surrounded by the natural beauty typical of Rhineland-Palatinate, making it a compelling destination for history enthusiasts and casual visitors alike. The archaeological findings here not only enhance our understanding of Roman burial practices but also contribute to the broader narrative of Germany's rich heritage. As you visit, you will find a space that invites reflection on the past and a deeper appreciation for the historical layers that shape contemporary society.
 
 ## History and Significance
 
@@ -107,7 +107,7 @@ Information on guided tours may be available on-site or through the official web
 The ideal times to visit Römergrab von Nehren are during the spring and autumn months when the weather is typically mild and pleasant for exploration.
 
 ### Is it wheelchair accessible?
-Check the official website for specific accessibility information, as conditions may vary depending on the site’s layout.
+Check the official website for specific accessibility information, as conditions may vary depending on the site's layout.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for current information regarding online ticket availability and pricing.

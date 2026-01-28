@@ -90,7 +90,7 @@ When planning your visit to St. Paul, keep in mind the following practical consi
 A visit to St. Paul typically takes about an hour, allowing time to appreciate the architecture and atmosphere.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be discreet and respectful of the space, especially during services.
+Photography is generally permitted, but it's best to be discreet and respectful of the space, especially during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which can provide deeper insights into the church's history and architecture.

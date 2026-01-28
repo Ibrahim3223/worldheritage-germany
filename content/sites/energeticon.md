@@ -74,7 +74,7 @@ To enhance your visit to Energeticon, consider the following insider tips:
 
 ## Practical Information
 
-When visiting Energeticon, it’s wise to bring along a few essentials:
+When visiting Energeticon, it's wise to bring along a few essentials:
 
 - **Comfortable Shoes**: Expect to do some walking as you explore the museum's exhibits.
 - **Notebook or Sketchbook**: If you're keen on jotting down insights or sketching, these can be valuable tools for reflection.

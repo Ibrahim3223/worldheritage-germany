@@ -105,7 +105,7 @@ Some trails may be suitable for wheelchair users, but check the official website
 Check the official website for current information regarding access, hours, and any potential fees.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the reserve, so it’s advisable to plan accordingly. The nearby town of Altenahr offers additional amenities.
+Facilities may be limited within the reserve, so it's advisable to plan accordingly. The nearby town of Altenahr offers additional amenities.
 
 ### What should I wear?
 Dress in comfortable and weather-appropriate clothing. Sturdy footwear is essential for hiking.

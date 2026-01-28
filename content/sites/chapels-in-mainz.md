@@ -66,7 +66,7 @@ While exploring the chapels in Mainz, consider visiting the following nearby att
 
 3. **Landesmuseum Mainz**: This regional museum showcases the cultural history of the area, featuring artifacts from various epochs, including the Roman era.
 
-4. **The Old Town (Altstadt)**: Stroll through the charming streets of Mainz’s Old Town, lined with colorful medieval buildings, shops, and quaint cafés.
+4. **The Old Town (Altstadt)**: Stroll through the charming streets of Mainz's Old Town, lined with colorful medieval buildings, shops, and quaint cafés.
 
 5. **Rheinpromenade**: Take a leisurely walk along the Rhine River, where you can enjoy picturesque views and perhaps a meal at one of the riverside eateries.
 
@@ -78,7 +78,7 @@ Additionally, take a moment to engage with any available informational materials
 
 ## Practical Information
 
-When preparing for your visit to the chapels in Mainz, it’s essential to consider what to bring. Comfortable walking shoes are recommended, as you may spend considerable time exploring the area on foot. A light jacket or sweater may be advisable, as chapels can sometimes have a cooler interior climate.
+When preparing for your visit to the chapels in Mainz, it's essential to consider what to bring. Comfortable walking shoes are recommended, as you may spend considerable time exploring the area on foot. A light jacket or sweater may be advisable, as chapels can sometimes have a cooler interior climate.
 
 Depending on the season, you should also check weather forecasts and plan accordingly. If visiting during the warmer months, consider sunscreen and water, while in colder months, dress in layers to stay warm.
 

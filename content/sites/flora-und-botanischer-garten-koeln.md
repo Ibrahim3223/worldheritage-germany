@@ -36,7 +36,7 @@ The history of the Flora und Botanischer Garten Köln is intertwined with the de
 
 The garden has historically provided a platform for research, education, and community engagement. It plays a significant role in promoting biodiversity, showcasing plant species that are both native and non-native. This aspect of the garden is crucial, as it not only supports environmental conservation efforts but also fosters an appreciation for global plant diversity among visitors.
 
-The Flora also holds cultural significance, as it has been a gathering place for locals and tourists alike. Events and exhibitions are often held here, highlighting the garden's role as a cultural hub within Cologne. The garden's design encourages exploration and interaction with nature, making it a vital part of both the local landscape and the community’s cultural heritage.
+The Flora also holds cultural significance, as it has been a gathering place for locals and tourists alike. Events and exhibitions are often held here, highlighting the garden's role as a cultural hub within Cologne. The garden's design encourages exploration and interaction with nature, making it a vital part of both the local landscape and the community's cultural heritage.
 
 Overall, the Flora und Botanischer Garten Köln is more than just a collection of plants; it is a living institution dedicated to fostering a deeper understanding of the natural world. It serves as a reminder of the delicate balance between urban development and the preservation of natural spaces, making it an essential destination for anyone interested in the intersection of nature and culture.
 
@@ -70,9 +70,9 @@ Exploring the Flora und Botanischer Garten Köln opens the door to a variety of 
 
 3. **Kölner Dom (Cologne Cathedral)**: Just a short distance away, this iconic Gothic cathedral is a UNESCO World Heritage site and a must-see landmark. Its stunning architecture and historical significance attract millions of visitors each year.
 
-4. **Museum Ludwig**: A hub for modern art, this museum showcases works by renowned artists and hosts temporary exhibitions. It’s an excellent complement to the natural beauty of the Flora.
+4. **Museum Ludwig**: A hub for modern art, this museum showcases works by renowned artists and hosts temporary exhibitions. It's an excellent complement to the natural beauty of the Flora.
 
-5. **Rhine River Promenade**: A leisurely walk along the Rhine offers picturesque views and a chance to experience Cologne’s vibrant waterfront culture. It’s an ideal way to conclude your day.
+5. **Rhine River Promenade**: A leisurely walk along the Rhine offers picturesque views and a chance to experience Cologne's vibrant waterfront culture. It's an ideal way to conclude your day.
 
 ## Insider Tips
 

@@ -34,7 +34,7 @@ The estate's location, marked by its coordinates of 54.3386° N, 13.0353° E, pl
 
 Groß Kedingshagen Manor is emblematic of the country manor tradition that flourished in Germany during various historical periods. The manor's origins trace back to a time when such estates were central to the agricultural economy, serving not only as residences for the gentry but also as administrative hubs for the surrounding lands. The manor's significance lies in its representation of the socio-economic structures that characterized rural life, where land ownership and agricultural production were closely linked to the power dynamics of the time.
 
-Although specific dates and events in the manor's history may not be available, the architectural style and layout reflect the evolution of manorial estates across Germany. These estates were often associated with the feudal system, wherein the lord of the manor held rights over the land and its inhabitants. The manor’s role in managing agricultural practices and its contribution to local economies cannot be understated, as it played a crucial part in the livelihoods of many families in the surrounding areas.
+Although specific dates and events in the manor's history may not be available, the architectural style and layout reflect the evolution of manorial estates across Germany. These estates were often associated with the feudal system, wherein the lord of the manor held rights over the land and its inhabitants. The manor's role in managing agricultural practices and its contribution to local economies cannot be understated, as it played a crucial part in the livelihoods of many families in the surrounding areas.
 
 Groß Kedingshagen Manor also serves as a cultural touchstone, representing the lifestyle and values of the aristocracy during its active years. It stands as an artifact of a bygone era, allowing visitors to glean insights into the historical context of manorial life. The stories of the families who lived here, along with their influence on local culture and society, add layers of significance to the estate.
 
@@ -80,7 +80,7 @@ To enhance your visit to Groß Kedingshagen Manor, consider these insider tips:
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or off-peak seasons to enjoy a more tranquil experience, as weekends may attract more visitors.
 
-- **Explore the Grounds**: Take your time wandering the estate’s grounds. Some features may not be immediately visible but can add depth to your understanding of the manor’s layout and historical context.
+- **Explore the Grounds**: Take your time wandering the estate's grounds. Some features may not be immediately visible but can add depth to your understanding of the manor's layout and historical context.
 
 ## Practical Information
 

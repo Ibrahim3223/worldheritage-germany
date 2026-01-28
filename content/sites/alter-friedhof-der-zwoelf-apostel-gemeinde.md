@@ -32,7 +32,7 @@ Visitors to the Alter Friedhof der Zwölf-Apostel-Gemeinde can expect a serene a
 
 ## History and Significance
 
-The Alter Friedhof der Zwölf-Apostel-Gemeinde has deep cultural importance, serving not only as a resting place for the deceased but also as a reflection of the historical and social changes in Berlin. Established to serve the members of the Twelve Apostles congregation, the cemetery encapsulates a unique aspect of Berlin’s religious heritage. The congregation itself has roots in the Protestant Reformation, which marked a significant turning point in European history. 
+The Alter Friedhof der Zwölf-Apostel-Gemeinde has deep cultural importance, serving not only as a resting place for the deceased but also as a reflection of the historical and social changes in Berlin. Established to serve the members of the Twelve Apostles congregation, the cemetery encapsulates a unique aspect of Berlin's religious heritage. The congregation itself has roots in the Protestant Reformation, which marked a significant turning point in European history. 
 
 As Berlin evolved through various political regimes and social transformations, the cemetery has witnessed these changes, making it a site of historical significance. The burial grounds have seen the interment of notable figures who contributed to the cultural and social life of Berlin, though specific names and dates are not documented here. The cemetery thus serves as a vital link to understanding the phases of growth and transformation that the city has undergone.
 
@@ -48,7 +48,7 @@ In addition to the gravestones, the cemetery may feature unique landscaping elem
 
 ## Visiting Information
 
-To reach Alter Friedhof der Zwölf-Apostel-Gemeinde, visitors can utilize Berlin’s extensive public transport system, which includes buses and trains that service the Tempelhof-Schöneberg area. The cemetery is located at coordinates 52.483661111, 13.36545, making it accessible to both locals and tourists alike. 
+To reach Alter Friedhof der Zwölf-Apostel-Gemeinde, visitors can utilize Berlin's extensive public transport system, which includes buses and trains that service the Tempelhof-Schöneberg area. The cemetery is located at coordinates 52.483661111, 13.36545, making it accessible to both locals and tourists alike. 
 
 While specific hours of operation and entry prices are not detailed, it is advisable to check the official website for current information. The cemetery offers a peaceful setting where visitors can take their time to explore the grounds, with the average visit lasting about one to two hours. 
 
@@ -58,9 +58,9 @@ The best times to visit are during the spring and fall, when the weather is mild
 
 While visiting Alter Friedhof der Zwölf-Apostel-Gemeinde, consider exploring some nearby attractions that can enrich your experience in Berlin:
 
-1. **Tempelhof Airport**: A former airport turned public park, Tempelhof features vast open spaces and historical buildings, providing insight into Berlin’s aviation history.
+1. **Tempelhof Airport**: A former airport turned public park, Tempelhof features vast open spaces and historical buildings, providing insight into Berlin's aviation history.
 
-2. **Kreuzberg District**: Known for its vibrant culture and diverse community, Kreuzberg offers a plethora of dining and shopping options, as well as street art that reflects the area’s dynamic spirit.
+2. **Kreuzberg District**: Known for its vibrant culture and diverse community, Kreuzberg offers a plethora of dining and shopping options, as well as street art that reflects the area's dynamic spirit.
 
 3. **Martin-Gropius-Bau**: This exhibition hall showcases contemporary art and historical exhibitions, making it a cultural hotspot just a short distance away.
 
@@ -95,7 +95,7 @@ Specific details on guided tours are not provided; check the official website fo
 Visiting during the spring or fall is ideal for pleasant weather and fewer visitors, especially in the early morning or late afternoon.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not specified; it’s advisable to check the official website for current details.
+Information regarding wheelchair accessibility is not specified; it's advisable to check the official website for current details.
 
 ### Can I buy tickets online?
 Ticket purchasing options are not mentioned; check the official website for current information on entry and tickets.

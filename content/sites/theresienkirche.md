@@ -76,7 +76,7 @@ To avoid crowds, plan your visit on a weekday rather than the weekend, as church
 
 ## Practical Information
 
-When visiting Theresienkirche, it’s advisable to bring a camera to capture the beauty of the architecture, but ensure that you are respectful of any photography policies in place. Dress modestly, as this is a place of worship, and consider the seasons when planning your visit; warmer months might be more pleasant for exploring the surrounding area.
+When visiting Theresienkirche, it's advisable to bring a camera to capture the beauty of the architecture, but ensure that you are respectful of any photography policies in place. Dress modestly, as this is a place of worship, and consider the seasons when planning your visit; warmer months might be more pleasant for exploring the surrounding area.
 
 Be prepared for varying weather conditions, especially if you plan to travel around Aachen. An umbrella or raincoat may be prudent during the wetter months. If you wish to spend more time exploring the area, consider comfortable walking shoes to navigate the nearby attractions easily.
 
@@ -101,7 +101,7 @@ Accessibility information is best obtained by checking the official website, as 
 For current ticketing options, including online purchases, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities and amenities may be limited within the church; it’s advisable to explore nearby areas for restrooms and cafes.
+Facilities and amenities may be limited within the church; it's advisable to explore nearby areas for restrooms and cafes.
 
 ### What should I wear?
 Modest attire is recommended, as Theresienkirche is a place of worship. Comfortable clothing that aligns with the solemn nature of the site is best. 

@@ -70,7 +70,7 @@ To avoid crowds, plan your visit during weekday mornings, when the site is likel
 
 ## Practical Information
 
-Before heading to the Alte Synagoge, it’s wise to bring along essentials such as water and a small snack, especially if you plan to spend some time exploring the area. Dress comfortably, as you may wish to walk around the nearby attractions.
+Before heading to the Alte Synagoge, it's wise to bring along essentials such as water and a small snack, especially if you plan to spend some time exploring the area. Dress comfortably, as you may wish to walk around the nearby attractions.
 
 Consider the season when planning your visit, as weather can impact your experience. Spring and autumn are generally pleasant times to explore Cottbus, with moderate temperatures and fewer tourists. 
 

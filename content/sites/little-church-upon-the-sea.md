@@ -34,7 +34,7 @@ The Little Church upon the Sea invites you to experience the harmony between spi
 
 ## History and Significance
 
-Though specific dates and events surrounding the Little Church upon the Sea may not be extensively documented, its existence contributes to the cultural fabric of Husum. The church serves as a symbol of the community’s deep-rooted traditions and its relationship with the sea. Churches in coastal towns often hold a special place in the hearts of their residents, acting as both spiritual havens and landmarks that witness the changing tides of life.
+Though specific dates and events surrounding the Little Church upon the Sea may not be extensively documented, its existence contributes to the cultural fabric of Husum. The church serves as a symbol of the community's deep-rooted traditions and its relationship with the sea. Churches in coastal towns often hold a special place in the hearts of their residents, acting as both spiritual havens and landmarks that witness the changing tides of life.
 
 The Little Church has likely served as a focal point for the community, offering a place for worship and gatherings. Its presence speaks to the resilience of the town and the importance of faith in the lives of its inhabitants, particularly in a region historically shaped by the sea. This connection to the maritime environment is essential, as it reflects the daily lives and struggles of those who have called Husum home.
 
@@ -50,7 +50,7 @@ Inside, the church may offer a quiet sanctuary adorned with minimalistic decor, 
 
 ## Visiting Information
 
-Visiting the Little Church upon the Sea provides an opportunity to engage with both the spiritual and cultural essence of Husum. To reach the church, various transportation options are available, including local public transit and private vehicles. The church’s location within Husum makes it accessible for those exploring the town on foot as well.
+Visiting the Little Church upon the Sea provides an opportunity to engage with both the spiritual and cultural essence of Husum. To reach the church, various transportation options are available, including local public transit and private vehicles. The church's location within Husum makes it accessible for those exploring the town on foot as well.
 
 Check the official website for current information regarding visiting hours and any potential entrance fees. While the church is modest in size, you can expect to spend some time enjoying the peaceful atmosphere and reflecting on the significance of the space. Depending on your interests, a visit may take anywhere from a brief stop to a longer period of contemplation.
 
@@ -99,7 +99,7 @@ Currently, information on guided tours is not specified. Visitors may wish to ch
 Weekdays and early mornings or late afternoons are recommended for a quieter experience.
 
 ### Is it wheelchair accessible?
-Details regarding wheelchair accessibility are not provided. It’s advisable to check with the official website or local resources for the most current information.
+Details regarding wheelchair accessibility are not provided. It's advisable to check with the official website or local resources for the most current information.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and any potential fees.

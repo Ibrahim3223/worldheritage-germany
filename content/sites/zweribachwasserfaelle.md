@@ -60,7 +60,7 @@ While the Zweribachwasserfälle is a highlight in its own right, visitors to the
 
 1. **Black Forest National Park**: A vast expanse of protected forest land that offers countless trails for hiking and biking, as well as opportunities for wildlife observation.
 
-2. **Freiburg im Breisgau**: A charming city known for its historic architecture, vibrant culture, and the stunning Freiburg Minster. It’s a great place to explore local shops and enjoy traditional German cuisine.
+2. **Freiburg im Breisgau**: A charming city known for its historic architecture, vibrant culture, and the stunning Freiburg Minster. It's a great place to explore local shops and enjoy traditional German cuisine.
 
 3. **Titisee Lake**: A picturesque glacial lake surrounded by forests, ideal for swimming, sailing, or simply relaxing by the shore.
 
@@ -101,7 +101,7 @@ Check the official website for current information on accessibility, as paths ma
 Check the official website for current information regarding ticket purchases and entry requirements.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s recommended to check the official website for the most accurate details.
+Facilities may be limited; it's recommended to check the official website for the most accurate details.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor activities and sturdy footwear for walking on uneven trails. Dress in layers to accommodate changing weather conditions.

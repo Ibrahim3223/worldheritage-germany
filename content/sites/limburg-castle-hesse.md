@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Limburg Castle, located in the picturesque town of Limburg an der Lahn in Germany, is an impressive example of medieval architecture. Perched on a hill overlooking the Lahn River, this castle offers a glimpse into the region's storied past and serves as a significant landmark within Hesse. The castle’s strategic position not only highlights its historical importance but also provides visitors with a vantage point to appreciate the surrounding area. As you explore its towers and walls, you will uncover the tales of nobility and conflicts that shaped this fascinating site.
+Limburg Castle, located in the picturesque town of Limburg an der Lahn in Germany, is an impressive example of medieval architecture. Perched on a hill overlooking the Lahn River, this castle offers a glimpse into the region's storied past and serves as a significant landmark within Hesse. The castle's strategic position not only highlights its historical importance but also provides visitors with a vantage point to appreciate the surrounding area. As you explore its towers and walls, you will uncover the tales of nobility and conflicts that shaped this fascinating site.
 
 This heritage site is not just a relic of the past; it plays an active role in the cultural life of Limburg, hosting events and activities throughout the year. Whether you are a history enthusiast, an architecture aficionado, or simply in search of a serene spot to enjoy the views, Limburg Castle invites exploration and engagement. 
 
@@ -36,7 +36,7 @@ Limburg Castle's history is interwoven with the development of the town of Limbu
 
 The castle has witnessed various historical events, including shifts in power among local nobility and conflicts that marked the region's development. It served as a residence for counts and played a significant role in the political landscape of the area. Over the centuries, Limburg Castle has undergone various renovations and restorations, adapting to the changing needs and tastes of its inhabitants.
 
-The cultural importance of Limburg Castle extends beyond its architectural features; it stands as a symbol of the town’s heritage and is a focal point for community events. The castle has been a venue for festivals, markets, and cultural celebrations, contributing to the local identity and fostering a sense of belonging among residents and visitors alike. 
+The cultural importance of Limburg Castle extends beyond its architectural features; it stands as a symbol of the town's heritage and is a focal point for community events. The castle has been a venue for festivals, markets, and cultural celebrations, contributing to the local identity and fostering a sense of belonging among residents and visitors alike. 
 
 Today, Limburg Castle is recognized not only for its historical significance but also as a site that reflects the architectural evolution and societal changes of the region through the centuries. Its enduring presence continues to inspire those who visit, offering insights into the lives of those who once called it home.
 

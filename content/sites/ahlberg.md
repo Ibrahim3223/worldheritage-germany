@@ -85,7 +85,7 @@ A visit to Ahlberg typically takes a couple of hours, allowing time to explore t
 Photography is generally permitted, but be considerate of any specific guidelines set by the site.
 
 ### Are there guided tours?
-Information regarding guided tours may vary, so it’s best to check the official website for current offerings.
+Information regarding guided tours may vary, so it's best to check the official website for current offerings.
 
 ### What's the best time to visit?
 Spring and early autumn are ideal for visiting, as the weather is usually mild and ideal for outdoor exploration.
@@ -102,4 +102,4 @@ Information regarding the availability of restrooms and cafes is not specified, 
 ### What should I wear?
 Dress comfortably for walking and consider the weather conditions, particularly if visiting during cooler months. 
 
-In conclusion, Ahlberg stands as a significant site within the Hesse region, offering a blend of history, architecture, and natural beauty. Whether you are a history buff or simply looking to enjoy a day of exploration, this castle provides a unique perspective on Germany’s rich past.
+In conclusion, Ahlberg stands as a significant site within the Hesse region, offering a blend of history, architecture, and natural beauty. Whether you are a history buff or simply looking to enjoy a day of exploration, this castle provides a unique perspective on Germany's rich past.

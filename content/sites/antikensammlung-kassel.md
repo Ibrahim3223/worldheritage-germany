@@ -76,7 +76,7 @@ When you are in Kassel, there are several attractions that complement your visit
 
 To enhance your visit to the Antikensammlung Kassel, consider these insider tips:
 
-- **Photography**: If you wish to capture memories of your visit, be sure to check the museum’s policy on photography before you start snapping pictures. Some exhibits may have restrictions in place.
+- **Photography**: If you wish to capture memories of your visit, be sure to check the museum's policy on photography before you start snapping pictures. Some exhibits may have restrictions in place.
 
 - **Crowd avoidance**: To enjoy a more tranquil experience, aim to visit during weekday mornings when the museum tends to be less crowded. This allows for a more relaxed exploration of the exhibits.
 

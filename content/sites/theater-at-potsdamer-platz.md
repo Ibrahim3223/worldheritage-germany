@@ -28,7 +28,7 @@ image_srcset:
 
 The Theater at Potsdamer Platz serves as a vibrant cultural hub in Berlin, combining the realms of theatre and cinema within the bustling district of Tiergarten. This multifaceted venue is positioned at the heart of one of the city's most dynamic areas, making it a significant landmark for both locals and visitors alike. Its strategic location allows for easy access to a myriad of attractions, dining options, and public transport, enhancing its appeal as a must-visit site in the German capital.
 
-The theater is not just a place to watch performances; it embodies the spirit of modern Berlin, showcasing a blend of contemporary artistry and entertainment. It stands out as a focal point for those eager to experience the vibrant arts scene that Berlin is renowned for. Visitors can expect a variety of events that reflect the city’s diverse cultural landscape, making each visit unique. Whether you're an avid theatre-goer, a film buff, or simply looking to immerse yourself in Berlin's lively atmosphere, the Theater at Potsdamer Platz promises a memorable experience.
+The theater is not just a place to watch performances; it embodies the spirit of modern Berlin, showcasing a blend of contemporary artistry and entertainment. It stands out as a focal point for those eager to experience the vibrant arts scene that Berlin is renowned for. Visitors can expect a variety of events that reflect the city's diverse cultural landscape, making each visit unique. Whether you're an avid theatre-goer, a film buff, or simply looking to immerse yourself in Berlin's lively atmosphere, the Theater at Potsdamer Platz promises a memorable experience.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ Additionally, the Theater at Potsdamer Platz is a key player in Berlin's annual 
 
 ## Architecture and Features
 
-The architectural design of the Theater at Potsdamer Platz is a blend of modern aesthetics and functional design. The building itself is characterized by clean lines and a contemporary facade, which harmonizes with the surrounding urban environment. While specific architectural details are not provided, the theater’s design reflects the innovative spirit of Berlin's architectural landscape, which has evolved significantly in recent decades.
+The architectural design of the Theater at Potsdamer Platz is a blend of modern aesthetics and functional design. The building itself is characterized by clean lines and a contemporary facade, which harmonizes with the surrounding urban environment. While specific architectural details are not provided, the theater's design reflects the innovative spirit of Berlin's architectural landscape, which has evolved significantly in recent decades.
 
 Inside, the theater is equipped with state-of-the-art facilities, including multiple performance spaces that can accommodate various types of shows. These versatile spaces are designed to enhance the audience's experience, allowing for an intimate yet dynamic atmosphere that is ideal for both theatrical productions and film screenings.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Theater at Potsdamer Platz, here are some p
 Plan to spend at least a few hours at the theater, allowing time for the performance and any pre- or post-show activities.
 
 ### Is photography allowed?
-Photography policies vary; it’s best to inquire with theater staff regarding restrictions, particularly during performances.
+Photography policies vary; it's best to inquire with theater staff regarding restrictions, particularly during performances.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available and how to book them.

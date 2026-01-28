@@ -110,4 +110,4 @@ Facilities may be available on-site; check the official website for details abou
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering layers for cooler temperatures or sun protection during warmer days. 
 
-Burg Hohentrüdingen is more than just a castle; it’s a portal into the vibrant history and culture of Middle Franconia. Whether you're a history buff, an architecture enthusiast, or simply seeking a serene escape, this heritage site promises an enriching experience.
+Burg Hohentrüdingen is more than just a castle; it's a portal into the vibrant history and culture of Middle Franconia. Whether you're a history buff, an architecture enthusiast, or simply seeking a serene escape, this heritage site promises an enriching experience.

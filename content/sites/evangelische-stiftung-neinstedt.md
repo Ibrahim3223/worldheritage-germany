@@ -56,7 +56,7 @@ For those looking to visit the Evangelische Stiftung Neinstedt, it is advisable 
 
 Transportation options to Neinstedt typically include local public transport routes, which can facilitate access to the site. Visitors may find it convenient to arrive by car, as there are likely parking facilities available nearby.
 
-When planning a visit, it’s recommended to allocate sufficient time to engage with the foundation's offerings, whether that means attending an informational session, exploring the facilities, or simply taking in the atmosphere of the site. The best times to visit may coincide with community events or special programs, so checking the foundation’s calendar can enhance the experience.
+When planning a visit, it's recommended to allocate sufficient time to engage with the foundation's offerings, whether that means attending an informational session, exploring the facilities, or simply taking in the atmosphere of the site. The best times to visit may coincide with community events or special programs, so checking the foundation's calendar can enhance the experience.
 
 ## Nearby Attractions
 
@@ -98,7 +98,7 @@ When preparing for your visit to the Evangelische Stiftung Neinstedt, it's essen
 A visit to the Evangelische Stiftung Neinstedt typically takes a few hours, allowing ample time to explore the facilities and engage with staff.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s essential to respect the privacy of individuals receiving services. Always ask for permission before taking photos of people.
+Photography is generally permitted, but it's essential to respect the privacy of individuals receiving services. Always ask for permission before taking photos of people.
 
 ### Are there guided tours?
 Guided tours may be available, providing insights into the foundation's history and services. It's advisable to check in advance for scheduling and availability.

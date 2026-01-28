@@ -70,7 +70,7 @@ While Burg Kessenich is a destination in its own right, there are several nearby
 
 ## Insider Tips
 
-For those keen on photography, Burg Kessenich presents numerous opportunities for stunning shots. The castle’s exterior, especially during the golden hour of sunrise or sunset, can yield breathtaking images. If you're looking to avoid crowds, consider visiting during weekdays or early in the morning.
+For those keen on photography, Burg Kessenich presents numerous opportunities for stunning shots. The castle's exterior, especially during the golden hour of sunrise or sunset, can yield breathtaking images. If you're looking to avoid crowds, consider visiting during weekdays or early in the morning.
 
 Engaging with the local guides, if available, can enhance your understanding of the castle's history and architectural features. They often have anecdotes and insights that are not available through written materials, making your visit even more enriching.
 
@@ -80,7 +80,7 @@ When planning your visit to Burg Kessenich, it is advisable to wear comfortable 
 
 Bringing along essentials like water and snacks can be beneficial, especially if you plan to spend a few hours at the site. Ensure you have a camera or smartphone to capture the memories, but remember to check the photography rules on-site.
 
-The castle might not have extensive facilities, so it’s essential to check for restroom availability and nearby dining options in advance. This preparation will help ensure a smooth and enjoyable visit to Burg Kessenich.
+The castle might not have extensive facilities, so it's essential to check for restroom availability and nearby dining options in advance. This preparation will help ensure a smooth and enjoyable visit to Burg Kessenich.
 
 ## Frequently Asked Questions
 

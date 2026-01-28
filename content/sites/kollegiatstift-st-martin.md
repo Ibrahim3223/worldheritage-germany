@@ -56,7 +56,7 @@ While visiting Kollegiatstift St. Martin, consider exploring these nearby attrac
   
 2. **Luther Monument**: Dedicated to Martin Luther, this monument commemorates the Reformation and is located in the city center, offering insight into the region's religious history.
 
-3. **Jewish Cemetery**: Known for its historical significance, this cemetery is one of the oldest Jewish burial sites in Europe, providing a poignant reminder of the city’s diverse heritage.
+3. **Jewish Cemetery**: Known for its historical significance, this cemetery is one of the oldest Jewish burial sites in Europe, providing a poignant reminder of the city's diverse heritage.
 
 4. **Nibelungen Bridge**: This bridge offers picturesque views of the Rhine River and the surrounding landscape, making it a pleasant spot for a leisurely walk.
 

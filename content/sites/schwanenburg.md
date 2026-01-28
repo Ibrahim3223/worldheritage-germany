@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schwanenburg, a captivating castle located in the heart of Kleve, Germany, invites visitors to explore its storied past and architectural grandeur. This impressive structure is not only a hallmark of medieval military engineering but also a symbol of the region’s historical significance. As you approach Schwanenburg, the castle's silhouette dominates the skyline, hinting at the tales of power, intrigue, and resilience it has witnessed throughout the centuries.
+Schwanenburg, a captivating castle located in the heart of Kleve, Germany, invites visitors to explore its storied past and architectural grandeur. This impressive structure is not only a hallmark of medieval military engineering but also a symbol of the region's historical significance. As you approach Schwanenburg, the castle's silhouette dominates the skyline, hinting at the tales of power, intrigue, and resilience it has witnessed throughout the centuries.
 
 Kleve, situated in North Rhine-Westphalia, is rich in history and culture, making Schwanenburg a key attraction within the region. The castle's strategic position has overseen various historical events, serving as a stronghold and a residence for noble families. Its allure lies not only in its impressive stonework and towers but also in the legacy it carries as a cultural landmark. Visitors to Schwanenburg can expect to immerse themselves in the intriguing narratives that shaped the area while taking in the castle's majestic architecture and tranquil surroundings.
 
@@ -46,7 +46,7 @@ Schwanenburg is characterized by its imposing structure and distinctive architec
 
 One of the most striking features of Schwanenburg is its iconic tower, which rises dramatically above the surrounding landscape. This tower not only served as a lookout point for potential threats but also as a symbol of power for its inhabitants. The castle's exterior is adorned with intricate stone carvings and decorative elements that speak to the craftsmanship of the era in which it was built.
 
-Inside, the castle offers a glimpse into the lives of those who once called it home. Visitors can explore various rooms that illustrate the historical context of the castle’s use, including spaces designed for both defense and domestic life. The combination of functional design and aesthetic appeal highlights the dual purpose of the castle as a military stronghold and a residence.
+Inside, the castle offers a glimpse into the lives of those who once called it home. Visitors can explore various rooms that illustrate the historical context of the castle's use, including spaces designed for both defense and domestic life. The combination of functional design and aesthetic appeal highlights the dual purpose of the castle as a military stronghold and a residence.
 
 Overall, Schwanenburg's architecture is a remarkable representation of its historical significance, providing insight into the evolution of castle design and the cultural influences that shaped its construction over the years.
 
@@ -58,7 +58,7 @@ Check the official website for current information regarding hours and prices. G
 
 The best time to visit Schwanenburg is during the spring and early autumn when the weather is pleasant and conducive for outdoor exploration. The surrounding gardens and grounds also offer a delightful setting for a leisurely stroll.
 
-Visitors should be prepared for varying weather conditions, so dressing in layers and bringing comfortable walking shoes is advisable. Additionally, it’s a good idea to carry a reusable water bottle to stay hydrated during your exploration.
+Visitors should be prepared for varying weather conditions, so dressing in layers and bringing comfortable walking shoes is advisable. Additionally, it's a good idea to carry a reusable water bottle to stay hydrated during your exploration.
 
 ## Nearby Attractions
 
@@ -82,7 +82,7 @@ To make the most of your visit to Schwanenburg, consider these insider tips:
 
 - **Crowd Avoidance**: To experience Schwanenburg with fewer crowds, plan your visit during weekdays or earlier in the day. This will allow for a more tranquil exploration of the castle and its surroundings.
 
-- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the castle’s history. Knowledgeable guides can provide fascinating anecdotes and insights that enrich your visit.
+- **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the castle's history. Knowledgeable guides can provide fascinating anecdotes and insights that enrich your visit.
 
 ## Practical Information
 

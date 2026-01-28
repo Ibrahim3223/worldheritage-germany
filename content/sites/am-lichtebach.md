@@ -72,13 +72,13 @@ While visiting Am Lichtebach, consider exploring some nearby attractions to enri
 
 For the best photography opportunities, visit early in the morning or late in the afternoon when the light is soft and golden. This timing not only enhances the quality of your images but also helps avoid crowds. If you prefer solitude, consider visiting on weekdays, as weekends tend to attract more visitors.
 
-Before setting off, familiarize yourself with the trails and plan your route based on your interests. Whether you’re keen on birdwatching or simply wish to enjoy a leisurely walk, having a plan can enhance your visit. Lastly, bring along a pair of binoculars for wildlife spotting and a camera to capture the moments.
+Before setting off, familiarize yourself with the trails and plan your route based on your interests. Whether you're keen on birdwatching or simply wish to enjoy a leisurely walk, having a plan can enhance your visit. Lastly, bring along a pair of binoculars for wildlife spotting and a camera to capture the moments.
 
 ## Practical Information
 
 When planning your visit to Am Lichtebach, consider bringing comfortable footwear suitable for walking. Depending on the season, be sure to dress in layers, as temperatures can vary throughout the day. 
 
-If you’re visiting during the warmer months, don't forget to carry water to stay hydrated, and consider bringing snacks if you plan to spend several hours in the reserve. Be aware of seasonal considerations, such as potential mud during the rainy season, so plan accordingly. 
+If you're visiting during the warmer months, don't forget to carry water to stay hydrated, and consider bringing snacks if you plan to spend several hours in the reserve. Be aware of seasonal considerations, such as potential mud during the rainy season, so plan accordingly. 
 
 For the best experience, check the official website for any updates on trail conditions, accessibility, and other visitor information.
 

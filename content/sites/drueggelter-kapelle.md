@@ -42,7 +42,7 @@ The location of Drüggelter Kapelle further enhances its historical significance
 
 Drüggelter Kapelle is characterized by its distinct architectural style, which reflects the characteristics of chapels in the Nordrhein-Westfalen region. The structure typically features elements that are emblematic of ecclesiastical architecture, including a simple yet elegant design that complements its tranquil surroundings. Visitors will notice the use of traditional materials, which convey a sense of permanence and connection to the heritage of the area.
 
-The chapel’s interior is equally noteworthy, adorned with religious iconography and features that invite contemplation and reverence. Light filters through the windows, casting soft shadows that enhance the spiritual atmosphere within. The layout is designed to facilitate gatherings, allowing for an intimate connection between the worshippers and the sacred space.
+The chapel's interior is equally noteworthy, adorned with religious iconography and features that invite contemplation and reverence. Light filters through the windows, casting soft shadows that enhance the spiritual atmosphere within. The layout is designed to facilitate gatherings, allowing for an intimate connection between the worshippers and the sacred space.
 
 While specific architectural details may vary, the overall impression of Drüggelter Kapelle is one of harmony and serenity, making it a fitting place for both personal reflection and communal worship. The chapel stands as a testament to the craftsmanship and devotion of those who have contributed to its upkeep over the years.
 

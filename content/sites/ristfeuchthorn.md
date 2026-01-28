@@ -74,7 +74,7 @@ When hiking, be aware of the changing weather conditions, as they can affect vis
 
 ## Practical Information
 
-When preparing for your visit to Ristfeuchthorn, it’s essential to bring the right gear. Comfortable hiking shoes, weather-appropriate clothing, and a backpack with water and snacks are advisable. A camera or smartphone can help you capture the stunning scenery.
+When preparing for your visit to Ristfeuchthorn, it's essential to bring the right gear. Comfortable hiking shoes, weather-appropriate clothing, and a backpack with water and snacks are advisable. A camera or smartphone can help you capture the stunning scenery.
 
 Seasonal considerations are important as well. Summer months can bring warm temperatures, while spring and fall may require additional layers due to fluctuating weather. Always check the forecast before heading out to ensure a safe and enjoyable experience.
 

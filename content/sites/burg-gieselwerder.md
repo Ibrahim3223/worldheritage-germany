@@ -65,7 +65,7 @@ When visiting Burg Gieselwerder, consider exploring other nearby attractions tha
 
 ## Insider Tips
 
-For photography enthusiasts, Burg Gieselwerder provides numerous opportunities for capturing stunning images. Early morning or late afternoon light can enhance the castle's features, yielding striking photographs against the backdrop of the landscape. Additionally, consider exploring different angles and perspectives to showcase the castle’s architecture.
+For photography enthusiasts, Burg Gieselwerder provides numerous opportunities for capturing stunning images. Early morning or late afternoon light can enhance the castle's features, yielding striking photographs against the backdrop of the landscape. Additionally, consider exploring different angles and perspectives to showcase the castle's architecture.
 
 To avoid crowds, plan your visit during weekdays or outside of peak tourist seasons. This approach allows for a more relaxed experience, giving you the freedom to explore at your own pace and engage more deeply with the site.
 

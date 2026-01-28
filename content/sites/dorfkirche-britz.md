@@ -36,7 +36,7 @@ Dorfkirche Britz has a storied history that reflects the broader narrative of Be
 
 The church serves as a vital cultural hub, hosting numerous events and gatherings that engage the local populace. It is not merely a place for religious services but also acts as a venue for community events, concerts, and art exhibitions. This multifunctionality enhances its importance within the Neukölln district, where it encourages interaction among residents and visitors alike.
 
-Dorfkirche Britz is also a part of Berlin's broader heritage, representing the city's resilience and adaptability. Throughout its existence, the church has witnessed significant historical events and transformations, which have shaped its identity. For visitors, it offers an opportunity to connect with the layers of history that characterize Berlin, making it a significant point of interest in the city’s rich tapestry of cultural narratives.
+Dorfkirche Britz is also a part of Berlin's broader heritage, representing the city's resilience and adaptability. Throughout its existence, the church has witnessed significant historical events and transformations, which have shaped its identity. For visitors, it offers an opportunity to connect with the layers of history that characterize Berlin, making it a significant point of interest in the city's rich tapestry of cultural narratives.
 
 ## Architecture and Features
 

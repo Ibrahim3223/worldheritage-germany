@@ -46,7 +46,7 @@ The Mausoleum in Gadow Castle Park is an architectural highlight within its sere
 
 The structure likely features classical elements common to mausoleum architecture, such as symbolic motifs and carefully crafted stonework. The design may include features like a domed roof or intricate carvings that reflect the artistic sensibilities of the era in which it was constructed. Additionally, its placement within the castle park suggests that it is harmoniously integrated into the landscape, allowing visitors to appreciate both the architecture and the natural beauty that surrounds it.
 
-Visitors can expect to find a tranquil space that encourages contemplation. The mausoleum’s interior may contain memorial plaques or sculptures, further enriching the experience by connecting visitors with the history of those interred. The overall aesthetic is likely one of dignity and respect, designed to invoke a sense of reverence.
+Visitors can expect to find a tranquil space that encourages contemplation. The mausoleum's interior may contain memorial plaques or sculptures, further enriching the experience by connecting visitors with the history of those interred. The overall aesthetic is likely one of dignity and respect, designed to invoke a sense of reverence.
 
 ## Visiting Information
 

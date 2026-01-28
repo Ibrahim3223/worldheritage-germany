@@ -32,11 +32,11 @@ Berlin's cemeteries often serve as cultural landmarks, and Luisenstadt Cemetery 
 
 ## History and Significance
 
-Luisenstadt Cemetery was established during a period of significant transformation in Berlin. Though specific founding dates are not detailed, the cemetery has witnessed the changing tides of history, encompassing the city’s development from a Prussian capital to a modern metropolis. It reflects the societal shifts that have occurred over the decades, including changes in architecture, cultural norms, and the city's demographic landscape.
+Luisenstadt Cemetery was established during a period of significant transformation in Berlin. Though specific founding dates are not detailed, the cemetery has witnessed the changing tides of history, encompassing the city's development from a Prussian capital to a modern metropolis. It reflects the societal shifts that have occurred over the decades, including changes in architecture, cultural norms, and the city's demographic landscape.
 
 The cemetery is named after the adjacent Luisenstadt Canal, which was part of a larger urban development plan in the 19th century. It was designed to accommodate the growing population of Berlin, and as such, it became a final resting place for many notable individuals from various walks of life. The graves within Luisenstadt Cemetery tell stories of artists, politicians, and everyday citizens, each contributing to the rich narrative of Berlin's history.
 
-The cemetery’s significance extends beyond its role as a burial ground; it represents the cultural and social evolution of Berlin itself. The diversity of those buried here reflects the melting pot of cultures that have shaped the city. Many of the graves are adorned with intricate sculptures and carvings that highlight the artistry of the time and the personal stories of the individuals interred. This artistic value adds another layer to the cemetery’s importance, making it a place not just of mourning but also of appreciation for the city’s heritage.
+The cemetery's significance extends beyond its role as a burial ground; it represents the cultural and social evolution of Berlin itself. The diversity of those buried here reflects the melting pot of cultures that have shaped the city. Many of the graves are adorned with intricate sculptures and carvings that highlight the artistry of the time and the personal stories of the individuals interred. This artistic value adds another layer to the cemetery's importance, making it a place not just of mourning but also of appreciation for the city's heritage.
 
 ## Architecture and Features
 

@@ -64,7 +64,7 @@ While Barrack Wilhelmine offers a compelling journey into local history, the sur
 
 2. **Local Parks**: The nearby parks provide a serene environment for a leisurely stroll or a picnic, allowing visitors to unwind amidst nature after their museum visit.
 
-3. **Historical Sites**: Explore other historical landmarks in Schwanewede that complement the themes presented at Barrack Wilhelmine, providing a broader context of the area’s heritage.
+3. **Historical Sites**: Explore other historical landmarks in Schwanewede that complement the themes presented at Barrack Wilhelmine, providing a broader context of the area's heritage.
 
 4. **Cultural Events**: Keep an eye out for local festivals or cultural events that may be taking place during your visit, offering additional opportunities to engage with the community.
 

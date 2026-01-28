@@ -76,7 +76,7 @@ The best times to visit the Village Church of Altthymen would likely be during t
 
 When visiting the Village Church of Altthymen, consider arriving early in the day or later in the afternoon to avoid the busiest times. This will not only enhance your experience but also provide you with quieter moments for reflection.
 
-For photography enthusiasts, the soft morning or late afternoon light can create beautiful scenes of the church’s exterior, especially if you're fortunate enough to capture it surrounded by blooming gardens or autumn foliage. Be respectful of any services taking place and limit your photography during these times.
+For photography enthusiasts, the soft morning or late afternoon light can create beautiful scenes of the church's exterior, especially if you're fortunate enough to capture it surrounded by blooming gardens or autumn foliage. Be respectful of any services taking place and limit your photography during these times.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ Seasonal considerations are also important; check the weather forecast and prepa
 A visit to the Village Church of Altthymen typically takes about an hour, but you may want to allocate more time if you wish to explore the surroundings or attend a service.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s advisable to be respectful during services or community events.
+Photography is usually permitted, but it's advisable to be respectful during services or community events.
 
 ### Are there guided tours?
 Information regarding guided tours may not be available. Check the official website for the latest updates.
@@ -105,7 +105,7 @@ Details regarding wheelchair accessibility are not provided; it is recommended t
 Information on online ticket purchases is not specified. Please check the official website for the most accurate details.
 
 ### Are there restrooms and cafes?
-Specific information about restrooms and cafes is not available. It’s advisable to check nearby facilities in the village for visitor needs.
+Specific information about restrooms and cafes is not available. It's advisable to check nearby facilities in the village for visitor needs.
 
 ### What should I wear?
 Modest attire is recommended, especially if you plan to attend any services. Comfortable walking shoes are also suggested for exploring the surroundings.

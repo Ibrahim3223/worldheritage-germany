@@ -44,7 +44,7 @@ St. Sebastianus is characterized by its distinctive architectural elements that 
 
 Key features of St. Sebastianus may include an intricately designed altar, stained glass windows, and a bell tower—elements commonly found in churches of this type. These details not only enhance the aesthetic appeal of the building but also serve to inspire reverence and contemplation among visitors. The interior may also house religious artifacts and artworks that tell stories of faith and community history.
 
-The surrounding landscape and the church’s integration within it further add to the site’s charm. The tranquil environment offers a reflective space for visitors, allowing them to appreciate both the spiritual and architectural beauty of St. Sebastianus.
+The surrounding landscape and the church's integration within it further add to the site's charm. The tranquil environment offers a reflective space for visitors, allowing them to appreciate both the spiritual and architectural beauty of St. Sebastianus.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While St. Sebastianus itself is a compelling destination, the surrounding area o
 
 3. **The Rhine River**: A scenic backdrop for a leisurely stroll or bike ride, the river offers picturesque views and opportunities for outdoor activities.
 
-4. **Castle Ruins of Rammelsbach**: Located nearby, these ruins provide historical insight and a scenic viewpoint for visitors interested in the region’s medieval architecture.
+4. **Castle Ruins of Rammelsbach**: Located nearby, these ruins provide historical insight and a scenic viewpoint for visitors interested in the region's medieval architecture.
 
 5. **Local Vineyards**: The Rhineland is known for its vineyards, and exploring the local wineries can provide a delightful addition to your visit, offering tastings of regional wines.
 

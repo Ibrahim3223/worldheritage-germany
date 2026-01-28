@@ -74,7 +74,7 @@ When planning your visit to the Römermuseum Mainhardt, here are some insider ti
 
 - **Crowd Avoidance**: To enjoy a more intimate experience with the exhibits, consider visiting during weekdays or early in the morning. This can allow for a less rushed exploration of the museum.
 
-- **Engage with Staff**: Don’t hesitate to engage with the museum staff. They often have valuable insights and can provide additional context to the exhibits, enriching your understanding of what you’re seeing.
+- **Engage with Staff**: Don't hesitate to engage with the museum staff. They often have valuable insights and can provide additional context to the exhibits, enriching your understanding of what you're seeing.
 
 ## Practical Information
 
@@ -84,7 +84,7 @@ When preparing for a visit to the Römermuseum Mainhardt, consider the following
 
 - **Seasonal Considerations**: If visiting in winter, check for any weather-related advisories that may impact your travel plans. Summer visits may require sun protection, especially if you plan to explore outdoor attractions nearby.
 
-- **Accessibility**: While specific information on accessibility is not provided, it’s advisable to check the official website or contact museum staff for details if you have specific needs.
+- **Accessibility**: While specific information on accessibility is not provided, it's advisable to check the official website or contact museum staff for details if you have specific needs.
 
 ## Frequently Asked Questions
 

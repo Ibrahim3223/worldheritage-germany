@@ -38,7 +38,7 @@ The Alice Museum for Children also aligns with Berlin's reputation as a hub for 
 
 While specific architectural details of the Alice Museum for Children are not available, museums designed for children typically prioritize spaciousness, safety, and accessibility. The layout is likely designed to facilitate movement and exploration, with various sections dedicated to different themes and activities.
 
-The interior of the museum probably features vibrant colors and playful designs, creating an inviting atmosphere that captivates young visitors. Interactive exhibits are a hallmark of children’s museums, and the Alice Museum likely includes hands-on installations that encourage kids to touch, manipulate, and learn through direct engagement.
+The interior of the museum probably features vibrant colors and playful designs, creating an inviting atmosphere that captivates young visitors. Interactive exhibits are a hallmark of children's museums, and the Alice Museum likely includes hands-on installations that encourage kids to touch, manipulate, and learn through direct engagement.
 
 In addition to exhibits, the museum may offer areas for group activities, workshops, and performances, further enriching the visitor experience. These spaces are essential for fostering collaboration and socialization among children, enhancing the overall educational impact of the museum.
 
@@ -56,7 +56,7 @@ While in the vicinity of the Alice Museum for Children, consider exploring these
 
 1. **Berlin Zoo** - A short distance away, this zoo offers a diverse range of animal exhibits and is a favorite among families.
 2. **Potsdamer Platz** - Known for its vibrant atmosphere, this area features shops, restaurants, and entertainment options.
-3. **The Berlin Wall Memorial** - A significant historical site that provides insight into the city’s past and the impact of the Berlin Wall.
+3. **The Berlin Wall Memorial** - A significant historical site that provides insight into the city's past and the impact of the Berlin Wall.
 4. **Tiergarten** - One of Berlin's largest parks, perfect for a leisurely stroll or a picnic after your museum visit.
 5. **The Brandenburg Gate** - An iconic symbol of Berlin, this landmark is a must-see for anyone visiting the city.
 
@@ -91,7 +91,7 @@ The museum may offer guided tours or educational programs; check the official we
 Weekday mornings tend to be less crowded, making them ideal for a more relaxed visit.
 
 ### Is it wheelchair accessible?
-Most modern museums, including children’s museums, prioritize accessibility. It’s advisable to confirm specific access options on the official website.
+Most modern museums, including children's museums, prioritize accessibility. It's advisable to confirm specific access options on the official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so it is best to visit the official website for the latest information on online ticket sales.

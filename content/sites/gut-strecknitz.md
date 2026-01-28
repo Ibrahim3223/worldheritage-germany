@@ -62,7 +62,7 @@ Located near the historic city of Lübeck, Gut Strecknitz is in close proximity 
 
 1. **Lübeck Old Town**: A UNESCO World Heritage site, Lübeck's Old Town is renowned for its medieval architecture, including the iconic Holstentor and St. Mary's Church.
    
-2. **St. Peter’s Church**: One of Lübeck's oldest churches, this landmark features impressive Gothic architecture and offers stunning views from its tower.
+2. **St. Peter's Church**: One of Lübeck's oldest churches, this landmark features impressive Gothic architecture and offers stunning views from its tower.
    
 3. **Museum Holstentor**: Housed in the famous Holstentor gate, this museum provides insights into Lübeck's history, trade, and culture.
    

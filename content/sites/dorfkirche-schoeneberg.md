@@ -28,7 +28,7 @@ image_srcset:
 
 Dorfkirche Schöneberg, located in the Tempelhof-Schöneberg district of Berlin, stands as a significant church building and cemetery that reflects the historical and cultural narratives of the area. This site offers visitors a glimpse into the architectural styles and burial practices that have shaped local traditions over the years. With its tranquil atmosphere and rich heritage, Dorfkirche Schöneberg serves not only as a place of worship but also as a space for reflection and remembrance. 
 
-As you approach the church, you'll find a unique blend of historical architecture and serene landscapes, making it a perfect spot for contemplation and exploration. The cemetery surrounding the church adds depth to the experience, inviting visitors to consider the lives of those who came before. While it may not be one of the most famous landmarks in Berlin, Dorfkirche Schöneberg's understated beauty and significance make it a worthwhile stop for those interested in the city’s multifaceted history.
+As you approach the church, you'll find a unique blend of historical architecture and serene landscapes, making it a perfect spot for contemplation and exploration. The cemetery surrounding the church adds depth to the experience, inviting visitors to consider the lives of those who came before. While it may not be one of the most famous landmarks in Berlin, Dorfkirche Schöneberg's understated beauty and significance make it a worthwhile stop for those interested in the city's multifaceted history.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ The cemetery surrounding the church is equally captivating. It presents an oppor
 
 When planning a visit to Dorfkirche Schöneberg, it's important to consider transportation options. The church is accessible via public transit, making it easy for visitors to reach. Depending on your starting point, you can find convenient routes that bring you close to the site.
 
-Check the official website for current information regarding hours of operation and any potential fees. While visiting, allocate sufficient time to explore both the church and the cemetery. A visit of about one to two hours is recommended to fully appreciate the site’s offerings.
+Check the official website for current information regarding hours of operation and any potential fees. While visiting, allocate sufficient time to explore both the church and the cemetery. A visit of about one to two hours is recommended to fully appreciate the site's offerings.
 
 The best times to visit are during daylight hours, allowing for optimal lighting for photographs and a more enjoyable experience. Weekdays may be less crowded compared to weekends, providing a quieter atmosphere for reflection.
 
@@ -72,7 +72,7 @@ While in the vicinity of Dorfkirche Schöneberg, consider exploring these nearby
 
 ## Insider Tips
 
-For those interested in photography, the best light for capturing the church’s exterior is in the early morning or late afternoon. This will also help avoid crowds, allowing for a more personal experience. When exploring the cemetery, consider taking a leisurely stroll to appreciate the variety of headstone designs and the serene atmosphere.
+For those interested in photography, the best light for capturing the church's exterior is in the early morning or late afternoon. This will also help avoid crowds, allowing for a more personal experience. When exploring the cemetery, consider taking a leisurely stroll to appreciate the variety of headstone designs and the serene atmosphere.
 
 To avoid peak tourist times, visiting during weekdays is advisable. This not only enhances your experience but also allows for quieter moments of reflection. Additionally, engaging with any informational materials available on-site can enrich your understanding of the church and its history.
 

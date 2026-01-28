@@ -32,7 +32,7 @@ As you step into this church, you are transported into a space where faith and t
 
 ## History and Significance
 
-Although specific dates regarding the Church in Passee's foundation and significant events may not be available, its presence in the community reflects a long-standing tradition of worship and fellowship. Churches often serve as central figures in their locales, and the Church in Passee is no exception. It has likely been a place where generations have come together to celebrate life’s milestones, from births and marriages to funerals and festivals.
+Although specific dates regarding the Church in Passee's foundation and significant events may not be available, its presence in the community reflects a long-standing tradition of worship and fellowship. Churches often serve as central figures in their locales, and the Church in Passee is no exception. It has likely been a place where generations have come together to celebrate life's milestones, from births and marriages to funerals and festivals.
 
 The cultural importance of such a church cannot be overstated; it often acts as a custodian of local history and traditions. Through the years, the Church in Passee has likely adapted to the changing needs of its congregation, reflecting broader social changes while maintaining its core purpose. This adaptability is a testament to the church's role as a pillar of support within the community.
 

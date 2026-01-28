@@ -42,7 +42,7 @@ Surrounding the City Hall, Rathausplatz itself is a vibrant square that adds to 
 
 ## Visiting Information
 
-When planning your visit to Rathausplatz 1 in Elsfleth, it’s important to consider local transport options. The town is accessible by various means, including public transportation and private vehicles. Once you arrive, the City Hall is centrally located, making it easy to incorporate into a walking tour of the area.
+When planning your visit to Rathausplatz 1 in Elsfleth, it's important to consider local transport options. The town is accessible by various means, including public transportation and private vehicles. Once you arrive, the City Hall is centrally located, making it easy to incorporate into a walking tour of the area.
 
 For current visiting hours and any potential entry fees, check the official website for the most accurate and updated information. Visitors can expect to spend anywhere from one to two hours exploring the building and the surrounding plaza, depending on their interest in local history and architecture. 
 
@@ -58,7 +58,7 @@ While visiting Rathausplatz 1, take the opportunity to explore the surrounding a
 
 3. **St. John's Church**: Located not far from Rathausplatz, this historic church is known for its striking architecture and serene atmosphere.
 
-4. **Old Town District**: Wander through the quaint streets of Elsfleth’s Old Town, where you can see traditional German architecture and visit local shops and cafes.
+4. **Old Town District**: Wander through the quaint streets of Elsfleth's Old Town, where you can see traditional German architecture and visit local shops and cafes.
 
 5. **Local Markets**: Depending on the time of year, you may encounter markets selling local produce and crafts, further showcasing the community spirit of Elsfleth.
 

@@ -36,7 +36,7 @@ St. Lukas has played an essential role in the religious landscape of Munich. As 
 
 Its significance is further amplified by its historical context. Throughout the years, St. Lukas has witnessed various socio-political changes within Munich and has adapted to the evolving needs of its community. The church's continual presence reflects a commitment to serving the spiritual and practical needs of its parishioners, making it a pivotal establishment in the area.
 
-The church’s architecture and its role in the community speak to the larger narrative of Munich's development. As the city has transformed, so too has St. Lukas, maintaining its relevance through various historical epochs. The church is not just a religious institution; it is a living part of the city’s historical fabric, embodying the stories and experiences of countless individuals over the years.
+The church's architecture and its role in the community speak to the larger narrative of Munich's development. As the city has transformed, so too has St. Lukas, maintaining its relevance through various historical epochs. The church is not just a religious institution; it is a living part of the city's historical fabric, embodying the stories and experiences of countless individuals over the years.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ St. Lukas is well-positioned within Munich, offering easy access to several near
 
 2. **Viktualienmarkt** - A vibrant market located nearby, it features a wide array of fresh produce, gourmet foods, and local delicacies, ideal for a quick bite or souvenir shopping.
 
-3. **Deutsches Museum** - One of the world’s largest museums dedicated to science and technology, it offers fascinating exhibits that can captivate visitors of all ages.
+3. **Deutsches Museum** - One of the world's largest museums dedicated to science and technology, it offers fascinating exhibits that can captivate visitors of all ages.
 
 4. **Isar River** - A picturesque area for a leisurely walk or picnic, the river provides a natural escape amidst the urban environment, allowing for relaxation and reflection.
 
@@ -76,7 +76,7 @@ To enhance your visit to St. Lukas, consider these insider tips:
 
 - **Photography**: While photography is generally welcome inside the church, be sure to respect any signs or requests from staff regarding flash photography or specific areas where photography may be restricted.
 
-- **Timing Your Visit**: Plan your visit during the weekdays or early mornings to avoid crowds, allowing for a more peaceful experience. If you’re interested in attending a service, check the schedule in advance.
+- **Timing Your Visit**: Plan your visit during the weekdays or early mornings to avoid crowds, allowing for a more peaceful experience. If you're interested in attending a service, check the schedule in advance.
 
 ## Practical Information
 

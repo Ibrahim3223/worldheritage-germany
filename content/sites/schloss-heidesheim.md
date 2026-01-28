@@ -88,7 +88,7 @@ When planning your visit to Schloss Heidesheim, consider the following practical
 
 - **Seasonal Considerations**: Weather can vary, so check the forecast and dress accordingly. If visiting in cooler months, layers may be helpful.
 
-- **Amenities**: While specific amenities are not detailed, be prepared for basic necessities. It’s wise to check the official website for information on facilities such as restrooms and cafes.
+- **Amenities**: While specific amenities are not detailed, be prepared for basic necessities. It's wise to check the official website for information on facilities such as restrooms and cafes.
 
 ## Frequently Asked Questions
 

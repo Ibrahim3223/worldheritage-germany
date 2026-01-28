@@ -74,7 +74,7 @@ The Lessing-Museum Kamenz is situated near several noteworthy attractions that c
 
 For photography enthusiasts, the Lessing-Museum provides several opportunities to capture unique images; however, be sure to check if there are any restrictions on photography within the exhibits. Visiting during the early hours after opening can help you avoid crowds, allowing a more intimate experience with the displays.
 
-Consider engaging with museum staff, as they may provide insights and anecdotes that enrich your visit. Additionally, if you have a particular interest in Lessing’s works or the Enlightenment period, do not hesitate to inquire about any available resources or literature that can further your understanding.
+Consider engaging with museum staff, as they may provide insights and anecdotes that enrich your visit. Additionally, if you have a particular interest in Lessing's works or the Enlightenment period, do not hesitate to inquire about any available resources or literature that can further your understanding.
 
 ## Practical Information
 

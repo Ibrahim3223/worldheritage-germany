@@ -67,7 +67,7 @@ Kapelle auf dem Fürstenberg is situated within a region rich in cultural and na
 
 When visiting Kapelle auf dem Fürstenberg, consider bringing a camera to capture the serene environment and architectural details. Early mornings or weekdays may offer a quieter experience, allowing for better photography opportunities without the interruption of crowds. If you're looking for solitude, visiting during off-peak hours can enhance your experience.
 
-In addition, be respectful of the chapel’s spiritual atmosphere. If services are in session, it’s best to observe quietly. Engaging with any available local guides can also provide deeper insights into the chapel’s significance and the surrounding area.
+In addition, be respectful of the chapel's spiritual atmosphere. If services are in session, it's best to observe quietly. Engaging with any available local guides can also provide deeper insights into the chapel's significance and the surrounding area.
 
 ## Practical Information
 

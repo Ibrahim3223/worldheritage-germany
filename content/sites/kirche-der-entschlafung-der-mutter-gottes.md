@@ -58,7 +58,7 @@ Within the church, visitors can anticipate a tranquil environment conducive to c
 
 1. **Hildesheim Cathedral**: A UNESCO World Heritage Site, the Hildesheim Cathedral is notable for its Romanesque architecture and significant historical artifacts. A short walk from the church, it is a must-visit for history enthusiasts.
 
-2. **Saint Michael’s Church**: Another UNESCO World Heritage Site, this church is known for its stunning architecture and unique art. It highlights the religious significance of the region.
+2. **Saint Michael's Church**: Another UNESCO World Heritage Site, this church is known for its stunning architecture and unique art. It highlights the religious significance of the region.
 
 3. **Market Square (Marktplatz)**: The bustling heart of Hildesheim, the Market Square features historic buildings, shops, and cafes, making it a great place to soak in the local culture.
 
@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during weekdays rather than weekends, as this t
 
 When visiting the Kirche der Entschlafung der Mutter Gottes, it is wise to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. Seasonal considerations may influence your visit; check the weather forecast to dress appropriately, especially in colder months when temperatures can drop significantly in Germany.
 
-If you plan on spending an extended time in the area, consider bringing a notebook or sketchbook to jot down reflections or make sketches of the church’s architectural details. This can enhance your experience as you take in the serene atmosphere of the church.
+If you plan on spending an extended time in the area, consider bringing a notebook or sketchbook to jot down reflections or make sketches of the church's architectural details. This can enhance your experience as you take in the serene atmosphere of the church.
 
 ## Frequently Asked Questions
 

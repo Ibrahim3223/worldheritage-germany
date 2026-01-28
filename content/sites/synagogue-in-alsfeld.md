@@ -38,7 +38,7 @@ The Synagogue in Alsfeld holds substantial cultural importance as a historical s
 
 While specific dates related to the synagogue's construction and historical events may not be available, it is understood that synagogues in this region often played pivotal roles during both flourishing and difficult times for the Jewish population. The architecture and design of the synagogue reflect the Jewish customs and traditions that were prevalent when it was built, showcasing elements that would resonate with other synagogues in Germany and Europe.
 
-The synagogue stands as a poignant reminder of the Jewish community's contributions to Alsfeld’s social and economic fabric. Throughout the years, despite the adversities faced during various periods, including the Holocaust, the community's legacy remains integral to the town's identity. Visiting this site offers insights into the narratives that shaped the Jewish experience in Alsfeld and Germany as a whole.
+The synagogue stands as a poignant reminder of the Jewish community's contributions to Alsfeld's social and economic fabric. Throughout the years, despite the adversities faced during various periods, including the Holocaust, the community's legacy remains integral to the town's identity. Visiting this site offers insights into the narratives that shaped the Jewish experience in Alsfeld and Germany as a whole.
 
 ## Architecture and Features
 
@@ -113,7 +113,7 @@ Accessibility details are not specified. It is recommended to check with the syn
 Check the official website for current information regarding ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-While specific facilities are not detailed, nearby cafés and public restrooms may be available throughout Alsfeld. It’s best to explore the town for amenities.
+While specific facilities are not detailed, nearby cafés and public restrooms may be available throughout Alsfeld. It's best to explore the town for amenities.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly when visiting places of worship. Comfortable attire suitable for walking is also recommended.

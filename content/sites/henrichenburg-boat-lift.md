@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Henrichenburg boat lift, located in the charming town of Waltrop, Germany, stands as a remarkable feat of engineering that has captured the imagination of visitors and historians alike. This impressive boat lift, which facilitates the movement of vessels between different water levels, is not just a practical structure; it is a museum that showcases the ingenuity of past generations in the realm of transportation and industry. As a part of the larger German canal system, the Henrichenburg boat lift played a crucial role in facilitating trade and commerce, making it an important piece of Europe’s industrial heritage.
+The Henrichenburg boat lift, located in the charming town of Waltrop, Germany, stands as a remarkable feat of engineering that has captured the imagination of visitors and historians alike. This impressive boat lift, which facilitates the movement of vessels between different water levels, is not just a practical structure; it is a museum that showcases the ingenuity of past generations in the realm of transportation and industry. As a part of the larger German canal system, the Henrichenburg boat lift played a crucial role in facilitating trade and commerce, making it an important piece of Europe's industrial heritage.
 
 The lift is situated at coordinates 51.616583333, 7.325861111, making it easily accessible for those traveling through the Ruhr area. Visitors can expect to delve into the intricate workings of this historic lift while also enjoying the scenic beauty of the surrounding area. With its fascinating history and innovative design, the Henrichenburg boat lift promises an enlightening experience for engineering enthusiasts, history buffs, and casual visitors alike.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Henrichenburg boat lift, consider the foll
 
 ## Practical Information
 
-When planning your visit to the Henrichenburg boat lift, it’s essential to consider a few practical details:
+When planning your visit to the Henrichenburg boat lift, it's essential to consider a few practical details:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as visitors may explore multiple areas of the site. Additionally, a water bottle can help keep you hydrated during your visit.
 

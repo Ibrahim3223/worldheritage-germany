@@ -74,7 +74,7 @@ Bringing binoculars can enhance your experience, especially for birdwatching, al
 
 ## Practical Information
 
-When planning your visit to Aßbütteler Moor, consider bringing essentials such as water, snacks, and a good pair of walking shoes to traverse the trails comfortably. A map of the reserve can enhance your exploration, and it’s wise to familiarize yourself with the layout beforehand.
+When planning your visit to Aßbütteler Moor, consider bringing essentials such as water, snacks, and a good pair of walking shoes to traverse the trails comfortably. A map of the reserve can enhance your exploration, and it's wise to familiarize yourself with the layout beforehand.
 
 Seasonal considerations are also important; spring and summer provide the best opportunities to witness the vibrant flora and fauna. However, if visiting in autumn or winter, be prepared for cooler temperatures and varying trail conditions.
 

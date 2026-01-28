@@ -84,10 +84,10 @@ Seasonal considerations are also important. In warmer months, be prepared for su
 A visit to Grabmal Adele Schoeller typically takes about 30 minutes to an hour, allowing time for reflection and exploration of the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it is essential to be respectful of the site’s atmosphere and check for any specific signage regarding photography guidelines.
+Photography is generally permitted, but it is essential to be respectful of the site's atmosphere and check for any specific signage regarding photography guidelines.
 
 ### Are there guided tours?
-Guided tours may not be available specifically for the tomb, but local historical tours can provide context for the site’s significance within Düren.
+Guided tours may not be available specifically for the tomb, but local historical tours can provide context for the site's significance within Düren.
 
 ### What's the best time to visit?
 The best times to visit are typically during spring and autumn, when the weather is mild and conducive to outdoor exploration.

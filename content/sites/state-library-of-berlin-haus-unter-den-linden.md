@@ -78,7 +78,7 @@ To make the most of your visit to the State Library of Berlin, here are some ins
 
 - **Crowd Avoidance**: To avoid crowds, consider visiting during the morning or late afternoon on weekdays. This can enhance your experience, providing a quieter atmosphere for study or exploration.
 
-- **Research Needs**: If you have specific research interests, it may be helpful to familiarize yourself with the library’s catalog ahead of your visit. This will save time and allow for a more focused experience.
+- **Research Needs**: If you have specific research interests, it may be helpful to familiarize yourself with the library's catalog ahead of your visit. This will save time and allow for a more focused experience.
 
 ## Practical Information
 

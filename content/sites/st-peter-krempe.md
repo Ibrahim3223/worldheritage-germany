@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Peter in Krempe is a noteworthy church building situated in the charming town of Krempe, Germany. This site serves not just as a place of worship, but as a reflection of the region's cultural and architectural heritage. The church's historical significance, encompassing centuries of local tradition, makes it an important landmark for visitors and locals alike. The serene surroundings and the church’s architectural features contribute to its allure, making it a must-visit for anyone exploring the area.
+St. Peter in Krempe is a noteworthy church building situated in the charming town of Krempe, Germany. This site serves not just as a place of worship, but as a reflection of the region's cultural and architectural heritage. The church's historical significance, encompassing centuries of local tradition, makes it an important landmark for visitors and locals alike. The serene surroundings and the church's architectural features contribute to its allure, making it a must-visit for anyone exploring the area.
 
 Krempe itself is a town with a rich history, nestled in the northern part of Germany. While the town may not be as widely known as some of its larger counterparts, it offers a unique glimpse into the local culture and history. St. Peter stands as a central point in this narrative, inviting visitors to immerse themselves in the spiritual and historical context of the region.
 
@@ -54,7 +54,7 @@ Visiting St. Peter in Krempe offers a serene experience, ideal for those interes
 
 Transport options to Krempe may include local bus services or regional train connections, allowing easy access for visitors coming from nearby towns or cities. Once in Krempe, the church is likely within walking distance from central transport hubs, making it convenient to reach.
 
-Visitors can expect to spend a short time exploring the church, with opportunities for reflection and contemplation. The tranquil environment is conducive to quiet observation, and many may wish to take photographs of the architecture and interior features. The best times to visit may vary based on local events, so checking the church’s schedule could enhance the experience.
+Visitors can expect to spend a short time exploring the church, with opportunities for reflection and contemplation. The tranquil environment is conducive to quiet observation, and many may wish to take photographs of the architecture and interior features. The best times to visit may vary based on local events, so checking the church's schedule could enhance the experience.
 
 Given the peaceful setting of St. Peter, it is advisable to plan visits during weekdays or quieter parts of the day to fully appreciate the ambiance without the distractions of larger crowds.
 
@@ -93,7 +93,7 @@ A visit to St. Peter can typically last between 30 minutes to an hour, allowing 
 
 ### Is photography allowed?
 
-Photography may be permitted in designated areas, but it’s best to check for any restrictions, particularly inside the church.
+Photography may be permitted in designated areas, but it's best to check for any restrictions, particularly inside the church.
 
 ### Are there guided tours?
 

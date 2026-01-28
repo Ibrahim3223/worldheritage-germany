@@ -3,7 +3,7 @@ title: "International Theatre Institute"
 site_name: "International Theatre Institute"
 date: 2026-01-26
 draft: false
-description: "The International Theatre Institute (ITI) serves as the world’s leading organization dedicated to the promotion and support of the performing arts."
+description: "The International Theatre Institute (ITI) serves as the world's leading organization dedicated to the promotion and support of the performing arts."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Cultural Institution"
@@ -26,19 +26,19 @@ image_srcset:
 
 ## Overview
 
-The International Theatre Institute (ITI) serves as the world’s leading organization dedicated to the promotion and support of the performing arts. Founded to unite the diverse international theatre community, it fosters artistic collaboration and cultural exchange. Based in Paris, this cultural institution provides a platform for artists, professionals, and audiences to engage with theatre in all its forms, reinforcing its significance in the global cultural landscape.
+The International Theatre Institute (ITI) serves as the world's leading organization dedicated to the promotion and support of the performing arts. Founded to unite the diverse international theatre community, it fosters artistic collaboration and cultural exchange. Based in Paris, this cultural institution provides a platform for artists, professionals, and audiences to engage with theatre in all its forms, reinforcing its significance in the global cultural landscape.
 
-Located in Germany, the ITI is central to the dialogue surrounding the performing arts, advocating for artistic freedom and the importance of theatre in society. It emphasizes the role of the arts in fostering understanding and cooperation among different cultures, making it a crucial player in today’s interconnected world.
+Located in Germany, the ITI is central to the dialogue surrounding the performing arts, advocating for artistic freedom and the importance of theatre in society. It emphasizes the role of the arts in fostering understanding and cooperation among different cultures, making it a crucial player in today's interconnected world.
 
 Visitors to the ITI can expect to explore a space where creativity and culture converge. As a hub for various events, performances, and discussions, the institute promises a dynamic experience for both theatre enthusiasts and casual visitors alike.
 
 ## History and Significance
 
-The International Theatre Institute was established with a vision to promote the exchange of ideas and practices among theatre professionals across the globe. While specific founding details are not provided, the institute has grown to become a vital resource for theatre creators, educators, and scholars. Its mission focuses on enhancing the visibility of theatre as a significant form of artistic expression, advocating for artists’ rights, and celebrating the diversity of theatrical traditions worldwide.
+The International Theatre Institute was established with a vision to promote the exchange of ideas and practices among theatre professionals across the globe. While specific founding details are not provided, the institute has grown to become a vital resource for theatre creators, educators, and scholars. Its mission focuses on enhancing the visibility of theatre as a significant form of artistic expression, advocating for artists' rights, and celebrating the diversity of theatrical traditions worldwide.
 
 The ITI is not just a venue; it acts as a catalyst for innovation and dialogue within the performing arts community. By organizing festivals, conferences, and workshops, the institute plays an essential role in shaping the future of theatre. It emphasizes the importance of arts education and the need for accessibility in the performing arts, ensuring that theatre remains a vibrant part of cultural dialogue.
 
-Additionally, the ITI collaborates with various international organizations and governmental bodies to promote cultural policies that support the arts. This collaboration helps to raise awareness about the challenges faced by artists and the importance of protecting artistic freedom. The institute’s efforts contribute to the cultural richness of societies, encouraging a deeper understanding of the diverse narratives that theatre can offer.
+Additionally, the ITI collaborates with various international organizations and governmental bodies to promote cultural policies that support the arts. This collaboration helps to raise awareness about the challenges faced by artists and the importance of protecting artistic freedom. The institute's efforts contribute to the cultural richness of societies, encouraging a deeper understanding of the diverse narratives that theatre can offer.
 
 ## Architecture and Features
 

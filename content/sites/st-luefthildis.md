@@ -105,7 +105,7 @@ Check the official website for detailed accessibility information regarding the 
 Information on ticket purchasing can be found on the official website, as policies may differ.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the chapel itself, so it’s advisable to check the town center for nearby cafes and restrooms.
+Facilities may be limited at the chapel itself, so it's advisable to check the town center for nearby cafes and restrooms.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that you may be walking or exploring nearby trails.

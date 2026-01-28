@@ -52,9 +52,9 @@ Overall, the Ölbergkapelle is a place where visitors can appreciate the interse
 
 Visiting the Ölbergkapelle Niederrieden can be a rewarding experience for those interested in heritage and spirituality. The chapel is conveniently located, making it accessible for visitors traveling through the region. While specific transportation options are not detailed, it is advisable to check local resources or maps for the best routes to the chapel.
 
-As with many heritage sites, it is essential to check the official website for current information regarding hours of operation and any potential entry fees. Understanding the chapel’s visiting hours can help plan your visit, ensuring that you arrive at a time when you can fully appreciate the space without interruption.
+As with many heritage sites, it is essential to check the official website for current information regarding hours of operation and any potential entry fees. Understanding the chapel's visiting hours can help plan your visit, ensuring that you arrive at a time when you can fully appreciate the space without interruption.
 
-Typically, visitors can expect a peaceful atmosphere conducive to reflection, allowing time to absorb the surroundings and engage with the chapel’s spiritual significance. Depending on your interests, a visit might take anywhere from a brief stop to a more extended period of contemplation.
+Typically, visitors can expect a peaceful atmosphere conducive to reflection, allowing time to absorb the surroundings and engage with the chapel's spiritual significance. Depending on your interests, a visit might take anywhere from a brief stop to a more extended period of contemplation.
 
 For those planning a visit, consider the best times to experience the chapel. Early mornings or late afternoons may offer a quieter experience, allowing for personal reflection and an opportunity to enjoy the serene environment.
 
@@ -112,7 +112,7 @@ To enjoy a quieter atmosphere, consider visiting during weekdays or early mornin
 
 ### Is it wheelchair accessible?
 
-Information regarding accessibility is not specified. It’s suggested to check with the official site for detailed accessibility options.
+Information regarding accessibility is not specified. It's suggested to check with the official site for detailed accessibility options.
 
 ### Can I buy tickets online?
 

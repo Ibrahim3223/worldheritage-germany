@@ -74,7 +74,7 @@ St. Elisabeth-Friedhof is conveniently located near several other attractions in
 
 ## Insider Tips
 
-When visiting St. Elisabeth-Friedhof, photography can be a wonderful way to capture the beauty and artistry of the cemetery's gravestones and memorials. However, it’s essential to be respectful of the site and the memories it holds. Early mornings or late afternoons are ideal for avoiding crowds, allowing for a more personal experience.
+When visiting St. Elisabeth-Friedhof, photography can be a wonderful way to capture the beauty and artistry of the cemetery's gravestones and memorials. However, it's essential to be respectful of the site and the memories it holds. Early mornings or late afternoons are ideal for avoiding crowds, allowing for a more personal experience.
 
 To enhance your visit, consider bringing a guidebook or a mobile app that provides historical context about the notable figures interred here. This can enrich your understanding and appreciation of the cemetery's significance.
 

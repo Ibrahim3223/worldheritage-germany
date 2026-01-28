@@ -48,7 +48,7 @@ The overall ambiance of Heggbach Abbey contributes to its significance as a plac
 
 When planning a visit to Heggbach Abbey, it's essential to consider transportation options. Depending on your starting point, regional public transport may be available, or driving could be a convenient choice. Check the official website for current information regarding visitor hours, ticket prices, and any special events that may enhance your experience during your visit.
 
-A visit to the abbey can typically take a couple of hours, allowing you to explore the grounds, appreciate the architecture, and perhaps engage in quiet contemplation. The best times to visit may align with local events or religious observances, so be sure to check the schedule for any unique opportunities to experience the abbey’s activities.
+A visit to the abbey can typically take a couple of hours, allowing you to explore the grounds, appreciate the architecture, and perhaps engage in quiet contemplation. The best times to visit may align with local events or religious observances, so be sure to check the schedule for any unique opportunities to experience the abbey's activities.
 
 Expect a peaceful environment characterized by a sense of reverence and tranquility. While specific amenities may vary, being prepared for a contemplative experience will enhance your visit. 
 

@@ -50,7 +50,7 @@ The exterior of St.-Marien-Kirche is also noteworthy. Many church buildings in G
 
 When planning a visit to St.-Marien-Kirche, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. The church is accessible via various modes of transport, and visitors can easily reach it by public transportation or by walking from nearby attractions.
 
-You can expect a tranquil atmosphere upon entering, making it an ideal location for reflection and appreciation of its architectural beauty. Depending on the schedule of events, visitors may encounter services or special programs that enhance the experience, so it’s worth checking in advance.
+You can expect a tranquil atmosphere upon entering, making it an ideal location for reflection and appreciation of its architectural beauty. Depending on the schedule of events, visitors may encounter services or special programs that enhance the experience, so it's worth checking in advance.
 
 Typically, a visit might take around an hour, allowing enough time to explore the interior and absorb the ambiance. For those looking to visit during quieter times, weekdays might offer a more peaceful experience compared to weekends, which may see an increase in visitors due to services and community events.
 
@@ -68,7 +68,7 @@ While exploring Bochum, visitors can also enjoy several nearby attractions:
 
 To capture the best photographs of St.-Marien-Kirche, consider visiting during the early morning or late afternoon when natural light bathes the church in a soft glow. This lighting is especially flattering for exterior shots. Additionally, weekdays tend to be less crowded, allowing for unobstructed views and a more intimate experience.
 
-If you prefer to avoid the hustle and bustle, plan your visit during off-peak hours. Engaging with the church’s staff or volunteers can also enhance your visit, as they may share insightful stories and details about the church’s history and architecture.
+If you prefer to avoid the hustle and bustle, plan your visit during off-peak hours. Engaging with the church's staff or volunteers can also enhance your visit, as they may share insightful stories and details about the church's history and architecture.
 
 ## Practical Information
 

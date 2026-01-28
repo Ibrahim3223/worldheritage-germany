@@ -86,7 +86,7 @@ To make the most of your visit to the Ducal Museum Gotha, consider the following
   
 - **Timing**: Aim to visit during the early hours of the day or later in the afternoon to avoid peak crowds, especially on weekends.
   
-- **Engage with Staff**: Don’t hesitate to ask museum staff for insights or recommendations regarding exhibitions—many are passionate about the art and can enhance your experience.
+- **Engage with Staff**: Don't hesitate to ask museum staff for insights or recommendations regarding exhibitions—many are passionate about the art and can enhance your experience.
   
 - **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the collections and their historical context.
 
@@ -106,7 +106,7 @@ When preparing for your visit to the Ducal Museum Gotha, keep the following prac
 A visit to the Ducal Museum Gotha typically lasts between two to four hours, allowing time for both the museum and the castle grounds.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum’s rules upon arrival regarding photography in the exhibition spaces.
+Photography policies may vary, so it's best to check the museum's rules upon arrival regarding photography in the exhibition spaces.
 
 ### Are there guided tours?
 The museum often offers guided tours, which can provide valuable insights into the collections and history. Check the official website for availability.

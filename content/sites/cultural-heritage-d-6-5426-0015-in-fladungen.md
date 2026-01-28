@@ -32,7 +32,7 @@ The fortification at Cultural heritage D-6-5426-0015 has played a crucial role i
 
 Throughout history, such fortifications were essential for communities, especially in times of unrest or warfare. They not only served as physical barriers but also as symbols of power and control, embodying the societal structure of the time. The fortification in Fladungen likely witnessed numerous historical events that shaped the local culture and governance.
 
-This monument is more than just stone and mortar; it embodies the resilience of the people who lived in its shadow. It stands as a reminder of the challenges faced by communities in the region and the strategies they employed to survive and thrive. The site’s preservation is vital for understanding the historical context of Lower Franconia and the Rhön-Grabfeld area, making it an essential piece of the cultural heritage puzzle.
+This monument is more than just stone and mortar; it embodies the resilience of the people who lived in its shadow. It stands as a reminder of the challenges faced by communities in the region and the strategies they employed to survive and thrive. The site's preservation is vital for understanding the historical context of Lower Franconia and the Rhön-Grabfeld area, making it an essential piece of the cultural heritage puzzle.
 
 ## Architecture and Features
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Burgtor, a prominent city gate located in Lübeck's Old City, is a remarkable architectural landmark that embodies the historical essence of this UNESCO World Heritage site. As one of the best-preserved medieval cities in Germany, Lübeck is renowned for its rich maritime heritage, and Burgtor stands as a significant entry point into this storied past. The gate is not just a passageway but a symbol of the city's strategic importance in trade and defense during the Middle Ages. Visitors can expect to immerse themselves in the vibrant history that surrounds this impressive structure, which has witnessed the ebb and flow of Lübeck's fortunes over the centuries.
 
-Situated at the coordinates 53.874 latitude and 10.6911 longitude, Burgtor is easily accessible and serves as a gateway to exploring Lübeck's other historical attractions. Its significance extends beyond architectural beauty; it invites exploration of the broader narrative of Lübeck's role in the Hanseatic League, a powerful trading confederation that dominated medieval commerce in Northern Europe. The gate not only marks a physical entrance to the city but also represents the cultural and economic exchanges that have shaped Lübeck’s identity.
+Situated at the coordinates 53.874 latitude and 10.6911 longitude, Burgtor is easily accessible and serves as a gateway to exploring Lübeck's other historical attractions. Its significance extends beyond architectural beauty; it invites exploration of the broader narrative of Lübeck's role in the Hanseatic League, a powerful trading confederation that dominated medieval commerce in Northern Europe. The gate not only marks a physical entrance to the city but also represents the cultural and economic exchanges that have shaped Lübeck's identity.
 
 Visiting Burgtor offers an opportunity to appreciate the craftsmanship of medieval architecture while contemplating its historical narrative. Whether you are a history enthusiast, an architecture aficionado, or simply a traveler seeking to discover the charm of Lübeck, Burgtor promises an enriching experience.
 
@@ -72,13 +72,13 @@ The best times to visit Burgtor are during the early morning or late afternoon, 
 
 For photographers, Burgtor offers multiple angles for capturing its grandeur. Early morning light provides a soft glow on the stonework, while late afternoons can create dramatic shadows. To avoid crowds, consider visiting on weekdays or during non-peak tourist seasons.
 
-Exploring the area around Burgtor can also lead to unexpected discoveries, such as quaint shops or lesser-known historical markers. Take your time to wander the cobbled streets, and don’t hesitate to strike up conversations with locals who can provide insights into Lübeck’s history.
+Exploring the area around Burgtor can also lead to unexpected discoveries, such as quaint shops or lesser-known historical markers. Take your time to wander the cobbled streets, and don't hesitate to strike up conversations with locals who can provide insights into Lübeck's history.
 
 ## Practical Information
 
 When visiting Burgtor, comfortable walking shoes are recommended, as the surrounding areas feature cobblestone streets that can be uneven. Depending on the season, dressing in layers is advisable, as temperatures can fluctuate throughout the day. 
 
-If you're traveling during peak tourist seasons, consider visiting early in the day to enjoy a quieter experience. It’s also wise to bring a water bottle and snacks, especially if you plan to explore the nearby attractions. 
+If you're traveling during peak tourist seasons, consider visiting early in the day to enjoy a quieter experience. It's also wise to bring a water bottle and snacks, especially if you plan to explore the nearby attractions. 
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Check the official website for current information regarding accessibility optio
 Check the official website for current information regarding ticket purchasing options, as availability may vary.
 
 ### Are there restrooms and cafes?
-While Burgtor itself may not have restrooms and cafes, there are nearby facilities in Lübeck’s Old Town where visitors can find refreshments.
+While Burgtor itself may not have restrooms and cafes, there are nearby facilities in Lübeck's Old Town where visitors can find refreshments.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, as well as layered clothing for variable weather conditions. 

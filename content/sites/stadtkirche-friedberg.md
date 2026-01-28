@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Stadtkirche Friedberg, located in the charming town of Friedberg, Germany, is a significant church building that reflects the historical and cultural fabric of the region. This remarkable structure stands as a focal point for both locals and visitors, housing centuries of spiritual life and community engagement. The church’s architecture and historical relevance make it a key landmark worth exploring for anyone interested in Germany’s ecclesiastical heritage.
+Stadtkirche Friedberg, located in the charming town of Friedberg, Germany, is a significant church building that reflects the historical and cultural fabric of the region. This remarkable structure stands as a focal point for both locals and visitors, housing centuries of spiritual life and community engagement. The church's architecture and historical relevance make it a key landmark worth exploring for anyone interested in Germany's ecclesiastical heritage.
 
 Friedberg itself, situated within the state of Hesse, is known for its picturesque streets and rich history. The Stadtkirche is more than just a place of worship; it serves as a testament to the evolving narrative of the town and its people. Visitors can expect to find a blend of architectural styles and artistic elements that showcase the church's development over the years. 
 
@@ -80,7 +80,7 @@ Be mindful of local customs during your visit, especially if attending a service
 
 ## Practical Information
 
-When visiting Stadtkirche Friedberg, it’s advisable to bring a camera to capture the stunning architecture and any events you may attend. Comfortable walking shoes are also recommended, as you may want to explore the surrounding area.
+When visiting Stadtkirche Friedberg, it's advisable to bring a camera to capture the stunning architecture and any events you may attend. Comfortable walking shoes are also recommended, as you may want to explore the surrounding area.
 
 Seasonal considerations can affect your visit; spring and early autumn are typically ideal times for exploring, thanks to milder weather and vibrant scenery. 
 
@@ -92,7 +92,7 @@ Always check the official website for any specific requirements or updates regar
 A visit typically lasts about an hour, but you may wish to spend more time if attending a service or special event.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any restrictions upon arrival.
+Photography policies may vary; it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website or local tourism offices for information on guided tours that may be available.
@@ -107,7 +107,7 @@ Accessibility details may vary; check the official website for specific informat
 Check the official website for current information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Nearby amenities may vary; it’s advisable to check local resources for available facilities.
+Nearby amenities may vary; it's advisable to check local resources for available facilities.
 
 ### What should I wear?
 Dress modestly, especially if attending a service, to show respect for the sacred space. 

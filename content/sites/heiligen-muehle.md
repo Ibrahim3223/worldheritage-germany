@@ -78,7 +78,7 @@ For those planning to visit Heiligen Mühle, here are some insider tips to enhan
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or early in the morning. This will allow for a more intimate exploration of the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask staff members questions; their insights can provide valuable context and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask staff members questions; their insights can provide valuable context and enhance your understanding of the exhibits.
 
 ## Practical Information
 
@@ -96,7 +96,7 @@ When preparing for your visit to Heiligen Mühle, consider the following practic
 A visit typically lasts about 1-2 hours, depending on your interest in the exhibits and the information presented.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for specific guidelines within the museum to ensure compliance.
+Photography is generally permitted, but it's best to check for specific guidelines within the museum to ensure compliance.
 
 ### Are there guided tours?
 Heiligen Mühle may offer guided tours; check the official website for details on availability and scheduling.

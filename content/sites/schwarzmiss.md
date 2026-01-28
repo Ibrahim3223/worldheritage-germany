@@ -90,7 +90,7 @@ When preparing for a visit to Schwarzmiss, consider the following practical info
 The duration of your visit can vary. A quick stop may take an hour, while a full day can be dedicated to hiking and exploring the surrounding areas.
 
 ### Is photography allowed?
-Yes, photography is allowed, and the landscapes provide excellent opportunities for capturing nature’s beauty.
+Yes, photography is allowed, and the landscapes provide excellent opportunities for capturing nature's beauty.
 
 ### Are there guided tours?
 While specific guided tours for Schwarzmiss are not mentioned, local tourist services may offer guided hiking excursions in the region.

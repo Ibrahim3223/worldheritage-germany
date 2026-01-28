@@ -62,11 +62,11 @@ The best times to visit are during the warmer months when the weather is pleasan
 
 2. **Seabridge Travemünde**: Offering stunning views of the harbor, this iconic seabridge is a popular spot for leisurely walks and photography, especially at sunset.
 
-3. **Lübeck Old Town**: A UNESCO World Heritage Site, Lübeck’s Old Town is filled with medieval architecture, charming streets, and historic landmarks, providing a fascinating glimpse into the city’s past.
+3. **Lübeck Old Town**: A UNESCO World Heritage Site, Lübeck's Old Town is filled with medieval architecture, charming streets, and historic landmarks, providing a fascinating glimpse into the city's past.
 
-4. **St. Mary’s Church**: Known for its impressive architecture, this church is a significant landmark in Lübeck, featuring beautiful stained glass and a rich history that dates back centuries.
+4. **St. Mary's Church**: Known for its impressive architecture, this church is a significant landmark in Lübeck, featuring beautiful stained glass and a rich history that dates back centuries.
 
-5. **Lübeck’s Historical Museum**: Located within the Old Town, this museum showcases the city’s maritime history, art, and culture, making it a great place to deepen your understanding of Lübeck.
+5. **Lübeck's Historical Museum**: Located within the Old Town, this museum showcases the city's maritime history, art, and culture, making it a great place to deepen your understanding of Lübeck.
 
 ## Insider Tips
 

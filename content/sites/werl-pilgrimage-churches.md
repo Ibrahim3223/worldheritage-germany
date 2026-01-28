@@ -60,7 +60,7 @@ The best times to visit are often during religious festivals and pilgrimage even
 
 1. **Werl Town Centre**: A charming area with shops and cafes, perfect for a leisurely stroll after visiting the churches.
    
-2. **St. Mary’s Church**: An additional historic church nearby, known for its beautiful architecture and community significance.
+2. **St. Mary's Church**: An additional historic church nearby, known for its beautiful architecture and community significance.
 
 3. **Local Museums**: Explore nearby museums that showcase the history and culture of Werl and its surroundings.
 
@@ -80,7 +80,7 @@ When visiting the Werl Pilgrimage Churches, it is advisable to dress modestly ou
 A visit typically takes about one to two hours, depending on your level of interest in the architecture and history.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific guidelines upon arrival.
+Photography policies may vary, so it's best to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

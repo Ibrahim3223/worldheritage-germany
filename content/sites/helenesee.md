@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Helenesee is a picturesque lake situated in the Brandenburg region of Germany, specifically near the city of Frankfurt (Oder). Known for its serene environment and tranquil waters, the lake serves as a popular retreat for both locals and visitors seeking respite from urban life. The area surrounding Helenesee is characterized by lush greenery and offers a peaceful atmosphere, making it an ideal destination for outdoor enthusiasts and nature lovers alike. Whether you are interested in a leisurely stroll along the water’s edge or engaging in various water sports, Helenesee provides a versatile setting for relaxation and recreation. 
+Helenesee is a picturesque lake situated in the Brandenburg region of Germany, specifically near the city of Frankfurt (Oder). Known for its serene environment and tranquil waters, the lake serves as a popular retreat for both locals and visitors seeking respite from urban life. The area surrounding Helenesee is characterized by lush greenery and offers a peaceful atmosphere, making it an ideal destination for outdoor enthusiasts and nature lovers alike. Whether you are interested in a leisurely stroll along the water's edge or engaging in various water sports, Helenesee provides a versatile setting for relaxation and recreation. 
 
 ## History and Significance
 

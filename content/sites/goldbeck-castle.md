@@ -62,7 +62,7 @@ While Goldbeck Castle is a focal point for many, there are several nearby attrac
 
 3. **The Havelland Nature Park**: A short drive away, this park provides opportunities for hiking, birdwatching, and enjoying the natural landscapes of Brandenburg.
 
-4. **The Wittstock Museum**: Located in the town, the museum showcases artifacts and exhibits related to the region’s history, enriching the visitor experience.
+4. **The Wittstock Museum**: Located in the town, the museum showcases artifacts and exhibits related to the region's history, enriching the visitor experience.
 
 5. **Landschaftspark Elbtalaue**: This expansive park offers scenic trails and outdoor activities, perfect for those looking to explore the natural beauty of the area.
 

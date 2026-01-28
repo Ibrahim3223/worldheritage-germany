@@ -34,7 +34,7 @@ As you plan your visit, anticipate a cultural experience that integrates the uni
 
 ## History and Significance
 
-While specific dates and events may not be available, the Museum am Markt has emerged as an essential institution for the preservation of Schiltach’s cultural heritage. The museum is dedicated to showcasing the town's history and the broader context of the Black Forest area, which has long been a site of both natural beauty and human activity.
+While specific dates and events may not be available, the Museum am Markt has emerged as an essential institution for the preservation of Schiltach's cultural heritage. The museum is dedicated to showcasing the town's history and the broader context of the Black Forest area, which has long been a site of both natural beauty and human activity.
 
 The significance of the museum lies in its commitment to educating the public about the local culture, traditions, and historical developments that have occurred over the years. From the impact of trade and craftsmanship to the influence of regional customs and festivals, the museum provides insight into the diverse aspects of life in Schiltach. 
 
@@ -92,7 +92,7 @@ Seasonal considerations may also influence your visit, as local events and festi
 Typically, visitors spend around two to three hours at the museum to fully engage with the exhibits and materials.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival to understand any restrictions.
+Photography policies can vary, so it's best to check with museum staff upon arrival to understand any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more details on scheduling and availability.

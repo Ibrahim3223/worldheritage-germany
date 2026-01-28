@@ -22,7 +22,7 @@ images:
 
 The Evangelistenschule Johanneum, located in Wuppertal, Germany, is an architectural structure that reflects the educational values and historical context of its time. This school building stands as a notable part of the region's architectural landscape, inviting visitors to appreciate its design and significance within the community. Wuppertal, known for its unique topography and innovative transport systems, provides a fitting backdrop for this institution, which has played a role in shaping the educational experiences of many individuals. 
 
-The significance of the Evangelistenschule Johanneum extends beyond its physical presence; it embodies the evolution of educational practices in Germany and reflects the cultural heritage of the region. While specific details about its founding and architectural features are not provided, the school remains an important marker of Wuppertal’s commitment to education and community. Visitors to this site can explore its façade and surroundings, gaining insight into both the past and the ongoing role of educational institutions in society.
+The significance of the Evangelistenschule Johanneum extends beyond its physical presence; it embodies the evolution of educational practices in Germany and reflects the cultural heritage of the region. While specific details about its founding and architectural features are not provided, the school remains an important marker of Wuppertal's commitment to education and community. Visitors to this site can explore its façade and surroundings, gaining insight into both the past and the ongoing role of educational institutions in society.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ The Evangelistenschule Johanneum is an architectural structure that embodies the
 
 Architectural features of school buildings often include spacious classrooms, administrative offices, and communal areas designed to foster interaction among students and faculty. The structure may incorporate elements that enhance natural light, promoting a conducive learning environment. Additionally, the use of durable materials and thoughtful design is likely intended to withstand the test of time, reflecting the commitment to education across generations.
 
-The façade of the Johanneum may showcase design elements that are characteristic of the era in which it was built, offering a glimpse into the architectural trends of the time. Such features can include decorative motifs, large windows, and structured entryways that invite visitors and students alike. The building’s overall design aims to create an inspiring and functional space for learning, reflecting the values of the institution and the community it serves.
+The façade of the Johanneum may showcase design elements that are characteristic of the era in which it was built, offering a glimpse into the architectural trends of the time. Such features can include decorative motifs, large windows, and structured entryways that invite visitors and students alike. The building's overall design aims to create an inspiring and functional space for learning, reflecting the values of the institution and the community it serves.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ The best times to visit may be during weekdays when the school is in session, of
 
 4. **Botanischer Garten**: The Botanical Garden in Wuppertal is a peaceful retreat, showcasing a variety of plant species and landscaped areas perfect for a leisurely stroll or a quiet moment of reflection.
 
-5. **Wuppertal’s Historic City Center**: A short walk from the Johanneum will lead visitors to the historic city center, where they can explore charming streets, shops, and cafes, immersing themselves in local culture.
+5. **Wuppertal's Historic City Center**: A short walk from the Johanneum will lead visitors to the historic city center, where they can explore charming streets, shops, and cafes, immersing themselves in local culture.
 
 ## Insider Tips
 

@@ -70,7 +70,7 @@ To avoid larger crowds, consider visiting during weekdays, particularly in the o
 
 ## Practical Information
 
-When visiting the Torhaus, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture the site's unique features. Seasonal considerations include dressing in layers, as Bavaria can experience variable weather conditions, especially in spring and autumn.
+When visiting the Torhaus, it's advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture the site's unique features. Seasonal considerations include dressing in layers, as Bavaria can experience variable weather conditions, especially in spring and autumn.
 
 Accessibility options may vary, so checking ahead for any specific accommodations is recommended. 
 

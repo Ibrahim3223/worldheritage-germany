@@ -82,7 +82,7 @@ To make the most of your visit to the Ödenturm, consider the following tips:
 
 When planning your visit to the Ödenturm, keep the following practical considerations in mind:
 
-- **What to Bring**: A daypack with water, snacks, and any necessary personal items will enhance your experience. Don’t forget your camera for capturing the views.
+- **What to Bring**: A daypack with water, snacks, and any necessary personal items will enhance your experience. Don't forget your camera for capturing the views.
 
 - **Seasonal Considerations**: Check the weather forecast before your trip, as conditions can change rapidly. Layered clothing is recommended for comfort throughout the day.
 

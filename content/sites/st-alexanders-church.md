@@ -28,7 +28,7 @@ image_srcset:
 
 St. Alexander's Church, located in Wildeshausen, Lower Saxony, Germany, serves as a notable landmark reflecting the spiritual heritage and architectural history of the region. This church building, with its distinctive character, invites both locals and travelers to explore its serene environment and deep-rooted cultural significance. Situated at the coordinates 52.898941666, 8.437697222, it is accessible to those venturing into this charming area of Germany.
 
-The significance of St. Alexander's Church extends beyond its physical structure; it stands as a focal point for community gatherings and religious practices. The church’s presence underscores the historical importance of faith in the lives of the inhabitants of Wildeshausen. Visitors can expect to find a space that not only serves as a house of worship but also as a testament to the enduring architectural styles that have shaped this part of Germany over the years.
+The significance of St. Alexander's Church extends beyond its physical structure; it stands as a focal point for community gatherings and religious practices. The church's presence underscores the historical importance of faith in the lives of the inhabitants of Wildeshausen. Visitors can expect to find a space that not only serves as a house of worship but also as a testament to the enduring architectural styles that have shaped this part of Germany over the years.
 
 Whether seeking a quiet moment of reflection or an opportunity to appreciate historical architecture, a visit to St. Alexander's Church promises an enriching experience. Emphasizing the community's connection to its past, this heritage site invites exploration and contemplation within its hallowed walls.
 
@@ -60,7 +60,7 @@ The church is accessible by various modes of transportation, including local pub
 
 When visiting, expect a serene atmosphere that encourages contemplation. Allocate at least an hour to fully take in the church's features and significance, although you may wish to spend more time if you plan on exploring the surrounding area or participating in any local events.
 
-The best times to visit are often during weekdays when there may be fewer crowds, allowing for a more personal experience. Additionally, consider attending services or community events, which can provide deeper insights into the church’s role in local life.
+The best times to visit are often during weekdays when there may be fewer crowds, allowing for a more personal experience. Additionally, consider attending services or community events, which can provide deeper insights into the church's role in local life.
 
 ## Nearby Attractions
 
@@ -70,7 +70,7 @@ While exploring St. Alexander's Church, consider visiting these nearby attractio
    
 2. **Museum of Wildeshausen**: A short distance from the church, this museum showcases the history and heritage of the region, offering exhibitions that complement your understanding of the church's significance.
 
-3. **St. John’s Church**: Another historical church in Wildeshausen, St. John’s provides further insight into the region's architectural diversity and religious practices.
+3. **St. John's Church**: Another historical church in Wildeshausen, St. John's provides further insight into the region's architectural diversity and religious practices.
 
 4. **Local Parks**: The parks in the vicinity offer a chance to enjoy the natural beauty of Lower Saxony, perfect for a leisurely stroll or a quiet picnic.
 
@@ -115,9 +115,9 @@ Check the official website for specific accessibility information to ensure a co
 For the latest information regarding ticket purchases, check the official website before your visit.
 
 ### Are there restrooms and cafes?
-Local facilities may be available, but it’s advisable to check for restrooms and nearby dining options in advance.
+Local facilities may be available, but it's advisable to check for restrooms and nearby dining options in advance.
 
 ### What should I wear?
-Dress modestly and comfortably while keeping in mind the church’s function as a place of worship. 
+Dress modestly and comfortably while keeping in mind the church's function as a place of worship. 
 
 With its compelling history, architectural beauty, and cultural significance, St. Alexander's Church stands as a remarkable site for visitors to explore and reflect within the charming town of Wildeshausen.

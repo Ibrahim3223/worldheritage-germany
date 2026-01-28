@@ -74,14 +74,14 @@ Additionally, engaging with local guides or community members can enrich your un
 
 ## Practical Information
 
-When visiting the Synagoge, it’s advisable to bring a water bottle and comfortable footwear, as you may wish to explore the surrounding area. Seasonal considerations should also be taken into account; in colder months, dress appropriately for the weather, as you may be spending time outdoors.
+When visiting the Synagoge, it's advisable to bring a water bottle and comfortable footwear, as you may wish to explore the surrounding area. Seasonal considerations should also be taken into account; in colder months, dress appropriately for the weather, as you may be spending time outdoors.
 
 Before your visit, check the official website for any specific guidelines regarding what to bring or any restrictions that may apply.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit to the Synagoge can typically take around one to two hours, depending on your interest level in the site’s history and architecture.
+A visit to the Synagoge can typically take around one to two hours, depending on your interest level in the site's history and architecture.
 
 ### Is photography allowed?
 Photography policies may vary, so it is best to check for specific guidelines upon arrival.

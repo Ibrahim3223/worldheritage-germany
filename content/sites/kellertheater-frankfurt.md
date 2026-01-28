@@ -32,9 +32,9 @@ Visitors to Kellertheater can expect an engaging experience, whether they are se
 
 ## History and Significance
 
-Kellertheater Frankfurt has carved out a distinctive niche within the city's theatrical landscape, characterized by its commitment to free artistic expression. While specific dates of establishment and significant milestones may not be detailed, the theatre has become synonymous with Frankfurt’s vibrant cultural scene. It has gained recognition for its focus on avant-garde and experimental performances, which not only entertain but also challenge societal norms and provoke thought.
+Kellertheater Frankfurt has carved out a distinctive niche within the city's theatrical landscape, characterized by its commitment to free artistic expression. While specific dates of establishment and significant milestones may not be detailed, the theatre has become synonymous with Frankfurt's vibrant cultural scene. It has gained recognition for its focus on avant-garde and experimental performances, which not only entertain but also challenge societal norms and provoke thought.
 
-The theatre’s cultural significance lies in its ability to provide a platform for diverse voices and narratives. By prioritizing accessibility in the arts, Kellertheater ensures that a wide audience can engage with theatre, regardless of economic background. This commitment to inclusivity and innovation has allowed the theatre to evolve and adapt over time, reflecting contemporary issues and artistic trends.
+The theatre's cultural significance lies in its ability to provide a platform for diverse voices and narratives. By prioritizing accessibility in the arts, Kellertheater ensures that a wide audience can engage with theatre, regardless of economic background. This commitment to inclusivity and innovation has allowed the theatre to evolve and adapt over time, reflecting contemporary issues and artistic trends.
 
 In addition to its performances, Kellertheater serves as a hub for community engagement, often collaborating with local artists and organizations. This collaborative spirit fosters a sense of ownership and pride among residents, making the theatre not just a place for entertainment, but a vital part of Frankfurt's cultural identity.
 
@@ -76,7 +76,7 @@ To avoid the busiest times, consider attending performances on weekdays or durin
 
 ## Practical Information
 
-When visiting Kellertheater Frankfurt, it’s advisable to bring along a few essentials. Comfortable clothing is recommended, as you may be seated for an extended period. Depending on the season, consider layers or a light jacket, as theatre interiors can vary in temperature.
+When visiting Kellertheater Frankfurt, it's advisable to bring along a few essentials. Comfortable clothing is recommended, as you may be seated for an extended period. Depending on the season, consider layers or a light jacket, as theatre interiors can vary in temperature.
 
 If you plan to discuss the performance afterward, a notebook or device for jotting down thoughts can be handy. Additionally, check the official website for any seasonal performances or special events that may require advance planning or tickets.
 
@@ -89,7 +89,7 @@ A visit to Kellertheater typically involves attending a performance, so plan for
 Photography policies may vary depending on the performance, so it's best to check with the theatre or observe signage regarding photography restrictions during shows.
 
 ### Are there guided tours?
-While specific information on guided tours is not provided, it’s advisable to check the official website for any available tours or educational programs related to the theatre.
+While specific information on guided tours is not provided, it's advisable to check the official website for any available tours or educational programs related to the theatre.
 
 ### What's the best time to visit?
 Visiting during the weekdays or attending matinee performances can help avoid larger crowds, providing a more comfortable experience.

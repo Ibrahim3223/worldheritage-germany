@@ -62,9 +62,9 @@ Ingelheim am Rhein is home to several attractions that complement a visit to the
 
 2. **Rheinpromenade** - A picturesque riverside promenade perfect for leisurely walks, picnicking, or enjoying the scenic views of the Rhine River.
 
-3. **Museum bei der Kaiserpfalz** - This museum provides insights into the history of Ingelheim and the surrounding region, showcasing artifacts and exhibitions that highlight the area’s cultural heritage.
+3. **Museum bei der Kaiserpfalz** - This museum provides insights into the history of Ingelheim and the surrounding region, showcasing artifacts and exhibitions that highlight the area's cultural heritage.
 
-4. **St. Remigius Church** - Another notable church in the area, this site features impressive architecture and serves as a testament to the region’s religious history.
+4. **St. Remigius Church** - Another notable church in the area, this site features impressive architecture and serves as a testament to the region's religious history.
 
 5. **Local Vineyards** - The region is known for its wine production. A visit to local vineyards offers opportunities for tastings and learning about the winemaking process.
 

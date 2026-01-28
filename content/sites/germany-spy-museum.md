@@ -58,7 +58,7 @@ Getting to the Germany Spy Museum is straightforward, as it is centrally located
 
 Check the official website for current information regarding hours of operation and ticket prices, as these details may vary. It is recommended to allocate a few hours for the visit to fully appreciate the exhibits and engage with the interactive displays. 
 
-For those looking to avoid crowds, consider visiting during weekday mornings or later in the afternoon, as weekends and holidays tend to attract larger groups. The museum’s engaging layout allows for a self-paced exploration, so you can spend as much time as you wish on the exhibits that interest you most. 
+For those looking to avoid crowds, consider visiting during weekday mornings or later in the afternoon, as weekends and holidays tend to attract larger groups. The museum's engaging layout allows for a self-paced exploration, so you can spend as much time as you wish on the exhibits that interest you most. 
 
 As you prepare for your visit, be sure to check the official website for any updates or special events that may enhance your experience at the museum.
 

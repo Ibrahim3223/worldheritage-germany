@@ -74,7 +74,7 @@ To avoid larger crowds, consider visiting on weekdays or during off-peak seasons
 
 ## Practical Information
 
-When visiting Herrenhaus Vogelsang, it’s advisable to bring comfortable footwear for walking, especially if you plan to explore the grounds extensively. The terrain may vary, so being prepared for different surfaces is beneficial. 
+When visiting Herrenhaus Vogelsang, it's advisable to bring comfortable footwear for walking, especially if you plan to explore the grounds extensively. The terrain may vary, so being prepared for different surfaces is beneficial. 
 
 Seasonal considerations are important; during the summer months, be mindful of the weather, as it can get quite warm. Conversely, if visiting in cooler months, layering clothing will ensure comfort while exploring both indoors and outdoors.
 
@@ -84,7 +84,7 @@ Seasonal considerations are important; during the summer months, be mindful of t
 A visit can typically last between two to three hours, allowing ample time to explore the interior and the grounds.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the official site before your visit.
+Photography policies can vary, so it's best to check with the official site before your visit.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for details and scheduling.
@@ -99,7 +99,7 @@ Accessibility features may vary. Check the official website for specific informa
 Ticket purchasing options should be confirmed through the official website for the latest details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available; it’s best to verify this information before your visit.
+Facilities such as restrooms and cafes may be available; it's best to verify this information before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, considering the outdoor areas you may explore. Dress appropriately for the weather conditions on the day of your visit.

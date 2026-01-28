@@ -52,7 +52,7 @@ In summary, Gutskirche Vollenschier exemplifies the architectural ethos of Prote
 
 Visiting Gutskirche Vollenschier offers a chance to engage with the local heritage and experience the serene atmosphere of the church. To reach the site, travelers can utilize various modes of transportation, including personal vehicles or public transport options available in the Stendal district. Given the church's location in a rural area, having a map or GPS on hand can enhance the journey.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding visiting hours and any potential admission fees. This ensures that you are fully informed about the church's accessibility during your intended visit.
+Before planning your visit, it's advisable to check the official website for current information regarding visiting hours and any potential admission fees. This ensures that you are fully informed about the church's accessibility during your intended visit.
 
 On-site, visitors can expect a tranquil environment that encourages exploration and reflection. The site is modestly sized, so a visit typically requires about an hour to fully appreciate the church's architecture and its surrounding landscape. For those seeking a more in-depth experience, consider attending a service or community event if available.
 
@@ -68,7 +68,7 @@ While visiting Gutskirche Vollenschier, take the opportunity to explore some nea
 
 3. **Arneburg**: A small town located close to Vollenschier, Arneburg offers charming streets and local eateries, perfect for experiencing the regional cuisine and hospitality.
 
-4. **Havelberg**: This town is famous for its stunning cathedral and historical significance as a former episcopal seat. It’s a great destination for exploring both history and scenic landscapes.
+4. **Havelberg**: This town is famous for its stunning cathedral and historical significance as a former episcopal seat. It's a great destination for exploring both history and scenic landscapes.
 
 5. **Church of St. Mary (St. Marien)**: Located in the nearby town of Stendal, this church is an excellent example of Gothic architecture and offers a glimpse into the religious history of the area.
 
@@ -111,7 +111,7 @@ Currently, information regarding guided tours is not specified. It may be benefi
 The best time to visit is during the warmer months when the surrounding countryside is vibrant. Early mornings or weekdays are also ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-Details on wheelchair accessibility are not provided. It’s advisable to check directly with the church or local resources for the most accurate information.
+Details on wheelchair accessibility are not provided. It's advisable to check directly with the church or local resources for the most accurate information.
 
 ### Can I buy tickets online?
 Information about purchasing tickets online is not mentioned. Check the official website for any updates regarding ticketing procedures.

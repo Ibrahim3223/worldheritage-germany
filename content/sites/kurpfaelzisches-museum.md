@@ -28,19 +28,19 @@ image_srcset:
 
 The Kurpfälzisches Museum, located in the historic city of Heidelberg, Germany, stands as a vibrant cultural institution dedicated to the visual arts. Situated in the heart of the city, this art museum offers an engaging exploration of both local and international art, making it a compelling destination for art enthusiasts and casual visitors alike. Known for its diverse collection, the museum showcases significant works that span various periods and styles, reflecting the rich cultural tapestry of the region. 
 
-Heidelberg, renowned for its picturesque old town and the iconic Heidelberg Castle, provides a stunning backdrop for this museum. The Kurpfälzisches Museum enhances the city’s cultural significance while inviting visitors to appreciate the interplay of art, history, and community. Whether you are a seasoned art lover or just beginning to explore the world of visual arts, the museum promises an enriching experience that highlights the creative spirit of the Kurpfalz region. 
+Heidelberg, renowned for its picturesque old town and the iconic Heidelberg Castle, provides a stunning backdrop for this museum. The Kurpfälzisches Museum enhances the city's cultural significance while inviting visitors to appreciate the interplay of art, history, and community. Whether you are a seasoned art lover or just beginning to explore the world of visual arts, the museum promises an enriching experience that highlights the creative spirit of the Kurpfalz region. 
 
 ## History and Significance
 
-The Kurpfälzisches Museum has a storied history that mirrors the cultural heritage of Heidelberg itself. Established to preserve and present the artistic legacy of the Kurpfalz region, the museum has become an essential part of the city’s cultural landscape. Its collection includes a wide array of artworks, from classical pieces to contemporary art, reflecting the evolving tastes and influences that have shaped the art world over time.
+The Kurpfälzisches Museum has a storied history that mirrors the cultural heritage of Heidelberg itself. Established to preserve and present the artistic legacy of the Kurpfalz region, the museum has become an essential part of the city's cultural landscape. Its collection includes a wide array of artworks, from classical pieces to contemporary art, reflecting the evolving tastes and influences that have shaped the art world over time.
 
 The museum serves not only as a repository of art but also as a space for education and community engagement. Through various exhibitions, workshops, and events, it plays a vital role in fostering an appreciation for the arts among local residents and visitors. The museum's commitment to showcasing both regional and international artists underscores its significance as a cultural hub in Heidelberg.
 
-While specifics regarding the founding date or key historical milestones are not provided, the museum’s ongoing dedication to art education and preservation highlights its importance in the cultural fabric of the region. The Kurpfälzisches Museum is more than just an art museum; it is a vital institution that bridges the past and present, inviting reflection on the role of art in society.
+While specifics regarding the founding date or key historical milestones are not provided, the museum's ongoing dedication to art education and preservation highlights its importance in the cultural fabric of the region. The Kurpfälzisches Museum is more than just an art museum; it is a vital institution that bridges the past and present, inviting reflection on the role of art in society.
 
 ## Architecture and Features
 
-The Kurpfälzisches Museum features architecture that is both functional and aesthetically pleasing, contributing to the overall ambiance of the museum experience. The design harmonizes with the surrounding historic structures of Heidelberg, creating a cohesive look that complements the city’s architectural heritage. 
+The Kurpfälzisches Museum features architecture that is both functional and aesthetically pleasing, contributing to the overall ambiance of the museum experience. The design harmonizes with the surrounding historic structures of Heidelberg, creating a cohesive look that complements the city's architectural heritage. 
 
 Internally, the museum is thoughtfully organized, allowing for an intuitive flow through its various galleries. Each space is designed to highlight the unique qualities of the artworks on display, with careful consideration given to lighting and layout. Visitors can expect to encounter both permanent and rotating exhibitions that showcase the diversity of the collection.
 
@@ -54,7 +54,7 @@ Visiting the Kurpfälzisches Museum offers a unique opportunity to immerse yours
 
 The museum is accessible by various modes of transportation, making it convenient for both locals and tourists. Whether you choose to walk through the charming streets of Heidelberg, take public transport, or drive, the museum is easy to reach. 
 
-Visitors can expect to spend approximately two to three hours exploring the exhibits, depending on their level of interest in the artworks. The museum’s layout encourages leisurely viewing, allowing for time to reflect on the pieces and engage with any available informational materials.
+Visitors can expect to spend approximately two to three hours exploring the exhibits, depending on their level of interest in the artworks. The museum's layout encourages leisurely viewing, allowing for time to reflect on the pieces and engage with any available informational materials.
 
 The best times to visit the Kurpfälzisches Museum may depend on personal preference, but weekdays tend to be less crowded, offering a more intimate experience with the art. Special events or exhibitions may draw larger crowds, so checking the schedule ahead of time can enhance your visit.
 
@@ -62,7 +62,7 @@ The best times to visit the Kurpfälzisches Museum may depend on personal prefer
 
 Heidelberg is rich in attractions that complement a visit to the Kurpfälzisches Museum. Nearby, you can explore:
 
-1. **Heidelberg Castle**: This iconic landmark offers stunning views of the city and the Neckar River, along with fascinating insights into the region’s history.
+1. **Heidelberg Castle**: This iconic landmark offers stunning views of the city and the Neckar River, along with fascinating insights into the region's history.
    
 2. **Philosophenweg (Philosopher's Walk)**: A scenic path that provides picturesque views of Heidelberg and is lined with beautiful gardens and cultural landmarks.
 

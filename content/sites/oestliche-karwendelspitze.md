@@ -28,7 +28,7 @@ image_srcset:
 
 The Östliche Karwendelspitze is a prominent mountain located in the Bavarian region of Germany, offering outdoor enthusiasts a stunning natural landscape and an opportunity to connect with the Alpine environment. This mountain rises to a considerable height, drawing hikers and climbers from around the globe. It forms part of the Karwendel mountain range, which is known for its rugged beauty and diverse flora and fauna. The Östliche Karwendelspitze is not just a destination for physical adventure; it also holds ecological significance as part of a protected area that promotes conservation and sustainable tourism.
 
-Visitors to the Östliche Karwendelspitze can expect a unique experience characterized by majestic alpine scenery and a variety of trails suitable for different skill levels. Whether you are an avid climber seeking a challenging ascent, or a casual hiker looking to enjoy the trails, this mountain offers a wealth of options to explore. Its geographical context within the Bavarian Alps adds to its allure, making it a notable destination for those who appreciate the natural beauty of Germany’s mountainous landscapes.
+Visitors to the Östliche Karwendelspitze can expect a unique experience characterized by majestic alpine scenery and a variety of trails suitable for different skill levels. Whether you are an avid climber seeking a challenging ascent, or a casual hiker looking to enjoy the trails, this mountain offers a wealth of options to explore. Its geographical context within the Bavarian Alps adds to its allure, making it a notable destination for those who appreciate the natural beauty of Germany's mountainous landscapes.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The Östliche Karwendelspitze is characterized by its rugged terrain and steep a
 
 Hikers can expect to encounter a variety of trails that lead through diverse ecosystems, from lush valleys to rocky peaks. The trails vary in difficulty, catering to a wide range of outdoor enthusiasts. As you ascend, the landscape transforms, revealing panoramic views that highlight the grandeur of the Karwendel range.
 
-Noteworthy features of the Östliche Karwendelspitze include its challenging climbing routes, which attract skilled climbers who seek to test their abilities against the mountain’s steep faces. The trails are marked and maintained, ensuring that visitors can navigate the area safely while appreciating its natural beauty. The combination of rugged terrain and well-defined routes makes the Östliche Karwendelspitze a fascinating destination for those interested in both the natural environment and the thrill of mountain exploration.
+Noteworthy features of the Östliche Karwendelspitze include its challenging climbing routes, which attract skilled climbers who seek to test their abilities against the mountain's steep faces. The trails are marked and maintained, ensuring that visitors can navigate the area safely while appreciating its natural beauty. The combination of rugged terrain and well-defined routes makes the Östliche Karwendelspitze a fascinating destination for those interested in both the natural environment and the thrill of mountain exploration.
 
 ## Visiting Information
 
@@ -107,7 +107,7 @@ Due to the rugged terrain, the Östliche Karwendelspitze may not be wheelchair a
 Check the official website for information regarding ticket purchases.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to plan accordingly and bring your own supplies.
+Facilities may be limited; it's advisable to plan accordingly and bring your own supplies.
 
 ### What should I wear?
 Wear comfortable, weather-appropriate clothing suited for hiking, along with sturdy footwear.

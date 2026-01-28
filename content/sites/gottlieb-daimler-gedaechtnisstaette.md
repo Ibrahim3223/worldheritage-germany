@@ -30,7 +30,7 @@ The Gottlieb-Daimler-Gedächtnisstätte, a museum dedicated to the pioneering sp
 
 Situated in a region with a rich industrial heritage, the Gottlieb-Daimler-Gedächtnisstätte stands apart as a significant cultural institution. It invites visitors to explore the transformative period of the late 19th century when the automobile was born out of ingenuity and creativity. This museum provides a unique opportunity to understand the socio-economic impacts of the automotive revolution, as well as the technological advancements that stemmed from it.
 
-As you navigate through the exhibits, the museum’s design and the artifacts on display encourage a reflective experience on how far the automobile has come and the profound effects it has had on society. For those interested in the intersection of history, technology, and culture, the Gottlieb-Daimler-Gedächtnisstätte promises an enlightening visit.
+As you navigate through the exhibits, the museum's design and the artifacts on display encourage a reflective experience on how far the automobile has come and the profound effects it has had on society. For those interested in the intersection of history, technology, and culture, the Gottlieb-Daimler-Gedächtnisstätte promises an enlightening visit.
 
 ## History and Significance
 

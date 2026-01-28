@@ -44,7 +44,7 @@ Notable features may include interactive displays that engage visitors of all ag
 
 ## Visiting Information
 
-When planning a visit to Wasserschloß Neuenheerse, it’s important to consider transportation options. Depending on your starting point, you may reach the museum via public transport or by car. The location's coordinates are 51.676277, 8.998436, which can assist in navigation.
+When planning a visit to Wasserschloß Neuenheerse, it's important to consider transportation options. Depending on your starting point, you may reach the museum via public transport or by car. The location's coordinates are 51.676277, 8.998436, which can assist in navigation.
 
 To ensure the best experience, check the official website for current information regarding hours of operation and admission prices. The time needed for a visit can vary based on individual interests, but setting aside a couple of hours is advisable to fully enjoy the exhibits and absorb the information presented.
 
@@ -90,7 +90,7 @@ When preparing for your visit to Wasserschloß Neuenheerse, keep the following p
 A visit to Wasserschloß Neuenheerse typically takes around 2 to 3 hours, depending on your level of interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival regarding any restrictions.
+Photography policies may vary, so it's best to check with museum staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the history of the site. Check the official website for more details.
@@ -105,9 +105,9 @@ For specific accessibility information, check the official website to ensure a c
 Ticket purchasing options may be available online; refer to the official website for current details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site, but it’s advisable to check the official website for confirmation.
+Facilities such as restrooms and cafes may be available on-site, but it's advisable to check the official website for confirmation.
 
 ### What should I wear?
 Dress comfortably and consider layers, as temperatures can vary throughout the day. Comfortable footwear is recommended for walking.
 
-Wasserschloß Neuenheerse offers a captivating blend of history, nature, and culture, making it a worthwhile stop for anyone exploring this part of Germany. Whether you’re a local resident or a traveler, the museum invites you to engage with its diverse offerings and reflect on the connections between nature and humanity.
+Wasserschloß Neuenheerse offers a captivating blend of history, nature, and culture, making it a worthwhile stop for anyone exploring this part of Germany. Whether you're a local resident or a traveler, the museum invites you to engage with its diverse offerings and reflect on the connections between nature and humanity.

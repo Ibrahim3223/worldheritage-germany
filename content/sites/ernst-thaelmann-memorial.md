@@ -52,7 +52,7 @@ When planning a visit to the Ernst Thälmann Memorial, there are several logisti
 
 For the latest information regarding opening hours and any admission fees, it is advisable to check the official website prior to your visit. Generally, a visit to the memorial can take anywhere from 30 minutes to an hour, depending on one's level of interest in the historical context and architecture. 
 
-The best times to visit are during the spring and autumn months when the weather is pleasant, and the surrounding greenery adds to the site’s tranquility. Early mornings or late afternoons may also provide a quieter experience, allowing for a more personal engagement with the memorial.
+The best times to visit are during the spring and autumn months when the weather is pleasant, and the surrounding greenery adds to the site's tranquility. Early mornings or late afternoons may also provide a quieter experience, allowing for a more personal engagement with the memorial.
 
 Visitors should be prepared for a reflective experience, as the memorial encourages contemplation of its historical significance. There are often informational panels available that can enhance your understanding of the memorial's context and Ernst Thälmann's impact on German history.
 
@@ -62,7 +62,7 @@ While visiting the Ernst Thälmann Memorial, there are several other notable att
 
 1. **Mauerpark**: A short distance away, this public park is known for its vibrant atmosphere, especially on Sundays when a flea market and karaoke sessions draw crowds.
    
-2. **Berliner Unterwelten**: This organization offers guided tours of Berlin's underground systems, providing a unique perspective on the city’s history, including its wartime past.
+2. **Berliner Unterwelten**: This organization offers guided tours of Berlin's underground systems, providing a unique perspective on the city's history, including its wartime past.
 
 3. **Ravensbrück Memorial**: Located a bit farther out, this site commemorates the women who were imprisoned in the concentration camp during World War II, offering a sobering insight into the darker chapters of history.
 

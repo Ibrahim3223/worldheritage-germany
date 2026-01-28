@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Altenburg, a notable castle in the region of Reutlingen-Altenburg, Germany, presents a captivating glimpse into the architectural and cultural heritage of the area. Perched at coordinates 48.5475, 9.18411, this historic structure is an enduring symbol of medieval fortifications and societal organization. As you approach Altenburg, you can’t help but feel a sense of intrigue about the stories that linger within its walls. Offering a tranquil yet evocative atmosphere, the castle invites visitors to explore its past and appreciate its enduring significance.
+Altenburg, a notable castle in the region of Reutlingen-Altenburg, Germany, presents a captivating glimpse into the architectural and cultural heritage of the area. Perched at coordinates 48.5475, 9.18411, this historic structure is an enduring symbol of medieval fortifications and societal organization. As you approach Altenburg, you can't help but feel a sense of intrigue about the stories that linger within its walls. Offering a tranquil yet evocative atmosphere, the castle invites visitors to explore its past and appreciate its enduring significance.
 
-The castle's strategic location provides context for its historical importance, serving as a stronghold throughout various periods in German history. Whether you are a history buff, an architecture enthusiast, or simply seeking a serene spot to reflect, Altenburg offers a unique experience that encapsulates the spirit of medieval Germany. Its enduring presence is a reminder of the region’s rich narrative and the legacy of its inhabitants.
+The castle's strategic location provides context for its historical importance, serving as a stronghold throughout various periods in German history. Whether you are a history buff, an architecture enthusiast, or simply seeking a serene spot to reflect, Altenburg offers a unique experience that encapsulates the spirit of medieval Germany. Its enduring presence is a reminder of the region's rich narrative and the legacy of its inhabitants.
 
 ## History and Significance
 

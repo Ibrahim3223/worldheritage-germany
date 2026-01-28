@@ -50,7 +50,7 @@ Surrounding the lighthouse, the natural environment enhances its presence. The o
 
 ## Visiting Information
 
-Traveling to the Old Westermarkelsdorf lighthouse is a rewarding experience. The lighthouse is accessible by various modes of transportation, including personal vehicles and public transit options available on Fehmarn. Given the island’s compact size, it is often convenient to explore by car or bicycle, allowing visitors to enjoy the scenic routes.
+Traveling to the Old Westermarkelsdorf lighthouse is a rewarding experience. The lighthouse is accessible by various modes of transportation, including personal vehicles and public transit options available on Fehmarn. Given the island's compact size, it is often convenient to explore by car or bicycle, allowing visitors to enjoy the scenic routes.
 
 Before planning your visit, it is advisable to check the official website for current information regarding hours of operation and any potential entry fees. While the lighthouse itself may not offer guided tours, the surrounding area is rich in opportunities for exploration and learning.
 
@@ -60,7 +60,7 @@ When visiting, expect to spend a few hours exploring the lighthouse and its surr
 
 While visiting the Old Westermarkelsdorf lighthouse, consider exploring these nearby attractions to enrich your experience:
 
-1. **Fehmarn Museum**: A short distance away, this museum offers insights into the island’s cultural history, showcasing artifacts and exhibits that illuminate Fehmarn’s past.
+1. **Fehmarn Museum**: A short distance away, this museum offers insights into the island's cultural history, showcasing artifacts and exhibits that illuminate Fehmarn's past.
 
 2. **Burgtiefe Beach**: This nearby beach is perfect for sunbathing and swimming during the warmer months. Its sandy shores provide a relaxing spot to unwind after visiting the lighthouse.
 
@@ -68,7 +68,7 @@ While visiting the Old Westermarkelsdorf lighthouse, consider exploring these ne
 
 4. **Fehmarnsund Bridge**: An impressive feat of engineering, this bridge connects Fehmarn to the mainland and offers stunning views of the surrounding landscape.
 
-5. **Naturerlebniswelt Fehmarn**: A nature experience center that showcases the island’s diverse ecosystems, offering guided tours and educational programs for visitors of all ages.
+5. **Naturerlebniswelt Fehmarn**: A nature experience center that showcases the island's diverse ecosystems, offering guided tours and educational programs for visitors of all ages.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When planning your visit to the Old Westermarkelsdorf lighthouse, it’s essential to bring along a few key items. Comfortable walking shoes are recommended, as the surrounding area may require some walking to fully appreciate the landscape. Additionally, bringing a camera or smartphone for photography is advisable, as the lighthouse and its surroundings present numerous picturesque opportunities.
+When planning your visit to the Old Westermarkelsdorf lighthouse, it's essential to bring along a few key items. Comfortable walking shoes are recommended, as the surrounding area may require some walking to fully appreciate the landscape. Additionally, bringing a camera or smartphone for photography is advisable, as the lighthouse and its surroundings present numerous picturesque opportunities.
 
 Seasonal considerations should also be taken into account. During the summer months, lightweight clothing is appropriate, while spring and autumn may require layers due to variable weather conditions. Always check the forecast before your visit to ensure a comfortable experience.
 

@@ -40,7 +40,7 @@ The significance of Friedhof Pankow II is further amplified by its location in B
 
 ## Architecture and Features
 
-Friedhof Pankow II exhibits a variety of architectural styles that reflect the periods in which its notable figures were laid to rest. The cemetery’s layout is characterized by winding paths, lush greenery, and the tranquil ambiance typical of urban burial grounds. Visitors will notice an array of gravestones and memorials, each unique in design, material, and craftsmanship. 
+Friedhof Pankow II exhibits a variety of architectural styles that reflect the periods in which its notable figures were laid to rest. The cemetery's layout is characterized by winding paths, lush greenery, and the tranquil ambiance typical of urban burial grounds. Visitors will notice an array of gravestones and memorials, each unique in design, material, and craftsmanship. 
 
 Many of the tombstones are crafted from stone, featuring intricate carvings that range from simple epitaphs to elaborate sculptures. These memorials serve not only as markers for the deceased but also as artistic expressions that convey the sentiments of loss and remembrance. The craftsmanship involved in these memorials speaks to the traditions of the time and the cultural values held by the individuals and families honored here.
 

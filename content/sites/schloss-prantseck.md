@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schloss Prantseck, a striking manor house located in Bad Aibling, Bavaria, Germany, embodies the elegance and cultural heritage of the region. As a designated cultural heritage monument, this manor house serves as a significant reminder of the area’s historical narrative and architectural evolution. With its picturesque setting and historical importance, Schloss Prantseck invites visitors to experience the rich cultural landscape of Bavaria, promising an engaging exploration for history enthusiasts and casual visitors alike.
+Schloss Prantseck, a striking manor house located in Bad Aibling, Bavaria, Germany, embodies the elegance and cultural heritage of the region. As a designated cultural heritage monument, this manor house serves as a significant reminder of the area's historical narrative and architectural evolution. With its picturesque setting and historical importance, Schloss Prantseck invites visitors to experience the rich cultural landscape of Bavaria, promising an engaging exploration for history enthusiasts and casual visitors alike.
 
 Surrounded by the tranquil charm of the Bavarian countryside, Schloss Prantseck is not only a place of historical significance but also a representation of the region's architectural prowess. Visitors can delve into its storied past and appreciate the aesthetic beauty of its design, all while enjoying the serene environment that characterizes this part of Germany. Whether you are interested in history, architecture, or simply seeking a peaceful retreat, a visit to Schloss Prantseck is sure to be a rewarding experience.
 
@@ -34,7 +34,7 @@ Surrounded by the tranquil charm of the Bavarian countryside, Schloss Prantseck 
 
 The history of Schloss Prantseck is intertwined with the broader narrative of Bavarian heritage. Although specific dates and events may be absent, the manor house stands as a cultural monument that reflects the architectural and social developments of its time. The structure likely served not just as a residence but also as a center for local governance and community gatherings, highlighting its role in the social fabric of the region.
 
-As a cultural heritage monument, Schloss Prantseck underscores the importance of preserving historical sites that contribute to our understanding of the past. The manor house's architectural style and historical context provide valuable insights into the lifestyles and values of the time. While the exact details of its construction and ownership may not be documented, the mere existence of Schloss Prantseck contributes to the narrative of Bavaria’s evolution through the centuries.
+As a cultural heritage monument, Schloss Prantseck underscores the importance of preserving historical sites that contribute to our understanding of the past. The manor house's architectural style and historical context provide valuable insights into the lifestyles and values of the time. While the exact details of its construction and ownership may not be documented, the mere existence of Schloss Prantseck contributes to the narrative of Bavaria's evolution through the centuries.
 
 Visitors to Schloss Prantseck can appreciate its significance beyond its physical structure. The site represents a connection to the cultural identity of Bad Aibling and the surrounding areas, offering a glimpse into the traditions and historical events that have shaped the region. This significance is not only academic but also emotional, as the manor evokes a sense of place and belonging for those who explore its grounds.
 
@@ -62,7 +62,7 @@ While Schloss Prantseck is an attraction in its own right, the surrounding area 
 
 1. **Bad Aibling Spa Gardens**: A beautiful public park that features landscaped gardens, walking paths, and serene spaces for relaxation. A perfect complement to a visit to the manor house.
    
-2. **St. George’s Church**: A historic church located in the heart of Bad Aibling, known for its stunning architecture and peaceful ambiance.
+2. **St. George's Church**: A historic church located in the heart of Bad Aibling, known for its stunning architecture and peaceful ambiance.
 
 3. **Aiblinger Moor**: This nature reserve offers walking trails and opportunities to observe local flora and fauna, ideal for nature lovers.
 

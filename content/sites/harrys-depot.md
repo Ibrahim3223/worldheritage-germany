@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Harry's Depot, a distinguished theatre building located in Freiburg im Breisgau, Germany, serves as a cultural landmark within the vibrant artistic scene of Baden-Württemberg. Renowned for its inviting atmosphere and engaging performances, the venue plays a pivotal role in the city’s cultural life. This historic theatre not only hosts a variety of theatrical productions but also fosters a sense of community through the arts, making it a significant destination for both locals and visitors alike.
+Harry's Depot, a distinguished theatre building located in Freiburg im Breisgau, Germany, serves as a cultural landmark within the vibrant artistic scene of Baden-Württemberg. Renowned for its inviting atmosphere and engaging performances, the venue plays a pivotal role in the city's cultural life. This historic theatre not only hosts a variety of theatrical productions but also fosters a sense of community through the arts, making it a significant destination for both locals and visitors alike.
 
 Situated in a region known for its picturesque landscapes and rich history, Harry's Depot offers a unique blend of entertainment and cultural appreciation. The theatre's programming often spans a wide range of genres, ensuring that there is something for everyone who walks through its doors. As you prepare to explore this venue, anticipate an experience that is as enlightening as it is entertaining, encapsulating the essence of Freiburg's artistic spirit.
 
 ## History and Significance
 
-While specific historical dates may not be readily available, Harry's Depot has established itself as a cornerstone of Freiburg’s theatrical community. The theatre's origins reflect a dedication to the performing arts that resonates with the city’s broader cultural narrative. Over the years, it has become synonymous with innovative performances and has contributed significantly to the local arts scene.
+While specific historical dates may not be readily available, Harry's Depot has established itself as a cornerstone of Freiburg's theatrical community. The theatre's origins reflect a dedication to the performing arts that resonates with the city's broader cultural narrative. Over the years, it has become synonymous with innovative performances and has contributed significantly to the local arts scene.
 
-The significance of Harry's Depot extends beyond its architectural aesthetic; it embodies the cultural evolution of Freiburg im Breisgau. The theatre has been a platform for both established and emerging artists, providing a space where creativity flourishes. This commitment to supporting artistic expression has made it a vital part of the city’s cultural fabric.
+The significance of Harry's Depot extends beyond its architectural aesthetic; it embodies the cultural evolution of Freiburg im Breisgau. The theatre has been a platform for both established and emerging artists, providing a space where creativity flourishes. This commitment to supporting artistic expression has made it a vital part of the city's cultural fabric.
 
 Throughout its history, Harry's Depot has engaged with various artistic movements and trends, adapting its programming to reflect the changing tastes and interests of the community. This adaptability has ensured its relevance and continued appeal, allowing it to thrive in an ever-evolving cultural landscape. As a gathering place for diverse audiences, it fosters a sense of connection and belonging, making it a cherished locale for many.
 
@@ -44,7 +44,7 @@ Harry's Depot presents a compelling architectural style that complements its rol
 
 The interior of the theatre is characterized by a blend of modern elements and classic theatre design, creating an inviting ambiance that enhances the enjoyment of the artistic offerings. The seating arrangement is thoughtfully designed to promote intimacy between performers and the audience, fostering a connection that is often celebrated in live theatre.
 
-One notable feature of Harry's Depot is its stage, which is equipped to accommodate a variety of performances, from traditional plays to contemporary productions. The theatre’s design emphasizes flexibility, allowing for innovative staging that can adapt to different artistic needs. This versatility is a hallmark of the venue and is a key reason why it attracts a diverse range of performances throughout the year.
+One notable feature of Harry's Depot is its stage, which is equipped to accommodate a variety of performances, from traditional plays to contemporary productions. The theatre's design emphasizes flexibility, allowing for innovative staging that can adapt to different artistic needs. This versatility is a hallmark of the venue and is a key reason why it attracts a diverse range of performances throughout the year.
 
 ## Visiting Information
 
@@ -93,7 +93,7 @@ Plan to spend a couple of hours at Harry's Depot, depending on the length of the
 Photography policies vary by performance, so check in advance to ensure you adhere to the theatre's guidelines.
 
 ### Are there guided tours?
-Currently, information about guided tours is not specified. It’s best to check the official website for updates on tours and events.
+Currently, information about guided tours is not specified. It's best to check the official website for updates on tours and events.
 
 ### What's the best time to visit?
 The best time to visit is during the performance season, which typically sees a vibrant selection of shows.
@@ -110,4 +110,4 @@ Restroom facilities are typically available within the theatre, but details rega
 ### What should I wear?
 Dress comfortably while considering the occasion. Smart-casual attire is often appropriate for theatre visits. 
 
-Whether you’re a local or a visitor, Harry's Depot invites you to immerse yourself in the rich cultural landscape of Freiburg im Breisgau. Enjoy the performances, connect with fellow theatre enthusiasts, and embrace the vibrant atmosphere of this notable venue.
+Whether you're a local or a visitor, Harry's Depot invites you to immerse yourself in the rich cultural landscape of Freiburg im Breisgau. Enjoy the performances, connect with fellow theatre enthusiasts, and embrace the vibrant atmosphere of this notable venue.

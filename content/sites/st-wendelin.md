@@ -32,7 +32,7 @@ Visitors to St. Wendelin will find a peaceful environment conducive to reflectio
 
 ## History and Significance
 
-While specific historical dates may not be available, St. Wendelin has played an important role in the spiritual and communal life of Reilingen. The church is dedicated to St. Wendelin, a figure often revered in Christian tradition, particularly among farmers and those involved in agriculture. This connection to agricultural society underscores the church’s significance within the local culture, reflecting the values and beliefs of the community.
+While specific historical dates may not be available, St. Wendelin has played an important role in the spiritual and communal life of Reilingen. The church is dedicated to St. Wendelin, a figure often revered in Christian tradition, particularly among farmers and those involved in agriculture. This connection to agricultural society underscores the church's significance within the local culture, reflecting the values and beliefs of the community.
 
 Over the years, St. Wendelin has witnessed various cultural and religious shifts, adapting to the changing needs of its congregation while maintaining its core mission of providing a space for worship and gathering. The church has stood as a focal point for celebrations, rites of passage, and community events, fostering a sense of unity among residents.
 

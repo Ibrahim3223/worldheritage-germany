@@ -68,7 +68,7 @@ Visiting St. Mathilde offers a unique opportunity to engage with history and spi
 
 While St. Mathilde is a focal point of your visit, Quedlinburg offers several other attractions that deserve exploration:
 
-1. **Quedlinburg Castle:** A short distance from St. Mathilde, this historic castle provides insights into the town’s past and features beautiful views of the surrounding area.
+1. **Quedlinburg Castle:** A short distance from St. Mathilde, this historic castle provides insights into the town's past and features beautiful views of the surrounding area.
 
 2. **St. Servatius Church:** Another architectural marvel in Quedlinburg, this church showcases stunning Gothic elements and rich history.
 

@@ -101,7 +101,7 @@ Accessibility information can be confirmed through the official website to ensur
 Check the official website for details regarding ticket purchasing options and current pricing.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but it’s advisable to check the official website for specifics regarding cafes and dining options.
+Facilities such as restrooms are typically available, but it's advisable to check the official website for specifics regarding cafes and dining options.
 
 ### What should I wear?
 Comfortable clothing is recommended, considering the indoor and outdoor environments, as well as the activities you may partake in.

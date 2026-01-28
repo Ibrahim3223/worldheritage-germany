@@ -62,7 +62,7 @@ While the Beach in Mönkebude offers a delightful experience on its own, several
 
 1. **Mönkebude Village**: Take a stroll through the charming village, where you can explore local shops, cafes, and the unique architecture that characterizes this coastal community.
 
-2. **Fisherman’s Wharf**: Located nearby, this wharf showcases the local fishing culture and may offer opportunities to sample fresh seafood or witness fishing boats coming in with their catch.
+2. **Fisherman's Wharf**: Located nearby, this wharf showcases the local fishing culture and may offer opportunities to sample fresh seafood or witness fishing boats coming in with their catch.
 
 3. **Nature Reserves**: Explore the surrounding natural reserves that protect the coastal ecosystem and provide excellent trails for walking and birdwatching.
 

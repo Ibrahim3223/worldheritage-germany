@@ -28,7 +28,7 @@ image_srcset:
 
 The Fischertor in Augsburg stands as an iconic remnant of the city's medieval fortifications, showcasing the architectural and historical significance of this important Bavarian city. Augsburg, located in Swabia, Germany, is one of the country's oldest cities, founded over 2,000 years ago. The Fischertor, or "Fisher's Gate," serves as a gateway to the past, inviting visitors to explore the rich tapestry of culture and history that defines this urban landscape. As part of the city's fortifications, it offers a fascinating insight into the defensive strategies of medieval Augsburg. Today, the gate not only symbolizes the enduring spirit of the city but also plays a role in its vibrant contemporary life, making it a must-visit for both history enthusiasts and casual travelers alike.
 
-The gate is positioned at coordinates 48.377264806, 10.893933449, making it easily accessible for those exploring the historic areas of Augsburg. As you approach the Fischertor, its sturdy structure and unique design immediately capture attention, reflecting the artistry and engineering of its time. Visitors can expect a compelling blend of history, architecture, and cultural heritage, providing an enriching experience that speaks to the heart of Augsburg’s identity.
+The gate is positioned at coordinates 48.377264806, 10.893933449, making it easily accessible for those exploring the historic areas of Augsburg. As you approach the Fischertor, its sturdy structure and unique design immediately capture attention, reflecting the artistry and engineering of its time. Visitors can expect a compelling blend of history, architecture, and cultural heritage, providing an enriching experience that speaks to the heart of Augsburg's identity.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The architectural style of the Fischertor reflects the medieval fortification te
 
 Key features of the Fischertor include its large arched entrance, which was designed to allow the passage of both pedestrians and horse-drawn vehicles. The gate's design incorporates defensive elements such as arrow slits, which were once used for protection against potential attackers. Notably, the upper sections of the gate may include decorative motifs and emblems that reflect the city's artistic heritage, although specific details would require further exploration.
 
-The surrounding area complements the Fischertor's historic charm, with cobblestone streets and traditional buildings that evoke the atmosphere of Augsburg's past. The juxtaposition of the ancient gate against the backdrop of modern urban life creates a unique setting for visitors to appreciate the city’s layered history.
+The surrounding area complements the Fischertor's historic charm, with cobblestone streets and traditional buildings that evoke the atmosphere of Augsburg's past. The juxtaposition of the ancient gate against the backdrop of modern urban life creates a unique setting for visitors to appreciate the city's layered history.
 
 ## Visiting Information
 

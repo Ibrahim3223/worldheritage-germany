@@ -32,9 +32,9 @@ The Lower Franconian Museum invites guests to delve into the artistic expression
 
 ## History and Significance
 
-The Lower Franconian Museum has evolved over time to become a significant institution for preserving and presenting the art and cultural history of the region. Founded as a state museum, it is dedicated to collecting, conserving, and exhibiting works that highlight the artistic achievements and historical developments of Lower Franconia. The museum’s collections include a wide array of items that reflect the area’s transition through different historical periods, showcasing how societal changes have impacted art and culture.
+The Lower Franconian Museum has evolved over time to become a significant institution for preserving and presenting the art and cultural history of the region. Founded as a state museum, it is dedicated to collecting, conserving, and exhibiting works that highlight the artistic achievements and historical developments of Lower Franconia. The museum's collections include a wide array of items that reflect the area's transition through different historical periods, showcasing how societal changes have impacted art and culture.
 
-The museum plays a crucial role in educating the public about Lower Franconia’s history. Its exhibits not only highlight the region's artistic endeavors but also provide insights into the cultural values and social structures that have influenced these works. By hosting various exhibitions, workshops, and educational programs, the museum fosters a deeper appreciation of the local heritage among visitors and residents alike.
+The museum plays a crucial role in educating the public about Lower Franconia's history. Its exhibits not only highlight the region's artistic endeavors but also provide insights into the cultural values and social structures that have influenced these works. By hosting various exhibitions, workshops, and educational programs, the museum fosters a deeper appreciation of the local heritage among visitors and residents alike.
 
 Furthermore, the museum often collaborates with other cultural institutions, enhancing its reach and educational impact. It stands as a testament to the commitment of the region to preserving its history and promoting the arts, making it an essential stop for anyone wishing to understand the cultural landscape of Würzburg and its surroundings.
 
@@ -86,7 +86,7 @@ Check the official website for further details on amenities such as restrooms an
 A visit typically takes around two to three hours, allowing time to appreciate the permanent and temporary exhibits.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check the museum's specific guidelines upon arrival.
+Photography policies may vary. It's best to check the museum's specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the museum's collections and history. Check the official website for details.

@@ -38,7 +38,7 @@ The history of the church Behrenhoff is woven into the fabric of the local commu
 
 Throughout the years, the church has likely witnessed numerous events that have shaped the local landscape, including religious ceremonies, community gatherings, and celebrations. These activities reflect the deep connection between the church and the people of Behrenhoff, underscoring its significance as a center for social interaction and community bonding.
 
-The architectural style of the church may also reflect the historical influences that have permeated the region, showcasing the artistic expressions of different eras. The church’s role in the community has not only been spiritual but also cultural, serving as a repository of local stories and traditions.
+The architectural style of the church may also reflect the historical influences that have permeated the region, showcasing the artistic expressions of different eras. The church's role in the community has not only been spiritual but also cultural, serving as a repository of local stories and traditions.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ The church Behrenhoff exhibits the characteristics typical of a church building,
 
 Visitors can expect to find noteworthy features that enhance the church's spiritual ambiance. From its exterior façade to the interior spaces, the church may include intricate details that tell the story of its construction and the community's dedication to preserving their heritage. Elements such as stained glass windows, wooden altars, and religious iconography may provide insight into the artistic influences that have shaped the church over time.
 
-The interior layout is designed to facilitate worship and community gatherings, with spaces that encourage both individual reflection and collective celebration. The church’s architectural elements work together to create an atmosphere that is both welcoming and reverent, inviting visitors to experience the sacredness of the space.
+The interior layout is designed to facilitate worship and community gatherings, with spaces that encourage both individual reflection and collective celebration. The church's architectural elements work together to create an atmosphere that is both welcoming and reverent, inviting visitors to experience the sacredness of the space.
 
 ## Visiting Information
 
@@ -97,7 +97,7 @@ Check the official website for information on guided tours, as they may be avail
 The best time to visit tends to be during the weekdays or early mornings to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary, so it’s advisable to check directly with the church or its official website for specific information.
+Accessibility features may vary, so it's advisable to check directly with the church or its official website for specific information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and any associated fees.

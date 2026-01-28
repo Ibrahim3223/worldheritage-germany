@@ -78,7 +78,7 @@ Depending on the season, dress appropriately for the weather. The castle grounds
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?  
-A visit typically lasts a few hours, depending on your interest in exploring the grounds and learning about the castle’s history.
+A visit typically lasts a few hours, depending on your interest in exploring the grounds and learning about the castle's history.
 
 ### Is photography allowed?  
 Yes, photography is generally permitted, allowing visitors to capture the castle's unique architectural features.

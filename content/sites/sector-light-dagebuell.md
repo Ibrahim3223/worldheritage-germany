@@ -58,7 +58,7 @@ The ideal duration for a visit to the Sector light Dagebüll would typically ran
 
 While the Sector light Dagebüll is a compelling destination on its own, there are several nearby attractions that enhance the visitor experience:
 
-1. **Dagebüll’s Beach**: Located just a short distance away, this beach offers a tranquil spot for a leisurely stroll or a relaxing day by the water.
+1. **Dagebüll's Beach**: Located just a short distance away, this beach offers a tranquil spot for a leisurely stroll or a relaxing day by the water.
    
 2. **Wadden Sea National Park**: A UNESCO World Heritage site, this park is renowned for its unique tidal flats and rich biodiversity, making it a must-visit for nature lovers and birdwatchers.
 

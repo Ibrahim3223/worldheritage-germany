@@ -28,7 +28,7 @@ image_srcset:
 
 Martin Luther's Birth House, located in the historic town of Eisleben, Germany, is an essential pilgrimage site for those interested in the life and legacy of the Reformation. This museum, situated at the coordinates 51.52694, 11.55007, not only marks the birthplace of Martin Luther, the seminal figure in Protestant Christianity, but also serves as a testament to the cultural and historical shifts that took place during the 16th century. Visitors to the museum will find a space that encapsulates the early life of Luther and his profound impact on religion and society. It invites exploration into a world where ideas of faith, governance, and individual rights began to evolve dramatically.
 
-The significance of Martin Luther's Birth House extends beyond its walls; it symbolizes the broader Reformation movement that transformed Europe. As a museum, it aims to educate and inspire visitors about Luther’s contributions and the historical context of his life. The experience promises to offer insight into a pivotal moment in history, making it a must-visit for anyone intrigued by the interplay of faith and culture.
+The significance of Martin Luther's Birth House extends beyond its walls; it symbolizes the broader Reformation movement that transformed Europe. As a museum, it aims to educate and inspire visitors about Luther's contributions and the historical context of his life. The experience promises to offer insight into a pivotal moment in history, making it a must-visit for anyone intrigued by the interplay of faith and culture.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Martin Luther was born in Eisleben in 1483, and his early life significantly sha
 
 The Birth House, transformed into a museum, serves as a cultural landmark that reflects the societal changes brought about by Luther's actions. It stands as a crucial site for understanding how his teachings influenced both religious and secular life across Europe. The museum not only preserves artifacts related to Luther's life but also showcases the broader social and political currents of his time, demonstrating how his thoughts on liberty and conscience resonated throughout history.
 
-Visitors can learn about the significant events that unfolded in Luther’s life, including his struggle against indulgences and his translation of the Bible into German, which made the scriptures accessible to the general populace. Martin Luther's Birth House, therefore, is not just a museum; it is a historical narrative that reveals the evolution of religious thought and the emergence of modernity.
+Visitors can learn about the significant events that unfolded in Luther's life, including his struggle against indulgences and his translation of the Bible into German, which made the scriptures accessible to the general populace. Martin Luther's Birth House, therefore, is not just a museum; it is a historical narrative that reveals the evolution of religious thought and the emergence of modernity.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architecture of Martin Luther's Birth House reflects the style and character
 
 Inside the museum, the layout is designed to facilitate an engaging visitor experience. Numerous exhibits detail Luther's life, showcasing various artifacts, personal letters, and historical documents that provide context to his teachings and the Reformation. The museum also features interactive displays that invite visitors to delve deeper into Luther's philosophy and its impact on both religion and society.
 
-Notable features of the museum include rooms that reflect Luther's childhood, offering a glimpse into his early influences. Additionally, the museum often hosts temporary exhibitions that cover various aspects of the Reformation and its continuing relevance today. The thoughtful curation of artifacts and exhibits provides a comprehensive understanding of Luther’s life and the era's historical significance.
+Notable features of the museum include rooms that reflect Luther's childhood, offering a glimpse into his early influences. Additionally, the museum often hosts temporary exhibitions that cover various aspects of the Reformation and its continuing relevance today. The thoughtful curation of artifacts and exhibits provides a comprehensive understanding of Luther's life and the era's historical significance.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While in Eisleben, visitors can explore several other notable sites that complem
 
 3. **Eisleben's Market Square**: A picturesque area featuring local shops and restaurants, perfect for soaking in the atmosphere of this historic town.
 
-4. **The Luther Museum**: A dedicated space that further explores the Reformation and Luther’s impact on Christianity and culture, located not far from the Birth House.
+4. **The Luther Museum**: A dedicated space that further explores the Reformation and Luther's impact on Christianity and culture, located not far from the Birth House.
 
 5. **The Market Church**: A remarkable example of Gothic architecture, this church played a significant role in the Reformation and is worth a visit for its historical importance.
 
@@ -88,7 +88,7 @@ The museum may offer amenities like restrooms, and it's advisable to check the o
 Visitors typically spend about one to two hours exploring Martin Luther's Birth House to fully appreciate the exhibits and historical context.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to check for any restrictions on specific exhibits.
+Photography is generally allowed, but it's best to check for any restrictions on specific exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing an in-depth understanding of the museum and Luther's life. Check the official website for details.

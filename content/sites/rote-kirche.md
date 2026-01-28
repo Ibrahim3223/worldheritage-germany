@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rote Kirche, a notable church building located in Bernburg, Germany, captivates visitors with its historical significance and architectural charm. This striking edifice stands as a landmark in Bernburg, a city rich in heritage and culture. With its unique design and enduring presence, Rote Kirche has become a crucial part of the community’s identity and a point of interest for travelers exploring this region of Germany.
+Rote Kirche, a notable church building located in Bernburg, Germany, captivates visitors with its historical significance and architectural charm. This striking edifice stands as a landmark in Bernburg, a city rich in heritage and culture. With its unique design and enduring presence, Rote Kirche has become a crucial part of the community's identity and a point of interest for travelers exploring this region of Germany.
 
 The church, whose name translates to "Red Church," is not only a place of worship but also a testament to the artistic and architectural movements that have shaped the area. Its vibrant exterior and historical context invite exploration and reflection, making it a key stop for anyone interested in the architectural and cultural narratives of Germany. Visitors can expect to delve into the church's past, admire its features, and appreciate its role in the local community.
 
@@ -120,7 +120,7 @@ Information regarding online ticket purchases may be available on the church's o
 
 ### Are there restrooms and cafes?
 
-Restroom facilities and nearby cafes may be available, but it’s best to check the official website for current information.
+Restroom facilities and nearby cafes may be available, but it's best to check the official website for current information.
 
 ### What should I wear?
 

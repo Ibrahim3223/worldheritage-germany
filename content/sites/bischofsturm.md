@@ -28,17 +28,17 @@ image_srcset:
 
 Bischofsturm is a significant historical site located in the heart of Hamburg, Germany. As the foundation of a circular tower dating back to the 12th century, this museum offers visitors a unique glimpse into the architectural and cultural developments of medieval Hamburg. Positioned within the historic city center, the Bischofsturm invites exploration of both its own storied past and the vibrant surroundings of one of Germany's most important port cities. 
 
-Visiting Bischofsturm is not just an opportunity to witness remnants of ancient architecture; it is also a chance to appreciate the evolution of Hamburg from a small trading settlement to a bustling metropolis. The site serves as a reminder of the city’s resilience and its role in shaping regional history. With its rich context and enduring structures, Bischofsturm promises an enriching experience for history enthusiasts and casual visitors alike.
+Visiting Bischofsturm is not just an opportunity to witness remnants of ancient architecture; it is also a chance to appreciate the evolution of Hamburg from a small trading settlement to a bustling metropolis. The site serves as a reminder of the city's resilience and its role in shaping regional history. With its rich context and enduring structures, Bischofsturm promises an enriching experience for history enthusiasts and casual visitors alike.
 
 ## History and Significance
 
-Bischofsturm holds a prominent place in Hamburg's historical narrative, reflecting the city’s evolution over nearly a millennium. The circular tower's foundation represents a crucial period in Hamburg's development during the 12th century, when the city was fortified and began to expand as a significant trading hub. 
+Bischofsturm holds a prominent place in Hamburg's historical narrative, reflecting the city's evolution over nearly a millennium. The circular tower's foundation represents a crucial period in Hamburg's development during the 12th century, when the city was fortified and began to expand as a significant trading hub. 
 
 Originally constructed as part of the city's fortifications, the tower played a pivotal role in protecting the settlement from external threats. Over the centuries, the structure has witnessed numerous historical events, serving various functions that mirror the changing needs of the city. Although specific dates and events related to the tower's history may not be documented, its presence is a testament to the architectural and sociopolitical shifts that have shaped Hamburg through the ages.
 
 The Bischofsturm also reflects the influence of the church in medieval society. As Hamburg's ecclesiastical authority grew, so did the importance of structures like the Bischofsturm, which were often associated with religious governance and community life. This connection underscores the cultural significance of the tower beyond its military utility, highlighting its role in the spiritual and social fabric of early Hamburg.
 
-Today, the Bischofsturm stands as a symbol of Hamburg’s enduring heritage and invites visitors to consider the layers of history that contribute to the city’s identity. The tower's preservation allows for reflection on the past while fostering a greater appreciation for the historical context that continues to inform modern Hamburg.
+Today, the Bischofsturm stands as a symbol of Hamburg's enduring heritage and invites visitors to consider the layers of history that contribute to the city's identity. The tower's preservation allows for reflection on the past while fostering a greater appreciation for the historical context that continues to inform modern Hamburg.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ The architectural characteristics of Bischofsturm are emblematic of 12th-century
 
 While specific architectural details may not be extensively documented, the museum's design typically highlights the raw materials and construction techniques used in the medieval period. Visitors can expect to see remnants of original stonework, which exhibit the craftsmanship and durability that have allowed the structure to endure through the centuries. 
 
-Bischofsturm’s location in the historic city center adds to its architectural significance. The surrounding buildings and urban landscape provide a contrast to the ancient foundation, illustrating the evolution of architectural styles and urban planning in Hamburg over the years. The juxtaposition of old and new enhances the experience for visitors, who can appreciate how the city has developed while still honoring its historical roots.
+Bischofsturm's location in the historic city center adds to its architectural significance. The surrounding buildings and urban landscape provide a contrast to the ancient foundation, illustrating the evolution of architectural styles and urban planning in Hamburg over the years. The juxtaposition of old and new enhances the experience for visitors, who can appreciate how the city has developed while still honoring its historical roots.
 
 ## Visiting Information
 
@@ -90,7 +90,7 @@ Visitors should also consider bringing a water bottle and a small snack, althoug
 Visitors typically spend about an hour at Bischofsturm, allowing for a thorough exploration of the site and its historical context.
 
 ### Is photography allowed?
-Photography is generally permitted at Bischofsturm, but visitors should be considerate of other guests and the site’s artifacts.
+Photography is generally permitted at Bischofsturm, but visitors should be considerate of other guests and the site's artifacts.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the history and significance of Bischofsturm.

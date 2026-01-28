@@ -74,7 +74,7 @@ Brüel is surrounded by several attractions that add to the appeal of a visit to
 
 4. **Nature Trails**: The area surrounding Brüel is likely dotted with walking and biking trails that provide a chance to appreciate the scenic countryside and engage in outdoor activities.
 
-5. **Local Cafés and Restaurants**: Sample traditional German cuisine at local dining establishments, which can enhance your cultural experience and provide a taste of the region’s culinary offerings.
+5. **Local Cafés and Restaurants**: Sample traditional German cuisine at local dining establishments, which can enhance your cultural experience and provide a taste of the region's culinary offerings.
 
 ## Insider Tips
 

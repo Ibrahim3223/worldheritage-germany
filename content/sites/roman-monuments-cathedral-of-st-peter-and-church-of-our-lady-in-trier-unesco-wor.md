@@ -30,7 +30,7 @@ image_srcset:
 
 Trier, Germany, is home to the Roman Monuments, Cathedral of St. Peter, and Church of Our Lady—a UNESCO World Heritage Site that showcases the remarkable architectural heritage of the Roman Empire. This ensemble is a significant representation of a large Roman capital after the division of the empire, offering visitors a glimpse into its storied past and architectural ingenuity. Situated in the picturesque Moselle Valley, Trier is not only Germany's oldest city but also a vital cultural hub that attracts history enthusiasts and architecture lovers alike.
 
-The site encompasses a variety of structures that illustrate the evolution of Roman architecture and its influence on subsequent periods. From the impressive Roman monuments to the majestic cathedral and the elegant Church of Our Lady, each part of this ensemble serves as a captivating narrative of Trier's historical journey. Visitors can expect a rich experience, exploring the intricate details of these architectural marvels while absorbing the ambiance of one of Europe’s most significant historical locations.
+The site encompasses a variety of structures that illustrate the evolution of Roman architecture and its influence on subsequent periods. From the impressive Roman monuments to the majestic cathedral and the elegant Church of Our Lady, each part of this ensemble serves as a captivating narrative of Trier's historical journey. Visitors can expect a rich experience, exploring the intricate details of these architectural marvels while absorbing the ambiance of one of Europe's most significant historical locations.
 
 ## History and Significance
 

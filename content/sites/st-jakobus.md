@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Jakobus, a captivating church building located in the charming village of Stegen within the Freiburg Government Region of Baden-Württemberg, Germany, is a remarkable destination for enthusiasts of heritage architecture and local history. This church embodies the spiritual and cultural essence of the community, serving as both a place of worship and a landmark that reflects the region’s historical narrative. Stegen, situated near the scenic Black Forest, contributes to the church's serene ambiance, making it an inviting stop for visitors exploring the beauty of southern Germany. 
+St. Jakobus, a captivating church building located in the charming village of Stegen within the Freiburg Government Region of Baden-Württemberg, Germany, is a remarkable destination for enthusiasts of heritage architecture and local history. This church embodies the spiritual and cultural essence of the community, serving as both a place of worship and a landmark that reflects the region's historical narrative. Stegen, situated near the scenic Black Forest, contributes to the church's serene ambiance, making it an inviting stop for visitors exploring the beauty of southern Germany. 
 
 As you approach St. Jakobus, you'll be drawn in by its architectural elegance and the tranquil surroundings that enhance its significance. This site not only offers a glimpse into the religious practices of the area but also serves as a reminder of the enduring legacy of faith and community in the region. Whether you are a history buff, an architecture aficionado, or simply someone seeking peaceful reflection, St. Jakobus promises an enriching experience.
 
@@ -36,7 +36,7 @@ The history of St. Jakobus is intertwined with the development of Stegen itself,
 
 The significance of St. Jakobus extends beyond its function as a place of worship. The church symbolizes the importance of community and spirituality in the lives of the local population. It stands as a testament to the enduring nature of faith across generations, showcasing how religious practices have shaped cultural identities throughout history. 
 
-Visitors to St. Jakobus will find themselves in a space that has witnessed countless moments of joy, sorrow, and celebration. The church’s enduring presence in the village underscores its role in fostering a sense of belonging among its congregation. As you explore the grounds, you may sense the spiritual energy that has permeated this sacred space, making it not only a site of architectural interest but also a profound reflection of human devotion.
+Visitors to St. Jakobus will find themselves in a space that has witnessed countless moments of joy, sorrow, and celebration. The church's enduring presence in the village underscores its role in fostering a sense of belonging among its congregation. As you explore the grounds, you may sense the spiritual energy that has permeated this sacred space, making it not only a site of architectural interest but also a profound reflection of human devotion.
 
 ## Architecture and Features
 
@@ -97,7 +97,7 @@ Check the official website for information regarding guided tours, as they may b
 The best times to visit are during spring and autumn when the weather is mild, providing a pleasant atmosphere for exploration.
 
 ### Is it wheelchair accessible?
-For accessibility inquiries, it’s best to consult the official website for specifics regarding wheelchair access and facilities.
+For accessibility inquiries, it's best to consult the official website for specifics regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

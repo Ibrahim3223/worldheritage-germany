@@ -86,7 +86,7 @@ If you plan to enjoy the nearby attractions, consider allocating more time in yo
 A visit to Kunsthaus typically takes between one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check on-site for any restrictions before taking photos.
+Photography policies may vary by exhibition. It's best to check on-site for any restrictions before taking photos.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be offered at certain times or for specific exhibitions.

@@ -54,7 +54,7 @@ Visitors can explore the surrounding areas, which are designed to enhance the ex
 
 ## Visiting Information
 
-Visiting the Seat of the European Central Bank offers a unique opportunity to engage with one of Europe’s most important financial institutions. The ECB is located in Frankfurt-Bornheim/Ostend, easily accessible via public transport. The city’s comprehensive transit system includes trams, buses, and trains, making it convenient for visitors to reach the site.
+Visiting the Seat of the European Central Bank offers a unique opportunity to engage with one of Europe's most important financial institutions. The ECB is located in Frankfurt-Bornheim/Ostend, easily accessible via public transport. The city's comprehensive transit system includes trams, buses, and trains, making it convenient for visitors to reach the site.
 
 While specific visiting hours and ticket prices are not detailed here, it is advisable to check the official website for current information regarding tours and access to the building. Visitors can typically expect a variety of options, including guided tours that offer deeper insights into the ECB's functions and architecture.
 
@@ -78,7 +78,7 @@ In addition to exploring the ECB, take the opportunity to enjoy the surrounding 
 
 When visiting the Seat of the European Central Bank, consider bringing a camera to capture the stunning architectural features, but be mindful of any photography restrictions in certain areas. To avoid crowds, aim for early morning visits or weekdays when fewer tourists are present. 
 
-Additionally, familiarize yourself with the ECB's mission and recent developments in monetary policy to enrich your experience. Engaging with the material available on the ECB’s official website prior to your visit can enhance your understanding and appreciation of the institution.
+Additionally, familiarize yourself with the ECB's mission and recent developments in monetary policy to enrich your experience. Engaging with the material available on the ECB's official website prior to your visit can enhance your understanding and appreciation of the institution.
 
 ## Practical Information
 

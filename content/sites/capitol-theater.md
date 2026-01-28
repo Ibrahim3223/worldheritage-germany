@@ -60,7 +60,7 @@ The best times to visit the Capitol Theater are during its performance seasons, 
 
 3. **Schadowstraße**: Known for its shopping opportunities, this street is lined with boutiques and cafés, making it a great spot to explore before or after a performance.
 
-4. **St. Lambertus Church**: A historical church featuring a distinctive twisted tower, located not far from the theatre. It’s worth a visit for those interested in local architecture and history.
+4. **St. Lambertus Church**: A historical church featuring a distinctive twisted tower, located not far from the theatre. It's worth a visit for those interested in local architecture and history.
 
 5. **Hofgarten**: A serene park nearby, perfect for a leisurely stroll or a picnic. Visitors can enjoy the natural beauty and perhaps reflect on the performances they have seen at the theatre.
 
@@ -97,7 +97,7 @@ The Capitol Theater aims to be inclusive, but it is advisable to confirm accessi
 Yes, tickets for performances at the Capitol Theater can typically be purchased online. It is recommended to check the official website for the most current ticketing information.
 
 ### Are there restrooms and cafes?
-The theatre is equipped with essential amenities, including restrooms. Cafés or refreshment areas may also be available, but it’s best to verify this on the official website.
+The theatre is equipped with essential amenities, including restrooms. Cafés or refreshment areas may also be available, but it's best to verify this on the official website.
 
 ### What should I wear?
 While there is no strict dress code, many visitors opt for smart casual attire for performances. Comfortable clothing is advisable, especially if you plan to enjoy a lengthy show.

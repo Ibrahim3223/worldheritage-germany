@@ -70,14 +70,14 @@ To make the most of your visit to the Draft Horse Museum, consider the following
 
 - **Photography**: Capture the moment without flash, as it may be restricted in certain areas of the museum. Look for unique angles and perspectives of the exhibits.
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekday mornings. This is often when the museum is less busy, allowing for more personal interactions with staff and exhibits.
-- **Engagement**: Don’t hesitate to ask museum staff questions. They often have extensive knowledge about the exhibits and can provide deeper insights into the history of draft horses.
+- **Engagement**: Don't hesitate to ask museum staff questions. They often have extensive knowledge about the exhibits and can provide deeper insights into the history of draft horses.
 
 ## Practical Information
 
 Before heading to the Draft Horse Museum, keep the following practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may be on your feet exploring the exhibits. Bring a water bottle to stay hydrated, especially if visiting during warmer months.
-- **Seasonal Considerations**: Depending on the time of year, layering your clothing is advisable, as temperatures can fluctuate. Check the weather forecast prior to your visit to ensure you’re prepared for any conditions.
+- **Seasonal Considerations**: Depending on the time of year, layering your clothing is advisable, as temperatures can fluctuate. Check the weather forecast prior to your visit to ensure you're prepared for any conditions.
 
 ## Frequently Asked Questions
 

@@ -97,7 +97,7 @@ Check the official website for current information regarding accessibility optio
 Ticket purchasing options may vary; check the official website for details on online purchases and availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available nearby, but it’s recommended to check the official website for specifics. Café options can be found in the vicinity.
+Restroom facilities may be available nearby, but it's recommended to check the official website for specifics. Café options can be found in the vicinity.
 
 ### What should I wear?
 Comfortable footwear is recommended due to potential uneven terrain. Dress in layers to accommodate fluctuating weather conditions.

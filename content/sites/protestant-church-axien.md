@@ -60,7 +60,7 @@ While the Protestant Church of Axien is a destination in itself, there are sever
 
 1. **Annaburg Castle**: A historic site that offers insight into the region's noble past, featuring beautiful gardens and architecture.
 2. **St. Mary's Church, Annaburg**: Another significant religious structure that showcases different architectural styles and local history.
-3. **The Annaburger Land Museum**: A local museum that highlights the cultural heritage of the Annaburg region, providing context to the area’s history.
+3. **The Annaburger Land Museum**: A local museum that highlights the cultural heritage of the Annaburg region, providing context to the area's history.
 4. **Natural Reserves**: Various natural parks and reserves nearby offer opportunities for hiking and enjoying the local flora and fauna.
 
 These attractions complement a visit to the Protestant Church of Axien, enhancing the experience of exploring this culturally rich area.

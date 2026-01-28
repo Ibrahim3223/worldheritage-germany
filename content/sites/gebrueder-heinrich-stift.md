@@ -66,7 +66,7 @@ After exploring Gebrüder-Heinrich-Stift, you may want to discover more about th
 
 3. **Naturpark Nuthe-Nieplitz**: A beautiful natural park located a short distance away, perfect for those interested in outdoor activities, walking trails, and enjoying the scenic landscape.
 
-4. **Museum Luckenwalde**: This museum presents exhibitions related to the town’s history and culture, providing deeper insights into the region's heritage.
+4. **Museum Luckenwalde**: This museum presents exhibitions related to the town's history and culture, providing deeper insights into the region's heritage.
 
 5. **Saarow Therme**: For relaxation, this thermal spa offers wellness treatments and a variety of pools, making it a great complement to a day of sightseeing.
 
@@ -96,7 +96,7 @@ When preparing for your visit to Gebrüder-Heinrich-Stift, keep the following pr
 Visitors typically spend a couple of hours at Gebrüder-Heinrich-Stift to fully appreciate the site and its offerings.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s important to check for any restrictions in specific areas.
+Photography may be permitted, but it's important to check for any restrictions in specific areas.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any special events that may be available during your visit.
@@ -105,7 +105,7 @@ Check the official website for information regarding guided tours and any specia
 Weekdays or early mornings are often the best times to visit to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-For accessibility information, it’s best to check the official website or contact the foundation directly.
+For accessibility information, it's best to check the official website or contact the foundation directly.
 
 ### Can I buy tickets online?
 Current ticket purchasing options should be confirmed on the official website prior to your visit.

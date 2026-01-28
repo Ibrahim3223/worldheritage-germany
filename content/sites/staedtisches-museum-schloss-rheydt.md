@@ -96,7 +96,7 @@ When preparing for your visit to the Städtisches Museum Schloss Rheydt, keep th
 
 - **Accessibility**: The museum aims to be accessible to all visitors. If you have specific needs, check the official website for detailed information on facilities and services available.
 
-- **Amenities**: While the museum may have restroom facilities, it’s advisable to check the official website for information on cafes or dining options nearby.
+- **Amenities**: While the museum may have restroom facilities, it's advisable to check the official website for information on cafes or dining options nearby.
 
 ## Frequently Asked Questions
 

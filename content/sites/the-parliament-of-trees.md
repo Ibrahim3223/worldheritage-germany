@@ -28,7 +28,7 @@ image_srcset:
 
 The Parliament of Trees stands as a poignant memorial located in the heart of Berlin's Bezirk Mitte, Germany. This site serves not only as a testament to the enduring power of nature but also as a reflection of the complex relationship between humanity and the environment. The memorial invites visitors to contemplate the significance of trees and their connection to life, culture, and history, encouraging a profound appreciation for the natural world. 
 
-Strategically positioned at coordinates 52.5211, 13.3776, the Parliament of Trees is accessible to both locals and tourists, making it an essential stop for those exploring Berlin's rich cultural landscape. The site represents a commitment to environmental awareness and sustainability, making it increasingly relevant in today’s world where ecological issues are at the forefront of global discourse. As visitors stroll among the trees, they are reminded of the importance of conservation and the role that nature plays in our lives.
+Strategically positioned at coordinates 52.5211, 13.3776, the Parliament of Trees is accessible to both locals and tourists, making it an essential stop for those exploring Berlin's rich cultural landscape. The site represents a commitment to environmental awareness and sustainability, making it increasingly relevant in today's world where ecological issues are at the forefront of global discourse. As visitors stroll among the trees, they are reminded of the importance of conservation and the role that nature plays in our lives.
 
 Whether you are a history enthusiast, a nature lover, or simply seeking a moment of reflection in the bustling city, the Parliament of Trees offers a serene escape. This guide will provide you with a comprehensive overview of the memorial, its significance, and practical information to enhance your visit.
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Parliament of Trees, keep the following pra
 
 - **What to Bring**: Comfortable walking shoes are recommended, as the site encourages exploration. A water bottle and light snacks are also advisable, particularly if you plan to spend an extended period enjoying the memorial.
 
-- **Seasonal Considerations**: Each season offers a unique perspective of the trees. Spring and summer are vibrant, while fall showcases stunning foliage. Winter may provide a serene, stark beauty, though it’s important to dress appropriately for colder temperatures.
+- **Seasonal Considerations**: Each season offers a unique perspective of the trees. Spring and summer are vibrant, while fall showcases stunning foliage. Winter may provide a serene, stark beauty, though it's important to dress appropriately for colder temperatures.
 
 ## Frequently Asked Questions
 

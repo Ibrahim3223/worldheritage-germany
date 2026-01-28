@@ -62,7 +62,7 @@ While visiting Feuchtwiesen Hörste, consider exploring these nearby attractions
 
 2. **Saale River**: A short distance away, the Saale River provides picturesque walking paths and opportunities for outdoor activities such as cycling and kayaking.
 
-3. **St. Mary’s Church (Marktkirche)**: An iconic landmark in Halle, this historic church features stunning architecture and is worth a visit for its cultural significance.
+3. **St. Mary's Church (Marktkirche)**: An iconic landmark in Halle, this historic church features stunning architecture and is worth a visit for its cultural significance.
 
 4. **Halle Botanical Garden**: This garden showcases a diverse collection of plant species and serves as an excellent complement to the natural exploration at Feuchtwiesen Hörste.
 

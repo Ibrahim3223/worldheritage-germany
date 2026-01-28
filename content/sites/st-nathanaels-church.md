@@ -76,7 +76,7 @@ While visiting St. Nathanael's Church, you may want to explore some of the nearb
 
 To make the most of your visit to St. Nathanael's Church, consider the following insider tips:
 
-- **Photography**: While capturing the beauty of the church is encouraged, be respectful of the worshippers and any ongoing services. It’s best to ask for permission if you wish to take photos of people inside the church.
+- **Photography**: While capturing the beauty of the church is encouraged, be respectful of the worshippers and any ongoing services. It's best to ask for permission if you wish to take photos of people inside the church.
   
 - **Crowd Avoidance**: For a quieter experience, visit during weekdays or early mornings. This timing allows for a more personal experience with the church's ambiance.
 

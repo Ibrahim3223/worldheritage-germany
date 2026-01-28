@@ -40,7 +40,7 @@ Culturally, Limeskastell Pohl serves as a window into the lives of Roman soldier
 
 The significance of Limeskastell Pohl extends beyond its military function; it is also a site of archaeological interest. Excavations in the area have yielded numerous artifacts, shedding light on the material culture of the time. The fort's reconstruction allows for an exploration of various aspects of Roman life, from military organization to domestic arrangements, providing a comprehensive understanding of the period's social dynamics.
 
-This site is also a vital part of the UNESCO World Heritage designation for the Upper Germanic-Rhaetian Limes, highlighting its importance not only in German history but also in the context of European heritage. This recognition underscores the fort’s role in the collective memory of the Roman Empire's influence on the continent and its lasting legacy.
+This site is also a vital part of the UNESCO World Heritage designation for the Upper Germanic-Rhaetian Limes, highlighting its importance not only in German history but also in the context of European heritage. This recognition underscores the fort's role in the collective memory of the Roman Empire's influence on the continent and its lasting legacy.
 
 ## Architecture and Features
 
@@ -86,7 +86,7 @@ To make the most of your visit to Limeskastell Pohl, consider the following tips
 
 ## Practical Information
 
-When visiting Limeskastell Pohl, it’s advisable to wear comfortable shoes suitable for walking, as the site may have uneven terrain. Bringing a water bottle is also recommended, especially during warmer months, to stay hydrated while exploring.
+When visiting Limeskastell Pohl, it's advisable to wear comfortable shoes suitable for walking, as the site may have uneven terrain. Bringing a water bottle is also recommended, especially during warmer months, to stay hydrated while exploring.
 
 Seasonal considerations include checking the weather before your trip, as rain or extreme temperatures can affect your experience. Additionally, verify opening hours and ticket prices on the official website to ensure a smooth visit.
 

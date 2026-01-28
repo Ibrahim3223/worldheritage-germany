@@ -54,7 +54,7 @@ Accessing the Georgskapelle in Groß Liedern is relatively straightforward, as i
 
 For those planning a visit, check the official website for current information regarding hours of operation and any potential admission fees. While the chapel may not require an entry fee, it is always prudent to verify details in advance to ensure a smooth visit.
 
-When visiting the Georgskapelle, anticipate a serene environment conducive to reflection and appreciation of the site’s historical significance. The time needed to explore the chapel can vary, but a visit of approximately one to two hours should allow ample opportunity to absorb the atmosphere and engage with the surroundings.
+When visiting the Georgskapelle, anticipate a serene environment conducive to reflection and appreciation of the site's historical significance. The time needed to explore the chapel can vary, but a visit of approximately one to two hours should allow ample opportunity to absorb the atmosphere and engage with the surroundings.
 
 The best times to visit are often during the spring and early autumn months when the weather is pleasant, and the natural beauty of the region is on display. These seasons typically see fewer tourists, providing a more intimate experience with the chapel and its serene ambiance.
 
@@ -76,7 +76,7 @@ Exploring the region surrounding the Georgskapelle will reveal several noteworth
 
 To make the most of your visit to the Georgskapelle, consider the following insider tips:
 
-- **Photography Tips**: While capturing the chapel’s beauty, be mindful of the light conditions, especially in the early morning or late afternoon for softer lighting. Respect any signs regarding photography inside the chapel.
+- **Photography Tips**: While capturing the chapel's beauty, be mindful of the light conditions, especially in the early morning or late afternoon for softer lighting. Respect any signs regarding photography inside the chapel.
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or off-peak hours to enjoy a quieter experience. Early mornings or late afternoons often see fewer visitors.
 

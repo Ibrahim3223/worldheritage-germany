@@ -58,7 +58,7 @@ Expect to find well-marked trails and a serene atmosphere, ideal for both solita
 
 1. **Bautzen**: Just a short distance from Großer Picho, the historic town of Bautzen is known for its medieval architecture, including the impressive Bautzen Fortress and charming old town streets. Visitors can explore the rich history and local culture.
 
-2. **Spreewald**: A UNESCO Biosphere Reserve, Spreewald is famous for its unique waterways and lush landscapes. It’s an ideal destination for kayaking, cycling, and enjoying nature.
+2. **Spreewald**: A UNESCO Biosphere Reserve, Spreewald is famous for its unique waterways and lush landscapes. It's an ideal destination for kayaking, cycling, and enjoying nature.
 
 3. **Löbau Mountain**: Located nearby, Löbau Mountain offers additional hiking opportunities and beautiful views of the surrounding region. It is a great complement to a visit to Großer Picho.
 

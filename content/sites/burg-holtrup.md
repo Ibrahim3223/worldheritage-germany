@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Burg Holtrup, a distinguished castle located in the Porta Westfalica region of Germany, serves as a captivating window into the architectural and historical narratives of the area. This medieval structure showcases the resilience and artistry of its era, standing as a significant landmark that attracts both history enthusiasts and casual visitors alike. The castle’s strategic location within the scenic landscape of Porta Westfalica adds to its allure, providing a backdrop that complements its historical significance.
+Burg Holtrup, a distinguished castle located in the Porta Westfalica region of Germany, serves as a captivating window into the architectural and historical narratives of the area. This medieval structure showcases the resilience and artistry of its era, standing as a significant landmark that attracts both history enthusiasts and casual visitors alike. The castle's strategic location within the scenic landscape of Porta Westfalica adds to its allure, providing a backdrop that complements its historical significance.
 
-Visitors to Burg Holtrup can explore a site that has withstood the test of time, offering insights into the region’s past. The castle's presence not only speaks to its original purpose as a fortification but also to the evolving cultural dynamics of the time. While the castle may not be as widely recognized as some of its counterparts in Germany, it captivates those who seek a more intimate historical experience.
+Visitors to Burg Holtrup can explore a site that has withstood the test of time, offering insights into the region's past. The castle's presence not only speaks to its original purpose as a fortification but also to the evolving cultural dynamics of the time. While the castle may not be as widely recognized as some of its counterparts in Germany, it captivates those who seek a more intimate historical experience.
 
 With its intriguing architecture and storied past, Burg Holtrup invites exploration and offers a unique opportunity to appreciate the heritage of the region. Whether you are a history buff or simply seeking a peaceful retreat into the past, this castle promises an enriching experience.
 
@@ -46,7 +46,7 @@ Burg Holtrup's architectural design reflects the characteristics of medieval cas
 
 The castle likely exhibits a combination of functional and aesthetic qualities, with its structure designed to withstand sieges while also providing a dignified residence for its occupants. The presence of towers, battlements, and potentially a gatehouse would be common features, allowing for strategic surveillance of the surrounding area and reinforcing the castle's defensive posture.
 
-Visitors can expect to encounter remnants of this architectural heritage as they explore the grounds, gaining insight into the construction techniques and materials of the time. The castle’s enduring presence stands as an example of medieval engineering, offering a glimpse into the lives of those who once called it home.
+Visitors can expect to encounter remnants of this architectural heritage as they explore the grounds, gaining insight into the construction techniques and materials of the time. The castle's enduring presence stands as an example of medieval engineering, offering a glimpse into the lives of those who once called it home.
 
 ## Visiting Information
 

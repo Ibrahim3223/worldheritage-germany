@@ -28,7 +28,7 @@ image_srcset:
 
 Perched amid the scenic landscapes of Bad Hindelang, Kapelle St. Jakob is a quaint chapel that invites visitors to explore its serene atmosphere and historical significance. This charming structure serves not only as a place of worship but also as a monument that reflects the cultural heritage of the region. Its coordinates—47.5156 latitude and 10.4039 longitude—place it in a location that offers both tranquility and accessibility. 
 
-The chapel is significant for its role in local religious practices and its representation of architectural simplicity that aligns harmoniously with the surrounding natural beauty. Visitors can expect to witness a space that has remained a central part of the community’s spiritual life, making it an intriguing stop for those interested in exploring the intersection of faith and history. 
+The chapel is significant for its role in local religious practices and its representation of architectural simplicity that aligns harmoniously with the surrounding natural beauty. Visitors can expect to witness a space that has remained a central part of the community's spiritual life, making it an intriguing stop for those interested in exploring the intersection of faith and history. 
 
 Whether you are a history enthusiast, a spiritual seeker, or simply someone looking for a peaceful retreat, Kapelle St. Jakob promises a thoughtful experience that resonates with its visitors. 
 
@@ -38,7 +38,7 @@ While specific historical dates regarding the founding of Kapelle St. Jakob are 
 
 This chapel is emblematic of the broader religious landscape of Bavaria, where many similar structures dot the countryside. They stand as reminders of the importance of faith in the daily lives of the inhabitants. The community surrounding Kapelle St. Jakob likely has deep-rooted connections to the chapel, utilizing it for pivotal life events such as christenings, weddings, and funerals.
 
-Additionally, the chapel may serve a broader role in the community’s identity, acting as a focal point for local traditions and celebrations. The significance of such places often extends beyond their physical structure, embodying the values and stories of the people who gather within their walls.
+Additionally, the chapel may serve a broader role in the community's identity, acting as a focal point for local traditions and celebrations. The significance of such places often extends beyond their physical structure, embodying the values and stories of the people who gather within their walls.
 
 ## Architecture and Features
 

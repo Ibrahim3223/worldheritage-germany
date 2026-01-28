@@ -76,7 +76,7 @@ While visiting the Capitol, consider exploring other nearby attractions that enr
 
 ## Insider Tips
 
-For photography enthusiasts, capturing the Capitol’s exterior can be rewarding, particularly during the golden hour when the light casts a warm glow on the building. Inside, while photography may be allowed during performances, it is advisable to check with the venue for specific policies. 
+For photography enthusiasts, capturing the Capitol's exterior can be rewarding, particularly during the golden hour when the light casts a warm glow on the building. Inside, while photography may be allowed during performances, it is advisable to check with the venue for specific policies. 
 
 To avoid crowds, consider attending weekday events or choosing less popular performance times. This allows for a more intimate experience and gives visitors the chance to enjoy the atmosphere without feeling rushed.
 
@@ -92,7 +92,7 @@ Seasonal considerations may influence your visit; summer events may offer outdoo
 A visit can typically take a few hours, depending on the event schedule. Allow time to explore the venue and enjoy the performance.
 
 ### Is photography allowed?
-Photography policies may vary. It’s recommended to check with the venue regarding specific rules during performances.
+Photography policies may vary. It's recommended to check with the venue regarding specific rules during performances.
 
 ### Are there guided tours?
 Guided tours may be available, offering insights into the building's history and cultural significance. Check the official website for details.

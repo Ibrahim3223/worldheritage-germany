@@ -80,7 +80,7 @@ To make the most of your visit to the Evangelische Hauptkirche Rheydt, consider 
 
 As you prepare for your visit to the Evangelische Hauptkirche Rheydt, consider these practical aspects:
 
-- **What to Bring**: It’s advisable to bring a small bag for personal items, a reusable water bottle, and perhaps a notebook if you wish to jot down reflections or insights during your visit.
+- **What to Bring**: It's advisable to bring a small bag for personal items, a reusable water bottle, and perhaps a notebook if you wish to jot down reflections or insights during your visit.
 
 - **Seasonal Considerations**: The church is open year-round, but seasonal events or services may affect your experience. Checking the official website for any seasonal activities or changes in hours is recommended.
 
@@ -93,7 +93,7 @@ A visit of about an hour is generally sufficient to explore the church and enjoy
 Photography policies may vary; be sure to respect any restrictions and consider the sacred nature of the space.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as availability may vary based on the church’s schedule and events.
+Check the official website for information on guided tours, as availability may vary based on the church's schedule and events.
 
 ### What's the best time to visit?
 Weekdays often provide a quieter experience, but checking for any scheduled events is advisable for optimal timing.
@@ -102,7 +102,7 @@ Weekdays often provide a quieter experience, but checking for any scheduled even
 Accessibility features may be available; check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary; it’s best to check the official website for current information.
+Ticket purchasing options may vary; it's best to check the official website for current information.
 
 ### Are there restrooms and cafes?
 Facilities may be available; consider checking the official website for details on amenities.

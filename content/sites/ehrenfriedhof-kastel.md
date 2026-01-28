@@ -28,7 +28,7 @@ image_srcset:
 
 Ehrenfriedhof Kastel, located in the serene region of Kastel-Staadt, Germany, serves as a poignant reminder of the lives that have shaped this area. This cemetery is not merely a resting place but a significant historical site that reflects the cultural and social narratives of its community. Visitors to Ehrenfriedhof Kastel are offered a moment of reflection among the tranquil surroundings, allowing for a deeper understanding of the area's heritage.
 
-The cemetery’s significance extends beyond its primary function, acting as a memorial that honors the past. As you wander through its paths, you will feel the weight of history and the stories that echo through the headstones. The site invites introspection and respect for those who have come before, making it a meaningful stop for anyone interested in history and heritage.
+The cemetery's significance extends beyond its primary function, acting as a memorial that honors the past. As you wander through its paths, you will feel the weight of history and the stories that echo through the headstones. The site invites introspection and respect for those who have come before, making it a meaningful stop for anyone interested in history and heritage.
 
 Ehrenfriedhof Kastel is not just an ordinary cemetery; it stands as a place where visitors can connect with the local culture and history. The site beckons exploration, promising both educational insights and a peaceful environment for contemplation.
 

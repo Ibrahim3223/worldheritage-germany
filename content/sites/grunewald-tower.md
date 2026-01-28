@@ -28,7 +28,7 @@ image_srcset:
 
 Grunewald Tower, an observation tower located in the Charlottenburg-Wilmersdorf district of Berlin, offers visitors a unique vantage point to appreciate both the urban landscape and the natural surroundings. This tower stands as a prominent feature, drawing attention from locals and tourists alike. Its strategic location makes it an ideal destination for those looking to experience a mix of natural beauty and architectural interest in one of Germany's most vibrant cities. 
 
-As a part of Berlin's extensive network of parks and recreational areas, Grunewald Tower serves as a reminder of the city’s commitment to preserving green spaces amidst urban development. Visitors to the tower can expect not only panoramic views of the surrounding area but also a chance to engage with Berlin's cultural and historical context, further enhancing their experience in this dynamic city.
+As a part of Berlin's extensive network of parks and recreational areas, Grunewald Tower serves as a reminder of the city's commitment to preserving green spaces amidst urban development. Visitors to the tower can expect not only panoramic views of the surrounding area but also a chance to engage with Berlin's cultural and historical context, further enhancing their experience in this dynamic city.
 
 ## History and Significance
 

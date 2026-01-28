@@ -28,11 +28,11 @@ image_srcset:
 
 St. Konrad, a significant church building located in Speyer, Germany, serves as a focal point for both local worshippers and visitors intrigued by its architectural and cultural heritage. Situated in a region rich with history, Speyer is known for its medieval structures and vibrant community life. St. Konrad stands as an important religious site, representing the spiritual and cultural fabric of the area. The church not only functions as a place of worship but also as a venue for community events and gatherings, making it a vital part of local life.
 
-The architectural design and historical context of St. Konrad invite exploration and contemplation, drawing visitors from various backgrounds. Its presence in Speyer enhances the city’s historical narrative, linking past and present. Whether you're a history enthusiast, an architecture lover, or simply seeking a peaceful spot for reflection, St. Konrad offers an enriching experience.
+The architectural design and historical context of St. Konrad invite exploration and contemplation, drawing visitors from various backgrounds. Its presence in Speyer enhances the city's historical narrative, linking past and present. Whether you're a history enthusiast, an architecture lover, or simply seeking a peaceful spot for reflection, St. Konrad offers an enriching experience.
 
 ## History and Significance
 
-The history of St. Konrad reflects the broader narrative of Speyer, a city that has long been a center of ecclesiastical power and political significance in Germany. While specific historical dates regarding the church's founding are not detailed, it is known that Speyer has been a site of Christian worship for centuries, contributing significantly to the development of the region’s religious landscape.
+The history of St. Konrad reflects the broader narrative of Speyer, a city that has long been a center of ecclesiastical power and political significance in Germany. While specific historical dates regarding the church's founding are not detailed, it is known that Speyer has been a site of Christian worship for centuries, contributing significantly to the development of the region's religious landscape.
 
 The church is named after Saint Conrad, a figure revered in Catholic tradition. This connection highlights the church's role in fostering religious devotion and community spirit. St. Konrad not only serves its parishioners but also plays a role in the cultural life of Speyer, hosting events and services that draw in people from the surrounding areas.
 
@@ -78,7 +78,7 @@ To avoid larger crowds, consider visiting on weekdays rather than weekends. If y
 
 When visiting St. Konrad, it is advisable to bring a camera to capture the architectural details and the serene atmosphere within the church. Comfortable shoes are recommended, as visitors may wish to explore the surrounding area and other attractions in Speyer.
 
-Seasonal considerations include checking the weather forecast, especially during winter months, as colder temperatures may affect outdoor activities. It’s also wise to dress modestly, as St. Konrad is a place of worship.
+Seasonal considerations include checking the weather forecast, especially during winter months, as colder temperatures may affect outdoor activities. It's also wise to dress modestly, as St. Konrad is a place of worship.
 
 ## Frequently Asked Questions
 

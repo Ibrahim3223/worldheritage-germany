@@ -84,7 +84,7 @@ Seasonal considerations are also important. Be mindful of the weather, as winter
 A visit to St. Florian typically takes about 30 minutes to an hour, allowing time to explore the church and reflect.
 
 ### Is photography allowed?
-Photography is generally welcomed, but it’s prudent to check for any specific restrictions within the church.
+Photography is generally welcomed, but it's prudent to check for any specific restrictions within the church.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more details on offerings.

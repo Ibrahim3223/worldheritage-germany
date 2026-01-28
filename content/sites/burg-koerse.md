@@ -32,7 +32,7 @@ Visitors to Burg Körse can expect to immerse themselves in a unique blend of hi
 
 ## History and Significance
 
-The history of Burg Körse is intertwined with the broader narrative of medieval Germany, reflecting the sociopolitical dynamics of the time. Castles like Burg Körse were built not only for defense but also as a residence for local nobility, serving as centers of power and administration. The castle’s strategic location allowed it to play a significant role in regional governance and military operations.
+The history of Burg Körse is intertwined with the broader narrative of medieval Germany, reflecting the sociopolitical dynamics of the time. Castles like Burg Körse were built not only for defense but also as a residence for local nobility, serving as centers of power and administration. The castle's strategic location allowed it to play a significant role in regional governance and military operations.
 
 Throughout the centuries, Burg Körse has witnessed various historical events that shaped the surrounding area. Though specific dates and events may not be documented, the castle's enduring presence in the landscape speaks volumes about its importance. Castles such as Burg Körse were often at the heart of territorial disputes and alliances, making them pivotal in the historical development of local and regional politics.
 

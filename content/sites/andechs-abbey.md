@@ -36,7 +36,7 @@ Andechs Abbey has a rich history that dates back to its founding as a monastery.
 
 The abbey is closely linked to the local community, serving as a place of refuge and spiritual guidance. Throughout its history, Andechs Abbey has adapted to the changing tides of culture and society, while maintaining its core religious values. The monks have played a crucial role in the cultivation of local traditions, particularly in the areas of brewing, agriculture, and education. 
 
-One of the most notable aspects of the abbey’s history is its role in the preservation of the Bavarian culture. The monks of Andechs have contributed to the local economy and society, fostering a sense of community that extends beyond the walls of the abbey itself. As a result, Andechs Abbey not only stands as a religious institution but also as a symbol of cultural continuity in the region.
+One of the most notable aspects of the abbey's history is its role in the preservation of the Bavarian culture. The monks of Andechs have contributed to the local economy and society, fostering a sense of community that extends beyond the walls of the abbey itself. As a result, Andechs Abbey not only stands as a religious institution but also as a symbol of cultural continuity in the region.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ Exploring the area around Andechs Abbey offers additional opportunities to delve
 
 4. **Dachau Concentration Camp Memorial Site** – A short drive away, this site offers a sobering yet essential perspective on history and remembrance.
 
-5. **Andechs Brewery** – An extension of the abbey’s brewing tradition, visitors can sample local beers and learn about the brewing process within a historical context.
+5. **Andechs Brewery** – An extension of the abbey's brewing tradition, visitors can sample local beers and learn about the brewing process within a historical context.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ Bringing a water bottle and snacks can enhance the experience, especially if you
 Most visitors find that a few hours allow ample time to explore the abbey and its surroundings thoroughly.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any specific restrictions, especially in areas designated for worship.
+Photography is generally permitted, but it's advisable to respect any specific restrictions, especially in areas designated for worship.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the abbey's history and cultural significance.

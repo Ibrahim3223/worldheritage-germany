@@ -62,17 +62,17 @@ While visiting the Württembergische Landesbühne Esslingen, consider exploring 
    
 2. **Old Town (Altstadt)**: The picturesque old town features well-preserved medieval architecture, charming streets, and a variety of shops and cafes perfect for a leisurely stroll.
 
-3. **Kessler Sekt**: Known for its sparkling wine production, this local winery offers tours and tastings, providing a delightful way to experience the region’s culinary offerings.
+3. **Kessler Sekt**: Known for its sparkling wine production, this local winery offers tours and tastings, providing a delightful way to experience the region's culinary offerings.
 
 4. **Neckar Park**: An ideal spot for relaxation, this park along the Neckar River offers scenic walking paths, picnic areas, and opportunities for outdoor activities.
 
-5. **Esslingen’s Market Square (Marktplatz)**: A vibrant hub of activity where visitors can find local produce, crafts, and seasonal markets, all while enjoying the bustling atmosphere of the town.
+5. **Esslingen's Market Square (Marktplatz)**: A vibrant hub of activity where visitors can find local produce, crafts, and seasonal markets, all while enjoying the bustling atmosphere of the town.
 
 ## Insider Tips
 
 To enhance your experience at the Württembergische Landesbühne Esslingen, here are a few insider tips:
 
-- **Photography**: While photography may be allowed in the lobby and during certain events, it’s best to check with theatre staff regarding specific guidelines during performances.
+- **Photography**: While photography may be allowed in the lobby and during certain events, it's best to check with theatre staff regarding specific guidelines during performances.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider attending a weekday performance or visiting during off-peak seasons when fewer tourists are present.
 
@@ -103,7 +103,7 @@ Guided tours may be available, particularly for groups. Check the official websi
 The best time to visit is during the main theatre season when a diverse range of performances are offered. Special events may also provide unique experiences worth attending.
 
 ### Is it wheelchair accessible?
-Accessibility options are typically available, but it’s best to confirm specific accommodations through the theatre’s official website.
+Accessibility options are typically available, but it's best to confirm specific accommodations through the theatre's official website.
 
 ### Can I buy tickets online?
 Online ticket purchasing options are often available, providing a convenient way to secure your seat in advance.

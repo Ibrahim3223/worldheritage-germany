@@ -34,7 +34,7 @@ Visitors can expect an immersive experience as they navigate through thoughtfull
 
 The establishment of Zoo Osnabrück reflects the evolving attitudes towards wildlife and conservation. While specific historical details are not provided, it is clear that the zoo has developed alongside the city of Osnabrück, which itself has a rich history dating back to medieval times. As urbanization increased, the zoo emerged as a sanctuary for various species, providing a space for both education and recreation.
 
-The zoo plays a critical role in promoting biodiversity awareness and animal welfare. It aligns itself with global conservation efforts, advocating for the protection of endangered species and their habitats. Through educational programs and collaborations with conservation organizations, Zoo Osnabrück strives to inspire visitors about the importance of preserving wildlife for future generations. The zoo’s commitment to research and conservation initiatives underscores its significance not only as a recreational facility but also as a contributor to broader ecological efforts.
+The zoo plays a critical role in promoting biodiversity awareness and animal welfare. It aligns itself with global conservation efforts, advocating for the protection of endangered species and their habitats. Through educational programs and collaborations with conservation organizations, Zoo Osnabrück strives to inspire visitors about the importance of preserving wildlife for future generations. The zoo's commitment to research and conservation initiatives underscores its significance not only as a recreational facility but also as a contributor to broader ecological efforts.
 
 In engaging with the community, the zoo serves as an educational resource, offering insights into the lives of animals, their habitats, and the challenges they face in the wild. This educational component enriches the experience for visitors, fostering a deeper understanding of the interconnectedness of life on Earth.
 
@@ -96,7 +96,7 @@ The best times to visit are during the milder months of spring and autumn, as we
 Yes, Zoo Osnabrück is designed to be accessible for visitors with mobility challenges.
 
 ### Can I buy tickets online?
-Yes, tickets can typically be purchased online, but it’s advisable to check the official website for current options.
+Yes, tickets can typically be purchased online, but it's advisable to check the official website for current options.
 
 ### Are there restrooms and cafes?
 Yes, there are facilities available for restrooms and various dining options within the zoo.

@@ -67,7 +67,7 @@ When visiting Museum Brandmannshof Unterpleichfeld, consider these insider tips 
 
 - **Photography**: If you plan to take photographs, be sure to check the museum's policy on photography, as some exhibits may have restrictions.
 - **Crowd Avoidance**: To avoid larger crowds, aim for a mid-week visit, or arrive early in the day. This will allow you to explore the exhibits at a leisurely pace.
-- **Engage with Staff**: Don’t hesitate to ask museum staff for insights or recommendations regarding exhibits or local history. Their expertise can enhance your understanding and appreciation of what you see.
+- **Engage with Staff**: Don't hesitate to ask museum staff for insights or recommendations regarding exhibits or local history. Their expertise can enhance your understanding and appreciation of what you see.
 
 ## Practical Information
 
@@ -82,7 +82,7 @@ Before heading to Museum Brandmannshof Unterpleichfeld, consider these practical
 A visit typically lasts between one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Check the museum’s official policy regarding photography, as some areas may have restrictions.
+Check the museum's official policy regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.
@@ -91,7 +91,7 @@ Guided tours may be available; check the official website for details on schedul
 Mid-week visits usually provide a quieter experience, while early mornings or late afternoons on weekends can also be less crowded.
 
 ### Is it wheelchair accessible?
-For information on accessibility, please refer to the museum’s official website.
+For information on accessibility, please refer to the museum's official website.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases.

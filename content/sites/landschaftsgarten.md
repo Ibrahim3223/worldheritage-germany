@@ -36,7 +36,7 @@ Landschaftsgarten has a profound cultural significance, reflecting the societal 
 
 The park's role as a cultural heritage monument underscores its importance in the context of Wunsiedel's history and identity. It stands as a reminder of the historical significance of public parks in fostering community engagement, providing spaces for leisure and social activities. As a cultural landmark, Landschaftsgarten contributes to the preservation of local history and serves as an educational resource for those interested in landscape architecture and its evolution over time.
 
-In addition to its historical value, the park holds a special place in the hearts of local residents. It has been a site for various community events, gatherings, and celebrations, further embedding it into the social fabric of Wunsiedel. The park’s enduring appeal lies in its ability to connect people with nature and with each other, reinforcing the importance of green spaces in urban planning and community health.
+In addition to its historical value, the park holds a special place in the hearts of local residents. It has been a site for various community events, gatherings, and celebrations, further embedding it into the social fabric of Wunsiedel. The park's enduring appeal lies in its ability to connect people with nature and with each other, reinforcing the importance of green spaces in urban planning and community health.
 
 ## Architecture and Features
 
@@ -78,7 +78,7 @@ When planning your visit to Landschaftsgarten, consider the following practical 
 
 - **What to Bring**: Comfortable walking shoes are recommended, as the park's pathways can invite long strolls. Additionally, bringing a picnic blanket can enhance your experience, allowing you to relax and enjoy the surroundings.
 - **Seasonal Considerations**: In spring and summer, the park is vibrant with blooming flowers and lush greenery. Autumn offers a different charm with colorful foliage, while winter may present a quieter, serene landscape.
-- **Amenities**: While specific amenities may vary, it’s advisable to check the official website for information on facilities available within the park.
+- **Amenities**: While specific amenities may vary, it's advisable to check the official website for information on facilities available within the park.
 
 ## Frequently Asked Questions
 
@@ -95,7 +95,7 @@ Check the official website for information on any guided tours that may be avail
 The best times to visit are during spring and summer when the park is most vibrant, though autumn can also offer beautiful scenery.
 
 ### Is it wheelchair accessible?
-The park is designed to be accessible, but it’s advisable to check specific pathways and areas for accessibility options.
+The park is designed to be accessible, but it's advisable to check specific pathways and areas for accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any related options.

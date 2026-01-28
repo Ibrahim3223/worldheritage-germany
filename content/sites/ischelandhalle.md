@@ -75,7 +75,7 @@ Seasonal considerations are also important; summer events might see larger crowd
 The duration of your visit can vary based on the event. Generally, you may want to allocate a few hours for a concert or performance, while shorter events may require less time.
 
 ### Is photography allowed?
-Typically, photography is permitted during events, but it’s advisable to check specific event guidelines or restrictions upon arrival.
+Typically, photography is permitted during events, but it's advisable to check specific event guidelines or restrictions upon arrival.
 
 ### Are there guided tours?
 Information about guided tours is not specified; check the official website for any available tour options.

@@ -80,7 +80,7 @@ For those planning to visit the Eckerwald Memorial, here are some insider tips t
 
 ## Practical Information
 
-When visiting the Eckerwald Memorial, it’s recommended to bring a few essential items:
+When visiting the Eckerwald Memorial, it's recommended to bring a few essential items:
 
 - **Comfortable Shoes**: Expect to walk and explore, so wear shoes that are suitable for a variety of terrains.
 

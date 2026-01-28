@@ -30,7 +30,7 @@ The history of Privatsammlung Leo Gesell is intertwined with the vision and dedi
 
 While detailed historical milestones may not be documented, the significance of private museums like this one cannot be understated. They play a crucial role in the cultural landscape, often showcasing works that might not appear in larger public institutions. This focus on individual perspective enriches the understanding of art and its evolution, making it an essential part of the broader heritage narrative.
 
-The museum’s collection likely encompasses various artistic styles and mediums, inviting visitors to explore a range of themes and ideas. This diversity is a vital aspect of its appeal, allowing guests to connect with the art on both intellectual and emotional levels.
+The museum's collection likely encompasses various artistic styles and mediums, inviting visitors to explore a range of themes and ideas. This diversity is a vital aspect of its appeal, allowing guests to connect with the art on both intellectual and emotional levels.
 
 ## Architecture and Features
 

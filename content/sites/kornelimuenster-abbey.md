@@ -34,7 +34,7 @@ The history of Kornelimünster Abbey reflects the broader narrative of monastici
 
 Throughout the centuries, monasteries have been pivotal in preserving knowledge and culture, especially during times of social upheaval. Kornelimünster Abbey, like many others, likely contributed to the local community, offering spiritual guidance and support. The abbey's significance extends beyond its religious function; it represents a continuity of tradition and a commitment to the values of monastic life that have influenced European society.
 
-In modern times, Kornelimünster Abbey continues to be a place of retreat and reflection, drawing visitors who seek solace in its tranquil environment. The abbey’s ongoing commitment to spiritual life makes it a noteworthy destination for those interested in understanding the enduring legacy of monasticism in Germany.
+In modern times, Kornelimünster Abbey continues to be a place of retreat and reflection, drawing visitors who seek solace in its tranquil environment. The abbey's ongoing commitment to spiritual life makes it a noteworthy destination for those interested in understanding the enduring legacy of monasticism in Germany.
 
 ## Architecture and Features
 

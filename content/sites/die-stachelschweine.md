@@ -62,7 +62,7 @@ While visiting Die Stachelschweine, take advantage of the opportunity to explore
 2. **Potsdamer Platz**: A bustling square known for its modern architecture, shops, and entertainment options.
 3. **Brandenburg Gate**: An iconic symbol of Berlin, representing peace and unity.
 4. **The Berlin Wall Memorial**: A poignant site that commemorates the history of the Berlin Wall.
-5. **Tiergarten**: A large urban park offering a peaceful escape from the city’s hustle and bustle.
+5. **Tiergarten**: A large urban park offering a peaceful escape from the city's hustle and bustle.
 
 These nearby attractions provide additional opportunities to delve into Berlin's rich history and culture.
 
@@ -86,7 +86,7 @@ When preparing for your visit to Die Stachelschweine, keep in mind these practic
 Typically, you should plan to spend a few hours at Die Stachelschweine, depending on the performance duration and any pre-show activities.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check with theatre staff regarding specific rules before taking photos during a performance.
+Photography policies can vary; it's best to check with theatre staff regarding specific rules before taking photos during a performance.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website or inquire upon arrival for details.

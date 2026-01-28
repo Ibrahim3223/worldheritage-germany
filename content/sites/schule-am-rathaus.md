@@ -30,7 +30,7 @@ Located in the heart of Lichtenberg, Berlin, Schule am Rathaus is not just a sch
 
 As you explore the surrounding area, you will find that Lichtenberg is an intriguing blend of historical and contemporary influences, making it an ideal backdrop for visitors interested in understanding Berlin's diverse educational history. The significance of Schule am Rathaus extends beyond its function as a school; it symbolizes the commitment to fostering academic excellence and community development.
 
-Whether you are a local resident or a traveler seeking insights into Berlin's educational institutions, Schule am Rathaus offers a compelling glimpse into the city’s approach to learning and community engagement.
+Whether you are a local resident or a traveler seeking insights into Berlin's educational institutions, Schule am Rathaus offers a compelling glimpse into the city's approach to learning and community engagement.
 
 ## History and Significance
 

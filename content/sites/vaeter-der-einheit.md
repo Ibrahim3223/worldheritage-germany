@@ -34,7 +34,7 @@ Berlin, with its rich tapestry of history and culture, provides a fitting backdr
 
 The creation of Väter der Einheit highlights the significance of the individuals it depicts—George H. W. Bush, Helmut Kohl, and Mikhail Gorbachev—who were instrumental during a critical period in history. Their leadership helped navigate the complexities of the Cold War, ultimately leading to the peaceful reunification of Germany and the dissolution of the Iron Curtain that divided Europe for decades. 
 
-This monument serves as a cultural artifact that acknowledges the collaborative efforts of these leaders in promoting dialogue over conflict. It stands in stark contrast to the division that once characterized Berlin, and by extension, Europe. The choice to honor these three figures together emphasizes the importance of international cooperation and the role of diplomacy in conflict resolution. The busts themselves, rendered with a focus on realism, invite viewers to engage with the historical figures they represent, creating a connection between the past and today’s global political landscape.
+This monument serves as a cultural artifact that acknowledges the collaborative efforts of these leaders in promoting dialogue over conflict. It stands in stark contrast to the division that once characterized Berlin, and by extension, Europe. The choice to honor these three figures together emphasizes the importance of international cooperation and the role of diplomacy in conflict resolution. The busts themselves, rendered with a focus on realism, invite viewers to engage with the historical figures they represent, creating a connection between the past and today's global political landscape.
 
 The monument also reflects broader themes related to the importance of leadership in times of crisis and the potential for change through peaceful means. Visitors can appreciate not only the artistic merit of Mangin's work but also the deeper messages it conveys about unity, understanding, and the power of collaboration among nations.
 
@@ -76,7 +76,7 @@ To avoid larger crowds, try visiting during weekdays or early in the morning. Th
 
 ## Practical Information
 
-When planning your visit to Väter der Einheit, it’s advisable to bring along a few essentials: comfortable walking shoes, a camera for capturing the monument, and perhaps a notebook for jotting down thoughts or reflections inspired by the site. 
+When planning your visit to Väter der Einheit, it's advisable to bring along a few essentials: comfortable walking shoes, a camera for capturing the monument, and perhaps a notebook for jotting down thoughts or reflections inspired by the site. 
 
 Consider seasonal factors when planning your visit. Spring and early autumn often offer milder weather conducive to outdoor exploration, while summer may bring larger crowds. In winter, the monument remains accessible but be prepared for colder temperatures.
 

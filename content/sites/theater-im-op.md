@@ -68,13 +68,13 @@ To make the most of your visit, consider the best times to attend. Community the
 
 While visiting the Theater im OP, there are several nearby attractions that you might consider exploring to enhance your cultural experience in Göttingen:
 
-1. **Gänseliesel Fountain**: This iconic fountain is a symbol of Göttingen and features a statue of a young girl with geese. It’s a popular meeting point and a great spot for photographs.
+1. **Gänseliesel Fountain**: This iconic fountain is a symbol of Göttingen and features a statue of a young girl with geese. It's a popular meeting point and a great spot for photographs.
 
-2. **St. Jacob's Church (Jakobskirche)**: A short walk from the theater, this historic church is known for its stunning architecture and beautiful stained glass windows. It’s an excellent place to appreciate the city’s religious heritage.
+2. **St. Jacob's Church (Jakobskirche)**: A short walk from the theater, this historic church is known for its stunning architecture and beautiful stained glass windows. It's an excellent place to appreciate the city's religious heritage.
 
 3. **Göttingen University**: As one of Germany's oldest universities, the campus is worth a stroll. You can admire the historic buildings and enjoy the vibrant student atmosphere that permeates the area.
 
-4. **Botanical Garden**: Located nearby, the university's botanical garden features a diverse collection of plants and serene pathways. It’s a perfect place for a peaceful walk before or after a theater performance.
+4. **Botanical Garden**: Located nearby, the university's botanical garden features a diverse collection of plants and serene pathways. It's a perfect place for a peaceful walk before or after a theater performance.
 
 5. **Alte Aula (Old Auditorium)**: This historic building is part of the university and offers guided tours that provide insight into its architectural significance and historical importance.
 
@@ -84,7 +84,7 @@ These attractions complement your visit to the Theater im OP, allowing you to im
 
 To enhance your experience at the Theater im OP, consider the following insider tips:
 
-- **Photography**: While photography may be allowed during performances, it’s advisable to check the theater’s policy beforehand. Capturing moments before or after the show can provide memorable keepsakes.
+- **Photography**: While photography may be allowed during performances, it's advisable to check the theater's policy beforehand. Capturing moments before or after the show can provide memorable keepsakes.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try attending performances on weekdays or during off-peak times. This can lead to a more intimate atmosphere, allowing for a closer connection to the performance.
 
@@ -98,7 +98,7 @@ When preparing for your visit to the Theater im OP, consider bringing the follow
 
 - **Comfortable Clothing**: Dress comfortably, as you may be seated for an extended period. Consider the weather, especially if you plan to explore the nearby area before or after the performance.
 
-- **Cash/Card for Refreshments**: Depending on the theater’s offerings, you might want to purchase refreshments during your visit. Check the official website for information regarding available concessions.
+- **Cash/Card for Refreshments**: Depending on the theater's offerings, you might want to purchase refreshments during your visit. Check the official website for information regarding available concessions.
 
 - **Seasonal Considerations**: If you are visiting during the colder months, be sure to dress warmly, as temperatures in Göttingen can drop. Conversely, during warmer seasons, lightweight clothing may be more comfortable.
 
@@ -110,7 +110,7 @@ Overall, being prepared can significantly enhance your enjoyment of the performa
 While the duration of your visit will depend on the specific performance, plan to spend around 2 to 3 hours at the theater, including time for the show and any pre- or post-performance activities.
 
 ### Is photography allowed?
-Photography policies may vary by performance. It’s best to check with the theater directly or consult the official website for specific guidelines regarding photography.
+Photography policies may vary by performance. It's best to check with the theater directly or consult the official website for specific guidelines regarding photography.
 
 ### Are there guided tours?
 Currently, specific information about guided tours at the Theater im OP may not be available. Check the official website for any updates or special events that may include tours.

@@ -64,7 +64,7 @@ The best times to visit the Fernmeldeturm are typically during daylight hours wh
 
 4. **Nearby Natural Parks**: Exploring the natural surroundings, including parks and green spaces, can provide a refreshing contrast to the urban environment of the tower.
 
-5. **Historic Town Walls**: The remnants of Pasewalk’s medieval walls are a testament to its historical significance, inviting exploration and reflection on the town’s past.
+5. **Historic Town Walls**: The remnants of Pasewalk's medieval walls are a testament to its historical significance, inviting exploration and reflection on the town's past.
 
 ## Insider Tips
 
@@ -84,7 +84,7 @@ Seasonal considerations may also play a role in your visit. If you're heading to
 A visit to the Fernmeldeturm Pasewalk typically takes around one hour, allowing time to explore the tower and the surrounding area.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to check for any specific regulations regarding the tower and its premises.
+Photography is generally allowed, but it's best to check for any specific regulations regarding the tower and its premises.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website for the most current offerings and availability.
@@ -99,7 +99,7 @@ Accessibility information is not specified; check the official website for detai
 Details about ticket purchasing should be confirmed through the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
-Information regarding restrooms and cafes is not provided; it’s advisable to check local amenities in Pasewalk.
+Information regarding restrooms and cafes is not provided; it's advisable to check local amenities in Pasewalk.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to spend time outdoors. 

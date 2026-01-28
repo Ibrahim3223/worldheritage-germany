@@ -75,7 +75,7 @@ To make the most of your visit to Burg Fronhofen, consider these insider tips:
 - **Photography**: The castle's architecture and surrounding landscape provide excellent opportunities for photography. Early morning or late afternoon light can create stunning images, so plan your visit accordingly.
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or outside of the peak tourist seasons. This can enhance your exploration and provide a more intimate atmosphere as you navigate the castle grounds.
 
-Engaging with local guides or informational pamphlets can also enrich your understanding of the castle’s history and significance, turning your visit into an educational experience.
+Engaging with local guides or informational pamphlets can also enrich your understanding of the castle's history and significance, turning your visit into an educational experience.
 
 ## Practical Information
 
@@ -89,7 +89,7 @@ Understanding these practical aspects can help ensure a pleasant and memorable v
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Most visitors typically spend between one to two hours at Burg Fronhofen, allowing you to explore and appreciate the castle’s features.
+Most visitors typically spend between one to two hours at Burg Fronhofen, allowing you to explore and appreciate the castle's features.
 
 ### Is photography allowed?
 Photography is generally permitted, so feel free to capture the beauty of the castle and its surroundings.

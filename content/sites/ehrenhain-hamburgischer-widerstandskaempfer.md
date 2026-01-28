@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Hamburg-Nord, the Ehrenhain Hamburgischer Widerstandskämpfer serves as a solemn memorial dedicated to the courageous individuals who resisted Nazi oppression. This site is not merely a collection of graves; it is a poignant reminder of the sacrifices made by those who fought for justice and human rights during one of history's darkest periods. The memorial is located within the expansive Ohlsdorf Cemetery, one of the largest rural cemeteries in the world, offering visitors a serene backdrop for reflection and remembrance.
 
-As you walk through the memorial, the weight of history is palpable. This site honors the legacy of resistance fighters whose actions were crucial in the struggle against tyranny. The memorial invites visitors to not only pay their respects but also to contemplate the broader implications of courage in the face of oppression. It is a place that draws both locals and travelers seeking to understand the complexities of Germany’s past while honoring those who stood up against injustice.
+As you walk through the memorial, the weight of history is palpable. This site honors the legacy of resistance fighters whose actions were crucial in the struggle against tyranny. The memorial invites visitors to not only pay their respects but also to contemplate the broader implications of courage in the face of oppression. It is a place that draws both locals and travelers seeking to understand the complexities of Germany's past while honoring those who stood up against injustice.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Ehrenhain Hamburgischer Widerstandskämpfer, or the Memorial to Hamburg Resi
 
 During the Nazi regime, many individuals and groups engaged in acts of defiance, ranging from clandestine publications to organized resistance movements. This memorial specifically acknowledges those from Hamburg who were involved in such activities. Their contributions are crucial to understanding the broader narrative of resistance in Germany, illustrating that the fight against oppression was not limited to those in power but included ordinary citizens who dared to act.
 
-The establishment of this memorial reflects a growing recognition of the importance of preserving the memory of these resistance fighters. As Germany continues to grapple with its historical legacy, sites like this serve as vital reminders of the need for vigilance in safeguarding democracy and human rights. The Ehrenhain Hamburgischer Widerstandskämpfer encourages visitors to reflect on the lessons learned from the past and to consider their relevance in today’s world.
+The establishment of this memorial reflects a growing recognition of the importance of preserving the memory of these resistance fighters. As Germany continues to grapple with its historical legacy, sites like this serve as vital reminders of the need for vigilance in safeguarding democracy and human rights. The Ehrenhain Hamburgischer Widerstandskämpfer encourages visitors to reflect on the lessons learned from the past and to consider their relevance in today's world.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The Ehrenhain Hamburgischer Widerstandskämpfer is characterized by its solemnit
 
 Visitors will find a series of grave markers and plaques that honor the individuals who made significant sacrifices in their fight against oppression. The layout promotes a sense of contemplation, inviting visitors to wander among the stones, each one representing a life dedicated to the cause of freedom. The natural beauty of the cemetery complements the memorial, creating a tranquil environment conducive to reflection.
 
-The memorial’s design is intentionally understated, allowing the focus to remain on the individuals it commemorates. This choice emphasizes the gravity of their actions rather than the aesthetics of the site. It serves as a stark reminder that the fight against tyranny often comes at a great cost, and it is essential to honor and remember those who have stood against it.
+The memorial's design is intentionally understated, allowing the focus to remain on the individuals it commemorates. This choice emphasizes the gravity of their actions rather than the aesthetics of the site. It serves as a stark reminder that the fight against tyranny often comes at a great cost, and it is essential to honor and remember those who have stood against it.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ The best times to visit are typically during the spring and autumn months when t
 
 For those planning to visit the Ehrenhain Hamburgischer Widerstandskämpfer, consider bringing a camera to capture the poignant atmosphere of the memorial. However, be mindful of the somber nature of the site and approach photography with respect. 
 
-To avoid crowds, visiting early in the morning or during weekdays is recommended. This allows for a more personal experience when reflecting on the memorial’s significance. Additionally, taking time to explore Ohlsdorf Cemetery will enrich your understanding of the area, as many of its graves tell stories of notable figures from Hamburg's past.
+To avoid crowds, visiting early in the morning or during weekdays is recommended. This allows for a more personal experience when reflecting on the memorial's significance. Additionally, taking time to explore Ohlsdorf Cemetery will enrich your understanding of the area, as many of its graves tell stories of notable figures from Hamburg's past.
 
 ## Practical Information
 

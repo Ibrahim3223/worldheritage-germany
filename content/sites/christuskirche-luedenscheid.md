@@ -34,7 +34,7 @@ Whether one is seeking spiritual solace or simply an architectural marvel, Chris
 
 ## History and Significance
 
-Christuskirche holds a prominent place in Lüdenscheid’s history, embodying various aspects of the region's cultural evolution. While specific historical dates may not be detailed, the church has served the local population through various societal changes, acting as a pillar for the community during moments of both celebration and challenge.
+Christuskirche holds a prominent place in Lüdenscheid's history, embodying various aspects of the region's cultural evolution. While specific historical dates may not be detailed, the church has served the local population through various societal changes, acting as a pillar for the community during moments of both celebration and challenge.
 
 The church's establishment reflects the religious sentiments of its time, contributing to the spiritual life of the community. As a church building, Christuskirche not only provides a venue for worship but also plays a role in community events, celebrations, and gatherings. This multifaceted significance underscores the church's importance as a center for social cohesion and religious practice.
 
@@ -89,7 +89,7 @@ Seasonal considerations may affect your visit; check local weather forecasts to 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A typical visit may last around one hour, allowing time to explore the church’s interior and reflect on its significance.
+A typical visit may last around one hour, allowing time to explore the church's interior and reflect on its significance.
 
 ### Is photography allowed?
 Photography is generally permitted, but be respectful of worshippers and the sacred nature of the space.

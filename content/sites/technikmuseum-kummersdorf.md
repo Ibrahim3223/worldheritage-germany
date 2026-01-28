@@ -28,7 +28,7 @@ The Technikmuseum Kummersdorf has a storied past that reflects the broader techn
 
 The museum's collections included various artifacts that illustrated the development of machinery, vehicles, and communication devices, among others. Such exhibits served to educate the public on the crucial role that technology plays in everyday life and its historical context. The museum also contributed to preserving the legacy of numerous inventors and engineers who have influenced the field.
 
-In the context of German heritage, Technikmuseum Kummersdorf played a part in fostering awareness of the country’s industrial achievements. As technology continues to advance, understanding its historical roots becomes increasingly important. Visitors to this site could appreciate not only the technological marvels but also the cultural narrative that accompanies them.
+In the context of German heritage, Technikmuseum Kummersdorf played a part in fostering awareness of the country's industrial achievements. As technology continues to advance, understanding its historical roots becomes increasingly important. Visitors to this site could appreciate not only the technological marvels but also the cultural narrative that accompanies them.
 
 ## Architecture and Features
 

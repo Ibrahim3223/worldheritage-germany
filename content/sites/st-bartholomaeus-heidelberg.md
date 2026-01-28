@@ -28,13 +28,13 @@ image_srcset:
 
 St. Bartholomäus in Heidelberg is more than just a place of worship; it is a significant landmark that reflects the region's rich cultural heritage. Located in the picturesque city of Heidelberg, which is celebrated for its historic university and charming old town, this church building serves as a focal point for both locals and visitors alike. With its striking architecture and serene atmosphere, St. Bartholomäus invites exploration and contemplation, making it an essential stop for anyone interested in the historical narrative of this vibrant city.
 
-As you approach St. Bartholomäus, the tranquil setting enhances the experience, allowing visitors to appreciate the church's role within the local community. The church not only serves religious functions but also stands as a symbol of the city’s enduring spirit. Whether you are drawn to its architectural beauty, its spiritual significance, or simply the peaceful ambiance, St. Bartholomäus offers a unique perspective on Heidelberg’s past and present.
+As you approach St. Bartholomäus, the tranquil setting enhances the experience, allowing visitors to appreciate the church's role within the local community. The church not only serves religious functions but also stands as a symbol of the city's enduring spirit. Whether you are drawn to its architectural beauty, its spiritual significance, or simply the peaceful ambiance, St. Bartholomäus offers a unique perspective on Heidelberg's past and present.
 
 ## History and Significance
 
-St. Bartholomäus is a church building with deep roots in the cultural and spiritual life of Heidelberg. Its origins reflect the city’s evolving narrative, marked by significant historical events and the development of the surrounding area. While specific dates and details about its founding remain elusive, it is clear that the church has been an integral part of community life for centuries. 
+St. Bartholomäus is a church building with deep roots in the cultural and spiritual life of Heidelberg. Its origins reflect the city's evolving narrative, marked by significant historical events and the development of the surrounding area. While specific dates and details about its founding remain elusive, it is clear that the church has been an integral part of community life for centuries. 
 
-The church’s significance extends beyond its religious functions; it has played a vital role in various cultural and social activities. Throughout its history, St. Bartholomäus has witnessed many changes, including periods of reconstruction and adaptation to the needs of its congregation. This adaptability highlights the resilience of the church, mirroring the broader history of Heidelberg itself, which has seen both turmoil and renewal.
+The church's significance extends beyond its religious functions; it has played a vital role in various cultural and social activities. Throughout its history, St. Bartholomäus has witnessed many changes, including periods of reconstruction and adaptation to the needs of its congregation. This adaptability highlights the resilience of the church, mirroring the broader history of Heidelberg itself, which has seen both turmoil and renewal.
 
 Visitors to St. Bartholomäus can appreciate not only its architectural features but also the stories it holds within its walls. Each element of the church contributes to its identity, making it a valuable site for understanding the interplay of religion, culture, and community in Heidelberg. The church continues to be a gathering place for local events, reinforcing its role in the social fabric of the city.
 
@@ -44,7 +44,7 @@ St. Bartholomäus is characterized by its distinctive architectural style, which
 
 Inside, the church offers a serene atmosphere, with a layout that facilitates both worship and quiet reflection. The interior space is thoughtfully arranged, featuring elements that enhance the spiritual experience of visitors. The use of light, through stained glass windows or other features, plays a significant role in creating a peaceful ambiance, inviting contemplation.
 
-Notably, the church's design may incorporate elements that are characteristic of the region’s architectural heritage, showcasing local craftsmanship and artistic traditions. Visitors can take their time to explore these features, appreciating the artistry and the historical context that informs the church’s design.
+Notably, the church's design may incorporate elements that are characteristic of the region's architectural heritage, showcasing local craftsmanship and artistic traditions. Visitors can take their time to explore these features, appreciating the artistry and the historical context that informs the church's design.
 
 ## Visiting Information
 

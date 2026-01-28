@@ -32,7 +32,7 @@ While Thierberg may not have the extensive historical narratives of some heritag
 
 ## History and Significance
 
-Thierberg’s historical narrative may not be well-documented in terms of specific events or timelines, but its cultural importance in the local context is noteworthy. Mountains often serve as symbols of resilience, inspiration, and natural beauty. In many cultures, including that of Germany, mountains are revered not only for their physical stature but also for the spiritual and recreational opportunities they provide.
+Thierberg's historical narrative may not be well-documented in terms of specific events or timelines, but its cultural importance in the local context is noteworthy. Mountains often serve as symbols of resilience, inspiration, and natural beauty. In many cultures, including that of Germany, mountains are revered not only for their physical stature but also for the spiritual and recreational opportunities they provide.
 
 The Vogtlandkreis region, where Thierberg is located, is known for its rich traditions and diverse cultural heritage. The area surrounding the mountain has been influenced by various communities over the years, each contributing to the local customs and practices. As a result, Thierberg stands as a significant landmark that links visitors to the natural and cultural heritage of the region.
 

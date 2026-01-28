@@ -95,7 +95,7 @@ For specific accessibility options, consult the official website or contact the 
 Check the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities, including restrooms and dining options, may be available on-site; check the museum’s website for details.
+Facilities, including restrooms and dining options, may be available on-site; check the museum's website for details.
 
 ### What should I wear?
 Dress comfortably, with consideration for the weather and the amount of walking you may do during your visit.

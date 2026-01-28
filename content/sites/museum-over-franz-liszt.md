@@ -34,7 +34,7 @@ The museum's significance extends beyond its walls, reflecting the cultural and 
 
 Franz Liszt was born in 1811 in Hungary and later moved to Vienna, where he began his musical education. He became a prominent figure in the musical circles of Europe, known for his virtuosic piano performances and innovative compositions. Throughout his life, Liszt was deeply involved in the cultural movements of his time, often collaborating with other influential artists and composers.
 
-The museum dedicated to Liszt in Weimar captures this dynamic intersection of music and culture. Weimar was not only a home to Liszt but also a center for various artistic movements, including those led by Goethe and Schiller. The city's vibrant intellectual environment played a significant role in shaping Liszt's artistic vision. By establishing a museum in Weimar, the significance of Liszt’s contributions is preserved and celebrated, allowing visitors to appreciate the depth of his influence on classical music.
+The museum dedicated to Liszt in Weimar captures this dynamic intersection of music and culture. Weimar was not only a home to Liszt but also a center for various artistic movements, including those led by Goethe and Schiller. The city's vibrant intellectual environment played a significant role in shaping Liszt's artistic vision. By establishing a museum in Weimar, the significance of Liszt's contributions is preserved and celebrated, allowing visitors to appreciate the depth of his influence on classical music.
 
 Liszt's innovative approach to piano music and his development of the symphonic poem have left an indelible mark on the evolution of Western music. This museum serves as a repository for his manuscripts, personal letters, and other artifacts that tell the story of his life. Exhibits within the museum provide context for his work, illustrating how his compositions and performances resonated with audiences across Europe.
 
@@ -42,11 +42,11 @@ The museum not only honors Liszt's musical legacy but also emphasizes the broade
 
 ## Architecture and Features
 
-The museum over Franz Liszt is housed in a building that reflects the architectural style of its era, blending seamlessly with the aesthetic character of Weimar. The structure itself serves as a canvas for the rich history encapsulated within. Visitors will find that the layout of the museum allows for a coherent flow between different exhibits, facilitating an engaging exploration of Liszt’s life and work.
+The museum over Franz Liszt is housed in a building that reflects the architectural style of its era, blending seamlessly with the aesthetic character of Weimar. The structure itself serves as a canvas for the rich history encapsulated within. Visitors will find that the layout of the museum allows for a coherent flow between different exhibits, facilitating an engaging exploration of Liszt's life and work.
 
 Inside, the museum features a range of displays that include photographs, original manuscripts, and personal items belonging to Liszt. These artifacts provide insight into his creative process and personal life. The arrangement of the exhibits is designed to enhance the visitor experience, guiding them through the significant phases of Liszt's career. 
 
-Notable features of the museum include interactive installations that allow visitors to engage with Liszt's music in new ways. These elements are designed to attract not only traditional music enthusiasts but also younger audiences who may be discovering his work for the first time. The museum also frequently hosts concerts and events that celebrate Liszt’s music, further contributing to its vibrant atmosphere.
+Notable features of the museum include interactive installations that allow visitors to engage with Liszt's music in new ways. These elements are designed to attract not only traditional music enthusiasts but also younger audiences who may be discovering his work for the first time. The museum also frequently hosts concerts and events that celebrate Liszt's music, further contributing to its vibrant atmosphere.
 
 The overall design of the museum creates a contemplative environment, inviting visitors to reflect on the profound impact that Liszt has had on the world of music.
 
@@ -82,7 +82,7 @@ If you're keen on attending a concert or event hosted at the museum, it's wise t
 
 ## Practical Information
 
-When visiting the museum, it’s advisable to bring a water bottle and wear comfortable shoes, as exploring the exhibits may involve some walking. Seasonal considerations can also play a role in planning your visit; the museum may host special events during holidays or festivals, which can enhance your experience.
+When visiting the museum, it's advisable to bring a water bottle and wear comfortable shoes, as exploring the exhibits may involve some walking. Seasonal considerations can also play a role in planning your visit; the museum may host special events during holidays or festivals, which can enhance your experience.
 
 In colder months, dressing in layers is recommended, as museum interiors can vary in temperature. Always check the official website for any specific guidelines related to your visit, including any changes in opening hours or health and safety protocols.
 

@@ -105,13 +105,13 @@ Information about guided tours may be available through local tourism services. 
 The ideal times to visit Rinkenwall are during the spring and autumn months, when weather conditions are mild and the landscape is particularly scenic.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary; it’s best to check the official website for current information regarding wheelchair access at Rinkenwall.
+Accessibility details can vary; it's best to check the official website for current information regarding wheelchair access at Rinkenwall.
 
 ### Can I buy tickets online?
 Check the official website for information about ticket purchases and availability for your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at Rinkenwall. It’s advisable to plan accordingly and check the official website for any updates regarding amenities.
+Facilities may be limited at Rinkenwall. It's advisable to plan accordingly and check the official website for any updates regarding amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy walking shoes are recommended, as the terrain may vary. Dressing in layers is advisable to accommodate changing weather conditions.

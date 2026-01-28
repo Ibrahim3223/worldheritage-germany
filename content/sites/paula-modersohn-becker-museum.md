@@ -46,7 +46,7 @@ The Paula Modersohn-Becker Museum features a contemporary architectural design t
 
 Notable features of the museum include ample natural light that enhances the colors of the paintings, creating a dynamic viewing experience. The layout encourages contemplation, with spaces designed for quiet reflection alongside more vibrant, interactive areas. The museum may also include areas for temporary exhibitions, workshops, and educational programs, reinforcing its role as a community hub for art and culture.
 
-In addition to the art on display, the museum’s design integrates elements that pay homage to Modersohn-Becker's life and work, making it not just a space for art, but also a place for storytelling and inspiration.
+In addition to the art on display, the museum's design integrates elements that pay homage to Modersohn-Becker's life and work, making it not just a space for art, but also a place for storytelling and inspiration.
 
 ## Visiting Information
 
@@ -78,15 +78,15 @@ To make the most of your visit to the Paula Modersohn-Becker Museum, consider th
 
 - **Crowd Avoidance**: For a quieter experience, try visiting during off-peak hours, such as mid-morning on weekdays. 
 
-- **Engage with Staff**: The museum staff are knowledgeable and can provide insights into the exhibits and Modersohn-Becker's work. Don’t hesitate to ask questions!
+- **Engage with Staff**: The museum staff are knowledgeable and can provide insights into the exhibits and Modersohn-Becker's work. Don't hesitate to ask questions!
 
 ## Practical Information
 
 When planning your visit to the Paula Modersohn-Becker Museum, consider bringing a few essentials:
 
-- **Comfortable Shoes**: You’ll likely spend a good amount of time walking through the galleries and nearby attractions.
+- **Comfortable Shoes**: You'll likely spend a good amount of time walking through the galleries and nearby attractions.
 
-- **Notebook or Sketchbook**: If you’re inspired by the art, you might want to jot down thoughts or sketch your favorite pieces.
+- **Notebook or Sketchbook**: If you're inspired by the art, you might want to jot down thoughts or sketch your favorite pieces.
 
 - **Seasonal Considerations**: Check the weather forecast before your visit, as Bremen can experience varying conditions throughout the year. Dress appropriately for the season.
 

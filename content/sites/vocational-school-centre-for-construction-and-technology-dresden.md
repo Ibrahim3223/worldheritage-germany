@@ -30,7 +30,7 @@ The Vocational School Centre for Construction and Technology Dresden is an integ
 
 Dresden itself is known for its historical significance, marked by a blend of Baroque architecture and modern reconstruction following World War II. The school represents a commitment to vocational education, reflecting the city's dedication to fostering skilled trades and craftsmanship. With its strategic location in the heart of Dresden, it serves not only students from the local region but also those from across Germany, creating a diverse learning environment.
 
-Visitors to the Vocational School Centre can expect to gain insights into the educational methodologies employed in vocational training, explore innovative teaching practices, and appreciate the importance of technical skills in today’s economy. Whether you are a prospective student, an educational professional, or simply interested in vocational education, this site offers a unique perspective on the intersection of learning and practical application.
+Visitors to the Vocational School Centre can expect to gain insights into the educational methodologies employed in vocational training, explore innovative teaching practices, and appreciate the importance of technical skills in today's economy. Whether you are a prospective student, an educational professional, or simply interested in vocational education, this site offers a unique perspective on the intersection of learning and practical application.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ Dresden is home to a multitude of attractions that can complement a visit to the
 
 4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade along the Elbe River offers beautiful views and a relaxing atmosphere.
 
-5. **Dresden Castle**: One of the oldest buildings in Dresden, this castle features an array of museums and historical artifacts, highlighting the city’s royal past.
+5. **Dresden Castle**: One of the oldest buildings in Dresden, this castle features an array of museums and historical artifacts, highlighting the city's royal past.
 
 Each of these attractions provides a unique glimpse into the history and culture of Dresden, making them worthwhile additions to your itinerary.
 
@@ -82,7 +82,7 @@ Each of these attractions provides a unique glimpse into the history and culture
 
 When visiting the Vocational School Centre for Construction and Technology Dresden, consider the following tips:
 
-- **Photography**: While exploring the campus, be mindful of any restrictions on photography, especially in workshop areas. It’s always best to ask for permission if you’re uncertain.
+- **Photography**: While exploring the campus, be mindful of any restrictions on photography, especially in workshop areas. It's always best to ask for permission if you're uncertain.
 
 - **Crowd Avoidance**: To experience the school in a more relaxed atmosphere, consider visiting during weekdays rather than weekends, when educational activities are typically in full swing. 
 
@@ -104,16 +104,16 @@ Before heading to the Vocational School Centre for Construction and Technology D
 A visit typically requires a couple of hours, depending on your interest level and the availability of tours or events.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to inquire upon arrival or look for signage indicating restrictions.
+Photography policies may vary, so it's advisable to inquire upon arrival or look for signage indicating restrictions.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may be available during specific times or events.
 
 ### What's the best time to visit?
-Weekdays during academic terms are generally the best times to experience the school’s vibrant educational atmosphere.
+Weekdays during academic terms are generally the best times to experience the school's vibrant educational atmosphere.
 
 ### Is it wheelchair accessible?
-For details on accessibility, it’s recommended to consult the official website or contact the school directly.
+For details on accessibility, it's recommended to consult the official website or contact the school directly.
 
 ### Can I buy tickets online?
 Check the official website for information on ticketing, especially if there are specific events or open houses.

@@ -28,7 +28,7 @@ image_srcset:
 
 Al-Quds Mosque in Hamburg represents a significant chapter in the narrative of Islamic architecture and community in Germany. As a former mosque, it stands as an important symbol of the cultural diversity that characterizes Hamburg, the second-largest city in Germany. Situated in the heart of this vibrant metropolis, Al-Quds Mosque has been a focal point for the local Muslim community, serving as a place of worship, gathering, and cultural exchange.
 
-The mosque’s architectural presence is complemented by its location, which offers visitors a glimpse into the multicultural fabric of Hamburg. The significance of Al-Quds Mosque extends beyond its physical structure; it embodies the values of inclusivity and dialogue among different cultures and religions in a city known for its maritime heritage and historical connections to trade and migration.
+The mosque's architectural presence is complemented by its location, which offers visitors a glimpse into the multicultural fabric of Hamburg. The significance of Al-Quds Mosque extends beyond its physical structure; it embodies the values of inclusivity and dialogue among different cultures and religions in a city known for its maritime heritage and historical connections to trade and migration.
 
 For those seeking to enrich their understanding of Hamburg's diverse heritage, a visit to Al-Quds Mosque provides an opportunity to appreciate the Islamic architectural style and the community it represents. Visitors can expect to learn about the mosque's historical context and its role in fostering a sense of belonging among Muslims in the region.
 
@@ -76,7 +76,7 @@ These attractions provide a well-rounded experience of Hamburg's diverse heritag
 
 ## Insider Tips
 
-For photography enthusiasts, capturing the beauty of Al-Quds Mosque can be rewarding. However, it’s important to be respectful of the space and the people within it. Taking photos outside the mosque is typically welcomed, but be mindful of any restrictions regarding interior photography.
+For photography enthusiasts, capturing the beauty of Al-Quds Mosque can be rewarding. However, it's important to be respectful of the space and the people within it. Taking photos outside the mosque is typically welcomed, but be mindful of any restrictions regarding interior photography.
 
 To avoid larger crowds, consider visiting during weekdays or early in the morning. This not only enhances the experience but also allows for a more intimate connection with the space and its significance.
 

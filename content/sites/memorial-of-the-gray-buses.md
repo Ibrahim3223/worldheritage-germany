@@ -30,7 +30,7 @@ The Memorial of the Gray Buses stands as a poignant monument in Ravensburg, Germ
 
 Situated in a region rich with historical significance, the memorial draws visitors who seek to understand the impact of the Holocaust and the importance of preserving memory in the face of adversity. The monument is an essential stop for anyone interested in the profound lessons of history, offering a space for contemplation and learning. 
 
-As visitors approach this meaningful site, they are met with an atmosphere that encourages respect and reflection, making it an essential stop for those wishing to connect with Germany's complex past. The Memorial of the Gray Buses stands as a vital component of Ravensburg’s historical landscape, inviting all to engage in the important work of remembrance.
+As visitors approach this meaningful site, they are met with an atmosphere that encourages respect and reflection, making it an essential stop for those wishing to connect with Germany's complex past. The Memorial of the Gray Buses stands as a vital component of Ravensburg's historical landscape, inviting all to engage in the important work of remembrance.
 
 ## History and Significance
 
@@ -84,7 +84,7 @@ When visiting the Memorial of the Gray Buses, consider these tips to enhance you
 
 As you prepare for your visit to the Memorial of the Gray Buses, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are recommended as you may want to explore the surrounding area. It’s also a good idea to carry a bottle of water and perhaps a small notebook for personal reflections.
+- **What to Bring**: Comfortable walking shoes are recommended as you may want to explore the surrounding area. It's also a good idea to carry a bottle of water and perhaps a small notebook for personal reflections.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather. The memorial is an outdoor site, so be prepared for rain or sun based on the season of your visit.
 
@@ -109,7 +109,7 @@ While specific accessibility details are not provided, it is advisable to check 
 Check the official website for ticket purchasing options and any associated fees.
 
 ### Are there restrooms and cafes?
-Information regarding amenities may be limited, so it’s best to check the official site or local resources for details.
+Information regarding amenities may be limited, so it's best to check the official site or local resources for details.
 
 ### What should I wear?
 Dress comfortably and consider the weather, as the memorial is an outdoor site.

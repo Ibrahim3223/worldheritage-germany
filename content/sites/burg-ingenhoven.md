@@ -72,7 +72,7 @@ While exploring Burg Ingenhoven, consider visiting some nearby attractions that 
 
 When visiting Burg Ingenhoven, photography is encouraged, so bring your camera to capture the stunning architecture and serene surroundings. To avoid crowds, consider visiting on weekdays or during off-peak hours, typically in the morning or late afternoon. This will allow for a more peaceful exploration of the castle and its grounds.
 
-If you’re interested in capturing the essence of the castle, explore various angles and perspectives, particularly from the outer walls. The interplay of light and shadow can create striking images, especially during the golden hours of sunrise and sunset.
+If you're interested in capturing the essence of the castle, explore various angles and perspectives, particularly from the outer walls. The interplay of light and shadow can create striking images, especially during the golden hours of sunrise and sunset.
 
 ## Practical Information
 

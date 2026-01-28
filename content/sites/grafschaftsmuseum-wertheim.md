@@ -90,7 +90,7 @@ When preparing for your visit to Grafschaftsmuseum Wertheim, it's advisable to c
 
 - **Comfortable Footwear**: Expect to walk and stand while exploring the exhibits, so wear comfortable shoes.
 
-- **Weather Considerations**: Depending on the season, check the weather forecast and dress accordingly. Whether it’s a sunny day or a cooler season, being prepared will enhance your experience.
+- **Weather Considerations**: Depending on the season, check the weather forecast and dress accordingly. Whether it's a sunny day or a cooler season, being prepared will enhance your experience.
 
 - **Local Currency**: If purchasing souvenirs or snacks, having some local currency can be helpful, though check if card payments are accepted.
 

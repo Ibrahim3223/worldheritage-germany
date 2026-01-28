@@ -95,7 +95,7 @@ Currently, specific information on guided tours is not provided. Check the offic
 Visiting during spring or summer is often ideal due to pleasant weather and vibrant surroundings.
 
 ### Is it wheelchair accessible?
-Details about wheelchair accessibility are not specified. It’s advisable to contact local resources for assistance.
+Details about wheelchair accessibility are not specified. It's advisable to contact local resources for assistance.
 
 ### Can I buy tickets online?
 Check the official website for any information regarding tickets and admission fees.

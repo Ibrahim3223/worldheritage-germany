@@ -50,7 +50,7 @@ The brewery's historical context is further enhanced by the surrounding area, wh
 
 Visitors to Bergschloß-Brauerei Haldensleben can expect an enriching experience as they explore this historical site. Transportation to Haldensleben is accessible via various modes, including personal vehicles and public transport options, making it an easy destination for both locals and tourists.
 
-Check the official website for current information regarding visiting hours and any associated costs. While the brewery itself is no longer operational, there may be exhibitions or events held on-site that provide further context and enjoyment for visitors. A typical visit may last around one to two hours, allowing ample time to absorb the atmosphere and learn about the brewery’s history.
+Check the official website for current information regarding visiting hours and any associated costs. While the brewery itself is no longer operational, there may be exhibitions or events held on-site that provide further context and enjoyment for visitors. A typical visit may last around one to two hours, allowing ample time to absorb the atmosphere and learn about the brewery's history.
 
 For the best experience, consider visiting during weekdays or off-peak hours to avoid crowds. This will allow for a more intimate exploration of the site and a chance to engage with any available informational resources or guides.
 
@@ -78,7 +78,7 @@ To avoid crowds, consider planning your visit during weekdays or during off-peak
 
 When planning your visit to Bergschloß-Brauerei Haldensleben, consider bringing along a camera, comfortable walking shoes, and a water bottle to stay hydrated. Depending on the season, dress appropriately for the weather, as conditions can vary throughout the year.
 
-If you’re visiting during warmer months, you may want to check for any outdoor activities or events that could take place in the vicinity, enhancing your experience of the brewery and its surroundings.
+If you're visiting during warmer months, you may want to check for any outdoor activities or events that could take place in the vicinity, enhancing your experience of the brewery and its surroundings.
 
 ## Frequently Asked Questions
 

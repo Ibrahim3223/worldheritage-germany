@@ -30,7 +30,7 @@ Herrenhaus Großenhof, a distinguished manor house located in the serene region 
 
 Strategically positioned within the picturesque Warnow area, Herrenhaus Großenhof is not only an architectural highlight but also a significant cultural landmark. The manor's historical and architectural merit makes it an essential stop for those looking to understand the local heritage and the evolution of manor houses in the region. It stands as a point of interest for both history enthusiasts and casual travelers alike, promising a rewarding visit filled with discovery.
 
-As you explore Herrenhaus Großenhof, you’ll find the blend of history and architecture creates an inviting atmosphere, perfect for immersing oneself in the local culture. The site invites you to appreciate the craftsmanship of a bygone era while enjoying the peaceful rural setting that surrounds it.
+As you explore Herrenhaus Großenhof, you'll find the blend of history and architecture creates an inviting atmosphere, perfect for immersing oneself in the local culture. The site invites you to appreciate the craftsmanship of a bygone era while enjoying the peaceful rural setting that surrounds it.
 
 ## History and Significance
 
@@ -80,7 +80,7 @@ To avoid crowds, plan your visit on weekdays rather than weekends, as this will 
 
 ## Practical Information
 
-When visiting Herrenhaus Großenhof, it’s advisable to dress comfortably and wear appropriate footwear for walking, especially if you plan to explore the surrounding area. Seasonal considerations are also important; during colder months, dress in layers to ensure comfort against the chill.
+When visiting Herrenhaus Großenhof, it's advisable to dress comfortably and wear appropriate footwear for walking, especially if you plan to explore the surrounding area. Seasonal considerations are also important; during colder months, dress in layers to ensure comfort against the chill.
 
 Pack water and snacks if you plan to spend a good portion of the day exploring, as amenities may be limited in the vicinity. A camera or smartphone is also recommended to capture the unique architectural features and the beautiful landscapes that surround the manor.
 

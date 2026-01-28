@@ -36,9 +36,9 @@ The cultural importance of the Issumer Turm extends beyond its physical attribut
 
 ## Architecture and Features
 
-Architecturally, the Issumer Turm presents a fascinating study in medieval design. As a former residential tower, it is characterized by its robust construction, which combines both functionality and aesthetic appeal. The tower’s design reflects the defensive needs of its time while also accommodating the habitation requirements of its residents.
+Architecturally, the Issumer Turm presents a fascinating study in medieval design. As a former residential tower, it is characterized by its robust construction, which combines both functionality and aesthetic appeal. The tower's design reflects the defensive needs of its time while also accommodating the habitation requirements of its residents.
 
-The structure features traditional elements typical of medieval towers, including thick stone walls and narrow windows designed for both security and light. These features not only serve practical purposes but also contribute to the tower’s imposing presence. Visitors will likely appreciate the craftsmanship that has endured over the years, as well as the details that speak to the architectural trends of its era.
+The structure features traditional elements typical of medieval towers, including thick stone walls and narrow windows designed for both security and light. These features not only serve practical purposes but also contribute to the tower's imposing presence. Visitors will likely appreciate the craftsmanship that has endured over the years, as well as the details that speak to the architectural trends of its era.
 
 While specific dimensions or intricate details are not provided, the general layout of such towers typically includes multiple levels, which may have housed different living quarters or served various functions. The design is likely to evoke a sense of the medieval lifestyle, providing insights into how people lived and interacted within such fortified structures.
 

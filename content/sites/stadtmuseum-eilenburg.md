@@ -70,7 +70,7 @@ While the Stadtmuseum Eilenburg offers a comprehensive look at local history, vi
 
 ## Insider Tips
 
-When visiting the Stadtmuseum Eilenburg, consider bringing a camera to capture the unique exhibits and architecture. However, it’s important to check the museum’s photography policy for any restrictions.
+When visiting the Stadtmuseum Eilenburg, consider bringing a camera to capture the unique exhibits and architecture. However, it's important to check the museum's photography policy for any restrictions.
 
 To avoid crowds, aim for a mid-week visit, particularly in the morning when the museum is typically less busy. This allows for a more personal exploration and an opportunity to engage with staff if you have questions about the exhibits. 
 

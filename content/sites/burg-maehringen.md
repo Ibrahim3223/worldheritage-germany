@@ -58,7 +58,7 @@ Burg Mähringen is situated in a region rich with other historical and cultural 
 
 1. **Mähringen Town Center**: A charming area with traditional architecture, local shops, and cafes, perfect for a leisurely stroll after visiting the castle.
   
-2. **Schloss Hohenberg**: Another castle in the vicinity that offers insight into the region’s feudal past, complete with scenic grounds and historical exhibits.
+2. **Schloss Hohenberg**: Another castle in the vicinity that offers insight into the region's feudal past, complete with scenic grounds and historical exhibits.
 
 3. **Local Museums**: Discover more about the history and culture of Mähringen and surrounding areas through local museums that showcase artifacts and exhibitions relevant to the region.
 

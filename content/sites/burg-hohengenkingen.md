@@ -48,7 +48,7 @@ While more specific details about interior rooms or artworks may not be availabl
 
 ## Visiting Information
 
-Planning a visit to Burg Hohengenkingen is an opportunity to engage with both history and architecture. To reach the castle, travelers can utilize various modes of transportation, including personal vehicles and public transport. The exact logistics may vary, so it’s advisable to check the official website for current information on accessibility and travel options.
+Planning a visit to Burg Hohengenkingen is an opportunity to engage with both history and architecture. To reach the castle, travelers can utilize various modes of transportation, including personal vehicles and public transport. The exact logistics may vary, so it's advisable to check the official website for current information on accessibility and travel options.
 
 Once at the castle, visitors can expect to spend several hours exploring its grounds. The experience is enriched by the ability to wander through the castle's corridors, take in its architectural details, and reflect on the history encapsulated within its walls. For a thorough visit, dedicating a half-day is recommended, allowing ample time to appreciate the site without feeling rushed.
 
@@ -67,7 +67,7 @@ Visitors to Burg Hohengenkingen may also wish to explore other nearby attraction
 
 For those planning to photograph the castle, early morning or late afternoon light can offer the best conditions for capturing its grandeur. Avoiding peak hours can also enhance your experience, allowing for quieter moments to appreciate the site without the distraction of large crowds.
 
-To make the most of your visit, consider taking a guided tour if available, as knowledgeable guides can provide deeper insights into the castle’s history and architecture, enhancing your understanding of the site.
+To make the most of your visit, consider taking a guided tour if available, as knowledgeable guides can provide deeper insights into the castle's history and architecture, enhancing your understanding of the site.
 
 ## Practical Information
 

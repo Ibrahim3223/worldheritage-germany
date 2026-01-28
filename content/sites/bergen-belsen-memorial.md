@@ -80,7 +80,7 @@ Engaging with the educational materials available in the museum can significantl
 
 Visitors to the Bergen-Belsen Memorial should consider bringing a few essential items to enhance their experience. Comfortable walking shoes are recommended, as the grounds require walking. Depending on the season, dressing in layers is wise, as temperatures can vary throughout the day.
 
-It’s also advisable to bring water and snacks, as facilities may be limited. However, check the official website for information on any available amenities, including restrooms and cafes, as these can enhance your visit.
+It's also advisable to bring water and snacks, as facilities may be limited. However, check the official website for information on any available amenities, including restrooms and cafes, as these can enhance your visit.
 
 ## Frequently Asked Questions
 

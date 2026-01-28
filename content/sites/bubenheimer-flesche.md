@@ -62,7 +62,7 @@ Expect to encounter informative displays or guides that enhance your understandi
 
 ## Insider Tips
 
-For the best photographic opportunities, visit Bubenheimer Flesche during golden hour, when the light enhances the textures of the fortification. To avoid crowds, aim for weekdays or early morning visits. Engaging with the site’s guides can provide valuable insights and enhance your experience.
+For the best photographic opportunities, visit Bubenheimer Flesche during golden hour, when the light enhances the textures of the fortification. To avoid crowds, aim for weekdays or early morning visits. Engaging with the site's guides can provide valuable insights and enhance your experience.
 
 ## Practical Information
 

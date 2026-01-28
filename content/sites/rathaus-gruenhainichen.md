@@ -66,7 +66,7 @@ While exploring Grünhainichen, visitors will find several attractions that comp
 
 3. **Historical Exhibits**: Look for local museums or exhibits that showcase the history of Grünhainichen and its surrounding region, providing a deeper understanding of its cultural significance.
 
-4. **Traditional Craft Workshops**: Engage with local artisans who continue to practice traditional crafts, offering visitors a chance to learn about the region’s artisanal heritage.
+4. **Traditional Craft Workshops**: Engage with local artisans who continue to practice traditional crafts, offering visitors a chance to learn about the region's artisanal heritage.
 
 5. **Nearby Towns**: Consider visiting other nearby towns that offer their own unique attractions and cultural experiences, enriching the overall journey through Saxony.
 

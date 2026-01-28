@@ -89,13 +89,13 @@ A visit to Burg Lichtenberg typically takes a few hours, allowing ample time to 
 Yes, photography is generally permitted, making it an excellent opportunity to capture the castle's architectural features.
 
 ### Are there guided tours?
-While specific tour information may not be provided, it’s advisable to check the official website for any guided tour options available during your visit.
+While specific tour information may not be provided, it's advisable to check the official website for any guided tour options available during your visit.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and early autumn months when the weather is mild and the scenery is particularly lovely.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s recommended to check the official website for specific information regarding wheelchair access.
+Accessibility options may vary; it's recommended to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options, including whether online sales are available.

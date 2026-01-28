@@ -44,7 +44,7 @@ Burg Friedland is characterized by its robust castle architecture, which serves 
 
 Visitors can expect to see a variety of architectural elements that may include towers, battlements, and large entryways, all designed to deter potential invaders. The design likely reflects both functionality and the decorative styles of its time, showcasing craftsmanship that speaks to the era's building techniques. 
 
-The castle’s interior may include large halls, living quarters, and perhaps remnants of the original furnishings, offering a glimpse into the daily life of its former inhabitants. While specific features of Burg Friedland are not detailed, castles of this type commonly include communal areas for gatherings and smaller rooms designated for private use. Such spaces often highlight the contrast between the public and private lives of the nobility.
+The castle's interior may include large halls, living quarters, and perhaps remnants of the original furnishings, offering a glimpse into the daily life of its former inhabitants. While specific features of Burg Friedland are not detailed, castles of this type commonly include communal areas for gatherings and smaller rooms designated for private use. Such spaces often highlight the contrast between the public and private lives of the nobility.
 
 Exploring Burg Friedland provides an opportunity to appreciate the engineering prowess of the medieval period, as well as the aesthetic considerations that informed its construction. 
 
@@ -62,7 +62,7 @@ The best times to visit Burg Friedland may align with the milder seasons, when t
 
 While Burg Friedland is a destination in its own right, visitors can enhance their experience by exploring nearby attractions that complement their historical journey:
 
-1. **St. Mary’s Church** - An example of local religious architecture, this church offers insight into the spiritual life of the region through its design and community significance.
+1. **St. Mary's Church** - An example of local religious architecture, this church offers insight into the spiritual life of the region through its design and community significance.
 
 2. **Friedland Museum** - A short distance from the castle, this museum showcases the cultural heritage of the area, featuring exhibits on local history and traditions.
 
@@ -80,7 +80,7 @@ Additionally, engaging with available tour guides can enhance your understanding
 
 ## Practical Information
 
-When visiting Burg Friedland, it’s essential to come prepared. Comfortable walking shoes are advisable, as exploring the castle grounds may involve uneven surfaces or steps. Depending on the season, bringing layers is recommended, as temperatures can vary throughout the day.
+When visiting Burg Friedland, it's essential to come prepared. Comfortable walking shoes are advisable, as exploring the castle grounds may involve uneven surfaces or steps. Depending on the season, bringing layers is recommended, as temperatures can vary throughout the day.
 
 Seasonal considerations are also important; summer may bring higher foot traffic, while winter could present challenges related to weather conditions. Always check the official website for any alerts or recommendations regarding your visit, ensuring that you have the most current information.
 
@@ -96,7 +96,7 @@ Photography is generally permitted, but it is advisable to check for any restric
 
 ### Are there guided tours?
 
-Guided tours may be available, offering deeper insights into the castle’s history and architecture.
+Guided tours may be available, offering deeper insights into the castle's history and architecture.
 
 ### What's the best time to visit?
 

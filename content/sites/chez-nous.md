@@ -20,13 +20,13 @@ images:
 
 ## Overview
 
-Chez Nous is an intriguing theatre building located in the Charlottenburg-Wilmersdorf district of Germany. This venue stands out as a cultural hub in one of Berlin’s most vibrant neighborhoods, where the arts flourish and community spirit thrives. Its location places it at the heart of a region known for its historical significance and artistic contributions to the city. Visitors to Chez Nous can expect a blend of innovative performances and traditional theatre experiences, making it a noteworthy stop for local and international audiences alike. As a significant player in Berlin's theatrical scene, it offers a unique insight into the city’s contemporary cultural landscape.
+Chez Nous is an intriguing theatre building located in the Charlottenburg-Wilmersdorf district of Germany. This venue stands out as a cultural hub in one of Berlin's most vibrant neighborhoods, where the arts flourish and community spirit thrives. Its location places it at the heart of a region known for its historical significance and artistic contributions to the city. Visitors to Chez Nous can expect a blend of innovative performances and traditional theatre experiences, making it a noteworthy stop for local and international audiences alike. As a significant player in Berlin's theatrical scene, it offers a unique insight into the city's contemporary cultural landscape.
 
 ## History and Significance
 
-The history of Chez Nous is woven into the broader narrative of Berlin’s dynamic theatre culture. While specific historical dates may not be available, the venue has played an important role in the artistic community of Charlottenburg-Wilmersdorf. The theatre has served various cultural purposes over the years, accommodating a range of performances from avant-garde productions to classic plays. It has acted as a platform for both emerging and established artists, making significant contributions to the local arts scene.
+The history of Chez Nous is woven into the broader narrative of Berlin's dynamic theatre culture. While specific historical dates may not be available, the venue has played an important role in the artistic community of Charlottenburg-Wilmersdorf. The theatre has served various cultural purposes over the years, accommodating a range of performances from avant-garde productions to classic plays. It has acted as a platform for both emerging and established artists, making significant contributions to the local arts scene.
 
-The significance of Chez Nous extends beyond its performances; it reflects the resilience and adaptability of Berlin’s cultural institutions. Overcoming the challenges posed by the changing socio-political landscape, particularly in the post-war era, the theatre has remained a vital part of community life. It has fostered creative expression and provided a space for dialogue through the performing arts, making it a crucial element in the cultural fabric of the city.
+The significance of Chez Nous extends beyond its performances; it reflects the resilience and adaptability of Berlin's cultural institutions. Overcoming the challenges posed by the changing socio-political landscape, particularly in the post-war era, the theatre has remained a vital part of community life. It has fostered creative expression and provided a space for dialogue through the performing arts, making it a crucial element in the cultural fabric of the city.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ To make the most of your visit to Chez Nous, consider the following tips:
 
 ## Practical Information
 
-When visiting Chez Nous, it’s helpful to keep a few practical considerations in mind:
+When visiting Chez Nous, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable clothing is recommended, as you may be seated for an extended period. Consider bringing a light jacket or sweater, as theatres can sometimes be cool.
 - **Seasonal Considerations**: Check the theatre's schedule for seasonal performances, which may include holiday-themed shows or summer festivals that offer a unique twist to the experience.

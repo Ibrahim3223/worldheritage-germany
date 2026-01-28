@@ -92,7 +92,7 @@ Engaging with the local culture and history can enrich your visit, so consider r
 A visit typically requires at least an hour, but you may wish to spend more time if you engage deeply with the site.
 
 ### Is photography allowed?
-Photography may be allowed, but it’s best to check for any restrictions upon arrival to ensure respect for the space.
+Photography may be allowed, but it's best to check for any restrictions upon arrival to ensure respect for the space.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. Check there for details on any available tours.

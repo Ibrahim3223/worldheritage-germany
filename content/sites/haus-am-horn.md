@@ -28,7 +28,7 @@ image_srcset:
 
 Haus am Horn, an iconic architectural structure located in Weimar, Germany, serves as a significant cultural touchstone that embodies the principles of modern design and the Bauhaus movement. This museum not only showcases the innovative spirit of its time but also provides visitors with insight into the early 20th-century architectural ethos. As part of the broader Weimar cultural landscape, Haus am Horn captures the essence of a city renowned for its pivotal role in art, literature, and philosophy. Visitors to this site can expect to engage with the ideas that shaped modern architecture and design, making it a worthwhile stop for anyone interested in the evolution of these fields.
 
-Positioned in the heart of Weimar, Haus am Horn is easily accessible and holds a prominent place in the city’s history. The museum invites exploration, offering a glimpse into the artistic and intellectual currents that defined an era. Those who venture to this location will find themselves immersed in a dialogue between past and present, where architectural innovation meets cultural reflection.
+Positioned in the heart of Weimar, Haus am Horn is easily accessible and holds a prominent place in the city's history. The museum invites exploration, offering a glimpse into the artistic and intellectual currents that defined an era. Those who venture to this location will find themselves immersed in a dialogue between past and present, where architectural innovation meets cultural reflection.
 
 ## History and Significance
 
@@ -36,13 +36,13 @@ Haus am Horn was conceived by architect Georg Muche in the 1920s as a model hous
 
 The significance of Haus am Horn extends beyond its architectural merit; it is also a cultural artifact that reflects the social and artistic aspirations of its time. The house was designed to be a living space that incorporated innovative materials and construction techniques, showcasing the possibilities of modern living. It served as a prototype for future residential designs, influencing countless architects and designers worldwide.
 
-As part of the Weimar UNESCO World Heritage Site, Haus am Horn is recognized for its contribution to the cultural landscape of the city. Weimar, often associated with figures such as Goethe and Schiller, is also a vital center for the development of modern art and architecture. The presence of Haus am Horn within this context underscores the city’s role as a crucible of cultural innovation, making it an essential stop for those interested in the intersections of art, design, and history.
+As part of the Weimar UNESCO World Heritage Site, Haus am Horn is recognized for its contribution to the cultural landscape of the city. Weimar, often associated with figures such as Goethe and Schiller, is also a vital center for the development of modern art and architecture. The presence of Haus am Horn within this context underscores the city's role as a crucible of cultural innovation, making it an essential stop for those interested in the intersections of art, design, and history.
 
 ## Architecture and Features
 
 Haus am Horn is a remarkable example of early modern architecture, characterized by its clean lines and functional design. The house features a simple rectangular form, which exemplifies the Bauhaus philosophy of reducing structures to their essential elements. The use of large windows allows for ample natural light, creating an airy and open interior that blurs the boundaries between indoor and outdoor spaces.
 
-One of the notable architectural features of Haus am Horn is its innovative use of materials. Constructed from concrete and brick, the building reflects the Bauhaus commitment to industrial materials, which were employed not only for their durability but also for their aesthetic qualities. The flat roof, another characteristic of modernist design, further enhances the building’s minimalist aesthetic.
+One of the notable architectural features of Haus am Horn is its innovative use of materials. Constructed from concrete and brick, the building reflects the Bauhaus commitment to industrial materials, which were employed not only for their durability but also for their aesthetic qualities. The flat roof, another characteristic of modernist design, further enhances the building's minimalist aesthetic.
 
 Inside, visitors will find a thoughtfully designed living space that includes a kitchen, living room, and bedrooms, all arranged to optimize functionality and comfort. The integration of furniture designed specifically for the house highlights the Bauhaus emphasis on the unity of architecture and interior design. Each piece is crafted to complement the overall architectural vision, creating a cohesive living environment that embodies modern living principles.
 

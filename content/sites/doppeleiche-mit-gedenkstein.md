@@ -101,7 +101,7 @@ Guided tours may not be available, but visitors can explore the site at their ow
 Spring and summer are ideal for enjoying the natural surroundings, while early mornings or late afternoons can offer a quieter experience.
 
 ### Is it wheelchair accessible?
-The accessibility may vary; it’s recommended to check the official website for specific details.
+The accessibility may vary; it's recommended to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information on admission fees and ticket purchasing options.

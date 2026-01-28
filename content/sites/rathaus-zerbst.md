@@ -44,7 +44,7 @@ Rathaus Zerbst presents an intriguing architectural style that reflects the hist
 
 The layout of the city hall is designed to accommodate its role as a center for public administration. Expect to find large meeting rooms, offices for municipal staff, and spaces that serve the public. The exterior may showcase features common to town halls, such as a clock tower or ornate doorways, which not only enhance its visual appeal but also signify its importance in the community.
 
-Visitors will also appreciate the surrounding area, which may include public squares or parks that further enhance the building’s civic purpose. The integration of outdoor spaces allows for community events and gatherings, fostering a sense of togetherness among residents and visitors alike.
+Visitors will also appreciate the surrounding area, which may include public squares or parks that further enhance the building's civic purpose. The integration of outdoor spaces allows for community events and gatherings, fostering a sense of togetherness among residents and visitors alike.
 
 ## Visiting Information
 
@@ -58,9 +58,9 @@ The best times to visit are typically during weekdays when the building is fully
 
 While visiting Rathaus Zerbst, consider exploring other nearby attractions that enrich your experience of the area. Some notable places include:
 
-1. **St. Bartholomew’s Church**: A significant religious site that showcases stunning architecture and a rich history.
+1. **St. Bartholomew's Church**: A significant religious site that showcases stunning architecture and a rich history.
 2. **Zerbst Castle**: A historical site that reflects the town's noble past and offers insight into its architectural evolution.
-3. **The Town Museum**: A local museum that provides a deeper understanding of Zerbst’s cultural heritage and history.
+3. **The Town Museum**: A local museum that provides a deeper understanding of Zerbst's cultural heritage and history.
 4. **The Anhalt State Museum**: A broader exploration of the region's history, art, and culture, located within a short distance from the city hall.
 5. **The Historic Town Square**: A vibrant area where visitors can enjoy local shops, cafes, and the lively atmosphere of the town.
 
@@ -72,7 +72,7 @@ If you are interested in a guided experience, inquire about available tours that
 
 ## Practical Information
 
-As you prepare for your visit to Rathaus Zerbst, there are a few practical considerations to keep in mind. Dress comfortably, as you may be walking around the town to explore nearby attractions. Depending on the season, it’s wise to check the weather forecast and bring an umbrella or sun protection as needed.
+As you prepare for your visit to Rathaus Zerbst, there are a few practical considerations to keep in mind. Dress comfortably, as you may be walking around the town to explore nearby attractions. Depending on the season, it's wise to check the weather forecast and bring an umbrella or sun protection as needed.
 
 For those traveling with children, consider bringing along snacks or water, as options may be limited in the immediate vicinity of the city hall. Additionally, be aware of any seasonal events or festivities that may enhance your visit.
 
@@ -82,7 +82,7 @@ For those traveling with children, consider bringing along snacks or water, as o
 A visit to Rathaus Zerbst typically takes about one to two hours, allowing time to explore the building and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and significance of the building. Check the official website for more details.
@@ -91,13 +91,13 @@ Guided tours may be available, providing deeper insights into the history and si
 Weekdays are ideal for a quieter experience, while weekends may offer special events. Visiting during the late morning or early afternoon can also be pleasant.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to check the official website for specific information regarding wheelchair access.
+Accessibility features may be available, but it's best to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for current information on online ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s wise to confirm the existence of restrooms and dining options in the area.
+Facilities may be available nearby, but it's wise to confirm the existence of restrooms and dining options in the area.
 
 ### What should I wear?
 Dress comfortably and according to the weather, considering the potential for walking. Casual attire is generally acceptable.

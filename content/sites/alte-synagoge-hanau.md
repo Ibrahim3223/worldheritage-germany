@@ -66,7 +66,7 @@ While visiting the Alte Synagoge, you might also want to explore several nearby 
 
 3. **Schloss Philippsruhe**: A beautiful baroque palace with stunning gardens, offering a glimpse into the aristocratic history of the region.
 
-4. **St. Mary’s Church**: This historic church is located nearby and is worth a visit for its architectural beauty and historical significance.
+4. **St. Mary's Church**: This historic church is located nearby and is worth a visit for its architectural beauty and historical significance.
 
 5. **Wilhelmsbad**: A picturesque park that once served as a spa resort, perfect for a leisurely stroll and reflection.
 

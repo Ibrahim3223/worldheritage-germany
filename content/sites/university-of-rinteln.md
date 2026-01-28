@@ -30,7 +30,7 @@ The University of Rinteln, a former academic institution nestled in the historic
 
 ## History and Significance
 
-The University of Rinteln was established with the intent of providing higher education in a variety of disciplines. As an academic institution, it served not only the local populace but also attracted students from various regions, contributing to an exchange of ideas and knowledge. The university’s significance extends beyond its academic achievements; it played a crucial role in the cultural and intellectual life of Rinteln and its surroundings.
+The University of Rinteln was established with the intent of providing higher education in a variety of disciplines. As an academic institution, it served not only the local populace but also attracted students from various regions, contributing to an exchange of ideas and knowledge. The university's significance extends beyond its academic achievements; it played a crucial role in the cultural and intellectual life of Rinteln and its surroundings.
 
 Educational institutions like the University of Rinteln have historically been pivotal in fostering enlightenment and progress. They represent a commitment to knowledge, inquiry, and the pursuit of truth, values that resonate with the broader narrative of education in Europe. The legacy of the University of Rinteln is reflected in the town's ongoing cultural activities and its emphasis on learning and community engagement.
 

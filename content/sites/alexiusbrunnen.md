@@ -54,7 +54,7 @@ Check the official website for current information regarding hours and any poten
 
 Expect to spend around half an hour to an hour at Alexiusbrunnen, allowing time to enjoy the fountain, take photographs, and perhaps relax in the adjacent public space. The best times to visit are generally during weekdays when the area is less crowded, providing a more tranquil experience.
 
-For those looking to extend their visit, consider exploring the surrounding area, which is often bustling with activity. The fountain is a great point to start your exploration of Rastatt’s rich history and cultural offerings.
+For those looking to extend their visit, consider exploring the surrounding area, which is often bustling with activity. The fountain is a great point to start your exploration of Rastatt's rich history and cultural offerings.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ As you explore the area around Alexiusbrunnen, several attractions are within wa
 
 2. **St. Alexander Church**: Just a short stroll from the fountain, this church is known for its impressive architecture and serene atmosphere, making it a great spot for reflection.
 
-3. **Rastatt Historic City Center**: Wander through the charming streets of Rastatt’s historic center, where you'll find quaint shops, cafes, and additional historical landmarks.
+3. **Rastatt Historic City Center**: Wander through the charming streets of Rastatt's historic center, where you'll find quaint shops, cafes, and additional historical landmarks.
 
 4. **Kaiserstraße**: This bustling street is lined with shops and restaurants, ideal for those looking to experience the local culture and cuisine.
 

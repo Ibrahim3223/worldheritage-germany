@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Rathaus und Friedensgericht, or Town Hall and Peace Court, is a striking representation of civic architecture in the quaint town of Nieder-Olm, Germany. This former town hall not only served as an administrative hub but also played a pivotal role in the community’s social and judicial matters. Located within a region that blends historical significance with modernity, the Rathaus und Friedensgericht stands as a landmark for both locals and visitors alike. 
+The Rathaus und Friedensgericht, or Town Hall and Peace Court, is a striking representation of civic architecture in the quaint town of Nieder-Olm, Germany. This former town hall not only served as an administrative hub but also played a pivotal role in the community's social and judicial matters. Located within a region that blends historical significance with modernity, the Rathaus und Friedensgericht stands as a landmark for both locals and visitors alike. 
 
 As you explore the charming streets of Nieder-Olm, the building invites you to delve into its past while also engaging with contemporary local life. The town itself is positioned within easy reach of major cities, making it a convenient stop for anyone traveling through the area. With its rich history and cultural relevance, the Rathaus und Friedensgericht promises a unique glimpse into the civic life of the region.
 
@@ -96,7 +96,7 @@ When planning your visit to the Rathaus und Friedensgericht, here are some pract
 On average, visitors may spend about an hour at the Rathaus und Friedensgericht, but you can adjust this based on your interests.
 
 ### Is photography allowed?
-Photography is typically allowed, but it’s best to check for any specific restrictions upon your visit.
+Photography is typically allowed, but it's best to check for any specific restrictions upon your visit.
 
 ### Are there guided tours?
 Information about guided tours may vary, so check the official website for details or inquire locally when you arrive.
@@ -111,7 +111,7 @@ Accessibility details may not be specified, so it is recommended to check with l
 Check the official website for the latest information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to prepare by locating restrooms and cafes ahead of your visit.
+Facilities may be available nearby, but it's advisable to prepare by locating restrooms and cafes ahead of your visit.
 
 ### What should I wear?
 Dress comfortably and consider the weather, especially if you plan to explore the town on foot. 

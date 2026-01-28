@@ -74,7 +74,7 @@ Ostbevern is situated in a region rich with cultural and historical attractions.
 
 3. **Ostbevern Local Museum**: This museum showcases the history of the Ostbevern area, featuring exhibits on local culture, agriculture, and community life.
 
-4. **Ems River**: A tranquil spot for walking or cycling, the Ems River provides an opportunity to enjoy the natural beauty of the region while reflecting on the sights you’ve seen.
+4. **Ems River**: A tranquil spot for walking or cycling, the Ems River provides an opportunity to enjoy the natural beauty of the region while reflecting on the sights you've seen.
 
 5. **Nienberge**: A nearby district with charming walking paths and a local feel, perfect for those wanting to explore the countryside and engage with the community.
 
@@ -82,7 +82,7 @@ Ostbevern is situated in a region rich with cultural and historical attractions.
 
 When visiting the Sieben-Schmerzen-Madonna, consider bringing a camera to capture the intricate details of the statue, but be mindful of local customs regarding photography, especially if the site is considered sacred. Early mornings or late afternoons may offer a quieter atmosphere, allowing for uninterrupted reflection and fewer crowds.
 
-Additionally, engaging with locals or staff at the nearby attractions can provide deeper insights into the statue’s significance and the broader cultural context of Ostbevern. 
+Additionally, engaging with locals or staff at the nearby attractions can provide deeper insights into the statue's significance and the broader cultural context of Ostbevern. 
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ Before heading out to visit the Sieben-Schmerzen-Madonna, keep a few practical c
 
 Seasonal weather can vary, so check forecasts and dress accordingly. If visiting during the colder months, ensure to wear layers, as outdoor settings can be chilly.
 
-It’s also wise to bring along a water bottle and perhaps a light snack, particularly if you plan to extend your visit to nearby attractions. 
+It's also wise to bring along a water bottle and perhaps a light snack, particularly if you plan to extend your visit to nearby attractions. 
 
 ## Frequently Asked Questions
 

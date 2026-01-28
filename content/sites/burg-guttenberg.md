@@ -90,7 +90,7 @@ Seasonal considerations are also important; visiting during spring or autumn may
 A visit to Burg Guttenberg typically takes about two to three hours, allowing time for exploration and appreciation of the castle's features.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s best to confirm any restrictions upon arrival.
+Yes, photography is generally permitted, but it's best to confirm any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for details.

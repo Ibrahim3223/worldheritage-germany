@@ -103,7 +103,7 @@ Check the official website for current information regarding guided tours, as av
 The best times to visit are during the spring and early autumn when the weather is pleasant and the natural surroundings are vibrant.
 
 ### Is it wheelchair accessible?  
-Information on wheelchair accessibility is not specified, so it’s best to check the official website for details.
+Information on wheelchair accessibility is not specified, so it's best to check the official website for details.
 
 ### Can I buy tickets online?  
 Check the official website to see if online ticket purchases are available, as this may vary by season.

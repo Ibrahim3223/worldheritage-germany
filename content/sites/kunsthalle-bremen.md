@@ -74,7 +74,7 @@ A visit to the Kunsthalle Bremen can be complemented by exploring several nearby
 
 To make the most of your visit to the Kunsthalle Bremen, consider the following insider tips:
 
-- **Photography**: Be sure to check the museum’s policy on photography, as some exhibitions may have restrictions.
+- **Photography**: Be sure to check the museum's policy on photography, as some exhibitions may have restrictions.
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekday mornings or just after opening hours, when the museum is less crowded.
 
 ## Practical Information
@@ -83,7 +83,7 @@ When planning your visit, consider the following practical information:
 
 - **What to Bring**: Comfortable walking shoes are recommended as you may spend a considerable amount of time exploring the galleries. A notebook or sketchbook can also be beneficial if you wish to jot down thoughts or inspiration.
   
-- **Seasonal Considerations**: The museum is generally open year-round, but it’s wise to check for any seasonal events or changes in hours, particularly around holidays.
+- **Seasonal Considerations**: The museum is generally open year-round, but it's wise to check for any seasonal events or changes in hours, particularly around holidays.
 
 ## Frequently Asked Questions
 

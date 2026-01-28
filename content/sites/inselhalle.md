@@ -42,7 +42,7 @@ Moreover, as a venue that attracts visitors from different regions, Inselhalle e
 
 Inselhalle features a contemporary architectural design that reflects its multi-functional purpose. The building is characterized by spacious interiors that can be reconfigured to accommodate a variety of events. The flexibility of the space allows for both large gatherings and more intimate settings, making it suitable for everything from conferences to concerts.
 
-One of the hall's notable features is its advanced technical infrastructure, which supports high-quality audio-visual presentations and performances. The integration of modern technology ensures that events held at Inselhalle can meet the demands of today’s dynamic environment. Large windows allow natural light to flood the interior, creating an inviting atmosphere that enhances the experience for attendees.
+One of the hall's notable features is its advanced technical infrastructure, which supports high-quality audio-visual presentations and performances. The integration of modern technology ensures that events held at Inselhalle can meet the demands of today's dynamic environment. Large windows allow natural light to flood the interior, creating an inviting atmosphere that enhances the experience for attendees.
 
 The hall also includes facilities that cater to the needs of event organizers and participants, such as meeting rooms, reception areas, and catering services. These amenities contribute to a seamless experience, whether one is attending a corporate event or a cultural performance.
 

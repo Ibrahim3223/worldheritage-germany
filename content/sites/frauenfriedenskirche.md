@@ -72,11 +72,11 @@ While visiting Frauenfriedenskirche, there are several nearby attractions that c
 
 For those planning to visit Frauenfriedenskirche, consider the following tips to enhance your experience:
 
-- **Photography**: While photography is generally allowed, it’s advised to be respectful of worshippers and the sacred atmosphere. Capturing images during quieter moments or events can yield beautiful results.
+- **Photography**: While photography is generally allowed, it's advised to be respectful of worshippers and the sacred atmosphere. Capturing images during quieter moments or events can yield beautiful results.
 
 - **Crowd Avoidance**: To experience the church in a more tranquil setting, visit during weekdays or early in the morning. This will allow you to enjoy the space without the distractions of larger crowds.
 
-- **Engagement**: If your schedule permits, check for any community events or services that might be taking place during your visit. Participating in these can deepen your understanding of the church’s mission and its role within the community.
+- **Engagement**: If your schedule permits, check for any community events or services that might be taking place during your visit. Participating in these can deepen your understanding of the church's mission and its role within the community.
 
 ## Practical Information
 
@@ -111,7 +111,7 @@ While specific accessibility features are not detailed, it's best to check the o
 Check the official website for information regarding tickets and any entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to consult the official website for specifics regarding amenities.
+Facilities may be available, but it's best to consult the official website for specifics regarding amenities.
 
 ### What should I wear?
 Dress comfortably and consider the nature of the visit; modest attire is often appreciated in places of worship. 

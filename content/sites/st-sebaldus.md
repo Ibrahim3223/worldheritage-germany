@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Sebaldus Church, a prominent church building located in Nuremberg, Germany, is an architectural marvel that stands as a significant landmark within the city. This remarkable structure serves not only as a place of worship but also as a testament to the city’s rich religious and cultural heritage. Situated at coordinates 49.455314, 11.076475, St. Sebaldus is easily accessible to both locals and travelers alike, making it a key destination for those exploring the historical intricacies of Nuremberg. The church’s Gothic design and intricate details reflect the artistic movements of its time, inviting visitors to delve into the narrative of the city’s past.
+St. Sebaldus Church, a prominent church building located in Nuremberg, Germany, is an architectural marvel that stands as a significant landmark within the city. This remarkable structure serves not only as a place of worship but also as a testament to the city's rich religious and cultural heritage. Situated at coordinates 49.455314, 11.076475, St. Sebaldus is easily accessible to both locals and travelers alike, making it a key destination for those exploring the historical intricacies of Nuremberg. The church's Gothic design and intricate details reflect the artistic movements of its time, inviting visitors to delve into the narrative of the city's past.
 
 As one of the oldest churches in Nuremberg, St. Sebaldus holds a vital place in the community, famed for its stunning architecture and historical significance. It is dedicated to St. Sebaldus, the patron saint of the city, whose influence permeates the cultural fabric of Nuremberg. Visitors will find that the church serves as a focal point for various events and traditions that deepen its connection to the local populace. Engaging with St. Sebaldus offers insight into the religious practices and artistic expressions that shaped this vibrant city.
 
@@ -70,7 +70,7 @@ While visiting St. Sebaldus Church, there are several nearby attractions that en
 
 ## Insider Tips
 
-When visiting St. Sebaldus Church, photography is generally permitted, but be respectful of worshippers and maintain a low profile. Early morning or late afternoon visits can help you avoid larger crowds, granting you a more personal experience of the church’s atmosphere.
+When visiting St. Sebaldus Church, photography is generally permitted, but be respectful of worshippers and maintain a low profile. Early morning or late afternoon visits can help you avoid larger crowds, granting you a more personal experience of the church's atmosphere.
 
 If you are interested in capturing the intricate details of the architecture, consider bringing a zoom lens or a camera that performs well in low light, as the interior can be dimly lit. Also, take your time to appreciate the craftsmanship of the altars and sculptures, as these are often overlooked in the haste to take general photographs.
 
@@ -101,9 +101,9 @@ Accessibility information may vary, so it's best to check the official website f
 Check the official website for current information on ticket purchases and any potential admission fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to explore the area for additional amenities.
+Facilities may be available nearby, but it's advisable to explore the area for additional amenities.
 
 ### What should I wear?
 Dress modestly, keeping in mind that this is a place of worship. Comfortable shoes are recommended for walking.
 
-In summary, St. Sebaldus Church is a must-visit destination that encapsulates the historical and cultural essence of Nuremberg. With its majestic architecture, rich history, and central location, it offers a compelling glimpse into the city’s past and its ongoing significance in the present.
+In summary, St. Sebaldus Church is a must-visit destination that encapsulates the historical and cultural essence of Nuremberg. With its majestic architecture, rich history, and central location, it offers a compelling glimpse into the city's past and its ongoing significance in the present.

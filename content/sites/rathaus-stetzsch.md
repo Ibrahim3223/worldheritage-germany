@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rathaus Stetzsch, located in the charming suburb of Stetzsch within the city of Dresden, Germany, serves as a focal point for local governance and community activities. This city hall is not just a functional building; it embodies the essence of civic pride and local heritage. While the structure itself may not be as widely known as some of Dresden’s more famous landmarks, it represents the historical and social fabric of the region. Visitors to Rathaus Stetzsch can appreciate not only its architectural features but also the vibrant community that surrounds it.
+Rathaus Stetzsch, located in the charming suburb of Stetzsch within the city of Dresden, Germany, serves as a focal point for local governance and community activities. This city hall is not just a functional building; it embodies the essence of civic pride and local heritage. While the structure itself may not be as widely known as some of Dresden's more famous landmarks, it represents the historical and social fabric of the region. Visitors to Rathaus Stetzsch can appreciate not only its architectural features but also the vibrant community that surrounds it.
 
 Dresden, often celebrated for its baroque architecture and rich cultural heritage, offers an intriguing backdrop for Rathaus Stetzsch. The city's history dates back centuries, making it a significant site in German history. The city hall, strategically located in Stetzsch, is easily accessible for both local residents and visitors exploring the outskirts of Dresden. As you visit, you'll discover how this building plays a vital role in the everyday lives of its citizens, making it a worthwhile stop for anyone interested in understanding the local culture and governance.
 
@@ -95,7 +95,7 @@ Check the official website for details regarding any available guided tours.
 Weekdays are ideal to see the building in operation, but weekends offer a quieter experience.
 
 ### Is it wheelchair accessible?
-For accessibility details, it’s best to contact the city hall directly or check the official website.
+For accessibility details, it's best to contact the city hall directly or check the official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for up-to-date information.

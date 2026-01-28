@@ -34,17 +34,17 @@ As you explore the offerings of the Ernst Schering Foundation, you will discover
 
 ## History and Significance
 
-The Ernst Schering Foundation is rooted in a vision to promote scientific research and cultural exchange, reflecting the legacy of its namesake, Ernst Schering, who was known for his contributions to the pharmaceutical industry. Although specific founding dates and milestones are not detailed, the foundation’s mission has consistently revolved around supporting innovative research and facilitating artistic expression. 
+The Ernst Schering Foundation is rooted in a vision to promote scientific research and cultural exchange, reflecting the legacy of its namesake, Ernst Schering, who was known for his contributions to the pharmaceutical industry. Although specific founding dates and milestones are not detailed, the foundation's mission has consistently revolved around supporting innovative research and facilitating artistic expression. 
 
 The foundation has gained recognition for its commitment to interdisciplinary collaboration, bridging the fields of science and art. By hosting exhibitions, lectures, and workshops, it has created an environment where diverse perspectives can converge, allowing for the exploration of contemporary issues through various lenses. This approach not only enriches the cultural landscape of Berlin but also contributes to broader discussions in society.
 
-Throughout its existence, the Ernst Schering Foundation has established partnerships with various institutions, fostering a sense of community among researchers, artists, and the public. This collaborative spirit is key to the foundation’s role in addressing contemporary challenges, making it a significant player in the cultural and scientific arenas. As a result, it attracts a diverse audience, from students and academics to art lovers and the general public, all eager to engage with the thought-provoking themes presented through its programs.
+Throughout its existence, the Ernst Schering Foundation has established partnerships with various institutions, fostering a sense of community among researchers, artists, and the public. This collaborative spirit is key to the foundation's role in addressing contemporary challenges, making it a significant player in the cultural and scientific arenas. As a result, it attracts a diverse audience, from students and academics to art lovers and the general public, all eager to engage with the thought-provoking themes presented through its programs.
 
 ## Architecture and Features
 
 While specific architectural details about the Ernst Schering Foundation are not provided, it is situated within a modern urban context in Berlin. The building likely reflects contemporary architectural trends, incorporating elements that facilitate both public engagement and the functional needs of a nonprofit organization.
 
-The foundation serves as a platform for various artistic and scientific endeavors, often transforming its spaces to accommodate exhibitions, lectures, and interactive workshops. Visitors can expect to encounter dynamic environments that reflect the foundation’s commitment to innovation and adaptability. The spaces are designed to foster engagement, encouraging visitors to immerse themselves in the diverse programming offered.
+The foundation serves as a platform for various artistic and scientific endeavors, often transforming its spaces to accommodate exhibitions, lectures, and interactive workshops. Visitors can expect to encounter dynamic environments that reflect the foundation's commitment to innovation and adaptability. The spaces are designed to foster engagement, encouraging visitors to immerse themselves in the diverse programming offered.
 
 Exhibitions at the foundation often change, highlighting a range of themes that connect art and science. This fluidity in programming allows the foundation to remain relevant and responsive to current societal issues, ensuring a fresh experience for repeat visitors.
 
@@ -76,7 +76,7 @@ The Ernst Schering Foundation is conveniently located near several other notable
 
 When visiting the Ernst Schering Foundation, consider the following tips to enhance your experience:
 
-- **Photography**: Check the foundation's policy on photography, as it may vary depending on ongoing exhibitions. It’s always courteous to ask if you are unsure.
+- **Photography**: Check the foundation's policy on photography, as it may vary depending on ongoing exhibitions. It's always courteous to ask if you are unsure.
 
 - **Crowd Avoidance**: To steer clear of large crowds, plan your visit during weekdays or right when the foundation opens. Early mornings are often quieter, allowing for a more personal experience with the exhibits.
 

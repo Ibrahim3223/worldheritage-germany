@@ -66,7 +66,7 @@ While visiting Brücke Rudelsdorf, consider exploring these nearby attractions t
 
 3. **Local Parks**: The region offers several parks where visitors can enjoy nature, relax, and perhaps have a picnic while soaking in the serene environment.
 
-4. **Historic Sites**: Various historical markers and sites in Waldheim provide additional context to the area’s past, making it worthwhile to explore these locations.
+4. **Historic Sites**: Various historical markers and sites in Waldheim provide additional context to the area's past, making it worthwhile to explore these locations.
 
 5. **Museums**: If time permits, local museums may offer insights into the history and culture of Waldheim, enhancing your understanding of the region.
 

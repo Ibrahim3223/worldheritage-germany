@@ -44,7 +44,7 @@ The architecture of Burg Altlaubenberg reflects the typical characteristics of m
 
 Visitors to the site will notice the remains of significant features, including the outer walls that once encircled the castle, providing a sense of the scale and fortification that characterized such structures. The stones themselves, weathered by time, tell the story of centuries past, and their arrangement hints at the layout of living quarters, storage areas, and perhaps even communal spaces.
 
-Among the notable features of Burg Altlaubenberg, the foundation remains stand out, illustrating the original footprint of the castle. The site’s elevation may have provided strategic advantages, allowing for surveillance of the surrounding landscape. As you wander through the ruins, the remnants of structures evoke a sense of the castle's former grandeur while also inviting contemplation of the lives that were once lived within its walls.
+Among the notable features of Burg Altlaubenberg, the foundation remains stand out, illustrating the original footprint of the castle. The site's elevation may have provided strategic advantages, allowing for surveillance of the surrounding landscape. As you wander through the ruins, the remnants of structures evoke a sense of the castle's former grandeur while also inviting contemplation of the lives that were once lived within its walls.
 
 ## Visiting Information
 
@@ -97,13 +97,13 @@ While specific information about guided tours may vary, check the official websi
 Spring and autumn are ideal for comfortable weather and vibrant natural scenery.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s best to consult the official website for the latest updates on access.
+Accessibility information may vary; it's best to consult the official website for the latest updates on access.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases to ensure a smooth entry.
 
 ### Are there restrooms and cafes?
-Details about amenities may vary; it’s advisable to check the official website for the latest information.
+Details about amenities may vary; it's advisable to check the official website for the latest information.
 
 ### What should I wear?
 Wear comfortable clothes and sturdy shoes suitable for walking on uneven surfaces, and consider layers for changing weather conditions. 

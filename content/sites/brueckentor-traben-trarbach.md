@@ -3,7 +3,7 @@ title: "Brückentor (Traben-Trarbach)"
 site_name: "Brückentor (Traben-Trarbach)"
 date: 2026-01-26
 draft: false
-description: "The Brückentor, a prominent city gate in Traben-Trarbach, Germany, serves as a remarkable emblem of the town’s historical significance and architectural..."
+description: "The Brückentor, a prominent city gate in Traben-Trarbach, Germany, serves as a remarkable emblem of the town's historical significance and architectural..."
 region: "Rhineland-Palatinate"
 country: "Germany"
 heritage_type: "City Gate"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Brückentor, a prominent city gate in Traben-Trarbach, Germany, serves as a remarkable emblem of the town’s historical significance and architectural heritage. Situated at the confluence of the Moselle River and the surrounding hills, this city gate has witnessed centuries of transformation and remains a vital link between the past and present. Its strategic location not only provides access to the town but also highlights the importance of Traben-Trarbach during its historical peak in the late 19th century as a bustling center of trade and commerce.
+The Brückentor, a prominent city gate in Traben-Trarbach, Germany, serves as a remarkable emblem of the town's historical significance and architectural heritage. Situated at the confluence of the Moselle River and the surrounding hills, this city gate has witnessed centuries of transformation and remains a vital link between the past and present. Its strategic location not only provides access to the town but also highlights the importance of Traben-Trarbach during its historical peak in the late 19th century as a bustling center of trade and commerce.
 
 The Brückentor is not merely a passageway; it embodies the essence of Traben-Trarbach's identity. Its presence offers visitors a glimpse into the architectural styles that characterized the region and invites them to explore the rich cultural narrative that surrounds the town. As you approach the gate, you are drawn into a world where history and modern life intersect, making it a must-visit for anyone interested in heritage and architecture.
 
@@ -62,7 +62,7 @@ In addition to the Brückentor, the surrounding area offers a multitude of charm
 
 1. **Moselle Promenade**: Stroll along the scenic Moselle River, where you can enjoy the natural beauty of the landscape and observe local wildlife. The promenade is also lined with cafes and shops, offering a perfect spot to relax.
 
-2. **Burg Landshut**: A short distance from the city gate, this historic castle offers panoramic views of the region. It’s a great place to delve deeper into the history of Traben-Trarbach and enjoy some peaceful surroundings.
+2. **Burg Landshut**: A short distance from the city gate, this historic castle offers panoramic views of the region. It's a great place to delve deeper into the history of Traben-Trarbach and enjoy some peaceful surroundings.
 
 3. **Traben-Trarbach Wine Museum**: Located nearby, this museum showcases the rich viticultural heritage of the region. Visitors can learn about the history of wine production in the Moselle Valley and taste local varieties.
 

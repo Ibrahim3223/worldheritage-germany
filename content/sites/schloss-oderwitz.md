@@ -50,7 +50,7 @@ Visitors to the site can expect to admire not only the exterior grandeur but als
 
 Reaching Schloss Oderwitz is facilitated by various transport options available in the region. Visitors may find that local public transport, including buses and trains, connects them to Oderwitz efficiently. For those preferring to drive, the site is accessible by road, with parking options likely available nearby.
 
-When planning your visit, check the official website for current information regarding hours of operation and potential entry fees. It’s advisable to allocate sufficient time for your visit to fully appreciate the manor house and its surroundings. Depending on your interests, spending a couple of hours would allow for a leisurely exploration of the site.
+When planning your visit, check the official website for current information regarding hours of operation and potential entry fees. It's advisable to allocate sufficient time for your visit to fully appreciate the manor house and its surroundings. Depending on your interests, spending a couple of hours would allow for a leisurely exploration of the site.
 
 The best times to visit are typically during the spring and early autumn months when the weather is mild and conducive to outdoor exploration. During these seasons, the surrounding landscape may also enhance your experience of the manor house, providing a lovely backdrop for photos and leisurely walks.
 

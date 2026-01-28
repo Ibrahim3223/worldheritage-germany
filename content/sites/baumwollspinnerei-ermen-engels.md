@@ -42,7 +42,7 @@ Visitors can engage with various exhibits that illustrate the journey of cotton 
 
 The Baumwollspinnerei Ermen & Engels features a blend of traditional industrial architecture and functional design that characterizes many cotton mills of its time. The building is constructed with robust materials, showcasing the practical aesthetic typical of industrial facilities. Its layout is designed to facilitate the production process, with large, open spaces that house the machinery used for spinning cotton.
 
-Prominent features include the preserved equipment that served the mill during its operational years. Visitors can observe the intricate mechanisms that powered the cotton spinning process, providing a tangible connection to the past. The museum’s interior is thoughtfully arranged to guide guests through the historical narrative of the mill, with sections dedicated to various stages of cotton processing.
+Prominent features include the preserved equipment that served the mill during its operational years. Visitors can observe the intricate mechanisms that powered the cotton spinning process, providing a tangible connection to the past. The museum's interior is thoughtfully arranged to guide guests through the historical narrative of the mill, with sections dedicated to various stages of cotton processing.
 
 Natural light floods the interior spaces, enhancing the experience as visitors navigate through the exhibits. The architecture itself tells a story of innovation and adaptation, reflecting the mill's journey from a bustling center of production to a space for education and cultural preservation.
 
@@ -70,7 +70,7 @@ Upon arrival, you'll find informative displays and staff on hand to enhance your
 
 For those interested in photography, the museum offers ample opportunities to capture the essence of industrial history. Early morning or late afternoon light can enhance your photos, particularly in the open spaces of the mill. To avoid crowds, consider visiting during weekdays or during off-peak hours. 
 
-If you’re keen on a more detailed experience, inquire about any scheduled guided tours that may provide deeper insights into the exhibits and the mill's history. 
+If you're keen on a more detailed experience, inquire about any scheduled guided tours that may provide deeper insights into the exhibits and the mill's history. 
 
 ## Practical Information
 

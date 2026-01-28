@@ -38,7 +38,7 @@ Herrenhaus Lehsen has a history that aligns with the broader narrative of manor 
 
 Manor houses like Lehsen were integral to the social fabric of rural Germany, often acting as hubs for local governance and agricultural management. The significance of these estates extends beyond their physical structures; they represent a way of life that has shaped the cultural landscape of the area.
 
-In addition to its historical importance, Herrenhaus Lehsen stands as a symbol of the ongoing efforts to preserve such heritage sites. The restoration and maintenance of the manor reflect the community’s commitment to recognizing and celebrating their local history, ensuring that future generations can appreciate the cultural narratives encapsulated within these walls.
+In addition to its historical importance, Herrenhaus Lehsen stands as a symbol of the ongoing efforts to preserve such heritage sites. The restoration and maintenance of the manor reflect the community's commitment to recognizing and celebrating their local history, ensuring that future generations can appreciate the cultural narratives encapsulated within these walls.
 
 Visitors to Herrenhaus Lehsen will find a connection to the past, with the manor providing insights into the architectural and social dynamics of its time. The estate not only highlights the grandeur of noble life but also serves as a reminder of the agricultural roots that continue to influence the region.
 
@@ -46,7 +46,7 @@ Visitors to Herrenhaus Lehsen will find a connection to the past, with the manor
 
 Herrenhaus Lehsen is characterized by its classic manor house architecture, which showcases the elegance and stateliness expected of such a residence. While specific architectural details are not outlined, typical features of German manor houses include grand facades, expansive windows, and decorative elements that reflect the artistic trends of their time.
 
-The layout of Herrenhaus Lehsen likely includes spacious rooms that would have served various functions, from lavish entertaining areas to private quarters for the estate’s residents. The interiors may also exhibit design elements that highlight the craftsmanship of the period, such as intricate moldings, ornate staircases, and historical furnishings, although specific descriptions of these features are not available.
+The layout of Herrenhaus Lehsen likely includes spacious rooms that would have served various functions, from lavish entertaining areas to private quarters for the estate's residents. The interiors may also exhibit design elements that highlight the craftsmanship of the period, such as intricate moldings, ornate staircases, and historical furnishings, although specific descriptions of these features are not available.
 
 Surrounding the manor, visitors can expect to find well-maintained grounds that may include gardens or landscaped areas typical of estate properties. Such spaces not only enhance the aesthetic appeal of the manor but also provide a serene environment for reflection and appreciation of the estate's beauty.
 
@@ -58,7 +58,7 @@ When planning a visit to Herrenhaus Lehsen, it is essential to consider various 
 
 Typically, visitors should allocate a few hours to explore the estate comprehensively, allowing time to appreciate both the interior and the surrounding grounds. The best times to visit may coincide with local events or seasonal changes that enhance the estate's charm, although specific recommendations for peak visiting times are not provided.
 
-Upon arrival, guests can expect a welcoming atmosphere, with the opportunity to engage with the site’s historical context. Whether you are interested in photography, leisurely walks, or simply soaking in the ambiance, Herrenhaus Lehsen offers a versatile experience suitable for various interests.
+Upon arrival, guests can expect a welcoming atmosphere, with the opportunity to engage with the site's historical context. Whether you are interested in photography, leisurely walks, or simply soaking in the ambiance, Herrenhaus Lehsen offers a versatile experience suitable for various interests.
 
 To maximize your visit, it is prudent to check the official website for any special events or exhibitions that may be taking place, as these can significantly enrich your experience at the manor.
 
@@ -102,7 +102,7 @@ Before your visit to Herrenhaus Lehsen, keep these practical considerations in m
 A visit to Herrenhaus Lehsen typically lasts a few hours, allowing ample time to explore the manor and its grounds.
 
 ### Is photography allowed?
-Photography is generally permitted; however, it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted; however, it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website for details on available tours and scheduling.
@@ -122,4 +122,4 @@ Specific amenities are not mentioned. It is recommended to check the official we
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the grounds extensively. 
 
-With this guide in hand, you are well equipped to explore Herrenhaus Lehsen and appreciate its historical and architectural significance within Germany’s cultural landscape. Enjoy your visit!
+With this guide in hand, you are well equipped to explore Herrenhaus Lehsen and appreciate its historical and architectural significance within Germany's cultural landscape. Enjoy your visit!

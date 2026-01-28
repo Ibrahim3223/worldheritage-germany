@@ -32,7 +32,7 @@ As a destination, Künstlerdorf Schöppingen promises a thoughtful experience fo
 
 ## History and Significance
 
-Künstlerdorf Schöppingen was established as a foundation with the aim of nurturing artistic talent and promoting cultural exchange. While specific historical milestones may not be documented, the foundation has played a critical role in the local community by providing a platform for artists to create and showcase their work. The foundation’s significance is rooted in its mission to support both emerging and established artists, fostering an environment where creativity can flourish.
+Künstlerdorf Schöppingen was established as a foundation with the aim of nurturing artistic talent and promoting cultural exchange. While specific historical milestones may not be documented, the foundation has played a critical role in the local community by providing a platform for artists to create and showcase their work. The foundation's significance is rooted in its mission to support both emerging and established artists, fostering an environment where creativity can flourish.
 
 The cultural importance of Künstlerdorf Schöppingen resonates throughout the region. It has become a meeting point for artists, art lovers, and the general public, encouraging dialogue and collaboration. The foundation often hosts various events, workshops, and exhibitions that not only highlight the work of resident artists but also engage the local community. Through these initiatives, Künstlerdorf Schöppingen has helped bridge gaps between different artistic disciplines, promoting a diverse and inclusive approach to the arts.
 
@@ -78,7 +78,7 @@ To enhance your visit to Künstlerdorf Schöppingen, consider these insider tips
 
 ## Practical Information
 
-When visiting Künstlerdorf Schöppingen, it’s helpful to come prepared:
+When visiting Künstlerdorf Schöppingen, it's helpful to come prepared:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may be exploring both indoor and outdoor spaces. A notebook or sketchbook can be useful for artists seeking inspiration.
 

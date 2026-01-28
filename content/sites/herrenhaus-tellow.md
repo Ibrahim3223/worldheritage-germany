@@ -58,7 +58,7 @@ Getting to Herrenhaus Tellow is relatively straightforward, with various transpo
 
 Upon arrival, visitors can expect to find a welcoming atmosphere that encourages exploration. The manor house itself offers a unique opportunity to delve into the local heritage, with potential guided tours or informational displays available to enhance the experience. Be sure to verify the official website for current hours of operation and any associated fees for entry.
 
-To fully appreciate the manor and its surroundings, a visit may take a few hours, allowing ample time to wander the grounds and soak in the ambiance. The best times to visit may coincide with pleasant weather, which enhances the experience of exploring the estate’s outdoor spaces.
+To fully appreciate the manor and its surroundings, a visit may take a few hours, allowing ample time to wander the grounds and soak in the ambiance. The best times to visit may coincide with pleasant weather, which enhances the experience of exploring the estate's outdoor spaces.
 
 As you plan your visit, remember to consult the official website for the latest information regarding hours and prices, ensuring a smooth and enjoyable experience at Herrenhaus Tellow.
 
@@ -102,7 +102,7 @@ When preparing for your visit to Herrenhaus Tellow, keep the following practical
 A visit to Herrenhaus Tellow typically takes a few hours, allowing ample time to explore the manor, its grounds, and any exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for any restrictions upon arrival.
+Photography is generally permitted, but it's always best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, which may enhance your understanding of the manor's history and architecture.
@@ -117,9 +117,9 @@ Check the official website for specific accessibility options available at Herre
 For the most updated information on ticket purchasing, including online options, consult the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s advisable to check the official website for specific amenities.
+Facilities may be available, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably and in layers, especially if you plan to walk around the grounds, taking into account the weather conditions.
 
-As you plan your visit to Herrenhaus Tellow, prepare to engage with the history and charm of this remarkable heritage site, ensuring a memorable experience in Germany’s cultural landscape.
+As you plan your visit to Herrenhaus Tellow, prepare to engage with the history and charm of this remarkable heritage site, ensuring a memorable experience in Germany's cultural landscape.

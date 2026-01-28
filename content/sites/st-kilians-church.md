@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St. Kilian's Church, a prominent church building located in the heart of Heilbronn, Germany, is a captivating site that draws visitors with its architectural beauty and historical significance. This church is not only a spiritual center for the local community but also an important landmark that reflects the region’s cultural heritage. As you approach St. Kilian's Church, the striking facade and intricate details invite exploration, making it a worthwhile stop for anyone traveling through Heilbronn.
+St. Kilian's Church, a prominent church building located in the heart of Heilbronn, Germany, is a captivating site that draws visitors with its architectural beauty and historical significance. This church is not only a spiritual center for the local community but also an important landmark that reflects the region's cultural heritage. As you approach St. Kilian's Church, the striking facade and intricate details invite exploration, making it a worthwhile stop for anyone traveling through Heilbronn.
 
-Situated at the coordinates 49.1417, 9.21917, the church serves as a focal point in the city, surrounded by a blend of modern and historical architecture. Its significance extends beyond mere aesthetics; it stands as a representation of the community’s faith and resilience over the centuries. Visitors can expect a serene atmosphere, where the echoes of prayers and hymns resonate within its sacred walls. 
+Situated at the coordinates 49.1417, 9.21917, the church serves as a focal point in the city, surrounded by a blend of modern and historical architecture. Its significance extends beyond mere aesthetics; it stands as a representation of the community's faith and resilience over the centuries. Visitors can expect a serene atmosphere, where the echoes of prayers and hymns resonate within its sacred walls. 
 
 Whether you're a history enthusiast, an architecture aficionado, or simply seeking a moment of reflection, St. Kilian's Church promises an enriching experience. Its storied past and striking design beckon exploration, encouraging visitors to delve deeper into the cultural fabric of Heilbronn.
 
@@ -36,7 +36,7 @@ Whether you're a history enthusiast, an architecture aficionado, or simply seeki
 
 St. Kilian's Church has played a vital role in the spiritual and cultural life of Heilbronn. While specific dates regarding its establishment are not documented, the church is widely recognized as a significant site for worship and community gatherings. It is named after Saint Kilian, an influential figure in the Christian tradition known for his missionary work in the region during the early centuries. His legacy continues to inspire the local community and visitors alike.
 
-Through the ages, St. Kilian’s Church has witnessed numerous historical events that have shaped the city of Heilbronn. The church has served as a place of refuge during turbulent times and as a gathering point for major communal celebrations. Its role extends beyond religious practices; it encompasses the essence of community spirit and the shared values of the people in the region.
+Through the ages, St. Kilian's Church has witnessed numerous historical events that have shaped the city of Heilbronn. The church has served as a place of refuge during turbulent times and as a gathering point for major communal celebrations. Its role extends beyond religious practices; it encompasses the essence of community spirit and the shared values of the people in the region.
 
 The architectural style of the church reflects the periods of its construction and renovation, showcasing the evolution of ecclesiastical design in Germany. Elements of Gothic and Romanesque architecture can be observed, illustrating the artistic trends that influenced its development. St. Kilian's Church not only serves as a house of worship but also as a historical archive, preserving the stories and memories of generations.
 
@@ -54,7 +54,7 @@ Noteworthy is the altar area, which serves as the focal point for services and c
 
 ## Visiting Information
 
-When planning a visit to St. Kilian's Church, it’s essential to consider accessibility and transport options. The church is centrally located in Heilbronn, making it easily reachable by public transport. Visitors can take local buses or trams that connect various points in the city, with stops conveniently located near the church.
+When planning a visit to St. Kilian's Church, it's essential to consider accessibility and transport options. The church is centrally located in Heilbronn, making it easily reachable by public transport. Visitors can take local buses or trams that connect various points in the city, with stops conveniently located near the church.
 
 Check the official website for current information regarding opening hours and any potential admission fees. While the church typically welcomes visitors throughout the week, specific hours may vary, especially during religious services or special events. It is advisable to plan your visit accordingly to ensure access.
 

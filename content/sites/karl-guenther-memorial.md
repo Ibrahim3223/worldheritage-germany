@@ -50,7 +50,7 @@ The layout of the memorial may also be designed to facilitate a respectful visit
 
 Visiting the Karl-Günther memorial can be a meaningful addition to your itinerary in Thuringia. The site is accessible by various modes of transportation, making it convenient for travelers. Whether you choose to drive or utilize public transport, reaching the memorial is generally straightforward. 
 
-Check the official website for current information regarding hours and admission prices, as these can vary depending on seasonal factors or special events. It’s advisable to allocate sufficient time to explore the memorial fully, allowing for reflection and possibly a guided tour if available.
+Check the official website for current information regarding hours and admission prices, as these can vary depending on seasonal factors or special events. It's advisable to allocate sufficient time to explore the memorial fully, allowing for reflection and possibly a guided tour if available.
 
 The best times to visit often align with pleasant weather, as this can enhance your experience. Early mornings or late afternoons may provide a quieter atmosphere, allowing for a more personal encounter with the memorial. Remember to check local events, as they may offer unique opportunities to engage with the site's significance.
 
@@ -94,7 +94,7 @@ When planning your visit to the Karl-Günther memorial, keep these practical con
 A visit to the Karl-Günther memorial typically takes about 1-2 hours, allowing time for reflection and exploration. 
 
 ### Is photography allowed?
-Photography policies can vary, so it’s advisable to check for any specific guidelines upon arrival.
+Photography policies can vary, so it's advisable to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available and to learn more about the history and significance of the memorial.
@@ -103,7 +103,7 @@ Check the official website for information on whether guided tours are available
 Early mornings or late afternoons on weekdays often provide a more tranquil experience, away from larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility may vary, so it’s important to check the official website for information regarding wheelchair access and facilities.
+Accessibility may vary, so it's important to check the official website for information regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, as this can change based on the season or special events.

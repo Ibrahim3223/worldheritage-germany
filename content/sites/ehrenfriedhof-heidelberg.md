@@ -61,7 +61,7 @@ Reaching Ehrenfriedhof is convenient due to its location within the city of Heid
 Ehrenfriedhof Heidelberg is located in close proximity to several other noteworthy attractions that enhance the overall experience of visiting the area. Some nearby sites include:
 
 1. **Heidelberg Castle**: A historic ruin that dominates the city skyline, offering panoramic views and a glimpse into the region's past.
-2. **Philosopher’s Walk**: A picturesque path that provides stunning views of the river and city, ideal for leisurely strolls.
+2. **Philosopher's Walk**: A picturesque path that provides stunning views of the river and city, ideal for leisurely strolls.
 3. **Old Bridge**: An iconic structure that connects different parts of Heidelberg and showcases beautiful architectural design.
 4. **Heidelberg University**: One of Germany's oldest universities, known for its historical significance and beautiful campus.
 5. **Church of the Holy Spirit**: A prominent church in the heart of the city, featuring stunning architecture and a rich history.

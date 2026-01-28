@@ -68,7 +68,7 @@ While visiting Disibodenberg, several nearby attractions may complement your exp
 
 To make the most of your visit to Disibodenberg, consider a few insider tips. For photography enthusiasts, early morning or late afternoon light is often the most flattering for capturing the site's architectural features. Additionally, visiting on weekdays may help you avoid larger crowds, allowing for a more serene experience.
 
-If you're interested in guided tours, check the official website for any scheduled programs that may enhance your understanding of the site's history. Always be respectful of the monastery’s tranquil atmosphere, ensuring that your visit aligns with its spiritual significance.
+If you're interested in guided tours, check the official website for any scheduled programs that may enhance your understanding of the site's history. Always be respectful of the monastery's tranquil atmosphere, ensuring that your visit aligns with its spiritual significance.
 
 ## Practical Information
 
@@ -102,6 +102,6 @@ Visit the official website for details on ticket purchasing options.
 Facilities may be limited; check the official website for the latest information.
 
 ### What should I wear?
-Comfortable clothing and shoes are recommended, considering the site’s terrain and weather conditions. 
+Comfortable clothing and shoes are recommended, considering the site's terrain and weather conditions. 
 
 Disibodenberg stands as a significant site for anyone interested in the confluence of history, spirituality, and architecture, making it a worthwhile addition to your travel itinerary in Germany.

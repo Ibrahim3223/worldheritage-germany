@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Staatstheater Nürnberg, an eminent theatre building located in the heart of Nuremberg, Germany, serves as a vibrant cultural hub that plays a significant role in the region’s artistic scene. Known for its diverse programming that includes opera, ballet, and theatre, this venue attracts both locals and visitors alike, creating a lively atmosphere filled with the magic of performing arts. The theatre's location in Nuremberg adds a layer of cultural richness, as the city itself is steeped in historical significance, offering visitors a blend of history and modernity.
+Staatstheater Nürnberg, an eminent theatre building located in the heart of Nuremberg, Germany, serves as a vibrant cultural hub that plays a significant role in the region's artistic scene. Known for its diverse programming that includes opera, ballet, and theatre, this venue attracts both locals and visitors alike, creating a lively atmosphere filled with the magic of performing arts. The theatre's location in Nuremberg adds a layer of cultural richness, as the city itself is steeped in historical significance, offering visitors a blend of history and modernity.
 
-As you approach the Staatstheater Nürnberg, the building’s architectural presence commands attention, hinting at the artistic experiences that await inside. The theatre not only showcases a repertoire of classical and contemporary performances but also embodies the spirit of collaboration and innovation within the arts community. Whether you are a seasoned theatre-goer or a curious first-time visitor, the Staatstheater Nürnberg promises an engaging experience that reflects the cultural vibrancy of Nuremberg.
+As you approach the Staatstheater Nürnberg, the building's architectural presence commands attention, hinting at the artistic experiences that await inside. The theatre not only showcases a repertoire of classical and contemporary performances but also embodies the spirit of collaboration and innovation within the arts community. Whether you are a seasoned theatre-goer or a curious first-time visitor, the Staatstheater Nürnberg promises an engaging experience that reflects the cultural vibrancy of Nuremberg.
 
 ## History and Significance
 
@@ -82,7 +82,7 @@ Seasonal considerations can also affect your experience. Check the theatre's cal
 A visit typically lasts a few hours, including the performance and any pre-show activities.
 
 ### Is photography allowed?
-Photography is generally not permitted during performances, but you can capture images of the theatre’s exterior and lobby.
+Photography is generally not permitted during performances, but you can capture images of the theatre's exterior and lobby.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours of the theatre, which may be available on select days.

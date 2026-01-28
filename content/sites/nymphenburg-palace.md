@@ -36,7 +36,7 @@ Nymphenburg Palace was originally commissioned as a summer retreat for the Elect
 
 Throughout its history, Nymphenburg has witnessed numerous significant events. The palace served as the birthplace of several Bavarian kings, including Ludwig I, who would later transform Munich into a cultural hub. The royal family often hosted lavish gatherings and ceremonies, making the palace a center of political and cultural activity. The palace grounds themselves were meticulously designed, featuring elaborate gardens, fountains, and sculptures that symbolize the power and prestige of the Wittelsbach family.
 
-In the 19th century, the palace underwent significant modifications, with the addition of several wings and buildings that enhanced its opulence. Today, Nymphenburg Palace stands not only as a museum but also as a testament to Bavaria’s royal history. The collections housed within its walls include exquisite works of art, porcelain, and historical artifacts, making it an essential destination for those wishing to understand the region’s past.
+In the 19th century, the palace underwent significant modifications, with the addition of several wings and buildings that enhanced its opulence. Today, Nymphenburg Palace stands not only as a museum but also as a testament to Bavaria's royal history. The collections housed within its walls include exquisite works of art, porcelain, and historical artifacts, making it an essential destination for those wishing to understand the region's past.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ Accessing Nymphenburg Palace is straightforward, with public transport options a
 
 Check the official website for current information regarding opening hours and admission prices, as these can vary seasonally. It is advisable to plan for at least two to three hours to fully appreciate both the interior of the palace and its expansive gardens. For those looking to avoid crowds, visiting during weekdays is often recommended, particularly in the morning or later in the afternoon when the visitor numbers tend to dwindle.
 
-Make sure to wear comfortable shoes, as the grounds are extensive and worth exploring. Whether you choose to wander through the lavish gardens or delve into the museum’s rich collections, Nymphenburg Palace offers an enriching experience for all.
+Make sure to wear comfortable shoes, as the grounds are extensive and worth exploring. Whether you choose to wander through the lavish gardens or delve into the museum's rich collections, Nymphenburg Palace offers an enriching experience for all.
 
 ## Nearby Attractions
 

@@ -100,7 +100,7 @@ When planning your visit to Achteinhalb, here are some practical considerations:
 A typical visit to Achteinhalb for a film screening may take around 2-3 hours, including time for refreshments or pre-movie discussions.
 
 ### Is photography allowed?
-Photography policies may vary, especially during screenings. It’s advisable to check with the staff or official website for specific guidelines.
+Photography policies may vary, especially during screenings. It's advisable to check with the staff or official website for specific guidelines.
 
 ### Are there guided tours?
 Achteinhalb primarily focuses on film screenings, and guided tours may not be offered. For detailed inquiries, check the official website.
@@ -120,4 +120,4 @@ Yes, Achteinhalb typically has restroom facilities and may offer concessions for
 ### What should I wear?
 Casual attire is generally appropriate for a visit to Achteinhalb. Comfort is key, especially if you plan to enjoy a long film.
 
-In conclusion, Achteinhalb stands as a significant cultural venue in Saarbrücken, inviting audiences to engage with cinema in a meaningful way. Whether you’re drawn by the films, the atmosphere, or the community, your visit to this cinema promises to be enriching and enjoyable.
+In conclusion, Achteinhalb stands as a significant cultural venue in Saarbrücken, inviting audiences to engage with cinema in a meaningful way. Whether you're drawn by the films, the atmosphere, or the community, your visit to this cinema promises to be enriching and enjoyable.

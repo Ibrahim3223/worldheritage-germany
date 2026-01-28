@@ -82,11 +82,11 @@ To make the most of your visit to Museum Villa Stahmer, consider these insider t
 
 ## Practical Information
 
-When visiting Museum Villa Stahmer, it’s helpful to keep a few practical considerations in mind:
+When visiting Museum Villa Stahmer, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable shoes are recommended, as you may be walking and standing for extended periods. A notebook or sketchbook can be useful for jotting down thoughts or impressions from your visit.
 
-- **Seasonal Considerations**: The museum is likely to have different exhibits and programs depending on the season, so it’s worth checking out what’s on display during your visit. Additionally, weather conditions may influence your travel plans, so dress accordingly.
+- **Seasonal Considerations**: The museum is likely to have different exhibits and programs depending on the season, so it's worth checking out what's on display during your visit. Additionally, weather conditions may influence your travel plans, so dress accordingly.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ When visiting Museum Villa Stahmer, it’s helpful to keep a few practical consi
 Most visitors find that spending about two to three hours at the museum allows enough time to explore the exhibits and engage with any programming.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding any restrictions on taking photos of the exhibits.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding any restrictions on taking photos of the exhibits.
 
 ### Are there guided tours?
 Guided tours may be available at certain times. Check the official website for information on scheduling and any associated costs.
@@ -103,7 +103,7 @@ Guided tours may be available at certain times. Check the official website for i
 Weekdays tend to be less crowded, providing a more intimate experience. Additionally, checking the museum's calendar for special events can enhance your visit.
 
 ### Is it wheelchair accessible?
-Accessibility information is typically available on the museum's official website. It’s advisable to confirm before your visit if you have specific accessibility needs.
+Accessibility information is typically available on the museum's official website. It's advisable to confirm before your visit if you have specific accessibility needs.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for details on online sales and any discounts that may be available.

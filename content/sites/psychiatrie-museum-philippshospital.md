@@ -44,7 +44,7 @@ Notable features of the museum include interactive exhibits that invite visitors
 
 When planning a visit to the Psychiatrie-Museum Philippshospital, it is advisable to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. The museum is accessible via public transport, making it convenient for visitors traveling from nearby cities or regions.
 
-Upon arrival, expect to spend approximately two hours exploring the museum’s various exhibits. This timeframe allows for a thorough engagement with the displays and the opportunity to reflect on the information presented. The museum's atmosphere is typically calm, providing a contemplative space for visitors to absorb the historical narratives.
+Upon arrival, expect to spend approximately two hours exploring the museum's various exhibits. This timeframe allows for a thorough engagement with the displays and the opportunity to reflect on the information presented. The museum's atmosphere is typically calm, providing a contemplative space for visitors to absorb the historical narratives.
 
 For the best experience, consider visiting during weekdays, as weekends may attract larger crowds. Additionally, if you have specific interests in certain aspects of psychiatric history, check for any special exhibitions or events that may be taking place during your visit, as these can enhance your overall experience.
 
@@ -88,7 +88,7 @@ Before heading to the Psychiatrie-Museum Philippshospital, keep the following pr
 A visit typically takes about two hours, allowing ample time to explore the exhibits and reflect on the information presented.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival or refer to the official website for guidance.
+Photography policies may vary, so it's best to check with museum staff upon arrival or refer to the official website for guidance.
 
 ### Are there guided tours?
 The museum may offer guided tours. Check the official website for details on availability and scheduling.

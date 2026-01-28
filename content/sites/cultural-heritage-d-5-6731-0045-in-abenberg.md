@@ -32,7 +32,7 @@ The fortification D-5-6731-0045 is a cultural heritage monument that encapsulate
 
 Located in Landkreis Roth, this fortification reflects the broader historical narrative of Bavaria, a region that has seen significant political and military developments throughout the centuries. The fortification stands as a reminder of the medieval period, when such structures were not merely architectural feats but essential components of societal security.
 
-The significance of D-5-6731-0045 extends beyond its military function; it serves as a cultural touchstone for the local community. The fortification represents the collective memory of the region's inhabitants and contributes to the area’s identity. As an enduring symbol of resilience, it invites visitors to ponder the historical context that shaped the present-day landscape of Abenberg and its surroundings.
+The significance of D-5-6731-0045 extends beyond its military function; it serves as a cultural touchstone for the local community. The fortification represents the collective memory of the region's inhabitants and contributes to the area's identity. As an enduring symbol of resilience, it invites visitors to ponder the historical context that shaped the present-day landscape of Abenberg and its surroundings.
 
 ## Architecture and Features
 

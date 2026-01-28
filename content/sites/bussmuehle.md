@@ -50,7 +50,7 @@ The surrounding area of Bussmühle enhances the overall experience, providing a 
 
 ## Visiting Information
 
-Visiting Bussmühle offers an engaging opportunity to connect with history and heritage. The windmill’s location in Krefeld is accessible via various modes of transport, making it easy for visitors to plan their trips. Whether you arrive by car, public transport, or on foot, the windmill is positioned conveniently for exploration.
+Visiting Bussmühle offers an engaging opportunity to connect with history and heritage. The windmill's location in Krefeld is accessible via various modes of transport, making it easy for visitors to plan their trips. Whether you arrive by car, public transport, or on foot, the windmill is positioned conveniently for exploration.
 
 As for operational details, it is advisable to check the official website for current information regarding hours, prices, and any special events that may be taking place. This will ensure that you have the most up-to-date information for your visit.
 

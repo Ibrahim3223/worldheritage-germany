@@ -54,7 +54,7 @@ The Museum am Dom is ideally situated near several other attractions that enhanc
 
 1. **St. Mary's Church (Marienkirche)**: A short walk from the museum, this impressive Gothic church is known for its stunning architecture and historical significance.
 
-2. **Lübeck’s Old Town (Altstadt)**: A UNESCO World Heritage Site, the Old Town features beautifully preserved medieval buildings and charming streets, offering a delightful area for exploration.
+2. **Lübeck's Old Town (Altstadt)**: A UNESCO World Heritage Site, the Old Town features beautifully preserved medieval buildings and charming streets, offering a delightful area for exploration.
 
 3. **Holstentor (Holsten Gate)**: This iconic city gate, a symbol of Lübeck, showcases the city's medieval fortifications and is an excellent photo opportunity.
 

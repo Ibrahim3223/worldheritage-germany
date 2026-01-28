@@ -84,22 +84,22 @@ Seasonal considerations include checking the weather, as Munich experiences vari
 A visit to Asamkirche typically takes about an hour, allowing time for reflection and appreciation of the artistic details.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s best to be respectful of other visitors and worshippers.
+Photography is generally permitted inside the church, but it's best to be respectful of other visitors and worshippers.
 
 ### Are there guided tours?
-While there may be self-guided options, it’s advisable to check the official website for information on any available guided tours.
+While there may be self-guided options, it's advisable to check the official website for information on any available guided tours.
 
 ### What's the best time to visit?
 Weekdays, especially in the morning, are often the best times to visit to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-The accessibility details may vary; it’s recommended to check the official website for specific information regarding wheelchair access.
+The accessibility details may vary; it's recommended to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchases and any potential fees.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check the official website for information on nearby amenities.
+Facilities may vary, so it's best to check the official website for information on nearby amenities.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, as Asamkirche is a place of worship. Comfortable footwear is also recommended. 

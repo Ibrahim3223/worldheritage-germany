@@ -74,7 +74,7 @@ Be mindful of peak tourist seasons, especially during summer weekends, when the 
 
 ## Practical Information
 
-When planning your visit to the Roman Baths, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended due to the park's expansive nature, as well as a refillable water bottle, especially on warmer days. A light jacket may be useful during cooler months or evenings.
+When planning your visit to the Roman Baths, it's advisable to bring a few essentials. Comfortable walking shoes are recommended due to the park's expansive nature, as well as a refillable water bottle, especially on warmer days. A light jacket may be useful during cooler months or evenings.
 
 Seasonal considerations are important when planning your visit. The park is beautiful year-round, but spring and fall offer particularly pleasant weather and vibrant scenery. Be aware that the site may have altered hours during public holidays or special events, so checking the official website prior to your visit is a wise decision.
 

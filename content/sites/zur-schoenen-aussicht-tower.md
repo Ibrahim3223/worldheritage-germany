@@ -105,7 +105,7 @@ While specific guided tours may not be offered for the tower itself, the Heide-P
 The best time to visit is during the park's operating season, typically from spring to autumn, with weekdays often being less crowded.
 
 ### Is it wheelchair accessible?
-While specific accessibility information is not provided, many amusement parks strive to accommodate visitors with mobility challenges. It’s best to check the official website for detailed accessibility options.
+While specific accessibility information is not provided, many amusement parks strive to accommodate visitors with mobility challenges. It's best to check the official website for detailed accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases, as this can streamline your entry process.

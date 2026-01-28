@@ -108,6 +108,6 @@ For the most convenient experience, check the official website for options regar
 Facilities for restrooms and potential cafes may be available. Check the museum's website or inquire upon arrival for the most current information.
 
 ### What should I wear?
-Dress comfortably and appropriately for the season, as you’ll likely be walking and standing during your visit. Layering is advisable for changes in indoor and outdoor temperatures. 
+Dress comfortably and appropriately for the season, as you'll likely be walking and standing during your visit. Layering is advisable for changes in indoor and outdoor temperatures. 
 
 Visiting the German Museum of Books and Writing in Leipzig is a rewarding experience that offers insight into the fascinating world of literature and written communication. With its engaging displays and thoughtful approach to education, the museum is a must-see for anyone interested in the art and history of writing.

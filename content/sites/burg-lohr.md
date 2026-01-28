@@ -38,7 +38,7 @@ Burg Lohr is characterized by a blend of medieval architectural styles that high
 
 Notable features may include battlements and parapets, which not only served protective purposes but also added to the castle's imposing appearance. The layout of Burg Lohr could reveal insights into the lifestyle of its inhabitants, with designated areas for living quarters, storage, and possibly even communal spaces for gatherings. 
 
-The castle’s walls, which have withstood the test of time, offer a glimpse into the building techniques used during its construction. The choice of materials and architectural innovations of the period are reflected in its enduring structure. As visitors explore the grounds, they can appreciate the craftsmanship that has preserved Burg Lohr through the ages.
+The castle's walls, which have withstood the test of time, offer a glimpse into the building techniques used during its construction. The choice of materials and architectural innovations of the period are reflected in its enduring structure. As visitors explore the grounds, they can appreciate the craftsmanship that has preserved Burg Lohr through the ages.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ The best times to visit Burg Lohr might align with local festivals or events tha
 
 Burg Lohr is ideally situated within a region rich in cultural and historical landmarks. Nearby attractions can enhance your visit and offer additional insights into the local heritage. 
 
-1. **Crailsheim**: This town serves as a gateway to the region’s history, with numerous sites worth exploring, including local museums and historical buildings.
+1. **Crailsheim**: This town serves as a gateway to the region's history, with numerous sites worth exploring, including local museums and historical buildings.
   
 2. **Schloss Jagsthausen**: Another castle nearby, this site offers a different perspective on regional architecture and history, making it a worthwhile addition to your itinerary.
 

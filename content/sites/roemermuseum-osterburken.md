@@ -64,7 +64,7 @@ While the Römermuseum Osterburken is a highlight in itself, several nearby attr
 
 2. **Osterburken Town Center**: A charming area filled with local shops and cafes, perfect for a leisurely stroll after your museum visit.
 
-3. **Roman Ruins of Osterburken**: Explore the remnants of ancient Roman structures that can be found in the vicinity, offering a direct connection to the history you’ve just learned about in the museum.
+3. **Roman Ruins of Osterburken**: Explore the remnants of ancient Roman structures that can be found in the vicinity, offering a direct connection to the history you've just learned about in the museum.
 
 4. **Schloss Eberstadt**: A short drive away, this castle offers a glimpse into the region's medieval history and scenic grounds to explore.
 

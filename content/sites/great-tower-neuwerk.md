@@ -3,7 +3,7 @@ title: "Great Tower Neuwerk"
 site_name: "Great Tower Neuwerk"
 date: 2026-01-26
 draft: false
-description: "Perched on the Elbe River’s banks, the Great Tower Neuwerk stands as a historical lighthouse, once serving as a beacon and watchtower."
+description: "Perched on the Elbe River's banks, the Great Tower Neuwerk stands as a historical lighthouse, once serving as a beacon and watchtower."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Lighthouse"
@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Perched on the Elbe River’s banks, the Great Tower Neuwerk stands as a historical lighthouse, once serving as a beacon and watchtower. Located in the Hamburg-Mitte district of Germany, this structure is not merely a navigational aid but a significant landmark steeped in maritime history. Its historical relevance extends beyond its original purpose, reflecting the evolution of lighthouse technology and coastal defense over the centuries. 
+Perched on the Elbe River's banks, the Great Tower Neuwerk stands as a historical lighthouse, once serving as a beacon and watchtower. Located in the Hamburg-Mitte district of Germany, this structure is not merely a navigational aid but a significant landmark steeped in maritime history. Its historical relevance extends beyond its original purpose, reflecting the evolution of lighthouse technology and coastal defense over the centuries. 
 
 Visitors to Neuwerk can expect a journey that intertwines history with scenic coastal elements, making it an enriching stop for those exploring the maritime heritage of Hamburg. While the tower may be an architectural relic, it continues to draw interest for its unique positioning and historical context, inviting both casual tourists and history enthusiasts to explore its storied past.
 
 ## History and Significance
 
-The Great Tower Neuwerk was constructed as a multifunctional structure serving as a beacon, watchtower, and lighthouse. Its primary role was to assist vessels navigating the treacherous waters of the Elbe River, which is crucial for maritime traffic in the region. The tower’s strategic location highlights its importance in ensuring safe passage through the river, which is one of Europe’s busiest waterways.
+The Great Tower Neuwerk was constructed as a multifunctional structure serving as a beacon, watchtower, and lighthouse. Its primary role was to assist vessels navigating the treacherous waters of the Elbe River, which is crucial for maritime traffic in the region. The tower's strategic location highlights its importance in ensuring safe passage through the river, which is one of Europe's busiest waterways.
 
 Historically, lighthouses like Neuwerk were essential for maritime safety, providing guidance to sailors and preventing shipwrecks in foggy or stormy conditions. The Great Tower Neuwerk's significance is amplified by its role in coastal defense, especially during periods of conflict when protection against potential naval threats was paramount. The tower's operational history reflects advancements in lighthouse technology and changes in maritime navigation practices.
 
@@ -99,7 +99,7 @@ Accessibility options may vary; check the official website for details regarding
 Check the official website for the option to purchase tickets online and to confirm current pricing.
 
 ### Are there restrooms and cafes?
-Amenities may be limited; it’s best to check the official website for available facilities near the site.
+Amenities may be limited; it's best to check the official website for available facilities near the site.
 
 ### What should I wear?
 Dress comfortably, considering the weather conditions, and wear sturdy shoes for walking.

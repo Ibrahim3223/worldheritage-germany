@@ -46,7 +46,7 @@ Inside, the church is likely adorned with beautiful stained glass windows, woode
 
 Accessibility to the Evangelische Kirche is straightforward, with various transport options available for visitors. Whether you arrive by car or public transport, the church's location makes it an easy stop for those exploring the Wehen area. It is advisable to check the official website for current information regarding visiting hours and any potential entrance fees, as these details can vary throughout the year.
 
-When visiting, plan to spend at least an hour to fully appreciate the church’s architecture and the peaceful atmosphere. The best times to visit are often during weekdays when it is less crowded, allowing for a more personal experience. If you are interested in attending a service or participating in local events, check the church's calendar for special occasions that might coincide with your visit.
+When visiting, plan to spend at least an hour to fully appreciate the church's architecture and the peaceful atmosphere. The best times to visit are often during weekdays when it is less crowded, allowing for a more personal experience. If you are interested in attending a service or participating in local events, check the church's calendar for special occasions that might coincide with your visit.
 
 ## Nearby Attractions
 

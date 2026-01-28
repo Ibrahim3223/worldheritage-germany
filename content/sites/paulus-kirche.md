@@ -72,7 +72,7 @@ The vicinity of Paulus-Kirche offers several attractions that complement a visit
 
 For photography enthusiasts, the Paulus-Kirche provides ample opportunities to capture its architectural beauty. Early mornings or late afternoons can offer soft lighting conditions for striking photographs. Be mindful of any ongoing services or events, as they may affect your ability to take photos.
 
-To avoid crowds, consider visiting during off-peak hours, especially on weekdays. Engaging with the local community events can also enhance your experience and provide unique insights into the church’s role within the neighborhood.
+To avoid crowds, consider visiting during off-peak hours, especially on weekdays. Engaging with the local community events can also enhance your experience and provide unique insights into the church's role within the neighborhood.
 
 ## Practical Information
 

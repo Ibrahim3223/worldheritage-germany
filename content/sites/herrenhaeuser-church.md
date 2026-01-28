@@ -103,7 +103,7 @@ Information regarding guided tours may vary. Check the official website for deta
 For a quieter experience, consider visiting on weekdays or during off-peak hours. Early mornings or late afternoons may offer a more tranquil atmosphere.
 
 ### Is it wheelchair accessible?
-Information regarding accessibility may vary. It’s best to check the official website or contact the church for specific details concerning wheelchair access.
+Information regarding accessibility may vary. It's best to check the official website or contact the church for specific details concerning wheelchair access.
 
 ### Can I buy tickets online?
 For the latest information regarding ticket purchasing options, check the official website to see if online tickets are available.

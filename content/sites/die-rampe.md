@@ -50,7 +50,7 @@ As you approach Die Rampe, take note of the surrounding environment, which may e
 
 ## Visiting Information
 
-When planning a visit to Die Rampe, it's essential to consider transportation options to ensure a smooth journey. Given its location in Kassel, visitors can access the monument via public transport or by car. The city’s well-connected public transport system can help you reach Die Rampe conveniently.
+When planning a visit to Die Rampe, it's essential to consider transportation options to ensure a smooth journey. Given its location in Kassel, visitors can access the monument via public transport or by car. The city's well-connected public transport system can help you reach Die Rampe conveniently.
 
 For the latest information regarding visiting hours, ticket prices, and any special events, check the official website before your trip. This will provide you with the most current details to enhance your visit.
 
@@ -64,9 +64,9 @@ The best times to visit Die Rampe are during the spring and autumn months, when 
 
 2. **Schloss Wilhelmshöhe**: Close to the park, this historic castle houses an art museum with works by masters such as Rembrandt and Rubens.
 
-3. **Documenta**: If your visit coincides with this contemporary art exhibition held every five years, you can experience Kassel’s vibrant arts scene.
+3. **Documenta**: If your visit coincides with this contemporary art exhibition held every five years, you can experience Kassel's vibrant arts scene.
 
-4. **Orangerie**: This beautiful baroque palace and its gardens offer a peaceful retreat and are an excellent addition to your exploration of Kassel’s cultural sites.
+4. **Orangerie**: This beautiful baroque palace and its gardens offer a peaceful retreat and are an excellent addition to your exploration of Kassel's cultural sites.
 
 5. **Karlsaue Park**: A lovely park that features picturesque walking paths and a variety of plant species, perfect for a leisurely stroll after visiting Die Rampe.
 

@@ -34,7 +34,7 @@ Located at the coordinates 52.5906, 11.8381, the church is easily accessible, ma
 
 The history of the Alte Dorfkirche Röxe is intimately connected to the development of the surrounding area. This church building has been a focal point for the local community, serving as a spiritual sanctuary and social gathering place. Its establishment reflects the religious and cultural shifts that have occurred in Germany over the centuries, particularly in rural areas where faith often plays a central role in daily life.
 
-While specific dates regarding its founding or significant renovations may not be readily available, the church’s existence is indicative of the enduring nature of local traditions and the importance of communal spaces in nurturing social bonds. The building itself has likely witnessed numerous milestones in the village’s history, from celebrations and festivals to moments of sorrow and reflection. As such, it stands not merely as a structure but rather as a living monument to the evolving narrative of its community.
+While specific dates regarding its founding or significant renovations may not be readily available, the church's existence is indicative of the enduring nature of local traditions and the importance of communal spaces in nurturing social bonds. The building itself has likely witnessed numerous milestones in the village's history, from celebrations and festivals to moments of sorrow and reflection. As such, it stands not merely as a structure but rather as a living monument to the evolving narrative of its community.
 
 The church is also significant in the context of the broader religious landscape of Germany. It serves as a reminder of the diverse expressions of faith that have shaped the country, particularly in Protestant traditions. The church continues to hold services and community events, fostering a sense of belonging and continuity among its congregants. 
 
@@ -46,13 +46,13 @@ The architectural style of the Alte Dorfkirche Röxe exemplifies simplicity and 
 
 While specific architectural details are not provided, church buildings of this type often feature elements such as a steeple or bell tower, providing a focal point for the village skyline. Inside, one might expect to find a nave with wooden pews, an altar, and possibly stained glass windows that enrich the interior with colorful light, enhancing the spiritual atmosphere.
 
-The church’s design not only serves practical purposes but also reflects the community's values and beliefs. Its unpretentious exterior may conceal a wealth of history and artistic details that invite exploration. Visitors are encouraged to observe any unique features that may distinguish the Alte Dorfkirche Röxe from other churches in the region.
+The church's design not only serves practical purposes but also reflects the community's values and beliefs. Its unpretentious exterior may conceal a wealth of history and artistic details that invite exploration. Visitors are encouraged to observe any unique features that may distinguish the Alte Dorfkirche Röxe from other churches in the region.
 
 ## Visiting Information
 
 Visiting the Alte Dorfkirche Röxe offers travelers a chance to immerse themselves in the local culture and history. The church is accessible by various modes of transportation, making it a convenient stop for those exploring the Stendal region.
 
-When planning your visit, be sure to check the official website for current information regarding hours of operation and any potential entry fees. While the church may not require an admission ticket, it’s always best to be informed about any specific visiting guidelines or events taking place.
+When planning your visit, be sure to check the official website for current information regarding hours of operation and any potential entry fees. While the church may not require an admission ticket, it's always best to be informed about any specific visiting guidelines or events taking place.
 
 Expect to spend at least an hour exploring the church and its surroundings. This allows ample time for reflection, photography, and perhaps engaging with any local volunteers or clergy who may be present. The best times to visit might be during community events or services, which can provide deeper insight into the church's role within the village.
 
@@ -92,7 +92,7 @@ Check the official website for any specific recommendations about what to bring,
 Around one hour is recommended to fully appreciate the church and its surroundings, but feel free to extend your visit if you wish to engage more deeply with the space.
 
 ### Is photography allowed?
-Generally, photography is permitted, but it’s courteous to check for any specific guidelines or restrictions when you arrive.
+Generally, photography is permitted, but it's courteous to check for any specific guidelines or restrictions when you arrive.
 
 ### Are there guided tours?
 Guided tours may not be regularly available, but local volunteers or clergy might provide informal insights during your visit.

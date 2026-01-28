@@ -72,7 +72,7 @@ Each of these locations enhances the overall experience of visiting St. Theresia
 
 ## Insider Tips
 
-For those looking to capture the essence of St. Theresia vom Kinde Jesu through photography, early morning light can create beautiful images of the church’s exterior. Interior photography may also yield stunning results, particularly during services when the ambiance is heightened.
+For those looking to capture the essence of St. Theresia vom Kinde Jesu through photography, early morning light can create beautiful images of the church's exterior. Interior photography may also yield stunning results, particularly during services when the ambiance is heightened.
 
 To avoid crowds, consider visiting during the week or at off-peak hours. Engaging with the local community during quieter times can provide a more intimate experience and allow for personal reflection.
 
@@ -90,7 +90,7 @@ A visit to St. Theresia vom Kinde Jesu typically takes about an hour, allowing e
 
 ### Is photography allowed?
 
-Photography is generally permitted, but it’s advisable to be respectful of any ongoing services or private events.
+Photography is generally permitted, but it's advisable to be respectful of any ongoing services or private events.
 
 ### Are there guided tours?
 

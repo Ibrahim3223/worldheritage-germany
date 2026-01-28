@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-At the heart of Berlin, the National Gallery serves as a vital institution for art lovers and history enthusiasts alike. This distinguished museum, dedicated to the art of Germany, offers a unique glimpse into the nation’s cultural evolution through its extensive collection. Located in an area rich with historical significance, the gallery is an essential stop for anyone looking to deepen their understanding of German artistry from its inception to contemporary expressions. Visitors can anticipate a curated experience that reflects the diversity and depth of artistic movements pertinent to the country.
+At the heart of Berlin, the National Gallery serves as a vital institution for art lovers and history enthusiasts alike. This distinguished museum, dedicated to the art of Germany, offers a unique glimpse into the nation's cultural evolution through its extensive collection. Located in an area rich with historical significance, the gallery is an essential stop for anyone looking to deepen their understanding of German artistry from its inception to contemporary expressions. Visitors can anticipate a curated experience that reflects the diversity and depth of artistic movements pertinent to the country.
 
 The National Gallery not only houses a vast array of artworks but also contributes to the broader discourse on art and culture within Germany and beyond. As you navigate through its halls, the gallery promises to engage your senses and intellect, inviting you to ponder the narratives behind the masterpieces on display. 
 
@@ -48,7 +48,7 @@ As you stroll through the gallery, take note of the various installations and ho
 
 ## Visiting Information
 
-Located in the vibrant city of Berlin, the National Gallery is accessible via various modes of transport, including public transit options. Whether you're traveling by bus, tram, or underground, you’ll find that reaching the gallery is straightforward. 
+Located in the vibrant city of Berlin, the National Gallery is accessible via various modes of transport, including public transit options. Whether you're traveling by bus, tram, or underground, you'll find that reaching the gallery is straightforward. 
 
 Before planning your visit, it is advisable to check the official website for current information regarding hours of operation and ticket prices. This will ensure you have the most up-to-date details, as visiting times can vary based on the season or special events. 
 

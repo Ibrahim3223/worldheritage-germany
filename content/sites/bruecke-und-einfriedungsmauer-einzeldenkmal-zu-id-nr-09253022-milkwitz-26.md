@@ -68,7 +68,7 @@ While visiting the Brücke und Einfriedungsmauer, consider exploring these nearb
 
 4. **Local Markets**: Experience the local culture by visiting nearby markets, where you can sample regional specialties and interact with residents.
 
-5. **Cultural Events**: Depending on the time of your visit, check for local festivals or events that celebrate the community’s traditions and history.
+5. **Cultural Events**: Depending on the time of your visit, check for local festivals or events that celebrate the community's traditions and history.
 
 These nearby attractions enhance the overall experience of visiting the Brücke und Einfriedungsmauer, providing a richer understanding of the local heritage and culture.
 

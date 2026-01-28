@@ -78,7 +78,7 @@ Seasonal considerations should also be taken into account; check the local weath
 A visit typically lasts a few hours, allowing time to explore the site and absorb its history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for any specific restrictions upon your arrival.
+Photography is generally permitted, but it's always best to check for any specific restrictions upon your arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details and scheduling.

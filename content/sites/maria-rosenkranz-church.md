@@ -32,7 +32,7 @@ Maria Rosenkranz Church, a Roman Catholic church located in the Seckbach distric
 
 The history of Maria Rosenkranz Church is intertwined with the post-war reconstruction efforts in Germany. Built in 1953, the church emerged during a time when communities were striving to rebuild their identities after the devastation of World War II. The church's establishment reflects the resilience and determination of the local population to restore their spiritual and communal life.
 
-As a Roman Catholic institution, the church serves a diverse congregation, providing not only religious services but also social programs that foster community engagement. It stands as a testament to the enduring nature of faith in the face of adversity. The church’s role extends beyond its walls, participating in various local initiatives that strengthen bonds within the Seckbach district. 
+As a Roman Catholic institution, the church serves a diverse congregation, providing not only religious services but also social programs that foster community engagement. It stands as a testament to the enduring nature of faith in the face of adversity. The church's role extends beyond its walls, participating in various local initiatives that strengthen bonds within the Seckbach district. 
 
 Throughout the years, Maria Rosenkranz Church has adapted to the evolving needs of its community, offering a space for worship, education, and fellowship. This adaptability is a key factor in its significance, as it continues to attract new generations of parishioners and visitors alike. The church has become a vital part of the local identity, serving as a venue for important community events and celebrations.
 

@@ -76,7 +76,7 @@ To avoid larger crowds, opt for visits during weekdays or outside of peak touris
 
 ## Practical Information
 
-Before heading to Alte Burg, it’s helpful to consider a few practicalities. Comfortable walking shoes are recommended, as the terrain may involve uneven surfaces. Depending on the season, dressing in layers is advisable, as temperatures can vary throughout the day.
+Before heading to Alte Burg, it's helpful to consider a few practicalities. Comfortable walking shoes are recommended, as the terrain may involve uneven surfaces. Depending on the season, dressing in layers is advisable, as temperatures can vary throughout the day.
 
 Additionally, check the official website for any updates regarding visitor amenities, including restroom facilities and potential café options nearby. Being prepared will enhance your experience, allowing you to focus on enjoying the cultural and historical significance of the castle.
 

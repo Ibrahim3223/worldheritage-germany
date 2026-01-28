@@ -58,7 +58,7 @@ Göttingen is home to a variety of attractions that may enhance your visit to th
 
 3. **Botanical Garden**: This peaceful retreat showcases a diverse collection of plants and is an excellent spot for relaxation or a leisurely walk.
 
-4. **St. Jacob’s Church**: A beautiful example of Gothic architecture, this church offers stunning interiors and a glimpse into the city's religious heritage.
+4. **St. Jacob's Church**: A beautiful example of Gothic architecture, this church offers stunning interiors and a glimpse into the city's religious heritage.
 
 5. **Bismarck Tower**: Located a short distance from the city center, this lookout tower provides panoramic views of the surrounding landscape, perfect for those looking to experience the natural beauty of the area.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Museum der Göttinger Chemie, consider the
   
 - **Crowd Avoidance**: To enjoy a more serene experience, aim to visit during off-peak hours. Early mornings or weekday visits are typically less crowded.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can provide valuable insights and information about the exhibits and the museum's history.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can provide valuable insights and information about the exhibits and the museum's history.
 
 ## Practical Information
 

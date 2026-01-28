@@ -52,7 +52,7 @@ The architecture of Burg Hartenstein not only represents the defensive needs of 
 
 ## Visiting Information
 
-Visiting Burg Hartenstein can be an enriching experience, offering insights not only into the castle’s architecture but also into the cultural heritage of the region. To reach the castle, various transportation options are available. Visitors can drive to the site, with parking likely available nearby. Public transportation options may exist, but check the official website for current information on routes and schedules to plan your visit effectively.
+Visiting Burg Hartenstein can be an enriching experience, offering insights not only into the castle's architecture but also into the cultural heritage of the region. To reach the castle, various transportation options are available. Visitors can drive to the site, with parking likely available nearby. Public transportation options may exist, but check the official website for current information on routes and schedules to plan your visit effectively.
 
 As for the visitor experience, it is advisable to check the official website for hours and prices, as these may vary by season or for special events. When planning your visit, consider allocating a few hours to fully appreciate the castle and its surroundings. Guided tours, if available, can provide deeper insights into the history and architecture, enhancing your experience.
 
@@ -109,7 +109,7 @@ Accessibility information may vary. It's advisable to check the official website
 Ticket purchasing options might be available online. Check the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to confirm current amenities through the official website.
+Facilities may be available on-site, but it's best to confirm current amenities through the official website.
 
 ### What should I wear?
 Dress comfortably for walking and consider layers, as temperatures can fluctuate throughout the day.

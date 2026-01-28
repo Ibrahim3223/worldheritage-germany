@@ -36,7 +36,7 @@ Today, Pulverturm stands not just as a relic of the past but as a reminder of th
 
 The Pulverturm is an impressive architectural structure that captures the essence of medieval military design. While specific architectural details are limited, the tower is characterized by its robust construction, typical of fortifications from its era. The thick stone walls are a testament to the engineering skills of the time, designed to withstand both sieges and the passage of time.
 
-The tower’s height and shape contribute to its defensive capabilities, allowing for surveillance over the surrounding landscape. Though the exact dimensions are not specified, its imposing presence is evident from various vantage points within Leutkirch. The simplicity of its design, combined with the practical considerations of its construction, reflects the functional beauty that defines many historical fortifications.
+The tower's height and shape contribute to its defensive capabilities, allowing for surveillance over the surrounding landscape. Though the exact dimensions are not specified, its imposing presence is evident from various vantage points within Leutkirch. The simplicity of its design, combined with the practical considerations of its construction, reflects the functional beauty that defines many historical fortifications.
 
 Visitors can appreciate the craftsmanship that went into the tower's construction, with features that may include narrow windows designed for archers, which served both practical and aesthetic purposes. The combination of form and function is a hallmark of the architectural style prevalent during the time of its construction.
 
@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during weekdays or during the off-peak season
 
 ## Practical Information
 
-When planning a visit to Pulverturm, it’s advisable to wear comfortable footwear, as you may want to explore the surrounding area on foot. Seasonal considerations are important, as winter months may bring cold weather and possible snow, while summer can be warm and inviting. 
+When planning a visit to Pulverturm, it's advisable to wear comfortable footwear, as you may want to explore the surrounding area on foot. Seasonal considerations are important, as winter months may bring cold weather and possible snow, while summer can be warm and inviting. 
 
 Bringing a water bottle and light snacks can enhance your visit, especially if you plan to explore nearby attractions. Always check the official website for any updates or changes in visiting hours or special events.
 
@@ -92,7 +92,7 @@ The best times to visit are generally during spring and early autumn, when the w
 Check the official website for the most accurate information regarding accessibility options.
 
 ### Can I buy tickets online?
-Currently, ticket purchasing options may vary, so it’s best to check the official website for the most up-to-date information.
+Currently, ticket purchasing options may vary, so it's best to check the official website for the most up-to-date information.
 
 ### Are there restrooms and cafes?
 Facilities may be limited at the tower itself, but nearby cafés and shops in Leutkirch provide options for refreshments.

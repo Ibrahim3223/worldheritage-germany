@@ -70,7 +70,7 @@ While visiting Tiefenbach Waterfall, consider exploring these nearby attractions
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon offers the best natural lighting for capturing the waterfall’s beauty. To avoid larger crowds, consider visiting on weekdays or during off-peak hours, particularly outside of the summer months when tourism tends to peak.
+For photography enthusiasts, early morning or late afternoon offers the best natural lighting for capturing the waterfall's beauty. To avoid larger crowds, consider visiting on weekdays or during off-peak hours, particularly outside of the summer months when tourism tends to peak.
 
 When approaching the waterfall, be mindful of wet and slippery surfaces, especially near the water's edge. This will ensure a safe and enjoyable experience while allowing you to focus on capturing the perfect shot.
 

@@ -72,7 +72,7 @@ Saarlouis offers a variety of attractions that complement a visit to Christköni
 
 ## Insider Tips
 
-For those looking to capture the essence of Christkönig through photography, consider visiting during the early morning or late afternoon when natural light enhances the architectural details. Respectful photography is generally encouraged, but it’s wise to check any specific guidelines posted within the church.
+For those looking to capture the essence of Christkönig through photography, consider visiting during the early morning or late afternoon when natural light enhances the architectural details. Respectful photography is generally encouraged, but it's wise to check any specific guidelines posted within the church.
 
 To avoid crowds, consider visiting during weekdays or outside of major religious holidays, when the church may host larger gatherings. This allows for a more personal experience as you explore the space.
 
@@ -103,7 +103,7 @@ Check the official website for details on accessibility features to ensure a com
 Information about ticketing options should be verified on the official website for the most current procedures.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to check local amenities in advance.
+Facilities may be available nearby, but it's best to check local amenities in advance.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly and comfortably, considering the church's nature as a place of worship.

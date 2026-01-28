@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-In the heart of Munich, the statue of *Franziskus als Friedensbote* serves as a poignant representation of peace and harmony, created by the renowned sculptor Martin Mayer in 1979. Dedicated to Saint Francis of Assisi, this striking work of art embodies the spirit of compassion and serenity that the saint advocated throughout his life. As visitors approach this notable sculpture, they are greeted not only by its artistic elegance but also by a profound message that resonates in today’s world.
+In the heart of Munich, the statue of *Franziskus als Friedensbote* serves as a poignant representation of peace and harmony, created by the renowned sculptor Martin Mayer in 1979. Dedicated to Saint Francis of Assisi, this striking work of art embodies the spirit of compassion and serenity that the saint advocated throughout his life. As visitors approach this notable sculpture, they are greeted not only by its artistic elegance but also by a profound message that resonates in today's world.
 
 Situated in a vibrant urban area, the statue of *Franziskus als Friedensbote* stands as a reminder of the values of understanding and coexistence. This artwork invites viewers to reflect on the importance of peace in a bustling city life, making it a significant cultural landmark for both locals and tourists. Whether you are a history enthusiast, an admirer of sculpture, or simply seeking a place of contemplation, this statue offers a moment of reflection amidst the dynamic energy of Munich.
 
 ## History and Significance
 
-The statue of *Franziskus als Friedensbote* is not merely a piece of art; it represents a cultural ethos that resonates deeply with the teachings of Saint Francis of Assisi. Known for his commitment to peace and his love for all living beings, Saint Francis is a figure who transcends religious boundaries, appealing to those who value kindness and environmental stewardship. The choice of Munich as the statue's location underscores the city’s commitment to fostering dialogue and understanding among diverse communities.
+The statue of *Franziskus als Friedensbote* is not merely a piece of art; it represents a cultural ethos that resonates deeply with the teachings of Saint Francis of Assisi. Known for his commitment to peace and his love for all living beings, Saint Francis is a figure who transcends religious boundaries, appealing to those who value kindness and environmental stewardship. The choice of Munich as the statue's location underscores the city's commitment to fostering dialogue and understanding among diverse communities.
 
 Created by Martin Mayer, a sculptor recognized for his ability to convey deep meanings through his work, this statue captures the essence of Saint Francis. While specific historical contexts surrounding the statue's creation may not be documented, its presence in Munich has undoubtedly contributed to the city's cultural landscape. The statue stands as a focal point for discussions on peace and compassion, serving as a symbol of hope for individuals and communities striving for harmony.
 
@@ -48,9 +48,9 @@ Surrounding the statue, the area is designed to encourage contemplation and refl
 
 ## Visiting Information
 
-When planning a visit to *Franziskus als Friedensbote*, it’s advisable to check the official website for current information regarding hours and accessibility options. The statue is located in a well-trafficked area of Munich, making it easily accessible via public transportation. Visitors can utilize the city's extensive tram and bus networks, which connect to major landmarks and neighborhoods throughout the city.
+When planning a visit to *Franziskus als Friedensbote*, it's advisable to check the official website for current information regarding hours and accessibility options. The statue is located in a well-trafficked area of Munich, making it easily accessible via public transportation. Visitors can utilize the city's extensive tram and bus networks, which connect to major landmarks and neighborhoods throughout the city.
 
-Given the statue’s urban setting, visitors can expect a lively atmosphere, with plenty of opportunities to engage with the local culture. It is recommended to allocate a sufficient amount of time to appreciate not just the statue itself but also the surrounding environment, which may include cafes, shops, and other attractions. A visit of approximately 30 minutes to an hour should suffice for those looking to take in the statue and capture photographs.
+Given the statue's urban setting, visitors can expect a lively atmosphere, with plenty of opportunities to engage with the local culture. It is recommended to allocate a sufficient amount of time to appreciate not just the statue itself but also the surrounding environment, which may include cafes, shops, and other attractions. A visit of approximately 30 minutes to an hour should suffice for those looking to take in the statue and capture photographs.
 
 The best times to visit are during weekday mornings or early afternoons when the foot traffic is typically lighter, allowing for a more intimate experience with the statue. Seasonal considerations may also play a role in planning a visit, as the area surrounding the statue can be particularly beautiful during spring and summer months when local flora is in bloom.
 

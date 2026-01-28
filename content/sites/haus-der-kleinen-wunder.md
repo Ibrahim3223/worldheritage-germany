@@ -99,7 +99,7 @@ Accessibility features may be available, but it's best to check the official web
 Check the official website for current information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, and it’s advisable to check the official website for details on any onsite cafes or eateries.
+Facilities such as restrooms may be available, and it's advisable to check the official website for details on any onsite cafes or eateries.
 
 ### What should I wear?
 Dress comfortably for walking and exploring, considering the season's weather conditions.

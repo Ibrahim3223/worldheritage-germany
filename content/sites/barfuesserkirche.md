@@ -30,7 +30,7 @@ Barfüßerkirche, located in the heart of Erfurt, Thuringia, Germany, is a churc
 
 The church, characterized by its unique architectural features, draws those intrigued by religious history and architectural design alike. As you approach Barfüßerkirche, you are welcomed by the fascinating blend of styles that tell stories of the past, providing insight into the spiritual life of the community. The atmosphere around the church is one of contemplation and reverence, inviting visitors to pause and reflect on its significance within the broader narrative of Erfurt and German heritage.
 
-Whether you are an architecture enthusiast, a history buff, or simply seeking a serene space to explore, Barfüßerkirche offers a compelling experience that captures the essence of Erfurt’s rich past and vibrant present.
+Whether you are an architecture enthusiast, a history buff, or simply seeking a serene space to explore, Barfüßerkirche offers a compelling experience that captures the essence of Erfurt's rich past and vibrant present.
 
 ## History and Significance
 

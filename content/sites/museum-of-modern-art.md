@@ -52,9 +52,9 @@ Freiburg im Breisgau is accessible by various modes of transportation, including
 
 Before planning your visit, it is advisable to check the official website for current hours and ticket prices, as these can vary throughout the year. The museum typically offers a range of ticket options, including discounts for students and seniors.
 
-Visitors can expect to spend approximately two to three hours exploring the collection and engaging with the museum’s offerings. This timeframe allows for a leisurely pace, enabling one to appreciate the artworks and any educational materials available.
+Visitors can expect to spend approximately two to three hours exploring the collection and engaging with the museum's offerings. This timeframe allows for a leisurely pace, enabling one to appreciate the artworks and any educational materials available.
 
-The best times to visit are often during weekdays when the museum is less crowded. Special events, such as exhibitions openings or artist talks, may also draw larger crowds, so consider checking the museum’s schedule ahead of time for any special programming.
+The best times to visit are often during weekdays when the museum is less crowded. Special events, such as exhibitions openings or artist talks, may also draw larger crowds, so consider checking the museum's schedule ahead of time for any special programming.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ Freiburg im Breisgau is home to a variety of attractions that complement a visit
 
 3. **Schwarzwald**: The Black Forest region is not far from Freiburg and offers numerous trails and outdoor activities for those looking to experience nature.
 
-4. **Historical Merchant’s Hall (Historisches Kaufhaus)**: This beautiful building, located in the heart of Freiburg, showcases the city's rich history and architecture.
+4. **Historical Merchant's Hall (Historisches Kaufhaus)**: This beautiful building, located in the heart of Freiburg, showcases the city's rich history and architecture.
 
 5. **Bächle**: The small water channels that run through the streets of Freiburg are a unique feature of the city, perfect for a leisurely stroll.
 
@@ -92,7 +92,7 @@ When visiting the Museum of Modern Art, here are some practical considerations t
 Most visitors spend about two to three hours at the museum. This allows ample time to explore the galleries and any temporary exhibitions.
 
 ### Is photography allowed?
-Photography policies can vary based on specific exhibitions. It’s best to check the museum’s guidelines upon arrival.
+Photography policies can vary based on specific exhibitions. It's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours at certain times. Check the official website for current availability and scheduling.

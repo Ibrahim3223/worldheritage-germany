@@ -42,7 +42,7 @@ The surroundings of the castle would have played a crucial role in its defense, 
 
 ## Visiting Information
 
-Visiting Burg Nettersheim offers a unique opportunity to immerse oneself in the medieval past of Germany. For those planning a trip, checking the official website for current information regarding opening hours and ticket prices is advisable. Upon arrival, guests can expect a range of experiences, from exploring the castle’s architecture to learning about its history through informational displays.
+Visiting Burg Nettersheim offers a unique opportunity to immerse oneself in the medieval past of Germany. For those planning a trip, checking the official website for current information regarding opening hours and ticket prices is advisable. Upon arrival, guests can expect a range of experiences, from exploring the castle's architecture to learning about its history through informational displays.
 
 The best times to visit are typically during the spring and autumn months when the weather is mild, allowing for comfortable exploration. It is recommended to allocate a few hours to fully appreciate the site, taking time to wander through the castle grounds and reflect on its historical context.
 

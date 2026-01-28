@@ -76,7 +76,7 @@ To make the most of your visit to Papenburger Zeitspeicher, consider these insid
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays, especially in the afternoon. This timing generally sees fewer visitors, allowing for a more serene exploration of the exhibits.
 
-- **Engage with Staff**: The museum staff is knowledgeable and can provide valuable insights into the collections. Don’t hesitate to ask questions or seek recommendations for must-see exhibits.
+- **Engage with Staff**: The museum staff is knowledgeable and can provide valuable insights into the collections. Don't hesitate to ask questions or seek recommendations for must-see exhibits.
 
 ## Practical Information
 

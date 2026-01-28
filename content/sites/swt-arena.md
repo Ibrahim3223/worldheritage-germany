@@ -60,7 +60,7 @@ The arena's bustling atmosphere during events provides an engaging experience, t
 
 1. **Trier Cathedral**: This UNESCO World Heritage site is a must-visit, showcasing stunning Romanesque architecture and a rich history dating back to the 4th century.
    
-2. **Porta Nigra**: One of Trier’s most iconic landmarks, this ancient Roman city gate is remarkably well-preserved and offers insights into the city’s historical significance.
+2. **Porta Nigra**: One of Trier's most iconic landmarks, this ancient Roman city gate is remarkably well-preserved and offers insights into the city's historical significance.
 
 3. **Roman Amphitheater**: Located just a short distance from the SWT-Arena, this impressive structure once hosted gladiatorial contests and provides a glimpse into the entertainment of ancient Rome.
 

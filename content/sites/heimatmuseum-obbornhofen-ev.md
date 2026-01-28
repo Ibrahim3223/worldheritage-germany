@@ -52,7 +52,7 @@ The best times to visit may vary, but generally, weekdays tend to be quieter, ma
 
 Heimatmuseum Obbornhofen is located in a region that offers additional points of interest for travelers. Nearby attractions may include:
 
-1. **Local Historical Sites**: Explore other historical landmarks in the area that provide context to the region’s past.
+1. **Local Historical Sites**: Explore other historical landmarks in the area that provide context to the region's past.
 2. **Nature Trails**: Enjoy the natural beauty of the surrounding landscapes, perfect for a walking or cycling excursion.
 3. **Cultural Festivals**: Experience local events that celebrate regional culture, art, and cuisine.
 4. **Art Galleries**: Discover contemporary and traditional art exhibits in nearby galleries that highlight local artists.

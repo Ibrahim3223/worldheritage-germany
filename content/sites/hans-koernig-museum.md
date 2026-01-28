@@ -42,7 +42,7 @@ In addition to the exhibition spaces, the museum may host events and educational
 
 ## Visiting Information
 
-Reaching the Hans Körnig Museum is convenient, given its location in Dresden, a city well-connected by various modes of transportation. Visitors can typically access the museum via public transit options such as buses and trams, which serve the surrounding areas effectively. For those driving, parking facilities may be available nearby, but it’s advisable to check the official website for current information regarding accessibility and transportation options.
+Reaching the Hans Körnig Museum is convenient, given its location in Dresden, a city well-connected by various modes of transportation. Visitors can typically access the museum via public transit options such as buses and trams, which serve the surrounding areas effectively. For those driving, parking facilities may be available nearby, but it's advisable to check the official website for current information regarding accessibility and transportation options.
 
 When planning your visit, ensure to check the official website for hours of operation and ticket prices, as these details can change. The museum is designed to accommodate a variety of visitor needs, and you can expect well-organized exhibits that provide a comprehensive understanding of Hans Körnig's artistic contributions.
 

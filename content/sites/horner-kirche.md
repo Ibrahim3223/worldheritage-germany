@@ -72,7 +72,7 @@ After visiting Horner Kirche, you may wish to explore other attractions in the H
 
 To make the most of your visit to Horner Kirche, consider the following insider tips:
 
-- **Photography**: While photography might be allowed, it’s advisable to check for any restrictions on photographing the interior or during services. Capturing the church's exterior, especially during the golden hours of sunrise or sunset, can be particularly rewarding.
+- **Photography**: While photography might be allowed, it's advisable to check for any restrictions on photographing the interior or during services. Capturing the church's exterior, especially during the golden hours of sunrise or sunset, can be particularly rewarding.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or just before major religious holidays when attendance is typically lower. Early mornings are also a good time for a peaceful visit.
 

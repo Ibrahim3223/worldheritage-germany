@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Leipzig, Germany, lies the Tapetenwerk, a former wallpaper factory that has transformed into a vibrant space for culture and creativity. This historic building not only reflects the industrial heritage of the region but also serves as a hub for art, design, and entrepreneurial innovation. Its strategic location in Saxony, known for its rich cultural landscape, enhances its significance as a gathering place where the past meets contemporary artistic expression.
 
-The Tapetenwerk invites visitors to explore its multifaceted offerings, from exhibitions showcasing local artists to workshops and events that foster community engagement. As a testament to Leipzig’s evolving identity, this site symbolizes the city’s dynamic transition from industrial power to a center for creativity and collaboration. Whether you are an art enthusiast, history buff, or simply curious about Leipzig’s heritage, a visit to Tapetenwerk promises an enriching experience.
+The Tapetenwerk invites visitors to explore its multifaceted offerings, from exhibitions showcasing local artists to workshops and events that foster community engagement. As a testament to Leipzig's evolving identity, this site symbolizes the city's dynamic transition from industrial power to a center for creativity and collaboration. Whether you are an art enthusiast, history buff, or simply curious about Leipzig's heritage, a visit to Tapetenwerk promises an enriching experience.
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ The best times to visit are during events or special exhibitions, as these occas
 
 ## Nearby Attractions
 
-While visiting Tapetenwerk, consider exploring other nearby attractions that contribute to Leipzig’s cultural richness:
+While visiting Tapetenwerk, consider exploring other nearby attractions that contribute to Leipzig's cultural richness:
 
 1. **Museum der bildenden Künste (Museum of Fine Arts)**: Just a short distance away, this museum houses an impressive collection of artworks from the Middle Ages to contemporary pieces, making it a must-visit for art lovers.
 

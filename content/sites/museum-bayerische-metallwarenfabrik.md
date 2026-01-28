@@ -68,7 +68,7 @@ For visitors looking to enhance their experience at the Museum Bayerische Metall
 
 - **Photography**: If you plan to capture your visit, check the museum's policy on photography to ensure compliance.
 - **Crowd Avoidance**: To enjoy a quieter experience, aim for mid-morning visits on weekdays when the museum is less likely to be crowded.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits; they can provide valuable insights and enhance your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits; they can provide valuable insights and enhance your understanding of the displays.
 
 ## Practical Information
 

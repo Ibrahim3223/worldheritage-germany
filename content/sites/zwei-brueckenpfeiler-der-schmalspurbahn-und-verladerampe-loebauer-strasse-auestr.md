@@ -28,7 +28,7 @@ image_srcset:
 
 The Zwei Brückenpfeiler der Schmalspurbahn und Verladerampe Löbauer Straße (Auestraße) stands as an intriguing relic of historical transportation infrastructure in Beiersdorf, Germany. These bridge pillars are not merely functional structures; they are emblematic of a bygone era in railway history, linking past endeavors in engineering with the present landscape. Situated at coordinates 51.070748, 14.533519, the site offers visitors a glimpse into the significance of narrow-gauge railways, which played a pivotal role in regional transport.
 
-As you explore this site, you will encounter the remnants of a bridge and loading ramp that once facilitated the movement of goods and passengers, contributing to the economic development of the area. The bridge’s design and structure reflect the engineering practices of its time, providing insight into the technological advancements that shaped the transportation networks of the 19th and early 20th centuries. 
+As you explore this site, you will encounter the remnants of a bridge and loading ramp that once facilitated the movement of goods and passengers, contributing to the economic development of the area. The bridge's design and structure reflect the engineering practices of its time, providing insight into the technological advancements that shaped the transportation networks of the 19th and early 20th centuries. 
 
 Visiting the Zwei Brückenpfeiler is not just an opportunity to appreciate historical architecture; it also invites reflection on the evolution of travel and trade in Germany. This site, while perhaps less frequented than other tourist attractions, promises a rewarding experience for those interested in the interplay of history, culture, and engineering.
 

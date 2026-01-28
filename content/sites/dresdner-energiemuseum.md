@@ -76,7 +76,7 @@ To make the most of your visit to the Dresdner Energiemuseum, consider these ins
   
 - **Crowd Avoidance**: To avoid crowds, try visiting during weekday mornings or later in the afternoon. This timing can lead to a more intimate experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can provide valuable insights and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 

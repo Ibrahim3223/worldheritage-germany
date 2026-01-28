@@ -36,7 +36,7 @@ Funkhaus Grünau holds a significant place in Berlin's architectural narrative. 
 
 The ensemble has been associated with various cultural movements throughout the years. As the site transitioned from a broadcasting hub to a cultural venue, it adapted to the changing needs of the community. This evolution underscores the importance of Funkhaus Grünau as a versatile space that fosters creativity and collaboration among artists and audiences alike.
 
-Additionally, the structure’s design incorporates features that facilitate sound production and broadcasting, showcasing the technical ingenuity of its architects. The ensemble's historical role in media and its subsequent transformation into a cultural center highlight its ongoing relevance in Berlin's artistic landscape.
+Additionally, the structure's design incorporates features that facilitate sound production and broadcasting, showcasing the technical ingenuity of its architects. The ensemble's historical role in media and its subsequent transformation into a cultural center highlight its ongoing relevance in Berlin's artistic landscape.
 
 ## Architecture and Features
 
@@ -105,7 +105,7 @@ Most areas of Funkhaus Grünau are designed to be accessible. Check the official
 Ticket availability varies by event. It is best to check the official website for current information on purchasing tickets.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site, but it’s advisable to confirm details on the official website.
+Facilities such as restrooms and cafes may be available on-site, but it's advisable to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably for walking and consider layering for changes in temperature, especially if you plan to spend time outdoors.

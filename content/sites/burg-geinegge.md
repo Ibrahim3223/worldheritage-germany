@@ -57,7 +57,7 @@ While visiting Burg Geinegge, there are several attractions in the vicinity that
 1. **Hamm's City Center**: Explore the vibrant heart of Hamm, where you can find shops, cafes, and local culture.
 2. **Maximilianpark**: A beautiful park that features gardens, playgrounds, and an iconic glass elephant, making it a perfect spot for relaxation.
 3. **St. Paul's Church**: This historic church in Hamm offers stunning architecture and a serene atmosphere for reflection.
-4. **Museum of City History**: Delve into Hamm's past through various exhibits that showcase the city’s development over time.
+4. **Museum of City History**: Delve into Hamm's past through various exhibits that showcase the city's development over time.
 5. **The Hamm Lippe River**: Enjoy a leisurely walk or a bike ride along the river, which offers scenic views and a peaceful environment.
 
 ## Insider Tips

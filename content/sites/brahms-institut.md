@@ -30,7 +30,7 @@ The Brahms-Institut, located in Lübeck, Germany, serves as a dedicated museum a
 
 Visitors to the Brahms-Institut are welcomed into a space that not only houses an extensive collection of musical scores, manuscripts, and literature pertaining to Brahms but also serves as a center for research and education. The significance of this institution extends beyond mere preservation; it fosters an appreciation for Brahms' contributions to music and provides a platform for both scholars and enthusiasts to engage with his work.
 
-As you explore the Brahms-Institut, you can expect to encounter a blend of historical artifacts, scholarly resources, and opportunities for interaction with Brahms’ enduring musical heritage. Whether you are a dedicated follower of classical music or a curious traveler seeking to understand the cultural narratives of Lübeck, the Brahms-Institut promises an enriching experience.
+As you explore the Brahms-Institut, you can expect to encounter a blend of historical artifacts, scholarly resources, and opportunities for interaction with Brahms' enduring musical heritage. Whether you are a dedicated follower of classical music or a curious traveler seeking to understand the cultural narratives of Lübeck, the Brahms-Institut promises an enriching experience.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ While specific architectural details of the Brahms-Institut are not outlined in 
 
 Notable features of the Brahms-Institut include its extensive library, which is likely to be organized thoughtfully to allow for easy navigation and access to various materials related to Brahms. The layout may incorporate reading areas, study spaces, and exhibition areas that showcase significant artifacts from Brahms' life and career.
 
-Visitors can expect to find a collection of manuscripts, letters, and original scores that reveal insights into Brahms' creative process. The atmosphere within the institute is likely to be reflective and inspiring, inviting guests to engage deeply with the musical heritage of one of history’s great composers.
+Visitors can expect to find a collection of manuscripts, letters, and original scores that reveal insights into Brahms' creative process. The atmosphere within the institute is likely to be reflective and inspiring, inviting guests to engage deeply with the musical heritage of one of history's great composers.
 
 ## Visiting Information
 

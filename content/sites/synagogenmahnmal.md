@@ -3,7 +3,7 @@ title: "Synagogenmahnmal"
 site_name: "Synagogenmahnmal"
 date: 2026-01-26
 draft: false
-description: "The Synagogenmahnmal, or the Memorial to the Synagogue, stands as a poignant reminder of Nuremberg’s Jewish heritage and the tragic history that befell its..."
+description: "The Synagogenmahnmal, or the Memorial to the Synagogue, stands as a poignant reminder of Nuremberg's Jewish heritage and the tragic history that befell its..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Monument"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Synagogenmahnmal, or the Memorial to the Synagogue, stands as a poignant reminder of Nuremberg’s Jewish heritage and the tragic history that befell its community during the Holocaust. Located in the heart of the city, this monument commemorates the site of the former synagogue, which played a vital role in the religious and social lives of Jewish residents. The memorial serves not only as a tribute to those who lost their lives but also as an educational resource for visitors seeking to understand the complexities of Nuremberg's past.
+The Synagogenmahnmal, or the Memorial to the Synagogue, stands as a poignant reminder of Nuremberg's Jewish heritage and the tragic history that befell its community during the Holocaust. Located in the heart of the city, this monument commemorates the site of the former synagogue, which played a vital role in the religious and social lives of Jewish residents. The memorial serves not only as a tribute to those who lost their lives but also as an educational resource for visitors seeking to understand the complexities of Nuremberg's past.
 
 Situated at coordinates 49.4533, 11.0807, the Synagogenmahnmal is easily accessible, drawing locals and tourists alike. This site is particularly significant, as it encapsulates the broader narrative of Jewish life in Germany, highlighting both the cultural richness that existed before the atrocities of World War II and the enduring impact of those events. By visiting the Synagogenmahnmal, individuals are invited to engage with history, fostering a deeper appreciation for tolerance and remembrance.
 

@@ -48,7 +48,7 @@ Noteworthy features may include ornate ceilings, decorative moldings, and carefu
 
 ## Visiting Information
 
-Palais Pettenkofer offers a unique opportunity for visitors to immerse themselves in the heritage of Landshut. To fully appreciate the palace and its surroundings, travelers should plan their visit with care. As operational details such as hours and ticket prices can vary, it’s advisable to check the official website for current information.
+Palais Pettenkofer offers a unique opportunity for visitors to immerse themselves in the heritage of Landshut. To fully appreciate the palace and its surroundings, travelers should plan their visit with care. As operational details such as hours and ticket prices can vary, it's advisable to check the official website for current information.
 
 Transport options to Palais Pettenkofer are generally accessible, with various means of public transportation available in Landshut. Whether you choose to arrive by car or public transit, the palace is situated within a context that allows for easy exploration of the surrounding area.
 
@@ -72,7 +72,7 @@ If you are interested in guided tours, look for opportunities that provide deepe
 
 ## Practical Information
 
-When planning your visit to Palais Pettenkofer, it’s important to bring along essentials such as comfortable footwear for exploring the palace and its surroundings. Seasonal considerations may also affect your visit; be prepared for varying weather conditions, especially if you plan to explore outdoor areas or nearby attractions.
+When planning your visit to Palais Pettenkofer, it's important to bring along essentials such as comfortable footwear for exploring the palace and its surroundings. Seasonal considerations may also affect your visit; be prepared for varying weather conditions, especially if you plan to explore outdoor areas or nearby attractions.
 
 Check the official website for any specific recommendations regarding items to bring or restrictions that may apply during your visit, ensuring a smooth and enjoyable experience. 
 
@@ -97,7 +97,7 @@ Accessibility details are best confirmed on the official website to ensure a com
 Ticket purchasing options may be available online; check the official website for current details.
 
 ### Are there restrooms and cafes?
-Restroom availability and dining options can vary, so it’s advisable to consult the official website for the most accurate information.
+Restroom availability and dining options can vary, so it's advisable to consult the official website for the most accurate information.
 
 ### What should I wear?
 Dress comfortably and consider the weather, especially if you plan to explore outdoor areas or adjacent attractions. 

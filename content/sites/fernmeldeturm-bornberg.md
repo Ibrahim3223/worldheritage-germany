@@ -40,7 +40,7 @@ In a broader context, the tower symbolizes the importance of connectivity in bot
 
 The Fernmeldeturm Bornberg is a functional tower designed for telecommunications purposes. Its architectural style reflects the utilitarian nature of such structures, focusing on efficiency and effectiveness in serving its purpose rather than ornate aesthetics. The tower is characterized by its tall, slender profile, which allows for optimal signal transmission across various distances.
 
-While specific details about the tower's dimensions or construction materials aren't provided, it is common for telecommunications towers to employ robust materials that can withstand environmental pressures. The design typically features a series of antennas and communication equipment mounted at various heights to maximize coverage. The tower’s height is a critical factor in its functionality, enabling it to relay signals effectively over vast areas.
+While specific details about the tower's dimensions or construction materials aren't provided, it is common for telecommunications towers to employ robust materials that can withstand environmental pressures. The design typically features a series of antennas and communication equipment mounted at various heights to maximize coverage. The tower's height is a critical factor in its functionality, enabling it to relay signals effectively over vast areas.
 
 Visitors might find the surrounding area features pathways and viewing points that enhance the experience of being near such a significant structure. While the tower itself is primarily functional, it contributes to the aesthetic of the landscape, creating a unique juxtaposition of technology against the backdrop of nature.
 

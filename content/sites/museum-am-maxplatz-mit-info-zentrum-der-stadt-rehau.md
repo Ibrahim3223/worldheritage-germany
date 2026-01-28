@@ -22,7 +22,7 @@ images:
 
 In the heart of Germany, the Museum am Maxplatz mit Info-Zentrum der Stadt Rehau serves as a captivating portal into the cultural and historical essence of the Rehau region. This museum not only showcases the rich heritage of the area but also acts as a vital information center for visitors seeking to explore the local landscape. The museum's strategic location makes it a convenient stop for those traversing this part of Germany, providing insights into both the past and present of Rehau. By visiting, guests can immerse themselves in the narratives that shaped this community, making it an essential part of any travel itinerary in the region.
 
-Emphasizing storytelling through its exhibits, the museum invites visitors to engage with the local history and traditions, ensuring a deeper understanding of Rehau’s significance within the broader German context. Whether you are a history enthusiast or a casual traveler, the Museum am Maxplatz promises an enlightening experience that highlights the importance of cultural preservation. 
+Emphasizing storytelling through its exhibits, the museum invites visitors to engage with the local history and traditions, ensuring a deeper understanding of Rehau's significance within the broader German context. Whether you are a history enthusiast or a casual traveler, the Museum am Maxplatz promises an enlightening experience that highlights the importance of cultural preservation. 
 
 ## History and Significance
 

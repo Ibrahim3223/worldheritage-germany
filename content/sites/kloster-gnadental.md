@@ -82,7 +82,7 @@ When preparing for your visit to Kloster Gnadental, consider the following pract
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the monastery may involve walking on uneven surfaces. A camera and a journal can also enhance your visit, allowing you to capture memories and reflections.
 
-- **Seasonal Considerations**: Depending on the time of year, the weather may vary. It’s advisable to check the forecast before your visit and dress accordingly, particularly if you plan to spend time outdoors.
+- **Seasonal Considerations**: Depending on the time of year, the weather may vary. It's advisable to check the forecast before your visit and dress accordingly, particularly if you plan to spend time outdoors.
 
 ## Frequently Asked Questions
 
@@ -104,7 +104,7 @@ Visiting during weekdays or early mornings can help you avoid larger crowds, all
 
 ### Is it wheelchair accessible?
 
-Accessibility features may vary. It’s advisable to check the official website or contact the monastery directly for detailed information regarding wheelchair access.
+Accessibility features may vary. It's advisable to check the official website or contact the monastery directly for detailed information regarding wheelchair access.
 
 ### Can I buy tickets online?
 
@@ -112,7 +112,7 @@ For the latest information on ticket purchases, including online options, please
 
 ### Are there restrooms and cafes?
 
-Facilities may be limited at the monastery. It’s recommended to check the official website for information regarding restrooms and dining options nearby.
+Facilities may be limited at the monastery. It's recommended to check the official website for information regarding restrooms and dining options nearby.
 
 ### What should I wear?
 

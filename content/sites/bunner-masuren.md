@@ -44,7 +44,7 @@ The overall ambiance of Bunner Masuren is one of tranquility and reflection, whe
 
 To visit Bunner Masuren, visitors can access the reserve via local transport options available in Löningen. The area is well-connected, making it relatively easy to reach for those traveling from nearby cities. It is advisable to check the official website for current information regarding hours of operation and any potential entrance fees.
 
-The reserve is designed to accommodate a range of visitors, from casual walkers to serious nature enthusiasts. Depending on one’s pace and interests, a visit can typically last anywhere from a couple of hours to an entire day. The well-maintained trails provide ample opportunities for exploration, and visitors are encouraged to take their time to fully appreciate the surroundings.
+The reserve is designed to accommodate a range of visitors, from casual walkers to serious nature enthusiasts. Depending on one's pace and interests, a visit can typically last anywhere from a couple of hours to an entire day. The well-maintained trails provide ample opportunities for exploration, and visitors are encouraged to take their time to fully appreciate the surroundings.
 
 The best times to visit Bunner Masuren tend to be during the spring and autumn months when the flora is vibrant and the wildlife is particularly active. However, each season offers its own unique charms, making any visit worthwhile.
 

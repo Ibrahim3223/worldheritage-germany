@@ -84,7 +84,7 @@ When planning your visit to the Eltendenkmal, here are some practical considerat
 A visit to the Eltendenkmal typically takes about an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally permitted at the monument, but it’s advisable to be respectful of any signage or guidelines posted at the site.
+Photography is generally permitted at the monument, but it's advisable to be respectful of any signage or guidelines posted at the site.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours available for the Eltendenkmal. However, visitors can explore the site at their own pace.
@@ -93,7 +93,7 @@ Currently, there are no specific guided tours available for the Eltendenkmal. Ho
 The best times to visit are during the spring and autumn months when the weather is mild, allowing for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not detailed. It’s best to check the official website for current accessibility options.
+Information regarding wheelchair accessibility is not detailed. It's best to check the official website for current accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and entry requirements before your visit.

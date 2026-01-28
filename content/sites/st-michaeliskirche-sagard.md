@@ -56,7 +56,7 @@ The overall design of St. Michaeliskirche embodies the essence of ecclesiastical
 
 To visit St. Michaeliskirche Sagard, travelers can take advantage of various transportation options available in the region. Whether traveling by car, public transport, or on foot, the church is easily accessible, making it a convenient stop for those exploring Sagard.
 
-When planning your visit, it’s essential to check the official website for current information regarding hours of operation and any potential entrance fees. This will ensure you have the most up-to-date details before your visit. The church typically welcomes visitors throughout the week, offering a peaceful environment for exploration and contemplation.
+When planning your visit, it's essential to check the official website for current information regarding hours of operation and any potential entrance fees. This will ensure you have the most up-to-date details before your visit. The church typically welcomes visitors throughout the week, offering a peaceful environment for exploration and contemplation.
 
 Visitors should anticipate spending approximately one to two hours at the site. This timeframe allows ample opportunity to appreciate the architecture, explore the interior, and reflect on the historical significance of the church. The best times to visit are during weekdays or early mornings when crowds may be lighter, enhancing the experience of tranquility within the church.
 
@@ -88,7 +88,7 @@ Additionally, take time to explore the area surrounding the church, as it may of
 
 ## Practical Information
 
-When preparing for your visit to St. Michaeliskirche Sagard, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. 
+When preparing for your visit to St. Michaeliskirche Sagard, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. 
 
 Seasonal considerations are also important; if you're visiting during colder months, dress warmly, as temperatures can drop significantly. Conversely, summer months may bring warmer weather, so light clothing and hydration are advisable.
 

@@ -64,7 +64,7 @@ While Martinskloster itself is a noteworthy destination, the surrounding area of
    
 2. **Porta Nigra** - This impressive Roman city gate is one of Trier's most iconic landmarks and a vital part of its historical landscape.
 
-3. **Constantine Basilica** - Once a throne room for the Roman Emperor Constantine, this impressive structure is a testament to the city’s imperial past.
+3. **Constantine Basilica** - Once a throne room for the Roman Emperor Constantine, this impressive structure is a testament to the city's imperial past.
 
 4. **Imperial Baths (Kaiserthermen)** - The remains of ancient Roman baths offer a glimpse into the social life of Trier during the Roman Empire.
 

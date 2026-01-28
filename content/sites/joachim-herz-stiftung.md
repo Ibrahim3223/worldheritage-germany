@@ -62,7 +62,7 @@ While visiting the Joachim Herz Stiftung, consider exploring some of the nearby 
 
 To make the most of your visit to the Joachim Herz Stiftung, consider the following tips:
 
-- **Photography**: While photography is generally encouraged in public spaces, it’s best to check for any specific guidelines regarding photography inside the foundation, especially during events.
+- **Photography**: While photography is generally encouraged in public spaces, it's best to check for any specific guidelines regarding photography inside the foundation, especially during events.
 
 - **Crowd Avoidance**: To avoid larger crowds, try visiting during weekday afternoons or during special events that may draw more people.
 
@@ -93,7 +93,7 @@ Accessibility information is best confirmed by checking the official website, wh
 For information regarding ticket purchases and availability, check the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities and any available dining options will be detailed on the foundation’s official website.
+Restroom facilities and any available dining options will be detailed on the foundation's official website.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions; layers are recommended to adapt to Hamburg's climate.

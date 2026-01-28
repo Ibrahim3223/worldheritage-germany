@@ -38,7 +38,7 @@ The history of the Albert-Schweitzer-Kirche is intertwined with the legacy of it
 
 Albert Schweitzer's commitment to humanitarian work and his belief in the ethical treatment of all living beings have inspired many. Thus, the church serves not merely as a religious site but also as a hub for social engagement and spiritual reflection. Activities and services held at the church often reflect the values of compassion, service, and community support that Schweitzer advocated throughout his life.
 
-Visitors to the Albert-Schweitzer-Kirche can appreciate the cultural importance of this site, which serves as an educational platform for discussing humanitarian issues and promoting social justice. The church’s role within Tübingen's community highlights the interconnectedness of faith and action, making it a significant landmark for both locals and tourists who are interested in exploring the deeper meanings behind their surroundings.
+Visitors to the Albert-Schweitzer-Kirche can appreciate the cultural importance of this site, which serves as an educational platform for discussing humanitarian issues and promoting social justice. The church's role within Tübingen's community highlights the interconnectedness of faith and action, making it a significant landmark for both locals and tourists who are interested in exploring the deeper meanings behind their surroundings.
 
 ## Architecture and Features
 
@@ -46,15 +46,15 @@ The architectural style of the Albert-Schweitzer-Kirche is characteristic of its
 
 Inside the church, visitors may find a serene atmosphere conducive to meditation and worship. Spaces for community activities are often integral to church design, highlighting the importance of fellowship within the church community. 
 
-The church likely incorporates symbols and motifs that resonate with the teachings of Albert Schweitzer, reflecting his philosophical and ethical perspectives. Visitors should take time to explore both the interior and exterior, paying attention to any notable artistic features that may enrich their understanding of the church’s mission and history.
+The church likely incorporates symbols and motifs that resonate with the teachings of Albert Schweitzer, reflecting his philosophical and ethical perspectives. Visitors should take time to explore both the interior and exterior, paying attention to any notable artistic features that may enrich their understanding of the church's mission and history.
 
 ## Visiting Information
 
-Reaching the Albert-Schweitzer-Kirche is straightforward, as Tübingen is well-connected by public transportation. Visitors can utilize the local train and bus services to access the church easily. The church’s location in the heart of Tübingen also makes it convenient for those exploring the area on foot.
+Reaching the Albert-Schweitzer-Kirche is straightforward, as Tübingen is well-connected by public transportation. Visitors can utilize the local train and bus services to access the church easily. The church's location in the heart of Tübingen also makes it convenient for those exploring the area on foot.
 
 As visiting hours and entry prices may vary, it is advisable to check the official website for current information before planning your visit. Generally, churches offer a welcoming environment for all, allowing visitors to experience the space at their own pace.
 
-Expect a peaceful atmosphere within the church, making it a perfect place for quiet reflection or prayer. Depending on personal interests, visitors might spend anywhere from a brief visit to a more extended stay, engaging with the church’s offerings and surroundings. The best times to visit may align with local events or services, where the community gathers to celebrate together.
+Expect a peaceful atmosphere within the church, making it a perfect place for quiet reflection or prayer. Depending on personal interests, visitors might spend anywhere from a brief visit to a more extended stay, engaging with the church's offerings and surroundings. The best times to visit may align with local events or services, where the community gathers to celebrate together.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ Tübingen is home to a variety of attractions that complement a visit to the Alb
 
 1. **Tübingen Castle**: A historic landmark offering stunning views of the town and surrounding landscapes, ideal for history enthusiasts.
    
-2. **Eberhard Karls University**: One of Germany’s oldest universities, featuring beautiful campuses and lively student culture.
+2. **Eberhard Karls University**: One of Germany's oldest universities, featuring beautiful campuses and lively student culture.
 
 3. **Botanical Garden**: A serene space perfect for a stroll, showcasing a diverse range of plant species.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Albert-Schweitzer-Kirche, consider these i
 
 ## Practical Information
 
-When planning your visit to the Albert-Schweitzer-Kirche, it’s wise to consider the following practicalities:
+When planning your visit to the Albert-Schweitzer-Kirche, it's wise to consider the following practicalities:
 
 - **What to Bring**: A small bag for personal items is recommended, and if you wish to take notes or sketch, bring along a notebook and writing tools.
 
@@ -95,7 +95,7 @@ Visitors typically spend anywhere from 30 minutes to an hour at the Albert-Schwe
 Photography is generally permitted, but it is recommended to be respectful of the worship environment and check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which may be available to enhance your understanding of the church’s history and significance.
+Check the official website for information regarding guided tours, which may be available to enhance your understanding of the church's history and significance.
 
 ### What's the best time to visit?
 The best time to visit may be during weekdays or early mornings for a quieter experience; however, attending a service can provide insight into the community's activities.

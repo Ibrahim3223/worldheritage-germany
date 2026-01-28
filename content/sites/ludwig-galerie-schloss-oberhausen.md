@@ -34,7 +34,7 @@ Whether you are an art aficionado or a casual visitor, the Ludwig Galerie offers
 
 ## History and Significance
 
-The Ludwig Galerie Schloss Oberhausen has played an important role in the cultural landscape of Oberhausen since its establishment. The museum is part of a lineage of institutions that aim to make art accessible to the public, fostering a sense of community through creativity. It is housed in a castle that has witnessed various transformations over the centuries, reflecting the region’s transition from a center of industry to one of culture and art.
+The Ludwig Galerie Schloss Oberhausen has played an important role in the cultural landscape of Oberhausen since its establishment. The museum is part of a lineage of institutions that aim to make art accessible to the public, fostering a sense of community through creativity. It is housed in a castle that has witnessed various transformations over the centuries, reflecting the region's transition from a center of industry to one of culture and art.
 
 The significance of the Ludwig Galerie lies not only in its location but also in its commitment to showcasing contemporary art from both established and emerging artists. By featuring a range of exhibitions, the museum provides a platform for dialogue about current artistic trends, societal issues, and cultural narratives. This dedication to contemporary expressions of art allows the museum to remain relevant and engaged with the community it serves.
 

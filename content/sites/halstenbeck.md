@@ -59,7 +59,7 @@ The best times to visit Halstenbeck are typically during the spring and early au
 Halstenbeck Castle is conveniently located near several other attractions that can enrich your visit to the area. Consider exploring the following sites:
 
 1. **Ostbevern Village**: A quaint village that showcases traditional German architecture, offering a glimpse into local life and culture.
-2. **St. John’s Church**: A historical church in the vicinity that reflects the architectural styles prevalent in the region.
+2. **St. John's Church**: A historical church in the vicinity that reflects the architectural styles prevalent in the region.
 3. **Nature Reserves**: The surrounding area features nature reserves that provide opportunities for hiking and enjoying the local flora and fauna.
 4. **Museum of Local History**: This museum presents exhibitions related to the history of Ostbevern and its surroundings, complementing the historical context of Halstenbeck.
 

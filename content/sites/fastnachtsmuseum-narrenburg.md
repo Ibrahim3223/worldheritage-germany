@@ -80,7 +80,7 @@ While in Hettingen, consider exploring these nearby attractions that complement 
 
 ## Practical Information
 
-When planning your visit to the Fastnachtsmuseum Narrenburg, it’s advisable to bring along a few essentials:
+When planning your visit to the Fastnachtsmuseum Narrenburg, it's advisable to bring along a few essentials:
 
 - **Comfortable Shoes**: Expect to do a fair amount of walking as you explore the exhibits.
 - **Weather Considerations**: Check the weather forecast before your visit, and dress accordingly, as conditions can vary.

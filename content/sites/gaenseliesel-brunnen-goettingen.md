@@ -34,9 +34,9 @@ Visiting the Gänseliesel-Brunnen provides an opportunity to experience the esse
 
 ## History and Significance
 
-The Gänseliesel-Brunnen has a storied past that reflects the cultural fabric of Göttingen. Erected in 1901, it was designed to celebrate the beloved local folk tale of the Gänseliesel. This tale, which tells the story of a young girl who tends to her family’s geese, has become emblematic of the region's folklore and is often associated with themes of innocence and pastoral life. The fountain itself serves as both a tribute to this narrative and a representation of the city's heritage.
+The Gänseliesel-Brunnen has a storied past that reflects the cultural fabric of Göttingen. Erected in 1901, it was designed to celebrate the beloved local folk tale of the Gänseliesel. This tale, which tells the story of a young girl who tends to her family's geese, has become emblematic of the region's folklore and is often associated with themes of innocence and pastoral life. The fountain itself serves as both a tribute to this narrative and a representation of the city's heritage.
 
-Historically, the fountain has been a gathering place for citizens and visitors, contributing to its significance beyond mere aesthetics. It has witnessed various events and celebrations throughout its existence, becoming an integral part of the social life in Göttingen. The Gänseliesel’s role as a public symbol cannot be understated; it stands as a reminder of the city’s connection to its past while also fostering community spirit in the present.
+Historically, the fountain has been a gathering place for citizens and visitors, contributing to its significance beyond mere aesthetics. It has witnessed various events and celebrations throughout its existence, becoming an integral part of the social life in Göttingen. The Gänseliesel's role as a public symbol cannot be understated; it stands as a reminder of the city's connection to its past while also fostering community spirit in the present.
 
 The Gänseliesel-Brunnen symbolizes the interplay between folklore and civic identity. As a focal point in the town square, it has served to inspire artists, writers, and scholars throughout the years. Its presence enriches the cultural landscape of Göttingen, making it an important landmark that continues to attract attention and admiration.
 
@@ -46,7 +46,7 @@ The Gänseliesel-Brunnen is not only a symbol of folklore but also a striking pi
 
 The architectural design of the fountain is characterized by its elegant stonework and intricate detailing. The base of the fountain is crafted from durable materials, ensuring its longevity. Surrounding the statue, the fountain is adorned with decorative elements that reflect the craftsmanship of the early 20th century. The flowing water adds a dynamic quality to the structure, enhancing its visual appeal and providing a soothing auditory backdrop.
 
-One of the notable features of the Gänseliesel-Brunnen is its location in front of the medieval town hall, which amplifies its historical context. Together, they create a picturesque scene that bridges different eras of Göttingen's architectural evolution. The combination of the fountain and the town hall forms a harmonious visual narrative, showcasing the city’s rich historical tapestry.
+One of the notable features of the Gänseliesel-Brunnen is its location in front of the medieval town hall, which amplifies its historical context. Together, they create a picturesque scene that bridges different eras of Göttingen's architectural evolution. The combination of the fountain and the town hall forms a harmonious visual narrative, showcasing the city's rich historical tapestry.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ The Gänseliesel-Brunnen is conveniently located near several attractions that e
 
 1. **Göttingen Town Hall**: Just steps away from the fountain, the medieval town hall is an architectural marvel worth exploring. Its impressive façade and historical significance make it a great complement to your visit.
 
-2. **St. Jacob’s Church**: A short walk from the fountain, this stunning Gothic church is known for its intricate stained glass windows and serene interior, offering a peaceful retreat from the vibrant square.
+2. **St. Jacob's Church**: A short walk from the fountain, this stunning Gothic church is known for its intricate stained glass windows and serene interior, offering a peaceful retreat from the vibrant square.
 
 3. **Gänseliesel's Fountain Park**: Adjacent to the fountain, this park provides a relaxing green space where visitors can unwind, enjoy a picnic, or simply watch the world go by.
 
@@ -72,9 +72,9 @@ The Gänseliesel-Brunnen is conveniently located near several attractions that e
 
 ## Insider Tips
 
-For those looking to capture the perfect photograph of the Gänseliesel-Brunnen, consider visiting during the early morning or late afternoon when the light is softer and more flattering. The fountain's intricate details are best showcased in this lighting, and you’ll have a better chance of avoiding crowds.
+For those looking to capture the perfect photograph of the Gänseliesel-Brunnen, consider visiting during the early morning or late afternoon when the light is softer and more flattering. The fountain's intricate details are best showcased in this lighting, and you'll have a better chance of avoiding crowds.
 
-To sidestep the busiest times, try visiting on weekdays, particularly in the morning. This allows for a more tranquil experience, enabling you to fully appreciate the fountain’s beauty without the hustle and bustle of larger crowds.
+To sidestep the busiest times, try visiting on weekdays, particularly in the morning. This allows for a more tranquil experience, enabling you to fully appreciate the fountain's beauty without the hustle and bustle of larger crowds.
 
 ## Practical Information
 

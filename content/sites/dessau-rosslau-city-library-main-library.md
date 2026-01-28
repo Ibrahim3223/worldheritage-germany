@@ -52,7 +52,7 @@ Planning a visit to the Dessau-Roßlau City Library is straightforward, as it is
 
 When visiting the library, expect to find a welcoming atmosphere that is conducive to reading and research. Allocate at least a couple of hours to explore the resources available, including various sections that cater to different interests and age groups. Engaging with the library staff can also enhance your experience, as they can provide insights and recommendations based on your interests.
 
-The best times to visit are usually during weekdays when the library is less crowded, allowing for a more peaceful experience. However, weekends may offer unique events or programs that could enrich your visit, so it’s worth checking the schedule in advance.
+The best times to visit are usually during weekdays when the library is less crowded, allowing for a more peaceful experience. However, weekends may offer unique events or programs that could enrich your visit, so it's worth checking the schedule in advance.
 
 ## Nearby Attractions
 

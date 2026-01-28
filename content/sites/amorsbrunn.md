@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Amorsbrunn is a quaint chapel located in the picturesque Spessart region of Germany. This serene and tranquil site is not only a place of worship but also an emblem of the area’s rich cultural and historical heritage. Characterized by its simple yet captivating architecture, Amorsbrunn serves as a spiritual haven for locals and visitors alike, offering a moment of reflection amidst the natural beauty of its surroundings. The chapel’s significance extends beyond its religious function, intertwining with the region's traditions and community life. 
+Amorsbrunn is a quaint chapel located in the picturesque Spessart region of Germany. This serene and tranquil site is not only a place of worship but also an emblem of the area's rich cultural and historical heritage. Characterized by its simple yet captivating architecture, Amorsbrunn serves as a spiritual haven for locals and visitors alike, offering a moment of reflection amidst the natural beauty of its surroundings. The chapel's significance extends beyond its religious function, intertwining with the region's traditions and community life. 
 
 As you explore the Spessart, a forested area known for its natural beauty, the Amorsbrunn chapel stands as an inviting stop on your journey. Whether you're seeking spiritual solace, architectural admiration, or a peaceful retreat in nature, this chapel promises a rewarding experience.
 
@@ -34,7 +34,7 @@ As you explore the Spessart, a forested area known for its natural beauty, the A
 
 The history of Amorsbrunn is closely tied to the traditions of the Spessart region and the role of chapels in rural German communities. While specific historical dates and events may be elusive, chapels like Amorsbrunn have often served as focal points for communal gatherings and religious ceremonies in the region. 
 
-The chapel’s name, which translates to "Lover's Spring," hints at local folklore and the significance of water sources in German culture, often associated with healing and spiritual renewal. Over the years, such sites have become important for both personal reflection and community events, acting as places where local customs and traditions converge.
+The chapel's name, which translates to "Lover's Spring," hints at local folklore and the significance of water sources in German culture, often associated with healing and spiritual renewal. Over the years, such sites have become important for both personal reflection and community events, acting as places where local customs and traditions converge.
 
 Additionally, the chapel represents the architectural style typical of rural chapels in Germany, reflecting the local craftsmanship and the spiritual values of the people in the area. Many visitors are drawn not only to the chapel itself but also to the stories and traditions that it embodies, making it an integral part of the cultural fabric of the Spessart region.
 

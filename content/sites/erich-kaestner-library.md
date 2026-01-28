@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Erich Kästner Library, located in the serene region of Oberschwarzach, Germany, stands as a vital cultural resource for local residents and visitors alike. This library is not merely a repository of books but a vibrant community hub that fosters learning, creativity, and inspiration. As a part of Germany’s extensive network of libraries, it offers a glimpse into the literary culture that has flourished in this part of the country. The library's collection spans various genres, catering to diverse interests and ages, making it an essential stop for bibliophiles and casual readers.
+The Erich Kästner Library, located in the serene region of Oberschwarzach, Germany, stands as a vital cultural resource for local residents and visitors alike. This library is not merely a repository of books but a vibrant community hub that fosters learning, creativity, and inspiration. As a part of Germany's extensive network of libraries, it offers a glimpse into the literary culture that has flourished in this part of the country. The library's collection spans various genres, catering to diverse interests and ages, making it an essential stop for bibliophiles and casual readers.
 
 With its strategic location, the Erich Kästner Library serves both locals and those passing through, providing a quiet sanctuary for study and reflection. The library embodies the spirit of public service, making knowledge accessible to all. Whether you are an avid reader seeking your next literary adventure or a curious traveler looking to immerse yourself in local culture, this library promises to enrich your experience in Oberschwarzach.
 
@@ -70,7 +70,7 @@ Visitors to the Erich Kästner Library can explore several nearby attractions th
 
 For those planning to visit the Erich Kästner Library, here are some insider tips to enhance your experience:
 
-- **Photography**: If you wish to capture the essence of the library, be mindful of signage regarding photography. Some areas may have restrictions, so it’s best to check beforehand.
+- **Photography**: If you wish to capture the essence of the library, be mindful of signage regarding photography. Some areas may have restrictions, so it's best to check beforehand.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekday mornings or early afternoons, as these times are typically less crowded. 
 
@@ -87,7 +87,7 @@ When preparing for a visit to the Erich Kästner Library, consider bringing a fe
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A couple of hours is generally sufficient to explore the library’s offerings, but you may want to extend your visit if attending any events.
+A couple of hours is generally sufficient to explore the library's offerings, but you may want to extend your visit if attending any events.
 
 ### Is photography allowed?
 Photography policies vary; check for signage or inquire at the front desk to avoid any issues.

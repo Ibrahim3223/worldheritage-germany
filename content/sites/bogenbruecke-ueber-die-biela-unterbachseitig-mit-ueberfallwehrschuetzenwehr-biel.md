@@ -46,7 +46,7 @@ Visiting the Bogenbrücke über die Biela is an accessible experience for those 
 
 Check the official website for current information regarding hours and any potential entrance fees. The bridge can be enjoyed year-round, but spring and autumn often provide the most pleasant weather for outdoor excursions. The vibrant colors of fall foliage or the fresh blooms of spring add a unique charm to the visit.
 
-Visitors can expect to spend about an hour exploring the bridge and its surroundings. This timeframe allows for leisurely walks, photography, and perhaps a moment of quiet reflection by the waterside. It’s advisable to visit during weekdays or early mornings to avoid larger crowds, especially during peak tourist seasons.
+Visitors can expect to spend about an hour exploring the bridge and its surroundings. This timeframe allows for leisurely walks, photography, and perhaps a moment of quiet reflection by the waterside. It's advisable to visit during weekdays or early mornings to avoid larger crowds, especially during peak tourist seasons.
 
 ## Nearby Attractions
 

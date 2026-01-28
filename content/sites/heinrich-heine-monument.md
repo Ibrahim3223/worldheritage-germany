@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Berlin's Bezirk Mitte, the Heinrich Heine Monument stands as a tribute to one of Germany's most influential poets and writers. This striking statue, crafted by artist Waldemar Grzimek, offers both a glimpse into the artistic landscape of 20th-century Germany and a reflection on the life and legacy of Heinrich Heine himself. Heine's works resonate with themes of love, loss, and social critique, making his contributions to literature both enduring and significant. 
 
-Located near the bustling streets of Berlin, the monument not only commemorates Heine’s literary achievements but also invites visitors to engage with the rich cultural history of the city. As you approach the statue, you will not only witness an artistic representation but also feel the pulse of a city that has been shaped by its literary giants. Exploring the monument provides an opportunity to delve deeper into the historical context of Heine’s life and the socio-political environment of his time.
+Located near the bustling streets of Berlin, the monument not only commemorates Heine's literary achievements but also invites visitors to engage with the rich cultural history of the city. As you approach the statue, you will not only witness an artistic representation but also feel the pulse of a city that has been shaped by its literary giants. Exploring the monument provides an opportunity to delve deeper into the historical context of Heine's life and the socio-political environment of his time.
 
 This guide aims to provide you with a comprehensive understanding of the Heinrich Heine Monument, from its historical significance to practical visiting information. Whether you are a literature enthusiast or a casual traveler, your visit to this monument will enhance your appreciation of Berlin's cultural heritage.
 
@@ -38,11 +38,11 @@ Heinrich Heine, born in 1797, was a pivotal figure in German literature, known f
 
 The monument dedicated to Heine is not just a physical representation of the man but also a symbol of the struggle for freedom of expression and the importance of literary voices. It was erected as a recognition of his contributions to literature and his enduring influence on future generations. Heine's legacy continues to be felt in modern literature and social discourse, underscoring the relevance of his thoughts and ideas today.
 
-The statue by Waldemar Grzimek, who was active during a time of significant artistic evolution in Germany, reflects the artistic tendencies of the mid-20th century. Grzimek’s style combines realism with an expressive quality, capturing the essence of Heine's character and spirit. The monument stands as a focal point in Berlin, attracting not only admirers of Heine but also those interested in the intersection of art and literature.
+The statue by Waldemar Grzimek, who was active during a time of significant artistic evolution in Germany, reflects the artistic tendencies of the mid-20th century. Grzimek's style combines realism with an expressive quality, capturing the essence of Heine's character and spirit. The monument stands as a focal point in Berlin, attracting not only admirers of Heine but also those interested in the intersection of art and literature.
 
 ## Architecture and Features
 
-The Heinrich Heine Monument is a notable example of 20th-century sculpture, showcasing the distinct style of artist Waldemar Grzimek. The statue captures the likeness of Heine in a thoughtful pose, embodying the introspective nature of his poetry. The design reflects a balance between realism and stylized forms, which was characteristic of Grzimek’s work.
+The Heinrich Heine Monument is a notable example of 20th-century sculpture, showcasing the distinct style of artist Waldemar Grzimek. The statue captures the likeness of Heine in a thoughtful pose, embodying the introspective nature of his poetry. The design reflects a balance between realism and stylized forms, which was characteristic of Grzimek's work.
 
 The monument is crafted from high-quality materials that lend it a sense of permanence and dignity, ensuring that it stands as a lasting tribute to Heine's legacy. Its placement in a public space allows for interaction with visitors, inviting them to pause and reflect on Heine's contributions to literature and culture. Surrounding the statue, the landscape is thoughtfully arranged, providing a serene atmosphere amidst the urban environment, enhancing the overall experience of the site.
 
@@ -60,7 +60,7 @@ For those looking to maximize their experience, visiting during the early mornin
 
 1. **Berlin Cathedral (Berliner Dom)**: Just a short distance away, this magnificent cathedral offers stunning architecture and a chance to explore its beautiful interior and dome.
 
-2. **Museum Island (Museumsinsel)**: A UNESCO World Heritage site, this island in the Spree River is home to several of Berlin’s most important museums, including the Pergamon Museum and the Neues Museum.
+2. **Museum Island (Museumsinsel)**: A UNESCO World Heritage site, this island in the Spree River is home to several of Berlin's most important museums, including the Pergamon Museum and the Neues Museum.
 
 3. **Unter den Linden**: This historic boulevard stretches from Brandenburg Gate to Berlin Cathedral, lined with trees, shops, and significant buildings, making for a pleasant stroll.
 

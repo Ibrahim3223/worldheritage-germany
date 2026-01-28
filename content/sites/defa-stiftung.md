@@ -36,7 +36,7 @@ Located in Berlin, a city renowned for its dynamic arts scene, the foundation of
 
 The DEFA-Stiftung was founded in 1998, marking a significant moment in the preservation of German film heritage. DEFA, the Deutsche Film-Aktiengesellschaft, was established in 1946 and became the primary film studio in East Germany. Over the decades, it produced a wide array of films, ranging from feature films to documentaries and animated works, reflecting the social and political climate of the time. The films created by DEFA are not just entertainment; they are valuable cultural artifacts that provide insight into the lives, struggles, and aspirations of East Germans.
 
-The foundation's establishment was rooted in the need to protect this cinematic legacy from being forgotten after the reunification of Germany. The DEFA-Stiftung focuses on the preservation of film material, particularly those products that were at risk due to the deterioration of film stock or neglect. This includes the restoration of classic films, the digitization of archival material, and the curation of exhibitions showcasing DEFA’s contributions to the film industry.
+The foundation's establishment was rooted in the need to protect this cinematic legacy from being forgotten after the reunification of Germany. The DEFA-Stiftung focuses on the preservation of film material, particularly those products that were at risk due to the deterioration of film stock or neglect. This includes the restoration of classic films, the digitization of archival material, and the curation of exhibitions showcasing DEFA's contributions to the film industry.
 
 In addition to preservation, the DEFA-Stiftung is committed to promoting the films through various channels. They host screenings and discussions that encourage contemporary audiences to engage with the films from a modern perspective. Through educational programs, the foundation also aims to inspire younger generations to appreciate the significance of film as a medium for storytelling and cultural reflection.
 
@@ -44,9 +44,9 @@ Moreover, the foundation plays a vital role in fostering international dialogue 
 
 ## Architecture and Features
 
-The DEFA-Stiftung is housed in a modern facility that reflects a blend of functionality and aesthetic appeal. While specific details about the architectural style are not provided, the building is designed to accommodate various activities, including film screenings, exhibitions, and educational programs. The interior is tailored to create an inviting space for visitors, with areas dedicated to showcasing the foundation’s extensive film collection.
+The DEFA-Stiftung is housed in a modern facility that reflects a blend of functionality and aesthetic appeal. While specific details about the architectural style are not provided, the building is designed to accommodate various activities, including film screenings, exhibitions, and educational programs. The interior is tailored to create an inviting space for visitors, with areas dedicated to showcasing the foundation's extensive film collection.
 
-One of the notable features of the DEFA-Stiftung is its archive, which serves as a repository for thousands of films and related materials. This collection is not only significant for its size but also for the cultural narratives it encompasses. The foundation’s commitment to digital preservation allows for continued access to these films, ensuring that they are available for future generations.
+One of the notable features of the DEFA-Stiftung is its archive, which serves as a repository for thousands of films and related materials. This collection is not only significant for its size but also for the cultural narratives it encompasses. The foundation's commitment to digital preservation allows for continued access to these films, ensuring that they are available for future generations.
 
 The foundation also frequently hosts exhibitions that explore different themes related to DEFA films, offering visitors a unique insight into the artistic and historical contexts of the works. These exhibitions are designed to engage a wide audience, from film enthusiasts to those new to the subject matter.
 
@@ -82,7 +82,7 @@ To avoid crowds, consider visiting during weekdays or during less popular hours.
 
 ## Practical Information
 
-When visiting the DEFA-Stiftung, it’s advisable to bring a notebook or digital device to jot down your thoughts and reflections, especially if you plan to engage with the educational programs. Comfortable walking shoes are recommended, as you may spend time exploring the exhibitions.
+When visiting the DEFA-Stiftung, it's advisable to bring a notebook or digital device to jot down your thoughts and reflections, especially if you plan to engage with the educational programs. Comfortable walking shoes are recommended, as you may spend time exploring the exhibitions.
 
 Seasonal considerations are also important. Berlin can experience variable weather throughout the year, so dress appropriately for the season. If visiting during colder months, be prepared for brisk temperatures, while summer visits may require lighter clothing.
 

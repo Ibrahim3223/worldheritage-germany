@@ -42,7 +42,7 @@ Today, Burg Korb is not only a historical landmark but also a cultural symbol, r
 
 Burg Korb is characterized by its formidable structure, which showcases the architectural style typical of medieval castles. The castle features robust stone walls that have withstood the test of time, a testament to the engineering capabilities of its builders. The layout of Burg Korb includes essential elements such as towers, battlements, and a central courtyard, all designed to serve both defensive and residential purposes.
 
-One notable feature of the castle is its towers, which rise prominently above the surrounding landscape. These towers not only provided vantage points for surveillance but also served as living quarters for the castle’s inhabitants. The thick walls and narrow windows are indicative of the period's defensive strategies, designed to withstand attacks while maximizing safety for those inside.
+One notable feature of the castle is its towers, which rise prominently above the surrounding landscape. These towers not only provided vantage points for surveillance but also served as living quarters for the castle's inhabitants. The thick walls and narrow windows are indicative of the period's defensive strategies, designed to withstand attacks while maximizing safety for those inside.
 
 The interior spaces of Burg Korb may include remnants of historical furnishings and decorations, offering insights into the daily life of its former occupants. Exploring these areas can provide a deeper understanding of the lifestyle and social structures of the time. While specific details about the interior may vary, the overall architectural integrity of the castle remains a focal point for visitors.
 
@@ -76,7 +76,7 @@ To make the most of your visit to Burg Korb, consider these insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try visiting on weekdays or during the off-peak season. Early arrivals can also help you enjoy the site before it gets busier.
 
-- **Guided Tours**: If available, consider taking a guided tour to gain deeper insights into the castle’s history and architecture. Knowledgeable guides can provide context that enriches your visit.
+- **Guided Tours**: If available, consider taking a guided tour to gain deeper insights into the castle's history and architecture. Knowledgeable guides can provide context that enriches your visit.
 
 ## Practical Information
 

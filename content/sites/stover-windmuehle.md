@@ -66,7 +66,7 @@ While visiting the Stover Windmühle, consider taking the opportunity to explore
 
 4. **Ebstorf Abbey**: A historical site offering insights into monastic life in the region, with beautiful grounds to explore.
 
-5. **Hitzacker Old Town**: Renowned for its picturesque half-timbered houses and the scenic Elbe River, it’s a delightful area to stroll and enjoy local cuisine.
+5. **Hitzacker Old Town**: Renowned for its picturesque half-timbered houses and the scenic Elbe River, it's a delightful area to stroll and enjoy local cuisine.
 
 ## Insider Tips
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Blankeneser Kirche, a notable church building located in the Altona district of Hamburg, Germany, serves as a significant cultural and architectural landmark in the region. Its serene ambiance and historical significance make it a captivating destination for visitors interested in religious architecture and local heritage. The church not only represents a place of worship but also acts as a focal point for the community, reflecting the values and traditions of the area. With its architectural merits and community role, Blankeneser Kirche stands as an essential site for understanding the cultural fabric of Hamburg.
 
-Situated within the charming district of Blankenese, this church is easily accessible and benefits from its proximity to the scenic Elbe River, which adds to the overall atmospheric experience of a visit. Whether you are drawn to its architectural features, its historical context, or the surrounding neighborhood, Blankeneser Kirche promises a meaningful exploration of Hamburg’s cultural landscape.
+Situated within the charming district of Blankenese, this church is easily accessible and benefits from its proximity to the scenic Elbe River, which adds to the overall atmospheric experience of a visit. Whether you are drawn to its architectural features, its historical context, or the surrounding neighborhood, Blankeneser Kirche promises a meaningful exploration of Hamburg's cultural landscape.
 
 ## History and Significance
 

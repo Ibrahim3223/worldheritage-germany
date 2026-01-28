@@ -86,7 +86,7 @@ To make the most of your visit to Weenermoorer Kirche, consider the following in
 
 ## Practical Information
 
-When preparing for your visit to Weenermoorer Kirche, it’s essential to consider a few practical aspects:
+When preparing for your visit to Weenermoorer Kirche, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may wish to explore the church and its surroundings thoroughly. Additionally, a camera can help you capture the unique architecture and ambiance.
 
@@ -115,7 +115,7 @@ Check the official website for information regarding accessibility options for v
 Ticket purchasing options may vary; confirm details on the official website before your visit.
 
 ### Are there restrooms and cafes?
-Information on amenities such as restrooms and nearby cafes is not specified; it’s advisable to check the local area for available facilities.
+Information on amenities such as restrooms and nearby cafes is not specified; it's advisable to check the local area for available facilities.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that this is a place of worship.

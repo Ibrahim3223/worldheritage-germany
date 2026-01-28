@@ -66,7 +66,7 @@ After exploring Kanzlerhaus, visitors might consider venturing to several nearby
 
 4. **Museum im Ritterhaus**: This museum highlights the history of Wolfenbüttel through a variety of exhibits, adding another layer to the local cultural experience.
 
-5. **The Old Town**: A stroll through Wolfenbüttel’s picturesque old town reveals charming streets and buildings, providing opportunities for leisurely exploration and photography.
+5. **The Old Town**: A stroll through Wolfenbüttel's picturesque old town reveals charming streets and buildings, providing opportunities for leisurely exploration and photography.
 
 ## Insider Tips
 

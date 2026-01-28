@@ -36,7 +36,7 @@ The history of Henrichshütte is deeply intertwined with the development of the 
 
 The site's significance extends beyond its industrial functions; it embodies the stories of workers and their families, whose lives were shaped by the rhythms of the factory. The museum serves not only as a repository of machinery and tools but also as a platform for understanding the labor movements and social changes that arose during the industrial age. Exhibits at Henrichshütte often highlight the conditions of workers, the technological advancements of the time, and the environmental impacts of industrial activity, providing a comprehensive view of this period in history.
 
-In addition to its educational role, Henrichshütte contributes to the preservation of industrial heritage. By showcasing the equipment and techniques used in iron and steel production, the museum safeguards knowledge that might otherwise be lost. This commitment to preserving industrial history resonates within the broader context of Germany’s cultural heritage, making Henrichshütte a key player in promoting awareness of the country’s industrial past.
+In addition to its educational role, Henrichshütte contributes to the preservation of industrial heritage. By showcasing the equipment and techniques used in iron and steel production, the museum safeguards knowledge that might otherwise be lost. This commitment to preserving industrial history resonates within the broader context of Germany's cultural heritage, making Henrichshütte a key player in promoting awareness of the country's industrial past.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ The best times to visit Henrichshütte may vary, but typically, weekdays tend to
 
 ## Nearby Attractions
 
-1. **Hattingen Old Town**: A short distance from Henrichshütte, the historic center of Hattingen features charming streets lined with half-timbered houses and quaint shops. It’s ideal for a leisurely stroll.
+1. **Hattingen Old Town**: A short distance from Henrichshütte, the historic center of Hattingen features charming streets lined with half-timbered houses and quaint shops. It's ideal for a leisurely stroll.
 
 2. **St. George's Church**: This notable church in Hattingen showcases impressive Gothic architecture and is a focal point of the town's historical landscape.
 

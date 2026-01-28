@@ -34,15 +34,15 @@ Schwarzenbach an der Saale itself is a charming town, characterized by its sceni
 
 Erika Fuchs, the namesake of the museum, was a celebrated translator and editor, best known for her work on the iconic comic series "Mickey Mouse" and many others during the mid-20th century. Her translations not only brought beloved characters to the German-speaking world but also shaped the landscape of comic literature in Germany. Fuchs's innovative approach to translation and her keen insights into cultural nuances allowed her to resonate with readers, making comics more accessible and enjoyable.
 
-The establishment of the Erika-Fuchs-Haus is a significant cultural endeavor, providing a dedicated space to celebrate Fuchs’s contributions. The museum not only showcases her work but also contextualizes the evolution of comics as a serious art form and a medium for storytelling. By paying homage to Fuchs, the museum reflects on the broader cultural narrative of comics in Germany, illustrating how this art form has evolved and influenced generations.
+The establishment of the Erika-Fuchs-Haus is a significant cultural endeavor, providing a dedicated space to celebrate Fuchs's contributions. The museum not only showcases her work but also contextualizes the evolution of comics as a serious art form and a medium for storytelling. By paying homage to Fuchs, the museum reflects on the broader cultural narrative of comics in Germany, illustrating how this art form has evolved and influenced generations.
 
-Visitors to the museum can explore various exhibitions that delve into Fuchs’s life, her artistic collaborations, and the impact she had on the comic industry. Through multimedia presentations, original artworks, and personal artifacts, the museum engages audiences with the intricate relationship between language, art, and culture. It serves as a platform for discussions about the significance of comics in society, making it an important stop for cultural heritage enthusiasts.
+Visitors to the museum can explore various exhibitions that delve into Fuchs's life, her artistic collaborations, and the impact she had on the comic industry. Through multimedia presentations, original artworks, and personal artifacts, the museum engages audiences with the intricate relationship between language, art, and culture. It serves as a platform for discussions about the significance of comics in society, making it an important stop for cultural heritage enthusiasts.
 
 ## Architecture and Features
 
 The Erika-Fuchs-Haus is housed in a structure that mirrors the charm of its historical surroundings. While specific architectural details are not provided, the design likely reflects the regional style, blending functionality with aesthetic appeal. Museums of this nature are often characterized by their welcoming interiors, designed to facilitate engagement with the exhibits and encourage visitors to immerse themselves in the content.
 
-Inside, the museum features a variety of spaces dedicated to different aspects of Fuchs’s work and the world of comics. Visitors can expect to find exhibition halls that showcase original comic art, interactive installations that invite participation, and informative displays that provide context to the artworks. The layout is typically designed to guide visitors through a narrative journey, enhancing the overall experience.
+Inside, the museum features a variety of spaces dedicated to different aspects of Fuchs's work and the world of comics. Visitors can expect to find exhibition halls that showcase original comic art, interactive installations that invite participation, and informative displays that provide context to the artworks. The layout is typically designed to guide visitors through a narrative journey, enhancing the overall experience.
 
 One of the notable aspects of the museum is its commitment to education and engagement, often incorporating workshops and events that allow visitors to dive deeper into the world of comics. This focus on interaction makes it not only a place for observation but also for participation, fostering a deeper appreciation for the art form.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Erika-Fuchs-Haus, consider these insider t
 
 - **Crowd Avoidance**: If you prefer a quieter visit, consider going during weekdays or early in the day. This will provide a more relaxed atmosphere for exploring the exhibits.
 
-- **Engage with Staff**: Museum staff can often provide insights and recommendations that enhance your understanding of the exhibits. Don’t hesitate to ask questions!
+- **Engage with Staff**: Museum staff can often provide insights and recommendations that enhance your understanding of the exhibits. Don't hesitate to ask questions!
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Check the official website for information regarding guided tours. These may be 
 The best time to visit can depend on your preferences. Weekdays may offer a quieter experience, while weekends may feature more activities.
 
 ### Is it wheelchair accessible?
-For specific accessibility options, it’s best to check the official website or contact the museum directly before your visit.
+For specific accessibility options, it's best to check the official website or contact the museum directly before your visit.
 
 ### Can I buy tickets online?
 Availability of online ticket purchasing may vary. Please check the official website for the most current information.

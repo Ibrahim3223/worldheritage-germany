@@ -52,7 +52,7 @@ For those wishing to visit Hörnle, the mountain is accessible by various modes 
 
 When planning a visit to Hörnle, it is essential to check the official website for current information regarding hours and any potential fees associated with access. The terrain around the mountain is suited for day hikes, and many visitors choose to spend several hours exploring its trails. The best times to visit are during the spring and autumn months when the weather is mild, and the scenery is particularly vibrant.
 
-During your visit, expect to find well-marked trails that cater to different hiking abilities. Whether you are looking for a leisurely stroll or a more challenging hike, Hörnle offers a range of options. It’s advisable to bring plenty of water, snacks, and appropriate hiking gear to ensure a comfortable experience.
+During your visit, expect to find well-marked trails that cater to different hiking abilities. Whether you are looking for a leisurely stroll or a more challenging hike, Hörnle offers a range of options. It's advisable to bring plenty of water, snacks, and appropriate hiking gear to ensure a comfortable experience.
 
 ## Nearby Attractions
 

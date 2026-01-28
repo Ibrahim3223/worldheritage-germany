@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the heart of Oldenburg, Germany, the Augusteum stands as a significant institution dedicated to the preservation and exhibition of art. Founded in 1876 by Peter II, Grand Duke of Oldenburg, this art museum is named in honor of his father, an avid art collector. It serves not only as a repository of artistic heritage but also as a cultural hub that invites visitors to engage with a diverse array of artworks. The Augusteum is particularly renowned for its extensive collections and innovative exhibitions, making it a noteworthy destination for art enthusiasts and casual visitors alike.
 
-Oldenburg, a city with a rich history and vibrant cultural scene, provides a fitting backdrop for the Augusteum. The museum's commitment to showcasing art reflects the city’s broader cultural landscape, which includes historical architecture, parks, and various museums. Visitors to the Augusteum can expect an enriching experience that offers insights into both historical and contemporary art, making it a must-visit location in the region.
+Oldenburg, a city with a rich history and vibrant cultural scene, provides a fitting backdrop for the Augusteum. The museum's commitment to showcasing art reflects the city's broader cultural landscape, which includes historical architecture, parks, and various museums. Visitors to the Augusteum can expect an enriching experience that offers insights into both historical and contemporary art, making it a must-visit location in the region.
 
 ## History and Significance
 
@@ -66,13 +66,13 @@ While in Oldenburg, visitors to the Augusteum can explore several nearby attract
    
 4. **Lamberti Church** - An architectural gem and a significant religious site in Oldenburg, known for its stunning tower and rich history.
 
-5. **Oldenburg’s Central Park (Stadtgarten)** - A lovely green space ideal for relaxation and reflection, providing a peaceful contrast to the busy city.
+5. **Oldenburg's Central Park (Stadtgarten)** - A lovely green space ideal for relaxation and reflection, providing a peaceful contrast to the busy city.
 
 ## Insider Tips
 
 To enhance your visit to the Augusteum, consider the following insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for restrictions, especially in exhibition spaces. Be respectful of the artworks and other visitors when capturing your moments.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for restrictions, especially in exhibition spaces. Be respectful of the artworks and other visitors when capturing your moments.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting during weekday mornings or late afternoons can help you avoid larger crowds. Special exhibitions may draw more visitors, so plan accordingly.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Augusteum, here are some practical consider
 Depending on your interest level, a visit can last from one to three hours. This time allows for thorough exploration of the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s advisable to check signage or inquire with staff regarding specific restrictions.
+Photography policies may vary by exhibition. It's advisable to check signage or inquire with staff regarding specific restrictions.
 
 ### Are there guided tours?
 The Augusteum may offer guided tours. Check the official website for details on availability and scheduling.

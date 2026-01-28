@@ -28,7 +28,7 @@ image_srcset:
 
 Felsberg, located in the picturesque Odenwald mountain range of Hesse, Germany, stands as a prominent natural feature in the region. This mountain is not only an important landmark for local geography but also serves as a hub for outdoor enthusiasts seeking hiking, nature exploration, and breathtaking scenery. The area around Felsberg is characterized by its rolling hills, dense woodlands, and the rich biodiversity typical of the Odenwald region. Visitors to Felsberg are rewarded with a sense of tranquility and the opportunity to immerse themselves in the natural beauty of central Germany.
 
-The Odenwald is known for its cultural significance, having inspired poets and artists for centuries. Felsberg, with its striking height and unique geological features, adds to the region’s allure, making it a destination for both casual visitors and dedicated hikers. The mountain is pivotal for understanding the natural landscape that defines this area, offering expansive views and a chance to connect with Germany’s natural heritage. As you explore Felsberg, you will discover the harmonious relationship between the landscape and the cultural narratives embedded within it.
+The Odenwald is known for its cultural significance, having inspired poets and artists for centuries. Felsberg, with its striking height and unique geological features, adds to the region's allure, making it a destination for both casual visitors and dedicated hikers. The mountain is pivotal for understanding the natural landscape that defines this area, offering expansive views and a chance to connect with Germany's natural heritage. As you explore Felsberg, you will discover the harmonious relationship between the landscape and the cultural narratives embedded within it.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ While Felsberg does not feature significant man-made structures, the mountain is
 
 To visit Felsberg, travelers can access the site via various transportation options, including private vehicles and public transport. The nearest major towns offer access to local bus services that can take visitors closer to the mountain. The region is well-connected, making it easy for visitors to include Felsberg in their travel itinerary.
 
-When planning a visit, it is advisable to check the official website for current information on access hours and any potential entry fees. Visitors can expect a range of activities, from leisurely walks to more challenging hikes. A typical visit may last several hours, depending on the chosen trails and the individual’s pace.
+When planning a visit, it is advisable to check the official website for current information on access hours and any potential entry fees. Visitors can expect a range of activities, from leisurely walks to more challenging hikes. A typical visit may last several hours, depending on the chosen trails and the individual's pace.
 
 The best times to visit Felsberg are during the spring and autumn months when the weather is pleasant, and the natural surroundings are particularly vibrant. However, each season offers a unique perspective on the mountain, with winter providing a serene landscape and summer inviting lush greenery.
 
@@ -99,7 +99,7 @@ Guided tours may be available through local hiking organizations. Check the offi
 The best times to visit are in spring and autumn when the weather is mild and the scenery is particularly vibrant.
 
 ### Is it wheelchair accessible?
-Due to the natural terrain, access may be limited for individuals with mobility challenges. It’s advisable to check specific trail information.
+Due to the natural terrain, access may be limited for individuals with mobility challenges. It's advisable to check specific trail information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding any potential entry fees and ticket purchasing options.

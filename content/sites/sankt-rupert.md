@@ -40,7 +40,7 @@ In addition to its community role, Sankt Rupert is also part of the broader narr
 
 ## Architecture and Features
 
-Sankt Rupert is characterized by its distinctive architectural features that highlight the traditional styles commonly found in Bavarian church buildings. The exterior of the church is likely to showcase elements such as a steeple, intricate stonework, and possibly vibrant stained-glass windows, which are typical of the region’s ecclesiastical architecture. These features contribute to the church's aesthetic appeal and invite admiration from both visitors and locals.
+Sankt Rupert is characterized by its distinctive architectural features that highlight the traditional styles commonly found in Bavarian church buildings. The exterior of the church is likely to showcase elements such as a steeple, intricate stonework, and possibly vibrant stained-glass windows, which are typical of the region's ecclesiastical architecture. These features contribute to the church's aesthetic appeal and invite admiration from both visitors and locals.
 
 Inside, the church may reveal a sanctuary designed to enhance the experience of worship. The layout typically includes a nave, side aisles, and an altar area, arranged to facilitate both individual reflection and communal gatherings. The interior decor often features religious iconography, artwork, and ornamental details that reflect the spiritual heritage of the community.
 
@@ -72,7 +72,7 @@ While Sankt Rupert itself is a captivating destination, visitors to Freilassing 
 
 For those looking to make the most of their visit to Sankt Rupert, consider arriving early in the day or later in the afternoon to avoid larger crowds. This timing allows for a more intimate experience as you explore the church and appreciate its features.
 
-Photography enthusiasts will find plenty of opportunities to capture the church’s architectural details, particularly during golden hour when natural light accentuates the building's features. However, always be respectful of the sacred atmosphere and the people who may be there for worship or reflection.
+Photography enthusiasts will find plenty of opportunities to capture the church's architectural details, particularly during golden hour when natural light accentuates the building's features. However, always be respectful of the sacred atmosphere and the people who may be there for worship or reflection.
 
 ## Practical Information
 

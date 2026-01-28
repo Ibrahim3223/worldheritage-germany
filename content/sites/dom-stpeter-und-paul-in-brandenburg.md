@@ -34,9 +34,9 @@ As the city of Brandenburg an der Havel has evolved, so too has the cathedral, r
 
 The history of Dom St. Peter und Paul is intertwined with the development of Brandenburg an der Havel itself. Although specific dates regarding its establishment are not detailed, it is known that this cathedral has been a significant religious site for many generations. It reflects the shifting tides of power, faith, and artistry that have marked the region throughout its history.
 
-The cathedral has played a key role in the religious life of the community and has been a focal point for various cultural and social activities. Its significance extends beyond its religious function; it has also served as a site for important historical events, adapting to the needs of the community over time. The cathedral’s architecture and design elements have witnessed transformations that reflect changing artistic trends and theological emphases, making it a living part of the city’s story.
+The cathedral has played a key role in the religious life of the community and has been a focal point for various cultural and social activities. Its significance extends beyond its religious function; it has also served as a site for important historical events, adapting to the needs of the community over time. The cathedral's architecture and design elements have witnessed transformations that reflect changing artistic trends and theological emphases, making it a living part of the city's story.
 
-Moreover, Dom St. Peter und Paul is not solely a religious institution; it has become a cultural heritage site that attracts visitors interested in exploring the historical and artistic dimensions of Brandenburg an der Havel. Its presence reinforces the city’s identity, serving as a reminder of its past while continuing to engage with contemporary society.
+Moreover, Dom St. Peter und Paul is not solely a religious institution; it has become a cultural heritage site that attracts visitors interested in exploring the historical and artistic dimensions of Brandenburg an der Havel. Its presence reinforces the city's identity, serving as a reminder of its past while continuing to engage with contemporary society.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Dom St. Peter und Paul is characterized by its distinct architectural style that
 
 Notable features likely include traditional elements such as a prominent bell tower, which would provide a commanding view of the surrounding area, and intricate carvings that adorn the interior and exterior. The use of light within the cathedral is often a focal point, drawing attention to the sacred spaces and enhancing the worship experience.
 
-The cathedral's design not only serves aesthetic purposes but also fulfills a functional role in the spiritual life of the community. Spaces for congregational worship, prayer, and reflection are integral to the cathedral’s purpose, inviting visitors to pause and engage with their surroundings.
+The cathedral's design not only serves aesthetic purposes but also fulfills a functional role in the spiritual life of the community. Spaces for congregational worship, prayer, and reflection are integral to the cathedral's purpose, inviting visitors to pause and engage with their surroundings.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ When planning a visit to Dom St. Peter und Paul, it is advisable to consider var
 
 Check the official website for current information regarding opening hours and any associated admission fees. It is often recommended to allocate sufficient time to explore the cathedral and its surroundings fully. A visit may take approximately one to two hours, allowing time for reflection and exploration of the architectural details.
 
-The best times to visit are typically during weekdays when the crowds are lighter, providing a more tranquil atmosphere for contemplation. Additionally, attending a service or special event can offer unique insights into the cathedral’s role within the community.
+The best times to visit are typically during weekdays when the crowds are lighter, providing a more tranquil atmosphere for contemplation. Additionally, attending a service or special event can offer unique insights into the cathedral's role within the community.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ While exploring the area around Dom St. Peter und Paul, take the opportunity to 
 
 1. **Brandenburg City Museum**: This museum offers insights into the history and culture of Brandenburg an der Havel, providing context to the cathedral's significance.
    
-2. **St. Paul’s Monastery**: A short distance away, this historic site adds to the city's rich ecclesiastical heritage and offers another perspective on local religious practices.
+2. **St. Paul's Monastery**: A short distance away, this historic site adds to the city's rich ecclesiastical heritage and offers another perspective on local religious practices.
 
 3. **Old Market Square**: The heart of the city, this vibrant square is surrounded by historical buildings and offers cafes and shops, perfect for a leisurely stroll.
 

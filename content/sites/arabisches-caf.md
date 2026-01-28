@@ -48,7 +48,7 @@ Notable features include the café's original vintage seating, which provides an
 
 Visiting the Arabisches Café is a delightful experience for anyone interested in culture and cinema. It is conveniently located in the heart of Düsseldorf, making it easily accessible via public transportation. Visitors can use local tram and bus services to reach the café, with several stops located in close proximity. 
 
-When planning a visit, it’s essential to check the official website for current information regarding hours of operation and ticket prices. Depending on the programming, the café may host special events or screenings that could enhance the experience. 
+When planning a visit, it's essential to check the official website for current information regarding hours of operation and ticket prices. Depending on the programming, the café may host special events or screenings that could enhance the experience. 
 
 As for what to expect, guests can look forward to a warm atmosphere that invites relaxation and community engagement. The average time to spend at the café can vary, but many visitors find that an hour or two is ample to enjoy a film and savor the ambiance. The best times to visit typically align with film screenings or community events, offering an opportunity to connect with others who share similar interests.
 
@@ -66,7 +66,7 @@ Düsseldorf is home to a variety of attractions that complement a visit to the A
 
 For the best experience at the Arabisches Café, consider timing your visit to coincide with less crowded screening times. Early afternoons or weekdays may provide a quieter atmosphere, allowing for a more relaxed enjoyment of the café's offerings.
 
-Photography can enhance your visit; however, it’s advisable to be mindful of other patrons and the café's policies regarding photography. Capturing the unique architecture and ambiance can be rewarding but should be done with consideration.
+Photography can enhance your visit; however, it's advisable to be mindful of other patrons and the café's policies regarding photography. Capturing the unique architecture and ambiance can be rewarding but should be done with consideration.
 
 ## Practical Information
 

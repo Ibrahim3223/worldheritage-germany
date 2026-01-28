@@ -68,7 +68,7 @@ Dresden is home to a wealth of attractions, making it easy to combine your visit
    
 4. **Dresden Castle**: This historic castle complex features a variety of museums and exhibitions, showcasing the rich history of the Saxon rulers.
    
-5. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade offers lovely views of the Elbe River and the city’s skyline.
+5. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade offers lovely views of the Elbe River and the city's skyline.
 
 ## Insider Tips
 

@@ -3,7 +3,7 @@ title: "Evangeliumskirche"
 site_name: "Evangeliumskirche"
 date: 2026-01-26
 draft: false
-description: "Evangeliumskirche, a notable Lutheran church located in Munich, Germany, serves as a significant landmark within the city’s rich architectural and cultural..."
+description: "Evangeliumskirche, a notable Lutheran church located in Munich, Germany, serves as a significant landmark within the city's rich architectural and cultural..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Evangeliumskirche, a notable Lutheran church located in Munich, Germany, serves as a significant landmark within the city’s rich architectural and cultural landscape. Its presence reflects the religious history and architectural evolution of the region, drawing visitors who are both believers and those with a keen interest in heritage. The church is situated in a vibrant urban context, making it an integral part of the community, as well as a focal point for heritage and architecture enthusiasts. 
+Evangeliumskirche, a notable Lutheran church located in Munich, Germany, serves as a significant landmark within the city's rich architectural and cultural landscape. Its presence reflects the religious history and architectural evolution of the region, drawing visitors who are both believers and those with a keen interest in heritage. The church is situated in a vibrant urban context, making it an integral part of the community, as well as a focal point for heritage and architecture enthusiasts. 
 
 With its compelling design and serene ambiance, Evangeliumskirche invites a moment of reflection amidst the bustling life of Munich. Whether you are seeking spiritual solace, architectural inspiration, or a deeper understanding of the Lutheran faith's influence in Bavaria, this church offers a meaningful experience. As you explore its interiors and engage with its community, you will discover layers of history and significance that enrich your visit.
 

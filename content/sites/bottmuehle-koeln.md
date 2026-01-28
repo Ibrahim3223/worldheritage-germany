@@ -44,7 +44,7 @@ Bottmühle is characterized by its medieval architectural design, typical of the
 
 One of the most notable features of Bottmühle is its height, which allowed for expansive views of the surrounding area, thereby enhancing its strategic function as a lookout point. The design reflects a utilitarian purpose while also incorporating elements of aesthetic appeal common in medieval architecture. The thick walls and narrow windows are indicative of the defensive requirements of the time, allowing for visibility while protecting the inhabitants within.
 
-As part of the medieval city wall, Bottmühle is connected to a larger network of fortifications that tell the story of Köln’s historical defenses. The interplay between the tower and the surrounding wall features creates a cohesive structure that emphasizes the importance of such defensive architecture in urban planning. While the interior may not be extensively accessible to the public, the exterior alone offers a glimpse into the architectural styles prevalent during the medieval era.
+As part of the medieval city wall, Bottmühle is connected to a larger network of fortifications that tell the story of Köln's historical defenses. The interplay between the tower and the surrounding wall features creates a cohesive structure that emphasizes the importance of such defensive architecture in urban planning. While the interior may not be extensively accessible to the public, the exterior alone offers a glimpse into the architectural styles prevalent during the medieval era.
 
 ## Visiting Information
 
@@ -68,7 +68,7 @@ As you explore Bottmühle, be prepared for a journey through the storied past of
 
 ## Insider Tips
 
-When visiting Bottmühle, consider timing your trip during the early morning or late afternoon to avoid the crowds that tend to gather during peak hours. This will allow you to appreciate the site’s historical significance in a more serene environment.
+When visiting Bottmühle, consider timing your trip during the early morning or late afternoon to avoid the crowds that tend to gather during peak hours. This will allow you to appreciate the site's historical significance in a more serene environment.
 
 For photography enthusiasts, the tower presents various angles for captivating shots, particularly during the golden hour when the light softens. Be mindful of the surrounding architecture, as it adds context to the images you capture.
 
@@ -96,7 +96,7 @@ Weekdays, particularly early mornings or late afternoons, tend to be less crowde
 Check the official website for current accessibility information regarding Bottmühle and the surrounding areas.
 
 ### Can I buy tickets online?
-Visit the official website for information on ticketing, as it varies depending on the site’s policies.
+Visit the official website for information on ticketing, as it varies depending on the site's policies.
 
 ### Are there restrooms and cafes?
 While there may not be facilities on-site, nearby cafes and public restrooms are available in the vicinity.
@@ -104,4 +104,4 @@ While there may not be facilities on-site, nearby cafes and public restrooms are
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that you will be walking on uneven surfaces.
 
-Bottmühle in Köln stands as a significant reminder of the city’s medieval fortifications and its enduring legacy. Whether you are a history enthusiast or simply seeking to explore the architectural wonders of this vibrant city, a visit to Bottmühle is sure to enrich your understanding of Köln's past.
+Bottmühle in Köln stands as a significant reminder of the city's medieval fortifications and its enduring legacy. Whether you are a history enthusiast or simply seeking to explore the architectural wonders of this vibrant city, a visit to Bottmühle is sure to enrich your understanding of Köln's past.

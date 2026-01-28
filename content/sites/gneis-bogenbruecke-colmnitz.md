@@ -54,7 +54,7 @@ The Klingenberg region is rich in attractions that complement a visit to the Gne
    
 2. **Klingenberg Park**: A beautiful natural area perfect for picnics and outdoor activities, providing a serene backdrop for relaxation.
 
-3. **Local Historical Sites**: Explore various historical landmarks within Klingenberg that reflect the region’s heritage and architecture.
+3. **Local Historical Sites**: Explore various historical landmarks within Klingenberg that reflect the region's heritage and architecture.
 
 4. **Nature Trails**: Several trails in the vicinity offer opportunities for hiking and enjoying the scenic landscapes of the area.
 

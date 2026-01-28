@@ -66,7 +66,7 @@ While the Holy Blood of Wilsnack is a destination in its own right, the surround
 
 ## Insider Tips
 
-To enhance your visit to the Holy Blood of Wilsnack, consider the following insider tips. For those interested in photography, early mornings or late afternoons often provide the best lighting conditions for capturing the church’s architectural features. Additionally, visiting during weekdays may allow for a more tranquil experience as weekends can attract larger crowds.
+To enhance your visit to the Holy Blood of Wilsnack, consider the following insider tips. For those interested in photography, early mornings or late afternoons often provide the best lighting conditions for capturing the church's architectural features. Additionally, visiting during weekdays may allow for a more tranquil experience as weekends can attract larger crowds.
 
 If you seek a moment of solitude, consider exploring the church grounds, where you may find quieter spots to reflect and absorb the atmosphere.
 
@@ -82,7 +82,7 @@ Before visiting, it is recommended to check for any seasonal events or services 
 A visit to the Holy Blood of Wilsnack can typically take between one to two hours, allowing time to explore the church and reflect on its significance.
 
 ### Is photography allowed?
-While photography may be permitted in some areas, it is advisable to check for signage or ask staff to ensure respect for the site’s policies.
+While photography may be permitted in some areas, it is advisable to check for signage or ask staff to ensure respect for the site's policies.
 
 ### Are there guided tours?
 Information about guided tours may be available; check the official website for details on any offerings.
@@ -100,4 +100,4 @@ Information about online ticket purchases should be verified on the official web
 Facilities such as restrooms and nearby cafes may be available; check the official website for the latest amenities.
 
 ### What should I wear?
-Visitors are encouraged to dress modestly and comfortably, considering the church’s atmosphere as a place of worship.
+Visitors are encouraged to dress modestly and comfortably, considering the church's atmosphere as a place of worship.

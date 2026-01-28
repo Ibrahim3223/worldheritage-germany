@@ -97,13 +97,13 @@ Information on guided tours can vary; check the official website for any offerin
 Visiting during daylight hours is recommended, with early morning or late afternoon providing the best natural light for photography.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary by specific buildings; it’s advisable to check the official website for details.
+Accessibility information may vary by specific buildings; it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any potential fees.
 
 ### Are there restrooms and cafes?
-Restroom facilities and cafes may not be available on-site. It’s wise to plan accordingly before your visit.
+Restroom facilities and cafes may not be available on-site. It's wise to plan accordingly before your visit.
 
 ### What should I wear?
 Comfortable attire suitable for walking is recommended, along with weather-appropriate clothing based on the forecast.

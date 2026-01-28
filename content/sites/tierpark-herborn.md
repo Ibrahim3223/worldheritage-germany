@@ -36,7 +36,7 @@ The significance of Tierpark Herborn extends beyond its immediate attractions. I
 
 ## Architecture and Features
 
-Tierpark Herborn is characterized by its thoughtfully designed layout that emphasizes the well-being of its animal inhabitants. The zoo features various enclosures that replicate the animals' natural habitats, allowing visitors to observe them in settings that are as close to their original environments as possible. This design philosophy not only enhances the visitor experience but also promotes the animals’ health and well-being.
+Tierpark Herborn is characterized by its thoughtfully designed layout that emphasizes the well-being of its animal inhabitants. The zoo features various enclosures that replicate the animals' natural habitats, allowing visitors to observe them in settings that are as close to their original environments as possible. This design philosophy not only enhances the visitor experience but also promotes the animals' health and well-being.
 
 One of the notable features of the zoo is its extensive walking paths that meander through the park, allowing for an enjoyable stroll while taking in the sights and sounds of the animal kingdom. Visitors will find lush greenery, landscaped gardens, and a variety of animal enclosures spread throughout the grounds. The layout is designed to facilitate easy navigation, making it accessible for families with children and individuals of varying mobility.
 
@@ -74,7 +74,7 @@ Additionally, wearing comfortable shoes is advisable, as you will be walking thr
 
 When preparing for your trip to Tierpark Herborn, consider bringing essentials such as sunscreen, hats, and comfortable clothing suitable for the weather. As the zoo is an outdoor venue, seasonal considerations are important; dress appropriately for rain or shine.
 
-Pack a small picnic if you prefer to enjoy a meal in the zoo’s scenic surroundings, but also check for available facilities or options for food and beverages. 
+Pack a small picnic if you prefer to enjoy a meal in the zoo's scenic surroundings, but also check for available facilities or options for food and beverages. 
 
 For families, having a stroller or baby carrier can make navigating the zoo more manageable, especially for younger children. 
 

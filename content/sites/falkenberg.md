@@ -72,7 +72,7 @@ While Falkenberg is a highlight in itself, there are several nearby attractions 
 
 For photography enthusiasts, the best times to capture the landscape are during the golden hours of sunrise and sunset, when the light casts a warm glow over the heath. Avoid weekends if possible, as they tend to be busier with local visitors. Weekdays often provide a more tranquil experience, allowing for a deeper connection with the natural surroundings.
 
-Be sure to explore the various trails around Falkenberg; some lead to lesser-known viewpoints that offer unique perspectives of the landscape. Don’t forget to pack a picnic to enjoy while taking in the serene vistas.
+Be sure to explore the various trails around Falkenberg; some lead to lesser-known viewpoints that offer unique perspectives of the landscape. Don't forget to pack a picnic to enjoy while taking in the serene vistas.
 
 ## Practical Information
 

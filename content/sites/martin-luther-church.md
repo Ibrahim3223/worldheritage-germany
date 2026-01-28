@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays or during non-service hours. Enga
 
 ## Practical Information
 
-When planning your visit to Martin Luther Church, it’s advisable to wear comfortable clothing suitable for a church environment. Consider carrying a light jacket, as temperatures may vary inside the building.
+When planning your visit to Martin Luther Church, it's advisable to wear comfortable clothing suitable for a church environment. Consider carrying a light jacket, as temperatures may vary inside the building.
 
 Seasonal considerations are important; spring and summer may offer more vibrant surroundings in the church's vicinity. Be sure to check the weather forecast prior to your visit to ensure a pleasant experience.
 
@@ -90,7 +90,7 @@ Visitors may want to bring a camera, a notebook for reflections, and any materia
 A visit typically requires about an hour, allowing time to explore and reflect.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of worshippers and check for any specific guidelines.
+Photography is generally permitted, but it's best to be respectful of worshippers and check for any specific guidelines.
 
 ### Are there guided tours?
 Currently, specific guided tours may not be available, but informational pamphlets may provide valuable insights.

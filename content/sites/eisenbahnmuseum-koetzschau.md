@@ -38,7 +38,7 @@ The Eisenbahnmuseum Kötzschau stands as an important cultural institution, emph
 
 While specific historical dates and milestones are not provided, the museum undoubtedly captures the essence of a pivotal era in transportation history. The establishment of railway networks in Germany during the 19th century revolutionized how goods and people were transported, contributing to economic growth and urbanization. The artifacts collected within this museum serve as reminders of the challenges and triumphs faced by early railway pioneers.
 
-The museum’s educational initiatives aim to cultivate a deeper understanding of the railways' role in shaping modern society. Through various exhibits and displays, visitors can engage with the historical narrative of rail transport, exploring how it has influenced everything from local economies to global travel.
+The museum's educational initiatives aim to cultivate a deeper understanding of the railways' role in shaping modern society. Through various exhibits and displays, visitors can engage with the historical narrative of rail transport, exploring how it has influenced everything from local economies to global travel.
 
 In addition to its educational mission, the Eisenbahnmuseum Kötzschau is a gathering place for railway enthusiasts and historians. Events, workshops, and exhibitions often take place, fostering a community of individuals passionate about preserving railway heritage. By doing so, the museum not only safeguards the history of railways but also promotes ongoing interest and research in the field.
 

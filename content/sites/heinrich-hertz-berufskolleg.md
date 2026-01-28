@@ -103,7 +103,7 @@ Check the official website for detailed accessibility information regarding faci
 Access to the school is generally free, but check the official website for any specific events that may require tickets.
 
 ### Are there restrooms and cafes?
-Facilities may be limited on campus, so it’s advisable to plan ahead. Nearby attractions in Düsseldorf offer various dining and restroom options.
+Facilities may be limited on campus, so it's advisable to plan ahead. Nearby attractions in Düsseldorf offer various dining and restroom options.
 
 ### What should I wear?
 Dress comfortably and appropriately for an educational environment. Consider the weather and wear layers if needed.

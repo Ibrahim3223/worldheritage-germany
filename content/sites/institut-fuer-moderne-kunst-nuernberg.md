@@ -22,7 +22,7 @@ images:
 
 The Institut für moderne Kunst Nürnberg (Institute for Modern Art Nuremberg) is a pivotal institution in the landscape of contemporary art, dedicated to fostering engagement with modern artistic expressions. Founded in 1967, this museum serves as an information and documentation center for contemporary art, contributing to the cultural fabric of Nuremberg, Germany. Supported by a coalition of public and private entities, the museum has become a vital hub for artists, scholars, and art enthusiasts alike, showcasing the dynamic and evolving nature of modern art.
 
-The museum’s mission transcends mere exhibition; it aims to be a comprehensive resource for contemporary art, making it a significant educational platform. Nuremberg, a city known for its historical significance and vibrant culture, provides an ideal backdrop for this institution, as it bridges the past with modernity. Visitors to the museum can expect a thoughtfully curated experience that invites contemplation and dialogue around contemporary artistic practices.
+The museum's mission transcends mere exhibition; it aims to be a comprehensive resource for contemporary art, making it a significant educational platform. Nuremberg, a city known for its historical significance and vibrant culture, provides an ideal backdrop for this institution, as it bridges the past with modernity. Visitors to the museum can expect a thoughtfully curated experience that invites contemplation and dialogue around contemporary artistic practices.
 
 With its strategic location in Nuremberg, the museum is easily accessible and offers a range of exhibitions and programs designed to engage diverse audiences. Whether you are an art aficionado or a casual visitor, the Institut für moderne Kunst Nürnberg promises a captivating exploration of modern artistic endeavors.
 
@@ -32,7 +32,7 @@ The Institut für moderne Kunst Nürnberg has played a crucial role in the conte
 
 Culturally, the museum contributes to the understanding of contemporary art, offering a rich array of exhibitions that highlight various artistic movements and individual artists. It serves as a repository of knowledge, housing an extensive archive that documents the evolution of contemporary art. This archival function not only preserves the legacy of modern artists but also serves as a critical resource for research and scholarship.
 
-The museum's significance extends beyond its exhibitions; it engages in various educational initiatives that target diverse audiences, from school children to professionals in the art field. These programs aim to demystify contemporary art, making it accessible to everyone, and encouraging public engagement with modern artistic expressions. The institution’s commitment to education emphasizes the importance of art as a medium for dialogue and reflection in society.
+The museum's significance extends beyond its exhibitions; it engages in various educational initiatives that target diverse audiences, from school children to professionals in the art field. These programs aim to demystify contemporary art, making it accessible to everyone, and encouraging public engagement with modern artistic expressions. The institution's commitment to education emphasizes the importance of art as a medium for dialogue and reflection in society.
 
 By fostering a deeper understanding of contemporary art, the Institut für moderne Kunst Nürnberg contributes to the ongoing conversation about the role of art in society, challenging visitors to reflect on the world around them through the lens of modern artistic practices.
 
@@ -44,7 +44,7 @@ Notable features of the museum may include versatile exhibition spaces that can 
 
 Additionally, the presence of an information and documentation center within the museum underscores its role as a comprehensive resource for contemporary art. This aspect may include libraries or archives that provide access to critical literature and documentation related to modern artistic movements and individual artists.
 
-The museum’s design likely reflects a modern sensibility, with an emphasis on creating an inviting atmosphere that encourages exploration and discovery. The interplay of natural light and curated spaces can enhance the viewing experience, allowing artworks to be appreciated in their best light.
+The museum's design likely reflects a modern sensibility, with an emphasis on creating an inviting atmosphere that encourages exploration and discovery. The interplay of natural light and curated spaces can enhance the viewing experience, allowing artworks to be appreciated in their best light.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ To enhance your experience, consider visiting during weekdays when the museum ma
 
 Nuremberg is rich in cultural and historical sites, making it an ideal destination for a well-rounded visit. Nearby attractions include:
 
-1. **Nuremberg Castle**: A significant medieval fortress that offers a glimpse into the city’s history and provides panoramic views of Nuremberg.
+1. **Nuremberg Castle**: A significant medieval fortress that offers a glimpse into the city's history and provides panoramic views of Nuremberg.
 
 2. **Germanisches Nationalmuseum**: The largest museum of cultural history in the German-speaking region, showcasing artifacts and exhibitions that span centuries.
 

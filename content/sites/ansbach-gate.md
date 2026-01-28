@@ -48,7 +48,7 @@ Additionally, the surrounding area of Ansbach Gate offers a scenic backdrop that
 
 ## Visiting Information
 
-Reaching Ansbach Gate is relatively straightforward, with various transport options available. Visitors can arrive by car, taking advantage of the region’s well-maintained road network. Public transport options also exist, with buses connecting Heilsbronn to larger towns and cities in the vicinity. 
+Reaching Ansbach Gate is relatively straightforward, with various transport options available. Visitors can arrive by car, taking advantage of the region's well-maintained road network. Public transport options also exist, with buses connecting Heilsbronn to larger towns and cities in the vicinity. 
 
 Check the official website for current information regarding hours and prices, as these can vary throughout the year. It is advisable to allocate at least an hour to fully appreciate the gatehouse and its surroundings. This timeframe allows for exploration of the structure, photography, and perhaps a leisurely walk around the area.
 

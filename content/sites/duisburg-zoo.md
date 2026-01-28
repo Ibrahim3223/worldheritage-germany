@@ -80,7 +80,7 @@ To enhance your visit to Duisburg Zoo, consider these insider tips:
 
 Before heading to Duisburg Zoo, it's essential to prepare adequately for a comfortable visit. Here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as the zoo involves a fair amount of walking. Don’t forget to bring a water bottle, sunscreen, and a hat, especially during warmer months.
+- **What to Bring**: Comfortable walking shoes are recommended, as the zoo involves a fair amount of walking. Don't forget to bring a water bottle, sunscreen, and a hat, especially during warmer months.
 
 - **Seasonal Considerations**: The zoo is open year-round, but seasonal changes can affect animal activity levels. Spring and early summer are often ideal for observing animals as they become more active in milder weather.
 

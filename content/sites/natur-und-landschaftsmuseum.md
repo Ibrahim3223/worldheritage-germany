@@ -68,7 +68,7 @@ To avoid larger crowds, aim for a midweek visit. This will allow you to explore 
 
 ## Practical Information
 
-When visiting the Natur- und Landschaftsmuseum, it’s advisable to bring a camera, a notebook for jotting down notes, and perhaps a water bottle to stay hydrated during your exploration. Depending on the season, dress comfortably and prepare for varying weather conditions, especially if you plan to explore the outdoor areas or surrounding attractions.
+When visiting the Natur- und Landschaftsmuseum, it's advisable to bring a camera, a notebook for jotting down notes, and perhaps a water bottle to stay hydrated during your exploration. Depending on the season, dress comfortably and prepare for varying weather conditions, especially if you plan to explore the outdoor areas or surrounding attractions.
 
 Seasonal considerations may also play a role in your visit; for instance, spring and summer could offer more vibrant displays of local flora, while autumn may showcase the changing colors of the landscape.
 
@@ -78,7 +78,7 @@ Seasonal considerations may also play a role in your visit; for instance, spring
 A visit to the Natur- und Landschaftsmuseum typically lasts around two to three hours, allowing time to explore exhibits and engage with educational materials.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the official guidelines upon arrival to ensure compliance with museum rules.
+Photography policies can vary, so it's best to check the official guidelines upon arrival to ensure compliance with museum rules.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available to enhance your learning experience.

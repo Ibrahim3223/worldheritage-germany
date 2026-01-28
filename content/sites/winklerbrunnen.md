@@ -106,7 +106,7 @@ Accessibility information is not specified; however, check the official website 
 
 ### Can I buy tickets online?
 
-Information regarding ticket purchases is not specified, so it’s best to check the official website for details on any fees.
+Information regarding ticket purchases is not specified, so it's best to check the official website for details on any fees.
 
 ### Are there restrooms and cafes?
 

@@ -84,9 +84,9 @@ For the best experience at the Landesmuseum Württemberg, consider these insider
 
 - **Timing**: To avoid crowds, visit during weekday mornings. This allows for a more intimate experience as you explore the collections without the hustle and bustle of larger crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can provide valuable insights and recommendations for specific exhibits or artifacts that you may find particularly interesting.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can provide valuable insights and recommendations for specific exhibits or artifacts that you may find particularly interesting.
 
-- **Plan for Breaks**: If you are spending several hours at the museum, plan for short breaks to recharge. The museum's café, if available, offers a pleasant environment to relax and reflect on what you’ve seen.
+- **Plan for Breaks**: If you are spending several hours at the museum, plan for short breaks to recharge. The museum's café, if available, offers a pleasant environment to relax and reflect on what you've seen.
 
 ## Practical Information
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gedenkstein Altes Gewerkschaftshaus Hannover is a poignant memorial located in the heart of Hanover, Germany. This memorial stone commemorates the historical significance of the old trade union house, serving as a reminder of the labor movement's evolution and the struggles endured by workers throughout history. Situated in a region rich in industrial heritage, this memorial stands not only as a tribute to those who fought for workers’ rights but also as a focal point for contemporary discussions on labor and social justice. Visitors to this site can expect a reflective experience amid the historical narratives that shaped modern labor relations.
+Gedenkstein Altes Gewerkschaftshaus Hannover is a poignant memorial located in the heart of Hanover, Germany. This memorial stone commemorates the historical significance of the old trade union house, serving as a reminder of the labor movement's evolution and the struggles endured by workers throughout history. Situated in a region rich in industrial heritage, this memorial stands not only as a tribute to those who fought for workers' rights but also as a focal point for contemporary discussions on labor and social justice. Visitors to this site can expect a reflective experience amid the historical narratives that shaped modern labor relations.
 
 The Gedenkstein is positioned at coordinates 52.377269, 9.732428, making it easily accessible for those exploring the city. With its understated presence, the memorial invites visitors to pause and contemplate the profound impact of the labor movement on society. As you approach, the serene atmosphere complements the historical weight carried by this site, offering a moment of introspection in the midst of a bustling urban environment.
 
@@ -48,7 +48,7 @@ Surrounding the stone, visitors may find a thoughtfully maintained landscape tha
 
 ## Visiting Information
 
-Visiting the Gedenkstein Altes Gewerkschaftshaus Hannover is a straightforward experience, with the memorial conveniently located in an urban area. The site’s coordinates, 52.377269, 9.732428, offer a clear reference for navigation. While specific transport options are not detailed, Hanover is well-connected by public transportation, making it accessible for both local and international travelers.
+Visiting the Gedenkstein Altes Gewerkschaftshaus Hannover is a straightforward experience, with the memorial conveniently located in an urban area. The site's coordinates, 52.377269, 9.732428, offer a clear reference for navigation. While specific transport options are not detailed, Hanover is well-connected by public transportation, making it accessible for both local and international travelers.
 
 Check the official website for hours and pricing information, as this can vary based on the season or special events. Visitors can expect to spend approximately 30 minutes to an hour at the memorial, allowing enough time to engage with the site and reflect on its significance.
 

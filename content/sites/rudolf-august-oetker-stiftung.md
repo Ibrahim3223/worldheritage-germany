@@ -70,7 +70,7 @@ When visiting the Rudolf-August Oetker-Stiftung, here are some insider tips to e
 
 ## Practical Information
 
-Before heading to the Rudolf-August Oetker-Stiftung, it’s wise to prepare for your visit. Bring along a water bottle and comfortable walking shoes, especially if you plan to explore the nearby attractions. Seasonal considerations are also important; be mindful of weather forecasts, as rainy days may affect outdoor activities.
+Before heading to the Rudolf-August Oetker-Stiftung, it's wise to prepare for your visit. Bring along a water bottle and comfortable walking shoes, especially if you plan to explore the nearby attractions. Seasonal considerations are also important; be mindful of weather forecasts, as rainy days may affect outdoor activities.
 
 ## Frequently Asked Questions
 

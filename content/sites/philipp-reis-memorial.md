@@ -80,7 +80,7 @@ To avoid crowds, plan your visit during weekdays rather than weekends, as local 
 
 When visiting, it is advisable to wear comfortable footwear, as you may be walking around the surrounding area to explore nearby attractions. Seasonal considerations are also important; Frankfurt can experience chilly winters, so dress appropriately if visiting during this time. 
 
-Check the official website for any updates on accessibility features, as facilities may be subject to change. It’s also wise to carry water and light snacks for your visit, as you may wish to enjoy a break at one of the nearby parks or cafes.
+Check the official website for any updates on accessibility features, as facilities may be subject to change. It's also wise to carry water and light snacks for your visit, as you may wish to enjoy a break at one of the nearby parks or cafes.
 
 ## Frequently Asked Questions
 

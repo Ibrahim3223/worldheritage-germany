@@ -60,7 +60,7 @@ Gera is home to several attractions that complement a visit to the Museum für A
 
 1. **The Otto Dix House**: This historical site is dedicated to the renowned painter Otto Dix, who was born in Gera. The house provides insights into his life and work, making it a fitting addition to your cultural exploration.
 
-2. **The Gera Old Town**: Strolling through the charming streets of Gera’s Old Town offers a glimpse into the city's architectural history and vibrant atmosphere. 
+2. **The Gera Old Town**: Strolling through the charming streets of Gera's Old Town offers a glimpse into the city's architectural history and vibrant atmosphere. 
 
 3. **The Gera City Museum**: This museum focuses on the local history of Gera and the surrounding region, providing a broader context for the cultural heritage of the area.
 
@@ -76,7 +76,7 @@ To enhance your visit to the Museum für Angewandte Kunst, consider these inside
 
 - **Crowd Avoidance**: To experience the museum at a quieter time, aim to visit during weekday mornings. This will allow for a more intimate experience with the exhibits and fewer distractions.
 
-- **Engage with Staff**: Don’t hesitate to ask the museum staff about exhibits or the history of specific pieces. Their insights can deepen your understanding and appreciation of the art.
+- **Engage with Staff**: Don't hesitate to ask the museum staff about exhibits or the history of specific pieces. Their insights can deepen your understanding and appreciation of the art.
 
 ## Practical Information
 
@@ -106,7 +106,7 @@ Weekdays, particularly in the mornings, tend to be less crowded, making for a mo
 For accessibility details, check the official website or inquire at the museum to ensure a comfortable experience.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online, so it’s advisable to check the official website for the latest information.
+Ticket purchasing options may be available online, so it's advisable to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms are typically available at museums, but check the official website for information regarding on-site dining options.

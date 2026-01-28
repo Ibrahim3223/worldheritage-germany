@@ -70,7 +70,7 @@ Aukirche is situated within a region rich in cultural and historical attractions
 
 ## Insider Tips
 
-For those planning to visit Aukirche, consider timing your trip during weekdays or early mornings to avoid larger crowds, especially if you wish to enjoy a peaceful experience. Photography may be permitted; however, it’s wise to be respectful of the sacred space and the people who may be worshipping or visiting.
+For those planning to visit Aukirche, consider timing your trip during weekdays or early mornings to avoid larger crowds, especially if you wish to enjoy a peaceful experience. Photography may be permitted; however, it's wise to be respectful of the sacred space and the people who may be worshipping or visiting.
 
 If you are keen on capturing the church's architectural beauty, consider bringing a wide-angle lens to best frame the building's features. Additionally, be mindful of any events or services that may be taking place, as these can influence the accessibility of certain areas.
 
@@ -86,7 +86,7 @@ Bringing a bottle of water and some snacks can enhance your experience, particul
 A visit to Aukirche typically takes about one to two hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check on-site or refer to the church's guidelines to ensure you are respectful of the space.
+Photography policies may vary; it's best to check on-site or refer to the church's guidelines to ensure you are respectful of the space.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website, so checking ahead is advisable if you prefer a structured experience.
@@ -104,6 +104,6 @@ Check the official website for information on ticket purchasing options and any 
 Information about nearby facilities may not be specified, so consider exploring local options in Heilbronn for amenities.
 
 ### What should I wear?
-Dress comfortably and respectfully; it’s advisable to wear appropriate attire when visiting a place of worship. 
+Dress comfortably and respectfully; it's advisable to wear appropriate attire when visiting a place of worship. 
 
 Aukirche offers visitors a chance to engage with the rich cultural and historical landscape of Heilbronn, inviting reflection and appreciation for the community's heritage.

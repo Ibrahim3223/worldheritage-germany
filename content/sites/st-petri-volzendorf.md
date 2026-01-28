@@ -63,12 +63,12 @@ While St. Petri Chapel itself is a tranquil destination, the surrounding area of
 1. **Lemgow Town Center**: A charming area featuring local shops and cafés, perfect for a leisurely stroll after your visit to the chapel.
 2. **Historical Sites**: The region is rich in history, with various historical landmarks that reflect the cultural heritage of Lemgow.
 3. **Nature Trails**: Explore the scenic walking paths that wind through the countryside surrounding Volzendorf, ideal for those who enjoy outdoor activities.
-4. **Local Markets**: Experience local flavors and crafts at markets that may take place on weekends, providing a taste of the community’s vibrant culture.
+4. **Local Markets**: Experience local flavors and crafts at markets that may take place on weekends, providing a taste of the community's vibrant culture.
 5. **Nearby Villages**: Take the opportunity to visit other small villages in the vicinity, each with its own unique character and charm.
 
 ## Insider Tips
 
-When visiting St. Petri Chapel, consider bringing a camera to capture the serene environment, but be mindful of the chapel's sacred nature. It’s best to avoid using flash photography to maintain the sanctity of the space.
+When visiting St. Petri Chapel, consider bringing a camera to capture the serene environment, but be mindful of the chapel's sacred nature. It's best to avoid using flash photography to maintain the sanctity of the space.
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This allows for a more personal experience and the opportunity to appreciate the chapel's atmosphere without distractions.
 

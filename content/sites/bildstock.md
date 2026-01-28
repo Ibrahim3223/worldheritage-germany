@@ -102,7 +102,7 @@ Early mornings or late afternoons are often the best times to visit to avoid cro
 Check the official website for specific accessibility information regarding Bildstock and its surroundings.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases may vary, so it’s best to check the official website for current options.
+Information regarding online ticket purchases may vary, so it's best to check the official website for current options.
 
 ### Are there restrooms and cafes?
 Information on facilities such as restrooms and cafes may not be provided; check the official website or nearby areas for this information.

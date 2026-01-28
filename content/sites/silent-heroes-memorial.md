@@ -30,7 +30,7 @@ The Silent Heroes Memorial is dedicated to the memory of those who took extraord
 
 This memorial is particularly important in a historical context where narratives often focus on military or political figures, overshadowing the courage of ordinary citizens. By spotlighting these silent heroes, the memorial challenges visitors to consider the ethical choices made in times of crisis. It aims to inspire current and future generations to stand against injustice and to recognize the importance of individual agency in shaping society.
 
-The museum’s focus on personal stories rather than grand historical events allows visitors to connect on a human level with the past. The narratives presented within the memorial emphasize empathy and understanding, key components in fostering a society that values human rights. The Silent Heroes Memorial thus occupies a vital space in Berlin’s heritage landscape, reminding all who visit of the enduring impact of compassion and courage.
+The museum's focus on personal stories rather than grand historical events allows visitors to connect on a human level with the past. The narratives presented within the memorial emphasize empathy and understanding, key components in fostering a society that values human rights. The Silent Heroes Memorial thus occupies a vital space in Berlin's heritage landscape, reminding all who visit of the enduring impact of compassion and courage.
 
 ## Architecture and Features
 

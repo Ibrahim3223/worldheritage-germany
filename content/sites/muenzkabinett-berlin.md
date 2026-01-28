@@ -80,7 +80,7 @@ If you are particularly interested in numismatics, look for any temporary exhibi
 
 When planning your visit to the Münzkabinett, it's recommended to bring a small bag for personal items, as larger bags may not be permitted inside the museum. Comfortable footwear is also advisable, as you may spend a considerable amount of time on your feet while exploring the exhibits.
 
-Seasonal considerations should also be taken into account. Berlin's weather can vary significantly, so checking the forecast before your visit can help ensure a pleasant experience. If you’re visiting during colder months, dressing in layers is advisable, as museum interiors are typically climate-controlled.
+Seasonal considerations should also be taken into account. Berlin's weather can vary significantly, so checking the forecast before your visit can help ensure a pleasant experience. If you're visiting during colder months, dressing in layers is advisable, as museum interiors are typically climate-controlled.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ While specific accessibility features are not mentioned, most modern museums str
 Information regarding online ticket purchases can be confirmed on the museum's official website, which may also provide updates on any special events.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available within the museum, but for food and beverage options, it’s advisable to explore nearby cafes or restaurants.
+Facilities such as restrooms are typically available within the museum, but for food and beverage options, it's advisable to explore nearby cafes or restaurants.
 
 ### What should I wear?
 Comfortable attire is recommended, particularly if you plan to spend an extended period walking through the exhibits. Dress according to the weather if you plan to explore the surrounding area before or after your visit. 

@@ -107,7 +107,7 @@ Due to the natural terrain, accessibility may be limited, and it is advisable to
 Check the official website for current information regarding entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to come prepared with your own refreshments and plan accordingly.
+Facilities may be limited, so it's advisable to come prepared with your own refreshments and plan accordingly.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing and sturdy footwear are essential for hiking and navigating the trails effectively.

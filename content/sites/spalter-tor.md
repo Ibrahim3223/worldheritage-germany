@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Spalter Tor, the historic city gate of Pleinfeld, invites visitors to explore a poignant piece of Bavaria's architectural heritage. Situated in the charming town of Pleinfeld, this gate not only serves as a functional entry point but also as a symbol of the town’s resilience and historical significance. With its roots deeply embedded in the fabric of the region, Spalter Tor stands as a reminder of the past while continuing to be an integral part of the community today.
+Spalter Tor, the historic city gate of Pleinfeld, invites visitors to explore a poignant piece of Bavaria's architectural heritage. Situated in the charming town of Pleinfeld, this gate not only serves as a functional entry point but also as a symbol of the town's resilience and historical significance. With its roots deeply embedded in the fabric of the region, Spalter Tor stands as a reminder of the past while continuing to be an integral part of the community today.
 
 This city gate is more than just an architectural feature; it represents the historical pathways that have shaped Pleinfeld throughout the centuries. Visitors can expect to uncover stories etched into the stone and walls of the gate, revealing the town's evolution from a medieval settlement to its modern-day incarnation. Beyond its historical context, Spalter Tor is strategically located, offering a gateway to the scenic landscapes and attractions of the surrounding region.
 
@@ -38,7 +38,7 @@ The history of Spalter Tor is intertwined with the broader narrative of Pleinfel
 
 While specific historical dates may be elusive, the significance of Spalter Tor is evident in its role as a symbol of civic pride and community identity. The gate has witnessed countless events, from bustling market days to the quieter rhythms of everyday life, serving as a backdrop to the evolving landscape of Pleinfeld. The construction of such gates often involved the collaboration of local craftsmen, and the architectural choices made in its design reflect the values and aesthetics of the time.
 
-As the town grew and modernized, Spalter Tor transitioned from a defensive structure to a historic landmark, encapsulating the essence of Pleinfeld’s past. Today, it stands as a cultural marker, drawing attention to the town’s journey through time and the narratives that define its character. The preservation of Spalter Tor not only honors the architectural styles of previous eras but also reinforces the importance of heritage in contemporary society.
+As the town grew and modernized, Spalter Tor transitioned from a defensive structure to a historic landmark, encapsulating the essence of Pleinfeld's past. Today, it stands as a cultural marker, drawing attention to the town's journey through time and the narratives that define its character. The preservation of Spalter Tor not only honors the architectural styles of previous eras but also reinforces the importance of heritage in contemporary society.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ While Spalter Tor is a highlight of Pleinfeld, the surrounding area offers addit
 
 For the best photography opportunities at Spalter Tor, visit during the golden hour—early morning or late afternoon—when the light enhances the textures of the stone and illuminates the archway beautifully. Avoid peak tourist hours to enjoy a quieter experience, allowing you to explore and appreciate the gate without distractions.
 
-While the gate is a popular site, you may find that visiting during weekdays rather than weekends can offer a more serene atmosphere. Engaging with locals can also enrich your visit, as they may provide insights and stories about Spalter Tor and Pleinfeld that aren’t found in guidebooks.
+While the gate is a popular site, you may find that visiting during weekdays rather than weekends can offer a more serene atmosphere. Engaging with locals can also enrich your visit, as they may provide insights and stories about Spalter Tor and Pleinfeld that aren't found in guidebooks.
 
 ## Practical Information
 
@@ -90,13 +90,13 @@ Consider visiting during the spring or early autumn when the weather is generall
 A visit to Spalter Tor typically takes about an hour, allowing time for exploration and photography.
 
 ### Is photography allowed?
-Yes, photography is generally permitted at Spalter Tor. It’s a fantastic opportunity to capture the architectural details of this historic site.
+Yes, photography is generally permitted at Spalter Tor. It's a fantastic opportunity to capture the architectural details of this historic site.
 
 ### Are there guided tours?
 While specific guided tours may not be available at Spalter Tor, local tourism offices can provide information about self-guided options or nearby guided tours that include the gate.
 
 ### What's the best time to visit?
-The best times to visit are early morning or late afternoon, when the light enhances the gate’s features and the area is less crowded.
+The best times to visit are early morning or late afternoon, when the light enhances the gate's features and the area is less crowded.
 
 ### Is it wheelchair accessible?
 Check the official website for the most current accessibility information regarding Spalter Tor, as specific accommodations may vary.
@@ -105,7 +105,7 @@ Check the official website for the most current accessibility information regard
 For details on admission and potential ticketing options, check the official website for the latest information.
 
 ### Are there restrooms and cafes?
-While specific facilities may not be available at Spalter Tor, Pleinfeld’s town centre offers various amenities, including cafes and restrooms.
+While specific facilities may not be available at Spalter Tor, Pleinfeld's town centre offers various amenities, including cafes and restrooms.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider dressing in layers to adjust for changing weather conditions.

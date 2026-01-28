@@ -28,7 +28,7 @@ image_srcset:
 
 The Gedenkstätte Berliner Mauer, or Berlin Wall Memorial, serves as a poignant reminder of a divided city and an era marked by stark contrasts. Located in the heart of Berlin, this museum stands on a significant site where the Berlin Wall once separated East and West Berlin. The memorial not only offers insight into the physical barrier that split the city for decades but also serves as a tribute to the lives affected by this division. 
 
-As you approach the memorial, you’ll find a mixture of solemnity and reflection, which mirrors the complex history of Berlin during the Cold War. The site invites visitors to explore narratives of resilience, hope, and the human spirit, all while situated in a city that embodies the journey from division to unity. The Gedenkstätte Berliner Mauer is an essential stop for anyone seeking to understand Berlin’s tumultuous past and its ongoing evolution.
+As you approach the memorial, you'll find a mixture of solemnity and reflection, which mirrors the complex history of Berlin during the Cold War. The site invites visitors to explore narratives of resilience, hope, and the human spirit, all while situated in a city that embodies the journey from division to unity. The Gedenkstätte Berliner Mauer is an essential stop for anyone seeking to understand Berlin's tumultuous past and its ongoing evolution.
 
 ## History and Significance
 
@@ -80,7 +80,7 @@ To enhance your visit, take time to read the informational panels carefully and 
 
 When planning your visit to the Gedenkstätte Berliner Mauer, consider bringing along a few essentials. Comfortable walking shoes are recommended, as you will be exploring outdoor areas. Weather can vary, so check the forecast ahead of time and dress accordingly for either sun or rain.
 
-Seasonal considerations can also affect your visit. Spring and early autumn are particularly pleasant times to experience Berlin’s outdoor attractions, while summer can bring larger crowds. 
+Seasonal considerations can also affect your visit. Spring and early autumn are particularly pleasant times to experience Berlin's outdoor attractions, while summer can bring larger crowds. 
 
 ## Frequently Asked Questions
 

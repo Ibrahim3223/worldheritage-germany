@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Ellingen, Germany, Maximilianskirche stands as a notable example of ecclesiastical architecture and community spirit. This filial church, while perhaps not as widely recognized as some of its larger counterparts in the region, offers a glimpse into the architectural and cultural heritage of the area. Its serene ambiance and historical significance make it a worthy stop for travelers exploring southern Germany. Surrounded by the charming landscapes of Bavaria, Maximilianskirche serves not only as a place of worship but also as a reminder of the local traditions that have shaped its existence. Visitors can expect a tranquil experience steeped in the essence of the region’s religious practices and community life.
+In the heart of Ellingen, Germany, Maximilianskirche stands as a notable example of ecclesiastical architecture and community spirit. This filial church, while perhaps not as widely recognized as some of its larger counterparts in the region, offers a glimpse into the architectural and cultural heritage of the area. Its serene ambiance and historical significance make it a worthy stop for travelers exploring southern Germany. Surrounded by the charming landscapes of Bavaria, Maximilianskirche serves not only as a place of worship but also as a reminder of the local traditions that have shaped its existence. Visitors can expect a tranquil experience steeped in the essence of the region's religious practices and community life.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ Maximilianskirche has a rich cultural significance within the community of Ellin
 
 The church's role extends beyond spiritual gatherings; it is a venue for community events and celebrations, serving to strengthen local ties. The architectural style and its function within the community showcase the evolution of religious practices and the importance of such buildings in everyday life. The church represents both a historical landmark and a contemporary space for worship, embodying the continuity of faith through generations.
 
-While specific historical milestones of Maximilianskirche may not be detailed, the church contributes to the broader narrative of ecclesiastical architecture in Bavaria, where many churches have been central to the development of towns and cities. The building’s presence in Ellingen allows visitors to engage with the local culture and to appreciate the significance of such institutions throughout history.
+While specific historical milestones of Maximilianskirche may not be detailed, the church contributes to the broader narrative of ecclesiastical architecture in Bavaria, where many churches have been central to the development of towns and cities. The building's presence in Ellingen allows visitors to engage with the local culture and to appreciate the significance of such institutions throughout history.
 
 ## Architecture and Features
 

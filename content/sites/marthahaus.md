@@ -32,11 +32,11 @@ The foundation is ideally positioned, making it a convenient base for those wish
 
 ## History and Significance
 
-Marthahaus stands as a noteworthy foundation in Halle (Saale), reflecting the community’s commitment to supporting its elderly population while also providing accommodation for travelers. The establishment serves a dual purpose: as a hotel for guests and as a retirement home for residents. This dual functionality underlines the foundation’s mission of fostering a sense of community and care.
+Marthahaus stands as a noteworthy foundation in Halle (Saale), reflecting the community's commitment to supporting its elderly population while also providing accommodation for travelers. The establishment serves a dual purpose: as a hotel for guests and as a retirement home for residents. This dual functionality underlines the foundation's mission of fostering a sense of community and care.
 
 The cultural importance of Marthahaus is evident in its approach to hospitality, which transcends mere accommodation. It provides a supportive environment where residents can thrive, and guests can experience the warmth of community engagement. The foundation embodies the principles of care, respect, and dignity, which are essential in addressing the needs of both long-term residents and short-term guests. 
 
-While specific historical dates may not be available, Marthahaus’s significance is deeply rooted in the values of social responsibility and community service. It reflects the broader trends in German society towards enhancing the quality of life for older adults, promoting inclusivity, and preserving dignity in aging. This foundation not only contributes to the local economy but also fosters a sense of belonging among its residents and visitors alike.
+While specific historical dates may not be available, Marthahaus's significance is deeply rooted in the values of social responsibility and community service. It reflects the broader trends in German society towards enhancing the quality of life for older adults, promoting inclusivity, and preserving dignity in aging. This foundation not only contributes to the local economy but also fosters a sense of belonging among its residents and visitors alike.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ Halle (Saale) is rich in cultural and historical attractions, making Marthahaus 
 
 3. **Museum of Prehistory**: This museum houses an extensive collection of artifacts that showcase the region's prehistoric history, providing insight into the area's cultural evolution.
 
-4. **The Peißnitz Island**: A beautiful area for a leisurely walk or picnic, this island is located on the Saale River and offers a tranquil escape from the city’s bustle.
+4. **The Peißnitz Island**: A beautiful area for a leisurely walk or picnic, this island is located on the Saale River and offers a tranquil escape from the city's bustle.
 
 5. **Giebichenstein Castle**: A short distance from the city center, this medieval castle offers panoramic views of Halle and the surrounding landscape.
 
@@ -109,7 +109,7 @@ Accessibility features are likely in place to accommodate guests and residents; 
 Check the official website for information about purchasing tickets or making reservations online, if available.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available; however, it’s best to confirm specific amenities through the official website.
+Facilities such as restrooms and cafes are typically available; however, it's best to confirm specific amenities through the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, keeping in mind that some areas may have specific guidelines regarding attire.

@@ -68,7 +68,7 @@ While in Oberschleißheim, consider exploring the following nearby attractions:
 
 To make the most of your visit to Rathaus Oberschleißheim, consider these insider tips:
 
-- **Photography**: While photography is generally allowed in public buildings, it’s best to check for any specific restrictions, especially if you are capturing images during official events.
+- **Photography**: While photography is generally allowed in public buildings, it's best to check for any specific restrictions, especially if you are capturing images during official events.
 
 - **Crowd Avoidance**: Visit during mid-morning or early afternoon on weekdays to avoid larger crowds that may gather during public meetings or community events.
 

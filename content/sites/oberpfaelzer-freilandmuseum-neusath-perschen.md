@@ -44,7 +44,7 @@ The Oberpfälzer Freilandmuseum Neusath-Perschen is characterized by its collect
 
 One of the notable features of the museum is its layout, which allows visitors to explore the buildings in a manner that mimics a traditional village. Each building showcases a different aspect of life in the Upper Palatinate, from agricultural practices to artisanal craftsmanship. The construction methods used in these buildings reflect the regional styles that have been passed down through generations, offering insights into the local materials and techniques that define Upper Palatinate architecture.
 
-The grounds of the museum are designed to facilitate interaction with the exhibits. Visitors can expect to find informative displays and demonstrations that highlight traditional farming methods, seasonal activities, and domestic life. The museum’s commitment to authenticity is evident in the carefully curated environments that encourage exploration and engagement with the past.
+The grounds of the museum are designed to facilitate interaction with the exhibits. Visitors can expect to find informative displays and demonstrations that highlight traditional farming methods, seasonal activities, and domestic life. The museum's commitment to authenticity is evident in the carefully curated environments that encourage exploration and engagement with the past.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting the Oberpfälzer Freilandmuseum Neusath-Perschen is a straightforward e
 
 Check the official website for current information regarding hours of operation and admission prices, as these details can change seasonally. Visitors are encouraged to set aside a few hours to fully explore the grounds and engage with the exhibits. The open-air nature of the museum means that it can be enjoyed in a leisurely manner, allowing for ample time to appreciate the historical structures and participate in any scheduled demonstrations.
 
-Generally, the best times to visit are during the warmer months when outdoor activities and demonstrations are more prevalent. However, each season offers a unique perspective on the museum’s offerings, so visitors may choose to come at different times throughout the year.
+Generally, the best times to visit are during the warmer months when outdoor activities and demonstrations are more prevalent. However, each season offers a unique perspective on the museum's offerings, so visitors may choose to come at different times throughout the year.
 
 ## Nearby Attractions
 

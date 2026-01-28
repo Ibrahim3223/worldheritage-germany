@@ -34,7 +34,7 @@ With its engaging displays and informative exhibits, the Salzlandmuseum promises
 
 ## History and Significance
 
-The Salzlandmuseum stands as a pivotal institution in Schönebeck, a town historically linked to salt production. The significance of salt, often referred to as “white gold,” cannot be overstated in the context of this region. Salt mining has played a crucial role in the local economy and social structure, influencing everything from trade routes to culinary practices.
+The Salzlandmuseum stands as a pivotal institution in Schönebeck, a town historically linked to salt production. The significance of salt, often referred to as "white gold," cannot be overstated in the context of this region. Salt mining has played a crucial role in the local economy and social structure, influencing everything from trade routes to culinary practices.
 
 While specific dates and milestones in the museum's history are not available, it is clear that the establishment of the Salzlandmuseum reflects a broader movement to preserve and celebrate regional heritage. The museum aims to document the various methods of salt extraction used throughout the centuries, illustrating the advancements in technology and the social changes that accompanied them. 
 
@@ -48,7 +48,7 @@ The Salzlandmuseum is housed in a building that complements its mission by refle
 
 Inside, the museum features various displays that are both informative and engaging. Visitors can expect to see a range of artifacts, including tools used in salt extraction, visual displays that depict the process of mining, and interactive exhibits that invite participation. The arrangement of these exhibits allows for a logical flow, guiding visitors through the evolution of salt mining practices.
 
-One notable aspect of the museum is its focus on community engagement, often showcasing temporary exhibitions that feature local artists or themes related to Schönebeck’s heritage. This dynamic approach keeps the museum relevant and encourages repeat visits, as there is often something new to discover.
+One notable aspect of the museum is its focus on community engagement, often showcasing temporary exhibitions that feature local artists or themes related to Schönebeck's heritage. This dynamic approach keeps the museum relevant and encourages repeat visits, as there is often something new to discover.
 
 ## Visiting Information
 

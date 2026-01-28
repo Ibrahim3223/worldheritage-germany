@@ -42,9 +42,9 @@ The cultural significance of the mine extends to its role as a community space. 
 
 ## Visiting Information
 
-When planning a visit to Zeche Altena, it’s crucial to consider transport options and access. Witten is well-connected by public transportation, making it relatively easy to reach the site. Visitors should check the official website for current information on visiting hours and entrance fees, as these can vary throughout the year.
+When planning a visit to Zeche Altena, it's crucial to consider transport options and access. Witten is well-connected by public transportation, making it relatively easy to reach the site. Visitors should check the official website for current information on visiting hours and entrance fees, as these can vary throughout the year.
 
-Upon arrival, expect to immerse yourself in the site’s historical ambiance. The visit may take a couple of hours, allowing you to explore the mine's remnants and engage with any available informational displays or guided tours. These tours can enhance your understanding of the mine's significance and the stories of those who worked there.
+Upon arrival, expect to immerse yourself in the site's historical ambiance. The visit may take a couple of hours, allowing you to explore the mine's remnants and engage with any available informational displays or guided tours. These tours can enhance your understanding of the mine's significance and the stories of those who worked there.
 
 The best times to visit Zeche Altena are typically during the spring and autumn months when the weather is mild. This allows for a more comfortable exploration of the site and its surroundings.
 
@@ -67,7 +67,7 @@ To make the most of your visit to Zeche Altena, consider the following tips:
 
 ## Practical Information
 
-When visiting Zeche Altena, it’s advisable to bring along some essentials to ensure a comfortable experience:
+When visiting Zeche Altena, it's advisable to bring along some essentials to ensure a comfortable experience:
 
 - **Comfortable Footwear**: Expect to walk on uneven surfaces, so sturdy shoes are recommended.
 - **Weather Gear**: Depending on the season, be prepared for varying weather conditions. A light jacket or umbrella may be useful.
@@ -81,7 +81,7 @@ Additionally, consider the seasonal aspects of your trip, as weather can affect 
 A visit to Zeche Altena typically requires a couple of hours to explore the site adequately, but it can vary depending on your interest level.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site for any restrictions on taking photos.
+Photography policies may vary, so it's best to check on-site for any restrictions on taking photos.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and significance of the mine. Check the official website for details.
@@ -90,7 +90,7 @@ Guided tours may be available, providing deeper insights into the history and si
 The best times to visit are generally during spring and autumn for mild weather, although summer can also be pleasant.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check with the official website or contact the site directly for specifics.
+Accessibility information may vary, so it's advisable to check with the official website or contact the site directly for specifics.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Be sure to check the official website for current information.

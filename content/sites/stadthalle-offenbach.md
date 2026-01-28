@@ -64,7 +64,7 @@ The area surrounding the Stadthalle Offenbach is rich with attractions that comp
 
 2. **Capitol Offenbach** – A historic venue hosting concerts and performances, adding to the cultural offerings in the area.
 
-3. **German Leather Museum** – A museum dedicated to the history and art of leather production, reflecting Offenbach’s historical connection to the leather industry.
+3. **German Leather Museum** – A museum dedicated to the history and art of leather production, reflecting Offenbach's historical connection to the leather industry.
 
 4. **Saint Paul's Church** – A notable Protestant church in the region, known for its architectural beauty and historical significance.
 

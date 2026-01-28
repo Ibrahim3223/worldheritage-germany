@@ -46,7 +46,7 @@ Burg Hausen showcases a captivating blend of medieval architectural styles. The 
 
 One prominent feature of Burg Hausen is its imposing entrance, which likely served as both a point of access and a defensive barrier. The design reflects the strategic considerations of castle construction, ensuring that it could withstand attacks. Inside, the layout may include a great hall and various chambers for the nobility and their staff, providing insight into the domestic life of the past.
 
-Although specific architectural details are not provided, the essence of medieval design is evident throughout the castle. Visitors can expect to find elements such as narrow windows for defense, large fireplaces for warmth, and possibly remnants of decorative features that hint at the castle’s former grandeur.
+Although specific architectural details are not provided, the essence of medieval design is evident throughout the castle. Visitors can expect to find elements such as narrow windows for defense, large fireplaces for warmth, and possibly remnants of decorative features that hint at the castle's former grandeur.
 
 ## Visiting Information
 
@@ -74,7 +74,7 @@ While visiting Burg Hausen, travelers can take advantage of other nearby attract
 
 To make the most of your visit to Burg Hausen, consider the following insider tips:
 
-- **Photography**: The castle’s architecture and surrounding landscape provide ample opportunities for photography. Early mornings or late afternoons typically offer the best natural lighting, making for stunning images.
+- **Photography**: The castle's architecture and surrounding landscape provide ample opportunities for photography. Early mornings or late afternoons typically offer the best natural lighting, making for stunning images.
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or off-peak seasons to avoid larger crowds. This will allow for a more intimate experience and the chance to explore at your own pace.
 
@@ -98,7 +98,7 @@ A visit to Burg Hausen typically requires a few hours, allowing time to explore 
 
 ### Is photography allowed?
 
-Photography is usually permitted, but it’s advisable to check for any restrictions upon arrival.
+Photography is usually permitted, but it's advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 

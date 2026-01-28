@@ -28,7 +28,7 @@ image_srcset:
 
 Ehsaan Mosque, located in Mannheim, Baden-Württemberg, Germany, serves as a significant cultural and religious landmark for the local Muslim community. This mosque reflects the vibrant diversity of Mannheim, a city known for its historical significance and multicultural population. Ehsaan Mosque provides not only a space for worship but also acts as a center for community gatherings and cultural activities, fostering understanding and dialogue among different ethnic groups. Its establishment marks an important chapter in the narrative of Islamic presence in Germany, showcasing the continued evolution of religious architecture and community life.
 
-Visitors to Ehsaan Mosque can expect to engage with a site that embodies both spiritual significance and architectural interest. The mosque stands as a point of convergence for different cultures, offering insights into the practices and traditions of Islam. Whether you are a local resident or a traveler exploring the area, Ehsaan Mosque invites you to appreciate its role in the fabric of Mannheim’s diverse society.
+Visitors to Ehsaan Mosque can expect to engage with a site that embodies both spiritual significance and architectural interest. The mosque stands as a point of convergence for different cultures, offering insights into the practices and traditions of Islam. Whether you are a local resident or a traveler exploring the area, Ehsaan Mosque invites you to appreciate its role in the fabric of Mannheim's diverse society.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Visiting Ehsaan Mosque offers an enriching experience for those interested in un
 
 Before planning your visit, it is advisable to check the official website for current information regarding opening hours and any potential entrance fees. When visiting, expect to engage with a welcoming community that may offer insights into their practices and beliefs. 
 
-A typical visit may require about an hour, allowing time for exploration of the mosque’s interior and participation in any ongoing events, if applicable. The best times to visit are during communal prayers or events, where the atmosphere is particularly vibrant and engaging.
+A typical visit may require about an hour, allowing time for exploration of the mosque's interior and participation in any ongoing events, if applicable. The best times to visit are during communal prayers or events, where the atmosphere is particularly vibrant and engaging.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ Engaging with the community members can enhance your experience; they may be ope
 
 ## Practical Information
 
-When visiting Ehsaan Mosque, it’s advisable to wear respectful clothing, especially if you plan to enter the prayer areas. Comfortable shoes are recommended, as visitors may be required to remove them before entering the mosque.
+When visiting Ehsaan Mosque, it's advisable to wear respectful clothing, especially if you plan to enter the prayer areas. Comfortable shoes are recommended, as visitors may be required to remove them before entering the mosque.
 
 Seasonal considerations are important as well; check the weather forecast prior to your visit to ensure a pleasant experience. Bringing a water bottle and light snacks can also enhance your visit, especially if you plan to spend time exploring the nearby attractions.
 

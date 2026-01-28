@@ -56,7 +56,7 @@ Expect to spend around an hour at the bridge, allowing time to absorb the atmosp
 
 3. **Local Parks**: Nearby parks can provide additional recreational spaces for families and visitors, often featuring playgrounds and picnic areas.
 
-4. **Cultural Sites**: Depending on the region’s offerings, there may be local museums or historical sites that further illuminate the cultural backdrop of Wittichenau.
+4. **Cultural Sites**: Depending on the region's offerings, there may be local museums or historical sites that further illuminate the cultural backdrop of Wittichenau.
 
 5. **Scenic Lookouts**: If available, scenic viewpoints in the vicinity can offer expansive views of the surrounding countryside, ideal for photography and relaxation.
 

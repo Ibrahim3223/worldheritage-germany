@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Christ König is a notable church building located in Wuppertal, Germany, serving as an important landmark in the region. This structure stands out not only for its architectural features but also for its role in the local community. Wuppertal, known for its unique monorail system and vibrant cultural scene, provides a rich backdrop for this religious site, making it a significant destination for both locals and visitors. As you approach Christ König, you’ll find a space that invites reflection and offers a glimpse into the spiritual life of the area. This church is more than just a religious building; it represents the community's historical and cultural heritage, inviting exploration and appreciation.
+Christ König is a notable church building located in Wuppertal, Germany, serving as an important landmark in the region. This structure stands out not only for its architectural features but also for its role in the local community. Wuppertal, known for its unique monorail system and vibrant cultural scene, provides a rich backdrop for this religious site, making it a significant destination for both locals and visitors. As you approach Christ König, you'll find a space that invites reflection and offers a glimpse into the spiritual life of the area. This church is more than just a religious building; it represents the community's historical and cultural heritage, inviting exploration and appreciation.
 
 ## History and Significance
 
@@ -90,4 +90,4 @@ Information about restrooms and nearby cafes can typically be found on the offic
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of worship. Consider layers, as temperatures may vary inside the church.
 
-Visiting Christ König provides an opportunity to engage with Wuppertal’s cultural and spiritual heritage, offering insights into the community's values and beliefs. As you explore, take the time to appreciate both the architectural beauty and the significance of this church building within the local context.
+Visiting Christ König provides an opportunity to engage with Wuppertal's cultural and spiritual heritage, offering insights into the community's values and beliefs. As you explore, take the time to appreciate both the architectural beauty and the significance of this church building within the local context.

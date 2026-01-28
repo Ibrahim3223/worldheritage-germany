@@ -68,7 +68,7 @@ While Burg Heckholzhausen is a destination in its own right, the surrounding are
 
 4. **Other Castles**: The region may be home to other historical castles, providing a broader context to the military and architectural history of the area.
 
-5. **Local Cuisine**: Don’t miss the opportunity to sample traditional German dishes at nearby eateries, enhancing your cultural experience.
+5. **Local Cuisine**: Don't miss the opportunity to sample traditional German dishes at nearby eateries, enhancing your cultural experience.
 
 ## Insider Tips
 

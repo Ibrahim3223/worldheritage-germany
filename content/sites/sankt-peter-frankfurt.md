@@ -28,7 +28,7 @@ image_srcset:
 
 Sankt Peter Frankfurt is a historic church located in the heart of Frankfurt, Germany. This church, a significant landmark in the Hesse region, draws visitors with its architectural beauty and cultural heritage. Situated at coordinates 50.1174, 8.68378, Sankt Peter reflects the intricate relationship between faith and community in this vibrant city. 
 
-While the church may not be as widely known as some of its counterparts, its unique place in the fabric of Frankfurt’s history makes it a worthwhile destination for those interested in exploring the city's religious architecture and historical significance. Visitors can expect an enriching experience that not only showcases the artistry of church design but also offers insight into the local culture and history.
+While the church may not be as widely known as some of its counterparts, its unique place in the fabric of Frankfurt's history makes it a worthwhile destination for those interested in exploring the city's religious architecture and historical significance. Visitors can expect an enriching experience that not only showcases the artistry of church design but also offers insight into the local culture and history.
 
 As you prepare to discover Sankt Peter Frankfurt, you will find that this church serves as a serene retreat amid the bustling urban environment, inviting reflection and appreciation of its storied past.
 
@@ -38,7 +38,7 @@ Sankt Peter Frankfurt has historical roots that connect deeply with the developm
 
 Throughout its existence, Sankt Peter has witnessed significant events that have shaped the community. The church is a space where locals have gathered for worship, celebration, and reflection, marking important milestones in their lives. Its presence in Frankfurt symbolizes the continuity of faith and tradition, even amid the city's dynamic evolution.
 
-The church’s significance extends beyond its religious functions. It stands as a cultural landmark that contributes to the architectural narrative of Frankfurt. As urban landscapes evolve, structures like Sankt Peter maintain a connection to the city's heritage, reminding visitors and residents alike of their collective identity.
+The church's significance extends beyond its religious functions. It stands as a cultural landmark that contributes to the architectural narrative of Frankfurt. As urban landscapes evolve, structures like Sankt Peter maintain a connection to the city's heritage, reminding visitors and residents alike of their collective identity.
 
 The church's involvement in community events and celebrations further enhances its relevance. It often serves as a backdrop for local gatherings, fostering a sense of belonging among residents. In this light, Sankt Peter is not just a church; it is a vital part of the ongoing story of Frankfurt, connecting past generations with the present and future.
 
@@ -48,13 +48,13 @@ Sankt Peter Frankfurt showcases a blend of architectural styles that reflect the
 
 Visitors will find notable features typical of significant religious structures, such as stained glass windows and intricate woodwork. These elements often serve as focal points within the church, enhancing its aesthetic appeal and creating an atmosphere conducive to reflection and spirituality. The interior space is typically designed to accommodate congregational gatherings, with seating arrangements that promote community engagement during services.
 
-The church’s exterior is likely to be adorned with symbols and carvings that reflect its religious significance, further enriching the visual experience for visitors. While exploring Sankt Peter, one can appreciate the artistry involved in its design, which often combines functionality with spiritual expression.
+The church's exterior is likely to be adorned with symbols and carvings that reflect its religious significance, further enriching the visual experience for visitors. While exploring Sankt Peter, one can appreciate the artistry involved in its design, which often combines functionality with spiritual expression.
 
 As you walk through this historical site, take a moment to observe the craftsmanship and the serene environment it offers. Sankt Peter Frankfurt is not merely a place of worship; it embodies the artistic and cultural values that have been cherished by the community for generations.
 
 ## Visiting Information
 
-When planning your visit to Sankt Peter Frankfurt, it’s essential to consider transportation options. The church is conveniently located within the city, making it accessible via various means of public transport, including buses and trams. For those driving, parking facilities may be available nearby, though it is advisable to check local parking regulations.
+When planning your visit to Sankt Peter Frankfurt, it's essential to consider transportation options. The church is conveniently located within the city, making it accessible via various means of public transport, including buses and trams. For those driving, parking facilities may be available nearby, though it is advisable to check local parking regulations.
 
 Check the official website for current information regarding opening hours and any potential admission fees. While specifics are not provided, it is typical for heritage sites to have designated visiting hours, especially on weekends and public holidays. 
 
@@ -68,7 +68,7 @@ Sankt Peter Frankfurt is ideally situated near several other notable attractions
 
 1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)**: Just a short distance away, this iconic cathedral is known for its impressive Gothic architecture and historical significance as the site of Holy Roman Empire elections.
 
-2. **Römer**: The historical town hall of Frankfurt, located in the Römerberg square, is a stunning example of medieval architecture and serves as a key symbol of Frankfurt’s civic pride.
+2. **Römer**: The historical town hall of Frankfurt, located in the Römerberg square, is a stunning example of medieval architecture and serves as a key symbol of Frankfurt's civic pride.
 
 3. **Städel Museum**: For art enthusiasts, this museum houses an extensive collection of European art from the Middle Ages to contemporary works, providing a cultural complement to your visit to Sankt Peter.
 
@@ -98,7 +98,7 @@ When preparing for your visit to Sankt Peter Frankfurt, here are a few practical
 A visit typically lasts about one hour, allowing you to appreciate the architecture and ambiance.
 
 ### Is photography allowed?
-Check the church’s guidelines, as photography restrictions may apply, especially inside.
+Check the church's guidelines, as photography restrictions may apply, especially inside.
 
 ### Are there guided tours?
 While specific information on guided tours is not provided, check the official website for any available options.

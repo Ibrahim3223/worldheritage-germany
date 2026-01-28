@@ -28,7 +28,7 @@ image_srcset:
 
 The Zwölf-Apostel-Kirche, or Twelve Apostles Church, is a notable church building located in the heart of Berlin-Schöneberg. Its significance extends beyond its architectural appeal, representing a vital piece of Berlin's religious and cultural landscape. This church serves not only as a place of worship but also as a communal hub for various activities and events, reflecting the diverse fabric of the local community. Visitors to the church will find a blend of spirituality and history, making it an essential stop for those looking to explore the intricate layers of Berlin's heritage.
 
-Situated in the Tempelhof-Schöneberg district, the Zwölf-Apostel-Kirche is easily accessible, drawing both locals and tourists alike. The church’s atmosphere invites contemplation and reflection, while its architectural features captivate the attention of architecture enthusiasts. Whether you are seeking a quiet moment of prayer, a deeper understanding of the church’s role in the community, or simply an appreciation for its design, the Zwölf-Apostel-Kirche promises a meaningful experience.
+Situated in the Tempelhof-Schöneberg district, the Zwölf-Apostel-Kirche is easily accessible, drawing both locals and tourists alike. The church's atmosphere invites contemplation and reflection, while its architectural features captivate the attention of architecture enthusiasts. Whether you are seeking a quiet moment of prayer, a deeper understanding of the church's role in the community, or simply an appreciation for its design, the Zwölf-Apostel-Kirche promises a meaningful experience.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Zwölf-Apostel-Kirche holds a prominent place in the religious landscape of 
 
 Culturally, the church has played a crucial role in the community, offering not only spiritual guidance but also becoming a venue for various social activities. This integral role has enriched the local culture, fostering connections among community members. The church has also been involved in various outreach programs, further solidifying its significance as a center for community engagement.
 
-The architecture of the Zwölf-Apostel-Kirche contributes to its historical importance. As representative of its time, the church embodies the design elements that characterize its era, making it a point of interest for historians and architecture enthusiasts alike. Its presence in Berlin-Schöneberg serves as a reminder of the city’s layered history, reflecting the ongoing dialogue between past and present.
+The architecture of the Zwölf-Apostel-Kirche contributes to its historical importance. As representative of its time, the church embodies the design elements that characterize its era, making it a point of interest for historians and architecture enthusiasts alike. Its presence in Berlin-Schöneberg serves as a reminder of the city's layered history, reflecting the ongoing dialogue between past and present.
 
 ## Architecture and Features
 
@@ -88,7 +88,7 @@ Check the official website for current details about your visit, including any s
 A visit typically takes between 30 minutes to an hour, depending on your interest in exploring the church and any events happening during your visit.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s important to be respectful of the space and avoid disruption, especially during services.
+Photography is generally permitted, but it's important to be respectful of the space and avoid disruption, especially during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the church's history and architecture.

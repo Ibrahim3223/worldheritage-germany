@@ -68,11 +68,11 @@ While visiting Kaulbach-Villa, consider exploring some nearby attractions that f
 
 To enhance your visit to Kaulbach-Villa, consider a few insider tips. For photography enthusiasts, be mindful of any restrictions regarding photography inside the museum; it is best to ask upon arrival. To avoid crowds, plan your visit during the week or during off-peak hours. Early mornings are often quieter, allowing for a more intimate experience with the art.
 
-Additionally, take your time in the exhibition spaces, as each piece often has a story that can deepen your appreciation of the artist's work. Engaging with the staff can also provide valuable insights, so don’t hesitate to ask questions.
+Additionally, take your time in the exhibition spaces, as each piece often has a story that can deepen your appreciation of the artist's work. Engaging with the staff can also provide valuable insights, so don't hesitate to ask questions.
 
 ## Practical Information
 
-When visiting Kaulbach-Villa, it’s beneficial to bring along essentials such as water, comfortable walking shoes, and a light jacket, as indoor and outdoor temperatures can vary. Depending on the season, check for any specific weather considerations that might affect your visit.
+When visiting Kaulbach-Villa, it's beneficial to bring along essentials such as water, comfortable walking shoes, and a light jacket, as indoor and outdoor temperatures can vary. Depending on the season, check for any specific weather considerations that might affect your visit.
 
 If you plan to spend several hours at the museum, consider packing a small snack to enjoy during your break. Being prepared will help you make the most of your time at the villa and the surrounding area.
 

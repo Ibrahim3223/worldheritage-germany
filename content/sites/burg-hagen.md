@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Hagen, a historic castle located in Duisburg, Germany, embodies the architectural and cultural heritage of the region. This impressive structure stands as a reminder of medieval fortifications, reflecting the strategic importance of castles in the historical landscape of Germany. Surrounded by a blend of urban development and nature, Burg Hagen invites visitors to explore its storied past and enjoy the ambiance of its well-preserved grounds. This castle not only offers a glimpse into the architectural styles of its time but also serves as a focal point for local history and community events.
 
-As you approach Burg Hagen, you’ll find yourself enveloped in the atmosphere of yesteryear, where stone walls whisper tales of the past. The castle's strategic location highlights its historical significance, situated amidst the dynamic backdrop of modern Duisburg. Whether you are a history enthusiast, an architecture aficionado, or simply a curious traveler, Burg Hagen promises a unique experience that captures the essence of Germany’s rich heritage.
+As you approach Burg Hagen, you'll find yourself enveloped in the atmosphere of yesteryear, where stone walls whisper tales of the past. The castle's strategic location highlights its historical significance, situated amidst the dynamic backdrop of modern Duisburg. Whether you are a history enthusiast, an architecture aficionado, or simply a curious traveler, Burg Hagen promises a unique experience that captures the essence of Germany's rich heritage.
 
 ## History and Significance
 
@@ -84,16 +84,16 @@ If you plan to explore the grounds extensively, consider bringing a light picnic
 A visit to Burg Hagen typically takes about one to two hours, allowing you ample time to explore its grounds and learn about its history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s recommended to check for any specific restrictions upon your arrival.
+Photography is generally permitted, but it's recommended to check for any specific restrictions upon your arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these can enhance your experience by providing in-depth insights into the castle’s history and architecture.
+Check the official website for information regarding guided tours, as these can enhance your experience by providing in-depth insights into the castle's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are during spring and early autumn, when the weather is more favorable, but special events throughout the year also provide unique experiences.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s advisable to check the official website for the most current information regarding wheelchair access.
+Accessibility details may vary; it's advisable to check the official website for the most current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for the option to purchase tickets in advance, which can save time during your visit.

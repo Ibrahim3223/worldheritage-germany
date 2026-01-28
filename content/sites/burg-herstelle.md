@@ -32,7 +32,7 @@ Surrounded by lush landscapes, Burg Herstelle provides not only a historical exp
 
 ## History and Significance
 
-While specific dates may be elusive, Burg Herstelle has been an integral part of the Beverungen area for centuries, embodying the feudal spirit of its time. Castles like Burg Herstelle were built primarily for defense, serving as strongholds for local lords and their families. The castle’s strategic location allowed for oversight of the surrounding territories, making it an important site for both military and residential purposes.
+While specific dates may be elusive, Burg Herstelle has been an integral part of the Beverungen area for centuries, embodying the feudal spirit of its time. Castles like Burg Herstelle were built primarily for defense, serving as strongholds for local lords and their families. The castle's strategic location allowed for oversight of the surrounding territories, making it an important site for both military and residential purposes.
 
 Throughout its existence, Burg Herstelle has witnessed numerous historical events that shaped the region. It has been a silent observer of the changing tides of power, conflict, and governance. The architecture reflects the various styles that have influenced its evolution, showcasing the adaptation of design and functionality over the years. 
 
@@ -44,7 +44,7 @@ Burg Herstelle exhibits a classic castle design, characterized by its formidable
 
 One of the notable features of the castle is its imposing entrance, which would have served as both a physical and symbolic barrier to potential attackers. The interior layout, while less documented, typically includes a central courtyard that would have been the heart of activity within the castle, surrounded by residential quarters and storage rooms.
 
-Visitors to Burg Herstelle can appreciate the craftsmanship evident in the stonework, as well as the remnants of various architectural styles that may have influenced its design. The castle’s towers, though not extensively detailed in the available information, likely served both defensive and aesthetic purposes, enhancing the overall grandeur of the structure.
+Visitors to Burg Herstelle can appreciate the craftsmanship evident in the stonework, as well as the remnants of various architectural styles that may have influenced its design. The castle's towers, though not extensively detailed in the available information, likely served both defensive and aesthetic purposes, enhancing the overall grandeur of the structure.
 
 ## Visiting Information
 

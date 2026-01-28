@@ -76,7 +76,7 @@ When visiting the Bunkermuseum Hagen, consider bringing a camera to capture the 
 
 Before heading to the Bunkermuseum Hagen, it's advisable to bring along comfortable walking shoes, as you may be exploring various exhibit spaces. Seasonal considerations are important as well; check the forecast and dress accordingly, as the museum may not have extensive climate control in all areas.
 
-It’s also wise to check the official website for any updates on accessibility options, special events, or temporary exhibits that could enhance your visit.
+It's also wise to check the official website for any updates on accessibility options, special events, or temporary exhibits that could enhance your visit.
 
 ## Frequently Asked Questions
 
@@ -93,7 +93,7 @@ The museum may offer guided tours; check the official website for details regard
 Weekdays and early mornings are generally less crowded and provide a more intimate experience.
 
 ### Is it wheelchair accessible?
-Accessibility options should be confirmed through the museum’s official website or by contacting them directly.
+Accessibility options should be confirmed through the museum's official website or by contacting them directly.
 
 ### Can I buy tickets online?
 Check the official website for the most current information regarding ticket purchasing options.

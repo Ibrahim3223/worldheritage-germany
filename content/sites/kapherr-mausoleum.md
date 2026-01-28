@@ -28,7 +28,7 @@ image_srcset:
 
 The Kapherr-Mausoleum, located in the charming district of Lockwitz in Dresden, Germany, serves as a notable resting place for the Barons of Kapherr. This mausoleum stands out not only for its architectural elegance but also for its cultural significance within the region. A visit to this site provides an opportunity to explore the interplay of history and artistry in a serene setting. Unsurprisingly, the mausoleum has become a point of interest for both locals and travelers seeking to delve deeper into the heritage of Dresden.
 
-The mausoleum is situated in a landscape that seamlessly integrates with the surrounding environment, reflecting a respect for nature and history. Visitors can expect to find a tranquil atmosphere, ideal for reflection and appreciation of the site's historical context. The mausoleum’s significance within the broader narrative of Dresden's architectural landscape makes it a worthy addition to any heritage travel itinerary.
+The mausoleum is situated in a landscape that seamlessly integrates with the surrounding environment, reflecting a respect for nature and history. Visitors can expect to find a tranquil atmosphere, ideal for reflection and appreciation of the site's historical context. The mausoleum's significance within the broader narrative of Dresden's architectural landscape makes it a worthy addition to any heritage travel itinerary.
 
 ## History and Significance
 
@@ -61,7 +61,7 @@ Typically, visitors may find that a tour of the mausoleum can be completed in a 
 While visiting the Kapherr-Mausoleum, consider exploring other attractions in the vicinity to enrich your cultural experience. A few notable nearby places include:
 
 1. **Lockwitzbach**: A picturesque stream that flows through Lockwitz, offering scenic walks and opportunities for leisurely exploration.
-2. **Dresden’s Historic Old Town**: A short distance away, this area is famous for its stunning Baroque architecture, including the Zwinger Palace and the Frauenkirche.
+2. **Dresden's Historic Old Town**: A short distance away, this area is famous for its stunning Baroque architecture, including the Zwinger Palace and the Frauenkirche.
 3. **The Dresden State Art Collections**: Home to an array of masterpieces, this museum complex provides insight into the art and culture that shaped the region.
 4. **The Botanical Garden**: A serene space ideal for nature enthusiasts, featuring a variety of plants and landscapes that reflect the botanical diversity of the region.
 
@@ -92,7 +92,7 @@ Visitors typically spend around 30 minutes to an hour at the Kapherr-Mausoleum, 
 Photography policies may vary, so be sure to check for any signs regarding photography before taking pictures.
 
 ### Are there guided tours?
-Currently, information regarding guided tours is limited. It’s recommended to check the official website for updates on tour availability.
+Currently, information regarding guided tours is limited. It's recommended to check the official website for updates on tour availability.
 
 ### What's the best time to visit?
 Visiting during early mornings or late afternoons is often recommended for a quieter experience. 

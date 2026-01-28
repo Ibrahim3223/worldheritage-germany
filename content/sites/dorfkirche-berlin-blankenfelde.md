@@ -56,7 +56,7 @@ While the church itself might not be adorned with the more elaborate features of
 
 When planning a visit to Dorfkirche Berlin-Blankenfelde, consider the modes of transport available in the Pankow district. The area is accessible via public transport, including buses and trams, which can help visitors navigate the urban landscape efficiently. 
 
-To ensure a fulfilling experience, it is advisable to check the official website for current information regarding the church’s hours and any potential entry fees. Typically, visitors may expect to spend a short time exploring the interior and appreciating the surrounding environment. The church can be a quiet retreat amidst the hustle and bustle of city life.
+To ensure a fulfilling experience, it is advisable to check the official website for current information regarding the church's hours and any potential entry fees. Typically, visitors may expect to spend a short time exploring the interior and appreciating the surrounding environment. The church can be a quiet retreat amidst the hustle and bustle of city life.
 
 The best times to visit may vary, but early mornings or weekdays could provide a more serene atmosphere, allowing for quiet reflection. Special events or services may also attract visitors, offering a glimpse into the church's role within the community.
 
@@ -70,7 +70,7 @@ While visiting the Dorfkirche Berlin-Blankenfelde, there are several nearby attr
    
 2. **Schloss Schönhausen**: A historic palace that reflects the grandeur of Berlin's past, featuring beautiful gardens and informative exhibits about the Prussian royal family.
 
-3. **Pankow’s Town Hall**: An architectural gem that represents the local governance and history of the district, worth a visit to appreciate its design and significance.
+3. **Pankow's Town Hall**: An architectural gem that represents the local governance and history of the district, worth a visit to appreciate its design and significance.
 
 4. **Café in Pankow**: Local cafés nearby provide opportunities to enjoy traditional German pastries and coffee, making for a delightful break after your visit to the church.
 

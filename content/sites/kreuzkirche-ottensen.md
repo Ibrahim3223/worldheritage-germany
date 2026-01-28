@@ -44,7 +44,7 @@ The architectural design of Kreuzkirche reflects the influences of its time, sho
 
 The exterior of Kreuzkirche likely presents a harmonious blend of stonework and architectural detailing that draws the eye of passersby. Such churches often incorporate a tower or spire, which serves as a visual landmark within the urban landscape. Inside, visitors may find a serene atmosphere, complemented by the soft light filtering through the windows, creating a peaceful environment conducive to reflection.
 
-Kreuzkirche’s design and features are not just functional but also aesthetic, contributing to its role as a significant cultural landmark. The church likely hosts various artistic expressions, from religious iconography to seasonal decorations that enhance its visual appeal and engage the community throughout the year.
+Kreuzkirche's design and features are not just functional but also aesthetic, contributing to its role as a significant cultural landmark. The church likely hosts various artistic expressions, from religious iconography to seasonal decorations that enhance its visual appeal and engage the community throughout the year.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ A visit to Kreuzkirche can easily be complemented by exploring several nearby at
 
 For those looking to capture the beauty of Kreuzkirche through photography, early mornings or late afternoons are ideal times to avoid crowds and take advantage of softer lighting. A tripod can be helpful if you plan to take interior shots, especially in low-light conditions.
 
-To enhance your experience, consider visiting during a service or community event, which can provide deeper insights into the church’s active role within the local community. If you prefer a quieter visit, weekdays are generally less busy compared to weekends.
+To enhance your experience, consider visiting during a service or community event, which can provide deeper insights into the church's active role within the local community. If you prefer a quieter visit, weekdays are generally less busy compared to weekends.
 
 ## Practical Information
 

@@ -80,7 +80,7 @@ Seasonal considerations may also play a role in your visit. If you are traveling
 A visit to the Wachsmuseum Krumbach typically lasts a few hours, allowing you ample time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Check the museum’s official website for specific photography policies, as rules may vary regarding capturing images of the exhibits.
+Check the museum's official website for specific photography policies, as rules may vary regarding capturing images of the exhibits.
 
 ### Are there guided tours?
 Information about guided tours can be found on the official website. These tours can enhance your understanding of the exhibits.

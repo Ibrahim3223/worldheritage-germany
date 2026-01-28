@@ -97,7 +97,7 @@ Specific information regarding guided tours isn't provided; check the official w
 Late afternoon or early evening is often ideal for photography and enjoying the ambiance, but visiting during weekdays may help avoid large crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s best to check the official website for current information on facilities.
+Accessibility details are not specified; it's best to check the official website for current information on facilities.
 
 ### Can I buy tickets online?
 Information about online ticket purchasing is not detailed; please verify on the official website.

@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Stephingertor, a prominent city gate in Augsburg, Germany, represents a significant chapter in the history of the region. As one of the remnants of the city's medieval fortifications, it offers a glimpse into Augsburg's strategic importance and architectural evolution. The gate, with its striking design and historical context, remains a captivating site for visitors keen on exploring Germany's rich heritage. Positioned in the heart of Augsburg, Stephingertor serves as a focal point for understanding the city’s development through the ages, as well as its role in the broader narrative of urban fortifications during the Middle Ages.
+The Stephingertor, a prominent city gate in Augsburg, Germany, represents a significant chapter in the history of the region. As one of the remnants of the city's medieval fortifications, it offers a glimpse into Augsburg's strategic importance and architectural evolution. The gate, with its striking design and historical context, remains a captivating site for visitors keen on exploring Germany's rich heritage. Positioned in the heart of Augsburg, Stephingertor serves as a focal point for understanding the city's development through the ages, as well as its role in the broader narrative of urban fortifications during the Middle Ages.
 
-Constructed as part of the city’s defensive walls, the Stephingertor not only provided protection but also facilitated trade and communication. Today, it stands as a symbol of Augsburg’s resilience and historical significance, inviting travelers and history enthusiasts alike to explore its stories and architectural details. With its central location, the gate is easily accessible and serves as an ideal starting point for those looking to discover more about the city’s past and present.
+Constructed as part of the city's defensive walls, the Stephingertor not only provided protection but also facilitated trade and communication. Today, it stands as a symbol of Augsburg's resilience and historical significance, inviting travelers and history enthusiasts alike to explore its stories and architectural details. With its central location, the gate is easily accessible and serves as an ideal starting point for those looking to discover more about the city's past and present.
 
 ## History and Significance
 
-The Stephingertor holds a vital place in the historical narrative of Augsburg, a city that flourished during the late Middle Ages and early Renaissance. Originally constructed as part of the city’s fortifications, this gate played a crucial role in controlling access to the city, reflecting the defensive strategies employed during a time of frequent conflict and territorial disputes. 
+The Stephingertor holds a vital place in the historical narrative of Augsburg, a city that flourished during the late Middle Ages and early Renaissance. Originally constructed as part of the city's fortifications, this gate played a crucial role in controlling access to the city, reflecting the defensive strategies employed during a time of frequent conflict and territorial disputes. 
 
 Augsburg was recognized for its strategic location along trade routes, which necessitated robust fortifications to protect its economic interests. The city gate not only provided security but also served as a hub for merchants and travelers, showcasing the importance of trade in the region's prosperity. The architecture of the gate itself reveals much about the design techniques and materials utilized in its construction, which have evolved over the centuries.
 
-The cultural significance of the Stephingertor extends beyond its physical structure. It symbolizes the resilience of Augsburg through various historical phases, including periods of warfare and peace. The gate has witnessed significant events and changes in governance, contributing to its status as a historical landmark. Additionally, it serves as a reminder of the city’s medieval past, allowing modern visitors to connect with the centuries of history that have shaped Augsburg into the vibrant city it is today.
+The cultural significance of the Stephingertor extends beyond its physical structure. It symbolizes the resilience of Augsburg through various historical phases, including periods of warfare and peace. The gate has witnessed significant events and changes in governance, contributing to its status as a historical landmark. Additionally, it serves as a reminder of the city's medieval past, allowing modern visitors to connect with the centuries of history that have shaped Augsburg into the vibrant city it is today.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The Stephingertor is a remarkable example of medieval architecture, characterize
 
 Visitors will notice the gate's imposing facade, which is both practical and aesthetically pleasing. The design includes elements typical of medieval fortifications, such as thick walls and arched openings that served to host gates and barriers. The architecture reflects the dual purpose of the gate as both a defensive structure and a passage for commerce and travel.
 
-Decorative features may include stone carvings or inscriptions that hint at the gate’s history and significance. While specific details may vary, the overall impression is one of strength and durability, hallmarks of the era's architectural philosophy. The Stephingertor, as a historical artifact, provides insight into the construction techniques and urban planning strategies employed by the city's founders.
+Decorative features may include stone carvings or inscriptions that hint at the gate's history and significance. While specific details may vary, the overall impression is one of strength and durability, hallmarks of the era's architectural philosophy. The Stephingertor, as a historical artifact, provides insight into the construction techniques and urban planning strategies employed by the city's founders.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Augsburg is home to a variety of attractions that complement a visit to the Step
    
 2. **Fuggerei**: This historic social housing complex, founded by the Fugger family in the 16th century, offers insights into social welfare practices of the time, as well as beautifully preserved architecture.
 
-3. **Augsburg Town Hall**: A Renaissance gem, this building showcases the city’s political history and houses impressive interiors, including the Golden Hall.
+3. **Augsburg Town Hall**: A Renaissance gem, this building showcases the city's political history and houses impressive interiors, including the Golden Hall.
 
 4. **Maximilian Museum**: Dedicated to the history and culture of Augsburg, this museum features exhibits ranging from ancient artifacts to contemporary art.
 

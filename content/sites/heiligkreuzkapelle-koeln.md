@@ -32,7 +32,7 @@ This chapel not only serves as a place of worship but also as a testament to Col
 
 ## History and Significance
 
-Heiligkreuzkapelle's history reflects the broader religious and cultural transformations that have shaped Cologne over the centuries. While specific dates and events may not be readily available, the chapel is recognized as a significant site within the city’s ecclesiastical landscape. Its construction is believed to have been influenced by the architectural styles prevalent during its establishment, indicative of the religious fervor that characterized the period.
+Heiligkreuzkapelle's history reflects the broader religious and cultural transformations that have shaped Cologne over the centuries. While specific dates and events may not be readily available, the chapel is recognized as a significant site within the city's ecclesiastical landscape. Its construction is believed to have been influenced by the architectural styles prevalent during its establishment, indicative of the religious fervor that characterized the period.
 
 The chapel's name translates to "Holy Cross Chapel," suggesting a strong connection to the Christian faith. Such sites have historically served not only as places for worship but also as community focal points, where local residents would gather for various religious and social events. The Heiligkreuzkapelle has undoubtedly played a similar role in fostering community bonds and spiritual connections among its visitors.
 

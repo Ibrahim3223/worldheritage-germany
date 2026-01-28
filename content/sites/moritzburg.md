@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Moritzburg, a striking fortified castle located in Halle (Saale), Germany, is a compelling destination that seamlessly merges history with art. This museum is not merely an architectural marvel but also a cultural hub, inviting visitors to explore an impressive collection of artworks. Situated within a picturesque landscape, Moritzburg serves as a significant landmark in the region, drawing art enthusiasts, history buffs, and curious travelers alike. The castle’s combination of historical significance and artistic treasures promises an enriching experience for all who visit.
+Moritzburg, a striking fortified castle located in Halle (Saale), Germany, is a compelling destination that seamlessly merges history with art. This museum is not merely an architectural marvel but also a cultural hub, inviting visitors to explore an impressive collection of artworks. Situated within a picturesque landscape, Moritzburg serves as a significant landmark in the region, drawing art enthusiasts, history buffs, and curious travelers alike. The castle's combination of historical significance and artistic treasures promises an enriching experience for all who visit.
 
 The museum's foundations are steeped in the rich history of Halle (Saale), a city known for its vibrant past and cultural heritage. Over the years, Moritzburg has evolved from a fortified castle into a prominent space for art exhibitions, showcasing various periods and styles. The museum offers insights into the artistic movements that have flourished in the region, making it an essential stop for those interested in understanding the evolution of art and culture in Germany.
 
@@ -66,7 +66,7 @@ While Moritzburg itself is a captivating destination, the surrounding area of Ha
 
 1. **Halle Market Square (Marktplatz)**: Located in the heart of Halle, this lively square is surrounded by historical buildings and is home to various events and markets throughout the year.
 
-2. **St. Mary’s Church (Marktkirche St. Marien)**: An impressive example of Gothic architecture, this church is notable for its stunning stained glass and historical significance in the region.
+2. **St. Mary's Church (Marktkirche St. Marien)**: An impressive example of Gothic architecture, this church is notable for its stunning stained glass and historical significance in the region.
 
 3. **The Handel House**: This museum is dedicated to the composer George Frideric Handel, who was born in Halle. It offers insights into his life and works.
 

@@ -99,7 +99,7 @@ Accessibility details may not be specified; checking the official website or con
 For ticketing options, including online purchases, please refer to the official website for current information.
 
 ### Are there restrooms and cafes?
-Details regarding facilities such as restrooms and cafes may not be available; it’s best to inquire on-site or check the official website.
+Details regarding facilities such as restrooms and cafes may not be available; it's best to inquire on-site or check the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding areas.

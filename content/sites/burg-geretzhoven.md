@@ -40,7 +40,7 @@ The cultural importance of Burg Geretzhoven is evident not only in its construct
 
 ## Architecture and Features
 
-Burg Geretzhoven exemplifies the architectural style typical of castles from its era. The structure features robust walls and a commanding presence, designed to withstand the challenges of its time. While specific architectural details may not be documented, the castle’s layout likely includes key features common to fortifications, such as towers and a central keep, which served both defensive and residential purposes.
+Burg Geretzhoven exemplifies the architectural style typical of castles from its era. The structure features robust walls and a commanding presence, designed to withstand the challenges of its time. While specific architectural details may not be documented, the castle's layout likely includes key features common to fortifications, such as towers and a central keep, which served both defensive and residential purposes.
 
 The castle's design would have incorporated elements that allowed for effective defense against potential invaders, including thick stone walls, narrow windows for archers, and possibly a surrounding ditch. These features not only served a practical function but also contributed to the imposing aesthetic that characterizes many castles of the time.
 
@@ -54,13 +54,13 @@ When planning a visit, it is advisable to check the official website for current
 
 The best times to visit Burg Geretzhoven are generally during the spring and fall months, when the weather is mild and conducive to outdoor exploration. Additionally, these seasons often bring fewer crowds compared to the peak summer months, enabling a more intimate experience of the castle and its surroundings.
 
-Visitors can expect to engage with the site through self-guided exploration, with informative signage available to enhance their understanding of the castle’s history and architectural features. Whether wandering through the castle grounds or taking in the views, guests will find plenty to appreciate at Burg Geretzhoven.
+Visitors can expect to engage with the site through self-guided exploration, with informative signage available to enhance their understanding of the castle's history and architectural features. Whether wandering through the castle grounds or taking in the views, guests will find plenty to appreciate at Burg Geretzhoven.
 
 ## Nearby Attractions
 
 1. **Bergheim Town Center**: A short distance from Burg Geretzhoven, the town center offers charming streets lined with shops, cafes, and local eateries, perfect for a leisurely stroll after visiting the castle.
 
-2. **St. John’s Church**: This historic church, located nearby, features beautiful architecture and provides insight into the religious history of the region.
+2. **St. John's Church**: This historic church, located nearby, features beautiful architecture and provides insight into the religious history of the region.
 
 3. **Rhein-Erft-Kreis**: Explore the wider region of Rhein-Erft-Kreis, known for its parks and recreational areas, making it an excellent destination for outdoor activities and relaxation.
 
@@ -70,7 +70,7 @@ Visitors can expect to engage with the site through self-guided exploration, wit
 
 ## Insider Tips
 
-For photography enthusiasts, capturing Burg Geretzhoven in the early morning or late afternoon light can yield stunning images of the castle’s architecture and surroundings. The soft light during these times enhances the textures and colors of the stone, creating dramatic visuals. 
+For photography enthusiasts, capturing Burg Geretzhoven in the early morning or late afternoon light can yield stunning images of the castle's architecture and surroundings. The soft light during these times enhances the textures and colors of the stone, creating dramatic visuals. 
 
 To avoid crowds, consider visiting during weekdays or during the off-peak seasons, when visitor numbers are generally lower. This allows for a more peaceful experience as you explore the castle and its grounds.
 
@@ -83,7 +83,7 @@ If you plan to explore the surrounding area, a small backpack can be handy for c
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A typical visit to Burg Geretzhoven takes about one to two hours, allowing time for exploration and appreciation of the castle’s features.
+A typical visit to Burg Geretzhoven takes about one to two hours, allowing time for exploration and appreciation of the castle's features.
 
 ### Is photography allowed?
 Photography is generally permitted, so feel free to capture the castle's beauty from various angles.

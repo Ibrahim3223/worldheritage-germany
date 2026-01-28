@@ -107,7 +107,7 @@ Check the official website for specific accessibility information regarding path
 Ticket purchasing options may vary; please check the official website for current details.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for information regarding restrooms and nearby dining options.
+Facilities may vary, so it's advisable to check the official website for information regarding restrooms and nearby dining options.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions. Comfortable shoes are essential for exploring the castle grounds.

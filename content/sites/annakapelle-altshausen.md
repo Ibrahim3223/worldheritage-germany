@@ -28,7 +28,7 @@ image_srcset:
 
 The Annakapelle Altshausen stands as a remarkable example of ecclesiastical architecture in Germany, inviting visitors to explore its serene ambiance and historical significance. Located in the charming region of Altshausen, this chapel offers a unique glimpse into the spiritual heritage of the area, making it a noteworthy stop for those interested in cultural and religious history. The chapel not only serves its primary function as a place of worship but also acts as a cultural landmark, reflecting the traditions and artistic expressions of its time. 
 
-As you approach the Annakapelle, you will find yourself drawn into an atmosphere that encourages reflection and tranquility, embodying the spiritual essence that has attracted worshippers for generations. The chapel’s significance extends beyond its physical structure, representing the enduring faith of the local community and their connection to the past. Whether you're a history enthusiast, an architecture lover, or simply seeking a peaceful retreat, the Annakapelle Altshausen promises a meaningful experience.
+As you approach the Annakapelle, you will find yourself drawn into an atmosphere that encourages reflection and tranquility, embodying the spiritual essence that has attracted worshippers for generations. The chapel's significance extends beyond its physical structure, representing the enduring faith of the local community and their connection to the past. Whether you're a history enthusiast, an architecture lover, or simply seeking a peaceful retreat, the Annakapelle Altshausen promises a meaningful experience.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ While specific historical details about the Annakapelle Altshausen may be sparse
 
 In many European towns, chapels are often constructed in response to the needs of the local populace, reflecting their spiritual aspirations and artistic endeavors. The Annakapelle is no exception, likely having been established to serve the spiritual needs of the surrounding community. The architectural style and artistic elements present in the chapel may provide insights into the period it was built, as many chapels exhibit characteristics that align with specific historical movements and trends in religious art.
 
-The chapel’s ongoing relevance cannot be overstated. It continues to serve the local community, providing a space for worship and reflection. This enduring function reinforces the importance of the Annakapelle as a spiritual and cultural landmark, symbolizing continuity in the face of change. Visitors can sense this legacy as they walk through its doors, feeling the weight of history in the quietude of the space.
+The chapel's ongoing relevance cannot be overstated. It continues to serve the local community, providing a space for worship and reflection. This enduring function reinforces the importance of the Annakapelle as a spiritual and cultural landmark, symbolizing continuity in the face of change. Visitors can sense this legacy as they walk through its doors, feeling the weight of history in the quietude of the space.
 
 ## Architecture and Features
 

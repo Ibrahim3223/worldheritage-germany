@@ -32,11 +32,11 @@ Visitors to the abbey will find themselves enveloped in an atmosphere of tranqui
 
 ## History and Significance
 
-The history of Brauweiler Abbey is intertwined with the broader narrative of the Benedictine Order, which has played a crucial role in the religious and cultural development of Europe. Founded as a monastery, it became a site where monastic life flourished, dedicated to the principles of prayer, work, and communal living. The abbey’s influence extended beyond its walls, contributing to the education and spiritual life of the surrounding community.
+The history of Brauweiler Abbey is intertwined with the broader narrative of the Benedictine Order, which has played a crucial role in the religious and cultural development of Europe. Founded as a monastery, it became a site where monastic life flourished, dedicated to the principles of prayer, work, and communal living. The abbey's influence extended beyond its walls, contributing to the education and spiritual life of the surrounding community.
 
 Throughout its existence, Brauweiler Abbey has witnessed various historical events that have shaped its character. The monastery served not only as a religious institution but also as a center for learning and cultural exchange. The monks engaged in agricultural practices, contributed to the local economy, and were integral in the preservation of knowledge during periods of upheaval in Europe.
 
-The significance of Brauweiler Abbey can also be seen in its role as a spiritual haven. Monasteries like Brauweiler provided essential support to the local populace, serving as places of refuge during times of conflict and uncertainty. The abbey’s commitment to the Benedictine values of hospitality and service has left a lasting impact on the region, fostering a sense of community that persists to this day.
+The significance of Brauweiler Abbey can also be seen in its role as a spiritual haven. Monasteries like Brauweiler provided essential support to the local populace, serving as places of refuge during times of conflict and uncertainty. The abbey's commitment to the Benedictine values of hospitality and service has left a lasting impact on the region, fostering a sense of community that persists to this day.
 
 ## Architecture and Features
 

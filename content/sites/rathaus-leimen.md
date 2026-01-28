@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rathaus Leimen, a distinguished palace located in the charming town of Leimen, Germany, stands as a significant cultural landmark, reflecting the architectural elegance and historical depth of the region. With its strategic location in the heart of the Baden-Württemberg district, this palace attracts visitors eager to explore Germany's rich heritage. The structure is not just a site of architectural interest; it encapsulates the essence of the town’s development and its historical significance through the ages.
+Rathaus Leimen, a distinguished palace located in the charming town of Leimen, Germany, stands as a significant cultural landmark, reflecting the architectural elegance and historical depth of the region. With its strategic location in the heart of the Baden-Württemberg district, this palace attracts visitors eager to explore Germany's rich heritage. The structure is not just a site of architectural interest; it encapsulates the essence of the town's development and its historical significance through the ages.
 
 This palace serves as a prominent gathering place for both locals and travelers, providing a glimpse into the civic life and traditions of the area. Its inviting atmosphere and historical context make it a must-visit for anyone looking to understand the social fabric of Leimen. As you approach the Rathaus, you will find an architectural marvel that invites exploration and appreciation, promising an enriching experience that goes beyond mere sightseeing.
 
@@ -80,7 +80,7 @@ To make the most of your visit to Rathaus Leimen, consider these insider tips:
 
 To ensure a comfortable visit to Rathaus Leimen, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the area. Additionally, a camera to capture the palace’s beauty could enhance your experience.
+- **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the area. Additionally, a camera to capture the palace's beauty could enhance your experience.
 
 - **Seasonal Considerations**: The climate can vary throughout the year, so check the weather forecast before your visit. Spring and early autumn tend to offer pleasant weather for outdoor activities.
 

@@ -36,7 +36,7 @@ The Fluxus movement emerged in the 1960s as a reaction against the commercializa
 
 While specific historical milestones of the museum are not detailed, it is evident that the establishment of Museum FLUXUS+ aligns with a broader cultural trend of re-evaluating the impact of Fluxus artists in contemporary art discourse. The museum serves as a nexus for research, education, and public engagement, offering a platform for both established and emerging artists to explore themes that resonate with the Fluxus philosophy.
 
-The importance of Museum FLUXUS+ extends beyond its exhibitions. It functions as a cultural hub in Potsdam, hosting workshops, lectures, and performances that foster community involvement and encourage dialogue around creative practices. By engaging with diverse audiences, the museum contributes to a deeper understanding of how art can challenge perceptions and instigate change, thereby reinstating the relevance of Fluxus in today’s artistic landscape.
+The importance of Museum FLUXUS+ extends beyond its exhibitions. It functions as a cultural hub in Potsdam, hosting workshops, lectures, and performances that foster community involvement and encourage dialogue around creative practices. By engaging with diverse audiences, the museum contributes to a deeper understanding of how art can challenge perceptions and instigate change, thereby reinstating the relevance of Fluxus in today's artistic landscape.
 
 ## Architecture and Features
 

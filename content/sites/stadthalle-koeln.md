@@ -80,9 +80,9 @@ If you plan to attend a specific event, arrive early to secure good seating and 
 
 ## Practical Information
 
-When preparing for your visit to Stadthalle Köln, it’s advisable to bring essentials such as water, comfortable walking shoes, and any personal items you may need for the day. Seasonal considerations may dictate appropriate attire, so plan accordingly based on the time of year.
+When preparing for your visit to Stadthalle Köln, it's advisable to bring essentials such as water, comfortable walking shoes, and any personal items you may need for the day. Seasonal considerations may dictate appropriate attire, so plan accordingly based on the time of year.
 
-In terms of accessibility, multi-purpose halls typically aim to accommodate all visitors, including those with mobility challenges. However, it’s best to confirm specific accessibility features on the official website.
+In terms of accessibility, multi-purpose halls typically aim to accommodate all visitors, including those with mobility challenges. However, it's best to confirm specific accessibility features on the official website.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ In terms of accessibility, multi-purpose halls typically aim to accommodate all 
 A visit to Stadthalle Köln typically takes around two hours, especially if you attend an event or exhibition.
 
 ### Is photography allowed?
-Photography policies may vary depending on the events being held. It’s advisable to check with staff or signage upon arrival.
+Photography policies may vary depending on the events being held. It's advisable to check with staff or signage upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website, so check for updates and offerings.

@@ -69,7 +69,7 @@ These attractions provide additional cultural and historical context, making for
 
 To make the most of your visit to Schlossmuseum Aschaffenburg, consider visiting during off-peak hours, such as early mornings or weekday afternoons, to avoid larger crowds. This timing allows for a more intimate experience with the exhibits.
 
-Photography may be allowed in certain areas, but it’s wise to check for any specific restrictions upon arrival. Taking notes or sketching in the galleries can enhance your understanding and appreciation of the art on display.
+Photography may be allowed in certain areas, but it's wise to check for any specific restrictions upon arrival. Taking notes or sketching in the galleries can enhance your understanding and appreciation of the art on display.
 
 ## Practical Information
 

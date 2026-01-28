@@ -36,7 +36,7 @@ Visiting Friedenskapelle provides an opportunity not only to appreciate its arch
 
 While specific historical details about Friedenskapelle may be limited, its existence contributes to the broader narrative of religious architecture in Germany. Chapels such as Friedenskapelle often serve as focal points for community gatherings and spiritual solace, reflecting the cultural importance of faith in everyday life. The establishment of such structures can often be traced back to local traditions and the desire to create spaces for worship and contemplation.
 
-In Brilon, the influence of historical events and local customs has shaped the community, and Friedenskapelle is a part of this evolving story. As a chapel, it embodies the values of peace, reflection, and unity, which resonate with visitors and locals alike. These ideals are particularly significant in today’s world, where spaces dedicated to introspection and tranquility are increasingly sought after.
+In Brilon, the influence of historical events and local customs has shaped the community, and Friedenskapelle is a part of this evolving story. As a chapel, it embodies the values of peace, reflection, and unity, which resonate with visitors and locals alike. These ideals are particularly significant in today's world, where spaces dedicated to introspection and tranquility are increasingly sought after.
 
 The chapel's role in the community may extend beyond its religious function, potentially serving as a venue for local events and gatherings, thus reinforcing its importance in fostering community bonds. The spiritual and cultural values represented by Friedenskapelle are a valuable part of the area's heritage, inviting exploration and engagement from a diverse audience.
 

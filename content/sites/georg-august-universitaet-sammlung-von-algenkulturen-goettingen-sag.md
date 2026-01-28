@@ -60,7 +60,7 @@ The best times to visit may vary, with weekdays often being less crowded than we
 
 4. **Alte Aula**: The Old Auditorium of the university is a remarkable building that hosts various academic events and offers insight into the architectural history of the institution.
 
-5. **Bismarck Tower**: For those willing to venture a bit further, this tower offers a scenic view of the surrounding area and serves as a reminder of the region’s historical context.
+5. **Bismarck Tower**: For those willing to venture a bit further, this tower offers a scenic view of the surrounding area and serves as a reminder of the region's historical context.
 
 ## Insider Tips
 

@@ -40,7 +40,7 @@ Culturally, the museum serves as a hub for educational programs and community en
 
 ## Architecture and Features
 
-The Historical Museum Bamberg is housed in a building that itself tells a story of architectural evolution. The structure reflects the styles and influences prevalent in different periods of Bamberg's history. Visitors will notice elements characteristic of both medieval and baroque architecture, showcasing the city’s rich architectural diversity.
+The Historical Museum Bamberg is housed in a building that itself tells a story of architectural evolution. The structure reflects the styles and influences prevalent in different periods of Bamberg's history. Visitors will notice elements characteristic of both medieval and baroque architecture, showcasing the city's rich architectural diversity.
 
 Inside, the museum features several galleries that are thoughtfully arranged to guide visitors through thematic exhibitions. Each gallery is designed to create an immersive experience, allowing guests to engage with the artifacts and the narratives they represent. Notable features include thoughtfully curated displays that include documents, art, and everyday items, all of which contribute to a comprehensive understanding of the region's history.
 
@@ -50,7 +50,7 @@ The layout of the museum facilitates exploration, with clear pathways that encou
 
 Bamberg is easily accessible by various means of transportation, making the Historical Museum a convenient stop for travelers. Whether arriving by car, train, or bus, the museum's central location within the city makes it a logical point of interest.
 
-Prospective visitors should check the official website for current information regarding opening hours and ticket prices. Upon arrival, expect to spend a few hours exploring the museum’s galleries. The atmosphere is conducive to both learning and reflection, so be prepared to immerse yourself in the exhibits.
+Prospective visitors should check the official website for current information regarding opening hours and ticket prices. Upon arrival, expect to spend a few hours exploring the museum's galleries. The atmosphere is conducive to both learning and reflection, so be prepared to immerse yourself in the exhibits.
 
 For the best experience, consider visiting during weekdays or in the off-peak tourist season to avoid larger crowds. This allows for a more intimate exploration of the museum's offerings. Additionally, special events or exhibitions may be scheduled throughout the year, providing further incentives to plan a visit.
 

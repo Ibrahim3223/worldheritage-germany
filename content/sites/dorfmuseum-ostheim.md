@@ -44,7 +44,7 @@ Visitors can expect to find a layout that is both welcoming and functional, with
 
 Within the museum, there are several exhibit spaces dedicated to different aspects of local culture and history. These may include sections focused on agriculture, domestic life, and artisanal crafts, each designed to immerse visitors in the themes being presented. Furthermore, the arrangement of artifacts is typically thoughtful, guiding visitors through a narrative that illustrates the evolution of life in Ostheim.
 
-The museum’s commitment to authenticity is evident in the careful selection of items on display, many of which are sourced from local families. This approach not only enriches the visitor experience but also strengthens the connection between the museum and the community it represents. 
+The museum's commitment to authenticity is evident in the careful selection of items on display, many of which are sourced from local families. This approach not only enriches the visitor experience but also strengthens the connection between the museum and the community it represents. 
 
 ## Visiting Information
 
@@ -74,7 +74,7 @@ While Dorfmuseum Ostheim is a captivating destination in its own right, several 
 
 To make the most of your visit to Dorfmuseum Ostheim, consider these insider tips:
 
-- **Photography**: While many museums allow photography, it’s always best to check on any restrictions. Be respectful of the ambiance and other visitors while capturing images.
+- **Photography**: While many museums allow photography, it's always best to check on any restrictions. Be respectful of the ambiance and other visitors while capturing images.
 
 - **Crowd Avoidance**: If possible, aim to visit during the week or during non-peak hours. Early mornings or late afternoons often provide a quieter experience, allowing for a more personal connection with the exhibits.
 

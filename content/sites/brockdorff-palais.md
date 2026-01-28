@@ -34,7 +34,7 @@ Visitors to the Brockdorff-Palais can expect a blend of historical ambiance and 
 
 The history of Brockdorff-Palais is intertwined with the foundation of Glückstadt itself. Established in the 17th century, Glückstadt was envisioned as a thriving trade center. The palace was built to serve as a residence for the noble family of Brockdorff, who played a pivotal role in the town's development. The Brockdorffs were influential figures in the region, contributing to both the economic and cultural landscape of Glückstadt.
 
-Throughout its history, the palace has witnessed significant events, including the ebb and flow of the town’s prominence and the changing dynamics of power in northern Europe. The palace has endured through various political and social upheavals, adapting to the needs of its inhabitants and the community. This adaptability reflects the resilience of both the building and the town.
+Throughout its history, the palace has witnessed significant events, including the ebb and flow of the town's prominence and the changing dynamics of power in northern Europe. The palace has endured through various political and social upheavals, adapting to the needs of its inhabitants and the community. This adaptability reflects the resilience of both the building and the town.
 
 Culturally, the Brockdorff-Palais is important as it represents the architectural style of its time, showcasing the aesthetic preferences of the nobility and the trends that influenced design in northern Germany. It serves as a key example of how architecture can embody the values, aspirations, and lifestyles of its era. 
 
@@ -87,7 +87,7 @@ Most visitors find that 1-2 hours is sufficient to explore the Brockdorff-Palais
 Photography policies can vary, so check for any specific guidelines on-site regarding photography.
 
 ### Are there guided tours?
-Information on guided tours may be available through the official website, so it’s worth checking for any current offerings.
+Information on guided tours may be available through the official website, so it's worth checking for any current offerings.
 
 ### What's the best time to visit?
 Spring and autumn are often the best times to visit for pleasant weather and smaller crowds.

@@ -38,7 +38,7 @@ Augsburg Zoo has evolved into a vital institution within the city, reflecting th
 
 The zoo is significant not only for its role in conservation efforts but also for its educational programs aimed at raising awareness about the challenges facing various species. By showcasing a wide range of animals and their habitats, Augsburg Zoo plays a part in fostering a culture of environmental stewardship among its visitors. The integration of educational signage and interactive exhibits enhances the learning experience, making it an ideal spot for school groups and families.
 
-In addition, the zoo serves as a community hub, hosting events and activities that bring people together and promote a shared love for animals. This aspect of the zoo’s mission is particularly important in urban settings, where opportunities to connect with nature may be limited. Through its various programs, Augsburg Zoo aims to inspire future generations to appreciate and protect the natural world.
+In addition, the zoo serves as a community hub, hosting events and activities that bring people together and promote a shared love for animals. This aspect of the zoo's mission is particularly important in urban settings, where opportunities to connect with nature may be limited. Through its various programs, Augsburg Zoo aims to inspire future generations to appreciate and protect the natural world.
 
 ## Architecture and Features
 
@@ -62,13 +62,13 @@ Augsburg is rich in cultural and historical attractions, making it easy to compl
 
 1. **Augsburg Botanical Garden**: A serene place to enjoy a variety of plant species and landscaped areas, perfect for a peaceful stroll after visiting the zoo.
    
-2. **Fuggerei**: This historic social housing complex is a fascinating glimpse into Augsburg’s past, showcasing the city’s commitment to social welfare since the 16th century.
+2. **Fuggerei**: This historic social housing complex is a fascinating glimpse into Augsburg's past, showcasing the city's commitment to social welfare since the 16th century.
    
-3. **Augsburg Cathedral**: A stunning example of Romanesque architecture, this cathedral features impressive stained glass windows and is a vital part of the city’s heritage.
+3. **Augsburg Cathedral**: A stunning example of Romanesque architecture, this cathedral features impressive stained glass windows and is a vital part of the city's heritage.
    
 4. **Schaezlerpalais**: A beautiful baroque palace that houses an art gallery, providing an enriching cultural experience just a short distance from the zoo.
    
-5. **Augsburg Town Hall**: Known for its magnificent golden hall, this Renaissance building is an architectural marvel and a symbol of the city’s historical significance.
+5. **Augsburg Town Hall**: Known for its magnificent golden hall, this Renaissance building is an architectural marvel and a symbol of the city's historical significance.
 
 ## Insider Tips
 

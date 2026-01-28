@@ -50,7 +50,7 @@ One of the palace's most remarkable features is its gardens, which provide a ser
 
 For those planning a visit to Monbijou Palace, accessibility is straightforward. The palace is located in the central Bezirk Mitte, making it easily reachable by various modes of public transportation. Visitors can take advantage of the city's extensive metro and bus networks to arrive at their destination with ease.
 
-Before heading out, it’s advisable to check the official website for current information regarding opening hours and ticket prices, as these can vary. Planning your visit for late morning or early afternoon can help you avoid the largest crowds, enhancing your experience as you explore the palace and its surroundings.
+Before heading out, it's advisable to check the official website for current information regarding opening hours and ticket prices, as these can vary. Planning your visit for late morning or early afternoon can help you avoid the largest crowds, enhancing your experience as you explore the palace and its surroundings.
 
 On-site, visitors can expect to discover informative displays and possibly exhibitions that delve into the history and significance of Monbijou Palace. A typical visit may take approximately one to two hours, allowing ample time to appreciate both the interior and the gardens.
 
@@ -76,7 +76,7 @@ To make the most of your visit to Monbijou Palace, consider the following tips:
 
 - **Crowd Avoidance**: Weekdays tend to be less crowded than weekends. If possible, plan your visit during the week for a more leisurely experience.
 
-- **Guided Tours**: If you’re interested in delving deeper into the history of the palace, check if guided tours are available. These can provide valuable insights and enrich your understanding of the site.
+- **Guided Tours**: If you're interested in delving deeper into the history of the palace, check if guided tours are available. These can provide valuable insights and enrich your understanding of the site.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Check the official website for information regarding guided tours, as these can 
 Visiting during weekdays, particularly in the morning or early afternoon, can help you avoid larger crowds.
 
 ### Is it wheelchair accessible?
-While Monbijou Palace aims to accommodate all visitors, it’s advisable to check the official website for specific accessibility information.
+While Monbijou Palace aims to accommodate all visitors, it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for current ticket purchasing options, including online availability.

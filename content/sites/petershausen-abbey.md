@@ -36,7 +36,7 @@ Petershausen Abbey has a rich history that reflects the changes in religious pra
 
 The significance of Petershausen Abbey extends beyond its religious functions. It has served as a center of learning, art, and community life, contributing to the cultural heritage of the area. Monasteries like Petershausen were often pivotal in preserving knowledge through tumultuous times, acting as repositories of manuscripts and art. Additionally, they played a crucial role in the agricultural and economic development of their regions, as monks cultivated the land and engaged in trade.
 
-The abbey’s historical importance is compounded by its connections with notable figures and events in the region. As a site of pilgrimage and spiritual reflection, Petershausen Abbey attracts visitors not only for its serene atmosphere but also for its embodiment of centuries of faith and community.
+The abbey's historical importance is compounded by its connections with notable figures and events in the region. As a site of pilgrimage and spiritual reflection, Petershausen Abbey attracts visitors not only for its serene atmosphere but also for its embodiment of centuries of faith and community.
 
 ## Architecture and Features
 

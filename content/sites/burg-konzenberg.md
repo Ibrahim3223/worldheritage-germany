@@ -46,9 +46,9 @@ While much of the original structure is no longer intact, the atmosphere of Burg
 
 Burg Konzenberg is accessible to visitors looking to explore its historical significance. To reach the castle, various transport options are available, including personal vehicles or public transportation. The coordinates for the site are 47.98888889, 8.74527778, which can be used for navigation.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding hours and any potential entrance fees. Although the castle is in ruins, expect to spend a couple of hours exploring the site. The best times to visit would typically be during the warmer months when the weather is suitable for outdoor exploration.
+Before planning your visit, it's advisable to check the official website for current information regarding hours and any potential entrance fees. Although the castle is in ruins, expect to spend a couple of hours exploring the site. The best times to visit would typically be during the warmer months when the weather is suitable for outdoor exploration.
 
-As you wander through the ruins, take the opportunity to reflect on the historical context and the role Burg Konzenberg played in the region’s past. The surrounding landscape offers a peaceful environment for contemplation, making your visit both enriching and enjoyable.
+As you wander through the ruins, take the opportunity to reflect on the historical context and the role Burg Konzenberg played in the region's past. The surrounding landscape offers a peaceful environment for contemplation, making your visit both enriching and enjoyable.
 
 ## Nearby Attractions
 
@@ -93,7 +93,7 @@ Due to the nature of the ruins and the surrounding terrain, accessibility may be
 Check the official website for details on ticket purchasing options, as they can vary based on the time of year or special events.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to check the official website for information on available amenities.
+Facilities may be limited; it's advisable to check the official website for information on available amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for outdoor exploration, with sturdy footwear to navigate the castle grounds.

@@ -52,7 +52,7 @@ Visiting Villa Hügel is a rewarding experience that allows you to engage with b
 
 Plan to spend a few hours at Villa Hügel to fully appreciate the exhibitions and the estate's extensive grounds. The best times to visit are during weekdays when the crowds are thinner, allowing for a more intimate experience. 
 
-As you explore the villa, expect to find a range of exhibits that delve into the history of the Krupp family and their impact on the region. Guided tours may be available, offering deeper insights into the site’s significance. Be sure to check current offerings on the official website.
+As you explore the villa, expect to find a range of exhibits that delve into the history of the Krupp family and their impact on the region. Guided tours may be available, offering deeper insights into the site's significance. Be sure to check current offerings on the official website.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ When it comes to photography, be mindful of the guidelines in place. While many 
 
 ## Practical Information
 
-When planning your visit to Villa Hügel, it’s advisable to wear comfortable shoes, as you may be walking for an extended period while exploring the estate. Given the nature of the villa, layering your clothing can be beneficial, as temperatures may vary between indoor and outdoor spaces.
+When planning your visit to Villa Hügel, it's advisable to wear comfortable shoes, as you may be walking for an extended period while exploring the estate. Given the nature of the villa, layering your clothing can be beneficial, as temperatures may vary between indoor and outdoor spaces.
 
 Consider bringing a water bottle to stay hydrated, especially during warmer months, as you may wish to spend time in the gardens. Seasonal events or exhibitions may also offer unique experiences, so checking the official website for updates can enhance your visit.
 
@@ -86,7 +86,7 @@ Consider bringing a water bottle to stay hydrated, especially during warmer mont
 While a visit can be completed in a couple of hours, allocating more time allows for a deeper appreciation of the exhibits and grounds.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s recommended to check the guidelines upon arrival.
+Photography policies may vary by exhibition. It's recommended to check the guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available for those seeking a more in-depth understanding of the villa's history and significance. 

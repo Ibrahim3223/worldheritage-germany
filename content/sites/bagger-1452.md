@@ -44,7 +44,7 @@ The design of Bagger 1452 itself is an impressive architectural feat, typifying 
 
 One of the notable features of Bagger 1452 is its bucket wheel, a massive rotating assembly equipped with several buckets that scoop up earth as it turns. This mechanism is at the heart of the excavator's functionality, highlighting the ingenuity behind its design. Visitors can appreciate the scale of the machinery, which illustrates not only the capabilities of industrial engineering but also the challenges faced in operating such large machines.
 
-The museum grounds may include various informational displays and exhibits that provide context and detail about the excavator’s operation, history, and significance within the broader scope of industrial development. Interactive elements, if available, would enhance the visitor experience, allowing for a deeper understanding of the technology and its applications.
+The museum grounds may include various informational displays and exhibits that provide context and detail about the excavator's operation, history, and significance within the broader scope of industrial development. Interactive elements, if available, would enhance the visitor experience, allowing for a deeper understanding of the technology and its applications.
 
 ## Visiting Information
 

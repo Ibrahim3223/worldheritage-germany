@@ -36,7 +36,7 @@ Additionally, the area around Bichtenberg has seen human interaction for centuri
 
 As a mountain, Bichtenberg presents a rugged and natural landscape that is characterized by its rocky outcrops and varying elevations. The terrain offers numerous hiking trails that wind their way up the slopes, inviting visitors to explore its natural features. The mountain's rocky surfaces and plant life create a diverse environment, which can be appreciated by nature enthusiasts and hikers alike.
 
-Noteworthy features of Bichtenberg include its diverse vegetation, which varies depending on the elevation and exposure to sunlight. The flora ranges from sturdy shrubs to delicate wildflowers, creating a vibrant tapestry of colors in the warmer months. Additionally, the mountain’s topography provides vantage points that allow for sweeping views of the surrounding countryside, enhancing the experience for those who reach its summit.
+Noteworthy features of Bichtenberg include its diverse vegetation, which varies depending on the elevation and exposure to sunlight. The flora ranges from sturdy shrubs to delicate wildflowers, creating a vibrant tapestry of colors in the warmer months. Additionally, the mountain's topography provides vantage points that allow for sweeping views of the surrounding countryside, enhancing the experience for those who reach its summit.
 
 The trails that traverse Bichtenberg vary in difficulty, catering to both novice hikers and experienced adventurers. This accessibility ensures that a wide range of visitors can enjoy the mountain's beauty and engage with the natural environment. 
 

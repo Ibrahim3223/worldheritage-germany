@@ -68,9 +68,9 @@ Freiburg im Breisgau is home to several attractions worth exploring before or af
 
 For those planning to visit the Zinnfigurenklause, here are a few insider tips to enhance your experience:
 
-- **Photography**: Check the museum's policy on photography. It’s always best to ask if flash photography is permitted, as it can sometimes be restricted to preserve the exhibits.
+- **Photography**: Check the museum's policy on photography. It's always best to ask if flash photography is permitted, as it can sometimes be restricted to preserve the exhibits.
 - **Crowd Avoidance**: Aim to visit during weekday mornings for a quieter experience. Popular weekends may see larger crowds, especially if local events coincide with your visit.
-- **Engagement**: Don’t hesitate to ask museum staff about the exhibits. They often have a wealth of knowledge and can provide additional context that enhances your understanding of the displays.
+- **Engagement**: Don't hesitate to ask museum staff about the exhibits. They often have a wealth of knowledge and can provide additional context that enhances your understanding of the displays.
 
 ## Practical Information
 

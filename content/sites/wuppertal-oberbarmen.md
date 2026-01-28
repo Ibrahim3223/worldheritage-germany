@@ -68,7 +68,7 @@ The best times to visit are generally during weekdays when the station is bustli
 
 For photography enthusiasts, the best angles of Wuppertal-Oberbarmen can be found from the platforms, capturing the movement of trains and passengers. Early mornings or late afternoons offer softer lighting for more appealing photographs.
 
-To avoid crowds, consider visiting during off-peak hours, typically mid-morning or early afternoon. This will allow for a more relaxed experience and the opportunity to appreciate the station’s architecture and bustling atmosphere.
+To avoid crowds, consider visiting during off-peak hours, typically mid-morning or early afternoon. This will allow for a more relaxed experience and the opportunity to appreciate the station's architecture and bustling atmosphere.
 
 ## Practical Information
 

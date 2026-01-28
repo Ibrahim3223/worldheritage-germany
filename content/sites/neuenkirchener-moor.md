@@ -28,7 +28,7 @@ image_srcset:
 
 Neuenkirchener Moor is a designated nature reserve located in the tranquil region of Neuenkirchen, Lower Saxony, Germany. Covering a significant area of lush wetlands, this reserve serves as a vital habitat for diverse flora and fauna, attracting nature enthusiasts, bird watchers, and researchers alike. With its pristine landscapes and ecological importance, Neuenkirchener Moor offers visitors an opportunity to engage with nature while contributing to the preservation of this unique environment. The area is particularly significant for its role in biodiversity conservation and environmental education, making it a key location for those interested in ecology and sustainability.
 
-The reserve’s coordinates, 52.4114° N latitude and 7.86389° E longitude, place it in a region characterized by its rich natural heritage. Visitors can expect to experience the serenity of wetlands, forests, and meadows that create a habitat for various species, including birds, insects, and plants that thrive in this ecosystem. Whether you're seeking a peaceful day in nature or a deeper understanding of environmental conservation, Neuenkirchener Moor is an ideal destination.
+The reserve's coordinates, 52.4114° N latitude and 7.86389° E longitude, place it in a region characterized by its rich natural heritage. Visitors can expect to experience the serenity of wetlands, forests, and meadows that create a habitat for various species, including birds, insects, and plants that thrive in this ecosystem. Whether you're seeking a peaceful day in nature or a deeper understanding of environmental conservation, Neuenkirchener Moor is an ideal destination.
 
 ## History and Significance
 
@@ -103,7 +103,7 @@ Check the official website for specific information regarding accessibility opti
 Entry to Neuenkirchener Moor is typically free, but check the official website for any fees associated with guided tours or special events.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the reserve. It’s advisable to check the official website for information regarding restrooms and nearby dining options.
+Facilities may be limited within the reserve. It's advisable to check the official website for information regarding restrooms and nearby dining options.
 
 ### What should I wear?
 Dress in layers to accommodate changing weather conditions. Comfortable walking shoes and weather-appropriate clothing are recommended for exploring the trails.

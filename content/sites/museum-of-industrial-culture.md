@@ -52,7 +52,7 @@ The museum also emphasizes the importance of hands-on learning. Some exhibits ma
 
 Planning a visit to the Museum of Industrial Culture is straightforward, with Nuremberg being well-connected by public transport. Visitors can reach the museum via local bus or tram services, which regularly service the area. For those traveling by car, check the official website for parking options and any specific guidance.
 
-When planning your visit, it is advisable to check the official website for current information on hours and admission prices. The museum typically offers a range of experiences, including temporary exhibitions and special events, which can enhance your visit. Expect to spend a few hours exploring the exhibits to fully appreciate the breadth of the museum’s collection.
+When planning your visit, it is advisable to check the official website for current information on hours and admission prices. The museum typically offers a range of experiences, including temporary exhibitions and special events, which can enhance your visit. Expect to spend a few hours exploring the exhibits to fully appreciate the breadth of the museum's collection.
 
 The best times to visit may vary, but weekdays often provide a quieter experience compared to weekends, when families and tourists may flock to the museum. Consider visiting during the shoulder seasons for a more relaxed atmosphere, allowing for deeper engagement with the exhibits.
 

@@ -44,7 +44,7 @@ St. Vincentus Church features traditional architectural elements common in many 
 
 Churches often have a symmetrical layout, and St. Vincentus may reflect this design principle with a central nave flanked by aisles, creating an inviting space for worshippers. The use of local materials in its construction may also be evident, showcasing the craftsmanship of the time it was built and further connecting the church to its geographical context.
 
-The interior of St. Vincentus Church likely features elements that enhance its spiritual atmosphere, such as an altar, pews, and possibly religious iconography that speaks to the faith practiced within its walls. Visitors may find themselves captivated by the simplicity and beauty of the church’s design, encouraging moments of reflection and contemplation.
+The interior of St. Vincentus Church likely features elements that enhance its spiritual atmosphere, such as an altar, pews, and possibly religious iconography that speaks to the faith practiced within its walls. Visitors may find themselves captivated by the simplicity and beauty of the church's design, encouraging moments of reflection and contemplation.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While St. Vincentus Church itself is a highlight, visitors to Husby will find se
 
 ## Insider Tips
 
-For those planning a visit to St. Vincentus Church, consider bringing a camera to capture the church’s architectural details, while being respectful of the sacredness of the space. Early morning or late afternoon visits might offer softer lighting for photography.
+For those planning a visit to St. Vincentus Church, consider bringing a camera to capture the church's architectural details, while being respectful of the sacredness of the space. Early morning or late afternoon visits might offer softer lighting for photography.
 
 To avoid larger crowds, visit during weekdays or outside of major religious events. Engaging with local residents can enhance your experience, as they may share personal stories and insights into the significance of the church.
 
@@ -91,7 +91,7 @@ A visit typically takes about an hour, but those interested in deeper exploratio
 Photography may be permitted, but visitors should respect any signage or requests regarding camera use within the church.
 
 ### Are there guided tours?
-Information on guided tours may vary, so it’s best to check the official website for availability.
+Information on guided tours may vary, so it's best to check the official website for availability.
 
 ### What's the best time to visit?
 Weekdays generally offer a quieter experience, while weekends may feature local events.

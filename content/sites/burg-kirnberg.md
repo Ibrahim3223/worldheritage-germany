@@ -91,7 +91,7 @@ Accessibility information may vary; checking the official website can provide cl
 To ensure a smooth visit, check the official website for information on online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available; it’s best to verify these details on the official website before your visit.
+Facilities such as restrooms and nearby cafes may be available; it's best to verify these details on the official website before your visit.
 
 ### What should I wear?
 Dressing in layers and wearing comfortable shoes is recommended, as you may encounter uneven surfaces and variable weather conditions during your visit.

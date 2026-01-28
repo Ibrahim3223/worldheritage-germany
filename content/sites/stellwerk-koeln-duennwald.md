@@ -48,7 +48,7 @@ Overall, the Stellwerk Köln-Dünnwald combines functional architecture with eng
 
 ## Visiting Information
 
-Visiting Stellwerk Köln-Dünnwald is a straightforward process, but it’s essential to plan ahead to maximize your experience. The museum is accessible via various modes of transport, making it convenient for both local and international visitors. 
+Visiting Stellwerk Köln-Dünnwald is a straightforward process, but it's essential to plan ahead to maximize your experience. The museum is accessible via various modes of transport, making it convenient for both local and international visitors. 
 
 Upon arrival, you can expect to be greeted by a well-organized museum that invites exploration. The exhibits are designed to provide informative insights into railway signaling technology, and visitors can spend a few hours engaging with the displays. 
 
@@ -84,7 +84,7 @@ For a fulfilling visit to Stellwerk Köln-Dünnwald, consider these insider tips
 
 ## Practical Information
 
-When preparing for your visit to Stellwerk Köln-Dünnwald, it’s essential to consider a few practical aspects:
+When preparing for your visit to Stellwerk Köln-Dünnwald, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you may spend a considerable amount of time on your feet. Also, consider bringing a notepad if you wish to jot down insights or interesting facts.
 

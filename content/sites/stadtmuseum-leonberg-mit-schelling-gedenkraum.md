@@ -66,7 +66,7 @@ Leonberg is surrounded by several attractions that complement a visit to the Sta
 
 For the best experience at the Stadtmuseum Leonberg, consider visiting during weekdays when crowds are typically smaller. This allows for a more intimate exploration of the exhibits. Additionally, photography rules may apply, so check for any restrictions before snapping photos.
 
-If you have an interest in specific exhibits or themes, arriving early can provide you with ample time to engage deeply with the material. Don’t hesitate to ask museum staff for insights or recommendations on what to see first.
+If you have an interest in specific exhibits or themes, arriving early can provide you with ample time to engage deeply with the material. Don't hesitate to ask museum staff for insights or recommendations on what to see first.
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ Check the official website for seasonal considerations, as the museum may host s
 A visit typically takes around one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff or look for posted signs regarding photography.
+Photography policies may vary, so it's best to check with museum staff or look for posted signs regarding photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and whether they are available during your visit.

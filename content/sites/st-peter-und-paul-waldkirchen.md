@@ -28,7 +28,7 @@ image_srcset:
 
 St. Peter und Paul, a distinguished church building located in the quaint town of Waldkirchen, Bavaria, Germany, stands as an emblem of the region's rich cultural heritage and architectural significance. This sacred site is not only a place of worship but also a reflection of the historical narratives that have shaped the local community over the centuries. As you approach the church, its presence commands attention, inviting visitors to explore its storied past and appreciate its unique architectural details.
 
-Waldkirchen, situated in the picturesque landscape of Bavaria, is known for its charming ambiance and friendly atmosphere. The town offers a glimpse into traditional German life, with St. Peter und Paul serving as a focal point for both locals and tourists alike. The church’s significance extends beyond its physical structure; it is a vital part of the community’s identity, hosting various events and gatherings that foster a sense of belonging among residents. 
+Waldkirchen, situated in the picturesque landscape of Bavaria, is known for its charming ambiance and friendly atmosphere. The town offers a glimpse into traditional German life, with St. Peter und Paul serving as a focal point for both locals and tourists alike. The church's significance extends beyond its physical structure; it is a vital part of the community's identity, hosting various events and gatherings that foster a sense of belonging among residents. 
 
 Visitors to St. Peter und Paul can expect to be immersed in a setting that harmonizes spirituality and history, making it a worthy addition to any travel itinerary focused on cultural exploration in Germany.
 
@@ -80,7 +80,7 @@ For those planning to visit St. Peter und Paul, here are a few insider tips to e
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays or early in the morning. This will allow you to take in the ambiance without the hustle and bustle of larger crowds.
 
-- **Engage with Locals**: Take the time to chat with local residents or church staff. They can provide insights into the church’s history and significance, enriching your visit.
+- **Engage with Locals**: Take the time to chat with local residents or church staff. They can provide insights into the church's history and significance, enriching your visit.
 
 ## Practical Information
 
@@ -98,7 +98,7 @@ When preparing for your visit to St. Peter und Paul, consider the following prac
 A visit to St. Peter und Paul typically takes about one to two hours, allowing time to explore both the interior and exterior of the church.
 
 ### Is photography allowed?
-Photography is generally permitted, but be cautious of any restrictions during services. It’s always best to ask if you’re unsure.
+Photography is generally permitted, but be cautious of any restrictions during services. It's always best to ask if you're unsure.
 
 ### Are there guided tours?
 Check the official website for information on guided tours. Local guides may offer insights into the church's history and architectural features.

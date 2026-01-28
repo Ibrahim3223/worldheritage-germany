@@ -48,7 +48,7 @@ In addition to their artistic value, the caves served practical purposes for ear
 
 ## Visiting Information
 
-Visitors planning a trip to the Caves and Ice Age Art in the Swabian Jura can prepare for an enriching experience. Access to the site is typically facilitated by local transport options, including public transit and regional roads. Upon arrival, guests can expect guided tours that provide insights into the caves’ history and the significance of the artifacts within.
+Visitors planning a trip to the Caves and Ice Age Art in the Swabian Jura can prepare for an enriching experience. Access to the site is typically facilitated by local transport options, including public transit and regional roads. Upon arrival, guests can expect guided tours that provide insights into the caves' history and the significance of the artifacts within.
 
 For current information regarding opening hours, ticket prices, and any visitor guidelines, check the official website. The exploration of the caves can take several hours, depending on the depth of engagement and interest in the various exhibits. As the site is popular among tourists and researchers alike, visiting during off-peak times may enhance the experience by allowing for a more personal connection to the surroundings.
 

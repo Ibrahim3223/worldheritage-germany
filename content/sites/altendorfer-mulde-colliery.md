@@ -3,7 +3,7 @@ title: "Altendorfer Mulde Colliery"
 site_name: "Altendorfer Mulde Colliery"
 date: 2026-01-26
 draft: false
-description: "The Altendorfer Mulde Colliery, located in Essen, Germany, represents a critical chapter in the story of the nation’s industrial heritage."
+description: "The Altendorfer Mulde Colliery, located in Essen, Germany, represents a critical chapter in the story of the nation's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Altendorfer Mulde Colliery, located in Essen, Germany, represents a critical chapter in the story of the nation’s industrial heritage. As a mine, it played a pivotal role in the evolution of the region's economy and society, particularly during the height of coal mining in Germany. Nestled within a landscape shaped significantly by industrial activity, this site offers visitors a glimpse into the past, allowing them to appreciate the labor and ingenuity that fueled the industrial revolution in Europe.
+The Altendorfer Mulde Colliery, located in Essen, Germany, represents a critical chapter in the story of the nation's industrial heritage. As a mine, it played a pivotal role in the evolution of the region's economy and society, particularly during the height of coal mining in Germany. Nestled within a landscape shaped significantly by industrial activity, this site offers visitors a glimpse into the past, allowing them to appreciate the labor and ingenuity that fueled the industrial revolution in Europe.
 
 Essen, a city in North Rhine-Westphalia, is historically known for its coal and steel industries. The Altendorfer Mulde Colliery is not just a relic of mining operations; it stands as a symbol of the transformation that affected the local community and the broader region. By visiting this mine, guests can explore the remnants of a vital industry that once powered entire cities, reflecting on its lasting impacts. 
 

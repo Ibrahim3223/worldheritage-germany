@@ -83,7 +83,7 @@ Seasonal considerations are important as well; dress accordingly for the weather
 A visit to Schloss Liebenau typically takes a few hours, allowing time for exploration and appreciation of the site.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff upon arrival regarding any restrictions.
+Photography policies may vary, so it's best to check with staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing a more in-depth understanding of the castle's history and significance. Check the official website for details.
@@ -92,13 +92,13 @@ Guided tours may be available, providing a more in-depth understanding of the ca
 Late spring and early autumn are generally favorable times for a visit, offering pleasant weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s advisable to check in advance regarding facilities for visitors with mobility challenges.
+Accessibility information may vary; it's advisable to check in advance regarding facilities for visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site, but it’s best to confirm this information before your visit.
+Facilities such as restrooms and cafes may be available on-site, but it's best to confirm this information before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering that exploring the castle may involve walking on uneven terrain.

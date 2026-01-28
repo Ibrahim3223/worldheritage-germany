@@ -28,21 +28,21 @@ image_srcset:
 
 Dahlem Cemetery, located in the tranquil district of Steglitz-Zehlendorf in Berlin, Germany, presents an intriguing blend of natural beauty and historical significance. This cemetery serves as a final resting place for many notable figures, reflecting the cultural and intellectual achievements of the region. With its serene atmosphere, it attracts visitors who seek to explore both the resting places of prominent individuals and the peaceful landscape that envelopes them.
 
-Set against the backdrop of Berlin’s evolving history, Dahlem Cemetery is not merely a burial ground; it embodies the narratives of those who have contributed to the city's rich heritage. The cemetery’s design and layout invite contemplation, making it an ideal spot for both history enthusiasts and those looking for a moment of tranquility amidst the bustle of city life. Visitors can expect to engage with the stories of the past while appreciating the unique charm of this serene site.
+Set against the backdrop of Berlin's evolving history, Dahlem Cemetery is not merely a burial ground; it embodies the narratives of those who have contributed to the city's rich heritage. The cemetery's design and layout invite contemplation, making it an ideal spot for both history enthusiasts and those looking for a moment of tranquility amidst the bustle of city life. Visitors can expect to engage with the stories of the past while appreciating the unique charm of this serene site.
 
 ## History and Significance
 
 Dahlem Cemetery has a notable significance in the context of Berlin's historical landscape. Established in the early 20th century, this cemetery has become the final resting place for numerous prominent figures from various fields, including art, science, and politics. The site reflects the diverse cultural influences that have shaped Berlin, particularly in the Dahlem district, known for its intellectual and artistic heritage.
 
-Among the many burials, the cemetery is home to graves of renowned scholars, artists, and public figures whose contributions have left a lasting impact on German society and beyond. This connection to influential personalities highlights the cemetery’s role as a cultural landmark, inviting visitors to reflect on the legacies of those interred within its grounds.
+Among the many burials, the cemetery is home to graves of renowned scholars, artists, and public figures whose contributions have left a lasting impact on German society and beyond. This connection to influential personalities highlights the cemetery's role as a cultural landmark, inviting visitors to reflect on the legacies of those interred within its grounds.
 
-The cemetery’s design is also significant, as it incorporates elements typical of 20th-century burial practices, emphasizing both individuality and the collective memory of the community. Visitors can find various styles of gravestones and memorials that represent the personal stories of those buried here, making it a poignant place for reflection and remembrance.
+The cemetery's design is also significant, as it incorporates elements typical of 20th-century burial practices, emphasizing both individuality and the collective memory of the community. Visitors can find various styles of gravestones and memorials that represent the personal stories of those buried here, making it a poignant place for reflection and remembrance.
 
 ## Architecture and Features
 
 Dahlem Cemetery is characterized by a blend of architectural styles that reflect the time of its establishment and the diverse backgrounds of those interred. The layout of the cemetery is thoughtfully designed, with winding paths that meander through lush greenery, creating a peaceful environment conducive to reflection.
 
-Notable features include elaborate headstones and memorials that vary in style, ranging from simple and understated to ornate and intricate. Some gravestones are adorned with sculptures or inscriptions that tell the story of the individual’s life, providing insights into their contributions and significance. The cemetery’s landscape is punctuated with mature trees and flowering plants, enhancing its tranquil ambiance.
+Notable features include elaborate headstones and memorials that vary in style, ranging from simple and understated to ornate and intricate. Some gravestones are adorned with sculptures or inscriptions that tell the story of the individual's life, providing insights into their contributions and significance. The cemetery's landscape is punctuated with mature trees and flowering plants, enhancing its tranquil ambiance.
 
 Many visitors appreciate the artistic elements found within the cemetery, as they reveal the personality and legacy of the deceased. The overall design harmonizes with the natural surroundings, making it a serene place to explore history while enjoying the beauty of nature.
 
@@ -62,7 +62,7 @@ Dahlem Cemetery is situated in a vibrant area of Berlin, offering several nearby
 
 2. **Botanical Garden and Botanical Museum**: Just a brief walk from the cemetery, this expansive garden features a diverse collection of plants and is an ideal spot for nature lovers.
 
-3. **Museum of European Cultures**: Located nearby, this museum highlights the cultural diversity within Europe, providing a deeper understanding of the region’s history and heritage.
+3. **Museum of European Cultures**: Located nearby, this museum highlights the cultural diversity within Europe, providing a deeper understanding of the region's history and heritage.
 
 4. **Schwarzes Cafe**: A local café known for its cozy atmosphere, perfect for a break after a reflective walk in the cemetery.
 
@@ -70,7 +70,7 @@ Dahlem Cemetery is situated in a vibrant area of Berlin, offering several nearby
 
 ## Insider Tips
 
-When visiting Dahlem Cemetery, photography enthusiasts should be mindful of the solemnity of the site. While capturing the beauty of the gravestones and the surrounding landscape can be rewarding, it’s essential to respect the environment and the memories of those interred.
+When visiting Dahlem Cemetery, photography enthusiasts should be mindful of the solemnity of the site. While capturing the beauty of the gravestones and the surrounding landscape can be rewarding, it's essential to respect the environment and the memories of those interred.
 
 To avoid crowds, consider visiting during weekday mornings or later in the afternoon. This timing allows for a more intimate experience as you navigate the paths and engage more deeply with the surroundings.
 

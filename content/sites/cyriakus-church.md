@@ -44,13 +44,13 @@ Cyriakus Church is characterized by its distinctive architectural style, which m
 
 Inside, the church features a spacious nave that allows for various activities and gatherings. The interior design showcases beautiful stained glass windows that cast colorful light onto the stone floors, creating a serene and contemplative atmosphere. The craftsmanship evident in the woodwork and other decorative elements further enhances the church's charm.
 
-Notable features of Cyriakus Church include its altar and pulpit, both of which are meticulously designed and contribute to the overall ambiance of reverence. The church’s layout facilitates a clear view of these focal points, allowing congregants and visitors to engage fully with the space.
+Notable features of Cyriakus Church include its altar and pulpit, both of which are meticulously designed and contribute to the overall ambiance of reverence. The church's layout facilitates a clear view of these focal points, allowing congregants and visitors to engage fully with the space.
 
 ## Visiting Information
 
 Visiting Cyriakus Church is a straightforward endeavor, given its central location in Brunswick. The church is accessible via various modes of transportation, including public transit and walking paths that connect to the surrounding areas. Whether you are arriving by car or using public transport, reaching the church is convenient.
 
-For the latest information on visiting hours and any potential costs associated with entry, it’s advisable to check the official website. Visitors can expect to spend around an hour exploring the church, allowing time to appreciate its architectural features and historical significance. 
+For the latest information on visiting hours and any potential costs associated with entry, it's advisable to check the official website. Visitors can expect to spend around an hour exploring the church, allowing time to appreciate its architectural features and historical significance. 
 
 The best times to visit are typically during the weekdays when foot traffic is lower, providing a quieter atmosphere for reflection and exploration. Special services and events may also be held on weekends, making these times particularly vibrant for those interested in experiencing the church's community life.
 
@@ -107,7 +107,7 @@ For accessibility information and details on facilities, it is best to consult t
 Check the official website for information regarding online ticket purchases and any associated costs.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to verify their location and availability on the official website.
+Facilities may be available nearby, but it's advisable to verify their location and availability on the official website.
 
 ### What should I wear?
 Dress modestly to show respect for the sacred space, and consider wearing comfortable shoes for exploring the area.

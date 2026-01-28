@@ -82,7 +82,7 @@ To make the most of your visit to Thomaskirche, consider these insider tips:
 
 - **Photography**: While photography is generally allowed, be mindful of any restrictions during services or events. Capturing the church's interior can be rewarding, especially if you focus on the light filtering through the stained glass windows.
 
-- **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekday mornings. If you’re interested in attending a service, arriving early can secure you a good seat and enhance your experience.
+- **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekday mornings. If you're interested in attending a service, arriving early can secure you a good seat and enhance your experience.
 
 ## Practical Information
 
@@ -101,13 +101,13 @@ Plan to spend at least an hour at Thomaskirche, allowing time to explore the int
 Photography is generally permitted, but be respectful of any guidelines, especially during services.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide valuable insights into the church’s history and features.
+Check the official website for information on guided tours, which can provide valuable insights into the church's history and features.
 
 ### What's the best time to visit?
 The best times to visit are during weekday mornings or early on weekends to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for specific details regarding wheelchair access.
+Accessibility information may vary, so it's advisable to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket availability and purchasing options, especially for special events.

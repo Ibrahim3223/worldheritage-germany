@@ -36,11 +36,11 @@ As you explore the exhibits, you can expect to encounter a well-curated collecti
 
 The Huguenots originated in France and were followers of John Calvin's reformist ideas during the Protestant Reformation. Their quest for religious freedom led them to face severe persecution, particularly in the late 16th and early 17th centuries. Following the Edict of Nantes in 1598, which initially granted them certain rights, the situation deteriorated dramatically after its revocation in 1685. This drove thousands of Huguenots to seek refuge in more tolerant countries, including Germany.
 
-The significance of the Huguenots extends beyond their personal struggles; their arrival in Germany marked a considerable cultural and economic shift. They brought with them skills and knowledge in various trades, particularly in textile manufacturing, agriculture, and craftsmanship. The Huguenot community in Bad Karlshafen was instrumental in establishing local industries that significantly contributed to the town’s development.
+The significance of the Huguenots extends beyond their personal struggles; their arrival in Germany marked a considerable cultural and economic shift. They brought with them skills and knowledge in various trades, particularly in textile manufacturing, agriculture, and craftsmanship. The Huguenot community in Bad Karlshafen was instrumental in establishing local industries that significantly contributed to the town's development.
 
 The German Huguenot Museum plays a crucial role in commemorating this heritage. Through its exhibitions, the museum highlights the stories of individuals and families who emigrated and adapted to new lives in Germany. The artifacts, documents, and multimedia installations serve to illustrate the challenges they faced and the contributions they made, fostering a sense of recognition for their role in shaping local history.
 
-This cultural significance is key to understanding contemporary discussions around immigration and integration, making the museum a relevant institution in today’s context. The narratives presented invite reflection on the ongoing issues of identity, belonging, and the impact of cultural exchange in a rapidly globalizing world.
+This cultural significance is key to understanding contemporary discussions around immigration and integration, making the museum a relevant institution in today's context. The narratives presented invite reflection on the ongoing issues of identity, belonging, and the impact of cultural exchange in a rapidly globalizing world.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ The German Huguenot Museum is housed in a historic building that itself carries 
 
 Inside, the museum is organized to facilitate a journey through the Huguenots' history and their integration into German society. Exhibits are typically arranged thematically, offering insights into various aspects of Huguenot life, including their religious practices, craftsmanship, and the socio-political challenges they encountered. Interactive displays may also engage visitors, providing a deeper understanding of the Huguenot legacy.
 
-Notably, the museum likely incorporates artifacts such as personal items, clothing, and tools that belonged to Huguenot families. These objects serve as tangible connections to the past, enriching the educational experience. Visitors can also expect to see documents that record the Huguenots’ experiences, further illuminating their journey and contributions.
+Notably, the museum likely incorporates artifacts such as personal items, clothing, and tools that belonged to Huguenot families. These objects serve as tangible connections to the past, enriching the educational experience. Visitors can also expect to see documents that record the Huguenots' experiences, further illuminating their journey and contributions.
 
 The museum's layout is designed to ensure a comprehensive exploration of the subject matter, making it accessible to a wide audience. Whether one is well-versed in history or a casual visitor, the informative displays and thoughtful curation provide an engaging experience.
 
@@ -98,7 +98,7 @@ Facilities at the museum, including restrooms, may be available, but it is wise 
 A visit typically takes about 2 to 3 hours, allowing time to explore the exhibits and absorb the historical context.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum upon arrival.
+Photography policies may vary, so it's best to check with the museum upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; consult the official website for details on scheduling and availability.

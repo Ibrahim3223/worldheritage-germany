@@ -58,7 +58,7 @@ The best times to visit the Amrum Lighthouse are during the warmer months when t
 
 1. **Nebel Village**: Just a short distance from the lighthouse, Nebel offers charming streets, local shops, and eateries that showcase the island's culture.
    
-2. **Amrum’s Beaches**: The island features expansive sandy beaches that are perfect for sunbathing, swimming, and enjoying the natural beauty of the coastline.
+2. **Amrum's Beaches**: The island features expansive sandy beaches that are perfect for sunbathing, swimming, and enjoying the natural beauty of the coastline.
 
 3. **Wadden Sea National Park**: A UNESCO World Heritage site, this national park is an excellent destination for nature enthusiasts, showcasing unique ecosystems and wildlife.
 

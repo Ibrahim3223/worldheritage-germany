@@ -42,7 +42,7 @@ Additionally, the museum may include features such as exhibition spaces, educati
 
 ## Visiting Information
 
-When planning your visit to Galerie Wilhelm Kimmich, it’s important to consider your transportation options. The museum is located in Germany, and public transport is generally efficient in most cities. Depending on your starting point, you may have access to trains, buses, or trams that can take you close to the gallery. 
+When planning your visit to Galerie Wilhelm Kimmich, it's important to consider your transportation options. The museum is located in Germany, and public transport is generally efficient in most cities. Depending on your starting point, you may have access to trains, buses, or trams that can take you close to the gallery. 
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary. It is advisable to allocate sufficient time for your visit, ideally a couple of hours, to fully appreciate the exhibits and engage with the artistic offerings. 
 

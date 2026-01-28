@@ -32,7 +32,7 @@ While the station primarily facilitates local and regional train services, it em
 
 ## History and Significance
 
-Though specific historical dates are not available, Frankfurt Griesheim Station has developed alongside the city itself, adapting to the changing needs of its population. The station’s establishment was part of a broader effort to enhance public transport in the Frankfurt area, responding to the increasing demands of urbanization and mobility. As Frankfurt grew into a financial capital, the need for efficient and reliable transport links became paramount, positioning Griesheim Station as an essential element of the city’s infrastructure.
+Though specific historical dates are not available, Frankfurt Griesheim Station has developed alongside the city itself, adapting to the changing needs of its population. The station's establishment was part of a broader effort to enhance public transport in the Frankfurt area, responding to the increasing demands of urbanization and mobility. As Frankfurt grew into a financial capital, the need for efficient and reliable transport links became paramount, positioning Griesheim Station as an essential element of the city's infrastructure.
 
 The significance of this station extends beyond its functional role; it serves as a cultural landmark within the Griesheim district. The surrounding area is characterized by a mix of residential and commercial spaces, and the station acts as a conduit for community interactions. Its presence in the neighborhood fosters connectivity, allowing residents to easily access various parts of Frankfurt and beyond. This accessibility has encouraged local businesses to thrive, making the station a vital component of the local economy.
 
@@ -95,7 +95,7 @@ Currently, there are no specific guided tours offered at Griesheim Station, but 
 To avoid crowds, mid-morning or early afternoon during weekdays is the best time to visit the station.
 
 ### Is it wheelchair accessible?
-The station is designed to accommodate passengers with mobility challenges, but it’s advisable to check specific accessibility features on the official website.
+The station is designed to accommodate passengers with mobility challenges, but it's advisable to check specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary. Check the official website for details on online ticket purchases and availability.

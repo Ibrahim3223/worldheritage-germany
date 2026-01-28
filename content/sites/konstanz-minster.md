@@ -60,9 +60,9 @@ When planning your visit to Konstanz Minster, you will find that accessibility t
 
 Check the official website for current information regarding opening hours and admission prices. Visitors typically recommend allocating a couple of hours to fully appreciate the Minster's intricate details and historical context. The best times to visit are usually during the early morning or late afternoon, which tend to be less crowded, allowing for a more contemplative experience.
 
-As you explore the cathedral, you can expect to find informational displays that provide insight into its history and architectural features. Guided tours are often available, offering deeper knowledge about the Minster’s significance and the stories behind its construction.
+As you explore the cathedral, you can expect to find informational displays that provide insight into its history and architectural features. Guided tours are often available, offering deeper knowledge about the Minster's significance and the stories behind its construction.
 
-Before your visit, it’s beneficial to check for any special events or services that may be taking place, as these can enhance your experience and provide a unique glimpse into the Minster’s role in the community.
+Before your visit, it's beneficial to check for any special events or services that may be taking place, as these can enhance your experience and provide a unique glimpse into the Minster's role in the community.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ While visiting Konstanz Minster, you may want to explore other nearby attraction
 
 4. **Mainau Island**: Known as the "Flower Island," Mainau is famous for its beautiful gardens and lush landscapes, accessible via a short ferry ride from the mainland.
 
-5. **Rosgarten Museum**: This museum showcases the history and culture of Constance through various exhibits, offering a broader understanding of the city’s heritage.
+5. **Rosgarten Museum**: This museum showcases the history and culture of Constance through various exhibits, offering a broader understanding of the city's heritage.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ To avoid crowds, plan your visit during weekdays if possible, especially in the 
 
 ## Practical Information
 
-When visiting Konstanz Minster, it’s advisable to bring along essentials such as a bottle of water and a camera. If you plan to explore the surrounding area, comfortable walking shoes are recommended, as the cobblestone streets of Old Town can be uneven.
+When visiting Konstanz Minster, it's advisable to bring along essentials such as a bottle of water and a camera. If you plan to explore the surrounding area, comfortable walking shoes are recommended, as the cobblestone streets of Old Town can be uneven.
 
 Consider seasonal factors when planning your visit. The summer months can be quite warm, while winter may bring colder temperatures. Regardless of when you go, dressing in layers can help you adjust to changing conditions throughout the day.
 
@@ -113,7 +113,7 @@ Accessibility options may vary, so it's best to check in advance for specific ac
 Check the official website for information regarding ticket purchases and any available online options.
 
 ### Are there restrooms and cafes?
-Facilities are typically available nearby, but it’s good to confirm upon arrival.
+Facilities are typically available nearby, but it's good to confirm upon arrival.
 
 ### What should I wear?
 Dress comfortably, but be mindful of the cathedral's sacred nature. Modest attire is recommended.

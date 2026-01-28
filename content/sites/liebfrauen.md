@@ -105,7 +105,7 @@ Accessibility information should be verified through the official website, as it
 Check the official website for details on ticketing and any admission fees.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and nearby cafes can be confirmed by checking local resources or the church’s site.
+Amenities such as restrooms and nearby cafes can be confirmed by checking local resources or the church's site.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly to align with the sacred atmosphere of the church.

@@ -78,7 +78,7 @@ When visiting Kirche Zum Heiligen Kreuz, consider the following tips to enhance 
 
 - **Crowd Avoidance**: Weekdays tend to be less crowded than weekends, making it an ideal time to visit for a quieter experience.
 
-- **Community Events**: Keep an eye on the church’s calendar for community events or special services, which can provide unique insights into local traditions and practices.
+- **Community Events**: Keep an eye on the church's calendar for community events or special services, which can provide unique insights into local traditions and practices.
 
 ## Practical Information
 

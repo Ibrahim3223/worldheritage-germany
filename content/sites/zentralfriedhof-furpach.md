@@ -64,9 +64,9 @@ When visiting Zentralfriedhof Furpach, consider bringing a camera to capture the
 
 ## Practical Information
 
-Before heading to Zentralfriedhof Furpach, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as visitors often walk through the cemetery grounds. A notebook or sketchbook might also enhance the experience, allowing for personal reflections or sketches inspired by the surroundings.
+Before heading to Zentralfriedhof Furpach, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as visitors often walk through the cemetery grounds. A notebook or sketchbook might also enhance the experience, allowing for personal reflections or sketches inspired by the surroundings.
 
-Seasonal considerations are important as well; be prepared for varying weather conditions depending on the time of year. Layers are a good choice for cooler months, while lighter clothing may be ideal in summer. It’s always a good practice to check weather forecasts before your visit.
+Seasonal considerations are important as well; be prepared for varying weather conditions depending on the time of year. Layers are a good choice for cooler months, while lighter clothing may be ideal in summer. It's always a good practice to check weather forecasts before your visit.
 
 ## Frequently Asked Questions
 

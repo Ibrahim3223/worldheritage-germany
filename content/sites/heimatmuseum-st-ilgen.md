@@ -76,7 +76,7 @@ To enhance your visit to Heimatmuseum St. Ilgen, consider the following insider 
   
 - **Crowd Avoidance**: If possible, aim for a visit during weekdays or early hours to enjoy a quieter experience, allowing for more personal engagement with the exhibits.
 
-- **Engagement**: Don’t hesitate to ask museum staff questions. Their insights can deepen your understanding of the exhibits and the stories behind them.
+- **Engagement**: Don't hesitate to ask museum staff questions. Their insights can deepen your understanding of the exhibits and the stories behind them.
 
 ## Practical Information
 

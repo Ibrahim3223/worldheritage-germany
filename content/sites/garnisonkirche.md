@@ -28,7 +28,7 @@ image_srcset:
 
 Garnisonkirche, a former church building located in the heart of Hannover, Germany, offers a glimpse into the architectural and cultural history of the region. This church, which once served as a significant place of worship, stands as a reflection of the city's evolution over the decades. With its unique architectural style and storied past, Garnisonkirche is not only a landmark but also a symbol of the community's resilience and adaptability.
 
-Situated in the Mitte district, Garnisonkirche is easily accessible and provides visitors with a meaningful connection to Hannover's heritage. While the church is no longer in use for its original purpose, it continues to attract those interested in the rich narrative of the area. The structure's historical significance and architectural features promise an engaging visit for anyone exploring Hannover’s cultural landscape.
+Situated in the Mitte district, Garnisonkirche is easily accessible and provides visitors with a meaningful connection to Hannover's heritage. While the church is no longer in use for its original purpose, it continues to attract those interested in the rich narrative of the area. The structure's historical significance and architectural features promise an engaging visit for anyone exploring Hannover's cultural landscape.
 
 ## History and Significance
 
@@ -88,7 +88,7 @@ For those planning to visit Garnisonkirche, consider these helpful tips to enhan
 
 ## Practical Information
 
-When visiting Garnisonkirche, it’s essential to be well-prepared. Here are a few practical considerations to keep in mind:
+When visiting Garnisonkirche, it's essential to be well-prepared. Here are a few practical considerations to keep in mind:
 
 - **What to Bring**: Comfortable footwear is recommended, as you may want to explore both the church and the surrounding area. A camera can help capture the architectural details and ambiance.
 
@@ -122,4 +122,4 @@ Information on restrooms and nearby cafes can be found on the official website o
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Layers are advisable, especially during cooler months.
 
-A visit to Garnisonkirche in Hannover is an opportunity to engage with the city’s historical and architectural narrative, making it a worthwhile addition to any travel itinerary.
+A visit to Garnisonkirche in Hannover is an opportunity to engage with the city's historical and architectural narrative, making it a worthwhile addition to any travel itinerary.

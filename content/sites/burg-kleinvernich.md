@@ -50,7 +50,7 @@ The surrounding landscape also plays a vital role in the castle's architecture, 
 
 Visiting Burg Kleinvernich offers a unique opportunity to delve into the historical ambiance of a German castle. To reach the castle, travelers can utilize various modes of transportation available in the Weilerswist region. The area is accessible by car, and public transportation options may also be available, making it convenient for visitors from nearby towns or cities.
 
-As for visiting hours, guided tours, and ticket prices, it’s essential to check the official website for current information. This will ensure that visitors are well-informed about any seasonal changes or special events that may impact their experience.
+As for visiting hours, guided tours, and ticket prices, it's essential to check the official website for current information. This will ensure that visitors are well-informed about any seasonal changes or special events that may impact their experience.
 
 Expect to spend a couple of hours exploring the castle and its surroundings, allowing ample time to wander its grounds and take in the historical context. Early mornings or late afternoons may provide a quieter experience, as these times are often less crowded.
 
@@ -68,7 +68,7 @@ While visiting Burg Kleinvernich, there are several nearby attractions worth exp
 
 4. **Vogelsang IP**: Located a bit farther from Weilerswist, this site provides insights into the history of the area, including exhibitions and nature trails.
 
-5. **Municipal Museum of Weilerswist**: A local museum that can enrich your understanding of the region’s historical evolution, showcasing artifacts and narratives significant to the area.
+5. **Municipal Museum of Weilerswist**: A local museum that can enrich your understanding of the region's historical evolution, showcasing artifacts and narratives significant to the area.
 
 ## Insider Tips
 

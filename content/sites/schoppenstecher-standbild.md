@@ -72,7 +72,7 @@ While the Schoppenstecher-Standbild is a significant stop, several nearby attrac
 
 For photography enthusiasts, the Schoppenstecher-Standbild provides an excellent opportunity to capture the artistry of the statue against the backdrop of Mainz. Early mornings or late afternoons are optimal for softer lighting, allowing for stunning photographs. 
 
-To avoid crowds, consider visiting during weekdays, as weekends may attract more visitors. Engaging with the local community can also enhance your experience, so don’t hesitate to strike up conversations with residents who may share insights about the statue’s significance and the stories surrounding it.
+To avoid crowds, consider visiting during weekdays, as weekends may attract more visitors. Engaging with the local community can also enhance your experience, so don't hesitate to strike up conversations with residents who may share insights about the statue's significance and the stories surrounding it.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Pfarrkirche St. Peter und Paul, located in the charming region of Buxheim in Swabia, Germany, stands as a remarkable example of ecclesiastical architecture steeped in local heritage. This church not only serves as a place of worship but also as a cultural landmark, inviting visitors to explore its historical significance and architectural beauty. Its serene setting offers a contemplative atmosphere, making it a noteworthy stop for those interested in religious architecture, local history, or the serene landscapes of southern Germany.
 
-Buxheim, with its picturesque surroundings, provides a perfect backdrop for this church, which reflects the community's spiritual and cultural values. The Pfarrkirche St. Peter und Paul is more than just a building; it is a symbol of the local community’s faith and resilience through the ages. Visitors can anticipate an enriching experience as they delve into the church's significance and admire its unique architectural features.
+Buxheim, with its picturesque surroundings, provides a perfect backdrop for this church, which reflects the community's spiritual and cultural values. The Pfarrkirche St. Peter und Paul is more than just a building; it is a symbol of the local community's faith and resilience through the ages. Visitors can anticipate an enriching experience as they delve into the church's significance and admire its unique architectural features.
 
 ## History and Significance
 

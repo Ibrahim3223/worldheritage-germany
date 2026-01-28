@@ -52,7 +52,7 @@ Hiking trails leading to and around Zinkenkopf vary in difficulty, offering rout
 
 When planning a visit to Zinkenkopf, it is essential to consider transportation options. The mountain is accessible by car, with parking available in designated areas nearby. Public transportation options, such as buses, may also serve the region, providing an eco-friendly alternative for those wishing to explore without a vehicle. 
 
-When visiting, it's advisable to check the official website for current information regarding hours and prices, as these can vary seasonally. The typical duration for a hike to Zinkenkopf and back can range from a few hours to a full day, depending on the route chosen and the individual’s hiking experience. 
+When visiting, it's advisable to check the official website for current information regarding hours and prices, as these can vary seasonally. The typical duration for a hike to Zinkenkopf and back can range from a few hours to a full day, depending on the route chosen and the individual's hiking experience. 
 
 The best times to visit Zinkenkopf are during the spring and summer months when the weather is milder, and the mountain is adorned with blooming wildflowers. Autumn also offers a unique experience, as the foliage transforms into a tapestry of vibrant colors. Winter, while beautiful, may bring challenging conditions, so proper gear and caution are essential.
 

@@ -36,7 +36,7 @@ The Jesuitenkolleg Erfurt's history is intricately linked to the Jesuit order, w
 
 Although specific dates regarding its founding are not available, the monastery's historical significance is evident in its role as a place of refuge and intellectual growth during tumultuous times in Europe. The Jesuits were well-regarded for their educational advancements, and their influence extended well beyond the walls of the monastery, impacting the broader religious and cultural landscape of Germany. 
 
-The Jesuitenkolleg also played a role in the local community, contributing to the social and spiritual fabric of Erfurt. With its emphasis on education and moral development, the monastery became a respected institution, fostering a sense of stability during periods of unrest. Today, it stands as a monument to the Jesuits’ enduring legacy in the region and serves as a vital part of Erfurt’s cultural identity.
+The Jesuitenkolleg also played a role in the local community, contributing to the social and spiritual fabric of Erfurt. With its emphasis on education and moral development, the monastery became a respected institution, fostering a sense of stability during periods of unrest. Today, it stands as a monument to the Jesuits' enduring legacy in the region and serves as a vital part of Erfurt's cultural identity.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ The tranquility of the monastery grounds is enhanced by well-kept gardens, which
 
 Reaching Jesuitenkolleg Erfurt is straightforward, given its central location in the city. Public transportation options, including buses and trams, make it easily accessible for those traveling from various parts of the region. Visitors can check the official website for current information regarding hours of operation and ticket prices.
 
-When planning a visit, expect to dedicate a few hours to fully appreciate the site’s offerings. The atmosphere of the monastery encourages a leisurely exploration, allowing time for thoughtful reflection in its serene spaces. 
+When planning a visit, expect to dedicate a few hours to fully appreciate the site's offerings. The atmosphere of the monastery encourages a leisurely exploration, allowing time for thoughtful reflection in its serene spaces. 
 
 The best times to visit are typically during the spring and early autumn months when the weather is pleasant and conducive to outdoor exploration. This time also allows visitors to enjoy the gardens in full bloom, adding to the overall experience.
 
@@ -62,7 +62,7 @@ The best times to visit are typically during the spring and early autumn months 
 
 3. **Augustinerkloster**: Another significant religious site in Erfurt, this former Augustinian monastery is where Martin Luther lived and studied, making it an important destination for those interested in Reformation history.
 
-4. **Angermuseum**: Located in the heart of Erfurt, this museum showcases a diverse collection of art and cultural artifacts, enhancing the understanding of the region’s artistic heritage.
+4. **Angermuseum**: Located in the heart of Erfurt, this museum showcases a diverse collection of art and cultural artifacts, enhancing the understanding of the region's artistic heritage.
 
 5. **Egapark Erfurt**: A beautifully landscaped park that features gardens, greenhouses, and recreational areas, perfect for a relaxing afternoon in nature.
 

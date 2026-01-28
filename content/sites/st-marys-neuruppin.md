@@ -28,7 +28,7 @@ image_srcset:
 
 St. Mary's Neuruppin is a remarkable church building located in the historic town of Neuruppin, Germany. This structure stands out not only for its architectural design but also for its role in the cultural and spiritual life of the community. With its origins deeply intertwined with the development of Neuruppin, St. Mary's offers visitors a unique glimpse into the region's history and religious traditions.
 
-The church is located at coordinates 52.9262, 12.8082, making it an accessible site for both local and international travelers. Its significance extends beyond mere aesthetics, as it serves as a focal point for community events and religious ceremonies, underpinning its importance in the town’s social fabric. As you explore St. Mary's, you will not only appreciate its architectural beauty but also grasp its role in the cultural narrative of Neuruppin.
+The church is located at coordinates 52.9262, 12.8082, making it an accessible site for both local and international travelers. Its significance extends beyond mere aesthetics, as it serves as a focal point for community events and religious ceremonies, underpinning its importance in the town's social fabric. As you explore St. Mary's, you will not only appreciate its architectural beauty but also grasp its role in the cultural narrative of Neuruppin.
 
 A visit to St. Mary's Neuruppin promises an enriching experience, combining elements of history, architecture, and community spirit. Whether you are a history enthusiast, an architecture lover, or simply seeking a peaceful place for reflection, this church building invites you to delve into its storied past and vibrant present.
 
@@ -44,9 +44,9 @@ As you explore St. Mary's, you will find that its historical relevance extends b
 
 The architecture of St. Mary's Neuruppin reflects a blend of styles that have evolved over the years. While specific architectural details may not be available, the church's design showcases elements typical of ecclesiastical structures in the region. Visitors can expect to encounter features that highlight the building's historical context and the craftsmanship of its builders.
 
-St. Mary's likely includes notable aspects such as intricate stained glass windows, which tell stories of faith and community, as well as a striking altar that serves as the focal point of worship. The building’s interior may also be adorned with religious iconography, contributing to its spiritual atmosphere.
+St. Mary's likely includes notable aspects such as intricate stained glass windows, which tell stories of faith and community, as well as a striking altar that serves as the focal point of worship. The building's interior may also be adorned with religious iconography, contributing to its spiritual atmosphere.
 
-The exterior of the church is equally captivating, with its façade offering insights into the architectural trends of its time. As you approach St. Mary’s, you will be struck by its presence in the town's landscape, serving as a reminder of the importance of faith and community throughout Neuruppin's history.
+The exterior of the church is equally captivating, with its façade offering insights into the architectural trends of its time. As you approach St. Mary's, you will be struck by its presence in the town's landscape, serving as a reminder of the importance of faith and community throughout Neuruppin's history.
 
 ## Visiting Information
 
@@ -78,7 +78,7 @@ To avoid larger crowds, try to visit during weekdays rather than weekends, espec
 
 ## Practical Information
 
-When preparing for your visit to St. Mary's Neuruppin, it’s advisable to wear comfortable shoes, as you may want to explore the surrounding area as well. Depending on the season, consider bringing layers, as temperatures can vary, particularly in the cooler months.
+When preparing for your visit to St. Mary's Neuruppin, it's advisable to wear comfortable shoes, as you may want to explore the surrounding area as well. Depending on the season, consider bringing layers, as temperatures can vary, particularly in the cooler months.
 
 In terms of accessibility, check the official website for details regarding facilities and accommodations for visitors with mobility challenges. Being prepared will help ensure that your visit is enjoyable and fulfilling.
 

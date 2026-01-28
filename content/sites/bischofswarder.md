@@ -40,7 +40,7 @@ Ecologically, Bischofswarder plays a vital role in supporting biodiversity. The 
 
 ## Architecture and Features
 
-Bischofswarder’s physical attributes reflect the natural landscape rather than constructed architecture. The island is characterized by its coastal features, including sandy shores and grassy dunes that are typical of the region. The simplicity of the island's environment allows visitors to appreciate the raw beauty of nature without the distractions of urban architecture.
+Bischofswarder's physical attributes reflect the natural landscape rather than constructed architecture. The island is characterized by its coastal features, including sandy shores and grassy dunes that are typical of the region. The simplicity of the island's environment allows visitors to appreciate the raw beauty of nature without the distractions of urban architecture.
 
 The natural features of Bischofswarder provide a serene setting for outdoor activities. Walking paths may wind through the landscape, allowing for exploration of the island's diverse ecosystems. The surrounding waters are also integral to the island's identity, offering opportunities for boating, fishing, and observing marine life. 
 

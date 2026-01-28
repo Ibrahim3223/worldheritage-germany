@@ -28,7 +28,7 @@ As you navigate through its displays, expect to encounter a variety of artifacts
 
 ## History and Significance
 
-The history of psychiatry is deeply intertwined with societal attitudes towards mental health. The Psychiatriemuseum im ZfP Reichenau serves as a crucial reminder of how these attitudes have shifted over time. The museum’s collections include various artifacts that chronicle significant developments in psychiatric care, from early therapeutic practices to contemporary approaches that emphasize compassion and understanding.
+The history of psychiatry is deeply intertwined with societal attitudes towards mental health. The Psychiatriemuseum im ZfP Reichenau serves as a crucial reminder of how these attitudes have shifted over time. The museum's collections include various artifacts that chronicle significant developments in psychiatric care, from early therapeutic practices to contemporary approaches that emphasize compassion and understanding.
 
 The establishment of the ZfP Reichenau, the institution housing the museum, represents a pivotal moment in the evolution of mental health treatment in Germany. While specific founding dates and historical milestones may not be readily available, the museum highlights the cultural significance of psychiatric care in shaping public perceptions and policies surrounding mental health issues. Visitors will gain insight into the historical context of mental health practices, the struggles faced by individuals with mental health conditions, and the societal changes that have influenced treatment modalities.
 

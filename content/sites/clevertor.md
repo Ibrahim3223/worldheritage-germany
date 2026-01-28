@@ -36,13 +36,13 @@ Clevertor has historically served as one of the gates through which people enter
 
 The gate has seen the evolution of Hanover from a small settlement into a significant urban center. Its presence has not only provided physical protection but has also played a role in the cultural and social dynamics of the city. As cities expanded and modernized, many such gates were demolished, but Clevertor remains as a testament to the city's historical fortifications. Understanding the role of Clevertor offers visitors insights into the development of urban centers in Germany and the importance of preserving historical structures.
 
-As you explore Clevertor, you will appreciate its significance as part of the larger narrative of Hannover’s growth and transformation over centuries. It serves as a focal point for discussions about urban development, heritage conservation, and the cultural identity of the city.
+As you explore Clevertor, you will appreciate its significance as part of the larger narrative of Hannover's growth and transformation over centuries. It serves as a focal point for discussions about urban development, heritage conservation, and the cultural identity of the city.
 
 ## Architecture and Features
 
 Clevertor exhibits architectural features typical of city gates from its time, showcasing elements that reflect the prevailing styles of construction. The gate's robust structure was designed not only for functionality but also to convey a sense of authority and security. Visitors can admire the intricate stonework and possibly some remnants of defensive mechanisms that once protected the city.
 
-The design of Clevertor may include a combination of arches and towers, providing both aesthetic appeal and practical use. Such gates were often adorned with sculptures or reliefs depicting historical events, figures, or symbols relevant to the city’s identity. While specific details about Clevertor's artistic features are not elaborated upon, one can expect that any decorative elements would contribute to its character and historical narrative.
+The design of Clevertor may include a combination of arches and towers, providing both aesthetic appeal and practical use. Such gates were often adorned with sculptures or reliefs depicting historical events, figures, or symbols relevant to the city's identity. While specific details about Clevertor's artistic features are not elaborated upon, one can expect that any decorative elements would contribute to its character and historical narrative.
 
 When visiting Clevertor, observe the surrounding environment as it integrates the old with the new. The gate stands as a historical marker amid contemporary developments, inviting reflection on how urban spaces evolve while retaining their heritage. Its architectural integrity remains a point of interest for both architectural enthusiasts and casual visitors alike.
 

@@ -48,7 +48,7 @@ Visitors to the Rathaus can appreciate not just its exterior but also the atmosp
 
 ## Visiting Information
 
-When planning your visit to Rathaus Gengenbach, it’s essential to consider transportation options and accessibility. Gengenbach is well-connected by public transport, with train and bus services making it easy to reach from major cities in the region. Visitors can explore the town on foot, as the Rathaus is centrally located, allowing for a leisurely stroll through the charming streets.
+When planning your visit to Rathaus Gengenbach, it's essential to consider transportation options and accessibility. Gengenbach is well-connected by public transport, with train and bus services making it easy to reach from major cities in the region. Visitors can explore the town on foot, as the Rathaus is centrally located, allowing for a leisurely stroll through the charming streets.
 
 To make the most of your visit, check the official website for current information regarding opening hours and any potential entry fees. Expect to spend around an hour at the Rathaus, allowing time to appreciate the architecture and take photos. If you have a keen interest in local governance or history, you might want to plan for a longer visit.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When visiting Rathaus Gengenbach, it’s advisable to bring a camera for capturing the beautiful architecture and scenic views. Comfortable walking shoes are recommended, as you may want to explore the adjoining streets and nearby attractions.
+When visiting Rathaus Gengenbach, it's advisable to bring a camera for capturing the beautiful architecture and scenic views. Comfortable walking shoes are recommended, as you may want to explore the adjoining streets and nearby attractions.
 
 Seasonal considerations are essential when planning your visit. Spring and summer typically offer the best weather, while autumn may provide a beautiful backdrop with changing leaves. Winter can be cold, but it also brings a unique charm to the town, especially during the holiday season.
 

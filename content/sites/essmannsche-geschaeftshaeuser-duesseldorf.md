@@ -28,7 +28,7 @@ image_srcset:
 
 Düsseldorf, a vibrant and culturally rich city along the banks of the Rhine River, is renowned for its blend of contemporary art, fashion, and historical architecture. Among its architectural treasures, the Essmannsche Geschäftshäuser stands out as an important ensemble of residential and commercial buildings that reflect the city's evolution. This architectural ensemble is not merely a collection of structures; it represents a significant chapter in Düsseldorf's urban development, illustrating the interplay of commerce and living spaces throughout the years. Visitors to this site will find themselves immersed in an architectural narrative that speaks to both the past and the present, offering a unique glimpse into the city's heritage.
 
-As you explore the Essmannsche Geschäftshäuser, you will encounter a fusion of styles that showcases the architectural trends that have shaped Düsseldorf over time. The ensemble is emblematic of the city’s commitment to preserving its architectural identity while embracing modernity. This guide will provide you with an in-depth understanding of the Essmannsche Geschäftshäuser, its historical significance, architectural features, and practical information to enhance your visit.
+As you explore the Essmannsche Geschäftshäuser, you will encounter a fusion of styles that showcases the architectural trends that have shaped Düsseldorf over time. The ensemble is emblematic of the city's commitment to preserving its architectural identity while embracing modernity. This guide will provide you with an in-depth understanding of the Essmannsche Geschäftshäuser, its historical significance, architectural features, and practical information to enhance your visit.
 
 ## History and Significance
 

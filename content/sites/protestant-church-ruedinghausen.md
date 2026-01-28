@@ -32,7 +32,7 @@ As you approach the Protestant church Rüdinghausen, you will find it to be a fo
 
 ## History and Significance
 
-The Protestant church Rüdinghausen has been an integral part of the Witten community, serving as a spiritual hub and a place of gathering for many generations. While specific founding dates and detailed historical milestones are not available, the church’s establishment reflects the broader Protestant Reformation and its impact on German society. The Reformation brought significant shifts in religious practices and community engagement, and churches like Rüdinghausen became pivotal in shaping local identities.
+The Protestant church Rüdinghausen has been an integral part of the Witten community, serving as a spiritual hub and a place of gathering for many generations. While specific founding dates and detailed historical milestones are not available, the church's establishment reflects the broader Protestant Reformation and its impact on German society. The Reformation brought significant shifts in religious practices and community engagement, and churches like Rüdinghausen became pivotal in shaping local identities.
 
 Understanding the significance of the Protestant church in Witten also involves recognizing its role in the cultural and social dynamics of the region. Protestant churches often served as centers for education, community service, and support during times of crisis. Over time, the church has likely adapted to the needs of its congregation, engaging in various social initiatives and outreach programs that resonate with the community's values.
 
@@ -40,7 +40,7 @@ The church is not just a place for worship but also a venue for community events
 
 ## Architecture and Features
 
-The architectural style of the Protestant church Rüdinghausen is representative of the traditional church buildings found within the region. While specific architectural details such as the church’s dimensions or design elements are not provided, one can expect to find features typical of Protestant churches in Germany. These may include a simple yet elegant facade, stained glass windows that tell biblical stories, and a spacious interior designed to accommodate congregational gatherings.
+The architectural style of the Protestant church Rüdinghausen is representative of the traditional church buildings found within the region. While specific architectural details such as the church's dimensions or design elements are not provided, one can expect to find features typical of Protestant churches in Germany. These may include a simple yet elegant facade, stained glass windows that tell biblical stories, and a spacious interior designed to accommodate congregational gatherings.
 
 Inside, the church likely features wooden pews that create a welcoming atmosphere, as well as a pulpit that serves as a focal point during services. The altar area, central to worship, may be adorned with religious symbols and art that reflect the Protestant faith. The design is typically functional, emphasizing the congregation's communal experience over ornate embellishments.
 
@@ -97,7 +97,7 @@ Information on guided tours is not specified, so check the official website or i
 The best time to visit is during service hours or community events for a more immersive experience. Weekdays may also provide a quieter atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided, so it’s advisable to check the official website or contact the church directly for details.
+Accessibility information is not provided, so it's advisable to check the official website or contact the church directly for details.
 
 ### Can I buy tickets online?
 Information regarding online ticket purchases is not available, so it's best to check the official website for current policies.

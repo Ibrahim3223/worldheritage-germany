@@ -78,7 +78,7 @@ To avoid crowds, particularly during peak tourist seasons, try to visit on weekd
 
 ## Practical Information
 
-When planning your visit to Kreuzeck, it’s advisable to bring appropriate gear, including sturdy hiking boots, weather-appropriate clothing, and plenty of water. If you’re venturing during the winter months, ensure you have warm clothing and equipment for snow sports.
+When planning your visit to Kreuzeck, it's advisable to bring appropriate gear, including sturdy hiking boots, weather-appropriate clothing, and plenty of water. If you're venturing during the winter months, ensure you have warm clothing and equipment for snow sports.
 
 Seasonal considerations are important; in the summer, be prepared for changing weather, and in winter, check for snow conditions. Always consult the official website for any specific requirements or recommendations for your visit.
 

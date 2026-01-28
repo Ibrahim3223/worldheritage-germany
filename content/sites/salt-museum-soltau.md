@@ -28,7 +28,7 @@ image_srcset:
 
 The Salt Museum Soltau in Germany serves as a fascinating exploration of the region's salt production history and its cultural impact. Located in the charming town of Soltau, this museum offers visitors a unique opportunity to delve into the significance of salt in daily life, trade, and industry over the centuries. As you enter, you are greeted by an array of exhibits that detail the salt extraction process, the economic implications of the salt trade, and the various uses of salt in different cultures. 
 
-The museum’s mission is to preserve and share the legacy of salt production, which has played a crucial role in the development of the local economy and community. Visitors can expect to engage with interactive displays, artifacts, and informative panels that illuminate the various dimensions of salt's importance throughout history. The Salt Museum Soltau promises an educational and enriching experience for families, history enthusiasts, and anyone intrigued by the connections between natural resources and human civilization.
+The museum's mission is to preserve and share the legacy of salt production, which has played a crucial role in the development of the local economy and community. Visitors can expect to engage with interactive displays, artifacts, and informative panels that illuminate the various dimensions of salt's importance throughout history. The Salt Museum Soltau promises an educational and enriching experience for families, history enthusiasts, and anyone intrigued by the connections between natural resources and human civilization.
 
 ## History and Significance
 

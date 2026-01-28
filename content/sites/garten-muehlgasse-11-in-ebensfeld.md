@@ -74,7 +74,7 @@ While exploring Ebensfeld and the surrounding area, consider visiting these near
 
 For those looking to capture the essence of Garten Mühlgasse 11 through photography, consider visiting during the golden hours of morning or evening light, which can accentuate the garden's natural beauty. Keep an eye out for seasonal blooms and varying foliage to add diversity to your shots.
 
-To avoid crowds, plan your visit on weekdays or during off-peak hours. This will enhance your experience, allowing you to enjoy the garden’s tranquility more fully. 
+To avoid crowds, plan your visit on weekdays or during off-peak hours. This will enhance your experience, allowing you to enjoy the garden's tranquility more fully. 
 
 If you plan to spend an extended time in the garden, consider bringing a book or a sketchpad to immerse yourself in the peaceful environment, making the most of your visit.
 

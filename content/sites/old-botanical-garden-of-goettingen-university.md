@@ -113,7 +113,7 @@ The garden is designed to be accessible, but check the official website for spec
 For the latest information on ticket purchasing, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to confirm details on the official website.
+Facilities may be available, but it's best to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably and consider the weather, as you will be exploring the outdoors.

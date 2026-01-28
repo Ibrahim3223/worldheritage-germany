@@ -44,7 +44,7 @@ The architectural design of the Studienkirche Mariä Himmelfahrt is emblematic o
 
 Upon entering, visitors are greeted by an interior that reflects a reverence for the divine. The layout typically includes a nave flanked by side aisles, with a prominent altar that serves as the focal point of worship. Decorative elements such as stained glass windows, which may depict scenes from biblical narratives, contribute to the overall ambiance of tranquility and inspiration. The interplay of light through these windows creates a dynamic atmosphere within the church, enhancing the experience for all who enter.
 
-Noteworthy architectural features may include intricate carvings, frescoes, and the use of local materials that highlight the region's artisanal heritage. The church’s structure is designed not only for functionality but also to inspire a sense of awe and contemplation among its visitors. The thoughtful integration of artistic details into the design serves to elevate the spiritual experience, making the Studienkirche a significant example of ecclesiastical architecture in Germany.
+Noteworthy architectural features may include intricate carvings, frescoes, and the use of local materials that highlight the region's artisanal heritage. The church's structure is designed not only for functionality but also to inspire a sense of awe and contemplation among its visitors. The thoughtful integration of artistic details into the design serves to elevate the spiritual experience, making the Studienkirche a significant example of ecclesiastical architecture in Germany.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting the Studienkirche Mariä Himmelfahrt is a rewarding experience for anyo
 
 The church typically welcomes visitors throughout the week, providing ample opportunities for exploration and reflection. Expect to spend at least an hour to fully appreciate the architecture, artwork, and the peaceful atmosphere. Guided tours may be available, offering deeper insights into the church's history and significance. 
 
-For those planning a visit, consider going during weekdays when the church may be less crowded, allowing for a more intimate experience. The best times to visit might be during special services or events, which can enhance your understanding of the church’s role in the community.
+For those planning a visit, consider going during weekdays when the church may be less crowded, allowing for a more intimate experience. The best times to visit might be during special services or events, which can enhance your understanding of the church's role in the community.
 
 Transportation to the Studienkirche is generally straightforward, with various options available. Local public transport services may connect you to Dillingen an der Donau, and parking facilities are often accessible for those traveling by car.
 
@@ -60,7 +60,7 @@ Transportation to the Studienkirche is generally straightforward, with various o
 
 While visiting the Studienkirche Mariä Himmelfahrt, take the opportunity to explore other notable sites in Dillingen an der Donau:
 
-1. **Stadtmuseum Dillingen** - A museum that showcases the town’s history and culture, providing context to the heritage of the area.
+1. **Stadtmuseum Dillingen** - A museum that showcases the town's history and culture, providing context to the heritage of the area.
 2. **Dillingen Castle** - A historical landmark that reflects the town's medieval past and offers scenic views of the surrounding landscape.
 3. **The River Donau** - A picturesque area for leisurely walks or cycling, enhancing your experience of the natural beauty of the region.
 4. **Local Cafés and Shops** - Explore the vibrant local market scene and enjoy regional delicacies.
@@ -85,7 +85,7 @@ Seasonal considerations should also be taken into account; summer months may off
 A visit typically lasts about an hour, but you may wish to stay longer if you enjoy exploring the art and architecture in greater detail.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for current offerings and schedules.

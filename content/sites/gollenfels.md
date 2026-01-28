@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gollenfels Castle is a striking historical landmark situated in the picturesque Dörrebach region of Germany. This castle, with its formidable structure and intriguing past, captures the imagination of visitors who venture into its surroundings. The castle is not only an architectural marvel but also an important cultural site that reflects the historical tapestry of the region. The majestic edifice offers insights into the medieval era’s defensive architecture while serving as a symbol of local heritage.
+Gollenfels Castle is a striking historical landmark situated in the picturesque Dörrebach region of Germany. This castle, with its formidable structure and intriguing past, captures the imagination of visitors who venture into its surroundings. The castle is not only an architectural marvel but also an important cultural site that reflects the historical tapestry of the region. The majestic edifice offers insights into the medieval era's defensive architecture while serving as a symbol of local heritage.
 
 The castle's strategic location has made it significant through various historical periods, and it continues to attract those interested in architecture, history, and the cultural narrative of Germany. As you explore Gollenfels, you will discover the stories embedded in its stones, inviting you to connect with the past in a meaningful way. 
 

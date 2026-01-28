@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview 
 
-Mühlstraße 5 in Großröhrsdorf is a significant cultural heritage monument, serving as a museum that encapsulates the essence of local history and tradition. Located in Saxony, Germany, this museum stands as an important site for those looking to understand the region’s cultural heritage. The structure reflects the architectural styles that have evolved over the centuries, making it not just a repository of artifacts but also a canvas showcasing the evolution of local craftsmanship and design.
+Mühlstraße 5 in Großröhrsdorf is a significant cultural heritage monument, serving as a museum that encapsulates the essence of local history and tradition. Located in Saxony, Germany, this museum stands as an important site for those looking to understand the region's cultural heritage. The structure reflects the architectural styles that have evolved over the centuries, making it not just a repository of artifacts but also a canvas showcasing the evolution of local craftsmanship and design.
 
 As visitors approach this site, they are greeted with a sense of the past intermingling with the present. Situated at coordinates 51.14608, 14.02453, Mühlstraße 5 is easily accessible, inviting both locals and travelers to explore its offerings. This museum is more than just walls filled with exhibits; it offers insights into the cultural narratives that have shaped the community of Großröhrsdorf. Visitors can expect a journey through the local heritage, making it a must-visit for those interested in cultural exploration.
 
@@ -90,7 +90,7 @@ When preparing for your visit to Mühlstraße 5, consider the following practica
 A visit typically lasts between one to two hours, allowing time to explore the exhibits and engage with the content.
 
 ### Is photography allowed? 
-Photography policies may vary, so it’s best to check the museum's guidelines upon arrival.
+Photography policies may vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours? 
 Information about guided tours can be found on the official website; it may vary based on the time of year.

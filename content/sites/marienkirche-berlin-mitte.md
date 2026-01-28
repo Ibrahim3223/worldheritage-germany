@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Marienkirche, located in the heart of Berlin-Mitte, serves as both an architectural wonder and a significant cultural landmark. This church, dating back to the medieval period, is one of the oldest in Berlin, telling stories of the city’s evolution through centuries of tumult and transformation. Its central location makes it an easily accessible point of interest for anyone exploring the vibrant landscape of Berlin. Surrounded by modern architecture, Marienkirche stands as a reminder of the city’s rich ecclesiastical heritage, drawing visitors eager to connect with its past.
+Marienkirche, located in the heart of Berlin-Mitte, serves as both an architectural wonder and a significant cultural landmark. This church, dating back to the medieval period, is one of the oldest in Berlin, telling stories of the city's evolution through centuries of tumult and transformation. Its central location makes it an easily accessible point of interest for anyone exploring the vibrant landscape of Berlin. Surrounded by modern architecture, Marienkirche stands as a reminder of the city's rich ecclesiastical heritage, drawing visitors eager to connect with its past.
 
 As you approach the church, you will find its striking façade and towering steeple rising above the bustling streets, inviting travelers to step inside and discover the tranquility and history housed within its walls. Whether you are a history enthusiast, architecture lover, or simply seeking a peaceful retreat from the city's hustle and bustle, Marienkirche offers a unique glimpse into Berlin's spiritual and cultural narrative.
 

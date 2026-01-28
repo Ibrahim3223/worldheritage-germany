@@ -116,4 +116,4 @@ Nearby amenities may include restrooms and cafes; check local resources for spec
 ### What should I wear?
 Dress comfortably and consider the weather, as conditions can change.
 
-In summary, the Ernst-Leuschner-Denkmal offers a compelling glimpse into the historical significance of Lutherstadt Eisleben, capturing the essence of an influential figure and the cultural landscape of the region. Whether you are a history enthusiast or simply seeking a moment of reflection, this monument is a meaningful stop on your journey through Germany’s rich heritage.
+In summary, the Ernst-Leuschner-Denkmal offers a compelling glimpse into the historical significance of Lutherstadt Eisleben, capturing the essence of an influential figure and the cultural landscape of the region. Whether you are a history enthusiast or simply seeking a moment of reflection, this monument is a meaningful stop on your journey through Germany's rich heritage.

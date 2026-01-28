@@ -50,7 +50,7 @@ The museum is designed to be both informative and engaging, with interactive dis
 
 Reaching Erbs Brickworks is convenient, with various transportation options available. Visitors can check the official website for current information on public transport routes, parking facilities, and accessibility features. 
 
-When planning a visit, it’s advisable to check the official website for hours and pricing details. The museum typically offers a range of exhibits and activities that cater to diverse interests, making it suitable for families, students, and history buffs alike. A visit generally requires a few hours to fully appreciate the exhibits and participate in demonstrations.
+When planning a visit, it's advisable to check the official website for hours and pricing details. The museum typically offers a range of exhibits and activities that cater to diverse interests, making it suitable for families, students, and history buffs alike. A visit generally requires a few hours to fully appreciate the exhibits and participate in demonstrations.
 
 The best times to visit are during the spring and early autumn months when the weather is mild, allowing for a comfortable exploration of the outdoor exhibits and surroundings. Special events or workshops may also be scheduled during these periods, providing additional opportunities for engagement.
 
@@ -59,7 +59,7 @@ The best times to visit are during the spring and early autumn months when the w
 After visiting Erbs Brickworks, consider exploring these nearby attractions:
 
 1. **Pegau Town Center**: A charming area with local shops and cafes, perfect for a leisurely stroll.
-2. **St. John’s Church**: A historic church known for its striking architecture and serene atmosphere.
+2. **St. John's Church**: A historic church known for its striking architecture and serene atmosphere.
 3. **Museum of Local History**: Offers a deeper look into the cultural heritage of Pegau and its surroundings.
 4. **Nature Reserves**: Explore the natural beauty of the region, with opportunities for hiking and birdwatching.
 5. **Leipzig**: A short drive away, this vibrant city is known for its rich arts scene and historical landmarks.
@@ -87,7 +87,7 @@ Guided tours may be available; check the official website for current offerings 
 Spring and early autumn are ideal times to visit for pleasant weather and potential special events.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for specific details.
+Accessibility features may be available, but it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; please refer to the official website for the latest information on ticket availability.

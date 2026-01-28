@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Friedensfahrt-Denkmal, located in Leipzig, Germany, is a poignant memorial that commemorates a significant historical event in the realm of peace and solidarity. This monument serves as a physical representation of the values of cooperation and mutual understanding that have shaped the region’s history. As you wander through Leipzig, a city known for its rich cultural heritage and vibrant history, the Friedensfahrt-Denkmal stands out as a reminder of the pursuit for peace and the collective efforts toward achieving it.
+The Friedensfahrt-Denkmal, located in Leipzig, Germany, is a poignant memorial that commemorates a significant historical event in the realm of peace and solidarity. This monument serves as a physical representation of the values of cooperation and mutual understanding that have shaped the region's history. As you wander through Leipzig, a city known for its rich cultural heritage and vibrant history, the Friedensfahrt-Denkmal stands out as a reminder of the pursuit for peace and the collective efforts toward achieving it.
 
 Leipzig itself is a city steeped in tradition, known for its influential role in various sociopolitical movements throughout history. The Friedensfahrt-Denkmal contributes to this narrative by honoring the ideals of unity and reconciliation. Visitors to this site can expect not only to engage with its physical presence but to reflect on the broader implications of its message in the context of contemporary society.
 

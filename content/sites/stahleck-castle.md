@@ -74,7 +74,7 @@ To avoid larger crowds, plan your visit on weekdays rather than weekends, as the
 
 ## Practical Information
 
-When planning your visit to Stahleck Castle, it’s wise to wear comfortable footwear, as the path leading to the castle can be steep and uneven in places. Bringing a water bottle is also advisable, particularly during warmer months, to stay hydrated while exploring.
+When planning your visit to Stahleck Castle, it's wise to wear comfortable footwear, as the path leading to the castle can be steep and uneven in places. Bringing a water bottle is also advisable, particularly during warmer months, to stay hydrated while exploring.
 
 Seasonal considerations should also be taken into account. If visiting during the colder months, ensure you dress warmly, as the elevation can result in cooler temperatures. Conversely, during summer, lightweight clothing and sun protection are recommended, as the sun can be strong while hiking.
 

@@ -64,7 +64,7 @@ Visitors can expect a variety of experiences at the castle, from self-guided tou
 
 3. **Mainau Island**: Known for its gardens and beautiful landscapes, Mainau Island is accessible by boat and offers a delightful escape into nature.
 
-4. **Meersburg Castle**: Just a short drive away, Meersburg Castle is another historical site that provides insights into the region’s medieval past.
+4. **Meersburg Castle**: Just a short drive away, Meersburg Castle is another historical site that provides insights into the region's medieval past.
 
 5. **Pfahlbauten Unteruhldingen**: This archaeological open-air museum showcases reconstructed stilt houses from the Stone Age, offering a glimpse into ancient life on the lake.
 

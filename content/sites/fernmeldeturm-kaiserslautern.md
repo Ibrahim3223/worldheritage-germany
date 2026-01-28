@@ -44,7 +44,7 @@ The Fernmeldeturm Kaiserslautern is a notable example of modern architectural de
 
 Visually, the tower is likely to have a streamlined silhouette, rising prominently against the skyline of Kaiserslautern. Its height would facilitate its primary purpose—enhancing communication signals across the region. The design may incorporate materials that reflect contemporary architectural trends, emphasizing both durability and efficiency.
 
-While the physical features of the tower are essential, its significance lies in its operational capabilities. As a telecommunications facility, the Fernmeldeturm is equipped to handle a variety of communication technologies, supporting mobile networks and broadcasting services. This duality of form and function is what makes the tower an integral part of Kaiserslautern’s infrastructure.
+While the physical features of the tower are essential, its significance lies in its operational capabilities. As a telecommunications facility, the Fernmeldeturm is equipped to handle a variety of communication technologies, supporting mobile networks and broadcasting services. This duality of form and function is what makes the tower an integral part of Kaiserslautern's infrastructure.
 
 ## Visiting Information
 
@@ -99,7 +99,7 @@ For specific accessibility information, check the official website to ensure all
 Details about ticket purchasing options can be found on the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to check the official website for specific amenities.
+Facilities may be available nearby, but it's advisable to check the official website for specific amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to spend time outdoors.

@@ -68,7 +68,7 @@ When visiting the Deutsches Theater Göttingen, there are several attractions ne
 
 3. **Botanical Garden of the University of Göttingen**: A peaceful retreat filled with diverse plant species, this garden is perfect for a leisurely stroll or a moment of reflection.
 
-4. **Alte Aula**: The old auditorium of the University of Göttingen, featuring beautiful architecture and a rich academic history, is worth exploring for those interested in the city’s scholarly heritage.
+4. **Alte Aula**: The old auditorium of the University of Göttingen, featuring beautiful architecture and a rich academic history, is worth exploring for those interested in the city's scholarly heritage.
 
 5. **Bismarck Tower**: Located a bit further out, this lookout tower provides scenic views of the surrounding countryside and is a great spot for a hike.
 
@@ -90,7 +90,7 @@ When planning your visit to the Deutsches Theater Göttingen, keep the following
 
 - **What to Bring**: Consider bringing a light jacket or sweater, as theatre interiors can sometimes be cool. Additionally, having a small bag for personal items can be handy.
 
-- **Seasonal Considerations**: The theatre may have different programming based on the season, so it’s wise to check the schedule and plan accordingly. 
+- **Seasonal Considerations**: The theatre may have different programming based on the season, so it's wise to check the schedule and plan accordingly. 
 
 - **Accessibility**: If you have specific accessibility needs, it is advisable to check with the theatre in advance to ensure a comfortable experience.
 

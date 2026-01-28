@@ -61,7 +61,7 @@ Rottenburg am Neckar is home to several attractions that complement a visit to t
 1. **Rottenburg Cathedral**: This remarkable Gothic cathedral, known for its stunning architecture and historical significance, is a must-see for visitors.
 2. **Hohenzollern Castle**: A short drive away, this picturesque castle offers breathtaking views and a glimpse into Bavaria's regal past.
 3. **Neckar River Promenade**: Ideal for a leisurely stroll, the promenade along the Neckar River features scenic views and is perfect for relaxation.
-4. **Historical Town Center**: Explore the charming streets filled with traditional buildings, shops, and cafes, reflecting the town’s rich heritage.
+4. **Historical Town Center**: Explore the charming streets filled with traditional buildings, shops, and cafes, reflecting the town's rich heritage.
 5. **Museum of the City of Rottenburg**: This museum showcases local history and culture, providing context to the region's development over the centuries.
 
 ## Insider Tips

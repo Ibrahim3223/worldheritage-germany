@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Maria-Hilf is a distinguished church building located in Frankfurt, Germany, known for its architectural elegance and significant cultural presence. This church serves not only as a site of worship but also as a landmark that reflects the spiritual and historical facets of the region. Situated at coordinates 50.1028, 8.62708, Maria-Hilf stands as a focal point for both the local community and visitors seeking to explore the religious heritage of Frankfurt. As you approach, the church’s presence commands attention, inviting reflection and reverence.
+Maria-Hilf is a distinguished church building located in Frankfurt, Germany, known for its architectural elegance and significant cultural presence. This church serves not only as a site of worship but also as a landmark that reflects the spiritual and historical facets of the region. Situated at coordinates 50.1028, 8.62708, Maria-Hilf stands as a focal point for both the local community and visitors seeking to explore the religious heritage of Frankfurt. As you approach, the church's presence commands attention, inviting reflection and reverence.
 
 Frankfurt, a city that blends modernity with historical depth, provides a fitting backdrop for Maria-Hilf. Its location within the urban landscape offers a unique juxtaposition of contemporary life and historical significance. The church embodies not just architectural beauty but also the enduring values and traditions that have shaped the community over the years. For those interested in religious architecture or the cultural history of Germany, a visit to Maria-Hilf promises an enriching experience.
 
@@ -60,7 +60,7 @@ Be prepared for a respectful visit; consider dressing appropriately for a place 
 
 If you find yourself near Maria-Hilf, several nearby attractions can enrich your visit to Frankfurt:
 
-1. **Frankfurt Cathedral (Kaiserdom)** - A stunning Gothic cathedral that is a short distance away and offers insight into the city’s religious architecture.
+1. **Frankfurt Cathedral (Kaiserdom)** - A stunning Gothic cathedral that is a short distance away and offers insight into the city's religious architecture.
   
 2. **Städel Museum** - Renowned for its impressive art collection, this museum showcases works from the Middle Ages to contemporary art, appealing to culture enthusiasts.
 
@@ -101,7 +101,7 @@ Check the official website for information regarding guided tours that may be av
 Weekdays, especially early mornings or late afternoons, tend to be less crowded and provide a more tranquil atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s best to consult the official website for details on wheelchair access.
+Accessibility information may vary; it's best to consult the official website for details on wheelchair access.
 
 ### Can I buy tickets online?
 For any admission fees or ticketing information, please check the official website for current details.

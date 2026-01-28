@@ -101,7 +101,7 @@ Specific details about guided tours at Hygieia-Brunnen may vary. Check the offic
 Visiting early in the morning or late in the afternoon is often recommended for a quieter experience and better lighting for photography.
 
 ### Is it wheelchair accessible?
-The fountain is located in a public area, and access may vary. It’s advisable to check local resources for detailed accessibility information.
+The fountain is located in a public area, and access may vary. It's advisable to check local resources for detailed accessibility information.
 
 ### Can I buy tickets online?
 Typically, there are no admission fees for visiting the Hygieia-Brunnen. However, for current information on any potential events or tours, check the official website.

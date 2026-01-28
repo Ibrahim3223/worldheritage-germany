@@ -28,7 +28,7 @@ image_srcset:
 
 The Danish war memorial at Sankelmark, situated in Oeversee, Schleswig-Holstein, serves as a poignant reminder of the sacrifices made during periods of conflict. This solemn site not only honors the fallen but also invites reflection on the impact of war on communities and individuals. In a region shaped by a complex history, the memorial stands as a significant landmark, drawing visitors who seek to understand the local narrative and its broader implications. 
 
-Located at coordinates 54.71448, 9.4413, the memorial is easily accessible, making it a meaningful stop for those exploring the historical landscape of northern Germany. As you visit, you will encounter a space that encourages contemplation and remembrance, offering insights into the collective memory of wartime experiences. The memorial’s design and setting foster a unique atmosphere, inviting visitors to connect with the past in a profound way.
+Located at coordinates 54.71448, 9.4413, the memorial is easily accessible, making it a meaningful stop for those exploring the historical landscape of northern Germany. As you visit, you will encounter a space that encourages contemplation and remembrance, offering insights into the collective memory of wartime experiences. The memorial's design and setting foster a unique atmosphere, inviting visitors to connect with the past in a profound way.
 
 ## History and Significance
 

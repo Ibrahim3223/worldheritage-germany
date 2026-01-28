@@ -68,7 +68,7 @@ Additionally, exploring the area before or after your visit to the bridge can en
 
 ## Practical Information
 
-When planning your visit to the Bruchstein-Segmentbogenbrücke Pretzschendorf, it’s wise to bring along essentials such as water, a camera, and comfortable walking shoes. Depending on the season, consider layers to accommodate changing weather conditions, as temperatures can vary throughout the day.
+When planning your visit to the Bruchstein-Segmentbogenbrücke Pretzschendorf, it's wise to bring along essentials such as water, a camera, and comfortable walking shoes. Depending on the season, consider layers to accommodate changing weather conditions, as temperatures can vary throughout the day.
 
 If you plan to engage in outdoor activities, such as hiking, ensure you have appropriate gear. Additionally, check local forecasts to prepare for any weather-related changes that may impact your visit. 
 
@@ -81,7 +81,7 @@ Plan to spend about an hour at the bridge to fully appreciate its design and the
 Yes, photography is permitted, and the bridge offers many excellent angles for capturing memorable images.
 
 ### Are there guided tours?
-While specific guided tours may not be available, the surrounding area often hosts local guides who can provide insights into the bridge’s history and significance.
+While specific guided tours may not be available, the surrounding area often hosts local guides who can provide insights into the bridge's history and significance.
 
 ### What's the best time to visit?
 The best times to visit are early morning or late afternoon for optimal lighting and fewer crowds.

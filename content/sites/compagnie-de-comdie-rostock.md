@@ -72,7 +72,7 @@ Rostock is a city rich in history and culture, offering several nearby attractio
 
 ## Insider Tips
 
-To make the most of your visit to the Compagnie de Comédie Rostock, consider a few insider tips. For photography enthusiasts, be mindful of the theatre’s policies regarding photography during performances. It’s generally best to capture the atmosphere before or after the show.
+To make the most of your visit to the Compagnie de Comédie Rostock, consider a few insider tips. For photography enthusiasts, be mindful of the theatre's policies regarding photography during performances. It's generally best to capture the atmosphere before or after the show.
 
 To avoid larger crowds, consider attending performances on weekdays or during off-peak seasons. This not only enhances your experience but also allows for a more intimate connection with the performance.
 
@@ -80,7 +80,7 @@ Arriving early can provide you with an opportunity to enjoy the theatre's ambian
 
 ## Practical Information
 
-When planning your visit to the Compagnie de Comédie Rostock, it’s advisable to bring a few essentials. Comfortable clothing is recommended, as you may want to dress appropriately for the occasion, particularly if you are attending a formal performance.
+When planning your visit to the Compagnie de Comédie Rostock, it's advisable to bring a few essentials. Comfortable clothing is recommended, as you may want to dress appropriately for the occasion, particularly if you are attending a formal performance.
 
 Be mindful of seasonal considerations; if visiting during colder months, dress warmly as you may spend time outdoors before entering the theatre. During the summer, lighter clothing may be more comfortable.
 
@@ -92,7 +92,7 @@ Additionally, checking the official website for any updates on performances, tic
 The duration of your visit will depend on the specific performance you choose to attend. Generally, it is advisable to allocate several hours for the entire experience, including pre-show activities.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the theatre regarding rules during performances. However, capturing the atmosphere before or after the show is typically allowed.
+Photography policies can vary, so it's best to check with the theatre regarding rules during performances. However, capturing the atmosphere before or after the show is typically allowed.
 
 ### Are there guided tours?
 Information about guided tours may vary. Check the official website for details on any available tours of the theatre.
@@ -101,7 +101,7 @@ Information about guided tours may vary. Check the official website for details 
 The best time to visit the Compagnie de Comédie Rostock often aligns with their peak performance seasons. Checking the official website for current schedules can help you plan your visit accordingly.
 
 ### Is it wheelchair accessible?
-Accessibility information can typically be found on the official website. It’s advisable to check in advance to ensure all guests can enjoy the theatre.
+Accessibility information can typically be found on the official website. It's advisable to check in advance to ensure all guests can enjoy the theatre.
 
 ### Can I buy tickets online?
 Ticket purchasing options vary, so visiting the official website for information on online ticket sales is recommended.

@@ -28,7 +28,7 @@ image_srcset:
 
 Wittringen Castle, a historic fortress located in the heart of Gladbeck, Germany, invites visitors to explore a fascinating blend of history and architecture. This castle, with its rich heritage, offers a glimpse into the medieval past of the region, making it a significant landmark for both history enthusiasts and casual tourists. Situated at coordinates 51.55965, 6.98125, Wittringen Castle is easily accessible and serves as a cultural hub for the local community.
 
-As you approach the castle, its formidable structure and surrounding landscape create an impressive sight that beckons exploration. The castle not only represents a crucial piece of Gladbeck’s history but also stands as a reminder of the architectural prowess of its time. Visitors are promised an engaging experience whether they are interested in the castle's history, architecture, or the serene parkland that envelops it.
+As you approach the castle, its formidable structure and surrounding landscape create an impressive sight that beckons exploration. The castle not only represents a crucial piece of Gladbeck's history but also stands as a reminder of the architectural prowess of its time. Visitors are promised an engaging experience whether they are interested in the castle's history, architecture, or the serene parkland that envelops it.
 
 ## History and Significance
 

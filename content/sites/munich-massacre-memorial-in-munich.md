@@ -28,7 +28,7 @@ image_srcset:
 
 The Munich massacre memorial in Munich stands as a poignant reminder of a tragic event that unfolded during the 1972 Summer Olympics. This monument is located in the Milbertshofen-Am Hart district, a region that juxtaposes the bustling urban environment with moments of somber reflection. The memorial serves not only as a tribute to the victims of the tragedy but also as a space for contemplation and remembrance, inviting visitors to reflect on the impact of violence and the importance of peace. 
 
-As you approach the memorial, you are met with a sense of gravity that underscores the events it commemorates. This site plays a significant role in preserving the memory of those who lost their lives, ensuring that their stories are not forgotten. The monument is a vital part of Munich’s heritage, representing both a city in mourning and a community that seeks to foster dialogue and understanding about the past.
+As you approach the memorial, you are met with a sense of gravity that underscores the events it commemorates. This site plays a significant role in preserving the memory of those who lost their lives, ensuring that their stories are not forgotten. The monument is a vital part of Munich's heritage, representing both a city in mourning and a community that seeks to foster dialogue and understanding about the past.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Munich massacre occurred during the 1972 Summer Olympics when a Palestinian 
 
 In the aftermath, the Munich massacre memorial was established to honor the victims and to serve as a reminder of the brutality of violence. This memorial holds cultural significance as it not only commemorates those who perished but also promotes discussions around tolerance, peace, and the importance of remembering the past to avoid repeating it. 
 
-The monument embodies the collective grief of a nation and serves as a focal point for those who wish to pay their respects. Over the years, it has become a site of pilgrimage for many, including relatives of the victims, international dignitaries, and those advocating for peace. The memorial is a stark reminder of the need for dialogue in the face of division and conflict, making it a significant landmark in Munich’s historical narrative.
+The monument embodies the collective grief of a nation and serves as a focal point for those who wish to pay their respects. Over the years, it has become a site of pilgrimage for many, including relatives of the victims, international dignitaries, and those advocating for peace. The memorial is a stark reminder of the need for dialogue in the face of division and conflict, making it a significant landmark in Munich's historical narrative.
 
 ## Architecture and Features
 

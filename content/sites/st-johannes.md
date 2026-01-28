@@ -82,7 +82,7 @@ Check the official website for any specific seasonal events or special openings 
 A visit to St. Johannes typically takes about 1 to 2 hours, allowing time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon your arrival, especially inside the church.
+Photography policies may vary, so it's best to check for any restrictions upon your arrival, especially inside the church.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be available on certain days or during special events.

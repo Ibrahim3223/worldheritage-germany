@@ -42,7 +42,7 @@ The architectural style and features of the church reflect the artistic movement
 
 St. Bartholomäus is characterized by its distinct architectural style, which showcases the design trends prevalent during its construction period. While specific details about its architectural features are not provided, churches in Berlin often exhibit elements such as intricate facades, stained glass windows, and unique bell towers. These features not only serve aesthetic purposes but also contribute to the spiritual ambiance of the space.
 
-The interior of St. Bartholomäus is likely to reflect a combination of functionality and artistry, with spaces designed for worship as well as community gatherings. Visitors may find themselves captivated by the serene atmosphere and the thoughtful design that encourages reflection and meditation. The church’s layout is expected to facilitate a welcoming environment for congregants and tourists alike, making it a versatile space for various activities.
+The interior of St. Bartholomäus is likely to reflect a combination of functionality and artistry, with spaces designed for worship as well as community gatherings. Visitors may find themselves captivated by the serene atmosphere and the thoughtful design that encourages reflection and meditation. The church's layout is expected to facilitate a welcoming environment for congregants and tourists alike, making it a versatile space for various activities.
 
 As you explore the church, take note of any artistic elements or historical artifacts that may be on display. These details can offer insights into the community's values and the church's role in shaping local culture over the years.
 
@@ -64,7 +64,7 @@ Exploring the area around St. Bartholomäus can enhance your visit, as there are
 
 2. **Oberbaum Bridge**: An iconic Berlin landmark, this bridge connects the districts of Friedrichshain and Kreuzberg, offering picturesque views and a glimpse into the city's history.
 
-3. **Tempelhofer Feld**: A former airport turned public park, it's a popular destination for outdoor activities, picnics, and community events, showcasing Berlin’s commitment to public spaces.
+3. **Tempelhofer Feld**: A former airport turned public park, it's a popular destination for outdoor activities, picnics, and community events, showcasing Berlin's commitment to public spaces.
 
 4. **Kreuzberg Museum**: Delve into the local history and culture of the Kreuzberg district, offering insights into its diverse communities and developments over time.
 

@@ -62,9 +62,9 @@ Göttingen is rich in cultural and historical sites that complement a visit to t
 
 2. **St. Jacob's Church (Jakobskirche)**: An impressive medieval church known for its stunning architecture and beautiful stained-glass windows. It offers insight into the area's historical religious practices.
 
-3. **Botanical Garden of the University of Göttingen**: A peaceful retreat featuring a diverse range of plant species. It’s perfect for a leisurely stroll after a visit to the museum.
+3. **Botanical Garden of the University of Göttingen**: A peaceful retreat featuring a diverse range of plant species. It's perfect for a leisurely stroll after a visit to the museum.
 
-4. **Bismarck Tower**: Located on the outskirts of Göttingen, this tower offers panoramic views of the surrounding countryside. It’s a popular hiking destination and a great spot for a picnic.
+4. **Bismarck Tower**: Located on the outskirts of Göttingen, this tower offers panoramic views of the surrounding countryside. It's a popular hiking destination and a great spot for a picnic.
 
 5. **Göttingen University**: As one of Germany's oldest universities, a visit to its campus can provide insight into the academic life of the city, alongside notable architecture and historic buildings.
 
@@ -103,7 +103,7 @@ The museum may offer guided tours or educational programs. Check the official we
 Weekdays, particularly in the morning, tend to be less crowded, making them ideal for a more personal experience.
 
 ### Is it wheelchair accessible?
-For detailed information about accessibility, it’s best to check the official website or contact the museum directly.
+For detailed information about accessibility, it's best to check the official website or contact the museum directly.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary. Check the official website for the most current information regarding online ticket sales.

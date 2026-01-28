@@ -28,7 +28,7 @@ image_srcset:
 
 The Synagogue in Potsdam represents a poignant chapter in the city's rich Jewish heritage, serving as a reminder of both the cultural vibrancy that once thrived in the area and the tragic events that led to its demise. Located in the heart of Potsdam, Germany, this synagogue was an integral part of the Jewish community that flourished in the region until the mid-20th century. Its historical significance extends beyond its physical structure, encapsulating the resilience and richness of Jewish culture amidst challenging times. Today, while the synagogue itself no longer exists, its legacy continues to resonate, inviting visitors to reflect on the past and consider the broader narratives of tolerance and coexistence.
 
-As you explore Potsdam, the site of the former synagogue offers an opportunity to engage with the city’s layered history. Surrounded by a vibrant urban landscape, this area is steeped in stories that connect the present with its historical roots. The synagogue's location—marked by its coordinates at 52.3981, 13.0603—serves as a focal point for understanding the complexities of Jewish life in Potsdam.
+As you explore Potsdam, the site of the former synagogue offers an opportunity to engage with the city's layered history. Surrounded by a vibrant urban landscape, this area is steeped in stories that connect the present with its historical roots. The synagogue's location—marked by its coordinates at 52.3981, 13.0603—serves as a focal point for understanding the complexities of Jewish life in Potsdam.
 
 Visitors can expect not only to learn about the synagogue's history but also to appreciate the broader cultural context of Potsdam. The surrounding environment provides a reflective backdrop, encouraging an exploration of both the historical significance of the Jewish presence in the city and the ongoing journey toward remembrance and reconciliation.
 
@@ -90,7 +90,7 @@ When visiting the site, keep in mind the following practical considerations:
 
 - **Seasonal Considerations**: Be mindful of the weather, as it can affect your experience. Layered clothing is advisable, especially during cooler months.
 
-- **Accessibility**: The area is generally accessible, but it’s wise to check for any specific accessibility features if needed.
+- **Accessibility**: The area is generally accessible, but it's wise to check for any specific accessibility features if needed.
 
 ## Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Currently, there may not be guided tours specifically for the site, but local to
 Visiting during daylight hours, especially on weekdays, is recommended for a quieter experience.
 
 ### Is it wheelchair accessible?
-The area around the site is generally accessible, but it’s advisable to check for specific conditions prior to your visit.
+The area around the site is generally accessible, but it's advisable to check for specific conditions prior to your visit.
 
 ### Can I buy tickets online?
 There are no tickets required for visiting the site, but check the official website for any special events that may have entry fees.

@@ -48,7 +48,7 @@ Notably, the Lion Man figurine, discovered within the cave, represents a remarka
 
 ## Visiting Information
 
-Visiting Hohlenstein-Stadel offers a unique opportunity to engage with one of Europe’s most significant archaeological sites. The cave is accessible from the nearby town of Herbrechtingen, where visitors can find parking and transport options to the site. To ensure a fulfilling experience, it is advisable to check the official website for current information regarding opening hours and admission prices.
+Visiting Hohlenstein-Stadel offers a unique opportunity to engage with one of Europe's most significant archaeological sites. The cave is accessible from the nearby town of Herbrechtingen, where visitors can find parking and transport options to the site. To ensure a fulfilling experience, it is advisable to check the official website for current information regarding opening hours and admission prices.
 
 While exploring the cave, visitors can expect a moderately guided experience that highlights key archaeological findings and geological features. The average visit typically lasts about 1-2 hours, allowing ample time to appreciate the cave's historical significance and natural beauty. 
 
@@ -72,7 +72,7 @@ Hohlenstein-Stadel is conveniently located near several other notable attraction
 
 For photography enthusiasts, Hohlenstein-Stadel offers unique opportunities to capture the cave's stunning formations. However, it is essential to respect any guidelines regarding flash photography to preserve the cave's delicate environment. 
 
-To avoid larger crowds, plan your visit during off-peak hours, such as early mornings or weekdays. This strategy not only enhances your experience but also allows for a more intimate connection with the site’s rich history.
+To avoid larger crowds, plan your visit during off-peak hours, such as early mornings or weekdays. This strategy not only enhances your experience but also allows for a more intimate connection with the site's rich history.
 
 ## Practical Information
 

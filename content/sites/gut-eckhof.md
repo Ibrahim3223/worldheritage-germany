@@ -46,7 +46,7 @@ In addition to its historical value, Gut Eckhof is a reminder of the importance 
 
 Gut Eckhof is characterized by its traditional manor house architecture, which reflects the aesthetic and functional design principles of the era in which it was built. The structure showcases elements that are typical of German manor houses, including a robust façade, symmetrical proportions, and a stately presence within its surroundings.
 
-The exterior of Gut Eckhof is notable for its classic architectural features, which may include decorative elements such as gables, windows with intricate frames, and possibly a surrounding landscape that enhances its grandeur. Although specific details of the building’s architectural style and features may not be available, manorial architecture often emphasizes harmony with nature and reflects the wealth and status of its inhabitants.
+The exterior of Gut Eckhof is notable for its classic architectural features, which may include decorative elements such as gables, windows with intricate frames, and possibly a surrounding landscape that enhances its grandeur. Although specific details of the building's architectural style and features may not be available, manorial architecture often emphasizes harmony with nature and reflects the wealth and status of its inhabitants.
 
 Inside, while specific room layouts and interior design features are not detailed, one can imagine spacious rooms adorned with period furnishings that speak to the history of the manor. These interiors would typically serve both functional and ceremonial purposes, reflecting the lifestyles of those who resided here.
 
@@ -78,7 +78,7 @@ While visiting Gut Eckhof, there are several nearby attractions that can enrich 
 
 To capture the essence of Gut Eckhof, consider visiting during the golden hours of early morning or late afternoon for the best natural light for photography. This is also an ideal time to avoid larger crowds, allowing you to fully appreciate the serenity of the manor and its surroundings. 
 
-If you are looking to engage more deeply with the history of the site, consider joining any available guided tours that may be offered. These can enhance your understanding of the manor’s significance and the stories it holds.
+If you are looking to engage more deeply with the history of the site, consider joining any available guided tours that may be offered. These can enhance your understanding of the manor's significance and the stories it holds.
 
 ## Practical Information
 

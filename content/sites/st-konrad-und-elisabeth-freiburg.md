@@ -52,11 +52,11 @@ St. Konrad und Elisabeth is accessible to visitors who wish to explore its inter
 
 When planning your visit, it is advisable to check the official website for current information regarding opening hours and any potential admission fees. While the time needed for a visit may vary depending on individual interests, a leisurely exploration of the church can typically be done in about an hour. 
 
-The best times to visit are often during the weekdays when the crowds are lighter, allowing for a more intimate experience. However, attending a service or community event can provide a unique perspective on the church’s role within the local culture.
+The best times to visit are often during the weekdays when the crowds are lighter, allowing for a more intimate experience. However, attending a service or community event can provide a unique perspective on the church's role within the local culture.
 
 ## Nearby Attractions
 
-After visiting St. Konrad und Elisabeth, consider exploring other nearby attractions that highlight Freiburg’s rich cultural landscape:
+After visiting St. Konrad und Elisabeth, consider exploring other nearby attractions that highlight Freiburg's rich cultural landscape:
 
 1. **Freiburg Minster**: This iconic Gothic cathedral is renowned for its stunning architecture and impressive tower, offering breathtaking views of the city.
    

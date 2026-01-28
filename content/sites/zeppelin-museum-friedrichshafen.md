@@ -99,7 +99,7 @@ The museum is designed to be accessible to all visitors, including those with mo
 Ticket purchasing options may be available online. Check the official website for details on ticket sales and pricing.
 
 ### Are there restrooms and cafes?
-The museum typically provides visitor facilities, including restrooms. For dining options, check the museum’s website for any cafes or nearby restaurants.
+The museum typically provides visitor facilities, including restrooms. For dining options, check the museum's website for any cafes or nearby restaurants.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may be walking and exploring the museum for an extended period. Consider seasonal clothing suitable for the weather during your visit. 

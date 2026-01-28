@@ -40,7 +40,7 @@ The overall ambiance of the cemetery is one of tranquility, enhanced by the natu
 
 ## Visiting Information
 
-When planning your visit to Eitorf Old Cemetery, it’s essential to consider transportation options. Depending on your starting point, you can reach Eitorf by car or public transport. The cemetery's location may be accessible via local bus routes or train services, making it convenient for visitors traveling from nearby towns.
+When planning your visit to Eitorf Old Cemetery, it's essential to consider transportation options. Depending on your starting point, you can reach Eitorf by car or public transport. The cemetery's location may be accessible via local bus routes or train services, making it convenient for visitors traveling from nearby towns.
 
 Before your visit, check the official website for current information regarding hours and any potential admission fees. While cemeteries are typically open to the public, it is always wise to verify specific visiting times. 
 
@@ -70,7 +70,7 @@ To avoid crowds, aim to visit during weekdays rather than weekends. Early mornin
 
 ## Practical Information
 
-When visiting Eitorf Old Cemetery, it’s advisable to bring a few essentials. Comfortable walking shoes are a must, as you may be wandering along pathways and uneven ground. A water bottle is also a good idea, especially during warmer months.
+When visiting Eitorf Old Cemetery, it's advisable to bring a few essentials. Comfortable walking shoes are a must, as you may be wandering along pathways and uneven ground. A water bottle is also a good idea, especially during warmer months.
 
 Seasons can affect your experience, so consider checking the weather forecast before your visit. Spring and autumn can offer pleasant temperatures, while summer may bring warmer weather. Be sure to dress appropriately for the season and time of day.
 

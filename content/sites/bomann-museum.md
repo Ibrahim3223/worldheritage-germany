@@ -36,7 +36,7 @@ The Bomann-Museum stands as a key institution in preserving the cultural history
 
 The museum's collection encompasses various aspects of everyday life, showcasing items that range from traditional clothing to domestic artifacts. These exhibitions highlight the evolution of societal norms and practices, providing context that is essential for understanding the local culture. The museum emphasizes the importance of local craftsmanship, featuring exhibits that include hand-made goods and tools that reflect the skills and artistry of past generations.
 
-In addition to its permanent collections, the Bomann-Museum frequently hosts temporary exhibitions that explore specific themes or highlight particular historical events. This dynamic approach not only keeps the museum’s offerings fresh and engaging but also helps to attract a diverse audience. By fostering a connection between past and present, the Bomann-Museum plays a crucial role in the cultural landscape of Celle.
+In addition to its permanent collections, the Bomann-Museum frequently hosts temporary exhibitions that explore specific themes or highlight particular historical events. This dynamic approach not only keeps the museum's offerings fresh and engaging but also helps to attract a diverse audience. By fostering a connection between past and present, the Bomann-Museum plays a crucial role in the cultural landscape of Celle.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ Additionally, consider attending any special events or workshops that may be sch
 
 ## Practical Information
 
-When preparing for your visit to the Bomann-Museum, it’s wise to bring along a few essentials. Comfortable walking shoes are recommended, as the museum encourages exploration, and you may wish to continue your journey through Celle after your visit. Seasonal considerations are also important; in colder months, layering is advisable, while summer visitors should remember sunscreen and hats for outdoor activities.
+When preparing for your visit to the Bomann-Museum, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as the museum encourages exploration, and you may wish to continue your journey through Celle after your visit. Seasonal considerations are also important; in colder months, layering is advisable, while summer visitors should remember sunscreen and hats for outdoor activities.
 
 Food and drink options may be limited inside the museum, so consider planning your meal at one of the nearby cafes or restaurants in the old town. This will allow you to experience more of Celle's local flavors while taking a break from your explorations.
 

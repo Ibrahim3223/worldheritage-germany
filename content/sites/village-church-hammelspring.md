@@ -76,7 +76,7 @@ Engaging with local community events can also provide unique opportunities for p
 
 ## Practical Information
 
-When visiting the Village Church of Hammelspring, it’s beneficial to bring along a camera, a water bottle, and comfortable walking shoes for exploring the surrounding area. Seasonal considerations should also be taken into account; during the colder months, warm clothing is advisable, while spring and summer visitors might enjoy lighter apparel.
+When visiting the Village Church of Hammelspring, it's beneficial to bring along a camera, a water bottle, and comfortable walking shoes for exploring the surrounding area. Seasonal considerations should also be taken into account; during the colder months, warm clothing is advisable, while spring and summer visitors might enjoy lighter apparel.
 
 Be sure to check the weather forecast prior to your visit, as conditions can vary significantly, influencing the overall experience. Whether you are drawn to the church for its architectural beauty, historical significance, or community connection, being prepared will enhance your visit.
 

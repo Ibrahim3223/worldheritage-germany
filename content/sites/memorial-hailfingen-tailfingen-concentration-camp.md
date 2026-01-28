@@ -58,11 +58,11 @@ Upon arrival, visitors can expect a respectful atmosphere that encourages reflec
 
 ## Nearby Attractions
 
-While the Memorial Hailfingen-Tailfingen concentration camp is a focal point for remembrance, the surrounding area offers additional attractions that may enhance a visitor’s experience:
+While the Memorial Hailfingen-Tailfingen concentration camp is a focal point for remembrance, the surrounding area offers additional attractions that may enhance a visitor's experience:
 
 1. **Hailfingen Town Center**: A charming area with local shops and cafes, perfect for a brief exploration or a relaxing break.
    
-2. **Tailfingen's Historic Sites**: The town features various historic buildings that reflect its architectural heritage, providing further insight into the region’s past.
+2. **Tailfingen's Historic Sites**: The town features various historic buildings that reflect its architectural heritage, providing further insight into the region's past.
 
 3. **Museums in the Region**: There are other local museums that offer insights into the broader historical context of the area, enhancing the educational experience.
 
@@ -95,7 +95,7 @@ A visit to the memorial typically takes about 1 to 2 hours, allowing time for re
 Photography is generally permitted, but it is crucial to maintain a respectful demeanor while capturing images.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these may be available to enhance your understanding of the memorial’s significance.
+Check the official website for information on guided tours, as these may be available to enhance your understanding of the memorial's significance.
 
 ### What's the best time to visit?
 Visiting during weekdays or outside of peak tourist seasons can provide a more reflective experience. Check for any special events that may coincide with your visit.
@@ -107,7 +107,7 @@ Accessibility details may vary, so it is advisable to check the official website
 Check the official website for the latest information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site; however, it’s best to confirm with the official website for specifics regarding restrooms and nearby cafes.
+Facilities may be available on-site; however, it's best to confirm with the official website for specifics regarding restrooms and nearby cafes.
 
 ### What should I wear?
 Dress comfortably and respectfully, considering the nature of the site. Weather-appropriate clothing is recommended, especially if you plan to spend time outdoors.

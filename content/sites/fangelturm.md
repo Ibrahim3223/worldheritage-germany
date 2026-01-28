@@ -94,7 +94,7 @@ Seasonal considerations should be taken into account; while summer offers pleasa
 A typical visit to Fangelturm lasts around one to two hours, allowing ample time to explore the tower and the nearby area.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, so be sure to capture the tower’s impressive features and the surrounding scenery.
+Yes, photography is generally permitted, so be sure to capture the tower's impressive features and the surrounding scenery.
 
 ### Are there guided tours?
 Information on guided tours may be available, so check the official website for details on any scheduled tours or educational programs.

@@ -62,7 +62,7 @@ Coburg is rich in cultural and historical landmarks, making it an ideal base for
    
 2. **Market Square (Marktplatz)** - Located close to the Rose Garden, this lively square is a hub of activity with shops, cafes, and the iconic Town Hall.
 
-3. **Veste Coburg** - This impressive castle is filled with art collections and history, showcasing the region’s significance in Bavaria.
+3. **Veste Coburg** - This impressive castle is filled with art collections and history, showcasing the region's significance in Bavaria.
 
 4. **Ehrenburg Palace** - A beautiful palace that provides insight into the architectural styles and royal history of Coburg.
 
@@ -101,7 +101,7 @@ The park typically aims for accessibility, but it's best to confirm details rega
 Check the official website for current information regarding any entry fees or ticketing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the park, so it’s advisable to check the official website for the latest information.
+Facilities may be limited within the park, so it's advisable to check the official website for the latest information.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider weather conditions when planning your attire.

@@ -46,7 +46,7 @@ Accessing Kleiner Winterberg is relatively straightforward, with several routes 
 
 When planning a visit, it is advisable to check the official website for current information regarding hours, prices, and any potential restrictions or guidelines that may be in place. Hikers can expect to spend a few hours exploring the trails, depending on the route chosen and personal pace. The best times to visit Kleiner Winterberg typically include the spring and fall months when the weather is mild, and the surrounding nature is particularly vibrant.
 
-While hiking, visitors should prepare for varying weather conditions and bring appropriate gear, including sturdy footwear and outdoor essentials. The trails can be busy during peak seasons, so it may be beneficial to start early in the day to enjoy a quieter experience. It’s also important to note that facilities such as restrooms or cafes may not be present on the mountain itself, so planning ahead is wise.
+While hiking, visitors should prepare for varying weather conditions and bring appropriate gear, including sturdy footwear and outdoor essentials. The trails can be busy during peak seasons, so it may be beneficial to start early in the day to enjoy a quieter experience. It's also important to note that facilities such as restrooms or cafes may not be present on the mountain itself, so planning ahead is wise.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ Kleiner Winterberg is surrounded by several attractions that can enhance a visit
 
 4. **The Town of Wernigerode**: Known for its half-timbered houses and vibrant market square, Wernigerode is a charming town with plenty of shops, cafes, and cultural attractions.
 
-5. **The Brocken Railway**: This historic narrow-gauge railway offers a scenic ride to the summit of Brocken, providing a unique perspective of the region’s landscapes.
+5. **The Brocken Railway**: This historic narrow-gauge railway offers a scenic ride to the summit of Brocken, providing a unique perspective of the region's landscapes.
 
 ## Insider Tips
 

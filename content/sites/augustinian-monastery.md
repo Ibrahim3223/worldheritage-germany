@@ -68,7 +68,7 @@ While visiting the Augustinian Monastery, there are several nearby attractions t
 
 1. **Speyer Cathedral**: A UNESCO World Heritage site, this stunning Romanesque cathedral is renowned for its impressive architecture and historical significance.
   
-2. **Old Town of Speyer**: The charming streets of Speyer’s Old Town feature a variety of shops, restaurants, and cafes, perfect for a leisurely stroll or a quick bite.
+2. **Old Town of Speyer**: The charming streets of Speyer's Old Town feature a variety of shops, restaurants, and cafes, perfect for a leisurely stroll or a quick bite.
 
 3. **Historical Museum of the Palatinate**: Located nearby, this museum offers insights into the history of the Palatinate region, showcasing artifacts and exhibits that highlight its cultural heritage.
 
@@ -115,7 +115,7 @@ Accessibility details may vary. Check the official website for specific informat
 Check the official website for current ticket purchasing options and information.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check the official website for details on available amenities.
+Facilities may vary, so it's best to check the official website for details on available amenities.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing is advisable, as you may be walking both indoors and outdoors.

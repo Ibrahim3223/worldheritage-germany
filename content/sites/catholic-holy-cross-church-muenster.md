@@ -84,7 +84,7 @@ When planning your visit to the Holy Cross Church, consider bringing along a few
 
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast and dress accordingly, as you may want to explore the surrounding area after your visit.
 
-- **Water and Snacks**: While there may be nearby cafes, it’s always a good idea to carry water and light snacks, especially if you plan to spend an extended period exploring the area.
+- **Water and Snacks**: While there may be nearby cafes, it's always a good idea to carry water and light snacks, especially if you plan to spend an extended period exploring the area.
 
 ## Frequently Asked Questions
 

@@ -101,7 +101,7 @@ Check the official website for current information regarding accessibility optio
 Check the official website for current information regarding any potential fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check the official website for current information on amenities available at Graureihersee.
+Facilities may vary, so it's best to check the official website for current information on amenities available at Graureihersee.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for outdoor activities, and consider layering for varying weather conditions.

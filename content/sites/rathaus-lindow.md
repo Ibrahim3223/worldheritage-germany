@@ -30,7 +30,7 @@ Rathaus Lindow, located in the charming town of Lindow in the district of Ostpri
 
 As you explore Lindow, you will find that this city hall is more than just an administrative building. It stands as a symbol of the town's commitment to its community, showcasing the architectural styles and cultural influences that have shaped its development. The town offers a picturesque setting, complete with serene landscapes and a vibrant atmosphere, making it an inviting destination for those looking to immerse themselves in local culture.
 
-Visitors to Rathaus Lindow will appreciate the opportunity to engage with the town’s history and observe the day-to-day workings of local governance. The building's presence is a reminder of the importance of civic life in fostering community connections and supporting local initiatives. Whether you're a history enthusiast, an architecture aficionado, or simply seeking to understand the local way of life, Rathaus Lindow promises an insightful experience.
+Visitors to Rathaus Lindow will appreciate the opportunity to engage with the town's history and observe the day-to-day workings of local governance. The building's presence is a reminder of the importance of civic life in fostering community connections and supporting local initiatives. Whether you're a history enthusiast, an architecture aficionado, or simply seeking to understand the local way of life, Rathaus Lindow promises an insightful experience.
 
 ## History and Significance
 

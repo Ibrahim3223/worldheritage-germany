@@ -70,7 +70,7 @@ The Schirn Kunsthalle is conveniently located near several other cultural landma
 
 ## Insider Tips
 
-For those looking to capture the essence of the Schirn Kunsthalle through photography, be mindful of the museum’s policies regarding photography. Always check for any restrictions on capturing images of specific exhibitions. To avoid larger crowds, aim to visit during the opening hours on weekdays. Early mornings often provide a quieter experience, allowing for a more personal interaction with the art.
+For those looking to capture the essence of the Schirn Kunsthalle through photography, be mindful of the museum's policies regarding photography. Always check for any restrictions on capturing images of specific exhibitions. To avoid larger crowds, aim to visit during the opening hours on weekdays. Early mornings often provide a quieter experience, allowing for a more personal interaction with the art.
 
 ## Practical Information
 

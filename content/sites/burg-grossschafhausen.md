@@ -34,7 +34,7 @@ While specific details about the castle's construction and alterations may not b
 
 ## Architecture and Features
 
-Burg Großschafhausen presents a traditional medieval castle design, characterized by its formidable stone construction. The structure is marked by robust walls that have withstood the test of time, a testament to the building techniques employed during its era. The castle’s layout likely includes various defensive features typical of the period, although specific architectural details are not extensively documented.
+Burg Großschafhausen presents a traditional medieval castle design, characterized by its formidable stone construction. The structure is marked by robust walls that have withstood the test of time, a testament to the building techniques employed during its era. The castle's layout likely includes various defensive features typical of the period, although specific architectural details are not extensively documented.
 
 Visitors can observe the architectural simplicity that defines many castles of this time, where functionality was paramount. The design likely incorporates elements such as arrow slits for defense and a courtyard that would have served as a gathering space for the inhabitants. While the exact features of Burg Großschafhausen might require further exploration, its overall aesthetic is representative of the medieval castles scattered throughout Germany.
 
@@ -58,7 +58,7 @@ While Burg Großschafhausen is a destination in its own right, visitors to the r
 
 3. **The Nature Trails**: Surrounding areas offer picturesque trails for hiking and nature walks, perfect for those looking to enjoy the scenic landscapes.
 
-4. **Wackerstein Castle Ruins**: A nearby historical site that allows visitors to delve deeper into the region’s medieval past.
+4. **Wackerstein Castle Ruins**: A nearby historical site that allows visitors to delve deeper into the region's medieval past.
 
 5. **Local Vineyards**: Schwendi is known for its wine production, and a visit to the local vineyards can provide a delightful experience for wine enthusiasts.
 

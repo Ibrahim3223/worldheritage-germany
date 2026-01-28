@@ -46,7 +46,7 @@ The Morat-Institut also likely incorporates elements that reflect the contempora
 
 ## Visiting Information
 
-When planning a visit to the Morat-Institut, it’s advisable to check the official website for current information regarding hours and admission prices. The museum is accessible via various modes of transport, making it easy to incorporate into a day of cultural exploration in Freiburg.
+When planning a visit to the Morat-Institut, it's advisable to check the official website for current information regarding hours and admission prices. The museum is accessible via various modes of transport, making it easy to incorporate into a day of cultural exploration in Freiburg.
 
 As you prepare for your visit, keep in mind that the Morat-Institut offers a diverse program of exhibitions and activities, so it is recommended to allocate ample time to fully engage with the offerings. Depending on your interests, a visit may take anywhere from one to several hours.
 
@@ -68,13 +68,13 @@ Freiburg im Breisgau is home to numerous attractions that complement a visit to 
 
 ## Insider Tips
 
-For those looking to capture the essence of the Morat-Institut through photography, be mindful of any restrictions that may apply to taking pictures inside the exhibition spaces. It’s wise to inquire at the entrance about specific guidelines to ensure a smooth experience.
+For those looking to capture the essence of the Morat-Institut through photography, be mindful of any restrictions that may apply to taking pictures inside the exhibition spaces. It's wise to inquire at the entrance about specific guidelines to ensure a smooth experience.
 
 To avoid larger crowds, consider visiting during the middle of the week or early in the day. This can enhance your ability to engage more intimately with the artworks and participate in any discussions or events that might be taking place.
 
 ## Practical Information
 
-When visiting the Morat-Institut, it’s advisable to bring a few essentials. Comfortable walking shoes will enhance your experience as you explore the museum and nearby attractions. Additionally, carrying a light jacket may be beneficial, as indoor temperatures can vary.
+When visiting the Morat-Institut, it's advisable to bring a few essentials. Comfortable walking shoes will enhance your experience as you explore the museum and nearby attractions. Additionally, carrying a light jacket may be beneficial, as indoor temperatures can vary.
 
 Seasonal considerations should also be taken into account. Freiburg experiences a temperate climate, so checking the weather forecast prior to your visit can help you plan accordingly. If visiting during peak tourist seasons, be prepared for larger crowds at popular attractions in the area.
 
@@ -87,7 +87,7 @@ The duration of your visit can vary based on your interests, but typically, visi
 Photography policies may differ based on the specific exhibitions, so it's best to check with the staff upon arrival for any restrictions.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s recommended to check the official website for current offerings and schedules related to tours.
+Guided tours may be available, but it's recommended to check the official website for current offerings and schedules related to tours.
 
 ### What's the best time to visit?
 To avoid crowds, consider visiting during weekdays or early in the day. Checking the exhibition schedule in advance can also help you plan for special events.

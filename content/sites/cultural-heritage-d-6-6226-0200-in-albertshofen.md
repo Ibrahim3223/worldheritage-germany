@@ -50,7 +50,7 @@ Check the official website for current information regarding hours and prices, a
 
 The best times to visit typically align with the milder months of spring and early autumn, when the weather is amenable for outdoor exploration. However, the fortification can be appreciated year-round, and visiting during less crowded times can enhance the experience.
 
-Visitors can expect a range of informational displays that provide context about the fortification’s history and significance. Be prepared for a walk through history, and take the time to observe the architectural features that tell the story of its past.
+Visitors can expect a range of informational displays that provide context about the fortification's history and significance. Be prepared for a walk through history, and take the time to observe the architectural features that tell the story of its past.
 
 ## Nearby Attractions
 

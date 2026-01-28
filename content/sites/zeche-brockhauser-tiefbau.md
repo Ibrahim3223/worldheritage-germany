@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Zeche Brockhauser Tiefbau, located in Bochum, Germany, represents a significant chapter in the region's industrial heritage. This coal mine, part of the Ruhr area, which was historically pivotal to Germany’s coal mining and steel production, continues to attract interest for its historical and cultural relevance. The mine offers an intriguing glimpse into the mining practices that shaped the local economy and community over the decades. Visitors to Zeche Brockhauser Tiefbau can expect an immersive experience that sheds light on the lives of miners and the industrial processes that powered the region.
+Zeche Brockhauser Tiefbau, located in Bochum, Germany, represents a significant chapter in the region's industrial heritage. This coal mine, part of the Ruhr area, which was historically pivotal to Germany's coal mining and steel production, continues to attract interest for its historical and cultural relevance. The mine offers an intriguing glimpse into the mining practices that shaped the local economy and community over the decades. Visitors to Zeche Brockhauser Tiefbau can expect an immersive experience that sheds light on the lives of miners and the industrial processes that powered the region.
 
 The Ruhr area, renowned for its dense concentration of industrial sites, is a UNESCO World Heritage site, recognized for its historical significance in the development of modern industry. Zeche Brockhauser Tiefbau serves as a reminder of the labor and ingenuity that drove the industrial revolution in Germany. As you explore this site, you will encounter the remnants of a bygone era, where coal mining was not just an occupation but a way of life for many families in Bochum and beyond.
 
@@ -110,4 +110,4 @@ Facilities may be available, but it's advisable to check for specifics on the of
 ### What should I wear?
 Comfortable, weather-appropriate clothing and shoes are recommended, especially if you plan to explore outdoor areas.
 
-Zeche Brockhauser Tiefbau presents a fascinating exploration of Bochum's industrial history. By visiting, you will gain valuable insights into the region’s mining heritage while appreciating the cultural significance that shaped the local community.
+Zeche Brockhauser Tiefbau presents a fascinating exploration of Bochum's industrial history. By visiting, you will gain valuable insights into the region's mining heritage while appreciating the cultural significance that shaped the local community.

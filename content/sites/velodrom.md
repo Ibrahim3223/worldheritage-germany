@@ -54,7 +54,7 @@ Visiting the Velodrom is a straightforward and enjoyable experience, thanks in p
 
 For the most accurate and up-to-date information regarding visiting hours, ticket prices, and upcoming events, it is recommended to check the official website. The Velodrom hosts a variety of events throughout the year, so planning your visit around a specific event can enhance your experience.
 
-When visiting the Velodrom, it’s advisable to allocate a few hours to fully appreciate the venue and possibly explore any events happening at the time. The best times to visit may vary based on the schedule of events, so checking in advance is prudent.
+When visiting the Velodrom, it's advisable to allocate a few hours to fully appreciate the venue and possibly explore any events happening at the time. The best times to visit may vary based on the schedule of events, so checking in advance is prudent.
 
 Expect a lively atmosphere filled with the excitement of sports, performances, and community gatherings. The Velodrom's vibrant energy is infectious, drawing in crowds eager to partake in the events it hosts.
 
@@ -66,7 +66,7 @@ While the Velodrom itself is a focal point of cultural and sporting activity, th
 
 2. **Berlin Wall Memorial**: This significant historical site provides insight into the history of the Berlin Wall and its impact on the city. Visitors can explore the memorial and the accompanying visitor center.
 
-3. **Pankow’s Historic City Center**: Just a brief walk from the Velodrom, the historic center of Pankow offers charming streets lined with cafes, boutiques, and historical architecture.
+3. **Pankow's Historic City Center**: Just a brief walk from the Velodrom, the historic center of Pankow offers charming streets lined with cafes, boutiques, and historical architecture.
 
 4. **Schönhausen Palace**: A short distance from the Velodrom, this Baroque palace features beautiful gardens and serves as a museum, offering insight into the history of the region.
 

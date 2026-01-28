@@ -34,11 +34,11 @@ As you plan your visit, you will discover not only the treasures housed within t
 
 ## History and Significance
 
-Peters Music Library stands as a crucial institution within Leipzig’s cultural landscape. While specific historical dates and events are not provided, the library's existence reflects the city’s longstanding connection to music and its role as a center for musical education and performance. Leipzig has been home to many significant figures in the music world, including Johann Sebastian Bach, Felix Mendelssohn, and Robert Schumann, and the library plays a role in preserving this musical legacy.
+Peters Music Library stands as a crucial institution within Leipzig's cultural landscape. While specific historical dates and events are not provided, the library's existence reflects the city's longstanding connection to music and its role as a center for musical education and performance. Leipzig has been home to many significant figures in the music world, including Johann Sebastian Bach, Felix Mendelssohn, and Robert Schumann, and the library plays a role in preserving this musical legacy.
 
 The library has likely evolved alongside the city, adapting to the changing landscape of music and literature over the years. Its collection serves not only as a resource for musicians but also as a vital archive for historians and researchers looking to understand the development of music and its cultural implications.
 
-The library’s significance extends beyond its collection; it serves as a communal space for music lovers to gather, share ideas, and engage with the art form. Educational programs, workshops, and performances may be part of its offerings, fostering a deeper appreciation for music within the community.
+The library's significance extends beyond its collection; it serves as a communal space for music lovers to gather, share ideas, and engage with the art form. Educational programs, workshops, and performances may be part of its offerings, fostering a deeper appreciation for music within the community.
 
 ## Architecture and Features
 
@@ -76,11 +76,11 @@ While at Peters Music Library, consider exploring these nearby attractions that 
 
 To enhance your visit to Peters Music Library, consider the following insider tips:
 
-- **Photography**: Be mindful of library rules regarding photography. While some areas may allow photos, it’s best to ask before capturing images, particularly of rare materials.
+- **Photography**: Be mindful of library rules regarding photography. While some areas may allow photos, it's best to ask before capturing images, particularly of rare materials.
   
 - **Crowd Avoidance**: To enjoy a quieter experience, plan your visit during weekdays or earlier in the day when the library is less likely to be busy. This can provide you with a more contemplative atmosphere for engaging with the materials.
 
-- **Engage with Staff**: The library staff can be a valuable resource. Don’t hesitate to ask for assistance or recommendations on where to find specific materials or information.
+- **Engage with Staff**: The library staff can be a valuable resource. Don't hesitate to ask for assistance or recommendations on where to find specific materials or information.
 
 ## Practical Information
 
@@ -101,10 +101,10 @@ A visit can vary based on your interests, but allocating two to three hours is g
 Photography policies may vary; it is recommended to inquire at the library regarding specific areas where photography is permitted.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are available, as they can provide valuable insights into the library’s collection and history.
+Check the official website for information on whether guided tours are available, as they can provide valuable insights into the library's collection and history.
 
 ### What's the best time to visit?
-Weekdays, particularly in the morning, tend to be quieter and more conducive to exploration, though checking the library’s schedule for events can also enhance your visit.
+Weekdays, particularly in the morning, tend to be quieter and more conducive to exploration, though checking the library's schedule for events can also enhance your visit.
 
 ### Is it wheelchair accessible?
 For accessibility information, it is best to consult the library's official website or contact them directly.
@@ -113,7 +113,7 @@ For accessibility information, it is best to consult the library's official webs
 Check the official website for current admission policies, including whether tickets can be purchased online.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but for information on cafes or dining options, it is advisable to check the library’s amenities or nearby establishments.
+Facilities such as restrooms may be available, but for information on cafes or dining options, it is advisable to check the library's amenities or nearby establishments.
 
 ### What should I wear?
 Dress comfortably, keeping in mind that you may be sitting for extended periods. Layers can be helpful, as library temperatures may vary.

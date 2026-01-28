@@ -32,7 +32,7 @@ Surrounded by the serene landscapes of Brandenburg, the Paltrockmühle is access
 
 ## History and Significance
 
-The Paltrockmühle Langerwisch is one of two grain mills located in the Michendorf area, a region that has relied heavily on agriculture for centuries. While specific historical dates are not provided, the windmill’s construction represents a key period in the development of milling technology in Germany. Windmills like Paltrockmühle were essential for processing grains, significantly impacting local agriculture and food production.
+The Paltrockmühle Langerwisch is one of two grain mills located in the Michendorf area, a region that has relied heavily on agriculture for centuries. While specific historical dates are not provided, the windmill's construction represents a key period in the development of milling technology in Germany. Windmills like Paltrockmühle were essential for processing grains, significantly impacting local agriculture and food production.
 
 The cultural importance of such windmills cannot be overstated. They were once the heart of many rural communities, providing necessary services and contributing to local economies. Paltrockmühle Langerwisch stands not only as a functional structure but also as a symbol of community resilience and innovation. In an era where mechanization began to dominate, windmills like this one represented a bridge between traditional practices and modern advancements.
 
@@ -40,11 +40,11 @@ Furthermore, the preservation of Paltrockmühle Langerwisch emphasizes the signi
 
 ## Architecture and Features
 
-Paltrockmühle Langerwisch is characterized by its distinctive architectural style, typical of traditional windmills found throughout Germany. The structure’s design reflects the Paltrock type, which features a rotating cap that allows the mill to catch the wind from various directions. This innovative design element was crucial for the mill's operational efficiency, enabling it to grind grain effectively regardless of wind conditions.
+Paltrockmühle Langerwisch is characterized by its distinctive architectural style, typical of traditional windmills found throughout Germany. The structure's design reflects the Paltrock type, which features a rotating cap that allows the mill to catch the wind from various directions. This innovative design element was crucial for the mill's operational efficiency, enabling it to grind grain effectively regardless of wind conditions.
 
 The windmill's construction is primarily wooden, showcasing craftsmanship that has been preserved through years of maintenance and restoration. Inside, visitors can expect a well-preserved milling mechanism that illustrates the workings of traditional grain processing. The layout is designed to facilitate the milling process, with various components working in harmony to convert grain into flour.
 
-Notable features include the large sails that extend outward, harnessing wind energy to turn the mill’s grinding stones. The interior also contains various tools and equipment used historically, providing insight into the daily operations of a grain mill. While specific dimensions and additional architectural details are not available, the overall structure encapsulates the essence of traditional windmill design.
+Notable features include the large sails that extend outward, harnessing wind energy to turn the mill's grinding stones. The interior also contains various tools and equipment used historically, providing insight into the daily operations of a grain mill. While specific dimensions and additional architectural details are not available, the overall structure encapsulates the essence of traditional windmill design.
 
 ## Visiting Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Villengarten Waldstraße 17 in Vaterstetten is a significant cultural heritage monument in Bavaria, Germany. This garden represents the intersection of nature and heritage, providing a serene escape within the urban landscape. Located in the town of Vaterstetten, it serves as a reflection of the region's historical and cultural evolution. As you stroll through this garden, you will encounter not only well-maintained greenery but also a space that invites contemplation and appreciation of the natural world. The garden is a reminder of the importance of preserving green spaces in urban settings, and it showcases the beauty that can emerge from the thoughtful design and care of landscapes.
 
-The garden’s designation as a cultural heritage monument underscores its significance within the community and the broader Bavarian region. The site offers visitors an opportunity to engage with nature while appreciating the historical context in which these gardens were created. With its well-planned layout and variety of plant life, Villengarten Waldstraße 17 stands as an important locale for both residents and tourists seeking a peaceful retreat from the bustling city life.
+The garden's designation as a cultural heritage monument underscores its significance within the community and the broader Bavarian region. The site offers visitors an opportunity to engage with nature while appreciating the historical context in which these gardens were created. With its well-planned layout and variety of plant life, Villengarten Waldstraße 17 stands as an important locale for both residents and tourists seeking a peaceful retreat from the bustling city life.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The history of Villengarten Waldstraße 17 is intertwined with the development o
 
 During the 19th and early 20th centuries, the importance of gardens and green spaces in urban environments gained recognition across Europe. The movement towards creating public gardens aimed to provide urban dwellers with access to nature, thereby improving their well-being. Villengarten Waldstraße 17 likely emerged from these ideals, serving as a place for relaxation, socialization, and community gatherings.
 
-The garden’s status as a cultural heritage monument (D-1-75-132-11) highlights its significance to the local identity. It signifies not only the physical beauty of the space but also the cultural values associated with gardening and nature in Bavarian society. As communities evolve, such spaces remind us of our connection to the environment and the histories that shape our interactions with it.
+The garden's status as a cultural heritage monument (D-1-75-132-11) highlights its significance to the local identity. It signifies not only the physical beauty of the space but also the cultural values associated with gardening and nature in Bavarian society. As communities evolve, such spaces remind us of our connection to the environment and the histories that shape our interactions with it.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ In addition to Villengarten Waldstraße 17, several nearby attractions may enhan
 
 1. **Vaterstetten Town Center**: Explore the local shops and eateries that reflect the town's character and community spirit.
 
-2. **St. John’s Church**: A notable architectural site, this church offers insight into local religious heritage and is a short distance from the garden.
+2. **St. John's Church**: A notable architectural site, this church offers insight into local religious heritage and is a short distance from the garden.
 
 3. **Parks and Recreational Areas**: The surrounding region features additional parks where visitors can engage in outdoor activities, perfect for families.
 

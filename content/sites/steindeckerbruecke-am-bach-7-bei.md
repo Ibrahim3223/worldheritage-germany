@@ -30,7 +30,7 @@ The exact historical timeline of the Steindeckerbrücke may not be documented in
 
 The significance of such structures extends beyond mere functionality; they often symbolize the progress and aspirations of the areas they serve. In regions like Panschwitz-Kuckau, where rural landscapes dominate, bridges can also represent the melding of tradition and modernity. They stand as a reflection of the evolving needs of local populations while preserving the essence of the historical pathways that have existed for generations.
 
-The cultural importance of the Steindeckerbrücke can also be seen in its role within the community. Bridges often become places of gathering, with locals using them as spots for leisurely walks or as landmarks during festivals and community events. The bridge's presence in the region’s landscape reinforces the idea that infrastructure can enhance not only mobility but also social interaction and community spirit.
+The cultural importance of the Steindeckerbrücke can also be seen in its role within the community. Bridges often become places of gathering, with locals using them as spots for leisurely walks or as landmarks during festivals and community events. The bridge's presence in the region's landscape reinforces the idea that infrastructure can enhance not only mobility but also social interaction and community spirit.
 
 ## Architecture and Features
 

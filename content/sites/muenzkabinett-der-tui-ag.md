@@ -68,9 +68,9 @@ When visiting the Münzkabinett der TUI AG, consider bringing a camera to captur
 
 ## Practical Information
 
-When planning your visit to the Münzkabinett, it’s advisable to dress comfortably, as you may spend a significant amount of time walking and standing while exploring the exhibits. Depending on the season, be prepared for varying weather conditions, especially if you plan to explore nearby attractions afterward.
+When planning your visit to the Münzkabinett, it's advisable to dress comfortably, as you may spend a significant amount of time walking and standing while exploring the exhibits. Depending on the season, be prepared for varying weather conditions, especially if you plan to explore nearby attractions afterward.
 
-It’s also wise to check the official website for any seasonal considerations that may affect your visit. Bringing a water bottle can be helpful, especially during warmer months, to stay hydrated while you explore.
+It's also wise to check the official website for any seasonal considerations that may affect your visit. Bringing a water bottle can be helpful, especially during warmer months, to stay hydrated while you explore.
 
 ## Frequently Asked Questions
 
@@ -78,7 +78,7 @@ It’s also wise to check the official website for any seasonal considerations t
 Most visitors find that spending around two hours at the Münzkabinett allows sufficient time to appreciate the exhibits and absorb the information provided.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check in advance or inquire with museum staff upon arrival.
+Photography policies can vary, so it's best to check in advance or inquire with museum staff upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.

@@ -70,7 +70,7 @@ While Rocholz Manor is a highlight in Gevelsberg, several nearby attractions can
 
 3. **Sauerland Park**: A scenic park nearby offers walking paths and green spaces, perfect for a leisurely stroll or a picnic amidst nature.
 
-4. **Museum der Stadt Gevelsberg**: This local museum provides insights into the history and culture of Gevelsberg, featuring exhibits that delve into the town’s past and its evolution.
+4. **Museum der Stadt Gevelsberg**: This local museum provides insights into the history and culture of Gevelsberg, featuring exhibits that delve into the town's past and its evolution.
 
 5. **Wuppertal Suspension Railway**: Just a short trip from Gevelsberg, this unique mode of transport offers a different perspective of the surrounding area, combining engineering marvel with scenic views.
 

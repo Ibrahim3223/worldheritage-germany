@@ -40,7 +40,7 @@ Overall, Industriemuseum Lohne is not merely a repository of artifacts; it serve
 
 The architecture of Industriemuseum Lohne is emblematic of its industrial heritage. The museum is housed in a structure that reflects the functional design typical of industrial buildings. While specific architectural details may not be provided, the building itself is designed to accommodate the display of large machinery and exhibits, allowing visitors to experience the scale and grandeur of the industrial artifacts on display.
 
-Inside, the museum features expansive exhibition spaces that showcase a diverse range of items, from machinery to tools, each telling a part of the story of Lohne’s industrial past. The arrangement of displays is designed to facilitate an engaging exploration of the exhibits, encouraging visitors to interact with the history presented.
+Inside, the museum features expansive exhibition spaces that showcase a diverse range of items, from machinery to tools, each telling a part of the story of Lohne's industrial past. The arrangement of displays is designed to facilitate an engaging exploration of the exhibits, encouraging visitors to interact with the history presented.
 
 Notable features of the museum include informational panels that provide context for the artifacts, as well as multimedia presentations that enhance the visitor experience. These elements are aimed at providing a comprehensive understanding of the industrial processes and the evolution of technology over time.
 

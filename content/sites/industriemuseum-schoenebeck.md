@@ -68,7 +68,7 @@ To enhance your visit to the Industriemuseum Schönebeck, consider the following
 
 - **Photography**: Check if photography is permitted within the museum, as some exhibits may have restrictions.
 - **Crowd Avoidance**: To avoid crowds, consider visiting during the weekdays or early in the morning, as weekends can be busier with family visitors.
-- **Engage with Staff**: Don’t hesitate to ask museum staff for insights or recommendations regarding the exhibits; their knowledge can enhance your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff for insights or recommendations regarding the exhibits; their knowledge can enhance your understanding of the displays.
 
 ## Practical Information
 
@@ -83,7 +83,7 @@ When planning your visit to the Industriemuseum Schönebeck, keep in mind the fo
 Most visitors spend around two hours exploring the exhibits, but you may want to allocate more time if you plan to participate in workshops or special events.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding any restrictions on taking photos within the exhibits.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding any restrictions on taking photos within the exhibits.
 
 ### Are there guided tours?
 The museum may offer guided tours, which can provide deeper insights into the exhibits. Check the official website for availability and scheduling.
@@ -92,7 +92,7 @@ The museum may offer guided tours, which can provide deeper insights into the ex
 Weekdays or early mornings are typically less crowded, making for a more comfortable experience. However, check for any special events that might be occurring.
 
 ### Is it wheelchair accessible?
-The museum aims to be accessible to all visitors. However, it’s advisable to contact the museum in advance to confirm specific accessibility arrangements.
+The museum aims to be accessible to all visitors. However, it's advisable to contact the museum in advance to confirm specific accessibility arrangements.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

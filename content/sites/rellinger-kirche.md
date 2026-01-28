@@ -68,7 +68,7 @@ Rellingen is home to several noteworthy attractions that complement a visit to R
 
 To make the most of your visit to Rellinger Kirche, consider these insider tips:
 
-- **Photography**: While photography is usually allowed, be respectful of any ongoing services and the privacy of worshippers. Early mornings or late afternoons can offer beautiful natural light for capturing the church’s exterior.
+- **Photography**: While photography is usually allowed, be respectful of any ongoing services and the privacy of worshippers. Early mornings or late afternoons can offer beautiful natural light for capturing the church's exterior.
 - **Crowd Avoidance**: If you prefer a quieter experience, plan your visit during weekdays or early in the morning on weekends. This will allow for a more peaceful exploration of the church.
 - **Engage with Locals**: Take the opportunity to speak with local residents or church members, who may offer valuable insights into the church's history and community significance.
 

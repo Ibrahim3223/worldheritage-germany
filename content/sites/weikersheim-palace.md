@@ -86,7 +86,7 @@ Seasonal considerations also play a role in your visit. The gardens are particul
 A visit to Weikersheim Palace typically lasts between two to four hours, allowing time to explore the palace, gardens, and possibly the surrounding areas.
 
 ### Is photography allowed?
-Photography is generally permitted in designated areas of the palace and gardens, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted in designated areas of the palace and gardens, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours are often available, providing deeper insights into the history and significance of the palace. Check the official website for details on tour schedules.

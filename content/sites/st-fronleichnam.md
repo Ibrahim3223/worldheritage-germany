@@ -32,11 +32,11 @@ Visitors to St. Fronleichnam can expect a serene environment where they can appr
 
 ## History and Significance
 
-The history of St. Fronleichnam is intertwined with the cultural fabric of Homburg. As a church building, it serves a vital role in the spiritual lives of the local community. While specific historical dates and events may not be documented, the church is recognized for its enduring presence and importance in the region’s religious practices.
+The history of St. Fronleichnam is intertwined with the cultural fabric of Homburg. As a church building, it serves a vital role in the spiritual lives of the local community. While specific historical dates and events may not be documented, the church is recognized for its enduring presence and importance in the region's religious practices.
 
-The church stands as a symbol of faith for the community, drawing worshippers and visitors alike to participate in various religious services and celebrations. Its significance extends beyond mere architecture; it embodies the traditions and values held by the local populace. The church’s role as a gathering place fosters a sense of community and belonging, making it a cornerstone of local identity.
+The church stands as a symbol of faith for the community, drawing worshippers and visitors alike to participate in various religious services and celebrations. Its significance extends beyond mere architecture; it embodies the traditions and values held by the local populace. The church's role as a gathering place fosters a sense of community and belonging, making it a cornerstone of local identity.
 
-In addition to its religious functions, St. Fronleichnam contributes to the cultural heritage of Homburg by hosting events and activities that resonate with both historical and contemporary significance. As the church continues to engage with the community, it remains a vital part of Homburg’s ongoing narrative.
+In addition to its religious functions, St. Fronleichnam contributes to the cultural heritage of Homburg by hosting events and activities that resonate with both historical and contemporary significance. As the church continues to engage with the community, it remains a vital part of Homburg's ongoing narrative.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ Visiting St. Fronleichnam offers an opportunity to explore a significant cultura
 
 Reaching St. Fronleichnam is facilitated by various transportation options available in the region. Depending on your location, public transport or local roadways can provide access to the church. Once there, visitors can expect a tranquil environment conducive to exploration and contemplation.
 
-The recommended time for a visit can vary based on individual interests, but a general timeframe of one to two hours allows for a thorough appreciation of the church’s features and significance. The best times to visit may align with local religious services or community events, offering a chance to engage more deeply with the church's active role in the community.
+The recommended time for a visit can vary based on individual interests, but a general timeframe of one to two hours allows for a thorough appreciation of the church's features and significance. The best times to visit may align with local religious services or community events, offering a chance to engage more deeply with the church's active role in the community.
 
 ## Nearby Attractions
 

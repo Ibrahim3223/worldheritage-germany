@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Ortsstraße 35, an intriguing half-timbered building, stands in the heart of Ober-Bessingen, a district of Lich in the Giessen district, Hesse, Germany. This former town hall or gatehouse is a prime example of the architectural style that characterizes this region. The building’s symmetrical construction and two-and-a-half stories reflect the historical significance of local governance and community life. Visitors to this site can immerse themselves in the charm of traditional German architecture while appreciating the cultural legacy embedded within its walls. 
+Ortsstraße 35, an intriguing half-timbered building, stands in the heart of Ober-Bessingen, a district of Lich in the Giessen district, Hesse, Germany. This former town hall or gatehouse is a prime example of the architectural style that characterizes this region. The building's symmetrical construction and two-and-a-half stories reflect the historical significance of local governance and community life. Visitors to this site can immerse themselves in the charm of traditional German architecture while appreciating the cultural legacy embedded within its walls. 
 
 Lich, known for its picturesque surroundings, offers a unique blend of urban and pastoral experiences. The presence of Ortsstraße 35 adds a layer of historical depth to the area, inviting travelers to explore not just the building itself but also the surrounding community that has evolved over the centuries. As you approach this site, it promises a unique glimpse into the architectural style and civic life of a bygone era, making it a must-see for those interested in heritage and local history.
 
@@ -46,7 +46,7 @@ The façade of Ortsstraße 35 features exposed wooden beams, creating a striking
 
 Inside, while specific details about the interior are not provided, one might expect remnants of its historical function as a town hall, with spaces that once served administrative purposes and community events. The building's design would typically include areas designated for public use, reflecting the communal nature of its original role. 
 
-As you explore the exterior, take note of the craftsmanship that has stood the test of time, allowing this structure to remain a part of the community’s fabric. Its architectural features not only serve aesthetic purposes but also tell stories of the people who once gathered within its walls.
+As you explore the exterior, take note of the craftsmanship that has stood the test of time, allowing this structure to remain a part of the community's fabric. Its architectural features not only serve aesthetic purposes but also tell stories of the people who once gathered within its walls.
 
 ## Visiting Information
 
@@ -108,7 +108,7 @@ Visiting during spring and early autumn is recommended for pleasant weather and 
 Check the official website for current accessibility information, as specific conditions may vary.
 
 ### Can I buy tickets online?
-Currently, there are no ticket charges for visiting Ortsstraße 35. However, it’s best to verify this detail on the official website.
+Currently, there are no ticket charges for visiting Ortsstraße 35. However, it's best to verify this detail on the official website.
 
 ### Are there restrooms and cafes?
 Specific amenities may not be available at the site, so plan accordingly and consider nearby facilities in Ober-Bessingen or Lich.

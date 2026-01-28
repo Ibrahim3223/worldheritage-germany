@@ -74,7 +74,7 @@ While exploring the area around St. Cäcilia, several nearby attractions can enh
 
 For those planning to visit St. Cäcilia, consider bringing a camera to capture the architectural details of the church. Early mornings or late afternoons tend to be less crowded, providing an opportunity for quieter reflection and better lighting for photographs. 
 
-If you’re interested in engaging with the community, try to align your visit with local events or services, as these occasions can provide unique insights into the church’s role in daily life. 
+If you're interested in engaging with the community, try to align your visit with local events or services, as these occasions can provide unique insights into the church's role in daily life. 
 
 ## Practical Information
 

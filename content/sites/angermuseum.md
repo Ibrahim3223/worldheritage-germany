@@ -34,7 +34,7 @@ As a focal point for artistic expression and historical narrative, the Angermuse
 
 The Angermuseum is not only a museum but also a custodian of Erfurt's cultural identity. The institution has played a crucial role in the narrative of the city, showcasing its evolution through art and artifacts. While specific dates may not be detailed, the establishment of the museum marks a significant moment in Erfurt's commitment to preserving its artistic and historical legacy.
 
-Throughout its history, the Angermuseum has hosted numerous exhibitions that highlight both local artists and significant movements in the broader context of German art. The museum serves as a platform for contemporary artists, further emphasizing its relevance in today’s cultural discourse. This commitment to showcasing a diverse range of artistic expressions contributes to the cultural richness of Erfurt, making the museum a vital resource for understanding the area's artistic heritage.
+Throughout its history, the Angermuseum has hosted numerous exhibitions that highlight both local artists and significant movements in the broader context of German art. The museum serves as a platform for contemporary artists, further emphasizing its relevance in today's cultural discourse. This commitment to showcasing a diverse range of artistic expressions contributes to the cultural richness of Erfurt, making the museum a vital resource for understanding the area's artistic heritage.
 
 The museum's significance extends beyond its walls; it acts as a gathering place for the community, encouraging dialogue and appreciation for the arts. By providing educational programs and special events, the Angermuseum fosters an environment where art is accessible to all, thereby enriching the local community and attracting visitors interested in cultural exploration.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Angermuseum, here are a few practical consi
 Most visitors spend around two to three hours at the Angermuseum, allowing ample time to explore the exhibits and enjoy the atmosphere.
 
 ### Is photography allowed?
-Photography policies can vary, so it is best to check the museum’s guidelines upon arrival. Some exhibits may restrict photography to protect the artworks.
+Photography policies can vary, so it is best to check the museum's guidelines upon arrival. Some exhibits may restrict photography to protect the artworks.
 
 ### Are there guided tours?
 The Angermuseum may offer guided tours, providing deeper insights into the collections and their significance. Check the official website for details on availability and scheduling.

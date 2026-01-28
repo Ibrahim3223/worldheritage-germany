@@ -28,7 +28,7 @@ image_srcset:
 
 The Zeiss Major Planetarium in Prenzlauer Berg, Berlin, is a remarkable venue that combines the wonders of astronomy with state-of-the-art cinematic technology. Located in the vibrant district of Pankow, this planetarium serves as a hub for astronomy enthusiasts and casual visitors alike, inviting them to explore the cosmos from the comfort of their seats. With its impressive dome and advanced projection systems, the planetarium offers a unique way to experience the universe, making it a significant educational and cultural landmark in the city.
 
-As one of the notable institutions within Berlin’s rich tapestry of cultural offerings, the Zeiss Major Planetarium stands out for its commitment to popularizing science and engaging the public with the mysteries of space. Visitors can expect a diverse range of shows, from educational documentaries to immersive astronomical presentations, all designed to inspire curiosity about the universe. Whether you're a family looking for a fun day out or an individual with a passion for astronomy, the planetarium promises an enlightening experience that blends entertainment with education.
+As one of the notable institutions within Berlin's rich tapestry of cultural offerings, the Zeiss Major Planetarium stands out for its commitment to popularizing science and engaging the public with the mysteries of space. Visitors can expect a diverse range of shows, from educational documentaries to immersive astronomical presentations, all designed to inspire curiosity about the universe. Whether you're a family looking for a fun day out or an individual with a passion for astronomy, the planetarium promises an enlightening experience that blends entertainment with education.
 
 ## History and Significance
 

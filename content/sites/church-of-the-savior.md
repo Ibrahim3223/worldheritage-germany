@@ -44,7 +44,7 @@ Architecturally, the Church of the Savior encapsulates the characteristics commo
 
 Visitors will notice the church's notable features, which may include intricate stained glass windows, a prominent steeple, and a spacious interior designed to accommodate both congregational worship and community events. The use of natural light within the church enhances the spiritual ambiance, creating a serene environment that encourages reflection and contemplation.
 
-The church’s design elements often incorporate symbolic meanings, which can be appreciated during a visit. The overall aesthetic of the building invites exploration, and the details in its architecture reveal layers of history and purpose that contribute to its significance as a place of worship and community gathering.
+The church's design elements often incorporate symbolic meanings, which can be appreciated during a visit. The overall aesthetic of the building invites exploration, and the details in its architecture reveal layers of history and purpose that contribute to its significance as a place of worship and community gathering.
 
 ## Visiting Information
 
@@ -101,7 +101,7 @@ The church is designed to be accessible, but it's best to check the official web
 Check the official website for details regarding tickets and any potential online purchasing options.
 
 ### Are there restrooms and cafes?
-Visitor facilities may include restrooms, but for cafes or dining options, it’s advisable to explore nearby areas.
+Visitor facilities may include restrooms, but for cafes or dining options, it's advisable to explore nearby areas.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of worship. 

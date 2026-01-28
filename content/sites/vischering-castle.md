@@ -52,7 +52,7 @@ Visiting Vischering Castle offers an opportunity to immerse oneself in both hist
 
 Upon arrival, expect to encounter not only the castle itself but also the surrounding grounds, which are ideal for leisurely strolls. A visit typically lasts a few hours, allowing ample time to explore the castle's features, learn about its history, and enjoy the scenic views of the surrounding landscape.
 
-The best times to visit Vischering Castle are during the spring and summer months when the weather is pleasant, and the gardens are in full bloom. However, the castle’s charm is evident year-round, making it a worthwhile destination regardless of the season. Be sure to check for any special events or exhibitions that might be taking place during your visit.
+The best times to visit Vischering Castle are during the spring and summer months when the weather is pleasant, and the gardens are in full bloom. However, the castle's charm is evident year-round, making it a worthwhile destination regardless of the season. Be sure to check for any special events or exhibitions that might be taking place during your visit.
 
 ## Nearby Attractions
 

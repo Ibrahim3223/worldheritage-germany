@@ -76,11 +76,11 @@ Langwedel is surrounded by several attractions that enhance the visitor experien
 
 For the best photographic opportunities, consider visiting Langwedel Town Hall during the early morning or late afternoon when natural light enhances the building's features. Avoid peak hours to capture the structure without crowds, allowing for uninterrupted photography.
 
-If you’re keen on engaging with local residents, visit during community events when the town hall is bustling with activity. This can provide a more authentic experience of the town's culture and community spirit.
+If you're keen on engaging with local residents, visit during community events when the town hall is bustling with activity. This can provide a more authentic experience of the town's culture and community spirit.
 
 ## Practical Information
 
-When visiting Langwedel Town Hall, it’s a good idea to bring a camera to capture the intriguing architectural details. Dress comfortably, especially if you plan to explore the surrounding area or attend local events.
+When visiting Langwedel Town Hall, it's a good idea to bring a camera to capture the intriguing architectural details. Dress comfortably, especially if you plan to explore the surrounding area or attend local events.
 
 Seasonal considerations may influence your visit, with spring and summer being particularly pleasant for outdoor exploration. However, each season brings its own charm to the town, so any time of year can be rewarding.
 

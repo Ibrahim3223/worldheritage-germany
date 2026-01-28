@@ -80,7 +80,7 @@ Consider checking for any seasonal events or exhibitions that may coincide with 
 A typical visit to Rittergut Etzdorf lasts between one to two hours, allowing sufficient time to explore the manor and its surroundings.
 
 ### Is photography allowed?
-While specific policies may vary, photography is generally permitted. It’s advisable to check for any restrictions upon arrival.
+While specific policies may vary, photography is generally permitted. It's advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and significance of Rittergut Etzdorf. Check the official website for details.

@@ -48,7 +48,7 @@ The layout of a traditional movie theater often includes a large screening room,
 
 As visitors approach the Union-Theater-Lichtspiele, they may notice the remnants of façade decorations and architectural nuances that tell stories of its past. The design likely incorporates elements that were popular in the era of its prime operation, showcasing the artistic influences of the time.
 
-While the theater's operational history may have concluded, the structure itself remains a significant architectural piece in Dresden’s urban landscape. The careful preservation of such buildings is crucial for maintaining the city's historical narrative and architectural diversity.
+While the theater's operational history may have concluded, the structure itself remains a significant architectural piece in Dresden's urban landscape. The careful preservation of such buildings is crucial for maintaining the city's historical narrative and architectural diversity.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ For those looking to optimize their experience, consider visiting during weekday
 
 Dresden is replete with attractions that complement a visit to the Union-Theater-Lichtspiele. Here are a few noteworthy places to explore nearby:
 
-1. **Dresden Frauenkirche**: This iconic church is a stunning example of Baroque architecture and a symbol of the city’s resilience. Its dome offers a remarkable viewpoint of Dresden.
+1. **Dresden Frauenkirche**: This iconic church is a stunning example of Baroque architecture and a symbol of the city's resilience. Its dome offers a remarkable viewpoint of Dresden.
 
 2. **Zwinger Palace**: A masterpiece of Baroque architecture, the Zwinger houses several museums, including the Old Masters Gallery, making it a rich cultural destination.
 
@@ -70,7 +70,7 @@ Dresden is replete with attractions that complement a visit to the Union-Theater
 
 4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade along the Elbe River provides stunning views and a lovely place to stroll.
 
-5. **Dresden Castle**: This historic castle complex showcases a variety of architectural styles and houses several museums, offering insights into the city’s royal past.
+5. **Dresden Castle**: This historic castle complex showcases a variety of architectural styles and houses several museums, offering insights into the city's royal past.
 
 ## Insider Tips
 

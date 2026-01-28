@@ -79,7 +79,7 @@ Seasonal considerations are also important; spring and autumn can provide a more
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes about one to two hours, allowing time to engage with the exhibits and reflect on the memorial’s significance.
+A visit typically takes about one to two hours, allowing time to engage with the exhibits and reflect on the memorial's significance.
 
 ### Is photography allowed?
 Photography is generally permitted, but visitors should be mindful of the memorial's somber nature and the atmosphere of reflection.

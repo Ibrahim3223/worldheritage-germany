@@ -38,7 +38,7 @@ The architecture of the Freilandstation des Mesolithikums is representative of t
 
 Visitors to the site can expect to observe remnants of these fortifications, which illustrate the construction techniques and materials available during the Mesolithic era. The site is a static yet thought-provoking representation of how early communities adapted their living spaces in response to their environment and social dynamics. 
 
-Archaeological excavations may reveal additional features, such as storage pits or habitation structures, which offer further insight into the daily lives of the people who once inhabited this site. The fortification’s strategic location would have played a crucial role in its function, allowing for surveillance of the surrounding landscape and providing a secure refuge for its inhabitants.
+Archaeological excavations may reveal additional features, such as storage pits or habitation structures, which offer further insight into the daily lives of the people who once inhabited this site. The fortification's strategic location would have played a crucial role in its function, allowing for surveillance of the surrounding landscape and providing a secure refuge for its inhabitants.
 
 ## Visiting Information
 
@@ -75,13 +75,13 @@ When preparing for your visit to the Freilandstation des Mesolithikums, keep the
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes around 1.5 to 2 hours, allowing time for exploration and reflection on the site’s significance.
+A visit typically takes around 1.5 to 2 hours, allowing time for exploration and reflection on the site's significance.
 
 ### Is photography allowed?
 Yes, photography is permitted, but be sure to respect any guidelines set by the site to protect archaeological integrity.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may enhance your understanding of the site’s history and significance.
+Check the official website for information on guided tours, which may enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and early autumn months when the weather is pleasant for outdoor exploration.

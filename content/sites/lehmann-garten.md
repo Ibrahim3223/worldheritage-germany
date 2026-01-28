@@ -32,7 +32,7 @@ Lehmann-Garten is a botanical garden located in Templin, Germany, serving as a v
 
 While specific historical details about Lehmann-Garten are limited, botanical gardens have long served as critical institutions for plant conservation, education, and research. They often reflect the environmental diversity of their regions and promote awareness about the significance of preserving plant species. In this context, Lehmann-Garten is part of a broader tradition of botanical gardens in Germany, which date back to the Renaissance and the Enlightenment when interest in botany and horticulture flourished. These gardens have historically contributed to scientific research, aiding in the classification and study of plants, while also serving as recreational spaces for the public.
 
-Lehmann-Garten’s significance can be seen in its commitment to showcasing a variety of plant species, highlighting the importance of biodiversity. The garden serves as an educational platform, teaching visitors about different plant types and their ecological roles. Although the specifics of its founding are not available, the garden is likely designed to inspire appreciation for nature and encourage sustainable practices, echoing the goals of many botanical gardens worldwide.
+Lehmann-Garten's significance can be seen in its commitment to showcasing a variety of plant species, highlighting the importance of biodiversity. The garden serves as an educational platform, teaching visitors about different plant types and their ecological roles. Although the specifics of its founding are not available, the garden is likely designed to inspire appreciation for nature and encourage sustainable practices, echoing the goals of many botanical gardens worldwide.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Notable features of the garden may include themed sections, such as those dedica
 
 Getting to Lehmann-Garten is typically straightforward, with various transportation options available. Depending on your starting point, check local transport services for the most convenient routes. 
 
-Before planning your visit, it’s wise to check the official website for current information on hours and ticket prices, as these can vary throughout the year. Visitors can expect to spend a leisurely few hours exploring the garden, making it a perfect half-day excursion. For those keen on maximizing their experience, consider visiting during the spring or summer months when the garden is in full bloom, showcasing its vibrant plant life.
+Before planning your visit, it's wise to check the official website for current information on hours and ticket prices, as these can vary throughout the year. Visitors can expect to spend a leisurely few hours exploring the garden, making it a perfect half-day excursion. For those keen on maximizing their experience, consider visiting during the spring or summer months when the garden is in full bloom, showcasing its vibrant plant life.
 
 The garden is designed to be accessible, ensuring that everyone has the opportunity to enjoy its offerings. Be sure to bring comfortable walking shoes, as you will likely want to explore the various paths and sections of the garden thoroughly.
 
@@ -55,14 +55,14 @@ After visiting Lehmann-Garten, consider exploring other attractions in Templin a
 1. **Templin Town Center**: A charming area featuring historical architecture, quaint shops, and local eateries.
 2. **Templin Water Park**: A family-friendly destination offering swimming and various water activities, perfect for a fun day out.
 3. **Zehdenicker Canal**: A scenic spot for walking or cycling, providing lovely views and a chance to appreciate the natural surroundings.
-4. **Historic City Wall**: Explore the remnants of Templin’s medieval fortifications, which offer a glimpse into the town's past.
+4. **Historic City Wall**: Explore the remnants of Templin's medieval fortifications, which offer a glimpse into the town's past.
 5. **Nature Reserves**: Nearby natural areas provide opportunities for hiking and birdwatching, ideal for those looking to further immerse themselves in the region's beauty.
 
 ## Insider Tips
 
 For photography enthusiasts, early morning or late afternoon light can enhance your shots of the garden's vibrant plant life. The garden may be less crowded during these times, allowing for more peaceful exploration and better opportunities for capturing images without interruptions. 
 
-If you wish to avoid larger crowds, consider visiting on weekdays rather than weekends. This will provide a more intimate experience, allowing you to fully engage with the garden’s offerings.
+If you wish to avoid larger crowds, consider visiting on weekdays rather than weekends. This will provide a more intimate experience, allowing you to fully engage with the garden's offerings.
 
 ## Practical Information
 

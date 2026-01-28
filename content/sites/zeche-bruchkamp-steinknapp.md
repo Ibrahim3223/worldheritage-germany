@@ -66,7 +66,7 @@ Essen, a city rich in cultural offerings, is home to several attractions that co
 4. **Grugapark**: A large park that provides a tranquil escape with gardens, walking paths, and recreational areas, perfect for a leisurely stroll after visiting the mine.
 5. **Zeche Zollverein**: Another significant coal mine, this UNESCO World Heritage site offers a more extensive look at industrial history and is a great complement to your visit.
 
-These attractions highlight the diverse cultural landscape of Essen, making it easy to fill a day with rich experiences that reflect the city’s heritage.
+These attractions highlight the diverse cultural landscape of Essen, making it easy to fill a day with rich experiences that reflect the city's heritage.
 
 ## Insider Tips
 
@@ -105,7 +105,7 @@ For accessibility information, it is recommended to consult the official website
 Check the official website for information regarding ticket sales, including online purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but it’s wise to check the official website for the most current information. Nearby cafes may also offer food and refreshments.
+Facilities such as restrooms may be available on-site, but it's wise to check the official website for the most current information. Nearby cafes may also offer food and refreshments.
 
 ### What should I wear?
 Wear comfortable clothing and shoes fit for walking, and be prepared for varying weather conditions depending on the season of your visit.

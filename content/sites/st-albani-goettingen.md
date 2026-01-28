@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Albani Church in Göttingen, Germany, is a remarkable ecclesiastical building that stands as a focal point in the city's cultural and historical landscape. With its long-standing presence, this church has not only served as a place of worship but also as a significant landmark for both locals and visitors. Positioned in a vibrant university town known for its academic heritage, St. Albani complements the city’s intellectual atmosphere, making it a must-visit for those exploring the area. 
+St. Albani Church in Göttingen, Germany, is a remarkable ecclesiastical building that stands as a focal point in the city's cultural and historical landscape. With its long-standing presence, this church has not only served as a place of worship but also as a significant landmark for both locals and visitors. Positioned in a vibrant university town known for its academic heritage, St. Albani complements the city's intellectual atmosphere, making it a must-visit for those exploring the area. 
 
 The church is a testament to the architectural and spiritual evolution seen throughout Göttingen's history. Its significance transcends mere aesthetics, embodying centuries of religious practices and community gatherings. As you approach the church, you will find it seamlessly integrated into the urban fabric, inviting you to delve into its storied past and appreciate its unique character.
 
@@ -66,7 +66,7 @@ While St. Albani Church is a significant destination in itself, a visit to Gött
 
 3. **Botanical Garden**: A tranquil space filled with diverse plant species, providing a peaceful retreat for visitors to enjoy nature's beauty.
 
-4. **St. Jacob’s Church**: Another historic church in Göttingen, known for its impressive architecture and rich history.
+4. **St. Jacob's Church**: Another historic church in Göttingen, known for its impressive architecture and rich history.
 
 5. **Bismarck Tower**: Located on a nearby hill, this observation tower offers a panoramic view of the city and surrounding areas, ideal for a leisurely hike.
 

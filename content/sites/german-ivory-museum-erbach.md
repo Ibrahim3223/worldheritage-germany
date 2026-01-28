@@ -72,7 +72,7 @@ While the German Ivory Museum Erbach is a highlight in itself, the surrounding a
 
 ## Insider Tips
 
-For those planning to visit the German Ivory Museum Erbach, consider bringing a camera to capture the stunning details of the ivory pieces. However, be sure to check the museum’s photography policy to ensure compliance. 
+For those planning to visit the German Ivory Museum Erbach, consider bringing a camera to capture the stunning details of the ivory pieces. However, be sure to check the museum's photography policy to ensure compliance. 
 
 To avoid crowds, it is advisable to visit during the early hours of operation or on weekdays. This can result in a more personal experience as you navigate the exhibits at your own pace. Engaging with the museum staff can also enrich your visit, as they often have valuable insights and can provide context to the pieces on display.
 
@@ -88,7 +88,7 @@ Seasonal considerations may also play a role in your visit; spring and autumn of
 Visitors typically spend 1-2 hours exploring the exhibits, depending on their level of interest.
 
 ### Is photography allowed?
-Photography policies may vary; check the museum’s guidelines for specific rules regarding cameras and flash photography.
+Photography policies may vary; check the museum's guidelines for specific rules regarding cameras and flash photography.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for availability and scheduling.

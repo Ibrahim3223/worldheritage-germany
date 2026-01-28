@@ -22,7 +22,7 @@ images:
 
 The Deutsches Adelsarchiv is a significant foundation located in Marburg, Germany, dedicated to the preservation and study of German noble heritage. This institution serves as a vital resource for researchers, genealogists, and anyone interested in the historical narratives of the German aristocracy. With its commitment to documenting noble lineage and maintaining archives, the Deutsches Adelsarchiv plays a crucial role in safeguarding the cultural identity of Germany's noble families. As visitors explore the intricacies of nobility in German history, they will encounter a wealth of information that reflects the nation's aristocratic past and its impact on modern society.
 
-Located in the picturesque town of Marburg, known for its medieval architecture and vibrant academic atmosphere, the foundation is well-placed for those looking to delve deeper into the historical significance of the region. Marburg itself is a city steeped in history, offering a backdrop that enhances the experience of visiting the Deutsches Adelsarchiv. This guide will help you navigate the essential aspects of visiting this remarkable foundation, ensuring that your exploration of Germany’s noble heritage is both informative and engaging.
+Located in the picturesque town of Marburg, known for its medieval architecture and vibrant academic atmosphere, the foundation is well-placed for those looking to delve deeper into the historical significance of the region. Marburg itself is a city steeped in history, offering a backdrop that enhances the experience of visiting the Deutsches Adelsarchiv. This guide will help you navigate the essential aspects of visiting this remarkable foundation, ensuring that your exploration of Germany's noble heritage is both informative and engaging.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ As you prepare for your visit, consider the type of research or exploration you 
 
 While visiting the Deutsches Adelsarchiv, take the opportunity to explore other nearby attractions that complement your historical journey:
 
-1. **Marburg Castle**: Overlooking the town, this castle offers stunning views and insights into the region’s history.
+1. **Marburg Castle**: Overlooking the town, this castle offers stunning views and insights into the region's history.
   
 2. **St. Elizabeth's Church**: A beautiful Gothic church known for its intricate architecture and historical significance.
 
@@ -88,7 +88,7 @@ Seasonal considerations are important, as the weather can vary significantly thr
 While the duration of your visit may vary based on your interests, allocating a few hours is generally sufficient to explore the archive and its resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to confirm with the staff upon arrival.
+Photography policies may vary, so it's best to confirm with the staff upon arrival.
 
 ### Are there guided tours?
 Information about guided tours should be checked on the official website, as offerings may change.

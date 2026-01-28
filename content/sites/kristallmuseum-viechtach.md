@@ -86,7 +86,7 @@ To make the most of your visit to Kristallmuseum Viechtach, consider these insid
 
 When preparing for your visit to Kristallmuseum Viechtach, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you may spend a significant amount of time exploring the museum. It’s also wise to bring a water bottle to stay hydrated during your visit.
+- **What to Bring**: Comfortable walking shoes are recommended, as you may spend a significant amount of time exploring the museum. It's also wise to bring a water bottle to stay hydrated during your visit.
 
 - **Seasonal Considerations**: Depending on the time of year, weather conditions may vary, so dress appropriately. If you plan to explore nearby outdoor attractions, layering your clothing can be beneficial.
 

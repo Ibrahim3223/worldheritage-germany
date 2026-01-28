@@ -28,11 +28,11 @@ image_srcset:
 
 Kirche Liepen stands as a remarkable example of ecclesiastical architecture in the Mecklenburg-Vorpommern region of Germany. This historic church building, located in the quaint village of Liepen, reflects the rich cultural heritage of the area, inviting visitors to explore its storied past and architectural beauty. The church not only serves as a place of worship but also as a focal point for community gatherings, embodying the spirit and resilience of the local populace. 
 
-Surrounded by the serene landscapes typical of northern Germany, Kirche Liepen offers a peaceful retreat for those seeking solace or a deeper understanding of the region’s religious and cultural history. Its significance extends beyond its physical structure, as it represents the traditions and values of the communities it serves. With its blend of historical importance and architectural charm, this church is a must-visit for anyone traveling through this picturesque area.
+Surrounded by the serene landscapes typical of northern Germany, Kirche Liepen offers a peaceful retreat for those seeking solace or a deeper understanding of the region's religious and cultural history. Its significance extends beyond its physical structure, as it represents the traditions and values of the communities it serves. With its blend of historical importance and architectural charm, this church is a must-visit for anyone traveling through this picturesque area.
 
 ## History and Significance
 
-Kirche Liepen's history is intertwined with the development of the village itself, serving as a testament to the community’s growth and evolution over the years. While specific historical dates and events may not be documented, the church is emblematic of the numerous ecclesiastical structures that have dotted the German landscape for centuries. These buildings often reflect the sociopolitical changes within the region, showcasing the impact of various historical movements, including the Reformation and the subsequent shifts in religious practices.
+Kirche Liepen's history is intertwined with the development of the village itself, serving as a testament to the community's growth and evolution over the years. While specific historical dates and events may not be documented, the church is emblematic of the numerous ecclesiastical structures that have dotted the German landscape for centuries. These buildings often reflect the sociopolitical changes within the region, showcasing the impact of various historical movements, including the Reformation and the subsequent shifts in religious practices.
 
 The church has played a vital role in the life of the village, serving not only as a spiritual center but also as a gathering place for important community events. Its presence is a reminder of the enduring faith and communal bonds that have characterized the people of Liepen. The architecture and layout of the church may reflect the influences of different architectural styles that have evolved over time, contributing to its unique character.
 
@@ -44,7 +44,7 @@ Kirche Liepen showcases traditional church architecture that is characteristic o
 
 The façade may feature intricately designed windows that allow natural light to filter into the worship space, creating an inviting atmosphere for congregants and visitors alike. Inside, the layout is expected to include a nave, possibly adorned with religious iconography and artwork that reflects the spiritual heritage of the area. 
 
-Noteworthy features of the church may include a well-preserved altar, pulpit, and possibly even a bell tower, which serve as focal points within the worship space. Each aspect of the church’s design contributes to its overall ambiance, making it a compelling destination for anyone interested in architecture and religious art.
+Noteworthy features of the church may include a well-preserved altar, pulpit, and possibly even a bell tower, which serve as focal points within the worship space. Each aspect of the church's design contributes to its overall ambiance, making it a compelling destination for anyone interested in architecture and religious art.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ Engaging with local residents can provide additional insights and stories about 
 
 ## Practical Information
 
-When preparing for your visit to Kirche Liepen, it’s essential to consider a few practicalities. Comfortable footwear is advisable, as you may want to explore the surrounding area as well. 
+When preparing for your visit to Kirche Liepen, it's essential to consider a few practicalities. Comfortable footwear is advisable, as you may want to explore the surrounding area as well. 
 
 Pack light but include essentials like a water bottle and perhaps a light snack, especially if you plan to spend time walking in nearby parks or exploring the village. 
 
@@ -92,7 +92,7 @@ Seasonal considerations can impact your experience. Summer months may offer plea
 A visit typically lasts around one hour, allowing time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for signage or inquire upon arrival.
+Photography policies can vary, so it's best to check for signage or inquire upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current offerings.

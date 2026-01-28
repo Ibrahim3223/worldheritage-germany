@@ -64,7 +64,7 @@ While visiting St. Oswald, there are several nearby attractions to enhance your 
 
 3. **The Town of Ellingen**: Immerse yourself in the local culture by exploring the charming streets, shops, and eateries that characterize this quaint town.
 
-4. **The Church of St. George**: Located nearby, this church offers additional architectural interest and is a testament to the region’s rich ecclesiastical heritage.
+4. **The Church of St. George**: Located nearby, this church offers additional architectural interest and is a testament to the region's rich ecclesiastical heritage.
 
 5. **Local Museums**: Check out any small local museums that might be present in the area, showcasing the history and culture of the Franconian region.
 

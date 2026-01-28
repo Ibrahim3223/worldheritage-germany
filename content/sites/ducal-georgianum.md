@@ -36,7 +36,7 @@ As you walk through its halls, you will find yourself immersed in an atmosphere 
 
 The Ducal Georgianum has a storied background that is intertwined with the cultural and educational evolution of Munich. As a seminary, it has played a vital role in the training of clergy and the development of theological thought in the region. While specific dates of establishment and significant events may not be readily available, the institution's influence on religious education is widely recognized.
 
-The seminary has historically served as a place for rigorous academic pursuit, shaping the moral and spiritual leaders of the community. It has been a center for the exchange of ideas and the cultivation of virtues that are essential for ecclesiastical leadership. The Ducal Georgianum’s significance extends beyond its walls; it has contributed to the broader spiritual and intellectual landscape of Bavaria and Germany as a whole.
+The seminary has historically served as a place for rigorous academic pursuit, shaping the moral and spiritual leaders of the community. It has been a center for the exchange of ideas and the cultivation of virtues that are essential for ecclesiastical leadership. The Ducal Georgianum's significance extends beyond its walls; it has contributed to the broader spiritual and intellectual landscape of Bavaria and Germany as a whole.
 
 The institution also reflects the changing dynamics of religious education in response to societal needs. Throughout its existence, the Ducal Georgianum has adapted to the evolving context of faith and culture, making it a dynamic entity within the Munich educational framework. Visitors can appreciate how this adaptability has allowed the seminary to remain relevant in the modern age, continuing its mission of fostering knowledge and spiritual growth.
 
@@ -46,7 +46,7 @@ The architectural design of the Ducal Georgianum is emblematic of the scholarly 
 
 Inside, the museum may house various artifacts and exhibits that illustrate the rich academic heritage of the seminary. The spaces are probably designed to facilitate both study and reflection, providing an environment conducive to learning. Visitors can explore rooms that may feature historical documents, educational materials, and other items that represent the seminary's long-standing commitment to theological education.
 
-The surrounding area of the Ducal Georgianum is likely to complement its historical and educational mission, with architecture that harmonizes with the broader aesthetic of Munich. This integration with the city’s architectural landscape enhances the overall experience of visiting the museum, allowing guests to appreciate not only the institution itself but also its place within the larger context of Munich’s heritage.
+The surrounding area of the Ducal Georgianum is likely to complement its historical and educational mission, with architecture that harmonizes with the broader aesthetic of Munich. This integration with the city's architectural landscape enhances the overall experience of visiting the museum, allowing guests to appreciate not only the institution itself but also its place within the larger context of Munich's heritage.
 
 ## Visiting Information
 
@@ -63,10 +63,10 @@ The Ducal Georgianum is conveniently located near several other attractions that
 1. **Munich Residenz**: A former royal palace of the Bavarian monarchs, offering a glimpse into the opulent lifestyle of past rulers.
 2. **St. Peter's Church (Peterskirche)**: An iconic Munich church known for its impressive tower and stunning views of the city from its observation deck.
 3. **Marienplatz**: The central square of Munich, surrounded by historic buildings, shops, and restaurants, making it a vibrant hub of activity.
-4. **Viktualienmarkt**: A bustling food market where you can sample local delicacies and purchase fresh produce, reflecting Munich’s culinary culture.
+4. **Viktualienmarkt**: A bustling food market where you can sample local delicacies and purchase fresh produce, reflecting Munich's culinary culture.
 5. **Deutsches Museum**: The world's largest museum of science and technology, showcasing innovations and historical developments across various fields.
 
-These nearby attractions provide a well-rounded experience, allowing visitors to explore Munich’s rich cultural and historical landscape.
+These nearby attractions provide a well-rounded experience, allowing visitors to explore Munich's rich cultural and historical landscape.
 
 ## Insider Tips
 

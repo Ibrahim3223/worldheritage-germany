@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Ursulinertor, a prominent city gate located in Aachen, Germany, serves as a significant historical landmark that reflects the architectural grandeur and cultural heritage of the region. Erected as part of Aachen's medieval fortifications, this gate not only marks the entrance to the old town but also stands as a connection to the city’s storied past. With its strategic location, Ursulinertor has witnessed centuries of change, serving as a crucial point of access for trade, defense, and community life. Visitors to this historic site can expect to engage with a piece of architecture that has both historical importance and aesthetic appeal, making it a worthwhile stop for anyone exploring the rich tapestry of Aachen.
+Ursulinertor, a prominent city gate located in Aachen, Germany, serves as a significant historical landmark that reflects the architectural grandeur and cultural heritage of the region. Erected as part of Aachen's medieval fortifications, this gate not only marks the entrance to the old town but also stands as a connection to the city's storied past. With its strategic location, Ursulinertor has witnessed centuries of change, serving as a crucial point of access for trade, defense, and community life. Visitors to this historic site can expect to engage with a piece of architecture that has both historical importance and aesthetic appeal, making it a worthwhile stop for anyone exploring the rich tapestry of Aachen.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Ursulinertor is characterized by its robust medieval architectural style tha
 
 While specific architectural details may vary, the gate typically showcases elements common to medieval fortifications, including crenellations and a sturdy, imposing facade. Visitors can observe how the gate integrates with the surrounding urban landscape, standing as a historical anchor amidst the modern city.
 
-One of the notable features of Ursulinertor is its strategic location. Positioned to facilitate traffic into the city, it serves as a reminder of the importance of city gates in maintaining security and regulating trade. The gate’s design often reflects local building traditions and materials, which adds to its cultural significance.
+One of the notable features of Ursulinertor is its strategic location. Positioned to facilitate traffic into the city, it serves as a reminder of the importance of city gates in maintaining security and regulating trade. The gate's design often reflects local building traditions and materials, which adds to its cultural significance.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ Aachen is home to several attractions that complement a visit to the Ursulinerto
   
 3. **Centre Charlemagne**: This museum dedicated to the history of Aachen offers insights into the life of Charlemagne and the city's evolution through the ages.
 
-4. **Aachen Town Hall**: A striking example of Gothic architecture, this town hall is a pivotal piece of the city’s history and hosts numerous exhibitions and events throughout the year.
+4. **Aachen Town Hall**: A striking example of Gothic architecture, this town hall is a pivotal piece of the city's history and hosts numerous exhibitions and events throughout the year.
 
 5. **Spa Gardens**: Located near the city center, these tranquil gardens provide a perfect spot for relaxation and reflection after exploring the historical sites.
 

@@ -95,7 +95,7 @@ Check the official website for current information regarding accessibility optio
 There may be options for online ticket purchases or reservations. Check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to bring your own supplies. Check the official website for specific amenities available on-site.
+Facilities may be limited, so it's advisable to bring your own supplies. Check the official website for specific amenities available on-site.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor activities, and sturdy footwear is essential for exploring the trails.

@@ -34,7 +34,7 @@ With its striking architecture and dynamic programming, Staatstheater Kassel pro
 
 ## History and Significance
 
-Staatstheater Kassel has a storied past that intertwines with the cultural development of the city itself. While specific dates and events may not be documented, the theatre's establishment is rooted in a long-standing tradition of performance art in Germany. The theatre has been integral to Kassel’s cultural identity, serving as a venue for both renowned productions and experimental works. 
+Staatstheater Kassel has a storied past that intertwines with the cultural development of the city itself. While specific dates and events may not be documented, the theatre's establishment is rooted in a long-standing tradition of performance art in Germany. The theatre has been integral to Kassel's cultural identity, serving as a venue for both renowned productions and experimental works. 
 
 Throughout its history, Staatstheater Kassel has hosted a range of performances, including operas, ballet, and theatrical productions, contributing to the richness of the local arts scene. The theatre has become a platform for both established and emerging artists, reflecting the evolving tastes and interests of its audiences. This adaptability to the changing landscape of performance art has helped maintain its relevance and significance in the cultural fabric of Kassel.
 
@@ -74,7 +74,7 @@ While Staatstheater Kassel is a destination in itself, the surrounding area is h
 
 4. **Grimmwelt Kassel**: This museum dedicated to the Brothers Grimm is an engaging visit for those interested in literature and folklore. It provides insight into the lives and works of these iconic figures.
 
-5. **Kassel’s City Center**: Exploring the city center provides opportunities for shopping, dining, and experiencing local culture. The area is vibrant and showcases the everyday life of Kassel’s residents.
+5. **Kassel's City Center**: Exploring the city center provides opportunities for shopping, dining, and experiencing local culture. The area is vibrant and showcases the everyday life of Kassel's residents.
 
 These nearby attractions make for an enriching experience, allowing visitors to immerse themselves in the cultural and historical context of Kassel.
 
@@ -82,7 +82,7 @@ These nearby attractions make for an enriching experience, allowing visitors to 
 
 To make the most of your visit to Staatstheater Kassel, consider the following tips:
 
-- **Photography**: While photography may be restricted during performances, feel free to capture the beauty of the theatre’s exterior and lobby before the show starts. Check for any specific photography policies.
+- **Photography**: While photography may be restricted during performances, feel free to capture the beauty of the theatre's exterior and lobby before the show starts. Check for any specific photography policies.
 
 - **Crowd Avoidance**: If you prefer a less crowded experience, consider attending performances during weekdays or matinees when the audience is generally smaller.
 
@@ -112,7 +112,7 @@ The best time to visit can depend on the performance schedule. Weekdays or matin
 For specific accessibility information, check the official website to ensure the theatre meets your needs.
 
 ### Can I buy tickets online?
-Yes, tickets can typically be purchased online. It’s advisable to secure your tickets in advance, especially for popular performances.
+Yes, tickets can typically be purchased online. It's advisable to secure your tickets in advance, especially for popular performances.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are usually available at the theatre. Check the official website for details on amenities.

@@ -28,9 +28,9 @@ Situated in the vibrant city of Munich, known for its rich cultural scene and hi
 
 The Katholische Stiftungshochschule München holds a crucial place in the landscape of German higher education. Established with the aim of integrating Catholic values with modern educational practices, the foundation has evolved to address the changing needs of students and society. Its development is rooted in the historical context of Catholic education in Germany, which has long been associated with the promotion of moral and ethical considerations alongside academic learning.
 
-As a state-recognized institution, the foundation adheres to rigorous academic standards while fostering an environment conducive to personal growth. It emphasizes social responsibility and ethical leadership, preparing students not just for professional success but also for active participation in their communities. The institution’s programs are designed to equip graduates with both theoretical knowledge and practical skills, ensuring they are well-prepared for the challenges of the modern world.
+As a state-recognized institution, the foundation adheres to rigorous academic standards while fostering an environment conducive to personal growth. It emphasizes social responsibility and ethical leadership, preparing students not just for professional success but also for active participation in their communities. The institution's programs are designed to equip graduates with both theoretical knowledge and practical skills, ensuring they are well-prepared for the challenges of the modern world.
 
-The foundation’s commitment to inclusivity and diversity further enhances its significance. By welcoming students from various backgrounds, it promotes a rich exchange of ideas and perspectives, contributing to a more comprehensive educational experience. The Katholische Stiftungshochschule München is not merely an educational establishment; it is a vibrant community where values, knowledge, and social awareness converge.
+The foundation's commitment to inclusivity and diversity further enhances its significance. By welcoming students from various backgrounds, it promotes a rich exchange of ideas and perspectives, contributing to a more comprehensive educational experience. The Katholische Stiftungshochschule München is not merely an educational establishment; it is a vibrant community where values, knowledge, and social awareness converge.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ While specific visiting hours and admission prices are not detailed, it is advis
 
 The best times to visit often align with the academic calendar, particularly during open house events or public lectures. These occasions provide an opportunity to interact with faculty and students, gaining deeper insights into the foundation's programs and ethos. 
 
-When visiting, be prepared for a dynamic environment where academic discussions and community engagement are at the forefront. The foundation’s commitment to fostering a supportive educational atmosphere is evident in its daily operations.
+When visiting, be prepared for a dynamic environment where academic discussions and community engagement are at the forefront. The foundation's commitment to fostering a supportive educational atmosphere is evident in its daily operations.
 
 ## Nearby Attractions
 
@@ -56,11 +56,11 @@ The area surrounding the Katholische Stiftungshochschule München offers several
 
 1. **Munich City Center**: Just a short distance away, the vibrant heart of Munich features historic architecture, bustling markets, and a variety of cultural institutions.
 
-2. **Englischer Garten**: This expansive public park is one of the largest urban parks in the world, offering scenic walking paths, traditional beer gardens, and a peaceful retreat from the city’s hustle and bustle.
+2. **Englischer Garten**: This expansive public park is one of the largest urban parks in the world, offering scenic walking paths, traditional beer gardens, and a peaceful retreat from the city's hustle and bustle.
 
 3. **Deutsches Museum**: Located nearby, this museum is dedicated to science and technology, showcasing a vast array of exhibits that appeal to visitors of all ages.
 
-4. **Nymphenburg Palace**: A short journey from the foundation, this stunning baroque palace and its gardens provide insights into Bavaria’s royal history and are a delightful place for a leisurely stroll.
+4. **Nymphenburg Palace**: A short journey from the foundation, this stunning baroque palace and its gardens provide insights into Bavaria's royal history and are a delightful place for a leisurely stroll.
 
 5. **Theresienwiese**: Known for hosting the annual Oktoberfest, this large open space is also a venue for various events and festivals throughout the year, making it a lively area to explore.
 
@@ -72,7 +72,7 @@ For a fruitful visit to the Katholische Stiftungshochschule München, consider t
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, plan your visit during weekdays when student activities may be less crowded. Early mornings or late afternoons can also be quieter.
 
-- **Engagement**: Participate in any open lectures or community events that may coincide with your visit. These opportunities allow for deeper engagement with the foundation’s mission and values.
+- **Engagement**: Participate in any open lectures or community events that may coincide with your visit. These opportunities allow for deeper engagement with the foundation's mission and values.
 
 ## Practical Information
 

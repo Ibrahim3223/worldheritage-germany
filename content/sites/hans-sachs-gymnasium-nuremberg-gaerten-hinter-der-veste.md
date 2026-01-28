@@ -36,7 +36,7 @@ Hans-Sachs-Gymnasium holds a prominent position in the educational landscape of 
 
 The school is named after Hans Sachs, a prominent Nuremberg poet and playwright, best known for his connection to the Meistersinger tradition. By adopting his name, the gymnasium underscores the importance of cultural and artistic education alongside academic rigor. This connection to a historical figure adds layers of meaning to the school, as it promotes values of creativity, critical thinking, and community engagement.
 
-The significance of Hans-Sachs-Gymnasium extends beyond its educational mission. It symbolizes Nuremberg's commitment to fostering intellectual growth and civic responsibility. As a part of the city’s educational institutions, it plays a role in shaping the future of its students and reflects the historical importance of the area as a center of learning. The school's establishment and ongoing operation highlight the community's dedication to nurturing the young minds that will contribute to society.
+The significance of Hans-Sachs-Gymnasium extends beyond its educational mission. It symbolizes Nuremberg's commitment to fostering intellectual growth and civic responsibility. As a part of the city's educational institutions, it plays a role in shaping the future of its students and reflects the historical importance of the area as a center of learning. The school's establishment and ongoing operation highlight the community's dedication to nurturing the young minds that will contribute to society.
 
 ## Architecture and Features
 
@@ -50,9 +50,9 @@ Visitors to the school can expect to encounter a blend of classic and modern edu
 
 For those wishing to visit Hans-Sachs-Gymnasium, it is recommended to check the official website for current information regarding hours and admission prices. Being a functioning educational institution, access may be subject to certain restrictions, particularly during school hours or special events. 
 
-Transportation options to the gymnasium are typically convenient, with various public transport systems serving the Nuremberg area. Visitors can expect to spend a short period at the site, primarily for exploration and appreciation of the building’s significance. The best times to visit may vary, but weekdays may provide a quieter atmosphere compared to weekends when community activities might be more prevalent.
+Transportation options to the gymnasium are typically convenient, with various public transport systems serving the Nuremberg area. Visitors can expect to spend a short period at the site, primarily for exploration and appreciation of the building's significance. The best times to visit may vary, but weekdays may provide a quieter atmosphere compared to weekends when community activities might be more prevalent.
 
-Overall, a visit to Hans-Sachs-Gymnasium offers an opportunity to appreciate not only the architectural and educational aspects of the institution but also its role within the broader context of Nuremberg’s cultural heritage.
+Overall, a visit to Hans-Sachs-Gymnasium offers an opportunity to appreciate not only the architectural and educational aspects of the institution but also its role within the broader context of Nuremberg's cultural heritage.
 
 ## Nearby Attractions
 
@@ -61,10 +61,10 @@ When exploring the vicinity of Hans-Sachs-Gymnasium, several nearby attractions 
 1. **Nuremberg Castle**: A historic fortress that offers stunning views of the city and insights into Nuremberg's medieval past.
 2. **St. Lorenz Church**: A magnificent example of Gothic architecture, this church is known for its intricate stained glass and impressive interior.
 3. **Documentation Center Nazi Party Rally Grounds**: A museum that provides a critical look at the history of the Nazi regime and its impact on Nuremberg.
-4. **Nuremberg Old Town (Altstadt)**: A picturesque area filled with charming streets, shops, and eateries, showcasing the city’s rich history.
-5. **Albrecht Dürer’s House**: The former home of the famous Renaissance artist, now a museum dedicated to his life and work.
+4. **Nuremberg Old Town (Altstadt)**: A picturesque area filled with charming streets, shops, and eateries, showcasing the city's rich history.
+5. **Albrecht Dürer's House**: The former home of the famous Renaissance artist, now a museum dedicated to his life and work.
 
-These attractions provide a comprehensive experience of Nuremberg’s historical and cultural landscape, making your visit to Hans-Sachs-Gymnasium part of a larger exploration of the city.
+These attractions provide a comprehensive experience of Nuremberg's historical and cultural landscape, making your visit to Hans-Sachs-Gymnasium part of a larger exploration of the city.
 
 ## Insider Tips
 
@@ -77,7 +77,7 @@ To make the most of your visit to Hans-Sachs-Gymnasium, consider the following i
 
 When planning your visit to Hans-Sachs-Gymnasium, here are some practical considerations:
 
-- **What to Bring**: It’s wise to carry a camera for capturing the architecture, a notebook for jotting down thoughts, and perhaps a light jacket, as temperatures can vary.
+- **What to Bring**: It's wise to carry a camera for capturing the architecture, a notebook for jotting down thoughts, and perhaps a light jacket, as temperatures can vary.
 - **Seasonal Considerations**: Be mindful of seasonal changes, as Nuremberg experiences distinct seasons that may impact your visit. Spring and autumn are often particularly pleasant for exploring the city.
 
 ## Frequently Asked Questions
@@ -86,7 +86,7 @@ When planning your visit to Hans-Sachs-Gymnasium, here are some practical consid
 A visit to Hans-Sachs-Gymnasium typically lasts about an hour, allowing ample time to appreciate the architecture and surroundings.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check with the school upon arrival to ensure compliance with any restrictions.
+Photography policies may vary; it's best to check with the school upon arrival to ensure compliance with any restrictions.
 
 ### Are there guided tours?
 Information regarding guided tours can be found on the official website. Check ahead to see if any tours are available during your visit.

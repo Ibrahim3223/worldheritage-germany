@@ -50,7 +50,7 @@ The central feature of the Residence Ensemble is the ducal palace, which showcas
 
 Within the ensemble, one can discover various architectural details that highlight the artistry of the period. From ornate ceilings to elaborate staircases, every aspect of the design has been meticulously crafted. The interplay between light and space within the interiors creates an inviting atmosphere that encourages exploration.
 
-Notably, the ensemble’s gardens are an essential part of the experience, providing a tranquil space that contrasts with the opulence of the buildings. The gardens are designed to reflect the formal styles of the time, with neatly trimmed hedges, pathways, and fountains that enhance the aesthetic of the ensemble. 
+Notably, the ensemble's gardens are an essential part of the experience, providing a tranquil space that contrasts with the opulence of the buildings. The gardens are designed to reflect the formal styles of the time, with neatly trimmed hedges, pathways, and fountains that enhance the aesthetic of the ensemble. 
 
 ## Visiting Information
 

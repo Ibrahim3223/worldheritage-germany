@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Located in the picturesque region of Preußisch Oldendorf, Gut Groß-Engershausen is a manor house that embodies the historical and architectural essence of Germany's rural heritage. This elegant structure invites visitors to explore its rich past while enjoying the tranquil surroundings of the area. Known for its historical significance, Gut Groß-Engershausen serves as a reminder of the manor house tradition that flourished in various parts of Germany, showcasing the lifestyle of the nobility in centuries gone by. The manor’s location, with coordinates of 52.3131, 8.50528, positions it within a region that is both accessible and steeped in cultural narratives.
+Located in the picturesque region of Preußisch Oldendorf, Gut Groß-Engershausen is a manor house that embodies the historical and architectural essence of Germany's rural heritage. This elegant structure invites visitors to explore its rich past while enjoying the tranquil surroundings of the area. Known for its historical significance, Gut Groß-Engershausen serves as a reminder of the manor house tradition that flourished in various parts of Germany, showcasing the lifestyle of the nobility in centuries gone by. The manor's location, with coordinates of 52.3131, 8.50528, positions it within a region that is both accessible and steeped in cultural narratives.
 
 As a destination, Gut Groß-Engershausen promises a blend of historical exploration and serene landscapes. Visitors will find an atmosphere that encourages reflection on the lives once lived here, while also appreciating the architectural style that defines the manor. The charm of Gut Groß-Engershausen lies not only in its physical structure but also in the stories it holds within its walls, making it a compelling site for heritage enthusiasts and casual visitors alike.
 
@@ -58,7 +58,7 @@ Visitors to Gut Groß-Engershausen will find several nearby attractions that enh
 
 1. **Preußisch Oldendorf Town Center**: A charming area with local shops and eateries, reflecting the culture and daily life of the region.
 
-2. **St. John’s Church**: An architectural landmark that showcases the local history and community spirit.
+2. **St. John's Church**: An architectural landmark that showcases the local history and community spirit.
 
 3. **Historic Farms**: The surrounding countryside features traditional farms that offer insights into rural life and agricultural practices.
 
@@ -108,4 +108,4 @@ Facilities such as restrooms and cafes may be available; confirm this on the off
 ### What should I wear?
 Dress comfortably and appropriately for walking, considering the weather conditions of the day.
 
-In summary, Gut Groß-Engershausen serves as a significant heritage site within Preußisch Oldendorf, offering visitors a glimpse into the past through its architecture and cultural significance. Whether you are a history enthusiast or simply seeking a peaceful retreat, this manor house provides a unique opportunity to engage with Germany’s rich heritage.
+In summary, Gut Groß-Engershausen serves as a significant heritage site within Preußisch Oldendorf, offering visitors a glimpse into the past through its architecture and cultural significance. Whether you are a history enthusiast or simply seeking a peaceful retreat, this manor house provides a unique opportunity to engage with Germany's rich heritage.

@@ -36,7 +36,7 @@ Visitors to the Jewish-Medieval Heritage of Erfurt can expect an enlightening ex
 
 ## History and Significance
 
-The Jewish community in Erfurt dates back to the Middle Ages, flourishing from the 11th century onward. During this time, Erfurt became a significant hub for Jewish scholarship, commerce, and community life. The presence of Jewish merchants and scholars contributed to the city’s economic and cultural landscape, making it a crucial point of interaction between Jewish and Christian populations.
+The Jewish community in Erfurt dates back to the Middle Ages, flourishing from the 11th century onward. During this time, Erfurt became a significant hub for Jewish scholarship, commerce, and community life. The presence of Jewish merchants and scholars contributed to the city's economic and cultural landscape, making it a crucial point of interaction between Jewish and Christian populations.
 
 The community's significance is further emphasized by the construction of several important buildings, which stand as a reminder of their historical presence. One of the standout features is the Old Synagogue, which dates back to the early 13th century. This structure not only served as a place of worship but also housed a community center, highlighting its role in the social fabric of medieval Erfurt.
 
@@ -104,7 +104,7 @@ When preparing for your visit to the Jewish-Medieval Heritage of Erfurt, keep th
 Most visitors spend about two to three hours exploring the Jewish-Medieval Heritage of Erfurt, allowing ample time to appreciate the architecture and history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any restrictions or guidelines provided during your visit.
+Photography is generally permitted, but it's advisable to respect any restrictions or guidelines provided during your visit.
 
 ### Are there guided tours?
 Guided tours are often available, offering valuable insights into the history and significance of the site. Check the official website for details.

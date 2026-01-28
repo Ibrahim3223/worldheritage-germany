@@ -103,7 +103,7 @@ Check the official website for information regarding guided tours and any schedu
 Visiting during weekdays or early in the day can help avoid crowds and provide a more enriching experience.
 
 ### Is it wheelchair accessible?
-While specific accessibility features are not mentioned, it’s recommended to check the official website for detailed information on accessibility options.
+While specific accessibility features are not mentioned, it's recommended to check the official website for detailed information on accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for the most current information regarding ticket purchases and availability.

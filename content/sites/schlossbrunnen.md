@@ -62,9 +62,9 @@ Hannover is home to a variety of attractions that complement a visit to Schlossb
   
 2. **The Great Garden (Großer Garten)**: Located a short distance away, this historical garden is renowned for its meticulously landscaped grounds and baroque architecture, providing a beautiful setting for a leisurely walk.
 
-3. **Marktkirche**: This iconic church, known for its striking red-brick exterior, is a short stroll from the fountain and offers a glimpse into the city’s religious architecture.
+3. **Marktkirche**: This iconic church, known for its striking red-brick exterior, is a short stroll from the fountain and offers a glimpse into the city's religious architecture.
 
-4. **Lower Saxony State Museum**: A cultural hub that houses a diverse collection of art and artifacts, this museum is perfect for those looking to delve deeper into the region’s history.
+4. **Lower Saxony State Museum**: A cultural hub that houses a diverse collection of art and artifacts, this museum is perfect for those looking to delve deeper into the region's history.
 
 5. **Kestnergesellschaft**: An exhibition space dedicated to contemporary art, this gallery showcases works that challenge traditional boundaries and engage with modern themes.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays, as weekends tend to attract 
 
 ## Practical Information
 
-When visiting Schlossbrunnen, it is advisable to bring a water bottle, especially if you plan to spend time exploring the area. Comfortable walking shoes are recommended, as you may want to continue your journey through Hannover’s other attractions.
+When visiting Schlossbrunnen, it is advisable to bring a water bottle, especially if you plan to spend time exploring the area. Comfortable walking shoes are recommended, as you may want to continue your journey through Hannover's other attractions.
 
 Seasonal considerations are important as well; while the fountain is accessible year-round, spring and summer are ideal times for a visit. The warmer months often see the fountain in full flow, with the surrounding gardens and parks in bloom, creating a more inviting atmosphere.
 

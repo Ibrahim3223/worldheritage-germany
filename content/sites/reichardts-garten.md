@@ -86,7 +86,7 @@ When visiting Reichardts Garten, consider bringing a few essentials to enhance y
 
 Seasonal considerations can also play a role in your visit. Spring and summer offer a lush display of flowers, while autumn provides a vibrant palette of changing leaves. Be sure to check the weather forecast before your visit to dress appropriately.
 
-Lastly, don’t forget to bring water and perhaps a snack, especially if you plan to spend a couple of hours enjoying the garden's serene environment.
+Lastly, don't forget to bring water and perhaps a snack, especially if you plan to spend a couple of hours enjoying the garden's serene environment.
 
 ## Frequently Asked Questions
 

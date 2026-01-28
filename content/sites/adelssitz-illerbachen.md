@@ -72,7 +72,7 @@ To make the most of your visit to Adelssitz Illerbachen, consider the following 
 
 ## Practical Information
 
-Before heading to Adelssitz Illerbachen, it’s important to prepare adequately for your visit:
+Before heading to Adelssitz Illerbachen, it's important to prepare adequately for your visit:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the castle may involve uneven surfaces. Bringing water and snacks can enhance your experience, especially if you plan to spend a few hours on-site.
 
@@ -84,7 +84,7 @@ Before heading to Adelssitz Illerbachen, it’s important to prepare adequately 
 A visit to Adelssitz Illerbachen typically takes a few hours, allowing enough time to explore the castle and surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to observe any specific rules or restrictions that may be in place.
+Photography is generally permitted, but it's best to observe any specific rules or restrictions that may be in place.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may provide additional insights into the castle's history and architecture.

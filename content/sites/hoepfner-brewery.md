@@ -38,7 +38,7 @@ Events and tours organized by the brewery further enhance its cultural significa
 
 The architectural style of Hoepfner Brewery reflects the industrial heritage typical of brewing establishments, characterized by functional design elements that prioritize efficiency and utility. While detailed descriptions of specific architectural features may vary, the overall structure likely incorporates elements that highlight the brewery's operational needs, such as large fermentation tanks and ample storage facilities.
 
-Visitors are typically drawn to the brewery’s aesthetic appeal, which combines industrial functionality with a welcoming atmosphere. The interior spaces are designed to facilitate tours and tastings, offering an engaging environment where guests can observe the brewing process firsthand. Elements such as tasting rooms and visitor centers provide comfortable settings for patrons to savor the brewery’s offerings while learning about the brewing journey.
+Visitors are typically drawn to the brewery's aesthetic appeal, which combines industrial functionality with a welcoming atmosphere. The interior spaces are designed to facilitate tours and tastings, offering an engaging environment where guests can observe the brewing process firsthand. Elements such as tasting rooms and visitor centers provide comfortable settings for patrons to savor the brewery's offerings while learning about the brewing journey.
 
 In addition to the production areas, Hoepfner Brewery may feature outdoor spaces where guests can relax and enjoy their beverages. These areas often enhance the overall experience, allowing visitors to appreciate the ambiance of the brewery while socializing with friends or family.
 

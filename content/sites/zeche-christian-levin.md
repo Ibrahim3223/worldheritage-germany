@@ -72,7 +72,7 @@ To avoid crowds, aim to visit during weekdays or opt for early entry times. This
 
 When preparing for your visit to Zeche Christian Levin, be sure to dress comfortably, as you may be walking through uneven terrain. Sturdy footwear is recommended for navigating the site. Depending on the season, bring layers to accommodate changing temperatures, especially if you plan to explore outdoor areas.
 
-Additionally, it’s wise to carry water and snacks, as amenities may be limited at the site. Check the official website for any seasonal events or exhibitions that may require special preparations.
+Additionally, it's wise to carry water and snacks, as amenities may be limited at the site. Check the official website for any seasonal events or exhibitions that may require special preparations.
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ Additionally, it’s wise to carry water and snacks, as amenities may be limited
 A visit to Zeche Christian Levin typically lasts around two hours, allowing sufficient time to explore the site and engage with educational materials.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for specific regulations upon arrival.
+Photography is generally permitted, but it's advisable to check for specific regulations upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours is best confirmed through the official website, which may offer scheduled tours or educational programs.

@@ -34,7 +34,7 @@ In an age where the past continually shapes the present and future, the Library 
 
 The Library of Contemporary History is a notable part of the Württembergische Landesbibliothek Stuttgart, which has been dedicated to preserving and providing access to a wealth of knowledge. While specific historical milestones may not be documented here, the library's establishment reflects a growing recognition of the importance of contemporary history in the academic and public spheres.
 
-Cultural significance is a hallmark of this library, as it plays a crucial role in the preservation and dissemination of knowledge about modern history. The library’s collections are tailored to meet the needs of historians, students, and the public, ensuring that contemporary issues are well-documented and accessible for future generations. This focus on contemporary history allows for a nuanced understanding of the socio-political developments that have shaped the world in recent decades.
+Cultural significance is a hallmark of this library, as it plays a crucial role in the preservation and dissemination of knowledge about modern history. The library's collections are tailored to meet the needs of historians, students, and the public, ensuring that contemporary issues are well-documented and accessible for future generations. This focus on contemporary history allows for a nuanced understanding of the socio-political developments that have shaped the world in recent decades.
 
 The library's dedication to contemporary studies is particularly relevant in a time of rapid change and global interaction. By providing resources that cover various aspects of contemporary history, including political movements, social changes, and cultural shifts, the library supports critical research and informs public discussions. Visitors can engage with materials that highlight key events and figures, making it an essential stop for anyone interested in understanding the modern world.
 
@@ -103,7 +103,7 @@ Information about guided tours may be available on the official website; check t
 Weekdays, especially in the morning, tend to be less crowded, providing a more peaceful environment for research.
 
 ### Is it wheelchair accessible?
-Accessibility features should be confirmed by checking the library’s official website for the latest information.
+Accessibility features should be confirmed by checking the library's official website for the latest information.
 
 ### Can I buy tickets online?
 For any admission fees or special events, consult the official website to see if online purchasing is available.

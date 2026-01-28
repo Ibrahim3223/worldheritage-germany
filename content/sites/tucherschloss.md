@@ -78,7 +78,7 @@ When planning your visit to Tucherschloss, consider bringing a camera to capture
 A visit typically lasts between 1.5 to 2 hours, allowing sufficient time to explore the exhibits and appreciate the architecture.
 
 ### Is photography allowed?
-Photography policies may vary, so it is recommended to check the museum’s guidelines before your visit.
+Photography policies may vary, so it is recommended to check the museum's guidelines before your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

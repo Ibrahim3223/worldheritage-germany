@@ -40,7 +40,7 @@ The significance of St. Briccius extends beyond its religious function; it repre
 
 ## Architecture and Features
 
-The architectural style of St. Briccius showcases the influences of various periods and artistic movements that have shaped ecclesiastical architecture in Germany. While detailed specifics on the building’s design are not available, church buildings of this nature typically feature elements such as a prominent steeple, intricately designed facades, and stained-glass windows that depict biblical stories or local history.
+The architectural style of St. Briccius showcases the influences of various periods and artistic movements that have shaped ecclesiastical architecture in Germany. While detailed specifics on the building's design are not available, church buildings of this nature typically feature elements such as a prominent steeple, intricately designed facades, and stained-glass windows that depict biblical stories or local history.
 
 As visitors approach St. Briccius, they may notice features that are characteristic of ecclesiastical structures, such as arched doorways and decorative stonework. The interior of the church is likely adorned with religious icons, altars, and seating arrangements that reflect its role as a place of worship. The ambiance within is often serene, providing a space for reflection and prayer.
 
@@ -106,4 +106,4 @@ While specific information on facilities is not available, it is advisable to ch
 ### What should I wear?
 Dress appropriately for a church setting, which often means opting for modest and respectful attire. Comfortable shoes are also recommended for walking around the area. 
 
-In conclusion, St. Briccius is more than just a church; it’s a significant landmark that reflects the historical and cultural richness of Halle (Saale). Whether you're visiting for spiritual reasons, architectural appreciation, or cultural exploration, this site offers a compelling experience that contributes to the understanding of the region's heritage.
+In conclusion, St. Briccius is more than just a church; it's a significant landmark that reflects the historical and cultural richness of Halle (Saale). Whether you're visiting for spiritual reasons, architectural appreciation, or cultural exploration, this site offers a compelling experience that contributes to the understanding of the region's heritage.

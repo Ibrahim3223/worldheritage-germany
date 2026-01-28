@@ -76,7 +76,7 @@ To enhance your visit, consider joining a guided tour if available. These tours 
 
 ## Practical Information
 
-When planning a visit to the Prignitz-Museum, it’s advisable to bring along a camera for those memorable moments. Comfortable walking shoes are recommended, as visitors will likely spend time exploring not only the museum but also the surrounding historical sites.
+When planning a visit to the Prignitz-Museum, it's advisable to bring along a camera for those memorable moments. Comfortable walking shoes are recommended, as visitors will likely spend time exploring not only the museum but also the surrounding historical sites.
 
 As with many cultural venues, seasonal considerations may affect your visit. Be mindful of weather conditions, and dress appropriately for the climate. The museum may host special events during certain seasons, so check the official website for any updates or changes in programming.
 
@@ -86,7 +86,7 @@ As with many cultural venues, seasonal considerations may affect your visit. Be 
 Visitors typically spend about two hours at the museum to fully appreciate the exhibitions.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as some areas may have restrictions.
+Check the museum's policy on photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details and scheduling.

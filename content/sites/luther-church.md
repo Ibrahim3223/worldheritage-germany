@@ -86,7 +86,7 @@ Bring along a camera to document your visit, but be mindful of any photography p
 A visit to Luther Church typically takes about an hour, but you may wish to stay longer if you participate in a service or event.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check in advance or inquire upon arrival to respect the church’s guidelines.
+Photography policies can vary, so it's best to check in advance or inquire upon arrival to respect the church's guidelines.
 
 ### Are there guided tours?
 While specific guided tour information is not available, check the official website or inquire at the church for potential guided visit options.
@@ -106,4 +106,4 @@ Information regarding restrooms and nearby cafes is not provided; however, expec
 ### What should I wear?
 Respectful attire is recommended, reflecting the church's significance as a place of worship. Comfortable shoes are also advisable for walking in the area. 
 
-Luther Church is not just a place of worship; it is a significant cultural landmark that invites visitors to engage with its spiritual and historical essence. Whether you arrive for a service, a moment of reflection, or to appreciate its architectural beauty, your visit will undoubtedly enrich your understanding of Wiesbaden’s heritage.
+Luther Church is not just a place of worship; it is a significant cultural landmark that invites visitors to engage with its spiritual and historical essence. Whether you arrive for a service, a moment of reflection, or to appreciate its architectural beauty, your visit will undoubtedly enrich your understanding of Wiesbaden's heritage.

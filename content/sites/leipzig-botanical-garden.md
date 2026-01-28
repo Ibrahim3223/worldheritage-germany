@@ -28,7 +28,7 @@ image_srcset:
 
 The Leipzig Botanical Garden, located in the heart of Leipzig, Germany, offers an inviting escape into the world of flora, showcasing a diverse array of plant species from various climates and regions. As one of the oldest botanical gardens in Germany, it not only serves as a vital resource for education and research but also provides a peaceful retreat for visitors seeking to connect with nature. Covering several hectares, the garden is home to an impressive collection of plants, including rare and exotic species. Its tranquil pathways and beautifully landscaped areas encourage exploration and contemplation, making it an ideal destination for families, scholars, and anyone with an appreciation for botany and horticulture. 
 
-Situated conveniently within the city, the Leipzig Botanical Garden is an integral part of the local cultural and scientific landscape. The garden’s establishment reflects the historical significance of botanical research in the region and continues to play a role in promoting biodiversity and conservation efforts today. 
+Situated conveniently within the city, the Leipzig Botanical Garden is an integral part of the local cultural and scientific landscape. The garden's establishment reflects the historical significance of botanical research in the region and continues to play a role in promoting biodiversity and conservation efforts today. 
 
 ## History and Significance
 
@@ -75,7 +75,7 @@ Also, be mindful of weather conditions. A light rain can make the garden particu
 As you prepare for your visit to the Leipzig Botanical Garden, here are a few practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are essential, as you will be exploring various paths. A water bottle and light snacks can enhance your experience, especially on warmer days.
-- **Seasonal Considerations**: Each season presents different highlights in the garden, so check what’s currently blooming before your visit. Spring and summer are particularly lively, while autumn offers beautiful foliage.
+- **Seasonal Considerations**: Each season presents different highlights in the garden, so check what's currently blooming before your visit. Spring and summer are particularly lively, while autumn offers beautiful foliage.
 - **Accessibility**: The garden is designed to be accessible to all visitors, including those with mobility challenges. 
 
 ## Frequently Asked Questions

@@ -61,7 +61,7 @@ The best times to visit are typically during weekdays when the museum is less cr
 While visiting the Leprosenhaus, take time to explore other attractions in Bad Wurzach and its surroundings. Here are a few notable sites:
 
 1. **St. Martin's Church**: A beautiful church showcasing local architecture and spiritual heritage.
-2. **Bad Wurzach Castle**: This historical site offers a glimpse into the region’s noble past and features lovely gardens.
+2. **Bad Wurzach Castle**: This historical site offers a glimpse into the region's noble past and features lovely gardens.
 3. **Wurzacher Ried Nature Reserve**: An excellent spot for nature enthusiasts, this reserve is home to diverse wildlife and offers scenic walking trails.
 4. **Bad Wurzach Spa Gardens**: Ideal for relaxation, these gardens provide a peaceful environment for a leisurely stroll.
 5. **Museum of Local History**: A short distance away, this museum provides further context on the local culture and history of the area.
@@ -95,7 +95,7 @@ Check the official website for information on guided tours, as they may be offer
 Weekdays are often less crowded, making them ideal for a more personal experience. Special events may attract larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary. It’s best to check the official website for specific accommodations available for visitors with mobility challenges.
+Accessibility details can vary. It's best to check the official website for specific accommodations available for visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Check the official website for ticket purchasing options, as online sales may be available.

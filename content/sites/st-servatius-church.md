@@ -36,7 +36,7 @@ St. Servatius Church has deep roots in the cultural fabric of Münster, serving 
 
 Throughout its history, St. Servatius has played a vital role in the religious life of the local community. It has witnessed significant events and changes in Münster's sociopolitical landscape, contributing to its identity as a center of spirituality. The church has served various functions over the centuries, adapting to the needs of the community while preserving its core mission of serving as a place of worship.
 
-The architectural elements of St. Servatius reflect the styles and influences that have shaped the region over the years. The church’s design and construction methods reveal insights into the craftsmanship and artistic trends prevalent at the time of its establishment. This historical context enhances the church's significance, as it stands as a symbol of the enduring legacy of faith in Münster.
+The architectural elements of St. Servatius reflect the styles and influences that have shaped the region over the years. The church's design and construction methods reveal insights into the craftsmanship and artistic trends prevalent at the time of its establishment. This historical context enhances the church's significance, as it stands as a symbol of the enduring legacy of faith in Münster.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ St. Servatius Church is an example of traditional church architecture that showc
 
 The use of local materials in its construction would reflect the architectural practices of the time, creating a harmonious blend between the church and its surroundings. Inside, visitors can expect to find beautifully crafted altars, religious iconography, and possibly remnants of earlier artistic styles that have been preserved throughout the church's long history. Each aspect of the church's architecture contributes to the overall atmosphere of reverence and tranquility.
 
-The church’s layout may include areas for congregational gatherings, spaces for private reflection, and features that facilitate the rituals of worship. The combination of these elements creates a welcoming environment for worshippers and visitors alike.
+The church's layout may include areas for congregational gatherings, spaces for private reflection, and features that facilitate the rituals of worship. The combination of these elements creates a welcoming environment for worshippers and visitors alike.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ To avoid crowds, aim for a visit during the week rather than on weekends or publ
 
 ## Practical Information
 
-When visiting St. Servatius Church, it’s advisable to bring a light jacket or sweater, as interiors can be cooler than expected. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
+When visiting St. Servatius Church, it's advisable to bring a light jacket or sweater, as interiors can be cooler than expected. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area.
 
 Seasonal considerations may affect your visit; spring and early autumn are often pleasant times to explore Münster, with moderate weather and fewer tourists. Be sure to check the forecast and plan accordingly.
 
@@ -86,16 +86,16 @@ Seasonal considerations may affect your visit; spring and early autumn are often
 A visit to St. Servatius Church typically takes about an hour, allowing time to explore the interior and appreciate its architectural features.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for signs regarding photography inside the church, especially during services.
+Photography policies may vary, so it's best to check for signs regarding photography inside the church, especially during services.
 
 ### Are there guided tours?
 Information regarding guided tours may not be specified, so check the official website for details on any available options.
 
 ### What's the best time to visit?
-Visiting during weekdays is often quieter, making it easier to appreciate the church’s atmosphere without large crowds.
+Visiting during weekdays is often quieter, making it easier to appreciate the church's atmosphere without large crowds.
 
 ### Is it wheelchair accessible?
-Details about accessibility are not provided, so it’s recommended to check the official website for information on wheelchair access.
+Details about accessibility are not provided, so it's recommended to check the official website for information on wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchases and any potential online options.

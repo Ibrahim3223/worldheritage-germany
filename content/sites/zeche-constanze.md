@@ -34,7 +34,7 @@ Coal mining in Bochum began to take shape as industrialization accelerated, lead
 
 The cultural significance of Zeche Constanze extends beyond its economic contributions. It stands as a reminder of the labor-intensive nature of mining, highlighting the resilience and struggles of the miners who worked in often perilous conditions. The mine serves as a historical reference point, illustrating the evolution of mining techniques and technologies over time.
 
-As industrial practices evolved, so did the mine's operations, adapting to changing demands and technologies. The closure of many mines, including Zeche Constanze, marked a significant shift in the region’s economic landscape, leading to a transition towards other forms of industry and services. Today, the site is preserved as a heritage site, inviting visitors to learn about its historical context and the legacy of coal mining in Germany.
+As industrial practices evolved, so did the mine's operations, adapting to changing demands and technologies. The closure of many mines, including Zeche Constanze, marked a significant shift in the region's economic landscape, leading to a transition towards other forms of industry and services. Today, the site is preserved as a heritage site, inviting visitors to learn about its historical context and the legacy of coal mining in Germany.
 
 ## Architecture and Features
 

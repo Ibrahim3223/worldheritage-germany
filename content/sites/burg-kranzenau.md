@@ -22,7 +22,7 @@ images:
 
 Burg Kranzenau, an intriguing castle located in the picturesque region of Bötzingen, Germany, is a fascinating destination for history enthusiasts and architecture aficionados alike. This historic structure offers visitors a chance to explore its storied past, while enjoying the serene landscapes that envelop it. The castle's unique architecture and cultural significance make it a noteworthy site in the German heritage landscape, standing as a reminder of the region's medieval history. 
 
-As you approach Burg Kranzenau, you are greeted by its imposing façade, which hints at the grandeur once experienced within its walls. The castle invites exploration, promising a glimpse into the architectural styles and historical narratives of the time. Whether you are an avid historian or a casual traveler, a visit to Burg Kranzenau is a captivating experience that enriches your understanding of Germany’s past.
+As you approach Burg Kranzenau, you are greeted by its imposing façade, which hints at the grandeur once experienced within its walls. The castle invites exploration, promising a glimpse into the architectural styles and historical narratives of the time. Whether you are an avid historian or a casual traveler, a visit to Burg Kranzenau is a captivating experience that enriches your understanding of Germany's past.
 
 ## History and Significance
 

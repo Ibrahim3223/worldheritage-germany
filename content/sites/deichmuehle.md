@@ -70,7 +70,7 @@ The best times to visit the Deichmühle are during the spring and summer months 
 
 ## Insider Tips
 
-When visiting the Deichmühle, it’s advisable to arrive early in the day to avoid larger crowds, especially during peak tourist seasons. This will allow for a more leisurely exploration of the windmill and its surroundings. 
+When visiting the Deichmühle, it's advisable to arrive early in the day to avoid larger crowds, especially during peak tourist seasons. This will allow for a more leisurely exploration of the windmill and its surroundings. 
 
 For photography enthusiasts, the best angles of the Deichmühle can be captured in the late afternoon when the sun casts a warm glow on its structure. Additionally, consider bringing along a zoom lens to capture the intricate details of the sails and machinery up close.
 

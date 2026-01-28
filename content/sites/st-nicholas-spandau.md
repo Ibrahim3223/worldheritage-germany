@@ -54,7 +54,7 @@ Overall, the architectural design and features of St. Nicholas Church make it a 
 
 To visit St. Nicholas Church, travelers can utilize various modes of transportation available in Berlin. The church is accessible through public transit, including buses and trains, connecting it to the wider network of the city's transport system. For those driving, local parking options may be available.
 
-Before planning a visit, it’s advisable to check the official website for current information regarding opening hours and any potential admission fees. Visitors can expect a tranquil environment, conducive to introspection and appreciation of the church's historical context.
+Before planning a visit, it's advisable to check the official website for current information regarding opening hours and any potential admission fees. Visitors can expect a tranquil environment, conducive to introspection and appreciation of the church's historical context.
 
 Typically, visitors may wish to allocate approximately one to two hours to fully appreciate the architecture and the peaceful atmosphere within the church. As for the best times to visit, weekdays may offer a quieter experience, while weekends could see more visitors attending services or events.
 
@@ -74,13 +74,13 @@ St. Nicholas Church is conveniently located near several attractions that enhanc
 
 ## Insider Tips
 
-For those planning a visit to St. Nicholas Church, consider bringing a camera to capture the architectural details and the serene ambiance of the interior. While photography is often encouraged, it’s wise to be respectful of the worshippers and the sanctity of the space.
+For those planning a visit to St. Nicholas Church, consider bringing a camera to capture the architectural details and the serene ambiance of the interior. While photography is often encouraged, it's wise to be respectful of the worshippers and the sanctity of the space.
 
 To avoid crowds, visiting during mid-morning on weekdays can provide a more intimate experience. Additionally, check for any special events or services that may enhance your visit, offering a unique glimpse into the church's community role.
 
 ## Practical Information
 
-When preparing for your visit to St. Nicholas Church, it’s helpful to bring along a light jacket or sweater, as the interior can sometimes be cooler than the outside temperature. Comfortable footwear is recommended, especially if you plan to explore the surrounding area.
+When preparing for your visit to St. Nicholas Church, it's helpful to bring along a light jacket or sweater, as the interior can sometimes be cooler than the outside temperature. Comfortable footwear is recommended, especially if you plan to explore the surrounding area.
 
 Seasonal considerations may affect your visit; spring and early autumn often provide pleasant weather for walking around Spandau. Be mindful of any local events or holidays that could influence visiting hours or crowd sizes.
 

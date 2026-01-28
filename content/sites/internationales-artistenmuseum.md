@@ -50,7 +50,7 @@ Planning a visit to the Internationales Artistenmuseum in Wandlitz is an enrichi
 
 When visiting the museum, you can expect a well-organized layout that allows for a comfortable exploration of the exhibits. Depending on your level of interest, a visit can take anywhere from a couple of hours to a half-day. It is recommended to allocate sufficient time to fully appreciate the different displays and activities available.
 
-The best times to visit often align with weekdays or early mornings to avoid larger crowds, allowing for a more personal experience. Seasonal events and exhibitions may also enhance your visit, so checking the museum’s schedule ahead of time can be beneficial.
+The best times to visit often align with weekdays or early mornings to avoid larger crowds, allowing for a more personal experience. Seasonal events and exhibitions may also enhance your visit, so checking the museum's schedule ahead of time can be beneficial.
 
 ## Nearby Attractions
 

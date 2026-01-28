@@ -64,7 +64,7 @@ While Bahnhof Heilbronn-Sontheim is primarily a transport hub, its location allo
 
 3. **Experimenta Heilbronn**: An interactive science center that provides educational experiences suitable for all ages, perfect for family outings.
 
-4. **The Historic Old Town**: Explore the charming streets of Heilbronn’s Old Town, where historical architecture and local eateries provide a glimpse into the city’s past.
+4. **The Historic Old Town**: Explore the charming streets of Heilbronn's Old Town, where historical architecture and local eateries provide a glimpse into the city's past.
 
 5. **The Neckar River**: A scenic area ideal for walking or cycling, offering picturesque views and recreational opportunities along the riverbank.
 
@@ -72,7 +72,7 @@ While Bahnhof Heilbronn-Sontheim is primarily a transport hub, its location allo
 
 For photography enthusiasts, Bahnhof Heilbronn-Sontheim offers opportunities to capture the essence of railway travel. Early morning or late afternoon light can create atmospheric images, particularly around the station's exterior. To avoid crowds, aim to visit during off-peak hours, typically mid-morning or early afternoon on weekdays.
 
-When visiting, it’s helpful to familiarize yourself with the station layout beforehand to navigate more efficiently. Be prepared for fluctuating passenger volumes, especially during weekends or holiday seasons when travel increases.
+When visiting, it's helpful to familiarize yourself with the station layout beforehand to navigate more efficiently. Be prepared for fluctuating passenger volumes, especially during weekends or holiday seasons when travel increases.
 
 ## Practical Information
 

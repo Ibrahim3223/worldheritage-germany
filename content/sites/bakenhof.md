@@ -88,7 +88,7 @@ Seasonal considerations might also affect your visit—spring and fall may offer
 A visit to Bakenhof can typically take around two hours, allowing ample time to explore and appreciate the architectural details.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the site's history and architecture.

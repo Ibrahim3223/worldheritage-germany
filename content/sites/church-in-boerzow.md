@@ -93,7 +93,7 @@ Information about guided tours may vary; check the official website for any sche
 The best time to visit is during daylight hours, particularly in spring or summer for optimal lighting and a peaceful atmosphere.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not specified; it’s advisable to check directly with the church for the most accurate details.
+Information regarding wheelchair accessibility is not specified; it's advisable to check directly with the church for the most accurate details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; please consult the official website for information on ticket availability.

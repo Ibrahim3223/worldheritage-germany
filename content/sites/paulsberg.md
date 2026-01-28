@@ -48,7 +48,7 @@ While the mountain itself is a natural formation, the experience it provides is 
 
 Visiting Paulsberg offers a wonderful opportunity to engage with nature while enjoying the unique environment of Wuppertal. To reach the mountain, various transportation options are available, including public transport and private vehicles. The local transport network is designed to facilitate easy access to the area, so check the official website for current information on routes and services.
 
-When planning your visit, it’s advisable to check the official website for hours and any potential fees that may apply, as this information can vary. The mountain is open year-round, with each season presenting its own charm. Spring and summer are particularly popular times to visit, as the trails are lined with vibrant greenery and blooming wildflowers.
+When planning your visit, it's advisable to check the official website for hours and any potential fees that may apply, as this information can vary. The mountain is open year-round, with each season presenting its own charm. Spring and summer are particularly popular times to visit, as the trails are lined with vibrant greenery and blooming wildflowers.
 
 Expect to spend a few hours at Paulsberg, allowing time for a leisurely hike and to take in the sights. Whether you are walking along the trails or simply enjoying a peaceful moment in nature, the experience can be both refreshing and restorative.
 
@@ -92,7 +92,7 @@ When preparing for your visit to Paulsberg, keep the following practical conside
 
 - **Weather Check**: Always check the weather forecast before your visit, as conditions can change rapidly in mountainous areas. Dressing in layers can help you adjust to varying temperatures.
 
-- **Safety Precautions**: Familiarize yourself with the trails and stay on marked paths. It’s advisable to have a map or download a trail guide for navigation.
+- **Safety Precautions**: Familiarize yourself with the trails and stay on marked paths. It's advisable to have a map or download a trail guide for navigation.
 
 ## Frequently Asked Questions
 

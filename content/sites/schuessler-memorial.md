@@ -34,7 +34,7 @@ As a monument, it stands within a vibrant community that is known for its pictur
 
 The Schüßler memorial is a significant monument in Bad Zwischenahn, representing an important chapter in the local history. While specific dates and detailed historical accounts are not provided, the memorial itself symbolizes the cultural and social contributions of the individual it honors. Monuments of this nature often serve to remind the community of its roots and the figures who have shaped its identity.
 
-Typically, memorials like Schüßler’s are established to ensure that the stories of influential individuals are not forgotten. They often reflect the values and aspirations of the society that created them. In the case of Schüßler, the memorial likely embodies the community's respect and admiration for contributions made in various fields, be it social, educational, or cultural.
+Typically, memorials like Schüßler's are established to ensure that the stories of influential individuals are not forgotten. They often reflect the values and aspirations of the society that created them. In the case of Schüßler, the memorial likely embodies the community's respect and admiration for contributions made in various fields, be it social, educational, or cultural.
 
 The act of commemorating individuals through monuments speaks to a broader tradition in Germany and beyond, where communities recognize figures who have made a lasting impact. This reinforces social ties and encourages a sense of belonging among residents. The Schüßler memorial serves as a focal point for these reflections, fostering dialogue about heritage and the values that continue to resonate in contemporary society.
 
@@ -105,7 +105,7 @@ Guided tours may not be available, but the memorial is designed for individual e
 The best time to visit is during daylight hours, particularly in spring and summer, when the weather is more enjoyable.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided, so it’s best to check the official website for specific information regarding wheelchair access.
+Accessibility details are not provided, so it's best to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information regarding ticket purchasing is not detailed; consult the official website for ticket availability and purchasing options.

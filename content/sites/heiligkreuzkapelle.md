@@ -94,7 +94,7 @@ When visiting Heiligkreuzkapelle, there are a few practical considerations to ke
 A visit to Heiligkreuzkapelle typically requires about an hour to fully appreciate the chapel and its surroundings.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s advisable to be respectful of the sacred environment.
+Photography is usually permitted, but it's advisable to be respectful of the sacred environment.
 
 ### Are there guided tours?
 Check the official website to see if guided tours are available during your visit.
@@ -112,6 +112,6 @@ Check the official website for details regarding ticket purchases.
 For information on amenities, including restrooms and nearby cafes, consult the official website.
 
 ### What should I wear?
-Dress comfortably and appropriately for the weather, considering the chapel’s sacred nature.
+Dress comfortably and appropriately for the weather, considering the chapel's sacred nature.
 
 As you plan your visit to Heiligkreuzkapelle, take the time to reflect on the beauty and history that it represents, allowing the space to inspire a moment of peace and contemplation.

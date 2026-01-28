@@ -60,7 +60,7 @@ While visiting the Uhrenmuseum Bad Iburg, there are several nearby attractions w
 
 2. **The Iburg Forest**: Ideal for nature lovers, this lush forest provides hiking trails and opportunities for outdoor recreation, making it a perfect complement to a museum visit.
 
-3. **St. John’s Church**: This local church is known for its stunning architecture and serene atmosphere, providing a peaceful retreat for visitors.
+3. **St. John's Church**: This local church is known for its stunning architecture and serene atmosphere, providing a peaceful retreat for visitors.
 
 4. **The Bad Iburg Spa Gardens**: These gardens offer a tranquil setting for relaxation and enjoyment, featuring well-kept paths and scenic spots for a leisurely stroll.
 
@@ -68,7 +68,7 @@ While visiting the Uhrenmuseum Bad Iburg, there are several nearby attractions w
 
 ## Insider Tips
 
-To make the most of your visit to the Uhrenmuseum Bad Iburg, consider bringing a camera to capture the intricate designs of the timepieces on display, while being mindful of any photography restrictions that may apply. It’s also wise to visit during non-peak hours to avoid larger crowds, allowing for a more enjoyable exploration of the exhibits. Engaging with museum staff can provide valuable insights and enhance your understanding of the collections.
+To make the most of your visit to the Uhrenmuseum Bad Iburg, consider bringing a camera to capture the intricate designs of the timepieces on display, while being mindful of any photography restrictions that may apply. It's also wise to visit during non-peak hours to avoid larger crowds, allowing for a more enjoyable exploration of the exhibits. Engaging with museum staff can provide valuable insights and enhance your understanding of the collections.
 
 ## Practical Information
 

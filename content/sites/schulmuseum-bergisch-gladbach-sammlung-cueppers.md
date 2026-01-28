@@ -34,7 +34,7 @@ The museum not only educates but also encourages reflection on the importance of
 
 ## History and Significance
 
-The Schulmuseum Bergisch Gladbach – Sammlung Cüppers holds a significant place within the educational landscape of Germany. It is dedicated to preserving the history of schooling, with a collection that embodies the cultural shifts in educational practices over time. While specific dates and events are not detailed, the museum’s mission to document the evolution of education is rooted in a rich tradition of valuing knowledge and learning as essential components of societal development.
+The Schulmuseum Bergisch Gladbach – Sammlung Cüppers holds a significant place within the educational landscape of Germany. It is dedicated to preserving the history of schooling, with a collection that embodies the cultural shifts in educational practices over time. While specific dates and events are not detailed, the museum's mission to document the evolution of education is rooted in a rich tradition of valuing knowledge and learning as essential components of societal development.
 
 The museum's collection includes a variety of artifacts that provide insight into the teaching methods and materials used in past centuries. From old textbooks and teaching aids to classroom furniture, these items help illustrate the changing nature of education and reflect broader societal changes. As the world has shifted towards modern educational practices, the museum stands as a crucial repository of information that highlights the significance of preserving educational heritage.
 
@@ -64,7 +64,7 @@ Bergisch Gladbach is home to several attractions that complement a visit to the 
 
 2. **Bergisches Land**: This surrounding region is known for its picturesque landscapes, ideal for hiking and enjoying nature.
 
-3. **Bergisch Gladbach City Museum**: Another cultural site that explores the history of the city, providing further context to the area’s development.
+3. **Bergisch Gladbach City Museum**: Another cultural site that explores the history of the city, providing further context to the area's development.
 
 4. **House of Culture**: A venue that hosts various cultural events, performances, and exhibitions, enhancing the local cultural scene.
 

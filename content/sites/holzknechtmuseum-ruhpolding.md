@@ -50,9 +50,9 @@ Throughout the museum, there are areas dedicated to the cultural aspects of wood
 
 Getting to the Holzknechtmuseum is relatively straightforward, as it is located in the charming village of Ruhpolding. Visitors can reach the museum via local transportation options or by car. The museum is situated conveniently for those exploring the Bavarian Alps, making it an ideal stop for travelers seeking to learn more about the region's heritage.
 
-When planning your visit, it’s essential to check the official website for current information regarding opening hours and ticket prices. The museum typically offers a variety of exhibits and activities, and the time needed for a visit can vary depending on your level of interest. Generally, visitors can expect to spend between one to two hours exploring the museum’s offerings.
+When planning your visit, it's essential to check the official website for current information regarding opening hours and ticket prices. The museum typically offers a variety of exhibits and activities, and the time needed for a visit can vary depending on your level of interest. Generally, visitors can expect to spend between one to two hours exploring the museum's offerings.
 
-The best times to visit are during the spring and autumn months when the weather is mild, and the tourist crowds are less intense. This allows for a more relaxed experience as you delve into the museum’s exhibits.
+The best times to visit are during the spring and autumn months when the weather is mild, and the tourist crowds are less intense. This allows for a more relaxed experience as you delve into the museum's exhibits.
 
 ## Nearby Attractions
 
@@ -62,11 +62,11 @@ The Holzknechtmuseum is located in a region rich with attractions that complemen
 
 2. **Unternberg**: This nearby mountain is popular for hiking and offers various trails suited to different skill levels, providing stunning views of the surrounding landscape.
 
-3. **Chiemsee**: A short drive from Ruhpolding, Chiemsee is one of Bavaria’s largest lakes, offering opportunities for boating, swimming, and leisurely walks along its shores.
+3. **Chiemsee**: A short drive from Ruhpolding, Chiemsee is one of Bavaria's largest lakes, offering opportunities for boating, swimming, and leisurely walks along its shores.
 
 4. **Zahmer Kaiser**: This mountain area is perfect for those seeking outdoor adventures, featuring several hiking and biking trails that showcase the beauty of the Bavarian Alps.
 
-5. **Ruhpolding’s local churches**: The region has several beautiful churches, including the Church of St. George, which is known for its stunning architecture and history.
+5. **Ruhpolding's local churches**: The region has several beautiful churches, including the Church of St. George, which is known for its stunning architecture and history.
 
 ## Insider Tips
 

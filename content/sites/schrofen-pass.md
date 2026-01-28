@@ -28,7 +28,7 @@ image_srcset:
 
 Schrofen Pass is a remarkable mountain pass that traverses the Allgäu Alps, forming the natural border between Tyrol in Austria and Bavaria in Germany. Its strategic location not only offers breathtaking landscapes but also serves as a vital link for hikers and nature enthusiasts exploring the region. The pass is characterized by its rugged terrain and dramatic mountain scenery, making it a popular destination for those seeking adventure in the great outdoors.
 
-As you embark on your journey to Schrofen Pass, you’ll be greeted by the raw beauty of the alpine environment, where towering peaks meet lush valleys. This stunning backdrop is more than just a visual feast; it is a living testament to the geological forces that have shaped this area over millennia. Whether you are a seasoned hiker or a casual visitor, Schrofen Pass promises an experience that combines natural wonder with a sense of exploration.
+As you embark on your journey to Schrofen Pass, you'll be greeted by the raw beauty of the alpine environment, where towering peaks meet lush valleys. This stunning backdrop is more than just a visual feast; it is a living testament to the geological forces that have shaped this area over millennia. Whether you are a seasoned hiker or a casual visitor, Schrofen Pass promises an experience that combines natural wonder with a sense of exploration.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ The significance of Schrofen Pass is further highlighted by its role in alpine e
 
 ## Architecture and Features
 
-Schrofen Pass is defined by its formidable mountainous landscape, characterized by steep slopes and rocky outcrops that create a dramatic visual impact. The pass itself is a natural corridor, offering pathways that weave through the alpine terrain. As you traverse the path, you’ll encounter a variety of geological formations that tell the story of the Earth’s history.
+Schrofen Pass is defined by its formidable mountainous landscape, characterized by steep slopes and rocky outcrops that create a dramatic visual impact. The pass itself is a natural corridor, offering pathways that weave through the alpine terrain. As you traverse the path, you'll encounter a variety of geological formations that tell the story of the Earth's history.
 
 The surrounding mountains are primarily composed of limestone and dolomite, giving rise to unique rock formations and cliffs that are a highlight for geologists and nature lovers alike. The altitude of the pass allows for a diverse range of climates and ecosystems, which are evident in the differing vegetation patterns observed along the trails.
 

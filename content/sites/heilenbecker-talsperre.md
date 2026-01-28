@@ -46,7 +46,7 @@ Visiting the Heilenbecker Talsperre offers a variety of experiences, from scenic
 
 Check the official website for current information regarding hours and entry requirements. Visitors should expect to spend a few hours at the dam, allowing time to explore the surroundings and enjoy the recreational offerings. The best times to visit are typically during the spring and summer months when the weather is favorable for outdoor activities.
 
-When planning your visit, it’s advisable to prepare for varying weather conditions. Comfortable walking shoes are recommended, as the terrain may vary, and visitors often enjoy walking along the paths that surround the dam.
+When planning your visit, it's advisable to prepare for varying weather conditions. Comfortable walking shoes are recommended, as the terrain may vary, and visitors often enjoy walking along the paths that surround the dam.
 
 ## Nearby Attractions
 

@@ -65,7 +65,7 @@ While you're in the Altona district, consider exploring the surrounding attracti
 1. **Altona Fish Market**: A lively spot where you can experience local culture and cuisine, especially on weekends.
 2. **Elbphilharmonie**: This iconic concert hall is a must-visit for music lovers, featuring stunning architecture and a rich program of performances.
 3. **Stadtpark**: A lovely green space ideal for a leisurely stroll or a picnic, providing a perfect contrast to the urban environment.
-4. **Museum of Hamburg History**: Dive deeper into the city’s past and explore exhibits detailing the rich history of Hamburg.
+4. **Museum of Hamburg History**: Dive deeper into the city's past and explore exhibits detailing the rich history of Hamburg.
 5. **Kaiser Wilhelm Bridge**: An impressive piece of engineering and architecture, offering picturesque views and great photo opportunities.
 
 ## Insider Tips

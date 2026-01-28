@@ -3,7 +3,7 @@ title: "Rathausmann, Dresden"
 site_name: "Rathausmann, Dresden"
 date: 2026-01-26
 draft: false
-description: "In the heart of Dresden, Germany, the Rathausmann stands as a striking architectural statue that embodies the city’s rich historical narrative and artistic..."
+description: "In the heart of Dresden, Germany, the Rathausmann stands as a striking architectural statue that embodies the city's rich historical narrative and artistic..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Statue"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Dresden, Germany, the Rathausmann stands as a striking architectural statue that embodies the city’s rich historical narrative and artistic expression. This statue, a prominent fixture of the city's skyline, is not merely a decorative element; it reflects the cultural and political significance of the region. The Rathausmann is located in a city known for its baroque architecture and vibrant cultural life, making it an important stop for visitors exploring Dresden's heritage.
+In the heart of Dresden, Germany, the Rathausmann stands as a striking architectural statue that embodies the city's rich historical narrative and artistic expression. This statue, a prominent fixture of the city's skyline, is not merely a decorative element; it reflects the cultural and political significance of the region. The Rathausmann is located in a city known for its baroque architecture and vibrant cultural life, making it an important stop for visitors exploring Dresden's heritage.
 
-This remarkable statue draws attention not only for its artistic merit but also for its role in the city's identity. As you approach, the imposing figure invites contemplation of the centuries of history that have shaped Dresden. Visitors to this site can expect to gain insights into the complex layers of the city’s past and its ongoing evolution. 
+This remarkable statue draws attention not only for its artistic merit but also for its role in the city's identity. As you approach, the imposing figure invites contemplation of the centuries of history that have shaped Dresden. Visitors to this site can expect to gain insights into the complex layers of the city's past and its ongoing evolution. 
 
 The Rathausmann is more than just a statue; it is a symbol of civic pride and historical continuity in a city that has seen both destruction and revival. This guide aims to provide an in-depth exploration of the Rathausmann, offering insights into its historical significance, architectural features, and practical information for those wishing to visit this iconic landmark.
 
@@ -46,7 +46,7 @@ The Rathausmann is characterized by its imposing stature and intricate design. A
 
 The statue is not merely a standalone figure; it is integrated into the architectural landscape of the city, enhancing the visual appeal of its surroundings. The materials used in its construction contribute to its durability and aesthetic quality, allowing it to withstand the test of time. 
 
-Visitors will appreciate the attention to detail that can be observed in the statue's features. The craftsmanship involved in its creation is indicative of the skilled artisans who contributed to Dresden’s architectural legacy. The Rathausmann serves as a conversation starter about the artistic movements that influenced its design and the broader context of public art in urban environments.
+Visitors will appreciate the attention to detail that can be observed in the statue's features. The craftsmanship involved in its creation is indicative of the skilled artisans who contributed to Dresden's architectural legacy. The Rathausmann serves as a conversation starter about the artistic movements that influenced its design and the broader context of public art in urban environments.
 
 ## Visiting Information
 
@@ -112,4 +112,4 @@ Nearby establishments may provide restrooms and food options. However, it's best
 ### What should I wear?
 Dress comfortably and in layers, as weather conditions can change. Comfortable shoes are recommended for walking around the area.
 
-Visiting the Rathausmann in Dresden offers a chance to engage with the city's vibrant history and artistic heritage. This remarkable statue, set against the backdrop of one of Germany’s most beautiful cities, invites exploration and reflection.
+Visiting the Rathausmann in Dresden offers a chance to engage with the city's vibrant history and artistic heritage. This remarkable statue, set against the backdrop of one of Germany's most beautiful cities, invites exploration and reflection.

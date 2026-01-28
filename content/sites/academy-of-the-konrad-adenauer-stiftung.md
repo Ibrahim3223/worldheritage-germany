@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Academy of the Konrad-Adenauer-Stiftung, located in the heart of Berlin, is not just a foundation but a hub of intellectual discourse and political education that extends its influence globally. Established to promote the principles of democracy, freedom, and social market economy, the Academy serves as a vital platform for fostering political dialogue and civic engagement. Situated at the coordinates 52.5093° N, 13.3526° E, it occupies a significant place in Germany’s political landscape, reflecting the country's commitment to democratic values rooted in its post-war history.
+The Academy of the Konrad-Adenauer-Stiftung, located in the heart of Berlin, is not just a foundation but a hub of intellectual discourse and political education that extends its influence globally. Established to promote the principles of democracy, freedom, and social market economy, the Academy serves as a vital platform for fostering political dialogue and civic engagement. Situated at the coordinates 52.5093° N, 13.3526° E, it occupies a significant place in Germany's political landscape, reflecting the country's commitment to democratic values rooted in its post-war history.
 
-As you explore the Academy, you will encounter a space that invites discussion and learning, embodying the spirit of its namesake, Konrad Adenauer, Germany’s first Chancellor after World War II. The foundation not only engages in research, training, and public education but also collaborates with various international partners, making it a crucial player in the promotion of democracy beyond Germany's borders. Visitors can look forward to a range of programs and events designed to stimulate thought and encourage active participation in public life.
+As you explore the Academy, you will encounter a space that invites discussion and learning, embodying the spirit of its namesake, Konrad Adenauer, Germany's first Chancellor after World War II. The foundation not only engages in research, training, and public education but also collaborates with various international partners, making it a crucial player in the promotion of democracy beyond Germany's borders. Visitors can look forward to a range of programs and events designed to stimulate thought and encourage active participation in public life.
 
 With a mission deeply embedded in the democratic ethos, the Academy of the Konrad-Adenauer-Stiftung stands as a cornerstone for those interested in understanding the dynamics of political systems and civic responsibility in Germany and beyond.
 
 ## History and Significance
 
-The Academy of the Konrad-Adenauer-Stiftung draws its roots from the legacy of Konrad Adenauer, the pivotal figure in the establishment of the Federal Republic of Germany. While specific dates and milestones in its founding are not detailed, the foundation’s inception aligns with the post-World War II era, a period marked by the reconstruction of democracy in Germany. The principles that guided Adenauer in the creation of a stable democratic framework continue to influence the Academy’s operations today.
+The Academy of the Konrad-Adenauer-Stiftung draws its roots from the legacy of Konrad Adenauer, the pivotal figure in the establishment of the Federal Republic of Germany. While specific dates and milestones in its founding are not detailed, the foundation's inception aligns with the post-World War II era, a period marked by the reconstruction of democracy in Germany. The principles that guided Adenauer in the creation of a stable democratic framework continue to influence the Academy's operations today.
 
 One of the primary objectives of the Academy is to promote the values of democracy, rule of law, and social market economy. By organizing workshops, seminars, and conferences, the Academy serves as a forum for political education, offering insights into governance, public policy, and international relations. Its programs cater to a diverse audience, including politicians, students, and civil society actors, reinforcing its role as a facilitator of informed debate and action.
 
@@ -52,7 +52,7 @@ Visitors can anticipate a well-maintained environment, conducive to both study a
 
 For those planning a visit to the Academy of the Konrad-Adenauer-Stiftung, it is advisable to check the official website for current information regarding hours of operation and potential entry fees. The Academy is accessible via various modes of public transport, making it relatively easy to reach from different parts of Berlin.
 
-Visitors should allocate sufficient time to fully immerse themselves in the programs offered. Engaging with the Academy's resources can take anywhere from a couple of hours to a full day, depending on personal interests and the specific events taking place during the visit. The best times to visit are typically during weekdays when activities are more frequent, but it’s wise to check the schedule beforehand to make the most of your experience.
+Visitors should allocate sufficient time to fully immerse themselves in the programs offered. Engaging with the Academy's resources can take anywhere from a couple of hours to a full day, depending on personal interests and the specific events taking place during the visit. The best times to visit are typically during weekdays when activities are more frequent, but it's wise to check the schedule beforehand to make the most of your experience.
 
 Upon arrival, guests can expect a welcoming atmosphere, with staff available to provide information and assistance. Whether participating in a workshop or simply exploring the facilities, the Academy encourages an environment of inquiry and engagement.
 
@@ -68,7 +68,7 @@ While the Academy of the Konrad-Adenauer-Stiftung is an enriching destination on
 
 4. **Museum Island**: A UNESCO World Heritage site housing several world-renowned museums, celebrating art and history from different epochs.
 
-5. **Tiergarten**: One of Berlin’s largest and most popular parks, perfect for a leisurely stroll or a picnic after a day of exploration.
+5. **Tiergarten**: One of Berlin's largest and most popular parks, perfect for a leisurely stroll or a picnic after a day of exploration.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Academy of the Konrad-Adenauer-Stiftung, c
 
 - **Photography**: While photography may be allowed in some areas, it's best to check with the staff regarding specific guidelines, especially during events.
 - **Crowd Avoidance**: If possible, visit during weekdays rather than weekends to avoid larger crowds, allowing for a more personal experience.
-- **Engagement**: Don’t hesitate to engage with the staff and ask questions; they can provide valuable insights into the foundation’s work and upcoming events.
+- **Engagement**: Don't hesitate to engage with the staff and ask questions; they can provide valuable insights into the foundation's work and upcoming events.
 
 ## Practical Information
 
@@ -91,7 +91,7 @@ When preparing for your visit to the Academy of the Konrad-Adenauer-Stiftung, co
 The duration of your visit can vary. A couple of hours may suffice for a quick overview, but to fully engage with the programs and facilities, consider spending a half day.
 
 ### Is photography allowed?
-Photography policies may vary by area within the Academy. It’s advisable to check with staff for specific guidelines.
+Photography policies may vary by area within the Academy. It's advisable to check with staff for specific guidelines.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available and to learn about any scheduled programs.

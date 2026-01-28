@@ -101,7 +101,7 @@ Accessibility information is best obtained from the official website, as conditi
 For ticket purchasing options, check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Restroom availability and café options may be limited, so it’s advisable to plan accordingly.
+Restroom availability and café options may be limited, so it's advisable to plan accordingly.
 
 ### What should I wear?
 Wear comfortable clothing suitable for walking, and consider the weather when choosing your outfit for the day.

@@ -60,7 +60,7 @@ The best times to visit may vary depending on train schedules and local events, 
 
 While Düren station itself is a practical travel hub, there are several attractions nearby worth exploring:
 
-1. **St. Anne’s Church**: This historical church is a short distance from the station and showcases stunning architecture and local history.
+1. **St. Anne's Church**: This historical church is a short distance from the station and showcases stunning architecture and local history.
 
 2. **Düren's City Center**: Just a brief walk from the station, the city center features shops, cafes, and cultural sites, perfect for a leisurely stroll.
 
@@ -80,7 +80,7 @@ As the station is primarily functional, it may not have extensive waiting areas 
 
 When visiting Düren station, it's advisable to bring along essentials such as a valid ticket, a charged mobile device, and any personal items you might need during your journey. Seasonal considerations may affect your travel plans; check weather forecasts prior to your visit to ensure comfort.
 
-Public amenities, such as restrooms and seating areas, are typically available at the station, but it’s wise to familiarize yourself with their locations upon arrival. 
+Public amenities, such as restrooms and seating areas, are typically available at the station, but it's wise to familiarize yourself with their locations upon arrival. 
 
 ## Frequently Asked Questions
 

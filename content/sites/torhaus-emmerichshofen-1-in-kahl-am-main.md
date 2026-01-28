@@ -36,7 +36,7 @@ The architectural design of Torhaus Emmerichshofen 1 showcases characteristics t
 
 While specific architectural details regarding materials and dimensions are not provided, the gatehouse is expected to feature elements such as arched doorways, thick stone walls, and possibly decorative motifs that capture the aesthetic preferences of its era. The design often includes a watchtower or elevated section, allowing for broader visibility of the surrounding area, which would have been crucial for early security measures.
 
-In addition to its functional aspects, the aesthetics of the gatehouse likely reflect local building traditions and styles. Visitors will appreciate the craftsmanship that reflects the region’s historical commitment to durable and practical architecture. The Torhaus Emmerichshofen is not only a functional structure but also a visual representation of the artistic sensibilities and cultural values of its time.
+In addition to its functional aspects, the aesthetics of the gatehouse likely reflect local building traditions and styles. Visitors will appreciate the craftsmanship that reflects the region's historical commitment to durable and practical architecture. The Torhaus Emmerichshofen is not only a functional structure but also a visual representation of the artistic sensibilities and cultural values of its time.
 
 ## Visiting Information
 

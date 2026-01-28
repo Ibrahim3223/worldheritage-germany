@@ -28,7 +28,7 @@ image_srcset:
 
 Beethoven House is a celebrated museum and the birthplace of Ludwig van Beethoven, one of the most influential composers in Western music history. Located in Bonn, Germany, this foundation is dedicated to preserving the legacy of Beethoven and offers visitors a unique opportunity to explore the environment that shaped his early life and artistic development. The museum not only serves as an homage to Beethoven's genius but also stands as a cultural landmark in the region, drawing music lovers, historians, and tourists alike.
 
-Situated in Stadtbezirk Bonn, Beethoven House is an integral part of Bonn's rich musical heritage. The museum houses a collection of artifacts, manuscripts, and personal items that provide insight into Beethoven’s creative process and personal struggles. The atmosphere of the house invites visitors to reflect on the life and times of a man who revolutionized music and continues to inspire generations. Whether you are a dedicated classical music enthusiast or a casual visitor, the experience of exploring Beethoven's birthplace promises both education and inspiration.
+Situated in Stadtbezirk Bonn, Beethoven House is an integral part of Bonn's rich musical heritage. The museum houses a collection of artifacts, manuscripts, and personal items that provide insight into Beethoven's creative process and personal struggles. The atmosphere of the house invites visitors to reflect on the life and times of a man who revolutionized music and continues to inspire generations. Whether you are a dedicated classical music enthusiast or a casual visitor, the experience of exploring Beethoven's birthplace promises both education and inspiration.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Beethoven House is characterized by its historical architecture, reflecting the 
 
 The interior is thoughtfully curated, showcasing a variety of artifacts that tell the story of Beethoven's life. Visitors can expect to see original manuscripts, letters, and personal items that belonged to the composer. The layout of the museum is designed to guide guests through a narrative journey, illustrating Beethoven's childhood, his early influences, and his development as a composer.
 
-In addition to the historical artifacts, Beethoven House often hosts temporary exhibitions that focus on specific themes related to Beethoven’s life and work. These exhibitions may include multimedia presentations, allowing visitors to engage with the material in new and dynamic ways. The museum’s commitment to preserving Beethoven’s legacy is evident in its careful attention to both the physical space and the stories it tells.
+In addition to the historical artifacts, Beethoven House often hosts temporary exhibitions that focus on specific themes related to Beethoven's life and work. These exhibitions may include multimedia presentations, allowing visitors to engage with the material in new and dynamic ways. The museum's commitment to preserving Beethoven's legacy is evident in its careful attention to both the physical space and the stories it tells.
 
 ## Visiting Information
 

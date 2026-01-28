@@ -72,7 +72,7 @@ While visiting Schloss Strünkede, consider exploring other nearby attractions t
 
 To enhance your visit to Schloss Strünkede, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas of the museum, it’s wise to check the specific rules upon entering. Capturing the architectural details and exhibits can provide lasting memories of your visit.
+- **Photography**: While photography may be allowed in certain areas of the museum, it's wise to check the specific rules upon entering. Capturing the architectural details and exhibits can provide lasting memories of your visit.
 
 - **Crowd Avoidance**: To experience the museum in a more relaxed setting, consider visiting during weekday mornings or during special event times when crowds may be smaller.
 

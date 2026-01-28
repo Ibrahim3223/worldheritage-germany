@@ -24,7 +24,7 @@ In the heart of Germany lies the Dorfmuseum Dachwig, a museum dedicated to prese
 
 The museum's significance extends beyond mere preservation; it plays a vital role in fostering a sense of community and identity among the residents of Dachwig and surrounding areas. By showcasing local history, the Dorfmuseum Dachwig enriches the cultural landscape and encourages dialogue about the past's relevance in the present. As a destination for both locals and travelers, it promises an insightful experience that highlights the importance of heritage and the stories that shape a community.
 
-Visitors to the museum can expect a thoughtfully curated collection that reflects the daily lives, customs, and traditions of the region’s past. Whether you are a history enthusiast or simply curious about local culture, the Dorfmuseum Dachwig offers an enriching experience that illuminates the area’s heritage.
+Visitors to the museum can expect a thoughtfully curated collection that reflects the daily lives, customs, and traditions of the region's past. Whether you are a history enthusiast or simply curious about local culture, the Dorfmuseum Dachwig offers an enriching experience that illuminates the area's heritage.
 
 ## History and Significance
 

@@ -104,7 +104,7 @@ The best times to visit are during daylight hours, particularly early mornings o
 Check the official website for current accessibility information regarding the "Nubian Woman" and its surrounding area.
 
 ### Can I buy tickets online?
-Admission to the "Nubian Woman" is free, but it’s best to check the official website for any updates regarding potential fees or special exhibitions.
+Admission to the "Nubian Woman" is free, but it's best to check the official website for any updates regarding potential fees or special exhibitions.
 
 ### Are there restrooms and cafes?
 While there may not be facilities directly at the statue, nearby attractions and the surrounding area in Düsseldorf typically offer restrooms and cafes.

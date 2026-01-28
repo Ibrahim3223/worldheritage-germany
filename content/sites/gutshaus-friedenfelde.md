@@ -28,7 +28,7 @@ image_srcset:
 
 Gutshaus Friedenfelde, a distinguished manor house located in the picturesque region of Gerswalde, Germany, offers visitors a glimpse into the architectural and cultural heritage of Brandenburg. Set against the backdrop of lush landscapes, this historic estate has long been a significant landmark, drawing attention not only for its aesthetic appeal but also for its storied past. This manor house invites exploration and reflection, making it an essential stop for heritage enthusiasts and casual travelers alike.
 
-As you approach Gutshaus Friedenfelde, the serene surroundings enhance the charm of the site. The manor’s architecture reflects the historical influences of the area, offering a unique insight into the local customs and lifestyle of bygone eras. While the manor serves as a focal point, the surrounding environment adds to the tranquil atmosphere, making it an ideal location for leisurely strolls and quiet contemplation. Visitors can expect a blend of history and nature, providing a rich experience that resonates deeply with those who value cultural exploration.
+As you approach Gutshaus Friedenfelde, the serene surroundings enhance the charm of the site. The manor's architecture reflects the historical influences of the area, offering a unique insight into the local customs and lifestyle of bygone eras. While the manor serves as a focal point, the surrounding environment adds to the tranquil atmosphere, making it an ideal location for leisurely strolls and quiet contemplation. Visitors can expect a blend of history and nature, providing a rich experience that resonates deeply with those who value cultural exploration.
 
 ## History and Significance
 

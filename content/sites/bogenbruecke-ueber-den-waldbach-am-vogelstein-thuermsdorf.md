@@ -58,7 +58,7 @@ The area surrounding the Bogenbrücke offers several attractions that complement
 
 3. **Saxon Switzerland National Park**: A short drive away, this national park is renowned for its breathtaking rock formations, hiking trails, and diverse flora and fauna, making it an excellent destination for nature lovers.
 
-4. **Bad Schandau**: Located along the Elbe River, this town is known for its thermal baths and scenic river views. It’s a great place to relax and enjoy the local cuisine.
+4. **Bad Schandau**: Located along the Elbe River, this town is known for its thermal baths and scenic river views. It's a great place to relax and enjoy the local cuisine.
 
 5. **Königstein Fortress**: A historic hilltop fortress that offers panoramic views of the surrounding area and insights into the region's military history.
 
@@ -92,7 +92,7 @@ Early mornings or late afternoons are often the best times to visit for pleasant
 Check the official website for current information regarding accessibility options at the bridge.
 
 ### Can I buy tickets online?
-Information on ticket purchasing is not available. It’s advisable to check the official website for any updates or changes.
+Information on ticket purchasing is not available. It's advisable to check the official website for any updates or changes.
 
 ### Are there restrooms and cafes?
 Restroom facilities and cafes may not be available directly at the bridge. Plan your visit accordingly by locating nearby facilities in the surrounding area.

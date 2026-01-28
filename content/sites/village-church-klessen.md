@@ -97,7 +97,7 @@ Current information regarding guided tours can vary. Check the official website 
 Weekdays may offer a quieter experience, while weekends could see more local activity. Checking for local events could also enhance your visit.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s advisable to check the official website for the most current information regarding accessibility.
+Accessibility details may vary; it's advisable to check the official website for the most current information regarding accessibility.
 
 ### Can I buy tickets online?
 For current ticketing information, including online purchasing options, please visit the official website before your visit.

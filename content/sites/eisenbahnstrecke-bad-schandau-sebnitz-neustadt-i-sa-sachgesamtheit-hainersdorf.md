@@ -68,7 +68,7 @@ To avoid larger crowds, consider visiting during weekdays, especially in the mor
 
 ## Practical Information
 
-When visiting the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa. bridge, it’s advisable to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Depending on the season, layers of clothing may be necessary, as temperatures can vary throughout the day.
+When visiting the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa. bridge, it's advisable to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Depending on the season, layers of clothing may be necessary, as temperatures can vary throughout the day.
 
 In spring and summer, expect pleasant weather conducive to outdoor activities, while autumn can bring beautiful foliage. Winter visits may require warmer attire, but the landscape offers a unique perspective under a blanket of snow.
 

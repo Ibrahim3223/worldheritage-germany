@@ -36,7 +36,7 @@ The history of Zollenspieker reflects the broader environmental and conservation
 
 While specific historical dates are not documented, Zollenspieker has evolved as part of a larger movement towards nature conservation in Germany. This movement has gained momentum in recent decades, driven by a growing recognition of the need to protect natural environments. The reserve plays a pivotal role in this context, offering educational opportunities that highlight the significance of preserving ecosystems.
 
-Culturally, Zollenspieker represents a space where individuals can engage with nature and learn about ecological systems. The reserve often hosts educational programs and community events aimed at raising awareness about environmental issues, making it an integral part of Hamburg’s commitment to sustainability and conservation. Visitors to Zollenspieker can appreciate not only the natural beauty of the area but also the cultural initiatives that promote ecological stewardship.
+Culturally, Zollenspieker represents a space where individuals can engage with nature and learn about ecological systems. The reserve often hosts educational programs and community events aimed at raising awareness about environmental issues, making it an integral part of Hamburg's commitment to sustainability and conservation. Visitors to Zollenspieker can appreciate not only the natural beauty of the area but also the cultural initiatives that promote ecological stewardship.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ Spring and early autumn are ideal times to visit due to mild weather and active 
 Check the official website for details on accessibility and the availability of accessible trails.
 
 ### Can I buy tickets online?
-Admission details can vary, so it’s best to check the official website for ticketing information.
+Admission details can vary, so it's best to check the official website for ticketing information.
 
 ### Are there restrooms and cafes?
 Amenities such as restrooms and cafes may be limited; it's advisable to check the official website for current facilities available in the area.

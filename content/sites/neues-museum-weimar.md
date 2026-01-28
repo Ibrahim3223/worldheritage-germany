@@ -40,7 +40,7 @@ Throughout its history, the museum has adapted to the changing tides of artistic
 
 In addition to its exhibitions, the museum has also been a venue for lectures, workshops, and community events, fostering a dialogue between artists and the public. This cultural exchange is essential to understanding the museum's significance; it is not merely a space for viewing art but a dynamic environment for artistic discourse.
 
-The museum's commitment to education and outreach has made it an indispensable part of Weimar’s cultural landscape. Its collections, which include works from various epochs and styles, are a testament to the diversity of human expression. As visitors stroll through its halls, they encounter not only art but also the stories and histories that surround each piece, enriching their understanding of the broader cultural context.
+The museum's commitment to education and outreach has made it an indispensable part of Weimar's cultural landscape. Its collections, which include works from various epochs and styles, are a testament to the diversity of human expression. As visitors stroll through its halls, they encounter not only art but also the stories and histories that surround each piece, enriching their understanding of the broader cultural context.
 
 ## Architecture and Features
 

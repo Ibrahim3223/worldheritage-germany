@@ -42,7 +42,7 @@ The Friedrich-August-von-Hayek-Foundation is housed in a building that reflects 
 
 Inside, the foundation is likely equipped with resources such as a library or archives that house works related to Hayek and his intellectual legacy. These resources provide invaluable research opportunities for those interested in delving deeper into economic and political theory.
 
-As you explore the foundation, you may find areas dedicated to exhibitions or displays that illuminate Hayek's life and contributions. The foundation’s commitment to education and public engagement is evident in its thoughtfully designed spaces that cater to a variety of events and activities.
+As you explore the foundation, you may find areas dedicated to exhibitions or displays that illuminate Hayek's life and contributions. The foundation's commitment to education and public engagement is evident in its thoughtfully designed spaces that cater to a variety of events and activities.
 
 ## Visiting Information
 

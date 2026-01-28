@@ -66,7 +66,7 @@ If you plan to explore the Krummhörn area further, consider visiting these near
 2. **Greetsiel**: A picturesque fishing village famous for its historic harbor, charming streets, and local seafood.
 3. **Wittmund**: A town with historical buildings and a vibrant market square, ideal for experiencing local culture.
 4. **North Sea Coast**: Enjoy the natural beauty and unique landscapes of the nearby coastline, perfect for leisurely walks and photography.
-5. **Fisherman’s House Museum**: An informative site that explores the maritime history and traditions of the North Sea region.
+5. **Fisherman's House Museum**: An informative site that explores the maritime history and traditions of the North Sea region.
 
 ## Insider Tips
 
@@ -88,7 +88,7 @@ When preparing for your visit to Manningaburg, here are some practical considera
 A visit to Manningaburg typically takes one to two hours, depending on your interest in exploring the grounds and learning about the site's history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of any specific guidelines that may be in place.
+Photography is generally permitted, but it's best to be respectful of any specific guidelines that may be in place.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide deeper insights into the history and architecture of Manningaburg.

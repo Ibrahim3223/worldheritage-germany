@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Syrauer Holländermühle, a remarkable windmill located in the picturesque region of Rosenbach, Germany, serves as a striking reminder of the country’s agricultural heritage and engineering prowess. Recognized as the only fully preserved windmill in the Vogtland area, it is also among the highest windmills in Saxony. This historic structure not only stands as an architectural landmark but also plays a significant role in the local landscape, shaping the environment around it. Visitors to the Syrauer Holländermühle can expect an enriching experience, steeped in cultural and technical history, making it a must-visit for anyone interested in heritage sites.
+The Syrauer Holländermühle, a remarkable windmill located in the picturesque region of Rosenbach, Germany, serves as a striking reminder of the country's agricultural heritage and engineering prowess. Recognized as the only fully preserved windmill in the Vogtland area, it is also among the highest windmills in Saxony. This historic structure not only stands as an architectural landmark but also plays a significant role in the local landscape, shaping the environment around it. Visitors to the Syrauer Holländermühle can expect an enriching experience, steeped in cultural and technical history, making it a must-visit for anyone interested in heritage sites.
 
 ## History and Significance
 

@@ -103,7 +103,7 @@ For details on accessibility, please consult the official website before your vi
 It is recommended to check the official website for information on online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities and amenities may be available, but it’s best to confirm specifics on the official website.
+Facilities and amenities may be available, but it's best to confirm specifics on the official website.
 
 ### What should I wear?
 Dress comfortably for walking, and consider seasonal weather when planning your attire.

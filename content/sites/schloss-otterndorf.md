@@ -84,7 +84,7 @@ Seasonal considerations may also play a role in your visit; spring and summer ty
 A visit to Schloss Otterndorf typically takes about an hour, allowing enough time to appreciate its architecture and learn about its significance.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s best to be respectful of any signs indicating restrictions, especially during legal proceedings.
+Photography is usually permitted, but it's best to be respectful of any signs indicating restrictions, especially during legal proceedings.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as offerings may vary.

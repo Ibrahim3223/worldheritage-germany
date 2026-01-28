@@ -64,13 +64,13 @@ While exploring Tangermünde, there are several attractions worth visiting in ad
 
 1. **Tangermünde Castle**: A historic castle that offers insights into the region's medieval past, featuring impressive architecture and scenic views of the Elbe River.
 
-2. **St. Stephen’s Church**: Another significant church in the town, showcasing Gothic architecture and rich history, adding to the religious heritage of the area.
+2. **St. Stephen's Church**: Another significant church in the town, showcasing Gothic architecture and rich history, adding to the religious heritage of the area.
 
-3. **The Old Town**: Wander through the picturesque streets of Tangermünde’s Old Town, where you'll find half-timbered houses and charming squares that reflect the town’s history.
+3. **The Old Town**: Wander through the picturesque streets of Tangermünde's Old Town, where you'll find half-timbered houses and charming squares that reflect the town's history.
 
 4. **Elbe River Promenade**: A lovely spot for a leisurely walk along the river, perfect for taking in the natural beauty of the area while enjoying the fresh air.
 
-5. **Local Museums**: Discover the regional culture and history by visiting one of the local museums that highlight the town’s significance in the broader context of Saxony-Anhalt.
+5. **Local Museums**: Discover the regional culture and history by visiting one of the local museums that highlight the town's significance in the broader context of Saxony-Anhalt.
 
 ## Insider Tips
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Protestant Church Miltern, consider these 
 
 - **Crowd Avoidance**: To avoid crowds, consider visiting during weekdays or outside of major holidays when attendance is typically lower. This will enhance your experience and allow for a more personal connection with the site.
 
-- **Engage with the Community**: If possible, inquire about local events or services happening at the church during your visit. Engaging with the community can provide a deeper understanding of the church’s role in local life.
+- **Engage with the Community**: If possible, inquire about local events or services happening at the church during your visit. Engaging with the community can provide a deeper understanding of the church's role in local life.
 
 ## Practical Information
 

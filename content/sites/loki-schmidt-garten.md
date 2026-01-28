@@ -28,11 +28,11 @@ image_srcset:
 
 Loki-Schmidt-Garten is an enchanting botanical garden located in the vibrant Altona district of Hamburg, Germany. This serene oasis showcases a diverse collection of plant species, providing a sanctuary for both nature enthusiasts and casual visitors alike. As part of the city's ongoing commitment to green spaces, Loki-Schmidt-Garten plays a vital role in promoting biodiversity and environmental education. It serves as a peaceful retreat amidst the urban landscape, inviting visitors to explore and learn about the extraordinary variety of flora that thrives in different climates around the world.
 
-The garden is named after Loki Schmidt, a renowned botanist and environmentalist, whose contributions to plant conservation and education are celebrated through this vibrant space. A visit to Loki-Schmidt-Garten offers not only a chance to appreciate the beauty of nature but also an opportunity to engage with the ecological initiatives that are increasingly vital in today’s world. Whether you are a dedicated horticulturist or simply looking for a tranquil spot to unwind, Loki-Schmidt-Garten promises an enriching experience for all who enter its gates.
+The garden is named after Loki Schmidt, a renowned botanist and environmentalist, whose contributions to plant conservation and education are celebrated through this vibrant space. A visit to Loki-Schmidt-Garten offers not only a chance to appreciate the beauty of nature but also an opportunity to engage with the ecological initiatives that are increasingly vital in today's world. Whether you are a dedicated horticulturist or simply looking for a tranquil spot to unwind, Loki-Schmidt-Garten promises an enriching experience for all who enter its gates.
 
 ## History and Significance
 
-Loki-Schmidt-Garten stands as a significant botanical garden within Hamburg, reflecting the city’s commitment to environmental stewardship and public education. Though specific historical dates are not available, the garden is named in honor of Loki Schmidt, who was instrumental in advocating for plant conservation and the importance of green spaces in urban areas. Through her efforts, she helped raise awareness about the intricate relationships between humans and the environment.
+Loki-Schmidt-Garten stands as a significant botanical garden within Hamburg, reflecting the city's commitment to environmental stewardship and public education. Though specific historical dates are not available, the garden is named in honor of Loki Schmidt, who was instrumental in advocating for plant conservation and the importance of green spaces in urban areas. Through her efforts, she helped raise awareness about the intricate relationships between humans and the environment.
 
 The garden serves as a living laboratory, where visitors can learn about diverse plant species from various ecosystems around the globe. The educational mission of Loki-Schmidt-Garten emphasizes the importance of biodiversity, conservation, and sustainable practices. Programs and exhibitions may be organized to foster a deeper understanding of these themes, aligning with the growing global focus on ecological awareness and climate change.
 
@@ -48,7 +48,7 @@ Seating areas and benches are thoughtfully placed throughout the garden, invitin
 
 ## Visiting Information
 
-Getting to Loki-Schmidt-Garten is relatively straightforward, as it is well-connected by public transport. Visitors can take advantage of Hamburg’s efficient public transportation system, which includes buses and trains that service the Altona district. For those who prefer to drive, parking options may be available nearby.
+Getting to Loki-Schmidt-Garten is relatively straightforward, as it is well-connected by public transport. Visitors can take advantage of Hamburg's efficient public transportation system, which includes buses and trains that service the Altona district. For those who prefer to drive, parking options may be available nearby.
 
 Check the official website for current information on visiting hours and ticket prices. It is advisable to allocate a few hours for your visit, allowing ample time to explore the various sections of the garden and engage with educational materials. The garden can be particularly delightful during the spring and summer months when many plants are in full bloom, but each season offers its own charm.
 
@@ -72,7 +72,7 @@ The Altona district is rich in attractions that complement a visit to Loki-Schmi
 
 To maximize your experience at Loki-Schmidt-Garten, consider visiting during weekday mornings or late afternoons when crowds are generally lighter. This will provide a more tranquil atmosphere, allowing you to fully appreciate the beauty of the garden.
 
-For photography enthusiasts, the garden presents numerous opportunities for stunning shots, particularly during the golden hour just before sunset. Capture the interplay of light and shadow on the plants, and don’t forget to explore different angles to showcase the variety of flora.
+For photography enthusiasts, the garden presents numerous opportunities for stunning shots, particularly during the golden hour just before sunset. Capture the interplay of light and shadow on the plants, and don't forget to explore different angles to showcase the variety of flora.
 
 Be sure to bring along a camera or smartphone to document your visit, but remember to be respectful of other visitors as you take your photos.
 
@@ -99,7 +99,7 @@ Check the official website for information on guided tours, as they may be avail
 The best time to visit is during spring and summer when the garden is in full bloom, offering vibrant colors and an abundance of plant life.
 
 ### Is it wheelchair accessible?
-The garden is designed to be accessible, but it’s advisable to check specific pathways and facilities for full accessibility details.
+The garden is designed to be accessible, but it's advisable to check specific pathways and facilities for full accessibility details.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and any potential discounts.

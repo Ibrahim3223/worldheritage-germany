@@ -109,7 +109,7 @@ Check the official website for current information regarding accessibility optio
 Check the official website for current information regarding any necessary fees or ticketing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s recommended to bring your own refreshments and check the official website for details on available amenities.
+Facilities may be limited; it's recommended to bring your own refreshments and check the official website for details on available amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to walk and explore the island.

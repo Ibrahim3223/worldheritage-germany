@@ -84,9 +84,9 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. This wi
 
 When planning your visit to the Mühlentor, it is advisable to dress comfortably, as exploring the area may involve walking on cobblestone streets. Comfortable shoes are recommended to enhance your experience as you navigate through Grimmen.
 
-Seasonal considerations are essential to keep in mind. The region experiences a temperate climate, with warm summers and cold winters. If you’re visiting during the colder months, be prepared for chillier temperatures and the possibility of rain.
+Seasonal considerations are essential to keep in mind. The region experiences a temperate climate, with warm summers and cold winters. If you're visiting during the colder months, be prepared for chillier temperatures and the possibility of rain.
 
-It’s also a good idea to bring a camera or smartphone to capture the beautiful architecture and vibrant atmosphere of Grimmen. A bottle of water and some snacks can be helpful for longer visits, especially if you plan to explore nearby attractions.
+It's also a good idea to bring a camera or smartphone to capture the beautiful architecture and vibrant atmosphere of Grimmen. A bottle of water and some snacks can be helpful for longer visits, especially if you plan to explore nearby attractions.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ While specific details about guided tours may vary, check the official website f
 The best times to visit are typically during spring and early autumn when the weather is mild and conducive to outdoor exploration.
 
 ### Is it wheelchair accessible?
-The Mühlentor is accessible, but it’s advisable to check current conditions as accessibility can vary.
+The Mühlentor is accessible, but it's advisable to check current conditions as accessibility can vary.
 
 ### Can I buy tickets online?
 Information on ticket purchasing will be available on the official website, so check there for details on any associated fees.

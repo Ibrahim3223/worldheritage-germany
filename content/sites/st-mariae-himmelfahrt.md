@@ -30,7 +30,7 @@ St. Mariä Himmelfahrt, a prominent church building located in Cologne, Germany,
 
 As a place of worship, St. Mariä Himmelfahrt has been a gathering point for generations, offering a glimpse into the traditions and practices of the local community. Its significance extends beyond religious functions, reflecting the artistic and historical narratives that define Cologne. Visitors can expect to be enveloped in a serene atmosphere, as well as to admire the craftsmanship that characterizes this church building. 
 
-Whether you are a history enthusiast, a devotee of architecture, or simply curious about Cologne’s religious heritage, St. Mariä Himmelfahrt promises an enriching experience that connects visitors with the spiritual essence of the city.
+Whether you are a history enthusiast, a devotee of architecture, or simply curious about Cologne's religious heritage, St. Mariä Himmelfahrt promises an enriching experience that connects visitors with the spiritual essence of the city.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ To visit St. Mariä Himmelfahrt, travelers can easily access the site using vari
 
 Expect to spend some time soaking in the serene atmosphere of the church, with opportunities to reflect or simply appreciate the architecture. A visit typically requires around one hour, allowing for ample time to explore both the interior and exterior.
 
-The best time to visit St. Mariä Himmelfahrt may vary, but weekdays often see fewer crowds compared to weekends, providing a more tranquil experience. Additionally, consider visiting during daylight hours to fully appreciate the natural light illuminating the church’s features.
+The best time to visit St. Mariä Himmelfahrt may vary, but weekdays often see fewer crowds compared to weekends, providing a more tranquil experience. Additionally, consider visiting during daylight hours to fully appreciate the natural light illuminating the church's features.
 
 ## Nearby Attractions
 

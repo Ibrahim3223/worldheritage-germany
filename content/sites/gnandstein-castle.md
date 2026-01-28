@@ -32,7 +32,7 @@ As you approach Gnandstein Castle, the grandeur of its structure and the invitin
 
 ## History and Significance
 
-Gnandstein Castle’s significance goes beyond its architectural charm; it embodies the historical evolution of the region. While specific dates of construction and key events may be elusive, the castle is known to have played a role in the local governance and military strategies throughout the years. The structure itself reflects the changing styles and functions of fortified buildings in Germany, evolving from a defensive stronghold to a site of cultural importance.
+Gnandstein Castle's significance goes beyond its architectural charm; it embodies the historical evolution of the region. While specific dates of construction and key events may be elusive, the castle is known to have played a role in the local governance and military strategies throughout the years. The structure itself reflects the changing styles and functions of fortified buildings in Germany, evolving from a defensive stronghold to a site of cultural importance.
 
 The castle's history is woven with threads of local folklore and the lives of those who have inhabited it. As a museum, Gnandstein Castle not only preserves artifacts but also tells the stories of the people who shaped the surrounding landscape. The cultural importance of the site is highlighted by its commitment to educating visitors about both the historical context of the region and the art it houses.
 

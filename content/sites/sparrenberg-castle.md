@@ -36,7 +36,7 @@ Sparrenberg Castle's origins trace back to a time when regional powers sought to
 
 Throughout its existence, Sparrenberg Castle has been integral to numerous historical events. It has served various purposes beyond military defense, evolving alongside the social and political landscape of the region. The castle has witnessed significant changes in governance and influence, making it a point of interest for those wishing to understand the complexities of local history.
 
-The cultural importance of Sparrenberg Castle extends to its role as a symbol of Bielefeld’s heritage. It represents the evolution of the region from a medieval stronghold to a modern urban center. Today, the castle continues to be a focal point for local events and activities, reinforcing its significance within the community.
+The cultural importance of Sparrenberg Castle extends to its role as a symbol of Bielefeld's heritage. It represents the evolution of the region from a medieval stronghold to a modern urban center. Today, the castle continues to be a focal point for local events and activities, reinforcing its significance within the community.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ Visiting Sparrenberg Castle offers an enriching experience for all who venture t
 
 When planning a trip, consider allocating a few hours to explore the castle and its surroundings. The best times to visit are typically during the spring and early autumn months, when the weather is pleasant and conducive to walking around the grounds. Expect to engage with both the historical displays and the scenic views that the castle provides.
 
-While on-site, visitors can anticipate a range of activities, including guided tours that delve into the castle’s rich history and architectural details. These tours often highlight the strategic significance of Sparrenberg Castle and its evolution over the centuries, providing a comprehensive understanding of its importance.
+While on-site, visitors can anticipate a range of activities, including guided tours that delve into the castle's rich history and architectural details. These tours often highlight the strategic significance of Sparrenberg Castle and its evolution over the centuries, providing a comprehensive understanding of its importance.
 
 ## Nearby Attractions
 

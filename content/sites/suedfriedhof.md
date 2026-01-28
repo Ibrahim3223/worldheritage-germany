@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Südfriedhof, a cemetery located in Kiel, Germany, serves as both a solemn resting place and a significant cultural landmark. With its expansive grounds and tranquil atmosphere, this cemetery invites visitors to reflect on history and the lives of those interred within its confines. Situated in the northern part of Germany, Kiel is known for its maritime heritage, and Südfriedhof adds depth to the city’s historical narrative. This site is not only a final resting place but also a testament to the region’s architectural and cultural evolution. Visitors can explore the serene paths and memorials that commemorate notable figures, offering a contemplative experience amid the bustle of modern life.
+Südfriedhof, a cemetery located in Kiel, Germany, serves as both a solemn resting place and a significant cultural landmark. With its expansive grounds and tranquil atmosphere, this cemetery invites visitors to reflect on history and the lives of those interred within its confines. Situated in the northern part of Germany, Kiel is known for its maritime heritage, and Südfriedhof adds depth to the city's historical narrative. This site is not only a final resting place but also a testament to the region's architectural and cultural evolution. Visitors can explore the serene paths and memorials that commemorate notable figures, offering a contemplative experience amid the bustle of modern life.
 
 ## History and Significance
 
@@ -95,7 +95,7 @@ Check the official website for information regarding guided tours, as these may 
 Spring and summer are ideal for visiting, as the gardens are in bloom. Early mornings or weekdays tend to be quieter.
 
 ### Is it wheelchair accessible?
-While some paths may be accessible, it’s best to check the official website for detailed information regarding accessibility options.
+While some paths may be accessible, it's best to check the official website for detailed information regarding accessibility options.
 
 ### Can I buy tickets online?
 There is no admission fee for visiting Südfriedhof, but for any events or exhibitions, check the official website for ticketing information.

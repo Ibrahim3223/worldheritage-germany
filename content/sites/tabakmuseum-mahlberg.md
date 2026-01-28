@@ -38,7 +38,7 @@ The architecture of the Tabakmuseum reflects the traditional styles of the regio
 
 Notable features include interactive exhibits that allow visitors to engage with the material in a hands-on manner. These displays often feature artifacts related to tobacco farming and processing, showcasing tools and techniques used throughout history. The layout is designed to facilitate a natural flow from one exhibit to the next, allowing for an immersive experience without overwhelming the visitor.
 
-The museum’s design also accommodates educational programs and workshops, emphasizing its role as a community resource. This focus on interaction and education further enhances the museum’s significance as a center for learning about tobacco and its broader cultural implications.
+The museum's design also accommodates educational programs and workshops, emphasizing its role as a community resource. This focus on interaction and education further enhances the museum's significance as a center for learning about tobacco and its broader cultural implications.
 
 ## Visiting Information
 
@@ -48,7 +48,7 @@ Getting to the museum is straightforward, with various transport options availab
 
 A typical visit may take around one to two hours, providing sufficient time to engage with the exhibits and absorb the information presented. For those keen on making the most of their visit, consider timing your trip during weekdays or early mornings to avoid peak crowds and enjoy a more relaxed experience.
 
-The museum’s programming may also include special events and exhibitions throughout the year, enhancing the visitor experience. Engaging with these offerings can provide deeper insights into the cultural significance of tobacco and its various facets.
+The museum's programming may also include special events and exhibitions throughout the year, enhancing the visitor experience. Engaging with these offerings can provide deeper insights into the cultural significance of tobacco and its various facets.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ Mahlberg is situated in a region rich in cultural and natural attractions. After
 
 3. **Baden-Württemberg Wine Route**: An excellent opportunity for wine lovers to sample local wines and explore vineyards in the surrounding countryside.
 
-4. **Europa-Park**: One of Europe’s largest theme parks, located nearby, offers thrilling rides and entertainment for families.
+4. **Europa-Park**: One of Europe's largest theme parks, located nearby, offers thrilling rides and entertainment for families.
 
 5. **Schutterwald Nature Reserve**: A tranquil area for those looking to enjoy some time outdoors, featuring walking trails and diverse flora and fauna.
 
@@ -68,7 +68,7 @@ Mahlberg is situated in a region rich in cultural and natural attractions. After
 
 To enhance your experience at the Tabakmuseum, consider the following tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for any specific restrictions upon arrival. Capturing the exhibits can provide a memorable keepsake of your visit.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for any specific restrictions upon arrival. Capturing the exhibits can provide a memorable keepsake of your visit.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, plan your visit during weekdays, especially in the morning. This will allow you to explore the exhibits with fewer distractions.
 
@@ -107,7 +107,7 @@ Accessibility information is available on the official website, so it is recomme
 Check the official website for options regarding ticket purchases and any potential discounts.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to confirm availability on the official website or inquire upon arrival.
+Facilities may vary, so it's best to confirm availability on the official website or inquire upon arrival.
 
 ### What should I wear?
 Dress comfortably and consider the weather, especially if you plan to explore outdoor attractions after your museum visit.

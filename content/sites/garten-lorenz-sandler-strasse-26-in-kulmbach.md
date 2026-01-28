@@ -28,7 +28,7 @@ Whether you are an avid gardener, a history enthusiast, or simply someone seekin
 
 ## History and Significance
 
-Garten Lorenz-Sandler-Straße 26 is designated as a cultural heritage monument (D-4-77-128-321) in Kulmbach, underlining its importance to the region’s historical narrative. While specific historical details about the garden's origin may not be readily available, it stands as a representation of the horticultural practices that have shaped the landscape of Kulmbach over the years.
+Garten Lorenz-Sandler-Straße 26 is designated as a cultural heritage monument (D-4-77-128-321) in Kulmbach, underlining its importance to the region's historical narrative. While specific historical details about the garden's origin may not be readily available, it stands as a representation of the horticultural practices that have shaped the landscape of Kulmbach over the years.
 
 The garden is more than just a collection of flora; it encapsulates the cultural values and artistic expressions of the time it was established. Gardens like this one were often designed not only for their aesthetic appeal but also for their functionality, serving as spaces for cultivating both food and beauty. The careful arrangement of plants and flowers reflects the meticulous planning and dedication of those who tended to it.
 
@@ -88,7 +88,7 @@ When planning your visit to Garten Lorenz-Sandler-Straße 26, it is advisable to
 
 Seasonal considerations are also important. Spring and summer typically offer the most vibrant displays of flowers, while autumn can present a stunning array of foliage colors. Winter visits may reveal a different beauty, with the garden taking on a serene, quiet character.
 
-It’s prudent to carry a water bottle to stay hydrated, especially during warmer months, and a light snack can enhance your experience if you plan to spend time in the garden.
+It's prudent to carry a water bottle to stay hydrated, especially during warmer months, and a light snack can enhance your experience if you plan to spend time in the garden.
 
 ## Frequently Asked Questions
 

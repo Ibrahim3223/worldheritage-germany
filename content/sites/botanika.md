@@ -70,7 +70,7 @@ While exploring Botanika, consider visiting these nearby attractions to enhance 
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon provides the best natural light to capture the garden’s beauty without harsh shadows. To avoid crowds, consider visiting on weekdays or during off-peak hours. 
+For photography enthusiasts, early morning or late afternoon provides the best natural light to capture the garden's beauty without harsh shadows. To avoid crowds, consider visiting on weekdays or during off-peak hours. 
 
 If you are interested in specific plant species, it may be helpful to bring a notebook or a plant identification app to document your discoveries. Additionally, don't forget to take time to simply enjoy the environment—find a quiet bench and immerse yourself in the tranquility of Botanika.
 

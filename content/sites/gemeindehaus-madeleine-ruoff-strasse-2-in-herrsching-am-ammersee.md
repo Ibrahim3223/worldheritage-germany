@@ -28,9 +28,9 @@ The Gemeindehaus is categorized as a cultural heritage monument (D-1-88-124-37),
 
 The Gemeindehaus in Herrsching am Ammersee has long served as a critical center for local governance and community activities. Its designation as a cultural heritage monument underscores its importance in preserving the historical fabric of the area. Although specific historical dates and events may not be readily available, the building's role as a city hall highlights its significance in the daily lives of residents.
 
-City halls often symbolize the heart of a community. In Herrsching, the Gemeindehaus embodies the collective spirit of its citizens, serving not just as an administrative center but also as a venue for cultural events and gatherings. The building’s presence in the town signifies the importance of civic engagement and local governance, which are vital in fostering a strong community identity.
+City halls often symbolize the heart of a community. In Herrsching, the Gemeindehaus embodies the collective spirit of its citizens, serving not just as an administrative center but also as a venue for cultural events and gatherings. The building's presence in the town signifies the importance of civic engagement and local governance, which are vital in fostering a strong community identity.
 
-The architectural style and design of the Gemeindehaus may reflect the broader historical trends in Bavarian architecture, characterized by functional yet aesthetically pleasing structures that prioritize community interaction. The building’s enduring presence is indicative of the town's commitment to preserving its heritage while fulfilling modern civic needs.
+The architectural style and design of the Gemeindehaus may reflect the broader historical trends in Bavarian architecture, characterized by functional yet aesthetically pleasing structures that prioritize community interaction. The building's enduring presence is indicative of the town's commitment to preserving its heritage while fulfilling modern civic needs.
 
 ## Architecture and Features
 
@@ -72,7 +72,7 @@ If photography is a priority, consider visiting during quiet hours to take unobs
 
 ## Practical Information
 
-When planning your visit to the Gemeindehaus, it’s wise to bring essentials such as water, comfortable walking shoes, and perhaps a light jacket, depending on the season. Herrsching can experience variable weather, so being prepared for sudden changes is advisable.
+When planning your visit to the Gemeindehaus, it's wise to bring essentials such as water, comfortable walking shoes, and perhaps a light jacket, depending on the season. Herrsching can experience variable weather, so being prepared for sudden changes is advisable.
 
 Seasonal considerations are important as well; summer months may offer more vibrant activities and events, while winter may present a quieter, more reflective atmosphere. Regardless of the season, the Gemeindehaus remains an integral part of the community's identity.
 

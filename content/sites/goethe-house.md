@@ -44,7 +44,7 @@ Goethe House is an exquisite example of late 18th-century domestic architecture,
 
 Inside, the rooms are meticulously curated to reflect the period's style, featuring period furnishings, artwork, and personal artifacts belonging to the Goethe family. Visitors can explore the various rooms, including the family living spaces and Goethe's study, where he penned some of his most famous works. Each room provides a glimpse into the daily life of the family, highlighting the cultural and intellectual pursuits that thrived within these walls.
 
-Notable features of Goethe House include the library, filled with books that influenced Goethe's literary development, and the intimate garden, which serves as a serene oasis amidst the bustling city. The garden is not only a beautiful space but also a symbol of the connection between nature and creativity, reflecting the Romantic ideals that permeated Goethe’s work.
+Notable features of Goethe House include the library, filled with books that influenced Goethe's literary development, and the intimate garden, which serves as a serene oasis amidst the bustling city. The garden is not only a beautiful space but also a symbol of the connection between nature and creativity, reflecting the Romantic ideals that permeated Goethe's work.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ While visiting Goethe House, take the opportunity to explore other nearby attrac
 
 2. **Städel Museum**: Renowned for its vast collection of European art spanning over 700 years, this museum provides an enriching experience for art enthusiasts.
 
-3. **Römer**: This historic building complex serves as the city hall and is an important symbol of Frankfurt’s medieval past, featuring picturesque architecture and charming squares.
+3. **Römer**: This historic building complex serves as the city hall and is an important symbol of Frankfurt's medieval past, featuring picturesque architecture and charming squares.
 
 4. **Palmengarten**: A beautiful botanical garden that showcases a diverse array of plant species, offering a tranquil escape from the urban environment.
 
@@ -76,7 +76,7 @@ To make the most of your visit to Goethe House, consider these insider tips:
 
 - **Crowd Avoidance**: To minimize wait times and enjoy a quieter experience, aim to visit during weekdays or early in the morning. 
 
-- **Engage with Staff**: Don’t hesitate to ask staff members for additional insights or recommendations. Their knowledge can enhance your understanding of the exhibits and the historical significance of the site.
+- **Engage with Staff**: Don't hesitate to ask staff members for additional insights or recommendations. Their knowledge can enhance your understanding of the exhibits and the historical significance of the site.
 
 ## Practical Information
 

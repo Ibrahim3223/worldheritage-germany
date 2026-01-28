@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Don-Bosco-Kirche, located in Augsburg, Germany, is an architectural and cultural landmark that draws the attention of both locals and visitors alike. This church, named after Saint John Bosco, reflects the spiritual and historical essence of the region, offering a serene space for worship and reflection. Augsburg, a city steeped in history, provides a picturesque backdrop for this church, known for its rich religious heritage and vibrant community life. As you approach the Don-Bosco-Kirche, you’re greeted by the promise of both tranquility and a deeper understanding of the religious traditions that have shaped this area.
+The Don-Bosco-Kirche, located in Augsburg, Germany, is an architectural and cultural landmark that draws the attention of both locals and visitors alike. This church, named after Saint John Bosco, reflects the spiritual and historical essence of the region, offering a serene space for worship and reflection. Augsburg, a city steeped in history, provides a picturesque backdrop for this church, known for its rich religious heritage and vibrant community life. As you approach the Don-Bosco-Kirche, you're greeted by the promise of both tranquility and a deeper understanding of the religious traditions that have shaped this area.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ The architectural style of the Don-Bosco-Kirche is characterized by its elegant 
 
 Inside the church, visitors can expect to find an atmosphere conducive to worship and reflection. The layout typically includes a main sanctuary, areas for communal gatherings, and spaces for private prayer. The altar may serve as a focal point, adorned with religious symbols and art that convey the teachings of Saint John Bosco and the Catholic faith.
 
-Notable architectural features might include intricate woodwork, well-designed lighting, and possibly murals or art installations that reflect the spiritual themes central to the church’s mission. As you explore the Don-Bosco-Kirche, take a moment to appreciate the craftsmanship and attention to detail that contribute to its serene ambiance.
+Notable architectural features might include intricate woodwork, well-designed lighting, and possibly murals or art installations that reflect the spiritual themes central to the church's mission. As you explore the Don-Bosco-Kirche, take a moment to appreciate the craftsmanship and attention to detail that contribute to its serene ambiance.
 
 ## Visiting Information
 
@@ -50,19 +50,19 @@ Visiting the Don-Bosco-Kirche is a rewarding experience for anyone interested in
 
 When planning your visit, consider allocating sufficient time to fully appreciate the church and its surroundings. A visit typically lasts around one to two hours, depending on your interest in photography, personal reflection, or participation in any ongoing services or events. 
 
-For those looking for the best times to visit, consider early mornings or late afternoons, when the church may be less crowded, allowing for a more personal experience. Additionally, attending a service can provide insight into the community’s religious practices and the role of the church in daily life.
+For those looking for the best times to visit, consider early mornings or late afternoons, when the church may be less crowded, allowing for a more personal experience. Additionally, attending a service can provide insight into the community's religious practices and the role of the church in daily life.
 
 ## Nearby Attractions
 
-While visiting the Don-Bosco-Kirche, consider exploring other attractions in Augsburg that enhance your understanding of the city’s rich history and culture. Here are a few notable nearby sites:
+While visiting the Don-Bosco-Kirche, consider exploring other attractions in Augsburg that enhance your understanding of the city's rich history and culture. Here are a few notable nearby sites:
 
 1. **Augsburg Cathedral**: A magnificent example of Gothic architecture, this cathedral is home to beautiful stained glass windows and an impressive altar.
-2. **Fuggerei**: The world’s oldest social housing complex, founded in the 16th century, offers a glimpse into the philanthropic efforts of the Fugger family.
+2. **Fuggerei**: The world's oldest social housing complex, founded in the 16th century, offers a glimpse into the philanthropic efforts of the Fugger family.
 3. **Augsburg City Hall**: Known for its stunning Renaissance architecture, the city hall features a gold-plated room that is a must-see for visitors.
 4. **Perlachturm**: This historic tower offers panoramic views of the city and is a fantastic spot for photography enthusiasts.
 5. **Schaezlerpalais**: A beautiful baroque palace that houses an art collection and is surrounded by lovely gardens.
 
-These attractions complement your visit to the Don-Bosco-Kirche and provide a broader context of Augsburg’s historical and cultural landscape.
+These attractions complement your visit to the Don-Bosco-Kirche and provide a broader context of Augsburg's historical and cultural landscape.
 
 ## Insider Tips
 

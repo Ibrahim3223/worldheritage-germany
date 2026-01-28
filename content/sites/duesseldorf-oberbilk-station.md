@@ -58,7 +58,7 @@ The station is likely to be busiest during peak commuting hours, so if you prefe
 
 Düsseldorf-Oberbilk station is strategically located near several attractions worth exploring:
 
-1. **Düsseldorf’s Old Town (Altstadt)**: A short distance away, this historic area is famous for its vibrant nightlife, traditional breweries, and charming cobblestone streets.
+1. **Düsseldorf's Old Town (Altstadt)**: A short distance away, this historic area is famous for its vibrant nightlife, traditional breweries, and charming cobblestone streets.
 2. **Mitsubishi Electric Halle**: A popular venue for concerts and events, this hall hosts a variety of performances throughout the year.
 3. **Kunstsammlung Nordrhein-Westfalen**: An art museum featuring a significant collection of modern and contemporary art, located within easy reach of the station.
 4. **Hofgarten**: A beautiful park perfect for a leisurely stroll, offering green spaces and scenic paths for relaxation.
@@ -76,7 +76,7 @@ To make the most of your visit to Düsseldorf-Oberbilk station, consider the fol
 
 ## Practical Information
 
-When visiting Düsseldorf-Oberbilk station, it’s advisable to come prepared:
+When visiting Düsseldorf-Oberbilk station, it's advisable to come prepared:
 
 - **What to Bring**: Carry a valid ticket for travel and any necessary identification. A small bag for personal items and a camera for capturing moments can enhance your experience.
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather. Winters can be cold, while summers may be warm and pleasant. Check the forecast before your visit to ensure comfort.

@@ -48,7 +48,7 @@ The architecture of the Church in Cramon not only serves a functional purpose bu
 
 ## Visiting Information
 
-Reaching the Church in Cramon is straightforward, whether you are traveling by car or public transport. The church’s location in Cramonshagen ensures that it is accessible from nearby towns and cities, allowing visitors to include it in their travel itineraries.
+Reaching the Church in Cramon is straightforward, whether you are traveling by car or public transport. The church's location in Cramonshagen ensures that it is accessible from nearby towns and cities, allowing visitors to include it in their travel itineraries.
 
 Check the official website for current information on visiting hours and any potential entry fees. Typically, visitors can expect to spend at least an hour exploring the church and its surroundings, allowing ample time for contemplation and photography. The best times to visit are often mid-morning or late afternoon when the light enhances the church's architectural features.
 
@@ -64,7 +64,7 @@ During your visit, you may find opportunities to attend a service or participate
 
 4. **Local Museums**: Look for small museums that highlight the history and culture of Cramonshagen and its surroundings, providing an educational component to your trip.
 
-5. **Cultural Events**: Depending on the time of year, you might encounter local festivals or events that celebrate the community’s traditions and history.
+5. **Cultural Events**: Depending on the time of year, you might encounter local festivals or events that celebrate the community's traditions and history.
 
 ## Insider Tips
 

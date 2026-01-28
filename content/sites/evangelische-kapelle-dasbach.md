@@ -38,7 +38,7 @@ As a national heritage site, the chapel is recognized for its architectural and 
 
 The architectural style of the Evangelische Kapelle Dasbach embodies elements characteristic of Protestant chapels in Germany. While specific design features are not detailed, the chapel is likely to showcase traditional elements such as a modest yet inviting facade, stained glass windows, and a simple interior that reflects the values of the Protestant faith. The chapel's layout may include a nave that facilitates communal worship, with seating arranged to foster a sense of unity among congregants.
 
-One notable aspect of chapels like Dasbach is their often serene and uncluttered interiors, encouraging contemplation and reflection. Visitors may find that the ambiance within the chapel promotes a peaceful atmosphere, ideal for both prayer and quiet introspection. The surrounding landscape could also enhance the experience, providing a natural backdrop that complements the chapel’s peaceful setting.
+One notable aspect of chapels like Dasbach is their often serene and uncluttered interiors, encouraging contemplation and reflection. Visitors may find that the ambiance within the chapel promotes a peaceful atmosphere, ideal for both prayer and quiet introspection. The surrounding landscape could also enhance the experience, providing a natural backdrop that complements the chapel's peaceful setting.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ When visiting the Evangelische Kapelle Dasbach, consider bringing a camera to ca
 
 ## Practical Information
 
-For a comfortable visit to the Evangelische Kapelle Dasbach, it’s advisable to dress modestly, respecting the nature of the site. Since the chapel is a place of worship, casual yet respectful attire is recommended. Depending on the season, bringing layers may be beneficial, as temperatures can vary throughout the day. Also, consider bringing a small notebook or journal if you enjoy reflecting on your experiences, as the peaceful environment is conducive to contemplation.
+For a comfortable visit to the Evangelische Kapelle Dasbach, it's advisable to dress modestly, respecting the nature of the site. Since the chapel is a place of worship, casual yet respectful attire is recommended. Depending on the season, bringing layers may be beneficial, as temperatures can vary throughout the day. Also, consider bringing a small notebook or journal if you enjoy reflecting on your experiences, as the peaceful environment is conducive to contemplation.
 
 As you prepare for your trip, remember to check the official website for any updates regarding visiting hours or special events that may coincide with your visit.
 

@@ -34,7 +34,7 @@ Visitors can expect to discover not only the history and artistry of Overbeck bu
 
 ## History and Significance
 
-The Overbeck-Museum is named after Heinrich Overbeck, a prominent figure in the 19th-century art scene. While specific details about the museum's founding are not provided, it is recognized for its role in preserving and promoting the works of this artist and his contemporaries. Overbeck, born in Bremen, focused on themes of nature and spirituality, which resonate throughout his body of work and are central to the museum’s collection. 
+The Overbeck-Museum is named after Heinrich Overbeck, a prominent figure in the 19th-century art scene. While specific details about the museum's founding are not provided, it is recognized for its role in preserving and promoting the works of this artist and his contemporaries. Overbeck, born in Bremen, focused on themes of nature and spirituality, which resonate throughout his body of work and are central to the museum's collection. 
 
 The museum serves a dual purpose: it not only honors the legacy of Overbeck but also fosters appreciation for the arts within the community. Exhibitions often include both historical pieces and contemporary works, allowing for a dialogue between past and present. This approach highlights the ongoing relevance of art in society and encourages visitors to engage with the themes presented in the exhibitions.
 
@@ -44,7 +44,7 @@ Over the years, the Overbeck-Museum has become a cultural hub in Vegesack, drawi
 
 The Overbeck-Museum is characterized by its thoughtful architectural design, which complements the artistic endeavors it houses. While specific architectural details are not provided, the museum's location along the Weser River adds a scenic backdrop that enhances the visitor experience. The building itself is designed to be both functional and welcoming, allowing for a smooth flow of foot traffic and easy access to exhibitions.
 
-Inside, the museum features a variety of exhibition spaces that are well-lit and conducive to viewing art. The layout is designed to encourage exploration, with different rooms dedicated to various themes and periods in art history. The walls are adorned with a selection of Overbeck’s works, offering insights into his techniques and stylistic evolution.
+Inside, the museum features a variety of exhibition spaces that are well-lit and conducive to viewing art. The layout is designed to encourage exploration, with different rooms dedicated to various themes and periods in art history. The walls are adorned with a selection of Overbeck's works, offering insights into his techniques and stylistic evolution.
 
 In addition to its permanent collection, the Overbeck-Museum frequently hosts temporary exhibitions, which showcase the work of contemporary artists and provide a platform for new artistic expressions. This dynamic programming is a key feature that keeps the museum relevant and engaging for repeat visitors.
 
@@ -62,7 +62,7 @@ While the Overbeck-Museum is a destination in itself, there are several nearby a
 
 1. **Vegesack Waterfront**: A picturesque area along the Weser River, perfect for a leisurely stroll or enjoying local cafés.
 2. **Museumshafen Vegesack**: A maritime museum showcasing historic ships and boats, reflecting the area's nautical heritage.
-3. **Bremen’s Historic Marketplace**: A short distance away, this UNESCO World Heritage site features stunning architecture and vibrant local life.
+3. **Bremen's Historic Marketplace**: A short distance away, this UNESCO World Heritage site features stunning architecture and vibrant local life.
 4. **Schwedenstein**: A local landmark offering scenic views and a bit of history tied to the region's connections with Sweden.
 5. **The Weserburg Museum of Modern Art**: Located a bit further afield in Bremen, this museum focuses on contemporary art, providing a contrast to the collections at the Overbeck-Museum.
 
@@ -72,7 +72,7 @@ To enhance your visit to the Overbeck-Museum, consider these insider tips:
 
 - **Photography**: While photography may be allowed in certain areas, always check for signage indicating restrictions. Respect the artwork and other visitors by using discretion.
 - **Crowd Avoidance**: If possible, visit during weekdays or in the morning to avoid larger crowds. This allows for a more relaxed experience and better access to the exhibits.
-- **Engage with Staff**: Museum staff can provide valuable insights and recommendations about the collection and ongoing exhibitions. Don’t hesitate to ask questions!
+- **Engage with Staff**: Museum staff can provide valuable insights and recommendations about the collection and ongoing exhibitions. Don't hesitate to ask questions!
 
 ## Practical Information
 
@@ -87,7 +87,7 @@ When planning your visit to the Overbeck-Museum, here are a few practical consid
 A visit typically takes around two hours, allowing you to thoroughly enjoy the exhibitions and the museum environment.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check for signage within the museum or ask staff if you’re unsure.
+Photography policies can vary. It's best to check for signage within the museum or ask staff if you're unsure.
 
 ### Are there guided tours?
 While specific information about guided tours isn't provided, check the official website for potential tour offerings or scheduled events.

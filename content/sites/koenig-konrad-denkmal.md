@@ -32,11 +32,11 @@ Villmar itself is a picturesque town in the state of Hesse, characterized by its
 
 ## History and Significance
 
-The König-Konrad-Denkmal is significant in its representation of the local heritage and the broader historical narrative of the region. While specific details about its construction or the events leading to its establishment may not be available, the monument symbolizes the reverence for King Conrad, who played a vital role in shaping the area’s historical landscape. 
+The König-Konrad-Denkmal is significant in its representation of the local heritage and the broader historical narrative of the region. While specific details about its construction or the events leading to its establishment may not be available, the monument symbolizes the reverence for King Conrad, who played a vital role in shaping the area's historical landscape. 
 
 King Conrad is often associated with various pivotal moments in German history, and his legacy is celebrated through this monument, which serves as a focal point for collective memory in Villmar. Monuments like König-Konrad-Denkmal are essential in preserving the stories of influential figures, making them accessible to future generations. 
 
-This site provides visitors with a glimpse into the past, offering an opportunity to reflect on the historical events and personalities that have influenced the region's development. The König-Konrad-Denkmal not only commemorates an individual but also fosters a sense of pride and continuity within the community, making it an integral part of Villmar’s identity.
+This site provides visitors with a glimpse into the past, offering an opportunity to reflect on the historical events and personalities that have influenced the region's development. The König-Konrad-Denkmal not only commemorates an individual but also fosters a sense of pride and continuity within the community, making it an integral part of Villmar's identity.
 
 ## Architecture and Features
 

@@ -106,4 +106,4 @@ Information about facilities, including restrooms and nearby dining options, can
 ### What should I wear?
 Dress modestly to respect the church environment, and consider wearing comfortable shoes for exploring the surrounding area. 
 
-St. Maria in Hannover is more than just a church building; it is a place that invites reflection, appreciation, and connection to the rich cultural fabric of the region. Whether you are drawn by faith, architecture, or history, your visit to this significant landmark promises to enrich your understanding of Hannover’s heritage.
+St. Maria in Hannover is more than just a church building; it is a place that invites reflection, appreciation, and connection to the rich cultural fabric of the region. Whether you are drawn by faith, architecture, or history, your visit to this significant landmark promises to enrich your understanding of Hannover's heritage.

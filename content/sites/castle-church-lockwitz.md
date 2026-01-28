@@ -28,7 +28,7 @@ image_srcset:
 
 Castle Church Lockwitz, a notable Protestant church located in the charming city of Dresden, Saxony, Germany, stands as a significant landmark that reflects the region's rich ecclesiastical heritage. This church is not only a place of worship but also a focal point for the local community, providing a serene setting for reflection and spiritual gatherings. The church's tranquil environment, coupled with its architectural integrity, invites visitors to explore its historical and cultural significance. 
 
-Dresden, known for its artistic legacy and cultural institutions, adds another layer of interest to a visit to Castle Church Lockwitz. The church is positioned within a vibrant historical context, making it an essential stop for those journeying through this culturally rich region. Visitors can expect to engage with the church’s serene atmosphere and appreciate its role in the local community.
+Dresden, known for its artistic legacy and cultural institutions, adds another layer of interest to a visit to Castle Church Lockwitz. The church is positioned within a vibrant historical context, making it an essential stop for those journeying through this culturally rich region. Visitors can expect to engage with the church's serene atmosphere and appreciate its role in the local community.
 
 ## History and Significance
 

@@ -105,7 +105,7 @@ While specific details on guided tours are not provided, local tourist informati
 The best times to visit are during late spring to early autumn when the weather is mild, and the surrounding parks are lush.
 
 ### Is it wheelchair accessible?
-While specific accessibility information is not available, many locations in Füssen are designed with accessibility in mind. It’s best to check local resources for detailed information.
+While specific accessibility information is not available, many locations in Füssen are designed with accessibility in mind. It's best to check local resources for detailed information.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding tickets and entry fees.

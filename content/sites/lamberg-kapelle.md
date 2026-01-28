@@ -72,7 +72,7 @@ If you're looking for a quiet moment, aim to go during off-peak hours. Many visi
 
 ## Practical Information
 
-When planning your visit to Lamberg-Kapelle, consider bringing a camera to capture the beauty of the chapel and its surroundings. It’s also wise to wear comfortable shoes, as exploring the area may involve some walking.
+When planning your visit to Lamberg-Kapelle, consider bringing a camera to capture the beauty of the chapel and its surroundings. It's also wise to wear comfortable shoes, as exploring the area may involve some walking.
 
 Seasonal considerations are important; the chapel can be a peaceful retreat year-round, but check the weather forecast before your visit to dress appropriately. Additionally, consider bringing a small notebook or journal if you wish to reflect on your visit or jot down thoughts inspired by the serene environment.
 
@@ -91,7 +91,7 @@ Information on guided tours is not specified, so it's best to check the official
 Visiting during weekdays or early mornings can provide a quieter experience compared to weekends.
 
 ### Is it wheelchair accessible?
-Details regarding accessibility are not provided. It’s advisable to check the official website for specific information.
+Details regarding accessibility are not provided. It's advisable to check the official website for specific information.
 
 ### Can I buy tickets online?
 Check the official website for details regarding ticket purchases and any admission fees.

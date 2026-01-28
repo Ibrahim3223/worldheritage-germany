@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kulturhistorisches Museum Magdeburg serves as a vital cultural hub in Germany, captivating visitors with its extensive collections that celebrate the rich history and heritage of the region. Located in Magdeburg, the museum provides an insightful glimpse into the area’s past, showcasing a variety of artifacts that reflect the evolution of local society and culture. Its mission to educate and inspire visitors through historical dialogue makes it a significant destination for anyone interested in understanding the layered narratives of this German city.
+The Kulturhistorisches Museum Magdeburg serves as a vital cultural hub in Germany, captivating visitors with its extensive collections that celebrate the rich history and heritage of the region. Located in Magdeburg, the museum provides an insightful glimpse into the area's past, showcasing a variety of artifacts that reflect the evolution of local society and culture. Its mission to educate and inspire visitors through historical dialogue makes it a significant destination for anyone interested in understanding the layered narratives of this German city.
 
 Magdeburg, situated along the Elbe River, is one of Germany's oldest cities, offering a blend of historical and contemporary experiences. The museum stands out as a key institution, inviting exploration of the intricate tapestry of local traditions, art, and social history. Visitors to the museum can expect a thoughtfully curated experience that highlights the cultural milestones and everyday life of Magdeburg's inhabitants over the centuries.
 
@@ -102,7 +102,7 @@ Weekdays or early mornings are often less crowded, providing a more relaxed expe
 The museum generally aims to be accessible; check the official website for specific accommodations.
 
 ### Can I buy tickets online?
-Online ticket purchasing options may be available; it’s best to consult the official website for current practices.
+Online ticket purchasing options may be available; it's best to consult the official website for current practices.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and possibly a café may be available; check the official website for specifics.

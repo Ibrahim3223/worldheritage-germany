@@ -30,7 +30,7 @@ image_srcset:
 
 The Altes Museum, located in Berlin's Bezirk Mitte, is a prominent antiquities museum that offers visitors an insightful glimpse into the art and artifacts of ancient civilizations. This iconic structure is not just a repository of history; it is a landmark of neoclassical architecture that adds character to the vibrant cultural landscape of the city. The museum houses an impressive collection, making it a significant destination for art enthusiasts and history buffs alike. Visitors can expect to explore a variety of exhibits that showcase the artistic achievements of ancient cultures, including the Greeks, Romans, and Etruscans.
 
-The museum's central location in Berlin makes it easily accessible for both locals and tourists. Its significance as a cultural institution is underscored by its role in the broader context of Berlin's historical narrative, particularly as it relates to the preservation and exhibition of art from antiquity. The Altes Museum promises an enriching experience, combining aesthetics and education, set against the backdrop of one of Europe’s most dynamic cities.
+The museum's central location in Berlin makes it easily accessible for both locals and tourists. Its significance as a cultural institution is underscored by its role in the broader context of Berlin's historical narrative, particularly as it relates to the preservation and exhibition of art from antiquity. The Altes Museum promises an enriching experience, combining aesthetics and education, set against the backdrop of one of Europe's most dynamic cities.
 
 ## History and Significance
 
@@ -99,7 +99,7 @@ The recommended visit duration is between one to three hours, depending on your 
 Photography is generally permitted, but be mindful of specific restrictions on certain exhibits. Flash photography may be prohibited.
 
 ### Are there guided tours?
-Yes, guided tours may be available. It’s advisable to check the official website for more details and to book in advance if desired.
+Yes, guided tours may be available. It's advisable to check the official website for more details and to book in advance if desired.
 
 ### What's the best time to visit?
 To avoid crowds, consider visiting early in the morning or on weekdays. 
@@ -111,7 +111,7 @@ Yes, the museum is equipped with facilities to accommodate visitors with mobilit
 Yes, tickets can often be purchased online. Check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Restrooms are available within the museum. Cafes or dining options may also be located nearby, but it’s best to verify on the official website.
+Restrooms are available within the museum. Cafes or dining options may also be located nearby, but it's best to verify on the official website.
 
 ### What should I wear?
 Comfortable attire and shoes are recommended, as you may spend a considerable amount of time walking and standing while exploring the exhibits.

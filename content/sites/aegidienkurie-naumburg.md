@@ -54,7 +54,7 @@ Visitors should check the official website for current information regarding hou
 
 The best times to visit the Ägidienkurie often align with local festivals or events, which may enhance the experience. Additionally, weekdays tend to be quieter, making them ideal for those seeking a peaceful visit.
 
-While at the chapel, visitors can expect to find informational materials or volunteers who can provide insights into the site’s history. However, it’s advisable to remain respectful of the sacred atmosphere, especially if services are occurring during your visit.
+While at the chapel, visitors can expect to find informational materials or volunteers who can provide insights into the site's history. However, it's advisable to remain respectful of the sacred atmosphere, especially if services are occurring during your visit.
 
 ## Nearby Attractions
 

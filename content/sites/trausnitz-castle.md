@@ -40,7 +40,7 @@ Throughout its history, the castle has witnessed various significant events, inc
 
 The architectural evolution of Trausnitz Castle mirrors the changing trends in castle design over the centuries. From its initial construction to subsequent modifications, the castle exhibits the characteristics of various architectural styles, making it a valuable study for those interested in historical building practices. The castle's fortifications, towers, and living quarters reveal insights into the lifestyle of the nobility and the defensive strategies of the time.
 
-Today, Trausnitz Castle stands as a significant cultural site that attracts visitors from around the world. Its preservation allows for an appreciation of the architectural and historical context of the region, making it a key landmark in Landshut’s heritage.
+Today, Trausnitz Castle stands as a significant cultural site that attracts visitors from around the world. Its preservation allows for an appreciation of the architectural and historical context of the region, making it a key landmark in Landshut's heritage.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Overall, the architecture of Trausnitz Castle is a blend of functionality and ae
 
 To visit Trausnitz Castle, travelers can access the site via various modes of transportation. The castle is conveniently located within Landshut, making it easily reachable by car or public transport. Visitors are encouraged to check the official website for current information on opening hours and ticket prices, as these may vary throughout the year.
 
-Upon arrival, visitors can expect to spend a few hours exploring the castle’s grounds and exhibits. It is advisable to allocate ample time to fully appreciate the history and architecture, as well as to enjoy the scenic views from the castle's towers.
+Upon arrival, visitors can expect to spend a few hours exploring the castle's grounds and exhibits. It is advisable to allocate ample time to fully appreciate the history and architecture, as well as to enjoy the scenic views from the castle's towers.
 
 The best times to visit Trausnitz Castle are during the spring and early autumn months when the weather is generally mild and conducive to outdoor exploration. During peak tourist season, visitors may encounter larger crowds, so planning your visit during weekdays can enhance the experience.
 

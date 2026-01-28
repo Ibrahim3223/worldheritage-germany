@@ -72,7 +72,7 @@ To make the most of your visit to the Grabungsmuseum und Krypta, consider these 
 
 - **Timing Your Visit**: Aim for early mornings or late afternoons to enjoy a quieter atmosphere. This can enhance your experience and allow for more thoughtful engagement with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their insights can enrich your visit and provide additional context to the artifacts.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their insights can enrich your visit and provide additional context to the artifacts.
 
 - **Plan for Children**: If visiting with kids, look for any family-oriented programs or activities that may be available, making the experience more enjoyable for younger visitors.
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Grabungsmuseum und Krypta, keep these pract
 
 - **Seasonal Considerations**: Depending on the time of year, weather can impact your visit. Dress appropriately for the season, and check if any outdoor activities are available.
 
-- **Accessibility**: Consider accessibility options if you or someone in your party has mobility concerns. Checking the museum’s facilities can help ensure a comfortable visit.
+- **Accessibility**: Consider accessibility options if you or someone in your party has mobility concerns. Checking the museum's facilities can help ensure a comfortable visit.
 
 ## Frequently Asked Questions
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Grabungsmuseum und Krypta, keep these pract
 A visit typically takes a few hours, allowing ample time to explore the exhibits and engage with the historical context.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival.
+Photography policies can vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and artifacts. Check for details on the official website.

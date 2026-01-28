@@ -34,7 +34,7 @@ As you explore the museum, you will encounter pieces that tell stories of ancien
 
 The Staatliche Münzsammlung has a profound cultural importance, serving as a repository of Germany's monetary history. While specific dates related to its founding or development are not detailed, the museum's collection reflects centuries of numismatic tradition. Coins, as objects of trade, are not simply currency; they are also historical documents that encapsulate the ideologies, economies, and artistic expressions of their times.
 
-Throughout history, coins have been used to convey political power and cultural identity. The Staatliche Münzsammlung’s collection features pieces from various epochs, including the Roman Empire, the Middle Ages, and the modern era, showcasing how currency has evolved in function and form. The museum also emphasizes regional monetary history, particularly that of Bavaria, providing insights into local governance and trade practices.
+Throughout history, coins have been used to convey political power and cultural identity. The Staatliche Münzsammlung's collection features pieces from various epochs, including the Roman Empire, the Middle Ages, and the modern era, showcasing how currency has evolved in function and form. The museum also emphasizes regional monetary history, particularly that of Bavaria, providing insights into local governance and trade practices.
 
 In addition to its collections, the museum participates in academic research and public education, hosting lectures and workshops that explore the significance of money beyond its monetary value. This engagement enhances the museum's role as a cultural institution, fostering a deeper understanding of economics and history among visitors.
 
@@ -78,7 +78,7 @@ To avoid crowds, aim to visit during weekday mornings. This timing not only allo
 
 When planning your visit to the Staatliche Münzsammlung, it is beneficial to bring along a few essentials. Comfortable walking shoes are recommended, as the museum may require some standing and walking to fully appreciate the collection.
 
-Seasonal considerations might also affect your experience. If visiting during the colder months, ensure you dress warmly, as you may need to navigate outdoor areas to reach the museum. Additionally, check the museum’s official website for any seasonal events or temporary exhibitions that could enhance your visit.
+Seasonal considerations might also affect your experience. If visiting during the colder months, ensure you dress warmly, as you may need to navigate outdoor areas to reach the museum. Additionally, check the museum's official website for any seasonal events or temporary exhibitions that could enhance your visit.
 
 ## Frequently Asked Questions
 

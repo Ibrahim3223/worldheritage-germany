@@ -86,7 +86,7 @@ Seasonal considerations, such as weather conditions, can impact your visit. Spri
 A visit to the Village Church of Paretz typically requires around one hour, allowing for time to explore and reflect.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s best to be respectful of any signs or local customs regarding photography.
+Photography is generally permitted inside the church, but it's best to be respectful of any signs or local customs regarding photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be available at certain times.
@@ -101,7 +101,7 @@ Access information is not specified; please check the official website for detai
 For ticketing information, including the possibility of purchasing tickets online, please check the official website.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and nearby cafes are not specified; it’s advisable to explore the village for local amenities.
+Details regarding restrooms and nearby cafes are not specified; it's advisable to explore the village for local amenities.
 
 ### What should I wear?
 Dress comfortably for your visit, keeping in mind that the church is a place of worship. Modest attire is recommended out of respect for the sacred space.

@@ -52,7 +52,7 @@ When planning a visit to the Protestant Church Wilnsdorf, it is essential to con
 
 For the most current information regarding visiting hours and any potential entrance fees, check the official website. Visitors can expect a welcoming atmosphere and an opportunity to engage in the life of the church, whether through participation in a service or simply by exploring the space.
 
-Typically, visitors may want to allocate about an hour for their visit, which allows enough time to appreciate the architecture and perhaps participate in any ongoing community events. The best times to visit may coincide with Sunday services or special community gatherings, where one can experience the church’s active role in local life.
+Typically, visitors may want to allocate about an hour for their visit, which allows enough time to appreciate the architecture and perhaps participate in any ongoing community events. The best times to visit may coincide with Sunday services or special community gatherings, where one can experience the church's active role in local life.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ While in Wilnsdorf, there are several nearby attractions that visitors may find 
 
 3. **Local Parks and Green Spaces**: Enjoy leisurely walks or picnics in the surrounding parks, which often have scenic views and are perfect for relaxation.
 
-4. **Historical Exhibits**: Look for local museums or galleries that showcase the history of Wilnsdorf and its community, providing a deeper understanding of the area’s heritage.
+4. **Historical Exhibits**: Look for local museums or galleries that showcase the history of Wilnsdorf and its community, providing a deeper understanding of the area's heritage.
 
 5. **Nature Trails**: If you enjoy outdoor activities, consider exploring the nature trails that can be found in the vicinity, offering opportunities for hiking and enjoying the natural landscape.
 

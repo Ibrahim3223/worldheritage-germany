@@ -98,7 +98,7 @@ When visiting Amorbach Abbey, it's advisable to bring a few essentials to ensure
 Plan to spend approximately one to two hours exploring Amorbach Abbey to fully appreciate its architecture and history.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check signage or ask staff regarding specific restrictions, especially in areas of worship.
+Photography policies may vary, so it's best to check signage or ask staff regarding specific restrictions, especially in areas of worship.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the abbey's history and architecture. Check the official website for details.
@@ -110,7 +110,7 @@ The best times to visit are during spring and early autumn when the weather is p
 Accessibility details may vary, so it is advisable to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
-Ticketing options can change, so it’s wise to check the official website for current information on purchasing tickets online.
+Ticketing options can change, so it's wise to check the official website for current information on purchasing tickets online.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and nearby cafes may be available; check the official website for specifics.

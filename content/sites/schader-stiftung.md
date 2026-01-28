@@ -22,7 +22,7 @@ images:
 
 The Schader-Stiftung, located in Darmstadt, Germany, is a notable foundation dedicated to advancing social sciences aimed at fostering societal change. This institution serves as a hub for research, dialogue, and innovation, focusing on contemporary social issues and their implications. It plays a vital role in integrating academic perspectives with practical outcomes, contributing to a better understanding of diverse societal dynamics. With an emphasis on collaboration among scholars, policymakers, and practitioners, the foundation strives to address pressing societal challenges, making it a significant player in the field of social sciences.
 
-Darmstadt itself is a city rich in cultural heritage and academic tradition, making it an ideal setting for such a foundation. Known for its progressive ideas and commitment to education, the region offers a stimulating backdrop for the Schader-Stiftung’s mission. Visitors to the foundation can expect to engage with a range of programs and initiatives aimed at promoting informed discourse and innovative solutions.
+Darmstadt itself is a city rich in cultural heritage and academic tradition, making it an ideal setting for such a foundation. Known for its progressive ideas and commitment to education, the region offers a stimulating backdrop for the Schader-Stiftung's mission. Visitors to the foundation can expect to engage with a range of programs and initiatives aimed at promoting informed discourse and innovative solutions.
 
 Whether you are a scholar, a student of social sciences, or simply curious about the dynamics of societal change, the Schader-Stiftung presents a unique opportunity to explore impactful ideas and engage with thought leaders in the field.
 
@@ -32,7 +32,7 @@ While specific historical dates might not be available, the Schader-Stiftung has
 
 The foundation's initiatives often involve interdisciplinary approaches, drawing from various fields within the social sciences to address multifaceted problems. This collaborative spirit not only enriches the academic discourse but also informs policy and practice, demonstrating the relevance of academic research in real-world applications.
 
-Schader-Stiftung’s significance extends beyond academic circles, as it engages with the broader community to inspire dialogue and action on critical societal challenges. By fostering connections between researchers and practitioners, the foundation plays an essential role in translating academic insights into actionable strategies for societal improvement.
+Schader-Stiftung's significance extends beyond academic circles, as it engages with the broader community to inspire dialogue and action on critical societal challenges. By fostering connections between researchers and practitioners, the foundation plays an essential role in translating academic insights into actionable strategies for societal improvement.
 
 The impact of its work is evident in various projects and programs that aim to promote dialogue, understanding, and solutions to contemporary issues. The foundation's commitment to societal change resonates with its mission, making it a respected entity in the landscape of social sciences in Germany and beyond.
 
@@ -40,7 +40,7 @@ The impact of its work is evident in various projects and programs that aim to p
 
 The Schader-Stiftung is housed in a facility that reflects its mission of innovation and collaboration. While specific architectural details may not be available, the foundation's design is likely to facilitate interaction and engagement among visitors and participants. Spaces within the foundation may include conference rooms, lecture halls, and collaborative areas, all equipped to support various activities, from workshops to public discussions.
 
-The layout of the building is intended to promote an open exchange of ideas, aligning with the foundation’s goal of fostering dialogue between scholars and the community. Such environments are crucial for stimulating creativity and facilitating the collaborative process necessary for addressing complex social issues.
+The layout of the building is intended to promote an open exchange of ideas, aligning with the foundation's goal of fostering dialogue between scholars and the community. Such environments are crucial for stimulating creativity and facilitating the collaborative process necessary for addressing complex social issues.
 
 While the architectural design details are not specified, the emphasis on functionality and accessibility is paramount. Visitors can expect an inviting atmosphere conducive to learning and engagement, embodying the foundation's commitment to societal change and academic inquiry.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Festhalle Frankfurt is a prominent multi-purpose hall located in the heart of Frankfurt, Germany. This versatile venue has played a crucial role in the cultural and social landscape of the city since its inception, hosting a diverse array of events ranging from concerts and exhibitions to trade fairs and corporate gatherings. Its central location makes it a convenient destination for both locals and tourists, ensuring that it remains an integral part of Frankfurt’s vibrant cultural scene.
+Festhalle Frankfurt is a prominent multi-purpose hall located in the heart of Frankfurt, Germany. This versatile venue has played a crucial role in the cultural and social landscape of the city since its inception, hosting a diverse array of events ranging from concerts and exhibitions to trade fairs and corporate gatherings. Its central location makes it a convenient destination for both locals and tourists, ensuring that it remains an integral part of Frankfurt's vibrant cultural scene.
 
 The Festhalle is not only a functional space but also a symbol of Frankfurt's dynamic spirit. With a capacity that allows for large audiences, it frequently attracts international acts and significant exhibitions, making it a cornerstone for entertainment and commerce in the region. The surrounding area offers a mix of urban excitement, with shops, restaurants, and historic sites nearby, making a visit to the Festhalle an engaging experience within a broader exploration of Frankfurt.
 
@@ -36,7 +36,7 @@ The Festhalle Frankfurt has served as a multi-purpose arena for many years, embo
 
 Over the years, Festhalle has hosted an impressive array of performances and exhibitions, from classical music concerts and contemporary shows to international trade fairs that showcase the latest innovations across various industries. Its role as a gathering place for cultural exchange and community engagement cannot be overstated, as it has fostered connections among people from diverse backgrounds, promoting a sense of unity in the city.
 
-As a prominent location within Frankfurt, the Festhalle also plays a part in the city’s reputation as a global hub for finance and culture. The events held here contribute to Frankfurt's image as a forward-thinking city, while simultaneously honoring its rich cultural heritage. This unique combination of tradition and modernity makes the Festhalle a vital institution in Frankfurt's urban landscape.
+As a prominent location within Frankfurt, the Festhalle also plays a part in the city's reputation as a global hub for finance and culture. The events held here contribute to Frankfurt's image as a forward-thinking city, while simultaneously honoring its rich cultural heritage. This unique combination of tradition and modernity makes the Festhalle a vital institution in Frankfurt's urban landscape.
 
 ## Architecture and Features
 
@@ -99,7 +99,7 @@ Information on guided tours is not specified. Check the official website for pot
 The best time to visit is during major events when the hall is bustling with activity. Weekdays and matinee performances may offer a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided. It’s advisable to check the official website for current information regarding wheelchair access and facilities.
+Accessibility details are not provided. It's advisable to check the official website for current information regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Yes, tickets can generally be purchased online. Check the official website for availability and purchasing options.

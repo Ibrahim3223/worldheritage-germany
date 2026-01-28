@@ -34,11 +34,11 @@ Visitors to the station can expect a modern transportation facility equipped wit
 
 ## History and Significance
 
-The history of Berlin-Lichtenberg railway station reflects the evolution of transportation in the region. Established during a period of rapid development in Berlin’s railway infrastructure, the station showcases the city’s ongoing commitment to enhancing its connectivity. While specific dates and events may not be outlined, the significance of Berlin-Lichtenberg is evident in its role in facilitating the movement of people and goods throughout the city.
+The history of Berlin-Lichtenberg railway station reflects the evolution of transportation in the region. Established during a period of rapid development in Berlin's railway infrastructure, the station showcases the city's ongoing commitment to enhancing its connectivity. While specific dates and events may not be outlined, the significance of Berlin-Lichtenberg is evident in its role in facilitating the movement of people and goods throughout the city.
 
 The station has also played a notable role in the socio-economic fabric of Lichtenberg. As residential areas expanded in the surrounding districts, the need for effective transportation grew. Berlin-Lichtenberg railway station met this demand, contributing to the community's growth and development. The station is not merely a transit point; it is intertwined with the lives of the locals who depend on rail services for commuting, shopping, and leisure activities.
 
-Moreover, the station's strategic importance during various historical periods, including the Cold War, has left a lasting impact on its identity. The station has witnessed significant changes, reflecting the broader transformations within Berlin itself. Today, it stands as a reminder of the city’s adaptability and resilience, continually evolving to meet the needs of its inhabitants and visitors.
+Moreover, the station's strategic importance during various historical periods, including the Cold War, has left a lasting impact on its identity. The station has witnessed significant changes, reflecting the broader transformations within Berlin itself. Today, it stands as a reminder of the city's adaptability and resilience, continually evolving to meet the needs of its inhabitants and visitors.
 
 ## Architecture and Features
 

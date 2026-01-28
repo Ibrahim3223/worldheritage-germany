@@ -50,7 +50,7 @@ Reaching the Altendorf Tiefbau Colliery is straightforward, given its location i
 
 Visitors can expect a tour that provides insights into the mining operations and the historical context of the site. Depending on the interest level, a visit may take a couple of hours, allowing ample time to explore and absorb the information offered. 
 
-The best times to visit the Altendorf Tiefbau Colliery are during spring and autumn when the weather is generally mild, making it comfortable for outdoor exploration. Additionally, it’s worth considering visiting during weekdays to avoid larger crowds, providing a more personal experience as you delve into the site’s history.
+The best times to visit the Altendorf Tiefbau Colliery are during spring and autumn when the weather is generally mild, making it comfortable for outdoor exploration. Additionally, it's worth considering visiting during weekdays to avoid larger crowds, providing a more personal experience as you delve into the site's history.
 
 ## Nearby Attractions
 
@@ -102,4 +102,4 @@ Facilities may be available on-site, but it is advisable to confirm this on the 
 ### What should I wear?
 Wear comfortable shoes and clothing appropriate for the weather, as the site may involve walking and exploring outdoor areas.
 
-The Altendorf Tiefbau Colliery is not just a site of industrial heritage; it is a space for reflection on the lives intertwined with its existence and an opportunity to appreciate the evolution of the Ruhr region’s industrial landscape.
+The Altendorf Tiefbau Colliery is not just a site of industrial heritage; it is a space for reflection on the lives intertwined with its existence and an opportunity to appreciate the evolution of the Ruhr region's industrial landscape.

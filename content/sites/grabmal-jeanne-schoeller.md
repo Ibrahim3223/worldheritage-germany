@@ -46,7 +46,7 @@ While specific architectural details of the Grabmal Jeanne Schoeller may not be 
 
 The layout of the tomb is likely to provide a sense of solemnity and respect, encouraging visitors to engage thoughtfully with the site. The materials used in the construction may vary, often consisting of stone or other durable materials that withstand the test of time and the elements. These choices not only serve practical purposes but also convey a sense of permanence and reverence for the deceased.
 
-Visitors can expect to find an atmosphere that encourages quiet reflection. The simplicity or complexity of the tomb’s design can elicit a range of emotions, from awe to contemplation, as individuals connect with the narratives encapsulated within its structure. While the specific architectural features may remain somewhat elusive, the overall experience of visiting the Grabmal Jeanne Schoeller is undoubtedly enriched by its historical and cultural significance.
+Visitors can expect to find an atmosphere that encourages quiet reflection. The simplicity or complexity of the tomb's design can elicit a range of emotions, from awe to contemplation, as individuals connect with the narratives encapsulated within its structure. While the specific architectural features may remain somewhat elusive, the overall experience of visiting the Grabmal Jeanne Schoeller is undoubtedly enriched by its historical and cultural significance.
 
 ## Visiting Information
 
@@ -95,7 +95,7 @@ Information regarding guided tours may vary, so checking the official website fo
 Spring and autumn are generally the best times for visiting, with pleasant weather enhancing the experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be widely documented, so it’s best to check the official website for specific details.
+Accessibility information may not be widely documented, so it's best to check the official website for specific details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may change, so checking the official website for current information is advisable.

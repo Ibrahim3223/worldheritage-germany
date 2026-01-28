@@ -72,7 +72,7 @@ While visiting Fridericianum, consider exploring these nearby attractions that f
 
 3. **Orangerie**: Located within the Karlsaue park, this beautiful baroque palace houses the Kassel Museum of Natural History and offers a serene environment for a leisurely stroll.
 
-4. **Kassel’s Brothers Grimm Museum**: Celebrating the legacy of the Brothers Grimm, this museum provides insight into their lives and works, adding a literary touch to your cultural explorations.
+4. **Kassel's Brothers Grimm Museum**: Celebrating the legacy of the Brothers Grimm, this museum provides insight into their lives and works, adding a literary touch to your cultural explorations.
 
 5. **Karlsaue Park**: A picturesque public park adjacent to Fridericianum, perfect for relaxing and enjoying the outdoors after your museum visit.
 
@@ -94,7 +94,7 @@ Before heading to Fridericianum, here are some practical considerations:
 
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast and dress accordingly, especially if you plan to explore nearby parks or outdoor attractions.
 
-- **Accessibility**: Fridericianum is designed to be accessible to all visitors. If you have specific needs, it’s advisable to inquire about available accommodations when planning your visit.
+- **Accessibility**: Fridericianum is designed to be accessible to all visitors. If you have specific needs, it's advisable to inquire about available accommodations when planning your visit.
 
 ## Frequently Asked Questions
 

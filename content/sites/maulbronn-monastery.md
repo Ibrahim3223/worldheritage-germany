@@ -38,7 +38,7 @@ Visitors can expect an immersive experience as they walk through the cloisters, 
 
 Maulbronn Monastery's history is deeply intertwined with the Cistercian order, which was established in the 12th century. The monastery originated as a spiritual retreat and a center for agricultural innovation, where monks dedicated themselves to a life of prayer and manual labor. Over the centuries, the monastery became a crucial hub for spiritual and cultural activities, contributing to the spread of the Cistercian ideals across Europe.
 
-The Cistercians were known for their commitment to simplicity and self-sufficiency, and Maulbronn was no exception. The monks cultivated the surrounding land, practiced sustainable farming, and developed sophisticated water management systems to support their agricultural endeavors. This dedication to sustainable practices was ahead of its time and has left a lasting impact on the region’s agricultural practices.
+The Cistercians were known for their commitment to simplicity and self-sufficiency, and Maulbronn was no exception. The monks cultivated the surrounding land, practiced sustainable farming, and developed sophisticated water management systems to support their agricultural endeavors. This dedication to sustainable practices was ahead of its time and has left a lasting impact on the region's agricultural practices.
 
 During the Reformation in the 16th century, Maulbronn Monastery underwent significant changes as Protestantism began to take hold in Germany. The monastery was dissolved, but its structures and the spirit of its community persisted. This resilience has allowed Maulbronn to remain a vital part of the cultural heritage landscape, exemplifying the transition from monastic life to a more secular society.
 
@@ -52,7 +52,7 @@ One of the most notable features of the monastery is the Church of St. Mary, whi
 
 The cloisters are another highlight, featuring detailed arches that create a sense of harmony and tranquility. Here, visitors can imagine the monks walking in contemplation, surrounded by the beauty of nature and the sacred space. The gardens of the monastery, designed for meditation and cultivation, further enhance the peaceful atmosphere and offer a glimpse into the monastic lifestyle.
 
-Throughout the site, visitors will find various buildings that served different purposes during the monastery’s operational years, including the refectory, dormitories, and workshops. Each structure tells a part of the story of daily life at Maulbronn, revealing the practical and spiritual dimensions of monastic existence.
+Throughout the site, visitors will find various buildings that served different purposes during the monastery's operational years, including the refectory, dormitories, and workshops. Each structure tells a part of the story of daily life at Maulbronn, revealing the practical and spiritual dimensions of monastic existence.
 
 ## Visiting Information
 
@@ -113,7 +113,7 @@ Yes, guided tours may be available, providing valuable insights into the site's 
 The best times to visit are during spring and early autumn for mild weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-While efforts have been made to improve accessibility, it’s advisable to check the official website for specific details regarding wheelchair access.
+While efforts have been made to improve accessibility, it's advisable to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

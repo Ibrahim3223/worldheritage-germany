@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Mannheim Main Cemetery, located in the heart of Mannheim, Germany, serves as a significant cultural landmark and a serene space for reflection and remembrance. Established amidst the bustling urban backdrop, this cemetery is more than just a resting place; it represents a rich narrative of the city’s history and evolution. Visitors are drawn to its tranquil paths, ornate memorials, and the stories etched in stone, providing a unique lens through which to appreciate the area's heritage.
+Mannheim Main Cemetery, located in the heart of Mannheim, Germany, serves as a significant cultural landmark and a serene space for reflection and remembrance. Established amidst the bustling urban backdrop, this cemetery is more than just a resting place; it represents a rich narrative of the city's history and evolution. Visitors are drawn to its tranquil paths, ornate memorials, and the stories etched in stone, providing a unique lens through which to appreciate the area's heritage.
 
-The cemetery’s location, marked by its coordinates of 49.4908° N latitude and 8.49196° E longitude, places it conveniently within reach for those exploring Mannheim. As a site of historical and cultural importance, Mannheim Main Cemetery invites visitors to engage with the past while offering a peaceful environment for contemplation. Whether you are a history enthusiast, an architecture lover, or someone seeking a quiet place to reflect, this cemetery promises an enriching experience.
+The cemetery's location, marked by its coordinates of 49.4908° N latitude and 8.49196° E longitude, places it conveniently within reach for those exploring Mannheim. As a site of historical and cultural importance, Mannheim Main Cemetery invites visitors to engage with the past while offering a peaceful environment for contemplation. Whether you are a history enthusiast, an architecture lover, or someone seeking a quiet place to reflect, this cemetery promises an enriching experience.
 
 ## History and Significance
 
-The history of Mannheim Main Cemetery reflects the broader historical currents that have shaped the city itself. As one of the city's key burial grounds, it holds the remains of many prominent figures, including local dignitaries, artists, and intellectuals who have played a vital role in Mannheim's development. The cemetery is not only a final resting place but also a memorial to the city’s evolution from a small settlement into a significant urban center.
+The history of Mannheim Main Cemetery reflects the broader historical currents that have shaped the city itself. As one of the city's key burial grounds, it holds the remains of many prominent figures, including local dignitaries, artists, and intellectuals who have played a vital role in Mannheim's development. The cemetery is not only a final resting place but also a memorial to the city's evolution from a small settlement into a significant urban center.
 
-Mannheim’s establishment as a city in the early 17th century set the stage for its eventual growth, and the cemetery has witnessed various socio-political changes throughout the centuries. The burial site underscores the city’s commitment to honoring its past while providing a space for future generations to remember those who contributed to the community's cultural landscape.
+Mannheim's establishment as a city in the early 17th century set the stage for its eventual growth, and the cemetery has witnessed various socio-political changes throughout the centuries. The burial site underscores the city's commitment to honoring its past while providing a space for future generations to remember those who contributed to the community's cultural landscape.
 
 Moreover, the cemetery serves as an important site for cultural and historical research. It offers insights into local customs surrounding death and burial practices, reflecting broader trends in German society. The gravestones, monuments, and mausoleums present a fascinating array of design styles that highlight the artistic movements of their respective eras, making the cemetery a valuable resource for historians and art enthusiasts alike.
 
@@ -70,7 +70,7 @@ When planning a visit, consider allocating at least an hour to fully appreciate 
 
 To make the most of your visit to Mannheim Main Cemetery, consider bringing a camera to capture the unique architectural details and serene landscapes. Early mornings or weekdays may offer a quieter experience, allowing for more personal reflection without the distraction of larger crowds.
 
-While strolling through the cemetery, be respectful of the space and its significance. It’s advisable to maintain a quiet demeanor, as many visitors come to honor their loved ones. Engaging with the historical context of the memorials can enhance your experience, providing depth to the stories represented in the cemetery.
+While strolling through the cemetery, be respectful of the space and its significance. It's advisable to maintain a quiet demeanor, as many visitors come to honor their loved ones. Engaging with the historical context of the memorials can enhance your experience, providing depth to the stories represented in the cemetery.
 
 ## Practical Information
 
@@ -93,7 +93,7 @@ Currently, there are no specific guided tours mentioned for Mannheim Main Cemete
 Early mornings or late afternoons are ideal for a quieter experience, especially on weekdays. 
 
 ### Is it wheelchair accessible?
-The cemetery's paths are generally accessible, but it’s advisable to check the official website for specific accessibility information.
+The cemetery's paths are generally accessible, but it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 Information regarding tickets is not specified, so check the official website for any updates on entry fees or guided tours.

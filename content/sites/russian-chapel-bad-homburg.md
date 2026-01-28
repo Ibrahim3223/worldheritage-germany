@@ -34,7 +34,7 @@ Visitors to the Russian Chapel can expect a peaceful atmosphere, with the struct
 
 The Russian Chapel was built as a memorial for Russian soldiers who lost their lives during World War I. It represents a profound connection between the Russian community and their experiences of displacement and loss. The early 20th century saw a significant number of Russians seeking refuge in Germany, particularly during and after the tumultuous events of the Russian Revolution. This chapel emerged as a spiritual haven, embodying the hopes and sorrows of those who found solace in its walls.
 
-Culturally, the chapel serves as a significant marker of Russian heritage within Germany, illustrating the broader narratives of migration and adaptation. The Russian community in Bad Homburg played a vital role in the town’s social fabric, contributing to its cultural diversity. The chapel is not just a place of worship; it is a space where history and memory converge, providing visitors with insights into the lives of those who once sought refuge within its sacred space.
+Culturally, the chapel serves as a significant marker of Russian heritage within Germany, illustrating the broader narratives of migration and adaptation. The Russian community in Bad Homburg played a vital role in the town's social fabric, contributing to its cultural diversity. The chapel is not just a place of worship; it is a space where history and memory converge, providing visitors with insights into the lives of those who once sought refuge within its sacred space.
 
 The influence of Russian architectural styles is evident in the chapel's design, which reflects the artistic traditions of the Orthodox Church. Although specific dates regarding its construction are not provided, the chapel is an enduring symbol of the intermingling of Russian and German cultures, harking back to a time of uncertainty yet also of hope for many émigrés.
 
@@ -70,7 +70,7 @@ While visiting the Russian Chapel, consider exploring these nearby attractions:
 
 ## Insider Tips
 
-For photography enthusiasts, the early morning light can cast a beautiful glow on the chapel’s exterior, making for captivating images. Inside, be respectful of the sacred nature of the space when capturing photos. To avoid larger crowds, visit during weekdays or earlier in the day.
+For photography enthusiasts, the early morning light can cast a beautiful glow on the chapel's exterior, making for captivating images. Inside, be respectful of the sacred nature of the space when capturing photos. To avoid larger crowds, visit during weekdays or earlier in the day.
 
 If you are hoping for a more serene experience, consider timing your visit outside of holiday seasons or local events when the chapel may be more frequented by visitors. 
 

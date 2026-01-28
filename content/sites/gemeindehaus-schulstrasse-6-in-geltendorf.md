@@ -42,7 +42,7 @@ The architectural style of the Gemeindehaus Schulstraße 6 reflects the characte
 
 City halls often feature prominent façades, which serve to emphasize their importance within the community. Expect to see elements that highlight the symmetry and grandeur often associated with municipal buildings, potentially including decorative cornices, large windows, and possibly a tower or clock that signifies its civic role.
 
-Inside, the Gemeindehaus may offer spaces for meetings, public gatherings, and community events, reflecting the multifunctional nature of contemporary city halls. As a cultural heritage monument, particular attention would have been paid to preserving historical elements that convey the building’s story and significance in the context of Geltendorf.
+Inside, the Gemeindehaus may offer spaces for meetings, public gatherings, and community events, reflecting the multifunctional nature of contemporary city halls. As a cultural heritage monument, particular attention would have been paid to preserving historical elements that convey the building's story and significance in the context of Geltendorf.
 
 While specific architectural details are not provided, the community's respect for this building underscores its importance as a symbol of local governance and civic pride. The Gemeindehaus Schulstraße 6, therefore, serves not only as a functional space but also as an architectural landmark that contributes to the identity of Geltendorf.
 
@@ -80,11 +80,11 @@ To make the most of your visit to the Gemeindehaus Schulstraße 6, consider thes
 
 - **Crowd Avoidance**: If possible, visit mid-week to avoid the busier weekends, especially if local events are taking place. This will allow for a more relaxed exploration of the city hall and the surrounding area.
 
-- **Engage with Locals**: Don’t hesitate to strike up a conversation with locals. They can offer insights into the building's history and its role in the community.
+- **Engage with Locals**: Don't hesitate to strike up a conversation with locals. They can offer insights into the building's history and its role in the community.
 
 ## Practical Information
 
-When visiting the Gemeindehaus Schulstraße 6, it’s helpful to keep these practical considerations in mind:
+When visiting the Gemeindehaus Schulstraße 6, it's helpful to keep these practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the surrounding areas. A camera can capture the architectural beauty, but be mindful of any photography rules.
 
@@ -98,7 +98,7 @@ When visiting the Gemeindehaus Schulstraße 6, it’s helpful to keep these prac
 A visit of about one hour is typically sufficient for a general appreciation of the Gemeindehaus and its surroundings, but longer stays may be rewarding if you wish to delve deeper into local culture.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s advisable to check for any restrictions, particularly during events or meetings.
+Photography may be permitted, but it's advisable to check for any restrictions, particularly during events or meetings.
 
 ### Are there guided tours?
 Information regarding guided tours may vary. Check the official website for any scheduled tours or events that may enhance your experience.
@@ -107,13 +107,13 @@ Information regarding guided tours may vary. Check the official website for any 
 Visiting in the spring or summer months is ideal, as the weather is generally pleasant, allowing for a more enjoyable exploration of Geltendorf.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s best to check the official website or contact local authorities for detailed accessibility options.
+Accessibility information is not specified; it's best to check the official website or contact local authorities for detailed accessibility options.
 
 ### Can I buy tickets online?
 Information about online ticket purchases is not available. Check the official website for the most current information regarding entry fees and ticketing.
 
 ### Are there restrooms and cafes?
-Details regarding facilities like restrooms and nearby cafes are not specified. It’s advisable to explore local options around the town square.
+Details regarding facilities like restrooms and nearby cafes are not specified. It's advisable to explore local options around the town square.
 
 ### What should I wear?
 Dress comfortably, considering the weather and the possibility of attending community events. Casual attire is generally suitable for visiting municipal buildings.

@@ -104,7 +104,7 @@ Visiting in spring or autumn may provide the most pleasant weather conditions fo
 Accessibility information for the site is not specified. Check the official website for current details.
 
 ### Can I buy tickets online?
-Ticket purchasing options are not detailed. It’s advisable to check the official website for the latest information.
+Ticket purchasing options are not detailed. It's advisable to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Details about amenities are not provided. Consider bringing your own refreshments for a comfortable visit.

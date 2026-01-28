@@ -54,7 +54,7 @@ Overall, the architecture of the Selimiye-Moschee embodies the principles of pea
 
 Visiting the Selimiye-Moschee offers a unique opportunity to engage with the local culture and community. To get there, various transport options are typically available, including public transport and private vehicles. The mosque's location in Gütersloh makes it accessible for both local residents and visitors from nearby towns.
 
-It’s advisable to check the official website for current information regarding visiting hours and any potential entry fees. Visitors can also learn about any scheduled events or programs that may coincide with their visit, enhancing their experience.
+It's advisable to check the official website for current information regarding visiting hours and any potential entry fees. Visitors can also learn about any scheduled events or programs that may coincide with their visit, enhancing their experience.
 
 Upon arriving, guests can expect a welcoming atmosphere, with opportunities to learn more about the mosque's role in the community. It is recommended to allocate at least an hour for a visit, allowing time for exploration and reflection.
 
@@ -103,7 +103,7 @@ Guided tours may be available; check the official website for details.
 Weekdays are generally quieter, making them an ideal time for a visit.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to verify this beforehand.
+Accessibility features may be available, but it's best to verify this beforehand.
 
 ### Can I buy tickets online?
 Check the official website for any entry fees and ticketing options.

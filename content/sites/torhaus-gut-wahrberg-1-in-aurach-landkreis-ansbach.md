@@ -42,7 +42,7 @@ The surrounding landscape also plays a role in the overall experience of the sit
 
 ## Visiting Information
 
-To visit the Torhaus Gut Wahrberg 1, it’s advisable to check the official website for current information regarding opening hours and any potential entrance fees. Accessibility to the site may vary; hence, confirming details in advance can enhance your planning.
+To visit the Torhaus Gut Wahrberg 1, it's advisable to check the official website for current information regarding opening hours and any potential entrance fees. Accessibility to the site may vary; hence, confirming details in advance can enhance your planning.
 
 Public transportation options to Aurach may include regional trains or buses, making it relatively easy to reach the site. For those traveling by car, consider parking facilities nearby, which can provide convenient access.
 
@@ -68,7 +68,7 @@ To avoid potential crowds, consider visiting on weekdays rather than weekends, w
 
 When planning your visit to Torhaus Gut Wahrberg 1, be sure to bring any essentials you might need, such as water, comfortable walking shoes, and a camera. Depending on the season, layers of clothing may be advisable, as temperatures can vary throughout the day. 
 
-It’s also wise to check the local weather forecast prior to your visit to ensure a pleasant experience. If you have any specific accessibility needs, confirm the details in advance, as provisions may differ.
+It's also wise to check the local weather forecast prior to your visit to ensure a pleasant experience. If you have any specific accessibility needs, confirm the details in advance, as provisions may differ.
 
 ## Frequently Asked Questions
 
@@ -91,7 +91,7 @@ Check the official website for specific accessibility information regarding the 
 For current information on ticket purchasing options, consult the official website.
 
 ### Are there restrooms and cafes?
-Facilities may not be available on-site; it’s recommended to explore nearby town amenities.
+Facilities may not be available on-site; it's recommended to explore nearby town amenities.
 
 ### What should I wear?
 Dress comfortably and consider layers, as weather conditions can change throughout the day.

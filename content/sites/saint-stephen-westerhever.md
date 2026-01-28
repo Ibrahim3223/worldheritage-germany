@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Saint Stephen Westerhever, a remarkable church building located in the serene village of Westerhever in Schleswig-Holstein, Germany, offers visitors a glimpse into the region’s rich ecclesiastical heritage. This site captures the essence of German church architecture while serving as a vital community hub. Its striking presence amidst the flat landscapes of northern Germany invites exploration and reflection, making it a must-visit for those interested in cultural history and architecture.
+Saint Stephen Westerhever, a remarkable church building located in the serene village of Westerhever in Schleswig-Holstein, Germany, offers visitors a glimpse into the region's rich ecclesiastical heritage. This site captures the essence of German church architecture while serving as a vital community hub. Its striking presence amidst the flat landscapes of northern Germany invites exploration and reflection, making it a must-visit for those interested in cultural history and architecture.
 
 As part of the picturesque surroundings, Saint Stephen Westerhever stands not only as a place of worship but also as a symbol of the enduring spirit of the local community. The church's design and historical significance reflect the changing tides of faith and culture in the region, providing insights into the artistic and social fabric of its time. Visitors can expect to immerse themselves in a tranquil ambiance, enhanced by the beauty of the surrounding countryside.
 

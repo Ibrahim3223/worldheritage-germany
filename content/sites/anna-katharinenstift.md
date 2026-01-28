@@ -74,7 +74,7 @@ While at the Anna-Katharinenstift, consider exploring these nearby attractions:
 
 For those planning to visit the Anna-Katharinenstift, here are some insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s respectful to ask for permission, particularly when capturing images of individuals involved in activities.
+- **Photography**: While photography may be allowed in certain areas, it's respectful to ask for permission, particularly when capturing images of individuals involved in activities.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during mid-week when there are typically fewer visitors. Early mornings can also provide a more tranquil atmosphere.
 

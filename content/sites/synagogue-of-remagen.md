@@ -103,7 +103,7 @@ Guided tours may be available, providing deeper insights into the synagogue's hi
 Weekdays often provide a quieter experience, but checking the official website for specific recommendations is advisable.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary. It’s best to contact the synagogue directly or check the official website for details.
+Accessibility features may vary. It's best to contact the synagogue directly or check the official website for details.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases should be confirmed on the official website.

@@ -36,7 +36,7 @@ Parnass-Brunnen is emblematic of the fountains that once played a vital role in 
 
 Fountains like Parnass-Brunnen were often adorned with sculptures and intricate designs, reflecting the artistic trends of their time. They provided both a source of fresh water and a venue for local culture to flourish. In many European cities, fountains have historically been seen as symbols of prosperity and civic pride. The Parnass-Brunnen, while a former fountain, continues to represent these values as it stands as a remnant of Hannover's past.
 
-Moreover, the fountain's location in the Mitte region signifies its accessibility and relevance during its operational period. Urban planning in historical contexts often prioritized the placement of public amenities like fountains, ensuring they were central to community life. The Parnass-Brunnen serves as a reminder of Hannover’s commitment to public art and community spaces, which remain important in contemporary urban design.
+Moreover, the fountain's location in the Mitte region signifies its accessibility and relevance during its operational period. Urban planning in historical contexts often prioritized the placement of public amenities like fountains, ensuring they were central to community life. The Parnass-Brunnen serves as a reminder of Hannover's commitment to public art and community spaces, which remain important in contemporary urban design.
 
 ## Architecture and Features
 

@@ -70,7 +70,7 @@ While the St.-Leonhards-Kapelle itself is a worthwhile destination, the surround
 
 1. **Scheer Town Centre**: A short walk from the chapel leads you to the town centre, where you can experience local shops and cafes that provide a glimpse into the everyday life of Scheer.
 
-2. **Historical Sites**: The region is dotted with various historical landmarks, reflecting its cultural heritage. Take the time to discover buildings and structures that tell the story of Scheer’s past.
+2. **Historical Sites**: The region is dotted with various historical landmarks, reflecting its cultural heritage. Take the time to discover buildings and structures that tell the story of Scheer's past.
 
 3. **Local Parks and Natural Areas**: The area surrounding the chapel may include parks or natural spaces perfect for leisurely walks or picnics, allowing visitors to enjoy the beauty of the Baden-Württemberg landscape.
 
@@ -104,7 +104,7 @@ When visiting the St.-Leonhards-Kapelle, consider the following practical tips t
 Allocating about one to two hours for your visit should provide a fulfilling experience, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s essential to be respectful of the space and other visitors, particularly during worship services.
+Photography is generally permitted, but it's essential to be respectful of the space and other visitors, particularly during worship services.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website or inquire locally for available options.
@@ -113,7 +113,7 @@ Information on guided tours may vary. Check the official website or inquire loca
 Early mornings or late afternoons are often the best times to visit for a quieter experience. Check for any local events that may also influence foot traffic.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s advisable to check in advance regarding wheelchair access to the chapel.
+Accessibility information is not specified; it's advisable to check in advance regarding wheelchair access to the chapel.
 
 ### Can I buy tickets online?
 Current ticket purchasing options should be confirmed on the official website, as details may vary.

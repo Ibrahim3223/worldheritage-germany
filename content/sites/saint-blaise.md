@@ -34,7 +34,7 @@ As you explore Saint Blaise, you will encounter not only a place of worship but 
 
 The history of Saint Blaise is intertwined with the broader historical narrative of Mühlhausen and the Thuringia region. While specific dates regarding its construction or major events are not recorded, the church is emblematic of the religious and cultural developments that have shaped the area over time. Churches like Saint Blaise often served as community centers, providing not only a place for worship but also a venue for social gatherings and cultural events.
 
-Throughout its existence, Saint Blaise has likely been a witness to numerous historical changes, including the Reformation and various societal shifts that have affected Mühlhausen. The church represents the persistent faith of its congregation and the evolving architectural styles that reflect the period’s cultural trends. Its enduring presence speaks to the resilience of community values and the importance of religion in daily life.
+Throughout its existence, Saint Blaise has likely been a witness to numerous historical changes, including the Reformation and various societal shifts that have affected Mühlhausen. The church represents the persistent faith of its congregation and the evolving architectural styles that reflect the period's cultural trends. Its enduring presence speaks to the resilience of community values and the importance of religion in daily life.
 
 Mühlhausen itself has a rich historical tapestry, being a town that has played a significant role in the region's development. The area has a legacy of notable events, including its involvement in the Peasants' War and its connection to influential figures in German history. The significance of Saint Blaise within this historical context enhances its importance as a cultural landmark.
 
@@ -90,7 +90,7 @@ When preparing for your visit to Saint Blaise, keep these practical consideratio
 Most visitors find that spending one to two hours at Saint Blaise allows for a thorough exploration of the church and contemplation.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific restrictions upon arrival.
+Photography policies may vary, so it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 While guided tours are not specified, local resources may offer insights into the church's history and architecture. Check for availability on-site.

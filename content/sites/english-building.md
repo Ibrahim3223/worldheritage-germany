@@ -95,7 +95,7 @@ Guided tours may be available, providing deeper insights into the history and ar
 Spring and fall are ideal for pleasant weather and fewer crowds, while summer can be busy with tourists.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for the latest updates.
+Accessibility information may vary, so it's advisable to check the official website for the latest updates.
 
 ### Can I buy tickets online?
 Online ticket purchasing options may be available, so check the official website for more details.

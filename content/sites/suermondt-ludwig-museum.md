@@ -28,7 +28,7 @@ image_srcset:
 
 The Suermondt-Ludwig-Museum, located in the heart of Aachen, Germany, is a distinguished art museum that showcases a diverse collection of artworks spanning several centuries. This museum not only reflects the artistic heritage of the region but also serves as a cultural hub for both locals and visitors. With its impressive array of paintings, sculptures, and decorative arts, the museum captures the imagination of art enthusiasts and casual visitors alike. 
 
-Situated in Aachen-Mitte, the museum's strategic location makes it easily accessible and a perfect stop for those exploring the city’s rich history and vibrant art scene. The Suermondt-Ludwig-Museum holds significance as a key institution in the preservation and presentation of fine art, offering an insightful glimpse into various artistic movements and styles. Visitors can anticipate an enriching experience, enveloped by works that have influenced and shaped visual culture.
+Situated in Aachen-Mitte, the museum's strategic location makes it easily accessible and a perfect stop for those exploring the city's rich history and vibrant art scene. The Suermondt-Ludwig-Museum holds significance as a key institution in the preservation and presentation of fine art, offering an insightful glimpse into various artistic movements and styles. Visitors can anticipate an enriching experience, enveloped by works that have influenced and shaped visual culture.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ To enhance your experience at the Suermondt-Ludwig-Museum, consider these inside
 
 ## Practical Information
 
-When preparing for your visit to the Suermondt-Ludwig-Museum, consider bringing comfortable walking shoes, as you may spend a fair amount of time exploring the galleries. It’s also advisable to bring a light jacket, as museum environments can often be cooler than expected.
+When preparing for your visit to the Suermondt-Ludwig-Museum, consider bringing comfortable walking shoes, as you may spend a fair amount of time exploring the galleries. It's also advisable to bring a light jacket, as museum environments can often be cooler than expected.
 
 Seasonal considerations may influence your visit. During peak tourist seasons, such as summer, expect larger crowds. Conversely, visiting in the off-peak months may afford you a more leisurely experience.
 
@@ -100,7 +100,7 @@ Weekdays, particularly in the morning or late afternoon, tend to be the best tim
 The museum strives to be accessible to all visitors. For the most current information on accessibility options, check the official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s advisable to check the official website for online ticket availability.
+Ticket purchasing options may vary, so it's advisable to check the official website for online ticket availability.
 
 ### Are there restrooms and cafes?
 The museum typically provides restroom facilities for visitors. Check the official website for information on any cafes or dining options available within the museum.

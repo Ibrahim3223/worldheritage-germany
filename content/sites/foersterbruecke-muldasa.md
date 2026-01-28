@@ -56,11 +56,11 @@ Expect to see not just the bridge itself but also the local flora and fauna that
    
 2. **Schwarzenberg Castle**: A short drive away, this castle offers insights into the region's history and stunning views of the surrounding countryside.
 
-3. **Chemnitz**: Just a bit further, Chemnitz features a variety of museums, parks, and cultural attractions, providing a broader view of the area’s heritage.
+3. **Chemnitz**: Just a bit further, Chemnitz features a variety of museums, parks, and cultural attractions, providing a broader view of the area's heritage.
 
 4. **Erzgebirges Nature Park**: Ideal for nature lovers, this park offers hiking trails, scenic views, and opportunities to observe local wildlife.
 
-5. **Historic Route of the Ore Mountains**: A picturesque drive that connects several historical sites, providing a comprehensive view of the region’s cultural heritage.
+5. **Historic Route of the Ore Mountains**: A picturesque drive that connects several historical sites, providing a comprehensive view of the region's cultural heritage.
 
 ## Insider Tips
 

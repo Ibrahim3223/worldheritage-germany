@@ -28,13 +28,13 @@ image_srcset:
 
 Bürgerforum is a vibrant city square located in the heart of Berlin, Germany. This public space serves as a focal point for both residents and visitors, offering a unique blend of urban life and cultural engagement. With its strategic location, Bürgerforum not only acts as a communal area for gatherings and events but also reflects the dynamic spirit of one of Europe's most significant capitals. The square is an open canvas, frequently transforming with seasonal activities, art displays, and community events, making it a lively hub for social interaction and cultural expression.
 
-As you explore Bürgerforum, you will experience the pulse of Berlin’s urban life. The square is surrounded by a mix of modern architecture and historical buildings that narrate the city’s complex past. Whether you are seeking a place to unwind, engage with local culture, or simply observe the bustle of city life, Bürgerforum promises an engaging and enriching experience in the heart of Berlin.
+As you explore Bürgerforum, you will experience the pulse of Berlin's urban life. The square is surrounded by a mix of modern architecture and historical buildings that narrate the city's complex past. Whether you are seeking a place to unwind, engage with local culture, or simply observe the bustle of city life, Bürgerforum promises an engaging and enriching experience in the heart of Berlin.
 
 ## History and Significance
 
 While specific historical details about Bürgerforum may be limited, the square is emblematic of the broader narrative of Berlin. Over the years, public squares like Bürgerforum have played pivotal roles in the social and political life of the city. They serve not only as gathering spaces but also as venues for significant events, protests, and celebrations, reflecting the democratic spirit of the city.
 
-Berlin itself has undergone extensive transformation, particularly in the 20th century, which continues to influence public spaces today. Square designs often evolve in response to the changing needs of the community, making them dynamic sites that encapsulate the city’s history and aspirations. Bürgerforum is a prime example of this evolution, standing as a space where the past and present merge, allowing visitors to experience Berlin’s rich cultural landscape.
+Berlin itself has undergone extensive transformation, particularly in the 20th century, which continues to influence public spaces today. Square designs often evolve in response to the changing needs of the community, making them dynamic sites that encapsulate the city's history and aspirations. Bürgerforum is a prime example of this evolution, standing as a space where the past and present merge, allowing visitors to experience Berlin's rich cultural landscape.
 
 The significance of Bürgerforum extends beyond its physical space; it is a testament to the resilience and creativity of the Berlin community. As a center for public discourse and cultural exchange, the square fosters a sense of belonging among diverse groups, highlighting the importance of communal spaces in urban settings.
 
@@ -44,7 +44,7 @@ Bürgerforum features a contemporary design that complements its urban surroundi
 
 The layout of Bürgerforum is designed to accommodate various activities, from casual gatherings to organized events. This flexibility is essential in a city that thrives on cultural and social vibrancy. The square may also be adorned with public art installations, sculptures, or temporary exhibits, enhancing its appeal and creating engaging visual experiences for passersby.
 
-Visitors can expect to find a blend of contemporary and traditional design elements, reflecting Berlin's architectural diversity. The surrounding buildings may include a mix of modern structures and historical facades, offering a visual dialogue between different eras of Berlin’s architectural history.
+Visitors can expect to find a blend of contemporary and traditional design elements, reflecting Berlin's architectural diversity. The surrounding buildings may include a mix of modern structures and historical facades, offering a visual dialogue between different eras of Berlin's architectural history.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ Plan to spend at least an hour at Bürgerforum to fully appreciate the space and
 
 Bürgerforum is strategically located near several notable attractions in Berlin, enhancing the overall experience for visitors. Some nearby sites include:
 
-1. **Brandenburg Gate**: A symbol of Berlin’s unification and a must-see monument, located just a short walk from the square.
+1. **Brandenburg Gate**: A symbol of Berlin's unification and a must-see monument, located just a short walk from the square.
 2. **Reichstag Building**: The seat of the German parliament, famous for its glass dome offering panoramic views of the city.
 3. **Tiergarten**: Berlin's expansive central park, perfect for a leisurely stroll or a picnic amidst nature.
 4. **Potsdamer Platz**: A vibrant area known for its modern architecture, shopping, and entertainment options.

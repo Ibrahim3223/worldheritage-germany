@@ -70,7 +70,7 @@ Eichstätt is home to several attractions that complement a visit to the Altes S
 
 For those planning a visit to Altes Stadttheater Eichstätt, consider these insider tips:
 
-- **Photography**: While photography may be allowed in some areas, it’s best to check with staff regarding the rules, especially during performances.
+- **Photography**: While photography may be allowed in some areas, it's best to check with staff regarding the rules, especially during performances.
 
 - **Crowd Avoidance**: To enjoy a more relaxed experience, consider attending weekday performances, which are often less crowded than weekend shows.
 

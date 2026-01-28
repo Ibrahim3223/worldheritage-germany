@@ -105,7 +105,7 @@ Check the official website for information on accessibility features at Lutherki
 Visit the official website for information regarding ticket purchases and any associated fees.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on-site or nearby, but it’s best to check the official website for confirmation. Dining options may also be limited in the immediate vicinity.
+Restroom facilities may be available on-site or nearby, but it's best to check the official website for confirmation. Dining options may also be limited in the immediate vicinity.
 
 ### What should I wear?
 Casual, comfortable clothing is appropriate for visiting a church, and it's advisable to dress modestly out of respect for the religious setting.

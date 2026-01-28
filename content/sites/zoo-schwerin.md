@@ -48,7 +48,7 @@ Additionally, the zoo may feature educational centers or kiosks that enhance the
 
 ## Visiting Information
 
-Visiting Zoo Schwerin can be an exciting day trip for families, school groups, or anyone interested in wildlife. To ensure a pleasant experience, it’s advisable to check the official website for current information regarding opening hours and ticket prices, as these can vary seasonally.
+Visiting Zoo Schwerin can be an exciting day trip for families, school groups, or anyone interested in wildlife. To ensure a pleasant experience, it's advisable to check the official website for current information regarding opening hours and ticket prices, as these can vary seasonally.
 
 Transportation to the zoo can be easily arranged, with options including public transport and private vehicles. The zoo is conveniently located, making access straightforward for both local residents and tourists. Guests should plan to spend several hours at the zoo to fully enjoy the exhibits and activities available.
 

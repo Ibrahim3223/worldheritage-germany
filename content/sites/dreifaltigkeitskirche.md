@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Dreifaltigkeitskirche, a prominent church building located in Wiesbaden, Germany, serves not only as a place of worship but also as a significant architectural landmark. With its distinctive design and cultural relevance, this church attracts both locals and visitors eager to explore its serene atmosphere and historical context. Situated in the heart of Wiesbaden, the church reflects the city’s vibrant spirit and offers a glimpse into its artistic and spiritual heritage.
+Dreifaltigkeitskirche, a prominent church building located in Wiesbaden, Germany, serves not only as a place of worship but also as a significant architectural landmark. With its distinctive design and cultural relevance, this church attracts both locals and visitors eager to explore its serene atmosphere and historical context. Situated in the heart of Wiesbaden, the church reflects the city's vibrant spirit and offers a glimpse into its artistic and spiritual heritage.
 
 The church's architecture, style, and the role it plays in the community make it a noteworthy stop for anyone interested in the religious and cultural landscape of Germany. As you approach Dreifaltigkeitskirche, you are greeted by its inviting facade, which hints at the rich experiences that await inside. Whether you are a history enthusiast, an architect admirer, or simply seeking a quiet moment of reflection, Dreifaltigkeitskirche promises to deliver an enriching visit.
 
@@ -48,7 +48,7 @@ The architecture of Dreifaltigkeitskirche, while perhaps not as widely recognize
 
 Dreifaltigkeitskirche is accessible to those wishing to explore its architectural and cultural offerings. The church is situated in Wiesbaden, a city with convenient transport options. Visitors can reach the church via public transportation or by walking, as it is located near the city center.
 
-Check the official website for current information regarding opening hours and any potential admission fees. Depending on your interests, you might plan to spend anywhere from a brief visit to an hour or more enjoying the church’s interior and surroundings. For a more immersive experience, consider visiting during a service or community event, when the church is likely to come alive with activity.
+Check the official website for current information regarding opening hours and any potential admission fees. Depending on your interests, you might plan to spend anywhere from a brief visit to an hour or more enjoying the church's interior and surroundings. For a more immersive experience, consider visiting during a service or community event, when the church is likely to come alive with activity.
 
 The best times to visit are generally during weekdays when the church is less crowded, allowing for a more personal experience. Early mornings or late afternoons can also provide a peaceful atmosphere for reflection.
 
@@ -87,7 +87,7 @@ You can expect to spend anywhere from 30 minutes to an hour at Dreifaltigkeitski
 Photography is generally permitted, but it is best to be respectful and mindful of any specific guidelines posted within the church.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are offered, as this can enhance your understanding of the church’s history and architecture.
+Check the official website for information on whether guided tours are offered, as this can enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays or early mornings are typically less crowded, providing a more tranquil experience.
@@ -99,7 +99,7 @@ Accessibility features may vary. Check the official website for detailed informa
 For current information on ticketing, including online purchase options, refer to the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on-site, but it’s advisable to check before your visit. Nearby cafes can provide refreshments.
+Restroom facilities may be available on-site, but it's advisable to check before your visit. Nearby cafes can provide refreshments.
 
 ### What should I wear?
 Modest attire is recommended, especially if attending a service, to respect the sacred environment of the church.

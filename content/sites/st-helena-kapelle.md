@@ -74,7 +74,7 @@ While the church may host occasional events or services, checking the calendar o
 
 ## Practical Information
 
-When visiting St. Helena-Kapelle, it’s advisable to dress modestly, as it is a place of worship. Comfortable walking shoes are recommended for exploring the surrounding area.
+When visiting St. Helena-Kapelle, it's advisable to dress modestly, as it is a place of worship. Comfortable walking shoes are recommended for exploring the surrounding area.
 
 Seasonal weather in Bonn can vary, so be prepared for changes in temperature and precipitation. Bringing an umbrella or light jacket can be beneficial, particularly during the spring and autumn months.
 

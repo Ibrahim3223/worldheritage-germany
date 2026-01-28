@@ -28,13 +28,13 @@ image_srcset:
 
 Am Kirchteich is not merely a gatehouse; it is a vital link to the cultural and historical fabric of Obercunnersdorf, a quaint village located in the Kottmar region of Germany. This site encompasses a church building, a cemetery, a retaining wall with a gatehouse, and various war memorials and sepulchral monuments. The gatehouse serves as a symbolic entryway to the spiritual and historical narratives of the area. Visitors to Am Kirchteich will find a setting where nature and memory intertwine, offering a tranquil space for reflection.
 
-Obercunnersdorf’s serene atmosphere is punctuated by the echoes of its past, making it an intriguing destination for those interested in architecture, history, and culture. While the site may not feature the grandeur of larger monuments, its significance lies in its understated elegance and the stories it tells about the local community and its heritage. Those who venture here will be rewarded with a deeper understanding of the region’s historical context, as well as the opportunity to explore the intricacies of its architectural features.
+Obercunnersdorf's serene atmosphere is punctuated by the echoes of its past, making it an intriguing destination for those interested in architecture, history, and culture. While the site may not feature the grandeur of larger monuments, its significance lies in its understated elegance and the stories it tells about the local community and its heritage. Those who venture here will be rewarded with a deeper understanding of the region's historical context, as well as the opportunity to explore the intricacies of its architectural features.
 
 ## History and Significance
 
 The history of Am Kirchteich is deeply intertwined with the development of Obercunnersdorf, a village that has seen various shifts over the centuries. The gatehouse stands as an important architectural feature within the village, offering insight into the local customs and traditions that have been preserved through time. Gatehouses like Am Kirchteich often served as protective structures, marking the entrance to sacred spaces and signifying the importance of the areas they guard.
 
-Surrounding the gatehouse are several war memorials that commemorate the sacrifices made by local residents during conflicts. These memorials not only honor those who served but also reflect the community’s resilience and commitment to remembering its history. The sepulchral monuments add another layer of significance, serving as markers of the lives lived within the village and paying tribute to those who have passed.
+Surrounding the gatehouse are several war memorials that commemorate the sacrifices made by local residents during conflicts. These memorials not only honor those who served but also reflect the community's resilience and commitment to remembering its history. The sepulchral monuments add another layer of significance, serving as markers of the lives lived within the village and paying tribute to those who have passed.
 
 As a whole, Am Kirchteich embodies the cultural importance of local traditions in the Kottmar region. The site invites visitors to reflect on the values of memory and respect that bind communities together across generations. The historical narratives encapsulated within the gatehouse and its surroundings offer a poignant glimpse into the lives of those who have called Obercunnersdorf home.
 
@@ -63,7 +63,7 @@ When planning your visit, it is wise to dress comfortably and wear appropriate f
 While Am Kirchteich is a captivating destination on its own, the Kottmar region offers several nearby attractions that complement your visit:
 
 1. **Kottmar Mountain**: A stunning natural landmark offering trails for hiking and panoramic views of the surrounding landscape.
-2. **Obercunnersdorf Church**: An architectural gem that further enriches your understanding of the village’s history.
+2. **Obercunnersdorf Church**: An architectural gem that further enriches your understanding of the village's history.
 3. **Cultural Museum Kottmar**: A local museum dedicated to preserving and showcasing the cultural heritage of the region.
 4. **Zittau Mountains**: A breathtaking area for outdoor enthusiasts, featuring diverse flora and fauna, as well as scenic hiking paths.
 5. **Historic Town of Zittau**: A short distance away, Zittau offers a wealth of historical architecture and cultural experiences.

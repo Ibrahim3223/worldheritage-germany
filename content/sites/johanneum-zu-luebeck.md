@@ -80,7 +80,7 @@ By visiting these nearby attractions, you can deepen your understanding of Lübe
 
 ## Insider Tips
 
-To make the most of your visit to Johanneum zu Lübeck, consider the following insider tips. For photography enthusiasts, the exterior of the building and its surroundings present excellent opportunities for capturing the essence of the school within the context of Lübeck’s historic architecture. However, be mindful of school activities and respect the privacy of students when taking photos.
+To make the most of your visit to Johanneum zu Lübeck, consider the following insider tips. For photography enthusiasts, the exterior of the building and its surroundings present excellent opportunities for capturing the essence of the school within the context of Lübeck's historic architecture. However, be mindful of school activities and respect the privacy of students when taking photos.
 
 To avoid crowds, plan your visit during weekday mornings. This timing may offer a quieter experience, allowing you to appreciate the building and its significance without the hustle and bustle of larger crowds. Additionally, if you wish to engage with the school community, consider attending events or open days, which can provide unique insights into the institution's role within Lübeck.
 

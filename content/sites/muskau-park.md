@@ -30,7 +30,7 @@ image_srcset:
 
 Muskau Park, located in the Upper Lusatia region of Germany and Poland, is an exquisite landscape park that harmoniously blends natural beauty with human artistry. Spanning both sides of the Neiße River, this park offers visitors a unique opportunity to explore meticulously designed gardens, scenic pathways, and a variety of flora, all set against the backdrop of a rich cultural history. As a UNESCO World Heritage Site, Muskau Park reflects the innovative vision of its designer, who sought to create a space that celebrates the beauty of nature while showcasing human creativity.
 
-With its expansive grounds and tranquil atmosphere, Muskau Park holds a significant place in the hearts of those who appreciate landscape architecture and historical gardens. Visitors can wander through diverse ecosystems, enjoy panoramic views of the river, and immerse themselves in the park’s serene environment. The location serves not only as a sanctuary for nature lovers but also as a cultural landmark that emphasizes the importance of landscape design in the 19th century, making it an essential stop for travelers interested in heritage and history.
+With its expansive grounds and tranquil atmosphere, Muskau Park holds a significant place in the hearts of those who appreciate landscape architecture and historical gardens. Visitors can wander through diverse ecosystems, enjoy panoramic views of the river, and immerse themselves in the park's serene environment. The location serves not only as a sanctuary for nature lovers but also as a cultural landmark that emphasizes the importance of landscape design in the 19th century, making it an essential stop for travelers interested in heritage and history.
 
 ## History and Significance
 
@@ -113,7 +113,7 @@ Muskau Park offers some accessible paths, but it is advisable to check the offic
 Check the official website for details on ticket purchasing options, including any online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available within or near the park. It’s best to confirm this information on the official website.
+Facilities such as restrooms and cafes may be available within or near the park. It's best to confirm this information on the official website.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended, along with layers to accommodate changing weather conditions.

@@ -34,7 +34,7 @@ As a cultural institution, the museum plays a vital role in fostering dialogue a
 
 ## Architecture and Features
 
-The MAC Museum Art & Cars is designed with a modern aesthetic that enhances the visitor experience. Its architectural style reflects a commitment to contemporary design, with clean lines and an open layout that invites exploration. The museum’s exterior is both striking and functional, ensuring that visitors are drawn in by its innovative structure.
+The MAC Museum Art & Cars is designed with a modern aesthetic that enhances the visitor experience. Its architectural style reflects a commitment to contemporary design, with clean lines and an open layout that invites exploration. The museum's exterior is both striking and functional, ensuring that visitors are drawn in by its innovative structure.
 
 Inside, the museum features spacious galleries that provide ample room for displaying both art and automobiles. The layout is thoughtfully designed to encourage a fluid flow from one exhibit to the next, allowing visitors to easily navigate the space. The juxtaposition of artwork and vehicles creates a stimulating environment that highlights the artistic qualities inherent in automobile design.
 
@@ -82,7 +82,7 @@ A visit typically lasts around two to three hours, allowing ample time to explor
 
 ### Is photography allowed?
 
-Photography policies can vary, so it’s advisable to check the museum’s official website for specific guidelines regarding photography.
+Photography policies can vary, so it's advisable to check the museum's official website for specific guidelines regarding photography.
 
 ### Are there guided tours?
 

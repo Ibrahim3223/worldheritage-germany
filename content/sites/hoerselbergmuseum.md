@@ -98,7 +98,7 @@ When planning your visit to Hörselbergmuseum, consider the following practical 
 A typical visit to Hörselbergmuseum may take around 2-3 hours, allowing you to explore the exhibits at a comfortable pace.
 
 ### Is photography allowed?
-Photography policies can vary, so it is best to check the museum’s guidelines on photography before your visit.
+Photography policies can vary, so it is best to check the museum's guidelines on photography before your visit.
 
 ### Are there guided tours?
 Guided tours may be available at specific times or for special exhibitions. Check the official website for scheduling and availability.
@@ -118,4 +118,4 @@ Restroom facilities are typically available within the museum. Nearby cafes or r
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the museum and surrounding area extensively. 
 
-Hörselbergmuseum is a significant cultural institution that invites visitors to connect with the local heritage and history of Wutha-Farnroda. Through its diverse exhibits and engaging programming, the museum serves as a gateway to understanding the region’s past and its ongoing narrative.
+Hörselbergmuseum is a significant cultural institution that invites visitors to connect with the local heritage and history of Wutha-Farnroda. Through its diverse exhibits and engaging programming, the museum serves as a gateway to understanding the region's past and its ongoing narrative.

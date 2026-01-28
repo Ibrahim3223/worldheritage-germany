@@ -44,7 +44,7 @@ Fritzdorfer Windmühle is visually striking, with its robust structure and class
 
 One notable feature of this windmill is its large sails, which are designed to catch the wind effectively. These sails not only serve a functional purpose but also contribute to the iconic silhouette of the windmill, making it an enduring symbol of the area. The overall design emphasizes both aesthetic appeal and practical functionality, embodying the ingenuity of the builders.
 
-Visitors will find that the windmill is surrounded by lush greenery, enhancing its picturesque quality. This setting provides a perfect backdrop for photography and leisurely exploration. The craftsmanship evident in the windmill’s construction reflects the local traditions and the understanding of wind power that have been passed down through generations.
+Visitors will find that the windmill is surrounded by lush greenery, enhancing its picturesque quality. This setting provides a perfect backdrop for photography and leisurely exploration. The craftsmanship evident in the windmill's construction reflects the local traditions and the understanding of wind power that have been passed down through generations.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While Fritzdorfer Windmühle is a highlight in its own right, several nearby att
 
 3. **Drachenfels**: A nearby hill offering breathtaking views of the Rhine River and the surrounding landscape, perfect for hiking enthusiasts.
 
-4. **Beethoven House**: Visit the birthplace of composer Ludwig van Beethoven, which is not far from Wachtberg and offers a glimpse into the life of one of Germany’s most famous musicians.
+4. **Beethoven House**: Visit the birthplace of composer Ludwig van Beethoven, which is not far from Wachtberg and offers a glimpse into the life of one of Germany's most famous musicians.
 
 5. **Bonn Botanical Gardens**: These gardens are a short drive away and showcase a diverse collection of plant species, providing a serene environment for a stroll.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Augsburg, Germany, the Wasch- und Badehaus Schäfflerbachstraße stands as a significant cultural landmark, reflecting the rich tapestry of the city's diverse history. This mosque, located in the Swabia region, is an embodiment of the architectural and social narratives that have shaped the community over the years. As you explore the area, you will find that this site offers more than just a glimpse into Islamic architecture; it is an integral part of Augsburg’s historical dialogue and cultural exchange.
+In the heart of Augsburg, Germany, the Wasch- und Badehaus Schäfflerbachstraße stands as a significant cultural landmark, reflecting the rich tapestry of the city's diverse history. This mosque, located in the Swabia region, is an embodiment of the architectural and social narratives that have shaped the community over the years. As you explore the area, you will find that this site offers more than just a glimpse into Islamic architecture; it is an integral part of Augsburg's historical dialogue and cultural exchange.
 
 Augsburg itself is a city steeped in history, known for its remarkable blend of medieval and modern influences. The Wasch- und Badehaus is strategically positioned to provide visitors with an insight into the multicultural fabric that has defined this region. It serves as a vital reminder of the coexistence of various cultures and faiths, showcasing the importance of inclusivity in our shared history. 
 
@@ -64,7 +64,7 @@ While visiting the Wasch- und Badehaus Schäfflerbachstraße, consider exploring
 
 1. **Augsburg Cathedral** - A stunning example of Romanesque architecture with beautiful stained glass windows, this cathedral is a must-see for those interested in religious history.
    
-2. **Fuggerei** - The world’s oldest social housing complex, founded in the 16th century, offers a unique perspective on social responsibility and community living in Augsburg.
+2. **Fuggerei** - The world's oldest social housing complex, founded in the 16th century, offers a unique perspective on social responsibility and community living in Augsburg.
 
 3. **Perlach Tower** - This iconic tower provides a panoramic view of the city and is a great spot for photos, showcasing Augsburg's historical landscape.
 
@@ -95,7 +95,7 @@ A visit to the Wasch- und Badehaus Schäfflerbachstraße typically takes about o
 Photography policies can vary, so it is best to inquire upon arrival. Respect for the sacred space is essential.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may provide deeper insights into the mosque’s history and significance.
+Check the official website for information on guided tours, which may provide deeper insights into the mosque's history and significance.
 
 ### What's the best time to visit?
 Weekdays, particularly in the mid-morning or early afternoon, tend to be less crowded, offering a more peaceful experience.
@@ -112,4 +112,4 @@ While specific facilities are not detailed, many mosques have basic amenities. C
 ### What should I wear?
 Modest attire is recommended when visiting the mosque, reflecting the cultural norms of the space. Comfortable shoes are also advisable for walking.
 
-Visiting the Wasch- und Badehaus Schäfflerbachstraße is an opportunity to engage with Augsburg’s diverse cultural heritage. The mosque serves as a significant landmark, inviting visitors to reflect on the importance of understanding and respecting different faiths and traditions within our global community.
+Visiting the Wasch- und Badehaus Schäfflerbachstraße is an opportunity to engage with Augsburg's diverse cultural heritage. The mosque serves as a significant landmark, inviting visitors to reflect on the importance of understanding and respecting different faiths and traditions within our global community.

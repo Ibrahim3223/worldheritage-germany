@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Grieg-Begegnungsstätte in Leipzig serves as a vibrant museum and meeting point dedicated to the life and work of Edvard Grieg, one of Norway's most celebrated composers. Situated in the heart of Leipzig, a city renowned for its rich musical heritage, this museum provides an intimate glimpse into Grieg’s artistic journey and his connections with the German music scene. Leipzig, known for its historical significance in the world of classical music, including figures such as Johann Sebastian Bach and Felix Mendelssohn, enhances the importance of this site as a cultural hub.
+The Grieg-Begegnungsstätte in Leipzig serves as a vibrant museum and meeting point dedicated to the life and work of Edvard Grieg, one of Norway's most celebrated composers. Situated in the heart of Leipzig, a city renowned for its rich musical heritage, this museum provides an intimate glimpse into Grieg's artistic journey and his connections with the German music scene. Leipzig, known for its historical significance in the world of classical music, including figures such as Johann Sebastian Bach and Felix Mendelssohn, enhances the importance of this site as a cultural hub.
 
 Visitors to the Grieg-Begegnungsstätte can expect an engaging experience that combines a deep appreciation for Grieg's contributions to music with the opportunity to explore the context in which he worked. The museum not only showcases a variety of exhibits related to Grieg's life and compositions but also serves as a meeting point for music enthusiasts, fostering a sense of community and dialogue around classical music.
 
@@ -34,7 +34,7 @@ Visitors to the Grieg-Begegnungsstätte can expect an engaging experience that c
 
 Edvard Grieg was born in 1843 in Bergen, Norway, and became a prominent figure in the Romantic music movement. His compositions, which include piano concertos, chamber music, and orchestral works, have left a lasting impact on the world of classical music. The Grieg-Begegnungsstätte was established to honor his legacy and to highlight the connections he had with Leipzig, a city that played a significant role in his career.
 
-Although specific founding dates of the museum are not available, the Grieg-Begegnungsstätte serves as a focal point for those interested in understanding the cultural exchanges between Norway and Germany during Grieg's lifetime. The museum often organizes events and concerts that celebrate Grieg’s music, promoting an appreciation for his works among new generations. By bringing together musicians, scholars, and enthusiasts, the Grieg-Begegnungsstätte fosters a community where the influence of Grieg's music can be explored and enjoyed.
+Although specific founding dates of the museum are not available, the Grieg-Begegnungsstätte serves as a focal point for those interested in understanding the cultural exchanges between Norway and Germany during Grieg's lifetime. The museum often organizes events and concerts that celebrate Grieg's music, promoting an appreciation for his works among new generations. By bringing together musicians, scholars, and enthusiasts, the Grieg-Begegnungsstätte fosters a community where the influence of Grieg's music can be explored and enjoyed.
 
 In addition to its role as a museum, the site reflects the broader cultural significance of Leipzig as a center for music. With its rich tradition of composers and musicians, the city continues to attract visitors from around the world, making the Grieg-Begegnungsstätte an essential stop for those wishing to delve deeper into the musical heritage of the area.
 
@@ -82,7 +82,7 @@ Seasonal considerations may also play a role in your visit. Spring and fall offe
 A visit to the Grieg-Begegnungsstätte typically takes about one to two hours, depending on your interest in the exhibits and any scheduled events.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for specific guidelines at the museum to respect the exhibits and artwork.
+Photography policies may vary, so it's best to check for specific guidelines at the museum to respect the exhibits and artwork.
 
 ### Are there guided tours?
 Guided tours may be available, providing in-depth insights into the life and work of Edvard Grieg. Check the official website for the latest information.

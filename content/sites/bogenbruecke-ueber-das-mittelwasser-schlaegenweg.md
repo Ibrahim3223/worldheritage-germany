@@ -34,7 +34,7 @@ As part of the regional infrastructure, the Bogenbrücke contributes to the ongo
 
 ## Architecture and Features
 
-The Bogenbrücke über das Mittelwasser Schlägenweg is characterized by its distinct architectural features that are emblematic of functional bridge design. While specific dimensions and construction details are not provided, the bridge’s arching form is a key highlight. Arched bridges are known for their ability to distribute weight evenly, allowing for both strength and elegance in their structure.
+The Bogenbrücke über das Mittelwasser Schlägenweg is characterized by its distinct architectural features that are emblematic of functional bridge design. While specific dimensions and construction details are not provided, the bridge's arching form is a key highlight. Arched bridges are known for their ability to distribute weight evenly, allowing for both strength and elegance in their structure.
 
 The design typically incorporates a combination of materials, often including stone or concrete, which not only provides durability but also complements the surrounding landscape. The aesthetic appeal of the bridge may lie in its simplicity, with clean lines that harmonize with the natural environment. 
 

@@ -88,7 +88,7 @@ When planning your visit to the Zweites Ellinger Römerlager, here are a few pra
 
 - **Seasonal Considerations**: Check the weather forecast before your visit. While the site is open year-round, certain conditions may impact your experience. Warm weather is preferable for outdoor exploration.
 
-- **Accessibility**: Be aware of the site's terrain, which may not be fully accessible for those with mobility challenges. It’s best to inquire about specific accessibility options if needed.
+- **Accessibility**: Be aware of the site's terrain, which may not be fully accessible for those with mobility challenges. It's best to inquire about specific accessibility options if needed.
 
 ## Frequently Asked Questions
 
@@ -105,7 +105,7 @@ Guided tours may be available, providing visitors with deeper insights into the 
 The best time to visit is usually during the warmer months when the weather is more conducive to outdoor exploration.
 
 ### Is it wheelchair accessible?
-The site's terrain may present challenges for those with mobility issues. It’s advisable to check for specific accessibility options before your visit.
+The site's terrain may present challenges for those with mobility issues. It's advisable to check for specific accessibility options before your visit.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and availability.

@@ -48,7 +48,7 @@ Inside the manor, one might expect to find a range of rooms that reflect the lif
 
 ## Visiting Information
 
-Visiting the Manor in Wendorf offers a unique opportunity to engage with Germany’s historical landscape. Access to the manor can typically be achieved via various transport options, with local public transportation or personal vehicles being common methods for reaching this heritage site. 
+Visiting the Manor in Wendorf offers a unique opportunity to engage with Germany's historical landscape. Access to the manor can typically be achieved via various transport options, with local public transportation or personal vehicles being common methods for reaching this heritage site. 
 
 As you plan your visit, it is essential to check the official website for current information regarding opening hours and ticket prices. This ensures that you have the most accurate details, allowing for a smooth and enjoyable experience. 
 

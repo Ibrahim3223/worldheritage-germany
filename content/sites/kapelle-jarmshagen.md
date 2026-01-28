@@ -62,9 +62,9 @@ While visiting Kapelle Jarmshagen, consider exploring other nearby attractions t
    
 2. **Local Nature Trails**: The surrounding area is home to various trails that allow visitors to enjoy the natural beauty of the landscape, perfect for walking or biking.
 
-3. **Historical Landmarks**: Nearby historical sites may offer insights into the area’s past, showcasing architecture and stories that complement the visit to Kapelle Jarmshagen.
+3. **Historical Landmarks**: Nearby historical sites may offer insights into the area's past, showcasing architecture and stories that complement the visit to Kapelle Jarmshagen.
 
-4. **Local Markets**: Depending on the season, local markets may be available, featuring regional products and crafts that provide a taste of the area’s culture.
+4. **Local Markets**: Depending on the season, local markets may be available, featuring regional products and crafts that provide a taste of the area's culture.
 
 5. **Community Events**: Check local listings for potential events or festivals that celebrate the culture and history of Wackerow, providing an opportunity to engage with the community.
 

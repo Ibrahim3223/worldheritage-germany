@@ -64,7 +64,7 @@ Darmstadt is home to several other attractions that can enhance your cultural ex
 
 3. **Luisenplatz**: This central square is surrounded by beautiful architecture and offers a lively atmosphere, perfect for a leisurely stroll or a coffee break after your museum visit.
 
-4. **Darmstadt Castle**: A historic building that adds to the city’s charm, with lovely gardens that provide a relaxing space to unwind.
+4. **Darmstadt Castle**: A historic building that adds to the city's charm, with lovely gardens that provide a relaxing space to unwind.
 
 5. **Biosphärenreservat Pfälzerwald**: A bit further afield, this UNESCO biosphere reserve offers scenic walks and a chance to appreciate the natural beauty of the region.
 

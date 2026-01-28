@@ -101,7 +101,7 @@ The museum may offer guided tours or workshops; check the official website for c
 Weekdays, especially in the morning, are generally less crowded, allowing for a more leisurely experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is best confirmed on the museum’s official website to ensure a comfortable visit.
+Accessibility information is best confirmed on the museum's official website to ensure a comfortable visit.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and any available discounts.

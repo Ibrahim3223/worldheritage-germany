@@ -28,7 +28,7 @@ image_srcset:
 
 Stolpe Abbey, a serene monastery located in Stolpe an der Peene, Germany, offers visitors a unique glimpse into the spiritual and architectural heritage of the region. With its tranquil surroundings and historical significance, Stolpe Abbey stands as a reminder of the monastic traditions that have shaped local culture. Nestled near the Peene River, the abbey is not only a place of worship but also a site that encapsulates the essence of monastic life through the centuries. 
 
-The abbey's architecture and serene atmosphere make it an attractive destination for those interested in history, spirituality, and architecture. Visitors can expect to engage with the rich cultural backdrop of the area, exploring the abbey's significance in the context of Germany’s religious and historical landscape. Whether you are a history enthusiast, a spiritual seeker, or simply seeking peace, Stolpe Abbey invites you to explore its grounds and experience the tranquility that has drawn people for generations.
+The abbey's architecture and serene atmosphere make it an attractive destination for those interested in history, spirituality, and architecture. Visitors can expect to engage with the rich cultural backdrop of the area, exploring the abbey's significance in the context of Germany's religious and historical landscape. Whether you are a history enthusiast, a spiritual seeker, or simply seeking peace, Stolpe Abbey invites you to explore its grounds and experience the tranquility that has drawn people for generations.
 
 ## History and Significance
 

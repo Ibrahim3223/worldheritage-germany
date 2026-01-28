@@ -78,7 +78,7 @@ To make the most of your visit to Aula Carolina, consider the following tips:
 
 ## Practical Information
 
-When visiting Aula Carolina, it’s advisable to bring along essential items such as water and a light snack, particularly if you plan to explore the area for an extended period. Since Aachen experiences seasonal variations, consider dressing in layers to accommodate changing weather conditions. Comfortable walking shoes are also recommended, as you may want to explore nearby attractions on foot.
+When visiting Aula Carolina, it's advisable to bring along essential items such as water and a light snack, particularly if you plan to explore the area for an extended period. Since Aachen experiences seasonal variations, consider dressing in layers to accommodate changing weather conditions. Comfortable walking shoes are also recommended, as you may want to explore nearby attractions on foot.
 
 ## Frequently Asked Questions
 

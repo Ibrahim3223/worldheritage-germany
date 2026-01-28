@@ -86,7 +86,7 @@ Seasonal considerations are important; if visiting in winter, dress warmly to en
 A visit to Saint Helena Chapel typically takes about one hour, allowing enough time to explore the interior and enjoy the surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to maintain a respectful distance and be mindful of any signs regarding photography restrictions.
+Photography is generally permitted, but it's best to maintain a respectful distance and be mindful of any signs regarding photography restrictions.
 
 ### Are there guided tours?
 Currently, specific guided tours may not be offered, but visitors are welcome to explore the chapel independently.
@@ -95,7 +95,7 @@ Currently, specific guided tours may not be offered, but visitors are welcome to
 Daylight hours are ideal for visiting, with weekdays being preferable to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s advisable to check the official website for details regarding wheelchair access.
+Accessibility information is not specified; it's advisable to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information about online ticket purchases is not available; check the official website for the latest updates.

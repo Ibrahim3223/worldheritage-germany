@@ -28,7 +28,7 @@ The museum is situated in a region that reflects Germany's vibrant cultural land
 
 The legacy of the Thurn und Taxis family is deeply intertwined with the history of postal services in Europe. Emerging in the 16th century, they established a postal system that revolutionized communication across the continent. The family's influence extended beyond logistics; they became prominent figures in European courts, intertwining their fate with that of various ruling houses. The Marstallmuseum, part of the Fürst Thurn und Taxis Museen, serves as a testament to this remarkable history.
 
-As you explore the exhibits, you will encounter various artifacts that illustrate not only the family's contributions to postal history but also their role in politics, culture, and society. The museum chronicles significant milestones, from the establishment of the first organized postal routes to the advent of innovations that shaped modern communication. The collection includes letters, uniforms, and other memorabilia that provide insight into the daily operations of this vital service and the family’s influential role within it.
+As you explore the exhibits, you will encounter various artifacts that illustrate not only the family's contributions to postal history but also their role in politics, culture, and society. The museum chronicles significant milestones, from the establishment of the first organized postal routes to the advent of innovations that shaped modern communication. The collection includes letters, uniforms, and other memorabilia that provide insight into the daily operations of this vital service and the family's influential role within it.
 
 Moreover, the Marstallmuseum is significant for its cultural contributions. It showcases the artistic and architectural styles that flourished during the Thurn und Taxis era, reflecting the aesthetic sensibilities of the time. The museum acts as a vital resource for researchers and history buffs, preserving the narrative of a family that was pivotal in the transformation of communication in Europe.
 
@@ -89,7 +89,7 @@ For the most accurate information on accessibility, please check with the museum
 Check the official website for information regarding online ticket purchases and availability.
 
 ### Are there restrooms and cafes?
-It is advisable to verify the availability of restrooms and dining options on the museum’s official site before your visit.
+It is advisable to verify the availability of restrooms and dining options on the museum's official site before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended for walking around the museum. Dress according to the weather conditions during your visit. 

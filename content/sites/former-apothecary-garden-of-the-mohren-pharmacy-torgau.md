@@ -56,7 +56,7 @@ Typically, a visit to the garden can be comfortably enjoyed in a few hours, allo
 
 While visiting the former Apothecary garden, consider exploring these nearby attractions to enrich your experience:
 
-1. **Torgau Castle**: This historical landmark offers insight into the town’s rich past, featuring impressive architecture and exhibitions.
+1. **Torgau Castle**: This historical landmark offers insight into the town's rich past, featuring impressive architecture and exhibitions.
    
 2. **St. Mary's Church**: Known for its beautiful Gothic architecture, this church is a must-see for those interested in religious history and art.
 

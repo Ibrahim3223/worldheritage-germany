@@ -38,7 +38,7 @@ The history of Bethanien is intertwined with the evolution of healthcare and urb
 
 During its time as a hospital, Bethanien played a crucial role in the local healthcare system, serving the population and contributing to medical advancements. Its architectural design, typical of the era, combined functionality with an aesthetic appeal that remains evident today. Over time, as healthcare practices evolved and urban space was reimagined, the building's purpose shifted.
 
-In the late 20th century, as Berlin underwent a dramatic transformation following the reunification of East and West, Bethanien was repurposed into a cultural center. This transition marked a significant moment in the neighborhood’s revitalization, as artists and cultural institutions began to occupy the space. Today, Bethanien stands as a symbol of this cultural renaissance, hosting various events, exhibitions, and workshops that engage the public and foster artistic expression.
+In the late 20th century, as Berlin underwent a dramatic transformation following the reunification of East and West, Bethanien was repurposed into a cultural center. This transition marked a significant moment in the neighborhood's revitalization, as artists and cultural institutions began to occupy the space. Today, Bethanien stands as a symbol of this cultural renaissance, hosting various events, exhibitions, and workshops that engage the public and foster artistic expression.
 
 The significance of Bethanien extends beyond its architecture; it embodies the resilience of Berlin's cultural landscape. The site actively supports local artists and promotes community engagement, ensuring that it remains a vital part of the city's ongoing narrative. Visitors to Bethanien not only experience a piece of history but also participate in the living, breathing culture of Berlin.
 
@@ -72,7 +72,7 @@ Bethanien is situated in a vibrant area filled with other attractions that compl
 
 3. **Tempelhofer Feld**: This former airport turned public park is a unique recreational area where visitors can enjoy walking, cycling, and various outdoor activities, all while taking in the vast open space.
 
-4. **Markthalle Neun**: A historic market hall that has been revitalized as a food and cultural venue, offering a variety of local produce, street food, and artisanal products. It’s a great place to experience Berlin's culinary scene.
+4. **Markthalle Neun**: A historic market hall that has been revitalized as a food and cultural venue, offering a variety of local produce, street food, and artisanal products. It's a great place to experience Berlin's culinary scene.
 
 5. **Volkspark Friedrichshain**: A picturesque park that provides a tranquil escape from the bustling city. It features walking paths, a lovely pond, and a children's playground, making it perfect for a leisurely afternoon.
 
@@ -80,15 +80,15 @@ Bethanien is situated in a vibrant area filled with other attractions that compl
 
 To make the most of your visit to Bethanien, consider these insider tips:
 
-- **Photography**: While photography is generally permitted, be mindful of any specific exhibitions that may have restrictions. It’s a good idea to ask if you’re unsure.
+- **Photography**: While photography is generally permitted, be mindful of any specific exhibitions that may have restrictions. It's a good idea to ask if you're unsure.
 
 - **Crowd Avoidance**: If you prefer a quieter visit, aim for weekdays, especially in the morning or early afternoon. Major events often draw larger crowds, so checking the schedule in advance can help you plan accordingly.
 
-- **Engage with Staff**: The staff at Bethanien are often knowledgeable about the current exhibitions and events. Don’t hesitate to ask them for recommendations or insights to enhance your visit.
+- **Engage with Staff**: The staff at Bethanien are often knowledgeable about the current exhibitions and events. Don't hesitate to ask them for recommendations or insights to enhance your visit.
 
 ## Practical Information
 
-When visiting Bethanien, it’s advisable to bring a few essentials to ensure a comfortable experience:
+When visiting Bethanien, it's advisable to bring a few essentials to ensure a comfortable experience:
 
 - **Comfortable Footwear**: Expect to do a fair amount of walking, so wear shoes that allow you to explore comfortably.
 
@@ -96,7 +96,7 @@ When visiting Bethanien, it’s advisable to bring a few essentials to ensure a 
 
 - **Accessibility**: Check the official website for information regarding wheelchair accessibility, as facilities may vary throughout the building.
 
-For seasonal events or special exhibitions, remain informed by visiting the center’s website periodically. Engaging with the programming can enhance your understanding and appreciation of the cultural significance of Bethanien.
+For seasonal events or special exhibitions, remain informed by visiting the center's website periodically. Engaging with the programming can enhance your understanding and appreciation of the cultural significance of Bethanien.
 
 ## Frequently Asked Questions
 
@@ -119,7 +119,7 @@ For detailed accessibility information, check the official website prior to your
 Ticket purchasing options may vary; check the official website for details on online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s a good idea to check the official website for current amenities.
+Facilities may be available on-site, but it's a good idea to check the official website for current amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, as you may do a fair amount of walking both inside and outside the building.

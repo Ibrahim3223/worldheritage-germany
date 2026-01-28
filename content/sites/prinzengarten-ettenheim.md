@@ -28,7 +28,7 @@ image_srcset:
 
 The Prinzengarten Ettenheim is a striking garden located in the charming town of Ettenheim, Germany. This garden serves as a serene escape from the surrounding urban landscape, offering visitors a peaceful environment to explore nature, relax, and appreciate the art of gardening. Ettenheim itself, nestled in the picturesque region of Baden-Württemberg, is characterized by its historical architecture and quaint streets, making the garden a perfect complement to the town's cultural offerings.
 
-Visitors to Prinzengarten can expect to immerse themselves in a beautifully curated space where horticultural artistry meets tranquil ambiance. The garden stands as an essential part of Ettenheim’s heritage, providing not only a recreational area for locals and tourists alike but also a site for community events and gatherings. Whether you're a passionate gardener, a history enthusiast, or simply seeking a moment of peace, Prinzengarten Ettenheim promises an enriching experience that highlights the beauty of the natural world.
+Visitors to Prinzengarten can expect to immerse themselves in a beautifully curated space where horticultural artistry meets tranquil ambiance. The garden stands as an essential part of Ettenheim's heritage, providing not only a recreational area for locals and tourists alike but also a site for community events and gatherings. Whether you're a passionate gardener, a history enthusiast, or simply seeking a moment of peace, Prinzengarten Ettenheim promises an enriching experience that highlights the beauty of the natural world.
 
 ## History and Significance
 

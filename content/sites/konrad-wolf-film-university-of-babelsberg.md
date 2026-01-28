@@ -60,7 +60,7 @@ The Konrad Wolf Film University of Babelsberg is strategically located near seve
 
 2. **Sanssouci Palace**: Just a short distance away, this UNESCO World Heritage site is a stunning example of Rococo architecture. The palace and its gardens provide a serene escape and a glimpse into the opulent life of Frederick the Great.
 
-3. **Potsdam’s Dutch Quarter (Holländisches Viertel)**: This charming area features red-brick buildings and quaint shops, offering a taste of Dutch architecture and culture in the heart of Potsdam.
+3. **Potsdam's Dutch Quarter (Holländisches Viertel)**: This charming area features red-brick buildings and quaint shops, offering a taste of Dutch architecture and culture in the heart of Potsdam.
 
 4. **The New Garden (Neuer Garten)**: A picturesque park that showcases beautiful landscapes and features the iconic Marmorpalais, providing a perfect spot for a leisurely stroll or a picnic.
 

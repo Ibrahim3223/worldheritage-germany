@@ -48,9 +48,9 @@ While there are no significant man-made structures directly associated with Zies
 
 ## Visiting Information
 
-Visiting Ziestsee is a straightforward endeavor, with various options for accessing the lake. For those traveling from nearby cities, public transport may be available, but it’s recommended to check local schedules for the most accurate information. Alternatively, visitors can drive to the location, enjoying the scenic landscapes of Brandenburg along the way.
+Visiting Ziestsee is a straightforward endeavor, with various options for accessing the lake. For those traveling from nearby cities, public transport may be available, but it's recommended to check local schedules for the most accurate information. Alternatively, visitors can drive to the location, enjoying the scenic landscapes of Brandenburg along the way.
 
-When planning a visit, it’s essential to check the official website for current information regarding hours and potential fees, as these details may vary seasonally. Ziestsee is generally accessible year-round, with each season offering unique experiences. 
+When planning a visit, it's essential to check the official website for current information regarding hours and potential fees, as these details may vary seasonally. Ziestsee is generally accessible year-round, with each season offering unique experiences. 
 
 During warmer months, the lake becomes a popular destination for swimming and picnicking, while autumn showcases stunning foliage that draws photographers and nature enthusiasts. Winter may bring a quieter ambiance, perfect for those seeking solitude in nature.
 

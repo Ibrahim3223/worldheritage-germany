@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kirche Herz Jesu, a distinguished church building located in Wuppertal, Germany, presents an intriguing blend of architectural beauty and cultural significance. This site, which serves as a spiritual center for the local community, is an essential part of the city’s religious and historical landscape. Wuppertal is known for its unique topography and inventive public transport systems, and the church adds an important dimension to the city’s heritage. Visitors can expect not only a space for contemplation but also a glimpse into the community’s heartfelt devotion and architectural heritage. 
+Kirche Herz Jesu, a distinguished church building located in Wuppertal, Germany, presents an intriguing blend of architectural beauty and cultural significance. This site, which serves as a spiritual center for the local community, is an essential part of the city's religious and historical landscape. Wuppertal is known for its unique topography and inventive public transport systems, and the church adds an important dimension to the city's heritage. Visitors can expect not only a space for contemplation but also a glimpse into the community's heartfelt devotion and architectural heritage. 
 
 The church's inviting environment and serene atmosphere provide a perfect backdrop for those looking to explore Wuppertal's cultural offerings. Whether you are a spiritual seeker or simply curious about the architectural styles represented in the region, a visit to Kirche Herz Jesu promises a rewarding experience.
 
@@ -34,7 +34,7 @@ The church's inviting environment and serene atmosphere provide a perfect backdr
 
 While specific dates may be elusive, Kirche Herz Jesu has played a vital role in the spiritual lives of the local community. Its establishment reflects the historical context of Wuppertal, a city that has undergone significant transformations over the years. The church serves as a gathering place for worship and community events, embodying the values and traditions of its congregation.
 
-Culturally, Kirche Herz Jesu is tied to the broader narrative of Wuppertal and the region’s ecclesiastical history. Churches in Germany often reflect the artistic and architectural trends of their time, and this site is no exception. Visitors may find that the church's presence contributes to an understanding of the evolution of community religious practices in the area, as well as the architectural styles that have influenced church design throughout the years.
+Culturally, Kirche Herz Jesu is tied to the broader narrative of Wuppertal and the region's ecclesiastical history. Churches in Germany often reflect the artistic and architectural trends of their time, and this site is no exception. Visitors may find that the church's presence contributes to an understanding of the evolution of community religious practices in the area, as well as the architectural styles that have influenced church design throughout the years.
 
 ## Architecture and Features
 
@@ -92,4 +92,4 @@ Facilities may be limited within the church; nearby establishments may offer add
 ### What should I wear?
 Visitors are encouraged to dress modestly as a sign of respect for the sacred space. Comfortable attire is advisable for walking around the area.
 
-A visit to Kirche Herz Jesu not only enriches your understanding of Wuppertal’s religious heritage but also allows for an exploration of the architectural styles that define this remarkable city.
+A visit to Kirche Herz Jesu not only enriches your understanding of Wuppertal's religious heritage but also allows for an exploration of the architectural styles that define this remarkable city.

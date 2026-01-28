@@ -70,7 +70,7 @@ For those planning to photograph the exhibits, it's advisable to check the museu
 
 When visiting Museum Strom und Leben, bring essentials such as comfortable shoes, as you may be walking and standing for extended periods. Seasonal considerations may also play a role in your visit; check the weather forecast and dress accordingly, especially if you plan to explore any outdoor areas nearby.
 
-It’s wise to carry a water bottle to stay hydrated, particularly during warmer months. If you have a keen interest in local history, consider bringing a notebook or a device for taking notes, as this can enhance your learning experience during your visit.
+It's wise to carry a water bottle to stay hydrated, particularly during warmer months. If you have a keen interest in local history, consider bringing a notebook or a device for taking notes, as this can enhance your learning experience during your visit.
 
 ## Frequently Asked Questions
 

@@ -72,7 +72,7 @@ While Burg Fürstenstein is a significant destination in its own right, the surr
 
 3. **Museum Eschwege** - A local museum that provides insights into the history and culture of Eschwege and its surroundings, making it a great complementary visit.
 
-4. **Ruins of Burg Hanstein** - An impressive castle ruin located nearby, offering stunning views and a glimpse into the region’s medieval past.
+4. **Ruins of Burg Hanstein** - An impressive castle ruin located nearby, offering stunning views and a glimpse into the region's medieval past.
 
 5. **Natural Parks** - The surrounding area is home to various parks and nature reserves, ideal for hiking and enjoying the outdoors.
 

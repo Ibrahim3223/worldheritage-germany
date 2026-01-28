@@ -28,7 +28,7 @@ image_srcset:
 
 Rantum Basin, located on the picturesque island of Sylt in Germany, is a tranquil lake that serves as a serene escape for nature lovers and a haven for birdwatchers. This freshwater lake is situated near the village of Rantum, where the surrounding marshlands create a unique habitat for diverse flora and fauna. The area is not only a significant ecological site but also a popular spot for visitors seeking to immerse themselves in the natural beauty of Sylt. With its calm waters and lush surroundings, Rantum Basin offers a peaceful retreat from the hustle and bustle of everyday life, making it an important site for both conservation and recreation.
 
-Beyond its scenic appeal, Rantum Basin plays a crucial role in the local ecosystem, acting as a vital stopover for migratory birds. The lake's rich biodiversity provides opportunities for outdoor activities such as birdwatching, hiking, and photography, allowing visitors to engage with the environment in meaningful ways. Whether you're looking to relax by the water or explore the surrounding landscapes, Rantum Basin promises a refreshing experience that showcases the island’s natural heritage.
+Beyond its scenic appeal, Rantum Basin plays a crucial role in the local ecosystem, acting as a vital stopover for migratory birds. The lake's rich biodiversity provides opportunities for outdoor activities such as birdwatching, hiking, and photography, allowing visitors to engage with the environment in meaningful ways. Whether you're looking to relax by the water or explore the surrounding landscapes, Rantum Basin promises a refreshing experience that showcases the island's natural heritage.
 
 ## History and Significance
 
@@ -97,7 +97,7 @@ Check the official website for details on accessibility, as certain areas may be
 Currently, there are no entry fees for Rantum Basin, but check the official website for any special events that may require tickets.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the immediate area, so it’s advisable to bring your own refreshments and plan restroom stops in nearby villages.
+Facilities may be limited in the immediate area, so it's advisable to bring your own refreshments and plan restroom stops in nearby villages.
 
 ### What should I wear?
 Dress comfortably according to the season, with sturdy shoes for walking and layers to adapt to changing weather conditions.

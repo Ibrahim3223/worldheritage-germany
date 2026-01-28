@@ -72,17 +72,17 @@ After visiting the Hessian State Museum, there are several nearby attractions wo
 
 To enhance your visit to the Hessian State Museum, consider the following insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s crucial to respect any restrictions in place. Always check signage or inquire with staff about photography policies.
+- **Photography**: While photography may be allowed in certain areas, it's crucial to respect any restrictions in place. Always check signage or inquire with staff about photography policies.
   
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekday mornings. This timeframe often attracts fewer visitors, allowing for a more intimate experience with the art.
 
-- **Engage with Staff**: The museum staff can provide valuable insights into specific exhibits and artists. Don’t hesitate to ask questions or seek recommendations for must-see pieces.
+- **Engage with Staff**: The museum staff can provide valuable insights into specific exhibits and artists. Don't hesitate to ask questions or seek recommendations for must-see pieces.
 
 ## Practical Information
 
 When planning your visit to the Hessian State Museum, keep these practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are advisable, as you’ll likely be on your feet exploring various exhibitions. A small notebook or smartphone can be useful for jotting down thoughts or reflections on the artworks.
+- **What to Bring**: Comfortable walking shoes are advisable, as you'll likely be on your feet exploring various exhibitions. A small notebook or smartphone can be useful for jotting down thoughts or reflections on the artworks.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for outdoor exploration, especially if you plan to visit nearby parks or outdoor attractions.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Frankfurt Cathedral, officially known as St. Bartholomew's Cathedral, is a stunning example of Gothic architecture located in the heart of Frankfurt am Main, Germany. This majestic church not only serves as a place of worship but also stands as an emblem of the city’s historical and cultural heritage. Positioned centrally amidst the bustling urban landscape, the cathedral draws visitors with its impressive façade, intricate details, and significant role in the historical narrative of Frankfurt.
+Frankfurt Cathedral, officially known as St. Bartholomew's Cathedral, is a stunning example of Gothic architecture located in the heart of Frankfurt am Main, Germany. This majestic church not only serves as a place of worship but also stands as an emblem of the city's historical and cultural heritage. Positioned centrally amidst the bustling urban landscape, the cathedral draws visitors with its impressive façade, intricate details, and significant role in the historical narrative of Frankfurt.
 
 The cathedral has long been a focal point for civic and ecclesiastical events, including coronations of Holy Roman Emperors. Its towering presence symbolizes the city's resilience and importance throughout various periods of European history. As you approach its grand structure, you will be greeted by the sight of its striking red sandstone, which contrasts beautifully with the modern architecture that surrounds it. With its intricate spires and elaborate decorations, Frankfurt Cathedral invites exploration and contemplation, making it a must-visit for anyone interested in the rich tapestry of European heritage.
 
@@ -44,7 +44,7 @@ Frankfurt Cathedral is renowned for its striking Gothic architecture, characteri
 
 Inside, visitors are greeted by a spacious nave adorned with remarkable artwork and religious iconography. The cathedral's interior features a series of chapels, each with its unique artistic elements, including altars and sculptures that depict biblical themes. The stained glass windows are particularly noteworthy, allowing filtered light to cast vibrant colors across the stone surfaces, enhancing the spiritual atmosphere of the space.
 
-Among its notable features is the beautiful high altar, which serves as a focal point for liturgical celebrations. The organ, with its intricate pipes and historical significance, adds a musical dimension to the cathedral’s ambiance. Visitors can also explore the crypt, which houses the remains of several notable figures associated with the cathedral's history.
+Among its notable features is the beautiful high altar, which serves as a focal point for liturgical celebrations. The organ, with its intricate pipes and historical significance, adds a musical dimension to the cathedral's ambiance. Visitors can also explore the crypt, which houses the remains of several notable figures associated with the cathedral's history.
 
 ## Visiting Information
 

@@ -66,7 +66,7 @@ While the Vier Steindeckerbrücken are a highlight in Meschwitz, there are sever
    
 3. **Cultural Heritage Museum**: Located in the region, this museum showcases the history and cultural significance of Hochkirch and its surroundings.
 
-4. **Schwedenstein**: A local landmark offering insights into the area’s history, often featuring scenic viewpoints for visitors.
+4. **Schwedenstein**: A local landmark offering insights into the area's history, often featuring scenic viewpoints for visitors.
 
 5. **Local Dining**: Experience regional cuisine by visiting nearby cafes and restaurants, which provide an opportunity to savor local flavors.
 

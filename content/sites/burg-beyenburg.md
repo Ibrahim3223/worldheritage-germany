@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Beyenburg, located in the vibrant region of Wuppertal, Germany, offers visitors an intriguing glimpse into the remnants of a historical fortress that once stood prominently along the banks of the Wupper River. This archaeological site serves not only as a testament to the region’s medieval history but also as a captivating destination for those interested in exploring the layers of the past. As you walk through the remains of the former castle complex, a sense of history envelops you, allowing for a deeper appreciation of the architectural and cultural heritage that shaped this part of Germany.
+Burg Beyenburg, located in the vibrant region of Wuppertal, Germany, offers visitors an intriguing glimpse into the remnants of a historical fortress that once stood prominently along the banks of the Wupper River. This archaeological site serves not only as a testament to the region's medieval history but also as a captivating destination for those interested in exploring the layers of the past. As you walk through the remains of the former castle complex, a sense of history envelops you, allowing for a deeper appreciation of the architectural and cultural heritage that shaped this part of Germany.
 
 The site of Burg Beyenburg is characterized by its strategic positioning along the river, which historically provided both defense and access to trade routes. Visitors can expect to immerse themselves in the serene environment of the area, which is marked by lush greenery and the gentle flow of the river. As one of the significant archaeological sites in the region, Burg Beyenburg is an essential stop for travelers seeking to understand the historical landscape of Wuppertal and its surroundings.
 

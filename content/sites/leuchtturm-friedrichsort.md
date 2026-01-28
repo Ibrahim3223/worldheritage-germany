@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Perched along the coast of Schleswig-Holstein, the Leuchtturm Friedrichsort serves as a prominent landmark in the Kiel region of Germany. This lighthouse, with its striking presence, has guided countless mariners safely through the waters, marking an important navigational point in the Baltic Sea. Visitors to this area will find the lighthouse not only a vital component of maritime heritage but also an enticing destination that reflects the region’s rich history. With its notable architectural features and scenic coastal surroundings, Leuchtturm Friedrichsort promises to be a captivating stop for anyone exploring the German coastline.
+Perched along the coast of Schleswig-Holstein, the Leuchtturm Friedrichsort serves as a prominent landmark in the Kiel region of Germany. This lighthouse, with its striking presence, has guided countless mariners safely through the waters, marking an important navigational point in the Baltic Sea. Visitors to this area will find the lighthouse not only a vital component of maritime heritage but also an enticing destination that reflects the region's rich history. With its notable architectural features and scenic coastal surroundings, Leuchtturm Friedrichsort promises to be a captivating stop for anyone exploring the German coastline.
 
-The lighthouse’s geographic context within Kiel adds to its significance. As an essential entry point to the Baltic Sea, the lighthouse has played a crucial role in maritime safety, especially for the busy shipping lanes frequented by commercial and recreational vessels alike. The combination of its historical importance and the picturesque coastal landscape makes Leuchtturm Friedrichsort a site worth visiting, whether you are a history enthusiast, a maritime aficionado, or simply in search of scenic beauty.
+The lighthouse's geographic context within Kiel adds to its significance. As an essential entry point to the Baltic Sea, the lighthouse has played a crucial role in maritime safety, especially for the busy shipping lanes frequented by commercial and recreational vessels alike. The combination of its historical importance and the picturesque coastal landscape makes Leuchtturm Friedrichsort a site worth visiting, whether you are a history enthusiast, a maritime aficionado, or simply in search of scenic beauty.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ Exploring the area around Leuchtturm Friedrichsort opens up additional opportuni
 
 1. **Kiel Maritime Museum**: A short distance from the lighthouse, this museum offers insights into the maritime heritage of Kiel and the surrounding region, featuring exhibits on shipbuilding, navigation, and local maritime culture.
 
-2. **Kiel Canal**: This engineering marvel can be explored nearby, providing visitors the chance to witness large vessels transiting through one of the world’s busiest artificial waterways.
+2. **Kiel Canal**: This engineering marvel can be explored nearby, providing visitors the chance to witness large vessels transiting through one of the world's busiest artificial waterways.
 
 3. **Schilksee Beach**: A beautiful sandy beach where visitors can relax, enjoy water sports, or take leisurely walks along the shore, providing a perfect complement to a day of sightseeing.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting on weekdays or during the shoulder seasons of
 
 ## Practical Information
 
-When visiting Leuchtturm Friedrichsort, it’s advisable to bring essentials such as water, snacks, and comfortable walking shoes. Depending on the time of year, layers are recommended to accommodate the changing weather conditions typical of coastal regions. 
+When visiting Leuchtturm Friedrichsort, it's advisable to bring essentials such as water, snacks, and comfortable walking shoes. Depending on the time of year, layers are recommended to accommodate the changing weather conditions typical of coastal regions. 
 
 If you are visiting during the summer months, sunscreen and a hat can be helpful for protection against the sun, while waterproof clothing may be necessary in spring or fall due to the likelihood of rain. 
 

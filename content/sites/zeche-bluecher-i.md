@@ -22,7 +22,7 @@ images:
 
 Zeche Blücher I, located in Gelsenkirchen, Germany, is an important site that encapsulates the industrial heritage of the region, particularly its storied coal mining history. As a former coal mine, it played a vital role in both the economic and social development of the area, reflecting the broader narrative of the German industrial revolution. Today, it stands as a significant point of interest for those looking to explore the remnants of an era that shaped not just Gelsenkirchen, but also the entire Ruhr Valley. Visitors can expect to witness the architectural remnants of industrial progress while gaining insight into the lives of the workers who toiled in these mines.
 
-The site’s location in Gelsenkirchen, a city known for its industrial past, offers a unique opportunity to explore a region that was once the heart of coal mining in Germany. The significance of Zeche Blücher I extends beyond its physical structure; it represents the resilience and evolution of the community that grew around it. Whether you are an industrial heritage enthusiast or simply curious about the history of mining, a visit to Zeche Blücher I promises to be an enlightening experience.
+The site's location in Gelsenkirchen, a city known for its industrial past, offers a unique opportunity to explore a region that was once the heart of coal mining in Germany. The significance of Zeche Blücher I extends beyond its physical structure; it represents the resilience and evolution of the community that grew around it. Whether you are an industrial heritage enthusiast or simply curious about the history of mining, a visit to Zeche Blücher I promises to be an enlightening experience.
 
 ## History and Significance
 

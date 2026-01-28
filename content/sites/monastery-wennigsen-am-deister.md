@@ -63,7 +63,7 @@ While at Monastery Wennigsen am Deister, consider exploring other nearby attract
 1. **Hannover Zoo**: A short drive away, this well-known zoo offers a variety of animal exhibits and is a favorite for families.
 2. **St. Jacob's Church**: Located in the center of Wennigsen, this historical church features beautiful architecture and a serene atmosphere.
 3. **Deister Forest**: A natural area ideal for walking and enjoying the outdoors, offering trails and picnic spots.
-4. **The Old Town of Hannover**: A vibrant area filled with shops, cafes, and historical landmarks that reflect the city’s rich heritage.
+4. **The Old Town of Hannover**: A vibrant area filled with shops, cafes, and historical landmarks that reflect the city's rich heritage.
 
 ## Insider Tips
 
@@ -97,7 +97,7 @@ Weekdays are generally quieter, providing a more intimate experience. Special ev
 For specific accessibility information, including wheelchair access, check the official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options can vary, so it’s best to verify on the official website.
+Ticket purchasing options can vary, so it's best to verify on the official website.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available. For dining options, check the official website for recommendations nearby.

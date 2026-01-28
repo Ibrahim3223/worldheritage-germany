@@ -28,9 +28,9 @@ image_srcset:
 
 St. Paulus in Querenburg, Bochum, Germany, is a striking church building that stands out within the urban landscape. Known for its architectural elegance and cultural significance, this sacred structure attracts visitors who are eager to explore its rich heritage and spiritual ambiance. As a prominent landmark in the region, St. Paulus serves as both a place of worship and a center for community gatherings, reflecting the deeply-rooted traditions of the area.
 
-Situated in the heart of Bochum, a city known for its industrial history and vibrant cultural scene, St. Paulus is easily accessible and offers a glimpse into the religious and social fabric of the community. The church’s historical importance is underscored by its role in local events and as a gathering place for residents. Visitors to St. Paulus can expect an immersive experience filled with contemplation and appreciation for its artistry and significance.
+Situated in the heart of Bochum, a city known for its industrial history and vibrant cultural scene, St. Paulus is easily accessible and offers a glimpse into the religious and social fabric of the community. The church's historical importance is underscored by its role in local events and as a gathering place for residents. Visitors to St. Paulus can expect an immersive experience filled with contemplation and appreciation for its artistry and significance.
 
-Whether you are a history enthusiast, an architecture aficionado, or simply seeking a serene spot to reflect, St. Paulus promises an enriching visit that connects you to the essence of Bochum’s cultural identity.
+Whether you are a history enthusiast, an architecture aficionado, or simply seeking a serene spot to reflect, St. Paulus promises an enriching visit that connects you to the essence of Bochum's cultural identity.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ The history of St. Paulus is intertwined with the development of the Querenburg 
 
 While specific dates regarding its founding or major renovations may not be available, the church has played a pivotal role in the lives of those in Bochum. It has been a venue for celebrations, rituals, and community events, further reinforcing its significance as a communal hub. The architectural design and features of St. Paulus echo the broader historical narratives of the region, representing the faith and aspirations of the community.
 
-Over the years, St. Paulus has stood as a witness to the social changes and challenges faced by the inhabitants of Bochum. Its continued presence highlights the resilience and enduring spirit of the local population. Visitors to the church can appreciate not only its architectural beauty but also the stories that have unfolded within its walls, making it a significant landmark in Bochum’s cultural landscape.
+Over the years, St. Paulus has stood as a witness to the social changes and challenges faced by the inhabitants of Bochum. Its continued presence highlights the resilience and enduring spirit of the local population. Visitors to the church can appreciate not only its architectural beauty but also the stories that have unfolded within its walls, making it a significant landmark in Bochum's cultural landscape.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ St. Paulus showcases a blend of traditional church architecture with elements th
 
 One notable feature of St. Paulus is its facade, which often draws the eye of passersby. The use of local materials and craftsmanship is evident in its construction, creating a harmonious relationship with the surrounding landscape. Inside, visitors can expect to find a serene atmosphere, conducive to reflection and spiritual contemplation. The interior spaces are designed to accommodate worshippers and facilitate community gatherings, making it a versatile space that serves multiple purposes.
 
-While detailed descriptions of specific architectural elements may be limited, the overall design reflects the church’s role as a cornerstone of the Querenburg community. The simplicity of its structure allows the congregation to focus on the spiritual experience, while also inviting admiration for the artistry involved in its creation.
+While detailed descriptions of specific architectural elements may be limited, the overall design reflects the church's role as a cornerstone of the Querenburg community. The simplicity of its structure allows the congregation to focus on the spiritual experience, while also inviting admiration for the artistry involved in its creation.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ St. Paulus is conveniently located near several attractions that further enhance
 
 5. **Botanischer Garten**: A tranquil garden space ideal for leisurely walks, featuring a diverse collection of plant species and serene landscapes.
 
-These nearby attractions enrich the experience of visiting St. Paulus, allowing for a fuller exploration of Bochum’s cultural and historical offerings.
+These nearby attractions enrich the experience of visiting St. Paulus, allowing for a fuller exploration of Bochum's cultural and historical offerings.
 
 ## Insider Tips
 
@@ -82,7 +82,7 @@ For those planning a visit to St. Paulus, here are some insider tips to enhance 
 
 ## Practical Information
 
-When visiting St. Paulus, it’s essential to consider a few practical aspects to ensure a comfortable experience:
+When visiting St. Paulus, it's essential to consider a few practical aspects to ensure a comfortable experience:
 
 - **What to Bring**: A light jacket may be useful as church interiors can be cooler. Bringing a water bottle is advisable, especially if you plan to explore the surrounding area afterward.
 
@@ -94,7 +94,7 @@ When visiting St. Paulus, it’s essential to consider a few practical aspects t
 A visit to St. Paulus typically takes about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions, particularly during services.
+Photography policies may vary, so it's best to check for any restrictions, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours or any special events that might be available during your visit.

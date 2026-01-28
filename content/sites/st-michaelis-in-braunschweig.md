@@ -69,7 +69,7 @@ While visiting St. Michaelis, there are several nearby attractions worth explori
 3. **The Happy Rizzi House** - An eye-catching work of contemporary architecture, this building is known for its colorful façade and playful design.
 4. **St. Blasius Church** - Another important church in the city, offering insight into local religious practices and architectural styles.
 
-These attractions complement a visit to St. Michaelis, providing a broader understanding of Braunschweig’s rich cultural landscape.
+These attractions complement a visit to St. Michaelis, providing a broader understanding of Braunschweig's rich cultural landscape.
 
 ## Insider Tips
 

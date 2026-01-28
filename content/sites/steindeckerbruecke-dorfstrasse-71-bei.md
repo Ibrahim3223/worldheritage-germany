@@ -46,7 +46,7 @@ Reaching the Steindeckerbrücke is straightforward, as it is well-connected by l
 
 To make the most of your visit, it is advisable to check the official website for current information regarding hours and any associated fees. While the bridge itself may not require an entry fee, nearby attractions and facilities may have specific operating hours or costs. 
 
-A visit to the Steindeckerbrücke can typically be completed within an hour, allowing time to appreciate the structure and surrounding area. For those interested in photography, early morning or late afternoon can offer the best natural lighting for capturing the bridge’s features. 
+A visit to the Steindeckerbrücke can typically be completed within an hour, allowing time to appreciate the structure and surrounding area. For those interested in photography, early morning or late afternoon can offer the best natural lighting for capturing the bridge's features. 
 
 The best times to visit are during the spring and autumn months when the weather is mild, and the changing seasons provide a picturesque backdrop. Be prepared for varying weather conditions and dress appropriately to ensure a comfortable experience.
 

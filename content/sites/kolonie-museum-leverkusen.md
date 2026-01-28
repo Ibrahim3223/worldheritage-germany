@@ -64,9 +64,9 @@ While exploring the Kolonie-Museum Leverkusen, consider visiting some nearby att
 
 3. **Bayer Cross**: An iconic symbol of the city, the Bayer Cross is an impressive illuminated landmark that represents Leverkusen's industrial heritage.
 
-4. **Neuland Park**: A former industrial site transformed into a public park, it features walking trails, gardens, and art installations, showcasing the city’s commitment to sustainability and green spaces.
+4. **Neuland Park**: A former industrial site transformed into a public park, it features walking trails, gardens, and art installations, showcasing the city's commitment to sustainability and green spaces.
 
-5. **Bayerisches Brauhaus**: For those interested in local cuisine, this brewery offers traditional German fare and a unique atmosphere that reflects the region’s industrial past.
+5. **Bayerisches Brauhaus**: For those interested in local cuisine, this brewery offers traditional German fare and a unique atmosphere that reflects the region's industrial past.
 
 ## Insider Tips
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Kolonie-Museum Leverkusen, consider the fol
 Visitors typically spend between one to two hours at the museum, depending on their interest in the exhibits.
 
 ### Is photography allowed?
-Check the museum’s policy regarding photography, as some areas may have restrictions.
+Check the museum's policy regarding photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

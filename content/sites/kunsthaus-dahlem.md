@@ -68,7 +68,7 @@ Kunsthaus Dahlem is situated in a culturally rich area of Berlin, making it conv
 
 2. **Botanical Garden and Botanical Museum** – A short distance from the museum, this expansive garden features a diverse range of plants and landscapes, making it a peaceful retreat for nature lovers.
 
-3. **Schlosstheater Schönhausen** – This historic theater offers a glimpse into the cultural heritage of Berlin, showcasing performances that often reflect the city’s artistic vibrancy.
+3. **Schlosstheater Schönhausen** – This historic theater offers a glimpse into the cultural heritage of Berlin, showcasing performances that often reflect the city's artistic vibrancy.
 
 4. **Grunewald Forest** – A vast natural area perfect for leisurely walks or picnics, Grunewald is an excellent way to experience Berlin's outdoor beauty.
 
@@ -78,7 +78,7 @@ Kunsthaus Dahlem is situated in a culturally rich area of Berlin, making it conv
 
 To make the most of your visit to Kunsthaus Dahlem, here are some insider tips to consider:
 
-- **Photography**: If you wish to capture memories of your visit, check the museum’s policy on photography. Some exhibitions may have restrictions, so it's always best to inquire beforehand.
+- **Photography**: If you wish to capture memories of your visit, check the museum's policy on photography. Some exhibitions may have restrictions, so it's always best to inquire beforehand.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, try visiting during weekday mornings. This is typically when the museum is less crowded, allowing you to engage more deeply with the art.
 
@@ -100,16 +100,16 @@ When planning your visit to Kunsthaus Dahlem, consider the following practical t
 A visit typically takes around two to three hours, allowing sufficient time to explore the exhibitions and engage with the art.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check with museum staff or signage upon arrival to understand the specific rules.
+Photography policies may vary by exhibition. It's best to check with museum staff or signage upon arrival to understand the specific rules.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they can enhance your understanding of the artworks and the museum’s history.
+Check the official website for information on guided tours, as they can enhance your understanding of the artworks and the museum's history.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, tend to be less crowded. However, weekends may offer special programs worth attending.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s advisable to confirm specific accessibility features on the official website.
+The museum is designed to be accessible, but it's advisable to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for options regarding ticket purchases and any special deals that may be available.

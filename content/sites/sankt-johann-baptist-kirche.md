@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Sankt-Johann-Baptist-Kirche, located in the heart of Magdeburg, Germany, is a striking representation of the region's religious heritage and architectural evolution. This church building serves not only as a place of worship but also as a significant landmark that reflects the cultural and historical narratives of the area. The church’s presence in Magdeburg adds depth to the city’s rich tapestry of historical sites, making it an essential stop for travelers and history enthusiasts alike.
+Sankt-Johann-Baptist-Kirche, located in the heart of Magdeburg, Germany, is a striking representation of the region's religious heritage and architectural evolution. This church building serves not only as a place of worship but also as a significant landmark that reflects the cultural and historical narratives of the area. The church's presence in Magdeburg adds depth to the city's rich tapestry of historical sites, making it an essential stop for travelers and history enthusiasts alike.
 
 Magdeburg, known for its vibrant history, is situated along the Elbe River. With its roots tracing back to the early medieval period, the city has been a focal point for various cultural movements, making Sankt-Johann-Baptist-Kirche an important site for understanding the religious and architectural developments that have shaped the region over centuries. Visitors can expect to immerse themselves in the serene atmosphere of the church, where spirituality and artistry converge.
 
@@ -38,7 +38,7 @@ While specific historical dates may not be available, the significance of Sankt-
 
 The church's architecture and design encapsulate important periods in German ecclesiastical architecture, showcasing how religious structures have evolved to meet the spiritual needs of their congregations. The presence of Sankt-Johann-Baptist-Kirche contributes to the understanding of how churches in Germany have adapted to changes in society, politics, and art.
 
-In contemporary times, the church continues to serve the local community, hosting services, events, and various religious activities. Its significance extends beyond the spiritual realm; it acts as a cultural landmark that attracts visitors interested in the architectural styles and historical narratives of Magdeburg. The church fosters a sense of identity and continuity within the community, making it a vital element of the city’s heritage.
+In contemporary times, the church continues to serve the local community, hosting services, events, and various religious activities. Its significance extends beyond the spiritual realm; it acts as a cultural landmark that attracts visitors interested in the architectural styles and historical narratives of Magdeburg. The church fosters a sense of identity and continuity within the community, making it a vital element of the city's heritage.
 
 ## Architecture and Features
 

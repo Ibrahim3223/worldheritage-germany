@@ -62,7 +62,7 @@ As you explore Hanfried, take the opportunity to engage with the surrounding env
 
 ## Insider Tips
 
-For those wishing to capture the essence of Hanfried through photography, consider visiting early in the morning or later in the afternoon to avoid crowds and enjoy softer lighting. Pay attention to the statue’s details—the craftsmanship often reveals itself in subtle ways that are best appreciated up close. If possible, explore the area around the statue for varied angles, enhancing your photographic collection of this cultural landmark.
+For those wishing to capture the essence of Hanfried through photography, consider visiting early in the morning or later in the afternoon to avoid crowds and enjoy softer lighting. Pay attention to the statue's details—the craftsmanship often reveals itself in subtle ways that are best appreciated up close. If possible, explore the area around the statue for varied angles, enhancing your photographic collection of this cultural landmark.
 
 ## Practical Information
 

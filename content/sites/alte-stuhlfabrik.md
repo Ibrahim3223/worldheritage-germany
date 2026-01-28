@@ -74,7 +74,7 @@ As for the best times to visit, consider weekdays or early mornings to avoid lar
 
 For photography enthusiasts, the museum allows photography in most areas, but it's wise to respect any restrictions indicated on signage. Early visits can help you avoid the busier times, as weekends and holidays tend to attract larger crowds.
 
-If you’re interested in more in-depth knowledge, consider joining any guided programs or workshops that may be offered during your visit. These can provide deeper insight into not just the exhibits but also the techniques behind furniture making.
+If you're interested in more in-depth knowledge, consider joining any guided programs or workshops that may be offered during your visit. These can provide deeper insight into not just the exhibits but also the techniques behind furniture making.
 
 ## Practical Information
 

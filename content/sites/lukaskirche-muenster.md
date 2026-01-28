@@ -28,7 +28,7 @@ image_srcset:
 
 Lukaskirche, an intriguing church building located in the heart of Münster, Germany, serves as a significant landmark reflecting the region's ecclesiastical heritage. This church stands as a focal point for both locals and visitors, inviting exploration into its architectural beauty and cultural relevance. Set against the backdrop of Münster's vibrant urban landscape, Lukaskirche draws attention not only for its spiritual purpose but also for its artistic and historical significance, making it a must-visit for anyone exploring the area.
 
-Münster, known for its bicycle-friendly streets and picturesque canals, has long been a center of culture and education. The presence of Lukaskirche adds to this allure, providing visitors with a window into the city’s religious practices and artistic endeavors. The church is not merely a place of worship; it represents the community's resilience and dedication to preserving their architectural heritage. As you approach Lukaskirche, you can expect to uncover layers of history and artistry that reflect the broader narrative of Münster itself.
+Münster, known for its bicycle-friendly streets and picturesque canals, has long been a center of culture and education. The presence of Lukaskirche adds to this allure, providing visitors with a window into the city's religious practices and artistic endeavors. The church is not merely a place of worship; it represents the community's resilience and dedication to preserving their architectural heritage. As you approach Lukaskirche, you can expect to uncover layers of history and artistry that reflect the broader narrative of Münster itself.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ Before visiting, it is advisable to check the official website for current infor
 
 The best times to visit are generally during weekdays when the church may be less crowded, allowing for a more personal experience. Special events, services, or concerts may also occur, providing an opportunity to engage with the local community and witness the church's vibrant role in contemporary life. 
 
-When planning your visit, consider bringing along a camera to capture the church’s architectural details and any unique features you encounter. Respectful attire is encouraged, given the church's status as a place of worship.
+When planning your visit, consider bringing along a camera to capture the church's architectural details and any unique features you encounter. Respectful attire is encouraged, given the church's status as a place of worship.
 
 ## Nearby Attractions
 

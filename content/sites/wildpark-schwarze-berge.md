@@ -38,7 +38,7 @@ Wildpark Schwarze Berge features a thoughtfully designed layout that encourages 
 
 Visitors will encounter a range of animal species, from native wildlife to exotic creatures. The enclosures are designed to provide both safety for the animals and an immersive experience for guests. The paths throughout the park are well-maintained, allowing for easy navigation as visitors make their way from one exhibit to another.
 
-In addition to its animal habitats, Wildpark Schwarze Berge includes spaces for educational programs, interactive exhibits, and areas designed for relaxation. These features enhance the overall visitor experience, making it both enjoyable and informative. The thoughtful integration of nature and education within the park’s architecture underscores its commitment to conservation and animal welfare.
+In addition to its animal habitats, Wildpark Schwarze Berge includes spaces for educational programs, interactive exhibits, and areas designed for relaxation. These features enhance the overall visitor experience, making it both enjoyable and informative. The thoughtful integration of nature and education within the park's architecture underscores its commitment to conservation and animal welfare.
 
 ## Visiting Information
 

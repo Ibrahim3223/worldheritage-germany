@@ -72,11 +72,11 @@ Bamberg is home to several attractions that complement a visit to the Gärtner- 
 
 To make the most of your visit to the Gärtner- und Häckermuseum, keep the following tips in mind:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibits may have restrictions. If allowed, capture the unique artifacts and displays without flash to preserve the atmosphere.
+- **Photography**: Check the museum's policy on photography, as some exhibits may have restrictions. If allowed, capture the unique artifacts and displays without flash to preserve the atmosphere.
 
 - **Crowd Avoidance**: Aim for early morning or late afternoon visits on weekdays to enjoy a quieter experience. Special events or school tours may draw larger crowds during certain times.
 
-- **Engage with Staff**: Museum staff are often knowledgeable about the exhibits and can provide insights that enhance your understanding of the displays. Don’t hesitate to ask questions.
+- **Engage with Staff**: Museum staff are often knowledgeable about the exhibits and can provide insights that enhance your understanding of the displays. Don't hesitate to ask questions.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Petruskirche, located in the district of Steglitz-Zehlendorf in Berlin, is a striking example of ecclesiastical architecture that reflects the spiritual and cultural heritage of the region. This church building, with its serene presence, serves as a focal point for the local community, drawing visitors interested in both its architectural form and its role in the history of the area. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a moment of peace in a bustling city, Petruskirche offers a unique experience.
 
-Situated in a vibrant neighborhood, Petruskirche is easily accessible and stands as a reminder of Berlin’s rich religious history. The church’s significance goes beyond its physical structure; it represents the communal effort of its congregation and the enduring nature of faith amid a changing urban landscape. This guide will explore the history, architecture, and visitor experience at Petruskirche, ensuring that your visit is both informative and enjoyable.
+Situated in a vibrant neighborhood, Petruskirche is easily accessible and stands as a reminder of Berlin's rich religious history. The church's significance goes beyond its physical structure; it represents the communal effort of its congregation and the enduring nature of faith amid a changing urban landscape. This guide will explore the history, architecture, and visitor experience at Petruskirche, ensuring that your visit is both informative and enjoyable.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Visiting Petruskirche offers a chance to engage with its serene environment and 
 
 When planning a visit, consider the time needed to fully appreciate the church. A visit typically lasts around 30 to 60 minutes, allowing ample time to explore the interior and reflect in the surrounding area. The best times to visit are generally during daylight hours when natural light enhances the beauty of the church's interior spaces.
 
-For a more immersive experience, consider visiting during community events or services, which can provide insight into the church's role within the local community. Attending a service allows visitors to witness the vibrant life of the congregation and engage with the church’s spiritual atmosphere.
+For a more immersive experience, consider visiting during community events or services, which can provide insight into the church's role within the local community. Attending a service allows visitors to witness the vibrant life of the congregation and engage with the church's spiritual atmosphere.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ For those planning a visit to Petruskirche, here are some insider tips to enhanc
   
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekday mornings or early afternoons. This allows for a more peaceful experience as you explore the church's features.
 
-- **Local Events**: Check the church’s schedule for events or services that may be taking place during your visit. Participating in these can provide a deeper understanding of the church's role within the community.
+- **Local Events**: Check the church's schedule for events or services that may be taking place during your visit. Participating in these can provide a deeper understanding of the church's role within the community.
 
 ## Practical Information
 

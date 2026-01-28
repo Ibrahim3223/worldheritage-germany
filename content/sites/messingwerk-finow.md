@@ -32,7 +32,7 @@ The significance of Messingwerk Finow extends beyond its operational history; it
 
 ## History and Significance
 
-Messingwerk Finow is more than just a factory; it is a symbol of the industrial evolution in Germany, particularly in the Finow region. The factory specializes in the secondary processing of metals, a critical component of manufacturing that reuses and repurposes materials to create new products. This practice has become increasingly important in contemporary discussions about sustainability and resource management, highlighting the factory's relevance in today’s world.
+Messingwerk Finow is more than just a factory; it is a symbol of the industrial evolution in Germany, particularly in the Finow region. The factory specializes in the secondary processing of metals, a critical component of manufacturing that reuses and repurposes materials to create new products. This practice has become increasingly important in contemporary discussions about sustainability and resource management, highlighting the factory's relevance in today's world.
 
 While specific dates regarding its establishment and operational history are not detailed, the site reflects the broader industrial movement that swept through Germany during the 19th and 20th centuries. During this period, factories like Messingwerk Finow were pivotal in transitioning from traditional craftsmanship to mass production techniques, significantly impacting local economies and employment.
 
@@ -106,7 +106,7 @@ Check the official website for information on accessibility options at Messingwe
 For current ticketing options, including online purchases, refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but it’s best to confirm with the official website for specific amenities.
+Facilities such as restrooms may be available, but it's best to confirm with the official website for specific amenities.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking. Consider layering to accommodate varying temperatures, especially if you plan to explore the outdoors.

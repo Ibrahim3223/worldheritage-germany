@@ -42,7 +42,7 @@ Today, Albrecht Dürer's House serves as a vital educational resource, offering 
 
 Albrecht Dürer's House is an architectural embodiment of the late Gothic style, featuring distinctive wooden gables and intricate beam constructions. The house's façade is characterized by its half-timbered appearance, which is typical of the time, and it stands out as an example of the domestic architecture that once populated Nuremberg's streets.
 
-Inside, visitors can explore various rooms that have been restored to reflect Dürer's life and work environment. The layout includes a workshop space where Dürer would have crafted his art, complete with tools and materials that provide insight into his creative process. The museum also houses a collection of Dürer’s works, including prints and paintings, which are displayed alongside informative panels that describe his techniques and influences.
+Inside, visitors can explore various rooms that have been restored to reflect Dürer's life and work environment. The layout includes a workshop space where Dürer would have crafted his art, complete with tools and materials that provide insight into his creative process. The museum also houses a collection of Dürer's works, including prints and paintings, which are displayed alongside informative panels that describe his techniques and influences.
 
 One of the notable features of the house is the garden, which has been designed to reflect the types of plants that would have been cultivated during Dürer's time. This tranquil space not only enhances the aesthetic appeal of the museum but also serves as a reminder of the connection between art and nature in Dürer's life and works.
 

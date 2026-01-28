@@ -80,7 +80,7 @@ For the best photography opportunities, consider visiting the Fürther Tor early
 
 To avoid crowds, plan your visit during weekdays, as weekends tend to attract more tourists. Early mornings are particularly quiet, allowing for a more personal experience as you explore the area.
 
-If you’re interested in learning more about the gate's history, consider joining a guided tour of the city that includes the Fürther Tor, as local guides can provide context and stories that enrich your visit.
+If you're interested in learning more about the gate's history, consider joining a guided tour of the city that includes the Fürther Tor, as local guides can provide context and stories that enrich your visit.
 
 ## Practical Information
 

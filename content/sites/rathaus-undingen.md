@@ -34,11 +34,11 @@ While specific dates and historical milestones of Rathaus Undingen are not docum
 
 City halls like Rathaus Undingen are often central to the identity of a town. They host various events, from town meetings to cultural gatherings, thus becoming the heart of civic life. The significance of such buildings is not solely administrative; they also symbolize the values of transparency, democracy, and community involvement, which are integral to the German culture.
 
-Rathaus Undingen represents the historical evolution of public architecture in Germany, adapting to the needs of its citizens while maintaining a connection to its roots. As a gathering place for the community, it fosters a sense of belonging among residents, making it an essential component of Sonnenbühl’s heritage.
+Rathaus Undingen represents the historical evolution of public architecture in Germany, adapting to the needs of its citizens while maintaining a connection to its roots. As a gathering place for the community, it fosters a sense of belonging among residents, making it an essential component of Sonnenbühl's heritage.
 
 ## Architecture and Features
 
-Rathaus Undingen is a prime example of municipal architecture that serves both function and aesthetic. Although specific architectural details are not provided, city halls typically feature distinctive elements such as a prominent entrance, large windows, and often a clock tower. The design may reflect local styles, possibly incorporating regional materials and craftsmanship that tell the story of the area’s cultural heritage.
+Rathaus Undingen is a prime example of municipal architecture that serves both function and aesthetic. Although specific architectural details are not provided, city halls typically feature distinctive elements such as a prominent entrance, large windows, and often a clock tower. The design may reflect local styles, possibly incorporating regional materials and craftsmanship that tell the story of the area's cultural heritage.
 
 The functionality of a city hall extends beyond administrative tasks. Many such buildings are designed to accommodate public gatherings, featuring large meeting rooms and accessible spaces. This versatility allows Rathaus Undingen to serve multiple purposes, enhancing its role within the community.
 
@@ -87,7 +87,7 @@ A visit to Rathaus Undingen typically takes about an hour, allowing you to appre
 Photography policies may vary. It's wise to check for any restrictions or guidelines when you arrive, especially if public meetings are in session.
 
 ### Are there guided tours?
-Information regarding guided tours is not provided. It’s advisable to check the official website for any available tours or informational sessions.
+Information regarding guided tours is not provided. It's advisable to check the official website for any available tours or informational sessions.
 
 ### What's the best time to visit?
 Weekdays are generally recommended for a visit, as the city hall may be busier with local governance activities, providing a more authentic experience.

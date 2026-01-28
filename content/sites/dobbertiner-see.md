@@ -54,7 +54,7 @@ Overall, the combination of Dobbertiner See's natural landscape and the human-ma
 
 ## Visiting Information
 
-Reaching Dobbertiner See is relatively straightforward, thanks to its location in the Ludwigslust-Parchim District. Visitors can access the lake by car, and there may be designated parking areas near the shore or walking trails. Public transport options may also be available, but it’s advisable to check local schedules for the most current information.
+Reaching Dobbertiner See is relatively straightforward, thanks to its location in the Ludwigslust-Parchim District. Visitors can access the lake by car, and there may be designated parking areas near the shore or walking trails. Public transport options may also be available, but it's advisable to check local schedules for the most current information.
 
 When planning your visit, it's important to consider the time needed to fully enjoy the area. A few hours can easily be spent exploring the lake, whether you're walking the trails, swimming, or simply taking in the serene environment. For those looking to engage in more activities, allocating an entire day may be beneficial, allowing ample time for relaxation and exploration.
 
@@ -124,4 +124,4 @@ Facilities may be limited, so it's best to prepare accordingly. Check the offici
 ### What should I wear?
 Dress appropriately for the season and activities you plan to engage in, with comfortable footwear recommended for walking trails.
 
-Visiting Dobbertiner See offers a chance to connect with nature and enjoy the serene beauty of a significant natural heritage site. Whether you’re looking for adventure or relaxation, this lake is sure to provide an enriching experience.
+Visiting Dobbertiner See offers a chance to connect with nature and enjoy the serene beauty of a significant natural heritage site. Whether you're looking for adventure or relaxation, this lake is sure to provide an enriching experience.

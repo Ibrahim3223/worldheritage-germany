@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Adelssitz Kirchberg is a historical castle located in the picturesque region of Kirchberg an der Iller, Germany. This impressive structure serves as a reminder of the area’s rich heritage and architectural significance. With its origins rooted in medieval history, the castle offers visitors a glimpse into the past while standing in a serene landscape characterized by quaint rural charm.
+Adelssitz Kirchberg is a historical castle located in the picturesque region of Kirchberg an der Iller, Germany. This impressive structure serves as a reminder of the area's rich heritage and architectural significance. With its origins rooted in medieval history, the castle offers visitors a glimpse into the past while standing in a serene landscape characterized by quaint rural charm.
 
 The castle is more than just a relic; it is a symbol of the power and influence of nobility in the region. As you explore its grounds and architecture, you will come to appreciate its significance in the historical narrative of southern Germany. The site invites exploration, providing a perfect opportunity for history enthusiasts and casual visitors alike to delve into the stories that shaped the landscape.
 
@@ -98,7 +98,7 @@ When preparing for your visit to Adelssitz Kirchberg, consider the following pra
 A visit of a few hours is generally sufficient to explore the castle and take in its surroundings.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s always best to check specific rules upon arrival.
+Photography is typically permitted, but it's always best to check specific rules upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on offerings during your visit.
@@ -107,13 +107,13 @@ Guided tours may be available; check the official website for details on offerin
 Visiting during the spring or fall can offer pleasant weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for current details.
+Accessibility information may vary, so it's advisable to check the official website for current details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current information.
 
 ### Are there restrooms and cafes?
-Specific amenities may not be detailed, so it’s best to prepare accordingly for your visit.
+Specific amenities may not be detailed, so it's best to prepare accordingly for your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, considering you may be walking on uneven surfaces.

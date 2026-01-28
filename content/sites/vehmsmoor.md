@@ -62,7 +62,7 @@ Check the official website for hours and pricing, as these can vary based on the
 
 While Vehmsmoor itself is a serene destination, several nearby attractions enhance the overall experience of visiting the region:
 
-1. **Walsrode Bird Park**: Known for its impressive collection of exotic birds, this park offers an opportunity to observe avian species in a beautifully landscaped environment. It’s a family-friendly destination with educational exhibits.
+1. **Walsrode Bird Park**: Known for its impressive collection of exotic birds, this park offers an opportunity to observe avian species in a beautifully landscaped environment. It's a family-friendly destination with educational exhibits.
 
 2. **Lüneburg Heath**: A short drive from Vehmsmoor, this expansive heathland is perfect for hiking and exploring unique landscapes dotted with heather and wildlife. It is well-known for its hiking trails and natural beauty.
 

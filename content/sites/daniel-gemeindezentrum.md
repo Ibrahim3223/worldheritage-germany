@@ -64,7 +64,7 @@ The area surrounding the Daniel-Gemeindezentrum is rich with attractions that ca
 
 3. **Berliner Dom**: A short ride away, this iconic cathedral is a must-see for its impressive architecture and panoramic views from its dome.
 
-4. **The Story of Berlin Museum**: Located nearby, this museum provides an engaging overview of Berlin’s history, from its origins to contemporary times.
+4. **The Story of Berlin Museum**: Located nearby, this museum provides an engaging overview of Berlin's history, from its origins to contemporary times.
 
 5. **Savignyplatz**: A charming square surrounded by cafes and boutiques, it offers a perfect spot to relax and soak in the local atmosphere.
 

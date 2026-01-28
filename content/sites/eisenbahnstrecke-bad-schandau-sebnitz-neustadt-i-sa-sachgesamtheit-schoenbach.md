@@ -66,7 +66,7 @@ While the Eisenbahnstrecke is a destination in itself, the surrounding area is r
 
 For photography enthusiasts, the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa. (Sachgesamtheit) Schönbach provides ample opportunities for capturing stunning images. Early morning or late afternoon light can create dramatic effects, enhancing the bridge's architectural features against the backdrop of the surrounding landscape.
 
-To avoid crowds, consider visiting on weekdays or during off-peak hours. Mornings tend to be quieter, allowing for a more peaceful experience. If you’re traveling during peak summer months, arriving early can help you secure the best spots for photography and exploration.
+To avoid crowds, consider visiting on weekdays or during off-peak hours. Mornings tend to be quieter, allowing for a more peaceful experience. If you're traveling during peak summer months, arriving early can help you secure the best spots for photography and exploration.
 
 ## Practical Information
 
@@ -95,7 +95,7 @@ Check the official website for information regarding accessibility options for v
 Ticketing information may vary; check the official website for details regarding online purchases.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for information on restrooms and nearby cafes.
+Facilities may vary; it's advisable to check the official website for information on restrooms and nearby cafes.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, along with seasonal attire based on the weather forecast.

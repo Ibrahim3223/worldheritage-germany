@@ -34,7 +34,7 @@ As you approach the museum, you will find it situated in a tranquil environment,
 
 Dorfmuseum Markersdorf showcases the cultural significance of the Markersdorf region, highlighting its development through various historical periods. While specific dates and events are not provided, the museum reflects the evolution of local customs and traditions, providing insight into the lives of the residents over the years.
 
-The museum plays a crucial role in preserving the area’s cultural identity. Through its exhibitions, visitors can gain a deeper understanding of the agricultural practices, craftsmanship, and social structures that have defined the community. The artifacts and displays within the museum reveal the importance of local traditions, offering a glimpse of everyday life that has persisted through generations.
+The museum plays a crucial role in preserving the area's cultural identity. Through its exhibitions, visitors can gain a deeper understanding of the agricultural practices, craftsmanship, and social structures that have defined the community. The artifacts and displays within the museum reveal the importance of local traditions, offering a glimpse of everyday life that has persisted through generations.
 
 In addition to its exhibitions, the museum serves as a center for community activities and educational programs. It engages with local schools and organizations to promote awareness of the region's heritage. This dedication to education reinforces the museum's role as a cultural cornerstone, fostering appreciation for the past among both residents and visitors.
 

@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays rather than weekends. This no
 
 When visiting Fahlhorst Church, it is advisable to bring along essentials such as comfortable walking shoes, a camera, and a water bottle. Depending on the season, consider checking the weather forecast to dress appropriately. 
 
-The church may have restrictions on certain items, so it’s best to check in advance regarding what is permissible within the building. Additionally, if visiting during colder months, be prepared for varying temperatures, as historical buildings may not have modern heating systems in place.
+The church may have restrictions on certain items, so it's best to check in advance regarding what is permissible within the building. Additionally, if visiting during colder months, be prepared for varying temperatures, as historical buildings may not have modern heating systems in place.
 
 ## Frequently Asked Questions
 

@@ -30,11 +30,11 @@ The Gemeindehaus Marienstraße 9 is a key component of Sonnefeld's identity. Whi
 
 The historical context of the town hall reflects the evolution of governance in Bavaria. City halls, like this one, have traditionally been the center of public life, where important decisions are made and community events are hosted. This building continues this legacy, serving as a venue for local meetings, celebrations, and other civic activities. 
 
-Moreover, the town hall’s designation as a cultural heritage monument underscores its significance in preserving the architectural and cultural landscape of Sonnefeld. It stands as a reminder of the town’s past while actively participating in its present, making it a vital institution for both locals and visitors. Exploring its history reveals not just the story of the building, but also the development of Sonnefeld itself as a community.
+Moreover, the town hall's designation as a cultural heritage monument underscores its significance in preserving the architectural and cultural landscape of Sonnefeld. It stands as a reminder of the town's past while actively participating in its present, making it a vital institution for both locals and visitors. Exploring its history reveals not just the story of the building, but also the development of Sonnefeld itself as a community.
 
 ## Architecture and Features
 
-The architectural style of Gemeindehaus Marienstraße 9 reflects the broader trends of civic design in Bavaria. While specific details about the building’s design elements are not provided, city halls typically feature a blend of functionality and aesthetic appeal, often showcasing characteristics such as grand facades, large windows, and intricate detailing that signify their importance.
+The architectural style of Gemeindehaus Marienstraße 9 reflects the broader trends of civic design in Bavaria. While specific details about the building's design elements are not provided, city halls typically feature a blend of functionality and aesthetic appeal, often showcasing characteristics such as grand facades, large windows, and intricate detailing that signify their importance.
 
 As a cultural heritage monument, the Gemeindehaus is likely to incorporate features that are emblematic of its era, potentially including decorative stonework, well-planned interior spaces, and symbolic elements that resonate with local heritage. City halls often serve a dual purpose as both administrative buildings and community hubs, so you may find spaces designed for public gatherings and civic engagement.
 
@@ -53,7 +53,7 @@ The optimal duration for a visit can vary, but allocating approximately an hour 
 Sonnefeld offers a range of attractions that can complement your visit to Gemeindehaus Marienstraße 9:
 
 1. **Local Parks**: Explore nearby green spaces that provide a peaceful setting for relaxation or leisurely strolls.
-2. **Historical Sites**: Discover other historical landmarks within Sonnefeld that showcase the area’s rich cultural heritage.
+2. **Historical Sites**: Discover other historical landmarks within Sonnefeld that showcase the area's rich cultural heritage.
 3. **Community Events**: Depending on the time of year, consider attending local festivals or markets that highlight the town's vibrant community spirit.
 4. **Cafés and Shops**: Visit local establishments to enjoy refreshments or shop for regional crafts and products.
 

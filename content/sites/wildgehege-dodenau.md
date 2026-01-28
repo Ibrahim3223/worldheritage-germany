@@ -38,7 +38,7 @@ Wildgehege Dodenau features a thoughtfully designed layout that prioritizes the 
 
 One of the notable aspects of the zoo is its commitment to creating spacious enclosures that allow animals to express their natural behaviors. Visitors can expect to see a range of species in environments designed to mimic their wild habitats, promoting their well-being. Walking paths weave through the park, providing an opportunity for guests to explore at their own pace while enjoying the scenery.
 
-In terms of architecture, the facilities are designed to blend seamlessly with the surrounding landscape. Structures are often constructed using natural materials, maintaining an aesthetic that resonates with the park’s ethos of conservation and respect for nature. The park's layout encourages exploration and interaction, with strategically placed viewing areas that enhance the experience of observing the animals.
+In terms of architecture, the facilities are designed to blend seamlessly with the surrounding landscape. Structures are often constructed using natural materials, maintaining an aesthetic that resonates with the park's ethos of conservation and respect for nature. The park's layout encourages exploration and interaction, with strategically placed viewing areas that enhance the experience of observing the animals.
 
 ## Visiting Information
 

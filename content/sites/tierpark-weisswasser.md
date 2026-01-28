@@ -48,7 +48,7 @@ While specific architectural details may not be highlighted, the overall design 
 
 When planning a visit to Tierpark Weißwasser, it's important to consider various factors to ensure an enjoyable experience. The zoo is accessible by various forms of transportation, making it convenient for both locals and tourists. For the latest information regarding hours of operation and ticket prices, it is advisable to check the official website before your visit.
 
-Typically, visitors can expect to spend a few hours exploring the zoo. The layout encourages leisurely strolls, allowing guests to take their time as they encounter different animal exhibits. It’s recommended to visit during weekdays or early mornings to avoid larger crowds, especially during peak tourist seasons.
+Typically, visitors can expect to spend a few hours exploring the zoo. The layout encourages leisurely strolls, allowing guests to take their time as they encounter different animal exhibits. It's recommended to visit during weekdays or early mornings to avoid larger crowds, especially during peak tourist seasons.
 
 Expect to see a variety of exhibits that cater to diverse interests, from animals native to the region to those that are more exotic. The zoo often hosts educational programs and special events, adding further value to the visit. Be sure to check the official website for any scheduled activities that might coincide with your visit.
 

@@ -107,7 +107,7 @@ Accessibility details are not provided. It is best to check the official website
 Information regarding online ticket purchases is not available. Please check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and cafes are not mentioned. It’s advisable to check the local area for amenities.
+Details regarding restrooms and cafes are not mentioned. It's advisable to check the local area for amenities.
 
 ### What should I wear?
 Dress comfortably and consider layering, as temperatures may vary throughout the day.

@@ -28,7 +28,7 @@ image_srcset:
 
 Augsburg Cathedral, a striking example of Gothic architecture, is not only a religious site but also a cornerstone of historical and cultural significance in Augsburg, Germany. Located at the coordinates 48.372743587, 10.896565711, this Catholic cathedral has served as a spiritual center for centuries, drawing visitors with its stunning features and rich heritage. As one of the most important ecclesiastical buildings in the region, the cathedral invites exploration and contemplation in equal measure. 
 
-The cathedral’s significance extends beyond its architectural beauty; it represents the city’s resilience and adaptability throughout history. Visitors who venture to this landmark will find a space that reflects both the sacred and the artistic, offering a glimpse into the life of Augsburg across the ages. Whether you are a history enthusiast, an architecture lover, or a traveler seeking a peaceful retreat, Augsburg Cathedral promises an enriching experience.
+The cathedral's significance extends beyond its architectural beauty; it represents the city's resilience and adaptability throughout history. Visitors who venture to this landmark will find a space that reflects both the sacred and the artistic, offering a glimpse into the life of Augsburg across the ages. Whether you are a history enthusiast, an architecture lover, or a traveler seeking a peaceful retreat, Augsburg Cathedral promises an enriching experience.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ The altar area is another focal point of the cathedral, showcasing a beautiful a
 
 ## Visiting Information
 
-Augsburg Cathedral is accessible to visitors year-round. To make the most of your visit, it’s advisable to check the official website for current information regarding opening hours and any potential admission fees. 
+Augsburg Cathedral is accessible to visitors year-round. To make the most of your visit, it's advisable to check the official website for current information regarding opening hours and any potential admission fees. 
 
 Upon arrival, guests can expect a welcoming atmosphere, with ample opportunities for quiet contemplation and exploration. It is typically recommended to allocate at least an hour for your visit, allowing time to admire the architectural details, explore the interior, and absorb the history.
 
@@ -62,7 +62,7 @@ While visiting Augsburg Cathedral, consider exploring the following nearby attra
 
 1. **Fugger Museum and Fuggerei**: The Fuggerei is the world's oldest social housing complex, established by the Fugger family in the 16th century. The museum offers insights into the lives of the wealthy merchants and their contributions to Augsburg.
 
-2. **Augsburg Town Hall**: This historic building is renowned for its magnificent Renaissance architecture and impressive Golden Hall, showcasing the city’s wealth and power during the Renaissance period.
+2. **Augsburg Town Hall**: This historic building is renowned for its magnificent Renaissance architecture and impressive Golden Hall, showcasing the city's wealth and power during the Renaissance period.
 
 3. **Perlach Tower**: Located near the cathedral, this medieval tower offers a panoramic view of the city and is a great spot for photography enthusiasts.
 
@@ -80,7 +80,7 @@ Additionally, if you plan to attend a service, be respectful of the worshippers 
 
 ## Practical Information
 
-When visiting Augsburg Cathedral, it is advisable to bring along a small bag for personal items and perhaps a water bottle, as exploring the site can take some time. Dress appropriately, keeping in mind that this is a place of worship. Modest attire is recommended, and comfortable shoes are a must for navigating the cathedral’s interior.
+When visiting Augsburg Cathedral, it is advisable to bring along a small bag for personal items and perhaps a water bottle, as exploring the site can take some time. Dress appropriately, keeping in mind that this is a place of worship. Modest attire is recommended, and comfortable shoes are a must for navigating the cathedral's interior.
 
 Seasonal considerations are important as well; spring and fall offer mild weather for walking around the area, while summer can be quite warm. Be prepared for varying weather conditions if you plan to explore the surrounding region.
 
@@ -93,7 +93,7 @@ A visit typically lasts around one hour, but you may want to spend more time if 
 Yes, photography is generally permitted inside the cathedral, but be mindful of any restrictions during services.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these can enhance your understanding of the cathedral’s history and significance.
+Check the official website for information on guided tours, as these can enhance your understanding of the cathedral's history and significance.
 
 ### What's the best time to visit?
 Weekdays, especially in the morning, tend to be less crowded and offer a more peaceful experience.

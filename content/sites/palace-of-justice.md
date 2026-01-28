@@ -72,7 +72,7 @@ When visiting the Palace of Justice, consider exploring these notable nearby att
 
 To make the most of your visit to the Palace of Justice, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, check the guidelines upon arrival to respect the site’s rules.
+- **Photography**: While photography may be allowed in certain areas, check the guidelines upon arrival to respect the site's rules.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim for a visit during weekdays or outside of holidays, when local tourism is typically lighter.
 

@@ -40,7 +40,7 @@ The cultural importance of Dorfstraße 97 is reflected in its ongoing function a
 
 Moreover, the city hall stands as a representation of the architectural style that characterizes the region. Such buildings often reflect the social and political aspirations of the time they were built, providing insight into the historical context of Waltersdorf and its community. The role of city halls in smaller towns like Waltersdorf is critical, as they often serve as the first point of contact for residents seeking information about local services and governance.
 
-In summary, while specific historical details may be scarce, the significance of Dorfstraße 97 extends beyond its physical presence. It is a vital part of the community’s identity, serving as a reminder of the importance of civic engagement and the evolution of local governance.
+In summary, while specific historical details may be scarce, the significance of Dorfstraße 97 extends beyond its physical presence. It is a vital part of the community's identity, serving as a reminder of the importance of civic engagement and the evolution of local governance.
 
 ## Architecture and Features
 
@@ -116,7 +116,7 @@ By being prepared and considerate during your visit, you can make the most of yo
 A visit to Dorfstraße 97 can typically take around 30 minutes to an hour, depending on your level of interest in local governance and community activities.
 
 ### Is photography allowed?
-Photography regulations may vary, so it’s advisable to check for any signs or ask staff if photography is permitted inside the building.
+Photography regulations may vary, so it's advisable to check for any signs or ask staff if photography is permitted inside the building.
 
 ### Are there guided tours?
 Information about guided tours may not be available, so it's best to inquire directly at the city hall or check the official website for any offerings.

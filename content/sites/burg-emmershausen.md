@@ -36,7 +36,7 @@ Burg Emmershausen's history is woven into the broader narrative of medieval Germ
 
 Culturally, the castle represents the architectural advancements of the period, showcasing the transition from simple fortifications to more complex structures that included living quarters and administrative spaces. The remnants of Burg Emmershausen provide valuable insights into the social and political dynamics of medieval society, reflecting the hierarchies and relationships that defined life during this era. 
 
-Archaeological findings at the site have likely revealed artifacts that contribute to our understanding of daily life in the castle, including tools, pottery, and remnants of the castle’s infrastructure. These discoveries not only enhance our knowledge of the architectural practices of the time but also illustrate the everyday realities of those who lived and worked within its walls.
+Archaeological findings at the site have likely revealed artifacts that contribute to our understanding of daily life in the castle, including tools, pottery, and remnants of the castle's infrastructure. These discoveries not only enhance our knowledge of the architectural practices of the time but also illustrate the everyday realities of those who lived and worked within its walls.
 
 In a broader context, the site is significant as part of Germany's rich historical landscape, where numerous castles can be found. Each site adds to the overall narrative of the region, contributing to a greater appreciation of Germany's medieval heritage. 
 

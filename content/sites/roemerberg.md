@@ -26,21 +26,21 @@ image_srcset:
 
 ## Overview
 
-Römerberg is more than just a square; it is the very heart of Frankfurt, Germany, pulsating with history and culture. Located in the city’s Old Town, this square is surrounded by remarkable architecture and serves as a vibrant gathering place for locals and visitors alike. Its significance stretches beyond mere aesthetics, as Römerberg has been the site of many historical events and communal activities, making it a focal point of Frankfurt's civic life.
+Römerberg is more than just a square; it is the very heart of Frankfurt, Germany, pulsating with history and culture. Located in the city's Old Town, this square is surrounded by remarkable architecture and serves as a vibrant gathering place for locals and visitors alike. Its significance stretches beyond mere aesthetics, as Römerberg has been the site of many historical events and communal activities, making it a focal point of Frankfurt's civic life.
 
-The square is easily accessible, offering a gateway to explore the rich tapestry of the city’s heritage. With its picturesque surroundings, Römerberg promises an engaging experience, whether you are interested in history, architecture, or simply enjoying the lively atmosphere that characterizes this iconic location.
+The square is easily accessible, offering a gateway to explore the rich tapestry of the city's heritage. With its picturesque surroundings, Römerberg promises an engaging experience, whether you are interested in history, architecture, or simply enjoying the lively atmosphere that characterizes this iconic location.
 
 ## History and Significance
 
-Römerberg has played a pivotal role in Frankfurt’s development throughout the centuries. As the main public square of the city, it has been the setting for numerous market activities and public gatherings, reflecting the social and cultural evolution of Frankfurt. It is here that significant events occurred, including festivals, fairs, and public proclamations, which have shaped the identity of the city.
+Römerberg has played a pivotal role in Frankfurt's development throughout the centuries. As the main public square of the city, it has been the setting for numerous market activities and public gatherings, reflecting the social and cultural evolution of Frankfurt. It is here that significant events occurred, including festivals, fairs, and public proclamations, which have shaped the identity of the city.
 
-The square’s prominence dates back to the Middle Ages when it served as a central marketplace. The name Römerberg, translating to "Roman Mountain," alludes to its historical importance as a gathering point for traders and citizens alike. The surrounding buildings illustrate the architectural styles prevalent over the centuries, and the square continues to be a site of communal celebration, especially during festive seasons.
+The square's prominence dates back to the Middle Ages when it served as a central marketplace. The name Römerberg, translating to "Roman Mountain," alludes to its historical importance as a gathering point for traders and citizens alike. The surrounding buildings illustrate the architectural styles prevalent over the centuries, and the square continues to be a site of communal celebration, especially during festive seasons.
 
-Culturally, Römerberg is not just a physical space; it is a symbol of Frankfurt’s resilience. It has witnessed the trials and triumphs of the city, making it an essential part of the narrative of Frankfurt. The square remains a vibrant hub, where the past and present converge.
+Culturally, Römerberg is not just a physical space; it is a symbol of Frankfurt's resilience. It has witnessed the trials and triumphs of the city, making it an essential part of the narrative of Frankfurt. The square remains a vibrant hub, where the past and present converge.
 
 ## Architecture and Features
 
-The architecture surrounding Römerberg is a stunning representation of various styles, showcasing the evolution of Frankfurt’s design ethos. Although much of the original medieval architecture was destroyed during World War II, significant efforts have been made to restore the area to its former glory.
+The architecture surrounding Römerberg is a stunning representation of various styles, showcasing the evolution of Frankfurt's design ethos. Although much of the original medieval architecture was destroyed during World War II, significant efforts have been made to restore the area to its former glory.
 
 One of the most notable features is the Römer, the city hall of Frankfurt, which has been in use since the 14th century. Its distinctive façade, characterized by stepped gables and ornamental details, captures the essence of medieval architecture. The Römer serves as a backdrop to the square, adding to the overall charm of the area.
 
@@ -54,7 +54,7 @@ Reaching Römerberg is convenient, as it is centrally located in Frankfurt. The 
 
 Upon visiting, you can expect a lively environment, especially during weekends and public events. The square can be enjoyed in a relatively short time, but to fully appreciate the surroundings and soak in the atmosphere, it is recommended to spend at least an hour or two here.
 
-While exploring, be sure to check the official website for current information on any events or activities taking place in the square. This will help you plan your visit accordingly and ensure you don’t miss out on any special occasions.
+While exploring, be sure to check the official website for current information on any events or activities taking place in the square. This will help you plan your visit accordingly and ensure you don't miss out on any special occasions.
 
 The best time to visit Römerberg is during the spring and summer months when the weather is pleasant, and outdoor activities are in full swing. However, the square also has its own charm during the winter, particularly when festive markets are in operation.
 

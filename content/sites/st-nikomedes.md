@@ -96,7 +96,7 @@ For specific accessibility information, check the official website or inquire up
 Ticket purchasing options may vary; check the official website for current information on whether online purchases are available.
 
 ### Are there restrooms and cafes?
-Nearby facilities may vary, so it’s advisable to check the surrounding area for available amenities.
+Nearby facilities may vary, so it's advisable to check the surrounding area for available amenities.
 
 ### What should I wear?
 Dress respectfully, keeping in mind that St. Nikomedes is a place of worship. Comfortable clothing and shoes are recommended for exploring the area. 

@@ -36,7 +36,7 @@ Königstuhl is more than just a mountain; it is a focal point for outdoor enthus
 
 Königstuhl has long been an important feature of the Heidelberg region, serving as a cultural and natural landmark. While specific dates of significance may be scarce, the mountain has played a vital role in the development of the surrounding area. Its prominence in local folklore and history reflects the deep connection that the people of Heidelberg have with their natural environment.
 
-The mountain’s name, which translates to "King's Seat," suggests an association with royalty and governance, perhaps hinting at its use as a lookout point or gathering location in earlier times. The cultural importance of Königstuhl is underscored by its designation as a site for recreation, education, and leisure, allowing visitors to engage with both the natural landscape and the historical narrative of Heidelberg.
+The mountain's name, which translates to "King's Seat," suggests an association with royalty and governance, perhaps hinting at its use as a lookout point or gathering location in earlier times. The cultural importance of Königstuhl is underscored by its designation as a site for recreation, education, and leisure, allowing visitors to engage with both the natural landscape and the historical narrative of Heidelberg.
 
 Additionally, Königstuhl is linked to various historical events and figures, though detailed accounts are limited. Its elevation provides an advantageous perspective over the city and the Neckar River, making it a significant point of interest for both locals and tourists. The mountain serves as a reminder of the interplay between nature and humanity, demonstrating how landscapes can shape cultural identity and community experiences.
 
@@ -82,7 +82,7 @@ When preparing for a visit to Königstuhl, it's advisable to wear comfortable fo
 
 In terms of seasonal considerations, spring and autumn generally provide the most pleasant weather for outdoor activities. Summer can be hot, while winter may present challenges with snow and ice on the trails.
 
-Be sure to bring along essentials such as water, snacks, and sun protection. While enjoying the mountain, it’s important to respect the natural environment by adhering to local guidelines and practices.
+Be sure to bring along essentials such as water, snacks, and sun protection. While enjoying the mountain, it's important to respect the natural environment by adhering to local guidelines and practices.
 
 ## Frequently Asked Questions
 

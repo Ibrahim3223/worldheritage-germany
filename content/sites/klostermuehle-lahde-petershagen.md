@@ -60,7 +60,7 @@ For those interested in the best times to visit, consider planning your trip dur
 
 2. **Mühle Langenfeld**: Located not too far from Klostermühle, this traditional mill provides further insight into milling practices and the history of the area.
 
-3. **St. John’s Church**: An architectural landmark in Petershagen, this church features beautiful stained glass windows and a peaceful churchyard that invites contemplation.
+3. **St. John's Church**: An architectural landmark in Petershagen, this church features beautiful stained glass windows and a peaceful churchyard that invites contemplation.
 
 4. **Weser River**: A short distance away, the Weser River offers scenic walking trails and opportunities for leisurely boat rides, ideal for those looking to experience the natural beauty of the region.
 

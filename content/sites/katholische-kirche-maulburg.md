@@ -115,7 +115,7 @@ The accessibility of the church may vary, so it's best to check the official web
 Check the official website for current information on ticket purchasing options, as well as any potential fees.
 
 ### Are there restrooms and cafes?
-Nearby amenities may vary; it’s advisable to check local guides or the official website for information on available facilities.
+Nearby amenities may vary; it's advisable to check local guides or the official website for information on available facilities.
 
 ### What should I wear?
 While there is no formal dress code, dressing respectfully is recommended, especially in a former place of worship. 

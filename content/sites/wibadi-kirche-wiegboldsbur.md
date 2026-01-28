@@ -28,7 +28,7 @@ image_srcset:
 
 The Wibadi-Kirche, situated in the charming region of Südbrookmerland, Germany, is a church building that captures the essence of local heritage and architectural tradition. This site is a significant landmark within the community, reflecting both the spiritual and cultural values of the area. Its historical context and architectural form invite visitors to explore not just the building itself but also the surrounding tapestry of life in this part of Lower Saxony.
 
-Located approximately 14 kilometers east of the bustling city of Emden, Wibadi-Kirche serves as a focal point for both worship and community gatherings. The church is an embodiment of the region’s ecclesiastical architecture and continues to play an essential role in the lives of local residents. Visitors can expect to encounter a peaceful atmosphere, resonant with the echoes of history and community spirit.
+Located approximately 14 kilometers east of the bustling city of Emden, Wibadi-Kirche serves as a focal point for both worship and community gatherings. The church is an embodiment of the region's ecclesiastical architecture and continues to play an essential role in the lives of local residents. Visitors can expect to encounter a peaceful atmosphere, resonant with the echoes of history and community spirit.
 
 Whether you are drawn by an interest in religious architecture, local history, or simply the serene ambiance of a church setting, the Wibadi-Kirche promises an enriching experience. The site encourages exploration and reflection, making it a worthwhile stop on your travels through Germany.
 

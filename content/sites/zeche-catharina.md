@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Zeche Catharina, located in the industrial heart of Essen, Germany, serves as a poignant reminder of the region's storied mining history. This mine, which is part of the UNESCO World Heritage Site, the "Coal Mines of the Ruhr Valley," highlights the significance of coal mining in shaping the economic and social landscape of the area. The heritage site is a symbol of the transformation that took place in the Ruhr region throughout the 19th and 20th centuries, witnessing the rise and fall of an industry that once fueled the nation’s economy.
+Zeche Catharina, located in the industrial heart of Essen, Germany, serves as a poignant reminder of the region's storied mining history. This mine, which is part of the UNESCO World Heritage Site, the "Coal Mines of the Ruhr Valley," highlights the significance of coal mining in shaping the economic and social landscape of the area. The heritage site is a symbol of the transformation that took place in the Ruhr region throughout the 19th and 20th centuries, witnessing the rise and fall of an industry that once fueled the nation's economy.
 
 Essen, with its rich industrial past, provides a unique backdrop for exploring Zeche Catharina. The mine's origins and operations are entwined with the development of the city itself, making it a key site for those interested in industrial heritage. Visitors to Zeche Catharina can expect to gain insight into the labor, technology, and community that characterized coal mining in Germany, as well as the enduring legacy it has left on the region.
 
@@ -48,7 +48,7 @@ In addition to the industrial buildings, the site is likely to showcase elements
 
 When planning a visit to Zeche Catharina, it is essential to consider transportation options and the overall visitor experience. The site is located in Essen, which is well-connected by public transportation, including trains and buses. Visitors can easily reach the mine from various points within the city, making it accessible for both locals and tourists.
 
-To ensure a fulfilling experience, check the official website for current information regarding opening hours and ticket prices. A visit to Zeche Catharina typically takes a few hours, allowing ample time to explore the site and absorb its historical significance. Guided tours, if available, can enhance your understanding and appreciation of the mine’s history and operations.
+To ensure a fulfilling experience, check the official website for current information regarding opening hours and ticket prices. A visit to Zeche Catharina typically takes a few hours, allowing ample time to explore the site and absorb its historical significance. Guided tours, if available, can enhance your understanding and appreciation of the mine's history and operations.
 
 The best times to visit are during the spring and autumn months when the weather is generally mild and conducive to exploration. These seasons also tend to attract fewer crowds, allowing for a more intimate experience with the site.
 

@@ -34,7 +34,7 @@ For anyone traveling through Eberswalde or exploring the broader Brandenburg are
 
 ## History and Significance
 
-The history of St. John's Church is intertwined with the broader narrative of Eberswalde, a city that has evolved significantly over the centuries. This church building serves as a spiritual cornerstone for the community, reflecting the religious traditions that have shaped the lives of its residents. While specific dates regarding its establishment are not detailed, the church’s presence in the region highlights the longstanding importance of faith and community in Eberswalde.
+The history of St. John's Church is intertwined with the broader narrative of Eberswalde, a city that has evolved significantly over the centuries. This church building serves as a spiritual cornerstone for the community, reflecting the religious traditions that have shaped the lives of its residents. While specific dates regarding its establishment are not detailed, the church's presence in the region highlights the longstanding importance of faith and community in Eberswalde.
 
 Churches often serve as focal points in their communities, and St. John's is no exception. Throughout its existence, it has likely hosted numerous religious services, community gatherings, and significant events that resonate with the local populace. The role of the church in Eberswalde extends beyond mere worship; it is a site where the community gathers to celebrate milestones, observe traditions, and find solace in times of need.
 
@@ -103,7 +103,7 @@ A visit to St. John's Church typically takes about 30 minutes to an hour, depend
 Photography policies can vary, so it is best to check upon arrival. Generally, capturing the church's architectural features is encouraged, but respect for the worship environment is important.
 
 ### Are there guided tours?
-Information regarding guided tours may not be available in the provided data. It’s advisable to check the official website for any tour options that might enhance your experience.
+Information regarding guided tours may not be available in the provided data. It's advisable to check the official website for any tour options that might enhance your experience.
 
 ### What's the best time to visit?
 Visiting during weekday mornings or early afternoons can provide a quieter experience. Additionally, aligning your visit with local events can offer unique insights into community practices.
@@ -115,7 +115,7 @@ Details about accessibility are not specified. It is recommended to check the of
 Specific ticket purchasing options are not mentioned. For current details, please check the official website.
 
 ### Are there restrooms and cafes?
-Information on facilities such as restrooms and cafes is not provided. It’s best to check local resources or the official website for this information.
+Information on facilities such as restrooms and cafes is not provided. It's best to check local resources or the official website for this information.
 
 ### What should I wear?
 Comfortable clothing and shoes are advisable, especially if you plan to explore the surrounding area. Consider dressing appropriately for the season to ensure a pleasant visit.

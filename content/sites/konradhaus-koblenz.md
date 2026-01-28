@@ -104,7 +104,7 @@ When preparing for your visit to Konradhaus Koblenz, consider the following prac
 A visit to Konradhaus Koblenz typically lasts several hours, especially if you attend a performance. Arriving early is advisable to fully appreciate the venue.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff regarding restrictions during performances. 
+Photography policies may vary, so it's best to check with staff regarding restrictions during performances. 
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not provided. Check the official website for potential offerings.

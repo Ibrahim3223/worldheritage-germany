@@ -32,13 +32,13 @@ Schloss Urach is a striking castle located in Bad Urach, Germany, offering visit
 
 The origins of Schloss Urach can be traced back to the medieval period, reflecting the feudal system that characterized much of Europe during that time. The castle served as a residence for the nobility and played a crucial role in the defense and governance of the region. Throughout its history, Schloss Urach has witnessed numerous events that influenced the local culture and society. It has stood as a symbol of power and prestige, showcasing the architectural evolution and the strategic importance of fortifications in medieval Germany.
 
-The castle’s historical significance is further underscored by its role in various political and social developments within the region. The site has hosted important gatherings and functions, contributing to the local community's identity. Its preservation allows modern visitors to connect with the past, learning about the lives of those who once inhabited the castle and the broader historical context of the time.
+The castle's historical significance is further underscored by its role in various political and social developments within the region. The site has hosted important gatherings and functions, contributing to the local community's identity. Its preservation allows modern visitors to connect with the past, learning about the lives of those who once inhabited the castle and the broader historical context of the time.
 
 Schloss Urach is not only a site of historical importance but also a cultural symbol within Bad Urach. It serves as a reminder of the region's medieval heritage and offers insights into the architectural styles that evolved over the centuries. Today, the castle stands as a point of interest for both locals and tourists, emphasizing the need to preserve such sites for future generations.
 
 ## Architecture and Features
 
-Schloss Urach is characterized by its robust medieval design, featuring thick stone walls and imposing towers that highlight its defensive purpose. The castle’s architecture reflects the typical styles of the era, combining functionality with aesthetic appeal. Visitors can admire the intricate details of the stonework, as well as the various elements that contribute to its overall grandeur.
+Schloss Urach is characterized by its robust medieval design, featuring thick stone walls and imposing towers that highlight its defensive purpose. The castle's architecture reflects the typical styles of the era, combining functionality with aesthetic appeal. Visitors can admire the intricate details of the stonework, as well as the various elements that contribute to its overall grandeur.
 
 One of the notable features of Schloss Urach is its impressive towers, which rise above the surrounding landscape, serving both practical and symbolic purposes. The towers not only offered vantage points for defense but also showcased the castle's status. The main entrance is marked by a grand archway that leads visitors into the castle's inner courtyard, where one can appreciate the layout and design of the structures within.
 

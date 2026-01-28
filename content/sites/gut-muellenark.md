@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Müllenark is an architectural ensemble located in the region of Inden, Germany, distinguished by its historical and cultural significance. This site offers visitors a glimpse into the architectural styles and societal norms of its time, making it an intriguing destination for those interested in history and heritage. The ensemble is not only a representation of the area’s architectural evolution but also a reflection of the cultural dynamics that shaped the community around it.
+Gut Müllenark is an architectural ensemble located in the region of Inden, Germany, distinguished by its historical and cultural significance. This site offers visitors a glimpse into the architectural styles and societal norms of its time, making it an intriguing destination for those interested in history and heritage. The ensemble is not only a representation of the area's architectural evolution but also a reflection of the cultural dynamics that shaped the community around it.
 
 Situated in the heart of Germany, Gut Müllenark serves as a focal point for visitors exploring the rich heritage of the region. Its well-preserved structures tell stories of the past, inviting exploration and appreciation. With its unique architectural features and historical context, visitors can expect an enlightening experience that underscores the importance of preserving such sites for future generations.
 
@@ -54,7 +54,7 @@ Traveling to Gut Müllenark is relatively straightforward, with access available
 
 Before your visit, check the official website for current hours and ticket prices, which may vary throughout the year. It is recommended to allocate a few hours for your visit to fully appreciate the architectural ensemble and its surroundings. The best times to explore Gut Müllenark are likely during the mild spring and autumn months when the weather is pleasant and conducive to outdoor exploration.
 
-Expect a tranquil atmosphere where you can take your time to appreciate the architectural details and the historical significance of the site. Guided tours may be available, offering deeper insights into the ensemble’s past and its role in the community.
+Expect a tranquil atmosphere where you can take your time to appreciate the architectural details and the historical significance of the site. Guided tours may be available, offering deeper insights into the ensemble's past and its role in the community.
 
 ## Nearby Attractions
 
@@ -95,7 +95,7 @@ Check the official website for information regarding guided tours and any associ
 Mild spring and autumn months are ideal for visiting, as the weather is generally pleasant.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s advisable to check the official website for specific information regarding wheelchair access.
+Accessibility details may vary, so it's advisable to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, including online availability.

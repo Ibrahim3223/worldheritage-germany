@@ -32,7 +32,7 @@ This museum, situated at the coordinates 52.41647222, 13.06441667, serves as a v
 
 ## History and Significance
 
-The KGB Prison in Potsdam is an essential site for grasping the geopolitical tensions that defined the Cold War era. This facility was used by the KGB, the Soviet Union's main security agency, for the detention and interrogation of suspected political prisoners. Although specific dates and detailed historical accounts may not be available, the prison represents a crucial aspect of the East German state’s enforcement of loyalty and obedience.
+The KGB Prison in Potsdam is an essential site for grasping the geopolitical tensions that defined the Cold War era. This facility was used by the KGB, the Soviet Union's main security agency, for the detention and interrogation of suspected political prisoners. Although specific dates and detailed historical accounts may not be available, the prison represents a crucial aspect of the East German state's enforcement of loyalty and obedience.
 
 Throughout its operation, the prison housed individuals accused of various offenses against the state, including dissenters, activists, and those suspected of espionage. The facility served as a stark instrument of fear, where psychological and physical coercion were employed to maintain control. The stories of those who endured imprisonment here reflect broader struggles for human rights and freedom, making the site a powerful symbol of the fight against oppression.
 

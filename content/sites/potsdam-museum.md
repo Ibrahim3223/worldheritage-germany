@@ -66,7 +66,7 @@ While visiting the Potsdam Museum, consider exploring these nearby attractions t
 
 3. **Cecilienhof Palace**: Known for hosting the Potsdam Conference in 1945, this palace offers insights into post-war history and has beautiful gardens worth exploring.
 
-4. **Orangerie Palace**: This palace features a stunning mix of Renaissance and baroque styles and is surrounded by exquisite gardens that highlight the area’s natural beauty.
+4. **Orangerie Palace**: This palace features a stunning mix of Renaissance and baroque styles and is surrounded by exquisite gardens that highlight the area's natural beauty.
 
 5. **Park Babelsberg**: A picturesque park that provides scenic walking paths along the banks of the Havel River, perfect for a leisurely stroll after visiting the museum.
 

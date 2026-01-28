@@ -86,7 +86,7 @@ When preparing for your visit to Palace Brühl-Marcolini, consider the following
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you may spend considerable time exploring the grounds. A camera or smartphone for photography can enhance your experience.
 
-- **Seasonal Considerations**: Depending on the time of year, dress in layers to accommodate varying weather conditions. If visiting during the warmer months, don’t forget sunscreen and a hat for sun protection.
+- **Seasonal Considerations**: Depending on the time of year, dress in layers to accommodate varying weather conditions. If visiting during the warmer months, don't forget sunscreen and a hat for sun protection.
 
 ## Frequently Asked Questions
 

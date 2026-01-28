@@ -34,7 +34,7 @@ Whether you are a history enthusiast, an architecture aficionado, or simply seek
 
 ## History and Significance
 
-The history of Saints Peter and Paul Church is deeply rooted in the cultural and religious evolution of Dittenheim. Although specific dates and events in its timeline are not documented, the church has played a vital role in the spiritual life of the community for many generations. It stands as a testament to the religious dedication of the area’s inhabitants and their commitment to preserving their heritage.
+The history of Saints Peter and Paul Church is deeply rooted in the cultural and religious evolution of Dittenheim. Although specific dates and events in its timeline are not documented, the church has played a vital role in the spiritual life of the community for many generations. It stands as a testament to the religious dedication of the area's inhabitants and their commitment to preserving their heritage.
 
 Churches like Saints Peter and Paul often served as central gathering places for communities, fostering a sense of unity and belonging among residents. They have historically been sites for important life events, including baptisms, weddings, and funerals, marking significant moments in the lives of the parishioners. The church's continued use reflects its enduring importance to the local population.
 
@@ -104,7 +104,7 @@ Accessibility information is not detailed, so it is recommended to contact the c
 Check the official website for current information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Details regarding facilities are not provided. It’s advisable to check local resources for nearby amenities.
+Details regarding facilities are not provided. It's advisable to check local resources for nearby amenities.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that it is a place of worship.

@@ -38,7 +38,7 @@ The church has served multiple generations, fostering community ties and providi
 
 The architecture of the Thomaskirche is reflective of the styles prevalent in the region, characterized by its functional design and aesthetic elements typical of church buildings in Germany. While specific architectural details may not be highlighted, church buildings often feature elements such as a prominent steeple, stained glass windows, and intricate woodwork, which contribute to their unique character.
 
-Visitors can expect to find a serene interior conducive to contemplation, often adorned with religious iconography and artwork that enhances the spiritual atmosphere. The church’s layout typically includes a nave, side aisles, and a chancel, designed to accommodate congregational worship and community gatherings. The overall design is likely to evoke a sense of harmony and peace, inviting visitors to reflect on their surroundings.
+Visitors can expect to find a serene interior conducive to contemplation, often adorned with religious iconography and artwork that enhances the spiritual atmosphere. The church's layout typically includes a nave, side aisles, and a chancel, designed to accommodate congregational worship and community gatherings. The overall design is likely to evoke a sense of harmony and peace, inviting visitors to reflect on their surroundings.
 
 ## Visiting Information
 
@@ -51,7 +51,7 @@ When visiting, guests can expect a tranquil environment, ideal for quiet reflect
 After visiting Thomaskirche, there are several other attractions in the vicinity that may pique your interest:
 
 1. **Wandsbek Quarters**: Explore the local district that offers a blend of shopping, dining, and cultural experiences. 
-2. **Hamburg's Old Elbe Tunnel**: A historic tunnel providing a unique perspective of the area’s engineering and history.
+2. **Hamburg's Old Elbe Tunnel**: A historic tunnel providing a unique perspective of the area's engineering and history.
 3. **The Hamburg Botanical Garden**: A beautiful place to wander and enjoy nature, featuring a diverse collection of plants.
 4. **St. John's Church**: Another significant church nearby, known for its stunning architecture and historical relevance.
 5. **Hamburg's City Park**: A large urban park that provides ample space for leisurely walks and picnics.
@@ -70,7 +70,7 @@ When planning your visit to Thomaskirche, it's advisable to bring along a camera
 A visit can take anywhere from 30 minutes to an hour, depending on your level of interest in exploring the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to check for any specific guidelines upon arrival.
+Photography is generally permitted, but it's wise to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.
@@ -79,7 +79,7 @@ Check the official website for information on guided tours, as availability may 
 Early mornings or late afternoons are often quieter, making them ideal times for a visit.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s recommended to check the official website for details.
+Accessibility features may be available, but it's recommended to check the official website for details.
 
 ### Can I buy tickets online?
 For entry fees, check the official website for the latest information regarding ticket purchases.

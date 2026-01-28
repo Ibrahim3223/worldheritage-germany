@@ -86,7 +86,7 @@ Seasonal considerations may influence your visit. Spring and autumn are ideal fo
 Typically, a visit to Köditz town hall may take around an hour, allowing time to explore the building and engage with any informational displays.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always good to check for any restrictions on specific days or events.
+Photography is generally permitted, but it's always good to check for any restrictions on specific days or events.
 
 ### Are there guided tours?
 While specific guided tours may not be offered, local officials may be available for informal discussions about the town hall and its functions.

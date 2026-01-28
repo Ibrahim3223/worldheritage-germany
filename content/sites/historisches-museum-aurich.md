@@ -48,7 +48,7 @@ Notable features of the museum include themed exhibitions that rotate regularly,
 
 ## Visiting Information
 
-When planning a visit to the Historisches Museum Aurich, it’s essential to consider your travel options. The museum is centrally located, making it accessible by various means of transportation. Visitors can reach the museum via public transport or local roads, depending on their starting point. For updated travel routes and options, check the official website for current information.
+When planning a visit to the Historisches Museum Aurich, it's essential to consider your travel options. The museum is centrally located, making it accessible by various means of transportation. Visitors can reach the museum via public transport or local roads, depending on their starting point. For updated travel routes and options, check the official website for current information.
 
 The museum's operating hours and ticket prices may fluctuate, so it is advisable to check the official website for the most accurate details before your visit. Visitors can expect an engaging experience that would typically require a couple of hours to fully appreciate the exhibits and installations. 
 
@@ -88,7 +88,7 @@ It can be helpful to carry a small bag for personal items and any materials you 
 A typical visit lasts around two to three hours, allowing ample time to explore the exhibits and engage with the material.
 
 ### Is photography allowed?
-Photography policies can vary by exhibit, so it’s best to check with museum staff for specific guidelines.
+Photography policies can vary by exhibit, so it's best to check with museum staff for specific guidelines.
 
 ### Are there guided tours?
 Guided tours may be available, so check the official website for current offerings and schedules.

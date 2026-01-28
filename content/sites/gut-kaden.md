@@ -54,7 +54,7 @@ Visiting Gut Kaden is a rewarding experience for anyone interested in heritage a
 
 Before planning your visit, be sure to check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most up-to-date details and can make the most of your visit. 
 
-On-site, you can expect a serene environment conducive to exploration and reflection. The estate’s grounds provide ample space for leisurely walks, allowing you to immerse yourself in both the architecture and the natural landscape. A visit typically requires a few hours, depending on your level of interest in exploring the manor and its surroundings. 
+On-site, you can expect a serene environment conducive to exploration and reflection. The estate's grounds provide ample space for leisurely walks, allowing you to immerse yourself in both the architecture and the natural landscape. A visit typically requires a few hours, depending on your level of interest in exploring the manor and its surroundings. 
 
 The best times to visit Gut Kaden are during the spring and early autumn months, when the weather is pleasant and the grounds are particularly inviting. This allows for an enjoyable exploration of both the interior and the exterior spaces of the estate.
 

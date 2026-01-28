@@ -117,10 +117,10 @@ Guided tours may be available at certain times. Check the official website for m
 Weekdays and non-peak seasons are often the best times to visit for fewer crowds. Additionally, consider seasonal changes that may affect the overall experience.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s best to check the official website for information on wheelchair access and available facilities to ensure a comfortable visit.
+Accessibility details may vary, so it's best to check the official website for information on wheelchair access and available facilities to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-Visit the official website for information about ticket purchases. Online options may be available for convenience, but it’s always good to confirm.
+Visit the official website for information about ticket purchases. Online options may be available for convenience, but it's always good to confirm.
 
 ### Are there restrooms and cafes?
 Check the official website for information on amenities such as restrooms and cafes. This will help you plan your visit accordingly.

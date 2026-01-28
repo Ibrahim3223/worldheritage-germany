@@ -66,7 +66,7 @@ While St. Michaelis is a focal point, Hof offers several nearby attractions wort
    
 3. **Stadtpark Hof**: A lovely park perfect for a leisurely stroll, offering green spaces and opportunities for relaxation.
    
-4. **Hof’s Historic Town Center**: Features charming streets lined with shops and cafes, ideal for experiencing local Bavarian culture.
+4. **Hof's Historic Town Center**: Features charming streets lined with shops and cafes, ideal for experiencing local Bavarian culture.
    
 5. **Waldstein Castle**: Situated a short distance away, this castle offers a glimpse into the area's noble history and stunning architecture.
 
@@ -74,7 +74,7 @@ While St. Michaelis is a focal point, Hof offers several nearby attractions wort
 
 For photographers, early morning or late afternoon provides the best natural light for capturing the church's features. The surrounding area also offers opportunities for interesting compositions, so be sure to explore different angles. 
 
-To avoid crowds, consider visiting during weekdays, especially in the early hours. This not only allows for a more personal experience but also makes it easier to engage with the church’s surroundings without the hustle and bustle of larger groups.
+To avoid crowds, consider visiting during weekdays, especially in the early hours. This not only allows for a more personal experience but also makes it easier to engage with the church's surroundings without the hustle and bustle of larger groups.
 
 ## Practical Information
 

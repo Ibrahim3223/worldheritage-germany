@@ -83,7 +83,7 @@ A visit typically requires between two to three hours to fully explore the exhib
 Photography is generally permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-While guided tours may be available, it’s best to check the official website for details on scheduling and availability.
+While guided tours may be available, it's best to check the official website for details on scheduling and availability.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, tend to be less crowded, making it an ideal time to enjoy the museum at a leisurely pace.
@@ -92,7 +92,7 @@ Weekdays, particularly in the morning, tend to be less crowded, making it an ide
 Check the official website for current accessibility information to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s recommended to visit the official website for the most accurate information.
+Ticket purchasing options may vary, so it's recommended to visit the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
 Facilities available at the museum may include restrooms; however, it is advisable to confirm the presence of cafes or dining options on-site through the official website.

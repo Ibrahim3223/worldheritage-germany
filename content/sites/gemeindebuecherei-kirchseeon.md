@@ -84,7 +84,7 @@ When planning your visit to the Gemeindebücherei Kirchseeon, keep the following
 The duration of your visit can vary, but most people spend between one to three hours browsing and engaging with library resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check with library staff for guidance on where and when photography is permitted.
+Photography policies may vary, so it's advisable to check with library staff for guidance on where and when photography is permitted.
 
 ### Are there guided tours?
 The Gemeindebücherei Kirchseeon may offer guided tours or programs. Check the official website for any upcoming events or scheduled tours.

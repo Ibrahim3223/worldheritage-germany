@@ -72,7 +72,7 @@ While in Wolnzach, consider exploring these nearby attractions that complement y
 
 To make the most of your visit to the Deutsches Hopfenmuseum, consider these insider tips:
 
-- **Photography**: While photography may be allowed in some areas, it’s best to check for any restrictions on the use of cameras or flash in certain exhibits.
+- **Photography**: While photography may be allowed in some areas, it's best to check for any restrictions on the use of cameras or flash in certain exhibits.
   
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or earlier in the day to avoid larger crowds, especially during weekends or public holidays.
 

@@ -50,7 +50,7 @@ Overall, the Georg-August-Universität: Anthropologische Sammlung is both a func
 
 Visiting the Georg-August-Universität: Anthropologische Sammlung is an enriching experience for anyone interested in anthropology or cultural studies. The museum is conveniently located in Göttingen and is accessible via various modes of transport, including public transportation options commonly found in urban areas.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding hours of operation and ticket prices. The museum typically accommodates a range of visitors, including families, students, and researchers, making it an inclusive space for all.
+Before planning your visit, it's advisable to check the official website for current information regarding hours of operation and ticket prices. The museum typically accommodates a range of visitors, including families, students, and researchers, making it an inclusive space for all.
 
 Expect to spend a couple of hours exploring the collection, as there is a wealth of information and artifacts to absorb. Visitors may find it beneficial to engage with the museum's resources, including pamphlets or guided tours, to enhance their understanding of the exhibits.
 
@@ -111,7 +111,7 @@ The museum aims to be wheelchair accessible; confirm specific details on their o
 Check the official website for information on ticket availability and purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities typically include restrooms; for café options, consult the museum’s website for nearby recommendations.
+Facilities typically include restrooms; for café options, consult the museum's website for nearby recommendations.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather, especially if planning to explore outdoor areas nearby. 

@@ -1,6 +1,6 @@
 ---
-title: "AEG’s Turbine factory"
-site_name: "AEG’s Turbine factory"
+title: "AEG's Turbine factory"
+site_name: "AEG's Turbine factory"
 date: 2026-01-26
 draft: false
 description: "The AEG Turbine Factory, an iconic structure in Berlin's Bezirk Mitte, is a significant landmark that reflects the industrial heritage of the city."
@@ -88,7 +88,7 @@ Bringing a water bottle and light snacks can enhance your experience, especially
 A visit to the AEG Turbine Factory typically takes between two to four hours, depending on your level of interest in the exhibits and architecture.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check in advance or inquire upon arrival to ensure you are following the rules.
+Photography policies can vary; it's best to check in advance or inquire upon arrival to ensure you are following the rules.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the factory's history and architecture. Check the official website for more information.
@@ -97,13 +97,13 @@ Guided tours may be available, offering deeper insights into the factory's histo
 Weekdays, particularly in the morning, tend to be less crowded, providing a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary; it’s recommended to check the official website for specific information regarding wheelchair access.
+Accessibility features may vary; it's recommended to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current availability and prices.
 
 ### Are there restrooms and cafes?
-Facilities may be provided on site; it’s best to confirm availability through the official website before your visit.
+Facilities may be provided on site; it's best to confirm availability through the official website before your visit.
 
 ### What should I wear?
 Comfortable footwear is recommended due to potential walking and exploring. Dress according to the season, as weather conditions in Berlin can change rapidly.

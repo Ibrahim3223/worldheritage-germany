@@ -28,7 +28,7 @@ image_srcset:
 
 St. Theodor in Vingst, Köln, is a notable church building that reflects the deep cultural and spiritual roots of the region. Situated in a vibrant suburban area of Cologne, this church serves not only as a place of worship but also as a landmark that connects the local community with its historical narratives. Visitors to St. Theodor will find themselves immersed in a space that invites reflection and contemplation, surrounded by the bustling life of Vingst, a locality in the heart of one of Germany's most significant cities.
 
-The significance of St. Theodor extends beyond its architectural presence; it embodies the spiritual heritage of the area. As you step into this sacred space, you’ll discover a sense of peace and community that has been cultivated over generations. The church is not just a destination but a gathering place that has witnessed the ebb and flow of life in Vingst. Whether for a quick visit or a prolonged stay, St. Theodor offers a unique glimpse into the religious practices and communal life that characterize Köln.
+The significance of St. Theodor extends beyond its architectural presence; it embodies the spiritual heritage of the area. As you step into this sacred space, you'll discover a sense of peace and community that has been cultivated over generations. The church is not just a destination but a gathering place that has witnessed the ebb and flow of life in Vingst. Whether for a quick visit or a prolonged stay, St. Theodor offers a unique glimpse into the religious practices and communal life that characterize Köln.
 
 ## History and Significance
 
@@ -68,11 +68,11 @@ While St. Theodor is a site of interest on its own, the surrounding area of Ving
 
 To fully enjoy your visit to St. Theodor, consider arriving early in the day. This timing can help you avoid the crowds and provide a quieter atmosphere to reflect and explore. 
 
-Photography is often allowed inside churches, but it’s advisable to be respectful of the space and other visitors. If you wish to capture the beauty of the interior, be mindful of your surroundings and the worshippers.
+Photography is often allowed inside churches, but it's advisable to be respectful of the space and other visitors. If you wish to capture the beauty of the interior, be mindful of your surroundings and the worshippers.
 
 ## Practical Information
 
-When visiting St. Theodor, it’s wise to dress modestly, as is customary in places of worship. Comfortable shoes are recommended, as you may want to take your time exploring both the church and the surrounding area.
+When visiting St. Theodor, it's wise to dress modestly, as is customary in places of worship. Comfortable shoes are recommended, as you may want to take your time exploring both the church and the surrounding area.
 
 Seasonal considerations can impact your visit. For instance, during colder months, be prepared for potentially chilly weather if you plan to explore the area outside the church. Always check the local forecast ahead of your visit.
 

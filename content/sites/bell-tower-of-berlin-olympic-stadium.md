@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Bell Tower of the Berlin Olympic Stadium, an iconic structure in one of the city's most significant historical sites, captures the spirit of athleticism and architectural ingenuity that characterized the 1936 Summer Olympics. Located in the heart of Berlin, this tower serves not only as a landmark but also as a symbol of the city’s complex history. The tower rises prominently above the surrounding landscape, offering a glimpse into Berlin's past and its evolution over the decades. With its striking presence, the Bell Tower invites visitors to explore the stories embedded within its walls and the events that have shaped its legacy.
+The Bell Tower of the Berlin Olympic Stadium, an iconic structure in one of the city's most significant historical sites, captures the spirit of athleticism and architectural ingenuity that characterized the 1936 Summer Olympics. Located in the heart of Berlin, this tower serves not only as a landmark but also as a symbol of the city's complex history. The tower rises prominently above the surrounding landscape, offering a glimpse into Berlin's past and its evolution over the decades. With its striking presence, the Bell Tower invites visitors to explore the stories embedded within its walls and the events that have shaped its legacy.
 
 Constructed to celebrate the Olympic Games, the Bell Tower is part of a larger architectural ensemble that includes the stadium itself and other facilities designed for the 1936 Olympics. The site is a testament to the ambition of that era, showcasing innovative design and the cultural aspirations of Germany during the interwar period. Today, it stands as a significant point of interest for history enthusiasts, architectural admirers, and sports fans alike, making it a vital stop on any exploration of Berlin's heritage.
 
 ## History and Significance
 
-The Bell Tower has its roots in the grand vision for the 1936 Summer Olympics held in Berlin, a pivotal event in sports history that was also intertwined with the political climate of the time. Designed by architect Werner March, the tower was part of a broader effort to create a monumental sporting complex that would showcase Germany’s prowess in architecture and athletics. The Olympics were used by the Nazi regime as a platform to promote its ideology, making the significance of the event—and, by extension, the tower—complex and layered.
+The Bell Tower has its roots in the grand vision for the 1936 Summer Olympics held in Berlin, a pivotal event in sports history that was also intertwined with the political climate of the time. Designed by architect Werner March, the tower was part of a broader effort to create a monumental sporting complex that would showcase Germany's prowess in architecture and athletics. The Olympics were used by the Nazi regime as a platform to promote its ideology, making the significance of the event—and, by extension, the tower—complex and layered.
 
 Over the years, the Bell Tower has witnessed numerous historical events, not just limited to the Olympics. It has served as a backdrop for post-war gatherings, cultural events, and even memorials, reflecting the changing attitudes and political landscapes of Berlin. The tower's design and functionality have allowed it to remain relevant through various transformations in the city's history, illustrating the resilience of both the structure and the community around it.
 
@@ -42,9 +42,9 @@ While the tower was initially conceived in a specific historical context, it has
 
 The Bell Tower of the Berlin Olympic Stadium is an impressive architectural feat, characterized by its functional yet striking design. Standing tall at an impressive height, the tower features a robust structure that integrates both utility and aesthetic appeal. The exterior is marked by clean lines and a minimalist approach, typical of the architectural trends of the time, which favored functionality alongside visual simplicity.
 
-One of the most notable features of the Bell Tower is its clock, which serves not only as a timekeeping device but also as a focal point for visitors. The clock’s face can be seen from a distance, drawing the eye towards the tower and the stadium grounds. The tower's design incorporates elements that allow it to blend seamlessly with the surrounding architecture of the Olympic complex, enhancing the overall visual coherence of the site.
+One of the most notable features of the Bell Tower is its clock, which serves not only as a timekeeping device but also as a focal point for visitors. The clock's face can be seen from a distance, drawing the eye towards the tower and the stadium grounds. The tower's design incorporates elements that allow it to blend seamlessly with the surrounding architecture of the Olympic complex, enhancing the overall visual coherence of the site.
 
-Visitors are often struck by the tower’s verticality, which emphasizes its grandeur against the backdrop of the stadium and the surrounding parklands. The use of durable materials has ensured that the structure has withstood the test of time, remaining a prominent feature of the Berlin skyline. 
+Visitors are often struck by the tower's verticality, which emphasizes its grandeur against the backdrop of the stadium and the surrounding parklands. The use of durable materials has ensured that the structure has withstood the test of time, remaining a prominent feature of the Berlin skyline. 
 
 As you explore the Bell Tower, take a moment to appreciate the craftsmanship involved in its construction and the thought behind its design. Each element of the tower reflects the ambitions and ideologies of its era, making it a fascinating subject of study for architecture enthusiasts and casual visitors alike.
 
@@ -64,7 +64,7 @@ While visiting the Bell Tower, consider exploring these nearby attractions to en
    
 2. **Olympic Park**: Surrounding the stadium, this expansive park features beautiful landscapes and walking paths, perfect for a leisurely stroll or a picnic.
 
-3. **Haus der Kulturen der Welt**: Located a short distance away, this cultural institution hosts a variety of exhibitions, performances, and events, enriching Berlin’s cultural scene.
+3. **Haus der Kulturen der Welt**: Located a short distance away, this cultural institution hosts a variety of exhibitions, performances, and events, enriching Berlin's cultural scene.
 
 4. **Grunewald Forest**: Just a short journey from the Olympic complex, this forest offers a natural retreat from the urban environment, perfect for hiking or enjoying nature.
 

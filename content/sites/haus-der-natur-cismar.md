@@ -42,7 +42,7 @@ Moreover, Haus der Natur Cismar plays a vital role in promoting research and col
 
 Haus der Natur Cismar features a design that seamlessly integrates functionality with an inviting atmosphere. While specific architectural details are not available, the museum's layout is designed to accommodate a variety of exhibits, ensuring visitors can navigate the space comfortably. The interior spaces are thoughtfully arranged to facilitate an engaging visitor experience, promoting interaction with the exhibits and the surrounding environment.
 
-Inside, the museum presents a range of displays that cover various aspects of natural history. From interactive exhibits to informative panels, visitors can explore topics related to ecology, geology, and the diverse flora and fauna found in the region. The museum’s design likely incorporates elements that emphasize natural light, creating a warm ambiance that enhances the overall experience.
+Inside, the museum presents a range of displays that cover various aspects of natural history. From interactive exhibits to informative panels, visitors can explore topics related to ecology, geology, and the diverse flora and fauna found in the region. The museum's design likely incorporates elements that emphasize natural light, creating a warm ambiance that enhances the overall experience.
 
 Furthermore, the museum may feature areas designated for educational programs, workshops, and community events. These spaces play a critical role in promoting active learning and engagement with environmental topics, reinforcing the museum's mission to educate and inspire visitors about nature and conservation.
 

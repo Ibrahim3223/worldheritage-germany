@@ -28,17 +28,17 @@ image_srcset:
 
 The Berlin Senate Library, a prominent institution located in the heart of Germany's capital, serves as a vital resource for scholars, researchers, and the general public alike. This library is more than just a repository of books; it embodies the intellectual spirit of Berlin and is a key player in the city's cultural and educational landscape. As a hub for knowledge and learning, it reflects the dynamic history of the region and continues to play an essential role in promoting literacy, research, and community engagement.
 
-Situated at coordinates 52.5142, 13.3333, the library is strategically located, making it accessible to both locals and visitors. The significance of the Berlin Senate Library extends beyond its vast collection; it acts as a bridge connecting the past with the present, fostering a dialogue among various academic and artistic disciplines. Whether you’re a scholar seeking specific texts, a student in need of a study space, or a curious traveler wanting to explore Berlin's literary heritage, the library promises a wealth of resources and a welcoming atmosphere.
+Situated at coordinates 52.5142, 13.3333, the library is strategically located, making it accessible to both locals and visitors. The significance of the Berlin Senate Library extends beyond its vast collection; it acts as a bridge connecting the past with the present, fostering a dialogue among various academic and artistic disciplines. Whether you're a scholar seeking specific texts, a student in need of a study space, or a curious traveler wanting to explore Berlin's literary heritage, the library promises a wealth of resources and a welcoming atmosphere.
 
 ## History and Significance
 
-The Berlin Senate Library has established itself as a cornerstone of the city’s cultural fabric. While specific historical dates are not available, the library's significance can be traced through its commitment to fostering education and providing access to knowledge. The library serves not only as a place for borrowing books but also as a venue for various community events, lectures, and exhibitions that enrich the local culture.
+The Berlin Senate Library has established itself as a cornerstone of the city's cultural fabric. While specific historical dates are not available, the library's significance can be traced through its commitment to fostering education and providing access to knowledge. The library serves not only as a place for borrowing books but also as a venue for various community events, lectures, and exhibitions that enrich the local culture.
 
 As an institution, it has adapted over the years to meet the changing needs of its users. The library's mission aligns with the broader goals of the Berlin Senate, emphasizing the importance of education and cultural development within the city. Its role in supporting research and scholarship has made it an essential partner for universities and academic institutions throughout Berlin and beyond.
 
-The library is also noteworthy for its collections, which reflect a wide range of subjects and disciplines. It serves as a vital resource for academic research, providing access to both contemporary works and historical texts. This commitment to accessibility ensures that individuals from all walks of life can engage with the library’s resources, fostering a culture of learning that transcends traditional boundaries.
+The library is also noteworthy for its collections, which reflect a wide range of subjects and disciplines. It serves as a vital resource for academic research, providing access to both contemporary works and historical texts. This commitment to accessibility ensures that individuals from all walks of life can engage with the library's resources, fostering a culture of learning that transcends traditional boundaries.
 
-In essence, the Berlin Senate Library is not just a building filled with books; it is a living institution that contributes to the intellectual and cultural vitality of Berlin. By promoting literacy and providing a space for communal learning and dialogue, the library stands as a significant symbol of the city’s dedication to education and the arts.
+In essence, the Berlin Senate Library is not just a building filled with books; it is a living institution that contributes to the intellectual and cultural vitality of Berlin. By promoting literacy and providing a space for communal learning and dialogue, the library stands as a significant symbol of the city's dedication to education and the arts.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ Inside, visitors can expect a blend of modern and traditional elements, reflecti
 
 The library is also likely equipped with technology that supports research and learning, including computer stations and internet access. This integration of technology ensures that patrons can utilize both physical and digital resources, catering to diverse research needs.
 
-While the library’s exterior and specific architectural details are not outlined, its presence in the urban landscape of Berlin speaks to the city’s commitment to education and culture. The library’s design emphasizes functionality while fostering an inviting atmosphere for visitors of all ages.
+While the library's exterior and specific architectural details are not outlined, its presence in the urban landscape of Berlin speaks to the city's commitment to education and culture. The library's design emphasizes functionality while fostering an inviting atmosphere for visitors of all ages.
 
 ## Visiting Information
 
@@ -68,7 +68,7 @@ While the Berlin Senate Library itself is a significant destination, its locatio
 
 2. **Museum Island (Museumsinsel)**: A UNESCO World Heritage site, this cluster of museums showcases art and artifacts from various cultures and time periods, providing a rich cultural experience.
 
-3. **Berlin Cathedral (Berliner Dom)**: An architectural masterpiece, the cathedral is renowned for its stunning dome and elaborate interiors, making it a popular spot for visitors exploring Berlin’s history.
+3. **Berlin Cathedral (Berliner Dom)**: An architectural masterpiece, the cathedral is renowned for its stunning dome and elaborate interiors, making it a popular spot for visitors exploring Berlin's history.
 
 4. **Brandenburg Gate (Brandenburger Tor)**: An iconic symbol of Berlin, this neoclassical monument is a short journey away and represents the city's tumultuous past and hopeful future.
 

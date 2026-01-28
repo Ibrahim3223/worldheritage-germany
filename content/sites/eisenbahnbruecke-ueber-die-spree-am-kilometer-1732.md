@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Eisenbahnbrücke über die Spree, located in the picturesque region of Schirgiswalde-Kirschau, Germany, is more than just a bridge; it represents a vital connection in the area’s transport network. This structure spans the Spree River at kilometer 1.732, contributing to the historical and contemporary landscape of the region. As a bridge, it plays a crucial role in facilitating movement, symbolizing the intersection of nature and human ingenuity. Visitors to this site are not only treated to a view of the bridge itself but also the surrounding scenic beauty that characterizes the area.
+The Eisenbahnbrücke über die Spree, located in the picturesque region of Schirgiswalde-Kirschau, Germany, is more than just a bridge; it represents a vital connection in the area's transport network. This structure spans the Spree River at kilometer 1.732, contributing to the historical and contemporary landscape of the region. As a bridge, it plays a crucial role in facilitating movement, symbolizing the intersection of nature and human ingenuity. Visitors to this site are not only treated to a view of the bridge itself but also the surrounding scenic beauty that characterizes the area.
 
-Situated at coordinates 51.107853, 14.452044, the Eisenbahnbrücke is easily accessible, making it an inviting spot for travelers who seek to explore the cultural and historical heritage of Germany. The bridge's significance lies not only in its practical utility but also in its embodiment of the engineering feats that have shaped modern transportation. A visit promises insights into the region’s architectural heritage and the evolution of infrastructure in Germany.
+Situated at coordinates 51.107853, 14.452044, the Eisenbahnbrücke is easily accessible, making it an inviting spot for travelers who seek to explore the cultural and historical heritage of Germany. The bridge's significance lies not only in its practical utility but also in its embodiment of the engineering feats that have shaped modern transportation. A visit promises insights into the region's architectural heritage and the evolution of infrastructure in Germany.
 
 ## History and Significance
 
@@ -53,7 +53,7 @@ The best times to visit are during daylight hours, allowing for optimal lighting
 While the Eisenbahnbrücke itself is a focal point, the surrounding region of Schirgiswalde-Kirschau offers several attractions that enhance the visitor experience:
 
 1. **Schirgiswalde Town Center**: A charming area featuring local shops and eateries, perfect for a quick bite or souvenir shopping.
-2. **Kirschau Church**: A historic church that showcases local architectural styles and provides insight into the community’s heritage.
+2. **Kirschau Church**: A historic church that showcases local architectural styles and provides insight into the community's heritage.
 3. **Spreewald Biosphere Reserve**: A short drive away, this UNESCO Biosphere Reserve features unique waterways and diverse flora and fauna, ideal for nature enthusiasts.
 4. **Local Hiking Trails**: The region offers a variety of trails that allow visitors to explore the natural beauty of the area, with routes suitable for different fitness levels.
 5. **Nearby Historical Sites**: Various historical landmarks in the vicinity offer further opportunities to learn about the region's past and architectural heritage.
@@ -68,7 +68,7 @@ For those planning a visit to the Eisenbahnbrücke, consider the following tips 
 
 ## Practical Information
 
-When visiting the Eisenbahnbrücke über die Spree, it’s essential to plan accordingly:
+When visiting the Eisenbahnbrücke über die Spree, it's essential to plan accordingly:
 
 - **What to Bring**: Comfortable walking shoes, water, and a camera are recommended. Consider bringing a light jacket, as temperatures can vary throughout the day.
 - **Seasonal Considerations**: Each season offers a different experience; spring and summer are ideal for outdoor activities, while fall provides beautiful foliage.

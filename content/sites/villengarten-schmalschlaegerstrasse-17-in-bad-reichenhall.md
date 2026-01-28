@@ -97,7 +97,7 @@ Currently, guided tours may not be available. Check the official website for the
 Spring and summer are excellent for vibrant blooms, while autumn offers beautiful foliage.
 
 ### Is it wheelchair accessible?
-Information about accessibility may vary. It’s advisable to check the official website for details.
+Information about accessibility may vary. It's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options, if applicable.

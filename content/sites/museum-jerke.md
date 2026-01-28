@@ -62,13 +62,13 @@ While visiting Museum Jerke, there are several nearby attractions that can enhan
 
 3. **Kunsthaus NRW**: This contemporary art space is dedicated to modern art, featuring rotating exhibitions that complement the traditional focus of Museum Jerke.
 
-4. **Recklinghausen’s Historic Market Square**: A picturesque area surrounded by historic buildings, the market square is ideal for enjoying local cuisine or simply soaking in the ambiance.
+4. **Recklinghausen's Historic Market Square**: A picturesque area surrounded by historic buildings, the market square is ideal for enjoying local cuisine or simply soaking in the ambiance.
 
 5. **The Vestisches Museum**: For those interested in regional history, this museum offers exhibits on the local culture and history of the Recklinghausen area.
 
 ## Insider Tips
 
-When visiting Museum Jerke, keep in mind that photography policies may vary, so check for specific guidelines before snapping pictures. If you’re looking to avoid the crowds, consider visiting during weekdays, particularly in the morning hours when the museum is likely to be less busy.
+When visiting Museum Jerke, keep in mind that photography policies may vary, so check for specific guidelines before snapping pictures. If you're looking to avoid the crowds, consider visiting during weekdays, particularly in the morning hours when the museum is likely to be less busy.
 
 Engaging with the artworks can be enhanced by taking your time to read the descriptions and background information provided. If available, join any guided tours offered, as these can provide deeper insights into the pieces and their significance.
 

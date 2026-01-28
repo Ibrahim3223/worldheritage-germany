@@ -28,7 +28,7 @@ image_srcset:
 
 Kunstquartier Hagen is more than just an art museum; it is a cultural hub situated in the heart of Hagen, Westfalen, Germany. This vibrant quarter serves as a focal point for artistic expression and community engagement, offering visitors a glimpse into the contemporary art scene while also celebrating the heritage of the region. Whether you are an art aficionado or a casual visitor, Kunstquartier Hagen provides an enriching experience that showcases both local and international artists.
 
-The museum is located in Hagen-Mitte, a bustling area that reflects the city’s industrial past while embracing modernity. This unique blend of history and contemporary art makes the Kunstquartier an essential stop for anyone exploring Hagen. The museum’s exhibitions often change, ensuring that no two visits are the same and allowing for a fresh perspective on the art world each time. 
+The museum is located in Hagen-Mitte, a bustling area that reflects the city's industrial past while embracing modernity. This unique blend of history and contemporary art makes the Kunstquartier an essential stop for anyone exploring Hagen. The museum's exhibitions often change, ensuring that no two visits are the same and allowing for a fresh perspective on the art world each time. 
 
 With its engaging atmosphere and commitment to artistic innovation, Kunstquartier Hagen promises to be a memorable part of your journey through Germany's cultural landscape.
 
@@ -76,7 +76,7 @@ After exploring Kunstquartier Hagen, consider visiting these nearby attractions 
 
 To make the most of your visit to Kunstquartier Hagen, consider these insider tips:
 
-- **Photography**: While many art museums allow photography, it’s best to check the specific policies at Kunstquartier Hagen to ensure you respect the artists' rights and the museum's regulations.
+- **Photography**: While many art museums allow photography, it's best to check the specific policies at Kunstquartier Hagen to ensure you respect the artists' rights and the museum's regulations.
 
 - **Avoiding Crowds**: If you prefer a quieter experience, consider visiting during weekdays or early in the morning when the museum is less crowded. This will allow you more time to engage with the artworks without the bustle of larger crowds.
 
@@ -98,7 +98,7 @@ Always check the official website for the most current information regarding vis
 A visit to Kunstquartier Hagen typically takes about 2 to 3 hours, depending on your interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary, so it is advisable to check the museum’s guidelines upon arrival.
+Photography policies may vary, so it is advisable to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may be offered periodically.

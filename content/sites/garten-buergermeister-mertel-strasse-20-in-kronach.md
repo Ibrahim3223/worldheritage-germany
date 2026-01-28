@@ -53,7 +53,7 @@ While in Kronach, consider exploring these nearby attractions:
 1. **Kronach Fortress (Festung Rosenberg)**: A historic fortress offering panoramic views of the town and surrounding countryside, along with fascinating exhibits about the region's history.
 2. **St. John's Church (Johanneskirche)**: An architectural marvel with intricate designs and a rich history, this church is a must-see for architecture enthusiasts.
 3. **Old Town (Altstadt)**: Wander through the charming streets filled with traditional Bavarian buildings, shops, and cafes, perfect for experiencing local culture.
-4. **Kronach’s Town Museum**: Offering insights into the local history and culture, this museum is an educational stop for those wanting to delve deeper into Kronach's past.
+4. **Kronach's Town Museum**: Offering insights into the local history and culture, this museum is an educational stop for those wanting to delve deeper into Kronach's past.
 
 ## Insider Tips
 

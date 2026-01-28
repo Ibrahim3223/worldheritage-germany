@@ -60,7 +60,7 @@ While visiting the Bergwaldtheater, take advantage of the opportunity to explore
 
 1. **Weißenburg Town Centre**: A charming area filled with historical buildings, shops, and cafés, perfect for a leisurely stroll or a bite to eat before or after a theatre performance.
 
-2. **Roman Museum Weißenburg**: Delve into the town’s rich history with exhibits showcasing artifacts from its Roman past, providing a deeper understanding of the region’s heritage.
+2. **Roman Museum Weißenburg**: Delve into the town's rich history with exhibits showcasing artifacts from its Roman past, providing a deeper understanding of the region's heritage.
 
 3. **The Wülzburg Fortress**: A short distance from the theatre, this impressive fortress offers panoramic views of the surrounding landscape, alongside insights into the area's military history.
 
@@ -72,7 +72,7 @@ While visiting the Bergwaldtheater, take advantage of the opportunity to explore
 
 To make the most of your visit to the Bergwaldtheater, consider these insider tips:
 
-- **Photography**: Capture the essence of the performances and the theatre's surroundings, but be mindful of any restrictions during shows. It’s often best to take pictures during intermissions or before the event begins.
+- **Photography**: Capture the essence of the performances and the theatre's surroundings, but be mindful of any restrictions during shows. It's often best to take pictures during intermissions or before the event begins.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider attending performances on weekdays or during off-peak seasons. This can enhance your enjoyment and provide a more intimate atmosphere.
 
@@ -86,7 +86,7 @@ When planning your visit to the Bergwaldtheater, here are some practical conside
 
 - **Seasonal Considerations**: The theatre primarily operates during the warmer months. If you are visiting in the cooler seasons, be sure to check the schedule, as performances may be limited.
 
-- **Accessibility**: It’s advisable to check the venue's accessibility options if you require assistance or accommodations during your visit.
+- **Accessibility**: It's advisable to check the venue's accessibility options if you require assistance or accommodations during your visit.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ When planning your visit to the Bergwaldtheater, here are some practical conside
 A visit to the Bergwaldtheater typically lasts a few hours, especially if you plan to enjoy a performance and explore the surrounding area.
 
 ### Is photography allowed?
-Photography may be restricted during performances, so it’s best to check in advance and take photos during intermissions or before the show starts.
+Photography may be restricted during performances, so it's best to check in advance and take photos during intermissions or before the show starts.
 
 ### Are there guided tours?
 Guided tours may not be standard; check the official website for any special events or tours that might be offered during your visit.
@@ -103,13 +103,13 @@ Guided tours may not be standard; check the official website for any special eve
 The best time to visit is during performance season, typically in the warmer months, when the outdoor ambiance enhances the experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s recommended to check the official website or contact the theatre directly.
+For specific accessibility information, it's recommended to check the official website or contact the theatre directly.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; checking the official website will provide the most accurate information regarding availability and purchasing methods.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are generally available, but it’s good to check the official website for details regarding food and beverage services.
+Facilities such as restrooms are generally available, but it's good to check the official website for details regarding food and beverage services.
 
 ### What should I wear?
 Dress comfortably and consider the weather, as the open-air setting means you may be exposed to the elements. Layering is advisable for cooler evenings.

@@ -72,7 +72,7 @@ If you're keen on capturing unique angles, explore different vantage points arou
 
 When visiting the Muldentalbahn bridge, it is advisable to bring essentials such as comfortable walking shoes, water, and a camera to capture the experience. Seasonal considerations include preparing for varying weather conditions; layers can be helpful in the spring and autumn months.
 
-Given the bridge’s outdoor setting, be sure to check the forecast before your trip to ensure a pleasant visit. Also, consider bringing a picnic to enjoy in the nearby areas, allowing you to immerse yourself in the tranquil environment.
+Given the bridge's outdoor setting, be sure to check the forecast before your trip to ensure a pleasant visit. Also, consider bringing a picnic to enjoy in the nearby areas, allowing you to immerse yourself in the tranquil environment.
 
 ## Frequently Asked Questions
 

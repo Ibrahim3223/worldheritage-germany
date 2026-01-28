@@ -50,7 +50,7 @@ As you wander through the castle grounds, pay attention to the architectural det
 
 ## Visiting Information
 
-Kohren Castle is accessible to visitors eager to explore its historical significance. To reach the castle, various transportation options may be available, including public transit and private vehicles. It’s advisable to check the official website for current information regarding hours of operation and ticket prices, as these can vary and may be subject to seasonal changes.
+Kohren Castle is accessible to visitors eager to explore its historical significance. To reach the castle, various transportation options may be available, including public transit and private vehicles. It's advisable to check the official website for current information regarding hours of operation and ticket prices, as these can vary and may be subject to seasonal changes.
 
 Expect to dedicate a few hours to fully appreciate the castle and its surroundings. While specific timings are not stated, a leisurely visit allows ample time for exploration and photography. Consider visiting during weekdays or non-peak hours to enjoy a quieter experience with fewer crowds.
 

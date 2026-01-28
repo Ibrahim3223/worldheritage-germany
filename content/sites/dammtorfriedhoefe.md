@@ -30,7 +30,7 @@ The historical importance of Dammtorfriedhöfe lies not only in its role as a bu
 
 Cemeteries like Dammtorfriedhöfe are essential to understanding the cultural practices surrounding death and remembrance in Germany. They often encapsulate the artistic movements of the time, evident in the styles of gravestones and memorials that adorn the grounds. The cemetery serves as a reminder of the values held by the society in which it exists, showcasing the ways in which different cultures approach mortality and memorialization.
 
-As one of the cemeteries in Hamburg, Dammtorfriedhöfe contributes to the broader narrative of the city’s development, reflecting changes in architectural styles, societal norms, and the evolution of burial practices. The significance of this site extends beyond the individual graves; it encompasses a collective history that resonates with visitors and locals alike.
+As one of the cemeteries in Hamburg, Dammtorfriedhöfe contributes to the broader narrative of the city's development, reflecting changes in architectural styles, societal norms, and the evolution of burial practices. The significance of this site extends beyond the individual graves; it encompasses a collective history that resonates with visitors and locals alike.
 
 ## Architecture and Features
 

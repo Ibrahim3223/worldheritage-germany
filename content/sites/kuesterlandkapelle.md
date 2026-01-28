@@ -101,7 +101,7 @@ While specific guided tours may not be offered at the chapel, local information 
 Early mornings or late afternoons are ideal for a quieter experience, especially on weekdays. 
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s recommended to check the official website or contact local resources for specific information.
+Accessibility details may vary; it's recommended to check the official website or contact local resources for specific information.
 
 ### Can I buy tickets online?
 Check the official website for any entry fees or ticketing options, as this information may change.

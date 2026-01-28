@@ -42,7 +42,7 @@ While specific historical milestones may not be documented here, the ongoing eff
 
 Cohn-Scheune is housed in a building that reflects the architectural style typical of the region. The structure combines functional design with historical significance, embodying elements that resonate with the local character. Visitors will likely find the museum's layout conducive to exploration, with thoughtfully arranged exhibits that guide them through various aspects of the area's history.
 
-Inside, the museum features a variety of displays that showcase artifacts, photographs, and documents pertinent to Rotenburg an der Wümme’s past. While the specific architectural details of the building are not outlined, the atmosphere created within its walls is one of warmth and accessibility, inviting visitors to engage with the exhibits at their own pace. 
+Inside, the museum features a variety of displays that showcase artifacts, photographs, and documents pertinent to Rotenburg an der Wümme's past. While the specific architectural details of the building are not outlined, the atmosphere created within its walls is one of warmth and accessibility, inviting visitors to engage with the exhibits at their own pace. 
 
 Interactive elements may also be present, enhancing the visitor experience by allowing individuals to immerse themselves in the narratives shared within the museum. The thoughtful curation of exhibits is designed to foster a connection between visitors and the historical context, making the experience both informative and engaging.
 
@@ -69,7 +69,7 @@ These nearby attractions complement a visit to Cohn-Scheune, providing a well-ro
 
 For those planning a visit to Cohn-Scheune, consider the following tips to enhance your experience:
 
-- **Photography**: While many museums allow photography, it’s wise to check for any specific restrictions upon entry. Capturing the exhibits can help preserve memories of your visit.
+- **Photography**: While many museums allow photography, it's wise to check for any specific restrictions upon entry. Capturing the exhibits can help preserve memories of your visit.
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays or early in the morning when foot traffic is generally lighter. 
 
 Taking advantage of these tips can lead to a more enjoyable and memorable visit to the museum.
@@ -78,7 +78,7 @@ Taking advantage of these tips can lead to a more enjoyable and memorable visit 
 
 When preparing for a visit to Cohn-Scheune, there are a few practical considerations:
 
-- **What to Bring**: It’s advisable to carry a camera, a notepad for taking notes, and comfortable walking shoes, as you may spend a while exploring the exhibits.
+- **What to Bring**: It's advisable to carry a camera, a notepad for taking notes, and comfortable walking shoes, as you may spend a while exploring the exhibits.
 - **Seasonal Considerations**: The museum is open year-round, but be mindful of seasonal events that may enhance your visit, such as local festivals or exhibitions. Checking the official website for any special programming can provide additional insights into what to expect during your visit.
 
 Being prepared can greatly enhance your overall experience at the museum.

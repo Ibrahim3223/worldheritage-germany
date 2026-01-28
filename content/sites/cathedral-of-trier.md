@@ -58,8 +58,8 @@ The best times to visit are typically during weekdays when crowds are smaller, a
 
 The Cathedral of Trier is ideally situated near several other fascinating sites worth exploring:
 
-1. **Porta Nigra**: This well-preserved Roman city gate is one of the most iconic landmarks in Trier, offering insight into the city’s ancient past.
-2. **Trier Roman Amphitheatre**: A short distance from the cathedral, this ancient amphitheater showcases the city’s Roman heritage and provides a glimpse into the entertainment of the past.
+1. **Porta Nigra**: This well-preserved Roman city gate is one of the most iconic landmarks in Trier, offering insight into the city's ancient past.
+2. **Trier Roman Amphitheatre**: A short distance from the cathedral, this ancient amphitheater showcases the city's Roman heritage and provides a glimpse into the entertainment of the past.
 3. **Imperial Baths**: Located nearby, these impressive ruins of a Roman bath complex highlight the city's architectural prowess during Roman times.
 4. **St. Peter's Cathedral**: Another significant religious site, this cathedral is known for its stunning architecture and rich history.
 5. **Trier Market Square**: A vibrant area filled with shops, cafes, and historical buildings, perfect for a leisurely stroll or a place to enjoy local cuisine.
@@ -72,7 +72,7 @@ To avoid larger crowds, aim for a visit during the early morning or later in the
 
 ## Practical Information
 
-Before heading to the Cathedral of Trier, it’s advisable to wear comfortable shoes, as you may want to explore the surrounding area on foot. Seasonal considerations include dressing appropriately for the weather, as the cathedral is an indoor space that may be cooler during winter months.
+Before heading to the Cathedral of Trier, it's advisable to wear comfortable shoes, as you may want to explore the surrounding area on foot. Seasonal considerations include dressing appropriately for the weather, as the cathedral is an indoor space that may be cooler during winter months.
 
 It is also a good idea to bring a small bag for any personal items you may need, as well as a water bottle to stay hydrated during your visit. As the cathedral is a place of worship, consider wearing respectful attire, avoiding overly casual clothing to honor the sacred environment.
 

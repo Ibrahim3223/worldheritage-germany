@@ -52,7 +52,7 @@ Getting to the Friedrich-Wilhelm-Weber-Museum is straightforward, as it is locat
 
 When planning your visit, it's advisable to allocate sufficient time to fully appreciate the exhibits. A typical visit may take approximately one to two hours, allowing for an in-depth exploration of the museum's offerings. The best times to visit are generally during weekdays when the museum is less crowded, although weekends may offer more opportunities for special events or guided tours.
 
-Expect a welcoming environment where staff are eager to share insights about the exhibits and Weber’s legacy. The museum often hosts temporary exhibitions and events that provide further engagement with literature and culture.
+Expect a welcoming environment where staff are eager to share insights about the exhibits and Weber's legacy. The museum often hosts temporary exhibitions and events that provide further engagement with literature and culture.
 
 ## Nearby Attractions
 
@@ -86,7 +86,7 @@ As the museum may also have specific guidelines regarding items allowed inside, 
 A visit typically takes about one to two hours, allowing for a comprehensive exploration of the exhibits.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas of the museum. It’s recommended to check for any specific restrictions upon arrival.
+Photography may be permitted in certain areas of the museum. It's recommended to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details on availability and scheduling.

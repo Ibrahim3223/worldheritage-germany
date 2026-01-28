@@ -28,7 +28,7 @@ image_srcset:
 
 Schloss Gerbstedt, a captivating manor house located in the heart of Gerbstedt, Germany, invites visitors to explore its historical significance and architectural charm. This impressive structure is a notable representation of the region's cultural heritage, making it a focal point for both locals and travelers. As you approach, the manor commands attention, standing as a reminder of the eras it has witnessed. Its strategic location in the country enhances its allure, offering a glimpse into the past amidst the present-day landscape.
 
-With its inviting atmosphere, Schloss Gerbstedt serves as a window into the architectural styles and societal influences that have shaped this part of Germany. Visitors can engage with the site’s ambiance, reflecting on its historical narratives while appreciating the craftsmanship of the structures that surround them. Whether you are a history enthusiast, an architecture aficionado, or simply in search of a tranquil escape, this manor house promises an enriching experience.
+With its inviting atmosphere, Schloss Gerbstedt serves as a window into the architectural styles and societal influences that have shaped this part of Germany. Visitors can engage with the site's ambiance, reflecting on its historical narratives while appreciating the craftsmanship of the structures that surround them. Whether you are a history enthusiast, an architecture aficionado, or simply in search of a tranquil escape, this manor house promises an enriching experience.
 
 ## History and Significance
 
@@ -81,7 +81,7 @@ Pack essentials such as water and perhaps a light snack, especially if you plan 
 A visit to Schloss Gerbstedt typically takes a few hours, allowing time to explore the manor and its grounds.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available at certain times.

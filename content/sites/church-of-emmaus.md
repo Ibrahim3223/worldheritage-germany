@@ -80,7 +80,7 @@ Each of these attractions is within a reasonable distance from the Church of Emm
 
 To make the most of your visit to the Church of Emmaus, consider the following insider tips:
 
-- **Photography**: If you’re keen on capturing the interior and exterior of the church, be sure to check if photography is permitted, as policies may vary. Early morning light can be particularly flattering for exterior shots.
+- **Photography**: If you're keen on capturing the interior and exterior of the church, be sure to check if photography is permitted, as policies may vary. Early morning light can be particularly flattering for exterior shots.
   
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or outside of peak hours. This allows for a more contemplative visit, with fewer distractions from other visitors.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Garnisonkirche Oldenburg serves as a striking testament to the cultural and architectural heritage of Oldenburg, Germany. This church building, known for its historical significance, invites visitors to explore its storied past and appreciate its architectural beauty. Located in the heart of Oldenburg, it reflects the city’s rich tradition and serves as a spiritual and communal hub for locals and visitors alike.
+Garnisonkirche Oldenburg serves as a striking testament to the cultural and architectural heritage of Oldenburg, Germany. This church building, known for its historical significance, invites visitors to explore its storied past and appreciate its architectural beauty. Located in the heart of Oldenburg, it reflects the city's rich tradition and serves as a spiritual and communal hub for locals and visitors alike.
 
 As you approach Garnisonkirche, its impressive structure commands attention, symbolizing both a place of worship and a community gathering space. The church's significance extends beyond its religious functions; it represents a vital aspect of Oldenburg's identity, capturing the essence of the region's history and culture. Whether you are a history enthusiast, an architecture lover, or simply seeking a serene space for reflection, Garnisonkirche offers an enriching experience that encapsulates the spirit of Oldenburg.
 
@@ -36,7 +36,7 @@ Garnisonkirche Oldenburg's history is intertwined with the broader narrative of 
 
 The significance of Garnisonkirche extends to its role in community life. It has been a gathering point for various events, celebrations, and services, fostering a sense of unity among its congregation. The church has witnessed numerous historical events and changes in the region, making it a crucial part of Oldenburg's social fabric. Visitors to the church can appreciate its contribution to the community and the role it has played in the lives of many individuals over the years.
 
-The church's historical context is enriched by its architectural design and the stories of those who have worshipped within its walls. As a symbol of faith and resilience, Garnisonkirche Oldenburg continues to hold significance for both the local population and visitors, serving as a reminder of the community’s enduring spirit.
+The church's historical context is enriched by its architectural design and the stories of those who have worshipped within its walls. As a symbol of faith and resilience, Garnisonkirche Oldenburg continues to hold significance for both the local population and visitors, serving as a reminder of the community's enduring spirit.
 
 ## Architecture and Features
 

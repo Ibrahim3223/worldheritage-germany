@@ -87,7 +87,7 @@ A visit to the Clemens Sels Museum Neuss typically takes around two to three hou
 Photography policies may vary. It is advisable to check the museum's official guidelines regarding photography before your visit.
 
 ### Are there guided tours?
-Guided tours may be available. It’s best to check the official website for details about scheduling and availability.
+Guided tours may be available. It's best to check the official website for details about scheduling and availability.
 
 ### What's the best time to visit?
 Weekdays tend to be less crowded, providing a more intimate experience with the exhibits. 

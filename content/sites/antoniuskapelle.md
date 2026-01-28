@@ -74,7 +74,7 @@ If you wish to engage more deeply with the chapel's history, inquire about any l
 
 ## Practical Information
 
-When planning your visit to Antoniuskapelle, it’s wise to bring essentials such as water, comfortable walking shoes, and a camera if you wish to document your experience. Seasonal considerations may also play a role; warmer months could offer a pleasant outdoor experience, while cooler months may require additional layers for comfort.
+When planning your visit to Antoniuskapelle, it's wise to bring essentials such as water, comfortable walking shoes, and a camera if you wish to document your experience. Seasonal considerations may also play a role; warmer months could offer a pleasant outdoor experience, while cooler months may require additional layers for comfort.
 
 As with many religious sites, appropriate attire is recommended. Visitors should dress modestly to respect the chapel's sanctity.
 

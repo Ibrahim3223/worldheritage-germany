@@ -38,7 +38,7 @@ Arendorfer Moor is characterized by its extensive wetland landscapes, which feat
 
 The area is also home to a variety of wildlife, including numerous bird species that find sanctuary in the moor. Birdwatchers can expect to see both migratory and resident species, making it an ideal spot for bird observation throughout the year. The reserve's landscape is shaped by the interplay of water, land, and vegetation, creating an ever-changing panorama that invites exploration and appreciation.
 
-While specific architectural elements are not prevalent in nature reserves, the infrastructure within Arendorfer Moor, such as walking paths and observation platforms, is designed to enhance the visitor experience. These features allow for easy access to key viewpoints while minimizing impact on the delicate ecosystem. As you navigate the trails, you’ll have the chance to immerse yourself in the sights and sounds of the moor, experiencing firsthand the natural beauty that defines this vital area.
+While specific architectural elements are not prevalent in nature reserves, the infrastructure within Arendorfer Moor, such as walking paths and observation platforms, is designed to enhance the visitor experience. These features allow for easy access to key viewpoints while minimizing impact on the delicate ecosystem. As you navigate the trails, you'll have the chance to immerse yourself in the sights and sounds of the moor, experiencing firsthand the natural beauty that defines this vital area.
 
 ## Visiting Information
 

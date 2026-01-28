@@ -78,7 +78,7 @@ Seasonal considerations may affect your visit; check the weather forecast in adv
 A visit to Burg Herrentierbach typically takes a couple of hours, allowing you to explore the castle and its grounds thoroughly.
 
 ### Is photography allowed?
-Yes, photography is usually permitted. However, it’s always best to check for any specific restrictions upon arrival.
+Yes, photography is usually permitted. However, it's always best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may vary. It is advisable to check the official website for details regarding tour availability.

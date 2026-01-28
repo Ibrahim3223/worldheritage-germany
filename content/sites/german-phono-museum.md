@@ -46,7 +46,7 @@ Visiting the German Phono Museum is an accessible and enriching experience. The 
 
 When planning a visit, it is essential to check the official website for current information regarding operating hours and ticket prices. This ensures that visitors are informed about any updates or changes that may affect their experience. The museum typically offers a range of exhibits that can be enjoyed over a couple of hours, making it an excellent stop for those interested in audio technology and its history.
 
-The best times to visit may vary depending on local events and peak tourist seasons, so checking the official website for any planned activities can enhance the experience. Visitors are encouraged to engage with the museum’s staff, who can provide insights and answer questions about the exhibits.
+The best times to visit may vary depending on local events and peak tourist seasons, so checking the official website for any planned activities can enhance the experience. Visitors are encouraged to engage with the museum's staff, who can provide insights and answer questions about the exhibits.
 
 ## Nearby Attractions
 

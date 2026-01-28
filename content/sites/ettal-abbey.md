@@ -66,7 +66,7 @@ Ettal Abbey is well-positioned among several notable attractions in the region. 
 
 ## Insider Tips
 
-For photography enthusiasts, Ettal Abbey presents numerous opportunities to capture its beauty. The early morning or late afternoon light can create stunning contrasts against the abbey’s architecture. However, be mindful of the sacred nature of the site and respect any guidelines regarding photography, especially inside the church.
+For photography enthusiasts, Ettal Abbey presents numerous opportunities to capture its beauty. The early morning or late afternoon light can create stunning contrasts against the abbey's architecture. However, be mindful of the sacred nature of the site and respect any guidelines regarding photography, especially inside the church.
 
 To avoid larger crowds, consider visiting during the weekdays or outside of peak tourist seasons. This will allow for a more intimate experience as you explore the abbey and its surroundings.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The School of the Cross in Dresden, Germany, serves as a significant educational establishment, reflecting both the historic and cultural evolution of the region. Situated in a city known for its rich artistic heritage and architectural elegance, this school building is not merely a place of learning but a symbol of the community's commitment to education and progress. As you explore the School of the Cross, you will encounter an environment that underscores the importance of educational institutions in shaping society.
 
-Dresden, often recognized for its stunning baroque architecture and vibrant cultural scene, offers visitors an array of experiences that highlight its historical significance. The School of the Cross contributes to this narrative, representing a commitment to fostering knowledge and nurturing generations of students. With its unique architectural character and cultural importance, it stands out as a vital part of Dresden’s educational landscape.
+Dresden, often recognized for its stunning baroque architecture and vibrant cultural scene, offers visitors an array of experiences that highlight its historical significance. The School of the Cross contributes to this narrative, representing a commitment to fostering knowledge and nurturing generations of students. With its unique architectural character and cultural importance, it stands out as a vital part of Dresden's educational landscape.
 
 Whether you are an architecture enthusiast, a history buff, or simply interested in the local culture, a visit to the School of the Cross promises to be enlightening. Engage with the surrounding community and appreciate how this institution continues to play a pivotal role in shaping the future of education in Dresden.
 
@@ -76,7 +76,7 @@ To enhance your experience at the School of the Cross, consider the following in
 
 - **Photography**: While capturing memories, be mindful of school activities and respect the privacy of students. Look for opportunities to photograph the architecture and surrounding areas without disrupting the learning environment.
 - **Crowd Avoidance**: If you prefer a quieter visit, consider going during mid-morning or early afternoon on weekdays when school activities are in full swing, but crowds may be less intense.
-- **Local Events**: Keep an eye out for community events or open days that may offer unique insights into the school’s activities and ethos.
+- **Local Events**: Keep an eye out for community events or open days that may offer unique insights into the school's activities and ethos.
 
 ## Practical Information
 

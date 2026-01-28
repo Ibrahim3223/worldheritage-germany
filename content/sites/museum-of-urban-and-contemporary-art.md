@@ -32,11 +32,11 @@ The museum's significance extends beyond its walls, as it provides a space for a
 
 ## History and Significance
 
-Although specific historical dates and milestones are not provided, the Museum of Urban and Contemporary Art has established itself as a key player in Munich’s cultural landscape. The museum focuses on the interplay between urban environments and contemporary art, inviting discussions around how art can reflect and influence urban life. 
+Although specific historical dates and milestones are not provided, the Museum of Urban and Contemporary Art has established itself as a key player in Munich's cultural landscape. The museum focuses on the interplay between urban environments and contemporary art, inviting discussions around how art can reflect and influence urban life. 
 
 The museum's mission is to present and promote contemporary art forms that engage with the complexities of urbanization and the experiences of city dwellers. Through its exhibitions, the museum aims to foster a deeper understanding of how art can respond to and shape societal changes. This commitment to contemporary issues is reflected in the diverse range of artists and art forms featured within its galleries.
 
-Engaging with local, national, and international artists, the museum also serves as a platform for emerging talents alongside established names. This approach not only enriches the cultural dialogue but also situates the museum at the forefront of contemporary artistic trends. As such, it plays a vital role in Munich’s cultural scene, encouraging visitors to reflect on the urban experience through the lens of contemporary art.
+Engaging with local, national, and international artists, the museum also serves as a platform for emerging talents alongside established names. This approach not only enriches the cultural dialogue but also situates the museum at the forefront of contemporary artistic trends. As such, it plays a vital role in Munich's cultural scene, encouraging visitors to reflect on the urban experience through the lens of contemporary art.
 
 ## Architecture and Features
 

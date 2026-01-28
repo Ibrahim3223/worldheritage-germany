@@ -82,16 +82,16 @@ Seasonal considerations are essential; spring and summer months can be warm, whi
 A visit to Schloss Rossewitz typically takes a few hours, allowing time to explore the manor house and its grounds thoroughly.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Information regarding guided tours may vary. It’s advisable to check the official website for details on availability.
+Information regarding guided tours may vary. It's advisable to check the official website for details on availability.
 
 ### What's the best time to visit?
 The best times to visit are during spring and summer, although autumn and winter can provide a quieter experience.
 
 ### Is it wheelchair accessible?
-Details on accessibility may vary, so it’s recommended to check the official website for current information.
+Details on accessibility may vary, so it's recommended to check the official website for current information.
 
 ### Can I buy tickets online?
 For ticket purchase options, visit the official website for the most accurate and up-to-date information.

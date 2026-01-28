@@ -60,9 +60,9 @@ When planning your visit, consider setting aside time to enjoy the surrounding a
 
 1. **Altonaer Balkon**: Just a short distance from Behnbrunnen, this scenic park offers stunning views of the Elbe River and is a perfect spot for a leisurely walk or a picnic.
 
-2. **Fischmarkt**: A local tradition, the Fischmarkt operates on Sundays, offering a lively atmosphere with fresh seafood and local delicacies. It’s an excellent opportunity to experience the culinary culture of Hamburg.
+2. **Fischmarkt**: A local tradition, the Fischmarkt operates on Sundays, offering a lively atmosphere with fresh seafood and local delicacies. It's an excellent opportunity to experience the culinary culture of Hamburg.
 
-3. **Altona Museum**: This museum showcases the history and culture of Altona, providing insights into the region's development over the years. It’s a valuable stop for those interested in local heritage.
+3. **Altona Museum**: This museum showcases the history and culture of Altona, providing insights into the region's development over the years. It's a valuable stop for those interested in local heritage.
 
 4. **Große Bergstraße**: A vibrant shopping street filled with a variety of shops, cafes, and restaurants, perfect for exploring local goods and enjoying a meal.
 

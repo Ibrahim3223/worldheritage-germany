@@ -38,7 +38,7 @@ This museum serves as a cultural focal point, where local traditions and the evo
 
 The architecture of the Castle Museum is intrinsically linked to its historical roots as a castle. While specific architectural details are not provided, one can expect the structure to reflect medieval influences, characterized by robust stonework and remnants of fortifications. The museum's interior is likely designed to accommodate various exhibits, providing a backdrop that complements the historical artifacts on display. 
 
-Visitors can explore different sections of the museum that might include themed exhibitions, showcasing elements such as local craftsmanship, domestic life, and historical events relevant to the region. Each room may offer a distinct ambiance, allowing visitors to immerse themselves in the narrative of Nideggen’s past. The overall layout and design of the museum enhance the educational experience, inviting guests to engage with the exhibits thoughtfully.
+Visitors can explore different sections of the museum that might include themed exhibitions, showcasing elements such as local craftsmanship, domestic life, and historical events relevant to the region. Each room may offer a distinct ambiance, allowing visitors to immerse themselves in the narrative of Nideggen's past. The overall layout and design of the museum enhance the educational experience, inviting guests to engage with the exhibits thoughtfully.
 
 ## Visiting Information
 

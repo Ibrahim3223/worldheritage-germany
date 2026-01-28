@@ -76,7 +76,7 @@ To make the most of your visit to Mathematikum, consider these insider tips:
 
 - **Crowd Avoidance**: Aim to visit during weekday mornings or early afternoons to avoid larger crowds. This will allow for a more relaxed exploration of the exhibits.
 
-- **Engagement**: Don’t hesitate to ask staff questions or seek assistance with interactive displays. They can provide valuable insights and enhance your understanding of the exhibits.
+- **Engagement**: Don't hesitate to ask staff questions or seek assistance with interactive displays. They can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ When visiting Mathematikum, it's important to come prepared. Here are some pract
 A visit to Mathematikum typically takes around two to three hours, but you may want to stay longer if you engage deeply with the exhibits or participate in special events.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff or signage upon arrival for any specific restrictions.
+Photography policies can vary, so it's best to check with museum staff or signage upon arrival for any specific restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as offerings may change throughout the year.

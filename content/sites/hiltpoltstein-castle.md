@@ -86,7 +86,7 @@ When planning your visit to Hiltpoltstein Castle, keep these practical considera
 
 - **Seasonal Considerations**: The region experiences seasonal changes; visiting in spring or early autumn offers pleasant weather. Winter visits can be magical, but be prepared for colder temperatures.
 
-- **Amenities**: Specific details about amenities such as restrooms or cafes may be limited, so it’s wise to plan accordingly and perhaps carry snacks and drinks.
+- **Amenities**: Specific details about amenities such as restrooms or cafes may be limited, so it's wise to plan accordingly and perhaps carry snacks and drinks.
 
 ## Frequently Asked Questions
 
@@ -116,7 +116,7 @@ Ticket purchasing options may vary, so check the official website for current in
 
 ### Are there restrooms and cafes?
 
-Information on amenities such as restrooms and cafes may be limited. It’s advisable to plan ahead and be prepared.
+Information on amenities such as restrooms and cafes may be limited. It's advisable to plan ahead and be prepared.
 
 ### What should I wear?
 

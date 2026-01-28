@@ -26,11 +26,11 @@ Brunswick, known for its rich history and architectural beauty, provides a fitti
 
 ## History and Significance
 
-Bäckerklint holds a significant place in the urban landscape of Brunswick, reflecting the city’s development over the years. While specific historical dates and events may not be extensively documented, the square serves as a gathering point that has witnessed the evolution of the city’s cultural and social fabric. It is an integral part of the community, where festivals, markets, and public events frequently take place, fostering a sense of belonging among residents.
+Bäckerklint holds a significant place in the urban landscape of Brunswick, reflecting the city's development over the years. While specific historical dates and events may not be extensively documented, the square serves as a gathering point that has witnessed the evolution of the city's cultural and social fabric. It is an integral part of the community, where festivals, markets, and public events frequently take place, fostering a sense of belonging among residents.
 
 The square's cultural importance is emphasized by its role as a venue for local traditions and celebrations. It is a space where the community comes together, showcasing the local lifestyle and traditions of Brunswick. This gathering place has become synonymous with the spirit of the city, providing a platform for artistic expression and social interaction. Its significance extends beyond mere geography; it is a symbol of the communal life that characterizes Brunswick.
 
-As visitors explore Bäckerklint, they can appreciate its contribution to the city’s identity. The square's presence in Brunswick highlights the importance of communal spaces in urban environments, serving as a reminder of the value of interaction and shared experiences in fostering community ties.
+As visitors explore Bäckerklint, they can appreciate its contribution to the city's identity. The square's presence in Brunswick highlights the importance of communal spaces in urban environments, serving as a reminder of the value of interaction and shared experiences in fostering community ties.
 
 ## Architecture and Features
 

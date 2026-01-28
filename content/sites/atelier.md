@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Atelier, located in the charming city of Lübeck, Germany, is a notable movie theater that is more than just a venue for film screenings; it serves as a cultural hub within the community. As you step into Atelier, you are greeted by an ambiance that combines modern cinema technology with a warm, welcoming atmosphere that reflects the city’s rich cultural heritage. Lübeck, known for its medieval architecture and as a UNESCO World Heritage site, provides a historical backdrop that complements the contemporary art of filmmaking showcased within this theater. Visitors can expect a diverse array of films, from the latest blockbusters to independent features, making Atelier a significant player in the local arts scene.
+Atelier, located in the charming city of Lübeck, Germany, is a notable movie theater that is more than just a venue for film screenings; it serves as a cultural hub within the community. As you step into Atelier, you are greeted by an ambiance that combines modern cinema technology with a warm, welcoming atmosphere that reflects the city's rich cultural heritage. Lübeck, known for its medieval architecture and as a UNESCO World Heritage site, provides a historical backdrop that complements the contemporary art of filmmaking showcased within this theater. Visitors can expect a diverse array of films, from the latest blockbusters to independent features, making Atelier a significant player in the local arts scene.
 
 Situated at coordinates 53.86511, 10.68769, Atelier is easily accessible, drawing film enthusiasts and casual viewers alike. The theater promises an engaging cinematic experience, offering not only entertainment but also a chance to connect with the artistic spirit of Lübeck. 
 
 ## History and Significance
 
-While specific historical details about Atelier may not be extensively documented, its role as a movie theater in Lübeck is crucial in promoting film culture and providing a platform for cinematic expression. Lübeck itself has a rich cultural history, being an important center of the Hanseatic League during the Middle Ages. This history emphasizes the city’s longstanding commitment to arts and culture, making Atelier a fitting addition to its legacy.
+While specific historical details about Atelier may not be extensively documented, its role as a movie theater in Lübeck is crucial in promoting film culture and providing a platform for cinematic expression. Lübeck itself has a rich cultural history, being an important center of the Hanseatic League during the Middle Ages. This history emphasizes the city's longstanding commitment to arts and culture, making Atelier a fitting addition to its legacy.
 
 As a modern cinema, Atelier embraces both local and international films, fostering a sense of community among viewers. It often hosts film festivals, special screenings, and events that celebrate the art of filmmaking. This engagement not only enhances the cultural landscape of Lübeck but also encourages dialogue among filmmakers and audiences, further solidifying the theater's significance in the region.
 
@@ -50,7 +50,7 @@ In addition to screening facilities, Atelier may also offer amenities such as co
 
 Visiting Atelier is a straightforward process, with the theater being easily accessible via various means of transportation. Whether you are traveling by public transit or by car, you will find that reaching this cultural venue is convenient. 
 
-To plan your visit, it’s advisable to check the official website for current information regarding screening hours and ticket prices. This ensures you have the latest details on what films are playing and any special events that might be occurring during your visit.
+To plan your visit, it's advisable to check the official website for current information regarding screening hours and ticket prices. This ensures you have the latest details on what films are playing and any special events that might be occurring during your visit.
 
 Expect to spend a few hours at Atelier, especially if you plan to enjoy a meal or snack while there. The best times to visit can vary; evenings and weekends often see larger crowds, so consider attending matinee screenings for a more relaxed experience. 
 
@@ -62,7 +62,7 @@ While in Lübeck, you have the opportunity to explore several nearby attractions
 
 1. **Lübeck's Old Town**: A UNESCO World Heritage site, the Old Town is renowned for its well-preserved medieval buildings, including the iconic Holsten Gate.
    
-2. **St. Mary’s Church (Marienkirche)**: This remarkable Gothic church is notable for its impressive architecture and beautiful stained glass windows, providing insight into Lübeck's religious history.
+2. **St. Mary's Church (Marienkirche)**: This remarkable Gothic church is notable for its impressive architecture and beautiful stained glass windows, providing insight into Lübeck's religious history.
 
 3. **Lübeck Museum of Theatre Puppets**: A unique museum dedicated to the art of puppetry, showcasing a variety of historical and contemporary puppets.
 
@@ -70,13 +70,13 @@ While in Lübeck, you have the opportunity to explore several nearby attractions
 
 5. **The European Hansemuseum**: This museum explores the history of the Hanseatic League, highlighting Lübeck's role as a major trading hub in the Middle Ages.
 
-These attractions complement a visit to Atelier and provide a fuller understanding of Lübeck’s cultural and historical significance.
+These attractions complement a visit to Atelier and provide a fuller understanding of Lübeck's cultural and historical significance.
 
 ## Insider Tips
 
 To make the most of your visit to Atelier, consider the following insider tips:
 
-- **Photography**: While photography may be allowed in some areas, it’s best to check with the staff regarding specific policies within the screening rooms. Always be respectful of other patrons enjoying the film.
+- **Photography**: While photography may be allowed in some areas, it's best to check with the staff regarding specific policies within the screening rooms. Always be respectful of other patrons enjoying the film.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim for mid-week screenings or matinee showings. Weekends tend to draw larger crowds, especially for popular films.
 
@@ -90,7 +90,7 @@ When planning your visit to Atelier, here are some practical considerations:
 
 - **Seasonal Considerations**: Check the local weather for the day of your visit, as Lübeck experiences seasonal variations. Dressing appropriately for the weather can enhance your enjoyment before and after your screening.
 
-- **Accessibility**: If you or someone in your party requires special accommodations, it’s advisable to contact the theater in advance to inquire about wheelchair access and other facilities.
+- **Accessibility**: If you or someone in your party requires special accommodations, it's advisable to contact the theater in advance to inquire about wheelchair access and other facilities.
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ When planning your visit to Atelier, here are some practical considerations:
 Typically, a visit to Atelier for a movie screening will take around 2-3 hours, including time for purchasing tickets, refreshments, and the film itself.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check with the staff about specific guidelines, especially during screenings.
+Photography policies may vary. It's best to check with the staff about specific guidelines, especially during screenings.
 
 ### Are there guided tours?
 Atelier does not typically offer guided tours, as it operates primarily as a movie theater focused on film screenings.
@@ -107,7 +107,7 @@ Atelier does not typically offer guided tours, as it operates primarily as a mov
 For a quieter experience, consider visiting during the week or attending matinee screenings. Evenings and weekends tend to be busier.
 
 ### Is it wheelchair accessible?
-For specific accessibility options, it’s recommended to check with the theater directly to ensure that all visitors have a comfortable experience.
+For specific accessibility options, it's recommended to check with the theater directly to ensure that all visitors have a comfortable experience.
 
 ### Can I buy tickets online?
 Yes, tickets can typically be purchased online. Check the official website for details on the purchasing process.

@@ -36,7 +36,7 @@ Färbertor was part of Nuremberg's extensive city wall system, which was constru
 
 Historically, Nuremberg was a significant hub for trade and politics, with the city gate serving as a critical entry point for merchants coming from the surrounding regions. The gate facilitated commerce and communication, allowing for the flow of goods and cultural exchanges. As a prominent city in the Holy Roman Empire, Nuremberg was often the site of important gatherings and events, further underscoring the importance of its fortifications, including Färbertor.
 
-Today, Färbertor stands as a reminder of Nuremberg's medieval heritage. Although the gate itself is not preserved, its legacy persists in the stories of those who traversed it, contributing to the city’s rich historical fabric. The importance of city gates like Färbertor extends beyond their functional role; they symbolize the growth of urban life and the evolution of Nuremberg into a modern metropolis.
+Today, Färbertor stands as a reminder of Nuremberg's medieval heritage. Although the gate itself is not preserved, its legacy persists in the stories of those who traversed it, contributing to the city's rich historical fabric. The importance of city gates like Färbertor extends beyond their functional role; they symbolize the growth of urban life and the evolution of Nuremberg into a modern metropolis.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ Färbertor was a part of the impressive medieval city wall that encircled Nuremb
 
 Although specific architectural details of Färbertor are not documented, city gates from this period often featured thick stone walls, towering entrances, and fortified towers. These elements served not only as a means of protection but also as a statement of power and civic pride. The gates would typically include a drawbridge or gatehouse, providing controlled access to the city and enhancing security.
 
-Visitors to the site can appreciate the remnants of the city walls that once framed Färbertor, allowing for a tangible connection to the past. The architecture of Nuremberg's fortifications, including Färbertor, exemplifies the strategic military planning and craftsmanship of medieval builders, illustrating the city’s storied past.
+Visitors to the site can appreciate the remnants of the city walls that once framed Färbertor, allowing for a tangible connection to the past. The architecture of Nuremberg's fortifications, including Färbertor, exemplifies the strategic military planning and craftsmanship of medieval builders, illustrating the city's storied past.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Färbertor is situated near several other significant attractions in Nuremberg, 
 
 2. **St. Sebaldus Church**: This Gothic church is one of the oldest in Nuremberg and features intricate artwork and a stunning interior, reflecting the city's ecclesiastical history.
 
-3. **Documentation Center Nazi Party Rally Grounds**: Located a bit further away, this museum provides a critical look at Nuremberg's role in Nazi Germany, offering a sobering contrast to the city’s medieval heritage.
+3. **Documentation Center Nazi Party Rally Grounds**: Located a bit further away, this museum provides a critical look at Nuremberg's role in Nazi Germany, offering a sobering contrast to the city's medieval heritage.
 
 4. **Nuremberg Toy Museum**: Celebrating the city's historic toy-making industry, this museum showcases a collection of toys from various eras, appealing to visitors of all ages.
 

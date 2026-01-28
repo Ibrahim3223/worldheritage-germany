@@ -48,7 +48,7 @@ Notable features may include educational panels detailing the ginkgo's life cycl
 
 ## Visiting Information
 
-For those planning a visit to the Ginkgo-Museum, it’s essential to check the official website for current information regarding opening hours and ticket prices. The museum is conveniently located in Weimar, easily accessible by both public transport and private vehicles. Public transportation options may include buses or trains that connect to the city center, making it straightforward for travelers to reach the museum.
+For those planning a visit to the Ginkgo-Museum, it's essential to check the official website for current information regarding opening hours and ticket prices. The museum is conveniently located in Weimar, easily accessible by both public transport and private vehicles. Public transportation options may include buses or trains that connect to the city center, making it straightforward for travelers to reach the museum.
 
 Visitors can expect to spend approximately one to two hours at the Ginkgo-Museum, which provides ample time to explore the exhibits and engage with the material. The museum is typically suitable for all ages, making it a great destination for families, students, and anyone with an interest in nature or history.
 
@@ -58,7 +58,7 @@ The best times to visit are typically during weekdays, when the museum is less c
 
 Weimar is rich in cultural and historical landmarks, making the Ginkgo-Museum an excellent starting point for further exploration. Nearby attractions include:
 
-1. **Bauhaus Museum Weimar**: Celebrating the Bauhaus movement, this museum showcases the influential design school’s impact on architecture, art, and design.
+1. **Bauhaus Museum Weimar**: Celebrating the Bauhaus movement, this museum showcases the influential design school's impact on architecture, art, and design.
    
 2. **Goethe National Museum**: Dedicated to the life and works of Johann Wolfgang von Goethe, this museum provides insights into the celebrated writer's contributions to literature and science.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during the early afternoon on weekdays. This 
 
 ## Practical Information
 
-When planning your visit to the Ginkgo-Museum, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. The museum may have areas for resting, but hydrating and staying comfortable will enhance your experience.
+When planning your visit to the Ginkgo-Museum, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. The museum may have areas for resting, but hydrating and staying comfortable will enhance your experience.
 
 Seasonal considerations are also important. During the fall, the ginkgo trees put on a spectacular display of yellow leaves, making it a particularly beautiful time to visit. Conversely, summer may offer a lush green backdrop, showcasing the tree's vibrancy.
 

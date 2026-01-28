@@ -74,7 +74,7 @@ Photography enthusiasts should take advantage of the castle's unique architectur
 
 ## Practical Information
 
-When visiting Burg Hunolstein, it’s advisable to wear comfortable shoes, as exploring the castle may involve walking on uneven surfaces and climbing stairs. Bringing a light jacket or sweater is also wise, as temperatures can vary throughout the day.
+When visiting Burg Hunolstein, it's advisable to wear comfortable shoes, as exploring the castle may involve walking on uneven surfaces and climbing stairs. Bringing a light jacket or sweater is also wise, as temperatures can vary throughout the day.
 
 Seasonal considerations may influence the visit; spring and autumn typically offer the most pleasant weather for exploration. Check the official website for additional seasonal events or special tours that may be available during your visit.
 

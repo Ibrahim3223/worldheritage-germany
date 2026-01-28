@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Museum der städtischen Sammlungen im Zeughaus serves as a cultural cornerstone in Lutherstadt Wittenberg, Germany, a town renowned for its pivotal role in the Reformation. This museum encapsulates a significant slice of the town's heritage, showcasing collections that reflect the local history and artistry. Positioned in a historic building, the museum invites visitors to engage with the past through a diverse array of exhibits that highlight the evolution of Lutherstadt Wittenberg’s cultural landscape. As you explore its galleries, you’ll gain insights into the traditions, craftsmanship, and daily life of the region, making it a must-visit for anyone interested in the rich narrative that has shaped this iconic location.
+The Museum der städtischen Sammlungen im Zeughaus serves as a cultural cornerstone in Lutherstadt Wittenberg, Germany, a town renowned for its pivotal role in the Reformation. This museum encapsulates a significant slice of the town's heritage, showcasing collections that reflect the local history and artistry. Positioned in a historic building, the museum invites visitors to engage with the past through a diverse array of exhibits that highlight the evolution of Lutherstadt Wittenberg's cultural landscape. As you explore its galleries, you'll gain insights into the traditions, craftsmanship, and daily life of the region, making it a must-visit for anyone interested in the rich narrative that has shaped this iconic location.
 
 ## History and Significance
 
@@ -38,9 +38,9 @@ The significance of the museum extends beyond its collections; it acts as a comm
 
 ## Architecture and Features
 
-The Museum der städtischen Sammlungen im Zeughaus is housed in a historic structure that reflects the architectural style typical of the region. The building itself adds to the museum's allure, with its traditional design elements that echo the town’s storied past. The architecture is a blend of functionality and aesthetic appeal, designed to accommodate both exhibitions and the preservation of artifacts.
+The Museum der städtischen Sammlungen im Zeughaus is housed in a historic structure that reflects the architectural style typical of the region. The building itself adds to the museum's allure, with its traditional design elements that echo the town's storied past. The architecture is a blend of functionality and aesthetic appeal, designed to accommodate both exhibitions and the preservation of artifacts.
 
-Inside, visitors will find a series of galleries that display the museum’s diverse collections. The layout is thoughtfully organized, allowing for a fluid flow from one exhibit to the next. Each gallery is dedicated to different themes or periods, providing an engaging narrative that guides the visitor's experience. Notable features include well-preserved artifacts, informative displays, and carefully curated artworks that capture the essence of Lutherstadt Wittenberg's historical journey.
+Inside, visitors will find a series of galleries that display the museum's diverse collections. The layout is thoughtfully organized, allowing for a fluid flow from one exhibit to the next. Each gallery is dedicated to different themes or periods, providing an engaging narrative that guides the visitor's experience. Notable features include well-preserved artifacts, informative displays, and carefully curated artworks that capture the essence of Lutherstadt Wittenberg's historical journey.
 
 The museum's design emphasizes accessibility and visitor comfort, ensuring that all guests can engage with the exhibits fully. The use of natural light enhances the viewing experience, creating an inviting atmosphere for exploration. Additionally, the museum often hosts temporary exhibitions that bring in contemporary works, further enriching its offerings and connecting the historical with the modern.
 
@@ -58,9 +58,9 @@ While visiting the Museum der städtischen Sammlungen im Zeughaus, consider expl
 
 1. **Castle Church (Schlosskirche)**: A key Reformation site where Martin Luther is said to have nailed his theses. The church's imposing architecture and historical significance make it a must-see.
 
-2. **Luther House (Lutherhaus)**: The former residence of Martin Luther, this museum provides insights into his life and the Reformation’s impact on the town.
+2. **Luther House (Lutherhaus)**: The former residence of Martin Luther, this museum provides insights into his life and the Reformation's impact on the town.
 
-3. **St. Mary’s Church (Stadtkirche St. Marien)**: Known for its stunning Gothic architecture and beautiful stained glass windows, this church is an essential stop for history enthusiasts.
+3. **St. Mary's Church (Stadtkirche St. Marien)**: Known for its stunning Gothic architecture and beautiful stained glass windows, this church is an essential stop for history enthusiasts.
 
 4. **Wittenberg Market Square (Marktplatz)**: A vibrant area surrounded by historic buildings, ideal for a leisurely stroll, dining, or shopping while soaking in the local atmosphere.
 

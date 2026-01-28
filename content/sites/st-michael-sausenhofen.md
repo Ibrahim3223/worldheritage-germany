@@ -98,7 +98,7 @@ Be mindful of the church's etiquette during your visit—maintaining a respectfu
 A visit typically takes about one hour, but you may wish to extend your stay for deeper exploration or reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for specific guidelines upon arrival.
+Photography policies may vary, so it's best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more information on scheduling and availability.
@@ -118,4 +118,4 @@ Restroom facilities and nearby cafes should be confirmed through local resources
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that this is a place of worship. Consider layers for varying temperatures. 
 
-St. Michael in Sausenhofen offers a serene experience steeped in local heritage and architectural beauty. Whether you seek spiritual reflection or a deeper understanding of the region’s history, this church building invites you to immerse yourself in its narrative.
+St. Michael in Sausenhofen offers a serene experience steeped in local heritage and architectural beauty. Whether you seek spiritual reflection or a deeper understanding of the region's history, this church building invites you to immerse yourself in its narrative.

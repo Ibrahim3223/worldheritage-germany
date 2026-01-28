@@ -36,7 +36,7 @@ The Saalfeld (Saale) railway station has been a fundamental part of the region's
 
 While specific historical milestones may not be documented, the station's continued operation highlights its importance in facilitating mobility for residents and tourists alike. The railway station has adapted through various phases of modernization, reflecting advancements in technology and infrastructure over the years. This evolution speaks volumes about the broader narrative of railway travel in Germany, showcasing how transportation can shape and influence communities.
 
-Moreover, the station is a microcosm of the local culture, serving as a gathering place for residents and travelers. It embodies the spirit of connection, not only in terms of geography but also in fostering social interactions. The station’s role in regional connectivity enhances its significance, making it more than just a transit point but a facilitator of experiences and explorations within the region.
+Moreover, the station is a microcosm of the local culture, serving as a gathering place for residents and travelers. It embodies the spirit of connection, not only in terms of geography but also in fostering social interactions. The station's role in regional connectivity enhances its significance, making it more than just a transit point but a facilitator of experiences and explorations within the region.
 
 ## Architecture and Features
 

@@ -50,7 +50,7 @@ While specific hours of operation and ticket prices are not detailed here, it is
 
 The best times to visit are typically during milder weather conditions, which can enhance the experience of strolling through the garden. Early morning or late afternoon visits are often ideal to avoid crowds and to enjoy the softer light that enhances the garden's features.
 
-Expect to find ample opportunities for relaxation and contemplation as you meander through the paths, and don’t forget to take a moment to appreciate the various plant species that may be on display.
+Expect to find ample opportunities for relaxation and contemplation as you meander through the paths, and don't forget to take a moment to appreciate the various plant species that may be on display.
 
 ## Nearby Attractions
 
@@ -85,7 +85,7 @@ A visit to Garten Kramerweg 11 can typically take around one to two hours, allow
 Yes, photography is generally permitted in the garden. Be sure to respect any guidelines regarding flash photography or specific areas.
 
 ### Are there guided tours?
-Information regarding guided tours may vary. It’s recommended to check the official website for any available options or special events.
+Information regarding guided tours may vary. It's recommended to check the official website for any available options or special events.
 
 ### What's the best time to visit?
 Early mornings or late afternoons during the warmer months are ideal for avoiding crowds and enjoying the garden in softer light.
@@ -97,7 +97,7 @@ Accessibility details may vary. For the latest information on wheelchair access,
 Ticket purchasing options should be confirmed through the official website, where you can find the most current information.
 
 ### Are there restrooms and cafes?
-Specific facilities may not be detailed here. It’s advisable to check the official website for information regarding restrooms and nearby dining options.
+Specific facilities may not be detailed here. It's advisable to check the official website for information regarding restrooms and nearby dining options.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing is recommended. Shoes suitable for walking will enhance your experience as you explore the garden.

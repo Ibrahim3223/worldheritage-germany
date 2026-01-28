@@ -32,7 +32,7 @@ The Orpheus statue in Düren, Germany, stands as a captivating representation of
 
 The Orpheus statue has a rich cultural significance that transcends its physical form. Orpheus, a legendary figure from Greek mythology, is often depicted as a musician whose melodies could charm animals and even stones. His story captures the essence of love and loss, particularly in relation to his beloved Eurydice, whose tale resonates through centuries of artistic interpretation. This statue serves as a tribute to these themes, embodying the emotional depth associated with Orpheus' narrative.
 
-While specific historical dates related to the statue’s creation or installation are not available, the figure's enduring relevance in art and literature suggests a long-standing appreciation for its themes. Statues of Orpheus have appeared in various cultures, often symbolizing the power of music and the arts to transcend human experiences. In Düren, this statue connects local heritage to broader European artistic traditions, enriching the cultural landscape.
+While specific historical dates related to the statue's creation or installation are not available, the figure's enduring relevance in art and literature suggests a long-standing appreciation for its themes. Statues of Orpheus have appeared in various cultures, often symbolizing the power of music and the arts to transcend human experiences. In Düren, this statue connects local heritage to broader European artistic traditions, enriching the cultural landscape.
 
 The statue also reflects the broader movement of neoclassicism in art, where classical themes were revived and celebrated. Visitors to the statue can appreciate its role in the context of this movement, which sought to invoke the ideals of ancient art while addressing contemporary themes. The Orpheus statue stands not only as a work of art but also as a conversation starter about the impact of mythology on modern culture.
 
@@ -40,9 +40,9 @@ The statue also reflects the broader movement of neoclassicism in art, where cla
 
 The Orpheus statue, while specific architectural details are not provided, likely features characteristics typical of neoclassical sculptures. Such statues often emphasize realism, proportion, and a smooth finish, reflecting the ideals of ancient Greek and Roman artistry. The depiction of Orpheus may showcase him in a dynamic pose, possibly holding a lyre, which is emblematic of his musical prowess.
 
-Notable features of the statue may include intricate details that highlight Orpheus’ expression, conveying a sense of emotion and narrative. The choice of material, often marble or stone in similar sculptures, adds a timeless quality, enhancing the visual impact. Observers can appreciate the craftsmanship that goes into such works, which is a testament to the skills of the artists who created them.
+Notable features of the statue may include intricate details that highlight Orpheus' expression, conveying a sense of emotion and narrative. The choice of material, often marble or stone in similar sculptures, adds a timeless quality, enhancing the visual impact. Observers can appreciate the craftsmanship that goes into such works, which is a testament to the skills of the artists who created them.
 
-While visiting, take the opportunity to closely examine the statue’s surface and the details that bring Orpheus to life, as these elements contribute significantly to its artistic value. The overall composition is likely designed to capture the viewer's attention, inviting contemplation of the stories associated with the figure.
+While visiting, take the opportunity to closely examine the statue's surface and the details that bring Orpheus to life, as these elements contribute significantly to its artistic value. The overall composition is likely designed to capture the viewer's attention, inviting contemplation of the stories associated with the figure.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ While visiting the Orpheus statue, consider exploring the following nearby attra
 
 1. **Düren City Museum**: A short stroll from the statue, this museum showcases local history and art, offering a deeper understanding of the region's heritage.
    
-2. **St. Anne’s Church**: This historic church features remarkable architecture and is a significant landmark in Düren, reflecting the town's historical narrative.
+2. **St. Anne's Church**: This historic church features remarkable architecture and is a significant landmark in Düren, reflecting the town's historical narrative.
 
 3. **Aquisgrana**: Known for its rich history and stunning architecture, this nearby city offers a glimpse into the cultural heritage of the region, including its famous cathedral.
 
@@ -99,7 +99,7 @@ Information on accessibility may vary, so check the official website for the mos
 Check the official website for ticket purchasing options and any current admission fees.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the immediate vicinity, so it’s advisable to check nearby establishments for restrooms and dining options.
+Facilities may be limited in the immediate vicinity, so it's advisable to check nearby establishments for restrooms and dining options.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider layering for seasonal weather variations.

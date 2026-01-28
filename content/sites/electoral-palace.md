@@ -28,7 +28,7 @@ image_srcset:
 
 The Electoral Palace in Trier, Germany, stands as a striking example of baroque architecture and an important cultural landmark. Situated in the heart of one of Germany's oldest cities, this palace serves as a reminder of the power dynamics that shaped the region during the era of the archbishops. With its grand façade and beautifully manicured gardens, the Electoral Palace not only offers a glimpse into the past but also invites visitors to explore the rich history and culture of Trier. Whether you are an architecture enthusiast, a history buff, or simply someone seeking to appreciate the beauty of historical sites, the Electoral Palace provides an enriching experience.
 
-The palace’s strategic location makes it an integral part of Trier’s urban landscape, allowing visitors to easily access other historical sites in the city. Its significance goes beyond its architectural beauty, as it played a crucial role in the political and ecclesiastical life of the region. As you stroll through the palace grounds, you will find yourself immersed in the stories and events that have unfolded within its walls. 
+The palace's strategic location makes it an integral part of Trier's urban landscape, allowing visitors to easily access other historical sites in the city. Its significance goes beyond its architectural beauty, as it played a crucial role in the political and ecclesiastical life of the region. As you stroll through the palace grounds, you will find yourself immersed in the stories and events that have unfolded within its walls. 
 
 Visiting the Electoral Palace offers a unique opportunity to engage with both the artistic and historical narratives that continue to influence contemporary society. With its elaborate gardens and stunning architecture, this site promises to leave visitors with lasting memories and a deeper understanding of Trier's heritage.
 
@@ -66,7 +66,7 @@ Trier is a city rich in history and culture, with several notable attractions lo
 
 1. **Trier Cathedral**: This impressive structure, also known as St. Peter's Cathedral, is one of the oldest cathedrals in Germany and a UNESCO World Heritage site. Its architectural styles range from Romanesque to Gothic.
 
-2. **Roman Amphitheater**: This ancient structure, dating back to the 2nd century, once hosted gladiatorial contests and public spectacles. Today, it offers a glimpse into Trier’s Roman past and is a must-see for history enthusiasts.
+2. **Roman Amphitheater**: This ancient structure, dating back to the 2nd century, once hosted gladiatorial contests and public spectacles. Today, it offers a glimpse into Trier's Roman past and is a must-see for history enthusiasts.
 
 3. **Porta Nigra**: Another UNESCO World Heritage site, this well-preserved Roman city gate is emblematic of Trier's Roman heritage and provides insights into the city's historical significance.
 

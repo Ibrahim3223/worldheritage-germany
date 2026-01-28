@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schloss Ernich is a remarkable palace located in the picturesque region of Remagen, Germany. Known for its historical significance and architectural elegance, this site offers visitors a glimpse into the grandeur of past eras. Perched strategically in the scenic landscape, Schloss Ernich serves not only as a cultural landmark but also as a symbol of the region’s rich heritage. The palace invites travelers to explore its storied halls and grounds, promising a memorable experience steeped in history and architecture.
+Schloss Ernich is a remarkable palace located in the picturesque region of Remagen, Germany. Known for its historical significance and architectural elegance, this site offers visitors a glimpse into the grandeur of past eras. Perched strategically in the scenic landscape, Schloss Ernich serves not only as a cultural landmark but also as a symbol of the region's rich heritage. The palace invites travelers to explore its storied halls and grounds, promising a memorable experience steeped in history and architecture.
 
 The significance of Schloss Ernich extends beyond its physical presence; it represents the artistic and cultural movements that have shaped the area over centuries. Visitors will find that the palace provides a unique opportunity to appreciate the craftsmanship and design from different periods, making it an essential stop for those interested in heritage tourism. 
 

@@ -64,7 +64,7 @@ While Zeesener See itself is a serene destination, several nearby attractions en
 
 3. **Zollenspieker Fährhaus**: Located along the banks of the Elbe River, this restaurant and cultural site provide not only delicious local cuisine but also scenic views of the river and surrounding landscapes.
 
-4. **Spreewald**: A UNESCO Biosphere Reserve, this unique area features a network of waterways and is known for its traditional Slavic culture. It’s an excellent destination for canoeing and exploring the lush surroundings.
+4. **Spreewald**: A UNESCO Biosphere Reserve, this unique area features a network of waterways and is known for its traditional Slavic culture. It's an excellent destination for canoeing and exploring the lush surroundings.
 
 5. **Saarow**: Known for its spa facilities, Saarow offers visitors a chance to unwind and enjoy wellness treatments in a beautiful natural setting, complementing a visit to Zeesener See.
 

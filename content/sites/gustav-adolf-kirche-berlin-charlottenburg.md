@@ -28,7 +28,7 @@ image_srcset:
 
 The Gustav-Adolf-Kirche in Berlin-Charlottenburg is a striking church building that serves as a significant landmark within the Charlottenburg-Wilmersdorf district. Renowned for its architectural elegance and serene ambiance, this church is not just a place of worship but a cultural touchstone for the local community. Located at coordinates 52.5283, 13.2989, this structure invites visitors to explore its historical and spiritual significance.
 
-As one of the notable church buildings in Berlin, the Gustav-Adolf-Kirche reflects the city's rich heritage and evolving identity. Visitors will find a blend of architectural beauty and a tranquil atmosphere, making it an ideal spot for reflection and exploration. The church stands amidst the vibrant backdrop of Charlottenburg, an area known for its lush parks and historical sites. Whether you’re a history enthusiast or a casual traveler, the Gustav-Adolf-Kirche promises a meaningful experience that resonates with both the past and present.
+As one of the notable church buildings in Berlin, the Gustav-Adolf-Kirche reflects the city's rich heritage and evolving identity. Visitors will find a blend of architectural beauty and a tranquil atmosphere, making it an ideal spot for reflection and exploration. The church stands amidst the vibrant backdrop of Charlottenburg, an area known for its lush parks and historical sites. Whether you're a history enthusiast or a casual traveler, the Gustav-Adolf-Kirche promises a meaningful experience that resonates with both the past and present.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ Seasonal considerations can enhance your visit. In the spring and summer, the ga
 A visit typically takes between 30 minutes to an hour, allowing time to explore the church and reflect.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s best to check for any specific restrictions upon entering.
+Photography may be permitted, but it's best to check for any specific restrictions upon entering.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.
@@ -95,7 +95,7 @@ Guided tours may be available; check the official website for details on schedul
 Morning and early afternoon during weekdays generally offer a quieter atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility features may be present, but it’s advisable to check the official website for confirmation.
+Accessibility features may be present, but it's advisable to check the official website for confirmation.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing and any associated fees.

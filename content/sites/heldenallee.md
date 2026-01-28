@@ -42,7 +42,7 @@ The overall ambiance of Heldenallee is designed to encourage introspection. The 
 
 ## Visiting Information
 
-Visiting Heldenallee offers a meaningful experience for those interested in history, memorials, and the social implications of war. To reach the memorial, visitors can utilize various transportation options available in Ebersberg. The site’s coordinates are 48.087030106, 11.963126708, making it accessible for those traveling by car or public transport.
+Visiting Heldenallee offers a meaningful experience for those interested in history, memorials, and the social implications of war. To reach the memorial, visitors can utilize various transportation options available in Ebersberg. The site's coordinates are 48.087030106, 11.963126708, making it accessible for those traveling by car or public transport.
 
 For the most accurate information regarding visiting hours and any associated fees, check the official website for current information. It is advisable to allocate sufficient time to explore the memorial and engage in quiet reflection. A visit of approximately one to two hours is recommended, allowing visitors to fully absorb the significance of the site.
 

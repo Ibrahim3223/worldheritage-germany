@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the quaint region of Hiddenhausen, Germany, lies Gut Bustedt, a manor house that embodies the charm and grace of traditional German architecture. This historic estate offers a glimpse into the country’s rich cultural heritage, making it an intriguing destination for heritage enthusiasts and casual visitors alike. Surrounded by picturesque landscapes, Gut Bustedt is not only an architectural marvel but also serves as a cultural touchstone that reflects the lifestyle and history of its era. 
+In the quaint region of Hiddenhausen, Germany, lies Gut Bustedt, a manor house that embodies the charm and grace of traditional German architecture. This historic estate offers a glimpse into the country's rich cultural heritage, making it an intriguing destination for heritage enthusiasts and casual visitors alike. Surrounded by picturesque landscapes, Gut Bustedt is not only an architectural marvel but also serves as a cultural touchstone that reflects the lifestyle and history of its era. 
 
 Visitors to Gut Bustedt can expect to engage with its storied past while enjoying the tranquil atmosphere of the surrounding area. The manor house is a significant landmark within Hiddenhausen, making it a noteworthy stop for those exploring the broader region. Its serene setting provides an excellent opportunity for reflection and appreciation of the architectural styles that define this part of Germany.
 

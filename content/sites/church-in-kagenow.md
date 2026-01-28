@@ -30,7 +30,7 @@ The Church in Kagenow, located in the picturesque region of Mecklenburg-Vorpomme
 
 ## History and Significance
 
-The Church in Kagenow has long played a central role in the life of the community. While specific historical details may be limited, the church serves as a vital link to the town’s past, embodying the traditions and spiritual practices of its residents over generations. The church is part of a broader heritage that reflects the cultural influences that have shaped Mecklenburg-Vorpommern throughout the years.
+The Church in Kagenow has long played a central role in the life of the community. While specific historical details may be limited, the church serves as a vital link to the town's past, embodying the traditions and spiritual practices of its residents over generations. The church is part of a broader heritage that reflects the cultural influences that have shaped Mecklenburg-Vorpommern throughout the years.
 
 Religious buildings such as this one often acted as gathering places, not only for worship but also for community events and social gatherings. They are fundamental to understanding the cultural fabric of the area. Churches in this region frequently showcase the architectural styles and artistic movements that have influenced local design, making them significant landmarks for both residents and visitors alike.
 
@@ -83,7 +83,7 @@ A typical visit to the Church in Kagenow may take around one hour, allowing you 
 Check the official website for current information on photography policies within the church.
 
 ### Are there guided tours?
-Information regarding guided tours can be found on the official website. It’s recommended to check for availability and scheduling.
+Information regarding guided tours can be found on the official website. It's recommended to check for availability and scheduling.
 
 ### What's the best time to visit?
 Early mornings or weekdays are often the best times to visit, as they tend to be less crowded.

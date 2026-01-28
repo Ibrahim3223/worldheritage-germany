@@ -44,7 +44,7 @@ The architecture of Alte Gerberei is emblematic of traditional industrial buildi
 
 Inside, the museum features various displays that highlight the tanning process, complete with artifacts and machinery that offer a tangible connection to the past. The layout is designed to guide visitors through the various stages of leather production, from raw material to finished product. Interactive elements may also be present, encouraging hands-on learning and engagement with the craft.
 
-The museum’s preservation of historical machinery and tools serves not only as an educational resource but also as an important aspect of the site's heritage, embodying the skills and expertise that have been passed down through generations. 
+The museum's preservation of historical machinery and tools serves not only as an educational resource but also as an important aspect of the site's heritage, embodying the skills and expertise that have been passed down through generations. 
 
 ## Visiting Information
 
@@ -58,8 +58,8 @@ Before your visit, consider checking the official website for any special exhibi
 
 While visiting Alte Gerberei, take the opportunity to explore other attractions in Ohrdruf and the surrounding area:
 
-1. **St. Michael’s Church**: A notable historical site that features stunning architecture and rich local history.
-2. **Ohrdruf Castle**: Although in ruins, the castle provides insight into the region’s noble past and offers picturesque views.
+1. **St. Michael's Church**: A notable historical site that features stunning architecture and rich local history.
+2. **Ohrdruf Castle**: Although in ruins, the castle provides insight into the region's noble past and offers picturesque views.
 3. **Thuringian Forest**: Ideal for nature lovers, this expansive area is perfect for hiking and enjoying the natural beauty of Thuringia.
 4. **Gedenkstätte Buchenwald**: A short drive away, this memorial site serves as an important reminder of history and is significant for those interested in WWII history.
 5. **Museum of the City of Ohrdruf**: Offers additional insights into the local history and culture, complementing the experience at Alte Gerberei.
@@ -102,4 +102,4 @@ Information on facilities such as restrooms and cafes is not detailed; checking 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore outdoor areas in the vicinity of the museum. 
 
-In summary, Alte Gerberei offers a unique opportunity to delve into the heritage of tanning and leather production in Germany, making it an essential stop for anyone interested in the region’s industrial history.
+In summary, Alte Gerberei offers a unique opportunity to delve into the heritage of tanning and leather production in Germany, making it an essential stop for anyone interested in the region's industrial history.

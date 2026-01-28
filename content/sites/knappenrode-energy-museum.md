@@ -28,7 +28,7 @@ image_srcset:
 
 The Knappenrode Energy Museum in Hoyerswerda, Germany, presents a fascinating exploration into the world of energy and its evolution over time. This museum plays a pivotal role in showcasing the technological advancements in energy production, particularly focusing on the region's historical context. Situated in a city steeped in industrial heritage, the museum serves not only as an educational institution but also as a cultural hub for locals and visitors alike. 
 
-Hoyerswerda, with its unique industrial past, provides the perfect backdrop for this museum. As you step into Knappenrode, you’re invited to engage with the diverse exhibits that narrate the story of energy—from its origins to contemporary practices. The museum's commitment to education ensures that guests leave with a deeper understanding of the complexities surrounding energy production and consumption. 
+Hoyerswerda, with its unique industrial past, provides the perfect backdrop for this museum. As you step into Knappenrode, you're invited to engage with the diverse exhibits that narrate the story of energy—from its origins to contemporary practices. The museum's commitment to education ensures that guests leave with a deeper understanding of the complexities surrounding energy production and consumption. 
 
 With interactive displays and informative exhibitions, Knappenrode Energy Museum promises an enlightening experience for individuals of all ages, making it a worthwhile stop for those interested in technology, history, and the environment.
 
@@ -52,9 +52,9 @@ Additionally, the museum's educational facilities may include spaces for worksho
 
 Reaching the Knappenrode Energy Museum is relatively straightforward, with various transport options available. Whether choosing to travel by car or public transport, visitors can find convenient routes leading to the museum. The exact details regarding transportation can be checked on the museum's official website, where you can also find current information on operating hours and ticket prices.
 
-When planning your visit, it is advisable to allocate ample time to fully explore the diverse exhibits. It’s recommended that guests spend at least a few hours at the museum to appreciate the depth of information available. 
+When planning your visit, it is advisable to allocate ample time to fully explore the diverse exhibits. It's recommended that guests spend at least a few hours at the museum to appreciate the depth of information available. 
 
-The best times to visit might vary, and it’s wise to consider visiting during weekdays or early in the morning to avoid larger crowds. This can enhance the experience, allowing for a more personal interaction with the exhibits and educational materials.
+The best times to visit might vary, and it's wise to consider visiting during weekdays or early in the morning to avoid larger crowds. This can enhance the experience, allowing for a more personal interaction with the exhibits and educational materials.
 
 Expect to encounter a welcoming atmosphere characterized by knowledgeable staff ready to assist with inquiries. The museum is designed to cater to a wide variety of visitors, including families, school groups, and individuals with a keen interest in energy and technology.
 
@@ -66,7 +66,7 @@ Exploring the region around Hoyerswerda can further enrich your visit to the Kna
    
 2. **Lausitzer Seenland** – This expansive lake district is perfect for outdoor activities such as hiking, cycling, and watersports, providing a refreshing contrast to the museum's indoor experience.
 
-3. **Museum of Local History** – Located nearby, this museum offers additional context to the region’s cultural heritage, focusing on everyday life throughout history.
+3. **Museum of Local History** – Located nearby, this museum offers additional context to the region's cultural heritage, focusing on everyday life throughout history.
 
 4. **Stadtpark Hoyerswerda** – A lovely park ideal for relaxation or a picnic, located just a short distance from the museum.
 
@@ -84,7 +84,7 @@ To enhance your visit to the Knappenrode Energy Museum, consider these insider t
 
 When preparing for your visit to the Knappenrode Energy Museum, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you may spend significant time exploring the exhibits. A camera or smartphone for capturing memorable moments can also be useful, subject to the museum’s photography policy.
+- **What to Bring**: Comfortable walking shoes are recommended, as you may spend significant time exploring the exhibits. A camera or smartphone for capturing memorable moments can also be useful, subject to the museum's photography policy.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather, as traveling to and from the museum may involve outdoor exposure. 
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Knappenrode Energy Museum, here are some pr
 Visitors are encouraged to spend at least a few hours to fully appreciate the exhibits and educational opportunities available at the museum.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check the museum's guidelines upon arrival.
+Photography policies may vary by exhibit. It's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current offerings and scheduling.

@@ -58,7 +58,7 @@ As with many historical sites, it is advisable to check the official website for
 
 While visiting the Friedländer Tor, several nearby attractions can enhance your experience in Neubrandenburg:
 
-1. **St. Mary’s Church (Marienkirche)**: This prominent Gothic church is a short walk from the gate and features stunning stained glass windows and a beautiful interior.
+1. **St. Mary's Church (Marienkirche)**: This prominent Gothic church is a short walk from the gate and features stunning stained glass windows and a beautiful interior.
 
 2. **The Neubrandenburg City Museum**: Located nearby, this museum offers insights into the local history and culture, providing a deeper understanding of the region's heritage.
 
@@ -78,7 +78,7 @@ To avoid crowds, try to visit on weekdays rather than weekends. Early mornings a
 
 When visiting the Friedländer Tor, it is advisable to dress comfortably and wear sturdy footwear, as the surrounding areas may involve some walking. Depending on the season, layering your clothing can be beneficial, as temperatures can fluctuate throughout the day.
 
-Don’t forget to bring a camera to capture the stunning architecture and the vibrant life around the gate. If you plan on exploring more of Neubrandenburg, consider packing a small bag with essentials like water, snacks, or a guidebook to enhance your experience.
+Don't forget to bring a camera to capture the stunning architecture and the vibrant life around the gate. If you plan on exploring more of Neubrandenburg, consider packing a small bag with essentials like water, snacks, or a guidebook to enhance your experience.
 
 ## Frequently Asked Questions
 

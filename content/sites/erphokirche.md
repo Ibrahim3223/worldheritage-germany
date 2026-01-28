@@ -72,7 +72,7 @@ While visiting Erphokirche, several nearby attractions can enhance your experien
 
 To make the most of your visit to Erphokirche, consider the following tips:
 
-- **Photography**: While photography may be allowed, it’s respectful to observe silence and avoid using flash during services or prayer times. Capture the beauty of the architecture during quieter moments for a more intimate experience.
+- **Photography**: While photography may be allowed, it's respectful to observe silence and avoid using flash during services or prayer times. Capture the beauty of the architecture during quieter moments for a more intimate experience.
 
 - **Crowd Avoidance**: Visiting during weekday mornings can help you avoid larger crowds, allowing for a more peaceful exploration of the church. If you wish to attend a service, be sure to check the schedule ahead of time.
 
@@ -105,7 +105,7 @@ Accessibility information is not provided; it is advisable to check the official
 Information regarding ticket purchases is not specified; check the official website for current details.
 
 ### Are there restrooms and cafes?
-While specifics about facilities are not listed, many churches in urban areas typically have nearby amenities. It’s recommended to explore the area around Erphokirche for options.
+While specifics about facilities are not listed, many churches in urban areas typically have nearby amenities. It's recommended to explore the area around Erphokirche for options.
 
 ### What should I wear?
 Modest clothing is typically advisable when visiting places of worship. Comfortable attire is also recommended for exploring the surrounding areas.

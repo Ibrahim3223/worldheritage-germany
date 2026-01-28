@@ -66,7 +66,7 @@ Augsburg is a city rich with attractions that complement a visit to the Naturmus
 
 3. **Augsburg Cathedral** - An architectural marvel, the cathedral features stunning stained glass and a rich history that dates back to the 11th century.
 
-4. **Perlach Tower** - Climb this historic tower for a panoramic view of Augsburg and its surroundings, enhancing your understanding of the city’s layout.
+4. **Perlach Tower** - Climb this historic tower for a panoramic view of Augsburg and its surroundings, enhancing your understanding of the city's layout.
 
 5. **Augsburg Town Hall** - A magnificent example of Renaissance architecture, the town hall houses impressive frescoes and is a key landmark in the city.
 

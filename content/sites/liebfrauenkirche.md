@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Trier, Germany, the Liebfrauenkirche stands as a significant ecclesiastical structure and a point of interest for visitors keen on exploring the city’s rich heritage. This parish church, located at coordinates 49.7558, 6.64306, is not only a place of worship but also a testament to the architectural evolution and cultural landscape of the region. Trier, recognized as one of Germany's oldest cities, offers a captivating backdrop that enhances the church's historical narrative. Its establishment marks an important chapter in the religious and architectural history of the area, drawing both pilgrims and tourists alike.
+In the heart of Trier, Germany, the Liebfrauenkirche stands as a significant ecclesiastical structure and a point of interest for visitors keen on exploring the city's rich heritage. This parish church, located at coordinates 49.7558, 6.64306, is not only a place of worship but also a testament to the architectural evolution and cultural landscape of the region. Trier, recognized as one of Germany's oldest cities, offers a captivating backdrop that enhances the church's historical narrative. Its establishment marks an important chapter in the religious and architectural history of the area, drawing both pilgrims and tourists alike.
 
 The Liebfrauenkirche serves as a vital link to Trier's past, symbolizing the city's longstanding traditions and its role in the development of Christian practices in Germany. Visitors can expect to be enveloped in an atmosphere that resonates with centuries of worship, art, and community gatherings, making it a must-visit site for those interested in heritage and culture. 
 
@@ -101,7 +101,7 @@ Accessibility information is best confirmed through the official website. Many c
 For current information regarding tickets, including online purchasing options, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s advisable to check the official website for the most accurate information.
+Facilities may be available, but it's advisable to check the official website for the most accurate information.
 
 ### What should I wear?
 Modest attire is typically encouraged in places of worship. Comfortable clothing and shoes are recommended for exploration.

@@ -28,7 +28,7 @@ image_srcset:
 
 The Töpfereimuseum Langerwehe is a vibrant celebration of pottery and ceramic art, situated in the quaint town of Langerwehe, Germany. This museum serves not only as a repository of local craftsmanship but also as a cultural landmark that highlights the historical significance of pottery in the region. As visitors step inside, they are greeted by a well-curated collection that reflects the artistry and techniques that have shaped ceramic production over the years. The museum invites enthusiasts and casual visitors alike to engage with the world of ceramics, offering insights into both traditional methods and contemporary practices.
 
-Langerwehe, located in North Rhine-Westphalia, is easily accessible and provides a charming backdrop for this unique museum. The town's rich heritage in pottery makes it an essential stop for those exploring the artistic and cultural landscape of Germany. A visit to the Töpfereimuseum is not just about viewing artifacts; it’s an experience that connects visitors to the craftsmanship that has been passed down through generations.
+Langerwehe, located in North Rhine-Westphalia, is easily accessible and provides a charming backdrop for this unique museum. The town's rich heritage in pottery makes it an essential stop for those exploring the artistic and cultural landscape of Germany. A visit to the Töpfereimuseum is not just about viewing artifacts; it's an experience that connects visitors to the craftsmanship that has been passed down through generations.
 
 ## History and Significance
 
@@ -102,7 +102,7 @@ Weekdays or early mornings are often quieter, providing a more personal experien
 Check the official website for detailed accessibility information, as facilities may vary.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available, so it’s advisable to check the official website for current information.
+Ticket purchasing options may be available, so it's advisable to check the official website for current information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms are usually available; however, check the official website for details on any onsite cafés or dining options.

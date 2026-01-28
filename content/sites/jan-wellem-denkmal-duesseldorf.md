@@ -3,7 +3,7 @@ title: "Jan-Wellem-Denkmal (Düsseldorf)"
 site_name: "Jan-Wellem-Denkmal (Düsseldorf)"
 date: 2026-01-26
 draft: false
-description: "The Jan-Wellem-Denkmal, an iconic statue located in Düsseldorf, Germany, pays homage to one of the most significant figures in the city’s history."
+description: "The Jan-Wellem-Denkmal, an iconic statue located in Düsseldorf, Germany, pays homage to one of the most significant figures in the city's history."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Statue"
@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Jan-Wellem-Denkmal, an iconic statue located in Düsseldorf, Germany, pays homage to one of the most significant figures in the city’s history. Known for his contributions to the arts and urban development, Jan Wellem, or Johann Wilhelm of the Palatinate, left an indelible mark on Düsseldorf during his reign. This statue not only commemorates his legacy but also serves as a focal point for visitors exploring the vibrant cultural landscape of the city. 
+The Jan-Wellem-Denkmal, an iconic statue located in Düsseldorf, Germany, pays homage to one of the most significant figures in the city's history. Known for his contributions to the arts and urban development, Jan Wellem, or Johann Wilhelm of the Palatinate, left an indelible mark on Düsseldorf during his reign. This statue not only commemorates his legacy but also serves as a focal point for visitors exploring the vibrant cultural landscape of the city. 
 
-Situated at coordinates 51.2262, 6.77148, the monument is easily accessible and strategically placed to draw the attention of locals and tourists alike. Whether you are an art enthusiast, a history buff, or simply wandering through the city, a visit to the Jan-Wellem-Denkmal promises a blend of cultural enrichment and visual pleasure. The statue stands as a reminder of the city’s historical narrative and its artistic heritage, embodying the spirit of an era marked by creativity and innovation.
+Situated at coordinates 51.2262, 6.77148, the monument is easily accessible and strategically placed to draw the attention of locals and tourists alike. Whether you are an art enthusiast, a history buff, or simply wandering through the city, a visit to the Jan-Wellem-Denkmal promises a blend of cultural enrichment and visual pleasure. The statue stands as a reminder of the city's historical narrative and its artistic heritage, embodying the spirit of an era marked by creativity and innovation.
 
 ## History and Significance
 
 The Jan-Wellem-Denkmal is a powerful symbol of Düsseldorf's cultural and political history. Jan Wellem, the Elector Palatine, ruled during the late 17th and early 18th centuries, a period characterized by extensive urban development and cultural flourishing in Düsseldorf. His patronage of the arts transformed the city into a center for Baroque culture, attracting artists, architects, and philosophers who contributed to an environment ripe for creativity. 
 
-The statue serves not just as a tribute to Jan Wellem but also reflects the aspirations of Düsseldorf during his rule. It encapsulates a time when the city was evolving, becoming a significant player in the political and cultural landscape of Europe. The monument stands as a testament to the importance of leadership and vision in shaping a city’s identity. 
+The statue serves not just as a tribute to Jan Wellem but also reflects the aspirations of Düsseldorf during his rule. It encapsulates a time when the city was evolving, becoming a significant player in the political and cultural landscape of Europe. The monument stands as a testament to the importance of leadership and vision in shaping a city's identity. 
 
-In addition to its historical significance, the Jan-Wellem-Denkmal has become an integral part of local identity. It is a popular gathering spot and often serves as a backdrop for events, celebrations, and cultural activities. The statue represents both the past and the ongoing narrative of Düsseldorf, making it a vital element of the city’s heritage.
+In addition to its historical significance, the Jan-Wellem-Denkmal has become an integral part of local identity. It is a popular gathering spot and often serves as a backdrop for events, celebrations, and cultural activities. The statue represents both the past and the ongoing narrative of Düsseldorf, making it a vital element of the city's heritage.
 
 ## Architecture and Features
 
@@ -59,7 +59,7 @@ Visitors can expect to spend a brief amount of time at the statue, perhaps aroun
 Düsseldorf is rich in cultural attractions that complement a visit to the Jan-Wellem-Denkmal. Nearby, you can explore:
 
 1. **Kunstsammlung Nordrhein-Westfalen**: A renowned art museum housing an impressive collection of modern and contemporary art.
-2. **Düsseldorf City Hall (Rathaus)**: An architectural gem that offers insights into the city’s governance and history.
+2. **Düsseldorf City Hall (Rathaus)**: An architectural gem that offers insights into the city's governance and history.
 3. **Burgplatz**: A picturesque square that features historical buildings and is often a site for local events.
 4. **Rhine Promenade**: A scenic waterfront area perfect for a leisurely stroll, offering views of the Rhine River and the city skyline.
 5. **St. Lambertus Church**: A historic church known for its unique architecture and bell tower, located not far from the monument.

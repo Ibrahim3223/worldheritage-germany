@@ -77,13 +77,13 @@ While visiting the Museum für Kindheits- und Jugendwerke bedeutender Künstler,
 
 To enhance your visit to the Museum für Kindheits- und Jugendwerke bedeutender Künstler, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some institutions have restrictions on photography in exhibition spaces. If allowed, capturing images of the artworks can enhance your memories of the visit.
+- **Photography**: Check the museum's policy on photography, as some institutions have restrictions on photography in exhibition spaces. If allowed, capturing images of the artworks can enhance your memories of the visit.
 
 - **Crowd Avoidance**: To avoid the busiest times, plan your visit during weekdays or during off-peak hours. Early mornings can often be quieter, allowing for a more personal experience with the exhibits.
 
 ## Practical Information
 
-Before heading to the Museum für Kindheits- und Jugendwerke bedeutender Künstler, it’s wise to prepare for your visit:
+Before heading to the Museum für Kindheits- und Jugendwerke bedeutender Künstler, it's wise to prepare for your visit:
 
 - **What to Bring**: A notebook or sketchbook can be useful for jotting down thoughts or sketches inspired by the exhibits. Comfortable footwear is also recommended, as you may be walking or standing for extended periods.
 
@@ -95,7 +95,7 @@ Before heading to the Museum für Kindheits- und Jugendwerke bedeutender Künstl
 Visitors typically spend around two to three hours at the museum, but this can vary based on individual interests.
 
 ### Is photography allowed?
-Check the museum’s policy on photography before your visit, as restrictions may apply in certain exhibition areas.
+Check the museum's policy on photography before your visit, as restrictions may apply in certain exhibition areas.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on schedules and availability.
@@ -104,7 +104,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekdays and early mornings are often the best times to avoid crowds and enjoy a more intimate experience.
 
 ### Is it wheelchair accessible?
-Most modern museums strive for accessibility, but it’s best to check the official website for specific information.
+Most modern museums strive for accessibility, but it's best to check the official website for specific information.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for information on online ticket sales.

@@ -58,7 +58,7 @@ While Gronauer Schloß itself is a compelling destination, the surrounding area 
 
 1. **Krofdorf-Gleiberg Village**: A quaint village that provides a glimpse into local life, with charming streets and traditional architecture.
 2. **Botanischer Garten Gießen**: A beautiful botanical garden that showcases a diverse range of plant species, perfect for nature lovers.
-3. **Stadtmuseum Gießen**: This museum details the local history and culture, providing context to the area’s development over the centuries.
+3. **Stadtmuseum Gießen**: This museum details the local history and culture, providing context to the area's development over the centuries.
 4. **Alter Friedhof Gießen**: An old cemetery that reflects historical burial customs and features notable graves, offering a peaceful space for contemplation.
 
 ## Insider Tips

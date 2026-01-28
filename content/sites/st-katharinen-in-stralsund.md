@@ -62,7 +62,7 @@ Check the official website for current information regarding hours of operation 
 
 The best times to visit St. Katharinen are during the spring and early autumn months when the weather is pleasant and conducive for exploration. These seasons also see fewer crowds, allowing for a more intimate experience.
 
-Visitors can expect a serene environment conducive to reflection and exploration. The monastery’s layout encourages wandering, with various nooks and crannies to discover, each with its own unique charm.
+Visitors can expect a serene environment conducive to reflection and exploration. The monastery's layout encourages wandering, with various nooks and crannies to discover, each with its own unique charm.
 
 ## Nearby Attractions
 
@@ -72,11 +72,11 @@ While visiting St. Katharinen, there are several nearby attractions worth explor
 
 2. **St. Mary's Church (Marienkirche)**: This impressive Gothic church features stunning stained glass windows and a tall tower offering panoramic views of the city. It is a short walk from the monastery.
 
-3. **Ozeaneum Stralsund**: An aquarium and maritime museum that provides insights into the Baltic Sea’s ecosystems. It’s an engaging spot for families and those interested in marine life.
+3. **Ozeaneum Stralsund**: An aquarium and maritime museum that provides insights into the Baltic Sea's ecosystems. It's an engaging spot for families and those interested in marine life.
 
 4. **The Stralsund Harbor**: A picturesque area perfect for a leisurely walk. Enjoy the views of the harbor, watch the boats, and perhaps enjoy a meal at one of the waterfront restaurants.
 
-5. **Rügen Island**: Just a short drive away, Rügen is Germany’s largest island known for its stunning cliffs and beaches. A great option for a day trip if you’re looking to explore further afield.
+5. **Rügen Island**: Just a short drive away, Rügen is Germany's largest island known for its stunning cliffs and beaches. A great option for a day trip if you're looking to explore further afield.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ To avoid crowds, plan your visit during weekdays, especially outside of peak tou
 
 ## Practical Information
 
-When preparing for your visit to St. Katharinen, consider bringing a camera to capture the site’s beauty, as well as a water bottle to stay hydrated during your exploration. Comfortable footwear is recommended, as you may want to walk around the monastery and nearby attractions.
+When preparing for your visit to St. Katharinen, consider bringing a camera to capture the site's beauty, as well as a water bottle to stay hydrated during your exploration. Comfortable footwear is recommended, as you may want to walk around the monastery and nearby attractions.
 
 Seasonal considerations may impact your experience, so check the weather before your visit. Spring and autumn typically offer mild temperatures, ideal for outdoor activities, while winter can be chilly, requiring warmer clothing.
 
@@ -108,7 +108,7 @@ The best times to visit are during the spring and early autumn months when the w
 Check the official website for specific accessibility information, as features may vary.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for information on online ticket purchases, if available.
+It's advisable to check the official website for information on online ticket purchases, if available.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site. For cafes, explore nearby options in the Old Town of Stralsund.

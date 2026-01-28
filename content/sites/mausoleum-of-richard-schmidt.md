@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mausoleum of Richard Schmidt in Buchholz in der Nordheide, Germany, is a remarkable structure that serves as a final resting place for a significant figure in the region’s history. Situated at coordinates 53.329802777, 9.872725, this mausoleum is not only a site of remembrance but also a cultural landmark that draws visitors interested in heritage and architecture. Buchholz, located in Lower Saxony, is known for its picturesque landscapes and vibrant community, making it an appealing stop for those exploring northern Germany.
+The Mausoleum of Richard Schmidt in Buchholz in der Nordheide, Germany, is a remarkable structure that serves as a final resting place for a significant figure in the region's history. Situated at coordinates 53.329802777, 9.872725, this mausoleum is not only a site of remembrance but also a cultural landmark that draws visitors interested in heritage and architecture. Buchholz, located in Lower Saxony, is known for its picturesque landscapes and vibrant community, making it an appealing stop for those exploring northern Germany.
 
 As you approach the mausoleum, you will find a serene atmosphere that invites reflection. The significance of this site extends beyond its physical presence; it encapsulates the values and sentiments of the local populace towards their history and notable individuals. Visitors can expect to engage with both the artistic and historical narratives that this mausoleum embodies, making it a worthwhile destination for heritage enthusiasts and casual travelers alike.
 
@@ -36,7 +36,7 @@ The history surrounding the Mausoleum of Richard Schmidt is rooted in local cult
 
 Mausoleums traditionally signify a person's prominence and often reflect the societal values of the time they were constructed. In this case, the mausoleum is a representation of the local community's commitment to honoring its influential figures. This site not only memorializes an individual but also serves as a gathering point for reflection on the region's history and contributions to the larger narrative of Germany.
 
-The cultural significance of the mausoleum can be appreciated in the context of the area's development. Buchholz has a rich history that intertwines with various events and trends in German history. Understanding the mausoleum’s place within this larger historical framework allows visitors to appreciate its role as a monument that extends beyond the life of Richard Schmidt.
+The cultural significance of the mausoleum can be appreciated in the context of the area's development. Buchholz has a rich history that intertwines with various events and trends in German history. Understanding the mausoleum's place within this larger historical framework allows visitors to appreciate its role as a monument that extends beyond the life of Richard Schmidt.
 
 ## Architecture and Features
 

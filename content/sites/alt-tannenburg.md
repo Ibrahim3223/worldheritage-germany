@@ -30,7 +30,7 @@ The history of Alt-Tannenburg is intertwined with the broader narrative of medie
 
 Medieval castles like Alt-Tannenburg were often strategically located to oversee surrounding territories, serving both as defensive structures and as symbols of power. They were hubs of social and political life, where decisions were made and alliances formed. The cultural importance of such castles is profound, as they reflect the values, challenges, and lifestyles of the people who inhabited them during their prime.
 
-Alt-Tannenburg likely witnessed numerous historical events, from conflicts to celebrations, shaping the local community's narrative. The castle’s preservation allows for the exploration of these themes, making it a valuable site for understanding the historical context of the region. Visitors who engage with the site can reflect on the enduring impact of such structures on modern society, as they continue to inspire curiosity and respect for the past.
+Alt-Tannenburg likely witnessed numerous historical events, from conflicts to celebrations, shaping the local community's narrative. The castle's preservation allows for the exploration of these themes, making it a valuable site for understanding the historical context of the region. Visitors who engage with the site can reflect on the enduring impact of such structures on modern society, as they continue to inspire curiosity and respect for the past.
 
 ## Architecture and Features
 

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St.-Paulus-Dom, also known as the Cathedral of St. Paul, is a remarkable cathedral located in the heart of Münster, Germany. This architectural marvel not only serves as a central place of worship but also stands as a crucial landmark within the city, reflecting the historical and cultural richness of the region. The cathedral’s stunning design and historical significance make it a key attraction for visitors exploring the vibrant city of Münster.
+St.-Paulus-Dom, also known as the Cathedral of St. Paul, is a remarkable cathedral located in the heart of Münster, Germany. This architectural marvel not only serves as a central place of worship but also stands as a crucial landmark within the city, reflecting the historical and cultural richness of the region. The cathedral's stunning design and historical significance make it a key attraction for visitors exploring the vibrant city of Münster.
 
-Situated in the Münster-Mitte region, St.-Paulus-Dom is a testament to the city’s architectural heritage, drawing both locals and tourists alike. The cathedral's grandeur and intricate details invite exploration, offering insights into the religious and cultural practices that have shaped the area over centuries. As you approach the cathedral, expect to be captivated by its imposing presence and the stories it holds within its walls.
+Situated in the Münster-Mitte region, St.-Paulus-Dom is a testament to the city's architectural heritage, drawing both locals and tourists alike. The cathedral's grandeur and intricate details invite exploration, offering insights into the religious and cultural practices that have shaped the area over centuries. As you approach the cathedral, expect to be captivated by its imposing presence and the stories it holds within its walls.
 
 Visitors to St.-Paulus-Dom can look forward to not only its architectural beauty but also its role in the community and its significance in the broader context of German ecclesiastical history. Whether you are seeking spiritual solace, artistic inspiration, or a deeper understanding of the local heritage, St.-Paulus-Dom promises a fulfilling experience that resonates with history and culture.
 
@@ -36,7 +36,7 @@ Visitors to St.-Paulus-Dom can look forward to not only its architectural beauty
 
 The history of St.-Paulus-Dom is deeply intertwined with the development of Münster itself. While specific dates are absent, the cathedral's origins trace back to the early ecclesiastical structures that served the growing Christian community in the region. Over the centuries, St.-Paulus-Dom has undergone numerous transformations, reflecting the architectural and cultural shifts of different eras.
 
-As a significant religious site, the cathedral has been a center for ecclesiastical governance and community gatherings. It has witnessed pivotal moments in Münster’s history, including the Peace of Westphalia, which marked the end of the Thirty Years' War. The cathedral’s role during this critical period underscores its importance not only as a place of worship but also as a venue for political and diplomatic discussions.
+As a significant religious site, the cathedral has been a center for ecclesiastical governance and community gatherings. It has witnessed pivotal moments in Münster's history, including the Peace of Westphalia, which marked the end of the Thirty Years' War. The cathedral's role during this critical period underscores its importance not only as a place of worship but also as a venue for political and diplomatic discussions.
 
 St.-Paulus-Dom is not merely a religious edifice; it also serves as a symbol of resilience and continuity. Throughout its history, the cathedral has adapted to the needs of its community while preserving its core functions. This adaptability reflects the broader narrative of Münster, a city that has experienced significant challenges but has emerged with a strong sense of identity and heritage.
 
@@ -56,7 +56,7 @@ The cathedral's layout is thoughtfully designed to accommodate both worshippers 
 
 When planning a visit to St.-Paulus-Dom, you will find that the cathedral is centrally located in Münster, making it easily accessible by various modes of transportation. Public transport options, including buses and trams, are available, and the cathedral is within walking distance from several key points in the city.
 
-Check the official website for current information on visiting hours and admission prices, as these can vary seasonally. It is advisable to set aside at least an hour to fully appreciate the cathedral’s architecture, art, and spiritual atmosphere. For those looking to delve deeper, consider joining a guided tour, which can provide valuable insights into the cathedral's history and significance.
+Check the official website for current information on visiting hours and admission prices, as these can vary seasonally. It is advisable to set aside at least an hour to fully appreciate the cathedral's architecture, art, and spiritual atmosphere. For those looking to delve deeper, consider joining a guided tour, which can provide valuable insights into the cathedral's history and significance.
 
 The best times to visit are typically during weekdays when the crowds are smaller, allowing for a more intimate experience. Morning visits often provide a serene environment, while afternoon light enhances the beauty of the stained glass windows. 
 
@@ -68,9 +68,9 @@ As you explore the area surrounding St.-Paulus-Dom, you will find several attrac
 
 1. **Münster Castle**: This historic building, once a residence for the prince-bishops, now houses the University of Münster. Its beautiful gardens and impressive architecture are worth a stroll.
 
-2. **Botanical Garden**: Located nearby, this garden showcases a variety of plant species and offers a tranquil escape from the urban environment. It’s an excellent spot for relaxation and reflection.
+2. **Botanical Garden**: Located nearby, this garden showcases a variety of plant species and offers a tranquil escape from the urban environment. It's an excellent spot for relaxation and reflection.
 
-3. **The Prinzipalmarkt**: This historic marketplace features charming gabled houses and is home to various shops, cafes, and restaurants. It’s a great place to experience local culture and cuisine.
+3. **The Prinzipalmarkt**: This historic marketplace features charming gabled houses and is home to various shops, cafes, and restaurants. It's a great place to experience local culture and cuisine.
 
 4. **The LWL Museum of Art and Culture**: This museum offers a diverse collection of artworks and exhibitions, providing insight into the cultural history of the region.
 
@@ -78,7 +78,7 @@ As you explore the area surrounding St.-Paulus-Dom, you will find several attrac
 
 ## Insider Tips
 
-For the best photography opportunities at St.-Paulus-Dom, consider visiting during the early morning or late afternoon when the natural light enhances the cathedral’s beauty. Be respectful of the sacred space and other visitors while capturing your images.
+For the best photography opportunities at St.-Paulus-Dom, consider visiting during the early morning or late afternoon when the natural light enhances the cathedral's beauty. Be respectful of the sacred space and other visitors while capturing your images.
 
 To avoid crowds, aim to visit during weekdays, especially in the morning. This will allow you to explore the cathedral at a more leisurely pace, soaking in its atmosphere without the hustle and bustle of larger tourist groups.
 

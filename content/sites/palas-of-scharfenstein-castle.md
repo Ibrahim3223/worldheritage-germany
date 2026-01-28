@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Palas of Scharfenstein Castle stands as a poignant remnant of the past, inviting visitors to explore the intriguing history that shaped this remarkable site. Located in the picturesque region of Drebach, Germany, the castle’s ruins offer a glimpse into a bygone era of medieval architecture and nobility. As visitors approach the site, they are greeted by the remnants of the former palas, which once served as a majestic residence and a center of power. This enduring structure, while now in ruins, continues to hold a significant place in the cultural heritage of the area, symbolizing the architectural and historical narratives of the region.
+The Palas of Scharfenstein Castle stands as a poignant remnant of the past, inviting visitors to explore the intriguing history that shaped this remarkable site. Located in the picturesque region of Drebach, Germany, the castle's ruins offer a glimpse into a bygone era of medieval architecture and nobility. As visitors approach the site, they are greeted by the remnants of the former palas, which once served as a majestic residence and a center of power. This enduring structure, while now in ruins, continues to hold a significant place in the cultural heritage of the area, symbolizing the architectural and historical narratives of the region.
 
-Scharfenstein Castle is not just a monument of stone and mortar; it represents a convergence of history, culture, and the natural landscape that surrounds it. The castle’s remnants provide insight into the life of the nobility and the socio-political dynamics of its time. For those eager to delve into the past, the site promises an enriching experience, encouraging exploration and reflection on the lives of those who once inhabited this regal space.
+Scharfenstein Castle is not just a monument of stone and mortar; it represents a convergence of history, culture, and the natural landscape that surrounds it. The castle's remnants provide insight into the life of the nobility and the socio-political dynamics of its time. For those eager to delve into the past, the site promises an enriching experience, encouraging exploration and reflection on the lives of those who once inhabited this regal space.
 
 ## History and Significance
 
@@ -80,7 +80,7 @@ To enhance your experience at the Palas of Scharfenstein Castle, consider the fo
 
 ## Practical Information
 
-When planning your visit, it’s wise to bring along a few essentials:
+When planning your visit, it's wise to bring along a few essentials:
 
 - **Comfortable Footwear**: The terrain can vary, so sturdy shoes are advisable for wandering through the ruins and surrounding areas.
 

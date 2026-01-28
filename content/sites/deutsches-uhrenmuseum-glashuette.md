@@ -76,7 +76,7 @@ To make the most of your visit to the Deutsches Uhrenmuseum Glashütte, consider
 
 - **Crowd Avoidance**: Weekdays are generally less busy compared to weekends. If possible, plan your visit during morning hours to enjoy a quieter experience.
 
-- **Engagement**: Don’t hesitate to ask museum staff questions. They often have valuable insights and can enhance your understanding of the exhibits.
+- **Engagement**: Don't hesitate to ask museum staff questions. They often have valuable insights and can enhance your understanding of the exhibits.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When planning your visit to the Deutsches Uhrenmuseum Glashütte, consider the f
 
 - **Seasonal Considerations**: The museum is an excellent destination year-round. However, consider checking for seasonal events or exhibitions that may enhance your visit.
 
-- **Accessibility**: The museum is designed to accommodate visitors with mobility challenges, but it’s always best to check the official website for specific accessibility features.
+- **Accessibility**: The museum is designed to accommodate visitors with mobility challenges, but it's always best to check the official website for specific accessibility features.
 
 ## Frequently Asked Questions
 

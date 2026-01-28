@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Faunbrunnen, a notable fountain located in the vibrant city of Magdeburg, Germany, is an inviting spot that attracts both locals and visitors. This fountain has become a significant feature of the urban landscape, serving as a meeting point and a symbol of the city’s cultural heritage. Situated at the coordinates 52.1281, 11.6329, Faunbrunnen stands as a reminder of the artistry and craftsmanship that can be found in public spaces. 
+Faunbrunnen, a notable fountain located in the vibrant city of Magdeburg, Germany, is an inviting spot that attracts both locals and visitors. This fountain has become a significant feature of the urban landscape, serving as a meeting point and a symbol of the city's cultural heritage. Situated at the coordinates 52.1281, 11.6329, Faunbrunnen stands as a reminder of the artistry and craftsmanship that can be found in public spaces. 
 
 As you explore the area surrounding Faunbrunnen, you will encounter the unique blend of history and modernity that Magdeburg offers. The fountain not only enhances the aesthetic appeal of its surroundings but also provides an opportunity for reflection and relaxation amid the city's hustle and bustle. Its significance extends beyond mere decoration; it is a focal point that fosters community interaction and appreciation of public art.
 
-Visiting Faunbrunnen is an essential part of experiencing Magdeburg’s cultural offerings. The fountain is easily accessible and is situated within a lively environment, making it a perfect place to pause and soak in the atmosphere of this historic city.
+Visiting Faunbrunnen is an essential part of experiencing Magdeburg's cultural offerings. The fountain is easily accessible and is situated within a lively environment, making it a perfect place to pause and soak in the atmosphere of this historic city.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ Faunbrunnen is characterized by its elegant design, typical of fountains that se
 
 The water feature itself is central to the fountain's charm, providing a soothing sound that adds to the ambiance of the surrounding area. Visitors can expect to see water cascading or flowing in a manner that invites interaction, whether through the playful splashes of children or the tranquil atmosphere it creates for those seeking a moment of respite.
 
-In addition to its artistic features, Faunbrunnen serves a practical purpose. It symbolizes the historical importance of public fountains as sources of water in urban environments. The combination of functionality and artistry makes Faunbrunnen a significant landmark within Magdeburg, reflecting the city’s commitment to integrating public art into everyday life.
+In addition to its artistic features, Faunbrunnen serves a practical purpose. It symbolizes the historical importance of public fountains as sources of water in urban environments. The combination of functionality and artistry makes Faunbrunnen a significant landmark within Magdeburg, reflecting the city's commitment to integrating public art into everyday life.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ Faunbrunnen is conveniently located near several points of interest in Magdeburg
 
 3. **Green Citadel of Magdeburg** - A unique architectural project by artist Friedensreich Hundertwasser, this colorful building is an eye-catching landmark worth exploring.
 
-4. **Museum of Cultural History** - Located nearby, this museum showcases the rich history and culture of Magdeburg, providing deeper insights into the region’s past.
+4. **Museum of Cultural History** - Located nearby, this museum showcases the rich history and culture of Magdeburg, providing deeper insights into the region's past.
 
 5. **Alter Markt** - The historic market square is a vibrant area filled with shops, cafes, and local events, perfect for experiencing the local culture.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Town Hall of Artern, known locally as Rathaus im Kyffhäuserkreis, is a significant civic structure located in the heart of Artern, Germany. This city hall serves not only as a hub for local governance but also as a symbol of community heritage in the Kyffhäuserkreis region of Thüringen. With its historical context and architectural presence, the Town Hall reflects the evolution of civic architecture in Germany while catering to the administrative needs of its citizens.
 
-Situated at coordinates 51.365061553 and 11.290677316, the Town Hall is easily accessible, making it a convenient stop for visitors exploring Artern. The building is integral to the town’s identity, representing both the past and the ongoing journey of the community. As visitors approach, they are greeted by the structure's unique charm, which invites exploration and appreciation of its significance.
+Situated at coordinates 51.365061553 and 11.290677316, the Town Hall is easily accessible, making it a convenient stop for visitors exploring Artern. The building is integral to the town's identity, representing both the past and the ongoing journey of the community. As visitors approach, they are greeted by the structure's unique charm, which invites exploration and appreciation of its significance.
 
 Whether you are a history enthusiast, an architecture aficionado, or simply looking to immerse yourself in local culture, a visit to the Town Hall promises to offer insights into the civic life of Artern. 
 
@@ -97,7 +97,7 @@ Information regarding guided tours may vary. Check the official website for deta
 Weekdays are often quieter, making them ideal for a more personal experience. However, weekends may offer additional local events.
 
 ### Is it wheelchair accessible?
-Details about accessibility are not specified. It’s advisable to contact the Town Hall directly or check the official website for more information.
+Details about accessibility are not specified. It's advisable to contact the Town Hall directly or check the official website for more information.
 
 ### Can I buy tickets online?
 Ticketing information is not specified. For up-to-date information, visit the official website.

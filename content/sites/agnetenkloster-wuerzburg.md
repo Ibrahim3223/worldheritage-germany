@@ -84,7 +84,7 @@ When visiting Agnetenkloster, it's essential to come prepared:
 Most visitors find that one to two hours is sufficient to explore Agnetenkloster and appreciate its historical and architectural significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the sacred nature of the space and avoid using flash.
+Photography is generally permitted, but it's advisable to be respectful of the sacred nature of the space and avoid using flash.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.
@@ -93,7 +93,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekdays or early mornings are ideal for a quieter experience, allowing you to fully absorb the tranquility of the site.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not provided, many historical sites offer limited accessibility. It’s best to inquire directly through the official website for the most accurate information.
+While specific accessibility details are not provided, many historical sites offer limited accessibility. It's best to inquire directly through the official website for the most accurate information.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options, as availability may vary.

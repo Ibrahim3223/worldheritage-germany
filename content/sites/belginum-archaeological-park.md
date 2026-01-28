@@ -71,7 +71,7 @@ For photography enthusiasts, consider visiting early in the morning or later in 
 
 ## Practical Information
 
-When planning your visit to Belginum Archaeological Park, it’s advisable to bring comfortable walking shoes, as the exploration may involve uneven terrain. Seasonal considerations should also be taken into account; if visiting during the colder months, dress warmly and prepare for potentially wet conditions. 
+When planning your visit to Belginum Archaeological Park, it's advisable to bring comfortable walking shoes, as the exploration may involve uneven terrain. Seasonal considerations should also be taken into account; if visiting during the colder months, dress warmly and prepare for potentially wet conditions. 
 
 Additionally, bringing water and snacks can enhance your visit, especially if you plan to spend several hours at the site.
 

@@ -70,7 +70,7 @@ Kunsthalle Rostock is situated close to several notable attractions that enrich 
 
 2. **St. Mary's Church (Marienkirche)**: This impressive Gothic church, known for its beautiful architecture and historical significance, is worth a visit. Take time to admire its stunning stained glass windows and intricate woodwork.
 
-3. **Rostock Zoo**: Located a bit further from the museum, this zoo features a variety of animal species and offers family-friendly activities. It’s an excellent destination for those looking to combine culture with a day of fun.
+3. **Rostock Zoo**: Located a bit further from the museum, this zoo features a variety of animal species and offers family-friendly activities. It's an excellent destination for those looking to combine culture with a day of fun.
 
 4. **University of Rostock**: As one of the oldest universities in Germany, the campus is rich in history and offers beautiful architecture and gardens to explore.
 
@@ -80,7 +80,7 @@ Kunsthalle Rostock is situated close to several notable attractions that enrich 
 
 To enhance your visit to Kunsthalle Rostock, consider bringing a camera, as photography is often allowed in public exhibition areas. However, always check for specific rules regarding photography, as some exhibitions may have restrictions.
 
-To avoid crowds, aim for an early morning visit or plan your trip during weekdays. This will allow you to enjoy the art at a more leisurely pace and engage more deeply with the works on display. If you’re interested in specific exhibitions or events, checking the museum's schedule in advance can help you plan your visit accordingly.
+To avoid crowds, aim for an early morning visit or plan your trip during weekdays. This will allow you to enjoy the art at a more leisurely pace and engage more deeply with the works on display. If you're interested in specific exhibitions or events, checking the museum's schedule in advance can help you plan your visit accordingly.
 
 ## Practical Information
 
@@ -94,7 +94,7 @@ Bringing a small bag for personal items is recommended, but check the museum's p
 A visit to Kunsthalle Rostock typically takes about two to three hours, depending on your interest in the exhibitions and any events taking place.
 
 ### Is photography allowed?
-Photography is generally permitted in exhibition areas, but it’s best to verify any specific restrictions at the time of your visit.
+Photography is generally permitted in exhibition areas, but it's best to verify any specific restrictions at the time of your visit.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be available for certain exhibitions or events.
@@ -103,7 +103,7 @@ Check the official website for information regarding guided tours, as they may b
 Weekdays, especially in the morning, tend to be less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Kunsthalle Rostock strives to be accessible to all visitors; however, it’s advisable to check the official website for specific accessibility features.
+Kunsthalle Rostock strives to be accessible to all visitors; however, it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for current ticketing options, including whether online purchases are available.

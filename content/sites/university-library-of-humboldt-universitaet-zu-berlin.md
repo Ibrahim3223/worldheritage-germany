@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The University Library of Humboldt-Universität zu Berlin, an integral part of one of Germany's most prestigious universities, serves as a vital academic resource and a cultural hub within the vibrant city of Berlin. Located at the coordinates 52.5183, 13.3867, this library is not merely a repository of books and manuscripts; it represents a commitment to knowledge and research that resonates throughout the realms of academia. The library’s significance extends beyond its physical collections, embodying the spirit of intellectual pursuit that the university itself champions.
+The University Library of Humboldt-Universität zu Berlin, an integral part of one of Germany's most prestigious universities, serves as a vital academic resource and a cultural hub within the vibrant city of Berlin. Located at the coordinates 52.5183, 13.3867, this library is not merely a repository of books and manuscripts; it represents a commitment to knowledge and research that resonates throughout the realms of academia. The library's significance extends beyond its physical collections, embodying the spirit of intellectual pursuit that the university itself champions.
 
 As you approach the library, you are greeted by its architectural presence, a symbol of the educational ideals espoused by the Humboldt brothers. Its collections cater to a diverse range of disciplines, making it an essential stop for students, researchers, and all those interested in the pursuit of knowledge. The library invites visitors to engage with its vast resources while also providing a serene environment conducive to study and reflection.
 
@@ -34,7 +34,7 @@ Whether you are a scholar seeking specific texts or a curious traveler hoping to
 
 ## History and Significance
 
-The University Library of Humboldt-Universität zu Berlin has evolved alongside the university itself, which was founded in 1810 and became a model for higher education worldwide. Although precise dates of significant events in the library's history are not detailed, its development has paralleled the university's commitment to research and education. The library has played a crucial role in supporting the university’s mission by providing access to a vast array of academic resources, including books, journals, and digital media.
+The University Library of Humboldt-Universität zu Berlin has evolved alongside the university itself, which was founded in 1810 and became a model for higher education worldwide. Although precise dates of significant events in the library's history are not detailed, its development has paralleled the university's commitment to research and education. The library has played a crucial role in supporting the university's mission by providing access to a vast array of academic resources, including books, journals, and digital media.
 
 The library serves as a cultural landmark in Berlin, representing the intellectual legacy of the Humboldt family, who were pivotal in shaping the modern educational system. Wilhelm and Alexander von Humboldt emphasized the importance of integrating teaching and research, a philosophy that the library embodies through its extensive collections and support services. The library's resources facilitate interdisciplinary studies, reflecting the university's commitment to fostering an environment where diverse fields of knowledge can intersect.
 
@@ -56,7 +56,7 @@ Visiting the University Library of Humboldt-Universität zu Berlin offers a uniq
 
 - **Transport:** The library is accessible via public transport, making it easy to reach from various parts of Berlin. Check local transit options to find the best routes for your journey.
 
-- **Check the official website for hours/prices:** Operating hours may vary, so it is advisable to visit the library’s official website for the most current information regarding opening times and any potential entry fees. 
+- **Check the official website for hours/prices:** Operating hours may vary, so it is advisable to visit the library's official website for the most current information regarding opening times and any potential entry fees. 
 
 - **What to expect:** Visitors can expect a quiet, studious atmosphere, with areas designated for both individual study and group work. The library's layout is conducive to both focused research and leisurely exploration of its collections.
 
@@ -76,7 +76,7 @@ While visiting the University Library of Humboldt-Universität zu Berlin, take a
 
 4. **Potsdamer Platz:** A modern square known for its vibrant atmosphere, shopping, and entertainment options, it contrasts sharply with the historical surroundings of the library.
 
-5. **Brandenburg Gate:** An enduring symbol of Berlin, the Brandenburg Gate is a must-see landmark that embodies the city’s tumultuous history and unification.
+5. **Brandenburg Gate:** An enduring symbol of Berlin, the Brandenburg Gate is a must-see landmark that embodies the city's tumultuous history and unification.
 
 ## Insider Tips
 

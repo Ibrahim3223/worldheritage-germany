@@ -72,7 +72,7 @@ Freiburg Charterhouse is situated near several attractions that complement a vis
 
 For those planning a visit to Freiburg Charterhouse, consider the following tips to enhance your experience:
 
-- **Photography**: While photography may be allowed in certain areas, it’s respectful to check for any restrictions, especially within places of worship. Capturing the serene ambiance can be rewarding, but be mindful of the environment.
+- **Photography**: While photography may be allowed in certain areas, it's respectful to check for any restrictions, especially within places of worship. Capturing the serene ambiance can be rewarding, but be mindful of the environment.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider arriving during off-peak hours. Early mornings or weekdays may provide a quieter atmosphere, allowing for deeper reflection.
 

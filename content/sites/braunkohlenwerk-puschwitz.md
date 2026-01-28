@@ -88,7 +88,7 @@ When preparing for your visit to Braunkohlenwerk Puschwitz, consider the followi
 A visit typically takes 2-3 hours. This allows enough time to explore the factory and engage with any educational displays.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for specific restrictions in certain areas of the site.
+Photography is generally permitted, but it's advisable to check for specific restrictions in certain areas of the site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available on specific days or during special events.

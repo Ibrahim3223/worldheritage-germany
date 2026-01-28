@@ -58,15 +58,15 @@ The best time to visit is during the spring and early autumn months when the wea
 
 Heidelberg is home to several notable attractions that complement a visit to Palais Weimar. Nearby sites include:
 
-1. **Heidelberg Castle**: A short distance from the palace, this iconic castle offers stunning views and a glimpse into the city’s medieval past.
+1. **Heidelberg Castle**: A short distance from the palace, this iconic castle offers stunning views and a glimpse into the city's medieval past.
   
-2. **Philosopher’s Walk (Philosophenweg)**: This scenic pathway provides lovely views of the Neckar River and the old town, ideal for a leisurely hike.
+2. **Philosopher's Walk (Philosophenweg)**: This scenic pathway provides lovely views of the Neckar River and the old town, ideal for a leisurely hike.
   
 3. **Old Bridge (Alte Brücke)**: An architectural marvel, this bridge connects the old town with the opposite bank of the river, providing picturesque views of the castle and city.
 
 4. **Heidelberg University**: One of the oldest universities in Germany, its historic buildings and vibrant campus life make it a worthwhile stop.
 
-5. **German Pharmacy Museum**: Located near the castle, this museum showcases the history of pharmacy and medicine, reflecting the city’s educational heritage.
+5. **German Pharmacy Museum**: Located near the castle, this museum showcases the history of pharmacy and medicine, reflecting the city's educational heritage.
 
 ## Insider Tips
 

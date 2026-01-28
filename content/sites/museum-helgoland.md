@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Museum Helgoland serves as a cultural touchstone in the small German archipelago of Heligoland, an area renowned for its unique history and vibrant marine environment. Situated within the North Sea, this museum offers visitors a chance to explore the distinctive heritage of the islands alongside their natural beauty. The museum’s collection reflects the intricate relationship between the people of Helgoland and their environment, providing insights into the island's cultural evolution and maritime significance. 
+Museum Helgoland serves as a cultural touchstone in the small German archipelago of Heligoland, an area renowned for its unique history and vibrant marine environment. Situated within the North Sea, this museum offers visitors a chance to explore the distinctive heritage of the islands alongside their natural beauty. The museum's collection reflects the intricate relationship between the people of Helgoland and their environment, providing insights into the island's cultural evolution and maritime significance. 
 
 As a destination, Museum Helgoland is not just for history enthusiasts; it attracts a diverse audience, including families, scholars, and nature lovers. Visitors can delve into the stories behind the island's past, exploring everything from its role in maritime trade to its significance during various historical conflicts. The museum's commitment to education and preservation makes it a vital part of Helgoland's identity, ensuring that the stories of its inhabitants are shared and celebrated.
 
@@ -36,7 +36,7 @@ Museum Helgoland has evolved as a crucial institution for preserving the multifa
 
 The museum's exhibits reflect the island's significance during different periods, including its role in maritime navigation and trade. It showcases artifacts and documents that highlight the everyday life of the island's inhabitants, their traditions, and their struggles. The cultural importance of the museum lies not only in preserving physical objects but also in curating memories and stories that encapsulate the spirit of Helgoland.
 
-Additionally, the museum plays an essential role in fostering a sense of community and continuity among the locals. It provides a space for residents and visitors alike to connect with Helgoland's heritage, ensuring that the island's unique identity remains vibrant amid modern changes. This dedication to cultural preservation makes Museum Helgoland an integral part of the island’s ongoing narrative.
+Additionally, the museum plays an essential role in fostering a sense of community and continuity among the locals. It provides a space for residents and visitors alike to connect with Helgoland's heritage, ensuring that the island's unique identity remains vibrant amid modern changes. This dedication to cultural preservation makes Museum Helgoland an integral part of the island's ongoing narrative.
 
 ## Architecture and Features
 

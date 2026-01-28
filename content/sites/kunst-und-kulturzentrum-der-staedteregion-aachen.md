@@ -80,7 +80,7 @@ To avoid peak crowds, plan your visit during special exhibitions or events, whic
 
 When visiting the Kunst- und Kulturzentrum, it is advisable to bring along essentials such as a camera, a notepad for jotting down thoughts, and comfortable walking shoes. Given the potential for varying weather conditions, dressing in layers is recommended to accommodate changes in temperature. 
 
-For seasonal considerations, check the museum’s website for any special events or exhibitions that might be taking place during your visit. These can greatly enhance your experience and provide insight into the local culture.
+For seasonal considerations, check the museum's website for any special events or exhibitions that might be taking place during your visit. These can greatly enhance your experience and provide insight into the local culture.
 
 ## Frequently Asked Questions
 

@@ -80,7 +80,7 @@ While the Princely Abbey of Corvey is a highlight in itself, there are several n
 
 For those planning a visit to the Princely Abbey of Corvey, consider these insider tips to enhance your experience:
 
-- **Photography Tips**: The abbey’s architecture offers stunning photo opportunities. Early mornings or late afternoons provide the best natural light, and exploring different angles can yield unique shots. Be mindful of any photography restrictions inside the church.
+- **Photography Tips**: The abbey's architecture offers stunning photo opportunities. Early mornings or late afternoons provide the best natural light, and exploring different angles can yield unique shots. Be mindful of any photography restrictions inside the church.
 
 - **Crowd Avoidance**: To avoid larger crowds, aim to visit during weekdays or outside of peak tourist seasons. Early mornings are also generally quieter.
 

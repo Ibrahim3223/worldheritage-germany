@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kirche im Diakoniewerk is an architectural and spiritual landmark located in Halle (Saale), Saxony-Anhalt, Germany. This church building serves not only as a place of worship but also as a vital part of the community, reflecting the intricate relationship between faith and social service in the region. It stands as a symbol of the Diakoniewerk’s commitment to providing care and support to those in need, making it a significant point of interest for visitors exploring the cultural and spiritual landscape of Halle.
+The Kirche im Diakoniewerk is an architectural and spiritual landmark located in Halle (Saale), Saxony-Anhalt, Germany. This church building serves not only as a place of worship but also as a vital part of the community, reflecting the intricate relationship between faith and social service in the region. It stands as a symbol of the Diakoniewerk's commitment to providing care and support to those in need, making it a significant point of interest for visitors exploring the cultural and spiritual landscape of Halle.
 
 The church is situated in a region known for its historical significance and vibrant culture, offering visitors a unique opportunity to delve into the religious heritage of Germany. With its inviting atmosphere and community-oriented mission, Kirche im Diakoniewerk welcomes both worshippers and travelers alike, promising an enriching experience steeped in values of compassion and care.
 
@@ -58,7 +58,7 @@ Upon arrival, visitors can expect a serene atmosphere conducive to reflection an
 
 Duration of your visit can depend on your interests. If you are primarily there to appreciate the architecture and reflect, a visit of around an hour may suffice. However, if you plan to engage more deeply with services or community activities, you may wish to allocate additional time.
 
-The best times to visit would typically be during regular worship services or community events when the church is bustling with activity. Engaging with these events can provide deeper insight into the church’s role within the community.
+The best times to visit would typically be during regular worship services or community events when the church is bustling with activity. Engaging with these events can provide deeper insight into the church's role within the community.
 
 ## Nearby Attractions
 
@@ -78,11 +78,11 @@ Exploring Halle (Saale) provides an opportunity to experience a variety of attra
 
 When visiting Kirche im Diakoniewerk, consider these insider tips to enhance your experience:
 
-- **Photography**: If you wish to capture the beauty of the church, be mindful of any restrictions on photography, especially during worship services. It’s always best to ask for permission or check for signage.
+- **Photography**: If you wish to capture the beauty of the church, be mindful of any restrictions on photography, especially during worship services. It's always best to ask for permission or check for signage.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during the week or during early morning hours. This will allow for a more peaceful experience as you explore the church and its surroundings.
 
-- **Engagement**: If available, participate in any community events or services during your visit. This can provide a richer understanding of the church’s role in the community and offer opportunities to interact with locals.
+- **Engagement**: If available, participate in any community events or services during your visit. This can provide a richer understanding of the church's role in the community and offer opportunities to interact with locals.
 
 ## Practical Information
 
@@ -106,10 +106,10 @@ Photography policies can vary. It is advisable to check for any signage or ask f
 Information on guided tours is not specified. It is recommended to check the official website for any available options.
 
 ### What's the best time to visit?
-Visiting during regular worship services or community events can enhance your experience, providing insight into the church’s role in the community.
+Visiting during regular worship services or community events can enhance your experience, providing insight into the church's role in the community.
 
 ### Is it wheelchair accessible?
-Specific accessibility information is not provided. It’s best to visit the official website for details regarding wheelchair access.
+Specific accessibility information is not provided. It's best to visit the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Details about ticket purchasing for services or events are not mentioned. Please check the official website for more information.

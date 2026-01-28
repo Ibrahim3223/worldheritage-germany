@@ -22,7 +22,7 @@ images:
 
 The Öffentliche Evangelische Gemeindebücherei Solingen Dorp serves as a vital cultural hub within the region of Solingen, Germany. This library is more than just a repository for books; it is a community space that fosters learning, creativity, and connection among residents. Located at coordinates 51.16038, 7.10337, the library is easily accessible, inviting visitors to delve into a wealth of knowledge and resources. Its significance lies not only in the services it provides but also in its role as a gathering place for those who seek to engage with literature and educational programs.
 
-As part of the broader German library network, this institution reflects the country’s commitment to education and cultural enrichment. In an era where digital resources are abundant, the Öffentliche Evangelische Gemeindebücherei Solingen Dorp stands out by offering a tangible experience that encourages reading, research, and community involvement. Whether you are a local resident or a visitor, this library promises a unique insight into the literary and educational landscape of Solingen.
+As part of the broader German library network, this institution reflects the country's commitment to education and cultural enrichment. In an era where digital resources are abundant, the Öffentliche Evangelische Gemeindebücherei Solingen Dorp stands out by offering a tangible experience that encourages reading, research, and community involvement. Whether you are a local resident or a visitor, this library promises a unique insight into the literary and educational landscape of Solingen.
 
 ## History and Significance
 
@@ -93,7 +93,7 @@ The library is typically designed to accommodate all visitors, but it is advisab
 Check the official website for information on any events or programs that may require tickets.
 
 ### Are there restrooms and cafes?
-Restroom facilities are generally available, but check the library’s amenities for specific offerings.
+Restroom facilities are generally available, but check the library's amenities for specific offerings.
 
 ### What should I wear?
 Dress comfortably, especially if you plan to spend several hours reading or studying.

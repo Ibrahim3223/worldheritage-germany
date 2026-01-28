@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Stiftung Flucht, Vertreibung, Versöhnung, or Foundation for Flight, Expulsion, and Reconciliation, serves as a profound space for reflection and education in Berlin’s Friedrichshain-Kreuzberg district. This museum delves into the complex narratives surrounding the forced migrations and displacements that have shaped modern Germany, particularly in the context of the aftermath of World War II. With its strategic location in one of Berlin's vibrant neighborhoods, the museum invites visitors to engage with the historical and emotional aspects of dislocation, reconciliation, and the human experience.
+The Stiftung Flucht, Vertreibung, Versöhnung, or Foundation for Flight, Expulsion, and Reconciliation, serves as a profound space for reflection and education in Berlin's Friedrichshain-Kreuzberg district. This museum delves into the complex narratives surrounding the forced migrations and displacements that have shaped modern Germany, particularly in the context of the aftermath of World War II. With its strategic location in one of Berlin's vibrant neighborhoods, the museum invites visitors to engage with the historical and emotional aspects of dislocation, reconciliation, and the human experience.
 
 The significance of this museum lies not only in its dedication to preserving the stories of millions affected by expulsion but also in fostering dialogue about the past and its implications for our present and future. By weaving together personal testimonies, multimedia displays, and educational resources, the Stiftung Flucht, Vertreibung, Versöhnung aims to create a comprehensive understanding of the consequences of displacement.
 
@@ -36,7 +36,7 @@ Visitors to the museum can anticipate a thought-provoking experience that emphas
 
 The Stiftung Flucht, Vertreibung, Versöhnung was established to address the historical context of the mass displacements that occurred during and after World War II. The museum specifically focuses on the experiences of individuals and families who were uprooted from their homes, highlighting the broader socio-political ramifications of these events. The narrative of flight and expulsion is a crucial chapter in Germany's history, with millions of people affected by forced migration due to geopolitical changes, including the shifting borders and the aftermath of Nazi policies.
 
-The museum serves as a critical platform for education and remembrance. It aims to raise awareness about the historical injustices faced by many displaced persons, fostering a deeper understanding of their stories and struggles. In doing so, the Stiftung Flucht, Vertreibung, Versöhnung contributes to contemporary discussions about migration, identity, and human rights, encouraging visitors to reflect on the ongoing implications of displacement in today’s global society.
+The museum serves as a critical platform for education and remembrance. It aims to raise awareness about the historical injustices faced by many displaced persons, fostering a deeper understanding of their stories and struggles. In doing so, the Stiftung Flucht, Vertreibung, Versöhnung contributes to contemporary discussions about migration, identity, and human rights, encouraging visitors to reflect on the ongoing implications of displacement in today's global society.
 
 Through its exhibitions, the museum not only preserves the memories of those who suffered but also seeks to create a space for dialogue and reconciliation. The personal stories of survivors and their descendants are integral to the museum's mission, as they provide insights into the emotional and social impacts of displacement. The museum thus acts as a bridge between the past and the present, urging visitors to consider how history informs current and future challenges related to migration and community.
 
@@ -70,7 +70,7 @@ While visiting Stiftung Flucht, Vertreibung, Versöhnung, you may wish to explor
 
 4. **Museum der Dinge (Museum of Things)**: This museum showcases the history of everyday objects, inviting visitors to reflect on the relationship between material culture and society.
 
-5. **Markthalle Neun**: A vibrant market hall that features a variety of local food vendors, artisan products, and cultural events, providing a taste of Berlin’s culinary scene.
+5. **Markthalle Neun**: A vibrant market hall that features a variety of local food vendors, artisan products, and cultural events, providing a taste of Berlin's culinary scene.
 
 ## Insider Tips
 

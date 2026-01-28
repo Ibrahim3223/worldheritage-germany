@@ -60,7 +60,7 @@ Gerstungen is situated in a region rich with attractions that complement a visit
 
 3. **Thuringian Forest** - A natural area that provides opportunities for hiking and outdoor activities, perfect for those looking to experience the scenic beauty of the region.
 
-4. **Bach House Eisenach** - This museum is dedicated to the life and work of Johann Sebastian Bach, featuring exhibits that celebrate the composer’s contributions to music.
+4. **Bach House Eisenach** - This museum is dedicated to the life and work of Johann Sebastian Bach, featuring exhibits that celebrate the composer's contributions to music.
 
 5. **The Lutherhaus Eisenach** - A museum dedicated to Martin Luther, showcasing his ties to the region and the impact of the Reformation.
 
@@ -72,7 +72,7 @@ When visiting the Heimatmuseum Gerstungen, consider bringing a camera to capture
 
 To avoid crowds, aim for visits during weekdays or early in the day. This approach not only makes for a more peaceful experience but also allows for more personal engagement with the exhibits.
 
-If you're interested in learning more about specific displays, don’t hesitate to ask museum staff for additional insights; they can often provide valuable context that enhances your understanding of the artifacts.
+If you're interested in learning more about specific displays, don't hesitate to ask museum staff for additional insights; they can often provide valuable context that enhances your understanding of the artifacts.
 
 ## Practical Information
 

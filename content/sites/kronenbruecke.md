@@ -36,7 +36,7 @@ While specific historical details about the Kronenbrücke may not be readily ava
 
 Bridges in urban landscapes typically represent more than mere physical structures; they are often linked to the social and economic life of the city. The Kronenbrücke, by serving its purpose as a thoroughfare, has likely played a role in fostering community interactions and supporting local businesses. Such structures often embody the spirit of resilience and innovation, reflecting the evolving needs of urban populations while preserving the character of the area.
 
-Today, the Kronenbrücke stands as part of Freiburg’s cultural heritage, inviting visitors to consider not only the engineering that went into its construction but also the stories of the countless individuals who have crossed it. As you walk across, you may reflect on its role in the city's narrative — a bridge that symbolizes continuity and connection in a city that has adapted through centuries of change.
+Today, the Kronenbrücke stands as part of Freiburg's cultural heritage, inviting visitors to consider not only the engineering that went into its construction but also the stories of the countless individuals who have crossed it. As you walk across, you may reflect on its role in the city's narrative — a bridge that symbolizes continuity and connection in a city that has adapted through centuries of change.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ The aesthetic appeal of the Kronenbrücke is further enhanced by its setting wit
 
 ## Visiting Information
 
-To reach the Kronenbrücke, visitors can utilize Freiburg’s efficient public transportation system, which includes trams and buses that connect to various parts of the city. Walking or cycling to the bridge is also a popular option given Freiburg’s pedestrian-friendly layout.
+To reach the Kronenbrücke, visitors can utilize Freiburg's efficient public transportation system, which includes trams and buses that connect to various parts of the city. Walking or cycling to the bridge is also a popular option given Freiburg's pedestrian-friendly layout.
 
 When planning your visit, it is advisable to check the official website for current information regarding hours and any potential restrictions. The bridge can be enjoyed at any time of day, but early mornings or late afternoons may offer a quieter experience, allowing for a more peaceful stroll and the opportunity to appreciate the surroundings without the hustle and bustle of peak hours.
 

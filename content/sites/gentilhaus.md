@@ -40,7 +40,7 @@ The cultural importance of Gentilhaus is underscored by its role in encouraging 
 
 ## Architecture and Features
 
-Gentilhaus exhibits a unique architectural style that complements its function as an art museum. While specific details about the building’s design and construction are not provided, one can appreciate the intrinsic connection between architecture and art within such spaces. The layout of the museum is likely designed to enhance the visitor experience, allowing for a seamless flow from one exhibit to another.
+Gentilhaus exhibits a unique architectural style that complements its function as an art museum. While specific details about the building's design and construction are not provided, one can appreciate the intrinsic connection between architecture and art within such spaces. The layout of the museum is likely designed to enhance the visitor experience, allowing for a seamless flow from one exhibit to another.
 
 As visitors traverse the gallery spaces, they will encounter various features that contribute to the ambiance of the museum. Natural light may play a pivotal role in illuminating the artworks, creating an inviting atmosphere that enhances the viewing experience. The arrangement of the exhibits is typically curated to facilitate engagement with the art, allowing for both intimate encounters with individual pieces and broader thematic explorations across different sections.
 
@@ -66,7 +66,7 @@ When visiting Gentilhaus, consider exploring other nearby attractions that compl
 
 4. **Park Schönbusch** - A serene park that features picturesque landscapes, walking paths, and charming sculptures, perfect for a leisurely stroll after visiting the museum.
 
-5. **Aschaffenburg City Museum** - This museum focuses on the history and culture of Aschaffenburg, offering further context to the city’s artistic and historical significance.
+5. **Aschaffenburg City Museum** - This museum focuses on the history and culture of Aschaffenburg, offering further context to the city's artistic and historical significance.
 
 ## Insider Tips
 

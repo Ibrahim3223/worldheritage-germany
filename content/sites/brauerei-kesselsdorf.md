@@ -30,7 +30,7 @@ The origins of Brauerei Kesselsdorf are not extensively documented, but brewerie
 
 The brewery's trademark is a symbol of its dedication to quality, emphasizing that each batch is produced with care and precision. The significance of Brauerei Kesselsdorf extends beyond just the production of beer; it serves as a gathering place for the community, fostering connections among locals and visitors alike. Events and tastings often take place here, further solidifying its role as a cultural hub.
 
-Brauerei Kesselsdorf is also a reminder of the importance of local breweries in Germany's economic landscape. These establishments not only produce beverages but also contribute to the local economy by creating jobs and supporting local suppliers. The brewery’s commitment to maintaining traditional brewing techniques highlights the ongoing relevance of these practices in an ever-evolving industry.
+Brauerei Kesselsdorf is also a reminder of the importance of local breweries in Germany's economic landscape. These establishments not only produce beverages but also contribute to the local economy by creating jobs and supporting local suppliers. The brewery's commitment to maintaining traditional brewing techniques highlights the ongoing relevance of these practices in an ever-evolving industry.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ Brauerei Kesselsdorf is accessible via various modes of transport, making it a c
 
 The best times to visit can vary, but weekdays may offer a quieter experience, while weekends often feature more activity and events. Regardless of when you choose to go, expect to engage with knowledgeable staff who are passionate about their craft and eager to share their expertise.
 
-During your visit, be prepared for an experience that often includes sampling the brewery’s various beers. This aspect can enhance your understanding of the different styles and flavors that Brauerei Kesselsdorf has to offer.
+During your visit, be prepared for an experience that often includes sampling the brewery's various beers. This aspect can enhance your understanding of the different styles and flavors that Brauerei Kesselsdorf has to offer.
 
 ## Nearby Attractions
 

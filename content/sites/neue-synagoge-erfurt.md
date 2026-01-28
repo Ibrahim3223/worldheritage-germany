@@ -3,7 +3,7 @@ title: "Neue Synagoge (Erfurt)"
 site_name: "Neue Synagoge (Erfurt)"
 date: 2026-01-26
 draft: false
-description: "The Neue Synagoge in Erfurt serves as a poignant reminder of the city’s Jewish heritage and the resilience of its community."
+description: "The Neue Synagoge in Erfurt serves as a poignant reminder of the city's Jewish heritage and the resilience of its community."
 region: "Saxony-Anhalt"
 country: "Germany"
 heritage_type: "Synagogue"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Neue Synagoge in Erfurt serves as a poignant reminder of the city’s Jewish heritage and the resilience of its community. Located in the heart of Erfurt, Germany, this synagogue was constructed on the site of the Große Synagoge, which was tragically destroyed during the events of Kristallnacht in 1938. This modern structure not only honors the memory of those who worshipped in the original synagogue but also symbolizes the rebirth of Jewish life in the region. With its compelling narrative and architectural significance, the Neue Synagoge invites visitors to reflect on the past while looking toward a more hopeful future.
+The Neue Synagoge in Erfurt serves as a poignant reminder of the city's Jewish heritage and the resilience of its community. Located in the heart of Erfurt, Germany, this synagogue was constructed on the site of the Große Synagoge, which was tragically destroyed during the events of Kristallnacht in 1938. This modern structure not only honors the memory of those who worshipped in the original synagogue but also symbolizes the rebirth of Jewish life in the region. With its compelling narrative and architectural significance, the Neue Synagoge invites visitors to reflect on the past while looking toward a more hopeful future.
 
-Erfurt, the capital of Thuringia, is known for its well-preserved medieval architecture and vibrant cultural scene, making it a captivating stop on any heritage tour. The city’s history is intricately linked to its Jewish community, which dates back to the Middle Ages. This modern synagogue stands as a focal point for understanding the complexities of Jewish history in Germany, from flourishing cultural life to the devastating impacts of the Holocaust, and offers an opportunity to engage with the ongoing dialogue about diversity and tolerance in contemporary society.
+Erfurt, the capital of Thuringia, is known for its well-preserved medieval architecture and vibrant cultural scene, making it a captivating stop on any heritage tour. The city's history is intricately linked to its Jewish community, which dates back to the Middle Ages. This modern synagogue stands as a focal point for understanding the complexities of Jewish history in Germany, from flourishing cultural life to the devastating impacts of the Holocaust, and offers an opportunity to engage with the ongoing dialogue about diversity and tolerance in contemporary society.
 
 Visitors to the Neue Synagoge can expect to immerse themselves in a space that is not only architecturally striking but also rich in meaning. The site serves as a cultural center, ensuring that the stories of the past continue to resonate in the present, fostering a sense of community and understanding.
 
@@ -38,7 +38,7 @@ The history surrounding the Neue Synagoge is deeply intertwined with the Jewish 
 
 Following World War II, as Germany grappled with its past, efforts to revitalize Jewish life in Erfurt gained momentum. The decision to build the Neue Synagoge marked a significant step in this revitalization process. Completed in the early 2000s, the new structure was designed to honor the memory of the original synagogue and the community that had once thrived there. It serves as both a place of worship and a cultural center, hosting various events, educational programs, and exhibitions aimed at promoting understanding and tolerance.
 
-The synagogue’s establishment is a testament to the enduring spirit of the Jewish community in Erfurt and reflects broader themes of reconciliation and remembrance. It plays a crucial role in the cultural landscape of the city, inviting visitors and locals alike to engage with the complex history of the Jewish people in Germany and fostering a dialogue about tolerance, acceptance, and diversity in today’s society.
+The synagogue's establishment is a testament to the enduring spirit of the Jewish community in Erfurt and reflects broader themes of reconciliation and remembrance. It plays a crucial role in the cultural landscape of the city, inviting visitors and locals alike to engage with the complex history of the Jewish people in Germany and fostering a dialogue about tolerance, acceptance, and diversity in today's society.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ While visiting the Neue Synagoge, take the opportunity to explore other signific
 
 When visiting the Neue Synagoge, consider the best times to avoid crowds, typically on weekdays or during early morning hours. This will allow for a more personal experience and greater opportunity to engage with the exhibits and the space itself.
 
-For photography enthusiasts, be mindful of the synagogue’s space and atmosphere. While capturing the architecture is encouraged, be respectful of the sanctity of the space, especially during prayer times or guided tours. 
+For photography enthusiasts, be mindful of the synagogue's space and atmosphere. While capturing the architecture is encouraged, be respectful of the sanctity of the space, especially during prayer times or guided tours. 
 
 ## Practical Information
 

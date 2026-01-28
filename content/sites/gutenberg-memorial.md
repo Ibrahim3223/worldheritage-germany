@@ -50,7 +50,7 @@ Visitors will find the memorial set in a well-maintained area that invites refle
 
 Visiting the Gutenberg Memorial is an enriching experience. The site is accessible to the public year-round, allowing visitors to engage with this important piece of history at their convenience. For the most current information regarding hours of operation and any potential admission fees, it is advisable to check the official website.
 
-Getting to the memorial is straightforward, with various transport options available. Public transportation, including buses and trains, connects easily to the memorial’s location in Mainz. Visitors can expect to spend approximately an hour exploring the memorial, though those with a deep interest in Gutenberg's legacy may wish to linger longer.
+Getting to the memorial is straightforward, with various transport options available. Public transportation, including buses and trains, connects easily to the memorial's location in Mainz. Visitors can expect to spend approximately an hour exploring the memorial, though those with a deep interest in Gutenberg's legacy may wish to linger longer.
 
 The best times to visit are generally during the spring and early autumn when the weather is pleasant and conducive to outdoor exploration. This timing also allows visitors to enjoy the vibrant atmosphere of Mainz, which often hosts events and activities that celebrate its history and culture.
 

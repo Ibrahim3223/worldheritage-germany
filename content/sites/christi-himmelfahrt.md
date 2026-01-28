@@ -36,7 +36,7 @@ The history of Christi Himmelfahrt is intertwined with the narrative of Freising
 
 In the aftermath of the war, as communities across Europe sought to rebuild, the decision to construct a new church on the original site was emblematic of hope and renewal. The architectural vision brought forth by Julius Ott and Zeitler reflected contemporary ideals, moving away from the grandiose styles of the past towards a more functional and modernist approach, which was a common trend in post-war architecture across Germany. 
 
-The church’s name, Christi Himmelfahrt, translates to "Ascension of Christ," a title that holds deep religious significance and resonates with the themes of resurrection and hope. The church serves as an important gathering place for worship and community events, reinforcing its role in the spiritual life of the town. The community’s dedication to maintaining the church and its activities highlights its ongoing significance in the cultural fabric of Freising.
+The church's name, Christi Himmelfahrt, translates to "Ascension of Christ," a title that holds deep religious significance and resonates with the themes of resurrection and hope. The church serves as an important gathering place for worship and community events, reinforcing its role in the spiritual life of the town. The community's dedication to maintaining the church and its activities highlights its ongoing significance in the cultural fabric of Freising.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ While the church may lack the ornate details found in more traditional structure
 
 When planning a visit to Christi Himmelfahrt, getting to Freising is relatively straightforward. The town is accessible via public transportation, including trains and buses that connect it with Munich and other nearby cities. Once in Freising, the church is located within easy walking distance from the town center, making it an ideal stop for those exploring the area.
 
-Visitors should check the official website for current information regarding visiting hours and any potential fees associated with entry. Typically, a visit could take around 30 minutes to an hour, allowing ample time to appreciate the church’s architecture and reflect in its serene atmosphere. 
+Visitors should check the official website for current information regarding visiting hours and any potential fees associated with entry. Typically, a visit could take around 30 minutes to an hour, allowing ample time to appreciate the church's architecture and reflect in its serene atmosphere. 
 
 The best times to visit may vary; however, attending a service can provide insight into the church's role in the local community while also allowing for a more immersive experience. 
 
@@ -62,7 +62,7 @@ Freising is home to several attractions that can complement a visit to Christi H
    
 2. **Weihenstephan Brewery**: Established in 1040, this brewery claims to be the oldest in the world. A tour here offers a fascinating glimpse into the brewing process, along with tastings of their renowned beers.
    
-3. **St. George’s Church**: Located nearby, this church is known for its beautiful frescoes and intricate designs, providing an excellent contrast to the modernity of Christi Himmelfahrt.
+3. **St. George's Church**: Located nearby, this church is known for its beautiful frescoes and intricate designs, providing an excellent contrast to the modernity of Christi Himmelfahrt.
 
 4. **Freising Old Town**: Strolling through the historic streets, visitors can explore local shops, cafes, and charming squares that reflect the town's heritage.
 
@@ -76,7 +76,7 @@ If you wish to capture the church's architecture, early morning or late afternoo
 
 ## Practical Information
 
-When planning your visit to Christi Himmelfahrt, consider bringing a camera to capture the church’s architectural features. Dress comfortably, as you may want to spend some time exploring the surrounding area. If visiting in winter, be prepared for colder weather, while spring and summer offer a more pleasant climate for walking around Freising.
+When planning your visit to Christi Himmelfahrt, consider bringing a camera to capture the church's architectural features. Dress comfortably, as you may want to spend some time exploring the surrounding area. If visiting in winter, be prepared for colder weather, while spring and summer offer a more pleasant climate for walking around Freising.
 
 It is also beneficial to check the official website for any seasonal events or special services that may be taking place during your visit. 
 
@@ -89,7 +89,7 @@ A visit typically lasts about 30 minutes to an hour, allowing time to appreciate
 Yes, photography is generally permitted, but be respectful, especially during worship services.
 
 ### Are there guided tours?
-Information on guided tours may vary, so it’s best to check the official website for current offerings.
+Information on guided tours may vary, so it's best to check the official website for current offerings.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, may offer a quieter experience than weekends, which can be busier with services and tourists.
@@ -101,7 +101,7 @@ Accessibility information may vary; check the official website for details regar
 Check the official website for information on ticketing and entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to explore the nearby town for cafes and restrooms.
+Facilities may be limited, so it's advisable to explore the nearby town for cafes and restrooms.
 
 ### What should I wear?
 Dress modestly, especially if you plan to attend a service. Comfortable, casual attire is generally appropriate for visiting the church.

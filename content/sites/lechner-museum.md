@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Located in the heart of Bavaria, the Lechner Museum stands as a prominent destination for art enthusiasts and cultural explorers in Ingolstadt, Germany. This art museum is dedicated to showcasing diverse collections that reflect both contemporary and historical artistic expressions. Ingolstadt, a city known for its rich heritage and medieval architecture, provides the perfect backdrop for the museum’s vibrant offerings. The Lechner Museum not only serves as a repository of artistic works but also as a cultural hub that promotes dialogue and engagement with the arts.
+Located in the heart of Bavaria, the Lechner Museum stands as a prominent destination for art enthusiasts and cultural explorers in Ingolstadt, Germany. This art museum is dedicated to showcasing diverse collections that reflect both contemporary and historical artistic expressions. Ingolstadt, a city known for its rich heritage and medieval architecture, provides the perfect backdrop for the museum's vibrant offerings. The Lechner Museum not only serves as a repository of artistic works but also as a cultural hub that promotes dialogue and engagement with the arts.
 
 Visitors to the Lechner Museum can expect a dynamic environment filled with thought-provoking exhibitions and events. The museum plays a vital role in fostering appreciation for various art forms, making it an essential stop for anyone interested in the intersection of culture, history, and creativity. As you explore the museum, you will find that it is not only a place to view art but also a space that encourages reflection and inspiration.
 
@@ -28,9 +28,9 @@ Visitors to the Lechner Museum can expect a dynamic environment filled with thou
 
 The Lechner Museum, while relatively modern in its establishment, reflects a long-standing tradition of art appreciation in Ingolstadt. The city has a history that intertwines with various cultural movements, providing fertile ground for an institution dedicated to the visual arts. The museum's mission goes beyond just housing artworks; it aims to enhance public understanding and appreciation of contemporary art.
 
-The significance of the Lechner Museum lies in its commitment to showcasing a range of artistic styles and mediums. Through rotating exhibitions and collections, the museum highlights both local and international artists, creating a dialogue between different cultures and artistic narratives. This approach not only enriches the local community’s cultural landscape but also positions the museum as a vital player in the broader art world.
+The significance of the Lechner Museum lies in its commitment to showcasing a range of artistic styles and mediums. Through rotating exhibitions and collections, the museum highlights both local and international artists, creating a dialogue between different cultures and artistic narratives. This approach not only enriches the local community's cultural landscape but also positions the museum as a vital player in the broader art world.
 
-The museum’s programs often include educational initiatives, workshops, and community events, which serve to engage audiences of all ages. By fostering an inclusive environment for artistic exploration, the Lechner Museum contributes to the cultural vitality of Ingolstadt, ensuring that art remains accessible and relevant to all.
+The museum's programs often include educational initiatives, workshops, and community events, which serve to engage audiences of all ages. By fostering an inclusive environment for artistic exploration, the Lechner Museum contributes to the cultural vitality of Ingolstadt, ensuring that art remains accessible and relevant to all.
 
 ## Architecture and Features
 
@@ -38,7 +38,7 @@ The architectural design of the Lechner Museum is characterized by its modern ae
 
 Inside, the museum features well-lit galleries that facilitate an immersive viewing experience. The arrangement of artworks encourages visitors to engage with each piece thoughtfully, with ample room for contemplation. The design also incorporates areas for educational activities, making it a multifunctional space that adapts to various needs.
 
-Notable features of the museum may include installations that invite interaction or thematic exhibitions that provoke discussion on current social issues. These elements not only enhance the visitor experience but also underscore the museum’s mission to be more than a traditional art gallery.
+Notable features of the museum may include installations that invite interaction or thematic exhibitions that provoke discussion on current social issues. These elements not only enhance the visitor experience but also underscore the museum's mission to be more than a traditional art gallery.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ Ingolstadt is home to several notable attractions that complement a visit to the
 
 ## Insider Tips
 
-When visiting the Lechner Museum, consider bringing a camera to capture the artworks and installations, but be sure to check the museum’s policy on photography. To avoid crowds, aim for early morning visits or weekdays, as weekends may attract more visitors. Engaging with the staff can also enhance your experience; they can provide insights into the exhibitions and recommend must-see pieces.
+When visiting the Lechner Museum, consider bringing a camera to capture the artworks and installations, but be sure to check the museum's policy on photography. To avoid crowds, aim for early morning visits or weekdays, as weekends may attract more visitors. Engaging with the staff can also enhance your experience; they can provide insights into the exhibitions and recommend must-see pieces.
 
 ## Practical Information
 

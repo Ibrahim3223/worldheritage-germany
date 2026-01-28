@@ -72,7 +72,7 @@ While the Webmuseum Oederan is a destination in itself, Oederan offers additiona
 
 To make the most of your visit to the Webmuseum Oederan, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas of the museum, it’s best to check for specific guidelines upon arrival. Respect any restrictions to ensure a pleasant experience for all visitors.
+- **Photography**: While photography may be allowed in certain areas of the museum, it's best to check for specific guidelines upon arrival. Respect any restrictions to ensure a pleasant experience for all visitors.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for weekday mornings when the museum is less crowded. This timing allows for a more intimate exploration of the exhibits without the hustle and bustle of larger groups.
 
@@ -99,7 +99,7 @@ Information on guided tours should be confirmed through the official website, wh
 Weekdays, especially during the morning hours, tend to be less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for detailed information on facilities.
+Accessibility features may be available, but it's advisable to check the official website for detailed information on facilities.
 
 ### Can I buy tickets online?
 Ticket purchasing options can vary, so it's best to check the official website for the most current information regarding online sales.

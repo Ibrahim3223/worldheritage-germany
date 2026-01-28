@@ -52,7 +52,7 @@ Getting to the Alte Universität is straightforward, with various transport opti
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. A visit to the museum typically requires a couple of hours, allowing enough time to explore the exhibits and appreciate the architecture. The best times to visit are generally during weekdays when crowds are thinner, providing a more personal experience.
 
-Inside, visitors can expect an engaging atmosphere where they can learn about the region’s history. The museum is designed to cater to a broad audience, making it suitable for individuals, families, and educational groups alike.
+Inside, visitors can expect an engaging atmosphere where they can learn about the region's history. The museum is designed to cater to a broad audience, making it suitable for individuals, families, and educational groups alike.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ If you're interested in specific exhibits or artifacts, check the museum's sched
 
 ## Practical Information
 
-When planning your visit to the Alte Universität, it’s advisable to bring comfortable walking shoes, as you may spend some time exploring the museum and nearby attractions. Seasonal considerations are also important; dress appropriately for the weather, and if visiting in colder months, ensure to have layers on hand.
+When planning your visit to the Alte Universität, it's advisable to bring comfortable walking shoes, as you may spend some time exploring the museum and nearby attractions. Seasonal considerations are also important; dress appropriately for the weather, and if visiting in colder months, ensure to have layers on hand.
 
 Keep in mind that the museum's offerings may change, so it's beneficial to check the official website for any seasonal events or updates.
 
@@ -104,4 +104,4 @@ Verify if online ticket purchasing is available through the museum's official we
 Facilities such as restrooms may be available, but check the official website for details on whether there are on-site cafes.
 
 ### What should I wear?
-Dress comfortably and according to the weather, as you’ll want to be prepared for both indoor and outdoor activities.
+Dress comfortably and according to the weather, as you'll want to be prepared for both indoor and outdoor activities.

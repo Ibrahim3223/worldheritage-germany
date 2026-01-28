@@ -66,7 +66,7 @@ After visiting the Mahnmal für die Sinti im Altwarmbüchener Moor, you may want
 
 3. **Hannover City Park**: A beautiful green space perfect for a leisurely stroll or a picnic, offering a peaceful retreat from urban life.
 
-4. **Historic Old Town**: Explore the charming streets of Hannover’s Old Town, where you can find traditional architecture, shops, and cafes that reflect the city’s heritage.
+4. **Historic Old Town**: Explore the charming streets of Hannover's Old Town, where you can find traditional architecture, shops, and cafes that reflect the city's heritage.
 
 5. **Lower Saxony State Museum**: This museum covers a broad range of topics, including natural history, art, and cultural history, providing a comprehensive overview of the region.
 

@@ -72,7 +72,7 @@ After visiting Rieckhuus, there are several nearby attractions worth exploring:
 
 To make the most of your visit to Rieckhuus, consider bringing a camera for photography, ensuring you capture the essence of the exhibits. However, be mindful of any photography restrictions that may apply to specific displays. To avoid crowds, aim to visit during off-peak hours, typically mid-week or early in the day. 
 
-Engaging with museum staff can enhance your experience, as they often have valuable insights about the exhibits and can recommend must-see items. If you’re interested in a deeper exploration of the topics covered at Rieckhuus, consider joining any available guided tours or workshops.
+Engaging with museum staff can enhance your experience, as they often have valuable insights about the exhibits and can recommend must-see items. If you're interested in a deeper exploration of the topics covered at Rieckhuus, consider joining any available guided tours or workshops.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ Seasonal events may occur, so checking the official website will provide the mos
 A typical visit to Rieckhuus may take around 2-3 hours, allowing ample time to explore the exhibits and engage with any on-site activities.
 
 ### Is photography allowed?
-Check the museum’s policy regarding photography, as some exhibits may have restrictions.
+Check the museum's policy regarding photography, as some exhibits may have restrictions.
 
 ### Are there guided tours?
 Rieckhuus may offer guided tours, which can enhance your understanding of the exhibits. Check the official website for details.
@@ -95,7 +95,7 @@ Rieckhuus may offer guided tours, which can enhance your understanding of the ex
 Visiting during weekdays or early in the morning is often recommended to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Most modern museums strive to be accessible, but it’s best to confirm specific accessibility features on the official website.
+Most modern museums strive to be accessible, but it's best to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for ticket purchasing options, as they may provide online sales for convenience.

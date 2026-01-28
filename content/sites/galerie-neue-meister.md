@@ -62,13 +62,13 @@ While at the Galerie Neue Meister, consider exploring the following nearby attra
 
 1. **Zwinger Palace**: This stunning example of Baroque architecture houses several museums and galleries, including the Old Masters Gallery, making it a fitting complement to your visit to the Galerie Neue Meister.
 
-2. **Dresden Frauenkirche**: A symbol of reconciliation, this magnificent church offers insights into the city’s history and stunning views from its dome.
+2. **Dresden Frauenkirche**: A symbol of reconciliation, this magnificent church offers insights into the city's history and stunning views from its dome.
 
-3. **Semper Opera House**: Known for its architectural beauty and rich cultural offerings, a visit to this opera house can provide a glimpse into Dresden’s vibrant performing arts scene.
+3. **Semper Opera House**: Known for its architectural beauty and rich cultural offerings, a visit to this opera house can provide a glimpse into Dresden's vibrant performing arts scene.
 
 4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade offers picturesque views along the Elbe River and is lined with historic buildings.
 
-5. **Dresden Castle**: Explore the historic residence of the Saxon kings, which features a variety of museums and exhibits detailing the region’s royal heritage.
+5. **Dresden Castle**: Explore the historic residence of the Saxon kings, which features a variety of museums and exhibits detailing the region's royal heritage.
 
 ## Insider Tips
 

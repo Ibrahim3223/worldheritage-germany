@@ -28,7 +28,7 @@ image_srcset:
 
 The Museum der Brotkultur, located in the historical city of Ulm, Germany, offers an engaging exploration into the world of bread, a fundamental food staple that has shaped cultures and societies for centuries. This unique museum provides visitors with a captivating narrative of bread's evolution, significance, and its various forms across different regions. The museum stands as a testament to the role of bread in culinary traditions, social gatherings, and even religious practices throughout history.
 
-Situated in a city known for its impressive architecture and vibrant cultural scene, the Museum der Brotkultur complements the rich tapestry of Ulm’s heritage. It serves not only as an educational resource but also as a celebration of the craftsmanship and creativity involved in bread-making. Visitors can expect to see an array of exhibits showcasing bread's journey from grain to loaf, highlighting both the historical and contemporary practices in baking. This museum promises to leave a lasting impression on anyone interested in the culinary arts and cultural history.
+Situated in a city known for its impressive architecture and vibrant cultural scene, the Museum der Brotkultur complements the rich tapestry of Ulm's heritage. It serves not only as an educational resource but also as a celebration of the craftsmanship and creativity involved in bread-making. Visitors can expect to see an array of exhibits showcasing bread's journey from grain to loaf, highlighting both the historical and contemporary practices in baking. This museum promises to leave a lasting impression on anyone interested in the culinary arts and cultural history.
 
 ## History and Significance
 

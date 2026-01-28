@@ -76,7 +76,7 @@ To make the most of your visit to the Glasmuseum Weißwasser, consider the follo
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or early in the day. This can allow for more personal engagement with the exhibits.
 
-- **Engage with Staff**: The museum staff are often knowledgeable about the exhibits and can provide valuable insights. Don’t hesitate to ask questions to enhance your understanding.
+- **Engage with Staff**: The museum staff are often knowledgeable about the exhibits and can provide valuable insights. Don't hesitate to ask questions to enhance your understanding.
 
 ## Practical Information
 
@@ -107,7 +107,7 @@ Accessibility information is best confirmed by checking the official website or 
 Check the official website for information regarding online ticket purchases and any promotional offers.
 
 ### Are there restrooms and cafes?
-Most museums typically provide restroom facilities. For dining options, check the museum’s amenities or explore nearby cafés.
+Most museums typically provide restroom facilities. For dining options, check the museum's amenities or explore nearby cafés.
 
 ### What should I wear?
 Dress comfortably, considering the season and weather conditions. Comfortable shoes are recommended for walking through the exhibits.

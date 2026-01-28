@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during weekdays, especially outside peak touris
 
 ## Practical Information
 
-When preparing for your visit to Pforta Abbey, consider bringing a camera for capturing the site's beauty, as well as comfortable walking shoes to navigate the grounds. It’s advisable to dress in layers, as the weather can fluctuate. 
+When preparing for your visit to Pforta Abbey, consider bringing a camera for capturing the site's beauty, as well as comfortable walking shoes to navigate the grounds. It's advisable to dress in layers, as the weather can fluctuate. 
 
 For those visiting during the colder months, be sure to check seasonal considerations, as some areas may be less accessible or have limited hours. 
 

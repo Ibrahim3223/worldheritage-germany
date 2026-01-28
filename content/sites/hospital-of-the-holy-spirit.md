@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Hospital of the Holy Spirit in Hamburg, Germany, stands as a significant historical and cultural establishment within the Wandsbek region. As a foundation dedicated to healthcare, it has played an essential role in the city’s medical history and community welfare. This institution not only serves a vital function in providing medical services but also reflects the broader evolution of healthcare practices in Germany. Visitors to this site can expect to encounter a blend of historical significance and contemporary healthcare, making it a compelling destination for those interested in both the past and present of medical institutions.
+The Hospital of the Holy Spirit in Hamburg, Germany, stands as a significant historical and cultural establishment within the Wandsbek region. As a foundation dedicated to healthcare, it has played an essential role in the city's medical history and community welfare. This institution not only serves a vital function in providing medical services but also reflects the broader evolution of healthcare practices in Germany. Visitors to this site can expect to encounter a blend of historical significance and contemporary healthcare, making it a compelling destination for those interested in both the past and present of medical institutions.
 
-Situated within the vibrant urban landscape of Hamburg, the Hospital of the Holy Spirit serves as an important reminder of the city’s commitment to health and wellness. Its establishment marked a notable point in the evolution of hospital care in the region. The site is accessible and invites exploration, offering a unique glimpse into the foundations of medical care while remaining relevant in today’s healthcare landscape. 
+Situated within the vibrant urban landscape of Hamburg, the Hospital of the Holy Spirit serves as an important reminder of the city's commitment to health and wellness. Its establishment marked a notable point in the evolution of hospital care in the region. The site is accessible and invites exploration, offering a unique glimpse into the foundations of medical care while remaining relevant in today's healthcare landscape. 
 
 ## History and Significance
 
@@ -30,7 +30,7 @@ The Hospital of the Holy Spirit has a rich history that underscores its importan
 
 Throughout its existence, the hospital has undergone various transformations, adapting to the changing needs of society and advancements in medical practices. This adaptability has allowed the Hospital of the Holy Spirit to maintain its status as a cornerstone of medical care in Hamburg. Its establishment is indicative of broader historical trends in healthcare, particularly during periods of significant social change.
 
-The cultural significance of the hospital extends beyond its medical services. It has served as a place of refuge and healing, embodying the philanthropic spirit that characterizes many such institutions throughout history. The hospital’s foundational ethos of care and compassion can still be felt today, as it continues to serve the community.
+The cultural significance of the hospital extends beyond its medical services. It has served as a place of refuge and healing, embodying the philanthropic spirit that characterizes many such institutions throughout history. The hospital's foundational ethos of care and compassion can still be felt today, as it continues to serve the community.
 
 ## Architecture and Features
 

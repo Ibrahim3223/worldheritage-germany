@@ -66,7 +66,7 @@ When visiting the Rheinisches Eisenkunstguss-Museum, consider the following tips
 
 - **Photography**: Check the museum's policy on photography; while many museums allow it, some exhibits may have restrictions.
 - **Crowd Avoidance**: To enjoy a quieter visit, consider going during weekdays or early in the day. This can provide a more personal experience with the exhibits.
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 

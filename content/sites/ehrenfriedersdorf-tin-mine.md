@@ -32,7 +32,7 @@ Ehrenfriedersdorf holds a distinctive place in the narrative of mining in Europe
 
 ## History and Significance
 
-Mining has been an integral part of the economy and culture in the region of Ehrenfriedersdorf for centuries. The Ehrenfriedersdorf tin mine stands as a significant chapter in this story, reflecting the evolution of mining practices and their impact on the local community. The mine has played a crucial role in the area’s development, providing employment and contributing to the local economy during its operational years.
+Mining has been an integral part of the economy and culture in the region of Ehrenfriedersdorf for centuries. The Ehrenfriedersdorf tin mine stands as a significant chapter in this story, reflecting the evolution of mining practices and their impact on the local community. The mine has played a crucial role in the area's development, providing employment and contributing to the local economy during its operational years.
 
 The cultural significance of the Ehrenfriedersdorf tin mine extends beyond its economic contributions. It serves as a reminder of the industrious spirit of the local population and the technological advancements that took place in mining practices over the years. The mine has been preserved as a show mine, ensuring that future generations can learn about the challenges and triumphs faced by miners. Through its exhibits and guided tours, the site offers insights into the daily lives of those who worked underground, the techniques they employed, and the evolution of the mining industry.
 
@@ -78,7 +78,7 @@ Engaging with guides can enhance your experience; they often share fascinating s
 
 When preparing for your visit to the Ehrenfriedersdorf tin mine, consider bringing a water bottle and snacks, as you may spend a few hours exploring the site. Seasonal weather can impact your experience—check forecasts before your visit and dress appropriately for cooler underground temperatures. 
 
-Accessibility options may vary, so it’s advisable to check the official website for the most current information on facilities and services available for all visitors.
+Accessibility options may vary, so it's advisable to check the official website for the most current information on facilities and services available for all visitors.
 
 ## Frequently Asked Questions
 
@@ -95,13 +95,13 @@ Yes, guided tours are available and provide valuable insights into the history a
 The mine is open year-round, but weekdays may be less crowded. Check the official website for seasonal hours.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s best to consult the official website for detailed information regarding wheelchair access.
+Accessibility options may vary; it's best to consult the official website for detailed information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for the latest information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s wise to verify current amenities via the official website.
+Facilities may be available on-site, but it's wise to verify current amenities via the official website.
 
 ### What should I wear?
 Dress in layers to accommodate temperature changes between above ground and underground, and wear sturdy shoes for uneven surfaces.

@@ -44,7 +44,7 @@ Seating areas may be strategically placed throughout the garden, providing spots
 
 ## Visiting Information
 
-When planning your visit to the Villengarten Klementinenstraße 8, it is advisable to check the official website for current information regarding opening hours and any potential entrance fees. The garden’s location in Munich means it is easily accessible via public transport. Various tram and bus lines service the area, allowing for convenient travel to and from the garden.
+When planning your visit to the Villengarten Klementinenstraße 8, it is advisable to check the official website for current information regarding opening hours and any potential entrance fees. The garden's location in Munich means it is easily accessible via public transport. Various tram and bus lines service the area, allowing for convenient travel to and from the garden.
 
 Expect to spend approximately an hour or two exploring the garden, though this can vary depending on your pace and interest in the flora and surrounding environment. The best times to visit are typically during the spring and summer months when the garden is in full bloom, showcasing a vibrant array of colors and scents.
 

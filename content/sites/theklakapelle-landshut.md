@@ -64,7 +64,7 @@ While Theklakapelle is a significant attraction in its own right, Landshut offer
 
 1. **Landshut Castle (Burg Trausnitz)**: A short distance from the church, this medieval castle provides stunning views of the city and insight into its history.
    
-2. **St. Martin’s Church**: Known for its distinctive tower, this church is a remarkable example of Gothic architecture and features impressive stained glass windows.
+2. **St. Martin's Church**: Known for its distinctive tower, this church is a remarkable example of Gothic architecture and features impressive stained glass windows.
 
 3. **Old Town (Altstadt)**: Wander through the charming streets filled with colorful buildings, shops, and cafes that reflect the city's vibrant history.
 

@@ -44,7 +44,7 @@ St.-Nikolaus-Kirche is an architectural structure that captures attention with i
 
 One of the notable features of the church is its impressive bell tower, which not only serves a functional purpose but also acts as a visual landmark within Ankum. The tower's height and design draw the eye, inviting curiosity from passersby. Inside, the church reveals a serene atmosphere, accentuated by stained glass windows that filter light into vibrant hues, creating a contemplative environment for worshippers and visitors alike.
 
-The interior space is thoughtfully designed to accommodate congregational gatherings, featuring a layout that promotes a sense of community and inclusivity. The altar area, often adorned with religious iconography, stands as the focal point of the church’s interior, inviting reflection and devotion. Each element within the church contributes to its overall ambiance, making it a place of not only spiritual significance but also artistic appreciation.
+The interior space is thoughtfully designed to accommodate congregational gatherings, featuring a layout that promotes a sense of community and inclusivity. The altar area, often adorned with religious iconography, stands as the focal point of the church's interior, inviting reflection and devotion. Each element within the church contributes to its overall ambiance, making it a place of not only spiritual significance but also artistic appreciation.
 
 ## Visiting Information
 

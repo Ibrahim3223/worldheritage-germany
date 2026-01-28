@@ -112,4 +112,4 @@ Visitor facilities, including restrooms and dining options, may be available; ch
 ### What should I wear?
 Dress comfortably and in layers, especially if visiting during seasons with variable weather. Comfortable shoes are recommended for walking around the grounds.
 
-Burg Lotenberg is more than just a castle; it is a portal into the past that invites exploration and reflection. Whether you are captivated by its architecture, intrigued by its history, or simply looking to enjoy a day out, this castle offers a unique glimpse into the heart of Germany’s heritage.
+Burg Lotenberg is more than just a castle; it is a portal into the past that invites exploration and reflection. Whether you are captivated by its architecture, intrigued by its history, or simply looking to enjoy a day out, this castle offers a unique glimpse into the heart of Germany's heritage.

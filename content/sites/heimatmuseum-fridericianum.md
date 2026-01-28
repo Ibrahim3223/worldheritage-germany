@@ -68,7 +68,7 @@ To enhance your visit to Heimatmuseum Fridericianum, consider the following tips
   
 - **Crowd Avoidance**: For a more peaceful experience, aim to visit during weekdays or early mornings when foot traffic is typically lower.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about highlights or recommendations for exhibits that might particularly interest you.
+- **Engage with Staff**: Don't hesitate to ask museum staff about highlights or recommendations for exhibits that might particularly interest you.
 
 ## Practical Information
 

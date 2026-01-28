@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Bonn Minster, a stunning cathedral located in the heart of Bonn, Germany, is a significant landmark that reflects the city's religious and architectural heritage. Known locally as "Bonn Minster" or "Bonner Münster," this majestic church serves as a symbol of the city’s historical depth and spiritual presence. The cathedral's impressive architecture and rich history attract visitors from around the world, making it a must-see for those exploring this vibrant region.
+Bonn Minster, a stunning cathedral located in the heart of Bonn, Germany, is a significant landmark that reflects the city's religious and architectural heritage. Known locally as "Bonn Minster" or "Bonner Münster," this majestic church serves as a symbol of the city's historical depth and spiritual presence. The cathedral's impressive architecture and rich history attract visitors from around the world, making it a must-see for those exploring this vibrant region.
 
-Situated in Stadtbezirk Bonn, the Minster stands out not only for its size but also for its unique blend of various architectural styles, showcasing the evolution of ecclesiastical design over centuries. The Minster's location is central, making it easily accessible to both locals and travelers alike. As one of the oldest churches in Bonn, it offers a glimpse into the city’s past, serving as a reminder of the important role religion has played in shaping the community.
+Situated in Stadtbezirk Bonn, the Minster stands out not only for its size but also for its unique blend of various architectural styles, showcasing the evolution of ecclesiastical design over centuries. The Minster's location is central, making it easily accessible to both locals and travelers alike. As one of the oldest churches in Bonn, it offers a glimpse into the city's past, serving as a reminder of the important role religion has played in shaping the community.
 
 Visiting Bonn Minster promises an enriching experience, allowing guests to appreciate not only the beauty of its structure but also the cultural significance it holds for the people of Bonn. Whether you are drawn by the architectural details, the historical context, or the tranquil atmosphere, the Minster invites exploration and reflection.
 
@@ -52,7 +52,7 @@ In addition to its architectural beauty, the Minster houses various artworks and
 
 Bonn Minster is readily accessible, making it convenient for visitors to explore this architectural gem. The cathedral is located in the city center, ensuring that it is easy to incorporate into any sightseeing itinerary. For the most accurate information regarding visiting hours and ticket prices, check the official website, as these details may change periodically.
 
-When planning a visit, it is advisable to allocate ample time to fully appreciate the Minster’s architecture and ambiance. A visit typically lasts about an hour, allowing you to wander through the main areas, admire the artworks, and soak in the peaceful atmosphere. Guided tours may also be available, providing deeper insights into the cathedral’s history and significance.
+When planning a visit, it is advisable to allocate ample time to fully appreciate the Minster's architecture and ambiance. A visit typically lasts about an hour, allowing you to wander through the main areas, admire the artworks, and soak in the peaceful atmosphere. Guided tours may also be available, providing deeper insights into the cathedral's history and significance.
 
 The best times to visit are during weekdays when the crowds are generally smaller, allowing for a more intimate experience. Early mornings or late afternoons can also offer a quieter atmosphere, ideal for contemplation or photography.
 

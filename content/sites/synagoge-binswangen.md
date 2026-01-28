@@ -66,7 +66,7 @@ While exploring the region, several nearby attractions can be worth visiting:
 
 3. **Natural Parks**: The surrounding landscape may include parks or nature reserves, providing opportunities for outdoor activities and relaxation amidst nature.
 
-4. **Cultural Events**: Look for local events or festivals that celebrate the area’s history and culture, offering an immersive experience.
+4. **Cultural Events**: Look for local events or festivals that celebrate the area's history and culture, offering an immersive experience.
 
 5. **Other Historical Sites**: Explore other historical sites within the region that reflect the diverse cultural heritage of Binswangen and its surroundings.
 

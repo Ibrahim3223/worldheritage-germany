@@ -3,7 +3,7 @@ title: "Stiftung Frauenkirche Dresden"
 site_name: "Stiftung Frauenkirche Dresden"
 date: 2026-01-26
 draft: false
-description: "In the heart of Dresden, Germany, the Stiftung Frauenkirche Dresden plays a pivotal role in preserving the legacy of one of the city’s most iconic..."
+description: "In the heart of Dresden, Germany, the Stiftung Frauenkirche Dresden plays a pivotal role in preserving the legacy of one of the city's most iconic..."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Foundation"
@@ -20,13 +20,13 @@ images:
 
 ## Overview
 
-In the heart of Dresden, Germany, the Stiftung Frauenkirche Dresden plays a pivotal role in preserving the legacy of one of the city’s most iconic landmarks, the Frauenkirche. This foundation is dedicated to promoting the historical, cultural, and spiritual significance of the church, which has transcended its physical presence to become a symbol of reconciliation and hope. Following its destruction during World War II, the Frauenkirche was meticulously reconstructed, and the foundation now oversees its maintenance and programming, ensuring that the church remains a vital part of Dresden’s cultural landscape.
+In the heart of Dresden, Germany, the Stiftung Frauenkirche Dresden plays a pivotal role in preserving the legacy of one of the city's most iconic landmarks, the Frauenkirche. This foundation is dedicated to promoting the historical, cultural, and spiritual significance of the church, which has transcended its physical presence to become a symbol of reconciliation and hope. Following its destruction during World War II, the Frauenkirche was meticulously reconstructed, and the foundation now oversees its maintenance and programming, ensuring that the church remains a vital part of Dresden's cultural landscape.
 
-Set against the backdrop of the Elbe River, the Frauenkirche is not only an architectural marvel but also a testament to the resilience of the human spirit. The foundation offers visitors a chance to explore the church's rich history and its role in the community, making it a must-visit site for those traveling to this vibrant region. Whether you’re drawn by its historical significance, architectural beauty, or spiritual ambiance, a visit to the Stiftung Frauenkirche Dresden promises an enriching experience that connects past and present.
+Set against the backdrop of the Elbe River, the Frauenkirche is not only an architectural marvel but also a testament to the resilience of the human spirit. The foundation offers visitors a chance to explore the church's rich history and its role in the community, making it a must-visit site for those traveling to this vibrant region. Whether you're drawn by its historical significance, architectural beauty, or spiritual ambiance, a visit to the Stiftung Frauenkirche Dresden promises an enriching experience that connects past and present.
 
 ## History and Significance
 
-The Frauenkirche, which translates to “Church of Our Lady,” has a storied history that reflects the broader narrative of Dresden itself. Originally constructed in the 18th century, the church was designed by architect George Bähr and became renowned for its magnificent dome and Baroque architecture. Throughout the years, it served not only as a place of worship but also as a focal point for community gatherings and cultural events.
+The Frauenkirche, which translates to "Church of Our Lady," has a storied history that reflects the broader narrative of Dresden itself. Originally constructed in the 18th century, the church was designed by architect George Bähr and became renowned for its magnificent dome and Baroque architecture. Throughout the years, it served not only as a place of worship but also as a focal point for community gatherings and cultural events.
 
 The church met a tragic fate during the aerial bombings of World War II, which left it in ruins. This destruction marked a poignant moment in history, symbolizing the loss not just of a building, but of a cultural icon. In the decades that followed, the citizens of Dresden, alongside various organizations, rallied to restore the Frauenkirche. The Stiftung Frauenkirche Dresden was established to oversee this restoration, which was completed in 2005. The church now stands as a powerful symbol of reconciliation, serving as a reminder of the importance of peace and unity in the wake of conflict.
 
@@ -34,11 +34,11 @@ The foundation actively engages in educational programs, concerts, and events th
 
 ## Architecture and Features
 
-The Frauenkirche is celebrated for its striking Baroque architecture, characterized by its impressive dome, which rises prominently above the Dresden skyline. The church’s design reflects the artistic sensibilities of its time, with intricate details and a harmonious blend of proportions. The dome itself is a remarkable feat of engineering, featuring a double-shell construction that adds to its aesthetic appeal and structural integrity.
+The Frauenkirche is celebrated for its striking Baroque architecture, characterized by its impressive dome, which rises prominently above the Dresden skyline. The church's design reflects the artistic sensibilities of its time, with intricate details and a harmonious blend of proportions. The dome itself is a remarkable feat of engineering, featuring a double-shell construction that adds to its aesthetic appeal and structural integrity.
 
 Upon entering the church, visitors are greeted by a spacious interior adorned with beautiful frescoes, sculptures, and ornate decorations. The nave, with its soaring arches and light-filled spaces, creates an atmosphere that invites contemplation and reflection. Notable features within the church include the altar, which is a focal point of the worship space, and the pulpit, intricately carved and designed to enhance the acoustics of the building.
 
-The Frauenkirche is not just a religious site; it also serves as a concert venue, with its remarkable acoustics enhancing musical performances. The foundation often organizes events that celebrate both sacred and secular music, allowing visitors to experience the church’s grandeur while enjoying diverse cultural programming.
+The Frauenkirche is not just a religious site; it also serves as a concert venue, with its remarkable acoustics enhancing musical performances. The foundation often organizes events that celebrate both sacred and secular music, allowing visitors to experience the church's grandeur while enjoying diverse cultural programming.
 
 ## Visiting Information
 

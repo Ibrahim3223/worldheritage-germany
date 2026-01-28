@@ -36,7 +36,7 @@ The Herzenbergkapelle has stood as an important site for worship and reflection 
 
 As a national heritage site, the chapel plays a pivotal role in preserving the region's historical narratives and cultural identity. Its presence reflects the various religious movements that have influenced German society over the years, showcasing the evolution of worship practices and architectural styles. The chapel has likely been a gathering point for community events and religious ceremonies, thus cementing its place in the hearts of the local populace.
 
-Visiting the Herzenbergkapelle allows individuals to engage with the historical context of the area, offering insights into the spiritual life that has flourished here. The chapel’s significance extends beyond its physical structure; it embodies the connection between the community and its religious traditions, making it a vital part of Hadamar's heritage.
+Visiting the Herzenbergkapelle allows individuals to engage with the historical context of the area, offering insights into the spiritual life that has flourished here. The chapel's significance extends beyond its physical structure; it embodies the connection between the community and its religious traditions, making it a vital part of Hadamar's heritage.
 
 ## Architecture and Features
 

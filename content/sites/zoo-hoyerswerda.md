@@ -80,7 +80,7 @@ These attractions highlight the cultural and natural diversity of the surroundin
 
 For those looking to enhance their visit to Zoo Hoyerswerda, consider the following insider tips:
 
-- **Photography Tips**: Bring a good camera or smartphone to capture the incredible moments you’ll encounter. Early morning light can provide excellent conditions for photography, especially for active animals.
+- **Photography Tips**: Bring a good camera or smartphone to capture the incredible moments you'll encounter. Early morning light can provide excellent conditions for photography, especially for active animals.
 
 - **Avoiding Crowds**: To enjoy a quieter experience, aim to visit during weekdays or outside of school holidays. Early morning arrivals can also help you beat the rush and allow for better animal viewing.
 

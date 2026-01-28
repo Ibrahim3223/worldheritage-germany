@@ -64,11 +64,11 @@ Exploring Bremerhaven provides numerous opportunities to engage with its rich cu
 
 To make the most of your visit to the Kabinett für aktuelle Kunst, consider the following tips:
 
-- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. It’s always good practice to ask if unsure.
+- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. It's always good practice to ask if unsure.
 
 - **Timing Your Visit**: Early mornings or weekdays tend to be less crowded, allowing for a more personal experience with the artworks.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about current exhibitions or events. Their insights can enhance your understanding and appreciation of the art.
+- **Engage with Staff**: Don't hesitate to ask museum staff about current exhibitions or events. Their insights can enhance your understanding and appreciation of the art.
 
 ## Practical Information
 
@@ -78,7 +78,7 @@ When planning your visit to the Kabinett für aktuelle Kunst, keep these practic
 
 - **Seasonal Considerations**: If visiting during winter, be prepared for colder temperatures. Summer visits may offer outdoor events or activities, so check the schedule in advance.
 
-- **Accessibility**: The museum generally strives to be accessible for all visitors, but it’s best to confirm specific accessibility options on the official website.
+- **Accessibility**: The museum generally strives to be accessible for all visitors, but it's best to confirm specific accessibility options on the official website.
 
 ## Frequently Asked Questions
 

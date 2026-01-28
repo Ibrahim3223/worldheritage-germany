@@ -70,7 +70,7 @@ The best times to visit the Horst Wessel monument may align with the milder mont
 
 Photographers should take advantage of the natural light during the early morning or late afternoon for optimal shots of the monument. The changing light conditions can enhance the visual appeal of the structure. To avoid crowds, consider visiting during weekdays when foot traffic is typically lighter.
 
-Additionally, engaging with local guides or historians can provide deeper insights into the monument’s significance and the broader historical context of the region.
+Additionally, engaging with local guides or historians can provide deeper insights into the monument's significance and the broader historical context of the region.
 
 ## Practical Information
 

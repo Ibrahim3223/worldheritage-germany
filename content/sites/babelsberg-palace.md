@@ -61,7 +61,7 @@ While visiting Babelsberg Palace, consider exploring these nearby attractions:
 1. **Sanssouci Palace**: Just a short distance away, this summer palace of Frederick the Great is known for its stunning gardens and Rococo architecture.
 2. **New Garden**: A beautiful park that features the Marble Palace and the picturesque Chinese House, ideal for a leisurely stroll.
 3. **The Dutch Quarter**: A charming area filled with red-brick buildings, offering a glimpse into Dutch architectural influence in Potsdam.
-4. **Potsdam’s Historic City Center**: A vibrant area with shops, cafés, and historic squares, perfect for experiencing local culture.
+4. **Potsdam's Historic City Center**: A vibrant area with shops, cafés, and historic squares, perfect for experiencing local culture.
 5. **Filmpark Babelsberg**: An entertainment park dedicated to film and television production, showcasing the history of German cinema.
 
 ## Insider Tips

@@ -36,7 +36,7 @@ The Auferstehungskirche represents a modern approach to church architecture, whi
 
 This church plays a crucial role in the community of Döhren-Wülfel, serving as a gathering place for worship, community events, and cultural activities. The design and function of the church are intended to invite engagement, making it an integral part of the local social fabric. The building not only fulfills religious purposes but also acts as a cultural venue that fosters a sense of belonging among its congregants and visitors alike.
 
-Moreover, Auferstehungskirche stands in the context of Hannover's post-war reconstruction, reflecting the city’s resilience and determination to rebuild and revitalize its spaces. As the community continues to evolve, the church remains a steadfast symbol of hope and renewal, resonating with both residents and visitors who seek solace or inspiration within its walls.
+Moreover, Auferstehungskirche stands in the context of Hannover's post-war reconstruction, reflecting the city's resilience and determination to rebuild and revitalize its spaces. As the community continues to evolve, the church remains a steadfast symbol of hope and renewal, resonating with both residents and visitors who seek solace or inspiration within its walls.
 
 ## Architecture and Features
 
@@ -70,7 +70,7 @@ Visitors to Auferstehungskirche can enhance their trip by exploring nearby attra
 
 ## Insider Tips
 
-For those planning to photograph Auferstehungskirche, early morning or late afternoon light can create beautiful effects on the building’s exterior. Inside, be respectful of the sacred space and consider the best angles that capture the unique architectural features without disturbing others.
+For those planning to photograph Auferstehungskirche, early morning or late afternoon light can create beautiful effects on the building's exterior. Inside, be respectful of the sacred space and consider the best angles that capture the unique architectural features without disturbing others.
 
 To avoid crowds, consider visiting during weekday mornings, as weekends may see increased attendance due to services and community events. This approach allows for a more personal connection with the space, providing an opportunity for quiet reflection.
 

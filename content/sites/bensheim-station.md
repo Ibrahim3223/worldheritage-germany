@@ -76,7 +76,7 @@ To avoid crowds, try to visit during the early morning or late afternoon, when t
 
 ## Practical Information
 
-When planning your visit to Bensheim station, it’s helpful to bring essentials such as a valid ticket, a camera for capturing memories, and comfortable walking shoes. Depending on the season, consider checking the weather forecast and dressing accordingly, as the climate can vary significantly throughout the year.
+When planning your visit to Bensheim station, it's helpful to bring essentials such as a valid ticket, a camera for capturing memories, and comfortable walking shoes. Depending on the season, consider checking the weather forecast and dressing accordingly, as the climate can vary significantly throughout the year.
 
 For those who enjoy outdoor activities, the surrounding area offers ample opportunities for hiking and biking, particularly in the warmer months. Ensure you have appropriate attire for any planned excursions into the nature park or nearby attractions.
 

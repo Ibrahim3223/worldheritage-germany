@@ -74,7 +74,7 @@ To enhance your experience, take a leisurely walk along the waterfront before or
 
 ## Practical Information
 
-Before heading to the Blankenese Upper Lighthouse, it’s advisable to bring essentials such as water, comfortable walking shoes, and possibly a light jacket, as coastal weather can be unpredictable. Given its proximity to the river, be prepared for breezy conditions.
+Before heading to the Blankenese Upper Lighthouse, it's advisable to bring essentials such as water, comfortable walking shoes, and possibly a light jacket, as coastal weather can be unpredictable. Given its proximity to the river, be prepared for breezy conditions.
 
 As with many outdoor sites, consider the season when planning your visit. Spring and early summer typically offer pleasant weather for exploring, while autumn may provide stunning foliage along the riverbanks. Always check the official website for any seasonal events or changes in accessibility.
 

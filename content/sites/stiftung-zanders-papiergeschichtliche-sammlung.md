@@ -97,15 +97,15 @@ The foundation may offer guided tours or workshops that provide additional insig
 Weekdays or early weekend mornings are generally less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility options, check the foundation’s official website.
+For specific accessibility options, check the foundation's official website.
 
 ### Can I buy tickets online?
 Check the official website for details regarding online ticket purchasing and availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but for dining options, check the foundation’s website for nearby cafes or eateries.
+Facilities such as restrooms are typically available, but for dining options, check the foundation's website for nearby cafes or eateries.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season. Comfortable shoes are recommended due to walking and standing. 
 
-In summary, the Stiftung Zanders--Papiergeschichtliche Sammlung offers a unique window into the world of paper, blending education with cultural appreciation. Whether you are a history enthusiast, an art lover, or simply curious about the craft of paper-making, this foundation provides an enriching experience that’s well worth a visit.
+In summary, the Stiftung Zanders--Papiergeschichtliche Sammlung offers a unique window into the world of paper, blending education with cultural appreciation. Whether you are a history enthusiast, an art lover, or simply curious about the craft of paper-making, this foundation provides an enriching experience that's well worth a visit.

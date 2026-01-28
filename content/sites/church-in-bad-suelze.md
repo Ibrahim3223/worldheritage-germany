@@ -60,7 +60,7 @@ While the Church in Bad Sülze is a focal point for visitors, there are several 
 
 1. **Local Parks**: Enjoy the serene nature that surrounds Bad Sülze with parks offering walking trails and picnic spots.
 2. **Historical Buildings**: Discover other historical structures within the town that reflect the architectural styles of the region.
-3. **Museums**: Engage with local history through museums that showcase artifacts and exhibitions relevant to Bad Sülze’s past.
+3. **Museums**: Engage with local history through museums that showcase artifacts and exhibitions relevant to Bad Sülze's past.
 4. **Nature Trails**: Explore walking or cycling trails in the vicinity that allow for an immersive experience in the natural landscape.
 5. **Community Events**: Check local listings for any events that may be taking place, providing a chance to experience the culture first-hand.
 
@@ -70,7 +70,7 @@ For those planning to visit the Church in Bad Sülze, here are some tips for an 
 
 - **Photography**: Capture the unique architectural features of the church, but be considerate of other visitors and the worshippers who may be present.
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during the morning hours or on weekdays when foot traffic is typically lower.
-- **Engage with Locals**: If possible, speak with locals who may provide insights about the church's history and significance that aren’t found in guidebooks.
+- **Engage with Locals**: If possible, speak with locals who may provide insights about the church's history and significance that aren't found in guidebooks.
 
 ## Practical Information
 

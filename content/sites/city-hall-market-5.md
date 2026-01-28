@@ -73,7 +73,7 @@ To avoid crowds, aim to visit during weekdays, as weekends may see more visitors
 
 ## Practical Information
 
-When planning your trip to City Hall Market 5, it’s wise to pack essentials such as water, comfortable walking shoes, and a light jacket, as weather conditions can vary. Seasonal considerations may also impact your visit; for instance, summer months can be pleasantly warm, while winter may bring cooler temperatures.
+When planning your trip to City Hall Market 5, it's wise to pack essentials such as water, comfortable walking shoes, and a light jacket, as weather conditions can vary. Seasonal considerations may also impact your visit; for instance, summer months can be pleasantly warm, while winter may bring cooler temperatures.
 
 Be prepared for the possibility of engaging with local events or activities that may be taking place around the city hall, which could enhance your experience.
 
@@ -83,7 +83,7 @@ Be prepared for the possibility of engaging with local events or activities that
 A visit to City Hall Market 5 can typically be completed in about 30 minutes to an hour, depending on your interest in the building and the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted in public spaces, but it’s advisable to check for any specific restrictions at the site.
+Photography is generally permitted in public spaces, but it's advisable to check for any specific restrictions at the site.
 
 ### Are there guided tours?
 Information on guided tours may vary; check the official website for any available options.

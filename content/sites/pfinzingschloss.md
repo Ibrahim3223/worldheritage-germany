@@ -73,7 +73,7 @@ If you are interested in photography, be respectful of any guidelines regarding 
 
 When preparing for your visit to Pfinzingschloss, make sure to bring along essentials such as water and comfortable walking shoes, as you may want to explore the grounds. Depending on the season, dress in layers to accommodate changing temperatures, and consider bringing an umbrella or raincoat if the forecast suggests rain.
 
-If you plan to visit during peak tourist seasons, it’s advisable to check ahead for any special events that might affect accessibility or crowds. Always consult the official website for any updates regarding your visit.
+If you plan to visit during peak tourist seasons, it's advisable to check ahead for any special events that might affect accessibility or crowds. Always consult the official website for any updates regarding your visit.
 
 ## Frequently Asked Questions
 

@@ -78,7 +78,7 @@ To avoid larger crowds, aim to visit during weekdays rather than weekends, as th
 
 When preparing for your visit to the Belvedere (Spiegelsberge), it's advisable to bring comfortable walking shoes, as the journey to the top of the tower may involve some stairs. Seasonal considerations are also important; in warmer months, bring water and sun protection, while in cooler seasons, dressing in layers is wise to accommodate changing temperatures.
 
-A lightweight backpack can be handy for carrying personal items, and don’t forget your camera or smartphone to document your experience. 
+A lightweight backpack can be handy for carrying personal items, and don't forget your camera or smartphone to document your experience. 
 
 ## Frequently Asked Questions
 

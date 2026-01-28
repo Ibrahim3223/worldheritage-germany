@@ -74,7 +74,7 @@ If you're interested in learning more about the church's history and significanc
 
 ## Practical Information
 
-When visiting St.-Johannes-Kirche, it’s advisable to wear comfortable clothing and shoes, especially if you plan to explore the surrounding area. Seasonal considerations are also important; in colder months, dress warmly, and in warmer months, ensure you stay hydrated and protected from the sun.
+When visiting St.-Johannes-Kirche, it's advisable to wear comfortable clothing and shoes, especially if you plan to explore the surrounding area. Seasonal considerations are also important; in colder months, dress warmly, and in warmer months, ensure you stay hydrated and protected from the sun.
 
 Be sure to bring any personal necessities, as local amenities may be limited. Checking the official website for additional practical information can help ensure a smooth visit. 
 
@@ -84,7 +84,7 @@ Be sure to bring any personal necessities, as local amenities may be limited. Ch
 A visit to St.-Johannes-Kirche typically takes about an hour, allowing ample time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signage upon arrival or inquire with church staff.
+Photography policies can vary, so it's best to check for any signage upon arrival or inquire with church staff.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, which may provide deeper insights into the church's history and significance.
@@ -99,7 +99,7 @@ For accessibility options, check the official website or inquire upon arrival fo
 Check the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for details regarding nearby amenities.
+Facilities may vary, so it's advisable to check the official website for details regarding nearby amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding areas or attend services.

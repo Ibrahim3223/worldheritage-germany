@@ -30,13 +30,13 @@ While specific historical accounts of Bibersberg are limited, the mountain has l
 
 Culturally, the mountain has become a symbol of Bavarian identity, representing the harmonious relationship between the people and their environment. Its prominence in local folklore, traditions, and recreational activities underscores its importance as a natural resource and a source of inspiration for artists, writers, and hikers alike.
 
-The natural beauty of Bibersberg has also contributed to the mountain’s role in promoting outdoor activities and eco-tourism. As visitors flock to experience the mountain’s landscapes, it fosters a deeper understanding of environmental conservation and the need to preserve such natural spaces for future generations. This connection to nature is essential, as it encourages sustainable practices and appreciation for the biodiversity that thrives in and around the mountain.
+The natural beauty of Bibersberg has also contributed to the mountain's role in promoting outdoor activities and eco-tourism. As visitors flock to experience the mountain's landscapes, it fosters a deeper understanding of environmental conservation and the need to preserve such natural spaces for future generations. This connection to nature is essential, as it encourages sustainable practices and appreciation for the biodiversity that thrives in and around the mountain.
 
 ## Architecture and Features
 
 Bibersberg is primarily characterized by its natural features rather than architectural elements. The mountain presents a rugged terrain that includes rocky outcrops, dense forests, and open areas that provide sweeping views of the surrounding landscape. The diverse ecosystems found on Bibersberg are home to various flora and fauna, making it a valuable site for ecological studies.
 
-The mountain’s elevation and topography create a range of microclimates, supporting different types of vegetation and wildlife. Hikers can expect to encounter trails that wind through woodlands, alongside streams, and up to vantage points that offer panoramic views of the Bavarian countryside. The trails vary in difficulty, catering to both casual walkers and experienced hikers.
+The mountain's elevation and topography create a range of microclimates, supporting different types of vegetation and wildlife. Hikers can expect to encounter trails that wind through woodlands, alongside streams, and up to vantage points that offer panoramic views of the Bavarian countryside. The trails vary in difficulty, catering to both casual walkers and experienced hikers.
 
 Visitors may notice unique geological formations that tell the story of the mountain's formation over millennia. These natural features, combined with the tranquil ambiance of the area, create a captivating environment for those who seek both adventure and relaxation in nature.
 

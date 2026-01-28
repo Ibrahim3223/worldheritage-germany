@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Barfüßertor, a significant city gate in Augsburg, Germany, serves as a remarkable link between the past and the present. This structure is not just a portal through which travelers once passed, but a symbol of Augsburg’s historical significance as a thriving urban center. Situated at the coordinates 48.3696, 10.9012, the Barfüßertor stands as a testament to the city's rich heritage, which has shaped its identity over centuries. Visitors to Augsburg can expect to gain insight into the city's medieval architecture and urban planning while appreciating the cultural importance of this enduring landmark.
+The Barfüßertor, a significant city gate in Augsburg, Germany, serves as a remarkable link between the past and the present. This structure is not just a portal through which travelers once passed, but a symbol of Augsburg's historical significance as a thriving urban center. Situated at the coordinates 48.3696, 10.9012, the Barfüßertor stands as a testament to the city's rich heritage, which has shaped its identity over centuries. Visitors to Augsburg can expect to gain insight into the city's medieval architecture and urban planning while appreciating the cultural importance of this enduring landmark.
 
 As one of the historical gates that originally formed part of the city's fortifications, the Barfüßertor reflects the strategic and defensive needs of Augsburg during its development. Its presence in the modern urban landscape invites exploration and a deeper understanding of the city's historical narratives. The gate not only marks a point of entry but also serves as a reminder of the bustling life that once characterized this area and the people who traversed its threshold. Whether you are a history buff, an architecture enthusiast, or simply a curious traveler, the Barfüßertor offers an engaging glimpse into Augsburg's storied past.
 
 ## History and Significance
 
-While specific dates and events surrounding the Barfüßertor may not be documented, its historical significance remains clear. The gate is a part of Augsburg's extensive fortification system, which played a crucial role in the city's defense during the medieval period. This city gate is one of the remnants of the urban fortifications that once protected Augsburg from potential invasions, underscoring the city’s strategic importance in southern Germany.
+While specific dates and events surrounding the Barfüßertor may not be documented, its historical significance remains clear. The gate is a part of Augsburg's extensive fortification system, which played a crucial role in the city's defense during the medieval period. This city gate is one of the remnants of the urban fortifications that once protected Augsburg from potential invasions, underscoring the city's strategic importance in southern Germany.
 
 Augsburg itself is one of Germany's oldest cities, founded by the Romans around the time of Emperor Augustus. As a key player in trade and commerce, Augsburg flourished in the Middle Ages. The Barfüßertor was likely a vital point of entry for merchants and travelers, facilitating trade and interaction. It also reflects the architectural styles and urban planning trends of its time, showcasing how cities adapted to the needs of their inhabitants.
 
-Throughout its history, the Barfüßertor has witnessed various transformations, not only in its physical structure but also in its role within the city. As Augsburg evolved, the gate maintained its presence, serving as a reminder of the city’s storied past and its resilience through the ages. While many original gate structures have been lost to modernization, the Barfüßertor stands as an enduring symbol of Augsburg’s historical narrative.
+Throughout its history, the Barfüßertor has witnessed various transformations, not only in its physical structure but also in its role within the city. As Augsburg evolved, the gate maintained its presence, serving as a reminder of the city's storied past and its resilience through the ages. While many original gate structures have been lost to modernization, the Barfüßertor stands as an enduring symbol of Augsburg's historical narrative.
 
 ## Architecture and Features
 
@@ -48,7 +48,7 @@ While the gate may not be elaborately adorned, its simplicity speaks volumes abo
 
 ## Visiting Information
 
-When planning a visit to the Barfüßertor, it’s advisable to check the official website for current information regarding hours and any potential entrance fees. The gate is situated within Augsburg’s city center, making it easily accessible by public transport. Visitors can take advantage of local buses or trams that connect various parts of the city, or opt for a leisurely stroll through the picturesque streets of Augsburg.
+When planning a visit to the Barfüßertor, it's advisable to check the official website for current information regarding hours and any potential entrance fees. The gate is situated within Augsburg's city center, making it easily accessible by public transport. Visitors can take advantage of local buses or trams that connect various parts of the city, or opt for a leisurely stroll through the picturesque streets of Augsburg.
 
 Expect to spend about 30 minutes to an hour exploring the Barfüßertor and its surroundings. This timeframe allows for a thorough examination of the gate itself, as well as an opportunity to enjoy the nearby historical sites and ambiance of the area. The best times to visit are during the spring and early fall when the weather is mild, making for a pleasant experience while exploring the outdoor surroundings.
 
@@ -60,9 +60,9 @@ Visitors should also take into account local events or festivals that may coinci
 
 2. **Fugger Museum and Fuggerei**: Dive into the history of one of Augsburg's most influential families at this museum, which offers insight into the lives of the Fugger family and their contributions to the city.
 
-3. **Augsburg Town Hall**: Known for its striking Renaissance architecture, the Town Hall is a must-see for visitors interested in the city’s administrative history and public art.
+3. **Augsburg Town Hall**: Known for its striking Renaissance architecture, the Town Hall is a must-see for visitors interested in the city's administrative history and public art.
 
-4. **Perlach Tower**: Climb this historic tower for a panoramic view of Augsburg, providing a unique perspective on the city’s layout and architectural heritage.
+4. **Perlach Tower**: Climb this historic tower for a panoramic view of Augsburg, providing a unique perspective on the city's layout and architectural heritage.
 
 5. **Mozarthaus Augsburg**: The birthplace of composer Wolfgang Amadeus Mozart, this museum offers a glimpse into the musical heritage of the city.
 
@@ -93,7 +93,7 @@ While specific guided tours of the Barfüßertor may not be available, there are
 The best times to visit are during the spring and early fall when the weather is generally mild, enhancing the outdoor experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s advisable to check the official website for the most accurate details regarding wheelchair access.
+Accessibility information may vary, so it's advisable to check the official website for the most accurate details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases, as this may vary based on events or exhibitions.

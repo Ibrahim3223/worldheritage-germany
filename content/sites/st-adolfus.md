@@ -50,7 +50,7 @@ While specific details about the interior features are not provided, the overall
 
 Accessing St. Adolfus Church is straightforward, given its location in Düsseldorf. The church is likely well-served by public transportation, making it easy for visitors to include it in their itineraries. For the most current information regarding opening hours, admission prices, and any special events or services, be sure to check the official website.
 
-When planning your visit, consider allocating sufficient time to fully appreciate the church’s architecture and atmosphere. A visit may typically take between 30 minutes to an hour, depending on your level of interest and whether you wish to engage in quiet reflection or take in the artistic details of the building.
+When planning your visit, consider allocating sufficient time to fully appreciate the church's architecture and atmosphere. A visit may typically take between 30 minutes to an hour, depending on your level of interest and whether you wish to engage in quiet reflection or take in the artistic details of the building.
 
 The best times to visit may vary, but early mornings or late afternoons often provide a quieter experience, allowing for a more personal connection with the space. 
 

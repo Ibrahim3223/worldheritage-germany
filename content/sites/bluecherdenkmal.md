@@ -64,7 +64,7 @@ The best times to visit the Blücherdenkmal are during the spring and summer mon
 
 ## Nearby Attractions
 
-While visiting the Blücherdenkmal, take the opportunity to explore other attractions in Rostock that enhance your understanding of the city’s history and culture. 
+While visiting the Blücherdenkmal, take the opportunity to explore other attractions in Rostock that enhance your understanding of the city's history and culture. 
 
 1. **St. Mary's Church (Marienkirche)**: A stunning example of Brick Gothic architecture, this church features impressive stained glass windows and offers insight into Rostock's medieval past.
 
@@ -86,7 +86,7 @@ If you wish to learn more about the history and significance of the monument, co
 
 ## Practical Information
 
-When planning your visit to the Blücherdenkmal, it’s advisable to bring a camera for capturing your experience, as well as water and light snacks to enjoy during your stay. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area.
+When planning your visit to the Blücherdenkmal, it's advisable to bring a camera for capturing your experience, as well as water and light snacks to enjoy during your stay. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area.
 
 Seasonal considerations can affect your visit, particularly in the winter months when colder temperatures may deter outdoor activities. However, the monument's historical significance remains compelling regardless of the season.
 

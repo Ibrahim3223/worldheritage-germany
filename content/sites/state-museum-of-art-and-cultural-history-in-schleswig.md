@@ -34,17 +34,17 @@ The museum's location at Schloss Gottorf adds to its allure, as the castle itsel
 
 The State Museum of Art and Cultural History is situated in Schleswig, an area known for its rich cultural heritage. The museum's establishment reflects an ongoing commitment to preserving and showcasing the history and art of the region. While specific founding dates and details are not provided, the museum is recognized for its role in promoting awareness and appreciation of Schleswig's artistic contributions.
 
-Art and culture in Schleswig have evolved through various historical influences, from the Viking Age to the Renaissance and beyond. The museum plays a crucial role in this narrative by curating a collection that represents the region’s diverse cultural expressions. The works housed within its walls often highlight significant local artists and movements, providing insights into the societal changes throughout history.
+Art and culture in Schleswig have evolved through various historical influences, from the Viking Age to the Renaissance and beyond. The museum plays a crucial role in this narrative by curating a collection that represents the region's diverse cultural expressions. The works housed within its walls often highlight significant local artists and movements, providing insights into the societal changes throughout history.
 
 Through its exhibitions and educational programs, the museum fosters an understanding of the cultural dynamics that have shaped Schleswig. Visitors can engage with artifacts that tell stories of the past while also appreciating contemporary artistic endeavors. This dual focus not only honors the region's artistic legacy but also encourages ongoing dialogue about the role of art in society today.
 
 ## Architecture and Features
 
-The State Museum of Art and Cultural History is situated in Schloss Gottorf, an architectural marvel with a storied past. The castle itself is an example of various architectural styles, reflecting the changes that have occurred over centuries. Visitors can admire the blend of Renaissance and Baroque elements that characterize its façade, contributing to the building’s historical significance.
+The State Museum of Art and Cultural History is situated in Schloss Gottorf, an architectural marvel with a storied past. The castle itself is an example of various architectural styles, reflecting the changes that have occurred over centuries. Visitors can admire the blend of Renaissance and Baroque elements that characterize its façade, contributing to the building's historical significance.
 
 Inside, the museum features thoughtfully designed exhibition spaces that allow for an immersive experience. The layout is conducive to exploring the collection, with rooms dedicated to different themes and periods. Although specific interior features are not detailed, the museum typically emphasizes accessibility and visitor engagement, ensuring that art can be appreciated by all.
 
-The museum’s dedication to preserving both art and history is evident in its efforts to maintain the integrity of the building while adapting it for modern use. The surrounding gardens and grounds of Schloss Gottorf further enhance the overall experience, providing a picturesque setting for visitors to reflect on the exhibitions.
+The museum's dedication to preserving both art and history is evident in its efforts to maintain the integrity of the building while adapting it for modern use. The surrounding gardens and grounds of Schloss Gottorf further enhance the overall experience, providing a picturesque setting for visitors to reflect on the exhibitions.
 
 ## Visiting Information
 

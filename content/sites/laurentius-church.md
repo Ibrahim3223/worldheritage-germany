@@ -72,7 +72,7 @@ The best times to visit Laurentius Church are during weekdays when it is less cr
 
 For photography enthusiasts, the early morning or late afternoon light can create beautiful conditions for capturing the church's exterior and surrounding scenery. Additionally, visiting during weekdays can help you avoid larger crowds, allowing for more personal exploration.
 
-If you plan to attend a service or community event, arrive a bit early to secure a good spot and immerse yourself in the atmosphere. Engaging with local churchgoers can also provide insight into the community’s values and traditions.
+If you plan to attend a service or community event, arrive a bit early to secure a good spot and immerse yourself in the atmosphere. Engaging with local churchgoers can also provide insight into the community's values and traditions.
 
 ## Practical Information
 
@@ -86,10 +86,10 @@ Seasonal considerations include checking local weather conditions, as Dagebüll 
 A visit to Laurentius Church typically takes about one hour, allowing enough time to explore its architecture and absorb the atmosphere.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signs or guidelines upon entering the church.
+Photography policies can vary, so it's best to check for any signs or guidelines upon entering the church.
 
 ### Are there guided tours?
-Currently, specific information regarding guided tours is not provided. It’s advisable to check the official website for any updates or offerings.
+Currently, specific information regarding guided tours is not provided. It's advisable to check the official website for any updates or offerings.
 
 ### What's the best time to visit?
 Weekdays are generally less crowded, making them an ideal time to visit for a peaceful experience.

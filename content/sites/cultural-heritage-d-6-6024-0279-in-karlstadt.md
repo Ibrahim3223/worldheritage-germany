@@ -84,13 +84,13 @@ Check the official website for information on guided tours, which may provide de
 Spring and early autumn are ideal for pleasant weather and fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s best to check the official website for details.
+Accessibility information may vary; it's best to check the official website for details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official site for current details.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s wise to plan ahead for refreshments and restroom breaks.
+Facilities may be limited; it's wise to plan ahead for refreshments and restroom breaks.
 
 ### What should I wear?
 Comfortable, practical clothing and sturdy footwear are recommended for exploring the fortification.

@@ -64,7 +64,7 @@ While visiting the Mausoleum Schmiedell, consider exploring some of the followin
 
 3. **Schwachhausen Park**: A beautiful park nearby offers a serene environment for a leisurely stroll or a picnic, enhancing your visit to the mausoleum.
 
-4. **The Übersee-Museum**: This museum focuses on natural and cultural history, providing insights into Bremen’s role in global trade and exploration.
+4. **The Übersee-Museum**: This museum focuses on natural and cultural history, providing insights into Bremen's role in global trade and exploration.
 
 5. **Böttcherstraße**: Famous for its unique architecture and artistic heritage, this street features galleries, shops, and cafes, ideal for those wanting to experience local culture.
 

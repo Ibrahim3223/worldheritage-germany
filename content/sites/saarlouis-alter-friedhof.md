@@ -102,12 +102,12 @@ Visiting during the spring or fall is recommended for mild weather and beautiful
 Access may vary, so check the official website for the most current information regarding accessibility options.
 
 ### Can I buy tickets online?
-There are no specific details about ticket purchases. It’s best to check the official website for any updates.
+There are no specific details about ticket purchases. It's best to check the official website for any updates.
 
 ### Are there restrooms and cafes?
-Information about restrooms and nearby cafes is not provided. It’s advisable to check local amenities before your visit.
+Information about restrooms and nearby cafes is not provided. It's advisable to check local amenities before your visit.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing is recommended, particularly if you plan to walk around the cemetery for an extended period.
 
-Saarlouis Alter Friedhof stands as a significant site within the region, offering visitors a unique opportunity to engage with the area’s history and heritage in a reflective and meaningful way. Whether you are a history enthusiast, an architecture admirer, or simply looking for a peaceful escape, this cemetery invites exploration and remembrance.
+Saarlouis Alter Friedhof stands as a significant site within the region, offering visitors a unique opportunity to engage with the area's history and heritage in a reflective and meaningful way. Whether you are a history enthusiast, an architecture admirer, or simply looking for a peaceful escape, this cemetery invites exploration and remembrance.

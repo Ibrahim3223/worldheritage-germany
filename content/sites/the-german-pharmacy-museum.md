@@ -44,7 +44,7 @@ The German Pharmacy Museum is housed in the remarkable Castle of Heidelberg, a s
 
 Inside the museum, visitors will encounter a diverse array of exhibits that highlight the evolution of pharmacy. The displays include historical pharmaceutical equipment, rare books, and manuscripts that detail early medicinal practices. Notable features include reconstructed apothecary shops that provide a glimpse into historical pharmacy settings, complete with period-appropriate furnishings and artifacts. 
 
-The layout of the museum allows for an engaging exploration of its collections, with informative panels and displays that guide visitors through the history of pharmacy. The museum’s atmosphere is designed to be both educational and immersive, enabling guests to appreciate the intricate relationship between science and everyday life.
+The layout of the museum allows for an engaging exploration of its collections, with informative panels and displays that guide visitors through the history of pharmacy. The museum's atmosphere is designed to be both educational and immersive, enabling guests to appreciate the intricate relationship between science and everyday life.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While visiting The German Pharmacy Museum, there are several other sites in Heid
 
 1. **Heidelberg Castle** - Aside from the museum, the castle itself is a breathtaking historic site that offers guided tours, stunning views, and picturesque gardens.
 
-2. **Philosopher’s Walk (Philosophenweg)** - This scenic path provides a leisurely stroll with panoramic views of Heidelberg and the Neckar River, perfect for photography enthusiasts.
+2. **Philosopher's Walk (Philosophenweg)** - This scenic path provides a leisurely stroll with panoramic views of Heidelberg and the Neckar River, perfect for photography enthusiasts.
 
 3. **Old Bridge (Alte Brücke)** - An iconic landmark of Heidelberg that connects the old town to the castle area, this historic bridge is a great spot for a leisurely walk and photographs.
 
@@ -70,7 +70,7 @@ While visiting The German Pharmacy Museum, there are several other sites in Heid
 
 ## Insider Tips
 
-For photography, the museum allows for capturing the beauty of its exhibits, though it’s advisable to check for any restrictions on the use of flash or tripods. To avoid the busiest times, consider visiting during weekday mornings shortly after opening, when the museum is likely to be less crowded.
+For photography, the museum allows for capturing the beauty of its exhibits, though it's advisable to check for any restrictions on the use of flash or tripods. To avoid the busiest times, consider visiting during weekday mornings shortly after opening, when the museum is likely to be less crowded.
 
 Additionally, take your time exploring the exhibits; some displays may require more attention to fully appreciate the historical context. Engaging with the informative panels can enrich your understanding of the artifacts on display.
 

@@ -72,11 +72,11 @@ Bonn is home to several notable attractions that complement a visit to the Kunst
 
 For photography enthusiasts, while exploring the Kunstmuseum Bonn, be sure to check the museum's policy on photography, as it may vary depending on specific exhibitions. To avoid crowds, consider visiting during the early hours or on weekdays when foot traffic is typically lighter. This will enhance your experience, allowing you to engage more deeply with the artworks without distractions.
 
-If you are interested in specific exhibitions or installations, keeping an eye on the museum’s upcoming events can provide opportunities to attend artist talks or special previews.
+If you are interested in specific exhibitions or installations, keeping an eye on the museum's upcoming events can provide opportunities to attend artist talks or special previews.
 
 ## Practical Information
 
-When visiting the Kunstmuseum Bonn, it’s advisable to bring a small bag for personal items, as larger bags may not be permitted in the exhibition halls. Comfortable shoes are recommended, as you may be walking for an extended period while exploring the various displays.
+When visiting the Kunstmuseum Bonn, it's advisable to bring a small bag for personal items, as larger bags may not be permitted in the exhibition halls. Comfortable shoes are recommended, as you may be walking for an extended period while exploring the various displays.
 
 Seasonal considerations include checking the weather, as some visitors may wish to enjoy the surrounding areas outside the museum. Additionally, consider the museum's special events, which may occur during certain seasons and offer unique thematic experiences.
 

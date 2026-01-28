@@ -36,7 +36,7 @@ The Moschee in Schorndorf, established as part of the Ditib (Turkish-Islamic Uni
 
 The mosque's establishment highlights the evolution of migration patterns in Germany, particularly post-World War II, when many Turkish citizens came to the country as part of labor agreements. Over the decades, these communities have become integral to the social and economic life of towns like Schorndorf. The mosque stands as a symbol of this integration, providing a space where cultural traditions can be preserved and shared with the wider population.
 
-Cultural events held at the mosque often open doors to intercultural dialogues, allowing visitors to engage with the local Muslim community and learn about Islamic practices, customs, and beliefs. This creates opportunities for mutual respect and understanding, essential in today’s multicultural societies.
+Cultural events held at the mosque often open doors to intercultural dialogues, allowing visitors to engage with the local Muslim community and learn about Islamic practices, customs, and beliefs. This creates opportunities for mutual respect and understanding, essential in today's multicultural societies.
 
 ## Architecture and Features
 
@@ -61,7 +61,7 @@ Schorndorf is rich with attractions that complement your visit to the mosque. Co
 1. **Schorndorf Town Center**: A charming area filled with shops, cafés, and historical buildings, where you can enjoy local cuisine and culture.
 2. **Schloss Schorndorf**: This historic castle offers insight into the town's past and is an excellent spot for a leisurely stroll.
 3. **Museum Schorndorf**: A local museum showcasing the history and culture of the region, providing context to your understanding of Schorndorf.
-4. **St. John’s Church**: A beautiful church located nearby, which reflects the architectural diversity of the town.
+4. **St. John's Church**: A beautiful church located nearby, which reflects the architectural diversity of the town.
 5. **Local Parks**: The parks in Schorndorf provide a peaceful retreat and opportunities for relaxation and recreation.
 
 ## Insider Tips

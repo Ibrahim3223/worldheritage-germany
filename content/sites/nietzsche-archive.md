@@ -28,7 +28,7 @@ image_srcset:
 
 The Nietzsche Archive in Weimar, Germany, serves as a significant cultural institution dedicated to the life and works of the influential philosopher Friedrich Nietzsche. Established in a building where Nietzsche himself lived and worked, the archive provides an intimate glimpse into the mind of one of the most profound thinkers of the 19th century. Weimar, known as a hub for German intellectual and artistic movements, enhances the importance of this site, offering visitors a context for Nietzsche's philosophical explorations amidst a city rich in literary and philosophical heritage.
 
-As you approach the museum, you are greeted by the architectural elegance of the building, which reflects the aesthetic sensibilities of the period. The archive is not merely a repository of Nietzsche's writings; it also hosts a variety of documents, personal artifacts, and exhibitions that delve deep into his life, ideas, and the impact he has had on modern thought. Whether you are a philosophy enthusiast or a casual visitor, the Nietzsche Archive promises to enrich your understanding of Nietzsche’s work and its implications for contemporary society.
+As you approach the museum, you are greeted by the architectural elegance of the building, which reflects the aesthetic sensibilities of the period. The archive is not merely a repository of Nietzsche's writings; it also hosts a variety of documents, personal artifacts, and exhibitions that delve deep into his life, ideas, and the impact he has had on modern thought. Whether you are a philosophy enthusiast or a casual visitor, the Nietzsche Archive promises to enrich your understanding of Nietzsche's work and its implications for contemporary society.
 
 ## History and Significance
 
@@ -40,11 +40,11 @@ In addition to its collection, the archive has hosted numerous exhibitions and l
 
 ## Architecture and Features
 
-The architecture of the Nietzsche Archive reflects the stylistic elements of the period in which it was built. The structure features a harmonious blend of classic and modern design, which aligns with Nietzsche’s own philosophical explorations of tradition and transformation. The building is characterized by its elegant façade, large windows, and well-defined entryway, creating an inviting atmosphere for visitors.
+The architecture of the Nietzsche Archive reflects the stylistic elements of the period in which it was built. The structure features a harmonious blend of classic and modern design, which aligns with Nietzsche's own philosophical explorations of tradition and transformation. The building is characterized by its elegant façade, large windows, and well-defined entryway, creating an inviting atmosphere for visitors.
 
 Inside, the archive is thoughtfully organized into various sections, each dedicated to different aspects of Nietzsche's life and works. The exhibition spaces are designed to facilitate engagement with the materials on display. Visitors can explore manuscripts, photographs, and personal items that belonged to Nietzsche, providing a tangible connection to his life. 
 
-The layout encourages a reflective experience, allowing visitors to contemplate Nietzsche's complex ideas while being surrounded by artifacts that highlight his personal journey. The archive also features a reading room and research facilities, catering to scholars and those looking to delve deeper into Nietzsche’s philosophies.
+The layout encourages a reflective experience, allowing visitors to contemplate Nietzsche's complex ideas while being surrounded by artifacts that highlight his personal journey. The archive also features a reading room and research facilities, catering to scholars and those looking to delve deeper into Nietzsche's philosophies.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ While visiting the Nietzsche Archive, take the opportunity to explore other nota
 
 4. **Weimar City Palace**: A beautiful historical palace that offers tours and hosts exhibitions, providing a glimpse into the aristocratic history of the region.
 
-5. **Park an der Ilm**: A picturesque park perfect for a leisurely stroll, where you can enjoy the natural beauty of Weimar’s landscape.
+5. **Park an der Ilm**: A picturesque park perfect for a leisurely stroll, where you can enjoy the natural beauty of Weimar's landscape.
 
 ## Insider Tips
 

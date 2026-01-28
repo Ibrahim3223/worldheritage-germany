@@ -62,7 +62,7 @@ When visiting, dress respectfully, as St. Bonifatius is an active place of worsh
 
 St. Bonifatius is conveniently located near several other points of interest in Wiesbaden, making it an ideal starting point for a day of exploration. Here are a few nearby attractions to consider:
 
-1. **Kurhaus Wiesbaden**: This historic spa complex features stunning architecture and beautiful gardens, offering a glimpse into Wiesbaden’s spa culture.
+1. **Kurhaus Wiesbaden**: This historic spa complex features stunning architecture and beautiful gardens, offering a glimpse into Wiesbaden's spa culture.
   
 2. **Nerotalanlagen**: A picturesque park that provides walking paths, flowerbeds, and tranquil spots to relax, perfect for a leisurely stroll after visiting the church.
 
@@ -74,7 +74,7 @@ St. Bonifatius is conveniently located near several other points of interest in 
 
 ## Insider Tips
 
-To capture the essence of St. Bonifatius through photography, consider visiting during the early morning or late afternoon when natural light enhances the church’s architectural features. The interior can be stunning, particularly with the interplay of light through the stained glass windows. 
+To capture the essence of St. Bonifatius through photography, consider visiting during the early morning or late afternoon when natural light enhances the church's architectural features. The interior can be stunning, particularly with the interplay of light through the stained glass windows. 
 
 To avoid crowds, aim for a visit during weekdays, as weekends may see increased attendance due to services. If you are interested in a more immersive experience, consider checking for any special events or services that may coincide with your visit, as attending these can provide a deeper connection to the church's community.
 
@@ -90,7 +90,7 @@ Consider the seasonal weather when visiting Wiesbaden. The spring and summer mon
 Plan to spend at least an hour at St. Bonifatius to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to be respectful and check for any specific restrictions, especially during services.
+Photography is generally allowed, but it's best to be respectful and check for any specific restrictions, especially during services.
 
 ### Are there guided tours?
 Information regarding guided tours may vary, so it's advisable to check the official website for updates.
@@ -99,7 +99,7 @@ Information regarding guided tours may vary, so it's advisable to check the offi
 Weekdays are typically less crowded, offering a more peaceful experience. Early morning or late afternoon can provide optimal lighting for photography.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not provided, churches often have varying degrees of accessibility. It’s best to check ahead for accommodations.
+While specific accessibility details are not provided, churches often have varying degrees of accessibility. It's best to check ahead for accommodations.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options.

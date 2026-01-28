@@ -30,7 +30,7 @@ The Düsseldorfer Marionetten-Theater has carved out a significant niche in the 
 
 The significance of the Düsseldorfer Marionetten-Theater extends beyond mere entertainment. It serves as a cultural hub, fostering creativity and providing a space for both established and emerging puppeteers to showcase their work. In a world where digital entertainment often dominates, the theater offers a refreshing departure that emphasizes the artistry and craftsmanship involved in live performances.
 
-The theater’s programming often features a mix of classic tales and original stories, appealing to a wide range of audiences, including families and children. This focus on storytelling, combined with puppetry, encourages a dialogue between generations, allowing children to experience the magic of live performance while parents and grandparents reminisce about their own experiences with puppetry.
+The theater's programming often features a mix of classic tales and original stories, appealing to a wide range of audiences, including families and children. This focus on storytelling, combined with puppetry, encourages a dialogue between generations, allowing children to experience the magic of live performance while parents and grandparents reminisce about their own experiences with puppetry.
 
 ## Architecture and Features
 
@@ -80,7 +80,7 @@ Seasonal considerations may also play a role in your visit. If you are traveling
 Expect to spend approximately 1-2 hours at the theater for a performance, plus additional time for any pre-show exploration or refreshments.
 
 ### Is photography allowed?
-Photography policies vary, so it’s best to check with theater staff before taking any pictures during performances.
+Photography policies vary, so it's best to check with theater staff before taking any pictures during performances.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified. Check the official website for details on whether such options are available.
@@ -95,7 +95,7 @@ For information on accessibility features, including wheelchair access, please c
 Check the official website for details on online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafés may be available. It’s advisable to check the official website for specifics.
+Facilities such as restrooms and nearby cafés may be available. It's advisable to check the official website for specifics.
 
 ### What should I wear?
 Comfortable clothing is recommended for your visit, considering the duration of the performance and seating arrangements. 

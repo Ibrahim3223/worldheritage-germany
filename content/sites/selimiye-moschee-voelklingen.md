@@ -30,7 +30,7 @@ The Selimiye-Moschee Völklingen is a cultural and architectural landmark that b
 
 ## History and Significance
 
-The Selimiye-Moschee Völklingen's establishment reflects the evolving demographics of Germany and the increasing presence of Islamic culture within the country. While specific historical dates are not provided, it's clear that this mosque plays a vital role in the local Muslim community, serving as a spiritual home and a gathering place for worship and cultural events. The mosque’s existence is a testament to the growing multiculturalism in European societies, promoting dialogue and understanding among various faiths and communities.
+The Selimiye-Moschee Völklingen's establishment reflects the evolving demographics of Germany and the increasing presence of Islamic culture within the country. While specific historical dates are not provided, it's clear that this mosque plays a vital role in the local Muslim community, serving as a spiritual home and a gathering place for worship and cultural events. The mosque's existence is a testament to the growing multiculturalism in European societies, promoting dialogue and understanding among various faiths and communities.
 
 In the context of Völklingen, the mosque stands as a significant symbol of diversity in a city that has historically been shaped by industrialization and migration. As the town transitioned from its industrial roots, the Selimiye-Moschee emerged as a landmark that represents the contributions of the Muslim community to the social fabric of Völklingen. The mosque not only provides a sanctuary for prayer but also serves as a venue for educational and cultural activities, further enhancing its importance within the community.
 
@@ -74,7 +74,7 @@ To avoid crowds, aim to visit during non-peak times, such as early mornings or w
 
 ## Practical Information
 
-When visiting the Selimiye-Moschee Völklingen, it’s advisable to bring along essentials such as water and comfortable walking shoes, especially if you plan to explore the surrounding area. Being mindful of the mosque's religious nature, it is recommended to dress modestly, with women often expected to cover their heads and wear loose-fitting clothing.
+When visiting the Selimiye-Moschee Völklingen, it's advisable to bring along essentials such as water and comfortable walking shoes, especially if you plan to explore the surrounding area. Being mindful of the mosque's religious nature, it is recommended to dress modestly, with women often expected to cover their heads and wear loose-fitting clothing.
 
 Seasonal considerations are important as well. While the mosque is open year-round, check local weather conditions before your visit to ensure a comfortable experience.
 
@@ -84,7 +84,7 @@ Seasonal considerations are important as well. While the mosque is open year-rou
 A visit typically lasts between one to two hours, allowing ample time to explore the mosque and its community atmosphere.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check upon arrival or consult the official website for specific guidelines.
+Photography policies may vary; it's best to check upon arrival or consult the official website for specific guidelines.
 
 ### Are there guided tours?
 While specific tour information is not provided, inquire at the mosque regarding any available guided tours or educational programs.

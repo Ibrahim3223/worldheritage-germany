@@ -34,13 +34,13 @@ This guide will navigate you through the history and significance of the Würzbu
 
 ## History and Significance
 
-The Würzburger Domschatz is a reflection of the rich ecclesiastical heritage of the region, encapsulating centuries of religious devotion and artistic expression. The museum’s collection is primarily focused on the treasures associated with the Würzburg Cathedral, which has served as a spiritual center for the community for generations. 
+The Würzburger Domschatz is a reflection of the rich ecclesiastical heritage of the region, encapsulating centuries of religious devotion and artistic expression. The museum's collection is primarily focused on the treasures associated with the Würzburg Cathedral, which has served as a spiritual center for the community for generations. 
 
 The cathedral itself has held significant importance since its early establishment, playing a vital role in the religious and cultural life of the area. The artifacts on display are not just items of historical value; they embody the faith and dedication of the people who created and used them. Each piece reflects the craftsmanship of various artisans, showcasing intricate designs and materials that were highly prized in their time.
 
 Among the treasures, visitors can find elaborate liturgical objects used in the celebration of Mass, ceremonial vestments worn by bishops and priests, and precious reliquaries that housed the remains of saints. These items have not only served practical purposes but also symbolize the deep-rooted faith of the community and the significance of the cathedral as a hub of spiritual life.
 
-The Domschatz's establishment as a museum allows for the preservation and exhibition of these invaluable artifacts, ensuring that future generations can appreciate and learn from the rich history of Würzburg’s ecclesiastical heritage. This collection provides insights into the intersection of art, religion, and community, making it a vital cultural institution in Germany.
+The Domschatz's establishment as a museum allows for the preservation and exhibition of these invaluable artifacts, ensuring that future generations can appreciate and learn from the rich history of Würzburg's ecclesiastical heritage. This collection provides insights into the intersection of art, religion, and community, making it a vital cultural institution in Germany.
 
 ## Architecture and Features
 

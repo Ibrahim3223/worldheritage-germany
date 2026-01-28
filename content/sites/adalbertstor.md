@@ -26,21 +26,21 @@ image_srcset:
 
 ## Overview
 
-Adalbertstor is a remarkable city gate located in Aachen, Germany, that plays a significant role in the architectural and historical landscape of the region. As a key entry point to the city, this structure not only served a practical function but also reflects the town's medieval heritage and urban development. Positioned at the coordinates 50.77472, 6.09472, Adalbertstor stands as a symbol of Aachen’s past, offering visitors a glimpse into the city’s evolution over the centuries.
+Adalbertstor is a remarkable city gate located in Aachen, Germany, that plays a significant role in the architectural and historical landscape of the region. As a key entry point to the city, this structure not only served a practical function but also reflects the town's medieval heritage and urban development. Positioned at the coordinates 50.77472, 6.09472, Adalbertstor stands as a symbol of Aachen's past, offering visitors a glimpse into the city's evolution over the centuries.
 
-The city gate's historical context is further enriched by Aachen’s status as a center of power during the Carolingian Empire, making Adalbertstor a focal point for those interested in the interplay of history, culture, and architecture. Visitors can appreciate its significance while exploring the surrounding area, where traditional German culture meets modern vibrancy. Whether you are a history enthusiast, an architecture aficionado, or simply seeking to enjoy the charm of Aachen, Adalbertstor promises an engaging experience.
+The city gate's historical context is further enriched by Aachen's status as a center of power during the Carolingian Empire, making Adalbertstor a focal point for those interested in the interplay of history, culture, and architecture. Visitors can appreciate its significance while exploring the surrounding area, where traditional German culture meets modern vibrancy. Whether you are a history enthusiast, an architecture aficionado, or simply seeking to enjoy the charm of Aachen, Adalbertstor promises an engaging experience.
 
 ## History and Significance
 
 The history of Adalbertstor is intrinsically linked to the broader narrative of Aachen. Founded as a Roman settlement, the city evolved into a crucial political center during the reign of Charlemagne. Although specific dates and events related to the construction of Adalbertstor are not detailed, it is understood that city gates like this were integral to the defense and regulation of medieval towns, allowing for controlled access and trade.
 
-As one of the surviving gates, Adalbertstor serves as a physical reminder of the city’s medieval fortifications, which were essential for protection against invasions and conflicts. The gate would have witnessed crucial historical events, including the crowning of emperors and significant trade activities. Its preservation contributes to our understanding of urban planning and architecture during the medieval period in Europe.
+As one of the surviving gates, Adalbertstor serves as a physical reminder of the city's medieval fortifications, which were essential for protection against invasions and conflicts. The gate would have witnessed crucial historical events, including the crowning of emperors and significant trade activities. Its preservation contributes to our understanding of urban planning and architecture during the medieval period in Europe.
 
-Culturally, Adalbertstor is part of a broader heritage that encompasses Aachen’s historical monuments, including its renowned cathedral and other structures. The gate's continued presence in the cityscape emphasizes the importance of preserving historical sites that reflect the identity and evolution of communities. For visitors, exploring Adalbertstor is an opportunity to engage with the layers of history that have shaped Aachen into the vibrant city it is today.
+Culturally, Adalbertstor is part of a broader heritage that encompasses Aachen's historical monuments, including its renowned cathedral and other structures. The gate's continued presence in the cityscape emphasizes the importance of preserving historical sites that reflect the identity and evolution of communities. For visitors, exploring Adalbertstor is an opportunity to engage with the layers of history that have shaped Aachen into the vibrant city it is today.
 
 ## Architecture and Features
 
-Adalbertstor is characterized by its robust architectural style, typical of medieval city gates. The structure features a combination of stone and brick, showcasing the materials that were commonly used in the region’s construction during its time. The gate is relatively simple in design, yet it carries an imposing presence that reflects its historical purpose as a point of entry.
+Adalbertstor is characterized by its robust architectural style, typical of medieval city gates. The structure features a combination of stone and brick, showcasing the materials that were commonly used in the region's construction during its time. The gate is relatively simple in design, yet it carries an imposing presence that reflects its historical purpose as a point of entry.
 
 Notable features include the sturdy walls that have withstood the test of time, with details that hint at the craftsmanship of the era. The gateway itself often showcases arches that provide both structural integrity and aesthetic appeal. Visitors will notice the wear of centuries, which adds to the authenticity and charm of the site. 
 
@@ -89,7 +89,7 @@ A visit to Adalbertstor typically takes about an hour, but you may wish to exten
 Yes, photography is allowed at Adalbertstor, making it a great spot for capturing memories.
 
 ### Are there guided tours?
-While specific guided tours of Adalbertstor may not be available, local guides often include it in broader tours of Aachen’s historical sites.
+While specific guided tours of Adalbertstor may not be available, local guides often include it in broader tours of Aachen's historical sites.
 
 ### What's the best time to visit?
 Early mornings or late afternoons are ideal for visiting Adalbertstor to avoid crowds and enjoy a quieter experience.

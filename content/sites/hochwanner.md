@@ -58,7 +58,7 @@ Visitors should be prepared for changing weather conditions, which can affect hi
 
 ## Nearby Attractions
 
-1. **Zugspitze:** As Germany’s highest peak, Zugspitze is a must-visit for those in the area. It offers stunning views, a glacier, and various outdoor activities.
+1. **Zugspitze:** As Germany's highest peak, Zugspitze is a must-visit for those in the area. It offers stunning views, a glacier, and various outdoor activities.
    
 2. **Partnach Gorge:** This natural wonder features a dramatic canyon with stunning waterfalls and narrow passageways, making it a popular spot for walking and photography.
 
@@ -76,7 +76,7 @@ Be sure to carry a camera that can capture the stunning vistas, and if you're in
 
 ## Practical Information
 
-When visiting Hochwanner, it’s advisable to bring essential items such as water, snacks, a map, and a first-aid kit. Proper hiking gear, including sturdy boots and weather-appropriate clothing, will enhance your comfort and safety during your adventure.
+When visiting Hochwanner, it's advisable to bring essential items such as water, snacks, a map, and a first-aid kit. Proper hiking gear, including sturdy boots and weather-appropriate clothing, will enhance your comfort and safety during your adventure.
 
 Seasonal considerations are important; in summer, ensure you have sun protection, while in winter months, be prepared for snow and ice. Check the official website for any specific seasonal alerts or recommendations regarding trail conditions.
 

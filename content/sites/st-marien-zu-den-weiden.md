@@ -53,10 +53,10 @@ Upon arrival, guests may find informative materials available to enhance their u
 While visiting St. Marien zu den Weiden, there are several nearby attractions that complement the experience:
 
 1. **Wismar Market Square**: A bustling hub featuring historic buildings and vibrant shops, perfect for a leisurely stroll or a bite to eat.
-2. **St. George’s Church**: Another notable church in Wismar, showcasing unique architectural elements and a rich history.
+2. **St. George's Church**: Another notable church in Wismar, showcasing unique architectural elements and a rich history.
 3. **Wismar Harbor**: A picturesque area ideal for those interested in maritime culture and local seafood cuisine.
 4. **The Swedish Warehouse**: A historical building that reflects Wismar's trading past, now hosting various exhibitions and events.
-5. **The Old Town**: A UNESCO World Heritage site filled with charming streets, cafes, and shops that capture the essence of Wismar’s history.
+5. **The Old Town**: A UNESCO World Heritage site filled with charming streets, cafes, and shops that capture the essence of Wismar's history.
 
 ## Insider Tips
 

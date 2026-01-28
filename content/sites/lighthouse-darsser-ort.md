@@ -82,7 +82,7 @@ To make the most of your visit to the Lighthouse Darßer Ort, consider the follo
 
 When planning your visit to the Lighthouse Darßer Ort, consider the following:
 
-- **What to Bring**: Essentials include comfortable clothing, sturdy shoes, sunscreen, and water. If you plan to take photographs, don’t forget your camera and additional batteries.
+- **What to Bring**: Essentials include comfortable clothing, sturdy shoes, sunscreen, and water. If you plan to take photographs, don't forget your camera and additional batteries.
 
 - **Seasonal Considerations**: The region experiences distinct seasons, so be sure to dress appropriately for the weather. Summers can be warm, while winters may bring colder temperatures and potential snow.
 
@@ -109,7 +109,7 @@ For specific accessibility options, check the official website for current infor
 Check the official website for details regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s wise to check the official website for specifics.
+Facilities may be available on-site, but it's wise to check the official website for specifics.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing and sturdy shoes are recommended, especially for walking in natural areas.

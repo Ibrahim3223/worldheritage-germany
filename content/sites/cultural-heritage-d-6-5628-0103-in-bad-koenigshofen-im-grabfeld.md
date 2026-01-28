@@ -38,7 +38,7 @@ Cultural heritage D-6-5628-0103 showcases a classic example of fortification arc
 
 The design of this fortification likely incorporates elements such as towers or bastions, which would have been critical for surveillance and defense. These features not only served practical purposes but also contributed to the imposing presence of the structure in the landscape. The use of local materials for construction may also be evident, reflecting the architectural practices of the region during the period of its establishment.
 
-Visitors can expect to see remnants of the original layout, which might include passageways, living quarters for soldiers, and areas designated for storage or armament. The fortification’s enduring structure offers a tangible connection to the past, allowing you to imagine the daily lives of those who once inhabited these walls.
+Visitors can expect to see remnants of the original layout, which might include passageways, living quarters for soldiers, and areas designated for storage or armament. The fortification's enduring structure offers a tangible connection to the past, allowing you to imagine the daily lives of those who once inhabited these walls.
 
 As you explore the fortification, take note of the subtle details that speak to its historical function. The interplay of light and shadow on the stone walls, the echoes of footsteps on ancient pathways, and the expansive views that might have once provided a strategic advantage all contribute to the experience of visiting this remarkable site.
 
@@ -101,7 +101,7 @@ Guided tours may be available; check the official website for current offerings.
 Spring and summer are ideal for pleasant weather, but visiting during quieter times can enhance your experience.
 
 ### Is it wheelchair accessible?
-Accessibility may vary; it’s best to check with the site for specific details.
+Accessibility may vary; it's best to check with the site for specific details.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and availability.

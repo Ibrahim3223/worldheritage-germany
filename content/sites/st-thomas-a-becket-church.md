@@ -44,7 +44,7 @@ Culturally, the church has played a crucial role in the spiritual life of the co
 
 St. Thomas a Becket Church is characterized by its distinctive architectural style, which reflects the influences of various periods in its development. The church's facade showcases elements that are typical of ecclesiastical architecture, with a focus on symmetry and proportion that invites admiration from passersby. The use of traditional materials in its construction adds to the authenticity and historical value of the building.
 
-Inside, visitors will find a serene atmosphere, conducive to reflection and prayer. The interior of the church is often adorned with elements that may include stained glass windows, altars, and other religious iconography, each telling a story of faith and devotion. These features not only enhance the spiritual ambiance but also provide insight into the artistic practices prevalent at the time of the church’s construction and subsequent renovations.
+Inside, visitors will find a serene atmosphere, conducive to reflection and prayer. The interior of the church is often adorned with elements that may include stained glass windows, altars, and other religious iconography, each telling a story of faith and devotion. These features not only enhance the spiritual ambiance but also provide insight into the artistic practices prevalent at the time of the church's construction and subsequent renovations.
 
 The church's layout is typical of many Christian structures, often featuring a nave, aisles, and a sanctuary area. These spaces are designed to accommodate congregational worship and facilitate various religious ceremonies. The acoustics within the church may also contribute to a profound experience during services, allowing for the uplifting sounds of hymns and prayers to resonate throughout the space.
 
@@ -84,7 +84,7 @@ Make sure to take a moment to sit quietly in the pews, absorbing the ambiance an
 
 ## Practical Information
 
-When preparing for your visit to St. Thomas a Becket Church, it’s advisable to bring a small bag with essentials, such as water, a camera, and perhaps a guidebook or notes for personal reflection.
+When preparing for your visit to St. Thomas a Becket Church, it's advisable to bring a small bag with essentials, such as water, a camera, and perhaps a guidebook or notes for personal reflection.
 
 Seasonal considerations are important as well. Hamburg can experience variable weather, so dressing in layers is recommended. If visiting in the winter months, ensure you have warm clothing, as the church may be cooler than expected.
 

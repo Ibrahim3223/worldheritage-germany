@@ -52,7 +52,7 @@ When planning a visit to the Bethel Foundation, it is advisable to check the off
 
 Upon arrival, visitors can expect a warm welcome, with staff available to assist and guide them throughout the facilities. It is recommended to allocate sufficient time to explore the foundation fully, as there may be various programs or events taking place that could enrich the visit.
 
-The best times to visit Bethel may align with community events or open days, allowing for a more engaging experience. Visitors are encouraged to check the events schedule on the foundation’s website to plan their visit accordingly.
+The best times to visit Bethel may align with community events or open days, allowing for a more engaging experience. Visitors are encouraged to check the events schedule on the foundation's website to plan their visit accordingly.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ While visiting the Bethel Foundation, there are several nearby attractions that 
 
 For those planning a visit to the Bethel Foundation, here are some insider tips to enhance your experience:
 
-- **Photography**: Always check the foundation's policy on photography, especially in areas where privacy is a concern. Capturing the architecture and communal spaces can be rewarding, but be respectful of residents’ privacy.
+- **Photography**: Always check the foundation's policy on photography, especially in areas where privacy is a concern. Capturing the architecture and communal spaces can be rewarding, but be respectful of residents' privacy.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider going during weekdays or outside of major events. This allows for a more intimate experience and the opportunity to engage with staff and residents without the hustle and bustle of larger crowds.
 

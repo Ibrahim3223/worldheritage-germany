@@ -101,7 +101,7 @@ Accessibility information is not specified; check the official website for detai
 Check the official website for current information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Information on amenities such as restrooms and cafes is not detailed; it’s best to check the official website for visitor facilities.
+Information on amenities such as restrooms and cafes is not detailed; it's best to check the official website for visitor facilities.
 
 ### What should I wear?
 Dress comfortably, keeping in mind that you may be walking and spending time in varying temperatures, especially if participating in workshops or demonstrations.

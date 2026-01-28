@@ -92,7 +92,7 @@ When planning your visit to St. Nicolaikirche, consider the following practical 
 A visit to St. Nicolaikirche typically takes about an hour, allowing time to explore the interior and appreciate the architecture.
 
 ### Is photography allowed?
-Photography may be allowed, but it’s advisable to check for any restrictions, especially during services or events.
+Photography may be allowed, but it's advisable to check for any restrictions, especially during services or events.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website for current offerings.

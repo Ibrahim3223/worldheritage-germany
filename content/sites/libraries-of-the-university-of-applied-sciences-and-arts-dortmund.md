@@ -38,7 +38,7 @@ The Libraries of the University of Applied Sciences and Arts Dortmund have a sig
 
 As a university library, it has adapted to the changing needs of its users, reflecting advancements in technology and shifts in educational methodologies. The library is designed to support various academic disciplines, which is essential for fostering a holistic educational experience. Its collections include a mix of traditional media, such as books and periodicals, as well as digital resources that cater to the needs of contemporary students and researchers.
 
-In addition to its educational role, the library is a cultural touchpoint for the local community, hosting events, workshops, and exhibitions that promote intellectual engagement. The library’s commitment to innovation and accessibility demonstrates its importance not only as a resource for academic pursuits but also as a facilitator of lifelong learning.
+In addition to its educational role, the library is a cultural touchpoint for the local community, hosting events, workshops, and exhibitions that promote intellectual engagement. The library's commitment to innovation and accessibility demonstrates its importance not only as a resource for academic pursuits but also as a facilitator of lifelong learning.
 
 ## Architecture and Features
 
@@ -90,7 +90,7 @@ When visiting the Libraries of the University of Applied Sciences and Arts Dortm
 
 - **Headphones**: If you intend to use multimedia resources or study in communal spaces, headphones can help maintain focus.
 
-Seasonal considerations should also be taken into account. Check the library’s schedule for any special hours or events that may occur during holidays or academic breaks.
+Seasonal considerations should also be taken into account. Check the library's schedule for any special hours or events that may occur during holidays or academic breaks.
 
 ## Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Guided tours of the library may be offered, especially for groups or special eve
 Weekdays, especially in the early morning or late afternoon, tend to be quieter, making them ideal for a more peaceful visit.
 
 ### Is it wheelchair accessible?
-The library is designed to be accessible to all visitors, but it’s advisable to verify specific accessibility features on the official website.
+The library is designed to be accessible to all visitors, but it's advisable to verify specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on any entry fees or special events requiring tickets.

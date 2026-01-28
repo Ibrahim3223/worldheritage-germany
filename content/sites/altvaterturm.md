@@ -80,7 +80,7 @@ To make the most of your visit to Altvaterturm, consider the following tips:
 
 - **Crowd Avoidance**: Weekdays generally see fewer visitors compared to weekends, making them the ideal time for a more peaceful experience.
 
-- **Engage with Locals**: Don't hesitate to strike up conversations with locals or staff. They may have fascinating stories about the tower and the region that can deepen your understanding of what you’re experiencing.
+- **Engage with Locals**: Don't hesitate to strike up conversations with locals or staff. They may have fascinating stories about the tower and the region that can deepen your understanding of what you're experiencing.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ When preparing for your visit to Altvaterturm, it's advisable to bring along a f
 
 - **Seasonal Considerations**: Depending on the season, be prepared for varying weather conditions. Layering clothing can help you adapt to changes in temperature throughout the day.
 
-- **Respect Local Guidelines**: Always follow any guidelines set by the site’s management to ensure a safe and respectful visit.
+- **Respect Local Guidelines**: Always follow any guidelines set by the site's management to ensure a safe and respectful visit.
 
 ## Frequently Asked Questions
 

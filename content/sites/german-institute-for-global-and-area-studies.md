@@ -40,7 +40,7 @@ Inside, you may find well-appointed research facilities that support a variety o
 
 To visit the German Institute for Global and Area Studies, travelers will find it conveniently located in Hamburg, a city well-connected by public transport. The institute can be reached via local bus and train services, making it accessible for both residents and tourists. Given the nature of the institute, it is advisable to check the official website for current information regarding hours of operation and any potential entry fees, as these can vary.
 
-Visitors can expect an engaging environment where they can learn about the institute's research and its implications for global and regional studies. The duration of a visit may depend on individual interests; however, allocating a few hours would allow for a meaningful exploration of the institute’s offerings. It is also beneficial to check for any scheduled public events or lectures that might coincide with your visit, as these can provide deeper insight into current research themes.
+Visitors can expect an engaging environment where they can learn about the institute's research and its implications for global and regional studies. The duration of a visit may depend on individual interests; however, allocating a few hours would allow for a meaningful exploration of the institute's offerings. It is also beneficial to check for any scheduled public events or lectures that might coincide with your visit, as these can provide deeper insight into current research themes.
 
 The best times to visit may align with public events or the academic calendar, but checking the official website will yield the most accurate details regarding specific programming.
 

@@ -64,11 +64,11 @@ For those interested in guided tours, it is worth checking ahead to see if such 
 
 The Diözesanmuseum Paderborn is well-placed for visitors looking to explore additional historical and cultural sites in the area. Here are a few nearby attractions that complement a visit to the museum:
 
-1. **Paderborn Cathedral (Dom zu Paderborn)** - This iconic structure is a must-see for anyone interested in ecclesiastical architecture and history. The cathedral’s stunning design and rich history make it a prominent feature of the city.
+1. **Paderborn Cathedral (Dom zu Paderborn)** - This iconic structure is a must-see for anyone interested in ecclesiastical architecture and history. The cathedral's stunning design and rich history make it a prominent feature of the city.
 
-2. **Historical Town Center** - The charming streets of Paderborn’s town center offer a mix of shops, cafes, and historical buildings that reflect the city’s long history. Strolling through this area provides a chance to soak in the local atmosphere.
+2. **Historical Town Center** - The charming streets of Paderborn's town center offer a mix of shops, cafes, and historical buildings that reflect the city's long history. Strolling through this area provides a chance to soak in the local atmosphere.
 
-3. **The Imperial Palace (Kaiserpfalz)** - This historical site offers insights into the political significance of Paderborn throughout the centuries. The remains and exhibitions available here can provide a deeper understanding of the region’s governance and culture.
+3. **The Imperial Palace (Kaiserpfalz)** - This historical site offers insights into the political significance of Paderborn throughout the centuries. The remains and exhibitions available here can provide a deeper understanding of the region's governance and culture.
 
 4. **The Pader Springs** - Known as the source of the Pader River, this natural site is a peaceful retreat where visitors can enjoy the beauty of nature, making it an ideal spot for a leisurely walk after visiting the museum.
 
@@ -99,10 +99,10 @@ A visit to the Diözesanmuseum Paderborn typically requires a few hours to fully
 Photography policies may vary, so it is advisable to check the museum's guidelines regarding photography before your visit.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the collections. It’s best to consult the official website for details and availability.
+Guided tours may be available, providing deeper insights into the collections. It's best to consult the official website for details and availability.
 
 ### What's the best time to visit?
-Weekdays, particularly in the morning, tend to be less crowded. Checking the museum’s calendar for special events can also inform the best time to visit.
+Weekdays, particularly in the morning, tend to be less crowded. Checking the museum's calendar for special events can also inform the best time to visit.
 
 ### Is it wheelchair accessible?
 The accessibility of the museum for individuals with mobility issues may vary. For current accessibility options, please check the official website.

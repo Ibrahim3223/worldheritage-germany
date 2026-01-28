@@ -32,7 +32,7 @@ The historical context of Garten Biedenbach is deeply intertwined with the cultu
 
 While specific historical dates and events may not be available, the garden's designation as a cultural site reflects its importance in the community. Such gardens often serve as venues for local gatherings, events, and educational programs, fostering a sense of community and continuity. They also provide insight into the agricultural and aesthetic practices that have shaped the region over the years.
 
-The significance of Garten Biedenbach extends beyond its physical boundaries, as it embodies the values of sustainability and conservation that are increasingly relevant in today’s world. Engaging with such spaces encourages a deeper appreciation for the environment and promotes the importance of maintaining green spaces for future generations. Thus, this garden not only enriches the local landscape but also serves as a reminder of the intricate relationship between nature and culture.
+The significance of Garten Biedenbach extends beyond its physical boundaries, as it embodies the values of sustainability and conservation that are increasingly relevant in today's world. Engaging with such spaces encourages a deeper appreciation for the environment and promotes the importance of maintaining green spaces for future generations. Thus, this garden not only enriches the local landscape but also serves as a reminder of the intricate relationship between nature and culture.
 
 ## Architecture and Features
 

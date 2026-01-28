@@ -78,7 +78,7 @@ For those planning a visit to Dorfkirche Hanstorf, here are some insider tips to
 
 ## Practical Information
 
-When visiting Dorfkirche Hanstorf, it’s advisable to bring along some essentials to ensure a comfortable experience. Consider packing water, comfortable walking shoes, and a light jacket, as weather conditions can vary. 
+When visiting Dorfkirche Hanstorf, it's advisable to bring along some essentials to ensure a comfortable experience. Consider packing water, comfortable walking shoes, and a light jacket, as weather conditions can vary. 
 
 Be mindful of seasonal considerations, as the region may experience colder temperatures in winter. Dress appropriately for the weather, particularly if you plan to explore the surrounding areas. 
 

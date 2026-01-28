@@ -36,7 +36,7 @@ St. Bernward's Church has a deep connection to Hildesheim's ecclesiastical histo
 
 The church reflects the Romanesque architectural style that was prevalent during its time, which is characterized by its robust structure and rounded arches. This architectural approach not only served aesthetic purposes but also symbolized stability and permanence. St. Bernward's Church played a significant role in the development of Hildesheim as a religious center, impacting the spiritual landscape of the region for centuries.
 
-Throughout its history, the church has witnessed numerous events, from ecclesiastical ceremonies to adaptations over time that have preserved its relevance. It has also been a site of pilgrimage, drawing visitors who seek spiritual solace and connection to the past. The church’s historical significance is further amplified by its inclusion in discussions surrounding the preservation of cultural heritage in Germany.
+Throughout its history, the church has witnessed numerous events, from ecclesiastical ceremonies to adaptations over time that have preserved its relevance. It has also been a site of pilgrimage, drawing visitors who seek spiritual solace and connection to the past. The church's historical significance is further amplified by its inclusion in discussions surrounding the preservation of cultural heritage in Germany.
 
 ## Architecture and Features
 
@@ -62,11 +62,11 @@ In addition to St. Bernward's Church, Hildesheim offers several attractions that
    
 2. **Market Square** - The heart of Hildesheim, this vibrant square features historic buildings and is an excellent place to enjoy local cuisine and culture.
    
-3. **Hildesheim City Museum** - This museum provides insights into the history of Hildesheim, showcasing artifacts and exhibitions that chronicle the city’s past.
+3. **Hildesheim City Museum** - This museum provides insights into the history of Hildesheim, showcasing artifacts and exhibitions that chronicle the city's past.
    
 4. **Rose Garden** - A serene park that offers a beautiful collection of roses and a peaceful setting for relaxation and contemplation.
    
-5. **The Historic Market Town of Hildesheim** - A stroll through the town reveals picturesque streets and charming architecture that reflects the city’s rich history.
+5. **The Historic Market Town of Hildesheim** - A stroll through the town reveals picturesque streets and charming architecture that reflects the city's rich history.
 
 ## Insider Tips
 
@@ -89,7 +89,7 @@ A visit typically takes around one hour, allowing ample time to explore the chur
 Photography is generally permitted, but be respectful of the sacred space and any specific guidelines posted within the church.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they may enhance your understanding of the church’s history and architecture.
+Check the official website for information on guided tours, as they may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays are often less crowded, providing a more peaceful experience, while mornings or late afternoons offer beautiful lighting for photography.

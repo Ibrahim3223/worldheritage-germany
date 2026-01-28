@@ -32,7 +32,7 @@ Gifhorn, located in the heart of Lower Saxony, is known for its blend of traditi
 
 ## History and Significance
 
-The Glockenpalast stands as an important cultural institution within Gifhorn, reflecting the town’s commitment to fostering cultural dialogue and artistic expression. Although specific historical dates are unavailable, the architectural style of the building draws inspiration from traditional Russian designs, which is a rarity in the region. This adds to the building's significance and its role in broadening the cultural offerings of Gifhorn.
+The Glockenpalast stands as an important cultural institution within Gifhorn, reflecting the town's commitment to fostering cultural dialogue and artistic expression. Although specific historical dates are unavailable, the architectural style of the building draws inspiration from traditional Russian designs, which is a rarity in the region. This adds to the building's significance and its role in broadening the cultural offerings of Gifhorn.
 
 The institution "Die Brücke" serves as a platform for various artistic endeavors, providing space for exhibitions, performances, and community events. The name itself, which translates to "The Bridge," symbolizes the connection between different cultures and the exchange of ideas. The Glockenpalast plays an essential role in this mission, encouraging creative exploration and collaboration among artists and the public.
 

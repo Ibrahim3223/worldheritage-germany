@@ -52,7 +52,7 @@ The best times to visit are during the evenings, as many performances are schedu
 
 Frankfurt is home to a wealth of attractions that can enhance your cultural experience. After visiting Kabarett Änderungsschneiderei, consider exploring the following nearby sites:
 
-1. **Frankfurt’s Old Town (Altstadt)**: A historic area featuring charming streets, traditional architecture, and notable landmarks such as Römer, the city hall.
+1. **Frankfurt's Old Town (Altstadt)**: A historic area featuring charming streets, traditional architecture, and notable landmarks such as Römer, the city hall.
 
 2. **Städel Museum**: An art museum showcasing a diverse collection of European art from the Middle Ages to contemporary works, offering a deep dive into artistic heritage.
 

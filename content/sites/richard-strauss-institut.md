@@ -36,15 +36,15 @@ The Richard-Strauss-Institut was established with the intention of honoring the 
 
 The significance of the institute extends beyond the mere preservation of artifacts. It actively engages in research and scholarship, facilitating a deeper understanding of Strauss's music and its impact on the cultural landscape of his time. By housing manuscripts, correspondence, and other historical documents, the institute plays an essential role in the ongoing dialogue about Strauss's influence in contemporary music. 
 
-Visitors to the Richard-Strauss-Institut can gain insights into the composer's personal life, his artistic collaborations, and the socio-political contexts that shaped his work. The institute’s commitment to education and outreach ensures that Strauss's music remains relevant, fostering appreciation among both seasoned musicians and newcomers alike. 
+Visitors to the Richard-Strauss-Institut can gain insights into the composer's personal life, his artistic collaborations, and the socio-political contexts that shaped his work. The institute's commitment to education and outreach ensures that Strauss's music remains relevant, fostering appreciation among both seasoned musicians and newcomers alike. 
 
 ## Architecture and Features
 
-The Richard-Strauss-Institut exemplifies a harmonious blend of modern functionality and thoughtful design, reflecting the institute’s mission to preserve and promote the works of Richard Strauss. The architecture is characterized by a contemporary style that is both inviting and conducive to the study of music. The spaces within the institute are thoughtfully arranged to facilitate research, exhibitions, and public engagement.
+The Richard-Strauss-Institut exemplifies a harmonious blend of modern functionality and thoughtful design, reflecting the institute's mission to preserve and promote the works of Richard Strauss. The architecture is characterized by a contemporary style that is both inviting and conducive to the study of music. The spaces within the institute are thoughtfully arranged to facilitate research, exhibitions, and public engagement.
 
 Inside, visitors will find a variety of features designed to enhance their experience. The museum area often showcases exhibitions that highlight different aspects of Strauss's life and work, including interactive displays that provide context for his compositions. The institute also houses an extensive archive, which is crucial for researchers and musicians looking to explore the depths of Strauss's oeuvre.
 
-Notable collections include original manuscripts, letters, and personal artifacts that once belonged to Strauss, offering a glimpse into his creative process. The ambiance of the institute encourages a reflective atmosphere, making it an ideal place for both casual visitors and serious scholars to engage with the composer’s legacy.
+Notable collections include original manuscripts, letters, and personal artifacts that once belonged to Strauss, offering a glimpse into his creative process. The ambiance of the institute encourages a reflective atmosphere, making it an ideal place for both casual visitors and serious scholars to engage with the composer's legacy.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ The best times to visit are during the spring and autumn months when the tourist
 
 While visiting the Richard-Strauss-Institut, there are several other attractions in Garmisch-Partenkirchen worth exploring:
 
-1. **Zugspitze**: Germany’s highest peak, offering breathtaking views and various outdoor activities, including hiking and skiing depending on the season.
+1. **Zugspitze**: Germany's highest peak, offering breathtaking views and various outdoor activities, including hiking and skiing depending on the season.
     
 2. **Partnach Gorge**: A stunning natural wonder, this gorge features dramatic rock formations and is ideal for scenic walks.
 

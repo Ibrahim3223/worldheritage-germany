@@ -30,7 +30,7 @@ The Church in Gross Tessin is a distinctive church building located in the Glasi
 
 Situated at coordinates 53.8968, 11.787, the Church in Gross Tessin is a testament to the region's ecclesiastical heritage. Its significance extends beyond its religious function, serving as a gathering place for the local community and a focal point for cultural events. The church encapsulates the essence of its locale, offering an inviting space for visitors to explore its history and architecture.
 
-As you approach the church, you’ll find that it encapsulates the spirit of Gross Tessin, making it an essential stop for those looking to delve into the historical and cultural fabric of this enchanting area. Whether you are a history enthusiast, a spiritual seeker, or simply a curious traveler, the Church in Gross Tessin promises an enriching experience.
+As you approach the church, you'll find that it encapsulates the spirit of Gross Tessin, making it an essential stop for those looking to delve into the historical and cultural fabric of this enchanting area. Whether you are a history enthusiast, a spiritual seeker, or simply a curious traveler, the Church in Gross Tessin promises an enriching experience.
 
 ## History and Significance
 

@@ -68,7 +68,7 @@ After your visit to the Gemeindebücherei Auerbach, consider exploring the surro
 
 To make the most of your visit to the Gemeindebücherei Auerbach, consider the following tips:
 
-- **Photography**: While libraries often have restrictions on photography, it’s best to check with the staff before taking photos to respect the privacy of other visitors.
+- **Photography**: While libraries often have restrictions on photography, it's best to check with the staff before taking photos to respect the privacy of other visitors.
 
 - **Crowd Avoidance**: If you wish to enjoy a quieter experience, consider visiting during weekdays or early in the day when foot traffic tends to be lower.
 
@@ -92,13 +92,13 @@ Seasonal considerations may also play a role in your visit. During the cooler mo
 Your visit can range from a quick hour for browsing to several hours if you plan to attend events or engage in extensive research.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the library staff before taking photos.
+Photography policies may vary, so it's best to check with the library staff before taking photos.
 
 ### Are there guided tours?
 Information about guided tours may not be readily available. Consider checking the official website or inquiring at the library for details.
 
 ### What's the best time to visit?
-Weekdays or early mornings may offer a quieter experience. Checking the library’s event calendar can help you plan around special programs.
+Weekdays or early mornings may offer a quieter experience. Checking the library's event calendar can help you plan around special programs.
 
 ### Is it wheelchair accessible?
 While specific accessibility information is not provided, public libraries typically strive to meet accessibility standards. It is advisable to confirm with the library directly.

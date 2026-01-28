@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Erich-Ohser-Haus stands as a prominent cultural institution in Plauen, Germany, dedicated to the life and work of the influential cartoonist Erich Ohser, also known as "e.o.plauen." This museum not only highlights Ohser's artistic contributions but also serves as a vital repository of the region's heritage. Located in the picturesque Vogtland region, the Erich-Ohser-Haus is a key attraction for those interested in the intersection of art and history. Visitors can expect a thought-provoking experience that traverses the realms of visual storytelling and social commentary through the lens of one of Germany’s beloved illustrators.
+Erich-Ohser-Haus stands as a prominent cultural institution in Plauen, Germany, dedicated to the life and work of the influential cartoonist Erich Ohser, also known as "e.o.plauen." This museum not only highlights Ohser's artistic contributions but also serves as a vital repository of the region's heritage. Located in the picturesque Vogtland region, the Erich-Ohser-Haus is a key attraction for those interested in the intersection of art and history. Visitors can expect a thought-provoking experience that traverses the realms of visual storytelling and social commentary through the lens of one of Germany's beloved illustrators.
 
-The museum encapsulates the spirit of Plauen’s artistic legacy while providing insight into the broader socio-political landscape of Germany during Ohser's time. Through various exhibits and educational programs, the Erich-Ohser-Haus invites guests to explore the nuances of cartooning as a serious art form and a means of communication. Whether you are an art enthusiast, a history buff, or simply curious about the creative expressions of the past, this museum offers a valuable glimpse into a unique facet of German culture.
+The museum encapsulates the spirit of Plauen's artistic legacy while providing insight into the broader socio-political landscape of Germany during Ohser's time. Through various exhibits and educational programs, the Erich-Ohser-Haus invites guests to explore the nuances of cartooning as a serious art form and a means of communication. Whether you are an art enthusiast, a history buff, or simply curious about the creative expressions of the past, this museum offers a valuable glimpse into a unique facet of German culture.
 
 ## History and Significance
 
-The significance of Erich-Ohser-Haus extends beyond its role as a museum; it is a celebration of Erich Ohser’s contributions to German art and culture. Born in Plauen, Ohser became renowned for his comics that often portrayed everyday life with humor and poignancy. His work resonated deeply with the German public, particularly during a time of great upheaval and change. The museum itself is housed within a heritage building that reflects the architectural styles of the era, serving as a fitting tribute to an artist whose works captured the essence of German society in the early 20th century.
+The significance of Erich-Ohser-Haus extends beyond its role as a museum; it is a celebration of Erich Ohser's contributions to German art and culture. Born in Plauen, Ohser became renowned for his comics that often portrayed everyday life with humor and poignancy. His work resonated deeply with the German public, particularly during a time of great upheaval and change. The museum itself is housed within a heritage building that reflects the architectural styles of the era, serving as a fitting tribute to an artist whose works captured the essence of German society in the early 20th century.
 
-Ohser's most famous character, the bear "Eo," became an enduring symbol in German comic art, illustrating the ability of cartoons to convey complex emotions and social commentary. The Erich-Ohser-Haus not only preserves his legacy but also educates visitors about the broader context of his work, including the challenges he faced during the rise of totalitarianism in Germany. The museum’s exhibitions often delve into themes of freedom, creativity, and the importance of artistic expression, making it a significant site for understanding the cultural history of the region.
+Ohser's most famous character, the bear "Eo," became an enduring symbol in German comic art, illustrating the ability of cartoons to convey complex emotions and social commentary. The Erich-Ohser-Haus not only preserves his legacy but also educates visitors about the broader context of his work, including the challenges he faced during the rise of totalitarianism in Germany. The museum's exhibitions often delve into themes of freedom, creativity, and the importance of artistic expression, making it a significant site for understanding the cultural history of the region.
 
 Through its programs and exhibits, the Erich-Ohser-Haus fosters a deeper appreciation for cartoon art as a legitimate and impactful medium. The museum serves as a cultural hub, hosting events, workshops, and discussions that engage the community and visitors alike, ensuring that the spirit of Erich Ohser continues to inspire new generations.
 
@@ -42,7 +42,7 @@ Through its programs and exhibits, the Erich-Ohser-Haus fosters a deeper appreci
 
 Erich-Ohser-Haus is located within a heritage building that reflects the historical architecture of Plauen. While specific details about the structure's design are not provided, heritage buildings in this region often feature elements characteristic of German architectural styles, including intricate facades and well-preserved interiors that tell their own stories.
 
-Inside the museum, visitors will find a thoughtfully curated collection of artworks, original sketches, and personal memorabilia related to Ohser’s life and career. The exhibitions are designed to guide guests through the evolution of his art, highlighting key works and themes that defined his style. Interactive displays may also be present, allowing for a more engaging experience as visitors can explore the creative process behind Ohser's beloved characters.
+Inside the museum, visitors will find a thoughtfully curated collection of artworks, original sketches, and personal memorabilia related to Ohser's life and career. The exhibitions are designed to guide guests through the evolution of his art, highlighting key works and themes that defined his style. Interactive displays may also be present, allowing for a more engaging experience as visitors can explore the creative process behind Ohser's beloved characters.
 
 The museum places an emphasis on creating an inviting atmosphere, encouraging guests to immerse themselves in the world of Erich Ohser. This focus on accessibility and engagement enhances the overall experience, making the Erich-Ohser-Haus an important cultural space in Plauen.
 
@@ -62,7 +62,7 @@ After exploring the Erich-Ohser-Haus, there are several other attractions in Pla
    
 2. **St. John's Church** - A stunning Gothic church that showcases intricate design and offers a peaceful place for reflection.
 
-3. **The Vogtland Museum** - This museum provides insights into the region’s history, culture, and art, offering a broader context to the heritage of Plauen.
+3. **The Vogtland Museum** - This museum provides insights into the region's history, culture, and art, offering a broader context to the heritage of Plauen.
 
 4. **The Plauen Fountain** - A charming landmark that is perfect for a photo opportunity while enjoying the local ambiance.
 
@@ -72,7 +72,7 @@ After exploring the Erich-Ohser-Haus, there are several other attractions in Pla
 
 When visiting the Erich-Ohser-Haus, consider bringing a camera, as photography is allowed in certain areas of the museum. However, be mindful of any signs indicating restrictions. To avoid crowds, plan your visit during weekday mornings when the museum is likely to be less busy, allowing for a more personal experience with the exhibits.
 
-Additionally, check the museum's schedule for any special events or workshops that may be taking place during your visit. Participating in these activities can provide deeper insights and enhance your understanding of Erich Ohser’s work.
+Additionally, check the museum's schedule for any special events or workshops that may be taking place during your visit. Participating in these activities can provide deeper insights and enhance your understanding of Erich Ohser's work.
 
 ## Practical Information
 

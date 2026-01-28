@@ -38,7 +38,7 @@ While specific dates in the history of St. Paulus are not detailed, churches of 
 
 The church's significance extends beyond its religious function; it stands as a monument to the community's resilience and adaptability. Churches often serve as gathering places, and St. Paulus likely played a role in community events, celebrations, and important milestones in the lives of local citizens.
 
-In addition to its role in the religious life of Göttingen, St. Paulus contributes to the cultural fabric of the city. By hosting events, concerts, and activities, the church fosters a sense of community while also engaging with the broader public. This engagement highlights the church’s role not only as a spiritual center but also as a cultural hub where history and contemporary life intersect.
+In addition to its role in the religious life of Göttingen, St. Paulus contributes to the cultural fabric of the city. By hosting events, concerts, and activities, the church fosters a sense of community while also engaging with the broader public. This engagement highlights the church's role not only as a spiritual center but also as a cultural hub where history and contemporary life intersect.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ St. Paulus features a design that reflects the architectural traditions commonly
 
 The exterior of St. Paulus may include stone facades and possibly intricate carvings that depict religious iconography, a common element in many historic churches. The overall structure is designed to not only function as a place of worship but also to inspire awe in its visitors, drawing them into an atmosphere of reverence and contemplation.
 
-Inside, visitors can expect to find a thoughtfully arranged interior that promotes a sense of peace and reflection. Depending on the church's current use and maintenance, there may be opportunities to appreciate the artistry of its furnishings, including altars, pews, and other liturgical items that reflect the church’s mission and history.
+Inside, visitors can expect to find a thoughtfully arranged interior that promotes a sense of peace and reflection. Depending on the church's current use and maintenance, there may be opportunities to appreciate the artistry of its furnishings, including altars, pews, and other liturgical items that reflect the church's mission and history.
 
 ## Visiting Information
 
@@ -88,7 +88,7 @@ Seasonal considerations can affect your visit. Spring and fall often offer pleas
 Visitors typically spend about an hour at St. Paulus to appreciate its architecture and atmosphere fully.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s wise to respect any signs or guidelines regarding photography, particularly during services.
+Photography is generally permitted inside the church, but it's wise to respect any signs or guidelines regarding photography, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available during specific times or events.

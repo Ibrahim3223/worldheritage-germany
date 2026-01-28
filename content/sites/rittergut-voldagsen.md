@@ -28,7 +28,7 @@ image_srcset:
 
 Rittergut Voldagsen, an architectural ensemble located in the picturesque region of Coppenbrügge in Lower Saxony, Germany, serves as a captivating example of Neorenaissance design in a rural setting. This complex, which includes a stately manor house, reflects the agricultural heritage and historical significance of its surroundings, illustrating the evolution of rural architecture over the centuries. The charm of this site lies not only in its aesthetic appeal but also in its cultural importance, drawing visitors who appreciate both history and artistry. 
 
-As you explore the site, you will find yourself immersed in the pastoral beauty of the area, where the serenity of the countryside complements the grandeur of the architectural ensemble. Rittergut Voldagsen is a place where the stories of the past resonate, providing a unique backdrop for those interested in Germany’s rich architectural heritage. Whether you are an architecture enthusiast or a casual traveler, this site promises an enriching experience that connects you to the history of the land.
+As you explore the site, you will find yourself immersed in the pastoral beauty of the area, where the serenity of the countryside complements the grandeur of the architectural ensemble. Rittergut Voldagsen is a place where the stories of the past resonate, providing a unique backdrop for those interested in Germany's rich architectural heritage. Whether you are an architecture enthusiast or a casual traveler, this site promises an enriching experience that connects you to the history of the land.
 
 ## History and Significance
 
@@ -68,7 +68,7 @@ The best times to visit are during the spring and early autumn months when the w
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon light can enhance the beauty of Rittergut Voldagsen’s architecture. The golden hours provide a softer glow that highlights the intricate details of the manor house. To avoid larger crowds, consider visiting during weekdays, especially outside of peak tourist seasons, as this will allow for a more solitary experience.
+For photography enthusiasts, early morning or late afternoon light can enhance the beauty of Rittergut Voldagsen's architecture. The golden hours provide a softer glow that highlights the intricate details of the manor house. To avoid larger crowds, consider visiting during weekdays, especially outside of peak tourist seasons, as this will allow for a more solitary experience.
 
 If you are keen on capturing the essence of the estate, be sure to explore different angles and perspectives to showcase its grandeur. Areas around the manor provide varied backdrops for photography, making it an ideal location for both amateur and professional photographers.
 

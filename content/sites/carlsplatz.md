@@ -32,7 +32,7 @@ As one wanders through Carlsplatz, the energy of the square becomes palpable, wi
 
 ## History and Significance
 
-The historical context of Carlsplatz is intrinsically linked to the development of Düsseldorf as a major urban center. While specific dates and events are not extensively documented, the square has played a crucial role in the city’s evolution, particularly in fostering community interaction and commerce. Through the years, Carlsplatz has been a gathering place for various social and cultural activities, reflecting the city's dynamic spirit.
+The historical context of Carlsplatz is intrinsically linked to the development of Düsseldorf as a major urban center. While specific dates and events are not extensively documented, the square has played a crucial role in the city's evolution, particularly in fostering community interaction and commerce. Through the years, Carlsplatz has been a gathering place for various social and cultural activities, reflecting the city's dynamic spirit.
 
 The square's significance is further amplified by its proximity to key landmarks and institutions in Düsseldorf. It serves as a focal point for various markets, especially known for its weekly offerings that attract both residents and visitors. These markets provide an opportunity to experience local culture, with vendors selling fresh produce, artisanal goods, and regional specialties. Such events highlight the importance of Carlsplatz as a marketplace and social venue in the community.
 

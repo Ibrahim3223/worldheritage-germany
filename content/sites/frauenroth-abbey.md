@@ -76,7 +76,7 @@ Engaging with the site respectfully is encouraged, especially in areas designate
 
 ## Practical Information
 
-When preparing for your visit to Frauenroth Abbey, consider bringing essentials such as comfortable walking shoes, a reusable water bottle, and a light jacket, as temperatures can vary throughout the day. It’s advisable to check the weather forecast prior to your visit to ensure you are adequately prepared.
+When preparing for your visit to Frauenroth Abbey, consider bringing essentials such as comfortable walking shoes, a reusable water bottle, and a light jacket, as temperatures can vary throughout the day. It's advisable to check the weather forecast prior to your visit to ensure you are adequately prepared.
 
 Seasonal considerations can also impact your experience. Spring and autumn are often ideal times for visits, as the weather is generally mild and the natural surroundings are particularly inviting. However, any time of year can offer a unique perspective on the abbey's ambiance.
 

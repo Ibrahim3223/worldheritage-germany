@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Brigitte-Reimann-Literaturhaus is a cultural beacon situated in the historic town of Neubrandenburg, Germany. This museum, dedicated to the life and work of acclaimed writer Brigitte Reimann, offers visitors a unique insight into the literary landscape of East Germany during the 20th century. With its rich narrative surrounding Reimann’s contributions to literature and her profound impact on German culture, this venue serves as both a museum and a tribute to one of the country’s most significant literary figures.
+The Brigitte-Reimann-Literaturhaus is a cultural beacon situated in the historic town of Neubrandenburg, Germany. This museum, dedicated to the life and work of acclaimed writer Brigitte Reimann, offers visitors a unique insight into the literary landscape of East Germany during the 20th century. With its rich narrative surrounding Reimann's contributions to literature and her profound impact on German culture, this venue serves as both a museum and a tribute to one of the country's most significant literary figures.
 
 Positioned in a region known for its picturesque lakes and lush landscapes, Neubrandenburg presents an inviting backdrop for exploring the heritage of German literature. The Brigitte-Reimann-Literaturhaus stands out not only for its thematic focus but also for its role in fostering literary discussions and cultural events, making it a significant stop for those interested in the arts and humanities. As you step into this museum, you can expect to encounter a carefully curated collection that brings to life the words and thoughts of Reimann, alongside exhibitions that explore broader themes in literature, society, and history.
 
@@ -34,7 +34,7 @@ Positioned in a region known for its picturesque lakes and lush landscapes, Neub
 
 Brigitte Reimann, born in 1933, became one of the most prominent authors in East Germany, known for her poignant narratives and exploration of the human condition against the backdrop of societal changes. Her literary career began in the 1950s, and she gained recognition for her novel "Siblings," which touches on themes of love, loss, and the complexities of life in a divided Germany. The Brigitte-Reimann-Literaturhaus exists to celebrate her legacy, providing a space for reflection on her contributions to literature and the cultural landscape of the time.
 
-The museum not only showcases Reimann’s works but also highlights the socio-political context in which she wrote. Her experiences as a writer in East Germany, where artistic expression was often constrained, resonate deeply with visitors. The museum features exhibitions that delve into the challenges faced by writers in the GDR (German Democratic Republic), including censorship and the struggle for creative freedom. By examining Reimann's life and works, the museum positions itself as a vital resource for understanding the literary movements that emerged in response to the political climate of the time.
+The museum not only showcases Reimann's works but also highlights the socio-political context in which she wrote. Her experiences as a writer in East Germany, where artistic expression was often constrained, resonate deeply with visitors. The museum features exhibitions that delve into the challenges faced by writers in the GDR (German Democratic Republic), including censorship and the struggle for creative freedom. By examining Reimann's life and works, the museum positions itself as a vital resource for understanding the literary movements that emerged in response to the political climate of the time.
 
 In addition to its focus on Reimann, the Brigitte-Reimann-Literaturhaus serves as a platform for contemporary literary discussions, workshops, and events that bridge the past and present. This commitment to fostering dialogue around literature ensures that the museum remains relevant, engaging visitors with the ongoing evolution of literary expression in Germany.
 
@@ -54,7 +54,7 @@ Expect a range of exhibitions that may include interactive displays, workshops, 
 
 ## Nearby Attractions
 
-1. **Neubrandenburg City Center** - Explore the charming streets of the city center, which feature a variety of shops, cafes, and historical sites, including the iconic St. Mary’s Church.
+1. **Neubrandenburg City Center** - Explore the charming streets of the city center, which feature a variety of shops, cafes, and historical sites, including the iconic St. Mary's Church.
 
 2. **Lake Tollense** - A serene spot ideal for a leisurely walk, this lake offers picturesque views and opportunities for relaxation amidst nature.
 
@@ -72,7 +72,7 @@ Engage with the museum staff, as they often have valuable insights and can recom
 
 ## Practical Information
 
-When planning your visit, it's advisable to bring a notebook or journal, particularly if you’re inspired by the literary themes present throughout the museum. Comfortable footwear is recommended, as you may spend a significant amount of time walking through the exhibits and nearby attractions.
+When planning your visit, it's advisable to bring a notebook or journal, particularly if you're inspired by the literary themes present throughout the museum. Comfortable footwear is recommended, as you may spend a significant amount of time walking through the exhibits and nearby attractions.
 
 Seasonal considerations may also play a role in your visit. Check the official website for information on any seasonal events or exhibitions that may enhance your experience. Weather conditions in the region can vary, so dressing in layers is a good approach to ensure comfort throughout your day.
 
@@ -84,7 +84,7 @@ A visit to the Brigitte-Reimann-Literaturhaus typically takes about two to three
 
 ### Is photography allowed?
 
-Photography policies can vary, so it’s best to check with the museum staff upon arrival. They can provide guidance on where photography is permitted.
+Photography policies can vary, so it's best to check with the museum staff upon arrival. They can provide guidance on where photography is permitted.
 
 ### Are there guided tours?
 

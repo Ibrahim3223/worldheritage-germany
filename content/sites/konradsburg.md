@@ -70,7 +70,7 @@ The best times to visit are during spring and autumn when the weather is general
 
 For the best photography opportunities, visit Konradsburg during the golden hours of sunrise or sunset when the light enhances the architecture and surrounding landscape. Additionally, consider exploring the site during weekdays, as weekends may attract larger crowds, allowing for a more serene experience.
 
-Engaging with the site’s staff can provide valuable insights and enhance your understanding of the monastery's history. Be sure to take a moment to enjoy the tranquility of the grounds, which can be a refreshing escape from the busyness of travel.
+Engaging with the site's staff can provide valuable insights and enhance your understanding of the monastery's history. Be sure to take a moment to enjoy the tranquility of the grounds, which can be a refreshing escape from the busyness of travel.
 
 ## Practical Information
 

@@ -70,7 +70,7 @@ While visiting Stadtkirche St. Jakobus, consider exploring the following nearby 
 
 To enhance your visit to Stadtkirche St. Jakobus, here are a few insider tips:
 
-- **Photography**: While photography may be allowed, it’s always best to check for any specific guidelines before capturing the interior or exterior of the church. Early morning or late afternoon light can provide beautiful natural illumination for photos.
+- **Photography**: While photography may be allowed, it's always best to check for any specific guidelines before capturing the interior or exterior of the church. Early morning or late afternoon light can provide beautiful natural illumination for photos.
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit on weekdays or during off-peak hours. This will allow you to enjoy a quieter atmosphere for reflection and exploration.
 
 ## Practical Information
@@ -95,7 +95,7 @@ Information on guided tours may not be provided, so check the official website f
 Weekdays, particularly during the morning or late afternoon, are often ideal for a quieter experience. However, weekends may provide opportunities to witness local services.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s best to check the official website or contact local resources for details on wheelchair access.
+Accessibility information is not specified, so it's best to check the official website or contact local resources for details on wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket availability and purchasing options.

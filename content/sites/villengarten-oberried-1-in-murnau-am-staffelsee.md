@@ -58,7 +58,7 @@ Exploring Murnau am Staffelsee offers the opportunity to discover several nearby
   
 2. **Murnau Castle**: A historic site that provides insights into the region's past, Murnau Castle offers guided tours and exhibitions that highlight local history and culture.
 
-3. **Künstlerhaus Murnau**: An art museum dedicated to the works of the artists associated with the Murnau School. It showcases exhibitions that celebrate the area’s artistic heritage.
+3. **Künstlerhaus Murnau**: An art museum dedicated to the works of the artists associated with the Murnau School. It showcases exhibitions that celebrate the area's artistic heritage.
 
 4. **St. Nicholas Church**: An impressive church known for its beautiful architecture and tranquil surroundings. It serves as a serene spot for reflection and exploration of local religious history.
 

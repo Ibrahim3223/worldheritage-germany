@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Cultural heritage D-5-6631-0009 in Rohr is a significant fortification located in the Landkreis Roth region of Bavaria, Germany. This cultural heritage monument offers visitors a glimpse into the architectural and historical richness of the area, reflecting the strategic importance of fortifications throughout German history. Situated at coordinates 49.344101086, 10.956310223, the site is surrounded by the picturesque landscapes of Bavaria, which enhance its historical charm. As you explore this fortification, you’ll come to understand its role in the region's defense mechanisms and its significance in the broader context of Bavarian heritage.
+Cultural heritage D-5-6631-0009 in Rohr is a significant fortification located in the Landkreis Roth region of Bavaria, Germany. This cultural heritage monument offers visitors a glimpse into the architectural and historical richness of the area, reflecting the strategic importance of fortifications throughout German history. Situated at coordinates 49.344101086, 10.956310223, the site is surrounded by the picturesque landscapes of Bavaria, which enhance its historical charm. As you explore this fortification, you'll come to understand its role in the region's defense mechanisms and its significance in the broader context of Bavarian heritage.
 
 This fortification is more than just a remnant of the past; it represents the military ingenuity and architectural prowess of its time. Today, it serves as a reminder of the region's historical narratives, attracting history buffs, architecture enthusiasts, and curious travelers alike. While specific details regarding opening times and admission fees may vary, the site promises a unique experience that highlights the enduring legacy of medieval structures in Germany.
 
@@ -95,7 +95,7 @@ Accessibility options may vary; check the official website for detailed informat
 Check the official website for details on ticket purchasing options, including online sales if available.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the site; it’s advisable to plan accordingly and explore nearby towns for additional amenities.
+Facilities may be limited at the site; it's advisable to plan accordingly and explore nearby towns for additional amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended for exploring the fortification and its surroundings.

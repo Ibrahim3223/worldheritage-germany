@@ -48,7 +48,7 @@ Inside, the Blaues Haus likely contains a diverse collection of books, periodica
 
 Traveling to the Blaues Haus is convenient, with various transport options available. Visitors can reach Breisach by train or bus, with local services making it easy to navigate the area. Upon arrival, you can expect a welcoming environment, where the staff is eager to assist you in locating resources or answering questions about the library's offerings.
 
-The opening hours and any associated fees for visiting the Blaues Haus may vary, so it is advisable to check the official website for current information. A typical visit may take anywhere from an hour to several hours, depending on your interests and how much time you wish to spend exploring the library’s resources.
+The opening hours and any associated fees for visiting the Blaues Haus may vary, so it is advisable to check the official website for current information. A typical visit may take anywhere from an hour to several hours, depending on your interests and how much time you wish to spend exploring the library's resources.
 
 Ideal times to visit include weekdays when the library is less crowded, allowing for a more peaceful experience. If you are passionate about literature or history, you may find yourself returning to the Blaues Haus multiple times.
 

@@ -78,7 +78,7 @@ If you are particularly interested in specific topics, inquire at the museum abo
 
 ## Practical Information
 
-When visiting Museum Wolmirstedt, it’s wise to bring along a light jacket or sweater, as indoor temperatures can vary. Comfortable footwear is recommended, as you may spend a fair amount of time walking through the exhibits. 
+When visiting Museum Wolmirstedt, it's wise to bring along a light jacket or sweater, as indoor temperatures can vary. Comfortable footwear is recommended, as you may spend a fair amount of time walking through the exhibits. 
 
 Check the official website for seasonal considerations, as certain exhibits or events may be more prominent at different times of the year. For visitors planning to explore the area, consider packing snacks or water, though local cafes may provide refreshments.
 
@@ -88,7 +88,7 @@ Check the official website for seasonal considerations, as certain exhibits or e
 Most visitors find that spending two to three hours allows for a thorough exploration of the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival.
+Photography policies may vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Inquire at the museum about the availability of guided tours, as these can enhance your understanding of the exhibits.
@@ -97,7 +97,7 @@ Inquire at the museum about the availability of guided tours, as these can enhan
 Weekdays generally offer a quieter experience, but weekends may feature special events or programs.
 
 ### Is it wheelchair accessible?
-Accessibility information is best confirmed through the museum’s official channels.
+Accessibility information is best confirmed through the museum's official channels.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

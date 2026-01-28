@@ -112,4 +112,4 @@ For amenities, please refer to the official website for current information.
 ### What should I wear?
 Dress comfortably and appropriately for the weather, with sturdy footwear for walking.
 
-By exploring Schloss Schwörstadt, you engage with Germany’s rich heritage and cultural landscape, making your visit an informative and enriching experience.
+By exploring Schloss Schwörstadt, you engage with Germany's rich heritage and cultural landscape, making your visit an informative and enriching experience.

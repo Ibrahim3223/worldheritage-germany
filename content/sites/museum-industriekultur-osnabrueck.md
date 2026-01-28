@@ -64,7 +64,7 @@ While in Osnabrück, visitors have the opportunity to explore several other attr
 
 3. **Botanical Garden**: A serene space for relaxation, the garden showcases diverse plant species and is an excellent spot for a leisurely stroll.
 
-4. **St. Peter’s Cathedral**: An architectural landmark in Osnabrück, this cathedral is a testament to the city's rich religious history and features stunning interiors.
+4. **St. Peter's Cathedral**: An architectural landmark in Osnabrück, this cathedral is a testament to the city's rich religious history and features stunning interiors.
 
 5. **Heger Tor**: This historic city gate offers a glimpse into the medieval past of Osnabrück and serves as a picturesque location for photographs.
 
@@ -76,9 +76,9 @@ To make the most of your visit, consider participating in any scheduled workshop
 
 ## Practical Information
 
-When visiting the Museum Industriekultur Osnabrück, it’s advisable to bring comfortable footwear as you may find yourself walking through various exhibits. Depending on the season, layering clothing can help accommodate fluctuating temperatures inside the museum.
+When visiting the Museum Industriekultur Osnabrück, it's advisable to bring comfortable footwear as you may find yourself walking through various exhibits. Depending on the season, layering clothing can help accommodate fluctuating temperatures inside the museum.
 
-If you plan to enjoy a full day in Osnabrück, consider bringing along snacks or water, although checking for available amenities at the museum may also be beneficial. Seasonal considerations, such as holidays or special events, might influence the timing of your visit, so be sure to check the museum’s official website for any updates.
+If you plan to enjoy a full day in Osnabrück, consider bringing along snacks or water, although checking for available amenities at the museum may also be beneficial. Seasonal considerations, such as holidays or special events, might influence the timing of your visit, so be sure to check the museum's official website for any updates.
 
 ## Frequently Asked Questions
 

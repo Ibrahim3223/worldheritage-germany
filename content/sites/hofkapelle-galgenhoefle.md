@@ -28,7 +28,7 @@ image_srcset:
 
 Hofkapelle Galgenhöfle, located in the quaint region of Bad Wurzach, Germany, is an architectural structure that invites visitors to explore its serene ambiance and historical context. This chapel, while modest in size, encapsulates the spiritual heritage and cultural significance of its surroundings. The region is known for its picturesque landscapes and rich traditions, making it an intriguing stop for those interested in religious architecture and local history. The Hofkapelle serves not only as a place of worship but also as a reminder of the area's past, providing insight into the community's values and beliefs.
 
-As you approach Hofkapelle Galgenhöfle, the chapel’s simple yet elegant design stands out. It is a testament to the architectural styles that have evolved over the centuries in this part of Germany. The chapel's significance extends beyond its physical presence; it represents a focal point for local gatherings and spiritual reflection. Visitors to this site can expect a tranquil environment, ideal for contemplation and appreciation of the surrounding cultural landscape.
+As you approach Hofkapelle Galgenhöfle, the chapel's simple yet elegant design stands out. It is a testament to the architectural styles that have evolved over the centuries in this part of Germany. The chapel's significance extends beyond its physical presence; it represents a focal point for local gatherings and spiritual reflection. Visitors to this site can expect a tranquil environment, ideal for contemplation and appreciation of the surrounding cultural landscape.
 
 ## History and Significance
 

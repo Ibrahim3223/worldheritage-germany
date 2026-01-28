@@ -58,7 +58,7 @@ It is recommended to check local events, as the church may host special services
 
 While exploring Homburg, visitors can also take the opportunity to discover several nearby attractions that complement a trip to Kirche St. Michael:
 
-1. **Homburg Castle**: A historical site that offers insights into the region’s past, featuring guided tours and scenic walks through the surrounding gardens.
+1. **Homburg Castle**: A historical site that offers insights into the region's past, featuring guided tours and scenic walks through the surrounding gardens.
   
 2. **The Roman Museum**: Showcasing artifacts and exhibits from the Roman period, this museum provides a glimpse into the ancient history of the area.
 

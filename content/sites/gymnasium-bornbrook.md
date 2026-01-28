@@ -101,13 +101,13 @@ Information on guided tours may not be specified, so check the official website 
 For a lively experience, consider visiting during the academic year when school activities are in full swing. However, ensure you check the official hours before planning.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s best to check the official website for details regarding wheelchair access and facilities.
+Accessibility information is not specified; it's best to check the official website for details regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Ticketing information is not provided; therefore, it is recommended to check the official website for any details regarding entry fees and purchasing options.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafes may be available; however, it’s best to confirm with the official website prior to your visit.
+Amenities such as restrooms and cafes may be available; however, it's best to confirm with the official website prior to your visit.
 
 ### What should I wear?
 Dress in comfortable clothing suitable for walking, and consider layering to accommodate varying indoor and outdoor temperatures during your visit. 

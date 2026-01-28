@@ -72,9 +72,9 @@ To enhance your visit to the Art Museum Monastery of Our Lady, consider the foll
 
 ## Practical Information
 
-Before heading out to the Art Museum Monastery of Our Lady, it’s wise to consider a few practicalities:
+Before heading out to the Art Museum Monastery of Our Lady, it's wise to consider a few practicalities:
 
-- **What to Bring**: Comfortable walking shoes are recommended as you’ll be exploring both the museum and the surrounding area. A water bottle and perhaps a small notebook for jotting down thoughts or sketches can also enhance your visit.
+- **What to Bring**: Comfortable walking shoes are recommended as you'll be exploring both the museum and the surrounding area. A water bottle and perhaps a small notebook for jotting down thoughts or sketches can also enhance your visit.
 
 - **Seasonal Considerations**: The museum is open year-round, but check the official website for any seasonal events or exhibitions that might be particularly interesting. 
 
@@ -84,7 +84,7 @@ Before heading out to the Art Museum Monastery of Our Lady, it’s wise to consi
 Most visitors find that spending two to three hours at the museum allows ample time to explore the collections and any temporary exhibitions.
 
 ### Is photography allowed?
-Photography policies can vary between exhibitions. It’s best to check with museum staff upon entry for any specific restrictions.
+Photography policies can vary between exhibitions. It's best to check with museum staff upon entry for any specific restrictions.
 
 ### Are there guided tours?
 Yes, guided tours are often available, providing deeper insights into the collections and the museum's history. Check the official website for scheduling.
@@ -93,7 +93,7 @@ Yes, guided tours are often available, providing deeper insights into the collec
 Weekdays, particularly in the morning, tend to be less crowded, offering a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The museum is generally accessible, but it’s advisable to confirm specific accessibility options on the official website.
+The museum is generally accessible, but it's advisable to confirm specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 Check the official website to see if online ticket purchases are available, which can save time upon arrival.

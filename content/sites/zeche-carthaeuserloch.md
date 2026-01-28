@@ -52,7 +52,7 @@ While specific amenities are not detailed, visitors should prepare for a histori
 
 Witten is home to several attractions that complement a visit to Zeche Carthäuserloch. Here are a few notable places to explore:
 
-1. **Witten Castle**: A historical site that offers insights into the region’s past and stunning views of the surrounding area.
+1. **Witten Castle**: A historical site that offers insights into the region's past and stunning views of the surrounding area.
    
 2. **LWL Industrial Museum**: Located nearby, this museum provides an in-depth look at the industrial history of the Ruhr region, making it a great complement to the mining heritage represented by Zeche Carthäuserloch.
 
@@ -62,13 +62,13 @@ Witten is home to several attractions that complement a visit to Zeche Carthäus
 
 ## Insider Tips
 
-To enhance your experience at Zeche Carthäuserloch, consider bringing a camera for photography, but be mindful of any restrictions regarding photography in certain areas. Early morning or late afternoon visits might offer the best lighting for capturing the site’s features. 
+To enhance your experience at Zeche Carthäuserloch, consider bringing a camera for photography, but be mindful of any restrictions regarding photography in certain areas. Early morning or late afternoon visits might offer the best lighting for capturing the site's features. 
 
 To avoid crowds, aim to visit during weekdays, especially outside of school holiday periods. Engaging with local guides, if available, can provide deeper insights into the historical context and significance of the site.
 
 ## Practical Information
 
-When visiting Zeche Carthäuserloch, it is advisable to bring essentials such as water, snacks, and appropriate clothing for varying weather conditions. Comfortable walking shoes are recommended due to the site’s terrain and potential uneven surfaces.
+When visiting Zeche Carthäuserloch, it is advisable to bring essentials such as water, snacks, and appropriate clothing for varying weather conditions. Comfortable walking shoes are recommended due to the site's terrain and potential uneven surfaces.
 
 Seasonal considerations may influence your visit, so be prepared for changes in weather, which can affect outdoor exploration. Always check the official website for updates on site conditions and any seasonal events that may be taking place.
 

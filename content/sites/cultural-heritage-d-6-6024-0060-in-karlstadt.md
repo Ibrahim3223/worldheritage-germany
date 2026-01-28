@@ -80,7 +80,7 @@ To make the most of your visit to Cultural heritage D-6-6024-0060, consider thes
 
 - **Crowd Avoidance**: To experience the site with fewer visitors, consider visiting on weekdays or during off-peak seasons. This allows for a more personal exploration and a deeper connection with the space.
 
-- **Engage with Staff**: Take advantage of any available staff or informational guides who can provide insights and anecdotes about the fortification’s history and significance.
+- **Engage with Staff**: Take advantage of any available staff or informational guides who can provide insights and anecdotes about the fortification's history and significance.
 
 - **Dress Comfortably**: Wear comfortable footwear, as exploring the fortification may involve walking on uneven surfaces or climbing stairs.
 

@@ -28,7 +28,7 @@ Amalia Colliery stands as a monument to the past, offering an engaging experienc
 
 ## History and Significance
 
-The history of Amalia Colliery intertwines with the broader narrative of the Ruhr region, which has been synonymous with coal mining for centuries. Coal extraction began in this area during the 19th century and rapidly expanded, marking a transformative period in Germany’s industrial landscape. Although specific dates and events related to Amalia Colliery are not available, the site is emblematic of the industrial growth that characterized Bochum and its surroundings.
+The history of Amalia Colliery intertwines with the broader narrative of the Ruhr region, which has been synonymous with coal mining for centuries. Coal extraction began in this area during the 19th century and rapidly expanded, marking a transformative period in Germany's industrial landscape. Although specific dates and events related to Amalia Colliery are not available, the site is emblematic of the industrial growth that characterized Bochum and its surroundings.
 
 The colliery reflects the challenges and triumphs faced by miners, who worked in often harsh and dangerous conditions. The labor force was predominantly composed of local men, many of whom came from generations of mining families. This site not only represents economic activity but also the social fabric that formed within the mining community. The colliery has played a crucial role in shaping local culture, influencing everything from labor movements to community gatherings.
 
@@ -54,7 +54,7 @@ While visiting Amalia Colliery, consider exploring these nearby attractions to e
 
 1. **German Mining Museum**: Located in Bochum, this museum provides an extensive overview of mining history in Germany, showcasing artifacts and interactive exhibits.
    
-2. **St. Peter’s Church**: A historic church in Bochum that features impressive architecture and offers insight into the local community's spiritual life.
+2. **St. Peter's Church**: A historic church in Bochum that features impressive architecture and offers insight into the local community's spiritual life.
    
 3. **Bochum City Park**: A lovely green space perfect for a leisurely stroll or a picnic, providing a contrast to the industrial heritage of the colliery.
    

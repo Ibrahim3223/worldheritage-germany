@@ -76,7 +76,7 @@ If you're looking to avoid crowds, plan your visit on a weekday rather than the 
 
 ## Practical Information
 
-When visiting the Prinz-Albrecht-Palais site, wear comfortable shoes, as you may find yourself walking through the nearby attractions and exploring the vibrant streets of Friedrichstadt. Depending on the season, layers are advisable, as Berlin’s weather can vary significantly throughout the year.
+When visiting the Prinz-Albrecht-Palais site, wear comfortable shoes, as you may find yourself walking through the nearby attractions and exploring the vibrant streets of Friedrichstadt. Depending on the season, layers are advisable, as Berlin's weather can vary significantly throughout the year.
 
 For those interested in local culture, it may also be worthwhile to bring along a notebook or sketchpad to capture your thoughts and impressions, as the site's historical significance can inspire reflection and creativity. 
 
@@ -101,7 +101,7 @@ Accessibility can vary in urban environments, so it is advisable to check local 
 There are no entrance fees for the Prinz-Albrecht-Palais site, but check for any events or exhibitions in the area that may require tickets.
 
 ### Are there restrooms and cafes?
-Facilities can be found in nearby attractions and public spaces; however, it’s a good idea to plan ahead and check for the nearest locations.
+Facilities can be found in nearby attractions and public spaces; however, it's a good idea to plan ahead and check for the nearest locations.
 
 ### What should I wear?
 Dress comfortably for walking and be prepared for varying weather conditions, especially if visiting during the colder months. Layers are advisable to ensure comfort throughout the day.

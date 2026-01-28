@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Steina Dam, located in the picturesque Harz region of Germany, serves as a crucial infrastructure project that harmonizes with the stunning landscapes of the Landkreis Göttingen. This dam not only plays a vital role in local water management and flood prevention but also attracts visitors interested in engineering marvels and natural beauty. With its strategic location in the heart of Germany’s verdant countryside, the Steina Dam is a site that offers both functional purpose and aesthetic appeal. 
+The Steina Dam, located in the picturesque Harz region of Germany, serves as a crucial infrastructure project that harmonizes with the stunning landscapes of the Landkreis Göttingen. This dam not only plays a vital role in local water management and flood prevention but also attracts visitors interested in engineering marvels and natural beauty. With its strategic location in the heart of Germany's verdant countryside, the Steina Dam is a site that offers both functional purpose and aesthetic appeal. 
 
 In addition to its operational significance, the dam is an intriguing destination for those who appreciate modern engineering and its impact on the surrounding environment. Visitors to the Steina Dam can explore the interface between human ingenuity and nature, experiencing firsthand the balance achieved through this impressive structure.
 
@@ -87,13 +87,13 @@ A visit to the Steina Dam typically takes about 2 hours, allowing enough time to
 Yes, photography is permitted at the Steina Dam, and visitors are encouraged to capture the stunning architecture and surrounding landscapes.
 
 ### Are there guided tours?
-Currently, there is no information regarding guided tours. It’s best to check the official website for any updates on visitor programs.
+Currently, there is no information regarding guided tours. It's best to check the official website for any updates on visitor programs.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and fall, when the weather is mild, and the natural scenery is particularly beautiful.
 
 ### Is it wheelchair accessible?
-Information about accessibility is not specified; it’s advisable to check the official website for details regarding wheelchair access.
+Information about accessibility is not specified; it's advisable to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information about ticket purchasing options is not available. Please check the official website for current information.

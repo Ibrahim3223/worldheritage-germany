@@ -80,7 +80,7 @@ To make the most of your visit to Langes Bäuche, consider these insider tips:
 
 - **Crowd Avoidance**: Visiting during off-peak hours, especially on weekdays, can provide a more intimate experience. Consider arriving right when the museum opens or later in the afternoon.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights about the exhibits. Their knowledge can provide valuable context and enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights about the exhibits. Their knowledge can provide valuable context and enhance your visit.
 
 ## Practical Information
 
@@ -98,7 +98,7 @@ Before heading to Langes Bäuche, keep the following practical considerations in
 Most visitors find that spending two to three hours at Langes Bäuche allows sufficient time to explore the exhibitions and engage with the museum's offerings.
 
 ### Is photography allowed?
-Photography rules can vary by exhibition, so it’s advisable to check the museum’s guidelines upon arrival.
+Photography rules can vary by exhibition, so it's advisable to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Langes Bäuche may offer guided tours that provide additional insights into the exhibits; check the official website for availability and schedules.

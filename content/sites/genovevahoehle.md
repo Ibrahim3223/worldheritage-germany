@@ -28,7 +28,7 @@ The Genovevahöhle has been a site of interest for centuries, capturing the imag
 
 Archaeological evidence suggests that the cave has been utilized by humans for various purposes throughout history. Its natural formations have not only provided shelter but also a setting for communal gatherings and rituals. The Genovevahöhle stands as a testament to the enduring relationship between humanity and the environment, highlighting how natural landscapes influence cultural practices and beliefs. 
 
-Moreover, the cave's geological formations present an opportunity to study the Earth’s history, allowing scientists and geologists to glean insights into the processes that shaped the region. This intersection of nature, culture, and science underscores the cave's importance as a heritage site.
+Moreover, the cave's geological formations present an opportunity to study the Earth's history, allowing scientists and geologists to glean insights into the processes that shaped the region. This intersection of nature, culture, and science underscores the cave's importance as a heritage site.
 
 ## Architecture and Features
 

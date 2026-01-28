@@ -48,7 +48,7 @@ The overall design of the reserve emphasizes conservation, with minimal interfer
 
 ## Visiting Information
 
-Traveling to Badsee is relatively straightforward, with access available by various means. Visitors can arrive by car or public transport, with local connections serving the nearby municipalities of Isny im Allgäu and Argenbühl. Once in the vicinity, the reserve’s trails are accessible, inviting explorers to engage with the landscape.
+Traveling to Badsee is relatively straightforward, with access available by various means. Visitors can arrive by car or public transport, with local connections serving the nearby municipalities of Isny im Allgäu and Argenbühl. Once in the vicinity, the reserve's trails are accessible, inviting explorers to engage with the landscape.
 
 While specific hours and admission prices are not provided, it is advisable to check the official website for current information before planning your visit. Expect to spend several hours in the reserve, as the trails provide ample opportunity for leisurely exploration. Many visitors find that a half-day is sufficient to enjoy a meaningful experience, although a full day can allow for deeper immersion into the natural surroundings.
 

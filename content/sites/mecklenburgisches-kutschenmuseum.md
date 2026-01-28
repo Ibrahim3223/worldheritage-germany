@@ -28,7 +28,7 @@ image_srcset:
 
 The Mecklenburgisches Kutschenmuseum, located in Kobrow, Germany, is a distinctive museum dedicated to the history of horse-drawn vehicles and the role they played in transportation and society. This unique institution invites visitors to explore the evolution of carriages, sledges, and various other horse-drawn conveyances through meticulously curated exhibits. The museum serves not only as a repository of historical artifacts but also as a celebration of the craftsmanship and ingenuity behind these vehicles.
 
-Situated in the picturesque landscape of Mecklenburg-Vorpommern, the museum is a testament to the region’s rich cultural heritage. It offers an enriching experience for history enthusiasts, families, and anyone intrigued by the art of transport. Visitors can expect to delve into a fascinating world where tradition meets innovation, making it an essential stop for those traveling through northern Germany.
+Situated in the picturesque landscape of Mecklenburg-Vorpommern, the museum is a testament to the region's rich cultural heritage. It offers an enriching experience for history enthusiasts, families, and anyone intrigued by the art of transport. Visitors can expect to delve into a fascinating world where tradition meets innovation, making it an essential stop for those traveling through northern Germany.
 
 ## History and Significance
 

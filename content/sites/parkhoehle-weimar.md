@@ -56,9 +56,9 @@ For the best experience, consider visiting during weekdays when crowds tend to b
 
 ## Nearby Attractions
 
-While Parkhöhle Weimar offers a wealth of insights into the city’s history, there are several other attractions in close proximity that enhance the cultural experience in Weimar:
+While Parkhöhle Weimar offers a wealth of insights into the city's history, there are several other attractions in close proximity that enhance the cultural experience in Weimar:
 
-1. **Goethe National Museum**: Dedicated to the works and life of Johann Wolfgang von Goethe, this museum is a short distance from Parkhöhle Weimar and provides a deeper understanding of one of Germany’s most significant literary figures.
+1. **Goethe National Museum**: Dedicated to the works and life of Johann Wolfgang von Goethe, this museum is a short distance from Parkhöhle Weimar and provides a deeper understanding of one of Germany's most significant literary figures.
 
 2. **Schiller Museum**: This museum celebrates the life and work of Friedrich Schiller, another giant of German literature. It is located nearby and complements the offerings of Parkhöhle with its focus on drama and poetry.
 
@@ -80,7 +80,7 @@ When visiting Parkhöhle Weimar, consider the following tips to enhance your exp
 
 ## Practical Information
 
-Before heading to Parkhöhle Weimar, it’s helpful to prepare for your visit:
+Before heading to Parkhöhle Weimar, it's helpful to prepare for your visit:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may spend significant time on your feet exploring the exhibits. A light jacket may be advisable, depending on the season, as museum temperatures can vary.
 

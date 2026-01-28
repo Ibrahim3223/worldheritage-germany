@@ -46,7 +46,7 @@ One of the notable features of Elchingen Abbey is its church, which serves as th
 
 Visitors to Elchingen Abbey can also explore the cloisters, which provide a peaceful environment for meditation and reflection. The layout of the cloisters typically follows a rectangular pattern, with covered walkways that connect various sections of the monastery. This architectural element not only serves a practical purpose but also symbolizes the journey of faith, with each corridor representing different paths within the spiritual journey.
 
-The monastery’s overall design is a blend of historical influences, showcasing the evolution of architectural styles over time. While the original structures have been preserved, the abbey has also adapted to modern needs, ensuring that it remains a functional and relevant space for both the monastic community and visitors.
+The monastery's overall design is a blend of historical influences, showcasing the evolution of architectural styles over time. While the original structures have been preserved, the abbey has also adapted to modern needs, ensuring that it remains a functional and relevant space for both the monastic community and visitors.
 
 ## Visiting Information
 

@@ -101,7 +101,7 @@ Accessibility information is not specified; visitors should check the official w
 Information regarding online ticket sales is not provided. Visitors should confirm on the official website.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not mentioned. It’s advisable to check the local area for available facilities.
+Specific amenities such as restrooms and cafes are not mentioned. It's advisable to check the local area for available facilities.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, with seasonal attire based on the weather conditions during your visit.

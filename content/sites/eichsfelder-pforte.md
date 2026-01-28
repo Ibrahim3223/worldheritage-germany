@@ -76,7 +76,7 @@ To avoid larger crowds, consider visiting on weekdays or during the shoulder sea
 
 ## Practical Information
 
-When planning your visit to Eichsfelder Pforte, it’s essential to bring along essentials such as water, snacks, and sun protection, especially during warmer months. The valley offers limited facilities, so being prepared will enhance your experience.
+When planning your visit to Eichsfelder Pforte, it's essential to bring along essentials such as water, snacks, and sun protection, especially during warmer months. The valley offers limited facilities, so being prepared will enhance your experience.
 
 Seasonal considerations are important as well. Spring and fall provide pleasant temperatures and vibrant scenery, while summer can be warm, and winter may present challenges due to cold weather. Each season offers a unique perspective on the valley's beauty, so choose your timing based on what you wish to experience.
 

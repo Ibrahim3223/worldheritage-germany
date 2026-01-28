@@ -28,7 +28,7 @@ image_srcset:
 
 The Skulpturensammlung Dresden, situated in the heart of the historical city of Dresden, Germany, is a remarkable museum dedicated to the art of sculpture. With a collection that spans over five millennia, this institution presents an extensive array of sculptures that celebrate human creativity and craftsmanship. Visitors can explore works from ancient civilizations through to contemporary pieces, offering a unique opportunity to appreciate the evolution of sculptural art across different cultures and epochs. 
 
-Dresden itself is a cultural hub, renowned for its baroque architecture and rich artistic heritage. The museum's location within this vibrant city enhances its significance, drawing art lovers and history enthusiasts alike. The Skulpturensammlung is not just a collection of art; it is a vital part of Dresden's cultural landscape, reflecting the city’s commitment to preserving and showcasing its artistic treasures. A visit to this museum promises an enriching experience, where each sculpture tells its own story, inviting contemplation and appreciation.
+Dresden itself is a cultural hub, renowned for its baroque architecture and rich artistic heritage. The museum's location within this vibrant city enhances its significance, drawing art lovers and history enthusiasts alike. The Skulpturensammlung is not just a collection of art; it is a vital part of Dresden's cultural landscape, reflecting the city's commitment to preserving and showcasing its artistic treasures. A visit to this museum promises an enriching experience, where each sculpture tells its own story, inviting contemplation and appreciation.
 
 ## History and Significance
 
@@ -101,7 +101,7 @@ Guided tours may be offered; check the official website for availability and det
 To avoid crowds, consider visiting during weekdays or early in the morning. 
 
 ### Is it wheelchair accessible?
-Accessibility options are typically available, but it’s advisable to check the official website for specific details.
+Accessibility options are typically available, but it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; visit the official website for current information.

@@ -68,13 +68,13 @@ Visitors to Cultural heritage D-6-5627-0159 will find several nearby attractions
 
 4. **Historic Town of Bad Neustadt an der Saale**: Known for its picturesque old town and serene river views, this area is rich in heritage and worth exploring.
 
-5. **Museums in Bad Neustadt**: Several small museums located in the vicinity offer further insights into the region’s history, culture, and traditions.
+5. **Museums in Bad Neustadt**: Several small museums located in the vicinity offer further insights into the region's history, culture, and traditions.
 
 ## Insider Tips
 
 For photographers, early morning or late afternoon provides the best lighting for capturing the fortification. The soft glow of the sun enhances the structure's features while minimizing harsh shadows. To avoid crowds, consider visiting during weekdays or off-peak seasons, allowing for a more personal experience.
 
-Exploring the surrounding area can also yield unique perspectives of the fortification, so don’t hesitate to venture around the site to discover different angles and compositions.
+Exploring the surrounding area can also yield unique perspectives of the fortification, so don't hesitate to venture around the site to discover different angles and compositions.
 
 ## Practical Information
 

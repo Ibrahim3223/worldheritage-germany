@@ -28,7 +28,7 @@ image_srcset:
 
 Stuttgart Collegiate Church, located in the heart of Stuttgart-Mitte, is a remarkable example of ecclesiastical architecture that appeals to both history enthusiasts and casual visitors alike. This church, characterized by its historical significance and architectural beauty, stands as a focal point in Stuttgart's cultural landscape. The Collegiate Church is not only a place of worship but also a site that reflects the city's evolving story, showcasing its resilience and transformation over the years. 
 
-As you approach the church, its distinct features draw attention, inviting you to explore its interior and learn about its multifaceted history. The church’s presence in Stuttgart adds a layer of depth to the city, making it an essential stop for those wishing to understand the region's heritage and spiritual life. Whether you are captivated by its architecture, interested in its historical significance, or seeking a tranquil space for reflection, Stuttgart Collegiate Church promises a rewarding experience.
+As you approach the church, its distinct features draw attention, inviting you to explore its interior and learn about its multifaceted history. The church's presence in Stuttgart adds a layer of depth to the city, making it an essential stop for those wishing to understand the region's heritage and spiritual life. Whether you are captivated by its architecture, interested in its historical significance, or seeking a tranquil space for reflection, Stuttgart Collegiate Church promises a rewarding experience.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Stuttgart Collegiate Church has played a pivotal role in the religious and cultu
 
 The Collegiate Church has gone through numerous changes and restorations, reflecting the city's tumultuous history, including periods of war and reconstruction. Its architecture tells a story of adaptation, symbolizing the resilience of the community. Over the years, the church has become a center for not only religious activities but also cultural events, fostering a sense of community among the residents of Stuttgart.
 
-In the broader context of Stuttgart's history, the Collegiate Church stands out as a monument that encapsulates the essence of the city's past while continuing to serve as a vibrant space for contemporary worship and community engagement. The church's enduring presence speaks to the cultural fabric of Stuttgart, making it an invaluable part of the city’s heritage.
+In the broader context of Stuttgart's history, the Collegiate Church stands out as a monument that encapsulates the essence of the city's past while continuing to serve as a vibrant space for contemporary worship and community engagement. The church's enduring presence speaks to the cultural fabric of Stuttgart, making it an invaluable part of the city's heritage.
 
 ## Architecture and Features
 
@@ -78,14 +78,14 @@ To avoid crowds, consider visiting on weekdays rather than weekends. This will e
 
 ## Practical Information
 
-When planning your visit to Stuttgart Collegiate Church, it’s advisable to bring a camera, a bottle of water, and a light jacket in cooler months as the church can be chilly. Comfortable walking shoes are recommended, as the surrounding area offers ample opportunities for exploration.
+When planning your visit to Stuttgart Collegiate Church, it's advisable to bring a camera, a bottle of water, and a light jacket in cooler months as the church can be chilly. Comfortable walking shoes are recommended, as the surrounding area offers ample opportunities for exploration.
 
 Seasonal considerations may affect your visit. Spring and summer months often see more tourists, while autumn and winter can provide a quieter experience with seasonal decorations potentially enhancing the church's ambiance.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Approximately one hour is sufficient to appreciate the church’s interior and historical significance. 
+Approximately one hour is sufficient to appreciate the church's interior and historical significance. 
 
 ### Is photography allowed?
 Photography is generally permitted, but discretion is advised, especially during services.

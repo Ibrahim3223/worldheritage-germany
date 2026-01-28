@@ -66,7 +66,7 @@ While exploring the Frauenmuseum Berlin, there are several nearby attractions th
 
 4. **Reichstag Building** - The seat of the German Parliament, the Reichstag offers guided tours and a glass dome with panoramic views of the city, adding to your understanding of Berlin's political history.
 
-5. **Tiergarten** - This expansive park provides a refreshing escape from the city’s hustle and bustle, with beautiful paths for walking, cycling, or simply relaxing.
+5. **Tiergarten** - This expansive park provides a refreshing escape from the city's hustle and bustle, with beautiful paths for walking, cycling, or simply relaxing.
 
 ## Insider Tips
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Frauenmuseum Berlin, consider the following
 Most visitors find that spending about two hours at the Frauenmuseum allows for a comprehensive experience, including time to engage with the exhibitions and any additional programs.
 
 ### Is photography allowed?
-Photography policies can vary by exhibition. It’s best to check for signs or consult with museum staff regarding photography restrictions.
+Photography policies can vary by exhibition. It's best to check for signs or consult with museum staff regarding photography restrictions.
 
 ### Are there guided tours?
 While specific information on guided tours may not be available, the Frauenmuseum often provides educational programs and events that may include guided experiences. Checking the official website for updates is recommended.

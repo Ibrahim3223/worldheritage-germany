@@ -42,7 +42,7 @@ The museum provides a platform for understanding how these castles were not only
 
 The Deutsches Burgenmuseum itself is an architectural highlight, reflecting elements that are reminiscent of the very castles it celebrates. The building integrates modern museum design with historical influences, creating a harmonious environment that enhances the visitor experience. The layout is designed to facilitate a comprehensive exploration of the exhibits while allowing for a comfortable flow of foot traffic.
 
-Inside, the museum features a variety of exhibition spaces, each dedicated to different aspects of castle life and architecture. These spaces are equipped with modern technology to enhance the learning experience, including interactive displays that engage visitors of all ages. Additionally, the museum’s design incorporates elements that evoke the grandeur of medieval castles, making it not just a space for artifacts but also a thematic journey into the world of fortification.
+Inside, the museum features a variety of exhibition spaces, each dedicated to different aspects of castle life and architecture. These spaces are equipped with modern technology to enhance the learning experience, including interactive displays that engage visitors of all ages. Additionally, the museum's design incorporates elements that evoke the grandeur of medieval castles, making it not just a space for artifacts but also a thematic journey into the world of fortification.
 
 Notable features within the museum include detailed models of various types of castles, informative panels that describe their historical contexts, and preserved artifacts that provide a tangible connection to the past. This thoughtful curation of exhibits serves to immerse visitors in the multifaceted world of castles, emphasizing the intricate relationship between architecture, society, and history.
 
@@ -66,7 +66,7 @@ Visitors to the Deutsches Burgenmuseum can enhance their experience by exploring
 
 4. **The Veste Coburg**: Another notable fortress in the region, it features impressive architecture and a rich collection of artifacts.
 
-5. **Coburg’s Old Town**: A charming area filled with historical buildings, shops, and restaurants, ideal for a leisurely stroll after visiting the museum.
+5. **Coburg's Old Town**: A charming area filled with historical buildings, shops, and restaurants, ideal for a leisurely stroll after visiting the museum.
 
 ## Insider Tips
 

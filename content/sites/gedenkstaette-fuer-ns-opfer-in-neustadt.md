@@ -86,7 +86,7 @@ To enhance your visit to the Gedenkstätte für NS-Opfer, consider the following
 
 ## Practical Information
 
-When visiting the Gedenkstätte für NS-Opfer, it’s essential to bring a few items along for a comfortable experience:
+When visiting the Gedenkstätte für NS-Opfer, it's essential to bring a few items along for a comfortable experience:
 
 - **Comfortable Shoes**: Expect to walk through the memorial grounds, so wear comfortable footwear suitable for walking.
 

@@ -54,7 +54,7 @@ Overall, the architecture of St. Antonius encapsulates the essence of a local ch
 
 Visiting St. Antonius offers a serene escape into a space of reflection and community. To reach the chapel, visitors can utilize local transportation options. While specific transport details are not available, Altenahr is generally accessible by road and may have public transit options suitable for reaching the site.
 
-Check the official website for current information regarding hours of operation and any potential entrance fees. It’s advisable to plan a visit during daylight hours to fully appreciate the chapel's architecture and the surrounding landscape.
+Check the official website for current information regarding hours of operation and any potential entrance fees. It's advisable to plan a visit during daylight hours to fully appreciate the chapel's architecture and the surrounding landscape.
 
 Most visitors will find that an hour or two is sufficient to explore the chapel and its immediate surroundings. This time allows for quiet contemplation as well as a chance to take in the local atmosphere. Early mornings or late afternoons can be particularly peaceful times to visit, as they often attract fewer crowds.
 
@@ -88,7 +88,7 @@ For those planning to visit St. Antonius, here are some insider tips to enhance 
 
 When planning your visit to St. Antonius, consider the following practical tips:
 
-- **What to Bring**: It’s recommended to bring a camera for capturing the chapel's architecture, along with comfortable walking shoes if you plan to explore the area further.
+- **What to Bring**: It's recommended to bring a camera for capturing the chapel's architecture, along with comfortable walking shoes if you plan to explore the area further.
 
 - **Seasonal Considerations**: The chapel can be visited year-round, but seasons may affect the surrounding landscape. Spring and summer offer lush greenery, while fall provides stunning foliage.
 
@@ -118,6 +118,6 @@ Check the official website for any options regarding ticket purchases.
 Facilities may be limited; check the official website for any available amenities nearby.
 
 ### What should I wear?
-Dress modestly to respect the chapel’s religious significance.
+Dress modestly to respect the chapel's religious significance.
 
 Visiting St. Antonius offers a unique opportunity to connect with local culture and spirituality in the heart of Altenahr. Whether you come for reflection, exploration, or community, the chapel invites all to experience its serene environment.

@@ -36,7 +36,7 @@ The Village Church in Pinnow holds considerable cultural importance in Hohen Neu
 
 The significance of the church extends beyond its physical structure. It reflects the evolution of religious practices in the region, showcasing how architecture can serve as a vessel for communal identity. Historically, churches in Germany have played pivotal roles during various socio-political changes, from the Reformation to modern secularization. The Village Church in Pinnow is no exception; it stands as a silent witness to the transformations experienced by the local populace over the centuries.
 
-Within the broader context of Brandenburg’s religious heritage, the church contributes to an understanding of the region's architectural styles and historical narratives. It invites visitors to ponder the intertwining of faith and community, making it a noteworthy destination for those interested in the cultural legacy of church buildings in Germany.
+Within the broader context of Brandenburg's religious heritage, the church contributes to an understanding of the region's architectural styles and historical narratives. It invites visitors to ponder the intertwining of faith and community, making it a noteworthy destination for those interested in the cultural legacy of church buildings in Germany.
 
 ## Architecture and Features
 

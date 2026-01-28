@@ -22,7 +22,7 @@ images:
 
 In the heart of Bavaria, the Torhaus Schloßstraße 13 in Gebsattel stands as a cultural heritage monument that invites exploration and reflection. This historic gatehouse serves as a reminder of the architectural and cultural history of the region, providing insight into the local heritage. The structure is not just a simple entrance; it represents a point of transition from the everyday world into a space imbued with significance. As you approach this site, the charm of its surroundings and the historical context come together to offer a unique experience for visitors.
 
-The gatehouse is located at exact coordinates 49.350468093, 10.203550747, which places it centrally within the quaint village of Gebsattel. While the surrounding landscape features typical Bavarian charm, the monument itself stands as a focal point of cultural pride, drawing those interested in history, architecture, and the artistic endeavors of the past. Visiting the Torhaus not only enriches one’s understanding of the local heritage but also provides an opportunity to connect with the stories of those who came before.
+The gatehouse is located at exact coordinates 49.350468093, 10.203550747, which places it centrally within the quaint village of Gebsattel. While the surrounding landscape features typical Bavarian charm, the monument itself stands as a focal point of cultural pride, drawing those interested in history, architecture, and the artistic endeavors of the past. Visiting the Torhaus not only enriches one's understanding of the local heritage but also provides an opportunity to connect with the stories of those who came before.
 
 ## History and Significance
 

@@ -80,7 +80,7 @@ After visiting St. Catherine's Church, consider exploring some of the nearby att
 
 For an optimal experience at St. Catherine's Church, consider these insider tips:
 
-- **Photography**: Capture the beauty of the church’s architecture, but be mindful of any restrictions regarding flash photography, especially during services or events.
+- **Photography**: Capture the beauty of the church's architecture, but be mindful of any restrictions regarding flash photography, especially during services or events.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for early morning or late afternoon on weekdays. Weekends may draw larger crowds, particularly if there are special services or events.
 

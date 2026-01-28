@@ -26,7 +26,7 @@ The mine's operational history and its role in the broader context of Germany's 
 
 ## History and Significance
 
-The history of Zeche Alte Mißgunst is intertwined with the broader narrative of the Ruhr area’s coal mining legacy. The region experienced a significant industrial boom during the 19th and early 20th centuries, driven largely by its coal deposits. Coal mining became a vital part of the local economy, supporting not only the industry but also the communities that developed around it.
+The history of Zeche Alte Mißgunst is intertwined with the broader narrative of the Ruhr area's coal mining legacy. The region experienced a significant industrial boom during the 19th and early 20th centuries, driven largely by its coal deposits. Coal mining became a vital part of the local economy, supporting not only the industry but also the communities that developed around it.
 
 While specific dates regarding the establishment or closure of Zeche Alte Mißgunst are not readily available, it is representative of the many mines that once dotted the landscape of Bochum. The mine is an important cultural symbol of the era when coal was the primary source of energy and employment in the region. It embodies the struggles of the miners who worked in challenging conditions to extract valuable resources that fueled Germany's industrial growth.
 
@@ -44,7 +44,7 @@ Today, Zeche Alte Mißgunst stands as a poignant reminder of the industrial past
 
 For those planning to visit Zeche Alte Mißgunst, it is essential to check the official website for current information regarding hours of operation and any potential entrance fees. The site is accessible by various modes of transportation, including public transit and personal vehicles. Bochum is well-connected to other major cities in the region, making it a convenient stop for heritage enthusiasts and casual travelers alike.
 
-Visitors can typically expect a self-guided experience, allowing for a personal exploration of the site’s historical significance. Depending on individual interests, a visit can last anywhere from a brief stop to a more extended exploration. It is advisable to allocate sufficient time to absorb the historical context and reflect on the lives of those who once worked there.
+Visitors can typically expect a self-guided experience, allowing for a personal exploration of the site's historical significance. Depending on individual interests, a visit can last anywhere from a brief stop to a more extended exploration. It is advisable to allocate sufficient time to absorb the historical context and reflect on the lives of those who once worked there.
 
 The best times to visit are generally during weekdays when crowds are thinner, allowing for a more intimate experience. Additionally, consider the weather when planning your visit, as outdoor exploration may be affected by seasonal conditions.
 

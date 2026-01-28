@@ -63,9 +63,9 @@ For those planning to photograph the Hanshäger Kirche, consider visiting during
 
 ## Practical Information
 
-When visiting the Hanshäger Kirche, it’s advisable to wear comfortable clothing appropriate for a church setting, keeping in mind that some areas may require modest attire. Bringing a camera can enhance your experience, as the architecture and surroundings are likely to offer captivating visuals. Seasonal considerations may impact your visit; checking the weather forecast can help you plan accordingly. 
+When visiting the Hanshäger Kirche, it's advisable to wear comfortable clothing appropriate for a church setting, keeping in mind that some areas may require modest attire. Bringing a camera can enhance your experience, as the architecture and surroundings are likely to offer captivating visuals. Seasonal considerations may impact your visit; checking the weather forecast can help you plan accordingly. 
 
-Additionally, it’s wise to bring a water bottle to stay hydrated, especially if visiting during warmer months. 
+Additionally, it's wise to bring a water bottle to stay hydrated, especially if visiting during warmer months. 
 
 ## Frequently Asked Questions
 
@@ -82,13 +82,13 @@ Information about guided tours may not be available; it is recommended to inquir
 Visiting during weekdays or early mornings can provide a quieter experience, free from larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility features may not be detailed; it’s best to check in advance for accommodations.
+Accessibility features may not be detailed; it's best to check in advance for accommodations.
 
 ### Can I buy tickets online?
 Details regarding online ticket purchases are not specified; please refer to the official website for more information.
 
 ### Are there restrooms and cafes?
-Information on facilities such as restrooms and cafes is not provided; it’s advisable to check nearby establishments.
+Information on facilities such as restrooms and cafes is not provided; it's advisable to check nearby establishments.
 
 ### What should I wear?
 Dress in comfortable clothing appropriate for a church setting, considering modesty and seasonal conditions.

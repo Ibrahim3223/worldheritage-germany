@@ -46,9 +46,9 @@ Inside, the library may include various sections dedicated to different genres a
 
 Visiting the Bibliotheca Bipontina offers an opportunity to immerse oneself in a world of literature and knowledge. To plan your visit effectively, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. 
 
-The library is accessible by various means of transport, making it easy for visitors to reach. Upon arrival, guests can expect a calm and inviting atmosphere, where they can explore the library’s extensive collections. Depending on your interests, a visit could last anywhere from a brief stop to several hours of exploration and study. 
+The library is accessible by various means of transport, making it easy for visitors to reach. Upon arrival, guests can expect a calm and inviting atmosphere, where they can explore the library's extensive collections. Depending on your interests, a visit could last anywhere from a brief stop to several hours of exploration and study. 
 
-For those looking to maximize their experience, consider visiting during less busy times, which may allow for a more personal interaction with the library’s resources. 
+For those looking to maximize their experience, consider visiting during less busy times, which may allow for a more personal interaction with the library's resources. 
 
 ## Nearby Attractions
 
@@ -86,10 +86,10 @@ When planning your visit to the Bibliotheca Bipontina, keep the following practi
 A visit to the Bibliotheca Bipontina can vary based on your interests, but allocating at least one to two hours allows for a thorough exploration of its collections.
 
 ### Is photography allowed?
-Photography rules may vary, so it’s best to check the library’s policy upon arrival, especially regarding flash photography or specific areas.
+Photography rules may vary, so it's best to check the library's policy upon arrival, especially regarding flash photography or specific areas.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which may enhance your understanding of the library’s history and collections.
+Check the official website for information regarding guided tours, which may enhance your understanding of the library's history and collections.
 
 ### What's the best time to visit?
 Weekdays tend to be quieter, making them ideal for a more peaceful visit. Early mornings may also provide a quieter atmosphere.

@@ -40,7 +40,7 @@ Notable features of the fortification include its imposing walls, which were con
 
 Visitors to the site can appreciate the craftsmanship that went into its construction, as well as the strategic considerations that guided its design. The fortification may also include remnants of ancillary structures that supported military operations, such as storage facilities and living quarters, although specific details are not available.
 
-The site’s enduring presence invites exploration and reflection. As visitors walk through the remnants of the fortification, they can envision the historical events that transpired within its walls and appreciate the skill involved in creating such a lasting monument.
+The site's enduring presence invites exploration and reflection. As visitors walk through the remnants of the fortification, they can envision the historical events that transpired within its walls and appreciate the skill involved in creating such a lasting monument.
 
 ## Visiting Information
 
@@ -50,7 +50,7 @@ It is advisable to check the official website for current information regarding 
 
 The best times to visit the site are during the spring and autumn months when the weather is typically mild, enhancing the overall experience. Additionally, these seasons often see fewer crowds, allowing for a more intimate exploration of the fortification.
 
-Upon arrival, visitors can anticipate a self-guided experience, with informational signage that provides context and details about the site’s history and significance. Comfortable walking shoes and a sense of curiosity will enhance the visit, as the fortification invites exploration and reflection.
+Upon arrival, visitors can anticipate a self-guided experience, with informational signage that provides context and details about the site's history and significance. Comfortable walking shoes and a sense of curiosity will enhance the visit, as the fortification invites exploration and reflection.
 
 ## Nearby Attractions
 
@@ -74,7 +74,7 @@ Engaging with local historians or guides can enrich your understanding of the fo
 
 ## Practical Information
 
-Before heading to Cultural heritage D-5-6832-0170, it’s wise to prepare appropriately. Bringing water and snacks can enhance your visit, especially if you plan to spend several hours exploring the site and surrounding areas. 
+Before heading to Cultural heritage D-5-6832-0170, it's wise to prepare appropriately. Bringing water and snacks can enhance your visit, especially if you plan to spend several hours exploring the site and surrounding areas. 
 
 Seasonal considerations include ensuring you dress appropriately for the weather, as conditions can vary significantly throughout the year. If visiting during colder months, layering is advised, while summer visitors should consider sun protection.
 
@@ -89,7 +89,7 @@ Visitors typically spend a few hours at the fortification, allowing time to expl
 Photography is generally permitted; however, visitors should check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-While self-guided exploration is common, it’s advisable to check for any available guided tours that may enhance your understanding of the site.
+While self-guided exploration is common, it's advisable to check for any available guided tours that may enhance your understanding of the site.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and autumn months when the weather is mild and crowds are fewer.

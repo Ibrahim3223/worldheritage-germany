@@ -50,7 +50,7 @@ Visitors to St. Oswald will appreciate the serene ambiance of the church, which 
 
 ## Visiting Information
 
-When planning a visit to St. Oswald, travelers should consider various transportation options available in Traunstein. The church is situated within easy reach for those traveling by car, bike, or on foot, especially given the town’s pedestrian-friendly layout. 
+When planning a visit to St. Oswald, travelers should consider various transportation options available in Traunstein. The church is situated within easy reach for those traveling by car, bike, or on foot, especially given the town's pedestrian-friendly layout. 
 
 Check the official website for current information regarding opening hours and any potential visitor fees. Visitors can expect a peaceful environment where they can take their time exploring both the interior and exterior of the church. A visit to St. Oswald could take approximately one to two hours, allowing ample time for reflection and appreciation of its architectural and cultural significance.
 
@@ -68,7 +68,7 @@ St. Oswald is conveniently located near several attractions that complement a vi
 
 4. **Local Museums**: Consider visiting local museums that showcase the history and culture of the region, providing further context to your exploration of St. Oswald and Traunstein.
 
-5. **Traditional Bavarian Cuisine**: Don’t miss the chance to savor local dishes at nearby restaurants, offering a taste of Bavarian culinary traditions.
+5. **Traditional Bavarian Cuisine**: Don't miss the chance to savor local dishes at nearby restaurants, offering a taste of Bavarian culinary traditions.
 
 ## Insider Tips
 
@@ -105,7 +105,7 @@ Accessibility information can vary; check the official website for the most curr
 Check the official website for information on ticket purchases and any applicable fees.
 
 ### Are there restrooms and cafes?
-While specific amenities are not detailed, local cafes and facilities are typically available in the vicinity. It’s advisable to plan accordingly.
+While specific amenities are not detailed, local cafes and facilities are typically available in the vicinity. It's advisable to plan accordingly.
 
 ### What should I wear?
 Modest attire is recommended, respecting the church's sacred atmosphere. Comfortable clothing and shoes suitable for walking are also advisable.

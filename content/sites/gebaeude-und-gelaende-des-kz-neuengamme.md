@@ -52,7 +52,7 @@ Throughout the grounds, visitors will find memorials and interpretive installati
 
 Visiting the Gebäude und Gelände des KZ Neuengamme offers an opportunity for profound engagement with history. To reach the site, travelers can utilize various means of transport, including public transportation options that connect to the Bergedorf region. It is advisable to check the official website for current information regarding transport options and directions.
 
-Upon arrival, visitors can expect a thoughtful and respectful atmosphere. The site features informative displays that guide guests through the history and significance of the camp. It is recommended to allocate sufficient time for the visit, as the profound narratives and memorials deserve thoughtful contemplation. Generally, a visit may take several hours, depending on one’s level of engagement with the exhibits.
+Upon arrival, visitors can expect a thoughtful and respectful atmosphere. The site features informative displays that guide guests through the history and significance of the camp. It is recommended to allocate sufficient time for the visit, as the profound narratives and memorials deserve thoughtful contemplation. Generally, a visit may take several hours, depending on one's level of engagement with the exhibits.
 
 For those planning their visit, consider checking the official website for hours of operation and any potential entrance fees. The site is likely to experience varying levels of attendance, so visiting during weekdays or outside of peak tourist seasons may enhance the experience by allowing for quieter reflection.
 
@@ -74,7 +74,7 @@ While the focus of a visit may be the somber history of KZ Neuengamme, the surro
 
 To enhance your visit to Gebäude und Gelände des KZ Neuengamme, consider the following insider tips:
 
-- **Photography**: While photography may be permitted in certain areas, it’s important to be respectful of the solemn nature of the site. Always check regulations regarding photography and avoid capturing images of memorials in a way that could be considered disrespectful.
+- **Photography**: While photography may be permitted in certain areas, it's important to be respectful of the solemn nature of the site. Always check regulations regarding photography and avoid capturing images of memorials in a way that could be considered disrespectful.
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or early in the morning when the site is less likely to be crowded. This allows for a more personal and reflective experience.
 
@@ -96,7 +96,7 @@ Seasonal considerations should also be taken into account, as weather conditions
 Visitors typically spend several hours at the site, allowing time to absorb the history and engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the regulations upon arrival. Always prioritize respect for the memorial aspects of the site.
+Photography policies may vary, so it's best to check the regulations upon arrival. Always prioritize respect for the memorial aspects of the site.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history of the camp. Check the official website for current offerings.

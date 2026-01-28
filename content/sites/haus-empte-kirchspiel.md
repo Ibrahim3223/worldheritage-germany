@@ -36,13 +36,13 @@ Haus Empte holds a notable place in German heritage, representing the essence of
 
 While specific historical dates may not be available, the cultural importance of such manor houses is well-documented. They were pivotal in shaping local economies, serving as hubs for agricultural practices and social gatherings. Over the years, many manor houses, including Haus Empte, have become sites for events and functions, fostering community engagement and preserving local traditions. 
 
-As visitors explore the grounds, they may encounter remnants of the past that provide insights into the daily lives of those who lived and worked at Haus Empte. The manor’s architecture and layout often reveal much about the social customs and economic conditions of the time. Engaging with the history of Haus Empte allows visitors to appreciate the complexity of German heritage and the evolution of its rural landscapes.
+As visitors explore the grounds, they may encounter remnants of the past that provide insights into the daily lives of those who lived and worked at Haus Empte. The manor's architecture and layout often reveal much about the social customs and economic conditions of the time. Engaging with the history of Haus Empte allows visitors to appreciate the complexity of German heritage and the evolution of its rural landscapes.
 
 ## Architecture and Features
 
 Haus Empte is characterized by its traditional manor house design, which reflects the architectural styles prevalent in Germany. The structure typically features elegant lines and functional layouts, designed to accommodate both the needs of its residents and the operational demands of an estate. 
 
-Visitors can expect to see classic elements such as symmetrical facades, large windows that allow ample natural light, and well-proportioned rooms that were once used for both domestic and social functions. The craftsmanship evident in the building’s construction highlights the skills of artisans from the era and offers insight into the aesthetics valued by the gentry.
+Visitors can expect to see classic elements such as symmetrical facades, large windows that allow ample natural light, and well-proportioned rooms that were once used for both domestic and social functions. The craftsmanship evident in the building's construction highlights the skills of artisans from the era and offers insight into the aesthetics valued by the gentry.
 
 Surrounding the manor, visitors may find landscaped gardens and grounds that enhance the overall experience. These areas were often designed for leisure and reflection, providing a peaceful setting that complements the grandeur of the house. Exploring these outdoor spaces can be as enriching as examining the architectural details of the manor itself.
 

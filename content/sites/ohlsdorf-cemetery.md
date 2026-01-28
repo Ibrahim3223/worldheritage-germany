@@ -60,9 +60,9 @@ While visiting Ohlsdorf Cemetery, you may want to extend your exploration to nea
 
 1. **St. John's Church**: Located not far from the cemetery, this historic church features stunning architecture and a peaceful atmosphere, making it an excellent complement to your visit.
    
-2. **Hamburg’s City Park**: A short distance away, this expansive park offers beautiful green spaces, a lake, and recreational activities, perfect for unwinding after your cemetery visit.
+2. **Hamburg's City Park**: A short distance away, this expansive park offers beautiful green spaces, a lake, and recreational activities, perfect for unwinding after your cemetery visit.
 
-3. **Museum der Arbeit (Museum of Work)**: This museum provides insights into the industrial history of Hamburg, highlighting the city’s transformation over time, which can enhance your understanding of the context surrounding Ohlsdorf Cemetery.
+3. **Museum der Arbeit (Museum of Work)**: This museum provides insights into the industrial history of Hamburg, highlighting the city's transformation over time, which can enhance your understanding of the context surrounding Ohlsdorf Cemetery.
 
 4. **Planetarium Hamburg**: Housed in a historic water tower, the planetarium offers fascinating shows about the cosmos and is a great place to unwind and explore after your cemetery visit.
 

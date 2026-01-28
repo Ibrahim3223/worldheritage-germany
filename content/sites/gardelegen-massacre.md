@@ -22,7 +22,7 @@ images:
 
 The Gardelegen massacre memorial stands as a somber reminder of one of the darkest chapters in human history, commemorating the tragic events that took place near the town of Gardelegen in Saxony-Anhalt, Germany. This site marks the location where, in the final days of World War II, numerous lives were lost in a brutal act of violence. It serves not only as a memorial to the victims but also as a place of reflection on the impact of war and the importance of remembering the past. The memorial invites visitors to engage with this painful history, fostering a deeper understanding of the consequences of conflict and the need for reconciliation.
 
-The site’s location in Gardelegen, a town with its own historical significance, adds layers to the memorial's narrative. Situated amid the tranquil landscape of Saxony-Anhalt, the memorial is accessible to visitors seeking to learn about the atrocities of war and the resilience of the human spirit. Here, the memory of those who suffered is preserved, making it a poignant stop for anyone interested in history, memorialization, and the lessons we must carry forward.
+The site's location in Gardelegen, a town with its own historical significance, adds layers to the memorial's narrative. Situated amid the tranquil landscape of Saxony-Anhalt, the memorial is accessible to visitors seeking to learn about the atrocities of war and the resilience of the human spirit. Here, the memory of those who suffered is preserved, making it a poignant stop for anyone interested in history, memorialization, and the lessons we must carry forward.
 
 ## History and Significance
 
@@ -53,7 +53,7 @@ For those planning a visit, the best times to come are often during the spring a
 While the Gardelegen massacre memorial is a focal point for reflection, the surrounding area is home to several attractions that may complement a visit:
 
 1. **St. Jacob's Church**: A historical church in Gardelegen, notable for its architecture and serene setting.
-2. **Gardelegen Old Town**: Explore the charming streets of Gardelegen, featuring buildings that echo the town’s rich history.
+2. **Gardelegen Old Town**: Explore the charming streets of Gardelegen, featuring buildings that echo the town's rich history.
 3. **Biosphere Reserve River Elbe**: A natural reserve nearby that offers scenic views and opportunities for walking and wildlife observation.
 4. **Museum of Gardelegen**: This museum provides insights into the local history and culture, enriching the visitor experience with context about the region.
 5. **Sachsen-Anhalt Region**: The broader area includes various historical sites and nature trails, ideal for those looking to deepen their exploration of Saxony-Anhalt.

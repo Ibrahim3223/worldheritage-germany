@@ -44,7 +44,7 @@ Dresden Zoo features thoughtfully designed habitats that reflect the natural env
 
 Notable features of the zoo include a variety of themed animal enclosures, which are designed to educate visitors about different ecosystems and the species that inhabit them. The careful landscaping throughout the grounds enhances the overall experience, creating a pleasant environment for both animals and guests. 
 
-In addition to the animal exhibits, the zoo often incorporates educational displays and interactive elements that engage visitors and provide deeper insights into the animals’ lives and conservation efforts. These features enhance the educational aspect of the visit, making it both entertaining and informative.
+In addition to the animal exhibits, the zoo often incorporates educational displays and interactive elements that engage visitors and provide deeper insights into the animals' lives and conservation efforts. These features enhance the educational aspect of the visit, making it both entertaining and informative.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ After exploring Dresden Zoo, several nearby attractions offer additional opportu
 
 1. **Zwinger Palace**: A stunning example of Baroque architecture, this palace features beautiful gardens and art museums, making it a must-visit for those interested in art and history.
 
-2. **Dresden Castle**: Located close to the zoo, this historic castle houses several museums and offers insights into the city’s royal past.
+2. **Dresden Castle**: Located close to the zoo, this historic castle houses several museums and offers insights into the city's royal past.
 
 3. **Semper Opera House**: Known for its architectural grandeur and world-class performances, this opera house is an essential stop for culture enthusiasts.
 

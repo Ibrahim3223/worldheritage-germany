@@ -82,7 +82,7 @@ To avoid potential crowds, especially during weekends or religious services, pla
 
 Visitors should prepare for variable weather conditions, especially during the winter months when temperatures can drop. Dress in layers to ensure comfort during your visit. 
 
-It’s wise to bring along a small bottle of water and perhaps a light snack, as facilities in rural areas may be limited. Additionally, consider carrying a notebook or sketchpad if you enjoy journaling or sketching, as the tranquil setting is ideal for quiet reflection.
+It's wise to bring along a small bottle of water and perhaps a light snack, as facilities in rural areas may be limited. Additionally, consider carrying a notebook or sketchpad if you enjoy journaling or sketching, as the tranquil setting is ideal for quiet reflection.
 
 ## Frequently Asked Questions
 

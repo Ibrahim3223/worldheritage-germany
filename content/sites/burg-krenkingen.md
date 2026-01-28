@@ -60,7 +60,7 @@ Expect a combination of historical displays, scenic views, and possibly guided t
 
 While exploring the Waldshut-Tiengen region, several notable attractions are within proximity to Burg Krenkingen that may enrich your visit:
 
-1. **St. John’s Church**: An impressive example of ecclesiastical architecture, this church offers a glimpse into the religious history of the area.
+1. **St. John's Church**: An impressive example of ecclesiastical architecture, this church offers a glimpse into the religious history of the area.
    
 2. **Waldshut-Tiengen Town Hall**: This historic building showcases local governance and offers insights into the civic life of the region.
 
@@ -88,7 +88,7 @@ Additionally, consider packing essentials such as water and snacks, especially i
 A visit to Burg Krenkingen typically takes a few hours, allowing ample time for exploration and appreciation of the castle's history.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s advisable to be respectful of any specific guidelines provided at the site.
+Yes, photography is generally permitted, but it's advisable to be respectful of any specific guidelines provided at the site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the castle's history and architecture.
@@ -103,7 +103,7 @@ Information on accessibility may be available on the official website, so it's b
 Please check the official website for details on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available at or near the site; however, it’s advisable to check the official website for specific information.
+Facilities may be available at or near the site; however, it's advisable to check the official website for specific information.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, as exploring the castle may involve walking and climbing stairs. Dress according to the season for the most enjoyable experience.

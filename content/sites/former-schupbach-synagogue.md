@@ -52,13 +52,13 @@ When planning a visit to the Former Schupbach Synagogue, it is advisable to chec
 
 Once at the synagogue, guests can anticipate a peaceful atmosphere, conducive to reflection and learning. The site offers a unique opportunity to engage with the history of the Jewish community in Beselich and the surrounding areas. While the visit itself may not require a lengthy time commitment, allowing for at least an hour will provide ample opportunity to appreciate the structure and its significance.
 
-The best times to visit may vary, but generally, weekdays tend to be quieter, offering a more intimate experience. As always, it’s prudent to check for any scheduled events or tours that may enhance your experience and provide deeper insights into the synagogue's history.
+The best times to visit may vary, but generally, weekdays tend to be quieter, offering a more intimate experience. As always, it's prudent to check for any scheduled events or tours that may enhance your experience and provide deeper insights into the synagogue's history.
 
 ## Nearby Attractions
 
 While visiting the Former Schupbach Synagogue, consider exploring some nearby attractions to enrich your trip:
 
-1. **Limburg Cathedral**: A remarkable example of medieval architecture, this iconic cathedral is known for its stunning stained glass and intricate façade. It’s located a short drive away and offers guided tours.
+1. **Limburg Cathedral**: A remarkable example of medieval architecture, this iconic cathedral is known for its stunning stained glass and intricate façade. It's located a short drive away and offers guided tours.
 
 2. **Basilica of St. Lubentius**: Situated in the nearby town of Dietkirchen, this basilica is a significant religious site with impressive Romanesque architecture and historical artifacts.
 

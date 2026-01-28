@@ -48,7 +48,7 @@ Soldatenfriedhof Böddeken is characterized by its simple yet solemn layout, typ
 
 While specific architectural details are not provided, the cemetery likely features traditional elements found in similar memorial sites, such as uniform headstones and well-maintained pathways. These elements not only facilitate access for visitors but also contribute to the serene ambiance that encourages contemplation.
 
-The gravestones, each telling a story of sacrifice, may vary in design but collectively convey a sense of unity among the fallen. The landscape surrounding the cemetery is likely to be thoughtfully maintained, enhancing the site’s tranquility and solemnity. 
+The gravestones, each telling a story of sacrifice, may vary in design but collectively convey a sense of unity among the fallen. The landscape surrounding the cemetery is likely to be thoughtfully maintained, enhancing the site's tranquility and solemnity. 
 
 Visitors can expect to find areas designated for reflection, where one can pause to honor the memories of those who served. The overall layout promotes a sense of peace, inviting individuals to engage with the history encapsulated within its boundaries.
 
@@ -74,7 +74,7 @@ While visiting Soldatenfriedhof Böddeken, there are several nearby attractions 
 
 4. **Biodiversity Trail**: For those interested in nature, this trail offers a scenic walk through the surrounding landscapes, providing a peaceful setting to reflect further.
 
-5. **Museum of Büren**: This local museum presents exhibitions on the region’s history, including its wartime past, which complements the themes of remembrance at Soldatenfriedhof Böddeken.
+5. **Museum of Büren**: This local museum presents exhibitions on the region's history, including its wartime past, which complements the themes of remembrance at Soldatenfriedhof Böddeken.
 
 ## Insider Tips
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Haus Gartlage is a distinguished manor house located in the charming city of Osnabrück, Germany. This elegant structure not only serves as a remarkable example of local architectural heritage but also represents the cultural and historical narrative of the region. As you explore its stately façade and surrounding grounds, you will unravel stories that connect the past with the vibrant life of modern-day Osnabrück. The manor is situated in a picturesque area that offers a serene environment, making it an inviting destination for both history enthusiasts and casual visitors alike.
 
-The significance of Haus Gartlage extends beyond its aesthetic appeal; it stands as a symbol of the socio-economic developments of its time. This heritage site invites visitors to engage with the local culture and history, allowing for an enriching experience that highlights the importance of preservation in today’s world. Whether you are wandering through its halls or enjoying the landscaped gardens, Haus Gartlage offers a unique glimpse into the life of a bygone era while still being relevant to the contemporary landscape of Osnabrück.
+The significance of Haus Gartlage extends beyond its aesthetic appeal; it stands as a symbol of the socio-economic developments of its time. This heritage site invites visitors to engage with the local culture and history, allowing for an enriching experience that highlights the importance of preservation in today's world. Whether you are wandering through its halls or enjoying the landscaped gardens, Haus Gartlage offers a unique glimpse into the life of a bygone era while still being relevant to the contemporary landscape of Osnabrück.
 
 ## History and Significance
 
@@ -64,7 +64,7 @@ In addition to Haus Gartlage, the Osnabrück area offers a variety of attraction
 
 1. **Osnabrück Castle**: A historical landmark that reflects the city's rich past, this castle offers guided tours and exhibits on local history.
   
-2. **St. Peter’s Cathedral**: A magnificent example of Gothic architecture, this cathedral is a must-see for its stunning stained glass and historical significance.
+2. **St. Peter's Cathedral**: A magnificent example of Gothic architecture, this cathedral is a must-see for its stunning stained glass and historical significance.
 
 3. **Botanical Garden of Osnabrück**: A serene escape from the urban environment, this garden showcases a diverse range of plant species and peaceful walking paths.
 
@@ -102,7 +102,7 @@ Seasonal considerations are also worth noting, as certain times of the year may 
 A visit of about two to three hours is recommended to fully appreciate the architecture and grounds, along with any exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, especially outdoors. However, it’s best to check any specific restrictions upon arrival.
+Photography is generally permitted, especially outdoors. However, it's best to check any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.
@@ -114,10 +114,10 @@ Spring and summer offer the most vibrant experiences due to the blooming gardens
 Accessibility options may vary; check the official website for detailed information regarding access for individuals with mobility challenges.
 
 ### Can I buy tickets online?
-Information about ticket purchasing can be found on the official website. It’s advisable to confirm if online purchases are available.
+Information about ticket purchasing can be found on the official website. It's advisable to confirm if online purchases are available.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to check the official website for the most current information.
+Facilities may be available on-site, but it's best to check the official website for the most current information.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, with sturdy shoes for walking around the grounds.

@@ -50,7 +50,7 @@ Visiting the Muqeet-Moschee provides an opportunity to engage with the local cul
 
 Transportation to Wabern is accessible, with options for both public transit and private vehicles. If traveling by car, ensure to look for parking facilities nearby. The mosque is typically open to visitors; however, it is recommended to visit during times when community activities are taking place for a more enriching experience. Engaging with locals during these hours can provide deeper insights into their culture and practices.
 
-Allocate at least an hour for your visit to fully appreciate the mosque’s ambiance and possibly participate in any community activities. The best times to visit are during community events or prayer times, as this will allow you to witness the mosque's role as a vibrant center of worship and community life.
+Allocate at least an hour for your visit to fully appreciate the mosque's ambiance and possibly participate in any community activities. The best times to visit are during community events or prayer times, as this will allow you to witness the mosque's role as a vibrant center of worship and community life.
 
 ## Nearby Attractions
 
@@ -64,19 +64,19 @@ While visiting the Muqeet-Moschee, consider exploring other attractions in Waber
 
 4. **Kassel**: A short distance away, Kassel is home to the UNESCO World Heritage Site Bergpark Wilhelmshöhe, featuring stunning gardens and the impressive Hercules monument.
 
-5. **Documenta**: If you’re in the area during the Documenta exhibition, it’s worth visiting this contemporary art exhibition held every five years in Kassel.
+5. **Documenta**: If you're in the area during the Documenta exhibition, it's worth visiting this contemporary art exhibition held every five years in Kassel.
 
 ## Insider Tips
 
 To enhance your visit to the Muqeet-Moschee, consider the following tips:
 
-- **Photography**: If you plan to take photos, be respectful of the community and the sacred nature of the space. It’s best to ask for permission when photographing people or specific areas inside the mosque.
+- **Photography**: If you plan to take photos, be respectful of the community and the sacred nature of the space. It's best to ask for permission when photographing people or specific areas inside the mosque.
 
 - **Crowd Avoidance**: To experience a quieter atmosphere, consider visiting during weekdays or outside of prayer times, when the mosque may be less crowded.
 
 ## Practical Information
 
-When visiting the Muqeet-Moschee, it’s important to be mindful of your surroundings and cultural practices. Here are a few practical considerations:
+When visiting the Muqeet-Moschee, it's important to be mindful of your surroundings and cultural practices. Here are a few practical considerations:
 
 - **What to Bring**: Dress modestly when visiting the mosque. Women may need to cover their heads, so bringing a scarf is advisable. Comfortable shoes are also recommended, as you may need to remove them before entering the prayer area.
 
@@ -100,7 +100,7 @@ Visiting during prayer times or community events can provide a richer experience
 Check the official website for specific accessibility information, as facilities can vary.
 
 ### Can I buy tickets online?
-Entry policies may vary, so it’s best to check the official website for the latest information on admission and any associated fees.
+Entry policies may vary, so it's best to check the official website for the latest information on admission and any associated fees.
 
 ### Are there restrooms and cafes?
 Facilities may be available on-site, but check the official website for detailed information about amenities.

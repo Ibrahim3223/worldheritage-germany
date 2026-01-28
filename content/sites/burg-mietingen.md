@@ -62,7 +62,7 @@ While visiting Burg Mietingen, consider exploring these nearby attractions to en
 
 3. **Lake Federsee**: Located not far from Mietingen, this scenic lake offers opportunities for hiking, birdwatching, and enjoying nature. 
 
-4. **Burg Trausnitz**: Another nearby castle that provides insight into the region’s feudal history and offers stunning views of the surrounding landscape.
+4. **Burg Trausnitz**: Another nearby castle that provides insight into the region's feudal history and offers stunning views of the surrounding landscape.
 
 5. **Historical Museum of Ulm**: For those interested in a deeper dive into regional history, this museum showcases artifacts and exhibitions related to the area's past.
 
@@ -76,7 +76,7 @@ To make the most of your visit to Burg Mietingen, here are some insider tips:
 
 - **Dress Comfortably**: Wear comfortable shoes suitable for walking, as some areas may have uneven surfaces. 
 
-- **Engage with Staff**: Don’t hesitate to ask staff for information about the castle’s history and architecture; they can provide valuable insights that enhance your understanding of the site.
+- **Engage with Staff**: Don't hesitate to ask staff for information about the castle's history and architecture; they can provide valuable insights that enhance your understanding of the site.
 
 ## Practical Information
 

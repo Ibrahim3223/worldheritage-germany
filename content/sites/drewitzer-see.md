@@ -42,7 +42,7 @@ As a part of a broader network of lakes in the Mecklenburgische Seenplatte, Drew
 
 ## Architecture and Features
 
-Drewitzer See is characterized by its natural features rather than manmade architecture. The lake itself is surrounded by lush vegetation, including trees and shrubs that line the water’s edge, creating a picturesque backdrop that changes with the seasons. The clear waters are ideal for reflection, providing a serene atmosphere that enhances the natural beauty of the landscape.
+Drewitzer See is characterized by its natural features rather than manmade architecture. The lake itself is surrounded by lush vegetation, including trees and shrubs that line the water's edge, creating a picturesque backdrop that changes with the seasons. The clear waters are ideal for reflection, providing a serene atmosphere that enhances the natural beauty of the landscape.
 
 The area around the lake features well-maintained walking paths and observation points, allowing visitors to fully appreciate the environment. The shorelines are often dotted with fishing spots and small areas for picnicking, encouraging visitors to connect with nature. 
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak seasons. Early
 
 ## Practical Information
 
-When visiting Drewitzer See, it’s advisable to bring along essentials such as water, snacks, and sunscreen, especially during summer months. If you plan to engage in water activities, don’t forget appropriate swimwear and gear.
+When visiting Drewitzer See, it's advisable to bring along essentials such as water, snacks, and sunscreen, especially during summer months. If you plan to engage in water activities, don't forget appropriate swimwear and gear.
 
 Seasonal considerations are important; spring and summer offer the best opportunities for outdoor activities, while autumn showcases stunning foliage. Winter months may see a quieter atmosphere, but be prepared for cooler temperatures.
 

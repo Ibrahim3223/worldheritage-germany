@@ -60,7 +60,7 @@ Upon arrival, expect a range of amenities designed to enhance your experience, i
 
 2. **Partnach Gorge**: A short distance from Garmisch-Partenkirchen, this stunning gorge features dramatic rock formations and cascading waterfalls, making it a popular hiking destination.
 
-3. **Eibsee**: Located at the base of Zugspitze, Eibsee is known for its crystal-clear waters surrounded by lush forests and mountains. It’s perfect for swimming, boating, and picnicking.
+3. **Eibsee**: Located at the base of Zugspitze, Eibsee is known for its crystal-clear waters surrounded by lush forests and mountains. It's perfect for swimming, boating, and picnicking.
 
 4. **Zugspitze Glacier**: Accessible from the summit, this glacier offers year-round skiing opportunities and is a unique environment for snow sports enthusiasts.
 

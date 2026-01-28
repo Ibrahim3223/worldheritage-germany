@@ -56,7 +56,7 @@ While the Gauß Museum is no longer active, it was a popular destination for vis
 
 For those looking to explore the city, Brunswick has a well-connected public transport system that includes buses and trains, making it relatively easy to navigate. The museum was accessible by various modes of transportation, allowing visitors to reach it conveniently from different parts of the city.
 
-When planning a visit to Brunswick, it’s essential to consider how much time you would like to dedicate to exploring the city and its other attractions. Typically, a visit to a museum of this nature would require a couple of hours, depending on one’s interest in the subject matter. The best times to visit would generally be during the weekdays when the city is less crowded, allowing for a more relaxed experience.
+When planning a visit to Brunswick, it's essential to consider how much time you would like to dedicate to exploring the city and its other attractions. Typically, a visit to a museum of this nature would require a couple of hours, depending on one's interest in the subject matter. The best times to visit would generally be during the weekdays when the city is less crowded, allowing for a more relaxed experience.
 
 While the museum itself is no longer available for visits, the surrounding area still offers plenty to see and do, from historical sites to local cafes where visitors can take a break and enjoy the ambiance of this beautiful city.
 
@@ -66,11 +66,11 @@ While the museum itself is no longer available for visits, the surrounding area 
 
 2. **St. Blasius Church**: An important landmark known for its impressive architecture and historical significance. The church is a wonderful place to appreciate Gothic design and local history.
 
-3. **Herzog Anton Ulrich Museum**: This museum hosts an impressive collection of art, ranging from antiquity to modern works. It’s an essential stop for art enthusiasts visiting the city.
+3. **Herzog Anton Ulrich Museum**: This museum hosts an impressive collection of art, ranging from antiquity to modern works. It's an essential stop for art enthusiasts visiting the city.
 
-4. **Schlossplatz**: A lively public square surrounded by historical buildings. It’s a great spot to relax, enjoy local cuisine, and soak in the atmosphere of Brunswick.
+4. **Schlossplatz**: A lively public square surrounded by historical buildings. It's a great spot to relax, enjoy local cuisine, and soak in the atmosphere of Brunswick.
 
-5. **The Old Town**: Wandering through the cobbled streets of Brunswick's Old Town allows visitors to experience the city’s rich history and vibrant culture firsthand.
+5. **The Old Town**: Wandering through the cobbled streets of Brunswick's Old Town allows visitors to experience the city's rich history and vibrant culture firsthand.
 
 ## Insider Tips
 

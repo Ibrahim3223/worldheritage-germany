@@ -36,7 +36,7 @@ The Urwelt-Museum Hauff has played a pivotal role in the study and preservation 
 
 The museum's origins can be traced back to a time when local paleontologists began uncovering remarkable fossil specimens in the surrounding limestone quarries. As these discoveries gained recognition, the need arose to create a dedicated space for their display and study, leading to the establishment of the museum. Over the years, the Urwelt-Museum Hauff has expanded its collection and improved its displays, continually striving to engage the public and foster a deeper understanding of paleontology.
 
-In addition to its impressive fossil displays, the museum also serves an educational purpose, hosting workshops, lectures, and guided tours aimed at both children and adults. This commitment to education reflects the museum’s broader mission to promote awareness of the scientific significance of fossils and their role in understanding Earth’s history.
+In addition to its impressive fossil displays, the museum also serves an educational purpose, hosting workshops, lectures, and guided tours aimed at both children and adults. This commitment to education reflects the museum's broader mission to promote awareness of the scientific significance of fossils and their role in understanding Earth's history.
 
 ## Architecture and Features
 

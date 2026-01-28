@@ -82,7 +82,7 @@ Seasonal considerations may affect your visit; for example, spring and summer of
 A visit to St. Johannes Nepomuk typically takes about an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check any posted signs or inquire with staff upon arrival.
+Photography policies may vary, so it's best to check any posted signs or inquire with staff upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may not be available. Check the official website for any scheduled tours or special events.
@@ -91,13 +91,13 @@ Information about guided tours may not be available. Check the official website 
 Weekdays in the early morning or late afternoon tend to provide a quieter, more reflective experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s advisable to contact the church directly for information regarding wheelchair access.
+Accessibility details are not specified. It's advisable to contact the church directly for information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Current ticketing options are not provided; check the official website for any online purchasing information.
 
 ### Are there restrooms and cafes?
-Information about amenities such as restrooms or cafes is not detailed here. It’s advisable to explore nearby areas for dining options.
+Information about amenities such as restrooms or cafes is not detailed here. It's advisable to explore nearby areas for dining options.
 
 ### What should I wear?
 Dress modestly, respecting the sacred nature of the site. Comfortable clothing and shoes are recommended for exploring the area.

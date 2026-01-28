@@ -53,7 +53,7 @@ While the museum can be enjoyed year-round, certain times may be more favorable 
 Grafenwöhr is home to several attractions that complement a visit to the Culture- and Military Museum. Nearby, you can explore:
 
 1. **Grafenwöhr Training Area** - A significant military training site that reflects the region's military history.
-2. **St. John’s Church** - An architectural landmark offering insights into local religious practices and history.
+2. **St. John's Church** - An architectural landmark offering insights into local religious practices and history.
 3. **Local Parks** - These spaces provide opportunities for leisure and relaxation, perfect for unwinding after a museum visit.
 4. **Historical Town Center** - A charming area showcasing local shops and cafes, ideal for experiencing the community atmosphere.
 
@@ -61,7 +61,7 @@ These attractions provide additional context to the themes explored within the m
 
 ## Insider Tips
 
-To make the most of your visit to the Culture- and Military Museum Grafenwoehr, consider a few insider tips. Photography may be restricted in certain areas of the museum, so it’s advisable to check signage and inquire at the entrance about specific policies. 
+To make the most of your visit to the Culture- and Military Museum Grafenwoehr, consider a few insider tips. Photography may be restricted in certain areas of the museum, so it's advisable to check signage and inquire at the entrance about specific policies. 
 
 To avoid crowds, consider visiting on weekdays or during off-peak hours, which can provide a more peaceful experience as you engage with the exhibits. Additionally, look out for any guided tours that may enhance your understanding of the museum's displays through expert insights.
 

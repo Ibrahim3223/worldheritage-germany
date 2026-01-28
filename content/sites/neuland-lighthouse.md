@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Neuland Lighthouse, located in the picturesque region of Behrensdorf, Schleswig-Holstein, Germany, is a notable maritime structure that has guided countless vessels through the waters of the Baltic Sea. Erected to enhance navigation safety, this lighthouse stands not merely as a functional beacon but also as a symbol of the region’s maritime heritage. The lighthouse’s elegant design and strategic location highlight its importance in maritime navigation, ensuring that sailors can safely traverse the coastal waters. 
+The Neuland Lighthouse, located in the picturesque region of Behrensdorf, Schleswig-Holstein, Germany, is a notable maritime structure that has guided countless vessels through the waters of the Baltic Sea. Erected to enhance navigation safety, this lighthouse stands not merely as a functional beacon but also as a symbol of the region's maritime heritage. The lighthouse's elegant design and strategic location highlight its importance in maritime navigation, ensuring that sailors can safely traverse the coastal waters. 
 
 Visitors to Neuland can immerse themselves in the coastal culture while appreciating the blend of natural beauty and historical significance that this lighthouse represents. The surrounding landscapes, characterized by serene coastal vistas and rich local flora, provide a fitting backdrop for those looking to explore Germany's maritime history. Whether you are an avid maritime enthusiast, a history buff, or simply seeking a unique travel experience, Neuland Lighthouse promises to be a captivating stop on your journey through Schleswig-Holstein.
 
@@ -64,7 +64,7 @@ While visiting Neuland Lighthouse, there are several nearby attractions that enh
 
 3. **Nature Reserves**: The surrounding area is home to various nature reserves that showcase the region's biodiversity. These reserves are perfect for hiking and bird-watching, allowing visitors to engage with the local ecology.
 
-4. **Kiel**: A short distance away, Kiel is a vibrant city known for its maritime heritage. Visitors can explore museums, dining options, and waterfront activities that highlight the city’s connection to the sea.
+4. **Kiel**: A short distance away, Kiel is a vibrant city known for its maritime heritage. Visitors can explore museums, dining options, and waterfront activities that highlight the city's connection to the sea.
 
 5. **Old Lighthouse of Kiel**: Located in Kiel, this historical lighthouse offers another glimpse into maritime history and provides visitors with a different perspective on lighthouse architecture.
 
@@ -106,7 +106,7 @@ The best time to visit is during the spring and summer months when the weather i
 Check the official website for specific accessibility information, as this can vary based on the site's infrastructure.
 
 ### Can I buy tickets online?
-Details regarding ticket purchasing options may change, so it’s advisable to check the official website for the latest information.
+Details regarding ticket purchasing options may change, so it's advisable to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Information regarding amenities such as restrooms and cafes may vary, so consult the official site for details.

@@ -74,7 +74,7 @@ To make the most of your visit to Gotha, consider the following tips:
 
 When preparing for your visit to Gotha, ensure you bring comfortable walking shoes, as much of the exploration will involve walking through parks and historic streets. Seasonal considerations are also important; spring and summer months typically offer more favorable weather for outdoor activities. 
 
-Be mindful of local customs and dress appropriately for church visits or formal events, should you choose to explore places like St. Margarethen Church. Lastly, it’s always wise to check the official website for any seasonal events or special exhibitions that may enhance your experience.
+Be mindful of local customs and dress appropriately for church visits or formal events, should you choose to explore places like St. Margarethen Church. Lastly, it's always wise to check the official website for any seasonal events or special exhibitions that may enhance your experience.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ Be mindful of local customs and dress appropriately for church visits or formal 
 A visit to Gotha can typically last from half a day to a full day, depending on your interest in exploring museums and historical sites.
 
 ### Is photography allowed? 
-Photography is generally permitted at most attractions in Gotha, but it’s advisable to check for any specific restrictions at individual sites.
+Photography is generally permitted at most attractions in Gotha, but it's advisable to check for any specific restrictions at individual sites.
 
 ### Are there guided tours? 
 Guided tours may be available for certain attractions in Gotha. Check the official website for details on scheduling and availability.
@@ -91,7 +91,7 @@ Guided tours may be available for certain attractions in Gotha. Check the offici
 Spring and summer are often considered the best times to visit for pleasant weather and outdoor activities.
 
 ### Is it wheelchair accessible? 
-Many public spaces and attractions in Gotha strive for accessibility, but it’s best to check with specific sites for their accommodations.
+Many public spaces and attractions in Gotha strive for accessibility, but it's best to check with specific sites for their accommodations.
 
 ### Can I buy tickets online? 
 Ticket purchasing options may vary by attraction. Check the official website for information regarding online ticket sales.

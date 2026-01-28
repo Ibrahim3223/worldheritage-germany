@@ -28,7 +28,7 @@ image_srcset:
 
 The Mausoleum of the Opel family in Rüsselsheim am Main, Germany, serves as a poignant monument to one of the region's most influential families. This somber structure is not just a resting place but also a reflection of the cultural and historical significance of the Opel family, known for their profound impact on the automotive industry and local community. Situated in a city characterized by its industrial heritage, the mausoleum stands out as an important landmark, inviting visitors to explore its solemn beauty and the legacy it represents. 
 
-As you approach the mausoleum, you’ll be struck by its serene environment, providing a reflective space amidst the bustling life of Rüsselsheim. The site not only pays homage to the Opel family but also invites visitors to contemplate the blending of personal and collective histories in the face of modernity.
+As you approach the mausoleum, you'll be struck by its serene environment, providing a reflective space amidst the bustling life of Rüsselsheim. The site not only pays homage to the Opel family but also invites visitors to contemplate the blending of personal and collective histories in the face of modernity.
 
 ## History and Significance
 
@@ -42,9 +42,9 @@ As an architectural form, mausoleums have traditionally served a dual purpose: t
 
 Although specific architectural details of the Mausoleum of the Opel family are not provided, mausoleums often feature distinctive characteristics that reflect both the era of their creation and the personal style of the families they commemorate. Typically, these structures may include elements such as intricate stone carvings, classical columns, and elaborate doorways, each contributing to their solemn yet dignified presence.
 
-The design of the mausoleum likely mirrors the opulence associated with the Opel family’s wealth and status. Common features in mausoleums include stained glass, grand entrances, and landscaped grounds that enhance their serene environments. The mausoleum may also include inscriptions or dedications that provide insight into the family’s values and history, serving as a narrative for visitors to engage with.
+The design of the mausoleum likely mirrors the opulence associated with the Opel family's wealth and status. Common features in mausoleums include stained glass, grand entrances, and landscaped grounds that enhance their serene environments. The mausoleum may also include inscriptions or dedications that provide insight into the family's values and history, serving as a narrative for visitors to engage with.
 
-As you explore the mausoleum, it’s essential to take in the detailed craftsmanship that may characterize its construction. Such structures often serve not only as memorials but also as works of art, encapsulating the artistic trends and cultural values of their time.
+As you explore the mausoleum, it's essential to take in the detailed craftsmanship that may characterize its construction. Such structures often serve not only as memorials but also as works of art, encapsulating the artistic trends and cultural values of their time.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When visiting the Mausoleum of the Opel family, it’s advisable to bring a camera for capturing memories, as well as a notebook or sketchbook if you enjoy jotting down reflections or making sketches. Comfortable walking shoes are recommended, as you may want to explore the surrounding area.
+When visiting the Mausoleum of the Opel family, it's advisable to bring a camera for capturing memories, as well as a notebook or sketchbook if you enjoy jotting down reflections or making sketches. Comfortable walking shoes are recommended, as you may want to explore the surrounding area.
 
 Seasonal considerations are also important. Spring and autumn often provide mild weather, making it pleasant to stroll around the mausoleum and nearby attractions. However, check the official website for any seasonal events or changes in hours that might affect your visit.
 
@@ -101,7 +101,7 @@ Accessibility information is not specified; check the official website for detai
 For current ticket purchasing options, please check the official website.
 
 ### Are there restrooms and cafes?
-Information about facilities such as restrooms and cafes is not provided; it’s advisable to check local amenities nearby.
+Information about facilities such as restrooms and cafes is not provided; it's advisable to check local amenities nearby.
 
 ### What should I wear?
 Comfortable, respectful attire is recommended for visiting the mausoleum, particularly as it is a site of remembrance.

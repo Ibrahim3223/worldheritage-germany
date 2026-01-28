@@ -32,7 +32,7 @@ The gallery's collection features works by renowned artists, offering insights i
 
 ## History and Significance
 
-The Sanssouci Picture Gallery was established during the reign of Frederick the Great, the King of Prussia, who was a passionate patron of the arts. This gallery formed part of the larger Sanssouci Palace complex, which served as Frederick’s summer residence. The gallery's inception marked a significant moment in the 18th-century cultural landscape, reflecting the values and aesthetics of the Enlightenment era. Frederick's vision was not merely to amass art but to create an environment where art and nature coexisted harmoniously, a concept that resonates throughout the grounds of Sanssouci.
+The Sanssouci Picture Gallery was established during the reign of Frederick the Great, the King of Prussia, who was a passionate patron of the arts. This gallery formed part of the larger Sanssouci Palace complex, which served as Frederick's summer residence. The gallery's inception marked a significant moment in the 18th-century cultural landscape, reflecting the values and aesthetics of the Enlightenment era. Frederick's vision was not merely to amass art but to create an environment where art and nature coexisted harmoniously, a concept that resonates throughout the grounds of Sanssouci.
 
 The gallery was designed to serve not only as a display space for artworks but also as a venue for social gatherings and intellectual discourse. It became a haven for artists, philosophers, and thinkers, contributing to the vibrant cultural scene of the time. The collection within the gallery includes notable works by European masters, which were carefully curated to reflect the artistic ideals of the period. The significance of the gallery extends beyond its collection; it embodies the ethos of an era that valued enlightenment thinking, aesthetic beauty, and the pursuit of knowledge.
 
@@ -120,4 +120,4 @@ Restrooms are typically available within Sanssouci Park, and nearby cafes offer 
 ### What should I wear?
 Comfortable clothing and shoes are advisable, especially if you plan to explore the gardens and surrounding areas. 
 
-Visiting the Sanssouci Picture Gallery promises an enriching encounter with art and history, inviting you to explore the legacy of one of Prussia’s most illustrious patrons.
+Visiting the Sanssouci Picture Gallery promises an enriching encounter with art and history, inviting you to explore the legacy of one of Prussia's most illustrious patrons.

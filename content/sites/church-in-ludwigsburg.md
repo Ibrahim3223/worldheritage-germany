@@ -58,7 +58,7 @@ Most guests spend approximately 30 minutes to an hour at the chapel, which is su
 
 If your exploration of Ludwigsburg extends beyond the chapel, several nearby attractions can enhance your visit:
 
-1. **Loissin Village**: A charming local village that offers a glimpse into the everyday life of the region’s residents. Strolling through its streets can provide insight into local traditions and culture.
+1. **Loissin Village**: A charming local village that offers a glimpse into the everyday life of the region's residents. Strolling through its streets can provide insight into local traditions and culture.
    
 2. **Local Nature Trails**: Surrounding the chapel are various nature trails that invite visitors to immerse themselves in the natural beauty of Loissin. These paths are ideal for leisurely walks or more adventurous hikes.
 

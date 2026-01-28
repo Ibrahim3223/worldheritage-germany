@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Kloster Geistingen, located in the serene region of Hennef, Germany, is a remarkable monastery that offers a tranquil escape imbued with historical and cultural significance. This monastery stands as a peaceful sanctuary, inviting visitors to explore its rich heritage and spiritual ambiance. The site’s architecture and serene surroundings provide an opportunity for contemplation and reflection, making it a meaningful destination for those interested in religious history and monastic life.
+Kloster Geistingen, located in the serene region of Hennef, Germany, is a remarkable monastery that offers a tranquil escape imbued with historical and cultural significance. This monastery stands as a peaceful sanctuary, inviting visitors to explore its rich heritage and spiritual ambiance. The site's architecture and serene surroundings provide an opportunity for contemplation and reflection, making it a meaningful destination for those interested in religious history and monastic life.
 
-Situated at the coordinates 50.7697, 7.27278, Kloster Geistingen is easily accessible from various parts of Germany, making it a convenient stop for travelers exploring the broader region. The monastery, with its historical roots and serene environment, serves as a reminder of Germany’s rich religious landscape and the pivotal role of monastic communities throughout history. Whether you are seeking a quiet retreat, a place of spiritual reflection, or an insight into monastic life, Kloster Geistingen promises a captivating experience.
+Situated at the coordinates 50.7697, 7.27278, Kloster Geistingen is easily accessible from various parts of Germany, making it a convenient stop for travelers exploring the broader region. The monastery, with its historical roots and serene environment, serves as a reminder of Germany's rich religious landscape and the pivotal role of monastic communities throughout history. Whether you are seeking a quiet retreat, a place of spiritual reflection, or an insight into monastic life, Kloster Geistingen promises a captivating experience.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ When planning your visit to Kloster Geistingen, consider bringing a camera to ca
 
 ## Practical Information
 
-When visiting Kloster Geistingen, it’s advisable to bring comfortable walking shoes, as exploring the grounds may involve some walking. Additionally, consider packing a light snack and water, as amenities on-site may be limited. Seasonal considerations are also important; during the colder months, dress warmly, as some areas may be exposed to the elements.
+When visiting Kloster Geistingen, it's advisable to bring comfortable walking shoes, as exploring the grounds may involve some walking. Additionally, consider packing a light snack and water, as amenities on-site may be limited. Seasonal considerations are also important; during the colder months, dress warmly, as some areas may be exposed to the elements.
 
 Furthermore, be prepared for a serene and contemplative atmosphere, which means distractions such as loud conversations or electronic devices should be minimized to respect the space and its purpose. 
 
@@ -93,7 +93,7 @@ Information on guided tours may not be readily available; check the official web
 Spring and autumn are generally the best times to visit due to mild weather and beautiful natural surroundings.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s advisable to check the official website for details.
+Accessibility information is not specified; it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for current information.

@@ -32,7 +32,7 @@ As you traverse the paths of Stadtfriedhof Seelhorst, you will find a unique ble
 
 ## History and Significance
 
-The history of Stadtfriedhof Seelhorst is deeply intertwined with the development of Hannover itself. Established as the city's largest cemetery, it is a vital repository of local history and memory. While specific founding dates and detailed historical milestones may not be readily available, the cemetery's significance is underscored by the notable individuals interred here. It serves as a final resting place for many of Hannover’s prominent citizens, reflecting the social and cultural fabric of the city over the decades.
+The history of Stadtfriedhof Seelhorst is deeply intertwined with the development of Hannover itself. Established as the city's largest cemetery, it is a vital repository of local history and memory. While specific founding dates and detailed historical milestones may not be readily available, the cemetery's significance is underscored by the notable individuals interred here. It serves as a final resting place for many of Hannover's prominent citizens, reflecting the social and cultural fabric of the city over the decades.
 
 Seelhorst has evolved alongside Hannover, adapting to the changing needs of the community. Its design and layout have been influenced by various historical movements, showcasing the evolution of architectural styles in funerary art. The cemetery is more than just a burial ground; it represents the collective memory of the city, capturing the stories of countless families and individuals who have shaped Hannover's identity.
 
@@ -72,7 +72,7 @@ To avoid crowds, try visiting during weekdays rather than weekends. The cemetery
 
 ## Practical Information
 
-When preparing for your visit to Stadtfriedhof Seelhorst, it’s advisable to wear comfortable shoes, as the terrain can vary. Bring a water bottle to stay hydrated, especially during warmer months. Seasonal considerations are important—during autumn, you might enjoy the colorful foliage, while spring offers blooming flowers.
+When preparing for your visit to Stadtfriedhof Seelhorst, it's advisable to wear comfortable shoes, as the terrain can vary. Bring a water bottle to stay hydrated, especially during warmer months. Seasonal considerations are important—during autumn, you might enjoy the colorful foliage, while spring offers blooming flowers.
 
 There are no specific facilities within the cemetery itself, so plan accordingly for rest breaks or food. Ensure you check the official website for any updates on accessibility or amenities that may be available during your visit.
 

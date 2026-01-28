@@ -52,7 +52,7 @@ Getting to the Alpine Museum is straightforward, thanks to its central location 
 
 As for visiting hours and ticket prices, it's best to check the official website for the most accurate and up-to-date details. Typically, museums like this offer various pricing options, including discounts for students and seniors, as well as family tickets.
 
-When planning your visit, consider allocating around two to three hours to fully explore the museum's exhibits. This timeframe allows for a thorough engagement with the displays while also offering the opportunity to appreciate the museum’s atmosphere. Additionally, the best times to visit may vary, so checking the official website for peak hours and special events can enhance your experience.
+When planning your visit, consider allocating around two to three hours to fully explore the museum's exhibits. This timeframe allows for a thorough engagement with the displays while also offering the opportunity to appreciate the museum's atmosphere. Additionally, the best times to visit may vary, so checking the official website for peak hours and special events can enhance your experience.
 
 ## Nearby Attractions
 

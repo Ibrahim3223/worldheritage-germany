@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Mainz, Germany, the Mainz Römisches Theater station serves as a pivotal junction in the city's robust railway network. This railway station, located in the Altstadt (Old Town) region, is not just a transit point but an integral part of the urban fabric of Mainz. It connects travelers to various destinations while showcasing the city’s historical and cultural significance. The station is strategically situated, making it a convenient access point for visitors looking to explore the rich heritage and vibrant atmosphere of Mainz.
+In the heart of Mainz, Germany, the Mainz Römisches Theater station serves as a pivotal junction in the city's robust railway network. This railway station, located in the Altstadt (Old Town) region, is not just a transit point but an integral part of the urban fabric of Mainz. It connects travelers to various destinations while showcasing the city's historical and cultural significance. The station is strategically situated, making it a convenient access point for visitors looking to explore the rich heritage and vibrant atmosphere of Mainz.
 
 The significance of Mainz Römisches Theater station extends beyond its functional role. It is situated close to historical landmarks and cultural attractions, making it an ideal starting point for those wishing to delve into the city's storied past. With its unique blend of modern transport infrastructure and proximity to ancient sites, this station epitomizes the seamless integration of history and contemporary life. 
 
@@ -92,10 +92,10 @@ Yes, photography is generally allowed in and around the station, but be mindful 
 While the station itself does not offer guided tours, many nearby attractions do provide guided experiences. Check their respective websites for options.
 
 ### What's the best time to visit?
-Daytime hours are ideal for experiencing the station’s vibrant atmosphere and accessing nearby historical sites.
+Daytime hours are ideal for experiencing the station's vibrant atmosphere and accessing nearby historical sites.
 
 ### Is it wheelchair accessible?
-The station is designed to accommodate travelers with mobility challenges, but it’s best to check specific accessibility features on the official website.
+The station is designed to accommodate travelers with mobility challenges, but it's best to check specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Yes, tickets can often be purchased online for added convenience. However, check the official website for details on ticket availability and purchasing options.

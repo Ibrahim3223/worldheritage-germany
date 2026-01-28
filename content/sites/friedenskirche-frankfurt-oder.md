@@ -44,7 +44,7 @@ Friedenskirche is noted for its distinctive architectural style, which reflects 
 
 Inside, visitors will find a space that encourages contemplation and reflection. The interior is designed to foster a spiritual atmosphere, with carefully chosen materials and decor that enhance the sense of peace. Light filters through the windows, illuminating the sacred space and inviting visitors to pause and reflect. 
 
-Notable features of the church may include artistic elements that celebrate religious themes and the community’s cultural heritage. These aspects contribute to the overall experience of visiting Friedenskirche, allowing guests to appreciate the artistry and intention behind its design.
+Notable features of the church may include artistic elements that celebrate religious themes and the community's cultural heritage. These aspects contribute to the overall experience of visiting Friedenskirche, allowing guests to appreciate the artistry and intention behind its design.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ Visitors can generally expect to spend about an hour at Friedenskirche, allowing
 
 While visiting Friedenskirche, consider exploring some nearby attractions that further enrich your experience in Frankfurt (Oder). 
 
-1. **Stadtmuseum Frankfurt (Oder)**: This local museum offers insights into the city’s history and cultural heritage with various exhibits and artifacts.
+1. **Stadtmuseum Frankfurt (Oder)**: This local museum offers insights into the city's history and cultural heritage with various exhibits and artifacts.
 
 2. **Kulturhaus Frankfurt (Oder)**: A cultural hub that hosts performances, exhibitions, and community events, showcasing local talent and artistic expressions.
 
@@ -72,7 +72,7 @@ These attractions complement a visit to Friedenskirche, allowing for a more comp
 
 For those looking to capture the essence of Friedenskirche through photography, it is recommended to visit during the early morning or late afternoon when natural light enhances the beauty of the structure. This timing can also help you avoid larger crowds, allowing for a more personal experience. 
 
-In addition, consider attending a service or event if possible, as this can provide a unique perspective on the church’s role in the community and offer insights into local traditions.
+In addition, consider attending a service or event if possible, as this can provide a unique perspective on the church's role in the community and offer insights into local traditions.
 
 ## Practical Information
 

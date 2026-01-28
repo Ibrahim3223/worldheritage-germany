@@ -40,7 +40,7 @@ Dorfkirche Dahrenstedt stands as an important symbol of resilience, reflecting h
 
 ## Architecture and Features
 
-Dorfkirche Dahrenstedt is characterized by traditional architectural elements that are emblematic of church buildings in the Stendal region. The church’s structure showcases a blend of functionality and aesthetic appeal, with a design that encourages reflection and prayer. 
+Dorfkirche Dahrenstedt is characterized by traditional architectural elements that are emblematic of church buildings in the Stendal region. The church's structure showcases a blend of functionality and aesthetic appeal, with a design that encourages reflection and prayer. 
 
 While specific architectural details such as dimensions or materials are not outlined, the church typically features a simple yet elegant façade, with stained glass windows that allow natural light to filter into the interior. The layout often includes a nave, chancel, and possibly a tower, which are common in churches of this type. 
 

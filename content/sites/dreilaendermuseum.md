@@ -60,7 +60,7 @@ Traveling to the Dreiländermuseum is convenient, thanks to its central location
 
 Check the official website for current information regarding opening hours and ticket prices, as these may vary throughout the year. Generally, visitors should allocate approximately 1.5 to 2 hours to fully appreciate the exhibits and engage with the available resources. 
 
-The best times to visit are during weekdays when the museum tends to be less crowded, allowing for a more personal and intimate experience with the exhibits. However, weekends may offer special events or programs that could enhance your visit, so it’s worth checking the calendar of events on the museum’s website before planning your trip.
+The best times to visit are during weekdays when the museum tends to be less crowded, allowing for a more personal and intimate experience with the exhibits. However, weekends may offer special events or programs that could enhance your visit, so it's worth checking the calendar of events on the museum's website before planning your trip.
 
 Upon arrival, you can expect a warm welcome from the staff, who are knowledgeable and eager to assist with any questions you may have. The museum often provides informational brochures and guides that can help you navigate the various exhibitions, ensuring you don't miss any highlights.
 

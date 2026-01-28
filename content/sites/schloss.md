@@ -74,7 +74,7 @@ These nearby attractions provide a comprehensive view of the region's culture, h
 
 For photographers, Schloss presents numerous opportunities to capture stunning images. The castle's architecture and the surrounding landscape come together beautifully, especially during the golden hours of sunrise and sunset. To avoid crowds, consider visiting on weekdays or during off-peak seasons, which allows for a more serene atmosphere.
 
-If you’re interested in guided tours, inquire ahead of time, as they can enhance your understanding of the castle’s history and features. Lastly, don’t forget to take a leisurely stroll around the grounds, as there may be hidden spots that offer unique perspectives of the castle.
+If you're interested in guided tours, inquire ahead of time, as they can enhance your understanding of the castle's history and features. Lastly, don't forget to take a leisurely stroll around the grounds, as there may be hidden spots that offer unique perspectives of the castle.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ Accessibility details are not specified. It is advisable to check the official w
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Specific amenities are not detailed. It’s best to check the official website for information regarding facilities.
+Specific amenities are not detailed. It's best to check the official website for information regarding facilities.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions, especially if you plan to explore the outdoors. Comfortable walking shoes are recommended.

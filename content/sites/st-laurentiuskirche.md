@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Laurentiuskirche, an elegant church building located in the town of Kosel, Germany, serves as a significant landmark in the region. This structure not only stands as a place of worship but also reflects the architectural and cultural history of the area. With its striking presence, St. Laurentiuskirche invites visitors to explore its serene atmosphere and rich heritage. As you approach the church, you’ll find yourself immersed in the local community, where the blend of spiritual significance and historical context provides a meaningful experience for all who visit.
+St. Laurentiuskirche, an elegant church building located in the town of Kosel, Germany, serves as a significant landmark in the region. This structure not only stands as a place of worship but also reflects the architectural and cultural history of the area. With its striking presence, St. Laurentiuskirche invites visitors to explore its serene atmosphere and rich heritage. As you approach the church, you'll find yourself immersed in the local community, where the blend of spiritual significance and historical context provides a meaningful experience for all who visit.
 
 Kosel is situated in the northern part of Germany, characterized by its picturesque landscapes and charming architecture. The church's strategic location makes it an ideal stop for travelers exploring the region, offering a glimpse into the local customs and traditions that have evolved over centuries. St. Laurentiuskirche not only caters to those seeking spiritual solace but also to history enthusiasts eager to learn more about the cultural narratives that have shaped this part of Germany.
 
@@ -84,7 +84,7 @@ To make the most of your visit to St. Laurentiuskirche, consider the following i
   
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays rather than weekends, as this may help you avoid larger crowds. If you wish to attend a service, arrive early to secure a good seat.
 
-- **Engage with Locals**: Don’t hesitate to strike up conversations with local residents, as they can offer insight into the church's significance and share personal stories related to St. Laurentiuskirche.
+- **Engage with Locals**: Don't hesitate to strike up conversations with local residents, as they can offer insight into the church's significance and share personal stories related to St. Laurentiuskirche.
 
 By following these tips, you can enhance your experience and gain a deeper appreciation for the significance of this church in the community of Kosel.
 
@@ -115,7 +115,7 @@ Information on guided tours may vary; check the official website to find out if 
 Weekdays are generally quieter, making them an ideal time for a peaceful visit. If you wish to participate in a service, plan to arrive early.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be readily available; it’s best to check the official website or contact local resources for detailed accessibility features.
+Accessibility information may not be readily available; it's best to check the official website or contact local resources for detailed accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, as availability may vary.

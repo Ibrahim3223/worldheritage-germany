@@ -76,9 +76,9 @@ If you are planning to engage with any community activities, check in advance to
 
 ## Practical Information
 
-When preparing for a visit to Seniorenstift St. Laurentius, it’s advisable to bring along any personal items that may enhance your time with your loved ones, such as books, games, or favorite snacks. Depending on the season, dress appropriately for the weather, especially if you plan to enjoy the outdoor spaces.
+When preparing for a visit to Seniorenstift St. Laurentius, it's advisable to bring along any personal items that may enhance your time with your loved ones, such as books, games, or favorite snacks. Depending on the season, dress appropriately for the weather, especially if you plan to enjoy the outdoor spaces.
 
-It’s also a good practice to check for any seasonal events or programs that may be taking place during your visit, as these can provide unique experiences tailored to residents and their families.
+It's also a good practice to check for any seasonal events or programs that may be taking place during your visit, as these can provide unique experiences tailored to residents and their families.
 
 ## Frequently Asked Questions
 

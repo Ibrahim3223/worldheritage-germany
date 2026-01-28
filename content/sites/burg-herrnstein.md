@@ -70,7 +70,7 @@ While visiting Burg Herrnstein, consider exploring nearby attractions that furth
    
 4. **Mühlenmuseum in Ruppichteroth**: This museum, dedicated to the history of milling, offers an engaging look into traditional practices and the importance of mills in the region.
    
-5. **Castle Homburg**: Located not far from Burg Herrnstein, this castle offers another opportunity to explore medieval architecture and history, enriching your understanding of the area’s heritage.
+5. **Castle Homburg**: Located not far from Burg Herrnstein, this castle offers another opportunity to explore medieval architecture and history, enriching your understanding of the area's heritage.
 
 ## Insider Tips
 

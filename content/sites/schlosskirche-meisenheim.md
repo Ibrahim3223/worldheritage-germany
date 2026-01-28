@@ -28,7 +28,7 @@ image_srcset:
 
 Schlosskirche Meisenheim stands as a remarkable example of ecclesiastical architecture in the town of Meisenheim, located in the picturesque region of Rhineland-Palatinate, Germany. This church building not only serves as a place of worship but also embodies the historical and cultural narratives of the area. Its strategic location in the charming village enhances its significance, drawing visitors interested in both religious heritage and architectural beauty. As a focal point within the community, Schlosskirche Meisenheim invites exploration of its rich past and the legacy it represents.
 
-The church's enduring presence has made it an important landmark for both locals and tourists. With its intriguing blend of history and architecture, Schlosskirche Meisenheim offers a unique opportunity to engage with the spiritual and cultural heritage of the region. Visitors can expect to immerse themselves in the tranquil atmosphere that this historic church provides, making it a worthwhile stop on any journey through Germany’s diverse landscape of heritage sites.
+The church's enduring presence has made it an important landmark for both locals and tourists. With its intriguing blend of history and architecture, Schlosskirche Meisenheim offers a unique opportunity to engage with the spiritual and cultural heritage of the region. Visitors can expect to immerse themselves in the tranquil atmosphere that this historic church provides, making it a worthwhile stop on any journey through Germany's diverse landscape of heritage sites.
 
 ## History and Significance
 

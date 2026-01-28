@@ -71,7 +71,7 @@ These attractions can enhance your visit, providing a broader understanding of t
 
 ## Insider Tips
 
-When visiting Ravensbrück Memorial, consider bringing a camera to capture the memorial's poignant features, but be mindful of the solemn nature of the site. While photography is generally permitted, it’s essential to respect the memory of the victims and the contemplative atmosphere.
+When visiting Ravensbrück Memorial, consider bringing a camera to capture the memorial's poignant features, but be mindful of the solemn nature of the site. While photography is generally permitted, it's essential to respect the memory of the victims and the contemplative atmosphere.
 
 To avoid crowds, consider visiting during the weekdays or early in the day. This will provide a more intimate experience, allowing for personal reflection and a deeper connection to the history of the site.
 

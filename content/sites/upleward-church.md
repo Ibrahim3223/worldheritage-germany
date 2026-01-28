@@ -52,7 +52,7 @@ When planning a visit to Upleward Church, it is essential to consider transporta
 
 Upon arrival, guests can expect a peaceful atmosphere, perfect for both reflection and exploration. The church typically welcomes visitors looking to learn about its history and significance, making it an ideal spot for those interested in heritage travel. To fully appreciate what Upleward Church has to offer, allocate sufficient time for your visit, allowing for moments of quiet contemplation as well as exploration of the building and its surroundings.
 
-The best times to visit Upleward Church are during the spring and summer months when the weather is generally pleasant, and the surrounding landscape is in full bloom. This not only enhances the overall experience but also provides an opportunity to witness the church’s role within the community during various seasonal activities.
+The best times to visit Upleward Church are during the spring and summer months when the weather is generally pleasant, and the surrounding landscape is in full bloom. This not only enhances the overall experience but also provides an opportunity to witness the church's role within the community during various seasonal activities.
 
 ## Nearby Attractions
 

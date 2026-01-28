@@ -92,7 +92,7 @@ When visiting Haus Hemer, there are a few practical considerations to keep in mi
 A visit to Haus Hemer typically takes a few hours, allowing time to explore the manor and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and architecture of the manor.

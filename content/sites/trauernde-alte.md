@@ -108,7 +108,7 @@ Early mornings and late afternoons are ideal for a quieter experience and better
 Check the official website for the most accurate information regarding accessibility options at the monument.
 
 ### Can I buy tickets online?
-Currently, there is no admission fee, but it’s advisable to check the official website for any updates regarding visitor access.
+Currently, there is no admission fee, but it's advisable to check the official website for any updates regarding visitor access.
 
 ### Are there restrooms and cafes?
 While specific facilities may not be detailed, nearby cafes and public restrooms can typically be found within a short walking distance.

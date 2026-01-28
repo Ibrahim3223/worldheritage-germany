@@ -95,7 +95,7 @@ Check the official website for details on trail accessibility, as some routes ma
 Check the official website for information regarding any potential fees or ticketing, as access may not require a ticket.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to prepare accordingly. Check the official website for the latest information on available amenities.
+Facilities may be limited, so it's best to prepare accordingly. Check the official website for the latest information on available amenities.
 
 ### What should I wear?
 Wear comfortable hiking shoes and dress in layers to accommodate changing weather conditions. 

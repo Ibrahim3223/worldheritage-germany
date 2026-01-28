@@ -28,7 +28,7 @@ image_srcset:
 
 Eisenach Central Station is more than just a transit hub; it is a significant landmark in the heart of Thuringia, Germany. Situated in the historic town of Eisenach, this railway station plays a vital role in connecting travelers with the region's rich cultural heritage and natural beauty. As a gateway to various destinations, Eisenach Central Station is strategically positioned to serve both local commuters and international visitors. Its location allows easy access to notable attractions, including the famous Wartburg Castle, making it an essential stop for anyone exploring the area.
 
-The station’s historical relevance and architectural features contribute to its charm. Eisenach, a town known for its profound connections to German history and culture, is home to this railway station that reflects the evolution of transportation in the region. As you arrive at Eisenach Central Station, you are not just entering a transport facility; you are stepping into a space that embodies the spirit of connectivity and cultural exchange that characterizes this part of Germany.
+The station's historical relevance and architectural features contribute to its charm. Eisenach, a town known for its profound connections to German history and culture, is home to this railway station that reflects the evolution of transportation in the region. As you arrive at Eisenach Central Station, you are not just entering a transport facility; you are stepping into a space that embodies the spirit of connectivity and cultural exchange that characterizes this part of Germany.
 
 Travelers can expect a blend of modern amenities and historical significance as they traverse through the station. With its bustling atmosphere and the vibrant life surrounding it, Eisenach Central Station serves as a lively introduction to the enchanting experiences that await in this remarkable region.
 
@@ -64,11 +64,11 @@ Eisenach Central Station serves as an excellent launching pad for several nearby
 
 1. **Wartburg Castle**: A UNESCO World Heritage Site, this iconic castle is a short distance from the station. It is renowned for its historical significance, including its association with Martin Luther. The castle offers guided tours and breathtaking views of the surrounding landscape.
 
-2. **Luther House**: Located in the town center, the Luther House is a museum dedicated to Martin Luther’s life and work. It provides insights into the Reformation and the impact of Luther's teachings.
+2. **Luther House**: Located in the town center, the Luther House is a museum dedicated to Martin Luther's life and work. It provides insights into the Reformation and the impact of Luther's teachings.
 
 3. **Bach House**: This museum celebrates the life and music of Johann Sebastian Bach, who was born in Eisenach. The museum features exhibitions on Bach's compositions and his influence on classical music.
 
-4. **Eisenach Old Town**: The picturesque streets of the Old Town invite exploration, with charming shops, historic buildings, and local eateries. It’s a great place to immerse yourself in the local culture.
+4. **Eisenach Old Town**: The picturesque streets of the Old Town invite exploration, with charming shops, historic buildings, and local eateries. It's a great place to immerse yourself in the local culture.
 
 5. **Thuringian Forest**: For nature enthusiasts, the nearby Thuringian Forest offers hiking trails and scenic views. It is an ideal spot for those wishing to enjoy the region's natural beauty.
 
@@ -84,7 +84,7 @@ To make the most of your experience at Eisenach Central Station, consider the fo
 
 ## Practical Information
 
-When visiting Eisenach Central Station, it’s advisable to bring a few essentials to ensure a comfortable experience:
+When visiting Eisenach Central Station, it's advisable to bring a few essentials to ensure a comfortable experience:
 
 - **Tickets**: Purchase your tickets in advance if possible, especially during peak travel seasons. This can save you time and reduce stress.
 

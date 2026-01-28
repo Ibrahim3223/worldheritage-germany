@@ -34,7 +34,7 @@ As you prepare to visit, allow Alter Friedhof to serve as a contemplative space,
 
 ## History and Significance
 
-The Alter Friedhof in Dirmstein holds a prominent place in the local history, being a repository of memories and cultural significance for the community. While specific founding dates may not be available, the cemetery's existence reflects the longstanding traditions of burial practices in the region. Over the years, it has served as the final resting place for numerous individuals, each contributing to the village’s narrative.
+The Alter Friedhof in Dirmstein holds a prominent place in the local history, being a repository of memories and cultural significance for the community. While specific founding dates may not be available, the cemetery's existence reflects the longstanding traditions of burial practices in the region. Over the years, it has served as the final resting place for numerous individuals, each contributing to the village's narrative.
 
 Cemeteries often function as important cultural landmarks, and Alter Friedhof is no exception. It not only commemorates the deceased but also serves as a reminder of the societal values, customs, and familial connections that have shaped Dirmstein over generations. The gravestones and memorials found within the cemetery often bear intricate carvings and inscriptions, providing insights into the lives and beliefs of those interred there. Such memorials often reflect the artistic styles of their respective eras, showcasing local craftsmanship and the importance of remembrance within the community.
 

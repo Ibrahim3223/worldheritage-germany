@@ -72,7 +72,7 @@ After enjoying a performance at Tigerpalast, consider exploring some of the near
 
 To enhance your visit to Tigerpalast, here are some insider tips:
 
-- **Photography Tips**: While enjoying the performances, it's best to be respectful of the artists and the audience. Photography may be restricted during shows, so check the theatre’s policies beforehand.
+- **Photography Tips**: While enjoying the performances, it's best to be respectful of the artists and the audience. Photography may be restricted during shows, so check the theatre's policies beforehand.
 
 - **Crowd Avoidance**: To enjoy a more intimate experience, consider attending shows on weekdays or during off-peak seasons. This can lead to a less crowded atmosphere and a more personal connection to the performance.
 

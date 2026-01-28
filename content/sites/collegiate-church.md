@@ -42,13 +42,13 @@ The Collegiate Church is characterized by its impressive architectural style, wh
 
 Inside, the church offers a serene atmosphere, with well-preserved elements that speak to its long-standing heritage. The interior features beautiful stained glass windows, which allow natural light to filter through, creating a warm and inviting environment. The altar and other decorative elements are crafted with care, showcasing the skill of artisans from the time of its construction.
 
-One of the notable features of the Collegiate Church is its acoustics, making it an ideal venue for musical performances and religious ceremonies. The church’s design not only serves a functional purpose but also enhances the spiritual experience of its visitors.
+One of the notable features of the Collegiate Church is its acoustics, making it an ideal venue for musical performances and religious ceremonies. The church's design not only serves a functional purpose but also enhances the spiritual experience of its visitors.
 
 ## Visiting Information
 
 Visiting the Collegiate Church is straightforward, with various transport options available for travelers. Those arriving by car can take advantage of nearby parking facilities, while public transport options, including buses and trains, make it accessible for those relying on public transit. 
 
-Check the official website for current information regarding opening hours and admission prices. The church invites visitors throughout the year, offering a peaceful atmosphere for contemplation and exploration. It is recommended to allocate at least an hour to fully appreciate the church’s architecture and its surrounding environment. 
+Check the official website for current information regarding opening hours and admission prices. The church invites visitors throughout the year, offering a peaceful atmosphere for contemplation and exploration. It is recommended to allocate at least an hour to fully appreciate the church's architecture and its surrounding environment. 
 
 The best times to visit are typically during weekdays when the crowds are thinner, allowing for a more intimate experience. Seasonal events and services may also provide unique opportunities to engage with the church's community.
 
@@ -67,7 +67,7 @@ For photography enthusiasts, the best time to capture the beauty of the Collegia
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring along a light jacket, as the interior of the church can be cooler than expected, particularly during certain seasons. Comfortable footwear is recommended, especially if you plan to explore the surrounding area. Be mindful of local customs and dress modestly when visiting religious sites. 
+When planning your visit, it's advisable to bring along a light jacket, as the interior of the church can be cooler than expected, particularly during certain seasons. Comfortable footwear is recommended, especially if you plan to explore the surrounding area. Be mindful of local customs and dress modestly when visiting religious sites. 
 
 Additionally, seasonal considerations such as local festivals or wine events may affect your visit, so checking the calendar for events can enhance your experience.
 
@@ -86,7 +86,7 @@ Check the official website for information regarding guided tours and any schedu
 Weekdays tend to be quieter, making them ideal for a more peaceful visit. Seasonal events may also offer unique experiences.
 
 ### Is it wheelchair accessible?
-Accessibility information is available on the official website. It’s advisable to check ahead for specific accommodations.
+Accessibility information is available on the official website. It's advisable to check ahead for specific accommodations.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.
@@ -95,6 +95,6 @@ Check the official website for details on ticket purchasing options.
 Facilities may be available nearby; however, it is wise to check the official site for current information.
 
 ### What should I wear?
-Modest attire is recommended, keeping in mind the church’s religious significance. Comfortable shoes are also advisable for exploring the area. 
+Modest attire is recommended, keeping in mind the church's religious significance. Comfortable shoes are also advisable for exploring the area. 
 
 The Collegiate Church in Neustadt an der Weinstraße offers a unique glimpse into the cultural and historical fabric of the region. Its architectural grandeur, combined with its communal role, makes it a compelling destination for both spiritual reflection and cultural exploration.

@@ -56,7 +56,7 @@ Check the official website for current information regarding hours and admission
 
 To fully appreciate the Altstadt, it is recommended to allocate at least a few hours for your visit. This timeframe allows you to wander leisurely, absorb the local culture, and enjoy a meal or drink at one of the charming cafes scattered throughout the area.
 
-The best times to visit the Altstadt are during the spring and fall months when the weather is typically mild, and the tourist crowds are smaller. This period creates a pleasant atmosphere for exploration and allows for more intimate encounters with the town’s historic charm.
+The best times to visit the Altstadt are during the spring and fall months when the weather is typically mild, and the tourist crowds are smaller. This period creates a pleasant atmosphere for exploration and allows for more intimate encounters with the town's historic charm.
 
 ## Nearby Attractions
 

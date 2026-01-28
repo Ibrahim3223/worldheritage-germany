@@ -76,7 +76,7 @@ Augsburg is home to several notable attractions that complement a visit to the I
 
 To enhance your visit to the Augsburg Ice Hockey Museum, consider the following tips:
 
-- **Photography**: Many museums have restrictions on photography, so it’s wise to check in advance if you wish to capture your experience. 
+- **Photography**: Many museums have restrictions on photography, so it's wise to check in advance if you wish to capture your experience. 
 
 - **Crowd Avoidance**: If you prefer a quieter visit, aim for weekday mornings. This is typically when the museum sees fewer visitors, allowing for a more intimate experience.
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Augsburg Ice Hockey Museum, keep the follow
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you will likely spend time exploring various exhibits. A camera may also be useful, subject to museum policies.
 
-- **Seasonal Considerations**: Weather can vary, so check the forecast before your visit. It’s advisable to dress appropriately for outdoor travel if you plan to explore nearby attractions.
+- **Seasonal Considerations**: Weather can vary, so check the forecast before your visit. It's advisable to dress appropriately for outdoor travel if you plan to explore nearby attractions.
 
 - **Accessibility**: Ensure you check for any accessibility features if you or someone in your party has specific needs.
 

@@ -34,7 +34,7 @@ While specific historical milestones may not be documented in this guide, the si
 
 ## Architecture and Features
 
-The architectural design of Integrierte Gesamtschule Bonn-Beuel mirrors its educational philosophy. While specific details about the building’s dimensions and styles are not provided, it is evident that the structure is designed to facilitate a dynamic learning environment. The layout of the school likely emphasizes open spaces, fostering interaction and collaboration among students and educators.
+The architectural design of Integrierte Gesamtschule Bonn-Beuel mirrors its educational philosophy. While specific details about the building's dimensions and styles are not provided, it is evident that the structure is designed to facilitate a dynamic learning environment. The layout of the school likely emphasizes open spaces, fostering interaction and collaboration among students and educators.
 
 Notable features may include classrooms that are adaptable to various teaching methods, communal areas that encourage socialization, and facilities that support diverse educational activities. Such design elements are essential in creating an atmosphere that is conducive to both learning and personal development.
 

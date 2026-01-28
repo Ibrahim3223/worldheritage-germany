@@ -88,7 +88,7 @@ When preparing for your visit to Alte Burg Lispenhausen, keep these practical co
 A visit typically requires a few hours to fully appreciate the castle and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any posted guidelines.
+Photography is generally permitted, but it's advisable to respect any posted guidelines.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, if available.

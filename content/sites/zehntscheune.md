@@ -36,7 +36,7 @@ The Zehntscheune serves as an important cultural landmark in Detmold, representi
 
 As a museum, the Zehntscheune plays a crucial role in preserving the agricultural history of Detmold. It serves as an educational resource, offering insights into traditional farming techniques, local crops, and the evolution of agricultural practices. The museum stands out as a venue for community engagement, where workshops and events may take place, fostering a deeper understanding of the region's history. 
 
-Moreover, the Zehntscheune is not just an isolated institution; it is part of a larger narrative that includes the historical development of Detmold itself. The city has been a center of trade and governance, and the Zehntscheune's role as a grain store speaks to the interconnectedness of economic activities in the region. Visitors to the museum will find that it encapsulates the essence of Detmold’s agricultural past while providing a platform for discussions about sustainability and modern agricultural challenges.
+Moreover, the Zehntscheune is not just an isolated institution; it is part of a larger narrative that includes the historical development of Detmold itself. The city has been a center of trade and governance, and the Zehntscheune's role as a grain store speaks to the interconnectedness of economic activities in the region. Visitors to the museum will find that it encapsulates the essence of Detmold's agricultural past while providing a platform for discussions about sustainability and modern agricultural challenges.
 
 ## Architecture and Features
 
@@ -44,13 +44,13 @@ The architectural design of the Zehntscheune reflects traditional German buildin
 
 Inside the museum, the layout is optimized for displaying historical artifacts and educational exhibits. Visitors can expect to find various sections dedicated to different aspects of agriculture, including tools, machinery, and farming methods. The design encourages an interactive experience, allowing guests to engage with exhibits that depict the evolution of agricultural practices in the region. 
 
-One notable feature of the Zehntscheune is its ability to host temporary exhibitions, which provide fresh perspectives on agricultural themes and practices. This adaptability not only highlights the museum's commitment to education but also ensures that visitors have a unique experience with each visit. The building’s historical significance, combined with its carefully curated exhibits, makes the Zehntscheune a noteworthy example of how architecture can serve both functionality and cultural preservation.
+One notable feature of the Zehntscheune is its ability to host temporary exhibitions, which provide fresh perspectives on agricultural themes and practices. This adaptability not only highlights the museum's commitment to education but also ensures that visitors have a unique experience with each visit. The building's historical significance, combined with its carefully curated exhibits, makes the Zehntscheune a noteworthy example of how architecture can serve both functionality and cultural preservation.
 
 ## Visiting Information
 
 Getting to the Zehntscheune is straightforward, with various transport options available for visitors. The museum is located in Detmold, which is well-connected by public transport. Whether you arrive by train or bus, the journey to this cultural landmark is accessible. For those driving, parking options may be available nearby, although checking the official website for the latest information on transport and parking is advisable.
 
-Before planning your visit, it’s essential to check the official website for current hours and ticket prices, as these can vary seasonally. Typically, visitors can expect to spend a couple of hours exploring the museum, allowing ample time to engage with the exhibits and participate in any available activities. 
+Before planning your visit, it's essential to check the official website for current hours and ticket prices, as these can vary seasonally. Typically, visitors can expect to spend a couple of hours exploring the museum, allowing ample time to engage with the exhibits and participate in any available activities. 
 
 The best times to visit are during weekdays or early in the morning to avoid larger crowds, especially during peak tourist seasons. The experience can be enhanced by participating in any special events or workshops that may be offered, which can provide deeper insights into the exhibits and local history.
 
@@ -86,7 +86,7 @@ For those who enjoy learning, bringing a notebook can enhance your experience, a
 Visitors typically spend around two hours exploring the museum, although this can vary based on personal interests and engagement with exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival regarding any restrictions on photography.
+Photography policies may vary, so it's best to check with museum staff upon arrival regarding any restrictions on photography.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may offer deeper insights into the exhibits and the museum's history.

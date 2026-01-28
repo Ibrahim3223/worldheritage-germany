@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Garten Prinzregentenplatz 12 in München, a cultural heritage monument, offers a serene escape amidst the vibrant city life of Munich, Bavaria. Characterized as a garden, it serves as a tranquil space where the beauty of nature harmonizes with cultural significance. Located at the coordinates 48.138894511, 11.606203811, this garden is more than just a patch of greenery; it represents a piece of Munich’s rich cultural fabric.
+Garten Prinzregentenplatz 12 in München, a cultural heritage monument, offers a serene escape amidst the vibrant city life of Munich, Bavaria. Characterized as a garden, it serves as a tranquil space where the beauty of nature harmonizes with cultural significance. Located at the coordinates 48.138894511, 11.606203811, this garden is more than just a patch of greenery; it represents a piece of Munich's rich cultural fabric.
 
 As you step into this garden, you are enveloped by a sense of calm and an appreciation for the meticulous care that has gone into its design and maintenance. It offers not only a place for leisure and respite but also an insight into the horticultural traditions that have been cherished over time. Whether you are a local resident enjoying a quiet walk or a visitor seeking to connect with Munich's cultural heritage, Garten Prinzregentenplatz 12 provides a unique experience that reflects the city's dedication to preserving its historical landscapes.
 
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends when local r
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring along some essentials such as water, comfortable walking shoes, and possibly a light snack. Seasonal considerations may also affect your experience; for instance, spring and summer offer vibrant blooms, while autumn brings a palette of warm colors.
+When planning your visit, it's advisable to bring along some essentials such as water, comfortable walking shoes, and possibly a light snack. Seasonal considerations may also affect your experience; for instance, spring and summer offer vibrant blooms, while autumn brings a palette of warm colors.
 
 If you plan to visit during the colder months, dress accordingly to ensure a comfortable experience, as gardens can feel quite different in winter. 
 
@@ -97,7 +97,7 @@ Check the official website for accessibility information, as many gardens strive
 Check the official website for current information regarding any admission fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-While specific details may vary, it’s advisable to check nearby amenities, as larger gardens may have restrooms, but cafes may be limited.
+While specific details may vary, it's advisable to check nearby amenities, as larger gardens may have restrooms, but cafes may be limited.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended for walking and enjoying your time in the garden, especially if you plan to explore surrounding areas as well.

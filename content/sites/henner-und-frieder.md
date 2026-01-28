@@ -70,7 +70,7 @@ If you're interested in the local culture, consider taking the time to engage wi
 
 ## Practical Information
 
-When planning your visit to Henner und Frieder, it’s advisable to wear comfortable clothing and shoes, as exploring the area may involve some walking. Depending on the season, consider bringing an umbrella or sunscreen, as weather conditions in Germany can vary.
+When planning your visit to Henner und Frieder, it's advisable to wear comfortable clothing and shoes, as exploring the area may involve some walking. Depending on the season, consider bringing an umbrella or sunscreen, as weather conditions in Germany can vary.
 
 During the winter months, the area may experience colder temperatures, so dressing in layers is recommended. Regardless of the time of year, staying hydrated and carrying a water bottle can enhance your visit, allowing for a more enjoyable exploration of Siegen and its attractions.
 

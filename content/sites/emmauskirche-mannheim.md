@@ -88,7 +88,7 @@ It may be beneficial to check the official website for any specific events or se
 A visit to Emmauskirche typically lasts about 30 minutes to an hour, depending on your interest in architecture and history.
 
 ### Is photography allowed?
-Photography is generally allowed inside and outside the church, but it’s advisable to be respectful of worshippers and services.
+Photography is generally allowed inside and outside the church, but it's advisable to be respectful of worshippers and services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.

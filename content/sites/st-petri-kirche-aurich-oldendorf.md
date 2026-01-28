@@ -82,7 +82,7 @@ To make the most of your visit to St.-Petri-Kirche, consider the following tips:
 
 ## Practical Information
 
-When preparing for your visit to St.-Petri-Kirche, it’s useful to consider the following practical aspects:
+When preparing for your visit to St.-Petri-Kirche, it's useful to consider the following practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you may wish to explore the surroundings. A camera can also be beneficial for capturing the church and its context.
 
@@ -96,7 +96,7 @@ When preparing for your visit to St.-Petri-Kirche, it’s useful to consider the
 A typical visit to St.-Petri-Kirche may take about one to two hours, depending on your interest in exploring the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific guidelines, particularly during services.
+Photography policies may vary, so it's best to check for any specific guidelines, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or local guides who may offer insights into the church's history and significance.

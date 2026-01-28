@@ -76,7 +76,7 @@ When exploring the surrounding area, be sure to keep your camera handy to captur
 
 ## Practical Information
 
-When visiting Elsterwerda railway station, it’s advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the station and nearby attractions on foot. Additionally, carrying a water bottle and snacks can enhance your visit, especially if you plan to spend time exploring the area.
+When visiting Elsterwerda railway station, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the station and nearby attractions on foot. Additionally, carrying a water bottle and snacks can enhance your visit, especially if you plan to spend time exploring the area.
 
 Seasonal considerations may also play a role in your visit. Germany experiences varying weather conditions throughout the year, so it's wise to check the forecast before your trip. Dress in layers during cooler months and keep an umbrella handy during the rainy season.
 

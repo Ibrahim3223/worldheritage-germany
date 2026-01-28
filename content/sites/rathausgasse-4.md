@@ -84,7 +84,7 @@ Seasonal considerations are important when planning your visit. Spring and early
 A visit of about one hour is recommended to appreciate the courthouse's architecture and historical significance.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas; however, it’s best to inquire about specific rules upon arrival.
+Photography may be permitted in certain areas; however, it's best to inquire about specific rules upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as availability may vary.

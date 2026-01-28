@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Würzburg Residence, a UNESCO World Heritage Site, is one of the most magnificent palaces in Germany, exemplifying the grandeur of Baroque architecture. Located in the heart of Würzburg, Bavaria, this cultural heritage monument serves as a striking reminder of the city’s rich history and its significance as a center of power and culture. With its stunning facades and opulent interiors, the Residence attracts visitors from all over the world, eager to explore its artistic treasures and historical significance.
+The Würzburg Residence, a UNESCO World Heritage Site, is one of the most magnificent palaces in Germany, exemplifying the grandeur of Baroque architecture. Located in the heart of Würzburg, Bavaria, this cultural heritage monument serves as a striking reminder of the city's rich history and its significance as a center of power and culture. With its stunning facades and opulent interiors, the Residence attracts visitors from all over the world, eager to explore its artistic treasures and historical significance.
 
 This remarkable palace is not just an architectural marvel; it also reflects the artistic and cultural achievements of its time. The Residence stands as a symbol of the prince-bishops of Würzburg, who played a pivotal role in shaping the region. As you approach the grand entrance, you are greeted by a sense of awe, making it clear that the Würzburg Residence is a must-see for anyone interested in history, art, and architecture.
 
@@ -38,7 +38,7 @@ The Würzburg Residence has a storied past, rooted in the power dynamics of the 
 
 The palace served as the primary residence for the prince-bishops of Würzburg, who were influential figures in both religious and political realms. Their leadership contributed to the cultural and economic growth of the region, making the Residence not only a home but also a seat of power. The building reflects the ambitions of these rulers, showcasing their wealth and status through elaborate designs and artistic endeavors.
 
-Throughout its history, the Würzburg Residence has witnessed various events that shaped the region. It has survived wars, reconstructions, and changes in governance, making it an enduring symbol of Würzburg’s resilience. The palace’s designation as a UNESCO World Heritage Site underscores its significance as a cultural monument, highlighting its architectural and artistic importance on a global scale.
+Throughout its history, the Würzburg Residence has witnessed various events that shaped the region. It has survived wars, reconstructions, and changes in governance, making it an enduring symbol of Würzburg's resilience. The palace's designation as a UNESCO World Heritage Site underscores its significance as a cultural monument, highlighting its architectural and artistic importance on a global scale.
 
 Visitors to the Residence can appreciate the palace not just as a structure but as a narrative of the sociopolitical changes in Bavaria. The careful preservation of its interiors and exteriors allows one to connect with the past and understand the lifestyle of the elite during its heyday.
 
@@ -68,7 +68,7 @@ While the Würzburg Residence is a highlight of the city, there are several othe
 
 1. **Würzburg Cathedral**: Located just a short walk from the Residence, this Romanesque cathedral is known for its stunning architecture and historical significance.
 
-2. **Marienberg Fortress**: Perched on a hill overlooking the city, this fortress offers panoramic views and a glimpse into Würzburg’s military history.
+2. **Marienberg Fortress**: Perched on a hill overlooking the city, this fortress offers panoramic views and a glimpse into Würzburg's military history.
 
 3. **Old Main Bridge**: A picturesque bridge adorned with statues, it provides a lovely spot for photos and connects visitors to the scenic riverbank.
 
@@ -84,9 +84,9 @@ To make the most of your visit to the Würzburg Residence, consider the followin
   
 - **Crowd Avoidance**: Aim to visit during weekdays or in the early morning hours. This strategy can help you experience the palace with fewer visitors, allowing for a more intimate exploration.
 
-- **Guided Tours**: If available, consider joining a guided tour for a richer understanding of the palace’s history and architecture. 
+- **Guided Tours**: If available, consider joining a guided tour for a richer understanding of the palace's history and architecture. 
 
-- **Plan for the Gardens**: Don’t forget to spend time in the gardens. They provide a beautiful setting for relaxation and offer a different perspective of the palace.
+- **Plan for the Gardens**: Don't forget to spend time in the gardens. They provide a beautiful setting for relaxation and offer a different perspective of the palace.
 
 ## Practical Information
 
@@ -115,7 +115,7 @@ Yes, guided tours may be available, providing in-depth information about the pal
 The best times to visit are usually during weekdays or in the shoulder seasons of spring and autumn when the weather is pleasant and crowds are smaller.
 
 ### Is it wheelchair accessible?
-The Würzburg Residence is designed to accommodate visitors with mobility challenges; however, it’s recommended to check in advance for specific accessibility options.
+The Würzburg Residence is designed to accommodate visitors with mobility challenges; however, it's recommended to check in advance for specific accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options, including online availability.
@@ -126,4 +126,4 @@ While there are restrooms available, the Residence does not have on-site cafes. 
 ### What should I wear?
 Comfortable attire and shoes are recommended, as you will be walking and exploring both the palace and its gardens.
 
-The Würzburg Residence is not just a palace; it’s a journey into the artistry and culture of a bygone era. As you explore its halls and gardens, you will gain a deeper appreciation for the historical narratives that shaped this remarkable site.
+The Würzburg Residence is not just a palace; it's a journey into the artistry and culture of a bygone era. As you explore its halls and gardens, you will gain a deeper appreciation for the historical narratives that shaped this remarkable site.

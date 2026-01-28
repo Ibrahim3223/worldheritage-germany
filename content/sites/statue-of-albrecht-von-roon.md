@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Statue of Albrecht von Roon, located in the heart of Berlin, serves as a striking tribute to one of the Prussian military leaders who played a pivotal role in shaping modern Germany. Albrecht von Roon, a prominent figure in the 19th century, is celebrated for his contributions to military reform and national unification. This statue offers not only a glimpse into Germany's storied past but also a striking visual element that enhances the urban landscape. Visitors to this statue can appreciate its artistic merit and the historical context it represents, making it a worthwhile addition to any exploration of Berlin’s rich heritage. 
+The Statue of Albrecht von Roon, located in the heart of Berlin, serves as a striking tribute to one of the Prussian military leaders who played a pivotal role in shaping modern Germany. Albrecht von Roon, a prominent figure in the 19th century, is celebrated for his contributions to military reform and national unification. This statue offers not only a glimpse into Germany's storied past but also a striking visual element that enhances the urban landscape. Visitors to this statue can appreciate its artistic merit and the historical context it represents, making it a worthwhile addition to any exploration of Berlin's rich heritage. 
 
 ## History and Significance
 
 Albrecht von Roon was a key figure during a transformative period in German history. He served as the Prussian Minister of War and was instrumental in modernizing the Prussian army, which ultimately played a significant role in the unification of Germany under Prussian leadership. His reforms included the establishment of a more efficient conscription system and improvements in military training and organization, which were crucial during the wars of German unification in the 1860s.
 
-The statue commemorates not only von Roon’s military achievements but also his broader influence on the political landscape of his time. By embodying the spirit of a nation transitioning into a modern state, the statue represents a pivotal moment in European history. The site itself becomes a focal point for those interested in understanding the intricacies of military leadership and statecraft during a period of significant change.
+The statue commemorates not only von Roon's military achievements but also his broader influence on the political landscape of his time. By embodying the spirit of a nation transitioning into a modern state, the statue represents a pivotal moment in European history. The site itself becomes a focal point for those interested in understanding the intricacies of military leadership and statecraft during a period of significant change.
 
 The statue's placement within Berlin, a city that has seen immense historical change, adds another layer of significance. Berlin has been the epicenter of various historical events, and the inclusion of figures like von Roon in public spaces reflects the ongoing dialogue about legacy and remembrance in public life. As visitors reflect on von Roon's contributions, they also engage with the complexities of Germany's national identity.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Statue of Albrecht von Roon, consider thes
 
 - **Photography**: The statue is an excellent subject for photography, particularly in the early morning or late afternoon when the light is softer. Be mindful of the angles to capture both the statue and its urban backdrop effectively.
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays rather than weekends. Early mornings tend to be less crowded, allowing for a more peaceful atmosphere.
-- **Engage with Locals**: If possible, strike up a conversation with locals or fellow visitors. Their insights can enhance your understanding of the statue's significance and its place in Berlin’s history.
+- **Engage with Locals**: If possible, strike up a conversation with locals or fellow visitors. Their insights can enhance your understanding of the statue's significance and its place in Berlin's history.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ A visit to the Statue of Albrecht von Roon can typically be completed in about 3
 Yes, photography is allowed, and the statue provides a great opportunity for capturing memorable images.
 
 ### Are there guided tours?
-While specific guided tours may not be available solely for the statue, many city tours include this site as part of a broader exploration of Berlin’s historical landmarks.
+While specific guided tours may not be available solely for the statue, many city tours include this site as part of a broader exploration of Berlin's historical landmarks.
 
 ### What's the best time to visit?
 Early mornings or late afternoons during weekdays are ideal for a quieter experience.

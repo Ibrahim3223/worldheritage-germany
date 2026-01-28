@@ -38,7 +38,7 @@ Founded as the first museum of its kind in the world, the Centre for Internation
 
 Light art is often characterized by its ability to transform environments and challenge perceptions. The Centre's mission goes beyond mere exhibition; it aims to provoke thought and inspire creativity through the use of light. By providing a platform for artists to experiment with this medium, the Centre fosters a deeper understanding of how light can influence emotions and experiences.
 
-The museum also hosts a range of events, workshops, and educational programs that engage the public and nurture a new generation of artists. This commitment to community engagement underscores the Centre’s role not just as a gallery, but as a cultural hub where art and society intersect.
+The museum also hosts a range of events, workshops, and educational programs that engage the public and nurture a new generation of artists. This commitment to community engagement underscores the Centre's role not just as a gallery, but as a cultural hub where art and society intersect.
 
 In addition to its exhibitions, the Centre collaborates with artists and institutions worldwide, promoting international dialogue and exchange. This global perspective enriches the museum's programming and enhances its standing in the international art community.
 

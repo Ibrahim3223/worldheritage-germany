@@ -64,7 +64,7 @@ Wetzlar is home to several attractions that complement a visit to the Phantastis
    
 3. **Lahn River Promenade**: Offering picturesque views and opportunities for walking or cycling, the promenade provides a peaceful retreat along the riverbank.
 
-4. **Lotte’s House**: A historical site linked to the writer Johann Wolfgang von Goethe, this house celebrates the literary heritage of the region.
+4. **Lotte's House**: A historical site linked to the writer Johann Wolfgang von Goethe, this house celebrates the literary heritage of the region.
 
 5. **Wetzlar Museum**: A local museum that showcases the history and culture of the area, providing deeper insights into Wetzlar's significance.
 
@@ -72,7 +72,7 @@ Wetzlar is home to several attractions that complement a visit to the Phantastis
 
 To make the most of your visit to the Phantastische Bibliothek Wetzlar, consider the following tips:
 
-- **Photography**: If you’re keen on capturing the library's interior, it’s best to inquire about photography policies upon arrival, as some areas may have restrictions.
+- **Photography**: If you're keen on capturing the library's interior, it's best to inquire about photography policies upon arrival, as some areas may have restrictions.
   
 - **Crowd Avoidance**: For a more peaceful experience, try to visit during the weekdays or early in the day when foot traffic is typically lower.
 
@@ -80,13 +80,13 @@ To make the most of your visit to the Phantastische Bibliothek Wetzlar, consider
 
 ## Practical Information
 
-When planning your visit to the Phantastische Bibliothek Wetzlar, it’s helpful to consider the following practicalities:
+When planning your visit to the Phantastische Bibliothek Wetzlar, it's helpful to consider the following practicalities:
 
 - **What to Bring**: A notebook or digital device can be useful for taking notes during your visit. If you plan to read or study, bringing your favorite writing materials is advisable.
 
-- **Seasonal Considerations**: Depending on the time of year, weather conditions may vary. It’s wise to dress in layers, especially if you plan to explore the surrounding areas before or after your library visit.
+- **Seasonal Considerations**: Depending on the time of year, weather conditions may vary. It's wise to dress in layers, especially if you plan to explore the surrounding areas before or after your library visit.
 
-- **Amenities**: Familiarize yourself with the library’s facilities, including restrooms and potential cafes, to enhance your comfort during your stay.
+- **Amenities**: Familiarize yourself with the library's facilities, including restrooms and potential cafes, to enhance your comfort during your stay.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ When planning your visit to the Phantastische Bibliothek Wetzlar, it’s helpful
 A visit to the Phantastische Bibliothek can vary based on your interests, but allocating two to three hours is a good estimate for exploring the collection and participating in activities.
 
 ### Is photography allowed?
-Photography policies may vary within the library. It’s best to check with staff upon arrival to understand any restrictions.
+Photography policies may vary within the library. It's best to check with staff upon arrival to understand any restrictions.
 
 ### Are there guided tours?
 While specific information about guided tours may not be available, inquire at the library for any scheduled tours or informational sessions.

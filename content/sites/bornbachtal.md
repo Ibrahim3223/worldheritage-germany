@@ -99,7 +99,7 @@ Information on guided tours may vary; check the official website for updates or 
 Early morning or late afternoon are ideal for wildlife observation and photography, while spring and autumn offer colorful landscapes.
 
 ### Is it wheelchair accessible?  
-Accessibility information can vary; it’s best to consult the official website for specific details.
+Accessibility information can vary; it's best to consult the official website for specific details.
 
 ### Can I buy tickets online?  
 Check the official website for information about ticket purchasing and fees, if applicable.

@@ -92,7 +92,7 @@ When planning your visit to the Baudenkmalensemble Alte Heinrichstadt, keep the 
 A visit to the Baudenkmalensemble Alte Heinrichstadt typically takes about one to two hours, depending on your level of interest in history and architecture.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s always best to check for any specific restrictions upon arrival.
+Yes, photography is generally permitted, but it's always best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they can provide valuable insights into the history and architecture of the ensemble.

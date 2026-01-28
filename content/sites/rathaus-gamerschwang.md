@@ -42,7 +42,7 @@ Moreover, the architecture and design of Rathaus Gamerschwang are indicative of 
 
 ## Architecture and Features
 
-Rathaus Gamerschwang is an exemplar of city hall architecture, typifying the civic pride of the region. While detailed architectural specifics are not provided, the building’s design likely incorporates elements that resonate with traditional German city halls, characterized by a functional yet aesthetically pleasing façade.
+Rathaus Gamerschwang is an exemplar of city hall architecture, typifying the civic pride of the region. While detailed architectural specifics are not provided, the building's design likely incorporates elements that resonate with traditional German city halls, characterized by a functional yet aesthetically pleasing façade.
 
 Typically, such structures feature a blend of practicality and elegance, often incorporating local materials and design motifs that reflect the cultural heritage of the area. The city hall may include aspects such as decorative stonework, large windows allowing natural light to flood the interior, and possibly a clock tower or bell, common features in many German civic buildings.
 

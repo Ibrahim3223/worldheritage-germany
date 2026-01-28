@@ -66,7 +66,7 @@ While Burg Kranzberg is a destination in its own right, the surrounding area is 
 
 2. **Local Nature Trails**: The region surrounding Burg Kranzberg offers various walking and hiking trails that showcase the natural beauty of the landscape.
 
-3. **Other Historical Sites**: Explore nearby castles or ruins that further illustrate the medieval history of the area, enriching your understanding of the region’s heritage.
+3. **Other Historical Sites**: Explore nearby castles or ruins that further illustrate the medieval history of the area, enriching your understanding of the region's heritage.
 
 4. **Cultural Events**: Keep an eye out for local festivals or events that may be taking place during your visit, as they often provide insights into the local culture and traditions.
 
@@ -111,7 +111,7 @@ For specific information on accessibility, check the official website prior to y
 Ticket purchasing options may vary, so it is best to consult the official website for current information on ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available nearby. It’s advisable to check the official website for details.
+Facilities such as restrooms and cafes may be available nearby. It's advisable to check the official website for details.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended, especially if you plan to explore the castle grounds.

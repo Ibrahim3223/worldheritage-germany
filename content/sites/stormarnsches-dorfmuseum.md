@@ -66,13 +66,13 @@ While visiting the Stormarnsches Dorfmuseum, there are several nearby attraction
 
 For those planning to visit the Stormarnsches Dorfmuseum, consider the following tips to enhance your experience:
 
-- **Photography:** Be mindful of any restrictions on photography within the museum. It’s always best to ask staff if you’re unsure.
+- **Photography:** Be mindful of any restrictions on photography within the museum. It's always best to ask staff if you're unsure.
   
 - **Crowd Avoidance:** To avoid large crowds, consider visiting during weekdays or outside of peak tourist seasons. Early morning visits may also provide a quieter experience.
 
 ## Practical Information
 
-When preparing for your visit to the Stormarnsches Dorfmuseum, it’s wise to consider a few practical aspects:
+When preparing for your visit to the Stormarnsches Dorfmuseum, it's wise to consider a few practical aspects:
 
 - **What to Bring:** Comfortable walking shoes are recommended, as exploring the museum may involve a fair amount of walking. A notebook or mobile device for taking notes could enhance your learning experience.
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Stormarnsches Dorfmuseum, it’s wise to co
 A visit typically lasts about 1.5 to 2 hours, allowing ample time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Photography policies may vary; it’s advisable to check with museum staff for any restrictions before taking photos.
+Photography policies may vary; it's advisable to check with museum staff for any restrictions before taking photos.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary depending on the season and special events.
@@ -93,7 +93,7 @@ Check the official website for information on guided tours, as availability may 
 The best time to visit can depend on the museum's schedule of events; consider checking the official website for any special exhibitions or activities.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available, but it’s best to check with the museum directly for specific accommodations.
+Accessibility options may be available, but it's best to check with the museum directly for specific accommodations.
 
 ### Can I buy tickets online?
 For the most current information about ticket purchases, including online options, check the official website.

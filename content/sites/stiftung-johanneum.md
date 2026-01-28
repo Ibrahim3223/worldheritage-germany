@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Stiftung Johanneum is a noteworthy institution located in the vibrant heart of Berlin, Germany. This foundation serves as a student residence, providing accommodation and support for young scholars and fostering a sense of community among its residents. Situated within a city renowned for its rich cultural landscape and historical significance, Stiftung Johanneum plays a vital role in nurturing the next generation of leaders and thinkers. The foundation's commitment to education and support for students contributes to Berlin’s reputation as a hub of learning and innovation, making it a significant landmark within the broader academic ecosystem of the city.
+Stiftung Johanneum is a noteworthy institution located in the vibrant heart of Berlin, Germany. This foundation serves as a student residence, providing accommodation and support for young scholars and fostering a sense of community among its residents. Situated within a city renowned for its rich cultural landscape and historical significance, Stiftung Johanneum plays a vital role in nurturing the next generation of leaders and thinkers. The foundation's commitment to education and support for students contributes to Berlin's reputation as a hub of learning and innovation, making it a significant landmark within the broader academic ecosystem of the city.
 
-As visitors explore Berlin, they will find that Stiftung Johanneum is not just a place for students but also a reflection of the city’s dedication to education and community. Its location in a bustling urban environment offers a unique opportunity to experience the blend of modernity and history that characterizes Berlin. The foundation stands as a testament to the importance of providing a supportive environment for students, which is essential in a city that attracts individuals from various backgrounds and disciplines. 
+As visitors explore Berlin, they will find that Stiftung Johanneum is not just a place for students but also a reflection of the city's dedication to education and community. Its location in a bustling urban environment offers a unique opportunity to experience the blend of modernity and history that characterizes Berlin. The foundation stands as a testament to the importance of providing a supportive environment for students, which is essential in a city that attracts individuals from various backgrounds and disciplines. 
 
 ## History and Significance
 
-The history of Stiftung Johanneum is intertwined with the broader narrative of Berlin’s evolution as an academic and cultural center. While specific dates and events are not detailed, the foundation's establishment highlights the growing need for student accommodation in a city that is home to numerous universities and educational institutions. The foundation was conceived as a response to this need, aiming to provide not only housing but also a supportive community where students can thrive academically and socially.
+The history of Stiftung Johanneum is intertwined with the broader narrative of Berlin's evolution as an academic and cultural center. While specific dates and events are not detailed, the foundation's establishment highlights the growing need for student accommodation in a city that is home to numerous universities and educational institutions. The foundation was conceived as a response to this need, aiming to provide not only housing but also a supportive community where students can thrive academically and socially.
 
-The significance of Stiftung Johanneum extends beyond its role as a residence; it symbolizes the commitment to education and community development prevalent in Berlin. The foundation’s focus on creating a nurturing environment fosters collaboration among students from diverse backgrounds, enriching their educational experience and allowing them to forge lasting connections. This aspect of Stiftung Johanneum resonates with Berlin's ethos, where cultural exchange and intellectual discourse are encouraged.
+The significance of Stiftung Johanneum extends beyond its role as a residence; it symbolizes the commitment to education and community development prevalent in Berlin. The foundation's focus on creating a nurturing environment fosters collaboration among students from diverse backgrounds, enriching their educational experience and allowing them to forge lasting connections. This aspect of Stiftung Johanneum resonates with Berlin's ethos, where cultural exchange and intellectual discourse are encouraged.
 
 Moreover, the foundation contributes to the development of a vibrant student life in Berlin, making it an integral part of the city's educational landscape. By providing students with a safe and supportive environment, Stiftung Johanneum helps to cultivate the next generation of thinkers, leaders, and innovators. Its existence reflects the values of inclusivity and community that are essential to the city's identity.
 
@@ -64,7 +64,7 @@ Stiftung Johanneum's central location in Berlin places it in proximity to severa
 
 3. **Alexanderplatz**: A bustling square known for its shopping, dining, and the iconic TV Tower, offering panoramic views of the city.
 
-4. **Brandenburg Gate (Brandenburger Tor)**: A symbol of Berlin’s unity and history, this monumental gateway is located a short distance away and is an essential stop for any visitor.
+4. **Brandenburg Gate (Brandenburger Tor)**: A symbol of Berlin's unity and history, this monumental gateway is located a short distance away and is an essential stop for any visitor.
 
 5. **Tiergarten**: Berlin's central park, providing a peaceful retreat from the urban hustle, perfect for leisurely strolls or picnics.
 
@@ -82,7 +82,7 @@ When preparing for a visit to Stiftung Johanneum, consider bringing items that e
 
 - **What to Bring**: A camera for capturing moments, a notebook for jotting down thoughts or engaging with students, and a reusable water bottle to stay hydrated.
 
-- **Seasonal Considerations**: Depending on the time of year, dress appropriately for Berlin’s weather. Spring and summer may offer pleasant conditions for outdoor activities, while winter can be quite cold.
+- **Seasonal Considerations**: Depending on the time of year, dress appropriately for Berlin's weather. Spring and summer may offer pleasant conditions for outdoor activities, while winter can be quite cold.
 
 ## Frequently Asked Questions
 
@@ -118,4 +118,4 @@ Specific facilities are not mentioned. Visitors should verify the availability o
 
 Dress comfortably, considering the season and planned activities. Comfortable footwear is advisable for walking around the area. 
 
-Stiftung Johanneum serves as an integral part of Berlin’s educational landscape, offering a unique perspective on student life in one of Europe’s most dynamic cities. Whether you are a prospective student or a curious traveler, the foundation provides an opportunity to connect with the city's vibrant academic community.
+Stiftung Johanneum serves as an integral part of Berlin's educational landscape, offering a unique perspective on student life in one of Europe's most dynamic cities. Whether you are a prospective student or a curious traveler, the foundation provides an opportunity to connect with the city's vibrant academic community.

@@ -38,7 +38,7 @@ The history of Ursberg Abbey is deeply intertwined with the broader narrative of
 
 Throughout the years, the abbey has played a pivotal role in the lives of its monks and the local community. Monasteries in this region have historically been places of refuge, learning, and agriculture, contributing significantly to the economy and spiritual fabric of their surroundings. Ursberg Abbey has upheld these traditions, focusing on both spiritual development and outreach programs that benefit local residents.
 
-The abbey is notable for its contribution to the preservation of knowledge and education through various historical events. Monks have often been among the few literate individuals in their communities, maintaining records, engaging in scholarly pursuits, and educating others. This dedication to knowledge has cemented the abbey’s role as a vital institution throughout the centuries.
+The abbey is notable for its contribution to the preservation of knowledge and education through various historical events. Monks have often been among the few literate individuals in their communities, maintaining records, engaging in scholarly pursuits, and educating others. This dedication to knowledge has cemented the abbey's role as a vital institution throughout the centuries.
 
 Today, the significance of Ursberg Abbey extends beyond its historical past; it remains an active monastery. The ongoing monastic life is a reminder of the enduring values of community, faith, and service that have been upheld for generations. Visitors can appreciate the abbey not only as a historical site but as a living center of spiritual practice and community engagement.
 
@@ -54,7 +54,7 @@ While details on specific architectural features are not available, the overall 
 
 ## Visiting Information
 
-When planning a visit to Ursberg Abbey, travelers should consider various transport options available in the region. The site is accessible by public transportation, and visitors can also opt for driving, with parking facilities likely available nearby. The abbey’s location makes it a convenient stop for those exploring the broader area of Bavaria.
+When planning a visit to Ursberg Abbey, travelers should consider various transport options available in the region. The site is accessible by public transportation, and visitors can also opt for driving, with parking facilities likely available nearby. The abbey's location makes it a convenient stop for those exploring the broader area of Bavaria.
 
 For the most accurate visiting hours and ticket prices, it is advisable to check the official website. This will ensure that visitors have the most current information regarding any special events or changes in access. 
 

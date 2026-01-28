@@ -102,7 +102,7 @@ When preparing for your visit to St. Marienthal Abbey, consider bringing the fol
 Visitors typically spend a few hours at St. Marienthal Abbey, but those wishing to engage more deeply may choose to stay longer.
 
 ### Is photography allowed?
-Photography is generally permitted in many areas, but it’s respectful to be cautious in sacred spaces.
+Photography is generally permitted in many areas, but it's respectful to be cautious in sacred spaces.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide enriching context to your visit.

@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during weekdays or early in the morning, when t
 
 ## Practical Information
 
-When visiting Erbbegräbnisstätte Schede, it is advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds thoroughly. Depending on the season, consider dressing in layers to accommodate changing weather conditions, and don’t forget to check the forecast before your trip.
+When visiting Erbbegräbnisstätte Schede, it is advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds thoroughly. Depending on the season, consider dressing in layers to accommodate changing weather conditions, and don't forget to check the forecast before your trip.
 
 As the cemetery is a place of reflection, maintaining a respectful demeanor is important. Be mindful of noise levels, and consider the feelings of others who may be visiting to pay their respects.
 

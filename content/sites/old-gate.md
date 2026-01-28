@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Old Gate, a striking medieval tower, is a prominent landmark in the historic city of Speyer, Germany. This west city gate, a remnant of the city’s fortifications, encapsulates the essence of Speyer's rich heritage and architectural significance. As you approach this imposing structure, you are greeted by its robust design, which serves as a window into the city's storied past. With its strategic location and historical importance, the Old Gate stands as a symbol of Speyer's evolution from a fortified settlement to a vibrant urban center.
+The Old Gate, a striking medieval tower, is a prominent landmark in the historic city of Speyer, Germany. This west city gate, a remnant of the city's fortifications, encapsulates the essence of Speyer's rich heritage and architectural significance. As you approach this imposing structure, you are greeted by its robust design, which serves as a window into the city's storied past. With its strategic location and historical importance, the Old Gate stands as a symbol of Speyer's evolution from a fortified settlement to a vibrant urban center.
 
 Speyer, located on the banks of the Rhine River, is renowned for its medieval architecture and significant role in the Holy Roman Empire. The Old Gate not only marks the entrance to the city but also reflects the architectural styles and defensive strategies of the time. Visitors to the Old Gate can expect to immerse themselves in the historical ambiance of Speyer, gaining insights into the medieval era while enjoying the surrounding urban landscape.
 
@@ -66,7 +66,7 @@ As you plan your visit, consider allocating time to explore the nearby attractio
 
 2. **Historical Museum of the Palatinate** - This museum showcases artifacts and exhibitions related to the history and culture of the Palatinate region, providing further context to your visit to the Old Gate.
 
-3. **Old Town of Speyer** - Stroll through the charming streets of the old town, where you can find quaint shops, cafes, and additional historical landmarks that highlight Speyer’s rich heritage.
+3. **Old Town of Speyer** - Stroll through the charming streets of the old town, where you can find quaint shops, cafes, and additional historical landmarks that highlight Speyer's rich heritage.
 
 4. **Reissinsel** - A scenic island on the Rhine River, perfect for leisurely walks and enjoying the natural beauty surrounding Speyer, complementing your historical explorations.
 

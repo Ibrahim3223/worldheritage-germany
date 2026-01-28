@@ -42,7 +42,7 @@ Düne also played a role during significant historical events, including conflic
 
 Düne's architecture is modest yet reflective of the island's coastal charm. The buildings primarily consist of traditional structures that are designed to withstand the maritime climate. Visitors can observe how local architecture incorporates elements that are both functional and aesthetically pleasing, with a focus on sustainability and harmony with the surrounding environment.
 
-One of the island's notable features is its expansive sandy beaches, perfect for sunbathing and leisurely strolls. The landscape is dotted with natural dunes that create a picturesque setting, ideal for outdoor activities. The island’s unique ecosystem also draws attention, as it serves as a habitat for various bird species and marine life, making it a prime spot for wildlife enthusiasts and photographers.
+One of the island's notable features is its expansive sandy beaches, perfect for sunbathing and leisurely strolls. The landscape is dotted with natural dunes that create a picturesque setting, ideal for outdoor activities. The island's unique ecosystem also draws attention, as it serves as a habitat for various bird species and marine life, making it a prime spot for wildlife enthusiasts and photographers.
 
 Additionally, Düne is characterized by its unspoiled nature, which provides a stark contrast to urban environments. The natural beauty of the island, combined with its historical elements, creates a tranquil atmosphere that encourages visitors to explore its landscapes and appreciate the simplicity of island life.
 

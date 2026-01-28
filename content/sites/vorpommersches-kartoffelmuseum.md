@@ -44,7 +44,7 @@ The Vorpommersches Kartoffelmuseum features a physical space that is both functi
 
 Inside, the museum is organized into various exhibits that cover a range of topics related to potatoes. Visitors can expect to find displays featuring historical photographs, artifacts related to potato farming, and information on different potato varieties. Interactive exhibits may also be available, allowing guests to engage with the material in a hands-on manner. 
 
-The museum's layout is designed to take visitors on a comprehensive journey through the potato’s historical significance, agricultural practices, and culinary applications. This thoughtful arrangement enhances the overall visitor experience, making it easy to navigate and absorb the information presented.
+The museum's layout is designed to take visitors on a comprehensive journey through the potato's historical significance, agricultural practices, and culinary applications. This thoughtful arrangement enhances the overall visitor experience, making it easy to navigate and absorb the information presented.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While visiting the Vorpommersches Kartoffelmuseum, there are several other attra
 
 For those planning to visit the Vorpommersches Kartoffelmuseum, consider these insider tips to enhance your experience:
 
-- **Photography:** While photography may be allowed, it’s recommended to be respectful of the exhibits and other visitors. Check for any specific rules regarding photography inside the museum.
+- **Photography:** While photography may be allowed, it's recommended to be respectful of the exhibits and other visitors. Check for any specific rules regarding photography inside the museum.
 
 - **Crowd Avoidance:** To avoid larger crowds, consider visiting during weekdays or in the early morning hours. This can provide a more peaceful experience as you explore the museum.
 

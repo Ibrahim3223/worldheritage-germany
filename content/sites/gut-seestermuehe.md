@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Seestermühe is a notable manor house located in the tranquil region of Seestermühe, Germany. This historical structure is a fine example of the architectural and cultural heritage that characterizes the area. Surrounded by the lush landscapes of northern Germany, Gut Seestermühe serves not only as a beautiful architectural piece but also as a reminder of the region’s agrarian past. The manor house presents an opportunity for visitors to immerse themselves in the local history while enjoying the serene environment that envelops it.
+Gut Seestermühe is a notable manor house located in the tranquil region of Seestermühe, Germany. This historical structure is a fine example of the architectural and cultural heritage that characterizes the area. Surrounded by the lush landscapes of northern Germany, Gut Seestermühe serves not only as a beautiful architectural piece but also as a reminder of the region's agrarian past. The manor house presents an opportunity for visitors to immerse themselves in the local history while enjoying the serene environment that envelops it.
 
 The significance of Gut Seestermühe extends beyond its physical presence. It encapsulates the evolution of German manor houses and their roles in rural society, reflecting a blend of agricultural tradition and architectural style. The property invites exploration, offering insights into the social structures that shaped the lives of those who once inhabited these grand residences. As you venture into this estate, you can expect to uncover layers of history that speak to the broader narrative of Germany's rural heritage.
 

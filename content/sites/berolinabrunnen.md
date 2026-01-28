@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Berolinabrunnen, a charming water well located in the vibrant Schwabing-Freimann district of Germany, provides a refreshing oasis amidst the urban landscape. Characterized by its straightforward functionality as a fountain, Berolinabrunnen stands as a symbol of the region’s commitment to public art and community spaces. As you explore this notable site, you will be greeted by the soothing sounds of flowing water, inviting both locals and visitors alike to pause and reflect.
+Berolinabrunnen, a charming water well located in the vibrant Schwabing-Freimann district of Germany, provides a refreshing oasis amidst the urban landscape. Characterized by its straightforward functionality as a fountain, Berolinabrunnen stands as a symbol of the region's commitment to public art and community spaces. As you explore this notable site, you will be greeted by the soothing sounds of flowing water, inviting both locals and visitors alike to pause and reflect.
 
 Situated at coordinates 48.1697, 11.5897, Berolinabrunnen is easily accessible and serves as a delightful point of interest in an area known for its eclectic mix of culture, art, and history. While it may not hold the grandiosity of more famous landmarks, its understated presence offers a unique glimpse into the local heritage and social fabric of the community. Expect a tranquil atmosphere where the urban environment meets the simplicity of nature.
 
-Visiting Berolinabrunnen presents an opportunity to appreciate a serene moment in the midst of the city’s hustle and bustle. Whether you’re a history enthusiast, a casual traveler, or someone seeking a peaceful spot to unwind, this fountain promises a glimpse into the everyday life of Schwabing-Freimann.
+Visiting Berolinabrunnen presents an opportunity to appreciate a serene moment in the midst of the city's hustle and bustle. Whether you're a history enthusiast, a casual traveler, or someone seeking a peaceful spot to unwind, this fountain promises a glimpse into the everyday life of Schwabing-Freimann.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ To avoid crowds, try to plan your visit during weekdays rather than weekends, wh
 
 ## Practical Information
 
-When planning your visit to Berolinabrunnen, it’s helpful to bring along some essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area on foot. If you plan to spend time near the fountain, consider bringing a light jacket during cooler months, as the breeze can be refreshing.
+When planning your visit to Berolinabrunnen, it's helpful to bring along some essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area on foot. If you plan to spend time near the fountain, consider bringing a light jacket during cooler months, as the breeze can be refreshing.
 
 Seasonal considerations are also important—spring and summer months may offer the best experience, with blooming flowers and lively outdoor activities in the area. However, fall can provide a picturesque backdrop with changing leaves, and winter may add a unique charm, although temperatures can be quite chilly.
 
@@ -94,7 +94,7 @@ Yes, photography is permitted at Berolinabrunnen, making it a wonderful spot to 
 
 ### Are there guided tours?
 
-While specific guided tours may not be available for Berolinabrunnen itself, the fountain can be included as part of a broader tour of the Schwabing-Freimann district or Munich’s public art.
+While specific guided tours may not be available for Berolinabrunnen itself, the fountain can be included as part of a broader tour of the Schwabing-Freimann district or Munich's public art.
 
 ### What's the best time to visit?
 

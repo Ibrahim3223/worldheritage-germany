@@ -87,10 +87,10 @@ Be aware that certain times of the year may see increased foot traffic, particul
 A visit to the Jan-Wellem-Chapel typically takes about an hour, allowing time to appreciate its architectural features and historical context.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s best to check for any restrictions, especially during services or private events.
+Photography may be permitted, but it's best to check for any restrictions, especially during services or private events.
 
 ### Are there guided tours?
-Information regarding guided tours can vary, so it’s advisable to check the official website for current offerings.
+Information regarding guided tours can vary, so it's advisable to check the official website for current offerings.
 
 ### What's the best time to visit?
 Weekdays are generally quieter, providing a more reflective experience, while weekends may offer community events.
@@ -102,7 +102,7 @@ Check the official website for specific accessibility options available at the c
 Ticket purchasing options may vary; please refer to the official website for details on online ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s a good idea to check the official website for information on available amenities.
+Facilities may be limited, so it's a good idea to check the official website for information on available amenities.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that it is a place of worship.

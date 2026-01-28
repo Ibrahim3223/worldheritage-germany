@@ -56,7 +56,7 @@ The best times to visit are during the spring and summer months when the gardens
 
 While visiting Ludwigsburg Palace, consider exploring these nearby attractions to enhance your experience:
 
-1. **Ludwigsburg’s Gardens** - The extensive gardens surrounding the palace are perfect for leisurely strolls and offer picturesque settings for relaxation.
+1. **Ludwigsburg's Gardens** - The extensive gardens surrounding the palace are perfect for leisurely strolls and offer picturesque settings for relaxation.
 
 2. **Blühendes Barock** - This nearby garden festival showcases a variety of flowers and plants, making it a delightful destination for garden enthusiasts.
 

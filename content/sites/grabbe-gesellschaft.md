@@ -40,7 +40,7 @@ While specific architectural details of the Grabbe-Gesellschaft are not provided
 
 The design of such foundations often aims to create an inviting atmosphere that encourages visitors to explore and immerse themselves in the cultural narrative. This may include areas that allow for interactive learning experiences, art displays, and spaces for community gatherings.
 
-The significance of the foundation extends beyond its physical attributes; it is the activities and programs hosted within its walls that bring the space to life. The foundation’s commitment to promoting literature and the arts likely manifests in a variety of events that utilize the space for performances, lectures, and workshops, making it a hub of cultural dialogue.
+The significance of the foundation extends beyond its physical attributes; it is the activities and programs hosted within its walls that bring the space to life. The foundation's commitment to promoting literature and the arts likely manifests in a variety of events that utilize the space for performances, lectures, and workshops, making it a hub of cultural dialogue.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ For those planning to visit the Grabbe-Gesellschaft, consider the following insi
 
 - **Photography**: If photography is allowed, capture moments during events or exhibitions to remember your visit. Be mindful of any restrictions in specific areas.
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekdays or earlier in the day when fewer visitors may be present. This can allow for a more intimate experience with the exhibits and activities.
-- **Engage with Staff**: Take advantage of knowledgeable staff who can provide insights into the foundation’s programs and the significance of Grabbe’s works.
+- **Engage with Staff**: Take advantage of knowledgeable staff who can provide insights into the foundation's programs and the significance of Grabbe's works.
 
 ## Practical Information
 

@@ -76,7 +76,7 @@ Seasonal considerations may also play a role in your visit. The museum may have 
 A visit typically lasts between one to two hours, allowing ample time to explore the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival.
+Photography policies may vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Details about guided tours may not be specified; check the official website for current offerings.
@@ -85,7 +85,7 @@ Details about guided tours may not be specified; check the official website for 
 Weekdays are generally less crowded, and visiting during the shoulder seasons of spring and fall may enhance your experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided; it’s advisable to check the official website for details.
+Accessibility information is not provided; it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Please verify ticket purchasing options on the official website to confirm whether online sales are available.

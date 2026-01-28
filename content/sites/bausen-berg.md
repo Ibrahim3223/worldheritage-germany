@@ -56,7 +56,7 @@ Before planning your visit, be sure to check the official website for hours and 
   
 2. **Local Villages**: Explore nearby traditional villages to experience local culture, cuisine, and architecture that reflects the heritage of the Rhineland-Palatinate region.
 
-3. **Historical Sites**: Discover historical landmarks that provide insight into the region’s past, including churches or ancient ruins that may be located in proximity to Bausen-Berg.
+3. **Historical Sites**: Discover historical landmarks that provide insight into the region's past, including churches or ancient ruins that may be located in proximity to Bausen-Berg.
 
 4. **Cultural Events**: Depending on the time of year, visitors may have the chance to participate in local festivals or events that celebrate regional traditions and culinary delights.
 

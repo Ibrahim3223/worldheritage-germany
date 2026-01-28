@@ -74,7 +74,7 @@ When visiting Stadttheater Bremerhaven, there are several nearby attractions tha
 
 To make the most of your visit to Stadttheater Bremerhaven, consider these insider tips:
 
-- **Photography**: While photography is often permitted during performances, it’s best to check the policies specific to each show. Always be respectful of the performers and fellow audience members.
+- **Photography**: While photography is often permitted during performances, it's best to check the policies specific to each show. Always be respectful of the performers and fellow audience members.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider attending weekday performances or matinees, which may have fewer attendees than weekend shows.
 
@@ -82,7 +82,7 @@ To make the most of your visit to Stadttheater Bremerhaven, consider these insid
 
 When planning your visit, keep the following practical considerations in mind:
 
-- **What to Bring**: It’s advisable to carry a light jacket, as theatres can be cool during performances. Bringing a small bag for personal items is generally acceptable.
+- **What to Bring**: It's advisable to carry a light jacket, as theatres can be cool during performances. Bringing a small bag for personal items is generally acceptable.
 
 - **Seasonal Considerations**: Depending on the time of year, check the local weather forecast and dress accordingly, especially if you plan to explore the surrounding area before or after the performance.
 
@@ -92,7 +92,7 @@ When planning your visit, keep the following practical considerations in mind:
 Plan to spend a few hours at the theatre, particularly if you are attending a performance. Arriving early allows time to enjoy the venue and settle in before the show.
 
 ### Is photography allowed?
-Photography policies vary by performance. Generally, personal photography may be restricted during shows, but it’s best to consult the theatre's guidelines.
+Photography policies vary by performance. Generally, personal photography may be restricted during shows, but it's best to consult the theatre's guidelines.
 
 ### Are there guided tours?
 Guided tours of the theatre may be available, offering insights into its history and architecture. Check the official website for current offerings.

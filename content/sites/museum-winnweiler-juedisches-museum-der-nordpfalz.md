@@ -76,11 +76,11 @@ While the Museum Winnweiler - Jüdisches Museum der Nordpfalz is a focal point f
 
 To make the most of your visit to the Museum Winnweiler - Jüdisches Museum der Nordpfalz, consider these insider tips:
 
-- **Photography**: If you’re keen on capturing the essence of the museum, check the specific policies regarding photography to ensure that you adhere to any restrictions.
+- **Photography**: If you're keen on capturing the essence of the museum, check the specific policies regarding photography to ensure that you adhere to any restrictions.
 
 - **Crowd Avoidance**: Visiting during the week, particularly in the morning or late afternoon, can help you avoid larger groups and allow for a more personal experience.
 
-- **Engage with Staff**: The museum staff can be a valuable resource for additional insights and information about the exhibits. Don’t hesitate to ask questions that pique your interest.
+- **Engage with Staff**: The museum staff can be a valuable resource for additional insights and information about the exhibits. Don't hesitate to ask questions that pique your interest.
 
 - **Take Your Time**: The exhibits are designed to be informative and thought-provoking. Allow yourself the time to reflect on what you see and read, as this will enhance your overall experience.
 
@@ -117,7 +117,7 @@ For details on accessibility, consult the official website to find out about acc
 Ticket purchasing options may vary, so check the official website for the latest information on online ticket sales.
 
 ### Are there restrooms and cafes?
-The presence of restrooms and nearby cafes can typically be confirmed on the museum’s official website.
+The presence of restrooms and nearby cafes can typically be confirmed on the museum's official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended to ensure an enjoyable visit, especially if you plan to spend a significant amount of time at the museum.

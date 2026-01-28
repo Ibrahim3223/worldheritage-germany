@@ -56,7 +56,7 @@ Check the official website for current information regarding hours of operation 
 
 The best times to visit are during the day when natural light enhances the interior's features. Early mornings or late afternoons can offer a quieter experience, allowing visitors to fully absorb the spiritual environment without the distraction of larger crowds. 
 
-Make sure to check local event calendars, as the church may host special services or community gatherings that offer unique insights into its role in Emden’s cultural life.
+Make sure to check local event calendars, as the church may host special services or community gatherings that offer unique insights into its role in Emden's cultural life.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ While Wybelsum Church is a destination in its own right, the surrounding area of
 
 2. **Otto Huus**: A museum dedicated to the life and works of the famous local writer Otto Waalkes, featuring displays on his contributions to German entertainment.
 
-3. **East Frisian State Museum**: Discover the cultural heritage of East Frisia through art, artifacts, and exhibitions that cover various aspects of the region’s history.
+3. **East Frisian State Museum**: Discover the cultural heritage of East Frisia through art, artifacts, and exhibitions that cover various aspects of the region's history.
 
 4. **Emden City Park**: A peaceful green space ideal for a leisurely stroll, offering a nice contrast to the urban environment and a chance to relax.
 
@@ -120,4 +120,4 @@ Facilities may vary; check the official website for details on amenities availab
 ### What should I wear?
 Dress modestly, as Wybelsum Church is a place of worship. Comfortable footwear is also recommended for exploring the area.
 
-As you prepare for your visit to Wybelsum Church, look forward to the opportunity to engage with a significant aspect of Emden’s heritage. Whether you are drawn by the architecture, the spiritual significance, or the historical context, the church is sure to provide a meaningful experience.
+As you prepare for your visit to Wybelsum Church, look forward to the opportunity to engage with a significant aspect of Emden's heritage. Whether you are drawn by the architecture, the spiritual significance, or the historical context, the church is sure to provide a meaningful experience.

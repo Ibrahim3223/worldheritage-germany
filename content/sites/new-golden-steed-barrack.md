@@ -102,7 +102,7 @@ Weekdays, particularly in the morning, tend to be less crowded, making for a mor
 Accessibility details are not specified; it's best to check the official website for information regarding wheelchair access.
 
 ### Can I buy tickets online?
-Information about online ticket purchases is not provided, so it’s wise to refer to the official website for current ticketing options.
+Information about online ticket purchases is not provided, so it's wise to refer to the official website for current ticketing options.
 
 ### Are there restrooms and cafes?
 Details regarding facilities such as restrooms and cafes are not available; consider checking the official website for visitor amenities.

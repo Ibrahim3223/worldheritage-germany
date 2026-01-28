@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Tramway Museum Darmstadt-Kranichstein stands as an intriguing destination for both enthusiasts of public transportation and those interested in the history of urban mobility. Located in the city of Darmstadt, Germany, this museum offers visitors an immersive experience into the world of trams and rail transport. It highlights the evolution of tram systems, showcasing their significance in the development of cities and communities. The museum’s collection features a wide range of historical vehicles, interactive exhibits, and educational resources, providing insights into the engineering and social impacts of trams through the years.
+The Tramway Museum Darmstadt-Kranichstein stands as an intriguing destination for both enthusiasts of public transportation and those interested in the history of urban mobility. Located in the city of Darmstadt, Germany, this museum offers visitors an immersive experience into the world of trams and rail transport. It highlights the evolution of tram systems, showcasing their significance in the development of cities and communities. The museum's collection features a wide range of historical vehicles, interactive exhibits, and educational resources, providing insights into the engineering and social impacts of trams through the years.
 
 Set within the scenic backdrop of Darmstadt, the museum is easily accessible and serves as a perfect stop for those exploring the region's rich cultural landscape. With its commitment to preserving and presenting the history of tram transport, the Tramway Museum invites visitors to explore the fascinating interplay between technology and society. This guide will help you navigate the museum's offerings, delve into its historical significance, and enhance your visit with practical tips.
 
@@ -52,7 +52,7 @@ Visiting the Tramway Museum Darmstadt-Kranichstein is a straightforward experien
 
 To get the most out of your visit, it is advisable to check the official website for current information regarding hours of operation and ticket prices. The museum typically offers a range of exhibits that can take anywhere from one to three hours to explore, depending on your level of interest.
 
-The best times to visit are during weekdays when the museum is less crowded, allowing for a more relaxed experience. Additionally, weekends may feature special events or activities that enhance the visit, so checking the museum’s schedule can be beneficial.
+The best times to visit are during weekdays when the museum is less crowded, allowing for a more relaxed experience. Additionally, weekends may feature special events or activities that enhance the visit, so checking the museum's schedule can be beneficial.
 
 ## Nearby Attractions
 

@@ -70,7 +70,7 @@ While in Weimar, visitors can explore several nearby attractions that further hi
 
 ## Insider Tips
 
-For those planning a visit to the Good Fortune stone, consider arriving early in the day or later in the afternoon to avoid peak tourist crowds. This timing will provide a more intimate experience as you reflect on Goethe’s legacy.
+For those planning a visit to the Good Fortune stone, consider arriving early in the day or later in the afternoon to avoid peak tourist crowds. This timing will provide a more intimate experience as you reflect on Goethe's legacy.
 
 Photography enthusiasts will find the monument appealing, especially during the golden hours of sunrise and sunset when the light casts a warm glow over the stone. Remember to be respectful of other visitors and the serene environment as you capture your memories.
 

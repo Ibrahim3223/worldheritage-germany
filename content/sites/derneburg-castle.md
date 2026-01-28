@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Derneburg Castle, located in the Holle region of Germany, is an enchanting château that functions as an art museum, drawing visitors who are interested in both history and the visual arts. This architectural marvel, with its storied past and artistic significance, provides a unique glimpse into the fusion of cultural heritage and contemporary art. As you approach this impressive structure, you can’t help but appreciate its grandeur, which has stood the test of time, offering a backdrop for various artistic expressions.
+Derneburg Castle, located in the Holle region of Germany, is an enchanting château that functions as an art museum, drawing visitors who are interested in both history and the visual arts. This architectural marvel, with its storied past and artistic significance, provides a unique glimpse into the fusion of cultural heritage and contemporary art. As you approach this impressive structure, you can't help but appreciate its grandeur, which has stood the test of time, offering a backdrop for various artistic expressions.
 
 The castle is not just a site of historical interest; it serves as a cultural hub that engages with modern artistic movements while paying homage to its own legacy. The surrounding landscape adds to the charm, making it a worthwhile visit for art enthusiasts and history buffs alike. Derneburg Castle invites you to explore its halls, artworks, and the stories that echo through its walls, promising an enriching experience.
 
@@ -34,13 +34,13 @@ The castle is not just a site of historical interest; it serves as a cultural hu
 
 The history of Derneburg Castle is intertwined with the broader narrative of German aristocracy and cultural development. Although specific dates are not provided, the castle has served many purposes throughout its existence, evolving from a noble residence to an art museum. This transformation illustrates the changing dynamics of cultural patronage and the role of art in society. 
 
-The château has witnessed various historical events and cultural shifts, making it a significant site in the region’s heritage. As an art museum, it plays an essential role in preserving and showcasing artworks that reflect both historical and contemporary themes. By providing a platform for artists, Derneburg Castle continues to contribute to the cultural dialogue within Germany and beyond.
+The château has witnessed various historical events and cultural shifts, making it a significant site in the region's heritage. As an art museum, it plays an essential role in preserving and showcasing artworks that reflect both historical and contemporary themes. By providing a platform for artists, Derneburg Castle continues to contribute to the cultural dialogue within Germany and beyond.
 
 The significance of Derneburg Castle extends beyond its physical presence; it represents the intersection of history and modern creativity. The museum's collections often include works that challenge traditional narratives, encouraging visitors to engage with art in thought-provoking ways. This focus on contemporary art allows the château to maintain relevance in the ever-evolving cultural landscape, making it a vital institution for both locals and tourists.
 
 ## Architecture and Features
 
-Derneburg Castle presents a captivating blend of architectural styles that reflect its long history. The château’s façade is characterized by classic elements that showcase the craftsmanship of its time. Visitors will notice the intricate details that adorn the exterior, including ornate stonework and elegant windows that allow natural light to filter into the grand spaces within.
+Derneburg Castle presents a captivating blend of architectural styles that reflect its long history. The château's façade is characterized by classic elements that showcase the craftsmanship of its time. Visitors will notice the intricate details that adorn the exterior, including ornate stonework and elegant windows that allow natural light to filter into the grand spaces within.
 
 Inside the castle, the layout features a series of rooms that have been repurposed for exhibitions and artistic displays. The interior spaces retain a sense of historical authenticity while accommodating modern art installations. High ceilings and expansive galleries create an inviting atmosphere for visitors to explore the various artworks on display.
 
@@ -66,7 +66,7 @@ Derneburg Castle is situated in a region rich with additional attractions. Here 
 
 4. **Rammelsberg Mine**: Located in Goslar, this former silver mine is now a museum that showcases the region's mining heritage, adding another layer to the area's historical significance.
 
-5. **St. James’ Church in Derneburg**: This local church, with its beautiful architecture, is worth a visit for those interested in religious history and architecture.
+5. **St. James' Church in Derneburg**: This local church, with its beautiful architecture, is worth a visit for those interested in religious history and architecture.
 
 ## Insider Tips
 

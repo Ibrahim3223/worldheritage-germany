@@ -40,7 +40,7 @@ In addition to its historical connotations, Zietenplatz functions as a social ga
 
 ## Architecture and Features
 
-While Zietenplatz may not be universally recognized for grand architectural feats, its design and layout contribute to the overall character of the square. The surrounding buildings reflect a mixture of styles that represent various periods in Berlin’s architectural history. This blend adds to the square's charm, allowing visitors to appreciate the interplay of old and new structures.
+While Zietenplatz may not be universally recognized for grand architectural feats, its design and layout contribute to the overall character of the square. The surrounding buildings reflect a mixture of styles that represent various periods in Berlin's architectural history. This blend adds to the square's charm, allowing visitors to appreciate the interplay of old and new structures.
 
 The square is designed to facilitate movement and interaction, with pathways and seating areas that encourage lingering and socializing. The arrangement of space is practical, catering to both pedestrian traffic and the needs of the local community. Green spaces, if present, provide a welcome respite from the urban environment, offering a place for relaxation amidst the bustle of the city.
 
@@ -66,13 +66,13 @@ Exploring Zietenplatz opens the door to several nearby attractions that contribu
 
 4. **Kaiser Wilhelm Memorial Church**: An iconic landmark that serves as a poignant reminder of Berlin's tumultuous past.
 
-5. **Tiergarten**: A sprawling urban park that invites visitors to escape the city’s hustle and bustle, perfect for a leisurely stroll.
+5. **Tiergarten**: A sprawling urban park that invites visitors to escape the city's hustle and bustle, perfect for a leisurely stroll.
 
 ## Insider Tips
 
 For photography enthusiasts, Zietenplatz offers a variety of angles to capture both the square and its surrounding architecture. Early mornings or late afternoons typically provide the best natural light for photos. Additionally, visiting during weekdays may help you avoid larger crowds, allowing for a more intimate experience with the space.
 
-If you’re interested in community events or seasonal activities, keep an eye on local announcements, as Zietenplatz occasionally serves as a venue for such gatherings.
+If you're interested in community events or seasonal activities, keep an eye on local announcements, as Zietenplatz occasionally serves as a venue for such gatherings.
 
 ## Practical Information
 

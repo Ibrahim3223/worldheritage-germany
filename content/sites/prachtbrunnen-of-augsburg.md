@@ -22,13 +22,13 @@ images:
 
 The Prachtbrunnen of Augsburg is a remarkable fountain that serves not only as a source of water but also as an emblem of the city's cultural heritage. Located in the scenic region of Augsburg, Germany, this fountain is a significant feature of the urban landscape, drawing visitors eager to experience its history and artistry. Augsburg, one of the oldest cities in Germany, is known for its rich history, and the Prachtbrunnen contributes to this narrative. As you approach the fountain, you will find it surrounded by the vibrant life of the city—a dynamic blend of modernity and tradition.
 
-The fountain is more than just a water well; it represents the ingenuity and craftsmanship of its creators and the enduring importance of water in urban settings. Visitors to the Prachtbrunnen will discover an inviting atmosphere, where the sounds of flowing water create a calming backdrop amidst the hustle and bustle of city life. The fountain's location makes it a convenient stop for those exploring Augsburg’s historical sites, offering a moment of respite and reflection. 
+The fountain is more than just a water well; it represents the ingenuity and craftsmanship of its creators and the enduring importance of water in urban settings. Visitors to the Prachtbrunnen will discover an inviting atmosphere, where the sounds of flowing water create a calming backdrop amidst the hustle and bustle of city life. The fountain's location makes it a convenient stop for those exploring Augsburg's historical sites, offering a moment of respite and reflection. 
 
 ## History and Significance
 
 The Prachtbrunnen has been an integral part of Augsburg's identity for centuries. As a water well, it served a practical purpose, providing essential water to the locals and travelers alike. This functional aspect of the fountain highlights the importance of water sources in urban planning and daily life, particularly in historical contexts where access to clean water was paramount.
 
-Throughout its history, the Prachtbrunnen has witnessed the evolution of Augsburg from a medieval city to a contemporary urban center. The fountain stands as a reminder of the city’s past, reflecting the architectural styles and cultural shifts that have occurred over time. Augsburg itself has played a vital role in European history, particularly during the Renaissance and Reformation periods, making the Prachtbrunnen a symbol of the city's enduring legacy.
+Throughout its history, the Prachtbrunnen has witnessed the evolution of Augsburg from a medieval city to a contemporary urban center. The fountain stands as a reminder of the city's past, reflecting the architectural styles and cultural shifts that have occurred over time. Augsburg itself has played a vital role in European history, particularly during the Renaissance and Reformation periods, making the Prachtbrunnen a symbol of the city's enduring legacy.
 
 While specific historical milestones may not be documented, the significance of the fountain extends beyond its physical structure. It serves as a gathering place for locals and tourists, fostering community interaction and cultural exchange. The Prachtbrunnen is not merely an aesthetic addition to the city; it embodies the spirit of Augsburg and its inhabitants through the ages.
 
@@ -54,7 +54,7 @@ While visiting the Prachtbrunnen, consider exploring other nearby attractions th
 
 1. **Augsburg Cathedral**: Just a short walk away, this stunning cathedral showcases Romanesque and Gothic architecture, making it a must-see for history and architecture enthusiasts.
 
-2. **Fuggerei**: The world’s oldest social housing complex, founded in the 16th century, offers a fascinating glimpse into the philanthropic efforts of the Fugger family.
+2. **Fuggerei**: The world's oldest social housing complex, founded in the 16th century, offers a fascinating glimpse into the philanthropic efforts of the Fugger family.
 
 3. **Town Hall (Rathaus)**: This magnificent building is renowned for its ornate Renaissance façade and grand interior, including the famous Golden Hall.
 
@@ -95,7 +95,7 @@ The Prachtbrunnen is generally accessible, but check local resources for specifi
 Check the official website for current information regarding ticketing, as access to the fountain may not require a ticket.
 
 ### Are there restrooms and cafes?
-Nearby amenities may include restrooms and cafes, but it’s advisable to confirm availability before your visit.
+Nearby amenities may include restrooms and cafes, but it's advisable to confirm availability before your visit.
 
 ### What should I wear?
 Comfortable attire and walking shoes are recommended, especially if you plan to explore the surrounding area.

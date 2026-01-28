@@ -34,7 +34,7 @@ As you explore this sacred space, you will find a narrative woven through the wa
 
 The Synagoge Görlitz holds a prominent place in the history of the Jewish community in the region. Although specific dates are not available, it is known that Görlitz has a long-standing Jewish presence, with the synagogue serving as a focal point for religious and communal activities. The establishment of the synagogue marked a significant moment for the local Jewish population, providing a dedicated space for worship, community gatherings, and cultural events.
 
-Throughout its history, the synagogue has experienced various phases of use and significance. It has witnessed the challenges faced by the Jewish community, particularly during periods of social upheaval and discrimination. The resilience of this community is mirrored in the synagogue’s continued existence, which serves as a reminder of their contributions to the cultural fabric of Görlitz.
+Throughout its history, the synagogue has experienced various phases of use and significance. It has witnessed the challenges faced by the Jewish community, particularly during periods of social upheaval and discrimination. The resilience of this community is mirrored in the synagogue's continued existence, which serves as a reminder of their contributions to the cultural fabric of Görlitz.
 
 The synagogue also plays a role in contemporary efforts to honor and preserve Jewish heritage in the area. Its existence contributes to the ongoing dialogue about tolerance, diversity, and the importance of remembering history. In recent years, the synagogue has become a site for educational programs and cultural events aimed at fostering understanding and appreciation of Jewish history and traditions.
 

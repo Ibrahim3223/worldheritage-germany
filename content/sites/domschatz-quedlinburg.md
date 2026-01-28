@@ -28,13 +28,13 @@ image_srcset:
 
 The Domschatz Quedlinburg is a museum that offers a fascinating glimpse into the rich ecclesiastical heritage of Germany. Situated in the historic town of Quedlinburg, this museum is a vital part of the cultural landscape, showcasing artifacts that reflect the spiritual and historical significance of the region. Quedlinburg itself, a UNESCO World Heritage site, is celebrated for its medieval architecture and charming streets, making the Domschatz an essential stop for history enthusiasts and casual visitors alike. The museum's collection, which includes relics of the church, illuminates the profound influence of religion on local culture and society.
 
-Visitors can expect a thoughtfully curated experience that connects them to the past. The Domschatz serves as a repository of important religious artifacts, drawing on centuries of history. With its location in the heart of one of Germany's oldest towns, it invites exploration of both the museum and the surrounding architecture, enhancing the overall understanding of Quedlinburg’s historical narrative.
+Visitors can expect a thoughtfully curated experience that connects them to the past. The Domschatz serves as a repository of important religious artifacts, drawing on centuries of history. With its location in the heart of one of Germany's oldest towns, it invites exploration of both the museum and the surrounding architecture, enhancing the overall understanding of Quedlinburg's historical narrative.
 
 ## History and Significance
 
 The Domschatz Quedlinburg is intrinsically linked to the history of the town and the broader context of ecclesiastical power in medieval Europe. Quedlinburg was founded as an imperial city in the 10th century and quickly became an important center of Christian life and governance. The museum's collection contains a variety of ecclesiastical treasures that reflect the town's role as a spiritual hub.
 
-Among the artifacts, the museum houses a range of liturgical objects, manuscripts, and relics that were once part of the local church’s treasury. These objects not only serve as significant religious items but also as historical documents that provide insight into the artistic and cultural developments of the period. The Domschatz reveals the intricate relationship between faith and daily life in Quedlinburg, illustrating how the church influenced local customs, politics, and community organization.
+Among the artifacts, the museum houses a range of liturgical objects, manuscripts, and relics that were once part of the local church's treasury. These objects not only serve as significant religious items but also as historical documents that provide insight into the artistic and cultural developments of the period. The Domschatz reveals the intricate relationship between faith and daily life in Quedlinburg, illustrating how the church influenced local customs, politics, and community organization.
 
 The significance of the Domschatz extends beyond the local context; it is part of a larger narrative of Christian heritage across Europe. By preserving these artifacts, the museum plays a crucial role in maintaining the historical memory of the region and providing a platform for educational engagement regarding the impact of Christianity on European culture.
 
@@ -50,7 +50,7 @@ The museum's interior is designed to enhance the visitor's experience, providing
 
 Reaching the Domschatz Quedlinburg is relatively straightforward, given its location in the historical center of Quedlinburg. Visitors can arrive by car, with parking options available nearby, or utilize public transport services that connect to the town. The museum's central position makes it accessible for those exploring the area on foot.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and ticket prices. The museum welcomes visitors throughout the week, but specific times may vary, so confirming details ahead of your visit is essential.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and ticket prices. The museum welcomes visitors throughout the week, but specific times may vary, so confirming details ahead of your visit is essential.
 
 When it comes to what to expect, the Domschatz offers an enriching experience that typically requires about one to two hours to explore fully. This allows visitors to appreciate the exhibits without feeling rushed. The best times to visit are generally during weekdays when crowds tend to be smaller, enabling a more personal experience with the artifacts.
 

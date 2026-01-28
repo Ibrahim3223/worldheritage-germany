@@ -28,7 +28,7 @@ image_srcset:
 
 Maria Regina Martyrum, a distinguished Catholic church located in the Charlottenburg-Wilmersdorf district of Berlin, serves as both a spiritual sanctuary and a site of cultural significance. Established amidst the vibrant urban landscape of Berlin, this church not only provides a place for worship but also stands as a reminder of the city's complex history. Its architecture and community activities reflect the enduring spirit of faith in a city that has seen profound transformation over the decades. Visitors to Maria Regina Martyrum can expect a serene environment where they can connect with both the architectural beauty and the historical narratives interwoven in its very fabric.
 
-The church’s strategic location in Berlin allows it to be easily accessible for both locals and tourists alike, making it an intriguing stop on a broader exploration of the city's rich heritage. As you walk through its doors, you are invited to experience the peaceful ambiance that has drawn countless individuals seeking solace and reflection. Whether you are a history enthusiast, an architecture aficionado, or someone simply looking for a peaceful retreat, Maria Regina Martyrum promises an enriching experience.
+The church's strategic location in Berlin allows it to be easily accessible for both locals and tourists alike, making it an intriguing stop on a broader exploration of the city's rich heritage. As you walk through its doors, you are invited to experience the peaceful ambiance that has drawn countless individuals seeking solace and reflection. Whether you are a history enthusiast, an architecture aficionado, or someone simply looking for a peaceful retreat, Maria Regina Martyrum promises an enriching experience.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ Natural light may play an important role in illuminating the interior spaces, en
 
 Getting to Maria Regina Martyrum is straightforward, as it is located within the accessible Charlottenburg-Wilmersdorf district of Berlin. Public transport options are plentiful, allowing visitors to reach the church easily from various parts of the city. As with any visit, it is advisable to check the official website for current information regarding opening hours and any potential entry fees. 
 
-When planning a visit, consider allowing at least an hour to fully appreciate the church’s interior and to engage with its spiritual offerings. Visitors may find the atmosphere particularly tranquil during weekdays, making those times ideal for anyone looking to avoid larger crowds.
+When planning a visit, consider allowing at least an hour to fully appreciate the church's interior and to engage with its spiritual offerings. Visitors may find the atmosphere particularly tranquil during weekdays, making those times ideal for anyone looking to avoid larger crowds.
 
 The best times to visit are typically during services or community events, where one can witness the church's active role in the community. However, quiet moments can also be found outside of these times, offering a chance for personal reflection and contemplation.
 
@@ -70,7 +70,7 @@ The best times to visit are typically during services or community events, where
 
 For photography enthusiasts, early mornings or late afternoons provide optimal lighting conditions for capturing the church's architecture without the distraction of crowds. If you're keen on avoiding peak times, consider visiting during weekdays when the atmosphere is generally more serene.
 
-Engage with the local community by attending events or services, which can provide a deeper understanding of the church's role in the area. Engaging with parishioners may also yield unique insights into the church’s history and significance.
+Engage with the local community by attending events or services, which can provide a deeper understanding of the church's role in the area. Engaging with parishioners may also yield unique insights into the church's history and significance.
 
 ## Practical Information
 

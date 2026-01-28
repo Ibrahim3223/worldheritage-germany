@@ -28,13 +28,13 @@ image_srcset:
 
 The Ellingen Residence, a notable palace located in the quaint town of Ellingen, Germany, presents a unique blend of cultural heritage and architectural grandeur. This historical site is not just a structure; it embodies the essence of the region's past, offering visitors a glimpse into the lives of those who once resided within its walls. The palace stands as a significant landmark in the landscape of German heritage, drawing history enthusiasts and curious travelers alike. Its strategic location in the heart of Bavaria allows for easy access to a myriad of other attractions, making it an ideal stop on any cultural itinerary. 
 
-Visitors will find that the Ellingen Residence is not merely a historical site, but a portal into the lifestyle and artistry of its era. The palace’s intricate details and grand design promise an engaging experience for those who appreciate history and architecture. With its rich narrative and elegance, the Ellingen Residence invites exploration and appreciation from all who venture here.
+Visitors will find that the Ellingen Residence is not merely a historical site, but a portal into the lifestyle and artistry of its era. The palace's intricate details and grand design promise an engaging experience for those who appreciate history and architecture. With its rich narrative and elegance, the Ellingen Residence invites exploration and appreciation from all who venture here.
 
 ## History and Significance
 
-The Ellingen Residence has a storied past, intricately linked to the broader historical developments in Germany. While specific dates and events may be elusive, the palace’s cultural significance is undisputed. It serves as a representation of the feudal structures that once characterized the region, showcasing the lifestyle of the aristocracy and the social hierarchies that defined their world.
+The Ellingen Residence has a storied past, intricately linked to the broader historical developments in Germany. While specific dates and events may be elusive, the palace's cultural significance is undisputed. It serves as a representation of the feudal structures that once characterized the region, showcasing the lifestyle of the aristocracy and the social hierarchies that defined their world.
 
-The palace has witnessed the ebb and flow of history, including the impacts of various political and social movements. As a former residence of nobility, it played a crucial role in the local governance and community life, often serving as a venue for important gatherings and decisions. The craftsmanship evident in the palace’s architecture speaks volumes about the skilled artisans who contributed to its construction and decoration, reflecting the artistic movements of their times.
+The palace has witnessed the ebb and flow of history, including the impacts of various political and social movements. As a former residence of nobility, it played a crucial role in the local governance and community life, often serving as a venue for important gatherings and decisions. The craftsmanship evident in the palace's architecture speaks volumes about the skilled artisans who contributed to its construction and decoration, reflecting the artistic movements of their times.
 
 Over the years, the Ellingen Residence has been preserved as a cultural landmark, recognized for its aesthetic and historical value. It serves as a reminder of the region's nobility and their influence on the cultural landscape of Germany. Today, the site stands as a testament to the enduring legacy of historical palaces in Europe, offering visitors a unique connection to the past.
 
@@ -72,7 +72,7 @@ Ellingen offers a variety of attractions that complement a visit to the Ellingen
 
 When visiting the Ellingen Residence, consider carrying a camera, as the palace and its surroundings offer numerous picturesque opportunities. However, be mindful of any restrictions regarding photography inside the palace. To avoid crowds, try to plan your visit during weekdays or outside of peak tourist seasons, as weekends can see an influx of visitors.
 
-Additionally, engaging with the staff or guides at the palace can enrich your experience, providing insights and anecdotes that enhance your understanding of the site’s historical context. If guided tours are available, participating in one can offer a more in-depth exploration of the residence's significance and architecture.
+Additionally, engaging with the staff or guides at the palace can enrich your experience, providing insights and anecdotes that enhance your understanding of the site's historical context. If guided tours are available, participating in one can offer a more in-depth exploration of the residence's significance and architecture.
 
 ## Practical Information
 

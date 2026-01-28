@@ -66,7 +66,7 @@ While visiting Burg Laurenzberg, consider exploring other attractions in the vic
 
 2. **St. Peter's Church**: This nearby church is an excellent example of local architecture, featuring beautiful stained glass and intricate design elements that tell the story of the region's religious heritage.
 
-3. **Langerwehe Castle**: A short drive from Burg Laurenzberg, this castle offers another glimpse into the area’s noble past and is surrounded by picturesque gardens perfect for leisurely strolls.
+3. **Langerwehe Castle**: A short drive from Burg Laurenzberg, this castle offers another glimpse into the area's noble past and is surrounded by picturesque gardens perfect for leisurely strolls.
 
 4. **Inde River**: The river provides a serene backdrop for outdoor activities such as walking and cycling, allowing visitors to enjoy the natural beauty of the region while reflecting on their castle experience.
 

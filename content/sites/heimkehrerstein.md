@@ -93,7 +93,7 @@ Currently, specific guided tours for the Heimkehrerstein are not mentioned. Chec
 Early mornings or late afternoons are often the best times to visit to avoid crowds and enjoy a more peaceful atmosphere.
 
 ### Is it wheelchair accessible?
-Check the official website for current accessibility information, as details may vary based on the site’s conditions.
+Check the official website for current accessibility information, as details may vary based on the site's conditions.
 
 ### Can I buy tickets online?
 As a memorial site, there are no entry fees typically associated with visiting the Heimkehrerstein. However, check the official website for any updates.

@@ -78,7 +78,7 @@ To avoid larger crowds, aim to visit on weekdays or during off-peak hours, parti
 
 ## Practical Information
 
-When visiting Echtzer See, it's advisable to bring essentials such as sunscreen, hats, and plenty of water, especially during warmer months. If you plan to swim, don’t forget your swimwear and towels.
+When visiting Echtzer See, it's advisable to bring essentials such as sunscreen, hats, and plenty of water, especially during warmer months. If you plan to swim, don't forget your swimwear and towels.
 
 Seasonal considerations are important; the lake is most popular in the summer, so be prepared for more visitors during this time. If you're visiting in the off-season, check the weather and dress accordingly, as temperatures can vary.
 

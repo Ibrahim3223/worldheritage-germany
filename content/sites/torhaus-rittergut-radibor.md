@@ -44,7 +44,7 @@ Moreover, the Torhaus contributes to the understanding of local architectural st
 
 The Torhaus is a classic example of a gatehouse, characterized by its robust construction and functional design. Its architecture showcases the typical features associated with such structures, including thick walls and a prominent entrance. While specific architectural elements may vary, the gatehouse is generally designed to provide both security and a grand entrance to the Rittergut Radibor estate.
 
-Visitors will appreciate the careful craftsmanship that has gone into the building’s design. The use of local materials and traditional building techniques is evident, reflecting the regional style and the historical context in which it was built. The architecture of the Torhaus often includes elements such as arched doorways, decorative stonework, and possibly even remnants of defensive features like arrow slits, which served to protect the estate from potential threats.
+Visitors will appreciate the careful craftsmanship that has gone into the building's design. The use of local materials and traditional building techniques is evident, reflecting the regional style and the historical context in which it was built. The architecture of the Torhaus often includes elements such as arched doorways, decorative stonework, and possibly even remnants of defensive features like arrow slits, which served to protect the estate from potential threats.
 
 The overall aesthetic of the Torhaus is likely to evoke a sense of nostalgia, as it embodies the characteristics of medieval architecture in Germany. As you explore the gatehouse, take note of the details that speak to its history, from the weathered stone to the structural elements that have withstood the test of time. 
 
@@ -80,7 +80,7 @@ To avoid crowds, plan your visit during weekdays rather than weekends. This can 
 
 Before your visit to the Torhaus, ensure you bring comfortable walking shoes, as you may want to explore the immediate area as well. Weather can vary, so check the forecast and dress accordingly, considering layers for cooler days or rain gear if necessary.
 
-Seasonal considerations may impact your experience, so it’s advisable to check for any special events or seasonal hours that may affect your visit. 
+Seasonal considerations may impact your experience, so it's advisable to check for any special events or seasonal hours that may affect your visit. 
 
 ## Frequently Asked Questions
 

@@ -32,7 +32,7 @@ The fortification D-6-6426-0032 in Bieberehren is a cultural heritage monument t
 
 Bieberehren, like many villages in the region, has been influenced by various historical events, including territorial disputes and military campaigns. The presence of such a fortification highlights the importance of Bieberehren within the larger narrative of the region's defense mechanisms. Its architecture and layout would have been designed to withstand sieges and assaults, showcasing the military ingenuity of the era.
 
-The fortification’s significance extends beyond its military function; it also serves as a cultural symbol. It represents the communal efforts to safeguard the village and its inhabitants, embodying the resilience and strategic foresight of those who lived in the area. Today, it stands as a reminder of the past, inviting visitors to engage with the history that shaped the landscape of Lower Franconia.
+The fortification's significance extends beyond its military function; it also serves as a cultural symbol. It represents the communal efforts to safeguard the village and its inhabitants, embodying the resilience and strategic foresight of those who lived in the area. Today, it stands as a reminder of the past, inviting visitors to engage with the history that shaped the landscape of Lower Franconia.
 
 ## Architecture and Features
 
@@ -97,7 +97,7 @@ Information about guided tours may vary, so it is advisable to check the officia
 Spring and autumn are ideal times for a visit, offering mild weather and less crowded conditions. Summer can be busy, but it also allows for longer daylight hours.
 
 ### Is it wheelchair accessible?  
-Accessibility information is not specified, so it’s best to check directly with the site or official resources to understand the accommodations available.
+Accessibility information is not specified, so it's best to check directly with the site or official resources to understand the accommodations available.
 
 ### Can I buy tickets online?  
 Ticket purchasing options may vary, so check the official website for details regarding online ticket sales and entrance fees.

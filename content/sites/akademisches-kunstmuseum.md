@@ -62,7 +62,7 @@ The Akademisches Kunstmuseum is ideally situated among several other noteworthy 
    
 2. **Beethoven House**: The birthplace of the legendary composer Ludwig van Beethoven, this museum is dedicated to his life and works, providing visitors with an engaging exploration of his contributions to music.
 
-3. **Poppelsdorf Palace**: Surrounded by beautiful gardens, this baroque palace houses the Bonn University’s mineralogical collection, offering a unique perspective on the intersection of art and science.
+3. **Poppelsdorf Palace**: Surrounded by beautiful gardens, this baroque palace houses the Bonn University's mineralogical collection, offering a unique perspective on the intersection of art and science.
 
 4. **Botanical Gardens**: Located nearby, these gardens provide a tranquil setting for a leisurely stroll, showcasing a variety of plant species from around the world.
 
@@ -76,7 +76,7 @@ For an optimal visit to the Akademisches Kunstmuseum, consider the following tip
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, plan your visit during the week, particularly in the early morning or late afternoon. Weekends tend to draw larger crowds, especially during special exhibitions.
 
-- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the artworks and the museum’s history. Check the official website for scheduling and availability.
+- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the artworks and the museum's history. Check the official website for scheduling and availability.
 
 ## Practical Information
 

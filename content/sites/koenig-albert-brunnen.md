@@ -58,11 +58,11 @@ When planning your visit, consider allocating at least an hour to fully apprecia
 
 While the König-Albert-Brunnen is a highlight of Plauen, there are several other attractions in close proximity worth exploring:
 
-1. **St. John’s Church**: A historic church known for its striking architecture and beautiful stained glass windows, offering insight into the city's religious heritage.
+1. **St. John's Church**: A historic church known for its striking architecture and beautiful stained glass windows, offering insight into the city's religious heritage.
   
 2. **Plauen's City Park**: A nearby green space perfect for leisurely walks and picnics, providing a serene escape from the urban environment.
 
-3. **The Plauen Lace Museum**: Celebrating the city’s famous lace-making tradition, this museum showcases the history and artistry behind this delicate craft.
+3. **The Plauen Lace Museum**: Celebrating the city's famous lace-making tradition, this museum showcases the history and artistry behind this delicate craft.
 
 4. **The Old Town of Plauen**: A charming area filled with historical buildings, shops, and cafes, ideal for those looking to experience the local culture.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the König-Albert-Brunnen, consider these insi
 
 - **Crowd Avoidance**: Weekdays tend to be less crowded compared to weekends, offering a more peaceful experience.
 
-- **Engage with Locals**: Don’t hesitate to strike up a conversation with local residents who frequent the area; they may share fascinating stories about the fountain and its significance.
+- **Engage with Locals**: Don't hesitate to strike up a conversation with local residents who frequent the area; they may share fascinating stories about the fountain and its significance.
 
 ## Practical Information
 

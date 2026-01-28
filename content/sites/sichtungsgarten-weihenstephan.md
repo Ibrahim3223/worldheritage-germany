@@ -68,7 +68,7 @@ Sichtungsgarten Weihenstephan is situated within a region rich in cultural and h
 
 3. **Landschaftspark Weihenstephan**: Adjacent to the botanical garden, this landscape park offers walking trails and green spaces ideal for a leisurely stroll or picnic.
 
-4. **St. George’s Church**: Another historical site, this church is known for its beautiful frescoes and rich history, providing insight into the area's ecclesiastical heritage.
+4. **St. George's Church**: Another historical site, this church is known for its beautiful frescoes and rich history, providing insight into the area's ecclesiastical heritage.
 
 5. **Old Town of Freising**: Explore the charming streets filled with shops, cafés, and historical buildings that reflect the town's long-standing traditions and culture.
 
@@ -80,7 +80,7 @@ To make the most of your visit to Sichtungsgarten Weihenstephan, consider these 
 
 - **Avoiding Crowds**: Weekdays typically see fewer visitors compared to weekends. If possible, visit during the morning hours for a quieter experience.
 
-- **Engage with Staff**: The staff is knowledgeable and passionate about botany. Don’t hesitate to ask questions or seek recommendations about which sections to explore.
+- **Engage with Staff**: The staff is knowledgeable and passionate about botany. Don't hesitate to ask questions or seek recommendations about which sections to explore.
 
 ## Practical Information
 

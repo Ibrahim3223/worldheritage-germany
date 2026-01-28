@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Burg Grumbach, an evocative castle situated in the heart of Germany, invites visitors to explore its storied walls and immerse themselves in the essence of medieval architecture. Perched in the picturesque region of Grumbach, this castle represents a significant piece of the country’s historical narrative, drawing history enthusiasts and curious travelers alike. The castle’s strategic location and enduring structure serve as a reminder of the era’s architectural ingenuity and social dynamics.
+Burg Grumbach, an evocative castle situated in the heart of Germany, invites visitors to explore its storied walls and immerse themselves in the essence of medieval architecture. Perched in the picturesque region of Grumbach, this castle represents a significant piece of the country's historical narrative, drawing history enthusiasts and curious travelers alike. The castle's strategic location and enduring structure serve as a reminder of the era's architectural ingenuity and social dynamics.
 
-As you approach Burg Grumbach, you will be captivated by its majestic presence, which reflects the grandeur of the past while standing resilient against the passage of time. This fortification not only offers a glimpse into the architectural styles of its era but also provides a window into the historical events that shaped the region. Visitors are promised an enriching experience that combines culture, history, and a touch of adventure within the castle’s storied walls.
+As you approach Burg Grumbach, you will be captivated by its majestic presence, which reflects the grandeur of the past while standing resilient against the passage of time. This fortification not only offers a glimpse into the architectural styles of its era but also provides a window into the historical events that shaped the region. Visitors are promised an enriching experience that combines culture, history, and a touch of adventure within the castle's storied walls.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Burg Grumbach's history is woven into the fabric of the region's development, se
 
 The cultural significance of such structures cannot be overstated; they are essential in understanding the social hierarchies and power dynamics of the time. Castles functioned as centers of administration and control, influencing local governance and the economy. The architectural elements and layout of Burg Grumbach reflect the military and residential needs of its occupants, illustrating the blend of functionality and artistry that characterized medieval castle construction.
 
-Throughout the years, Burg Grumbach has likely witnessed numerous historical events, from local skirmishes to more extensive regional conflicts. Its endurance through these events highlights the castle’s role as a symbol of stability and power in a changing landscape. Today, it stands not only as a historical monument but also as a site for education and appreciation of Germany's rich heritage.
+Throughout the years, Burg Grumbach has likely witnessed numerous historical events, from local skirmishes to more extensive regional conflicts. Its endurance through these events highlights the castle's role as a symbol of stability and power in a changing landscape. Today, it stands not only as a historical monument but also as a site for education and appreciation of Germany's rich heritage.
 
 ## Architecture and Features
 

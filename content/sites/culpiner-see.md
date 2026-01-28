@@ -54,7 +54,7 @@ Culpiner See is situated in a region rich with attractions that complement a vis
 
 1. **Mustin Village**: A charming village that offers insights into local culture and history. Enjoy a leisurely walk through its streets, where traditional architecture can be observed.
 
-2. **Lübeck**: A UNESCO World Heritage site, Lübeck is known for its medieval architecture and historic significance. A short drive from Culpiner See, it’s perfect for those looking to explore more of Northern Germany’s heritage.
+2. **Lübeck**: A UNESCO World Heritage site, Lübeck is known for its medieval architecture and historic significance. A short drive from Culpiner See, it's perfect for those looking to explore more of Northern Germany's heritage.
 
 3. **Wakenitz River**: This nearby river is ideal for canoeing and kayaking. The scenic waterways provide a beautiful environment for outdoor activities and nature observation.
 
@@ -76,7 +76,7 @@ For those planning a visit to Culpiner See, consider these insider tips to enhan
 
 When planning your visit to Culpiner See, consider the following practical information to ensure a smooth experience:
 
-- **What to Bring**: Pack essentials such as water, snacks, sunscreen, and comfortable walking shoes. If you plan to swim or engage in water activities, don’t forget your swimwear and towels.
+- **What to Bring**: Pack essentials such as water, snacks, sunscreen, and comfortable walking shoes. If you plan to swim or engage in water activities, don't forget your swimwear and towels.
 
 - **Seasonal Considerations**: Spring and summer are ideal for outdoor activities, while fall offers beautiful foliage. Winter may present colder temperatures, so dress accordingly if you choose to visit during this season.
 

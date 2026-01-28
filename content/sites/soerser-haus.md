@@ -28,7 +28,7 @@ image_srcset:
 
 Soerser Haus, a distinguished manor house located in Aachen, Germany, offers a unique glimpse into the architectural and cultural heritage of the region. This Herrenhaus, or manor house, is set against the backdrop of Nordrhein-Westfalen, an area steeped in history and tradition. The structure serves as a remarkable example of the grandeur and elegance associated with the period of its construction, showcasing the lifestyle of the nobility in the past. Visitors to Soerser Haus can expect to engage with its rich history while enjoying the serene environment that surrounds this impressive estate.
 
-Situated at coordinates 50.803611111, 6.093611111, Soerser Haus is accessible to those exploring the cultural landscape of Aachen. The manor’s significance extends beyond its architectural beauty; it represents the social fabric of the region, reflecting the customs and lifestyles of its former inhabitants. Whether you are an architecture enthusiast, a history buff, or simply seeking a peaceful escape, Soerser Haus promises an enriching experience.
+Situated at coordinates 50.803611111, 6.093611111, Soerser Haus is accessible to those exploring the cultural landscape of Aachen. The manor's significance extends beyond its architectural beauty; it represents the social fabric of the region, reflecting the customs and lifestyles of its former inhabitants. Whether you are an architecture enthusiast, a history buff, or simply seeking a peaceful escape, Soerser Haus promises an enriching experience.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ A visit to Soerser Haus can be complemented by exploring other notable attractio
 
 4. **Ludwig Forum für Internationale Kunst**: A contemporary art museum that offers a diverse range of exhibitions and programs, making it a great stop for art enthusiasts.
 
-5. **Aachen Town Hall**: An impressive example of Gothic architecture, this historic building is home to various exhibits related to the city’s rich history.
+5. **Aachen Town Hall**: An impressive example of Gothic architecture, this historic building is home to various exhibits related to the city's rich history.
 
 ## Insider Tips
 

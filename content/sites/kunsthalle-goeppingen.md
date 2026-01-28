@@ -40,7 +40,7 @@ In addition to its galleries, Kunsthalle Göppingen may also feature areas for e
 
 ## Visiting Information
 
-Kunsthalle Göppingen is accessible to visitors looking to explore contemporary art. While specific details about transport options, hours of operation, and ticket prices are not provided, it’s advisable to check the official website for current information before planning your visit. 
+Kunsthalle Göppingen is accessible to visitors looking to explore contemporary art. While specific details about transport options, hours of operation, and ticket prices are not provided, it's advisable to check the official website for current information before planning your visit. 
 
 When visiting, expect to spend a few hours exploring the various exhibitions and installations. The museum's layout allows for a leisurely exploration, making it suitable for both quick visits and more in-depth experiences. The best times to visit may vary, but weekdays often offer a quieter atmosphere, ideal for those who prefer a more intimate viewing experience.
 
@@ -60,13 +60,13 @@ The surrounding area of Göppingen is well-connected, making it easy to reach th
 
 ## Insider Tips
 
-For photography enthusiasts, it’s essential to check the museum's policy regarding photography, as many art institutions have specific guidelines. If permitted, consider visiting during quieter hours to capture the art without distractions from crowds.
+For photography enthusiasts, it's essential to check the museum's policy regarding photography, as many art institutions have specific guidelines. If permitted, consider visiting during quieter hours to capture the art without distractions from crowds.
 
 To avoid larger groups, aim to visit during weekdays or early in the day. This timing allows for a more personal viewing experience, enhancing your appreciation of the exhibitions.
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring comfortable footwear, as you may spend a considerable amount of time walking through the galleries. Seasonal considerations should also be taken into account; dress appropriately for the weather, especially during winter months.
+When planning your visit, it's advisable to bring comfortable footwear, as you may spend a considerable amount of time walking through the galleries. Seasonal considerations should also be taken into account; dress appropriately for the weather, especially during winter months.
 
 If you wish to enhance your experience, consider bringing a notebook or sketchbook. This allows for reflection and personal interpretation of the artworks, which can deepen your engagement with the museum's offerings.
 
@@ -91,7 +91,7 @@ Accessibility information is typically available on the official website; check 
 Ticket purchasing options may be available online; check the official site for current procedures.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are generally available, but it’s best to confirm the amenities on the official website.
+Facilities such as restrooms and cafes are generally available, but it's best to confirm the amenities on the official website.
 
 ### What should I wear?
 Dress comfortably and consider the weather, as you may spend time walking both inside and outside the museum.

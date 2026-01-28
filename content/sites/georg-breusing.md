@@ -60,7 +60,7 @@ Expect to immerse yourself in the maritime heritage of the region as you wander 
 
 While visiting the Georg Breusing, you can take advantage of the nearby attractions that Emden has to offer:
 
-1. **Emden Stadtmuseum**: This city museum provides insights into the local history of Emden, showcasing artifacts and exhibitions that highlight the city’s development over the centuries.
+1. **Emden Stadtmuseum**: This city museum provides insights into the local history of Emden, showcasing artifacts and exhibitions that highlight the city's development over the centuries.
 
 2. **Kunsthalle Emden**: An art museum that houses a collection of modern and contemporary art, making it a perfect stop for art enthusiasts.
 

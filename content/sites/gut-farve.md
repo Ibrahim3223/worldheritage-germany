@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gut Farve, an elegant manor house located in Wangels, Germany, embodies the charm and grandeur of traditional European architecture. This historic site is not just a beautiful structure; it represents a significant piece of the region’s cultural landscape. Surrounded by meticulously maintained grounds, Gut Farve invites visitors to explore its storied past while appreciating the serene beauty of its setting. In a country rich in history, this manor house stands out as an emblem of aristocratic life, offering a glimpse into the lifestyle of the elite during its prime.
+Gut Farve, an elegant manor house located in Wangels, Germany, embodies the charm and grandeur of traditional European architecture. This historic site is not just a beautiful structure; it represents a significant piece of the region's cultural landscape. Surrounded by meticulously maintained grounds, Gut Farve invites visitors to explore its storied past while appreciating the serene beauty of its setting. In a country rich in history, this manor house stands out as an emblem of aristocratic life, offering a glimpse into the lifestyle of the elite during its prime.
 
 Wangels, located in the Schleswig-Holstein region, is known for its picturesque landscapes and proximity to the Baltic Sea. As visitors approach Gut Farve, the tranquil environment sets the stage for a fascinating experience steeped in heritage. Whether you are an architecture enthusiast, a history buff, or simply looking for a peaceful retreat, Gut Farve promises an engaging visit that resonates with the essence of Germany's historical narrative.
 

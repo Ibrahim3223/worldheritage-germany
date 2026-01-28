@@ -61,13 +61,13 @@ These attractions complement a visit to Burg Mörfelden, making it easy to spend
 
 ## Insider Tips
 
-When visiting Burg Mörfelden, photography enthusiasts will find ample opportunities to capture the essence of the castle and its surroundings. However, it’s advisable to be respectful of any guidelines regarding photography that may be in place.
+When visiting Burg Mörfelden, photography enthusiasts will find ample opportunities to capture the essence of the castle and its surroundings. However, it's advisable to be respectful of any guidelines regarding photography that may be in place.
 
 To avoid larger crowds, consider visiting during weekdays or early in the morning. This will allow for a more intimate experience as you explore the castle grounds without the distractions of busier times. Engaging with the site at your own pace can enhance the overall experience, allowing you to soak in the historical ambiance.
 
 ## Practical Information
 
-When planning your visit to Burg Mörfelden, it’s wise to consider what to bring. Comfortable walking shoes are recommended, as exploring the castle and its surroundings may involve uneven terrain. A camera, water, and perhaps a light snack can enhance your visit, especially if you wish to spend an extended period enjoying the area.
+When planning your visit to Burg Mörfelden, it's wise to consider what to bring. Comfortable walking shoes are recommended, as exploring the castle and its surroundings may involve uneven terrain. A camera, water, and perhaps a light snack can enhance your visit, especially if you wish to spend an extended period enjoying the area.
 
 Seasonal considerations should also be taken into account. If you visit during colder months, ensure you dress warmly, while summer visitors may appreciate sun protection due to outdoor exploration. Always check the official website for updates on seasonal hours or any special events that might be taking place during your visit.
 
@@ -77,7 +77,7 @@ Seasonal considerations should also be taken into account. If you visit during c
 Most visitors find that spending a few hours at Burg Mörfelden allows ample time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s wise to check for any specific restrictions upon arrival.
+Photography is typically permitted, but it's wise to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may be available through the official website; check there for details.

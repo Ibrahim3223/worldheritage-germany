@@ -82,7 +82,7 @@ Seasonal considerations are important; the castle may be less accessible during 
 A visit to Altburg typically takes around 2-3 hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any restrictions in certain areas.
+Photography is generally permitted, but it's advisable to be respectful of any restrictions in certain areas.
 
 ### Are there guided tours?
 Check the official website for information on guided tour availability, as offerings may vary.

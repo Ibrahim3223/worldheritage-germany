@@ -28,7 +28,7 @@ image_srcset:
 
 The Hamburg Dungeon offers a unique glimpse into the darker chapters of the city's history, blending storytelling, live actors, and immersive set designs to create an unforgettable experience for visitors. Located in the heart of Hamburg, this museum serves as a reminder of the city's rich yet often grim past, focusing on events such as the Great Fire of 1842 and the infamous plague. With its engaging exhibits and theatrical presentations, the Hamburg Dungeon invites you to explore the city's historical narrative in a way that is both entertaining and educational.
 
-Situated in Hamburg-Mitte, the Dungeon is easily accessible and provides a captivating contrast to the city’s vibrant modernity. This attraction not only entertains but also educates visitors about the local history that shaped Hamburg into what it is today. Expect a blend of fear and fascination as you navigate through its interactive displays and live-action performances, making this an essential stop on your journey through Hamburg.
+Situated in Hamburg-Mitte, the Dungeon is easily accessible and provides a captivating contrast to the city's vibrant modernity. This attraction not only entertains but also educates visitors about the local history that shaped Hamburg into what it is today. Expect a blend of fear and fascination as you navigate through its interactive displays and live-action performances, making this an essential stop on your journey through Hamburg.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ Moreover, the Hamburg Dungeon is part of a broader trend in museums that aim to 
 
 The Hamburg Dungeon's architecture complements its thematic focus, with interior spaces designed to evoke a sense of historical authenticity and atmosphere. Visitors are greeted with darkened interiors and meticulously crafted sets that recreate significant moments in Hamburg's history. The design elements of the Dungeon are integral to its storytelling, with each room presenting a distinct narrative, complete with props and sound effects that enhance the overall experience.
 
-Notable features of the Dungeon include various themed areas that highlight specific events or characters from Hamburg's past. Each section is designed to immerse visitors in the story being told, whether it’s through chilling reenactments or dramatic storytelling. The use of lighting, sound, and animatronics further adds to the immersive quality of the attraction, ensuring that visitors feel fully engaged as they navigate through the different historical episodes.
+Notable features of the Dungeon include various themed areas that highlight specific events or characters from Hamburg's past. Each section is designed to immerse visitors in the story being told, whether it's through chilling reenactments or dramatic storytelling. The use of lighting, sound, and animatronics further adds to the immersive quality of the attraction, ensuring that visitors feel fully engaged as they navigate through the different historical episodes.
 
 The overall aesthetic is both theatrical and educational, combining elements that draw visitors into the narrative while providing historical context. The architecture of the Dungeon, along with its carefully curated exhibits, invites exploration and reflection, making it a significant cultural attraction within Hamburg.
 
@@ -58,7 +58,7 @@ As you prepare for your visit, be sure to check the official website for any spe
 
 When exploring the Hamburg Dungeon, consider also visiting these nearby attractions that offer a broader glimpse into the city's culture and history:
 
-1. **Miniatur Wunderland**: This renowned model railway exhibition features intricately detailed miniature landscapes and is one of Hamburg’s top tourist destinations.
+1. **Miniatur Wunderland**: This renowned model railway exhibition features intricately detailed miniature landscapes and is one of Hamburg's top tourist destinations.
   
 2. **Historic Warehouse District (Speicherstadt)**: A UNESCO World Heritage site, this area is famous for its stunning red-brick warehouses and picturesque canals, offering a glimpse into Hamburg's trading history.
 
@@ -109,7 +109,7 @@ The Dungeon aims to be accessible to all visitors, but it is wise to check the o
 Yes, tickets can be purchased online for convenience. Check the official website for current pricing and availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are available on-site. For dining options, it’s recommended to explore nearby cafes and restaurants after your visit.
+Facilities such as restrooms are available on-site. For dining options, it's recommended to explore nearby cafes and restaurants after your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are advisable, as you will be walking and standing during your exploration of the Dungeon. Dressing in layers can help with varying temperatures within the attraction.

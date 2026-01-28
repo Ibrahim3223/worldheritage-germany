@@ -34,7 +34,7 @@ As you step into the Reichskammergerichtsmuseum, you are greeted by a carefully 
 
 The Reichskammergericht, established in the late medieval period, was a crucial institution in the Holy Roman Empire, acting as a supreme court that adjudicated disputes among the empire's various states and rulers. The museum dedicated to this judicial body highlights its importance in the development of German law and its influence on contemporary legal practices. Though specific dates and events surrounding the institution's inception and evolution are not detailed, it is widely recognized that the Reichskammergericht played a pivotal role in maintaining legal order and resolving conflicts during a time marked by political fragmentation.
 
-The significance of the Reichskammergericht lies not only in its function but also in its contribution to the establishment of legal principles that would later inform modern legal systems. The museum’s exhibits delve into the various cases that were brought before the court, showcasing the complexities of legal disputes in a multi-faceted empire. Visitors can gain insights into how these historical precedents have shaped current legal frameworks in Germany and beyond.
+The significance of the Reichskammergericht lies not only in its function but also in its contribution to the establishment of legal principles that would later inform modern legal systems. The museum's exhibits delve into the various cases that were brought before the court, showcasing the complexities of legal disputes in a multi-faceted empire. Visitors can gain insights into how these historical precedents have shaped current legal frameworks in Germany and beyond.
 
 In addition to its historical relevance, the museum serves as a platform for discussions on justice, law, and their societal implications. It invites visitors to reflect on the evolution of legal thought and the continuing challenges faced by legal systems worldwide. This makes the Reichskammergerichtsmuseum not only a repository of the past but also a forum for engaging with ongoing legal issues.
 
@@ -95,7 +95,7 @@ Guided tours may be available, providing deeper insights into the exhibits and t
 Weekdays generally offer a quieter experience, while weekends may feature special events or guided tours. Consider your preferences when planning your visit.
 
 ### Is it wheelchair accessible?
-Accessibility information should be confirmed through the museum’s official website, as facilities may vary.
+Accessibility information should be confirmed through the museum's official website, as facilities may vary.
 
 ### Can I buy tickets online?
 Ticket purchasing options should be verified on the official website for the most current practices.

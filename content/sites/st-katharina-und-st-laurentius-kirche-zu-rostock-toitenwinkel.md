@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When visiting St. Katharina und St. Laurentius Kirche, it’s advisable to dress modestly, as it is a place of worship. Comfortable footwear is recommended since you might want to explore the church and its surroundings thoroughly. 
+When visiting St. Katharina und St. Laurentius Kirche, it's advisable to dress modestly, as it is a place of worship. Comfortable footwear is recommended since you might want to explore the church and its surroundings thoroughly. 
 
 Seasonal considerations are also important; the church may have different activities or decorations during holidays, which can enhance your visit. Be sure to bring a camera for capturing memories and perhaps a notebook for jotting down reflections or insights gained during your visit.
 
@@ -84,7 +84,7 @@ Seasonal considerations are also important; the church may have different activi
 A visit to St. Katharina und St. Laurentius Kirche typically requires about an hour to fully appreciate the architecture and ambiance.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s advisable to be respectful of worship services and the privacy of other visitors.
+Photography is usually permitted, but it's advisable to be respectful of worship services and the privacy of other visitors.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as these may be available at certain times.
@@ -99,7 +99,7 @@ Accessibility information is not specified, so checking the official website for
 Check the official website for information regarding ticket purchases or entry fees.
 
 ### Are there restrooms and cafes?
-Information on facilities such as restrooms and cafes is not provided; it’s best to verify local amenities before your visit.
+Information on facilities such as restrooms and cafes is not provided; it's best to verify local amenities before your visit.
 
 ### What should I wear?
 Modest attire is recommended, as St. Katharina und St. Laurentius Kirche is a place of worship. Comfortable shoes are also suggested for exploring the area.

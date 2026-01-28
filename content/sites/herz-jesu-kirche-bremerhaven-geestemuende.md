@@ -66,7 +66,7 @@ While exploring the area surrounding Herz-Jesu-Kirche, several other attractions
 
 4. **Zoo am Meer**: A family-friendly destination that combines a traditional zoo experience with a stunning coastal setting. Visitors can enjoy observing a variety of animals while taking in views of the sea.
 
-5. **Fischereihafen**: This vibrant area features a mix of shops, restaurants, and scenic views of the harbor. It’s a great place to relax and enjoy the local cuisine after visiting the church.
+5. **Fischereihafen**: This vibrant area features a mix of shops, restaurants, and scenic views of the harbor. It's a great place to relax and enjoy the local cuisine after visiting the church.
 
 ## Insider Tips
 

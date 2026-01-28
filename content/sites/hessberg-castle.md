@@ -32,7 +32,7 @@ As you delve into the history of Heßberg Castle, you will discover how it has w
 
 ## Architecture and Features
 
-Heßberg Castle showcases the architectural features characteristic of its time, embodying both functionality and aesthetic appeal. Though specific details about construction materials or dimensions are not provided, one can infer that the castle’s structure was designed to withstand sieges while also serving as a residence for nobility.
+Heßberg Castle showcases the architectural features characteristic of its time, embodying both functionality and aesthetic appeal. Though specific details about construction materials or dimensions are not provided, one can infer that the castle's structure was designed to withstand sieges while also serving as a residence for nobility.
 
 The castle likely features typical elements of medieval architecture, such as thick stone walls, battlements, and strategically placed windows for defense. These aspects not only reflect the practical needs of the era but also contribute to the castle's imposing silhouette against the skyline.
 

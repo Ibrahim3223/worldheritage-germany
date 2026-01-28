@@ -38,7 +38,7 @@ Throughout its existence, the Deutschhaus has housed various administrative func
 
 The architecture of the Deutschhaus is a noteworthy representation of the styles prevalent during its construction. The palace features a blend of elements that reflect both functionality and artistic expression. As you approach the building, the grandeur of its facade becomes apparent, characterized by well-defined lines and classic architectural motifs. The use of stone and careful detailing highlights the craftsmanship that went into its construction.
 
-Inside the Deutschhaus, visitors can expect to find well-preserved interiors that echo its historical significance. The layout of the palace is designed to facilitate both public engagements and private functions, showcasing the dual role it has played throughout its history. Notable features include intricately designed rooms that are often used for official events, providing insight into the building’s role in the public life of Mainz. 
+Inside the Deutschhaus, visitors can expect to find well-preserved interiors that echo its historical significance. The layout of the palace is designed to facilitate both public engagements and private functions, showcasing the dual role it has played throughout its history. Notable features include intricately designed rooms that are often used for official events, providing insight into the building's role in the public life of Mainz. 
 
 The exterior is equally impressive, with landscaped areas surrounding the palace that enhance its stately presence. The architecture not only serves aesthetic purposes but also reflects the cultural aspirations of the time, making it a subject of interest for both architecture enthusiasts and casual visitors alike.
 
@@ -62,7 +62,7 @@ While the Deutschhaus is a highlight in Mainz, several nearby attractions comple
 
 4. **Rheinpromenade**: A lovely riverside promenade that offers scenic views of the Rhine River, perfect for a leisurely stroll after your visit to the Deutschhaus.
 
-5. **St. Stephan’s Church**: Known for its stunning stained glass windows designed by Marc Chagall, this church is a short distance away and is well worth the visit for art enthusiasts.
+5. **St. Stephan's Church**: Known for its stunning stained glass windows designed by Marc Chagall, this church is a short distance away and is well worth the visit for art enthusiasts.
 
 ## Insider Tips
 

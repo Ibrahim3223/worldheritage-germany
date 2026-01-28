@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Alte Mißgunst Colliery, located in the small town of Sprockhövel, Germany, stands as a notable example of the region's industrial heritage. This former mine offers a glimpse into the country’s mining history, reflecting the evolution of mining practices and the socio-economic impact of coal mining in Germany. As you approach the site, the remnants of industrial activity evoke a sense of curiosity about the lives of those who once worked here, as well as the broader significance of mining in shaping the communities of the Ruhr area.
+The Alte Mißgunst Colliery, located in the small town of Sprockhövel, Germany, stands as a notable example of the region's industrial heritage. This former mine offers a glimpse into the country's mining history, reflecting the evolution of mining practices and the socio-economic impact of coal mining in Germany. As you approach the site, the remnants of industrial activity evoke a sense of curiosity about the lives of those who once worked here, as well as the broader significance of mining in shaping the communities of the Ruhr area.
 
 The colliery is situated at coordinates 51.3776, 7.26185, placing it conveniently within reach for visitors exploring the surrounding regions. Its significance lies not only in its past but also in its role as a cultural landmark, drawing attention to the industrial development that fueled the growth of nearby towns. By visiting the Alte Mißgunst Colliery, one can appreciate the intricate relationship between industry and community while gaining insights into the historical context of coal mining in Germany.
 
@@ -82,7 +82,7 @@ Additionally, checking the official website for any updates regarding visitor am
 A few hours is typically sufficient to explore the site, although those with a keen interest in mining history may wish to spend longer.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any signs regarding restrictions.
+Photography is generally permitted, but it's advisable to be respectful of any signs regarding restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing insights into the history and significance of the colliery. Check the official website for details.

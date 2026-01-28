@@ -100,7 +100,7 @@ Check the official website for information regarding guided tours, which may enh
 Weekdays are generally quieter, offering a more peaceful experience. Early mornings or late afternoons can also be ideal.
 
 ### Is it wheelchair accessible?
-Specific accessibility details may vary. It’s best to check the official website for current information regarding wheelchair access.
+Specific accessibility details may vary. It's best to check the official website for current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 For the latest information on ticket purchasing, including online options, please refer to the official website.

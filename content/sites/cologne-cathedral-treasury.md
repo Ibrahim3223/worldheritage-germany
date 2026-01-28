@@ -32,11 +32,11 @@ The museum's location within the Altstadt-Nord district enhances its accessibili
 
 ## History and Significance
 
-The Cologne Cathedral Treasury holds not just artifacts, but a narrative woven through the fabric of the city’s spiritual life. While specific historical dates may be elusive, the treasures contained within this museum are intrinsically linked to the Cologne Cathedral, a UNESCO World Heritage site that has stood as a centerpiece of the city for centuries. The cathedral itself has been a vital site for Christian pilgrimage, and the treasury enhances this significance by showcasing items that have been used in liturgical ceremonies and celebrations through the ages.
+The Cologne Cathedral Treasury holds not just artifacts, but a narrative woven through the fabric of the city's spiritual life. While specific historical dates may be elusive, the treasures contained within this museum are intrinsically linked to the Cologne Cathedral, a UNESCO World Heritage site that has stood as a centerpiece of the city for centuries. The cathedral itself has been a vital site for Christian pilgrimage, and the treasury enhances this significance by showcasing items that have been used in liturgical ceremonies and celebrations through the ages.
 
 The collection features a variety of artifacts, including reliquaries, chalices, and vestments. Each piece speaks to the craftsmanship of artisans from different periods, illustrating the evolution of religious art and devotion in the region. The treasury not only reflects the artistic endeavors of the past but also highlights the importance of Cologne as a center of pilgrimage and religious authority in medieval Europe.
 
-In addition to its artistic value, the treasury plays a crucial role in preserving the cultural heritage of Cologne. It serves as a reminder of the city's historical prominence in ecclesiastical matters and its enduring influence throughout European history. This aspect of the treasury makes it a significant destination for those interested in understanding the depth of Cologne’s historical and cultural landscape.
+In addition to its artistic value, the treasury plays a crucial role in preserving the cultural heritage of Cologne. It serves as a reminder of the city's historical prominence in ecclesiastical matters and its enduring influence throughout European history. This aspect of the treasury makes it a significant destination for those interested in understanding the depth of Cologne's historical and cultural landscape.
 
 ## Architecture and Features
 
@@ -72,7 +72,7 @@ When visiting the Cologne Cathedral Treasury, consider bringing a camera to capt
 
 ## Practical Information
 
-When preparing for your visit, comfortable shoes are advisable, as you may spend considerable time walking and standing. Seasonal considerations include checking the weather, as Cologne can experience varying temperatures throughout the year. If you are visiting during the colder months, dressing in layers can enhance your comfort. Additionally, it’s wise to carry a water bottle and perhaps a light snack, as you may find yourself absorbed in the exhibits and wishing to extend your visit.
+When preparing for your visit, comfortable shoes are advisable, as you may spend considerable time walking and standing. Seasonal considerations include checking the weather, as Cologne can experience varying temperatures throughout the year. If you are visiting during the colder months, dressing in layers can enhance your comfort. Additionally, it's wise to carry a water bottle and perhaps a light snack, as you may find yourself absorbed in the exhibits and wishing to extend your visit.
 
 ## Frequently Asked Questions
 

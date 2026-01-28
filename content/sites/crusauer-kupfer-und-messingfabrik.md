@@ -63,7 +63,7 @@ When visiting Crusauer Kupfer- und Messingfabrik, consider exploring these nearb
 1. **Flensburg Firth** - A picturesque waterway that offers opportunities for leisurely walks and scenic views.
 2. **Flensburg Maritime Museum** - Delve into the maritime history of the region and learn about its seafaring traditions.
 3. **Harrislee's Old Town** - A charming area featuring traditional architecture, shops, and cafés that reflect local culture.
-4. **Nordertor** - A historic gate that stands as a reminder of the town’s past, offering a lovely backdrop for photos.
+4. **Nordertor** - A historic gate that stands as a reminder of the town's past, offering a lovely backdrop for photos.
 5. **Bredstedt's Iron Age Burial Mounds** - Explore ancient archaeological sites that provide insight into early settlement patterns in the region.
 
 ## Insider Tips

@@ -72,7 +72,7 @@ To enhance your experience at the Margret-Knoop-Schellbach-Museum, consider thes
 
 - **Crowd Avoidance**: Try to visit during weekdays or early in the day to avoid larger crowds. This will allow for a more personal experience as you engage with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their insights can provide additional context and enrich your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their insights can provide additional context and enrich your understanding of the exhibits.
 
 ## Practical Information
 
@@ -99,7 +99,7 @@ Check the official website for information about guided tours, as these can enha
 Weekdays are generally quieter and may offer a more intimate experience. Early morning visits can also help avoid crowds.
 
 ### Is it wheelchair accessible?
-For specific accessibility features and accommodations, it is best to consult the museum’s official website or contact staff directly.
+For specific accessibility features and accommodations, it is best to consult the museum's official website or contact staff directly.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options, including online availability.

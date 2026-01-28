@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. Early m
 
 ## Practical Information
 
-When visiting Vaterunser-Kirche, it’s advisable to bring a small bag for your personal items, as well as a camera to capture the beauty of the church. Dress modestly, respecting the religious nature of the site, and consider the weather when planning your visit; weather-appropriate clothing will enhance your comfort.
+When visiting Vaterunser-Kirche, it's advisable to bring a small bag for your personal items, as well as a camera to capture the beauty of the church. Dress modestly, respecting the religious nature of the site, and consider the weather when planning your visit; weather-appropriate clothing will enhance your comfort.
 
 If visiting during peak tourist seasons, be prepared for larger crowds at nearby attractions. A flexible schedule can help you navigate busy times more easily, allowing for spontaneous exploration.
 
@@ -103,7 +103,7 @@ Accessibility details may vary; check the official website for the most accurate
 Ticketing information, including online purchasing options, can typically be found on the official website.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and nearby cafes may be limited; it’s advisable to check ahead for available facilities.
+Amenities such as restrooms and nearby cafes may be limited; it's advisable to check ahead for available facilities.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, respecting the church's religious setting. Comfortable footwear is recommended for exploring the area.

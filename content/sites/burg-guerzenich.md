@@ -103,7 +103,7 @@ Accessibility information for Burg Gürzenich may not be detailed; checking the 
 Check the official website for information regarding online ticket purchases and current prices.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be limited; it’s wise to plan accordingly before your visit.
+Facilities such as restrooms and cafes may be limited; it's wise to plan accordingly before your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, particularly if you plan to explore the grounds. Be sure to dress for the weather conditions during your visit.

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Bochum, Germany, the Kriegerdenkmal im Stadtpark stands as a poignant monument commemorating the sacrifices made by soldiers. This site is not simply a structure; it is a space that evokes reflection and respect, encouraging visitors to contemplate the complexities of war and the valor of those who served. Located conveniently within a city park, it provides both a serene environment for contemplation and an opportunity for education about the region’s historical context. 
+In the heart of Bochum, Germany, the Kriegerdenkmal im Stadtpark stands as a poignant monument commemorating the sacrifices made by soldiers. This site is not simply a structure; it is a space that evokes reflection and respect, encouraging visitors to contemplate the complexities of war and the valor of those who served. Located conveniently within a city park, it provides both a serene environment for contemplation and an opportunity for education about the region's historical context. 
 
-As you approach the monument, its presence is felt against the backdrop of Bochum’s urban landscape, inviting both locals and tourists alike to pause and remember. The Kriegerdenkmal serves not only as a tribute to the fallen but also as a reminder of the importance of peace and remembrance in contemporary society. Whether you are a history enthusiast, a traveler seeking to understand the local culture, or simply someone looking for a quiet space to reflect, this monument promises a meaningful experience.
+As you approach the monument, its presence is felt against the backdrop of Bochum's urban landscape, inviting both locals and tourists alike to pause and remember. The Kriegerdenkmal serves not only as a tribute to the fallen but also as a reminder of the importance of peace and remembrance in contemporary society. Whether you are a history enthusiast, a traveler seeking to understand the local culture, or simply someone looking for a quiet space to reflect, this monument promises a meaningful experience.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ While in Bochum, visitors can explore several nearby attractions that complement
 
 2. **Museum Bochum**: This local museum showcases a diverse collection of art and cultural exhibits, providing insight into the region's history and artistic heritage.
 
-3. **Bochum's City Center**: A short distance from the park, the city center offers shopping, dining, and a glimpse of Bochum’s modern urban life.
+3. **Bochum's City Center**: A short distance from the park, the city center offers shopping, dining, and a glimpse of Bochum's modern urban life.
 
 4. **Zeiss Planetarium Bochum**: An engaging destination for those interested in astronomy, this planetarium offers shows and educational programs suitable for all ages.
 

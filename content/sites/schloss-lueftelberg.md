@@ -74,7 +74,7 @@ To avoid larger crowds, plan your visit during weekdays or outside of peak touri
 
 ## Practical Information
 
-Before heading to Schloss Lüftelberg, it’s essential to prepare for your visit. Comfortable walking shoes are recommended, as exploring the grounds may require some walking. Depending on the season, layers may be advisable, as temperatures can fluctuate throughout the day.
+Before heading to Schloss Lüftelberg, it's essential to prepare for your visit. Comfortable walking shoes are recommended, as exploring the grounds may require some walking. Depending on the season, layers may be advisable, as temperatures can fluctuate throughout the day.
 
 Additionally, consider bringing water and snacks, particularly if you plan to spend an extended period at the site. While specific amenities may not be detailed, checking the official website can provide information on facilities such as restrooms or nearby dining options.
 
@@ -99,7 +99,7 @@ Check the official website for specific accessibility information regarding the 
 For ticket purchasing options, check the official website for current details and availability.
 
 ### Are there restrooms and cafes?
-Information about facilities may be available on the official website, so it’s best to check there before your visit.
+Information about facilities may be available on the official website, so it's best to check there before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering layers for variable temperatures. Comfortable footwear is recommended for exploring the grounds.

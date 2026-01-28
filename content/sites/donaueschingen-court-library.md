@@ -20,17 +20,17 @@ images:
 
 ## Overview
 
-The Donaueschingen Court Library, located in the enchanting town of Donaueschingen, Germany, offers a unique glimpse into a significant cultural institution that has played a vital role in the intellectual life of the region. This library is more than just a repository of books; it represents a sanctuary for knowledge and learning, reflecting the rich heritage of its surroundings. The library’s strategic location in the heart of Donaueschingen makes it easily accessible, inviting scholars, history enthusiasts, and tourists alike to explore its collections.
+The Donaueschingen Court Library, located in the enchanting town of Donaueschingen, Germany, offers a unique glimpse into a significant cultural institution that has played a vital role in the intellectual life of the region. This library is more than just a repository of books; it represents a sanctuary for knowledge and learning, reflecting the rich heritage of its surroundings. The library's strategic location in the heart of Donaueschingen makes it easily accessible, inviting scholars, history enthusiasts, and tourists alike to explore its collections.
 
 As a site of cultural importance, the Donaueschingen Court Library serves as a vital resource for researchers and bibliophiles. Its commitment to preserving literary works and historical documents highlights the significance of libraries in safeguarding human knowledge. The library's ambiance—a blend of scholarly pursuit and quiet reflection—promises visitors an enriching experience.
 
 ## History and Significance
 
-The Donaueschingen Court Library has a storied past that underscores its importance in the cultural landscape of Germany. While specific dates of establishment and key events may not be readily available, the library’s role in fostering education and scholarship in the region is well recognized. Historically, libraries have served as intellectual hubs, and the Donaueschingen Court Library is no exception.
+The Donaueschingen Court Library has a storied past that underscores its importance in the cultural landscape of Germany. While specific dates of establishment and key events may not be readily available, the library's role in fostering education and scholarship in the region is well recognized. Historically, libraries have served as intellectual hubs, and the Donaueschingen Court Library is no exception.
 
 The library has been home to a plethora of manuscripts, books, and other literary treasures, reflecting the diverse interests and intellectual pursuits of its patrons over the years. It stands as a testament to the value placed on education and the preservation of knowledge. Institutions such as this library contribute significantly to the cultural fabric of their communities, often becoming focal points for local and regional history.
 
-In addition to its collections, the library has likely participated in various cultural and educational initiatives, collaborating with local schools and universities to promote literacy and research. Such endeavors further illustrate the library’s commitment to community engagement and its role in continuing the tradition of scholarship.
+In addition to its collections, the library has likely participated in various cultural and educational initiatives, collaborating with local schools and universities to promote literacy and research. Such endeavors further illustrate the library's commitment to community engagement and its role in continuing the tradition of scholarship.
 
 ## Architecture and Features
 
@@ -56,13 +56,13 @@ The best times to visit may align with local events or quieter periods, allowing
    
 3. **Museum of Donaueschingen**: This local museum showcases the history and culture of the area, making it a great complement to a visit to the library.
 
-4. **St. John’s Church**: An architectural gem in the town, this church invites visitors to explore its beautiful interior and historical significance.
+4. **St. John's Church**: An architectural gem in the town, this church invites visitors to explore its beautiful interior and historical significance.
 
 5. **The Danube Cycle Path**: For those interested in outdoor activities, the nearby cycle path provides a wonderful way to enjoy the natural beauty of the region.
 
 ## Insider Tips
 
-To make the most of your visit to the Donaueschingen Court Library, consider going during off-peak hours to enjoy a quieter atmosphere. Early mornings or weekday visits may be ideal for avoiding crowds. When it comes to photography, be sure to check the library’s policies, as certain areas may have restrictions. A notebook or device for taking notes can enhance your experience, allowing you to jot down interesting finds or reflections as you explore the collections.
+To make the most of your visit to the Donaueschingen Court Library, consider going during off-peak hours to enjoy a quieter atmosphere. Early mornings or weekday visits may be ideal for avoiding crowds. When it comes to photography, be sure to check the library's policies, as certain areas may have restrictions. A notebook or device for taking notes can enhance your experience, allowing you to jot down interesting finds or reflections as you explore the collections.
 
 ## Practical Information
 

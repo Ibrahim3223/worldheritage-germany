@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Alte Wasserkunst, a prominent cultural heritage monument located in Bautzen, Germany, captures the essence of the region's historical significance through its striking architecture and rich stories. This museum serves as a focal point for exploring the unique heritage of Saxony, showcasing the innovative spirit of the past while inviting modern visitors to reflect on the ingenuity of earlier generations. The Alte Wasserkunst stands not only as a structure of aesthetic appeal but as a testament to the community’s resilience and resourcefulness, symbolizing an era when water management was paramount to urban development.
+The Alte Wasserkunst, a prominent cultural heritage monument located in Bautzen, Germany, captures the essence of the region's historical significance through its striking architecture and rich stories. This museum serves as a focal point for exploring the unique heritage of Saxony, showcasing the innovative spirit of the past while inviting modern visitors to reflect on the ingenuity of earlier generations. The Alte Wasserkunst stands not only as a structure of aesthetic appeal but as a testament to the community's resilience and resourcefulness, symbolizing an era when water management was paramount to urban development.
 
-Situated in Bautzen, known for its medieval architecture and Slavic heritage, the Alte Wasserkunst adds another layer to the city’s narrative. Its location reflects the historical importance of water supply systems in urban planning, which played a critical role in the development of communities throughout Europe. Visitors to the museum can expect an engaging experience that intertwines education and appreciation for the historical context of Bautzen and the surrounding area.
+Situated in Bautzen, known for its medieval architecture and Slavic heritage, the Alte Wasserkunst adds another layer to the city's narrative. Its location reflects the historical importance of water supply systems in urban planning, which played a critical role in the development of communities throughout Europe. Visitors to the museum can expect an engaging experience that intertwines education and appreciation for the historical context of Bautzen and the surrounding area.
 
 ## History and Significance
 
@@ -42,9 +42,9 @@ Throughout the years, Bautzen has maintained its historical character, and the A
 
 The Alte Wasserkunst is characterized by its distinctive tower, which serves as a prominent feature in the Bautzen skyline. This architectural marvel reflects the utilitarian design principles of its time, focusing on functionality while also achieving aesthetic appeal. The structure is constructed from local materials, harmonizing with the surrounding environment and reflecting the craftsmanship of the era.
 
-Visitors will notice the intricate details that adorn the facade, which showcase the artistry involved in its construction. The tower's height not only made it a landmark for the city but also an essential part of the water supply system, facilitating the distribution of water to various parts of Bautzen. The museum’s interior is equally captivating, designed to educate visitors on the historical context of the building and its role in the community.
+Visitors will notice the intricate details that adorn the facade, which showcase the artistry involved in its construction. The tower's height not only made it a landmark for the city but also an essential part of the water supply system, facilitating the distribution of water to various parts of Bautzen. The museum's interior is equally captivating, designed to educate visitors on the historical context of the building and its role in the community.
 
-The Alte Wasserkunst’s architecture embodies the spirit of innovation that has influenced urban design throughout history. As a cultural heritage monument, it stands as a testament to the engineering prowess of its time, providing insight into the techniques and materials used in construction during a pivotal period in Bautzen's development.
+The Alte Wasserkunst's architecture embodies the spirit of innovation that has influenced urban design throughout history. As a cultural heritage monument, it stands as a testament to the engineering prowess of its time, providing insight into the techniques and materials used in construction during a pivotal period in Bautzen's development.
 
 ## Visiting Information
 

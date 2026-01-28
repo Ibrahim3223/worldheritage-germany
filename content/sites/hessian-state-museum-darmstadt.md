@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Hessian State Museum Darmstadt represents a confluence of art, history, and culture, offering visitors a chance to explore a vast range of exhibits that span centuries. Situated in the vibrant city of Darmstadt, Germany, this museum is an integral part of the region’s cultural landscape. Established in the early 19th century, it serves as a custodian of Hessian heritage, showcasing a diverse collection that includes fine arts, applied arts, and natural history.
+The Hessian State Museum Darmstadt represents a confluence of art, history, and culture, offering visitors a chance to explore a vast range of exhibits that span centuries. Situated in the vibrant city of Darmstadt, Germany, this museum is an integral part of the region's cultural landscape. Established in the early 19th century, it serves as a custodian of Hessian heritage, showcasing a diverse collection that includes fine arts, applied arts, and natural history.
 
 Darmstadt itself is a city steeped in history and innovation, known for its contributions to art and science. The museum plays a significant role in this narrative, providing insights into the cultural evolution of the area. With its extensive collection and engaging exhibitions, the Hessian State Museum attracts not only local residents but also international visitors eager to delve into the artistic and historical treasures of Germany.
 
@@ -40,7 +40,7 @@ The museum's significance extends beyond its collections; it represents a commit
 
 In addition to its permanent collections, the museum frequently hosts temporary exhibitions that focus on various themes and artists, ensuring that there is always something new to discover. This adaptability has allowed the museum to remain relevant and dynamic in an ever-changing cultural landscape.
 
-Furthermore, the museum is a vital resource for scholars and researchers, providing access to extensive archives and collections that contribute to the understanding of Hessian art and history. The institution’s dedication to research and education underscores its importance as a cultural hub in Darmstadt and beyond.
+Furthermore, the museum is a vital resource for scholars and researchers, providing access to extensive archives and collections that contribute to the understanding of Hessian art and history. The institution's dedication to research and education underscores its importance as a cultural hub in Darmstadt and beyond.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ When visiting the Hessian State Museum Darmstadt, consider the following tips to
 
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit for weekdays or during off-peak hours. Early mornings or late afternoons tend to be quieter.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights about specific exhibits. They can offer valuable context that can enhance your understanding.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights about specific exhibits. They can offer valuable context that can enhance your understanding.
 
 ## Practical Information
 

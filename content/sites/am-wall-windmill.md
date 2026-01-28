@@ -68,7 +68,7 @@ While visiting Am Wall Windmill, there are several nearby attractions that compl
 
 For those planning to photograph Am Wall Windmill, early morning or late afternoon provides the best natural lighting and fewer crowds. Take time to explore different angles and perspectives to capture the windmill's essence. 
 
-To avoid larger crowds, consider visiting during weekdays rather than weekends or public holidays. This allows for a more intimate experience with the windmill and the surrounding area. If you’re keen on learning more about the windmill's history, look for any scheduled talks or events that might coincide with your visit.
+To avoid larger crowds, consider visiting during weekdays rather than weekends or public holidays. This allows for a more intimate experience with the windmill and the surrounding area. If you're keen on learning more about the windmill's history, look for any scheduled talks or events that might coincide with your visit.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Luther Memorial in Erfurt serves as a poignant tribute to Martin Luther, a pivotal figure in the Protestant Reformation. Located in Germany's picturesque city of Erfurt, this monument commemorates Luther's time in the region, highlighting his profound influence on religion and society. As visitors approach, they are greeted by a striking monument that not only honors Luther's legacy but also invites reflection on the transformative power of faith and ideas.
 
-Erfurt, with its charming medieval architecture and rich cultural heritage, provides an engaging backdrop for this significant site. The memorial is strategically placed to attract both history enthusiasts and casual travelers who may be exploring the city's other historical landmarks. The significance of Luther’s contributions to Christianity underscores the monument’s relevance, making it a must-visit for those interested in understanding the impact of the Reformation on modern society.
+Erfurt, with its charming medieval architecture and rich cultural heritage, provides an engaging backdrop for this significant site. The memorial is strategically placed to attract both history enthusiasts and casual travelers who may be exploring the city's other historical landmarks. The significance of Luther's contributions to Christianity underscores the monument's relevance, making it a must-visit for those interested in understanding the impact of the Reformation on modern society.
 
 Visitors to the Luther Memorial can expect a thought-provoking experience that offers insights into a key moment in European history. The site stands not just as a marker of Luther's life but as a symbol of the enduring quest for spiritual and intellectual freedom.
 
@@ -66,7 +66,7 @@ While visiting the Luther Memorial, travelers can take the opportunity to explor
 
 2. **Augustinian Monastery**: This historic site where Luther lived and worked provides visitors with a glimpse into his life and the monastic practices of the time.
 
-3. **Krämerbrücke (Merchants' Bridge)**: A unique medieval bridge lined with charming shops and galleries, it’s a perfect spot for leisurely strolls and local shopping.
+3. **Krämerbrücke (Merchants' Bridge)**: A unique medieval bridge lined with charming shops and galleries, it's a perfect spot for leisurely strolls and local shopping.
 
 4. **Erfurt Synagogue**: One of the oldest synagogues in Europe, this site offers insight into the Jewish history of the region.
 
@@ -108,7 +108,7 @@ Details on accessibility are not specified; checking the official website for cu
 
 ### Can I buy tickets online?
 
-Information on online ticket purchases is not provided. It’s suggested to check the official website for the latest updates.
+Information on online ticket purchases is not provided. It's suggested to check the official website for the latest updates.
 
 ### Are there restrooms and cafes?
 

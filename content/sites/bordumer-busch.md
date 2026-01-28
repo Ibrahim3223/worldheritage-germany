@@ -105,15 +105,15 @@ Currently, there are no specific guided tours mentioned for Bordumer Busch. Visi
 Spring and autumn are particularly beautiful times to visit, but each season offers unique experiences and landscapes.
 
 ### Is it wheelchair accessible?
-While paths are generally well-maintained, it’s advisable to check the specific accessibility features on the official website, as conditions may vary.
+While paths are generally well-maintained, it's advisable to check the specific accessibility features on the official website, as conditions may vary.
 
 ### Can I buy tickets online?
 Check the official website for details on entry fees and whether tickets can be purchased online.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may not be available directly within the reserve. It’s best to plan ahead and bring your own refreshments.
+Facilities such as restrooms may not be available directly within the reserve. It's best to plan ahead and bring your own refreshments.
 
 ### What should I wear?
-Comfortable walking shoes and weather-appropriate clothing are recommended for a pleasant visit. Don’t forget to prepare for changing weather conditions.
+Comfortable walking shoes and weather-appropriate clothing are recommended for a pleasant visit. Don't forget to prepare for changing weather conditions.
 
 Visiting Bordumer Busch offers a refreshing experience immersed in nature, providing an opportunity to connect with the environment while enjoying the tranquility of this remarkable nature reserve.

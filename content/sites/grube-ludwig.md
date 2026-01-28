@@ -36,7 +36,7 @@ Grube Ludwig's significance extends beyond its physical exhibits; it serves as a
 
 Mining in the Odenwald region has roots that stretch back centuries, with the area known for its rich mineral deposits. Grube Ludwig stands as a symbol of this heritage, highlighting not only the materials extracted from the earth but also the lives of those who were employed in this demanding field. Through its collections, the museum chronicles the evolution of mining techniques and tools, illustrating how they changed over time due to advancements in technology and shifts in societal needs.
 
-The museum also emphasizes the environmental impact of mining activities, providing a holistic view of the industry. It addresses the balance between economic benefits and ecological responsibilities, a theme that resonates strongly in today’s discussions about sustainable practices. The educational programs and exhibitions at Grube Ludwig are designed to foster awareness and appreciation for the region's industrial history, making it a crucial institution for both locals and tourists alike.
+The museum also emphasizes the environmental impact of mining activities, providing a holistic view of the industry. It addresses the balance between economic benefits and ecological responsibilities, a theme that resonates strongly in today's discussions about sustainable practices. The educational programs and exhibitions at Grube Ludwig are designed to foster awareness and appreciation for the region's industrial history, making it a crucial institution for both locals and tourists alike.
 
 ## Architecture and Features
 

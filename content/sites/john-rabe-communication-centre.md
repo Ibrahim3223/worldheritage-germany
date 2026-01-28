@@ -22,7 +22,7 @@ images:
 
 The John Rabe Communication Centre, situated in the historic city of Heidelberg, Germany, offers an intriguing glimpse into the life and legacy of a remarkable individual during a tumultuous period in history. This museum is dedicated to John Rabe, a key figure in the protection of Chinese civilians during the Nanjing Massacre in 1937. The centre not only serves as a memorial to Rabe's humanitarian efforts but also emphasizes the importance of communication and understanding in times of conflict. Visitors to the museum can expect an informative experience that explores themes of compassion, ethics, and the impact of individual actions on a global scale.
 
-Heidelberg itself is renowned for its scenic beauty and rich history, making it an ideal backdrop for the John Rabe Communication Centre. The city is home to Germany's oldest university and a variety of architectural landmarks, attracting both history buffs and casual tourists alike. The museum’s location adds to its significance, as Heidelberg has long been a center of cultural exchange and intellectual discourse, enhancing the themes explored within the exhibits.
+Heidelberg itself is renowned for its scenic beauty and rich history, making it an ideal backdrop for the John Rabe Communication Centre. The city is home to Germany's oldest university and a variety of architectural landmarks, attracting both history buffs and casual tourists alike. The museum's location adds to its significance, as Heidelberg has long been a center of cultural exchange and intellectual discourse, enhancing the themes explored within the exhibits.
 
 As you navigate through the John Rabe Communication Centre, you will encounter a thoughtful collection of artifacts, documents, and multimedia presentations that delve into Rabe's life and the broader historical context of his actions. This museum promises not only to educate but also to inspire reflection on the power of humanity in the face of adversity.
 
@@ -72,7 +72,7 @@ To avoid larger crowds, consider visiting during weekdays rather than weekends. 
 
 ## Practical Information
 
-When planning your visit to the John Rabe Communication Centre, it’s advisable to bring along a light jacket or sweater, as indoor temperatures can vary. Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions after your museum visit.
+When planning your visit to the John Rabe Communication Centre, it's advisable to bring along a light jacket or sweater, as indoor temperatures can vary. Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions after your museum visit.
 
 Seasonal considerations are also important; spring and autumn offer pleasant weather for exploring Heidelberg, while summer can be busy with tourists. Regardless of the season, the museum's focus on education and reflection makes it an enriching experience year-round.
 

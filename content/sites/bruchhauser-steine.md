@@ -84,7 +84,7 @@ Before heading to the Bruchhauser Steine, it's wise to prepare adequately for yo
   
 - **Seasonal Considerations**: Be prepared for changing weather conditions. In colder months, dress in layers to stay warm, and check forecasts to ensure a pleasant visit.
   
-- **Safety Precautions**: Always be cautious around the rock formations, particularly if climbing or exploring. It’s advisable to keep a safe distance from the edges of cliffs.
+- **Safety Precautions**: Always be cautious around the rock formations, particularly if climbing or exploring. It's advisable to keep a safe distance from the edges of cliffs.
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Yes, photography is encouraged, particularly to capture the unique features of t
 
 ### Are there guided tours?
 
-Check the official website for information on guided tour options, which may enhance your understanding of the site’s significance.
+Check the official website for information on guided tour options, which may enhance your understanding of the site's significance.
 
 ### What's the best time to visit?
 

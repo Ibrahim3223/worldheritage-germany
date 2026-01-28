@@ -54,7 +54,7 @@ While visiting the Töpfermuseum Breitscheid, consider exploring other attractio
 
 1. **Local Pottery Workshops**: Engage with local artisans in nearby workshops where you can observe traditional pottery techniques in practice and even try your hand at creating your own piece.
 
-2. **Historic Town Center**: Stroll through Breitscheid’s historic town center, where charming architecture and local shops offer a glimpse into the village's past.
+2. **Historic Town Center**: Stroll through Breitscheid's historic town center, where charming architecture and local shops offer a glimpse into the village's past.
 
 3. **Local Parks**: Enjoy the surrounding nature in local parks, providing a serene environment for relaxation and reflection after your museum visit.
 

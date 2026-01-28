@@ -44,7 +44,7 @@ The Hakenberg Victory Column is characterized by its distinctive tower structure
 
 Visitors to the Hakenberg Victory Column will likely observe the craftsmanship that has gone into its construction, with attention to detail reflecting the artistic styles of the period in which it was built. As with many victory columns, the tower may also include inscriptions or reliefs that convey messages of remembrance or honor.
 
-The setting of the column in the Brandenburg countryside further enhances its architectural appeal, as it stands against a backdrop of natural beauty. The combination of the tower’s design and its surroundings creates a compelling visual experience for those who visit. Whether viewed from a distance or up close, the Hakenberg Victory Column invites contemplation and appreciation of its historical and architectural significance.
+The setting of the column in the Brandenburg countryside further enhances its architectural appeal, as it stands against a backdrop of natural beauty. The combination of the tower's design and its surroundings creates a compelling visual experience for those who visit. Whether viewed from a distance or up close, the Hakenberg Victory Column invites contemplation and appreciation of its historical and architectural significance.
 
 ## Visiting Information
 
@@ -78,7 +78,7 @@ For an optimal visit to the Hakenberg Victory Column, consider these insider tip
 
 ## Practical Information
 
-When planning your visit to the Hakenberg Victory Column, it’s essential to come prepared. Here are some practical considerations:
+When planning your visit to the Hakenberg Victory Column, it's essential to come prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as exploring the site may involve some walking. Also, bringing a water bottle and light snacks can enhance your experience.
 
@@ -93,7 +93,7 @@ A visit to the Hakenberg Victory Column typically lasts between one to two hours
 Yes, photography is generally allowed at the Hakenberg Victory Column, making it a great opportunity to capture the beauty of the tower and its surroundings.
 
 ### Are there guided tours?
-While specific information about guided tours is not available, visitors may find self-guided materials or signage that provides insight into the column’s history and significance.
+While specific information about guided tours is not available, visitors may find self-guided materials or signage that provides insight into the column's history and significance.
 
 ### What's the best time to visit?
 Visiting during daylight hours is recommended, with spring and summer being ideal for pleasant weather and optimal outdoor exploration.

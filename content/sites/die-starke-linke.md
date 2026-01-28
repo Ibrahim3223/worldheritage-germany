@@ -28,13 +28,13 @@ image_srcset:
 
 Die starke Linke is a poignant memorial located in Wuppertal, Germany, crafted by the notable artist Alfred Hrdlicka. This artwork in public space serves as a powerful reminder of the complexities of human experiences and societal struggles. Situated in a region known for its rich industrial history and cultural heritage, Die starke Linke invites contemplation and reflection. As visitors approach the memorial, they are greeted with an evocative representation that challenges perceptions and evokes deep emotions. The significance of this memorial extends beyond its physical presence; it embodies themes of resilience and the human spirit, making it an important site for both locals and travelers alike.
 
-Wuppertal, with its unique topography and the famous Schwebebahn (suspension railway), offers an intriguing backdrop for this memorial. The city’s vibrant arts scene complements the memorial’s purpose, creating an environment where art and history intertwine. Visitors to Die starke Linke can expect not only a moment of reflection but also an opportunity to engage with Wuppertal’s broader cultural narrative.
+Wuppertal, with its unique topography and the famous Schwebebahn (suspension railway), offers an intriguing backdrop for this memorial. The city's vibrant arts scene complements the memorial's purpose, creating an environment where art and history intertwine. Visitors to Die starke Linke can expect not only a moment of reflection but also an opportunity to engage with Wuppertal's broader cultural narrative.
 
 ## History and Significance
 
 While specific historical details surrounding Die starke Linke are not extensively documented, the memorial was created by Alfred Hrdlicka, an artist renowned for his thought-provoking works that often address themes of suffering and injustice. Hrdlicka's artistic philosophy emphasizes the importance of confronting uncomfortable truths and the darker aspects of human existence. In creating Die starke Linke, he offers a platform for dialogue about human rights, dignity, and the struggles faced by marginalized communities.
 
-The memorial’s significance lies in its ability to provoke thought and discussion about these critical issues. It stands as an emblem of remembrance, honoring those whose voices have been silenced and those who have fought for justice. In a world often divided by conflicts and ideologies, Die starke Linke serves as a reminder of the universal struggle for equality and recognition. This alignment with broader social themes enhances its relevance, making it a vital part of Wuppertal’s cultural landscape.
+The memorial's significance lies in its ability to provoke thought and discussion about these critical issues. It stands as an emblem of remembrance, honoring those whose voices have been silenced and those who have fought for justice. In a world often divided by conflicts and ideologies, Die starke Linke serves as a reminder of the universal struggle for equality and recognition. This alignment with broader social themes enhances its relevance, making it a vital part of Wuppertal's cultural landscape.
 
 ## Architecture and Features
 

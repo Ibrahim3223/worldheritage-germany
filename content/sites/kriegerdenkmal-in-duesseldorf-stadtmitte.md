@@ -30,7 +30,7 @@ The Kriegerdenkmal in Düsseldorf-Stadtmitte is a poignant monument dedicated to
 
 ## History and Significance
 
-The Kriegerdenkmal is more than just a physical structure; it is emblematic of the collective memory of those who have served in the military. Such monuments are commonplace in Germany, reflecting the nation’s complex relationship with its military history. While specific historical details about the Kriegerdenkmal itself may not be extensively documented, similar monuments typically commemorate not only the individuals who fought but also the ideals for which they stood, including honor, bravery, and the quest for peace.
+The Kriegerdenkmal is more than just a physical structure; it is emblematic of the collective memory of those who have served in the military. Such monuments are commonplace in Germany, reflecting the nation's complex relationship with its military history. While specific historical details about the Kriegerdenkmal itself may not be extensively documented, similar monuments typically commemorate not only the individuals who fought but also the ideals for which they stood, including honor, bravery, and the quest for peace.
 
 In a broader context, Germany's memorials serve a dual purpose: they honor the fallen while also reminding the living of the costs of war. The Kriegerdenkmal is particularly significant in urban landscapes where community engagement and historical memory intersect. Its location in Düsseldorf, a city with a rich cultural and historical tapestry, enhances its role as a site of reflection amidst the hustle and bustle of modern life. 
 
@@ -62,7 +62,7 @@ While the Kriegerdenkmal is a destination in its own right, there are several ne
   
 2. **Düsseldorf City Hall**: A historic building showcasing remarkable architecture and a glimpse into the city's governance and political history.
 
-3. **Schadowstraße**: One of Düsseldorf’s main shopping streets, perfect for those looking to experience the city's vibrant commercial atmosphere.
+3. **Schadowstraße**: One of Düsseldorf's main shopping streets, perfect for those looking to experience the city's vibrant commercial atmosphere.
 
 4. **Hofgarten**: A beautiful public park nearby, ideal for a leisurely stroll or a moment of reflection amidst nature.
 

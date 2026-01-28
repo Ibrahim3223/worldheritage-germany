@@ -68,7 +68,7 @@ When visiting the Berchtesgaden Provostry, consider bringing a camera to capture
 
 ## Practical Information
 
-When preparing for your visit to the Berchtesgaden Provostry, be sure to wear comfortable clothing and footwear suitable for walking, as you may spend time exploring the grounds and nearby attractions. Seasonal considerations are also important; check the weather forecast in advance and dress appropriately for the conditions. It’s advisable to bring water and light snacks, as amenities may be limited within the site.
+When preparing for your visit to the Berchtesgaden Provostry, be sure to wear comfortable clothing and footwear suitable for walking, as you may spend time exploring the grounds and nearby attractions. Seasonal considerations are also important; check the weather forecast in advance and dress appropriately for the conditions. It's advisable to bring water and light snacks, as amenities may be limited within the site.
 
 ## Frequently Asked Questions
 
@@ -76,7 +76,7 @@ When preparing for your visit to the Berchtesgaden Provostry, be sure to wear co
 A visit typically takes a few hours, allowing time to explore the architecture and surroundings comfortably.
 
 ### Is photography allowed?
-Photography policies may vary, particularly in worship areas. It’s best to check for signage or inquire with staff.
+Photography policies may vary, particularly in worship areas. It's best to check for signage or inquire with staff.
 
 ### Are there guided tours?
 Check the official website for information on guided tour availability, which may enhance your understanding of the Provostry's history and significance.
@@ -91,7 +91,7 @@ Information on accessibility is best confirmed by checking the official website 
 For the latest information on ticket purchases, including online options, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check the official website for the most current information.
+Facilities may be available on-site, but it's advisable to check the official website for the most current information.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions for your visit, as you may spend time outdoors.

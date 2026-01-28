@@ -28,7 +28,7 @@ image_srcset:
 
 Futurium, located in the heart of Berlin, Germany, serves as both a museum and a research institute, reflecting the city's commitment to exploring the future. This innovative space invites visitors to engage with the themes of technology, science, and societal change. With its focus on future-oriented research and interactive exhibits, Futurium aims to inspire discussions about what lies ahead for humanity and the environment. The museum is designed to provoke thought and encourage visitors to imagine their role in shaping the future, making it a significant cultural venue in Berlin.
 
-Situated in Bezirk Mitte, Futurium is easily accessible from various parts of the city, allowing both locals and tourists to explore its offerings. The museum’s engaging design and thought-provoking exhibitions create a unique atmosphere for learning and reflection. It stands as a platform for interdisciplinary dialogue, where art, science, and technology converge to present a vision of a sustainable future. Whether you're a local resident or a traveler, a visit to Futurium promises a captivating experience that challenges perceptions and ignites curiosity about the possibilities that await.
+Situated in Bezirk Mitte, Futurium is easily accessible from various parts of the city, allowing both locals and tourists to explore its offerings. The museum's engaging design and thought-provoking exhibitions create a unique atmosphere for learning and reflection. It stands as a platform for interdisciplinary dialogue, where art, science, and technology converge to present a vision of a sustainable future. Whether you're a local resident or a traveler, a visit to Futurium promises a captivating experience that challenges perceptions and ignites curiosity about the possibilities that await.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ For those considering the best times to visit, early mornings or late afternoons
 
 2. **Reichstag Building**: The seat of the German Parliament, this iconic building features a stunning glass dome that offers panoramic views of Berlin. A visit here can complement your exploration of Futurium's themes of governance and society.
 
-3. **Tiergarten**: This expansive urban park provides a serene escape from the bustling city. Ideal for a leisurely stroll, it’s a perfect spot to reflect on your visit to Futurium.
+3. **Tiergarten**: This expansive urban park provides a serene escape from the bustling city. Ideal for a leisurely stroll, it's a perfect spot to reflect on your visit to Futurium.
 
 4. **Potsdamer Platz**: Known for its modern architecture and vibrant atmosphere, this area features shopping, dining, and entertainment options, making it a lively complement to your museum visit.
 

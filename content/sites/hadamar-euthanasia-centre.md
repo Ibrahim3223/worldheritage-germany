@@ -28,7 +28,7 @@ image_srcset:
 
 The Hadamar Euthanasia Centre, located in Hadamar, Germany, stands as a stark reminder of one of the darkest chapters in human history. This museum is situated in Hesse, the site of a Nazi extermination center that operated from 1941 to 1945 during World War II. As you approach the center, it becomes evident that this location is not merely a museum; it is a somber memorial to the victims of a systematic campaign against those deemed "unfit" by the Nazi regime. The significance of this site extends beyond its historical context; it serves as a crucial educational platform that confronts visitors with the realities of genocide, urging reflection on the moral responsibilities of society.
 
-The Hadamar Euthanasia Centre offers a unique opportunity to engage with the past, providing insights into how ideologies can manifest in devastating ways. Visitors can expect a profound experience as they navigate through the exhibits and learn about the impact of these events on countless lives. The center’s mission is not only to preserve history but also to foster discussions about ethics, human rights, and the importance of remembrance.
+The Hadamar Euthanasia Centre offers a unique opportunity to engage with the past, providing insights into how ideologies can manifest in devastating ways. Visitors can expect a profound experience as they navigate through the exhibits and learn about the impact of these events on countless lives. The center's mission is not only to preserve history but also to foster discussions about ethics, human rights, and the importance of remembrance.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ While the Hadamar Euthanasia Centre is a focal point of historical significance,
 
 When planning a visit to the Hadamar Euthanasia Centre, consider these insider tips to enhance your experience:
 
-- **Photography**: Be mindful of the museum's policies regarding photography, as some areas may be designated for reflection rather than documentation. It’s advisable to check the guidelines upon arrival.
+- **Photography**: Be mindful of the museum's policies regarding photography, as some areas may be designated for reflection rather than documentation. It's advisable to check the guidelines upon arrival.
 
 - **Crowd Avoidance**: To avoid crowds, aim for early morning visits, particularly on weekdays. This will allow for a more personal experience as you engage with the exhibits.
 
@@ -92,7 +92,7 @@ When preparing for your visit to the Hadamar Euthanasia Centre, consider the fol
 Visitors are encouraged to allocate at least two hours to fully engage with the exhibits and the material presented.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the specific guidelines upon arrival.
+Photography policies may vary, so it's best to check the specific guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may be offered at certain times or during special events.
@@ -101,7 +101,7 @@ Check the official website for information on guided tours, as they may be offer
 Weekdays, especially in the mornings, tend to be less crowded, allowing for a more reflective experience.
 
 ### Is it wheelchair accessible?
-The museum aims to be accessible to all visitors, but it’s advisable to check the official website for detailed accessibility information.
+The museum aims to be accessible to all visitors, but it's advisable to check the official website for detailed accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for current ticket purchasing options, as online sales may be available.

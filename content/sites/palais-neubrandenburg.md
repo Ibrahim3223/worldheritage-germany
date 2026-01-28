@@ -56,9 +56,9 @@ The best times to visit are typically during the warmer months when the gardens 
 
 ## Nearby Attractions
 
-1. **St. Mary’s Church**: Located not far from the palace, this church is known for its striking architecture and historical significance, making it a worthwhile stop for visitors interested in religious heritage.
+1. **St. Mary's Church**: Located not far from the palace, this church is known for its striking architecture and historical significance, making it a worthwhile stop for visitors interested in religious heritage.
 
-2. **Neubrandenburg City Wall**: This historic wall, which once fortified the city, is a remarkable structure that provides insight into the city’s past and offers pleasant views.
+2. **Neubrandenburg City Wall**: This historic wall, which once fortified the city, is a remarkable structure that provides insight into the city's past and offers pleasant views.
 
 3. **The Cultural Centre**: This venue hosts various cultural events, exhibitions, and performances, providing an opportunity to engage with the local arts scene.
 
@@ -85,7 +85,7 @@ A visit to Palais Neubrandenburg typically takes about 2-3 hours, allowing time 
 Photography is usually permitted, but always check for specific restrictions in certain areas of the palace.
 
 ### Are there guided tours?
-Guided tours may be available, offering deeper insights into the palace’s history and architecture.
+Guided tours may be available, offering deeper insights into the palace's history and architecture.
 
 ### What's the best time to visit?
 The warmer months are ideal for enjoying the gardens, but each season has its own appeal.

@@ -82,7 +82,7 @@ When preparing for your visit to Gut Seekamp, keep the following tips in mind:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you may want to explore the grounds. A camera for capturing the architecture and gardens is also recommended.
 
-- **Seasonal Considerations**: If visiting in winter, dress warmly as temperatures can be low. In summer, light clothing will be more comfortable, but don’t forget to bring sunscreen and water.
+- **Seasonal Considerations**: If visiting in winter, dress warmly as temperatures can be low. In summer, light clothing will be more comfortable, but don't forget to bring sunscreen and water.
 
 ## Frequently Asked Questions
 

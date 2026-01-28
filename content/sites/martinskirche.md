@@ -44,7 +44,7 @@ Martinskirche is characterized by its traditional church architecture, which exh
 
 Inside, the layout of Martinskirche is likely designed to facilitate communal worship, with a spacious nave and areas for seating that encourage congregation participation. Though the specific interior details are not provided, many churches of this type often include beautiful stained glass windows, wooden altars, and religious iconography that enhance the spiritual ambiance. 
 
-One notable aspect of church buildings is their ability to serve as cultural repositories. Within Martinskirche, one might discover various artifacts or artworks that reflect the religious and cultural history of Bunde. The church’s design and features likely embody the values and traditions of the community, making it a significant place for reflection and connection.
+One notable aspect of church buildings is their ability to serve as cultural repositories. Within Martinskirche, one might discover various artifacts or artworks that reflect the religious and cultural history of Bunde. The church's design and features likely embody the values and traditions of the community, making it a significant place for reflection and connection.
 
 ## Visiting Information
 

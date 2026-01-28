@@ -36,7 +36,7 @@ With a commitment to honoring the legacy of the Kennedys, this museum stands out
 
 The Kennedy family rose to prominence in the early to mid-20th century, becoming synonymous with American political power and public service. John F. Kennedy, the 35th President of the United States, is perhaps the most recognized figure of the family. His presidency marked a pivotal time in American history, characterized by significant events such as the Cuban Missile Crisis and the civil rights movement.
 
-The family's connection to Germany deepened during John F. Kennedy's presidency, particularly with his famous speech in West Berlin in 1963, where he declared, “Ich bin ein Berliner.” This declaration symbolized American support for West Germany during the Cold War and underscored the importance of Berlin as a focal point in the struggle against communism. The Kennedys’ engagement with Germany is a recurring theme throughout the museum, reflecting the intricate ties formed during a tumultuous period in history.
+The family's connection to Germany deepened during John F. Kennedy's presidency, particularly with his famous speech in West Berlin in 1963, where he declared, "Ich bin ein Berliner." This declaration symbolized American support for West Germany during the Cold War and underscored the importance of Berlin as a focal point in the struggle against communism. The Kennedys' engagement with Germany is a recurring theme throughout the museum, reflecting the intricate ties formed during a tumultuous period in history.
 
 Beyond John F. Kennedy, the museum also highlights the contributions of his siblings, including Robert F. Kennedy and Edward M. Kennedy, to American politics and society. Each family member's unique story is interwoven with the larger narrative of the family's influence on American life, as well as their connections to international affairs.
 
@@ -80,7 +80,7 @@ To make the most of your visit to The Kennedys museum, consider the following in
 When preparing for your visit to The Kennedys museum, consider the following practical information:
 
 - **What to Bring**: Carry a small bag for personal items, as large backpacks may not be permitted. A notebook or digital device for jotting down insights may enhance your experience.
-- **Seasonal Considerations**: The museum is open year-round, but be mindful of Berlin’s weather, especially in winter months when it can be quite cold. Dress in layers for comfort during your visit.
+- **Seasonal Considerations**: The museum is open year-round, but be mindful of Berlin's weather, especially in winter months when it can be quite cold. Dress in layers for comfort during your visit.
 
 ## Frequently Asked Questions
 
@@ -97,7 +97,7 @@ Check the official website for information on guided tour availability and any a
 Weekdays, especially in the early afternoon, are often less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s advisable to check the official website for specific accommodations.
+The museum is designed to be accessible, but it's advisable to check the official website for specific accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Check the official website for the latest information on ticket sales.

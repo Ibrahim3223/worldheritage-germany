@@ -28,7 +28,7 @@ image_srcset:
 
 Ehrenhain is a poignant memorial located in Bad Schwartau, Germany, dedicated to honoring lives affected by conflict and loss. This site serves as a reflective space for visitors to contemplate history and its impacts on society. The memorial is strategically placed within a region that carries its own historical significance, adding layers to its importance. As you approach Ehrenhain, you'll find an environment conducive to quiet reflection and remembrance, inviting visitors to engage with its somber narrative. 
 
-This memorial not only commemorates those who have suffered but also encourages dialogue about peace and reconciliation in a world often marred by division. With its design and surrounding landscape, Ehrenhain stands as a significant cultural landmark, worthy of exploration for history enthusiasts, families, and anyone looking to understand the deeper implications of humanity’s past.
+This memorial not only commemorates those who have suffered but also encourages dialogue about peace and reconciliation in a world often marred by division. With its design and surrounding landscape, Ehrenhain stands as a significant cultural landmark, worthy of exploration for history enthusiasts, families, and anyone looking to understand the deeper implications of humanity's past.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ Ehrenhain is accessible to visitors looking to engage with its historical and cu
 
 When planning a visit, it's advisable to check the official website for current information regarding hours of operation and any potential fees. Visitors can expect to spend a reasonable amount of time engaging with the memorial, allowing for personal reflection and exploration of the surrounding area.
 
-The best times to visit Ehrenhain may vary, but periods of good weather often enhance the experience, allowing for outdoor contemplation. It’s also beneficial to visit during less busy times to fully immerse oneself in the memorial's atmosphere without distractions.
+The best times to visit Ehrenhain may vary, but periods of good weather often enhance the experience, allowing for outdoor contemplation. It's also beneficial to visit during less busy times to fully immerse oneself in the memorial's atmosphere without distractions.
 
 ## Nearby Attractions
 

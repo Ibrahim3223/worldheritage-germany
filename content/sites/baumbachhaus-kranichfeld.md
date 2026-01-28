@@ -74,7 +74,7 @@ Photography may be permitted in certain areas, but be sure to check for any rest
 
 ## Practical Information
 
-When preparing for your visit to Baumbachhaus Kranichfeld, it’s advisable to bring a camera, a notebook for jotting down notes, and comfortable walking shoes. Depending on the season, dress appropriately for the weather, as conditions can vary significantly. 
+When preparing for your visit to Baumbachhaus Kranichfeld, it's advisable to bring a camera, a notebook for jotting down notes, and comfortable walking shoes. Depending on the season, dress appropriately for the weather, as conditions can vary significantly. 
 
 If you plan to explore the surrounding area, consider bringing a picnic or snacks, as dining options may be limited nearby. Always check for seasonal events or special exhibits that might enhance your visit.
 
@@ -87,7 +87,7 @@ Most visitors typically spend about one to two hours at Baumbachhaus Kranichfeld
 Photography policies can vary, so it's best to check for any specific restrictions upon arrival at the museum.
 
 ### Are there guided tours?
-Information regarding guided tours may be available on the museum’s official website or at the entrance.
+Information regarding guided tours may be available on the museum's official website or at the entrance.
 
 ### What's the best time to visit?
 The ideal time to visit may depend on personal preference, but spring and autumn generally offer pleasant weather and fewer crowds.

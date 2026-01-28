@@ -30,7 +30,7 @@ Burg Königsegg, a remarkable castle situated in Guggenhausen, Germany, invites 
 
 As you approach Burg Königsegg, you will be greeted by its imposing silhouette against the backdrop of the German landscape. The castle stands as an important landmark, reflecting the historical narratives that have unfolded in this part of the country. Visitors will find that the castle's ambiance embodies the spirit of the era it was built in, making it a significant site for both history enthusiasts and casual travelers alike. 
 
-Whether you are drawn by the allure of its architecture, the significance of its historical context, or simply the desire to explore a vital piece of Germany’s heritage, Burg Königsegg promises an enriching experience. 
+Whether you are drawn by the allure of its architecture, the significance of its historical context, or simply the desire to explore a vital piece of Germany's heritage, Burg Königsegg promises an enriching experience. 
 
 ## History and Significance
 

@@ -42,7 +42,7 @@ The church stands as an emblem of resilience and continuity, having witnessed va
 
 Mariä Heimsuchung exhibits architectural elements that reflect the style typical of ecclesiastical buildings in the area. Although specific architectural details are not provided, churches in this region often showcase a blend of Gothic and Romanesque influences, characterized by intricate stonework, tall spires, and stained glass windows.
 
-The interior of the church is likely to feature traditional elements such as wooden pews, an altar, and religious iconography, which collectively create a sacred atmosphere conducive to worship and reflection. The church’s design serves not only functional purposes but also aims to inspire awe among its visitors, inviting them to contemplate their spiritual journey.
+The interior of the church is likely to feature traditional elements such as wooden pews, an altar, and religious iconography, which collectively create a sacred atmosphere conducive to worship and reflection. The church's design serves not only functional purposes but also aims to inspire awe among its visitors, inviting them to contemplate their spiritual journey.
 
 Visitors can expect to explore various aspects of the church, including its artwork and any historical fixtures that may be present. Each feature contributes to the overall narrative of the church and its role in the community, making it a noteworthy subject of study for those interested in architecture and religious history.
 

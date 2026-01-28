@@ -76,9 +76,9 @@ For photography enthusiasts, be mindful of the lighting conditions inside the ch
 
 ## Practical Information
 
-When visiting St. Peter und Paul, it’s advisable to bring a camera to capture the church's architectural beauty and the surrounding area. Since the church is a place of worship, visitors should wear appropriate attire, keeping in mind the reverence of the space.
+When visiting St. Peter und Paul, it's advisable to bring a camera to capture the church's architectural beauty and the surrounding area. Since the church is a place of worship, visitors should wear appropriate attire, keeping in mind the reverence of the space.
 
-Seasonal considerations include checking the weather forecast, as outdoor conditions can affect your travel plans. It’s also wise to check the official website for any seasonal events or special services that may be taking place during your visit.
+Seasonal considerations include checking the weather forecast, as outdoor conditions can affect your travel plans. It's also wise to check the official website for any seasonal events or special services that may be taking place during your visit.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Accessibility information may vary; check the official website for details on wh
 Admission details, including ticket purchasing options, can be found on the official website.
 
 ### Are there restrooms and cafes?
-Nearby facilities may vary; it’s advisable to check local amenities or the official website for information on available services.
+Nearby facilities may vary; it's advisable to check local amenities or the official website for information on available services.
 
 ### What should I wear?
 Visitors should dress modestly and appropriately, considering the church's religious significance.

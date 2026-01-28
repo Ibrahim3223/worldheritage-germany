@@ -32,7 +32,7 @@ Trinitatiskirche Riesa, a significant church building located in the Saxony regi
 
 Trinitatiskirche Riesa is not just a church; it represents a focal point of community life and spiritual reflection for the people of Riesa. While specific historical dates and events may be scarce, the church's role in the cultural landscape of the region cannot be overstated. As a church building, it serves as a gathering place for worship and community events, fostering a sense of belonging among the local population.
 
-The church’s design and ongoing use reflect the evolution of religious practices in Germany, particularly in Saxony. Throughout the years, Trinitatiskirche has likely witnessed numerous significant events, from regular worship services to community gatherings and special ceremonies. This continuity of use adds to its cultural importance, as it remains a vital part of the fabric of Riesa life.
+The church's design and ongoing use reflect the evolution of religious practices in Germany, particularly in Saxony. Throughout the years, Trinitatiskirche has likely witnessed numerous significant events, from regular worship services to community gatherings and special ceremonies. This continuity of use adds to its cultural importance, as it remains a vital part of the fabric of Riesa life.
 
 As you explore the church, you may also ponder its significance in the broader context of German ecclesiastical architecture. The region is known for its rich history of church buildings, each telling its own story through its unique design and community interactions. Trinitatiskirche is an integral part of this narrative, representing the architectural styles and religious sentiments that have permeated German culture.
 
@@ -107,7 +107,7 @@ Check the official website for information on accessibility options at Trinitati
 For the latest information on tickets and entry fees, it is best to consult the official website.
 
 ### Are there restrooms and cafes?
-Local amenities such as restrooms and cafes may be available nearby, but it’s advisable to check ahead.
+Local amenities such as restrooms and cafes may be available nearby, but it's advisable to check ahead.
 
 ### What should I wear?
 Dress comfortably and appropriately for a church setting, keeping in mind weather conditions and potential activities.

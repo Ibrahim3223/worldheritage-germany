@@ -78,7 +78,7 @@ To enhance your visit to the Industriemuseum Lauf, consider the following tips:
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the day can help you avoid larger crowds, allowing for a more personal experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and recommendations for making the most of your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and recommendations for making the most of your visit.
 
 ## Practical Information
 

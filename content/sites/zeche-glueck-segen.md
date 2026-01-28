@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning if th
 
 ## Practical Information
 
-When planning your visit to Zeche Glück & Segen, it’s advisable to wear comfortable clothing and sturdy shoes, as you may need to walk on uneven terrain or explore various structures on-site. 
+When planning your visit to Zeche Glück & Segen, it's advisable to wear comfortable clothing and sturdy shoes, as you may need to walk on uneven terrain or explore various structures on-site. 
 
 Seasonal considerations include checking weather conditions in advance, particularly during winter months when colder temperatures may prevail. Bringing along water and snacks can enhance your visit, especially if you plan to spend a significant amount of time exploring the area.
 

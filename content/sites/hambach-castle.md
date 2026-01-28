@@ -70,13 +70,13 @@ While Hambach Castle stands out as a focal point, several nearby attractions enh
 
 ## Insider Tips
 
-For visitors looking to capture the essence of Hambach Castle through photography, early morning or late afternoon light can provide the most flattering conditions. The castle’s architecture and the views from the tower are particularly photogenic during these times. 
+For visitors looking to capture the essence of Hambach Castle through photography, early morning or late afternoon light can provide the most flattering conditions. The castle's architecture and the views from the tower are particularly photogenic during these times. 
 
 To avoid crowds, consider visiting on weekday mornings when the number of visitors is typically lower. This allows for a more personal experience as you explore the castle and its grounds without the hustle and bustle of larger weekend crowds.
 
 ## Practical Information
 
-When planning your visit to Hambach Castle, it’s wise to bring comfortable walking shoes, as exploring the castle and its surroundings may involve uneven terrain. A light jacket can be useful, especially during the cooler months, as temperatures can drop in the evening.
+When planning your visit to Hambach Castle, it's wise to bring comfortable walking shoes, as exploring the castle and its surroundings may involve uneven terrain. A light jacket can be useful, especially during the cooler months, as temperatures can drop in the evening.
 
 Seasonal considerations should also be taken into account; spring and early autumn are ideal for enjoying the outdoor spaces, while summer can bring larger crowds due to school holidays. 
 
@@ -103,7 +103,7 @@ Some areas of the castle may be accessible for wheelchair users, but it is advis
 Ticket purchasing options may vary, so it is recommended to check the official website for the latest information on ticket availability and purchasing methods.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, and there may also be options for refreshments. It’s best to confirm this on the official website before your visit.
+Facilities such as restrooms may be available on-site, and there may also be options for refreshments. It's best to confirm this on the official website before your visit.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, as you will be exploring both indoor and outdoor spaces. Dress in layers to accommodate changing weather conditions.

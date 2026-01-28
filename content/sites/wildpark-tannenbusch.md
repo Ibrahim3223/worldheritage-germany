@@ -72,7 +72,7 @@ Wildpark Tannenbusch is conveniently located near several attractions that enhan
 
 ## Insider Tips
 
-For photography enthusiasts, Wildpark Tannenbusch offers numerous opportunities to capture stunning images of wildlife. Early morning or late afternoon are often the best times to photograph animals when they are most active. Be mindful of the enclosures and respect the animals’ space to ensure a safe and enjoyable experience for all.
+For photography enthusiasts, Wildpark Tannenbusch offers numerous opportunities to capture stunning images of wildlife. Early morning or late afternoon are often the best times to photograph animals when they are most active. Be mindful of the enclosures and respect the animals' space to ensure a safe and enjoyable experience for all.
 
 To avoid crowds, consider visiting during weekdays, especially outside of school holidays. This timing allows for more personal interactions with the exhibits and less noise, enhancing the overall atmosphere of your visit.
 

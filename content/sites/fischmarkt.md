@@ -28,7 +28,7 @@ image_srcset:
 
 Fischmarkt, located in the heart of Erfurt, Germany, serves as a vibrant square that encapsulates the essence of the city's rich cultural heritage. This bustling plaza is not only a focal point for local residents but also a significant attraction for visitors seeking to immerse themselves in the social and historical fabric of Erfurt. With its charming atmosphere and historical significance, Fischmarkt presents an opportunity to connect with the traditions and daily life of this German city.
 
-Erfurt, the capital of Thuringia, is renowned for its well-preserved medieval architecture and lively marketplaces. Fischmarkt, with its historical buildings and vibrant market activities, has been a central gathering place for centuries. The square often hosts various events and festivities, making it a lively spot throughout the year. As you explore, expect to encounter a blend of local culture, culinary delights, and a backdrop of stunning architecture that reflects the city’s storied past.
+Erfurt, the capital of Thuringia, is renowned for its well-preserved medieval architecture and lively marketplaces. Fischmarkt, with its historical buildings and vibrant market activities, has been a central gathering place for centuries. The square often hosts various events and festivities, making it a lively spot throughout the year. As you explore, expect to encounter a blend of local culture, culinary delights, and a backdrop of stunning architecture that reflects the city's storied past.
 
 Visitors to Fischmarkt can anticipate a dynamic experience where the rhythms of daily life in Erfurt are on full display. Whether you're soaking up the atmosphere, indulging in local fare, or simply enjoying the architectural beauty surrounding you, Fischmarkt promises an engaging and authentic experience.
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning when 
 
 ## Practical Information
 
-When visiting Fischmarkt, it’s advisable to dress comfortably and wear appropriate footwear, as you may spend significant time walking and exploring the square and its surroundings. Seasonal considerations include dressing in layers during colder months, as the weather can be unpredictable.
+When visiting Fischmarkt, it's advisable to dress comfortably and wear appropriate footwear, as you may spend significant time walking and exploring the square and its surroundings. Seasonal considerations include dressing in layers during colder months, as the weather can be unpredictable.
 
 Bringing a reusable water bottle is also a good idea, especially if you plan to spend several hours exploring the area. Additionally, check the official website for any seasonal events or activities that may enhance your visit.
 
@@ -90,11 +90,11 @@ A visit to Fischmarkt typically takes around 1-3 hours, depending on your intere
 
 ### Is photography allowed?
 
-Yes, photography is generally allowed in Fischmarkt. It’s a great opportunity to capture the vibrant market scene and the beautiful architecture surrounding the square.
+Yes, photography is generally allowed in Fischmarkt. It's a great opportunity to capture the vibrant market scene and the beautiful architecture surrounding the square.
 
 ### Are there guided tours?
 
-While Fischmarkt itself may not offer guided tours, it is often included in broader city tours that explore Erfurt’s historical and cultural sites.
+While Fischmarkt itself may not offer guided tours, it is often included in broader city tours that explore Erfurt's historical and cultural sites.
 
 ### What's the best time to visit?
 

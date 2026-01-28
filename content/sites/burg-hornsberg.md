@@ -42,7 +42,7 @@ The significance of Burg Hornsberg extends beyond its physical structure; it emb
 
 Burg Hornsberg showcases classic castle architecture that reflects the styles and construction techniques of its era. While specific architectural details are not provided, the structure likely features elements characteristic of medieval fortifications, such as thick stone walls, a sturdy keep, and possibly defensive features like towers and battlements.
 
-The layout of the castle would have been designed for both defense and residence, with living quarters for nobility and rooms for soldiers and servants. Visitors can expect to see remnants of the castle’s original design, which may include a central courtyard and various chambers that once served crucial functions in daily castle life.
+The layout of the castle would have been designed for both defense and residence, with living quarters for nobility and rooms for soldiers and servants. Visitors can expect to see remnants of the castle's original design, which may include a central courtyard and various chambers that once served crucial functions in daily castle life.
 
 The surrounding landscape is also an essential aspect of Burg Hornsberg's allure. The castle's strategic placement often offers an engaging view of the surrounding area, allowing visitors to appreciate the historical context of its location. Exploring the grounds provides a sense of the castle's historical significance and its role within the local geography.
 

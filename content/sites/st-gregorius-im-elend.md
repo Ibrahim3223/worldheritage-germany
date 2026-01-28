@@ -74,7 +74,7 @@ If you prefer a quieter experience, consider visiting during weekdays when the c
 
 ## Practical Information
 
-When visiting St. Gregorius im Elend, it’s advisable to bring a camera for capturing memories, a notebook for jotting down reflections, and perhaps a light jacket, as church interiors can be cooler. Seasonal considerations may also play a role in your visit; check the weather forecast and dress accordingly.
+When visiting St. Gregorius im Elend, it's advisable to bring a camera for capturing memories, a notebook for jotting down reflections, and perhaps a light jacket, as church interiors can be cooler. Seasonal considerations may also play a role in your visit; check the weather forecast and dress accordingly.
 
 Visitors should remember to respect the sacred nature of the space by observing any posted guidelines regarding behavior and dress code. As always, check the official website for current information before visiting to ensure a smooth experience.
 
@@ -84,7 +84,7 @@ Visitors should remember to respect the sacred nature of the space by observing 
 A visit typically takes about one to two hours, allowing time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to check for any specific restrictions on-site.
+Photography is generally permitted, but it's wise to check for any specific restrictions on-site.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or educational programs that may be available during your visit.

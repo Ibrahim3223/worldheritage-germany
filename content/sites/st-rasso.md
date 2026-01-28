@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Rasso Chapel, located in the quaint village of Schweinegg in the picturesque region of Eisenberg, Germany, serves as a serene reflection of local heritage and spirituality. This modest yet evocative chapel is an integral part of the community, drawing visitors who seek to explore its tranquil atmosphere and rich cultural significance. Set against the backdrop of Eisenberg’s rolling landscapes, the chapel offers a peaceful retreat where one can contemplate the historical and spiritual narratives that have unfolded within its walls over the years.
+St. Rasso Chapel, located in the quaint village of Schweinegg in the picturesque region of Eisenberg, Germany, serves as a serene reflection of local heritage and spirituality. This modest yet evocative chapel is an integral part of the community, drawing visitors who seek to explore its tranquil atmosphere and rich cultural significance. Set against the backdrop of Eisenberg's rolling landscapes, the chapel offers a peaceful retreat where one can contemplate the historical and spiritual narratives that have unfolded within its walls over the years.
 
 The significance of St. Rasso extends beyond its architectural form; it embodies the spiritual traditions and communal life of the region. Visitors can appreciate the chapel as a focal point of local faith as well as a symbol of the artistic expressions prevalent in the area. As you approach this sacred site, you are invited to immerse yourself in the stories it holds and the heritage it represents.
 

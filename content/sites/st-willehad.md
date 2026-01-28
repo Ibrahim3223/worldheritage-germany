@@ -44,7 +44,7 @@ As a church building, St. Willehad showcases a blend of architectural styles tha
 
 The design of St. Willehad likely encourages a sense of verticality, drawing the eye upward and inviting contemplation. Elements such as the altar, nave, and possibly a tower contribute to the overall experience of the church, creating spaces that facilitate both personal reflection and communal worship.
 
-Inside, you may find decorative features that enhance the spiritual ambiance of the church. These could include religious iconography, artwork, and furnishings that contribute to the church’s atmosphere, inviting visitors to immerse themselves in its serene environment. 
+Inside, you may find decorative features that enhance the spiritual ambiance of the church. These could include religious iconography, artwork, and furnishings that contribute to the church's atmosphere, inviting visitors to immerse themselves in its serene environment. 
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While visiting St. Willehad, you may want to explore other attractions in Wilhel
 
 When visiting St. Willehad, consider bringing a camera to capture the architectural beauty of the church. However, be mindful of the atmosphere and other visitors when taking photographs. Early mornings or late afternoons tend to be quieter, making them ideal for photography.
 
-If you're looking to avoid larger crowds, try visiting during weekday mornings. This can provide a more intimate experience, allowing you to appreciate the church’s serenity without the hustle and bustle often found on weekends.
+If you're looking to avoid larger crowds, try visiting during weekday mornings. This can provide a more intimate experience, allowing you to appreciate the church's serenity without the hustle and bustle often found on weekends.
 
 ## Practical Information
 

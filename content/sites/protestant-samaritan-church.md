@@ -81,16 +81,16 @@ The church's commitment to community engagement means that there may be opportun
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically lasts between one to two hours, depending on your interest in exploring the church’s features and attending services or community events.
+A visit typically lasts between one to two hours, depending on your interest in exploring the church's features and attending services or community events.
 
 ### Is photography allowed?
-Yes, photography is generally allowed, but it’s advisable to check for any specific restrictions, especially during services.
+Yes, photography is generally allowed, but it's advisable to check for any specific restrictions, especially during services.
 
 ### Are there guided tours?
-While specific guided tours may not be available, engaging with local congregants can provide valuable insights into the church’s significance and activities.
+While specific guided tours may not be available, engaging with local congregants can provide valuable insights into the church's significance and activities.
 
 ### What's the best time to visit?
-Weekdays during service hours or community events are ideal for experiencing the church’s vibrant atmosphere. 
+Weekdays during service hours or community events are ideal for experiencing the church's vibrant atmosphere. 
 
 ### Is it wheelchair accessible?
 Accessibility features may vary; it's best to check the official website for detailed information regarding wheelchair access.

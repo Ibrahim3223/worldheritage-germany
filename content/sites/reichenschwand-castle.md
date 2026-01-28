@@ -48,7 +48,7 @@ The surrounding grounds of the castle add another layer of charm, featuring land
 
 ## Visiting Information
 
-Reichenschwand Castle is accessible to visitors looking to delve into its rich history and architectural beauty. While specific details regarding operating hours and ticket prices may vary, it’s advisable to check the official website for the most accurate and up-to-date information prior to your visit.
+Reichenschwand Castle is accessible to visitors looking to delve into its rich history and architectural beauty. While specific details regarding operating hours and ticket prices may vary, it's advisable to check the official website for the most accurate and up-to-date information prior to your visit.
 
 When planning your trip, consider the best times to visit, as the castle can attract varying numbers of tourists throughout the year. For a more relaxed experience, visiting during the weekdays or off-peak seasons may be beneficial. 
 
@@ -60,7 +60,7 @@ Expect to spend a few hours at the castle to fully appreciate its features and t
    
 2. **Museum of Communication**: Located in Nuremberg, this museum takes visitors through the evolution of communication methods and technologies.
    
-3. **Albrecht Dürer’s House**: Also in Nuremberg, this former home of the famous artist provides a glimpse into Renaissance life and art.
+3. **Albrecht Dürer's House**: Also in Nuremberg, this former home of the famous artist provides a glimpse into Renaissance life and art.
 
 4. **Bavarian National Museum**: This museum showcases an extensive collection of Bavarian art and cultural history, making it a worthwhile visit for those interested in regional heritage.
 
@@ -84,7 +84,7 @@ Seasonal considerations are also important; warm clothes are advisable during th
 A visit typically lasts a few hours, allowing time to explore the castle and its grounds thoroughly.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s always good to check for any restrictions during your visit.
+Yes, photography is generally permitted, but it's always good to check for any restrictions during your visit.
 
 ### Are there guided tours?
 Guided tours may be available to provide deeper insights into the castle's history and architecture.

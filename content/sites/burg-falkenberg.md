@@ -82,7 +82,7 @@ To enhance your visit to Burg Falkenberg, consider the following tips:
 
 When preparing for your visit to Burg Falkenberg, here are some practical considerations:
 
-- **What to Bring**: It’s wise to carry a camera for photos, bottled water to stay hydrated, and a light jacket for varying weather conditions.
+- **What to Bring**: It's wise to carry a camera for photos, bottled water to stay hydrated, and a light jacket for varying weather conditions.
 
 - **Seasonal Considerations**: Check the weather forecast before your visit. Spring and autumn are often pleasant, while summer can be warm and winter may bring colder temperatures.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Burg Falkenberg, here are some practical consid
 A visit to Burg Falkenberg typically requires a few hours, allowing time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted. However, it’s advisable to check for any specific restrictions upon arrival.
+Yes, photography is generally permitted. However, it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for more information on tour options and schedules.
@@ -109,7 +109,7 @@ Accessibility information may vary; check the official website for details on wh
 Ticket purchasing options may vary. Visit the official website for information on online ticket sales and pricing.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available, but it’s best to confirm specific amenities on the official website.
+Restroom facilities are typically available, but it's best to confirm specific amenities on the official website.
 
 ### What should I wear?
 Dress comfortably and wear suitable footwear, especially if you plan to walk around the castle grounds.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Deichtorhallen stands out as a prominent art museum located in the heart of Hamburg, Germany. This contemporary art exhibition venue is a hub for artistic expression that attracts both local and international visitors. With a focus on showcasing modern art, Deichtorhallen has gained recognition for its diverse range of exhibitions, featuring works from established and emerging artists. The museum is situated in Hamburg-Mitte, an area known for its vibrant cultural scene, making it a significant stop on any art enthusiast’s itinerary.
+Deichtorhallen stands out as a prominent art museum located in the heart of Hamburg, Germany. This contemporary art exhibition venue is a hub for artistic expression that attracts both local and international visitors. With a focus on showcasing modern art, Deichtorhallen has gained recognition for its diverse range of exhibitions, featuring works from established and emerging artists. The museum is situated in Hamburg-Mitte, an area known for its vibrant cultural scene, making it a significant stop on any art enthusiast's itinerary.
 
 The museum's unique architectural design, characterized by its historic elements paired with modern influences, reflects the dynamic nature of the art it houses. As you explore the expansive gallery spaces, you're invited to engage with thought-provoking pieces that challenge perceptions and provoke dialogue. Whether you are an avid art lover or a casual visitor, Deichtorhallen promises an enriching experience that highlights contemporary artistic trends and cultural conversations.
 
@@ -34,7 +34,7 @@ The museum's unique architectural design, characterized by its historic elements
 
 Deichtorhallen's evolution into a leading contemporary art museum is marked by its commitment to innovation and creativity. Originally established in the 19th century as market halls, the buildings were repurposed to serve as an exhibition space, allowing for the display of contemporary artworks. This transformation underscores the adaptive reuse of architectural spaces, a practice that aligns with the museum's ethos of embracing change and modernity.
 
-The museum has played a crucial role in Hamburg's cultural landscape, contributing to the city’s reputation as a center for the arts. It serves as a platform for both international and local artists, fostering a dialogue between different artistic practices and cultural narratives. Deichtorhallen's exhibitions often address pressing social issues, pushing the boundaries of contemporary art and encouraging visitors to reflect on the world around them.
+The museum has played a crucial role in Hamburg's cultural landscape, contributing to the city's reputation as a center for the arts. It serves as a platform for both international and local artists, fostering a dialogue between different artistic practices and cultural narratives. Deichtorhallen's exhibitions often address pressing social issues, pushing the boundaries of contemporary art and encouraging visitors to reflect on the world around them.
 
 In addition to its exhibitions, Deichtorhallen hosts various events, lectures, and workshops, further solidifying its position as a key player in the contemporary art scene. By engaging with the community and promoting artistic dialogue, the museum not only showcases art but also cultivates a deeper understanding of its significance in society.
 

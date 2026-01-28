@@ -82,7 +82,7 @@ If you plan to take photographs, be sure to review any guidelines regarding phot
 A visit to Schloss Demerthin typically requires a few hours to fully appreciate the exhibits and explore the castle.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the official website for specific guidelines regarding photography within the museum.
+Photography policies may vary, so it's best to check the official website for specific guidelines regarding photography within the museum.
 
 ### Are there guided tours?
 Check the official website to see if guided tours are available, along with any associated schedules or fees.

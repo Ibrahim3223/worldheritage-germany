@@ -95,7 +95,7 @@ Accessibility information can be confirmed by checking the official website or c
 Ticketing options may vary, so it is advisable to check the official website for online purchasing possibilities.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available, but it’s best to verify this information on the official website.
+Facilities such as restrooms and cafes may be available, but it's best to verify this information on the official website.
 
 ### What should I wear?
 Dress comfortably, considering the potential for extended walking and standing. Check the weather forecast to dress appropriately for the day.

@@ -28,11 +28,11 @@ image_srcset:
 
 Ehrenmal Buer is a prominent monument located in the heart of Gelsenkirchen, Germany. This monument serves as a focal point for remembrance and reflection, honoring those who have made significant sacrifices throughout history. Its strategic location within the city provides visitors with a unique opportunity to explore both the memorial itself and the vibrant urban environment surrounding it. As a significant cultural landmark, Ehrenmal Buer is not just a site of remembrance but also a testament to the community's resilience and respect for its past.
 
-The monument is an essential part of Gelsenkirchen’s cultural landscape, inviting both residents and visitors to engage with the city's history. Its architectural presence and the stories it embodies make it a must-visit site for those interested in heritage tourism and commemorative monuments. 
+The monument is an essential part of Gelsenkirchen's cultural landscape, inviting both residents and visitors to engage with the city's history. Its architectural presence and the stories it embodies make it a must-visit site for those interested in heritage tourism and commemorative monuments. 
 
 ## History and Significance
 
-Ehrenmal Buer, as a monument, stands as a powerful symbol of remembrance in Gelsenkirchen. Its establishment reflects the community's commitment to honoring those who have contributed to society, especially in times of conflict or hardship. While specific historical details about the monument’s inception may not be readily available, it is clear that such memorials serve a crucial role in fostering collective memory and identity.
+Ehrenmal Buer, as a monument, stands as a powerful symbol of remembrance in Gelsenkirchen. Its establishment reflects the community's commitment to honoring those who have contributed to society, especially in times of conflict or hardship. While specific historical details about the monument's inception may not be readily available, it is clear that such memorials serve a crucial role in fostering collective memory and identity.
 
 The significance of Ehrenmal Buer extends beyond its physical structure; it embodies the communal values of respect, gratitude, and reflection. Monuments like this are often pivotal in local culture, providing a space for ceremonies, commemorations, and public gatherings that reinforce community bonds. The monument not only serves as a memorial but also as a reminder of the importance of history in shaping contemporary society.
 
@@ -66,7 +66,7 @@ While visiting Ehrenmal Buer, consider exploring these nearby attractions in Gel
 
 4. **Veltins-Arena**: Known for hosting sporting events, especially football matches, this arena is a cultural hub in the region and offers tours that highlight its significance in German sports culture.
 
-5. **Schloss Berge**: A historic castle that features beautiful grounds and scenic views, ideal for a leisurely stroll or a deeper exploration of the area’s history.
+5. **Schloss Berge**: A historic castle that features beautiful grounds and scenic views, ideal for a leisurely stroll or a deeper exploration of the area's history.
 
 ## Insider Tips
 

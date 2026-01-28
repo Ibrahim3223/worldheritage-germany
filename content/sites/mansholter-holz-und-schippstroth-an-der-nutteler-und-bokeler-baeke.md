@@ -78,7 +78,7 @@ When planning your visit to Mansholter Holz und Schippstroth, consider bringing 
 
 - **Comfortable clothing and sturdy footwear**: The terrain can vary, so appropriate attire will enhance your enjoyment.
 - **Water and snacks**: While facilities may not be available within the reserve, having refreshments on hand can make for a more enjoyable excursion.
-- **Binoculars and a camera**: These will enhance your experience, especially if you're interested in birdwatching or capturing the landscape’s natural beauty.
+- **Binoculars and a camera**: These will enhance your experience, especially if you're interested in birdwatching or capturing the landscape's natural beauty.
 
 Seasonal considerations are also essential; spring and fall are ideal for observing wildlife and enjoying comfortable weather. Ensure that you check the official website for any specific guidelines or recommendations before your visit.
 

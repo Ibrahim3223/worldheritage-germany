@@ -50,7 +50,7 @@ The brewery's ambiance is further enhanced by its role as an inn, where guests c
 
 Reaching Em Kölsche Boor is straightforward, given its central location in Altstadt-Nord. Public transport options are conveniently available, with several tram and bus lines serving the area. Visitors can also explore the bustling streets on foot, allowing for a more immersive experience of Cologne's vibrant atmosphere.
 
-When planning your visit, it’s advisable to check the official website for current information on hours and prices. The brewery often welcomes guests throughout the day, making it an ideal stop for lunch, dinner, or a casual drink. To fully enjoy the experience, it is recommended to allocate a couple of hours for your visit to savor the offerings and soak in the ambiance.
+When planning your visit, it's advisable to check the official website for current information on hours and prices. The brewery often welcomes guests throughout the day, making it an ideal stop for lunch, dinner, or a casual drink. To fully enjoy the experience, it is recommended to allocate a couple of hours for your visit to savor the offerings and soak in the ambiance.
 
 Em Kölsche Boor is especially lively during weekends and local events, making these times particularly enjoyable for those looking to experience the vibrant social scene. However, if you prefer a quieter atmosphere, visiting during the weekdays may offer a more relaxed experience.
 
@@ -62,7 +62,7 @@ While visiting Em Kölsche Boor, several nearby attractions can enhance your exp
    
 2. **Museum Ludwig**: Located just a short walk away, this museum features an extensive collection of modern art, including works by Picasso and Warhol, making it a perfect stop for art enthusiasts.
 
-3. **Old Town (Altstadt)**: The charming streets of Cologne’s Old Town are filled with historic buildings, shops, and additional breweries. Strolling through this area offers a glimpse into the city's rich history.
+3. **Old Town (Altstadt)**: The charming streets of Cologne's Old Town are filled with historic buildings, shops, and additional breweries. Strolling through this area offers a glimpse into the city's rich history.
 
 4. **Hohenzollern Bridge**: Known for its love locks, this bridge provides an opportunity for picturesque views of the Rhine River and the Cologne skyline.
 

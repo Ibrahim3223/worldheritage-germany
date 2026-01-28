@@ -52,7 +52,7 @@ For those interested in visiting Burg Eschweiler, planning ahead will enhance th
 
 When visiting, expect to spend a few hours exploring the castle and its surroundings. The site offers ample opportunity for leisurely exploration, whether you are delving into the history of the castle or simply enjoying the ambiance of the area. The best times to visit typically coincide with pleasant weather, allowing for a more enjoyable experience as you navigate the castle grounds and take in the sights.
 
-As you make your way to Burg Eschweiler, be sure to consider the surrounding amenities. While specific facilities may not be listed, many castle sites often provide essential visitor services. It’s advisable to check the official website for the latest updates on what to expect during your visit.
+As you make your way to Burg Eschweiler, be sure to consider the surrounding amenities. While specific facilities may not be listed, many castle sites often provide essential visitor services. It's advisable to check the official website for the latest updates on what to expect during your visit.
 
 ## Nearby Attractions
 

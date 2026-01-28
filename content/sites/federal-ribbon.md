@@ -68,7 +68,7 @@ While visiting the Federal Ribbon, there are several noteworthy attractions in c
 
 4. **Holocaust Memorial**: This poignant memorial honors the victims of the Holocaust and provides a reflective space for visitors to engage with history.
 
-5. **Tiergarten**: Berlin’s vast central park offers a serene escape from the urban environment, perfect for a leisurely stroll or a picnic.
+5. **Tiergarten**: Berlin's vast central park offers a serene escape from the urban environment, perfect for a leisurely stroll or a picnic.
 
 ## Insider Tips
 

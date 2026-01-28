@@ -34,7 +34,7 @@ The castle's picturesque setting and architectural features make it a noteworthy
 
 The history of Tomburg Castle is interwoven with the development of the region around Rheinbach. Castles like Tomburg were often constructed in the Middle Ages as military fortifications, serving both a defensive purpose and a symbol of power for local nobility. The castle's position reflects the strategic considerations of the time, as it likely played a role in controlling trade routes and providing security against invasions.
 
-While specific historical dates may be elusive, the castle’s architecture and location indicate its importance during various periods of conflict and governance. Its construction would have involved considerable resources and skill, showcasing the advanced techniques of medieval builders. Over time, Tomburg Castle has witnessed numerous historical events, contributing to the cultural narrative of the region. It stands as a reminder of the socio-political dynamics that shaped the area, particularly in relation to the feudal system that prevailed during the Middle Ages.
+While specific historical dates may be elusive, the castle's architecture and location indicate its importance during various periods of conflict and governance. Its construction would have involved considerable resources and skill, showcasing the advanced techniques of medieval builders. Over time, Tomburg Castle has witnessed numerous historical events, contributing to the cultural narrative of the region. It stands as a reminder of the socio-political dynamics that shaped the area, particularly in relation to the feudal system that prevailed during the Middle Ages.
 
 Tomburg Castle has also captured the attention of historians and archaeologists interested in understanding the medieval way of life. Its preservation allows for ongoing research and exploration, revealing insights into the lifestyle, defense mechanisms, and architectural advancements of the time. Today, it offers a unique lens through which to view the complexities of history in this part of Germany.
 
@@ -54,7 +54,7 @@ Reaching Tomburg Castle is relatively straightforward, with access from nearby R
 
 When planning a visit, it is advisable to check the official website for current information regarding opening hours and admission prices, ensuring a smooth experience. The castle is an engaging site that can typically be explored in a few hours, allowing ample time for exploration and photography.
 
-The best times to visit might align with the mild weather of spring and early autumn, providing comfortable conditions for outdoor exploration. Expect to find well-preserved structures and possible guided tours that enhance the understanding of the castle’s history. 
+The best times to visit might align with the mild weather of spring and early autumn, providing comfortable conditions for outdoor exploration. Expect to find well-preserved structures and possible guided tours that enhance the understanding of the castle's history. 
 
 While exploring the site, visitors should prepare for some walking, as the terrain may require a bit of navigation. Comfortable footwear is recommended to make the most of the visit.
 

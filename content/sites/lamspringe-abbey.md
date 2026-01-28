@@ -38,7 +38,7 @@ Lamspringe Abbey has a rich historical backdrop that dates back to its establish
 
 The Abbey's significance extends beyond its religious functions; it also served as a center of community life. Monasteries were often pivotal in fostering local economies, providing hospitality, and offering refuge during times of strife. The architectural elements of Lamspringe Abbey reflect the styles and practices of the periods through which it has endured, showcasing the evolution of monastic architecture.
 
-The preservation of the Abbey’s church and buildings is a testament to the efforts to maintain the cultural heritage of the area. These structures not only serve as a historical site but also as a venue for community gatherings and cultural events, thus continuing the Abbey's legacy through contemporary practices.
+The preservation of the Abbey's church and buildings is a testament to the efforts to maintain the cultural heritage of the area. These structures not only serve as a historical site but also as a venue for community gatherings and cultural events, thus continuing the Abbey's legacy through contemporary practices.
 
 ## Architecture and Features
 
@@ -105,7 +105,7 @@ A visit typically lasts a few hours, allowing time to explore the church, buildi
 Photography is generally permitted, but always be mindful of any restrictions, especially within religious spaces.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide valuable insights into the site’s history.
+Check the official website for information on guided tours, which can provide valuable insights into the site's history.
 
 ### What's the best time to visit?
 Spring and early autumn are ideal for pleasant weather and a more enjoyable experience.

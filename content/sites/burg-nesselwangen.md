@@ -58,7 +58,7 @@ While visiting Burg Nesselwangen, consider exploring these nearby attractions:
 
 3. **Local Parks and Nature Trails**: Surrounding the castle, various parks and trails provide opportunities for hiking and enjoying the natural beauty of the region.
 
-4. **Other Castles in the Region**: Explore additional castles nearby, each with its unique history and architectural style, further enriching your understanding of the area’s heritage.
+4. **Other Castles in the Region**: Explore additional castles nearby, each with its unique history and architectural style, further enriching your understanding of the area's heritage.
 
 5. **Culinary Experiences**: Indulge in local cuisine at nearby restaurants that celebrate traditional German dishes, enhancing your visit with a taste of the region.
 

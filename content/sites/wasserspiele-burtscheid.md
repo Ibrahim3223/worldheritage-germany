@@ -36,7 +36,7 @@ Visiting the Wasserspiele offers the chance to reflect on the unique blend of hi
 
 The Wasserspiele in Burtscheid has become an integral part of the local cultural landscape, embodying the historical significance of fountains in urban settings. Fountains have long been essential in providing public water access, serving both practical and aesthetic purposes. In many European cities, including Aachen, fountains have been symbols of civic pride and community gathering.
 
-The Burtscheid district has its roots in early medieval times, with its thermal springs drawing visitors for centuries. The Wasserspiele, positioned within this historical context, represents the continuity of the area’s relationship with water. The fountain contributes to the identity of Burtscheid, reflecting the importance of water not only for sustenance but also for social interaction, relaxation, and artistic expression.
+The Burtscheid district has its roots in early medieval times, with its thermal springs drawing visitors for centuries. The Wasserspiele, positioned within this historical context, represents the continuity of the area's relationship with water. The fountain contributes to the identity of Burtscheid, reflecting the importance of water not only for sustenance but also for social interaction, relaxation, and artistic expression.
 
 The architectural style and artistic design of the fountain may reflect local traditions and craftsmanship, emphasizing the community's values and heritage. While specific historical milestones of the Wasserspiele may not be documented, its presence in the Burtscheid district highlights the significance of public art and utility in fostering community spirit.
 
@@ -76,7 +76,7 @@ To fully appreciate the fountain, take a moment to sit on a nearby bench and enj
 
 ## Practical Information
 
-When visiting the Wasserspiele, it’s a good idea to bring a camera to capture the fountain and its surroundings. Comfortable walking shoes are recommended, as you may wish to explore the nearby attractions on foot. 
+When visiting the Wasserspiele, it's a good idea to bring a camera to capture the fountain and its surroundings. Comfortable walking shoes are recommended, as you may wish to explore the nearby attractions on foot. 
 
 Seasonal considerations should be noted; spring and summer months are generally more pleasant for outdoor exploration, while winter may offer a different, quieter experience. 
 

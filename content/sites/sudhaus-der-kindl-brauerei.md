@@ -28,11 +28,11 @@ image_srcset:
 
 The Sudhaus der Kindl-Brauerei serves as a vibrant centre for contemporary art, located in the Neukölln district of Berlin, Germany. This museum is situated within the historical site of the former Kindl Brewery, a venue that has been transformed to foster artistic expression and innovation. With its unique blend of past and present, the Sudhaus not only showcases a diverse range of contemporary art but also pays homage to the industrial heritage of the area. Visitors can expect to engage with thought-provoking exhibitions that challenge perceptions and stimulate dialogue in a setting that reflects the cultural dynamism of modern Berlin.
 
-As a hub for creativity, the Sudhaus der Kindl-Brauerei plays a significant role in Berlin’s contemporary art scene, attracting both local and international visitors. It offers an opportunity to explore the intersection of art and community, making it an essential stop for anyone interested in the evolving landscape of contemporary artistic expression. 
+As a hub for creativity, the Sudhaus der Kindl-Brauerei plays a significant role in Berlin's contemporary art scene, attracting both local and international visitors. It offers an opportunity to explore the intersection of art and community, making it an essential stop for anyone interested in the evolving landscape of contemporary artistic expression. 
 
 ## History and Significance
 
-The Sudhaus der Kindl-Brauerei is located on the site of the former Kindl Brewery, which was established in the late 19th century. The brewery itself was an important part of Neukölln’s industrial development, contributing to the local economy and shaping the community’s identity. Over time, the brewery underwent various transformations until it ceased operations, which left the building vacant and awaiting a new purpose.
+The Sudhaus der Kindl-Brauerei is located on the site of the former Kindl Brewery, which was established in the late 19th century. The brewery itself was an important part of Neukölln's industrial development, contributing to the local economy and shaping the community's identity. Over time, the brewery underwent various transformations until it ceased operations, which left the building vacant and awaiting a new purpose.
 
 The conversion of the Sudhaus into a contemporary art space marks a significant cultural shift. By repurposing the brewery, the museum not only preserves the architectural integrity of the original structure but also revitalizes the area, bringing contemporary art to the forefront of public interest. This initiative reflects a broader trend in Berlin, where former industrial spaces are increasingly being transformed into platforms for cultural engagement.
 
@@ -66,7 +66,7 @@ While visiting the Sudhaus der Kindl-Brauerei, there are several other attractio
 
 4. **Kunsthaus Neukölln**: Another contemporary art space in the district that often hosts exhibitions, workshops, and cultural events, complementing the offerings at the Sudhaus.
 
-5. **Rixdorf**: A historic neighborhood nearby known for its charming architecture and laid-back atmosphere, perfect for those interested in exploring Berlin’s lesser-known areas.
+5. **Rixdorf**: A historic neighborhood nearby known for its charming architecture and laid-back atmosphere, perfect for those interested in exploring Berlin's lesser-known areas.
 
 ## Insider Tips
 

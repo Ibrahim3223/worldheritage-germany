@@ -74,7 +74,7 @@ Benediktbeuern Abbey is ideally situated near several attractions that complemen
 
 4. **Linderhof Palace**: A magnificent palace built by King Ludwig II, showcasing extravagant architecture and beautiful gardens, located not far from the abbey.
 
-5. **Zugspitze**: Germany’s highest peak, offering breathtaking views and a range of outdoor activities, including hiking and skiing, depending on the season.
+5. **Zugspitze**: Germany's highest peak, offering breathtaking views and a range of outdoor activities, including hiking and skiing, depending on the season.
 
 These attractions provide diverse options for those looking to extend their exploration beyond the abbey itself.
 

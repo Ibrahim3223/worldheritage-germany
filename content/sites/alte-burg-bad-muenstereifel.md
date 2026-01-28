@@ -44,7 +44,7 @@ The Alte Burg is characterized by traditional medieval architectural elements th
 
 Visitors will notice the remnants of towers, which served as lookout points and housed defensive mechanisms. The layout typically includes a central courtyard, where daily activities would have taken place, surrounded by living quarters and storage spaces. Such designs were crucial for the castle's functionality as both a home and a stronghold.
 
-While specific architectural details may not be readily available, the overall structure of Alte Burg is emblematic of the era's defensive architecture. The castle’s enduring presence in the landscape speaks to the craftsmanship of medieval builders and their ability to create lasting structures that have withstood the test of time. 
+While specific architectural details may not be readily available, the overall structure of Alte Burg is emblematic of the era's defensive architecture. The castle's enduring presence in the landscape speaks to the craftsmanship of medieval builders and their ability to create lasting structures that have withstood the test of time. 
 
 ## Visiting Information
 

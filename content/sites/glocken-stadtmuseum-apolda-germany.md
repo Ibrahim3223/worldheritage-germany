@@ -32,11 +32,11 @@ Apolda, situated in the Thuringia region of Germany, has long been recognized fo
 
 ## History and Significance
 
-The Glocken-StadtMuseum finds its roots in the tradition of bell making that has been a cornerstone of Apolda’s identity. The city's connection to this craft is profound, with Apolda once being home to several notable bell foundries. Over the years, the industry has shaped not only the economy of the region but also its cultural landscape. Bells have marked important life events, served religious purposes, and even provided a means of communication in communities.
+The Glocken-StadtMuseum finds its roots in the tradition of bell making that has been a cornerstone of Apolda's identity. The city's connection to this craft is profound, with Apolda once being home to several notable bell foundries. Over the years, the industry has shaped not only the economy of the region but also its cultural landscape. Bells have marked important life events, served religious purposes, and even provided a means of communication in communities.
 
 The museum serves as an important educational resource, providing insights into the historical significance of bells and their evolution over time. Visitors can explore how the art of bell making has adapted through various technological advancements and how it continues to influence modern practices. The museum also highlights the community's pride in its heritage and the efforts made to preserve this unique aspect of its history for future generations.
 
-In addition to its focus on bell making, the Glocken-StadtMuseum often engages in community programs and exhibitions that foster a deeper understanding of local crafts and traditions. This commitment to cultural preservation helps to maintain a dialogue about the significance of craftsmanship in contemporary society, making the museum a vital part of Apolda’s cultural landscape.
+In addition to its focus on bell making, the Glocken-StadtMuseum often engages in community programs and exhibitions that foster a deeper understanding of local crafts and traditions. This commitment to cultural preservation helps to maintain a dialogue about the significance of craftsmanship in contemporary society, making the museum a vital part of Apolda's cultural landscape.
 
 ## Architecture and Features
 

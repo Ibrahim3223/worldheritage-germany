@@ -54,7 +54,7 @@ Reaching St.-John-the-Baptist Church is straightforward, as it is accessible via
 
 When you arrive, expect a welcoming atmosphere where visitors can engage with the church's history and architectural beauty. Allocate sufficient time to appreciate both the interior and exterior features, as well as to soak in the peaceful surroundings that the church offers. Depending on your interests, a visit could range from a brief stop to a more extended exploration.
 
-For an optimal experience, consider visiting during times when the church may be less crowded, allowing for a more personal and reflective visit. The best times to visit may also coincide with local events or services, which can provide additional insights into the community’s engagement with the church.
+For an optimal experience, consider visiting during times when the church may be less crowded, allowing for a more personal and reflective visit. The best times to visit may also coincide with local events or services, which can provide additional insights into the community's engagement with the church.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ St.-John-the-Baptist Church is ideally situated near several attractions that en
    
 2. **Nature Trails**: Explore the surrounding landscapes through various nature trails that offer scenic walks and opportunities to appreciate the natural beauty of the region.
 
-3. **Historical Sites**: Discover other historical buildings and monuments in Loxstedt, which can add context to your understanding of the area’s heritage.
+3. **Historical Sites**: Discover other historical buildings and monuments in Loxstedt, which can add context to your understanding of the area's heritage.
 
 4. **Local Parks**: Tranquil parks nearby offer spaces for relaxation and leisure, ideal for picnicking or enjoying a leisurely stroll.
 
@@ -89,7 +89,7 @@ When planning your visit to St.-John-the-Baptist Church, consider the following 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit can range from 30 minutes to a few hours, depending on your interest in the church’s architecture and history.
+A visit can range from 30 minutes to a few hours, depending on your interest in the church's architecture and history.
 
 ### Is photography allowed?
 Photography is typically permitted outside the church, but check for any restrictions inside.

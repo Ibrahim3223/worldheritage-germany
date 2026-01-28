@@ -38,7 +38,7 @@ The origins of Eschweiler-Weisweiler railway station can be traced back to the d
 
 Eschweiler itself has a rich industrial history, particularly in the coal and steel sectors. The railway station's presence supported industries by providing essential logistics for transporting raw materials and finished products. As a result, the station has not only served commuters but also played a crucial role in the economic vitality of the region. 
 
-While specific historical milestones regarding the station’s establishment are not available, it is part of a broader narrative of the growth of rail transport in Germany, which accelerated in the 19th century. The station's significance extends beyond transportation; it reflects the evolution of the social and economic landscape of Eschweiler and its surroundings.
+While specific historical milestones regarding the station's establishment are not available, it is part of a broader narrative of the growth of rail transport in Germany, which accelerated in the 19th century. The station's significance extends beyond transportation; it reflects the evolution of the social and economic landscape of Eschweiler and its surroundings.
 
 Furthermore, the station continues to embody the spirit of connectivity, linking diverse communities and fostering regional growth. As urban areas expand and populations increase, railway stations like Eschweiler-Weisweiler remain critical to addressing transportation needs and encouraging sustainable travel options.
 

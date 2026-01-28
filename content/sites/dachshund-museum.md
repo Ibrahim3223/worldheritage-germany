@@ -66,7 +66,7 @@ While visiting the Dachshund Museum, consider exploring these nearby attractions
 
 For those planning a visit to the Dachshund Museum, here are some insider tips to enhance your experience:
 
-- **Photography Tips**: While many museums allow photography, it’s best to check for any restrictions upon arrival. Capturing moments with the various dachshund exhibits can be a fun way to remember your visit.
+- **Photography Tips**: While many museums allow photography, it's best to check for any restrictions upon arrival. Capturing moments with the various dachshund exhibits can be a fun way to remember your visit.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, visit during weekdays, particularly in the morning or late afternoon. This can help you avoid larger tourist crowds and allow for a more in-depth exploration of the exhibits.
 
@@ -82,7 +82,7 @@ Seasonal considerations can also play a role in your visit. While the museum is 
 It is recommended to allocate at least one to two hours for your visit to fully appreciate the exhibits and engage with the information presented.
 
 ### Is photography allowed?  
-Photography policies may vary, so it’s best to check for any restrictions when you arrive at the museum.
+Photography policies may vary, so it's best to check for any restrictions when you arrive at the museum.
 
 ### Are there guided tours?  
 Currently, the museum does not specify if guided tours are available. Check the official website for any updates or special programs that may be offered.

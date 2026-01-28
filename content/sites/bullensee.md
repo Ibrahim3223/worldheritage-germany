@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning, espe
 
 ## Practical Information
 
-When planning your visit to Bullensee, it’s advisable to bring essentials such as water, snacks, and appropriate footwear for walking on trails. Binoculars can enhance your wildlife observation experience, while a camera is a must for capturing the stunning scenery.
+When planning your visit to Bullensee, it's advisable to bring essentials such as water, snacks, and appropriate footwear for walking on trails. Binoculars can enhance your wildlife observation experience, while a camera is a must for capturing the stunning scenery.
 
 Seasonal considerations play a role in your visit—spring and summer months are ideal for seeing vibrant plant life and active wildlife, while fall may offer beautiful foliage. Winter visits can provide a peaceful, quiet atmosphere, though access conditions may vary.
 
@@ -91,7 +91,7 @@ Currently, specific information about guided tours is not provided. Check the of
 Spring and early summer are ideal for experiencing the flora and fauna at their most vibrant.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s advisable to verify details on the official website.
+Accessibility information is not specified; it's advisable to verify details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and entry fees.

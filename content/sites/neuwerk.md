@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Neuwerk, a serene island located in the Wadden Sea off the coast of Hamburg, Germany, offers an intriguing escape into a unique landscape that is both ecologically rich and historically significant. This small island, characterized by its tidal flats and salt marshes, is part of a UNESCO World Heritage Site, recognized for its diverse ecosystems and the unique cultural practices of its inhabitants. Neuwerk’s remote location and limited access give visitors a sense of tranquility and a chance to immerse themselves in nature.
+Neuwerk, a serene island located in the Wadden Sea off the coast of Hamburg, Germany, offers an intriguing escape into a unique landscape that is both ecologically rich and historically significant. This small island, characterized by its tidal flats and salt marshes, is part of a UNESCO World Heritage Site, recognized for its diverse ecosystems and the unique cultural practices of its inhabitants. Neuwerk's remote location and limited access give visitors a sense of tranquility and a chance to immerse themselves in nature.
 
 The island is part of the Hamburg-Mitte region and is steeped in maritime heritage. Its historical significance is underscored by the remnants of structures that have withstood the test of time, providing insight into the island's past. Neuwerk serves as a remarkable destination for those interested in both the natural environment and the cultural narratives that shape such unique locales. 
 
-Visitors can explore the island’s expansive tidal flats, rich wildlife, and historical architecture. The experience promises to be one of reflection and discovery, making Neuwerk an appealing stop for travelers seeking to connect with both nature and history.
+Visitors can explore the island's expansive tidal flats, rich wildlife, and historical architecture. The experience promises to be one of reflection and discovery, making Neuwerk an appealing stop for travelers seeking to connect with both nature and history.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The island's history is not only about human settlement but also speaks to the r
 
 ## Architecture and Features
 
-Neuwerk’s architectural landscape is defined primarily by its historical buildings and natural features. The most prominent structure is the Neuwerk Lighthouse, which has stood for many years and serves as a crucial navigation aid for ships venturing into the North Sea. The lighthouse is an iconic representation of maritime architecture, reflecting the island's long-standing connection to seafaring.
+Neuwerk's architectural landscape is defined primarily by its historical buildings and natural features. The most prominent structure is the Neuwerk Lighthouse, which has stood for many years and serves as a crucial navigation aid for ships venturing into the North Sea. The lighthouse is an iconic representation of maritime architecture, reflecting the island's long-standing connection to seafaring.
 
 The island is also characterized by its traditional houses, which exhibit a simple yet functional design adapted to the local environment. These structures often incorporate elements that reflect the islanders' resilience against the harsh coastal weather.
 
@@ -103,7 +103,7 @@ A full day is recommended to fully explore the island and its features.
 Yes, photography is permitted and encouraged, especially for capturing the stunning landscapes and wildlife.
 
 ### Are there guided tours?
-Yes, guided tours may be available, offering insights into the island’s history and ecology. Check the official website for details.
+Yes, guided tours may be available, offering insights into the island's history and ecology. Check the official website for details.
 
 ### What's the best time to visit?
 The warmer months of late spring and summer are ideal for visiting, but check weather forecasts to prepare for possible changes.
@@ -115,7 +115,7 @@ Due to the island's natural terrain, accessibility may be limited. Check ahead f
 Ferry tickets and tour reservations can often be purchased through the official website, but be sure to confirm availability.
 
 ### Are there restrooms and cafes?
-Facilities may be limited on the island. It’s advisable to bring your own refreshments.
+Facilities may be limited on the island. It's advisable to bring your own refreshments.
 
 ### What should I wear?
 Layered clothing is recommended, along with sturdy footwear suitable for walking on uneven surfaces. 

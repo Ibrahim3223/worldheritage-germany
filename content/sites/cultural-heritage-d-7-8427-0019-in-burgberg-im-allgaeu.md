@@ -74,7 +74,7 @@ Additionally, consider seasonal events or activities that may enhance your visit
 A visit can take between one to three hours, depending on your interest in exploring the site.
 
 ### Is photography allowed?
-Yes, photography is typically allowed, and you are encouraged to capture the fortification’s features.
+Yes, photography is typically allowed, and you are encouraged to capture the fortification's features.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the site's history and significance.

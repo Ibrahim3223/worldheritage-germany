@@ -36,7 +36,7 @@ The history of St. Martinus Church is intertwined with the development of the vi
 
 As a church building, St. Martinus reflects the religious practices that have shaped the lives of its parishioners over the years. It is a place where significant life events, such as baptisms, weddings, and funerals, have taken place, marking important milestones in the lives of local families. This continuity of use highlights the church's role as a cornerstone of the community's social fabric.
 
-Culturally, St. Martinus is significant not only for its religious functions but also for its architectural qualities and the artistic elements found within. As a gathering place, it has fostered a sense of belonging and community spirit that resonates through the generations. The church’s presence in Qualburg underscores the importance of faith and tradition in the lives of its residents, making it a vital part of the local heritage.
+Culturally, St. Martinus is significant not only for its religious functions but also for its architectural qualities and the artistic elements found within. As a gathering place, it has fostered a sense of belonging and community spirit that resonates through the generations. The church's presence in Qualburg underscores the importance of faith and tradition in the lives of its residents, making it a vital part of the local heritage.
 
 ## Architecture and Features
 
@@ -97,7 +97,7 @@ Currently, information regarding guided tours is not specified. Check the offici
 Visiting during weekdays or early mornings is recommended to avoid crowds. Spring and early autumn typically offer pleasant weather.
 
 ### Is it wheelchair accessible?
-Information on accessibility features is not provided. It’s advisable to check ahead for specific accommodations.
+Information on accessibility features is not provided. It's advisable to check ahead for specific accommodations.
 
 ### Can I buy tickets online?
 Entry fees may apply; check the official website for current information regarding ticket purchases.

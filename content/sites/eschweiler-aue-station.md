@@ -56,13 +56,13 @@ Visitors should expect a functional environment equipped with basic amenities to
 
 ## Nearby Attractions
 
-Eschweiler-Aue station’s location places it in proximity to several attractions that can enhance a visitor's experience. Here are a few noteworthy places to consider:
+Eschweiler-Aue station's location places it in proximity to several attractions that can enhance a visitor's experience. Here are a few noteworthy places to consider:
 
 1. **Eschweiler Town Center**: Just a short distance from the station, the town center is home to a variety of shops, restaurants, and historical sites, making it a perfect place for a leisurely stroll or to enjoy local cuisine.
 
 2. **LVR-Industriemuseum**: This industrial museum showcases the history of the coal and steel industries in the region. It offers insights into the local heritage and the impact of industrialization.
 
-3. **Schloss Zweibrüggen**: A short trip from Eschweiler will lead you to this historic castle, which offers a glimpse into the architectural styles of the past and the region’s noble history.
+3. **Schloss Zweibrüggen**: A short trip from Eschweiler will lead you to this historic castle, which offers a glimpse into the architectural styles of the past and the region's noble history.
 
 4. **Aue Park**: Ideal for those looking to relax in nature, Aue Park features walking paths, green spaces, and recreational facilities, perfect for a serene escape from the hustle of travel.
 

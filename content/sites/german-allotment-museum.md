@@ -50,7 +50,7 @@ The ambiance of the museum is typically designed to evoke the spirit of gardenin
 
 ## Visiting Information
 
-Traveling to the German Allotment Museum is straightforward, with Leipzig being well-connected by public transportation. Visitors can utilize local trams and buses to reach the museum, which is situated in a vibrant part of the city. For those driving, parking options may be available nearby, but it’s advisable to plan ahead.
+Traveling to the German Allotment Museum is straightforward, with Leipzig being well-connected by public transportation. Visitors can utilize local trams and buses to reach the museum, which is situated in a vibrant part of the city. For those driving, parking options may be available nearby, but it's advisable to plan ahead.
 
 When planning your visit, check the official website for current information regarding hours and ticket prices. The museum generally allows for flexible visiting times, accommodating those who wish to spend a few hours or an entire day exploring its offerings.
 
@@ -80,7 +80,7 @@ To avoid crowds, plan your visit on weekdays, particularly in the morning hours.
 
 ## Practical Information
 
-When visiting the German Allotment Museum, it’s advisable to wear comfortable clothing and shoes, as you may spend time walking through various exhibits or outdoor areas. Depending on the season, layering is recommended to adjust to changes in temperature.
+When visiting the German Allotment Museum, it's advisable to wear comfortable clothing and shoes, as you may spend time walking through various exhibits or outdoor areas. Depending on the season, layering is recommended to adjust to changes in temperature.
 
 While specific amenities are not detailed, it's a good idea to bring a water bottle and perhaps a light snack, especially if you plan to spend an extended period at the museum. Seasonal considerations may also apply, as outdoor activities or events could be influenced by weather conditions.
 
@@ -105,7 +105,7 @@ For details on accessibility, check the official website for the latest informat
 Ticket purchasing options may be available online. Check the official website for current information.
 
 ### Are there restrooms and cafes?
-While specific information is not provided, it’s common for museums to have restrooms on-site. Check the official website for amenities like cafes or dining options.
+While specific information is not provided, it's common for museums to have restrooms on-site. Check the official website for amenities like cafes or dining options.
 
 ### What should I wear?
 Dress comfortably and in layers to adjust to the indoor and outdoor environments of the museum. Comfortable shoes are recommended for walking through exhibits.

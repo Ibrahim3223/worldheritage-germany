@@ -76,7 +76,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends, as local ev
 
 When visiting the Oberländerdenkmal, it's advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture the serene environment. Given the outdoor nature of the site, dressing in layers can also be helpful, as weather conditions may vary throughout the day.
 
-Seasonal considerations are important; spring and fall are ideal for visiting due to mild temperatures and vibrant foliage. In winter, the area may experience colder temperatures, so it’s essential to dress warmly if you plan to visit during this season.
+Seasonal considerations are important; spring and fall are ideal for visiting due to mild temperatures and vibrant foliage. In winter, the area may experience colder temperatures, so it's essential to dress warmly if you plan to visit during this season.
 
 ## Frequently Asked Questions
 

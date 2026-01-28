@@ -28,7 +28,7 @@ image_srcset:
 
 The Botanischer Garten Erlangen is a captivating botanical garden located in the heart of Erlangen, Germany. This tranquil haven offers a unique opportunity to explore the diverse world of flora, serving both educational and recreational purposes. With its well-curated plant collections and serene walking paths, the garden invites visitors to immerse themselves in nature and learn about plant species from various climates and regions. 
 
-Positioned at coordinates 49.5992, 11.0067, the garden is easily accessible, making it a convenient stop for both locals and travelers seeking a respite from the urban landscape. As you wander through its pathways, you’ll discover plant varieties that highlight the rich biodiversity of our planet. The Botanischer Garten Erlangen stands not just as a collection of plants, but as a living laboratory dedicated to conservation and education, making it an essential part of the cultural and scientific fabric of the region.
+Positioned at coordinates 49.5992, 11.0067, the garden is easily accessible, making it a convenient stop for both locals and travelers seeking a respite from the urban landscape. As you wander through its pathways, you'll discover plant varieties that highlight the rich biodiversity of our planet. The Botanischer Garten Erlangen stands not just as a collection of plants, but as a living laboratory dedicated to conservation and education, making it an essential part of the cultural and scientific fabric of the region.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ The garden also includes spaces for relaxation, making it an ideal spot for refl
 
 ## Visiting Information
 
-Reaching the Botanischer Garten Erlangen is straightforward, with various transport options available. Whether you choose to arrive by public transport or personal vehicle, the garden’s location in Erlangen makes it accessible for both residents and tourists. 
+Reaching the Botanischer Garten Erlangen is straightforward, with various transport options available. Whether you choose to arrive by public transport or personal vehicle, the garden's location in Erlangen makes it accessible for both residents and tourists. 
 
 To plan your visit, it is advisable to check the official website for current information regarding hours and admission prices. On your visit, expect a well-maintained garden with clear signage and informative displays that enhance the educational experience. 
 

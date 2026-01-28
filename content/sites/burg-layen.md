@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Layen, a historic castle located in the enchanting region of Rümmelsheim, Germany, captivates visitors with its architectural charm and historical significance. This castle, nestled within the scenic landscape of the Rhineland-Palatinate, offers a glimpse into the medieval past of the area, showcasing the strategic importance of fortifications during its time. While not as widely known as other castles in Germany, Burg Layen represents a piece of the region’s heritage, making it an intriguing stop for those looking to explore the country’s rich castle culture.
+Burg Layen, a historic castle located in the enchanting region of Rümmelsheim, Germany, captivates visitors with its architectural charm and historical significance. This castle, nestled within the scenic landscape of the Rhineland-Palatinate, offers a glimpse into the medieval past of the area, showcasing the strategic importance of fortifications during its time. While not as widely known as other castles in Germany, Burg Layen represents a piece of the region's heritage, making it an intriguing stop for those looking to explore the country's rich castle culture.
 
 Visitors to Burg Layen are greeted by the castle's timeless elegance, where the atmosphere of history intertwines with the natural beauty of the surroundings. The structure stands as a reminder of the craftsmanship of the era, drawing history enthusiasts and architecture lovers alike. Whether you are a casual traveler or a dedicated historian, the experience of exploring Burg Layen promises to enrich your understanding of Germany's medieval architecture and history.
 
@@ -64,7 +64,7 @@ Burg Layen is well-positioned within a region rich in attractions. Nearby, visit
 4. **Bingen am Rhein** - A nearby town known for its historic architecture and beautiful river views.
 5. **Lorelei Rock** - A famous rock formation along the Rhine, steeped in legend, and a popular viewpoint for visitors.
 
-These nearby sites complement a visit to Burg Layen, allowing travelers to immerse themselves in the region’s rich cultural landscape.
+These nearby sites complement a visit to Burg Layen, allowing travelers to immerse themselves in the region's rich cultural landscape.
 
 ## Insider Tips
 

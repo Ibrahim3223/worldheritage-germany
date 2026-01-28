@@ -54,7 +54,7 @@ Reaching St. Petri is relatively straightforward, especially for those already o
 
 When planning a visit, it's advisable to check the official website for current hours and any potential admission fees. The church is typically open to visitors, allowing ample opportunity to explore its interior and appreciate the serene environment it offers. 
 
-Expect to spend a leisurely hour at St. Petri, allowing time to absorb the atmosphere, reflect, and perhaps engage with any informational materials available. The best times to visit are usually during daylight hours when natural light enhances the church’s features, but specific recommendations may vary based on seasonal considerations.
+Expect to spend a leisurely hour at St. Petri, allowing time to absorb the atmosphere, reflect, and perhaps engage with any informational materials available. The best times to visit are usually during daylight hours when natural light enhances the church's features, but specific recommendations may vary based on seasonal considerations.
 
 Be prepared for a peaceful experience, as St. Petri is often less crowded than more prominent tourist sites, allowing for quiet contemplation and reflection.
 
@@ -70,7 +70,7 @@ St. Petri is well-situated for visitors wishing to explore additional sites on F
 
 4. **St. Nikolai Church**: Another significant church on the island, known for its architectural style and historical relevance.
 
-5. **Local Markets**: Explore local markets that often showcase regional produce and crafts, enriching your experience of the island’s culture.
+5. **Local Markets**: Explore local markets that often showcase regional produce and crafts, enriching your experience of the island's culture.
 
 Each of these attractions provides an opportunity to deepen your understanding of Fehmarn's heritage and natural beauty.
 

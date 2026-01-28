@@ -90,7 +90,7 @@ When preparing for your visit to Porzellanwerk Rosenthal, keep in mind the follo
 A visit typically lasts around two to three hours, providing ample time to explore the factory and its exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check for any restrictions, especially in production areas.
+Photography policies may vary, so it's advisable to check for any restrictions, especially in production areas.
 
 ### Are there guided tours?
 Yes, guided tours are available, offering insights into the history and processes of porcelain production.

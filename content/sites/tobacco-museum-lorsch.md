@@ -66,7 +66,7 @@ While in Lorsch, consider exploring some nearby attractions that complement your
 
 To make the most of your visit to the Tobacco Museum, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography before your visit, as some exhibits may have restrictions.
+- **Photography**: Check the museum's policy on photography before your visit, as some exhibits may have restrictions.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider visiting during mid-mornings or early afternoons on weekdays to avoid larger groups.
 

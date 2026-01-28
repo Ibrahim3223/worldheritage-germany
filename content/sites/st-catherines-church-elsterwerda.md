@@ -50,7 +50,7 @@ Although specific architectural details are not provided, many churches of this 
 
 Visiting St. Catherine's Church is an enriching experience for those interested in heritage and culture. The church is accessible by various means of transport, with options that may include public transit, cycling, or driving. Visitors should check the official website for current information on hours and admission prices, as these can vary throughout the year.
 
-When planning a visit, consider allowing ample time to explore the church's interior and exterior. It’s advisable to arrive early in the day or later in the afternoon to enjoy a quieter atmosphere, especially if you prefer a more contemplative experience. Depending on your interests, a visit may take anywhere from 30 minutes to a couple of hours.
+When planning a visit, consider allowing ample time to explore the church's interior and exterior. It's advisable to arrive early in the day or later in the afternoon to enjoy a quieter atmosphere, especially if you prefer a more contemplative experience. Depending on your interests, a visit may take anywhere from 30 minutes to a couple of hours.
 
 For those traveling with family or in groups, engaging with the community around the church can enhance the visit. Local guides may provide insights into the church's history and significance, and exploring the surrounding area can complement your experience.
 
@@ -78,7 +78,7 @@ If you are interested in learning more about the church and its community role, 
 
 ## Practical Information
 
-When visiting St. Catherine's Church, it’s advisable to bring a small bag with essentials such as water, a camera, and a notebook for any reflections or sketches. Dress comfortably, keeping in mind the weather and the church's atmosphere, which often encourages modest attire.
+When visiting St. Catherine's Church, it's advisable to bring a small bag with essentials such as water, a camera, and a notebook for any reflections or sketches. Dress comfortably, keeping in mind the weather and the church's atmosphere, which often encourages modest attire.
 
 Seasonal considerations can affect your visit; spring and summer may offer more pleasant weather for exploring the area, while fall can provide a unique backdrop with changing foliage. Winter visits may require warmer clothing, but they can also offer a unique charm, especially if the church is adorned for the holiday season.
 

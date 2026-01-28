@@ -36,7 +36,7 @@ The origins of Burg Naumburg echo the broader historical currents of medieval Ge
 
 Throughout its history, Burg Naumburg has witnessed numerous events that have shaped the local landscape. It has likely served as a residence for nobility, a center for governance, and a refuge during times of conflict. The architectural elements present in the castle provide insights into the lifestyle and priorities of its inhabitants, showcasing the blend of functionality and aesthetics that characterized medieval architecture.
 
-The castle’s enduring presence emphasizes its cultural importance. It represents not only a physical space but also a symbol of the historical narratives that have unfolded in the area. As such, Burg Naumburg contributes to our understanding of Germany’s medieval past and the evolution of its societal structures.
+The castle's enduring presence emphasizes its cultural importance. It represents not only a physical space but also a symbol of the historical narratives that have unfolded in the area. As such, Burg Naumburg contributes to our understanding of Germany's medieval past and the evolution of its societal structures.
 
 ## Architecture and Features
 

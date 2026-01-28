@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Lülsdorf is a notable castle located in the picturesque region of Niederkassel, North Rhine-Westphalia, Germany. With its historical significance and architectural intrigue, this castle serves as a fascinating glimpse into the region's storied past. Visitors can immerse themselves in the heritage of the area while exploring its surroundings. As a historical site, Burg Lülsdorf is emblematic of the medieval structures that once played a vital role in the region’s defense and governance. 
+Burg Lülsdorf is a notable castle located in the picturesque region of Niederkassel, North Rhine-Westphalia, Germany. With its historical significance and architectural intrigue, this castle serves as a fascinating glimpse into the region's storied past. Visitors can immerse themselves in the heritage of the area while exploring its surroundings. As a historical site, Burg Lülsdorf is emblematic of the medieval structures that once played a vital role in the region's defense and governance. 
 
 The castle's strategic location adds to its charm, allowing visitors to appreciate not only the structure itself but also the surrounding landscape. Exploring Burg Lülsdorf offers an enriching experience for history enthusiasts, architecture aficionados, and anyone looking to delve into the cultural heritage of Germany. Its inviting ambience ensures a memorable visit, whether one is merely passing through or planning an extended exploration of the region.
 
@@ -74,7 +74,7 @@ If you plan to explore the interior, be respectful of any guidelines in place re
 
 ## Practical Information
 
-When visiting Burg Lülsdorf, it’s advisable to bring a camera, comfortable shoes for walking, and water to stay hydrated. Seasonal considerations are also important; in colder months, dress warmly as the castle may not be fully heated. During warmer months, sunscreen and hats are recommended for protection against the sun when exploring the outdoor areas.
+When visiting Burg Lülsdorf, it's advisable to bring a camera, comfortable shoes for walking, and water to stay hydrated. Seasonal considerations are also important; in colder months, dress warmly as the castle may not be fully heated. During warmer months, sunscreen and hats are recommended for protection against the sun when exploring the outdoor areas.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ When visiting Burg Lülsdorf, it’s advisable to bring a camera, comfortable sh
 A visit typically takes around one to two hours, allowing ample time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site for any restrictions or guidelines regarding photography.
+Photography policies may vary, so it's best to check on-site for any restrictions or guidelines regarding photography.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website; check there for details.

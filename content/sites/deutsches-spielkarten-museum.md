@@ -22,7 +22,7 @@ images:
 
 In the heart of Leinfelden-Echterdingen, Germany, lies the Deutsches Spielkarten-Museum, a museum dedicated to the fascinating world of playing cards. This unique institution offers visitors a glimpse into the historical and cultural significance of card games, showcasing a wide array of card designs that reflect societal changes over centuries. With its extensive collection, the museum serves as a cultural hub for enthusiasts and casual visitors alike, highlighting the art and craftsmanship that has gone into playing cards throughout history. 
 
-The museum is not only a repository of artifacts but also an educational platform that explores the evolution of card games and their impact on social interactions and entertainment. As you wander through its exhibits, you’ll discover how playing cards have woven themselves into the fabric of human culture, making it an intriguing stop for anyone interested in history, art, or social dynamics.
+The museum is not only a repository of artifacts but also an educational platform that explores the evolution of card games and their impact on social interactions and entertainment. As you wander through its exhibits, you'll discover how playing cards have woven themselves into the fabric of human culture, making it an intriguing stop for anyone interested in history, art, or social dynamics.
 
 ## History and Significance
 

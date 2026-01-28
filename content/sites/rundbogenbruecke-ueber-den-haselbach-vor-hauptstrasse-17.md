@@ -54,7 +54,7 @@ Anticipate spending around 30 minutes to an hour at the site, depending on your 
 
 Exploring the area around the Rundbogenbrücke opens up various opportunities for cultural and natural experiences:
 
-1. **Haselbachtal Nature Reserve**: Offering scenic trails and local flora and fauna, this nature reserve is perfect for hiking enthusiasts looking to immerse themselves in the region’s natural beauty.
+1. **Haselbachtal Nature Reserve**: Offering scenic trails and local flora and fauna, this nature reserve is perfect for hiking enthusiasts looking to immerse themselves in the region's natural beauty.
 
 2. **Local Towns**: The nearby towns often feature charming architecture and local shops, providing insight into the daily life and history of the area.
 
@@ -91,13 +91,13 @@ Information about guided tours may vary; check the official website for updates 
 Visiting during spring or autumn is often ideal due to mild weather conditions.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s best to check the official website for current information.
+Accessibility details are not specified, so it's best to check the official website for current information.
 
 ### Can I buy tickets online?
 Ticket purchasing information is not detailed; please refer to the official website for the latest updates.
 
 ### Are there restrooms and cafes?
-Specific amenities are not mentioned; it’s advisable to check the official website for available facilities nearby.
+Specific amenities are not mentioned; it's advisable to check the official website for available facilities nearby.
 
 ### What should I wear?
 Dress comfortably in layers, considering the weather conditions during your visit. Comfortable walking shoes are recommended. 

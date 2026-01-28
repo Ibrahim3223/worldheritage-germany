@@ -38,9 +38,9 @@ The Margravial Opera House invites you to explore its storied past and rich arti
 
 The Margravial Opera House was commissioned by Margrave Friedrich of Bayreuth in the mid-18th century during a period marked by a flourishing cultural scene in Bavaria. The opera house was not only intended as a venue for performances but also as a statement of the Margrave's commitment to the arts, reflecting the values and aspirations of the Enlightenment. This era heralded advancements in philosophy, science, and the arts, and the opera house emerged as a key player in this cultural renaissance.
 
-It is renowned for its unique blend of architectural styles that include elements of baroque and rococo design. The opera house’s construction was completed in a relatively short time, and it quickly became the focal point of Bayreuth’s cultural life. It facilitated the performance of numerous operas and theatrical works, contributing to the vibrant artistic atmosphere that characterized the region.
+It is renowned for its unique blend of architectural styles that include elements of baroque and rococo design. The opera house's construction was completed in a relatively short time, and it quickly became the focal point of Bayreuth's cultural life. It facilitated the performance of numerous operas and theatrical works, contributing to the vibrant artistic atmosphere that characterized the region.
 
-The Margravial Opera House is particularly significant for its association with notable composers and musicians. It hosted many important performances, including works by composers of the time, and remains an enduring symbol of the city’s artistic legacy. The opera house has undergone various restorations to preserve its original splendor, ensuring that it continues to serve as a venue for theatrical performances, concerts, and cultural events today.
+The Margravial Opera House is particularly significant for its association with notable composers and musicians. It hosted many important performances, including works by composers of the time, and remains an enduring symbol of the city's artistic legacy. The opera house has undergone various restorations to preserve its original splendor, ensuring that it continues to serve as a venue for theatrical performances, concerts, and cultural events today.
 
 ## Architecture and Features
 

@@ -40,7 +40,7 @@ The Dreifaltigkeitskirche's artistic and architectural elements also resonate wi
 
 ## Architecture and Features
 
-The Dreifaltigkeitskirche exhibits a blend of architectural styles that reflect both tradition and innovation. While specific dimensions are not available, the church’s façade is characterized by its elegant lines and thoughtful design. The exterior features a combination of classic elements, which may include a prominent steeple, intricate stonework, and potentially stained glass windows that illuminate the interior with colorful light.
+The Dreifaltigkeitskirche exhibits a blend of architectural styles that reflect both tradition and innovation. While specific dimensions are not available, the church's façade is characterized by its elegant lines and thoughtful design. The exterior features a combination of classic elements, which may include a prominent steeple, intricate stonework, and potentially stained glass windows that illuminate the interior with colorful light.
 
 Internally, the church is designed to create a welcoming environment conducive to reflection and worship. The layout typically includes a spacious nave, which is often adorned with religious iconography that narrates biblical stories and themes. The altar area is likely to be a focal point, showcasing artistry that highlights the church's religious significance.
 
@@ -99,7 +99,7 @@ Check the official website for information on any guided tours that may be avail
 Early mornings or late afternoons on weekdays are generally quieter, allowing for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-While specific accessibility information is not provided, churches often strive to accommodate all visitors. It’s recommended to check the official website for detailed accessibility options.
+While specific accessibility information is not provided, churches often strive to accommodate all visitors. It's recommended to check the official website for detailed accessibility options.
 
 ### Can I buy tickets online?
 For admission details and potential online ticket purchasing, refer to the official website for the most current information.

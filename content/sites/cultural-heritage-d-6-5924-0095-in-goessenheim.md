@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Cultural heritage D-6-5924-0095 in Gössenheim is a noteworthy fortification located in the picturesque Main-Spessart region of Bavaria, Germany. This cultural heritage monument serves as a significant reminder of the region’s historical defenses, providing insight into the military architecture of its time. Situated in Lower Franconia, the fortification is easily accessible, making it an excellent addition to any itinerary focused on Germany’s rich history. 
+Cultural heritage D-6-5924-0095 in Gössenheim is a noteworthy fortification located in the picturesque Main-Spessart region of Bavaria, Germany. This cultural heritage monument serves as a significant reminder of the region's historical defenses, providing insight into the military architecture of its time. Situated in Lower Franconia, the fortification is easily accessible, making it an excellent addition to any itinerary focused on Germany's rich history. 
 
 Visitors to Gössenheim can expect to explore a site that reflects the strategic importance of fortifications in the defense systems of the past. As you wander through the remnants of this historical structure, you will engage with the stories of those who once inhabited the area, all while enjoying the serene surroundings that characterize this part of Bavaria. Whether you are a history enthusiast or simply seeking a unique cultural experience, this site promises to deliver an enriching encounter with the region's heritage.
 
@@ -77,7 +77,7 @@ A visit typically takes about 1 to 2 hours, allowing ample time to explore and a
 Photography is generally permitted, but be respectful of any signage or guidelines regarding specific areas.
 
 ### Are there guided tours?
-Check the official website to see if guided tours are available, as they can provide additional context and insight into the fortification’s history.
+Check the official website to see if guided tours are available, as they can provide additional context and insight into the fortification's history.
 
 ### What's the best time to visit?
 The spring and autumn months are ideal due to pleasant weather and fewer visitors.
@@ -89,7 +89,7 @@ Check the official website for specific accessibility information, as fortificat
 For current ticket purchasing options, visit the official website, as online purchasing may be available.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check the official website for information on amenities available at the site.
+Facilities may vary, so it's best to check the official website for information on amenities available at the site.
 
 ### What should I wear?
 Dress comfortably and consider layering, as temperatures can vary throughout the day.

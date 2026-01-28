@@ -116,4 +116,4 @@ Restroom facilities are typically available within the museum. For dining option
 ### What should I wear?
 Dress comfortably and appropriately for the season, as you may spend time walking and exploring both inside and outside the museum.
 
-The Muschelkalkmuseum Hagdorn stands as a noteworthy destination for those interested in geology, education, and the cultural heritage of the Hohenlohe region. With its engaging exhibits and commitment to public education, it invites visitors to explore and appreciate the natural world’s history and significance.
+The Muschelkalkmuseum Hagdorn stands as a noteworthy destination for those interested in geology, education, and the cultural heritage of the Hohenlohe region. With its engaging exhibits and commitment to public education, it invites visitors to explore and appreciate the natural world's history and significance.

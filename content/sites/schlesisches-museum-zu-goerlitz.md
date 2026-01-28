@@ -72,7 +72,7 @@ Görlitz is home to several attractions that can complement your visit to the Sc
 
 To enhance your museum experience, consider the following tips:
 
-- **Photography**: Be mindful of photography policies within the museum. Some exhibits may have restrictions, so it’s best to check for signage or ask staff if unsure.
+- **Photography**: Be mindful of photography policies within the museum. Some exhibits may have restrictions, so it's best to check for signage or ask staff if unsure.
 
 - **Crowd Avoidance**: To avoid crowds, plan your visit during weekday mornings, particularly if you prefer a quieter atmosphere to engage with the exhibits.
 
@@ -94,7 +94,7 @@ When planning your visit to the Schlesisches Museum zu Görlitz, consider bringi
 A visit to the Schlesisches Museum typically takes about 2-3 hours, allowing you to explore the exhibits at a comfortable pace.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s advisable to check for signage or inquire with museum staff regarding specific restrictions.
+Photography policies may vary by exhibit. It's advisable to check for signage or inquire with museum staff regarding specific restrictions.
 
 ### Are there guided tours?
 The museum may offer guided tours, which can provide valuable insights into the collections and enhance your understanding of the exhibits.
@@ -103,7 +103,7 @@ The museum may offer guided tours, which can provide valuable insights into the 
 Weekdays, especially in the morning, are often less crowded, making for a more enjoyable experience. Check the museum's schedule for any special events or exhibitions.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not provided, many modern museums strive to accommodate all visitors. It’s recommended to check the official website or contact the museum directly for precise information.
+While specific accessibility details are not provided, many modern museums strive to accommodate all visitors. It's recommended to check the official website or contact the museum directly for precise information.
 
 ### Can I buy tickets online?
 For ticket purchasing options, including online sales, please check the official museum website for the most current information.

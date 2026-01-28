@@ -42,7 +42,7 @@ The foundation plays a crucial role in highlighting Barlach's influence on subse
 
 The architecture of the Fondation Ernst Barlach harmonizes with the artistic intent of the museum. While specific architectural details are not available, many museums of this nature often feature modern designs that complement the exhibits while respecting the historical context of their surroundings. The layout typically includes exhibition spaces that are thoughtfully arranged to encourage exploration and contemplation. 
 
-Visitors will find areas dedicated to permanent collections showcasing Barlach's sculptures, drawings, and prints, as well as spaces for temporary exhibitions that highlight contemporary artists and themes. The museum’s design likely incorporates natural light, enhancing the experience of viewing the artworks and creating a welcoming atmosphere.
+Visitors will find areas dedicated to permanent collections showcasing Barlach's sculptures, drawings, and prints, as well as spaces for temporary exhibitions that highlight contemporary artists and themes. The museum's design likely incorporates natural light, enhancing the experience of viewing the artworks and creating a welcoming atmosphere.
 
 Additionally, the foundation may include educational facilities, such as classrooms or workshops, where visitors can engage more deeply with the artistic process. These features collectively contribute to an environment that fosters creativity and learning, making the Fondation Ernst Barlach a dynamic center for cultural exchange.
 

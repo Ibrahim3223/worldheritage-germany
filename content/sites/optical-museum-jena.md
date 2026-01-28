@@ -54,7 +54,7 @@ For the most accurate information regarding opening hours, ticket prices, and an
 
 Typically, visitors may want to allocate at least a couple of hours to fully appreciate the exhibits and interactive displays. During peak tourist seasons, consider visiting during weekdays or early in the day to avoid larger crowds. 
 
-The museum is well-suited for family visits, offering educational programs that cater to different age groups. Additionally, whether you’re a science enthusiast, a student, or simply curious about the world of optics, the museum promises an enriching experience.
+The museum is well-suited for family visits, offering educational programs that cater to different age groups. Additionally, whether you're a science enthusiast, a student, or simply curious about the world of optics, the museum promises an enriching experience.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ The Optical Museum Jena is situated in a vibrant area with several other attract
 
 3. **Jena Observatory**: An important site for astronomical research, the observatory allows visitors to engage with the stars and learn about astronomical phenomena.
 
-4. **Jena City Center**: Explore the local shops, cafes, and historic architecture that Jena has to offer, enriching your visit with a taste of the city’s culture and daily life.
+4. **Jena City Center**: Explore the local shops, cafes, and historic architecture that Jena has to offer, enriching your visit with a taste of the city's culture and daily life.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ Additionally, if you have a particular interest in optics or science, consider r
 
 ## Practical Information
 
-When preparing for your trip to the Optical Museum Jena, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend a few hours exploring both the museum and nearby attractions. 
+When preparing for your trip to the Optical Museum Jena, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend a few hours exploring both the museum and nearby attractions. 
 
 Check the official website for any seasonal considerations or special events that may affect your visit. Depending on the time of year, the museum may offer unique exhibitions or activities that could enrich your experience.
 
@@ -92,7 +92,7 @@ A visit typically requires at least a couple of hours to fully explore the exhib
 
 ### Is photography allowed?
 
-Photography policies can vary, so it’s best to check the museum's guidelines regarding photography before your visit. 
+Photography policies can vary, so it's best to check the museum's guidelines regarding photography before your visit. 
 
 ### Are there guided tours?
 

@@ -56,7 +56,7 @@ The best times to visit the chapel may vary, but typically, early mornings or la
 
 ## Nearby Attractions
 
-1. **St. John the Baptist Church**: Located nearby, this church offers additional insight into the region’s ecclesiastical architecture and community life.
+1. **St. John the Baptist Church**: Located nearby, this church offers additional insight into the region's ecclesiastical architecture and community life.
    
 2. **Hochsauerland Museum**: A short distance away, this museum showcases the cultural heritage of the Hochsauerland region, featuring exhibitions on local history and traditions.
 

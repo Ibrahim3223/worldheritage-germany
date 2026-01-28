@@ -28,7 +28,7 @@ image_srcset:
 
 Die Komödie, a prominent theatre building located in the heart of Frankfurt am Main, Germany, is a vibrant cultural hub that plays a significant role in the city's theatrical landscape. As a boulevard theatre, it invites audiences to experience a diverse range of performances, from classic plays to contemporary productions. The theatre's central location makes it an accessible destination for both locals and visitors, providing a unique opportunity to engage with Frankfurt's artistic community.
 
-Frankfurt, known for its blend of modern architecture and historical sites, sets a fitting backdrop for Die Komödie. The theatre contributes to the city’s dynamic cultural scene, offering a venue where creativity and performance art can flourish. Attending a show at Die Komödie is not just about entertainment; it is a chance to immerse oneself in the vibrant artistic expressions that define this bustling city. With a focus on both German and international works, the theatre serves as a bridge connecting audiences with a wide array of theatrical experiences.
+Frankfurt, known for its blend of modern architecture and historical sites, sets a fitting backdrop for Die Komödie. The theatre contributes to the city's dynamic cultural scene, offering a venue where creativity and performance art can flourish. Attending a show at Die Komödie is not just about entertainment; it is a chance to immerse oneself in the vibrant artistic expressions that define this bustling city. With a focus on both German and international works, the theatre serves as a bridge connecting audiences with a wide array of theatrical experiences.
 
 Whether you are a seasoned theatre-goer or a curious newcomer, Die Komödie promises a captivating journey into the world of performance art. Here, the experience transcends mere viewing; it becomes an exploration of storytelling, emotion, and the human condition, all framed within the intimate setting of a theatre that has stood as a pillar of the local arts scene.
 
@@ -36,7 +36,7 @@ Whether you are a seasoned theatre-goer or a curious newcomer, Die Komödie prom
 
 Die Komödie has carved out a notable place in Frankfurt's cultural heritage, serving as a platform for the performing arts since its inception. While specific founding dates and historical milestones may not be readily available, the theatre has long been recognized for its contributions to the local arts community. It has hosted an array of performances that reflect not only the cultural zeitgeist of the times but also the evolving tastes of audiences.
 
-As a boulevard theatre, Die Komödie emphasizes accessibility and engagement, often presenting works that resonate with popular culture alongside more traditional theatrical fare. This approach has helped the theatre maintain relevance in a rapidly changing artistic landscape. The theatre’s programming typically includes a mix of genres, ensuring that there is something for everyone, from comedies to dramas and everything in between.
+As a boulevard theatre, Die Komödie emphasizes accessibility and engagement, often presenting works that resonate with popular culture alongside more traditional theatrical fare. This approach has helped the theatre maintain relevance in a rapidly changing artistic landscape. The theatre's programming typically includes a mix of genres, ensuring that there is something for everyone, from comedies to dramas and everything in between.
 
 Culturally, Die Komödie plays an essential role in promoting both established and emerging artists. It provides a platform for local talent to showcase their work, encouraging collaboration among playwrights, directors, and actors. This commitment to fostering new voices in theatre makes Die Komödie not just a venue for performances, but also a vital incubator for artistic innovation in Frankfurt.
 
@@ -54,11 +54,11 @@ As you enter Die Komödie, you may also notice the lobby area, which often serve
 
 ## Visiting Information
 
-To make the most of your visit to Die Komödie, it’s essential to consider various aspects of planning. The theatre is located in the inner city of Frankfurt, making it easily accessible by public transport. Numerous tram and bus lines operate in close proximity, and Frankfurt's well-connected train services make it a convenient stop for those traveling from other cities.
+To make the most of your visit to Die Komödie, it's essential to consider various aspects of planning. The theatre is located in the inner city of Frankfurt, making it easily accessible by public transport. Numerous tram and bus lines operate in close proximity, and Frankfurt's well-connected train services make it a convenient stop for those traveling from other cities.
 
-Before heading to Die Komödie, check the official website for current information regarding performance schedules, ticket prices, and any special events. This will ensure you have the latest details and can plan your visit accordingly. Typically, performances may vary in duration, so it’s advisable to allocate sufficient time to enjoy the show and the theatre’s atmosphere.
+Before heading to Die Komödie, check the official website for current information regarding performance schedules, ticket prices, and any special events. This will ensure you have the latest details and can plan your visit accordingly. Typically, performances may vary in duration, so it's advisable to allocate sufficient time to enjoy the show and the theatre's atmosphere.
 
-The best times to visit Die Komödie can depend on the performance schedule. Weekends often see a larger audience, so if you prefer a quieter experience, consider attending a weekday performance. It’s also wise to arrive early, allowing time to find your seat and soak in the theatre’s ambiance before the show begins.
+The best times to visit Die Komödie can depend on the performance schedule. Weekends often see a larger audience, so if you prefer a quieter experience, consider attending a weekday performance. It's also wise to arrive early, allowing time to find your seat and soak in the theatre's ambiance before the show begins.
 
 Visitors can expect a warm and welcoming environment, where the staff is usually eager to assist with any inquiries. The theatre may offer additional amenities such as a café or bar, providing a pleasant spot to unwind before or after the performance.
 
@@ -74,7 +74,7 @@ When visiting Die Komödie, take the opportunity to explore some of the nearby a
 
 4. **Palmengarten**: A beautiful botanical garden located nearby, offering a peaceful retreat filled with diverse plant species, perfect for a leisurely stroll.
 
-5. **Main River Promenade**: A scenic area along the river, ideal for a relaxing walk or enjoying views of the Frankfurt skyline. It’s a great place to unwind after an engaging theatre performance.
+5. **Main River Promenade**: A scenic area along the river, ideal for a relaxing walk or enjoying views of the Frankfurt skyline. It's a great place to unwind after an engaging theatre performance.
 
 ## Insider Tips
 
@@ -88,7 +88,7 @@ When planning your visit to Die Komödie, consider bringing along a few essentia
 
 Seasonal considerations can also impact your visit. During winter months, Frankfurt may experience colder weather, so be sure to dress appropriately. Conversely, summer might bring warmer temperatures, making lighter clothing more suitable.
 
-Additionally, it’s wise to carry a valid form of payment for tickets and refreshments, as cash is often preferred in many local establishments.
+Additionally, it's wise to carry a valid form of payment for tickets and refreshments, as cash is often preferred in many local establishments.
 
 ## Frequently Asked Questions
 
@@ -108,10 +108,10 @@ Weekday performances may offer a quieter experience compared to busier weekend s
 Check the official website for detailed accessibility options and any assistance that may be available for visitors with mobility challenges.
 
 ### Can I buy tickets online?
-Yes, tickets can typically be purchased online through the official website. It’s advisable to secure your tickets in advance, especially for popular performances.
+Yes, tickets can typically be purchased online through the official website. It's advisable to secure your tickets in advance, especially for popular performances.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and possibly a café or bar may be available on-site. It’s a good idea to arrive early to take advantage of these amenities.
+Facilities such as restrooms and possibly a café or bar may be available on-site. It's a good idea to arrive early to take advantage of these amenities.
 
 ### What should I wear?
 Comfortable yet smart attire is recommended for theatre visits. Dressing in layers can help you adapt to the indoor climate of the theatre.

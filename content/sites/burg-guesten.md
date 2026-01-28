@@ -60,7 +60,7 @@ For those seeking additional information or specific visitor services, checking 
 
 1. **Jülich Citadel**: A historic fortress that offers insight into the military architecture of the region, located not far from Burg Güsten.
    
-2. **St. Martin’s Church**: An impressive church known for its architectural beauty and historical significance, providing a cultural complement to the castle visit.
+2. **St. Martin's Church**: An impressive church known for its architectural beauty and historical significance, providing a cultural complement to the castle visit.
 
 3. **Schloss Dyck**: This nearby castle features beautiful gardens and offers further exploration into the area's noble heritage.
 

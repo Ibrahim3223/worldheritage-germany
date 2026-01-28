@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Church of St. Mary Magdalene, located in the picturesque town of Lauenburg/Elbe, Germany, serves as a cornerstone of the region's cultural and spiritual landscape. This church building not only highlights the architectural styles of its time but also reflects the historical narrative of the area. As visitors approach the site, they are greeted by a structure that has witnessed centuries of change, standing resolutely against the backdrop of Lauenburg’s charming surroundings. The church is a place for contemplation and connection, drawing both locals and travelers seeking to explore the spiritual heritage of this part of Germany.
+The Church of St. Mary Magdalene, located in the picturesque town of Lauenburg/Elbe, Germany, serves as a cornerstone of the region's cultural and spiritual landscape. This church building not only highlights the architectural styles of its time but also reflects the historical narrative of the area. As visitors approach the site, they are greeted by a structure that has witnessed centuries of change, standing resolutely against the backdrop of Lauenburg's charming surroundings. The church is a place for contemplation and connection, drawing both locals and travelers seeking to explore the spiritual heritage of this part of Germany.
 
 In Lauenburg/Elbe, a town rich with historical significance, the Church of St. Mary Magdalene invites exploration and reflection. Its location along the Elbe River enhances its allure, making it an integral part of the town's identity. Visitors can expect to find a blend of serene surroundings and a community that honors its past while welcoming the future. Whether you're on a pilgrimage, a history enthusiast, or simply looking for a peaceful place to reflect, the Church of St. Mary Magdalene promises a meaningful experience.
 
@@ -72,7 +72,7 @@ To avoid crowds, try to visit on weekdays rather than weekends, as local service
 
 ## Practical Information
 
-When visiting the Church of St. Mary Magdalene, it’s wise to bring along a few essentials. Comfortable footwear is recommended for exploring both the church and the surrounding area. If you plan to spend some time outdoors, consider bringing a light jacket, as weather conditions can change.
+When visiting the Church of St. Mary Magdalene, it's wise to bring along a few essentials. Comfortable footwear is recommended for exploring both the church and the surrounding area. If you plan to spend some time outdoors, consider bringing a light jacket, as weather conditions can change.
 
 Seasonal considerations are also important. Spring and fall may offer the most pleasant temperatures for walking and exploring, while summer can be ideal for enjoying the outdoor spaces. Always check the official website for updates on any seasonal events or closures that might affect your visit.
 
@@ -82,7 +82,7 @@ Seasonal considerations are also important. Spring and fall may offer the most p
 A visit to the Church of St. Mary Magdalene typically takes about one to two hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted; however, it’s respectful to check for any specific restrictions upon arrival.
+Photography is generally permitted; however, it's respectful to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information about any guided tours that may be available during your visit.

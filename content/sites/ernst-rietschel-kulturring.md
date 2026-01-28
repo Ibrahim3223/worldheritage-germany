@@ -36,7 +36,7 @@ The influence of Rietschel is evident in various cultural initiatives supported 
 
 While specific architectural details about the Ernst-Rietschel-Kulturring are not provided, cultural institutions like this often feature spaces designed to facilitate artistic engagement. Expect a layout conducive to exhibitions, performances, and educational activities. The design may include galleries for displaying art, meeting rooms for workshops, and open areas that encourage interaction among visitors.
 
-The institution's atmosphere is likely enhanced by thoughtful curation of its space, allowing for the display of not only Rietschel's works but also contemporary artists and cultural events that align with its mission. The interiors may be adorned with elements that reflect Rietschel’s artistic sensibilities, offering visitors a glimpse into the aesthetic values that define his contributions to sculpture.
+The institution's atmosphere is likely enhanced by thoughtful curation of its space, allowing for the display of not only Rietschel's works but also contemporary artists and cultural events that align with its mission. The interiors may be adorned with elements that reflect Rietschel's artistic sensibilities, offering visitors a glimpse into the aesthetic values that define his contributions to sculpture.
 
 Furthermore, the institution may include facilities that support the community's engagement with the arts, such as libraries or resource centers dedicated to fine arts research. These features create a dynamic environment where creativity flourishes, making the Ernst-Rietschel-Kulturring a hub for cultural exchange.
 
@@ -74,13 +74,13 @@ To enhance your visit to the Ernst-Rietschel-Kulturring, consider the following 
 
 ## Practical Information
 
-When preparing for your visit to the Ernst-Rietschel-Kulturring, it’s helpful to consider a few practical aspects:
+When preparing for your visit to the Ernst-Rietschel-Kulturring, it's helpful to consider a few practical aspects:
 
 - **What to Bring**: A notebook or sketchpad can be beneficial for jotting down thoughts or inspirations. Comfortable walking shoes are also recommended, as you may wish to explore the surrounding area.
 
 - **Seasonal Considerations**: Check the weather forecast before your visit to dress appropriately, especially if you plan to explore outdoor attractions nearby.
 
-- **Accessibility**: For those with mobility considerations, it’s advisable to check in advance regarding accessibility features at the institution.
+- **Accessibility**: For those with mobility considerations, it's advisable to check in advance regarding accessibility features at the institution.
 
 ## Frequently Asked Questions
 

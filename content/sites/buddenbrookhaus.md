@@ -26,19 +26,19 @@ image_srcset:
 
 ## Overview
 
-In the heart of Lübeck, Germany, lies the Buddenbrookhaus, a museum dedicated to the literary legacy of the renowned German authors Thomas Mann and Heinrich Mann. This museum is not only a homage to the Mann family but also a significant cultural institution that provides insights into the life and works of two of Germany’s most influential writers. Located in a city that is a UNESCO World Heritage site, Buddenbrookhaus offers visitors a chance to explore the intersection of literature, history, and the unique Hanseatic culture of Lübeck.
+In the heart of Lübeck, Germany, lies the Buddenbrookhaus, a museum dedicated to the literary legacy of the renowned German authors Thomas Mann and Heinrich Mann. This museum is not only a homage to the Mann family but also a significant cultural institution that provides insights into the life and works of two of Germany's most influential writers. Located in a city that is a UNESCO World Heritage site, Buddenbrookhaus offers visitors a chance to explore the intersection of literature, history, and the unique Hanseatic culture of Lübeck.
 
-The museum, situated at coordinates 53.8683, 10.6858, captures the essence of the Mann brothers’ contributions to literature and their reflections on society. The house itself, an integral part of Lübeck's architectural heritage, invites visitors to delve into a world where the boundaries between fiction and reality blur, offering a narrative that resonates with both historical and contemporary themes.
+The museum, situated at coordinates 53.8683, 10.6858, captures the essence of the Mann brothers' contributions to literature and their reflections on society. The house itself, an integral part of Lübeck's architectural heritage, invites visitors to delve into a world where the boundaries between fiction and reality blur, offering a narrative that resonates with both historical and contemporary themes.
 
 Buddenbrookhaus promises an enriching experience for literature enthusiasts, history buffs, and anyone interested in German culture. With its carefully curated exhibitions and engaging programs, it serves as a vital link to understanding the broader cultural landscape of the early 20th century, making it a must-visit destination for those exploring Lübeck.
 
 ## History and Significance
 
-The Buddenbrookhaus is rooted in the life of the Mann family, who were prominent figures in Lübeck’s cultural scene. Thomas Mann, awarded the Nobel Prize in Literature in 1929, and his brother Heinrich Mann, a celebrated novelist and political activist, both drew inspiration from their upbringing in this historic city. The museum is housed in a building that reflects the architectural style of the era, echoing the family’s affluent status and cultural significance.
+The Buddenbrookhaus is rooted in the life of the Mann family, who were prominent figures in Lübeck's cultural scene. Thomas Mann, awarded the Nobel Prize in Literature in 1929, and his brother Heinrich Mann, a celebrated novelist and political activist, both drew inspiration from their upbringing in this historic city. The museum is housed in a building that reflects the architectural style of the era, echoing the family's affluent status and cultural significance.
 
-The Mann brothers’ works often explored themes of identity, societal change, and the complexities of human nature, which were influenced by their experiences in Lübeck. The establishment of Buddenbrookhaus as a museum highlights the cultural importance of the Mann family in shaping German literature and thought. It serves as a platform for preserving their legacy and educating future generations about their contributions.
+The Mann brothers' works often explored themes of identity, societal change, and the complexities of human nature, which were influenced by their experiences in Lübeck. The establishment of Buddenbrookhaus as a museum highlights the cultural importance of the Mann family in shaping German literature and thought. It serves as a platform for preserving their legacy and educating future generations about their contributions.
 
-Through a variety of exhibitions, the museum illuminates the personal and professional lives of the Mann brothers, presenting artifacts, manuscripts, letters, and photographs that provide context to their literary careers. The museum also engages with contemporary themes, reflecting on how the Manns’ works resonate in today’s society. This dual focus on historical significance and current relevance makes Buddenbrookhaus a vital cultural institution in Lübeck.
+Through a variety of exhibitions, the museum illuminates the personal and professional lives of the Mann brothers, presenting artifacts, manuscripts, letters, and photographs that provide context to their literary careers. The museum also engages with contemporary themes, reflecting on how the Manns' works resonate in today's society. This dual focus on historical significance and current relevance makes Buddenbrookhaus a vital cultural institution in Lübeck.
 
 ## Architecture and Features
 
@@ -62,9 +62,9 @@ When visiting Buddenbrookhaus, take advantage of the opportunity to explore othe
 
 1. **Lübeck Cathedral (Lübecker Dom)**: This impressive medieval cathedral, known for its distinctive twin towers, is a short walk from the museum. It features stunning Gothic architecture and beautiful stained glass windows.
 
-2. **St. Mary’s Church (Marienkirche)**: Another architectural masterpiece, St. Mary’s Church is renowned for its impressive altar and significant historical artifacts. Its proximity to Buddenbrookhaus makes it an easy addition to your itinerary.
+2. **St. Mary's Church (Marienkirche)**: Another architectural masterpiece, St. Mary's Church is renowned for its impressive altar and significant historical artifacts. Its proximity to Buddenbrookhaus makes it an easy addition to your itinerary.
 
-3. **The Holstentor**: This iconic gate is one of Lübeck's most famous landmarks. Serving as a symbol of the city’s Hanseatic heritage, the Holstentor is a must-see for anyone interested in Lübeck’s history.
+3. **The Holstentor**: This iconic gate is one of Lübeck's most famous landmarks. Serving as a symbol of the city's Hanseatic heritage, the Holstentor is a must-see for anyone interested in Lübeck's history.
 
 4. **European Hansemuseum**: Just a short distance away, this museum offers a comprehensive look at the Hanseatic League's history and its impact on Lübeck and Europe as a whole. 
 
@@ -78,7 +78,7 @@ For those planning a visit to Buddenbrookhaus, here are a few insider tips to en
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during the early opening hours on weekdays. This allows for a more intimate experience with the exhibits and fewer distractions.
 
-- **Engage with Staff**: The museum staff are knowledgeable and passionate about the Mann family and their works. Don’t hesitate to ask questions; they can provide valuable insights that enhance your understanding of the museum's offerings.
+- **Engage with Staff**: The museum staff are knowledgeable and passionate about the Mann family and their works. Don't hesitate to ask questions; they can provide valuable insights that enhance your understanding of the museum's offerings.
 
 ## Practical Information
 
@@ -97,11 +97,11 @@ Photography policies may vary, so it's best to inquire with the museum staff upo
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be available at certain times or for special exhibitions.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 Weekdays, particularly during the shoulder seasons of spring and autumn, are ideal for avoiding crowds and enjoying a more relaxed visit.
 
 ### Is it wheelchair accessible?
-The museum aims to be accessible, but it’s advisable to check the official website or contact staff for specific accessibility features.
+The museum aims to be accessible, but it's advisable to check the official website or contact staff for specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

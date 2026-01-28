@@ -32,13 +32,13 @@ As a pivotal site in the region, Freiburg Castle embodies the essence of medieva
 
 ## History and Significance
 
-Freiburg Castle’s history is closely tied to the development of the city of Freiburg im Breisgau. While specific dates regarding its construction remain elusive, the castle has been an integral part of the region’s defense system since its establishment. The castle was strategically positioned to protect the town from various threats and served as a residence for local nobility, reflecting the feudal structure prevalent in medieval Europe.
+Freiburg Castle's history is closely tied to the development of the city of Freiburg im Breisgau. While specific dates regarding its construction remain elusive, the castle has been an integral part of the region's defense system since its establishment. The castle was strategically positioned to protect the town from various threats and served as a residence for local nobility, reflecting the feudal structure prevalent in medieval Europe.
 
-The castle’s significance extends beyond its military function; it has been a center of governance and a symbol of power. Over the centuries, Freiburg Castle has witnessed numerous historical events that have shaped the region, from conflicts to political changes. Its enduring presence speaks to the resilience of the community and its ability to adapt through changing times.
+The castle's significance extends beyond its military function; it has been a center of governance and a symbol of power. Over the centuries, Freiburg Castle has witnessed numerous historical events that have shaped the region, from conflicts to political changes. Its enduring presence speaks to the resilience of the community and its ability to adapt through changing times.
 
-The cultural importance of Freiburg Castle can also be seen in its influence on local traditions and folklore. As a focal point for gatherings and celebrations, the castle has become a symbol of local identity. It has inspired countless stories and legends, making it a vital part of Freiburg’s cultural landscape.
+The cultural importance of Freiburg Castle can also be seen in its influence on local traditions and folklore. As a focal point for gatherings and celebrations, the castle has become a symbol of local identity. It has inspired countless stories and legends, making it a vital part of Freiburg's cultural landscape.
 
-Visitors to Freiburg Castle can engage with its history through exploration and interpretation of its architectural features, providing a deeper understanding of its role in the region’s past. The castle stands not only as a physical structure but as a narrative of the people who built it and the generations that have lived around it.
+Visitors to Freiburg Castle can engage with its history through exploration and interpretation of its architectural features, providing a deeper understanding of its role in the region's past. The castle stands not only as a physical structure but as a narrative of the people who built it and the generations that have lived around it.
 
 ## Architecture and Features
 
@@ -70,7 +70,7 @@ Freiburg im Breisgau is home to several attractions that complement a visit to F
 
 3. **Augustinermuseum**: Housed in a former monastery, this museum features a collection of art and artifacts that highlight the region's history and culture.
 
-4. **Historical Merchants’ Hall (Historisches Kaufhaus)**: Located in the city center, this remarkable building showcases the architectural style of the late Gothic period and serves as a backdrop for various events.
+4. **Historical Merchants' Hall (Historisches Kaufhaus)**: Located in the city center, this remarkable building showcases the architectural style of the late Gothic period and serves as a backdrop for various events.
 
 5. **City Park (Stadtgarten)**: A lovely green space perfect for a leisurely stroll, picnicking, or enjoying local flora and fauna.
 

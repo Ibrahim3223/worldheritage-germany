@@ -66,7 +66,7 @@ For those seeking a full experience, consider bringing a picnic to enjoy in one 
 
 Babelsberg Park is conveniently located near several other notable attractions in Potsdam, making it an excellent starting point for a day of exploration. Here are a few nearby places you might consider visiting:
 
-1. **Babelsberg Palace**: Directly adjacent to the park, this stunning palace offers guided tours that delve into its architectural history and the royal family’s lifestyle.
+1. **Babelsberg Palace**: Directly adjacent to the park, this stunning palace offers guided tours that delve into its architectural history and the royal family's lifestyle.
 
 2. **Sanssouci Palace**: A short distance away, this UNESCO World Heritage Site features beautiful gardens and is one of the most famous landmarks in Potsdam.
 
@@ -88,7 +88,7 @@ To make the most of your visit to Babelsberg Park, consider these insider tips:
 
 When preparing for your visit to Babelsberg Park, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are essential, as the park’s pathways encourage exploration. Consider bringing a camera to capture the park’s beauty, along with a picnic blanket and refreshments if you wish to enjoy a meal outdoors.
+- **What to Bring**: Comfortable walking shoes are essential, as the park's pathways encourage exploration. Consider bringing a camera to capture the park's beauty, along with a picnic blanket and refreshments if you wish to enjoy a meal outdoors.
 
 - **Seasonal Considerations**: Each season offers a different experience at the park. Spring showcases blooming flowers, summer is vibrant with greenery, autumn presents a palette of colors, and winter can transform the park into a quiet, serene landscape.
 

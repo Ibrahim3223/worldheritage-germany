@@ -76,7 +76,7 @@ To avoid larger crowds, aim to visit during weekdays or in the early morning whe
 
 ## Practical Information
 
-When preparing for your visit to Keramik-Museum Berlin, it’s advisable to wear comfortable shoes, as you may spend a considerable amount of time walking through the galleries. Additionally, consider bringing a notebook or sketchbook if you're inspired to jot down thoughts or create sketches of the ceramics that resonate with you.
+When preparing for your visit to Keramik-Museum Berlin, it's advisable to wear comfortable shoes, as you may spend a considerable amount of time walking through the galleries. Additionally, consider bringing a notebook or sketchbook if you're inspired to jot down thoughts or create sketches of the ceramics that resonate with you.
 
 Seasonal considerations may also influence your visit. During colder months, check if there are any special winter exhibitions or events, while summer might offer outdoor workshops or activities. Regardless of the time of year, being prepared will help you make the most of your experience at the museum.
 

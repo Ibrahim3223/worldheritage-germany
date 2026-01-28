@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Located in the picturesque region of Mayen, Germany, Terra Vulcania offers visitors an in-depth exploration of basalt mining, a significant aspect of the area’s industrial heritage. The museum stands as a unique cultural institution dedicated to the history and techniques of basalt extraction, celebrating the geological and industrial narratives tied to this fascinating material. As you approach the museum, the rich geological landscape hints at the stories that await within its walls.
+Located in the picturesque region of Mayen, Germany, Terra Vulcania offers visitors an in-depth exploration of basalt mining, a significant aspect of the area's industrial heritage. The museum stands as a unique cultural institution dedicated to the history and techniques of basalt extraction, celebrating the geological and industrial narratives tied to this fascinating material. As you approach the museum, the rich geological landscape hints at the stories that await within its walls.
 
 Terra Vulcania not only presents the technological advancements in mining but also showcases the environmental and social impacts of the industry on the local communities. The museum serves as a vital resource for understanding the region's geological framework and its historical reliance on basalt—an igneous rock that has shaped both the landscape and local industry. Visitors can expect a comprehensive educational experience that intertwines history, geology, and the evolution of mining practices. 
 
@@ -28,9 +28,9 @@ Whether you are an enthusiast of geology, history, or industrial heritage, Terra
 
 ## History and Significance
 
-The history of basalt mining in Mayen traces back to the early utilization of the stone, which has been valued for its durability and versatility. The region’s volcanic past significantly influenced its geological composition, leading to the formation of extensive basalt deposits. These deposits became a crucial resource for local industries, especially in construction and road building.
+The history of basalt mining in Mayen traces back to the early utilization of the stone, which has been valued for its durability and versatility. The region's volcanic past significantly influenced its geological composition, leading to the formation of extensive basalt deposits. These deposits became a crucial resource for local industries, especially in construction and road building.
 
-Terra Vulcania serves as a repository of knowledge about this industry, emphasizing the development of mining techniques over time. The museum contextualizes the technological evolution, showcasing tools and methods that have been employed in the extraction of basalt. It also sheds light on the socio-economic impacts of basalt mining on the local population, illustrating how mining shaped the community’s identity and economic landscape.
+Terra Vulcania serves as a repository of knowledge about this industry, emphasizing the development of mining techniques over time. The museum contextualizes the technological evolution, showcasing tools and methods that have been employed in the extraction of basalt. It also sheds light on the socio-economic impacts of basalt mining on the local population, illustrating how mining shaped the community's identity and economic landscape.
 
 Beyond its industrial narrative, the museum connects visitors with the broader geological heritage of Germany, emphasizing the importance of natural resources in regional development. By exploring the intersection of nature and human endeavor, Terra Vulcania fosters a deeper appreciation for the geological formations that define the area and highlights the need for sustainable practices in resource extraction.
 

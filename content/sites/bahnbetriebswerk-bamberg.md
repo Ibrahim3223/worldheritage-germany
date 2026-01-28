@@ -56,7 +56,7 @@ While visiting the Bahnbetriebswerk Bamberg, you may want to explore other nearb
 
 2. **Old Town Hall (Altes Rathaus)**: Situated on an island in the Regnitz River, this picturesque building features a striking frescoed facade and is surrounded by charming streets filled with shops and cafes.
 
-3. **Bamberg Historical Museum**: Located in the former prince-bishops’ residence, this museum offers insights into the city’s history and showcases a variety of artifacts from different eras.
+3. **Bamberg Historical Museum**: Located in the former prince-bishops' residence, this museum offers insights into the city's history and showcases a variety of artifacts from different eras.
 
 4. **Little Venice (Klein-Venedig)**: A picturesque area along the river, characterized by its charming half-timbered houses and scenic views, perfect for a leisurely stroll.
 

@@ -64,11 +64,11 @@ While Neuleiningen Castle is a highlight in its own right, there are several nea
    
 2. **Bad Dürkheim**: Located a short drive away, this town is known for its wine culture and beautiful parks, perfect for a leisurely afternoon.
 
-3. **Wurstmarkt**: If visiting in September, don’t miss this renowned wine festival held in Bad Dürkheim, celebrated for its regional wines and festive atmosphere.
+3. **Wurstmarkt**: If visiting in September, don't miss this renowned wine festival held in Bad Dürkheim, celebrated for its regional wines and festive atmosphere.
 
 4. **Palatinate Forest**: A short distance from the castle, this expansive natural area offers hiking trails and stunning views of the landscape, ideal for outdoor enthusiasts.
 
-5. **Landsau Castle**: Another historical site in the region, Landsau Castle provides additional context to the area’s rich heritage and architectural legacy.
+5. **Landsau Castle**: Another historical site in the region, Landsau Castle provides additional context to the area's rich heritage and architectural legacy.
 
 ## Insider Tips
 

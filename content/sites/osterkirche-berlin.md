@@ -66,7 +66,7 @@ The Osterkirche is conveniently located near several noteworthy attractions in B
 2. **Berlin Cathedral (Berliner Dom)** - An iconic church known for its impressive dome and stunning interiors, this cathedral is a short distance from the Osterkirche and worth a visit.
 3. **Brandenburg Gate** - A historic monument that symbolizes peace and unity, the Brandenburg Gate is a must-see landmark just a brief walk away.
 4. **The Reichstag Building** - Home to the German parliament, this architectural marvel features a glass dome that provides panoramic views of the city.
-5. **Tiergarten** - One of Berlin’s largest and most popular parks, the Tiergarten offers a peaceful retreat with beautiful pathways, gardens, and sculptures.
+5. **Tiergarten** - One of Berlin's largest and most popular parks, the Tiergarten offers a peaceful retreat with beautiful pathways, gardens, and sculptures.
 
 ## Insider Tips
 

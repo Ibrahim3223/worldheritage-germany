@@ -38,7 +38,7 @@ Inside, you can expect to find a mix of permanent collections and rotating exhib
 
 ## Visiting Information
 
-Visiting the Kunstmuseum Erlangen is straightforward, with various transportation options available for getting to the museum. If you are traveling by public transport, Erlangen is well-connected, making it easy to reach the museum from different parts of the city and surrounding areas. For those driving, parking options may be available nearby, but it’s advisable to check the official website for current information on parking facilities.
+Visiting the Kunstmuseum Erlangen is straightforward, with various transportation options available for getting to the museum. If you are traveling by public transport, Erlangen is well-connected, making it easy to reach the museum from different parts of the city and surrounding areas. For those driving, parking options may be available nearby, but it's advisable to check the official website for current information on parking facilities.
 
 To fully enjoy the museum experience, it's recommended to allocate a couple of hours for your visit. This timeframe allows you to explore the exhibitions at a comfortable pace and engage with the art on display. The best times to visit may vary, but weekdays often provide a quieter experience compared to weekends when more visitors are likely to attend.
 
@@ -56,7 +56,7 @@ After your visit to Kunstmuseum Erlangen, consider exploring some nearby attract
 
 4. **Schlossgarten Erlangen**: A beautifully landscaped park adjacent to the Erlangen Castle, perfect for a relaxing walk or enjoying nature.
 
-5. **Erlangen’s City Center**: Explore the charming streets filled with shops, cafes, and restaurants that offer a taste of local culture and cuisine.
+5. **Erlangen's City Center**: Explore the charming streets filled with shops, cafes, and restaurants that offer a taste of local culture and cuisine.
 
 ## Insider Tips
 

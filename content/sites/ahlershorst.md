@@ -106,4 +106,4 @@ Amenities such as restrooms and cafes may not be available within the reserve. I
 ### What should I wear?
 Comfortable clothing suitable for outdoor exploration is recommended. Layers can help accommodate fluctuating temperatures throughout the day.
 
-In summary, Ahlershorst offers a refreshing retreat into nature, encouraging visitors to appreciate the ecological richness of Lower Saxony. Emphasizing conservation and sustainable practices, this nature reserve is a vital contributor to the region’s environmental efforts and an inviting destination for those seeking solace in the great outdoors.
+In summary, Ahlershorst offers a refreshing retreat into nature, encouraging visitors to appreciate the ecological richness of Lower Saxony. Emphasizing conservation and sustainable practices, this nature reserve is a vital contributor to the region's environmental efforts and an inviting destination for those seeking solace in the great outdoors.

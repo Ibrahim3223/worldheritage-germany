@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Reformiertes Convict Halle is a noteworthy foundation located in the heart of Halle (Saale), Germany. This site represents a significant religious and cultural institution, rooted in the Reformed tradition of Protestantism. As a church foundation, it serves as a center for spiritual and community activities, reflecting the region’s rich ecclesiastical heritage. With its historical significance and contribution to local culture, the foundation offers visitors a glimpse into the religious practices that have shaped the community over centuries.
+Reformiertes Convict Halle is a noteworthy foundation located in the heart of Halle (Saale), Germany. This site represents a significant religious and cultural institution, rooted in the Reformed tradition of Protestantism. As a church foundation, it serves as a center for spiritual and community activities, reflecting the region's rich ecclesiastical heritage. With its historical significance and contribution to local culture, the foundation offers visitors a glimpse into the religious practices that have shaped the community over centuries.
 
 Halle (Saale) itself is a city known for its rich history, vibrant cultural scene, and academic institutions, making it an appealing destination for those interested in exploring Germany's past. The Reformiertes Convict stands out not only for its architectural features but also for its enduring role in the local community. Travelers seeking to understand the religious landscape of Germany will find this site particularly fascinating.
 

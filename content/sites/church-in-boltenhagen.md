@@ -86,7 +86,7 @@ Seasonal considerations are important; spring and summer months typically attrac
 A visit typically takes about 30 minutes to an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s best to check for any specific restrictions inside the church.
+Photography is usually permitted, but it's best to check for any specific restrictions inside the church.
 
 ### Are there guided tours?
 Check the official website for information about guided tours and any scheduled events.

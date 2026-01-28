@@ -44,7 +44,7 @@ Grabstätte Leopold Hoesch is characterized by its understated yet poignant desi
 
 While specific architectural details may not be available, many tombs in Germany often feature inscriptions and symbols that convey the values and beliefs of those memorialized within. Visitors can expect to find elements that reflect both the personal story of Leopold Hoesch and the broader cultural motifs prevalent in German burial practices.
 
-The simplicity of the tomb’s design is likely meant to evoke a sense of serenity and contemplation, allowing visitors to reflect on the significance of life and death. Such features enhance the overall experience, making it a meaningful site for personal introspection or quiet observation.
+The simplicity of the tomb's design is likely meant to evoke a sense of serenity and contemplation, allowing visitors to reflect on the significance of life and death. Such features enhance the overall experience, making it a meaningful site for personal introspection or quiet observation.
 
 ## Visiting Information
 
@@ -94,7 +94,7 @@ Accessibility information is not detailed. It is best to check with the official
 Information regarding online ticket purchases is not provided. Check the official website for current options.
 
 ### Are there restrooms and cafes?
-Details about restrooms and cafes near the site are not specified. It’s advisable to plan ahead and check the area for amenities.
+Details about restrooms and cafes near the site are not specified. It's advisable to plan ahead and check the area for amenities.
 
 ### What should I wear?
 Dress respectfully and comfortably, keeping in mind the nature of the site as a burial ground.

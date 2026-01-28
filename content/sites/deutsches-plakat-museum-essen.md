@@ -96,7 +96,7 @@ When preparing for a visit to the Deutsches Plakat Museum Essen, consider the fo
 A visit typically takes between one to two hours, depending on your interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check the museum’s guidelines on photography upon arrival.
+Photography policies may vary by exhibition. It's best to check the museum's guidelines on photography upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours. Check the official website for scheduling and availability.

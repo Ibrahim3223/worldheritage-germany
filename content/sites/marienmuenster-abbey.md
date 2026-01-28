@@ -50,7 +50,7 @@ While the specific details of the abbey's architectural elements are not outline
 
 Visiting Marienmünster Abbey is an enriching experience that allows guests to engage with its history and architecture. When planning your visit, be sure to check the official website for current information on hours and prices, as these may vary throughout the year.
 
-Transportation options to the abbey may include local public transport or private vehicles. Given the abbey’s location in the Marienmünster region, visitors can expect a pleasant journey through the countryside, which adds to the overall experience of the visit. 
+Transportation options to the abbey may include local public transport or private vehicles. Given the abbey's location in the Marienmünster region, visitors can expect a pleasant journey through the countryside, which adds to the overall experience of the visit. 
 
 Once at the site, guests can anticipate a tranquil environment conducive to exploration and contemplation. A visit to the abbey can take about one to two hours, depending on your level of interest and engagement with the surroundings. It is advisable to allocate sufficient time to absorb the atmosphere and appreciate the architectural details.
 

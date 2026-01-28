@@ -73,9 +73,9 @@ To make the most of your visit to Burg Landshut, consider these insider tips:
 
 ## Practical Information
 
-Before heading to Burg Landshut, it’s essential to prepare adequately for your visit. Comfortable walking shoes are recommended, as the castle's uneven surfaces may require some navigation. Depending on the time of year, dress in layers, as temperatures can vary throughout the day, especially in the cooler months.
+Before heading to Burg Landshut, it's essential to prepare adequately for your visit. Comfortable walking shoes are recommended, as the castle's uneven surfaces may require some navigation. Depending on the time of year, dress in layers, as temperatures can vary throughout the day, especially in the cooler months.
 
-Seasonal considerations may also affect your visit, as certain times of the year may offer special events or guided tours. It’s wise to check the official website for any scheduled programs or seasonal highlights.
+Seasonal considerations may also affect your visit, as certain times of the year may offer special events or guided tours. It's wise to check the official website for any scheduled programs or seasonal highlights.
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Accessibility information may vary, so it is advisable to check the official web
 For ticket purchasing options, consult the official website for the most accurate and current information.
 
 ### Are there restrooms and cafes?
-While specific amenities are not detailed here, it’s best to check the official website for information regarding onsite facilities.
+While specific amenities are not detailed here, it's best to check the official website for information regarding onsite facilities.
 
 ### What should I wear?
 Wear comfortable clothing suitable for walking, and consider layering, as temperatures can fluctuate throughout the day.

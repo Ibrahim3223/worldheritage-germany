@@ -64,23 +64,23 @@ Husum is not only home to the Danish Church but is also surrounded by a variety 
 
 2. **The Shipping Museum**: Located in the heart of Husum, this museum provides fascinating insights into the maritime history of the region, showcasing artifacts and exhibits related to local shipping and trade.
 
-3. **St. Mary’s Church**: Another significant religious site, St. Mary’s Church is known for its remarkable Gothic architecture and beautiful stained glass windows, making it a worthwhile stop for architecture enthusiasts.
+3. **St. Mary's Church**: Another significant religious site, St. Mary's Church is known for its remarkable Gothic architecture and beautiful stained glass windows, making it a worthwhile stop for architecture enthusiasts.
 
 4. **The North Sea Coast**: A brief drive from Husum leads to the North Sea, where visitors can enjoy scenic coastal views, beach activities, and regional wildlife.
 
-5. **The Historic Old Town**: Strolling through Husum’s historic old town allows visitors to immerse themselves in the local culture, with charming shops, cafés, and well-preserved buildings lining the streets.
+5. **The Historic Old Town**: Strolling through Husum's historic old town allows visitors to immerse themselves in the local culture, with charming shops, cafés, and well-preserved buildings lining the streets.
 
 ## Insider Tips
 
 For those planning to visit Husum Danish Church, here are a few insider tips to enhance your experience:
 
-- **Photography Tips**: Early morning or late afternoon light can provide optimal conditions for photography, casting beautiful shadows and highlighting architectural details. Be respectful of the church’s sacred space, especially during services.
+- **Photography Tips**: Early morning or late afternoon light can provide optimal conditions for photography, casting beautiful shadows and highlighting architectural details. Be respectful of the church's sacred space, especially during services.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or during non-peak hours. This will allow for a more tranquil experience and the chance to engage with the space more personally.
 
 ## Practical Information
 
-When visiting Husum Danish Church, it’s useful to keep a few practical considerations in mind:
+When visiting Husum Danish Church, it's useful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the church and nearby attractions may involve some walking. A camera can also enhance your experience, allowing you to capture the beauty of the site.
 

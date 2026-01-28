@@ -65,7 +65,7 @@ The best times to visit might align with local events or during the quieter hour
 Rysum Church is located within a region that offers several attractions, enhancing the overall experience of your visit. Here are a few nearby places worth exploring:
 
 1. **Krummhörn Town**: Known for its picturesque landscapes and traditional architecture, Krummhörn showcases the charm of rural Germany.
-2. **Local Museums**: Consider visiting local museums that highlight the history and culture of the area, offering insights into the region’s heritage.
+2. **Local Museums**: Consider visiting local museums that highlight the history and culture of the area, offering insights into the region's heritage.
 3. **Scenic Countryside**: The surrounding countryside is ideal for leisurely walks or bike rides, allowing visitors to immerse themselves in the tranquil landscape.
 4. **Historic Windmills**: The nearby windmills are a representation of the region's agricultural heritage and provide an interesting glimpse into the past.
 

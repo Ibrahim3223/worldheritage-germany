@@ -34,7 +34,7 @@ As you approach Immanuel Church, the charm of its surroundings enhances the expe
 
 Immanuel Church has played a vital role in the cultural and spiritual landscape of Berlin. While specific dates and events are not detailed, the church's significance can be understood in the context of its community impact and architectural relevance. As a church building, it has served the local population for many years, providing a space for worship, reflection, and community gatherings.
 
-The church’s establishment is linked to the broader historical narrative of Berlin, particularly in the context of religious developments and community growth in the Pankow district. Immanuel Church has witnessed various social changes and historical events, contributing to its cultural importance in the area. The church is not only an architectural structure but also a repository of memories for generations of worshippers and residents alike.
+The church's establishment is linked to the broader historical narrative of Berlin, particularly in the context of religious developments and community growth in the Pankow district. Immanuel Church has witnessed various social changes and historical events, contributing to its cultural importance in the area. The church is not only an architectural structure but also a repository of memories for generations of worshippers and residents alike.
 
 Throughout its existence, Immanuel Church has adapted to the changing dynamics of the neighborhood, reflecting the resilience and evolution of the community it serves. This adaptability speaks to the enduring nature of religious institutions in urban settings, where they often play multifaceted roles beyond mere places of worship.
 
@@ -75,7 +75,7 @@ If you are planning to attend a service or special event, arriving early can pro
 
 ## Practical Information
 
-When visiting Immanuel Church, consider bringing a few essentials to enhance your experience. Comfortable walking shoes are advisable, as you may wish to explore the surrounding area. Depending on the season, bringing a light jacket or umbrella could be beneficial, given Berlin’s variable weather.
+When visiting Immanuel Church, consider bringing a few essentials to enhance your experience. Comfortable walking shoes are advisable, as you may wish to explore the surrounding area. Depending on the season, bringing a light jacket or umbrella could be beneficial, given Berlin's variable weather.
 
 As with any cultural site, it is important to be respectful of the space, particularly during services or moments of reflection. Mindfulness in dress and behavior can enhance your visit and contribute positively to the atmosphere.
 

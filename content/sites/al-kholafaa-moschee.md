@@ -66,7 +66,7 @@ Weimar is replete with attractions that complement a visit to the Al-Kholafa´a 
 
 ## Insider Tips
 
-When visiting the Al-Kholafa´a Moschee, consider bringing a camera to capture the architectural beauty of the mosque, but be mindful of photography restrictions that may apply within sacred spaces. To avoid crowds, try to visit during weekday mornings or off-peak hours, allowing for a more intimate experience. Engaging with the local community can enhance your visit, so don’t hesitate to participate in any events or discussions that may be taking place during your time there.
+When visiting the Al-Kholafa´a Moschee, consider bringing a camera to capture the architectural beauty of the mosque, but be mindful of photography restrictions that may apply within sacred spaces. To avoid crowds, try to visit during weekday mornings or off-peak hours, allowing for a more intimate experience. Engaging with the local community can enhance your visit, so don't hesitate to participate in any events or discussions that may be taking place during your time there.
 
 ## Practical Information
 

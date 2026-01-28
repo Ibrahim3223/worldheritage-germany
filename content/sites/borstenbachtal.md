@@ -40,7 +40,7 @@ Nature reserves like Borstenbachtal play a critical role in environmental educat
 
 The conservation initiatives in places such as Borstenbachtal resonate with a growing global awareness of environmental issues. With increasing challenges posed by urban development and climate change, reserves like this provide essential sanctuaries for wildlife and serve as vital areas for research and education. They encourage sustainable practices and inspire future generations to value and protect their natural surroundings.
 
-In summary, Borstenbachtal’s significance extends beyond its natural beauty; it represents a commitment to conservation and a recognition of the need to protect our planet’s fragile ecosystems.
+In summary, Borstenbachtal's significance extends beyond its natural beauty; it represents a commitment to conservation and a recognition of the need to protect our planet's fragile ecosystems.
 
 ## Architecture and Features
 

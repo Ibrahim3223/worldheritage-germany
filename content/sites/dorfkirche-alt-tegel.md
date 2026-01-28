@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Reinickendorf, amid the vibrant pulse of Berlin, lies the Dorfkirche Alt-Tegel, an intriguing church building that reflects the region's historical and cultural landscape. This church not only serves as a place of worship but also stands as a significant landmark for those exploring the heritage of the area. With its historical roots and architectural presence, the Dorfkirche Alt-Tegel invites visitors to discover its stories and the community it has served for generations.
 
-The church’s location in Alt-Tegel, a district in Berlin, offers a unique glimpse into the blend of urban and suburban life. Its significance extends beyond its religious functions, as it has become a focal point for local gatherings and events, encapsulating the spirit of the neighborhood. Visitors to the church can anticipate a blend of spirituality and community engagement, making it a worthwhile stop for those interested in the cultural fabric of Berlin.
+The church's location in Alt-Tegel, a district in Berlin, offers a unique glimpse into the blend of urban and suburban life. Its significance extends beyond its religious functions, as it has become a focal point for local gatherings and events, encapsulating the spirit of the neighborhood. Visitors to the church can anticipate a blend of spirituality and community engagement, making it a worthwhile stop for those interested in the cultural fabric of Berlin.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The architectural style of the Dorfkirche Alt-Tegel is characteristic of church 
 
 The church's exterior likely showcases traditional elements that resonate with the surrounding architecture, creating a harmonious blend with its environment. Inside, visitors may find decor that reflects local artistry or significant religious iconography, enhancing the spiritual atmosphere of the space.
 
-Notable features may include stained glass windows, which often tell biblical stories or depict saints, contributing to the church’s overall ambiance. The layout of the church is typically designed to foster community engagement, with ample space for congregational gatherings and events.
+Notable features may include stained glass windows, which often tell biblical stories or depict saints, contributing to the church's overall ambiance. The layout of the church is typically designed to foster community engagement, with ample space for congregational gatherings and events.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Visiting the Dorfkirche Alt-Tegel is a delightful opportunity to engage with bot
 
 When planning a visit, it is advisable to check the official website for current information regarding opening hours and any potential entry fees. The expected time needed for a visit can vary based on personal interest, but a general recommendation is to allocate at least an hour to appreciate the architecture and the spiritual atmosphere fully.
 
-The best times to visit may coincide with local events or services, which can enrich the experience. Engaging with the community during these times offers a unique perspective on the church’s role in everyday life.
+The best times to visit may coincide with local events or services, which can enrich the experience. Engaging with the community during these times offers a unique perspective on the church's role in everyday life.
 
 ## Nearby Attractions
 
@@ -84,7 +84,7 @@ Seasonal considerations are important; visiting during spring or early autumn ca
 A visit of approximately one hour allows for a meaningful exploration of the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of worshippers and any specific guidelines.
+Photography is generally permitted, but it's advisable to be respectful of worshippers and any specific guidelines.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or community events that may enhance your visit.

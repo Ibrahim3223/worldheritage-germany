@@ -28,7 +28,7 @@ image_srcset:
 
 Billetal, a distinguished nature reserve located in Aumühle, Schleswig-Holstein, Germany, is a sanctuary for those seeking a blend of natural beauty and ecological significance. This protected area is dedicated to preserving the unique flora and fauna of the region, showcasing the delicate balance of ecosystems that thrive within its boundaries. With its rich biodiversity, Billetal serves as both a refuge for wildlife and a peaceful retreat for nature enthusiasts.
 
-The reserve’s location in northern Germany places it within a region known for its lush landscapes and diverse habitats. Visitors can expect to encounter a variety of plant species, as well as the opportunity to observe various animal life in their natural environment. Billetal not only highlights the importance of conservation efforts but also offers a serene escape, making it a valuable destination for eco-tourism.
+The reserve's location in northern Germany places it within a region known for its lush landscapes and diverse habitats. Visitors can expect to encounter a variety of plant species, as well as the opportunity to observe various animal life in their natural environment. Billetal not only highlights the importance of conservation efforts but also offers a serene escape, making it a valuable destination for eco-tourism.
 
 Whether you are a seasoned naturalist or simply looking to enjoy a day in the great outdoors, Billetal promises an enriching experience, encouraging a deeper appreciation for the natural world.
 

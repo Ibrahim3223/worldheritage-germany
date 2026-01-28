@@ -28,7 +28,7 @@ image_srcset:
 
 The Universitätsgebäude in Würzburg, Germany, is not merely a museum; it is an emblem of cultural heritage and academic history. Located in the picturesque region of Bavaria, this site serves as a significant landmark, reflecting the rich educational traditions that have flourished in this vibrant city. As a designated cultural heritage monument, the Universitätsgebäude represents the enduring influence of higher education in shaping the intellectual landscape of the region. Visitors are invited to explore its storied halls and engage with its exhibitions, which celebrate both the past and the ongoing contributions of academia to society.
 
-The Universitätsgebäude stands at the heart of Würzburg, a city known for its historical architecture, wine production, and vibrant arts scene. The museum’s collection and exhibits are a testament to the university's long-standing commitment to knowledge and culture. With its accessible location, it is an essential stop for anyone looking to understand the educational legacy of Würzburg while delving into the artistic and historical narratives that the museum presents.
+The Universitätsgebäude stands at the heart of Würzburg, a city known for its historical architecture, wine production, and vibrant arts scene. The museum's collection and exhibits are a testament to the university's long-standing commitment to knowledge and culture. With its accessible location, it is an essential stop for anyone looking to understand the educational legacy of Würzburg while delving into the artistic and historical narratives that the museum presents.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ Würzburg is home to several attractions that complement a visit to the Universi
 
 To make the most of your visit to the Universitätsgebäude, consider the following insider tips:
 
-- **Photography**: While photography may be allowed in some areas, it’s best to check for any restrictions, especially in specific exhibition spaces. This ensures that you are respectful of the museum's policies while capturing your experience.
+- **Photography**: While photography may be allowed in some areas, it's best to check for any restrictions, especially in specific exhibition spaces. This ensures that you are respectful of the museum's policies while capturing your experience.
 
 - **Crowd Avoidance**: For a quieter experience, plan your visit during weekdays or outside of school holiday seasons. Early morning visits can also help you avoid larger groups and provide a more personal experience.
 

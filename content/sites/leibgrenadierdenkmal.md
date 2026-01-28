@@ -66,7 +66,7 @@ As you plan your visit, consider what other activities you might want to engage 
 
 4. **Federal Court of Justice**: An important landmark in Karlsruhe, the Federal Court of Justice is notable for its architectural design and plays a central role in the German judicial system.
 
-5. **St. Stephen’s Church**: A historical church in the city center, St. Stephen’s Church is known for its beautiful stained glass windows and impressive interior, offering another layer of cultural exploration.
+5. **St. Stephen's Church**: A historical church in the city center, St. Stephen's Church is known for its beautiful stained glass windows and impressive interior, offering another layer of cultural exploration.
 
 ## Insider Tips
 

@@ -28,7 +28,7 @@ image_srcset:
 
 St.-Jacobi-Kirche, located in the charming town of Neustadt in Sachsen, Germany, is a captivating church building that draws visitors not only for its architectural grace but also for its historical significance within the region. As a key landmark, it reflects the spiritual and cultural heritage of Neustadt, which has long been a site of community gathering and worship. This church serves as a focal point for both locals and travelers who seek to connect with the past while appreciating the beauty of this serene town.
 
-Situated in the picturesque landscapes of Saxony, St.-Jacobi-Kirche is surrounded by rolling hills and lush greenery, offering an inviting atmosphere for exploration. The church’s history and architecture are intertwined with the narrative of Neustadt, making it a vital part of the local identity. Whether you're drawn by the allure of historical architecture or the tranquil ambiance of a place of worship, a visit to St.-Jacobi-Kirche promises a rewarding experience.
+Situated in the picturesque landscapes of Saxony, St.-Jacobi-Kirche is surrounded by rolling hills and lush greenery, offering an inviting atmosphere for exploration. The church's history and architecture are intertwined with the narrative of Neustadt, making it a vital part of the local identity. Whether you're drawn by the allure of historical architecture or the tranquil ambiance of a place of worship, a visit to St.-Jacobi-Kirche promises a rewarding experience.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ Seasonal considerations should also be kept in mind; spring and summer months ty
 A visit to St.-Jacobi-Kirche typically takes about one to two hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of any services or events taking place.
+Photography is generally permitted, but it's best to be respectful of any services or events taking place.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website; check there for the latest offerings.

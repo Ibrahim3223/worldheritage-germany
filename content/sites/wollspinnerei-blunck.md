@@ -36,7 +36,7 @@ The Wollspinnerei Blunck holds an essential place in the cultural narrative of B
 
 As industrialization progressed, traditional methods of wool processing faced challenges, yet the Wollspinnerei Blunck serves as a preservation site for these practices. The museum not only highlights the historical significance of wool in the area but also aims to educate visitors on the techniques that have been passed down through generations. Engaging exhibitions and demonstrations provide insights into the craftsmanship involved in wool spinning, fostering a greater appreciation for this age-old skill. 
 
-By holding exhibitions and educational programs, the Wollspinnerei Blunck underscores the cultural importance of textile production, reflecting broader themes of sustainability and craftsmanship in today’s world. The museum acts as a bridge connecting the past to the present, ensuring that the art of wool spinning is not forgotten but celebrated.
+By holding exhibitions and educational programs, the Wollspinnerei Blunck underscores the cultural importance of textile production, reflecting broader themes of sustainability and craftsmanship in today's world. The museum acts as a bridge connecting the past to the present, ensuring that the art of wool spinning is not forgotten but celebrated.
 
 ## Architecture and Features
 

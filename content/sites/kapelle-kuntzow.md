@@ -46,7 +46,7 @@ Kapelle Kuntzow, while simple in design, exhibits a certain charm that is charac
 
 Key features of the chapel may include traditional elements such as a steeple or bell tower, which often serve to call the community to worship. The interior space is likely to be designed for functionality, with seating arrangements that encourage congregation participation. Light may filter through stained glass windows, casting colorful patterns across the interior and creating an inviting atmosphere for reflection and prayer.
 
-While specific details about the chapel’s architectural elements remain unspecified, one can expect a design that harmonizes with the surrounding environment, emphasizing the relationship between the structure and its natural setting. The simplicity of Kapelle Kuntzow allows it to blend seamlessly into the landscape, reinforcing its role as a tranquil retreat for both worshippers and visitors alike.
+While specific details about the chapel's architectural elements remain unspecified, one can expect a design that harmonizes with the surrounding environment, emphasizing the relationship between the structure and its natural setting. The simplicity of Kapelle Kuntzow allows it to blend seamlessly into the landscape, reinforcing its role as a tranquil retreat for both worshippers and visitors alike.
 
 ## Visiting Information
 
@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during weekdays or early in the morning. This t
 
 ## Practical Information
 
-When visiting Kapelle Kuntzow, it is advisable to bring along a few essentials. A camera for capturing the chapel’s beauty, comfortable walking shoes for exploring the surrounding area, and a water bottle to stay hydrated are recommended. 
+When visiting Kapelle Kuntzow, it is advisable to bring along a few essentials. A camera for capturing the chapel's beauty, comfortable walking shoes for exploring the surrounding area, and a water bottle to stay hydrated are recommended. 
 
 Seasonal considerations should also be taken into account. Spring and summer often provide pleasant weather, making outdoor exploration enjoyable. Conversely, if visiting in winter, be prepared for colder temperatures and the possibility of snow, which can add a picturesque quality to the chapel and surroundings.
 

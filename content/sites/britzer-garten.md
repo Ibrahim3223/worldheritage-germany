@@ -28,7 +28,7 @@ image_srcset:
 
 Britzer Garten, a serene park located in the Tempelhof-Schöneberg district of Berlin, offers a delightful escape from the urban bustle. Spanning a substantial area, this park is a lush oasis where visitors can enjoy landscaped gardens, winding pathways, and tranquil waterscapes. The park's design invites exploration, making it a perfect retreat for families, nature lovers, and anyone looking to unwind amidst greenery. As a prominent cultural space in Berlin, Britzer Garten not only emphasizes the beauty of nature but also showcases the significance of parks in urban planning and community life.
 
-The park serves as a vital recreational area for residents and tourists alike, contributing to the city’s overall well-being and environmental health. With its carefully curated landscapes and diverse plant life, Britzer Garten stands as a model for sustainable urban green spaces, promoting biodiversity while providing a peaceful refuge for all who enter. Whether you're meandering through its floral displays or simply enjoying a quiet moment by the pond, this park promises an enriching experience that reflects Berlin's commitment to blending nature with urban living.
+The park serves as a vital recreational area for residents and tourists alike, contributing to the city's overall well-being and environmental health. With its carefully curated landscapes and diverse plant life, Britzer Garten stands as a model for sustainable urban green spaces, promoting biodiversity while providing a peaceful refuge for all who enter. Whether you're meandering through its floral displays or simply enjoying a quiet moment by the pond, this park promises an enriching experience that reflects Berlin's commitment to blending nature with urban living.
 
 ## History and Significance
 
@@ -110,4 +110,4 @@ Yes, the park features restrooms and designated areas for food and beverage purc
 ### What should I wear?
 Dress comfortably, with layers to adjust for changing weather conditions, and wear comfortable shoes for walking. 
 
-Visiting Britzer Garten is not just about enjoying a day in the park; it’s an opportunity to appreciate the balance between urban life and nature, making it a significant part of Berlin’s cultural and environmental landscape.
+Visiting Britzer Garten is not just about enjoying a day in the park; it's an opportunity to appreciate the balance between urban life and nature, making it a significant part of Berlin's cultural and environmental landscape.

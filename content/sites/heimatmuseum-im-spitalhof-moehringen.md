@@ -62,9 +62,9 @@ The Stuttgart region is home to a variety of attractions that complement a visit
 
 2. **Möhringen Park**: A local green space perfect for leisurely strolls or picnics, offering a chance to relax amidst nature.
 
-3. **St. John’s Church**: A historic church known for its architectural beauty, providing a glimpse into the religious heritage of the area.
+3. **St. John's Church**: A historic church known for its architectural beauty, providing a glimpse into the religious heritage of the area.
 
-4. **Böblingen’s old town**: A short distance away, this charming area features medieval architecture and quaint streets, making it an enjoyable exploration for history enthusiasts.
+4. **Böblingen's old town**: A short distance away, this charming area features medieval architecture and quaint streets, making it an enjoyable exploration for history enthusiasts.
 
 5. **Schlossplatz Stuttgart**: The main square of Stuttgart, surrounded by impressive architecture and gardens, perfect for a leisurely afternoon.
 
@@ -99,7 +99,7 @@ Check the official website for information on whether guided tours are available
 For a quieter experience, consider visiting on weekdays or early in the day when crowds are smaller.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s best to check the official website for details regarding wheelchair access.
+Accessibility information may vary; it's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 For the most accurate information on ticket purchasing options, visit the official website.

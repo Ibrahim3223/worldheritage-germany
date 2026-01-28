@@ -62,7 +62,7 @@ When visiting the Saarland Museum, there are several nearby attractions worth ex
 
 2. **Ludwigskirche**: An impressive church known for its beautiful architecture and serene ambiance, making it a peaceful spot to pause after viewing the museum's exhibits.
 
-3. **Stadtgarten**: A lovely park that provides a green escape in the city. It’s an ideal place for a leisurely stroll or a picnic.
+3. **Stadtgarten**: A lovely park that provides a green escape in the city. It's an ideal place for a leisurely stroll or a picnic.
 
 4. **Museum für Vor- und Frühgeschichte**: This archaeological museum showcases artifacts from prehistoric and early historic periods, adding another layer to your cultural exploration.
 
@@ -101,7 +101,7 @@ The museum may offer guided tours; check the official website for availability a
 Visiting during weekday mornings is often recommended for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available, but it’s advisable to check the official website for specifics.
+Accessibility options may be available, but it's advisable to check the official website for specifics.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; refer to the official website for current information on online ticket sales.

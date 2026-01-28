@@ -72,7 +72,7 @@ To make the most of your visit to Heimatmuseum Löffingen, consider these inside
 
 ## Practical Information
 
-When preparing for your visit to Heimatmuseum Löffingen, it’s wise to consider a few practical aspects:
+When preparing for your visit to Heimatmuseum Löffingen, it's wise to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may want to spend time exploring the exhibits thoroughly. A small bag for personal items and a water bottle can also enhance your visit.
 
@@ -84,7 +84,7 @@ When preparing for your visit to Heimatmuseum Löffingen, it’s wise to conside
 Generally, visitors should plan to spend at least a couple of hours at the museum to fully explore the exhibits and engage with the materials on display.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s important to check the museum's guidelines upon arrival.
+Photography policies can vary, so it's important to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website. It can enhance your understanding of the exhibits and provide deeper insights into the local culture.
@@ -93,7 +93,7 @@ Information regarding guided tours may be available on the official website. It 
 Optimal visiting times may depend on specific events or exhibitions. Consider checking the official website for any highlights during your intended visit.
 
 ### Is it wheelchair accessible?
-Accessibility details may be available on the official website. It’s advisable to confirm in advance if you have specific needs.
+Accessibility details may be available on the official website. It's advisable to confirm in advance if you have specific needs.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online sales.

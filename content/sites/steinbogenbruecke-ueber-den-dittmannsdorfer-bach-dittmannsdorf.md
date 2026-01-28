@@ -34,7 +34,7 @@ Culturally, the Steinbogenbrücke has likely served as a gathering point for loc
 
 ## Architecture and Features
 
-The Steinbogenbrücke is characterized by its impressive stone arch design, a hallmark of many historic bridges. This architectural style is not only functional but also visually appealing, showcasing the skill involved in its construction. The bridge’s robust stonework speaks to the craftsmanship of its builders, designed to withstand the test of time and the elements.
+The Steinbogenbrücke is characterized by its impressive stone arch design, a hallmark of many historic bridges. This architectural style is not only functional but also visually appealing, showcasing the skill involved in its construction. The bridge's robust stonework speaks to the craftsmanship of its builders, designed to withstand the test of time and the elements.
 
 Upon closer inspection, visitors can appreciate the intricate details of the arch, which is engineered to distribute weight evenly, ensuring stability. The materials used in the bridge's construction highlight the local geology and building practices of the time. The stone used is likely sourced from nearby quarries, emphasizing the connection between the structure and its environment.
 

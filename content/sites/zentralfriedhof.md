@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Tucked away in the historic town of Quedlinburg, Germany, the Zentralfriedhof serves as a solemn yet fascinating destination for visitors interested in the interplay between history, culture, and architecture. This cemetery, while primarily a resting place, is also a reflection of the rich narrative of the region, encapsulating the stories of countless individuals who have contributed to the tapestry of Quedlinburg’s heritage. Situated at coordinates 51.7876, 11.1665, it offers a unique opportunity to explore the intersection of life and death, art and remembrance. 
+Tucked away in the historic town of Quedlinburg, Germany, the Zentralfriedhof serves as a solemn yet fascinating destination for visitors interested in the interplay between history, culture, and architecture. This cemetery, while primarily a resting place, is also a reflection of the rich narrative of the region, encapsulating the stories of countless individuals who have contributed to the tapestry of Quedlinburg's heritage. Situated at coordinates 51.7876, 11.1665, it offers a unique opportunity to explore the intersection of life and death, art and remembrance. 
 
 As one of the significant cemeteries in Quedlinburg, it draws not only locals but also tourists who wish to pay their respects or simply explore the artistry of grave markers and memorials. The quiet ambience encourages reflection, making it an ideal spot for those seeking a moment of peace away from the more bustling tourist attractions. 
 
@@ -84,7 +84,7 @@ When visiting the Zentralfriedhof, consider these insider tips to enhance your e
 
 Before heading to the Zentralfriedhof, keep these practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as you’ll likely be exploring the paths of the cemetery for a while. A camera can also be useful for capturing the unique memorials and architecture.
+- **What to Bring**: Comfortable walking shoes are recommended, as you'll likely be exploring the paths of the cemetery for a while. A camera can also be useful for capturing the unique memorials and architecture.
 
 - **Seasonal Considerations**: If visiting during the winter months, be prepared for colder temperatures. Layered clothing will help you stay comfortable while exploring the grounds.
 

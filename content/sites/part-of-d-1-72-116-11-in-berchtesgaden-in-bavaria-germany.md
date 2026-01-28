@@ -53,10 +53,10 @@ When planning a visit, expect to spend at least an hour exploring the garden, al
 While visiting the part of D-1-72-116-11, consider exploring these nearby attractions to enhance your experience:
 
 1. **Berchtesgaden National Park**: A stunning natural reserve that offers hiking trails and breathtaking landscapes, ideal for outdoor enthusiasts.
-2. **Kehlsteinhaus (Eagle’s Nest)**: A historical site with panoramic views, accessible via a scenic bus ride followed by a short hike.
+2. **Kehlsteinhaus (Eagle's Nest)**: A historical site with panoramic views, accessible via a scenic bus ride followed by a short hike.
 3. **Berchtesgaden Salt Mines**: An engaging museum experience that delves into the history of salt extraction in the region.
 4. **Watzmann Mountain**: Known for its impressive peaks, this mountain offers challenging hikes and spectacular views for adventurers.
-5. **St. Bartholomew’s Church**: A picturesque church located on the shores of Lake Konigssee, known for its striking architecture and serene setting.
+5. **St. Bartholomew's Church**: A picturesque church located on the shores of Lake Konigssee, known for its striking architecture and serene setting.
 
 ## Insider Tips
 

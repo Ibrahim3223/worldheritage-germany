@@ -52,7 +52,7 @@ Overall, St. Pauli is not just a church building; it is an architectural embodim
 
 ## Visiting Information
 
-When planning a visit to St. Pauli in Braunschweig, it’s important to consider various logistical aspects to enhance your experience. The church is accessible by various modes of transportation, making it convenient for visitors to reach. Public transportation options may include local buses or trams that connect to major points within the city.
+When planning a visit to St. Pauli in Braunschweig, it's important to consider various logistical aspects to enhance your experience. The church is accessible by various modes of transportation, making it convenient for visitors to reach. Public transportation options may include local buses or trams that connect to major points within the city.
 
 As you prepare for your visit, check the official website for hours and pricing to ensure you have the most current information. The atmosphere inside St. Pauli is typically peaceful, providing a space for contemplation and reflection. Visitors are encouraged to spend time exploring both the interior and exterior of the church, taking in its architectural features and the surrounding area.
 

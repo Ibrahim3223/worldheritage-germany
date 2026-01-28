@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Wormser Tor, a striking city gate located in the town of Frankenthal, Germany, stands as a remarkable remnant of the city’s historical fortifications. This triumphal arch-style structure reflects the architectural trends of its time and serves as a significant landmark within the region of Rheinland-Pfalz. As visitors approach Wormser Tor, they are greeted not only by its impressive stature but also by the stories embedded within its walls, encapsulating the essence of Frankenthal’s past. 
+Wormser Tor, a striking city gate located in the town of Frankenthal, Germany, stands as a remarkable remnant of the city's historical fortifications. This triumphal arch-style structure reflects the architectural trends of its time and serves as a significant landmark within the region of Rheinland-Pfalz. As visitors approach Wormser Tor, they are greeted not only by its impressive stature but also by the stories embedded within its walls, encapsulating the essence of Frankenthal's past. 
 
 The city gate is more than just a physical structure; it symbolizes the historical importance of Frankenthal as a fortified settlement. Serving as a gateway into the city, it played a crucial role in both defense and trade, marking the transition from the outside world into the bustling life of Frankenthal. Today, this well-preserved relic invites travelers and history enthusiasts alike to explore its rich narrative, offering insights into the architectural and cultural developments that have shaped this area over the centuries.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Wormser Tor, consider the following tips:
 
 - **Crowd Avoidance**: To enjoy a quieter experience, try visiting on weekdays or during the off-peak season. Early visits can also help you avoid larger groups.
 
-- **Explore Surroundings**: Take time to explore the area around Wormser Tor. Local shops, cafes, and additional historical landmarks can enhance your experience and provide context to the gate’s significance.
+- **Explore Surroundings**: Take time to explore the area around Wormser Tor. Local shops, cafes, and additional historical landmarks can enhance your experience and provide context to the gate's significance.
 
 ## Practical Information
 

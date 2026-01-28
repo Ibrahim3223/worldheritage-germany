@@ -28,13 +28,13 @@ image_srcset:
 
 Opernhaus Wuppertal, located in the heart of Barmen, Wuppertal, Germany, is a distinguished theatre and opera house that has played a significant role in the cultural landscape of the region. This elegant venue is not just a place for performance but also a center for artistic innovation and community engagement. With its roots in the vibrant traditions of German theatre, the Opernhaus attracts an audience eager to experience a diverse array of performances, from classic operas to contemporary plays. 
 
-As a prominent landmark in Wuppertal, the theatre serves as a cultural hub that reflects the city’s dynamic spirit. The geographic context of Wuppertal, known for its unique architecture and transport system, complements the artistic offerings of the Opernhaus, making it a must-visit for both locals and tourists. With a commitment to showcasing high-quality productions, the theatre promises an enriching experience for every visitor.
+As a prominent landmark in Wuppertal, the theatre serves as a cultural hub that reflects the city's dynamic spirit. The geographic context of Wuppertal, known for its unique architecture and transport system, complements the artistic offerings of the Opernhaus, making it a must-visit for both locals and tourists. With a commitment to showcasing high-quality productions, the theatre promises an enriching experience for every visitor.
 
 ## History and Significance
 
 The history of the Opernhaus Wuppertal is woven into the broader narrative of German theatre. The theatre's establishment was influenced by the cultural movements of its time, reflecting societal changes and artistic evolution. While specific dates may not be available, the venue has consistently showcased a wide range of performances that resonate with audiences across generations.
 
-Culturally, the Opernhaus holds a significant place within Wuppertal, contributing to the city’s identity as a center for the arts. The theatre has not only been a platform for established artists but has also nurtured emerging talents, helping to foster a vibrant cultural scene. Its programming often includes innovative works that challenge traditional norms, making it a site of artistic exploration and dialogue.
+Culturally, the Opernhaus holds a significant place within Wuppertal, contributing to the city's identity as a center for the arts. The theatre has not only been a platform for established artists but has also nurtured emerging talents, helping to foster a vibrant cultural scene. Its programming often includes innovative works that challenge traditional norms, making it a site of artistic exploration and dialogue.
 
 The theatre's commitment to accessibility and community engagement further enhances its significance. By offering a variety of performances that cater to diverse tastes and demographics, the Opernhaus promotes inclusivity within the arts. This dedication to cultural enrichment is reflected in its audience, which includes both avid theatre-goers and those experiencing the magic of live performance for the first time.
 

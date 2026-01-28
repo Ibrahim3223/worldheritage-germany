@@ -28,7 +28,7 @@ image_srcset:
 
 Perched strategically on a hill in Germany, Burg Prunn is a historic castle that offers a glimpse into the architectural and cultural heritage of the region. This museum, with its storied past and picturesque setting, is an essential visit for history buffs and casual travelers alike. The castle dates back to medieval times and has evolved through centuries, reflecting the dynamic history of the area. Its significance extends beyond mere aesthetics; Burg Prunn serves as a crucial link to understanding the medieval social and political landscape of Germany.
 
-Visitors to Burg Prunn can anticipate a fusion of history, architecture, and scenic surroundings. The castle’s location not only provides insights into the strategic importance of fortifications in the past but also offers a chance to appreciate the beauty of the region. Whether you’re exploring the castle’s exhibits or wandering through its storied halls, your experience at Burg Prunn promises to be both enriching and engaging.
+Visitors to Burg Prunn can anticipate a fusion of history, architecture, and scenic surroundings. The castle's location not only provides insights into the strategic importance of fortifications in the past but also offers a chance to appreciate the beauty of the region. Whether you're exploring the castle's exhibits or wandering through its storied halls, your experience at Burg Prunn promises to be both enriching and engaging.
 
 ## History and Significance
 

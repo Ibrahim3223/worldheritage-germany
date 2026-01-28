@@ -64,7 +64,7 @@ While visiting the Grabmal Guido Schoeller, consider exploring other notable att
    
 3. **Museum Zinkhütte** - This local museum provides insights into the region's industrial heritage, making it a worthwhile stop for those interested in Düren's history.
 
-4. **Düren Castle** - A stunning historical structure that offers tours and exhibitions, further enriching your understanding of the area’s past.
+4. **Düren Castle** - A stunning historical structure that offers tours and exhibitions, further enriching your understanding of the area's past.
 
 5. **Mühlenbach Park** - A picturesque park ideal for relaxation, providing a natural setting to unwind after exploring the tomb and its surroundings.
 

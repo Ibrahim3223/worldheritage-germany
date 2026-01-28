@@ -66,9 +66,9 @@ Aachen is rich in attractions that complement a visit to the Kreislauf des Gelde
 
 3. **Carolus Thermen**: A modern spa complex offering an array of wellness facilities, including thermal baths and saunas, perfect for relaxation after a day of sightseeing.
 
-4. **Centre Charlemagne**: A museum dedicated to the history of Aachen, where visitors can learn about the city’s past, including its connections to Charlemagne and its status during the Middle Ages.
+4. **Centre Charlemagne**: A museum dedicated to the history of Aachen, where visitors can learn about the city's past, including its connections to Charlemagne and its status during the Middle Ages.
 
-5. **Puppenbrunnen**: Another charming fountain in Aachen, depicting historical figures in a playful manner, adding to the city’s artistic offerings.
+5. **Puppenbrunnen**: Another charming fountain in Aachen, depicting historical figures in a playful manner, adding to the city's artistic offerings.
 
 These attractions provide a well-rounded experience, allowing visitors to delve into Aachen's rich cultural heritage while enjoying the contemporary significance of the Kreislauf des Geldes.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Kreislauf des Geldes, consider the followi
 
 - **Crowd Avoidance**: Weekdays tend to be less busy than weekends, making them ideal for a quieter visit. If you can, plan your trip during these times for a more intimate experience with the monument.
 
-- **Explore the Surroundings**: Take time to wander around the nearby attractions, as they complement the visit to the fountain and enrich your understanding of Aachen’s history and culture.
+- **Explore the Surroundings**: Take time to wander around the nearby attractions, as they complement the visit to the fountain and enrich your understanding of Aachen's history and culture.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ When planning your visit to the Kreislauf des Geldes fountain, keep the followin
 
 - **Seasonal Considerations**: Aachen experiences a temperate climate, so check the weather forecast before your visit. Visiting during spring or summer can enhance your experience, as the outdoor atmosphere is particularly inviting.
 
-- **Accessibility**: The fountain is designed to be accessible to all visitors. However, it’s wise to confirm specific accessibility features through the official website, particularly if you have particular needs.
+- **Accessibility**: The fountain is designed to be accessible to all visitors. However, it's wise to confirm specific accessibility features through the official website, particularly if you have particular needs.
 
 ## Frequently Asked Questions
 

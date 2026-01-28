@@ -36,7 +36,7 @@ The history of St. Mauritz Church is intertwined with the broader narrative of M
 
 Throughout the years, St. Mauritz Church has been a witness to significant events that have shaped both the city and the surrounding area. In times of celebration and remembrance, the church has stood as a gathering place for the local populace, reinforcing its role as a central hub for community activities. Its architecture, representing the design styles prevalent at the time of its construction, adds an additional layer of significance, symbolizing the artistic endeavors of the period.
 
-Visitors can appreciate how St. Mauritz Church not only fulfills its religious function but also embodies the cultural and historical essence of Münster. The church is a reminder of the city's resilience and its ability to adapt through changing times, making it a vital component of Münster’s heritage.
+Visitors can appreciate how St. Mauritz Church not only fulfills its religious function but also embodies the cultural and historical essence of Münster. The church is a reminder of the city's resilience and its ability to adapt through changing times, making it a vital component of Münster's heritage.
 
 ## Architecture and Features
 
@@ -95,19 +95,19 @@ Visitors typically spend about an hour at St. Mauritz Church, allowing time to a
 Photography policies may vary; check for signage or inquire with church staff for guidance on taking pictures inside.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may provide deeper insights into the church’s history and architecture.
+Check the official website for information on guided tours, which may provide deeper insights into the church's history and architecture.
 
 ### What's the best time to visit?
-Weekdays are often less crowded, making them a great time to visit and fully appreciate the church’s ambiance.
+Weekdays are often less crowded, making them a great time to visit and fully appreciate the church's ambiance.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary; it’s best to check the official website for specific information regarding wheelchair access.
+Accessibility details may vary; it's best to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticketing options, as they may vary.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site or nearby; it’s advisable to check the official website for specific information.
+Facilities may be available on-site or nearby; it's advisable to check the official website for specific information.
 
 ### What should I wear?
 Modest attire is generally recommended when visiting places of worship, including St. Mauritz Church.

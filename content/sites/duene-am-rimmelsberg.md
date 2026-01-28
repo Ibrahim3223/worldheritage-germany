@@ -70,7 +70,7 @@ While Düne am Rimmelsberg is a captivating destination in its own right, severa
 
 3. **The St. Nicholas Church in Jörl**: This historic church, known for its unique architecture, provides insight into the local heritage and is a peaceful spot for reflection.
 
-4. **Rendsburg**: A nearby town with a variety of cultural attractions, including museums, parks, and shops. It’s a great place to experience the local cuisine and hospitality.
+4. **Rendsburg**: A nearby town with a variety of cultural attractions, including museums, parks, and shops. It's a great place to experience the local cuisine and hospitality.
 
 5. **Eider-Treene-Sorge Nature Park**: This expansive nature park features diverse ecosystems and recreational opportunities such as hiking and cycling, appealing to outdoor enthusiasts.
 
@@ -111,7 +111,7 @@ Check the official website for information on accessibility options within the r
 Check the official website for current information on entrance fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited in the reserve; it’s best to check the official website for specifics on amenities.
+Facilities may be limited in the reserve; it's best to check the official website for specifics on amenities.
 
 ### What should I wear?
 Wear comfortable, sturdy footwear for walking on trails. Dress in layers to accommodate changing weather conditions, and consider sun protection on warmer days.

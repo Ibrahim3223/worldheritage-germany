@@ -42,7 +42,7 @@ The Augsburg Protestant Cemetery features a unique blend of architectural styles
 
 Among the notable features of the cemetery are its well-maintained pathways and serene landscaping, which create an inviting atmosphere for visitors. Trees and shrubs are thoughtfully placed throughout the grounds, adding to the peaceful environment that encourages contemplation. The layout of the cemetery allows for a natural flow, making it easy to navigate while also providing secluded spots for quiet reflection.
 
-The craftsmanship of many headstones and memorials is noteworthy, showcasing local artisanship. Some memorials are adorned with symbolic motifs, offering insights into the beliefs and values of the individuals they commemorate. In addition to traditional grave markers, there are also memorials dedicated to groups of people, such as those who lost their lives during significant historical events, further emphasizing the cemetery’s role as a historical archive.
+The craftsmanship of many headstones and memorials is noteworthy, showcasing local artisanship. Some memorials are adorned with symbolic motifs, offering insights into the beliefs and values of the individuals they commemorate. In addition to traditional grave markers, there are also memorials dedicated to groups of people, such as those who lost their lives during significant historical events, further emphasizing the cemetery's role as a historical archive.
 
 ## Visiting Information
 

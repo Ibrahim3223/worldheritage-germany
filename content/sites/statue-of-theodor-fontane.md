@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Statue of Theodor Fontane is a noteworthy tribute to one of Germany's most esteemed literary figures, commemorating his contributions to literature and culture. Located in the Bezirk Mitte of Berlin, this statue serves not only as a point of interest for visitors but also as a symbol of the city’s deep-rooted appreciation for its literary heritage. 
+The Statue of Theodor Fontane is a noteworthy tribute to one of Germany's most esteemed literary figures, commemorating his contributions to literature and culture. Located in the Bezirk Mitte of Berlin, this statue serves not only as a point of interest for visitors but also as a symbol of the city's deep-rooted appreciation for its literary heritage. 
 
-The statue is a copy of the original work by Max Klein, which is situated in Berlin-Tiergarten. Its presence in the urban landscape invites passersby to reflect on Fontane’s legacy as a novelist and poet who captured the essence of 19th-century German society. As you approach this statue, you will find it surrounded by the vibrant life of the city, making it a perfect spot for a quick visit or a leisurely pause during your exploration of Berlin.
+The statue is a copy of the original work by Max Klein, which is situated in Berlin-Tiergarten. Its presence in the urban landscape invites passersby to reflect on Fontane's legacy as a novelist and poet who captured the essence of 19th-century German society. As you approach this statue, you will find it surrounded by the vibrant life of the city, making it a perfect spot for a quick visit or a leisurely pause during your exploration of Berlin.
 
-The significance of this statue extends beyond its artistic merit; it stands as a reminder of the power of literature to shape cultural identity and social discourse. Visitors to the statue can expect to engage with not only Fontane’s legacy but also the dynamic atmosphere of Berlin, a city that continues to inspire writers and artists from around the world.
+The significance of this statue extends beyond its artistic merit; it stands as a reminder of the power of literature to shape cultural identity and social discourse. Visitors to the statue can expect to engage with not only Fontane's legacy but also the dynamic atmosphere of Berlin, a city that continues to inspire writers and artists from around the world.
 
 ## History and Significance
 
 Theodor Fontane, born in 1819 and deceased in 1898, was a notable novelist and poet whose works have left an indelible mark on German literature. His literary career flourished during a time when Germany was undergoing significant social and political changes. Fontane's writings often reflected the complexities of his environment, providing keen insights into the lives and struggles of the people around him. 
 
-His most celebrated works include "Effi Briest," a novel that explores themes of love, betrayal, and societal expectations, and "The Stechlin," which examines the intersection of personal and political life in the context of a changing Germany. Fontane’s ability to weave intricate narratives that resonate with universal themes has earned him a place of honor in the literary canon.
+His most celebrated works include "Effi Briest," a novel that explores themes of love, betrayal, and societal expectations, and "The Stechlin," which examines the intersection of personal and political life in the context of a changing Germany. Fontane's ability to weave intricate narratives that resonate with universal themes has earned him a place of honor in the literary canon.
 
 The statue commemorates Fontane's influence on not only German literature but also the broader cultural landscape. As a key figure of the realism movement, his works challenged romantic notions and instead focused on the everyday realities of life. The decision to erect a statue in his honor reflects a collective recognition of his contributions and the ongoing relevance of his work.
 
@@ -48,7 +48,7 @@ The Statue of Theodor Fontane, like its original counterpart, is an impressive r
 
 The statue depicts Fontane in a contemplative pose, likely reflecting the introspective nature of his writing. Surrounding the statue, visitors can observe the urban environment that encapsulates the vibrancy of Berlin, offering a juxtaposition of literary history against a backdrop of contemporary city life.
 
-The design of the statue is characterized by its attention to detail, from Fontane’s facial expression to the folds of his clothing, each element contributing to the overall narrative of the piece. The surrounding area, often bustling with locals and tourists alike, enhances the experience of visiting the statue, making it a lively spot for reflection and observation.
+The design of the statue is characterized by its attention to detail, from Fontane's facial expression to the folds of his clothing, each element contributing to the overall narrative of the piece. The surrounding area, often bustling with locals and tourists alike, enhances the experience of visiting the statue, making it a lively spot for reflection and observation.
 
 ## Visiting Information
 
@@ -105,7 +105,7 @@ While specific guided tours of the statue may not be available, the surrounding 
 Weekdays, particularly in the morning or late afternoon, are ideal for a less crowded experience.
 
 ### Is it wheelchair accessible?
-The statue is located in a public space, which is typically accessible, but it’s best to check local resources for specific accessibility information.
+The statue is located in a public space, which is typically accessible, but it's best to check local resources for specific accessibility information.
 
 ### Can I buy tickets online?
 As the statue is in a public area, there are no tickets required for entry. However, check the official website for any special events or guided tours that might require tickets.

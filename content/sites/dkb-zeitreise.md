@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The DKB-Zeitreise museum in Heimbach, Germany, invites visitors to explore the nuances of local heritage through a captivating collection dedicated to the area’s cultural narrative. Situated at the coordinates 50.6351, 6.47438, this museum serves as a significant hub for those interested in understanding both the historical and contemporary threads that shape the region. As a hallmark of community engagement, the DKB-Zeitreise offers a unique opportunity to delve into the stories that define Heimbach and its surroundings. 
+The DKB-Zeitreise museum in Heimbach, Germany, invites visitors to explore the nuances of local heritage through a captivating collection dedicated to the area's cultural narrative. Situated at the coordinates 50.6351, 6.47438, this museum serves as a significant hub for those interested in understanding both the historical and contemporary threads that shape the region. As a hallmark of community engagement, the DKB-Zeitreise offers a unique opportunity to delve into the stories that define Heimbach and its surroundings. 
 
 Within this dynamic space, visitors can expect an engaging experience that fosters a deeper appreciation for the local history. The DKB-Zeitreise museum is not just a repository of artifacts; it is a place where knowledge and curiosity come together, making it an essential stop for anyone exploring the rich cultural landscape of Germany. 
 
@@ -42,7 +42,7 @@ In addition to exhibit spaces, the museum may include areas for educational prog
 
 ## Visiting Information
 
-For those planning to visit the DKB-Zeitreise, it is advisable to check the official website for current information regarding opening hours and ticket prices. The museum’s location in Heimbach makes it accessible for both local and international travelers.
+For those planning to visit the DKB-Zeitreise, it is advisable to check the official website for current information regarding opening hours and ticket prices. The museum's location in Heimbach makes it accessible for both local and international travelers.
 
 When visiting, expect to spend a few hours exploring the exhibits, which may vary in their presentation and themes. It is beneficial to allocate sufficient time to engage with the displays and absorb the information presented.
 

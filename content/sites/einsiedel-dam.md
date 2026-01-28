@@ -68,7 +68,7 @@ While visiting Einsiedel Dam, consider exploring the following nearby attraction
 
 4. **Lakes and Rivers** - Explore nearby lakes or rivers that may offer recreational activities such as fishing, kayaking, or picnicking, enhancing your visit to the dam.
 
-5. **Cultural Centers** - Look out for local museums or cultural centers that may provide insights into the area’s history and its relationship with water management.
+5. **Cultural Centers** - Look out for local museums or cultural centers that may provide insights into the area's history and its relationship with water management.
 
 ## Insider Tips
 

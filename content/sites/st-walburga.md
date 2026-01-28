@@ -93,7 +93,7 @@ Weekdays are typically less crowded, making them an ideal time for a more peacef
 Check the official website for the latest information on accessibility options.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases can be found on the church’s official website.
+Information regarding online ticket purchases can be found on the church's official website.
 
 ### Are there restrooms and cafes?
 Check the official website for details about restroom facilities and nearby cafes or eateries.

@@ -38,13 +38,13 @@ The origins of Burg Linz can be traced back to its establishment, which was stra
 
 The castle has witnessed the ebb and flow of various ruling families, each leaving their mark on the structure and its surroundings. Over the years, Burg Linz has been the backdrop to numerous stories of conflict and cooperation, contributing to the cultural fabric of Linz am Rhein. Its architecture and layout reveal insights into medieval military strategies and domestic life, serving as a valuable resource for understanding the past.
 
-Culturally, Burg Linz is significant not only as a historical monument but also as a site of community engagement. Events and exhibitions often take place within its walls, connecting modern audiences with the rich historical narratives embedded in the castle's stones. The castle’s preservation efforts underscore its importance in retaining cultural heritage, allowing visitors to appreciate both its historical context and its contemporary relevance.
+Culturally, Burg Linz is significant not only as a historical monument but also as a site of community engagement. Events and exhibitions often take place within its walls, connecting modern audiences with the rich historical narratives embedded in the castle's stones. The castle's preservation efforts underscore its importance in retaining cultural heritage, allowing visitors to appreciate both its historical context and its contemporary relevance.
 
 ## Architecture and Features
 
 Burg Linz exemplifies medieval military architecture, characterized by robust stone construction and strategic design elements. The castle features imposing walls and defensive structures that were essential for its role as a fortification. The layout of the castle includes towers and battlements, which not only served defensive purposes but also provided living quarters for the inhabitants.
 
-The main structure of the castle showcases typical medieval architectural styles, with elements that reflect the period’s craftsmanship. Visitors will notice intricately designed doorways and windows, often adorned with stone carvings that hint at the artistic sensibilities of the time. Inside, the castle's layout reveals a variety of rooms that once served different functions, from living quarters to storage spaces, each telling its own story of daily life in the castle.
+The main structure of the castle showcases typical medieval architectural styles, with elements that reflect the period's craftsmanship. Visitors will notice intricately designed doorways and windows, often adorned with stone carvings that hint at the artistic sensibilities of the time. Inside, the castle's layout reveals a variety of rooms that once served different functions, from living quarters to storage spaces, each telling its own story of daily life in the castle.
 
 One of the notable features of Burg Linz is its panoramic views of the surrounding landscape, which were strategically important for surveillance purposes in the past. Standing on the ramparts allows visitors to appreciate the natural beauty of the area while contemplating the castle's historical significance. 
 
@@ -64,7 +64,7 @@ Burg Linz is situated in a region rich with attractions that complement a visit 
    
 2. **The Rhine River**: Enjoy scenic walks along the riverbanks or partake in boat tours that showcase the natural beauty and historical significance of the Rhine.
 
-3. **St. Martin’s Church**: This historic church in Linz features beautiful Gothic architecture and is worth a visit for those interested in religious heritage.
+3. **St. Martin's Church**: This historic church in Linz features beautiful Gothic architecture and is worth a visit for those interested in religious heritage.
 
 4. **The Old Town of Linz**: Wander through the medieval streets, where vibrant buildings and local shops create a lively atmosphere.
 

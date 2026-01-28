@@ -34,7 +34,7 @@ The ensemble is characterized by its unique blend of architectural styles, mergi
 
 The origins of Hackesche Höfe date back to the late 19th century when the area was developed as a response to the rapid urbanization of Berlin. Originally designed as a series of courtyards to accommodate various commercial enterprises, these spaces played a pivotal role in the city's burgeoning economy. The architectural ensemble reflects the industrial aesthetics of the time, characterized by red brick facades, large windows, and decorative elements that speak to the craftsmanship of the era.
 
-As Berlin evolved through the 20th century, the significance of Hackesche Höfe transformed. The site has witnessed the city’s tumultuous history, including the impacts of World War II and the subsequent division of East and West Berlin. In the post-war years, the area fell into disrepair, with many buildings neglected and abandoned. However, the reunification of Germany in the early 1990s marked a resurgence for Hackesche Höfe, leading to extensive restoration efforts that aimed to preserve its historical integrity while revitalizing the space for modern use.
+As Berlin evolved through the 20th century, the significance of Hackesche Höfe transformed. The site has witnessed the city's tumultuous history, including the impacts of World War II and the subsequent division of East and West Berlin. In the post-war years, the area fell into disrepair, with many buildings neglected and abandoned. However, the reunification of Germany in the early 1990s marked a resurgence for Hackesche Höfe, leading to extensive restoration efforts that aimed to preserve its historical integrity while revitalizing the space for modern use.
 
 Today, Hackesche Höfe stands as a cultural landmark within Berlin, drawing visitors with its eclectic mix of businesses, from artisanal shops to contemporary art galleries. The ensemble is not just an architectural site but a thriving community hub that fosters creativity and innovation, making it an integral part of Berlin's identity.
 
@@ -99,7 +99,7 @@ While there are no specific guided tours of Hackesche Höfe, you can explore the
 Weekdays during the morning or early afternoon tend to be less crowded, making for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Hackesche Höfe features several accessible pathways, but it’s advisable to check specific areas in advance for full accessibility.
+Hackesche Höfe features several accessible pathways, but it's advisable to check specific areas in advance for full accessibility.
 
 ### Can I buy tickets online?
 For the latest information on any entry fees or events, check the official website.

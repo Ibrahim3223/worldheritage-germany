@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Katholische Pfarrkirche St. Bonifaz, located in the serene village of Weißenohe, Germany, is a parish church that reflects the spiritual heritage of the region. Positioned at the coordinates 49.6297, 11.2533, this church serves as a focal point for the local community and visitors alike. Though the church is integral to the community’s daily life, it also stands as a symbol of faith and continuity, inviting exploration into its architectural and cultural significance. 
+The Katholische Pfarrkirche St. Bonifaz, located in the serene village of Weißenohe, Germany, is a parish church that reflects the spiritual heritage of the region. Positioned at the coordinates 49.6297, 11.2533, this church serves as a focal point for the local community and visitors alike. Though the church is integral to the community's daily life, it also stands as a symbol of faith and continuity, inviting exploration into its architectural and cultural significance. 
 
 The church's serene setting and historic value make it an important stop for anyone interested in the religious and cultural landscape of Bavaria. Visitors are welcomed to experience a space dedicated to worship and reflection, which has stood over the years as a witness to the changing tides of history. As you delve into its history, architecture, and the surrounding area, you will find that St. Bonifaz is more than just a place of worship; it is a place where stories are shared, traditions are upheld, and the essence of community thrives.
 
@@ -60,7 +60,7 @@ Time spent at the church can vary based on individual interest, but a visit typi
    
 2. **Local Hiking Trails**: The surrounding area may offer scenic walking paths that showcase the natural beauty of the region, perfect for a peaceful stroll or a more vigorous hike.
    
-3. **Historical Sites**: Other nearby historical sites may provide additional context to the local heritage, enriching your understanding of the area’s background.
+3. **Historical Sites**: Other nearby historical sites may provide additional context to the local heritage, enriching your understanding of the area's background.
 
 4. **Local Dining Options**: After your visit, consider enjoying a meal at a nearby restaurant that offers traditional Bavarian cuisine, allowing you to experience the local flavors.
 

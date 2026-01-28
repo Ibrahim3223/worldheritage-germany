@@ -48,7 +48,7 @@ As you explore Kenzingen Castle, pay attention to any architectural details that
 
 ## Visiting Information
 
-Visiting Kenzingen Castle offers a unique opportunity to immerse yourself in the history and culture of the area. The castle is accessible by various modes of transportation, with local public transit options available for those coming from nearby towns. If you're driving, ample parking may be available, but it’s advisable to check local regulations or any specific guidance regarding parking near the castle.
+Visiting Kenzingen Castle offers a unique opportunity to immerse yourself in the history and culture of the area. The castle is accessible by various modes of transportation, with local public transit options available for those coming from nearby towns. If you're driving, ample parking may be available, but it's advisable to check local regulations or any specific guidance regarding parking near the castle.
 
 When planning your visit, check the official website for current information on opening hours and admission prices. It's worth noting that operational hours can vary, so it's always best to verify before heading out. The amount of time you might spend at the castle can vary depending on your interest level; a visit can typically take anywhere from one to a few hours, allowing you to explore the grounds and absorb the history.
 

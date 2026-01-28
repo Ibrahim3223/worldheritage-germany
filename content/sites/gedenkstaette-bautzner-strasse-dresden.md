@@ -68,7 +68,7 @@ While visiting Gedenkstätte Bautzner Straße, there are several nearby attracti
 
 4. **Zwinger Palace**: A baroque palace featuring beautiful gardens and museums, including the Old Masters Gallery, which displays masterpieces by renowned artists.
 
-5. **Brühl’s Terrace**: Often referred to as the "Balcony of Europe," this picturesque promenade along the Elbe River provides scenic views of the riverbank and cityscape.
+5. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this picturesque promenade along the Elbe River provides scenic views of the riverbank and cityscape.
 
 ## Insider Tips
 

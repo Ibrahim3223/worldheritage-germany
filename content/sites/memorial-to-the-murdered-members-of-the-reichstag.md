@@ -72,7 +72,7 @@ The Memorial to the Murdered Members of the Reichstag is conveniently located ne
 
 For those looking to capture the essence of the Memorial to the Murdered Members of the Reichstag through photography, consider visiting during the golden hours of early morning or late afternoon. The soft light at these times can enhance the solemn beauty of the memorial. Additionally, be mindful of the reflections and shadows that can add depth to your images.
 
-To avoid crowds, consider visiting on weekdays, particularly in the morning when many tourists are still beginning their day. This will allow for a more personal experience as you engage with the memorial’s powerful messages.
+To avoid crowds, consider visiting on weekdays, particularly in the morning when many tourists are still beginning their day. This will allow for a more personal experience as you engage with the memorial's powerful messages.
 
 ## Practical Information
 

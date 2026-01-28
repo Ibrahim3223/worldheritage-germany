@@ -76,7 +76,7 @@ To avoid larger crowds, plan your visit on weekdays rather than weekends. This c
 
 ## Practical Information
 
-When planning your visit to Lambertuskapelle, consider bringing along essentials such as water, comfortable walking shoes, and possibly a camera for capturing the site’s beauty. Seasonal considerations are also important; if visiting during colder months, dress warmly as the chapel may not have extensive heating.
+When planning your visit to Lambertuskapelle, consider bringing along essentials such as water, comfortable walking shoes, and possibly a camera for capturing the site's beauty. Seasonal considerations are also important; if visiting during colder months, dress warmly as the chapel may not have extensive heating.
 
 It is advisable to check the weather forecast prior to your visit to ensure a comfortable experience. If you are interested in exploring the surrounding area, a map or a mobile navigation device can be helpful in guiding your exploration of Treuchtlingen and its attractions.
 

@@ -78,7 +78,7 @@ To make the most out of your visit to the Geigenbaumuseum, consider these inside
 Before heading to the Geigenbaumuseum, it's wise to consider a few practical details:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you'll be exploring various exhibits. Additionally, bringing a small notebook can be helpful for jotting down insights.
-- **Seasonal Considerations**: Winter months in Bavaria can be cold, so dress warmly. Conversely, summer visits may require lighter clothing, but don’t forget a light jacket for cooler evenings.
+- **Seasonal Considerations**: Winter months in Bavaria can be cold, so dress warmly. Conversely, summer visits may require lighter clothing, but don't forget a light jacket for cooler evenings.
 
 ## Frequently Asked Questions
 

@@ -68,7 +68,7 @@ While Felsenkirche is a standout attraction in Idar-Oberstein, several other sit
 
 ## Insider Tips
 
-For photography enthusiasts, Felsenkirche presents numerous opportunities to capture stunning images, both inside and out. Early morning or late afternoon light can create dramatic effects, particularly on the exterior of the church. While it’s common to encounter fellow visitors, planning your visit during weekdays may help you avoid larger crowds, allowing for a more intimate experience.
+For photography enthusiasts, Felsenkirche presents numerous opportunities to capture stunning images, both inside and out. Early morning or late afternoon light can create dramatic effects, particularly on the exterior of the church. While it's common to encounter fellow visitors, planning your visit during weekdays may help you avoid larger crowds, allowing for a more intimate experience.
 
 If you are seeking to engage with the church's spiritual ambiance, consider participating in any services or events that may be happening during your visit. This can provide a unique perspective on the cultural significance of the church within the community.
 

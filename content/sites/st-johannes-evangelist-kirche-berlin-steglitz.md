@@ -64,7 +64,7 @@ Several attractions are located within close proximity to St. Johannes-Evangelis
 
 3. **Das Schloss**: A cultural center that houses shops and restaurants, providing opportunities for dining and shopping in a lively atmosphere.
 
-4. **St. Mary’s Church**: Located within a reasonable distance, this historical church offers a glimpse into Berlin's religious architecture and community history.
+4. **St. Mary's Church**: Located within a reasonable distance, this historical church offers a glimpse into Berlin's religious architecture and community history.
 
 5. **Steglitz Town Center**: A vibrant area filled with shops, cafes, and local markets, ideal for those looking to experience the local culture and cuisine.
 
@@ -93,7 +93,7 @@ A visit to St. Johannes-Evangelist-Kirche typically takes about an hour, allowin
 Photography policies can vary; it is advisable to check for any specific guidelines upon your arrival.
 
 ### Are there guided tours?
-Information regarding guided tours may be available on the church’s official website; check for any scheduled options.
+Information regarding guided tours may be available on the church's official website; check for any scheduled options.
 
 ### What's the best time to visit?
 Weekdays, particularly in the late morning or early afternoon, are often less crowded and provide a more serene experience.
@@ -102,7 +102,7 @@ Weekdays, particularly in the late morning or early afternoon, are often less cr
 Check the official website for specific accessibility information to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-For any entry fees or events, it's best to refer to the church’s official website for current ticketing options.
+For any entry fees or events, it's best to refer to the church's official website for current ticketing options.
 
 ### Are there restrooms and cafes?
 Nearby amenities may include restrooms and cafes; exploring the surrounding area can enhance your visit.
@@ -110,4 +110,4 @@ Nearby amenities may include restrooms and cafes; exploring the surrounding area
 ### What should I wear?
 Dress codes may vary depending on the occasion; generally, modest and respectful attire is appreciated in worship spaces. 
 
-In summary, St. Johannes-Evangelist-Kirche offers an enriching experience for visitors seeking to connect with Berlin’s religious and cultural heritage. Whether you are drawn by its architecture, its community significance, or the tranquility it offers, a visit here is sure to be a memorable part of your exploration of this vibrant city.
+In summary, St. Johannes-Evangelist-Kirche offers an enriching experience for visitors seeking to connect with Berlin's religious and cultural heritage. Whether you are drawn by its architecture, its community significance, or the tranquility it offers, a visit here is sure to be a memorable part of your exploration of this vibrant city.

@@ -97,7 +97,7 @@ Accessibility information is not detailed; it is advisable to check the official
 Ticket purchasing details are not provided; visit the official website for more information.
 
 ### Are there restrooms and cafes?
-Information regarding restrooms and cafes is not specified; it’s recommended to plan accordingly.
+Information regarding restrooms and cafes is not specified; it's recommended to plan accordingly.
 
 ### What should I wear?
 Wear comfortable clothing and footwear suitable for walking, and consider seasonal weather variations.

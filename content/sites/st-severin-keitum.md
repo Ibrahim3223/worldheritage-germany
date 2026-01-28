@@ -101,7 +101,7 @@ Accessibility information is best obtained by checking the official website.
 Check the official website for details on ticket availability and purchasing options.
 
 ### Are there restrooms and cafes?
-Restroom facilities and nearby cafes can be found in the village of Keitum, but it’s advisable to confirm specific locations in advance.
+Restroom facilities and nearby cafes can be found in the village of Keitum, but it's advisable to confirm specific locations in advance.
 
 ### What should I wear?
 Dress comfortably and appropriately for a church setting, keeping in mind seasonal weather conditions on Sylt.

@@ -42,9 +42,9 @@ Natural caves like Gustav-Jakob-Höhle often harbor unique ecosystems, which cou
 
 ## Visiting Information
 
-Visiting Gustav-Jakob-Höhle is an experience that can be both educational and exhilarating. To reach the cave, check local transportation options, including public transit and parking availability. It’s advisable to plan your visit ahead of time to ensure a smooth journey.
+Visiting Gustav-Jakob-Höhle is an experience that can be both educational and exhilarating. To reach the cave, check local transportation options, including public transit and parking availability. It's advisable to plan your visit ahead of time to ensure a smooth journey.
 
-For those curious about operating hours and ticket prices, it’s essential to check the official website for current information, as these details can change based on the season and special events. Typical visits to the cave can last anywhere from one to two hours, allowing ample time to explore its fascinating features.
+For those curious about operating hours and ticket prices, it's essential to check the official website for current information, as these details can change based on the season and special events. Typical visits to the cave can last anywhere from one to two hours, allowing ample time to explore its fascinating features.
 
 The best times to visit often coincide with milder weather, when outdoor conditions are more favorable. However, visiting during the off-peak season may provide a quieter experience, allowing for a more personal exploration of the cave's wonders.
 

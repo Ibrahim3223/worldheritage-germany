@@ -66,9 +66,9 @@ If you're planning to explore the area surrounding the Brücke Museum, there are
 
 1. **Schloss Charlottenburg**: This stunning baroque palace offers a glimpse into the royal history of Berlin. Its beautiful gardens and opulent interiors provide a wonderful contrast to the modern art experience at the Brücke Museum.
 
-2. **Botanischer Garten Berlin**: Located nearby, this expansive botanical garden features a diverse collection of plants from around the world. It’s a perfect spot for a leisurely stroll amidst nature.
+2. **Botanischer Garten Berlin**: Located nearby, this expansive botanical garden features a diverse collection of plants from around the world. It's a perfect spot for a leisurely stroll amidst nature.
 
-3. **Museum Berggruen**: This museum, dedicated to modern art, houses an impressive collection of works by artists such as Picasso and Matisse. It’s a short distance from the Brücke Museum and offers additional insights into modern artistic movements.
+3. **Museum Berggruen**: This museum, dedicated to modern art, houses an impressive collection of works by artists such as Picasso and Matisse. It's a short distance from the Brücke Museum and offers additional insights into modern artistic movements.
 
 4. **Kunsthaus Dahlem**: Known for its focus on contemporary art, this venue hosts various exhibitions that often explore themes relevant to the discussions initiated by the Expressionists.
 
@@ -106,7 +106,7 @@ Weekdays, especially in the morning, tend to be less crowded, providing a more i
 
 ### Is it wheelchair accessible?
 
-The museum is equipped to accommodate visitors with mobility challenges, but it’s advisable to check the official website for specific accessibility features.
+The museum is equipped to accommodate visitors with mobility challenges, but it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 

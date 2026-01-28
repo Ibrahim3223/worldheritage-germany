@@ -72,7 +72,7 @@ When visiting the Muldentalbahn, photography enthusiasts should take advantage o
 
 To avoid crowds, try to visit during weekdays, particularly in the morning hours. This will allow for a more relaxed experience while exploring the bridge and its surroundings. 
 
-If you’re interested in history, take the time to read up on the Muldentalbahn's significance before your visit to enhance your appreciation of the site.
+If you're interested in history, take the time to read up on the Muldentalbahn's significance before your visit to enhance your appreciation of the site.
 
 ## Practical Information
 

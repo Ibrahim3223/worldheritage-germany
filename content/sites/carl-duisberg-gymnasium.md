@@ -76,7 +76,7 @@ When visiting Carl-Duisberg-Gymnasium, consider the following tips to enhance yo
 
 ## Practical Information
 
-Before heading to Carl-Duisberg-Gymnasium, it’s beneficial to prepare adequately. Here are some practical considerations:
+Before heading to Carl-Duisberg-Gymnasium, it's beneficial to prepare adequately. Here are some practical considerations:
 
 - **What to Bring**: A camera for capturing moments and a notebook if you wish to jot down thoughts or observations about the school and its surroundings. 
 
@@ -88,7 +88,7 @@ Before heading to Carl-Duisberg-Gymnasium, it’s beneficial to prepare adequate
 A visit to Carl-Duisberg-Gymnasium can typically take between one to two hours, depending on the activities or events occurring during your visit.
 
 ### Is photography allowed?
-Photography policies may vary. It’s advisable to check for any specific guidelines regarding photography, especially during school hours.
+Photography policies may vary. It's advisable to check for any specific guidelines regarding photography, especially during school hours.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website for details on organized tours or events that provide insight into the school's offerings.
@@ -97,7 +97,7 @@ Information on guided tours may vary. Check the official website for details on 
 Weekdays are generally quieter, making them ideal for a more relaxed visit. However, specific events may also provide enriching experiences.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary. It’s best to check the official website for current details regarding wheelchair access to the school.
+Accessibility information may vary. It's best to check the official website for current details regarding wheelchair access to the school.
 
 ### Can I buy tickets online?
 Ticket purchasing options may depend on specific events. Be sure to check the official website for the latest information on ticket availability.

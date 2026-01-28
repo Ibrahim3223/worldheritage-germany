@@ -22,7 +22,7 @@ images:
 
 ## Overview
 
-Römerkastell Halheim, located in the Ostalbkreis region of Baden-Württemberg, Germany, is a remarkable protected area that encapsulates the intriguing remnants of Roman military architecture. This site is not just a historical footnote; it offers visitors a glimpse into the strategic and cultural significance of Roman settlements in ancient Europe. The site’s coordinates pinpoint it at 48.9832 latitude and 10.2856 longitude, placing it within a landscape steeped in historical narratives and natural beauty. 
+Römerkastell Halheim, located in the Ostalbkreis region of Baden-Württemberg, Germany, is a remarkable protected area that encapsulates the intriguing remnants of Roman military architecture. This site is not just a historical footnote; it offers visitors a glimpse into the strategic and cultural significance of Roman settlements in ancient Europe. The site's coordinates pinpoint it at 48.9832 latitude and 10.2856 longitude, placing it within a landscape steeped in historical narratives and natural beauty. 
 
 As a protected landscape area, Römerkastell Halheim stands as a vital piece of the puzzle that illustrates the expansion of the Roman Empire and its influence on the territories it encompassed. Visitors to the site can expect a serene environment that invites exploration and reflection, making it an ideal stop for history enthusiasts and casual travelers alike. The blend of archaeological significance and natural beauty ensures that Römerkastell Halheim is a worthy addition to any travel itinerary focused on heritage and history.
 
@@ -97,7 +97,7 @@ Check the official website for information on guided tours, as availability may 
 Spring and autumn are considered the best times to visit due to the mild weather, making outdoor exploration enjoyable.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility may not be available; it’s best to check the official website for the most current details.
+Information regarding wheelchair accessibility may not be available; it's best to check the official website for the most current details.
 
 ### Can I buy tickets online?
 For ticketing information, including online purchase options, please refer to the official website.

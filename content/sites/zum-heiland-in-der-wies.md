@@ -62,7 +62,7 @@ While Zum Heiland in der Wies is a destination in its own right, it is also conv
 
 2. **Historic Sites**: If interested in local history, other nearby historical sites may be available to explore, offering insight into the region's past.
 
-3. **Cultural Institutions**: Look for nearby museums or cultural centers that could provide context about the area’s heritage and traditions.
+3. **Cultural Institutions**: Look for nearby museums or cultural centers that could provide context about the area's heritage and traditions.
 
 4. **Nature Trails**: Trails in the vicinity may allow for outdoor activities, such as hiking or cycling, immersing visitors in the natural landscape.
 
@@ -89,13 +89,13 @@ A visit to Zum Heiland in der Wies typically takes around one to two hours, allo
 Photography is generally permitted, but be respectful of the space and those who may be engaging in prayer or contemplation.
 
 ### Are there guided tours?
-At this time, information on guided tours is not available. It’s best to check with the official website for any updates regarding guided experiences.
+At this time, information on guided tours is not available. It's best to check with the official website for any updates regarding guided experiences.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often the best times to visit, as they tend to be quieter and allow for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Current information on accessibility is not specified, so it’s advisable to check the official website for details.
+Current information on accessibility is not specified, so it's advisable to check the official website for details.
 
 ### Can I buy tickets online?
 Please check the official website for information regarding ticket purchasing options and admission fees.

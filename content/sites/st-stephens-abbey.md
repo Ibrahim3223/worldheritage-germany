@@ -28,7 +28,7 @@ image_srcset:
 
 St. Stephen's Abbey is a significant monastery located in the historic region of Augsburg, Germany. This abbey is not only a place of worship but also a site that embodies centuries of cultural and spiritual heritage. Its serene environment and architectural elegance offer visitors a unique glimpse into monastic life and the religious practices that have shaped the area over the years. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat, St. Stephen's Abbey promises an enriching experience amidst its tranquil surroundings.
 
-The abbey’s location within Augsburg elevates its importance, as the city itself is a treasure trove of history, with roots that extend back to Roman times. Visitors to St. Stephen's Abbey will find themselves immersed in a setting that has witnessed numerous historical events, providing context and depth to their understanding of the region's religious and cultural evolution.
+The abbey's location within Augsburg elevates its importance, as the city itself is a treasure trove of history, with roots that extend back to Roman times. Visitors to St. Stephen's Abbey will find themselves immersed in a setting that has witnessed numerous historical events, providing context and depth to their understanding of the region's religious and cultural evolution.
 
 ## History and Significance 
 
@@ -60,7 +60,7 @@ St. Stephen's Abbey is situated in a region rich with various attractions that c
 
 1. **Augsburg Cathedral** – A short distance away, this magnificent cathedral is a prime example of Gothic architecture, featuring stunning stained glass windows.
    
-2. **Fugger Museum and Fuggerei** – This historical site showcases the life of the Fugger family, one of the wealthiest families in Europe during the Renaissance, and includes the world’s oldest social housing complex.
+2. **Fugger Museum and Fuggerei** – This historical site showcases the life of the Fugger family, one of the wealthiest families in Europe during the Renaissance, and includes the world's oldest social housing complex.
 
 3. **Perlachturm** – A tall tower that offers panoramic views of Augsburg and is an iconic symbol of the city.
 

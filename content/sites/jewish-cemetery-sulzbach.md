@@ -3,7 +3,7 @@ title: "Jewish cemetery, Sulzbach"
 site_name: "Jewish cemetery, Sulzbach"
 date: 2026-01-26
 draft: false
-description: "The Jewish cemetery in Sulzbach, located in the quaint town of Sulzbach-Rosenberg in Germany’s Upper Palatinate region, is an evocative site steeped in..."
+description: "The Jewish cemetery in Sulzbach, located in the quaint town of Sulzbach-Rosenberg in Germany's Upper Palatinate region, is an evocative site steeped in..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Cemetery"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Jewish cemetery in Sulzbach, located in the quaint town of Sulzbach-Rosenberg in Germany’s Upper Palatinate region, is an evocative site steeped in cultural and historical significance. This cemetery serves as a poignant reminder of the Jewish community that once thrived in this area, offering visitors a glimpse into the rich heritage and traditions of the past. As you wander through the peaceful grounds, you will encounter a unique blend of solemnity and respect, where each gravestone tells a story of its own. The cemetery is not just a resting place, but a symbol of resilience and the enduring spirit of a community that faced numerous trials throughout history.
+The Jewish cemetery in Sulzbach, located in the quaint town of Sulzbach-Rosenberg in Germany's Upper Palatinate region, is an evocative site steeped in cultural and historical significance. This cemetery serves as a poignant reminder of the Jewish community that once thrived in this area, offering visitors a glimpse into the rich heritage and traditions of the past. As you wander through the peaceful grounds, you will encounter a unique blend of solemnity and respect, where each gravestone tells a story of its own. The cemetery is not just a resting place, but a symbol of resilience and the enduring spirit of a community that faced numerous trials throughout history.
 
 Situated at coordinates 49.516664069, 11.740874779, the cemetery is easily accessible for those wishing to pay their respects or learn more about the Jewish heritage of this region. It stands as a significant cultural landmark, inviting reflection on the contributions and experiences of Jewish individuals in this part of Germany. The cemetery is a testament to the importance of preserving such sites, ensuring that the memories of those interred there are honored and remembered.
 

@@ -100,7 +100,7 @@ For specific accessibility information, check the official website to confirm th
 Ticket purchasing options may vary. Please check the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site. It’s advisable to check the official website for detailed amenities.
+Facilities such as restrooms and cafes may be available on-site. It's advisable to check the official website for detailed amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially for outdoor exploration. Dress appropriately for the season.

@@ -60,7 +60,7 @@ Plan to indulge in the various thematic exhibits, which may include everything f
 
 While Technikmuseum Diepholz-Heede is a destination in itself, several nearby attractions can enhance your visit to the area:
 
-1. **Diepholz City Center**: Explore the local shops, cafes, and historical landmarks, including beautiful architecture that represents the region’s heritage.
+1. **Diepholz City Center**: Explore the local shops, cafes, and historical landmarks, including beautiful architecture that represents the region's heritage.
    
 2. **Diepholz Castle**: Visit this historical site that reflects the architectural style of the area and offers insight into local history.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Technikmuseum Diepholz-Heede, consider these i
 
 - **Crowd Avoidance**: Aim to visit during the middle of the week or early in the day to enjoy a quieter experience, especially if you prefer a more personal exploration of the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about exhibits or recommendations for your visit. Their insights can greatly enhance your understanding and appreciation of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about exhibits or recommendations for your visit. Their insights can greatly enhance your understanding and appreciation of the displays.
 
 ## Practical Information
 

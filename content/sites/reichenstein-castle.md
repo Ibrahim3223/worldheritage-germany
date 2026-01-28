@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Reichenstein Castle, an imposing stronghold situated in the picturesque town of Trechtingshausen, Germany, offers visitors a captivating glimpse into the region's medieval past. Overlooking the Rhine River, this castle is a striking example of medieval architecture and serves as a museum that showcases the rich history and culture of the area. The castle’s commanding position not only provides a strategic vantage point but also enhances the experience of exploring this historical site. As you wander through its stone corridors and gaze upon its sturdy towers, it becomes clear that Reichenstein Castle is more than just a relic; it is a monument to the resilience and ingenuity of those who built it and lived within its walls. 
+Reichenstein Castle, an imposing stronghold situated in the picturesque town of Trechtingshausen, Germany, offers visitors a captivating glimpse into the region's medieval past. Overlooking the Rhine River, this castle is a striking example of medieval architecture and serves as a museum that showcases the rich history and culture of the area. The castle's commanding position not only provides a strategic vantage point but also enhances the experience of exploring this historical site. As you wander through its stone corridors and gaze upon its sturdy towers, it becomes clear that Reichenstein Castle is more than just a relic; it is a monument to the resilience and ingenuity of those who built it and lived within its walls. 
 
 With its storied past and engaging exhibitions, Reichenstein Castle is a must-visit destination for history enthusiasts, architecture aficionados, and anyone looking to immerse themselves in the charm of the Upper Middle Rhine Valley, a UNESCO World Heritage site.
 

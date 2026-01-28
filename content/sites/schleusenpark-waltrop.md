@@ -46,7 +46,7 @@ The architecture of Schleusenpark Waltrop is designed to enhance the visitor exp
 
 One of the notable features of the park is its collection of historical artifacts related to canal navigation and lock systems. These artifacts serve as tangible links to the past, allowing guests to engage with the history of the waterways. Additionally, the park includes informative panels and interactive displays that explain the workings of locks and their historical significance in the region.
 
-The outdoor areas of Schleusenpark are equally appealing, providing serene spaces for reflection and leisure. The park is landscaped to create a pleasant environment where visitors can stroll and enjoy the sights and sounds of the surrounding area. As you walk through the park, you’ll encounter various installations that highlight the relationship between nature and technology, emphasizing the importance of sustainability in engineering practices.
+The outdoor areas of Schleusenpark are equally appealing, providing serene spaces for reflection and leisure. The park is landscaped to create a pleasant environment where visitors can stroll and enjoy the sights and sounds of the surrounding area. As you walk through the park, you'll encounter various installations that highlight the relationship between nature and technology, emphasizing the importance of sustainability in engineering practices.
 
 ## Visiting Information
 
@@ -99,13 +99,13 @@ While specific tour options may vary, check the official website for information
 Weekdays and early mornings are often the best times to visit to avoid larger crowds and enjoy a more personal experience.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s best to check the official website for the most accurate information regarding wheelchair access.
+Accessibility details may vary, so it's best to check the official website for the most accurate information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options can change, so confirm on the official website if online ticket sales are available.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s wise to check the official website for information on restrooms and dining options available at the park.
+Facilities may vary, so it's wise to check the official website for information on restrooms and dining options available at the park.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the outdoor areas of the park. Dress in layers to accommodate seasonal weather changes.

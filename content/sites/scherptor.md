@@ -38,7 +38,7 @@ Scherptor is characterized by its robust architectural design that reflects the 
 
 While details on the specific architectural elements of Scherptor may not be extensively documented, visitors can expect to see classic features such as arched entrances, stone masonry, and possibly remnants of original fortifications. The gate's stature within the cityscape of Aachen allows it to stand out as a historical marker, contributing to the overall aesthetic of the area.
 
-The integration of Scherptor into the fabric of modern Aachen also highlights the city’s commitment to preserving its historical heritage while accommodating contemporary urban life. This balance between old and new is evident in the way the gate interacts with its surroundings, making it a focal point for both residents and visitors alike.
+The integration of Scherptor into the fabric of modern Aachen also highlights the city's commitment to preserving its historical heritage while accommodating contemporary urban life. This balance between old and new is evident in the way the gate interacts with its surroundings, making it a focal point for both residents and visitors alike.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ Aachen is home to several attractions that complement a visit to Scherptor. Here
 
 2. **Elisenbrunnen**: A beautifully designed fountain that showcases the city's famous thermal springs and serves as a popular meeting point.
 
-3. **Couven Museum**: Housed in a historical building, this museum offers insights into Aachen’s domestic culture and lifestyle during the 18th and 19th centuries.
+3. **Couven Museum**: Housed in a historical building, this museum offers insights into Aachen's domestic culture and lifestyle during the 18th and 19th centuries.
 
 4. **Puppenbrunnen**: An artistic fountain located in the city center, featuring whimsical sculptures that delight visitors of all ages.
 
@@ -108,4 +108,4 @@ Restrooms and cafes may be available nearby; consider planning your visit around
 ### What should I wear?
 Dress comfortably and seasonally, keeping in mind that you may be walking on uneven surfaces. 
 
-Visiting Scherptor can deepen your appreciation for Aachen’s historical significance and architectural beauty, making it a compelling addition to your travel itinerary.
+Visiting Scherptor can deepen your appreciation for Aachen's historical significance and architectural beauty, making it a compelling addition to your travel itinerary.

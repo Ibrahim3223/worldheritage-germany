@@ -54,7 +54,7 @@ While in Göttingen, several nearby attractions can enrich your experience:
 
 1. **Gänseliesel Fountain**: This iconic fountain in the city center is a symbol of Göttingen and features a statue of a young girl herding geese. It's a popular meeting spot and photo opportunity.
 
-2. **St. Jacob's Church (Jakobskirche)**: A stunning medieval church known for its impressive architecture and intricate stained glass windows, offering a glimpse into the city’s religious heritage.
+2. **St. Jacob's Church (Jakobskirche)**: A stunning medieval church known for its impressive architecture and intricate stained glass windows, offering a glimpse into the city's religious heritage.
 
 3. **Botanical Garden**: Managed by the university, this expansive garden showcases a diverse collection of plant species and provides a serene environment for leisurely walks.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Central Custody, consider the following in
 
 - **Crowd Avoidance**: To avoid peak times, aim to visit during midweek mornings when the museum is less likely to be crowded. This will enhance your experience and allow for more personal engagement with the exhibits.
 
-- **Engagement with Staff**: Don’t hesitate to ask museum staff about specific exhibits or historical context. Their insights can enrich your understanding of the materials on display.
+- **Engagement with Staff**: Don't hesitate to ask museum staff about specific exhibits or historical context. Their insights can enrich your understanding of the materials on display.
 
 ## Practical Information
 

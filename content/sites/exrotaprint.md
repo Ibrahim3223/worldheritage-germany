@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-ExRotaprint is not just an architectural ensemble; it is a historical narrative woven into the urban fabric of Berlin. Located in the Bezirk Mitte district, this site was once the production ground for Rotaprint, a prominent manufacturer of printing machines. Today, it stands as a unique blend of industrial heritage and contemporary use, attracting visitors interested in Berlin’s industrial past and its dynamic transformation. The site exemplifies the evolution of industrial architecture in the 20th century while providing a platform for cultural events and creative projects. As you explore ExRotaprint, you will uncover layers of history, artistic expression, and community engagement that reflect Berlin’s ongoing narrative of innovation and resilience.
+ExRotaprint is not just an architectural ensemble; it is a historical narrative woven into the urban fabric of Berlin. Located in the Bezirk Mitte district, this site was once the production ground for Rotaprint, a prominent manufacturer of printing machines. Today, it stands as a unique blend of industrial heritage and contemporary use, attracting visitors interested in Berlin's industrial past and its dynamic transformation. The site exemplifies the evolution of industrial architecture in the 20th century while providing a platform for cultural events and creative projects. As you explore ExRotaprint, you will uncover layers of history, artistic expression, and community engagement that reflect Berlin's ongoing narrative of innovation and resilience.
 
 ## History and Significance
 
 The ExRotaprint site has its roots in the 20th-century industrial boom in Berlin. Originally established as the production facility for Rotaprint, the site played a significant role in the printing machine industry, contributing to the post-war economic recovery in Germany. The historical importance of ExRotaprint extends beyond its manufacturing role; it embodies the story of industrial growth, technological advancement, and the shifting landscape of employment in Berlin.
 
-As the decades progressed, the decline of traditional manufacturing industries in the late 20th century led to changes in the site’s use. By the early 21st century, the area underwent a transformation, reflecting broader trends in urban redevelopment. Today, ExRotaprint is not only a remnant of Berlin's industrial past but also a vibrant center for cultural activities and creative enterprises. The site has become a cultural hub, hosting various events, exhibitions, and workshops that engage the local community and visitors alike.
+As the decades progressed, the decline of traditional manufacturing industries in the late 20th century led to changes in the site's use. By the early 21st century, the area underwent a transformation, reflecting broader trends in urban redevelopment. Today, ExRotaprint is not only a remnant of Berlin's industrial past but also a vibrant center for cultural activities and creative enterprises. The site has become a cultural hub, hosting various events, exhibitions, and workshops that engage the local community and visitors alike.
 
-ExRotaprint serves as a case study in adaptive reuse, demonstrating how historical industrial spaces can be reimagined for contemporary use. Its significance lies in its ability to bridge the past with the present, fostering a dialogue about the challenges and opportunities of urban development in Berlin. This architectural ensemble stands as a reminder of the city’s industrial heritage while embracing the innovative spirit that defines modern Berlin.
+ExRotaprint serves as a case study in adaptive reuse, demonstrating how historical industrial spaces can be reimagined for contemporary use. Its significance lies in its ability to bridge the past with the present, fostering a dialogue about the challenges and opportunities of urban development in Berlin. This architectural ensemble stands as a reminder of the city's industrial heritage while embracing the innovative spirit that defines modern Berlin.
 
 ## Architecture and Features
 
@@ -42,7 +42,7 @@ The architectural layout of ExRotaprint is characterized by its industrial aesth
 
 Notable features of the site include the sprawling factory halls, which now serve as flexible event spaces. These halls maintain their industrial character while being adaptable for various uses, ranging from art exhibitions to community gatherings. The interplay of light and space within these areas creates an inviting atmosphere for creativity and collaboration.
 
-Additionally, the surrounding landscape has been thoughtfully integrated into the site’s use, providing areas for outdoor events and gatherings. The combination of historical architecture with contemporary interventions makes ExRotaprint a fascinating example of how old industrial spaces can be revitalized to meet modern needs while honoring their heritage.
+Additionally, the surrounding landscape has been thoughtfully integrated into the site's use, providing areas for outdoor events and gatherings. The combination of historical architecture with contemporary interventions makes ExRotaprint a fascinating example of how old industrial spaces can be revitalized to meet modern needs while honoring their heritage.
 
 ## Visiting Information
 

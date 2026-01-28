@@ -50,7 +50,7 @@ Although specific architectural details are not provided, the overall ambiance o
 
 Visiting Wied-Scala is a straightforward experience, with the cinema being easily accessible by various modes of transportation. Whether you are driving or using public transport, reaching the theater should be relatively convenient. For those traveling by car, ample parking may be available nearby, facilitating easy access for visitors.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most accurate details to plan your outing effectively.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most accurate details to plan your outing effectively.
 
 Upon entering, you can expect a warm and inviting atmosphere. The seating is designed for comfort, allowing you to relax as you enjoy your chosen film. The typical duration of a movie screening is around two hours, but this can vary depending on the film.
 
@@ -78,17 +78,17 @@ To make the most of your visit to Wied-Scala, here are some insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try to attend matinee showings or weekday screenings. These times generally attract fewer visitors compared to prime evening slots.
 
-- **Plan Ahead**: If there’s a specific film you want to see, consider arriving early to secure good seating and enjoy the atmosphere of the theater before the show begins.
+- **Plan Ahead**: If there's a specific film you want to see, consider arriving early to secure good seating and enjoy the atmosphere of the theater before the show begins.
 
 ## Practical Information
 
 When planning your visit to Wied-Scala, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring cash or a credit card for ticket purchases and concessions. Snacks and beverages can enhance your viewing experience, so consider picking up some treats before entering the theater.
+- **What to Bring**: It's advisable to bring cash or a credit card for ticket purchases and concessions. Snacks and beverages can enhance your viewing experience, so consider picking up some treats before entering the theater.
 
 - **Seasonal Considerations**: The experience at Wied-Scala may vary with the seasons. Summer may offer outdoor events or screenings, while winter could be ideal for cozy indoor movies. Be sure to check for seasonal programming or events.
 
-- **Accessibility**: If you have specific accessibility needs, it’s best to confirm arrangements with the theater in advance to ensure a comfortable experience.
+- **Accessibility**: If you have specific accessibility needs, it's best to confirm arrangements with the theater in advance to ensure a comfortable experience.
 
 ## Frequently Asked Questions
 

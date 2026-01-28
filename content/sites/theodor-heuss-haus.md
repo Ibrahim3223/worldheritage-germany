@@ -80,11 +80,11 @@ When exploring the museum, take your time reading the exhibits, as they provide 
 
 ## Practical Information
 
-When visiting Theodor-Heuss-Haus, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend considerable time on your feet while exploring the exhibits. 
+When visiting Theodor-Heuss-Haus, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may spend considerable time on your feet while exploring the exhibits. 
 
 Seasonal considerations may affect your visit; summer months could see more visitors, while winter may provide a quieter atmosphere. Regardless of the season, be sure to check the official website for potential changes in hours or special events that may be occurring during your visit.
 
-For those interested in making the most of their experience, consider exploring nearby attractions as part of your day in Stuttgart, thereby enriching your understanding of the city’s cultural landscape.
+For those interested in making the most of their experience, consider exploring nearby attractions as part of your day in Stuttgart, thereby enriching your understanding of the city's cultural landscape.
 
 ## Frequently Asked Questions
 

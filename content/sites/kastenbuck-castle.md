@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Kastenbuck Castle, located in the scenic region of Herbolzheim, Germany, is an intriguing landmark that invites exploration and imagination. This historic castle stands as a reminder of the medieval past, with its formidable structure offering visitors a glimpse into the architectural styles and living conditions of a bygone era. The castle’s strategic location adds to its significance, as it played a role in the historical narratives of the region.
+Kastenbuck Castle, located in the scenic region of Herbolzheim, Germany, is an intriguing landmark that invites exploration and imagination. This historic castle stands as a reminder of the medieval past, with its formidable structure offering visitors a glimpse into the architectural styles and living conditions of a bygone era. The castle's strategic location adds to its significance, as it played a role in the historical narratives of the region.
 
-The castle’s weathered stones and commanding presence evoke a sense of curiosity, making it a captivating destination for history enthusiasts, architecture lovers, and casual visitors alike. As you approach Kastenbuck Castle, the atmosphere is imbued with a sense of grandeur and mystery, encouraging a deeper understanding of its historical context and cultural importance. 
+The castle's weathered stones and commanding presence evoke a sense of curiosity, making it a captivating destination for history enthusiasts, architecture lovers, and casual visitors alike. As you approach Kastenbuck Castle, the atmosphere is imbued with a sense of grandeur and mystery, encouraging a deeper understanding of its historical context and cultural importance. 
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ While Kastenbuck Castle is an appealing destination on its own, several nearby a
 
 1. **Herbolzheim Town Center**: Just a short distance away, the town center offers a charming atmosphere with local shops and eateries that reflect the culture of the area.
 
-2. **St. Peter’s Church**: This historical church features stunning architecture and offers insight into the religious heritage of the region.
+2. **St. Peter's Church**: This historical church features stunning architecture and offers insight into the religious heritage of the region.
 
 3. **Black Forest Nature Park**: A short drive from Kastenbuck Castle, this expansive park offers beautiful landscapes and numerous trails for hiking and nature walks.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Kastenbuck Castle, consider these insider tips
 
 ## Practical Information
 
-When preparing for your visit to Kastenbuck Castle, it’s essential to bring a few items to ensure a comfortable experience:
+When preparing for your visit to Kastenbuck Castle, it's essential to bring a few items to ensure a comfortable experience:
 
 - **Comfortable Footwear**: Expect to do some walking on uneven surfaces, so sturdy shoes are recommended.
 - **Weather Preparedness**: Check the forecast and dress accordingly. Layers are often best, as conditions can change throughout the day.
@@ -102,7 +102,7 @@ Visiting during the milder seasons, such as spring or early fall, can provide a 
 Access may vary; check the official website for detailed information on accessibility options.
 
 ### Can I buy tickets online?
-Ticket purchasing information can be found on the official website; it’s advisable to check for the latest updates.
+Ticket purchasing information can be found on the official website; it's advisable to check for the latest updates.
 
 ### Are there restrooms and cafes?
 Facilities may be available; please check the official website for the latest information regarding amenities at the site.

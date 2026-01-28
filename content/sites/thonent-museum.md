@@ -28,7 +28,7 @@ In visiting the Thonent-Museum, guests can anticipate a thoughtfully curated exp
 
 ## History and Significance
 
-The Thonent-Museum is intrinsically linked to the legacy of the Thonet company, which has played a pivotal role in the evolution of modern furniture design. Founded in the 19th century, Thonet became a pioneer in the use of bent wood techniques, revolutionizing furniture production. These innovations not only elevated the aesthetic appeal of furniture but also made it more accessible to the masses. The company’s impact on furniture design was profound, marking a shift toward modernity in an era that valued both form and function.
+The Thonent-Museum is intrinsically linked to the legacy of the Thonet company, which has played a pivotal role in the evolution of modern furniture design. Founded in the 19th century, Thonet became a pioneer in the use of bent wood techniques, revolutionizing furniture production. These innovations not only elevated the aesthetic appeal of furniture but also made it more accessible to the masses. The company's impact on furniture design was profound, marking a shift toward modernity in an era that valued both form and function.
 
 The museum serves as a custodian of this legacy, housing a collection that chronicles the development of Thonet's designs and their influence on the broader furniture industry. The historical narratives presented within the museum contextually place the Thonet brand within the framework of industrial design, showcasing how the company adapted to changing tastes and technological advancements over the years. 
 

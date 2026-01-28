@@ -84,7 +84,7 @@ Seasonal considerations may affect your visit; spring and summer often bring mor
 A visit of approximately one hour is recommended, although you may wish to stay longer to fully absorb the atmosphere.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to avoid flash during services and to be respectful of the sacred space.
+Photography is generally permitted, but it's best to avoid flash during services and to be respectful of the sacred space.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special events that may be taking place during your visit.

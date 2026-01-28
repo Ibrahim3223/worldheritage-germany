@@ -60,7 +60,7 @@ While exploring Museum Korbach, visitors may also wish to discover other attract
 
 3. **Waldeck Castle**: Located a short drive from the town, this castle offers a glimpse into the region's feudal history, along with picturesque views of the surrounding landscape.
 
-4. **The Old Town**: A leisurely stroll through Korbach’s Old Town allows visitors to appreciate its charming streets and historical buildings.
+4. **The Old Town**: A leisurely stroll through Korbach's Old Town allows visitors to appreciate its charming streets and historical buildings.
 
 5. **Local Parks**: Korbach is home to several parks where visitors can relax and enjoy the natural surroundings, making it a great way to unwind after a museum visit.
 
@@ -68,7 +68,7 @@ While exploring Museum Korbach, visitors may also wish to discover other attract
 
 For those planning a visit to Museum Korbach, consider these insider tips to enhance your experience:
 
-- **Photography**: If you wish to capture memories of your visit, check if photography is permitted inside the museum. Some exhibits may have restrictions, so it’s best to be aware of the guidelines.
+- **Photography**: If you wish to capture memories of your visit, check if photography is permitted inside the museum. Some exhibits may have restrictions, so it's best to be aware of the guidelines.
 
 - **Crowd Avoidance**: To enjoy a more serene atmosphere, visit during weekdays or early in the day. This timing often results in fewer visitors, allowing for a more personal and engaging experience.
 
@@ -89,7 +89,7 @@ A visit to Museum Korbach typically takes about two hours, allowing enough time 
 Photography policies vary, so please check with museum staff upon arrival to understand any restrictions.
 
 ### Are there guided tours?
-Information regarding guided tours may be available on the official website. It’s worthwhile to inquire if you prefer a more in-depth understanding of the exhibits.
+Information regarding guided tours may be available on the official website. It's worthwhile to inquire if you prefer a more in-depth understanding of the exhibits.
 
 ### What's the best time to visit?
 Visiting during weekdays or early in the day can be beneficial for avoiding larger crowds and enjoying a quieter experience.

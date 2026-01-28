@@ -34,7 +34,7 @@ Michaelsbrunnen is emblematic of the blend of utility and artistry found in many
 
 Michaelsbrunnen has been an integral part of Mettingen's landscape, reflecting the town's historical and cultural evolution. Fountains like Michaelsbrunnen were commonly constructed in many German towns as sources of fresh water, but they often evolved into community gathering spots and symbols of civic pride. While specific historical details regarding the fountain's construction remain elusive, it is clear that its role has transcended mere functionality.
 
-The fountain serves as a memorial, possibly commemorating significant local events or figures, though further details about these elements are not specified. Such memorials are often created to honor the heritage and collective memory of the community, reinforcing the importance of local history. Over time, Michaelsbrunnen has likely become a site for social interaction and cultural expression, illustrating the town’s values and traditions.
+The fountain serves as a memorial, possibly commemorating significant local events or figures, though further details about these elements are not specified. Such memorials are often created to honor the heritage and collective memory of the community, reinforcing the importance of local history. Over time, Michaelsbrunnen has likely become a site for social interaction and cultural expression, illustrating the town's values and traditions.
 
 In addition to its practical use, fountains like Michaelsbrunnen often reflect the artistic styles of their time, a testament to the craftsmanship that can be found in even the most utilitarian structures. Engaging with the fountain provides visitors a glimpse into the local customs and the communal spirit of Mettingen, where residents and travelers alike can come together.
 
@@ -72,7 +72,7 @@ While in Mettingen, consider exploring several nearby attractions that complemen
 
 For those looking to capture the essence of Michaelsbrunnen in photographs, consider visiting early in the morning or later in the afternoon when the sunlight casts softer shadows and enhances the fountain's features. Arriving during these quieter times also allows you to avoid crowds, making it easier to appreciate the space.
 
-When visiting, take your time to observe the interactions of locals around the fountain, as this can provide deeper insights into the community’s connection to this landmark. If you’re in the area during a local festival or event, make a point to experience how the fountain is integrated into community celebrations.
+When visiting, take your time to observe the interactions of locals around the fountain, as this can provide deeper insights into the community's connection to this landmark. If you're in the area during a local festival or event, make a point to experience how the fountain is integrated into community celebrations.
 
 ## Practical Information
 

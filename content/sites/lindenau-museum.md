@@ -72,11 +72,11 @@ After exploring the Lindenau Museum, visitors may wish to extend their cultural 
 
 For those planning a visit to the Lindenau Museum, here are a few insider tips to enhance your experience:
 
-- **Photography**: While photography may be allowed in certain areas, it’s always best to check for specific regulations upon arrival to respect the museum's policies.
+- **Photography**: While photography may be allowed in certain areas, it's always best to check for specific regulations upon arrival to respect the museum's policies.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or early in the morning when the museum is less crowded. This allows for a more intimate connection with the artworks.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions or for recommendations on exhibits. They can provide valuable insights that can enrich your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions or for recommendations on exhibits. They can provide valuable insights that can enrich your visit.
 
 ## Practical Information
 
@@ -103,10 +103,10 @@ Guided tours may be available, providing deeper insights into the collection and
 To avoid larger crowds, consider visiting during weekdays or early in the day. Special events may also attract larger audiences, so planning ahead is recommended.
 
 ### Is it wheelchair accessible?
-For specific information regarding accessibility, it’s best to contact the museum directly or refer to their official website.
+For specific information regarding accessibility, it's best to contact the museum directly or refer to their official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s a good idea to check the official website for information on online ticket sales and any available discounts.
+Ticket purchasing options may vary, so it's a good idea to check the official website for information on online ticket sales and any available discounts.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes may be available on-site; it is advisable to check the official website for the most accurate information.

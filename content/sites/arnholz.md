@@ -61,7 +61,7 @@ While visiting Arnholz, you may wish to explore other nearby attractions that co
 1. **Vlotho Town Center**: A charming area with local shops, cafes, and historical architecture, perfect for a leisurely stroll.
 2. **Schloss Vlotho**: A historic castle situated nearby that offers insights into the region's history and beautiful grounds.
 3. **Weser River**: Enjoy scenic views and recreational opportunities along the river, ideal for picnicking or a leisurely walk.
-4. **St. John’s Church**: A local historical site that reflects the architectural heritage of the area.
+4. **St. John's Church**: A local historical site that reflects the architectural heritage of the area.
 5. **Local Hiking Trails**: Explore additional trails in the surrounding areas for more extensive nature experiences.
 
 ## Insider Tips
@@ -89,7 +89,7 @@ Information regarding guided tours may vary; check the official website for poss
 Spring and summer are ideal for vibrant flora and active wildlife, while autumn provides beautiful foliage.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s best to check with the official website regarding specific paths and facilities.
+Accessibility information can vary, so it's best to check with the official website regarding specific paths and facilities.
 
 ### Can I buy tickets online?
 Ticketing procedures may vary; consult the official website for current information on entrance fees and purchasing options.

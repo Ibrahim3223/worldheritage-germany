@@ -28,7 +28,7 @@ Situated in a vibrant urban setting, Kölle-Stiftung is easily accessible, makin
 
 ## History and Significance
 
-Kölle-Stiftung was established as a foundation aimed at fostering cultural initiatives and supporting artistic endeavors within Hanover. While specific historical milestones may not be available, the foundation has become synonymous with promoting the arts and education in the region. Its existence underscores the importance of community-driven support for creative projects, which can often struggle for funding and visibility in today’s cultural landscape.
+Kölle-Stiftung was established as a foundation aimed at fostering cultural initiatives and supporting artistic endeavors within Hanover. While specific historical milestones may not be available, the foundation has become synonymous with promoting the arts and education in the region. Its existence underscores the importance of community-driven support for creative projects, which can often struggle for funding and visibility in today's cultural landscape.
 
 The foundation plays a pivotal role in enhancing the local community's cultural fabric by providing resources and opportunities for artists and educators. Through various programs, Kölle-Stiftung seeks to cultivate talent and encourage collaboration among creatives. This initiative not only benefits individual artists but also helps to enrich the collective cultural identity of Hanover.
 

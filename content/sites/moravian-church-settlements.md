@@ -30,7 +30,7 @@ image_srcset:
 
 The Moravian Church Settlements represent a unique chapter in the history of religious communities and human settlement patterns, intertwining faith, community, and culture across multiple countries, including Germany, Denmark, the USA, and the UK. Established by the Moravian Church, these settlements have played a significant role in the development of various social and religious practices since their inception. The settlements are characterized by their communal living arrangements and distinctive architectural styles, reflecting a harmonious balance between function and aesthetics. 
 
-Visitors to these sites will discover not only the rich heritage of Moravian traditions but also the architectural ingenuity that has allowed these communities to thrive over the centuries. The settlements serve as a living testament to the Moravian Church’s emphasis on education, music, and community service, inviting exploration and reflection amidst their historical backdrop. 
+Visitors to these sites will discover not only the rich heritage of Moravian traditions but also the architectural ingenuity that has allowed these communities to thrive over the centuries. The settlements serve as a living testament to the Moravian Church's emphasis on education, music, and community service, inviting exploration and reflection amidst their historical backdrop. 
 
 As part of the World Heritage designation, the Moravian Church Settlements offer a compelling narrative that connects past and present, showcasing the resilience and adaptability of these communities. Each settlement provides a unique glimpse into Moravian life, making them worthy destinations for travelers seeking a deeper understanding of cultural history and communal living.
 
@@ -74,7 +74,7 @@ The best times to visit vary by region; however, spring and summer months typica
 
 For photography enthusiasts, the Moravian Church Settlements present numerous opportunities to capture the beauty of the architecture and communal spaces. Early morning or late afternoon light can enhance the visual appeal of the buildings and surrounding landscapes. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons.
 
-Engaging with local community members can enrich your experience, providing insights into the ongoing traditions and practices that define Moravian life today. Be respectful of the community’s customs and practices, particularly during religious services or gatherings.
+Engaging with local community members can enrich your experience, providing insights into the ongoing traditions and practices that define Moravian life today. Be respectful of the community's customs and practices, particularly during religious services or gatherings.
 
 ## Practical Information
 

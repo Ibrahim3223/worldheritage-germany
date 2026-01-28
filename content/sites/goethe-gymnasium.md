@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-Goethe Gymnasium, located in the vibrant district of Charlottenburg-Wilmersdorf in Berlin, is not just a school building; it is a significant educational institution that has molded generations of students. Founded to promote academic excellence, this school embodies the values of rigorous education and cultural enrichment. The surrounding area is characterized by its blend of historical and contemporary architecture, making it an interesting backdrop for visitors who wish to explore Berlin’s educational heritage. 
+Goethe Gymnasium, located in the vibrant district of Charlottenburg-Wilmersdorf in Berlin, is not just a school building; it is a significant educational institution that has molded generations of students. Founded to promote academic excellence, this school embodies the values of rigorous education and cultural enrichment. The surrounding area is characterized by its blend of historical and contemporary architecture, making it an interesting backdrop for visitors who wish to explore Berlin's educational heritage. 
 
 This guide will take you through the essence of Goethe Gymnasium, delving into its historical significance, architectural features, and practical information for prospective visitors. As you explore this notable school building, you will gain insights into its role in shaping the future of many young minds.
 
 ## History and Significance
 
-Goethe Gymnasium is a notable institution within Berlin’s educational landscape. While specific founding dates and detailed historical events may not be readily available, the school has played an important role in the educational system of Berlin. Named after the illustrious German writer Johann Wolfgang von Goethe, the gymnasium reflects the ideals of academic rigor and cultural appreciation that Goethe himself championed.
+Goethe Gymnasium is a notable institution within Berlin's educational landscape. While specific founding dates and detailed historical events may not be readily available, the school has played an important role in the educational system of Berlin. Named after the illustrious German writer Johann Wolfgang von Goethe, the gymnasium reflects the ideals of academic rigor and cultural appreciation that Goethe himself championed.
 
-The gymnasium serves as a secondary school, following the German educational system that emphasizes a comprehensive curriculum. This institution has been integral in providing higher education options, preparing students for further academic pursuits or vocational training. With a focus on language, literature, and the arts, Goethe Gymnasium aligns itself with the cultural heritage of Germany, fostering a deep understanding of the nation’s intellectual roots.
+The gymnasium serves as a secondary school, following the German educational system that emphasizes a comprehensive curriculum. This institution has been integral in providing higher education options, preparing students for further academic pursuits or vocational training. With a focus on language, literature, and the arts, Goethe Gymnasium aligns itself with the cultural heritage of Germany, fostering a deep understanding of the nation's intellectual roots.
 
-The school’s commitment to excellence is evident in its alumni, many of whom have gone on to make significant contributions in various fields, including arts, sciences, and politics. This legacy of success underscores the gymnasium’s importance not just as an educational facility, but as a cultural landmark that continues to inspire future generations.
+The school's commitment to excellence is evident in its alumni, many of whom have gone on to make significant contributions in various fields, including arts, sciences, and politics. This legacy of success underscores the gymnasium's importance not just as an educational facility, but as a cultural landmark that continues to inspire future generations.
 
 ## Architecture and Features
 
@@ -50,9 +50,9 @@ Inside, the school is equipped with various facilities that cater to the diverse
 
 Visiting Goethe Gymnasium offers a unique chance to appreciate an important educational institution in Berlin. The school is located at coordinates 52.4873, 13.3216, making it easily accessible via public transportation. Visitors can inquire about transport options, which typically include bus and train services, to ensure a smooth journey to the site.
 
-Check the official website for current information regarding visiting hours and any potential entry fees. Although Goethe Gymnasium functions primarily as a school, special events or open days may allow access to the public. It is advisable to plan your visit around these opportunities to experience the school’s environment fully.
+Check the official website for current information regarding visiting hours and any potential entry fees. Although Goethe Gymnasium functions primarily as a school, special events or open days may allow access to the public. It is advisable to plan your visit around these opportunities to experience the school's environment fully.
 
-Expect to spend about an hour exploring the school’s grounds, and possibly more if you participate in any guided events or discussions. The best times to visit are during school hours when the hustle and bustle of students can be observed, although it’s essential to be respectful of the learning environment.
+Expect to spend about an hour exploring the school's grounds, and possibly more if you participate in any guided events or discussions. The best times to visit are during school hours when the hustle and bustle of students can be observed, although it's essential to be respectful of the learning environment.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ To avoid crowds, timing your visit during the week may be preferable, as weekend
 
 ## Practical Information
 
-When planning your visit to Goethe Gymnasium, it’s wise to bring along essentials such as a water bottle, a camera, and comfortable walking shoes, especially if you plan to explore the surrounding area afterward. Seasonal considerations are also important; during colder months, be prepared for chilly weather, as much of your time may be spent outdoors.
+When planning your visit to Goethe Gymnasium, it's wise to bring along essentials such as a water bottle, a camera, and comfortable walking shoes, especially if you plan to explore the surrounding area afterward. Seasonal considerations are also important; during colder months, be prepared for chilly weather, as much of your time may be spent outdoors.
 
 As you prepare for your visit, keep in mind that the school may have specific guidelines or requirements for visitors. Always check the official website for the most up-to-date information.
 
@@ -86,7 +86,7 @@ As you prepare for your visit, keep in mind that the school may have specific gu
 A visit typically takes about an hour, but you might want to allocate more time if attending special events or exploring nearby attractions.
 
 ### Is photography allowed?
-Photography is generally permitted outside the building, but it’s best to check for any restrictions regarding interior photography.
+Photography is generally permitted outside the building, but it's best to check for any restrictions regarding interior photography.
 
 ### Are there guided tours?
 Guided tours may be available during special events; check the official website for details.
@@ -98,7 +98,7 @@ Weekdays during school hours provide a vibrant atmosphere, but consider special 
 Check the official website for specific accessibility information regarding the building.
 
 ### Can I buy tickets online?
-Information regarding ticket purchasing will be available on the school’s official website.
+Information regarding ticket purchasing will be available on the school's official website.
 
 ### Are there restrooms and cafes?
 Restroom facilities may be available on-site; for cafes, consider visiting nearby establishments after your visit.

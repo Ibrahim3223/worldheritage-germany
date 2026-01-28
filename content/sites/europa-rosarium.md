@@ -50,7 +50,7 @@ In addition to the roses, the garden may include educational signage and exhibit
 
 To reach the Europa-Rosarium in Sangerhausen, visitors can utilize various transportation options. The garden is accessible by car, public transport, and may be well-connected to local routes, making it convenient for both domestic and international travelers. Parking facilities are typically available nearby, but checking the official website for current information is advisable.
 
-Before planning a visit, it is essential to check the official website for hours and ticket prices, as these details can vary seasonally. Visitors can expect to spend several hours exploring the expansive grounds, especially if they take the time to appreciate the different rose varieties and the garden’s educational offerings. The best times to visit may align with the blooming seasons of the roses, which generally offer the most vibrant displays.
+Before planning a visit, it is essential to check the official website for hours and ticket prices, as these details can vary seasonally. Visitors can expect to spend several hours exploring the expansive grounds, especially if they take the time to appreciate the different rose varieties and the garden's educational offerings. The best times to visit may align with the blooming seasons of the roses, which generally offer the most vibrant displays.
 
 During peak seasons, the garden can attract a number of visitors, so arriving early in the day or later in the afternoon may provide a more peaceful experience. The garden is designed to accommodate visitors of all ages, making it a family-friendly destination.
 
@@ -103,7 +103,7 @@ While specific details about guided tours may vary, it is advisable to check the
 The best time to visit is during the blooming season, typically late spring to summer, but checking the official website for specific blooming highlights is recommended.
 
 ### Is it wheelchair accessible?
-The garden is designed to accommodate visitors with mobility challenges, but it’s advisable to verify specific accessibility features on the official website.
+The garden is designed to accommodate visitors with mobility challenges, but it's advisable to verify specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 For the most accurate information regarding ticket purchasing options, it is suggested to check the official website.

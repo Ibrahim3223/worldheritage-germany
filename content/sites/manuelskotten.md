@@ -100,7 +100,7 @@ Always check the official website for any seasonal considerations or special eve
 A typical visit to Manuelskotten can take between one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum upon arrival.
+Photography policies may vary, so it's best to check with the museum upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details and availability.
@@ -115,7 +115,7 @@ Accessibility details should be confirmed on the official website to ensure a co
 Check the official website for current ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but it’s advisable to check the official website for additional amenities like cafes or dining options.
+Facilities such as restrooms are typically available, but it's advisable to check the official website for additional amenities like cafes or dining options.
 
 ### What should I wear?
 Dress comfortably and in layers to accommodate varying temperatures inside the museum.

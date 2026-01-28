@@ -70,7 +70,7 @@ Ehrenfriedhof Cap Arcona is located in Neustadt in Holstein, a town that offers 
 
 2. **Old Town (Altstadt)**: The historic center of Neustadt features charming architecture and quaint streets, perfect for a leisurely exploration of local culture and history.
 
-3. **St. Mary’s Church (St. Marien)**: This historic church is known for its stunning architecture and beautiful stained glass windows, making it a peaceful spot for reflection.
+3. **St. Mary's Church (St. Marien)**: This historic church is known for its stunning architecture and beautiful stained glass windows, making it a peaceful spot for reflection.
 
 4. **Fehmarn Island**: A short drive from Neustadt, this island offers scenic landscapes, beaches, and opportunities for outdoor activities such as cycling and hiking.
 

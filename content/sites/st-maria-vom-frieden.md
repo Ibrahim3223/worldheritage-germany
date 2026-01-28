@@ -28,7 +28,7 @@ image_srcset:
 
 St. Maria vom Frieden is a captivating church building located in the historic district of Altstadt-Süd, Cologne, Germany. This sacred space not only serves as a place of worship but also embodies the rich cultural and architectural heritage of the region. The church's significance extends beyond its religious functions, as it represents a unique blend of historical styles and local traditions. Visitors to St. Maria vom Frieden will find themselves immersed in a serene atmosphere, accompanied by the echoes of centuries past.
 
-As you explore the winding streets of Altstadt-Süd, you’ll discover that the church is a vital landmark that reflects the community's spiritual life. Its presence offers a glimpse into Cologne's architectural evolution and the enduring importance of faith in the lives of its residents. With its welcoming ambiance and historical relevance, St. Maria vom Frieden invites both pilgrims and curious travelers alike to pause, reflect, and appreciate the artistry and dedication that have shaped this sacred space.
+As you explore the winding streets of Altstadt-Süd, you'll discover that the church is a vital landmark that reflects the community's spiritual life. Its presence offers a glimpse into Cologne's architectural evolution and the enduring importance of faith in the lives of its residents. With its welcoming ambiance and historical relevance, St. Maria vom Frieden invites both pilgrims and curious travelers alike to pause, reflect, and appreciate the artistry and dedication that have shaped this sacred space.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ Respect the serene atmosphere of the church during your visit. Quiet reflection 
 
 ## Practical Information
 
-When planning your visit to St. Maria vom Frieden, it’s advisable to wear comfortable shoes, especially if you intend to explore the surrounding areas. Be mindful of seasonal considerations; Cologne experiences varying weather conditions, so dressing in layers may be prudent. 
+When planning your visit to St. Maria vom Frieden, it's advisable to wear comfortable shoes, especially if you intend to explore the surrounding areas. Be mindful of seasonal considerations; Cologne experiences varying weather conditions, so dressing in layers may be prudent. 
 
 Visitors should also consider bringing a small bag for personal items, as larger backpacks may need to be left at designated areas. Hydration is important, so carrying a water bottle is recommended, especially during warmer months.
 
@@ -99,7 +99,7 @@ Accessibility features may vary; it is recommended to check the official website
 Ticket purchasing options may be available; check the official website for current information.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby; it’s best to explore the surrounding area for cafes and restrooms.
+Facilities may be available nearby; it's best to explore the surrounding area for cafes and restrooms.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, particularly as St. Maria vom Frieden is a place of worship.

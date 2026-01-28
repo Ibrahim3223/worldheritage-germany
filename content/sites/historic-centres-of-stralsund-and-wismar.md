@@ -68,9 +68,9 @@ While Stralsund and Wismar are rich in their own right, several nearby attractio
 
 2. **Kreuzfahrtterminals Stralsund**: The cruise terminals in Stralsund attract visitors arriving by sea. Here, you can find shops and cafes that offer refreshments and local delicacies.
 
-3. **Ostseebad Kühlungsborn**: Located along the Baltic coast, Kühlungsborn is a popular seaside resort known for its long sandy beaches and charming promenade. It’s perfect for a relaxing day by the sea.
+3. **Ostseebad Kühlungsborn**: Located along the Baltic coast, Kühlungsborn is a popular seaside resort known for its long sandy beaches and charming promenade. It's perfect for a relaxing day by the sea.
 
-4. **Wismar’s Old Port**: This picturesque area is lined with historic buildings and offers lovely views of the waterfront. It’s an ideal spot for a leisurely stroll or a meal at one of the local restaurants.
+4. **Wismar's Old Port**: This picturesque area is lined with historic buildings and offers lovely views of the waterfront. It's an ideal spot for a leisurely stroll or a meal at one of the local restaurants.
 
 5. **Nature Park Vorpommersche Boddenlandschaft**: A short drive from Stralsund, this nature park is renowned for its diverse landscapes, including wetlands, meadows, and coastal areas, providing excellent opportunities for birdwatching and hiking.
 
@@ -78,11 +78,11 @@ While Stralsund and Wismar are rich in their own right, several nearby attractio
 
 For photographers, both Stralsund and Wismar offer numerous opportunities to capture stunning shots of their historic architecture. Early morning or late afternoon light can provide beautiful conditions for photography, especially in the Old Market Squares. Consider visiting during weekdays to avoid the larger crowds that typically gather during weekends and holidays.
 
-When exploring the towns, take the time to venture off the main paths. Discovering smaller streets and hidden corners can lead to delightful surprises. Additionally, don’t hesitate to engage with local residents, who often have fascinating stories and recommendations.
+When exploring the towns, take the time to venture off the main paths. Discovering smaller streets and hidden corners can lead to delightful surprises. Additionally, don't hesitate to engage with local residents, who often have fascinating stories and recommendations.
 
 ## Practical Information
 
-When planning your visit to the Historic Centres of Stralsund and Wismar, it’s advisable to bring comfortable walking shoes, as both towns are best explored on foot. Weather can vary significantly, so pack layers and consider rain gear, especially in the spring and autumn months.
+When planning your visit to the Historic Centres of Stralsund and Wismar, it's advisable to bring comfortable walking shoes, as both towns are best explored on foot. Weather can vary significantly, so pack layers and consider rain gear, especially in the spring and autumn months.
 
 For those traveling with children, snacks and water bottles are recommended, as you may want to spend an extended period exploring. Seasonal events may influence your visit, so check local calendars for festivals and markets that could enhance your experience.
 
@@ -101,7 +101,7 @@ Yes, guided tours are available and can provide deeper insights into the history
 Spring and early autumn are ideal for pleasant weather and vibrant local events.
 
 ### Is it wheelchair accessible?
-Many areas are accessible, but some historic buildings may have limitations. It’s advisable to check specific sites for accessibility.
+Many areas are accessible, but some historic buildings may have limitations. It's advisable to check specific sites for accessibility.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket availability and online purchases for specific attractions.

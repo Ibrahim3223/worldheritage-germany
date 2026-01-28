@@ -72,7 +72,7 @@ While visiting the German Bratwurst Museum, there are several nearby attractions
 
 To make the most of your visit to the German Bratwurst Museum, consider these insider tips:
 
-- **Photography**: Many exhibits may allow photography, but it’s always a good idea to check for specific guidelines. Capturing the vibrant displays can enhance your experience.
+- **Photography**: Many exhibits may allow photography, but it's always a good idea to check for specific guidelines. Capturing the vibrant displays can enhance your experience.
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the morning can help you avoid the busiest times, allowing for a more intimate experience with the exhibits.
 
@@ -99,7 +99,7 @@ Check for availability of guided tours on the official website, as these may enh
 Weekdays or early mornings are often less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s advisable to confirm specific accessibility features on the official website.
+The museum is designed to be accessible, but it's advisable to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for the option to purchase tickets online, which can save time during your visit.

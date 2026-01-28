@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Lichteneck is a captivating castle located in the picturesque region of Rimbach, nestled in the Oberpfalz area of Germany. This medieval structure offers visitors a unique glimpse into the architectural and cultural heritage of the region. With its imposing presence and historical significance, Burg Lichteneck has become an essential stop for those exploring Germany's rich array of castles. The site is not just an architectural marvel but also a symbol of the region’s storied past, making it a must-visit for history enthusiasts and casual tourists alike.
+Burg Lichteneck is a captivating castle located in the picturesque region of Rimbach, nestled in the Oberpfalz area of Germany. This medieval structure offers visitors a unique glimpse into the architectural and cultural heritage of the region. With its imposing presence and historical significance, Burg Lichteneck has become an essential stop for those exploring Germany's rich array of castles. The site is not just an architectural marvel but also a symbol of the region's storied past, making it a must-visit for history enthusiasts and casual tourists alike.
 
 Set against the backdrop of lush greenery and rolling hills, Burg Lichteneck invites you to delve into its fascinating history. The castle's strategic location historically served as a watchtower and stronghold, playing a pivotal role in the defense and governance of the area. A visit to this site promises not only an exploration of its storied walls but also an opportunity to connect with the vibrant history of Bavaria.
 
@@ -42,13 +42,13 @@ In contemporary times, Burg Lichteneck serves not only as a historical monument 
 
 ## Architecture and Features
 
-Burg Lichteneck is characterized by its robust construction and distinctive medieval architecture. The castle’s design is marked by thick stone walls that have withstood the test of time, showcasing the ingenuity of medieval builders. The architecture reflects a blend of functionality and aesthetics, with features that were not only practical for defense but also visually impressive.
+Burg Lichteneck is characterized by its robust construction and distinctive medieval architecture. The castle's design is marked by thick stone walls that have withstood the test of time, showcasing the ingenuity of medieval builders. The architecture reflects a blend of functionality and aesthetics, with features that were not only practical for defense but also visually impressive.
 
 One of the notable elements of Burg Lichteneck is its towers, which provide a commanding view of the surrounding landscape. These towers were crucial for surveillance and defense, allowing guards to spot potential threats from a distance. The castle's layout often includes a central courtyard, which would have been the heart of daily activities, surrounded by living quarters, storage rooms, and places for gatherings.
 
 The materials used in the construction of Burg Lichteneck, primarily local stone, highlight the region's resources and building traditions. The craftsmanship evident in the masonry speaks to the skills of the artisans of the time. Though specific architectural details may not be documented, the overall impression of solidity and strength is evident throughout the castle.
 
-Visitors can appreciate the intricacies of the castle’s construction as they explore its various sections. Whether peering from the ramparts or walking through the inner chambers, the architectural features of Burg Lichteneck provide insight into the life and times of those who once inhabited this formidable structure.
+Visitors can appreciate the intricacies of the castle's construction as they explore its various sections. Whether peering from the ramparts or walking through the inner chambers, the architectural features of Burg Lichteneck provide insight into the life and times of those who once inhabited this formidable structure.
 
 ## Visiting Information
 
@@ -84,7 +84,7 @@ To avoid crowds, visiting during weekdays or early in the day can offer a more p
 
 When planning your visit to Burg Lichteneck, consider bringing comfortable walking shoes, as the castle grounds may involve uneven terrain. Also, a light jacket or sweater can be useful, especially if you plan to explore during cooler months.
 
-Seasonal considerations may affect your experience, so check the weather forecast ahead of time. If visiting during the winter months, be prepared for colder temperatures, and if you’re visiting in spring or summer, don’t forget sunscreen and water to stay hydrated while exploring.
+Seasonal considerations may affect your experience, so check the weather forecast ahead of time. If visiting during the winter months, be prepared for colder temperatures, and if you're visiting in spring or summer, don't forget sunscreen and water to stay hydrated while exploring.
 
 ## Frequently Asked Questions
 

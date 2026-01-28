@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Our Lady of Altötting is a significant chapel located in the heart of Altötting, Upper Bavaria, Germany. This revered site has been a pilgrimage destination for centuries, attracting visitors from around the world who seek spiritual solace and historical insight. The chapel’s prominence is rooted in its association with the Virgin Mary and the miraculous stories that surround her venerated image. Known not only for its religious significance, the chapel also plays a crucial role in the cultural heritage of the region, intertwining faith, history, and art.
+Our Lady of Altötting is a significant chapel located in the heart of Altötting, Upper Bavaria, Germany. This revered site has been a pilgrimage destination for centuries, attracting visitors from around the world who seek spiritual solace and historical insight. The chapel's prominence is rooted in its association with the Virgin Mary and the miraculous stories that surround her venerated image. Known not only for its religious significance, the chapel also plays a crucial role in the cultural heritage of the region, intertwining faith, history, and art.
 
 Altötting itself is easily accessible and well-situated within Bavaria, making it an ideal stop for those exploring this picturesque region. The chapel is a focal point of the town and serves as a gathering place for both the faithful and curious travelers alike. Visitors to Our Lady of Altötting can expect to engage with a site that resonates with profound historical narratives and a vibrant community spirit, promising a memorable experience steeped in both reverence and discovery.
 
@@ -95,7 +95,7 @@ Photography is typically permitted within the chapel, but visitors should remain
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and significance of the chapel. Check the official website for more details.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 Spring and early autumn are ideal for visiting, as the weather is pleasant and local events often take place during these seasons.
 
 ### Is it wheelchair accessible?

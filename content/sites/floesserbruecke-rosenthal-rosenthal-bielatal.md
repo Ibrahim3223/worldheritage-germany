@@ -38,7 +38,7 @@ As an architectural feature, the Flößerbrücke is also significant for its eng
 
 The Flößerbrücke Rosenthal is characterized by its straightforward yet functional design, typical of bridges serving practical purposes rather than purely aesthetic ones. While detailed architectural specifications are not provided, the bridge features elements that are common in regional bridge construction, focusing on durability and utility.
 
-Visitors may observe the materials used in the bridge’s construction, likely reflecting local resources, and the bridge's integration into the landscape. The design is meant to withstand the environmental challenges posed by the river and surrounding terrain, which speaks to the engineering considerations taken at the time of its construction.
+Visitors may observe the materials used in the bridge's construction, likely reflecting local resources, and the bridge's integration into the landscape. The design is meant to withstand the environmental challenges posed by the river and surrounding terrain, which speaks to the engineering considerations taken at the time of its construction.
 
 Notable features may include the bridge's span across the river, allowing for both pedestrian and vehicular traffic, and the surrounding natural environment, which enhances its visual appeal. The simplicity of its structure is complemented by the scenic backdrop of the Elbe Sandstone Mountains, making it a compelling subject for photography and exploration.
 

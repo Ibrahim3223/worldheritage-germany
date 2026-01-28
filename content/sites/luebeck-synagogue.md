@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Lübeck, a city known for its medieval architecture and rich maritime history, is home to the Lübeck synagogue, a significant site that reflects the Jewish heritage in Germany. The synagogue is located in Lübeck's Old City, an area recognized for its historical significance and well-preserved structures, showcasing the city’s storied past. As one of the few surviving synagogues in northern Germany, it serves as an important reminder of the Jewish community that once thrived in the region before the tragedies of the Holocaust. The Lübeck synagogue is not just a place of worship, but also a cultural landmark, symbolizing resilience and continuity in the face of adversity.
+Lübeck, a city known for its medieval architecture and rich maritime history, is home to the Lübeck synagogue, a significant site that reflects the Jewish heritage in Germany. The synagogue is located in Lübeck's Old City, an area recognized for its historical significance and well-preserved structures, showcasing the city's storied past. As one of the few surviving synagogues in northern Germany, it serves as an important reminder of the Jewish community that once thrived in the region before the tragedies of the Holocaust. The Lübeck synagogue is not just a place of worship, but also a cultural landmark, symbolizing resilience and continuity in the face of adversity.
 
-Visiting this site offers a chance to engage with the complex layers of Lübeck’s history. The synagogue stands as a point of interest for those exploring Jewish heritage in Germany, facilitating a deeper understanding of the role of Judaism in European history. With its historical significance and the stories embedded within its walls, the Lübeck synagogue promises to be a thought-provoking stop for travelers seeking to learn more about the cultural diversity of this historic city.
+Visiting this site offers a chance to engage with the complex layers of Lübeck's history. The synagogue stands as a point of interest for those exploring Jewish heritage in Germany, facilitating a deeper understanding of the role of Judaism in European history. With its historical significance and the stories embedded within its walls, the Lübeck synagogue promises to be a thought-provoking stop for travelers seeking to learn more about the cultural diversity of this historic city.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ To ensure a fulfilling visit, consider checking for any special events or guided
 
 Lübeck's Old City is rich with attractions that complement a visit to the synagogue. Nearby, you can explore:
 
-1. **St. Mary's Church**: This Gothic church is one of Lübeck's most iconic structures and offers insight into the city’s medieval architecture.
+1. **St. Mary's Church**: This Gothic church is one of Lübeck's most iconic structures and offers insight into the city's medieval architecture.
    
 2. **The Holstentor**: A symbol of Lübeck, this impressive city gate is one of the few remaining structures from the medieval fortifications.
 
@@ -66,7 +66,7 @@ Lübeck's Old City is rich with attractions that complement a visit to the synag
 
 4. **Lübeck's Historic Market Square**: A vibrant area filled with shops and cafes, ideal for a leisurely stroll and experiencing the local culture.
 
-5. **The European Hansemuseum**: This museum highlights the history of the Hanseatic League and its impact on Lübeck, providing context for the city’s historical significance.
+5. **The European Hansemuseum**: This museum highlights the history of the Hanseatic League and its impact on Lübeck, providing context for the city's historical significance.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When preparing for your visit to the Lübeck synagogue, it’s advisable to bring a camera, a notebook for reflections, and comfortable footwear, as you may want to explore the surrounding Old City. Seasonal considerations are also important; check the weather forecast and dress appropriately, as temperatures can vary significantly throughout the year.
+When preparing for your visit to the Lübeck synagogue, it's advisable to bring a camera, a notebook for reflections, and comfortable footwear, as you may want to explore the surrounding Old City. Seasonal considerations are also important; check the weather forecast and dress appropriately, as temperatures can vary significantly throughout the year.
 
 Respectful attire is encouraged, as the synagogue is a place of worship. Familiarize yourself with any specific customs or guidelines that may be in place to ensure a respectful visit.
 

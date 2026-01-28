@@ -28,7 +28,7 @@ image_srcset:
 
 Burg Hengebach, a captivating castle located in the charming region of Heimbach, Germany, offers visitors a glimpse into the medieval past that shaped much of Europe. This castle, with its formidable structure and historical significance, is perched on a hill, providing a stunning perspective of the surrounding landscape. Its strategic location has not only played a critical role in the defense of the area but also serves as a reminder of the feudal system that once dominated the region. As you explore Burg Hengebach, you'll uncover stories of nobility, conflict, and architectural ingenuity that have endured through the centuries.
 
-Visitors are drawn to Burg Hengebach not only for its historical context, but also for its picturesque setting, which invites leisurely exploration. The castle embodies the essence of German heritage, representing a unique blend of history and culture that appeals to history enthusiasts, architecture lovers, and casual tourists alike. The promise of discovery and the chance to walk in the footsteps of those who lived here centuries ago make Burg Hengebach a compelling destination for those exploring the rich narrative of Germany’s past.
+Visitors are drawn to Burg Hengebach not only for its historical context, but also for its picturesque setting, which invites leisurely exploration. The castle embodies the essence of German heritage, representing a unique blend of history and culture that appeals to history enthusiasts, architecture lovers, and casual tourists alike. The promise of discovery and the chance to walk in the footsteps of those who lived here centuries ago make Burg Hengebach a compelling destination for those exploring the rich narrative of Germany's past.
 
 ## History and Significance
 
@@ -104,4 +104,4 @@ Check the official website for information on ticket purchasing options, includi
 Facilities such as restrooms and cafes may be located nearby; however, it's best to confirm availability on the official website or upon arrival.
 
 ### What should I wear?
-Comfortable clothing and sturdy footwear are recommended, especially if you plan to explore the castle’s grounds and surrounding areas.
+Comfortable clothing and sturdy footwear are recommended, especially if you plan to explore the castle's grounds and surrounding areas.

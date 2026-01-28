@@ -50,7 +50,7 @@ The foundation may also feature spaces designed for educational programs and pub
 
 When planning your visit to the Daimler and Benz Foundation, it's essential to consider various aspects to enhance your experience. While specific transportation options are not listed, Stuttgart is well-connected by public transport, including buses and trains, making it accessible for visitors.
 
-For the most accurate and up-to-date information regarding hours of operation and ticket prices, check the official website. The foundation may host various exhibitions and events, so it’s a good idea to consult the website for any special programming during your visit.
+For the most accurate and up-to-date information regarding hours of operation and ticket prices, check the official website. The foundation may host various exhibitions and events, so it's a good idea to consult the website for any special programming during your visit.
 
 Visitors typically find that spending a few hours at the foundation allows for a thorough exploration of the exhibits. The best times to visit may vary, but weekdays often offer a quieter experience compared to weekends when local families and tourists flock to the site.
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Daimler and Benz Foundation, consider thes
 
 - **Crowd Avoidance**: Weekdays are often less crowded than weekends, so if your schedule permits, consider visiting during the week to enjoy a more relaxed environment.
 
-- **Engage with Staff**: The foundation’s staff can provide valuable insights and answer questions, enhancing your understanding of the exhibits.
+- **Engage with Staff**: The foundation's staff can provide valuable insights and answer questions, enhancing your understanding of the exhibits.
 
 ## Practical Information
 

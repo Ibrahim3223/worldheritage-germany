@@ -60,7 +60,7 @@ While visiting the Perlenbachtalsperre, there are several nearby attractions wor
 
 1. **Monschau Old Town**: Known for its charming half-timbered houses and narrow cobblestone streets, this historic town offers a glimpse into the region's past, with plenty of shops and eateries to enjoy.
 
-2. **Rotes Haus (Red House)**: This historic building serves as a museum showcasing the region's local history and craftsmanship, offering insight into Monschau’s cultural heritage.
+2. **Rotes Haus (Red House)**: This historic building serves as a museum showcasing the region's local history and craftsmanship, offering insight into Monschau's cultural heritage.
 
 3. **Eifel National Park**: Just a short distance from the dam, this expansive park features diverse landscapes, walking trails, and opportunities for wildlife observation.
 

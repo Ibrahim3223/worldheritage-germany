@@ -34,7 +34,7 @@ As you explore this architectural gem, you'll find an experience that intertwine
 
 ## History and Significance
 
-The history of St. Michaelis is intricately woven into the fabric of Mitte’s development as a central hub in Berlin. While specific dates may not be documented, the church has been a pivotal part of the community for many years, embodying the spiritual and social dynamics of the area. Its establishment marks a significant moment in the history of Berlin, reflecting the city’s evolution and the changing landscape of religious practice.
+The history of St. Michaelis is intricately woven into the fabric of Mitte's development as a central hub in Berlin. While specific dates may not be documented, the church has been a pivotal part of the community for many years, embodying the spiritual and social dynamics of the area. Its establishment marks a significant moment in the history of Berlin, reflecting the city's evolution and the changing landscape of religious practice.
 
 Culturally, St. Michaelis serves as a gathering place for the community, fostering a sense of belonging among its congregation and visitors alike. Throughout its existence, the church has hosted numerous events, ceremonies, and gatherings, reinforcing its role as a cornerstone of communal life. The architectural design and the artistry displayed within the church also contribute to its cultural significance, attracting those interested in the intersection of faith and aesthetics.
 
@@ -88,10 +88,10 @@ Seasonal considerations may also play a role in your visit. During the colder mo
 A visit to St. Michaelis typically takes about 1.5 to 2 hours, allowing time to explore the church and its features at a leisurely pace.
 
 ### Is photography allowed?
-Photography is generally permitted inside St. Michaelis, but it’s advisable to be respectful of worshippers and any signs indicating restrictions.
+Photography is generally permitted inside St. Michaelis, but it's advisable to be respectful of worshippers and any signs indicating restrictions.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as they may enhance your understanding of the church’s history and architecture.
+Check the official website for information regarding guided tours, as they may enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning or early afternoon, are ideal for a quieter experience.

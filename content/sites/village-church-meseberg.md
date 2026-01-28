@@ -70,7 +70,7 @@ For those interested in exploring the surrounding area, the church is situated n
 
 ## Insider Tips
 
-For photography enthusiasts, the Village Church of Meseberg presents numerous opportunities for capturing its architectural beauty. Early morning or late afternoon light can create stunning images of the church’s exterior. Inside, be respectful of the worship space and avoid using flash during services.
+For photography enthusiasts, the Village Church of Meseberg presents numerous opportunities for capturing its architectural beauty. Early morning or late afternoon light can create stunning images of the church's exterior. Inside, be respectful of the worship space and avoid using flash during services.
 
 To avoid crowds, consider visiting during weekdays or during off-peak seasons. This allows for a more intimate experience with the church and its surroundings.
 

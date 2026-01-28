@@ -62,7 +62,7 @@ While the Herzog Anton Ulrich Museum is a highlight of Braunschweig, the city of
 
 2. **Braunschweig Castle**: Once a royal residence, the castle provides a glimpse into the region's past and features beautiful gardens that are perfect for a leisurely stroll.
 
-3. **The Happy Rizzi House**: A colorful and whimsical building designed by American artist James Rizzi, this structure adds a contemporary flair to the city’s architecture and is a popular spot for photographs.
+3. **The Happy Rizzi House**: A colorful and whimsical building designed by American artist James Rizzi, this structure adds a contemporary flair to the city's architecture and is a popular spot for photographs.
 
 4. **Museum of the Brunswick Art Society**: This museum complements the Herzog Anton Ulrich Museum with its focus on contemporary art and local artists, providing visitors with a broader perspective on the art scene.
 

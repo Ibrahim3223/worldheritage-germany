@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Located in the heart of Germany, Galerie Schloss Bauschlott serves as a captivating museum that attracts art enthusiasts and history buffs alike. This cultural institution offers a glimpse into the artistic expressions and heritage of the region, situated at the coordinates 48.970278, 8.719722. The museum’s collection spans various artistic movements and showcases pieces that reflect both the local culture and broader German artistic trends. Visitors can anticipate a thought-provoking experience as they explore the exhibits, which are designed to engage and inspire.
+Located in the heart of Germany, Galerie Schloss Bauschlott serves as a captivating museum that attracts art enthusiasts and history buffs alike. This cultural institution offers a glimpse into the artistic expressions and heritage of the region, situated at the coordinates 48.970278, 8.719722. The museum's collection spans various artistic movements and showcases pieces that reflect both the local culture and broader German artistic trends. Visitors can anticipate a thought-provoking experience as they explore the exhibits, which are designed to engage and inspire.
 
 As a museum, Galerie Schloss Bauschlott is significant not only for its collection but also for its contribution to the local community and its role in promoting art education. It serves as a gathering place for artists, scholars, and visitors who share a passion for the arts. The museum is committed to fostering an appreciation for artistic endeavors through exhibitions, workshops, and educational programs. Whether you are a seasoned art lover or a casual visitor, the gallery promises an enriching experience that deepens your understanding of the region's cultural landscape.
 
@@ -83,7 +83,7 @@ A visit typically requires a few hours, allowing sufficient time to appreciate t
 Photography policies may vary, so it's best to check with the museum upon arrival or refer to their website for guidelines.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the exhibits and the museum’s history. Check the official website for scheduling and availability.
+Guided tours may be available, providing deeper insights into the exhibits and the museum's history. Check the official website for scheduling and availability.
 
 ### What's the best time to visit?
 Weekday mornings or special event days often provide a less crowded experience, allowing for a more intimate exploration of the gallery.

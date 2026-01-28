@@ -40,7 +40,7 @@ In addition to its historical context, the Stately Home of the Dukes of Mecklenb
 
 ## Architecture and Features
 
-The architectural design of the Stately Home of the Dukes of Mecklenburg reflects both elegance and functionality, offering a glimpse into the opulence of noble living. Visitors will find that the museum’s structure is characterized by an intricate façade, featuring ornate details that showcase the craftsmanship of the era. The layout of the home is thoughtfully designed, allowing for both private family spaces and grand reception areas that would have been used for entertaining guests and conducting official business.
+The architectural design of the Stately Home of the Dukes of Mecklenburg reflects both elegance and functionality, offering a glimpse into the opulence of noble living. Visitors will find that the museum's structure is characterized by an intricate façade, featuring ornate details that showcase the craftsmanship of the era. The layout of the home is thoughtfully designed, allowing for both private family spaces and grand reception areas that would have been used for entertaining guests and conducting official business.
 
 Inside the museum, visitors can explore various rooms that have been preserved or restored to reflect their historical significance. Each room tells its own story, adorned with period furnishings, fine art, and decorative elements that highlight the taste and wealth of the dukes. Notable features may include grand staircases, impressive chandeliers, and beautifully crafted woodwork, all contributing to the sense of grandeur that pervades the home.
 

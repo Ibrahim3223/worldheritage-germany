@@ -84,7 +84,7 @@ Seasonal considerations can affect your experience; spring and summer are ideal 
 Most visitors find that one to two hours is sufficient to explore the exhibits and appreciate the museum's offerings.
 
 ### Is photography allowed?
-Please check the museum’s guidelines regarding photography to ensure compliance with any restrictions in place.
+Please check the museum's guidelines regarding photography to ensure compliance with any restrictions in place.
 
 ### Are there guided tours?
 The availability of guided tours may vary. It is best to consult the official website for details or inquire upon arrival.

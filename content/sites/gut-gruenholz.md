@@ -76,7 +76,7 @@ It is also advisable to check if any specific photography restrictions are in pl
 
 ## Practical Information
 
-When planning your visit to Gut Grünholz, it’s helpful to bring a few essentials. Comfortable walking shoes are recommended, as exploring the grounds and the surrounding area may involve some walking. A camera is a must for anyone eager to document their experience.
+When planning your visit to Gut Grünholz, it's helpful to bring a few essentials. Comfortable walking shoes are recommended, as exploring the grounds and the surrounding area may involve some walking. A camera is a must for anyone eager to document their experience.
 
 Seasonal considerations may also play a role in your visit. Spring and summer offer the best conditions for outdoor exploration, while fall can provide stunning foliage. Winter visits may be quieter but could also present challenges due to weather conditions, so be prepared for colder temperatures.
 

@@ -52,9 +52,9 @@ As you walk through the university grounds, you may notice the thoughtful layout
 
 Visiting the University of Helmstedt offers a unique opportunity to engage with a significant piece of academic history. Accessing the university is straightforward, with various transportation options available. Whether you arrive by car, public transport, or on foot, the campus is designed to be accessible, inviting visitors to explore its grounds.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding hours of operation and any potential admission fees. While specific details are not available, it is recommended to allocate sufficient time to fully appreciate the university's offerings. Typically, a visit may take a few hours, allowing for exploration of the campus and its features.
+Before planning your visit, it's advisable to check the official website for current information regarding hours of operation and any potential admission fees. While specific details are not available, it is recommended to allocate sufficient time to fully appreciate the university's offerings. Typically, a visit may take a few hours, allowing for exploration of the campus and its features.
 
-The best times to visit may vary, but generally, weekdays can be more tranquil, providing a better opportunity to absorb the ambiance and engage with the university’s history. Additionally, consider visiting during academic sessions to witness the vibrancy of student life on campus.
+The best times to visit may vary, but generally, weekdays can be more tranquil, providing a better opportunity to absorb the ambiance and engage with the university's history. Additionally, consider visiting during academic sessions to witness the vibrancy of student life on campus.
 
 ## Nearby Attractions
 

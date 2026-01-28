@@ -62,7 +62,7 @@ While visiting Älterer Dalberger Hof, consider exploring some of the nearby att
    
 2. **Gutenberg Museum**: Celebrating Johannes Gutenberg, the inventor of the printing press, this museum offers insights into the history of printing and its impact on society.
 
-3. **The State Museum of Mainz**: Featuring a collection of art and artifacts that reflect the region’s history, this museum provides a deeper understanding of Mainz's cultural heritage.
+3. **The State Museum of Mainz**: Featuring a collection of art and artifacts that reflect the region's history, this museum provides a deeper understanding of Mainz's cultural heritage.
 
 4. **Rheinpromenade**: This riverside promenade offers a pleasant place to stroll, enjoy the views of the Rhine River, and relax at one of the many cafes lining the walkway.
 

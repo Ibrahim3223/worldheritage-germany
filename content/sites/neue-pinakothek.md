@@ -32,7 +32,7 @@ As you approach the museum, you are greeted by its striking architecture, which 
 
 ## History and Significance
 
-The Neue Pinakothek was established as part of a broader effort to create a national art collection in 1853. Built under the direction of King Ludwig I of Bavaria, the museum was designed to house the growing collection of modern art that was previously scattered across various locations in Munich. The museum’s inception marked a pivotal moment in the appreciation of contemporary art, positioning it as a progressive institution in a time when traditional art forms dominated the cultural discourse.
+The Neue Pinakothek was established as part of a broader effort to create a national art collection in 1853. Built under the direction of King Ludwig I of Bavaria, the museum was designed to house the growing collection of modern art that was previously scattered across various locations in Munich. The museum's inception marked a pivotal moment in the appreciation of contemporary art, positioning it as a progressive institution in a time when traditional art forms dominated the cultural discourse.
 
 Throughout its history, the Neue Pinakothek has been an important center for the exhibition of modern art. It showcases significant works from renowned artists such as Caspar David Friedrich, Vincent van Gogh, and Paul Cézanne, reflecting the dynamic shifts in styles and techniques that occurred during the 19th and early 20th centuries. The museum has played a crucial role in promoting the understanding and appreciation of modern art, influencing both public and academic perceptions.
 
@@ -62,7 +62,7 @@ The Neue Pinakothek is situated in a cultural hub, with several notable attracti
 
 2. **Museum Brandhorst**: Known for its contemporary art collection, this museum is another excellent destination for art lovers, featuring works from prominent contemporary artists.
 
-3. **Englischer Garten**: One of the largest urban parks in the world, the Englischer Garten offers a refreshing escape from the city’s hustle and bustle, with picturesque walking paths and serene landscapes.
+3. **Englischer Garten**: One of the largest urban parks in the world, the Englischer Garten offers a refreshing escape from the city's hustle and bustle, with picturesque walking paths and serene landscapes.
 
 4. **Bavarian National Museum**: Just a short distance away, this museum showcases a vast array of decorative arts and cultural history, enhancing your understanding of Bavarian heritage.
 

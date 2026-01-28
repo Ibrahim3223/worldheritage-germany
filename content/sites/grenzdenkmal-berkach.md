@@ -28,7 +28,7 @@ image_srcset:
 
 The Grenzdenkmal Berkach is a poignant monument located in the Grabfeld region of Thuringia, Germany. Standing as a reminder of the historical complexities that have shaped this area, the monument symbolizes the division and reunification of a nation. Its strategic location, near the former border between East and West Germany, adds a layer of significance, as it provides insight into the political and social fabric of the time. Visitors to Grenzdenkmal Berkach can expect a reflective experience, encouraging them to ponder the past while appreciating the present.
 
-This monument not only serves as a site of remembrance but also as an educational hub, inviting visitors to explore the narratives of division and unity that have influenced contemporary German identity. The surrounding landscape of Grabfeld offers a tranquil setting to contemplate the broader implications of the historical events that the monument commemorates. Whether you are a history enthusiast, a culture seeker, or simply looking to understand more about Germany’s divided past, Grenzdenkmal Berkach promises an engaging and enlightening visit.
+This monument not only serves as a site of remembrance but also as an educational hub, inviting visitors to explore the narratives of division and unity that have influenced contemporary German identity. The surrounding landscape of Grabfeld offers a tranquil setting to contemplate the broader implications of the historical events that the monument commemorates. Whether you are a history enthusiast, a culture seeker, or simply looking to understand more about Germany's divided past, Grenzdenkmal Berkach promises an engaging and enlightening visit.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ Finally, take your time to read the informative plaques and engage with the narr
 
 ## Practical Information
 
-When visiting Grenzdenkmal Berkach, it’s advisable to wear comfortable shoes, as you may be walking around the monument and exploring the surrounding area. Check the weather forecast ahead of your visit to dress appropriately for the conditions, especially during the winter months when it can get quite cold.
+When visiting Grenzdenkmal Berkach, it's advisable to wear comfortable shoes, as you may be walking around the monument and exploring the surrounding area. Check the weather forecast ahead of your visit to dress appropriately for the conditions, especially during the winter months when it can get quite cold.
 
 Bringing water and snacks is also a good idea, as facilities in the immediate vicinity may be limited. While there might not be designated cafes or restaurants right at the monument, nearby towns may offer dining options for visitors looking to enjoy a meal after their visit.
 
@@ -102,7 +102,7 @@ The best times to visit are during spring and autumn when the weather is pleasan
 
 ### Is it wheelchair accessible?
 
-Information about accessibility may vary, so it’s best to check the official website for details regarding wheelchair access to the monument.
+Information about accessibility may vary, so it's best to check the official website for details regarding wheelchair access to the monument.
 
 ### Can I buy tickets online?
 

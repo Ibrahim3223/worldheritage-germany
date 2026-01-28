@@ -52,7 +52,7 @@ Overall, Documenta urbana is not just a collection of buildings; it is a thought
 
 To experience Documenta urbana, visitors should plan their journey to Kassel, which is well connected by public transport. Trains and buses frequently service the area, making it accessible from various points in Germany. Once in Kassel, Documenta urbana is within walking distance from the city center, allowing for an enjoyable stroll through the urban landscape.
 
-While specific visiting hours and ticket prices are not provided, it is advisable to check the official website for current information before planning your visit. During your time at Documenta urbana, you can expect to spend approximately one to two hours exploring the architectural features and communal areas. This timeframe allows for a comprehensive appreciation of the ensemble’s design and its significance in the context of urban living.
+While specific visiting hours and ticket prices are not provided, it is advisable to check the official website for current information before planning your visit. During your time at Documenta urbana, you can expect to spend approximately one to two hours exploring the architectural features and communal areas. This timeframe allows for a comprehensive appreciation of the ensemble's design and its significance in the context of urban living.
 
 The best times to visit are during the spring and summer months when the weather is pleasant, and the surrounding green spaces are in full bloom. This season enhances the experience, making the outdoor areas particularly inviting.
 
@@ -64,7 +64,7 @@ Kassel is home to several attractions that complement a visit to Documenta urban
    
 2. **Bergpark Wilhelmshöhe**: Adjacent to the palace, this expansive park is known for its cascading waterfalls and scenic views, perfect for a leisurely walk after exploring Documenta urbana.
 
-3. **Fridericianum**: One of the oldest contemporary art museums in Europe, it is renowned for its exhibitions and is an integral part of Kassel’s art scene.
+3. **Fridericianum**: One of the oldest contemporary art museums in Europe, it is renowned for its exhibitions and is an integral part of Kassel's art scene.
 
 4. **Documenta exhibitions**: If your visit coincides with the Documenta event, attending this prestigious contemporary art exhibition should not be missed, as it showcases innovative works from international artists.
 

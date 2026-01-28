@@ -83,10 +83,10 @@ If you plan to explore the outdoor areas around the museum, sunscreen and water 
 A visit to the Reconstructed Iron Age House typically takes a few hours, allowing ample time to explore the exhibits and learn about the historical context.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s good practice to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for the availability of guided tours, as they can enhance your understanding of the site’s historical significance.
+Check the official website for the availability of guided tours, as they can enhance your understanding of the site's historical significance.
 
 ### What's the best time to visit?
 The best times to visit are often during the spring and early autumn, when the weather is pleasant and conducive to exploration.

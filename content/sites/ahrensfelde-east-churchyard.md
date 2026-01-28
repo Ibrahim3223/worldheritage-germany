@@ -52,7 +52,7 @@ Ahrensfelde East Churchyard is conveniently located within Ahrensfelde, making i
 
 Visitors can expect a peaceful environment, conducive to introspection and reflection. The churchyard is open for exploration, offering a contemplative space where individuals can walk among the graves and take in the tranquil atmosphere. While specific opening hours and potential entrance fees may vary, it is best to check the official website for current information.
 
-A typical visit may last anywhere from 30 minutes to a couple of hours, depending on one’s interest in exploring the gravestones and taking in the surroundings. Early morning or late afternoon may offer the most serene experience, as the light casts gentle shadows across the grounds, enhancing the reflective ambiance.
+A typical visit may last anywhere from 30 minutes to a couple of hours, depending on one's interest in exploring the gravestones and taking in the surroundings. Early morning or late afternoon may offer the most serene experience, as the light casts gentle shadows across the grounds, enhancing the reflective ambiance.
 
 ## Nearby Attractions
 
@@ -60,11 +60,11 @@ A typical visit may last anywhere from 30 minutes to a couple of hours, dependin
 
 2. **The Barnim Nature Park**: A short distance from Ahrensfelde, this expansive natural reserve offers hiking trails and opportunities to appreciate the diverse flora and fauna of the region.
 
-3. **Berlin**: Just a train ride away, visitors can easily explore the historical and cultural sites of Germany’s capital, including the Brandenburg Gate and the Berlin Wall Memorial.
+3. **Berlin**: Just a train ride away, visitors can easily explore the historical and cultural sites of Germany's capital, including the Brandenburg Gate and the Berlin Wall Memorial.
 
 4. **The Ahrensfelde Church**: Located nearby, this historic church complements the cemetery, providing insight into the local religious practices and community life.
 
-5. **The Museum of Ahrensfelde**: This local museum showcases the history and culture of Ahrensfelde, offering additional context to the cemetery’s significance.
+5. **The Museum of Ahrensfelde**: This local museum showcases the history and culture of Ahrensfelde, offering additional context to the cemetery's significance.
 
 ## Insider Tips
 

@@ -103,7 +103,7 @@ Guided tours may be available, providing insights into the exhibitions and enhan
 To avoid crowds, consider visiting during weekdays or early in the morning.
 
 ### Is it wheelchair accessible?
-The museum is likely to be accessible, but it’s best to confirm specific accommodations on the official website.
+The museum is likely to be accessible, but it's best to confirm specific accommodations on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets in advance to save time on your visit.

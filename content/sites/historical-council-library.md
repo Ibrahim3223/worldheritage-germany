@@ -28,7 +28,7 @@ image_srcset:
 
 The Historical Council Library, located in Weißenburg in Bayern, Germany, serves as a vital resource for scholars, researchers, and the general public. This library is not just a repository of knowledge but also a reflection of the cultural and intellectual heritage of the region. As you step into its halls, you are met with an atmosphere that encourages exploration and discovery, making it an essential stop for anyone interested in the literary and historical narratives of Bavaria. The library is situated in a region rich in history, providing context for the volumes it houses and the community it serves.
 
-The library’s significance extends beyond mere collections; it acts as a cultural hub, fostering learning and dialogue among its visitors. It stands as a testament to the importance of libraries in preserving local history and promoting literacy. Whether you are a local resident or a traveler, the Historical Council Library invites you to delve into its resources and engage with the past and present of this remarkable area.
+The library's significance extends beyond mere collections; it acts as a cultural hub, fostering learning and dialogue among its visitors. It stands as a testament to the importance of libraries in preserving local history and promoting literacy. Whether you are a local resident or a traveler, the Historical Council Library invites you to delve into its resources and engage with the past and present of this remarkable area.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ While exploring the library, expect to encounter various collections, including 
 
 ## Visiting Information
 
-When planning a visit to the Historical Council Library, it’s advisable to check the official website for current information regarding hours and admission prices. The library is generally accessible by various modes of transport, including public transit options that connect it to neighboring areas. 
+When planning a visit to the Historical Council Library, it's advisable to check the official website for current information regarding hours and admission prices. The library is generally accessible by various modes of transport, including public transit options that connect it to neighboring areas. 
 
 Visitors can expect to spend about an hour or more exploring the library's collections and facilities, depending on their interests. The environment is typically inviting, encouraging visitors to linger and immerse themselves in the resources available.
 
@@ -58,13 +58,13 @@ The best times to visit are usually during weekdays, when crowds are smaller and
 
 Weißenburg in Bayern is a charming town with a variety of attractions that complement a visit to the Historical Council Library:
 
-1. **Weißenburg Archaeological Museum**: This museum showcases the rich archaeological history of the region, featuring artifacts from various periods that tell the story of the area’s past.
+1. **Weißenburg Archaeological Museum**: This museum showcases the rich archaeological history of the region, featuring artifacts from various periods that tell the story of the area's past.
 
-2. **St. Andrew’s Church**: An architectural marvel, this church is known for its stunning Gothic design and rich history, making it a must-visit for architecture enthusiasts.
+2. **St. Andrew's Church**: An architectural marvel, this church is known for its stunning Gothic design and rich history, making it a must-visit for architecture enthusiasts.
 
-3. **Old Town Square**: A pleasant area to explore, the square is surrounded by historic buildings and offers a glimpse into the town’s vibrant past.
+3. **Old Town Square**: A pleasant area to explore, the square is surrounded by historic buildings and offers a glimpse into the town's vibrant past.
 
-4. **Roman Wall**: The remnants of this ancient structure provide insight into the town’s historical significance during Roman times and are an interesting site for history buffs.
+4. **Roman Wall**: The remnants of this ancient structure provide insight into the town's historical significance during Roman times and are an interesting site for history buffs.
 
 5. **Local Cafés and Shops**: After a visit to the library, take some time to enjoy the local culinary offerings or shop for unique souvenirs in the nearby boutiques.
 
@@ -72,7 +72,7 @@ Weißenburg in Bayern is a charming town with a variety of attractions that comp
 
 For a more enjoyable experience at the Historical Council Library, consider visiting during off-peak hours, such as early mornings or late afternoons on weekdays, to avoid larger crowds. This allows for a more intimate engagement with the library's offerings.
 
-When taking photographs, be mindful of the library's policies regarding photography, which may vary. It’s best to inquire upon arrival. Additionally, bringing a notebook or digital device for notes can enhance your experience as you explore various texts and resources.
+When taking photographs, be mindful of the library's policies regarding photography, which may vary. It's best to inquire upon arrival. Additionally, bringing a notebook or digital device for notes can enhance your experience as you explore various texts and resources.
 
 ## Practical Information
 
@@ -101,7 +101,7 @@ Accessibility features are generally available, but it is recommended to confirm
 Check the official website for information on ticket purchasing options and any associated fees.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available; however, it is best to check the library’s amenities regarding food and beverage options.
+Restroom facilities are typically available; however, it is best to check the library's amenities regarding food and beverage options.
 
 ### What should I wear?
 Dress comfortably and appropriately for a library environment. Layers are recommended, especially if visiting during varying weather conditions. 

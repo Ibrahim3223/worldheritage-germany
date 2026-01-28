@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Zwölf-Apostel-Kirche, or Church of the Twelve Apostles, stands as a prominent place of worship in Frankenthal, Germany. This church is not only a spiritual center but also a significant architectural landmark within the region. Frankenthal, located in the state of Rhineland-Palatinate, lies in the heart of the Palatinate region, known for its rich history and cultural heritage. The church’s design and presence reflect the historical context of the area, making it a site of interest for both locals and visitors alike.
+The Zwölf-Apostel-Kirche, or Church of the Twelve Apostles, stands as a prominent place of worship in Frankenthal, Germany. This church is not only a spiritual center but also a significant architectural landmark within the region. Frankenthal, located in the state of Rhineland-Palatinate, lies in the heart of the Palatinate region, known for its rich history and cultural heritage. The church's design and presence reflect the historical context of the area, making it a site of interest for both locals and visitors alike.
 
 As a church building, the Zwölf-Apostel-Kirche offers an insight into the religious practices and architectural styles that have evolved over time. It serves as a gathering place for the community, hosting various religious services and events. The church's significance extends beyond its religious functions, as it stands as a symbol of community spirit and local history.
 
@@ -76,9 +76,9 @@ Frankenthal is home to several attractions that complement a visit to the Zwölf
 
 To enhance your experience at the Zwölf-Apostel-Kirche, consider these insider tips:
 
-- **Photography**: If you’re interested in photography, early mornings or late afternoons can provide the best natural light for capturing the church’s exterior and surroundings. Be mindful of any restrictions on photography inside the church during services.
+- **Photography**: If you're interested in photography, early mornings or late afternoons can provide the best natural light for capturing the church's exterior and surroundings. Be mindful of any restrictions on photography inside the church during services.
 
-- **Crowd Avoidance**: To avoid larger crowds, it’s best to visit during weekdays, especially outside of major religious ceremonies or festivals.
+- **Crowd Avoidance**: To avoid larger crowds, it's best to visit during weekdays, especially outside of major religious ceremonies or festivals.
 
 - **Respectful Attire**: As a place of worship, dressing modestly is advisable, which shows respect for the sacred space.
 
@@ -98,7 +98,7 @@ When planning your visit to the Zwölf-Apostel-Kirche, consider the following pr
 A visit of approximately one hour is typically sufficient to appreciate the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary. It’s a good idea to check for any restrictions, especially during services.
+Photography policies may vary. It's a good idea to check for any restrictions, especially during services.
 
 ### Are there guided tours?
 Information about guided tours may be available on the church's official website or through local tourism services.

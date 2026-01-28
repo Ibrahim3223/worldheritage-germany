@@ -81,7 +81,7 @@ To enhance your visit to the Kutschenmuseum Hinterstein, consider the following 
 When planning your visit to the Kutschenmuseum Hinterstein, consider the following practical tips:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as visitors will be exploring the museum on foot. A light jacket may also be wise, as temperatures can vary.
-- **Seasonal Considerations**: The museum may have different hours or events based on the season. It’s advisable to check the official website for any seasonal programs or special exhibitions.
+- **Seasonal Considerations**: The museum may have different hours or events based on the season. It's advisable to check the official website for any seasonal programs or special exhibitions.
 
 ## Frequently Asked Questions
 

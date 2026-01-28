@@ -108,7 +108,7 @@ Weekdays, particularly in the morning or late afternoon, tend to be quieter, off
 For detailed accessibility options, refer to the official website before your visit.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for ticket purchasing options and any potential discounts.
+It's advisable to check the official website for ticket purchasing options and any potential discounts.
 
 ### Are there restrooms and cafes?
 Facilities including restrooms are typically available. Check the official website for information about on-site cafes or dining options.

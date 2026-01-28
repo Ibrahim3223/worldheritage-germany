@@ -88,22 +88,22 @@ Seasonal considerations can impact your visit, so be prepared for varying weathe
 A visit to the Welf family mausoleum typically requires about 30 minutes to an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site for any restrictions. Generally, taking photos for personal use is permitted unless otherwise indicated.
+Photography policies may vary, so it's best to check on-site for any restrictions. Generally, taking photos for personal use is permitted unless otherwise indicated.
 
 ### Are there guided tours?
-Information regarding guided tours may not be available. It’s advisable to check the official website for details about any available tours.
+Information regarding guided tours may not be available. It's advisable to check the official website for details about any available tours.
 
 ### What's the best time to visit?
 Weekdays are often less crowded than weekends, with early mornings or late afternoons providing a more tranquil experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s recommended to check the official website for information regarding wheelchair access.
+Accessibility details are not specified, so it's recommended to check the official website for information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Details about online ticket purchases may vary. Be sure to visit the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Information regarding onsite amenities like restrooms and cafes is not provided. It’s wise to check the official site for details on available facilities.
+Information regarding onsite amenities like restrooms and cafes is not provided. It's wise to check the official site for details on available facilities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, keeping in mind that mausoleums are typically quiet and respectful environments.

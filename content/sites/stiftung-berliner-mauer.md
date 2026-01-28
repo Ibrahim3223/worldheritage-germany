@@ -42,7 +42,7 @@ The foundation has been instrumental in facilitating research, developing educat
 
 ## Architecture and Features
 
-While the Stiftung Berliner Mauer itself is primarily a foundation dedicated to heritage and education, the surrounding areas contain significant remnants of the Berlin Wall. Visitors can expect to encounter various features that illustrate the historical context of the Wall’s existence.
+While the Stiftung Berliner Mauer itself is primarily a foundation dedicated to heritage and education, the surrounding areas contain significant remnants of the Berlin Wall. Visitors can expect to encounter various features that illustrate the historical context of the Wall's existence.
 
 The foundation is strategically located near the preserved sections of the Wall, which serve as poignant reminders of the city's history. The site includes original guard towers, sections of the concrete barrier, and the preserved "death strip," which was a no-man's land patrolled by guards. These elements contribute to a somber yet educational atmosphere, allowing visitors to comprehend the physical and emotional weight of the Wall.
 
@@ -78,7 +78,7 @@ To avoid the crowds, aim for a visit during the off-peak hours, particularly on 
 
 ## Practical Information
 
-When planning your visit, it’s advisable to wear comfortable shoes, as you may be walking extensively around the site and nearby attractions. Seasonal considerations should also be taken into account; Berlin can be quite chilly in winter, so dress warmly if you plan to visit during these months.
+When planning your visit, it's advisable to wear comfortable shoes, as you may be walking extensively around the site and nearby attractions. Seasonal considerations should also be taken into account; Berlin can be quite chilly in winter, so dress warmly if you plan to visit during these months.
 
 Additionally, it may be beneficial to bring water and snacks, especially if you plan to spend several hours exploring the foundation and its surroundings. Check the official website for any seasonal events or activities that may enhance your visit.
 

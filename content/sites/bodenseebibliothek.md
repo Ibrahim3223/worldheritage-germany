@@ -70,20 +70,20 @@ Friedrichshafen is situated in an area rich with attractions that complement a v
 
 ## Insider Tips
 
-To make the most of your visit to the Bodenseebibliothek, consider a few insider tips. First, if you’re interested in photography, be sure to check whether photography is permitted inside the library. Capturing the architectural beauty or your favorite reading nook can enhance your experience.
+To make the most of your visit to the Bodenseebibliothek, consider a few insider tips. First, if you're interested in photography, be sure to check whether photography is permitted inside the library. Capturing the architectural beauty or your favorite reading nook can enhance your experience.
 
 To avoid crowds, consider visiting on weekdays, particularly in the morning, when the library is less likely to be busy. This allows you to enjoy a more peaceful visit and find your ideal spot for reading or studying.
 
 ## Practical Information
 
-When planning your visit to the Bodenseebibliothek, it's important to consider what to bring. A valid form of identification may be required if you wish to borrow materials. Additionally, bringing a notepad or electronic device for taking notes can be beneficial, especially if you plan to engage with the library’s resources.
+When planning your visit to the Bodenseebibliothek, it's important to consider what to bring. A valid form of identification may be required if you wish to borrow materials. Additionally, bringing a notepad or electronic device for taking notes can be beneficial, especially if you plan to engage with the library's resources.
 
 Seasonal considerations are also worth noting. During summer, the library may experience an influx of tourists, while winter visits can be quieter. Regardless of the season, be sure to check the official website for any special events or seasonal hours that may enhance your visit.
 
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit can vary in length depending on your interests, but allocating two to three hours will generally allow you to explore the library’s offerings comfortably.
+A visit can vary in length depending on your interests, but allocating two to three hours will generally allow you to explore the library's offerings comfortably.
 
 ### Is photography allowed?
 Photography policies may vary, so it is advisable to check with the library staff upon arrival.

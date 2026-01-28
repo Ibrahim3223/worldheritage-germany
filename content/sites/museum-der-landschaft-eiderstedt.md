@@ -66,7 +66,7 @@ While visiting the Museum der Landschaft Eiderstedt, consider exploring these ne
 
 1. **Sankt Peter-Ording Beach**: Famous for its expansive sandy shores and iconic stilt houses, this beach offers a chance to enjoy natural beauty and leisure activities by the North Sea.
 
-2. **Westküstenpark & Robbarium**: A family-friendly park featuring a range of animals, including seals, which can be observed in a naturalistic setting. It’s a great spot for a leisurely stroll or a picnic.
+2. **Westküstenpark & Robbarium**: A family-friendly park featuring a range of animals, including seals, which can be observed in a naturalistic setting. It's a great spot for a leisurely stroll or a picnic.
 
 3. **Eiderstedter Moor Nature Reserve**: This nature reserve showcases the unique landscape and biodiversity of the region. Hiking trails allow visitors to appreciate the local flora and fauna.
 
@@ -82,7 +82,7 @@ To avoid crowds, visit during weekdays or early in the morning when the museum f
 
 ## Practical Information
 
-When preparing for your visit to the Museum der Landschaft Eiderstedt, it’s a good idea to bring along a few essentials. Comfortable clothing and shoes are recommended, as you may spend several hours walking through the museum and its surroundings. Seasonal considerations should be taken into account, especially if you plan to explore outdoor attractions nearby.
+When preparing for your visit to the Museum der Landschaft Eiderstedt, it's a good idea to bring along a few essentials. Comfortable clothing and shoes are recommended, as you may spend several hours walking through the museum and its surroundings. Seasonal considerations should be taken into account, especially if you plan to explore outdoor attractions nearby.
 
 Consider bringing a reusable water bottle, as staying hydrated is important during your visit, particularly in warmer months. Additionally, having a small notebook or sketchbook can be beneficial if you wish to jot down thoughts or impressions from your experience.
 
@@ -92,7 +92,7 @@ Consider bringing a reusable water bottle, as staying hydrated is important duri
 Most visitors find that spending a few hours at the museum allows for a thorough exploration of the exhibits and a deeper appreciation of the region's history.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s advisable to check for any specific restrictions in certain exhibit areas.
+While photography is generally permitted, it's advisable to check for any specific restrictions in certain exhibit areas.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or programs that may be available during your visit.

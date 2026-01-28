@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Jungnau is a captivating castle located in the serene region of Jungnau, Germany. This historical fortress stands as a remarkable example of medieval architecture, offering visitors a glimpse into the past while showcasing the enduring beauty of its structure. The castle's strategic position and robust design reflect its significance in the historical landscape of the region, inviting history enthusiasts and casual travelers alike to explore its storied halls and surroundings. As you approach Burg Jungnau, you’re greeted with a sense of adventure and curiosity, making it an ideal destination for anyone interested in the heritage of Germany.
+Burg Jungnau is a captivating castle located in the serene region of Jungnau, Germany. This historical fortress stands as a remarkable example of medieval architecture, offering visitors a glimpse into the past while showcasing the enduring beauty of its structure. The castle's strategic position and robust design reflect its significance in the historical landscape of the region, inviting history enthusiasts and casual travelers alike to explore its storied halls and surroundings. As you approach Burg Jungnau, you're greeted with a sense of adventure and curiosity, making it an ideal destination for anyone interested in the heritage of Germany.
 
 The region of Jungnau, where the castle resides, is steeped in a rich cultural legacy, and Burg Jungnau plays a central role in this narrative. Visitors to this site can expect not only to admire the architectural features of the castle but also to engage with the stories that shaped its existence. The promise of exploration and discovery awaits those who step through its gates, making it a highlight for anyone traveling through this picturesque part of Germany.
 
@@ -109,7 +109,7 @@ Check the official website for current accessibility options and any accommodati
 Ticket availability and purchasing options may vary; check the official website for the latest information on ticket sales.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafes may be available; it’s advisable to check the official website before your visit for specific details.
+Amenities such as restrooms and cafes may be available; it's advisable to check the official website before your visit for specific details.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, as you will be exploring both indoor and outdoor spaces. Dress in layers to accommodate changing weather conditions.

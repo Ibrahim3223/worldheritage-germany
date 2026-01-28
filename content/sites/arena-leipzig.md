@@ -28,9 +28,9 @@ image_srcset:
 
 Arena Leipzig, a prominent multi-purpose hall located in the vibrant city of Leipzig, Germany, is a significant venue for a variety of events, from concerts to sports competitions. This dynamic space is integral to the cultural fabric of Leipzig, a city known for its rich history and artistic heritage. As a hub for entertainment and community activities, Arena Leipzig attracts both locals and visitors, providing a platform for memorable experiences in a modern setting.
 
-Leipzig itself is a city steeped in musical tradition and intellectual heritage, known for its historic universities and as a center for the arts. The arena complements this legacy by hosting a diverse array of performances and events, making it an essential stop for anyone interested in experiencing the city’s contemporary cultural scene. With its strategic location, Arena Leipzig serves not only as an entertainment venue but also as a gathering place that fosters a sense of community among its visitors.
+Leipzig itself is a city steeped in musical tradition and intellectual heritage, known for its historic universities and as a center for the arts. The arena complements this legacy by hosting a diverse array of performances and events, making it an essential stop for anyone interested in experiencing the city's contemporary cultural scene. With its strategic location, Arena Leipzig serves not only as an entertainment venue but also as a gathering place that fosters a sense of community among its visitors.
 
-The arena's design and facilities cater to a wide range of activities, reflecting the city’s commitment to providing spaces that enrich the lives of its residents and guests. Whether attending a thrilling concert or watching a gripping sports match, visitors to Arena Leipzig are guaranteed an engaging experience that showcases the vibrancy of Leipzig.
+The arena's design and facilities cater to a wide range of activities, reflecting the city's commitment to providing spaces that enrich the lives of its residents and guests. Whether attending a thrilling concert or watching a gripping sports match, visitors to Arena Leipzig are guaranteed an engaging experience that showcases the vibrancy of Leipzig.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ While visiting Arena Leipzig, there are several nearby attractions that enhance 
 
 3. **Völkerschlachtdenkmal (Monument to the Battle of the Nations)**: This iconic monument commemorates the 1813 Battle of Leipzig and offers visitors a glimpse into the city's historical significance.
 
-4. **Auerbachs Keller**: A historic restaurant known for its connection to Goethe’s "Faust," this venue offers a taste of local cuisine and culture in a historic setting.
+4. **Auerbachs Keller**: A historic restaurant known for its connection to Goethe's "Faust," this venue offers a taste of local cuisine and culture in a historic setting.
 
 5. **St. Thomas Church**: Renowned for its association with Johann Sebastian Bach, this church is a must-visit for music enthusiasts and those interested in Leipzig's rich religious history.
 

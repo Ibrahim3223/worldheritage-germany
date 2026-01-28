@@ -66,7 +66,7 @@ The Badisches Landesmuseum is located in a vibrant area with several attractions
 
 ## Insider Tips
 
-To make the most of your visit to the Badisches Landesmuseum, consider these insider tips. For photography enthusiasts, while some areas may permit photography, it’s advisable to respect any signage indicating restrictions. Visiting during off-peak hours, such as early mornings or late afternoons on weekdays, can help you avoid crowds and enjoy a more peaceful experience as you explore the exhibits. Engaging with staff or asking for recommendations can also enhance your visit, as they can provide valuable insights and information about specific displays.
+To make the most of your visit to the Badisches Landesmuseum, consider these insider tips. For photography enthusiasts, while some areas may permit photography, it's advisable to respect any signage indicating restrictions. Visiting during off-peak hours, such as early mornings or late afternoons on weekdays, can help you avoid crowds and enjoy a more peaceful experience as you explore the exhibits. Engaging with staff or asking for recommendations can also enhance your visit, as they can provide valuable insights and information about specific displays.
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ While the museum is generally family-friendly, consider bringing snacks or water
 Most visitors find that spending a few hours at the Badisches Landesmuseum allows enough time to explore the various exhibits and collections thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check for signs indicating whether photography is permitted in specific areas.
+Photography policies may vary by exhibition. It's best to check for signs indicating whether photography is permitted in specific areas.
 
 ### Are there guided tours?
 The museum may offer guided tours. Check the official website for availability and scheduling of tours during your visit.

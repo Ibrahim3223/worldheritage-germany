@@ -71,7 +71,7 @@ These nearby attractions can complement your visit, providing a broader understa
 
 To make the most of your visit to Ubbo-Emmius-Gymnasium, consider these insider tips:
 
-- **Photography**: If you wish to take photographs, be respectful of the school's environment and check if photography is permitted in specific areas. Capturing the school’s architectural features can be rewarding.
+- **Photography**: If you wish to take photographs, be respectful of the school's environment and check if photography is permitted in specific areas. Capturing the school's architectural features can be rewarding.
 - **Crowd Avoidance**: Visiting during weekdays might help you avoid larger crowds, especially during school hours when students are present. Early mornings or late afternoons could offer a quieter experience.
 
 Engaging with the local community during your visit can also enhance your understanding of the school's significance.
@@ -83,7 +83,7 @@ When planning your visit to Ubbo-Emmius-Gymnasium, keep the following practical 
 - **What to Bring**: A camera for photography, a notepad for jotting down thoughts or observations, and comfortable walking shoes for exploring the area.
 - **Seasonal Considerations**: The region experiences different seasons, so dressing appropriately for the weather is advisable. Checking the forecast before your visit can help you prepare.
 
-Consider also checking for any special events or programs that may be occurring during your visit, as these can provide unique insights into the school’s activities and community engagement.
+Consider also checking for any special events or programs that may be occurring during your visit, as these can provide unique insights into the school's activities and community engagement.
 
 ## Frequently Asked Questions
 

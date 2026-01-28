@@ -38,7 +38,7 @@ The history of Altmark is intricate and deeply connected to the broader historic
 
 Throughout the Middle Ages, Altmark became known for its agricultural bounty, with fertile lands supporting thriving farming communities. This agricultural legacy is still evident today, as the region continues to produce a variety of crops and livestock, contributing to the local economy and cultural identity. The interplay of agriculture and settlement patterns has led to the formation of distinctive villages, each with unique architectural styles and cultural practices.
 
-The cultural landscape of Altmark also encompasses significant historical sites, including churches, castles, and traditional farms that tell the story of the region’s past. These structures are not merely remnants of history; they represent the resilience and adaptability of the communities that built them. They stand as indicators of the historical significance of Altmark, reflecting the socio-economic changes that have occurred over the centuries.
+The cultural landscape of Altmark also encompasses significant historical sites, including churches, castles, and traditional farms that tell the story of the region's past. These structures are not merely remnants of history; they represent the resilience and adaptability of the communities that built them. They stand as indicators of the historical significance of Altmark, reflecting the socio-economic changes that have occurred over the centuries.
 
 As a cultural landscape, Altmark is recognized for its value not only in terms of its historical significance but also as a vital area for conserving agricultural practices and landscapes. The region is a living testament to the relationship between people and land, showcasing how cultural identities are shaped by the environments in which communities thrive.
 
@@ -54,7 +54,7 @@ As visitors explore Altmark, they will encounter various features that reflect t
 
 ## Visiting Information
 
-Traveling to Altmark offers a chance to experience the region’s rich cultural landscape firsthand. The area is accessible by various means of transportation, including road networks that connect it to neighboring towns and cities. Visitors can reach Altmark by car or public transport, with local bus services operating within the region.
+Traveling to Altmark offers a chance to experience the region's rich cultural landscape firsthand. The area is accessible by various means of transportation, including road networks that connect it to neighboring towns and cities. Visitors can reach Altmark by car or public transport, with local bus services operating within the region.
 
 Once in Altmark, visitors can expect to encounter a welcoming atmosphere, with friendly locals eager to share their heritage. Check the official website for current information regarding hours, prices, and specific attractions, as these may vary seasonally.
 

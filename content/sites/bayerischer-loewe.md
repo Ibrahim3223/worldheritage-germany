@@ -32,7 +32,7 @@ Its location in Starnberg, an area known for its natural beauty, further enhance
 
 ## Architecture and Features
 
-The Bayerischer Löwe is a striking architectural feature characterized by its robust and powerful depiction of a lion, which is a common symbol in heraldry. Crafted with attention to detail, the monument captures the essence of the lion’s strength and majesty, which resonates with the cultural ethos of Bavaria.
+The Bayerischer Löwe is a striking architectural feature characterized by its robust and powerful depiction of a lion, which is a common symbol in heraldry. Crafted with attention to detail, the monument captures the essence of the lion's strength and majesty, which resonates with the cultural ethos of Bavaria.
 
 While specific architectural details may not be available, it is evident that the lion has been designed to command attention, likely featuring a sturdy base to support its imposing figure. Its craftsmanship reflects the artistic styles prevalent during the time of its creation, showcasing the skill and dedication of the artisans involved.
 

@@ -76,7 +76,7 @@ To make the most of your visit to Beberbach-Humme-Niederung, consider these insi
 
 ## Practical Information
 
-When preparing for your visit to Beberbach-Humme-Niederung, it’s essential to consider what to bring and seasonal factors:
+When preparing for your visit to Beberbach-Humme-Niederung, it's essential to consider what to bring and seasonal factors:
 
 - **What to Bring**: Comfortable walking shoes are a must, as well as water and snacks for a day of exploration. Binoculars can enhance your wildlife viewing experience, and a camera is recommended for capturing the scenic beauty.
 

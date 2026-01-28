@@ -48,7 +48,7 @@ When planning a visit to Augustinerkloster Lauingen, travelers should check the 
 
 Visitors can expect a peaceful atmosphere, ideal for reflection and exploration. A visit typically takes a few hours, allowing ample time to appreciate the architecture and learn about the monastery's history. The best times to visit are during the spring and summer months when the weather is pleasant, and the surrounding area is vibrant with life.
 
-Upon arrival, guests may find informational materials or signage that provide insights into the monastery's history and significance. While exploring, it’s advisable to maintain a respectful demeanor, as this site is a place of worship and reflection.
+Upon arrival, guests may find informational materials or signage that provide insights into the monastery's history and significance. While exploring, it's advisable to maintain a respectful demeanor, as this site is a place of worship and reflection.
 
 ## Nearby Attractions
 
@@ -68,7 +68,7 @@ To avoid crowds, consider visiting during weekdays or off-peak hours. This allow
 
 ## Practical Information
 
-When visiting Augustinerkloster Lauingen, it’s helpful to bring a few essentials. Comfortable walking shoes are recommended, as exploring the site may involve navigating uneven surfaces. A water bottle can be useful for staying hydrated, especially during warmer months.
+When visiting Augustinerkloster Lauingen, it's helpful to bring a few essentials. Comfortable walking shoes are recommended, as exploring the site may involve navigating uneven surfaces. A water bottle can be useful for staying hydrated, especially during warmer months.
 
 Seasonal considerations are also important; spring and summer offer the most pleasant weather for outdoor exploration. In colder months, it may be advisable to dress in layers to ensure comfort while visiting.
 

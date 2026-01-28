@@ -101,7 +101,7 @@ Check the official website for accessibility information, as features may vary.
 For entry fees and tickets, if applicable, please refer to the official website for current purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may not be available on-site. It’s advisable to check for nearby amenities.
+Facilities may not be available on-site. It's advisable to check for nearby amenities.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind the chapel's spiritual nature.

@@ -66,7 +66,7 @@ During your visit, you can expect a welcoming atmosphere. The church may offer i
 
 2. **Museum Goch**: This local museum showcases the history and culture of Goch, featuring exhibitions that highlight the town's heritage. It's a perfect complement to your visit to the church.
 
-3. **Hortus Goch**: A beautiful botanical garden nearby, Hortus Goch provides a serene environment for a leisurely stroll among various plant species. It’s a great spot for nature lovers.
+3. **Hortus Goch**: A beautiful botanical garden nearby, Hortus Goch provides a serene environment for a leisurely stroll among various plant species. It's a great spot for nature lovers.
 
 4. **Local Parks**: Several parks in Goch offer green spaces for relaxation and picnicking. These parks are ideal for those looking to enjoy the outdoors after exploring the church.
 
@@ -92,16 +92,16 @@ If you plan to visit during the holiday season or for special events, be sure to
 Typically, visitors spend about an hour at Saint Peter Church, allowing time to explore the interior and appreciate its architecture.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check for signs inside the church or ask staff for guidance regarding photography.
+Photography policies may vary. It's best to check for signs inside the church or ask staff for guidance regarding photography.
 
 ### Are there guided tours?
-While specific information on guided tours isn’t available, it’s advisable to inquire at the church or check the official website for any available options.
+While specific information on guided tours isn't available, it's advisable to inquire at the church or check the official website for any available options.
 
 ### What's the best time to visit?
 Weekdays, especially early mornings or late afternoons, tend to be less crowded, providing a more serene experience.
 
 ### Is it wheelchair accessible?
-Accessibility features are not specified. It’s recommended to check in advance for facilities that accommodate visitors with mobility challenges.
+Accessibility features are not specified. It's recommended to check in advance for facilities that accommodate visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Information regarding online ticket purchases is currently unavailable. Please check the official website for details.

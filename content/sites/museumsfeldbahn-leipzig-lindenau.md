@@ -52,7 +52,7 @@ To visit the Museumsfeldbahn Leipzig-Lindenau, transportation options vary depen
 
 Once you arrive, expect to spend a few hours exploring the exhibits and enjoying the interactive experiences available, including the opportunity to ride on historical trains. The best times to visit are during the warmer months when the museum often features special events and demonstrations that enhance the visitor experience. 
 
-Planning your visit during weekdays may also help you avoid larger crowds, allowing for a more leisurely exploration of the museum’s offerings. 
+Planning your visit during weekdays may also help you avoid larger crowds, allowing for a more leisurely exploration of the museum's offerings. 
 
 ## Nearby Attractions
 

@@ -56,11 +56,11 @@ When visiting Marienstraße 7–10, there are several nearby attractions that ca
 
 1. **St. Mary's Church (Marienkirche)**: One of the city's most iconic landmarks, this Gothic church features impressive brickwork and a striking interior. It offers a glimpse into the city's religious history.
 
-2. **Stralsund Museum**: This museum showcases the history and culture of Stralsund and the surrounding region, featuring exhibits that highlight the city’s maritime heritage and artistic achievements.
+2. **Stralsund Museum**: This museum showcases the history and culture of Stralsund and the surrounding region, featuring exhibits that highlight the city's maritime heritage and artistic achievements.
 
 3. **Ozeaneum Stralsund**: A fascinating aquarium and maritime museum that explores the biodiversity of the oceans, making it a great family-friendly destination.
 
-4. **Historic Market Square (Alter Markt)**: The heart of Stralsund, where visitors can find charming cafes, shops, and a variety of historical buildings that reflect the city’s past.
+4. **Historic Market Square (Alter Markt)**: The heart of Stralsund, where visitors can find charming cafes, shops, and a variety of historical buildings that reflect the city's past.
 
 5. **Rugard Mountain**: For those interested in outdoor activities, this nearby natural attraction offers scenic views and walking paths, providing a refreshing contrast to the urban environment.
 

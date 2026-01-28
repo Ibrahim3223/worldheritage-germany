@@ -36,7 +36,7 @@ Göhre reflects the evolution of Jena as a city, highlighting its significance i
 
 The cultural importance of Göhre extends to its role in community engagement. The museum often hosts events, exhibitions, and educational programs designed to connect the public with local history and foster a sense of pride in their heritage. Through these initiatives, Göhre becomes a vital space for dialogue about the past and its implications for the future, reinforcing the importance of understanding one's roots.
 
-The museum’s exhibits are carefully curated to reflect the diverse aspects of Jena's history, including its contributions to philosophy, science, and the arts. As a result, Göhre serves not only as a historical archive but also as a platform for contemporary discussions about identity and progress within the region. The museum stands as a reminder of how local narratives contribute to a broader understanding of national heritage.
+The museum's exhibits are carefully curated to reflect the diverse aspects of Jena's history, including its contributions to philosophy, science, and the arts. As a result, Göhre serves not only as a historical archive but also as a platform for contemporary discussions about identity and progress within the region. The museum stands as a reminder of how local narratives contribute to a broader understanding of national heritage.
 
 ## Architecture and Features
 
@@ -74,11 +74,11 @@ Exploring Göhre can easily be complemented by visits to other nearby attraction
 
 To enhance your visit to Göhre, consider the following insider tips:
 
-- **Photography**: If you’re keen on capturing the exhibits, check the museum's policy on photography, as some areas may have restrictions.
+- **Photography**: If you're keen on capturing the exhibits, check the museum's policy on photography, as some areas may have restrictions.
 
 - **Crowd Avoidance**: Visiting on a weekday, especially in the early afternoon, can help you avoid larger groups, allowing for a more personal experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific exhibits or programs. They can provide valuable insights and enhance your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific exhibits or programs. They can provide valuable insights and enhance your understanding of the displays.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When preparing for your visit to Göhre, consider bringing along a few essential
 
 Seasonal considerations can also affect your visit. If you plan to explore outdoor attractions, check the weather forecast and dress appropriately. 
 
-It’s wise to have a water bottle and a small snack, as this can help keep your energy levels up during your exploration. 
+It's wise to have a water bottle and a small snack, as this can help keep your energy levels up during your exploration. 
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ It’s wise to have a water bottle and a small snack, as this can help keep your
 A visit to Göhre typically takes about 1 to 2 hours, allowing ample time to explore the exhibits and engage with the content.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the museum staff upon arrival to understand the rules regarding photography inside the exhibits.
+Photography policies can vary, so it's best to check with the museum staff upon arrival to understand the rules regarding photography inside the exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing a deeper understanding of the exhibits and the history they represent. Check the official website for current offerings.
@@ -103,7 +103,7 @@ Guided tours may be available, providing a deeper understanding of the exhibits 
 Weekdays, particularly in the early afternoon, are generally less crowded, making them ideal for a more intimate experience at the museum.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s advisable to check the official website for details regarding wheelchair access and facilities.
+Accessibility information can vary, so it's advisable to check the official website for details regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Many museums offer online ticket purchasing options. Check the official website for information regarding ticket sales and any available discounts.

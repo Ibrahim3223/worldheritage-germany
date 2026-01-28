@@ -78,7 +78,7 @@ While visiting the Prinz-Georgs-Palais, there are several nearby attractions tha
 
 When visiting the Prinz-Georgs-Palais, consider these insider tips to enhance your experience:
 
-- **Photography**: Be mindful of photography policies. Some areas may have restrictions, so it’s best to inquire upon arrival.
+- **Photography**: Be mindful of photography policies. Some areas may have restrictions, so it's best to inquire upon arrival.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays or during off-peak hours. Early morning visits can often provide a quieter experience.
 

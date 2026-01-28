@@ -86,13 +86,13 @@ A visit to Nordenham town hall typically requires about 30 minutes to an hour, d
 Yes, photography is generally permitted outside the town hall. Inside, check for any signage regarding restrictions.
 
 ### Are there guided tours?
-Information about guided tours may vary. It’s recommended to check the official website for details on any available tours or programs.
+Information about guided tours may vary. It's recommended to check the official website for details on any available tours or programs.
 
 ### What's the best time to visit?
 Weekdays during operational hours are ideal for a more engaging experience, while weekends may be quieter.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary. It’s advisable to check the official website for specific information on the building's accessibility features.
+Accessibility details may vary. It's advisable to check the official website for specific information on the building's accessibility features.
 
 ### Can I buy tickets online?
 Ticketing information may be available through the official website. Be sure to check for the latest updates.

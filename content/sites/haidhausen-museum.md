@@ -40,7 +40,7 @@ In addition to its educational role, the museum functions as a space for reflect
 
 ## Architecture and Features
 
-The architecture of the Haidhausen-Museum is reflective of the character of the Au-Haidhausen district. While specific architectural details are not provided, museums in this region typically embody a blend of historical and contemporary design elements, harmonizing with the surrounding environment. The museum’s layout is thoughtfully arranged to facilitate the flow of visitors through various exhibits, allowing for an immersive experience as guests explore the displays.
+The architecture of the Haidhausen-Museum is reflective of the character of the Au-Haidhausen district. While specific architectural details are not provided, museums in this region typically embody a blend of historical and contemporary design elements, harmonizing with the surrounding environment. The museum's layout is thoughtfully arranged to facilitate the flow of visitors through various exhibits, allowing for an immersive experience as guests explore the displays.
 
 Inside, the museum features a variety of exhibits that highlight the local history, culture, and artistic expression of Haidhausen. The collection may include photographs, documents, and artifacts that tell the stories of the community's evolution. As visitors navigate through the museum, they can expect to encounter interactive displays and informative panels that enhance their understanding of the historical context.
 
@@ -48,7 +48,7 @@ Overall, the Haidhausen-Museum is designed to be both informative and engaging, 
 
 ## Visiting Information
 
-Accessing the Haidhausen-Museum is relatively straightforward, given its location in the Au-Haidhausen district. Visitors can reach the museum by utilizing public transportation options, which are readily available in Munich. While specific transport details may vary, the museum is typically well-connected to the city’s extensive transit network, making it an accessible destination for both locals and tourists.
+Accessing the Haidhausen-Museum is relatively straightforward, given its location in the Au-Haidhausen district. Visitors can reach the museum by utilizing public transportation options, which are readily available in Munich. While specific transport details may vary, the museum is typically well-connected to the city's extensive transit network, making it an accessible destination for both locals and tourists.
 
 For the most accurate information regarding opening hours and ticket prices, it is advisable to check the official website. This ensures that visitors have the latest details before planning their visit. Guests can expect to spend a couple of hours exploring the museum, depending on their level of interest in the exhibits. The museum tends to attract a moderate number of visitors, so planning your visit during off-peak times may enhance the experience.
 
@@ -60,7 +60,7 @@ While visiting the Haidhausen-Museum, there are several nearby attractions that 
 
 1. **Isar River**: A scenic spot for walks and leisure activities, the Isar River is a short distance away and offers beautiful pathways along its banks.
    
-2. **St. Paul’s Church**: An architectural landmark in the district, St. Paul’s Church features stunning design elements and is a peaceful place to explore.
+2. **St. Paul's Church**: An architectural landmark in the district, St. Paul's Church features stunning design elements and is a peaceful place to explore.
    
 3. **Müller'sches Volksbad**: This historic public bathhouse is renowned for its Art Nouveau architecture and offers a relaxing ambiance for those looking to unwind.
    
@@ -72,11 +72,11 @@ While visiting the Haidhausen-Museum, there are several nearby attractions that 
 
 For those planning to visit the Haidhausen-Museum, here are some insider tips to enhance your experience:
 
-- **Photography**: If you are interested in capturing memories of your visit, check for any specific photography policies within the museum. Certain exhibits may have restrictions, so it’s best to inquire first.
+- **Photography**: If you are interested in capturing memories of your visit, check for any specific photography policies within the museum. Certain exhibits may have restrictions, so it's best to inquire first.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, aim to visit during the mornings on weekdays. This can help you avoid larger groups and allows for a more personal exploration of the exhibits.
 
-- **Engage with Staff**: The museum staff can provide valuable insights and answer any questions you may have. Don’t hesitate to reach out to them during your visit.
+- **Engage with Staff**: The museum staff can provide valuable insights and answer any questions you may have. Don't hesitate to reach out to them during your visit.
 
 ## Practical Information
 

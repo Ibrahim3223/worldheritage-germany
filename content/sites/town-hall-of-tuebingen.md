@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Town Hall of Tübingen, located in the heart of this historic German city, serves not only as a municipal building but also as a symbol of the community’s enduring traditions and civic pride. Tübingen, with its picturesque setting along the Neckar River and its vibrant academic atmosphere, hosts this important civic structure that reflects the city's intricate history and cultural significance. The Town Hall is a focal point for both locals and visitors, embodying the spirit of Tübingen while providing essential services to its inhabitants.
+The Town Hall of Tübingen, located in the heart of this historic German city, serves not only as a municipal building but also as a symbol of the community's enduring traditions and civic pride. Tübingen, with its picturesque setting along the Neckar River and its vibrant academic atmosphere, hosts this important civic structure that reflects the city's intricate history and cultural significance. The Town Hall is a focal point for both locals and visitors, embodying the spirit of Tübingen while providing essential services to its inhabitants.
 
-As you approach the Town Hall, you’ll be drawn in by its architectural charm and historical significance, making it an essential stop for anyone exploring this vibrant region of Germany. The building stands as a reminder of Tübingen’s long-standing role as a center of education and governance, inviting you to delve deeper into the city’s past and present.
+As you approach the Town Hall, you'll be drawn in by its architectural charm and historical significance, making it an essential stop for anyone exploring this vibrant region of Germany. The building stands as a reminder of Tübingen's long-standing role as a center of education and governance, inviting you to delve deeper into the city's past and present.
 
 ## History and Significance
 
-The Town Hall of Tübingen has played a pivotal role in the city’s governance and community life for centuries. While the exact founding date of the structure is not documented, its importance has been recognized throughout various historical periods. The building has witnessed the evolution of Tübingen from a medieval market town to a thriving university city, reflecting the changes in societal structure and civic administration.
+The Town Hall of Tübingen has played a pivotal role in the city's governance and community life for centuries. While the exact founding date of the structure is not documented, its importance has been recognized throughout various historical periods. The building has witnessed the evolution of Tübingen from a medieval market town to a thriving university city, reflecting the changes in societal structure and civic administration.
 
-Historically, Tübingen has been a hub of intellectual activity, largely due to the University of Tübingen, one of the oldest universities in Germany. The Town Hall has served as a venue for important civic events, including meetings, public announcements, and celebrations, making it an integral part of the city’s cultural fabric. Its significance extends beyond mere governance; it has been a gathering place for the community, fostering a sense of unity and shared identity among the residents.
+Historically, Tübingen has been a hub of intellectual activity, largely due to the University of Tübingen, one of the oldest universities in Germany. The Town Hall has served as a venue for important civic events, including meetings, public announcements, and celebrations, making it an integral part of the city's cultural fabric. Its significance extends beyond mere governance; it has been a gathering place for the community, fostering a sense of unity and shared identity among the residents.
 
-Throughout the years, the Town Hall has adapted to the changing needs of the city while preserving its historical essence. This adaptability speaks to the resilience of the community and its commitment to honoring its past while embracing the future. The Town Hall not only facilitates the functioning of local government but also stands as a testament to the city’s rich heritage and vibrant civic life.
+Throughout the years, the Town Hall has adapted to the changing needs of the city while preserving its historical essence. This adaptability speaks to the resilience of the community and its commitment to honoring its past while embracing the future. The Town Hall not only facilitates the functioning of local government but also stands as a testament to the city's rich heritage and vibrant civic life.
 
 ## Architecture and Features
 
@@ -44,15 +44,15 @@ The architectural style of the Town Hall of Tübingen reflects the diverse influ
 
 One notable feature of the Town Hall is the ornate clock tower that rises above the main building. This clock not only serves a practical purpose but also enhances the visual appeal of the structure, marking the passage of time in a community that values both its history and its present. The tower is adorned with decorative elements that reflect the craftsmanship of the era, inviting admiration from those who pass by.
 
-Inside, visitors can expect to find spaces that are both functional and symbolic of Tübingen’s civic pride. The interior often hosts exhibitions and community events, showcasing the vibrant culture of the city. The blending of historical and modern design elements creates an inviting atmosphere, making it a pleasant environment for both government functions and public gatherings.
+Inside, visitors can expect to find spaces that are both functional and symbolic of Tübingen's civic pride. The interior often hosts exhibitions and community events, showcasing the vibrant culture of the city. The blending of historical and modern design elements creates an inviting atmosphere, making it a pleasant environment for both government functions and public gatherings.
 
 While the Town Hall itself is a focal point, the surrounding area is equally captivating. The charming streets and squares that encircle the building are lined with shops, cafés, and additional historic sites, inviting exploration and enhancing the overall experience of visiting this significant landmark.
 
 ## Visiting Information
 
-Visiting the Town Hall of Tübingen is a rewarding experience for anyone interested in the city’s history and culture. The building is centrally located, making it easily accessible by various modes of transport. Public transportation options, including buses and local trains, provide convenient access to the Town Hall from different parts of the city and surrounding areas. For those who prefer to drive, parking facilities are available nearby, but it’s advisable to plan ahead, especially during peak tourist seasons.
+Visiting the Town Hall of Tübingen is a rewarding experience for anyone interested in the city's history and culture. The building is centrally located, making it easily accessible by various modes of transport. Public transportation options, including buses and local trains, provide convenient access to the Town Hall from different parts of the city and surrounding areas. For those who prefer to drive, parking facilities are available nearby, but it's advisable to plan ahead, especially during peak tourist seasons.
 
-Check the official website for current information regarding visiting hours and any potential entry fees. Typically, visitors can expect to spend about an hour exploring the Town Hall and its surroundings. It’s recommended to visit during the weekdays when the building is less crowded, allowing for a more personal experience. However, weekends can also be lively, offering a chance to observe local events and social gatherings.
+Check the official website for current information regarding visiting hours and any potential entry fees. Typically, visitors can expect to spend about an hour exploring the Town Hall and its surroundings. It's recommended to visit during the weekdays when the building is less crowded, allowing for a more personal experience. However, weekends can also be lively, offering a chance to observe local events and social gatherings.
 
 While exploring, take the time to enjoy the nearby streets and public squares, where you can find local vendors, inviting cafés, and additional historical landmarks, making your visit to Tübingen even more enriching.
 
@@ -64,7 +64,7 @@ While exploring, take the time to enjoy the nearby streets and public squares, w
 
 3. **Market Square (Marktplatz)**: Just a short walk from the Town Hall, this vibrant square is home to a weekly market and surrounded by charming shops and eateries.
 
-4. **Eberhard Karls University**: Renowned for its academic excellence, the university grounds are filled with beautiful buildings and historical significance that reflect Tübingen’s intellectual legacy.
+4. **Eberhard Karls University**: Renowned for its academic excellence, the university grounds are filled with beautiful buildings and historical significance that reflect Tübingen's intellectual legacy.
 
 5. **Neckar River Promenade**: Stroll along this scenic riverbank, where you can enjoy leisurely walks, boat rides, and picturesque views of the city.
 
@@ -72,11 +72,11 @@ While exploring, take the time to enjoy the nearby streets and public squares, w
 
 For the best photography opportunities, visit the Town Hall early in the morning or later in the afternoon when the sunlight enhances the building's features. Avoid weekends if you prefer a quieter experience, as the Town Hall can attract larger crowds during local events and markets.
 
-If you’re interested in experiencing local culture, check the calendar for any public events or festivals that might be taking place near the Town Hall during your visit. Engaging with community activities can provide a deeper understanding of Tübingen’s vibrant atmosphere.
+If you're interested in experiencing local culture, check the calendar for any public events or festivals that might be taking place near the Town Hall during your visit. Engaging with community activities can provide a deeper understanding of Tübingen's vibrant atmosphere.
 
 ## Practical Information
 
-When visiting the Town Hall of Tübingen, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. Depending on the season, be prepared for varying weather conditions; an umbrella may be handy in the wetter months, while sunscreen is recommended during summer.
+When visiting the Town Hall of Tübingen, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and a water bottle. Depending on the season, be prepared for varying weather conditions; an umbrella may be handy in the wetter months, while sunscreen is recommended during summer.
 
 The Town Hall and surrounding areas are generally accessible year-round, and seasonal events often enhance the experience, providing unique opportunities to engage with local traditions and celebrations.
 

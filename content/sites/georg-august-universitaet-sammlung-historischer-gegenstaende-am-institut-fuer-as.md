@@ -54,7 +54,7 @@ Göttingen is a city rich in cultural and academic landmarks, making it an excel
 
 1. **Gänseliesel Fountain**: A symbol of Göttingen, this historic fountain features a statue of a young girl herding geese and is often considered a must-see for visitors.
   
-2. **St. Jacob’s Church (Jakobskirche)**: This beautiful medieval church is notable for its stunning architecture and intricate stained glass windows, offering insight into the region’s history.
+2. **St. Jacob's Church (Jakobskirche)**: This beautiful medieval church is notable for its stunning architecture and intricate stained glass windows, offering insight into the region's history.
 
 3. **Alte Aula**: The Old Auditorium of the Georg-August University is an impressive building that showcases the historical educational heritage of the institution.
 

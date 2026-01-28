@@ -20,11 +20,11 @@ images:
 
 ## Overview
 
-The Joseph Haydn-Institut, located in the heart of Cologne, Germany, serves as a vital cultural institution dedicated to the preservation and promotion of the legacy of the renowned composer Joseph Haydn. This archive organization is a hub for musicologists, researchers, and enthusiasts alike, offering access to an extensive collection of documents, manuscripts, and resources related to Haydn’s life and works. As the world continues to celebrate the contributions of classical music to global culture, institutions like the Joseph Haydn-Institut play an essential role in fostering appreciation and understanding of the art form.
+The Joseph Haydn-Institut, located in the heart of Cologne, Germany, serves as a vital cultural institution dedicated to the preservation and promotion of the legacy of the renowned composer Joseph Haydn. This archive organization is a hub for musicologists, researchers, and enthusiasts alike, offering access to an extensive collection of documents, manuscripts, and resources related to Haydn's life and works. As the world continues to celebrate the contributions of classical music to global culture, institutions like the Joseph Haydn-Institut play an essential role in fostering appreciation and understanding of the art form.
 
-Cologne, known for its stunning architecture and vibrant cultural scene, provides a fitting backdrop for such a significant institution. The city’s rich history as a center for arts and education enhances the experience of visiting the Joseph Haydn-Institut. In addition to its focus on Haydn, the institute also serves as a research center for broader topics within the field of musicology, making it an important stop for those interested in the academic study of music.
+Cologne, known for its stunning architecture and vibrant cultural scene, provides a fitting backdrop for such a significant institution. The city's rich history as a center for arts and education enhances the experience of visiting the Joseph Haydn-Institut. In addition to its focus on Haydn, the institute also serves as a research center for broader topics within the field of musicology, making it an important stop for those interested in the academic study of music.
 
-Visitors can expect to delve into a world of classical music heritage, exploring the depth of Haydn’s influence on the genre and the historical context in which he composed. The Joseph Haydn-Institut not only safeguards the past but also inspires future generations to engage with classical music.
+Visitors can expect to delve into a world of classical music heritage, exploring the depth of Haydn's influence on the genre and the historical context in which he composed. The Joseph Haydn-Institut not only safeguards the past but also inspires future generations to engage with classical music.
 
 ## History and Significance
 
@@ -32,7 +32,7 @@ The Joseph Haydn-Institut was established to commemorate the life and works of J
 
 This institution is significant not only for its dedication to Haydn but also for its broader mission to advance the study of classical music. As an archive organization, it collects and preserves valuable historical documents, manuscripts, and correspondence related to Haydn's life and works. Musicologists and researchers utilize these resources for scholarly work, ensuring that Haydn's contributions are thoroughly documented and understood in a contemporary context.
 
-The Joseph Haydn-Institut also serves as a venue for various cultural activities, including lectures, workshops, and concerts. These events provide opportunities for engagement and learning, allowing the public to connect with Haydn's music in meaningful ways. The institute’s role in fostering research and education makes it a cornerstone in the cultural landscape of Cologne.
+The Joseph Haydn-Institut also serves as a venue for various cultural activities, including lectures, workshops, and concerts. These events provide opportunities for engagement and learning, allowing the public to connect with Haydn's music in meaningful ways. The institute's role in fostering research and education makes it a cornerstone in the cultural landscape of Cologne.
 
 ## Architecture and Features
 
@@ -40,7 +40,7 @@ The Joseph Haydn-Institut is housed in a well-appointed facility that reflects t
 
 Inside, the institute features designated areas for exhibitions, research, and public engagement. Visitors can expect to find a welcoming environment where they can immerse themselves in the world of classical music. The collections are thoughtfully organized, allowing for easy navigation through the wealth of materials on display. 
 
-Notable features of the Joseph Haydn-Institut include its extensive archive of manuscripts, letters, and other documents related to Haydn. These materials are invaluable for scholars and music lovers alike, providing insight into the composer’s creative process and the historical context of his work. The institute may also host temporary exhibitions that explore various aspects of Haydn’s life and the broader musical landscape of his time.
+Notable features of the Joseph Haydn-Institut include its extensive archive of manuscripts, letters, and other documents related to Haydn. These materials are invaluable for scholars and music lovers alike, providing insight into the composer's creative process and the historical context of his work. The institute may also host temporary exhibitions that explore various aspects of Haydn's life and the broader musical landscape of his time.
 
 ## Visiting Information
 

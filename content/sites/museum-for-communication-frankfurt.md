@@ -52,7 +52,7 @@ As you explore the museum, you can expect to encounter a variety of artistic int
 
 When planning your visit to the Museum for Communication Frankfurt, consider your transportation options. The museum is conveniently located in Frankfurt, making it accessible via public transport, including buses and trains. For those driving, parking facilities may be available nearby.
 
-Before you go, it’s advisable to check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most up-to-date details for your visit. 
+Before you go, it's advisable to check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most up-to-date details for your visit. 
 
 Visitors can typically expect to spend a few hours exploring the museum, depending on their level of interest in the exhibits. The museum often attracts a diverse crowd, so visiting during off-peak hours may enhance your experience. Engaging with the interactive displays and taking time to reflect on the exhibits will provide a rewarding visit.
 
@@ -70,7 +70,7 @@ While in Frankfurt, there are several attractions nearby that can enhance your v
 
 4. **Palmengarten**: This botanical garden provides a tranquil escape with its diverse plant life and beautiful landscapes, perfect for a leisurely stroll.
 
-5. **Main Tower**: For panoramic views of the city, head to the Main Tower. The observation deck offers a unique perspective of Frankfurt’s skyline.
+5. **Main Tower**: For panoramic views of the city, head to the Main Tower. The observation deck offers a unique perspective of Frankfurt's skyline.
 
 ## Insider Tips
 

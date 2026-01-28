@@ -70,7 +70,7 @@ Visitors to Schloss Großkühnau can enhance their experience by exploring other
 
 4. **Kunstmuseum Dessau**: This museum offers a diverse collection of modern and contemporary art, providing insight into the artistic developments in the region.
 
-5. **St. Mary’s Church**: An important historical site in Dessau, this church features stunning architecture and significant artwork, making it a worthwhile stop for history and art enthusiasts.
+5. **St. Mary's Church**: An important historical site in Dessau, this church features stunning architecture and significant artwork, making it a worthwhile stop for history and art enthusiasts.
 
 ## Insider Tips
 

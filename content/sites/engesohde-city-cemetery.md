@@ -32,7 +32,7 @@ As you stroll through Engesohde, you'll encounter a variety of memorials and mon
 
 ## History and Significance
 
-Engesohde city cemetery has played a crucial role in Hanover's history, serving as a final resting place for many notable figures and everyday citizens alike. The cemetery's establishment reflects the evolving attitudes towards death and remembrance in German culture. While specific dates of establishment and significant events may not be available, the cemetery is considered a valuable cultural asset, representing the city’s diverse population and historical narratives.
+Engesohde city cemetery has played a crucial role in Hanover's history, serving as a final resting place for many notable figures and everyday citizens alike. The cemetery's establishment reflects the evolving attitudes towards death and remembrance in German culture. While specific dates of establishment and significant events may not be available, the cemetery is considered a valuable cultural asset, representing the city's diverse population and historical narratives.
 
 The cemetery is not only significant for its historical context but also for its role in the local community. It has become a space where families gather to remember their loved ones, participate in memorial services, and celebrate the lives of those who have passed. The well-maintained grounds are a testament to the care and respect afforded to these memories. Engesohde city cemetery embodies the city's commitment to preserving its heritage, ensuring that the stories of its residents are not forgotten.
 
@@ -117,7 +117,7 @@ Information regarding wheelchair accessibility is not specified. It is recommend
 Currently, there are no entry fees for Engesohde city cemetery. However, check the official website for any updates on this policy.
 
 ### Are there restrooms and cafes?
-Details about restroom facilities and nearby cafes are not provided. It’s advisable to check the official website for any amenities.
+Details about restroom facilities and nearby cafes are not provided. It's advisable to check the official website for any amenities.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking. Given the cemetery's reflective nature, casual attire that respects the solemnity of the site is recommended.

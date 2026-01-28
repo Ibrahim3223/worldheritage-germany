@@ -74,13 +74,13 @@ If you plan to hike in the nearby areas, be sure to wear comfortable footwear, a
 
 ## Practical Information
 
-When planning your visit to the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa., it’s essential to consider a few practical aspects:
+When planning your visit to the Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa., it's essential to consider a few practical aspects:
 
 - **What to Bring**: A good camera, comfortable walking shoes, and weather-appropriate clothing are recommended. If you plan to explore nearby trails, consider a small backpack with some light snacks and water.
   
 - **Seasonal Considerations**: The best seasons for visiting are spring and autumn for pleasant weather. Winter can be cold, and summer may bring more tourists, so plan accordingly.
 
-- **Accessibility**: While the bridge itself is accessible, pathways to and from the site may vary. It’s advisable to check local resources for specific accessibility information.
+- **Accessibility**: While the bridge itself is accessible, pathways to and from the site may vary. It's advisable to check local resources for specific accessibility information.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Accessibility may vary; check local resources for specific information regarding
 Check the official website for current information regarding any potential fees or ticketing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited near the bridge, so it’s advisable to plan accordingly and consider nearby towns for amenities.
+Facilities may be limited near the bridge, so it's advisable to plan accordingly and consider nearby towns for amenities.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider the season's weather when planning your outfit.

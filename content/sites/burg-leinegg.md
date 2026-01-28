@@ -34,7 +34,7 @@ Culturally, Burg Leinegg represents more than just a military stronghold; it is 
 
 ## Architecture and Features
 
-Burg Leinegg’s architectural style reflects the typical characteristics of medieval castles, designed for both defense and habitation. The castle's layout generally includes a fortified wall, towers, and living quarters, demonstrating the functionality of medieval architecture. Visitors to the site can appreciate these features, which have stood the test of time, showcasing the craftsmanship of the period.
+Burg Leinegg's architectural style reflects the typical characteristics of medieval castles, designed for both defense and habitation. The castle's layout generally includes a fortified wall, towers, and living quarters, demonstrating the functionality of medieval architecture. Visitors to the site can appreciate these features, which have stood the test of time, showcasing the craftsmanship of the period.
 
 The castle's structure is likely characterized by sturdy stone walls, designed to withstand sieges and protect its inhabitants. The towers, which may rise prominently above the surrounding landscape, would have served both defensive purposes and as a means of monitoring the area for potential threats. Additionally, the layout of the living quarters would have been practical, providing necessary amenities while maintaining security.
 

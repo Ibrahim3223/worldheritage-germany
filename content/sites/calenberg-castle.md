@@ -62,7 +62,7 @@ While visiting Calenberg Castle, travelers may want to explore several nearby at
 
 2. **Hannover Old Town**: A short drive away, the Old Town of Hannover is filled with historic buildings, quaint shops, and lively squares, perfect for immersing oneself in local culture.
 
-3. **St. Jacob’s Church**: Situated in Pattensen, this historic church features beautiful architecture and serves as a serene place for reflection after a day of exploration.
+3. **St. Jacob's Church**: Situated in Pattensen, this historic church features beautiful architecture and serves as a serene place for reflection after a day of exploration.
 
 4. **Maschsee Lake**: A scenic lake in Hannover, Maschsee provides opportunities for outdoor activities such as walking, biking, and boating, offering a relaxing contrast to the historical focus of Calenberg Castle.
 

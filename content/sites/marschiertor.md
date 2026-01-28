@@ -28,7 +28,7 @@ image_srcset:
 
 The Marschiertor, an impressive city gate in Aachen, Germany, stands as a striking reminder of the city's storied past. Located at the coordinates 50.76815, 6.08693, this architectural landmark represents not just a passageway, but a symbol of the historical significance of Aachen as a city that once served as a cultural and political center in Europe. As you approach the Marschiertor, you are greeted by the robust structure that has withstood the test of time, inviting visitors to explore the layers of history embedded within its walls.
 
-Aachen, known for its thermal springs and its role as the favored residence of Charlemagne, has seen various transformations throughout the centuries. The Marschiertor, notable for its impressive construction and role in the city’s fortifications, is an essential stop for anyone interested in the architectural and cultural heritage of this region. The gate not only provides a glimpse into medieval military architecture but also serves as a gateway to understanding the evolution of Aachen through the ages.
+Aachen, known for its thermal springs and its role as the favored residence of Charlemagne, has seen various transformations throughout the centuries. The Marschiertor, notable for its impressive construction and role in the city's fortifications, is an essential stop for anyone interested in the architectural and cultural heritage of this region. The gate not only provides a glimpse into medieval military architecture but also serves as a gateway to understanding the evolution of Aachen through the ages.
 
 Visitors to the Marschiertor can expect to experience a blend of historical significance and architectural beauty, making it a must-see on any journey through Aachen. Whether you are a history enthusiast, an architecture lover, or simply passing through, the Marschiertor offers an intriguing insight into the past, inviting you to delve deeper into the stories it has witnessed over the centuries.
 
@@ -44,7 +44,7 @@ Today, the Marschiertor continues to attract visitors who are drawn not only to 
 
 ## Architecture and Features
 
-The Marschiertor is an excellent example of medieval military architecture, characterized by its robust design and functional aesthetic. Constructed with local materials, the gate features strong stone walls that reflect the defensive needs of the time. The structure is notable for its impressive towers, which were designed to enhance the city's fortifications while also serving as a visual marker of the city’s boundaries.
+The Marschiertor is an excellent example of medieval military architecture, characterized by its robust design and functional aesthetic. Constructed with local materials, the gate features strong stone walls that reflect the defensive needs of the time. The structure is notable for its impressive towers, which were designed to enhance the city's fortifications while also serving as a visual marker of the city's boundaries.
 
 The architectural style of the Marschiertor aligns with the typical design elements found in city gates of the medieval period. The gate is tall and imposing, designed to withstand potential attacks while also allowing for the passage of people and goods. Its rounded arches and thick walls not only add to its defensive capabilities but also contribute to its aesthetic appeal, making it a striking feature in the city landscape.
 
@@ -76,7 +76,7 @@ Aachen is home to a wealth of attractions that complement a visit to the Marschi
 
 5. **Ludwig Forum für Internationale Kunst**: This contemporary art museum is housed in a former umbrella factory, offering a unique contrast to the historical sites nearby and showcasing modern artistic expressions.
 
-These attractions provide ample opportunities for further exploration and a deeper understanding of Aachen’s multifaceted heritage.
+These attractions provide ample opportunities for further exploration and a deeper understanding of Aachen's multifaceted heritage.
 
 ## Insider Tips
 

@@ -30,7 +30,7 @@ In the heart of Quedlinburg, Germany, an architectural ensemble awaits explorati
 
 Quedlinburg itself is a town steeped in history, with roots that trace back to the early medieval period. The buildings at Gröpern 15–18 and Halberstädter Straße 1 contribute to the town's narrative, reflecting the architectural evolution influenced by different historical periods, local craftsmanship, and socio-economic changes. Visitors to this site can expect to encounter not only remarkable architectural features but also a palpable sense of the town's past.
 
-As you walk through this ensemble, take a moment to appreciate the intricate details and the stories they tell. Whether you are an architecture enthusiast, a history buff, or simply a curious traveler, Gröpern 15–18 and Halberstädter Straße 1 promises an enriching experience that deepens your understanding of Quedlinburg’s cultural landscape.
+As you walk through this ensemble, take a moment to appreciate the intricate details and the stories they tell. Whether you are an architecture enthusiast, a history buff, or simply a curious traveler, Gröpern 15–18 and Halberstädter Straße 1 promises an enriching experience that deepens your understanding of Quedlinburg's cultural landscape.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ The architectural ensemble at Gröpern 15–18 and Halberstädter Straße 1 is c
 
 The buildings exhibit a variety of designs, showcasing the craftsmanship and attention to detail that were hallmarks of their construction. Visitors will notice the use of local materials, which contribute to the authenticity of the structures. The timber framing, a common feature in German architecture, can be prominently seen here, serving not only as a structural element but also as a decorative one. The interplay of wood and other materials creates a distinctive aesthetic that speaks to the region's architectural heritage.
 
-Additionally, the ensemble’s layout is significant in understanding how urban spaces were organized in historical contexts. The proximity of the buildings suggests a planned approach to town development, where communal and private spaces coexisted harmoniously. Architectural details such as ornamental carvings, balconies, and window designs allow for an appreciation of the artistic expressions of the time. 
+Additionally, the ensemble's layout is significant in understanding how urban spaces were organized in historical contexts. The proximity of the buildings suggests a planned approach to town development, where communal and private spaces coexisted harmoniously. Architectural details such as ornamental carvings, balconies, and window designs allow for an appreciation of the artistic expressions of the time. 
 
 As you explore the site, take note of how the architectural features not only enhance the visual appeal but also narrate the story of the people who lived and worked in these spaces. Each building holds a story, and together they create a compelling narrative of Quedlinburg's architectural legacy.
 
@@ -98,7 +98,7 @@ When visiting Gröpern 15–18 and Halberstädter Straße 1, consider bringing t
 Typically, visitors spend around 1-3 hours at Gröpern 15–18 and Halberstädter Straße 1, depending on their interest in architecture and history.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but be respectful of other visitors and the site’s regulations.
+Yes, photography is generally permitted, but be respectful of other visitors and the site's regulations.
 
 ### Are there guided tours?
 While specific guided tours may not be available at the site, local tourist information can provide recommendations for guided tours in Quedlinburg.

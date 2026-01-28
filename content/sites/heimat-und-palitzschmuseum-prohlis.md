@@ -76,7 +76,7 @@ To make the most of your visit to the Heimat- und Palitzschmuseum Prohlis, consi
 
 - **Crowd Avoidance**: Visiting on weekdays, especially in the morning hours, can help you avoid larger crowds, allowing for a more personal experience with the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations or insights about the exhibits. They can provide valuable context that enriches your understanding of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations or insights about the exhibits. They can provide valuable context that enriches your understanding of the displays.
 
 ## Practical Information
 

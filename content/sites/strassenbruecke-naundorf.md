@@ -26,7 +26,7 @@ In addition to its practical role in transportation, the bridge stands as a symb
 
 ## History and Significance
 
-The history of the Straßenbrücke Naundorf is woven into the broader narrative of the Bobritzsch-Hilbersdorf region. Bridges have long served as vital links between communities, facilitating trade, travel, and cultural exchange. The creation of such structures often reflects the socio-economic conditions of the time. While specific dates about the bridge’s construction are unavailable, it can be inferred that its establishment played a crucial role in enhancing local connectivity.
+The history of the Straßenbrücke Naundorf is woven into the broader narrative of the Bobritzsch-Hilbersdorf region. Bridges have long served as vital links between communities, facilitating trade, travel, and cultural exchange. The creation of such structures often reflects the socio-economic conditions of the time. While specific dates about the bridge's construction are unavailable, it can be inferred that its establishment played a crucial role in enhancing local connectivity.
 
 Bridges like the Straßenbrücke Naundorf can also symbolize technological advancement and engineering prowess. Throughout history, infrastructure projects have often marked periods of growth and improved quality of life for residents. In this way, the bridge serves not only as a physical structure but as a marker of progress, embodying the collective aspirations of the community.
 

@@ -78,7 +78,7 @@ While Jonakirche is a destination in its own right, several nearby attractions c
 
 For those planning to visit Jonakirche, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography is generally allowed, be mindful of any specific restrictions inside the church. The serene interiors may provide excellent opportunities for capturing the beauty of the architecture, but it’s always good to ask permission first.
+- **Photography**: While photography is generally allowed, be mindful of any specific restrictions inside the church. The serene interiors may provide excellent opportunities for capturing the beauty of the architecture, but it's always good to ask permission first.
 
 - **Crowd Avoidance**: To avoid crowds, consider visiting during the early morning or late afternoon. Weekdays may also be less crowded than weekends, allowing for a more peaceful experience.
 

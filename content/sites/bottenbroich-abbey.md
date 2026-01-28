@@ -70,7 +70,7 @@ While Bottenbroich Abbey is a destination in its own right, there are several ne
 
 ## Insider Tips
 
-For photography enthusiasts, Bottenbroich Abbey presents numerous opportunities to capture the serene beauty of its architecture and surroundings. Early mornings or late afternoons provide the best lighting conditions, enhancing the tranquil atmosphere of the site. It’s advisable to respect the space and its spiritual significance while photographing, keeping in mind the presence of other visitors.
+For photography enthusiasts, Bottenbroich Abbey presents numerous opportunities to capture the serene beauty of its architecture and surroundings. Early mornings or late afternoons provide the best lighting conditions, enhancing the tranquil atmosphere of the site. It's advisable to respect the space and its spiritual significance while photographing, keeping in mind the presence of other visitors.
 
 To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. This allows for a more intimate experience as you explore the abbey and its grounds, giving you the chance to connect more deeply with the site.
 

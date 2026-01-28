@@ -36,7 +36,7 @@ The site not only holds archaeological importance but also serves as an emblem o
 
 The history of Danevirke is intertwined with the broader narrative of Scandinavian expansion and territorial defense. While specific dates are not documented, the fortifications are believed to have been established during a period of political upheaval and territorial disputes in northern Europe. The site represents a crucial defensive line against invasions from Germany and other neighboring regions, illustrating the strategic military planning of the time.
 
-Danevirke’s construction is attributed to the need for a protective barrier, which was vital for the Danish kingdoms as they expanded their influence southward. The fortifications played a significant role in various conflicts and were a focal point of power struggles in the region. The archaeological findings at Danevirke provide valuable insights into the technologies and materials used in medieval construction, as well as the social structures that supported such ambitious projects.
+Danevirke's construction is attributed to the need for a protective barrier, which was vital for the Danish kingdoms as they expanded their influence southward. The fortifications played a significant role in various conflicts and were a focal point of power struggles in the region. The archaeological findings at Danevirke provide valuable insights into the technologies and materials used in medieval construction, as well as the social structures that supported such ambitious projects.
 
 As an archaeological site, Danevirke contributes to our understanding of the historical interactions between the Danes and their neighbors. It highlights the complexities of medieval alliances, trade, and warfare. The fortifications not only served as a military outpost but also as a symbol of identity and resistance for the Danish people. Today, it stands as a critical site for historians and archaeologists alike, offering a window into the past and allowing for a deeper appreciation of the historical landscape of Schleswig-Holstein.
 
@@ -74,11 +74,11 @@ Danevirke is situated near several other historical and cultural attractions tha
 
 When visiting Danevirke, consider bringing a camera to capture the remarkable archaeological features, but be mindful where photography is permitted. Arriving early in the day can help you avoid crowds, allowing for a more intimate experience with the site. Engage with the informative displays to enhance your understanding of the fortifications and their significance.
 
-If you’re interested in exploring the surrounding area, plan your itinerary to include nearby attractions for a well-rounded experience. Additionally, check the official website for any scheduled events or guided tours that may provide deeper insights into the history and significance of Danevirke.
+If you're interested in exploring the surrounding area, plan your itinerary to include nearby attractions for a well-rounded experience. Additionally, check the official website for any scheduled events or guided tours that may provide deeper insights into the history and significance of Danevirke.
 
 ## Practical Information
 
-When planning your visit to Danevirke, it’s advisable to bring essentials like water, snacks, and appropriate clothing for the weather. Comfortable shoes are a must, as the site involves walking along earthworks and uneven terrain. Seasonal considerations should also be taken into account; spring and fall typically offer the most pleasant weather for outdoor exploration.
+When planning your visit to Danevirke, it's advisable to bring essentials like water, snacks, and appropriate clothing for the weather. Comfortable shoes are a must, as the site involves walking along earthworks and uneven terrain. Seasonal considerations should also be taken into account; spring and fall typically offer the most pleasant weather for outdoor exploration.
 
 As facilities may vary, checking the official website for information on amenities such as restrooms and nearby dining options is recommended. Being prepared will ensure a more enjoyable and enriching visit to this fascinating archaeological site.
 
@@ -91,7 +91,7 @@ A visit to Danevirke typically requires a few hours to fully explore the site an
 Photography is generally permitted throughout the site, but be mindful of any specific restrictions indicated at the location.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which can enhance your understanding of the site’s history and significance.
+Check the official website for information regarding guided tours, which can enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 The best times to visit Danevirke are during spring and fall when weather conditions are usually mild. Weekdays may also offer a quieter experience.

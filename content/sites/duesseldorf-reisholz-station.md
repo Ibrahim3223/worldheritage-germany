@@ -114,4 +114,4 @@ Basic amenities, including restrooms, are available at the station. Nearby cafes
 ### What should I wear?
 Dress comfortably, considering the weather conditions and the nature of your travel plans. Comfortable shoes are recommended for exploring the station and nearby attractions.
 
-Düsseldorf-Reisholz station, while primarily a transit hub, offers a glimpse into the daily life and transport systems of Düsseldorf. Its functional design and proximity to various attractions make it a noteworthy stop in the city’s transportation network.
+Düsseldorf-Reisholz station, while primarily a transit hub, offers a glimpse into the daily life and transport systems of Düsseldorf. Its functional design and proximity to various attractions make it a noteworthy stop in the city's transportation network.

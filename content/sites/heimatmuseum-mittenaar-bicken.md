@@ -69,7 +69,7 @@ For those planning a visit to the Heimatmuseum Mittenaar-Bicken, here are some i
 
 When preparing for your visit to the Heimatmuseum Mittenaar-Bicken, consider the following practical tips:
 
-- **What to Bring**: It’s advisable to have a light jacket or sweater, as museums can sometimes have varying temperatures. Comfortable shoes are also recommended for walking through the exhibits.
+- **What to Bring**: It's advisable to have a light jacket or sweater, as museums can sometimes have varying temperatures. Comfortable shoes are also recommended for walking through the exhibits.
 - **Seasonal Considerations**: Check for any seasonal events or temporary exhibitions that may be taking place during your visit. This could enhance your experience with unique displays or activities.
 
 ## Frequently Asked Questions
@@ -93,7 +93,7 @@ Accessibility information can be confirmed by checking the official website prio
 For details about ticket purchasing, including online options, refer to the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available, but it’s advisable to check for any onsite dining options.
+Restroom facilities are typically available, but it's advisable to check for any onsite dining options.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended to ensure an enjoyable visit, especially if you plan to explore nearby attractions as well.

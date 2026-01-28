@@ -28,7 +28,7 @@ image_srcset:
 
 The Amberger Tor, a historic gatehouse located in Hahnbach, Germany, serves as a striking reminder of the region's architectural heritage and medieval past. Situated in the Upper Palatinate, this well-preserved structure invites visitors to explore its storied history and appreciate its significance within the fabric of Hahnbach. As an integral part of the town's historical defenses, the Amberger Tor not only represents a key architectural element of its time but also functions as a focal point for understanding the evolution of urban design and community life in the area.
 
-Visitors to Hahnbach will find the Amberger Tor an engaging point of interest, whether they're history enthusiasts or casual travelers. Its strategic location makes it easily accessible, and its impressive design offers a glimpse into the past. As you approach the gatehouse, you’ll feel a sense of connection to the generations that have walked through its archways. The Amberger Tor stands as a significant landmark in Hahnbach, embodying the essence of the town's cultural and historical identity.
+Visitors to Hahnbach will find the Amberger Tor an engaging point of interest, whether they're history enthusiasts or casual travelers. Its strategic location makes it easily accessible, and its impressive design offers a glimpse into the past. As you approach the gatehouse, you'll feel a sense of connection to the generations that have walked through its archways. The Amberger Tor stands as a significant landmark in Hahnbach, embodying the essence of the town's cultural and historical identity.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Amberger Tor has a rich history that is deeply intertwined with the developm
 
 This gatehouse not only served a defensive purpose but also played a crucial role in the social and economic life of the town. The entrance it provided symbolized the threshold between the outside world and the community within. Such structures were vital for trade routes, enabling the flow of goods and cultural exchanges, which contributed to the town's development. The Amberger Tor remains a testament to the strategic importance of Hahnbach during its peak, representing the architectural styles and societal needs of its era.
 
-Over the years, the Amberger Tor has withstood the test of time, surviving various socio-political changes. Its preservation allows visitors to appreciate the craftsmanship and historical context of medieval architecture. The gatehouse’s significance extends beyond its physical presence, symbolizing the endurance of Hahnbach's cultural heritage through centuries of transformation.
+Over the years, the Amberger Tor has withstood the test of time, surviving various socio-political changes. Its preservation allows visitors to appreciate the craftsmanship and historical context of medieval architecture. The gatehouse's significance extends beyond its physical presence, symbolizing the endurance of Hahnbach's cultural heritage through centuries of transformation.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ While visiting the Amberger Tor, consider exploring these nearby attractions:
 
 3. **Local Parks**: The surrounding area includes several parks and green spaces, perfect for a relaxing stroll or a picnic after visiting the gatehouse.
 
-4. **Historical Museums**: Look for local museums that may highlight Hahnbach’s history, providing context to the Amberger Tor’s significance.
+4. **Historical Museums**: Look for local museums that may highlight Hahnbach's history, providing context to the Amberger Tor's significance.
 
 5. **Trails and Nature Walks**: The region offers various trails for walking and cycling, ideal for those looking to explore the natural beauty of Upper Palatinate.
 

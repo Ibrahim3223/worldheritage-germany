@@ -53,7 +53,7 @@ Typically, visitors can expect to spend around one to two hours exploring the ex
 While visiting the Oberpfälzer Fischereimuseum, consider exploring some of the nearby attractions that enhance the cultural experience of the region:
 
 1. **Tirschenreuth Town Center**: A picturesque area with shops, cafes, and historic buildings, ideal for a relaxing stroll.
-2. **St. John’s Church**: A notable landmark in Tirschenreuth, known for its stunning architecture and historical significance.
+2. **St. John's Church**: A notable landmark in Tirschenreuth, known for its stunning architecture and historical significance.
 3. **Lorettokapelle**: A charming chapel located close to the town, set in a peaceful environment perfect for reflection.
 4. **Local Nature Reserves**: The surrounding area features beautiful landscapes and nature trails, ideal for those interested in outdoor activities.
 5. **Fishing Lakes**: Various lakes in the vicinity offer opportunities for fishing and enjoying the natural beauty of the region.
@@ -78,7 +78,7 @@ When preparing for your visit to the Oberpfälzer Fischereimuseum, here are some
 Most visitors spend between one to two hours at the museum, depending on interest in the exhibits.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for restrictions on specific exhibits.
+Photography is generally permitted, but it's advisable to check for restrictions on specific exhibits.
 
 ### Are there guided tours?
 Check the museum's official website for information on guided tours and their availability.

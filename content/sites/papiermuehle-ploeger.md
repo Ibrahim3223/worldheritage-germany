@@ -50,7 +50,7 @@ Overall, the architectural design and interior features of Papiermühle Plöger 
 
 ## Visiting Information
 
-Visiting Papiermühle Plöger is an enriching experience that combines education with cultural engagement. For those planning a trip, it’s advisable to check the official website for current information, including operating hours and ticket prices. The museum is conveniently located, making it accessible by various means of transportation.
+Visiting Papiermühle Plöger is an enriching experience that combines education with cultural engagement. For those planning a trip, it's advisable to check the official website for current information, including operating hours and ticket prices. The museum is conveniently located, making it accessible by various means of transportation.
 
 Upon arrival, guests can expect a welcoming environment that encourages exploration. The museum is designed to accommodate visitors of all ages, providing opportunities for both learning and interaction. Typically, a visit can last between one to two hours, allowing ample time to explore the exhibits and participate in demonstrations.
 
@@ -92,7 +92,7 @@ When planning your visit to Papiermühle Plöger, consider the following practic
 
 - **Seasonal Considerations**: Depending on the time of year, the museum may have different operational hours and events. Check the official website for seasonal updates and any special exhibitions that may be occurring during your visit.
 
-- **Weather Preparedness**: Germany can experience varying weather conditions. It’s wise to check the forecast and dress accordingly, especially if you plan to explore nearby attractions.
+- **Weather Preparedness**: Germany can experience varying weather conditions. It's wise to check the forecast and dress accordingly, especially if you plan to explore nearby attractions.
 
 - **Accessibility**: While the museum aims to be inclusive, it's advisable to check for specific accessibility options if needed.
 

@@ -84,7 +84,7 @@ To avoid larger crowds, consider visiting during weekdays or outside of peak tou
 
 When visiting Sanssouci Palace, it is advisable to wear comfortable shoes, as exploring the palace and its extensive gardens involves a fair amount of walking. Seasonal considerations may also be important; summer visitors should bring sun protection, while those visiting in cooler months may want to dress warmly.
 
-Photography is generally allowed, but it’s wise to check for any specific restrictions within the palace interiors. Bringing a water bottle and light snacks can enhance your visit, as it allows for a convenient break while enjoying the surrounding beauty.
+Photography is generally allowed, but it's wise to check for any specific restrictions within the palace interiors. Bringing a water bottle and light snacks can enhance your visit, as it allows for a convenient break while enjoying the surrounding beauty.
 
 ## Frequently Asked Questions
 

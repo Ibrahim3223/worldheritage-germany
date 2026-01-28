@@ -38,7 +38,7 @@ Notable features may include traditional construction techniques that reflect th
 
 Reaching the Brücke über den Dittmannsdorfer Bach is relatively straightforward, given its location in Dittmannsdorf, a village within the Reinsberg region. Visitors can access the bridge by car, and there may be parking available nearby. For those using public transportation, local services may provide connections to Dittmannsdorf, but it is advisable to check current schedules and routes.
 
-When planning a visit, it’s important to check the official website for current information regarding hours and prices. While the bridge itself is likely open for public access, any associated visitor services may have specific operating hours. 
+When planning a visit, it's important to check the official website for current information regarding hours and prices. While the bridge itself is likely open for public access, any associated visitor services may have specific operating hours. 
 
 Expect to spend about an hour at the site, allowing time for exploration and photography. The best times to visit are often during the day when natural light enhances the scenery, particularly in the late afternoon. This timing can provide a picturesque backdrop for photographs while avoiding larger crowds that may gather during peak hours.
 

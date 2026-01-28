@@ -28,7 +28,7 @@ image_srcset:
 
 The ZKM Center for Art and Media Karlsruhe, located in the heart of Karlsruhe, Germany, serves as a dynamic hub for contemporary art and media. This cultural institution is not merely a library but a multifaceted space that explores the intersection of art and technology, offering a unique experience for visitors interested in the evolving landscape of creative expression. With its commitment to innovation, ZKM has earned recognition both nationally and internationally, making it a significant destination for art enthusiasts, researchers, and the curious alike.
 
-Karlsruhe itself, known for its distinct fan-shaped layout and as a center for legal and technological advancements, provides an engaging backdrop for the ZKM. The center’s mission encompasses promoting artistic practices that challenge conventional boundaries, making it a vital player in the realm of digital culture. Whether you are an artist, a student, or simply a lover of modern creativity, the ZKM promises an enriching experience that invites exploration and reflection.
+Karlsruhe itself, known for its distinct fan-shaped layout and as a center for legal and technological advancements, provides an engaging backdrop for the ZKM. The center's mission encompasses promoting artistic practices that challenge conventional boundaries, making it a vital player in the realm of digital culture. Whether you are an artist, a student, or simply a lover of modern creativity, the ZKM promises an enriching experience that invites exploration and reflection.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Though specific historical dates are not available, the ZKM has positioned itsel
 
 The significance of ZKM lies not just in its exhibitions but also in its role as a research center. It fosters interdisciplinary collaboration, bringing together artists, scientists, and theorists to explore the implications of digital technologies on society and culture. The center's commitment to education and knowledge dissemination is evident through its various workshops, lectures, and panels, which aim to cultivate a deeper understanding of the relationship between art and technology.
 
-Moreover, ZKM’s innovative approach has made it a crucial player in the global art scene, hosting numerous exhibitions that challenge traditional notions of art. By focusing on media art, interactive installations, and digital performance, the center not only showcases contemporary artists but also encourages new ways of thinking about creativity in the digital age. This mission resonates with a wide audience, from academics and industry professionals to the general public, who are increasingly aware of the importance of media literacy in today’s world.
+Moreover, ZKM's innovative approach has made it a crucial player in the global art scene, hosting numerous exhibitions that challenge traditional notions of art. By focusing on media art, interactive installations, and digital performance, the center not only showcases contemporary artists but also encourages new ways of thinking about creativity in the digital age. This mission resonates with a wide audience, from academics and industry professionals to the general public, who are increasingly aware of the importance of media literacy in today's world.
 
 ## Architecture and Features
 

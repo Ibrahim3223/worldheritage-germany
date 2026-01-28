@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Martin's Church, situated in the charming town of Landshut, Bavaria, Germany, is a remarkable example of Gothic architecture that captures the essence of the region’s religious and cultural heritage. This striking church stands as a prominent landmark within the town, drawing visitors with its intricate design and historical significance. Located at the coordinates 48.534141666, 12.151086111, St. Martin's Church not only serves as a place of worship but also as a testament to the artistic and architectural advancements of its time.
+St. Martin's Church, situated in the charming town of Landshut, Bavaria, Germany, is a remarkable example of Gothic architecture that captures the essence of the region's religious and cultural heritage. This striking church stands as a prominent landmark within the town, drawing visitors with its intricate design and historical significance. Located at the coordinates 48.534141666, 12.151086111, St. Martin's Church not only serves as a place of worship but also as a testament to the artistic and architectural advancements of its time.
 
 Landshut, a city steeped in history, was once the capital of the Duchy of Bavaria and boasts a wealth of medieval architecture. The church is a vital part of the town's identity, providing insights into the religious practices and community life of its inhabitants throughout the centuries. Visitors can expect to immerse themselves in the captivating atmosphere of this sacred space, where history and spirituality intertwine.
 
@@ -40,7 +40,7 @@ The church is dedicated to St. Martin of Tours, a revered figure in Christianity
 
 As one of the most important churches in the region, St. Martin's Church has garnered recognition not only for its religious significance but also for its architectural grandeur. It has undergone various renovations and restorations that have preserved its structure and aesthetics while adapting to the needs of contemporary worshippers. The church remains a focal point for religious life in Landshut, with regular services and community activities that continue to engage locals and visitors alike.
 
-In addition to its role as a place of worship, St. Martin's Church has also become a symbol of Landshut's resilience and cultural identity. It stands as a reminder of the city’s past and a witness to its ongoing story, making it a significant landmark for anyone interested in the rich tapestry of Bavaria's history.
+In addition to its role as a place of worship, St. Martin's Church has also become a symbol of Landshut's resilience and cultural identity. It stands as a reminder of the city's past and a witness to its ongoing story, making it a significant landmark for anyone interested in the rich tapestry of Bavaria's history.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Overall, the architecture and features of St. Martin's Church are a testament to
 
 Visiting St. Martin's Church is a rewarding experience that allows guests to explore its architectural beauty and historical significance. The church is accessible via various transport options, making it easy for travelers to include it in their itineraries. Whether arriving by car or public transport, the church is situated conveniently within Landshut.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and any potential entry fees. The schedule for services and events can vary, so it’s a good idea to confirm these details in advance.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and any potential entry fees. The schedule for services and events can vary, so it's a good idea to confirm these details in advance.
 
 When planning your visit, allocate enough time to fully appreciate the church's interior and exterior. A visit typically lasts around one to two hours, allowing for a leisurely exploration of the site and its surroundings. Early mornings or late afternoons are often quieter times to visit, providing a more peaceful atmosphere for reflection and appreciation.
 
@@ -78,7 +78,7 @@ St. Martin's Church is conveniently located near several other attractions that 
 
 4. **The Trausnitz Castle Gardens**: These serene gardens provide a peaceful retreat and are an excellent spot for relaxation after a visit to the church.
 
-5. **The Landshut Wedding Festival**: If your visit coincides with this biennial event, you can witness a vibrant celebration of the city’s history and culture, complete with parades and reenactments.
+5. **The Landshut Wedding Festival**: If your visit coincides with this biennial event, you can witness a vibrant celebration of the city's history and culture, complete with parades and reenactments.
 
 These nearby attractions, along with St. Martin's Church, create a rich tapestry of experiences for visitors to Landshut, making it a worthwhile destination for those interested in history and culture.
 
@@ -92,9 +92,9 @@ To make the most of your visit to St. Martin's Church, consider these insider ti
 
 - **Engage with Locals**: If possible, strike up conversations with locals or church staff. They can provide unique insights and stories that enhance your understanding of the church's significance.
 
-- **Explore the Surroundings**: Take time to wander the nearby streets and discover local shops and cafes. This will give you a fuller experience of Landshut’s vibrant community.
+- **Explore the Surroundings**: Take time to wander the nearby streets and discover local shops and cafes. This will give you a fuller experience of Landshut's vibrant community.
 
-- **Check for Events**: Keep an eye on the church’s schedule for any special events or concerts that may coincide with your visit. Participating in these can offer a unique perspective on the church's role in the community.
+- **Check for Events**: Keep an eye on the church's schedule for any special events or concerts that may coincide with your visit. Participating in these can offer a unique perspective on the church's role in the community.
 
 ## Practical Information
 
@@ -125,7 +125,7 @@ Check the official website for information on guided tours and whether they are 
 Weekdays or early mornings are often quieter, providing a more serene experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s best to check the official website before your visit.
+For specific accessibility information, it's best to check the official website before your visit.
 
 ### Can I buy tickets online?
 Check the official website for details regarding ticket purchases and entry fees.

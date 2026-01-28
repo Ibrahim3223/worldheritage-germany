@@ -102,6 +102,6 @@ Ticket purchasing options may be available online; checking the official website
 Facilities such as restrooms are typically available, but for dining options, consult the official website for up-to-date information.
 
 ### What should I wear?
-Comfortable clothing and sturdy shoes are recommended, especially for exploring the site’s uneven surfaces. 
+Comfortable clothing and sturdy shoes are recommended, especially for exploring the site's uneven surfaces. 
 
 By understanding the historical and cultural significance of Zeche Auguste Victoria, visitors can appreciate the legacy of coal mining in the Ruhr region and its impact on modern society.

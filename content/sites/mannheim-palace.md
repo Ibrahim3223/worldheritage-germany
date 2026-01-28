@@ -56,7 +56,7 @@ Mannheim Palace is often less crowded during weekdays, making it an ideal time f
 
 ## Nearby Attractions
 
-Mannheim offers a variety of attractions in close proximity to the palace, providing visitors with additional opportunities to explore the city’s rich cultural landscape. Some noteworthy nearby sites include:
+Mannheim offers a variety of attractions in close proximity to the palace, providing visitors with additional opportunities to explore the city's rich cultural landscape. Some noteworthy nearby sites include:
 
 1. **Luisenpark**: A vast park featuring beautiful gardens, lakes, and recreational areas. It is a great place for a leisurely stroll or a picnic.
 
@@ -86,16 +86,16 @@ For those with specific needs, checking accessibility options in advance is reco
 A typical visit lasts around 2 to 4 hours, allowing time to explore the exhibits and gardens.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any restrictions in specific exhibition areas.
+Photography is generally permitted, but it's advisable to check for any restrictions in specific exhibition areas.
 
 ### Are there guided tours?
-Guided tours may be available, providing visitors with in-depth knowledge about the palace’s history and architecture.
+Guided tours may be available, providing visitors with in-depth knowledge about the palace's history and architecture.
 
 ### What's the best time to visit?
 Weekdays and early mornings are ideal for a quieter experience, while special exhibitions can attract larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility options are available, but it’s best to check in advance for specific details regarding mobility aids.
+Accessibility options are available, but it's best to check in advance for specific details regarding mobility aids.
 
 ### Can I buy tickets online?
 Check the official website for the option to purchase tickets online to save time during your visit.

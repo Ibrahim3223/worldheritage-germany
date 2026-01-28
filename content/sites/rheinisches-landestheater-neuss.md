@@ -52,7 +52,7 @@ Expect to spend a few hours at the theatre, especially if you intend to enjoy a 
 
 While in Neuss, consider exploring several nearby attractions that showcase the city's rich history and vibrant culture:
 
-1. **St. Quirinus Church**: This impressive neo-Romanesque church is known for its architectural beauty and historical significance. It’s worth a visit for those interested in religious architecture and local history.
+1. **St. Quirinus Church**: This impressive neo-Romanesque church is known for its architectural beauty and historical significance. It's worth a visit for those interested in religious architecture and local history.
 
 2. **Neuss City Centre**: A vibrant area filled with shops, cafes, and restaurants, perfect for a leisurely stroll or a meal before or after your theatre visit.
 
@@ -70,7 +70,7 @@ When planning your visit to the Rheinisches Landestheater Neuss, consider bringi
 
 When visiting the Rheinisches Landestheater Neuss, it is advisable to check the official website for any specific requirements regarding what to bring. Consider bringing a light jacket or sweater, as theatre environments can sometimes be cool. Seasonal considerations may also play a role in your visit; for instance, winter months could see special holiday performances, while summer might feature outdoor events.
 
-Make sure to wear comfortable clothing suitable for sitting for extended periods. If you’re planning to dine nearby, check local restaurant hours as they may vary. 
+Make sure to wear comfortable clothing suitable for sitting for extended periods. If you're planning to dine nearby, check local restaurant hours as they may vary. 
 
 ## Frequently Asked Questions
 

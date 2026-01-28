@@ -52,9 +52,9 @@ The best times to visit are generally during weekdays, when the library tends to
 
 The Friedrichshain-Kreuzberg district is teeming with cultural landmarks and attractions that complement a visit to the Prussian Heritage Image Archive. Among the notable sites nearby are:
 
-1. **East Side Gallery**: This open-air gallery features murals painted on the remnants of the Berlin Wall and serves as a testament to the city’s history and artistic expression.
+1. **East Side Gallery**: This open-air gallery features murals painted on the remnants of the Berlin Wall and serves as a testament to the city's history and artistic expression.
   
-2. **Markisches Museum**: A short distance away, this museum focuses on the history of Berlin, showcasing artifacts and exhibitions that illustrate the city’s evolution over the centuries.
+2. **Markisches Museum**: A short distance away, this museum focuses on the history of Berlin, showcasing artifacts and exhibitions that illustrate the city's evolution over the centuries.
 
 3. **Volkspark Friedrichshain**: A beautiful urban park that offers green space for relaxation, walking paths, and recreational facilities, providing a serene escape from the bustling city.
 
@@ -72,7 +72,7 @@ If you are interested in specific topics within the archive, it may be beneficia
 
 Before heading to the Prussian Heritage Image Archive, it is advisable to bring a few essentials to enhance your visit. Consider carrying a notebook or digital device for note-taking, as well as any necessary research materials. A water bottle can help keep you hydrated during your time spent exploring the archive, especially if you plan to stay for several hours.
 
-As with any library setting, maintaining a quiet demeanor is appreciated, allowing others to focus on their research. Seasonal considerations may also play a role in your visit; the library is open year-round, but be mindful of Berlin’s weather, especially during winter months when it can be quite cold.
+As with any library setting, maintaining a quiet demeanor is appreciated, allowing others to focus on their research. Seasonal considerations may also play a role in your visit; the library is open year-round, but be mindful of Berlin's weather, especially during winter months when it can be quite cold.
 
 ## Frequently Asked Questions
 

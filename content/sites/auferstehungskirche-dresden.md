@@ -40,7 +40,7 @@ The church's design and function reflect the changing dynamics of religion and s
 
 The Auferstehungskirche is emblematic of the Protestant Reformation's influence in the region. It represents the transformation of religious practices and the emphasis on personal faith that characterized this period. The church has hosted numerous events, including services, concerts, and community gatherings, thus reinforcing its importance as a cultural and social hub.
 
-Today, the Auferstehungskirche continues to serve as a vital part of Dresden’s religious landscape. It stands not only as a place for worship but also as a venue for artistic expression and community involvement. The ongoing commitment to maintaining its heritage ensures that it remains relevant to both locals and visitors alike.
+Today, the Auferstehungskirche continues to serve as a vital part of Dresden's religious landscape. It stands not only as a place for worship but also as a venue for artistic expression and community involvement. The ongoing commitment to maintaining its heritage ensures that it remains relevant to both locals and visitors alike.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ Visiting the Auferstehungskirche is a rewarding experience for anyone interested
 
 To get there, visitors can utilize various modes of transport. Public transportation options are readily available, including buses and trams that service the area. Check the official website for current information on the best routes and schedules.
 
-When planning your visit, it’s important to check the official website for hours of operation as well as any potential admission fees. While entry is often free, certain special events or guided tours may have associated costs. 
+When planning your visit, it's important to check the official website for hours of operation as well as any potential admission fees. While entry is often free, certain special events or guided tours may have associated costs. 
 
 Plan to spend at least an hour exploring the church, giving yourself time to appreciate the architectural details and soak in the serene atmosphere. It is advisable to visit during weekdays or early mornings to avoid larger crowds, allowing for a more contemplative experience.
 
@@ -70,8 +70,8 @@ While the Auferstehungskirche itself is a highlight, several nearby attractions 
 
 1. **Frauenkirche Dresden** - This iconic church is renowned for its stunning baroque architecture and rich history, making it a must-see for visitors.
 2. **Zwinger Palace** - A magnificent example of baroque architecture, the Zwinger houses museums and art collections that are significant to Dresden's cultural heritage.
-3. **Dresden Castle** - A historical complex that showcases various architectural styles and serves as a museum, offering insights into the city’s royal past.
-4. **Semper Opera House** - An architectural masterpiece, this opera house is famous for its performances and guided tours, reflecting Dresden’s vibrant cultural scene.
+3. **Dresden Castle** - A historical complex that showcases various architectural styles and serves as a museum, offering insights into the city's royal past.
+4. **Semper Opera House** - An architectural masterpiece, this opera house is famous for its performances and guided tours, reflecting Dresden's vibrant cultural scene.
 5. **Brühl's Terrace** - Often referred to as the "Balcony of Europe," this picturesque promenade along the Elbe River provides stunning views and a relaxing atmosphere.
 
 ## Insider Tips

@@ -36,7 +36,7 @@ Whether you are a history buff or a casual visitor, the Gründerzeitmuseum offer
 
 The Gründerzeit museum is an essential institution for understanding the socio-economic changes that took place in Germany during the late 19th century. This period, known as the Gründerzeit, was marked by the industrial revolution that led to significant advancements in various sectors, including manufacturing, transportation, and urban development. The museum showcases artifacts and exhibits that highlight the lifestyle and aspirations of the middle class during this time, a group that played a crucial role in shaping modern Germany.
 
-Particularly noteworthy is the museum’s focus on the architectural styles that flourished during the Gründerzeit. The era is characterized by a distinct architectural language that combined elements of historicism with new building techniques. The museum captures this essence through its collection of furniture, decorative arts, and other household items that reflect the tastes and values of the time.
+Particularly noteworthy is the museum's focus on the architectural styles that flourished during the Gründerzeit. The era is characterized by a distinct architectural language that combined elements of historicism with new building techniques. The museum captures this essence through its collection of furniture, decorative arts, and other household items that reflect the tastes and values of the time.
 
 In addition to its focus on architecture, the museum also provides insight into the social changes that accompanied industrialization. The shift from rural to urban living, the rise of the middle class, and the changing roles of women are all themes explored within the museum's exhibits. By contextualizing these developments, the Gründerzeitmuseum contributes to a deeper understanding of the historical narrative of Berlin and Germany as a whole.
 
@@ -86,7 +86,7 @@ To enhance your visit to the Gründerzeitmuseum, consider these insider tips:
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, visit during weekdays or early in the morning. This can help you avoid larger groups and provide a more intimate exploration of the collections.
 
-- **Engage with Staff**: The museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for specific areas of interest.
+- **Engage with Staff**: The museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for specific areas of interest.
 
 ## Practical Information
 

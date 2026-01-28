@@ -52,7 +52,7 @@ Reaching Wiesen- und Weidenflächen an der Oste is relatively straightforward, w
 
 Once at the reserve, expect a peaceful environment where the primary activity is exploration. Nature walks are a perfect way to appreciate the beauty of the meadows and pastures. Depending on personal interests, visitors can spend anywhere from a couple of hours to a full day exploring the trails and enjoying the surroundings. 
 
-The best times to visit are during the spring and summer months when the flora is in full bloom and the wildlife is most active. It’s advisable to check the official website for hours and any potential seasonal considerations regarding access.
+The best times to visit are during the spring and summer months when the flora is in full bloom and the wildlife is most active. It's advisable to check the official website for hours and any potential seasonal considerations regarding access.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ While visiting Wiesen- und Weidenflächen an der Oste, there are several nearby 
 
 2. **Lower Saxony Nature Reserve**: This larger reserve encompasses diverse habitats and provides additional opportunities for hiking and wildlife observation.
 
-3. **Historical Sites in Kranenburg**: Explore the architectural heritage of the region, including local churches and historical buildings that reflect the area’s past.
+3. **Historical Sites in Kranenburg**: Explore the architectural heritage of the region, including local churches and historical buildings that reflect the area's past.
 
 4. **Cycling Trails**: The area boasts various cycling routes that allow visitors to explore the scenic landscapes and neighboring towns.
 

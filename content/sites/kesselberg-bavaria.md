@@ -86,7 +86,7 @@ Be sure to bring water and snacks, especially if you plan on spending several ho
 The time spent at Kesselberg can vary, but most visitors find that a few hours are sufficient to enjoy the drive and take in the views. If you plan to hike or engage in activities, consider allocating additional time.
 
 ### Is photography allowed?
-Yes, photography is permitted throughout the Kesselberg area. It’s a popular spot for capturing the natural landscape.
+Yes, photography is permitted throughout the Kesselberg area. It's a popular spot for capturing the natural landscape.
 
 ### Are there guided tours?
 Currently, specific guided tours may not be available, but visitors are encouraged to explore the area independently to fully experience its beauty.
@@ -95,7 +95,7 @@ Currently, specific guided tours may not be available, but visitors are encourag
 The best time to visit Kesselberg is typically from spring to fall, when the weather is more favorable for outdoor activities. However, winter can offer a unique experience for snow enthusiasts.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s advisable to check with local resources for specific information regarding wheelchair access along the pass.
+Accessibility options may vary; it's advisable to check with local resources for specific information regarding wheelchair access along the pass.
 
 ### Can I buy tickets online?
 Currently, no tickets are required for access to Kesselberg. Always check the official website for any updates or changes.

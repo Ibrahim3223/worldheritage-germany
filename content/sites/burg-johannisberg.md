@@ -72,7 +72,7 @@ Burg Johannisberg is located in a region rich with attractions that complement y
 
 4. **Burg Rheinstein**: Another castle located along the Rhine River, offering stunning views and insights into medieval fortifications.
 
-5. **Rhein River Cruises**: Experience the beauty of the Rhine Valley from the water, with options for leisurely cruises that provide a unique perspective of the region’s landscapes.
+5. **Rhein River Cruises**: Experience the beauty of the Rhine Valley from the water, with options for leisurely cruises that provide a unique perspective of the region's landscapes.
 
 ## Insider Tips
 
@@ -99,7 +99,7 @@ A visit typically lasts a few hours, allowing ample time to explore the castle g
 Yes, photography is generally permitted, making it a great opportunity to capture the castle and its scenic views.
 
 ### Are there guided tours?
-Guided tours may be available, enhancing your understanding of the castle’s history and significance. Check the official website for details.
+Guided tours may be available, enhancing your understanding of the castle's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 The best times to visit are usually during spring and fall, when the weather is pleasant, and the surrounding vineyards are particularly attractive.
@@ -111,7 +111,7 @@ Check the official website for current accessibility information, as facilities 
 It is advisable to check the official website for options regarding online ticket purchases.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and food options may be available, but it’s best to confirm on the official site before your visit.
+Amenities such as restrooms and food options may be available, but it's best to confirm on the official site before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering that walking and outdoor exploration are part of the experience.

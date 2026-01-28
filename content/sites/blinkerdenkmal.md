@@ -32,7 +32,7 @@ The Blinkerdenkmal invites visitors to pause and reflect on the sacrifices comme
 
 ## History and Significance
 
-The Blinkerdenkmal is not just a monument; it represents a crucial element of Jena’s collective memory. While specific dates and events associated with its establishment may not be available, the significance of such memorials in German culture cannot be overstated. They serve as physical embodiments of the values of honor, sacrifice, and remembrance, particularly in a nation that has undergone substantial historical transformations.
+The Blinkerdenkmal is not just a monument; it represents a crucial element of Jena's collective memory. While specific dates and events associated with its establishment may not be available, the significance of such memorials in German culture cannot be overstated. They serve as physical embodiments of the values of honor, sacrifice, and remembrance, particularly in a nation that has undergone substantial historical transformations.
 
 In a broader context, monuments like the Blinkerdenkmal are integral to understanding the societal narratives that shape a community's identity. They often commemorate significant historical events or figures that have influenced the region. The presence of such monuments in Jena reflects the city's commitment to remembering its past, particularly in relation to the sacrifices made during conflicts that have impacted the population.
 

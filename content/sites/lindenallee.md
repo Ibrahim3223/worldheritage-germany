@@ -56,7 +56,7 @@ Visitors can expect to find a tranquil atmosphere, enhanced by the rustling leav
 
 Getting to Lindenallee is straightforward, as it is located in the heart of Tübingen, easily accessible by public transport or on foot from many points within the city. If you're traveling by train, Tübingen's main railway station is nearby, and local buses provide convenient connections to various parts of the city.
 
-When planning your visit, it’s advisable to check the official website for current information on park hours and any potential entrance fees. While Lindenallee is generally open to the public, specific events or seasonal changes may affect access.
+When planning your visit, it's advisable to check the official website for current information on park hours and any potential entrance fees. While Lindenallee is generally open to the public, specific events or seasonal changes may affect access.
 
 Most visitors typically spend around one to two hours in Lindenallee, allowing ample time to stroll through the park, enjoy a picnic, or simply relax. Early mornings or late afternoons are often the best times to visit, as these periods tend to be less crowded and provide a more peaceful experience.
 

@@ -44,7 +44,7 @@ Sonnenplatz-Apotheke features architecture that is typical of the region, reflec
 
 Inside the museum, the layout is likely designed to guide visitors through various sections that exhibit the evolution of pharmacy. This may include dedicated areas for historical artifacts, interactive displays, and possibly even reconstructions of traditional apothecary settings. The design prioritizes accessibility and engagement, allowing guests to immerse themselves in the history of the pharmaceutical profession.
 
-Notable features might include original tools used by apothecaries, preserved texts that offer insights into medicinal practices of the past, and displays that illustrate the transition from traditional remedies to modern medicine. These elements work together to create a comprehensive narrative of pharmacy’s development throughout history.
+Notable features might include original tools used by apothecaries, preserved texts that offer insights into medicinal practices of the past, and displays that illustrate the transition from traditional remedies to modern medicine. These elements work together to create a comprehensive narrative of pharmacy's development throughout history.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ While exploring Tauberbischofsheim, visitors can also enjoy several nearby attra
 
 1. **Tauberbischofsheim Old Town**: A picturesque area with historical buildings and charming streets, perfect for a leisurely stroll.
 2. **Main-Tauber-Kreis Museum**: This museum offers insights into the regional history and culture, enriching your understanding of the area.
-3. **St. Martin’s Church**: An architectural landmark with beautiful interiors, providing a glimpse into the local religious heritage.
+3. **St. Martin's Church**: An architectural landmark with beautiful interiors, providing a glimpse into the local religious heritage.
 4. **The Tauber River**: Ideal for those who enjoy nature, the river offers scenic views and opportunities for walking or cycling along its banks.
 5. **Local Markets**: Experience the vibrant local culture through markets that showcase regional products and culinary delights.
 

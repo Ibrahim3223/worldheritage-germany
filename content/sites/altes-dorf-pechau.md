@@ -22,7 +22,7 @@ images:
 
 Altes Dorf (Pechau) is a captivating castle situated in the Magdeburg region of Germany, characterized by its historical significance and architectural charm. This site serves as a reminder of the medieval era, reflecting the lifestyle and defense mechanisms of its time. Visitors to Altes Dorf will find themselves enveloped in a narrative of resilience and cultural heritage that continues to resonate through the ages. 
 
-The castle’s strategic location highlights its importance in regional history, making it a focal point for understanding the sociopolitical dynamics of the area. As you explore, the remnants of its storied past provide insights into the daily lives of those who once inhabited these grounds. With its impressive structure and fascinating history, Altes Dorf invites exploration and contemplation.
+The castle's strategic location highlights its importance in regional history, making it a focal point for understanding the sociopolitical dynamics of the area. As you explore, the remnants of its storied past provide insights into the daily lives of those who once inhabited these grounds. With its impressive structure and fascinating history, Altes Dorf invites exploration and contemplation.
 
 While visiting, guests can expect a blend of historical education and picturesque scenery, making it a perfect stop for history enthusiasts and casual visitors alike. The castle not only serves as a window into the past but also as a space for reflection and appreciation of Germany's rich heritage.
 

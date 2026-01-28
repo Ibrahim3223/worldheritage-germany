@@ -105,7 +105,7 @@ Check the official website for up-to-date information regarding accessibility op
 Details about ticket purchasing methods can be found on the official website.
 
 ### Are there restrooms and cafes?
-Local amenities may vary; it’s best to check nearby for facilities.
+Local amenities may vary; it's best to check nearby for facilities.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind that this is a place of worship.

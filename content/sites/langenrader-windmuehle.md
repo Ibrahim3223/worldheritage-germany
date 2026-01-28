@@ -56,7 +56,7 @@ The best times to visit the Langenrader Windmühle are during the spring and sum
 
 ## Nearby Attractions
 
-1. **Ascheberg Castle**: A short drive from the windmill, this historical site offers insight into the region’s noble heritage and architectural styles.
+1. **Ascheberg Castle**: A short drive from the windmill, this historical site offers insight into the region's noble heritage and architectural styles.
    
 2. **Plön Lake**: A picturesque lake ideal for picnics, sailing, and enjoying nature walks, perfect for a relaxing afternoon after visiting the windmill.
 
@@ -74,7 +74,7 @@ For photography enthusiasts, the interplay of light and shadow on the windmill's
 
 ## Practical Information
 
-When planning your visit to the Langenrader Windmühle, it’s advisable to bring along essentials such as water, comfortable walking shoes, and perhaps a light jacket, as the weather can change rapidly in northern Germany. 
+When planning your visit to the Langenrader Windmühle, it's advisable to bring along essentials such as water, comfortable walking shoes, and perhaps a light jacket, as the weather can change rapidly in northern Germany. 
 
 Seasonal considerations include planning for warmer clothing in the fall and winter, as temperatures can be quite brisk. If you visit during the summer, sunscreen and hats are recommended due to the potential exposure while exploring the outdoor areas.
 
@@ -99,7 +99,7 @@ Accessibility information isn't provided, so it is best to check with the offici
 Check the official website for current information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Information about restrooms and cafes is not specified, so it’s advisable to check the official website for details.
+Information about restrooms and cafes is not specified, so it's advisable to check the official website for details.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes, as you may be walking or standing for extended periods. Dress in layers to accommodate changing weather conditions.

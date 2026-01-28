@@ -44,7 +44,7 @@ As visitors explore Sender Olsberg, they are not just looking at a tower; they a
 
 Sender Olsberg is characterized by its robust and functional design, typical of towers built for communication and observation purposes. While specific architectural details are not outlined, towers of this nature often feature a combination of stone and metal elements, designed to withstand the elements while providing a reliable structure for its intended use. 
 
-The tower's height and stature likely make it a prominent feature in the landscape, allowing for expansive views of the surrounding region. Its construction may reflect regional architectural styles, incorporating local materials and craftsmanship that speak to the area’s heritage. 
+The tower's height and stature likely make it a prominent feature in the landscape, allowing for expansive views of the surrounding region. Its construction may reflect regional architectural styles, incorporating local materials and craftsmanship that speak to the area's heritage. 
 
 Visitors can appreciate the design choices that characterize Sender Olsberg, from its foundational structure to any notable elements that may enhance its silhouette against the sky. The functionality of the tower as a communication point adds an additional layer of interest, inviting guests to reflect on the historical context in which it was built.
 

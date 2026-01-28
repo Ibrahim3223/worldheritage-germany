@@ -38,7 +38,7 @@ The history of Burg Bonames is rooted in the medieval period, a time characteriz
 
 Burg Bonames holds cultural importance as it contributes to our understanding of the social and political structures of the time. The site provides valuable insights into the lives of the people who inhabited the castle and the strategic significance of its location. The architecture and layout of the castle are indicative of medieval construction techniques, showcasing the craftsmanship and resources available during its period of use.
 
-As an archaeological site, Burg Bonames represents the ongoing efforts to uncover and preserve the past. Archaeological findings and studies conducted at the site contribute to our knowledge of the medieval period in Germany, offering a tangible connection to the historical narratives that define the region’s heritage. This makes Burg Bonames an essential point of interest for both scholars and the general public alike, inviting all to explore the remnants of history that continue to resonate today.
+As an archaeological site, Burg Bonames represents the ongoing efforts to uncover and preserve the past. Archaeological findings and studies conducted at the site contribute to our knowledge of the medieval period in Germany, offering a tangible connection to the historical narratives that define the region's heritage. This makes Burg Bonames an essential point of interest for both scholars and the general public alike, inviting all to explore the remnants of history that continue to resonate today.
 
 ## Architecture and Features
 

@@ -62,11 +62,11 @@ A visit to the East Side Gallery can be complemented by exploring other nearby a
 
 2. **Berlin Wall Memorial**: Just a short distance from the gallery, this memorial site provides a more comprehensive understanding of the Berlin Wall's history, featuring a preserved section of the wall, a visitor center, and informative exhibitions.
 
-3. **RAW Gelände**: A cultural hotspot, RAW Gelände is a former railway repair yard that has been transformed into a vibrant space filled with art, nightlife, and local markets. It offers a unique glimpse into Berlin’s contemporary creative scene.
+3. **RAW Gelände**: A cultural hotspot, RAW Gelände is a former railway repair yard that has been transformed into a vibrant space filled with art, nightlife, and local markets. It offers a unique glimpse into Berlin's contemporary creative scene.
 
 4. **East Side Music Hall**: This venue hosts various concerts and events, showcasing both local and international artists. Check their schedule for performances that might coincide with your visit.
 
-5. **Markthalle Neun**: A historic market hall in Kreuzberg known for its diverse food offerings and vibrant atmosphere. It’s an excellent spot to experience Berlin's culinary delights.
+5. **Markthalle Neun**: A historic market hall in Kreuzberg known for its diverse food offerings and vibrant atmosphere. It's an excellent spot to experience Berlin's culinary delights.
 
 ## Insider Tips
 

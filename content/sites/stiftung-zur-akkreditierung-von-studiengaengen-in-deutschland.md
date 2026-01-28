@@ -32,7 +32,7 @@ The significance of the Stiftung zur Akkreditierung lies in its mission to foste
 
 Moreover, the foundation plays a pivotal role in promoting international collaboration in education. By aligning German educational standards with those of other countries, it facilitates student mobility and recognition of qualifications across borders. This aspect is particularly vital in a globalized society where students often seek educational opportunities beyond their home countries.
 
-The foundation’s work is essential for maintaining the integrity and quality of German higher education. It ensures that graduates are well-prepared to enter the workforce, equipped with the knowledge and skills required in their respective fields. This commitment to quality not only enhances the educational experience for students but also strengthens Germany's position as a leading destination for higher education.
+The foundation's work is essential for maintaining the integrity and quality of German higher education. It ensures that graduates are well-prepared to enter the workforce, equipped with the knowledge and skills required in their respective fields. This commitment to quality not only enhances the educational experience for students but also strengthens Germany's position as a leading destination for higher education.
 
 ## Architecture and Features
 

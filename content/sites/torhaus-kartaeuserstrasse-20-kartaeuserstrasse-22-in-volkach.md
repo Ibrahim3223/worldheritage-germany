@@ -42,7 +42,7 @@ As a cultural heritage monument, the preservation of the Torhaus allows for a gl
 
 ## Visiting Information
 
-Visiting the Torhaus Kartäuserstraße 20 and Kartäuserstraße 22 is a rewarding experience, providing a chance to delve into the region’s architectural heritage. For those planning a visit, it is advisable to check the official website for current information regarding hours of operation and any admission fees, as these may vary.
+Visiting the Torhaus Kartäuserstraße 20 and Kartäuserstraße 22 is a rewarding experience, providing a chance to delve into the region's architectural heritage. For those planning a visit, it is advisable to check the official website for current information regarding hours of operation and any admission fees, as these may vary.
 
 Transportation options to Volkach are accessible, with nearby public transport links facilitating easy access to the site. Visitors should plan for a visit that allows ample time to explore the Torhaus and its surroundings. Typically, a visit could be comfortably completed in about an hour, though history enthusiasts may wish to linger longer.
 

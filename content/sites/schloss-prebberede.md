@@ -50,7 +50,7 @@ As you explore Schloss Prebberede, take note of the details that reveal its char
 
 Visiting Schloss Prebberede is an enjoyable experience that allows you to immerse yourself in the history and beauty of the manor house. To get there, consider your transport options, which may include driving or public transportation. The coordinates for the manor are 53.908955, 12.490239, making it relatively easy to locate.
 
-Before planning your visit, check the official website for current information on hours of operation and ticket prices. It’s advisable to allocate sufficient time to explore the manor and its surroundings. Depending on your interests, you may want to spend a few hours wandering through the estate, appreciating the architecture, and perhaps enjoying a picnic on the grounds.
+Before planning your visit, check the official website for current information on hours of operation and ticket prices. It's advisable to allocate sufficient time to explore the manor and its surroundings. Depending on your interests, you may want to spend a few hours wandering through the estate, appreciating the architecture, and perhaps enjoying a picnic on the grounds.
 
 The best times to visit are typically during the spring and summer months when the gardens are in full bloom, creating a vibrant atmosphere. However, each season offers its own unique charm, so consider visiting at different times of the year to fully experience what Schloss Prebberede has to offer.
 
@@ -69,7 +69,7 @@ When visiting Schloss Prebberede, consider bringing a camera to capture the beau
 
 ## Practical Information
 
-As you prepare for your visit to Schloss Prebberede, it’s helpful to consider what to bring. Comfortable walking shoes are recommended, as you may want to explore the grounds extensively. Depending on the season, dress in layers to accommodate changing weather conditions, particularly in the spring and fall when temperatures can fluctuate.
+As you prepare for your visit to Schloss Prebberede, it's helpful to consider what to bring. Comfortable walking shoes are recommended, as you may want to explore the grounds extensively. Depending on the season, dress in layers to accommodate changing weather conditions, particularly in the spring and fall when temperatures can fluctuate.
 
 If you're planning to spend a significant amount of time at the manor, consider bringing snacks or a picnic lunch. While specific amenities like cafes and restrooms are not detailed, checking the official website prior to your visit can provide you with the most current information on available facilities.
 

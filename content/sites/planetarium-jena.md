@@ -34,13 +34,13 @@ As you step into the world of Planetarium Jena, you can expect an engaging exper
 
 ## History and Significance
 
-Planetarium Jena carries a legacy intertwined with the city’s scientific advancements. Jena has been a hub of academic excellence since the late 19th century, particularly known for its contributions to optics and astronomy. Within this context, the planetarium stands as a symbol of the city’s enduring relationship with scientific inquiry and discovery.
+Planetarium Jena carries a legacy intertwined with the city's scientific advancements. Jena has been a hub of academic excellence since the late 19th century, particularly known for its contributions to optics and astronomy. Within this context, the planetarium stands as a symbol of the city's enduring relationship with scientific inquiry and discovery.
 
 The planetarium itself serves as a cultural touchstone, highlighting the importance of astronomy in human understanding. It engages the public with programs that delve into not only the mechanics of celestial bodies but also the philosophical implications of our place in the universe. Educational initiatives and outreach programs have been central to its mission, fostering a sense of wonder and curiosity about the cosmos among visitors.
 
 Throughout its existence, the planetarium has adapted to changes in educational technology and public interest. It embraces modern advancements in multimedia presentations, offering a more immersive experience for audiences. This adaptability underscores the planetarium's role as a vital educational institution, bridging the gap between complex scientific concepts and accessible public knowledge.
 
-The significance of Planetarium Jena is further emphasized by its integration into the broader cultural landscape of Jena. It serves as a venue for community events and educational programs, reinforcing the city’s commitment to fostering a culture of learning and exploration.
+The significance of Planetarium Jena is further emphasized by its integration into the broader cultural landscape of Jena. It serves as a venue for community events and educational programs, reinforcing the city's commitment to fostering a culture of learning and exploration.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ The best times to visit may coincide with special events or themed shows, so che
 
 While visiting Planetarium Jena, take the opportunity to explore other notable attractions in the area:
 
-1. **Optical Museum Jena**: Dive into the history of optics and its influence on science and technology. This museum showcases the city’s role in advancing optical science.
+1. **Optical Museum Jena**: Dive into the history of optics and its influence on science and technology. This museum showcases the city's role in advancing optical science.
 
 2. **Jena Botanical Garden**: A peaceful retreat, the botanical garden features a diverse range of plant species, making it an excellent spot for a leisurely stroll.
 

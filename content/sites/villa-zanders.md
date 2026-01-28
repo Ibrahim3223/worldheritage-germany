@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Villa Zanders is an intriguing art museum located in the heart of Bergisch Gladbach, Germany. Known for its elegant architecture and rich artistic offerings, the villa serves as a cultural hub for art enthusiasts and casual visitors alike. Its strategic location in the North Rhine-Westphalia region allows for easy access, making it a delightful stop for those exploring the area's vibrant cultural scene. The museum’s collection primarily focuses on modern and contemporary art, showcasing works that reflect the evolving landscape of artistic expression in Germany and beyond.
+Villa Zanders is an intriguing art museum located in the heart of Bergisch Gladbach, Germany. Known for its elegant architecture and rich artistic offerings, the villa serves as a cultural hub for art enthusiasts and casual visitors alike. Its strategic location in the North Rhine-Westphalia region allows for easy access, making it a delightful stop for those exploring the area's vibrant cultural scene. The museum's collection primarily focuses on modern and contemporary art, showcasing works that reflect the evolving landscape of artistic expression in Germany and beyond.
 
 The villa itself is not only a repository of art but also a representation of historical architectural styles, adding to its appeal as a heritage site. Visitors can expect a serene environment where art and history harmonize, providing an enriching experience that encourages reflection and appreciation. Whether you are a seasoned art aficionado or a curious traveler, Villa Zanders promises to engage and inspire.
 
@@ -60,11 +60,11 @@ Bergisch Gladbach is home to several attractions that complement a visit to Vill
 
 1. **Schloss Bensberg**: This historic castle offers beautiful architecture and scenic gardens, perfect for a leisurely stroll or a photo opportunity.
 2. **St. Laurentius Church**: A magnificent example of Gothic architecture, this church is renowned for its stunning stained glass windows and historical significance.
-3. **Bergischer Löwe**: A local landmark providing insight into the region’s history, this monument is a great spot for a brief historical detour.
+3. **Bergischer Löwe**: A local landmark providing insight into the region's history, this monument is a great spot for a brief historical detour.
 4. **Bergisches Museum für Bergbau, Handwerk und Gewerbe**: This museum delves into the industrial history of the Bergisch region, showcasing artifacts and exhibitions related to local craftsmanship.
 5. **The Mediapark**: A modern cultural hub that hosts various events and activities, offering a glimpse into the contemporary artistic landscape of the area.
 
-These attractions provide visitors with a well-rounded experience of Bergisch Gladbach’s cultural and historical offerings.
+These attractions provide visitors with a well-rounded experience of Bergisch Gladbach's cultural and historical offerings.
 
 ## Insider Tips
 

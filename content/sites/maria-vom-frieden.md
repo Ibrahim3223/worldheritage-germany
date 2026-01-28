@@ -64,7 +64,7 @@ While exploring Homburg, consider visiting several nearby attractions that compl
    
 3. **Museum Homburg**: Delve into the local history and cultural heritage of Homburg, where various exhibits showcase artifacts and stories from the region.
    
-4. **St. Michael's Church**: Another notable church in Homburg, St. Michael's offers a different architectural style and historical significance, enriching your understanding of the area’s ecclesiastical heritage.
+4. **St. Michael's Church**: Another notable church in Homburg, St. Michael's offers a different architectural style and historical significance, enriching your understanding of the area's ecclesiastical heritage.
 
 5. **Biosphäre Bliesgau**: For those interested in nature, this biosphere reserve showcases the region's biodiversity and offers trails for walking and enjoying the natural landscape.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Telemann-Museum, located in the heart of Hamburg-Mitte, serves as a dedicated homage to one of Germany's most celebrated composers, Georg Philipp Telemann. As a significant cultural institution, the museum plays a vital role in preserving and showcasing the life and works of Telemann, who was not only a key figure in the Baroque music scene but also a prolific composer whose influence extended far beyond his lifetime. Visitors to the museum can immerse themselves in the rich history of this musical giant, exploring a collection that offers insights into the evolution of classical music during the 17th and 18th centuries.
 
-Situated in a vibrant urban area, the Telemann-Museum is easily accessible and is surrounded by an array of cultural landmarks, making it an ideal stop for music enthusiasts and history buffs alike. The museum invites guests to delve into Telemann's world, revealing the intricacies of his compositions and the context in which they were created. This engaging experience promises to enlighten visitors about the composer’s impact on the music landscape of his time and beyond.
+Situated in a vibrant urban area, the Telemann-Museum is easily accessible and is surrounded by an array of cultural landmarks, making it an ideal stop for music enthusiasts and history buffs alike. The museum invites guests to delve into Telemann's world, revealing the intricacies of his compositions and the context in which they were created. This engaging experience promises to enlighten visitors about the composer's impact on the music landscape of his time and beyond.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ For those planning to visit the Telemann-Museum, here are some insider tips to e
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during off-peak hours, typically in the late morning or early afternoon on weekdays.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits or recommendations for your visit. Their insights can enrich your understanding of Telemann's work.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits or recommendations for your visit. Their insights can enrich your understanding of Telemann's work.
 
 ## Practical Information
 

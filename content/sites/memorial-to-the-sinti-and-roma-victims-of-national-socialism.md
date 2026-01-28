@@ -38,7 +38,7 @@ The memorial dedicated to the Sinti and Roma victims of National Socialism is a 
 
 The recognition of their suffering has evolved over the decades, with efforts to memorialize the victims gaining traction in the late 20th century. This memorial, inaugurated in 2012, represents a significant step in acknowledging the historical injustices faced by these marginalized communities. It underscores the importance of remembrance in combating prejudice and fostering understanding among diverse populations.
 
-Dani Karavan’s design is emblematic of the struggles and resilience of the Sinti and Roma. It serves as a reminder that their history, often overshadowed in mainstream narratives, is an integral part of the collective memory of the Holocaust. The memorial not only honors those who perished but also educates future generations about the ongoing issues of discrimination and human rights. 
+Dani Karavan's design is emblematic of the struggles and resilience of the Sinti and Roma. It serves as a reminder that their history, often overshadowed in mainstream narratives, is an integral part of the collective memory of the Holocaust. The memorial not only honors those who perished but also educates future generations about the ongoing issues of discrimination and human rights. 
 
 By fostering a deeper awareness of the Sinti and Roma plight, the memorial plays a crucial role in promoting tolerance and respect for diversity within contemporary society. As visitors engage with the memorial, they are invited to reflect on themes of identity, survival, and the importance of standing against injustice.
 

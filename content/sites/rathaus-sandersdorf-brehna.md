@@ -58,7 +58,7 @@ Visiting the Rathaus Sandersdorf-Brehna is an inviting experience for those inte
 
 As for the specifics of visiting hours and any associated costs, it is recommended to check the official website for current information to ensure that you have the most accurate details before your visit. This will also provide insights into any special events or public meetings that may be occurring during your time there.
 
-When planning your visit, it’s wise to allocate enough time to fully appreciate the city's administrative functions, as well as the surrounding area. Depending on your interests, a visit may take anywhere from a brief stop to a longer exploration of the local administration and community engagement opportunities.
+When planning your visit, it's wise to allocate enough time to fully appreciate the city's administrative functions, as well as the surrounding area. Depending on your interests, a visit may take anywhere from a brief stop to a longer exploration of the local administration and community engagement opportunities.
 
 The best times to visit may vary, so checking local events and seasonal activities could enhance your experience. Engaging with local events can provide deeper insight into the community's culture and governance.
 
@@ -84,7 +84,7 @@ To avoid larger groups, plan your visit on weekdays, as weekends may attract mor
 
 ## Practical Information
 
-When preparing for your visit to Rathaus Sandersdorf-Brehna, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and perhaps a notebook or guide to jot down your observations. Seasonal weather patterns in Germany can vary, so dress appropriately for the time of year you plan to visit.
+When preparing for your visit to Rathaus Sandersdorf-Brehna, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and perhaps a notebook or guide to jot down your observations. Seasonal weather patterns in Germany can vary, so dress appropriately for the time of year you plan to visit.
 
 Always keep in mind that local customs and etiquette can enhance your experience, so taking a moment to familiarize yourself with these aspects may be beneficial.
 
@@ -94,7 +94,7 @@ Always keep in mind that local customs and etiquette can enhance your experience
 A visit can typically take anywhere from 30 minutes to a couple of hours, depending on your interest in local governance and community activities.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check on-site for guidelines regarding photography within the building.
+Photography policies may vary, so it's best to check on-site for guidelines regarding photography within the building.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may offer deeper insights into the history and functions of the Rathaus.
@@ -109,7 +109,7 @@ Accessibility features may be available, but check the official website for spec
 Ticketing information, including online purchases, can be confirmed through the official website.
 
 ### Are there restrooms and cafes?
-While restrooms are typically available, the presence of cafes may vary, so it’s advisable to check beforehand.
+While restrooms are typically available, the presence of cafes may vary, so it's advisable to check beforehand.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area.

@@ -84,7 +84,7 @@ To enhance your experience at Rundlingsmuseum Lübeln, consider these insider ti
 
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekdays or early in the morning. This allows for a more intimate experience with the exhibits and less distraction from other guests.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They often have valuable insights and stories about the exhibits that can enrich your understanding of the museum's offerings.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They often have valuable insights and stories about the exhibits that can enrich your understanding of the museum's offerings.
 
 ## Practical Information
 

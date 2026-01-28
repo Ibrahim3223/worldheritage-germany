@@ -105,7 +105,7 @@ The university may offer guided tours or special events. Check the official webs
 The best time to visit is during the academic year, from October to July, when the campus is lively and engaging.
 
 ### Is it wheelchair accessible?
-The university is committed to accessibility, but it’s best to check specific areas for wheelchair access.
+The university is committed to accessibility, but it's best to check specific areas for wheelchair access.
 
 ### Can I buy tickets online?
 Admission policies may vary, so check the official website for information regarding ticket purchases and any associated fees.

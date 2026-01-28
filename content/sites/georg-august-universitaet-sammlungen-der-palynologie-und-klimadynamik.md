@@ -40,11 +40,11 @@ While specific architectural details about the museum are not provided, the Geor
 
 Inside the museum, the collections are organized to facilitate understanding of the subjects at hand. The arrangement of exhibits is likely designed to guide visitors through the intricate relationships between pollen, climatic changes, and environmental conditions. Interactive displays or educational panels may be a feature, allowing visitors to engage with the material actively.
 
-The museum aims to provide an immersive experience, where the visual and tactile elements of the collections invite curiosity and further inquiry. Whether through preserved specimens or educational materials, the museum’s features are crafted to enhance understanding of the significant roles that palynology and climate dynamics play in our world.
+The museum aims to provide an immersive experience, where the visual and tactile elements of the collections invite curiosity and further inquiry. Whether through preserved specimens or educational materials, the museum's features are crafted to enhance understanding of the significant roles that palynology and climate dynamics play in our world.
 
 ## Visiting Information
 
-Göttingen is well-connected by public transport, making it accessible for visitors traveling from various locations in Germany. For those arriving by train, Göttingen’s main station is a short distance from the university. Local transportation options such as buses or taxis can help you reach the museum conveniently.
+Göttingen is well-connected by public transport, making it accessible for visitors traveling from various locations in Germany. For those arriving by train, Göttingen's main station is a short distance from the university. Local transportation options such as buses or taxis can help you reach the museum conveniently.
 
 Check the official website for current information regarding hours of operation and ticket prices. It is advisable to allocate adequate time for your visit, especially if you wish to engage with the exhibits fully. A visit may typically last anywhere from an hour to several hours, depending on your level of interest and engagement with the material.
 
@@ -56,9 +56,9 @@ The best times to visit the museum are likely during weekdays when it is less cr
 
 2. **Botanical Garden of the University of Göttingen**: A short walk from the museum, this garden showcases a diverse collection of plants and serves as a living laboratory for students and researchers.
 
-3. **St. Jacob’s Church (Jakobskirche)**: This historic church is known for its beautiful architecture and impressive altarpiece. It is worth a visit for those interested in religious art and history.
+3. **St. Jacob's Church (Jakobskirche)**: This historic church is known for its beautiful architecture and impressive altarpiece. It is worth a visit for those interested in religious art and history.
 
-4. **Alte Aula**: The Old Auditorium of the university offers a glimpse into the institution’s rich academic heritage and can be admired for its classical architecture.
+4. **Alte Aula**: The Old Auditorium of the university offers a glimpse into the institution's rich academic heritage and can be admired for its classical architecture.
 
 5. **Göttingen City Museum**: This museum focuses on the local history and culture of Göttingen, providing context to the city's significance in the broader narrative of German academia.
 

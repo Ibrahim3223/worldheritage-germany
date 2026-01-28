@@ -56,7 +56,7 @@ Visitors to Neschen Coating GmbH can take advantage of the rich cultural landsca
    
 2. **Museum Bückeburg**: A local museum that highlights the town's history and cultural heritage, featuring various exhibitions and artifacts.
 
-3. **St. Martin’s Church**: A beautiful church with striking architecture, providing a peaceful spot for reflection amidst the town's bustle.
+3. **St. Martin's Church**: A beautiful church with striking architecture, providing a peaceful spot for reflection amidst the town's bustle.
 
 4. **The Bückeburg Old Town**: A charming area filled with shops, cafes, and historical buildings, perfect for leisurely strolls and shopping.
 

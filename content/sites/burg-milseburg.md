@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Milseburg, a striking castle located in the Kleinsassen region of Germany, invites visitors to explore its storied past and architectural charm. This historical edifice stands as a significant marker of the region’s heritage, offering a glimpse into the medieval era that shaped much of Europe. The castle's strategic position and imposing structure have made it an important site throughout history, reflecting the cultural and military significance of fortifications during turbulent times.
+Burg Milseburg, a striking castle located in the Kleinsassen region of Germany, invites visitors to explore its storied past and architectural charm. This historical edifice stands as a significant marker of the region's heritage, offering a glimpse into the medieval era that shaped much of Europe. The castle's strategic position and imposing structure have made it an important site throughout history, reflecting the cultural and military significance of fortifications during turbulent times.
 
 As you approach Burg Milseburg, the allure of its ancient stones and the echoes of its past create an atmosphere that sparks curiosity and admiration. The castle is not just a relic; it embodies the spirit of the time when it was built, acting as a reminder of the social and political dynamics that once thrived in the area. Visitors can expect to delve into the narrative of this remarkable castle, making it a must-see destination for history enthusiasts and casual travelers alike.
 
@@ -72,7 +72,7 @@ When visiting Burg Milseburg, consider exploring the following nearby attraction
 
 Photography enthusiasts will find ample opportunities to capture stunning images of Burg Milseburg and its surroundings. However, be mindful of any restrictions on photography inside certain areas of the castle. To avoid crowds, consider visiting during off-peak hours, such as early mornings or weekdays, when the site is likely to be less busy.
 
-Additionally, engage with any available informational signage to enhance your understanding of the castle’s history and significance. This can enrich your visit and provide context for the photographs you take.
+Additionally, engage with any available informational signage to enhance your understanding of the castle's history and significance. This can enrich your visit and provide context for the photographs you take.
 
 ## Practical Information
 

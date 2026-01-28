@@ -58,7 +58,7 @@ Visitors to Brodauer Mühle may also wish to explore the following nearby attrac
 
 3. **Nature Reserves**: The surrounding area is dotted with nature reserves that offer hiking trails and wildlife observation, enhancing the outdoor experience.
 
-4. **Historic Churches**: Local churches in the vicinity showcase beautiful architecture and serve as landmarks of the region’s history.
+4. **Historic Churches**: Local churches in the vicinity showcase beautiful architecture and serve as landmarks of the region's history.
 
 5. **Farmers' Markets**: Experience local produce and handmade goods by visiting one of the nearby farmers' markets, which often feature regional specialties.
 
@@ -102,7 +102,7 @@ Information regarding ticket purchasing options can be found on the official web
 
 ### Are there restrooms and cafes?
 
-Facilities may be limited, so it’s advisable to check the website for specifics regarding amenities available at the site.
+Facilities may be limited, so it's advisable to check the website for specifics regarding amenities available at the site.
 
 ### What should I wear?
 

@@ -40,7 +40,7 @@ As you delve into the history of Tremsbüttel Castle, consider how it has evolve
 
 ## Architecture and Features
 
-The architectural features of Tremsbüttel Castle reflect the stylistic choices typical of manor houses. The château's design showcases a blend of elegance and functionality, embodying the characteristics of its era. While specific architectural details may vary, the castle’s overall structure is likely marked by a combination of ornate elements and practical design.
+The architectural features of Tremsbüttel Castle reflect the stylistic choices typical of manor houses. The château's design showcases a blend of elegance and functionality, embodying the characteristics of its era. While specific architectural details may vary, the castle's overall structure is likely marked by a combination of ornate elements and practical design.
 
 Visitors can expect to see classic features commonly associated with manorial architecture, such as grand entrances, expansive windows, and well-defined façades. The layout of the castle, both inside and out, would typically cater to the social and administrative functions of a manor house, providing spaces for both living and governance.
 

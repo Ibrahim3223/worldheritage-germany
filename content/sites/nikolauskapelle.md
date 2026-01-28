@@ -34,7 +34,7 @@ Visitors to Nikolauskapelle can expect to engage with a space that embodies the 
 
 The history of Nikolauskapelle is intertwined with the cultural and religious evolution of the Westhoven region. While specific dates and events surrounding its founding remain elusive, the chapel is recognized for its significance as a place of worship and community gathering. This site has served as a spiritual anchor for generations, reflecting the enduring nature of faith in the lives of its parishioners.
 
-As part of the Cologne district, Nikolauskapelle is emblematic of the region's transition through various historical periods, including medieval times when churches often represented the heart of community life. The chapel’s presence in Westhoven indicates the importance of religious practice in the daily lives of its inhabitants, contributing to the overall sense of community and continuity in the area. 
+As part of the Cologne district, Nikolauskapelle is emblematic of the region's transition through various historical periods, including medieval times when churches often represented the heart of community life. The chapel's presence in Westhoven indicates the importance of religious practice in the daily lives of its inhabitants, contributing to the overall sense of community and continuity in the area. 
 
 The chapel has likely witnessed numerous changes in its surroundings, adapting to the evolving needs of the community while maintaining its core purpose. This ability to endure through time underscores the significance of Nikolauskapelle, not only as a physical structure but also as a vital part of the local cultural identity.
 
@@ -68,7 +68,7 @@ While visiting Nikolauskapelle, there are several nearby attractions that comple
 
 4. **Rheinpark**: A sprawling park along the Rhine River, perfect for leisurely strolls, picnics, or simply enjoying nature's beauty amidst urban surroundings.
 
-5. **Cologne’s Old Town (Altstadt)**: A vibrant area filled with historical buildings, shops, and restaurants, providing a taste of local culture and cuisine.
+5. **Cologne's Old Town (Altstadt)**: A vibrant area filled with historical buildings, shops, and restaurants, providing a taste of local culture and cuisine.
 
 ## Insider Tips
 

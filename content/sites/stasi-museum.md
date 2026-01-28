@@ -42,7 +42,7 @@ In the years since its opening, the Stasi Museum has become a vital resource for
 
 ## Architecture and Features
 
-The Stasi Museum is located within the former headquarters of the Stasi, a building that reflects the austere architectural style of the GDR. The structure itself is unremarkable, designed for function rather than aesthetic appeal, which aligns with the organization’s secretive nature. As you enter, the building's utilitarian decor sets the tone for the exhibits inside, emphasizing the seriousness of the subject matter.
+The Stasi Museum is located within the former headquarters of the Stasi, a building that reflects the austere architectural style of the GDR. The structure itself is unremarkable, designed for function rather than aesthetic appeal, which aligns with the organization's secretive nature. As you enter, the building's utilitarian decor sets the tone for the exhibits inside, emphasizing the seriousness of the subject matter.
 
 Inside the museum, visitors will find a variety of displays that showcase original documents, photographs, and artifacts from the Stasi's operations. Notable features include life-sized replicas of surveillance equipment used by the Stasi, such as hidden cameras and listening devices, which illustrate the lengths to which the organization would go to monitor its citizens. The museum also contains personal stories of individuals who were affected by the Stasi's actions, providing a human dimension to the historical narrative.
 
@@ -64,7 +64,7 @@ The museum's layout is designed to facilitate a self-guided exploration, with si
 
 3. **Checkpoint Charlie**: Once the main crossing point between East and West Berlin, this site is now a popular tourist attraction featuring exhibits on the Cold War and the division of Germany.
 
-4. **Museum at the Kulturbrauerei**: Housed in a former brewery, this cultural complex includes several museums and spaces for exhibitions, showcasing Berlin’s vibrant cultural scene.
+4. **Museum at the Kulturbrauerei**: Housed in a former brewery, this cultural complex includes several museums and spaces for exhibitions, showcasing Berlin's vibrant cultural scene.
 
 5. **East Side Gallery**: A preserved section of the Berlin Wall that has been transformed into an outdoor gallery featuring murals by international artists, providing a colorful contrast to the themes of oppression explored at the Stasi Museum.
 

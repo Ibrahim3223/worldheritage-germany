@@ -80,7 +80,7 @@ Seasonal considerations may also play a role in your visit. If you are traveling
 Most visitors spend between one to two hours exploring the museum, allowing ample time to appreciate the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the guidelines upon arrival. Certain areas may permit photography, while others may not.
+Photography policies may vary, so it's best to check the guidelines upon arrival. Certain areas may permit photography, while others may not.
 
 ### Are there guided tours?
 While specific tour information is not provided, check the official website for any available guided tour options that may enhance your experience.
@@ -95,7 +95,7 @@ Accessibility information is not specified, so checking the official website for
 For updated ticket purchasing options, including online availability, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available, but it’s advisable to confirm details on the official website.
+Facilities such as restrooms and cafes are typically available, but it's advisable to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably, keeping in mind that you may be walking or standing for extended periods. Consider the season when planning your attire. 

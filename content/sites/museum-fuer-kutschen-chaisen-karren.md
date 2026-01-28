@@ -78,7 +78,7 @@ To avoid larger crowds, consider visiting during off-peak hours, such as mid-mor
 
 When planning your visit, be sure to bring a camera to document your experience, but check for any photography guidelines first. Comfortable walking shoes are recommended, as the museum may require a fair amount of walking to explore the various exhibits thoroughly.
 
-Seasonal considerations can also play a role in your visit. The museum may have different operating hours or special exhibitions during holidays or local events, so it’s best to check the official website for the most current information.
+Seasonal considerations can also play a role in your visit. The museum may have different operating hours or special exhibitions during holidays or local events, so it's best to check the official website for the most current information.
 
 ## Frequently Asked Questions
 

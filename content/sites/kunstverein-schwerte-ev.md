@@ -46,7 +46,7 @@ In addition to exhibition areas, Kunstverein Schwerte e.V. may offer spaces for 
 
 Planning a visit to Kunstverein Schwerte e.V. will enhance your experience at this cultural institution. The museum is accessible by various modes of transportation, making it easy for visitors to reach from different parts of the region. For current information regarding opening hours, admission prices, and special events, it is advisable to check the official website before your visit.
 
-Expect to spend several hours exploring the museum’s exhibitions and participating in any special events or programs that may be happening during your visit. The museum often features rotating exhibitions, so there is always something new to discover.
+Expect to spend several hours exploring the museum's exhibitions and participating in any special events or programs that may be happening during your visit. The museum often features rotating exhibitions, so there is always something new to discover.
 
 The best times to visit may vary, but weekdays tend to be less crowded than weekends, allowing for a more intimate experience with the art on display. Additionally, checking the museum's calendar for special events or artist talks can enhance your visit.
 
@@ -68,7 +68,7 @@ While exploring the cultural offerings of Schwerte, consider visiting these near
 
 To enhance your visit to Kunstverein Schwerte e.V., consider the following insider tips:
 
-- **Photography**: If you plan to take photographs, check the museum’s policy on photography, as some exhibitions may have restrictions.
+- **Photography**: If you plan to take photographs, check the museum's policy on photography, as some exhibitions may have restrictions.
 
 - **Timing**: To avoid crowds, consider visiting during weekdays or at the beginning of the month when exhibitions are newly opened.
 

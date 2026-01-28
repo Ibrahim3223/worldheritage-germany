@@ -66,7 +66,7 @@ After your visit to the Institute for the History of the German Jews, consider e
 
 4. **The Elbphilharmonie**: A modern concert hall that has become a symbol of Hamburg, renowned for its striking architecture and exceptional acoustics.
 
-5. **Miniatur Wunderland**: The world’s largest model railway exhibition, showcasing intricate miniature landscapes and scenes that attract visitors of all ages.
+5. **Miniatur Wunderland**: The world's largest model railway exhibition, showcasing intricate miniature landscapes and scenes that attract visitors of all ages.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Institute for the History of the German Je
 
 - **Crowd Avoidance**: To enhance your experience, consider visiting during weekdays or early in the morning when the institute is likely to be less crowded. This will allow for a more intimate interaction with the exhibits and resources.
 
-- **Engage with Staff**: The staff members are knowledgeable and can provide valuable insights into the exhibitions. Don’t hesitate to ask questions or seek recommendations for further reading.
+- **Engage with Staff**: The staff members are knowledgeable and can provide valuable insights into the exhibitions. Don't hesitate to ask questions or seek recommendations for further reading.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Institute for the History of the German Jew
 
 - **Seasonal Considerations**: Hamburg experiences a range of weather conditions throughout the year. Dress in layers to accommodate changes in temperature, and check the forecast before your visit.
 
-- **Accessibility**: The institute may have facilities designed to accommodate visitors with mobility challenges, but it’s always a good idea to confirm accessibility options before your visit.
+- **Accessibility**: The institute may have facilities designed to accommodate visitors with mobility challenges, but it's always a good idea to confirm accessibility options before your visit.
 
 ## Frequently Asked Questions
 
@@ -97,7 +97,7 @@ Most visitors find that spending 2-3 hours allows ample time to explore the exhi
 Photography policies may vary. It's best to check upon arrival or refer to the institute's guidelines.
 
 ### Are there guided tours?
-Guided tours might be available, but it’s advisable to check the official website for current offerings and scheduling.
+Guided tours might be available, but it's advisable to check the official website for current offerings and scheduling.
 
 ### What's the best time to visit?
 Weekdays or early mornings generally offer a quieter experience, allowing for a more personal engagement with the exhibits.

@@ -74,11 +74,11 @@ While Elstermühle Plessa is a highlight in its own right, several nearby attrac
 
 To make the most of your visit to Elstermühle Plessa, consider the following tips:
 
-- **Photography**: While many museums allow photography, it’s advisable to check for any restrictions upon arrival. Capturing the unique exhibits can enhance your experience.
+- **Photography**: While many museums allow photography, it's advisable to check for any restrictions upon arrival. Capturing the unique exhibits can enhance your experience.
   
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider arriving early in the day or during weekdays when the museum tends to be less crowded.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They often have valuable insights and stories that can deepen your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They often have valuable insights and stories that can deepen your understanding of the exhibits.
 
 ## Practical Information
 
@@ -96,7 +96,7 @@ When preparing for your visit to Elstermühle Plessa, keep these practical consi
 A visit typically lasts 1-2 hours, allowing time to explore the exhibits fully.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check upon arrival for any restrictions.
+Photography policies may vary; it's best to check upon arrival for any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, especially during special events. Check the official website for details.

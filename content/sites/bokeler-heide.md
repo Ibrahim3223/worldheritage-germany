@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Bokeler Heide is a distinguished nature reserve located in Sprakensehl, Lower Saxony, Germany. Known as a Naturschutzgebiet, this protected area serves as a vital sanctuary for various flora and fauna, playing a crucial role in conserving the region’s natural heritage. The reserve is characterized by its diverse ecosystems, which include heathlands, wetlands, and woodlands, making it a significant ecological site.
+Bokeler Heide is a distinguished nature reserve located in Sprakensehl, Lower Saxony, Germany. Known as a Naturschutzgebiet, this protected area serves as a vital sanctuary for various flora and fauna, playing a crucial role in conserving the region's natural heritage. The reserve is characterized by its diverse ecosystems, which include heathlands, wetlands, and woodlands, making it a significant ecological site.
 
 Visitors to Bokeler Heide can expect a harmonious blend of tranquility and natural beauty, where the sounds of birds and the rustle of leaves create a serene backdrop for exploration. The area is not only a refuge for wildlife but also an important space for education and recreation, attracting nature enthusiasts, families, and those seeking a peaceful retreat from urban life. The rich biodiversity found within this reserve underscores its importance as an ecological gem in Lower Saxony.
 

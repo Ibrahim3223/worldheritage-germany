@@ -108,7 +108,7 @@ To avoid crowds, consider visiting during weekdays or early in the day, especial
 Accessibility information is essential for ensuring a comfortable visit. Check the official website for details regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
-For convenience, check the museum’s official website for options on purchasing tickets online and any potential discounts available.
+For convenience, check the museum's official website for options on purchasing tickets online and any potential discounts available.
 
 ### Are there restrooms and cafes?
 Confirm the availability of restrooms and dining options on the museum's website to ensure a comfortable visit.

@@ -78,7 +78,7 @@ To make the most of your visit to the Museum der Strohverarbeitung, consider the
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or earlier in the day. This will enhance your experience and allow for a more intimate exploration of the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their insights can provide deeper understanding and context to the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their insights can provide deeper understanding and context to the exhibits.
 
 ## Practical Information
 

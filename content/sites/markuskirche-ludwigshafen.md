@@ -103,7 +103,7 @@ Accessibility information is not detailed. It's best to inquire directly with ch
 Details regarding ticket purchases are not provided. Please check the official website for information about entry fees and purchasing options.
 
 ### Are there restrooms and cafes?
-Specific amenities are not mentioned. It’s advisable to check local facilities or nearby attractions for restrooms and dining options.
+Specific amenities are not mentioned. It's advisable to check local facilities or nearby attractions for restrooms and dining options.
 
 ### What should I wear?
 While there are no specific dress codes outlined, modest attire is typically appreciated in places of worship. Comfortable shoes are also recommended for exploring the area.

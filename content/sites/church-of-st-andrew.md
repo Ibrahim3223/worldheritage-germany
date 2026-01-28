@@ -32,7 +32,7 @@ With its central location, the church is easily accessible to both local residen
 
 ## History and Significance
 
-The Church of St. Andrew is an important landmark in Düsseldorf, reflecting the city’s evolution over the centuries. While specific dates of its construction and renovation are not available, it is known that the church has played a significant role in the spiritual life of the community. As a place of worship, it has seen countless congregants and visitors, serving as a focal point for various religious activities and celebrations.
+The Church of St. Andrew is an important landmark in Düsseldorf, reflecting the city's evolution over the centuries. While specific dates of its construction and renovation are not available, it is known that the church has played a significant role in the spiritual life of the community. As a place of worship, it has seen countless congregants and visitors, serving as a focal point for various religious activities and celebrations.
 
 Throughout its history, the Church of St. Andrew has been a gathering place for the faithful, contributing to the social and cultural dimensions of life in Düsseldorf. Churches like St. Andrew have historically acted as community hubs, providing not just spiritual guidance but also a sense of belonging and continuity in rapidly changing urban environments. 
 
@@ -74,9 +74,9 @@ The Church of St. Andrew is conveniently situated near several other attractions
 
 When visiting the Church of St. Andrew, consider these insider tips to enhance your experience:
 
-- **Photography**: Take advantage of the natural light filtering through the church’s windows for beautiful photographs. Early morning or late afternoon is often ideal for capturing the interior.
+- **Photography**: Take advantage of the natural light filtering through the church's windows for beautiful photographs. Early morning or late afternoon is often ideal for capturing the interior.
 
-- **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekday mornings. This timing allows for a more tranquil experience where you can appreciate the church’s atmosphere without distraction.
+- **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekday mornings. This timing allows for a more tranquil experience where you can appreciate the church's atmosphere without distraction.
 
 ## Practical Information
 

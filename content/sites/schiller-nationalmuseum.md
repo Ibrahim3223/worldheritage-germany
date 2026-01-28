@@ -80,7 +80,7 @@ Engaging with museum staff or volunteers can also enhance your visit. They often
 
 ## Practical Information
 
-When planning your visit to the Schiller-Nationalmuseum, it’s advisable to bring comfortable walking shoes and a light jacket, as indoor climates can vary. Additionally, if you plan to explore the nearby attractions, consider bringing a small backpack for any essentials like water or snacks.
+When planning your visit to the Schiller-Nationalmuseum, it's advisable to bring comfortable walking shoes and a light jacket, as indoor climates can vary. Additionally, if you plan to explore the nearby attractions, consider bringing a small backpack for any essentials like water or snacks.
 
 Seasonal considerations may affect your visit; for example, summer months might see increased tourist traffic, while winter could offer a quieter experience. Always check the official website for the most up-to-date information regarding any seasonal activities or exhibitions.
 

@@ -34,7 +34,7 @@ The significance of this site extends beyond its aesthetic appeal. It serves as 
 
 ## History and Significance
 
-The Town Hall of Bremen, located prominently in the Marketplace, stands as a symbol of the city’s autonomy and economic power during the Middle Ages. Constructed during a time when Bremen was a leading member of the Hanseatic League, the building reflects the architectural and cultural influences of the era. The Town Hall has been a site for significant civic activities, including the hosting of important political deliberations and celebrations that marked the city's growth and independence.
+The Town Hall of Bremen, located prominently in the Marketplace, stands as a symbol of the city's autonomy and economic power during the Middle Ages. Constructed during a time when Bremen was a leading member of the Hanseatic League, the building reflects the architectural and cultural influences of the era. The Town Hall has been a site for significant civic activities, including the hosting of important political deliberations and celebrations that marked the city's growth and independence.
 
 The statue of Roland, erected in front of the Town Hall, is equally significant. It represents the ideals of justice and freedom, serving as a reminder of Bremen's commitment to self-governance. The statue dates back to the 15th century and is a powerful emblem of the city's identity. Together, the Town Hall and Roland encapsulate the spirit of Bremen, showcasing its historical importance as a center of trade, culture, and autonomy.
 
@@ -46,7 +46,7 @@ The architectural style of the Town Hall is a blend of Gothic and Renaissance el
 
 One of the most notable features of the Town Hall is its impressive hall, which has served as a venue for countless important gatherings and ceremonies throughout the years. The wooden ceilings, detailed with ornamental carvings, and the impressive array of tapestries create a sense of grandeur that speaks to the building's historical significance.
 
-In contrast, the statue of Roland stands at an impressive height and is crafted from stone, showcasing the artistry of the period. Roland’s raised sword symbolizes protection and vigilance, while his expression conveys strength and determination. This striking figure serves as a powerful icon, not just for Bremen, but for the ideals of freedom and justice that resonate universally.
+In contrast, the statue of Roland stands at an impressive height and is crafted from stone, showcasing the artistry of the period. Roland's raised sword symbolizes protection and vigilance, while his expression conveys strength and determination. This striking figure serves as a powerful icon, not just for Bremen, but for the ideals of freedom and justice that resonate universally.
 
 ## Visiting Information
 

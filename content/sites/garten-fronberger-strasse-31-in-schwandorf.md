@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-Garten Fronberger Straße 31, located in the quaint town of Schwandorf, Bavaria, is a remarkable representation of a cultural heritage monument, classified under the designation D-3-76-161-38. This garden serves not only as a vibrant space for relaxation and reflection but also as a significant part of the region’s cultural landscape. Schwandorf, known for its historical significance and scenic beauty, makes the garden an essential stop for heritage enthusiasts and casual visitors alike. 
+Garten Fronberger Straße 31, located in the quaint town of Schwandorf, Bavaria, is a remarkable representation of a cultural heritage monument, classified under the designation D-3-76-161-38. This garden serves not only as a vibrant space for relaxation and reflection but also as a significant part of the region's cultural landscape. Schwandorf, known for its historical significance and scenic beauty, makes the garden an essential stop for heritage enthusiasts and casual visitors alike. 
 
-The garden’s location, nestled within the urban fabric of Schwandorf, allows visitors to immerse themselves in both nature and the local culture. As you stroll through its pathways, you can appreciate the thoughtful design and the role such gardens play in community life. This guide aims to provide an in-depth look at the garden's history, architecture, visiting details, and more, ensuring you make the most of your visit.
+The garden's location, nestled within the urban fabric of Schwandorf, allows visitors to immerse themselves in both nature and the local culture. As you stroll through its pathways, you can appreciate the thoughtful design and the role such gardens play in community life. This guide aims to provide an in-depth look at the garden's history, architecture, visiting details, and more, ensuring you make the most of your visit.
 
 ## History and Significance
 
@@ -52,7 +52,7 @@ The best times to visit the garden are during the spring and summer months when 
 
 When visiting Garten Fronberger Straße 31, consider exploring these nearby attractions to enrich your experience in Schwandorf:
 
-1. **Schwandorf Town Center**: A charming area featuring local shops, cafes, and historical buildings that reflect the town’s character.
+1. **Schwandorf Town Center**: A charming area featuring local shops, cafes, and historical buildings that reflect the town's character.
    
 2. **St. Jakob Church**: A beautiful church known for its stunning architecture and historical significance, making it an important landmark in Schwandorf.
 

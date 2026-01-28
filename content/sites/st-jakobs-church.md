@@ -64,11 +64,11 @@ Close to St. Jakob's Church, visitors can explore several notable attractions th
 
 1. **Marienplatz**: The central square of Munich, known for its stunning architecture and the famous Glockenspiel, is just a short walk away from the church. It serves as a vibrant gathering spot and hosts various events throughout the year.
 
-2. **The Viktualienmarkt**: This bustling market, located nearby, offers a wide array of fresh produce, local delicacies, and artisan goods. It’s an ideal spot for those looking to sample the culinary offerings of Munich.
+2. **The Viktualienmarkt**: This bustling market, located nearby, offers a wide array of fresh produce, local delicacies, and artisan goods. It's an ideal spot for those looking to sample the culinary offerings of Munich.
 
 3. **The Munich Residenz**: A short distance from the church, this former royal palace showcases the grandeur of Bavarian royalty. Visitors can explore its opulent rooms and expansive gardens.
 
-4. **Frauenkirche (Cathedral of Our Dear Lady)**: Another prominent church in Munich, known for its iconic twin towers, is located within walking distance. It’s a key feature of the city’s skyline and offers its own unique history and architecture.
+4. **Frauenkirche (Cathedral of Our Dear Lady)**: Another prominent church in Munich, known for its iconic twin towers, is located within walking distance. It's a key feature of the city's skyline and offers its own unique history and architecture.
 
 5. **The Isar River**: For those looking to relax, the Isar River provides a scenic backdrop for leisurely walks or picnics, just a short stroll from the church.
 
@@ -100,7 +100,7 @@ Visitors typically spend about an hour at St. Jakob's Church to fully appreciate
 
 ### Is photography allowed?
 
-Photography is generally permitted, but it’s important to be respectful of worshippers and the sacred environment.
+Photography is generally permitted, but it's important to be respectful of worshippers and the sacred environment.
 
 ### Are there guided tours?
 

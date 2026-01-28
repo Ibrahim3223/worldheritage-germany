@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekday mornings or later in the after
 
 ## Practical Information
 
-When preparing for a visit to the Baumberger Sandsteinmuseum, it’s advisable to bring a camera, comfortable walking shoes, and a water bottle. Depending on the season, visitors may also want to check the weather forecast and dress accordingly.
+When preparing for a visit to the Baumberger Sandsteinmuseum, it's advisable to bring a camera, comfortable walking shoes, and a water bottle. Depending on the season, visitors may also want to check the weather forecast and dress accordingly.
 
 In terms of seasonal considerations, spring and autumn are particularly pleasant times to explore the museum and the surrounding area, as temperatures are moderate and the natural scenery is vibrant. 
 

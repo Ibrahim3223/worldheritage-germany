@@ -56,7 +56,7 @@ Visiting Freiligrathstraße 8 is an enriching experience for anyone interested i
 
 Transport options to Oybin can vary, but the town is generally accessible by road and public transport. For those traveling by car, nearby parking facilities may be available. If relying on public transport, check local schedules for bus or train services that connect to Oybin. 
 
-Upon arrival, visitors can expect a welcoming atmosphere where they may have the opportunity to learn about the local government’s functions and initiatives. Depending on the day and time, visitors might witness community meetings or administrative activities in progress. It is beneficial to allocate some time to explore the surrounding area, which may offer additional insights into the town’s character.
+Upon arrival, visitors can expect a welcoming atmosphere where they may have the opportunity to learn about the local government's functions and initiatives. Depending on the day and time, visitors might witness community meetings or administrative activities in progress. It is beneficial to allocate some time to explore the surrounding area, which may offer additional insights into the town's character.
 
 The best times to visit would typically coincide with local events or community gatherings, which can enhance the experience by providing a glimpse into the vibrant social life of Oybin. Always check the official website for the latest updates on events and any special visiting opportunities.
 
@@ -103,7 +103,7 @@ Visiting during a local event or on a weekday may provide a more engaging experi
 Check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
-Ticketing information may vary. It’s advisable to check the official website for details on entry and any associated fees.
+Ticketing information may vary. It's advisable to check the official website for details on entry and any associated fees.
 
 ### Are there restrooms and cafes?
 Facilities may be limited within the town hall, so explore the surrounding area for restrooms and cafes.

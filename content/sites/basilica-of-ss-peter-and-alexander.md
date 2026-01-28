@@ -85,7 +85,7 @@ When planning your visit to the Basilica, consider bringing a few essentials:
 A visit typically takes around one hour, but you may want to spend more time if you are particularly interested in its architecture or history.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signage or ask staff regarding permissions, especially during services.
+Photography policies can vary, so it's best to check for any signage or ask staff regarding permissions, especially during services.
 
 ### Are there guided tours?
 Check with the Basilica's official website for information on guided tours, as they may be offered at certain times or for special events.
@@ -100,7 +100,7 @@ Accessibility features may vary; it is advisable to check the official website f
 For the most accurate information regarding ticket purchases, check the official website prior to your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s wise to confirm this on the official website or inquire upon arrival.
+Facilities may be available nearby, but it's wise to confirm this on the official website or inquire upon arrival.
 
 ### What should I wear?
 Dress modestly as a sign of respect, keeping in mind that the Basilica is a place of worship. Comfortable clothing and shoes are recommended for exploring the area.

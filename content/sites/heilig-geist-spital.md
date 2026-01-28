@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Berlin, the Heilig-Geist-Spital serves as a profound reminder of the city's medieval roots and its evolution through the centuries. Once a hospital, this church building offers insights into the historical fabric of Berlin, where medicine and spirituality intertwined. Located in Bezirk Mitte, the site is not just a relic of the past but a testament to the city's ability to preserve its heritage amid modernity. Visitors can explore its architecture and reflect on its significance, engaging with a piece of Berlin that has witnessed the city’s transformation over the years.
+In the heart of Berlin, the Heilig-Geist-Spital serves as a profound reminder of the city's medieval roots and its evolution through the centuries. Once a hospital, this church building offers insights into the historical fabric of Berlin, where medicine and spirituality intertwined. Located in Bezirk Mitte, the site is not just a relic of the past but a testament to the city's ability to preserve its heritage amid modernity. Visitors can explore its architecture and reflect on its significance, engaging with a piece of Berlin that has witnessed the city's transformation over the years.
 
 As you plan your visit to this notable site, you will discover not only its architectural beauty but also its role in the community throughout history. The Heilig-Geist-Spital invites curious minds to appreciate its serene atmosphere and the stories embedded within its walls. This guide will provide crucial information to enhance your experience, from its historical significance to practical visiting tips.
 
@@ -50,7 +50,7 @@ As you explore the Heilig-Geist-Spital, take note of the intricate details that 
 
 ## Visiting Information
 
-To visit the Heilig-Geist-Spital, travelers can easily access the site via public transport, which connects various parts of Berlin. Precise transport options may vary, so it’s advisable to check local transit schedules for the most efficient route to Bezirk Mitte.
+To visit the Heilig-Geist-Spital, travelers can easily access the site via public transport, which connects various parts of Berlin. Precise transport options may vary, so it's advisable to check local transit schedules for the most efficient route to Bezirk Mitte.
 
 While exploring, visitors can expect a tranquil atmosphere that encourages contemplation and appreciation of the site's history. It is recommended to allocate sufficient time for your visit, allowing for a leisurely exploration of the building and its surroundings. 
 
@@ -68,13 +68,13 @@ While visiting the Heilig-Geist-Spital, consider exploring other attractions in 
 
 3. **Friedrichstraße**: Known for its vibrant shopping and dining scene, Friedrichstraße provides a modern contrast to the historical elements of the Heilig-Geist-Spital.
 
-4. **Nikolaiviertel**: This charming neighborhood is the oldest part of Berlin, featuring narrow cobblestone streets and quaint buildings that reflect the city’s medieval architecture.
+4. **Nikolaiviertel**: This charming neighborhood is the oldest part of Berlin, featuring narrow cobblestone streets and quaint buildings that reflect the city's medieval architecture.
 
 5. **Brandenburg Gate**: An iconic symbol of Berlin, this neoclassical monument is accessible from the Heilig-Geist-Spital and represents the reunification of Germany.
 
 ## Insider Tips
 
-For photography enthusiasts, the Heilig-Geist-Spital offers unique opportunities to capture its architectural beauty. Early mornings or late afternoons provide the best natural lighting for both exterior and interior shots. Be mindful of the site’s atmosphere, as it is a place of respect and reflection. 
+For photography enthusiasts, the Heilig-Geist-Spital offers unique opportunities to capture its architectural beauty. Early mornings or late afternoons provide the best natural lighting for both exterior and interior shots. Be mindful of the site's atmosphere, as it is a place of respect and reflection. 
 
 To avoid crowds, consider visiting during weekdays, preferably in the morning. This will not only provide a more serene experience but also allow you to engage more deeply with the historical significance of the site without the distraction of larger groups.
 
@@ -110,4 +110,4 @@ Details regarding amenities such as restrooms and cafes may vary; it is advisabl
 ### What should I wear?
 Dress comfortably, and consider layering your clothing based on the weather conditions during your visit.
 
-Visiting the Heilig-Geist-Spital offers a unique window into Berlin’s medieval past, inviting all to reflect on the intersection of health, faith, and community. Whether you are a history enthusiast or simply curious, this site promises an enriching experience that deepens your understanding of the city.
+Visiting the Heilig-Geist-Spital offers a unique window into Berlin's medieval past, inviting all to reflect on the intersection of health, faith, and community. Whether you are a history enthusiast or simply curious, this site promises an enriching experience that deepens your understanding of the city.

@@ -34,7 +34,7 @@ Strategically located at coordinates 49.4801, 8.44853, St. Ludwig is easily acce
 
 The history of St. Ludwig is intertwined with the development of Ludwigshafen itself. As the city grew, so did the need for places of worship that could accommodate its expanding population. While specific historical dates are not detailed, the church's role in the community has been significant since its inception. It has served as a spiritual anchor for generations, witnessing the changes and growth of Ludwigshafen through various socio-economic phases.
 
-The church is not only an architectural structure but also a symbol of the community's resilience and faith. It has hosted numerous events, celebrations, and services that reflect the local culture and traditions. St. Ludwig’s significance extends beyond its walls, as it has become a gathering place for residents and visitors alike, fostering a sense of belonging and unity.
+The church is not only an architectural structure but also a symbol of the community's resilience and faith. It has hosted numerous events, celebrations, and services that reflect the local culture and traditions. St. Ludwig's significance extends beyond its walls, as it has become a gathering place for residents and visitors alike, fostering a sense of belonging and unity.
 
 Throughout its existence, St. Ludwig has likely adapted to meet the needs of its congregation, reflecting broader societal changes. The church's architectural style and design elements may also narrate a story of influence from various artistic movements, contributing to its cultural importance within Ludwigshafen and beyond.
 
@@ -99,7 +99,7 @@ Check the official website for information on accessibility and facilities avail
 For admission details, including the possibility of online ticket purchases, visit the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available on site, but it’s advisable to check ahead for specific amenities.
+Facilities may be available on site, but it's advisable to check ahead for specific amenities.
 
 ### What should I wear?
 Modest attire is recommended, especially if visiting during services or special events. Comfortable clothing is advised for a more relaxed experience. 

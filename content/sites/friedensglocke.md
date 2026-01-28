@@ -28,7 +28,7 @@ image_srcset:
 
 The Friedensglocke, or Peace Bell, stands as a significant monument in Dessau-Roßlau, a city in the Saxony-Anhalt region of Germany. This evocative structure not only serves as a symbol of peace but also invites contemplation on the themes of reconciliation and harmony in a world often fraught with conflict. Located at the coordinates 51.8346, 12.2463, the Friedensglocke is more than just a physical bell; it is an emblematic representation of the aspirations for a peaceful future, making it a compelling destination for travelers interested in cultural heritage and history.
 
-As visitors approach the monument, they are greeted by a sense of solemnity and reflection. The ambiance of the surrounding area enhances the experience, providing a tranquil setting that encourages contemplation. The Friedensglocke's significance extends beyond its immediate vicinity, as it resonates with the broader narrative of peace and unity that is vital in today’s society. Whether you are an avid historian, a peace activist, or a curious traveler, the Friedensglocke promises an enriching experience that speaks to the heart of human aspiration.
+As visitors approach the monument, they are greeted by a sense of solemnity and reflection. The ambiance of the surrounding area enhances the experience, providing a tranquil setting that encourages contemplation. The Friedensglocke's significance extends beyond its immediate vicinity, as it resonates with the broader narrative of peace and unity that is vital in today's society. Whether you are an avid historian, a peace activist, or a curious traveler, the Friedensglocke promises an enriching experience that speaks to the heart of human aspiration.
 
 ## History and Significance
 

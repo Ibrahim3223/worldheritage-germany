@@ -59,14 +59,14 @@ Expect to spend a few hours exploring Averdunkshof, allowing ample time to absor
 While Averdunkshof is a destination in itself, several nearby attractions can enhance your visit to the region. Consider exploring:
 
 1. **Neukirchen-Vluyn Town Center**: A vibrant area filled with shops, cafes, and local markets that reflect the community's culture and life.
-2. **Dinslaken Castle**: A short drive away, this historic castle offers insights into the area’s feudal past and picturesque grounds.
+2. **Dinslaken Castle**: A short drive away, this historic castle offers insights into the area's feudal past and picturesque grounds.
 3. **LVR-Industriemuseum**: Situated not far from Averdunkshof, this museum highlights the industrial heritage of the region, providing context to the evolution of local architecture and society.
 4. **Reeser Meer**: An expansive lake nearby, perfect for leisurely walks or picnics, allowing visitors to enjoy the natural beauty of the area.
 5. **Wesel's Historic Old Town**: A short journey will take you to the charming streets of Wesel, where you can enjoy historical architecture and local dining options.
 
 ## Insider Tips
 
-For those looking to capture the beauty of Averdunkshof through photography, early morning or late afternoon provides the best lighting conditions. Additionally, consider visiting during weekdays to avoid larger crowds that can detract from the experience. Engaging with local guides or informational plaques can enrich your understanding of the site, so don’t hesitate to take your time exploring.
+For those looking to capture the beauty of Averdunkshof through photography, early morning or late afternoon provides the best lighting conditions. Additionally, consider visiting during weekdays to avoid larger crowds that can detract from the experience. Engaging with local guides or informational plaques can enrich your understanding of the site, so don't hesitate to take your time exploring.
 
 ## Practical Information
 

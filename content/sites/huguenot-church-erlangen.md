@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Erlangen, Germany, the Huguenot Church serves as a profound symbol of cultural resilience and religious heritage. This church, located in the region of Franconia, stands as an architectural reflection of the Huguenots’ historical journey and their contribution to the fabric of German society. The church not only provides a space for worship but also acts as a reminder of the struggles faced by the Huguenots, French Protestants who fled persecution in the late 17th century. Visitors to this site can expect not only spiritual enrichment but an opportunity to delve into the narratives that shaped this part of Europe.
+In the heart of Erlangen, Germany, the Huguenot Church serves as a profound symbol of cultural resilience and religious heritage. This church, located in the region of Franconia, stands as an architectural reflection of the Huguenots' historical journey and their contribution to the fabric of German society. The church not only provides a space for worship but also acts as a reminder of the struggles faced by the Huguenots, French Protestants who fled persecution in the late 17th century. Visitors to this site can expect not only spiritual enrichment but an opportunity to delve into the narratives that shaped this part of Europe.
 
-As you approach the Huguenot Church, you will find yourself enveloped in the serene atmosphere of Erlangen, a city known for its blend of academic life and historical charm. The church’s significance extends beyond its walls, acting as a focal point for community gatherings and celebrations, echoing the resilience and adaptability of the Huguenot spirit. Whether you are a history enthusiast, a spiritual seeker, or simply a curious traveler, the Huguenot Church promises a reflective experience that resonates with the themes of faith and perseverance.
+As you approach the Huguenot Church, you will find yourself enveloped in the serene atmosphere of Erlangen, a city known for its blend of academic life and historical charm. The church's significance extends beyond its walls, acting as a focal point for community gatherings and celebrations, echoing the resilience and adaptability of the Huguenot spirit. Whether you are a history enthusiast, a spiritual seeker, or simply a curious traveler, the Huguenot Church promises a reflective experience that resonates with the themes of faith and perseverance.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Huguenot Church in Erlangen is deeply intertwined with the history of the Hu
 
 Erlangen became a significant center for Huguenots, who brought with them their skills, culture, and traditions. The establishment of the Huguenot Church was pivotal in providing a spiritual home for these communities. It served not only as a place of worship but also as a cultural hub where Huguenots could preserve their identity and heritage. The church thus became a focal point for community life, offering a sense of belonging and continuity amidst the challenges of displacement.
 
-Today, the Huguenot Church stands as a reminder of the broader narrative of religious freedom and the importance of tolerance. It reflects the struggles and triumphs of a group that sought sanctuary and has become an integral part of the local history. The church’s presence in Erlangen serves as a testament to the city's commitment to honoring its diverse cultural roots.
+Today, the Huguenot Church stands as a reminder of the broader narrative of religious freedom and the importance of tolerance. It reflects the struggles and triumphs of a group that sought sanctuary and has become an integral part of the local history. The church's presence in Erlangen serves as a testament to the city's commitment to honoring its diverse cultural roots.
 
 ## Architecture and Features
 
@@ -70,13 +70,13 @@ Erlangen is rich in cultural offerings, making it an ideal destination for a day
 
 ## Insider Tips
 
-When visiting the Huguenot Church, consider timing your visit to avoid peak hours, especially on weekends or during local events. Early mornings or late afternoons can provide a quieter atmosphere, allowing for reflection and appreciation of the church’s interior.
+When visiting the Huguenot Church, consider timing your visit to avoid peak hours, especially on weekends or during local events. Early mornings or late afternoons can provide a quieter atmosphere, allowing for reflection and appreciation of the church's interior.
 
 For photography enthusiasts, the church's architecture and surrounding environment offer ample opportunities for capturing stunning images. However, be respectful of the space and the worshippers, and observe any signage regarding photography restrictions.
 
 ## Practical Information
 
-When planning your visit to the Huguenot Church, it’s advisable to bring along essentials such as a camera, a bottle of water, and comfortable walking shoes to explore the surrounding area. Depending on the season, consider layering clothing, as temperatures can vary significantly throughout the year.
+When planning your visit to the Huguenot Church, it's advisable to bring along essentials such as a camera, a bottle of water, and comfortable walking shoes to explore the surrounding area. Depending on the season, consider layering clothing, as temperatures can vary significantly throughout the year.
 
 Be aware of seasonal events that may take place at the church, as these can enhance your experience and provide additional insights into the local culture and traditions.
 
@@ -86,7 +86,7 @@ Be aware of seasonal events that may take place at the church, as these can enha
 Most visitors typically spend around an hour at the Huguenot Church, but you may wish to extend your visit if you enjoy exploring the surrounding area and nearby attractions.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signs or ask staff if photography is permitted inside the church.
+Photography policies can vary, so it's best to check for any signs or ask staff if photography is permitted inside the church.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can provide valuable insights into the church's history and architecture.
@@ -101,7 +101,7 @@ Information regarding accessibility may not be available; it is advisable to che
 Ticket purchasing options can vary, so check the official website for current information regarding online ticket availability.
 
 ### Are there restrooms and cafes?
-Nearby facilities may not be specified; therefore, it’s advisable to plan accordingly, especially if you have specific needs during your visit.
+Nearby facilities may not be specified; therefore, it's advisable to plan accordingly, especially if you have specific needs during your visit.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind the setting of a place of worship. Layering clothing is recommended, especially in varying seasonal temperatures. 

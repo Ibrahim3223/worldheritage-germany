@@ -42,7 +42,7 @@ St. Nikolai is characterized by its distinct architectural style, reflective of 
 
 Inside, visitors will find a serene atmosphere complemented by beautiful stained glass windows that filter light into the sacred space, creating an enchanting ambiance. The interior layout is designed to accommodate congregational gatherings, with ample seating and areas for worship. Notable features include intricately carved wooden elements, which may reflect the craftsmanship of the local artisans of the time.
 
-The church is also home to several historical artifacts, contributing to its cultural significance. These elements serve not only as decorative features but also as reminders of the church’s long-standing history and its role within the community. Visitors will appreciate the blend of artistic expression and functional design that characterizes St. Nikolai, making it a remarkable example of ecclesiastical architecture in Germany.
+The church is also home to several historical artifacts, contributing to its cultural significance. These elements serve not only as decorative features but also as reminders of the church's long-standing history and its role within the community. Visitors will appreciate the blend of artistic expression and functional design that characterizes St. Nikolai, making it a remarkable example of ecclesiastical architecture in Germany.
 
 ## Visiting Information
 

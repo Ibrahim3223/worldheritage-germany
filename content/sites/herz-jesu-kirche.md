@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Herz-Jesu-Kirche, located in the vibrant city of Münster, Germany, is a remarkable church building that embodies both the spiritual and architectural essence of the region. This site not only serves as a place of worship but also stands as a significant cultural landmark within the community. Visitors to Münster will find that Herz-Jesu-Kirche offers a unique glimpse into the city’s religious heritage while also highlighting its artistic achievements. With its striking design and serene ambiance, the church invites travelers to explore the deep connections between faith, architecture, and history that have shaped this area.
+Herz-Jesu-Kirche, located in the vibrant city of Münster, Germany, is a remarkable church building that embodies both the spiritual and architectural essence of the region. This site not only serves as a place of worship but also stands as a significant cultural landmark within the community. Visitors to Münster will find that Herz-Jesu-Kirche offers a unique glimpse into the city's religious heritage while also highlighting its artistic achievements. With its striking design and serene ambiance, the church invites travelers to explore the deep connections between faith, architecture, and history that have shaped this area.
 
-Münster, known for its rich history and vibrant cultural scene, provides a picturesque backdrop for Herz-Jesu-Kirche. The church’s location within the city enhances its accessibility, making it an integral part of the urban fabric. As you approach the church, you will be drawn into a space that radiates peace and reflection, inviting you to pause and contemplate the history that surrounds this sacred site. 
+Münster, known for its rich history and vibrant cultural scene, provides a picturesque backdrop for Herz-Jesu-Kirche. The church's location within the city enhances its accessibility, making it an integral part of the urban fabric. As you approach the church, you will be drawn into a space that radiates peace and reflection, inviting you to pause and contemplate the history that surrounds this sacred site. 
 
 Whether you are a history enthusiast, an architecture aficionado, or simply seeking a moment of tranquility, Herz-Jesu-Kirche promises an enriching experience. 
 
 ## History and Significance
 
-While specific historical dates may vary, Herz-Jesu-Kirche has grown to hold significant cultural importance in Münster. This church is not merely an architectural structure; it represents the heart of the local community’s spiritual life. Many congregants have come to regard Herz-Jesu-Kirche as a central gathering place for worship, fostering a sense of belonging and connection among its attendees.
+While specific historical dates may vary, Herz-Jesu-Kirche has grown to hold significant cultural importance in Münster. This church is not merely an architectural structure; it represents the heart of the local community's spiritual life. Many congregants have come to regard Herz-Jesu-Kirche as a central gathering place for worship, fostering a sense of belonging and connection among its attendees.
 
 The church's establishment aligns with the broader historical narrative of Münster, a city that has served as a pivotal center for various religious movements over the centuries. Its design reflects the evolving architectural styles and cultural influences that have permeated the region, making it an essential stop for those interested in understanding the interplay between religion and society in Münster.
 

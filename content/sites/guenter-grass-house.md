@@ -58,15 +58,15 @@ The best times to visit the museum are often during weekdays, when it tends to b
 
 The Günter Grass House is situated within a vibrant cultural landscape, with several notable attractions nearby:
 
-1. **St. Mary’s Church (Marienkirche)**: A stunning example of Brick Gothic architecture, this church is renowned for its impressive interior and historical significance.
+1. **St. Mary's Church (Marienkirche)**: A stunning example of Brick Gothic architecture, this church is renowned for its impressive interior and historical significance.
    
 2. **Lübeck Cathedral (Lübecker Dom)**: A striking structure that showcases architectural elements from both Romanesque and Gothic styles, this cathedral is a must-visit for history enthusiasts.
 
-3. **Holstentor**: One of Lübeck’s most iconic landmarks, this medieval gate offers insight into the city’s history as a major trading hub.
+3. **Holstentor**: One of Lübeck's most iconic landmarks, this medieval gate offers insight into the city's history as a major trading hub.
 
 4. **Museum of Theatre Puppetry**: An engaging attraction that explores the art of puppetry, featuring a variety of exhibitions that delight visitors of all ages.
 
-5. **Historic Market Square**: A lively area where local vendors and cultural events come together, providing a taste of Lübeck’s vibrant community life.
+5. **Historic Market Square**: A lively area where local vendors and cultural events come together, providing a taste of Lübeck's vibrant community life.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during the morning or early afternoon on weekda
 
 ## Practical Information
 
-When preparing for your visit to the Günter Grass House, it’s advisable to wear comfortable shoes, as you may be walking around the museum for an extended period. Seasonal considerations may also affect your experience; for instance, summers can be warm, so dress accordingly, while winter visits may necessitate warmer clothing.
+When preparing for your visit to the Günter Grass House, it's advisable to wear comfortable shoes, as you may be walking around the museum for an extended period. Seasonal considerations may also affect your experience; for instance, summers can be warm, so dress accordingly, while winter visits may necessitate warmer clothing.
 
 Additionally, consider bringing a notebook or sketchpad if you enjoy jotting down thoughts or capturing inspiration during your visit. The museum's atmosphere is conducive to reflection and creativity, making it an ideal space for artistic expression.
 

@@ -44,7 +44,7 @@ The architecture of the Werkbundarchiv complements its mission, blending functio
 
 Notable features of the museum include its thoughtfully curated exhibitions, which are often organized around themes that highlight specific aspects of design history or cultural significance. The exhibition spaces are adaptable, allowing for a dynamic presentation of both permanent and temporary collections. This flexibility enables the museum to showcase a wide range of objects and concepts, from historical artifacts to contemporary design innovations.
 
-The museum’s collection is organized to encourage interaction and contemplation, with many exhibits inviting visitors to consider the functionality and design of everyday items. This focus on engagement is further enhanced by the museum's commitment to education, with various resources available for those interested in delving deeper into the history and significance of the objects on display.
+The museum's collection is organized to encourage interaction and contemplation, with many exhibits inviting visitors to consider the functionality and design of everyday items. This focus on engagement is further enhanced by the museum's commitment to education, with various resources available for those interested in delving deeper into the history and significance of the objects on display.
 
 ## Visiting Information
 
@@ -89,7 +89,7 @@ When planning your visit to the Werkbundarchiv, keep the following practical con
 Most visitors spend about two to three hours at the museum to fully explore the exhibits and engage with the material.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s advisable to check for any restrictions in specific exhibition areas.
+Yes, photography is generally permitted, but it's advisable to check for any restrictions in specific exhibition areas.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any special programming that may be available during your visit.
@@ -98,7 +98,7 @@ Check the official website for information regarding guided tours and any specia
 Weekdays, particularly in the morning, are often less crowded, providing a more relaxed atmosphere for exploration.
 
 ### Is it wheelchair accessible?
-The museum strives to be accessible, but it’s best to confirm specific accessibility options on the official website.
+The museum strives to be accessible, but it's best to confirm specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets online, which can save time during your visit.

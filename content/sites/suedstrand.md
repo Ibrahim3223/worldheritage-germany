@@ -32,7 +32,7 @@ While specific historical dates may not be documented, the significance of Süds
 
 The beach has served various purposes throughout its history, from a place for fishing and maritime activities to a recreational area for families and individuals seeking leisure and relaxation. Its natural beauty and favorable climate have attracted visitors for generations. The establishment of Borkum as a health resort in the 19th century marked a turning point, as the island became known for its therapeutic sea air and sandy shores, further solidifying the importance of beaches like Südstrand.
 
-Culturally, Südstrand is an integral part of the local heritage. It is a gathering place for community events, celebrations, and recreational activities, fostering a sense of connection among visitors and residents alike. The beach also plays a role in environmental conservation efforts, promoting awareness of the importance of preserving coastal ecosystems. This dual significance—both as a leisure destination and as an ecological haven—highlights the value of Südstrand in the broader context of Borkum Island’s history and community.
+Culturally, Südstrand is an integral part of the local heritage. It is a gathering place for community events, celebrations, and recreational activities, fostering a sense of connection among visitors and residents alike. The beach also plays a role in environmental conservation efforts, promoting awareness of the importance of preserving coastal ecosystems. This dual significance—both as a leisure destination and as an ecological haven—highlights the value of Südstrand in the broader context of Borkum Island's history and community.
 
 ## Architecture and Features
 
@@ -40,7 +40,7 @@ Südstrand is characterized by its natural coastal landscape, where the soft, sa
 
 One of the notable features of Südstrand is its scenic promenade, which runs parallel to the beach. This pathway is ideal for strolling, cycling, or simply enjoying the views of the sea and the surrounding landscapes. The promenade is lined with amenities that cater to visitors, including seating areas, cafes, and kiosks where one can enjoy refreshments while taking in the coastal ambiance.
 
-Natural dunes provide a backdrop to the beach, contributing to the area’s ecological diversity. These dunes serve as a habitat for various plant and animal species, enhancing the beach's natural beauty. As part of environmental conservation efforts, the dunes are often protected from human encroachment, ensuring the preservation of this delicate ecosystem.
+Natural dunes provide a backdrop to the beach, contributing to the area's ecological diversity. These dunes serve as a habitat for various plant and animal species, enhancing the beach's natural beauty. As part of environmental conservation efforts, the dunes are often protected from human encroachment, ensuring the preservation of this delicate ecosystem.
 
 The beach's openness allows for various recreational activities, including beach volleyball, kite surfing, and windsurfing, making it a lively spot for sports enthusiasts. The combination of natural beauty, recreational opportunities, and community spaces makes Südstrand a multifaceted destination that caters to a wide range of interests.
 
@@ -64,7 +64,7 @@ Südstrand is conveniently located near several attractions that enhance the ove
 
 3. **Wadden Sea National Park**: A UNESCO World Heritage site, this national park is renowned for its tidal flats and biodiversity, offering opportunities for nature walks and wildlife observation.
 
-4. **Borkum Museum**: This local museum showcases the island's history, culture, and maritime heritage, providing insights into the region’s past.
+4. **Borkum Museum**: This local museum showcases the island's history, culture, and maritime heritage, providing insights into the region's past.
 
 5. **Hiking Trails**: The island is crisscrossed with well-marked hiking trails, allowing visitors to explore its diverse landscapes, from coastal paths to lush inland areas.
 
@@ -91,7 +91,7 @@ A visit to Südstrand can vary in length depending on your interests. Many visit
 Yes, photography is allowed at Südstrand, and the scenic landscapes provide excellent opportunities for capturing memorable images.
 
 ### Are there guided tours?
-While there may not be specific guided tours focused solely on the beach, Borkum Island offers various guided tours that cover the island’s history and natural beauty.
+While there may not be specific guided tours focused solely on the beach, Borkum Island offers various guided tours that cover the island's history and natural beauty.
 
 ### What's the best time to visit?
 The best time to visit Südstrand is during the late spring to early autumn months when the weather is warmest and most conducive to beach activities.

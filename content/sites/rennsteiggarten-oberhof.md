@@ -52,7 +52,7 @@ Rennsteiggarten Oberhof is conveniently located in the heart of Oberhof, making 
 
 When planning your visit, it is advisable to check the official website for current information regarding hours of operation and admission prices, as these can vary seasonally. The garden typically offers a tranquil environment, ideal for exploration and relaxation. Depending on your interests, a visit can last anywhere from one to three hours, giving ample time to take in the diverse collections and enjoy the peaceful surroundings.
 
-The best times to visit are during the spring and summer months when the flora is in full bloom, showcasing the garden’s vibrant colors and scents. However, autumn also offers a unique display as the leaves change, creating a beautiful tapestry of fall colors.
+The best times to visit are during the spring and summer months when the flora is in full bloom, showcasing the garden's vibrant colors and scents. However, autumn also offers a unique display as the leaves change, creating a beautiful tapestry of fall colors.
 
 ## Nearby Attractions
 
@@ -95,13 +95,13 @@ Check the official website for current information regarding guided tours or edu
 The best times to visit are typically in spring and summer when the flowers are in full bloom, but autumn also offers a unique experience with vibrant foliage.
 
 ### Is it wheelchair accessible?
-While specific accessibility features are not mentioned, the garden is designed for ease of navigation. It’s advisable to check the official website for detailed accessibility information.
+While specific accessibility features are not mentioned, the garden is designed for ease of navigation. It's advisable to check the official website for detailed accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Visitor amenities such as restrooms and cafes may be available, but it’s best to confirm this information on the official website before your visit.
+Visitor amenities such as restrooms and cafes may be available, but it's best to confirm this information on the official website before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, ensuring that you are prepared for walking and outdoor exploration. 

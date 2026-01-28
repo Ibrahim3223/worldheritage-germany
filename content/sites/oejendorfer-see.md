@@ -52,7 +52,7 @@ Visiting Öjendorfer See is a straightforward experience, with various transport
 
 Check the official website for current information regarding hours and any potential seasonal events. The best times to visit Öjendorfer See are during the warmer months when the weather is conducive to outdoor activities. Early mornings or late afternoons are ideal for those seeking to avoid larger crowds and enjoy a more tranquil experience.
 
-Expect the area to be bustling during weekends, especially in the summertime, when families and groups gather to take advantage of the recreational opportunities available. It’s advisable to plan your visit accordingly to make the most of your time at this lakeside destination.
+Expect the area to be bustling during weekends, especially in the summertime, when families and groups gather to take advantage of the recreational opportunities available. It's advisable to plan your visit accordingly to make the most of your time at this lakeside destination.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ Expect the area to be bustling during weekends, especially in the summertime, wh
   
 2. **Billepark**: A nearby park that provides additional green space and recreational opportunities, ideal for families and those looking to enjoy the outdoors.
 
-3. **Hamburg’s Botanical Gardens**: While a bit further away, these gardens showcase a diverse collection of plant species and beautiful landscapes, perfect for a leisurely exploration.
+3. **Hamburg's Botanical Gardens**: While a bit further away, these gardens showcase a diverse collection of plant species and beautiful landscapes, perfect for a leisurely exploration.
 
 4. **Reeperbahn**: A famous street in Hamburg known for its nightlife and entertainment, providing a stark contrast to the tranquil atmosphere of Öjendorfer See.
 

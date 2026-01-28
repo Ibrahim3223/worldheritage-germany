@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Kirche Neu-Westend, located in the Charlottenburg-Wilmersdorf district of Berlin, is a notable church building that reflects the spiritual and architectural heritage of the region. This ecclesiastical structure serves not only as a place of worship but also as a cultural landmark, inviting visitors to explore its unique character and significance within the community. The church’s strategic location in one of Berlin's vibrant districts enhances its accessibility and prominence.
+Kirche Neu-Westend, located in the Charlottenburg-Wilmersdorf district of Berlin, is a notable church building that reflects the spiritual and architectural heritage of the region. This ecclesiastical structure serves not only as a place of worship but also as a cultural landmark, inviting visitors to explore its unique character and significance within the community. The church's strategic location in one of Berlin's vibrant districts enhances its accessibility and prominence.
 
-As you approach Kirche Neu-Westend, you will find it situated amidst the urban environment of Berlin, a city known for its rich history and diverse cultural landscape. The church stands as a reminder of the city’s long-standing traditions and its evolution through the years. With its serene atmosphere and inviting presence, Kirche Neu-Westend promises a meaningful experience for those seeking both spiritual solace and architectural beauty.
+As you approach Kirche Neu-Westend, you will find it situated amidst the urban environment of Berlin, a city known for its rich history and diverse cultural landscape. The church stands as a reminder of the city's long-standing traditions and its evolution through the years. With its serene atmosphere and inviting presence, Kirche Neu-Westend promises a meaningful experience for those seeking both spiritual solace and architectural beauty.
 
 Whether you are a local resident or a traveler exploring the multifaceted layers of Berlin, a visit to Kirche Neu-Westend offers an opportunity to appreciate the intersection of faith, community, and history. 
 
@@ -82,7 +82,7 @@ These attractions complement a visit to Kirche Neu-Westend, allowing for a broad
 
 For those planning to visit Kirche Neu-Westend, here are a few insider tips to enhance your experience:
 
-- **Photography**: If you’re interested in capturing the beauty of the church, be sure to check if photography is permitted inside. Early mornings or late afternoons may provide softer lighting for your photos.
+- **Photography**: If you're interested in capturing the beauty of the church, be sure to check if photography is permitted inside. Early mornings or late afternoons may provide softer lighting for your photos.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider going during weekdays or outside of peak hours. Early mornings can be particularly serene.
 
@@ -90,7 +90,7 @@ For those planning to visit Kirche Neu-Westend, here are a few insider tips to e
 
 ## Practical Information
 
-When visiting Kirche Neu-Westend, it’s advisable to bring a few essentials:
+When visiting Kirche Neu-Westend, it's advisable to bring a few essentials:
 
 - **Comfortable Shoes**: The exploration may involve walking, so comfortable footwear is recommended.
 

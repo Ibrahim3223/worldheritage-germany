@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-St. Pantaleon's Church, an iconic ecclesiastical structure located in the vibrant Altstadt-Süd district of Cologne, Germany, serves as a remarkable example of medieval architecture and spiritual heritage. This church, dedicated to St. Pantaleon, the patron saint of physicians, is a significant landmark that reflects the rich history and cultural evolution of Cologne. Visitors are drawn not only by its architectural beauty but also by its historical narratives that intertwine with the city’s journey through various eras. 
+St. Pantaleon's Church, an iconic ecclesiastical structure located in the vibrant Altstadt-Süd district of Cologne, Germany, serves as a remarkable example of medieval architecture and spiritual heritage. This church, dedicated to St. Pantaleon, the patron saint of physicians, is a significant landmark that reflects the rich history and cultural evolution of Cologne. Visitors are drawn not only by its architectural beauty but also by its historical narratives that intertwine with the city's journey through various eras. 
 
 As you approach this historical edifice, you'll be captivated by its unique charm and the stories it embodies within its walls. The church stands as a witness to the transformations that have shaped Cologne, offering an enriching experience for history enthusiasts and architecture lovers alike. 
 
 ## History and Significance
 
-The origins of St. Pantaleon's Church trace back to a time when Cologne was an important center of Christianity in the region. While specific dates may not be available, the church's foundation aligns with the early medieval period, a time when the city was developing its significant cultural and religious identity. Throughout its history, St. Pantaleon’s Church has served as a place of worship, a center for community gatherings, and a symbol of resilience, particularly during the tumultuous times that affected many European cities.
+The origins of St. Pantaleon's Church trace back to a time when Cologne was an important center of Christianity in the region. While specific dates may not be available, the church's foundation aligns with the early medieval period, a time when the city was developing its significant cultural and religious identity. Throughout its history, St. Pantaleon's Church has served as a place of worship, a center for community gatherings, and a symbol of resilience, particularly during the tumultuous times that affected many European cities.
 
 The church is notable for its connection to the veneration of St. Pantaleon, a martyr who is celebrated for his healing abilities. This aspect attracted many pilgrims and believers, further enhancing the church's importance in the spiritual landscape of the region. Over the centuries, the church has undergone various renovations and restorations, reflecting the architectural trends of different periods while maintaining its core historical essence.
 
-St. Pantaleon’s Church is also significant from a cultural perspective, as it encapsulates the religious practices and community dynamics of the time. The church has witnessed numerous historical events, serving as a backdrop to the lives of many individuals and families in Cologne. Its presence continues to foster a sense of continuity and connection to the past, making it a vital part of the city's cultural heritage.
+St. Pantaleon's Church is also significant from a cultural perspective, as it encapsulates the religious practices and community dynamics of the time. The church has witnessed numerous historical events, serving as a backdrop to the lives of many individuals and families in Cologne. Its presence continues to foster a sense of continuity and connection to the past, making it a vital part of the city's cultural heritage.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ St. Pantaleon's Church is situated close to several attractions that complement 
 
 3. **Hohenzollern Bridge** - Known for its stunning views of the Rhine River and its famous love locks, this bridge provides a picturesque walk and photo opportunities.
 
-4. **Old Town (Altstadt)** - A stroll through the charming cobblestone streets of Cologne’s Old Town offers a glimpse into the city's past, with quaint shops and local eateries.
+4. **Old Town (Altstadt)** - A stroll through the charming cobblestone streets of Cologne's Old Town offers a glimpse into the city's past, with quaint shops and local eateries.
 
 5. **Roman-Germanic Museum** - This museum showcases artifacts from Cologne's Roman past, providing further context to the region's rich history.
 
@@ -91,7 +91,7 @@ A visit to St. Pantaleon's Church typically takes about an hour, allowing time f
 Yes, photography is generally allowed inside the church, but be respectful of the space and any visitors who may be there for worship.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they may be offered to enhance your understanding of the church’s history and architecture.
+Check the official website for information on guided tours, as they may be offered to enhance your understanding of the church's history and architecture.
 
 ### What's the best time to visit?
 Weekdays, especially early mornings or late afternoons, tend to be less crowded, providing a more serene experience.

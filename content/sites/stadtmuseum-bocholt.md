@@ -70,7 +70,7 @@ If you are planning to visit during peak tourist seasons, consider weekdays for 
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring comfortable walking shoes, as you may spend considerable time exploring the various exhibits. Seasonal considerations can affect your experience, so check for any special events or changes in opening hours during holidays. 
+When planning your visit, it's advisable to bring comfortable walking shoes, as you may spend considerable time exploring the various exhibits. Seasonal considerations can affect your experience, so check for any special events or changes in opening hours during holidays. 
 
 Additionally, be prepared for varying temperatures, as museums can be cooler than the outdoors. A light sweater or jacket may enhance your comfort during your visit, especially if you plan to spend an extended period inside.
 

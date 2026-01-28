@@ -74,7 +74,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends. Early morni
 
 ## Practical Information
 
-When planning your visit to Hiroshima-Hain, it’s advisable to wear comfortable shoes suitable for walking, as the memorial involves strolling through park pathways. Additionally, visitors should consider bringing water and light snacks, especially if they plan to spend time enjoying the park's peaceful environment.
+When planning your visit to Hiroshima-Hain, it's advisable to wear comfortable shoes suitable for walking, as the memorial involves strolling through park pathways. Additionally, visitors should consider bringing water and light snacks, especially if they plan to spend time enjoying the park's peaceful environment.
 
 Seasonal considerations are also important; the park's beauty changes throughout the year, with spring blossoms and autumn foliage offering unique experiences. Be sure to check the weather forecast before your visit to dress appropriately.
 

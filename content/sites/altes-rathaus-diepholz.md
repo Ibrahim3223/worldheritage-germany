@@ -36,7 +36,7 @@ The history of the Altes Rathaus in Diepholz reflects the evolution of municipal
 
 The cultural significance of Altes Rathaus is underscored by its role as a venue for events and educational activities. This aspect of the building highlights its importance beyond mere administration; it serves as a hub for community engagement and participation. The integration of various functions within the city hall emphasizes the connection between governance and civic life in Diepholz.
 
-Additionally, the presence of a restaurant within the Altes Rathaus fosters a communal atmosphere, inviting both locals and tourists to come together. This blend of civic duty and social interaction makes the Altes Rathaus a unique embodiment of the town’s identity, reflecting a commitment to community and heritage.
+Additionally, the presence of a restaurant within the Altes Rathaus fosters a communal atmosphere, inviting both locals and tourists to come together. This blend of civic duty and social interaction makes the Altes Rathaus a unique embodiment of the town's identity, reflecting a commitment to community and heritage.
 
 ## Architecture and Features
 

@@ -66,7 +66,7 @@ Visiting the Kinderfilmhaus offers a unique opportunity to engage with film educ
 
 - **Best Times to Visit**: Consider visiting during weekdays for a quieter experience, or check the calendar for special events that may enhance your visit.
 
-Before heading out, it’s always a good idea to review the official website for any updates or changes that could impact your experience at the Kinderfilmhaus.
+Before heading out, it's always a good idea to review the official website for any updates or changes that could impact your experience at the Kinderfilmhaus.
 
 ## Nearby Attractions
 

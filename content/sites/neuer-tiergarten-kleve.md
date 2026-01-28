@@ -50,7 +50,7 @@ The overall ambiance of Neuer Tiergarten is one of tranquility and beauty, makin
 
 Visiting Neuer Tiergarten Kleve offers a refreshing experience for those looking to enjoy nature in a well-maintained environment. Access to the garden is relatively straightforward, with various transport options available for both locals and tourists. Visitors are encouraged to check the official website for current information on hours and prices, as these details can vary throughout the year. 
 
-Upon arrival, guests can expect a welcoming atmosphere, with paths that are suitable for both casual strolls and more vigorous walks. The garden’s layout allows for exploration at a leisurely pace, making it a perfect spot for families, couples, or solo visitors seeking solace in nature. Generally, a visit might take anywhere from one to two hours, depending on interest levels in photography or leisurely exploration.
+Upon arrival, guests can expect a welcoming atmosphere, with paths that are suitable for both casual strolls and more vigorous walks. The garden's layout allows for exploration at a leisurely pace, making it a perfect spot for families, couples, or solo visitors seeking solace in nature. Generally, a visit might take anywhere from one to two hours, depending on interest levels in photography or leisurely exploration.
 
 The best times to visit Neuer Tiergarten are typically during the spring and summer months when the flora is in full bloom, creating a vibrant and colorful landscape. Early mornings or late afternoons may also provide a more serene atmosphere, avoiding larger crowds that can form during mid-day.
 

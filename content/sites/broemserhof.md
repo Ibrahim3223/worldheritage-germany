@@ -28,23 +28,23 @@ image_srcset:
 
 In the heart of Lübeck's Old City lies the Brömserhof, an architectural marvel that captures the essence of German heritage. This palace, an integral part of Lübeck's historical fabric, invites visitors to explore its storied past and elegant design. Located at the coordinates 53.8641, 10.6884, Brömserhof is not merely a structure but a gateway into the rich cultural narrative of the region. Its significance extends beyond its walls, as it embodies the artistic and historical influences that have shaped Lübeck over the centuries. 
 
-Visitors to Brömserhof can expect a blend of history, culture, and artistry, making it a compelling destination for those eager to immerse themselves in the heritage of one of Germany's most picturesque cities. Whether you are an architecture aficionado, a history buff, or just a curious traveler, the palace promises an enriching experience that captures the essence of Lübeck’s Old City.
+Visitors to Brömserhof can expect a blend of history, culture, and artistry, making it a compelling destination for those eager to immerse themselves in the heritage of one of Germany's most picturesque cities. Whether you are an architecture aficionado, a history buff, or just a curious traveler, the palace promises an enriching experience that captures the essence of Lübeck's Old City.
 
 ## History and Significance
 
 Brömserhof's historical significance is deeply intertwined with Lübeck's development as a prominent trading hub in the Hanseatic League. While specific dates are not available, the palace is known to reflect the wealth and power of the merchant class during its peak. The building is an important representation of Lübeck's medieval past, providing insight into the lifestyle of its former inhabitants who played a vital role in the economic prosperity of the region.
 
-Throughout the years, Brömserhof has served various functions, from a residence to a gathering place for influential figures. Its enduring presence is a reminder of Lübeck's resilience and its ability to adapt through changing times. The site stands as an embodiment of the city’s cultural heritage, highlighting the significance of communal spaces in fostering social interaction among its citizens.
+Throughout the years, Brömserhof has served various functions, from a residence to a gathering place for influential figures. Its enduring presence is a reminder of Lübeck's resilience and its ability to adapt through changing times. The site stands as an embodiment of the city's cultural heritage, highlighting the significance of communal spaces in fostering social interaction among its citizens.
 
-As a part of Lübeck's Old City, a UNESCO World Heritage site, Brömserhof contributes to the overall narrative of the city’s architectural and cultural evolution. The palace reflects the city’s unique blend of Gothic and Renaissance influences, making it an essential stop for anyone wishing to understand Lübeck's historical context.
+As a part of Lübeck's Old City, a UNESCO World Heritage site, Brömserhof contributes to the overall narrative of the city's architectural and cultural evolution. The palace reflects the city's unique blend of Gothic and Renaissance influences, making it an essential stop for anyone wishing to understand Lübeck's historical context.
 
 ## Architecture and Features
 
-The architectural design of Brömserhof is a captivating mix of styles that reflect the evolution of Lübeck’s building practices over the centuries. The palace features intricate facades adorned with decorative elements that showcase the craftsmanship of its builders. The combination of brickwork and ornamental detailing highlights the significance of the material in Northern German architecture.
+The architectural design of Brömserhof is a captivating mix of styles that reflect the evolution of Lübeck's building practices over the centuries. The palace features intricate facades adorned with decorative elements that showcase the craftsmanship of its builders. The combination of brickwork and ornamental detailing highlights the significance of the material in Northern German architecture.
 
 Among the notable features of Brömserhof are its grand entrances and expansive windows, which not only enhance its aesthetic appeal but also allow natural light to illuminate the interior spaces. The layout of the palace is designed to accommodate both private and public functions, emphasizing its role as a social hub throughout history.
 
-Visitors will appreciate the subtle yet sophisticated design choices that characterize Brömserhof. The spacious halls and rooms are adorned with historical artifacts and artworks that echo the rich narrative of Lübeck’s past. Each corner of the palace tells a story, inviting exploration and reflection on the lives led within its walls.
+Visitors will appreciate the subtle yet sophisticated design choices that characterize Brömserhof. The spacious halls and rooms are adorned with historical artifacts and artworks that echo the rich narrative of Lübeck's past. Each corner of the palace tells a story, inviting exploration and reflection on the lives led within its walls.
 
 ## Visiting Information
 

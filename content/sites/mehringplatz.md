@@ -84,7 +84,7 @@ If you plan to visit during holidays or special occasions, be mindful of potenti
 The time spent at Mehringplatz can vary based on your interests, but a visit typically lasts between 30 minutes to an hour. If you plan to engage in nearby attractions or community events, allocate additional time accordingly.
 
 ### Is photography allowed?
-Yes, photography is allowed at Mehringplatz. It’s a vibrant area, and capturing its lively atmosphere is encouraged.
+Yes, photography is allowed at Mehringplatz. It's a vibrant area, and capturing its lively atmosphere is encouraged.
 
 ### Are there guided tours?
 While Mehringplatz itself may not offer specific guided tours, several walking tours in the surrounding area may include it as a stop. Check local tour operators for availability.

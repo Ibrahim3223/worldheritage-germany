@@ -76,7 +76,7 @@ If you are interested in photography, check the museum's policy regarding photog
 
 ## Practical Information
 
-When preparing for your visit to Kunstmuseum Heidenheim, it’s advisable to bring along essentials such as comfortable footwear, as you may spend a significant amount of time walking through the exhibitions. Seasonal considerations could also impact your visit; for instance, dress appropriately for the weather if you plan to explore nearby attractions after your museum visit.
+When preparing for your visit to Kunstmuseum Heidenheim, it's advisable to bring along essentials such as comfortable footwear, as you may spend a significant amount of time walking through the exhibitions. Seasonal considerations could also impact your visit; for instance, dress appropriately for the weather if you plan to explore nearby attractions after your museum visit.
 
 Check the official website for any special events or exhibitions that may require advance planning, and consider checking for any specific visitor guidelines that may be in place.
 
@@ -95,7 +95,7 @@ Information about guided tours is available on the official website, where you c
 Weekdays are often less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-For information on accessibility features, check the museum’s official website.
+For information on accessibility features, check the museum's official website.
 
 ### Can I buy tickets online?
 Ticket purchasing options can be confirmed on the official website.

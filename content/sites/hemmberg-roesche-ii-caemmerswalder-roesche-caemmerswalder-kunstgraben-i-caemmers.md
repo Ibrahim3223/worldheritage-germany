@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-The Hemmberg Rösche and its surrounding structures represent a significant chapter in the engineering and architectural narrative of Neuhausen, Germany. This collection of bridges, including the II. Cämmerswalder Rösche, Cämmerswalder Kunstgraben, I. Cämmerswalder Rösche, Pfaffenholz Kunstgraben, and Pfaffenholz Rösche, is a testament to the ingenuity and skill of historical civil engineering. These bridges not only facilitated transportation but also played an integral role in the region’s development. Visitors will find an intriguing blend of functionality and artistry as they explore these historical structures, each contributing to the overall ambiance of the area.
+The Hemmberg Rösche and its surrounding structures represent a significant chapter in the engineering and architectural narrative of Neuhausen, Germany. This collection of bridges, including the II. Cämmerswalder Rösche, Cämmerswalder Kunstgraben, I. Cämmerswalder Rösche, Pfaffenholz Kunstgraben, and Pfaffenholz Rösche, is a testament to the ingenuity and skill of historical civil engineering. These bridges not only facilitated transportation but also played an integral role in the region's development. Visitors will find an intriguing blend of functionality and artistry as they explore these historical structures, each contributing to the overall ambiance of the area.
 
-Situated at coordinates 50.69735712, 13.49113376, this site is easily accessible and forms part of a broader landscape rich in history and natural beauty. Whether you’re an engineering enthusiast, a history buff, or simply someone seeking to appreciate the craftsmanship of a bygone era, the bridges of Cämmerswalde promise to engage and inspire. 
+Situated at coordinates 50.69735712, 13.49113376, this site is easily accessible and forms part of a broader landscape rich in history and natural beauty. Whether you're an engineering enthusiast, a history buff, or simply someone seeking to appreciate the craftsmanship of a bygone era, the bridges of Cämmerswalde promise to engage and inspire. 
 
 ## History and Significance
 

@@ -66,7 +66,7 @@ The Umweltbibliothek Leipzig is strategically located near several other signifi
 
 When visiting the Umweltbibliothek Leipzig, consider the following tips to enhance your experience:
 
-- **Photography**: If you plan to take photographs, check the library’s policy on photography to ensure compliance with any restrictions.
+- **Photography**: If you plan to take photographs, check the library's policy on photography to ensure compliance with any restrictions.
   
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during midweek days or earlier in the day when the library is less crowded.
 
@@ -96,7 +96,7 @@ Weekdays are typically quieter than weekends, making them ideal for a more focus
 For specific accessibility options, consult the official website for details regarding facilities and assistance.
 
 ### Can I buy tickets online?
-Check the library’s official website for information on entry fees and ticket purchasing options.
+Check the library's official website for information on entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms are generally available; however, details about on-site cafes should be verified on the official website.

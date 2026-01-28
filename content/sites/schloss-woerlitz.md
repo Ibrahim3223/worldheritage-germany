@@ -88,7 +88,7 @@ To make the most of your visit to Schloss Wörlitz, consider these insider tips:
 
 When preparing for your visit to Schloss Wörlitz, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are essential, as the grounds are expansive and best explored on foot. A lightweight jacket may be useful for cooler days, and don’t forget your camera to capture the beautiful scenery.
+- **What to Bring**: Comfortable walking shoes are essential, as the grounds are expansive and best explored on foot. A lightweight jacket may be useful for cooler days, and don't forget your camera to capture the beautiful scenery.
 
 - **Seasonal Considerations**: The estate is particularly stunning in spring and summer due to the blooming gardens. However, autumn also offers a unique charm with fall colors. Be sure to check the weather forecast prior to your visit to dress appropriately.
 
@@ -101,19 +101,19 @@ A visit typically lasts around 3-4 hours, allowing ample time to explore the cas
 Yes, photography is generally permitted throughout the grounds, but check for specific restrictions in certain indoor areas.
 
 ### Are there guided tours?
-Guided tours may be available, providing valuable insights into the history and architecture of the site. It’s advisable to check in advance for tour availability.
+Guided tours may be available, providing valuable insights into the history and architecture of the site. It's advisable to check in advance for tour availability.
 
 ### What's the best time to visit?
 Spring and summer are ideal for enjoying the gardens, while early mornings or late afternoons can offer a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility may vary, so it’s best to check ahead for specific accommodations that may be available.
+Accessibility may vary, so it's best to check ahead for specific accommodations that may be available.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options, including any online availability.
 
 ### Are there restrooms and cafes?
-Facilities are typically available on-site, but it’s wise to confirm the specifics on the official website.
+Facilities are typically available on-site, but it's wise to confirm the specifics on the official website.
 
 ### What should I wear?
 Dress comfortably and according to the weather, as you will likely be walking through gardens and exploring outdoor spaces.

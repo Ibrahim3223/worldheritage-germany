@@ -36,7 +36,7 @@ As you explore the tea house, you are drawn into a world where East meets West, 
 
 The Chinesisches Teehaus is a notable example of the architectural movements that emerged in the 18th century, particularly the interest in Chinese culture that swept through Europe. This period marked a time when many European aristocrats were fascinated by the exoticism of the East, leading to the incorporation of Asian motifs in their gardens and estates. The tea house reflects this trend, standing as a physical embodiment of the cross-cultural exchanges that defined the era.
 
-Oranienbaum, where the tea house is situated, was developed under the influence of Prince Franz von Anhalt-Dessau, who was instrumental in creating this garden landscape. The English-Chinese Garden itself was designed to serve as a place of leisure and contemplation, allowing visitors to enjoy the beauty of nature while also experiencing the cultural nuances of Chinese design. The tea house’s role within this space is vital, serving not only as a place to relax and enjoy tea but also as a site for social gatherings and cultural exchange.
+Oranienbaum, where the tea house is situated, was developed under the influence of Prince Franz von Anhalt-Dessau, who was instrumental in creating this garden landscape. The English-Chinese Garden itself was designed to serve as a place of leisure and contemplation, allowing visitors to enjoy the beauty of nature while also experiencing the cultural nuances of Chinese design. The tea house's role within this space is vital, serving not only as a place to relax and enjoy tea but also as a site for social gatherings and cultural exchange.
 
 The tea house illustrates the historical significance of gardens as spaces for social interaction and cultural dialogue. Its design incorporates elements such as pagoda-like roofs and intricate woodwork, which were inspired by traditional Chinese architecture. This architectural style was not merely aesthetic; it represented a broader cultural appreciation and understanding during a time when such exchanges were becoming more common in Europe.
 
@@ -111,7 +111,7 @@ Check the official website for current accessibility information, as facilities 
 Ticket purchasing options can vary; check the official website for details on online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available in the gardens, but it’s advisable to check the official website for specific information before your visit.
+Facilities such as restrooms and cafes may be available in the gardens, but it's advisable to check the official website for specific information before your visit.
 
 ### What should I wear?
 Wear comfortable clothing suitable for walking. Depending on the season, consider layers and sun protection for outdoor exploration.

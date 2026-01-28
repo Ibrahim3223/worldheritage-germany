@@ -40,7 +40,7 @@ As a prominent structure in Hanau, Marienkirche has witnessed various historical
 
 Marienkirche Hanau is characterized by its classic church architecture, which reflects traditional design elements commonly found in similar historical buildings throughout Germany. The exterior of the church features a blend of stonework and artisanship, showcasing the craftsmanship that was prevalent during its construction. 
 
-Inside, visitors can expect to find an array of artistic features, such as stained glass windows that contribute to the church’s serene atmosphere. These windows often depict religious scenes and figures, adding to the spiritual ambiance of the space. The interior layout typically includes a nave, side aisles, and an altar area, designed to facilitate both worship and community gatherings.
+Inside, visitors can expect to find an array of artistic features, such as stained glass windows that contribute to the church's serene atmosphere. These windows often depict religious scenes and figures, adding to the spiritual ambiance of the space. The interior layout typically includes a nave, side aisles, and an altar area, designed to facilitate both worship and community gatherings.
 
 While specific details regarding dimensions or particular architectural styles are not provided, the overall design of Marienkirche suggests a structure that has been carefully maintained and preserved. This commitment to upkeep allows the church to continue functioning as an active place of worship while also serving as an attraction for those interested in architectural history.
 
@@ -68,7 +68,7 @@ Visitors to Marienkirche Hanau will find several notable attractions within a sh
 
 ## Insider Tips
 
-For photography enthusiasts, Marienkirche Hanau offers numerous opportunities to capture the beauty of its architecture. Early morning or late afternoon light can enhance the church’s features, providing a perfect backdrop for photos. If you prefer fewer crowds, visiting during weekdays or outside of major religious events is advisable.
+For photography enthusiasts, Marienkirche Hanau offers numerous opportunities to capture the beauty of its architecture. Early morning or late afternoon light can enhance the church's features, providing a perfect backdrop for photos. If you prefer fewer crowds, visiting during weekdays or outside of major religious events is advisable.
 
 Moreover, take time to appreciate the intricate details and artistic features within the church, which may require a more deliberate approach to capture effectively. Ensure that you are respectful of the space, especially during services when photography may be restricted.
 

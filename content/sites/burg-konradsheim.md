@@ -78,7 +78,7 @@ While visiting Burg Konradsheim, consider exploring the following nearby attract
 
 For those keen on photography, early morning or late afternoon light provides the best conditions for capturing the castle's striking features. Additionally, visiting during weekdays or off-peak hours can help avoid larger crowds, enhancing your overall experience.
 
-Be sure to take time to explore the castle’s grounds, as there are often hidden corners and perspectives that reveal unique views of the structure. Engaging with the local guides, if available, can also offer deeper insights into the castle's history and features.
+Be sure to take time to explore the castle's grounds, as there are often hidden corners and perspectives that reveal unique views of the structure. Engaging with the local guides, if available, can also offer deeper insights into the castle's history and features.
 
 ## Practical Information
 

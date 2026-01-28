@@ -66,13 +66,13 @@ While the Museum of Natural History Magdeburg is a highlight in itself, several 
 
 ## Insider Tips
 
-For photography enthusiasts, the Museum of Natural History Magdeburg can present some unique opportunities to capture engaging shots of exhibits. However, it’s important to be respectful of any restrictions on flash photography, which may be in place to protect sensitive artifacts. 
+For photography enthusiasts, the Museum of Natural History Magdeburg can present some unique opportunities to capture engaging shots of exhibits. However, it's important to be respectful of any restrictions on flash photography, which may be in place to protect sensitive artifacts. 
 
 To avoid crowds, consider visiting during the mid-morning or late afternoon on weekdays. This timing often provides a more intimate experience with the exhibits, allowing for a better opportunity to engage with the displays and any staff who may be available to answer questions.
 
 ## Practical Information
 
-When planning your visit to the Museum of Natural History Magdeburg, it’s advisable to bring along essentials such as water, a notebook for jotting down interesting facts, and a camera if permitted. Comfortable walking shoes are recommended, as you’ll likely be on your feet for a while exploring the various exhibits.
+When planning your visit to the Museum of Natural History Magdeburg, it's advisable to bring along essentials such as water, a notebook for jotting down interesting facts, and a camera if permitted. Comfortable walking shoes are recommended, as you'll likely be on your feet for a while exploring the various exhibits.
 
 Seasonal considerations may also play a role in your visit. During peak tourist seasons, such as summer, the museum may experience higher foot traffic. Conversely, visiting during the off-peak months can lead to a more relaxed experience.
 

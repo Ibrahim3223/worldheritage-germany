@@ -84,7 +84,7 @@ When preparing for your visit to the Straßenbrücke Höllengrundweg, here are a
 
 - **Seasonal Considerations**: Spring and summer are ideal for visiting, but be prepared for varying weather conditions. Autumn can also provide beautiful scenery with changing foliage.
 
-- **Accessibility**: While the bridge is accessible to pedestrians, it’s advisable to check local resources for specific accessibility information if needed.
+- **Accessibility**: While the bridge is accessible to pedestrians, it's advisable to check local resources for specific accessibility information if needed.
 
 ## Frequently Asked Questions
 

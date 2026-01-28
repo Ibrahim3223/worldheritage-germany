@@ -28,7 +28,7 @@ image_srcset:
 
 The Hansa-Gymnasium Hansestadt Stralsund is an important educational institution located in Stralsund, a historical city in the northeastern region of Germany known for its maritime heritage. This school building not only serves as a center of learning but also reflects the cultural and historical evolution of the area. Stralsund, situated near the Baltic Sea, is renowned for its well-preserved medieval architecture and its significance in the Hanseatic League, a powerful economic alliance in the Middle Ages. The Hansa-Gymnasium, as a school, plays a vital role in nurturing future generations while embodying the educational traditions of the region.
 
-Visitors to the Hansa-Gymnasium can expect a blend of educational purpose and architectural significance. The building stands as a reminder of the importance of education in a city that has a rich history of trade and commerce. Whether you are a local resident, a history enthusiast, or a visiting traveler, the Hansa-Gymnasium invites exploration of its cultural depth and significance in the context of Stralsund’s storied past.
+Visitors to the Hansa-Gymnasium can expect a blend of educational purpose and architectural significance. The building stands as a reminder of the importance of education in a city that has a rich history of trade and commerce. Whether you are a local resident, a history enthusiast, or a visiting traveler, the Hansa-Gymnasium invites exploration of its cultural depth and significance in the context of Stralsund's storied past.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Hansa-Gymnasium Hansestadt Stralsund has played a crucial role in the educat
 
 Education in Stralsund has evolved alongside the city's growth, reflecting the changing needs of society. The Hansa-Gymnasium continues to uphold the values of learning and community engagement that have characterized educational institutions in the region. As a school, it fosters academic achievement, creativity, and critical thinking among its students, preparing them for future challenges.
 
-The significance of the Hansa-Gymnasium extends beyond its function as an academic institution; it symbolizes the importance of education in shaping the community. The school engages with local history, promoting awareness and appreciation of Stralsund’s cultural heritage. In this way, it not only educates young minds but also contributes to the preservation and celebration of the city's rich historical narrative.
+The significance of the Hansa-Gymnasium extends beyond its function as an academic institution; it symbolizes the importance of education in shaping the community. The school engages with local history, promoting awareness and appreciation of Stralsund's cultural heritage. In this way, it not only educates young minds but also contributes to the preservation and celebration of the city's rich historical narrative.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architectural style of the Hansa-Gymnasium Hansestadt Stralsund is reflectiv
 
 Common characteristics of educational institutions in the region include spacious classrooms designed to foster learning, communal areas for student interaction, and facilities that accommodate various academic activities. The design often emphasizes natural light and open spaces, creating an environment conducive to education.
 
-In the context of Stralsund's historical architecture, the Hansa-Gymnasium may include features that echo the city's medieval heritage, such as brick facades and large windows that allow for ample light. The building serves not only as a place of learning but also as a visual representation of the city’s architectural history.
+In the context of Stralsund's historical architecture, the Hansa-Gymnasium may include features that echo the city's medieval heritage, such as brick facades and large windows that allow for ample light. The building serves not only as a place of learning but also as a visual representation of the city's architectural history.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ While visiting the Hansa-Gymnasium, consider exploring other significant attract
 
 ## Insider Tips
 
-For those interested in photography, capturing the architecture of the Hansa-Gymnasium can yield beautiful results, especially during early morning or late afternoon when the natural light enhances the building’s features. To avoid crowds, consider visiting during school hours. This not only allows for a more peaceful experience but also gives insight into the daily life within the school.
+For those interested in photography, capturing the architecture of the Hansa-Gymnasium can yield beautiful results, especially during early morning or late afternoon when the natural light enhances the building's features. To avoid crowds, consider visiting during school hours. This not only allows for a more peaceful experience but also gives insight into the daily life within the school.
 
 ## Practical Information
 

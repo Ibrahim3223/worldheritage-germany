@@ -50,7 +50,7 @@ The experience of walking through the Bockenemer Klärteiche offers a unique opp
 
 Visiting the Bockenemer Klärteiche offers a chance to immerse oneself in a tranquil natural setting. Access to the reserve is typically straightforward, and visitors can arrive by various modes of transport. For those driving, parking facilities may be available nearby, although specifics should be confirmed through the official website.
 
-It is advisable to check the official website for current information regarding hours of operation and any potential entry fees. The duration of a visit can vary based on individual interests; however, a couple of hours would generally allow for a leisurely exploration of the reserve’s pathways and observation points.
+It is advisable to check the official website for current information regarding hours of operation and any potential entry fees. The duration of a visit can vary based on individual interests; however, a couple of hours would generally allow for a leisurely exploration of the reserve's pathways and observation points.
 
 The best time to visit Bockenemer Klärteiche is during the spring and early autumn months when wildlife activity is at its peak. These seasons offer opportunities for observing migratory birds and experiencing the vibrant colors of blooming flora. Despite its allure, it is wise to visit during weekdays or early mornings to avoid larger crowds, which can enhance the experience of tranquility and connection with nature.
 

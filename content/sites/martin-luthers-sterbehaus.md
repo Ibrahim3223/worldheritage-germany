@@ -28,23 +28,23 @@ image_srcset:
 
 Martin Luthers Sterbehaus, located in the historic town of Eisleben, Germany, is a poignant museum dedicated to the life and legacy of Martin Luther, the influential figure behind the Protestant Reformation. This site holds significant value not only for its historical context but also for its profound impact on the course of Western Christianity. It was here, in this very house, that Luther spent his final days before passing away, marking a crucial chapter in religious history.
 
-Eisleben, situated in the heart of Germany, is imbued with a rich cultural heritage, reflecting the tumultuous changes that swept through Europe in the 16th century. As you explore the museum, you will gain insight into Luther’s life, his thoughts, and the societal transformations that emerged from his teachings. The Sterbehaus serves as an essential point of reflection for anyone interested in the evolution of religious thought and the enduring legacy of one of history's most pivotal figures.
+Eisleben, situated in the heart of Germany, is imbued with a rich cultural heritage, reflecting the tumultuous changes that swept through Europe in the 16th century. As you explore the museum, you will gain insight into Luther's life, his thoughts, and the societal transformations that emerged from his teachings. The Sterbehaus serves as an essential point of reflection for anyone interested in the evolution of religious thought and the enduring legacy of one of history's most pivotal figures.
 
 Visitors to Martin Luthers Sterbehaus will find an engaging experience that combines education with a deep appreciation for the historical context of Luther's life. The museum not only commemorates Luther's contributions but also invites contemplation on the broader implications of his work, encouraging dialogue about faith, reform, and society.
 
 ## History and Significance
 
-Martin Luther, born in 1483, is best known for his role in initiating the Protestant Reformation. His actions challenged the practices of the Catholic Church, advocating for a return to scripture and faith as the means to salvation rather than the church's intermediation. Luther’s 95 Theses, famously nailed to the church door in Wittenberg, sparked a movement that changed the religious landscape of Europe.
+Martin Luther, born in 1483, is best known for his role in initiating the Protestant Reformation. His actions challenged the practices of the Catholic Church, advocating for a return to scripture and faith as the means to salvation rather than the church's intermediation. Luther's 95 Theses, famously nailed to the church door in Wittenberg, sparked a movement that changed the religious landscape of Europe.
 
 The house where Luther died, now Martin Luthers Sterbehaus, is not just a place of historical interest but a site of immense cultural significance. Luther passed away in 1546, and the house became a sanctuary for his followers and a pilgrimage site for those influenced by his teachings. The museum was established to preserve this important piece of history and to educate visitors about Luther's thoughts and their implications for modern society.
 
-The museum not only showcases Luther's life but also reflects on the broader movements in Europe during the Reformation. The Sterbehaus serves as a reminder of the struggles for religious freedom and the impact of Luther’s ideologies on subsequent generations. It invites visitors to reflect on the ongoing relevance of Luther's ideas in contemporary discussions about faith, governance, and individual rights.
+The museum not only showcases Luther's life but also reflects on the broader movements in Europe during the Reformation. The Sterbehaus serves as a reminder of the struggles for religious freedom and the impact of Luther's ideologies on subsequent generations. It invites visitors to reflect on the ongoing relevance of Luther's ideas in contemporary discussions about faith, governance, and individual rights.
 
 ## Architecture and Features
 
 Martin Luthers Sterbehaus is a classic example of a German residential structure from the 16th century. The architecture reflects the regional style of that era, characterized by its timber-framed design and functional layout. Visitors can admire the careful restoration efforts that have preserved the integrity of the building while allowing it to function as a museum.
 
-Inside, the museum features a variety of exhibits that highlight different aspects of Luther’s life, including personal artifacts, manuscripts, and multimedia presentations that provide context to his teachings. Each room is thoughtfully arranged to guide visitors through Luther’s experiences, culminating in the bedroom where he spent his last moments. This intimate setting offers a profound connection to the historical figure, allowing visitors to contemplate the weight of his legacy.
+Inside, the museum features a variety of exhibits that highlight different aspects of Luther's life, including personal artifacts, manuscripts, and multimedia presentations that provide context to his teachings. Each room is thoughtfully arranged to guide visitors through Luther's experiences, culminating in the bedroom where he spent his last moments. This intimate setting offers a profound connection to the historical figure, allowing visitors to contemplate the weight of his legacy.
 
 Notable features of the museum include the preserved architecture that reflects the domestic life of the 16th century, as well as the informative displays that explore the significance of Luther's work. The museum is designed to facilitate an understanding of the historical context in which Luther lived, making it an educational experience for all who visit.
 
@@ -90,7 +90,7 @@ When preparing for your visit to Martin Luthers Sterbehaus, here are some practi
 
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather. Winters can be chilly in Germany, while summers may bring warm temperatures. Layered clothing is ideal for variable weather conditions.
 
-- **Accessibility**: The museum aims to be accessible to all visitors. If you have specific accessibility needs, it’s best to check in advance to ensure your visit is comfortable.
+- **Accessibility**: The museum aims to be accessible to all visitors. If you have specific accessibility needs, it's best to check in advance to ensure your visit is comfortable.
 
 ## Frequently Asked Questions
 
@@ -107,13 +107,13 @@ Check the official website for information about guided tours, as they may enhan
 Visiting during weekdays or in the early morning can help avoid crowds. Spring and early autumn offer pleasant weather, making them ideal times for exploration.
 
 ### Is it wheelchair accessible?
-The museum aims to accommodate all visitors. For specific accessibility questions, it’s advisable to contact the museum directly ahead of your visit.
+The museum aims to accommodate all visitors. For specific accessibility questions, it's advisable to contact the museum directly ahead of your visit.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and to confirm current pricing.
 
 ### Are there restrooms and cafes?
-Facilities are available within the museum, but it’s best to verify the current amenities on the official website.
+Facilities are available within the museum, but it's best to verify the current amenities on the official website.
 
 ### What should I wear?
 Dress comfortably and according to the season. Comfortable shoes are recommended for walking around the museum and nearby attractions.

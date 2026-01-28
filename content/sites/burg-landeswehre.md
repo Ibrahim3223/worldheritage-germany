@@ -102,7 +102,7 @@ Accessibility details are not specified, so it's advisable to check the official
 Check the official website for the latest information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not mentioned, so it’s best to check the official website for comprehensive visitor services.
+Specific amenities such as restrooms and cafes are not mentioned, so it's best to check the official website for comprehensive visitor services.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider weather conditions when planning your outfit.

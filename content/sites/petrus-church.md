@@ -62,7 +62,7 @@ As you prepare for your visit, be mindful of any seasonal considerations that ma
 
 While visiting Petrus Church, take the opportunity to explore other attractions in the vicinity that add to the cultural richness of Kiel. Here are a few noteworthy places:
 
-1. **Kiel Maritime Museum**: This museum offers insights into the maritime history of Kiel and the surrounding area, showcasing artifacts and exhibits related to the city’s naval heritage.
+1. **Kiel Maritime Museum**: This museum offers insights into the maritime history of Kiel and the surrounding area, showcasing artifacts and exhibits related to the city's naval heritage.
 
 2. **St. Nicholas Church**: Another significant church in Kiel, known for its impressive architecture and historical importance, offering a great comparison to Petrus Church.
 

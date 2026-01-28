@@ -38,7 +38,7 @@ The Research Library Dillingen has a storied past that reflects the evolution of
 
 Throughout its history, the library has adapted to the changing needs of its community, ensuring that it remains relevant in an age where digital access to information is prevalent. This adaptability is a testament to its enduring significance in the realm of academia and community education. The library has hosted numerous events, lectures, and workshops that promote intellectual engagement and lifelong learning, further solidifying its role as a cornerstone of educational resources in the region.
 
-The library’s dedication to research and scholarship provides invaluable support to students, educators, and researchers alike. It serves as a critical resource for those pursuing higher education and scholarship, underscoring the importance of libraries in fostering knowledge and academic inquiry.
+The library's dedication to research and scholarship provides invaluable support to students, educators, and researchers alike. It serves as a critical resource for those pursuing higher education and scholarship, underscoring the importance of libraries in fostering knowledge and academic inquiry.
 
 ## Architecture and Features
 
@@ -75,7 +75,7 @@ If you are interested in photography, be mindful of the library's policies regar
 
 ## Practical Information
 
-When visiting the Research Library Dillingen, it’s advisable to bring along any materials you might need for your research or study, such as notebooks or laptops. A valid form of identification may also be necessary for registration purposes.
+When visiting the Research Library Dillingen, it's advisable to bring along any materials you might need for your research or study, such as notebooks or laptops. A valid form of identification may also be necessary for registration purposes.
 
 Consider the season when planning your visit, as weather conditions may affect your travel plans. Dressing in layers can be helpful, as libraries can vary in temperature. 
 
@@ -100,7 +100,7 @@ Information regarding accessibility features can be confirmed by consulting the 
 Check the official website for information on ticket purchasing options and any potential fees.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but it’s advisable to verify with the library directly. Additionally, inquire about nearby cafes for refreshments.
+Facilities such as restrooms may be available, but it's advisable to verify with the library directly. Additionally, inquire about nearby cafes for refreshments.
 
 ### What should I wear?
 Dress comfortably, considering the weather and the library's atmosphere, which is conducive to study and reflection.

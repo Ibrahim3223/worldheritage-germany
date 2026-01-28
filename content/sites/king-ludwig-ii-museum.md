@@ -44,7 +44,7 @@ The King Ludwig II Museum is thoughtfully designed to reflect the aesthetics tha
 
 Inside, visitors will find a variety of exhibits that showcase furniture, artworks, and artifacts connected to Ludwig II. These displays not only highlight the king's personal tastes but also serve as a window into the cultural milieu of his era. The layout of the museum is designed to facilitate an engaging visitor experience, with spaces that encourage exploration and reflection on the life and legacy of this fascinating monarch.
 
-Whether it’s the intricate designs of the exhibits or the overall ambiance of the museum, each aspect is curated to enhance visitors' understanding of Ludwig II's profound influence on Bavarian culture and the arts.
+Whether it's the intricate designs of the exhibits or the overall ambiance of the museum, each aspect is curated to enhance visitors' understanding of Ludwig II's profound influence on Bavarian culture and the arts.
 
 ## Visiting Information
 

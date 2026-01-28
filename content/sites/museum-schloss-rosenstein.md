@@ -105,7 +105,7 @@ Accessibility information can vary. It is advisable to contact the museum direct
 Ticketing options, including online purchases, can be verified on the official website. Check for any special promotions or discounts as well.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available within the museum. Food options may vary, so it’s best to check the official website for the latest information on cafes or dining areas.
+Facilities such as restrooms are typically available within the museum. Food options may vary, so it's best to check the official website for the latest information on cafes or dining areas.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the season and expected weather conditions. Comfortable walking shoes are recommended for exploring both the museum and the park.

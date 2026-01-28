@@ -61,7 +61,7 @@ While the Basilica of St. Quirinus is a highlight in itself, several nearby attr
 1. **Neuss City Museum**: Explore the local history and cultural artifacts that tell the story of Neuss through the ages.
 2. **Rheinpark**: A scenic park along the Rhine River, perfect for leisurely walks and enjoying nature.
 3. **St. Martin's Church**: Another remarkable church nearby, offering insights into the region's religious history.
-4. **Historic Old Town**: Wander through the charming streets of Neuss, lined with shops and cafes, reflecting the city’s vibrant culture.
+4. **Historic Old Town**: Wander through the charming streets of Neuss, lined with shops and cafes, reflecting the city's vibrant culture.
 5. **Theater der Stadt Neuss**: If you're interested in the arts, check out the program for performances at this local theater.
 
 ## Insider Tips
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. This ap
 
 ## Practical Information
 
-When visiting, it’s advisable to dress modestly, reflecting the basilica's status as a place of worship. Comfortable footwear is recommended, as exploring the area may involve some walking.
+When visiting, it's advisable to dress modestly, reflecting the basilica's status as a place of worship. Comfortable footwear is recommended, as exploring the area may involve some walking.
 
 Seasonal considerations can influence your visit. Spring and early autumn often provide pleasant weather for exploring both the cathedral and the surrounding attractions. Be sure to check the official website for any updates on events or services that may affect visiting hours.
 
@@ -97,7 +97,7 @@ Accessibility options may be available, but it's advisable to check the official
 Ticketing information can vary; please consult the official website for the most current details.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to check upon arrival or explore the surrounding area for amenities.
+Facilities may be available nearby, but it's best to check upon arrival or explore the surrounding area for amenities.
 
 ### What should I wear?
 Modest attire is recommended, in keeping with the respectful atmosphere of the basilica.

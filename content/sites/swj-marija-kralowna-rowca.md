@@ -48,7 +48,7 @@ The surrounding environment, which often includes gardens or open spaces, comple
 
 ## Visiting Information
 
-Traveling to Swj. Marija, kralowna różowca, is relatively straightforward, given its location in Radibor. Visitors can reach the church via various modes of transportation, although specific transport options are not detailed. It’s advisable to check local transit information for the most efficient routes.
+Traveling to Swj. Marija, kralowna różowca, is relatively straightforward, given its location in Radibor. Visitors can reach the church via various modes of transportation, although specific transport options are not detailed. It's advisable to check local transit information for the most efficient routes.
 
 While visiting, guests can expect a peaceful atmosphere conducive to reflection and exploration. The church can be appreciated in a brief visit; however, those wishing to immerse themselves in the history and architecture may want to allocate additional time. Although specific hours and prices are not mentioned, check the official website for current information to plan your visit effectively.
 
@@ -69,7 +69,7 @@ These attractions provide an opportunity to delve deeper into the local culture 
 
 To make the most of your visit to Swj. Marija, consider bringing a camera to capture the church's unique architectural features. However, be respectful of the sacred nature of the site and the privacy of worshippers. Early mornings or late afternoons might be the best times to avoid larger crowds, allowing for a more personal experience.
 
-In addition, engaging with locals can provide valuable insights into the community's traditions and the church's significance. Participating in any scheduled services can also deepen your understanding of the site’s role in daily life.
+In addition, engaging with locals can provide valuable insights into the community's traditions and the church's significance. Participating in any scheduled services can also deepen your understanding of the site's role in daily life.
 
 ## Practical Information
 

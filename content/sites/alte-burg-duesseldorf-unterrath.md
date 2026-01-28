@@ -30,15 +30,15 @@ Alte Burg's history is interwoven with the broader narrative of the Düsseldorf 
 
 The cultural importance of Alte Burg can be appreciated through its architectural style and the role it played in the socio-political landscape of the area. Castles like Alte Burg were often centers of power, where nobles would govern their lands and provide protection to the surrounding populace. They were also places of social gathering, reflecting the customs and traditions of the time.
 
-As urban development has progressed in Düsseldorf, Alte Burg remains a vital link to the region’s past. Its preservation not only honors the architectural techniques of the era but also serves as a reminder of the historical events that have shaped the identity of Düsseldorf-Unterrath. By engaging with this site, visitors can gain a deeper understanding of the complexities of medieval life and the enduring legacy of such structures in modern society.
+As urban development has progressed in Düsseldorf, Alte Burg remains a vital link to the region's past. Its preservation not only honors the architectural techniques of the era but also serves as a reminder of the historical events that have shaped the identity of Düsseldorf-Unterrath. By engaging with this site, visitors can gain a deeper understanding of the complexities of medieval life and the enduring legacy of such structures in modern society.
 
 ## Architecture and Features
 
-The architectural features of Alte Burg are reflective of the castle's historical context. While specific details about its design may not be available, castles typically exhibit characteristics such as robust stone walls, fortified towers, and intricately designed entrances. These elements were essential for both defense and showcasing the wealth and power of the castle’s inhabitants.
+The architectural features of Alte Burg are reflective of the castle's historical context. While specific details about its design may not be available, castles typically exhibit characteristics such as robust stone walls, fortified towers, and intricately designed entrances. These elements were essential for both defense and showcasing the wealth and power of the castle's inhabitants.
 
-Visitors to Alte Burg can appreciate the castle’s structure, which often includes a central courtyard surrounded by living quarters and service areas. The layout of such castles was designed to accommodate both daily life and the needs of a garrison when necessary. The stronghold’s design often reflects the artistic styles of the era, which may include Gothic or Romanesque influences, depending on the period of construction.
+Visitors to Alte Burg can appreciate the castle's structure, which often includes a central courtyard surrounded by living quarters and service areas. The layout of such castles was designed to accommodate both daily life and the needs of a garrison when necessary. The stronghold's design often reflects the artistic styles of the era, which may include Gothic or Romanesque influences, depending on the period of construction.
 
-Though specific features and details about Alte Burg's interior may be limited, one can imagine the historical significance of the spaces within these walls, from grand halls used for feasts and gatherings to private chambers that housed nobility. The castle’s exterior, too, tells a story of endurance, having weathered the test of time while serving various functions over the years.
+Though specific features and details about Alte Burg's interior may be limited, one can imagine the historical significance of the spaces within these walls, from grand halls used for feasts and gatherings to private chambers that housed nobility. The castle's exterior, too, tells a story of endurance, having weathered the test of time while serving various functions over the years.
 
 ## Visiting Information
 

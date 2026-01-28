@@ -86,7 +86,7 @@ Bringing a water bottle can be beneficial, as exploring the museum and nearby si
 Visitors typically spend around two to three hours at the museum to fully engage with the exhibits.
 
 ### Is photography allowed?
-Check the museum’s policy regarding photography, as rules may vary.
+Check the museum's policy regarding photography, as rules may vary.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website or at the museum.
@@ -106,4 +106,4 @@ Facilities such as restrooms and cafes may be available; refer to the official w
 ### What should I wear?
 Comfortable clothing and shoes are recommended, with seasonal attire based on the weather. 
 
-The Art Kite Museum, although no longer operational, remains a notable chapter in Detmold’s cultural landscape, reflecting the enduring charm and significance of kite artistry.
+The Art Kite Museum, although no longer operational, remains a notable chapter in Detmold's cultural landscape, reflecting the enduring charm and significance of kite artistry.

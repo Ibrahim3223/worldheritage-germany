@@ -22,7 +22,7 @@ images:
 
 In the heart of Dresden-Neustadt, the Deutsche Stiftung Kranke Neugeborene serves a crucial role in the realm of pediatric healthcare. This German foundation is dedicated to enhancing medical care and nursing for sick newborns and their families, addressing an often-overlooked aspect of healthcare. The foundation's mission is not only to provide immediate medical assistance but also to foster projects that improve long-term health outcomes and support systems for families navigating the challenges of infant illness. 
 
-Dresden, a city renowned for its rich cultural heritage and stunning architecture, provides an ideal backdrop for such a vital institution. As you explore the area, you will find an intersection of history, culture, and a commitment to improving lives. Visiting the Deutsche Stiftung Kranke Neugeborene is not just an opportunity to learn about healthcare advancements; it’s a chance to understand the compassionate side of medicine that prioritizes families and their needs. 
+Dresden, a city renowned for its rich cultural heritage and stunning architecture, provides an ideal backdrop for such a vital institution. As you explore the area, you will find an intersection of history, culture, and a commitment to improving lives. Visiting the Deutsche Stiftung Kranke Neugeborene is not just an opportunity to learn about healthcare advancements; it's a chance to understand the compassionate side of medicine that prioritizes families and their needs. 
 
 This guide will delve into the foundation's history, significance, and features, as well as provide practical tips for those looking to visit this pivotal institution. 
 
@@ -58,7 +58,7 @@ After your visit to the Deutsche Stiftung Kranke Neugeborene, consider exploring
 
 1. **Dresden Botanical Garden**: A beautiful space showcasing a variety of plant species, ideal for leisurely strolls and enjoying nature.
 2. **Kunsthofpassage**: A unique complex of courtyards filled with art, shops, and cafes, perfect for discovering local creativity and culture.
-3. **Dresden Castle**: A historic landmark that offers a glimpse into the city’s royal past, with museums and exhibitions to explore.
+3. **Dresden Castle**: A historic landmark that offers a glimpse into the city's royal past, with museums and exhibitions to explore.
 4. **Frauenkirche**: An iconic church renowned for its stunning architecture and history, a must-see for anyone visiting Dresden.
 5. **Albertinum**: A museum housing a collection of modern art, it provides an enriching cultural experience just a short distance away.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Deutsche Stiftung Kranke Neugeborene, cons
 
 - **Photography**: While capturing memories is important, be sure to respect the privacy of families and the sensitive nature of the environment. Always ask for permission before taking photos.
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays rather than weekends. Early morning visits may also help you avoid larger crowds.
-- **Engage with Staff**: Don’t hesitate to interact with the staff and volunteers. They can provide valuable insights into the foundation's work and may offer additional information about specific programs.
+- **Engage with Staff**: Don't hesitate to interact with the staff and volunteers. They can provide valuable insights into the foundation's work and may offer additional information about specific programs.
 
 ## Practical Information
 

@@ -78,9 +78,9 @@ To sidestep larger groups, consider visiting during weekdays. This allows for a 
 
 ## Practical Information
 
-When planning your visit to Vogthaus, it’s wise to bring along a few essentials. Comfortable walking shoes are recommended, as the surrounding area is best explored on foot. Depending on the season, layering your clothing may be beneficial to accommodate changing temperatures throughout the day.
+When planning your visit to Vogthaus, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as the surrounding area is best explored on foot. Depending on the season, layering your clothing may be beneficial to accommodate changing temperatures throughout the day.
 
-It’s also advisable to check the weather forecast before your visit, as rain can influence your plans for outdoor exploration. Keep in mind that seasonal events may enhance your experience, so staying informed about local happenings can add an extra layer of enjoyment to your trip.
+It's also advisable to check the weather forecast before your visit, as rain can influence your plans for outdoor exploration. Keep in mind that seasonal events may enhance your experience, so staying informed about local happenings can add an extra layer of enjoyment to your trip.
 
 ## Frequently Asked Questions
 

@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during weekdays rather than weekends. This timi
 
 ## Practical Information
 
-When visiting the Gustav-Schwab-Museum, it’s wise to bring a few essentials to enhance your experience. A water bottle can be handy, especially if you plan to explore nearby attractions afterward. Comfortable walking shoes are recommended, as you may find yourself wandering through the museum and beyond.
+When visiting the Gustav-Schwab-Museum, it's wise to bring a few essentials to enhance your experience. A water bottle can be handy, especially if you plan to explore nearby attractions afterward. Comfortable walking shoes are recommended, as you may find yourself wandering through the museum and beyond.
 
 Seasonal considerations can also play a role in your visit. If you are traveling during colder months, be sure to dress warmly, as temperatures can drop significantly. Conversely, summer months may require lighter clothing to stay comfortable during outdoor explorations.
 

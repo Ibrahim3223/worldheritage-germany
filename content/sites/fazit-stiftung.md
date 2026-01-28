@@ -28,13 +28,13 @@ As an institution focused on educational initiatives, Fazit-Stiftung offers a va
 
 Though specific historical details about Fazit-Stiftung are limited, its establishment reflects a broader movement in Germany to create foundations that support cultural and educational initiatives. This trend has gained momentum over the years, as societies recognize the importance of preserving cultural heritage and facilitating access to knowledge.
 
-Culturally, Fazit-Stiftung plays a pivotal role in Frankfurt, a city that historically has been a hub for trade, finance, and intellectual discourse. The foundation’s initiatives are aligned with the city’s legacy of fostering innovation and creativity, making it an integral part of Frankfurt's cultural fabric. By promoting educational programs and cultural events, Fazit-Stiftung contributes to the ongoing dialogue about heritage and its relevance in contemporary society.
+Culturally, Fazit-Stiftung plays a pivotal role in Frankfurt, a city that historically has been a hub for trade, finance, and intellectual discourse. The foundation's initiatives are aligned with the city's legacy of fostering innovation and creativity, making it an integral part of Frankfurt's cultural fabric. By promoting educational programs and cultural events, Fazit-Stiftung contributes to the ongoing dialogue about heritage and its relevance in contemporary society.
 
 The foundation serves not only as a resource for locals but also as an invitation for visitors to engage with the cultural richness of Frankfurt. Through its programming, Fazit-Stiftung addresses contemporary issues while drawing on historical contexts, reinforcing the idea that understanding our past is essential for navigating our present and future.
 
 ## Architecture and Features
 
-While specific architectural details of the Fazit-Stiftung building are not provided, one can expect that it reflects the character of Frankfurt's architectural landscape, which ranges from medieval structures to modern skyscrapers. The foundation’s facilities are likely designed to accommodate various educational and cultural activities, providing spaces for exhibitions, lectures, and community gatherings.
+While specific architectural details of the Fazit-Stiftung building are not provided, one can expect that it reflects the character of Frankfurt's architectural landscape, which ranges from medieval structures to modern skyscrapers. The foundation's facilities are likely designed to accommodate various educational and cultural activities, providing spaces for exhibitions, lectures, and community gatherings.
 
 Typically, cultural foundations in urban settings like Frankfurt feature functional yet aesthetically pleasing designs that encourage interaction and engagement. The interior spaces are likely to be adaptable, allowing for a diverse range of programs and events that cater to different audiences. Visitors can anticipate an environment that fosters creativity and collaboration, whether through workshops, exhibitions, or discussions.
 
@@ -84,7 +84,7 @@ The ideal visit duration can vary depending on your interests. Plan for at least
 
 ### Is photography allowed?
 
-Photography policies can differ, so it’s best to check with the foundation upon arrival or refer to any posted guidelines.
+Photography policies can differ, so it's best to check with the foundation upon arrival or refer to any posted guidelines.
 
 ### Are there guided tours?
 

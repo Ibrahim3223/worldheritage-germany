@@ -82,7 +82,7 @@ These nearby attractions provide further opportunities for exploration and enjoy
 
 To enhance your visit to Tornowsee, consider these insider tips:
 
-- **Photography Opportunities**: The lake’s natural beauty provides numerous opportunities for photography. Early morning or late afternoon light can create stunning reflections on the water, making for captivating images.
+- **Photography Opportunities**: The lake's natural beauty provides numerous opportunities for photography. Early morning or late afternoon light can create stunning reflections on the water, making for captivating images.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting during weekdays or early in the morning can help you avoid larger crowds, particularly in the summer months.
 

@@ -50,9 +50,9 @@ Surrounding the manor, visitors can expect to find gardens and landscaped areas,
 
 Visiting Gutshaus Quassel allows you to immerse yourself in the heritage of Lübtheen. The manor house is accessible by various means of transportation, making it convenient for both local and international travelers. If you are driving, ample parking may be available near the site. For those relying on public transport, check the local schedules for buses or trains that connect to Lübtheen.
 
-When planning your visit, it’s wise to check the official website for current information on hours, prices, and any special events that may be taking place. The experience at Gutshaus Quassel can vary based on the time of year, with each season offering unique aspects of the manor and its surroundings.
+When planning your visit, it's wise to check the official website for current information on hours, prices, and any special events that may be taking place. The experience at Gutshaus Quassel can vary based on the time of year, with each season offering unique aspects of the manor and its surroundings.
 
-Expect to spend a leisurely few hours exploring the grounds and the architectural features of the manor. This time allows for a deeper appreciation of the site’s historical context and architectural beauty. The best times to visit are typically during the milder months when the gardens are in bloom, enhancing the overall experience of your visit.
+Expect to spend a leisurely few hours exploring the grounds and the architectural features of the manor. This time allows for a deeper appreciation of the site's historical context and architectural beauty. The best times to visit are typically during the milder months when the gardens are in bloom, enhancing the overall experience of your visit.
 
 ## Nearby Attractions
 
@@ -60,7 +60,7 @@ While visiting Gutshaus Quassel, consider exploring other notable attractions in
 
 1. **Lübtheen Town Center**: A charming area with local shops and cafes, perfect for enjoying a meal or coffee after your visit to the manor.
    
-2. **Schloss Ludwigslust**: Located nearby, this baroque palace offers a glimpse into the opulence of the region’s noble history and features beautiful gardens.
+2. **Schloss Ludwigslust**: Located nearby, this baroque palace offers a glimpse into the opulence of the region's noble history and features beautiful gardens.
 
 3. **Nature Reserves**: The surrounding landscape includes various nature reserves ideal for walking, birdwatching, and enjoying the natural beauty of Mecklenburg-Vorpommern.
 
@@ -72,7 +72,7 @@ While visiting Gutshaus Quassel, consider exploring other notable attractions in
 
 To enhance your visit to Gutshaus Quassel, keep the following tips in mind:
 
-- **Photography**: While many heritage sites welcome photography, it’s advisable to check for any restrictions, especially indoors. The architecture provides excellent opportunities for captivating photos, so bring a good camera or smartphone.
+- **Photography**: While many heritage sites welcome photography, it's advisable to check for any restrictions, especially indoors. The architecture provides excellent opportunities for captivating photos, so bring a good camera or smartphone.
 
 - **Crowd Avoidance**: If you prefer to enjoy a quieter experience, consider visiting during weekdays or outside of peak tourist seasons. Mornings often attract fewer visitors, allowing for a more peaceful exploration.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Museum DKM is an art museum located in Duisburg, Germany, serving as a cultural hub for both locals and visitors alike. This contemporary art space is dedicated to showcasing a diverse range of artworks that often challenge traditional boundaries, making it a thought-provoking destination for art enthusiasts and casual visitors. The museum's commitment to promoting modern art and fostering cultural dialogue places it at the forefront of Duisburg's vibrant artistic scene.
 
-Situated in the heart of the Ruhr area, the museum is part of a region known for its industrial heritage and cultural renaissance. The transformation of Duisburg from a former industrial city to a center for creativity and innovation is mirrored in the museum’s mission to engage with contemporary art. Visitors can expect to encounter a dynamic collection that reflects the evolving nature of the art world, with exhibitions that often feature both established and emerging artists from various backgrounds.
+Situated in the heart of the Ruhr area, the museum is part of a region known for its industrial heritage and cultural renaissance. The transformation of Duisburg from a former industrial city to a center for creativity and innovation is mirrored in the museum's mission to engage with contemporary art. Visitors can expect to encounter a dynamic collection that reflects the evolving nature of the art world, with exhibitions that often feature both established and emerging artists from various backgrounds.
 
 A visit to Museum DKM promises an enriching experience, offering insights into contemporary artistic practices while encouraging reflection on broader societal issues. Whether you are an avid art lover or someone looking to explore the cultural landscape of Duisburg, the museum invites you to immerse yourself in its unique artistic offerings.
 
@@ -72,13 +72,13 @@ Duisburg is home to several attractions that complement a visit to Museum DKM:
 
 ## Insider Tips
 
-- **Photography**: Be mindful of the museum’s policy on photography. While some exhibitions may allow photography, others may not. Always check for signage or inquire at the reception.
+- **Photography**: Be mindful of the museum's policy on photography. While some exhibitions may allow photography, others may not. Always check for signage or inquire at the reception.
   
 - **Crowd Avoidance**: To enjoy a quieter experience, plan your visit during the weekdays or during off-peak hours, especially if there are special exhibitions.
 
-- **Engage with Staff**: Museum staff can often provide valuable insights into the artworks and exhibitions. Don’t hesitate to ask questions during your visit.
+- **Engage with Staff**: Museum staff can often provide valuable insights into the artworks and exhibitions. Don't hesitate to ask questions during your visit.
 
-- **Check for Events**: Look for any workshops or guided tours scheduled during your visit, as these can provide a deeper understanding of the artworks and the artists’ intentions.
+- **Check for Events**: Look for any workshops or guided tours scheduled during your visit, as these can provide a deeper understanding of the artworks and the artists' intentions.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ The museum may offer guided tours, providing insights into the exhibitions. Chec
 Visiting during weekdays or outside of peak hours can enhance your experience by avoiding larger crowds.
 
 ### Is it wheelchair accessible?
-Most modern museums are designed to be accessible. However, it’s best to confirm specific accessibility features on the museum's official website.
+Most modern museums are designed to be accessible. However, it's best to confirm specific accessibility features on the museum's official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchasing options, which can simplify your visit.

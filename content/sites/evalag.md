@@ -38,7 +38,7 @@ The architectural style of evalag reflects its functional purpose as a foundatio
 
 Noteworthy features that visitors might encounter include contemporary designs that promote open communication and accessibility. The foundation likely incorporates elements that support its mission, such as technology-enabled meeting spaces and resources for both staff and visiting educators. 
 
-To fully appreciate the structure and its surroundings, visitors are encouraged to explore the area around evalag, which is likely to be characterized by elements of Heidelberg's charm, including tree-lined streets and historic buildings that reflect the city’s academic tradition.
+To fully appreciate the structure and its surroundings, visitors are encouraged to explore the area around evalag, which is likely to be characterized by elements of Heidelberg's charm, including tree-lined streets and historic buildings that reflect the city's academic tradition.
 
 ## Visiting Information
 

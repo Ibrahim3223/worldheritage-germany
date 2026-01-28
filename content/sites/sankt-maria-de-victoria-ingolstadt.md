@@ -40,7 +40,7 @@ As a religious site, Sankt Maria de Victoria has also contributed to the spiritu
 
 ## Architecture and Features
 
-Sankt Maria de Victoria showcases architectural elements that reflect the styles prevalent in church buildings throughout the region. Its façade likely features intricate designs and details that highlight the craftsmanship of the era in which it was built. As visitors approach, they will notice the church’s exterior, which may include a combination of stone and other materials typical of ecclesiastical structures.
+Sankt Maria de Victoria showcases architectural elements that reflect the styles prevalent in church buildings throughout the region. Its façade likely features intricate designs and details that highlight the craftsmanship of the era in which it was built. As visitors approach, they will notice the church's exterior, which may include a combination of stone and other materials typical of ecclesiastical structures.
 
 Inside, the church is expected to reveal a serene ambiance, characterized by the use of natural light filtering through stained glass windows. These windows often depict biblical scenes or saints, enriching the spiritual atmosphere and providing visual storytelling that connects worshippers to their faith. The interior layout, typically featuring a nave, side aisles, and an altar, is designed to facilitate both individual reflection and communal worship.
 

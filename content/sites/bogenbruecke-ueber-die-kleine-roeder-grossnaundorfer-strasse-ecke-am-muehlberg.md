@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Bogenbrücke über die Kleine Röder, situated at the intersection of Großnaundorfer Straße and Am Mühlberg, is a significant architectural feature in the Wachau region of Germany. This bridge not only serves as a functional crossing over the Kleine Röder stream but also captures the attention of those interested in the intricate relationship between infrastructure and landscape. The bridge’s strategic location and design reflect the ingenuity of civil engineering, making it a notable stop for both history enthusiasts and casual visitors alike.
+The Bogenbrücke über die Kleine Röder, situated at the intersection of Großnaundorfer Straße and Am Mühlberg, is a significant architectural feature in the Wachau region of Germany. This bridge not only serves as a functional crossing over the Kleine Röder stream but also captures the attention of those interested in the intricate relationship between infrastructure and landscape. The bridge's strategic location and design reflect the ingenuity of civil engineering, making it a notable stop for both history enthusiasts and casual visitors alike.
 
 The Wachau region, known for its stunning landscapes, vineyards, and historical sites, provides a picturesque backdrop to this bridge. As you explore the area, the Bogenbrücke stands out as a reminder of the importance of connectivity in both historical and modern contexts. This guide aims to immerse you in the bridge's significance, architectural features, and the surrounding area, ensuring you have an enriching experience when visiting this unique site.
 
@@ -30,7 +30,7 @@ The Bogenbrücke über die Kleine Röder exemplifies the evolution of bridge con
 
 Historically, the construction of bridges often coincided with periods of growth and development in surrounding towns. The Bogenbrücke likely contributed to the expansion of the nearby settlements, enabling easier access for goods and people. Such infrastructure projects are indicative of broader historical trends, including urbanization and the movement of populations.
 
-The bridge’s location at the intersection of important roads further emphasizes its significance. By linking various routes, the Bogenbrücke has helped shape the social and economic landscape of the area. The bridge serves not only as a transportation link but also as a cultural monument, reminding visitors of the ingenuity and craftsmanship that goes into creating lasting structures.
+The bridge's location at the intersection of important roads further emphasizes its significance. By linking various routes, the Bogenbrücke has helped shape the social and economic landscape of the area. The bridge serves not only as a transportation link but also as a cultural monument, reminding visitors of the ingenuity and craftsmanship that goes into creating lasting structures.
 
 ## Architecture and Features
 

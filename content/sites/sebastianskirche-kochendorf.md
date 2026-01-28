@@ -74,7 +74,7 @@ Once you have explored Sebastianskirche Kochendorf, consider visiting these near
 
 When visiting Sebastianskirche Kochendorf, here are some tips to enhance your experience:
 
-- **Photography**: Capture the church’s beauty while being respectful of worshippers and the serene atmosphere. Early mornings or late afternoons often provide the best natural light.
+- **Photography**: Capture the church's beauty while being respectful of worshippers and the serene atmosphere. Early mornings or late afternoons often provide the best natural light.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or outside of major religious holidays when the church may host larger gatherings.
 

@@ -78,7 +78,7 @@ To make the most of your visit to the German Food Additives Museum, consider the
 
 ## Practical Information
 
-When planning your visit to the German Food Additives Museum, it’s advisable to bring along a few essentials. A notebook or a digital device can be helpful for taking notes, especially if you are particularly interested in the scientific aspects of food additives.
+When planning your visit to the German Food Additives Museum, it's advisable to bring along a few essentials. A notebook or a digital device can be helpful for taking notes, especially if you are particularly interested in the scientific aspects of food additives.
 
 Check for any seasonal considerations, as certain exhibits may change or be updated throughout the year. Additionally, be sure to check the official website for any specific guidelines regarding visitor requirements or recommendations.
 
@@ -97,13 +97,13 @@ Check the official website for information on guided tours, as they may offer en
 Weekdays are often less crowded than weekends, making them a preferable time for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility information should be confirmed through the museum’s official website to ensure a comfortable visit for all guests.
+Accessibility information should be confirmed through the museum's official website to ensure a comfortable visit for all guests.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases, as availability may vary.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes will typically be available; however, it’s advisable to verify this on the museum's website or inquire upon arrival.
+Facilities such as restrooms and cafes will typically be available; however, it's advisable to verify this on the museum's website or inquire upon arrival.
 
 ### What should I wear?
 Dress comfortably for a day of exploration, and consider layers to accommodate indoor climate control.

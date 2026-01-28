@@ -52,7 +52,7 @@ Expect a tranquil atmosphere, perfect for leisurely walks, photography, or simpl
 
 ## Nearby Attractions
 
-1. **Vineyards of Radebeul**: Explore the surrounding vineyards that contribute to the town’s famous wine production. Many offer tours and tastings.
+1. **Vineyards of Radebeul**: Explore the surrounding vineyards that contribute to the town's famous wine production. Many offer tours and tastings.
    
 2. **Karl May Museum**: Located nearby, this museum is dedicated to the life and works of the renowned author Karl May, who is closely associated with the region.
 
@@ -60,7 +60,7 @@ Expect a tranquil atmosphere, perfect for leisurely walks, photography, or simpl
 
 4. **Lößnitzgrund Railway**: Experience a charming train ride through the scenic Lößnitzgrund valley, which is a delightful way to see the landscape.
 
-5. **Radebeul Town Center**: Stroll through the town center, where you can find shops, cafés, and additional historical sites reflecting the region’s heritage.
+5. **Radebeul Town Center**: Stroll through the town center, where you can find shops, cafés, and additional historical sites reflecting the region's heritage.
 
 ## Insider Tips
 
@@ -97,7 +97,7 @@ Check the official website for details regarding accessibility options within th
 Check the official website for information regarding any entry fees or events that may require tickets.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the valley; it’s best to bring your own refreshments or plan to visit nearby establishments.
+Facilities may be limited within the valley; it's best to bring your own refreshments or plan to visit nearby establishments.
 
 ### What should I wear?
 Comfortable walking shoes and weather-appropriate clothing are recommended for an enjoyable visit.

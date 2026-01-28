@@ -34,7 +34,7 @@ This facility not only showcases the spirit of athleticism but also reflects the
 
 While specific historical details about Lausitz-Arena are not readily available, the venue's role within the Cottbus sports and cultural scene is noteworthy. As a multi-purpose hall, it serves as a critical infrastructure for the community, facilitating a variety of events that cater to diverse interests. Its establishment has likely played a significant role in promoting sports and cultural activities in the region, fostering community spirit and engagement.
 
-Cottbus itself has a rich cultural heritage and is known for its contributions to the arts and sports, making Lausitz-Arena a fitting addition to the city’s landscape. The arena provides a space not only for professional athletes but also for local teams and organizations, reinforcing its importance as a gathering place for the community. The events held at the arena often draw large crowds, creating an atmosphere of excitement and unity among attendees.
+Cottbus itself has a rich cultural heritage and is known for its contributions to the arts and sports, making Lausitz-Arena a fitting addition to the city's landscape. The arena provides a space not only for professional athletes but also for local teams and organizations, reinforcing its importance as a gathering place for the community. The events held at the arena often draw large crowds, creating an atmosphere of excitement and unity among attendees.
 
 In addition to sporting events, Lausitz-Arena is used for concerts and exhibitions, showcasing a wide array of talents and interests. This versatility enhances its significance as a cultural landmark in Cottbus, contributing to the city's appeal as a destination for both residents and visitors.
 
@@ -60,7 +60,7 @@ Cottbus is home to a variety of attractions that complement a visit to Lausitz-A
 
 1. **Cottbus State Theatre**: A cultural institution that offers a range of performances, including opera, ballet, and drama. The theatre is an excellent place to experience the local arts scene.
 
-2. **Branitz Park**: A beautifully landscaped park featuring the famous Branitz Castle, designed by Prince Hermann von Pückler-Muskau. It’s a great spot for leisurely walks and enjoying nature.
+2. **Branitz Park**: A beautifully landscaped park featuring the famous Branitz Castle, designed by Prince Hermann von Pückler-Muskau. It's a great spot for leisurely walks and enjoying nature.
 
 3. **Cottbus Zoo**: A family-friendly destination that showcases a variety of animal species. It is ideal for visitors of all ages looking for a fun outing.
 

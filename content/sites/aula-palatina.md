@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Aula Palatina, an ecclesiastical building located in the historic city of Trier, Germany, is an architectural marvel that draws visitors from around the globe. Known for its impressive scale and remarkable preservation, this church building serves as a significant landmark in the region, rich in both cultural and historical importance. Situated in one of Germany’s oldest cities, Aula Palatina offers a glimpse into the grandeur of early Christian architecture and the evolution of ecclesiastical design. With its striking features and serene ambience, it promises an enriching experience for history enthusiasts, architecture lovers, and spiritual seekers alike.
+Aula Palatina, an ecclesiastical building located in the historic city of Trier, Germany, is an architectural marvel that draws visitors from around the globe. Known for its impressive scale and remarkable preservation, this church building serves as a significant landmark in the region, rich in both cultural and historical importance. Situated in one of Germany's oldest cities, Aula Palatina offers a glimpse into the grandeur of early Christian architecture and the evolution of ecclesiastical design. With its striking features and serene ambience, it promises an enriching experience for history enthusiasts, architecture lovers, and spiritual seekers alike.
 
 Trier, nestled along the banks of the Moselle River, is often referred to as the oldest city in Germany, boasting a history that dates back to Roman times. The Aula Palatina itself holds a unique position within this tapestry of history, offering insights into early Christian worship and community life. Visitors can expect to be captivated by its historical significance and the stories encapsulated within its walls. This guide aims to provide a comprehensive overview of Aula Palatina, its history, architecture, and practical information for prospective visitors.
 
@@ -76,7 +76,7 @@ While in Trier, visitors have the opportunity to explore several other notable a
 
 Photography enthusiasts will find ample opportunities to capture the beauty of Aula Palatina. The interplay of light within the building creates stunning photographic moments, particularly during the golden hours of early morning or late afternoon. However, be sure to respect any restrictions on photography, particularly during services or events.
 
-To avoid crowds, consider visiting during weekdays or off-peak seasons. Early mornings typically offer a more tranquil atmosphere, allowing for a deeper appreciation of the site’s historical ambiance. Engaging with the space in solitude can enhance your experience and provide a moment of reflection.
+To avoid crowds, consider visiting during weekdays or off-peak seasons. Early mornings typically offer a more tranquil atmosphere, allowing for a deeper appreciation of the site's historical ambiance. Engaging with the space in solitude can enhance your experience and provide a moment of reflection.
 
 ## Practical Information
 
@@ -105,7 +105,7 @@ Accessibility features may be available, but it is advisable to check the offici
 Ticket purchasing options may vary, so be sure to check the official website for details on online ticketing.
 
 ### Are there restrooms and cafes?
-Visitor amenities such as restrooms and cafes may be available nearby. It’s a good idea to check the official website for specific information.
+Visitor amenities such as restrooms and cafes may be available nearby. It's a good idea to check the official website for specific information.
 
 ### What should I wear?
 Dress comfortably and respectfully, keeping in mind the sacred nature of the building. Layers are recommended for varying temperatures.

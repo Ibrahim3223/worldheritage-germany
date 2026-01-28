@@ -30,7 +30,7 @@ The history of D-7-8327-0005 is intertwined with the larger narrative of Buchenb
 
 Fortifications served multiple purposes. They were not just military installations; they were symbols of power and authority. The presence of such a structure would have communicated strength to both potential invaders and the local population. The architectural choices made in constructing the fortification also conveyed cultural values, illustrating the importance placed on safety and community cohesion.
 
-Today, the fortification stands as a cultural heritage monument that continues to tell the story of Buchenberg’s past. It offers insights into the lives of those who once inhabited the area, showcasing how military needs shaped the community's evolution over time. Visitors can engage with this history through exploration and reflection, walking the same grounds that once served as a protective barrier for the inhabitants of the region.
+Today, the fortification stands as a cultural heritage monument that continues to tell the story of Buchenberg's past. It offers insights into the lives of those who once inhabited the area, showcasing how military needs shaped the community's evolution over time. Visitors can engage with this history through exploration and reflection, walking the same grounds that once served as a protective barrier for the inhabitants of the region.
 
 ## Architecture and Features
 

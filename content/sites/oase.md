@@ -68,11 +68,11 @@ Upon arrival, visitors can expect an inviting atmosphere, with opportunities to 
 
 To capture the essence of Oase through photography, consider visiting during the early morning or late afternoon when natural light creates an inviting ambiance. The interplay of light within the open spaces can yield stunning photographic opportunities. If you prefer a quieter experience, aim for mid-week visits, as weekends may attract larger crowds due to events and activities.
 
-Engaging with the staff or volunteers at Oase can also enhance your visit, as they often have insights into the site's history and upcoming events. Don’t hesitate to ask questions or seek recommendations for exploring the surrounding area.
+Engaging with the staff or volunteers at Oase can also enhance your visit, as they often have insights into the site's history and upcoming events. Don't hesitate to ask questions or seek recommendations for exploring the surrounding area.
 
 ## Practical Information
 
-When visiting Oase, it’s a good idea to bring a water bottle and comfortable walking shoes, especially if you plan to explore the nearby attractions. Seasonal considerations may affect your experience; for instance, summer months may offer more outdoor events, while winter might bring a quieter atmosphere.
+When visiting Oase, it's a good idea to bring a water bottle and comfortable walking shoes, especially if you plan to explore the nearby attractions. Seasonal considerations may affect your experience; for instance, summer months may offer more outdoor events, while winter might bring a quieter atmosphere.
 
 Dress appropriately for the weather, and consider layering, as the site may have varying indoor and outdoor temperatures. Be sure to check the official website for any seasonal events that may enhance your visit.
 
@@ -97,7 +97,7 @@ Oase is designed to be accessible, though specific details may vary. Check the o
 Ticket purchasing options may vary; check the official website for details on online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available on-site, but it’s advisable to check the official website for the latest information.
+Facilities such as restrooms and cafes may be available on-site, but it's advisable to check the official website for the latest information.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, as you may be spending time both indoors and outdoors during your visit.

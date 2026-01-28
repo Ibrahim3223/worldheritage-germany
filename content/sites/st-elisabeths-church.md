@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Elisabeth's Church stands as a significant religious and architectural landmark in Marburg, Germany. This remarkable church, dedicated to St. Elisabeth of Hungary, holds an important place in the region’s cultural and spiritual landscape. Visitors are drawn to its unique Gothic architecture and the story it tells about the intersection of faith, community, and art. St. Elisabeth's Church is not just a place of worship; it is a symbol of historical resilience and artistic expression.
+St. Elisabeth's Church stands as a significant religious and architectural landmark in Marburg, Germany. This remarkable church, dedicated to St. Elisabeth of Hungary, holds an important place in the region's cultural and spiritual landscape. Visitors are drawn to its unique Gothic architecture and the story it tells about the intersection of faith, community, and art. St. Elisabeth's Church is not just a place of worship; it is a symbol of historical resilience and artistic expression.
 
 Marburg, located in the heart of Hesse, is a university town enriched by its medieval heritage. The church, with its striking silhouette against the backdrop of the city, serves as an anchor point for both locals and tourists. It is here that visitors can explore the deeper meanings behind its construction and the role it has played throughout the centuries. As you approach the church, you will find a space that invites contemplation and appreciation for its artistic and spiritual significance.
 
@@ -62,7 +62,7 @@ Expect to spend around an hour exploring the church and its surroundings. This a
 
 St. Elisabeth's Church is conveniently located near several attractions worth exploring during your visit to Marburg:
 
-1. **Marburg Castle**: This historic hilltop castle offers stunning views of the city and houses a museum that delves into the region’s history.
+1. **Marburg Castle**: This historic hilltop castle offers stunning views of the city and houses a museum that delves into the region's history.
 
 2. **The Old Botanical Garden**: A peaceful oasis where visitors can enjoy nature and learn about various plant species, making it a perfect spot for a leisurely stroll.
 
@@ -76,7 +76,7 @@ St. Elisabeth's Church is conveniently located near several attractions worth ex
 
 When visiting St. Elisabeth's Church, consider bringing a camera to capture the stunning architectural details and stained-glass windows. The interplay of light within the church creates beautiful photographic opportunities, so take your time to explore different angles.
 
-To avoid crowds, try visiting during weekdays or early in the morning before the tourist rush. This will not only enhance your experience but also give you a chance to appreciate the church’s serene atmosphere.
+To avoid crowds, try visiting during weekdays or early in the morning before the tourist rush. This will not only enhance your experience but also give you a chance to appreciate the church's serene atmosphere.
 
 ## Practical Information
 

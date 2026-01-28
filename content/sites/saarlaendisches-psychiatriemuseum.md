@@ -76,7 +76,7 @@ Also, take your time with the exhibits; the depth of information can be quite en
 
 ## Practical Information
 
-Before heading to the Saarländisches Psychiatriemuseum, it’s wise to prepare adequately. Bringing a notebook or a device for taking notes can enhance your experience, especially if you're interested in the specific historical contexts or details.
+Before heading to the Saarländisches Psychiatriemuseum, it's wise to prepare adequately. Bringing a notebook or a device for taking notes can enhance your experience, especially if you're interested in the specific historical contexts or details.
 
 Seasonal considerations may also be pertinent. Depending on the time of year, check the weather forecast and dress appropriately, as the climate can influence your overall comfort during your visit.
 

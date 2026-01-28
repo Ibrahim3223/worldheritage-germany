@@ -66,7 +66,7 @@ To avoid larger crowds, plan your visit for weekdays, especially during the scho
 
 ## Practical Information
 
-When visiting the Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese, it’s advisable to bring a camera to capture the intriguing exhibits and the beautiful surroundings. Comfortable walking shoes are recommended, as you may want to explore the nearby area after your museum visit.
+When visiting the Heimatstube des Harzklub-ZV Hahnenklee-Bockswiese, it's advisable to bring a camera to capture the intriguing exhibits and the beautiful surroundings. Comfortable walking shoes are recommended, as you may want to explore the nearby area after your museum visit.
 
 Seasonal considerations are important; be prepared for varying weather conditions, especially in the winter months when snow can affect travel plans. The museum is typically open year-round, but checking the official website for seasonal events or closures is wise.
 
@@ -76,7 +76,7 @@ Seasonal considerations are important; be prepared for varying weather condition
 A visit of 1.5 to 2 hours is recommended to fully explore the exhibits and engage with the content.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding specific guidelines.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding specific guidelines.
 
 ### Are there guided tours?
 Check the official website or inquire at the museum for information on guided tours and their availability.

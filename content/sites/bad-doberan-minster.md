@@ -84,7 +84,7 @@ To make the most of your visit to Bad Doberan Minster, consider these insider ti
 
 - **Crowd Avoidance**: If possible, visit during weekdays or during off-peak hours to enjoy a quieter experience. Early mornings are typically less crowded, allowing for peaceful exploration.
 
-- **Dress Code**: Since the Minster is a place of worship, modest attire is appreciated. It’s advisable to dress respectfully to enhance your experience and show consideration for the setting.
+- **Dress Code**: Since the Minster is a place of worship, modest attire is appreciated. It's advisable to dress respectfully to enhance your experience and show consideration for the setting.
 
 ## Practical Information
 
@@ -102,7 +102,7 @@ When planning your visit to Bad Doberan Minster, keep the following practical co
 Visitors typically spend 1-2 hours exploring the Minster and its surroundings, allowing time for contemplation and appreciation of the architecture.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s recommended to be respectful, especially during services.
+Photography is generally permitted, but it's recommended to be respectful, especially during services.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, as these can enhance your understanding of the Minster's history and significance.
@@ -117,7 +117,7 @@ While the Minster strives for accessibility, it's wise to check specific accessi
 Ticket purchasing options may vary. It is best to check the official website for information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to confirm specific amenities on the official website before your visit.
+Facilities may be available nearby, but it's advisable to confirm specific amenities on the official website before your visit.
 
 ### What should I wear?
 Modest attire is recommended, as the Minster is a place of worship. Comfortable footwear is also advised for exploring the surrounding area.

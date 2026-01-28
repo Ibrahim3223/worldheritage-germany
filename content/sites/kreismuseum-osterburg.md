@@ -44,7 +44,7 @@ In addition to its permanent collections, the Kreismuseum may host temporary exh
 
 The Kreismuseum Osterburg is housed in a structure that reflects elements typical of the region's architectural style. While specific details about the building are not provided, museums in similar settings often feature a blend of historical and contemporary design elements that invite exploration and contemplation.
 
-Inside, visitors can expect to find a thoughtfully organized layout that facilitates an engaging experience. The museum likely includes various exhibition spaces, each dedicated to different themes or time periods, allowing for a comprehensive understanding of the local heritage. The arrangement of artifacts and displays is designed to lead visitors through the narrative of Osterburg’s past, creating a cohesive story that is accessible to all.
+Inside, visitors can expect to find a thoughtfully organized layout that facilitates an engaging experience. The museum likely includes various exhibition spaces, each dedicated to different themes or time periods, allowing for a comprehensive understanding of the local heritage. The arrangement of artifacts and displays is designed to lead visitors through the narrative of Osterburg's past, creating a cohesive story that is accessible to all.
 
 Additional features may include interactive displays, educational resources, and areas for community events, enhancing the overall visitor experience. The museum's commitment to education and engagement is evident in its programming, aiming to inspire curiosity and appreciation for the region's cultural legacy.
 
@@ -73,7 +73,7 @@ To make the most of your visit to the Kreismuseum Osterburg, consider a few insi
 
 - **Photography**: If you wish to capture your visit, check the museum's policy regarding photography to ensure you adhere to any guidelines.
 - **Crowd Avoidance**: To enjoy a more peaceful visit, aim for early mornings or weekdays when foot traffic may be lower. 
-- **Engagement**: Take your time with the exhibits, and don’t hesitate to ask museum staff questions—they are often knowledgeable and can provide additional insights.
+- **Engagement**: Take your time with the exhibits, and don't hesitate to ask museum staff questions—they are often knowledgeable and can provide additional insights.
 
 ## Practical Information
 

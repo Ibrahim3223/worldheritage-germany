@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Dammtor is a distinguished city gate located in Barth, Germany, that serves as a significant historical landmark and a representation of the region's architectural heritage. Situated at coordinates 54.3686, 12.7219, this city gate is not merely a passageway but a monument that echoes the stories of the past, illustrating the importance of urban fortifications in historical city planning. As travelers approach Dammtor, they are greeted by a structure that encapsulates the essence of Barth’s historical narrative, inviting exploration and contemplation.
+Dammtor is a distinguished city gate located in Barth, Germany, that serves as a significant historical landmark and a representation of the region's architectural heritage. Situated at coordinates 54.3686, 12.7219, this city gate is not merely a passageway but a monument that echoes the stories of the past, illustrating the importance of urban fortifications in historical city planning. As travelers approach Dammtor, they are greeted by a structure that encapsulates the essence of Barth's historical narrative, inviting exploration and contemplation.
 
 The significance of Dammtor extends beyond its physical presence; it embodies the cultural and social dynamics of the time it was built. City gates were crucial in controlling trade, managing security, and facilitating the movement of people. The Dammtor stands as a reminder of the strategic importance of Barth in regional history, providing insight into the socio-political landscape of the era. For visitors, Dammtor promises an engaging experience that melds history with the charm of a vibrant town.
 

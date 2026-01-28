@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Philippus-Kirche, a noteworthy church building located in the Tempelhof-Schöneberg district of Berlin, Germany, is an architectural and cultural landmark that reflects the city's rich heritage. As a significant house of worship, it serves not only as a spiritual center but also as a symbol of the community’s history and resilience. Visitors to this site will find a serene atmosphere conducive to reflection and exploration, making it an essential stop for those interested in Berlin's religious and cultural landscape.
+The Philippus-Kirche, a noteworthy church building located in the Tempelhof-Schöneberg district of Berlin, Germany, is an architectural and cultural landmark that reflects the city's rich heritage. As a significant house of worship, it serves not only as a spiritual center but also as a symbol of the community's history and resilience. Visitors to this site will find a serene atmosphere conducive to reflection and exploration, making it an essential stop for those interested in Berlin's religious and cultural landscape.
 
 Set against the backdrop of one of Berlin's vibrant neighborhoods, the Philippus-Kirche is easily accessible and offers a glimpse into the architectural style and community spirit of the area. The church stands out as a focal point for local gatherings and events, enriching the urban tapestry of Tempelhof-Schöneberg. Whether you are a history enthusiast, an architecture aficionado, or someone seeking a moment of tranquility, the Philippus-Kirche promises an engaging experience.
 
@@ -59,13 +59,13 @@ Typically, visitors may find that a one to two-hour visit is sufficient to appre
 While visiting the Philippus-Kirche, consider exploring other nearby attractions that enrich the experience of the Tempelhof-Schöneberg district. Here are a few notable sites to check out:
 
 1. **Tempelhofer Feld**: Once an airport, this expansive public park offers vast open spaces for recreation, picnicking, and enjoying the outdoors.
-2. **Schöneberg Town Hall**: A historical building known for its significant role in Berlin's political history, it is worth a visit for those interested in the city’s governance and architecture.
+2. **Schöneberg Town Hall**: A historical building known for its significant role in Berlin's political history, it is worth a visit for those interested in the city's governance and architecture.
 3. **Kreuzberg Museum**: Located a short distance away, this museum provides insights into the cultural history of the Kreuzberg district, showcasing its diverse influences.
 4. **Bergmannkiez**: A vibrant neighborhood filled with cafes, shops, and street art, perfect for experiencing local culture and cuisine.
 
 ## Insider Tips
 
-For photography enthusiasts, the Philippus-Kirche offers several picturesque opportunities. Early morning or late afternoon light can create stunning images, particularly if you capture the church’s architectural details in softer lighting. Be mindful of any restrictions regarding photography inside the church and respect the sacred environment.
+For photography enthusiasts, the Philippus-Kirche offers several picturesque opportunities. Early morning or late afternoon light can create stunning images, particularly if you capture the church's architectural details in softer lighting. Be mindful of any restrictions regarding photography inside the church and respect the sacred environment.
 
 To avoid crowds, consider visiting during weekdays or during non-peak hours. This will allow for a more intimate experience and the chance to savor the church's serene atmosphere.
 

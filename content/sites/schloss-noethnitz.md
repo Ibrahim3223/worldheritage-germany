@@ -89,7 +89,7 @@ Allocate a couple of hours to half a day for your visit, depending on your inter
 Photography is generally permitted, but be sure to check for any specific restrictions on certain exhibits.
 
 ### Are there guided tours?
-Guided tours may be available, enhancing your understanding of the site’s history and significance. Check the official website for details.
+Guided tours may be available, enhancing your understanding of the site's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 Spring and fall are ideal due to mild weather and fewer crowds.
@@ -98,7 +98,7 @@ Spring and fall are ideal due to mild weather and fewer crowds.
 Check the official website for current accessibility options and features.
 
 ### Can I buy tickets online?
-Ticket availability may vary, so it’s best to consult the official website for online purchasing options.
+Ticket availability may vary, so it's best to consult the official website for online purchasing options.
 
 ### Are there restrooms and cafes?
 Facilities may be available at the site, but check the official website for specific information.

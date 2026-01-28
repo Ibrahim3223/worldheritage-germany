@@ -28,7 +28,7 @@ Home to a variety of exhibits, the Heimatmuseum Kornburg offers a unique perspec
 
 ## History and Significance
 
-Though specific dates and detailed historical accounts are not provided, the Heimatmuseum Kornburg undoubtedly plays a vital role in the cultural landscape of the region. Museums of this type often emerge from a desire to preserve local history, ensuring that future generations can learn about their roots and the evolution of their community. Heimatmuseums typically focus on the customs, traditions, and artifacts that define a locality, and Kornburg’s museum is no exception.
+Though specific dates and detailed historical accounts are not provided, the Heimatmuseum Kornburg undoubtedly plays a vital role in the cultural landscape of the region. Museums of this type often emerge from a desire to preserve local history, ensuring that future generations can learn about their roots and the evolution of their community. Heimatmuseums typically focus on the customs, traditions, and artifacts that define a locality, and Kornburg's museum is no exception.
 
 The significance of Heimatmuseum Kornburg lies in its commitment to documenting and showcasing the unique characteristics of the area. By collecting and exhibiting items that represent local craftsmanship, agricultural practices, and everyday life, the museum fosters a sense of pride and identity among residents. It serves as a reminder of the past and an educational resource for visitors who wish to understand the cultural nuances of the region.
 
@@ -97,7 +97,7 @@ Guided tours may be available; check the official website for more information o
 Weekdays, especially in the morning, tend to be quieter and may offer a more personalized experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s advisable to contact the museum directly for information regarding wheelchair access.
+Accessibility details are not specified; it's advisable to contact the museum directly for information regarding wheelchair access.
 
 ### Can I buy tickets online?
 For current ticket purchasing options, including online availability, please refer to the official website.

@@ -50,13 +50,13 @@ Whether you are an avid historian or a casual traveler, Burg Neuenstein offers a
 
 ## Nearby Attractions
 
-1. **Walting Village**: A quaint village that provides a charming backdrop to the castle. It’s an ideal place to experience local culture and hospitality.
+1. **Walting Village**: A quaint village that provides a charming backdrop to the castle. It's an ideal place to experience local culture and hospitality.
 
-2. **Historical Museums**: Nearby museums showcase artifacts and exhibits related to the region’s history, further enriching your understanding of the context in which Burg Neuenstein exists.
+2. **Historical Museums**: Nearby museums showcase artifacts and exhibits related to the region's history, further enriching your understanding of the context in which Burg Neuenstein exists.
 
 3. **Natural Parks**: The surrounding area often features natural parks where visitors can enjoy hiking and scenic walks that highlight the beauty of the German countryside.
 
-4. **St. Mary’s Church**: This historic church in the vicinity offers insights into the religious heritage of the area, complementing the visit to the castle.
+4. **St. Mary's Church**: This historic church in the vicinity offers insights into the religious heritage of the area, complementing the visit to the castle.
 
 5. **Local Culinary Spots**: Sample traditional German cuisine at nearby restaurants, adding a gastronomic element to your historical exploration.
 
@@ -95,7 +95,7 @@ Accessibility details are not specified. It is recommended to check the official
 Please check the official website for current information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Information about facilities such as restrooms and cafes is not provided. It’s best to check the official website for details before your visit.
+Information about facilities such as restrooms and cafes is not provided. It's best to check the official website for details before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may be walking on uneven surfaces while exploring the castle grounds. Dress according to the weather for a more enjoyable experience. 

@@ -76,7 +76,7 @@ Additionally, exploring the ensemble during weekdays can provide a more tranquil
 
 ## Practical Information
 
-When visiting the architectural ensemble, it’s advisable to wear comfortable walking shoes as the cobblestone streets can be uneven. Carrying a camera is highly recommended, given the picturesque nature of the buildings and surroundings.
+When visiting the architectural ensemble, it's advisable to wear comfortable walking shoes as the cobblestone streets can be uneven. Carrying a camera is highly recommended, given the picturesque nature of the buildings and surroundings.
 
 Seasonal considerations include being prepared for varying weather conditions, particularly in the winter months when temperatures can drop. Visiting in spring or autumn offers a more temperate climate and vibrant foliage, enhancing the overall experience.
 

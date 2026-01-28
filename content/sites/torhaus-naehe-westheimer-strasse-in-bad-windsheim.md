@@ -62,7 +62,7 @@ While the Torhaus Nähe Westheimer Straße is a significant attraction in Bad Wi
 
 1. **Bad Windsheim Museum**: This local museum showcases the history and culture of the region, offering a deeper understanding of Bavarian traditions and lifestyles.
 
-2. **St. Kilian Church**: A short distance from the gatehouse, this church is renowned for its stunning architecture and historical significance, providing insight into the area’s ecclesiastical heritage.
+2. **St. Kilian Church**: A short distance from the gatehouse, this church is renowned for its stunning architecture and historical significance, providing insight into the area's ecclesiastical heritage.
 
 3. **Historic Town Center**: The charming streets and buildings of Bad Windsheim's town center are perfect for leisurely exploration, filled with shops, cafes, and local art.
 

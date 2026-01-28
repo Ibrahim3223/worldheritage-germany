@@ -58,7 +58,7 @@ The best times to visit are often during the early morning or late afternoon whe
 
 2. **Historical Village Center**: Explore a nearby village that showcases traditional architecture and offers insight into local customs and crafts.
 
-3. **Local Museum**: A museum dedicated to the region's history, providing context and artifacts related to the area’s development and the use of aqueducts.
+3. **Local Museum**: A museum dedicated to the region's history, providing context and artifacts related to the area's development and the use of aqueducts.
 
 4. **Scenic Lookout Point**: A vantage point offering panoramic views of the valley, perfect for photography and enjoying the natural landscape.
 

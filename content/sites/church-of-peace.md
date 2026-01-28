@@ -34,7 +34,7 @@ Potsdam itself is a city rich in history, known for its palaces and gardens, whi
 
 The Church of Peace is more than just a religious building; it is a symbol of the cultural evolution of Potsdam. While specific historical dates are not provided, the church is recognized for its significant role in the community and its reflection of the architectural styles prevalent during its construction. The church has served as a spiritual center for the local population, fostering a sense of community and belonging among its congregants.
 
-In the context of Potsdam’s rich historical landscape, the Church of Peace stands alongside other notable structures, contributing to the city's identity. It represents the intersection of faith, art, and history, encapsulating the resilience and creativity of its builders and the community it serves. The church's significance extends beyond its walls; it embodies the broader narrative of Potsdam’s development, particularly during pivotal moments in German history.
+In the context of Potsdam's rich historical landscape, the Church of Peace stands alongside other notable structures, contributing to the city's identity. It represents the intersection of faith, art, and history, encapsulating the resilience and creativity of its builders and the community it serves. The church's significance extends beyond its walls; it embodies the broader narrative of Potsdam's development, particularly during pivotal moments in German history.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ Potsdam is home to several notable attractions that complement a visit to the Ch
 
 4. **Filmpark Babelsberg**: For those interested in cinema, this film studio and theme park provides a glimpse into the world of film production and entertainment.
 
-5. **Potsdam Museum**: This museum offers deeper insights into the city’s history and culture, showcasing artifacts and exhibitions that tell the story of Potsdam’s development.
+5. **Potsdam Museum**: This museum offers deeper insights into the city's history and culture, showcasing artifacts and exhibitions that tell the story of Potsdam's development.
 
 ## Insider Tips
 
@@ -100,4 +100,4 @@ While specific amenities are not detailed here, planning for breaks during your 
 ### What should I wear?
 Dress comfortably and consider the weather, especially if you plan to spend time outdoors in the surrounding area. 
 
-The Church of Peace in Potsdam remains a poignant reminder of the city’s rich heritage, offering visitors a chance to connect with both history and spirituality in a serene environment.
+The Church of Peace in Potsdam remains a poignant reminder of the city's rich heritage, offering visitors a chance to connect with both history and spirituality in a serene environment.

@@ -70,7 +70,7 @@ While exploring, take your time to appreciate the details of the bridge and its 
 
 ## Practical Information
 
-Before heading out to Mühle Döbra, it’s advisable to bring essentials such as comfortable footwear for walking, a camera for capturing the sights, and water to stay hydrated during your visit. Seasonal considerations include dressing appropriately for the weather, as conditions can vary, particularly in the colder months.
+Before heading out to Mühle Döbra, it's advisable to bring essentials such as comfortable footwear for walking, a camera for capturing the sights, and water to stay hydrated during your visit. Seasonal considerations include dressing appropriately for the weather, as conditions can vary, particularly in the colder months.
 
 If you plan to explore nearby areas, consider bringing a light backpack for any additional items you may want during your adventures. Be prepared for varying terrain if you decide to venture onto local trails or parks.
 

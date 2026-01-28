@@ -44,7 +44,7 @@ The museum's atmosphere is likely designed to promote learning and curiosity, wi
 
 ## Visiting Information
 
-Getting to the GWDG Computer Museum is relatively straightforward, with various transport options available in Göttingen. Depending on your starting point, you may choose to travel by public transportation or car. For precise directions and recommendations, it’s advisable to check the official website for up-to-date travel information.
+Getting to the GWDG Computer Museum is relatively straightforward, with various transport options available in Göttingen. Depending on your starting point, you may choose to travel by public transportation or car. For precise directions and recommendations, it's advisable to check the official website for up-to-date travel information.
 
 Upon arrival, visitors can expect a welcoming environment with knowledgeable staff ready to assist. The museum typically features a range of exhibits designed to engage audiences of all backgrounds, making it an informative stop for families, students, and tech enthusiasts alike. While specific visiting hours and ticket prices are not provided, checking the official website for current information is essential to plan your visit effectively.
 
@@ -54,11 +54,11 @@ The amount of time needed to explore the museum can vary, but a general recommen
 
 Göttingen is home to several notable attractions that complement a visit to the GWDG Computer Museum. Here are a few that might pique your interest:
 
-1. **Göttingen University**: One of Germany’s oldest universities, known for its rich academic heritage and beautiful campus.
+1. **Göttingen University**: One of Germany's oldest universities, known for its rich academic heritage and beautiful campus.
 2. **Botanical Garden**: A serene space featuring diverse plant species, ideal for a leisurely stroll after your museum visit.
 3. **Old Botanical Garden**: A historical garden showcasing native and exotic plants, providing a peaceful retreat in the heart of the city.
 4. **Gänseliesel Fountain**: A famous landmark in Göttingen, this charming fountain is a must-see for visitors and a great photo opportunity.
-5. **St. Jacob’s Church**: A beautiful medieval church with stunning architecture and a fascinating history, located not far from the museum.
+5. **St. Jacob's Church**: A beautiful medieval church with stunning architecture and a fascinating history, located not far from the museum.
 
 These nearby attractions offer a variety of experiences, making it easy to plan a full day of exploration in Göttingen.
 
@@ -68,7 +68,7 @@ When visiting the GWDG Computer Museum, consider the following insider tips to e
 
 - **Photography**: Check the museum's policy on photography before your visit, as some exhibits may have restrictions.
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or early in the morning when the museum is less crowded.
-- **Engagement**: Take your time with each exhibit, and don’t hesitate to ask staff questions—many are knowledgeable and passionate about the subject matter.
+- **Engagement**: Take your time with each exhibit, and don't hesitate to ask staff questions—many are knowledgeable and passionate about the subject matter.
 - **Interactive Displays**: If available, make sure to engage with any interactive exhibits, as these can provide a deeper understanding of the technology on display.
 
 ## Practical Information

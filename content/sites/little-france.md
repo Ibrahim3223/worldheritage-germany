@@ -66,7 +66,7 @@ When visiting Little France, consider bringing a good camera to capture the cast
 
 ## Practical Information
 
-When preparing for your visit to Little France, it’s wise to wear comfortable shoes, as you may need to walk on uneven surfaces. Depending on the season, consider layering your clothing to accommodate for changes in temperature, especially if you plan to explore the surrounding areas. Bringing along a refillable water bottle and some snacks can enhance your experience, allowing you to enjoy the day without interruptions.
+When preparing for your visit to Little France, it's wise to wear comfortable shoes, as you may need to walk on uneven surfaces. Depending on the season, consider layering your clothing to accommodate for changes in temperature, especially if you plan to explore the surrounding areas. Bringing along a refillable water bottle and some snacks can enhance your experience, allowing you to enjoy the day without interruptions.
 
 ## Frequently Asked Questions
 
@@ -89,7 +89,7 @@ Check the official website for accessibility information, as features may vary.
 Ticket purchasing options may vary, so be sure to check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to check the official website for current amenities.
+Facilities may be available, but it's best to check the official website for current amenities.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing is recommended, along with sturdy footwear for walking. 

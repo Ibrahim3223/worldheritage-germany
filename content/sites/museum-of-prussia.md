@@ -34,7 +34,7 @@ The Museum of Prussia offers a diverse range of exhibitions that highlight vario
 
 The Museum of Prussia stands as a significant cultural institution that encapsulates the essence of Prussian history. Although specific founding dates or milestones are not detailed, the museum's establishment reflects a growing interest in preserving and interpreting the legacy of Prussia. Throughout the years, Minden has been an important center within the region, and the museum enhances this status by providing a space for historical reflection and education.
 
-Prussia's influence extended well beyond its borders, shaping the political landscape of Europe through various periods. The museum’s collections are likely to include artifacts that illustrate military history, governance, and the arts, all of which are integral to understanding Prussia's role in European affairs. By showcasing these elements, the Museum of Prussia not only preserves the past but also fosters an appreciation for the complexities of national identity and cultural evolution.
+Prussia's influence extended well beyond its borders, shaping the political landscape of Europe through various periods. The museum's collections are likely to include artifacts that illustrate military history, governance, and the arts, all of which are integral to understanding Prussia's role in European affairs. By showcasing these elements, the Museum of Prussia not only preserves the past but also fosters an appreciation for the complexities of national identity and cultural evolution.
 
 Furthermore, the museum serves as a platform for scholarly research and community engagement. It encourages dialogue about Prussian history and its implications in modern contexts, making it a relevant destination for both history enthusiasts and casual visitors alike. The educational programs and exhibitions aim to cultivate a deeper understanding of the cultural dynamics that have shaped the region and beyond.
 
@@ -61,7 +61,7 @@ Minden is home to several attractions that complement a visit to the Museum of P
 1. **Minden Cathedral** - A historic structure known for its stunning architecture and rich history.
 2. **The Waterway Museum** - Exploring the significance of waterways in the region's development.
 3. **The Old Market Square** - A charming area featuring local shops and eateries, perfect for a leisurely stroll.
-4. **The Historic City Center** - Showcasing Minden’s architectural heritage, this area is ideal for those looking to immerse themselves in the city's atmosphere.
+4. **The Historic City Center** - Showcasing Minden's architectural heritage, this area is ideal for those looking to immerse themselves in the city's atmosphere.
 
 These attractions provide additional opportunities for exploration and enjoyment, making Minden a well-rounded destination for heritage travelers.
 

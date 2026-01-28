@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the heart of Recklinghausen, the Icon Museum offers visitors an intriguing glance into the world of religious art, specifically focusing on Eastern Orthodox icons. Situated in North Rhine-Westphalia, Germany, this museum holds a unique position as a center for the study and appreciation of these sacred paintings, which are revered for their spiritual significance and artistic craftsmanship. Icons serve not only as artistic expressions but also as windows into the theological and cultural contexts from which they arise. For those interested in exploring the intersection of art and spirituality, the Icon Museum presents a compelling destination that invites reflection and appreciation.
 
-The museum's collection is significant not only for its artistic value but also for its role in fostering dialogue about faith and culture. Visitors can expect to engage with a range of displays that highlight the historical development and diverse styles of iconography. Whether you’re an art enthusiast, a historian, or someone simply looking to expand your cultural horizons, the Icon Museum promises a thought-provoking experience.
+The museum's collection is significant not only for its artistic value but also for its role in fostering dialogue about faith and culture. Visitors can expect to engage with a range of displays that highlight the historical development and diverse styles of iconography. Whether you're an art enthusiast, a historian, or someone simply looking to expand your cultural horizons, the Icon Museum promises a thought-provoking experience.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ Inside, one can expect to find thoughtfully curated exhibitions that highlight t
 
 For those planning a visit to the Icon Museum Recklinghausen, it is recommended to check the official website for current information regarding hours of operation and ticket prices. The museum is accessible by various means of transport, making it convenient for visitors to reach. Those traveling by public transport will find that Recklinghausen is well connected, allowing for easy access to the museum.
 
-Expect to spend a few hours exploring the exhibits, as the museum offers a wealth of information and art to take in. The best times to visit may vary; consider visiting during weekdays or early in the day to avoid crowds. Whether you’re a local resident or a traveler, the Icon Museum promises an enriching experience.
+Expect to spend a few hours exploring the exhibits, as the museum offers a wealth of information and art to take in. The best times to visit may vary; consider visiting during weekdays or early in the day to avoid crowds. Whether you're a local resident or a traveler, the Icon Museum promises an enriching experience.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ To make the most of your visit to the Icon Museum, consider bringing a camera to
 
 ## Practical Information
 
-When planning your visit to the Icon Museum, it’s a good idea to bring along a small notebook or sketchpad if you wish to jot down your thoughts or make sketches of the icons. Comfortable walking shoes are recommended, as you will likely spend time exploring the exhibition spaces. Depending on the season, be prepared for varying weather conditions, and check the official website for any seasonal events that may enhance your visit.
+When planning your visit to the Icon Museum, it's a good idea to bring along a small notebook or sketchpad if you wish to jot down your thoughts or make sketches of the icons. Comfortable walking shoes are recommended, as you will likely spend time exploring the exhibition spaces. Depending on the season, be prepared for varying weather conditions, and check the official website for any seasonal events that may enhance your visit.
 
 ## Frequently Asked Questions
 

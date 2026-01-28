@@ -50,7 +50,7 @@ The overall design of Schützentor emphasizes both strength and utility, with el
 
 Visiting Schützentor offers a unique opportunity to immerse yourself in the history of Königsberg. The gatehouse is conveniently located within the town, making it accessible for both local and international travelers. To reach Schützentor, visitors can use various modes of transportation, including public transit or personal vehicles. Parking options may be available in the vicinity, but checking local regulations is advisable.
 
-As for visiting hours and ticket prices, it is recommended to check the official website for current information to plan your visit accordingly. The site’s historical significance and architectural features make it an ideal stop for those interested in heritage exploration. 
+As for visiting hours and ticket prices, it is recommended to check the official website for current information to plan your visit accordingly. The site's historical significance and architectural features make it an ideal stop for those interested in heritage exploration. 
 
 Ideally, visitors should allocate around an hour to fully appreciate Schützentor and its surroundings. This timeframe allows for a leisurely stroll around the gatehouse, taking in the details of its construction while also enjoying the charming atmosphere of Königsberg. 
 

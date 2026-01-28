@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Wenzel, a prominent church building located in Halle (Saale), Saxony-Anhalt, Germany, serves as a significant landmark in the region. This church, steeped in centuries of history, not only represents a place of worship but also embodies the architectural and cultural transformations that have shaped the area. As visitors approach St. Wenzel, they are greeted by its striking façade and the stories that echo within its walls. The church stands as a reminder of Halle’s rich religious heritage and its role in the broader narrative of German history.
+St. Wenzel, a prominent church building located in Halle (Saale), Saxony-Anhalt, Germany, serves as a significant landmark in the region. This church, steeped in centuries of history, not only represents a place of worship but also embodies the architectural and cultural transformations that have shaped the area. As visitors approach St. Wenzel, they are greeted by its striking façade and the stories that echo within its walls. The church stands as a reminder of Halle's rich religious heritage and its role in the broader narrative of German history.
 
 Halle (Saale), known for its vibrant cultural scene and historical significance, provides a fitting backdrop for St. Wenzel. The city itself is renowned for its contributions to art, music, and education, making it a compelling destination for travelers seeking to explore the intersection of history and modernity. The architectural marvel of St. Wenzel attracts both tourists and locals alike, inviting them to delve into its past while enjoying contemporary amenities and activities in the surrounding area.
 
@@ -36,7 +36,7 @@ Visiting St. Wenzel offers a unique opportunity to immerse oneself in the sacred
 
 St. Wenzel is a church building that has played a vital role in the religious and cultural life of Halle (Saale). While specific historical dates may not be available, it is clear that the church has witnessed significant events and transformations over the centuries. Originally dedicated to Saint Wenceslaus, the church has been a center of worship and community life, drawing congregants from the surrounding areas.
 
-The significance of St. Wenzel extends beyond its role as a place of worship. It is a reflection of the historical developments that have influenced Halle and the broader region of Saxony-Anhalt. Throughout its history, the church has seen periods of growth and change, mirroring the social and political shifts in Germany. The church’s architecture and design elements tell a story of adaptation and resilience, showcasing how faith and community have persisted through various challenges.
+The significance of St. Wenzel extends beyond its role as a place of worship. It is a reflection of the historical developments that have influenced Halle and the broader region of Saxony-Anhalt. Throughout its history, the church has seen periods of growth and change, mirroring the social and political shifts in Germany. The church's architecture and design elements tell a story of adaptation and resilience, showcasing how faith and community have persisted through various challenges.
 
 As a cultural landmark, St. Wenzel has also been a site for various events and gatherings, further solidifying its importance in the local community. It stands not only as a spiritual haven but also as a venue for cultural expression, where music, art, and history converge.
 
@@ -46,7 +46,7 @@ The architectural design of St. Wenzel is noteworthy, characterized by distincti
 
 Inside, the church offers an atmosphere of tranquility and reverence. The interior space is designed to accommodate worshippers while also allowing for moments of quiet reflection. Key architectural features may include vaulted ceilings, stained glass windows, and altars that illustrate biblical narratives and religious themes. These elements contribute to the overall ambiance of the church, providing a space where spirituality and artistry intersect.
 
-Notable aspects of St. Wenzel’s design may also include specific furnishings, artwork, and symbols that hold significance within the Christian tradition. These features not only serve aesthetic purposes but also invite visitors to engage with the spiritual narratives they represent.
+Notable aspects of St. Wenzel's design may also include specific furnishings, artwork, and symbols that hold significance within the Christian tradition. These features not only serve aesthetic purposes but also invite visitors to engage with the spiritual narratives they represent.
 
 ## Visiting Information
 

@@ -66,7 +66,7 @@ The Georg-Lechner-Biermuseum is situated in a region rich with attractions that 
 
 When visiting the Georg-Lechner-Biermuseum, consider bringing a camera to capture the unique exhibits and displays, however, be sure to check the museum's photography policy. To avoid larger crowds, plan your visit during weekdays or early in the morning. This can enhance your experience, allowing for a more relaxed exploration of the museum.
 
-Engaging with staff or volunteers can provide additional insights, so don’t hesitate to ask questions. They often possess a wealth of knowledge about the exhibits and can offer recommendations to enhance your visit.
+Engaging with staff or volunteers can provide additional insights, so don't hesitate to ask questions. They often possess a wealth of knowledge about the exhibits and can offer recommendations to enhance your visit.
 
 ## Practical Information
 

@@ -34,7 +34,7 @@ The foundation is not only significant for its contributions to social welfare b
 
 While specific historical details about Stiftung Friedehorst Bremen are not extensively documented, the foundation is recognized as a diaconal institution that has been integral to the local community. Diakonie, or diaconal work, is a form of social service rooted in Christian values, emphasizing compassion and assistance to those in need. This foundation is part of a larger movement within Germany that seeks to provide support for various vulnerable populations, including the elderly, the disabled, and those experiencing social hardships.
 
-The significance of Stiftung Friedehorst lies in its commitment to aiding individuals and families through various services tailored to meet the needs of the community. The foundation’s work is informed by a mission steeped in ethical and moral principles, which resonates with many who seek to contribute positively to society. By offering programs that foster inclusion and support, Stiftung Friedehorst embodies the spirit of community service, making it a vital player in the social landscape of Bremen.
+The significance of Stiftung Friedehorst lies in its commitment to aiding individuals and families through various services tailored to meet the needs of the community. The foundation's work is informed by a mission steeped in ethical and moral principles, which resonates with many who seek to contribute positively to society. By offering programs that foster inclusion and support, Stiftung Friedehorst embodies the spirit of community service, making it a vital player in the social landscape of Bremen.
 
 In addition to its community services, Stiftung Friedehorst is a reflection of the broader historical context of Bremen as a city that values social responsibility. The foundation stands at the crossroads of faith and social activism, showing how religious institutions can play a key role in addressing societal needs. As visitors engage with the foundation, they can appreciate both its current impact and its historical roots in the diaconal tradition.
 
@@ -106,4 +106,4 @@ Facilities at the foundation typically include restrooms, but dining options may
 ### What should I wear?
 Comfortable, casual attire is recommended, especially if you plan to explore the surrounding area or engage in outdoor activities.
 
-By understanding the significance, architecture, and community impact of Stiftung Friedehorst Bremen, visitors can appreciate the foundation’s role in promoting social welfare and community support.
+By understanding the significance, architecture, and community impact of Stiftung Friedehorst Bremen, visitors can appreciate the foundation's role in promoting social welfare and community support.

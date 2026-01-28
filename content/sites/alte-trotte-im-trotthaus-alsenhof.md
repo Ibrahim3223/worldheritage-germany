@@ -54,7 +54,7 @@ The best times to visit may be during weekdays, as weekends can attract larger c
 
 While visiting Alte Trotte im Trotthaus Alsenhof, consider exploring the following nearby attractions:
 
-1. **Local Artisans’ Workshops** - Discover traditional craftsmanship in nearby workshops where artisans continue to practice time-honored techniques.
+1. **Local Artisans' Workshops** - Discover traditional craftsmanship in nearby workshops where artisans continue to practice time-honored techniques.
    
 2. **Cultural Heritage Center** - A location dedicated to preserving and presenting various aspects of regional culture, often featuring exhibitions and educational programs.
 

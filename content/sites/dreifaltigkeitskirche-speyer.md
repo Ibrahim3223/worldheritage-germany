@@ -64,7 +64,7 @@ While in Speyer, there are several nearby attractions worth checking out:
 
 3. **Technik Museum Speyer**: A fascinating destination for technology enthusiasts, this museum features a vast collection of aircraft, automobiles, and other technological marvels.
 
-4. **Old Town Speyer**: Stroll through the charming streets of the Old Town, where you can find quaint shops, cafes, and historical buildings that reflect the city’s storied past.
+4. **Old Town Speyer**: Stroll through the charming streets of the Old Town, where you can find quaint shops, cafes, and historical buildings that reflect the city's storied past.
 
 ## Insider Tips
 

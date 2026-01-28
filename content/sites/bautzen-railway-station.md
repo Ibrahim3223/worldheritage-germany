@@ -68,7 +68,7 @@ Bautzen railway station places visitors within easy reach of several notable att
 
 4. **Old Market Square**: A vibrant area surrounded by historical buildings, shops, and restaurants. It serves as a perfect spot for leisurely strolls and enjoying the local atmosphere.
 
-5. **The Bautzen Museum**: Offering exhibits that delve into the town’s history and culture, the museum is an excellent place for those looking to deepen their understanding of Bautzen.
+5. **The Bautzen Museum**: Offering exhibits that delve into the town's history and culture, the museum is an excellent place for those looking to deepen their understanding of Bautzen.
 
 ## Insider Tips
 

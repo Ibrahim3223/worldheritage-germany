@@ -60,7 +60,7 @@ The Landesmuseum Mainz is situated near several attractions that complement a cu
 
 2. **Gutenberg Museum**: Dedicated to Johannes Gutenberg, this museum offers insights into the invention of printing and its profound impact on society.
 
-3. **St. Stephan’s Church**: Renowned for its beautiful stained glass windows designed by Marc Chagall, this church is a serene place to explore the intersection of art and spirituality.
+3. **St. Stephan's Church**: Renowned for its beautiful stained glass windows designed by Marc Chagall, this church is a serene place to explore the intersection of art and spirituality.
 
 4. **Romano-Germanic Central Museum**: This museum focuses on the Roman history of the region, providing context to the artifacts displayed at the Landesmuseum Mainz.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Landesmuseum Mainz, keep the following prac
 A typical visit to the Landesmuseum Mainz lasts about two to three hours, allowing enough time to engage with the exhibits thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check signage or inquire with staff before taking photographs.
+Photography policies may vary by exhibit. It's best to check signage or inquire with staff before taking photographs.
 
 ### Are there guided tours?
 Yes, the museum often offers guided tours. Check the official website for availability and scheduling.

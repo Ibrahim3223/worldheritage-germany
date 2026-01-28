@@ -80,7 +80,7 @@ For those planning to visit Gotisches Haus, here are a few insider tips to enhan
 
 ## Practical Information
 
-When visiting Gotisches Haus, it’s advisable to bring a few essentials to make your experience enjoyable. Comfortable walking shoes are recommended due to the exploration of both the interior and the surrounding gardens. If you plan to spend time outdoors, consider bringing sunscreen and a hat, especially during the warmer months.
+When visiting Gotisches Haus, it's advisable to bring a few essentials to make your experience enjoyable. Comfortable walking shoes are recommended due to the exploration of both the interior and the surrounding gardens. If you plan to spend time outdoors, consider bringing sunscreen and a hat, especially during the warmer months.
 
 Seasonal considerations include checking the weather forecast before your visit, as conditions can vary. Spring and summer offer ideal weather for exploring the gardens, while fall can provide beautiful foliage. Be sure to dress appropriately for the weather to fully enjoy your time outdoors.
 
@@ -102,7 +102,7 @@ The best time to visit is typically during the spring and summer months when the
 Check with the official website for specific accessibility options and accommodations available at Gotisches Haus.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online. It’s recommended to check the official website for current information.
+Ticket purchasing options may be available online. It's recommended to check the official website for current information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site. Check the official website for details on dining options within the museum or nearby.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Erfurt Cathedral, situated in the heart of Thuringia, Germany, rises majestically above the city skyline, serving as both a spiritual center and a significant architectural landmark. Known formally as the Cathedral of St. Mary, this Roman Catholic cathedral is part of the Roman Catholic Diocese of Erfurt and is deeply intertwined with the region’s history and culture. Its striking silhouette, characterized by twin towers that reach skyward, is a defining feature of Erfurt’s Old Town, drawing visitors from around the globe.
+Erfurt Cathedral, situated in the heart of Thuringia, Germany, rises majestically above the city skyline, serving as both a spiritual center and a significant architectural landmark. Known formally as the Cathedral of St. Mary, this Roman Catholic cathedral is part of the Roman Catholic Diocese of Erfurt and is deeply intertwined with the region's history and culture. Its striking silhouette, characterized by twin towers that reach skyward, is a defining feature of Erfurt's Old Town, drawing visitors from around the globe.
 
 The cathedral's significance extends beyond its impressive façade; it embodies centuries of Christian heritage and serves as a vital link between the past and the present. As a site of worship, it has hosted countless believers and important ceremonies, including notable events in the Reformation movement. Today, Erfurt Cathedral stands not only as a place of religious devotion but also as a cultural touchstone, representing the artistic and architectural achievements of its time.
 
@@ -48,13 +48,13 @@ The most striking feature of Erfurt Cathedral is its impressive twin towers, whi
 
 Inside, the cathedral reveals a wealth of artistic treasures, including stunning stained glass windows that filter light into the nave, creating an ethereal atmosphere. These windows depict various biblical scenes and saints, adding to the spiritual ambiance of the space. The interior also features an array of altars, each showcasing exquisite craftsmanship and artistry, contributing to the overall reverence of the cathedral.
 
-One of the notable elements within the cathedral is its organ, which is a masterpiece of craftsmanship and a vital component of the cathedral’s musical tradition. The organ has played a central role in liturgical celebrations and continues to be appreciated for its rich sound and historical significance.
+One of the notable elements within the cathedral is its organ, which is a masterpiece of craftsmanship and a vital component of the cathedral's musical tradition. The organ has played a central role in liturgical celebrations and continues to be appreciated for its rich sound and historical significance.
 
 ## Visiting Information
 
 Visiting Erfurt Cathedral offers an opportunity to immerse oneself in its historical and spiritual ambiance. To reach the cathedral, travelers can utilize local transport options, including buses and trams that service the area. The cathedral is centrally located, making it accessible for those exploring the Old Town of Erfurt.
 
-When planning a visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. Inside, visitors can expect a serene atmosphere, allowing for quiet reflection and exploration of the cathedral’s many features. A typical visit may take around one to two hours, depending on individual interests and the depth of exploration desired.
+When planning a visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. Inside, visitors can expect a serene atmosphere, allowing for quiet reflection and exploration of the cathedral's many features. A typical visit may take around one to two hours, depending on individual interests and the depth of exploration desired.
 
 The best times to visit are often during weekdays or early in the morning when the crowds are lighter. This timing allows for a more intimate experience of the cathedral's beauty and tranquility. Additionally, special events and services may be held throughout the year, offering unique experiences for visitors.
 
@@ -62,7 +62,7 @@ The best times to visit are often during weekdays or early in the morning when t
 
 While Erfurt Cathedral is undoubtedly a highlight, the surrounding area also offers a variety of attractions worth exploring. 
 
-1. **Augustinian Monastery**: Located nearby, this historic monastery is where Martin Luther lived as a monk. It now serves as a museum, detailing Luther’s life and the Reformation.
+1. **Augustinian Monastery**: Located nearby, this historic monastery is where Martin Luther lived as a monk. It now serves as a museum, detailing Luther's life and the Reformation.
 
 2. **Krämerbrücke (Merchant's Bridge)**: This iconic bridge lined with charming shops and cafés connects the two banks of the river and is a picturesque spot for a leisurely stroll.
 
@@ -105,7 +105,7 @@ While the cathedral strives to be accessible, it is advisable to check the offic
 Check the official website for current ticket purchasing options and any potential discounts for online bookings.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to check the official website for the most current information on amenities.
+Facilities may be available nearby, but it's best to check the official website for the most current information on amenities.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, keeping in mind that this is a place of worship. Comfortable shoes are recommended for walking around the site and nearby attractions. 

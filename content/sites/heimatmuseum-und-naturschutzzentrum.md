@@ -60,7 +60,7 @@ The region surrounding Heimatmuseum und Naturschutzzentrum offers several attrac
 
 4. **Art Galleries**: Visit nearby galleries that feature local artists and their interpretations of the region's cultural landscape.
 
-5. **Cafés and Restaurants**: Enjoy local cuisine in nearby eateries that provide a taste of the area’s culinary traditions.
+5. **Cafés and Restaurants**: Enjoy local cuisine in nearby eateries that provide a taste of the area's culinary traditions.
 
 ## Insider Tips
 
@@ -80,7 +80,7 @@ If you have specific interests in local flora and fauna, a field guide can enhan
 It is generally recommended to spend around 2 to 3 hours at the Heimatmuseum und Naturschutzzentrum to fully engage with the exhibits and activities.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as certain areas may have restrictions.
+Check the museum's policy on photography, as certain areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

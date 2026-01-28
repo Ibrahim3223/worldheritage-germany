@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Dorfkirche Marienfelde, a striking church building located in the Tempelhof-Schöneberg district of Berlin, serves as a notable landmark within the community. This historical structure not only contributes to the architectural landscape of the area but also reflects the rich cultural heritage of Germany. As you approach the church, the surrounding urban environment blends with the church’s tranquil presence, inviting visitors to explore its significance both spiritually and historically.
+Dorfkirche Marienfelde, a striking church building located in the Tempelhof-Schöneberg district of Berlin, serves as a notable landmark within the community. This historical structure not only contributes to the architectural landscape of the area but also reflects the rich cultural heritage of Germany. As you approach the church, the surrounding urban environment blends with the church's tranquil presence, inviting visitors to explore its significance both spiritually and historically.
 
 The church stands in a region characterized by its vibrant mix of residential neighborhoods and historical sites. Its unique position makes it an important stop for those exploring the cultural fabric of Berlin. Visitors will find that the Dorfkirche Marienfelde embodies a sense of community and continuity, providing insight into local traditions and architectural styles. 
 
@@ -68,7 +68,7 @@ While visiting Dorfkirche Marienfelde, consider exploring these nearby attractio
 
 - **Tempelhofer Feld**: A former airport turned public park, this expansive green space offers opportunities for walking, cycling, and picnicking, showcasing a unique aspect of Berlin's urban transformation.
   
-- **Schöneberg Town Hall**: An architectural gem, this historic building is an important site in Berlin's political history and a great place to learn more about the city’s governance.
+- **Schöneberg Town Hall**: An architectural gem, this historic building is an important site in Berlin's political history and a great place to learn more about the city's governance.
   
 - **Martin-Gropius-Bau**: A cultural institution that hosts exhibitions and events, providing a platform for contemporary art and historical displays, located not too far from the church.
   

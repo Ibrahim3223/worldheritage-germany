@@ -3,7 +3,7 @@ title: "Geschichtspark Ehemaliges Zellengefängnis Moabit"
 site_name: "Geschichtspark Ehemaliges Zellengefängnis Moabit"
 date: 2026-01-26
 draft: false
-description: "Located in the heart of Berlin’s Bezirk Mitte, Geschichtspark Ehemaliges Zellengefängnis Moabit serves as a poignant memorial that invites reflection on the..."
+description: "Located in the heart of Berlin's Bezirk Mitte, Geschichtspark Ehemaliges Zellengefängnis Moabit serves as a poignant memorial that invites reflection on the..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Memorial"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Located in the heart of Berlin’s Bezirk Mitte, Geschichtspark Ehemaliges Zellengefängnis Moabit serves as a poignant memorial that invites reflection on the complexities of justice, imprisonment, and human rights. This site, once an active prison, is now a park that intertwines historical significance with a tranquil environment, offering visitors a unique opportunity to engage with Germany's past in a thoughtful setting. As you wander through the grounds, the remnants of the building's former life speak volumes about the stories and struggles that transpired within its walls.
+Located in the heart of Berlin's Bezirk Mitte, Geschichtspark Ehemaliges Zellengefängnis Moabit serves as a poignant memorial that invites reflection on the complexities of justice, imprisonment, and human rights. This site, once an active prison, is now a park that intertwines historical significance with a tranquil environment, offering visitors a unique opportunity to engage with Germany's past in a thoughtful setting. As you wander through the grounds, the remnants of the building's former life speak volumes about the stories and struggles that transpired within its walls.
 
-The memorial is not only a place of remembrance but also serves as an educational platform, fostering discussions about the evolution of legal systems and the importance of civil rights. The park’s location—central to Berlin—makes it easily accessible, allowing visitors to explore both the rich history of the site and the vibrant culture of the surrounding area. Whether you are a history enthusiast or simply seeking a peaceful retreat from the bustling city, Geschichtspark Ehemaliges Zellengefängnis Moabit offers a compelling experience that resonates with the values of reflection and understanding.
+The memorial is not only a place of remembrance but also serves as an educational platform, fostering discussions about the evolution of legal systems and the importance of civil rights. The park's location—central to Berlin—makes it easily accessible, allowing visitors to explore both the rich history of the site and the vibrant culture of the surrounding area. Whether you are a history enthusiast or simply seeking a peaceful retreat from the bustling city, Geschichtspark Ehemaliges Zellengefängnis Moabit offers a compelling experience that resonates with the values of reflection and understanding.
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ Expect a tranquil atmosphere where you can take your time to absorb the history 
 
 ## Nearby Attractions
 
-While visiting Geschichtspark Ehemaliges Zellengefängnis Moabit, consider exploring some of the nearby attractions that contribute to Berlin’s rich cultural landscape:
+While visiting Geschichtspark Ehemaliges Zellengefängnis Moabit, consider exploring some of the nearby attractions that contribute to Berlin's rich cultural landscape:
 
 1. **Reichstag Building:** The seat of the German Parliament, this iconic structure offers guided tours and the opportunity to visit its stunning glass dome for panoramic views of the city.
    

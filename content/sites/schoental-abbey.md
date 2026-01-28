@@ -52,7 +52,7 @@ Visiting Schöntal Abbey offers a rewarding experience for those interested in h
 
 Transport options to the abbey are accessible, with various routes leading to this cultural site. Whether arriving by car or public transportation, the journey allows for a scenic approach to the abbey, enhancing the anticipation of your visit. 
 
-Once at the abbey, visitors can expect to spend a few hours exploring its various exhibitions and the beautiful surroundings. This time allows for a thorough appreciation of the abbey’s history and architecture. The best times to visit are often during weekdays when the site is less crowded, providing a more intimate experience.
+Once at the abbey, visitors can expect to spend a few hours exploring its various exhibitions and the beautiful surroundings. This time allows for a thorough appreciation of the abbey's history and architecture. The best times to visit are often during weekdays when the site is less crowded, providing a more intimate experience.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ While Schöntal Abbey stands out as a significant destination, the surrounding r
 
 To make the most of your visit to Schöntal Abbey, consider bringing a camera, as the architecture and surroundings provide ample opportunities for photography. However, be mindful of any restrictions regarding flash photography inside the abbey.
 
-To avoid crowds, visiting during the early morning or late afternoon on weekdays is advisable. This timing allows for a more personal experience, enabling you to fully immerse yourself in the abbey’s atmosphere without the distraction of large groups.
+To avoid crowds, visiting during the early morning or late afternoon on weekdays is advisable. This timing allows for a more personal experience, enabling you to fully immerse yourself in the abbey's atmosphere without the distraction of large groups.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ Additionally, check the official website for any special events or exhibitions t
 Visitors typically spend around two to three hours exploring Schöntal Abbey to fully appreciate its exhibitions and atmosphere.
 
 ### Is photography allowed?
-Photography is permitted in certain areas of the abbey, but it’s important to respect any signs indicating restrictions, especially in exhibition spaces.
+Photography is permitted in certain areas of the abbey, but it's important to respect any signs indicating restrictions, especially in exhibition spaces.
 
 ### Are there guided tours?
 Guided tours are often available, providing deeper insights into the history and significance of the abbey. Check the official website for details.

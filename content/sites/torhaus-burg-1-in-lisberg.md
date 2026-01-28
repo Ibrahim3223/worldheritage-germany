@@ -46,7 +46,7 @@ Overall, Torhaus Burg 1 stands as a remarkable example of medieval architecture,
 
 Planning a visit to Torhaus Burg 1 is an excellent opportunity to explore a piece of Bavarian heritage. While specific information regarding hours and prices is not mentioned, it is advisable to check the official website for current details before your visit. 
 
-Lisberg is accessible via various means of transportation, including local roads and public transit options. Visitors should consider using a car for convenience, especially if they wish to explore other sites in the region. Parking facilities may be available nearby, but it’s wise to verify this ahead of time.
+Lisberg is accessible via various means of transportation, including local roads and public transit options. Visitors should consider using a car for convenience, especially if they wish to explore other sites in the region. Parking facilities may be available nearby, but it's wise to verify this ahead of time.
 
 When visiting Torhaus Burg 1, expect to spend a couple of hours exploring the site and its surroundings. The gatehouse is relatively compact, allowing for a thorough visit without requiring an extensive time commitment. 
 
@@ -72,7 +72,7 @@ For photography enthusiasts, Torhaus Burg 1 presents many opportunities to captu
 
 ### Practical Information
 
-When preparing for your visit to Torhaus Burg 1, it’s advisable to wear comfortable walking shoes, as some areas may require navigating uneven terrain. Depending on the season, layering clothing is recommended to adapt to changing weather conditions. 
+When preparing for your visit to Torhaus Burg 1, it's advisable to wear comfortable walking shoes, as some areas may require navigating uneven terrain. Depending on the season, layering clothing is recommended to adapt to changing weather conditions. 
 
 Visitors should also consider bringing essentials such as water and snacks, as facilities may be limited in the immediate vicinity. Furthermore, check the weather forecast in advance to ensure a pleasant visit.
 

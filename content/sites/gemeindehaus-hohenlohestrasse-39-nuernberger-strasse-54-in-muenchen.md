@@ -46,7 +46,7 @@ When planning a visit to Gemeindehaus Hohenlohestraße 39; Nürnberger Straße 5
 
 Visitors can anticipate spending around an hour at the Gemeindehaus, depending on their interest in exploring the building and its surroundings. The best times to visit may vary; however, weekdays might provide a quieter experience compared to weekends when community events are more likely to occur.
 
-While visiting, guests should be prepared for a range of activities, from observing local governance in action to exploring the architectural features of the building. Engaging with local staff or guides, if available, can enhance the experience by providing insights into the building’s history and significance.
+While visiting, guests should be prepared for a range of activities, from observing local governance in action to exploring the architectural features of the building. Engaging with local staff or guides, if available, can enhance the experience by providing insights into the building's history and significance.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ After visiting the Gemeindehaus, consider exploring these nearby attractions tha
 
 For those planning a visit to Gemeindehaus Hohenlohestraße 39; Nürnberger Straße 54, here are a few insider tips:
 
-- **Photography**: While photography might be permitted in certain areas, it’s always a good idea to check for any restrictions, especially during public meetings or events.
+- **Photography**: While photography might be permitted in certain areas, it's always a good idea to check for any restrictions, especially during public meetings or events.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during mid-morning or mid-afternoon on weekdays, as weekends may attract larger crowds due to community events.
 

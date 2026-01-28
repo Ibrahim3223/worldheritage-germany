@@ -58,7 +58,7 @@ The best times to visit the garden are during the spring and summer months when 
 
 While visiting Chemnitz Botanical Garden, consider exploring some of the nearby attractions that contribute to the cultural fabric of the city:
 
-1. **Chemnitz Museum of Industry**: This museum showcases the industrial history of Chemnitz, highlighting the city’s evolution from a manufacturing hub to a center of modern innovation.
+1. **Chemnitz Museum of Industry**: This museum showcases the industrial history of Chemnitz, highlighting the city's evolution from a manufacturing hub to a center of modern innovation.
 
 2. **Karl Marx Monument**: An iconic symbol of Chemnitz, this monument pays homage to the philosopher Karl Marx and serves as a focal point in the city's public space.
 
@@ -66,7 +66,7 @@ While visiting Chemnitz Botanical Garden, consider exploring some of the nearby 
 
 4. **Chemnitz Art Collections**: This collection features a range of artworks from various periods, providing insight into the artistic heritage of the region.
 
-5. **St. Peter's Church**: An architectural landmark, this church represents the historical significance of the area and is a testament to the city’s religious heritage.
+5. **St. Peter's Church**: An architectural landmark, this church represents the historical significance of the area and is a testament to the city's religious heritage.
 
 ## Insider Tips
 
@@ -103,7 +103,7 @@ While specific accessibility information is not provided, many botanical gardens
 Check the official website for current information regarding ticket purchasing options, including any online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available. It’s advisable to confirm this on the official website before your visit.
+Facilities such as restrooms and cafes may be available. It's advisable to confirm this on the official website before your visit.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended to ensure you can fully enjoy the garden. Seasonal attire is also advised based on the weather conditions during your visit.

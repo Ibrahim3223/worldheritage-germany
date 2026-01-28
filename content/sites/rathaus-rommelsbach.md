@@ -36,7 +36,7 @@ The Rathaus Rommelsbach is a significant landmark in Reutlingen, embodying the s
 
 The significance of the Rathaus Rommelsbach extends beyond its administrative functions. It stands as a symbol of civic pride and a gathering place for residents. Community events, public meetings, and local celebrations often take place here, making it a dynamic center for social interaction. The building represents a commitment to local governance that is accessible and engaged with the community it serves.
 
-The architectural elements of the Rathaus Rommelsbach also contribute to its historical significance. The design reflects the aesthetic values of its time, showcasing the craftsmanship and architectural trends relevant to local governance structures. As you delve into the history of this city hall, you may appreciate how it has adapted over time to meet the changing needs of Reutlingen’s residents.
+The architectural elements of the Rathaus Rommelsbach also contribute to its historical significance. The design reflects the aesthetic values of its time, showcasing the craftsmanship and architectural trends relevant to local governance structures. As you delve into the history of this city hall, you may appreciate how it has adapted over time to meet the changing needs of Reutlingen's residents.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ Rathaus Rommelsbach is conveniently located near several attractions worth explo
 
 1. **St. Mary's Church**: A notable example of Gothic architecture, this church is a short walk from the city hall and features stunning stained glass windows and intricate stone carvings.
    
-2. **Reutlingen City Museum**: This museum offers insights into the local history and culture, showcasing artifacts that illustrate the city’s development over the centuries.
+2. **Reutlingen City Museum**: This museum offers insights into the local history and culture, showcasing artifacts that illustrate the city's development over the centuries.
 
 3. **The Old Town of Reutlingen**: A stroll through the charming streets of the Old Town allows visitors to appreciate the historical architecture and vibrant local shops.
 
@@ -88,7 +88,7 @@ It is advisable to check for any special events or closures on the official webs
 A visit to Rathaus Rommelsbach typically takes about an hour, but you may wish to dedicate more time if you plan to explore the surrounding area.
 
 ### Is photography allowed?
-Photography policies may vary; check the building’s rules or ask staff for guidance on where you can take photos.
+Photography policies may vary; check the building's rules or ask staff for guidance on where you can take photos.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the building's history and significance. Check the official website for current offerings.
@@ -97,7 +97,7 @@ Guided tours may be available, offering deeper insights into the building's hist
 Weekdays are generally quieter, but local events can provide a unique experience. Early mornings or late afternoons may also be preferable for fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available, but it’s best to check in advance for specific accommodations.
+Accessibility options may be available, but it's best to check in advance for specific accommodations.
 
 ### Can I buy tickets online?
 For current ticketing information, including the possibility of online purchases, check the official website.
@@ -108,4 +108,4 @@ Facilities may be available within or nearby the Rathaus. Confirm specifics befo
 ### What should I wear?
 Dress comfortably for walking, considering the weather and any special events that may be taking place.
 
-In summary, Rathaus Rommelsbach is a central feature of Reutlingen’s civic life, offering visitors a chance to engage with local history and governance while enjoying the architectural characteristics that define this important building.
+In summary, Rathaus Rommelsbach is a central feature of Reutlingen's civic life, offering visitors a chance to engage with local history and governance while enjoying the architectural characteristics that define this important building.

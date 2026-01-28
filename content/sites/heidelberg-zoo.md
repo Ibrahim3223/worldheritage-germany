@@ -86,7 +86,7 @@ Before visiting Heidelberg Zoo, there are several practical considerations to en
 
 - **What to Bring**: Pack essential items like water, snacks, sunscreen, and comfortable walking shoes. A hat and sunglasses can also enhance your comfort on sunny days.
 
-- **Seasonal Considerations**: If visiting in cooler months, dress in layers to accommodate changing temperatures. During warmer months, light clothing is advisable, but don’t forget to stay hydrated.
+- **Seasonal Considerations**: If visiting in cooler months, dress in layers to accommodate changing temperatures. During warmer months, light clothing is advisable, but don't forget to stay hydrated.
 
 - **Accessibility**: Check the official website for information on facilities available for guests with mobility challenges, ensuring a pleasant visit for everyone.
 
@@ -111,7 +111,7 @@ Most areas of the zoo are designed to be accessible, but it is advisable to cons
 Tickets may be available for online purchase, providing a convenient option for planning your visit. Check the official website for options.
 
 ### Are there restrooms and cafes?
-Yes, facilities such as restrooms and cafes are typically available for visitors’ convenience.
+Yes, facilities such as restrooms and cafes are typically available for visitors' convenience.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather conditions, considering both sun protection and comfort for walking.

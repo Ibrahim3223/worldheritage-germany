@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Peter- und Paul-Kirche auf dem Frankenberge is a historic church building located in the town of Goslar, Germany. This remarkable structure is not only a place of worship but also a significant landmark that reflects the architectural and cultural heritage of the region. Positioned within the scenic backdrop of Goslar, a UNESCO World Heritage Site known for its well-preserved medieval architecture, this church adds to the town’s charm and historical narrative. Visitors to the church can expect to engage with a space that has witnessed centuries of devotion, community gatherings, and cultural events, making it an essential stop for anyone exploring the area.
+St. Peter- und Paul-Kirche auf dem Frankenberge is a historic church building located in the town of Goslar, Germany. This remarkable structure is not only a place of worship but also a significant landmark that reflects the architectural and cultural heritage of the region. Positioned within the scenic backdrop of Goslar, a UNESCO World Heritage Site known for its well-preserved medieval architecture, this church adds to the town's charm and historical narrative. Visitors to the church can expect to engage with a space that has witnessed centuries of devotion, community gatherings, and cultural events, making it an essential stop for anyone exploring the area.
 
 As you approach St. Peter- und Paul-Kirche, the serene surroundings invite reflection and appreciation of the architectural beauty that characterizes the region. The church serves as a reminder of the deep-rooted traditions and community spirit that have flourished in Goslar throughout its history. A visit to this site promises not only an encounter with its spiritual essence but also an opportunity to delve into the fabric of local heritage.
 
@@ -58,11 +58,11 @@ The best times to visit are often during weekdays when crowds are thinner, allow
 
 While visiting St. Peter- und Paul-Kirche auf dem Frankenberge, consider exploring other nearby attractions that contribute to the cultural landscape of Goslar:
 
-1. **Goslar Imperial Palace (Kaiserpfalz)**: A UNESCO World Heritage site, this former residence of the Holy Roman Emperors is a short distance away and offers a glimpse into the town’s royal past.
+1. **Goslar Imperial Palace (Kaiserpfalz)**: A UNESCO World Heritage site, this former residence of the Holy Roman Emperors is a short distance away and offers a glimpse into the town's royal past.
 
 2. **Market Place (Marktplatz)**: The vibrant heart of Goslar, this area features historic buildings, shops, and cafés, perfect for experiencing local life.
 
-3. **Goslar Museum (Stadtmuseum Goslar)**: This museum explores the town’s history, showcasing artifacts and exhibits that highlight its development over the centuries.
+3. **Goslar Museum (Stadtmuseum Goslar)**: This museum explores the town's history, showcasing artifacts and exhibits that highlight its development over the centuries.
 
 4. **Rammelsberg Mine**: Another UNESCO World Heritage site, the mine provides insight into the region's mining heritage and offers guided tours.
 
@@ -78,7 +78,7 @@ To avoid larger crowds, aim to visit during the early morning or later in the af
 
 When visiting St. Peter- und Paul-Kirche auf dem Frankenberge, it is advisable to bring a small bag with essentials, such as water and a light jacket, as the interior may be cooler than expected. Comfortable walking shoes are recommended, as exploring Goslar often involves traversing cobblestone streets and uneven surfaces.
 
-Seasonal considerations should also be taken into account. Summers can be warm, making it a pleasant time for outdoor exploration, while winters may bring snow, adding a picturesque quality to the town’s setting. Regardless of the season, be prepared for varying weather conditions.
+Seasonal considerations should also be taken into account. Summers can be warm, making it a pleasant time for outdoor exploration, while winters may bring snow, adding a picturesque quality to the town's setting. Regardless of the season, be prepared for varying weather conditions.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Accessibility details may vary, so it is advisable to check the official website
 For current information regarding tickets and any admission fees, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check local resources or the official website for information on nearby amenities.
+Facilities may vary, so it's best to check local resources or the official website for information on nearby amenities.
 
 ### What should I wear?
 Dress modestly, keeping in mind that St. Peter- und Paul-Kirche is a place of worship. Comfortable shoes are recommended for exploring the surrounding area.

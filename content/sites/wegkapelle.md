@@ -34,7 +34,7 @@ Visitors to Wegkapelle can expect an enriching experience that combines elements
 
 ## History and Significance
 
-Wegkapelle’s historical narrative is intertwined with the cultural evolution of Stockheim and the surrounding Unterfranken region. Although specific dates regarding its establishment are not documented, the chapel represents the longstanding traditions of Christian worship and community gatherings that have shaped the locale. 
+Wegkapelle's historical narrative is intertwined with the cultural evolution of Stockheim and the surrounding Unterfranken region. Although specific dates regarding its establishment are not documented, the chapel represents the longstanding traditions of Christian worship and community gatherings that have shaped the locale. 
 
 Chapel structures like Wegkapelle were often built as focal points for local communities, serving both religious and social functions. Such sites were significant during various historical periods, acting as venues for important ceremonies and gatherings. The architectural design of Wegkapelle reflects the typical Bavarian craftsmanship of its era, a testament to the skilled artisans who constructed it. 
 
@@ -50,11 +50,11 @@ The entrance is usually marked by a simple yet inviting doorway, often adorned w
 
 Natural light frequently plays a crucial role in the ambiance of chapels, and Wegkapelle is no exception. Windows are often strategically placed to allow sunlight to filter in, creating a serene atmosphere conducive to reflection and prayer. 
 
-While specific architectural features of Wegkapelle may not be detailed, the overall design is likely to embody the spiritual essence that chapels are known for—simple, yet profoundly impactful. The chapel's design not only serves its function as a place of worship but also enhances the surrounding environment, making it a noteworthy feature of Stockheim’s landscape.
+While specific architectural features of Wegkapelle may not be detailed, the overall design is likely to embody the spiritual essence that chapels are known for—simple, yet profoundly impactful. The chapel's design not only serves its function as a place of worship but also enhances the surrounding environment, making it a noteworthy feature of Stockheim's landscape.
 
 ## Visiting Information
 
-Reaching Wegkapelle is relatively straightforward, given its location in Stockheim, Bavaria. Visitors can travel by car or utilize local public transport options to explore the area. The chapel’s coordinates, 50.4613, 10.2642, can be easily entered into navigation systems for precise directions.
+Reaching Wegkapelle is relatively straightforward, given its location in Stockheim, Bavaria. Visitors can travel by car or utilize local public transport options to explore the area. The chapel's coordinates, 50.4613, 10.2642, can be easily entered into navigation systems for precise directions.
 
 As for visiting hours and any applicable entrance fees, it is advisable to check the official website for current information. This will ensure you have the most accurate details regarding accessibility and any potential restrictions that may be in place.
 
@@ -107,7 +107,7 @@ Information regarding guided tours may vary. Check the official website for deta
 The milder seasons of spring and autumn are often ideal for visiting, though each season offers its unique charm.
 
 ### Is it wheelchair accessible?
-Accessibility details may not be provided. It’s best to check the official website for specific information regarding wheelchair access.
+Accessibility details may not be provided. It's best to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 For information on ticket purchasing, including the possibility of online sales, please refer to the official website.

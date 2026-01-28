@@ -124,6 +124,6 @@ For ticket purchasing information, including online options, visit the official 
 Facilities such as restrooms and cafes may be available on-site or nearby. Confirm this information on the official website.
 
 ### What should I wear?
-Dress comfortably based on the season and anticipated weather conditions. It’s advisable to wear suitable footwear for walking.
+Dress comfortably based on the season and anticipated weather conditions. It's advisable to wear suitable footwear for walking.
 
 Mettlach Abbey provides a unique opportunity to explore a site where history and modernity intersect, making it a worthwhile addition to any travel itinerary focusing on cultural heritage.

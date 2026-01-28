@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Cosmas und Damian is a captivating Roman Catholic church located in the town of Bergheim, North Rhine-Westphalia, Germany. This ecclesiastical structure serves not only as a place of worship but also as a significant cultural landmark within the community. With its historical roots and architectural charm, it attracts visitors who seek to explore the spiritual and artistic heritage of the region. The church’s serene ambiance invites both devout worshippers and curious travelers, making it a worthy stop on any itinerary through this part of Germany.
+St. Cosmas und Damian is a captivating Roman Catholic church located in the town of Bergheim, North Rhine-Westphalia, Germany. This ecclesiastical structure serves not only as a place of worship but also as a significant cultural landmark within the community. With its historical roots and architectural charm, it attracts visitors who seek to explore the spiritual and artistic heritage of the region. The church's serene ambiance invites both devout worshippers and curious travelers, making it a worthy stop on any itinerary through this part of Germany.
 
 Situated at the coordinates 50.9733° N latitude and 6.5961° E longitude, St. Cosmas und Damian is easily accessible and offers a glimpse into the religious traditions that have shaped the local culture. Its significance extends beyond its walls, embodying the rich history of the Catholic Church in Germany and the enduring practices of its congregants. As you approach the church, you can sense the stories that echo within its sanctuary, offering a unique opportunity to connect with the past.
 
@@ -50,7 +50,7 @@ The church may also contain various religious artifacts, including sculptures an
 
 Visiting St. Cosmas und Damian provides an opportunity to immerse yourself in the spiritual and cultural essence of Bergheim. The church is accessible by public transportation, and local bus services can connect you to the site. If traveling by car, parking options may be available nearby, allowing for convenient access.
 
-Check the official website for current information regarding opening hours and any potential entry fees. It’s advisable to allocate sufficient time for your visit, typically around an hour, allowing you to appreciate the tranquility of the space and to explore its artistic features. 
+Check the official website for current information regarding opening hours and any potential entry fees. It's advisable to allocate sufficient time for your visit, typically around an hour, allowing you to appreciate the tranquility of the space and to explore its artistic features. 
 
 The best times to visit may vary, but early mornings or late afternoons could offer a quieter experience, allowing for reflection and a more personal connection to the site.
 
@@ -60,7 +60,7 @@ While visiting St. Cosmas und Damian, consider exploring the surrounding area, w
 
 1. **Bergheim Castle**: A historical site that offers insights into the feudal past of the region. The castle grounds provide a picturesque setting for a leisurely stroll.
 
-2. **St. Martin’s Church**: Another notable church in Bergheim, known for its unique architecture and historical significance.
+2. **St. Martin's Church**: Another notable church in Bergheim, known for its unique architecture and historical significance.
 
 3. **Local Museums**: Various museums in the area may showcase the local history, art, and traditions of North Rhine-Westphalia.
 
@@ -106,7 +106,7 @@ Early mornings or late afternoons may provide a quieter experience, but visiting
 Check the official website for details on accessibility options to ensure a comfortable visit for all guests.
 
 ### Can I buy tickets online?
-Information about ticket purchasing may be available on the official website, so it’s best to check for the most current details.
+Information about ticket purchasing may be available on the official website, so it's best to check for the most current details.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site or nearby. Local cafés can be found within walking distance, offering refreshments after your visit.

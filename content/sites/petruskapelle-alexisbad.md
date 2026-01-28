@@ -34,7 +34,7 @@ While specific dates concerning the establishment of the Petruskapelle Alexisbad
 
 The Harzgerode region, where the chapel is located, is known for its rich historical narrative, shaped by various influences throughout the centuries. The presence of a church building like the Petruskapelle indicates the importance of faith in the lives of residents, as well as the architectural evolution that accompanies such sites. Churches often reflect the socio-economic conditions of their time, and the Petruskapelle may provide insights into the historical context of Harzgerode.
 
-As you explore the chapel, consider its role in the community’s spiritual life and its place within the broader tapestry of Harzgerode's history. The structure stands as a reminder of the enduring human quest for meaning and connection, particularly in a landscape that has witnessed the passage of time and change.
+As you explore the chapel, consider its role in the community's spiritual life and its place within the broader tapestry of Harzgerode's history. The structure stands as a reminder of the enduring human quest for meaning and connection, particularly in a landscape that has witnessed the passage of time and change.
 
 ## Architecture and Features
 

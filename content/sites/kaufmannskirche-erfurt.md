@@ -52,7 +52,7 @@ As you explore Kaufmannskirche, take note of the various elements that define it
 
 ## Visiting Information
 
-When planning your visit to Kaufmannskirche, it’s advisable to consider several logistical aspects to ensure a smooth experience. The church is situated in a vibrant area of Erfurt, making it accessible through various modes of transportation. Whether you are arriving by public transport or on foot, the surrounding neighborhoods offer a pleasant walk to the church.
+When planning your visit to Kaufmannskirche, it's advisable to consider several logistical aspects to ensure a smooth experience. The church is situated in a vibrant area of Erfurt, making it accessible through various modes of transportation. Whether you are arriving by public transport or on foot, the surrounding neighborhoods offer a pleasant walk to the church.
 
 Be sure to check the official website for current information regarding hours of operation and any potential admission fees. While the site typically welcomes visitors throughout the week, special events or services may affect accessibility on certain days.
 
@@ -68,7 +68,7 @@ Kaufmannskirche is conveniently located near several other notable attractions i
 
 2. **Augustinerkloster**: A former Augustinian monastery, this site provides insight into monastic life and the role of religion in shaping Erfurt's cultural landscape.
 
-3. **Krämerbrücke**: This medieval bridge lined with shops is a quintessential feature of Erfurt, showcasing the city’s history of commerce and trade.
+3. **Krämerbrücke**: This medieval bridge lined with shops is a quintessential feature of Erfurt, showcasing the city's history of commerce and trade.
 
 4. **Petersberg Citadel**: A short walk from the church, this fortress offers panoramic views of the city and a deeper understanding of its strategic importance throughout history.
 
@@ -78,7 +78,7 @@ Kaufmannskirche is conveniently located near several other notable attractions i
 
 To make the most of your visit to Kaufmannskirche, consider some helpful insider tips. Early mornings or late afternoons are often the best times to visit, as the church may be less crowded, allowing for a more personal experience. 
 
-If you are interested in photography, ensure you have your camera ready. While capturing the interior and exterior of the church, be respectful of the worshippers and any ongoing services. It’s advisable to ask about photography policies, especially during religious ceremonies.
+If you are interested in photography, ensure you have your camera ready. While capturing the interior and exterior of the church, be respectful of the worshippers and any ongoing services. It's advisable to ask about photography policies, especially during religious ceremonies.
 
 Additionally, take a moment to explore the surrounding area, as there may be local shops and cafes that enhance your overall experience in Erfurt.
 
@@ -99,7 +99,7 @@ A visit typically lasts around one hour, but you may wish to extend your stay to
 Photography policies may vary, particularly during religious services. It's best to ask staff or check posted signs.
 
 ### Are there guided tours?
-While specific information about guided tours is not provided, it’s advisable to inquire upon your visit for any available options.
+While specific information about guided tours is not provided, it's advisable to inquire upon your visit for any available options.
 
 ### What's the best time to visit?
 Weekdays often see fewer visitors, allowing for a quieter experience. Early mornings or late afternoons can also be ideal.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Dreikönigskirche, a notable church building located in Dresden, Germany, is not just a place of worship; it is a significant landmark that holds a special place in the heart of the city. Known for its striking architecture and cultural importance, this church serves as a focal point for both locals and visitors alike. The church is situated in the vibrant region of Dresden, which is renowned for its rich artistic heritage and historical significance. The Dreikönigskirche stands as a reminder of the city’s dynamic past and its ongoing role as a cultural hub in Germany.
+Dreikönigskirche, a notable church building located in Dresden, Germany, is not just a place of worship; it is a significant landmark that holds a special place in the heart of the city. Known for its striking architecture and cultural importance, this church serves as a focal point for both locals and visitors alike. The church is situated in the vibrant region of Dresden, which is renowned for its rich artistic heritage and historical significance. The Dreikönigskirche stands as a reminder of the city's dynamic past and its ongoing role as a cultural hub in Germany.
 
 Visitors to Dreikönigskirche can expect a serene atmosphere, complemented by the intricacies of its design and the stories embedded within its walls. The church not only provides a spiritual sanctuary but also a space for reflection and appreciation of its architectural beauty. Whether you are drawn to its historical narratives or simply seeking a peaceful environment, the Dreikönigskirche promises an enriching experience.
 
@@ -44,7 +44,7 @@ The architectural design of Dreikönigskirche reflects a blend of stylistic infl
 
 Inside, visitors will find an atmosphere conducive to contemplation, with spaces that reflect the church's purpose as a place of worship. The arrangement of the pews, altar, and other elements are designed to facilitate gatherings for prayer and community events. The church's design is likely complemented by artistic works that enhance its spiritual ambiance, inviting guests to engage with the space on multiple levels.
 
-Overall, Dreikönigskirche is not merely an architectural structure but a significant representation of the community’s values and beliefs. The features of the church serve to connect visitors with its historical and cultural narratives, making it a meaningful stop in Dresden.
+Overall, Dreikönigskirche is not merely an architectural structure but a significant representation of the community's values and beliefs. The features of the church serve to connect visitors with its historical and cultural narratives, making it a meaningful stop in Dresden.
 
 ## Visiting Information
 

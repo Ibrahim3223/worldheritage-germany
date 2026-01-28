@@ -3,7 +3,7 @@ title: "Zeche Brassert"
 site_name: "Zeche Brassert"
 date: 2026-01-26
 draft: false
-description: "Zeche Brassert, located in Marl, Germany, stands as a notable reminder of the region’s industrial past, specifically its significance in the coal mining sector."
+description: "Zeche Brassert, located in Marl, Germany, stands as a notable reminder of the region's industrial past, specifically its significance in the coal mining sector."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Zeche Brassert, located in Marl, Germany, stands as a notable reminder of the region’s industrial past, specifically its significance in the coal mining sector. As a former mine, it offers visitors a unique opportunity to explore the remnants of an industry that played a crucial role in shaping the local economy and culture. The site captures the essence of the industrial revolution in Germany and serves as an educational resource, highlighting the challenges and triumphs of coal mining. As you approach Zeche Brassert, the air is filled with a palpable sense of history, inviting exploration and reflection on the lives that revolved around this industry. Its historical context and the stories that permeate its grounds promise an enriching experience for every visitor.
+Zeche Brassert, located in Marl, Germany, stands as a notable reminder of the region's industrial past, specifically its significance in the coal mining sector. As a former mine, it offers visitors a unique opportunity to explore the remnants of an industry that played a crucial role in shaping the local economy and culture. The site captures the essence of the industrial revolution in Germany and serves as an educational resource, highlighting the challenges and triumphs of coal mining. As you approach Zeche Brassert, the air is filled with a palpable sense of history, inviting exploration and reflection on the lives that revolved around this industry. Its historical context and the stories that permeate its grounds promise an enriching experience for every visitor.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ The history of Zeche Brassert is intertwined with the broader narrative of coal 
 
 The cultural significance of mines like Zeche Brassert cannot be understated. They served as the backbone of the local economy, providing jobs and livelihoods for generations. The mine also reflects the societal changes that occurred as coal became a primary source of energy, influencing everything from transportation to manufacturing. While the mining industry has seen a decline in recent decades, the legacy of these sites is preserved through education and heritage tourism, allowing future generations to understand the complexities of industrial life.
 
-Visitors to Zeche Brassert can appreciate the social history embedded in the site, from the miners' struggles for better working conditions to the communal bonds formed among workers and their families. The mine’s story encompasses themes of resilience, innovation, and the impact of industrialization on society. Although the specific historical timeline of Zeche Brassert may not be fully detailed, its role in the larger context of coal mining in Germany emphasizes the importance of preserving such sites for future reflection and learning.
+Visitors to Zeche Brassert can appreciate the social history embedded in the site, from the miners' struggles for better working conditions to the communal bonds formed among workers and their families. The mine's story encompasses themes of resilience, innovation, and the impact of industrialization on society. Although the specific historical timeline of Zeche Brassert may not be fully detailed, its role in the larger context of coal mining in Germany emphasizes the importance of preserving such sites for future reflection and learning.
 
 ## Architecture and Features
 
@@ -81,13 +81,13 @@ Seasonal considerations are important as well; check the weather forecast before
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Visitors typically spend around 2 to 3 hours exploring Zeche Brassert, allowing ample time to appreciate the site’s features and learn about its history.
+Visitors typically spend around 2 to 3 hours exploring Zeche Brassert, allowing ample time to appreciate the site's features and learn about its history.
 
 ### Is photography allowed?
 Photography is generally permitted at Zeche Brassert, but be mindful of any specific rules posted on-site or communicated by staff.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the mine's history and operations. It’s advisable to check the official website for availability and schedules.
+Guided tours may be available, providing deeper insights into the mine's history and operations. It's advisable to check the official website for availability and schedules.
 
 ### What's the best time to visit?
 The best times to visit are typically during the spring and autumn months when the weather is mild, although checking for any special events is also recommended.

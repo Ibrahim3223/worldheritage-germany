@@ -70,7 +70,7 @@ While visiting St. Martin in Sindelfingen, there are several nearby attractions 
 
 To make the most of your visit to St. Martin, consider the following tips:
 
-- **Photography**: While photography is generally allowed, be respectful of the church’s atmosphere and any ongoing services or ceremonies.
+- **Photography**: While photography is generally allowed, be respectful of the church's atmosphere and any ongoing services or ceremonies.
   
 - **Crowd Avoidance**: Visiting during weekdays or early in the day can help you avoid larger crowds, providing a more peaceful experience.
 

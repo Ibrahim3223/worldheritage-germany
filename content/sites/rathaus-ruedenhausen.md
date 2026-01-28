@@ -78,7 +78,7 @@ While in Rüdenhausen, there are several attractions that complement a visit to 
 
 To make the most of your visit to Rathaus Rüdenhausen, consider these insider tips:
 
-- **Photography**: While the exterior of the city hall is likely photogenic, be mindful of any restrictions on photography inside the building. It’s always best to ask for permission if you're unsure.
+- **Photography**: While the exterior of the city hall is likely photogenic, be mindful of any restrictions on photography inside the building. It's always best to ask for permission if you're unsure.
 
 - **Timing Your Visit**: If you prefer a quieter experience, aim to visit during mid-mornings or early afternoons on weekdays. This can help you avoid larger groups and allow for a more personal exploration of the site.
 

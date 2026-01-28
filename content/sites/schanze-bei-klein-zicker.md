@@ -44,9 +44,9 @@ As you walk along its ramparts and view the surrounding landscape, you are invit
 
 Schanze bei Klein Zicker, while primarily a military fortification, reflects the architectural style and construction techniques of its time. The structure's design is characterized by strategic positioning and practical features that highlight its defensive purpose. The fortification may include earthen ramparts and possibly stone elements, a common design approach for military installations intended to withstand attacks.
 
-Surrounding the fortification, the landscape likely showcases natural defenses that complement the fort's architecture, enhancing its strategic role. The site’s elevation allows for a commanding view of the adjacent waters, which would have been crucial for early detection of approaching vessels. 
+Surrounding the fortification, the landscape likely showcases natural defenses that complement the fort's architecture, enhancing its strategic role. The site's elevation allows for a commanding view of the adjacent waters, which would have been crucial for early detection of approaching vessels. 
 
-Visitors may find remnants of walls or earthworks that illustrate the fortification’s original layout and dimensions. These features not only provide insight into military architecture but also allow one to envision the daily life of soldiers stationed here. As you explore, take note of any historical markers or informational signs that might offer context and enhance your understanding of the structure's significance.
+Visitors may find remnants of walls or earthworks that illustrate the fortification's original layout and dimensions. These features not only provide insight into military architecture but also allow one to envision the daily life of soldiers stationed here. As you explore, take note of any historical markers or informational signs that might offer context and enhance your understanding of the structure's significance.
 
 ## Visiting Information
 

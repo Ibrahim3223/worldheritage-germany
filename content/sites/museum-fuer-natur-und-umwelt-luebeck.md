@@ -58,11 +58,11 @@ The best time to visit is typically during the spring and autumn months when the
 
 ## Nearby Attractions
 
-1. **St. Mary’s Church (Marienkirche)**: Just a short walk from the museum, this stunning Gothic church is famous for its impressive architecture and historical significance.
+1. **St. Mary's Church (Marienkirche)**: Just a short walk from the museum, this stunning Gothic church is famous for its impressive architecture and historical significance.
 
 2. **Lübeck Cathedral (Lübecker Dom)**: A remarkable example of brick Gothic architecture, this cathedral is a must-visit for those interested in religious history and architecture.
 
-3. **Holstentor**: This iconic city gate is one of Lübeck's most recognized landmarks and offers insight into the city’s medieval past.
+3. **Holstentor**: This iconic city gate is one of Lübeck's most recognized landmarks and offers insight into the city's medieval past.
 
 4. **Buddenbrook House**: A museum dedicated to the life and works of the renowned German authors Heinrich and Thomas Mann, located in a historic building.
 

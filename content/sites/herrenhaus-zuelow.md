@@ -40,7 +40,7 @@ Throughout its history, Herrenhaus Zülow has served various functions, from a r
 
 The cultural significance of Herrenhaus Zülow extends beyond its physical structure. It embodies the traditional values and customs of its time, contributing to the collective memory of the region. The manor is a symbol of the historical dynamics of power, land ownership, and community relationships, making it an essential site for understanding the complexities of German history.
 
-Visiting Herrenhaus Zülow allows contemporary audiences to engage with these narratives, prompting reflections on the evolution of society and the role of such estates in shaping cultural identities. The manor’s enduring presence in the landscape serves as a reminder of the history that has unfolded within its walls, inviting exploration and appreciation.
+Visiting Herrenhaus Zülow allows contemporary audiences to engage with these narratives, prompting reflections on the evolution of society and the role of such estates in shaping cultural identities. The manor's enduring presence in the landscape serves as a reminder of the history that has unfolded within its walls, inviting exploration and appreciation.
 
 ## Architecture and Features
 

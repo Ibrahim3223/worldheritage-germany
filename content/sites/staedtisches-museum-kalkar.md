@@ -28,7 +28,7 @@ image_srcset:
 
 Städtisches Museum Kalkar is a key cultural institution located in the heart of Kalkar, Germany. This museum serves as a vital repository of local history and culture, reflecting the unique heritage of the region. Visitors to the museum can expect a thoughtfully curated collection that emphasizes the artistic and historical narratives of Kalkar and its surroundings. The museum's central location makes it an accessible destination for both locals and tourists, inviting exploration into the past of this charming German town.
 
-The significance of the Städtisches Museum Kalkar extends beyond its exhibits; it functions as a community hub for education and cultural exchange. As a museum, it plays a crucial role in preserving the stories and artifacts that define the local identity, ensuring that both residents and visitors gain insight into the area’s rich traditions and history.
+The significance of the Städtisches Museum Kalkar extends beyond its exhibits; it functions as a community hub for education and cultural exchange. As a museum, it plays a crucial role in preserving the stories and artifacts that define the local identity, ensuring that both residents and visitors gain insight into the area's rich traditions and history.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ While specific architectural details about Städtisches Museum Kalkar are not pr
 
 Visitors can anticipate a layout that encourages exploration, with designated areas for permanent and rotating exhibits. The interior is probably designed to facilitate both individual and group visits, with signage that provides context and information about the displayed artifacts. 
 
-Notable features may include exhibition halls, educational spaces, and possibly areas designated for community gatherings or special events. The museum likely integrates elements that reflect the cultural and historical significance of the region, offering a cohesive experience that enhances the understanding of Kalkar’s past.
+Notable features may include exhibition halls, educational spaces, and possibly areas designated for community gatherings or special events. The museum likely integrates elements that reflect the cultural and historical significance of the region, offering a cohesive experience that enhances the understanding of Kalkar's past.
 
 ## Visiting Information
 

@@ -44,7 +44,7 @@ Exploring the fortification provides insights into the craftsmanship and archite
 
 To reach the cultural heritage site D-7-8128-0041 in Haldenwang, visitors can travel by car or utilize public transportation options available in the region. The area is accessible, and parking facilities may be available nearby. For the most accurate information regarding hours of operation and any entrance fees, it is advisable to check the official website prior to your visit.
 
-Expect to spend a few hours exploring the fortification, allowing time for both guided tours and personal exploration. Guided tours, if available, can provide in-depth insights into the history and architecture of the site. The best times to visit may vary, but generally, weekdays tend to be less crowded compared to weekends, enhancing the experience of immersing oneself in the site’s heritage.
+Expect to spend a few hours exploring the fortification, allowing time for both guided tours and personal exploration. Guided tours, if available, can provide in-depth insights into the history and architecture of the site. The best times to visit may vary, but generally, weekdays tend to be less crowded compared to weekends, enhancing the experience of immersing oneself in the site's heritage.
 
 Visitors should be prepared for a walk around the fortification, and comfortable footwear is recommended. The site offers opportunities for photography, so bringing a camera can capture the beauty and historical significance of the monument.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Holstentor, a striking two-towered city gate, serves as both a monumental symbol of Lübeck's historical significance and a captivating museum. Located in the northern region of Germany, Lübeck was once a pivotal hub of the Hanseatic League, a powerful trading consortium in medieval Europe. The Holstentor, with its distinctive Gothic architecture, not only marks the entrance to the city but also narrates tales of Lübeck's prosperous past. As you approach this iconic structure, you are greeted by its formidable presence, which stands as a reminder of the city’s rich heritage and architectural prowess.
+The Holstentor, a striking two-towered city gate, serves as both a monumental symbol of Lübeck's historical significance and a captivating museum. Located in the northern region of Germany, Lübeck was once a pivotal hub of the Hanseatic League, a powerful trading consortium in medieval Europe. The Holstentor, with its distinctive Gothic architecture, not only marks the entrance to the city but also narrates tales of Lübeck's prosperous past. As you approach this iconic structure, you are greeted by its formidable presence, which stands as a reminder of the city's rich heritage and architectural prowess.
 
 Erected in the late medieval period, the Holstentor has witnessed centuries of transformation and development, making it an essential stop for history enthusiasts and casual travelers alike. Today, it functions as a museum, inviting visitors to delve deeper into the cultural and social narratives that have shaped this vibrant city. Within its walls, the Holstentor presents an engaging experience that combines history with modern-day relevance, showcasing Lübeck's journey from a bustling trade center to a UNESCO World Heritage site.
 
@@ -64,13 +64,13 @@ While visiting the Holstentor, consider exploring these nearby attractions that 
 
 1. **St. Mary's Church (Marienkirche)**: A stunning example of brick Gothic architecture, this church is known for its impressive interior and significant historical artifacts.
 
-2. **Lübeck Cathedral (Lübecker Dom)**: Located just a short walk away, the cathedral features remarkable architecture and offers insights into the city’s ecclesiastical history.
+2. **Lübeck Cathedral (Lübecker Dom)**: Located just a short walk away, the cathedral features remarkable architecture and offers insights into the city's ecclesiastical history.
 
 3. **The Buddenbrook House**: A museum dedicated to the literary legacy of Thomas Mann, this site is a must-visit for literature enthusiasts, highlighting Lübeck's cultural contributions.
 
 4. **The European Hansemuseum**: This museum delves deeper into the history of the Hanseatic League, providing context to Lübeck's role in this influential trade network.
 
-5. **The Old Town (Altstadt)**: A UNESCO World Heritage site in itself, Lübeck’s Old Town is characterized by its medieval streets, historic buildings, and charming atmosphere, perfect for a leisurely stroll.
+5. **The Old Town (Altstadt)**: A UNESCO World Heritage site in itself, Lübeck's Old Town is characterized by its medieval streets, historic buildings, and charming atmosphere, perfect for a leisurely stroll.
 
 ## Insider Tips
 

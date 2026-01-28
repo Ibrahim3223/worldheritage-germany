@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Brandenburg Gate, an iconic symbol of Berlin, stands as a remarkable triumphal arch that has witnessed the city's tumultuous history and transformation. Situated at the western end of Unter den Linden, this monumental structure not only marks the entrance to the city's historic center but also serves as a powerful emblem of peace and unity. The gate is a quintessential part of Berlin’s cultural landscape, drawing millions of visitors annually who come to experience its historical significance and architectural splendor. As you approach this majestic structure, you are met with its commanding presence, flanked by the vibrant energy of the city surrounding it. 
+The Brandenburg Gate, an iconic symbol of Berlin, stands as a remarkable triumphal arch that has witnessed the city's tumultuous history and transformation. Situated at the western end of Unter den Linden, this monumental structure not only marks the entrance to the city's historic center but also serves as a powerful emblem of peace and unity. The gate is a quintessential part of Berlin's cultural landscape, drawing millions of visitors annually who come to experience its historical significance and architectural splendor. As you approach this majestic structure, you are met with its commanding presence, flanked by the vibrant energy of the city surrounding it. 
 
 As a city gate, the Brandenburg Gate embodies more than mere architecture; it represents the resilience of Berlin and the spirit of its people. Its strategic location and historical importance make it a must-visit site for anyone traveling to Germany's capital, promising an enriching experience steeped in heritage and significance.
 
@@ -42,7 +42,7 @@ Today, the Brandenburg Gate is not only a key historical monument but also a foc
 
 The Brandenburg Gate is characterized by its neoclassical architectural style, designed to convey grandeur and strength. The structure is constructed from sandstone and stands at approximately 26 meters high, 65 meters wide, and 11 meters deep. It features twelve Doric columns that create five passageways, with the central archway being the widest and most prominent.
 
-Atop the gate, the Quadriga—a sculpture of a chariot drawn by four horses and driven by the goddess of victory, Victoria—adds to its illustrious appearance. This striking feature not only enhances the gate’s aesthetic appeal but also carries symbolic weight; it represents triumph and the restoration of peace. The Quadriga has undergone several changes throughout history, including a period of removal during the Napoleonic Wars, only to be restored later as a symbol of unity and strength.
+Atop the gate, the Quadriga—a sculpture of a chariot drawn by four horses and driven by the goddess of victory, Victoria—adds to its illustrious appearance. This striking feature not only enhances the gate's aesthetic appeal but also carries symbolic weight; it represents triumph and the restoration of peace. The Quadriga has undergone several changes throughout history, including a period of removal during the Napoleonic Wars, only to be restored later as a symbol of unity and strength.
 
 Visitors can admire the intricate details of the gate, including the reliefs and inscriptions that adorn its surfaces. The overall design reflects the ideals of classical antiquity, making it a significant example of neoclassical architecture in Berlin.
 

@@ -58,7 +58,7 @@ The best times to visit are typically during daylight hours, when the natural li
 
 While visiting Sachsenhain, there are several nearby attractions that can enhance your experience in Verden:
 
-1. **Verden Cathedral**: An impressive architectural structure that showcases the region’s religious history.
+1. **Verden Cathedral**: An impressive architectural structure that showcases the region's religious history.
 2. **Museum of the History of Verden**: A venue that provides insight into the local culture and history, complementing the themes of remembrance explored at Sachsenhain.
 3. **The River Aller**: A picturesque waterway ideal for leisurely strolls, offering a serene backdrop to the historical context of the surroundings.
 4. **Reiterstadt Verden**: Known as the City of Riders, this area celebrates equestrian culture and history, providing another layer of exploration for visitors.

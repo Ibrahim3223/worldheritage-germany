@@ -99,7 +99,7 @@ Guided tours may be available; check the official website for more information o
 The best time to visit is during spring or summer when the gardens are at their most vibrant.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available; it’s recommended to check in advance for specific accommodations.
+Accessibility options may be available; it's recommended to check in advance for specific accommodations.
 
 ### Can I buy tickets online?
 Check the official website for details regarding online ticket purchasing options.

@@ -64,7 +64,7 @@ While visiting Gymnasium Bayreuther Straße, consider exploring these nearby att
 
 4. **Von der Heydt Museum**: A cultural site featuring an impressive collection of artworks and exhibitions.
 
-5. **Wuppertal’s Historic Town Center**: Explore the charming streets filled with shops, cafes, and historical architecture.
+5. **Wuppertal's Historic Town Center**: Explore the charming streets filled with shops, cafes, and historical architecture.
 
 ## Insider Tips
 

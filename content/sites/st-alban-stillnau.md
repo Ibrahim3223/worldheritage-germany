@@ -40,7 +40,7 @@ Although specific historical details about St. Alban are limited, its presence i
 
 St. Alban (Stillnau) exemplifies the architectural styles prevalent in church buildings of its time and region. The church is characterized by its traditional design, which is common among ecclesiastical structures in Germany. While detailed architectural specifics are not provided, one can expect to find elements typical of church architecture, such as vaulted ceilings, stained glass windows, and a prominent altar area. 
 
-The exterior of the church likely features a blend of local materials, showcasing craftsmanship that has been honed over generations. Churches often incorporate symbolic elements in their design, which can be observed in the choice of motifs and decorations that align with the religious themes of the faith it represents. Visitors may also notice the serene surroundings that complement the church’s architecture, creating a harmonious environment for reflection and worship.
+The exterior of the church likely features a blend of local materials, showcasing craftsmanship that has been honed over generations. Churches often incorporate symbolic elements in their design, which can be observed in the choice of motifs and decorations that align with the religious themes of the faith it represents. Visitors may also notice the serene surroundings that complement the church's architecture, creating a harmonious environment for reflection and worship.
 
 ## Visiting Information
 

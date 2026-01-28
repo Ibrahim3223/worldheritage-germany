@@ -78,7 +78,7 @@ To avoid crowds, visiting during weekdays or outside of religious service times 
 
 When planning your visit to the Church in Alt Bukow, consider bringing a camera to capture the stunning architecture and any special events you may encounter. Comfortable walking shoes are advisable, as you may want to explore the surrounding areas on foot.
 
-Seasonal considerations may play a role in your visit. The church’s ambiance can change with the seasons, presenting a different experience in winter, spring, summer, or fall. Check the weather forecast before your visit to ensure a comfortable experience.
+Seasonal considerations may play a role in your visit. The church's ambiance can change with the seasons, presenting a different experience in winter, spring, summer, or fall. Check the weather forecast before your visit to ensure a comfortable experience.
 
 ## Frequently Asked Questions
 
@@ -86,10 +86,10 @@ Seasonal considerations may play a role in your visit. The church’s ambiance c
 A visit typically lasts between 30 minutes to an hour, depending on your interest in the architecture and history.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for any restrictions upon arrival.
+Photography is generally permitted, but it's always best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these can enhance your understanding of the church’s significance.
+Check the official website for information regarding guided tours, as these can enhance your understanding of the church's significance.
 
 ### What's the best time to visit?
 Daylight hours are ideal for visiting, with early mornings or late afternoons providing optimal lighting for photography.
@@ -101,7 +101,7 @@ Accessibility features may vary, so check the official website for specific deta
 For information on ticket purchases, visit the official website to see if online options are available.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for details on available amenities.
+Facilities may vary, so it's advisable to check the official website for details on available amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for a place of worship; consider modest clothing if attending a service.

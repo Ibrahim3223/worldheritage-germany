@@ -62,13 +62,13 @@ Würzburg is home to a wealth of attractions that complement a visit to the Mine
 
 1. **Würzburg Residence**: A UNESCO World Heritage Site, this baroque palace features stunning architecture and beautiful gardens, making it a must-see for visitors.
    
-2. **Marienberg Fortress**: Offering panoramic views of the city, this historic fortress is an excellent spot for exploring Würzburg’s past and enjoying scenic vistas.
+2. **Marienberg Fortress**: Offering panoramic views of the city, this historic fortress is an excellent spot for exploring Würzburg's past and enjoying scenic vistas.
 
 3. **St. Kilian Cathedral**: A remarkable example of Gothic architecture, this cathedral is known for its impressive interior and historical significance.
 
 4. **Old Main Bridge**: This picturesque bridge offers a lovely walk with views of the river and surrounding cityscape, adorned with statues and vibrant local life.
 
-5. **Botanical Garden**: A serene escape from the city’s bustle, the garden features a diverse range of plant species and creates a peaceful environment for relaxation.
+5. **Botanical Garden**: A serene escape from the city's bustle, the garden features a diverse range of plant species and creates a peaceful environment for relaxation.
 
 ## Insider Tips
 

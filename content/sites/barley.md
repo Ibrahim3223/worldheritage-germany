@@ -64,7 +64,7 @@ While Barley is a destination in its own right, several nearby attractions compl
 
 1. **Liebenburg Castle**: A historic castle situated close to Barley, offering insights into the region's medieval architecture and history.
 
-2. **The Rammelsberg Mine**: A UNESCO World Heritage Site, this former mining complex provides a fascinating look into the mining industry’s past and its impact on the local economy.
+2. **The Rammelsberg Mine**: A UNESCO World Heritage Site, this former mining complex provides a fascinating look into the mining industry's past and its impact on the local economy.
 
 3. **The Harz National Park**: A short drive from Barley, this national park features stunning landscapes, hiking trails, and a variety of wildlife, perfect for those looking to extend their outdoor adventures.
 

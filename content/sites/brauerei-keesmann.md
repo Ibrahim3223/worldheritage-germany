@@ -28,7 +28,7 @@ image_srcset:
 
 Brauerei Keesmann, a notable brewery located in the historic city of Bamberg, Bavaria, Germany, offers a unique glimpse into the world of traditional German brewing. This establishment not only represents the rich heritage of Bavarian beer production but also contributes to the vibrant culture of Bamberg, a city renowned for its architectural beauty and historical significance. The brewery is situated at coordinates 49.8904, 10.9056, which places it within the heart of a region celebrated for its beer culture, steeped in centuries of brewing tradition.
 
-Visitors to Brauerei Keesmann can expect an experience that combines a deep appreciation for craftsmanship with the opportunity to savor authentic Bavarian beers. The brewery stands as a significant player in Bamberg’s beer scene, where brewing is not just a profession but a way of life. Whether you're a beer enthusiast or a casual visitor, the brewery promises a captivating experience that connects you with the local culture and traditions.
+Visitors to Brauerei Keesmann can expect an experience that combines a deep appreciation for craftsmanship with the opportunity to savor authentic Bavarian beers. The brewery stands as a significant player in Bamberg's beer scene, where brewing is not just a profession but a way of life. Whether you're a beer enthusiast or a casual visitor, the brewery promises a captivating experience that connects you with the local culture and traditions.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ For those planning a visit to Brauerei Keesmann, here are some insider tips to e
 
 ## Practical Information
 
-When visiting Brauerei Keesmann, it’s helpful to be prepared for your experience. Here are some practical considerations:
+When visiting Brauerei Keesmann, it's helpful to be prepared for your experience. Here are some practical considerations:
 
 - **What to Bring**: Bring a valid form of identification if you plan to sample beers, as age restrictions may apply. Comfortable clothing and shoes are recommended, as you may be walking or standing for some time.
 

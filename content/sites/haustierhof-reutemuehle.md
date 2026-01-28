@@ -62,7 +62,7 @@ After enjoying your visit to Haustierhof Reutemühle, consider exploring some ne
 
 1. **Bodensee Promenade**: A scenic lakeside walkway where visitors can enjoy stunning views of Lake Constance, perfect for leisurely strolls or picnics.
 
-2. **Überlingen Old Town**: This charming area features historical buildings, quaint shops, and delightful cafes, offering a glimpse into the region’s past.
+2. **Überlingen Old Town**: This charming area features historical buildings, quaint shops, and delightful cafes, offering a glimpse into the region's past.
 
 3. **Zollhaus Museum**: Located nearby, this museum provides insights into the local history and culture, making it an enriching addition to your itinerary.
 

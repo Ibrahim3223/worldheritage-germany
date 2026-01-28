@@ -36,7 +36,7 @@ Visitors can explore a blend of artistic innovation and historical milestones th
 
 Dessau's historical narrative is woven through centuries of social and political change. While specific dates remain elusive, the city's roots trace back to its establishment as a settlement. Over the years, it has evolved into an important cultural center, particularly noted for its connection to the Bauhaus school of design. Founded in 1919 by Walter Gropius, the Bauhaus movement profoundly influenced modern architecture and design, and Dessau became a pivotal site for its development.
 
-The city’s significance extends beyond its architectural feats; it has also witnessed various socio-political transformations throughout its history. As a part of the province of Saxony-Anhalt, Dessau has been influenced by the broader historical context of Germany, including the impacts of the World Wars and the subsequent division of East and West Germany. Each of these events has left an indelible mark on the urban landscape and cultural fabric of the city.
+The city's significance extends beyond its architectural feats; it has also witnessed various socio-political transformations throughout its history. As a part of the province of Saxony-Anhalt, Dessau has been influenced by the broader historical context of Germany, including the impacts of the World Wars and the subsequent division of East and West Germany. Each of these events has left an indelible mark on the urban landscape and cultural fabric of the city.
 
 Dessau also played a notable role in the German Reformation and has been a site for various cultural movements throughout the ages. The philosophical and artistic currents that have flowed through the city have contributed to its identity as a hub for creativity and innovation.
 
@@ -54,7 +54,7 @@ Dessau is well-connected by public transportation, making it easily accessible f
 
 Check the official website for current information on hours and prices for attractions, as these may vary throughout the year. It is advisable to allocate at least half a day to fully experience the key sights, although a longer visit would provide a deeper understanding of the city's rich heritage.
 
-The best times to visit Dessau are during the spring and early autumn months when the weather is mild, and outdoor activities can be enjoyed comfortably. Summer may bring larger crowds, particularly during events and festivals that celebrate the city’s cultural offerings.
+The best times to visit Dessau are during the spring and early autumn months when the weather is mild, and outdoor activities can be enjoyed comfortably. Summer may bring larger crowds, particularly during events and festivals that celebrate the city's cultural offerings.
 
 ## Nearby Attractions
 

@@ -107,7 +107,7 @@ The museum aims to be accessible to all visitors. For specific accessibility inf
 Check the official website for information on ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities are available on-site. The museum may also have a café or snack bar, but it’s advisable to confirm this on the official website.
+Restroom facilities are available on-site. The museum may also have a café or snack bar, but it's advisable to confirm this on the official website.
 
 ### What should I wear?
 Casual and comfortable attire is appropriate for a visit. Consider dressing in layers, as museum temperatures can vary.

@@ -34,13 +34,13 @@ The Bilal Mosque is named after Bilal ibn Rabah, an important figure in Islamic 
 
 The mosque holds cultural importance not only for its religious function but also for its role as a center for intercultural dialogue in Aachen. It provides a space for worship, educational programs, and community gatherings, fostering understanding among diverse groups. The mosque welcomes individuals from various backgrounds, encouraging discussions that bridge cultural divides. 
 
-As a prominent structure in Aachen, the Bilal Mosque contributes to the city’s multicultural identity. Through its activities, it helps to create a sense of belonging among residents and visitors alike, highlighting the importance of religious tolerance in contemporary society. 
+As a prominent structure in Aachen, the Bilal Mosque contributes to the city's multicultural identity. Through its activities, it helps to create a sense of belonging among residents and visitors alike, highlighting the importance of religious tolerance in contemporary society. 
 
 ## Architecture and Features
 
 The architectural design of the Bilal Mosque reflects modern Islamic aesthetics, blending traditional elements with contemporary influences. The exterior features clean lines and a minimalist approach typical of modern mosque designs. Large windows enhance natural light within the prayer hall, creating a serene atmosphere conducive to reflection and worship.
 
-Inside, the mosque is designed to accommodate a significant number of worshippers. The prayer hall is spacious, with designated areas for men and women, allowing for communal prayer while respecting cultural practices. Noteworthy features include intricate calligraphy and decorative motifs that illustrate Islamic art, contributing to the mosque’s spiritual ambiance.
+Inside, the mosque is designed to accommodate a significant number of worshippers. The prayer hall is spacious, with designated areas for men and women, allowing for communal prayer while respecting cultural practices. Noteworthy features include intricate calligraphy and decorative motifs that illustrate Islamic art, contributing to the mosque's spiritual ambiance.
 
 The mosque is constructed with durable materials, ensuring longevity while maintaining a welcoming environment. Its overall design serves both functional and aesthetic purposes, making it an inviting space for worship and community engagement.
 

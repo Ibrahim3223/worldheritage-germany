@@ -60,7 +60,7 @@ While visiting Geismühle, consider exploring some nearby attractions that enric
 
 1. **Krefeld Zoo**: A family-friendly destination featuring a variety of animal species and well-maintained habitats, providing an enjoyable day out for animal lovers.
    
-2. **Castle Linn**: This historical castle is located nearby and offers insight into the region’s medieval history, complete with scenic grounds and impressive architecture.
+2. **Castle Linn**: This historical castle is located nearby and offers insight into the region's medieval history, complete with scenic grounds and impressive architecture.
    
 3. **St. Dionysius Church**: A beautiful church that showcases local architecture and offers a peaceful place to reflect or enjoy the surroundings.
 
@@ -72,7 +72,7 @@ While visiting Geismühle, consider exploring some nearby attractions that enric
 
 For photography enthusiasts, Geismühle provides ample opportunities for capturing the beauty of windmill architecture against the backdrop of the surrounding landscape. Early morning or late afternoon light often creates a softer ambiance, ideal for photography. To avoid larger crowds, consider visiting during weekdays, particularly outside of peak tourist seasons.
 
-If you’re interested in capturing the mechanics of the windmill itself, be sure to inquire about any guided tours that might be available, as these can offer deeper insights and unique perspectives.
+If you're interested in capturing the mechanics of the windmill itself, be sure to inquire about any guided tours that might be available, as these can offer deeper insights and unique perspectives.
 
 ## Practical Information
 

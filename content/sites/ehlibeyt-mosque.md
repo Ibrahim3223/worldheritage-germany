@@ -32,7 +32,7 @@ In a city known for its historical richness and modern innovations, the Ehlibeyt
 
 ## History and Significance
 
-The Ehlibeyt Mosque serves as a focal point for the Shiite Muslim community in Hanover. Although specific founding dates are not available, the mosque’s establishment corresponds with the broader context of immigration patterns in Germany, particularly during the late 20th century when many Muslims moved to Germany for work and education. This influx has contributed to the increasing visibility of Islamic culture in various German cities, including Hanover.
+The Ehlibeyt Mosque serves as a focal point for the Shiite Muslim community in Hanover. Although specific founding dates are not available, the mosque's establishment corresponds with the broader context of immigration patterns in Germany, particularly during the late 20th century when many Muslims moved to Germany for work and education. This influx has contributed to the increasing visibility of Islamic culture in various German cities, including Hanover.
 
 The mosque is named after the "Ahl al-Bayt," which translates to "People of the House" in Arabic, referring to the family of the Prophet Muhammad. This designation underscores the mosque's dedication to promoting the teachings and values of this significant lineage within Islam. The mosque's activities extend beyond prayer; it acts as a center for community events, educational programs, and social services, thereby reinforcing its role as a vital institution within the local Muslim community.
 

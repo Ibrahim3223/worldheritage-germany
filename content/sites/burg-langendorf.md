@@ -66,7 +66,7 @@ While visiting Burg Langendorf, take advantage of the opportunity to explore oth
 
 3. **St. Peter's Church**: This historic church, with its impressive architecture, is a short distance from Burg Langendorf and provides an opportunity to appreciate the spiritual heritage of the area.
 
-4. **The Roman Bath**: Located in Zülpich, this archaeological site showcases the remnants of a Roman bath complex, offering a fascinating glimpse into the region’s ancient history.
+4. **The Roman Bath**: Located in Zülpich, this archaeological site showcases the remnants of a Roman bath complex, offering a fascinating glimpse into the region's ancient history.
 
 5. **The Old Town of Zülpich**: Wander through the charming streets of the old town, where you can admire the well-preserved buildings and vibrant local shops, giving you a taste of the community's character.
 
@@ -92,7 +92,7 @@ As you plan your trip, remember to check the official website for any specific v
 A visit to Burg Langendorf typically requires a few hours, allowing you to explore the castle and its surroundings at a leisurely pace.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions upon your arrival.
+Photography is generally permitted, but it's advisable to check for any specific restrictions upon your arrival.
 
 ### Are there guided tours?
 While specific information about guided tours may not be available, check the official website for details on any tour offerings during your visit.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schloss Krugsdorf is an elegant manor house located in the picturesque region of Krugsdorf, Germany. This charming château offers visitors a glimpse into the architectural and cultural heritage of the area. As you approach the manor, its classic design and serene surroundings invite exploration and appreciation of its historical significance. The site serves not only as a representation of noble living but also as a reminder of the region’s storied past.
+Schloss Krugsdorf is an elegant manor house located in the picturesque region of Krugsdorf, Germany. This charming château offers visitors a glimpse into the architectural and cultural heritage of the area. As you approach the manor, its classic design and serene surroundings invite exploration and appreciation of its historical significance. The site serves not only as a representation of noble living but also as a reminder of the region's storied past.
 
 Situated at coordinates 53.5238, 14.0848, Schloss Krugsdorf is surrounded by lush landscapes that speak to the beauty of the German countryside. Its historical context is marked by the evolution of manor houses in Germany, showcasing the lifestyle and influence of the noble families who once resided within its walls. Visitors can expect a tranquil and enriching experience, perfect for those interested in heritage travel.
 
@@ -86,7 +86,7 @@ When preparing for your visit to Schloss Krugsdorf, here are some practical cons
 
 - **Seasonal Considerations**: The experience may vary by season, so check the weather forecast and dress accordingly. Spring and summer visits can be particularly pleasant due to the blooming flora.
 
-- **Accessibility**: While the manor may have certain accessible features, it’s advisable to confirm with the official website regarding wheelchair accessibility and other accommodations.
+- **Accessibility**: While the manor may have certain accessible features, it's advisable to confirm with the official website regarding wheelchair accessibility and other accommodations.
 
 ## Frequently Asked Questions
 

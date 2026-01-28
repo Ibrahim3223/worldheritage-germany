@@ -56,7 +56,7 @@ While visiting Zeche Adolphine, there are several nearby attractions that can en
 
 1. **LWL Industrial Museum**: This museum offers further insights into the industrial history of the region, showcasing different aspects of mining and manufacturing.
    
-2. **Hohenstein Castle**: A historic site that provides a glimpse into the region’s medieval past, with beautiful architecture and scenic grounds.
+2. **Hohenstein Castle**: A historic site that provides a glimpse into the region's medieval past, with beautiful architecture and scenic grounds.
    
 3. **Witten Botanical Garden**: A peaceful escape, this garden features a diverse collection of plants and is perfect for a leisurely stroll.
    

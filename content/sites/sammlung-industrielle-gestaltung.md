@@ -88,7 +88,7 @@ For a smooth and enjoyable visit to Sammlung Industrielle Gestaltung, consider t
 A visit of approximately two hours is recommended to fully explore the library's collection and any exhibitions.
 
 ### Is photography allowed?
-Check the library’s official policy on photography, as some areas may have restrictions.
+Check the library's official policy on photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website. Check for any scheduled tours or events.
@@ -103,7 +103,7 @@ For specific accessibility information, check the official website prior to your
 Details about ticket purchasing can be found on the library's official website. 
 
 ### Are there restrooms and cafes?
-Check the library’s facilities on the official website for information about restrooms and any available cafes.
+Check the library's facilities on the official website for information about restrooms and any available cafes.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the season and your planned activities during your visit to Berlin.

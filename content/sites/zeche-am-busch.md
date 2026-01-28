@@ -58,9 +58,9 @@ Visitors should prepare for a walking experience, as the site may require some e
 
 Dortmund is home to a variety of attractions that complement a visit to Zeche Am Busch. Here are a few notable sites in the vicinity:
 
-1. **Dortmund U-Tower**: This former brewery turned cultural center houses various exhibitions and events. It’s a hub for contemporary art and offers panoramic views of the city from its observation deck.
+1. **Dortmund U-Tower**: This former brewery turned cultural center houses various exhibitions and events. It's a hub for contemporary art and offers panoramic views of the city from its observation deck.
 
-2. **Westfalenpark**: A large public park featuring beautiful gardens, a rose garden, and a lake. It’s a perfect spot for a leisurely stroll or a picnic.
+2. **Westfalenpark**: A large public park featuring beautiful gardens, a rose garden, and a lake. It's a perfect spot for a leisurely stroll or a picnic.
 
 3. **Museum Ostwall**: Located in the U-Tower, this museum focuses on modern and contemporary art, offering a contrasting experience to the industrial heritage of the mine.
 
@@ -99,7 +99,7 @@ A visit to Zeche Am Busch typically takes about two hours, allowing enough time 
 Photography is generally permitted, but check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Information regarding guided tours may be available on the official website. It’s best to check ahead of your visit.
+Information regarding guided tours may be available on the official website. It's best to check ahead of your visit.
 
 ### What's the best time to visit?
 While specific peak times are not detailed, visiting during weekdays or outside of major holidays can provide a quieter experience.

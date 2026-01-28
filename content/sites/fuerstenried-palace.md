@@ -56,7 +56,7 @@ When visiting Fürstenried Palace, consider exploring these nearby attractions t
 
 3. **Botanical Garden Munich** - A beautiful garden featuring a vast array of plant species, providing a peaceful atmosphere for relaxation and exploration.
 
-4. **St. Ludwig’s Church** - An impressive neo-Romanesque church known for its striking architecture and serene interior.
+4. **St. Ludwig's Church** - An impressive neo-Romanesque church known for its striking architecture and serene interior.
 
 5. **Hirschgarten** - One of Munich's largest beer gardens, perfect for a relaxing meal while enjoying the outdoor ambiance.
 

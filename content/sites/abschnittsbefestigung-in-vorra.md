@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Abschnittsbefestigung in Vorra stands as a significant cultural heritage monument in Bavaria's Landkreis Nürnberger Land, Germany. This fortification is an intriguing remnant of the region's historical military architecture, offering visitors a glimpse into the past while set against the backdrop of the serene Bavarian landscape. The site’s coordinates, 49.556383 latitude and 11.483456 longitude, mark a location steeped in history, with remnants that tell stories of defense and community.
+The Abschnittsbefestigung in Vorra stands as a significant cultural heritage monument in Bavaria's Landkreis Nürnberger Land, Germany. This fortification is an intriguing remnant of the region's historical military architecture, offering visitors a glimpse into the past while set against the backdrop of the serene Bavarian landscape. The site's coordinates, 49.556383 latitude and 11.483456 longitude, mark a location steeped in history, with remnants that tell stories of defense and community.
 
 As you approach the fortification, you might find yourself contemplating the strategic importance this structure held in its heyday. It serves not only as a historical monument but also as a testament to the engineering prowess of the time. The Abschnittsbefestigung invites exploration and reflection, making it a promising destination for history enthusiasts and casual visitors alike.
 
@@ -58,7 +58,7 @@ While the Abschnittsbefestigung in Vorra is a captivating site in its own right,
 
 3. **Playmobil FunPark** - Ideal for families, this theme park in Zirndorf features interactive play areas and attractions based on the popular Playmobil toys.
 
-4. **Albrecht Dürer’s House** - Situated in Nuremberg, this museum is dedicated to the life and work of the famous Renaissance artist, offering a glimpse into his creative environment.
+4. **Albrecht Dürer's House** - Situated in Nuremberg, this museum is dedicated to the life and work of the famous Renaissance artist, offering a glimpse into his creative environment.
 
 5. **Local Hiking Trails** - The surrounding area features various hiking paths that allow visitors to explore the natural beauty of Bavaria while taking in views of the fortification from different perspectives.
 
@@ -95,7 +95,7 @@ Check the official website for information on accessibility options at the site.
 Pricing and ticketing information can be found on the official website; it is advisable to check this before your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s prudent to plan accordingly. Check the official website for specifics.
+Facilities may be limited, so it's prudent to plan accordingly. Check the official website for specifics.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, particularly if you plan to explore the surrounding area.

@@ -72,7 +72,7 @@ While visiting the Leibniz Institute for Astrophysics Potsdam, there are several
 
 ## Insider Tips
 
-For photography enthusiasts, capturing the architecture of the Leibniz Institute for Astrophysics Potsdam can be rewarding, especially during the golden hours of sunrise or sunset. However, it’s important to be mindful of any restrictions on photography within certain areas of the facility.
+For photography enthusiasts, capturing the architecture of the Leibniz Institute for Astrophysics Potsdam can be rewarding, especially during the golden hours of sunrise or sunset. However, it's important to be mindful of any restrictions on photography within certain areas of the facility.
 
 To avoid crowds, consider visiting during weekdays or during off-peak hours. Engaging in public lectures or special events can also enhance your experience, providing deeper insights into ongoing research.
 
@@ -88,7 +88,7 @@ Seasonal considerations may also affect your visit, as certain events or exhibit
 A visit typically takes about two to three hours, allowing time to explore exhibitions and potentially attend events.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff or posted signs regarding restrictions.
+Photography policies may vary, so it's best to check with staff or posted signs regarding restrictions.
 
 ### Are there guided tours?
 Guided tours may be available during special events. Check the official website for details and scheduling.
@@ -97,13 +97,13 @@ Guided tours may be available during special events. Check the official website 
 Weekdays or special event days are ideal for a less crowded experience.
 
 ### Is it wheelchair accessible?
-The facility is designed with accessibility in mind, but it’s advisable to confirm specific accessibility features on the official website.
+The facility is designed with accessibility in mind, but it's advisable to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options and any potential fees.
 
 ### Are there restrooms and cafes?
-Restroom facilities are available, but dining options may be limited. It’s advisable to plan accordingly.
+Restroom facilities are available, but dining options may be limited. It's advisable to plan accordingly.
 
 ### What should I wear?
 Comfortable attire suited for walking is recommended, along with layers to adjust to indoor and outdoor temperatures.

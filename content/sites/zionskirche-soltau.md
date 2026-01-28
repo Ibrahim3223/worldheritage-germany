@@ -70,7 +70,7 @@ Visitors to Zionskirche can enhance their experience by exploring several nearby
 
 ## Insider Tips
 
-For those wishing to capture the beauty of Zionskirche, photography is likely permitted in public areas, but it’s advisable to be respectful of worshippers and services. Early visits or weekdays can help avoid crowds, allowing for a more peaceful experience. If you have the opportunity, attending a service can provide a deeper understanding of the church's role in the community.
+For those wishing to capture the beauty of Zionskirche, photography is likely permitted in public areas, but it's advisable to be respectful of worshippers and services. Early visits or weekdays can help avoid crowds, allowing for a more peaceful experience. If you have the opportunity, attending a service can provide a deeper understanding of the church's role in the community.
 
 ## Practical Information
 

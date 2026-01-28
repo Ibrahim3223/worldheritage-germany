@@ -80,7 +80,7 @@ When preparing for your visit to the Doktor-Eisenbarth- und Stadtmuseum, conside
 
 Seasonal considerations may include checking the weather forecast, as it can affect travel plans. Dressing in layers can help you adapt to changes in temperature whether you are indoors or outdoors. 
 
-Additionally, it’s prudent to review the museum’s official website for any specific visitor requirements or recommendations that may enhance your experience.
+Additionally, it's prudent to review the museum's official website for any specific visitor requirements or recommendations that may enhance your experience.
 
 ## Frequently Asked Questions
 

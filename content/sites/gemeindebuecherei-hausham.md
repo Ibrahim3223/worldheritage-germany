@@ -48,7 +48,7 @@ While visiting, it is advisable to check the official website for current inform
 
 Expect to spend a couple of hours browsing the collections, participating in activities, or simply enjoying the peaceful environment. The library's atmosphere is well-suited for relaxation and reflection, making it an excellent spot for those seeking a brief respite from the hustle and bustle of everyday life.
 
-The best times to visit may vary based on local programming and events, so checking the library’s schedule in advance can help you plan your visit effectively. 
+The best times to visit may vary based on local programming and events, so checking the library's schedule in advance can help you plan your visit effectively. 
 
 ## Nearby Attractions
 
@@ -68,7 +68,7 @@ While visiting the Gemeindebücherei Hausham, take the opportunity to explore ot
 
 When visiting the Gemeindebücherei Hausham, consider the following tips for an enhanced experience:
 
-- **Photography**: If you wish to take photos inside the library, it’s advisable to check for any restrictions on photography to respect the library's policies.
+- **Photography**: If you wish to take photos inside the library, it's advisable to check for any restrictions on photography to respect the library's policies.
 
 - **Timing**: To avoid larger crowds, consider visiting during weekdays or early in the day. This will allow you to enjoy a quieter atmosphere, ideal for reading or studying.
 

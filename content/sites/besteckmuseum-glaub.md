@@ -70,7 +70,7 @@ To enhance your experience, consider visiting during weekdays or early in the da
 
 ## Insider Tips
 
-To make the most of your visit to Besteckmuseum Glaub, consider bringing a camera, as many exhibits offer excellent opportunities for photography. However, always check the museum’s photography policy upon arrival.
+To make the most of your visit to Besteckmuseum Glaub, consider bringing a camera, as many exhibits offer excellent opportunities for photography. However, always check the museum's photography policy upon arrival.
 
 For those looking to avoid crowds, visiting during the early hours or on weekdays is advisable. This strategy allows for a more peaceful experience as you explore the exhibits without the bustle of larger groups.
 

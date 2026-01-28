@@ -68,7 +68,7 @@ To enhance your visit to the Money Museum, consider the following insider tips:
 
 - **Photography**: Check museum policies for photography, as some exhibits may have restrictions.
 - **Crowd Avoidance**: Visit during weekdays or early morning hours to enjoy a quieter experience and better access to exhibits.
-- **Engagement**: Don’t hesitate to ask staff questions; they can provide valuable insights and additional context to the exhibits.
+- **Engagement**: Don't hesitate to ask staff questions; they can provide valuable insights and additional context to the exhibits.
 
 ## Practical Information
 

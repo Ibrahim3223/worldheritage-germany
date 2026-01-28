@@ -46,7 +46,7 @@ While the transmitter's primary function was to relay signals over long distance
 
 ## Visiting Information
 
-Accessing the Eilvese transmitter is relatively straightforward, with various transportation options available for visitors. Depending on your starting point, public transport networks in the region can provide convenient access to Neustadt am Rübenberge. For those driving, there are typically parking options nearby, but it’s advisable to check local guidelines for any specific regulations.
+Accessing the Eilvese transmitter is relatively straightforward, with various transportation options available for visitors. Depending on your starting point, public transport networks in the region can provide convenient access to Neustadt am Rübenberge. For those driving, there are typically parking options nearby, but it's advisable to check local guidelines for any specific regulations.
 
 Visitors should plan ahead, as operational hours and entry fees can vary. Check the official website for current information regarding visiting hours and potential ticket prices. When planning your visit, allocate ample time to explore the site and absorb the historical context surrounding the transmitter. Depending on your interests, a visit could take anywhere from one to two hours.
 
@@ -76,7 +76,7 @@ To avoid crowds, weekdays are generally quieter than weekends, making it a more 
 
 When planning your visit to the Eilvese transmitter, it is advisable to wear comfortable clothing and footwear suitable for walking. Given the outdoor nature of the site, consider the weather forecast, as rain or snow may affect your experience.
 
-It’s also wise to bring along essentials such as water and snacks, particularly if you plan to explore the surrounding area. As the site is outdoors, be prepared for varying weather conditions, particularly in the winter months.
+It's also wise to bring along essentials such as water and snacks, particularly if you plan to explore the surrounding area. As the site is outdoors, be prepared for varying weather conditions, particularly in the winter months.
 
 ## Frequently Asked Questions
 

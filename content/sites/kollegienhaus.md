@@ -38,7 +38,7 @@ The history of Kollegienhaus reflects the broader cultural and political shifts 
 
 The courthouse's significance extends beyond its legal functions; it embodies the principles of justice and governance that have evolved within the context of German history. The architecture and design of Kollegienhaus also mirror the changing styles and ideologies that have influenced public buildings in Berlin. This courthouse has stood through various historical periods, adapting to the needs of the legal system while maintaining its core function.
 
-As a site of legal proceedings, Kollegienhaus serves as a reminder of the importance of law and order in society, making it a focal point for discussions around justice and civic engagement. Visitors to the courthouse can appreciate not only its role in the legal landscape but also its contribution to the city’s identity as a center of governance and civic responsibility.
+As a site of legal proceedings, Kollegienhaus serves as a reminder of the importance of law and order in society, making it a focal point for discussions around justice and civic engagement. Visitors to the courthouse can appreciate not only its role in the legal landscape but also its contribution to the city's identity as a center of governance and civic responsibility.
 
 ## Architecture and Features
 
@@ -112,4 +112,4 @@ Facilities such as restrooms may be available on-site, but dining options may be
 ### What should I wear?
 Dress in a manner that respects the courthouse environment. Smart casual attire is generally appropriate for a visit to such a civic space.
 
-Kollegienhaus stands not only as a functional courthouse but also as an important piece of Berlin's historical and architectural landscape. Whether you are interested in the legal processes it facilitates or simply wish to appreciate its design, a visit to this courthouse will add depth to your understanding of Berlin’s civic life.
+Kollegienhaus stands not only as a functional courthouse but also as an important piece of Berlin's historical and architectural landscape. Whether you are interested in the legal processes it facilitates or simply wish to appreciate its design, a visit to this courthouse will add depth to your understanding of Berlin's civic life.

@@ -70,7 +70,7 @@ After visiting the Busse-Denkmal, consider exploring some of Bremerhaven's other
 
 5. **Weser-Strandbad**: If you're looking for relaxation, this beach area along the Weser River provides a scenic spot for a leisurely stroll or a peaceful moment by the water.
 
-These attractions complement your visit to the Busse-Denkmal, offering a well-rounded experience of Bremerhaven’s cultural and historical richness.
+These attractions complement your visit to the Busse-Denkmal, offering a well-rounded experience of Bremerhaven's cultural and historical richness.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ When planning your visit to the Busse-Denkmal, keep the following practical cons
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. A camera is also advisable for capturing the monument and nearby attractions.
 
-- **Seasonal Considerations**: Depending on the time of year, weather conditions may vary. It’s wise to check the forecast and dress accordingly, especially if you plan to spend extended time outdoors.
+- **Seasonal Considerations**: Depending on the time of year, weather conditions may vary. It's wise to check the forecast and dress accordingly, especially if you plan to spend extended time outdoors.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Currently, there are no specific guided tours for the Busse-Denkmal. However, lo
 Early morning or late afternoon may provide a quieter experience and better lighting for photography.
 
 ### Is it wheelchair accessible?
-The monument is located in a public space and should be accessible, but it’s recommended to check for any specific accessibility information.
+The monument is located in a public space and should be accessible, but it's recommended to check for any specific accessibility information.
 
 ### Can I buy tickets online?
 No tickets are required for visiting the Busse-Denkmal, but check the official website for any updates regarding events or special exhibitions.

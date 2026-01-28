@@ -86,7 +86,7 @@ Bringing along a small bag with essentials such as water, a notebook for reflect
 A visit to St. Lawrence Church typically takes around 30 minutes to an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted inside the church, but it’s courteous to be respectful of any ongoing services or private moments of reflection.
+Photography is generally permitted inside the church, but it's courteous to be respectful of any ongoing services or private moments of reflection.
 
 ### Are there guided tours?
 At present, specific information about guided tours is not available; check the official website for any updates regarding tours or guided experiences.

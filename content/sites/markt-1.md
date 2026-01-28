@@ -32,7 +32,7 @@ Visitors to Markt 1 will find an engaging blend of history and community spirit.
 
 ## History and Significance
 
-Markt 1 serves as a testament to the evolution of civic architecture and local governance in Ostritz. Its historical roots trace back to a time when city halls were not merely administrative buildings but also the epicenter of community life. Although specific historical dates are not provided, the structure has played a crucial role in the town’s development, acting as a venue for local decisions, celebrations, and gatherings.
+Markt 1 serves as a testament to the evolution of civic architecture and local governance in Ostritz. Its historical roots trace back to a time when city halls were not merely administrative buildings but also the epicenter of community life. Although specific historical dates are not provided, the structure has played a crucial role in the town's development, acting as a venue for local decisions, celebrations, and gatherings.
 
 The cultural importance of Markt 1 cannot be overstated. As the city's administrative hub, it has witnessed various social and political changes over the years. The city hall is a physical embodiment of Ostritz's commitment to civic engagement and community involvement. It stands as a reminder of the town's governance and its role in shaping the lives of its residents.
 
@@ -44,7 +44,7 @@ The architectural style of Markt 1 reflects the characteristics of civic buildin
 
 As a city hall, Markt 1 likely includes features that facilitate public access and administrative functions. Large meeting rooms, offices for local officials, and spaces for community gatherings would be expected in such a building. Visitors might notice the layout designed to serve both the public and the administrative staff effectively, enhancing the efficiency of local governance.
 
-While the exterior may showcase traditional architectural elements, the interior of Markt 1 could provide insights into the town's history through displays or exhibits highlighting significant events and figures from Ostritz's past. Although specific features are not detailed, the building’s role as a city hall suggests that it is designed to be welcoming and functional, embodying the spirit of public service.
+While the exterior may showcase traditional architectural elements, the interior of Markt 1 could provide insights into the town's history through displays or exhibits highlighting significant events and figures from Ostritz's past. Although specific features are not detailed, the building's role as a city hall suggests that it is designed to be welcoming and functional, embodying the spirit of public service.
 
 ## Visiting Information
 
@@ -90,7 +90,7 @@ Before heading to Markt 1, it's important to be prepared. Here are some practica
 A visit to Markt 1 typically takes about one to two hours, depending on your interest in exploring the building and its surroundings.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas, but it’s best to check for any restrictions upon your arrival.
+Photography may be permitted in certain areas, but it's best to check for any restrictions upon your arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may vary, so check the official website for details on availability and scheduling.
@@ -99,7 +99,7 @@ Information regarding guided tours may vary, so check the official website for d
 Weekdays, particularly in the morning, are often the best times to visit to avoid crowds and see the city hall in operation.
 
 ### Is it wheelchair accessible?
-Accessibility details may vary, so it’s advisable to check the official website for specific information regarding wheelchair access.
+Accessibility details may vary, so it's advisable to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information on online ticket purchases may not be available, so check the official website for current details.

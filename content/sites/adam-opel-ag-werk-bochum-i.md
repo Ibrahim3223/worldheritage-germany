@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays, as weekends may attract more
 
 When visiting the Adam Opel AG Werk Bochum I, it's advisable to bring comfortable walking shoes, as the site may involve some walking and exploration. Depending on the season, dress in layers to accommodate changing weather conditions, as temperatures can vary.
 
-While there may not be extensive facilities at the former factory site, consider checking for nearby cafes or restaurants in Bochum for refreshments. It’s always a good idea to plan accordingly for seasonal considerations, particularly during holidays or local events that may impact visitor experiences.
+While there may not be extensive facilities at the former factory site, consider checking for nearby cafes or restaurants in Bochum for refreshments. It's always a good idea to plan accordingly for seasonal considerations, particularly during holidays or local events that may impact visitor experiences.
 
 ## Frequently Asked Questions 
 
@@ -84,7 +84,7 @@ While there may not be extensive facilities at the former factory site, consider
 A couple of hours is generally sufficient to explore the site and absorb its historical significance. 
 
 ### Is photography allowed? 
-Photography is typically allowed, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is typically allowed, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours? 
 Guided tours may not be available; however, checking the official website for any updates or special events is recommended.
@@ -93,7 +93,7 @@ Guided tours may not be available; however, checking the official website for an
 Weekdays are often less crowded, making them ideal for a more relaxed visit.
 
 ### Is it wheelchair accessible? 
-Accessibility details can vary; it’s best to check the official website for specific information regarding wheelchair access.
+Accessibility details can vary; it's best to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online? 
 Ticketing information and purchasing options should be confirmed on the official website.

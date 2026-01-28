@@ -94,7 +94,7 @@ Pack some water and snacks, especially if you plan to spend a significant amount
 A visit of approximately 2-3 hours is recommended to fully appreciate the manor and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to inquire about specific restrictions, especially indoors.
+Photography is generally permitted, but it's advisable to inquire about specific restrictions, especially indoors.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.
@@ -109,7 +109,7 @@ For details on accessibility, it is best to check the official website prior to 
 Ticket purchasing options may vary; please refer to the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s wise to confirm the details on the official website.
+Facilities may be available, but it's wise to confirm the details on the official website.
 
 ### What should I wear?
 Comfortable attire and shoes are recommended, as you may be walking around the estate and exploring the grounds. 

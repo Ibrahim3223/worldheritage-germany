@@ -76,7 +76,7 @@ If you are seeking a quieter experience, aim for weekdays rather than weekends. 
 
 When preparing for your visit to the Jülich sugar refinery, consider bringing comfortable footwear, as you may be walking on concrete floors and navigating various spaces within the factory. A light jacket could also be useful, as industrial spaces can vary in temperature.
 
-Seasonal considerations are important; check the weather forecast before your visit. If you are traveling during colder months, dressing in layers may enhance your comfort while exploring the site. Additionally, it’s a good idea to carry a reusable water bottle to stay hydrated while on-site.
+Seasonal considerations are important; check the weather forecast before your visit. If you are traveling during colder months, dressing in layers may enhance your comfort while exploring the site. Additionally, it's a good idea to carry a reusable water bottle to stay hydrated while on-site.
 
 ## Frequently Asked Questions
 
@@ -84,7 +84,7 @@ Seasonal considerations are important; check the weather forecast before your vi
 Plan to spend about 2-3 hours at the Jülich sugar refinery to fully appreciate the exhibits and possibly participate in a guided tour.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to confirm any restrictions upon arrival, especially if using professional equipment.
+Photography is generally permitted, but it's advisable to confirm any restrictions upon arrival, especially if using professional equipment.
 
 ### Are there guided tours?
 Yes, guided tours may be available, providing deeper insights into the history and operations of the refinery. Check the official website for availability.
@@ -93,13 +93,13 @@ Yes, guided tours may be available, providing deeper insights into the history a
 Weekdays are typically less crowded, making them ideal for a more relaxed visit. Seasonal factors may also influence visitor numbers, so consider this when planning.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s recommended to check the official website for specific details regarding wheelchair access within the refinery.
+Accessibility information may vary; it's recommended to check the official website for specific details regarding wheelchair access within the refinery.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Verify this on the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be provided on-site, but it’s best to check the official website for specific amenities available during your visit.
+Facilities such as restrooms and cafes may be provided on-site, but it's best to check the official website for specific amenities available during your visit.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, as you may spend time walking or standing during your visit. Consider the weather and dress appropriately for the season.

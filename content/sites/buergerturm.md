@@ -48,7 +48,7 @@ One of the most striking features of the Bürgerturm is its tent roof, added in 
 
 The interior of the Bürgerturm, while less frequently highlighted, reflects the historical uses of the building. The transformation from a watchtower to a prison and later to a poorhouse has influenced the spatial organization within the tower. Visitors can appreciate the historical layers embedded in the architecture, as each phase of use has left its mark on the structure.
 
-The tower's location within Freising further enhances its significance, as it stands prominently against the backdrop of the town’s charming streets and vibrant public spaces. The Bürgerturm is not just a standalone monument; it is an integral part of the urban landscape, inviting exploration and contemplation.
+The tower's location within Freising further enhances its significance, as it stands prominently against the backdrop of the town's charming streets and vibrant public spaces. The Bürgerturm is not just a standalone monument; it is an integral part of the urban landscape, inviting exploration and contemplation.
 
 ## Visiting Information
 

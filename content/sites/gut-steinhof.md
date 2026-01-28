@@ -72,7 +72,7 @@ When visiting Gut Steinhof, consider bringing a camera to capture the intriguing
 
 To avoid crowds, plan your visit during the weekdays or early in the day when the museum opens. This will provide a more intimate experience and allow for greater engagement with the displays.
 
-Don’t hesitate to engage with museum staff or volunteers, as they can offer valuable insights and information about the exhibits and the history of the museum itself.
+Don't hesitate to engage with museum staff or volunteers, as they can offer valuable insights and information about the exhibits and the history of the museum itself.
 
 ## Practical Information
 

@@ -34,7 +34,7 @@ Historically, such towers were essential for surveillance and protection, as the
 
 In addition to its defensive role, the Wehrturm has likely served various social and cultural functions over the years. Towers often become gathering places for local communities, where events and celebrations can occur. This aspect of the Wehrturm adds a layer of cultural significance, as it connects the present with the past and fosters a sense of community identity.
 
-Today, the Wehrturm stands as a symbol of Hückeswagen’s heritage, drawing visitors who seek to understand the historical narratives that shaped the area. Its preservation allows future generations to appreciate the craftsmanship that went into its construction and recognize its role in the town's history.
+Today, the Wehrturm stands as a symbol of Hückeswagen's heritage, drawing visitors who seek to understand the historical narratives that shaped the area. Its preservation allows future generations to appreciate the craftsmanship that went into its construction and recognize its role in the town's history.
 
 ## Architecture and Features
 
@@ -88,7 +88,7 @@ Seasonal considerations are important as well; if visiting during the winter mon
 A visit to the Wehrturm typically takes about one hour, but you may wish to spend more time exploring the surrounding area and nearby attractions.
 
 ### Is photography allowed?
-Yes, photography is generally allowed at the Wehrturm, making it a great opportunity to capture the tower’s architectural details and the surrounding landscape.
+Yes, photography is generally allowed at the Wehrturm, making it a great opportunity to capture the tower's architectural details and the surrounding landscape.
 
 ### Are there guided tours?
 Currently, there is no information provided about guided tours at the Wehrturm. However, check the official website for any updates or potential guided experiences.

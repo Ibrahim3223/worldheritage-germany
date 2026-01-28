@@ -100,7 +100,7 @@ For those planning to spend an extended time in Bamberg, consider bringing a reu
 Visitors typically spend a few hours at the museum to fully appreciate the exhibits and history presented.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check with museum staff regarding specific areas where photography is permitted.
+Photography policies may vary, so it's advisable to check with museum staff regarding specific areas where photography is permitted.
 
 ### Are there guided tours?
 Guided tours may be available for visitors seeking a more in-depth experience. Check the official website for details on scheduling and availability.

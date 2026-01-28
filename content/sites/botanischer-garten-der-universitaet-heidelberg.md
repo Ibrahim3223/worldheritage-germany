@@ -90,7 +90,7 @@ Seasonal considerations are also important; spring and summer are ideal for bloo
 A visit typically takes between one to three hours, depending on your level of interest and engagement with the exhibits.
 
 ### Is photography allowed?
-Yes, photography is permitted throughout the garden, making it a great spot for capturing nature’s beauty.
+Yes, photography is permitted throughout the garden, making it a great spot for capturing nature's beauty.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any scheduled programs that may enhance your visit.
@@ -108,6 +108,6 @@ For the latest information on ticket purchasing, including online options, check
 Facilities such as restrooms may be available, but for dining options, check the official website for details on cafes or nearby eateries.
 
 ### What should I wear?
-Dress comfortably and consider the season, opting for layers if visiting during transitional weather periods. Comfortable shoes are recommended for walking the garden’s paths. 
+Dress comfortably and consider the season, opting for layers if visiting during transitional weather periods. Comfortable shoes are recommended for walking the garden's paths. 
 
 A visit to the Botanischer Garten der Universität Heidelberg promises an enriching experience, blending natural beauty with educational opportunities, making it a must-see destination for anyone exploring the region.

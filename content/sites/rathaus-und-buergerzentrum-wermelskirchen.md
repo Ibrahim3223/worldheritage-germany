@@ -46,7 +46,7 @@ While the architectural details may not be explicitly outlined, the Rathaus und 
 
 ## Visiting Information
 
-Planning a visit to the Rathaus und Bürgerzentrum Wermelskirchen allows you to immerse yourself in local culture and governance. Accessible by various means of transportation, the Rathaus is conveniently located within the town, making it easy to reach whether you’re arriving by car or public transport.
+Planning a visit to the Rathaus und Bürgerzentrum Wermelskirchen allows you to immerse yourself in local culture and governance. Accessible by various means of transportation, the Rathaus is conveniently located within the town, making it easy to reach whether you're arriving by car or public transport.
 
 Check the official website for current information regarding opening hours and any potential entrance fees. Visitors can expect to spend a varying amount of time at the Rathaus, depending on their interests—ranging from a quick visit to see the architecture to participating in events or meetings that may be happening.
 
@@ -86,7 +86,7 @@ When preparing for your visit, keep the following practical considerations in mi
 
 - **Seasonal Considerations**: Check the weather forecast before your visit. Dress appropriately for the season, as you may want to explore the surrounding area.
 
-- **Accessibility**: The Rathaus is generally designed to be accessible to all visitors, but it’s wise to confirm specific accessibility features on the official website.
+- **Accessibility**: The Rathaus is generally designed to be accessible to all visitors, but it's wise to confirm specific accessibility features on the official website.
 
 ## Frequently Asked Questions
 

@@ -36,9 +36,9 @@ As you explore St. Barbara, expect to encounter not just a religious edifice but
 
 The history of St. Barbara is deeply intertwined with the development of Dortmund as a city. Religious buildings like St. Barbara have historically served as focal points for communities, providing not only spiritual guidance but also social cohesion. While specific dates surrounding its establishment are not detailed, the church's existence reflects the broader trends of church-building in urban centers throughout Germany.
 
-As cities expanded during various periods of history, many churches were constructed to meet the needs of growing populations. These structures often became symbols of stability and continuity amidst changing times. The role of St. Barbara within Dortmund’s community highlights its function beyond mere architecture; it has been a site for collective worship, celebration, and reflection.
+As cities expanded during various periods of history, many churches were constructed to meet the needs of growing populations. These structures often became symbols of stability and continuity amidst changing times. The role of St. Barbara within Dortmund's community highlights its function beyond mere architecture; it has been a site for collective worship, celebration, and reflection.
 
-Throughout its existence, St. Barbara has likely witnessed significant historical events that have shaped the city and its inhabitants. The church's significance is amplified by its role in facilitating various religious and cultural activities, serving as a space for community gatherings, and offering support to residents in times of need. The church not only stands as a place of worship but also represents the intertwining of faith and community life that has characterized Dortmund’s rich heritage.
+Throughout its existence, St. Barbara has likely witnessed significant historical events that have shaped the city and its inhabitants. The church's significance is amplified by its role in facilitating various religious and cultural activities, serving as a space for community gatherings, and offering support to residents in times of need. The church not only stands as a place of worship but also represents the intertwining of faith and community life that has characterized Dortmund's rich heritage.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ St. Barbara is characterized by its traditional church architecture, which refle
 
 The interior of St. Barbara is likely designed to create an atmosphere conducive to worship and reflection, with spacious nave areas and possibly an altar that serves as the focal point for religious ceremonies. Churches often include decorative elements that tell biblical stories or celebrate the saints, which may also be found within St. Barbara.
 
-The surrounding environment contributes to the church's presence in Dortmund. Parks, streets, and urban landscapes typically frame church buildings, allowing for a harmonious blend of nature and architecture. Visitors to St. Barbara can appreciate not only the church’s physical structure but also its integration into the life of the community.
+The surrounding environment contributes to the church's presence in Dortmund. Parks, streets, and urban landscapes typically frame church buildings, allowing for a harmonious blend of nature and architecture. Visitors to St. Barbara can appreciate not only the church's physical structure but also its integration into the life of the community.
 
 ## Visiting Information
 

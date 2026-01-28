@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Beginenhaus Kempten is an architectural ensemble that encapsulates the historical essence of Kempten, Germany. This collection of buildings stands as a significant marker of the city’s cultural heritage, representing the architectural styles and societal structures that have evolved over centuries. Located at coordinates 47.7244, 10.322, the site invites visitors to explore its intricate designs and the stories they tell about the region's past.
+Beginenhaus Kempten is an architectural ensemble that encapsulates the historical essence of Kempten, Germany. This collection of buildings stands as a significant marker of the city's cultural heritage, representing the architectural styles and societal structures that have evolved over centuries. Located at coordinates 47.7244, 10.322, the site invites visitors to explore its intricate designs and the stories they tell about the region's past.
 
 The ensemble serves not only as a visual feast but also as a point of interest for those keen on understanding the historical context of Kempten. As you navigate through the buildings, you will encounter a blend of architectural styles that reflect the influences of different eras, making it a compelling destination for heritage enthusiasts and casual visitors alike. 
 
@@ -38,7 +38,7 @@ The history of Beginenhaus Kempten is intertwined with the broader narrative of 
 
 The Beguine movement, which began in the 12th century, was characterized by women who dedicated their lives to spirituality and community service while maintaining a level of independence not typically afforded to women of that time. The Beginenhaus Kempten stands as an important representation of this movement, showcasing the contributions of women to the cultural and religious life of the city. 
 
-As you explore the ensemble, consider the architectural styles that have emerged over time, influenced by the prevailing trends and needs of the people who inhabited the space. The buildings reflect not just a physical structure but also a societal evolution, highlighting the significance of community and faith in shaping Kempten’s identity. The ensemble serves as a reminder of the resilience and adaptability of communities throughout history, making it a site of profound cultural importance.
+As you explore the ensemble, consider the architectural styles that have emerged over time, influenced by the prevailing trends and needs of the people who inhabited the space. The buildings reflect not just a physical structure but also a societal evolution, highlighting the significance of community and faith in shaping Kempten's identity. The ensemble serves as a reminder of the resilience and adaptability of communities throughout history, making it a site of profound cultural importance.
 
 ## Architecture and Features
 
@@ -68,7 +68,7 @@ The area surrounding Beginenhaus Kempten is rich with other attractions that com
 
 3. **Historic Old Town** - Kempten's Old Town features charming streets, shops, and restaurants where visitors can experience local culture and cuisine.
 
-4. **Archaeological Park Cambodunum** - An important archaeological site that offers insights into Kempten’s Roman past, showcasing ruins and artifacts from the ancient city of Cambodunum.
+4. **Archaeological Park Cambodunum** - An important archaeological site that offers insights into Kempten's Roman past, showcasing ruins and artifacts from the ancient city of Cambodunum.
 
 5. **Burghalde** - This scenic viewpoint provides a panoramic view of Kempten and the surrounding landscape, perfect for those interested in enjoying nature.
 

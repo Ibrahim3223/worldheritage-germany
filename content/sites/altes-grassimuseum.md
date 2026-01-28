@@ -44,7 +44,7 @@ The architectural design of the Altes Grassimuseum complements its mission as a 
 
 Inside, the museum features a variety of exhibition spaces that are curated to highlight the breadth of its collections. Visitors will find thoughtfully arranged galleries that invite exploration and engagement with the artworks on display. The layout encourages a flow of movement, allowing guests to immerse themselves in the diverse offerings of the museum.
 
-Notable features may include special exhibitions or installations that rotate throughout the year, showcasing contemporary artists or thematic collections that reflect current cultural conversations. The Altes Grassimuseum’s commitment to innovation in presentation enhances the overall experience, making each visit unique.
+Notable features may include special exhibitions or installations that rotate throughout the year, showcasing contemporary artists or thematic collections that reflect current cultural conversations. The Altes Grassimuseum's commitment to innovation in presentation enhances the overall experience, making each visit unique.
 
 ## Visiting Information
 
@@ -83,10 +83,10 @@ Seasonal considerations may also play a role in your visit. Spring and early aut
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Typically, visitors find that spending about 2 to 3 hours allows for a thorough exploration of the museum’s offerings. However, if you are particularly interested in art, you may wish to allocate more time.
+Typically, visitors find that spending about 2 to 3 hours allows for a thorough exploration of the museum's offerings. However, if you are particularly interested in art, you may wish to allocate more time.
 
 ### Is photography allowed?
-Photography policies can vary by exhibit, so it is best to check the museum’s guidelines upon arrival to ensure compliance.
+Photography policies can vary by exhibit, so it is best to check the museum's guidelines upon arrival to ensure compliance.
 
 ### Are there guided tours?
 The Altes Grassimuseum may offer guided tours, providing deeper insights into the exhibitions. Check the official website for availability and scheduling.

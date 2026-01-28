@@ -54,7 +54,7 @@ The best times to visit Fleetstreet are typically during the evening performance
 
 2. **St. Michael's Church (Michel)**: This iconic church is renowned for its impressive baroque architecture and offers visitors the opportunity to climb the tower for panoramic views of the city.
 
-3. **Hamburg Museum**: For those interested in the city’s history, the Hamburg Museum provides an engaging insight into the cultural and historical development of Hamburg through various exhibits.
+3. **Hamburg Museum**: For those interested in the city's history, the Hamburg Museum provides an engaging insight into the cultural and historical development of Hamburg through various exhibits.
 
 4. **Speicherstadt**: A UNESCO World Heritage site, this historic warehouse district is known for its unique architecture and canals. It's a lovely area for a leisurely stroll.
 

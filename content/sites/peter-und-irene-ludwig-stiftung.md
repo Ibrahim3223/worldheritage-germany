@@ -72,7 +72,7 @@ Aachen is rich in cultural offerings beyond the Peter und Irene Ludwig Stiftung.
 
 To make the most of your visit to the Peter und Irene Ludwig Stiftung, consider these insider tips:
 
-- **Photography**: While some exhibitions may allow photography, it’s best to check for any restrictions upon entry. Be respectful of the artwork and fellow visitors when capturing your experience.
+- **Photography**: While some exhibitions may allow photography, it's best to check for any restrictions upon entry. Be respectful of the artwork and fellow visitors when capturing your experience.
   
 - **Crowd Avoidance**: For a quieter experience, plan your visit during weekday mornings. This time often sees fewer visitors, allowing you to engage more deeply with the exhibits.
 

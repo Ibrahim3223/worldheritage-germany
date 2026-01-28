@@ -34,7 +34,7 @@ The museum's strategic location in Soest, a town known for its medieval architec
 
 The Wilhelm-Morgner-Haus is named after Wilhelm Morgner, an influential figure in the German Expressionist movement. His work was marked by a distinct style characterized by bold colors and emotive forms, which challenged traditional artistic conventions of his time. The museum's establishment underscores the importance of preserving and celebrating local art history, as Morgner was born in Soest and spent much of his early life there. 
 
-The museum serves a dual purpose: it not only honors Morgner’s legacy but also aims to educate visitors about the broader context of his work and the artistic trends that influenced him. This commitment to cultural education is reflected in the museum's exhibitions, which often include a variety of programs, workshops, and lectures designed to engage the community and promote artistic dialogue.
+The museum serves a dual purpose: it not only honors Morgner's legacy but also aims to educate visitors about the broader context of his work and the artistic trends that influenced him. This commitment to cultural education is reflected in the museum's exhibitions, which often include a variety of programs, workshops, and lectures designed to engage the community and promote artistic dialogue.
 
 Moreover, the museum plays a vital role in the local cultural scene, hosting temporary exhibitions that feature contemporary artists and movements. This dynamic approach ensures that the Wilhelm-Morgner-Haus remains relevant and continues to draw interest from both locals and tourists, fostering a deeper appreciation for the arts in Soest and beyond.
 
@@ -66,7 +66,7 @@ While visiting the Wilhelm-Morgner-Haus, consider exploring these nearby attract
 
 4. **Wasserschloss Haus Graven**: A charming water castle located a short distance from the town center, offering scenic views and picturesque surroundings.
 
-5. **The City Walls**: Explore the remnants of Soest’s medieval fortifications, which provide a fascinating glimpse into the town’s historical defenses.
+5. **The City Walls**: Explore the remnants of Soest's medieval fortifications, which provide a fascinating glimpse into the town's historical defenses.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Wilhelm-Morgner-Haus, consider these insid
 
 - **Timing Your Visit**: To avoid crowds, aim to visit during the late morning or early afternoon on weekdays. This will allow you to enjoy the exhibits with greater ease.
 
-- **Engage with Staff**: The museum staff is typically knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations on what to see.
+- **Engage with Staff**: The museum staff is typically knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations on what to see.
 
 ## Practical Information
 

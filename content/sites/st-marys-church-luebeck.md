@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Mary's Church, or Marienkirche, is a remarkable church building located in the heart of Lübeck's Old City, Germany. Its towering spires and intricate architecture are not only a significant part of the city's skyline but also a symbol of Lübeck’s rich heritage as a major trading center in the Hanseatic League. As a UNESCO World Heritage site, it reflects the medieval prosperity of Lübeck and serves as a testament to the architectural innovation of the time. Visitors to St. Mary's Church are greeted by a sense of history, artistry, and spirituality, making it a must-visit for anyone exploring this historic city.
+St. Mary's Church, or Marienkirche, is a remarkable church building located in the heart of Lübeck's Old City, Germany. Its towering spires and intricate architecture are not only a significant part of the city's skyline but also a symbol of Lübeck's rich heritage as a major trading center in the Hanseatic League. As a UNESCO World Heritage site, it reflects the medieval prosperity of Lübeck and serves as a testament to the architectural innovation of the time. Visitors to St. Mary's Church are greeted by a sense of history, artistry, and spirituality, making it a must-visit for anyone exploring this historic city.
 
 The church's location in Lübeck's Old City places it within a vibrant area renowned for its well-preserved medieval structures and cultural allure. As you approach the church, you can appreciate its striking Gothic design, which is complemented by its historical significance. The interior features stunning artworks and impressive acoustics, making it a site of both religious and artistic importance. With its captivating history and architectural grandeur, St. Mary's Church promises an enriching experience for all who enter.
 
@@ -60,7 +60,7 @@ While visiting St. Mary's Church, take the opportunity to explore several nearby
 
 1. **Lübeck Cathedral**: Just a short walk away, the Lübeck Cathedral is another architectural marvel, known for its unique blend of Romanesque and Gothic styles.
 
-2. **Holstentor**: This iconic city gate serves as a symbol of Lübeck and is a short distance from the church. The Holstentor offers insights into the city’s medieval defenses.
+2. **Holstentor**: This iconic city gate serves as a symbol of Lübeck and is a short distance from the church. The Holstentor offers insights into the city's medieval defenses.
 
 3. **St. Peter's Church**: Another significant religious site, St. Peter's Church features a tower that offers panoramic views of the city and is known for its impressive altarpiece.
 

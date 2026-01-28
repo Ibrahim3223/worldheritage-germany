@@ -95,7 +95,7 @@ Check the official website for specific accessibility information regarding the 
 Information about ticketing and any associated costs can be found on the official website.
 
 ### Are there restrooms and cafes?
-Nearby amenities may vary, so it’s wise to check local resources for facilities such as restrooms and cafes.
+Nearby amenities may vary, so it's wise to check local resources for facilities such as restrooms and cafes.
 
 ### What should I wear?
 Dress comfortably and in accordance with the weather conditions, particularly if planning to explore the surrounding area as well. 

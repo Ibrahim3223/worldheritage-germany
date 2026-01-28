@@ -70,9 +70,9 @@ While visiting St. Andreas, consider exploring the surrounding area, which may f
 
 ## Insider Tips
 
-For those looking to capture the essence of St. Andreas through photography, consider visiting during the golden hours of early morning or late afternoon. The soft light during these times can enhance the beauty of the church’s architecture and the surrounding landscape. Be respectful when taking photos, especially during services or when other visitors are present.
+For those looking to capture the essence of St. Andreas through photography, consider visiting during the golden hours of early morning or late afternoon. The soft light during these times can enhance the beauty of the church's architecture and the surrounding landscape. Be respectful when taking photos, especially during services or when other visitors are present.
 
-To avoid crowds, plan your visit on weekdays rather than weekends, when local congregations may gather for services. Additionally, check the church’s schedule for any special events or community gatherings that could draw larger crowds.
+To avoid crowds, plan your visit on weekdays rather than weekends, when local congregations may gather for services. Additionally, check the church's schedule for any special events or community gatherings that could draw larger crowds.
 
 ## Practical Information
 

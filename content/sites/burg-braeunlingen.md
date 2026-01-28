@@ -34,7 +34,7 @@ Furthermore, the castle has likely witnessed various historical events, shaping 
 
 ## Architecture and Features
 
-Burg Bräunlingen is characterized by its robust architectural design, typical of medieval castles. The structure features formidable stone walls that have withstood the test of time, showcasing the construction techniques of the era. The castle’s layout likely includes essential elements such as towers, battlements, and a keep, which were integral to its defensive capabilities.
+Burg Bräunlingen is characterized by its robust architectural design, typical of medieval castles. The structure features formidable stone walls that have withstood the test of time, showcasing the construction techniques of the era. The castle's layout likely includes essential elements such as towers, battlements, and a keep, which were integral to its defensive capabilities.
 
 The architectural features of Burg Bräunlingen are indicative of its purpose as both a fortress and a residence. Visitors can expect to find narrow windows that provided vantage points for archers, as well as thick walls that were designed to withstand sieges. The castle's design not only served practical needs but also reflected the status of its inhabitants, with elements that conveyed power and authority.
 

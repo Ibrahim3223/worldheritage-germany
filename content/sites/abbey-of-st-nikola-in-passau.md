@@ -28,7 +28,7 @@ image_srcset:
 
 The Abbey of St. Nikola in Passau stands as a significant religious and cultural landmark in this historic German city. Located at coordinates 48.570783333, 13.457233333, the monastery is not only a place of worship but also a symbol of the region's rich ecclesiastical heritage. Positioned along the banks of the Danube River, the Abbey has been a focal point of spiritual life in Passau for centuries. Its serene atmosphere and architectural grandeur draw visitors from around the world, making it a must-see destination for those exploring the rich history of Bavaria.
 
-As you wander through the abbey’s hallowed halls, you’ll find a space that reflects the dedication of its founders and the significance of its ongoing mission. The Abbey of St. Nikola is more than just a church; it represents the enduring legacy of monastic life and the profound influence of religious institutions in shaping local communities. 
+As you wander through the abbey's hallowed halls, you'll find a space that reflects the dedication of its founders and the significance of its ongoing mission. The Abbey of St. Nikola is more than just a church; it represents the enduring legacy of monastic life and the profound influence of religious institutions in shaping local communities. 
 
 With its blend of spirituality and artistry, the Abbey offers an enriching experience for visitors seeking to deepen their understanding of the cultural and religious history of this enchanting region.
 
@@ -56,7 +56,7 @@ Visiting the Abbey of St. Nikola is an enriching experience that allows you to i
 
 To ensure a fulfilling visit, it is advisable to check the official website for current information regarding opening hours and admission prices. Visitors typically spend a few hours exploring the abbey, allowing ample time to appreciate its architecture and engage with its serene atmosphere. 
 
-The best times to visit are often during weekdays when the crowds are lighter, providing a more contemplative experience. Seasonal events and religious services may also offer unique opportunities to engage with the community and the abbey’s ongoing mission.
+The best times to visit are often during weekdays when the crowds are lighter, providing a more contemplative experience. Seasonal events and religious services may also offer unique opportunities to engage with the community and the abbey's ongoing mission.
 
 Overall, the Abbey of St. Nikola invites visitors to reflect on their own spiritual journeys while appreciating the artistic and historical significance of this remarkable site.
 
@@ -65,12 +65,12 @@ Overall, the Abbey of St. Nikola invites visitors to reflect on their own spirit
 While visiting the Abbey of St. Nikola, take the opportunity to explore other nearby attractions that complement your experience in Passau. Here are a few notable sites to consider:
 
 1. **Passau Cathedral** (Dom St. Stephan) - This majestic cathedral is renowned for its stunning baroque architecture and impressive organ, making it a must-see for visitors.
-2. **Veste Oberhaus** - This fortress offers panoramic views of Passau and houses a museum that delves into the city’s history and significance.
-3. **St. Paul’s Church** - Known for its beautiful frescoes and peaceful ambiance, this church is another example of the rich ecclesiastical architecture in the area.
+2. **Veste Oberhaus** - This fortress offers panoramic views of Passau and houses a museum that delves into the city's history and significance.
+3. **St. Paul's Church** - Known for its beautiful frescoes and peaceful ambiance, this church is another example of the rich ecclesiastical architecture in the area.
 4. **Old Town Passau** - The historic district features charming streets lined with colorful buildings, shops, and cafes, perfect for a leisurely stroll.
 5. **Danube River Cruises** - Consider taking a cruise along the river to experience the scenic beauty of the region from a different perspective.
 
-These attractions provide a well-rounded exploration of Passau’s cultural and historical landscape, enriching your visit to the Abbey of St. Nikola.
+These attractions provide a well-rounded exploration of Passau's cultural and historical landscape, enriching your visit to the Abbey of St. Nikola.
 
 ## Insider Tips
 
@@ -82,7 +82,7 @@ To enhance your experience at the Abbey of St. Nikola, consider these insider ti
 
 - **Dress Code**: As a place of worship, it is advisable to dress modestly. Comfortable shoes are recommended, as there may be areas to explore on foot.
 
-- **Engage with Staff**: Don’t hesitate to approach the staff or monks for insights about the abbey’s history and significance. Their knowledge can greatly enhance your visit.
+- **Engage with Staff**: Don't hesitate to approach the staff or monks for insights about the abbey's history and significance. Their knowledge can greatly enhance your visit.
 
 ## Practical Information
 
@@ -107,7 +107,7 @@ A visit typically takes about two to three hours, allowing time to explore the a
 Photography may be permitted in certain areas, but it is best to check for specific restrictions, especially during religious services.
 
 ### Are there guided tours?
-Guided tours may be available, providing an in-depth understanding of the abbey’s history and significance. Check the official website for details.
+Guided tours may be available, providing an in-depth understanding of the abbey's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 Weekdays, particularly in the early morning or late afternoon, are often the best times to avoid crowds and enjoy a more peaceful experience.
@@ -116,7 +116,7 @@ Weekdays, particularly in the early morning or late afternoon, are often the bes
 For accessibility information and accommodations, it is advisable to contact the abbey directly or check their official website ahead of your visit.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary. It’s best to check the official website for current ticketing information.
+Ticket purchasing options may vary. It's best to check the official website for current ticketing information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms may be available on-site, but food options can vary. Be sure to check the official website for details.

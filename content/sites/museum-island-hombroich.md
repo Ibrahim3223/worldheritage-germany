@@ -70,7 +70,7 @@ While visiting Museum Island Hombroich, there are several nearby attractions wor
 
 4. **Schloss Dyck**: A historic castle with beautiful gardens and a museum, Schloss Dyck is a great destination for those interested in history and landscape design.
 
-5. **Düsseldorf’s Altstadt**: Known for its vibrant atmosphere, the old town of Düsseldorf is packed with restaurants, bars, and cultural attractions, offering visitors a taste of local life.
+5. **Düsseldorf's Altstadt**: Known for its vibrant atmosphere, the old town of Düsseldorf is packed with restaurants, bars, and cultural attractions, offering visitors a taste of local life.
 
 ## Insider Tips
 

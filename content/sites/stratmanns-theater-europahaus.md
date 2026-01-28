@@ -36,7 +36,7 @@ The history of Stratmanns Theater Europahaus is intertwined with the evolution o
 
 The theatre has become an important venue for theatrical productions, hosting a variety of performances that cater to diverse audiences. It plays a significant role in promoting local talent while also featuring national and international acts, thus enriching the cultural offerings of Essen. The theatre's programming often reflects contemporary societal themes, engaging audiences in meaningful conversations through the arts.
 
-Stratmanns Theater Europahaus has not only fostered artistic expression but has also become a gathering place for communal events, reinforcing its status as a cornerstone of cultural life in Essen. The theatre’s ability to connect with the community makes it a vital institution, underscoring the importance of the arts in public life.
+Stratmanns Theater Europahaus has not only fostered artistic expression but has also become a gathering place for communal events, reinforcing its status as a cornerstone of cultural life in Essen. The theatre's ability to connect with the community makes it a vital institution, underscoring the importance of the arts in public life.
 
 ## Architecture and Features
 

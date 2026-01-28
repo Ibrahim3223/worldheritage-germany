@@ -3,7 +3,7 @@ title: "Eichhof Park Cemetery"
 site_name: "Eichhof Park Cemetery"
 date: 2026-01-26
 draft: false
-description: "Eichhof Park Cemetery, located in the town of Kronshagen, Germany, serves as a serene resting place and a reflection of the region’s cultural history."
+description: "Eichhof Park Cemetery, located in the town of Kronshagen, Germany, serves as a serene resting place and a reflection of the region's cultural history."
 region: "Schleswig-Holstein"
 country: "Germany"
 heritage_type: "Cemetery"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Eichhof Park Cemetery, located in the town of Kronshagen, Germany, serves as a serene resting place and a reflection of the region’s cultural history. This cemetery offers visitors a unique opportunity to appreciate not only its purpose as a final resting place but also its artistic and architectural significance. Surrounded by the natural beauty of the area, the cemetery provides a peaceful environment for reflection and remembrance.
+Eichhof Park Cemetery, located in the town of Kronshagen, Germany, serves as a serene resting place and a reflection of the region's cultural history. This cemetery offers visitors a unique opportunity to appreciate not only its purpose as a final resting place but also its artistic and architectural significance. Surrounded by the natural beauty of the area, the cemetery provides a peaceful environment for reflection and remembrance.
 
 As you explore Eichhof Park Cemetery, you will find a landscape that not only honors those laid to rest but also embodies the traditions and values of the community. The cemetery is a space where visitors can connect with the past while appreciating the craftsmanship of its monuments and gravestones. It invites exploration and contemplation, encouraging visitors to engage with the stories behind the names etched in stone.
 
@@ -34,7 +34,7 @@ The significance of Eichhof Park Cemetery extends beyond its immediate function,
 
 ## History and Significance
 
-Eichhof Park Cemetery holds a notable place in the community of Kronshagen, reflecting its historical and cultural evolution. While specific dates of establishment are not available, the cemetery serves as a vital element of the town’s landscape and collective memory. Cemeteries like Eichhof Park often symbolize the community's relationship with its past, honoring the lives of individuals who have contributed to the area's development and heritage.
+Eichhof Park Cemetery holds a notable place in the community of Kronshagen, reflecting its historical and cultural evolution. While specific dates of establishment are not available, the cemetery serves as a vital element of the town's landscape and collective memory. Cemeteries like Eichhof Park often symbolize the community's relationship with its past, honoring the lives of individuals who have contributed to the area's development and heritage.
 
 The design and layout of the cemetery are influenced by various historical movements and styles, which may reflect the broader trends in cemetery design across Germany. Such spaces historically served not only as burial sites but also as places for contemplation and connection to nature, often featuring elaborate monuments and gravestones that signify the social status and personal stories of the deceased.
 

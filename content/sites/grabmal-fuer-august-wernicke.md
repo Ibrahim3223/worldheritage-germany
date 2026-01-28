@@ -60,21 +60,21 @@ The best times to visit the site are generally during the spring and fall when t
 
 While visiting the Grabmal für August Wernicke, there are several other attractions in Bernau bei Berlin that enhance the historical experience:
 
-1. **St. Mary’s Church (Marienkirche)**: A historic church renowned for its Gothic architecture and beautiful stained glass windows, providing insight into the region's religious heritage.
+1. **St. Mary's Church (Marienkirche)**: A historic church renowned for its Gothic architecture and beautiful stained glass windows, providing insight into the region's religious heritage.
 
 2. **Bernau City Wall**: Explore the remnants of the medieval city wall, which offers a glimpse into the town's defensive structures and historical significance.
 
-3. **Museum Bernau**: This local museum features exhibits on the history of Bernau and its surroundings, enriching the visitor’s understanding of the area.
+3. **Museum Bernau**: This local museum features exhibits on the history of Bernau and its surroundings, enriching the visitor's understanding of the area.
 
 4. **The Bernau Botanical Garden**: A peaceful retreat showcasing local flora, perfect for a leisurely stroll after visiting the tomb.
 
-5. **The Old Town of Bernau**: Wander through the charming streets, where historical buildings reflect the town’s development over the centuries.
+5. **The Old Town of Bernau**: Wander through the charming streets, where historical buildings reflect the town's development over the centuries.
 
 ## Insider Tips
 
 For those planning to visit the Grabmal für August Wernicke, consider bringing a camera to capture the serene atmosphere, but be mindful of respecting the solemn nature of the site. Early mornings or late afternoons are typically less crowded, providing a more personal experience for reflection.
 
-Additionally, wearing comfortable walking shoes is advisable, as exploring the surrounding areas may involve walking on uneven terrain. It’s also wise to check the weather forecast before your visit to ensure a pleasant experience.
+Additionally, wearing comfortable walking shoes is advisable, as exploring the surrounding areas may involve walking on uneven terrain. It's also wise to check the weather forecast before your visit to ensure a pleasant experience.
 
 ## Practical Information
 
@@ -97,7 +97,7 @@ While specific guided tours may not be available for the tomb itself, local reso
 The best times to visit are generally during the spring and fall when the weather is mild, but each season offers a unique experience.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s advisable to check the official website for current information regarding accessibility options.
+Accessibility details are not specified; it's advisable to check the official website for current information regarding accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options, if applicable.

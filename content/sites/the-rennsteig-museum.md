@@ -92,7 +92,7 @@ Before heading to The Rennsteig Museum, there are a few practical considerations
 A visit typically takes about 2-3 hours, allowing ample time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions within the museum.
+Photography is generally permitted, but it's best to check for any specific restrictions within the museum.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for current availability and scheduling.

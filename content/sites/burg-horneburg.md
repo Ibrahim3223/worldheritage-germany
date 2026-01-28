@@ -72,7 +72,7 @@ When visiting Burg Horneburg, it's essential to bring along comfortable walking 
 A visit to Burg Horneburg typically requires a few hours to fully explore the grounds and enjoy the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's always best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering insights into the castle's history and architecture.
@@ -87,7 +87,7 @@ Accessibility details are not specified; please check the official website for t
 Check the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on-site, but it’s advisable to confirm this on the official website. Nearby cafes can provide refreshments.
+Restroom facilities may be available on-site, but it's advisable to confirm this on the official website. Nearby cafes can provide refreshments.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering layers for seasonal changes. Comfortable footwear is also recommended for exploring the castle grounds. 

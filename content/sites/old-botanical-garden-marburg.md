@@ -34,7 +34,7 @@ Marburg, a historic university town, offers a unique blend of medieval architect
 
 The origins of the Old Botanical Garden Marburg trace back to its establishment as part of the University of Marburg, one of the oldest universities in Germany. While specific dates may not be detailed, the garden has evolved over the years, reflecting the changing trends in botanical research and education. It has played a pivotal role in advancing knowledge about plant species, their uses, and their ecological importance.
 
-Historically, botanical gardens have served various purposes, from educational institutions to centers for research in horticulture and agriculture. In Marburg, the garden continues this tradition by providing a platform for scholars and students to study plant biology and to engage in sustainable practices. The garden also emphasizes the importance of biodiversity, promoting conservation efforts that are crucial in today’s rapidly changing environment.
+Historically, botanical gardens have served various purposes, from educational institutions to centers for research in horticulture and agriculture. In Marburg, the garden continues this tradition by providing a platform for scholars and students to study plant biology and to engage in sustainable practices. The garden also emphasizes the importance of biodiversity, promoting conservation efforts that are crucial in today's rapidly changing environment.
 
 In addition to its educational role, the garden is a gathering place for the local community and visitors alike. It hosts various events and activities that encourage public involvement in botanical sciences, fostering a sense of connection between people and nature. The significance of the Old Botanical Garden extends beyond its plant collections; it is a living laboratory where knowledge meets appreciation for the natural world.
 
@@ -74,7 +74,7 @@ While visiting the Old Botanical Garden Marburg, consider exploring some of the 
 
 For photography enthusiasts, the Old Botanical Garden provides ample opportunities for capturing stunning images, especially during the peak blooming seasons. Early mornings or late afternoons often offer the best natural light, and weekdays may see fewer crowds, allowing for a more serene experience.
 
-To avoid larger crowds, consider visiting during weekdays or early in the morning. This not only enhances your experience but also allows for a more intimate appreciation of the garden’s beauty.
+To avoid larger crowds, consider visiting during weekdays or early in the morning. This not only enhances your experience but also allows for a more intimate appreciation of the garden's beauty.
 
 ## Practical Information
 
@@ -103,7 +103,7 @@ The garden is designed to accommodate visitors with mobility challenges, but it'
 Check the official website for information regarding ticket purchases, as this may vary by season or special events.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but it’s best to verify current amenities on the official website.
+Facilities such as restrooms may be available on-site, but it's best to verify current amenities on the official website.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider layering, as weather conditions can change throughout the day.

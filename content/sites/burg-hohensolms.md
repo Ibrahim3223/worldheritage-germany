@@ -34,7 +34,7 @@ The castle serves not only as an architectural landmark but also as a cultural t
 
 Burg Hohensolms was constructed in the 14th century, a period marked by significant architectural advancement in fortifications throughout Europe. This castle complex was built during a time when control over land and territory was critical for local nobility. The strategic location of Burg Hohensolms provided an advantageous position for its inhabitants, allowing them to oversee the surrounding area and protect against potential invaders.
 
-The significance of the castle extends beyond its architectural merits; it played a crucial role in the political landscape of the region. During its height, it served as a residence for noble families and a center of power in the Hohenahr area. However, the castle’s fortunes shifted dramatically during the Thirty Years' War, a brutal conflict that ravaged much of Europe. Burg Hohensolms suffered extensive damage during this period, leading to a decline in its prominence and eventual partial abandonment.
+The significance of the castle extends beyond its architectural merits; it played a crucial role in the political landscape of the region. During its height, it served as a residence for noble families and a center of power in the Hohenahr area. However, the castle's fortunes shifted dramatically during the Thirty Years' War, a brutal conflict that ravaged much of Europe. Burg Hohensolms suffered extensive damage during this period, leading to a decline in its prominence and eventual partial abandonment.
 
 Despite the destruction, the castle remains an essential part of local heritage. It serves as a reminder of the historical conflicts that shaped the region and the architectural styles of the time. Today, it stands as a testament to resilience, attracting visitors who seek to understand its historical context and appreciate its remaining features.
 
@@ -72,7 +72,7 @@ While exploring Burg Hohensolms, consider extending your visit to these nearby a
 
 ## Insider Tips
 
-For the best photography opportunities, visit Burg Hohensolms during the golden hours of sunrise or sunset. The soft natural light enhances the castle’s features and creates an enchanting atmosphere. 
+For the best photography opportunities, visit Burg Hohensolms during the golden hours of sunrise or sunset. The soft natural light enhances the castle's features and creates an enchanting atmosphere. 
 
 To avoid crowds, consider visiting during weekdays or in the early hours of the day. This allows for a more serene experience, where you can fully appreciate the historical significance without the distractions of larger groups.
 
@@ -90,7 +90,7 @@ Check the official website for current information about accessibility and any s
 A visit to Burg Hohensolms typically takes about two hours, allowing time to explore the castle and take in the surrounding scenery.
 
 ### Is photography allowed?
-Photography is generally allowed throughout the site. However, it’s always good to be respectful of any signs or restrictions that may be posted.
+Photography is generally allowed throughout the site. However, it's always good to be respectful of any signs or restrictions that may be posted.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as their availability may vary.

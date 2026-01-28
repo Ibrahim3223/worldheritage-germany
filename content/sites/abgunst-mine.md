@@ -56,7 +56,7 @@ When visiting Abgunst Mine, allocate sufficient time to fully explore the site a
 
 The best times to visit are generally during the spring and fall months, when the weather is conducive to outdoor exploration and the site may be less crowded. However, visitors should remain mindful of any seasonal considerations that may affect their experience. 
 
-Expect to find informative displays and possibly guided tours that provide deeper insights into the mine’s history and operations. Engaging with these resources can significantly enrich your understanding of the site.
+Expect to find informative displays and possibly guided tours that provide deeper insights into the mine's history and operations. Engaging with these resources can significantly enrich your understanding of the site.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ Essen is home to a variety of attractions that complement a visit to Abgunst Min
    
 2. **Museum Folkwang**: Renowned for its extensive collection of modern art, this museum houses works from the 19th century to contemporary pieces, making it a cultural highlight in Essen.
 
-3. **Essen Cathedral**: A historical landmark, this cathedral features stunning architecture and significant religious artifacts, showcasing the city’s ecclesiastical heritage.
+3. **Essen Cathedral**: A historical landmark, this cathedral features stunning architecture and significant religious artifacts, showcasing the city's ecclesiastical heritage.
 
 4. **Grugapark**: A large urban park offering beautiful landscapes, gardens, and recreational activities, perfect for a relaxing stroll or a picnic after visiting the mine.
 

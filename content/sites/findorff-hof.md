@@ -38,9 +38,9 @@ Inside, visitors can expect to encounter a variety of exhibits that may include 
 
 ## Visiting Information
 
-To reach Findorff Hof, visitors can utilize various modes of transportation, including private vehicles and public transport options available in the Grasberg area. Given the museum’s location, it is advisable to check the official website for current information regarding operating hours and ticket prices. 
+To reach Findorff Hof, visitors can utilize various modes of transportation, including private vehicles and public transport options available in the Grasberg area. Given the museum's location, it is advisable to check the official website for current information regarding operating hours and ticket prices. 
 
-Once inside, guests can expect to spend a few hours exploring the exhibitions and engaging with the museum’s offerings. The experience can be enhanced by participating in any ongoing events or programs that may be available during your visit. To make the most of your experience, consider visiting during weekdays, as weekends may attract larger crowds.
+Once inside, guests can expect to spend a few hours exploring the exhibitions and engaging with the museum's offerings. The experience can be enhanced by participating in any ongoing events or programs that may be available during your visit. To make the most of your experience, consider visiting during weekdays, as weekends may attract larger crowds.
 
 Local weather conditions should also be taken into account; while the museum is indoors, traveling to and from the location may be impacted by seasonal changes. 
 

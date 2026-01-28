@@ -42,7 +42,7 @@ Visiting Attel Abbey provides an opportunity to understand the monastic way of l
 
 Attel Abbey is characterized by its understated yet graceful architecture, reflecting the principles of monastic design that prioritize simplicity and functionality. The structure is primarily constructed from local materials, seamlessly blending into the landscape. Visitors will notice the harmonious proportions and serene lines that define the building's exterior, creating a peaceful environment conducive to reflection and contemplation.
 
-Inside, the abbey features a variety of spaces that serve both communal and individual purposes. The prayer halls, cloisters, and living quarters are thoughtfully arranged to promote a sense of order and tranquility. Visitors may find themselves drawn to the intricacies of the abbey’s design, which often includes elements such as vaulted ceilings and decorative motifs that echo the spiritual themes of the monastic life.
+Inside, the abbey features a variety of spaces that serve both communal and individual purposes. The prayer halls, cloisters, and living quarters are thoughtfully arranged to promote a sense of order and tranquility. Visitors may find themselves drawn to the intricacies of the abbey's design, which often includes elements such as vaulted ceilings and decorative motifs that echo the spiritual themes of the monastic life.
 
 While exploring Attel Abbey, one can appreciate not only the architectural beauty but also the historical significance of the features that have been preserved over time. Each corner of the abbey tells a story of devotion, community, and the passage of time.
 
@@ -86,7 +86,7 @@ Seasonal considerations are important as well. During the warmer months, sunscre
 Most visitors find that spending one to two hours at Attel Abbey is sufficient to appreciate its architecture and atmosphere.
 
 ### Is photography allowed?
-Visitors are generally welcome to take photographs, but it’s best to check for any specific restrictions upon arrival.
+Visitors are generally welcome to take photographs, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.
@@ -95,7 +95,7 @@ Check the official website for information on whether guided tours are available
 Spring and autumn are ideal for visiting, as the weather is typically mild and the landscapes are particularly scenic.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s advisable to check the official website for detailed information on facilities.
+Accessibility options may vary; it's advisable to check the official website for detailed information on facilities.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options.

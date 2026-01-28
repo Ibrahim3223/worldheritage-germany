@@ -109,7 +109,7 @@ Check the official website for current accessibility information, as this can va
 Information about online ticket purchases can be found on the official website. It's advisable to check in advance.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms and cafes may be limited in the area, so it’s best to plan accordingly.
+Amenities such as restrooms and cafes may be limited in the area, so it's best to plan accordingly.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area.

@@ -101,7 +101,7 @@ It is advisable to check with the official railway service for detailed accessib
 Check the official railway service website for the latest updates on online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Basic amenities, including restrooms, are typically available at railway stations. Cafes or snack options may also be present, though it’s best to confirm this beforehand.
+Basic amenities, including restrooms, are typically available at railway stations. Cafes or snack options may also be present, though it's best to confirm this beforehand.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions. Layers are recommended for varying temperatures, especially if you plan to explore the outdoors.

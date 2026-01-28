@@ -61,7 +61,7 @@ Lüneburg is home to a variety of attractions that complement a visit to the Nat
 1. **Lüneburg Town Hall**: A stunning example of medieval architecture, this historic building is a must-see for visitors.
 2. **St. Nicholas Church**: An impressive Gothic church that offers insights into the town's religious history and stunning architecture.
 3. **Lüneburg Heath**: A beautiful natural area perfect for hiking and experiencing the local landscape.
-4. **The German Salt Museum**: This museum provides a fascinating look into the region’s salt production history and its impact on local culture.
+4. **The German Salt Museum**: This museum provides a fascinating look into the region's salt production history and its impact on local culture.
 5. **Historic Market Square**: A lively area filled with shops and cafés, ideal for enjoying some local cuisine and soaking in the atmosphere.
 
 ## Insider Tips
@@ -92,7 +92,7 @@ Weekdays are generally less crowded, making them ideal for a more relaxed experi
 Accessibility options are available, but check the official website for specific details.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary; it’s best to check the official website for current offerings.
+Ticket purchasing options may vary; it's best to check the official website for current offerings.
 
 ### Are there restrooms and cafes?
 Facilities are typically available, but confirm on the official website for specific amenities.

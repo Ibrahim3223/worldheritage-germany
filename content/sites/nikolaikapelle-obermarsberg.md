@@ -28,7 +28,7 @@ image_srcset:
 
 Nestled in the charming town of Marsberg in Germany, Nikolaikapelle (Obermarsberg) is an intriguing church building that reflects the region's rich cultural heritage. This site offers visitors a chance to explore not only its architectural beauty but also its historical significance within the context of the area. Marsberg, located in the North Rhine-Westphalia region, is known for its blend of historical sites and natural landscapes, making it an appealing destination for travelers interested in history and architecture alike.
 
-Nikolaikapelle serves as an important landmark in the town, drawing attention for both its unique design and its role in local tradition. The chapel’s presence among the other structures in Marsberg adds a layer of depth to the town’s historical narrative. Visitors to Nikolaikapelle can expect to encounter a space that is both serene and reflective of a bygone era, making it a worthwhile stop for those exploring the architectural and cultural landscape of Germany.
+Nikolaikapelle serves as an important landmark in the town, drawing attention for both its unique design and its role in local tradition. The chapel's presence among the other structures in Marsberg adds a layer of depth to the town's historical narrative. Visitors to Nikolaikapelle can expect to encounter a space that is both serene and reflective of a bygone era, making it a worthwhile stop for those exploring the architectural and cultural landscape of Germany.
 
 ## History and Significance
 
@@ -81,7 +81,7 @@ For those planning to visit Nikolaikapelle, here are a few insider tips to enhan
 
 When preparing for your visit to Nikolaikapelle, consider the following practical tips:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as exploring the chapel and its surroundings may involve walking on uneven surfaces. A camera is also a great addition to capture the site’s beauty.
+- **What to Bring**: Comfortable walking shoes are recommended, as exploring the chapel and its surroundings may involve walking on uneven surfaces. A camera is also a great addition to capture the site's beauty.
 - **Seasonal Considerations**: Depending on the season, dress appropriately for the weather. Summers may be warm, while winters can be cold; layering is advisable to ensure comfort throughout your visit.
 - **Amenities**: Check the official website for information on available facilities, including restrooms or nearby dining options.
 

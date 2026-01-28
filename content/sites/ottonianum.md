@@ -36,7 +36,7 @@ Ottonianum's architectural design reflects the functional requirements of a scho
 
 Notable features of Ottonianum may include spacious classrooms, modern facilities, and areas designated for collaborative learning. While specific architectural details are not provided, the overall design aims to create an inspiring atmosphere for students and educators alike. The building's layout is likely to promote engagement and interaction, essential elements in fostering a vibrant educational community.
 
-In addition to its functional attributes, Ottonianum may also display elements of local architectural styles, which can contribute to its aesthetic appeal. The design, while primarily focused on education, is a valuable part of the visual landscape of Landshut, reflecting the city’s historical context.
+In addition to its functional attributes, Ottonianum may also display elements of local architectural styles, which can contribute to its aesthetic appeal. The design, while primarily focused on education, is a valuable part of the visual landscape of Landshut, reflecting the city's historical context.
 
 ## Visiting Information
 

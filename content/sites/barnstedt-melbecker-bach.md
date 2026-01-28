@@ -74,7 +74,7 @@ To avoid larger crowds, consider visiting during weekdays or early in the mornin
 
 ## Practical Information
 
-When visiting Barnstedt-Melbecker Bach, it’s advisable to bring essentials such as water, snacks, a camera, and appropriate outdoor gear. Comfortable walking shoes are recommended, especially if you plan to explore the trails extensively.
+When visiting Barnstedt-Melbecker Bach, it's advisable to bring essentials such as water, snacks, a camera, and appropriate outdoor gear. Comfortable walking shoes are recommended, especially if you plan to explore the trails extensively.
 
 Seasonal considerations include the potential for wet conditions in spring and autumn, so appropriate footwear is essential. Summer months may also bring more visitors, making early mornings or late afternoons preferable for a quieter experience.
 

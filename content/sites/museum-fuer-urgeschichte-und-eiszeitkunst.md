@@ -76,7 +76,7 @@ To make the most of your visit to the Museum für Urgeschichte und Eiszeitkunst,
 
 - **Crowd Avoidance**: For a quieter experience, aim to visit during weekday mornings or during off-peak seasons. This allows for a more serene exploration of the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific exhibits or artifacts. They can often provide deeper insights and context that enhance your understanding.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific exhibits or artifacts. They can often provide deeper insights and context that enhance your understanding.
 
 ## Practical Information
 

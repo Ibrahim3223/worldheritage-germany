@@ -28,9 +28,9 @@ image_srcset:
 
 Burg Münch, a captivating castle located in the heart of Münchenbernsdorf, Germany, invites visitors to explore its storied past and architectural charm. Positioned at coordinates 50.8205, 11.9321, this historic site embodies the essence of European medieval fortifications. Steeped in a rich cultural heritage, Burg Münch stands as a significant landmark in the region, drawing curious travelers and history enthusiasts alike.
 
-The castle’s impressive structure not only serves as a glimpse into the architectural styles of its time but also plays a crucial role in the narrative of local history. As you approach the castle, the sturdy walls and towers evoke a sense of intrigue about the lives that once unfolded within its confines. Visitors can expect a journey through the castle’s history, offering insights into the societal norms and architectural advancements of the periods it has witnessed. 
+The castle's impressive structure not only serves as a glimpse into the architectural styles of its time but also plays a crucial role in the narrative of local history. As you approach the castle, the sturdy walls and towers evoke a sense of intrigue about the lives that once unfolded within its confines. Visitors can expect a journey through the castle's history, offering insights into the societal norms and architectural advancements of the periods it has witnessed. 
 
-Burg Münch promises an engaging experience for those who appreciate history, architecture, and the stories encapsulated within ancient walls. Whether you are exploring its grounds or simply soaking in the atmosphere, this castle offers a unique perspective on the past, enriching your understanding of the region’s heritage.
+Burg Münch promises an engaging experience for those who appreciate history, architecture, and the stories encapsulated within ancient walls. Whether you are exploring its grounds or simply soaking in the atmosphere, this castle offers a unique perspective on the past, enriching your understanding of the region's heritage.
 
 ## History and Significance
 

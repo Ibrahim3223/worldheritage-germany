@@ -70,7 +70,7 @@ For those planning a visit to Hirschfelder Straße 31, here are a few tips to en
 
 - **Avoiding Crowds**: To enjoy a more tranquil visit, consider going during weekdays or early in the day. This timing allows for a more personal experience with the exhibits and staff.
 
-- **Engage with Staff**: The museum staff often have a wealth of knowledge about the exhibits and the history of the house. Don’t hesitate to ask questions or seek recommendations for other local attractions.
+- **Engage with Staff**: The museum staff often have a wealth of knowledge about the exhibits and the history of the house. Don't hesitate to ask questions or seek recommendations for other local attractions.
 
 ## Practical Information
 

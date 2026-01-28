@@ -28,7 +28,7 @@ image_srcset:
 
 Werk 2 - Kulturfabrik Leipzig serves as a dynamic cultural center, repurposed from its original identity as a factory. Situated in the vibrant city of Leipzig, Germany, this site exemplifies the transformation of industrial spaces into hubs of creativity and community engagement. The location is marked by its historical significance and its role in contemporary cultural expression, making it a focal point for both locals and visitors alike. With a diverse program of events, including concerts, exhibitions, and workshops, Werk 2 invites individuals to explore the intersection of art, culture, and history in a unique setting.
 
-Visitors to Leipzig will find that this cultural center is not just a venue for entertainment but a reflection of the city’s evolving identity. By fostering a sense of community through various artistic endeavors, Werk 2 contributes to the urban landscape, engaging audiences in meaningful ways. Whether you are an art enthusiast, a music lover, or simply curious about the cultural fabric of Leipzig, a visit to Werk 2 promises an enriching experience.
+Visitors to Leipzig will find that this cultural center is not just a venue for entertainment but a reflection of the city's evolving identity. By fostering a sense of community through various artistic endeavors, Werk 2 contributes to the urban landscape, engaging audiences in meaningful ways. Whether you are an art enthusiast, a music lover, or simply curious about the cultural fabric of Leipzig, a visit to Werk 2 promises an enriching experience.
 
 ## History and Significance
 
@@ -64,7 +64,7 @@ While exploring the cultural landscape surrounding Werk 2, visitors can find sev
 
 3. **Völkerschlachtdenkmal**: This monumental memorial commemorates the Battle of Leipzig and offers panoramic views of the city from its observation deck.
 
-4. **Museum der bildenden Künste**: This art museum features an impressive collection of works from the Middle Ages to contemporary art, providing a deeper insight into the region’s artistic heritage.
+4. **Museum der bildenden Künste**: This art museum features an impressive collection of works from the Middle Ages to contemporary art, providing a deeper insight into the region's artistic heritage.
 
 5. **Clara-Zetkin-Park**: A beautiful urban park ideal for relaxation, walking, and enjoying nature, located not far from the cultural hub of Werk 2.
 
@@ -101,7 +101,7 @@ Accessibility options should be confirmed on the official website, as facilities
 Online ticket purchasing is often available for specific events. It's advisable to check the official website for availability and details.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available at the venue. Food and beverage options may vary by event, so it’s worth checking ahead.
+Facilities such as restrooms are typically available at the venue. Food and beverage options may vary by event, so it's worth checking ahead.
 
 ### What should I wear?
 Dress comfortably for your visit, considering the nature of the events you plan to attend. Layering may be a good idea, especially if you are visiting during seasonal changes.

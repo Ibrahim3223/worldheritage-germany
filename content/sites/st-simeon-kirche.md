@@ -28,7 +28,7 @@ image_srcset:
 
 St.-Simeon-Kirche, located in the vibrant Friedrichshain-Kreuzberg district of Berlin, stands as a prominent church building that captures both the architectural spirit and the cultural essence of the area. This church, with its unique character, serves not only as a place of worship but also as a focal point for community gatherings and cultural events. Its location within one of Berlin's most dynamic neighborhoods makes it an intriguing stop for both locals and visitors alike, offering insights into the city's rich religious and social heritage.
 
-As you approach St.-Simeon-Kirche, you are welcomed by the bustling energy of the surrounding streets, filled with cafes, art galleries, and the diverse population that defines this part of Berlin. The church’s significance extends beyond its physical structure, as it reflects the historical transformation of the area and the role of faith within this urban landscape. Visitors to St.-Simeon-Kirche can expect to engage with a site that is both a spiritual haven and a testament to Berlin's evolving identity.
+As you approach St.-Simeon-Kirche, you are welcomed by the bustling energy of the surrounding streets, filled with cafes, art galleries, and the diverse population that defines this part of Berlin. The church's significance extends beyond its physical structure, as it reflects the historical transformation of the area and the role of faith within this urban landscape. Visitors to St.-Simeon-Kirche can expect to engage with a site that is both a spiritual haven and a testament to Berlin's evolving identity.
 
 ## History and Significance
 
@@ -66,17 +66,17 @@ St.-Simeon-Kirche is ideally situated near several other attractions that can en
 
 4. **Treptower Park** - A scenic park along the Spree River, ideal for a leisurely stroll or a picnic, offering a respite from the urban hustle.
 
-5. **Berghain** - Renowned for its nightlife, this former power plant turned nightclub is a cultural landmark in Berlin’s electronic music scene.
+5. **Berghain** - Renowned for its nightlife, this former power plant turned nightclub is a cultural landmark in Berlin's electronic music scene.
 
 ## Insider Tips
 
-When visiting St.-Simeon-Kirche, consider bringing a camera to capture the church’s architectural features and the vibrant surrounding area. However, be mindful of any restrictions regarding photography inside the church during services or events. 
+When visiting St.-Simeon-Kirche, consider bringing a camera to capture the church's architectural features and the vibrant surrounding area. However, be mindful of any restrictions regarding photography inside the church during services or events. 
 
 To avoid crowds, try visiting during the early morning or late afternoon on weekdays, when the church may be less busy. This allows for a more intimate experience, where you can soak in the atmosphere without the hustle and bustle of larger crowds.
 
 ## Practical Information
 
-When planning your visit to St.-Simeon-Kirche, it’s advisable to bring along essentials such as a water bottle and comfortable walking shoes, as you may want to explore the surrounding neighborhood. Seasonal considerations can also affect your visit; during colder months, dress warmly, while in summer, light clothing and sunscreen may be beneficial.
+When planning your visit to St.-Simeon-Kirche, it's advisable to bring along essentials such as a water bottle and comfortable walking shoes, as you may want to explore the surrounding neighborhood. Seasonal considerations can also affect your visit; during colder months, dress warmly, while in summer, light clothing and sunscreen may be beneficial.
 
 Be sure to check the official website for any updates regarding special events or activities that may enhance your experience at the church.
 
@@ -86,7 +86,7 @@ Be sure to check the official website for any updates regarding special events o
 A visit to St.-Simeon-Kirche typically takes about 30 minutes to an hour, depending on your level of interest in the architecture and surroundings.
 
 ### Is photography allowed?
-Photography policies may vary, especially during services or events. It’s best to check for any signs or ask staff regarding photography permissions.
+Photography policies may vary, especially during services or events. It's best to check for any signs or ask staff regarding photography permissions.
 
 ### Are there guided tours?
 Information regarding guided tours may vary. Check the official website for details on whether tours are available during your visit.
@@ -95,13 +95,13 @@ Information regarding guided tours may vary. Check the official website for deta
 Early mornings or late afternoons on weekdays are generally quieter times for visiting the church, allowing for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Accessibility features can vary, so it’s advisable to check directly with the church or on the official website for specific accommodations.
+Accessibility features can vary, so it's advisable to check directly with the church or on the official website for specific accommodations.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticketing options and whether advance purchases are available.
 
 ### Are there restrooms and cafes?
-While specific amenities may not be detailed, check the surrounding area for nearby cafes and facilities. It’s advisable to plan ahead.
+While specific amenities may not be detailed, check the surrounding area for nearby cafes and facilities. It's advisable to plan ahead.
 
 ### What should I wear?
 Dress comfortably and respectfully, especially if attending a service. Consider the weather and the nature of your visit when choosing your attire.

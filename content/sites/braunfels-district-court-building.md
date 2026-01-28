@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Braunfels District Court Building is an architectural landmark located in the scenic town of Braunfels, Germany, within the Lahn-Dill district of Hesse. This courthouse, a prominent feature of the area, combines functionality with striking design, serving as both a judicial hub and a visual focal point in the community. The building’s large volume is characterized by its understated elegance, featuring distinctive design elements that reflect both historical and contemporary influences. As visitors approach, they are greeted by the impressive sandstone portal, which serves as a testament to the craftsmanship of the era in which it was built.
+The Braunfels District Court Building is an architectural landmark located in the scenic town of Braunfels, Germany, within the Lahn-Dill district of Hesse. This courthouse, a prominent feature of the area, combines functionality with striking design, serving as both a judicial hub and a visual focal point in the community. The building's large volume is characterized by its understated elegance, featuring distinctive design elements that reflect both historical and contemporary influences. As visitors approach, they are greeted by the impressive sandstone portal, which serves as a testament to the craftsmanship of the era in which it was built.
 
-The surrounding region is known not only for its beautiful landscapes but also for its rich cultural heritage. Braunfels, with its charming streets and historic buildings, offers an inviting atmosphere for those interested in exploring both the local history and the architectural styles that define this part of Germany. The District Court Building, with its significant presence, plays a crucial role in the civic life of Braunfels, making it an essential stop for anyone looking to appreciate the area’s historical and legal legacy.
+The surrounding region is known not only for its beautiful landscapes but also for its rich cultural heritage. Braunfels, with its charming streets and historic buildings, offers an inviting atmosphere for those interested in exploring both the local history and the architectural styles that define this part of Germany. The District Court Building, with its significant presence, plays a crucial role in the civic life of Braunfels, making it an essential stop for anyone looking to appreciate the area's historical and legal legacy.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Braunfels District Court Building stands as a key institution in the region,
 
 The courthouse is situated in a region steeped in history. Braunfels itself has a long-standing tradition of governance and civic engagement, dating back centuries. The presence of a district court underscores the town's commitment to justice and legal integrity, reinforcing its role as a center for regional administration. This courthouse not only serves the local population but also reflects the broader historical context of legal development in Germany.
 
-As part of the legal infrastructure, the Braunfels District Court Building plays a significant role in the community’s functionality. It stands amidst a backdrop of historical significance, with the town's evolution closely linked to its judicial heritage. Visitors to the courthouse can appreciate its importance, not just as a structure, but as a vital part of the societal framework that governs and organizes communal life.
+As part of the legal infrastructure, the Braunfels District Court Building plays a significant role in the community's functionality. It stands amidst a backdrop of historical significance, with the town's evolution closely linked to its judicial heritage. Visitors to the courthouse can appreciate its importance, not just as a structure, but as a vital part of the societal framework that governs and organizes communal life.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ While visiting the Braunfels District Court Building, take advantage of the oppo
 
 3. **St. Anna's Church**: This beautiful church is located nearby and features stunning architecture and artwork, making it a worthwhile stop for visitors.
 
-4. **Local Museums**: Explore small local museums that showcase the history and culture of Braunfels and the surrounding region, offering insights into the area’s past.
+4. **Local Museums**: Explore small local museums that showcase the history and culture of Braunfels and the surrounding region, offering insights into the area's past.
 
 5. **Parks and Gardens**: The town hosts several green spaces that are ideal for relaxation and picnicking, perfect for unwinding after your visit to the courthouse.
 
@@ -97,7 +97,7 @@ A visit to the Braunfels District Court Building can be completed in about 1-2 h
 Photography of the building's exterior is generally permitted, but be sure to check for any restrictions regarding interior photography.
 
 ### Are there guided tours?
-Check the official website for information on any available guided tours, as they may provide deeper insights into the building’s history and architecture.
+Check the official website for information on any available guided tours, as they may provide deeper insights into the building's history and architecture.
 
 ### What's the best time to visit?
 Visiting during weekdays or in the warmer months is recommended for a more relaxed experience.

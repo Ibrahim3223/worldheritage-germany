@@ -82,7 +82,7 @@ To enhance your visit to the Luftwaffenmuseum Uetersen, consider these insider t
 
 - **Photography**: While photography is generally allowed, be mindful of specific exhibits that may have restrictions. Always check for signs indicating whether flash photography is permitted.
 
-- **Crowd Avoidance**: Aim to visit during weekday mornings for a quieter experience. If you’re visiting on the weekend, try to arrive right when the museum opens to avoid larger crowds.
+- **Crowd Avoidance**: Aim to visit during weekday mornings for a quieter experience. If you're visiting on the weekend, try to arrive right when the museum opens to avoid larger crowds.
 
 - **Plan for Learning**: Allocate time to read the informative displays and participate in any interactive exhibits. Engaging fully with the materials can significantly enrich your understanding of the air force's history.
 

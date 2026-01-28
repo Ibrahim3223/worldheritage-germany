@@ -64,7 +64,7 @@ While visiting Our Lady's Church, take the opportunity to explore other attracti
 
 1. **Frankenberg Castle**: This historical site offers a glimpse into the region's medieval past. The castle's architecture and surrounding gardens provide a picturesque setting for a leisurely stroll.
 
-2. **The Old Town (Altstadt)**: Wander through the charming streets of Frankenberg’s Old Town, where you can admire well-preserved half-timbered houses and local shops.
+2. **The Old Town (Altstadt)**: Wander through the charming streets of Frankenberg's Old Town, where you can admire well-preserved half-timbered houses and local shops.
 
 3. **St. Elizabeth's Church**: Another significant religious site in the area, St. Elizabeth's Church showcases beautiful art and architecture worth exploring.
 
@@ -109,7 +109,7 @@ Accessibility information may vary. It is advisable to check the official websit
 Information on ticketing can be confirmed on the official website, where current entry fees and arrangements may be posted.
 
 ### Are there restrooms and cafes?
-Visitor amenities, including restrooms and nearby cafes, can vary. It’s advisable to check the local area for available services.
+Visitor amenities, including restrooms and nearby cafes, can vary. It's advisable to check the local area for available services.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions, especially if you plan to explore the surrounding areas.

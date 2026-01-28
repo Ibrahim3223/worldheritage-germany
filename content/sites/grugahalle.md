@@ -28,13 +28,13 @@ image_srcset:
 
 Grugahalle, a prominent multi-purpose hall in Essen, Germany, serves as a vital hub for cultural and social events in the region. Its strategic location within the city makes it an accessible venue for both locals and visitors alike. Over the years, Grugahalle has hosted a variety of events, from concerts to exhibitions, highlighting its versatility and importance to the community. As a gathering place for diverse occasions, it not only facilitates entertainment but also fosters social interaction and community spirit. 
 
-Essen, part of the Ruhr area, is known for its industrial history and cultural developments. The presence of Grugahalle adds to the city’s dynamic environment, making it a notable landmark. Visitors can expect to engage with a space that reflects the modern spirit of Essen while also embracing its historical roots. Whether you are attending a concert, a trade fair, or a community event, Grugahalle promises a lively experience that connects visitors with the local culture.
+Essen, part of the Ruhr area, is known for its industrial history and cultural developments. The presence of Grugahalle adds to the city's dynamic environment, making it a notable landmark. Visitors can expect to engage with a space that reflects the modern spirit of Essen while also embracing its historical roots. Whether you are attending a concert, a trade fair, or a community event, Grugahalle promises a lively experience that connects visitors with the local culture.
 
 ## History and Significance
 
 While specific dates of establishment and historical milestones may not be readily available, Grugahalle has developed a reputation as a significant venue in Essen's cultural landscape. The hall's design and purpose reflect a broader trend in urban centers where multi-purpose spaces are increasingly favored for their adaptability and accessibility. 
 
-Grugahalle serves not just as a physical space but as a cultural landmark that embodies the spirit of community engagement. It plays a crucial role in the social fabric of Essen, providing a platform for artistic expression and public gatherings. The hall’s ability to accommodate various events underscores its importance in promoting cultural exchange and fostering a sense of belonging among residents and visitors.
+Grugahalle serves not just as a physical space but as a cultural landmark that embodies the spirit of community engagement. It plays a crucial role in the social fabric of Essen, providing a platform for artistic expression and public gatherings. The hall's ability to accommodate various events underscores its importance in promoting cultural exchange and fostering a sense of belonging among residents and visitors.
 
 The significance of Grugahalle extends beyond its architectural presence; it is a space where people come together to celebrate, learn, and connect. The events held here often reflect local traditions, contemporary art, and international acts, showcasing a blend of influences that represent the diverse population of the Ruhr area.
 
@@ -103,7 +103,7 @@ Guided tours may be available during special events or exhibitions. Check the of
 The best time to visit aligns with event schedules. Consider attending during major events for a lively atmosphere.
 
 ### Is it wheelchair accessible?
-Grugahalle is designed to be accessible, but it’s a good idea to confirm specific accessibility features on the official website.
+Grugahalle is designed to be accessible, but it's a good idea to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Tickets for events are typically available online. Visit the official website for purchasing options.

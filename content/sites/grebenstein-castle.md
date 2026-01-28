@@ -36,7 +36,7 @@ Grebenstein Castle has played a pivotal role in the region's history. Although s
 
 Culturally, Grebenstein Castle represents the evolution of medieval architecture, reflecting the styles and construction techniques that were prevalent during its establishment and subsequent renovations. As a site of historical significance, it has witnessed various transformations over the centuries, adapting to the changing needs of its inhabitants and the surrounding community. The castle's enduring presence is a testament to its role in the local narrative, contributing to the identity of Grebenstein and its residents.
 
-Visitors exploring the castle can appreciate the layers of history embedded within its walls, from early defense mechanisms to later adaptations that catered to domestic life. Each element within the structure tells a part of the story, allowing for a deeper understanding of the region’s heritage.
+Visitors exploring the castle can appreciate the layers of history embedded within its walls, from early defense mechanisms to later adaptations that catered to domestic life. Each element within the structure tells a part of the story, allowing for a deeper understanding of the region's heritage.
 
 ## Architecture and Features
 

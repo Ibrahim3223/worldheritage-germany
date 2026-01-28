@@ -58,7 +58,7 @@ On average, visitors should allocate a few hours to fully appreciate the museum'
 
 The best times to visit are typically during weekdays, when the museum is less crowded, allowing for a more intimate experience with the art. Early mornings or late afternoons on weekends can also provide a quieter atmosphere.
 
-As you plan your visit, consider checking the museum’s schedule for any special exhibitions or events that may coincide with your trip. These can offer unique insights and experiences beyond the permanent collection.
+As you plan your visit, consider checking the museum's schedule for any special exhibitions or events that may coincide with your trip. These can offer unique insights and experiences beyond the permanent collection.
 
 ## Nearby Attractions
 

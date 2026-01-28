@@ -36,7 +36,7 @@ The origins of Giessen Old Castle trace back to a time when castles were essenti
 
 Throughout its history, Giessen Old Castle may have undergone various modifications and restorations, reflecting the changing architectural styles and needs of its occupants. Each alteration tells a story of the people who lived and worked within its walls, highlighting the castle's adaptability to the evolving cultural landscape. The heritage of Giessen Old Castle is not only tied to its physical structure but also to the myriad events that unfolded within its confines, from political maneuvers to social gatherings.
 
-Today, Giessen Old Castle stands as a symbol of the town's historical significance and cultural identity. Its presence continues to attract visitors keen on delving into the history of the region, making it an essential stop for anyone exploring Giessen. The castle’s enduring legacy contributes to its reputation as a point of interest for both locals and tourists alike.
+Today, Giessen Old Castle stands as a symbol of the town's historical significance and cultural identity. Its presence continues to attract visitors keen on delving into the history of the region, making it an essential stop for anyone exploring Giessen. The castle's enduring legacy contributes to its reputation as a point of interest for both locals and tourists alike.
 
 ## Architecture and Features
 

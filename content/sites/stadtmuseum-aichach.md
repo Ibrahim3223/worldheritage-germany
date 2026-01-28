@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Stadtmuseum Aichach serves as a window into the cultural and historical landscape of Aichach, Germany. This museum is not merely a collection of artifacts; it embodies the essence of the town's heritage, offering visitors a chance to engage with its past in a meaningful way. Situated in the heart of Aichach, the museum plays a pivotal role in preserving the local history, showcasing exhibitions that reflect the unique identity and traditions of the region. As you step inside, you’ll find a realm dedicated to the stories that have shaped this community over the years. 
+The Stadtmuseum Aichach serves as a window into the cultural and historical landscape of Aichach, Germany. This museum is not merely a collection of artifacts; it embodies the essence of the town's heritage, offering visitors a chance to engage with its past in a meaningful way. Situated in the heart of Aichach, the museum plays a pivotal role in preserving the local history, showcasing exhibitions that reflect the unique identity and traditions of the region. As you step inside, you'll find a realm dedicated to the stories that have shaped this community over the years. 
 
 The museum is characterized by its inviting atmosphere, making it an ideal destination for families, history enthusiasts, and casual visitors alike. With a commitment to education and preservation, the Stadtmuseum Aichach opens its doors to all who wish to learn more about the local culture. Whether you're a long-time resident or a first-time visitor, the museum promises an enriching experience that highlights the significance of Aichach in the broader context of German heritage.
 
@@ -44,7 +44,7 @@ The architectural design of Stadtmuseum Aichach reflects a blend of historical a
 
 Inside, the layout is thoughtfully organized to facilitate easy navigation through the various exhibits. The spaces are designed to accommodate a range of displays, from static artifacts to interactive installations. Notable features may include well-preserved historical items, informative panels, and multimedia presentations that enrich the storytelling aspect of the exhibitions.
 
-The museum’s physical setting is as much a part of the experience as its collections. Visitors will find that the thoughtful arrangement of exhibits encourages exploration and engagement, inviting them to delve deeper into the history and culture of Aichach. 
+The museum's physical setting is as much a part of the experience as its collections. Visitors will find that the thoughtful arrangement of exhibits encourages exploration and engagement, inviting them to delve deeper into the history and culture of Aichach. 
 
 ## Visiting Information
 

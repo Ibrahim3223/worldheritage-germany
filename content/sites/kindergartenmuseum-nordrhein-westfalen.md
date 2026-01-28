@@ -71,7 +71,7 @@ To maximize your experience at the Kindergartenmuseum, consider the following in
 
 - **Photography**: Check if photography is permitted in certain exhibit areas, as some museums may have restrictions to preserve artifacts.
 - **Crowd Avoidance**: Aim to visit during weekdays or early in the day to avoid larger groups, allowing for a more personal exploration of the exhibits.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about exhibits or educational programs; they can provide valuable insights and enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff about exhibits or educational programs; they can provide valuable insights and enhance your visit.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ Photography policies may vary; check with museum staff upon arrival to understan
 Guided tours may be available, offering deeper insights into the exhibits and their significance. Check the official website for details.
 
 ### What's the best time to visit?
-Weekdays are often less crowded, making them ideal for a more relaxed visit. Special programs may also be scheduled, so check the museum’s website.
+Weekdays are often less crowded, making them ideal for a more relaxed visit. Special programs may also be scheduled, so check the museum's website.
 
 ### Is it wheelchair accessible?
 Accessibility information can be confirmed by checking the official website before your visit to ensure a comfortable experience for all guests.

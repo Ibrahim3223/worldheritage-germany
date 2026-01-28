@@ -36,7 +36,7 @@ The history of Irsee Abbey is deeply entwined with the monastic movement in Euro
 
 Monasteries like Irsee Abbey were crucial centers for education, agriculture, and the preservation of knowledge during the Middle Ages. They provided spiritual guidance while also contributing to the economy and culture of their regions. The transformation of Irsee Abbey into a conference center reflects a broader trend of repurposing historical sites to serve modern needs, ensuring that their legacy continues to resonate in contemporary society.
 
-The abbey's significance is not merely historical; it also represents a dialogue between the past and present. As a conference and training center, Irsee Abbey fosters new discussions and learning experiences, enabling visitors to connect with the site in meaningful ways. The ability to utilize such a space for education and development underscores the ongoing relevance of monastic sites in today’s world.
+The abbey's significance is not merely historical; it also represents a dialogue between the past and present. As a conference and training center, Irsee Abbey fosters new discussions and learning experiences, enabling visitors to connect with the site in meaningful ways. The ability to utilize such a space for education and development underscores the ongoing relevance of monastic sites in today's world.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ While visiting Irsee Abbey, several nearby attractions can enhance your experien
    
 2. **Füssen**: A historic town known for its stunning castles, including Neuschwanstein and Hohenschwangau, both of which are within a reasonable distance.
 
-3. **Königsee Lake**: Renowned for its crystal-clear waters and breathtaking landscapes, it’s a great spot for outdoor activities.
+3. **Königsee Lake**: Renowned for its crystal-clear waters and breathtaking landscapes, it's a great spot for outdoor activities.
 
 4. **Pilgrimage Church of Wies**: A UNESCO World Heritage site celebrated for its Rococo architecture and beautiful frescoes.
 

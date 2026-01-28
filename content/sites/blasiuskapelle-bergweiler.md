@@ -28,7 +28,7 @@ image_srcset:
 
 In the serene landscape of Tholey, Germany, the Blasiuskapelle in Bergweiler stands as a historical chapel that invites both contemplation and admiration. This quaint structure, known for its simple yet elegant design, serves not only as a place of worship but also as a symbol of the community's enduring faith and heritage. Visitors to the area can appreciate its architectural charm and the peaceful ambiance that surrounds it, making it a perfect stop for those interested in religious history and local culture. 
 
-Located at the coordinates 49.4765, 6.99665, the chapel offers a glimpse into the spiritual life of the region, reflecting the traditions that have shaped it over the years. As you approach this remarkable site, you will find that it encapsulates the essence of small-town German heritage, providing an enriching experience for those who seek to connect with the area’s cultural roots.
+Located at the coordinates 49.4765, 6.99665, the chapel offers a glimpse into the spiritual life of the region, reflecting the traditions that have shaped it over the years. As you approach this remarkable site, you will find that it encapsulates the essence of small-town German heritage, providing an enriching experience for those who seek to connect with the area's cultural roots.
 
 ## History and Significance
 

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Munich's Altstadt-Lehel district lies the Rindermarktbrunnen, a charming fountain that serves as both a water well and a focal point for the surrounding community. The fountain’s location within the bustling market square not only highlights its practical purpose but also its role as a gathering place for locals and visitors alike. With its historical significance and cultural relevance, Rindermarktbrunnen invites exploration, making it an essential stop for anyone traversing the vibrant streets of Munich.
+In the heart of Munich's Altstadt-Lehel district lies the Rindermarktbrunnen, a charming fountain that serves as both a water well and a focal point for the surrounding community. The fountain's location within the bustling market square not only highlights its practical purpose but also its role as a gathering place for locals and visitors alike. With its historical significance and cultural relevance, Rindermarktbrunnen invites exploration, making it an essential stop for anyone traversing the vibrant streets of Munich.
 
-This fountain is more than just a source of water; it represents an integral part of the city’s heritage. The Altstadt-Lehel district is known for its picturesque architecture and vibrant atmosphere, providing a fascinating backdrop for the Rindermarktbrunnen. As you approach, the sound of flowing water mingles with the lively chatter of market-goers, creating an invigorating ambiance that captures the essence of Munich's urban life.
+This fountain is more than just a source of water; it represents an integral part of the city's heritage. The Altstadt-Lehel district is known for its picturesque architecture and vibrant atmosphere, providing a fascinating backdrop for the Rindermarktbrunnen. As you approach, the sound of flowing water mingles with the lively chatter of market-goers, creating an invigorating ambiance that captures the essence of Munich's urban life.
 
 By visiting the Rindermarktbrunnen, you not only get to appreciate its aesthetic charm but also engage with a piece of the city's living history. The fountain stands as a reminder of the importance of water in urban settlements throughout history and continues to be a beloved landmark in this dynamic area.
 
@@ -70,11 +70,11 @@ The Rindermarktbrunnen is conveniently located near several notable attractions 
 
 2. **Marienplatz**: The central square of Munich is a must-see, featuring the iconic New Town Hall (Neues Rathaus) and its famous Glockenspiel. This vibrant square is often bustling with events and festivities.
 
-3. **Frauenkirche**: The Cathedral of Our Dear Lady is a stunning Gothic structure, known for its distinctive twin towers. It’s a short stroll from the fountain and offers significant historical and architectural interest.
+3. **Frauenkirche**: The Cathedral of Our Dear Lady is a stunning Gothic structure, known for its distinctive twin towers. It's a short stroll from the fountain and offers significant historical and architectural interest.
 
 4. **Deutsches Museum**: Located nearby, this museum is one of the world's largest museums dedicated to science and technology, featuring a vast collection of exhibits that will intrigue visitors of all ages.
 
-5. **St. Peter's Church**: Known as the oldest church in Munich, St. Peter’s offers a chance to climb its tower for panoramic views of the city. The church's Baroque architecture is also worth admiring.
+5. **St. Peter's Church**: Known as the oldest church in Munich, St. Peter's offers a chance to climb its tower for panoramic views of the city. The church's Baroque architecture is also worth admiring.
 
 ## Insider Tips
 
@@ -84,7 +84,7 @@ To make the most of your visit to the Rindermarktbrunnen, consider these insider
 
 - **Crowd Avoidance**: If you prefer a quieter experience, visit during weekdays when the market is less crowded. Early mornings are also a good option, as the fountain is often less busy before market activities ramp up.
 
-- **Engagement**: Interact with local vendors at the nearby Viktualienmarkt for a taste of authentic Bavarian culture. Don’t hesitate to ask for recommendations or history about the area.
+- **Engagement**: Interact with local vendors at the nearby Viktualienmarkt for a taste of authentic Bavarian culture. Don't hesitate to ask for recommendations or history about the area.
 
 ## Practical Information
 
@@ -104,7 +104,7 @@ Visitors typically spend about 30 minutes to an hour at the Rindermarktbrunnen, 
 
 ### Is photography allowed?
 
-Yes, photography is permitted at the fountain, and it’s a popular spot for capturing both the fountain itself and the vibrant market atmosphere.
+Yes, photography is permitted at the fountain, and it's a popular spot for capturing both the fountain itself and the vibrant market atmosphere.
 
 ### Are there guided tours?
 

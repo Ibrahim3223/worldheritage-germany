@@ -38,7 +38,7 @@ The significance of Burg Königsberg extends beyond its walls; it represents the
 
 ## Architecture and Features
 
-Burg Königsberg is characterized by its robust architectural features typical of medieval castles. The castle’s structure reflects the defensive needs of its era, with thick walls designed to withstand attacks and a strategic layout that maximizes visibility of the surrounding landscape. As you approach the castle, you may notice the imposing entrance, which provides a glimpse into the grandeur that once defined the interior.
+Burg Königsberg is characterized by its robust architectural features typical of medieval castles. The castle's structure reflects the defensive needs of its era, with thick walls designed to withstand attacks and a strategic layout that maximizes visibility of the surrounding landscape. As you approach the castle, you may notice the imposing entrance, which provides a glimpse into the grandeur that once defined the interior.
 
 Key features of Burg Königsberg include its towers, which not only serve as lookout points but also add to the aesthetic appeal of the castle. The craftsmanship involved in the construction of these towers exemplifies the skills of the artisans of the time. Visitors can explore various areas of the castle, including open courtyards and remnants of living quarters, which offer insights into the daily life of its former inhabitants.
 

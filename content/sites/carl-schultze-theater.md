@@ -30,7 +30,7 @@ The Carl-Schultze-Theater has a storied past that contributes to its cultural im
 
 The theatre contributed to the cultural life of Hamburg, a city known for its commitment to the arts. The performances hosted within its walls varied in style and genre, reflecting the diverse tastes of the audience and the evolution of theatrical expression. The building served not only as a venue for entertainment but also as a meeting ground for artists, actors, and the community, fostering a vibrant cultural exchange.
 
-While the theatre is no longer operational, its legacy remains significant. It serves as a historical marker in the city, reminding visitors of the importance of theatre in society. The building’s existence encapsulates the artistic movements and societal changes that occurred over the years, and it continues to inspire those interested in theatre and the arts.
+While the theatre is no longer operational, its legacy remains significant. It serves as a historical marker in the city, reminding visitors of the importance of theatre in society. The building's existence encapsulates the artistic movements and societal changes that occurred over the years, and it continues to inspire those interested in theatre and the arts.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ While visiting the Carl-Schultze-Theater, there are several nearby attractions w
 
 For photographers, the best time to capture the Carl-Schultze-Theater is during the golden hour—just before sunset—when the light casts a warm glow on the building. Additionally, arriving early in the day can help avoid crowds if any special events or tours are taking place.
 
-When visiting, be mindful of the surrounding area, as it can be busy with both locals and tourists. Taking the time to explore the nearby attractions can provide a more enriching experience, allowing for a deeper understanding of Hamburg’s cultural fabric.
+When visiting, be mindful of the surrounding area, as it can be busy with both locals and tourists. Taking the time to explore the nearby attractions can provide a more enriching experience, allowing for a deeper understanding of Hamburg's cultural fabric.
 
 ## Practical Information
 

@@ -32,11 +32,11 @@ The castle's location in the heart of Thalheim adds to its allure, making it an 
 
 ## History and Significance
 
-Burg Hohenburg’s origins can be traced back to the medieval period, a time when castles were pivotal in the defense and control of territories. While specific dates of construction and key historical events are not documented, the castle's role in the regional power dynamics reflects the broader historical patterns of feudalism and territorial disputes prevalent in Germany during the Middle Ages.
+Burg Hohenburg's origins can be traced back to the medieval period, a time when castles were pivotal in the defense and control of territories. While specific dates of construction and key historical events are not documented, the castle's role in the regional power dynamics reflects the broader historical patterns of feudalism and territorial disputes prevalent in Germany during the Middle Ages.
 
 The cultural importance of Burg Hohenburg extends beyond its architectural features. As a defensive stronghold, it would have played a crucial role in the protection of the surrounding lands, serving as a residence for noble families and a center of local governance. Castles like Hohenburg were often the focal points of community life, shaping the social and political landscape of their regions.
 
-Though the castle may not be as widely recognized as some of its grander counterparts, it contributes to the rich narrative of the area’s history. It stands as a symbol of resilience and endurance, offering insights into the medieval way of life and the architectural styles of the time. Visitors can appreciate the castle as part of a larger journey through Germany’s historic sites, each telling its own story of the past.
+Though the castle may not be as widely recognized as some of its grander counterparts, it contributes to the rich narrative of the area's history. It stands as a symbol of resilience and endurance, offering insights into the medieval way of life and the architectural styles of the time. Visitors can appreciate the castle as part of a larger journey through Germany's historic sites, each telling its own story of the past.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ Visiting Burg Hohenburg offers a unique opportunity to immerse oneself in the hi
 
 For the most accurate and up-to-date information regarding visiting hours and ticket prices, it is advisable to check the official website. This will ensure visitors are aware of any seasonal changes or special events that might affect their visit.
 
-When planning a visit, it’s recommended to allocate a few hours to fully appreciate the castle and its surroundings. The best times for visiting are typically during the spring and autumn months when the weather is mild, and the landscape is particularly beautiful. Expect to encounter a serene environment, perfect for exploration and reflection.
+When planning a visit, it's recommended to allocate a few hours to fully appreciate the castle and its surroundings. The best times for visiting are typically during the spring and autumn months when the weather is mild, and the landscape is particularly beautiful. Expect to encounter a serene environment, perfect for exploration and reflection.
 
 ## Nearby Attractions
 

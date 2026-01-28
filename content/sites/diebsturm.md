@@ -28,7 +28,7 @@ image_srcset:
 
 Diebsturm, an impressive structure located in Bad Säckingen, Germany, captures the interest of both history buffs and casual visitors alike. This tower, with its striking profile, is not only a significant landmark in the region but also serves as a reminder of the architectural and cultural heritage of the area. Positioned at the coordinates 47.5501, 7.94961, Diebsturm is easily accessible, making it a must-visit for those exploring the charming town of Bad Säckingen and its surroundings.
 
-The tower’s origins and purpose provide insight into the historical context of this part of Germany. As one of the notable structures in the region, Diebsturm contributes to the rich narrative of the town, offering visitors a glimpse into the past. Whether you are an architecture enthusiast, a history lover, or simply seeking a unique attraction to explore, Diebsturm presents an opportunity to appreciate the craftsmanship and cultural significance of historical structures.
+The tower's origins and purpose provide insight into the historical context of this part of Germany. As one of the notable structures in the region, Diebsturm contributes to the rich narrative of the town, offering visitors a glimpse into the past. Whether you are an architecture enthusiast, a history lover, or simply seeking a unique attraction to explore, Diebsturm presents an opportunity to appreciate the craftsmanship and cultural significance of historical structures.
 
 Visiting Diebsturm promises a rewarding experience, combining leisure with education. As you approach the tower, you will be enveloped by the stories it holds and the beauty it represents. This guide will walk you through the history, architecture, and practical information to enhance your visit.
 
@@ -98,7 +98,7 @@ When preparing for your visit to Diebsturm, consider the following:
 A visit to Diebsturm typically lasts about an hour, allowing ample time for exploration and photography.
 
 ### Is photography allowed?
-Yes, photography is generally permitted. Visitors are encouraged to capture the tower’s architectural details.
+Yes, photography is generally permitted. Visitors are encouraged to capture the tower's architectural details.
 
 ### Are there guided tours?
 Information on guided tours may vary. Check the official website for details on available options.

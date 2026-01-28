@@ -28,7 +28,7 @@ image_srcset:
 
 The Synagoge in Bad Orb stands as an important site reflecting the Jewish heritage of the region. Located in the heart of Germany, this synagogue serves as a reminder of the vibrant Jewish community that once thrived in the area. With its historical significance and cultural relevance, it attracts visitors interested in exploring the stories of the past. The architecture and ambiance of the synagogue contribute to its status as a site worth visiting for those interested in heritage, religion, and history.
 
-Bad Orb, known for its spa facilities and rich history, provides a fitting backdrop for this sacred space. The synagogue is situated within a broader context of cultural exchanges that have shaped the area over the centuries. While much of the Jewish community has diminished, the synagogue remains a symbol of resilience and continuity. Visitors can expect to engage with the site’s history, learn about its cultural significance, and reflect on the stories that have unfolded within its walls.
+Bad Orb, known for its spa facilities and rich history, provides a fitting backdrop for this sacred space. The synagogue is situated within a broader context of cultural exchanges that have shaped the area over the centuries. While much of the Jewish community has diminished, the synagogue remains a symbol of resilience and continuity. Visitors can expect to engage with the site's history, learn about its cultural significance, and reflect on the stories that have unfolded within its walls.
 
 ## History and Significance
 
@@ -97,7 +97,7 @@ Most visitors find that one to two hours is sufficient to explore the synagogue 
 Photography policies may vary, so it's best to check with the site directly or observe any posted guidelines while visiting.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours. These can enhance your understanding of the site’s history and features.
+Check the official website for information regarding guided tours. These can enhance your understanding of the site's history and features.
 
 ### What's the best time to visit?
 Visiting during weekdays or early in the morning can help you avoid crowds and provide a more peaceful experience.

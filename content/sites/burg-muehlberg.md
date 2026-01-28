@@ -38,7 +38,7 @@ The history of Burg Mühlberg is intertwined with the broader narrative of the P
 
 Beyond its military significance, Burg Mühlberg also played a crucial role in the local governance and social structure. Castles were not merely fortifications; they were centers of administration where lords exercised their power over the surrounding lands. Inhabitants of the castle, including nobility and their retainers, contributed to the economic and cultural life of the area, fostering a sense of community and stability amidst the often turbulent medieval landscape.
 
-The castle’s strategic location allowed it to oversee important trade routes, facilitating commerce and communication between various regions. This aspect not only contributed to the castle's economic significance but also to its growth as a cultural hub. As a gathering place for local nobility, Burg Mühlberg would have hosted events, feasts, and meetings that were vital for forging alliances and maintaining the social order of the time.
+The castle's strategic location allowed it to oversee important trade routes, facilitating commerce and communication between various regions. This aspect not only contributed to the castle's economic significance but also to its growth as a cultural hub. As a gathering place for local nobility, Burg Mühlberg would have hosted events, feasts, and meetings that were vital for forging alliances and maintaining the social order of the time.
 
 Today, the castle stands as a reminder of this rich historical narrative, inviting visitors to contemplate the lives of those who walked its halls. Its preservation allows for continued exploration and appreciation of the medieval heritage, making it a significant site for both historical study and public enjoyment.
 

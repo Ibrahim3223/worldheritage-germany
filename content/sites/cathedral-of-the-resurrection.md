@@ -26,17 +26,17 @@ image_srcset:
 
 ## Overview
 
-The Cathedral of the Resurrection, located in the Charlottenburg-Wilmersdorf district of Berlin, is a striking example of contemporary ecclesiastical architecture that reflects both spiritual significance and modern design principles. This cathedral serves as a focal point for the local community and visitors alike, embodying a blend of faith and artistry that is characteristic of Berlin’s diverse cultural landscape. Its location in a vibrant metropolitan area adds to its significance, offering an opportunity for visitors to explore both the spiritual and secular aspects of city life.
+The Cathedral of the Resurrection, located in the Charlottenburg-Wilmersdorf district of Berlin, is a striking example of contemporary ecclesiastical architecture that reflects both spiritual significance and modern design principles. This cathedral serves as a focal point for the local community and visitors alike, embodying a blend of faith and artistry that is characteristic of Berlin's diverse cultural landscape. Its location in a vibrant metropolitan area adds to its significance, offering an opportunity for visitors to explore both the spiritual and secular aspects of city life.
 
 The Cathedral of the Resurrection is not only a place of worship but also an architectural landmark that represents the evolution of sacred spaces in modern Germany. Its presence in Berlin highlights the city's ongoing narrative of resilience and renewal. As visitors approach, they are often struck by the cathedral's distinctive design elements, which invite contemplation and reflection. This guide will delve into the history, architecture, and practical information about this noteworthy site, providing an enriching experience for those who choose to visit.
 
 ## History and Significance
 
-The Cathedral of the Resurrection holds a prominent place in Berlin’s ecclesiastical landscape. Although specific historical details about its inception are not readily available, the cathedral's role within the community is evident. It serves as a gathering space for worshippers and a venue for various cultural and religious events, contributing to the spiritual life of the city.
+The Cathedral of the Resurrection holds a prominent place in Berlin's ecclesiastical landscape. Although specific historical details about its inception are not readily available, the cathedral's role within the community is evident. It serves as a gathering space for worshippers and a venue for various cultural and religious events, contributing to the spiritual life of the city.
 
 Berlin's history is marked by periods of profound transformation, and the Cathedral of the Resurrection reflects these changes. In a city that has witnessed the effects of war, division, and reunification, this cathedral stands as a symbol of hope and continuity. Its existence is a reminder of the importance of faith and community in navigating the complexities of urban life. 
 
-The cathedral’s significance extends beyond its religious functions. It acts as a cultural touchstone, drawing people from different backgrounds to engage with its space, whether through individual reflection or communal worship. Its architectural and artistic features also invite discussions on modern design in sacred spaces, making it a relevant point of interest for both religious and non-religious visitors.
+The cathedral's significance extends beyond its religious functions. It acts as a cultural touchstone, drawing people from different backgrounds to engage with its space, whether through individual reflection or communal worship. Its architectural and artistic features also invite discussions on modern design in sacred spaces, making it a relevant point of interest for both religious and non-religious visitors.
 
 ## Architecture and Features
 
@@ -86,7 +86,7 @@ Seasonal considerations are also important; Berlin experiences a range of weathe
 A typical visit to the Cathedral of the Resurrection might take about an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s recommended to check the guidelines upon arrival.
+Photography policies may vary, so it's recommended to check the guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are offered and how to book them.
@@ -95,7 +95,7 @@ Check the official website for information on whether guided tours are offered a
 For a quieter experience, consider visiting during weekdays or off-peak hours.
 
 ### Is it wheelchair accessible?
-Accessibility details may not be specified, so it’s best to check in advance regarding facilities for visitors with mobility challenges.
+Accessibility details may not be specified, so it's best to check in advance regarding facilities for visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options.

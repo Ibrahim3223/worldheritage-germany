@@ -73,7 +73,7 @@ To avoid crowds, try to plan your visit during the midweek or early hours. This 
 
 ## Practical Information
 
-Visitors to Kluskapelle should bring along essentials such as water, comfortable walking shoes, and a sense of respect for the site’s religious significance. Seasonal considerations may also play a role in your visit; for example, if you aim to explore the area around the chapel, be prepared for varying weather conditions.
+Visitors to Kluskapelle should bring along essentials such as water, comfortable walking shoes, and a sense of respect for the site's religious significance. Seasonal considerations may also play a role in your visit; for example, if you aim to explore the area around the chapel, be prepared for varying weather conditions.
 
 Additionally, as a religious site, it may be advisable to dress modestly to honor the chapel's purpose and the local customs associated with it. 
 

@@ -32,7 +32,7 @@ Nestled within the castle grounds, the Pomeranzen garden serves not only as a vi
 
 ## History and Significance
 
-The Pomeranzen garden is intrinsically linked to the history of Leonberg Castle, which has served various roles throughout the centuries. While specific historical events and dates may not be extensively documented, the garden’s existence is a reflection of the castle's evolution and the importance of green spaces in the lives of those who inhabited the area. Gardens like this were often integral to the lifestyle of nobility, who used them for leisure, social gatherings, and a connection to the natural world.
+The Pomeranzen garden is intrinsically linked to the history of Leonberg Castle, which has served various roles throughout the centuries. While specific historical events and dates may not be extensively documented, the garden's existence is a reflection of the castle's evolution and the importance of green spaces in the lives of those who inhabited the area. Gardens like this were often integral to the lifestyle of nobility, who used them for leisure, social gatherings, and a connection to the natural world.
 
 In the context of German heritage, gardens have always played a significant role in both aesthetic and functional capacities. The Pomeranzen garden contributes to this tradition by providing a space that showcases horticultural practices and the cultivation of plants that have historical significance. The name itself, which translates to "bitter orange," suggests that the garden may have originally included citrus trees, a common feature in historical gardens intended for both beauty and practical purposes.
 
@@ -50,9 +50,9 @@ The garden is designed to offer a peaceful retreat, with areas for visitors to s
 
 Visiting the Pomeranzen garden is an enriching experience, providing insights into the local heritage and a chance to immerse oneself in nature. For those planning a visit, transportation options to Leonberg are readily available, with access via public transport and road networks. Once in Leonberg, the garden is conveniently located within the castle grounds, making it easy to find.
 
-Check the official website for current information on opening hours and any potential entrance fees. While the specific duration of a visit may vary based on personal preferences, most guests tend to spend anywhere from one to two hours exploring the garden’s beauty. This time allows for a leisurely stroll, taking in the sights and sounds of the flora and fauna.
+Check the official website for current information on opening hours and any potential entrance fees. While the specific duration of a visit may vary based on personal preferences, most guests tend to spend anywhere from one to two hours exploring the garden's beauty. This time allows for a leisurely stroll, taking in the sights and sounds of the flora and fauna.
 
-The best times to visit the Pomeranzen garden are during the spring and early summer when the plants are in full bloom. The vibrant colors and scents create a captivating experience for visitors. Additionally, early mornings or late afternoons tend to be less crowded, providing a more serene atmosphere to enjoy the garden’s offerings.
+The best times to visit the Pomeranzen garden are during the spring and early summer when the plants are in full bloom. The vibrant colors and scents create a captivating experience for visitors. Additionally, early mornings or late afternoons tend to be less crowded, providing a more serene atmosphere to enjoy the garden's offerings.
 
 ## Nearby Attractions
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Pomeranzen garden, here are some insider t
 
 ## Practical Information
 
-When planning your visit to the Pomeranzen garden, it’s advisable to bring along a few essentials:
+When planning your visit to the Pomeranzen garden, it's advisable to bring along a few essentials:
 
 - **Comfortable footwear**: The garden features pathways that may require walking, so comfortable shoes are recommended.
 

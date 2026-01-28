@@ -62,7 +62,7 @@ The Städtische Gemäldegalerie is conveniently located near several other cultu
 
 4. **Bergpark Wilhelmshöhe** – A sprawling park that offers a combination of natural beauty and artistic installations, perfect for a relaxing afternoon.
 
-5. **Kassel’s City Center** – Explore local shops, cafes, and restaurants that reflect the vibrant atmosphere of the city.
+5. **Kassel's City Center** – Explore local shops, cafes, and restaurants that reflect the vibrant atmosphere of the city.
 
 ## Insider Tips
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Städtische Gemäldegalerie, consider the 
 
 ## Practical Information
 
-When preparing for your visit to the Städtische Gemäldegalerie, it’s essential to consider a few practical aspects:
+When preparing for your visit to the Städtische Gemäldegalerie, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Ensure you have comfortable walking shoes, as you may be standing or walking for extended periods. A small notebook or sketchpad can also be useful if you wish to jot down thoughts or inspirations.
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Städtische Gemäldegalerie, it’s essenti
 Most visitors find that spending around two to three hours at the Städtische Gemäldegalerie allows for a thorough exploration of the collections.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum’s guidelines upon arrival.
+Photography policies can vary, so it's best to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the collections and the history of the artworks.

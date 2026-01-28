@@ -42,7 +42,7 @@ The museum's commitment to education is evident in its diverse range of exhibits
 
 ## Architecture and Features
 
-The architecture of Ordensburg Vogelsang is notable for its stark, utilitarian design, characteristic of the era in which it was built. The imposing structure reflects the ideals of the Nazi regime, with a focus on symmetry and grandeur intended to convey power and authority. While specific architectural details have not been outlined, the site’s overall design is emblematic of the ideological underpinnings of its original purpose.
+The architecture of Ordensburg Vogelsang is notable for its stark, utilitarian design, characteristic of the era in which it was built. The imposing structure reflects the ideals of the Nazi regime, with a focus on symmetry and grandeur intended to convey power and authority. While specific architectural details have not been outlined, the site's overall design is emblematic of the ideological underpinnings of its original purpose.
 
 Visitors to the museum will encounter various features that serve to enhance their understanding of the site's history. The layout of the museum is designed to guide guests through different thematic exhibitions, each aimed at providing insights into the educational practices of the time and the broader socio-political climate of Nazi Germany. 
 

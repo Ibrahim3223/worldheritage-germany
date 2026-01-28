@@ -60,7 +60,7 @@ While the Steindeckerbrücke is a destination in itself, visitors may also enjoy
 
 1. **Local Parks and Green Spaces**: Discover tranquil areas for relaxation and picnicking, perfect for unwinding after a visit to the bridge.
 
-2. **Historic Town Center**: Explore the charming streets of Schirgiswalde-Kirschau, where you can find local shops, cafes, and historical buildings that reflect the town’s heritage.
+2. **Historic Town Center**: Explore the charming streets of Schirgiswalde-Kirschau, where you can find local shops, cafes, and historical buildings that reflect the town's heritage.
 
 3. **Cultural Museums**: Look for local museums that may showcase the history and culture of the region, offering deeper insights into the community's past.
 
@@ -80,7 +80,7 @@ If you plan to take photographs, be respectful of other visitors and the space, 
 
 When visiting the Steindeckerbrücke, it's advisable to wear comfortable clothing and footwear suitable for walking. Depending on the season, consider dressing in layers, as temperatures can vary significantly throughout the day.
 
-Bringing along water and snacks can enhance your visit, especially if you plan to explore the area further. While specific information about amenities is not provided, it’s wise to carry essentials, such as sunscreen in summer or an umbrella in case of rain.
+Bringing along water and snacks can enhance your visit, especially if you plan to explore the area further. While specific information about amenities is not provided, it's wise to carry essentials, such as sunscreen in summer or an umbrella in case of rain.
 
 As outdoor conditions can change, checking the weather forecast before your visit is recommended. This will help you prepare for any seasonal considerations that may affect your experience at the bridge.
 

@@ -56,7 +56,7 @@ Transportation options may include local public transit or personal vehicles, wi
 
 While visiting Alter Friedhof, there are several attractions in the vicinity worth exploring:
 
-1. **Nörvenich Castle**: This historical site is not far from the cemetery and offers insights into the region’s noble past, featuring architectural elements that reflect various historical periods.
+1. **Nörvenich Castle**: This historical site is not far from the cemetery and offers insights into the region's noble past, featuring architectural elements that reflect various historical periods.
 
 2. **St. Martin's Church**: A significant landmark in Nörvenich, this church may provide a glimpse into the local religious heritage and architectural styles.
 
@@ -89,11 +89,11 @@ Photography is generally permissible, but be mindful of the respectful nature of
 ### Are there guided tours?
 Information about guided tours is not specified; check the official website for details.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 Daytime hours, particularly in spring or early autumn, are recommended for pleasant weather.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided; it’s recommended to check the official website for specific details.
+Accessibility information is not provided; it's recommended to check the official website for specific details.
 
 ### Can I buy tickets online?
 Details on ticket purchasing are not specified; visit the official website for the most current information.

@@ -48,7 +48,7 @@ Visitors can expect to find well-maintained paths and observation points that en
 
 ## Visiting Information
 
-Visiting Biotop am Speicherbecken Geeste is a rewarding experience for nature lovers and families alike. To reach the reserve, various transport options are available, including private vehicles and public transportation. The location’s accessibility makes it a convenient destination for both locals and travelers.
+Visiting Biotop am Speicherbecken Geeste is a rewarding experience for nature lovers and families alike. To reach the reserve, various transport options are available, including private vehicles and public transportation. The location's accessibility makes it a convenient destination for both locals and travelers.
 
 Check the official website for current information regarding opening hours and potential fees associated with entry. Upon arrival, visitors can expect well-marked trails that guide them through the diverse habitats of the reserve, allowing for leisurely walks and exploration of the natural surroundings.
 

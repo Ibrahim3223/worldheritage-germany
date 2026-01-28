@@ -28,7 +28,7 @@ image_srcset:
 
 Gondwana – Das Praehistorium is a captivating museum located in Schiffweiler, Germany, dedicated to exploring the ancient world of the Gondwana supercontinent. This museum offers visitors a unique opportunity to delve into the prehistoric era, showcasing a myriad of exhibits that highlight the rich history of our planet. From fossil displays to interactive installations, Gondwana serves as an educational hub that engages guests of all ages. 
 
-Situated at coordinates 49.3500556, 7.117913, the museum occupies a significant place in the region's cultural landscape. Its mission is not only to educate the public about prehistoric life but also to foster a deeper appreciation for Earth's geological and biological heritage. Visitors can expect a blend of scientific inquiry and imaginative storytelling that underscores the importance of understanding our planet’s past.
+Situated at coordinates 49.3500556, 7.117913, the museum occupies a significant place in the region's cultural landscape. Its mission is not only to educate the public about prehistoric life but also to foster a deeper appreciation for Earth's geological and biological heritage. Visitors can expect a blend of scientific inquiry and imaginative storytelling that underscores the importance of understanding our planet's past.
 
 Gondwana – Das Praehistorium promises an enriching experience for families, students, and history enthusiasts alike, making it an essential stop for anyone exploring the cultural offerings of northern Germany.
 
@@ -36,7 +36,7 @@ Gondwana – Das Praehistorium promises an enriching experience for families, st
 
 The concept behind Gondwana – Das Praehistorium stems from a growing interest in the prehistoric era and the scientific discoveries related to the Gondwana supercontinent. Gondwana was a massive landmass that existed millions of years ago, comprising present-day continents such as Africa, South America, Antarctica, Australia, and parts of Asia. The museum's focus on this ancient supercontinent reflects its cultural significance in understanding the evolution of life and the geological changes that have shaped our world.
 
-While specific historical milestones of the museum’s establishment are not detailed, the institution serves as a vital educational resource, promoting awareness about paleontology, geology, and the natural sciences. The museum’s exhibits are designed to engage visitors by presenting complex scientific ideas in an accessible format, encouraging curiosity and further exploration into the field of earth sciences.
+While specific historical milestones of the museum's establishment are not detailed, the institution serves as a vital educational resource, promoting awareness about paleontology, geology, and the natural sciences. The museum's exhibits are designed to engage visitors by presenting complex scientific ideas in an accessible format, encouraging curiosity and further exploration into the field of earth sciences.
 
 In addition to its educational role, Gondwana – Das Praehistorium contributes to the regional identity by fostering a sense of pride in the natural history of the area. By highlighting the prehistoric roots that connect us all, the museum plays an important part in the broader narrative of humanity's relationship with the earth.
 

@@ -62,13 +62,13 @@ Delligser Steinbruch is conveniently located near several other attractions that
 
 1. **Alfeld (Leine)**: This charming town offers a glimpse into local culture, with historical buildings and a variety of shops and eateries.
    
-2. **Museum im Alten Rathaus**: Located in Alfeld, this museum showcases the town’s history and cultural heritage through various exhibitions.
+2. **Museum im Alten Rathaus**: Located in Alfeld, this museum showcases the town's history and cultural heritage through various exhibitions.
 
 3. **Hildesheim**: A historic city known for its UNESCO World Heritage Sites, including the St. Mary's Cathedral and the Church of St. Michael, both rich in history and architecture.
 
 4. **Kreuzkirche**: A beautiful church located in the vicinity, offering stunning architecture and a peaceful atmosphere for contemplation.
 
-5. **Sophie’s Garden**: A nearby botanical garden that features a diverse collection of plants, perfect for those interested in horticulture and botany.
+5. **Sophie's Garden**: A nearby botanical garden that features a diverse collection of plants, perfect for those interested in horticulture and botany.
 
 ## Insider Tips
 

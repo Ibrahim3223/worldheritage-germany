@@ -40,9 +40,9 @@ Following the war, Sachsenhausen was liberated by Soviet troops in 1945 and subs
 
 ## Architecture and Features
 
-The physical layout of Sachsenhausen concentration camp is stark and functional, designed to facilitate the systematic control and dehumanization of its inhabitants. Upon entering the memorial, visitors are greeted by the iconic gate emblazoned with the words "Arbeit Macht Frei," a phrase that mockingly translates to "Work Sets You Free." This entrance serves as a powerful symbol of the false promises made to the camp’s prisoners.
+The physical layout of Sachsenhausen concentration camp is stark and functional, designed to facilitate the systematic control and dehumanization of its inhabitants. Upon entering the memorial, visitors are greeted by the iconic gate emblazoned with the words "Arbeit Macht Frei," a phrase that mockingly translates to "Work Sets You Free." This entrance serves as a powerful symbol of the false promises made to the camp's prisoners.
 
-The barracks, where thousands of detainees lived under appalling conditions, remain a haunting reminder of the camp’s history. These structures were constructed to house prisoners in cramped quarters, with minimal resources provided for basic needs. The memorial also features an extensive exhibition area that contains photographs, documents, and artifacts related to the camp's operation and the experiences of its inmates.
+The barracks, where thousands of detainees lived under appalling conditions, remain a haunting reminder of the camp's history. These structures were constructed to house prisoners in cramped quarters, with minimal resources provided for basic needs. The memorial also features an extensive exhibition area that contains photographs, documents, and artifacts related to the camp's operation and the experiences of its inmates.
 
 One notable aspect of the memorial is the preserved section of the camp, which includes the roll call square, watchtowers, and the crematorium. These elements together create a somber atmosphere that encourages reflection and understanding of the atrocities committed within these walls. The site is designed not only to educate but also to evoke a sense of empathy and remembrance for the victims.
 

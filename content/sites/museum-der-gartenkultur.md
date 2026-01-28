@@ -48,7 +48,7 @@ Visitors planning a trip to the Museum der Gartenkultur will find that the museu
 
 Check the official website for current information regarding hours of operation and ticket prices. Upon arrival, guests can expect to spend approximately two to three hours exploring the various exhibits and engaging with the resources available. This timeframe allows for a thorough appreciation of the museum's offerings, including the library and any ongoing events.
 
-For a more enjoyable experience, consider visiting during weekdays or early in the morning to avoid larger crowds. The museum’s serene environment can be particularly inviting during quieter times, allowing for a more personal connection with the exhibits.
+For a more enjoyable experience, consider visiting during weekdays or early in the morning to avoid larger crowds. The museum's serene environment can be particularly inviting during quieter times, allowing for a more personal connection with the exhibits.
 
 ## Nearby Attractions
 

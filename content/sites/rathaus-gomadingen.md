@@ -36,7 +36,7 @@ While specific dates of establishment and historical events surrounding Rathaus 
 
 The cultural importance of city halls like Rathaus Gomadingen extends beyond their administrative functions. They often serve as venues for local celebrations and gatherings, fostering a sense of community and belonging among residents. Rathaus Gomadingen is no exception; it stands as a center for civic pride and engagement, reflecting the values and aspirations of the local population.
 
-As you explore Gomadingen, the Rathaus serves as a reminder of the town's local governance and community values. It is a place where citizens can participate in shaping their environment and local policies, reinforcing the democratic fabric of German society. The building’s presence in the town square symbolizes the importance of civic engagement and the role of local government in everyday life.
+As you explore Gomadingen, the Rathaus serves as a reminder of the town's local governance and community values. It is a place where citizens can participate in shaping their environment and local policies, reinforcing the democratic fabric of German society. The building's presence in the town square symbolizes the importance of civic engagement and the role of local government in everyday life.
 
 ## Architecture and Features
 
@@ -97,7 +97,7 @@ A visit to Rathaus Gomadingen typically lasts about an hour, but you may want to
 Photography is generally allowed, particularly of the building's exterior. Be mindful of any specific rules during events.
 
 ### Are there guided tours?
-Check the official website for information about guided tours or any special events that may provide deeper insights into the building’s significance.
+Check the official website for information about guided tours or any special events that may provide deeper insights into the building's significance.
 
 ### What's the best time to visit?
 Weekdays during mid-morning or early afternoon are often less crowded, allowing for a more relaxed experience.

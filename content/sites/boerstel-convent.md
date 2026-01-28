@@ -65,7 +65,7 @@ Visitors should be prepared for a serene environment that encourages contemplati
 While Börstel Convent itself is a site of historical and spiritual significance, several nearby attractions can enhance your visit:
 
 1. **Berge Village** - Explore this charming village with its quaint streets and local shops, providing a taste of regional culture.
-2. **St. John’s Church** - A nearby church that showcases additional examples of local ecclesiastical architecture and community life.
+2. **St. John's Church** - A nearby church that showcases additional examples of local ecclesiastical architecture and community life.
 3. **Local Parks** - Take advantage of the green spaces in the area for a leisurely stroll or a peaceful moment in nature.
 
 These nearby attractions provide opportunities to further immerse yourself in the local culture and history surrounding Börstel Convent.
@@ -109,7 +109,7 @@ Check the official website for information on accessibility options at Börstel 
 For information regarding ticket sales and purchases, check the official website for the most current options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to check the official website for the availability of restrooms and nearby dining options.
+Facilities may be limited, so it's advisable to check the official website for the availability of restrooms and nearby dining options.
 
 ### What should I wear?
 Dress modestly, in consideration of the convent's sacred nature. Comfortable clothing and shoes are recommended for a pleasant visit. 

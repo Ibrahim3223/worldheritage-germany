@@ -34,9 +34,9 @@ As you stroll through Lower Market Square, you will experience an atmosphere fil
 
 ## History and Significance
 
-Lower Market Square has played a crucial role in the life of Görlitz for centuries. As a central meeting point, it has been the site of numerous markets, celebrations, and public gatherings, making it a vital part of the city’s social and economic activities. The square has witnessed the evolution of the city from its medieval roots to its present status as a vibrant urban center.
+Lower Market Square has played a crucial role in the life of Görlitz for centuries. As a central meeting point, it has been the site of numerous markets, celebrations, and public gatherings, making it a vital part of the city's social and economic activities. The square has witnessed the evolution of the city from its medieval roots to its present status as a vibrant urban center.
 
-The historical significance of Lower Market Square is underscored by its association with various architectural styles that reflect the different eras of its development. From Gothic to Renaissance influences, the square showcases the city’s adaptability and resilience through changing times. While specific dates of construction and events may not be highlighted, the enduring presence of the square speaks volumes about its importance in the cultural landscape of Görlitz.
+The historical significance of Lower Market Square is underscored by its association with various architectural styles that reflect the different eras of its development. From Gothic to Renaissance influences, the square showcases the city's adaptability and resilience through changing times. While specific dates of construction and events may not be highlighted, the enduring presence of the square speaks volumes about its importance in the cultural landscape of Görlitz.
 
 In addition to its economic functions, Lower Market Square has also served as a backdrop for cultural events that highlight the local traditions and communal spirit. Festivals, performances, and seasonal markets often take place in the square, fostering a sense of community and engagement among residents and visitors alike. Through these events, the square continues to serve as a stage for the ongoing narrative of Görlitz.
 
@@ -64,13 +64,13 @@ While Lower Market Square is a highlight in itself, several nearby attractions c
 
 1. **St. Peter and Paul Church**: A stunning example of Gothic architecture, this church is a short walk from the square and offers impressive interior details and stunning views of the city.
 
-2. **Görlitz City Hall**: Located nearby, this historic building features a striking facade and is an essential part of the city’s architectural heritage.
+2. **Görlitz City Hall**: Located nearby, this historic building features a striking facade and is an essential part of the city's architectural heritage.
 
 3. **The Görlitz Museum**: A cultural hub that showcases the history and art of the region, providing deeper insights into the local heritage.
 
 4. **Neisse River Promenade**: A picturesque area along the river where you can enjoy a leisurely walk, taking in the scenic views and peaceful atmosphere.
 
-5. **The Old Town**: Explore the narrow streets and well-preserved buildings that make up Görlitz’s Old Town, rich in history and charm.
+5. **The Old Town**: Explore the narrow streets and well-preserved buildings that make up Görlitz's Old Town, rich in history and charm.
 
 ## Insider Tips
 
@@ -80,7 +80,7 @@ If you're looking to avoid crowds, try visiting on weekdays rather than weekends
 
 ## Practical Information
 
-When visiting Lower Market Square, it’s advisable to bring comfortable walking shoes, as the cobblestone streets may be uneven. A light jacket may also be useful for cooler days, especially in the evening.
+When visiting Lower Market Square, it's advisable to bring comfortable walking shoes, as the cobblestone streets may be uneven. A light jacket may also be useful for cooler days, especially in the evening.
 
 Seasonal considerations are important, as the square hosts various events throughout the year. Summer months typically feature more outdoor activities, while winter may bring festive markets and decorations. Always check the weather forecast before your visit to ensure you are prepared.
 

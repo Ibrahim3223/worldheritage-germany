@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning, part
 
 ## Practical Information
 
-When visiting Am Rank (Röhmsee), it’s wise to wear sturdy footwear suitable for walking on natural trails. Depending on the season, layers of clothing can help accommodate changing weather conditions. 
+When visiting Am Rank (Röhmsee), it's wise to wear sturdy footwear suitable for walking on natural trails. Depending on the season, layers of clothing can help accommodate changing weather conditions. 
 
 Bringing along a picnic is encouraged, as dining facilities may not be readily available within the reserve. Be sure to pack plenty of water, especially during warmer months, and consider bringing binoculars for birdwatching.
 

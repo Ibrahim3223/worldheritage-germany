@@ -28,7 +28,7 @@ image_srcset:
 
 The Karl May Museum in Radebeul, Germany, offers a fascinating glimpse into the life and works of one of Germany's most beloved authors, Karl May. Known for his adventurous novels that transported readers to the Wild West and the Orient, May's stories have captivated generations. This museum is not just a tribute to his literary genius but also a reflection of the cultural context in which he wrote. Located in Radebeul, a charming town near Dresden, the museum serves as a cultural landmark that attracts literature enthusiasts and curious travelers alike.
 
-Visitors can expect to delve into May’s world through extensive exhibits featuring original manuscripts, photographs, and personal memorabilia. The museum stands as an essential destination for those interested in German literature and its impact on popular culture. With its engaging displays and thoughtful presentations, the Karl May Museum promises an enriching experience, shedding light on the life of a man whose imagination shaped the adventures of many.
+Visitors can expect to delve into May's world through extensive exhibits featuring original manuscripts, photographs, and personal memorabilia. The museum stands as an essential destination for those interested in German literature and its impact on popular culture. With its engaging displays and thoughtful presentations, the Karl May Museum promises an enriching experience, shedding light on the life of a man whose imagination shaped the adventures of many.
 
 ## History and Significance
 
@@ -97,7 +97,7 @@ A visit typically takes around two hours, but literature enthusiasts may wish to
 Check the museum's policy on photography, as restrictions may apply in certain areas.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into Karl May’s life and works.
+Guided tours may be available, providing deeper insights into Karl May's life and works.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often the best times to avoid crowds.

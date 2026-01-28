@@ -66,7 +66,7 @@ Expect a welcoming atmosphere, with staff available to assist and provide insigh
 
 When visiting the Anhaltische Gemäldegalerie, consider exploring the surrounding area, which is rich in cultural and historical sites. Here are a few nearby attractions to enhance your experience:
 
-1. **Georgium Palace**: Located adjacent to the gallery, this historic palace is surrounded by beautiful gardens and offers a glimpse into the aristocratic lifestyle of the region’s past.
+1. **Georgium Palace**: Located adjacent to the gallery, this historic palace is surrounded by beautiful gardens and offers a glimpse into the aristocratic lifestyle of the region's past.
 
 2. **Dessau-Wörlitz Garden Realm**: A UNESCO World Heritage site, this vast park features exquisite landscaped gardens and structures, showcasing the Enlightenment ideals of beauty and nature.
 

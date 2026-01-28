@@ -60,7 +60,7 @@ As you plan your visit, be sure to check the official website for current inform
 
 The best times to visit Burg Lohmar are during the spring and early autumn when the weather tends to be mild, making outdoor exploration more enjoyable. These seasons also provide a beautiful backdrop of blooming flowers or changing foliage, enhancing the overall experience.
 
-During your visit, expect a blend of historical exploration and serene contemplation. The atmosphere around the castle is often tranquil, providing an ideal setting for reflection and appreciation of the site’s heritage.
+During your visit, expect a blend of historical exploration and serene contemplation. The atmosphere around the castle is often tranquil, providing an ideal setting for reflection and appreciation of the site's heritage.
 
 ## Nearby Attractions 
 

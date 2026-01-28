@@ -70,17 +70,17 @@ St. Emmeram's Abbey is situated in close proximity to several other notable attr
 
 For those planning to visit St. Emmeram's Abbey, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography is often allowed in many areas, it’s best to be respectful of the sacred space. Always check for signs indicating photography restrictions, especially in the church.
+- **Photography**: While photography is often allowed in many areas, it's best to be respectful of the sacred space. Always check for signs indicating photography restrictions, especially in the church.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during off-peak hours, such as early in the morning or later in the afternoon, particularly on weekdays.
 
 - **Dress Code**: As St. Emmeram's Abbey is a place of worship, modest attire is recommended. This shows respect for the spiritual significance of the site.
 
-- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the abbey’s history and architecture, which can enhance your understanding and appreciation of the site.
+- **Guided Tours**: If available, consider joining a guided tour to gain deeper insights into the abbey's history and architecture, which can enhance your understanding and appreciation of the site.
 
 ## Practical Information
 
-Before visiting St. Emmeram's Abbey, it’s helpful to keep the following practical information in mind:
+Before visiting St. Emmeram's Abbey, it's helpful to keep the following practical information in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may be exploring both inside and outside the abbey. A light jacket might be useful, especially during cooler months.
 
@@ -96,7 +96,7 @@ Before visiting St. Emmeram's Abbey, it’s helpful to keep the following practi
 A visit to St. Emmeram's Abbey typically takes a few hours, allowing time to explore the church, monastery, and gardens at a leisurely pace.
 
 ### Is photography allowed?
-Photography is generally permitted in many areas, but it’s advisable to check for specific restrictions in sensitive areas such as the church.
+Photography is generally permitted in many areas, but it's advisable to check for specific restrictions in sensitive areas such as the church.
 
 ### Are there guided tours?
 Guided tours may be available, providing a deeper understanding of the abbey's history and architecture. Check the official website for details.
@@ -111,7 +111,7 @@ For information regarding wheelchair accessibility, check the official website f
 Check the official website for information on ticket purchases, including options for online booking if available.
 
 ### Are there restrooms and cafes?
-While restrooms may be available on-site, dining options could be limited. It’s a good idea to bring snacks and water for your visit.
+While restrooms may be available on-site, dining options could be limited. It's a good idea to bring snacks and water for your visit.
 
 ### What should I wear?
 Modest and comfortable attire is recommended, as St. Emmeram's Abbey is a place of worship and reflection. 

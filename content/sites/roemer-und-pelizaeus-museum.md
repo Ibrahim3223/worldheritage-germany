@@ -58,11 +58,11 @@ The museum's facilities provide a comfortable environment for visitors, with ame
 
 While the Roemer- und Pelizaeus-Museum is a destination in itself, there are several nearby attractions that can complement your visit:
 
-1. **St. Mary’s Cathedral (Hildesheimer Dom)**: A UNESCO World Heritage site, this cathedral is renowned for its stunning Romanesque architecture and historical significance.
+1. **St. Mary's Cathedral (Hildesheimer Dom)**: A UNESCO World Heritage site, this cathedral is renowned for its stunning Romanesque architecture and historical significance.
    
 2. **Market Square (Marktplatz)**: The vibrant heart of Hildesheim, this area features charming shops and cafes, perfect for a post-museum stroll.
 
-3. **Historic Town Hall (Altes Rathaus)**: An architectural gem that showcases the rich history of Hildesheim, offering insights into the city’s past.
+3. **Historic Town Hall (Altes Rathaus)**: An architectural gem that showcases the rich history of Hildesheim, offering insights into the city's past.
 
 4. **The Rose Garden (Rosarium)**: A beautifully landscaped area ideal for relaxation and reflection after a day of exploring.
 

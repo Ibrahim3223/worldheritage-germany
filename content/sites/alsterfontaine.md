@@ -34,7 +34,7 @@ As you explore the city, the Alsterfontaine stands out as a landmark, offering m
 
 The origins of fountains in urban settings can often be traced back to ancient times, where they served practical purposes, such as providing drinking water. Over the centuries, however, their role has evolved, and they are now often seen as artistic expressions and communal gathering spots. The Alsterfontaine exemplifies this shift, showcasing the importance of such structures in modern urban design.
 
-Fountains like the Alsterfontaine have historically been used not only for their functional benefits but also as a means of bringing communities together. In Hamburg, public fountains play a significant role in enhancing the city’s aesthetic appeal and providing spaces for social interaction. As a central feature in Hamburg-Mitte, the Alsterfontaine enriches the experience of those who pass by, offering a sense of place and identity within the city.
+Fountains like the Alsterfontaine have historically been used not only for their functional benefits but also as a means of bringing communities together. In Hamburg, public fountains play a significant role in enhancing the city's aesthetic appeal and providing spaces for social interaction. As a central feature in Hamburg-Mitte, the Alsterfontaine enriches the experience of those who pass by, offering a sense of place and identity within the city.
 
 While specific historical details about the Alsterfontaine may not be readily available, it is clear that its presence contributes to the ongoing story of Hamburg as a city that values artistry and community engagement. The fountain serves as a reminder of the cultural importance of public spaces that encourage reflection, relaxation, and social interaction.
 
@@ -58,7 +58,7 @@ The area around the Alsterfontaine often features lively activity, making it an 
 
 When visiting the Alsterfontaine, consider exploring these nearby attractions that contribute to the cultural richness of Hamburg:
 
-- **Hamburg City Hall (Rathaus)**: An architectural marvel, this building houses the city’s government and is known for its stunning façade and historical significance.
+- **Hamburg City Hall (Rathaus)**: An architectural marvel, this building houses the city's government and is known for its stunning façade and historical significance.
   
 - **Planten un Blomen**: A nearby park renowned for its beautiful gardens, fountains, and serene walking paths, offering a peaceful retreat from the urban hustle.
 
@@ -66,7 +66,7 @@ When visiting the Alsterfontaine, consider exploring these nearby attractions th
 
 - **Deichtorhallen**: An impressive contemporary art center that hosts various exhibitions and events, showcasing both local and international artists.
 
-- **St. Michael’s Church (Michel)**: A striking baroque church known for its impressive tower and panoramic views of the city from its observation platform.
+- **St. Michael's Church (Michel)**: A striking baroque church known for its impressive tower and panoramic views of the city from its observation platform.
 
 ## Insider Tips
 

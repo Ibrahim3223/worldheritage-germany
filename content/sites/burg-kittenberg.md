@@ -32,13 +32,13 @@ The history of Burg Kittenberg is intertwined with the broader narrative of Germ
 
 Throughout the centuries, castles like Burg Kittenberg played crucial roles in regional power dynamics. They were often the center of administration and governance, influencing local economies and social structures. The castle's architecture reflects the evolving military strategies and residential needs of its time, showcasing the ingenuity of medieval builders.
 
-Culturally, Burg Kittenberg is significant not only for its architectural features but also for its role in the community. Castles often served as gathering places for local populations and were integral to the social fabric of the regions they inhabited. While the specifics of Burg Kittenberg’s community interactions may not be well-documented, the presence of such a structure undoubtedly contributed to the cultural landscape of Gleisweiler.
+Culturally, Burg Kittenberg is significant not only for its architectural features but also for its role in the community. Castles often served as gathering places for local populations and were integral to the social fabric of the regions they inhabited. While the specifics of Burg Kittenberg's community interactions may not be well-documented, the presence of such a structure undoubtedly contributed to the cultural landscape of Gleisweiler.
 
 As visitors explore the castle, they engage with a piece of history that has shaped the local identity. The castle serves as a reminder of the complexities of feudal Europe, where power was often consolidated within stone walls. In this way, Burg Kittenberg stands as a silent witness to the passage of time and the stories that shaped the region.
 
 ## Architecture and Features
 
-Burg Kittenberg is characterized by its robust stone construction, a hallmark of medieval castle architecture. The castle’s design reflects practical needs for defense while also accommodating the lifestyle of its inhabitants. Its strategic layout likely includes high walls, narrow windows, and a secure entrance, features commonly found in fortified structures of this period.
+Burg Kittenberg is characterized by its robust stone construction, a hallmark of medieval castle architecture. The castle's design reflects practical needs for defense while also accommodating the lifestyle of its inhabitants. Its strategic layout likely includes high walls, narrow windows, and a secure entrance, features commonly found in fortified structures of this period.
 
 Although specific architectural details are not provided, one can expect to see elements typical of castles from the medieval era. These may include battlements, towers for lookout purposes, and possibly a courtyard that served as a central gathering area for residents and visitors alike. The materials used in its construction would have been chosen for durability, ensuring that the castle could withstand the test of time and various threats.
 
@@ -84,7 +84,7 @@ To make the most of your visit to Burg Kittenberg, consider these insider tips:
 
 As you prepare for your visit to Burg Kittenberg, here are some practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as exploring the castle and its surroundings may involve uneven terrain. Additionally, consider bringing a camera to capture the site’s beauty.
+- **What to Bring**: Comfortable walking shoes are recommended, as exploring the castle and its surroundings may involve uneven terrain. Additionally, consider bringing a camera to capture the site's beauty.
 
 - **Seasonal Considerations**: Depending on the time of year, dress appropriately for the weather. Layers may be beneficial, as temperatures can vary throughout the day.
 

@@ -64,7 +64,7 @@ Burg Neuenriet is conveniently located near several other notable attractions th
 
 3. **Biosphere Reserve Swabian Jura**: This natural reserve offers a chance to explore rich biodiversity and beautiful landscapes, providing a contrast to the historical experience at Burg Neuenriet.
 
-4. **Museum of the History of the City of Ulm**: For those interested in the local history, this museum offers insights into the region’s past, enhancing the understanding of the cultural context surrounding Burg Neuenriet.
+4. **Museum of the History of the City of Ulm**: For those interested in the local history, this museum offers insights into the region's past, enhancing the understanding of the cultural context surrounding Burg Neuenriet.
 
 5. **The Danube River**: A visit to this significant waterway is ideal for leisurely walks, cycling, or simply enjoying the scenic beauty of the area.
 
@@ -86,7 +86,7 @@ As you prepare for your visit to Burg Neuenriet, keep in mind the following prac
 
 - **Seasonal Considerations**: Weather can vary significantly between seasons in Germany. Check forecasts and plan accordingly to ensure a comfortable visit. Summer months may bring more visitors, while winter might offer a quieter experience with fewer tourists.
 
-- **Accessibility**: Check the official website for information regarding accessibility options at the castle, as this can vary based on the site’s features.
+- **Accessibility**: Check the official website for information regarding accessibility options at the castle, as this can vary based on the site's features.
 
 ## Frequently Asked Questions
 

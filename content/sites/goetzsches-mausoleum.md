@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Goetzsches Mausoleum, located in the historic town of Quedlinburg, Germany, serves as a remarkable example of commemorative architecture. This mausoleum stands as a significant tribute to the deceased, reflecting the cultural values and artistic sensibilities of its time. Quedlinburg itself is recognized for its medieval charm, characterized by timber-framed houses and cobblestone streets, making the mausoleum an integral part of the town’s heritage landscape. Visitors to Goetzsches Mausoleum can expect to encounter a site steeped in historical resonance and artistic merit, providing an opportunity to reflect on the past while appreciating the beauty of the structure.
+The Goetzsches Mausoleum, located in the historic town of Quedlinburg, Germany, serves as a remarkable example of commemorative architecture. This mausoleum stands as a significant tribute to the deceased, reflecting the cultural values and artistic sensibilities of its time. Quedlinburg itself is recognized for its medieval charm, characterized by timber-framed houses and cobblestone streets, making the mausoleum an integral part of the town's heritage landscape. Visitors to Goetzsches Mausoleum can expect to encounter a site steeped in historical resonance and artistic merit, providing an opportunity to reflect on the past while appreciating the beauty of the structure.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ The Goetzsches Mausoleum is not just a resting place; it is a cultural landmark 
 
 The mausoleum serves as a poignant reminder of the lives it commemorates, embodying the values of family and remembrance that are deeply ingrained in German society. In a country where historical narratives often intertwine with personal stories, the mausoleum stands as a bridge between the past and the present, inviting visitors to engage with the legacies of those who have gone before.
 
-Quedlinburg itself has been recognized as a UNESCO World Heritage site, adding to the significance of the Goetzsches Mausoleum within the context of the town’s rich historical fabric. The mausoleum contributes to the narrative of Quedlinburg as a center of culture and history, making it a noteworthy stop for anyone interested in exploring the deep-rooted heritage of Germany.
+Quedlinburg itself has been recognized as a UNESCO World Heritage site, adding to the significance of the Goetzsches Mausoleum within the context of the town's rich historical fabric. The mausoleum contributes to the narrative of Quedlinburg as a center of culture and history, making it a noteworthy stop for anyone interested in exploring the deep-rooted heritage of Germany.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ The best times to visit are during the spring and summer months when the weather
 
 1. **Quedlinburg Castle**: Perched above the town, this historical castle offers a glimpse into the medieval past of Quedlinburg and provides stunning views of the area.
    
-2. **St. Servatius Church**: This iconic church is known for its impressive architecture and significant role in the town’s history, making it a must-see for visitors.
+2. **St. Servatius Church**: This iconic church is known for its impressive architecture and significant role in the town's history, making it a must-see for visitors.
 
 3. **Old Town of Quedlinburg**: A walk through the old town allows visitors to admire the well-preserved timber-framed buildings and embrace the medieval atmosphere.
 

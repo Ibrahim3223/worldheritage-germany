@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The New Synagogue in Düsseldorf is a striking landmark that encapsulates the resilience and enduring spirit of the Jewish community in Germany. Situated within a vibrant urban landscape, this synagogue serves not only as a place of worship but also as a cultural and historical symbol for both locals and visitors. Its significance extends beyond religious practices, representing a vital chapter in Düsseldorf’s diverse heritage. 
+The New Synagogue in Düsseldorf is a striking landmark that encapsulates the resilience and enduring spirit of the Jewish community in Germany. Situated within a vibrant urban landscape, this synagogue serves not only as a place of worship but also as a cultural and historical symbol for both locals and visitors. Its significance extends beyond religious practices, representing a vital chapter in Düsseldorf's diverse heritage. 
 
 As you navigate the bustling streets of this historic city, the New Synagogue stands as a poignant reminder of the Jewish presence that has shaped the cultural fabric of Germany. The synagogue's location is easily accessible, making it a must-visit for those looking to explore the depth of the city's history and its contemporary Jewish life.
 
@@ -72,7 +72,7 @@ When visiting the New Synagogue, consider exploring these nearby attractions tha
 
 To enhance your visit to the New Synagogue, consider these insider tips:
 
-- **Photography**: Be mindful of the rules regarding photography, as some areas may have restrictions. It’s always best to ask for permission if unsure.
+- **Photography**: Be mindful of the rules regarding photography, as some areas may have restrictions. It's always best to ask for permission if unsure.
   
 - **Crowd Avoidance**: Visiting during weekdays can help you avoid larger crowds, providing a more peaceful environment to reflect and enjoy the architecture.
 
@@ -90,7 +90,7 @@ When planning your visit, keep the following practical considerations in mind:
 Allocate around one to two hours for a fulfilling visit to the New Synagogue, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon arrival.
+Photography policies may vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, which may provide deeper insights into the synagogue's history and significance.
@@ -99,7 +99,7 @@ Check the official website for information about guided tours, which may provide
 Weekdays or early mornings are generally optimal for fewer crowds and a more tranquil atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility options may be available, so it’s advisable to check the official website for specific details.
+Accessibility options may be available, so it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 For entry fees and ticket purchasing options, refer to the synagogue's official website for the most current information.

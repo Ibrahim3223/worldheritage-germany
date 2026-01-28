@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Geomuseum at Münster University presents a unique exploration of geological sciences within an academic setting. Located in the vibrant city of Münster, Germany, this museum serves as a hub for both students and the public, showcasing the diverse aspects of geology, from mineralogy to paleontology. The museum is not just a repository of rocks and fossils; it also plays a critical role in educating visitors about the Earth’s processes and history. As a part of one of Germany's leading universities, it offers insights that bridge the gap between academic research and public knowledge.
+The Geomuseum at Münster University presents a unique exploration of geological sciences within an academic setting. Located in the vibrant city of Münster, Germany, this museum serves as a hub for both students and the public, showcasing the diverse aspects of geology, from mineralogy to paleontology. The museum is not just a repository of rocks and fossils; it also plays a critical role in educating visitors about the Earth's processes and history. As a part of one of Germany's leading universities, it offers insights that bridge the gap between academic research and public knowledge.
 
-Visitors can expect to engage with a variety of exhibits that highlight the intricate relationships between geological formations and the planet’s ecosystems. The Geomuseum stands out as a significant educational resource, drawing geology enthusiasts, students, and curious minds seeking to understand the Earth beneath their feet. Whether you are a local resident or a traveler passing through Münster, the museum promises a thought-provoking experience that emphasizes the importance of geological study in understanding our world.
+Visitors can expect to engage with a variety of exhibits that highlight the intricate relationships between geological formations and the planet's ecosystems. The Geomuseum stands out as a significant educational resource, drawing geology enthusiasts, students, and curious minds seeking to understand the Earth beneath their feet. Whether you are a local resident or a traveler passing through Münster, the museum promises a thought-provoking experience that emphasizes the importance of geological study in understanding our world.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ To enhance your experience at the Geomuseum, consider the following tips:
 
 - **Crowd Avoidance**: For a quieter visit, aim to arrive early in the day or later in the afternoon, especially during weekends or school holidays when families are more likely to visit.
 
-- **Engagement**: Take your time with each exhibit and don’t hesitate to ask staff members questions. Engaging with knowledgeable personnel can deepen your understanding of the displays.
+- **Engagement**: Take your time with each exhibit and don't hesitate to ask staff members questions. Engaging with knowledgeable personnel can deepen your understanding of the displays.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When planning your visit to the Geomuseum, consider bringing the following items
 
 - **Water bottle**: Staying hydrated is essential, especially during longer visits.
 
-- **Notebook**: If you’re a student or a keen learner, jotting down notes or insights can be beneficial.
+- **Notebook**: If you're a student or a keen learner, jotting down notes or insights can be beneficial.
 
 Seasonal considerations may also come into play; check the weather forecast before your visit to dress appropriately. During colder months, ensure you are equipped for potential chilly temperatures, while in warmer weather, lightweight clothing may be preferable.
 

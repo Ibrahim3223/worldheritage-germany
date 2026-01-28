@@ -70,11 +70,11 @@ Electrum is ideally located for those wishing to explore more of Hamburg's cultu
 
 To make the most of your visit to Electrum, consider bringing a camera to capture the unique exhibits, but check the museum's photography policy in advance. Visiting during off-peak hours can enhance your experience, allowing you to appreciate the artworks without the distraction of large crowds. 
 
-Engaging with the museum staff can also enrich your visit; they often share stories and insights about the exhibitions that may not be immediately apparent. If you have specific interests, don’t hesitate to ask for recommendations on which exhibits to focus on.
+Engaging with the museum staff can also enrich your visit; they often share stories and insights about the exhibitions that may not be immediately apparent. If you have specific interests, don't hesitate to ask for recommendations on which exhibits to focus on.
 
 ## Practical Information
 
-Before visiting Electrum, it’s wise to check the official website for any specific requirements regarding what to bring. Comfortable walking shoes are recommended, as you may spend considerable time exploring the museum. Seasonal considerations may also affect your visit, so be prepared for varying weather conditions, especially if you plan to explore the nearby attractions afterward.
+Before visiting Electrum, it's wise to check the official website for any specific requirements regarding what to bring. Comfortable walking shoes are recommended, as you may spend considerable time exploring the museum. Seasonal considerations may also affect your visit, so be prepared for varying weather conditions, especially if you plan to explore the nearby attractions afterward.
 
 ## Frequently Asked Questions
 
@@ -82,7 +82,7 @@ Before visiting Electrum, it’s wise to check the official website for any spec
 A visit to Electrum typically lasts between two to three hours, depending on your level of interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies vary by exhibit, so it’s best to check the rules upon entry or consult museum staff.
+Photography policies vary by exhibit, so it's best to check the rules upon entry or consult museum staff.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be available at certain times.

@@ -98,7 +98,7 @@ Some areas of the palaces and gardens may be accessible, but it is advisable to 
 Ticket purchasing options may vary; check the official website for the most current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities should be available on-site, but it’s best to confirm on the official website prior to your visit.
+Facilities should be available on-site, but it's best to confirm on the official website prior to your visit.
 
 ### What should I wear?
 Comfortable and weather-appropriate clothing is recommended, especially if you plan to spend time outdoors.

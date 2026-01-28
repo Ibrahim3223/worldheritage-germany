@@ -44,13 +44,13 @@ The significance of the Gemäldegalerie is not only in its collection but also i
 
 ## Architecture and Features
 
-The architecture of the Gemäldegalerie is as intriguing as the art it houses. The museum was designed by the renowned architect Hans Scharoun, whose modernist approach is evident in the building’s innovative design. The structure features a sleek and functional exterior, characterized by its use of natural light and open spaces that enhance the visitor experience.
+The architecture of the Gemäldegalerie is as intriguing as the art it houses. The museum was designed by the renowned architect Hans Scharoun, whose modernist approach is evident in the building's innovative design. The structure features a sleek and functional exterior, characterized by its use of natural light and open spaces that enhance the visitor experience.
 
 Inside, the layout of the museum is thoughtfully organized, allowing for a fluid flow from one gallery to another. The exhibition spaces are designed to showcase the artworks in a way that highlights their significance while providing ample room for visitors to appreciate each piece. The interplay of light and shadow within the galleries creates an inviting atmosphere, encouraging prolonged engagement with the art.
 
 Notable features within the museum include carefully curated thematic exhibitions that rotate regularly, ensuring that there is always something new to discover during each visit. The museum also houses a library and study rooms, offering resources for researchers and art students.
 
-The Gemäldegalerie’s commitment to accessibility is evident in its facilities, providing visitors with a comfortable and inclusive environment. Whether you are exploring the intricate details of a Baroque painting or simply enjoying the ambiance of the museum, the architectural design enhances the overall experience.
+The Gemäldegalerie's commitment to accessibility is evident in its facilities, providing visitors with a comfortable and inclusive environment. Whether you are exploring the intricate details of a Baroque painting or simply enjoying the ambiance of the museum, the architectural design enhances the overall experience.
 
 ## Visiting Information
 
@@ -86,7 +86,7 @@ To make the most of your visit to the Gemäldegalerie, consider these insider ti
 
 - **Guided Tours**: Consider joining a guided tour for a more in-depth understanding of the collection, as knowledgeable guides can provide context and stories behind the artworks.
 
-- **Visitor Support**: Don’t hesitate to ask museum staff for assistance or recommendations on what to see, especially if you have limited time.
+- **Visitor Support**: Don't hesitate to ask museum staff for assistance or recommendations on what to see, especially if you have limited time.
 
 ## Practical Information
 

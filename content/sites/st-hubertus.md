@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Hubertus, a remarkable church building located in the charming town of Schmallenberg, Germany, encapsulates the essence of ecclesiastical architecture within the region. Known for its historical and cultural significance, this site invites visitors to explore not just its architectural beauty but also the rich spiritual legacy it represents. Schmallenberg itself is a picturesque area surrounded by lush hills and valleys, making it an ideal destination for those seeking a blend of nature and heritage. As you approach St. Hubertus, the serene atmosphere and the intricate details of the church’s structure promise an enlightening experience that resonates with both history enthusiasts and casual visitors alike.
+St. Hubertus, a remarkable church building located in the charming town of Schmallenberg, Germany, encapsulates the essence of ecclesiastical architecture within the region. Known for its historical and cultural significance, this site invites visitors to explore not just its architectural beauty but also the rich spiritual legacy it represents. Schmallenberg itself is a picturesque area surrounded by lush hills and valleys, making it an ideal destination for those seeking a blend of nature and heritage. As you approach St. Hubertus, the serene atmosphere and the intricate details of the church's structure promise an enlightening experience that resonates with both history enthusiasts and casual visitors alike.
 
 ## History and Significance
 
@@ -34,13 +34,13 @@ While specific historical dates may not be readily available, St. Hubertus holds
 
 The church's establishment marks an important chapter in the religious history of Schmallenberg. It has likely been a witness to various social and cultural transformations over the years, evolving alongside the community that surrounds it. The significance of St. Hubertus extends beyond its role as a place of worship; it is also a focal point for community gatherings and celebrations, reinforcing its status as an integral part of local identity.
 
-The church’s architectural features and artworks may also reflect the artistic trends of different periods, providing insight into the evolution of religious art in the region. Such elements contribute to a deeper understanding of the spiritual and artistic heritage of Schmallenberg and its inhabitants.
+The church's architectural features and artworks may also reflect the artistic trends of different periods, providing insight into the evolution of religious art in the region. Such elements contribute to a deeper understanding of the spiritual and artistic heritage of Schmallenberg and its inhabitants.
 
 ## Architecture and Features
 
 St. Hubertus is characterized by its striking architectural style, which reflects the traditional ecclesiastical designs of the region. The building is composed of sturdy materials, typical of church constructions in Germany, emphasizing durability and timelessness. 
 
-As you approach the church, the façade reveals intricate details that invite closer inspection. The main entrance often features beautifully crafted doors, potentially adorned with religious iconography that communicates the church’s dedication to St. Hubert. Inside, visitors may find a tranquil sanctuary, with an altar that serves as the focal point for worship and reflection. 
+As you approach the church, the façade reveals intricate details that invite closer inspection. The main entrance often features beautifully crafted doors, potentially adorned with religious iconography that communicates the church's dedication to St. Hubert. Inside, visitors may find a tranquil sanctuary, with an altar that serves as the focal point for worship and reflection. 
 
 Natural light filtering through stained glass windows creates an atmosphere of peace and reverence, illuminating the various artistic elements that may be present within the church. These windows often depict scenes from the life of St. Hubert or other significant biblical narratives, enhancing the spiritual ambiance of the space. 
 

@@ -52,7 +52,7 @@ Reaching Gedenkstätte Schacht Schermen is straightforward, with various transpo
 
 Visitors are encouraged to check the official website for current information regarding visiting hours and any potential entrance fees. It's advisable to allocate sufficient time to fully engage with the memorial, allowing for reflection and understanding of the historical significance of the site. A visit may typically take around one to two hours, depending on individual interests and the desire to absorb the information presented.
 
-The best times to visit may vary, but considering the nature of the memorial, early mornings or weekdays may result in a more quiet and contemplative experience. This allows visitors to fully immerse themselves in the memorial’s atmosphere without distraction.
+The best times to visit may vary, but considering the nature of the memorial, early mornings or weekdays may result in a more quiet and contemplative experience. This allows visitors to fully immerse themselves in the memorial's atmosphere without distraction.
 
 ## Nearby Attractions
 

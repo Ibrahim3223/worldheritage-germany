@@ -34,7 +34,7 @@ Whether you are an avid historian or simply seeking an enriching experience, Lis
 
 ## History and Significance
 
-Lissberg Castle’s history is deeply intertwined with the medieval period, reflecting the social and political dynamics of its time. While specific dates may not be available, the castle’s origins can be traced back to a time when fortified structures were crucial for defense and control over surrounding territories. Castles like Lissberg served as both military strongholds and residences for nobility, playing significant roles in the feudal system.
+Lissberg Castle's history is deeply intertwined with the medieval period, reflecting the social and political dynamics of its time. While specific dates may not be available, the castle's origins can be traced back to a time when fortified structures were crucial for defense and control over surrounding territories. Castles like Lissberg served as both military strongholds and residences for nobility, playing significant roles in the feudal system.
 
 The cultural importance of Lissberg Castle extends beyond its architecture. As a fortified site, it represented the power and influence of its owners, as well as the strategic importance of the region. The castle would have been a hub of activity, witnessing the ebb and flow of historical events that shaped the local landscape. The remnants of the castle today offer insights into the architectural styles and defensive strategies employed during its prime.
 

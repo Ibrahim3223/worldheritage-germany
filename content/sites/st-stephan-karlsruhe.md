@@ -78,7 +78,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak hours. Engagin
 
 ## Practical Information
 
-When visiting St. Stephan, it is advisable to bring a small bag with essentials, including water, comfortable walking shoes, and a camera for photography. Given Germany’s varied climate, seasonal considerations should also be taken into account—pack an umbrella in the rainy season and dress in layers during cooler months.
+When visiting St. Stephan, it is advisable to bring a small bag with essentials, including water, comfortable walking shoes, and a camera for photography. Given Germany's varied climate, seasonal considerations should also be taken into account—pack an umbrella in the rainy season and dress in layers during cooler months.
 
 Be sure to check if there are any specific visitor guidelines or restrictions, particularly regarding dress code or behavior within the church premises. Respecting the sacred nature of the site ensures a positive experience for both visitors and the community.
 
@@ -94,7 +94,7 @@ Photography is generally allowed, but be respectful of worshippers and any speci
 Check the official website for information on guided tours, as availability may vary.
 
 ### What's the best time to visit?
-Weekdays and off-peak hours are ideal for a quieter experience. Special events may offer unique insights into the church’s activities.
+Weekdays and off-peak hours are ideal for a quieter experience. Special events may offer unique insights into the church's activities.
 
 ### Is it wheelchair accessible?
 Accessibility details may vary; check the official website for current information regarding wheelchair access.

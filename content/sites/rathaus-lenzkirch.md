@@ -66,7 +66,7 @@ Lenzkirch is surrounded by several attractions that complement a visit to Rathau
 
 3. **Field of the Black Forest**: This natural area presents an opportunity for hiking and exploring the stunning landscape that characterizes the region.
 
-4. **Local Markets**: Depending on the season, local markets may be held nearby, featuring regional products, crafts, and culinary treats that reflect the area’s culture.
+4. **Local Markets**: Depending on the season, local markets may be held nearby, featuring regional products, crafts, and culinary treats that reflect the area's culture.
 
 5. **Hiking Trails**: Numerous trails wind through the surrounding forests, providing options for both leisurely walks and more challenging hikes, perfect for nature enthusiasts.
 

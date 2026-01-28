@@ -28,7 +28,7 @@ image_srcset:
 
 Amtsgericht I und Landgericht I, situated in the Bezirk Mitte of Berlin, is an architectural structure of notable significance within the German judicial system. This courthouse not only serves as a functional legal institution but also stands as a reflection of Germany's architectural evolution and its cultural heritage. As you approach the building, its imposing presence captures the essence of justice and order, making it a focal point for both legal professionals and visitors interested in the historical narrative of the region.
 
-Located in the heart of Berlin, the courthouse is easily accessible, providing a unique opportunity to explore the intersection of law and architecture in one of Europe’s most vibrant cities. The structure embodies the values of transparency and fairness that underpin the judicial system, while its design showcases the aesthetic sensibilities of the period in which it was built. Visitors can anticipate an experience that combines legal history with architectural appreciation, making it a compelling stop on any journey through Berlin.
+Located in the heart of Berlin, the courthouse is easily accessible, providing a unique opportunity to explore the intersection of law and architecture in one of Europe's most vibrant cities. The structure embodies the values of transparency and fairness that underpin the judicial system, while its design showcases the aesthetic sensibilities of the period in which it was built. Visitors can anticipate an experience that combines legal history with architectural appreciation, making it a compelling stop on any journey through Berlin.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Amtsgericht I und Landgericht I has played a pivotal role in the judicial la
 
 Throughout its history, the courthouse has witnessed a myriad of cases that have shaped the legal framework of Germany. It has been a venue for both civil and criminal trials, reflecting the complexities of law in a modern democracy. The courthouse's existence underscores the importance of the judiciary in maintaining social order and addressing the needs of the community it serves. 
 
-Moreover, the site reflects broader historical trends in Berlin, including the impacts of various political regimes and the city’s tumultuous past. The courthouse, therefore, is not just a place for legal proceedings but also a repository of stories that speak to the resilience and adaptability of the legal system in the face of change.
+Moreover, the site reflects broader historical trends in Berlin, including the impacts of various political regimes and the city's tumultuous past. The courthouse, therefore, is not just a place for legal proceedings but also a repository of stories that speak to the resilience and adaptability of the legal system in the face of change.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ Visiting Amtsgericht I und Landgericht I provides a unique opportunity to engage
 
 Before planning your visit, it is advisable to check the official website for current information regarding opening hours and any potential entry fees. While the site primarily functions as a courthouse, it may offer specific public access hours or guided tours that provide insights into its history and architecture.
 
-When visiting, allocate sufficient time to explore the surroundings and appreciate the courthouse's design and significance. The best times to visit may be during weekdays when the courthouse is in operation, allowing you to observe the workings of the legal system in action. However, it’s essential to remain respectful of the court’s function, which may limit access to certain areas.
+When visiting, allocate sufficient time to explore the surroundings and appreciate the courthouse's design and significance. The best times to visit may be during weekdays when the courthouse is in operation, allowing you to observe the workings of the legal system in action. However, it's essential to remain respectful of the court's function, which may limit access to certain areas.
 
 ## Nearby Attractions
 

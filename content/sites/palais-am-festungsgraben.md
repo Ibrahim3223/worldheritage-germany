@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Palais am Festungsgraben is a remarkable palace located in the heart of Berlin, Germany. This historic building stands as a significant representation of the city's architectural and cultural heritage. Situated within Bezirk Mitte, the palace is easily accessible and forms part of the rich tapestry of Berlin’s urban landscape. Visitors to the Palais are invited to explore its impressive façade and the stories that surround its existence, making it a notable stop for history enthusiasts and casual travelers alike.
+Palais am Festungsgraben is a remarkable palace located in the heart of Berlin, Germany. This historic building stands as a significant representation of the city's architectural and cultural heritage. Situated within Bezirk Mitte, the palace is easily accessible and forms part of the rich tapestry of Berlin's urban landscape. Visitors to the Palais are invited to explore its impressive façade and the stories that surround its existence, making it a notable stop for history enthusiasts and casual travelers alike.
 
 Berlin, known for its dynamic history and vibrant culture, offers a diverse range of attractions, and Palais am Festungsgraben is an essential component of that experience. The palace's location adds to its allure, as it lies close to other historical landmarks, enhancing the potential for a well-rounded exploration of the area. The promise of engaging architecture and rich narratives awaits those who venture to this site, providing a unique glimpse into the city's past.
 
@@ -38,7 +38,7 @@ As a palace, it represents the grandeur associated with the era of its conceptio
 
 The cultural significance of the palace extends beyond its physical structure. It has played a role in the social and political life of Berlin, serving as a backdrop for various events and gatherings that have shaped the local community. Its presence in the cityscape is a reminder of Berlin's historical narrative, encapsulating the stories of its inhabitants and the evolution of its urban identity.
 
-Visiting Palais am Festungsgraben offers an opportunity to appreciate not just the architecture but the broader context of Berlin's development. As one explores this notable site, it becomes apparent that the palace is an integral part of the city’s historical discourse, making it a must-see for anyone interested in understanding Berlin's rich heritage.
+Visiting Palais am Festungsgraben offers an opportunity to appreciate not just the architecture but the broader context of Berlin's development. As one explores this notable site, it becomes apparent that the palace is an integral part of the city's historical discourse, making it a must-see for anyone interested in understanding Berlin's rich heritage.
 
 ## Architecture and Features
 

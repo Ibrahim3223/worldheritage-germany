@@ -82,7 +82,7 @@ To enhance your experience at the Friedhofskapelle Düsseldorf-Gerresheim, consi
 
 - **Photography**: The chapel's architecture can provide stunning photographic opportunities. Early mornings or late afternoons often offer the best natural light. Be respectful of any visitors who may be there for personal reflection while capturing your shots.
 
-- **Avoid Crowds**: For a quieter visit, aim for weekdays or early in the morning. This will allow you to enjoy the chapel’s peaceful atmosphere without the distraction of larger groups.
+- **Avoid Crowds**: For a quieter visit, aim for weekdays or early in the morning. This will allow you to enjoy the chapel's peaceful atmosphere without the distraction of larger groups.
 
 ## Practical Information
 
@@ -107,7 +107,7 @@ Currently, specific information about guided tours is not provided. Check the of
 Weekdays and early mornings are often the best times to visit to avoid crowds and fully enjoy the peaceful environment.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified. It’s advisable to check the official website for details on wheelchair access.
+Accessibility information is not specified. It's advisable to check the official website for details on wheelchair access.
 
 ### Can I buy tickets online?
 Information on ticket purchasing is not mentioned. For details, please check the official website.

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Uranium Mining Landscape in Germany is an evocative cultural landscape that captures the complex interplay between human industry and natural surroundings. Encompassing a region that has been shaped by the extraction of uranium, this site serves as a poignant reminder of the impacts of mining on both the environment and society. Its significance lies not only in its historical context but also in its role in the broader narrative of energy production and environmental stewardship. Visitors to this UNESCO World Heritage site can expect to engage with a landscape that narrates stories of innovation, community, and change amidst the backdrop of Germany’s industrial evolution.
+The Uranium Mining Landscape in Germany is an evocative cultural landscape that captures the complex interplay between human industry and natural surroundings. Encompassing a region that has been shaped by the extraction of uranium, this site serves as a poignant reminder of the impacts of mining on both the environment and society. Its significance lies not only in its historical context but also in its role in the broader narrative of energy production and environmental stewardship. Visitors to this UNESCO World Heritage site can expect to engage with a landscape that narrates stories of innovation, community, and change amidst the backdrop of Germany's industrial evolution.
 
 Located at coordinates 50.6334, 12.6857, the Uranium Mining Landscape is part of a larger cultural narrative that explores the human endeavor in the pursuit of resources. This site invites exploration and reflection, offering insights into how mining activities have reshaped not just the earth but also the lives of those who lived and worked in this area. The landscape stands as a compelling example of how cultural landscapes can embody historical and social narratives, making it an essential visit for those interested in the intersection of culture, history, and the environment.
 
@@ -52,7 +52,7 @@ As you plan your visit, consider wearing sturdy footwear suitable for walking on
 
 While the Uranium Mining Landscape is a focal point for visitors, several nearby attractions can complement your visit:
 
-1. **Wismut Museum** - This museum provides an in-depth look at the history of uranium mining in the region, featuring exhibitions that detail the technology, the workers’ lives, and the environmental impact.
+1. **Wismut Museum** - This museum provides an in-depth look at the history of uranium mining in the region, featuring exhibitions that detail the technology, the workers' lives, and the environmental impact.
 
 2. **Biosphere Reserve Ore Mountains/Vogtland** - A nearby natural reserve that showcases the rich biodiversity and ecological significance of the Ore Mountains, offering hiking and nature walks.
 

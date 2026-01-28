@@ -30,7 +30,7 @@ The Anklam Gate of Usedom City stands as a significant architectural feature wit
 
 As you approach the Anklam Gate, the structure's imposing presence and historical significance become immediately apparent. It invites travelers to ponder the stories of those who passed through its archways, from merchants and nobility to common townsfolk. The gate stands as a symbol of the city's resilience and adaptability in the face of change, marking the transition from a fortified town to a vibrant modern community. 
 
-Visiting the Anklam Gate is not just about witnessing a piece of architecture; it’s an invitation to engage with the layered narratives of Usedom’s past. Whether you are a history enthusiast, an architecture aficionado, or simply curious about the region, the Anklam Gate offers a worthwhile experience that enriches your understanding of this captivating city.
+Visiting the Anklam Gate is not just about witnessing a piece of architecture; it's an invitation to engage with the layered narratives of Usedom's past. Whether you are a history enthusiast, an architecture aficionado, or simply curious about the region, the Anklam Gate offers a worthwhile experience that enriches your understanding of this captivating city.
 
 ## History and Significance
 

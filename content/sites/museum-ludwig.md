@@ -32,7 +32,7 @@ Museum Ludwig in Cologne, Germany, is a significant cultural institution that ho
 
 Museum Ludwig was established to reflect the evolving landscape of modern art. While specific founding dates may not be available, the museum's origins are rooted in the vision of Peter and Irene Ludwig, notable collectors whose extensive collection formed the basis of the museum. Over the years, Museum Ludwig has become a vital center for art appreciation and education, highlighting the significance of modern artistic movements and their impact on contemporary culture. 
 
-The museum is particularly known for its notable collection of works by artists such as Pablo Picasso, Andy Warhol, and Roy Lichtenstein. This makes it a crucial site for understanding the development of modern art and its various expressions. Additionally, the museum engages in various exhibitions, educational programs, and collaborations that foster a deeper understanding of art within the community. Its role in promoting art education and accessibility has made it a cornerstone of Cologne’s cultural scene.
+The museum is particularly known for its notable collection of works by artists such as Pablo Picasso, Andy Warhol, and Roy Lichtenstein. This makes it a crucial site for understanding the development of modern art and its various expressions. Additionally, the museum engages in various exhibitions, educational programs, and collaborations that foster a deeper understanding of art within the community. Its role in promoting art education and accessibility has made it a cornerstone of Cologne's cultural scene.
 
 Moreover, Museum Ludwig has a reputation for hosting temporary exhibitions that often feature contemporary artists, thus ensuring that the museum remains a dynamic space for artistic dialogue and innovation. This commitment to showcasing diverse artistic voices further underscores the museum's significance as a contemporary art institution. 
 
@@ -58,7 +58,7 @@ While visiting Museum Ludwig, there are several nearby attractions worth explori
 
 2. **Museum Schnütgen**: A museum dedicated to medieval art, showcasing an impressive array of sculptures, textiles, and ecclesiastical art.
 
-3. **Roman-Germanic Museum**: This museum highlights the Roman history of Cologne, featuring artifacts from the Roman era that provide insight into the city’s ancient past.
+3. **Roman-Germanic Museum**: This museum highlights the Roman history of Cologne, featuring artifacts from the Roman era that provide insight into the city's ancient past.
 
 4. **Hohenzollern Bridge**: A famous pedestrian bridge adorned with love locks, offering picturesque views of the Rhine River and the cathedral.
 

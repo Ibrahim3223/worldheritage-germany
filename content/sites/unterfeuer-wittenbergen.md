@@ -66,7 +66,7 @@ While visiting Unterfeuer Wittenbergen, there are several nearby attractions wor
 
 4. **Museum of Hamburg History**: Located a short distance away, this museum offers insights into the city's past, including its maritime heritage.
 
-5. **St. Michael’s Church**: Known as "Michel," this historic baroque church is a significant landmark in Hamburg and offers stunning views from its tower.
+5. **St. Michael's Church**: Known as "Michel," this historic baroque church is a significant landmark in Hamburg and offers stunning views from its tower.
 
 ## Insider Tips
 

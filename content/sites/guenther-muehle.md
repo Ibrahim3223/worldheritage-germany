@@ -82,7 +82,7 @@ Seasonal considerations are important; spring and summer months are ideal for vi
 Visitors typically spend about one to two hours at Günther-Mühle, allowing sufficient time to explore the windmill and its features.
 
 ### Is photography allowed?
-Yes, photography is generally allowed at the site, but it’s always a good idea to check for any specific restrictions upon arrival.
+Yes, photography is generally allowed at the site, but it's always a good idea to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 While specific information about guided tours may vary, engaging with staff on-site can provide valuable insights into the windmill's history and operation.

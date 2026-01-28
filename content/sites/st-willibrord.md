@@ -28,19 +28,19 @@ image_srcset:
 
 St. Willibrord Church is a remarkable ecclesiastical structure located in the picturesque town of Kleve, Germany. This church not only serves as a place of worship but also stands as a significant cultural landmark, reflecting the architectural and spiritual heritage of the region. Situated at coordinates 51.8134, 6.12797, St. Willibrord is a testament to the enduring legacy of Christian architecture in Germany, attracting visitors interested in both religious history and architectural beauty.
 
-As you approach the church, you will find it nestled among the charming streets of Kleve, a town known for its historical significance and scenic landscapes. The church’s presence adds a layer of historical depth to the area, making it a focal point for both locals and tourists. St. Willibrord is not just a site for worship; it is a connection to the past, where the community gathers for reflection, celebration, and remembrance.
+As you approach the church, you will find it nestled among the charming streets of Kleve, a town known for its historical significance and scenic landscapes. The church's presence adds a layer of historical depth to the area, making it a focal point for both locals and tourists. St. Willibrord is not just a site for worship; it is a connection to the past, where the community gathers for reflection, celebration, and remembrance.
 
 Visitors to St. Willibrord can expect a serene atmosphere that encourages introspection and appreciation of the intricate details that adorn the church. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful space, St. Willibrord offers a unique experience that resonates with the spirit of Kleve.
 
 ## History and Significance 
 
-St. Willibrord Church holds a significant place in the ecclesiastical and cultural history of Kleve. Constructed in accordance with the traditions of Christian architecture, the church reflects the spiritual journey of the community over the centuries. While specific historical dates may be elusive, the church’s roots are deeply embedded in the narrative of the town itself. 
+St. Willibrord Church holds a significant place in the ecclesiastical and cultural history of Kleve. Constructed in accordance with the traditions of Christian architecture, the church reflects the spiritual journey of the community over the centuries. While specific historical dates may be elusive, the church's roots are deeply embedded in the narrative of the town itself. 
 
 The church is named after St. Willibrord, an important figure in early Christian history known for his missionary work in the regions that now comprise the Netherlands and parts of Germany. St. Willibrord is revered for his efforts to spread Christianity, and his legacy resonates through the church that bears his name. The church functions not only as a place of worship but also as a historical marker that signifies the spread of Christianity in this part of Europe.
 
 The cultural importance of St. Willibrord extends beyond its religious functions. It serves as a gathering place for community events and celebrations, fostering a sense of unity among the residents of Kleve. The church's history is intertwined with that of the town, and it continues to play a vital role in the cultural fabric of the area.
 
-Visitors often find themselves drawn to the stories that echo within the church's walls, each corner revealing a piece of the past. The church’s significance is not solely historical; it represents the ongoing spiritual life of the community, making it a lively part of Kleve today.
+Visitors often find themselves drawn to the stories that echo within the church's walls, each corner revealing a piece of the past. The church's significance is not solely historical; it represents the ongoing spiritual life of the community, making it a lively part of Kleve today.
 
 ## Architecture and Features 
 

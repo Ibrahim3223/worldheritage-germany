@@ -32,7 +32,7 @@ As visitors approach Langenstein Castle, they are greeted by its impressive stru
 
 ## History and Significance
 
-Langenstein Castle has a long-standing significance within the cultural landscape of the region. While specific dates of its establishment are not detailed, the castle’s history reflects the broader narrative of the area’s development, influenced by various cultural and political shifts over the centuries. The castle is emblematic of the architectural styles prevalent during its construction, showcasing the artistry and craftsmanship of the time.
+Langenstein Castle has a long-standing significance within the cultural landscape of the region. While specific dates of its establishment are not detailed, the castle's history reflects the broader narrative of the area's development, influenced by various cultural and political shifts over the centuries. The castle is emblematic of the architectural styles prevalent during its construction, showcasing the artistry and craftsmanship of the time.
 
 The cultural importance of Langenstein Castle extends beyond its physical structure. As a museum, it plays a crucial role in preserving the heritage of Orsingen-Nenzingen. The exhibitions housed within its walls provide insight into the local traditions, historical events, and the lives of the people who have lived in the region. Such an institution contributes to the ongoing dialogue about identity, culture, and history, making it a vital resource for both locals and visitors.
 
@@ -42,7 +42,7 @@ Langenstein Castle also serves as a venue for various cultural events, fostering
 
 The architectural design of Langenstein Castle reflects a blend of various styles that have evolved over time. While specific details on its architectural elements are not provided, visitors can expect to find a structure that showcases the craftsmanship and materials typical of historical castles in the region. The castle's imposing presence is complemented by its well-preserved features, which offer insights into the construction techniques and aesthetic choices of the era.
 
-As a museum, Langenstein Castle is not merely a static display of its architectural grandeur; it also incorporates thematic exhibitions that highlight different aspects of its history and cultural significance. The interior spaces are designed to facilitate an engaging visitor experience, allowing for a comprehensive understanding of the castle’s story. The layout of the museum often encourages exploration, with pathways leading through various rooms and exhibits that narrate the history of the area.
+As a museum, Langenstein Castle is not merely a static display of its architectural grandeur; it also incorporates thematic exhibitions that highlight different aspects of its history and cultural significance. The interior spaces are designed to facilitate an engaging visitor experience, allowing for a comprehensive understanding of the castle's story. The layout of the museum often encourages exploration, with pathways leading through various rooms and exhibits that narrate the history of the area.
 
 Visitors will also find spaces that may host special exhibitions or events, making the museum dynamic and responsive to contemporary cultural conversations. The environment within Langenstein Castle aims to create a sense of connection between the past and present, allowing guests to appreciate the ongoing relevance of historical narratives.
 
@@ -84,7 +84,7 @@ Check the official website for any specific guidelines on what to bring and seas
 A visit typically takes a few hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check upon arrival or refer to the official website for guidelines.
+Photography policies can vary, so it's best to check upon arrival or refer to the official website for guidelines.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

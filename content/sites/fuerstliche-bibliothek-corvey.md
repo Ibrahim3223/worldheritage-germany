@@ -44,7 +44,7 @@ The architecture of the Fürstliche Bibliothek Corvey is reflective of its histo
 
 Inside the library, the layout is designed to facilitate exploration and study. The reading rooms are spacious and well-lit, offering a comfortable environment for visitors. The shelves are lined with a diverse array of books and manuscripts, many of which are housed in specially designed conditions to preserve their integrity. The library's collection includes works that are significant not just for their content but also for their historical context, providing insights into the cultural and intellectual currents of their time.
 
-Notable features of the library include its ornate reading rooms and the carefully curated exhibitions that highlight different aspects of its vast collection. These exhibitions often focus on specific themes or historical periods, allowing visitors to gain a deeper understanding of the library’s role in the preservation of literary heritage. The combination of architectural beauty and rich collections makes the Fürstliche Bibliothek Corvey a place of both aesthetic and intellectual appeal.
+Notable features of the library include its ornate reading rooms and the carefully curated exhibitions that highlight different aspects of its vast collection. These exhibitions often focus on specific themes or historical periods, allowing visitors to gain a deeper understanding of the library's role in the preservation of literary heritage. The combination of architectural beauty and rich collections makes the Fürstliche Bibliothek Corvey a place of both aesthetic and intellectual appeal.
 
 ## Visiting Information
 
@@ -72,11 +72,11 @@ While visiting the Fürstliche Bibliothek Corvey, there are several nearby attra
 
 When planning your visit to the Fürstliche Bibliothek Corvey, consider these insider tips for making the most of your experience:
 
-- **Photography**: Check the library’s policy on photography as it may vary. Some areas may have restrictions to preserve the integrity of the collections.
+- **Photography**: Check the library's policy on photography as it may vary. Some areas may have restrictions to preserve the integrity of the collections.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or during off-peak hours. This will enhance your ability to immerse yourself in the library's offerings.
 
-- **Engagement**: Take advantage of any available informational materials or guided tours to gain deeper insights into the library’s collections and history.
+- **Engagement**: Take advantage of any available informational materials or guided tours to gain deeper insights into the library's collections and history.
 
 ## Practical Information
 
@@ -97,7 +97,7 @@ A visit to the Fürstliche Bibliothek Corvey typically takes a few hours, depend
 Photography policies may vary, so check with the library upon arrival for any specific restrictions.
 
 ### Are there guided tours?
-Guided tours may be available; it’s recommended to check the official website for details and scheduling.
+Guided tours may be available; it's recommended to check the official website for details and scheduling.
 
 ### What's the best time to visit?
 Weekdays and off-peak hours are generally the best times to visit to avoid larger crowds.

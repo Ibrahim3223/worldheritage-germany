@@ -101,7 +101,7 @@ Check the official website for details on accessibility features available at St
 Admission policies may vary, so check the official website for the latest information regarding online ticket availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available nearby, but it’s advisable to check the official website for specific details. Cafes and restaurants can be found in the surrounding Neustadt-Süd area.
+Restroom facilities may be available nearby, but it's advisable to check the official website for specific details. Cafes and restaurants can be found in the surrounding Neustadt-Süd area.
 
 ### What should I wear?
 Modest attire is recommended, especially if attending a service. Comfortable shoes are also advisable for exploring the church and its surroundings.

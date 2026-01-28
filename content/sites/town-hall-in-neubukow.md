@@ -34,7 +34,7 @@ The Town Hall in Neubukow has played an integral role in the administrative and 
 
 As a site of local governance, the Town Hall has witnessed various historical changes that have shaped Neubukow over the years. The building is not only a place for administrative functions but also serves as a venue for community gatherings, celebrations, and local events. This dual role highlights the Town Hall's importance as a place where citizens come together, reinforcing social bonds and local identity.
 
-The Town Hall’s significance is further underscored by its function as a symbol of civic pride. It represents the collective spirit of the Neubukow community and stands as a reminder of the town's journey through various historical phases, including its development during times of social and political change.
+The Town Hall's significance is further underscored by its function as a symbol of civic pride. It represents the collective spirit of the Neubukow community and stands as a reminder of the town's journey through various historical phases, including its development during times of social and political change.
 
 ## Architecture and Features
 
@@ -84,7 +84,7 @@ If you plan to visit during the summer, be prepared for warmer temperatures, whi
 You should allocate at least an hour to explore the Town Hall and its surroundings, allowing time to appreciate its architecture and the local atmosphere.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s advisable to check for any specific restrictions once you arrive at the site.
+While photography is generally permitted, it's advisable to check for any specific restrictions once you arrive at the site.
 
 ### Are there guided tours?
 Information about guided tours might be available; check the official website or inquire at the Town Hall for current offerings.

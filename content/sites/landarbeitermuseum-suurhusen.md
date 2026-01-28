@@ -70,7 +70,7 @@ To make the most of your visit to the Landarbeitermuseum Suurhusen, consider the
 
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekdays or early in the day, especially if the museum hosts special events or educational programs during the weekends.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for insights or recommendations on exhibits, as they often have valuable information and stories to share.
+- **Engage with Staff**: Don't hesitate to ask museum staff for insights or recommendations on exhibits, as they often have valuable information and stories to share.
 
 ## Practical Information
 
@@ -89,7 +89,7 @@ A visit typically takes about two hours, allowing ample time to explore the exhi
 Check for specific guidelines regarding photography within the museum to ensure respectful engagement with the exhibits.
 
 ### Are there guided tours?
-It’s advisable to verify with the museum if guided tours are available, as they may offer deeper insights into the exhibits.
+It's advisable to verify with the museum if guided tours are available, as they may offer deeper insights into the exhibits.
 
 ### What's the best time to visit?
 Visiting during weekdays or early in the day may help you avoid crowds. Special events or seasonal exhibitions can also enhance your experience.

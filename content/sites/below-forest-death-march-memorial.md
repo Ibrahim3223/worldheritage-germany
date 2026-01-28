@@ -73,7 +73,7 @@ To avoid crowds, plan your visit during off-peak hours, such as weekday mornings
 
 ## Practical Information
 
-As you prepare for your visit to the Below Forest Death March Memorial, it’s advisable to bring essential items such as water, comfortable walking shoes, and a notebook for reflections. Depending on the season, be sure to check the weather forecast and dress accordingly, as outdoor conditions can vary greatly.
+As you prepare for your visit to the Below Forest Death March Memorial, it's advisable to bring essential items such as water, comfortable walking shoes, and a notebook for reflections. Depending on the season, be sure to check the weather forecast and dress accordingly, as outdoor conditions can vary greatly.
 
 If you plan to visit during colder months, layering is recommended to ensure comfort while exploring the memorial and its surroundings. Additionally, consider bringing a small snack, as options may be limited nearby.
 
@@ -83,7 +83,7 @@ If you plan to visit during colder months, layering is recommended to ensure com
 Visitors typically find that spending a few hours allows them to fully engage with the memorial and reflect on its significance.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for guidelines upon arrival to ensure respectful engagement with the site.
+Photography policies may vary, so it's best to check for guidelines upon arrival to ensure respectful engagement with the site.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available, as they can provide additional insights into the memorial's history.

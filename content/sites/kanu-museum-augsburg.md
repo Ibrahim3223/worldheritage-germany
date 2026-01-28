@@ -83,7 +83,7 @@ Always check the official website for any updates on facilities or special event
 Most visitors find that a couple of hours is sufficient to explore the exhibits and engage with any interactive elements.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s a good idea to check for any specific guidelines upon arrival.
+Photography policies may vary, so it's a good idea to check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for current information regarding availability and scheduling.

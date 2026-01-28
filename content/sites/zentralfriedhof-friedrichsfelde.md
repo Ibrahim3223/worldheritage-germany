@@ -78,7 +78,7 @@ Remember to be respectful of the solemn nature of the site, particularly in area
 
 ## Practical Information
 
-When planning your visit to Zentralfriedhof Friedrichsfelde, it’s advisable to wear comfortable shoes suitable for walking, as the grounds are extensive. Depending on the season, dressing in layers is recommended to adjust to changing weather conditions.
+When planning your visit to Zentralfriedhof Friedrichsfelde, it's advisable to wear comfortable shoes suitable for walking, as the grounds are extensive. Depending on the season, dressing in layers is recommended to adjust to changing weather conditions.
 
 Bringing a water bottle and light snacks can enhance your experience, especially if you plan to spend an extended period exploring the grounds. Be mindful of the need to maintain the natural environment, and dispose of any waste responsibly.
 
@@ -105,7 +105,7 @@ Check the official website for accessibility information, as some areas may have
 For current information on tickets and any associated fees, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to prepare accordingly. Check the official website for the most accurate details.
+Facilities may be limited, so it's advisable to prepare accordingly. Check the official website for the most accurate details.
 
 ### What should I wear?
 Dress comfortably and in layers to accommodate changing weather conditions, especially if planning to walk extensively.

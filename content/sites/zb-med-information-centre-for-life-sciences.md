@@ -28,13 +28,13 @@ image_srcset:
 
 In the heart of North Rhine-Westphalia, Germany, lies ZB MED - Information Centre for Life Sciences, a national library dedicated to the expansive realm of life sciences. As a central hub for research and information in this specialized field, the library plays a critical role in supporting scholars, professionals, and students alike. With a mission to enhance access to knowledge, ZB MED serves not only as a repository of information but also as a vibrant space for collaboration and innovation. 
 
-The library’s location is particularly significant, situated in a region known for its educational institutions and research facilities. This proximity fosters a dynamic environment where ideas can flourish and where the latest advancements in life sciences are readily accessible. Visitors to ZB MED can expect a well-organized and resource-rich environment that embodies the spirit of inquiry and discovery. Whether you're a researcher in search of specific data, a student eager to learn, or simply a curious traveler, this library promises to be a compelling destination.
+The library's location is particularly significant, situated in a region known for its educational institutions and research facilities. This proximity fosters a dynamic environment where ideas can flourish and where the latest advancements in life sciences are readily accessible. Visitors to ZB MED can expect a well-organized and resource-rich environment that embodies the spirit of inquiry and discovery. Whether you're a researcher in search of specific data, a student eager to learn, or simply a curious traveler, this library promises to be a compelling destination.
 
 ## History and Significance
 
 ZB MED has been established as a national library in Germany, dedicated to the life sciences, reflecting the increasing importance and complexity of this field. While specific historical milestones are not detailed, the library's cultural importance is evident. It serves as a critical resource for the dissemination of knowledge and research, contributing significantly to the advancement of life sciences in Germany and beyond. 
 
-The library’s role transcends mere storage of information; it is a facilitator of knowledge exchange among various stakeholders, including scientists, healthcare professionals, and educators. By providing access to a wealth of literature and resources, ZB MED supports ongoing research initiatives and promotes collaboration among institutions. 
+The library's role transcends mere storage of information; it is a facilitator of knowledge exchange among various stakeholders, including scientists, healthcare professionals, and educators. By providing access to a wealth of literature and resources, ZB MED supports ongoing research initiatives and promotes collaboration among institutions. 
 
 One aspect that enhances ZB MED's significance is its commitment to open access and the democratization of information. In an era where knowledge is pivotal for advancements in health and medicine, the library stands as a crucial ally in ensuring that valuable research findings are available to a broader audience. This commitment aligns with global trends in promoting open science and fostering innovation through shared knowledge.
 
@@ -42,7 +42,7 @@ One aspect that enhances ZB MED's significance is its commitment to open access 
 
 The architectural design of ZB MED is reflective of its purpose as a modern library dedicated to the life sciences. While specific architectural details are not provided, the library is likely designed to facilitate ease of access to its resources, with spaces organized for both individual study and collaborative work. 
 
-Visitors can expect to find well-equipped reading rooms, computer stations, and areas specifically designed for research activities. The layout typically encourages a conducive environment for learning and discovery, allowing users to navigate through collections seamlessly. Additionally, the library likely features modern amenities, ensuring that it meets the needs of today’s users.
+Visitors can expect to find well-equipped reading rooms, computer stations, and areas specifically designed for research activities. The layout typically encourages a conducive environment for learning and discovery, allowing users to navigate through collections seamlessly. Additionally, the library likely features modern amenities, ensuring that it meets the needs of today's users.
 
 In terms of technological features, ZB MED is expected to incorporate advanced information systems that provide access to a vast array of digital resources, including journals, databases, and other important publications in life sciences. This integration of technology not only enhances user experience but also supports efficient research and information retrieval.
 
@@ -72,13 +72,13 @@ While the focus at ZB MED is decidedly on life sciences, the surrounding area of
 
 When visiting ZB MED, consider bringing a camera to capture the architecture and atmosphere of the library. However, be mindful of any regulations regarding photography indoors. To avoid crowds, plan your visit during mid-week or early in the day, as weekends may attract more visitors.
 
-If you require assistance or specific resources, don’t hesitate to ask the staff for help; they can provide valuable guidance in navigating the library's offerings.
+If you require assistance or specific resources, don't hesitate to ask the staff for help; they can provide valuable guidance in navigating the library's offerings.
 
 ## Practical Information
 
 When preparing for your visit to ZB MED, it's advisable to bring along any necessary materials such as notebooks, pens, or electronic devices for note-taking. Additionally, a valid form of identification may be necessary for accessing certain resources or areas within the library.
 
-Consider seasonal factors when planning your visit, as weather conditions in North Rhine-Westphalia can vary. If you are visiting during colder months, dress accordingly, and if you’re planning a summer visit, lightweight clothing may be more comfortable.
+Consider seasonal factors when planning your visit, as weather conditions in North Rhine-Westphalia can vary. If you are visiting during colder months, dress accordingly, and if you're planning a summer visit, lightweight clothing may be more comfortable.
 
 ## Frequently Asked Questions
 

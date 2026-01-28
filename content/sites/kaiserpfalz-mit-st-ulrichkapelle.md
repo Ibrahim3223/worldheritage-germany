@@ -28,7 +28,7 @@ Visitors to the Kaiserpfalz mit St. Ulrichkapelle can expect a blend of educatio
 
 ## History and Significance
 
-The Kaiserpfalz, or Imperial Palace, in Goslar has played a significant role throughout its history, particularly during the Ottonian period. Established as a royal residence, it served as a political center where emperors convened, making critical decisions that shaped the region and beyond. The palace was a demonstration of imperial power and an embodiment of the Ottonian dynasty’s influence over the Holy Roman Empire.
+The Kaiserpfalz, or Imperial Palace, in Goslar has played a significant role throughout its history, particularly during the Ottonian period. Established as a royal residence, it served as a political center where emperors convened, making critical decisions that shaped the region and beyond. The palace was a demonstration of imperial power and an embodiment of the Ottonian dynasty's influence over the Holy Roman Empire.
 
 The historical importance of the Kaiserpfalz extends beyond its role as a royal residence. It became a site for important political gatherings and ceremonies, reflecting the administrative and ceremonial functions of the empire. The presence of St. Ulrichkapelle, a chapel associated with the palace, further underscores the interweaving of religious and political life during this era. The chapel served as a spiritual haven for the emperors and their courts, contributing to the cultural fabric of the time.
 
@@ -111,7 +111,7 @@ The site strives to be accessible; however, it is advisable to check the officia
 Check the official website for options regarding online ticket purchases, as these can streamline your entry.
 
 ### Are there restrooms and cafes?
-Facilities are typically available on-site, but it’s good to check the official website for specifics regarding amenities.
+Facilities are typically available on-site, but it's good to check the official website for specifics regarding amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes suited for walking are recommended, especially if you plan to explore the museum and surrounding areas thoroughly.

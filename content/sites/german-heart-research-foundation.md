@@ -58,7 +58,7 @@ While the German Heart Research Foundation is primarily focused on health resear
 
 2. **Palmengarten**: A beautiful botanical garden, ideal for a leisurely stroll, showcasing a variety of plant species from around the globe.
 
-3. **Frankfurt Cathedral**: A historical landmark, known for its stunning Gothic architecture and rich history, offering insights into the city’s cultural heritage.
+3. **Frankfurt Cathedral**: A historical landmark, known for its stunning Gothic architecture and rich history, offering insights into the city's cultural heritage.
 
 4. **Römer**: The city hall of Frankfurt, featuring picturesque medieval architecture, is located in the heart of the old town and is a significant symbol of the city's history.
 
@@ -66,7 +66,7 @@ While the German Heart Research Foundation is primarily focused on health resear
 
 ## Insider Tips
 
-For photography enthusiasts, the German Heart Research Foundation offers several opportunities to capture the essence of health research and community engagement. However, it’s always wise to check the foundation’s policy on photography before your visit.
+For photography enthusiasts, the German Heart Research Foundation offers several opportunities to capture the essence of health research and community engagement. However, it's always wise to check the foundation's policy on photography before your visit.
 
 To avoid crowds, consider visiting during weekdays, as weekends may draw larger numbers of visitors. Early mornings are often quieter, allowing for a more intimate experience with the exhibits and staff.
 

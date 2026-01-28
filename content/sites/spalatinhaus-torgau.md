@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Located in the historic town of Torgau, Saxony, Germany, Spalatinhaus stands as a museum dedicated to the rich cultural heritage of the region. Torgau, known for its significant role in the Reformation and its architectural beauty, serves as an ideal backdrop for this museum, which is committed to preserving and showcasing the area’s historical narratives. Visitors to Spalatinhaus will find a space that not only reflects the local history but also engages with the broader themes of art, culture, and society.
+Located in the historic town of Torgau, Saxony, Germany, Spalatinhaus stands as a museum dedicated to the rich cultural heritage of the region. Torgau, known for its significant role in the Reformation and its architectural beauty, serves as an ideal backdrop for this museum, which is committed to preserving and showcasing the area's historical narratives. Visitors to Spalatinhaus will find a space that not only reflects the local history but also engages with the broader themes of art, culture, and society.
 
 As you explore Spalatinhaus, expect to delve into the stories that shaped Torgau and its surroundings. The museum's exhibits offer insights into the lives of past residents and their contributions to the cultural landscape of Saxony. Whether you are a history enthusiast or a casual visitor, the museum promises a thought-provoking experience that highlights the significance of Torgau in both a local and national context.
 
@@ -60,7 +60,7 @@ Visitors to Spalatinhaus will find several notable attractions within a short di
 
 1. **Torgau Castle**: A short walk from the museum, this historic castle has significant historical importance and offers guided tours of its beautiful interiors.
    
-2. **St. Mary's Church**: Known for its impressive architecture, this church is a fine example of Saxony’s religious heritage and is worth a visit for its stunning stained glass windows.
+2. **St. Mary's Church**: Known for its impressive architecture, this church is a fine example of Saxony's religious heritage and is worth a visit for its stunning stained glass windows.
 
 3. **The Elbe River Promenade**: A scenic area for leisurely walks, the promenade provides picturesque views and a serene atmosphere.
 

@@ -97,7 +97,7 @@ A visit typically requires a few hours to a full day, depending on your interest
 Yes, photography is generally permitted, but be respectful of the memorial's solemn atmosphere.
 
 ### Are there guided tours?
-Yes, guided tours are available and can enhance your understanding of the site’s history.
+Yes, guided tours are available and can enhance your understanding of the site's history.
 
 ### What's the best time to visit?
 Early mornings or weekdays are often the best times to visit to avoid larger crowds.

@@ -30,7 +30,7 @@ Frachtstraße 1, 2, 8 in Quedlinburg stands as a remarkable architectural ensemb
 
 This site is significant not only for its architectural merit but also for its role in the broader narrative of Quedlinburg's history. The town is characterized by its half-timbered houses, cobblestone streets, and a rich tapestry of stories that resonate through its buildings. Whether you are an architecture enthusiast or a casual traveler, Frachtstraße 1, 2, 8 offers insights into the socio-economic conditions of its time, making it a vital stop on any heritage tour of Quedlinburg.
 
-Visiting this architectural ensemble will immerse you in the essence of Quedlinburg’s heritage, where every corner tells a story and every building reflects the craftsmanship of its era. Prepare to be inspired by the charm of this historic locale.
+Visiting this architectural ensemble will immerse you in the essence of Quedlinburg's heritage, where every corner tells a story and every building reflects the craftsmanship of its era. Prepare to be inspired by the charm of this historic locale.
 
 ## History and Significance
 

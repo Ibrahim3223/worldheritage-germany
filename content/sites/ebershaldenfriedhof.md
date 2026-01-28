@@ -68,7 +68,7 @@ Ebershaldenfriedhof is conveniently located near several attractions that can en
 
 1. **Esslingen Castle**: Perched on a hill, this historic castle offers panoramic views of the city and is a fascinating exploration of local history.
    
-2. **Old Town (Altstadt)**: Stroll through the charming streets of Esslingen’s Old Town, characterized by half-timbered houses and historic architecture that reflects the city’s medieval roots.
+2. **Old Town (Altstadt)**: Stroll through the charming streets of Esslingen's Old Town, characterized by half-timbered houses and historic architecture that reflects the city's medieval roots.
 
 3. **St. Dionysius Church**: This Gothic church, known for its impressive architecture and historical significance, is a prominent landmark in Esslingen and worth visiting.
 
@@ -107,7 +107,7 @@ Information about guided tours may vary. Check the official website for any avai
 The best time to visit is during daylight hours, with early mornings or late afternoons on weekdays offering a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility details should be confirmed through the official website. Generally, cemeteries strive to accommodate all visitors, but it’s best to check in advance.
+Accessibility details should be confirmed through the official website. Generally, cemeteries strive to accommodate all visitors, but it's best to check in advance.
 
 ### Can I buy tickets online?
 Information regarding online ticket purchases should be verified through the official website, as access to the cemetery may be free.

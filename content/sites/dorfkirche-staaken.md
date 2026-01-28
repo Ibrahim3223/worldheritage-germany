@@ -48,7 +48,7 @@ The traditional design principles and community-centric focus of Dorfkirche Staa
 
 ## Visiting Information
 
-When planning a visit to Dorfkirche Staaken, it’s important to consider transportation options. The church is accessible via public transport, making it convenient for travelers. Visitors should check the official website for current information regarding hours and any potential entrance fees, as these can vary throughout the year.
+When planning a visit to Dorfkirche Staaken, it's important to consider transportation options. The church is accessible via public transport, making it convenient for travelers. Visitors should check the official website for current information regarding hours and any potential entrance fees, as these can vary throughout the year.
 
 Expect to spend around an hour at the church to fully appreciate its architecture and atmosphere. The best times to visit are typically during weekdays when it is less crowded, allowing for a more peaceful experience. If you prefer a quieter visit, consider going in the early morning or later in the afternoon.
 
@@ -72,7 +72,7 @@ To avoid crowds, aim to visit during weekdays or early in the day. If the church
 
 ## Practical Information
 
-When visiting Dorfkirche Staaken, it’s advisable to bring along a small bag for personal items, a water bottle, and perhaps a camera to capture the beauty of the church and its surroundings. Dress comfortably, keeping in mind that churches often have a respectful atmosphere, so attire should be appropriate.
+When visiting Dorfkirche Staaken, it's advisable to bring along a small bag for personal items, a water bottle, and perhaps a camera to capture the beauty of the church and its surroundings. Dress comfortably, keeping in mind that churches often have a respectful atmosphere, so attire should be appropriate.
 
 Seasonal considerations may affect your visit. Spring and autumn typically offer pleasant weather, ideal for exploring the area around the church. Summer can be warm, and winter may bring colder temperatures, so plan accordingly to ensure a comfortable experience.
 

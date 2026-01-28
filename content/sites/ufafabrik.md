@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the vibrant district of Tempelhof-Schöneberg in Berlin, ufaFabrik is a remarkable cultural center that has transformed a former film copying facility into a thriving hub for the arts. This multi-functional theatre building fosters creativity and innovation, celebrating the rich cultural fabric of Berlin. With its eclectic programming and commitment to community engagement, ufaFabrik stands out as a significant player in the city's cultural scene, inviting visitors to explore a diverse array of performances, workshops, and events.
 
-The significance of ufaFabrik extends beyond its architectural transformation; it embodies the spirit of cultural exchange and artistic expression in a city renowned for its historical and contemporary art narratives. As you approach the site, you’ll find an array of activities and events that appeal to both locals and tourists alike, making it an essential stop on any cultural itinerary in Berlin.
+The significance of ufaFabrik extends beyond its architectural transformation; it embodies the spirit of cultural exchange and artistic expression in a city renowned for its historical and contemporary art narratives. As you approach the site, you'll find an array of activities and events that appeal to both locals and tourists alike, making it an essential stop on any cultural itinerary in Berlin.
 
 ## History and Significance
 
@@ -62,9 +62,9 @@ While exploring the Tempelhof-Schöneberg area, you can enhance your visit by ch
    
 2. **Schöneberg Town Hall**: This historical building is renowned for its impressive architecture and its significance in Berlin's political history, particularly during the Cold War era.
 
-3. **The Berlin Wall Memorial**: A short distance away, this site provides a poignant insight into the city’s divided past, featuring preserved sections of the Wall and a visitor center with informative exhibitions.
+3. **The Berlin Wall Memorial**: A short distance away, this site provides a poignant insight into the city's divided past, featuring preserved sections of the Wall and a visitor center with informative exhibitions.
 
-4. **Kreuzberg’s Street Art**: A short journey from ufaFabrik, the vibrant street art scene in Kreuzberg showcases Berlin's creative spirit and offers a visually stimulating experience for art enthusiasts.
+4. **Kreuzberg's Street Art**: A short journey from ufaFabrik, the vibrant street art scene in Kreuzberg showcases Berlin's creative spirit and offers a visually stimulating experience for art enthusiasts.
 
 5. **Tempelhof Airport's Berlin Airlift Museum**: This museum celebrates the historical significance of the airport during the Berlin Airlift, offering exhibits that highlight this critical period in history.
 
@@ -76,7 +76,7 @@ If you're attending a specific event, arrive early to explore the outdoor areas,
 
 ## Practical Information
 
-When visiting ufaFabrik, it’s advisable to bring comfortable clothing suitable for a variety of activities, as well as a light jacket for cooler evenings, especially if you plan to spend time outdoors. Depending on the time of year, you may also want to consider seasonal factors such as rain or snow, which could affect your visit.
+When visiting ufaFabrik, it's advisable to bring comfortable clothing suitable for a variety of activities, as well as a light jacket for cooler evenings, especially if you plan to spend time outdoors. Depending on the time of year, you may also want to consider seasonal factors such as rain or snow, which could affect your visit.
 
 Be sure to check the official website for any specific recommendations regarding what to bring or any seasonal activities taking place during your visit.
 

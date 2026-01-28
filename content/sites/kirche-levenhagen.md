@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Kirche Levenhagen is a distinguished church building located in the serene village of Levenhagen, part of the Mecklenburg-Vorpommern region in Germany. This church not only serves as a place of worship but also stands as a significant cultural landmark, reflecting the architectural styles and historical narratives of the area. Surrounded by the lush landscapes typical of northern Germany, Kirche Levenhagen is a focal point for both local residents and visitors seeking to explore the region’s heritage. 
+Kirche Levenhagen is a distinguished church building located in the serene village of Levenhagen, part of the Mecklenburg-Vorpommern region in Germany. This church not only serves as a place of worship but also stands as a significant cultural landmark, reflecting the architectural styles and historical narratives of the area. Surrounded by the lush landscapes typical of northern Germany, Kirche Levenhagen is a focal point for both local residents and visitors seeking to explore the region's heritage. 
 
 The church's presence in Levenhagen speaks to the enduring nature of religious architecture in rural Germany and invites exploration of its artistic and historical elements. With its tranquil setting and historical depth, this church offers visitors a chance to reflect on the spiritual and cultural life of the community, as well as the architectural trends that have influenced church design over the centuries.
 
@@ -115,7 +115,7 @@ Check the official website for current accessibility information regarding the c
 For ticketing details, including online purchasing options, refer to the official website.
 
 ### Are there restrooms and cafes?
-While specific facilities are not mentioned, local amenities may be available; it’s advisable to check in advance.
+While specific facilities are not mentioned, local amenities may be available; it's advisable to check in advance.
 
 ### What should I wear?
 Wear comfortable clothing and shoes, and consider seasonal weather conditions when planning your outfit.

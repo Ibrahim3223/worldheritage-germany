@@ -101,7 +101,7 @@ Many trails may not be fully accessible; check specific paths for suitability.
 Check the official website for current information regarding ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check local resources for amenities.
+Facilities may vary; it's advisable to check local resources for amenities.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing and sturdy hiking shoes are recommended for your visit.

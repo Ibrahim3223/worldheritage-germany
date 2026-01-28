@@ -72,7 +72,7 @@ To enhance your visit to Heimatmuseum Heuchelheim, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid larger crowds, aim for early morning visits or weekdays. This will allow you to enjoy the exhibits with more space and fewer distractions.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about particular exhibits or artifacts. Their insights can enrich your understanding and appreciation of the collection.
+- **Engage with Staff**: Don't hesitate to ask museum staff about particular exhibits or artifacts. Their insights can enrich your understanding and appreciation of the collection.
 
 ## Practical Information
 
@@ -105,7 +105,7 @@ For accessibility information, including wheelchair access, check the official w
 It is advisable to check the official website for details regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to confirm with the museum ahead of your visit.
+Facilities may be available, but it's best to confirm with the museum ahead of your visit.
 
 ### What should I wear?
 Dress comfortably and seasonally, keeping in mind that you may be walking and standing for extended periods.

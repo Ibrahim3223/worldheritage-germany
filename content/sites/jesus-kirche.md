@@ -30,7 +30,7 @@ In the heart of Berlin's vibrant Friedrichshain-Kreuzberg district lies the Jesu
 
 ## History and Significance
 
-The Jesus-Kirche has played a vital role in the religious and cultural life of Berlin, particularly within the Friedrichshain-Kreuzberg region. While specific dates and events may be sparse, the church stands as a symbol of the resilience and continuity of community life amidst the city’s turbulent history. Throughout the years, it has served various functions, adapting to the changing needs of its congregation and the local community. 
+The Jesus-Kirche has played a vital role in the religious and cultural life of Berlin, particularly within the Friedrichshain-Kreuzberg region. While specific dates and events may be sparse, the church stands as a symbol of the resilience and continuity of community life amidst the city's turbulent history. Throughout the years, it has served various functions, adapting to the changing needs of its congregation and the local community. 
 
 The church is not merely a building; it is a space where generations have gathered for worship, reflection, and community activities. Its significance extends beyond its religious purpose, as it often hosts cultural events that foster unity and dialogue among diverse groups. This aspect of the Jesus-Kirche enhances its role within the community, making it a focal point for social gatherings, artistic performances, and educational initiatives.
 
@@ -92,10 +92,10 @@ When preparing for your visit to the Jesus-Kirche, keep these practical consider
 A visit typically lasts about one to two hours, allowing you time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to inquire upon arrival, particularly during services or events.
+Photography policies may vary; it's best to inquire upon arrival, particularly during services or events.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are offered, as this can enhance your understanding of the church’s history.
+Check the official website for information on whether guided tours are offered, as this can enhance your understanding of the church's history.
 
 ### What's the best time to visit?
 Visiting during weekdays or early mornings often provides a quieter experience, allowing for reflection and contemplation.

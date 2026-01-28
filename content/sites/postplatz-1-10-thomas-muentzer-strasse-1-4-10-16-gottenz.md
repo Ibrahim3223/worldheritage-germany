@@ -22,7 +22,7 @@ images:
 
 Postplatz 1-10 and Thomas-Müntzer-Straße 1-4, 10-16 form an architectural ensemble located in the quaint village of Gottenz, within the region of Kabelsketal, Germany. This site, recognized as a protected historic district, showcases the distinctive architectural style and cultural heritage of the area. Visitors to this site can expect to immerse themselves in the essence of rural German architecture, characterized by its unique structural designs and historical significance.
 
-Situated in the picturesque landscape of Saxony-Anhalt, Gottenz offers a serene backdrop for exploration. The architectural ensemble is not only a visual delight but also a window into the traditions and lifestyles of the region’s past inhabitants. Through its preservation, this ensemble serves as an important cultural landmark, reminding us of the architectural practices and community values that have shaped local identity over the years.
+Situated in the picturesque landscape of Saxony-Anhalt, Gottenz offers a serene backdrop for exploration. The architectural ensemble is not only a visual delight but also a window into the traditions and lifestyles of the region's past inhabitants. Through its preservation, this ensemble serves as an important cultural landmark, reminding us of the architectural practices and community values that have shaped local identity over the years.
 
 As you wander through the streets of Gottenz, you will uncover the stories embedded in the walls of these structures, each reflecting the broader narrative of the region's history. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a tranquil escape, this site promises a rewarding experience.
 
@@ -32,7 +32,7 @@ The historical context of Postplatz and Thomas-Müntzer-Straße is deeply intert
 
 In many German villages, architectural ensembles like this one serve as a reminder of communal life and the social structures that have evolved over centuries. The buildings reflect not only the practical needs of the community but also the aesthetic preferences and craftsmanship of the time. Each structure contributes to a collective narrative that highlights the evolution of agricultural practices, local governance, and community relationships.
 
-The preservation of this architectural ensemble is crucial, as it allows current and future generations to appreciate the historical context from which these buildings emerged. The architectural styles found here provide insight into the local materials available during construction, as well as the climatic conditions that influenced building techniques. In this way, the ensemble serves as an educational resource, offering a glimpse into the past while fostering a greater understanding of the region’s cultural identity.
+The preservation of this architectural ensemble is crucial, as it allows current and future generations to appreciate the historical context from which these buildings emerged. The architectural styles found here provide insight into the local materials available during construction, as well as the climatic conditions that influenced building techniques. In this way, the ensemble serves as an educational resource, offering a glimpse into the past while fostering a greater understanding of the region's cultural identity.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ The best times to visit are during the warmer months when the weather is conduci
 
 While in Gottenz, consider exploring these nearby attractions to enrich your experience:
 
-1. **Kabelsketal Town Hall**: A short drive from Gottenz, this historic building represents local governance and offers insight into the area’s administrative history.
+1. **Kabelsketal Town Hall**: A short drive from Gottenz, this historic building represents local governance and offers insight into the area's administrative history.
   
 2. **The Landscape Park of Kabelsketal**: Ideal for a leisurely walk or a picnic, this park features scenic trails and green spaces, perfect for enjoying the outdoors.
 

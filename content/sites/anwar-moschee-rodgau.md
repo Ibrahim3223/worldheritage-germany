@@ -36,13 +36,13 @@ The Anwar-Moschee serves not only as a center for prayer but also as a hub for c
 
 ## Architecture and Features
 
-The Anwar-Moschee is notable for its distinctive architectural style that combines contemporary design elements with traditional Islamic motifs. The structure is characterized by its elegant lines and thoughtfully designed spaces that cater to the needs of its worshippers. The mosque’s façade may feature intricate patterns and calligraphy, which are hallmarks of Islamic architecture, adding a layer of aesthetic beauty.
+The Anwar-Moschee is notable for its distinctive architectural style that combines contemporary design elements with traditional Islamic motifs. The structure is characterized by its elegant lines and thoughtfully designed spaces that cater to the needs of its worshippers. The mosque's façade may feature intricate patterns and calligraphy, which are hallmarks of Islamic architecture, adding a layer of aesthetic beauty.
 
 Inside, the mosque is designed to facilitate both individual reflection and communal worship. The prayer hall is spacious, allowing for gatherings of varying sizes. Natural light often plays a significant role in the interior design, creating a serene atmosphere conducive to meditation and prayer. The design reflects the principles of harmony and balance, inviting visitors to appreciate the architectural craftsmanship that embodies the spiritual essence of the mosque.
 
 ## Visiting Information
 
-When planning a visit to the Anwar-Moschee, it’s advisable to check the official website for current information regarding opening hours and any admission fees. The mosque is easily accessible by public transport, with various options available for reaching the area. Visitors can expect a respectful atmosphere, and it is encouraged to approach the site with an appreciation for its cultural significance.
+When planning a visit to the Anwar-Moschee, it's advisable to check the official website for current information regarding opening hours and any admission fees. The mosque is easily accessible by public transport, with various options available for reaching the area. Visitors can expect a respectful atmosphere, and it is encouraged to approach the site with an appreciation for its cultural significance.
 
 A typical visit may take approximately an hour, allowing time to explore the surroundings and engage with the community if possible. The best times to visit may vary, but attending during prayer times can provide a deeper understanding of the mosque's role in the community. However, for those looking for a quieter experience, visiting outside of peak prayer times is recommended.
 
@@ -87,7 +87,7 @@ Accessibility information may vary; check the official website for details on fa
 Check the official website for information regarding any admission fees and whether online ticket purchases are available.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to check in advance for restroom access and nearby dining options.
+Facilities may be limited; it's advisable to check in advance for restroom access and nearby dining options.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly as a sign of respect for the mosque and its traditions.

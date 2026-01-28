@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Church in Herrnburg is a remarkable example of ecclesiastical architecture located in the tranquil region of Lüdersdorf, Germany. This church building serves as a focal point for the local community, offering not only a place of worship but also a glimpse into the cultural and historical fabric of the area. The serene surroundings enhance the church’s significance, making it a must-visit for both locals and travelers seeking to explore the spiritual heritage of Germany.
+The Church in Herrnburg is a remarkable example of ecclesiastical architecture located in the tranquil region of Lüdersdorf, Germany. This church building serves as a focal point for the local community, offering not only a place of worship but also a glimpse into the cultural and historical fabric of the area. The serene surroundings enhance the church's significance, making it a must-visit for both locals and travelers seeking to explore the spiritual heritage of Germany.
 
 Visitors to Herrnburg will find the church to be more than just a religious site; it stands as a symbol of the enduring faith and traditions that have shaped the local culture. Its architectural features reflect the historical influences that have permeated this part of Germany, making it an essential stop for those interested in the rich narrative of the region. As you approach the church, you are invited to reflect on the generations of worshippers who have gathered within its walls, adding layers of meaning and significance to this religious edifice.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Church in Herrnburg, consider these inside
 
 ## Practical Information
 
-When planning your visit to the Church in Herrnburg, it’s wise to bring a few essentials:
+When planning your visit to the Church in Herrnburg, it's wise to bring a few essentials:
 
 - **Comfortable Shoes**: As you may want to explore the area around the church, comfortable footwear will enhance your experience.
   

@@ -28,7 +28,7 @@ image_srcset:
 
 Theresienwiese is a prominent square located in the heart of Munich, Germany. Renowned as the site of the annual Oktoberfest, this expansive area serves as a dynamic gathering space for both locals and visitors. Spanning several hectares, the square is more than just a venue for festivities; it is a focal point of cultural and social life in the city. The significance of Theresienwiese extends beyond its role in hosting large-scale events; it symbolizes the spirit of community and celebration that defines Munich.
 
-Positioned in the Ludwigsvorstadt-Isarvorstadt district, Theresienwiese is easily accessible and strategically located near other major attractions. The square’s name pays homage to Therese of Saxe-Hildburghausen, the Bavarian princess whose marriage to Crown Prince Ludwig in the early 19th century initiated the first Oktoberfest. This historical connection adds to the square’s allure, making it a must-visit for anyone exploring Munich.
+Positioned in the Ludwigsvorstadt-Isarvorstadt district, Theresienwiese is easily accessible and strategically located near other major attractions. The square's name pays homage to Therese of Saxe-Hildburghausen, the Bavarian princess whose marriage to Crown Prince Ludwig in the early 19th century initiated the first Oktoberfest. This historical connection adds to the square's allure, making it a must-visit for anyone exploring Munich.
 
 Whether you are drawn by the lively atmosphere during Oktoberfest or the open space that invites leisurely strolls and social gatherings year-round, Theresienwiese promises an engaging experience steeped in local tradition and modern vibrancy.
 

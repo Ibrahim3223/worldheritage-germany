@@ -26,7 +26,7 @@ The Steindeckerbrücke über das Schwosdorfer Wasser is a bridge located in the 
 
 The historical context of the Steindeckerbrücke is tied to the broader development of transportation networks in Germany. Bridges like this one have historically been crucial for trade, allowing goods and people to traverse natural barriers efficiently. While specific dates regarding its construction and alterations are not provided, the bridge undoubtedly reflects the evolution of engineering practices and the increasing importance of connectivity in rural areas. 
 
-The bridge’s significance is also cultural; it embodies the spirit of local communities that rely on such structures for daily activities and economic pursuits. The Schwosdorfer Wasser itself is crucial for the surrounding ecosystem, and the bridge serves as a landmark that connects residents and visitors to the natural landscape. The design and construction of the Steindeckerbrücke likely reflect regional architectural traditions, showcasing the craftsmanship and ingenuity of its builders.
+The bridge's significance is also cultural; it embodies the spirit of local communities that rely on such structures for daily activities and economic pursuits. The Schwosdorfer Wasser itself is crucial for the surrounding ecosystem, and the bridge serves as a landmark that connects residents and visitors to the natural landscape. The design and construction of the Steindeckerbrücke likely reflect regional architectural traditions, showcasing the craftsmanship and ingenuity of its builders.
 
 ## Architecture and Features
 

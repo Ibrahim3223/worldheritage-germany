@@ -80,7 +80,7 @@ Visitors should also be aware that church services and events may restrict acces
 A visit to Schlosskirche Köpenick typically takes about an hour, allowing time to explore its interior and appreciate its surroundings.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s best to be respectful of any ongoing services or events where flash photography may be discouraged.
+While photography is generally permitted, it's best to be respectful of any ongoing services or events where flash photography may be discouraged.
 
 ### Are there guided tours?
 Information on guided tours may vary; check the official website for details on availability and scheduling.
@@ -95,7 +95,7 @@ Accessibility details are best confirmed through the official website to ensure 
 Check the official website for information on ticket purchasing options and any admission fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available in the vicinity; it’s advisable to inquire locally for the nearest options.
+Facilities may be available in the vicinity; it's advisable to inquire locally for the nearest options.
 
 ### What should I wear?
 Appropriate attire is recommended, especially considering the church's sacred nature; modest clothing is often appreciated in such settings.

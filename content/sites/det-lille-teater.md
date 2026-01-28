@@ -84,7 +84,7 @@ When planning your visit to Det lille Teater, here are some practical considerat
 
 - **What to Bring**: Dress comfortably, as you may be sitting for an extended period. If attending a performance during cooler months, bring a light jacket or sweater, as theatres can sometimes be chilly.
 
-- **Seasonal Considerations**: Depending on the time of year, check the local weather forecast and plan accordingly. If you’re visiting during summer, consider the longer daylight hours for exploring the city before or after your visit.
+- **Seasonal Considerations**: Depending on the time of year, check the local weather forecast and plan accordingly. If you're visiting during summer, consider the longer daylight hours for exploring the city before or after your visit.
 
 ## Frequently Asked Questions
 

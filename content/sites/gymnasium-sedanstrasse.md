@@ -30,7 +30,7 @@ Gymnasium Sedanstraße is an architectural structure located in Wuppertal, Germa
 
 ## History and Significance
 
-The Gymnasium Sedanstraße holds a prominent place in Wuppertal’s educational history. Though specific dates and events may not be available, the institution has contributed to the academic development of numerous students over the years. As a school building, it serves a crucial role in shaping the future leaders and thinkers of the community. 
+The Gymnasium Sedanstraße holds a prominent place in Wuppertal's educational history. Though specific dates and events may not be available, the institution has contributed to the academic development of numerous students over the years. As a school building, it serves a crucial role in shaping the future leaders and thinkers of the community. 
 
 The significance of Gymnasium Sedanstraße extends beyond its function as an educational establishment; it represents the evolution of educational architecture in Germany. This structure reflects changing educational philosophies and societal needs over time, showcasing how the environment in which learning occurs can influence student development and community engagement. The school's long-standing presence in Wuppertal signifies its resilience and adaptability, ensuring that it meets contemporary educational demands while preserving its historical essence.
 

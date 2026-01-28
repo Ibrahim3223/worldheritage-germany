@@ -108,4 +108,4 @@ Facilities may vary; please refer to the official website for information about 
 ### What should I wear?
 Dress comfortably and consider seasonal weather; sturdy shoes are recommended for exploring the area.
 
-In summary, the Muldentalbahn and Brücke Oberwinkel stand as important markers of Germany’s transport heritage, inviting visitors to explore not just a bridge but a narrative of connection, progress, and community. Whether you're a local or a traveler, this site promises a meaningful experience steeped in history and architectural significance.
+In summary, the Muldentalbahn and Brücke Oberwinkel stand as important markers of Germany's transport heritage, inviting visitors to explore not just a bridge but a narrative of connection, progress, and community. Whether you're a local or a traveler, this site promises a meaningful experience steeped in history and architectural significance.

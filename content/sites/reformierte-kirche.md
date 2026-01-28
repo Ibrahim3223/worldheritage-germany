@@ -66,7 +66,7 @@ Emden is home to several attractions that complement a visit to the Reformierte 
 
 4. **Bunker Museum**: A unique site that highlights Emden's history during World War II, offering guided tours and exhibitions that explore the city's wartime experiences.
 
-5. **Fishermen's Harbour**: A picturesque area where visitors can enjoy fresh seafood and watch local fishermen at work, embodying the city’s maritime heritage.
+5. **Fishermen's Harbour**: A picturesque area where visitors can enjoy fresh seafood and watch local fishermen at work, embodying the city's maritime heritage.
 
 ## Insider Tips
 

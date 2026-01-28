@@ -70,7 +70,7 @@ To enhance your experience at Altes Haus Greifenstein, consider the following ti
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or early in the day. This can provide a more intimate atmosphere for exploration.
 
-- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for what to see.
+- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for what to see.
 
 ## Practical Information
 
@@ -90,7 +90,7 @@ Always check the official website for any seasonal activities or special events 
 The recommended visit duration typically ranges from one to two hours, allowing ample time to engage with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for specific guidelines upon arrival.
+Photography policies may vary, so it's best to check for specific guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the exhibits and the museum's significance.

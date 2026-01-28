@@ -88,7 +88,7 @@ Guided tours may not be available specifically for the bridge, but local tours i
 Early mornings or late afternoons are ideal for a quieter experience and better lighting for photography.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s advisable to check the official website for current information regarding accessibility features.
+Accessibility details are not specified; it's advisable to check the official website for current information regarding accessibility features.
 
 ### Can I buy tickets online?
 Ticketing information is not provided; please check the official website for details on any potential fees and purchasing options.

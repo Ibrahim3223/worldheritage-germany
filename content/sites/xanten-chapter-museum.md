@@ -50,7 +50,7 @@ Notably, the museum features a selection of liturgical objects that are integral
 
 Visiting the Xanten Chapter Museum is a rewarding experience, offering insights into the region's ecclesiastical heritage. To make the most of your visit, plan your journey by researching transportation options to Xanten. The town is accessible by various means, including train and bus services, which provide convenient connections to larger cities in the region.
 
-As for practical details, it’s advisable to check the official website for current information regarding operating hours and ticket prices. This ensures that you have the latest updates before your visit. The museum typically welcomes guests throughout the week, but hours may vary, especially during holidays or special events.
+As for practical details, it's advisable to check the official website for current information regarding operating hours and ticket prices. This ensures that you have the latest updates before your visit. The museum typically welcomes guests throughout the week, but hours may vary, especially during holidays or special events.
 
 Allocate sufficient time to fully engage with the exhibits, as the museum offers a depth of content that can be appreciated over a leisurely visit. Depending on your interest level, plan to spend at least a couple of hours exploring the collections.
 

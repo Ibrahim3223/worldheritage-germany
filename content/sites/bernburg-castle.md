@@ -72,11 +72,11 @@ Bernburg Castle is conveniently located near several attractions that can comple
 
 To make the most of your visit to Bernburg Castle, consider a few insider tips. Photography is generally allowed, but be mindful of any specific restrictions in certain exhibition areas. Early mornings or weekdays are often less crowded, allowing for a more relaxed experience as you explore the castle's interior and grounds.
 
-Don’t hesitate to ask staff for recommendations on exhibits or favorite spots within the castle. Engaging with knowledgeable staff can enhance your understanding of the site's history and significance.
+Don't hesitate to ask staff for recommendations on exhibits or favorite spots within the castle. Engaging with knowledgeable staff can enhance your understanding of the site's history and significance.
 
 ## Practical Information
 
-When planning your visit to Bernburg Castle, it’s wise to prepare for the day accordingly. Comfortable walking shoes are recommended, as exploring the castle and its grounds may involve some walking and climbing stairs. Depending on the season, consider dressing in layers, as temperatures can vary throughout the day. 
+When planning your visit to Bernburg Castle, it's wise to prepare for the day accordingly. Comfortable walking shoes are recommended, as exploring the castle and its grounds may involve some walking and climbing stairs. Depending on the season, consider dressing in layers, as temperatures can vary throughout the day. 
 
 During the summer months, bringing sun protection is advisable, while in winter, appropriate clothing will ensure you stay warm while enjoying the castle's outdoor features.
 

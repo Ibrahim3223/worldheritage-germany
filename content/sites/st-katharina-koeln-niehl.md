@@ -36,7 +36,7 @@ The history of St. Katharina is intricately woven into the broader narrative of 
 
 While specific dates of construction and significant events in its history are not detailed, the church's architectural style and design reflect the enduring traditions of Roman Catholicism in the region. Historically, churches like St. Katharina have not only served as places of worship but also as centers for community activity, education, and support, thereby cementing their place as pillars of society.
 
-The cultural importance of St. Katharina can also be seen in its role in the annual liturgical calendar, where various festivals and religious observances take place, drawing together the community in celebration and reflection. The church’s continued relevance in modern times underscores its significance as a heritage site that captures the evolution of religious practice in Cologne.
+The cultural importance of St. Katharina can also be seen in its role in the annual liturgical calendar, where various festivals and religious observances take place, drawing together the community in celebration and reflection. The church's continued relevance in modern times underscores its significance as a heritage site that captures the evolution of religious practice in Cologne.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ Visitors might also notice decorative motifs that resonate with both religious s
 
 When planning a visit to St. Katharina, there are several factors to consider to ensure a fulfilling experience. The church is located in Köln-Niehl, easily accessible via public transportation. The local transit system provides convenient options for reaching the site, making it a straightforward destination for both residents and travelers.
 
-Check the official website for current information regarding hours of operation and any potential admission fees. It’s advisable to allocate sufficient time for your visit—generally, one to two hours should allow you to explore the church and its surroundings fully. Visiting during weekdays may offer a quieter experience, while weekends might see more visitors attending services.
+Check the official website for current information regarding hours of operation and any potential admission fees. It's advisable to allocate sufficient time for your visit—generally, one to two hours should allow you to explore the church and its surroundings fully. Visiting during weekdays may offer a quieter experience, while weekends might see more visitors attending services.
 
 Additionally, be sure to check for any special events or services that may be occurring during your visit, as these can provide unique insights into the church's role in the community. As you explore, take a moment to appreciate the peaceful atmosphere and consider joining in any ongoing activities that may be open to visitors.
 
@@ -92,7 +92,7 @@ When preparing for your visit to St. Katharina, it's helpful to keep a few pract
 One to two hours is typically sufficient to explore St. Katharina and appreciate its features.
 
 ### Is photography allowed?
-Photography rules may vary; it’s best to check for signage or ask staff for permission.
+Photography rules may vary; it's best to check for signage or ask staff for permission.
 
 ### Are there guided tours?
 While specific tours may not be mentioned, inquire at the church for possible guided opportunities.
@@ -107,7 +107,7 @@ Check the official website for information regarding accessibility features at S
 For admission and event tickets, check the official website for the latest information.
 
 ### Are there restrooms and cafes?
-Local amenities may vary; it’s advisable to check nearby facilities for restrooms and dining options.
+Local amenities may vary; it's advisable to check nearby facilities for restrooms and dining options.
 
 ### What should I wear?
 Modest and respectful attire is recommended when visiting a religious site like St. Katharina.

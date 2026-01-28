@@ -101,7 +101,7 @@ Access for individuals with mobility challenges may vary. It's recommended to ch
 Check the official website for information regarding ticket purchases and any special entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available on site or nearby. It’s advisable to inquire about these amenities upon your arrival.
+Facilities may be available on site or nearby. It's advisable to inquire about these amenities upon your arrival.
 
 ### What should I wear?
 Modest attire is recommended to respect the sacred nature of the church, especially if you intend to participate in any services.

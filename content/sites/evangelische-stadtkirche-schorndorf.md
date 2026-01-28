@@ -28,7 +28,7 @@ image_srcset:
 
 The Evangelische Stadtkirche in Schorndorf is a significant landmark that reflects the architectural and spiritual heritage of the region. As an important church building in Germany, it serves as a focal point for both local residents and visitors alike. Its location in Schorndorf, a charming town known for its historical roots and vibrant cultural scene, further enhances the church's appeal. The Evangelische Stadtkirche stands as a symbol of the Protestant faith and an embodiment of the community's historical narrative.
 
-Visitors to Schorndorf can expect to be welcomed by the church’s impressive structure, which has been a part of the town's landscape for generations. The church is not only a place of worship but also a site of historical significance, offering insights into the region's past and the evolution of its architectural styles. Whether you are seeking spiritual solace or a deeper understanding of local heritage, the Evangelische Stadtkirche promises a meaningful experience.
+Visitors to Schorndorf can expect to be welcomed by the church's impressive structure, which has been a part of the town's landscape for generations. The church is not only a place of worship but also a site of historical significance, offering insights into the region's past and the evolution of its architectural styles. Whether you are seeking spiritual solace or a deeper understanding of local heritage, the Evangelische Stadtkirche promises a meaningful experience.
 
 ## History and Significance
 

@@ -44,7 +44,7 @@ Textilfabrik Cromford is characterized by its industrial architecture, showcasin
 
 Inside the museum, various features highlight the operational aspects of textile manufacturing. Visitors may encounter original machinery, tools, and artifacts that provide insight into the operations of the factory during its heyday. The layout of the museum is designed to guide visitors through different aspects of textile production, from raw material processing to finished goods. 
 
-In addition to the machinery, there are often informative displays and exhibitions that explain the historical context of the factory’s operations. By presenting both the technical and historical narratives, Textilfabrik Cromford ensures a comprehensive understanding of the significance of textile manufacturing in shaping modern economies.
+In addition to the machinery, there are often informative displays and exhibitions that explain the historical context of the factory's operations. By presenting both the technical and historical narratives, Textilfabrik Cromford ensures a comprehensive understanding of the significance of textile manufacturing in shaping modern economies.
 
 ## Visiting Information
 
@@ -64,7 +64,7 @@ While visiting Textilfabrik Cromford, consider exploring other attractions in th
 
 3. **St. Peter and Paul Church** - A historic church in Ratingen, known for its beautiful architecture and tranquil setting, providing a peaceful contrast to the industrial heritage of the area.
 
-4. **Schloss Linnep** - This historical castle offers a glimpse into the region’s past, with picturesque grounds and an inviting atmosphere for a day out.
+4. **Schloss Linnep** - This historical castle offers a glimpse into the region's past, with picturesque grounds and an inviting atmosphere for a day out.
 
 5. **Düsseldorf** - Just a short distance away, the vibrant city of Düsseldorf offers shopping, dining, and cultural experiences, making it an excellent addition to your visit.
 

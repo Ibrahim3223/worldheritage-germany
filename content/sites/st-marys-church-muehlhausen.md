@@ -42,7 +42,7 @@ Throughout its existence, St. Mary's Church has witnessed countless events that 
 
 St. Mary's Church showcases a diverse range of architectural elements that reflect its long history and the artistic trends of various periods. The structure itself is notable for its impressive design, which combines functionality with aesthetic appeal. The church's façade features intricate details that invite close examination, while the interior offers a serene atmosphere conducive to reflection and worship.
 
-Visitors will appreciate the church’s spacious nave and beautifully crafted altars, which serve as focal points within the sanctuary. The design elements, from the stained glass windows to the wooden beams, contribute to the overall ambiance, creating a harmonious blend of light and space. The church’s layout is typical of ecclesiastical architecture, with a focus on guiding visitors toward the altar as the spiritual center.
+Visitors will appreciate the church's spacious nave and beautifully crafted altars, which serve as focal points within the sanctuary. The design elements, from the stained glass windows to the wooden beams, contribute to the overall ambiance, creating a harmonious blend of light and space. The church's layout is typical of ecclesiastical architecture, with a focus on guiding visitors toward the altar as the spiritual center.
 
 Noteworthy features include various artworks and decorations that have been carefully preserved over time. These elements not only enhance the visual experience but also tell stories of the church's past, reflecting the artistic endeavors of the period. The combination of functional design and artistic expression makes St. Mary's Church a remarkable site for those interested in both architecture and history.
 
@@ -66,7 +66,7 @@ Mühlhausen offers several attractions that complement a visit to St. Mary's Chu
 
 4. **The Thuringian Forest**: For those seeking outdoor activities, this nearby forest offers walking trails and scenic views of the natural landscape, ideal for a pleasant afternoon excursion.
 
-5. **The Mühlhausen Fortress**: Explore the remnants of the town’s historical fortifications, which provide insights into the town's defensive architecture and its role in regional history.
+5. **The Mühlhausen Fortress**: Explore the remnants of the town's historical fortifications, which provide insights into the town's defensive architecture and its role in regional history.
 
 ## Insider Tips
 

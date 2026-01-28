@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Braunsmühle, a historic windmill located in Kaarst, Germany, serves as a fascinating example of traditional milling technology and rural heritage. This charming structure offers visitors a glimpse into the past, showcasing the craftsmanship and ingenuity of windmill design. Situated amidst the serene backdrop of Kaarst, Braunsmühle stands out as a significant cultural landmark that reflects the region’s agricultural history.
+Braunsmühle, a historic windmill located in Kaarst, Germany, serves as a fascinating example of traditional milling technology and rural heritage. This charming structure offers visitors a glimpse into the past, showcasing the craftsmanship and ingenuity of windmill design. Situated amidst the serene backdrop of Kaarst, Braunsmühle stands out as a significant cultural landmark that reflects the region's agricultural history.
 
 Windmills like Braunsmühle were once vital to local economies, providing essential milling services to communities before the advent of modern technology. Today, this windmill not only highlights the importance of preserving historical structures but also serves as a point of interest for those eager to explore the rich agricultural traditions of Germany. Visitors to Braunsmühle can expect an engaging experience that connects them to the landscape and history of the region.
 
-The windmill’s striking form and historical significance make it a worthwhile destination for travelers and history enthusiasts alike. More than just a relic of the past, Braunsmühle represents the enduring legacy of wind-powered technology in the heart of Kaarst.
+The windmill's striking form and historical significance make it a worthwhile destination for travelers and history enthusiasts alike. More than just a relic of the past, Braunsmühle represents the enduring legacy of wind-powered technology in the heart of Kaarst.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ Braunsmühle exemplifies the classic design of traditional windmills, characteri
 
 Notable features of Braunsmühle include its large wooden sails, which are designed to catch the wind and turn the millstone, as well as the intricate machinery housed within the mill. Visitors can appreciate the craftsmanship that has gone into maintaining the windmill and its operational components, which serve as a testament to the engineering skills of the time.
 
-The surrounding landscape complements the windmill’s design, with open fields that provide a picturesque setting for this historical structure. The combination of the windmill's architecture and its natural surroundings offers a unique visual experience that captures the essence of rural life in Kaarst.
+The surrounding landscape complements the windmill's design, with open fields that provide a picturesque setting for this historical structure. The combination of the windmill's architecture and its natural surroundings offers a unique visual experience that captures the essence of rural life in Kaarst.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ Visiting Braunsmühle is an enriching experience that allows guests to delve int
 
 The windmill is accessible by public transport, with various options available for those traveling from nearby cities. For those driving, parking facilities may be available nearby, making it convenient for families and groups. 
 
-Expect a leisurely visit, during which you can explore the exterior of the windmill and take in its architectural features. It’s recommended to allocate a couple of hours to fully appreciate the site and its surroundings. 
+Expect a leisurely visit, during which you can explore the exterior of the windmill and take in its architectural features. It's recommended to allocate a couple of hours to fully appreciate the site and its surroundings. 
 
 The best times to visit are during the spring and summer months, when the weather is generally pleasant, and the landscape is vibrant. Special events or demonstrations may be held at certain times of the year, providing additional opportunities for engagement.
 
@@ -74,7 +74,7 @@ While visiting Braunsmühle, consider exploring these nearby attractions:
 
 ## Insider Tips
 
-When visiting Braunsmühle, photography can enhance your experience, so be sure to bring a camera to capture the beauty of the windmill against the backdrop of Kaarst’s landscape. Early mornings or late afternoons offer the best natural lighting for photography, while also helping to avoid larger crowds.
+When visiting Braunsmühle, photography can enhance your experience, so be sure to bring a camera to capture the beauty of the windmill against the backdrop of Kaarst's landscape. Early mornings or late afternoons offer the best natural lighting for photography, while also helping to avoid larger crowds.
 
 To make the most of your visit, consider planning your trip during mid-week when there are typically fewer visitors, allowing for a more intimate experience with the site. Engaging with any available guides or informational displays can enrich your understanding of the windmill's history and significance.
 
@@ -99,7 +99,7 @@ Check the official website for information regarding guided tours, as offerings 
 The best times to visit are during spring and summer when the weather is pleasant, and the landscape is vibrant.
 
 ### Is it wheelchair accessible?
-Information on accessibility can vary, so it’s best to check the official website for details.
+Information on accessibility can vary, so it's best to check the official website for details.
 
 ### Can I buy tickets online?
 For current information on ticketing, including online purchases, please check the official website.

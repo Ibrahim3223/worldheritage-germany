@@ -28,7 +28,7 @@ The foundation serves as a reminder of the ongoing social challenges faced by ma
 
 ## History and Significance
 
-Köster-Stiftung has emerged as a pivotal player in Hamburg's social landscape, focusing on the pressing issues of housing and welfare for specific vulnerable demographics. The foundation was established with a clear vision: to construct living accommodations for families with children and elderly individuals who may struggle to secure safe and affordable housing. This commitment to social welfare is deeply rooted in the values of compassion and community support, which are essential components of Hamburg’s civic identity.
+Köster-Stiftung has emerged as a pivotal player in Hamburg's social landscape, focusing on the pressing issues of housing and welfare for specific vulnerable demographics. The foundation was established with a clear vision: to construct living accommodations for families with children and elderly individuals who may struggle to secure safe and affordable housing. This commitment to social welfare is deeply rooted in the values of compassion and community support, which are essential components of Hamburg's civic identity.
 
 While specific dates surrounding its founding are not disclosed, the foundation has been active in promoting social responsibility and inclusivity in the region. Its initiatives resonate with the historical context of post-war recovery in Germany, where community-driven efforts were integral in addressing housing shortages and supporting those affected by societal upheaval. The foundation's efforts are particularly significant in a city like Hamburg, known for its dynamic cultural landscape and economic diversity.
 
@@ -48,13 +48,13 @@ Köster-Stiftung's buildings serve not only as living spaces but also as symbols
 
 ## Visiting Information
 
-Visiting Köster-Stiftung provides an opportunity to engage with a vital aspect of Hamburg’s social fabric. Although the foundation primarily serves its residents, interested visitors can gain insight into its operations and community impact. 
+Visiting Köster-Stiftung provides an opportunity to engage with a vital aspect of Hamburg's social fabric. Although the foundation primarily serves its residents, interested visitors can gain insight into its operations and community impact. 
 
 For transport options, Hamburg has a well-developed public transportation system that includes buses and trains, making it accessible from various points in the city. Visitors should plan their routes accordingly, ensuring they arrive at the foundation with ease.
 
 As the foundation's operational hours and any potential entry fees can vary, it is advisable to check the official website for current information before visiting. This will provide the most accurate details regarding visiting hours and any specific guidelines for guests.
 
-Expect to spend a brief amount of time learning about the foundation’s work, interacting with staff, and understanding the significance of its initiatives. While the visit may not require an entire day, it offers valuable insights into the intersection of social welfare and urban living.
+Expect to spend a brief amount of time learning about the foundation's work, interacting with staff, and understanding the significance of its initiatives. While the visit may not require an entire day, it offers valuable insights into the intersection of social welfare and urban living.
 
 The best times to visit would typically be during weekdays when staff are present to provide information, allowing for a more enriching experience. However, it's always prudent to verify availability in advance.
 
@@ -70,7 +70,7 @@ While exploring Köster-Stiftung, visitors can also enjoy several nearby attract
 
 4. **Elbphilharmonie** - An architectural marvel, this concert hall is famous for its unique design and acoustics, offering an array of musical performances.
 
-5. **St. Michael's Church** - One of Hamburg’s most famous landmarks, this baroque church features a stunning tower that provides panoramic views of the city.
+5. **St. Michael's Church** - One of Hamburg's most famous landmarks, this baroque church features a stunning tower that provides panoramic views of the city.
 
 These attractions provide a diverse range of experiences, allowing visitors to appreciate both the heritage and modern vibrancy of Hamburg.
 
@@ -105,7 +105,7 @@ Currently, specific guided tours may not be available; however, staff are often 
 Weekdays are generally better for visiting, as staff availability is higher and crowds are smaller.
 
 ### Is it wheelchair accessible?
-The foundation is likely designed with accessibility in mind, but it’s best to confirm specific details on the official website.
+The foundation is likely designed with accessibility in mind, but it's best to confirm specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for any requirements regarding entry or participation in events.

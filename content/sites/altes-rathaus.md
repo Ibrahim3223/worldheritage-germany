@@ -40,13 +40,13 @@ The museum's mission revolves around curating and preserving collections that re
 
 Furthermore, the museum plays a vital role in educational outreach, providing workshops and exhibitions that engage the community. Through various programs, it strengthens the connection between art and the public, ensuring that future generations can appreciate and participate in the artistic community.
 
-By embracing both historical and modern art, Altes Rathaus stands as an important cultural institution within Germany, contributing to the broader narrative of the country’s artistic development. Its location within the charming town of Wittlich adds to its allure, making it a focal point for both residents and visitors alike.
+By embracing both historical and modern art, Altes Rathaus stands as an important cultural institution within Germany, contributing to the broader narrative of the country's artistic development. Its location within the charming town of Wittlich adds to its allure, making it a focal point for both residents and visitors alike.
 
 ## Architecture and Features
 
 The Altes Rathaus exhibits a blend of architectural styles, reflective of its evolution over the years. While specific architectural details may not be outlined, the building's façade and structural elements suggest a historical character that is synonymous with many German municipal buildings. The design likely incorporates traditional aspects that echo the architectural trends of its time, offering a glimpse into the construction practices of the past.
 
-Inside, visitors can expect to find a thoughtfully organized exhibition space that is conducive to appreciating artworks. The layout is designed to facilitate a smooth flow of traffic, allowing guests to engage with the various displays without feeling crowded. The museum’s ambiance is enhanced by its artistic collections, which are often curated to create thematic exhibitions that resonate with the audience.
+Inside, visitors can expect to find a thoughtfully organized exhibition space that is conducive to appreciating artworks. The layout is designed to facilitate a smooth flow of traffic, allowing guests to engage with the various displays without feeling crowded. The museum's ambiance is enhanced by its artistic collections, which are often curated to create thematic exhibitions that resonate with the audience.
 
 Notable features of the museum include its commitment to showcasing the works of local artists, which not only enriches the collection but also fosters a sense of community pride. The museum may also host temporary exhibitions that feature both emerging and established artists, ensuring that there is always something new to discover.
 
@@ -68,7 +68,7 @@ While in Wittlich, take advantage of the opportunity to explore additional attra
 
 1. **Wittlich's Old Town**: Stroll through the charming streets of the old town, where you can admire traditional architecture and vibrant local shops. 
 
-2. **St. Markus Church**: This historic church features stunning stained glass windows and intricate woodwork, providing insight into the region’s religious history.
+2. **St. Markus Church**: This historic church features stunning stained glass windows and intricate woodwork, providing insight into the region's religious history.
 
 3. **Moselle Valley**: A short distance away, the Moselle Valley offers scenic views, vineyards, and opportunities for wine tasting, showcasing the region's renowned wine culture.
 
@@ -80,7 +80,7 @@ While in Wittlich, take advantage of the opportunity to explore additional attra
 
 To enhance your visit to Altes Rathaus, consider these insider tips:
 
-- **Photography**: If you plan to take photos, check the museum’s policy regarding photography, as some exhibitions may have restrictions. If permitted, be mindful of other visitors when capturing your shots.
+- **Photography**: If you plan to take photos, check the museum's policy regarding photography, as some exhibitions may have restrictions. If permitted, be mindful of other visitors when capturing your shots.
 
 - **Crowd Avoidance**: Aim to visit during weekday mornings for a quieter experience, allowing you to fully appreciate the art without the hustle and bustle of larger crowds.
 
@@ -111,7 +111,7 @@ Check the official website to see if guided tours are offered, as they can provi
 Weekdays, especially in the morning, tend to be quieter, making them ideal for a more relaxed visit.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s best to contact the museum directly or check their official website.
+For specific accessibility information, it's best to contact the museum directly or check their official website.
 
 ### Can I buy tickets online?
 Check the official website for the latest information on ticket purchasing options, including online sales.

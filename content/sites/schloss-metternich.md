@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Schloss Metternich, a striking manor house located in the picturesque Bad Neuenahr-Ahrweiler region of Germany, is a destination that invites visitors to explore its historical and architectural significance. Set against the serene backdrop of the German landscape, this manor offers a glimpse into the country’s aristocratic past, showcasing intricate designs and a sense of grandeur that transports guests to a different era. The estate's compelling history and charming surroundings make it an essential stop for those interested in cultural heritage and architectural beauty.
+Schloss Metternich, a striking manor house located in the picturesque Bad Neuenahr-Ahrweiler region of Germany, is a destination that invites visitors to explore its historical and architectural significance. Set against the serene backdrop of the German landscape, this manor offers a glimpse into the country's aristocratic past, showcasing intricate designs and a sense of grandeur that transports guests to a different era. The estate's compelling history and charming surroundings make it an essential stop for those interested in cultural heritage and architectural beauty.
 
-As you approach Schloss Metternich, you’ll find yourself captivated by its elegant facade and historical allure. The manor house stands as a representation of the traditional Herrenhause architecture prevalent in Germany, embodying a lifestyle that reflects the opulence and societal structure of its time. The estate serves not only as a monument to the past but also as a location for contemporary events and gatherings, bridging historical significance with modern-day relevance.
+As you approach Schloss Metternich, you'll find yourself captivated by its elegant facade and historical allure. The manor house stands as a representation of the traditional Herrenhause architecture prevalent in Germany, embodying a lifestyle that reflects the opulence and societal structure of its time. The estate serves not only as a monument to the past but also as a location for contemporary events and gatherings, bridging historical significance with modern-day relevance.
 
 Visitors to Schloss Metternich can expect a thoughtful exploration of its rich narrative, complemented by opportunities to appreciate its architectural features. The site promises an enriching experience for history enthusiasts, architecture lovers, and anyone seeking a deeper understanding of the region's cultural heritage.
 
@@ -70,7 +70,7 @@ While visiting Schloss Metternich, consider exploring some nearby attractions to
 
 For photography enthusiasts, Schloss Metternich offers numerous angles for capturing its architectural beauty. Early mornings or late afternoons can provide softer lighting, ideal for striking images. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons.
 
-When exploring the manor, be respectful of the property and its rules. Engaging with the site’s staff can enhance your experience, as they often share valuable insights and stories related to the history of the manor.
+When exploring the manor, be respectful of the property and its rules. Engaging with the site's staff can enhance your experience, as they often share valuable insights and stories related to the history of the manor.
 
 ## Practical Information
 
@@ -99,7 +99,7 @@ For information regarding accessibility, consult the official website or contact
 Check the official website for details on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to confirm specifics through the official website.
+Facilities may be available on-site, but it's best to confirm specifics through the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to spend time outdoors exploring the grounds.

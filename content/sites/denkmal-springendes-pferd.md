@@ -34,7 +34,7 @@ Visitors to the statue will find it surrounded by a vibrant atmosphere, with pat
 
 ## History and Significance
 
-Although specific historical details about the Denkmal Springendes Pferd are sparse, the statue holds considerable importance within the local community. Statues such as this one often serve to commemorate significant aspects of cultural heritage, embodying the values and stories of the region. In many cases, equestrian statues symbolize strength, freedom, and the relationship between humans and animals, elements that resonate deeply in many cultures, including Germany’s.
+Although specific historical details about the Denkmal Springendes Pferd are sparse, the statue holds considerable importance within the local community. Statues such as this one often serve to commemorate significant aspects of cultural heritage, embodying the values and stories of the region. In many cases, equestrian statues symbolize strength, freedom, and the relationship between humans and animals, elements that resonate deeply in many cultures, including Germany's.
 
 The leaping horse is a powerful image, often associated with vitality and movement, reflecting the dynamism of life in Bergheim. Statues like the Denkmal Springendes Pferd often become landmarks and points of pride for local residents, fostering a sense of identity and continuity. Visitors may find that the statue not only represents artistic skill but also serves as a gathering place for community events and celebrations, further anchoring its significance in the hearts of the people.
 
@@ -60,13 +60,13 @@ Plan to spend approximately an hour at the site to fully appreciate the statue a
 
 While the Denkmal Springendes Pferd is a highlight in Bergheim, the area is home to several other attractions that enhance the visitor experience:
 
-1. **Bergheim Castle**: A historical site that offers insight into the region’s past, featuring architectural beauty and scenic grounds.
+1. **Bergheim Castle**: A historical site that offers insight into the region's past, featuring architectural beauty and scenic grounds.
 
 2. **St. John's Church**: An impressive example of Gothic architecture, this church is a must-visit for those interested in religious history and stunning design.
 
 3. **Local Parks**: Numerous parks in the vicinity provide opportunities for leisurely walks, picnics, and enjoying the local flora and fauna.
 
-4. **Museum of Local History**: A small museum that showcases artifacts and exhibitions related to Bergheim’s development, perfect for those wishing to delve deeper into the town's heritage.
+4. **Museum of Local History**: A small museum that showcases artifacts and exhibitions related to Bergheim's development, perfect for those wishing to delve deeper into the town's heritage.
 
 5. **Cafés and Shops**: The town features various eateries and shops where visitors can enjoy local cuisine and purchase unique souvenirs.
 
@@ -100,7 +100,7 @@ Early mornings and late afternoons are ideal for fewer crowds and better lightin
 The statue itself is located in an outdoor area; however, it is best to check the official site for detailed accessibility information.
 
 ### Can I buy tickets online?
-No tickets are required for visiting the statue, but it’s advisable to confirm any details on the official website.
+No tickets are required for visiting the statue, but it's advisable to confirm any details on the official website.
 
 ### Are there restrooms and cafes?
 Restroom facilities may be available nearby, and various cafés in the town offer refreshments.

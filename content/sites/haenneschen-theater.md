@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Cologne, Germany, the Hänneschen-Theater captures the essence of traditional puppet theater, offering a unique cultural experience that appeals to audiences of all ages. This charming venue, located in the Altstadt-Nord district, serves as a vibrant hub for puppetry, showcasing both classic tales and contemporary narratives through the art of marionette performance. The theater not only entertains but also preserves the rich heritage of puppetry, making it a significant landmark in the city’s cultural landscape. Visitors can expect to immerse themselves in an enchanting world where creativity and craftsmanship converge, providing a memorable outing for families, tourists, and puppetry enthusiasts alike.
+In the heart of Cologne, Germany, the Hänneschen-Theater captures the essence of traditional puppet theater, offering a unique cultural experience that appeals to audiences of all ages. This charming venue, located in the Altstadt-Nord district, serves as a vibrant hub for puppetry, showcasing both classic tales and contemporary narratives through the art of marionette performance. The theater not only entertains but also preserves the rich heritage of puppetry, making it a significant landmark in the city's cultural landscape. Visitors can expect to immerse themselves in an enchanting world where creativity and craftsmanship converge, providing a memorable outing for families, tourists, and puppetry enthusiasts alike.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ The Hänneschen-Theater holds a special place in the cultural fabric of Cologne.
 
 Cultural significance stems from the theater's dedication to maintaining the traditions of folk theater, specifically the famed "Hänneschen" character, which is deeply rooted in Cologne's history. The theater has played a pivotal role in promoting this unique form of art, ensuring that it continues to thrive in the modern era. Through its performances, Hänneschen-Theater serves as a bridge between the past and present, engaging contemporary viewers while honoring its historical roots.
 
-Moreover, the theater is an essential part of Cologne's artistic community, frequently collaborating with local artists and schools to inspire a new generation of puppeteers. This engagement not only fosters creativity but also strengthens community ties, ensuring that the art of puppetry remains a vibrant part of Cologne’s cultural identity.
+Moreover, the theater is an essential part of Cologne's artistic community, frequently collaborating with local artists and schools to inspire a new generation of puppeteers. This engagement not only fosters creativity but also strengthens community ties, ensuring that the art of puppetry remains a vibrant part of Cologne's cultural identity.
 
 ## Architecture and Features
 
@@ -46,9 +46,9 @@ The Hänneschen-Theater is not merely a performance space; it is a place where t
 
 ## Visiting Information
 
-Visiting the Hänneschen-Theater is a delightful experience that calls for some planning. For those traveling by public transport, the theater is accessible via Cologne’s extensive network, making it convenient to reach from various parts of the city. Check the official website for current information regarding hours and ticket prices, as these can vary depending on the performance schedule.
+Visiting the Hänneschen-Theater is a delightful experience that calls for some planning. For those traveling by public transport, the theater is accessible via Cologne's extensive network, making it convenient to reach from various parts of the city. Check the official website for current information regarding hours and ticket prices, as these can vary depending on the performance schedule.
 
-When planning your visit, consider allocating a couple of hours to fully enjoy the experience, including the performance and any additional time spent at the venue. It’s advisable to check the schedule ahead of time as performances can be popular, especially during weekends and holidays.
+When planning your visit, consider allocating a couple of hours to fully enjoy the experience, including the performance and any additional time spent at the venue. It's advisable to check the schedule ahead of time as performances can be popular, especially during weekends and holidays.
 
 The best times to visit may depend on the specific shows being offered, so keep an eye out for family-friendly performances or special events that might enhance your experience. Visitors can expect a lively atmosphere, particularly before shows, with the anticipation of the audience adding to the excitement.
 
@@ -68,7 +68,7 @@ While your visit to the Hänneschen-Theater is sure to be memorable, there are s
 
 ## Insider Tips
 
-- **Photography Tips**: While photography is generally allowed during performances, it’s best to check with the theater staff beforehand to avoid any disruptions.
+- **Photography Tips**: While photography is generally allowed during performances, it's best to check with the theater staff beforehand to avoid any disruptions.
 
 - **Crowd Avoidance**: To enjoy a more relaxed experience, consider attending weekday performances, which tend to be less crowded than those on weekends.
 
@@ -76,7 +76,7 @@ While your visit to the Hänneschen-Theater is sure to be memorable, there are s
 
 When planning your visit to the Hänneschen-Theater, there are a few practical considerations to keep in mind:
 
-- **What to Bring**: It’s advisable to bring a light jacket or sweater, as theaters can sometimes be cooler than expected. Make sure to also have your camera ready if photography is permitted.
+- **What to Bring**: It's advisable to bring a light jacket or sweater, as theaters can sometimes be cooler than expected. Make sure to also have your camera ready if photography is permitted.
 
 - **Seasonal Considerations**: Depending on the time of year, check for any seasonal performances or special events that might enhance your visit, as well as weather conditions that could affect your travel plans.
 
@@ -95,13 +95,13 @@ Guided tours may not be available, but check the official website for any specia
 Weekday performances tend to be less crowded, making them an excellent option for a more intimate experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it’s best to consult the official website or contact the theater directly.
+For specific accessibility information, it's best to consult the official website or contact the theater directly.
 
 ### Can I buy tickets online?
 Check the official website for the option to purchase tickets online, as this can simplify your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be available at the theater, but it’s advisable to check the official website for the most accurate information.
+Facilities may be available at the theater, but it's advisable to check the official website for the most accurate information.
 
 ### What should I wear?
-Casual attire is generally acceptable, but it’s always a good idea to dress comfortably for the duration of the performance.
+Casual attire is generally acceptable, but it's always a good idea to dress comfortably for the duration of the performance.

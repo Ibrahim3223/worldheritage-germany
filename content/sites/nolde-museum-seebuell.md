@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Nolde Museum Seebüll is a distinguished art museum located in the serene village of Seebüll, Germany. This cultural landmark is dedicated to the life and works of the renowned expressionist painter Emil Nolde, who was a pivotal figure in the German art scene during the early 20th century. The museum not only showcases a substantial collection of Nolde's paintings, but it also provides insights into the artist's personal life and his deep connection to the surrounding landscapes. Visitors to the museum can expect to be immersed in the vibrant colors and emotive brushstrokes characteristic of Nolde’s work, all set against a backdrop that reflects the artist’s own inspirations.
+The Nolde Museum Seebüll is a distinguished art museum located in the serene village of Seebüll, Germany. This cultural landmark is dedicated to the life and works of the renowned expressionist painter Emil Nolde, who was a pivotal figure in the German art scene during the early 20th century. The museum not only showcases a substantial collection of Nolde's paintings, but it also provides insights into the artist's personal life and his deep connection to the surrounding landscapes. Visitors to the museum can expect to be immersed in the vibrant colors and emotive brushstrokes characteristic of Nolde's work, all set against a backdrop that reflects the artist's own inspirations.
 
 Seebüll, located in the Neukirchen region, provides a tranquil escape from urban life, making it an ideal destination for art enthusiasts and casual visitors alike. The museum's commitment to preserving and exhibiting Nolde's art ensures that his legacy continues to resonate with new generations. With its thoughtfully curated exhibitions and serene surroundings, the Nolde Museum invites exploration and contemplation, promising a rewarding experience for anyone interested in modern art and its history.
 
@@ -34,7 +34,7 @@ Seebüll, located in the Neukirchen region, provides a tranquil escape from urba
 
 Emil Nolde, born in 1867, was one of the most significant figures in the German Expressionist movement. His work is characterized by its bold colors and emotional depth, often reflecting the tumultuous times in which he lived. The Nolde Museum Seebüll, established to preserve and showcase his contributions to the art world, is situated close to Nolde's own home and studio, where he created many of his masterpieces. 
 
-The museum plays a vital role in preserving Nolde's artistic legacy, housing an extensive collection that includes paintings, watercolors, and prints. It highlights not only his most famous works but also lesser-known pieces that provide a more comprehensive view of his artistic development. The museum serves as a bridge between Nolde’s life and the broader cultural movements of his time, offering visitors a deeper understanding of how his experiences and surroundings influenced his art.
+The museum plays a vital role in preserving Nolde's artistic legacy, housing an extensive collection that includes paintings, watercolors, and prints. It highlights not only his most famous works but also lesser-known pieces that provide a more comprehensive view of his artistic development. The museum serves as a bridge between Nolde's life and the broader cultural movements of his time, offering visitors a deeper understanding of how his experiences and surroundings influenced his art.
 
 Furthermore, the museum is not merely an exhibition space; it is also a center for research and education. Through various programs, it aims to engage with visitors and foster a greater appreciation for expressionist art. This commitment to education and outreach underlines the museum's significance within the cultural landscape of Germany.
 
@@ -44,7 +44,7 @@ The Nolde Museum Seebüll features a modern architectural design that harmonizes
 
 One of the notable aspects of the museum is its integration with the landscape. The structure is situated in a manner that encourages a dialogue between the interior spaces and the outdoor environment. As visitors explore the museum, they may notice how the design enhances the appreciation of Nolde's connection to nature, a recurring theme in his works. 
 
-Inside, the exhibition spaces are arranged thoughtfully, allowing for a fluid experience as guests move from one gallery to another, discovering various stages of Nolde's artistic journey. The museum's collection is carefully curated to showcase not only the breadth of Nolde’s work but also the evolution of his style over time. 
+Inside, the exhibition spaces are arranged thoughtfully, allowing for a fluid experience as guests move from one gallery to another, discovering various stages of Nolde's artistic journey. The museum's collection is carefully curated to showcase not only the breadth of Nolde's work but also the evolution of his style over time. 
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ On average, guests may spend around two to three hours exploring the museum's co
 
 In addition to the Nolde Museum, the Neukirchen region offers several attractions worth exploring:
 
-1. **St. Mary’s Church** - A charming local church known for its beautiful architecture and peaceful surroundings.
+1. **St. Mary's Church** - A charming local church known for its beautiful architecture and peaceful surroundings.
 2. **The North Frisian Museum** - Located nearby, this museum provides insights into the cultural heritage of the North Frisians, showcasing local art and history.
 3. **Seebüll Windmill** - An iconic structure that represents traditional windmill architecture, providing a picturesque spot for photographs.
 4. **Local Nature Trails** - The area surrounding the museum features several walking and cycling paths, perfect for those looking to enjoy the natural beauty of the region.

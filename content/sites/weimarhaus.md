@@ -28,7 +28,7 @@ image_srcset:
 
 Weimarhaus serves as a prominent history museum located in the heart of Weimar, Germany. This engaging facility is dedicated to showcasing the multifaceted history and cultural legacy of Weimar, a city renowned for its contributions to literature, philosophy, and the arts. The museum offers visitors an immersive experience that explores the narratives and significant figures who have shaped this historic locale. Weimar's significance extends beyond its picturesque architecture; it was a vital center during the German Enlightenment and continues to influence contemporary thought and culture.
 
-As you step inside Weimarhaus, you are greeted with a comprehensive depiction of the city’s rich history. The museum is designed to appeal to a wide audience, from history enthusiasts to families seeking an educational outing. With its thoughtful exhibitions and engaging displays, Weimarhaus promises a rewarding exploration of Weimar's past, inviting visitors to delve into the stories that have defined this remarkable city.
+As you step inside Weimarhaus, you are greeted with a comprehensive depiction of the city's rich history. The museum is designed to appeal to a wide audience, from history enthusiasts to families seeking an educational outing. With its thoughtful exhibitions and engaging displays, Weimarhaus promises a rewarding exploration of Weimar's past, inviting visitors to delve into the stories that have defined this remarkable city.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Weimarhaus is characterized by its modern museum design that harmoniously blends
 
 Inside, the museum features a range of interactive displays, multimedia presentations, and traditional exhibits that bring the history of Weimar to life. The thoughtful curation of artifacts and narratives ensures that visitors can engage with the content on multiple levels, making it accessible for both adults and children. The environment is designed to foster learning and reflection, encouraging visitors to connect with the historical significance of the city.
 
-As visitors explore the museum, they will find themselves immersed in the stories of Weimar’s past, with exhibitions covering various aspects of life in the city, from its cultural achievements to its role in shaping modern democracy. 
+As visitors explore the museum, they will find themselves immersed in the stories of Weimar's past, with exhibitions covering various aspects of life in the city, from its cultural achievements to its role in shaping modern democracy. 
 
 ## Visiting Information
 

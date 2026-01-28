@@ -38,7 +38,7 @@ The history of Am roten Steine is intrinsically linked to the broader efforts in
 
 The nature reserve serves as a haven for various species, contributing to ecological research and education. This function highlights the significance of protecting such areas not only for their beauty but for their role in maintaining ecological balance. As urban development continues to encroach on natural spaces, reserves like Am roten Steine become increasingly vital in safeguarding habitats and promoting biodiversity.
 
-Ecotourism is gaining traction as more people seek to engage with nature responsibly, and Am roten Steine stands at the forefront of this movement. The reserve’s existence encourages visitors to appreciate the natural world while fostering a sense of responsibility toward its preservation. 
+Ecotourism is gaining traction as more people seek to engage with nature responsibly, and Am roten Steine stands at the forefront of this movement. The reserve's existence encourages visitors to appreciate the natural world while fostering a sense of responsibility toward its preservation. 
 
 ## Architecture and Features
 
@@ -62,7 +62,7 @@ For those planning a visit, it's advisable to check ahead for any specific guide
 
 While Am roten Steine is a destination in itself, the surrounding Hildesheim region offers additional attractions that complement a visit to the nature reserve:
 
-1. **Hildesheim City**: Known for its UNESCO World Heritage Sites, including the St. Mary’s Cathedral and St. Michael's Church, the city is rich in history and architecture.
+1. **Hildesheim City**: Known for its UNESCO World Heritage Sites, including the St. Mary's Cathedral and St. Michael's Church, the city is rich in history and architecture.
 
 2. **Botanical Garden Hildesheim**: A short distance away, this garden features an array of plant species and themed sections, offering another opportunity to connect with nature.
 

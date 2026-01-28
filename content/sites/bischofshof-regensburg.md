@@ -46,7 +46,7 @@ Overall, the architecture and features of Bischofshof reflect both its historica
 
 Visiting Bischofshof Regensburg is an experience that combines education with enjoyment. To reach the brewery, various forms of transportation are available, including public transit options that connect to the city center. The brewery's location in Regensburg makes it easily accessible for those exploring the area.
 
-When planning your visit, it’s advisable to check the official website for current information on hours and prices, as these can vary throughout the year. Typically, visitors can expect a range of experiences, from guided tours that delve into the brewing process to tastings that highlight the brewery's offerings. 
+When planning your visit, it's advisable to check the official website for current information on hours and prices, as these can vary throughout the year. Typically, visitors can expect a range of experiences, from guided tours that delve into the brewing process to tastings that highlight the brewery's offerings. 
 
 A visit usually lasts around one to two hours, allowing ample time for exploration and tasting. The best times to visit Bischofshof are likely during weekdays when crowds are thinner, and the staff can provide a more personalized experience. However, weekends may also be lively, offering a vibrant atmosphere filled with local patrons and fellow tourists.
 
@@ -58,7 +58,7 @@ Bischofshof Regensburg is situated amidst a wealth of attractions, enhancing the
 
 2. **Stone Bridge (Steinerne Brücke)**: A marvel of medieval engineering, this bridge offers picturesque views of the Danube River and connects various parts of the city.
 
-3. **Old Town (Altstadt)**: Regensburg's Old Town is a UNESCO World Heritage Site, filled with charming streets, shops, and historical buildings that showcase the city’s rich past.
+3. **Old Town (Altstadt)**: Regensburg's Old Town is a UNESCO World Heritage Site, filled with charming streets, shops, and historical buildings that showcase the city's rich past.
 
 4. **Thurn und Taxis Palace**: A short distance from the brewery, this palace offers guided tours where visitors can learn about the history of the Thurn und Taxis family and their contribution to postal services in Europe.
 
@@ -72,7 +72,7 @@ To make the most of your visit to Bischofshof, consider these insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim for morning visits or mid-week days when tourist traffic is typically lower.
 
-- **Local Recommendations**: Don’t hesitate to ask staff for recommendations on which beers to try or local food pairings that complement your tasting experience.
+- **Local Recommendations**: Don't hesitate to ask staff for recommendations on which beers to try or local food pairings that complement your tasting experience.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ Before heading to Bischofshof Regensburg, here are some practical considerations
 A visit to Bischofshof typically lasts around one to two hours, depending on your interest in the brewing process and tastings.
 
 ### Is photography allowed?
-Photography is generally permitted but may be restricted in certain areas. It’s best to check with staff during your visit.
+Photography is generally permitted but may be restricted in certain areas. It's best to check with staff during your visit.
 
 ### Are there guided tours?
 Yes, Bischofshof offers guided tours that provide insight into the brewing process and the brewery's history.
@@ -103,7 +103,7 @@ Accessibility information is best verified on the official website or by contact
 Check the official website for details on ticket availability and purchasing options.
 
 ### Are there restrooms and cafes?
-The brewery typically provides restrooms for visitors. Food and drink options may also be available on-site, but it’s advisable to check beforehand.
+The brewery typically provides restrooms for visitors. Food and drink options may also be available on-site, but it's advisable to check beforehand.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, keeping in mind that you may be walking around the brewery and surrounding areas.

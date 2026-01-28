@@ -28,7 +28,7 @@ The city's strategic position along the banks of the Danube River has historical
 
 The Gemeindehaus Feldkirchener Straße 81 is emblematic of Ingolstadt's civic identity. While specific historical dates may be elusive, the building's significance is underscored by its classification as a cultural heritage monument. This designation highlights its importance not only as a functional city hall but also as a site that embodies the communal spirit and historical narratives of the region.
 
-Ingolstadt has a long and storied past, dating back to its founding in the 9th century. Over the centuries, the city has been a focal point for various historical events, including its role during the Bavarian War of Succession and its significance in the context of the Holy Roman Empire. The Gemeindehaus serves as a contemporary representation of the city’s ongoing commitment to governance and public service, reflecting the evolving needs of its residents.
+Ingolstadt has a long and storied past, dating back to its founding in the 9th century. Over the centuries, the city has been a focal point for various historical events, including its role during the Bavarian War of Succession and its significance in the context of the Holy Roman Empire. The Gemeindehaus serves as a contemporary representation of the city's ongoing commitment to governance and public service, reflecting the evolving needs of its residents.
 
 The building also plays a vital role in community engagement, hosting a variety of civic events, meetings, and cultural activities. This enduring function underscores the importance of civic architecture in fostering community spirit and identity. The Gemeindehaus is not merely a backdrop for administrative functions; it is a living part of the city's social fabric, contributing to the vibrancy and cohesion of Ingolstadt.
 
@@ -70,7 +70,7 @@ To make the most of your visit to the Gemeindehaus Feldkirchener Straße 81, con
 
 - **Crowd Avoidance**: Visiting during weekdays may result in a quieter experience, allowing for a more intimate exploration of the building and its surroundings. If you prefer a more vibrant atmosphere, consider visiting during community events or festivals.
 
-- **Local Engagement**: Engaging with local staff or community members can enhance your understanding of the building's significance and the city's culture. Don’t hesitate to ask questions or seek recommendations.
+- **Local Engagement**: Engaging with local staff or community members can enhance your understanding of the building's significance and the city's culture. Don't hesitate to ask questions or seek recommendations.
 
 ## Practical Information
 

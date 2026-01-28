@@ -72,7 +72,7 @@ For the best experience at the Kunsthistorisches Museum der Universität Bonn, c
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, aim to visit during weekdays or early in the morning. Special exhibitions may attract larger crowds, so planning visits around these events can enhance your experience.
 
-- **Engage with Staff**: The museum's staff often have valuable insights and can provide recommendations on must-see pieces or upcoming events. Don’t hesitate to ask questions during your visit.
+- **Engage with Staff**: The museum's staff often have valuable insights and can provide recommendations on must-see pieces or upcoming events. Don't hesitate to ask questions during your visit.
 
 ## Practical Information
 
@@ -102,7 +102,7 @@ Weekdays or early mornings are generally less crowded, making for a more enjoyab
 The museum is typically designed to accommodate visitors with mobility challenges. However, check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online. Check the museum’s official website for current details.
+Ticket purchasing options may be available online. Check the museum's official website for current details.
 
 ### Are there restrooms and cafes?
 Most museums provide restrooms and may also have cafes or snack areas. Verify availability through the official website.

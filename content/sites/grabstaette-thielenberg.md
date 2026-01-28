@@ -56,7 +56,7 @@ Visitors should plan for a visit that allows them to immerse themselves in the a
 
 Eisenhüttenstadt offers a range of nearby attractions that can enhance your visit:
 
-1. **Stadtmuseum Eisenhüttenstadt**: This museum provides insights into the city’s development and its industrial heritage.
+1. **Stadtmuseum Eisenhüttenstadt**: This museum provides insights into the city's development and its industrial heritage.
    
 2. **The Oder River**: A short distance away, the river offers scenic views and opportunities for leisurely walks along its banks.
    

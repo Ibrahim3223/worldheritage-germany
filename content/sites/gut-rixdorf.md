@@ -73,7 +73,7 @@ Be sure to check for any specific visitor guidelines or requirements that may be
 A visit to Gut Rixdorf typically requires a few hours to fully explore the architectural ensemble and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always good practice to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's always good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may enhance your understanding of the site's history and architecture.
@@ -82,13 +82,13 @@ Check the official website for information on guided tours, which may enhance yo
 The best times to visit are during the spring and early autumn when the climate is typically mild and enjoyable.
 
 ### Is it wheelchair accessible?
-Information on accessibility can vary; it’s advisable to check the official website for the most current details regarding wheelchair access.
+Information on accessibility can vary; it's advisable to check the official website for the most current details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online; check the official website for current information regarding ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s worth confirming with the official website regarding the availability of restrooms and dining options.
+Facilities may be limited; it's worth confirming with the official website regarding the availability of restrooms and dining options.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, particularly if you plan to explore the surrounding area. Consider seasonal variations when choosing your attire. 

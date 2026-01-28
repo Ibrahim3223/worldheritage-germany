@@ -102,7 +102,7 @@ Weekdays, especially in the morning, tend to be less crowded, providing a more r
 The library aims to be accessible to all visitors. For specific accessibility features, check the official website or contact the library directly.
 
 ### Can I buy tickets online?
-Information regarding ticket purchases or fees can be found on the library’s official website. 
+Information regarding ticket purchases or fees can be found on the library's official website. 
 
 ### Are there restrooms and cafes?
 Restroom facilities are typically available on-site. While there may not be an in-house café, nearby options in Speyer provide opportunities for refreshments.

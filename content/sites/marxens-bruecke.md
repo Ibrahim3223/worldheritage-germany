@@ -92,7 +92,7 @@ Accessibility information is not specified; visitors should check the official w
 Check the official website for information on ticket availability and purchasing options.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not mentioned; it’s advisable to check the official website for information on nearby facilities.
+Specific amenities such as restrooms and cafes are not mentioned; it's advisable to check the official website for information on nearby facilities.
 
 ### What should I wear?
 Comfortable shoes and clothing are recommended, especially if you plan to walk or explore the area around the bridge.

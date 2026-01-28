@@ -50,7 +50,7 @@ The mosque's layout typically includes areas designated for prayer, community ac
 
 Visiting the Alperenler-Moschee Rheinfelden offers a unique opportunity to engage with the local culture and learn about the significance of the mosque within the community. For those planning a visit, it is advisable to check the official website for current information regarding hours, prices, and specific visiting guidelines.
 
-Transportation to the mosque is accessible via local public transit options, making it convenient for visitors to reach the site. Once there, guests can expect a welcoming atmosphere, where community members may be available to share insights about the mosque’s role and the local Muslim community. Depending on personal interest, visitors may want to allocate time to explore the mosque's interior and learn about its architectural features.
+Transportation to the mosque is accessible via local public transit options, making it convenient for visitors to reach the site. Once there, guests can expect a welcoming atmosphere, where community members may be available to share insights about the mosque's role and the local Muslim community. Depending on personal interest, visitors may want to allocate time to explore the mosque's interior and learn about its architectural features.
 
 The best times to visit are typically during community events or prayer times, as these occasions provide an opportunity to experience the mosque in action and observe community life. However, visitors should be mindful of the prayer schedule to avoid disrupting services.
 

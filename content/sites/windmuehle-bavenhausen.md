@@ -44,7 +44,7 @@ Windmühle Bavenhausen showcases classic windmill architecture, characterized by
 
 Notable features of Windmühle Bavenhausen include its large, functioning sails, which are essential for capturing wind energy. The internal mechanisms of the windmill, though not elaborated upon, would traditionally include gears and milling stones that work in concert to grind grain. Visitors may find it intriguing to learn about these components, which are often simplified yet vital to the windmill's operation.
 
-The exterior of the windmill often reflects the traditional German style, and it serves as an iconic image of the region's architectural heritage. The windmill’s size and structure make it an imposing sight against the backdrop of the Kalletal landscape, reinforcing its significance as a landmark.
+The exterior of the windmill often reflects the traditional German style, and it serves as an iconic image of the region's architectural heritage. The windmill's size and structure make it an imposing sight against the backdrop of the Kalletal landscape, reinforcing its significance as a landmark.
 
 ## Visiting Information
 

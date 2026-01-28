@@ -54,7 +54,7 @@ Visiting the Synagogue in Hainsfarth is an enriching experience for those intere
 
 For the latest information regarding visiting hours and any potential admission fees, it is recommended to check the official website before planning your visit. The synagogue can typically be explored in about an hour, allowing ample time for reflection and photography.
 
-The best times to visit may vary, but weekdays may offer a quieter experience compared to weekends when local events may draw larger crowds. It’s advisable to check ahead for any special events or tours that might enhance your visit.
+The best times to visit may vary, but weekdays may offer a quieter experience compared to weekends when local events may draw larger crowds. It's advisable to check ahead for any special events or tours that might enhance your visit.
 
 ## Nearby Attractions
 

@@ -30,7 +30,7 @@ Oleftalsperre, located in the picturesque Hellenthal region of Germany, is not j
 
 The infrastructure of Oleftalsperre is essential not only for providing water but also for flood control and recreational activities in the surrounding area. The dam is situated at coordinates 50.495, 6.42167, a spot that lies within a stunning landscape characterized by rolling hills and lush greenery. Visitors can expect to find a blend of natural beauty and human ingenuity, as the dam integrates seamlessly into the surrounding environment while serving vital functional purposes.
 
-As you explore Oleftalsperre, you will come to appreciate the intricate balance between technology and nature, as well as the dam’s role in promoting sustainable water practices. Whether you are an engineering enthusiast, a nature lover, or someone seeking a peaceful retreat, this location offers a unique experience that highlights the significance of water management in our lives.
+As you explore Oleftalsperre, you will come to appreciate the intricate balance between technology and nature, as well as the dam's role in promoting sustainable water practices. Whether you are an engineering enthusiast, a nature lover, or someone seeking a peaceful retreat, this location offers a unique experience that highlights the significance of water management in our lives.
 
 ## History and Significance
 

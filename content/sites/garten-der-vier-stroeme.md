@@ -28,7 +28,7 @@ image_srcset:
 
 The Garten der vier Ströme, or Garden of the Four Rivers, is a captivating park located in the vibrant city of Berlin, Germany. This green oasis serves as a serene escape from the urban hustle, inviting visitors to immerse themselves in nature while enjoying the city's rich cultural backdrop. With its intricate landscaping and serene atmosphere, the garden is significant not only for its aesthetic beauty but also as a communal space that promotes relaxation and reflection.
 
-Situated in a region known for its historical and architectural landmarks, the Garten der vier Ströme forms part of Berlin's extensive network of parks and gardens, contributing to the city’s reputation as a green metropolis. The garden's design and layout encourage visitors to explore its pathways, making it a popular destination for both locals and tourists. Whether you seek a quiet moment amid nature or a leisurely stroll with family and friends, this garden offers an inviting space for all.
+Situated in a region known for its historical and architectural landmarks, the Garten der vier Ströme forms part of Berlin's extensive network of parks and gardens, contributing to the city's reputation as a green metropolis. The garden's design and layout encourage visitors to explore its pathways, making it a popular destination for both locals and tourists. Whether you seek a quiet moment amid nature or a leisurely stroll with family and friends, this garden offers an inviting space for all.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ Seasonal considerations can also enhance your experience. In spring, the garden 
 Typically, visitors spend about one to two hours exploring the garden, but you may wish to stay longer if you enjoy nature or photography.
 
 ### Is photography allowed?
-Yes, photography is generally allowed in the garden. It’s a great spot to capture the beauty of nature and the garden's features.
+Yes, photography is generally allowed in the garden. It's a great spot to capture the beauty of nature and the garden's features.
 
 ### Are there guided tours?
 While specific guided tours may not be available, you can explore the garden at your own pace. Check for any scheduled events or programs.
@@ -95,7 +95,7 @@ While specific guided tours may not be available, you can explore the garden at 
 Early mornings or late afternoons are recommended for a quieter experience. Check seasonal conditions for the best times to see blooming flowers or autumn colors.
 
 ### Is it wheelchair accessible?
-The garden is likely designed to be accessible; however, it’s advisable to check the official website for specific accessibility information.
+The garden is likely designed to be accessible; however, it's advisable to check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
 As a public garden, it is expected that there are no admission fees, but check the official website for any updates regarding events that may require tickets.

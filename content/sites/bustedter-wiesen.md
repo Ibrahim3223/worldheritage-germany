@@ -52,7 +52,7 @@ While specific architectural features may not be prominent in the traditional se
 
 Reaching Bustedter Wiesen is relatively straightforward, with access options available through various modes of transportation. Public transport connections and parking facilities nearby make it convenient for visitors to arrive. Whether you choose to drive or utilize public transport, the reserve is accessible to a wide range of travelers.
 
-Check the official website for current information regarding hours of operation and any potential entry fees. It’s advisable to plan your visit during daylight hours to fully enjoy the natural beauty the reserve has to offer. Allocate at least a couple of hours for your visit, as this will provide ample time to explore the trails, observe wildlife, and soak in the peaceful surroundings.
+Check the official website for current information regarding hours of operation and any potential entry fees. It's advisable to plan your visit during daylight hours to fully enjoy the natural beauty the reserve has to offer. Allocate at least a couple of hours for your visit, as this will provide ample time to explore the trails, observe wildlife, and soak in the peaceful surroundings.
 
 The best times to visit Bustedter Wiesen are typically during spring and early autumn when the weather is mild, and wildlife activity is at its peak. During these seasons, the flora is vibrant, and birdwatchers may catch sight of migratory species as they pass through the area.
 

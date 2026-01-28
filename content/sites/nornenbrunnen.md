@@ -93,13 +93,13 @@ While specific guided tours of Nornenbrunnen may not be available, the fountain 
 Early morning or late afternoon are ideal times to visit Nornenbrunnen to avoid crowds and enjoy the best lighting for photography.
 
 ### Is it wheelchair accessible?
-Nornenbrunnen is situated in a public area that is generally accessible, but it’s advisable to check the specific conditions of the surrounding pathways.
+Nornenbrunnen is situated in a public area that is generally accessible, but it's advisable to check the specific conditions of the surrounding pathways.
 
 ### Can I buy tickets online?
 There are no tickets required for visiting Nornenbrunnen, but check the official website for any special events that may have an admission fee.
 
 ### Are there restrooms and cafes?
-While there may not be restrooms directly at the fountain, nearby cafes and public facilities in the Maxvorstadt district can accommodate visitors’ needs.
+While there may not be restrooms directly at the fountain, nearby cafes and public facilities in the Maxvorstadt district can accommodate visitors' needs.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather conditions when planning your visit. Comfortable shoes are recommended for exploring the area.

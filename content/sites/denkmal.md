@@ -82,7 +82,7 @@ For those planning a visit to Denkmal, here are a few insider tips to enhance yo
 
 - **Crowd Avoidance**: To enjoy a more intimate experience, visit during weekdays or outside of peak tourist seasons. Early mornings or late afternoons can also provide a quieter atmosphere.
 
-- **Engage with Locals**: If possible, interact with local residents or guides who may share stories or insights about the monument’s significance and its role in the community.
+- **Engage with Locals**: If possible, interact with local residents or guides who may share stories or insights about the monument's significance and its role in the community.
 
 ## Practical Information
 

@@ -52,7 +52,7 @@ Hirschhorn Castle is accessible to visitors seeking to experience its historical
 
 For the latest information on opening hours and ticket prices, check the official website. Visitors can expect to spend a few hours exploring the castle and its surroundings, allowing ample time to absorb the history and take in the views. The best times to visit generally align with pleasant weather, enhancing the overall experience.
 
-The site often hosts events and guided tours, which can enrich your understanding of the castle’s history. Engaging with knowledgeable guides can provide deeper insights into the significance of the structure and the stories it holds.
+The site often hosts events and guided tours, which can enrich your understanding of the castle's history. Engaging with knowledgeable guides can provide deeper insights into the significance of the structure and the stories it holds.
 
 ## Nearby Attractions
 

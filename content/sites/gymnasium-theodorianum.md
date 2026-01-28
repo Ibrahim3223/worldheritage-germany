@@ -32,11 +32,11 @@ Paderborn, situated in North Rhine-Westphalia, is a city steeped in history, kno
 
 ## History and Significance
 
-Gymnasium Theodorianum was established as part of a broader movement in Germany to enhance educational opportunities for students. The school has played a pivotal role in shaping the academic journeys of countless individuals, contributing to Paderborn's status as an educational hub. The institution’s emphasis on rigorous academic standards has fostered a culture of learning that has persisted through the years.
+Gymnasium Theodorianum was established as part of a broader movement in Germany to enhance educational opportunities for students. The school has played a pivotal role in shaping the academic journeys of countless individuals, contributing to Paderborn's status as an educational hub. The institution's emphasis on rigorous academic standards has fostered a culture of learning that has persisted through the years.
 
 The name "Theodorianum" pays homage to historical figures and events, reflecting the school's commitment to honoring its roots while adapting to contemporary educational demands. The school has seen numerous changes over the years, responding to shifts in educational philosophy and societal needs. These transformations have included updates to curricula, teaching methods, and facilities, ensuring that the institution remains relevant in an ever-evolving educational landscape.
 
-Moreover, Gymnasium Theodorianum has produced notable alumni who have made significant contributions to various fields, including science, politics, and the arts. The legacy of these individuals further underscores the school’s importance within Paderborn and beyond, as it continues to influence future generations.
+Moreover, Gymnasium Theodorianum has produced notable alumni who have made significant contributions to various fields, including science, politics, and the arts. The legacy of these individuals further underscores the school's importance within Paderborn and beyond, as it continues to influence future generations.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architectural design of Gymnasium Theodorianum reflects a blend of historica
 
 Visitors will find that the structure is functional yet aesthetically pleasing, featuring traditional elements that pay homage to its historical background. The layout typically includes spacious classrooms designed to facilitate learning, as well as common areas that encourage student interaction and collaboration. Natural light is often a key feature in educational design, promoting a conducive learning environment.
 
-While the specific details of the architectural style may vary, the overall impression is that of a well-thought-out space dedicated to fostering education. The school’s design not only serves practical purposes but also inspires a sense of pride among students and staff, contributing to the institution's enduring legacy.
+While the specific details of the architectural style may vary, the overall impression is that of a well-thought-out space dedicated to fostering education. The school's design not only serves practical purposes but also inspires a sense of pride among students and staff, contributing to the institution's enduring legacy.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ Visiting Gymnasium Theodorianum provides an opportunity to appreciate both the a
   
 - **Check Official Website for Hours/Prices:** For the most up-to-date information regarding visiting hours and any potential admission fees, it is advisable to consult the official website.
 
-- **What to Expect:** Visitors can expect to engage with the environment of a working school. While tours may not be available, the surrounding area offers insights into the institution’s role within the community.
+- **What to Expect:** Visitors can expect to engage with the environment of a working school. While tours may not be available, the surrounding area offers insights into the institution's role within the community.
 
 - **Time Needed:** A visit to Gymnasium Theodorianum can typically be completed in about an hour, allowing enough time to appreciate the site while also exploring nearby attractions.
 
@@ -66,13 +66,13 @@ When visiting Gymnasium Theodorianum, consider exploring these nearby attraction
 
 1. **Paderborn Cathedral (Paderborner Dom)** - This stunning cathedral is a remarkable example of Gothic architecture and is integral to the history of the city.
 
-2. **Historical Museum of Paderborn** - Delve into the local history through various exhibits that showcase the area’s cultural heritage.
+2. **Historical Museum of Paderborn** - Delve into the local history through various exhibits that showcase the area's cultural heritage.
 
 3. **Schloß Neuhaus** - A short distance from the city center, this beautiful castle features extensive gardens and is a perfect spot for leisurely walks.
 
 4. **Pader Springs (Paderquellen)** - Discover the source of the Pader River, which is a serene location for nature lovers and a historical landmark.
 
-5. **Market Square (Marktplatz)** - Experience the lively atmosphere of the city’s market square, where local vendors and cafes create a vibrant community space.
+5. **Market Square (Marktplatz)** - Experience the lively atmosphere of the city's market square, where local vendors and cafes create a vibrant community space.
 
 ## Insider Tips
 

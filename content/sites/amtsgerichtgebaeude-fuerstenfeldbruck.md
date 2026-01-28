@@ -60,13 +60,13 @@ After visiting the Amtsgerichtgebäude Fürstenfeldbruck, there are several near
 
 1. **Fürstenfeld Abbey**: A short distance away, this historical site provides insight into the region's monastic heritage and features stunning architecture.
 
-2. **St. Mary’s Church**: This local church, known for its beautiful interiors and historical significance, is a great place to appreciate local spirituality and craftsmanship.
+2. **St. Mary's Church**: This local church, known for its beautiful interiors and historical significance, is a great place to appreciate local spirituality and craftsmanship.
 
 3. **Town Center**: The nearby town center offers a variety of shops, cafes, and restaurants, perfect for a leisurely stroll or a place to relax after your visit.
 
 4. **Parks and Green Spaces**: Fürstenfeldbruck is home to several parks where visitors can enjoy nature and unwind in a serene setting.
 
-5. **Local Museums**: Explore local history and culture at museums that often feature exhibits on the area’s heritage, providing additional context to your visit.
+5. **Local Museums**: Explore local history and culture at museums that often feature exhibits on the area's heritage, providing additional context to your visit.
 
 ## Insider Tips
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Amtsgerichtgebäude Fürstenfeldbruck, it's
 
 - **Seasonal Considerations**: Depending on the time of year, dress accordingly for the weather. Bavaria experiences a range of temperatures, so layers may be advisable for comfort.
 
-- **Accessibility**: It’s wise to check the official website for information about accessibility options if you require any specific accommodations.
+- **Accessibility**: It's wise to check the official website for information about accessibility options if you require any specific accommodations.
 
 ## Frequently Asked Questions
 
@@ -103,13 +103,13 @@ Check the official website for information regarding guided tours, as these may 
 Weekdays, particularly in the early morning or late afternoon, are often less crowded, providing a more intimate experience.
 
 ### Is it wheelchair accessible?
-For specific accessibility information, check the official website, as this can vary depending on the courthouse’s facilities.
+For specific accessibility information, check the official website, as this can vary depending on the courthouse's facilities.
 
 ### Can I buy tickets online?
 Information regarding ticket purchasing can be found on the official website, which will provide details on any potential fees for entry or tours.
 
 ### Are there restrooms and cafes?
-While courthouses typically have basic facilities, it’s advisable to check for nearby cafes or restaurants in the town for refreshments post-visit.
+While courthouses typically have basic facilities, it's advisable to check for nearby cafes or restaurants in the town for refreshments post-visit.
 
 ### What should I wear?
 Comfortable clothing is recommended, especially if you plan to explore the surrounding areas. Dress according to the weather to ensure a pleasant experience. 

@@ -32,7 +32,7 @@ Visitors to St. Lawrence Church are invited to explore its intricate design and 
 
 ## History and Significance
 
-St. Lawrence Church has long been an integral part of Lübeck’s religious and cultural fabric. While specific historical dates are not provided, the church is recognized as a significant site that has witnessed numerous events over the centuries. It has served both as a place of worship and a gathering point for the local community, reflecting the changing dynamics of Lübeck's population and its socio-economic development.
+St. Lawrence Church has long been an integral part of Lübeck's religious and cultural fabric. While specific historical dates are not provided, the church is recognized as a significant site that has witnessed numerous events over the centuries. It has served both as a place of worship and a gathering point for the local community, reflecting the changing dynamics of Lübeck's population and its socio-economic development.
 
 The church is emblematic of the Hanseatic League's influence, a powerful trading alliance in northern Europe during the Middle Ages. As Lübeck was a key player in this league, St. Lawrence Church has been a silent witness to the city's growth, prosperity, and eventual challenges. Its architecture and art serve as a narrative of the city's evolution from a medieval trading hub to a modern urban center.
 
@@ -58,7 +58,7 @@ The best times to visit St. Lawrence Church are during weekdays when it is gener
 
 1. **Lübeck Cathedral**: A short distance from St. Lawrence Church, Lübeck Cathedral is another notable example of Gothic architecture, featuring impressive twin towers and a rich history.
 
-2. **Holstentor**: This iconic city gate is a symbol of Lübeck and offers insights into the city’s medieval past. It is located within walking distance and is a great spot for photography.
+2. **Holstentor**: This iconic city gate is a symbol of Lübeck and offers insights into the city's medieval past. It is located within walking distance and is a great spot for photography.
 
 3. **St. Mary's Church**: Known for its stunning architecture and historical significance, St. Mary's Church is another must-see site, showcasing the artistry of the period.
 

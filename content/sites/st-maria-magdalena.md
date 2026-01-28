@@ -66,7 +66,7 @@ While visiting St. Maria Magdalena, take advantage of the opportunity to explore
 
 4. **Cultural Events**: Check the local calendar for any cultural events or festivals that may be taking place during your visit, offering a glimpse into the community spirit.
 
-5. **Local Cuisine**: Don’t miss the opportunity to enjoy regional cuisine at nearby restaurants or cafes, where you can sample traditional dishes.
+5. **Local Cuisine**: Don't miss the opportunity to enjoy regional cuisine at nearby restaurants or cafes, where you can sample traditional dishes.
 
 ## Insider Tips
 
@@ -97,7 +97,7 @@ Information on guided tours may be available; check the official website for det
 Weekdays or early mornings are often less crowded, providing a more peaceful experience. Consider visiting during spring or summer for pleasant weather.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be detailed; it’s recommended to check the official website for specific accommodations.
+Accessibility information may not be detailed; it's recommended to check the official website for specific accommodations.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any associated fees.

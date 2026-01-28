@@ -76,7 +76,7 @@ To avoid larger crowds, plan your visit during weekdays or early in the morning.
 
 Before heading to Museum Freihof, ensure you are prepared for your visit. Comfortable walking shoes are recommended, as exploring the museum and nearby attractions may involve considerable walking. Additionally, consider checking the weather forecast, as seasonal variations can impact your experience.
 
-If you're planning to visit during peak tourist seasons, be aware that the museum may be busier, so it’s prudent to arrive early or plan your visit during off-peak times. Also, note that seasonal exhibitions or events may require advance reservations, so checking the official website for details can enhance your overall experience.
+If you're planning to visit during peak tourist seasons, be aware that the museum may be busier, so it's prudent to arrive early or plan your visit during off-peak times. Also, note that seasonal exhibitions or events may require advance reservations, so checking the official website for details can enhance your overall experience.
 
 ## Frequently Asked Questions
 

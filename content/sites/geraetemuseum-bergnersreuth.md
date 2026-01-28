@@ -76,7 +76,7 @@ As you prepare for your visit, it's wise to bring a camera for capturing the fas
 Most visitors find that spending around two to three hours at the museum allows for a thorough exploration of the exhibits and participation in any available activities.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check the museum's guidelines regarding photography upon your arrival.
+Photography policies can vary; it's best to check the museum's guidelines regarding photography upon your arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the history of the tools and machines on display.

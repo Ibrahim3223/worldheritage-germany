@@ -60,7 +60,7 @@ While Blersum Church is a destination in its own right, several attractions near
 
 1. **Wittmund Town Center**: Explore the charming streets, local shops, and eateries that reflect the character of this quaint town.
 2. **Museum of Local History**: Discover more about the history and culture of Wittmund and the surrounding areas through exhibits and artifacts.
-3. **Historic Windmills**: Take a short trip to view traditional windmills that stand as symbols of the region’s agricultural past.
+3. **Historic Windmills**: Take a short trip to view traditional windmills that stand as symbols of the region's agricultural past.
 4. **Nature Trails**: Enjoy the scenic beauty of the surrounding landscapes with walking or biking trails that offer a glimpse of the local flora and fauna.
 
 ## Insider Tips
@@ -79,7 +79,7 @@ Seasonal considerations are also important; spring and autumn typically offer mi
 A visit to Blersum Church can range from 30 minutes to an hour, depending on your interest in exploring the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the worshippers and the sanctity of the space.
+Photography is generally permitted, but it's best to be respectful of the worshippers and the sanctity of the space.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours available. Visitors are encouraged to explore the church at their own pace.
@@ -88,7 +88,7 @@ Currently, there are no specific guided tours available. Visitors are encouraged
 Weekdays, particularly in the morning, are often less crowded, making them ideal for a peaceful visit.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s advisable to check the official website for up-to-date information regarding facilities.
+Accessibility details are not specified, so it's advisable to check the official website for up-to-date information regarding facilities.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchases and any associated costs.

@@ -54,7 +54,7 @@ The best times to visit Talsperre Eichicht are during the spring and autumn mont
    
 2. **Historical Sites**: Explore nearby historical landmarks that showcase the region's rich cultural heritage and architectural history.
 
-3. **Museums**: Visit local museums to gain insights into the area’s history and the importance of water management.
+3. **Museums**: Visit local museums to gain insights into the area's history and the importance of water management.
 
 4. **Scenic Viewpoints**: Discover viewpoints that offer panoramic perspectives of the dam and its surrounding environment.
 
@@ -78,10 +78,10 @@ The area can experience variable climates, so checking the forecast prior to you
 A visit typically lasts a few hours, allowing ample time to explore and appreciate the dam and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted at Talsperre Eichicht, providing opportunities to capture the dam’s structure and the natural scenery.
+Yes, photography is generally permitted at Talsperre Eichicht, providing opportunities to capture the dam's structure and the natural scenery.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these may be available for those interested in a more in-depth understanding of the dam’s significance.
+Check the official website for information on guided tours, as these may be available for those interested in a more in-depth understanding of the dam's significance.
 
 ### What's the best time to visit?
 The best times to visit are during spring and autumn for mild weather, though each season offers unique experiences.

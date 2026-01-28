@@ -28,15 +28,15 @@ image_srcset:
 
 The Basilica Gößweinstein is a remarkable church building located in the quaint town of Gößweinstein, Bavaria, Germany. As a designated cultural heritage monument, this site reflects the profound spiritual and architectural heritage of the region. With its striking design and historical significance, the Basilica stands as a focal point for both pilgrims and visitors alike, drawing those interested in religious history, architecture, or simply the serene ambiance that surrounds it. 
 
-Gößweinstein, positioned in the scenic landscapes of Bavaria, is a charming village that encapsulates the essence of German culture and tradition. The Basilica, in particular, serves as an emblem of the town’s commitment to preserving its rich heritage, offering a glimpse into the past while remaining a vibrant part of the community today. Whether you are a dedicated historian, an architecture enthusiast, or just someone seeking a peaceful place for reflection, the Basilica Gößweinstein promises a fulfilling experience.
+Gößweinstein, positioned in the scenic landscapes of Bavaria, is a charming village that encapsulates the essence of German culture and tradition. The Basilica, in particular, serves as an emblem of the town's commitment to preserving its rich heritage, offering a glimpse into the past while remaining a vibrant part of the community today. Whether you are a dedicated historian, an architecture enthusiast, or just someone seeking a peaceful place for reflection, the Basilica Gößweinstein promises a fulfilling experience.
 
 ## History and Significance
 
 The history of the Basilica Gößweinstein is intricately tied to the religious and cultural evolution of the region. While specific dates and events may not be documented in detail, the church's significance is evident in its role as a pilgrimage site for many. The Basilica has been a spiritual haven for centuries, attracting visitors who seek solace and connection to something greater.
 
-The church’s establishment is believed to reflect the broader historical context of Bavaria, where numerous churches were constructed to serve the spiritual needs of local communities. The Basilica Gößweinstein is not just a place of worship; it stands as a symbol of faith for the local populace and visitors, embodying the values and beliefs that have shaped the area’s identity over generations.
+The church's establishment is believed to reflect the broader historical context of Bavaria, where numerous churches were constructed to serve the spiritual needs of local communities. The Basilica Gößweinstein is not just a place of worship; it stands as a symbol of faith for the local populace and visitors, embodying the values and beliefs that have shaped the area's identity over generations.
 
-Moreover, the Basilica has played a crucial role in the cultural life of Gößweinstein. It has served as a venue for various religious ceremonies, community events, and celebrations, reinforcing its position at the heart of the town’s social fabric. As a result, the Basilica is a site of significance not only for its architectural beauty but also for its ongoing contribution to the cultural landscape of the region.
+Moreover, the Basilica has played a crucial role in the cultural life of Gößweinstein. It has served as a venue for various religious ceremonies, community events, and celebrations, reinforcing its position at the heart of the town's social fabric. As a result, the Basilica is a site of significance not only for its architectural beauty but also for its ongoing contribution to the cultural landscape of the region.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architectural style of the Basilica Gößweinstein showcases the craftsmansh
 
 The façade of the Basilica features ornate decorations that highlight its religious significance. The entryway is particularly striking, often drawing the attention of those approaching the church. Inside, the atmosphere is enhanced by the presence of stunning stained glass windows that allow natural light to filter through, casting colorful reflections upon the interior spaces. 
 
-The altar is another focal point, typically designed with precision and care, embodying the spiritual essence of the church. Many visitors find themselves captivated by the artistry and symbolism contained within these sacred spaces. The Basilica’s overall layout encourages contemplation and reflection, allowing visitors to engage with the spiritual ambiance that permeates the building.
+The altar is another focal point, typically designed with precision and care, embodying the spiritual essence of the church. Many visitors find themselves captivated by the artistry and symbolism contained within these sacred spaces. The Basilica's overall layout encourages contemplation and reflection, allowing visitors to engage with the spiritual ambiance that permeates the building.
 
 In sum, the Basilica Gößweinstein is not only a vital piece of architectural heritage but also a site where art and spirituality intertwine, offering a unique experience for all who enter.
 
@@ -111,7 +111,7 @@ Accessibility options may vary; check the official website for detailed informat
 For current ticketing options, please refer to the official website for the Basilica Gößweinstein.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to check in advance for the most accurate information regarding amenities.
+Facilities may be available nearby, but it's advisable to check in advance for the most accurate information regarding amenities.
 
 ### What should I wear?
 Modest and comfortable clothing is recommended, considering the Basilica's status as a place of worship.

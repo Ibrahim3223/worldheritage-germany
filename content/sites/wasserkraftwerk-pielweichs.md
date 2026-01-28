@@ -28,7 +28,7 @@ image_srcset:
 
 The Wasserkraftwerk Pielweichs, a significant dam located in Plattling, Germany, serves as a crucial component of the country's hydroelectric power generation. Positioned on the Isar River, it is the last hydroelectric station before the river merges with the Danube, playing an essential role in regional energy supply. This Laufwasserkraftwerk (run-of-the-river power plant) reflects Germany's commitment to utilizing renewable energy sources while showcasing the engineering prowess involved in dam construction and operation.
 
-Visitors to the site can appreciate not only the technical aspects of hydroelectric generation but also the surrounding natural environment that the Isar River sustains. The dam represents a blend of functionality and ecological awareness, making it an intriguing destination for those interested in energy production, engineering, and environmental conservation. The Wasserkraftwerk Pielweichs invites exploration and understanding of hydroelectric power's role in modern society, as well as its historical significance in Germany’s energy landscape.
+Visitors to the site can appreciate not only the technical aspects of hydroelectric generation but also the surrounding natural environment that the Isar River sustains. The dam represents a blend of functionality and ecological awareness, making it an intriguing destination for those interested in energy production, engineering, and environmental conservation. The Wasserkraftwerk Pielweichs invites exploration and understanding of hydroelectric power's role in modern society, as well as its historical significance in Germany's energy landscape.
 
 ## History and Significance
 

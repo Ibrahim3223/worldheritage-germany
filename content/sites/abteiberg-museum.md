@@ -72,7 +72,7 @@ While visiting the Abteiberg Museum, there are several nearby attractions that c
 
 When visiting the Abteiberg Museum, consider bringing your camera to capture the striking architecture and art installations. However, be mindful of photography policies in specific exhibition areas. To avoid larger crowds, aim to visit during weekday mornings when the museum is generally quieter.
 
-Engaging with the museum's staff can also enhance your experience; they often provide valuable insights about the exhibits and artists featured. If you have specific interests, don’t hesitate to ask about guided tours or special programming that may be available during your visit.
+Engaging with the museum's staff can also enhance your experience; they often provide valuable insights about the exhibits and artists featured. If you have specific interests, don't hesitate to ask about guided tours or special programming that may be available during your visit.
 
 ## Practical Information
 
@@ -95,13 +95,13 @@ The museum may offer guided tours; check the official website for details on ava
 Weekday mornings are generally quieter, providing a more intimate experience; however, weekends may feature special events.
 
 ### Is it wheelchair accessible?
-The Abteiberg Museum aims to be accessible for all visitors, but it’s advisable to check for specific accessibility features on the official website.
+The Abteiberg Museum aims to be accessible for all visitors, but it's advisable to check for specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information about purchasing tickets in advance.
 
 ### Are there restrooms and cafes?
-The museum typically provides restroom facilities; dining options may be available nearby, but it’s best to confirm current amenities on the official website.
+The museum typically provides restroom facilities; dining options may be available nearby, but it's best to confirm current amenities on the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as you may spend several hours walking through exhibitions.

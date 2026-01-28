@@ -44,7 +44,7 @@ Eilsum Church showcases a blend of architectural styles that reflect the histori
 
 The exterior of Eilsum Church features a classic facade, often adorned with elements typical of the region's ecclesiastical buildings. Its structure is likely constructed from local materials, creating a harmonious relationship with the surrounding landscape. As you approach, the building's scale invites contemplation and reverence, while its simple yet elegant design resonates with the principles of functionality and beauty.
 
-Inside, the church is expected to house various religious artifacts, stained glass windows, and possibly a historic altar, all of which contribute to the spiritual ambiance of the space. Each element serves to enhance the worship experience, drawing on centuries of religious artistry and craftsmanship. Observing these features allows visitors to appreciate the dedication and skill of artisans who contributed to the church’s aesthetic and functional qualities.
+Inside, the church is expected to house various religious artifacts, stained glass windows, and possibly a historic altar, all of which contribute to the spiritual ambiance of the space. Each element serves to enhance the worship experience, drawing on centuries of religious artistry and craftsmanship. Observing these features allows visitors to appreciate the dedication and skill of artisans who contributed to the church's aesthetic and functional qualities.
 
 ## Visiting Information
 
@@ -76,7 +76,7 @@ If you wish to avoid crowds, consider visiting on weekdays or during off-peak se
 
 ## Practical Information
 
-When planning your visit to Eilsum Church, it’s wise to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Seasonal considerations should also be taken into account, as weather conditions can vary in Lower Saxony. Spring and early autumn are often the most pleasant times to visit, with milder temperatures and blooming landscapes.
+When planning your visit to Eilsum Church, it's wise to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Seasonal considerations should also be taken into account, as weather conditions can vary in Lower Saxony. Spring and early autumn are often the most pleasant times to visit, with milder temperatures and blooming landscapes.
 
 Be mindful of local customs and dress modestly, especially if visiting during a service or religious event. 
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Harsefeld, a notable castle in the Harsefeld region of Germany, offers a glimpse into the architectural and cultural heritage of the area. This historic structure stands at coordinates 53.4535, 9.50164, making it easily accessible for visitors exploring northern Germany. While Burg Harsefeld may not be as widely recognized as some of its counterparts, it holds a unique place in the region’s history. Its significance lies not only in its architectural features but also in its role within the local community over the centuries.
+Burg Harsefeld, a notable castle in the Harsefeld region of Germany, offers a glimpse into the architectural and cultural heritage of the area. This historic structure stands at coordinates 53.4535, 9.50164, making it easily accessible for visitors exploring northern Germany. While Burg Harsefeld may not be as widely recognized as some of its counterparts, it holds a unique place in the region's history. Its significance lies not only in its architectural features but also in its role within the local community over the centuries.
 
 As you approach the castle, you will encounter a blend of natural beauty and historical intrigue, inviting exploration and reflection. The site promises a fascinating experience for history enthusiasts, architecture lovers, and casual visitors alike. Whether you are keen to delve into the past or simply enjoy a leisurely stroll through the grounds, Burg Harsefeld welcomes all who seek to appreciate its charm.
 

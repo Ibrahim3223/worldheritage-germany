@@ -80,7 +80,7 @@ While visiting, be respectful of the ongoing activities, especially during servi
 
 ## Practical Information
 
-When planning your visit to St. Jacobi Church, consider bringing a camera to capture the church’s architecture and the surrounding landscape. Comfortable walking shoes are advisable, as exploring the area may involve walking on uneven surfaces.
+When planning your visit to St. Jacobi Church, consider bringing a camera to capture the church's architecture and the surrounding landscape. Comfortable walking shoes are advisable, as exploring the area may involve walking on uneven surfaces.
 
 Seasonal considerations can also affect your visit. The church may host different events and services throughout the year, so check the official website for any seasonal highlights or special occasions.
 
@@ -90,7 +90,7 @@ Seasonal considerations can also affect your visit. The church may host differen
 A visit to St. Jacobi typically takes about one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and any ongoing services.
+Photography is generally permitted, but it's advisable to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for updates.
@@ -99,13 +99,13 @@ Currently, specific information about guided tours is not available. Check the o
 The best time to visit is often during community events or services, but early mornings or late afternoons can offer quieter experiences.
 
 ### Is it wheelchair accessible?
-Details regarding wheelchair accessibility are not specified. It’s recommended to check the official website for current information.
+Details regarding wheelchair accessibility are not specified. It's recommended to check the official website for current information.
 
 ### Can I buy tickets online?
 Information about online ticket purchases is not provided. Please check the official website for details.
 
 ### Are there restrooms and cafes?
-Specific information on restrooms and cafes is not available. It’s advisable to plan accordingly for amenities.
+Specific information on restrooms and cafes is not available. It's advisable to plan accordingly for amenities.
 
 ### What should I wear?
 Dress appropriately for a place of worship, which typically means modest attire. Comfortable shoes are recommended for walking.

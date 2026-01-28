@@ -68,7 +68,7 @@ Exploring the area around St. Vitus (Sünninghausen) can be enriching, as Oelde 
 
 4. **Museum of Local History**: Delve deeper into Oelde's past at this museum, which showcases artifacts and exhibits related to the town's development and cultural heritage.
 
-5. **St. John’s Church**: Another significant religious site in Oelde, this church features unique architectural elements and is worth a visit for those interested in ecclesiastical architecture.
+5. **St. John's Church**: Another significant religious site in Oelde, this church features unique architectural elements and is worth a visit for those interested in ecclesiastical architecture.
 
 ## Insider Tips
 

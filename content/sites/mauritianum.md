@@ -56,7 +56,7 @@ When exploring the museum, guests can expect to spend approximately two to three
 
 ## Insider Tips
 
-When visiting the Mauritianum, consider bringing a camera to capture the striking displays, but be sure to check the museum’s photography policy. To avoid crowds, plan your visit during weekdays or early mornings. Engaging with the interactive exhibits can enrich your experience, so take your time to explore each section thoroughly. 
+When visiting the Mauritianum, consider bringing a camera to capture the striking displays, but be sure to check the museum's photography policy. To avoid crowds, plan your visit during weekdays or early mornings. Engaging with the interactive exhibits can enrich your experience, so take your time to explore each section thoroughly. 
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Banzkower Mühle, a traditional windmill, stands proudly in the quaint village of Banzkow, Germany. This historical structure not only represents the ingenious engineering of wind-powered milling but also highlights the rich agricultural heritage of the Mecklenburg region. As you approach, the distinct silhouette of the windmill against the skyline provides an intriguing glimpse into the past, inviting visitors to engage with a piece of cultural history that has shaped the local landscape. 
 
-Windmills like Banzkower Mühle were once central to rural life, serving as vital hubs for grain milling and agricultural processing. Today, they continue to attract attention for their architectural charm and historical significance, making them an essential stop for heritage enthusiasts. The Banzkower Mühle exemplifies the enduring relationship between technology and community, enriching our understanding of the region’s agricultural practices and the role of renewable energy in historical contexts.
+Windmills like Banzkower Mühle were once central to rural life, serving as vital hubs for grain milling and agricultural processing. Today, they continue to attract attention for their architectural charm and historical significance, making them an essential stop for heritage enthusiasts. The Banzkower Mühle exemplifies the enduring relationship between technology and community, enriching our understanding of the region's agricultural practices and the role of renewable energy in historical contexts.
 
 ## History and Significance
 

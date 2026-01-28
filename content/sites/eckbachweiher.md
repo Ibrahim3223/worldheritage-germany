@@ -40,7 +40,7 @@ In terms of cultural significance, the lake offers a space for community gatheri
 
 ## Architecture and Features
 
-Eckbachweiher is primarily defined by its natural features rather than man-made structures. The lake itself is characterized by calm waters, framed by lush vegetation and trees that provide shade and habitat for wildlife. The surrounding landscape complements the lake’s tranquil atmosphere, making it an inviting destination for those seeking solace in nature.
+Eckbachweiher is primarily defined by its natural features rather than man-made structures. The lake itself is characterized by calm waters, framed by lush vegetation and trees that provide shade and habitat for wildlife. The surrounding landscape complements the lake's tranquil atmosphere, making it an inviting destination for those seeking solace in nature.
 
 Notable features of Eckbachweiher include the diverse birdlife that can often be spotted around the water's edge. Birdwatchers will find a variety of species, particularly during migration seasons, as many birds use the lake as a stopover. The surrounding flora contributes to the overall ecological balance, with native plants thriving in this habitat.
 

@@ -48,7 +48,7 @@ The museum's design aims to enhance the visitor experience by creating an inviti
 
 Getting to the Friedrichshafen School Museum is straightforward, with various transport options available. Visitors can use public transportation, including buses and trains, which connect to the city center and are within walking distance of the museum. Parking facilities may also be available nearby for those traveling by car.
 
-For the most current information regarding opening hours and ticket prices, check the official website before your visit. Typically, museums of this nature can be explored in a couple of hours, with ample time to engage with the exhibits. It’s advisable to check for any special events or temporary exhibitions that may be taking place during your visit, as these can provide a unique experience.
+For the most current information regarding opening hours and ticket prices, check the official website before your visit. Typically, museums of this nature can be explored in a couple of hours, with ample time to engage with the exhibits. It's advisable to check for any special events or temporary exhibitions that may be taking place during your visit, as these can provide a unique experience.
 
 The best times to visit are generally during weekdays, when the museum is less crowded, allowing for a more relaxed exploration of the exhibits. However, weekends may also attract families and individuals interested in local history, potentially leading to a more vibrant atmosphere.
 
@@ -68,7 +68,7 @@ Friedrichshafen is rich in attractions that complement a visit to the School Mus
 
 ## Insider Tips
 
-For photography enthusiasts, the Friedrichshafen School Museum may have specific photography policies, so it’s best to check ahead. Early mornings or late afternoons can be ideal for capturing the exhibits in natural light while avoiding larger crowds.
+For photography enthusiasts, the Friedrichshafen School Museum may have specific photography policies, so it's best to check ahead. Early mornings or late afternoons can be ideal for capturing the exhibits in natural light while avoiding larger crowds.
 
 To enhance your experience, consider visiting during weekdays, as weekends may attract more visitors, potentially impacting your ability to appreciate the exhibits fully. Allow some time for reflection after viewing the exhibits to absorb the historical narratives presented.
 

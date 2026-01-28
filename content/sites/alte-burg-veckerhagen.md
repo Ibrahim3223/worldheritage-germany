@@ -76,7 +76,7 @@ In addition to Alte Burg Veckerhagen, the Reinhardshagen region is home to sever
 
 For a more enjoyable experience at Alte Burg Veckerhagen, consider these insider tips:
 
-- **Photography**: Capture the castle’s architecture and surrounding landscape, but be respectful of any signage regarding photography restrictions. Early morning or late afternoon can provide optimal lighting for photographs.
+- **Photography**: Capture the castle's architecture and surrounding landscape, but be respectful of any signage regarding photography restrictions. Early morning or late afternoon can provide optimal lighting for photographs.
 
 - **Crowd Avoidance**: To fully appreciate the site, consider visiting during weekdays or outside of peak tourist seasons. This can enhance your exploration and allow for a more personal experience with the castle and its surroundings.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Alte Burg Veckerhagen, keep the following pract
 A visit typically takes about one to two hours, allowing ample time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-While photography is generally permitted, it’s wise to look for any posted guidelines or restrictions upon arrival.
+While photography is generally permitted, it's wise to look for any posted guidelines or restrictions upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours can vary; check the official website for current offerings and schedules.
@@ -109,7 +109,7 @@ Accessibility information may not be available; check the official website for c
 For ticketing information, including online purchases, visit the official website.
 
 ### Are there restrooms and cafes?
-Specific amenities may not be detailed; it’s advisable to check the official website for the most current information regarding facilities.
+Specific amenities may not be detailed; it's advisable to check the official website for the most current information regarding facilities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, considering that some areas may have uneven surfaces.

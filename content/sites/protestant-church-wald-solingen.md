@@ -50,7 +50,7 @@ Overall, the Protestant Church in Wald is a noteworthy example of the architectu
 
 Visiting the Protestant Church in Wald, Solingen, promises a peaceful experience for those seeking to explore its heritage. Access to this church is straightforward, with various transport options available. Visitors can check local public transportation schedules or consider driving, as the church is situated in a central location within Solingen.
 
-Before you plan your visit, it’s important to check the official website for current information regarding hours of operation and any admission prices. This ensures that you are well-informed about what to expect upon arrival. The recommended time for a visit can vary; however, a duration of approximately one hour is typically sufficient to enjoy the church and its surroundings.
+Before you plan your visit, it's important to check the official website for current information regarding hours of operation and any admission prices. This ensures that you are well-informed about what to expect upon arrival. The recommended time for a visit can vary; however, a duration of approximately one hour is typically sufficient to enjoy the church and its surroundings.
 
 The best times to visit the church may align with local services or community events, providing an opportunity to experience the church in action. Additionally, visiting during weekdays could offer a quieter experience compared to weekends, when more congregants may be present.
 

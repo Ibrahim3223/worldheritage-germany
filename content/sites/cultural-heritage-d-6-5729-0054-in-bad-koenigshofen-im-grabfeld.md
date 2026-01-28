@@ -34,7 +34,7 @@ This site reflects the military and civic functions that fortifications served i
 
 The fortification's significance extends beyond its defensive purpose; it is also a marker of the cultural identity of the region. As communities grew and evolved, so too did their systems of governance and defense. This site played a role in the local narrative, influencing the way communities developed in response to external threats and internal governance.
 
-While specific dates and events may be elusive, the fortification remains a vital part of Bad Königshofen’s heritage, serving as an enduring reminder of the past. It encapsulates the essence of the local history, illustrating how communities have adapted and thrived despite challenges over the centuries.
+While specific dates and events may be elusive, the fortification remains a vital part of Bad Königshofen's heritage, serving as an enduring reminder of the past. It encapsulates the essence of the local history, illustrating how communities have adapted and thrived despite challenges over the centuries.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The structure likely includes robust walls designed for defense, with a height t
 
 The entrance to the fortification would have been carefully designed, featuring a gatehouse that allowed for controlled access. This entrance would typically be reinforced and might include features such as a drawbridge or portcullis, which were common in medieval defenses.
 
-Additionally, the surrounding landscape would have been crafted to enhance the fortification’s defensive capabilities. Moats, ditches, or other natural barriers may have been utilized to deter attackers and fortify the site further. The overall layout of the fortification would reflect the military strategies prevalent during its construction, demonstrating the ingenuity of the designers and builders.
+Additionally, the surrounding landscape would have been crafted to enhance the fortification's defensive capabilities. Moats, ditches, or other natural barriers may have been utilized to deter attackers and fortify the site further. The overall layout of the fortification would reflect the military strategies prevalent during its construction, demonstrating the ingenuity of the designers and builders.
 
 As a cultural heritage monument, the fortification also serves as a canvas of historical narratives, with each stone and feature telling a story of its own. Visitors will find that the site, while perhaps not elaborately decorated, holds a raw beauty that speaks to its purpose and history.
 

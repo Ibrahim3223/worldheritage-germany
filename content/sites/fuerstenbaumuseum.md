@@ -62,7 +62,7 @@ While visiting the Fürstenbaumuseum, several nearby attractions merit explorati
    
 2. **St. Kilian Cathedral**: This striking Gothic cathedral is known for its remarkable stained glass and intricate interiors, offering a glimpse into Würzburg's ecclesiastical history.
 
-3. **Marienberg Fortress**: Perched on a hill overlooking the city, this fortress provides panoramic views of Würzburg and features a fascinating museum detailing the city’s history.
+3. **Marienberg Fortress**: Perched on a hill overlooking the city, this fortress provides panoramic views of Würzburg and features a fascinating museum detailing the city's history.
 
 4. **Old Main Bridge**: A pedestrian bridge adorned with statues, it connects the city center with the fortress and is a perfect spot for a leisurely stroll.
 
@@ -70,9 +70,9 @@ While visiting the Fürstenbaumuseum, several nearby attractions merit explorati
 
 ## Insider Tips
 
-For those looking to capture the essence of the Fürstenbaumuseum, photography may be allowed in certain areas, but it’s always wise to check specific guidelines upon arrival. To avoid crowds, consider visiting during weekday mornings or late afternoons.
+For those looking to capture the essence of the Fürstenbaumuseum, photography may be allowed in certain areas, but it's always wise to check specific guidelines upon arrival. To avoid crowds, consider visiting during weekday mornings or late afternoons.
 
-Engaging with the museum staff can enhance your experience; they often provide valuable insights and anecdotes about the exhibits. Additionally, taking a moment to explore the museum’s gift shop can be rewarding, as it often features unique local crafts and publications related to the exhibits.
+Engaging with the museum staff can enhance your experience; they often provide valuable insights and anecdotes about the exhibits. Additionally, taking a moment to explore the museum's gift shop can be rewarding, as it often features unique local crafts and publications related to the exhibits.
 
 ## Practical Information
 

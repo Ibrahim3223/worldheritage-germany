@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burgstall in Gemünden am Main, Bavaria, represents an intriguing archaeological site that offers a fascinating glimpse into the past. This cultural heritage monument is not only significant for its historical context but also provides a unique opportunity for visitors to explore the remnants of ancient civilizations. Set against the backdrop of the picturesque Franconian countryside, Burgstall invites history enthusiasts and curious travelers alike to delve into its storied past, reflecting the region’s role in broader historical narratives.
+Burgstall in Gemünden am Main, Bavaria, represents an intriguing archaeological site that offers a fascinating glimpse into the past. This cultural heritage monument is not only significant for its historical context but also provides a unique opportunity for visitors to explore the remnants of ancient civilizations. Set against the backdrop of the picturesque Franconian countryside, Burgstall invites history enthusiasts and curious travelers alike to delve into its storied past, reflecting the region's role in broader historical narratives.
 
 As you approach Burgstall, you will find yourself in a landscape that has witnessed centuries of human activity. The archaeological site is not just a destination; it serves as a reminder of the intricate layers of history that shape the present. With its strategic location, Burgstall has been a focal point for various cultures over time, making it a significant site for those interested in the interplay of history and archaeology. 
 

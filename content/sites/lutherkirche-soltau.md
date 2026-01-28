@@ -28,7 +28,7 @@ image_srcset:
 
 Lutherkirche Soltau is a church building located in the heart of Soltau, Germany, which serves as a significant marker of the region's cultural and religious heritage. This church is more than just a place of worship; it represents a cornerstone of community life and architectural history. Visitors to Soltau will find that the church is easily accessible and situated within a vibrant town, making it a worthwhile stop for anyone interested in exploring local heritage.
 
-The geographical context of Soltau places it within Lower Saxony, a region known for its blend of historical and modern influences. The prominence of Lutherkirche adds to the town’s character, reflecting the historical transformations that have shaped the area over the centuries. Whether you're drawn by the architectural details or seeking a moment of reflection, Lutherkirche Soltau promises a meaningful experience.
+The geographical context of Soltau places it within Lower Saxony, a region known for its blend of historical and modern influences. The prominence of Lutherkirche adds to the town's character, reflecting the historical transformations that have shaped the area over the centuries. Whether you're drawn by the architectural details or seeking a moment of reflection, Lutherkirche Soltau promises a meaningful experience.
 
 ## History and Significance
 
@@ -101,7 +101,7 @@ Specific accessibility features may not be detailed, so it's best to check the o
 Information regarding ticket purchases should be confirmed on the official website, as policies may vary.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and nearby cafes may not be specified, so it’s advisable to explore the area around the church for amenities.
+Details regarding restrooms and nearby cafes may not be specified, so it's advisable to explore the area around the church for amenities.
 
 ### What should I wear?
 Modest clothing is recommended to respect the church environment, alongside comfortable shoes for walking around the site and exploring the surroundings. 

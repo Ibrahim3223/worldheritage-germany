@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Berlin's Bezirk Mitte, the Russisches Haus serves as a vibrant cultural hub dedicated to Russian heritage. Originally established as a Soviet cultural center, this unique venue continues to promote an understanding of Russian arts and cinema, making it a significant landmark in the city’s multifaceted cultural landscape. The Russisches Haus invites visitors to explore the rich narratives embodied in its film programming and events, fostering a deep appreciation for Russian culture amidst Berlin's dynamic urban environment.
+In the heart of Berlin's Bezirk Mitte, the Russisches Haus serves as a vibrant cultural hub dedicated to Russian heritage. Originally established as a Soviet cultural center, this unique venue continues to promote an understanding of Russian arts and cinema, making it a significant landmark in the city's multifaceted cultural landscape. The Russisches Haus invites visitors to explore the rich narratives embodied in its film programming and events, fostering a deep appreciation for Russian culture amidst Berlin's dynamic urban environment.
 
-Positioned in a region renowned for its historical significance and artistic vibrancy, the Russisches Haus not only serves as a movie theater but also as a cultural bridge, connecting diverse communities through film and cultural exchange. With a commitment to showcasing Russian cinema—from classic films to contemporary works—the venue is a must-visit for cinema enthusiasts and cultural explorers alike. The Russisches Haus offers a unique opportunity to engage with Russian films in a setting that honors their historical significance and contemporary relevance, making it a worthwhile stop for anyone traversing Berlin’s rich cultural scene.
+Positioned in a region renowned for its historical significance and artistic vibrancy, the Russisches Haus not only serves as a movie theater but also as a cultural bridge, connecting diverse communities through film and cultural exchange. With a commitment to showcasing Russian cinema—from classic films to contemporary works—the venue is a must-visit for cinema enthusiasts and cultural explorers alike. The Russisches Haus offers a unique opportunity to engage with Russian films in a setting that honors their historical significance and contemporary relevance, making it a worthwhile stop for anyone traversing Berlin's rich cultural scene.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ Overall, the Russisches Haus serves as both a movie theater and a cultural space
 
 ## Visiting Information
 
-When planning a visit to the Russisches Haus, it’s essential to consider transportation options and current accessibility features. Located in Berlin’s Bezirk Mitte, the venue is easily accessible via public transportation, making it convenient for visitors to reach the site. The surrounding area is well-served by bus and tram lines, as well as the U-Bahn, ensuring a smooth journey for those traveling from various parts of the city.
+When planning a visit to the Russisches Haus, it's essential to consider transportation options and current accessibility features. Located in Berlin's Bezirk Mitte, the venue is easily accessible via public transportation, making it convenient for visitors to reach the site. The surrounding area is well-served by bus and tram lines, as well as the U-Bahn, ensuring a smooth journey for those traveling from various parts of the city.
 
 For the latest information regarding opening hours and ticket prices, it is recommended to check the official website, as these details may vary. The Russisches Haus typically hosts screenings and cultural events throughout the week, catering to a diverse audience with varying interests in Russian cinema.
 
@@ -76,7 +76,7 @@ These attractions enhance the cultural experience of visitors to the Russisches 
 
 To make the most of your visit to the Russisches Haus, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s advisable to check with staff regarding specific guidelines, especially during screenings or events.
+- **Photography**: While photography may be allowed in certain areas, it's advisable to check with staff regarding specific guidelines, especially during screenings or events.
 
 - **Crowd Avoidance**: For a more relaxed experience, aim for visits during weekday afternoons or attend lesser-known screenings. Popular films may draw larger crowds, so planning your visit accordingly can enhance your experience.
 
@@ -86,7 +86,7 @@ To make the most of your visit to the Russisches Haus, consider these insider ti
 
 When visiting the Russisches Haus, there are a few practical considerations to keep in mind:
 
-- **What to Bring**: A notebook and pen can be useful for jotting down thoughts during film screenings or events. If you’re interested in attending discussions, having questions prepared can enhance your engagement.
+- **What to Bring**: A notebook and pen can be useful for jotting down thoughts during film screenings or events. If you're interested in attending discussions, having questions prepared can enhance your engagement.
 
 - **Seasonal Considerations**: Throughout the year, the Russisches Haus may host seasonal events or special screenings, so be sure to check the official website for updates and programming changes during holidays or festivals.
 
@@ -98,7 +98,7 @@ When visiting the Russisches Haus, there are a few practical considerations to k
 A visit to the Russisches Haus typically involves at least a couple of hours, especially if attending a film screening or cultural event.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the venue regarding specific guidelines before taking photos.
+Photography policies may vary, so it's best to check with the venue regarding specific guidelines before taking photos.
 
 ### Are there guided tours?
 Currently, guided tours are not mentioned. For specific inquiries, check the official website for available options.

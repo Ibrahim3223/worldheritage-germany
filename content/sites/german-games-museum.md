@@ -22,7 +22,7 @@ images:
 
 The German Games Museum, located in Chemnitz, Kappel, is a unique establishment dedicated to the world of games. This museum highlights the cultural significance of games, showcasing an impressive array of board games, card games, and more. As one of the few museums focused solely on games, it provides an engaging environment for visitors of all ages, making it a vital part of Germany's cultural landscape. Here, you can explore the evolution of games from ancient times to modern-day, gaining insight into how play has influenced society and individual creativity throughout history.
 
-Situated in the heart of Chemnitz, the museum serves as a gateway to understanding the universal language of games. Whether you’re a casual player or a game enthusiast, the German Games Museum offers a unique opportunity to engage with the history and artistry behind various forms of entertainment. With interactive exhibits and a plethora of displays, visitors are encouraged to immerse themselves in the joy of gaming while appreciating its educational and social value.
+Situated in the heart of Chemnitz, the museum serves as a gateway to understanding the universal language of games. Whether you're a casual player or a game enthusiast, the German Games Museum offers a unique opportunity to engage with the history and artistry behind various forms of entertainment. With interactive exhibits and a plethora of displays, visitors are encouraged to immerse themselves in the joy of gaming while appreciating its educational and social value.
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ Chemnitz is home to several attractions that complement a visit to the German Ga
    
 2. **Chemnitz Art Collections**: Located nearby, this institution houses a diverse range of artwork and is perfect for art lovers looking to explore the cultural offerings of the city.
 
-3. **Museum of Industry**: This museum showcases the industrial history of Chemnitz, providing insights into the city’s development and its significance in the German industrial landscape.
+3. **Museum of Industry**: This museum showcases the industrial history of Chemnitz, providing insights into the city's development and its significance in the German industrial landscape.
 
 4. **Saxony State Museum of Archaeology**: This museum offers a glimpse into the region's ancient history, featuring artifacts and exhibits that span thousands of years.
 

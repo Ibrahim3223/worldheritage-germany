@@ -89,7 +89,7 @@ A visit to Borgfeld church typically takes about one hour, allowing time to appr
 Photography is generally permitted, but it's best to be respectful and check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
-Information about guided tours is not specified; however, it’s advisable to check the official website for any offerings.
+Information about guided tours is not specified; however, it's advisable to check the official website for any offerings.
 
 ### What's the best time to visit?
 Visiting during weekday mornings or late afternoons can provide a quieter experience.
@@ -101,7 +101,7 @@ Accessibility details are not provided; checking the official website prior to y
 Information regarding online ticket purchases is not available; please check the official website for the latest updates.
 
 ### Are there restrooms and cafes?
-Specific amenities such as restrooms and cafes are not detailed; it’s best to verify through the official website or inquire locally.
+Specific amenities such as restrooms and cafes are not detailed; it's best to verify through the official website or inquire locally.
 
 ### What should I wear?
 Modest attire is recommended, especially if visiting during services, along with comfortable shoes for exploring the area. 

@@ -36,7 +36,7 @@ While specific historical details regarding Am Großen Renzeler Moor may not be 
 
 The Moor itself plays a vital role in the local ecosystem, acting as a sponge that absorbs rainfall and releases it gradually, thus supporting local water tables. This function is essential in preventing flooding and maintaining the health of surrounding areas. Furthermore, wetlands such as Am Großen Renzeler Moor are known for their biodiversity, providing a habitat for a variety of plant and animal species. The presence of rare and endangered species highlights the importance of this reserve, drawing the attention of conservationists and researchers alike.
 
-Local communities also benefit from reserves like Am Großen Renzeler Moor through opportunities for education and recreation. Engaging with nature can foster a sense of stewardship, encouraging individuals to contribute to the preservation of the environment. The reserve’s role in scientific research cannot be understated, as it offers insights into ecological dynamics and conservation strategies that can be applied in other regions.
+Local communities also benefit from reserves like Am Großen Renzeler Moor through opportunities for education and recreation. Engaging with nature can foster a sense of stewardship, encouraging individuals to contribute to the preservation of the environment. The reserve's role in scientific research cannot be understated, as it offers insights into ecological dynamics and conservation strategies that can be applied in other regions.
 
 ## Architecture and Features
 
@@ -82,7 +82,7 @@ Bringing water and snacks can enhance your experience, especially if you plan to
 A visit typically takes a couple of hours, but this can vary based on your interests and activities.
 
 ### Is photography allowed?
-Yes, photography is permitted, but it’s advisable to respect the natural habitat and wildlife.
+Yes, photography is permitted, but it's advisable to respect the natural habitat and wildlife.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for any updates.

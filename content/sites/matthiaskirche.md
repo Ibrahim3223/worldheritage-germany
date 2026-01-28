@@ -64,7 +64,7 @@ While Matthiaskirche is a highlight in itself, there are several nearby attracti
 
 2. **Lower Saxony State Museum**: Just a brief journey away, this museum features an extensive collection of art and cultural artifacts, providing deeper insights into the region's history and heritage.
 
-3. **The Old Town (Altstadt)**: Wander through the historic streets of Hannover’s Old Town, where you can admire half-timbered houses, quaint shops, and charming cafés, immersing yourself in the city's local culture.
+3. **The Old Town (Altstadt)**: Wander through the historic streets of Hannover's Old Town, where you can admire half-timbered houses, quaint shops, and charming cafés, immersing yourself in the city's local culture.
 
 4. **The Marktkirche**: This nearby church is another architectural marvel and a significant historical site in Hannover. Its striking design and rich history make it a worthwhile addition to your itinerary.
 
@@ -111,9 +111,9 @@ Accessibility information can vary, so check the official website for current de
 For information regarding ticket purchases, including online options, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available, but it’s best to confirm details ahead of your visit.
+Facilities such as restrooms and nearby cafes may be available, but it's best to confirm details ahead of your visit.
 
 ### What should I wear?
 Dress modestly and comfortably, as Matthiaskirche is a place of worship. Consider the weather and plan accordingly.
 
-Visiting Matthiaskirche offers an opportunity to connect with Hannover’s rich cultural and spiritual heritage. Whether you are drawn by the architecture, history, or community, this church is a significant site that invites exploration and reflection.
+Visiting Matthiaskirche offers an opportunity to connect with Hannover's rich cultural and spiritual heritage. Whether you are drawn by the architecture, history, or community, this church is a significant site that invites exploration and reflection.

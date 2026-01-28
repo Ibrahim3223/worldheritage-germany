@@ -103,13 +103,13 @@ Information on guided tours may vary. Check the official website for current off
 Early morning or late afternoon is ideal for a more contemplative experience and to avoid crowds.
 
 ### Is it wheelchair accessible?
-Specific accessibility details are not provided. It’s recommended to check the official website for more information.
+Specific accessibility details are not provided. It's recommended to check the official website for more information.
 
 ### Can I buy tickets online?
 For the latest information on admission and ticketing, check the official website.
 
 ### Are there restrooms and cafes?
-Details on facilities are not specified. It’s advisable to check available amenities before your visit.
+Details on facilities are not specified. It's advisable to check available amenities before your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to explore the surrounding area.

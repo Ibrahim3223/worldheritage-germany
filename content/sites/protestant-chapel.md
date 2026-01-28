@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Protestant Chapel in Felsberg, Germany, serves as an emblem of spiritual and architectural heritage. Situated amidst the serene landscapes of the region, this chapel invites visitors to explore its tranquil ambiance and cultural significance. Offering a space for contemplation and worship, it embodies the essence of Protestant faith and community. As you approach, you are welcomed by the chapel’s understated elegance, a reminder of the enduring religious practices that shaped the area. This guide aims to provide a comprehensive insight into the chapel’s history, architecture, and practical information for visitors.
+The Protestant Chapel in Felsberg, Germany, serves as an emblem of spiritual and architectural heritage. Situated amidst the serene landscapes of the region, this chapel invites visitors to explore its tranquil ambiance and cultural significance. Offering a space for contemplation and worship, it embodies the essence of Protestant faith and community. As you approach, you are welcomed by the chapel's understated elegance, a reminder of the enduring religious practices that shaped the area. This guide aims to provide a comprehensive insight into the chapel's history, architecture, and practical information for visitors.
 
 ## History and Significance
 
@@ -34,7 +34,7 @@ The Protestant Chapel has a storied past that reflects the broader historical na
 
 Throughout history, Protestant churches have often been at the forefront of educational and community initiatives. The chapel likely served not only as a spiritual center but also as a gathering place for social events and discussions during pivotal moments in local history. This dual role has cemented its importance within the community, providing a space for both worship and fellowship.
 
-In the context of Felsberg, the chapel is more than just a religious site; it embodies the values and beliefs of its constituents, reflecting a commitment to faith that has endured through changing times. It stands as a reminder of the resilience of the Protestant community and its influence on the region’s development.
+In the context of Felsberg, the chapel is more than just a religious site; it embodies the values and beliefs of its constituents, reflecting a commitment to faith that has endured through changing times. It stands as a reminder of the resilience of the Protestant community and its influence on the region's development.
 
 ## Architecture and Features
 

@@ -38,7 +38,7 @@ The history of the Propsteikirche is intertwined with the development of Dortmun
 
 As a Catholic place of worship, the church has been a center for community gatherings, religious ceremonies, and cultural events throughout its history. Its significance extends beyond mere functionality; it has been a witness to the changes and challenges faced by the city over the centuries. The Propsteikirche has adapted to the shifting tides of history, maintaining its relevance as a site of spiritual and cultural importance.
 
-While specific dates may be elusive, the church's architectural evolution highlights its role in the broader narrative of Gothic architecture in Germany. The intricate details of its design reflect the artistic endeavors of its builders and the community's devotion to creating a sacred space. The Propsteikirche stands as a symbol of resilience, surviving the test of time and remaining a key feature of Dortmund’s urban landscape.
+While specific dates may be elusive, the church's architectural evolution highlights its role in the broader narrative of Gothic architecture in Germany. The intricate details of its design reflect the artistic endeavors of its builders and the community's devotion to creating a sacred space. The Propsteikirche stands as a symbol of resilience, surviving the test of time and remaining a key feature of Dortmund's urban landscape.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ Expect to find a serene atmosphere within the church, offering a space for quiet
 
 While visiting the Propsteikirche, consider exploring other notable sites in the vicinity:
 
-1. **Dortmund U-Tower**: A former brewery turned cultural center, the U-Tower is home to exhibitions, events, and a panoramic viewing platform offering insights into the city’s development.
+1. **Dortmund U-Tower**: A former brewery turned cultural center, the U-Tower is home to exhibitions, events, and a panoramic viewing platform offering insights into the city's development.
 
 2. **Museum Ostwall**: Located in the U-Tower, this museum focuses on modern and contemporary art, showcasing a diverse collection that complements the historical narrative of the region.
 
@@ -84,7 +84,7 @@ For those planning a visit to the Propsteikirche, here are some insider tips to 
 
 ## Practical Information
 
-When planning your visit to the Propsteikirche, consider bringing along a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. A camera can help capture the intricate details of the church’s architecture.
+When planning your visit to the Propsteikirche, consider bringing along a few essentials. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area. A camera can help capture the intricate details of the church's architecture.
 
 Seasonal considerations may also play a role in your visit. The church can be inviting during all seasons, but if you plan to visit during winter months, be prepared for cooler temperatures and potentially slippery surfaces. Conversely, spring and summer provide a lovely backdrop for enjoying the nearby parks and outdoor spaces.
 

@@ -66,9 +66,9 @@ While the Oberfränkisches Textilmuseum is a destination in itself, there are se
 
 ## Insider Tips
 
-When visiting the Oberfränkisches Textilmuseum, consider bringing a camera to capture the stunning textile displays, though it’s wise to check the museum’s photography policy in advance. To avoid crowds, aim to visit during mid-week or in the early morning hours. This allows for a more intimate experience as you engage with the exhibits.
+When visiting the Oberfränkisches Textilmuseum, consider bringing a camera to capture the stunning textile displays, though it's wise to check the museum's photography policy in advance. To avoid crowds, aim to visit during mid-week or in the early morning hours. This allows for a more intimate experience as you engage with the exhibits.
 
-Don’t hesitate to ask museum staff about any ongoing workshops or special events, as these can provide unique opportunities to learn more about textile arts.
+Don't hesitate to ask museum staff about any ongoing workshops or special events, as these can provide unique opportunities to learn more about textile arts.
 
 ## Practical Information
 

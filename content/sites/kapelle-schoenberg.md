@@ -34,11 +34,11 @@ Whether you are a history enthusiast, a spiritual seeker, or simply in search of
 
 ## History and Significance
 
-The history of Kapelle Schönberg is woven into the broader narrative of the Schrecksbach region, which has seen various cultural influences over the centuries. While specific dates may be elusive, the chapel is emblematic of the area’s religious traditions and architectural styles. It serves as a focal point for the local community, historically functioning as a gathering place for worship and reflection.
+The history of Kapelle Schönberg is woven into the broader narrative of the Schrecksbach region, which has seen various cultural influences over the centuries. While specific dates may be elusive, the chapel is emblematic of the area's religious traditions and architectural styles. It serves as a focal point for the local community, historically functioning as a gathering place for worship and reflection.
 
 Chapel architecture often reflects the spiritual and cultural values of the time, and Kapelle Schönberg is no exception. The structure is likely a product of the local craftsmanship, showcasing the skills and artistry of artisans who contributed to its construction. The chapel not only serves religious purposes but also acts as a cultural landmark, representing the community's shared history and values.
 
-Visitors to Kapelle Schönberg can appreciate the spiritual atmosphere that has been cultivated over generations. It stands as a space for contemplation, where one can connect with the deeper narratives of faith and tradition that have shaped the lives of those who have come before us. The chapel’s role in community life adds layers of significance, making it a poignant site for both locals and travelers.
+Visitors to Kapelle Schönberg can appreciate the spiritual atmosphere that has been cultivated over generations. It stands as a space for contemplation, where one can connect with the deeper narratives of faith and tradition that have shaped the lives of those who have come before us. The chapel's role in community life adds layers of significance, making it a poignant site for both locals and travelers.
 
 ## Architecture and Features
 

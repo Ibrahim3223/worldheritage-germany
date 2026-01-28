@@ -50,7 +50,7 @@ As you explore the castle grounds, you will notice various architectural feature
 
 While specific details about the interior features may not be available, it is common for castles of this type to have grand halls, where banquets and gatherings would take place. The design often reflects the social hierarchy of the time, with distinct areas for nobility and servants. 
 
-Visitors to Burg Kranenburg can appreciate not only the exterior but also the surrounding landscape that complements the castle’s design. The harmonious relationship between the castle and its environment enhances the overall experience, encouraging exploration and photography.
+Visitors to Burg Kranenburg can appreciate not only the exterior but also the surrounding landscape that complements the castle's design. The harmonious relationship between the castle and its environment enhances the overall experience, encouraging exploration and photography.
 
 ## Visiting Information
 
@@ -101,7 +101,7 @@ A visit to Burg Kranenburg typically lasts around two to three hours, allowing t
 Yes, photography is generally permitted, but be respectful of any signage regarding restrictions, especially inside certain areas.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may offer deeper insights into the castle’s history and architecture.
+Check the official website for information on guided tours, which may offer deeper insights into the castle's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and autumn months when the weather is mild and the landscape is particularly attractive.

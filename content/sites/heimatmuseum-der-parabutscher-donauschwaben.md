@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Heimatmuseum der Parabutscher Donauschwaben in Bad Schönborn, Germany, serves as a cultural repository celebrating the history and heritage of the German settlement in the region of Parabutsch, Serbia. This museum is not just a collection of artifacts; it is a narrative woven from the lives of the Donauschwaben people, whose migration and experiences shaped their identity and community. Situated in the heart of Bad Schönborn, the museum invites visitors to explore the intricate history of a group that has largely influenced the cultural landscape of the area. The museum’s exhibitions provide insight into the traditions, customs, and challenges faced by the Donauschwaben, making it an essential stop for those interested in European migration history and cultural anthropology.
+The Heimatmuseum der Parabutscher Donauschwaben in Bad Schönborn, Germany, serves as a cultural repository celebrating the history and heritage of the German settlement in the region of Parabutsch, Serbia. This museum is not just a collection of artifacts; it is a narrative woven from the lives of the Donauschwaben people, whose migration and experiences shaped their identity and community. Situated in the heart of Bad Schönborn, the museum invites visitors to explore the intricate history of a group that has largely influenced the cultural landscape of the area. The museum's exhibitions provide insight into the traditions, customs, and challenges faced by the Donauschwaben, making it an essential stop for those interested in European migration history and cultural anthropology.
 
 ## History and Significance
 

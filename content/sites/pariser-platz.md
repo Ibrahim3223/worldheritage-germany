@@ -72,7 +72,7 @@ Pariser Platz is conveniently located near several significant attractions that 
 
 ## Insider Tips
 
-For those looking to capture the essence of Pariser Platz through photography, consider visiting during the "golden hour"—the hour after sunrise or before sunset—when the light softens and enhances the square’s architectural details. Additionally, to avoid the largest crowds, aim to arrive early in the morning or on weekdays.
+For those looking to capture the essence of Pariser Platz through photography, consider visiting during the "golden hour"—the hour after sunrise or before sunset—when the light softens and enhances the square's architectural details. Additionally, to avoid the largest crowds, aim to arrive early in the morning or on weekdays.
 
 While exploring, take note of the various street performances and cultural events that often take place in the square. These can provide unique photographic opportunities and a chance to engage with local art and culture.
 

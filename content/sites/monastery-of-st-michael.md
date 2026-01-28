@@ -32,7 +32,7 @@ The Monastery of St. Michael not only serves as a place of worship but also as a
 
 ## History and Significance
 
-The Monastery of St. Michael has deep roots in the religious and cultural fabric of Heidelberg. While specific dates and events may not be documented, the monastery's establishment marks an important chapter in the region’s ecclesiastical history. As a center of monastic life, it played a crucial role in the spiritual development of the community, fostering education, art, and pastoral care.
+The Monastery of St. Michael has deep roots in the religious and cultural fabric of Heidelberg. While specific dates and events may not be documented, the monastery's establishment marks an important chapter in the region's ecclesiastical history. As a center of monastic life, it played a crucial role in the spiritual development of the community, fostering education, art, and pastoral care.
 
 Monasteries during this period often served not only as places of worship but also as centers for learning and cultural exchange. The Monastery of St. Michael would have been a hub for religious scholars and practitioners, contributing to the intellectual life of the region. The influence of monastic communities like St. Michael extended beyond their walls, impacting local economies and supporting agricultural practices through the management of surrounding lands.
 
@@ -84,7 +84,7 @@ Seasonal considerations should also be taken into account. Spring and early autu
 A visit typically takes between one to two hours, allowing time to explore the monastery and enjoy the surrounding environment.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any signs indicating restrictions.
+Photography is generally permitted, but it's advisable to be respectful of any signs indicating restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may enhance your understanding of the monastery's history and architecture.

@@ -97,7 +97,7 @@ Guided tours may be available, offering insights into the history and design of 
 The best time to visit is during spring and summer when the gardens are in full bloom. Early mornings or late afternoons are also ideal for fewer crowds.
 
 ### Is it wheelchair accessible?
-Most areas of Herrenhausen Gardens are accessible for visitors with mobility challenges, but it’s advisable to check specific pathways and facilities in advance.
+Most areas of Herrenhausen Gardens are accessible for visitors with mobility challenges, but it's advisable to check specific pathways and facilities in advance.
 
 ### Can I buy tickets online?
 Check the official website for options regarding ticket purchases, as online booking may be available.

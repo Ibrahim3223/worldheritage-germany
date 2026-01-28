@@ -38,13 +38,13 @@ The Church in Löcknitz holds a notable place within the historical landscape of
 
 Throughout history, churches have often served dual roles as places of worship and community hubs. The Church in Löcknitz is no exception, fostering a sense of belonging among its parishioners. The church's significance is further underscored by its architectural features, which may reflect the evolving styles and practices of ecclesiastical construction through the years.
 
-The church likely witnessed pivotal events in the village’s history, from local celebrations to significant religious observances. Its walls have absorbed the stories, prayers, and aspirations of countless individuals who have sought solace and guidance within its confines. As such, the Church in Löcknitz stands not only as a religious entity but also as a repository of local history and culture, contributing to the narrative of Löcknitz as a whole.
+The church likely witnessed pivotal events in the village's history, from local celebrations to significant religious observances. Its walls have absorbed the stories, prayers, and aspirations of countless individuals who have sought solace and guidance within its confines. As such, the Church in Löcknitz stands not only as a religious entity but also as a repository of local history and culture, contributing to the narrative of Löcknitz as a whole.
 
 ## Architecture and Features
 
 The architectural design of the Church in Löcknitz reflects the aesthetic principles of ecclesiastical buildings typical of its period. While precise details about its construction materials and stylistic elements are not specified, many churches in this region exhibit characteristics such as pointed arches, intricate stained glass windows, and robust stone facades. These features serve both functional and decorative purposes, enhancing the visual impact of the structure while ensuring its durability.
 
-The church’s interior likely features traditional elements such as an altar, pews, and possibly a pulpit, all designed to facilitate worship and reflection. The layout is typically oriented towards the altar, emphasizing the significance of the sacred space within the church.
+The church's interior likely features traditional elements such as an altar, pews, and possibly a pulpit, all designed to facilitate worship and reflection. The layout is typically oriented towards the altar, emphasizing the significance of the sacred space within the church.
 
 Additionally, the exterior may include a steeple or bell tower, a common feature that not only marks the church's presence in the village but also serves a practical purpose by calling the community to worship. The overall design and features of the Church in Löcknitz contribute to its role as a vital landmark within the village, inviting both parishioners and visitors to engage with its spiritual and historical significance.
 

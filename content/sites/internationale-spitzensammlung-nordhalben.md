@@ -44,7 +44,7 @@ Exhibits within the museum may include historical pieces, contemporary works, an
 
 Reaching the Internationale Spitzensammlung Nordhalben is accessible via various modes of transport, making it convenient for both local and international visitors. Whether arriving by car or public transport, the museum is well-positioned to welcome guests. 
 
-When planning a visit, it's important to check the official website for current information regarding opening hours and ticket prices, as these can vary seasonally. The museum typically allows visitors to explore its exhibits at a leisurely pace, and a visit can take anywhere from one to two hours, depending on one’s interest in the displays.
+When planning a visit, it's important to check the official website for current information regarding opening hours and ticket prices, as these can vary seasonally. The museum typically allows visitors to explore its exhibits at a leisurely pace, and a visit can take anywhere from one to two hours, depending on one's interest in the displays.
 
 The best times to visit are likely during weekdays or early in the day to avoid potential crowds. This timing offers a more intimate experience with the exhibits, allowing for deeper engagement with the artworks and educational materials.
 

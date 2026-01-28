@@ -60,7 +60,7 @@ While visiting the Reclam-Museum, consider exploring these nearby attractions th
    
 2. **The Museum of Fine Arts (Museum der bildenden Künste)**: This museum features a collection of European paintings and sculptures, offering a visual feast for art enthusiasts.
    
-3. **The Leipzig City History Museum (Stadtgeschichtliches Museum Leipzig)**: Located in a historic building, this museum provides insights into the city’s past and cultural heritage.
+3. **The Leipzig City History Museum (Stadtgeschichtliches Museum Leipzig)**: Located in a historic building, this museum provides insights into the city's past and cultural heritage.
    
 4. **The Nikolaikirche (St. Nicholas Church)**: A historical church that played a significant role in the peaceful protests of 1989, contributing to the fall of the Berlin Wall.
    
@@ -68,7 +68,7 @@ While visiting the Reclam-Museum, consider exploring these nearby attractions th
 
 ## Insider Tips
 
-For photography enthusiasts, the Reclam-Museum may have specific guidelines regarding photography, so it's wise to check beforehand. Capturing the essence of the exhibits can enhance your visit, but always respect the museum’s policies.
+For photography enthusiasts, the Reclam-Museum may have specific guidelines regarding photography, so it's wise to check beforehand. Capturing the essence of the exhibits can enhance your visit, but always respect the museum's policies.
 
 To avoid crowds, consider visiting during weekday mornings or later in the afternoon. This timing can provide a more intimate experience, allowing for a deeper appreciation of the exhibits without the hustle and bustle of larger groups.
 

@@ -82,7 +82,7 @@ When visiting St. Michael Church, it is advisable to bring a light jacket or swe
 
 Seasonal considerations may affect your visit; check the official website for any special events or services that correspond with holidays or local festivals. 
 
-It’s beneficial to maintain a respectful demeanor while in the church, as it remains a place of worship for many. 
+It's beneficial to maintain a respectful demeanor while in the church, as it remains a place of worship for many. 
 
 ## Frequently Asked Questions
 
@@ -93,7 +93,7 @@ A visit typically lasts around 30 minutes, but those interested in exploring mor
 Check the official website for specific photography policies, as they may vary based on ongoing services or events.
 
 ### Are there guided tours?
-Guided tours may be available; it’s advisable to check the official website for details regarding scheduling and availability.
+Guided tours may be available; it's advisable to check the official website for details regarding scheduling and availability.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning or early afternoon, tend to be less crowded, offering a more peaceful experience.

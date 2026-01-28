@@ -40,7 +40,7 @@ The zoo's significance extends beyond its animal inhabitants; it acts as a commu
 
 ## Architecture and Features
 
-The architectural design of the Aachener Tierpark Euregiozoo reflects its commitment to creating a naturalistic environment for its residents. The layout is thoughtfully arranged to mimic the animals' natural habitats, allowing for both their comfort and the enjoyment of visitors. The enclosures are designed with the animals’ well-being in mind, providing them with ample space to roam and exhibit natural behaviors.
+The architectural design of the Aachener Tierpark Euregiozoo reflects its commitment to creating a naturalistic environment for its residents. The layout is thoughtfully arranged to mimic the animals' natural habitats, allowing for both their comfort and the enjoyment of visitors. The enclosures are designed with the animals' well-being in mind, providing them with ample space to roam and exhibit natural behaviors.
 
 One of the notable features of the zoo is its variety of habitats that represent different ecosystems. From lush greenery and open spaces to more structured environments, each area offers a unique glimpse into the lives of its inhabitants. The paths wind through the zoo, allowing for a leisurely exploration of the exhibits, while also providing opportunities for education through informative signage placed throughout the grounds.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or outside of school holidays
 
 ## Practical Information
 
-When preparing for a visit to the Aachener Tierpark Euregiozoo, it’s essential to bring along some basics. Comfortable walking shoes are recommended, as the zoo encompasses various paths and terrains. Depending on the season, sunscreen or umbrellas may also be necessary to ensure a comfortable experience.
+When preparing for a visit to the Aachener Tierpark Euregiozoo, it's essential to bring along some basics. Comfortable walking shoes are recommended, as the zoo encompasses various paths and terrains. Depending on the season, sunscreen or umbrellas may also be necessary to ensure a comfortable experience.
 
 Consider bringing a reusable water bottle to stay hydrated, especially during warmer months. Seasonal events or activities may be available, so checking the official website can provide updates on what to expect during your visit.
 

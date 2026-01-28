@@ -99,7 +99,7 @@ A visit to the Ardorf Protestant Church can take anywhere from 30 minutes to two
 Photography policies may vary. Check for any signage regarding photography inside the church to ensure compliance with the rules.
 
 ### Are there guided tours?
-Information about guided tours may not be available. It’s best to check the official website or inquire locally upon your arrival.
+Information about guided tours may not be available. It's best to check the official website or inquire locally upon your arrival.
 
 ### What's the best time to visit?
 Weekdays may offer a quieter experience, while weekends may be more lively due to services and events. Check local calendars for any special occasions.

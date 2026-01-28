@@ -38,7 +38,7 @@ The Ibrahim Al-Khalil Mosque is an important institution within the Islamic comm
 
 As the Muslim population in Osnabrück has grown, so has the necessity for a dedicated space for worship and community activities. The mosque not only serves the religious needs of its congregants but also acts as a center for cultural exchange and education, helping to foster understanding between different communities. Within its walls, the mosque hosts various activities, including educational programs, interfaith dialogues, and community outreach initiatives.
 
-The significance of Ibrahim Al-Khalil Mosque is further underscored by its role in promoting peace and tolerance in a diverse society. It stands as a place where individuals from various backgrounds can come together, share their experiences, and cultivate mutual respect—an essential element in today’s increasingly interconnected world. Through such interactions, the mosque contributes to a greater understanding of Islamic culture and traditions among non-Muslims, enhancing the social fabric of Osnabrück.
+The significance of Ibrahim Al-Khalil Mosque is further underscored by its role in promoting peace and tolerance in a diverse society. It stands as a place where individuals from various backgrounds can come together, share their experiences, and cultivate mutual respect—an essential element in today's increasingly interconnected world. Through such interactions, the mosque contributes to a greater understanding of Islamic culture and traditions among non-Muslims, enhancing the social fabric of Osnabrück.
 
 ## Architecture and Features
 
@@ -64,23 +64,23 @@ In preparation for your visit, consider dressing modestly, in line with cultural
 
 Osnabrück is home to a variety of attractions that complement a visit to Ibrahim Al-Khalil Mosque. Nearby sites include:
 
-1. **Osnabrück Castle**: This historical landmark is an excellent place to learn about the city’s history and architecture.
+1. **Osnabrück Castle**: This historical landmark is an excellent place to learn about the city's history and architecture.
 2. **Felix-Nussbaum-Haus**: An art museum dedicated to the works of the Jewish painter Felix Nussbaum, offering insight into his life and art.
-3. **St. Peter’s Cathedral**: A stunning example of Romanesque architecture, this cathedral is a significant religious site in the city.
+3. **St. Peter's Cathedral**: A stunning example of Romanesque architecture, this cathedral is a significant religious site in the city.
 4. **Botanical Garden**: A peaceful escape filled with various plant species, perfect for a leisurely stroll.
-5. **Historic Town Center**: Explore the charming streets lined with shops, cafes, and historical buildings that showcase the city’s heritage.
+5. **Historic Town Center**: Explore the charming streets lined with shops, cafes, and historical buildings that showcase the city's heritage.
 
-These attractions provide a broader context for understanding Osnabrück’s cultural landscape and enhance the overall experience of visiting the area.
+These attractions provide a broader context for understanding Osnabrück's cultural landscape and enhance the overall experience of visiting the area.
 
 ## Insider Tips
 
-For those planning to visit Ibrahim Al-Khalil Mosque, a few insider tips can enhance your experience. If you’re interested in photography, be mindful of the mosque’s policies on taking pictures, particularly during prayer times. It’s best to inquire upon arrival, as certain areas may have restrictions.
+For those planning to visit Ibrahim Al-Khalil Mosque, a few insider tips can enhance your experience. If you're interested in photography, be mindful of the mosque's policies on taking pictures, particularly during prayer times. It's best to inquire upon arrival, as certain areas may have restrictions.
 
-To avoid crowds, consider visiting during weekdays or outside of peak prayer times, which can provide a more intimate experience of the mosque's atmosphere. Engaging with community members or staff can also enrich your understanding of the mosque’s significance and the activities that take place there.
+To avoid crowds, consider visiting during weekdays or outside of peak prayer times, which can provide a more intimate experience of the mosque's atmosphere. Engaging with community members or staff can also enrich your understanding of the mosque's significance and the activities that take place there.
 
 ## Practical Information
 
-When visiting Ibrahim Al-Khalil Mosque, it’s advisable to bring essentials such as a water bottle and a small bag for personal items. If you’re planning to participate in any community events, check what items might be appropriate to bring along, as certain gatherings may have specific requirements.
+When visiting Ibrahim Al-Khalil Mosque, it's advisable to bring essentials such as a water bottle and a small bag for personal items. If you're planning to participate in any community events, check what items might be appropriate to bring along, as certain gatherings may have specific requirements.
 
 Seasonal considerations are also important. If visiting during winter, dress warmly, as some areas may not be heated. In the summer months, lightweight clothing is recommended, but ensure that it remains respectful of the cultural setting.
 
@@ -92,7 +92,7 @@ Visiting during community events can enhance your experience, allowing you to en
 Spending around an hour at the mosque allows you to appreciate its atmosphere and learn about its significance without feeling rushed.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to ask upon arrival. Be respectful of prayer times and the privacy of congregants.
+Photography policies may vary, so it's best to ask upon arrival. Be respectful of prayer times and the privacy of congregants.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or community events that might provide deeper insights into the mosque.
@@ -101,7 +101,7 @@ Check the official website for information on guided tours or community events t
 Weekdays or special community events may provide a more enriching experience, as weekends can be busier due to regular worship services.
 
 ### Is it wheelchair accessible?
-Specific accessibility features may vary, so it’s advisable to check in advance regarding facilities for those with mobility challenges.
+Specific accessibility features may vary, so it's advisable to check in advance regarding facilities for those with mobility challenges.
 
 ### Can I buy tickets online?
 Entry to the mosque is generally free, but for specific events or guided tours, check the official website for any required reservations.

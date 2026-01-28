@@ -56,7 +56,7 @@ For current information on hours of operation and ticket prices, it is advisable
 
 When planning your visit, consider dedicating adequate time to explore both the synagogue and its surroundings. A visit may take approximately one to two hours, allowing you to appreciate the architectural features and reflect on the cultural significance of the site. The best times to visit may vary depending on local events and seasonal weather, so being aware of special dates can enhance your experience.
 
-Visitors should expect a respectful atmosphere, as the synagogue is a place of worship and reflection. Engaging with the site’s history and significance can provide a deeper understanding of the Jewish community's legacy in Haigerloch.
+Visitors should expect a respectful atmosphere, as the synagogue is a place of worship and reflection. Engaging with the site's history and significance can provide a deeper understanding of the Jewish community's legacy in Haigerloch.
 
 ## Nearby Attractions
 

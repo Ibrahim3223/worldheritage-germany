@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the Bezirk Mitte district of Germany, Gerichtshöfe is a striking architectural ensemble that captivates visitors with its unique design and historical significance. This site serves as a reminder of the region's rich cultural heritage and architectural prowess. The Gerichtshöfe, with its distinctive structures, reflects the evolution of urban design and the melding of functionality with aesthetic appeal. As you approach the ensemble, its commanding presence invites exploration and appreciation of both its architectural elements and the stories embedded within its walls. 
 
-The Gerichtshöfe is not just a visual spectacle; it also holds a crucial place in the narrative of the city’s development. It signifies the historical importance of judicial proceedings in the area and showcases the evolution of legal architecture through various periods. Visitors to this architectural ensemble can expect an insightful experience that connects the past with the present, offering a glimpse into the historical functions that once took place here and their impact on contemporary society.
+The Gerichtshöfe is not just a visual spectacle; it also holds a crucial place in the narrative of the city's development. It signifies the historical importance of judicial proceedings in the area and showcases the evolution of legal architecture through various periods. Visitors to this architectural ensemble can expect an insightful experience that connects the past with the present, offering a glimpse into the historical functions that once took place here and their impact on contemporary society.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ Visitors to the Gerichtshöfe will appreciate the balance between form and funct
 
 The Gerichtshöfe is accessible to the public, providing an opportunity to explore its architectural grandeur and historical significance. For detailed visiting hours and ticket prices, check the official website for current information. 
 
-When planning your visit, consider using public transportation, as it is often the most convenient option in urban areas. The site’s central location in Bezirk Mitte makes it relatively easy to incorporate into a broader exploration of the area. 
+When planning your visit, consider using public transportation, as it is often the most convenient option in urban areas. The site's central location in Bezirk Mitte makes it relatively easy to incorporate into a broader exploration of the area. 
 
 Expect to spend approximately one to two hours at the Gerichtshöfe, allowing ample time to appreciate the architecture and learn about its history. The best times to visit are typically during weekdays, when the site may be less crowded, allowing for a more contemplative experience. 
 
@@ -112,4 +112,4 @@ Facilities such as restrooms and cafes may be available nearby; check the offici
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the area extensively. 
 
-With its architectural significance and historical context, the Gerichtshöfe offers a compelling experience for those interested in Germany’s cultural heritage. Whether you're an architecture enthusiast or simply curious about the site, a visit promises to be rewarding.
+With its architectural significance and historical context, the Gerichtshöfe offers a compelling experience for those interested in Germany's cultural heritage. Whether you're an architecture enthusiast or simply curious about the site, a visit promises to be rewarding.

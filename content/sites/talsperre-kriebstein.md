@@ -34,7 +34,7 @@ As a testament to human capability and environmental stewardship, Talsperre Krie
 
 ## Architecture and Features
 
-Talsperre Kriebstein is characterized by its impressive structure, designed to withstand the forces of nature while effectively managing water flow. The dam’s architecture highlights the principles of hydraulic engineering, with a robust design that showcases both functionality and durability. The construction materials used in the dam underscore its resilience, ensuring it can endure the test of time and the elements.
+Talsperre Kriebstein is characterized by its impressive structure, designed to withstand the forces of nature while effectively managing water flow. The dam's architecture highlights the principles of hydraulic engineering, with a robust design that showcases both functionality and durability. The construction materials used in the dam underscore its resilience, ensuring it can endure the test of time and the elements.
 
 Notable features of the dam include its sturdy walls, which are engineered to handle significant water pressure, and the spillway, designed for controlled water release during periods of heavy rainfall. The surrounding area is also well-maintained, offering scenic pathways and viewpoints that enhance the experience for visitors.
 
@@ -70,7 +70,7 @@ To avoid crowds, aim to visit on weekdays or during off-peak seasons. Early morn
 
 ## Practical Information
 
-When visiting Talsperre Kriebstein, it’s essential to bring along some essentials. Comfortable walking shoes are recommended, as there are pathways to explore, and you may want to spend time outdoors. A camera is also a must for capturing the stunning architecture and surrounding landscapes.
+When visiting Talsperre Kriebstein, it's essential to bring along some essentials. Comfortable walking shoes are recommended, as there are pathways to explore, and you may want to spend time outdoors. A camera is also a must for capturing the stunning architecture and surrounding landscapes.
 
 Seasonal considerations should be taken into account as well. Spring and autumn offer pleasant weather for outdoor activities, while summer may bring more visitors. Be prepared for varying weather conditions, and consider bringing a light jacket or umbrella.
 

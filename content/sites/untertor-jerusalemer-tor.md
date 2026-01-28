@@ -36,7 +36,7 @@ As you approach this impressive structure, the intricate designs and robust mate
 
 The Untertor has played a pivotal role in the historical narrative of Büdingen, reflecting the town's strategic importance during its peak. While specific dates of construction are not detailed, city gates like the Untertor were typically built during periods of urban expansion and fortification, serving as vital access points for trade and defense. The gate's design and construction would have been influenced by the prevailing architectural styles of its time, as well as the need for protection against potential invaders.
 
-Throughout its history, the Untertor has witnessed countless events that shaped the region. As a key entry point into the town, it would have seen merchants, travelers, and local residents pass through its archways, each contributing to the vibrant tapestry of Büdingen's history. The gate stands as a reminder of the town’s medieval heritage and its role within the larger context of German history.
+Throughout its history, the Untertor has witnessed countless events that shaped the region. As a key entry point into the town, it would have seen merchants, travelers, and local residents pass through its archways, each contributing to the vibrant tapestry of Büdingen's history. The gate stands as a reminder of the town's medieval heritage and its role within the larger context of German history.
 
 The cultural significance of the Untertor extends beyond its architectural merits; it is a symbol of the community's resilience and adaptability. In an age where many historical structures face the threat of neglect or destruction, the Untertor remains a proud representation of Büdingen's identity. The site has been recognized as a national heritage site, underscoring its importance in preserving the history and culture of the area for future generations.
 
@@ -46,7 +46,7 @@ The Untertor is characterized by its robust construction, typical of medieval ci
 
 Notable features of the Untertor include its imposing archway, which would have been designed to accommodate both foot traffic and wheeled vehicles, a crucial aspect for trade and transportation. The gate is flanked by solid towers, which would have served both defensive and observational purposes. These towers provide an elevated vantage point for guards to monitor incoming traffic and potential threats.
 
-The gate’s façade may exhibit decorative elements typical of the period, including carvings or inscriptions that reflect the town’s heritage. Visitors will find themselves captivated by the intricate details and robust form of the structure, which not only served a practical purpose but also contributed to the aesthetic appeal of Büdingen.
+The gate's façade may exhibit decorative elements typical of the period, including carvings or inscriptions that reflect the town's heritage. Visitors will find themselves captivated by the intricate details and robust form of the structure, which not only served a practical purpose but also contributed to the aesthetic appeal of Büdingen.
 
 As part of a larger series of fortifications, the Untertor connects to the historical narrative of the town's defenses. The architectural style is representative of the medieval period, blending functionality with the artistry of the time. It stands as a testament to the ingenuity of past builders and the importance of fortifications in urban planning.
 

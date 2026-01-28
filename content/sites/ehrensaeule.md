@@ -28,7 +28,7 @@ image_srcset:
 
 The Ehrensäule, located in the heart of Hanau, Germany, is a striking monument that encapsulates the city's historical essence. With its elegant design and significant cultural roots, this landmark attracts visitors who seek to understand the layers of history that shaped Hanau. The monument serves not only as a tribute to the past but also as a focal point for reflection and appreciation of the city's heritage. Visitors will find themselves immersed in the atmosphere of Hanau, a city known for its connection to the Brothers Grimm, amidst a backdrop of historical architecture and vibrant culture.
 
-Situated in a region rich with historical narratives, the Ehrensäule stands as an important symbol within Hanau’s urban landscape. The monument invites exploration and contemplation, promising an enriching experience for those who take the time to visit. As you approach the Ehrensäule, its presence commands attention, encouraging a deeper inquiry into the stories it represents and the significance it holds for the local community.
+Situated in a region rich with historical narratives, the Ehrensäule stands as an important symbol within Hanau's urban landscape. The monument invites exploration and contemplation, promising an enriching experience for those who take the time to visit. As you approach the Ehrensäule, its presence commands attention, encouraging a deeper inquiry into the stories it represents and the significance it holds for the local community.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Ehrensäule's historical context is deeply intertwined with the legacy of Ha
 
 Monuments like the Ehrensäule often serve to commemorate important events or individuals in a region's history. In Hanau, this particular monument may reflect the city's past as a center of trade and craftsmanship, celebrating the artisans and community leaders who contributed to its development. The Ehrensäule stands as a reminder of the city's resilience and cultural heritage, inviting visitors to reflect on the values and narratives that define Hanau.
 
-The monument is also of importance to the local community, serving as a gathering place for events and celebrations. It underscores the civic pride of Hanau’s residents, who recognize the value of their history and the stories that have shaped their identities. Through its physical presence, the Ehrensäule fosters a sense of belonging and continuity, connecting the past with the present.
+The monument is also of importance to the local community, serving as a gathering place for events and celebrations. It underscores the civic pride of Hanau's residents, who recognize the value of their history and the stories that have shaped their identities. Through its physical presence, the Ehrensäule fosters a sense of belonging and continuity, connecting the past with the present.
 
 ## Architecture and Features
 

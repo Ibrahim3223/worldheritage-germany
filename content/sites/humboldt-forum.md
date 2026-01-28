@@ -74,11 +74,11 @@ The Humboldt Forum is situated in a vibrant area rich with cultural and historic
 
 To make the most of your visit to the Humboldt Forum, consider these insider tips:
 
-- **Photography**: While photography is often permitted in many areas of the museum, it’s advisable to check specific exhibition guidelines. Some installations may have restrictions, so be respectful of the rules.
+- **Photography**: While photography is often permitted in many areas of the museum, it's advisable to check specific exhibition guidelines. Some installations may have restrictions, so be respectful of the rules.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekday mornings. The weekends can attract larger crowds, especially when special events are taking place.
 
-- **Engage with Staff**: The staff at the Humboldt Forum are knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for what to see during your visit.
+- **Engage with Staff**: The staff at the Humboldt Forum are knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for what to see during your visit.
 
 ## Practical Information
 

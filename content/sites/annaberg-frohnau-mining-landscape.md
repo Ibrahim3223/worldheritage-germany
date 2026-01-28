@@ -81,7 +81,7 @@ Consider bringing water and snacks, as amenities on-site may be limited. Additio
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically lasts between a few hours to a full day, depending on your interests in exploring the site’s features.
+A visit typically lasts between a few hours to a full day, depending on your interests in exploring the site's features.
 
 ### Is photography allowed?
 Yes, photography is generally permitted, allowing visitors to capture the beauty and heritage of the landscape.

@@ -40,9 +40,9 @@ Moreover, the lake is part of the broader narrative of Bavaria's natural heritag
 
 ## Architecture and Features
 
-Ammersee is characterized by its stunning natural landscape, which is complemented by a variety of architectural styles found in the surrounding towns. The lake’s edges are lined with quaint villages, each offering unique features that reflect the charm of Bavarian architecture. Traditional wooden structures and historical buildings can be observed in places such as Herrsching and Dießen, where visitors can appreciate the craftsmanship that has endured through the years.
+Ammersee is characterized by its stunning natural landscape, which is complemented by a variety of architectural styles found in the surrounding towns. The lake's edges are lined with quaint villages, each offering unique features that reflect the charm of Bavarian architecture. Traditional wooden structures and historical buildings can be observed in places such as Herrsching and Dießen, where visitors can appreciate the craftsmanship that has endured through the years.
 
-One of the notable features of Ammersee is its connection to outdoor activities, with well-maintained paths and piers that allow easy access to the water. Whether you’re strolling along the shores or embarking on a cycling adventure, the infrastructure surrounding the lake is designed to enhance the experience of enjoying this natural wonder. 
+One of the notable features of Ammersee is its connection to outdoor activities, with well-maintained paths and piers that allow easy access to the water. Whether you're strolling along the shores or embarking on a cycling adventure, the infrastructure surrounding the lake is designed to enhance the experience of enjoying this natural wonder. 
 
 The clear waters of Ammersee, with their striking reflections of the sky and surrounding greenery, create a picturesque environment that is particularly appealing to photographers and nature enthusiasts. The lake is also home to various species of fish and birdlife, contributing to the area's ecological diversity and providing additional opportunities for exploration.
 

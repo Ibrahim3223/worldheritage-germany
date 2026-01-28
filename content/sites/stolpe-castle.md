@@ -38,7 +38,7 @@ The history of Stolpe Castle is deeply intertwined with the cultural evolution o
 
 Manor houses in Germany were pivotal during various historical periods, including the feudal era, which shaped the social hierarchies and land ownership structures that defined much of Europe. Stolpe Castle, like many of its contemporaries, would have been a place where local nobility gathered to manage their lands and engage in the social affairs of the time.
 
-In terms of cultural significance, Stolpe Castle stands as an emblem of regional identity and heritage. It has likely witnessed numerous changes over the years, adapting to the shifting tides of history while remaining a steadfast symbol of the area’s architectural lineage. Visitors often reflect on the stories encapsulated within its walls, imagining the lives of those who once walked its halls.
+In terms of cultural significance, Stolpe Castle stands as an emblem of regional identity and heritage. It has likely witnessed numerous changes over the years, adapting to the shifting tides of history while remaining a steadfast symbol of the area's architectural lineage. Visitors often reflect on the stories encapsulated within its walls, imagining the lives of those who once walked its halls.
 
 The preservation and continued interest in Stolpe Castle highlight the importance of maintaining historical sites as part of our collective memory. As a cultural landmark, it enriches the understanding of the region's past and offers insights into the broader narratives of German history.
 
@@ -100,7 +100,7 @@ When preparing for your visit to Stolpe Castle, keep the following practical con
 Plan to spend a few hours at Stolpe Castle to fully appreciate the architecture and grounds, along with any nearby attractions you may wish to explore.
 
 ### Is photography allowed?
-Photography is generally permitted in outdoor areas, but it’s best to check with onsite staff regarding indoor photography policies.
+Photography is generally permitted in outdoor areas, but it's best to check with onsite staff regarding indoor photography policies.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can enhance your understanding of the castle's history.

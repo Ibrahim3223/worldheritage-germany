@@ -90,10 +90,10 @@ When preparing for your visit to Zeche Bongerbank, consider the following practi
 Visitors typically spend a few hours at Zeche Bongerbank to fully appreciate the historical context and features of the site.
 
 ### Is photography allowed?
-Photography may be permitted, but it’s best to check for any specific guidelines or restrictions upon arrival.
+Photography may be permitted, but it's best to check for any specific guidelines or restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these can provide valuable insights into the mine’s history.
+Check the official website for information regarding guided tours, as these can provide valuable insights into the mine's history.
 
 ### What's the best time to visit?
 Weekdays may offer a quieter experience compared to weekends and public holidays, which can attract larger crowds.

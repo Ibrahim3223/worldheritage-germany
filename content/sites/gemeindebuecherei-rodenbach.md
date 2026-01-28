@@ -88,7 +88,7 @@ Before embarking on your visit to Gemeindebücherei Rodenbach, it is useful to k
 Plan to spend at least a couple of hours to fully enjoy the resources and activities available at the library.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check for any specific guidelines regarding photography within the library.
+Photography policies may vary, so it's advisable to check for any specific guidelines regarding photography within the library.
 
 ### Are there guided tours?
 While specific guided tours may not be available, self-guided exploration is encouraged, allowing you to discover the library at your own pace.
@@ -97,7 +97,7 @@ While specific guided tours may not be available, self-guided exploration is enc
 Weekday mornings or early afternoons generally present a quieter experience, making them ideal for a visit.
 
 ### Is it wheelchair accessible?
-Most modern libraries aim to be accessible; however, it’s best to check ahead for specific accessibility features and accommodations.
+Most modern libraries aim to be accessible; however, it's best to check ahead for specific accessibility features and accommodations.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding any ticketing or registration processes.

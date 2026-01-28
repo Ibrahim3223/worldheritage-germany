@@ -94,7 +94,7 @@ Early morning or late afternoon are ideal times for visiting, providing good lig
 Accessibility information may vary, so check the official website for the latest updates on access options.
 
 ### Can I buy tickets online?
-For entry specifics, including ticket purchasing options, it’s advisable to consult the official website.
+For entry specifics, including ticket purchasing options, it's advisable to consult the official website.
 
 ### Are there restrooms and cafes?
 Facilities may be available nearby; check local resources for the most up-to-date information on amenities.

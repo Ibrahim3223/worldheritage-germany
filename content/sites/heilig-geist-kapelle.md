@@ -40,7 +40,7 @@ Visiting Heilig-Geist-Kapelle allows for an appreciation of the historical layer
 
 ## Architecture and Features
 
-Heilig-Geist-Kapelle, while modest in size, possesses a distinctive architectural charm that reflects its purpose as a place of worship. The design is likely to incorporate traditional elements common to chapels in the region, focusing on simplicity and functionality. The chapel’s façade may be characterized by local stonework and understated detailing, emphasizing a sense of humility and reverence.
+Heilig-Geist-Kapelle, while modest in size, possesses a distinctive architectural charm that reflects its purpose as a place of worship. The design is likely to incorporate traditional elements common to chapels in the region, focusing on simplicity and functionality. The chapel's façade may be characterized by local stonework and understated detailing, emphasizing a sense of humility and reverence.
 
 Inside, visitors can expect a serene atmosphere conducive to contemplation and prayer. The interior space is likely adorned with religious symbols and artwork that reflect the local faith community's values. These features may include stained glass windows, altars, and seating arrangements that foster a sense of togetherness during services.
 

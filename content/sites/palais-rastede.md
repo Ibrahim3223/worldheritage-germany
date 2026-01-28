@@ -72,7 +72,7 @@ Rastede is home to several attractions that complement a visit to Palais Rastede
 
 For the best photography opportunities, consider visiting Palais Rastede during the golden hours of early morning or late afternoon when the light casts a warm glow on the building. Additionally, weekdays tend to be less crowded, offering a more peaceful experience for visitors looking to capture the palace's beauty without the hustle and bustle.
 
-If you're keen on exploring the gardens or surrounding areas, wear comfortable shoes, as there may be various trails and paths to navigate. Engaging with staff or local historians can also enhance your understanding of the palace's significance, so don’t hesitate to ask questions during your visit.
+If you're keen on exploring the gardens or surrounding areas, wear comfortable shoes, as there may be various trails and paths to navigate. Engaging with staff or local historians can also enhance your understanding of the palace's significance, so don't hesitate to ask questions during your visit.
 
 ## Practical Information
 

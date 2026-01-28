@@ -30,7 +30,7 @@ The Museum der Westlausitz zu Kamenz offers a fascinating glimpse into the cultu
 
 ## History and Significance
 
-The Museum der Westlausitz zu Kamenz holds a prominent place in the cultural landscape of the region. As a museum dedicated to the history and heritage of West Lusatia, it serves to educate both locals and visitors about the area’s past. While specific historical milestones may be scarce, the museum’s establishment reflects a broader commitment to preserving and promoting regional history. The collections are thoughtfully curated to represent various aspects of life in Kamenz and the surrounding areas, encompassing everything from traditional crafts to significant historical events.
+The Museum der Westlausitz zu Kamenz holds a prominent place in the cultural landscape of the region. As a museum dedicated to the history and heritage of West Lusatia, it serves to educate both locals and visitors about the area's past. While specific historical milestones may be scarce, the museum's establishment reflects a broader commitment to preserving and promoting regional history. The collections are thoughtfully curated to represent various aspects of life in Kamenz and the surrounding areas, encompassing everything from traditional crafts to significant historical events.
 
 Culturally, the museum plays a vital role in fostering a sense of identity among residents. It not only houses artifacts but also engages the community through exhibitions, events, and educational programs. This approach encourages a deeper appreciation for local heritage, ensuring that the stories of past generations are not forgotten. Furthermore, the museum acts as a platform for contemporary artists and historians, bridging the gap between the past and the present.
 

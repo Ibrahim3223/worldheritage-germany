@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-In the heart of Görlitz, Germany, the Kulturbüro Görlitz serves as a vital hub for artistic and cultural engagement. This dynamic cultural institution plays a pivotal role in initiating and supporting projects that enrich the artistic landscape of this historic city. Görlitz itself is renowned for its stunning architecture and vibrant cultural scene, making the Kulturbüro an integral part of the local community's efforts to promote and sustain creative expression. As you explore Görlitz, this cultural office stands out as a beacon of creativity, showcasing the city’s commitment to fostering artistic endeavors and community-driven projects.
+In the heart of Görlitz, Germany, the Kulturbüro Görlitz serves as a vital hub for artistic and cultural engagement. This dynamic cultural institution plays a pivotal role in initiating and supporting projects that enrich the artistic landscape of this historic city. Görlitz itself is renowned for its stunning architecture and vibrant cultural scene, making the Kulturbüro an integral part of the local community's efforts to promote and sustain creative expression. As you explore Görlitz, this cultural office stands out as a beacon of creativity, showcasing the city's commitment to fostering artistic endeavors and community-driven projects.
 
-Görlitz, located on the border with Poland, is steeped in history and features a blend of Gothic, Renaissance, and Baroque architecture. The city’s cultural offerings are enhanced by the collaborative efforts of the Kulturbüro, which serves not only as a facilitator of events but also as a promoter of local artists and cultural initiatives. Visitors to Görlitz will find that the office is central to understanding the city’s contemporary cultural identity, as it supports various artistic expressions through exhibitions, performances, and community programs. 
+Görlitz, located on the border with Poland, is steeped in history and features a blend of Gothic, Renaissance, and Baroque architecture. The city's cultural offerings are enhanced by the collaborative efforts of the Kulturbüro, which serves not only as a facilitator of events but also as a promoter of local artists and cultural initiatives. Visitors to Görlitz will find that the office is central to understanding the city's contemporary cultural identity, as it supports various artistic expressions through exhibitions, performances, and community programs. 
 
 Whether you are a local resident or a traveler, a visit to the Kulturbüro Görlitz offers a unique insight into the cultural heartbeat of the city, providing opportunities to engage with local artists and partake in various cultural activities.
 
@@ -34,7 +34,7 @@ Görlitz has long been a crossroads of various cultures, given its location near
 
 In addition to its role in promoting the arts, the Kulturbüro is instrumental in enhancing the overall cultural life of Görlitz. By organizing events, workshops, and exhibitions, it not only supports artists but also engages the public, encouraging participation in cultural activities. This engagement helps to strengthen community bonds and promotes cultural literacy among residents and visitors alike.
 
-The significance of the Kulturbüro Görlitz lies in its ability to adapt and respond to the evolving needs of the community, ensuring that the city remains a vibrant cultural destination. As it continues to initiate and support projects, the office remains a cornerstone of Görlitz's dynamic cultural scene, reflecting the city’s ongoing commitment to artistic expression and community involvement.
+The significance of the Kulturbüro Görlitz lies in its ability to adapt and respond to the evolving needs of the community, ensuring that the city remains a vibrant cultural destination. As it continues to initiate and support projects, the office remains a cornerstone of Görlitz's dynamic cultural scene, reflecting the city's ongoing commitment to artistic expression and community involvement.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ While specific architectural details may not be highlighted, the surrounding env
 
 Inside, the Kulturbüro is designed to be a welcoming space, encouraging interaction and creativity. Various rooms are often utilized for different events, accommodating everything from art exhibitions to community meetings. The flexibility of the space allows for a dynamic schedule of activities, reflecting the ever-changing landscape of local cultural initiatives.
 
-Visitors to the Kulturbüro may find temporary exhibitions or installations that showcase the work of local artists, providing a glimpse into the vibrant arts community of Görlitz. As such, the space serves as both a physical location for cultural activities and a symbolic representation of the city’s commitment to the arts.
+Visitors to the Kulturbüro may find temporary exhibitions or installations that showcase the work of local artists, providing a glimpse into the vibrant arts community of Görlitz. As such, the space serves as both a physical location for cultural activities and a symbolic representation of the city's commitment to the arts.
 
 ## Visiting Information
 
@@ -60,7 +60,7 @@ For a thorough visit, allocating at least one to two hours is recommended, allow
 
 While the Kulturbüro Görlitz is a highlight in itself, visitors to the area can take advantage of several nearby attractions that complement the cultural experience. Here are a few notable places to consider:
 
-1. **Görlitz Old Town**: A UNESCO World Heritage site, the Old Town is celebrated for its well-preserved medieval and Renaissance architecture. Strolling through its streets provides a sense of the city’s rich history.
+1. **Görlitz Old Town**: A UNESCO World Heritage site, the Old Town is celebrated for its well-preserved medieval and Renaissance architecture. Strolling through its streets provides a sense of the city's rich history.
 
 2. **St. Peter and Paul Church**: This prominent Gothic church is known for its stunning architecture and impressive interior, making it a must-visit for those interested in religious art and history.
 
@@ -68,7 +68,7 @@ While the Kulturbüro Görlitz is a highlight in itself, visitors to the area ca
 
 4. **Neisse River Promenade**: A lovely area to take a walk, the promenade along the Neisse River provides picturesque views of the city and is a great spot for relaxation.
 
-5. **Zgorzelec**: Just across the border in Poland, Zgorzelec offers a different perspective on the region’s shared history and culture, making it an easy and interesting excursion.
+5. **Zgorzelec**: Just across the border in Poland, Zgorzelec offers a different perspective on the region's shared history and culture, making it an easy and interesting excursion.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ To avoid potential crowds, it is advisable to visit during weekdays, as weekends
 
 ## Practical Information
 
-When visiting the Kulturbüro Görlitz, it’s a good idea to bring a camera, especially if you are interested in documenting local art and culture. Comfortable walking shoes are recommended, as you may wish to explore the surrounding areas.
+When visiting the Kulturbüro Görlitz, it's a good idea to bring a camera, especially if you are interested in documenting local art and culture. Comfortable walking shoes are recommended, as you may wish to explore the surrounding areas.
 
 Seasonal considerations may affect your visit, so check the weather forecast ahead of time. If you are visiting during colder months, dressing in layers can help ensure comfort while exploring both the Kulturbüro and the outdoor sites in Görlitz.
 
@@ -88,7 +88,7 @@ Seasonal considerations may affect your visit, so check the weather forecast ahe
 A visit typically takes about one to two hours, depending on the events and exhibitions available.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check with staff during exhibitions for any specific restrictions.
+Photography is generally permitted, but it's advisable to check with staff during exhibitions for any specific restrictions.
 
 ### Are there guided tours?
 While specific guided tours may not be available, staff members are usually knowledgeable and can provide insights during your visit.

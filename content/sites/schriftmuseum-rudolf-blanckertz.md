@@ -34,7 +34,7 @@ In a broader cultural context, the Schriftmuseum Rudolf Blanckertz plays a cruci
 
 ## Architecture and Features
 
-The Schriftmuseum Rudolf Blanckertz is housed in a building that reflects the character of Berlin’s architectural landscape. While specific architectural details are not provided, visitors can expect a space that is thoughtfully designed to complement the museum's focus on typography and the written word. The layout is likely structured to facilitate an engaging visitor experience, allowing for the effective display of artifacts and educational materials.
+The Schriftmuseum Rudolf Blanckertz is housed in a building that reflects the character of Berlin's architectural landscape. While specific architectural details are not provided, visitors can expect a space that is thoughtfully designed to complement the museum's focus on typography and the written word. The layout is likely structured to facilitate an engaging visitor experience, allowing for the effective display of artifacts and educational materials.
 
 Inside, the museum features various exhibition areas that showcase its extensive collection. Each section is dedicated to different aspects of typography, providing insights into historical movements, significant figures, and the evolution of writing techniques. The exhibits are designed to be both educational and visually appealing, ensuring that visitors can appreciate the aesthetic qualities of lettering as well as its historical context.
 

@@ -58,7 +58,7 @@ The best times to visit are during the spring and summer months when the weather
 
 While Gut Projensdorf itself is a highlight, the surrounding area offers additional sites of interest that complement your visit:
 
-1. **Kiel**: Just a short drive away, Kiel is a vibrant city known for its maritime heritage and bustling harbor. Visitors can explore the city’s museums and waterfront promenades.
+1. **Kiel**: Just a short drive away, Kiel is a vibrant city known for its maritime heritage and bustling harbor. Visitors can explore the city's museums and waterfront promenades.
 
 2. **Old Botanical Garden Kiel**: A beautiful green space that showcases various plant species, ideal for a leisurely stroll or a picnic amidst nature.
 

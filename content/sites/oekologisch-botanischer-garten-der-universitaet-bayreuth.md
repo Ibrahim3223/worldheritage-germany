@@ -28,7 +28,7 @@ image_srcset:
 
 The Ökologisch-Botanischer Garten der Universität Bayreuth, or the Ecological-Botanical Garden of the University of Bayreuth, serves as a vital center for botanical research and education in Germany. Situated in Bayreuth, this botanical garden highlights the intersection of ecology and botany, showcasing a diverse array of plant species and ecosystems. It plays a critical role in promoting ecological awareness and understanding among visitors, students, and researchers alike. 
 
-The garden's design emphasizes sustainable practices and the importance of biodiversity in today’s changing climate. It provides an immersive environment where enthusiasts can explore the intricacies of plant life while appreciating their ecological significance. Visitors can expect a tranquil experience among the flora, with educational opportunities that foster a deeper connection to nature.
+The garden's design emphasizes sustainable practices and the importance of biodiversity in today's changing climate. It provides an immersive environment where enthusiasts can explore the intricacies of plant life while appreciating their ecological significance. Visitors can expect a tranquil experience among the flora, with educational opportunities that foster a deeper connection to nature.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ Consider bringing along a notebook or a sketchpad to document your observations.
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring comfortable footwear suitable for walking, as you will likely be exploring various paths within the garden. Depending on the season, consider packing a light jacket or sun protection, as weather conditions can vary.
+When planning your visit, it's advisable to bring comfortable footwear suitable for walking, as you will likely be exploring various paths within the garden. Depending on the season, consider packing a light jacket or sun protection, as weather conditions can vary.
 
 Since the garden emphasizes ecological practices, visitors are encouraged to respect the environment by following any posted guidelines and minimizing waste. 
 

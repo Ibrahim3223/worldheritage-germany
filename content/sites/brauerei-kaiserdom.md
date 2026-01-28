@@ -62,7 +62,7 @@ Bamberg is home to several attractions that complement a visit to Brauerei Kaise
 
 2. **Old Town Hall (Altes Rathaus)**: Situated on an island in the river Regnitz, this iconic building features a striking facade and is a central point of interest in Bamberg.
 
-3. **Bamberg’s Little Venice**: This picturesque neighborhood along the river is characterized by charming half-timbered houses and offers a scenic stroll.
+3. **Bamberg's Little Venice**: This picturesque neighborhood along the river is characterized by charming half-timbered houses and offers a scenic stroll.
 
 4. **Franconian Brewery Museum**: Located within the city, this museum provides a deeper insight into the brewing history of the region.
 
@@ -103,7 +103,7 @@ Accessibility information is best confirmed by checking the official website or 
 Check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities are typically available, but it’s wise to confirm details on the official website before your visit.
+Facilities are typically available, but it's wise to confirm details on the official website before your visit.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, along with seasonal attire based on the weather conditions during your visit.

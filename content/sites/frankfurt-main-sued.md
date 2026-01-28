@@ -36,7 +36,7 @@ The history of Frankfurt (Main) Süd is intertwined with the development of Fran
 
 Frankfurt has long been a crucial point for trade and commerce, and the establishment of railway stations such as Frankfurt (Main) Süd has facilitated this role. The station supports the daily commute of thousands of individuals, contributing to the economic vibrancy of the region. Over the years, it has become a familiar site for locals, serving as a gateway to various neighborhoods and attractions in Frankfurt.
 
-The cultural importance of Frankfurt (Main) Süd extends beyond its practical use. It serves as a microcosm of the city’s diverse population, where people from various backgrounds converge, sharing their stories and journeys. While the station itself may not be a heritage site in the traditional sense, its function as a transport hub has made it an integral part of the city’s social fabric.
+The cultural importance of Frankfurt (Main) Süd extends beyond its practical use. It serves as a microcosm of the city's diverse population, where people from various backgrounds converge, sharing their stories and journeys. While the station itself may not be a heritage site in the traditional sense, its function as a transport hub has made it an integral part of the city's social fabric.
 
 ## Architecture and Features
 

@@ -3,7 +3,7 @@ title: "Zeche Antonius"
 site_name: "Zeche Antonius"
 date: 2026-01-26
 draft: false
-description: "Zeche Antonius, located in Essen, Germany, stands as a significant representation of the region’s industrial heritage."
+description: "Zeche Antonius, located in Essen, Germany, stands as a significant representation of the region's industrial heritage."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Zeche Antonius, located in Essen, Germany, stands as a significant representation of the region’s industrial heritage. This former mine played a crucial role in the coal mining industry, which was a cornerstone of Germany's economic development during the 19th and early 20th centuries. The site is not only an important historical landmark but also an evocative reminder of the industrial practices that shaped the landscape and community.
+Zeche Antonius, located in Essen, Germany, stands as a significant representation of the region's industrial heritage. This former mine played a crucial role in the coal mining industry, which was a cornerstone of Germany's economic development during the 19th and early 20th centuries. The site is not only an important historical landmark but also an evocative reminder of the industrial practices that shaped the landscape and community.
 
 Essen, a city in North Rhine-Westphalia, is steeped in industrial history, with mining activities having a profound impact on its development. The Zeche Antonius site offers visitors an opportunity to explore this legacy and gain insight into the life and labor of miners during a transformative era in European history. While much of the mining infrastructure has changed, the site still serves as a focal point for understanding the dynamics of coal mining in Germany, making it a valuable destination for heritage enthusiasts.
 
@@ -80,7 +80,7 @@ When visiting Zeche Antonius, consider the following tips to enhance your experi
 
 When preparing for your visit to Zeche Antonius, it is recommended to bring comfortable walking shoes, as exploring the site may involve walking on uneven surfaces. Weather conditions can vary, so check the forecast and dress accordingly, especially if you plan to spend time outdoors.
 
-Seasonal considerations may impact your visit; the mine may be more accessible during milder months when weather permits outdoor exploration. Ensure to check for any specific events or exhibitions that may be happening during your visit, as these can enhance your understanding of the site’s history.
+Seasonal considerations may impact your visit; the mine may be more accessible during milder months when weather permits outdoor exploration. Ensure to check for any specific events or exhibitions that may be happening during your visit, as these can enhance your understanding of the site's history.
 
 ## Frequently Asked Questions
 

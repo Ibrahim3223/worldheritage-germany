@@ -64,7 +64,7 @@ Visitors can expect a peaceful environment, ideal for reflection and contemplati
 
 ## Nearby Attractions
 
-While visiting Petrikirche, you may want to explore other attractions in the vicinity that enhance your understanding of Hanover’s rich cultural landscape. Here are a few nearby places to consider:
+While visiting Petrikirche, you may want to explore other attractions in the vicinity that enhance your understanding of Hanover's rich cultural landscape. Here are a few nearby places to consider:
 
 1. **Hannover City Hall** - A stunning architectural marvel, this building offers guided tours and panoramic views of the city.
    
@@ -78,7 +78,7 @@ While visiting Petrikirche, you may want to explore other attractions in the vic
 
 ## Insider Tips
 
-When visiting Petrikirche, consider bringing a camera to capture the architectural beauty of the church. However, be mindful of any restrictions regarding photography inside the building. It’s advisable to visit during off-peak hours, particularly weekdays, to enjoy a quieter experience and to fully immerse yourself in the tranquil ambiance of the church.
+When visiting Petrikirche, consider bringing a camera to capture the architectural beauty of the church. However, be mindful of any restrictions regarding photography inside the building. It's advisable to visit during off-peak hours, particularly weekdays, to enjoy a quieter experience and to fully immerse yourself in the tranquil ambiance of the church.
 
 If you have the opportunity, consider attending a service or community event, as this can provide a unique perspective on the church's role in the local culture. Engaging with members of the congregation may also enrich your visit and offer insights into the community's history and traditions.
 

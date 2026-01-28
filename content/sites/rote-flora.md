@@ -68,7 +68,7 @@ While visiting Rote Flora, there are several nearby attractions that may enhance
 
 To make the most of your visit to Rote Flora, consider these insider tips:
 
-- **Photography**: While photography is often encouraged within the vibrant atmosphere, it’s best to ask for permission during specific events or performances.
+- **Photography**: While photography is often encouraged within the vibrant atmosphere, it's best to ask for permission during specific events or performances.
 - **Crowd Avoidance**: To steer clear of larger crowds, consider visiting during weekdays or earlier in the day if you are not attending a scheduled event.
 - **Engage with Locals**: Take the opportunity to converse with local attendees, as they can provide unique insights and recommendations about the venue and the events.
 
@@ -88,7 +88,7 @@ In terms of seasonal considerations, Rote Flora often hosts a variety of events 
 It is recommended to spend at least a few hours at Rote Flora to fully engage with the space and any events happening during your visit.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s courteous to ask for permission during performances or private events.
+Photography is generally permitted, but it's courteous to ask for permission during performances or private events.
 
 ### Are there guided tours?
 Currently, guided tours may not be available, but engaging with local attendees can provide valuable insights.

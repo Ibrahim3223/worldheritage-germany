@@ -34,7 +34,7 @@ Göttingen itself is a vibrant city known for its rich academic heritage and bea
 
 While specific historical details about the Geowissenschaftliches Museum der Universität Göttingen are not available, the museum is part of a long tradition of geological study and research at the University of Göttingen. Founded in the 18th century, the university has played a crucial role in advancing scientific knowledge, particularly in the fields of mathematics and natural sciences. 
 
-The museum itself is significant for its commitment to education and public outreach. It showcases a range of geological specimens that illustrate the Earth’s formation, the various types of rocks, and the complex processes that shape our planet. The collection includes minerals, fossils, and even meteorites, providing insight into topics such as paleontology, mineralogy, and petrology.
+The museum itself is significant for its commitment to education and public outreach. It showcases a range of geological specimens that illustrate the Earth's formation, the various types of rocks, and the complex processes that shape our planet. The collection includes minerals, fossils, and even meteorites, providing insight into topics such as paleontology, mineralogy, and petrology.
 
 Through its exhibitions and educational programs, the museum contributes to a broader understanding of Earth science, fostering a sense of curiosity and responsibility towards the environment. It serves as a valuable resource for both the academic community and the general public, bridging the gap between scientific research and public knowledge.
 
@@ -106,4 +106,4 @@ Amenities such as restrooms and nearby cafes may be available, but it's advisabl
 ### What should I wear?
 Dress comfortably and consider the season, as weather conditions may affect your visit and any outdoor explorations. 
 
-The Geowissenschaftliches Museum der Universität Göttingen is not just a place to observe geological wonders; it is an educational experience that connects visitors with the Earth’s history and processes.
+The Geowissenschaftliches Museum der Universität Göttingen is not just a place to observe geological wonders; it is an educational experience that connects visitors with the Earth's history and processes.

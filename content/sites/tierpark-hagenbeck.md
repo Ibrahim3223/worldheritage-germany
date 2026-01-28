@@ -32,7 +32,7 @@ The zoo is distinguished by its open enclosures that allow animals to roam freel
 
 ## History and Significance
 
-Tierpark Hagenbeck has a storied history that reflects the evolution of zoological practices over the last century. Founded by Carl Hagenbeck, a renowned animal dealer and showman, the zoo was established as a groundbreaking institution that aimed to create more naturalistic environments for animals. Before his vision, most zoos featured traditional cages that often restricted animal movement and welfare. Hagenbeck’s innovative approach, which included open enclosures and the use of moats, revolutionized the way animals were housed in captivity. 
+Tierpark Hagenbeck has a storied history that reflects the evolution of zoological practices over the last century. Founded by Carl Hagenbeck, a renowned animal dealer and showman, the zoo was established as a groundbreaking institution that aimed to create more naturalistic environments for animals. Before his vision, most zoos featured traditional cages that often restricted animal movement and welfare. Hagenbeck's innovative approach, which included open enclosures and the use of moats, revolutionized the way animals were housed in captivity. 
 
 The zoo quickly gained popularity, drawing visitors with its unique exhibitions and the opportunity to see animals in a more naturalistic context. Over the years, Tierpark Hagenbeck has expanded its collection, now housing a diverse range of species, from majestic elephants to playful penguins. The zoo has also become involved in various conservation efforts, working to protect endangered species and educate the public about wildlife preservation. 
 
@@ -76,7 +76,7 @@ To make the most of your visit to Tierpark Hagenbeck, consider these insider tip
 When planning your visit to Tierpark Hagenbeck, keep in mind the following practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are essential, as the zoo covers a considerable area. Bringing a refillable water bottle and sunscreen is also advisable, especially during warmer months.
-- **Seasonal Considerations**: The zoo remains open year-round, but different seasons may offer unique experiences. Spring and summer bring blooming gardens, while autumn’s foliage adds a different charm. Winter visits can be magical, especially if there is snow.
+- **Seasonal Considerations**: The zoo remains open year-round, but different seasons may offer unique experiences. Spring and summer bring blooming gardens, while autumn's foliage adds a different charm. Winter visits can be magical, especially if there is snow.
 
 ## Frequently Asked Questions
 

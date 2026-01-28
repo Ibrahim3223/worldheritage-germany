@@ -30,7 +30,7 @@ The Basilica of St. Severin is a significant church building located in the Alts
 
 ## History and Significance
 
-The Basilica of St. Severin holds a prominent place in Cologne's ecclesiastical history. Although specific events and dates are not documented, the church’s standing as a spiritual center can be traced through various historical epochs. Its origins reflect the early Christian influence in the area, and over the years, it has served as a vital place of worship for the local community. The church is named after St. Severin, a figure revered in Christian tradition, which underscores its religious importance.
+The Basilica of St. Severin holds a prominent place in Cologne's ecclesiastical history. Although specific events and dates are not documented, the church's standing as a spiritual center can be traced through various historical epochs. Its origins reflect the early Christian influence in the area, and over the years, it has served as a vital place of worship for the local community. The church is named after St. Severin, a figure revered in Christian tradition, which underscores its religious importance.
 
 Throughout the centuries, the Basilica has witnessed numerous changes, both in its architecture and in the community it serves. It has been a site of pilgrimage, attracting those seeking solace and spiritual guidance. The church has also played a role in the broader narrative of Cologne's development, intersecting with historical events and movements that have defined the city. Today, it stands not only as a place of spiritual significance but also as a cultural landmark, reflecting the artistic and architectural trends of its time.
 
@@ -46,7 +46,7 @@ The interior likely hosts various religious artifacts and artworks, contributing
 
 Visitors to the Basilica of St. Severin will find it conveniently located in the Altstadt-Süd district, making it easily accessible by various means of transportation. For those using public transit, local tram and bus routes frequently service the area, and there may also be parking options nearby for those traveling by car.
 
-While specific visiting hours and entrance fees are not detailed, it is advisable to check the official website for current information regarding opening times and any applicable admission charges. When planning a visit, allocating sufficient time to fully appreciate the Basilica is recommended. A visit could take anywhere from an hour to two, depending on one’s interest in exploring the architecture and absorbing the spiritual atmosphere.
+While specific visiting hours and entrance fees are not detailed, it is advisable to check the official website for current information regarding opening times and any applicable admission charges. When planning a visit, allocating sufficient time to fully appreciate the Basilica is recommended. A visit could take anywhere from an hour to two, depending on one's interest in exploring the architecture and absorbing the spiritual atmosphere.
 
 To enhance the experience, consider visiting during quieter times of the day, such as early mornings or late afternoons, to avoid larger crowds. The changing light throughout the day may also offer unique perspectives for those interested in photography.
 
@@ -64,9 +64,9 @@ While exploring the Basilica of St. Severin, visitors can take advantage of its 
 
 To make the most of your visit to the Basilica of St. Severin, consider the following tips:
 
-- **Photography**: While many visitors enjoy capturing the beauty of the Basilica, it’s always wise to check for any restrictions on photography, particularly during worship services.
+- **Photography**: While many visitors enjoy capturing the beauty of the Basilica, it's always wise to check for any restrictions on photography, particularly during worship services.
 - **Crowd Avoidance**: If you prefer a more tranquil experience, try to visit during weekdays or outside of peak tourist seasons. Early mornings can also be quieter, allowing for a more reflective visit.
-- **Dress Code**: As a place of worship, it’s respectful to dress modestly. Comfortable footwear is recommended, especially if you plan to explore the surrounding areas.
+- **Dress Code**: As a place of worship, it's respectful to dress modestly. Comfortable footwear is recommended, especially if you plan to explore the surrounding areas.
 
 ## Practical Information
 

@@ -28,11 +28,11 @@ image_srcset:
 
 The Fish Rider is an intriguing fountain located in the Charlottenburg-Wilmersdorf district of Berlin, Germany. This unique sculpture and fountain is not only a visual delight but also serves as a point of interest for both residents and visitors. Set against the backdrop of a vibrant urban landscape, the Fish Rider captivates with its artistic representation and offers a great opportunity for those exploring the cultural richness of Berlin. The site embodies a blend of artistry and functionality, making it a significant landmark in the area.
 
-As you approach the fountain, its design invites contemplation and appreciation of the artistic elements that contribute to its charm. This fountain serves as a gathering spot, providing a serene environment amidst the bustling city life. Visitors are often drawn to its serene water flow and the intricate detailing of the sculpture, which reflects a commitment to craftsmanship and aesthetic beauty that is emblematic of Berlin’s artistic heritage.
+As you approach the fountain, its design invites contemplation and appreciation of the artistic elements that contribute to its charm. This fountain serves as a gathering spot, providing a serene environment amidst the bustling city life. Visitors are often drawn to its serene water flow and the intricate detailing of the sculpture, which reflects a commitment to craftsmanship and aesthetic beauty that is emblematic of Berlin's artistic heritage.
 
 ## History and Significance
 
-While specific dates regarding the construction or installation of the Fish Rider are not readily available, its significance in the context of Berlin’s cultural landscape is noteworthy. Fountains have long been a part of urban design, serving not only as decorative elements but also as sources of water and places of social interaction. The Fish Rider stands as an example of this tradition, contributing to the aesthetic appeal of the Charlottenburg-Wilmersdorf area.
+While specific dates regarding the construction or installation of the Fish Rider are not readily available, its significance in the context of Berlin's cultural landscape is noteworthy. Fountains have long been a part of urban design, serving not only as decorative elements but also as sources of water and places of social interaction. The Fish Rider stands as an example of this tradition, contributing to the aesthetic appeal of the Charlottenburg-Wilmersdorf area.
 
 Fountains like the Fish Rider often symbolize the connection between nature and urban life, showcasing how art can soften the edges of a bustling environment. Moreover, the presence of such art pieces reflects a broader appreciation for public spaces in Berlin, where citizens and visitors alike can engage with art in their daily lives. The Fish Rider has likely become a part of the local identity, representing the intertwining of cultural expression and urban living.
 
@@ -48,7 +48,7 @@ The location of the Fish Rider in Charlottenburg-Wilmersdorf adds to its appeal,
 
 ## Visiting Information
 
-When planning a visit to the Fish Rider, public transportation is a convenient option, given Berlin’s extensive transit system. Various bus and tram lines service the Charlottenburg-Wilmersdorf district, making it accessible from different parts of the city. Visitors can expect a bustling atmosphere, particularly during peak hours when locals frequent the area.
+When planning a visit to the Fish Rider, public transportation is a convenient option, given Berlin's extensive transit system. Various bus and tram lines service the Charlottenburg-Wilmersdorf district, making it accessible from different parts of the city. Visitors can expect a bustling atmosphere, particularly during peak hours when locals frequent the area.
 
 While specific opening hours and admission prices are not provided here, it is advisable to check the official website for current information prior to your visit. Typically, public fountains like the Fish Rider are open year-round, allowing visitors to enjoy the site at their leisure.
 
@@ -76,7 +76,7 @@ To avoid crowds, visit during weekdays or early in the morning. The hustle and b
 
 ## Practical Information
 
-When visiting the Fish Rider, it’s advisable to bring a camera to capture the unique features of the fountain. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area, which is rich in attractions and urban scenery.
+When visiting the Fish Rider, it's advisable to bring a camera to capture the unique features of the fountain. Comfortable walking shoes are recommended, as you may wish to explore the surrounding area, which is rich in attractions and urban scenery.
 
 Seasonal considerations are important as well; during the warmer months, the fountain may be a popular spot for relaxation, while in the colder months, the atmosphere can change significantly, offering a different experience of the site.
 

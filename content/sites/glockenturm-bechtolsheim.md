@@ -78,7 +78,7 @@ To make the most of your visit to Glockenturm Bechtolsheim, here are some inside
   
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting on weekdays or during less popular hours can help you avoid larger crowds.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. They can provide valuable insights and enhance your understanding of the exhibits.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. They can provide valuable insights and enhance your understanding of the exhibits.
 
 ## Practical Information
 

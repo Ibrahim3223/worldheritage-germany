@@ -28,13 +28,13 @@ image_srcset:
 
 Burg Limberg, a striking castle located in Preußisch Oldendorf, Germany, represents a significant piece of the region's historical architecture. Set against the backdrop of a landscape rich in cultural heritage, this castle showcases the enduring legacy of medieval fortifications. With its imposing structure and strategic location, Burg Limberg stands as a reminder of the past, inviting visitors to explore its storied walls and the tales they harbor.
 
-The castle's historical significance is deeply intertwined with the evolution of the region, making it an essential stop for those interested in Germany’s architectural and cultural heritage. As you approach Burg Limberg, the sense of history is palpable, offering a unique glimpse into the life and times of its former inhabitants. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a picturesque spot to explore, Burg Limberg promises a captivating experience.
+The castle's historical significance is deeply intertwined with the evolution of the region, making it an essential stop for those interested in Germany's architectural and cultural heritage. As you approach Burg Limberg, the sense of history is palpable, offering a unique glimpse into the life and times of its former inhabitants. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a picturesque spot to explore, Burg Limberg promises a captivating experience.
 
 ## History and Significance
 
 Burg Limberg has a history that is reflective of the broader developments within the region. While specific dates of its construction and significant events may not be readily available, the castle's role in the local power dynamics and its military significance can be inferred from its design and location. Castles like Burg Limberg were often constructed during periods of territorial strife and were crucial for defense and administration. 
 
-The castle likely served as a stronghold for local nobility, a common practice in medieval Europe, where such structures provided both protection and a base for governance. The presence of castles in this area is indicative of the feudal system that characterized much of Germany’s medieval society, where power was concentrated in the hands of a few lords. As such, Burg Limberg is not just a castle; it is a narrative woven into the fabric of the region's past.
+The castle likely served as a stronghold for local nobility, a common practice in medieval Europe, where such structures provided both protection and a base for governance. The presence of castles in this area is indicative of the feudal system that characterized much of Germany's medieval society, where power was concentrated in the hands of a few lords. As such, Burg Limberg is not just a castle; it is a narrative woven into the fabric of the region's past.
 
 Exploring Burg Limberg offers insights into the architectural styles of the time, as well as the lifestyle of those who resided within its walls. Although specific historical events tied to Burg Limberg might not be documented, its existence as a castle speaks volumes about the historical context in which it was built and its role over the centuries.
 
@@ -95,7 +95,7 @@ A visit typically takes a few hours, allowing time to explore the castle and its
 Photography is generally permitted, but be mindful of any posted signs regarding restrictions.
 
 ### Are there guided tours?
-Check the official website for details on guided tours, as they may enhance your understanding of the castle’s history.
+Check the official website for details on guided tours, as they may enhance your understanding of the castle's history.
 
 ### What's the best time to visit?
 The best time to visit is during the milder months, which provide a comfortable climate for outdoor exploration.

@@ -42,9 +42,9 @@ Epprechtstein Castle features a blend of architectural elements that highlight i
 
 Notable features include the remnants of the main keep, which would have served as the center of activity within the castle. The layout reflects medieval building techniques, with a focus on security and functionality. The strategic design allowed for effective defense while also accommodating the needs of its inhabitants.
 
-The site’s elevation not only served a military purpose but also provided a vantage point for observing the surrounding landscape. Although the specific dimensions of the castle are not detailed, its elevated position is a reminder of the importance of location in medieval fortifications.
+The site's elevation not only served a military purpose but also provided a vantage point for observing the surrounding landscape. Although the specific dimensions of the castle are not detailed, its elevated position is a reminder of the importance of location in medieval fortifications.
 
-As an archaeological site, Epprechtstein Castle plays a crucial role in ongoing research and preservation efforts. The remaining structures are a focus for historians and archaeologists, as they seek to uncover more about the site’s usage and the people who once inhabited it.
+As an archaeological site, Epprechtstein Castle plays a crucial role in ongoing research and preservation efforts. The remaining structures are a focus for historians and archaeologists, as they seek to uncover more about the site's usage and the people who once inhabited it.
 
 ## Visiting Information
 
@@ -111,7 +111,7 @@ The castle's ruins may present some challenges for wheelchair users due to uneve
 For the most accurate information regarding ticket purchases, visit the official website.
 
 ### Are there restrooms and cafes?
-While specific details aren't provided, it’s advisable to check for nearby facilities before your visit.
+While specific details aren't provided, it's advisable to check for nearby facilities before your visit.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking and exploring uneven surfaces. Weather-appropriate attire is recommended based on seasonal conditions.

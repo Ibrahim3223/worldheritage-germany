@@ -28,7 +28,7 @@ image_srcset:
 
 The Neubrandenburger Tor stands as a significant historical landmark in the region of Friedland, Germany. Known primarily as a city gate, it serves as a poignant reminder of the architectural and urban development of the area. This structure not only marks a physical entrance to the city but also symbolizes the historical journey of the region, reflecting the sociopolitical dynamics of its time. As you approach this impressive gate, you'll feel the weight of its legacy, inviting you to explore the stories that have unfolded within its shadow. 
 
-Situated at coordinates 53.6662, 13.5453, the Neubrandenburger Tor is easily accessible and offers visitors a glimpse into the city’s past. Its significance transcends mere functionality, as it embodies the spirit and culture of the local community. Whether you are an architecture enthusiast, a history buff, or simply a curious traveler, this city gate promises an enriching experience, making it a worthwhile stop in your exploration of Germany's heritage sites.
+Situated at coordinates 53.6662, 13.5453, the Neubrandenburger Tor is easily accessible and offers visitors a glimpse into the city's past. Its significance transcends mere functionality, as it embodies the spirit and culture of the local community. Whether you are an architecture enthusiast, a history buff, or simply a curious traveler, this city gate promises an enriching experience, making it a worthwhile stop in your exploration of Germany's heritage sites.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ The architectural style of the Neubrandenburger Tor is characteristic of city ga
 
 As a city gate, the Neubrandenburger Tor likely includes features that facilitate both entry and defense. The design may encompass a central archway flanked by smaller structures or towers, providing vantage points for guards in historical contexts. The materials used would have been chosen for durability, with local stone being a common choice for such vital structures.
 
-Visitors will find that the Neubrandenburger Tor not only serves as a gateway into the city but also as a backdrop for reflection on the architectural trends of its time. The gate’s enduring presence against the backdrop of modern development invites contemplation of the past, making it a fascinating subject for both amateur and professional photographers.
+Visitors will find that the Neubrandenburger Tor not only serves as a gateway into the city but also as a backdrop for reflection on the architectural trends of its time. The gate's enduring presence against the backdrop of modern development invites contemplation of the past, making it a fascinating subject for both amateur and professional photographers.
 
 ## Visiting Information
 
@@ -104,7 +104,7 @@ Early mornings or late afternoons are often the best times to visit to avoid cro
 
 ### Is it wheelchair accessible?
 
-While specific accessibility details are not provided, city gates often have varying degrees of accessibility. It’s advisable to check the official website for current information.
+While specific accessibility details are not provided, city gates often have varying degrees of accessibility. It's advisable to check the official website for current information.
 
 ### Can I buy tickets online?
 
@@ -112,7 +112,7 @@ Check the official website for information regarding ticket purchases, as many h
 
 ### Are there restrooms and cafes?
 
-While specific amenities are not detailed, many heritage sites have nearby facilities. It’s best to check local resources for the most accurate information.
+While specific amenities are not detailed, many heritage sites have nearby facilities. It's best to check local resources for the most accurate information.
 
 ### What should I wear?
 

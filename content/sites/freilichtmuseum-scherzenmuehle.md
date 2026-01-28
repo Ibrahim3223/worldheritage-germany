@@ -72,7 +72,7 @@ While Freilichtmuseum Scherzenmühle is a destination in its own right, the surr
 
 To make the most of your visit to Freilichtmuseum Scherzenmühle, consider visiting during weekdays when crowds are generally thinner. This allows for a more intimate experience as you interact with exhibits and demonstrations. 
 
-Photography is often encouraged, but it’s wise to check for specific guidelines to ensure you respect the museum’s regulations while capturing your memories. 
+Photography is often encouraged, but it's wise to check for specific guidelines to ensure you respect the museum's regulations while capturing your memories. 
 
 Be sure to engage with the staff, who are typically knowledgeable and passionate about the museum's offerings; they can provide insights that enhance your understanding of the exhibits.
 
@@ -97,13 +97,13 @@ Guided tours may be available, providing an in-depth look at the museum's offeri
 The spring and summer months typically offer the most activities, but be sure to check the schedule for special events.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s recommended to check the official website for specific information.
+Accessibility options may vary; it's recommended to check the official website for specific information.
 
 ### Can I buy tickets online?
 Ticket purchasing options can vary; check the official website for the most current information.
 
 ### Are there restrooms and cafes?
-Facilities should be available, but it’s advisable to verify details on the official website.
+Facilities should be available, but it's advisable to verify details on the official website.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, suitable for walking and engaging with outdoor exhibits.

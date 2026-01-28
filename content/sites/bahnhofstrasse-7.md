@@ -20,9 +20,9 @@ images:
 
 ## Overview
 
-At the heart of Eddelak, in Schleswig-Holstein, Bahnhofstraße 7 stands as an intriguing architectural feature. This villa, representative of the region's cultural heritage, draws visitors not only for its unique structure but also for its connection to the historical significance of windmills in northern Germany. Eddelak, with its tranquil rural landscape, provides a serene backdrop for this noteworthy site. As you explore the area, you’ll discover the charm of traditional German architecture and the stories that these structures tell about the local community and its past.
+At the heart of Eddelak, in Schleswig-Holstein, Bahnhofstraße 7 stands as an intriguing architectural feature. This villa, representative of the region's cultural heritage, draws visitors not only for its unique structure but also for its connection to the historical significance of windmills in northern Germany. Eddelak, with its tranquil rural landscape, provides a serene backdrop for this noteworthy site. As you explore the area, you'll discover the charm of traditional German architecture and the stories that these structures tell about the local community and its past.
 
-Bahnhofstraße 7 is more than just a building; it encapsulates the essence of Eddelak’s historical narrative. The windmill, a practical and once-essential fixture in agricultural communities, symbolizes the ingenuity and resilience of its inhabitants. This site invites travelers to engage with the heritage of the region, making it an essential stop for those interested in the interplay between culture, history, and architecture.
+Bahnhofstraße 7 is more than just a building; it encapsulates the essence of Eddelak's historical narrative. The windmill, a practical and once-essential fixture in agricultural communities, symbolizes the ingenuity and resilience of its inhabitants. This site invites travelers to engage with the heritage of the region, making it an essential stop for those interested in the interplay between culture, history, and architecture.
 
 ## History and Significance
 

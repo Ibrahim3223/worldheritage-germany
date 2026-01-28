@@ -52,7 +52,7 @@ Inside the Werdensleben Palais, visitors can expect to find spacious rooms adorn
 
 The grounds surrounding the palace may also enhance the experience, offering a tranquil setting for reflection and exploration. Gardens or landscaped areas, if present, could provide a picturesque backdrop, inviting visitors to take leisurely strolls and absorb the serenity of the environment.
 
-While exploring the architectural features of the Werdensleben Palais, it’s essential to consider the craftsmanship involved in its construction. Each element, from the foundation to the decorative accents, reflects the skills and artistry of the builders, ensuring that the palace remains a significant cultural asset.
+While exploring the architectural features of the Werdensleben Palais, it's essential to consider the craftsmanship involved in its construction. Each element, from the foundation to the decorative accents, reflects the skills and artistry of the builders, ensuring that the palace remains a significant cultural asset.
 
 ## Visiting Information
 
@@ -86,7 +86,7 @@ To make the most of your visit to the Werdensleben Palais, consider these inside
 
 - **Avoiding Crowds**: If possible, visit during weekdays or during the off-peak season to enjoy a quieter experience. This will allow for a more personal exploration of the palace and its surroundings.
 
-- **Engaging with Staff**: Don’t hesitate to ask questions or seek recommendations from staff members. Their insights can enrich your understanding of the palace and its history.
+- **Engaging with Staff**: Don't hesitate to ask questions or seek recommendations from staff members. Their insights can enrich your understanding of the palace and its history.
 
 ## Practical Information
 

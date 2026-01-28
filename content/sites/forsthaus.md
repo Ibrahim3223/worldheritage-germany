@@ -42,7 +42,7 @@ Furthermore, Forsthaus enhances the local landscape by promoting cultural events
 
 The architectural design of Forsthaus is a reflection of the regional styles prevalent in Bavaria. While detailed descriptions of its specific architectural features are not provided, the structure likely embodies characteristics typical of historical buildings in the area, such as traditional materials and craftsmanship. The museum's layout is designed to facilitate a welcoming atmosphere, encouraging visitors to explore its various exhibits and engage with the local culture.
 
-Inside, visitors may find a carefully curated collection that tells the story of Goldkronach and its people. The arrangement of exhibits is likely to be intuitive, guiding guests through different aspects of the region’s history and cultural practices. The museum's ambiance is enhanced by thoughtful displays that invite interaction and contemplation. 
+Inside, visitors may find a carefully curated collection that tells the story of Goldkronach and its people. The arrangement of exhibits is likely to be intuitive, guiding guests through different aspects of the region's history and cultural practices. The museum's ambiance is enhanced by thoughtful displays that invite interaction and contemplation. 
 
 The surrounding environment of Forsthaus also plays a significant role in the overall experience. The picturesque setting complements the museum's mission by providing a backdrop that emphasizes the connection between nature and culture, making it a peaceful place for reflection.
 
@@ -78,7 +78,7 @@ For those planning a trip to Forsthaus, here are some insider tips to enhance yo
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or early in the morning. This can provide a more intimate atmosphere for viewing the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits or local history; their insights can greatly enrich your understanding of the region.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits or local history; their insights can greatly enrich your understanding of the region.
 
 ## Practical Information
 

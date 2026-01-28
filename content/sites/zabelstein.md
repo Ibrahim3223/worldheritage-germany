@@ -72,7 +72,7 @@ To avoid crowds, consider visiting on weekdays rather than weekends. If you can,
 
 ## Practical Information
 
-When planning your visit to Zabelstein, it’s essential to bring appropriate gear. Comfortable hiking shoes are advisable, along with water and snacks to keep your energy up during your exploration. 
+When planning your visit to Zabelstein, it's essential to bring appropriate gear. Comfortable hiking shoes are advisable, along with water and snacks to keep your energy up during your exploration. 
 
 Seasonal considerations are also important. In the warmer months, sun protection, such as sunscreen and a hat, is recommended. If you plan to visit in cooler months, layering your clothing will ensure comfort as temperatures can fluctuate.
 

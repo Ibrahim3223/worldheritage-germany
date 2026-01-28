@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Garten Am Hofbräuhaus 2 in Coburg is a cultural heritage monument that offers visitors a serene escape into nature while also serving as a vital piece of the region’s history. Located in the picturesque town of Coburg in Bavaria, Germany, this garden is a significant site that reflects the cultural landscape of the area. The coordinates of the garden, 50.254593716, 10.957525576, place it conveniently within reach of various attractions and amenities, making it a delightful stop for anyone exploring Coburg.
+Garten Am Hofbräuhaus 2 in Coburg is a cultural heritage monument that offers visitors a serene escape into nature while also serving as a vital piece of the region's history. Located in the picturesque town of Coburg in Bavaria, Germany, this garden is a significant site that reflects the cultural landscape of the area. The coordinates of the garden, 50.254593716, 10.957525576, place it conveniently within reach of various attractions and amenities, making it a delightful stop for anyone exploring Coburg.
 
 The garden's charm lies in its design and tranquil environment, providing a perfect backdrop for leisurely strolls and moments of quiet reflection. Visitors to the garden can expect a harmonious blend of flora and historical context, making it an ideal location for both relaxation and cultural appreciation. Whether you're a local resident or a traveler seeking to immerse yourself in Coburg's natural beauty and heritage, the Garten Am Hofbräuhaus 2 promises an enriching experience.
 
@@ -95,7 +95,7 @@ Accessibility details are not specified. It is advisable to check the official w
 Information on online ticket purchases is not provided. Check the official website for the latest updates on ticketing options.
 
 ### Are there restrooms and cafes?
-Details about facilities such as restrooms and cafes are not specified. It’s best to check local resources or the official website for information regarding amenities.
+Details about facilities such as restrooms and cafes are not specified. It's best to check local resources or the official website for information regarding amenities.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended, especially if you plan to stroll through the garden's pathways. Consider layering for varying weather conditions. 

@@ -52,7 +52,7 @@ Gatersleben Castle is accessible to visitors who wish to explore its historical 
 
 For the most current information regarding visitation hours and ticket prices, check the official website. When planning a visit, it is advisable to allocate sufficient time to explore the castle and its grounds thoroughly. A visit can typically take a couple of hours, depending on the depth of exploration and interest in the historical context.
 
-The best times to visit Gatersleben Castle may vary, but generally, spring and early autumn provide pleasant weather for outdoor exploration. Visitors can expect to encounter a serene atmosphere, allowing for reflection and enjoyment of the site’s cultural heritage. 
+The best times to visit Gatersleben Castle may vary, but generally, spring and early autumn provide pleasant weather for outdoor exploration. Visitors can expect to encounter a serene atmosphere, allowing for reflection and enjoyment of the site's cultural heritage. 
 
 ## Nearby Attractions
 

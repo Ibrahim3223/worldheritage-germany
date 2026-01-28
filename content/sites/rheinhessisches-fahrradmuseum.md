@@ -34,7 +34,7 @@ As you step into the museum, expect to be greeted by an impressive array of bicy
 
 The Rheinhessisches Fahrradmuseum showcases the evolution of bicycles from their inception in the early 19th century to contemporary designs. This museum celebrates more than just the mechanics of cycling; it highlights the cultural impact of bicycles on society. Bicycles have historically served as a means of transportation, recreation, and even as symbols of freedom and independence.
 
-The museum's collection reflects various pivotal moments in cycling history. At one point, bicycles were revolutionary in providing mobility to the masses, empowering individuals and transforming communities. The museum also emphasizes the role of cycling in promoting environmental sustainability, encouraging visitors to consider bicycles as a viable alternative to motor vehicles in today’s world.
+The museum's collection reflects various pivotal moments in cycling history. At one point, bicycles were revolutionary in providing mobility to the masses, empowering individuals and transforming communities. The museum also emphasizes the role of cycling in promoting environmental sustainability, encouraging visitors to consider bicycles as a viable alternative to motor vehicles in today's world.
 
 Cultural events, exhibitions, and workshops related to cycling culture may take place here, making the museum a vibrant hub for those passionate about cycling. By fostering an appreciation for the bicycle, the Rheinhessisches Fahrradmuseum contributes to the dialogue on sustainable transportation and public health.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Rheinhessisches Fahrradmuseum, it's useful 
 A visit typically takes about 1-2 hours, allowing ample time to explore the exhibits and engage with the displays.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check upon arrival or consult the museum’s guidelines.
+Photography policies can vary, so it's best to check upon arrival or consult the museum's guidelines.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special programs that may be available during your visit.
@@ -109,7 +109,7 @@ For accessibility details, check the official website to ensure a comfortable vi
 It's advisable to check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available at the museum, but it’s best to verify on the official website for specifics.
+Facilities may be available at the museum, but it's best to verify on the official website for specifics.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area after your museum visit. 

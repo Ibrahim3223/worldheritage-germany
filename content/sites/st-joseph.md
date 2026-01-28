@@ -82,7 +82,7 @@ Seasonal considerations may also influence your visit. Spring and summer months 
 Visitors typically spend around 30 minutes to an hour at St. Joseph Church, depending on their interest in the architecture and atmosphere.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signs or inquire with staff upon arrival.
+Photography policies can vary, so it's best to check for any signs or inquire with staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may not be available, but informational materials may be accessible for self-guided exploration.

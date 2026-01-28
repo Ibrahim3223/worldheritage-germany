@@ -65,9 +65,9 @@ Each of these locations can complement your visit to the museum, providing a wel
 
 For those planning to visit the Internationales Radiomuseum Hans Necker, here are some insider tips to enhance your experience:
 
-- **Photography**: If you’re keen on capturing memories, check if photography is permitted in certain areas of the museum to respect any guidelines.
+- **Photography**: If you're keen on capturing memories, check if photography is permitted in certain areas of the museum to respect any guidelines.
 - **Crowd Avoidance**: To avoid large groups, consider visiting on weekdays or during off-peak hours. This will allow for a more intimate experience with the exhibits.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific exhibits or the history of certain artifacts—they can provide valuable insights that enrich your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific exhibits or the history of certain artifacts—they can provide valuable insights that enrich your visit.
 
 ## Practical Information
 
@@ -85,7 +85,7 @@ Plan to spend at least a few hours at the museum to fully enjoy the exhibits and
 Check the museum's specific guidelines regarding photography to ensure compliance with their policies.
 
 ### Are there guided tours?
-Information on guided tours can be obtained from the museum’s official resources. Engaging in a tour can enhance your understanding of the exhibits.
+Information on guided tours can be obtained from the museum's official resources. Engaging in a tour can enhance your understanding of the exhibits.
 
 ### What's the best time to visit?
 Visiting during weekdays or off-peak hours may offer a quieter experience. Check the official website for any special events or programs that may be taking place.
@@ -97,7 +97,7 @@ For details about accessibility options, check the museum's official website to 
 Check the official website for information on online ticket sales to streamline your entry into the museum.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes may be available. Verify their locations and availability on the museum’s official site.
+Facilities such as restrooms and cafes may be available. Verify their locations and availability on the museum's official site.
 
 ### What should I wear?
 Dress comfortably, considering the season and weather, as you may be walking and exploring for an extended period. 

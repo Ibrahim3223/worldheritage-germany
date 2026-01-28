@@ -28,7 +28,7 @@ image_srcset:
 
 Located in the picturesque town of Gundelsheim, in the Landkreis Heilbronn of Baden-Württemberg, Germany, the Selimiye Camii stands as a significant representation of Islamic architecture in the region. This mosque, while perhaps lesser-known than other places of worship, holds a unique place in the cultural mosaic of Germany, serving as both a spiritual center and a point of interest for visitors. Its presence in the heart of Gundelsheim connects the local community with Islamic traditions, inviting both worshipers and curious travelers to explore its serene environment.
 
-The Selimiye Camii is not just a place of prayer; it embodies the rich cultural exchanges that have occurred throughout history. The mosque’s design and function speak to the broader narratives of migration and integration, making it an important landmark for understanding contemporary German society. Visitors can expect to find a peaceful atmosphere, perfect for reflection and appreciation of the intricate details that characterize Islamic architecture.
+The Selimiye Camii is not just a place of prayer; it embodies the rich cultural exchanges that have occurred throughout history. The mosque's design and function speak to the broader narratives of migration and integration, making it an important landmark for understanding contemporary German society. Visitors can expect to find a peaceful atmosphere, perfect for reflection and appreciation of the intricate details that characterize Islamic architecture.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ The architectural design of the mosque reflects the traditional elements of Isla
 
 The architectural style of the Selimiye Camii is characteristic of Islamic mosque design, emphasizing simplicity and elegance. While specific dimensions and architectural details are not provided, mosques typically feature elements such as minarets, domes, and decorative calligraphy, all of which serve both functional and aesthetic purposes. Visitors will likely appreciate the harmonious proportions and the serene ambiance that is often found in such places of worship.
 
-The mosque’s interior is designed to facilitate prayer and reflection, with an open space that can accommodate worshippers. Natural light typically plays an essential role in mosque design, illuminating the prayer hall and highlighting the intricate details on the walls and ceilings. The use of geometric patterns and arabesques may be present, contributing to the overall sense of tranquility and spiritual elevation.
+The mosque's interior is designed to facilitate prayer and reflection, with an open space that can accommodate worshippers. Natural light typically plays an essential role in mosque design, illuminating the prayer hall and highlighting the intricate details on the walls and ceilings. The use of geometric patterns and arabesques may be present, contributing to the overall sense of tranquility and spiritual elevation.
 
 Visitors may find that the layout of the mosque encourages a sense of community, with areas designated for prayer, study, and gathering. This multifunctional aspect of the mosque underscores its role not just as a religious site but also as a cultural and social center for the local Muslim community.
 

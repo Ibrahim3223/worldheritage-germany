@@ -80,7 +80,7 @@ For those planning to visit Augustinerkloster Würzburg, here are a few insider 
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, consider visiting during weekdays or early in the morning. This will allow for a quieter exploration of the monastery and its surroundings.
 
-- **Engage with the History**: Take time to read any informational signage available at the site to gain a deeper understanding of the monastery’s significance and the stories behind its architecture.
+- **Engage with the History**: Take time to read any informational signage available at the site to gain a deeper understanding of the monastery's significance and the stories behind its architecture.
 
 ## Practical Information
 

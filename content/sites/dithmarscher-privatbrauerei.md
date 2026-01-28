@@ -84,7 +84,7 @@ Check the official website for any seasonal considerations, including special ev
 A visit typically lasts a couple of hours, allowing time for a tour and tastings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s always best to check with staff regarding specific areas.
+Photography is generally permitted, but it's always best to check with staff regarding specific areas.
 
 ### Are there guided tours?
 Yes, guided tours are often available and provide insights into the brewing process and history.

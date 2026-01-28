@@ -76,7 +76,7 @@ To make the most of your visit to the Heinz Nixdorf MuseumsForum, consider these
 
 - **Crowd Avoidance**: Aim to visit during weekdays or early mornings to avoid larger crowds. This will enhance your experience and allow for more interaction with displays and staff.
 
-- **Interactive Exhibits**: Don’t hesitate to engage with interactive displays. They are designed to provide a deeper understanding of the technology and can be a highlight of your visit.
+- **Interactive Exhibits**: Don't hesitate to engage with interactive displays. They are designed to provide a deeper understanding of the technology and can be a highlight of your visit.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Village Church in Dambeck is a remarkable church building located within the charming region of Bobitz in Mecklenburg-Vorpommern, Germany. This architectural gem serves not only as a place of worship but also as a reflection of the local cultural and historical landscape. The church stands as a significant landmark for both the local community and visitors seeking to explore the rich ecclesiastical heritage of the area. Its serene setting invites contemplation and appreciation, making it a compelling destination for those interested in history, architecture, and spirituality.
 
-Dambeck forms part of the picturesque landscape of northern Germany, characterized by its quaint villages and lush countryside. The church’s presence in this setting enhances its significance, as it embodies the spiritual and social fabric of the community over the years. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat, the Village Church in Dambeck promises a meaningful experience.
+Dambeck forms part of the picturesque landscape of northern Germany, characterized by its quaint villages and lush countryside. The church's presence in this setting enhances its significance, as it embodies the spiritual and social fabric of the community over the years. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat, the Village Church in Dambeck promises a meaningful experience.
 
 ## History and Significance
 

@@ -104,4 +104,4 @@ Inquire about available amenities, including restrooms and cafés, on the offici
 ### What should I wear?
 Comfortable clothing and shoes are recommended, and consider seasonal weather when dressing for your visit. 
 
-Wäscherschloss stands as an important cultural institution in Wäschenbeuren, inviting visitors to explore the intricate narratives that have shaped the region’s history. Whether you are a history buff or a casual traveler, this museum offers an engaging glimpse into the past.
+Wäscherschloss stands as an important cultural institution in Wäschenbeuren, inviting visitors to explore the intricate narratives that have shaped the region's history. Whether you are a history buff or a casual traveler, this museum offers an engaging glimpse into the past.

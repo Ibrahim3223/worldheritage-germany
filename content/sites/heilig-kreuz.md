@@ -34,7 +34,7 @@ The church is more than just a place of worship; it represents an integral part 
 
 Heilig Kreuz holds cultural importance in Gelsenkirchen, a city that has undergone significant transformation over the years. While specific dates and events may not be detailed, the church's existence contributes to the understanding of the region's religious landscape. Historically, churches have served as community hubs, and Heilig Kreuz is no different, providing a space for worship and gatherings that have shaped local traditions and social life.
 
-The church’s role extends beyond its religious functions; it acts as a symbol of resilience and continuity in a city marked by industrial change. As Gelsenkirchen transitioned from a mining town to a center of modern life, the church adapted alongside its community, reflecting the evolving nature of faith and community engagement.
+The church's role extends beyond its religious functions; it acts as a symbol of resilience and continuity in a city marked by industrial change. As Gelsenkirchen transitioned from a mining town to a center of modern life, the church adapted alongside its community, reflecting the evolving nature of faith and community engagement.
 
 The architecture and the services held at Heilig Kreuz often resonate with the local population, allowing it to maintain its relevance in contemporary society. The church is not merely a relic of the past; it is a living institution that continues to foster connections among its congregation and serves as a reminder of the region's rich spiritual heritage.
 
@@ -68,7 +68,7 @@ These nearby attractions provide a diverse range of experiences, from nature to 
 
 ## Insider Tips
 
-For those looking to capture the essence of Heilig Kreuz through photography, consider visiting during the early morning or late afternoon when natural light is softer, enhancing the beauty of the church’s features. Additionally, aim to visit during weekdays to avoid larger crowds that can detract from the serene atmosphere.
+For those looking to capture the essence of Heilig Kreuz through photography, consider visiting during the early morning or late afternoon when natural light is softer, enhancing the beauty of the church's features. Additionally, aim to visit during weekdays to avoid larger crowds that can detract from the serene atmosphere.
 
 Respect the sanctity of the church by observing any guidelines regarding photography, especially during services or religious events. Engaging with locals can also enrich your visit, offering insights into the church's significance and role within the community.
 
@@ -93,7 +93,7 @@ Check the official website for information regarding guided tours, which may off
 Mornings or weekdays tend to be quieter, providing a more reflective environment. However, special services or events may also enhance the experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be specified, so it’s best to check the official website for details regarding wheelchair access.
+Accessibility information may not be specified, so it's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Visit the official website to see if online ticket purchasing options are available, especially for any special events.

@@ -34,7 +34,7 @@ As you consider your visit, the hall promises a blend of entertainment and commu
 
 ## History and Significance
 
-The August-Schärttner-Halle has become a noteworthy fixture in Hanau’s cultural scene. While specific historical records may be limited, the venue has played an essential role in hosting various events that reflect the dynamic spirit of the area. As a multi-purpose hall, it accommodates an array of activities, allowing for artistic expression and community gatherings that are vital to local culture.
+The August-Schärttner-Halle has become a noteworthy fixture in Hanau's cultural scene. While specific historical records may be limited, the venue has played an essential role in hosting various events that reflect the dynamic spirit of the area. As a multi-purpose hall, it accommodates an array of activities, allowing for artistic expression and community gatherings that are vital to local culture.
 
 The significance of the hall is enhanced by its connection to the community. It not only provides a space for entertainment but also serves as a venue for exhibitions, fairs, and public meetings, contributing to the social fabric of Hanau. The hall's design and functionality support its role as a cultural landmark, fostering a sense of belonging among residents and creating opportunities for cultural exchange.
 

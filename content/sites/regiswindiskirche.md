@@ -48,7 +48,7 @@ Inside, the ambiance created by the interplay of light filtering through stained
 
 When planning a visit to Regiswindiskirche, be sure to check the official website for current information on hours and any potential entrance fees. The church is accessible via various transport options, including local bus services that connect Lauffen am Neckar to nearby cities.
 
-Upon arrival, visitors can expect a serene environment conducive to contemplation and appreciation of the church’s architecture. While the time needed for a visit can vary based on individual interest, a duration of approximately one hour is generally sufficient for a brief exploration of the church and its surroundings.
+Upon arrival, visitors can expect a serene environment conducive to contemplation and appreciation of the church's architecture. While the time needed for a visit can vary based on individual interest, a duration of approximately one hour is generally sufficient for a brief exploration of the church and its surroundings.
 
 The best times to visit often align with local events and services, allowing visitors to experience the church in its full vibrancy. Additionally, weekends can be busier due to community gatherings, so consider visiting during weekdays for a quieter experience.
 
@@ -82,7 +82,7 @@ Seasonal considerations can impact your visit; spring and early autumn typically
 A visit to Regiswindiskirche typically lasts around one hour, allowing time to explore the interior and exterior of the church.
 
 ### Is photography allowed?
-Photography policies may vary, especially during services. It’s advisable to check local guidelines or ask staff for permission.
+Photography policies may vary, especially during services. It's advisable to check local guidelines or ask staff for permission.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details regarding tour offerings and schedules.

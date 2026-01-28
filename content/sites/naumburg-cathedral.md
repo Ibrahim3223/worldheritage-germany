@@ -40,7 +40,7 @@ Naumburg Cathedral's history is deeply intertwined with the development of the t
 
 The cultural importance of Naumburg Cathedral cannot be overstated. It represents a confluence of artistic styles, primarily from the Romanesque and Gothic periods, symbolizing the shift in architectural paradigms during this era. The cathedral is also notable for its connection to the Naumburg Masters, a group of skilled artisans responsible for many of the cathedral's sculptures and reliefs. Their work reflects a high level of craftsmanship that has influenced generations of artists.
 
-In addition to its artistic and architectural significance, Naumburg Cathedral serves as a historical record of the region’s socio-political dynamics. It has been a center for various religious practices and a witness to the changing tides of faith and governance throughout its long existence. The cathedral continues to be a focal point for both local and international visitors, contributing to the ongoing dialogue about heritage and identity in modern Germany.
+In addition to its artistic and architectural significance, Naumburg Cathedral serves as a historical record of the region's socio-political dynamics. It has been a center for various religious practices and a witness to the changing tides of faith and governance throughout its long existence. The cathedral continues to be a focal point for both local and international visitors, contributing to the ongoing dialogue about heritage and identity in modern Germany.
 
 ## Architecture and Features
 

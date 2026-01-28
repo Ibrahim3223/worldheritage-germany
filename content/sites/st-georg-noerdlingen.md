@@ -28,7 +28,7 @@ image_srcset:
 
 St. Georg in Nördlingen is a remarkable church building that stands as a significant landmark in the heart of Swabia, Germany. This stunning architectural work not only serves as a place of worship but also embodies the rich cultural and historical narrative of the region. Nestled within the medieval walls of Nördlingen, a town with a storied past linked to the Thirty Years' War and the geological phenomena of the nearby Ries crater, St. Georg is an intersection of faith, art, and history. Visitors to this site can expect to immerse themselves in a unique blend of spirituality and artistic heritage, making it a must-see destination for anyone exploring the area.
 
-The church's prominent location and architectural grandeur attract both pilgrims and tourists alike, offering a glimpse into the artistic styles and religious practices that have shaped the community over centuries. With its intricate design and historical significance, St. Georg not only enriches the visitor's experience but also enhances the understanding of Nördlingen’s place in German history. 
+The church's prominent location and architectural grandeur attract both pilgrims and tourists alike, offering a glimpse into the artistic styles and religious practices that have shaped the community over centuries. With its intricate design and historical significance, St. Georg not only enriches the visitor's experience but also enhances the understanding of Nördlingen's place in German history. 
 
 ## History and Significance
 

@@ -101,7 +101,7 @@ Accessibility details are not provided; it's advisable to check the official web
 Information regarding online ticket purchases is not specified; please check the official website for the most accurate details.
 
 ### Are there restrooms and cafes?
-Details about facilities are not mentioned; it’s best to inquire locally upon your visit.
+Details about facilities are not mentioned; it's best to inquire locally upon your visit.
 
 ### What should I wear?
 Modest attire is recommended to respect the church's sacred environment.

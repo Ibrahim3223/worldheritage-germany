@@ -36,7 +36,7 @@ The history of Palais am Fürstenwall is interwoven with the broader narrative o
 
 While specific dates and events may not be documented here, the significance of this palace extends beyond its walls. It was originally constructed to symbolize authority and sophistication, embodying the aspirations of the ruling elite. The architectural style of the Palais showcases the influence of various artistic movements, making it an important site for those interested in architectural history.
 
-The Palais has also been a witness to significant events that shaped the cultural landscape of Magdeburg. Its presence has contributed to the city’s identity, providing a sense of continuity in a place that has undergone various transformations over the centuries. Today, the Palais am Fürstenwall stands as a cultural landmark, inviting visitors to reflect on the historical currents that have shaped this vibrant urban center.
+The Palais has also been a witness to significant events that shaped the cultural landscape of Magdeburg. Its presence has contributed to the city's identity, providing a sense of continuity in a place that has undergone various transformations over the centuries. Today, the Palais am Fürstenwall stands as a cultural landmark, inviting visitors to reflect on the historical currents that have shaped this vibrant urban center.
 
 ## Architecture and Features
 
@@ -64,7 +64,7 @@ While exploring Palais am Fürstenwall, consider visiting other notable sites in
 
 3. **Green Citadel of Magdeburg**: This unique building, designed by the renowned architect Friedensreich Hundertwasser, showcases whimsical architecture and serves as a cultural center.
 
-4. **Museum of Cultural History**: Offering insights into the social and cultural development of Magdeburg, this museum is a great complement to your exploration of the city’s heritage.
+4. **Museum of Cultural History**: Offering insights into the social and cultural development of Magdeburg, this museum is a great complement to your exploration of the city's heritage.
 
 5. **The Old Market**: A vibrant square that serves as a focal point for the city, featuring cafes and shops, ideal for immersing yourself in the local atmosphere.
 

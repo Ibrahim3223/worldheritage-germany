@@ -74,7 +74,7 @@ For the best angles, explore the various courtyards and walkways, as each area o
 
 ## Practical Information
 
-When visiting St. Nicolas Court, it’s advisable to wear comfortable footwear, as the cobblestone paths and uneven surfaces may pose challenges. A light jacket can be handy, especially during cooler months. 
+When visiting St. Nicolas Court, it's advisable to wear comfortable footwear, as the cobblestone paths and uneven surfaces may pose challenges. A light jacket can be handy, especially during cooler months. 
 
 Seasonal considerations are essential for visitors. Spring and early autumn are ideal times to visit, as the weather is generally mild and pleasant for outdoor exploration. Be sure to bring water and snacks, as amenities in the immediate vicinity may be limited.
 

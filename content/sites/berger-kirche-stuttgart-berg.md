@@ -38,7 +38,7 @@ While specific historical details about Berger Kirche are not provided, the chur
 
 The significance of Berger Kirche can be understood through its connection to the various movements and changes that have shaped Stuttgart over the years. As communities evolve, so too do their places of worship, reflecting the beliefs, values, and artistic endeavors of the times. The church likely mirrors these transitions, offering insight into local traditions and practices that have persisted through generations.
 
-In addition to its role as a religious institution, Berger Kirche contributes to the cultural fabric of Stuttgart-Berg. It stands as a site of architectural interest, where visitors can appreciate the craftsmanship and design elements that characterize church buildings in this part of Germany. The church’s existence illustrates the interplay between faith and community, serving as a reminder of the enduring human spirit and its quest for meaning.
+In addition to its role as a religious institution, Berger Kirche contributes to the cultural fabric of Stuttgart-Berg. It stands as a site of architectural interest, where visitors can appreciate the craftsmanship and design elements that characterize church buildings in this part of Germany. The church's existence illustrates the interplay between faith and community, serving as a reminder of the enduring human spirit and its quest for meaning.
 
 ## Architecture and Features
 
@@ -85,7 +85,7 @@ Seasonal changes can affect your experience, so be sure to check the weather for
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically takes around one hour, allowing you to appreciate the church’s architecture and atmosphere.
+A visit typically takes around one hour, allowing you to appreciate the church's architecture and atmosphere.
 
 ### Is photography allowed?
 Photography policies can vary. It's recommended to check for any restrictions, especially inside the church.

@@ -36,7 +36,7 @@ The Gustav-Selve-Denkmal is a monument that embodies the historical narrative of
 
 Monuments often reflect the values and aspirations of the society that created them. The Gustav-Selve-Denkmal is no exception; it stands as an expression of the community's respect for its history and those who have contributed to its development. Such structures are crucial for the education of future generations, providing a tangible link to the past. Visitors can engage with the monument not only as an architectural piece but as a symbol of cultural pride.
 
-In addition, the presence of the monument in Altena highlights the city’s commitment to preserving its history. The site often serves as a gathering place for local events and commemorations, further solidifying its role within the community. As you explore the monument, consider the stories it represents and the legacy it continues to uphold.
+In addition, the presence of the monument in Altena highlights the city's commitment to preserving its history. The site often serves as a gathering place for local events and commemorations, further solidifying its role within the community. As you explore the monument, consider the stories it represents and the legacy it continues to uphold.
 
 ## Architecture and Features
 
@@ -73,7 +73,7 @@ Be sure to take your time to explore the surrounding area as well, as there may 
 
 ## Practical Information
 
-Before heading out to visit the Gustav-Selve-Denkmal, it’s advisable to bring along some essentials. Comfortable walking shoes are recommended, given the possibility of uneven terrain in the vicinity of the monument. Additionally, consider packing water and light snacks, especially if you plan to spend a significant amount of time exploring the area.
+Before heading out to visit the Gustav-Selve-Denkmal, it's advisable to bring along some essentials. Comfortable walking shoes are recommended, given the possibility of uneven terrain in the vicinity of the monument. Additionally, consider packing water and light snacks, especially if you plan to spend a significant amount of time exploring the area.
 
 Seasonal considerations can also impact your visit. If you're traveling in winter, be prepared for colder temperatures, while spring and summer may present opportunities for outdoor activities. Always check the weather forecast to ensure a pleasant visit.
 

@@ -62,9 +62,9 @@ Expect to spend around one to two hours at the site, allowing ample time for ref
 
 While visiting the Karl Marx monument, consider exploring the following nearby attractions:
 
-1. **St. Mary's Church**: A historic church known for its stunning architecture and significant role in the city’s religious history.
+1. **St. Mary's Church**: A historic church known for its stunning architecture and significant role in the city's religious history.
    
-2. **Frankfurt (Oder) City Museum**: A place to delve deeper into the local history and culture, offering insights into the city’s development over the centuries.
+2. **Frankfurt (Oder) City Museum**: A place to delve deeper into the local history and culture, offering insights into the city's development over the centuries.
 
 3. **Oder River Promenade**: A lovely area for a leisurely stroll along the river, providing picturesque views and a chance to relax.
 

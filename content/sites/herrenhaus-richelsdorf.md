@@ -80,7 +80,7 @@ When preparing for your visit to Herrenhaus Richelsdorf, there are a few practic
 
 Seasonal considerations should also be factored into your planning. If visiting during colder months, dress warmly, as some areas may not be heated. Conversely, summer visitors should consider sun protection when spending time outdoors.
 
-It’s also advisable to bring water and light snacks, especially if you plan to spend an extended period exploring the site and the surrounding area.
+It's also advisable to bring water and light snacks, especially if you plan to spend an extended period exploring the site and the surrounding area.
 
 ## Frequently Asked Questions
 
@@ -103,7 +103,7 @@ Accessibility information is not provided, so it is advisable to contact the sit
 Ticket purchasing options vary; check the official website for current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities information is not specified; it’s best to verify on the official website for availability of restrooms and cafes.
+Facilities information is not specified; it's best to verify on the official website for availability of restrooms and cafes.
 
 ### What should I wear?
 Dress comfortably, with layers suitable for the weather, and consider good walking shoes for exploring the grounds.

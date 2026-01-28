@@ -38,7 +38,7 @@ The physical structure of the Gemeindebücherei Wörth reflects the functional d
 
 Inside, visitors can expect to find a diverse collection of books, periodicals, and digital media. The layout is usually designed to facilitate easy navigation, with designated areas for reading, studying, and community events. The library may also feature comfortable seating arrangements and study spaces, catering to the needs of individuals seeking quiet areas for concentration or collaborative spaces for group work.
 
-For those interested in digital resources, the Gemeindebücherei Wörth likely offers access to various online databases and e-books, reflecting the modern shift towards digital literacy. These features not only enhance the library’s offerings but also ensure that it remains relevant in an increasingly digital world.
+For those interested in digital resources, the Gemeindebücherei Wörth likely offers access to various online databases and e-books, reflecting the modern shift towards digital literacy. These features not only enhance the library's offerings but also ensure that it remains relevant in an increasingly digital world.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ Seasonal considerations may also impact your visit. For instance, summer months 
 A visit to the Gemeindebücherei Wörth typically takes about one to two hours, depending on your interest in the materials and any events happening during your visit.
 
 ### Is photography allowed?
-It’s best to check the library’s policy on photography upon arrival, as some areas may have restrictions.
+It's best to check the library's policy on photography upon arrival, as some areas may have restrictions.
 
 ### Are there guided tours?
 Guided tours may not be a standard offering; however, inquire at the library for any special programs or group visits.

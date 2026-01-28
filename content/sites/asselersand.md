@@ -101,7 +101,7 @@ Check the official website for details on accessibility options within the reser
 Check the official website for current information on tickets and entry fees.
 
 ### Are there restrooms and cafes?
-It’s advisable to check the official website for information on facilities available at the reserve.
+It's advisable to check the official website for information on facilities available at the reserve.
 
 ### What should I wear?
 Dress in layers and wear comfortable, weather-appropriate clothing and footwear suitable for walking on nature trails.

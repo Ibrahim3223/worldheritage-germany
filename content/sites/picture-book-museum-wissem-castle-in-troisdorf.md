@@ -76,7 +76,7 @@ Photography may be allowed in certain areas of the museum, but it's always prude
 
 ## Practical Information
 
-When planning your visit to the Picture Book Museum, it’s advisable to bring a light bag for your personal items, as this can make the experience more comfortable. Packing a water bottle might also be a good idea, especially if you plan to spend a significant amount of time exploring the museum.
+When planning your visit to the Picture Book Museum, it's advisable to bring a light bag for your personal items, as this can make the experience more comfortable. Packing a water bottle might also be a good idea, especially if you plan to spend a significant amount of time exploring the museum.
 
 Seasonal considerations can impact your visit, so be aware of weather conditions, particularly if you intend to explore the surrounding areas after your museum tour. Comfortable footwear is recommended, as you may find yourself walking around the castle grounds and nearby attractions.
 

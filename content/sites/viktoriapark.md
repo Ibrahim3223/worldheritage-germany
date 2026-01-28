@@ -40,7 +40,7 @@ Culturally, Viktoriapark stands as a symbol of community and connectivity within
 
 The park's design and layout take inspiration from natural landscapes, encouraging visitors to immerse themselves in a serene environment away from the city's hustle. The integration of walking paths and open spaces facilitates accessibility for all, making Viktoriapark a cherished space within the bustling urban fabric of Berlin. 
 
-Overall, Viktoriapark is not just a park; it represents a vital part of Berlin’s commitment to creating inclusive and sustainable urban spaces that enhance the quality of life for its inhabitants.
+Overall, Viktoriapark is not just a park; it represents a vital part of Berlin's commitment to creating inclusive and sustainable urban spaces that enhance the quality of life for its inhabitants.
 
 ## Architecture and Features
 
@@ -68,7 +68,7 @@ The best times to visit are during the spring and summer months when the park is
 
 2. **Kreuzberg Museum**: Located nearby, this museum offers insights into the local history and culture of the Kreuzberg district.
 
-3. **Landwehr Canal**: A beautiful waterway ideal for walking or cycling, providing a scenic route through some of Berlin’s most charming neighborhoods.
+3. **Landwehr Canal**: A beautiful waterway ideal for walking or cycling, providing a scenic route through some of Berlin's most charming neighborhoods.
 
 4. **Bergmannkiez**: This vibrant neighborhood is known for its unique shops, cafés, and restaurants, making it a great spot to grab a bite after your park visit.
 
@@ -84,7 +84,7 @@ Don't forget to bring a picnic blanket and some snacks to fully enjoy the park's
 
 ## Practical Information
 
-When planning your visit to Viktoriapark, it’s advisable to wear comfortable clothing and sturdy shoes, as you may want to explore the various paths and green areas. 
+When planning your visit to Viktoriapark, it's advisable to wear comfortable clothing and sturdy shoes, as you may want to explore the various paths and green areas. 
 
 Seasonal considerations are also important; spring and summer months are ideal for enjoying the park's lush flora, while autumn offers beautiful fall foliage. In winter, the park may be less accessible, but it can still provide a serene atmosphere for a refreshing walk.
 

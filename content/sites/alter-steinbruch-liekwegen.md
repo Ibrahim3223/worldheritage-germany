@@ -59,7 +59,7 @@ While Alter Steinbruch Liekwegen is a destination in its own right, there are se
 1. **Nienstädt**: The nearby village offers a glimpse into local life and culture, with charming streets and local shops.
 2. **Schaumburg Forest**: A larger forested area that provides additional opportunities for hiking and outdoor activities.
 3. **Museum Bückeburg**: Located not too far away, this museum showcases regional history and art, making it an excellent complement to a nature-focused trip.
-4. **Kaiser-Wilhelm-Denkmal**: A historic monument that provides a cultural insight into the area’s past.
+4. **Kaiser-Wilhelm-Denkmal**: A historic monument that provides a cultural insight into the area's past.
 5. **Mühlenkreis Minden-Lübbecke**: Explore the history of local water mills and their significance in the region.
 
 ## Insider Tips
@@ -102,4 +102,4 @@ Facilities may not be available on-site; it's advisable to prepare accordingly b
 ### What should I wear?
 Dress in comfortable clothing suitable for outdoor activities, and wear layers to adjust to changing weather conditions.
 
-Alter Steinbruch Liekwegen is a nature reserve that invites you to explore the beauty of Lower Saxony’s landscapes while promoting awareness of environmental conservation. Whether you are a nature lover, a birdwatcher, or simply seeking a peaceful retreat, this reserve has much to offer.
+Alter Steinbruch Liekwegen is a nature reserve that invites you to explore the beauty of Lower Saxony's landscapes while promoting awareness of environmental conservation. Whether you are a nature lover, a birdwatcher, or simply seeking a peaceful retreat, this reserve has much to offer.

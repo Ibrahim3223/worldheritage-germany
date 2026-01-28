@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Couven-Gymnasium, located in the heart of Aachen, Germany, serves as a significant cultural institution that embodies the educational spirit of the region. As a secondary school, it plays an essential role in shaping the minds of young learners while contributing to the rich cultural fabric of Aachen. The school’s structure and environment reflect the city’s historical importance, making it a noteworthy place for both students and visitors alike. With its strategic location in Aachen-Mitte, Couven-Gymnasium is not only a hub for academic growth but also a gateway to explore the architectural and cultural heritage of the area.
+Couven-Gymnasium, located in the heart of Aachen, Germany, serves as a significant cultural institution that embodies the educational spirit of the region. As a secondary school, it plays an essential role in shaping the minds of young learners while contributing to the rich cultural fabric of Aachen. The school's structure and environment reflect the city's historical importance, making it a noteworthy place for both students and visitors alike. With its strategic location in Aachen-Mitte, Couven-Gymnasium is not only a hub for academic growth but also a gateway to explore the architectural and cultural heritage of the area.
 
 The institution is situated in a region known for its historical significance, particularly during the Carolingian era, when Aachen was a center of power. As you approach Couven-Gymnasium, you'll find a blend of modern educational practices and a commitment to preserving the cultural legacy of the city. Visitors keen on understanding the intersection of education and cultural heritage will find Couven-Gymnasium to be a fascinating stop on their journey through Aachen.
 
@@ -62,13 +62,13 @@ While at Couven-Gymnasium, expect an environment that is lively and engaging. Th
 
 3. **Centre Charlemagne**: This museum showcases the history of Aachen and the Carolingian Empire, providing context to the city's role in European history.
 
-4. **Elisenbrunnen**: A neoclassical fountain that is famous for its thermal springs, it serves as a popular meeting point and a symbol of Aachen’s spa culture.
+4. **Elisenbrunnen**: A neoclassical fountain that is famous for its thermal springs, it serves as a popular meeting point and a symbol of Aachen's spa culture.
 
 5. **Puppenbrunnen**: A whimsical fountain adorned with playful figures, it's a delightful spot for visitors to relax and enjoy the ambiance of the city.
 
 ## Insider Tips
 
-For photography enthusiasts, the best angles of Couven-Gymnasium can often be found from the surrounding areas where the school's architectural details can be captured against the backdrop of Aachen’s streets. Early mornings or late afternoons may provide soft lighting that enhances your photographs.
+For photography enthusiasts, the best angles of Couven-Gymnasium can often be found from the surrounding areas where the school's architectural details can be captured against the backdrop of Aachen's streets. Early mornings or late afternoons may provide soft lighting that enhances your photographs.
 
 To avoid crowds, consider visiting during school hours, particularly on weekdays. This will allow you to enjoy a more tranquil atmosphere, and you may even catch students engaged in various activities, adding to the vibrancy of your visit.
 
@@ -84,7 +84,7 @@ Seasonal considerations are important as well; Aachen experiences a variety of w
 A visit to Couven-Gymnasium typically requires about two hours, allowing for a thorough exploration of the school and its immediate surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted in public areas; however, it’s advisable to be respectful of students and staff during school hours.
+Photography is generally permitted in public areas; however, it's advisable to be respectful of students and staff during school hours.
 
 ### Are there guided tours?
 While guided tours of the school may not be available, local guides offer tours of the surrounding historical sites in Aachen.

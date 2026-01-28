@@ -61,7 +61,7 @@ Expect to spend around one to two hours at the chapel, depending on your level o
 ## Nearby Attractions
 
 1. **Ostbevern Town Center**: A short stroll away, the town center offers quaint shops and local eateries, perfect for a leisurely afternoon.
-2. **St. John’s Church**: Another significant religious site in the area, this church hosts various community events and services.
+2. **St. John's Church**: Another significant religious site in the area, this church hosts various community events and services.
 3. **The Ems River**: A picturesque spot for walking or picnicking, the river offers a peaceful retreat into nature.
 4. **Local Farms**: Explore the surrounding farmland to understand the agricultural practices that shape the region's culture and economy.
 5. **Nature Trails**: Various trails around Ostbevern provide opportunities for hiking and enjoying the local flora and fauna.

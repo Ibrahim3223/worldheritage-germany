@@ -28,7 +28,7 @@ image_srcset:
 
 Emmauskirche is an architectural landmark located in the town of Borna, situated in the Landkreis Leipzig region of Saxony, Germany. This church building serves not only as a place of worship but also as a significant cultural and historical site for the local community. Its architectural style reflects the evolution of ecclesiastical designs in the region, making it a point of interest for both visitors and locals alike. The church stands as a symbol of spiritual resilience and community unity, drawing people in with its inviting ambiance and historical relevance. 
 
-Borna, with its rich history and vibrant culture, provides a picturesque backdrop for exploring the Emmauskirche. The surrounding area is characterized by a blend of traditional Saxon architecture and modern influences, making it an ideal spot for heritage enthusiasts. Visitors can expect to encounter a welcoming atmosphere complemented by the church’s historical significance, contributing to a deeper understanding of the region's cultural fabric.
+Borna, with its rich history and vibrant culture, provides a picturesque backdrop for exploring the Emmauskirche. The surrounding area is characterized by a blend of traditional Saxon architecture and modern influences, making it an ideal spot for heritage enthusiasts. Visitors can expect to encounter a welcoming atmosphere complemented by the church's historical significance, contributing to a deeper understanding of the region's cultural fabric.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ The best times to visit are typically during weekdays or early mornings, when th
 
 Borna is surrounded by several attractions that complement a visit to Emmauskirche:
 
-1. **Borna Town Museum** – Located nearby, this museum offers insights into the local history and culture, providing context to the region’s heritage.
+1. **Borna Town Museum** – Located nearby, this museum offers insights into the local history and culture, providing context to the region's heritage.
 
 2. **Borna Stadtpark** – A perfect spot for a leisurely stroll, this park features walking paths, green spaces, and areas for relaxation.
 
@@ -74,7 +74,7 @@ Borna is surrounded by several attractions that complement a visit to Emmauskirc
 
 ## Insider Tips
 
-For photography enthusiasts, the best angles to capture Emmauskirche’s architectural beauty can often be found from a distance, where you can appreciate its full structure against the backdrop of Borna. Early mornings or late afternoons provide soft lighting that enhances the building's features.
+For photography enthusiasts, the best angles to capture Emmauskirche's architectural beauty can often be found from a distance, where you can appreciate its full structure against the backdrop of Borna. Early mornings or late afternoons provide soft lighting that enhances the building's features.
 
 To avoid crowds, visiting on weekdays is generally recommended, especially during regular service hours. If you are interested in attending a service, it's wise to arrive early to secure a good spot.
 
@@ -87,7 +87,7 @@ Be prepared for changing weather conditions, especially in the colder months, an
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically lasts around one hour, allowing you to appreciate the church’s architecture and significance.
+A visit typically lasts around one hour, allowing you to appreciate the church's architecture and significance.
 
 ### Is photography allowed?
 Photography is generally permitted, but be respectful of worshippers and any guidelines provided by the church.
@@ -108,4 +108,4 @@ Visit the official website for information on ticket purchasing and any special 
 Amenities may be limited, so plan accordingly for restrooms and refreshments.
 
 ### What should I wear?
-Dress comfortably and respectfully, considering the church’s purpose as a place of worship.
+Dress comfortably and respectfully, considering the church's purpose as a place of worship.

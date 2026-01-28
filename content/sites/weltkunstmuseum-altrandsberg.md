@@ -36,7 +36,7 @@ In addition to its educational mission, the WeltKunstMuseum Altrandsberg contrib
 
 ## Architecture and Features
 
-The architectural design of Altrandsberg Castle serves as a fitting backdrop for the WeltKunstMuseum. While specific details about the castle's architecture are not provided, one can imagine a structure that reflects the historical styles of Bavaria, potentially featuring elements such as fortified walls, arched windows, and intricate stonework. The castle’s atmospheric setting enhances the visitor experience, creating an immersive environment for art appreciation.
+The architectural design of Altrandsberg Castle serves as a fitting backdrop for the WeltKunstMuseum. While specific details about the castle's architecture are not provided, one can imagine a structure that reflects the historical styles of Bavaria, potentially featuring elements such as fortified walls, arched windows, and intricate stonework. The castle's atmospheric setting enhances the visitor experience, creating an immersive environment for art appreciation.
 
 Inside the museum, the layout is likely designed to encourage exploration and contemplation. The exhibition spaces are arranged to guide visitors through a curated journey of artistic replicas, each accompanied by informative displays that elucidate their significance. This thoughtful arrangement allows for a fluid experience, where visitors can easily move from one artwork to another, absorbing the diverse influences and styles represented.
 
@@ -66,7 +66,7 @@ The region surrounding the WeltKunstMuseum Altrandsberg offers additional cultur
 
 To enhance your visit to the WeltKunstMuseum Altrandsberg, consider the following tips:
 
-- **Photography**: Check the museum’s policy on photography, as there may be restrictions in place to preserve the integrity of the artworks.
+- **Photography**: Check the museum's policy on photography, as there may be restrictions in place to preserve the integrity of the artworks.
 - **Crowd Avoidance**: Aim to visit during weekdays or early in the morning to enjoy a quieter atmosphere, allowing for a more personal experience with the exhibits.
 
 ## Practical Information
@@ -82,7 +82,7 @@ When planning your visit to the WeltKunstMuseum Altrandsberg, here are some prac
 A visit of approximately two hours is recommended to adequately explore the exhibits.
 
 ### Is photography allowed?
-Check the museum’s official website for specific guidelines regarding photography.
+Check the museum's official website for specific guidelines regarding photography.
 
 ### Are there guided tours?
 While specific information is not provided, check the official website for details on guided tour availability.

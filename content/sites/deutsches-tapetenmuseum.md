@@ -72,7 +72,7 @@ Kassel is home to several attractions that complement a visit to the Deutsches T
 
 4. **The Orangerie**: A beautiful baroque building that houses an art collection, including works from the 18th and 19th centuries, it is an excellent addition to a cultural itinerary in Kassel.
 
-5. **Kassel’s Historic City Center**: A charming area filled with shops, cafes, and historical buildings, perfect for exploring after a visit to the museum.
+5. **Kassel's Historic City Center**: A charming area filled with shops, cafes, and historical buildings, perfect for exploring after a visit to the museum.
 
 ## Insider Tips
 

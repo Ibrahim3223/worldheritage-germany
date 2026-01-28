@@ -74,7 +74,7 @@ When visiting the Lessing Theater, consider exploring these nearby attractions t
 
 For photography enthusiasts, the exterior of the Lessing Theater can provide some delightful photo opportunities, especially during the golden hours of sunrise and sunset. Be mindful of potential crowds, especially during weekends, and consider visiting during off-peak hours for more unobstructed views.
 
-If you are interested in the performing arts, check the official website for any special events or exhibitions that may be taking place during your visit. This could enhance your experience and provide additional insights into the theatre’s legacy.
+If you are interested in the performing arts, check the official website for any special events or exhibitions that may be taking place during your visit. This could enhance your experience and provide additional insights into the theatre's legacy.
 
 ## Practical Information
 

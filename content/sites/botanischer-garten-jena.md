@@ -50,7 +50,7 @@ The layout of the garden typically encourages engagement with nature, promoting 
 
 Visiting the Botanischer Garten Jena is an enriching experience, and planning ahead can enhance your trip. The garden is accessible via various modes of transportation, making it convenient for both locals and tourists. Visitors are encouraged to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year.
 
-When planning your visit, consider allocating a few hours to fully appreciate the garden’s offerings. The ideal visit duration can depend on individual interests—whether you are a casual visitor or a botany enthusiast. The best times to visit often coincide with the blooming seasons of different plant species, providing vibrant displays of color and life.
+When planning your visit, consider allocating a few hours to fully appreciate the garden's offerings. The ideal visit duration can depend on individual interests—whether you are a casual visitor or a botany enthusiast. The best times to visit often coincide with the blooming seasons of different plant species, providing vibrant displays of color and life.
 
 For a more enjoyable experience, aim to visit during weekdays, as weekends may attract larger crowds. This allows for a more peaceful exploration of the garden, enabling you to engage more deeply with the plant collections and exhibits.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Botanischer Garten Jena, consider the foll
 When preparing for your visit to the Botanischer Garten Jena, keep the following practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as you will want to explore the paths thoroughly. A reusable water bottle may also be helpful, particularly during warmer months, to stay hydrated.
-- **Seasonal Considerations**: Each season offers a unique perspective on the garden’s plant life. Spring may feature blooming flowers, while fall could showcase vibrant foliage. Check local guides for seasonal highlights to enhance your visit.
+- **Seasonal Considerations**: Each season offers a unique perspective on the garden's plant life. Spring may feature blooming flowers, while fall could showcase vibrant foliage. Check local guides for seasonal highlights to enhance your visit.
 
 ## Frequently Asked Questions
 
@@ -93,13 +93,13 @@ Check the official website for information regarding guided tours, as these may 
 The best time to visit often aligns with the blooming seasons of various plants, typically in spring and early summer.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to confirm specific details on the official website.
+Accessibility features may be available, but it's advisable to confirm specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but for dining options, it's recommended to check the garden’s amenities or nearby locations.
+Facilities such as restrooms may be available, but for dining options, it's recommended to check the garden's amenities or nearby locations.
 
 ### What should I wear?
 Dress comfortably, considering the weather and the potential for walking on various terrains within the garden.

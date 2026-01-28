@@ -78,7 +78,7 @@ For those planning a visit to St. Cosmas and Damian, consider these insider tips
 
 ## Practical Information
 
-When visiting St. Cosmas and Damian, it’s advisable to come prepared. Here are some practical considerations:
+When visiting St. Cosmas and Damian, it's advisable to come prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are recommended, especially if you plan to explore the surrounding area. A camera or sketchbook can be beneficial for capturing the essence of the church and its architecture.
 
@@ -99,7 +99,7 @@ Information about guided tours may be available through local tourist offices or
 The best time to visit is typically during the day, preferably on weekdays to avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s best to check the official website or contact local resources for up-to-date information.
+Accessibility details are not specified. It's best to check the official website or contact local resources for up-to-date information.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchases or entry fees.

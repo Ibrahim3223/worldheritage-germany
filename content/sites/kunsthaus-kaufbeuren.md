@@ -58,7 +58,7 @@ Expect to spend a couple of hours exploring the museum, depending on your intere
 
 Kaufbeuren is not only home to Kunsthaus Kaufbeuren but also offers several attractions worth exploring. After your visit to the museum, consider checking out the following nearby sites:
 
-1. **Altstadt Kaufbeuren**: The historic old town features charming streets, well-preserved medieval architecture, and a variety of shops and cafes. It’s perfect for a leisurely stroll and offers insight into the town's history.
+1. **Altstadt Kaufbeuren**: The historic old town features charming streets, well-preserved medieval architecture, and a variety of shops and cafes. It's perfect for a leisurely stroll and offers insight into the town's history.
 
 2. **St. Blasius Church**: A beautiful example of Gothic architecture, this church showcases impressive artwork and provides a serene atmosphere for reflection.
 
@@ -76,7 +76,7 @@ Engaging with the museum staff can also enhance your experience; they are often 
 
 ## Practical Information
 
-When planning your visit to Kunsthaus Kaufbeuren, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend considerable time exploring the museum and its surroundings. If you’re visiting during warmer months, consider bringing a water bottle to stay hydrated, especially if you plan to explore the nearby attractions.
+When planning your visit to Kunsthaus Kaufbeuren, it's wise to bring along a few essentials. Comfortable walking shoes are recommended, as you may spend considerable time exploring the museum and its surroundings. If you're visiting during warmer months, consider bringing a water bottle to stay hydrated, especially if you plan to explore the nearby attractions.
 
 Seasonal considerations should also be taken into account. The museum may host special exhibitions or events during various times of the year, so it's a good idea to check the official website for any upcoming highlights that may coincide with your visit. 
 

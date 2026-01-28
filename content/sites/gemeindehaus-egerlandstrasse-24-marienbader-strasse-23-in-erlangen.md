@@ -101,7 +101,7 @@ For accessibility information, check the official website or inquire upon arriva
 Check the official website for details on any ticketing systems in place for events or special access.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby; it’s advisable to plan ahead based on your needs.
+Facilities may be available nearby; it's advisable to plan ahead based on your needs.
 
 ### What should I wear?
 Dress comfortably, considering the weather and your planned activities during the visit.

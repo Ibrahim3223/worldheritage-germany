@@ -88,7 +88,7 @@ If you plan to visit during the winter months, be prepared for colder temperatur
 A visit to St. Martin typically lasts around one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Yes, photography is generally allowed inside the church, but it’s best to be discreet and respectful of worshippers.
+Yes, photography is generally allowed inside the church, but it's best to be discreet and respectful of worshippers.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be available during specific times or events.

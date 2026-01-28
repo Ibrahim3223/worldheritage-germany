@@ -50,7 +50,7 @@ The structure's state of disrepair adds to its charm, providing an evocative bac
 
 ## Visiting Information
 
-Reaching the Nikolai Chapel is straightforward, given its central location in Hanover. Visitors can utilize the city's public transportation system, which offers convenient access to various parts of the city, including the chapel. The site’s coordinates are 52.377935046, 9.732054643, making it easy to locate on most maps or navigation apps.
+Reaching the Nikolai Chapel is straightforward, given its central location in Hanover. Visitors can utilize the city's public transportation system, which offers convenient access to various parts of the city, including the chapel. The site's coordinates are 52.377935046, 9.732054643, making it easy to locate on most maps or navigation apps.
 
 Upon arrival, expect a peaceful environment that invites contemplation. As a ruin, the chapel does not provide guided tours or formal visitor facilities, but it offers a space for independent exploration. The time needed to adequately appreciate the chapel may vary depending on individual interest, but a visit can typically be completed in around 30 minutes to an hour.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Westerhof, situated in Itzehoe, Germany, is a noteworthy historical courthouse that reflects the region's legal and architectural heritage. As a former district court building in Schleswig-Holstein, it stands as a marker of the area’s judicial history and cultural evolution. The courthouse is not only significant for its role in administering justice but also for its architectural features, which invite admiration from visitors and locals alike. 
+Westerhof, situated in Itzehoe, Germany, is a noteworthy historical courthouse that reflects the region's legal and architectural heritage. As a former district court building in Schleswig-Holstein, it stands as a marker of the area's judicial history and cultural evolution. The courthouse is not only significant for its role in administering justice but also for its architectural features, which invite admiration from visitors and locals alike. 
 
 Itzehoe's location in northern Germany offers a blend of historical relevance and modern convenience, making it an attractive destination for those interested in exploring the legal and civic history of the region. Westerhof contributes to this narrative by showcasing the design and function of courthouses of its time, allowing visitors to appreciate the evolution of legal systems in Germany. As you approach this historical site, prepare to delve into its past and consider its role in the community it served.
 

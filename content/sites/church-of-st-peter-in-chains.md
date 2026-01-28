@@ -84,7 +84,7 @@ When visiting, take a moment to appreciate the surrounding landscape, which can 
 
 ## Practical Information
 
-When visiting the Church of St Peter in Chains, it’s wise to bring a camera for photography, as well as comfortable shoes for exploring the nearby attractions. If you plan to spend a considerable amount of time in the area, consider bringing a light jacket, as the weather can be changeable.
+When visiting the Church of St Peter in Chains, it's wise to bring a camera for photography, as well as comfortable shoes for exploring the nearby attractions. If you plan to spend a considerable amount of time in the area, consider bringing a light jacket, as the weather can be changeable.
 
 Seasonal considerations may also affect your visit; spring and autumn typically offer mild weather, making for a pleasant experience. 
 
@@ -118,7 +118,7 @@ For entry fees or tours, check the official website for details on online ticket
 
 ### Are there restrooms and cafes?
 
-It’s advisable to check the official website for information regarding facilities available on-site.
+It's advisable to check the official website for information regarding facilities available on-site.
 
 ### What should I wear?
 

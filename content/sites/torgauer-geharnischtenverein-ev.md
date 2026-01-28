@@ -3,7 +3,7 @@ title: "Torgauer Geharnischtenverein e.V."
 site_name: "Torgauer Geharnischtenverein e.V."
 date: 2026-01-26
 draft: false
-description: "Successor to the ‘Torgau Armoured Company’, considered the oldest electoral privileged militia in Germany, first mentioned in documents in 1344"
+description: "Successor to the 'Torgau Armoured Company', considered the oldest electoral privileged militia in Germany, first mentioned in documents in 1344"
 region: "Brandenburg"
 country: "Germany"
 heritage_type: "Cultural Institution"
@@ -68,9 +68,9 @@ Torgau is rich in history and culture, and visitors to the Torgauer Geharnischte
 
 ## Insider Tips
 
-When visiting the Torgauer Geharnischtenverein e.V., consider bringing a camera to capture the historical ambiance of the site. Photography may be allowed in certain areas, but it’s always best to verify any restrictions upon arrival.
+When visiting the Torgauer Geharnischtenverein e.V., consider bringing a camera to capture the historical ambiance of the site. Photography may be allowed in certain areas, but it's always best to verify any restrictions upon arrival.
 
-To avoid crowds, plan your visit during weekdays or early in the day. Engaging in events or activities organized by the Geharnischtenverein can also provide a more in-depth experience while allowing visitors to interact with local residents and learn more about the community’s heritage.
+To avoid crowds, plan your visit during weekdays or early in the day. Engaging in events or activities organized by the Geharnischtenverein can also provide a more in-depth experience while allowing visitors to interact with local residents and learn more about the community's heritage.
 
 ## Practical Information
 

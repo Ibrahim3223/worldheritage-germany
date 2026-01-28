@@ -50,9 +50,9 @@ While the windmill itself is a marvel of engineering, it also stands as an aesth
 
 ## Visiting Information
 
-When planning a visit to Windmühle Edemissen, it’s essential to consider how to get there. The windmill is accessible by various means of transport, including car and public transportation. For those driving, check the official website for directions and parking availability.
+When planning a visit to Windmühle Edemissen, it's essential to consider how to get there. The windmill is accessible by various means of transport, including car and public transportation. For those driving, check the official website for directions and parking availability.
 
-Visitors can expect a unique experience as they explore the windmill and its surroundings. The site offers opportunities to learn about the milling process and the historical significance of windmills in agriculture. It’s advisable to allocate sufficient time for your visit, allowing for exploration and engagement with the exhibits.
+Visitors can expect a unique experience as they explore the windmill and its surroundings. The site offers opportunities to learn about the milling process and the historical significance of windmills in agriculture. It's advisable to allocate sufficient time for your visit, allowing for exploration and engagement with the exhibits.
 
 For the best experience, consider visiting during the spring or summer months when the weather is favorable, and the surrounding fields are lush and vibrant. Additional information about opening hours and ticket prices can be found on the official website, so checking ahead is recommended to ensure a smooth visit.
 
@@ -78,7 +78,7 @@ To make the most of your visit to Windmühle Edemissen, consider these insider t
   
 - **Crowd Avoidance**: To experience the windmill without the hustle of a larger crowd, aim for early morning or late afternoon visits, especially on weekdays.
 
-- **Engagement**: If possible, engage with onsite staff or volunteers who can share insights and stories about the windmill’s history and operation.
+- **Engagement**: If possible, engage with onsite staff or volunteers who can share insights and stories about the windmill's history and operation.
 
 ## Practical Information
 

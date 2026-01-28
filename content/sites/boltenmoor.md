@@ -100,7 +100,7 @@ When preparing for your visit to Boltenmoor, consider the following practical in
 
 - **Seasonal Considerations**: The best times to visit are in spring and autumn when the weather is mild and the natural scenery is at its most vibrant. Summers may bring warmer temperatures, while winters can be chilly, so dress appropriately for the season.
 
-- **Respect the Environment**: As a protected area, it’s vital to follow the principles of Leave No Trace. Stay on designated paths, avoid picking plants, and be respectful of wildlife.
+- **Respect the Environment**: As a protected area, it's vital to follow the principles of Leave No Trace. Stay on designated paths, avoid picking plants, and be respectful of wildlife.
 
 By considering these practical aspects, you can ensure a more comfortable and responsible visit to Boltenmoor.
 
@@ -119,7 +119,7 @@ While specific details about guided tours may not be available, checking the off
 The best time to visit Boltenmoor is during the spring and autumn months when the weather is pleasant and the natural beauty is particularly striking.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary, so it’s best to check the official website for information regarding wheelchair access and the suitability of trails.
+Accessibility options may vary, so it's best to check the official website for information regarding wheelchair access and the suitability of trails.
 
 ### Can I buy tickets online?
 Check the official website for information on ticketing options and whether online purchases are available.

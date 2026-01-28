@@ -68,7 +68,7 @@ While visiting Museum Osthusschule, there are several nearby attractions worth e
 
 2. **Sparrenburg Castle**: A historical landmark in Bielefeld, this castle provides panoramic views of the city and surrounding landscapes. The castle's rich history and well-preserved architecture make it a must-visit.
 
-3. **The Old Market Square**: Vibrant and lively, this square is surrounded by charming cafes and shops. It’s an excellent place to enjoy local cuisine or simply relax and people-watch.
+3. **The Old Market Square**: Vibrant and lively, this square is surrounded by charming cafes and shops. It's an excellent place to enjoy local cuisine or simply relax and people-watch.
 
 4. **Historical Museum Bielefeld**: Just a short walk from the museum, this institution offers further insights into the history and culture of Bielefeld, complementing your experience at Museum Osthusschule.
 
@@ -94,7 +94,7 @@ Seasonal considerations can also impact your visit. If you are traveling during 
 A visit typically takes around one to two hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as some areas may have restrictions.
+Check the museum's policy on photography, as some areas may have restrictions.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details on availability and scheduling.
@@ -106,7 +106,7 @@ Weekday mornings or late afternoons are generally less crowded, making for a mor
 Check the official website for information on accessibility features available at the museum.
 
 ### Can I buy tickets online?
-Ticket availability may vary, so it’s best to check the official website for options regarding online purchases.
+Ticket availability may vary, so it's best to check the official website for options regarding online purchases.
 
 ### Are there restrooms and cafes?
 Restroom facilities are typically available; however, check the official site for information on onsite cafes or dining options.

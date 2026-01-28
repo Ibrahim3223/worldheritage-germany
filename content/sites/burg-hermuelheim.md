@@ -30,7 +30,7 @@ Burg Hermülheim, an intriguing castle located in the small town of Hürth, Germ
 
 As one traverses the grounds of Burg Hermülheim, one can appreciate the importance of such castles in the context of European history. These structures served as both defensive strongholds and residences for nobility, reflecting the socio-political dynamics of their time. While details about its specific historical timeline may remain elusive, the castle's architecture and layout speak volumes about its significance in the past.
 
-Visiting Burg Hermülheim promises a blend of historical intrigue and architectural beauty. Whether you’re an avid history enthusiast or simply seeking a picturesque location, this castle offers an enriching experience that invites exploration and contemplation.
+Visiting Burg Hermülheim promises a blend of historical intrigue and architectural beauty. Whether you're an avid history enthusiast or simply seeking a picturesque location, this castle offers an enriching experience that invites exploration and contemplation.
 
 ## History and Significance
 
@@ -101,7 +101,7 @@ A visit to Burg Hermülheim typically takes a few hours, allowing time to explor
 Photography is generally permitted, but be sure to check for any specific restrictions, especially in sensitive areas.
 
 ### Are there guided tours?
-Information on guided tours may vary, so it’s best to check the official website for current offerings.
+Information on guided tours may vary, so it's best to check the official website for current offerings.
 
 ### What's the best time to visit?
 Visiting during weekdays or early in the morning can help you avoid crowds and enhance your experience.

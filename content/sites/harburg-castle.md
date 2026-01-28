@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Harburg Castle is an impressive monument of medieval architecture and a significant cultural site located in the Schwaben region of Germany. This castle, with its commanding presence, offers visitors a glimpse into the rich history and architectural prowess of the era it represents. The castle is not only a museum but also a landmark that highlights the historical narratives of the region. Built on a hillside, the castle’s strategic position has made it an essential site throughout various historical phases, from the Middle Ages to the present day.
+Harburg Castle is an impressive monument of medieval architecture and a significant cultural site located in the Schwaben region of Germany. This castle, with its commanding presence, offers visitors a glimpse into the rich history and architectural prowess of the era it represents. The castle is not only a museum but also a landmark that highlights the historical narratives of the region. Built on a hillside, the castle's strategic position has made it an essential site throughout various historical phases, from the Middle Ages to the present day.
 
 As you approach Harburg Castle, its robust towers and fortified walls evoke a sense of grandeur and intrigue, inviting you to explore its storied past. The castle serves as a tangible connection to the medieval world, showcasing both the defensive and residential aspects of its original purpose. With its well-preserved structures and exhibitions, Harburg Castle promises an enriching experience for history enthusiasts, families, and casual visitors alike.
 
@@ -86,13 +86,13 @@ A visit to Harburg Castle typically takes about 2 to 3 hours, depending on your 
 Photography may be permitted in certain areas; however, check for any specific restrictions within the museum sections.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the castle’s history and architecture. Check the official website for details.
+Guided tours may be available, providing deeper insights into the castle's history and architecture. Check the official website for details.
 
 ### What's the best time to visit?
 The best time to visit is during the spring and summer months, but each season offers its own unique appeal.
 
 ### Is it wheelchair accessible?
-Accessibility may vary; it’s recommended to check the official website for specific information regarding wheelchair access within the castle.
+Accessibility may vary; it's recommended to check the official website for specific information regarding wheelchair access within the castle.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases to streamline your visit.
@@ -103,4 +103,4 @@ Facilities such as restrooms may be available, and you can check if there are ca
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, especially if you plan to explore the outdoor areas of the castle.
 
-Visiting Harburg Castle is a unique opportunity to engage with Germany’s medieval history while enjoying the architectural beauty of this remarkable structure. Whether you are a history buff or simply looking for an enjoyable outing, Harburg Castle promises a fulfilling experience.
+Visiting Harburg Castle is a unique opportunity to engage with Germany's medieval history while enjoying the architectural beauty of this remarkable structure. Whether you are a history buff or simply looking for an enjoyable outing, Harburg Castle promises a fulfilling experience.

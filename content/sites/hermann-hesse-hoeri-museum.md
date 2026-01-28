@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Hermann-Hesse-Höri-Museum, located in the picturesque Calw region of Germany, offers visitors a deep dive into the life and works of Hermann Hesse, one of Germany's most celebrated authors and poets. Hesse’s literary contributions, particularly in the early 20th century, have left an indelible mark on German literature and continue to resonate with readers worldwide. This museum not only celebrates his literary legacy but also illuminates the scenic beauty and cultural significance of the area he called home. 
+The Hermann-Hesse-Höri-Museum, located in the picturesque Calw region of Germany, offers visitors a deep dive into the life and works of Hermann Hesse, one of Germany's most celebrated authors and poets. Hesse's literary contributions, particularly in the early 20th century, have left an indelible mark on German literature and continue to resonate with readers worldwide. This museum not only celebrates his literary legacy but also illuminates the scenic beauty and cultural significance of the area he called home. 
 
-Surrounded by lush landscapes and tranquil surroundings, the museum serves as a cultural hub where literature, art, and nature converge. It invites visitors to explore Hesse’s creative world through a variety of exhibits that showcase his personal artifacts, manuscripts, and the environment that inspired much of his work. Whether you are a long-time admirer of Hesse or a newcomer to his writings, the museum promises an enlightening experience that enriches your understanding of his contributions to literature and philosophy.
+Surrounded by lush landscapes and tranquil surroundings, the museum serves as a cultural hub where literature, art, and nature converge. It invites visitors to explore Hesse's creative world through a variety of exhibits that showcase his personal artifacts, manuscripts, and the environment that inspired much of his work. Whether you are a long-time admirer of Hesse or a newcomer to his writings, the museum promises an enlightening experience that enriches your understanding of his contributions to literature and philosophy.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ The Hermann-Hesse-Höri-Museum is designed to reflect the spirit of Hesse's life
 
 Inside, the museum features several exhibition rooms that allow for an immersive experience. Displays include a variety of Hesse's manuscripts, photographs, and personal items, each curated to showcase different aspects of his life and creative process. The layout is thoughtfully arranged to encourage visitors to engage with the exhibits at their own pace, allowing for introspection akin to Hesse's literary themes.
 
-Notably, the museum also incorporates areas for art exhibitions and cultural events, reflecting Hesse’s own passion for visual arts. This multifunctional aspect of the museum underscores its role as a vibrant cultural space within the community.
+Notably, the museum also incorporates areas for art exhibitions and cultural events, reflecting Hesse's own passion for visual arts. This multifunctional aspect of the museum underscores its role as a vibrant cultural space within the community.
 
 ## Visiting Information
 

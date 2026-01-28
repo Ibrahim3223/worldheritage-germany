@@ -88,7 +88,7 @@ Visitors may also want to check if there are any specific items prohibited withi
 The duration of your visit can vary based on the event schedule. Generally, allowing a few hours will provide ample time to explore the venue and its surroundings.
 
 ### Is photography allowed?
-Photography policies may vary by event, so it’s advisable to check with staff at the venue. 
+Photography policies may vary by event, so it's advisable to check with staff at the venue. 
 
 ### Are there guided tours?
 Check the official website for information on any available guided tours of the hall.

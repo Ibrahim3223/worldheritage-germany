@@ -32,15 +32,15 @@ The Stadtpromenade is conveniently located at coordinates 51.759065, 14.331284, 
 
 ## History and Significance
 
-The Stadtpromenade Cottbus has played a pivotal role in the city’s social and cultural development. While specific dates and events may vary, the square has long been a focal point for community gatherings, festivals, and public celebrations. Its evolution reflects the broader changes within Cottbus, from its historical roots to its modern transformation.
+The Stadtpromenade Cottbus has played a pivotal role in the city's social and cultural development. While specific dates and events may vary, the square has long been a focal point for community gatherings, festivals, and public celebrations. Its evolution reflects the broader changes within Cottbus, from its historical roots to its modern transformation.
 
-The area surrounding the Stadtpromenade has witnessed significant architectural development over the centuries, contributing to its status as an architectural ensemble. This blend of old and new buildings not only enhances the visual appeal but also serves as a reminder of the city’s resilience and adaptability. The square has hosted numerous events, from markets to performances, reinforcing its role as a center of public life.
+The area surrounding the Stadtpromenade has witnessed significant architectural development over the centuries, contributing to its status as an architectural ensemble. This blend of old and new buildings not only enhances the visual appeal but also serves as a reminder of the city's resilience and adaptability. The square has hosted numerous events, from markets to performances, reinforcing its role as a center of public life.
 
 Culturally, the Stadtpromenade acts as a stage for various artistic expressions, where local artists and performers showcase their talents. This engagement with the arts enriches the community, fostering a sense of belonging and pride among residents. As a public square, it allows for the mingling of different generations, bridging the gap between history and contemporary culture.
 
 ## Architecture and Features
 
-The architectural ensemble of Stadtpromenade Cottbus is characterized by a harmonious blend of styles, reflecting various periods in the city’s development. As you wander through the square, you will encounter an array of structures that collectively tell the story of Cottbus. The interplay of architectural elements creates a visually engaging environment, encouraging exploration and discovery.
+The architectural ensemble of Stadtpromenade Cottbus is characterized by a harmonious blend of styles, reflecting various periods in the city's development. As you wander through the square, you will encounter an array of structures that collectively tell the story of Cottbus. The interplay of architectural elements creates a visually engaging environment, encouraging exploration and discovery.
 
 Notable features of the Stadtpromenade include well-maintained pathways, inviting seating areas, and green spaces that provide a welcome respite from the urban bustle. The design of the square promotes accessibility and encourages social interaction, making it an ideal setting for leisurely strolls and gatherings. 
 
@@ -66,11 +66,11 @@ While enjoying your time at Stadtpromenade Cottbus, consider exploring these nea
 
 4. **Spreeauen Park** - A large park offering recreational opportunities, walking paths, and beautiful landscapes, ideal for a leisurely afternoon.
 
-5. **St. Nicholas Church** - A historical landmark with impressive architecture, providing insight into the city’s religious heritage.
+5. **St. Nicholas Church** - A historical landmark with impressive architecture, providing insight into the city's religious heritage.
 
 ## Insider Tips
 
-To make the most of your visit to Stadtpromenade Cottbus, consider these insider tips. For photography enthusiasts, early mornings or late afternoons often provide the best natural light, enhancing the beauty of the square’s architecture. Aim to capture the interplay of light and shadow against the buildings, creating striking images.
+To make the most of your visit to Stadtpromenade Cottbus, consider these insider tips. For photography enthusiasts, early mornings or late afternoons often provide the best natural light, enhancing the beauty of the square's architecture. Aim to capture the interplay of light and shadow against the buildings, creating striking images.
 
 To avoid larger crowds, consider visiting on weekdays, particularly in the morning or early afternoon. This allows for a more intimate experience, where you can fully appreciate the square's atmosphere without the bustle of weekend foot traffic.
 

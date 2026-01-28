@@ -52,7 +52,7 @@ Visiting the Church in Alt Jargenow provides a unique opportunity to experience 
 
 It is advisable to check the official website for current information regarding visiting hours and any potential entrance fees. Depending on the time of year, the chapel may host special services or events that could enhance your visit. A typical visit may take about 30 minutes to an hour, allowing you sufficient time to appreciate the architecture and soak in the atmosphere.
 
-The best times to visit the chapel are during daylight hours when natural light enhances the interior’s ambiance. Early mornings or late afternoons could offer a quieter experience, making it easier to reflect in solitude or explore the chapel's features without distractions.
+The best times to visit the chapel are during daylight hours when natural light enhances the interior's ambiance. Early mornings or late afternoons could offer a quieter experience, making it easier to reflect in solitude or explore the chapel's features without distractions.
 
 ## Nearby Attractions
 
@@ -82,7 +82,7 @@ Seasonal considerations may also influence your visit. Spring and summer offer t
 A typical visit may take about 30 minutes to an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally permitted, but be respectful of the chapel’s purpose as a place of worship.
+Photography is generally permitted, but be respectful of the chapel's purpose as a place of worship.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website for details.
@@ -97,7 +97,7 @@ Check the official website for information on accessibility options.
 Check the official website for current information regarding ticket purchases and any associated fees.
 
 ### Are there restrooms and cafes?
-Nearby facilities may vary; it’s advisable to plan accordingly.
+Nearby facilities may vary; it's advisable to plan accordingly.
 
 ### What should I wear?
 Dress modestly, especially if attending a service, and wear comfortable shoes for exploring the area.

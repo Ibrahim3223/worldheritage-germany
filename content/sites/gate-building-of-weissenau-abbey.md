@@ -80,7 +80,7 @@ Before you head out to the Gate Building of Weissenau Abbey, keep these practica
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the surrounding area. A camera is also suggested for capturing the architectural beauty of the gatehouse.
 
-- **Seasonal Considerations**: Be mindful of the weather conditions, as they can affect your experience. Spring and autumn typically offer mild weather, but it’s wise to check forecasts and dress accordingly, especially if rain is predicted.
+- **Seasonal Considerations**: Be mindful of the weather conditions, as they can affect your experience. Spring and autumn typically offer mild weather, but it's wise to check forecasts and dress accordingly, especially if rain is predicted.
 
 ## Frequently Asked Questions
 

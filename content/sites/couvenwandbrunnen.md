@@ -36,7 +36,7 @@ The Couvenwandbrunnen represents a significant cultural landmark in Aachen, a ci
 
 Historically, fountains have served multiple purposes, from providing essential water to public spaces to acting as artistic and social focal points. The Couvenwandbrunnen is no exception, as it has played a role in community life, offering a place for residents and visitors to gather. Its existence highlights the importance of public art and architecture in fostering community connections and enhancing the urban experience.
 
-In the larger context of Aachen's heritage, the Couvenwandbrunnen stands alongside other landmarks such as the Aachen Cathedral and the Town Hall, forming part of a narrative that showcases the city’s importance throughout European history. The fountain’s contribution to the social fabric of the area underscores the vital role of public spaces in urban communities, especially in places with such a rich historical backdrop.
+In the larger context of Aachen's heritage, the Couvenwandbrunnen stands alongside other landmarks such as the Aachen Cathedral and the Town Hall, forming part of a narrative that showcases the city's importance throughout European history. The fountain's contribution to the social fabric of the area underscores the vital role of public spaces in urban communities, especially in places with such a rich historical backdrop.
 
 ## Architecture and Features
 
@@ -101,7 +101,7 @@ While specific guided tours focusing solely on the fountain may not be available
 Early mornings or late afternoons are often the best times to visit, as these periods tend to be less crowded and provide beautiful lighting for photographs.
 
 ### Is it wheelchair accessible?
-The fountain is located in an urban area, and while access may vary, it is generally accessible. It’s advisable to check local resources for specific accessibility information.
+The fountain is located in an urban area, and while access may vary, it is generally accessible. It's advisable to check local resources for specific accessibility information.
 
 ### Can I buy tickets online?
 There are no specific tickets required for visiting the Couvenwandbrunnen, but always check the official website for any potential updates or events.

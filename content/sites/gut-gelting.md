@@ -90,7 +90,7 @@ Seasonal considerations are also important; spring and summer are generally more
 A visit to Gut Gelting typically lasts a few hours, allowing ample time to explore the manor and its grounds.
 
 ### Is photography allowed?
-Photography is usually permitted, but it’s wise to check for any specific restrictions during your visit.
+Photography is usually permitted, but it's wise to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
 Guided tours may be available, offering insights into the history and architecture of the manor.

@@ -62,7 +62,7 @@ Plan to spend approximately 30 minutes to an hour at the site, allowing time for
 
 4. **Market Square**: The heart of Quedlinburg, this vibrant square hosts local markets and events, allowing visitors to engage with the community and sample regional delicacies.
 
-5. **Bergstadt Quedlinburg Museum**: This museum offers insights into the town’s rich history, showcasing artifacts and exhibitions that explore its cultural heritage.
+5. **Bergstadt Quedlinburg Museum**: This museum offers insights into the town's rich history, showcasing artifacts and exhibitions that explore its cultural heritage.
 
 ## Insider Tips
 

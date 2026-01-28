@@ -42,7 +42,7 @@ As visitors explore the church, they can appreciate the layers of cultural signi
 
 The Church in Dersekow is characterized by its architectural simplicity, typical of many rural German churches. The building is primarily constructed using local materials, which resonate with the natural environment of the area. Visitors will notice the traditional design elements, which may include a steep roof, large windows, and a welcoming entrance that invite congregants and visitors alike.
 
-While specific architectural features are not detailed, many churches of this type often showcase elements such as a bell tower, ornamental detailing, and stained glass windows that tell biblical stories or depict saints. These features not only enhance the aesthetic appeal of the church but also serve to educate visitors about the religious narratives integral to the community’s identity.
+While specific architectural features are not detailed, many churches of this type often showcase elements such as a bell tower, ornamental detailing, and stained glass windows that tell biblical stories or depict saints. These features not only enhance the aesthetic appeal of the church but also serve to educate visitors about the religious narratives integral to the community's identity.
 
 The interior of the church may be equally intriguing, with wooden pews, an altar, and possibly historical artifacts that provide insight into the church's past. The overall atmosphere within the church is typically tranquil, encouraging reflection and contemplation.
 
@@ -96,7 +96,7 @@ When planning your visit to the Church in Dersekow, consider the following pract
 A visit to the Church in Dersekow typically takes about 30 minutes to an hour, though those with a keen interest in architecture and history may wish to stay longer.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s important to check for any signs that may restrict this practice, especially during services.
+Photography is generally permitted, but it's important to check for any signs that may restrict this practice, especially during services.
 
 ### Are there guided tours?
 Currently, there may not be formal guided tours available, but self-guided exploration can be enriching. Local residents may also offer insights if engaged.
@@ -105,7 +105,7 @@ Currently, there may not be formal guided tours available, but self-guided explo
 The best time to visit may depend on your interests. Weekdays tend to be quieter, while attending a service or local event can provide a unique experience.
 
 ### Is it wheelchair accessible?
-Accessibility options are not specified; it’s advisable to contact local sources for the most current information regarding wheelchair access.
+Accessibility options are not specified; it's advisable to contact local sources for the most current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding admission fees and any online ticket purchasing options.

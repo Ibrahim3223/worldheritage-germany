@@ -64,7 +64,7 @@ While visiting the Schmiedemuseum Jevenstedt, consider exploring these nearby at
 
 For those planning to capture the essence of the Schmiedemuseum through photography, be sure to ask about any restrictions on photography within the exhibits. Early mornings or late afternoons are often the best times to visit, as they may allow for quieter exploration of the museum without larger crowds.
 
-If you’re interested in participating in workshops or demonstrations, checking the schedule in advance can help ensure you don’t miss out on these engaging experiences. 
+If you're interested in participating in workshops or demonstrations, checking the schedule in advance can help ensure you don't miss out on these engaging experiences. 
 
 ## Practical Information
 
@@ -87,7 +87,7 @@ Guided tours may be available, offering deeper insights into the exhibits. Check
 Weekdays are often less crowded, making them ideal for a more personal experience. 
 
 ### Is it wheelchair accessible?
-Accessibility options may be available; it’s advisable to contact the museum for specific inquiries regarding facilities.
+Accessibility options may be available; it's advisable to contact the museum for specific inquiries regarding facilities.
 
 ### Can I buy tickets online?
 For ticket purchasing options, check the official website for current information on availability.

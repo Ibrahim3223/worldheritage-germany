@@ -28,7 +28,7 @@ image_srcset:
 
 Brüsseler Platz is a vibrant square situated in the Neustadt-Nord district of Cologne, Germany. This area is known for its urban charm and historical significance, making it an engaging stop for both locals and travelers. The square serves as a crossroads for various cultural and social activities, offering visitors a glimpse into everyday life in Cologne. Surrounded by a blend of residential buildings and commercial establishments, Brüsseler Platz invites exploration and provides a community gathering space that reflects the dynamic atmosphere of the neighborhood.
 
-The coordinates of this square, 50.9385 latitude and 6.93465 longitude, place it within easy reach of various public transport options, making it a convenient destination for those exploring Cologne. Visitors will find themselves immersed in the local culture, with a variety of experiences waiting just a stone's throw away. Whether you are drawn to the surrounding architecture or the lively street life, Brüsseler Platz promises a unique perspective on the city’s contemporary and historical facets.
+The coordinates of this square, 50.9385 latitude and 6.93465 longitude, place it within easy reach of various public transport options, making it a convenient destination for those exploring Cologne. Visitors will find themselves immersed in the local culture, with a variety of experiences waiting just a stone's throw away. Whether you are drawn to the surrounding architecture or the lively street life, Brüsseler Platz promises a unique perspective on the city's contemporary and historical facets.
 
 ## History and Significance
 

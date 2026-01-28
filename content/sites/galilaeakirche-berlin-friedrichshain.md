@@ -96,7 +96,7 @@ Seasonal considerations can also enhance your experience. Spring and summer mont
 While the time can vary based on personal interest, allocating at least an hour allows for a thorough exploration of the church.
 
 ### Is photography allowed?
-Photography policies may differ, especially within the church. It’s best to check for any specific guidelines upon entry.
+Photography policies may differ, especially within the church. It's best to check for any specific guidelines upon entry.
 
 ### Are there guided tours?
 Information on guided tours may vary; check the official website for any offerings and schedule.
@@ -108,7 +108,7 @@ Weekdays typically offer a quieter experience, while weekends may feature commun
 Accessibility information is best confirmed directly; check the official website for details.
 
 ### Can I buy tickets online?
-For any entry fees or events, it’s advisable to check the official website for options regarding online ticket purchases.
+For any entry fees or events, it's advisable to check the official website for options regarding online ticket purchases.
 
 ### Are there restrooms and cafes?
 Check the official website for information on facilities available at the church or nearby.

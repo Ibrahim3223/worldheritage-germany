@@ -28,7 +28,7 @@ image_srcset:
 
 Donauwörther Straße 165 in Augsburg is a notable mosque that serves as a significant place of worship for the local Muslim community. Located in the heart of Augsburg, this mosque not only provides spiritual guidance but also promotes cultural exchange and understanding in a diverse society. Augsburg, known for its rich history and vibrant culture, is home to various architectural styles and religious sites, making it a fascinating destination for travelers interested in heritage and spirituality. Visitors to the mosque can expect to engage with a welcoming community and learn about Islamic traditions in a modern context. 
 
-The mosque stands as a point of interest not only for the residents of Augsburg but also for visitors who seek to understand the multicultural fabric of the city. Its presence highlights the coexistence of various faiths and the importance of dialogue in today’s world. This guide will explore the mosque’s history, architectural features, visiting information, and nearby attractions, ensuring a well-rounded experience for anyone interested in this unique site.
+The mosque stands as a point of interest not only for the residents of Augsburg but also for visitors who seek to understand the multicultural fabric of the city. Its presence highlights the coexistence of various faiths and the importance of dialogue in today's world. This guide will explore the mosque's history, architectural features, visiting information, and nearby attractions, ensuring a well-rounded experience for anyone interested in this unique site.
 
 ## History and Significance
 
@@ -54,17 +54,17 @@ A visit to the mosque typically requires a time commitment of around one hour, a
 
 ## Nearby Attractions
 
-While visiting the mosque, you may want to explore other attractions in Augsburg that reflect the city’s rich history and cultural diversity. Consider these nearby sites:
+While visiting the mosque, you may want to explore other attractions in Augsburg that reflect the city's rich history and cultural diversity. Consider these nearby sites:
 
 1. **Augsburg Cathedral**: A stunning example of Gothic architecture, this cathedral dates back to the 11th century and features beautiful stained glass windows and intricate decorations.
 
 2. **Fugger Museum and Fuggerei**: This unique social housing complex founded by the Fugger family offers insight into historical philanthropy and urban living in Augsburg.
 
-3. **Augsburg Town Hall**: A magnificent example of Renaissance architecture, the town hall is known for its ornate Golden Hall and serves as a reminder of the city’s political history.
+3. **Augsburg Town Hall**: A magnificent example of Renaissance architecture, the town hall is known for its ornate Golden Hall and serves as a reminder of the city's political history.
 
-4. **Perlachturm (Perlach Tower)**: Climb this historic tower for panoramic views of Augsburg and learn about its significance in the city’s history.
+4. **Perlachturm (Perlach Tower)**: Climb this historic tower for panoramic views of Augsburg and learn about its significance in the city's history.
 
-5. **Schaezlerpalais**: A baroque palace housing an art gallery, it offers a glimpse into the opulent lifestyle of Augsburg’s historical elite.
+5. **Schaezlerpalais**: A baroque palace housing an art gallery, it offers a glimpse into the opulent lifestyle of Augsburg's historical elite.
 
 ## Insider Tips
 

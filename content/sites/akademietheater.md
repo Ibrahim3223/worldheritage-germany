@@ -72,7 +72,7 @@ After your visit to Akademietheater, consider exploring some of the nearby attra
 
 For the best photography opportunities, consider visiting during the daytime when natural light enhances the theatre's exterior. If you wish to avoid crowds, aim to attend performances during weekdays or early in the season when shows are less likely to be fully booked.
 
-Additionally, familiarize yourself with the theatre's layout ahead of your visit, as some areas may offer unique vantage points for capturing the essence of the performances. Engaging with the theatre community online can also provide insights into upcoming shows and events, ensuring you don’t miss out on anything special.
+Additionally, familiarize yourself with the theatre's layout ahead of your visit, as some areas may offer unique vantage points for capturing the essence of the performances. Engaging with the theatre community online can also provide insights into upcoming shows and events, ensuring you don't miss out on anything special.
 
 ## Practical Information 
 

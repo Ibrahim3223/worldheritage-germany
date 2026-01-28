@@ -26,21 +26,21 @@ image_srcset:
 
 ## Overview
 
-St. Otto is a striking church building located in the Steglitz-Zehlendorf district of Berlin, Germany. This ecclesiastical structure serves as a spiritual haven for the community, offering a blend of architectural beauty and cultural significance. Its presence in the vibrant city of Berlin adds another layer to the city’s diverse religious landscape. For visitors, St. Otto is more than just a place of worship; it represents a connection to the local community and the city's broader history.
+St. Otto is a striking church building located in the Steglitz-Zehlendorf district of Berlin, Germany. This ecclesiastical structure serves as a spiritual haven for the community, offering a blend of architectural beauty and cultural significance. Its presence in the vibrant city of Berlin adds another layer to the city's diverse religious landscape. For visitors, St. Otto is more than just a place of worship; it represents a connection to the local community and the city's broader history.
 
 Situated in a region characterized by its blend of urban and suburban elements, St. Otto is easily accessible, making it an inviting stop for both locals and tourists. The church is not only a space for religious gatherings but also a site of architectural interest, reflecting the styles and influences that have shaped Berlin over the years. For those seeking to explore the spiritual and architectural dimensions of Berlin, St. Otto stands out as a noteworthy destination.
 
 ## History and Significance
 
-St. Otto holds a unique place in the historical narrative of Berlin, reflecting the city’s evolution and the role of religious institutions within its framework. While specific historical dates may not be available, the church is part of a long tradition of ecclesiastical architecture in Germany that has served various communities through the centuries.
+St. Otto holds a unique place in the historical narrative of Berlin, reflecting the city's evolution and the role of religious institutions within its framework. While specific historical dates may not be available, the church is part of a long tradition of ecclesiastical architecture in Germany that has served various communities through the centuries.
 
 The significance of St. Otto extends beyond its architectural form; it embodies the spiritual life of its parishioners and the wider community. Churches in Berlin have often been at the forefront of social change and cultural exchange, and St. Otto is no exception. It serves as a gathering place for worship as well as community events, reinforcing its role as a central hub for social interaction.
 
-In a city marked by its tumultuous past, St. Otto provides continuity and a sense of belonging. The church’s presence speaks to the resilience and adaptability of the local community, offering a space for reflection and connection amidst the dynamic landscape of modern Berlin. The architectural choices and design elements found within the church also resonate with the broader themes of faith, community, and history that characterize many religious buildings in Germany.
+In a city marked by its tumultuous past, St. Otto provides continuity and a sense of belonging. The church's presence speaks to the resilience and adaptability of the local community, offering a space for reflection and connection amidst the dynamic landscape of modern Berlin. The architectural choices and design elements found within the church also resonate with the broader themes of faith, community, and history that characterize many religious buildings in Germany.
 
 ## Architecture and Features
 
-St. Otto’s architectural design reflects a blend of traditional and contemporary elements that are characteristic of church buildings in Berlin. While specific architectural styles may not be detailed, the church is designed to accommodate a variety of worship practices and community gatherings.
+St. Otto's architectural design reflects a blend of traditional and contemporary elements that are characteristic of church buildings in Berlin. While specific architectural styles may not be detailed, the church is designed to accommodate a variety of worship practices and community gatherings.
 
 The exterior often showcases classic ecclesiastical features, such as tall steeples and stained-glass windows, which invite light into the interior and create a serene atmosphere. Inside, visitors can expect to find a space that is both functional and aesthetically pleasing, designed to enhance the spiritual experience of worshippers. The interior typically features wooden pews, an altar, and religious iconography that reflects the church's commitment to its faith and community.
 

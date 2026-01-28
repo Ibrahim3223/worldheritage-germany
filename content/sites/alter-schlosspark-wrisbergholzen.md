@@ -44,7 +44,7 @@ The cultural importance of such reserves cannot be overstated. They serve as liv
 
 Alter Schloßpark Wrisbergholzen encompasses a variety of natural features that contribute to its charm and ecological significance. The park's landscape is characterized by a blend of woodlands, meadows, and wetlands, each supporting distinct ecosystems. This diversity allows for rich wildlife habitats, where visitors may encounter various species of plants and animals.
 
-One of the park’s notable features is its well-maintained pathways that wind through the different ecological zones. These trails are designed to facilitate exploration while minimizing human impact on the environment. The pathways are suitable for leisurely walks, allowing visitors to take in the serene surroundings at their own pace.
+One of the park's notable features is its well-maintained pathways that wind through the different ecological zones. These trails are designed to facilitate exploration while minimizing human impact on the environment. The pathways are suitable for leisurely walks, allowing visitors to take in the serene surroundings at their own pace.
 
 The flora within the park is varied, showcasing native species that are well adapted to the local climate. As visitors traverse the area, they may observe unique plant communities, including flowering plants, grasses, and shrubs that provide essential habitat for local wildlife. The park's design not only emphasizes natural beauty but also reflects principles of sustainable land management.
 
@@ -66,9 +66,9 @@ The Sibbesse region is home to several attractions that complement a visit to Al
 
 1. **Wrisbergholzen Village**: A charming local village that features traditional architecture and offers a glimpse into rural life in Lower Saxony. Visitors can enjoy a leisurely stroll and perhaps sample local cuisine.
 
-2. **Hohenstein Castle**: Located not far from the park, this historic castle offers insights into the region’s past and provides scenic views of the surrounding landscapes.
+2. **Hohenstein Castle**: Located not far from the park, this historic castle offers insights into the region's past and provides scenic views of the surrounding landscapes.
 
-3. **Bismarck Tower**: A historical tower that offers panoramic views of the area. It’s a popular hiking destination, providing a chance to connect with both nature and history.
+3. **Bismarck Tower**: A historical tower that offers panoramic views of the area. It's a popular hiking destination, providing a chance to connect with both nature and history.
 
 4. **Natural History Museum in Göttingen**: A short drive away, this museum showcases the natural heritage of the region, making it a perfect complement to a day spent in the park.
 

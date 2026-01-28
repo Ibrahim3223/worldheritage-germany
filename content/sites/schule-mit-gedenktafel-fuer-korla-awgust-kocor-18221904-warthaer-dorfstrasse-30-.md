@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-The Schule mit Gedenktafel für Korla Awgust Kocor in Malschwitz, Germany, serves as an evocative reminder of the intersection of education and cultural memory. Located at Warthaer Dorfstraße 30, this museum honors the legacy of Korla Awgust Kocor, a notable figure whose contributions to the educational landscape are commemorated through this dedicated site. The museum not only showcases the historical significance of Kocor’s life and work but also offers a glimpse into the local heritage of Malschwitz.
+The Schule mit Gedenktafel für Korla Awgust Kocor in Malschwitz, Germany, serves as an evocative reminder of the intersection of education and cultural memory. Located at Warthaer Dorfstraße 30, this museum honors the legacy of Korla Awgust Kocor, a notable figure whose contributions to the educational landscape are commemorated through this dedicated site. The museum not only showcases the historical significance of Kocor's life and work but also offers a glimpse into the local heritage of Malschwitz.
 
 Malschwitz, a quaint municipality in the state of Saxony, is characterized by its picturesque landscapes and rich cultural traditions. The museum is situated in a region that is historically significant, with roots deeply embedded in the educational practices of the 19th century. Visitors to the Schule mit Gedenktafel can expect to explore a space that reflects both local history and the broader themes of education and cultural heritage.
 
-As you step into this museum, you are welcomed by an atmosphere that encourages reflection on the importance of education in shaping communities. The site invites visitors to engage with its exhibits and learn about Kocor’s impact, fostering a deeper understanding of the historical context in which he operated.
+As you step into this museum, you are welcomed by an atmosphere that encourages reflection on the importance of education in shaping communities. The site invites visitors to engage with its exhibits and learn about Kocor's impact, fostering a deeper understanding of the historical context in which he operated.
 
 ## History and Significance
 
@@ -38,13 +38,13 @@ The Schule mit Gedenktafel für Korla Awgust Kocor is not just a museum; it is a
 
 Kocor's contributions were vital at a time when education was undergoing significant transformation across Europe. The establishment of institutions that emphasized broader access to learning and the development of pedagogical methods were central to his work. The museum serves as a repository for this history, reflecting Kocor's ideals and the societal shifts that accompanied the rise of public education.
 
-In addition to its focus on Kocor, the museum represents the collective memory of the community. It is a place where visitors can explore the educational practices of the past, understand the challenges faced in the 19th century, and appreciate the advancements made since then. The museum’s narrative is interwoven with local stories, making it an essential stop for those interested in the cultural evolution of Malschwitz and its surrounding areas.
+In addition to its focus on Kocor, the museum represents the collective memory of the community. It is a place where visitors can explore the educational practices of the past, understand the challenges faced in the 19th century, and appreciate the advancements made since then. The museum's narrative is interwoven with local stories, making it an essential stop for those interested in the cultural evolution of Malschwitz and its surrounding areas.
 
 ## Architecture and Features
 
-The physical structure of the Schule mit Gedenktafel für Korla Awgust Kocor is representative of the architectural style prevalent during Kocor’s lifetime. While specific architectural details are not provided, the museum likely reflects the traditional designs of educational buildings from the 19th century, characterized by their functional layouts and sturdy constructions.
+The physical structure of the Schule mit Gedenktafel für Korla Awgust Kocor is representative of the architectural style prevalent during Kocor's lifetime. While specific architectural details are not provided, the museum likely reflects the traditional designs of educational buildings from the 19th century, characterized by their functional layouts and sturdy constructions.
 
-Inside, the museum features exhibits dedicated to Kocor’s life and work, possibly including photographs, personal artifacts, and educational materials from his era. The arrangement of these exhibits is designed to facilitate an informative experience, allowing visitors to engage with the content meaningfully.
+Inside, the museum features exhibits dedicated to Kocor's life and work, possibly including photographs, personal artifacts, and educational materials from his era. The arrangement of these exhibits is designed to facilitate an informative experience, allowing visitors to engage with the content meaningfully.
 
 The commemorative plaque honoring Kocor is a focal point of the museum, serving both as a tribute and as a catalyst for discussions on educational reform. This feature, along with other displays, creates an environment that encourages reflection on the values of education and community service that Kocor championed.
 

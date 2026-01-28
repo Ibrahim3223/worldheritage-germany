@@ -52,7 +52,7 @@ Overall, the architecture of Gettorfer Mühle serves as a fascinating case study
 
 Visiting Gettorfer Mühle offers an enriching experience, with opportunities to learn about both the windmill's history and the surrounding area. To reach the windmill, visitors can take advantage of various transportation options. Local public transport services may connect you to Gettorf, while driving is also a convenient choice, with parking available nearby.
 
-Check the official website for current information regarding opening hours and any admission fees. It’s advisable to allocate sufficient time for your visit to fully explore the site and appreciate its historical context. Depending on your interest level, a visit could take anywhere from a couple of hours to half a day.
+Check the official website for current information regarding opening hours and any admission fees. It's advisable to allocate sufficient time for your visit to fully explore the site and appreciate its historical context. Depending on your interest level, a visit could take anywhere from a couple of hours to half a day.
 
 For those keen on making the most of their experience, visiting during weekdays may offer a quieter atmosphere, allowing for a more relaxed exploration of the windmill and its features. Additionally, consider checking local events that may coincide with your visit, as these can enhance your understanding of the region's cultural traditions.
 
@@ -62,7 +62,7 @@ As you prepare for your trip, ensure you wear comfortable footwear, as some area
 
 While Gettorfer Mühle is a highlight, the surrounding area offers several attractions worth exploring:
 
-1. **Gettorf Zoo**: Just a short distance away, this small zoo provides a family-friendly environment to learn about various animal species. It’s a pleasant place to spend time, especially for those with children.
+1. **Gettorf Zoo**: Just a short distance away, this small zoo provides a family-friendly environment to learn about various animal species. It's a pleasant place to spend time, especially for those with children.
 
 2. **Schleswig-Holstein Agricultural Museum**: Located nearby, this museum delves into the agricultural history of the region, showcasing tools, techniques, and the evolution of farming practices.
 

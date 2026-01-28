@@ -100,7 +100,7 @@ Accessibility features may be present, but check the official website for detail
 Information regarding ticket purchases may be available on the official website. 
 
 ### Are there restrooms and cafes?
-Local facilities can vary, so it’s best to check nearby options for restrooms and cafes.
+Local facilities can vary, so it's best to check nearby options for restrooms and cafes.
 
 ### What should I wear?
 Dress comfortably and consider the weather, especially during outdoor explorations. 

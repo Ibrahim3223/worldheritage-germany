@@ -54,7 +54,7 @@ The layout of the museum may facilitate movement through different sections, eac
 
 The Heidekrautbahnmuseum is accessible for those wishing to learn about the history of the Heidekrautbahn. It is advisable to check the official website for current information on visiting hours and ticket prices, as these details can change.
 
-When planning your visit, consider the time needed to fully appreciate the museum’s offerings. A few hours should suffice for a comprehensive look at the exhibits, but railway enthusiasts may wish to spend more time exploring the collection in detail. 
+When planning your visit, consider the time needed to fully appreciate the museum's offerings. A few hours should suffice for a comprehensive look at the exhibits, but railway enthusiasts may wish to spend more time exploring the collection in detail. 
 
 Transport options to the museum may vary, so it is wise to research local public transit routes or available parking if traveling by car. The museum's location in Basdorf makes it conveniently reachable for those coming from nearby towns or cities.
 
@@ -62,7 +62,7 @@ For an optimal visitor experience, consider visiting during weekdays or off-peak
 
 ## Nearby Attractions
 
-1. **Wandlitz Lake**: A serene natural area ideal for picnics, walking, or simply enjoying the outdoors. The lake’s peaceful environment complements the historical insights offered at the museum.
+1. **Wandlitz Lake**: A serene natural area ideal for picnics, walking, or simply enjoying the outdoors. The lake's peaceful environment complements the historical insights offered at the museum.
 
 2. **Historical Railway Station Basdorf**: This station may provide additional context to the railway history presented at the museum, and visitors can appreciate the architecture and ongoing relevance of rail transport in the area.
 
@@ -76,13 +76,13 @@ For an optimal visitor experience, consider visiting during weekdays or off-peak
 
 For those looking to capture the essence of the museum through photography, consider visiting during quieter times when there are fewer visitors. This allows for unobstructed shots of the exhibits and the unique railway artifacts.
 
-Engaging with museum staff can enhance your experience, as they often provide additional insights and stories that may not be included in the displays. Don’t hesitate to ask questions or seek recommendations for the best exhibits to explore.
+Engaging with museum staff can enhance your experience, as they often provide additional insights and stories that may not be included in the displays. Don't hesitate to ask questions or seek recommendations for the best exhibits to explore.
 
 To avoid crowds, plan your visit during weekdays or outside of school holiday periods when foot traffic might be heavier.
 
 ## Practical Information
 
-When visiting the Heidekrautbahnmuseum, it’s advisable to bring a camera to document your experience and a notebook if you wish to jot down notes or thoughts about the exhibits.
+When visiting the Heidekrautbahnmuseum, it's advisable to bring a camera to document your experience and a notebook if you wish to jot down notes or thoughts about the exhibits.
 
 Dress comfortably, as museum visits can involve a fair amount of walking. Depending on the season, layers might be necessary to accommodate changing temperatures, especially if any outdoor areas are included in your visit.
 
@@ -94,7 +94,7 @@ Check the official website for seasonal considerations or special events that ma
 A typical visit may take around two to three hours, depending on your level of interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival.
+Photography policies can vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; consult the official website for more information on scheduling and availability.

@@ -82,7 +82,7 @@ Before heading to the Hamburger Volksbühne e.V., it's essential to consider a f
 
 - **Seasonal Considerations**: Hamburg can experience varied weather conditions throughout the year. Be prepared for rain or chilly temperatures, especially in the winter months. Checking the weather forecast before your visit can help you dress appropriately.
 
-- **Accessibility**: The Hamburger Volksbühne is committed to making its events accessible to everyone. If you have specific accessibility needs, it’s advisable to contact the venue in advance to ensure a comfortable visit.
+- **Accessibility**: The Hamburger Volksbühne is committed to making its events accessible to everyone. If you have specific accessibility needs, it's advisable to contact the venue in advance to ensure a comfortable visit.
 
 ## Frequently Asked Questions
 
@@ -105,7 +105,7 @@ The Hamburger Volksbühne strives to be accessible to all visitors. For specific
 Ticket purchasing options may vary. It's best to check the official website for current ticket availability and purchasing methods.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available at the venue. Options for refreshments may also be nearby, but it’s advisable to confirm current offerings.
+Facilities such as restrooms are typically available at the venue. Options for refreshments may also be nearby, but it's advisable to confirm current offerings.
 
 ### What should I wear?
 Dress comfortably and according to the event. Casual attire is usually acceptable, but some performances may call for smarter dress.

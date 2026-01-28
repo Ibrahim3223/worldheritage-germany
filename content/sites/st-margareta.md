@@ -36,7 +36,7 @@ Visitors to St. Margareta can expect to immerse themselves in the history and ar
 
 The history of St. Margareta is intertwined with the development of Königswinter itself. While specific dates are not provided, the church has played a vital role in the spiritual life of the community for generations. As a religious institution, it has likely served as a gathering place for worship, celebrations, and community events, fostering a sense of unity among the residents.
 
-St. Margareta is emblematic of the broader cultural and historical narratives found throughout the region. Churches in Germany often reflect the various architectural styles and influences that have shaped the country over the centuries. The establishment of this church would have coincided with significant historical events, influencing the community’s social and cultural landscape.
+St. Margareta is emblematic of the broader cultural and historical narratives found throughout the region. Churches in Germany often reflect the various architectural styles and influences that have shaped the country over the centuries. The establishment of this church would have coincided with significant historical events, influencing the community's social and cultural landscape.
 
 Beyond its role as a place of worship, St. Margareta also stands as a symbol of resilience. Many churches in the region have weathered the trials of time, from wars to societal changes, yet they remain integral to local identity. The church's continued existence invites reflection on the enduring nature of faith and the importance of preserving cultural heritage.
 

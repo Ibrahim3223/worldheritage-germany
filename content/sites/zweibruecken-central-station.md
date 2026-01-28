@@ -34,9 +34,9 @@ The significance of Zweibrücken Central Station extends beyond its role as a tr
 
 The history of Zweibrücken Central Station is intertwined with the development of railway transport in Germany. While specific dates may not be available, the station has served as a crucial transit point since the early days of rail travel. The establishment of the railway system marked a significant turning point in transportation, offering faster and more efficient travel options compared to traditional methods. 
 
-Zweibrücken itself has a rich cultural heritage, known for its historical significance and vibrant community. The station has played a vital role in connecting Zweibrücken with other towns and cities, facilitating trade and fostering tourism. The railway network's expansion over the years has contributed to the city’s growth, making it a more accessible destination for both domestic and international travelers.
+Zweibrücken itself has a rich cultural heritage, known for its historical significance and vibrant community. The station has played a vital role in connecting Zweibrücken with other towns and cities, facilitating trade and fostering tourism. The railway network's expansion over the years has contributed to the city's growth, making it a more accessible destination for both domestic and international travelers.
 
-In addition to its practical functions, the station also serves as a reminder of the historical importance of railways in shaping modern society. The growth of the railway system during the 19th and 20th centuries not only revolutionized travel but also played a crucial role in the economic development of regions like Zweibrücken. As such, Zweibrücken Central Station stands as a symbol of progress and connectivity, representing a legacy that continues to influence the city’s identity.
+In addition to its practical functions, the station also serves as a reminder of the historical importance of railways in shaping modern society. The growth of the railway system during the 19th and 20th centuries not only revolutionized travel but also played a crucial role in the economic development of regions like Zweibrücken. As such, Zweibrücken Central Station stands as a symbol of progress and connectivity, representing a legacy that continues to influence the city's identity.
 
 ## Architecture and Features
 

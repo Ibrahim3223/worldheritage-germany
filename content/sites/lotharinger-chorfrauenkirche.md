@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Lotharinger Chorfrauenkirche, a church building located in the heart of Münster, Germany, stands as a significant landmark reflecting the architectural and cultural ethos of the region. With its origins tied to the rich ecclesiastical history of Münster, this site invites travelers to explore not only its religious significance but also its artistic and architectural qualities. The church’s coordinates—51.9653° N latitude and 7.63271° E longitude—place it conveniently within the city's cultural landscape, making it an accessible stop for visitors eager to delve into the heritage of this vibrant area.
+The Lotharinger Chorfrauenkirche, a church building located in the heart of Münster, Germany, stands as a significant landmark reflecting the architectural and cultural ethos of the region. With its origins tied to the rich ecclesiastical history of Münster, this site invites travelers to explore not only its religious significance but also its artistic and architectural qualities. The church's coordinates—51.9653° N latitude and 7.63271° E longitude—place it conveniently within the city's cultural landscape, making it an accessible stop for visitors eager to delve into the heritage of this vibrant area.
 
 Münster, known for its historic city center and university life, serves as a backdrop to the Lotharinger Chorfrauenkirche, which contributes to the city's narrative of resilience and renewal. The church is more than a place of worship; it symbolizes the community's connection to its past while embracing contemporary cultural expressions. Whether you are drawn in by spiritual curiosity or a passion for history and architecture, the Lotharinger Chorfrauenkirche offers a compelling experience for all who visit.
 

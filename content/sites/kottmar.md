@@ -36,7 +36,7 @@ The history surrounding Kottmar is deeply intertwined with the cultural narrativ
 
 The cultural importance of Kottmar extends beyond its physical presence. It is believed that the mountain has been a source of inspiration for various local traditions, stories, and possibly even folklore. In many cultures, mountains are revered for their majesty and are often seen as spiritual places. Kottmar's role as a natural monument ties it to the identity of the surrounding communities, reflecting their relationship with the environment.
 
-Moreover, Kottmar's geological features may offer insights into the Earth’s past, although detailed geological histories are not explicitly outlined. The mountain can be appreciated for its role in shaping the landscape of Saxony and for being a part of the broader geological framework of Germany.
+Moreover, Kottmar's geological features may offer insights into the Earth's past, although detailed geological histories are not explicitly outlined. The mountain can be appreciated for its role in shaping the landscape of Saxony and for being a part of the broader geological framework of Germany.
 
 As visitors explore Kottmar, it is important to reflect on the mountain's significance not just as a physical entity but as a symbol of the natural heritage of the region. Its enduring presence continues to inspire both locals and tourists, representing the intertwined stories of nature and human experience.
 
@@ -74,7 +74,7 @@ For those seeking solitude, exploring the less traveled trails may lead to more 
 
 ## Practical Information
 
-When planning your visit to Kottmar, it’s essential to bring appropriate gear for hiking, including sturdy footwear, water, and snacks. Depending on the season, layering clothing is advisable to accommodate changing temperatures, especially in higher elevations.
+When planning your visit to Kottmar, it's essential to bring appropriate gear for hiking, including sturdy footwear, water, and snacks. Depending on the season, layering clothing is advisable to accommodate changing temperatures, especially in higher elevations.
 
 Spring and autumn are generally considered the best seasons to experience Kottmar, as the weather is typically pleasant and the natural scenery is at its most vibrant. However, summer can also be enjoyable for those looking to experience the lush greenery.
 

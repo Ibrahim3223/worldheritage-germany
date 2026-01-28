@@ -28,7 +28,7 @@ image_srcset:
 
 The Roman settlement Tegelberg, located in the picturesque region of Schwangau, Germany, offers a fascinating glimpse into the ancient world. This archaeological site and museum serve as a significant repository of knowledge about Roman life in this part of Europe. Visitors to Tegelberg can explore the remnants of a once-thriving settlement, engaging with artifacts and exhibitions that illuminate the daily lives, culture, and practices of the Romans who inhabited this area. As one traverses the site, the connection to a bygone era becomes palpable, making it an intriguing stop for history enthusiasts and casual visitors alike.
 
-Situated at coordinates 47.5685, 10.7565, Tegelberg is strategically located near the stunning backdrop of the Bavarian Alps, complementing the historical experience with natural beauty. The settlement’s significance extends beyond merely being an archaeological site; it represents a vital intersection of history, culture, and education, drawing those interested in the legacy of Roman civilization in Germany. The museum enriches the narrative through engaging displays and well-curated exhibits that aim to educate and inspire curiosity about ancient life.
+Situated at coordinates 47.5685, 10.7565, Tegelberg is strategically located near the stunning backdrop of the Bavarian Alps, complementing the historical experience with natural beauty. The settlement's significance extends beyond merely being an archaeological site; it represents a vital intersection of history, culture, and education, drawing those interested in the legacy of Roman civilization in Germany. The museum enriches the narrative through engaging displays and well-curated exhibits that aim to educate and inspire curiosity about ancient life.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ When visiting Tegelberg, consider exploring these nearby attractions:
 
 To enhance your visit to Tegelberg, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for any restrictions, particularly within the museum exhibits.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for any restrictions, particularly within the museum exhibits.
   
 - **Crowd Avoidance**: Aim to visit during weekdays or early in the morning to enjoy a quieter experience. This also allows for a more contemplative exploration of the site.
 
@@ -99,13 +99,13 @@ Guided tours are often available, providing in-depth knowledge and enhancing the
 While busy periods can vary, visiting on weekdays or early in the day can help avoid crowds.
 
 ### Is it wheelchair accessible?
-Information on accessibility may vary, so it’s best to consult the official website for details on wheelchair access and facilities.
+Information on accessibility may vary, so it's best to consult the official website for details on wheelchair access and facilities.
 
 ### Can I buy tickets online?
 Check the official website for the latest information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are typically available on-site, but it’s advisable to confirm current offerings on the official website.
+Facilities such as restrooms and cafes are typically available on-site, but it's advisable to confirm current offerings on the official website.
 
 ### What should I wear?
 Dress comfortably and in layers, especially considering the weather and the nature of outdoor exploration at the site.

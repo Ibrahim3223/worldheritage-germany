@@ -107,7 +107,7 @@ The park is designed to be accessible, with pathways suitable for wheelchairs. H
 Entry to the park is generally free, but for special events, check the official website for any ticketing options.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available within the park, and there are likely nearby cafes to grab refreshments. It’s best to check the official website for specific amenities.
+Restroom facilities may be available within the park, and there are likely nearby cafes to grab refreshments. It's best to check the official website for specific amenities.
 
 ### What should I wear?
-Dress comfortably based on the season and your planned activities. Comfortable walking shoes are essential for exploring the park’s pathways.
+Dress comfortably based on the season and your planned activities. Comfortable walking shoes are essential for exploring the park's pathways.

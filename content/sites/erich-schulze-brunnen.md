@@ -56,7 +56,7 @@ While exploring the Au-Haidhausen district, visitors can discover several nearby
    
 2. **Isar River Park**: A scenic area for walking and cycling, perfect for those looking to relax by the water after visiting the fountain.
    
-3. **St. Paul’s Church**: An architectural gem nearby, known for its beautiful façade and serene interiors, inviting quiet reflection.
+3. **St. Paul's Church**: An architectural gem nearby, known for its beautiful façade and serene interiors, inviting quiet reflection.
 
 4. **Café Frischhut**: Famous for its delicious pastries, this café is an excellent spot to enjoy a local treat after spending time at the fountain.
 
@@ -66,7 +66,7 @@ While exploring the Au-Haidhausen district, visitors can discover several nearby
 
 To capture the best photographs of Erich-Schulze-Brunnen, consider visiting during the golden hours of early morning or late afternoon, when the light creates a beautiful glow. This timing can enhance the overall aesthetic of your images. Additionally, weekdays are generally less crowded than weekends, offering a more peaceful atmosphere for visitors looking to enjoy the fountain.
 
-Engaging with locals can also enrich your experience; they may share interesting stories and insights about the fountain and the surrounding area that you won’t find in guidebooks.
+Engaging with locals can also enrich your experience; they may share interesting stories and insights about the fountain and the surrounding area that you won't find in guidebooks.
 
 ## Practical Information
 

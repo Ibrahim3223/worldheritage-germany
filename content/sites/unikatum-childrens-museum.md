@@ -75,7 +75,7 @@ When visiting the Unikatum children's museum, consider these insider tips to enh
 
 Before heading to the Unikatum children's museum, consider the following practical information:
 
-- **What to Bring**: It’s advisable to bring comfortable clothing and shoes, as you and your children will likely be engaging in active play. Additionally, a water bottle and snacks can help keep energy levels up during your visit.
+- **What to Bring**: It's advisable to bring comfortable clothing and shoes, as you and your children will likely be engaging in active play. Additionally, a water bottle and snacks can help keep energy levels up during your visit.
 - **Seasonal Considerations**: Check the weather forecast before your visit, as this may impact your travel plans. In case of inclement weather, ensure you have appropriate outerwear for your journey.
 
 ## Frequently Asked Questions 

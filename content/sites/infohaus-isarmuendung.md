@@ -22,7 +22,7 @@ images:
 
 The Infohaus Isarmündung is a unique museum located in Moos, Germany, that offers visitors a glimpse into the region's rich cultural and environmental heritage. Positioned at the confluence of the Danube and Isar rivers, this museum serves as an educational hub dedicated to the natural and historical significance of the area. The museum is a vital resource for understanding the ecological and cultural landscape of the rivers, making it an intriguing stop for both nature enthusiasts and history buffs.
 
-As you explore the exhibits, you’ll discover how the interplay between the rivers has shaped the local environment and community over time. The Infohaus Isarmündung not only showcases the biological diversity found in the region but also highlights the importance of preserving these natural resources. This commitment to education and conservation makes the museum an essential part of the local community and a must-visit for those traveling through Bavaria.
+As you explore the exhibits, you'll discover how the interplay between the rivers has shaped the local environment and community over time. The Infohaus Isarmündung not only showcases the biological diversity found in the region but also highlights the importance of preserving these natural resources. This commitment to education and conservation makes the museum an essential part of the local community and a must-visit for those traveling through Bavaria.
 
 Visitors can expect a thoughtful presentation of information, interactive displays, and engaging exhibits that cater to a wide audience. Whether you're a lifelong resident or a first-time visitor, the Infohaus Isarmündung promises an enriching experience that deepens your understanding of this remarkable area.
 
@@ -44,7 +44,7 @@ One notable aspect of the museum is its commitment to education, offering resour
 
 ## Visiting Information
 
-For those planning to visit the Infohaus Isarmündung, it’s advisable to check the official website for current information regarding hours of operation and ticket prices. The museum is accessible by various forms of transport, making it easy for visitors to incorporate it into their travel itineraries.
+For those planning to visit the Infohaus Isarmündung, it's advisable to check the official website for current information regarding hours of operation and ticket prices. The museum is accessible by various forms of transport, making it easy for visitors to incorporate it into their travel itineraries.
 
 Typically, guests can expect to spend around one to two hours exploring the exhibits, depending on their level of interest and engagement with the interactive displays. The museum is suitable for all ages, making it a great destination for families, school groups, or individuals seeking a deeper understanding of the region's natural history.
 
@@ -72,7 +72,7 @@ To make the most of your visit to the Infohaus Isarmündung, consider the follow
 
 - **Crowd Avoidance**: Visiting during the morning on weekdays can help you avoid larger crowds, allowing for a more peaceful exploration of the museum.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for recommendations on exhibits or local attractions. Their insights can enrich your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff for recommendations on exhibits or local attractions. Their insights can enrich your visit.
 
 ## Practical Information
 

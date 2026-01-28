@@ -30,7 +30,7 @@ The Mühlheimer Stadtmuseum plays a vital role in the preservation of the cultur
 
 The museum not only preserves physical artifacts but also serves as a repository of stories that highlight the town's development, from its origins to the modern era. By focusing on local history, it provides insight into the daily lives of the people who have called Mühlheim home.
 
-In addition to its exhibits, the Mühlheimer Stadtmuseum often engages with the community through events, educational programs, and temporary exhibitions. These initiatives enhance its significance as a cultural hub and foster a deeper appreciation for the town’s heritage among residents and visitors alike.
+In addition to its exhibits, the Mühlheimer Stadtmuseum often engages with the community through events, educational programs, and temporary exhibitions. These initiatives enhance its significance as a cultural hub and foster a deeper appreciation for the town's heritage among residents and visitors alike.
 
 ## Architecture and Features
 
@@ -66,7 +66,7 @@ While exploring the Mühlheimer Stadtmuseum, consider extending your itinerary t
 
 To enhance your visit to the Mühlheimer Stadtmuseum, consider the following insider tips:
 
-- **Photography**: Check the museum’s photography policy to ensure that you capture memories from your visit without violating any rules.
+- **Photography**: Check the museum's photography policy to ensure that you capture memories from your visit without violating any rules.
   
 - **Crowd Avoidance**: Aim for mid-week visits or early morning hours for a quieter experience, allowing you to fully appreciate the exhibits without distraction.
 

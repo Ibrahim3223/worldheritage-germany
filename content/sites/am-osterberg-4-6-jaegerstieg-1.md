@@ -36,7 +36,7 @@ The architectural ensemble of Am Osterberg 4, 6, and Jägerstieg 1 in Gernrode r
 
 The significance of this architectural ensemble extends beyond its aesthetic appeal; it represents the historical context of Gernrode as a center of commerce and craftsmanship. The structures have stood witness to the transformations that have occurred in the area, from medieval times through various political and social changes. As a result, they provide valuable insights into the lifestyle, values, and artistic expressions of the communities that have inhabited this region.
 
-Throughout the years, efforts have been made to preserve the integrity of these buildings, ensuring that they continue to tell the story of Gernrode’s past. This commitment to heritage conservation highlights the importance placed on maintaining historical identity in a rapidly changing world. As part of the broader narrative of Quedlinburg, a UNESCO World Heritage site, the ensemble contributes to the understanding of architectural trends and cultural dynamics in Germany.
+Throughout the years, efforts have been made to preserve the integrity of these buildings, ensuring that they continue to tell the story of Gernrode's past. This commitment to heritage conservation highlights the importance placed on maintaining historical identity in a rapidly changing world. As part of the broader narrative of Quedlinburg, a UNESCO World Heritage site, the ensemble contributes to the understanding of architectural trends and cultural dynamics in Germany.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ When visiting, allocate sufficient time to fully appreciate the architectural de
 
 The best times to visit are during the spring and autumn months when the weather is generally mild, and the surrounding landscape offers a picturesque backdrop for photography. Additionally, visiting during weekdays may help avoid larger crowds, providing a more intimate experience.
 
-Expect to encounter not only the impressive structures but also a lively atmosphere that reflects the community's pride in its heritage. Engaging with local guides or informational resources can enhance your understanding of the ensemble’s historical significance and architectural marvels.
+Expect to encounter not only the impressive structures but also a lively atmosphere that reflects the community's pride in its heritage. Engaging with local guides or informational resources can enhance your understanding of the ensemble's historical significance and architectural marvels.
 
 ## Nearby Attractions
 
@@ -64,7 +64,7 @@ After exploring Am Osterberg 4, 6, and Jägerstieg 1, there are several nearby a
 
 1. **Gernrode Abbey**: Located close to the ensemble, this former Benedictine monastery is renowned for its Romanesque architecture and beautiful surroundings.
    
-2. **Quedlinburg Old Town**: Just a short drive away, Quedlinburg’s historic center is a UNESCO World Heritage site, featuring over 1,200 timber-framed houses and the impressive St. Servatius Church.
+2. **Quedlinburg Old Town**: Just a short drive away, Quedlinburg's historic center is a UNESCO World Heritage site, featuring over 1,200 timber-framed houses and the impressive St. Servatius Church.
 
 3. **Harz National Park**: For nature enthusiasts, this national park offers stunning hiking trails and diverse wildlife, providing a great opportunity to experience the natural beauty of the Harz region.
 

@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Alter Südfriedhof, a cemetery in Munich, Germany, serves as a poignant reminder of the city's historical and cultural lineage. Established in the early 19th century, this site is not merely a resting place for the deceased but also a reflection of the city’s evolving architectural styles and societal values over the years. As you wander through its tranquil paths, you will encounter a blend of artistry, remembrance, and stories that echo the lives of those interred here.
+Alter Südfriedhof, a cemetery in Munich, Germany, serves as a poignant reminder of the city's historical and cultural lineage. Established in the early 19th century, this site is not merely a resting place for the deceased but also a reflection of the city's evolving architectural styles and societal values over the years. As you wander through its tranquil paths, you will encounter a blend of artistry, remembrance, and stories that echo the lives of those interred here.
 
-Located at coordinates 48.127265054, 11.564875282, Alter Südfriedhof is situated in a region steeped in history, making it an essential stop for anyone interested in Munich’s heritage. The cemetery's significance extends beyond its serene landscape; it is home to numerous notable figures, including artists, scientists, and public figures who shaped the cultural fabric of Germany. Visiting Alter Südfriedhof not only provides an opportunity for reflection but also an insight into the narratives that have influenced Munich's identity.
+Located at coordinates 48.127265054, 11.564875282, Alter Südfriedhof is situated in a region steeped in history, making it an essential stop for anyone interested in Munich's heritage. The cemetery's significance extends beyond its serene landscape; it is home to numerous notable figures, including artists, scientists, and public figures who shaped the cultural fabric of Germany. Visiting Alter Südfriedhof not only provides an opportunity for reflection but also an insight into the narratives that have influenced Munich's identity.
 
 As you explore this cemetery, you will find a peaceful atmosphere that invites contemplation. The combination of natural beauty with historical gravestones creates a unique environment, making it a worthwhile destination for visitors seeking to understand more about Munich's past and its influential personalities.
 
@@ -54,7 +54,7 @@ Visiting Alter Südfriedhof is an experience that invites reflection and appreci
 
 Public transportation is a convenient option for reaching the cemetery, with various tram and bus routes servicing the area. Alternatively, those who prefer to walk can enjoy a leisurely stroll from nearby attractions, allowing for a more immersive experience of the city.
 
-When visiting, it is recommended to allocate sufficient time to explore the grounds thoroughly. A visit of about 1 to 2 hours is typically enough to appreciate the cemetery’s architecture, notable graves, and the tranquil atmosphere it offers. The best times to visit are often during the late afternoon when the light casts a warm glow over the monuments, enhancing their beauty and creating a peaceful ambiance.
+When visiting, it is recommended to allocate sufficient time to explore the grounds thoroughly. A visit of about 1 to 2 hours is typically enough to appreciate the cemetery's architecture, notable graves, and the tranquil atmosphere it offers. The best times to visit are often during the late afternoon when the light casts a warm glow over the monuments, enhancing their beauty and creating a peaceful ambiance.
 
 Given the cemetery's serene environment, visitors should approach the site with respect and mindfulness. It is a place of remembrance, so maintaining a quiet demeanor is encouraged.
 
@@ -84,7 +84,7 @@ For those planning to visit Alter Südfriedhof, consider the following tips to e
 
 ## Practical Information
 
-When visiting Alter Südfriedhof, it’s essential to prepare accordingly. Here are some practical considerations:
+When visiting Alter Südfriedhof, it's essential to prepare accordingly. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are advisable, as the cemetery's paths may require strolling over uneven ground. A camera is a great addition, though be mindful of the guidelines regarding photography.
 

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rathaus Mölkau, the town hall of Mölkau in Leipzig, Germany, is an architectural and cultural landmark that reflects the essence of local governance and community identity. Situated in the historic region of Saxony, this city hall serves as a focal point for the town’s administrative activities and civic engagement. Its presence in the vibrant community of Mölkau highlights the significance of civic architecture in fostering public life and identity. The town hall not only stands as a hub for local governance but also embodies the rich historical narrative of the region. 
+Rathaus Mölkau, the town hall of Mölkau in Leipzig, Germany, is an architectural and cultural landmark that reflects the essence of local governance and community identity. Situated in the historic region of Saxony, this city hall serves as a focal point for the town's administrative activities and civic engagement. Its presence in the vibrant community of Mölkau highlights the significance of civic architecture in fostering public life and identity. The town hall not only stands as a hub for local governance but also embodies the rich historical narrative of the region. 
 
 Visitors to Rathaus Mölkau can engage with its surroundings, which include charming streets and community spaces that offer a glimpse into the life of Mölkau. The hall is easily accessible, making it a convenient stop for those exploring the broader city of Leipzig. The town hall represents not only the administrative function of municipal buildings but also serves as a symbol of local pride and heritage.
 
@@ -36,7 +36,7 @@ Rathaus Mölkau has played a crucial role in the administrative life of the town
 
 The architectural style of Rathaus Mölkau showcases the town's historical context, which has evolved alongside Leipzig's growth. The building serves not only as a government center but also as a venue for community events, public gatherings, and cultural celebrations. This dual role enhances its importance within the community, making it a site of both administrative functions and social interaction.
 
-Culturally, Rathaus Mölkau represents the spirit of local democracy and civic engagement. It reflects the town’s commitment to public service and community involvement, fostering a sense of belonging among residents. The hall's significance is not only in its functionality but also in its embodiment of the community’s values and aspirations.
+Culturally, Rathaus Mölkau represents the spirit of local democracy and civic engagement. It reflects the town's commitment to public service and community involvement, fostering a sense of belonging among residents. The hall's significance is not only in its functionality but also in its embodiment of the community's values and aspirations.
 
 ## Architecture and Features
 
@@ -58,7 +58,7 @@ As Rathaus Mölkau is a functioning government building, visitors may encounter 
 
 While visiting Rathaus Mölkau, take the opportunity to explore several nearby attractions that enhance your understanding of the local culture and history:
 
-1. **St. John’s Church**: An important religious site in Mölkau, known for its architecture and community gatherings.
+1. **St. John's Church**: An important religious site in Mölkau, known for its architecture and community gatherings.
 2. **Mölkau Park**: A peaceful green space perfect for a leisurely stroll or a picnic, offering a break from urban life.
 3. **Leipzig Botanical Garden**: Located a short distance away, this garden showcases a diverse collection of plants and is ideal for nature enthusiasts.
 4. **Museum of City History**: Discover the rich history of Leipzig and its surrounding regions, including exhibits that may touch upon Mölkau's development.

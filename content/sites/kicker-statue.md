@@ -52,7 +52,7 @@ Transportation to the Kicker Statue is convenient, with various public transport
 
 1. **Nuremberg Castle**: A short distance from the Kicker Statue, this historic fortress offers visitors a glimpse into the city's medieval past and stunning views of the surrounding area.
 
-2. **Documentation Center Nazi Party Rally Grounds**: This museum provides insightful context regarding Nuremberg's complex history, particularly during the Nazi regime, and is an essential visit for those interested in understanding the city’s historical significance.
+2. **Documentation Center Nazi Party Rally Grounds**: This museum provides insightful context regarding Nuremberg's complex history, particularly during the Nazi regime, and is an essential visit for those interested in understanding the city's historical significance.
 
 3. **St. Lawrence Church**: This beautiful Gothic church is renowned for its stunning architecture and intricate interior, making it a must-see for architecture enthusiasts.
 
@@ -70,7 +70,7 @@ If you wish to avoid crowds, plan your visit on weekdays rather than weekends, a
 
 When visiting the Kicker Statue, it's advisable to wear comfortable walking shoes, as the area around the statue is pedestrian-friendly and encourages exploration. Depending on the season, consider bringing layers, as temperatures can vary throughout the day, particularly in spring and fall.
 
-If you’re planning to take photographs, a camera or a smartphone is essential, but also be respectful of other visitors who may be enjoying the space. Seasonal events may occur near the statue, so checking local listings before your visit can enhance your experience.
+If you're planning to take photographs, a camera or a smartphone is essential, but also be respectful of other visitors who may be enjoying the space. Seasonal events may occur near the statue, so checking local listings before your visit can enhance your experience.
 
 ## Frequently Asked Questions
 

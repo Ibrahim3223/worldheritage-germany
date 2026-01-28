@@ -42,7 +42,7 @@ Visiting the cemetery also provides insight into Berlin's broader historical nar
 
 Kaiser Wilhelm Memorial Cemetery is characterized by its distinctive architecture and thoughtfully designed memorial elements. The layout of the cemetery invites visitors to explore its paths and discover various types of graves and monuments. While specific architectural features are not detailed, the overall design reflects a blend of traditional and modern elements, creating an environment that is both respectful and contemplative.
 
-One of the cemetery's notable features is the variety of gravestones, which reflect the personal stories of those interred. These gravestones vary in design, from simple markers to elaborate sculptures, each telling a unique story of the individual’s life and contributions. The artful craftsmanship displayed in these monuments adds to the cemetery's aesthetic appeal, making it an open-air gallery of memorial art.
+One of the cemetery's notable features is the variety of gravestones, which reflect the personal stories of those interred. These gravestones vary in design, from simple markers to elaborate sculptures, each telling a unique story of the individual's life and contributions. The artful craftsmanship displayed in these monuments adds to the cemetery's aesthetic appeal, making it an open-air gallery of memorial art.
 
 In addition to the gravestones, the cemetery may include landscaped areas that enhance the peaceful atmosphere of the site. Visitors often find themselves surrounded by greenery, which serves to create a sense of tranquility and reflection. The overall experience of walking through the cemetery is one of contemplation, as each step leads to new stories waiting to be discovered.
 

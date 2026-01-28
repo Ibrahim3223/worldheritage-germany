@@ -76,7 +76,7 @@ These attractions complement a visit to the Veste Coburg Art Collections and pro
 
 To make the most of your visit to the Veste Coburg Art Collections, consider these insider tips:
 
-- **Photography**: While some areas may allow photography, it’s advisable to check for any restrictions, especially in specific exhibit spaces. Capturing your experience is a great way to remember your visit.
+- **Photography**: While some areas may allow photography, it's advisable to check for any restrictions, especially in specific exhibit spaces. Capturing your experience is a great way to remember your visit.
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the morning can help you avoid larger crowds. This will allow for a more leisurely exploration of the collections and the fortress grounds.
 
@@ -98,7 +98,7 @@ When planning your visit to the Veste Coburg Art Collections, consider the follo
 Most visitors find that spending two to three hours allows ample time to explore the collections and the fortress grounds.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for specific restrictions at the entrance or within the exhibits.
+Photography policies may vary; it's best to check for specific restrictions at the entrance or within the exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing a more in-depth understanding of the collections and their historical context.

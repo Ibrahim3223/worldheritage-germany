@@ -28,7 +28,7 @@ image_srcset:
 
 The König-Albert-Denkmal is a striking architectural monument located in Freital, Germany, that honors the legacy of King Albert of Saxony. This impressive structure serves not only as a tribute to a significant historical figure but also as a focal point for the local community, enticing visitors with its historical depth and cultural significance. Positioned at coordinates 50.9978, 13.6597, the monument is easily accessible and invites exploration of the surrounding region, which is rich in history and natural beauty. As you approach the site, you will be greeted by the grandeur of the monument, which stands as a reminder of the era it commemorates and the impact of King Albert on the region.
 
-Freital, a charming town located near Dresden, offers a glimpse into Saxony's heritage. The König-Albert-Denkmal is a prominent landmark that reflects the architectural styles of its time and provides insights into the cultural landscape of Germany. Visitors can engage with the history of Freital and its connection to the broader narrative of Saxony, making this monument a must-see for those interested in the region’s past.
+Freital, a charming town located near Dresden, offers a glimpse into Saxony's heritage. The König-Albert-Denkmal is a prominent landmark that reflects the architectural styles of its time and provides insights into the cultural landscape of Germany. Visitors can engage with the history of Freital and its connection to the broader narrative of Saxony, making this monument a must-see for those interested in the region's past.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ While in Freital, consider exploring the following attractions that complement y
 
 3. **Sächsische Schweiz National Park**: Known for its striking rock formations and hiking opportunities, this national park provides a natural counterpoint to the architectural heritage of the region.
 
-4. **Freital's Local Museums**: Explore local history through various small museums that highlight Freital’s industrial heritage and its development over the years.
+4. **Freital's Local Museums**: Explore local history through various small museums that highlight Freital's industrial heritage and its development over the years.
 
 5. **Parks and Green Spaces**: Enjoy the local parks that offer a tranquil setting for relaxation and reflection, perfect for unwinding after visiting the monument.
 

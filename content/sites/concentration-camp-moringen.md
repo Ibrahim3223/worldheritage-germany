@@ -76,7 +76,7 @@ While visiting Concentration Camp Moringen, there are several nearby attractions
 
 When visiting Concentration Camp Moringen, consider the following insider tips to enhance your experience:
 
-- **Photography**: While the memorial is a place for remembrance, be respectful when taking photographs. Some areas may have restrictions, so it's best to remain sensitive to the site’s purpose.
+- **Photography**: While the memorial is a place for remembrance, be respectful when taking photographs. Some areas may have restrictions, so it's best to remain sensitive to the site's purpose.
 
 - **Crowd Avoidance**: To experience a quieter visit, consider going during weekdays or early in the morning. This will allow for a more personal and reflective experience without the distractions of larger groups.
 
@@ -97,7 +97,7 @@ A visit typically takes about two hours, allowing adequate time to explore the m
 Photography is generally permitted, but it is important to be respectful of the site's nature and observe any posted guidelines regarding specific areas.
 
 ### Are there guided tours?
-Check the official website for information on whether guided tours are available, as these can enhance your understanding of the memorial’s significance.
+Check the official website for information on whether guided tours are available, as these can enhance your understanding of the memorial's significance.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, are often the best times to visit to avoid larger crowds.

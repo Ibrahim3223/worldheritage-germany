@@ -58,7 +58,7 @@ Husum is home to several attractions that complement a visit to the Weihnachtsha
    
 3. **The North Sea**: Just a short distance away, the coastal area offers scenic views and opportunities for leisurely walks along the beach.
    
-4. **The Maritime Museum**: An excellent place to learn about the region’s maritime history and its connection to the North Sea.
+4. **The Maritime Museum**: An excellent place to learn about the region's maritime history and its connection to the North Sea.
    
 5. **Local Shops and Cafés**: The town features charming shops and eateries where visitors can enjoy local delicacies and shop for unique gifts.
 
@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning if yo
 
 ## Practical Information
 
-When visiting the Weihnachtshaus, it is advisable to dress comfortably, as you may spend several hours walking and standing. Seasonal considerations can also play a role; if you’re visiting during winter, be prepared for cold weather outside, even if the museum is warm and inviting.
+When visiting the Weihnachtshaus, it is advisable to dress comfortably, as you may spend several hours walking and standing. Seasonal considerations can also play a role; if you're visiting during winter, be prepared for cold weather outside, even if the museum is warm and inviting.
 
 Bring a small bag for personal items and any purchases you might make within the museum or nearby shops. If you have children with you, it might be helpful to pack some snacks or activities to keep them entertained while exploring.
 

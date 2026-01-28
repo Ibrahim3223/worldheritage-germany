@@ -60,9 +60,9 @@ The best times to visit may vary, but early mornings or late afternoons can offe
 
 Visitors to Johanneskapelle can enhance their trip by exploring several nearby attractions:
 
-1. **Brilon Town Center**: A short distance from the chapel, the town center offers charming streets, local shops, and cafes that capture the essence of Brilon’s community.
+1. **Brilon Town Center**: A short distance from the chapel, the town center offers charming streets, local shops, and cafes that capture the essence of Brilon's community.
 
-2. **St. Augustine’s Church**: This nearby church may provide further insight into the religious landscape of the area and showcases beautiful architectural features.
+2. **St. Augustine's Church**: This nearby church may provide further insight into the religious landscape of the area and showcases beautiful architectural features.
 
 3. **Brilon Forest**: Just outside the town, this natural area offers walking trails and opportunities for outdoor recreation, perfect for those looking to enjoy the surrounding landscape.
 

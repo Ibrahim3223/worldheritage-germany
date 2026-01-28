@@ -28,7 +28,7 @@ image_srcset:
 
 Leuchtfeuer Heidkate is a lighthouse located in the picturesque region of Wisch, Plön, in Schleswig-Holstein, Germany. This coastal sentinel has guided ships for many years, ensuring their safe passage along the scenic waterways. As a landmark of maritime navigation, it serves not only as a functional structure but also as a point of interest for visitors who appreciate its architectural and historical significance. The lighthouse is an integral part of the coastal landscape, encapsulating the relationship between human ingenuity and the natural environment.
 
-The charm of Leuchtfeuer Heidkate lies in its simplicity and effectiveness, embodying the essential role of lighthouses in maritime safety. Its strategic location adds to its allure, making it a noteworthy destination for those exploring the German coastline. Visitors can expect a blend of education and inspiration as they learn about the lighthouse's operational history and its role in guiding vessels through the region’s waters.
+The charm of Leuchtfeuer Heidkate lies in its simplicity and effectiveness, embodying the essential role of lighthouses in maritime safety. Its strategic location adds to its allure, making it a noteworthy destination for those exploring the German coastline. Visitors can expect a blend of education and inspiration as they learn about the lighthouse's operational history and its role in guiding vessels through the region's waters.
 
 ## History and Significance
 

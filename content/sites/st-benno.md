@@ -44,7 +44,7 @@ St. Benno Church is characterized by its distinctive architectural design, which
 
 Inside, visitors may discover a serene atmosphere that fosters contemplation and reflection. The layout of the church typically includes a nave, side aisles, and an altar, designed to accommodate both worshippers and congregational activities. Notable features may include stained glass windows that illuminate the interior with colorful light, enhancing the spiritual ambiance.
 
-The church’s design not only serves functional purposes but also communicates the values and beliefs of the community it serves. The overall aesthetic of St. Benno Church contributes to its status as a significant landmark, making it a must-visit for those interested in architectural heritage and religious history.
+The church's design not only serves functional purposes but also communicates the values and beliefs of the community it serves. The overall aesthetic of St. Benno Church contributes to its status as a significant landmark, making it a must-visit for those interested in architectural heritage and religious history.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ The best times to visit St. Benno may vary; however, weekdays often provide a mo
 
 The Linden-Limmer district is home to several attractions that complement a visit to St. Benno Church. Nearby points of interest include:
 
-1. **Linden Museum**: This local museum showcases the cultural history of the Linden district and offers insights into the community’s past.
+1. **Linden Museum**: This local museum showcases the cultural history of the Linden district and offers insights into the community's past.
    
 2. **St. Joseph Church**: Another significant church in the area, known for its unique architectural style and peaceful ambiance.
    

@@ -46,7 +46,7 @@ The architecture of DASA – Arbeitswelt Ausstellung reflects a modern approach 
 
 Inside, visitors will find a range of interactive displays and installations that engage them in the themes of work and technology. The exhibits often incorporate multimedia elements, allowing for a dynamic presentation of information that appeals to diverse learning styles. Notable features of the museum include hands-on activities that invite participation, making the exploration of complex topics both enjoyable and informative.
 
-The design of the museum itself serves as a reflection of contemporary work environments, blurring the lines between traditional exhibition spaces and interactive learning environments. This approach aligns with the museum’s mission to provide a forward-thinking perspective on labor and its social implications.
+The design of the museum itself serves as a reflection of contemporary work environments, blurring the lines between traditional exhibition spaces and interactive learning environments. This approach aligns with the museum's mission to provide a forward-thinking perspective on labor and its social implications.
 
 ## Visiting Information
 

@@ -42,9 +42,9 @@ The establishment of the Joachim-Ringelnatz-Museum not only commemorates his con
 
 The architecture of the Joachim-Ringelnatz-Museum is reflective of the region's traditional style, designed to complement the historical essence of Cuxhaven. The building itself serves as a canvas for the artistic themes celebrated within its walls. Visitors will find a well-structured layout that allows for an immersive experience, with designated areas for exhibitions, educational programs, and community events.
 
-Notable features of the museum include dedicated exhibition spaces that house a rotating selection of artworks and literary materials related to Ringelnatz’s life and career. These exhibitions are thoughtfully curated to highlight various aspects of his work, from his poetry to his visual art. The interiors are designed to create a welcoming atmosphere, encouraging exploration and engagement with the exhibits.
+Notable features of the museum include dedicated exhibition spaces that house a rotating selection of artworks and literary materials related to Ringelnatz's life and career. These exhibitions are thoughtfully curated to highlight various aspects of his work, from his poetry to his visual art. The interiors are designed to create a welcoming atmosphere, encouraging exploration and engagement with the exhibits.
 
-In addition to the permanent collection, the museum frequently hosts temporary exhibitions that feature contemporary artists influenced by Ringelnatz’s work or themes relevant to his artistic vision. This dynamic approach ensures that visitors encounter something new with each visit, making the museum a continually evolving space for cultural exchange.
+In addition to the permanent collection, the museum frequently hosts temporary exhibitions that feature contemporary artists influenced by Ringelnatz's work or themes relevant to his artistic vision. This dynamic approach ensures that visitors encounter something new with each visit, making the museum a continually evolving space for cultural exchange.
 
 ## Visiting Information
 

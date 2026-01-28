@@ -60,7 +60,7 @@ While in the Pankow district, consider exploring some of the following nearby at
 
 1. **Schloss Schönhausen**: A beautifully preserved baroque palace that once served as a summer residence for the Prussian royal family.
 
-2. **Pankow’s Historic Town Center**: A charming area filled with cafes, shops, and historical buildings that reflect the character of the district.
+2. **Pankow's Historic Town Center**: A charming area filled with cafes, shops, and historical buildings that reflect the character of the district.
 
 3. **Volkspark Prenzlauer Berg**: A large park ideal for leisurely walks and picnics, offering open green spaces and recreational facilities.
 

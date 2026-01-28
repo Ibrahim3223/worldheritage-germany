@@ -28,7 +28,7 @@ image_srcset:
 
 European University Viadrina, located in the vibrant city of Frankfurt (Oder), Germany, serves as a significant center for higher education and international collaboration. Established with a mission to foster cross-border dialogue and intercultural exchange, this foundation plays a vital role in the academic landscape of Europe, particularly in the context of its unique history along the Oder River, which forms a natural border with Poland. With a focus on law, economics, and cultural studies, the university attracts students from various backgrounds, enhancing its dynamic atmosphere.
 
-The institution’s strategic location not only emphasizes its commitment to internationalism but also enriches its educational offerings, providing students with opportunities for practical experiences across borders. Its dedication to research and teaching is reflected in diverse programs that cater to the needs of an interconnected world. Visitors to the university can expect to find an engaging environment that promotes both academic excellence and cultural diversity, making it an essential stop for anyone exploring the educational heritage of the region.
+The institution's strategic location not only emphasizes its commitment to internationalism but also enriches its educational offerings, providing students with opportunities for practical experiences across borders. Its dedication to research and teaching is reflected in diverse programs that cater to the needs of an interconnected world. Visitors to the university can expect to find an engaging environment that promotes both academic excellence and cultural diversity, making it an essential stop for anyone exploring the educational heritage of the region.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The origins of European University Viadrina trace back to a vision of creating a
 
 The foundation is particularly notable for its role in fostering cooperation between Germany and Poland, facilitating exchanges that encourage students to immerse themselves in different cultural and academic environments. This commitment to internationalism and intercultural understanding has made the university a pivotal institution not just locally, but within the broader European context.
 
-In addition to its academic contributions, European University Viadrina is part of various networks and partnerships that enhance its global reach. Its focus on law, economics, and cultural studies aligns with contemporary challenges and opportunities, preparing students to engage thoughtfully with the world. The university’s historical significance is underscored by its commitment to addressing the complexities of European identity and cooperation through education.
+In addition to its academic contributions, European University Viadrina is part of various networks and partnerships that enhance its global reach. Its focus on law, economics, and cultural studies aligns with contemporary challenges and opportunities, preparing students to engage thoughtfully with the world. The university's historical significance is underscored by its commitment to addressing the complexities of European identity and cooperation through education.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architecture of European University Viadrina reflects a blend of historical 
 
 One of the notable aspects of the university's architecture is its integration with the surrounding cityscape, allowing for a seamless transition between academic and urban life. The design of the buildings promotes interaction among students and faculty, fostering a sense of community. 
 
-While specific architectural details are not provided, the overall aesthetic is characterized by an inviting atmosphere that encourages exploration and engagement. The university’s layout is conducive to both formal and informal gatherings, with spaces designed to facilitate dialogue and collaboration among students from diverse backgrounds.
+While specific architectural details are not provided, the overall aesthetic is characterized by an inviting atmosphere that encourages exploration and engagement. The university's layout is conducive to both formal and informal gatherings, with spaces designed to facilitate dialogue and collaboration among students from diverse backgrounds.
 
 ## Visiting Information
 
@@ -70,13 +70,13 @@ The university is most welcoming during the academic year when students are acti
 
 When visiting European University Viadrina, consider bringing a camera to capture the unique architectural features and vibrant campus life. To avoid crowds, aim to visit during weekdays, particularly in the morning or early afternoon when classes are in session and the atmosphere is lively.
 
-Take the time to explore the various buildings and spaces on campus, as each offers a glimpse into the university's commitment to fostering a collaborative academic environment. Engaging with students and faculty can also provide valuable insights into the university’s programs and initiatives.
+Take the time to explore the various buildings and spaces on campus, as each offers a glimpse into the university's commitment to fostering a collaborative academic environment. Engaging with students and faculty can also provide valuable insights into the university's programs and initiatives.
 
 ## Practical Information
 
 When planning your visit to European University Viadrina, bring essentials such as a water bottle and comfortable walking shoes, as exploring the campus may involve some walking. Be mindful of the seasonal weather; during the warmer months, lightweight clothing is advisable, while in colder months, layering may be necessary.
 
-Additionally, it's wise to check the official website for any special events or exhibitions that may be occurring during your visit, as these can enhance your experience and provide deeper insights into the university’s offerings.
+Additionally, it's wise to check the official website for any special events or exhibitions that may be occurring during your visit, as these can enhance your experience and provide deeper insights into the university's offerings.
 
 ## Frequently Asked Questions
 

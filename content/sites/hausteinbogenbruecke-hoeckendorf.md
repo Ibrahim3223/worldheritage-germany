@@ -62,7 +62,7 @@ A visit to the Hausteinbogenbrücke Höckendorf can be complemented by exploring
 
 3. **Parks and Nature Reserves**: Discover nearby green spaces that offer opportunities for hiking, picnicking, or simply enjoying the natural beauty of the region.
 
-4. **Cultural Institutions**: Look for museums or galleries showcasing local art and history, providing deeper insights into the area’s heritage.
+4. **Cultural Institutions**: Look for museums or galleries showcasing local art and history, providing deeper insights into the area's heritage.
 
 5. **Local Cuisine**: Savor traditional German dishes at nearby restaurants, allowing for a full experience of the local culture.
 

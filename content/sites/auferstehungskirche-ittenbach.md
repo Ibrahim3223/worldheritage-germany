@@ -28,7 +28,7 @@ image_srcset:
 
 The Auferstehungskirche, located in the picturesque region of Königswinter, Germany, is a notable church building that reflects the spiritual heritage and architectural traditions of the area. Its serene environment and historical significance attract visitors interested in religious architecture and local culture. As you approach this charming church, the tranquil surroundings invite a moment of reflection and appreciation for the craftsmanship that has been preserved through the years.
 
-Situated at the coordinates 50.678592 latitude and 7.266519 longitude, the Auferstehungskirche is not only a place of worship but also an integral part of the community’s identity. The church serves as a gathering space for local events and religious ceremonies, linking the present with the past. Visitors to Königswinter will find that this church enriches their understanding of the region's cultural landscape, making it a worthwhile stop on any exploration of the area.
+Situated at the coordinates 50.678592 latitude and 7.266519 longitude, the Auferstehungskirche is not only a place of worship but also an integral part of the community's identity. The church serves as a gathering space for local events and religious ceremonies, linking the present with the past. Visitors to Königswinter will find that this church enriches their understanding of the region's cultural landscape, making it a worthwhile stop on any exploration of the area.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ From an architectural perspective, the church provides insights into the local b
 
 The architecture of the Auferstehungskirche is characterized by its thoughtful design and harmonious integration into the surrounding environment. While detailed architectural specifics are not available, the church typically showcases features common to ecclesiastical structures in Germany, including a blend of traditional and regional styles.
 
-Visitors can expect to see elements such as a prominent steeple, which often serves as a focal point of the building, guiding the eyes of the beholder upwards. The exterior is likely crafted from local materials, reflecting the area’s architectural vernacular. The church may also exhibit stained glass windows, which often depict biblical scenes and convey spiritual messages through vibrant colors. Such features enhance the worship experience and create a serene atmosphere for contemplation.
+Visitors can expect to see elements such as a prominent steeple, which often serves as a focal point of the building, guiding the eyes of the beholder upwards. The exterior is likely crafted from local materials, reflecting the area's architectural vernacular. The church may also exhibit stained glass windows, which often depict biblical scenes and convey spiritual messages through vibrant colors. Such features enhance the worship experience and create a serene atmosphere for contemplation.
 
 Inside, the layout of the church is typically designed to accommodate congregational gatherings, with a nave that may be flanked by side aisles. The altar area often serves as the heart of the church, where rituals and ceremonies take place. Overall, the design of the Auferstehungskirche encapsulates the essence of community worship, blending functionality with spiritual significance.
 
@@ -50,7 +50,7 @@ Inside, the layout of the church is typically designed to accommodate congregati
 
 Visiting the Auferstehungskirche offers a peaceful retreat from the hustle and bustle of daily life. To reach the church, visitors can utilize various modes of transportation, including public transit options available within Königswinter. The exact transit routes and schedules may vary, so check the official website for current information before planning your visit.
 
-When planning your visit, it is advisable to check the official website for hours of operation and any potential entry fees. Visitors can expect a welcoming atmosphere, with opportunities for quiet reflection and appreciation of the church’s interior and surroundings. The time needed for a visit can vary, but a stay of approximately 30 minutes to an hour allows for leisurely exploration and contemplation.
+When planning your visit, it is advisable to check the official website for hours of operation and any potential entry fees. Visitors can expect a welcoming atmosphere, with opportunities for quiet reflection and appreciation of the church's interior and surroundings. The time needed for a visit can vary, but a stay of approximately 30 minutes to an hour allows for leisurely exploration and contemplation.
 
 The best times to visit Auferstehungskirche are during weekdays, when the church is less crowded, providing a more intimate experience. Additionally, special services or community events may occur on weekends, adding a unique dimension to your visit.
 
@@ -86,7 +86,7 @@ Seasonal considerations may also play a role in your visit. Spring and fall ofte
 A visit of 30 minutes to an hour is generally sufficient to appreciate the church's architecture and enjoy a moment of reflection.
 
 ### Is photography allowed?
-Photography is typically allowed in church buildings, but it’s best to check for any specific restrictions upon arrival.
+Photography is typically allowed in church buildings, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 While specific information about guided tours is not provided, inquire locally or check the official website for any available options.

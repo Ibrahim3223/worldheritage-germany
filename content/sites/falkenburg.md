@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Falkenburg Castle, located in the picturesque region of Kyffhäuserland in Germany, stands as a remarkable example of medieval architecture. This historic castle, with its commanding presence, offers visitors a glimpse into the past, revealing the strategic importance and architectural ingenuity of its time. Set against a backdrop of rolling hills and dense woodlands, Falkenburg is not only a site of architectural wonder but also a significant cultural landmark within the region. As you explore its storied walls and towers, you’ll uncover the enduring legacy of the castle and its role in shaping the local history.
+Falkenburg Castle, located in the picturesque region of Kyffhäuserland in Germany, stands as a remarkable example of medieval architecture. This historic castle, with its commanding presence, offers visitors a glimpse into the past, revealing the strategic importance and architectural ingenuity of its time. Set against a backdrop of rolling hills and dense woodlands, Falkenburg is not only a site of architectural wonder but also a significant cultural landmark within the region. As you explore its storied walls and towers, you'll uncover the enduring legacy of the castle and its role in shaping the local history.
 
 The castle's strategic location has made it a focal point throughout various periods, attracting both historians and travelers alike. It serves as a reminder of the tumultuous events that have unfolded in this part of Germany over the centuries. Visitors to Falkenburg can appreciate not only the impressive structure but also the stories that have woven themselves into the fabric of the castle's existence.
 
@@ -78,7 +78,7 @@ To maximize your experience at Falkenburg, consider the following tips:
 
 - **Crowd Avoidance**: To enjoy a more tranquil visit, consider visiting during weekdays or outside of peak tourist seasons. This will allow you to explore the castle at a leisurely pace without the hustle and bustle of larger crowds.
 
-- **Guided Tours**: If available, guided tours can provide in-depth insights and stories that enhance your understanding of the castle’s significance. 
+- **Guided Tours**: If available, guided tours can provide in-depth insights and stories that enhance your understanding of the castle's significance. 
 
 ## Practical Information
 

@@ -72,7 +72,7 @@ Erlöserkirche is located within a vibrant area of Hanover that boasts several o
 
 When planning your visit to Erlöserkirche, consider bringing a camera to capture the architectural details of the church. However, be respectful of the sacred space and its congregation. To avoid crowds, aim for mid-morning or late afternoon visits, especially on weekdays when foot traffic may be lighter.
 
-If you are interested in engaging more deeply with the church’s community, check for any scheduled events or services that might provide a unique insight into its role within the local context.
+If you are interested in engaging more deeply with the church's community, check for any scheduled events or services that might provide a unique insight into its role within the local context.
 
 ## Practical Information
 

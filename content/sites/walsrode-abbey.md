@@ -82,7 +82,7 @@ When visiting Walsrode Abbey, consider bringing a camera to capture the beauty o
 
 To avoid crowds, plan your visit during weekdays or opt for early morning hours. This approach allows for a more peaceful exploration of the abbey and its surroundings, enhancing your overall experience.
 
-Additionally, engage with the staff or volunteers, as they can provide valuable insights and stories about the abbey’s history that may not be available through the exhibits alone.
+Additionally, engage with the staff or volunteers, as they can provide valuable insights and stories about the abbey's history that may not be available through the exhibits alone.
 
 ## Practical Information
 

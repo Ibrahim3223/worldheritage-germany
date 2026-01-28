@@ -72,7 +72,7 @@ While Quedlinburg Abbey is a highlight, the surrounding area offers additional a
 
 To maximize your experience at Quedlinburg Abbey, consider visiting early in the day or later in the afternoon to avoid the larger crowds and enjoy a more peaceful atmosphere. Photography is often allowed; however, be mindful of any restrictions, particularly in sacred areas.
 
-Additionally, engaging in a guided tour can provide deeper insights into the abbey's history and architecture, enhancing your understanding of its significance. Don’t forget to take a moment to enjoy the surrounding gardens and outdoor spaces, as they offer a serene backdrop for reflection and relaxation.
+Additionally, engaging in a guided tour can provide deeper insights into the abbey's history and architecture, enhancing your understanding of its significance. Don't forget to take a moment to enjoy the surrounding gardens and outdoor spaces, as they offer a serene backdrop for reflection and relaxation.
 
 ## Practical Information
 

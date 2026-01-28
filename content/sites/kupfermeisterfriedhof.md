@@ -78,7 +78,7 @@ For visitors looking to make the most of their experience at Kupfermeisterfriedh
 
 ## Practical Information
 
-When planning your visit to Kupfermeisterfriedhof, it’s essential to consider a few practical aspects:
+When planning your visit to Kupfermeisterfriedhof, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as visitors will likely spend time walking through the cemetery. A small notebook or camera may also be useful for those wishing to jot down thoughts or capture memories.
 

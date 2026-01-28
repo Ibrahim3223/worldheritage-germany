@@ -44,7 +44,7 @@ The architectural remnants of Burg Degelstein embody the characteristics typical
 
 Visitors to Burg Degelstein can expect to see well-preserved sections of walls and other structural elements that offer a snapshot of medieval construction techniques. The layout of the castle likely included various functional spaces, such as living quarters, storage areas, and places for gatherings. The stonework, reflective of the craftsmanship of the era, can still be appreciated today, providing a tangible connection to the past.
 
-The site’s location also plays a crucial role in its architectural significance. Positioned strategically, it would have provided commanding views of the surrounding terrain, allowing for early detection of potential threats. This aspect of castle design underscores the dual purpose of fortifications: to defend and to survey.
+The site's location also plays a crucial role in its architectural significance. Positioned strategically, it would have provided commanding views of the surrounding terrain, allowing for early detection of potential threats. This aspect of castle design underscores the dual purpose of fortifications: to defend and to survey.
 
 ## Visiting Information
 
@@ -95,7 +95,7 @@ Check the official website for information on guided tours that may be available
 The best times to visit are during the spring and early autumn when the weather is mild and ideal for outdoor exploration.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided; it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility information is not provided; it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current options regarding ticket purchases and any potential discounts.

@@ -81,7 +81,7 @@ Seasonal considerations are also important; if visiting during colder months, dr
 A visit to the Friedhofskapelle Hagenbach typically takes about an hour, allowing time to explore the chapel and reflect on its significance.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and any ongoing activities.
+Photography is generally permitted, but it's advisable to be respectful of the space and any ongoing activities.
 
 ### Are there guided tours?
 Currently, there is no information provided regarding guided tours. For the most accurate details, check the official website.

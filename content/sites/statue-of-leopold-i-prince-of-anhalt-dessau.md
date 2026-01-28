@@ -64,7 +64,7 @@ While visiting the Statue of Leopold I, there are several nearby attractions tha
 
 3. **Brandenburg Gate**: This iconic symbol of Berlin is within walking distance and serves as a historical monument reflecting the city's tumultuous past.
 
-4. **Tiergarten**: A vast urban park that provides a tranquil escape from the city’s hustle, ideal for leisurely walks or picnics.
+4. **Tiergarten**: A vast urban park that provides a tranquil escape from the city's hustle, ideal for leisurely walks or picnics.
 
 5. **Reichstag Building**: The seat of the German Parliament, known for its impressive glass dome and historical significance, is a must-see nearby attraction.
 

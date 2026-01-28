@@ -42,7 +42,7 @@ Visitors to Sibyllenloch may find themselves reflecting on the relationship betw
 
 Sibyllenloch is characterized by its impressive geological features that highlight the complexity of cave formations. As visitors enter, they are greeted by a labyrinth of stalactites and stalagmites, each formed through the slow deposition of minerals over thousands of years. The cave's interior exhibits a range of textures and colors, showcasing the interplay of light and shadow as it filters through the openings in the rock.
 
-The architecture of Sibyllenloch is not just a display of natural beauty; it also reflects the dynamic processes that have shaped its existence. The varying shapes of the cave’s formations provide clues about the conditions present during its formation, including water flow and mineral content. As one traverses the cave, the acoustics create a unique auditory experience, with sounds echoing off the walls in a way that enhances the sense of exploration.
+The architecture of Sibyllenloch is not just a display of natural beauty; it also reflects the dynamic processes that have shaped its existence. The varying shapes of the cave's formations provide clues about the conditions present during its formation, including water flow and mineral content. As one traverses the cave, the acoustics create a unique auditory experience, with sounds echoing off the walls in a way that enhances the sense of exploration.
 
 Notable features within Sibyllenloch may include large chambers that host intriguing formations, as well as narrow passages that challenge visitors to navigate carefully. The cave's environment is also crucial for local biodiversity, serving as a habitat for various species, which can be observed in and around its entrances.
 
@@ -93,7 +93,7 @@ Accessibility information may vary; check the official website for details on wh
 It's advisable to check the official website for information on purchasing tickets, as options may vary.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s recommended to plan accordingly, especially if visiting with family.
+Facilities may be limited; it's recommended to plan accordingly, especially if visiting with family.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, as temperatures inside the cave can be cooler and the terrain uneven.

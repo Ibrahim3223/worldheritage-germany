@@ -72,13 +72,13 @@ A visit to the Aukrug church typically takes about 1 to 2 hours, allowing time f
 Photography policies can vary, so check the official website for specific guidelines regarding photography inside the church.
 
 ### Are there guided tours?
-Information about guided tours may be available on the official website. It’s worth checking ahead of your visit.
+Information about guided tours may be available on the official website. It's worth checking ahead of your visit.
 
 ### What's the best time to visit?
 Early morning or late afternoon is often the best time to visit for fewer crowds and optimal lighting conditions for photography.
 
 ### Is it wheelchair accessible?
-Accessibility information can be confirmed on the official website. It’s advisable to check for specific facilities available for wheelchair users.
+Accessibility information can be confirmed on the official website. It's advisable to check for specific facilities available for wheelchair users.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases, as this may vary throughout the year.

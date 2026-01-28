@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Marburger Kunstverein, located in the heart of Marburg, Germany, is an art museum that embodies a unique blend of contemporary creativity and local culture. As a voluntary association, it serves as a platform for artistic expression, fostering a dialogue between artists and the community. The museum’s commitment to showcasing innovative works provides visitors with a refreshing perspective on modern art, making it a significant cultural institution within the region.
+Marburger Kunstverein, located in the heart of Marburg, Germany, is an art museum that embodies a unique blend of contemporary creativity and local culture. As a voluntary association, it serves as a platform for artistic expression, fostering a dialogue between artists and the community. The museum's commitment to showcasing innovative works provides visitors with a refreshing perspective on modern art, making it a significant cultural institution within the region.
 
 Marburg, a city steeped in history and academia, adds to the allure of the Marburger Kunstverein. With its picturesque streets and vibrant atmosphere, the museum is ideally situated to attract both local residents and international travelers. The Kunstverein's exhibitions often feature emerging artists and experimental projects, making it a dynamic space for art enthusiasts. Whether you're an aficionado or a casual visitor, the museum promises an engaging experience that reflects the evolving landscape of contemporary art.
 
@@ -36,7 +36,7 @@ The Marburger Kunstverein stands not just as a gallery, but as a cultural hub th
 
 The Marburger Kunstverein operates as a voluntary association dedicated to the promotion of contemporary art. While specific dates of establishment are not provided, this association has played a significant role in cultivating the local art scene in Marburg. Its mission revolves around supporting artists and providing a platform for diverse artistic expressions.
 
-The museum’s significance extends beyond its exhibitions; it acts as a meeting point for artists, art lovers, and the community. This interaction fosters a sense of belonging and collaboration, essential for the growth of the cultural landscape in Marburg. The Kunstverein’s commitment to showcasing cutting-edge art forms stimulates discussions around contemporary themes and social issues, allowing visitors to engage with the art on a deeper level.
+The museum's significance extends beyond its exhibitions; it acts as a meeting point for artists, art lovers, and the community. This interaction fosters a sense of belonging and collaboration, essential for the growth of the cultural landscape in Marburg. The Kunstverein's commitment to showcasing cutting-edge art forms stimulates discussions around contemporary themes and social issues, allowing visitors to engage with the art on a deeper level.
 
 Over the years, the Marburger Kunstverein has become a vital part of the artistic community in the region. It has initiated various programs and events that encourage participation from the public, making art accessible to a wider audience. By bridging the gap between artists and the community, the Kunstverein plays an instrumental role in elevating the importance of contemporary art within cultural dialogues.
 
@@ -52,7 +52,7 @@ The museum's commitment to contemporary art is evident in its carefully curated 
 
 Visiting the Marburger Kunstverein is a straightforward experience, with several transportation options available for travelers. The museum is centrally located in Marburg, making it accessible by foot or public transport. Visitors can enjoy a leisurely stroll through the historic streets of the city while making their way to the museum.
 
-To make the most of your visit, it is essential to check the official website for current information on opening hours and ticket prices. The museum often hosts special exhibitions and events, so it’s beneficial to plan your visit accordingly.
+To make the most of your visit, it is essential to check the official website for current information on opening hours and ticket prices. The museum often hosts special exhibitions and events, so it's beneficial to plan your visit accordingly.
 
 Typically, visitors can expect to spend around one to two hours exploring the exhibitions at the Marburger Kunstverein. This timeframe allows for a thorough appreciation of the artworks on display, as well as time for reflection and interaction with any ongoing programs or activities.
 

@@ -42,7 +42,7 @@ Mondo mio! is designed with both functionality and child-friendly aesthetics in 
 
 The layout of Mondo mio! is intuitive, allowing visitors to navigate through various themed areas seamlessly. Each exhibit is thoughtfully designed to encourage interaction and engagement. From hands-on activities to immersive environments, the museum caters to different learning styles, ensuring that every child can find something that resonates with them.
 
-Notable features of Mondo mio! include interactive displays that promote collaborative play. These installations encourage children to work together, fostering social skills and teamwork. The museum also incorporates sensory elements, appealing to children’s curiosity and imagination.
+Notable features of Mondo mio! include interactive displays that promote collaborative play. These installations encourage children to work together, fostering social skills and teamwork. The museum also incorporates sensory elements, appealing to children's curiosity and imagination.
 
 Additionally, Mondo mio! offers designated spaces for workshops and educational programs. These areas are equipped with resources that support hands-on learning experiences, allowing parents and educators to participate actively in their children's exploration.
 
@@ -96,7 +96,7 @@ Parents might want to bring along a small backpack to carry any personal items a
 A visit to Mondo mio! typically takes around 2-3 hours, depending on how actively children engage with the exhibits.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas, but it’s advisable to check for specific restrictions upon arrival.
+Photography may be permitted in certain areas, but it's advisable to check for specific restrictions upon arrival.
 
 ### Are there guided tours?
 While the museum primarily focuses on self-directed exploration, check the official website for any scheduled guided tours or special programs.

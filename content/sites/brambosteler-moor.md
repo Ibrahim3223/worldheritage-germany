@@ -48,7 +48,7 @@ Additionally, Brambosteler Moor is traversed by a network of trails that allow v
 
 ## Visiting Information
 
-When planning a visit to Brambosteler Moor, it’s important to consider the best means of transportation. The reserve is accessible by car, with parking facilities available nearby. Public transport options may also be available, though it is advisable to check local schedules for the most current information.
+When planning a visit to Brambosteler Moor, it's important to consider the best means of transportation. The reserve is accessible by car, with parking facilities available nearby. Public transport options may also be available, though it is advisable to check local schedules for the most current information.
 
 Check the official website for current information on hours and prices, as these may vary seasonally. Upon arrival, visitors can expect a peaceful environment conducive to nature exploration. The reserve is suitable for a variety of activities, including walking, birdwatching, and photography. 
 

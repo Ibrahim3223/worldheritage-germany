@@ -72,7 +72,7 @@ While the Church in Unter Brüz is a destination in its own right, its location 
 
 To capture the Church in Unter Brüz in the best light, consider visiting during the golden hours of sunrise or sunset, when natural light enhances the church's features. For crowd avoidance, aim for mid-week visits, as weekends can attract more visitors, especially if special services or events are taking place.
 
-Make sure to bring a camera to document your visit, but be respectful of the sacred nature of the space. If attending a service, it’s advisable to keep noise to a minimum and be aware of the local customs regarding photography.
+Make sure to bring a camera to document your visit, but be respectful of the sacred nature of the space. If attending a service, it's advisable to keep noise to a minimum and be aware of the local customs regarding photography.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ Be sure to check the official website for any specific guidelines or recommendat
 A typical visit to the Church in Unter Brüz lasts around one to two hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check the official guidelines before taking photographs inside the church.
+Photography policies can vary. It's best to check the official guidelines before taking photographs inside the church.
 
 ### Are there guided tours?
 Currently, there is no specific information on guided tours. Visitors are encouraged to explore independently, but check for any scheduled events or tours.
@@ -97,7 +97,7 @@ Currently, there is no specific information on guided tours. Visitors are encour
 Mid-week visits are recommended for a quieter experience, with early mornings or late afternoons being particularly peaceful.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s advisable to check the official website or contact local representatives for specific accessibility information.
+Accessibility details are not specified. It's advisable to check the official website or contact local representatives for specific accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any potential entry fees.

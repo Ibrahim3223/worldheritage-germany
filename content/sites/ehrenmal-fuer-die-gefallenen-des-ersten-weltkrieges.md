@@ -105,7 +105,7 @@ Check the official website for information regarding accessibility options and a
 For details regarding tickets and any associated costs, it is best to consult the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited near the monument, so it’s a good idea to plan ahead and check the official website for nearby amenities.
+Facilities may be limited near the monument, so it's a good idea to plan ahead and check the official website for nearby amenities.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider seasonal weather factors when dressing for your visit.

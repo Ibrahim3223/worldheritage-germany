@@ -34,7 +34,7 @@ Visitors to Neuenburg Castle can expect an enriching experience filled with educ
 
 The history of Neuenburg Castle is intertwined with the development of Freyburg itself. Constructed to safeguard the region, the castle has witnessed numerous historical events and transformations throughout the centuries. Its strategic location allowed it to serve as both a military stronghold and a residence for nobility. The castle's significance extends beyond just its military role; it has been a center for governance and culture, reflecting the changing tides of power in the region.
 
-Neuenburg Castle has hosted various events and gatherings over the years, further embedding it into the local community's cultural fabric. The castle’s preservation as a museum signifies the importance of maintaining historical sites for future generations. Visitors can explore the exhibits that delve into the castle's role throughout history, offering insights into the lives of those who once inhabited its walls.
+Neuenburg Castle has hosted various events and gatherings over the years, further embedding it into the local community's cultural fabric. The castle's preservation as a museum signifies the importance of maintaining historical sites for future generations. Visitors can explore the exhibits that delve into the castle's role throughout history, offering insights into the lives of those who once inhabited its walls.
 
 ## Architecture and Features
 

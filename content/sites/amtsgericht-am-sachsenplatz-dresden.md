@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Amtsgericht am Sachsenplatz in Dresden is not only a functional courthouse but also an integral part of the city's architectural and civic landscape. Situated in the heart of Dresden, this courthouse serves as a hub for legal proceedings and embodies the historical narrative of the region. Its location reflects the city’s vibrant urban fabric, where law and order intersect with everyday life. As a visitor, you will find that this site offers a glimpse into the judicial processes that have shaped Saxony and, by extension, Germany as a whole. 
+The Amtsgericht am Sachsenplatz in Dresden is not only a functional courthouse but also an integral part of the city's architectural and civic landscape. Situated in the heart of Dresden, this courthouse serves as a hub for legal proceedings and embodies the historical narrative of the region. Its location reflects the city's vibrant urban fabric, where law and order intersect with everyday life. As a visitor, you will find that this site offers a glimpse into the judicial processes that have shaped Saxony and, by extension, Germany as a whole. 
 
-This courthouse provides a unique opportunity to understand the legal system in Germany while appreciating the architectural aesthetics that accompany such a significant civic structure. Though it may not be a traditional tourist attraction, its importance in the context of Dresden’s governance and public life cannot be understated. Whether you are exploring the city’s rich history or delving into its contemporary culture, a visit to the Amtsgericht am Sachsenplatz invites you to engage with a vital aspect of German society.
+This courthouse provides a unique opportunity to understand the legal system in Germany while appreciating the architectural aesthetics that accompany such a significant civic structure. Though it may not be a traditional tourist attraction, its importance in the context of Dresden's governance and public life cannot be understated. Whether you are exploring the city's rich history or delving into its contemporary culture, a visit to the Amtsgericht am Sachsenplatz invites you to engage with a vital aspect of German society.
 
 ## History and Significance
 
 The Amtsgericht am Sachsenplatz is a key institution within the legal framework of Dresden and the surrounding region. Courts like this one play a crucial role in maintaining the rule of law, offering a venue for civil and criminal cases. While specific historical details about the courthouse itself may not be readily available, the broader significance of such institutions in shaping societal norms and ensuring justice is undeniable.
 
-Dresden, with its rich cultural heritage, has always been a city of importance in Germany. The presence of the Amtsgericht reflects the city’s evolution as a center of governance and civic responsibility. Courts serve as a direct connection to the legal history of a nation, and the Amtsgericht is no exception. It stands as a symbol of the legal processes that have developed over centuries, influenced by the sociopolitical changes that have swept through the region.
+Dresden, with its rich cultural heritage, has always been a city of importance in Germany. The presence of the Amtsgericht reflects the city's evolution as a center of governance and civic responsibility. Courts serve as a direct connection to the legal history of a nation, and the Amtsgericht is no exception. It stands as a symbol of the legal processes that have developed over centuries, influenced by the sociopolitical changes that have swept through the region.
 
 The courthouse not only administers justice but also engages with the community. It is a site where citizens can witness the legal proceedings that affect their lives, thereby fostering a sense of accountability within the system. In addition, the courthouse is part of a network of legal institutions that uphold the values of democracy and human rights in Germany.
 
@@ -58,7 +58,7 @@ The best times to visit may vary based on court schedules, so it is advisable to
 
 While the Amtsgericht am Sachsenplatz serves a specific purpose, its location places it within reach of several notable attractions in Dresden. Here are a few nearby places worth exploring:
 
-1. **Dresden State Art Collections**: A cultural treasure trove, this collection includes some of the world’s most renowned artworks, providing a glimpse into the artistic heritage of the region.
+1. **Dresden State Art Collections**: A cultural treasure trove, this collection includes some of the world's most renowned artworks, providing a glimpse into the artistic heritage of the region.
 
 2. **Zwinger Palace**: Famous for its stunning architecture and gardens, Zwinger Palace is a must-see for anyone interested in baroque architecture and historical exhibitions.
 

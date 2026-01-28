@@ -72,15 +72,15 @@ While visiting the Georgi-Dimitroff-Museum, consider exploring other cultural an
 
 To ensure a fulfilling experience at the Georgi-Dimitroff-Museum, consider the following insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibits may have restrictions on capturing images. It’s best to ask staff if you’re unsure.
+- **Photography**: Check the museum's policy on photography, as some exhibits may have restrictions on capturing images. It's best to ask staff if you're unsure.
 
 - **Crowd Avoidance**: Aim to visit during early morning hours or late afternoons on weekdays to avoid larger crowds. This not only enhances your experience but also allows for better interaction with the exhibits.
 
 ## Practical Information
 
-When planning your visit to the Georgi-Dimitroff-Museum, it’s advisable to bring a few essentials. Comfortable footwear is recommended, as you may spend a considerable amount of time exploring the various exhibits. 
+When planning your visit to the Georgi-Dimitroff-Museum, it's advisable to bring a few essentials. Comfortable footwear is recommended, as you may spend a considerable amount of time exploring the various exhibits. 
 
-Seasonal considerations can also influence your visit. If traveling during colder months, be sure to dress warmly, as temperatures can drop significantly in Germany. Likewise, consider bringing a light jacket during the warmer months, as the museum’s interior may be cool. 
+Seasonal considerations can also influence your visit. If traveling during colder months, be sure to dress warmly, as temperatures can drop significantly in Germany. Likewise, consider bringing a light jacket during the warmer months, as the museum's interior may be cool. 
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ Seasonal considerations can also influence your visit. If traveling during colde
 A visit typically lasts around 2-3 hours to fully appreciate the exhibits and engage with the content.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as restrictions may apply to certain exhibits.
+Check the museum's policy on photography, as restrictions may apply to certain exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and the life of Georgi Dimitroff.

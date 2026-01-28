@@ -50,7 +50,7 @@ The Torhaus, as a gatehouse, not only provides a passage but also serves as a vi
 
 When planning a visit to Gut Rastorf: Torhaus, it is essential to consider accessibility and transport options. The site is located in the charming village of Rastorf, and visitors can reach it via various means of transport, including personal vehicles or public transportation. 
 
-Check the official website for current information regarding operating hours and any potential admission fees. As with many historical sites, it’s advisable to allocate sufficient time to explore the Torhaus and its surroundings. A visit may take approximately one to two hours, allowing for a leisurely exploration of the area.
+Check the official website for current information regarding operating hours and any potential admission fees. As with many historical sites, it's advisable to allocate sufficient time to explore the Torhaus and its surroundings. A visit may take approximately one to two hours, allowing for a leisurely exploration of the area.
 
 The best times to visit are often during the spring and summer months when the weather is pleasant, enhancing the overall experience of exploring the site. Additionally, weekends may see more visitors, so planning a trip during weekdays could provide a more tranquil experience.
 
@@ -86,10 +86,10 @@ Seasonal considerations are also important; if visiting during colder months, dr
 A visit to Gut Rastorf: Torhaus typically takes about one to two hours, depending on your interest in exploring the site and its surroundings.
 
 ### Is photography allowed?
-Generally, photography is allowed at the site, but it’s always good practice to check for any specific restrictions upon arrival.
+Generally, photography is allowed at the site, but it's always good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these can enhance your understanding of the site’s history and architecture.
+Check the official website for information on guided tours, as these can enhance your understanding of the site's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and summer months when the weather is most favorable, making outdoor exploration enjoyable.

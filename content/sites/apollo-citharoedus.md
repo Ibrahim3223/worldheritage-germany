@@ -88,7 +88,7 @@ When preparing for a visit to the Apollo Citharoedus, consider the following pra
 
 - **Seasonal Considerations**: The Antikensammlung is open year-round, but the best time to visit Berlin generally is during spring or early autumn when the weather is mild and pleasant.
 
-- **Personal Items**: It’s advisable to bring a light bag for personal items, as larger backpacks might not be allowed in the museum.
+- **Personal Items**: It's advisable to bring a light bag for personal items, as larger backpacks might not be allowed in the museum.
 
 ## Frequently Asked Questions
 

@@ -82,7 +82,7 @@ To avoid crowds, consider visiting during off-peak hours, such as early mornings
 
 When visiting Wieskirche, it is advisable to bring a camera, comfortable walking shoes, and perhaps a guidebook or map to enhance your understanding of the site. Seasonal considerations are also important; during the winter months, dress warmly as temperatures can be quite low.
 
-Check the official website for any seasonal events or special services that may enhance your visit. It’s also wise to have some cash on hand, as some local vendors may not accept cards.
+Check the official website for any seasonal events or special services that may enhance your visit. It's also wise to have some cash on hand, as some local vendors may not accept cards.
 
 ## Frequently Asked Questions
 

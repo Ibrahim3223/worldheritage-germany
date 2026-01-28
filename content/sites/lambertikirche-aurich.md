@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Aurich, Germany, the Lambertikirche stands as a significant landmark that embodies the historical and architectural essence of the region. This church building, with its storied past and unique design, offers visitors a glimpse into the cultural fabric of East Frisia. Situated at coordinates 53.469606, 7.478728, the Lambertikirche is not just a place of worship but also a center for community gatherings and cultural events, making it a vital part of local life.
 
-The Lambertikirche’s significance extends beyond its religious functions; it serves as a witness to the evolution of Aurich itself. As visitors explore this remarkable structure, they will uncover stories of the people and events that have shaped the town over the centuries. The church’s architecture and ambiance provide a reflective space for contemplation, making it a must-visit for anyone exploring the rich heritage of this part of Germany.
+The Lambertikirche's significance extends beyond its religious functions; it serves as a witness to the evolution of Aurich itself. As visitors explore this remarkable structure, they will uncover stories of the people and events that have shaped the town over the centuries. The church's architecture and ambiance provide a reflective space for contemplation, making it a must-visit for anyone exploring the rich heritage of this part of Germany.
 
 Whether you are drawn to its historical significance or simply wish to experience the serene atmosphere it offers, Lambertikirche Aurich promises an enriching experience for every traveler.
 

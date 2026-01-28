@@ -66,7 +66,7 @@ While Steinbruchsee is a destination in itself, there are several nearby attract
 
 4. **Giebichenstein Castle**: A short drive from Steinbruchsee, this historical castle provides panoramic views of the Saale River and surrounding landscapes, along with a glimpse into the region's past.
 
-5. **Saale River**: The river itself offers opportunities for boating and fishing, contributing to the area’s appeal for outdoor enthusiasts.
+5. **Saale River**: The river itself offers opportunities for boating and fishing, contributing to the area's appeal for outdoor enthusiasts.
 
 ## Insider Tips
 

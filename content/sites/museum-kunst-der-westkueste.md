@@ -61,8 +61,8 @@ As you prepare for your visit, be sure to consider the local climate, as Föhr e
 While visiting Museum Kunst der Westküste, consider exploring other attractions in Alkersum and the surrounding Föhr island:
 
 1. **Alkersum Village**: A charming village with traditional Frisian architecture, offering a glimpse into local life and culture.
-2. **Föhr Museum**: Located nearby, this museum provides insights into the island’s history, showcasing artifacts and exhibitions that highlight its maritime heritage.
-3. **St. John’s Church**: An architectural landmark in Alkersum, known for its beautiful interiors and historical significance within the community.
+2. **Föhr Museum**: Located nearby, this museum provides insights into the island's history, showcasing artifacts and exhibitions that highlight its maritime heritage.
+3. **St. John's Church**: An architectural landmark in Alkersum, known for its beautiful interiors and historical significance within the community.
 4. **The Beach**: Föhr's coastline offers stunning views and opportunities for leisurely walks or beach activities, making it an ideal spot to relax after a museum visit.
 5. **Local Nature Trails**: The island's natural beauty can be explored through several walking and cycling trails, providing a refreshing contrast to the cultural experience at the museum.
 
@@ -72,7 +72,7 @@ For those looking to maximize their experience at Museum Kunst der Westküste, c
 
 - **Photography**: Be mindful of the museum's policies regarding photography. While some areas may allow it, others might have restrictions.
 - **Crowd Avoidance**: Visiting during weekdays or in the early morning can help you avoid larger crowds, allowing for a more personal experience with the art.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibitions or artists. They often have valuable insights that can enrich your understanding of the works on display.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibitions or artists. They often have valuable insights that can enrich your understanding of the works on display.
 - **Take Your Time**: Allow yourself the time to absorb each piece fully. Rushing through the exhibits can diminish the overall experience.
 
 ## Practical Information

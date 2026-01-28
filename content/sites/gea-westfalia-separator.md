@@ -46,14 +46,14 @@ Visiting GEA Westfalia Separator can be an enlightening experience for those int
 
 While specific hours and ticket prices are not detailed here, potential visitors should verify these aspects on the official website before planning their visit. Expect to spend a few hours at the site to fully appreciate the operations and learn about the technologies employed.
 
-The best times to visit may vary, so checking the official website for current information on special events or guided tours can enhance the experience. These tours often provide deeper insights into the factory’s operations and its role within the GEA Group.
+The best times to visit may vary, so checking the official website for current information on special events or guided tours can enhance the experience. These tours often provide deeper insights into the factory's operations and its role within the GEA Group.
 
 ## Nearby Attractions
 
-While visiting GEA Westfalia Separator, there are several nearby attractions that offer additional insights into the region’s industrial heritage and cultural offerings:
+While visiting GEA Westfalia Separator, there are several nearby attractions that offer additional insights into the region's industrial heritage and cultural offerings:
 
 1. **Oelde Museum**: A local museum dedicated to the history and culture of Oelde, providing context to the industrial landscape.
-2. **St. John’s Church**: An architectural highlight in Oelde, this church is known for its historical significance and beautiful design.
+2. **St. John's Church**: An architectural highlight in Oelde, this church is known for its historical significance and beautiful design.
 3. **The Westphalian Industrial Museum**: Located nearby, this museum showcases the region's industrial past, offering exhibits on various manufacturing practices.
 4. **Local parks and recreation areas**: Perfect for a leisurely stroll or a picnic, these spaces provide a break from industrial exploration and a chance to enjoy the natural surroundings.
 
@@ -70,7 +70,7 @@ When preparing for your visit to GEA Westfalia Separator, consider bringing the 
 
 - **Comfortable footwear**: As you may be walking through various factory areas, comfortable shoes are a must.
 - **Weather-appropriate clothing**: Check the forecast and dress accordingly, as parts of the factory may be cooler or warmer than expected.
-- **Notepad or recording device**: If you’re keen on learning and documenting your experience, these tools can be helpful.
+- **Notepad or recording device**: If you're keen on learning and documenting your experience, these tools can be helpful.
 
 Be mindful of seasonal considerations, as factory operations may vary throughout the year. Check the official website for any seasonal events or changes in operations that could affect your visit.
 
@@ -80,7 +80,7 @@ Be mindful of seasonal considerations, as factory operations may vary throughout
 A visit to GEA Westfalia Separator typically requires a few hours to fully explore the facility and understand its operations.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions upon arrival.
+Photography policies may vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing valuable insights into the factory's operations and technology.
@@ -89,7 +89,7 @@ Guided tours may be available, providing valuable insights into the factory's op
 Weekdays and early mornings are often less crowded times to visit. Always check the official website for any special events.
 
 ### Is it wheelchair accessible?
-Accessibility features may be present, but it’s advisable to confirm specific details on the official website.
+Accessibility features may be present, but it's advisable to confirm specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options and availability.

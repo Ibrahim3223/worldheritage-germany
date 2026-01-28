@@ -46,7 +46,7 @@ St. Johannis-Kirche features distinct architectural elements typical of church b
 
 Visitors can expect to find traditional elements such as stained-glass windows, which often depict biblical scenes or saints, contributing to the church's spiritual ambiance. Additionally, the interior may include wooden pews, an altar, and other furnishings that enhance the worship experience. The church's design is intended to inspire reflection and devotion, providing a serene environment for visitors.
 
-St. Johannis-Kirche's exterior may exhibit characteristics common to churches in northern Germany, such as a prominent steeple or bell tower, which not only serves a functional purpose but also acts as a visual landmark for the community. The surrounding landscape likely complements the church’s architecture, creating a peaceful setting that invites contemplation and connection.
+St. Johannis-Kirche's exterior may exhibit characteristics common to churches in northern Germany, such as a prominent steeple or bell tower, which not only serves a functional purpose but also acts as a visual landmark for the community. The surrounding landscape likely complements the church's architecture, creating a peaceful setting that invites contemplation and connection.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ Reaching St. Johannis-Kirche is relatively straightforward for those traveling t
 
 When visiting the church, expect to find a calm and reflective atmosphere. The interior often welcomes guests with open arms, allowing for personal contemplation or quiet prayer. To fully appreciate the church and its significance, a visit may take around an hour, giving ample time to explore both the interior and the surrounding grounds.
 
-The best times to visit St. Johannis-Kirche are during weekdays when the church may be less crowded, providing a more intimate experience. Special services or community events may also take place throughout the year, which can offer unique opportunities for engagement with the church’s community.
+The best times to visit St. Johannis-Kirche are during weekdays when the church may be less crowded, providing a more intimate experience. Special services or community events may also take place throughout the year, which can offer unique opportunities for engagement with the church's community.
 
 ## Nearby Attractions
 
@@ -74,13 +74,13 @@ Exploring the area around St. Johannis-Kirche can enhance your visit, as several
 
 For capturing the essence of St. Johannis-Kirche through photography, consider visiting during the early morning or late afternoon when natural light enhances the building's features. The serene atmosphere also allows for quiet moments that can be beautifully documented. 
 
-To avoid crowds, aim for visits on weekdays rather than weekends, as Sundays may be busier due to regular services. Engaging with local community events or special services can also enrich your experience, so keep an eye on announcements or schedules posted on the church’s official website.
+To avoid crowds, aim for visits on weekdays rather than weekends, as Sundays may be busier due to regular services. Engaging with local community events or special services can also enrich your experience, so keep an eye on announcements or schedules posted on the church's official website.
 
 ## Practical Information
 
 When planning a visit to St. Johannis-Kirche, it's wise to bring a water bottle and perhaps a light snack, especially if you intend to explore the surrounding area. Seasonal considerations may affect your visit; for example, if you're traveling in winter, dress warmly as temperatures can drop. 
 
-Comfortable footwear is recommended for walking around the church and nearby attractions. Respectful attire is encouraged, given the church’s function as a place of worship. 
+Comfortable footwear is recommended for walking around the church and nearby attractions. Respectful attire is encouraged, given the church's function as a place of worship. 
 
 ## Frequently Asked Questions
 
@@ -100,7 +100,7 @@ Weekdays are often less crowded, making it an ideal time for a quieter visit. Sp
 Information about accessibility can be confirmed by checking the official website.
 
 ### Can I buy tickets online?
-Details regarding ticket availability and purchasing options can be found on the church’s official website.
+Details regarding ticket availability and purchasing options can be found on the church's official website.
 
 ### Are there restrooms and cafes?
 Check the official website for the most current information on amenities available on-site.

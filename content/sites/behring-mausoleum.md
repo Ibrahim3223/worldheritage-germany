@@ -103,13 +103,13 @@ Information on guided tours is not specified; check the official website for det
 The best times to visit the mausoleum are generally during spring and fall when the weather is pleasant, and the natural surroundings are vibrant.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided; it’s advisable to check the official website for details regarding wheelchair access at the mausoleum.
+Accessibility information is not provided; it's advisable to check the official website for details regarding wheelchair access at the mausoleum.
 
 ### Can I buy tickets online?
 For current ticket purchasing options and any associated fees, please check the official website for the most accurate information.
 
 ### Are there restrooms and cafes?
-Specific details about facilities such as restrooms or cafes are not mentioned; it’s best to inquire on-site or visit the official website for more information.
+Specific details about facilities such as restrooms or cafes are not mentioned; it's best to inquire on-site or visit the official website for more information.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather conditions, as you may be spending time outdoors.

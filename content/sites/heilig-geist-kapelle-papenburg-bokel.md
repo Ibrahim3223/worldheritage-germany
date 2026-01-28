@@ -64,15 +64,15 @@ If you find yourself in the vicinity of the Heilig-Geist-Kapelle, several nearby
 
 ## Insider Tips
 
-For those looking to capture the beauty of the Heilig-Geist-Kapelle through photography, early morning or late afternoon provides the best light for striking images. Make sure to consider the angles that highlight the chapel’s features against the backdrop of its tranquil surroundings.
+For those looking to capture the beauty of the Heilig-Geist-Kapelle through photography, early morning or late afternoon provides the best light for striking images. Make sure to consider the angles that highlight the chapel's features against the backdrop of its tranquil surroundings.
 
 To avoid crowds, visiting during weekdays or outside of major religious holidays is advisable. This allows for a more personal experience, whether you're there to reflect, pray, or simply admire the architecture.
 
 ## Practical Information
 
-When planning your visit to the Heilig-Geist-Kapelle, it’s wise to bring essentials such as water, comfortable walking shoes, and a camera for capturing the beauty of the site. Depending on the season, consider dressing in layers to accommodate changing weather conditions, as Germany can experience variable climates throughout the year.
+When planning your visit to the Heilig-Geist-Kapelle, it's wise to bring essentials such as water, comfortable walking shoes, and a camera for capturing the beauty of the site. Depending on the season, consider dressing in layers to accommodate changing weather conditions, as Germany can experience variable climates throughout the year.
 
-Additionally, it’s a good idea to check local guidelines and recommendations for visitors, particularly regarding any seasonal events or special services that may be occurring during your visit.
+Additionally, it's a good idea to check local guidelines and recommendations for visitors, particularly regarding any seasonal events or special services that may be occurring during your visit.
 
 ## Frequently Asked Questions
 

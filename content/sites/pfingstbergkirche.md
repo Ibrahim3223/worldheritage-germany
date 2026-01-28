@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Pfingstbergkirche, a notable church building located in Mannheim, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region. This church serves not only as a place of worship but also as a reflection of Mannheim’s historical evolution and the community's values. With its distinctive design and spiritual significance, Pfingstbergkirche stands prominently in the urban landscape, inviting both locals and travelers alike to come explore its serene surroundings and architectural beauty.
+Pfingstbergkirche, a notable church building located in Mannheim, Germany, offers visitors a glimpse into the architectural and cultural heritage of the region. This church serves not only as a place of worship but also as a reflection of Mannheim's historical evolution and the community's values. With its distinctive design and spiritual significance, Pfingstbergkirche stands prominently in the urban landscape, inviting both locals and travelers alike to come explore its serene surroundings and architectural beauty.
 
-Mannheim, situated at the confluence of the Rhine and Neckar rivers, is known for its grid-like street layout and vibrant cultural scene. The city’s blend of modernity and history is showcased in its various buildings, including Pfingstbergkirche. As a destination, it embodies the enduring spirit of the community while providing a peaceful retreat for reflection and contemplation amidst the hustle of urban life.
+Mannheim, situated at the confluence of the Rhine and Neckar rivers, is known for its grid-like street layout and vibrant cultural scene. The city's blend of modernity and history is showcased in its various buildings, including Pfingstbergkirche. As a destination, it embodies the enduring spirit of the community while providing a peaceful retreat for reflection and contemplation amidst the hustle of urban life.
 
 Visitors to Pfingstbergkirche can expect an enriching experience that combines architectural appreciation with a sense of tranquility. Whether you are exploring the church's intricate features, participating in a service, or simply enjoying the surrounding area, this site promises a meaningful encounter with both faith and history.
 
@@ -78,7 +78,7 @@ To avoid larger crowds, plan your visit during weekdays or earlier in the day. T
 
 ## Practical Information
 
-When visiting Pfingstbergkirche, it’s a good idea to bring a camera to capture the beautiful architecture and serene surroundings. Additionally, dress comfortably, as you may want to explore the area surrounding the church.
+When visiting Pfingstbergkirche, it's a good idea to bring a camera to capture the beautiful architecture and serene surroundings. Additionally, dress comfortably, as you may want to explore the area surrounding the church.
 
 Seasonal considerations can affect your visit; in warmer months, the surrounding gardens and outdoor spaces may be particularly inviting. Conversely, during colder months, check for any seasonal events or decorative elements that could enhance your experience.
 
@@ -88,7 +88,7 @@ Seasonal considerations can affect your visit; in warmer months, the surrounding
 A visit to Pfingstbergkirche typically lasts about one hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the guidelines upon arrival.
+Photography policies can vary, so it's best to check the guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

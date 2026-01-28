@@ -34,7 +34,7 @@ The origins of Villa Schminke reflect a time of transformation in the early 20th
 
 Throughout its history, the villa has played a significant role in the community, serving various purposes that echo the evolving needs of the region. As a museum today, it provides insight into the architectural movements of its time, offering a glimpse into the cultural narratives that shaped Löbau. The site stands as an important reference point for understanding the socio-economic conditions of the era, as well as the artistic movements that influenced its design. 
 
-The significance of Villa Schminke extends beyond its physical structure; it embodies a broader cultural ethos that prioritizes innovation and the merging of styles. As such, it serves as an essential destination for those interested in architecture, history, and the arts, making it a vital landmark in Germany’s rich cultural landscape.
+The significance of Villa Schminke extends beyond its physical structure; it embodies a broader cultural ethos that prioritizes innovation and the merging of styles. As such, it serves as an essential destination for those interested in architecture, history, and the arts, making it a vital landmark in Germany's rich cultural landscape.
 
 ## Architecture and Features
 

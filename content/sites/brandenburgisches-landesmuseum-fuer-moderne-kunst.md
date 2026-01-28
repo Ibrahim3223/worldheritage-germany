@@ -80,7 +80,7 @@ To enhance your experience at the Brandenburgisches Landesmuseum für moderne Ku
 
 - **Crowd Avoidance**: If possible, visit during weekday mornings or late afternoons, as these times may see fewer visitors, allowing you to enjoy the exhibits more peacefully.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about current exhibitions or recommendations for what to see; their insights can enrich your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff about current exhibitions or recommendations for what to see; their insights can enrich your visit.
 
 ## Practical Information
 

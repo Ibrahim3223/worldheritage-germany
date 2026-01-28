@@ -44,7 +44,7 @@ The tasting room, a key feature of many breweries, provides an opportunity for v
 
 Reaching Caspary-Brauerei is relatively straightforward, especially given its location in Trier, a city well-connected by public transportation. The brewery is accessible via local bus routes, and those traveling by car can find parking nearby. Given the urban setting, walking or cycling can also be good options for those staying in the heart of Trier.
 
-When planning your visit, it’s advisable to check the official website for current information regarding operating hours and any potential admission fees. The brewery often welcomes visitors for tours and tastings, providing an engaging experience where guests can learn about the brewing process from knowledgeable staff.
+When planning your visit, it's advisable to check the official website for current information regarding operating hours and any potential admission fees. The brewery often welcomes visitors for tours and tastings, providing an engaging experience where guests can learn about the brewing process from knowledgeable staff.
 
 As a general guideline, visitors should anticipate spending around one to two hours at the brewery, which allows ample time for a guided tour, tastings, and perhaps some time to relax in the tasting room. The best times to visit are typically during the afternoon when tours are more frequently offered, although weekends may see larger crowds.
 
@@ -52,7 +52,7 @@ As a general guideline, visitors should anticipate spending around one to two ho
 
 Several attractions near Caspary-Brauerei enrich the visitor experience, making it easy to combine a brewery visit with an exploration of Trier's historical and cultural offerings. A few noteworthy nearby sites include:
 
-1. **Porta Nigra**: This iconic Roman city gate is one of Trier’s most famous landmarks, showcasing impressive Roman architecture and history.
+1. **Porta Nigra**: This iconic Roman city gate is one of Trier's most famous landmarks, showcasing impressive Roman architecture and history.
    
 2. **Trier Cathedral (Dom St. Peter)**: A UNESCO World Heritage site, this cathedral is known for its stunning architecture and rich history, dating back to the 4th century.
    
@@ -66,7 +66,7 @@ Several attractions near Caspary-Brauerei enrich the visitor experience, making 
 
 To make the most of your visit to Caspary-Brauerei, consider these insider tips:
 
-- **Photography**: While photography is often encouraged, it’s wise to ask staff about any restrictions, especially in production areas.
+- **Photography**: While photography is often encouraged, it's wise to ask staff about any restrictions, especially in production areas.
 - **Crowd Avoidance**: Weekends and public holidays tend to attract more visitors. For a quieter experience, consider visiting on weekdays or during non-peak hours.
 - **Tasting Experience**: Take your time during tastings. Engaging with staff about the brewing process can enhance your understanding and appreciation of the beers.
 
@@ -84,7 +84,7 @@ When visiting Caspary-Brauerei, it's helpful to bring a few essentials:
 Visitors typically spend around one to two hours at the brewery, which allows time for a tour and tastings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check with staff, particularly in production areas.
+Photography is generally permitted, but it's best to check with staff, particularly in production areas.
 
 ### Are there guided tours?
 Yes, Caspary-Brauerei often offers guided tours that provide insights into the brewing process.
@@ -93,7 +93,7 @@ Yes, Caspary-Brauerei often offers guided tours that provide insights into the b
 Weekdays and non-peak hours are ideal for a quieter experience, while afternoon visits may offer more frequent tour options.
 
 ### Is it wheelchair accessible?
-Accessibility details aren't specified, so it’s advisable to check directly with the brewery for information on facilities.
+Accessibility details aren't specified, so it's advisable to check directly with the brewery for information on facilities.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchasing options.

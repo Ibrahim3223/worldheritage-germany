@@ -58,7 +58,7 @@ Check the official website for current information regarding visiting hours and 
 
 When planning your visit, set aside approximately 30 minutes to an hour to fully appreciate the church and its surroundings. This timeframe allows for a leisurely exploration of the interior, as well as a moment for quiet reflection or prayer.
 
-The best times to visit generally align with the early morning or late afternoon, when the light casts a warm glow on the church’s features. Additionally, participating in a service can provide a unique insight into the community’s traditions and rituals.
+The best times to visit generally align with the early morning or late afternoon, when the light casts a warm glow on the church's features. Additionally, participating in a service can provide a unique insight into the community's traditions and rituals.
 
 ## Nearby Attractions
 
@@ -77,7 +77,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak hours, par
 
 ## Practical Information
 
-When visiting the Church in Schmarsow, it’s advisable to bring along a camera for capturing memories, as well as a small notebook if you wish to jot down thoughts or reflections. Comfortable footwear will enhance your experience, especially if you plan to explore the surrounding area.
+When visiting the Church in Schmarsow, it's advisable to bring along a camera for capturing memories, as well as a small notebook if you wish to jot down thoughts or reflections. Comfortable footwear will enhance your experience, especially if you plan to explore the surrounding area.
 
 Seasonal considerations are important; the church may be especially inviting during spring and summer when the weather is pleasant for outdoor activities. However, winter can bring its own charm, with possible holiday decorations enhancing the church's appeal.
 

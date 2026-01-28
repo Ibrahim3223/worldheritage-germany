@@ -28,7 +28,7 @@ image_srcset:
 
 Gutshirche Schönfeld stands as an integral piece of the architectural and cultural heritage of Bismark, Saxony-Anhalt, Germany. This church building not only serves as a place of worship but also as a reflection of the region's historical journey and community values. The church's origins and its role within the local populace give insight into the spiritual and social fabric of the area. Visitors to Schönfeld are welcomed into a serene environment that encourages reflection and appreciation for both the spiritual and historical narratives encapsulated within its walls.
 
-Located at coordinates 52.6164, 11.7356, Gutskirche Schönfeld is positioned in a region known for its rich cultural landscape. The church's architecture and its surroundings foster a connection to the community’s past, drawing in those who are curious about the evolution of religious structures in Germany. With its significant cultural backdrop, the church promises an enlightening experience for visitors interested in heritage, architecture, and local history.
+Located at coordinates 52.6164, 11.7356, Gutskirche Schönfeld is positioned in a region known for its rich cultural landscape. The church's architecture and its surroundings foster a connection to the community's past, drawing in those who are curious about the evolution of religious structures in Germany. With its significant cultural backdrop, the church promises an enlightening experience for visitors interested in heritage, architecture, and local history.
 
 ## History and Significance
 

@@ -48,7 +48,7 @@ In addition to its physical resources, the library often incorporates modern tec
 
 ## Visiting Information
 
-Planning a visit to the Research Library for the History of Education is an exciting opportunity for educators, students, and researchers alike. To reach the library, visitors can utilize Berlin’s extensive public transport network, which includes buses and trains that connect to various parts of the city.
+Planning a visit to the Research Library for the History of Education is an exciting opportunity for educators, students, and researchers alike. To reach the library, visitors can utilize Berlin's extensive public transport network, which includes buses and trains that connect to various parts of the city.
 
 Before your visit, check the official website for current information regarding opening hours and any admission fees that may apply. The library typically welcomes visitors throughout the week, and it is advisable to allocate adequate time for exploration—perhaps several hours—to fully appreciate the breadth of resources available.
 
@@ -60,7 +60,7 @@ While visiting the Research Library for the History of Education, consider explo
 
 1. **DIPF Leibniz Institute**: As the parent institution of the library, the institute offers additional resources and exhibitions related to education research.
    
-2. **Berlin Wall Memorial**: A short distance away, this memorial provides insights into the city’s history during the Cold War, highlighting the impact on education and society.
+2. **Berlin Wall Memorial**: A short distance away, this memorial provides insights into the city's history during the Cold War, highlighting the impact on education and society.
    
 3. **Museum für Naturkunde (Natural History Museum)**: This museum houses an impressive collection of exhibits, including a vast array of fossils and the famous dinosaur skeletons, providing a different perspective on history.
    
@@ -94,7 +94,7 @@ As seasons change, keep in mind that Berlin's weather can vary. Dress in layers 
 Visitors typically find that spending several hours allows for a thorough exploration of the library's resources.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to verify upon arrival.
+Photography policies may vary, so it's best to verify upon arrival.
 
 ### Are there guided tours?
 Currently, guided tours are not specified; check with the library for any available options.

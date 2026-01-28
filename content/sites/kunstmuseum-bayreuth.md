@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Bayreuth, Germany, the Kunstmuseum Bayreuth presents a compelling exploration of modern art, serving as a cultural hub within Bavaria. This museum is dedicated to the appreciation and exhibition of contemporary artistic expressions, making it a significant stop for art enthusiasts and casual visitors alike. Located strategically within the city, the museum is not only a space for viewing art but also a venue for engaging the community through various programs and events. 
 
-The significance of Kunstmuseum Bayreuth extends beyond its collections; it plays a vital role in the cultural landscape of the region, encouraging dialogue around modern art. Visitors can expect to encounter a diverse range of artworks that challenge perceptions and foster appreciation for contemporary creativity. The museum’s commitment to showcasing both established and emerging artists ensures that there is always something new and thought-provoking to discover.
+The significance of Kunstmuseum Bayreuth extends beyond its collections; it plays a vital role in the cultural landscape of the region, encouraging dialogue around modern art. Visitors can expect to encounter a diverse range of artworks that challenge perceptions and foster appreciation for contemporary creativity. The museum's commitment to showcasing both established and emerging artists ensures that there is always something new and thought-provoking to discover.
 
 As you plan your visit, anticipate an enriching experience that invites reflection and dialogue, all set against the backdrop of Bayreuth's vibrant atmosphere.
 
@@ -40,7 +40,7 @@ In a world increasingly driven by technological advancement and changing social 
 
 Kunstmuseum Bayreuth serves a dual purpose: as a gallery for exhibiting modern art and as an educational institution that invites visitors to participate in workshops, lectures, and events centered around artistic expression. This commitment to education underscores the museum's role in cultivating an appreciation for modern art within the community, making it a crucial part of Bayreuth's cultural fabric.
 
-The museum’s engagement with both local and international artists emphasizes its significance as a cultural conduit, bridging the gap between traditional art forms and contemporary practices. By providing a space where art can be both created and exhibited, Kunstmuseum Bayreuth nurtures a vibrant artistic community that continues to evolve.
+The museum's engagement with both local and international artists emphasizes its significance as a cultural conduit, bridging the gap between traditional art forms and contemporary practices. By providing a space where art can be both created and exhibited, Kunstmuseum Bayreuth nurtures a vibrant artistic community that continues to evolve.
 
 ## Architecture and Features
 
@@ -68,15 +68,15 @@ While visiting Kunstmuseum Bayreuth, take the opportunity to explore the surroun
 
 1. **Bayreuth Festspielhaus**: Renowned for its annual Richard Wagner Festival, this opera house is a masterpiece of 19th-century architecture and a must-visit for music lovers.
 
-2. **Wilhelmina’s Palace (Wilhelminenaus)**: This stunning palace offers lush gardens and beautiful architecture, ideal for a leisurely stroll after your museum visit.
+2. **Wilhelmina's Palace (Wilhelminenaus)**: This stunning palace offers lush gardens and beautiful architecture, ideal for a leisurely stroll after your museum visit.
 
 3. **New Palace (Neues Schloss)**: A historical baroque palace featuring exquisite interiors and expansive grounds that invite exploration.
 
 4. **Eremitage Bayreuth**: A beautiful park with palatial buildings, gardens, and fountains, providing a serene setting for relaxation and reflection.
 
-5. **Bayreuth’s Market Square**: The lively heart of the city, where visitors can enjoy local shops, cafes, and seasonal markets.
+5. **Bayreuth's Market Square**: The lively heart of the city, where visitors can enjoy local shops, cafes, and seasonal markets.
 
-These attractions offer a delightful complement to your experience at Kunstmuseum Bayreuth, enriching your understanding of Bayreuth’s cultural heritage.
+These attractions offer a delightful complement to your experience at Kunstmuseum Bayreuth, enriching your understanding of Bayreuth's cultural heritage.
 
 ## Insider Tips
 

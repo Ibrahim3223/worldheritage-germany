@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gedenkstätte Münchner Platz Dresden serves as a poignant memorial and museum dedicated to the victims of political repression during the Nazi regime. Located in the heart of Dresden, this site offers an essential reflection on the historical events that shaped Germany’s past during some of its darkest times. The memorial not only honors the lives lost but also educates visitors about the broader implications of totalitarianism and the importance of safeguarding human rights. 
+Gedenkstätte Münchner Platz Dresden serves as a poignant memorial and museum dedicated to the victims of political repression during the Nazi regime. Located in the heart of Dresden, this site offers an essential reflection on the historical events that shaped Germany's past during some of its darkest times. The memorial not only honors the lives lost but also educates visitors about the broader implications of totalitarianism and the importance of safeguarding human rights. 
 
 Dresden, known for its stunning architecture and vibrant culture, is also a city that bears the scars of its tumultuous history. The Gedenkstätte Münchner Platz is particularly significant as it stands on the former site of a police prison that held countless individuals during the Nazi era. The museum presents an opportunity to understand the resilience of the human spirit in the face of oppression, making it a crucial stop for those interested in exploring the complex layers of Germany's historical narrative.
 
@@ -70,7 +70,7 @@ After visiting Gedenkstätte Münchner Platz, consider exploring some of the nea
 
 4. **Semperoper** - This opera house is celebrated for its architectural beauty and rich musical heritage, offering performances of opera, ballet, and concerts throughout the year.
 
-5. **Elbe River Promenade** - Enjoy a leisurely stroll along the banks of the Elbe, where you can take in views of the city’s skyline and relax in one of the many parks.
+5. **Elbe River Promenade** - Enjoy a leisurely stroll along the banks of the Elbe, where you can take in views of the city's skyline and relax in one of the many parks.
 
 ## Insider Tips
 
@@ -98,7 +98,7 @@ When planning your visit to Gedenkstätte Münchner Platz, consider the followin
 A visit typically takes about 1-2 hours, allowing enough time to engage with the exhibits and reflect on the stories presented.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check the specific guidelines at the memorial before taking pictures.
+Photography policies may vary; it's best to check the specific guidelines at the memorial before taking pictures.
 
 ### Are there guided tours?
 Check the official website for information on guided tours and any special programs that may be available during your visit.

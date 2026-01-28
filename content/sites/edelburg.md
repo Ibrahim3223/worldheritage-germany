@@ -28,7 +28,7 @@ image_srcset:
 
 Edelburg is a striking manor house located in Hemer, Germany, that captures the essence of historical architecture and human settlement in this picturesque region. While the specific origins of the manor remain elusive, it represents an integral part of the local heritage and cultural narrative. Visitors to Edelburg will find a unique glimpse into the architectural styles and domestic life of past eras, making it a significant destination for those interested in historical exploration.
 
-Set against the backdrop of Germany's diverse landscapes, Edelburg offers a serene setting that invites reflection and exploration. With its intriguing design and historical context, this manor house serves as a poignant reminder of the area’s evolution over time. Whether you’re an architecture enthusiast, a history buff, or simply seeking a tranquil place to unwind, Edelburg promises a memorable experience imbued with cultural significance.
+Set against the backdrop of Germany's diverse landscapes, Edelburg offers a serene setting that invites reflection and exploration. With its intriguing design and historical context, this manor house serves as a poignant reminder of the area's evolution over time. Whether you're an architecture enthusiast, a history buff, or simply seeking a tranquil place to unwind, Edelburg promises a memorable experience imbued with cultural significance.
 
 ## History and Significance
 

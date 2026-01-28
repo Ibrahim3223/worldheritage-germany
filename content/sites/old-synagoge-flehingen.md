@@ -44,7 +44,7 @@ The Old Synagogue is an example of 18th-century architectural style, reflecting 
 
 Historically, synagogues were designed to accommodate not only worship but also community activities, and the layout of the Old Synagogue would have reflected this dual purpose. The building likely included spaces for religious study and gatherings, showcasing the integral role of education in Jewish life.
 
-The synagogue's materials, construction techniques, and stylistic features would have been representative of the local building traditions of the time, contributing to its cultural and historical importance. Even though the structure no longer exists, the stories and memories associated with it remain a vital part of the community’s identity.
+The synagogue's materials, construction techniques, and stylistic features would have been representative of the local building traditions of the time, contributing to its cultural and historical importance. Even though the structure no longer exists, the stories and memories associated with it remain a vital part of the community's identity.
 
 ## Visiting Information
 
@@ -107,7 +107,7 @@ Since the Old Synagogue has been demolished, accessibility considerations would 
 There are no tickets to purchase for the Old Synagogue, but check local resources for any events related to Jewish heritage that may require tickets.
 
 ### Are there restrooms and cafes?
-While specific facilities may vary, Oberderdingen offers local cafés and public restrooms. It’s advisable to check in advance or carry essentials.
+While specific facilities may vary, Oberderdingen offers local cafés and public restrooms. It's advisable to check in advance or carry essentials.
 
 ### What should I wear?
 Dress comfortably and respectfully, considering the historical and cultural significance of the area. Layers are recommended to accommodate changing weather.

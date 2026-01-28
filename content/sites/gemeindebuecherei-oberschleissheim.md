@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Oberschleißheim, Germany, the Gemeindebücherei Oberschleißheim serves as a vital cultural and educational resource. This library is not just a repository of books but a community hub where knowledge is shared and creativity is fostered. The library's commitment to promoting literacy and lifelong learning is reflected in its diverse collection and various programs designed for people of all ages. With its convenient location and welcoming atmosphere, the Gemeindebücherei offers visitors a unique opportunity to engage with the local culture and enhance their understanding of the region’s educational landscape.
+In the heart of Oberschleißheim, Germany, the Gemeindebücherei Oberschleißheim serves as a vital cultural and educational resource. This library is not just a repository of books but a community hub where knowledge is shared and creativity is fostered. The library's commitment to promoting literacy and lifelong learning is reflected in its diverse collection and various programs designed for people of all ages. With its convenient location and welcoming atmosphere, the Gemeindebücherei offers visitors a unique opportunity to engage with the local culture and enhance their understanding of the region's educational landscape.
 
 The library is situated within the picturesque town of Oberschleißheim, a locale enriched by its historical significance and beautiful surroundings. As you explore this vibrant community, the Gemeindebücherei stands out as a cornerstone for intellectual growth and cultural exchange. Whether you are a resident or a traveler, a visit to this library promises a rewarding experience that highlights the importance of community and the pursuit of knowledge.
 
@@ -38,7 +38,7 @@ While specific architectural details of the Gemeindebücherei Oberschleißheim a
 
 Inside, libraries often include dedicated sections for various age groups, ensuring that everyone from young children to adults can find materials that cater to their interests and learning levels. The atmosphere is generally conducive to quiet study, with comfortable seating and well-organized shelving. 
 
-In addition to the physical collection of books, the library may also offer access to digital resources and multimedia materials, reflecting the evolving nature of information consumption. Community bulletin boards and event spaces may further enhance the library’s role as a gathering place for local residents.
+In addition to the physical collection of books, the library may also offer access to digital resources and multimedia materials, reflecting the evolving nature of information consumption. Community bulletin boards and event spaces may further enhance the library's role as a gathering place for local residents.
 
 ## Visiting Information
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Gemeindebücherei Oberschleißheim, conside
 A visit of about two hours allows ample time to explore the library's collection and engage with staff or activities.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the library’s guidelines regarding photography before your visit.
+Photography policies can vary, so it's best to check the library's guidelines regarding photography before your visit.
 
 ### Are there guided tours?
 Currently, specific information about guided tours is not available. Check the official website for updates on any available programs.

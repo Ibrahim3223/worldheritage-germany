@@ -34,7 +34,7 @@ The Schulgarten is more than just a collection of plants; it represents an impor
 
 While specific historical details may be limited, the Schulgarten Lübeck holds a notable place in the cultural fabric of the region. Botanical gardens have historically served as sites for research, education, and conservation, contributing significantly to our understanding of plant species and their habitats. In Lübeck, the Schulgarten plays a vital role in fostering a connection between the community and the natural environment.
 
-Throughout its existence, the garden has likely been a hub for botanical studies and educational programs, helping to raise awareness about the importance of biodiversity and sustainable practices. The garden’s commitment to conservation and education reflects broader trends in environmental awareness, making it a relevant and important site for both historical and contemporary discussions about ecology.
+Throughout its existence, the garden has likely been a hub for botanical studies and educational programs, helping to raise awareness about the importance of biodiversity and sustainable practices. The garden's commitment to conservation and education reflects broader trends in environmental awareness, making it a relevant and important site for both historical and contemporary discussions about ecology.
 
 The Schulgarten also serves as a venue for various events and community initiatives, further solidifying its role in the local culture. These activities not only enhance community engagement but also promote the garden's mission to educate visitors about the importance of preserving plant diversity.
 
@@ -66,7 +66,7 @@ Lübeck is rich in cultural heritage and offers several attractions in close pro
 
 4. **The Holstentor**: A prominent symbol of Lübeck, this historic city gate is an iconic example of medieval fortification architecture.
 
-5. **Old Town**: A UNESCO World Heritage Site, Lübeck’s Old Town is characterized by its well-preserved medieval buildings and charming streets, perfect for leisurely exploration.
+5. **Old Town**: A UNESCO World Heritage Site, Lübeck's Old Town is characterized by its well-preserved medieval buildings and charming streets, perfect for leisurely exploration.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ Consider bringing a notebook or sketchbook if you enjoy documenting your observa
 
 When visiting the Schulgarten Lübeck, it's advisable to wear comfortable shoes, as exploring the garden may involve walking along paths and trails. Depending on the season, bringing layers of clothing can help ensure comfort, as temperatures can fluctuate throughout the day.
 
-Remember to prepare for varying weather conditions, especially if you plan to spend extended time outdoors. Additionally, consider bringing a water bottle to stay hydrated, particularly during warmer months, and perhaps a snack to enjoy in one of the garden’s peaceful spots.
+Remember to prepare for varying weather conditions, especially if you plan to spend extended time outdoors. Additionally, consider bringing a water bottle to stay hydrated, particularly during warmer months, and perhaps a snack to enjoy in one of the garden's peaceful spots.
 
 ## Frequently Asked Questions
 
@@ -101,7 +101,7 @@ Accessibility may vary; check the official website for specific information on w
 For the most current information on ticket purchasing options, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and potential cafés may be available; it’s best to confirm on the official website.
+Facilities such as restrooms and potential cafés may be available; it's best to confirm on the official website.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and dress in layers to accommodate changing weather conditions.

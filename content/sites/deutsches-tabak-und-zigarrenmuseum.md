@@ -60,9 +60,9 @@ Be sure to check the official website for any seasonal considerations, as certai
 
 While visiting the Deutsches Tabak- und Zigarrenmuseum, consider exploring additional attractions in Bünde and its surroundings:
 
-1. **Museum Bünde**: A local museum that may offer insights into the town’s broader history and culture, complementing your visit to the tobacco museum.
+1. **Museum Bünde**: A local museum that may offer insights into the town's broader history and culture, complementing your visit to the tobacco museum.
 
-2. **St. Stephen’s Church**: An architectural landmark in Bünde, this church provides a glimpse into the town’s religious heritage.
+2. **St. Stephen's Church**: An architectural landmark in Bünde, this church provides a glimpse into the town's religious heritage.
 
 3. **Nature Reserves**: The surrounding areas of Bünde may feature parks and nature reserves, ideal for a leisurely stroll or a picnic after your museum visit.
 

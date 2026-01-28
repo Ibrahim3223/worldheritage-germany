@@ -67,9 +67,9 @@ These nearby sites complement the visit to Karl-Friedrich-Gedächtniskirche, pro
 
 ## Insider Tips
 
-When visiting Karl-Friedrich-Gedächtniskirche, consider bringing a camera for capturing the architectural details and artistic elements within the church. However, be respectful of any signs regarding photography, especially during services or events. Additionally, visiting during off-peak hours can enhance your experience, allowing for a more intimate atmosphere to appreciate the church’s beauty.
+When visiting Karl-Friedrich-Gedächtniskirche, consider bringing a camera for capturing the architectural details and artistic elements within the church. However, be respectful of any signs regarding photography, especially during services or events. Additionally, visiting during off-peak hours can enhance your experience, allowing for a more intimate atmosphere to appreciate the church's beauty.
 
-If you have the opportunity, engage with local congregants or staff, as they can provide personal insights and stories that enrich your understanding of the church’s role in the community.
+If you have the opportunity, engage with local congregants or staff, as they can provide personal insights and stories that enrich your understanding of the church's role in the community.
 
 ## Practical Information
 

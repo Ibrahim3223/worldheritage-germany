@@ -28,7 +28,7 @@ image_srcset:
 
 Museum Ostwall in Dortmund, Germany, stands as a significant cultural institution dedicated to the appreciation and promotion of modern and contemporary art. Situated in the heart of this vibrant city, the museum offers visitors an engaging insight into the evolution and diversity of artistic expression from the late 19th century to the present day. With a collection that emphasizes various movements and styles, Museum Ostwall serves not only as a repository of artistic achievement but also as a vibrant platform for artistic dialogue and education. 
 
-As a prominent player in Germany’s art scene, Museum Ostwall is part of the broader cultural landscape of Dortmund, a city known for its industrial heritage and contemporary advancements. Visitors to the museum can expect to encounter a dynamic array of exhibitions and programs that challenge perceptions and inspire creativity, making it a must-visit for art enthusiasts and casual visitors alike.
+As a prominent player in Germany's art scene, Museum Ostwall is part of the broader cultural landscape of Dortmund, a city known for its industrial heritage and contemporary advancements. Visitors to the museum can expect to encounter a dynamic array of exhibitions and programs that challenge perceptions and inspire creativity, making it a must-visit for art enthusiasts and casual visitors alike.
 
 ## History and Significance
 

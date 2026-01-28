@@ -42,7 +42,7 @@ Additionally, the museum often collaborates with educational institutions and co
 
 The physical structure of the Städtische Galerie Lehrte reflects a modern architectural approach, emphasizing openness and accessibility. While precise architectural details are not provided, the design is likely to feature clean lines and an inviting façade that draws visitors in. The interior is designed to accommodate a variety of exhibitions, allowing for flexible layouts that can adapt to the needs of different displays.
 
-The gallery’s spaces are likely to be bright and airy, enhancing the experience of viewing artwork. Natural light may play a significant role in illuminating the pieces on display, creating an inviting atmosphere that encourages extended exploration. The layout typically facilitates a smooth flow between different exhibition areas, allowing visitors to immerse themselves in the artistic experience without feeling rushed.
+The gallery's spaces are likely to be bright and airy, enhancing the experience of viewing artwork. Natural light may play a significant role in illuminating the pieces on display, creating an inviting atmosphere that encourages extended exploration. The layout typically facilitates a smooth flow between different exhibition areas, allowing visitors to immerse themselves in the artistic experience without feeling rushed.
 
 While specific features of the museum are not listed, visitors can expect to find well-curated exhibition spaces that highlight the works of both local and international artists. The gallery likely includes areas dedicated to educational programming, where workshops and community events can take place, further enriching the visitor experience.
 
@@ -58,7 +58,7 @@ For those planning a visit, consider going during off-peak hours to enhance your
 
 After visiting the Städtische Galerie Lehrte, there are several nearby attractions worth exploring:
 
-1. **Lehrte Town Hall**: A notable building that reflects the local architecture and history, providing insight into the town’s governance and community life.
+1. **Lehrte Town Hall**: A notable building that reflects the local architecture and history, providing insight into the town's governance and community life.
 
 2. **The Old Town of Lehrte**: A charming area featuring traditional buildings and local shops, perfect for a leisurely stroll.
 
@@ -72,7 +72,7 @@ After visiting the Städtische Galerie Lehrte, there are several nearby attracti
 
 To make the most of your visit to the Städtische Galerie Lehrte, consider these insider tips:
 
-- **Photography**: Always check the museum’s policy on photography before snapping pictures, as some exhibitions may have restrictions.
+- **Photography**: Always check the museum's policy on photography before snapping pictures, as some exhibitions may have restrictions.
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the morning can help you avoid crowds and provide a more intimate experience with the art.
 
@@ -97,7 +97,7 @@ A visit to the Städtische Galerie Lehrte typically takes between one to three h
 Photography policies can vary by exhibition. It is best to check with the museum staff or signage upon arrival.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s recommended to confirm this information on the official website.
+Guided tours may be available, but it's recommended to confirm this information on the official website.
 
 ### What's the best time to visit?
 Weekdays, particularly early in the morning, tend to be less crowded, allowing for a more personal experience.

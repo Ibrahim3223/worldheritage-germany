@@ -76,7 +76,7 @@ If you're interested in photography, the golden hour shortly before sunset can p
 
 ## Practical Information
 
-When planning your visit to Charlottenhof Palace, it’s advisable to bring comfortable walking shoes, as you will be exploring the gardens and various rooms within the palace. Depending on the season, consider dressing in layers to accommodate changing weather conditions, especially if you plan to spend time outdoors.
+When planning your visit to Charlottenhof Palace, it's advisable to bring comfortable walking shoes, as you will be exploring the gardens and various rooms within the palace. Depending on the season, consider dressing in layers to accommodate changing weather conditions, especially if you plan to spend time outdoors.
 
 If you have specific needs or concerns, checking the official website for accessibility information can ensure a comfortable visit. Carrying a water bottle and light snacks can enhance your experience, particularly if you plan to explore the expansive grounds.
 

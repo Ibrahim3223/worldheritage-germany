@@ -88,7 +88,7 @@ When preparing for your visit to Altonaer Balkon, consider bringing a few essent
 
 Seasonal considerations are also important. In spring and summer, the park comes alive with blooming flowers and lush greenery, while autumn offers a stunning display of fall colors. Winter visits, though quieter, can provide a serene experience as the park takes on a different character.
 
-Before heading out, it’s a good idea to check the official website for any updates or changes to visiting hours, events, or any other relevant information that may enhance your visit.
+Before heading out, it's a good idea to check the official website for any updates or changes to visiting hours, events, or any other relevant information that may enhance your visit.
 
 ## Frequently Asked Questions
 

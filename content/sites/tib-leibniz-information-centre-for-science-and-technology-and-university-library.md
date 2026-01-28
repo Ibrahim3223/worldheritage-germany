@@ -52,7 +52,7 @@ Overall, the TIB exemplifies contemporary library design, prioritizing user expe
 
 ## Visiting Information
 
-Visiting the TIB is an enriching experience for anyone interested in science and technology. The library is situated conveniently in Hanover, making it accessible by various modes of transportation. Visitors can reach the TIB via public transport, including buses and trams, or opt for a leisurely walk through the city’s vibrant streets.
+Visiting the TIB is an enriching experience for anyone interested in science and technology. The library is situated conveniently in Hanover, making it accessible by various modes of transportation. Visitors can reach the TIB via public transport, including buses and trams, or opt for a leisurely walk through the city's vibrant streets.
 
 While specific hours and pricing details for entry may vary, it is advisable to check the official website for current information, as this can change based on events or seasonal considerations. 
 
@@ -78,7 +78,7 @@ While in Hanover, visitors can explore several nearby attractions that complemen
 
 To make the most of your visit to the TIB, consider the following tips:
 
-- **Photography**: While photography might be allowed in certain areas, it’s best to check the library's policy upon arrival to avoid any disruptions.
+- **Photography**: While photography might be allowed in certain areas, it's best to check the library's policy upon arrival to avoid any disruptions.
 
 - **Crowd Avoidance**: To enjoy a quieter atmosphere, try to visit during early mornings or later in the afternoon on weekdays, when fewer visitors are likely to be present.
 
@@ -86,7 +86,7 @@ To make the most of your visit to the TIB, consider the following tips:
 
 ## Practical Information
 
-When visiting the TIB, it’s advisable to bring a few essentials:
+When visiting the TIB, it's advisable to bring a few essentials:
 
 - **Identification**: You may need to show identification to access certain resources or areas within the library.
 
@@ -102,7 +102,7 @@ Seasonal considerations might also affect your visit. Spring and fall are partic
 The time spent at the TIB can vary based on individual interests, but a few hours is generally recommended to explore the collections and facilities.
 
 ### Is photography allowed?
-Photography policies may differ throughout the library, so it’s best to check upon arrival.
+Photography policies may differ throughout the library, so it's best to check upon arrival.
 
 ### Are there guided tours?
 Check the official website for current offerings regarding guided tours or educational programs.
@@ -111,7 +111,7 @@ Check the official website for current offerings regarding guided tours or educa
 Weekdays, particularly during early mornings or late afternoons, are ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-The TIB is designed to be accessible, but it’s wise to confirm specific accessibility features on the official website.
+The TIB is designed to be accessible, but it's wise to confirm specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 For information on ticket purchasing, including online options, please check the official website.

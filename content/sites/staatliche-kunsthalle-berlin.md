@@ -22,9 +22,9 @@ images:
 
 Staatliche Kunsthalle Berlin, situated in the vibrant heart of Berlin, is a distinguished art museum that played a pivotal role in the German art scene from its establishment in the late 20th century until its closure in the early 1990s. This cultural institution served as a showcase for contemporary art and was a vital space for artistic expression during a transformative period in German history. Although it is no longer operational, its legacy and the significant exhibitions held within its walls continue to resonate within the art community.
 
-The museum’s location in Berlin, a city known for its dynamic arts and culture, further emphasizes its significance. The capital has long been a hub for artists, thinkers, and creators, making the Kunsthalle a fitting part of this rich environment. Visitors to Berlin often seek to immerse themselves in its diverse artistic offerings, and while the Staatliche Kunsthalle is no longer an active venue, it remains a point of interest for those wishing to understand the evolution of art in Germany during the late 20th century.
+The museum's location in Berlin, a city known for its dynamic arts and culture, further emphasizes its significance. The capital has long been a hub for artists, thinkers, and creators, making the Kunsthalle a fitting part of this rich environment. Visitors to Berlin often seek to immerse themselves in its diverse artistic offerings, and while the Staatliche Kunsthalle is no longer an active venue, it remains a point of interest for those wishing to understand the evolution of art in Germany during the late 20th century.
 
-As you explore the various cultural offerings in Berlin, the history of Staatliche Kunsthalle Berlin serves as an important chapter in the city’s artistic narrative, offering insights into the changing landscape of art and society during its operational years.
+As you explore the various cultural offerings in Berlin, the history of Staatliche Kunsthalle Berlin serves as an important chapter in the city's artistic narrative, offering insights into the changing landscape of art and society during its operational years.
 
 ## History and Significance
 

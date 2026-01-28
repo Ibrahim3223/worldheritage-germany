@@ -28,7 +28,7 @@ With its strategic location in the heart of Bavaria, Velburg is easily accessibl
 
 ## History and Significance
 
-The fortification at Velburg has played an important role in the historical narrative of the region. Although specific dates are not detailed, it is clear that the structure was built to address the needs of defense and control in the area. The fortification’s strategic location highlights its significance in protecting the region during various conflicts, showcasing the military architecture of its time.
+The fortification at Velburg has played an important role in the historical narrative of the region. Although specific dates are not detailed, it is clear that the structure was built to address the needs of defense and control in the area. The fortification's strategic location highlights its significance in protecting the region during various conflicts, showcasing the military architecture of its time.
 
 Fortifications like D-3-6736-0120 were not merely defensive structures; they often served as administrative centers and symbols of power. They reflected the socio-political dynamics of their time, acting as a deterrent against invasions while also providing a sense of security to the local populace. 
 
@@ -60,7 +60,7 @@ As you wander through the site, be prepared for some uneven surfaces and varying
 
 While exploring Velburg and its fortification, consider visiting these nearby attractions that further enrich your experience:
 
-1. **St. John’s Church**: This local church showcases stunning architecture and offers a peaceful atmosphere for contemplation.
+1. **St. John's Church**: This local church showcases stunning architecture and offers a peaceful atmosphere for contemplation.
    
 2. **Velburg Old Town**: A charming area filled with traditional Bavarian architecture, inviting cafes, and local shops.
 
@@ -68,7 +68,7 @@ While exploring Velburg and its fortification, consider visiting these nearby at
 
 4. **Neumarkt Castle**: Located in the nearby town of Neumarkt, this castle offers insights into Bavarian nobility and history.
 
-5. **The Town Museum**: A small but informative museum that provides context about Velburg’s history and culture.
+5. **The Town Museum**: A small but informative museum that provides context about Velburg's history and culture.
 
 These attractions provide a well-rounded itinerary, allowing visitors to immerse themselves in the local culture and heritage.
 

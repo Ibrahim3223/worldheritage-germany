@@ -60,7 +60,7 @@ While Ditzum Church is a highlight, the region offers several other attractions 
    
 2. **Ems River**: Close to Ditzum, the Ems River provides opportunities for scenic walks along its banks, where visitors can enjoy nature and observe local wildlife.
    
-3. **Ditzum Ferry**: Operating nearby, this ferry connects Ditzum to the opposite bank of the river, offering a unique perspective of the region’s landscape.
+3. **Ditzum Ferry**: Operating nearby, this ferry connects Ditzum to the opposite bank of the river, offering a unique perspective of the region's landscape.
 
 4. **Local Museums**: Explore local museums that highlight the history and culture of the Jemgum area, providing context to the church's significance.
 
@@ -68,7 +68,7 @@ While Ditzum Church is a highlight, the region offers several other attractions 
 
 ## Insider Tips
 
-For photography enthusiasts, Ditzum Church offers numerous opportunities for stunning shots, particularly during the golden hours of sunrise or sunset. The church’s architecture, combined with the surrounding landscape, provides a picturesque backdrop. 
+For photography enthusiasts, Ditzum Church offers numerous opportunities for stunning shots, particularly during the golden hours of sunrise or sunset. The church's architecture, combined with the surrounding landscape, provides a picturesque backdrop. 
 
 To avoid crowds, consider visiting during weekday mornings, when the atmosphere is typically quieter, allowing for a more intimate experience with the church and its surroundings.
 

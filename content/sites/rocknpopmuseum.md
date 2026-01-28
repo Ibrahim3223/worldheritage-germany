@@ -15,13 +15,13 @@ wikidata_id: "Q19299261"
 latitude: 52.21393
 longitude: 7.02585
 images:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1200px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock'n'popmuseum_1.JPG/1200px-Gronau_muzeo_Rock'n'popmuseum_1.JPG
 image_srcset:
-  Gronau%20muzeo%20Rock’n’popmuseum%201.JPG:
-    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/400px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
-    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/800px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
-    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1200px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
-    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock’n’popmuseum_1.JPG/1920px-Gronau_muzeo_Rock’n’popmuseum_1.JPG
+  Gronau%20muzeo%20Rock'n'popmuseum%201.JPG:
+    400: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock'n'popmuseum_1.JPG/400px-Gronau_muzeo_Rock'n'popmuseum_1.JPG
+    800: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock'n'popmuseum_1.JPG/800px-Gronau_muzeo_Rock'n'popmuseum_1.JPG
+    1200: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock'n'popmuseum_1.JPG/1200px-Gronau_muzeo_Rock'n'popmuseum_1.JPG
+    1920: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gronau_muzeo_Rock'n'popmuseum_1.JPG/1920px-Gronau_muzeo_Rock'n'popmuseum_1.JPG
 ---
 
 ## Overview
@@ -48,9 +48,9 @@ The layout of the museum is designed to facilitate an engaging flow, guiding vis
 
 ## Visiting Information
 
-To make the most of your visit to the rock'n'popmuseum, consider the various transportation options available. The museum is accessible via local public transport, and there is parking available for those who prefer to drive. As with any travel plans, it’s advisable to check the official website for current information regarding hours of operation and ticket prices before your visit.
+To make the most of your visit to the rock'n'popmuseum, consider the various transportation options available. The museum is accessible via local public transport, and there is parking available for those who prefer to drive. As with any travel plans, it's advisable to check the official website for current information regarding hours of operation and ticket prices before your visit.
 
-Visitors can expect to spend a few hours exploring the exhibits, making it a perfect stop for both short and extended outings. The museum’s design allows for a leisurely exploration, with plenty of opportunities to engage with the displays and absorb the rich history of rock and pop music.
+Visitors can expect to spend a few hours exploring the exhibits, making it a perfect stop for both short and extended outings. The museum's design allows for a leisurely exploration, with plenty of opportunities to engage with the displays and absorb the rich history of rock and pop music.
 
 For an optimal experience, consider visiting during weekdays or off-peak hours to avoid larger crowds. This will allow for a more intimate experience and the chance to fully appreciate the intricacies of the exhibits.
 
@@ -105,7 +105,7 @@ The museum is designed to be accessible, but always check the official site for 
 Check the official website for information on ticket purchasing options, including online sales.
 
 ### Are there restrooms and cafes?
-Restroom facilities are available within the museum. For cafes or dining options, it’s best to explore nearby areas in Gronau.
+Restroom facilities are available within the museum. For cafes or dining options, it's best to explore nearby areas in Gronau.
 
 ### What should I wear?
 Dress comfortably, as you may be on your feet for extended periods. Layered clothing is advisable to adapt to fluctuating indoor temperatures.

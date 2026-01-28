@@ -40,7 +40,7 @@ While specific historical milestones may not be detailed, the ongoing activities
 
 ## Architecture and Features
 
-The Egestorff Foundation’s architectural style reflects the principles of functionality and simplicity often found in religious institutions. While specific architectural details are not provided, the foundation is likely designed to facilitate both communal gatherings and private reflection.
+The Egestorff Foundation's architectural style reflects the principles of functionality and simplicity often found in religious institutions. While specific architectural details are not provided, the foundation is likely designed to facilitate both communal gatherings and private reflection.
 
 Inside the foundation, visitors can expect spaces that promote interaction and learning. The layout is likely conducive to hosting various events, meetings, and educational programs, emphasizing the foundation's mission of community engagement. The design may incorporate elements that reflect the local culture, providing a warm and welcoming environment for all who enter.
 
@@ -48,7 +48,7 @@ Notable features may include areas designated for worship, community activities,
 
 ## Visiting Information
 
-Traveling to the Egestorff Foundation is straightforward, with transportation options available for both local residents and visitors from afar. Public transit may serve the area, making it accessible for those relying on bus or train services. For those driving, parking facilities should be available nearby, but it’s advisable to check the official website for the most current information.
+Traveling to the Egestorff Foundation is straightforward, with transportation options available for both local residents and visitors from afar. Public transit may serve the area, making it accessible for those relying on bus or train services. For those driving, parking facilities should be available nearby, but it's advisable to check the official website for the most current information.
 
 Visitors should check the official website for current hours and prices, as these can vary based on the time of year and specific events or programs taking place. When planning your visit, consider allocating a few hours to fully engage with the foundation's offerings, as well as to explore any associated events that may enhance your experience.
 

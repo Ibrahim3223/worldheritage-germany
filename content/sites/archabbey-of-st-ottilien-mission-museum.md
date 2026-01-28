@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Archabbey of St. Ottilien Mission Museum serves as a captivating entry point into the world of Benedictine monastic life and missionary work. Located in St. Ottilien, near Eresing in Bavaria, Germany, this museum offers visitors an insightful glimpse into the historical and cultural significance of the Benedictine community that has flourished here. Established to document and share the legacy of the abbey’s mission activities around the globe, the museum invites exploration of its rich collections, artifacts, and exhibits, each narrating the stories of faith, culture, and global outreach.
+The Archabbey of St. Ottilien Mission Museum serves as a captivating entry point into the world of Benedictine monastic life and missionary work. Located in St. Ottilien, near Eresing in Bavaria, Germany, this museum offers visitors an insightful glimpse into the historical and cultural significance of the Benedictine community that has flourished here. Established to document and share the legacy of the abbey's mission activities around the globe, the museum invites exploration of its rich collections, artifacts, and exhibits, each narrating the stories of faith, culture, and global outreach.
 
 Situated within a picturesque Bavarian landscape, the museum is not only an educational hub but also a serene spot for reflection and understanding of the Benedictine way of life. As you wander through its halls, you engage with the enduring spirit of a community dedicated to service and spirituality, making it a meaningful stop for travelers interested in history, culture, and religious heritage.
 

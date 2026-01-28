@@ -30,7 +30,7 @@ The Girls Citizen School in Schleswig-Holstein, Germany, offers visitors a uniqu
 
 The museum's location in Schleswig-Holstein—a region known for its rolling hills and rich traditions—adds an additional layer of context. Here, education for girls was not always a given, making the establishment of such a school a pivotal moment in the history of gender equality. The Girls Citizen School stands not only as a museum but also as a reminder of the importance of civic responsibility and the empowerment of young women.
 
-Visitors can expect to engage with a variety of exhibits that highlight the evolution of educational practices and the role of women in society. The museum’s thoughtful presentation provides a comprehensive understanding of how education shapes individual destinies and community dynamics. 
+Visitors can expect to engage with a variety of exhibits that highlight the evolution of educational practices and the role of women in society. The museum's thoughtful presentation provides a comprehensive understanding of how education shapes individual destinies and community dynamics. 
 
 ## History and Significance
 

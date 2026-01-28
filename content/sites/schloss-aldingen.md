@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Schloss Aldingen, a distinguished manor house located in the town of Remseck am Neckar, Germany, presents a remarkable glimpse into the architectural and cultural history of the region. Situated in the heart of Baden-Württemberg, this site is not only a visual delight but also carries significant historical weight, serving as a reminder of the area’s noble past. Visitors to Schloss Aldingen can expect to immerse themselves in a serene environment that echoes stories of yesteryears, offering a unique blend of tranquility and historical intrigue.
+Schloss Aldingen, a distinguished manor house located in the town of Remseck am Neckar, Germany, presents a remarkable glimpse into the architectural and cultural history of the region. Situated in the heart of Baden-Württemberg, this site is not only a visual delight but also carries significant historical weight, serving as a reminder of the area's noble past. Visitors to Schloss Aldingen can expect to immerse themselves in a serene environment that echoes stories of yesteryears, offering a unique blend of tranquility and historical intrigue.
 
 The manor house, with its strategic location along the Neckar River, represents a pivotal point in the historical narratives of Remseck and its surroundings. The site stands as a symbol of the architectural styles that have evolved over centuries, and its presence continues to attract those interested in the heritage and culture of southern Germany. While exploring the grounds, one can appreciate the elegance of the structure and the historical context that envelops it.
 

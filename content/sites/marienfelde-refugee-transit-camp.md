@@ -28,13 +28,13 @@ image_srcset:
 
 The Marienfelde refugee transit camp serves as a poignant memorial to the complex history of migration and displacement in Germany. Located in the Tempelhof-Schöneberg district of Berlin, this site reflects the stories of countless individuals who sought refuge in a post-war Europe marked by turmoil and transformation. Established during a significant period of German history, the camp has evolved from a temporary shelter into a lasting symbol of resilience and hope. Visitors to Marienfelde will find a place that not only commemorates the past but also engages with contemporary discussions surrounding migration and asylum.
 
-As you approach the memorial, you’ll be immersed in the narratives of those who traversed the often-treacherous journey to safety. The camp encapsulates a critical chapter in Berlin’s history, making it an essential stop for anyone wishing to understand the broader implications of migration within a European context. Here, the stories of the past resonate with the current global landscape, prompting reflection on the ongoing challenges faced by refugees today.
+As you approach the memorial, you'll be immersed in the narratives of those who traversed the often-treacherous journey to safety. The camp encapsulates a critical chapter in Berlin's history, making it an essential stop for anyone wishing to understand the broader implications of migration within a European context. Here, the stories of the past resonate with the current global landscape, prompting reflection on the ongoing challenges faced by refugees today.
 
 ## History and Significance
 
 The Marienfelde refugee transit camp was established during an era marked by significant upheaval in Europe. Following World War II, Germany experienced a massive influx of displaced persons, including ethnic Germans expelled from Eastern Europe and individuals fleeing conflict and persecution. Marienfelde became one of the key locations for accommodating these refugees, providing essential services and support as they sought to rebuild their lives.
 
-The camp’s historical significance extends beyond its function as a temporary shelter; it represents the broader narratives of migration and the struggles for human rights and dignity. As Europe grappled with the aftermath of war, Marienfelde served as a critical point for many seeking asylum, illustrating the challenges and resilience of the human spirit. The experiences of those who passed through the camp are a testament to the complexity of identity, belonging, and the quest for safety in a world often fraught with division.
+The camp's historical significance extends beyond its function as a temporary shelter; it represents the broader narratives of migration and the struggles for human rights and dignity. As Europe grappled with the aftermath of war, Marienfelde served as a critical point for many seeking asylum, illustrating the challenges and resilience of the human spirit. The experiences of those who passed through the camp are a testament to the complexity of identity, belonging, and the quest for safety in a world often fraught with division.
 
 Marienfelde has been preserved as a memorial not only to honor the individuals who sought refuge but also to educate future generations about the importance of compassion and understanding in the face of adversity. The site draws attention to the ongoing issues surrounding migration, encouraging visitors to engage with the narratives of those who have been displaced and to reflect on the societal responsibilities that come with welcoming new members into communities.
 
@@ -60,7 +60,7 @@ While exploring the Marienfelde refugee transit camp, consider visiting these ne
 
 1. **Tempelhof Field**: Once an airport, Tempelhof Field is now a vast public park where visitors can walk, cycle, or enjoy recreational activities amid the remnants of its aviation history.
   
-2. **Berlin’s Jewish Museum**: Located not far from Marienfelde, this museum offers an in-depth look into the history of Jews in Germany, providing context to the experiences of displacement and persecution.
+2. **Berlin's Jewish Museum**: Located not far from Marienfelde, this museum offers an in-depth look into the history of Jews in Germany, providing context to the experiences of displacement and persecution.
 
 3. **Schöneberg Town Hall**: A significant historical building, this town hall is where John F. Kennedy delivered his famous "Ich bin ein Berliner" speech in 1963, making it an important site for understanding Cold War history.
 
@@ -70,7 +70,7 @@ While exploring the Marienfelde refugee transit camp, consider visiting these ne
 
 ## Insider Tips
 
-For photography enthusiasts, the Marienfelde refugee transit camp provides unique opportunities to capture poignant images that reflect the site’s historical significance. Early morning or late afternoon light can enhance the mood of your photos, lending a softer glow to the buildings and memorials.
+For photography enthusiasts, the Marienfelde refugee transit camp provides unique opportunities to capture poignant images that reflect the site's historical significance. Early morning or late afternoon light can enhance the mood of your photos, lending a softer glow to the buildings and memorials.
 
 To avoid larger crowds, consider planning your visit during weekday mornings. This timing often allows for a more contemplative experience, as you can explore the exhibits at a leisurely pace.
 

@@ -80,7 +80,7 @@ While exploring Hattingen, there are several nearby attractions worth visiting:
 
 To make the most of your visit to Bauernhausmuseum Hattingen, consider the following tips:
 
-- **Photography**: While photography is often allowed, it’s advisable to check for any specific restrictions in certain areas of the museum. Capturing the unique architecture and artifacts can enhance your experience.
+- **Photography**: While photography is often allowed, it's advisable to check for any specific restrictions in certain areas of the museum. Capturing the unique architecture and artifacts can enhance your experience.
 
 - **Crowd Avoidance**: If possible, visit during weekdays or early in the day to avoid larger crowds. This will allow for a more relaxed exploration of the exhibits.
 
@@ -94,7 +94,7 @@ When planning your visit to Bauernhausmuseum Hattingen, keep the following pract
 
 - **Seasonal Considerations**: The museum may have different operating hours or events depending on the season. Be sure to check for seasonal programming that aligns with your visit.
 
-- **Accessibility**: If you have specific mobility requirements, it’s advisable to check the official website for information regarding accessibility options available at the museum.
+- **Accessibility**: If you have specific mobility requirements, it's advisable to check the official website for information regarding accessibility options available at the museum.
 
 ## Frequently Asked Questions
 

@@ -60,7 +60,7 @@ While visiting Heimatmuseum Münstermaifeld, there are several nearby attraction
 
 1. **Münstermaifeld Town Center**: A charming area where visitors can stroll through picturesque streets, admire historical buildings, and enjoy local shops and cafes.
 
-2. **St. Martin’s Church**: An architectural landmark in the town, this church is notable for its beautiful design and historical significance, making it a worthwhile stop.
+2. **St. Martin's Church**: An architectural landmark in the town, this church is notable for its beautiful design and historical significance, making it a worthwhile stop.
 
 3. **Castle of Bürresheim**: Located a short drive from the museum, this medieval castle offers guided tours and stunning views of the surrounding landscape.
 

@@ -70,7 +70,7 @@ Bamberg is filled with remarkable sites that complement a visit to the Bamberger
 
 ## Insider Tips
 
-For those looking to capture the beauty of the nativity scenes, photography is often permitted, but it’s wise to check specific guidelines upon arrival. To avoid the crowds, consider visiting during weekday mornings, when the museum tends to be less busy. Engaging with museum staff can deepen the experience, as they often share insights and stories about the exhibits.
+For those looking to capture the beauty of the nativity scenes, photography is often permitted, but it's wise to check specific guidelines upon arrival. To avoid the crowds, consider visiting during weekday mornings, when the museum tends to be less busy. Engaging with museum staff can deepen the experience, as they often share insights and stories about the exhibits.
 
 If you are planning to visit during the holiday season, arriving early in the day can enhance your experience, allowing for a more leisurely exploration of both the museum and the festive atmosphere in the surrounding city.
 
@@ -95,7 +95,7 @@ The museum may offer guided tours, providing deeper insights into the exhibits a
 Weekday mornings are often less crowded, offering a more relaxed experience. The holiday season can also provide a unique atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s best to check the official website for details regarding wheelchair access.
+Accessibility information is not specified; it's best to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options.

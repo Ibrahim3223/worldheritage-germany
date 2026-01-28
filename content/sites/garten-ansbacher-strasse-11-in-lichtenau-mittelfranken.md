@@ -22,7 +22,7 @@ images:
 
 Garten Ansbacher Straße 11, located in the charming town of Lichtenau in Mittelfranken, Bavaria, serves as a notable example of a cultural heritage monument. Recognized for its historical significance, this garden adds a unique layer to the region's rich tapestry of cultural landmarks. Situated at coordinates 49.280495, 10.682442, the garden invites visitors to explore its serene environment, which reflects the historical and cultural essence of the area.
 
-Lichtenau, known for its picturesque landscapes and quaint village atmosphere, provides a fitting backdrop for this heritage site. The garden exemplifies the dedication to preserving natural beauty and cultural history that is characteristic of many Bavarian towns. As you wander through its grounds, there’s an opportunity to appreciate the fusion of nature and history, making it a worthwhile stop for anyone interested in the region's heritage.
+Lichtenau, known for its picturesque landscapes and quaint village atmosphere, provides a fitting backdrop for this heritage site. The garden exemplifies the dedication to preserving natural beauty and cultural history that is characteristic of many Bavarian towns. As you wander through its grounds, there's an opportunity to appreciate the fusion of nature and history, making it a worthwhile stop for anyone interested in the region's heritage.
 
 In this guide, we will delve into the history and significance of Garten Ansbacher Straße 11, explore its architectural features, provide essential visiting information, and suggest nearby attractions to enhance your experience. 
 
@@ -38,7 +38,7 @@ In a broader context, this garden is a part of the ongoing effort to preserve na
 
 Garten Ansbacher Straße 11 showcases elements common to traditional Bavarian gardens, emphasizing a harmonious relationship between nature and human creation. While specific architectural details are not provided, one can expect to find features typical of historic gardens in this region, such as structured flower beds, pathways, and possibly ornamental elements that reflect the style of the time.
 
-The layout of the garden likely encourages leisurely strolls, allowing visitors to engage with the flora and appreciate the landscape design. Gardens in this part of Bavaria often include a variety of local plant species, offering a taste of the regional biodiversity. Visitors may find themselves enveloped in a calming atmosphere, characterized by the sounds of nature and the intricate designs that guide one’s exploration.
+The layout of the garden likely encourages leisurely strolls, allowing visitors to engage with the flora and appreciate the landscape design. Gardens in this part of Bavaria often include a variety of local plant species, offering a taste of the regional biodiversity. Visitors may find themselves enveloped in a calming atmosphere, characterized by the sounds of nature and the intricate designs that guide one's exploration.
 
 Additionally, as a cultural heritage monument, the garden may feature sections that have been preserved or restored to reflect specific historical periods, providing insights into gardening practices and landscape architecture from the past. Visitors can expect to see how the garden has been shaped by the cultural influences of its time, making it an engaging site for both history enthusiasts and nature lovers.
 

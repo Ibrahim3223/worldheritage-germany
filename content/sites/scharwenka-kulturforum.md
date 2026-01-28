@@ -82,7 +82,7 @@ To enhance your visit to the Scharwenka Kulturforum, consider the following insi
 
 When preparing for your visit to the Scharwenka Kulturforum, keep the following practical considerations in mind:
 
-- **What to Bring**: Consider bringing a notebook or digital device for taking notes, especially if you’re interested in the educational aspects of the museum. Comfortable walking shoes are also recommended.
+- **What to Bring**: Consider bringing a notebook or digital device for taking notes, especially if you're interested in the educational aspects of the museum. Comfortable walking shoes are also recommended.
 
 - **Seasonal Considerations**: Check the weather forecast ahead of your visit, as seasonal variations can affect your travel plans. The museum may also have seasonal exhibits that are worth noting.
 

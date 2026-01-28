@@ -42,7 +42,7 @@ The museum emphasizes not just the vehicles themselves, but also the historical 
 
 ## Visiting Information
 
-Visiting the Hessisches Kutschen- und Wagenmuseum offers a unique opportunity to explore the heritage of horse-drawn vehicles. For those planning a visit, it’s advisable to check the official website for current information regarding opening hours and ticket prices. 
+Visiting the Hessisches Kutschen- und Wagenmuseum offers a unique opportunity to explore the heritage of horse-drawn vehicles. For those planning a visit, it's advisable to check the official website for current information regarding opening hours and ticket prices. 
 
 Accessibility to the museum can be facilitated by personal vehicles or public transport, although specific transport links are not detailed here. The museum is designed to be welcoming, with informative signage and staff available to assist visitors. 
 
@@ -93,7 +93,7 @@ Most visitors find that spending 1-2 hours allows ample time to explore the exhi
 Check the official website for the most current photography policies within the museum.
 
 ### Are there guided tours?
-Information regarding guided tours is not specified. It’s best to check the official website for any available options.
+Information regarding guided tours is not specified. It's best to check the official website for any available options.
 
 ### What's the best time to visit?
 Weekdays may offer a quieter experience, but checking for any special events is recommended to enhance your visit.
@@ -105,7 +105,7 @@ Accessibility information is not detailed. For specifics, check the official web
 Check the official website for options regarding ticket purchases.
 
 ### Are there restrooms and cafes?
-Information about facilities such as restrooms and cafes is not provided. It’s advisable to check beforehand.
+Information about facilities such as restrooms and cafes is not provided. It's advisable to check beforehand.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, especially if planning to visit nearby attractions.

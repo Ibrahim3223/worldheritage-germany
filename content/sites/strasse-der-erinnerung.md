@@ -44,7 +44,7 @@ While navigating the area, visitors may encounter various markers and artistic e
 
 The architectural design of Straße der Erinnerung is characterized by its simplicity and poignant symbolism, making it a striking yet contemplative space. While detailed architectural descriptions are not provided, the monument's layout invites visitors to engage thoughtfully with its surroundings. The design elements are intentional, aiming to evoke a sense of reflection and remembrance.
 
-Notable features of the monument may include inscriptions, artistic representations, or pathways that guide visitors through an experiential journey. Each aspect is carefully curated to enhance the narrative of memory, ensuring that visitors are not merely spectators but active participants in the commemorative process. The monument’s physical presence, along with its surroundings, creates an atmosphere conducive to contemplation, allowing for a connection with both the site and its historical implications.
+Notable features of the monument may include inscriptions, artistic representations, or pathways that guide visitors through an experiential journey. Each aspect is carefully curated to enhance the narrative of memory, ensuring that visitors are not merely spectators but active participants in the commemorative process. The monument's physical presence, along with its surroundings, creates an atmosphere conducive to contemplation, allowing for a connection with both the site and its historical implications.
 
 As you walk through the area, pay attention to the subtle details that contribute to the overall experience of the monument. The interaction between the monument and its environment, along with the artistic expressions that accompany it, reinforces the importance of memory in shaping the collective identity of a society.
 
@@ -60,7 +60,7 @@ As you prepare for your visit, be mindful of the emotional significance of the s
 
 ## Nearby Attractions
 
-While exploring the Straße der Erinnerung, consider visiting several nearby attractions that further enrich your understanding of Berlin’s historical landscape. These include:
+While exploring the Straße der Erinnerung, consider visiting several nearby attractions that further enrich your understanding of Berlin's historical landscape. These include:
 
 1. **Berlin Cathedral (Berliner Dom)**: A short distance away, this iconic church offers stunning architecture and insights into Berlin's religious history.
 

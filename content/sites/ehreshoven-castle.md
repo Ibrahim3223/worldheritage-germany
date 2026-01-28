@@ -48,7 +48,7 @@ The surrounding grounds of Ehreshoven Castle add to its charm, providing a lands
 
 ## Visiting Information
 
-Visiting Ehreshoven Castle offers a unique opportunity to explore its historical significance and architectural beauty. To make the most of your trip, it’s advisable to check the official website for current information regarding hours of operation, ticket prices, and any special events.
+Visiting Ehreshoven Castle offers a unique opportunity to explore its historical significance and architectural beauty. To make the most of your trip, it's advisable to check the official website for current information regarding hours of operation, ticket prices, and any special events.
 
 Access to the castle can be achieved via various modes of transport, including personal vehicles and public transportation. The castle is located in Engelskirchen, which is well-connected to nearby cities, making it a convenient destination for day trips.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or during the off-peak season
 
 ## Practical Information
 
-When planning your visit to Ehreshoven Castle, it’s advisable to wear comfortable shoes, as exploring the castle and its grounds may involve walking on uneven terrain. Additionally, consider bringing a reusable water bottle and snacks, as facilities may be limited.
+When planning your visit to Ehreshoven Castle, it's advisable to wear comfortable shoes, as exploring the castle and its grounds may involve walking on uneven terrain. Additionally, consider bringing a reusable water bottle and snacks, as facilities may be limited.
 
 Seasonal considerations are important; check the weather forecast before your visit. In winter months, dress warmly, as medieval structures can be chilly. In contrast, summer visits may require sun protection and hydration.
 

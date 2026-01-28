@@ -22,7 +22,7 @@ images:
 
 The Abschnittsbefestigung Andechs, a striking castle located in the scenic region of Andechs, Germany, offers a fascinating glimpse into the architectural and historical narratives of the area. This medieval fortification is not just a relic of the past; it symbolizes the enduring spirit of the region, attracting visitors who seek to immerse themselves in its storied heritage. Set against the backdrop of rolling hills and lush landscapes, the castle serves as a prominent landmark, inviting exploration and reflection.
 
-The significance of the Abschnittsbefestigung Andechs lies in its strategic position and historical role within the local context. Its impressive structure exemplifies the defensive architecture characteristic of its time, providing insight into the military and social dynamics that shaped the region’s history. For those visiting, the castle promises a unique experience, blending educational discovery with the allure of historical exploration.
+The significance of the Abschnittsbefestigung Andechs lies in its strategic position and historical role within the local context. Its impressive structure exemplifies the defensive architecture characteristic of its time, providing insight into the military and social dynamics that shaped the region's history. For those visiting, the castle promises a unique experience, blending educational discovery with the allure of historical exploration.
 
 ## History and Significance
 

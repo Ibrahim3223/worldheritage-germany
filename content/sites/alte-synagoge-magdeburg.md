@@ -66,7 +66,7 @@ While visiting the Alte Synagoge, there are several nearby attractions worth exp
 
 3. **Elbauenpark** - A beautiful park that offers a serene environment with walking paths, gardens, and recreational areas, perfect for a leisurely stroll or picnic.
 
-4. **The Romanesque Route** - This scenic route highlights several historical sites in the region, including churches and castles, providing insight into the region’s medieval history.
+4. **The Romanesque Route** - This scenic route highlights several historical sites in the region, including churches and castles, providing insight into the region's medieval history.
 
 5. **Museum of Cultural History** - Located nearby, this museum offers exhibitions on the local history of Magdeburg, including its Jewish heritage, making it an excellent complement to a visit to the Alte Synagoge.
 

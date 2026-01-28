@@ -66,7 +66,7 @@ Bieberer Berg is conveniently located near several attractions that complement a
 
 4. **Capitol Theater Offenbach**: A historical venue that hosts a variety of performances, from concerts to theatrical productions, adding a cultural dimension to your visit.
 
-5. **German Leather Museum**: Located in Offenbach, this museum delves into the history and artistry of leather production, reflecting the city’s heritage.
+5. **German Leather Museum**: Located in Offenbach, this museum delves into the history and artistry of leather production, reflecting the city's heritage.
 
 ## Insider Tips
 
@@ -78,7 +78,7 @@ To enhance your experience at Bieberer Berg, consider these insider tips:
 
 ## Practical Information
 
-When planning your visit to Bieberer Berg, it’s essential to prepare adequately:
+When planning your visit to Bieberer Berg, it's essential to prepare adequately:
 
 - **What to Bring**: Comfortable hiking shoes are a must, along with water and snacks for your time on the mountain. A backpack can help carry your essentials, including a camera for capturing the scenery.
 

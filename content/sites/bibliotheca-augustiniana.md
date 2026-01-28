@@ -52,7 +52,7 @@ After your visit to the Bibliotheca Augustiniana, consider exploring some of Wü
 
 1. **Würzburg Residence**: A UNESCO World Heritage Site, this stunning baroque palace is a must-see, featuring magnificent gardens and ornate interiors.
    
-2. **Marienberg Fortress**: Offering panoramic views of the city, this historic fortress is an excellent place to learn about Würzburg’s past.
+2. **Marienberg Fortress**: Offering panoramic views of the city, this historic fortress is an excellent place to learn about Würzburg's past.
 
 3. **St. Kilian Cathedral**: An architectural marvel, this cathedral is known for its impressive twin towers and beautiful stained glass windows.
 
@@ -64,7 +64,7 @@ After your visit to the Bibliotheca Augustiniana, consider exploring some of Wü
 
 When visiting the Bibliotheca Augustiniana, consider bringing a camera to capture the architecture and ambiance, but be mindful of any photography restrictions inside the institution. To avoid crowds, plan your visit during the week, preferably in the morning when the institution opens.
 
-If you’re keen on deepening your understanding of the materials available, consider preparing specific questions or topics of interest beforehand. Engaging with the staff can enhance your experience, as they often have valuable insights and recommendations.
+If you're keen on deepening your understanding of the materials available, consider preparing specific questions or topics of interest beforehand. Engaging with the staff can enhance your experience, as they often have valuable insights and recommendations.
 
 ## Practical Information
 
@@ -78,7 +78,7 @@ Make sure to check the official website for any seasonal events or special exhib
 A visit of a few hours is recommended to fully appreciate the collections and resources available.
 
 ### Is photography allowed?
-Check the institution’s policies regarding photography, as it may vary.
+Check the institution's policies regarding photography, as it may vary.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website, or inquire upon arrival.
@@ -98,4 +98,4 @@ Facilities such as restrooms and cafes may be available on-site, but verify thro
 ### What should I wear?
 Dress comfortably, considering the season and whether you plan to spend an extended period inside the institution. 
 
-The Bibliotheca Augustiniana stands as a vital resource for understanding the cultural history of Würzburg, making it a worthwhile destination for anyone interested in delving into the region’s rich heritage.
+The Bibliotheca Augustiniana stands as a vital resource for understanding the cultural history of Würzburg, making it a worthwhile destination for anyone interested in delving into the region's rich heritage.

@@ -48,7 +48,7 @@ Visitors can appreciate not only the exterior of the windmill but also the surro
 
 ## Visiting Information
 
-Visiting the Grebiner Windmühle offers an engaging experience for history buffs, architecture enthusiasts, and families alike. To reach the windmill, various transportation options are available. If traveling by car, ample parking is likely accessible nearby. For those using public transportation, local bus services can connect visitors to Grebin, although it’s advisable to check schedules in advance.
+Visiting the Grebiner Windmühle offers an engaging experience for history buffs, architecture enthusiasts, and families alike. To reach the windmill, various transportation options are available. If traveling by car, ample parking is likely accessible nearby. For those using public transportation, local bus services can connect visitors to Grebin, although it's advisable to check schedules in advance.
 
 When planning your visit, check the official website for current information regarding hours of operation and any potential admission fees. Expect to spend around one to two hours exploring the site, which includes an opportunity to learn about its history and significance through informational displays or guided experiences, if available.
 
@@ -105,7 +105,7 @@ Information on wheelchair accessibility is not specified; checking the official 
 For ticketing information, including potential online purchase options, check the official website.
 
 ### Are there restrooms and cafes?
-Information about restrooms and nearby cafes is not provided; it’s advisable to check local amenities or plan accordingly.
+Information about restrooms and nearby cafes is not provided; it's advisable to check local amenities or plan accordingly.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, with sturdy shoes for walking around the site and nearby areas.

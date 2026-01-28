@@ -44,7 +44,7 @@ The architecture of Evangelischer Friedhof Alt-Schmargendorf reflects various st
 
 The layout of the cemetery features winding paths that guide visitors through the serene landscape. Lush greenery and mature trees provide a calming backdrop, enhancing the contemplative atmosphere of the site. The well-maintained grounds invite visitors to take their time as they wander through, allowing for moments of reflection amidst the natural beauty.
 
-Notable features of the cemetery include artistic monuments and family graves that reflect the personal stories of those buried there. Many gravestones may bear symbols of faith, love, and remembrance, showcasing the diverse beliefs and values of the individuals and families interred. This variety highlights the cemetery’s importance as a cultural landmark, providing insight into the historical narratives that define the community.
+Notable features of the cemetery include artistic monuments and family graves that reflect the personal stories of those buried there. Many gravestones may bear symbols of faith, love, and remembrance, showcasing the diverse beliefs and values of the individuals and families interred. This variety highlights the cemetery's importance as a cultural landmark, providing insight into the historical narratives that define the community.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ As you visit, be prepared for a quiet experience, as the cemetery is a place of 
 
 While visiting Evangelischer Friedhof Alt-Schmargendorf, you may also want to explore several nearby attractions that offer additional insights into the cultural and historical context of the area:
 
-1. **Schmargendorf Village Church**: A short distance away, this charming church is an excellent example of local architecture and offers a glimpse into the community’s spiritual life.
+1. **Schmargendorf Village Church**: A short distance away, this charming church is an excellent example of local architecture and offers a glimpse into the community's spiritual life.
 
 2. **Grunewald Forest**: This expansive forest area nearby provides opportunities for leisurely walks and nature exploration, making it a great complement to your visit to the cemetery.
 
@@ -76,7 +76,7 @@ For those planning a visit to Evangelischer Friedhof Alt-Schmargendorf, here are
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, consider visiting during weekdays rather than weekends when the cemetery may be busier with visitors.
 
-- **Guided Exploration**: If you’re interested in learning more about the historical significance of the cemetery and its notable figures, consider bringing along a guidebook or downloading an app that provides information on key gravestones and monuments.
+- **Guided Exploration**: If you're interested in learning more about the historical significance of the cemetery and its notable figures, consider bringing along a guidebook or downloading an app that provides information on key gravestones and monuments.
 
 ## Practical Information
 

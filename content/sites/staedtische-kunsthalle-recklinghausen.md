@@ -60,7 +60,7 @@ Visitors should check the official website for current information regarding ope
 
 The best times to visit may depend on personal preferences; however, weekdays tend to be less crowded than weekends, offering a more intimate experience. Special events, such as artist talks or workshops, may also provide unique opportunities to engage with the art and artists directly.
 
-Upon arrival, guests can expect a warm welcome from the museum staff, who are typically knowledgeable and eager to assist with any inquiries. The museum’s layout is designed to facilitate an enjoyable experience, ensuring that visitors can navigate through the galleries with ease.
+Upon arrival, guests can expect a warm welcome from the museum staff, who are typically knowledgeable and eager to assist with any inquiries. The museum's layout is designed to facilitate an enjoyable experience, ensuring that visitors can navigate through the galleries with ease.
 
 ## Nearby Attractions
 
@@ -100,7 +100,7 @@ When planning your visit to Städtische Kunsthalle Recklinghausen, consider the 
 A visit to Städtische Kunsthalle Recklinghausen typically requires about two hours, allowing sufficient time to explore the exhibitions and engage with the art.
 
 ### Is photography allowed?
-Policies on photography can vary by exhibition. It’s best to check with museum staff or refer to any posted guidelines upon entry.
+Policies on photography can vary by exhibition. It's best to check with museum staff or refer to any posted guidelines upon entry.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for availability and schedule details.

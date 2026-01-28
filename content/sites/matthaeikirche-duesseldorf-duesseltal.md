@@ -28,7 +28,7 @@ image_srcset:
 
 Matthäikirche, a prominent church building in Düsseldorf-Düsseltal, is more than just a place of worship; it serves as a significant cultural landmark within the region. Located at coordinates 51.2349, 6.80748, this church embodies the architectural and spiritual essence of the area, inviting visitors to explore its serene atmosphere and historical significance. Known for its unique design and community role, Matthäikirche is a must-visit for those interested in the intersection of faith, art, and local heritage.
 
-Düsseltal, a charming district of Düsseldorf, provides a picturesque backdrop for Matthäikirche. The church’s presence adds to the character of the neighborhood, appealing to both locals and travelers. Whether you're seeking a moment of reflection, curious about its architectural style, or interested in its community events, Matthäikirche promises an enriching experience that reflects the spirit of this vibrant city.
+Düsseltal, a charming district of Düsseldorf, provides a picturesque backdrop for Matthäikirche. The church's presence adds to the character of the neighborhood, appealing to both locals and travelers. Whether you're seeking a moment of reflection, curious about its architectural style, or interested in its community events, Matthäikirche promises an enriching experience that reflects the spirit of this vibrant city.
 
 ## History and Significance
 

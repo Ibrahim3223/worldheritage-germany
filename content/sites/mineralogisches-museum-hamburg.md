@@ -58,7 +58,7 @@ While in Hamburg, visitors can explore several other notable attractions in prox
 
 2. **Planetarium Hamburg**: Situated in an old water tower, this planetarium offers fascinating shows about astronomy and the universe, making it an excellent complement to a visit to the mineral museum.
 
-3. **Hamburg Museum**: This museum provides a comprehensive overview of Hamburg’s history, culture, and development, allowing visitors to understand the context of the city better.
+3. **Hamburg Museum**: This museum provides a comprehensive overview of Hamburg's history, culture, and development, allowing visitors to understand the context of the city better.
 
 4. **Planten un Blomen**: A beautiful park located nearby, known for its lush gardens, water light shows, and peaceful walking paths, perfect for relaxation after a museum visit.
 
@@ -66,7 +66,7 @@ While in Hamburg, visitors can explore several other notable attractions in prox
 
 ## Insider Tips
 
-For photography enthusiasts, the Mineralogisches Museum may have specific policies regarding photography. It’s best to check the rules upon arrival, as some exhibits may allow photography while others may not.
+For photography enthusiasts, the Mineralogisches Museum may have specific policies regarding photography. It's best to check the rules upon arrival, as some exhibits may allow photography while others may not.
 
 To avoid crowds, consider visiting during weekday mornings. This timing generally offers a quieter atmosphere, allowing for a more personal experience with the exhibits. Also, be mindful of any special events or school visits that could increase the number of visitors.
 
@@ -76,7 +76,7 @@ If you have a particular interest in mineralogy or geology, consider preparing s
 
 When visiting the Mineralogisches Museum Hamburg, it is advisable to dress comfortably, as you may spend several hours exploring the exhibits. Good walking shoes will enhance your experience, especially if you plan to visit nearby attractions afterward.
 
-In terms of seasonal considerations, Hamburg can experience varying weather conditions, so it’s wise to check the forecast before your visit. Bring an umbrella or light jacket if visiting during the rainy season, as weather can change unexpectedly.
+In terms of seasonal considerations, Hamburg can experience varying weather conditions, so it's wise to check the forecast before your visit. Bring an umbrella or light jacket if visiting during the rainy season, as weather can change unexpectedly.
 
 Additionally, consider bringing a water bottle to stay hydrated during your visit. While specific amenities are not detailed, many museums offer nearby cafes or vending options, so plan accordingly.
 
@@ -86,7 +86,7 @@ Additionally, consider bringing a water bottle to stay hydrated during your visi
 Most visitors typically spend about 1.5 to 3 hours exploring the museum, depending on their level of interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum upon arrival. Some exhibits may permit photography while others may not.
+Photography policies may vary, so it's best to check with the museum upon arrival. Some exhibits may permit photography while others may not.
 
 ### Are there guided tours?
 The museum may offer guided tours or educational programs. Check the official website for details on availability and scheduling.
@@ -101,7 +101,7 @@ Check the official website for specific accessibility information to ensure a co
 For the most current information regarding ticket purchasing options, including online availability, refer to the official website.
 
 ### Are there restrooms and cafes?
-Restroom facilities are typically available within the museum. For cafes or food options, check the nearby attractions or the museum’s website for recommendations.
+Restroom facilities are typically available within the museum. For cafes or food options, check the nearby attractions or the museum's website for recommendations.
 
 ### What should I wear?
 Dress comfortably and wear good walking shoes, as you may spend a fair amount of time on your feet while exploring the exhibits. 

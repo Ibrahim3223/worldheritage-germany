@@ -54,7 +54,7 @@ While in Karben, there are several nearby attractions worth exploring:
 
 1. **St. Antonius Church** - A historic church that reflects the architectural styles of the region, offering a peaceful setting for visitors.
    
-2. **Karben’s City Park** - An ideal spot for a leisurely stroll or a picnic, with beautiful natural surroundings that highlight the local landscape.
+2. **Karben's City Park** - An ideal spot for a leisurely stroll or a picnic, with beautiful natural surroundings that highlight the local landscape.
    
 3. **Local Markets** - Experience the vibrant community atmosphere by visiting local markets that showcase fresh produce and handmade goods, often reflecting the region's agricultural heritage.
 
@@ -70,7 +70,7 @@ When visiting the Landwirtschafts- und Heimatmuseum Karben, consider the followi
   
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays, especially in the morning or later in the afternoon. This timing often results in fewer visitors and a more relaxed atmosphere.
 
-- **Engage with Staff**: The staff members are knowledgeable and can provide insights into the exhibits that may not be immediately apparent. Don’t hesitate to ask questions!
+- **Engage with Staff**: The staff members are knowledgeable and can provide insights into the exhibits that may not be immediately apparent. Don't hesitate to ask questions!
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ When preparing for your visit to the Landwirtschafts- und Heimatmuseum Karben, k
 
 - **Seasonal Considerations**: Depending on the time of year, the museum may offer seasonal exhibits or events. Check the official website for details that may enhance your visit.
 
-- **Accessibility**: If you have specific accessibility needs, it’s beneficial to check the museum's provisions beforehand to ensure a comfortable experience.
+- **Accessibility**: If you have specific accessibility needs, it's beneficial to check the museum's provisions beforehand to ensure a comfortable experience.
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Landwirtschafts- und Heimatmuseum Karben, k
 A visit typically lasts between one to two hours, but you may wish to extend your time if you engage deeply with the exhibits.
 
 ### Is photography allowed?
-Check the museum’s official policy regarding photography to ensure compliance with their guidelines.
+Check the museum's official policy regarding photography to ensure compliance with their guidelines.
 
 ### Are there guided tours?
 Currently, guided tours may be available; check the official website for current offerings and schedules.

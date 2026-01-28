@@ -64,7 +64,7 @@ While visiting the Alt-Leher Schule, several nearby attractions can enhance your
 
 3. **Zoo am Meer**: A charming zoo that focuses on marine life and offers a close encounter with various animal species, making it a delightful stop for families.
 
-4. **Bremerhaven Historical Museum**: This museum provides context to the city’s maritime history and its significance as a port and emigration hub.
+4. **Bremerhaven Historical Museum**: This museum provides context to the city's maritime history and its significance as a port and emigration hub.
 
 5. **Seafront Promenade**: A lovely area to take a leisurely walk, enjoy the sea air, and explore shops and cafes along the waterfront.
 
@@ -76,7 +76,7 @@ To avoid crowds, plan your visit during weekdays, especially in the off-peak mon
 
 ## Practical Information
 
-When preparing for your visit to the Alt-Leher Schule, it’s advisable to wear comfortable shoes, as you may want to explore the site thoroughly. Depending on the season, consider bringing a light jacket or umbrella, as weather conditions can vary.
+When preparing for your visit to the Alt-Leher Schule, it's advisable to wear comfortable shoes, as you may want to explore the site thoroughly. Depending on the season, consider bringing a light jacket or umbrella, as weather conditions can vary.
 
 Be sure to check the official website for any specific seasonal events or activities that may enhance your experience. If you plan to enjoy nearby attractions, consider a flexible itinerary to accommodate any unexpected discoveries along the way.
 

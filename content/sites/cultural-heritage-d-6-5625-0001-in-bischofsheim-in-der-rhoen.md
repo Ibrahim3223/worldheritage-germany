@@ -62,7 +62,7 @@ Bischofsheim in der Rhön is surrounded by several attractions that complement a
 
 2. **Bischofsheim Town Center**: The town itself is charming, with local shops, cafes, and eateries that provide a taste of Bavarian culture. It's an ideal place to relax after exploring the fortification.
 
-3. **Kellerwald**: This natural area offers scenic hiking opportunities and the chance to experience the region's flora and fauna. It’s a great spot for outdoor activities.
+3. **Kellerwald**: This natural area offers scenic hiking opportunities and the chance to experience the region's flora and fauna. It's a great spot for outdoor activities.
 
 4. **The Old Town of Bad Neustadt**: A short drive away, Bad Neustadt features historical buildings and a picturesque town square, making it a pleasant destination for those interested in history and architecture.
 

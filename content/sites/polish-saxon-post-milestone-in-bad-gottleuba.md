@@ -107,7 +107,7 @@ Accessibility details are not specified; it is advisable to check the official w
 Check the official website for current information regarding any potential entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-While specific amenities at the milestone are not mentioned, nearby areas likely offer facilities. It’s advisable to plan ahead.
+While specific amenities at the milestone are not mentioned, nearby areas likely offer facilities. It's advisable to plan ahead.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for outdoor exploration, keeping in mind seasonal weather conditions.

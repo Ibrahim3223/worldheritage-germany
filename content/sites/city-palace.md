@@ -28,13 +28,13 @@ image_srcset:
 
 In the heart of Potsdam, Germany, the City Palace stands as a historical landmark reflecting the glory of the Prussian monarchy. This grand palace once served as the residence of the Prussian kings and is significant not only for its architectural beauty but also for its role as the seat of the Brandenburg Landtag. With a rich history intertwined with the political and cultural evolution of Prussia and Germany, this site attracts visitors eager to explore its storied past.
 
-The City Palace’s strategic location in Potsdam enhances its importance, nestled among picturesque parks and gardens, making it a focal point of the city’s cultural landscape. Visitors can expect an immersive experience as they explore the grand halls and chambers that have witnessed pivotal moments in European history. Whether you are drawn to its historical significance or its architectural grandeur, a visit to the City Palace promises to enrich your understanding of Prussian heritage.
+The City Palace's strategic location in Potsdam enhances its importance, nestled among picturesque parks and gardens, making it a focal point of the city's cultural landscape. Visitors can expect an immersive experience as they explore the grand halls and chambers that have witnessed pivotal moments in European history. Whether you are drawn to its historical significance or its architectural grandeur, a visit to the City Palace promises to enrich your understanding of Prussian heritage.
 
 ## History and Significance
 
 The City Palace in Potsdam has a deep-rooted history that connects it to the rise and fall of the Prussian monarchy. Originally constructed as a residence for the kings of Prussia, it has played a vital role in the political landscape of the region. The palace served as a venue for significant events, including meetings of the Brandenburg Landtag, which contributed to the governance of Prussia.
 
-Throughout its history, the palace has undergone numerous transformations, reflecting the changing tastes and needs of its royal occupants. The architectural style of the building showcases the influences of various periods, marking the evolution of design in Germany. The City Palace not only represents the power and grandeur of the Prussian kings but also serves as a reminder of the region’s complex political history.
+Throughout its history, the palace has undergone numerous transformations, reflecting the changing tastes and needs of its royal occupants. The architectural style of the building showcases the influences of various periods, marking the evolution of design in Germany. The City Palace not only represents the power and grandeur of the Prussian kings but also serves as a reminder of the region's complex political history.
 
 Today, the palace stands as a symbol of Potsdam's cultural heritage. It is an important site for those interested in European history, offering insight into the lives of the royals who once called it home. The palace is also a hub for local events and exhibitions, continuing its legacy as a center of political and cultural activity in the region.
 
@@ -78,7 +78,7 @@ To make the most of your visit to the City Palace, consider the following tips:
 
 ## Practical Information
 
-Before heading to the City Palace, it’s essential to prepare adequately. Here are a few practical considerations:
+Before heading to the City Palace, it's essential to prepare adequately. Here are a few practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as visitors will likely spend considerable time on their feet. Additionally, a water bottle and a light jacket are advisable, especially if you plan to explore the gardens.
 
@@ -110,4 +110,4 @@ Yes, facilities are available on-site, including restrooms and cafes for refresh
 ### What should I wear?
 Dress comfortably with appropriate footwear for walking. Layered clothing is recommended to adjust to changing weather conditions.
 
-The City Palace in Potsdam stands as a vital piece of Germany’s rich heritage, inviting visitors to explore its historical significance and architectural beauty. Whether you are a history buff or an architecture enthusiast, this site offers an enriching experience that captures the essence of Prussian royalty.
+The City Palace in Potsdam stands as a vital piece of Germany's rich heritage, inviting visitors to explore its historical significance and architectural beauty. Whether you are a history buff or an architecture enthusiast, this site offers an enriching experience that captures the essence of Prussian royalty.

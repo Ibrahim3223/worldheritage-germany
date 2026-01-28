@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Stephanikirche zu Goslar is an architectural and cultural landmark in the heart of Goslar, Germany. This church building is not only an important religious site but also a significant representation of the region’s architectural heritage. Located at coordinates 51.907703, 10.433125, it stands as a testament to the city’s historical narrative, which is interwoven with the development of Christianity in Northern Germany. Goslar, known for its medieval charm and proximity to the Harz mountains, offers visitors an opportunity to explore a blend of nature and history, and Stephanikirche serves as a pivotal point in this exploration.
+Stephanikirche zu Goslar is an architectural and cultural landmark in the heart of Goslar, Germany. This church building is not only an important religious site but also a significant representation of the region's architectural heritage. Located at coordinates 51.907703, 10.433125, it stands as a testament to the city's historical narrative, which is interwoven with the development of Christianity in Northern Germany. Goslar, known for its medieval charm and proximity to the Harz mountains, offers visitors an opportunity to explore a blend of nature and history, and Stephanikirche serves as a pivotal point in this exploration.
 
 The church is a focal point for both locals and tourists, drawing those interested in architecture, history, and spirituality alike. As you approach the building, its intricate design and historical significance become increasingly evident, promising an enriching experience that combines contemplation and admiration. Visitors can expect to engage with the church's serene atmosphere, making it a perfect spot for reflection amid the bustling town.
 
@@ -70,7 +70,7 @@ While in Goslar, visitors can explore several attractions in close proximity to 
 
 4. **Goslar Museum** - This museum offers a variety of exhibits that delve into the cultural and historical significance of the region, making it a great complement to a visit to the church.
 
-5. **St. Jacob’s Church (Jakobskirche)** - Another notable church in the area, known for its impressive architecture and historical importance.
+5. **St. Jacob's Church (Jakobskirche)** - Another notable church in the area, known for its impressive architecture and historical importance.
 
 ## Insider Tips
 
@@ -94,7 +94,7 @@ As with any heritage site, be respectful of the space and the people who come to
 A visit typically takes about an hour, allowing time to appreciate the architecture and historical significance.
 
 ### Is photography allowed?
-Photography policies may vary, especially during services. It’s best to check with staff for guidance.
+Photography policies may vary, especially during services. It's best to check with staff for guidance.
 
 ### Are there guided tours?
 Check the official website for information on any guided tours that may be available during your visit.

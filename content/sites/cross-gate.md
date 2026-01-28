@@ -36,11 +36,11 @@ Cross Gate is more than just a historical site; it is a symbol of Ingolstadt's h
 
 Ingolstadt's establishment dates back to the 12th century, but it was during the late 14th century that significant fortifications were developed, including the construction of Cross Gate. Built in 1385, the gate formed part of the city's defensive walls, which were crucial in protecting against invasions and maintaining the integrity of the growing settlement. 
 
-The gate's strategic location as the western entrance to the Ingolstadt Fortress reveals its importance in the city’s military history. Throughout the centuries, it served as a first line of defense and a control point for the movement of people and goods. Its architecture reflects the defensive needs of the time, incorporating elements designed to withstand attacks while also allowing for the monitoring of incoming traffic.
+The gate's strategic location as the western entrance to the Ingolstadt Fortress reveals its importance in the city's military history. Throughout the centuries, it served as a first line of defense and a control point for the movement of people and goods. Its architecture reflects the defensive needs of the time, incorporating elements designed to withstand attacks while also allowing for the monitoring of incoming traffic.
 
 Culturally, Cross Gate has played a role in shaping Ingolstadt's identity. It stands as a reminder of the city's medieval past and its development over the years into a vibrant urban center. The gate not only marks a physical entry point but also symbolizes the historical transitions that Ingolstadt underwent, from a fortified town to a significant player in regional politics and trade.
 
-Visitors to Cross Gate can appreciate its significance beyond its structural form; it embodies the spirit of Ingolstadt’s resilience and adaptability through the ages. This historical landmark invites exploration and reflection on the narratives of those who have passed through its archway over the centuries.
+Visitors to Cross Gate can appreciate its significance beyond its structural form; it embodies the spirit of Ingolstadt's resilience and adaptability through the ages. This historical landmark invites exploration and reflection on the narratives of those who have passed through its archway over the centuries.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ The use of stone in construction reflects the durability required for such a piv
 
 Architectural details, such as the stone carvings and the design of the turrets, showcase the craftsmanship of the era. While specific decorative elements may not be detailed, the overall aesthetic combines functionality with the artistry typical of the period. Visitors can appreciate the intricate workmanship that has endured through the centuries, offering a glimpse into the skills of medieval builders.
 
-As you explore Cross Gate, the combination of its formidable structure and historical context shapes your understanding of its role in the city’s defense and daily life. The gate's design not only served practical purposes but also conveyed a sense of security and authority, reinforcing the importance of Ingolstadt as a fortified settlement.
+As you explore Cross Gate, the combination of its formidable structure and historical context shapes your understanding of its role in the city's defense and daily life. The gate's design not only served practical purposes but also conveyed a sense of security and authority, reinforcing the importance of Ingolstadt as a fortified settlement.
 
 ## Visiting Information
 
@@ -76,13 +76,13 @@ Ingolstadt is home to several notable attractions that complement a visit to Cro
 
 5. **Donaulände Park**: A scenic park along the Danube River, perfect for a leisurely stroll or a picnic after exploring the historical sites.
 
-These nearby attractions offer a well-rounded experience of Ingolstadt, allowing visitors to immerse themselves in the city’s rich heritage.
+These nearby attractions offer a well-rounded experience of Ingolstadt, allowing visitors to immerse themselves in the city's rich heritage.
 
 ## Insider Tips
 
 For photography enthusiasts, Cross Gate presents a fantastic opportunity to capture the essence of medieval architecture. Early mornings are particularly advantageous, as the soft light enhances the gate's features and minimizes the number of people in the frame. Consider shooting from various angles to highlight the turrets and the imposing guard tower.
 
-To avoid crowds, aim for a visit during weekdays or in the off-peak season. This approach not only allows for better photo opportunities but also a more immersive experience as you explore the site’s historical significance without the distractions of larger tourist groups.
+To avoid crowds, aim for a visit during weekdays or in the off-peak season. This approach not only allows for better photo opportunities but also a more immersive experience as you explore the site's historical significance without the distractions of larger tourist groups.
 
 ## Practical Information
 

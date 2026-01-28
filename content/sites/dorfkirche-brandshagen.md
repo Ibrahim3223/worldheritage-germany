@@ -67,7 +67,7 @@ While visiting Dorfkirche Brandshagen, consider exploring these nearby attractio
 
 ## Insider Tips
 
-For those looking to capture the essence of Dorfkirche Brandshagen through photography, consider visiting during the golden hours of early morning or late afternoon when the light is softer. This can enhance the church’s aesthetic appeal and provide stunning photographs.
+For those looking to capture the essence of Dorfkirche Brandshagen through photography, consider visiting during the golden hours of early morning or late afternoon when the light is softer. This can enhance the church's aesthetic appeal and provide stunning photographs.
 
 To avoid potential crowds, aim to visit during weekdays rather than weekends or public holidays, when church events may attract more visitors. This allows for a more intimate experience and the opportunity for quiet reflection.
 
@@ -92,7 +92,7 @@ Information about guided tours is not specified. Check the official website for 
 Visiting during spring or summer is generally favorable due to pleasant weather, but each season offers a unique ambiance.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided. It’s advisable to inquire directly or check the official website for specific accessibility features.
+Accessibility details are not provided. It's advisable to inquire directly or check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Ticket purchasing information is not specified. For the latest details, please check the official website.

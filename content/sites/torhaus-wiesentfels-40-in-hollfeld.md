@@ -50,7 +50,7 @@ The best times to visit may coincide with local festivals or events when the tow
 
 While visiting Torhaus Wiesentfels 40, there are several nearby attractions worth exploring:
 
-1. **St. John’s Church (Johanneskirche)** - A nearby church showcasing Gothic architecture, known for its stunning stained glass windows and serene atmosphere.
+1. **St. John's Church (Johanneskirche)** - A nearby church showcasing Gothic architecture, known for its stunning stained glass windows and serene atmosphere.
 
 2. **Hollfeld Town Square** - The heart of the town, featuring charming shops and cafes, perfect for a leisurely stroll or a quick bite.
 

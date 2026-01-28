@@ -52,7 +52,7 @@ For current information on opening hours and admission prices, it is advisable t
 
 Expect to spend a couple of hours at the site to fully absorb its historical and architectural significance. The best times to visit are during the shoulder seasons of spring and autumn when the weather is generally pleasant and the crowds are thinner. 
 
-During your visit, you may find guided tours available, which can enhance your understanding of the site’s history and features. Engaging with knowledgeable guides can provide deeper insights that enrich the experience.
+During your visit, you may find guided tours available, which can enhance your understanding of the site's history and features. Engaging with knowledgeable guides can provide deeper insights that enrich the experience.
 
 ## Nearby Attractions 
 
@@ -72,7 +72,7 @@ Aichach is surrounded by several attractions that complement a visit to the fort
 
 When visiting Cultural heritage D-7-7533-0005, consider the following tips to enhance your experience:
 
-- **Photography**: The fortification presents ample opportunities for photography. Early mornings or late afternoons offer the best natural lighting for capturing the site’s features.
+- **Photography**: The fortification presents ample opportunities for photography. Early mornings or late afternoons offer the best natural lighting for capturing the site's features.
 
 - **Crowd Management**: To avoid crowds, try to visit on weekdays or during off-peak hours. This will allow for a more personal experience and the chance to explore without the hustle and bustle of larger groups.
 
@@ -94,7 +94,7 @@ Before you head out to Cultural heritage D-7-7533-0005, here are a few practical
 A visit typically lasts around two hours, allowing time to explore the fortification and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, but it’s always good practice to check for any specific restrictions upon arrival.
+Yes, photography is generally permitted, but it's always good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the history and architecture of the site.

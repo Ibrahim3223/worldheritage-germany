@@ -40,7 +40,7 @@ The architectural features of Haus Harderode include intricate facades, decorati
 
 While exploring Haus Harderode, one may notice the varied rooflines, window designs, and ornamental details that exemplify the regional architectural styles. These features not only add to the aesthetic charm of the site but also provide insight into the historical context in which the buildings were constructed.
 
-Walking through the ensemble, visitors are encouraged to take their time and absorb the atmosphere. The careful craftsmanship and design elements present an excellent opportunity for architectural enthusiasts and casual visitors alike to engage with the site’s heritage.
+Walking through the ensemble, visitors are encouraged to take their time and absorb the atmosphere. The careful craftsmanship and design elements present an excellent opportunity for architectural enthusiasts and casual visitors alike to engage with the site's heritage.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ The site is known for its tranquil environment, making it ideal for leisurely ex
 
 1. **Castle Coppenbrügge**: This historic castle is located not far from Haus Harderode and offers visitors a glimpse into the region's feudal past. Its architecture and surrounding grounds provide a lovely setting for exploration.
 
-2. **Hameln**: Known for its association with the Pied Piper legend, Hameln is a vibrant town with a charming old town area, featuring half-timbered houses and lively markets. It’s a great spot to immerse yourself in local culture.
+2. **Hameln**: Known for its association with the Pied Piper legend, Hameln is a vibrant town with a charming old town area, featuring half-timbered houses and lively markets. It's a great spot to immerse yourself in local culture.
 
 3. **Weser Uplands**: This picturesque area offers opportunities for hiking and enjoying nature. The scenic landscapes and outdoor activities make it a perfect complement to your visit to Haus Harderode.
 

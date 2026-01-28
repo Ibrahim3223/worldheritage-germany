@@ -58,7 +58,7 @@ For those planning their visit, early mornings or late afternoons might offer a 
 
 After visiting the Marktkirche, there are several nearby attractions worth exploring:
 
-1. **Historical Town Center**: A short stroll from the church leads to the vibrant heart of the town, where visitors can discover local shops, cafes, and historical landmarks that reflect the area’s heritage.
+1. **Historical Town Center**: A short stroll from the church leads to the vibrant heart of the town, where visitors can discover local shops, cafes, and historical landmarks that reflect the area's heritage.
 
 2. **Local Museums**: Several museums in the vicinity showcase the region's history, art, and culture, offering deeper insights into the community's past and present.
 
@@ -76,7 +76,7 @@ To avoid larger crowds, aim to visit during weekdays, as weekends may attract mo
 
 ## Practical Information
 
-When planning your visit to the Marktkirche, it’s advisable to wear comfortable shoes, as exploring the area may involve some walking. Depending on the season, you might want to bring a light jacket, as temperatures can vary.
+When planning your visit to the Marktkirche, it's advisable to wear comfortable shoes, as exploring the area may involve some walking. Depending on the season, you might want to bring a light jacket, as temperatures can vary.
 
 Additionally, check the official website for any seasonal events or special services that may enhance your visit. Being prepared will ensure a smooth and enjoyable experience as you immerse yourself in the heritage of this remarkable church.
 

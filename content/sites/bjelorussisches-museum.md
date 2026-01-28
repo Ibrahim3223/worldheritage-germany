@@ -28,7 +28,7 @@ Located at coordinates 49.334294, 8.672344, the museum is easily accessible, wel
 
 The Bjelorussisches Museum holds a pivotal place in the preservation and dissemination of Belarusian culture within Germany. As a museum dedicated to the exploration of Belarusian heritage, it plays a crucial role in educating visitors about the experiences and contributions of Belarusian communities, particularly in the context of their historical ties to Germany and the wider world.
 
-While specific dates are not provided in the available data, the museum’s establishment reflects a growing recognition of the importance of cultural exchange and understanding. By showcasing Belarusian history—including significant events, traditional crafts, and artistic expressions—the museum contributes to a broader appreciation of this Eastern European nation. 
+While specific dates are not provided in the available data, the museum's establishment reflects a growing recognition of the importance of cultural exchange and understanding. By showcasing Belarusian history—including significant events, traditional crafts, and artistic expressions—the museum contributes to a broader appreciation of this Eastern European nation. 
 
 The collections housed within the museum include a variety of artifacts, which may range from traditional costumes and folk art to historical documents and photographs. Each piece tells a story, shedding light on the resilience and creativity of the Belarusian people throughout centuries of change, conflict, and social evolution. The museum not only serves as a preservation space but also as a platform for programming and events that engage the public in discussions around Belarusian identity and heritage.
 

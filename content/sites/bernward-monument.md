@@ -42,7 +42,7 @@ While precise historical details about the monument's creation are not specified
 
 The Bernward Monument is a statue that captures the essence of medieval artistry through its thoughtful design and execution. While specific architectural details are not provided, the monument is likely characterized by traditional sculptural techniques typical of the period. The statue is a visual representation of Bernward, and its features are crafted to convey his significance as a religious and cultural leader.
 
-The artistic style of the statue may reflect the Ottonian Renaissance, showcasing the intricate craftsmanship and attention to detail that defined this time. It is common for such monuments to include symbolic elements that represent the individual’s life and contributions, which could be mirrored in the design of Bernward’s statue.
+The artistic style of the statue may reflect the Ottonian Renaissance, showcasing the intricate craftsmanship and attention to detail that defined this time. It is common for such monuments to include symbolic elements that represent the individual's life and contributions, which could be mirrored in the design of Bernward's statue.
 
 Visitors will appreciate the monument's placement within Hildesheim, allowing it to be a focal point in the city's landscape. The surrounding area typically features pathways that invite exploration, enhancing the experience of engaging with the statue. The Bernward Monument, while primarily a tribute to a single individual, also serves as a broader representation of the artistic and architectural achievements of the era.
 
@@ -64,7 +64,7 @@ Hildesheim is home to several notable attractions that complement a visit to the
 
 3. **Museum August Kestner**: A cultural institution that houses a diverse collection of art and artifacts, providing further insight into the region's history.
 
-4. **The Historic Town Hall**: Another beautiful example of Hildesheim’s architectural heritage, this building is worth a visit for its intricate design and historical significance.
+4. **The Historic Town Hall**: Another beautiful example of Hildesheim's architectural heritage, this building is worth a visit for its intricate design and historical significance.
 
 5. **Church of St. Godehard**: Known for its beautiful architecture and serene atmosphere, this church is another key religious site in Hildesheim.
 
@@ -89,7 +89,7 @@ A visit to the Bernward Monument can typically be completed in about 30 to 60 mi
 Yes, photography is generally permitted, allowing you to capture the monument and the surrounding scenery.
 
 ### Are there guided tours?
-While specific information is not available, local tourism offices may provide guided tours focusing on Hildesheim’s historical sites, including the Bernward Monument.
+While specific information is not available, local tourism offices may provide guided tours focusing on Hildesheim's historical sites, including the Bernward Monument.
 
 ### What's the best time to visit?
 The best times to visit are typically late morning and early afternoon, with weekdays being less crowded than weekends.

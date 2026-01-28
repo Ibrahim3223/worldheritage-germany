@@ -34,13 +34,13 @@ The Church of Our Saviour embodies the enduring spirit of faith and community in
 
 Churches such as this one often act as cultural hubs within their communities, providing not just religious services but also hosting various events and activities that foster community engagement. The Church of Our Saviour is likely to have witnessed numerous changes in the surrounding area, adapting to the evolving needs of its congregation while remaining a steadfast symbol of faith.
 
-The significance of the Church of Our Saviour extends beyond its walls, as it bears witness to the social and historical transformations within Duisburg. Its presence enhances the city’s narrative, connecting the past with the present for visitors and locals alike. The church’s role in the community, amidst the backdrop of Duisburg’s industrial landscape, highlights the juxtaposition of spiritual and secular life, reinforcing its importance in understanding the region’s heritage.
+The significance of the Church of Our Saviour extends beyond its walls, as it bears witness to the social and historical transformations within Duisburg. Its presence enhances the city's narrative, connecting the past with the present for visitors and locals alike. The church's role in the community, amidst the backdrop of Duisburg's industrial landscape, highlights the juxtaposition of spiritual and secular life, reinforcing its importance in understanding the region's heritage.
 
 ## Architecture and Features
 
 The architectural design of the Church of Our Saviour reflects the typical characteristics of church buildings, emphasizing both form and function. Although detailed descriptions of specific architectural elements may not be available, one can anticipate features commonly associated with ecclesiastical architecture, such as a prominent façade, stained glass windows, and a towering steeple, all designed to inspire reverence and contemplation.
 
-Visitors can expect to find a harmonious blend of traditional and contemporary elements, which showcases the church’s adaptability over time. The interior likely includes a nave that serves as the main worship space, adorned with religious iconography that tells stories of faith and devotion. The overall layout is intended to facilitate gatherings and community worship, reinforcing the church's role as a central hub for spiritual life.
+Visitors can expect to find a harmonious blend of traditional and contemporary elements, which showcases the church's adaptability over time. The interior likely includes a nave that serves as the main worship space, adorned with religious iconography that tells stories of faith and devotion. The overall layout is intended to facilitate gatherings and community worship, reinforcing the church's role as a central hub for spiritual life.
 
 The Church of Our Saviour, while serving its primary function as a place of worship, also stands as a remarkable example of the architectural styles that have influenced church design in Germany over the years. The careful attention to structural details ensures that it remains a significant feature in the Duisburg skyline.
 
@@ -56,7 +56,7 @@ The recommended time for a visit can vary based on individual interests, but all
 
 While the Church of Our Saviour is a significant stop, the surrounding area of Duisburg offers additional attractions worth exploring. Consider visiting:
 
-1. **Duisburg Inner Harbour**: A revitalized area with shops, restaurants, and cultural venues that showcases the city’s maritime heritage.
+1. **Duisburg Inner Harbour**: A revitalized area with shops, restaurants, and cultural venues that showcases the city's maritime heritage.
    
 2. **Lehmbruck Museum**: An art museum dedicated to modern and contemporary art, featuring works by renowned artists.
 
@@ -72,7 +72,7 @@ To make the most of your visit to the Church of Our Saviour, consider the follow
 
 - **Photography**: Be mindful of the lighting conditions inside the church, as natural light can create dramatic effects on stained glass windows. Early morning or late afternoon light may yield the best results for photography.
 
-- **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or during off-peak hours. This will allow for a more personal exploration of the church’s features.
+- **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or during off-peak hours. This will allow for a more personal exploration of the church's features.
 
 ## Practical Information
 
@@ -93,7 +93,7 @@ A visit typically takes about an hour, allowing for exploration of both the inte
 Photography is generally permitted, but be mindful of any signs indicating restrictions, particularly during services.
 
 ### Are there guided tours?
-Check the official website for information about guided tours, as they may be available and enhance your understanding of the church’s history.
+Check the official website for information about guided tours, as they may be available and enhance your understanding of the church's history.
 
 ### What's the best time to visit?
 Visiting during weekdays or early mornings can provide a quieter experience compared to weekends.

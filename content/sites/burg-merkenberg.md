@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Burg Merkenberg, a striking castle located in the scenic region of Neidlingen, Germany, presents an intriguing glimpse into medieval architecture and history. This impressive structure captures the imagination of visitors with its commanding presence and picturesque setting. As part of Germany’s rich cultural heritage, Burg Merkenberg serves as a significant landmark that reflects the architectural styles and historical narratives of the period in which it was constructed. 
+Burg Merkenberg, a striking castle located in the scenic region of Neidlingen, Germany, presents an intriguing glimpse into medieval architecture and history. This impressive structure captures the imagination of visitors with its commanding presence and picturesque setting. As part of Germany's rich cultural heritage, Burg Merkenberg serves as a significant landmark that reflects the architectural styles and historical narratives of the period in which it was constructed. 
 
 The castle's geographical coordinates, 48.5879 latitude and 9.57481 longitude, place it in a region known for its rolling hills and lush landscapes, which have historically influenced the development of settlements and fortifications. While details about its specific historical timeline may be limited, its continued preservation and accessibility make it a noteworthy destination for both history enthusiasts and casual visitors alike. As you explore the castle and its surroundings, you will find the opportunity to appreciate the craftsmanship that has withstood the test of time.
 
@@ -72,7 +72,7 @@ While Burg Merkenberg itself is a highlight, the surrounding area offers several
 
 For photography enthusiasts, Burg Merkenberg provides ample opportunities to capture stunning shots of its architecture and the surrounding landscapes. Early morning or late afternoon light can enhance the aesthetics of your photographs. Additionally, visiting during weekdays may help you avoid larger crowds, allowing for a more intimate experience with the site.
 
-When exploring the castle, take your time to appreciate the details in the architecture and the historical context. Engaging with informational displays or guides can enrich your understanding of the site’s significance.
+When exploring the castle, take your time to appreciate the details in the architecture and the historical context. Engaging with informational displays or guides can enrich your understanding of the site's significance.
 
 ## Practical Information
 

@@ -76,7 +76,7 @@ To make the most of your visit to Burg Großstadelhofen, consider these insider 
 
 When visiting Burg Großstadelhofen, it is advisable to bring along essentials such as water, comfortable walking shoes, and a camera. Depending on the season, weather can vary significantly, so dressing in layers is recommended to accommodate changes in temperature and conditions.
 
-It’s also wise to check for any seasonal events or festivals that may be taking place during your visit, as these can add an enriching layer to your experience at the castle.
+It's also wise to check for any seasonal events or festivals that may be taking place during your visit, as these can add an enriching layer to your experience at the castle.
 
 ## Frequently Asked Questions
 

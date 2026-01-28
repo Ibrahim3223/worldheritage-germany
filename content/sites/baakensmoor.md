@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during weekdays or early in the morning. This
 
 ## Practical Information
 
-When preparing for a visit to Baakensmoor, it’s advisable to wear comfortable walking shoes suitable for various terrains. Depending on the season, dressing in layers can help you adjust to changing temperatures throughout the day. Don’t forget to bring essentials such as water, snacks, and sunscreen, as well as binoculars for wildlife observation.
+When preparing for a visit to Baakensmoor, it's advisable to wear comfortable walking shoes suitable for various terrains. Depending on the season, dressing in layers can help you adjust to changing temperatures throughout the day. Don't forget to bring essentials such as water, snacks, and sunscreen, as well as binoculars for wildlife observation.
 
 Seasonal considerations are important as well; spring and summer months often see more visitors, while fall can bring beautiful foliage. Winter visits, although less common, offer a different perspective on the reserve's beauty, often blanketed in snow.
 
@@ -89,15 +89,15 @@ Currently, specific guided tours may not be available. However, self-guided expl
 Spring and early summer are ideal for wildlife observation, although each season offers unique experiences.
 
 ### Is it wheelchair accessible?
-Certain areas may have accessibility features, but it’s advisable to check specific paths and facilities on the official website.
+Certain areas may have accessibility features, but it's advisable to check specific paths and facilities on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding any entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to confirm availability on the official website prior to your visit.
+Facilities may vary, so it's best to confirm availability on the official website prior to your visit.
 
 ### What should I wear?
 Dress comfortably in layers, suitable for walking, and adapt to the seasonal weather conditions.
 
-Baakensmoor presents a unique blend of nature conservation and recreational opportunities, inviting visitors to immerse themselves in the beauty of Lower Saxony’s natural landscapes. Enjoy your visit!
+Baakensmoor presents a unique blend of nature conservation and recreational opportunities, inviting visitors to immerse themselves in the beauty of Lower Saxony's natural landscapes. Enjoy your visit!

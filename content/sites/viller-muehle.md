@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Viller Mühle, located in the quaint region of Goch, Germany, serves as a museum that invites visitors to explore the local heritage and the significance of milling in the area. While its historical roots are not precisely documented, the museum stands as a testament to the traditional practices that have shaped the community over generations. The museum’s location in Goch adds a layer of charm, surrounded by the picturesque landscapes of North Rhine-Westphalia.
+Viller Mühle, located in the quaint region of Goch, Germany, serves as a museum that invites visitors to explore the local heritage and the significance of milling in the area. While its historical roots are not precisely documented, the museum stands as a testament to the traditional practices that have shaped the community over generations. The museum's location in Goch adds a layer of charm, surrounded by the picturesque landscapes of North Rhine-Westphalia.
 
 As you step into Viller Mühle, you encounter a blend of cultural exploration and educational experiences. Here, the history of milling is not just about the machinery but delves into the lives of those who relied on these mills for their livelihood. The museum provides insight into the evolution of milling technology and its impact on local agriculture and trade. Visitors can expect a space that fosters a deeper understanding of regional customs and historical practices, making it a significant stop for heritage enthusiasts.
 

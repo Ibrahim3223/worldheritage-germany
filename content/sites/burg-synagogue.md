@@ -50,7 +50,7 @@ Inside, the layout of the synagogue would traditionally include a prayer area, s
 
 Visiting the Burg synagogue is an enriching experience for those interested in history and culture. The location is accessible via various modes of transport, making it convenient for both local and international visitors. As the site may have specific visiting hours and admission prices, it is advisable to check the official website for current information before planning your visit.
 
-When visiting, expect to spend at least an hour exploring the site. This time allows for a thorough appreciation of the synagogue's historical context and architectural features. Engaging with any available informational materials can enhance your understanding of the site’s significance.
+When visiting, expect to spend at least an hour exploring the site. This time allows for a thorough appreciation of the synagogue's historical context and architectural features. Engaging with any available informational materials can enhance your understanding of the site's significance.
 
 The best times to visit are often during weekdays when crowds are lighter, allowing for a more reflective experience. If possible, consider timing your visit to coincide with any guided tours or special events, which can provide deeper insights into the synagogue's history and role in the community.
 
@@ -86,7 +86,7 @@ If you are visiting during colder months, check if there are any seasonal consid
 A visit typically takes about an hour, allowing time to explore the synagogue's features and learn about its history.
 
 ### Is photography allowed?
-Photography policies may vary. It’s best to check on-site or consult the official website for any restrictions regarding photography.
+Photography policies may vary. It's best to check on-site or consult the official website for any restrictions regarding photography.
 
 ### Are there guided tours?
 Guided tours may be available, offering a deeper understanding of the synagogue's history. Check the official website for scheduling and availability.
@@ -101,7 +101,7 @@ Accessibility details are best confirmed by checking the official website for sp
 For ticketing information, including online purchase options, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for details on available amenities.
+Facilities may vary; it's advisable to check the official website for details on available amenities.
 
 ### What should I wear?
 Dress comfortably and respectfully, considering that it is a historical and cultural site.

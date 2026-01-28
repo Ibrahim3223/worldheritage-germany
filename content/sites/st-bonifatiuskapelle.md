@@ -64,7 +64,7 @@ While St. Bonifatiuskapelle is a destination in its own right, several nearby at
 
 1. **Frankfurt Botanical Garden** - A short distance away, this garden offers a diverse collection of plants and peaceful walking paths, perfect for nature enthusiasts.
 
-2. **Historical Museum Frankfurt** - Located in the city center, this museum provides insights into the city’s history and its evolution over the centuries.
+2. **Historical Museum Frankfurt** - Located in the city center, this museum provides insights into the city's history and its evolution over the centuries.
 
 3. **Römer** - This iconic medieval building in Frankfurt is a symbol of the city's history and hosts various cultural events throughout the year.
 

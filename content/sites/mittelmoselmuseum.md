@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mittelmoselmuseum, located in the picturesque town of Traben-Trarbach, Germany, serves as a fascinating portal into the cultural heritage of the Mosel region. A well-curated collection within its walls highlights the area’s deep-rooted history, showcasing not only its viniculture but also its artisanal crafts and everyday life throughout the centuries. Visitors are drawn not only by the museum's offerings but also by the charming ambiance of Traben-Trarbach, a town renowned for its stunning half-timbered houses and scenic river views. 
+The Mittelmoselmuseum, located in the picturesque town of Traben-Trarbach, Germany, serves as a fascinating portal into the cultural heritage of the Mosel region. A well-curated collection within its walls highlights the area's deep-rooted history, showcasing not only its viniculture but also its artisanal crafts and everyday life throughout the centuries. Visitors are drawn not only by the museum's offerings but also by the charming ambiance of Traben-Trarbach, a town renowned for its stunning half-timbered houses and scenic river views. 
 
 The museum stands as a cultural anchor in this historic locale, inviting guests to delve into the past and understand the evolution of the region. Its collections are designed to engage, educate, and inspire, making it a must-visit for anyone interested in the rich cultural narrative of the Mosel Valley.
 
@@ -62,11 +62,11 @@ After exploring the Mittelmoselmuseum, visitors can extend their cultural journe
 
 2. **Mosel River Promenade**: Take a leisurely stroll along the river, where you can enjoy scenic views and perhaps stop at one of the local cafés or wine bars.
 
-3. **Burg Grevenburg**: This historic castle offers a glimpse into the region’s medieval past and provides panoramic views of the Mosel Valley.
+3. **Burg Grevenburg**: This historic castle offers a glimpse into the region's medieval past and provides panoramic views of the Mosel Valley.
 
 4. **Wine Cellars of Traben-Trarbach**: Visit some of the town's renowned wine cellars for tastings and to learn more about the local viniculture.
 
-5. **Local Vineyards**: Explore the surrounding vineyards, where you can witness the winemaking process and enjoy tastings of the region’s exceptional wines.
+5. **Local Vineyards**: Explore the surrounding vineyards, where you can witness the winemaking process and enjoy tastings of the region's exceptional wines.
 
 ## Insider Tips
 

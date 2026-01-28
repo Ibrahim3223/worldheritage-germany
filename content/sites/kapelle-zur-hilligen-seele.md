@@ -28,7 +28,7 @@ image_srcset:
 
 The Kapelle zur hilligen Seele, an evocative chapel located in Borchen, Germany, invites visitors to explore its serene ambiance and historical significance. Set against the backdrop of Central Germany, this chapel serves as a noteworthy religious and cultural landmark. While relatively modest in size, its significance extends beyond its physical structure, representing a spiritual haven for locals and visitors alike. Whether seeking a moment of reflection or an appreciation for regional architecture, this chapel offers a unique glimpse into the spiritual fabric of the community.
 
-As you approach the Kapelle zur hilligen Seele, the peaceful surroundings and the chapel's understated charm create an atmosphere conducive to contemplation. The chapel is an integral part of Borchen’s cultural landscape, contributing to the town's heritage and providing a gathering place for religious services and community events. The simplicity of its design and the profound sense of peace it embodies make it a destination worth exploring.
+As you approach the Kapelle zur hilligen Seele, the peaceful surroundings and the chapel's understated charm create an atmosphere conducive to contemplation. The chapel is an integral part of Borchen's cultural landscape, contributing to the town's heritage and providing a gathering place for religious services and community events. The simplicity of its design and the profound sense of peace it embodies make it a destination worth exploring.
 
 ## History and Significance
 

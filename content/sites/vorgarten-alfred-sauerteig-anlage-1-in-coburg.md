@@ -44,7 +44,7 @@ Visiting the Vorgarten Alfred-Sauerteig-Anlage 1 offers a delightful experience 
 
 While specific hours of operation and admission prices are not detailed here, it is advisable to check the official website for current information regarding visiting hours and any potential fees. This ensures that visitors have the most accurate and up-to-date information before planning their visit.
 
-The garden is suitable for a leisurely stroll, and visitors may find that spending around an hour is sufficient to enjoy its tranquil ambiance. The best times to visit would typically be during the spring and summer months when the plants are in full bloom. However, each season offers a unique perspective on the garden’s beauty, making it worthwhile to visit at different times throughout the year.
+The garden is suitable for a leisurely stroll, and visitors may find that spending around an hour is sufficient to enjoy its tranquil ambiance. The best times to visit would typically be during the spring and summer months when the plants are in full bloom. However, each season offers a unique perspective on the garden's beauty, making it worthwhile to visit at different times throughout the year.
 
 Expect a peaceful environment where visitors can take in the fresh air and enjoy the intricacies of the garden design. Whether for a short visit or a longer stay, the Vorgarten Alfred-Sauerteig-Anlage 1 serves as a serene escape from the hustle and bustle of daily life.
 

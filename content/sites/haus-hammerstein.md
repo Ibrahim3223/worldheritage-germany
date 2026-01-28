@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Haus Hammerstein stands as an impressive example of a historic manor house situated in the Wuppertal district of Vohwinkel, Germany. This striking structure offers visitors a glimpse into the region's architectural heritage and serves as a reminder of the area’s historical significance. The manor's elegant design and storied past make it a noteworthy site for those interested in architecture and history alike. Though it may not be as widely recognized as other landmarks, Haus Hammerstein is an enriching stop for heritage enthusiasts exploring Wuppertal.
+Haus Hammerstein stands as an impressive example of a historic manor house situated in the Wuppertal district of Vohwinkel, Germany. This striking structure offers visitors a glimpse into the region's architectural heritage and serves as a reminder of the area's historical significance. The manor's elegant design and storied past make it a noteworthy site for those interested in architecture and history alike. Though it may not be as widely recognized as other landmarks, Haus Hammerstein is an enriching stop for heritage enthusiasts exploring Wuppertal.
 
 The location of Haus Hammerstein in Wuppertal, a city known for its unique architecture and innovative transport systems, adds to its charm. Visitors are often drawn to the area not only for the manor itself but also for the rich cultural context that surrounds it. The manor house reflects the societal changes and architectural trends of the time, making it a significant element in understanding the broader historical narrative of the region.
 
@@ -52,7 +52,7 @@ As you explore Haus Hammerstein, take time to appreciate both the subtle and str
 
 ## Visiting Information
 
-When planning a visit to Haus Hammerstein, it’s important to consider transportation options. The manor is located in Wuppertal, which is accessible by various forms of public transport, including trains and buses. Visitors can check local schedules to find the most convenient routes to reach the site.
+When planning a visit to Haus Hammerstein, it's important to consider transportation options. The manor is located in Wuppertal, which is accessible by various forms of public transport, including trains and buses. Visitors can check local schedules to find the most convenient routes to reach the site.
 
 Before heading out, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. This will help ensure a smooth visit, as timings may vary throughout the year or due to special events.
 

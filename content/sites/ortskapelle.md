@@ -74,13 +74,13 @@ For those planning a visit to the Ortskapelle, consider bringing a camera to cap
 
 To avoid crowds, consider visiting during off-peak hours, such as early mornings or weekdays. This timing will enhance the experience, allowing for a more peaceful visit to the chapel.
 
-Additionally, engaging with local residents may provide unique insights into the chapel’s significance and history, enriching your understanding of the site.
+Additionally, engaging with local residents may provide unique insights into the chapel's significance and history, enriching your understanding of the site.
 
 ## Practical Information
 
 When visiting the Ortskapelle, it's advisable to bring a few essentials. Water and light snacks can be helpful, especially if you plan to explore the surrounding area. Comfortable shoes are recommended for walking, particularly if you intend to visit nearby attractions.
 
-Seasonal considerations should also be on your radar; if you’re visiting during the colder months, dress warmly, as the chapel may not be heated. In contrast, warmer months may provide a pleasant atmosphere for outdoor exploration.
+Seasonal considerations should also be on your radar; if you're visiting during the colder months, dress warmly, as the chapel may not be heated. In contrast, warmer months may provide a pleasant atmosphere for outdoor exploration.
 
 While the chapel is a place of worship, visitors should also be prepared for the possibility of attending a service if they arrive during scheduled times. Respecting the chapel's function as a sacred space is paramount.
 
@@ -93,7 +93,7 @@ A visit to the Ortskapelle typically takes around one to two hours, allowing amp
 Photography may be permitted, but it's essential to be respectful of the sacred nature of the chapel. Always check for any signage regarding photography.
 
 ### Are there guided tours?
-Currently, guided tours may not be available; it’s best to check the official website for more information on any guided opportunities.
+Currently, guided tours may not be available; it's best to check the official website for more information on any guided opportunities.
 
 ### What's the best time to visit?
 The best time to visit is during daylight hours, particularly on weekdays when the chapel is likely to be quieter.

@@ -34,7 +34,7 @@ Culturally, Burg Leiterberg serves as a physical manifestation of the historical
 
 ## Architecture and Features
 
-Burg Leiterberg’s architecture is a captivating blend of functional design and historical aesthetics. As a castle, its primary purpose was defense, and this is reflected in its robust structure. The exact architectural style may not be detailed, but castles of this era commonly featured thick stone walls, imposing towers, and narrow windows designed for both security and surveillance.
+Burg Leiterberg's architecture is a captivating blend of functional design and historical aesthetics. As a castle, its primary purpose was defense, and this is reflected in its robust structure. The exact architectural style may not be detailed, but castles of this era commonly featured thick stone walls, imposing towers, and narrow windows designed for both security and surveillance.
 
 One of the notable features of Burg Leiterberg is its strategic location, which would have been chosen for its defensive advantages. The castle likely incorporates elements typical of medieval fortifications, such as a keep, which served as the residence for the lord and a safe haven during attacks. Surrounding the main structure, there might be remnants of a moat or earthworks, further enhancing its defensive capabilities.
 
@@ -87,13 +87,13 @@ A visit to Burg Leiterberg typically takes about 2 to 3 hours, allowing ample ti
 Yes, photography is generally permitted at the castle, but it is advisable to respect any specific restrictions that may be in place.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these can provide deeper insights into the castle’s history and architecture.
+Check the official website for information regarding guided tours, as these can provide deeper insights into the castle's history and architecture.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and early autumn when the weather is mild and conducive for exploration.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s best to consult the official website for details regarding wheelchair access.
+Accessibility information is not specified, so it's best to consult the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, as they may offer online sales.

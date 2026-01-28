@@ -61,7 +61,7 @@ Hoya offers a variety of attractions that can complement a visit to the Town Hal
 1. **Local Parks**: Explore green spaces that provide a serene environment for relaxation and leisure activities.
 2. **Cultural Institutions**: Check for nearby museums or galleries that showcase local art and history.
 3. **Historical Sites**: Discover other significant buildings that reflect the architectural heritage of Hoya.
-4. **Shopping Areas**: Browse local shops to experience the community’s commerce and craftsmanship.
+4. **Shopping Areas**: Browse local shops to experience the community's commerce and craftsmanship.
 5. **Dining Options**: Sample regional cuisine at nearby restaurants or cafés.
 
 These attractions enhance the overall experience of visiting Hoya, making it worthwhile to allocate additional time for exploration.
@@ -70,7 +70,7 @@ These attractions enhance the overall experience of visiting Hoya, making it wor
 
 For those looking to capture the essence of the Town Hall through photography, consider visiting during the golden hours—early morning or late afternoon—when the natural light enhances the building's features. Additionally, arriving early in the day can help avoid larger crowds, allowing for a more personal experience.
 
-If you’re interested in local events, it may be beneficial to check the town's calendar, as special occasions can provide unique insights into community life.
+If you're interested in local events, it may be beneficial to check the town's calendar, as special occasions can provide unique insights into community life.
 
 ## Practical Information
 
@@ -104,4 +104,4 @@ Nearby facilities may be available; check local resources for specific details o
 ### What should I wear?
 Wear comfortable clothing and footwear suitable for walking, and consider seasonal weather conditions when planning your attire. 
 
-In summary, the Town Hall of Hoya is not just a city hall; it is a centerpiece of community life, a hub of local governance, and a site for cultural activities. Whether you are a history enthusiast, an architecture lover, or simply a traveler seeking to understand the local culture, a visit to Hoya’s Town Hall promises to be a meaningful experience.
+In summary, the Town Hall of Hoya is not just a city hall; it is a centerpiece of community life, a hub of local governance, and a site for cultural activities. Whether you are a history enthusiast, an architecture lover, or simply a traveler seeking to understand the local culture, a visit to Hoya's Town Hall promises to be a meaningful experience.

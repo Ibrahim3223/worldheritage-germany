@@ -28,9 +28,9 @@ image_srcset:
 
 Dorotheenstadt Cemetery, located in the heart of Berlin's Bezirk Mitte, is a serene and contemplative space that invites visitors to reflect on the lives and legacies of those interred within its boundaries. This cemetery, with its meticulously maintained grounds and historical significance, offers a unique opportunity to connect with Berlin's cultural heritage. As you stroll through its tree-lined paths, you will encounter the resting places of many notable figures, making it not just a burial site but a cultural landmark that adds depth to the understanding of Berlin's history.
 
-Established as a burial ground for the residents of the city, Dorotheenstadt Cemetery has evolved into a site of remembrance and honor. It serves as a testament to the city’s diverse historical narratives, showcasing the artistic and intellectual contributions of its inhabitants. The cemetery's tranquil environment, combined with its rich history, creates an atmosphere that is both reflective and profound, making it a worthwhile destination for anyone interested in Berlin's heritage.
+Established as a burial ground for the residents of the city, Dorotheenstadt Cemetery has evolved into a site of remembrance and honor. It serves as a testament to the city's diverse historical narratives, showcasing the artistic and intellectual contributions of its inhabitants. The cemetery's tranquil environment, combined with its rich history, creates an atmosphere that is both reflective and profound, making it a worthwhile destination for anyone interested in Berlin's heritage.
 
-Visitors can expect to find a peaceful retreat amid the urban landscape, where nature and history intertwine seamlessly. The cemetery's significance extends beyond its role as a final resting place; it stands as a reminder of the vibrant lives that shaped Berlin’s cultural and intellectual landscape.
+Visitors can expect to find a peaceful retreat amid the urban landscape, where nature and history intertwine seamlessly. The cemetery's significance extends beyond its role as a final resting place; it stands as a reminder of the vibrant lives that shaped Berlin's cultural and intellectual landscape.
 
 ## History and Significance
 
@@ -106,7 +106,7 @@ Visiting in the spring or autumn is ideal for experiencing the natural beauty of
 While specific accessibility details are not provided, many urban cemeteries strive to be inclusive. It is best to check the official website for current information.
 
 ### Can I buy tickets online?
-There is no specific information available regarding ticket purchases, so it’s recommended to check the official website for any updates.
+There is no specific information available regarding ticket purchases, so it's recommended to check the official website for any updates.
 
 ### Are there restrooms and cafes?
 Check the official website for information on available amenities, such as restrooms and nearby cafes.

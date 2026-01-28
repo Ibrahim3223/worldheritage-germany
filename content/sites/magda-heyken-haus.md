@@ -72,7 +72,7 @@ While visiting the Magda-Heyken-Haus, consider exploring these nearby attraction
 
 To make the most of your visit to the Magda-Heyken-Haus, consider the following tips:
 
-- **Photography**: While many museums allow photography, it’s best to check for any specific guidelines regarding the use of cameras within the exhibits. 
+- **Photography**: While many museums allow photography, it's best to check for any specific guidelines regarding the use of cameras within the exhibits. 
 
 - **Crowd Avoidance**: Plan your visit during weekdays or early in the day to enjoy a quieter experience. Special events or weekends may attract more visitors.
 
@@ -114,4 +114,4 @@ Facilities such as restrooms are typically available, but check the museum's off
 ### What should I wear?
 Dress comfortably and appropriately for the weather, as you may spend time both indoors and outdoors during your visit.
 
-The Magda-Heyken-Haus is more than just a museum; it's a gateway to understanding the cultural history of Hage and the surrounding region. Whether you’re deeply interested in history or just looking for an interesting activity, this museum offers an engaging and educational experience for all.
+The Magda-Heyken-Haus is more than just a museum; it's a gateway to understanding the cultural history of Hage and the surrounding region. Whether you're deeply interested in history or just looking for an interesting activity, this museum offers an engaging and educational experience for all.

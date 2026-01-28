@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Johanneskirche, located in the Steglitz-Zehlendorf district of Berlin, is a fascinating church building that represents a significant piece of the area's architectural and cultural heritage. As a central place of worship for the local community, its presence in the heart of this vibrant district underscores its importance as a spiritual and communal hub. Visitors to Berlin will find Johanneskirche not only serves as a place of reflection and peace but also adds to the diverse tapestry of the city’s rich history. The church invites exploration, whether for its architectural features or its place within the broader context of Berlin's religious landscape.
+Johanneskirche, located in the Steglitz-Zehlendorf district of Berlin, is a fascinating church building that represents a significant piece of the area's architectural and cultural heritage. As a central place of worship for the local community, its presence in the heart of this vibrant district underscores its importance as a spiritual and communal hub. Visitors to Berlin will find Johanneskirche not only serves as a place of reflection and peace but also adds to the diverse tapestry of the city's rich history. The church invites exploration, whether for its architectural features or its place within the broader context of Berlin's religious landscape.
 
 Situated in a region that blends residential charm with urban convenience, Johanneskirche is easily accessible, making it an ideal stop for both pilgrims and curious travelers alike. The church's design and community significance promise a rewarding experience for anyone looking to understand more about Berlin's historical fabric. 
 
@@ -36,7 +36,7 @@ The history of Johanneskirche reflects the broader narrative of Berlin and its c
 
 As one of the many churches in Berlin, Johanneskirche contributes to the city's religious diversity. The church serves various community functions, from regular worship services to special events, thereby fostering a sense of belonging among its congregation. It plays a vital role in the spiritual life of the area, offering a sanctuary for reflection and community gathering.
 
-The cultural importance of Johanneskirche extends beyond its religious functions. Churches in Berlin often serve as historical markers that witness the city’s evolution through various political and social upheavals. While the specifics of Johanneskirche’s involvement in these events are not outlined, it is part of a larger narrative that involves resilience and continuity within the community.
+The cultural importance of Johanneskirche extends beyond its religious functions. Churches in Berlin often serve as historical markers that witness the city's evolution through various political and social upheavals. While the specifics of Johanneskirche's involvement in these events are not outlined, it is part of a larger narrative that involves resilience and continuity within the community.
 
 ## Architecture and Features
 

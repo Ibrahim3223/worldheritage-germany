@@ -30,7 +30,7 @@ The Apollo-Theater in Siegen, Germany, represents a modern revival of cultural e
 
 ## History and Significance
 
-The Apollo-Theater occupies a site rich with cinematic history, having replaced the original Apollo cinema that captivated audiences prior to its closure. The decision to build a new theatre at this location signals a commitment to revitalize cultural life in Siegen. Although specific dates surrounding the original cinema’s operational years are not available, its legacy undoubtedly played a role in shaping the community's entertainment landscape. 
+The Apollo-Theater occupies a site rich with cinematic history, having replaced the original Apollo cinema that captivated audiences prior to its closure. The decision to build a new theatre at this location signals a commitment to revitalize cultural life in Siegen. Although specific dates surrounding the original cinema's operational years are not available, its legacy undoubtedly played a role in shaping the community's entertainment landscape. 
 
 The construction of the Apollo-Theater was not merely an architectural endeavor; it was a cultural statement. By preserving the façade of the former cinema, the new building honors the past while providing a modern venue for artistic expression. This duality is significant as it illustrates the evolution of cultural spaces in an era where many historic theatres have been lost to time. The Apollo-Theater has become a vital hub for local and touring productions, educational programs, and community events, enriching the cultural fabric of Siegen.
 
@@ -40,7 +40,7 @@ As a contemporary theatre, the Apollo-Theater serves diverse audiences, showcasi
 
 The Apollo-Theater is notable for its modern architectural design, which harmonizes with the preserved elements of the former cinema. While the original façade has been retained, the new structure offers a fresh perspective on the traditional theatre experience. The exterior is characterized by clean lines and contemporary materials, creating a striking visual contrast with the historical façade.
 
-Inside, visitors will find a thoughtfully designed auditorium equipped to accommodate a range of performances. While specific dimensions and seating capacities are not detailed, the layout is crafted to enhance the audience’s experience, ensuring optimal sightlines and acoustics. The theatre likely includes state-of-the-art lighting and sound systems, allowing for a diverse array of productions from dramatic plays to musical concerts.
+Inside, visitors will find a thoughtfully designed auditorium equipped to accommodate a range of performances. While specific dimensions and seating capacities are not detailed, the layout is crafted to enhance the audience's experience, ensuring optimal sightlines and acoustics. The theatre likely includes state-of-the-art lighting and sound systems, allowing for a diverse array of productions from dramatic plays to musical concerts.
 
 Additionally, the theatre's design may incorporate communal spaces, such as a lobby or café area, where patrons can gather before and after performances. Such features enhance the overall experience, fostering a sense of community among attendees. The blend of historical preservation and modern functionality showcases the ability of architecture to reflect both the past and the future.
 

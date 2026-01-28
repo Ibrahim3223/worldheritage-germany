@@ -78,7 +78,7 @@ These nearby attractions can easily complement a visit to the museum, allowing y
 
 For those planning a visit to the Augsburg Textile and Industry Museum, here are some insider tips to enhance your experience:
 
-- **Photography**: Be sure to check the museum's policy on photography, as some areas may restrict it to preserve artifacts. However, many exhibits are quite photogenic, so keep your camera ready for those moments when it’s allowed.
+- **Photography**: Be sure to check the museum's policy on photography, as some areas may restrict it to preserve artifacts. However, many exhibits are quite photogenic, so keep your camera ready for those moments when it's allowed.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during off-peak hours. Weekdays, particularly Tuesday through Thursday, tend to have fewer visitors compared to weekends.
 

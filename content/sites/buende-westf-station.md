@@ -60,7 +60,7 @@ Bünde is surrounded by several attractions that can enrich your visit. Here are
 
 1. **Bünde Town Center:** Just a short distance from the station, the town center features shops, cafes, and local markets, making it a lively area to experience daily life in Bünde.
 
-2. **Museum Bünde:** This local museum offers insights into the history and culture of the region, showcasing various exhibitions that highlight the area’s heritage.
+2. **Museum Bünde:** This local museum offers insights into the history and culture of the region, showcasing various exhibitions that highlight the area's heritage.
 
 3. **St. Joseph Church:** An architectural landmark in Bünde, this church is known for its stunning design and serene atmosphere, inviting visitors to appreciate its beauty.
 

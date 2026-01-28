@@ -34,7 +34,7 @@ As you approach the Church in Heringsdorf, the serene coastal backdrop enhances 
 
 The Church in Heringsdorf has a rich cultural importance for the local community. While specific historical dates are not detailed, the church has likely been a focal point for generations, serving the spiritual needs of the residents and visitors alike. Churches often reflect the socio-political changes within their communities, and the Church in Heringsdorf is no different; it has witnessed the evolving landscape of the town through various historical epochs.
 
-As a cultural landmark, it represents the values and traditions that have shaped the town over the years. Churches often serve as community gathering places, and this one is likely no exception, hosting events, ceremonies, and gatherings that foster community spirit. The church’s presence in Heringsdorf is a reminder of the enduring role that faith and community play in everyday life, particularly in coastal towns where tourism and local traditions intertwine.
+As a cultural landmark, it represents the values and traditions that have shaped the town over the years. Churches often serve as community gathering places, and this one is likely no exception, hosting events, ceremonies, and gatherings that foster community spirit. The church's presence in Heringsdorf is a reminder of the enduring role that faith and community play in everyday life, particularly in coastal towns where tourism and local traditions intertwine.
 
 ## Architecture and Features
 
@@ -93,7 +93,7 @@ Check the official website for specific accessibility information regarding the 
 Information about ticket purchasing can be found on the official website, where you can also check for any current fees.
 
 ### Are there restrooms and cafes?
-Local amenities may be available nearby, but it’s advisable to check for specific locations or facilities in the area.
+Local amenities may be available nearby, but it's advisable to check for specific locations or facilities in the area.
 
 ### What should I wear?
 Dress modestly to respect the sacred nature of the church, and consider layers to accommodate changing temperatures.

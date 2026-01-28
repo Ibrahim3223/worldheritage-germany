@@ -66,7 +66,7 @@ While visiting Hofkapelle Lachenbauer, consider exploring some nearby attraction
 
 3. **Klosterkirche St. Peter und Paul**: This historic church is another notable site in the region, showcasing beautiful architecture and a rich history.
 
-4. **Museum Bad Wurzach**: An insightful stop for those interested in the local history and culture, featuring exhibits that highlight the area’s heritage.
+4. **Museum Bad Wurzach**: An insightful stop for those interested in the local history and culture, featuring exhibits that highlight the area's heritage.
 
 5. **Natural Thermal Springs**: The region is known for its therapeutic thermal baths, offering a relaxing experience after a day of exploring.
 

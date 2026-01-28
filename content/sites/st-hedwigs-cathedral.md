@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St. Hedwig's Cathedral, an iconic Roman Catholic cathedral located in the heart of Berlin, serves not only as a place of worship but also as a symbol of the city’s cultural and historical landscape. Its distinct architectural style and spiritual significance make it a focal point for both locals and visitors alike. With its grand dome and classical design, the cathedral stands prominently in Bezirk Mitte, inviting countless people to explore its sacred space and the rich narratives it holds. 
+St. Hedwig's Cathedral, an iconic Roman Catholic cathedral located in the heart of Berlin, serves not only as a place of worship but also as a symbol of the city's cultural and historical landscape. Its distinct architectural style and spiritual significance make it a focal point for both locals and visitors alike. With its grand dome and classical design, the cathedral stands prominently in Bezirk Mitte, inviting countless people to explore its sacred space and the rich narratives it holds. 
 
-As a major ecclesiastical site, St. Hedwig's Cathedral plays a crucial role in the religious life of the city while also standing as a testament to Berlin’s resilience and evolving identity. With a commitment to inclusivity, the cathedral represents a central hub for the Catholic community, welcoming individuals from all walks of life. Visitors will find not only a spiritual haven but also a connection to the city's layered history, especially during significant liturgical events and cultural gatherings.
+As a major ecclesiastical site, St. Hedwig's Cathedral plays a crucial role in the religious life of the city while also standing as a testament to Berlin's resilience and evolving identity. With a commitment to inclusivity, the cathedral represents a central hub for the Catholic community, welcoming individuals from all walks of life. Visitors will find not only a spiritual haven but also a connection to the city's layered history, especially during significant liturgical events and cultural gatherings.
 
 Whether you are drawn by its architectural splendor, its religious significance, or simply the allure of Berlin, a visit to St. Hedwig's Cathedral promises an enriching experience. 
 
@@ -36,9 +36,9 @@ Whether you are drawn by its architectural splendor, its religious significance,
 
 The significance of St. Hedwig's Cathedral extends beyond its religious functions; it reflects the historical evolution of Berlin as a multicultural metropolis. Established as a Roman Catholic cathedral, it serves as a spiritual home for the Catholic community in a city that has seen a rich interplay of various faiths and cultures.
 
-The cathedral's history is interwoven with the broader narrative of Berlin’s development, particularly in the context of the 19th and 20th centuries. The construction of St. Hedwig's Cathedral was a response to the growing Catholic population in Berlin, particularly as the city witnessed a surge of migrants and a diversification of its demographic landscape. The cathedral not only represents the Catholic faith but also signifies the quest for religious expression in a predominantly Protestant nation.
+The cathedral's history is interwoven with the broader narrative of Berlin's development, particularly in the context of the 19th and 20th centuries. The construction of St. Hedwig's Cathedral was a response to the growing Catholic population in Berlin, particularly as the city witnessed a surge of migrants and a diversification of its demographic landscape. The cathedral not only represents the Catholic faith but also signifies the quest for religious expression in a predominantly Protestant nation.
 
-Throughout its existence, St. Hedwig's Cathedral has played host to numerous significant events, including religious ceremonies and public gatherings. Its role as a site of worship and community engagement has made it a vital aspect of Berlin’s cultural fabric, particularly during times of political change and social upheaval. The cathedral stands as a reminder of the city’s resilience and its ability to adapt and thrive amidst challenges.
+Throughout its existence, St. Hedwig's Cathedral has played host to numerous significant events, including religious ceremonies and public gatherings. Its role as a site of worship and community engagement has made it a vital aspect of Berlin's cultural fabric, particularly during times of political change and social upheaval. The cathedral stands as a reminder of the city's resilience and its ability to adapt and thrive amidst challenges.
 
 While specific historical milestones are often documented, the ongoing legacy of St. Hedwig's Cathedral continues to evolve. It remains a pivotal space for reflection, celebration, and community connection in Berlin.
 
@@ -72,7 +72,7 @@ After visiting St. Hedwig's Cathedral, the surrounding Bezirk Mitte area feature
 
 3. **Brandenburg Gate (Brandenburger Tor)**: A short distance from the cathedral, this iconic landmark symbolizes peace and unity and is a must-see for anyone in Berlin.
 
-4. **Unter den Linden Boulevard**: This historic avenue is lined with trees, shops, and cafes, leading toward the Brandenburg Gate and offering a pleasant stroll through Berlin’s vibrant atmosphere.
+4. **Unter den Linden Boulevard**: This historic avenue is lined with trees, shops, and cafes, leading toward the Brandenburg Gate and offering a pleasant stroll through Berlin's vibrant atmosphere.
 
 5. **The Reichstag Building**: Home to the German parliament, the Reichstag features a striking glass dome that visitors can ascend for views of the city and a glimpse into the political heart of Germany.
 

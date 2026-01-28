@@ -84,7 +84,7 @@ Seasonal considerations are also important. If visiting during colder months, dr
 A visit to Platz der Synagoge typically takes about an hour, allowing time to explore the site and reflect on its historical significance.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check for any signage regarding photography at the site, and always be respectful of the space.
+Photography policies can vary. It's best to check for any signage regarding photography at the site, and always be respectful of the space.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may enhance your understanding of the site's history and architecture.

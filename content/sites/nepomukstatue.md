@@ -40,7 +40,7 @@ Saint John of Nepomuk is particularly known for his association with bridges, wh
 
 As you delve into the history of Heilbronn, the Nepomukstatue becomes a focal point for understanding the city's past. It reflects the cultural influences that have permeated the region, including the impact of the Catholic Church during the Middle Ages. The statue is also a reminder of the importance of community, as it has likely served as a site for gatherings and reflections throughout its existence.
 
-While specific historical records regarding the statue’s creation may not be readily available, its significance can be appreciated through its continued presence and the reverence it holds among locals. The Nepomukstatue is an enduring symbol of faith, connecting the past with the present in meaningful ways.
+While specific historical records regarding the statue's creation may not be readily available, its significance can be appreciated through its continued presence and the reverence it holds among locals. The Nepomukstatue is an enduring symbol of faith, connecting the past with the present in meaningful ways.
 
 ## Architecture and Features
 
@@ -113,7 +113,7 @@ The statue's location is generally accessible, but it is advisable to check spec
 Check the official website for current information regarding any potential fees or ticketing options.
 
 ### Are there restrooms and cafes?
-While there are cafes in the vicinity, restroom availability may vary. It’s best to plan your visit accordingly.
+While there are cafes in the vicinity, restroom availability may vary. It's best to plan your visit accordingly.
 
 ### What should I wear?
 Dress comfortably, taking into account the weather and the amount of walking you plan to do while exploring the area.

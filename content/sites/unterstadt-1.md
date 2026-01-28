@@ -26,21 +26,21 @@ image_srcset:
 
 ## Overview
 
-Nestled in the heart of Lich, Germany, Unterstadt 1 is a striking city hall that represents the architectural and civic spirit of the region. The city hall, located in the Gießen district of Hesse, is a monumental, three-story building designed by the Grand Ducal District Building Directorate. Its central location makes it not just a hub of governmental activity but also a focal point for the community, serving as a venue for local events and gatherings. The structure’s gently sloping hipped roof and octagonal turret create an eye-catching silhouette against the skyline, drawing visitors and locals alike to explore its historical significance and architectural beauty.
+Nestled in the heart of Lich, Germany, Unterstadt 1 is a striking city hall that represents the architectural and civic spirit of the region. The city hall, located in the Gießen district of Hesse, is a monumental, three-story building designed by the Grand Ducal District Building Directorate. Its central location makes it not just a hub of governmental activity but also a focal point for the community, serving as a venue for local events and gatherings. The structure's gently sloping hipped roof and octagonal turret create an eye-catching silhouette against the skyline, drawing visitors and locals alike to explore its historical significance and architectural beauty.
 
-As you approach Unterstadt 1, you’ll find yourself enveloped by the charm of Lich—a town that offers a blend of rich history and contemporary life. The city hall stands as a reminder of the area’s cultural legacy while continuing to serve its purpose in modern governance. For those interested in heritage architecture and the evolution of civic buildings, a visit to Unterstadt 1 promises to be an enlightening experience.
+As you approach Unterstadt 1, you'll find yourself enveloped by the charm of Lich—a town that offers a blend of rich history and contemporary life. The city hall stands as a reminder of the area's cultural legacy while continuing to serve its purpose in modern governance. For those interested in heritage architecture and the evolution of civic buildings, a visit to Unterstadt 1 promises to be an enlightening experience.
 
 ## History and Significance
 
 The history of Unterstadt 1 reflects the broader narrative of Lich and its evolution over time. While the exact date of construction is not detailed, the building serves as a significant landmark within the community, embodying the values and aspirations of the town. City halls have traditionally served as centers of civic life, and Unterstadt 1 is no exception. It has played a crucial role in local governance, public administration, and community events.
 
-The architectural decisions made in its design are indicative of the period in which it was built, showcasing the aesthetic preferences and construction techniques of the time. As a product of the Grand Ducal District Building Directorate, the building aligns with the principles of functionality and civic pride that were prevalent in the region’s architectural movements. The city hall not only serves as a place for official transactions but also as a symbol of the community's identity and continuity.
+The architectural decisions made in its design are indicative of the period in which it was built, showcasing the aesthetic preferences and construction techniques of the time. As a product of the Grand Ducal District Building Directorate, the building aligns with the principles of functionality and civic pride that were prevalent in the region's architectural movements. The city hall not only serves as a place for official transactions but also as a symbol of the community's identity and continuity.
 
-Throughout its existence, Unterstadt 1 has witnessed numerous historical events and changes within Lich, adapting to the needs of the community while maintaining its core purpose. The building stands as a vital piece of Lich’s heritage, reflecting the town's growth and transformation over the years.
+Throughout its existence, Unterstadt 1 has witnessed numerous historical events and changes within Lich, adapting to the needs of the community while maintaining its core purpose. The building stands as a vital piece of Lich's heritage, reflecting the town's growth and transformation over the years.
 
 ## Architecture and Features
 
-Unterstadt 1 is characterized by its monumental stature and well-considered architectural elements. The three-story structure features a solid base that grounds the building, providing stability and strength. The gently sloping hipped roof is both functional and aesthetically pleasing, allowing for effective rain drainage while contributing to the building’s elegant lines.
+Unterstadt 1 is characterized by its monumental stature and well-considered architectural elements. The three-story structure features a solid base that grounds the building, providing stability and strength. The gently sloping hipped roof is both functional and aesthetically pleasing, allowing for effective rain drainage while contributing to the building's elegant lines.
 
 One of the most distinctive features of Unterstadt 1 is its centrally placed octagonal roof turret. This turret adds height and visual interest to the skyline, making the building a recognizable landmark. The octagonal shape is not just decorative; it serves as a practical feature, likely housing a bell or clock to signal the community.
 
@@ -52,7 +52,7 @@ As you explore the exterior, take note of any decorative elements or inscription
 
 When planning a visit to Unterstadt 1, it is essential to consider the best means of transport. Given its central location in Lich, the city hall is accessible by various modes of transportation, including public transit and private vehicles. Those traveling by car should look for available parking options nearby, as they can vary based on the time of day and any local events.
 
-Check the official website for current information on opening hours and any admission fees, as these can change throughout the year. Expect your visit to last about an hour, allowing ample time to appreciate the architecture and learn about the building’s history. Depending on your interests, you may wish to explore the surrounding area, which offers additional amenities and attractions.
+Check the official website for current information on opening hours and any admission fees, as these can change throughout the year. Expect your visit to last about an hour, allowing ample time to appreciate the architecture and learn about the building's history. Depending on your interests, you may wish to explore the surrounding area, which offers additional amenities and attractions.
 
 The best times to visit are generally during weekdays when the city hall is operational, providing a more authentic glimpse of civic life. However, weekends may also be enjoyable, especially if there are community events or gatherings taking place.
 
@@ -66,7 +66,7 @@ While visiting Unterstadt 1, take the opportunity to explore other attractions i
 
 3. **Local Shops and Cafés**: Discover the vibrant local economy by visiting nearby shops and cafés. Enjoy a cup of coffee or indulge in traditional German pastries while soaking in the atmosphere of Lich.
 
-4. **Historical Museum Lich**: If you’re interested in learning more about the local history, this museum provides insights into the cultural heritage of the region through various exhibits and artifacts.
+4. **Historical Museum Lich**: If you're interested in learning more about the local history, this museum provides insights into the cultural heritage of the region through various exhibits and artifacts.
 
 5. **Nearby Villages**: Consider exploring the surrounding villages, which offer picturesque landscapes and additional historical sites that contribute to the cultural richness of the Gießen district.
 
@@ -78,7 +78,7 @@ To avoid crowds, try visiting during mid-week, as weekends may attract more loca
 
 ## Practical Information
 
-Before heading to Unterstadt 1, it’s advisable to bring along some essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds and nearby attractions. Depending on the season, dress appropriately for the weather, as conditions can vary in Hesse.
+Before heading to Unterstadt 1, it's advisable to bring along some essentials. Comfortable walking shoes are recommended, as you may want to explore the grounds and nearby attractions. Depending on the season, dress appropriately for the weather, as conditions can vary in Hesse.
 
 Seasonal considerations are also important; spring and early autumn typically offer pleasant weather for outdoor activities. Rain gear may be necessary during wetter months, while warmer clothing will be important in winter.
 
@@ -93,7 +93,7 @@ A visit to Unterstadt 1 typically lasts about an hour, allowing time to apprecia
 Photography is generally permitted, but be mindful of any restrictions during official events or ceremonies. Always seek permission if unsure.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, as these can provide deeper insights into the building’s history and architecture.
+Check the official website for information regarding guided tours, as these can provide deeper insights into the building's history and architecture.
 
 ### What's the best time to visit?
 Weekdays are often the best time to visit to experience the building in its operational context. However, weekends may also offer unique community events.

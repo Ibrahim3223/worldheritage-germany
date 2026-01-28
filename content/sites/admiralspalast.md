@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Admiralspalast is a prominent theatre and event venue located in the heart of Berlin, Germany. This architectural gem serves as a cultural hub, offering a diverse array of performances that range from musicals and concerts to theatrical productions. With its central location in Bezirk Mitte, it is easily accessible to both locals and visitors alike, making it a significant part of Berlin’s vibrant arts scene. The venue not only captivates audiences with its varied programming but also stands out for its historical legacy and architectural elegance.
+Admiralspalast is a prominent theatre and event venue located in the heart of Berlin, Germany. This architectural gem serves as a cultural hub, offering a diverse array of performances that range from musicals and concerts to theatrical productions. With its central location in Bezirk Mitte, it is easily accessible to both locals and visitors alike, making it a significant part of Berlin's vibrant arts scene. The venue not only captivates audiences with its varied programming but also stands out for its historical legacy and architectural elegance.
 
-The theatre’s significance extends beyond entertainment; it reflects the social and cultural dynamics of Berlin throughout the years. Whether you’re a theatre aficionado or a casual visitor, a trip to Admiralspalast promises an enriching experience, showcasing the city's commitment to the performing arts.
+The theatre's significance extends beyond entertainment; it reflects the social and cultural dynamics of Berlin throughout the years. Whether you're a theatre aficionado or a casual visitor, a trip to Admiralspalast promises an enriching experience, showcasing the city's commitment to the performing arts.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ Admiralspalast has a storied history that underscores its cultural importance in
 
 Throughout its history, Admiralspalast has served as a platform for both established and emerging artists. Its diverse programming has included everything from grand operas to contemporary dance, highlighting the theatre's adaptability and commitment to showcasing a wide range of artistic expressions. This versatility has allowed it to remain relevant in an ever-changing cultural landscape.
 
-The theatre’s location in Bezirk Mitte, a district known for its rich history and cultural significance, further enhances its role in Berlin's artistic community. As a gathering place for creatives and audiences alike, Admiralspalast contributes to the city's identity as a center of cultural innovation and exchange. Its continued operation and the variety of events hosted there make it a vital part of Berlin's heritage.
+The theatre's location in Bezirk Mitte, a district known for its rich history and cultural significance, further enhances its role in Berlin's artistic community. As a gathering place for creatives and audiences alike, Admiralspalast contributes to the city's identity as a center of cultural innovation and exchange. Its continued operation and the variety of events hosted there make it a vital part of Berlin's heritage.
 
 ## Architecture and Features
 
@@ -74,7 +74,7 @@ Admiralspalast is situated in a vibrant area of Berlin, surrounded by several no
 
 For those planning a visit to Admiralspalast, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography may be restricted during performances, the theatre’s interior is visually striking. Consider capturing images of the building before the performance or during intermissions when permitted.
+- **Photography**: While photography may be restricted during performances, the theatre's interior is visually striking. Consider capturing images of the building before the performance or during intermissions when permitted.
 
 - **Crowd Avoidance**: To avoid large crowds, consider attending performances during the weekdays or opting for matinee shows. Arriving early can also help you secure the best seating and experience a more relaxed atmosphere.
 

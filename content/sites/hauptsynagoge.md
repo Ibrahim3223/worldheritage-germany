@@ -58,9 +58,9 @@ The best times to visit are typically during weekdays when the synagogue is less
 
 While visiting the Hauptsynagoge, consider exploring these nearby attractions to enhance your cultural experience in Frankfurt:
 
-1. **Frankfurt Historical Museum**: Located just a short distance away, this museum offers insights into the city’s history, including its Jewish heritage.
+1. **Frankfurt Historical Museum**: Located just a short distance away, this museum offers insights into the city's history, including its Jewish heritage.
    
-2. **Römer**: The iconic town hall of Frankfurt, known for its medieval architecture, is a must-see for those interested in the city’s historical landmarks.
+2. **Römer**: The iconic town hall of Frankfurt, known for its medieval architecture, is a must-see for those interested in the city's historical landmarks.
 
 3. **Städel Museum**: An art museum that houses a vast collection of European masterpieces from the Middle Ages to contemporary works, ideal for art enthusiasts.
 

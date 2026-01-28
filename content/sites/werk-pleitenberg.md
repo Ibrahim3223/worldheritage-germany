@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Werk Pleitenberg is a vital piece of the historic fortifications that comprise the Prussian fortress of Koblenz, located in the picturesque region of Germany. This fortification is not only significant for its military history but also for its strategic importance throughout various periods in European history. The site’s coordinates place it within the scenic landscape of Koblenz, where the Moselle and Rhine rivers converge, offering visitors both a sense of history and an opportunity to appreciate the surrounding natural beauty.
+Werk Pleitenberg is a vital piece of the historic fortifications that comprise the Prussian fortress of Koblenz, located in the picturesque region of Germany. This fortification is not only significant for its military history but also for its strategic importance throughout various periods in European history. The site's coordinates place it within the scenic landscape of Koblenz, where the Moselle and Rhine rivers converge, offering visitors both a sense of history and an opportunity to appreciate the surrounding natural beauty.
 
 The fortification serves as a reminder of the military architecture of the era, showcasing the engineering prowess of its time. As you approach Werk Pleitenberg, the imposing structure evokes a sense of curiosity about the historical events that transpired within its walls. This guide will explore the history, architecture, and visitor information related to Werk Pleitenberg, providing you with insights that enhance your experience at this significant cultural landmark.
 
@@ -60,7 +60,7 @@ While exploring the area around Werk Pleitenberg, visitors can enhance their iti
 
 3. **Ehrenbreitstein Fortress**: This impressive fortress across the Rhine River is easily accessible by cable car and offers panoramic views of Koblenz.
 
-4. **Moselle Valley**: Renowned for its vineyards and charming villages, a visit to this area allows for a delightful exploration of the region’s wines and local culture.
+4. **Moselle Valley**: Renowned for its vineyards and charming villages, a visit to this area allows for a delightful exploration of the region's wines and local culture.
 
 5. **Romantic Rhine**: A UNESCO World Heritage site, the Romantic Rhine region is celebrated for its stunning landscapes, castles, and quaint towns, perfect for a scenic day trip.
 

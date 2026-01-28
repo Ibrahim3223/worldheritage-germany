@@ -70,7 +70,7 @@ While Marienkirche is a highlight in Krummhörn, several nearby attractions enri
 
 ## Insider Tips
 
-For those wishing to capture the beauty of Marienkirche through photography, consider visiting during the early morning or late afternoon when natural light enhances the church's features. Pay attention to the angles that best highlight the building’s architectural details. 
+For those wishing to capture the beauty of Marienkirche through photography, consider visiting during the early morning or late afternoon when natural light enhances the church's features. Pay attention to the angles that best highlight the building's architectural details. 
 
 To avoid crowds, aim for midweek visits, as weekends tend to attract more visitors. Respect the sacred environment of the church, especially during services or community events, to ensure a peaceful experience for all.
 
@@ -88,7 +88,7 @@ During your visit, familiarize yourself with the local customs and etiquette, pa
 A visit to Marienkirche typically takes about one to two hours, allowing you to explore the church and its surroundings comfortably.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any restrictions, especially during services or events.
+Photography policies may vary, so it's best to check for any restrictions, especially during services or events.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available to enhance your understanding of the church's history and architecture.

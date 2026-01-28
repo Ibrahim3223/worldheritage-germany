@@ -64,7 +64,7 @@ While exploring Gut Obernfelde, visitors may also want to discover other attract
 
 4. **Local Parks**: Various parks in the vicinity provide opportunities for relaxation and outdoor activities, perfect for enjoying the natural beauty of the region.
 
-5. **Heritage Museums**: Consider visiting local museums that focus on the history and culture of Lübbecke, offering deeper insights into the area’s past.
+5. **Heritage Museums**: Consider visiting local museums that focus on the history and culture of Lübbecke, offering deeper insights into the area's past.
 
 ## Insider Tips
 

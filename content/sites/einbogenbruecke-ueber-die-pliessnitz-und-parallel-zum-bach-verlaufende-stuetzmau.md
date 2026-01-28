@@ -38,7 +38,7 @@ The Einbogenbrücke is characterized by its elegant arch design, which not only 
 
 In proximity to the bridge, the parallel supporting wall enhances the overall aesthetic, providing a sense of cohesion to the site. This wall likely serves both functional and decorative purposes, reinforcing the bridge while also contributing to the landscape's charm. The combination of the bridge and the wall creates a picturesque scene, inviting visitors to appreciate the fluidity of nature and human craftsmanship.
 
-While specific dimensions and materials are not detailed, the structure's design is likely informed by the surrounding environment, harmonizing with the natural contours of the landscape. The bridge’s form and function reflect the engineering principles of its time, making it a significant point of interest for those interested in architectural history.
+While specific dimensions and materials are not detailed, the structure's design is likely informed by the surrounding environment, harmonizing with the natural contours of the landscape. The bridge's form and function reflect the engineering principles of its time, making it a significant point of interest for those interested in architectural history.
 
 ## Visiting Information
 

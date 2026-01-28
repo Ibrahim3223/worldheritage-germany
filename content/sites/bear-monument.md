@@ -3,7 +3,7 @@ title: "Bear Monument"
 site_name: "Bear Monument"
 date: 2026-01-26
 draft: false
-description: "The Bear Monument in Quedlinburg, Germany, is an evocative symbol of the region’s deep-rooted history and culture."
+description: "The Bear Monument in Quedlinburg, Germany, is an evocative symbol of the region's deep-rooted history and culture."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Monument"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Bear Monument in Quedlinburg, Germany, is an evocative symbol of the region’s deep-rooted history and culture. This monument stands as a significant landmark, drawing visitors who are intrigued by its artistic representation and the stories it conveys. Situated in the heart of Quedlinburg, a UNESCO World Heritage Site known for its medieval architecture and rich heritage, the Bear Monument enhances the city’s historical narrative while providing a serene space for reflection and appreciation. As you explore the charming streets of Quedlinburg, the Bear Monument serves as an inviting point of interest, encouraging travelers to delve into the cultural fabric of the area.
+The Bear Monument in Quedlinburg, Germany, is an evocative symbol of the region's deep-rooted history and culture. This monument stands as a significant landmark, drawing visitors who are intrigued by its artistic representation and the stories it conveys. Situated in the heart of Quedlinburg, a UNESCO World Heritage Site known for its medieval architecture and rich heritage, the Bear Monument enhances the city's historical narrative while providing a serene space for reflection and appreciation. As you explore the charming streets of Quedlinburg, the Bear Monument serves as an inviting point of interest, encouraging travelers to delve into the cultural fabric of the area.
 
 ## History and Significance
 
@@ -96,4 +96,4 @@ While specific amenities at the monument are not detailed, Quedlinburg's Old Tow
 ### What should I wear?
 Dress comfortably and consider wearing walking shoes, as you may want to explore the cobblestone streets surrounding the monument.
 
-The Bear Monument in Quedlinburg is more than just a monument; it’s a part of the cultural landscape that invites reflection and appreciation of the area's rich heritage.
+The Bear Monument in Quedlinburg is more than just a monument; it's a part of the cultural landscape that invites reflection and appreciation of the area's rich heritage.

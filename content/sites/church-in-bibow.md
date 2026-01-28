@@ -44,7 +44,7 @@ As you explore the church, take note of any unique features that may distinguish
 
 ## Visiting Information
 
-When planning your visit to the Church in Bibow, it’s essential to consider transportation options. Bibow is accessible by various means, and you may find that local public transport services can guide you close to the church. For those driving, parking facilities may be available nearby, but it's advisable to check the official website for current information regarding accessibility.
+When planning your visit to the Church in Bibow, it's essential to consider transportation options. Bibow is accessible by various means, and you may find that local public transport services can guide you close to the church. For those driving, parking facilities may be available nearby, but it's advisable to check the official website for current information regarding accessibility.
 
 As for the visiting hours and any associated fees, check the official website for hours/prices to ensure you have the most accurate details. Generally, visitors can expect to spend around an hour at the church, allowing ample time to appreciate its architectural features and soak in the atmosphere. The best times to visit are likely during weekdays when the church is quieter, or during community events that may enhance your experience of local traditions.
 

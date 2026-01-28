@@ -64,13 +64,13 @@ Expect to encounter a mix of local residents and tourists, particularly during w
 
 While Hildesheim Cathedral is a highlight of the region, several nearby attractions complement your visit:
 
-1. **St. Michael’s Church**: Another UNESCO World Heritage site, this church is renowned for its stunning architecture and beautiful frescoes. It is a short distance from the cathedral and worth exploring.
+1. **St. Michael's Church**: Another UNESCO World Heritage site, this church is renowned for its stunning architecture and beautiful frescoes. It is a short distance from the cathedral and worth exploring.
 
 2. **Hildesheim Market Square**: This vibrant area features charming half-timbered houses and a variety of shops and cafés, perfect for experiencing local culture.
 
 3. **Roemer- und Pelizaeus-Museum**: A museum dedicated to art and natural history, showcasing a diverse collection that includes ancient artifacts.
 
-4. **Hildesheim’s Historic Old Town**: Strolling through the old town offers a glimpse into Hildesheim's medieval past with its preserved buildings and quaint streets.
+4. **Hildesheim's Historic Old Town**: Strolling through the old town offers a glimpse into Hildesheim's medieval past with its preserved buildings and quaint streets.
 
 5. **The Butchers' Guild Hall**: An architectural gem located in the heart of Hildesheim, this building reflects the craftsmanship and historical significance of the guilds in the region.
 

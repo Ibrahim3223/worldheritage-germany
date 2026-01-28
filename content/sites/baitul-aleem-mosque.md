@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Baitul Aleem Mosque, located in the charming city of Würzburg, Germany, serves as a significant cultural and religious landmark within the region. This mosque reflects the growing diversity of the area, catering to the spiritual needs of the local Muslim community. Its architecture and presence encapsulate a blend of Islamic tradition and contemporary design, making it a notable addition to Würzburg’s urban landscape. Visitors to the Baitul Aleem Mosque will find not only a place of worship but also a venue for interfaith dialogue and cultural exchange, emphasizing the importance of understanding and community in a globalized world.
+The Baitul Aleem Mosque, located in the charming city of Würzburg, Germany, serves as a significant cultural and religious landmark within the region. This mosque reflects the growing diversity of the area, catering to the spiritual needs of the local Muslim community. Its architecture and presence encapsulate a blend of Islamic tradition and contemporary design, making it a notable addition to Würzburg's urban landscape. Visitors to the Baitul Aleem Mosque will find not only a place of worship but also a venue for interfaith dialogue and cultural exchange, emphasizing the importance of understanding and community in a globalized world.
 
 The mosque is situated at coordinates 49.729934781, 9.961013833, placing it conveniently within reach of various transport options. As part of Würzburg's rich cultural fabric, it invites both locals and tourists to explore its serene environment and learn about the Islamic faith. The mosque stands as a symbol of peace, tolerance, and mutual respect, encouraging visitors to engage with its teachings and community.
 

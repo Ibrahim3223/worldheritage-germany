@@ -68,7 +68,7 @@ While exploring Bad Neustadt an der Saale, there are several nearby attractions 
 
 For photography enthusiasts, the best light for capturing the fortification is during the golden hours of early morning or late afternoon. This timing not only enhances the visual appeal of the stonework but also offers a quieter atmosphere for exploration. To avoid crowds, consider visiting during weekdays or off-peak seasons.
 
-Engaging with local historians or guides can enhance your understanding of the site's significance and provide context that enhances your visit. Always be respectful of the site’s heritage, especially in areas that are less frequented by tourists.
+Engaging with local historians or guides can enhance your understanding of the site's significance and provide context that enhances your visit. Always be respectful of the site's heritage, especially in areas that are less frequented by tourists.
 
 ## Practical Information
 

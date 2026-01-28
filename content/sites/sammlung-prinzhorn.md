@@ -58,21 +58,21 @@ The best times to visit the museum may vary, but generally, weekdays tend to be 
 
 While in Heidelberg, visitors to Sammlung Prinzhorn can explore several nearby attractions that enrich the cultural experience of the city:
 
-1. **Heidelberg Castle**: This iconic landmark offers stunning views and a glimpse into the city’s history, with its impressive architecture and beautiful gardens.
+1. **Heidelberg Castle**: This iconic landmark offers stunning views and a glimpse into the city's history, with its impressive architecture and beautiful gardens.
   
-2. **Philosophenweg (Philosopher’s Way)**: A scenic walking path on the opposite bank of the Neckar River, renowned for its picturesque views and historical significance.
+2. **Philosophenweg (Philosopher's Way)**: A scenic walking path on the opposite bank of the Neckar River, renowned for its picturesque views and historical significance.
 
 3. **The Old Bridge (Alte Brücke)**: A beautiful stone bridge that connects the old town with the other side of the river, perfect for leisurely strolls and photography.
 
 4. **Heidelberg University**: One of the oldest universities in Germany, the campus is rich with history and offers several museums and libraries worth exploring.
 
-5. **Kurpfälzisches Museum**: Located nearby, this museum features an array of exhibits focusing on the region’s cultural history, including art and archaeology.
+5. **Kurpfälzisches Museum**: Located nearby, this museum features an array of exhibits focusing on the region's cultural history, including art and archaeology.
 
 ## Insider Tips
 
 To make the most of your visit to Sammlung Prinzhorn, consider the following tips:
 
-- **Photography**: Be mindful of the museum's policies regarding photography, as some exhibitions may have restrictions. It’s best to check in advance.
+- **Photography**: Be mindful of the museum's policies regarding photography, as some exhibitions may have restrictions. It's best to check in advance.
 
 - **Crowd Avoidance**: If possible, plan your visit during the morning hours on weekdays. This is typically when the museum is least crowded, allowing for a more immersive experience.
 

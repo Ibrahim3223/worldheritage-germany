@@ -52,7 +52,7 @@ Traveling to Canisianum is straightforward, with various transport options avail
 
 Visitors should check the official website for current hours and pricing information, as these can fluctuate based on the season or special events. When planning your visit, consider allocating sufficient time to fully appreciate the church's architecture and to reflect on its significance. A visit of approximately one to two hours may allow for a comprehensive exploration.
 
-The best times to visit Canisianum are during weekdays or early in the morning, when the site is less crowded. If you are interested in attending a service or special event, it’s worth checking the church’s calendar for any upcoming activities that might enhance your experience.
+The best times to visit Canisianum are during weekdays or early in the morning, when the site is less crowded. If you are interested in attending a service or special event, it's worth checking the church's calendar for any upcoming activities that might enhance your experience.
 
 ## Nearby Attractions
 
@@ -78,7 +78,7 @@ When visiting Canisianum, it is advisable to dress modestly, particularly if you
 
 Seasonal considerations include checking the weather forecast before your visit. Saarlouis can experience varying weather conditions throughout the year, so plan accordingly, especially if you wish to explore outdoor attractions nearby.
 
-Don’t forget to bring a camera, a water bottle, and perhaps a guidebook to enhance your experience. Being prepared will ensure you get the most out of your visit to Canisianum and its surroundings.
+Don't forget to bring a camera, a water bottle, and perhaps a guidebook to enhance your experience. Being prepared will ensure you get the most out of your visit to Canisianum and its surroundings.
 
 ## Frequently Asked Questions
 

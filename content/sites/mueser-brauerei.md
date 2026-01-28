@@ -86,7 +86,7 @@ Additionally, having a camera or smartphone handy to capture the unique aspects 
 A visit to Müser-Brauerei typically takes around two hours, depending on your interest level in the brewery's history and the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's wise to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may vary; check the official website for any offerings or details.
@@ -101,7 +101,7 @@ Accessibility features may be limited; checking the official website for detaile
 Ticket purchasing options vary; refer to the official website for current offerings.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s best to check for available amenities on the official website.
+Facilities may vary, so it's best to check for available amenities on the official website.
 
 ### What should I wear?
 Comfortable, weather-appropriate clothing is recommended, particularly if you plan to explore the area extensively.

@@ -42,7 +42,7 @@ The significance of Landsöhr Castle extends beyond its physical structure; it e
 
 Landsöhr Castle showcases a blend of architectural styles typical of German castles, characterized by robust stone walls and imposing towers. The design elements likely reflect both defensive needs and the aesthetic sensibilities of the time, featuring elements such as battlements and narrow windows that were strategically placed for both protection and visibility. 
 
-The castle’s layout probably includes a central courtyard, which served as a gathering place for inhabitants and visitors. The surrounding walls are designed not only for defense but also to create a sense of enclosure, enhancing the castle's role as a secure haven. While specific architectural details are not provided, visitors can expect to find features that resonate with the historical context of the region, such as vaulted ceilings, wooden beams, and possibly remnants of decorative art.
+The castle's layout probably includes a central courtyard, which served as a gathering place for inhabitants and visitors. The surrounding walls are designed not only for defense but also to create a sense of enclosure, enhancing the castle's role as a secure haven. While specific architectural details are not provided, visitors can expect to find features that resonate with the historical context of the region, such as vaulted ceilings, wooden beams, and possibly remnants of decorative art.
 
 As visitors explore Landsöhr Castle, they will likely encounter various rooms and chambers that offer insights into the daily lives of those who resided there. Each space may tell a story, whether through its design or the artifacts displayed within.
 

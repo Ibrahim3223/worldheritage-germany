@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Burg Kübelberg, a historically significant castle located in Schönenberg-Kübelberg, Germany, invites visitors to explore its storied past and architectural charm. Positioned in the heart of the Palatinate region, this castle provides a fascinating glimpse into medieval life and serves as a symbol of the area’s rich cultural heritage. Its strategic location offers visitors a sense of both seclusion and connection to the surrounding landscape, making it an appealing destination for history enthusiasts and casual travelers alike.
+Burg Kübelberg, a historically significant castle located in Schönenberg-Kübelberg, Germany, invites visitors to explore its storied past and architectural charm. Positioned in the heart of the Palatinate region, this castle provides a fascinating glimpse into medieval life and serves as a symbol of the area's rich cultural heritage. Its strategic location offers visitors a sense of both seclusion and connection to the surrounding landscape, making it an appealing destination for history enthusiasts and casual travelers alike.
 
-The castle serves not only as a monument of architecture but also as a reminder of the region’s historical narratives and societal structures. While details about its origins may be scarce, the castle remains a focal point for those interested in the legacy of German fortifications and the stories they tell. Visitors can expect to uncover layers of history while enjoying the tranquil ambiance of the site, as well as the chance to connect with the broader cultural context of the region.
+The castle serves not only as a monument of architecture but also as a reminder of the region's historical narratives and societal structures. While details about its origins may be scarce, the castle remains a focal point for those interested in the legacy of German fortifications and the stories they tell. Visitors can expect to uncover layers of history while enjoying the tranquil ambiance of the site, as well as the chance to connect with the broader cultural context of the region.
 
 ## History and Significance
 

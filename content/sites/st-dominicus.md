@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-St. Dominicus Church, situated in the vibrant Neukölln district of Berlin, is an architectural gem that reflects the spiritual and cultural landscape of the area. This church building serves not just as a place of worship but also as a community hub, embodying the rich traditions and evolving dynamics of its neighborhood. Its significance extends beyond religious practices, making it an important site for both locals and visitors seeking to understand the historical context of Berlin’s diverse populace. As you explore St. Dominicus, you will discover a blend of faith and community that resonates deeply within the heart of this bustling city.
+St. Dominicus Church, situated in the vibrant Neukölln district of Berlin, is an architectural gem that reflects the spiritual and cultural landscape of the area. This church building serves not just as a place of worship but also as a community hub, embodying the rich traditions and evolving dynamics of its neighborhood. Its significance extends beyond religious practices, making it an important site for both locals and visitors seeking to understand the historical context of Berlin's diverse populace. As you explore St. Dominicus, you will discover a blend of faith and community that resonates deeply within the heart of this bustling city.
 
-The church’s location in Neukölln, a district known for its multicultural environment and artistic vibe, adds an intriguing layer to its identity. Visitors can appreciate the contrast between the historic architecture and the modern life surrounding it, creating a unique atmosphere that enhances the experience of exploring this sacred space.
+The church's location in Neukölln, a district known for its multicultural environment and artistic vibe, adds an intriguing layer to its identity. Visitors can appreciate the contrast between the historic architecture and the modern life surrounding it, creating a unique atmosphere that enhances the experience of exploring this sacred space.
 
 ## History and Significance
 
@@ -50,7 +50,7 @@ The church might also host various artistic expressions, possibly including reli
 
 When planning a visit to St. Dominicus, accessibility is a key consideration. The church is located in Neukölln, making it reachable by various forms of public transport, including buses and trains. The area is well-connected, allowing visitors to easily integrate the church into their exploration of Berlin.
 
-Check the official website for current information regarding visiting hours and any potential entry fees. It’s advisable to allocate sufficient time to fully appreciate the church and its surroundings; a visit of at least an hour may provide a good opportunity to engage with both the sacred space and the local neighborhood.
+Check the official website for current information regarding visiting hours and any potential entry fees. It's advisable to allocate sufficient time to fully appreciate the church and its surroundings; a visit of at least an hour may provide a good opportunity to engage with both the sacred space and the local neighborhood.
 
 For those interested in experiencing St. Dominicus at its best, consider visiting during weekdays when crowds may be lighter. This allows for a more intimate experience within the church, providing a peaceful environment for reflection and contemplation.
 
@@ -72,21 +72,21 @@ St. Dominicus is conveniently located near several attractions that complement y
 
 To make the most of your visit to St. Dominicus, consider the following tips:
 
-- **Photography**: While capturing the beauty of the church is encouraged, be respectful of the worshippers and the sacred environment. It’s best to take photos during quieter times.
+- **Photography**: While capturing the beauty of the church is encouraged, be respectful of the worshippers and the sacred environment. It's best to take photos during quieter times.
 
 - **Crowd Avoidance**: If you prefer a more tranquil experience, visit during weekdays or early mornings. This is when you can explore the church with fewer visitors around.
 
-- **Engagement**: Take the time to interact with locals who may be attending services or community events. Their insights can enrich your understanding of the church’s role in the neighborhood.
+- **Engagement**: Take the time to interact with locals who may be attending services or community events. Their insights can enrich your understanding of the church's role in the neighborhood.
 
 ## Practical Information
 
-When visiting St. Dominicus, it’s prudent to keep a few practical considerations in mind:
+When visiting St. Dominicus, it's prudent to keep a few practical considerations in mind:
 
 - **What to Bring**: A small bag with essentials such as water, a camera, and perhaps a notebook for jotting down thoughts or reflections.
 
 - **Seasonal Considerations**: Berlin experiences a range of weather conditions throughout the year. Dress appropriately for the season, and check the forecast before your visit to ensure a comfortable experience.
 
-- **Respectful Attire**: Given that St. Dominicus is a place of worship, it’s advisable to wear modest clothing, particularly if you plan to attend a service.
+- **Respectful Attire**: Given that St. Dominicus is a place of worship, it's advisable to wear modest clothing, particularly if you plan to attend a service.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ When visiting St. Dominicus, it’s prudent to keep a few practical consideratio
 A visit to St. Dominicus typically takes about an hour, allowing you time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the sacred space and other visitors.
+Photography is generally permitted, but it's best to be respectful of the sacred space and other visitors.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may be available during your visit.

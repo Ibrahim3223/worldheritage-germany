@@ -42,7 +42,7 @@ The chapel is a testament to the enduring faith of its visitors, providing a spa
 
 Maria-Hilf-Kapelle Valepp features architectural elements typical of chapels found in the region. The design reflects both simplicity and reverence, allowing visitors to immerse themselves in its serene atmosphere. The chapel's exterior is likely characterized by traditional materials, harmonizing with the natural environment and further emphasizing its role as a spiritual sanctuary.
 
-Inside, visitors may encounter various religious symbols and artworks that contribute to the chapel’s overall ambiance. These elements often include altars, stained glass, and religious iconography, each carefully crafted to enhance the spiritual experience. The light filtering through the windows can create a tranquil setting ideal for meditation and reflection.
+Inside, visitors may encounter various religious symbols and artworks that contribute to the chapel's overall ambiance. These elements often include altars, stained glass, and religious iconography, each carefully crafted to enhance the spiritual experience. The light filtering through the windows can create a tranquil setting ideal for meditation and reflection.
 
 While the specifics of its architectural design may not be fully detailed, the chapel's understated elegance invites visitors to appreciate its beauty and significance. The overall layout typically encourages a sense of community, with spaces designed for gatherings, prayer, and contemplation.
 

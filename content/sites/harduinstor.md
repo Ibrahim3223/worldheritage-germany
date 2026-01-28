@@ -54,7 +54,7 @@ Expect a blend of history and urban life as you explore the area around the Hard
 
 2. **Elisenbrunnen**: This neoclassical pavilion, located nearby, marks the site of Aachen's famous thermal springs and is a great place to relax and enjoy the local atmosphere.
 
-3. **Centre Charlemagne**: A museum dedicated to the history of Aachen and Charlemagne, offering insights into the city’s past and its role in European history.
+3. **Centre Charlemagne**: A museum dedicated to the history of Aachen and Charlemagne, offering insights into the city's past and its role in European history.
 
 4. **Puppenbrunnen (Doll Fountain)**: An artistic fountain that adds charm to the city center, depicting various figures and serving as a popular meeting point.
 

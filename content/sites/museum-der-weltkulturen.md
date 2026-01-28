@@ -36,15 +36,15 @@ The Museum der Weltkulturen has its roots in the early 20th century, reflecting 
 
 Throughout its history, the museum has played a significant role in the field of ethnology, contributing to academic research and public education. It serves as a platform for cultural exchange and promotes awareness of global issues through its exhibitions and programs. By highlighting the stories behind the artifacts, the museum encourages visitors to consider the broader contexts of cultural practices and the legacies they leave behind.
 
-The museum’s collections include a wide variety of artifacts, textiles, and art pieces, which are carefully curated to represent the complexities of cultural identities and histories. The commitment to showcasing both historical and contemporary perspectives fosters a deeper understanding of how cultures evolve and influence one another. This approach not only enriches the visitor experience but also emphasizes the relevance of cultural heritage in today's interconnected world.
+The museum's collections include a wide variety of artifacts, textiles, and art pieces, which are carefully curated to represent the complexities of cultural identities and histories. The commitment to showcasing both historical and contemporary perspectives fosters a deeper understanding of how cultures evolve and influence one another. This approach not only enriches the visitor experience but also emphasizes the relevance of cultural heritage in today's interconnected world.
 
 ## Architecture and Features
 
 The architectural design of the Museum der Weltkulturen reflects its purpose as a space for cultural exploration and education. The museum is characterized by its functional yet inviting structure, which allows for flexible exhibition spaces that can accommodate a variety of displays. The layout is designed to guide visitors through different cultural themes and narratives, creating a cohesive flow that enhances the overall experience.
 
-Notable features of the museum include its spacious galleries, which are often filled with natural light, creating an atmosphere that is both welcoming and conducive to contemplation. The exhibition spaces are adorned with thoughtfully arranged artifacts that invite curiosity and engagement. The museum’s commitment to accessibility is evident in its design, ensuring that all visitors can navigate the spaces comfortably.
+Notable features of the museum include its spacious galleries, which are often filled with natural light, creating an atmosphere that is both welcoming and conducive to contemplation. The exhibition spaces are adorned with thoughtfully arranged artifacts that invite curiosity and engagement. The museum's commitment to accessibility is evident in its design, ensuring that all visitors can navigate the spaces comfortably.
 
-In addition to its permanent collections, the Museum der Weltkulturen frequently hosts temporary exhibitions, workshops, and cultural events that provide opportunities for deeper engagement with the themes presented. Such programs are integral to the museum’s mission of fostering understanding and dialogue among diverse cultures.
+In addition to its permanent collections, the Museum der Weltkulturen frequently hosts temporary exhibitions, workshops, and cultural events that provide opportunities for deeper engagement with the themes presented. Such programs are integral to the museum's mission of fostering understanding and dialogue among diverse cultures.
 
 ## Visiting Information
 
@@ -54,7 +54,7 @@ Check the official website for current information regarding hours and ticket pr
 
 The best times to visit are during weekdays, particularly in the morning, when the museum tends to be less crowded. However, weekends may also be great for experiencing special events or programs that the museum may host.
 
-As an ethnological museum, the Museum der Weltkulturen provides an immersive experience that encourages visitors to reflect on their own cultural backgrounds while learning about others. Expect to see a variety of exhibits that may include interactive displays, workshops, and educational programs designed to deepen your understanding of the world’s cultures.
+As an ethnological museum, the Museum der Weltkulturen provides an immersive experience that encourages visitors to reflect on their own cultural backgrounds while learning about others. Expect to see a variety of exhibits that may include interactive displays, workshops, and educational programs designed to deepen your understanding of the world's cultures.
 
 ## Nearby Attractions
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Museum der Weltkulturen, consider a few in
 
 - **Crowd Avoidance**: To avoid crowds, plan your visit during weekday mornings or during special events that might attract larger audiences. This will allow for a more relaxed exploration of the exhibits.
 
-- **Engage with Staff**: The museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for the best parts of the collection to explore.
+- **Engage with Staff**: The museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for the best parts of the collection to explore.
 
 ## Practical Information
 

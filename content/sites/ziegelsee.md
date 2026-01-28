@@ -82,7 +82,7 @@ For those planning a visit to Ziegelsee, here are some insider tips to enhance y
 
 When preparing for your visit to Ziegelsee, consider the following practical tips:
 
-- **What to Bring**: Pack comfortable clothing and sturdy footwear suitable for walking or hiking. Don’t forget essentials like sunscreen, water, and snacks for a day spent outdoors.
+- **What to Bring**: Pack comfortable clothing and sturdy footwear suitable for walking or hiking. Don't forget essentials like sunscreen, water, and snacks for a day spent outdoors.
 
 - **Seasonal Considerations**: The best time to visit is during the warmer months when the weather is pleasant. However, even in cooler months, Ziegelsee can provide a peaceful retreat in nature, so dress appropriately for the season.
 

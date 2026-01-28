@@ -86,7 +86,7 @@ For those planning a visit to Heimlichleiden, consider these insider tips for an
 
 ## Practical Information
 
-When visiting Heimlichleiden, it’s advisable to bring some essentials to ensure a comfortable experience:
+When visiting Heimlichleiden, it's advisable to bring some essentials to ensure a comfortable experience:
 
 - **Comfortable Shoes**: As the chapel may have uneven surfaces and nearby walking paths, wearing comfortable shoes can enhance your exploration.
 

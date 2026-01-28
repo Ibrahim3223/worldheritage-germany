@@ -72,7 +72,7 @@ While visiting the Urmensch-Museum, consider exploring some of the nearby attrac
 
 To enhance your visit to the Urmensch-Museum, consider a few insider tips:
 
-- **Photography**: While most museums allow photography, it’s wise to check specific rules regarding flash photography, as it may not be permitted in certain areas.
+- **Photography**: While most museums allow photography, it's wise to check specific rules regarding flash photography, as it may not be permitted in certain areas.
 
 - **Crowd Avoidance**: Aim to visit during off-peak hours, such as early mornings or late afternoons, to enjoy a more relaxed experience without large crowds.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Urmensch-Museum, here are some practical co
 Most visitors typically spend around two to three hours at the Urmensch-Museum, allowing ample time to explore the exhibits and absorb the information presented.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s advisable to check the museum's specific rules regarding photography before your visit.
+Photography policies can vary, so it's advisable to check the museum's specific rules regarding photography before your visit.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for information on scheduling and availability.

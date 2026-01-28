@@ -34,7 +34,7 @@ As you approach the church, its presence is felt amidst the peaceful surrounding
 
 While specific dates regarding the construction of the Village Church of Kirchdorf are not detailed, the church stands as a testament to the enduring faith and community spirit of the island's inhabitants. Over the years, the church has played a central role in the spiritual lives of the residents, serving as a place for worship, reflection, and community gatherings.
 
-The significance of the church extends beyond its religious function; it is a symbol of the village’s identity. Historically, churches in rural communities like Kirchdorf often acted as the focal point for locals, where life milestones such as baptisms, weddings, and funerals were celebrated. The Village Church has likely witnessed many such events, thus embedding itself deeply into the fabric of local culture.
+The significance of the church extends beyond its religious function; it is a symbol of the village's identity. Historically, churches in rural communities like Kirchdorf often acted as the focal point for locals, where life milestones such as baptisms, weddings, and funerals were celebrated. The Village Church has likely witnessed many such events, thus embedding itself deeply into the fabric of local culture.
 
 Culturally, the church has likely influenced various aspects of life on Poel Island, from art and music to festivals and traditions. Although exact records of past events may be sparse, the ongoing use of the church for community activities ensures that its historical significance remains alive in the hearts of the villagers.
 

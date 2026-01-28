@@ -78,7 +78,7 @@ For those planning to visit the Landgerichtsgebäude Limburg, here are some insi
   
 - **Crowd Avoidance**: To avoid crowds, consider visiting during early morning hours or on weekdays when the courthouse is less busy.
 
-- **Guided Tours**: If available, guided tours can provide invaluable insights into the building’s history and significance, making your visit more enriching.
+- **Guided Tours**: If available, guided tours can provide invaluable insights into the building's history and significance, making your visit more enriching.
 
 ## Practical Information
 

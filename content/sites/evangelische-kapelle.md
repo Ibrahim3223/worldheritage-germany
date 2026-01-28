@@ -28,7 +28,7 @@ image_srcset:
 
 The Evangelische Kapelle, an emblematic chapel located in the picturesque region of Bad Berleburg, Germany, serves as a serene spiritual haven. Renowned for its architectural simplicity and tranquil environment, this chapel invites visitors to explore not just its physical space but also the cultural and historical contexts that define it. As you approach the site, you can appreciate the natural beauty of the surrounding area, which enhances the experience of visiting this sacred space. With its deep-rooted significance in the community, the Evangelische Kapelle stands as a poignant reminder of faith and heritage.
 
-Situated at coordinates 51.0154, 8.40893, this chapel is not just a religious site but also an integral part of the local landscape, making it an essential stop for those interested in the cultural and spiritual history of this German region. Whether you’re a history enthusiast, a spiritual seeker, or simply someone looking to appreciate the architectural beauty, the Evangelische Kapelle promises a contemplative experience.
+Situated at coordinates 51.0154, 8.40893, this chapel is not just a religious site but also an integral part of the local landscape, making it an essential stop for those interested in the cultural and spiritual history of this German region. Whether you're a history enthusiast, a spiritual seeker, or simply someone looking to appreciate the architectural beauty, the Evangelische Kapelle promises a contemplative experience.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ While the Evangelische Kapelle itself is a destination worth visiting, the surro
 
 1. **Bad Berleburg Castle**: This historic castle, located within the town, provides insight into the region's noble past and is surrounded by beautiful gardens and parkland.
 
-2. **St. Mary’s Church**: Another significant religious site, St. Mary’s Church features impressive architecture and offers a glimpse into the local religious traditions.
+2. **St. Mary's Church**: Another significant religious site, St. Mary's Church features impressive architecture and offers a glimpse into the local religious traditions.
 
 3. **The Berleburg Zoo**: For families and animal lovers, the nearby zoo showcases a variety of species and is a great place for a leisurely day out.
 

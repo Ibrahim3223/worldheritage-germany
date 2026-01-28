@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Located in the vibrant heart of Berlin, Uber Arena serves as a dynamic multi-purpose venue that caters to a diverse array of events. With a capacity to host large-scale concerts, sporting events, and conventions, this hall has established itself as a key player in the city’s cultural scene. Its strategic location enhances its accessibility, making it a popular destination for locals and tourists alike. As you approach Uber Arena, the excitement of the surrounding area adds to the anticipation of the events held within its walls. 
+Located in the vibrant heart of Berlin, Uber Arena serves as a dynamic multi-purpose venue that caters to a diverse array of events. With a capacity to host large-scale concerts, sporting events, and conventions, this hall has established itself as a key player in the city's cultural scene. Its strategic location enhances its accessibility, making it a popular destination for locals and tourists alike. As you approach Uber Arena, the excitement of the surrounding area adds to the anticipation of the events held within its walls. 
 
 Berlin, known for its rich history and cultural diversity, provides a fitting backdrop for such a versatile venue. Uber Arena not only reflects the modernity of contemporary architecture but also the energetic spirit of Berlin's artistic community. Whether you are a sports enthusiast, a music lover, or seeking a unique event experience, Uber Arena promises to deliver a memorable outing in one of Europe's most dynamic cities.
 
@@ -50,7 +50,7 @@ Inside, Uber Arena offers comfortable seating arrangements that cater to large a
 
 When planning a visit to Uber Arena, it's essential to consider transportation options. The venue is well-connected by public transit, making it easy for visitors to arrive without the need for personal vehicles. Various transportation methods are available, including buses and trains, providing convenient access from different parts of Berlin.
 
-Before heading out, check the official website for current information regarding hours and ticket prices. It’s advisable to arrive early, especially for popular events, to secure good seating and enjoy the atmosphere as attendees gather. Depending on the event type, visitors can expect a lively ambiance filled with anticipation.
+Before heading out, check the official website for current information regarding hours and ticket prices. It's advisable to arrive early, especially for popular events, to secure good seating and enjoy the atmosphere as attendees gather. Depending on the event type, visitors can expect a lively ambiance filled with anticipation.
 
 The time needed for a visit can vary based on the event, but generally, plan to spend a few hours at Uber Arena. This allows adequate time for entering, settling in, and enjoying the performance or event.
 

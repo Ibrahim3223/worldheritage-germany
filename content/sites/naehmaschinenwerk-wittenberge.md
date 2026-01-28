@@ -90,7 +90,7 @@ When preparing for your visit to the Nähmaschinenwerk Wittenberge, keep the fol
 A visit to the Nähmaschinenwerk typically lasts between one to two hours, allowing time to explore the exhibits and appreciate the architecture.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the official website or inquire upon arrival regarding any restrictions.
+Photography policies can vary, so it's best to check the official website or inquire upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the factory's history. Check the official website for details on scheduling and availability.

@@ -66,7 +66,7 @@ While Burg Großbüllesheim is a destination in its own right, several nearby at
 
 4. **Kreuzau Castle**: Another historical site nearby, Kreuzau Castle offers a glimpse into the region's architectural diversity and history, making it a worthwhile stop for those interested in castles.
 
-5. **St. Martin’s Church**: Located in Euskirchen, this church features impressive architecture and historical significance, providing another layer of cultural exploration for visitors.
+5. **St. Martin's Church**: Located in Euskirchen, this church features impressive architecture and historical significance, providing another layer of cultural exploration for visitors.
 
 ## Insider Tips
 
@@ -82,7 +82,7 @@ When preparing for your visit to Burg Großbüllesheim, consider bringing the fo
 
 - **Comfortable walking shoes**, as the terrain may include uneven surfaces.
 - **A water bottle**, especially during warmer months, to stay hydrated while exploring.
-- **Weather-appropriate clothing**, as conditions can vary, and it’s best to be prepared.
+- **Weather-appropriate clothing**, as conditions can vary, and it's best to be prepared.
 
 Seasonal considerations can also impact your visit. Spring and autumn generally provide the most favorable weather, while summer may attract more visitors. Winter visits can be serene but may also mean limited access to certain areas.
 

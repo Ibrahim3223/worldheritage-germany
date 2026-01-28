@@ -66,7 +66,7 @@ To enhance your experience, consider visiting during weekdays or early hours, wh
 
 Dresden is rich with attractions, making the Leonhardi-Museum a convenient starting point for further exploration. Nearby, you can find:
 
-1. **Dresden Frauenkirche**: A stunning baroque church that is a hallmark of the city’s skyline, offering insight into the city's religious and architectural history.
+1. **Dresden Frauenkirche**: A stunning baroque church that is a hallmark of the city's skyline, offering insight into the city's religious and architectural history.
   
 2. **Zwinger Palace**: A magnificent example of baroque architecture, this palace houses a collection of art and historical artifacts, providing a seamless connection to Dresden's artistic legacy.
   
@@ -108,7 +108,7 @@ When planning your visit to the Leonhardi-Museum, consider the following practic
 Typically, a visit to the Leonhardi-Museum can take two to three hours, allowing ample time to explore the exhibits and engage with the material.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s advisable to check the official website for specific guidelines regarding photography within the museum.
+Photography policies can vary, so it's advisable to check the official website for specific guidelines regarding photography within the museum.
 
 ### Are there guided tours?
 Guided tours may be available. Check the official website for details on scheduling and availability to enhance your experience.

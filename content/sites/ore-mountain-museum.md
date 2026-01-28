@@ -36,7 +36,7 @@ The Ore Mountain Museum is deeply intertwined with the history of the Ore Mounta
 
 Mining in the Ore Mountains dates back to ancient times, with evidence suggesting that minerals were extracted as early as the Middle Ages. Over the years, the mining community faced numerous challenges, including harsh working conditions and economic fluctuations. The museum documents these hardships while celebrating the resilience and ingenuity of the miners. 
 
-Moreover, the museum serves as an educational platform, shedding light on the environmental impacts of mining and the ongoing efforts to preserve the natural landscape of the Ore Mountains. By highlighting both the historical significance and contemporary relevance of mining, the Ore Mountain Museum plays a crucial role in fostering an understanding of the region’s past and its implications for the future.
+Moreover, the museum serves as an educational platform, shedding light on the environmental impacts of mining and the ongoing efforts to preserve the natural landscape of the Ore Mountains. By highlighting both the historical significance and contemporary relevance of mining, the Ore Mountain Museum plays a crucial role in fostering an understanding of the region's past and its implications for the future.
 
 ## Architecture and Features
 
@@ -62,7 +62,7 @@ Visiting the Ore Mountain Museum is a rewarding experience for anyone interested
 
 ## Nearby Attractions
 
-1. **St. Anne’s Church**: This historic church, known for its stunning architecture and rich history, is a short walk from the museum and offers insights into the region's cultural heritage.
+1. **St. Anne's Church**: This historic church, known for its stunning architecture and rich history, is a short walk from the museum and offers insights into the region's cultural heritage.
 
 2. **Mining Museum in the Ore Mountains**: Located nearby, this museum complements the Ore Mountain Museum with additional exhibits focused on the mining history of the region.
 

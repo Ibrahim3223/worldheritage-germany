@@ -56,7 +56,7 @@ The ideal duration for a visit may depend on individual interests, but spending 
 
 The Friedrichshain-Kreuzberg region is known for its rich cultural offerings, and several attractions are worth visiting in close proximity to the Askanisches Gymnasium:
 
-1. **East Side Gallery**: A short distance away, this open-air gallery features murals painted on remnants of the Berlin Wall, offering a poignant glimpse into the city’s history and artistic expression.
+1. **East Side Gallery**: A short distance away, this open-air gallery features murals painted on remnants of the Berlin Wall, offering a poignant glimpse into the city's history and artistic expression.
 
 2. **Volkspark Friedrichshain**: This expansive park is perfect for a leisurely stroll or a picnic, featuring beautiful landscapes, walking paths, and recreational facilities.
 
@@ -68,9 +68,9 @@ The Friedrichshain-Kreuzberg region is known for its rich cultural offerings, an
 
 ## Insider Tips
 
-When visiting the Askanisches Gymnasium, consider taking photographs of the building’s exterior and the surrounding area, as these images can capture the essence of Berlin’s architectural diversity. However, be mindful of the school environment and respectful of students and staff.
+When visiting the Askanisches Gymnasium, consider taking photographs of the building's exterior and the surrounding area, as these images can capture the essence of Berlin's architectural diversity. However, be mindful of the school environment and respectful of students and staff.
 
-To avoid crowds, plan your visit during weekdays, particularly in the morning hours. This will allow you to experience the school in action, without the influx of weekend visitors. Engaging with staff or students can also provide unique insights into the school’s culture and educational approach.
+To avoid crowds, plan your visit during weekdays, particularly in the morning hours. This will allow you to experience the school in action, without the influx of weekend visitors. Engaging with staff or students can also provide unique insights into the school's culture and educational approach.
 
 ## Practical Information
 
@@ -87,7 +87,7 @@ A visit of one to two hours is generally sufficient to appreciate the school's e
 Photography is typically permitted in public areas, but it is important to be respectful of students and staff.
 
 ### Are there guided tours?
-Guided tours may not be regularly offered, but interactions with staff can provide valuable insights into the school’s operations.
+Guided tours may not be regularly offered, but interactions with staff can provide valuable insights into the school's operations.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, are ideal for visiting to experience the school in action with fewer crowds.

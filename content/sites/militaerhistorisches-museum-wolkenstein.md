@@ -68,7 +68,7 @@ When in Wolkenstein, several nearby attractions can complement your visit to the
 
 3. **The Ore Mountains**: The nearby Ore Mountains present opportunities for outdoor activities and exploration of the natural landscape, ideal for those looking to balance history with nature.
 
-4. **Frohnauer Hammer**: This historic hammer mill showcases traditional metalworking techniques and is a UNESCO World Heritage site, offering a unique perspective on Saxony’s industrial heritage.
+4. **Frohnauer Hammer**: This historic hammer mill showcases traditional metalworking techniques and is a UNESCO World Heritage site, offering a unique perspective on Saxony's industrial heritage.
 
 5. **Pöhlberg**: A local mountain that provides scenic views and hiking trails, perfect for those looking to enjoy the natural beauty of the region after a day at the museum.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Militärhistorisches Museum Wolkenstein, c
 
 - **Crowd Avoidance**: To experience the museum with fewer visitors, aim to visit during weekday mornings. This timing often allows for a quieter atmosphere, enhancing your exploration of the exhibits.
 
-- **Engage with Staff**: Museum staff can provide valuable insights and answer questions about exhibits. Don’t hesitate to engage with them for a deeper understanding of the displays.
+- **Engage with Staff**: Museum staff can provide valuable insights and answer questions about exhibits. Don't hesitate to engage with them for a deeper understanding of the displays.
 
 - **Take Notes**: If you're particularly interested in certain exhibits, bringing a notebook can help you jot down thoughts or insights for later reflection.
 

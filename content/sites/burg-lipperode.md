@@ -68,7 +68,7 @@ To enhance your visit to Burg Lipperode, consider these insider tips:
 
 - **Photography**: Capture the architectural details and picturesque surroundings, but be mindful of any restrictions that may apply.
 - **Crowd Avoidance**: Aim to visit during weekdays or off-peak hours to enjoy a more serene experience without the hustle of larger crowds.
-- **Guided Tours**: If available, consider taking a guided tour for deeper insights into the castle’s history and architecture.
+- **Guided Tours**: If available, consider taking a guided tour for deeper insights into the castle's history and architecture.
 - **Local Recommendations**: Engage with locals for tips on nearby dining options or hidden spots that may not be widely advertised.
 
 ## Practical Information

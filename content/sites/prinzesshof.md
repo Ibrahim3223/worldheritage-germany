@@ -32,7 +32,7 @@ The charm of Prinzesshof lies in its intricate design and the stories it tells a
 
 ## History and Significance
 
-The history of Prinzesshof is woven into the broader tapestry of Itzehoe’s development. This palace, which has stood for generations, is a reflection of the socio-political landscape that characterized the area. Although specific dates regarding its construction and major events are not detailed, the significance of such an establishment in the region cannot be overstated.
+The history of Prinzesshof is woven into the broader tapestry of Itzehoe's development. This palace, which has stood for generations, is a reflection of the socio-political landscape that characterized the area. Although specific dates regarding its construction and major events are not detailed, the significance of such an establishment in the region cannot be overstated.
 
 Historically, palaces like Prinzesshof served as residences for nobility and centers of power. They were places where important decisions were made and where the cultural life of the elite unfolded. The legacy of Prinzesshof contributes to our understanding of the local history, showcasing the lifestyle, customs, and governance of the time. The palace has likely hosted many significant events, which have helped shape the identity of Itzehoe and its surroundings.
 
@@ -74,7 +74,7 @@ To make the most of your visit to Prinzesshof, consider the following tips:
 
 - **Photography**: While capturing the beauty of the palace is encouraged, be sure to respect any guidelines regarding photography, especially in interior spaces. Early mornings or late afternoons often provide the best natural light for photography.
 
-- **Crowd Avoidance**: To enjoy a more tranquil experience, try to visit on weekdays or during off-peak hours. This can enhance your exploration of the palace’s features without the distractions of larger crowds.
+- **Crowd Avoidance**: To enjoy a more tranquil experience, try to visit on weekdays or during off-peak hours. This can enhance your exploration of the palace's features without the distractions of larger crowds.
 
 ## Practical Information
 

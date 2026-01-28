@@ -28,15 +28,15 @@ image_srcset:
 
 Situated in the vibrant district of Bogenhausen, Sammlung Goetz is an esteemed art museum in Munich that serves as a vital cultural institution within the city. Known for its impressive collection of contemporary art, the museum offers visitors a unique glimpse into the evolving world of modern artistic expression. With a focus on German and international artists, Sammlung Goetz is not just a place to view art; it is a space where ideas and creative dialogues flourish. 
 
-The museum’s curated exhibitions often challenge conventional narratives, making it an essential stop for art lovers and cultural enthusiasts alike. The collection, gathered over decades, reflects a commitment to showcasing innovative works that engage with contemporary societal themes. As a destination, Sammlung Goetz promises an enriching experience that stimulates both intellect and emotion, set against the backdrop of Munich's dynamic art scene.
+The museum's curated exhibitions often challenge conventional narratives, making it an essential stop for art lovers and cultural enthusiasts alike. The collection, gathered over decades, reflects a commitment to showcasing innovative works that engage with contemporary societal themes. As a destination, Sammlung Goetz promises an enriching experience that stimulates both intellect and emotion, set against the backdrop of Munich's dynamic art scene.
 
 ## History and Significance
 
-Sammlung Goetz was established by Ingvild Goetz, a passionate art collector whose vision has shaped the museum into a pivotal site for contemporary art in Germany. Throughout the years, the museum has gained recognition for its dedication to promoting emerging and established artists, fostering a dialogue about the relevance of contemporary art in today’s society.
+Sammlung Goetz was established by Ingvild Goetz, a passionate art collector whose vision has shaped the museum into a pivotal site for contemporary art in Germany. Throughout the years, the museum has gained recognition for its dedication to promoting emerging and established artists, fostering a dialogue about the relevance of contemporary art in today's society.
 
 Ingvild Goetz's journey as a collector began with a focus on painting and sculpture, which later expanded to include video art and installations. This evolution mirrors the broader shifts in the art world, where new media and interdisciplinary practices have become increasingly prominent. Sammlung Goetz stands out not only for its collection but also for its role in supporting artists through commissions and exhibitions, thus contributing significantly to the contemporary art landscape.
 
-The museum’s commitment to innovation and experimentation has made it a key player in the cultural dialogue of the region. By hosting temporary exhibitions, lectures, and events, Sammlung Goetz continues to engage with the public and foster a deeper understanding of contemporary art. The museum serves as a vital resource for both artists and art enthusiasts, creating a space where contemporary issues and artistic expressions intersect.
+The museum's commitment to innovation and experimentation has made it a key player in the cultural dialogue of the region. By hosting temporary exhibitions, lectures, and events, Sammlung Goetz continues to engage with the public and foster a deeper understanding of contemporary art. The museum serves as a vital resource for both artists and art enthusiasts, creating a space where contemporary issues and artistic expressions intersect.
 
 ## Architecture and Features
 
@@ -44,7 +44,7 @@ The architectural design of Sammlung Goetz complements its mission to present co
 
 Inside, visitors will find a variety of exhibition spaces, each tailored to accommodate different types of art. The layout is thoughtfully organized to facilitate a journey through the collection, with artworks strategically placed to provoke thought and dialogue. Notably, the museum often incorporates innovative installation techniques, which enhance the interaction between the viewer and the artwork.
 
-The museum also features a dedicated area for temporary exhibitions, which allows for rotating displays that keep the experience fresh and engaging. This adaptability ensures that each visit can yield new discoveries, making Sammlung Goetz a continually relevant destination in Munich’s art scene.
+The museum also features a dedicated area for temporary exhibitions, which allows for rotating displays that keep the experience fresh and engaging. This adaptability ensures that each visit can yield new discoveries, making Sammlung Goetz a continually relevant destination in Munich's art scene.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ While visiting Sammlung Goetz, there are several nearby attractions that can enh
 
 To make the most of your visit to Sammlung Goetz, here are some insider tips:
 
-- **Photography**: While many museums have restrictions on photography, it’s advisable to check specific guidelines upon arrival. Some exhibitions may allow photography, while others may not.
+- **Photography**: While many museums have restrictions on photography, it's advisable to check specific guidelines upon arrival. Some exhibitions may allow photography, while others may not.
 
 - **Crowd Avoidance**: To enjoy a more serene experience, consider visiting during the early hours of the day or later in the week. This strategy helps you avoid the larger crowds typical on weekends.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Sammlung Goetz, consider the following practica
 Typically, visitors spend around two to three hours at Sammlung Goetz to fully appreciate the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check with the museum staff upon your arrival.
+Photography policies may vary by exhibition. It's best to check with the museum staff upon your arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may be available for certain exhibitions.
@@ -103,7 +103,7 @@ Check the official website for information on guided tours, as they may be avail
 Weekdays, especially in the mornings or later afternoons, tend to be less crowded, providing a more intimate experience.
 
 ### Is it wheelchair accessible?
-The museum aims to be accessible; however, it’s advisable to check the official website for specific accessibility features.
+The museum aims to be accessible; however, it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Visit the official website for details on online ticket purchasing options.

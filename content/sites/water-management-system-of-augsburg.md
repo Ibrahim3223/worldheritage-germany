@@ -86,7 +86,7 @@ When visiting the Water Management System of Augsburg, keep these insider tips i
 
 To make the most of your visit to the Water Management System of Augsburg, consider the following practical information:
 
-- **What to Bring**: Comfortable walking shoes are essential, as exploring the canals and structures involves a fair amount of walking. A camera is also recommended for capturing the site’s beauty.
+- **What to Bring**: Comfortable walking shoes are essential, as exploring the canals and structures involves a fair amount of walking. A camera is also recommended for capturing the site's beauty.
 
 - **Seasonal Considerations**: If visiting during colder months, dress in layers to ensure comfort while outdoors. In warmer months, sunscreen and water are advisable to stay hydrated.
 

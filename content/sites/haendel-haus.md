@@ -70,7 +70,7 @@ While in Halle, consider exploring other notable attractions that complement you
 
 To make the most of your visit to Händel-Haus, consider these insider tips:
 
-- **Photography**: Be mindful of the museum's photography policies. While some areas may allow photography, it’s always best to check for any restrictions, especially during performances.
+- **Photography**: Be mindful of the museum's photography policies. While some areas may allow photography, it's always best to check for any restrictions, especially during performances.
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekdays rather than weekends. Early mornings or late afternoons can also be quieter times to explore the museum.
 
 ## Practical Information

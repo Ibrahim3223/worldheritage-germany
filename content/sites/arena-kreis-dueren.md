@@ -52,7 +52,7 @@ The arena's exterior is equally noteworthy, integrating modern design elements t
 
 Accessing the Arena Kreis Düren is straightforward, thanks to its central location in Düren. Depending on your starting point, various transportation options are available, including public transit and personal vehicles. Parking facilities are typically provided for visitors, but it's advisable to check the official website for current information regarding parking availability and any potential fees.
 
-Before planning your visit, it's important to check the official website for hours of operation and ticket prices, as these can vary based on the events scheduled. The arena hosts a diverse lineup of activities throughout the year, so there’s likely to be something of interest, regardless of when you visit.
+Before planning your visit, it's important to check the official website for hours of operation and ticket prices, as these can vary based on the events scheduled. The arena hosts a diverse lineup of activities throughout the year, so there's likely to be something of interest, regardless of when you visit.
 
 When visiting, you can expect to spend a few hours exploring the arena and attending an event. The best times to visit often coincide with scheduled performances or community events, which can enhance your experience. Arriving early may also provide you with the opportunity to explore the venue's facilities and enjoy any pre-event activities.
 

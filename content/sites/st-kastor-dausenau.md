@@ -50,7 +50,7 @@ Noteworthy aspects of St. Kastor might include any specific artwork, sculptures,
 
 Visiting St. Kastor in Dausenau provides an opportunity to engage with its historical and cultural context. To reach the church, consider using local transport options or a personal vehicle, as the site is accessible from various points in the region. The coordinates for St. Kastor are 50.329364, 7.760019, which can aid in navigation.
 
-Check the official website for current information regarding opening hours and any potential admission fees. It’s advisable to allocate adequate time for your visit, allowing for quiet reflection as well as exploration of the church's architectural features. 
+Check the official website for current information regarding opening hours and any potential admission fees. It's advisable to allocate adequate time for your visit, allowing for quiet reflection as well as exploration of the church's architectural features. 
 
 The best times to visit may be during weekdays or early mornings when crowds are typically lighter, providing a more personal experience. The surrounding area of Dausenau is also worth exploring, adding to the overall experience.
 
@@ -72,7 +72,7 @@ To avoid crowds, plan your visit during the week rather than on weekends, when l
 
 ## Practical Information
 
-When planning your visit to St. Kastor, it’s advisable to bring a few essentials. Comfortable walking shoes will enhance your experience, especially if you plan to explore the surrounding area. A light jacket may be useful, as temperatures can vary throughout the day.
+When planning your visit to St. Kastor, it's advisable to bring a few essentials. Comfortable walking shoes will enhance your experience, especially if you plan to explore the surrounding area. A light jacket may be useful, as temperatures can vary throughout the day.
 
 Seasonal considerations are important as well; spring and autumn often offer pleasant weather for travel and exploration, while summer could see a higher number of visitors. Always check the forecast before your visit to ensure you're prepared for the conditions.
 

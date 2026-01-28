@@ -46,7 +46,7 @@ The architectural design of the Astronomisch-Physikalisches Kabinett reflects it
 
 Notable features of the museum include various exhibits that showcase astronomical instruments and physical models. These items serve as tangible links to the scientific practices of the past, allowing visitors to appreciate the craftsmanship and ingenuity that went into their creation. Interactive displays may also be present, providing opportunities for hands-on learning and experimentation.
 
-In addition to its exhibits, the museum is likely equipped with educational spaces where lectures and workshops can occur. This commitment to education reinforces the museum’s role as a center for scientific inquiry and community engagement.
+In addition to its exhibits, the museum is likely equipped with educational spaces where lectures and workshops can occur. This commitment to education reinforces the museum's role as a center for scientific inquiry and community engagement.
 
 ## Visiting Information
 

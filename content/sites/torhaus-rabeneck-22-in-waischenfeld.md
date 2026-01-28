@@ -74,7 +74,7 @@ While Torhaus Rabeneck 22 is a significant site within Waischenfeld, the region 
 
 4. **Local Museums**: Explore nearby museums that may highlight the history and culture of the region, providing a broader context to your visit.
 
-5. **Nearby Villages**: Consider visiting nearby villages that exemplify Bavarian architecture and charm, enhancing your understanding of the area’s cultural heritage.
+5. **Nearby Villages**: Consider visiting nearby villages that exemplify Bavarian architecture and charm, enhancing your understanding of the area's cultural heritage.
 
 ## Insider Tips
 

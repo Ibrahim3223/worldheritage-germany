@@ -22,7 +22,7 @@ images:
 
 Cultural heritage D-6-6029-0071 in Eltmann is a notable fortification located in the picturesque region of Haßberge in Lower Franconia, Bavaria, Germany. This site serves as a significant cultural heritage monument, reflecting the historical and architectural prowess of the region. Eltmann, with its rich history and charming surroundings, makes it an attractive destination for travelers interested in exploring Germany's medieval past. Visitors to this fortification can expect to encounter a blend of history and architecture that speaks to the strategic importance of the site throughout the ages.
 
-The fortification’s geographical setting adds to its charm, positioned in a landscape that has witnessed centuries of historical development. The significance of this site lies not only in its physical structure but also in its role in the broader narrative of regional defense and settlement patterns. Eltmann's fortification invites exploration and reflection on the enduring legacy of medieval architecture and the societal structures that shaped its construction and use.
+The fortification's geographical setting adds to its charm, positioned in a landscape that has witnessed centuries of historical development. The significance of this site lies not only in its physical structure but also in its role in the broader narrative of regional defense and settlement patterns. Eltmann's fortification invites exploration and reflection on the enduring legacy of medieval architecture and the societal structures that shaped its construction and use.
 
 As you walk through the remnants of the fortification, you will feel connected to the past, gaining insights into the lives of those who once inhabited this space. This guide aims to provide a comprehensive overview of the fortification's history, architecture, visitor information, and much more, ensuring a fulfilling experience for all who venture to this remarkable cultural heritage site.
 
@@ -34,7 +34,7 @@ While specific dates regarding the construction and use of this fortification ma
 
 Moreover, the cultural importance of the fortification extends beyond its defensive role; it also represents the social and economic life of the community. The presence of such a structure would have been a focal point for local governance, trade, and social interaction. As a result, the fortification is not just a remnant of military history but also a testament to the way of life in Eltmann throughout the centuries.
 
-In contemporary times, the fortification is recognized as a cultural heritage monument, highlighting its significance in preserving the historical narrative of the region. It offers visitors a glimpse into the architectural practices of the past, as well as a deeper understanding of the socio-political context of medieval Bavaria. The fortification’s preservation allows for continued appreciation and study of its historical relevance, further enriching the cultural landscape of Eltmann and its surroundings.
+In contemporary times, the fortification is recognized as a cultural heritage monument, highlighting its significance in preserving the historical narrative of the region. It offers visitors a glimpse into the architectural practices of the past, as well as a deeper understanding of the socio-political context of medieval Bavaria. The fortification's preservation allows for continued appreciation and study of its historical relevance, further enriching the cultural landscape of Eltmann and its surroundings.
 
 ## Architecture and Features
 

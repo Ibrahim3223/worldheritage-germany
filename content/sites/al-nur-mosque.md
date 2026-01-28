@@ -28,7 +28,7 @@ image_srcset:
 
 Al-Nur Mosque, located in the vibrant district of Neukölln, Germany, serves as a significant cultural and religious landmark in the heart of Berlin. This mosque is not only a place of worship for the Muslim community but also a center for cultural exchange and dialogue. Situated amid a diverse neighborhood, Al-Nur Mosque reflects the multicultural fabric of the area and plays a vital role in promoting understanding among different communities. Visitors to this site can expect to engage with a space that holds deep spiritual significance while also exploring the broader context of Islamic culture in Germany.
 
-Neukölln is known for its lively atmosphere, combining a rich history with contemporary urban life. The mosque’s presence contributes to the district's dynamic identity, making it a noteworthy stop for those interested in religious architecture, cultural heritage, or simply looking to experience the multicultural essence of Berlin. Whether you are a local resident or a traveler, Al-Nur Mosque offers an enriching encounter with Islamic traditions in a modern European context.
+Neukölln is known for its lively atmosphere, combining a rich history with contemporary urban life. The mosque's presence contributes to the district's dynamic identity, making it a noteworthy stop for those interested in religious architecture, cultural heritage, or simply looking to experience the multicultural essence of Berlin. Whether you are a local resident or a traveler, Al-Nur Mosque offers an enriching encounter with Islamic traditions in a modern European context.
 
 ## History and Significance
 
@@ -56,7 +56,7 @@ Expect a welcoming atmosphere where visitors are encouraged to learn about Islam
 
 ## Nearby Attractions
 
-1. **Tempelhofer Feld**: Once an airport, this expansive park offers a unique space for recreation and leisure. It’s an ideal spot for walking, cycling, and enjoying outdoor activities.
+1. **Tempelhofer Feld**: Once an airport, this expansive park offers a unique space for recreation and leisure. It's an ideal spot for walking, cycling, and enjoying outdoor activities.
 
 2. **Neukölln Arcaden**: A shopping center that provides a variety of shops, cafes, and dining options, making it a convenient stop for refreshments after your visit to the mosque.
 
@@ -87,7 +87,7 @@ A visit to Al-Nur Mosque can take approximately 1-2 hours, allowing time for exp
 Photography may be permitted in certain areas, but it is advisable to check for specific guidelines, especially during prayer services.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the mosque’s architecture and community role. Check the official website for information on scheduling.
+Guided tours may be available, providing deeper insights into the mosque's architecture and community role. Check the official website for information on scheduling.
 
 ### What's the best time to visit?
 Weekdays are generally quieter, while weekends may offer more community activities. Early mornings are also recommended for a peaceful visit.

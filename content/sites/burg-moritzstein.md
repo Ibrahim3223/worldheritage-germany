@@ -103,7 +103,7 @@ Check the official website for current information on accessibility options.
 Ticket purchasing options may vary. Check the official website for details.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to check for specifics on the official website.
+Facilities may be available, but it's best to check for specifics on the official website.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking on cobblestone paths and uneven surfaces. Layering is recommended for varying temperatures.

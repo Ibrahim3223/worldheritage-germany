@@ -94,7 +94,7 @@ When planning your visit to the Fernmeldeturm Calau, consider the following prac
 A visit to the Fernmeldeturm Calau typically takes a few hours, allowing time for exploration and appreciation of the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of any specific guidelines that may be in place.
+Photography is generally permitted, but it's best to be respectful of any specific guidelines that may be in place.
 
 ### Are there guided tours?
 Currently, check the official website for information on guided tours or any educational programs that may be available.

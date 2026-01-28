@@ -26,7 +26,7 @@ This cultural heritage monument stands as a point of interest for both history e
 
 ## History and Significance
 
-The fortification in Babenhausen has played a pivotal role in the region's military history. Its origins are rooted in the need for defense against various external threats that have faced southern Germany over the centuries. While precise dates regarding its construction and significant events may be elusive, the fortification’s enduring presence signifies its importance in regional defense strategies.
+The fortification in Babenhausen has played a pivotal role in the region's military history. Its origins are rooted in the need for defense against various external threats that have faced southern Germany over the centuries. While precise dates regarding its construction and significant events may be elusive, the fortification's enduring presence signifies its importance in regional defense strategies.
 
 Throughout history, Babenhausen has been a focal point for military activity, serving as a bastion during times of conflict. The fortification reflects the architectural styles and military technologies of its time, showcasing how design and construction evolved in response to the needs of defense. The site is a reminder of the turbulent history that shaped Bavaria and its surrounding areas, including the influence of various ruling powers and the impact of wars that swept through Europe.
 

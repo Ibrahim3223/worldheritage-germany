@@ -54,7 +54,7 @@ For those planning to visit the Bakelite Museum in Kierspe, various transportati
 
 Once inside, you can expect a well-organized layout that allows for a leisurely exploration of the exhibits. A standard visit may take around one to two hours, depending on your level of interest in each display. The museum is suitable for individuals, families, and groups, making it an inclusive destination for all.
 
-The best times to visit would generally be during weekdays when the museum may be less crowded, allowing for a more intimate experience with the exhibits. Special events or exhibitions may also take place throughout the year, providing additional opportunities to engage with Bakelite’s legacy.
+The best times to visit would generally be during weekdays when the museum may be less crowded, allowing for a more intimate experience with the exhibits. Special events or exhibitions may also take place throughout the year, providing additional opportunities to engage with Bakelite's legacy.
 
 ## Nearby Attractions
 

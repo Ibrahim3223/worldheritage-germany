@@ -20,13 +20,13 @@ images:
 
 ## Overview
 
-The Institut Mathildenhöhe in Darmstadt, Germany, serves as a pivotal cultural and intellectual hub, dedicated to the preservation and promotion of the arts and crafts movement that flourished in the early 20th century. Located in a city known for its artistic heritage, this museum stands out for its role in documenting the evolution of design, architecture, and the decorative arts. The institute is not only an archive organization but also a center for exhibitions and educational programs that engage with the legacy of the Darmstadt Artists’ Colony. Visitors to the Institut Mathildenhöhe can expect to immerse themselves in a rich cultural atmosphere, surrounded by the innovative spirit that defined a significant period in German art history.
+The Institut Mathildenhöhe in Darmstadt, Germany, serves as a pivotal cultural and intellectual hub, dedicated to the preservation and promotion of the arts and crafts movement that flourished in the early 20th century. Located in a city known for its artistic heritage, this museum stands out for its role in documenting the evolution of design, architecture, and the decorative arts. The institute is not only an archive organization but also a center for exhibitions and educational programs that engage with the legacy of the Darmstadt Artists' Colony. Visitors to the Institut Mathildenhöhe can expect to immerse themselves in a rich cultural atmosphere, surrounded by the innovative spirit that defined a significant period in German art history.
 
 ## History and Significance
 
 The origins of the Institut Mathildenhöhe can be traced back to the late 19th century, amid a burgeoning interest in the arts and crafts movement. This period was marked by a desire to elevate the status of applied arts alongside fine arts, a movement that sought to integrate artistic practices into everyday life. While specific founding dates are not available, the institute's significance lies in its continued commitment to this ethos, promoting interdisciplinary collaboration among artists, designers, and craftsmen.
 
-Darmstadt itself became a focal point for this movement, particularly with the establishment of the Artists’ Colony in 1899, which attracted numerous influential figures in the world of art and design. The colony was founded under the patronage of Grand Duke Ernst Ludwig, who envisioned a community where artists could live and work together, fostering creativity and innovation. The Institut Mathildenhöhe plays a crucial role in preserving this legacy, housing extensive collections of works created by the artists associated with the colony.
+Darmstadt itself became a focal point for this movement, particularly with the establishment of the Artists' Colony in 1899, which attracted numerous influential figures in the world of art and design. The colony was founded under the patronage of Grand Duke Ernst Ludwig, who envisioned a community where artists could live and work together, fostering creativity and innovation. The Institut Mathildenhöhe plays a crucial role in preserving this legacy, housing extensive collections of works created by the artists associated with the colony.
 
 Throughout its history, the institute has not only served as a repository of artifacts and documents but has also played an active role in contemporary discussions about design and art. By hosting exhibitions and events that showcase both historical and modern interpretations of the arts and crafts movement, the Institut Mathildenhöhe remains a vital part of Darmstadt's cultural landscape. This engagement with the past and present underscores the institute's importance as a center for cultural exchange and education.
 
@@ -66,7 +66,7 @@ Make use of the museum's resources, such as guided tours or informational brochu
 
 ## Practical Information
 
-When visiting the Institut Mathildenhöhe, it’s advisable to bring a light jacket or sweater, as the temperature can vary within the museum’s exhibition spaces. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding park and other nearby attractions.
+When visiting the Institut Mathildenhöhe, it's advisable to bring a light jacket or sweater, as the temperature can vary within the museum's exhibition spaces. Comfortable walking shoes are recommended, especially if you plan to explore the surrounding park and other nearby attractions.
 
 Seasonal considerations may influence your visit, particularly during special events or exhibitions that could draw larger crowds. Always check the official website for any updates on events, opening hours, and admission fees before planning your trip.
 
@@ -79,7 +79,7 @@ A visit typically takes about two to three hours, allowing time to explore both 
 Photography policies can vary; check with museum staff regarding specific restrictions in exhibition areas.
 
 ### Are there guided tours?
-Yes, the museum often offers guided tours. It’s recommended to check the official website for details and availability.
+Yes, the museum often offers guided tours. It's recommended to check the official website for details and availability.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning, tend to be less crowded, providing a more tranquil experience.

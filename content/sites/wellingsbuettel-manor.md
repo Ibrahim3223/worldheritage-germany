@@ -103,7 +103,7 @@ Check the official website for information on guided tours, which may enhance yo
 The best time to visit can depend on specific events or exhibitions. Checking the official website for recommendations is advisable.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary; it’s best to check with the official website for detailed information regarding wheelchair access.
+Accessibility features may vary; it's best to check with the official website for detailed information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options, including online availability.

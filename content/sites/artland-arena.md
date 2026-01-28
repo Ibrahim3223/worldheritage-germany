@@ -32,7 +32,7 @@ As you explore the surroundings of this versatile arena, you will find yourself 
 
 ## History and Significance
 
-Artland-Arena has become synonymous with entertainment and community engagement in Quakenbrück. While specific historical details about its inception are not available, the arena’s role in the local culture is well recognized. It has hosted numerous events that have left a mark on the community, including sporting events that draw in passionate fans and cultural performances that showcase local talent.
+Artland-Arena has become synonymous with entertainment and community engagement in Quakenbrück. While specific historical details about its inception are not available, the arena's role in the local culture is well recognized. It has hosted numerous events that have left a mark on the community, including sporting events that draw in passionate fans and cultural performances that showcase local talent.
 
 The significance of Artland-Arena extends beyond its physical structure. It acts as a platform for various social activities, fostering connections among residents and visitors. With its ability to adapt to different types of events, the arena has become a focal point for community gatherings, enhancing the sense of belonging among the residents of Quakenbrück.
 
@@ -40,7 +40,7 @@ In a region where community spirit is paramount, the Artland-Arena has played a 
 
 ## Architecture and Features
 
-Artland-Arena is designed as a versatile multi-purpose hall, capable of accommodating a variety of events. While specific architectural details are not documented, the arena’s design reflects a modern approach, ensuring functionality and comfort for both performers and audiences. The spacious interior is tailored to facilitate sports events, concerts, and other gatherings, featuring adaptable seating arrangements that can be modified to suit different needs.
+Artland-Arena is designed as a versatile multi-purpose hall, capable of accommodating a variety of events. While specific architectural details are not documented, the arena's design reflects a modern approach, ensuring functionality and comfort for both performers and audiences. The spacious interior is tailored to facilitate sports events, concerts, and other gatherings, featuring adaptable seating arrangements that can be modified to suit different needs.
 
 The arena's layout promotes an engaging experience for attendees, with sightlines designed to enhance visibility from all angles. Facilities within the venue are geared towards providing a comfortable environment, although specific amenities are not detailed. This adaptability not only serves the local sports teams but also allows for a wide range of cultural events, making it an essential part of the community.
 
@@ -93,7 +93,7 @@ Currently, no specific information on guided tours is available. Check the offic
 The best time to visit depends on the event schedule. Keep an eye on the calendar of events to choose one that interests you.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s advisable to check the official website for information on accessibility options.
+Accessibility details are not specified. It's advisable to check the official website for information on accessibility options.
 
 ### Can I buy tickets online?
 For ticket purchasing options, including online availability, please refer to the official website for the most current details.

@@ -36,7 +36,7 @@ In addition, the foundation serves as a model for other philanthropic efforts in
 
 Alerds-Stiftung, as a foundation, may not be defined by traditional architectural features typically associated with grand edifices, but its premises reflect a thoughtful design that prioritizes functionality and accessibility. The facilities are designed to accommodate various programs and activities, emphasizing an open and inclusive environment.
 
-Visitors may notice spaces tailored for community gatherings, educational workshops, and cultural events. The layout is likely structured to foster interaction and collaboration among participants, embodying the foundation's mission to bring people together for shared goals. While the specific architectural details may not be documented, one can expect that the aesthetic choices align with the foundation’s values—encouraging engagement and connection within the community.
+Visitors may notice spaces tailored for community gatherings, educational workshops, and cultural events. The layout is likely structured to foster interaction and collaboration among participants, embodying the foundation's mission to bring people together for shared goals. While the specific architectural details may not be documented, one can expect that the aesthetic choices align with the foundation's values—encouraging engagement and connection within the community.
 
 As one explores the premises, the overall atmosphere is likely to be welcoming, with areas designated for reflection and learning, enhancing the experience of visitors who come to engage with the foundation's initiatives. 
 
@@ -44,7 +44,7 @@ As one explores the premises, the overall atmosphere is likely to be welcoming, 
 
 Reaching Alerds-Stiftung is straightforward, given its central location in Brunswick. The city is well-connected through public transportation, making it accessible for both local and international travelers. Visitors can typically expect to find ample signage directing them to the foundation from major transit points in the city.
 
-Check the official website for current information on hours of operation and any potential admission fees. While the foundation offers a range of programs, visitors may want to allocate a few hours to fully appreciate the various activities and exhibits available. Engaging with the community events or workshops can provide deeper insights into the foundation’s initiatives.
+Check the official website for current information on hours of operation and any potential admission fees. While the foundation offers a range of programs, visitors may want to allocate a few hours to fully appreciate the various activities and exhibits available. Engaging with the community events or workshops can provide deeper insights into the foundation's initiatives.
 
 The best times to visit are likely during community events or exhibitions, where the vibrancy of local culture is on full display. Additionally, visiting during weekdays may help avoid larger crowds, allowing for a more immersive experience.
 
@@ -64,7 +64,7 @@ The best times to visit are likely during community events or exhibitions, where
 
 For those looking to capture the essence of Alerds-Stiftung through photography, consider visiting during the early morning or late afternoon when natural light enhances the atmosphere. Avoid peak hours, especially during community events, to secure unobstructed shots and a more personal experience.
 
-Engaging with staff or volunteers can also enrich the visit; they often have insights into the foundation’s programs that may not be readily available through printed materials. Don't hesitate to ask questions or seek recommendations for local dining or other attractions.
+Engaging with staff or volunteers can also enrich the visit; they often have insights into the foundation's programs that may not be readily available through printed materials. Don't hesitate to ask questions or seek recommendations for local dining or other attractions.
 
 ## Practical Information
 
@@ -77,7 +77,7 @@ For those with dietary restrictions or preferences, it may be beneficial to rese
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-While the time needed can vary based on personal interests, allocating a few hours should provide ample opportunity to engage with the foundation’s offerings and explore the surrounding area.
+While the time needed can vary based on personal interests, allocating a few hours should provide ample opportunity to engage with the foundation's offerings and explore the surrounding area.
 
 ### Is photography allowed?
 Visitors are generally welcome to take photographs, but it's advisable to be respectful of any guidelines provided by the foundation regarding photography during specific events or programs.
@@ -95,7 +95,7 @@ Check the official website for details on accessibility options, as Alerds-Stift
 For any events or programs that require admission, check the official website for the possibility of purchasing tickets in advance.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but for dining options, it’s advisable to explore nearby cafes and restaurants for a wider selection.
+Facilities such as restrooms are typically available, but for dining options, it's advisable to explore nearby cafes and restaurants for a wider selection.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the weather conditions and the nature of your visit, whether it be for a formal event or a casual exploration.

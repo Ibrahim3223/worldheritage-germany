@@ -38,7 +38,7 @@ The architecture of Deutzer Friedhof is a blend of various styles that reflect t
 
 One notable feature of the cemetery is its layout, which is thoughtfully arranged to create a sense of serenity. The paths wind gently through the grounds, allowing for a leisurely exploration of the space. The landscaping complements the gravestones, with well-maintained greenery providing a peaceful backdrop for quiet reflection. 
 
-Among the memorials, visitors may find unique epitaphs and symbols that offer insight into the lives of those interred. These elements often incorporate personal touches, such as motifs reflecting the deceased's profession or passions, adding depth to the narrative of each individual’s life.
+Among the memorials, visitors may find unique epitaphs and symbols that offer insight into the lives of those interred. These elements often incorporate personal touches, such as motifs reflecting the deceased's profession or passions, adding depth to the narrative of each individual's life.
 
 The overall atmosphere of Deutzer Friedhof is one of calm and contemplation. It is a place where the artistry of memorialization meets the natural beauty of the environment, creating a harmonious space for remembrance.
 
@@ -76,7 +76,7 @@ If you're interested in photography, the golden hour before sunset can provide e
 
 ## Practical Information
 
-When visiting Deutzer Friedhof, comfortable walking shoes are recommended as the grounds may require some walking. It’s also wise to bring water, especially if visiting during warmer months.
+When visiting Deutzer Friedhof, comfortable walking shoes are recommended as the grounds may require some walking. It's also wise to bring water, especially if visiting during warmer months.
 
 Seasonal considerations may influence your experience. In spring and summer, the greenery is lush, creating a vibrant atmosphere. Autumn offers a picturesque setting with colorful foliage, while winter can present a stark beauty with a serene, quiet landscape.
 
@@ -100,7 +100,7 @@ The best times to visit are during daylight hours, particularly in the spring an
 Check the official website for specific accessibility information, as features may vary.
 
 ### Can I buy tickets online?
-Access to Deutzer Friedhof is usually free, but it’s advisable to check the official website for any updates regarding entry fees or donations.
+Access to Deutzer Friedhof is usually free, but it's advisable to check the official website for any updates regarding entry fees or donations.
 
 ### Are there restrooms and cafes?
 Facilities may not be available on-site, so it is recommended to plan accordingly.

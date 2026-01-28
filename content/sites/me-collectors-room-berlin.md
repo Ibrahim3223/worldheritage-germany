@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the vibrant heart of Berlin, me Collectors Room Berlin serves as a unique destination for art enthusiasts and culture seekers alike. This museum, dedicated to contemporary art and design, offers a space where the boundary between art and life blurs. Located in one of the most dynamic cities in Europe, the museum is a remarkable representation of Berlin’s ever-evolving cultural landscape. Visitors are invited to explore a carefully curated collection that reflects the dynamic interplay between various art forms, encouraging dialogue between the past and present.
+In the vibrant heart of Berlin, me Collectors Room Berlin serves as a unique destination for art enthusiasts and culture seekers alike. This museum, dedicated to contemporary art and design, offers a space where the boundary between art and life blurs. Located in one of the most dynamic cities in Europe, the museum is a remarkable representation of Berlin's ever-evolving cultural landscape. Visitors are invited to explore a carefully curated collection that reflects the dynamic interplay between various art forms, encouraging dialogue between the past and present.
 
 The museum is not just a place to view artworks; it is an experience that challenges perceptions and invites visitors to engage with art on a deeper level. With a focus on both established and emerging artists, me Collectors Room Berlin fosters a creative environment that celebrates artistic innovation and expression. Each exhibition is thoughtfully designed to provoke thought and inspire creativity, making it a significant cultural hub within the city.
 
@@ -74,7 +74,7 @@ After exploring me Collectors Room Berlin, visitors may want to discover other a
 
 4. **Potsdamer Platz**: Known for its modern architecture and vibrant atmosphere, this area offers shopping, dining, and entertainment options, making it a great place to unwind after a day of museum visits.
 
-5. **Gendarmenmarkt**: This historic square features stunning architecture, including the German and French Cathedrals and the Concert House. It’s an excellent spot to relax and enjoy the surroundings.
+5. **Gendarmenmarkt**: This historic square features stunning architecture, including the German and French Cathedrals and the Concert House. It's an excellent spot to relax and enjoy the surroundings.
 
 ## Insider Tips
 

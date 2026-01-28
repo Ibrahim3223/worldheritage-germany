@@ -28,7 +28,7 @@ image_srcset:
 
 Wiblingen Abbey, a striking monastery located in Wiblingen, Germany, invites visitors to immerse themselves in the serene atmosphere of its historical and architectural grandeur. This site, rooted in monastic traditions, holds significant cultural importance and offers a glimpse into the life of the Benedictine monks who once inhabited its halls. With its intricate design and tranquil surroundings, Wiblingen Abbey serves as a peaceful retreat for travelers seeking both spiritual solace and an appreciation of historical architecture.
 
-Situated in southern Germany, the abbey is easily accessible and plays a vital role in the region's heritage. The monastery's enduring presence reflects centuries of devotion and artistry, making it a noteworthy destination for history enthusiasts and architecture lovers alike. As you explore this remarkable site, you will discover the stories and legacies left behind by its former residents, enriching your understanding of the area’s cultural landscape.
+Situated in southern Germany, the abbey is easily accessible and plays a vital role in the region's heritage. The monastery's enduring presence reflects centuries of devotion and artistry, making it a noteworthy destination for history enthusiasts and architecture lovers alike. As you explore this remarkable site, you will discover the stories and legacies left behind by its former residents, enriching your understanding of the area's cultural landscape.
 
 ## History and Significance
 

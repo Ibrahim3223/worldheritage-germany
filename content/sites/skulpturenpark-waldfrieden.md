@@ -76,7 +76,7 @@ As you explore the park, take your time to engage with the artworks and consider
 
 ## Practical Information
 
-When visiting Skulpturenpark Waldfrieden, it’s advisable to wear comfortable shoes, as the park covers a considerable area with paths that may vary in terrain. Depending on the season, dressing in layers can keep you comfortable throughout your visit.
+When visiting Skulpturenpark Waldfrieden, it's advisable to wear comfortable shoes, as the park covers a considerable area with paths that may vary in terrain. Depending on the season, dressing in layers can keep you comfortable throughout your visit.
 
 Bring along water and snacks, as amenities within the park may be limited. Additionally, a small backpack can be useful for carrying your essentials while you explore.
 

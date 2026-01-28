@@ -46,7 +46,7 @@ Kutschenberg, as a natural mountain, does not feature man-made structures of arc
 
 The flora and fauna around Kutschenberg contribute to its charm. Visitors can expect to encounter a variety of trees and plants that thrive in the region, enhancing the mountain's natural beauty. The changing seasons bring different colors and textures to the landscape, making Kutschenberg a picturesque spot for photography and nature observation.
 
-One notable aspect of Kutschenberg is its accessibility. Trails are likely designed with consideration for various skill levels, enabling a wide range of visitors to enjoy the mountain’s features. The combination of natural beauty, varied terrain, and accessibility make Kutschenberg an inviting destination for outdoor activities.
+One notable aspect of Kutschenberg is its accessibility. Trails are likely designed with consideration for various skill levels, enabling a wide range of visitors to enjoy the mountain's features. The combination of natural beauty, varied terrain, and accessibility make Kutschenberg an inviting destination for outdoor activities.
 
 ## Visiting Information
 

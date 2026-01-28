@@ -52,7 +52,7 @@ Visiting Kloster Frenswegen can be a rewarding experience for those interested i
 
 When planning your visit, consider allocating a few hours to fully immerse yourself in the atmosphere of the foundation. This will allow you to explore its spaces, participate in any scheduled events, and enjoy the surrounding area. 
 
-Getting to Kloster Frenswegen is relatively straightforward, with various transport options available. Check local transportation services for the best routes, whether you are traveling by car or public transport. The site’s accessibility is an essential factor to consider, especially if you are traveling with individuals who may have specific mobility needs.
+Getting to Kloster Frenswegen is relatively straightforward, with various transport options available. Check local transportation services for the best routes, whether you are traveling by car or public transport. The site's accessibility is an essential factor to consider, especially if you are traveling with individuals who may have specific mobility needs.
 
 The best times to visit generally align with local events or seasonal festivals, which can enhance your experience. However, quieter periods may also be appealing if you prefer a more contemplative visit.
 

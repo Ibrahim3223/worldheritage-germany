@@ -28,7 +28,7 @@ The castle's structure tells tales of its storied history, while the surrounding
 
 Burg Neutann's historical significance is deeply rooted in the socio-political landscape of its time. Although specific dates and events may not be documented here, the castle has been recognized as a vital stronghold within the region. Castles like Burg Neutann played critical roles in medieval society, serving as centers of power and protection for local lords and their subjects. The architecture and strategic design of the castle reflect the military needs and the evolving technologies of its era.
 
-The cultural importance of Burg Neutann extends beyond its military functions. It has also been a witness to the changing dynamics of governance and social structures over the years. The castle’s presence in Wolfegg symbolizes the historical journeys of the people who inhabited this area, offering insights into their way of life, customs, and traditions. 
+The cultural importance of Burg Neutann extends beyond its military functions. It has also been a witness to the changing dynamics of governance and social structures over the years. The castle's presence in Wolfegg symbolizes the historical journeys of the people who inhabited this area, offering insights into their way of life, customs, and traditions. 
 
 Today, Burg Neutann stands not only as a relic of the past but also as a vibrant venue for cultural events and community activities. Its continuing relevance highlights the importance of preserving such heritage sites, ensuring that future generations can appreciate and learn from these historical landmarks.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Hagen Open-air Museum, located in Hagen, North Rhine-Westphalia, Germany, is a distinctive cultural destination that highlights the rich tradition of brewing in the region. This open-air museum provides visitors with an immersive experience into the historical significance of brewing practices, showcasing the evolution of this craft through authentic exhibits and structures. The museum's collection includes a variety of buildings and installations that illustrate the techniques and technologies used in brewing over the years, making it an excellent spot for those interested in both history and culinary arts.
 
-Set against the backdrop of Hagen’s picturesque landscape, the museum offers a unique opportunity to engage with the intricacies of brewing culture while appreciating the natural beauty of the area. As you wander through the grounds, you will encounter a blend of educational experiences and leisure, making it a perfect outing for families, history enthusiasts, and anyone curious about the brewing heritage of Germany.
+Set against the backdrop of Hagen's picturesque landscape, the museum offers a unique opportunity to engage with the intricacies of brewing culture while appreciating the natural beauty of the area. As you wander through the grounds, you will encounter a blend of educational experiences and leisure, making it a perfect outing for families, history enthusiasts, and anyone curious about the brewing heritage of Germany.
 
 ## History and Significance
 
@@ -73,7 +73,7 @@ Be sure to engage with the staff or volunteers who often have valuable insights 
 
 When visiting the Hagen Open-air Museum, it is advisable to wear comfortable shoes, as you'll likely be doing a fair amount of walking. The museum's outdoor spaces can be uneven in places, so sturdy footwear is recommended. 
 
-If you're planning to visit during the cooler months, layering your clothing is a good strategy, as the museum experience includes both indoor and outdoor elements. Don’t forget to bring a water bottle to stay hydrated, especially if you're visiting during warmer weather.
+If you're planning to visit during the cooler months, layering your clothing is a good strategy, as the museum experience includes both indoor and outdoor elements. Don't forget to bring a water bottle to stay hydrated, especially if you're visiting during warmer weather.
 
 ## Frequently Asked Questions
 
@@ -93,7 +93,7 @@ The best times to visit are during the warmer months, particularly when special 
 While specific accessibility features may not be detailed, many open-air museums strive to accommodate visitors with mobility challenges. It is advisable to check the official website for the most accurate information.
 
 ### Can I buy tickets online?
-Ticket purchase options, including online availability, may vary. It’s best to check the official website for the latest information.
+Ticket purchase options, including online availability, may vary. It's best to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Restroom facilities are typically available at the museum. Check the official website for any information regarding food and beverage services.

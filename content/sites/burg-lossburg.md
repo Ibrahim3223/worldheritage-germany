@@ -24,7 +24,7 @@ Burg Loßburg is a captivating castle that invites visitors to explore its histo
 
 As you approach Burg Loßburg, its robust structure and ancient stones evoke a sense of wonder and curiosity. The castle stands as a monument not just to the architectural prowess of its time but also to the cultural heritage that has persisted through centuries. Visitors can look forward to uncovering the layers of history that make this site a significant part of Germany's medieval narrative.
 
-Whether you’re an avid history enthusiast or simply seeking a charming escape into the past, Burg Loßburg offers an engaging experience. Explore the castle's features, absorb the ambiance of its surroundings, and contemplate the lives of those who once walked its halls.
+Whether you're an avid history enthusiast or simply seeking a charming escape into the past, Burg Loßburg offers an engaging experience. Explore the castle's features, absorb the ambiance of its surroundings, and contemplate the lives of those who once walked its halls.
 
 ## History and Significance
 

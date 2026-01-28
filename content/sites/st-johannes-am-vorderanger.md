@@ -34,7 +34,7 @@ As you approach this historic church, you will find it situated in a lively part
 
 While specific historical details are not provided, St. Johannes am Vorderanger holds a significant position in the cultural fabric of Landsberg am Lech. Churches in Bavaria often reflect the region's rich religious traditions and community values. This church, like many others, likely played a central role in local events, celebrations, and the spiritual lives of its congregants.
 
-The significance of St. Johannes am Vorderanger can also be understood in the context of the town’s history. Landsberg am Lech is known for its medieval structures and has a history that dates back many centuries. As a church building, St. Johannes would have been a focal point for the community, serving as a place of worship, gathering, and social interaction. The architecture and design of such a church often reflect the artistic styles prevalent at the time of its construction, contributing to our understanding of regional developments in ecclesiastical architecture.
+The significance of St. Johannes am Vorderanger can also be understood in the context of the town's history. Landsberg am Lech is known for its medieval structures and has a history that dates back many centuries. As a church building, St. Johannes would have been a focal point for the community, serving as a place of worship, gathering, and social interaction. The architecture and design of such a church often reflect the artistic styles prevalent at the time of its construction, contributing to our understanding of regional developments in ecclesiastical architecture.
 
 The church likely has ties to various historical events and changes in the local population, each influencing its role within the community. Although the exact details may require further exploration, its enduring presence highlights the importance of religious structures in shaping local identity and continuity.
 
@@ -76,7 +76,7 @@ To avoid larger groups, consider planning your visit during off-peak hours. Week
 
 When visiting St. Johannes am Vorderanger, it is advisable to bring a camera, water, and comfortable walking shoes. The church may have specific guidelines regarding photography, so be observant of any signs. Seasonal considerations should also be taken into account; if visiting in winter, dress warmly, as church buildings can be drafty.
 
-While exploring Landsberg am Lech, it’s beneficial to have a small guidebook or map to navigate the town’s attractions effectively.
+While exploring Landsberg am Lech, it's beneficial to have a small guidebook or map to navigate the town's attractions effectively.
 
 ## Frequently Asked Questions
 
@@ -99,7 +99,7 @@ Information on accessibility may vary; please check the official website for spe
 For the most accurate information regarding ticket purchases, check the official website.
 
 ### Are there restrooms and cafes?
-Nearby facilities may be available; it’s recommended to explore local amenities when planning your visit.
+Nearby facilities may be available; it's recommended to explore local amenities when planning your visit.
 
 ### What should I wear?
 Dress comfortably and respectfully, as it is a place of worship. Consider the season when selecting your clothing.

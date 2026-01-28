@@ -36,7 +36,7 @@ The Apothekenmuseum promises an engaging experience filled with educational oppo
 
 The Apothekenmuseum serves as a vital link to the past, showcasing the evolution of pharmacy and the significant role it has played in healthcare. While specific historical dates are not available, the museum reflects the long-standing tradition of pharmaceutical practice in Germany, which has roots dating back centuries. The evolution of pharmacy is closely tied to advances in science and medicine, and this museum highlights how these changes have influenced public health and wellbeing.
 
-The museum’s collection includes a range of artifacts, from traditional apothecary tools to historic medicinal preparations. These items not only illustrate the scientific advancements of their time but also provide a cultural context for the practice of pharmacy. The significance of the Apothekenmuseum extends beyond mere artifacts; it serves as an educational platform that informs visitors about the responsibility and ethics associated with pharmaceutical care.
+The museum's collection includes a range of artifacts, from traditional apothecary tools to historic medicinal preparations. These items not only illustrate the scientific advancements of their time but also provide a cultural context for the practice of pharmacy. The significance of the Apothekenmuseum extends beyond mere artifacts; it serves as an educational platform that informs visitors about the responsibility and ethics associated with pharmaceutical care.
 
 Through its exhibits, the museum fosters an understanding of how pharmacies have evolved from simple herbal remedies to complex formulations. This narrative is crucial for appreciating modern pharmacy and its impact on contemporary health practices. The Apothekenmuseum stands as a cultural institution that preserves and communicates the rich history of pharmacy, making it a significant heritage site in Cottbus.
 
@@ -66,7 +66,7 @@ While visiting the Apothekenmuseum, there are several nearby attractions that en
 
 2. **Branitz Park**: Designed by the renowned landscape architect Hermann von Pückler-Muskau, this park features beautiful gardens and a picturesque palace, perfect for a leisurely stroll.
 
-3. **Cottbus City Palace**: This impressive building serves as a reminder of the city’s historical significance and houses various exhibitions that reflect the region's culture and history.
+3. **Cottbus City Palace**: This impressive building serves as a reminder of the city's historical significance and houses various exhibitions that reflect the region's culture and history.
 
 4. **Spremberger Strasse**: A lively street filled with shops, cafes, and restaurants, ideal for those looking to experience local cuisine and culture.
 
@@ -90,7 +90,7 @@ Seasonal considerations should be kept in mind; check the weather forecast befor
 Visitors typically spend around two hours exploring the Apothekenmuseum, allowing ample time to engage with the exhibits.
 
 ### Is photography allowed?
-Check the museum's policy regarding photography, as it may vary. It’s best to inquire with the staff upon arrival.
+Check the museum's policy regarding photography, as it may vary. It's best to inquire with the staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the museum's collections and history. Check the official website for details.

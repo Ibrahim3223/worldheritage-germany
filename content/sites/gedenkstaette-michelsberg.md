@@ -102,7 +102,7 @@ The memorial is designed to be accessible, but check the official website for sp
 For current information regarding ticket purchases, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s advisable to check in advance for specific amenities.
+Facilities may be available nearby, but it's advisable to check in advance for specific amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, as you may spend time outdoors. Comfortable walking shoes are recommended.

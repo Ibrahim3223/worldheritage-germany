@@ -64,7 +64,7 @@ Münster is home to a variety of attractions that complement a visit to the Lepr
 
 3. **Aasee**: A picturesque lake surrounded by parks and walking paths, Aasee is an ideal spot for a leisurely stroll or a picnic, offering a serene escape from the city.
 
-4. **Prinzipalmarkt**: The city’s historic marketplace features stunning gabled buildings and a vibrant atmosphere, making it a great place to shop, dine, or simply enjoy the local culture.
+4. **Prinzipalmarkt**: The city's historic marketplace features stunning gabled buildings and a vibrant atmosphere, making it a great place to shop, dine, or simply enjoy the local culture.
 
 5. **Botanischer Garten**: The botanical garden is a peaceful retreat that showcases a variety of plant species and offers a pleasant environment for relaxation and exploration.
 
@@ -72,7 +72,7 @@ Münster is home to a variety of attractions that complement a visit to the Lepr
 
 To make the most of your visit to the Lepra Museum Kinderhaus, consider the following tips:
 
-- **Photography**: Be mindful of photography policies within the museum. It’s a good idea to check for specific rules regarding photography to ensure a respectful experience for all visitors.
+- **Photography**: Be mindful of photography policies within the museum. It's a good idea to check for specific rules regarding photography to ensure a respectful experience for all visitors.
   
 - **Crowd Avoidance**: To enjoy a quieter visit, aim for midweek mornings, when foot traffic is typically lower. This allows for a more personal experience with the exhibits and a chance to engage more deeply with the material.
 
@@ -82,7 +82,7 @@ When planning your visit to the Lepra Museum Kinderhaus, consider bringing the f
 
 - **Comfortable footwear**: The museum may involve some walking, and comfortable shoes will enhance your experience.
 - **Water bottle**: Staying hydrated is important, especially if you plan to explore the nearby attractions after your museum visit.
-- **Notebook or journal**: If you’re inclined to reflect on your experience, having a place to jot down thoughts or insights can be rewarding.
+- **Notebook or journal**: If you're inclined to reflect on your experience, having a place to jot down thoughts or insights can be rewarding.
 
 Seasonal considerations include checking the weather forecast, as rain or cold can affect your plans, especially if you intend to explore outdoor attractions. 
 

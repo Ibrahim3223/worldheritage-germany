@@ -66,7 +66,7 @@ While visiting Loccum Abbey, the surrounding area offers several notable attract
 
 4. **The Great Lake Steinhude**: A short drive away, this picturesque lake area offers recreational activities such as boating, swimming, and cycling.
 
-5. **St. Mary’s Church in Rehburg**: Another historical site, this church features beautiful stained glass and an inviting atmosphere for visitors.
+5. **St. Mary's Church in Rehburg**: Another historical site, this church features beautiful stained glass and an inviting atmosphere for visitors.
 
 ## Insider Tips
 

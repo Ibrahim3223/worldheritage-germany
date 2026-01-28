@@ -60,9 +60,9 @@ While visiting Ostenfriedhof, consider exploring some nearby attractions that fu
 
 1. **Reinoldikirche**: This historic church, located in the city center, is known for its stunning architecture and significant role in Dortmund's history. The church features a tall spire and beautiful stained glass windows.
 
-2. **Dortmund U-Tower**: A cultural landmark, the U-Tower houses a range of exhibitions and events, offering insights into contemporary art and design. Its unique architecture is a noteworthy addition to the city’s skyline.
+2. **Dortmund U-Tower**: A cultural landmark, the U-Tower houses a range of exhibitions and events, offering insights into contemporary art and design. Its unique architecture is a noteworthy addition to the city's skyline.
 
-3. **Westfalenpark**: Just a short distance away, Westfalenpark is a large urban park featuring gardens, lakes, and walking paths. It’s an excellent place for leisurely strolls or picnics amidst nature.
+3. **Westfalenpark**: Just a short distance away, Westfalenpark is a large urban park featuring gardens, lakes, and walking paths. It's an excellent place for leisurely strolls or picnics amidst nature.
 
 4. **Museum Ostwall**: Located within the U-Tower, this museum showcases modern art and is dedicated to the works of significant artists, providing a cultural complement to your cemetery visit.
 

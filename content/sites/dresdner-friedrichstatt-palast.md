@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Dresdner FriedrichstaTT Palast stands as a prominent cultural venue in the heart of Dresden, Germany. This theatre building is not only a key component of the city’s artistic landscape but also a reflection of Dresden’s rich cultural heritage. Situated at coordinates 51.05429, 13.72365, the Palast draws visitors with its vibrant programming, which includes a variety of performances that cater to diverse tastes. Whether you're a local or a traveler, experiencing a show at this venue promises an enriching glimpse into the performing arts while allowing you to appreciate the architectural beauty that surrounds it.
+The Dresdner FriedrichstaTT Palast stands as a prominent cultural venue in the heart of Dresden, Germany. This theatre building is not only a key component of the city's artistic landscape but also a reflection of Dresden's rich cultural heritage. Situated at coordinates 51.05429, 13.72365, the Palast draws visitors with its vibrant programming, which includes a variety of performances that cater to diverse tastes. Whether you're a local or a traveler, experiencing a show at this venue promises an enriching glimpse into the performing arts while allowing you to appreciate the architectural beauty that surrounds it.
 
 Dresden, known for its baroque architecture and historical significance, serves as an ideal backdrop for the FriedrichstaTT Palast. The city itself has undergone considerable transformation over the centuries, and this theatre building plays a vital role in its contemporary cultural scene. Engaging with the arts in this renowned venue offers a unique opportunity to connect with the local community and witness the dynamic expressions of creativity that flourish here.
 
@@ -94,7 +94,7 @@ When preparing for your visit to the Dresdner FriedrichstaTT Palast, keep the fo
 A typical visit to the Dresdner FriedrichstaTT Palast may take around 2-3 hours, including time for pre-show activities and the performance itself.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check with the venue for any restrictions, especially during performances.
+Photography policies can vary. It's best to check with the venue for any restrictions, especially during performances.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

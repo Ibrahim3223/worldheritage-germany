@@ -90,7 +90,7 @@ When planning your visit to Alter Elbpark, here are some practical consideration
 A visit can range from one hour to half a day, depending on your interests and activities planned.
 
 ### Is photography allowed?
-Yes, photography is allowed and encouraged, especially to capture the park’s natural beauty.
+Yes, photography is allowed and encouraged, especially to capture the park's natural beauty.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours available for Alter Elbpark. Visitors can explore at their own leisure.
@@ -105,7 +105,7 @@ Alter Elbpark is designed to be accessible, with pathways suitable for wheelchai
 As of now, entrance to the park is free. Always check the official website for any updates regarding events that may require tickets.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available, but it’s advisable to check in advance. Food options may be limited; consider bringing your own refreshments.
+Restroom facilities may be available, but it's advisable to check in advance. Food options may be limited; consider bringing your own refreshments.
 
 ### What should I wear?
-Dress comfortably and appropriately for the weather. Comfortable shoes are recommended for walking on the park’s paths.
+Dress comfortably and appropriately for the weather. Comfortable shoes are recommended for walking on the park's paths.

@@ -106,7 +106,7 @@ Check the official website for details regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
 
-Restroom facilities may be available nearby, but it’s best to verify with the official site for specific amenities.
+Restroom facilities may be available nearby, but it's best to verify with the official site for specific amenities.
 
 ### What should I wear?
 

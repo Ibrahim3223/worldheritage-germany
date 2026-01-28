@@ -60,7 +60,7 @@ Check the official website for hours of operation and any potential fees that ma
 
 While Feerner Moor is a destination in its own right, several nearby attractions enhance the overall experience of the region:
 
-1. **Dollern**: This charming village offers a glimpse into local life and culture, with traditional architecture and friendly residents. It’s a great place to explore after visiting the reserve.
+1. **Dollern**: This charming village offers a glimpse into local life and culture, with traditional architecture and friendly residents. It's a great place to explore after visiting the reserve.
 
 2. **Niederelbe Museum**: Located in nearby Buxtehude, this museum showcases the cultural history of the Elbe region, providing further context to the natural environment found in Feerner Moor.
 
@@ -74,7 +74,7 @@ While Feerner Moor is a destination in its own right, several nearby attractions
 
 To maximize your experience at Feerner Moor, consider the following insider tips:
 
-- **Photography**: The best lighting for photography often occurs early in the morning or during the golden hour. Bring a camera with a zoom lens for capturing distant wildlife, and remember to respect the reserve’s regulations regarding wildlife photography.
+- **Photography**: The best lighting for photography often occurs early in the morning or during the golden hour. Bring a camera with a zoom lens for capturing distant wildlife, and remember to respect the reserve's regulations regarding wildlife photography.
 
 - **Crowd Avoidance**: Visiting during weekdays or off-peak seasons may provide a more solitary experience. Early mornings can also be less crowded, allowing for a more peaceful exploration of the reserve.
 

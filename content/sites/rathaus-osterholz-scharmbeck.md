@@ -48,7 +48,7 @@ In addition to its functional aspects, the Rathaus may also feature decorative e
 
 ## Visiting Information
 
-Visiting Rathaus Osterholz-Scharmbeck offers an opportunity to engage with the local community and experience the workings of municipal governance. For those planning a visit, it’s advisable to check the official website for current information regarding opening hours and any potential fees for entry.
+Visiting Rathaus Osterholz-Scharmbeck offers an opportunity to engage with the local community and experience the workings of municipal governance. For those planning a visit, it's advisable to check the official website for current information regarding opening hours and any potential fees for entry.
 
 Reaching the Rathaus is straightforward, with various transportation options available. Visitors can utilize public transport, walk, or drive to this central location in Osterholz-Scharmbeck. Time spent at the Rathaus can vary based on individual interests, but typically a visit might take around one to two hours. This allows ample time to explore the building, engage with any available informational resources, and perhaps participate in community activities if they coincide with your visit.
 
@@ -105,7 +105,7 @@ For specific accessibility information, check the official website or contact th
 Check the official website for details regarding ticket purchasing options, if applicable.
 
 ### Are there restrooms and cafes?
-Public facilities are usually available, but it’s advisable to confirm their locations upon arrival.
+Public facilities are usually available, but it's advisable to confirm their locations upon arrival.
 
 ### What should I wear?
 Dress comfortably and seasonally, especially if you plan to explore nearby attractions in addition to the Rathaus.

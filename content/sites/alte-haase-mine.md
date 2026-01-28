@@ -3,7 +3,7 @@ title: "Alte Haase mine"
 site_name: "Alte Haase mine"
 date: 2026-01-26
 draft: false
-description: "The Alte Haase mine, located in the picturesque region of Sprockhövel, Germany, is a significant site reflecting the country’s historical relationship with..."
+description: "The Alte Haase mine, located in the picturesque region of Sprockhövel, Germany, is a significant site reflecting the country's historical relationship with..."
 region: "Lower Saxony"
 country: "Germany"
 heritage_type: "Mine"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Alte Haase mine, located in the picturesque region of Sprockhövel, Germany, is a significant site reflecting the country’s historical relationship with mining and industrial development. This mine holds a unique place in Germany's industrial narrative, offering insights into the mining techniques and societal impacts that shaped the region. As industrial heritage becomes increasingly appreciated, the Alte Haase mine stands as a poignant reminder of the labor and community that once thrived in its depths.
+The Alte Haase mine, located in the picturesque region of Sprockhövel, Germany, is a significant site reflecting the country's historical relationship with mining and industrial development. This mine holds a unique place in Germany's industrial narrative, offering insights into the mining techniques and societal impacts that shaped the region. As industrial heritage becomes increasingly appreciated, the Alte Haase mine stands as a poignant reminder of the labor and community that once thrived in its depths.
 
 Sprockhövel, situated in North Rhine-Westphalia, is characterized by its rich resources and industrial history. The Alte Haase mine is part of this legacy, representing not only the mining activities but also the cultural and economic influences they had on local communities. Visitors to the site can explore the remnants of this once-thriving industry, gaining a deeper understanding of the challenges and advancements of the era.
 
@@ -48,7 +48,7 @@ Visitors may observe remnants of the machinery once used for extraction and proc
 
 Beyond the machinery and buildings, the mine's landscape itself tells a story of industrial activity. Evidence of the environmental changes brought about by mining operations can be seen in the surrounding area, creating a tangible connection between the site and its historical significance.
 
-As you walk through the site, consider the labor that went into every aspect of the mine’s operation and how it shaped the lives of those who worked there. The Alte Haase mine stands not only as a collection of structures but also as a monument to the ingenuity and resilience of the mining community.
+As you walk through the site, consider the labor that went into every aspect of the mine's operation and how it shaped the lives of those who worked there. The Alte Haase mine stands not only as a collection of structures but also as a monument to the ingenuity and resilience of the mining community.
 
 ## Visiting Information
 

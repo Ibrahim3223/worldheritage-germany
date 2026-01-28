@@ -78,7 +78,7 @@ Additionally, taking a moment to sit quietly and reflect can deepen your appreci
 
 ## Practical Information
 
-When planning your visit to the Fürstliches Mausoleum, it’s advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may encounter various surfaces during your exploration. A water bottle can be helpful, especially if you plan to spend time in the nearby parks or attractions.
+When planning your visit to the Fürstliches Mausoleum, it's advisable to bring a few essentials. Comfortable walking shoes are recommended, as you may encounter various surfaces during your exploration. A water bottle can be helpful, especially if you plan to spend time in the nearby parks or attractions.
 
 Seasonal considerations are also important; check the weather forecast in advance, as conditions can vary significantly. Layered clothing may be a good choice, allowing you to adjust to changing temperatures throughout your visit.
 
@@ -90,7 +90,7 @@ Ensure you check the official website for any specific guidelines or requirement
 A visit typically requires a few hours, allowing sufficient time to explore the mausoleum and reflect on its significance.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any restrictions upon arrival.
+Photography policies may vary; it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the history and architecture of the mausoleum.
@@ -99,7 +99,7 @@ Guided tours may be available, offering deeper insights into the history and arc
 Early mornings or weekdays are often ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for specific information.
+Accessibility features may be available, but it's advisable to check the official website for specific information.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; check the official website for details on online availability.

@@ -74,7 +74,7 @@ Photography is generally encouraged, but be mindful of any restrictions within t
 
 ## Practical Information
 
-When planning your visit to St. Maximin's Abbey, it’s essential to bring comfortable walking shoes, as the site may involve some walking on uneven surfaces. Consider carrying water and light snacks, especially if you plan to spend a few hours exploring.
+When planning your visit to St. Maximin's Abbey, it's essential to bring comfortable walking shoes, as the site may involve some walking on uneven surfaces. Consider carrying water and light snacks, especially if you plan to spend a few hours exploring.
 
 Seasonal considerations are also important; summers can be warm, while winters may bring cold temperatures. Dress in layers to adapt to changing weather conditions, and be prepared for potential rain if visiting during the wetter months.
 
@@ -87,7 +87,7 @@ Most visitors find that spending one to two hours at St. Maximin's Abbey is suff
 Photography is generally permitted, but be respectful of any areas where it may be restricted, such as within the church.
 
 ### Are there guided tours?
-Check the official website for information about guided tours, as they may be available to enhance your understanding of the site’s history and significance.
+Check the official website for information about guided tours, as they may be available to enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and autumn months when the weather is mild, and the gardens are particularly beautiful.

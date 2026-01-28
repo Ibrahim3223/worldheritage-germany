@@ -60,7 +60,7 @@ While exploring St Ludwig's Church, consider visiting these nearby attractions t
 
 1. **Celle Castle**: A short distance away, this former ducal residence showcases stunning Renaissance architecture and beautiful gardens.
 
-2. **Old Town Celle**: Wander through the picturesque streets filled with half-timbered houses, shops, and cafés that reflect the city’s historical charm.
+2. **Old Town Celle**: Wander through the picturesque streets filled with half-timbered houses, shops, and cafés that reflect the city's historical charm.
 
 3. **Bomann Museum**: Located in the heart of Celle, this museum offers insights into the cultural and historical development of the region through various exhibitions.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider planning your visit on a weekday rather than the weeke
 
 ## Practical Information
 
-When visiting St Ludwig's Church, it’s advisable to bring along a camera if photography is permitted, a water bottle for hydration, and comfortable walking shoes to explore the nearby attractions. Depending on the season, consider dressing in layers, as the interior may be cooler than expected, especially during winter months.
+When visiting St Ludwig's Church, it's advisable to bring along a camera if photography is permitted, a water bottle for hydration, and comfortable walking shoes to explore the nearby attractions. Depending on the season, consider dressing in layers, as the interior may be cooler than expected, especially during winter months.
 
 For those interested in participating in services or community events, check the official website for any seasonal schedules or special occasions that might enhance your visit.
 

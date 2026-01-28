@@ -54,7 +54,7 @@ The best times to visit are often during weekdays when the synagogue is less cro
 
 ## Nearby Attractions
 
-While visiting the Roonstrasse Synagogue, consider exploring other nearby attractions that complement your understanding of Cologne’s rich history. 
+While visiting the Roonstrasse Synagogue, consider exploring other nearby attractions that complement your understanding of Cologne's rich history. 
 
 1. **Cologne Cathedral**: A UNESCO World Heritage site, this stunning Gothic cathedral is one of the most famous landmarks in Germany, known for its impressive architecture and historical significance.
 
@@ -62,7 +62,7 @@ While visiting the Roonstrasse Synagogue, consider exploring other nearby attrac
 
 3. **Cologne's Old Town (Altstadt)**: This historic area features picturesque streets, charming squares, and traditional German architecture, perfect for a leisurely stroll and exploration of local cafes and shops.
 
-4. **Roman-Germanic Museum**: Located near the cathedral, this museum highlights the Roman history of the region, showcasing artifacts from Cologne’s ancient past.
+4. **Roman-Germanic Museum**: Located near the cathedral, this museum highlights the Roman history of the region, showcasing artifacts from Cologne's ancient past.
 
 5. **Rheinauhafen**: This revitalized harbor district offers a modern waterfront experience with restaurants and galleries, providing a contemporary perspective on Cologne's development.
 

@@ -34,7 +34,7 @@ As you approach St. Vitus, you will be drawn in by its architectural beauty and 
 
 ## History and Significance
 
-The history of St. Vitus is intertwined with the broader narrative of Olfen, a town that has been shaped by its agricultural roots and religious traditions. The church serves as a symbol of the community’s resilience and faith, having likely been a center for worship and gathering since its establishment. It reflects the architectural styles and cultural influences that have permeated the region over the centuries.
+The history of St. Vitus is intertwined with the broader narrative of Olfen, a town that has been shaped by its agricultural roots and religious traditions. The church serves as a symbol of the community's resilience and faith, having likely been a center for worship and gathering since its establishment. It reflects the architectural styles and cultural influences that have permeated the region over the centuries.
 
 The church is dedicated to St. Vitus, a Christian martyr who is venerated in various parts of Europe. His legacy is particularly significant in the context of medieval Christianity, as he is often associated with healing and protection against ailments. The choice of St. Vitus as the church's patron saint indicates the community's desire to seek his intercession and guidance.
 
@@ -68,7 +68,7 @@ While visiting St. Vitus, consider exploring some of the nearby attractions that
 
 1. **Olfen Town Center**: A short walk from the church, the town center offers a glimpse into local life, with shops, cafes, and markets that showcase regional products.
 
-2. **The Museum of Olfen**: This local museum presents exhibitions related to the history and culture of Olfen, providing insights into the town’s past and its evolution over the years.
+2. **The Museum of Olfen**: This local museum presents exhibitions related to the history and culture of Olfen, providing insights into the town's past and its evolution over the years.
 
 3. **Local Parks**: The surrounding area may feature parks and green spaces, ideal for a leisurely stroll or a picnic after visiting the church.
 

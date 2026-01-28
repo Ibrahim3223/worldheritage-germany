@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Imperial Palace Ingelheim stands not only as a museum but also as a significant marker of Germany's rich historical narrative. Situated in Ingelheim am Rhein, this site originated as an important imperial residence in the latter half of the 8th century, capturing the essence of a bygone era. The palace’s historical importance extends beyond its walls, symbolizing the power dynamics and cultural developments of the Carolingian Empire. Visitors to the site can expect a deep dive into the medieval past, exploring the architectural remnants and artifacts that speak volumes of the lives once lived here. The Imperial Palace Ingelheim offers an enriching experience, inviting history enthusiasts, families, and casual visitors alike to engage with the legacy of a significant period in European history.
+The Imperial Palace Ingelheim stands not only as a museum but also as a significant marker of Germany's rich historical narrative. Situated in Ingelheim am Rhein, this site originated as an important imperial residence in the latter half of the 8th century, capturing the essence of a bygone era. The palace's historical importance extends beyond its walls, symbolizing the power dynamics and cultural developments of the Carolingian Empire. Visitors to the site can expect a deep dive into the medieval past, exploring the architectural remnants and artifacts that speak volumes of the lives once lived here. The Imperial Palace Ingelheim offers an enriching experience, inviting history enthusiasts, families, and casual visitors alike to engage with the legacy of a significant period in European history.
 
 ## History and Significance
 
 The Imperial Palace Ingelheim was erected during a time when the Carolingian Empire was consolidating power in Europe. Although specific dates for certain events may be elusive, the palace served as a royal residence for Charlemagne, one of the most influential figures in medieval Europe. This site was not merely a residence; it functioned as a center for administration and governance, reflecting the political and economic clout of the empire.
 
-The significance of the Imperial Palace extends beyond its function as a royal residence. It played a crucial role in the cultural and political life of the period, serving as a venue for important assemblies and gatherings. The palace’s design and architectural elements were indicative of the Carolingian Renaissance, a revival of art and culture under Charlemagne's rule that sought to unify the empire through shared heritage and ideals.
+The significance of the Imperial Palace extends beyond its function as a royal residence. It played a crucial role in the cultural and political life of the period, serving as a venue for important assemblies and gatherings. The palace's design and architectural elements were indicative of the Carolingian Renaissance, a revival of art and culture under Charlemagne's rule that sought to unify the empire through shared heritage and ideals.
 
 The site has been recognized for its cultural importance, showcasing the architectural advancement of the time. As one of the few surviving imperial palaces from this era, Ingelheim serves as an essential reference point for historians and archaeologists alike. The remnants of its structures and artifacts provide insight into medieval life, governance, and societal structure, making it a vital piece of Germany's cultural heritage.
 
@@ -92,7 +92,7 @@ Check the official website for information about guided tours, which can enrich 
 Spring and fall are ideal for visiting due to pleasant weather, but check for special events that might occur during the year.
 
 ### Is it wheelchair accessible?
-While parts of the site may be accessible, it’s best to check the official website for specific accessibility options and accommodations.
+While parts of the site may be accessible, it's best to check the official website for specific accessibility options and accommodations.
 
 ### Can I buy tickets online?
 Check the official website for ticket purchasing options, as this can streamline your entry on the day of your visit.

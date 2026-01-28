@@ -28,7 +28,7 @@ image_srcset:
 
 Kunsthalle Würth is not merely an art museum; it is a vibrant cultural institution located in the heart of Schwäbisch Hall, Germany. Renowned for its diverse and compelling exhibitions, the museum serves as a focal point for art enthusiasts and casual visitors alike. It showcases a wide range of contemporary and modern art, making it an essential destination for anyone wishing to explore the intersection of culture and creativity in this historic region.
 
-Schwäbisch Hall itself has a rich history, known for its picturesque old town and well-preserved medieval architecture. The Kunsthalle adds to the city’s artistic legacy, providing a platform for both established and emerging artists. The museum acts as a bridge between local heritage and contemporary artistic expression, fostering an appreciation for art in various forms. Visitors can expect not only to view art but also to engage with it through educational programs and events.
+Schwäbisch Hall itself has a rich history, known for its picturesque old town and well-preserved medieval architecture. The Kunsthalle adds to the city's artistic legacy, providing a platform for both established and emerging artists. The museum acts as a bridge between local heritage and contemporary artistic expression, fostering an appreciation for art in various forms. Visitors can expect not only to view art but also to engage with it through educational programs and events.
 
 As you step into Kunsthalle Würth, prepare to immerse yourself in a world where creativity flourishes, and art transcends boundaries. The museum's commitment to excellence and innovation promises an enriching experience that resonates long after your visit.
 
@@ -46,7 +46,7 @@ The architectural design of Kunsthalle Würth is as engaging as the art it house
 
 Inside, the layout is spacious and thoughtfully arranged, providing ample room for both permanent and temporary exhibitions. The galleries are designed to accommodate a variety of art forms, from paintings and sculptures to multimedia installations. The flow from one exhibit to another encourages exploration and engagement, making it easy for visitors to lose themselves in the artistic offerings.
 
-Noteworthy features of the museum include dedicated spaces for workshops and educational programs, which highlight its commitment to interactive learning. The museum’s design reflects a blend of modern architectural principles while respecting the historical essence of its location, making it a fitting addition to Schwäbisch Hall's cultural milieu.
+Noteworthy features of the museum include dedicated spaces for workshops and educational programs, which highlight its commitment to interactive learning. The museum's design reflects a blend of modern architectural principles while respecting the historical essence of its location, making it a fitting addition to Schwäbisch Hall's cultural milieu.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Kunsthalle Würth is situated in a region rich with cultural and historical attr
 
 1. **Historic Town of Schwäbisch Hall**: Wander through the charming streets lined with half-timbered houses and visit landmarks such as the St. Michael's Church and the old market square.
 
-2. **The Hällisch-Fränkisches Museum**: This local museum showcases the art and history of the region, offering insights into Schwäbisch Hall’s past and cultural heritage.
+2. **The Hällisch-Fränkisches Museum**: This local museum showcases the art and history of the region, offering insights into Schwäbisch Hall's past and cultural heritage.
 
 3. **The Kocher River**: Enjoy a peaceful walk or bike ride along the scenic banks of the Kocher, a lovely river that runs through the town, providing picturesque views and a relaxing atmosphere.
 
@@ -96,7 +96,7 @@ When preparing for your visit to Kunsthalle Würth, keep these practical conside
 A visit typically lasts around two to three hours, allowing time to explore the exhibitions and engage with any available programming.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s best to check for signs or consult with museum staff regarding specific areas.
+Photography policies may vary by exhibit. It's best to check for signs or consult with museum staff regarding specific areas.
 
 ### Are there guided tours?
 Yes, Kunsthalle Würth often offers guided tours. Check the official website for current availability and scheduling.
@@ -105,7 +105,7 @@ Yes, Kunsthalle Würth often offers guided tours. Check the official website for
 Weekday mornings are generally less crowded, providing a more intimate experience with the art.
 
 ### Is it wheelchair accessible?
-Kunsthalle Würth aims to be accessible. However, it’s advisable to check the official website for specific accessibility features.
+Kunsthalle Würth aims to be accessible. However, it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online. Check the official website for the most up-to-date information.

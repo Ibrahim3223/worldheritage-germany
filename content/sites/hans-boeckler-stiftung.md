@@ -50,9 +50,9 @@ As a center focused on education and social issues, the foundation's interior li
 
 Travelers interested in visiting the Hans-Böckler-Stiftung should plan accordingly to make the most of their experience. The foundation is located in Düsseldorf, accessible via various modes of transportation, including public transit. It is advisable to check the official website for current information regarding opening hours, as they may vary depending on events and public engagements.
 
-Expect to spend at least a couple of hours at the foundation to fully appreciate its offerings. Visitors can anticipate a range of activities, including exhibitions, lectures, and potential discussions on labor issues. The best times to visit may align with scheduled events or exhibitions, so checking the foundation’s calendar online is recommended.
+Expect to spend at least a couple of hours at the foundation to fully appreciate its offerings. Visitors can anticipate a range of activities, including exhibitions, lectures, and potential discussions on labor issues. The best times to visit may align with scheduled events or exhibitions, so checking the foundation's calendar online is recommended.
 
-For those planning a visit, it’s important to consider any seasonal variations that might affect accessibility or the types of events held. Engaging with the foundation during special events may provide deeper insights into its work and allow for interaction with experts in the field.
+For those planning a visit, it's important to consider any seasonal variations that might affect accessibility or the types of events held. Engaging with the foundation during special events may provide deeper insights into its work and allow for interaction with experts in the field.
 
 ## Nearby Attractions
 
@@ -107,7 +107,7 @@ Accessibility information should be verified through the official website or by 
 Ticket purchasing options may vary. Check the official website for the most current information regarding ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and potential cafés may be available on-site. It is wise to check the foundation’s amenities before your visit.
+Facilities such as restrooms and potential cafés may be available on-site. It is wise to check the foundation's amenities before your visit.
 
 ### What should I wear?
 Dress comfortably, keeping in mind the nature of your visit. If attending an event, smart casual attire may be appropriate.

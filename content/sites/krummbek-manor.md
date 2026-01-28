@@ -40,7 +40,7 @@ Manor houses like Krummbek often served multiple purposes, acting as both privat
 
 The architectural style of Krummbek Manor reflects the aesthetic sensibilities of its time, showcasing the craftsmanship and design principles that were prevalent in manor houses throughout Germany. This manor not only served the families who resided within its walls but also played a role in the local economy and community life, making it an integral part of the Lasbek narrative.
 
-In contemporary times, Krummbek Manor continues to be of cultural significance, attracting visitors who wish to learn about its history and the role it has played in the development of the area. The manor’s presence serves as a reminder of the importance of preserving historical sites, allowing future generations to connect with their heritage.
+In contemporary times, Krummbek Manor continues to be of cultural significance, attracting visitors who wish to learn about its history and the role it has played in the development of the area. The manor's presence serves as a reminder of the importance of preserving historical sites, allowing future generations to connect with their heritage.
 
 ## Architecture and Features
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Gertelbach-Wasserfälle, located in the picturesque Bühlertal region of Germany, is a captivating waterfall that draws visitors with its enchanting natural beauty and serene ambiance. This stunning cascade tumbles down rocky terrain, creating a tranquil yet vibrant atmosphere that beckons nature lovers and outdoor enthusiasts alike. The Gertelbach-Wasserfälle is not only a remarkable natural feature but also an integral part of the local ecosystem, supporting diverse flora and fauna. Spanning various elevations, the waterfall offers a unique opportunity to explore the interplay between water and landscape in a tranquil forest setting.
 
-The waterfall provides a peaceful escape from urban life, allowing visitors to immerse themselves in the soothing sounds of flowing water and rustling leaves. It serves as a reminder of nature’s beauty and resilience. Whether you seek a relaxing walk along its banks, a vigorous hike through the surrounding trails, or simply a moment of reflection in a tranquil environment, Gertelbach-Wasserfälle promises an enriching experience in the heart of the Black Forest.
+The waterfall provides a peaceful escape from urban life, allowing visitors to immerse themselves in the soothing sounds of flowing water and rustling leaves. It serves as a reminder of nature's beauty and resilience. Whether you seek a relaxing walk along its banks, a vigorous hike through the surrounding trails, or simply a moment of reflection in a tranquil environment, Gertelbach-Wasserfälle promises an enriching experience in the heart of the Black Forest.
 
 ## History and Significance
 
@@ -103,7 +103,7 @@ While specific guided tours may not be available for the waterfall itself, local
 The best time to visit the Gertelbach-Wasserfälle is during spring and summer when the water flow is strong, and the surrounding vegetation is lush and vibrant.
 
 ### Is it wheelchair accessible?
-The trails leading to the waterfall may not be fully accessible for wheelchairs. It’s advisable to check specific trail conditions if accessibility is a concern.
+The trails leading to the waterfall may not be fully accessible for wheelchairs. It's advisable to check specific trail conditions if accessibility is a concern.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding any potential entry fees or ticket purchasing options.

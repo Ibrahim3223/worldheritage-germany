@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The City Museum of Münster is a vibrant cultural institution located in the heart of Münster, Germany. This museum serves as a vital repository of local history and culture, offering visitors an engaging exploration of the city’s past, present, and future. Known for its diverse collection and thought-provoking exhibitions, the museum captures the essence of Münster’s evolution through the ages. Whether you are a history enthusiast, an art lover, or simply curious about the local culture, the City Museum invites you to delve into its fascinating offerings.
+The City Museum of Münster is a vibrant cultural institution located in the heart of Münster, Germany. This museum serves as a vital repository of local history and culture, offering visitors an engaging exploration of the city's past, present, and future. Known for its diverse collection and thought-provoking exhibitions, the museum captures the essence of Münster's evolution through the ages. Whether you are a history enthusiast, an art lover, or simply curious about the local culture, the City Museum invites you to delve into its fascinating offerings.
 
-Situated in a region renowned for its rich historical tapestry, the museum plays a crucial role in preserving the stories that have shaped Münster. The carefully curated exhibits range from medieval artifacts to contemporary art, reflecting the city’s dynamic character. As you wander through its halls, you will discover not only the artistic expressions of past generations but also insights into the social and political developments that have influenced the area.
+Situated in a region renowned for its rich historical tapestry, the museum plays a crucial role in preserving the stories that have shaped Münster. The carefully curated exhibits range from medieval artifacts to contemporary art, reflecting the city's dynamic character. As you wander through its halls, you will discover not only the artistic expressions of past generations but also insights into the social and political developments that have influenced the area.
 
 Visiting the City Museum of Münster provides an opportunity to engage with the cultural narratives that define the city. It is a place where history meets the present, making it a must-see destination for anyone looking to understand the multifaceted identity of Münster.
 
 ## History and Significance
 
-The City Museum of Münster holds a significant place in the cultural landscape of the city. Established with the mission of documenting and interpreting the history of Münster, the museum acts as a guardian of the city's heritage. Though specific founding details are not documented, its establishment represents a collective effort to bring forth the stories of Münster’s people and events.
+The City Museum of Münster holds a significant place in the cultural landscape of the city. Established with the mission of documenting and interpreting the history of Münster, the museum acts as a guardian of the city's heritage. Though specific founding details are not documented, its establishment represents a collective effort to bring forth the stories of Münster's people and events.
 
 The museum's collections reflect a broad spectrum of historical periods, highlighting key moments in Münster's history, including its role during the Reformation, the Thirty Years' War, and its reconstruction after World War II. This focus on local history not only serves to educate residents but also to engage visitors with the unique narrative of the region.
 

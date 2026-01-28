@@ -60,7 +60,7 @@ Facilities around the lake cater to the needs of visitors, with amenities such a
 
 3. **Tegelberg Mountain**: Located nearby, this mountain offers hiking trails and panoramic views of the Bavarian Alps, making it a popular destination for those looking to explore the highlands.
 
-4. **Hohenschwangau Castle**: Just a stone’s throw from Neuschwanstein, this castle provides a glimpse into the royal history of Bavaria and is surrounded by beautiful gardens and walking paths.
+4. **Hohenschwangau Castle**: Just a stone's throw from Neuschwanstein, this castle provides a glimpse into the royal history of Bavaria and is surrounded by beautiful gardens and walking paths.
 
 5. **Allgäu Skyline Park**: For families, this amusement park features rides and attractions suitable for all ages, making it a fun addition to any visit to the region.
 

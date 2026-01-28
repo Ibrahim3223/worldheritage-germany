@@ -32,7 +32,7 @@ As you approach the manor, its striking façade and well-maintained grounds invi
 
 ## History and Significance
 
-Herrenhaus Buchholz is more than just a manor house; it is a reflection of the cultural landscape of its time. While specific details regarding its origins may be scarce, the structure has played a significant role in the community of Alfter. Manors like Buchholz were often centers of agricultural activities and social gatherings, serving as a hub for the local elite. These houses typically housed not only the families of landowners but also the workers and craftsmen who contributed to the estate’s functioning.
+Herrenhaus Buchholz is more than just a manor house; it is a reflection of the cultural landscape of its time. While specific details regarding its origins may be scarce, the structure has played a significant role in the community of Alfter. Manors like Buchholz were often centers of agricultural activities and social gatherings, serving as a hub for the local elite. These houses typically housed not only the families of landowners but also the workers and craftsmen who contributed to the estate's functioning.
 
 The significance of Herrenhaus Buchholz extends beyond its walls. It stands as a representation of the evolution of manorial estates in Germany, showcasing how such residences adapted over the centuries to changing social and economic conditions. As industrialization began to take hold in Germany, many manor houses faced decline or repurposing, making the preservation of Herrenhaus Buchholz particularly noteworthy. The site has become a symbol of the region's commitment to preserving its heritage, contributing to the cultural identity of Alfter.
 

@@ -38,7 +38,7 @@ The Aueniederung und Nebentäler has long been recognized for its ecological imp
 
 The cultural significance of Aueniederung und Nebentäler extends beyond its natural features; it represents a concerted effort to preserve the environment in the face of urbanization and agricultural expansion. The reserve plays an essential role in educating the public about the importance of biodiversity and the need for conservation. Through various initiatives, it fosters a greater awareness of the ecological challenges facing such habitats.
 
-Additionally, Aueniederung und Nebentäler is part of a larger network of protected areas in Lower Saxony, contributing to regional conservation efforts. This network aims to maintain the ecological integrity of these landscapes while allowing for sustainable recreational activities. The interplay of human activity and natural preservation highlights the ongoing dialogue surrounding environmental stewardship in Germany, making the reserve a vital piece of the country’s ecological narrative.
+Additionally, Aueniederung und Nebentäler is part of a larger network of protected areas in Lower Saxony, contributing to regional conservation efforts. This network aims to maintain the ecological integrity of these landscapes while allowing for sustainable recreational activities. The interplay of human activity and natural preservation highlights the ongoing dialogue surrounding environmental stewardship in Germany, making the reserve a vital piece of the country's ecological narrative.
 
 ## Architecture and Features
 

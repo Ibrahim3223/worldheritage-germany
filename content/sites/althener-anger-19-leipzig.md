@@ -70,7 +70,7 @@ While visiting Althener Anger 19, there are several nearby attractions worth exp
 
 To enhance your visit to Althener Anger 19, consider these insider tips:
 
-- **Photography**: While photography policies may vary, it’s advisable to check with museum staff regarding photography permissions. Capturing the architectural details can be rewarding, but ensure that you respect any restrictions.
+- **Photography**: While photography policies may vary, it's advisable to check with museum staff regarding photography permissions. Capturing the architectural details can be rewarding, but ensure that you respect any restrictions.
 
 - **Crowd Avoidance**: Visiting during off-peak hours, such as early mornings or late afternoons on weekdays, can provide a quieter experience, allowing for a more personal exploration of the exhibits.
 
@@ -84,7 +84,7 @@ When planning your visit to Althener Anger 19, consider bringing a few essential
 
 - **Weather Considerations**: Depending on the season, check the weather forecast and dress accordingly, as you may want to enjoy the surrounding parks or outdoor spaces.
 
-It’s always a good idea to check the official website for any seasonal events or special exhibitions that may enhance your visit.
+It's always a good idea to check the official website for any seasonal events or special exhibitions that may enhance your visit.
 
 ## Frequently Asked Questions
 

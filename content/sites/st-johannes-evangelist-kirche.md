@@ -56,7 +56,7 @@ Before planning your visit, it is advisable to check the official website for cu
 
 The best times to visit are often during weekdays when the church may be less crowded, providing a quieter atmosphere for contemplation. However, attending a service or special event can also offer a unique perspective on the church's role within the community.
 
-Visitors can expect a warm welcome upon arrival, with staff or volunteers often available to provide information about the church’s history and significance. The atmosphere within is typically serene, allowing guests to appreciate the beauty of the architecture and the spiritual ambiance.
+Visitors can expect a warm welcome upon arrival, with staff or volunteers often available to provide information about the church's history and significance. The atmosphere within is typically serene, allowing guests to appreciate the beauty of the architecture and the spiritual ambiance.
 
 ## Nearby Attractions
 
@@ -82,7 +82,7 @@ For those planning a visit to St. Johannes-Evangelist-Kirche, here are some insi
 
 ## Practical Information
 
-When visiting St. Johannes-Evangelist-Kirche, it’s helpful to keep a few practical considerations in mind:
+When visiting St. Johannes-Evangelist-Kirche, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may spend time exploring the church and nearby attractions. A camera for capturing the architecture is also a good idea.
 
@@ -96,7 +96,7 @@ When visiting St. Johannes-Evangelist-Kirche, it’s helpful to keep a few pract
 A visit typically takes about one to two hours, depending on your interest in the church's history and architecture.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas, but it’s advisable to check for any restrictions, particularly during services.
+Photography may be permitted in certain areas, but it's advisable to check for any restrictions, particularly during services.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which can enhance your understanding of the church's history and architecture.

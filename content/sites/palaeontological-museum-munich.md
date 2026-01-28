@@ -98,7 +98,7 @@ Check the official website for any additional information on facilities, such as
 A visit typically takes around two to three hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Check the museum’s policy on photography, as it may vary by exhibit.
+Check the museum's policy on photography, as it may vary by exhibit.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the collection. Check the official website for details.
@@ -107,7 +107,7 @@ Guided tours may be available, providing deeper insights into the collection. Ch
 Weekdays, especially mornings, tend to be less crowded, making for a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-The museum is generally designed to be accessible, but it’s best to verify specific accessibility features on the official website.
+The museum is generally designed to be accessible, but it's best to verify specific accessibility features on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, including online availability.

@@ -82,7 +82,7 @@ Seasonal considerations are important as well. If visiting in colder months, dre
 A visit to Dorfkirche Neuenklitsche typically takes about 1-2 hours, allowing for exploration of both the interior and exterior.
 
 ### Is photography allowed?
-Photography policies can vary, especially during services. It’s best to check for any specific restrictions upon arrival.
+Photography policies can vary, especially during services. It's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Information regarding guided tours may not be readily available. Check the official website for details or inquire locally upon your visit.

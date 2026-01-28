@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview 
 
-In the charming district of Südstadt-Bult in Hannover, Germany, the Struckmeier-Brunnen stands as a noteworthy example of urban infrastructure that marries functionality with aesthetic appeal. A listed fountain, this site draws both locals and visitors alike, serving as a gathering point while simultaneously enhancing the neighborhood's landscape. The fountain is not merely a source of water; it represents a piece of the city’s cultural tapestry and historical narrative. As you plan your visit, expect to encounter an iconic structure that has played a significant role in the community, offering a glimpse into Hannover's urban evolution.
+In the charming district of Südstadt-Bult in Hannover, Germany, the Struckmeier-Brunnen stands as a noteworthy example of urban infrastructure that marries functionality with aesthetic appeal. A listed fountain, this site draws both locals and visitors alike, serving as a gathering point while simultaneously enhancing the neighborhood's landscape. The fountain is not merely a source of water; it represents a piece of the city's cultural tapestry and historical narrative. As you plan your visit, expect to encounter an iconic structure that has played a significant role in the community, offering a glimpse into Hannover's urban evolution.
 
-The Struckmeier-Brunnen is situated at coordinates 52.3658, 9.75586, making it easily accessible for those exploring the area. Whether you are a history enthusiast, a photography lover, or simply seeking a pleasant place to relax, this fountain offers a unique backdrop that is both inviting and reflective of the city’s heritage. 
+The Struckmeier-Brunnen is situated at coordinates 52.3658, 9.75586, making it easily accessible for those exploring the area. Whether you are a history enthusiast, a photography lover, or simply seeking a pleasant place to relax, this fountain offers a unique backdrop that is both inviting and reflective of the city's heritage. 
 
 ## History and Significance 
 
@@ -112,4 +112,4 @@ There are likely restrooms and cafes in the vicinity, especially in urban areas,
 ### What should I wear? 
 Dress comfortably based on the weather; suitable footwear is recommended for walking around the area. 
 
-With its combination of historical significance, architectural charm, and community importance, the Struckmeier-Brunnen is an essential stop for anyone exploring Hannover. Whether you are looking to relax, take photographs, or simply appreciate a piece of the city’s heritage, this fountain is sure to enhance your visit.
+With its combination of historical significance, architectural charm, and community importance, the Struckmeier-Brunnen is an essential stop for anyone exploring Hannover. Whether you are looking to relax, take photographs, or simply appreciate a piece of the city's heritage, this fountain is sure to enhance your visit.

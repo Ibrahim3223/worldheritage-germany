@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Mainz Cathedral, a prominent Catholic cathedral located in the heart of Mainz, Germany, is a remarkable architectural masterpiece that reflects the city’s historical and religious significance. As one of the city's most iconic landmarks, it serves as a vital point of reference for both locals and tourists. Mainz, situated on the banks of the Rhine River, has a rich history that intertwines with the legacy of this cathedral. With its striking Romanesque design and stunning twin towers, the cathedral is not just a place of worship but a testament to the artistic and cultural heritage of the region.
+The Mainz Cathedral, a prominent Catholic cathedral located in the heart of Mainz, Germany, is a remarkable architectural masterpiece that reflects the city's historical and religious significance. As one of the city's most iconic landmarks, it serves as a vital point of reference for both locals and tourists. Mainz, situated on the banks of the Rhine River, has a rich history that intertwines with the legacy of this cathedral. With its striking Romanesque design and stunning twin towers, the cathedral is not just a place of worship but a testament to the artistic and cultural heritage of the region.
 
 Constructed over several centuries, Mainz Cathedral encapsulates various historical periods and architectural styles, making it a fascinating subject for exploration. Visitors to the cathedral can expect to encounter intricate details that speak to the craftsmanship of the artisans who built it, alongside a serene atmosphere that invites contemplation. The significance of Mainz Cathedral extends beyond its architectural beauty; it is a center of Catholic faith and a landmark that has witnessed the evolution of the city and its people.
 
@@ -44,7 +44,7 @@ The artistic and architectural evolution of the cathedral is a testament to the 
 
 Mainz Cathedral is an architectural marvel that showcases a blend of styles, prominently Romanesque with Gothic influences. The structure is characterized by its impressive twin towers, which rise majestically above the surrounding cityscape. The red sandstone façade is adorned with intricate carvings and details that invite closer inspection. 
 
-One of the cathedral’s most striking features is its extensive use of arches and vaults, which create a sense of grandeur and spaciousness within the interior. The nave, lined with rows of columns, leads the eye towards the altar, which is often elaborately decorated. Various chapels located within the cathedral provide spaces for private reflection and prayer, each showcasing unique artistic elements.
+One of the cathedral's most striking features is its extensive use of arches and vaults, which create a sense of grandeur and spaciousness within the interior. The nave, lined with rows of columns, leads the eye towards the altar, which is often elaborately decorated. Various chapels located within the cathedral provide spaces for private reflection and prayer, each showcasing unique artistic elements.
 
 The stained glass windows of Mainz Cathedral are another highlight, allowing natural light to filter through in a spectrum of colors, enhancing the spiritual ambiance of the space. Many of these windows depict biblical scenes and saints, contributing to the narrative of faith that the cathedral embodies.
 
@@ -68,7 +68,7 @@ While Mainz Cathedral is a destination in itself, several nearby attractions enh
 
 3. **Gutenberg Museum**: Celebrating Johannes Gutenberg, the inventor of the printing press, this museum is dedicated to the history of printing and publishing, making it a must-visit for book lovers and history enthusiasts.
 
-4. **Old Town (Altstadt)**: The charming streets and squares of Mainz’s Old Town are filled with half-timbered houses, shops, and cafés, offering a delightful atmosphere for leisurely exploration.
+4. **Old Town (Altstadt)**: The charming streets and squares of Mainz's Old Town are filled with half-timbered houses, shops, and cafés, offering a delightful atmosphere for leisurely exploration.
 
 5. **Rhine River Promenade**: A lovely area for a stroll, the promenade along the Rhine offers picturesque views of the river and the city, making it a perfect spot for relaxation after visiting the cathedral.
 

@@ -71,7 +71,7 @@ Exploring the area around the tower can also yield unique perspectives and angle
 
 ## Practical Information
 
-When preparing for your visit to the Gißübelturm, it’s wise to bring essentials such as comfortable walking shoes, a water bottle, and a camera. Depending on the season, consider layering your clothing to accommodate changing weather conditions. 
+When preparing for your visit to the Gißübelturm, it's wise to bring essentials such as comfortable walking shoes, a water bottle, and a camera. Depending on the season, consider layering your clothing to accommodate changing weather conditions. 
 
 If visiting during the winter months, be prepared for colder temperatures and potentially snowy conditions, which may impact your experience. In contrast, summer visits may require sun protection and hydration, especially if you plan to explore the surrounding areas.
 

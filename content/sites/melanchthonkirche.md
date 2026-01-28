@@ -62,7 +62,7 @@ In addition to the church itself, visitors may find informational displays or gu
 
 While visiting Melanchthonkirche, take the opportunity to explore several nearby attractions that complement your experience in Hannover. Some notable sites include:
 
-1. **Hannover Zoo**: A short distance away, Hannover Zoo offers an engaging experience for families and wildlife enthusiasts. With diverse animal exhibits and beautiful landscaping, it’s a great place to spend a leisurely afternoon.
+1. **Hannover Zoo**: A short distance away, Hannover Zoo offers an engaging experience for families and wildlife enthusiasts. With diverse animal exhibits and beautiful landscaping, it's a great place to spend a leisurely afternoon.
 
 2. **Maschsee**: This picturesque lake provides a scenic backdrop for walking, cycling, or simply enjoying the outdoors. The park surrounding the lake is ideal for picnics and relaxation.
 
@@ -94,7 +94,7 @@ For further comfort, check local resources for nearby cafes or restaurants if yo
 A visit to Melanchthonkirche typically takes about an hour, allowing time to explore the church and appreciate its significance.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the official guidelines upon arrival.
+Photography policies can vary, so it's best to check the official guidelines upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may be available to enhance your understanding of the church's history and architecture.

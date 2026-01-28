@@ -28,9 +28,9 @@ image_srcset:
 
 The Deutsches Edelsteinmuseum, located in Idar-Oberstein, Germany, is a celebrated institution dedicated to the appreciation and study of gemstones and mineralogy. This museum is not just a visual delight; it offers a comprehensive exploration of the rich heritage associated with gemstones, particularly in the region renowned for its long-standing tradition in lapidary and jewelry craftsmanship. Visitors can expect an engaging experience that highlights the artistry and science behind gemstones, making it an essential stop for enthusiasts and casual visitors alike.
 
-Idar-Oberstein is uniquely positioned in the heart of Germany, renowned for its historical significance in the gemstone industry. This region’s legacy dates back several centuries, where the natural beauty of the surrounding landscape has continually inspired artisans and gem cutters. The Deutsches Edelsteinmuseum stands as a cornerstone of this cultural narrative, offering insights into both the historical and contemporary significance of gemstones.
+Idar-Oberstein is uniquely positioned in the heart of Germany, renowned for its historical significance in the gemstone industry. This region's legacy dates back several centuries, where the natural beauty of the surrounding landscape has continually inspired artisans and gem cutters. The Deutsches Edelsteinmuseum stands as a cornerstone of this cultural narrative, offering insights into both the historical and contemporary significance of gemstones.
 
-As you explore the museum, you’ll encounter an impressive collection of exhibits that showcase the evolution of gemstone processing and the various techniques utilized by artisans throughout history. The museum serves as a vital resource for understanding the geological and cultural dimensions of gemstones, ensuring that each visitor leaves with a deeper appreciation of these natural wonders.
+As you explore the museum, you'll encounter an impressive collection of exhibits that showcase the evolution of gemstone processing and the various techniques utilized by artisans throughout history. The museum serves as a vital resource for understanding the geological and cultural dimensions of gemstones, ensuring that each visitor leaves with a deeper appreciation of these natural wonders.
 
 ## History and Significance
 

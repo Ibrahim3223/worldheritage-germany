@@ -32,11 +32,11 @@ Visitors can expect a well-curated experience that highlights the archaeological
 
 ## History and Significance
 
-The Sumelocenna-Museum is dedicated to the ancient Roman settlement of Sumelocenna, believed to have been a significant hub within the region during its peak. The museum’s collection primarily focuses on archaeological artifacts unearthed from the area, providing insights into the daily lives, customs, and practices of the people who inhabited this fascinating locale centuries ago.
+The Sumelocenna-Museum is dedicated to the ancient Roman settlement of Sumelocenna, believed to have been a significant hub within the region during its peak. The museum's collection primarily focuses on archaeological artifacts unearthed from the area, providing insights into the daily lives, customs, and practices of the people who inhabited this fascinating locale centuries ago.
 
 While specific dates of establishment or significant events may not be documented, the cultural importance of Sumelocenna is evident. The artifacts displayed within the museum not only reflect the artistry and craftsmanship of the time but also serve as a testament to the everyday lives of the Roman populace. Items such as pottery, tools, and decorative objects reveal much about the trade, economy, and social structures of the era.
 
-The museum plays a crucial role in preserving local history and fostering a sense of identity among residents and visitors alike. It serves as a hub for educational programming, often facilitating workshops and lectures that aim to spread awareness of the region’s heritage. The Sumelocenna-Museum underscores the importance of archaeological research in understanding the complexities of human civilization and its development over millennia.
+The museum plays a crucial role in preserving local history and fostering a sense of identity among residents and visitors alike. It serves as a hub for educational programming, often facilitating workshops and lectures that aim to spread awareness of the region's heritage. The Sumelocenna-Museum underscores the importance of archaeological research in understanding the complexities of human civilization and its development over millennia.
 
 ## Architecture and Features
 

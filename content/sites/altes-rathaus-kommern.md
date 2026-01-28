@@ -48,7 +48,7 @@ Inside, visitors can expect to find spaces dedicated to administrative functions
 
 ## Visiting Information
 
-For those planning a visit to Altes Rathaus Kommern, it’s important to consider transportation options and accessibility. The city of Mechernich is well-connected by road, making it accessible by car or public transport. Visitors should check local public transport schedules for the most convenient routes to Mechernich.
+For those planning a visit to Altes Rathaus Kommern, it's important to consider transportation options and accessibility. The city of Mechernich is well-connected by road, making it accessible by car or public transport. Visitors should check local public transport schedules for the most convenient routes to Mechernich.
 
 Before visiting, it is advisable to check the official website for current information regarding hours of operation and any potential admission fees. Visitors should anticipate spending a reasonable amount of time exploring the site and its surroundings, depending on their interest in local history. 
 
@@ -105,7 +105,7 @@ Accessibility features may vary; it is advisable to check with the official webs
 Check the official website for any details regarding online ticket purchases or possible entry fees.
 
 ### Are there restrooms and cafes?
-While specific amenities may not be outlined, you can find local cafés and restrooms in the vicinity. It’s a good idea to explore the town for dining options.
+While specific amenities may not be outlined, you can find local cafés and restrooms in the vicinity. It's a good idea to explore the town for dining options.
 
 ### What should I wear?
 Dress comfortably for walking, and consider layering your clothing based on the weather conditions during your visit.

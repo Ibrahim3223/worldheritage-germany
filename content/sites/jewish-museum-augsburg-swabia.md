@@ -42,7 +42,7 @@ The museum is particularly significant as it also addresses the impact of the Ho
 
 The architecture of the Jewish Museum Augsburg Swabia is both modern and reflective of its historical context. While specific architectural details are not provided, the museum is designed to create an inviting atmosphere that encourages exploration and reflection. The layout often features open spaces for exhibitions that allow for a fluid movement between different displays, fostering a sense of connection between the past and present.
 
-Notable features of the museum include interactive installations that engage visitors with the stories of Jewish life. These exhibits often incorporate multimedia elements, allowing for a dynamic learning experience. The museum's design aims to create a dialogue between history and contemporary issues, making it relevant for today’s audience.
+Notable features of the museum include interactive installations that engage visitors with the stories of Jewish life. These exhibits often incorporate multimedia elements, allowing for a dynamic learning experience. The museum's design aims to create a dialogue between history and contemporary issues, making it relevant for today's audience.
 
 In addition to its exhibition spaces, the museum may also host events, lectures, and workshops that further enrich the visitor experience, making it a living center of cultural exchange.
 
@@ -58,11 +58,11 @@ For the best experience, consider visiting during special exhibitions or events 
 
 Augsburg is home to several attractions that complement a visit to the Jewish Museum:
 
-1. **Augsburg Cathedral**: A stunning example of Gothic architecture, this cathedral offers a glimpse into the city’s spiritual heritage.
+1. **Augsburg Cathedral**: A stunning example of Gothic architecture, this cathedral offers a glimpse into the city's spiritual heritage.
 2. **Fugger Museum and Fuggerei**: Explore the historical complex established by the Fugger family, known for their significant contributions to Augsburg's economy and social fabric.
 3. **Augsburg Town Hall**: An architectural marvel of the Renaissance period, the town hall features opulent interiors and a rich history.
 4. **Schaezlerpalais**: This baroque palace serves as a museum and art gallery, showcasing works from various periods and styles.
-5. **Augsburg City Hall**: A landmark building that reflects the city’s prosperity during the Renaissance, offering guided tours that delve into its history.
+5. **Augsburg City Hall**: A landmark building that reflects the city's prosperity during the Renaissance, offering guided tours that delve into its history.
 
 ## Insider Tips
 

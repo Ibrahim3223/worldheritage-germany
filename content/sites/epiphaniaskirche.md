@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Epiphaniaskirche is a notable church building located in the Bothfeld-Vahrenheide district of Hannover, Germany. This striking edifice serves not only as a place of worship but also as a significant landmark within the local community. With its unique architectural style and historical context, Epiphaniaskirche embodies the spiritual and cultural heritage of Hannover. Visitors are drawn to its serene atmosphere and distinctive design, making it an essential stop for those exploring the city’s religious architecture.
+Epiphaniaskirche is a notable church building located in the Bothfeld-Vahrenheide district of Hannover, Germany. This striking edifice serves not only as a place of worship but also as a significant landmark within the local community. With its unique architectural style and historical context, Epiphaniaskirche embodies the spiritual and cultural heritage of Hannover. Visitors are drawn to its serene atmosphere and distinctive design, making it an essential stop for those exploring the city's religious architecture.
 
 The church is situated at coordinates 52.4153, 9.7735, placing it conveniently within a vibrant urban environment. As you approach, the structure invites contemplation and reflection, offering a peaceful respite from the surrounding bustle of city life. Whether you are a local resident or a traveler, Epiphaniaskirche promises an enriching experience that combines historical significance with architectural beauty.
 
@@ -34,7 +34,7 @@ The church is situated at coordinates 52.4153, 9.7735, placing it conveniently w
 
 While specific historical details may be sparse, Epiphaniaskirche represents an important aspect of Hannover's religious landscape. Churches like Epiphaniaskirche often serve as focal points for community gatherings, spiritual reflection, and cultural events. They play a vital role in the life of local residents, contributing to the communal identity and continuity of traditions.
 
-The church’s significance extends beyond its religious functions; it is also a symbol of the region's historical development. Many churches in Germany have roots that trace back centuries, often reflecting the architectural styles and social changes of their times. Epiphaniaskirche likely shares this narrative, embodying the evolution of both faith and community in Hannover.
+The church's significance extends beyond its religious functions; it is also a symbol of the region's historical development. Many churches in Germany have roots that trace back centuries, often reflecting the architectural styles and social changes of their times. Epiphaniaskirche likely shares this narrative, embodying the evolution of both faith and community in Hannover.
 
 Culturally, the church can be seen as a repository of local art and history, housing various religious artifacts and artworks that reflect the traditions of the community. Such sites often host events that strengthen community ties, making them central to local life and identity.
 

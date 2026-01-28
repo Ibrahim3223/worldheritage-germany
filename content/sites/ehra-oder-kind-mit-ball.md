@@ -44,7 +44,7 @@ Ehra oder Kind mit Ball is characterized by its thoughtful design and artistic e
 
 In terms of materials and craftsmanship, the statue showcases the skill and dedication of its creator. Public sculptures often utilize durable materials to withstand the elements, ensuring that they remain a lasting part of the urban landscape. The choice of materials and the technique employed in this statue contribute to its visual appeal and impact.
 
-As an architectural structure, Ehra oder Kind mit Ball not only serves as a piece of art but also as a gathering point for the community. Its design encourages engagement, allowing people to appreciate the artwork from various angles and perspectives. The statue’s placement in a public area enhances its accessibility and invites interaction from passersby.
+As an architectural structure, Ehra oder Kind mit Ball not only serves as a piece of art but also as a gathering point for the community. Its design encourages engagement, allowing people to appreciate the artwork from various angles and perspectives. The statue's placement in a public area enhances its accessibility and invites interaction from passersby.
 
 ## Visiting Information
 
@@ -62,7 +62,7 @@ Düsseldorf is home to a variety of attractions that complement a visit to Ehra 
 
 2. **Rheinuferpromenade**: A beautiful promenade along the Rhine River, ideal for walking and enjoying the riverside atmosphere. It provides a lovely setting for relaxation and exploration.
 
-3. **Museum Kunstpalast**: For those interested in art, this museum features a diverse collection of artworks and regularly hosts exhibitions. It’s a great spot to further appreciate the artistic culture of Düsseldorf.
+3. **Museum Kunstpalast**: For those interested in art, this museum features a diverse collection of artworks and regularly hosts exhibitions. It's a great spot to further appreciate the artistic culture of Düsseldorf.
 
 4. **Old Town (Altstadt)**: Known as "the longest bar in the world," this area is packed with pubs, restaurants, and historical sites. It provides a vibrant atmosphere to experience local culture and cuisine.
 
@@ -89,7 +89,7 @@ A brief visit may only take about 15-30 minutes, but those interested in photogr
 Yes, photography is permitted and encouraged at the statue.
 
 ### Are there guided tours?
-Currently, there are no specific guided tours for the statue, but local tours may include it as part of a broader exploration of Düsseldorf’s art scene.
+Currently, there are no specific guided tours for the statue, but local tours may include it as part of a broader exploration of Düsseldorf's art scene.
 
 ### What's the best time to visit?
 The best times to visit are during the daylight hours, with early morning or late afternoon providing the best natural lighting for photography.

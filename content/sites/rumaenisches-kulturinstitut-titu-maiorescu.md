@@ -28,7 +28,7 @@ Berlin, a city known for its artistic vibrancy and multicultural atmosphere, off
 
 The Rumänisches Kulturinstitut Titu Maiorescu was established with the mission of promoting Romanian culture and fostering cultural dialogue. Named after Titu Maiorescu, a prominent Romanian literary critic and cultural figure, the institute embodies his commitment to the arts and education. While specific dates regarding its founding and milestones are not provided, the institute has undoubtedly become a focal point for Romanian cultural initiatives in Germany.
 
-The significance of the Rumänisches Kulturinstitut extends beyond its cultural programs; it serves as a bridge connecting Romanian expatriates with their heritage while inviting German audiences to explore and appreciate Romania’s artistic contributions. The institute regularly hosts literary readings, art exhibitions, concerts, and workshops that showcase the depth and diversity of Romanian culture. By doing so, it strengthens the cultural ties between the two nations, fostering mutual respect and understanding.
+The significance of the Rumänisches Kulturinstitut extends beyond its cultural programs; it serves as a bridge connecting Romanian expatriates with their heritage while inviting German audiences to explore and appreciate Romania's artistic contributions. The institute regularly hosts literary readings, art exhibitions, concerts, and workshops that showcase the depth and diversity of Romanian culture. By doing so, it strengthens the cultural ties between the two nations, fostering mutual respect and understanding.
 
 Moreover, the institute plays a crucial role in preserving Romanian traditions and promoting contemporary artistic expressions. It provides a space for Romanian artists, writers, and scholars to present their work and engage with the public, ensuring that the cultural narrative remains vibrant and relevant. The events hosted at the Rumänisches Kulturinstitut often feature discussions on themes such as identity, migration, and cross-cultural dialogue, reflecting the complexities of the modern world.
 
@@ -36,7 +36,7 @@ Through its various programs, the Rumänisches Kulturinstitut Titu Maiorescu hig
 
 ## Architecture and Features
 
-The Rumänisches Kulturinstitut Titu Maiorescu is situated within a building that reflects the architectural character of Berlin’s Mitte district. While specific details about the architecture are not provided, the environment surrounding the institute is known for its blend of historical and modern elements. The institute's interior is designed to foster creativity and engagement, providing a welcoming atmosphere for visitors.
+The Rumänisches Kulturinstitut Titu Maiorescu is situated within a building that reflects the architectural character of Berlin's Mitte district. While specific details about the architecture are not provided, the environment surrounding the institute is known for its blend of historical and modern elements. The institute's interior is designed to foster creativity and engagement, providing a welcoming atmosphere for visitors.
 
 Inside, you may find spaces dedicated to exhibitions, workshops, and performances, each crafted to facilitate interaction and immersion in Romanian culture. The layout of the institute encourages visitors to explore its offerings at their own pace, allowing for an organic experience of the various cultural expressions showcased.
 
@@ -46,7 +46,7 @@ While the specific features of the institute may vary, its overall design is lik
 
 ## Visiting Information
 
-Visiting the Rumänisches Kulturinstitut Titu Maiorescu is an enriching experience for those interested in Romanian culture. The institute is located in the Mitte district, which is well-connected by various modes of public transportation. Visitors can easily access the site via Berlin’s extensive network of buses and trains, making it a convenient stop during a cultural exploration of the city.
+Visiting the Rumänisches Kulturinstitut Titu Maiorescu is an enriching experience for those interested in Romanian culture. The institute is located in the Mitte district, which is well-connected by various modes of public transportation. Visitors can easily access the site via Berlin's extensive network of buses and trains, making it a convenient stop during a cultural exploration of the city.
 
 For up-to-date information regarding opening hours and any applicable entry fees, it is advisable to check the official website. The institute often hosts a variety of events that may have different schedules, so planning ahead is beneficial. 
 
@@ -56,15 +56,15 @@ During your visit, you may want to participate in discussions or activities that
 
 ## Nearby Attractions
 
-The location of the Rumänisches Kulturinstitut Titu Maiorescu in Berlin’s Mitte district places it near several notable attractions. After your visit, you may consider exploring the following nearby sites:
+The location of the Rumänisches Kulturinstitut Titu Maiorescu in Berlin's Mitte district places it near several notable attractions. After your visit, you may consider exploring the following nearby sites:
 
-1. **Museum Island**: A UNESCO World Heritage site, Museum Island houses five of Berlin’s most important museums, showcasing art and artifacts from various cultures.
+1. **Museum Island**: A UNESCO World Heritage site, Museum Island houses five of Berlin's most important museums, showcasing art and artifacts from various cultures.
    
 2. **Berlin Cathedral**: Located nearby, this impressive Protestant cathedral offers stunning architecture and views from its dome.
 
 3. **Alexanderplatz**: A bustling square known for its iconic TV tower, shopping, and vibrant atmosphere, ideal for a leisurely stroll or a meal.
 
-4. **Brandenburg Gate**: One of Berlin’s most famous landmarks, this neoclassical monument symbolizes unity and peace.
+4. **Brandenburg Gate**: One of Berlin's most famous landmarks, this neoclassical monument symbolizes unity and peace.
 
 5. **The Jewish Museum Berlin**: A profound exploration of Jewish history in Germany, this museum attracts visitors for its architecture and thought-provoking exhibitions.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Rumänisches Kulturinstitut Titu Maiorescu
 
 - **Visit During Off-Peak Hours**: If possible, try to visit during weekday afternoons. This can help you avoid larger crowds and allow for a more personal experience with the exhibits and staff.
 
-- **Engage with Staff**: The staff at the institute are often knowledgeable and passionate about Romanian culture. Don’t hesitate to ask questions or seek recommendations for further reading or exploration.
+- **Engage with Staff**: The staff at the institute are often knowledgeable and passionate about Romanian culture. Don't hesitate to ask questions or seek recommendations for further reading or exploration.
 
 ## Practical Information
 

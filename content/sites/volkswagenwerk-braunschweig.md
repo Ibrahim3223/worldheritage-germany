@@ -88,7 +88,7 @@ Bringing along a water bottle and snacks can be beneficial, although check if th
 A visit to Volkswagenwerk Braunschweig usually takes a few hours, depending on the tour schedule and your level of interest in the manufacturing processes.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with staff on-site or refer to guidelines provided during your visit.
+Photography policies may vary, so it's best to check with staff on-site or refer to guidelines provided during your visit.
 
 ### Are there guided tours?
 Yes, guided tours may be available, providing insights into the factory's operations and history. Check the official website for details on availability.
@@ -97,13 +97,13 @@ Yes, guided tours may be available, providing insights into the factory's operat
 Weekdays are generally recommended for a more authentic experience, as factory operations are in full swing. Be sure to check for tour schedules.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s advisable to inquire directly with the factory regarding accommodations for visitors with mobility challenges.
+Accessibility information is not specified, so it's advisable to inquire directly with the factory regarding accommodations for visitors with mobility challenges.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, as availability may vary.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but it’s best to confirm these amenities before your visit.
+Facilities such as restrooms may be available, but it's best to confirm these amenities before your visit.
 
 ### What should I wear?
 Comfortable clothing and closed-toe shoes are recommended, particularly if you will be walking through factory areas. Dress for the weather conditions of the day.

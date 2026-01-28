@@ -28,7 +28,7 @@ image_srcset:
 
 The Pfarrkirche St. Jakobus is a notable Roman Catholic church located in the charming town of Alfter, Germany. This sacred space is more than just a place of worship; it represents the spiritual heartbeat of the local community and serves as a pivotal landmark within the region. With its serene ambiance and architectural significance, the church draws visitors who are curious about its historical roots and cultural context.
 
-Situated in North Rhine-Westphalia, Alfter is a quaint town that provides visitors with a picturesque backdrop for exploration. The church’s presence adds depth to the local landscape, making it a must-see for anyone interested in religious architecture and community heritage. Visitors can anticipate a peaceful atmosphere that encourages reflection and appreciation of the space’s significance.
+Situated in North Rhine-Westphalia, Alfter is a quaint town that provides visitors with a picturesque backdrop for exploration. The church's presence adds depth to the local landscape, making it a must-see for anyone interested in religious architecture and community heritage. Visitors can anticipate a peaceful atmosphere that encourages reflection and appreciation of the space's significance.
 
 Whether you are a pilgrim seeking spiritual solace or a traveler eager to explore the cultural landmarks of Germany, the Pfarrkirche St. Jakobus promises an enriching experience. From its architectural features to its role in the community, this church offers a unique glimpse into the heritage of Alfter.
 
@@ -66,7 +66,7 @@ The town of Alfter offers several attractions that complement a visit to Pfarrki
 
 ## Insider Tips
 
-For those planning to photograph the Pfarrkirche St. Jakobus, consider visiting during the golden hours of early morning or late afternoon, when natural light enhances the church’s features. Be mindful of the church’s guidelines regarding photography during services or private events.
+For those planning to photograph the Pfarrkirche St. Jakobus, consider visiting during the golden hours of early morning or late afternoon, when natural light enhances the church's features. Be mindful of the church's guidelines regarding photography during services or private events.
 
 To avoid crowds, consider planning your visit on weekdays instead of weekends or religious holidays, when attendance is typically lower. This will allow for a more intimate experience as you explore the church and its surroundings.
 

@@ -66,13 +66,13 @@ Lukaskirche is situated near several notable attractions that enhance the visito
 
 ## Insider Tips
 
-To capture the essence of Lukaskirche, photography enthusiasts should take advantage of the natural light that floods the interior, especially during the late morning and early afternoon. It’s also wise to arrive early, particularly on weekends, to avoid larger crowds that can detract from the serene experience. 
+To capture the essence of Lukaskirche, photography enthusiasts should take advantage of the natural light that floods the interior, especially during the late morning and early afternoon. It's also wise to arrive early, particularly on weekends, to avoid larger crowds that can detract from the serene experience. 
 
 If you seek a quieter visit, consider planning your trip for weekdays when foot traffic is typically lighter, allowing for a more personal exploration of the church's features.
 
 ## Practical Information
 
-When visiting Lukaskirche, it’s advisable to bring along a small bag for personal items, and if you plan to take photographs, ensure your camera is ready to capture the church's beauty. Seasonal considerations might include dressing in layers, as the interior can vary in temperature depending on the time of year.
+When visiting Lukaskirche, it's advisable to bring along a small bag for personal items, and if you plan to take photographs, ensure your camera is ready to capture the church's beauty. Seasonal considerations might include dressing in layers, as the interior can vary in temperature depending on the time of year.
 
 Visitors should also be mindful of appropriate attire while in the church, reflecting the respectful environment of this religious space. 
 
@@ -82,7 +82,7 @@ Visitors should also be mindful of appropriate attire while in the church, refle
 A visit to Lukaskirche typically takes around an hour, allowing you to appreciate its architecture and serene atmosphere.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and other visitors.
+Photography is generally permitted, but it's advisable to be respectful of the space and other visitors.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be offered depending on the time of year and specific events.
@@ -97,7 +97,7 @@ While specific accessibility details are not provided, it is recommended to chec
 Check the official website for current information regarding ticket purchases and any admission fees.
 
 ### Are there restrooms and cafes?
-Information on amenities such as restrooms and cafes might be available on the official website; it’s best to check there for the most accurate details.
+Information on amenities such as restrooms and cafes might be available on the official website; it's best to check there for the most accurate details.
 
 ### What should I wear?
-Visitors are encouraged to dress respectfully, considering the church’s status as a place of worship.
+Visitors are encouraged to dress respectfully, considering the church's status as a place of worship.

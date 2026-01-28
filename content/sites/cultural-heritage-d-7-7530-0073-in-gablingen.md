@@ -54,7 +54,7 @@ While specific visiting hours and admission prices are not detailed, it is advis
 
 When planning your visit, consider the best times to go. Early mornings or late afternoons may provide a quieter experience, allowing you to fully appreciate the site without the hustle of larger crowds. Additionally, visiting during weekdays might enhance your exploration, as weekends can draw more visitors.
 
-Upon arrival, expect a range of features to engage with, including informational signage that may provide context about the site’s history and architecture. Be prepared for some walking, as exploring the fortification may require traversing uneven terrain or climbing steps.
+Upon arrival, expect a range of features to engage with, including informational signage that may provide context about the site's history and architecture. Be prepared for some walking, as exploring the fortification may require traversing uneven terrain or climbing steps.
 
 ## Nearby Attractions
 
@@ -99,7 +99,7 @@ Check the official website for information regarding guided tours, as they may b
 Visiting during weekdays, particularly in the early morning or late afternoon, is often ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s best to check the official website for current details on wheelchair access.
+Accessibility information is not specified; it's best to check the official website for current details on wheelchair access.
 
 ### Can I buy tickets online?
 Information on online ticket purchasing is not provided; be sure to check the official website for the latest updates.

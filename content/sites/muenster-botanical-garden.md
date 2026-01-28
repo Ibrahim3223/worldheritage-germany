@@ -38,7 +38,7 @@ The origins of the Münster Botanical Garden can be traced to the early 19th cen
 
 Throughout its history, the garden has contributed significantly to the understanding of plant biodiversity and conservation. It serves as a sanctuary for numerous species, some of which are rare or endangered. By offering a space for both research and public enjoyment, the Münster Botanical Garden plays a crucial role in fostering a connection between people and nature. Educational programs and guided tours help raise awareness about ecological issues, encouraging visitors to consider their own impact on the environment.
 
-The garden also reflects the cultural landscape of Münster, providing a gathering place for community events, workshops, and educational activities. Its commitment to sustainability and conservation aligns with modern environmental goals, making it a relevant and essential part of the city’s green infrastructure.
+The garden also reflects the cultural landscape of Münster, providing a gathering place for community events, workshops, and educational activities. Its commitment to sustainability and conservation aligns with modern environmental goals, making it a relevant and essential part of the city's green infrastructure.
 
 ## Architecture and Features
 
@@ -78,7 +78,7 @@ If you are interested in specific plant species or botanical themes, check for a
 
 ## Practical Information
 
-When planning your visit to the Münster Botanical Garden, it’s a good idea to wear comfortable shoes, as you’ll likely be walking for a while. Bringing a water bottle can also enhance your experience, especially on warm days. 
+When planning your visit to the Münster Botanical Garden, it's a good idea to wear comfortable shoes, as you'll likely be walking for a while. Bringing a water bottle can also enhance your experience, especially on warm days. 
 
 Seasonal considerations are important; spring and summer are peak times for blooming flowers, while fall offers a stunning display of autumn foliage. The garden may have seasonal events or programs, so checking the official website prior to your visit can provide valuable information.
 

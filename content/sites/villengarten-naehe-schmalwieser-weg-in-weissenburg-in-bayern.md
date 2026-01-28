@@ -22,7 +22,7 @@ images:
 
 The Villengarten Nähe Schmalwieser Weg in Weißenburg in Bayern presents an invitation to explore a charming garden that embodies the cultural essence of this historic Bavarian town. Located in the heart of Weißenburg, this garden is not only a serene escape into nature but also a recognized cultural heritage monument. Visitors can enjoy leisurely strolls amidst carefully curated landscapes that reflect the artistry of garden design and the significance of green spaces in community life. The coordinates of this location are 49.036275746, 10.970791311, making it easily accessible for those wishing to experience its tranquility.
 
-As you wander through the Villengarten, the historical context of its creation unfolds. Gardens such as this offer not just aesthetic pleasure but also serve as a reminder of the era and culture in which they were cultivated. With its cultural heritage designation, this garden stands as an integral part of Weißenburg’s identity, inviting both locals and travelers to appreciate the beauty of nature intertwined with history.
+As you wander through the Villengarten, the historical context of its creation unfolds. Gardens such as this offer not just aesthetic pleasure but also serve as a reminder of the era and culture in which they were cultivated. With its cultural heritage designation, this garden stands as an integral part of Weißenburg's identity, inviting both locals and travelers to appreciate the beauty of nature intertwined with history.
 
 ## History and Significance
 

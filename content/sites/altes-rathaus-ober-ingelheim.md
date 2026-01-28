@@ -28,7 +28,7 @@ image_srcset:
 
 The Altes Rathaus Ober-Ingelheim, or the Old Town Hall of Ober-Ingelheim, is a striking municipal building that carries the weight of cultural heritage in the charming town of Ingelheim am Rhein, Germany. This historic city hall serves not just as a functional space for local governance but also as an emblem of the town's identity and a witness to its evolution over centuries. Set against the backdrop of the picturesque landscape along the Rhine River, the structure is a focal point for both locals and visitors alike, reflecting the architectural styles that have shaped the region.
 
-Ingelheim am Rhein, located in the state of Rhineland-Palatinate, is renowned for its wine production and historical significance. The Altes Rathaus is situated in the heart of the town, making it an ideal starting point for exploring the rich tapestry of culture and history that Ingelheim has to offer. The building’s presence is a reminder of the civic pride and community spirit that has thrived here, and it stands as a venue for various events and local functions, further embedding it in the social fabric of the town.
+Ingelheim am Rhein, located in the state of Rhineland-Palatinate, is renowned for its wine production and historical significance. The Altes Rathaus is situated in the heart of the town, making it an ideal starting point for exploring the rich tapestry of culture and history that Ingelheim has to offer. The building's presence is a reminder of the civic pride and community spirit that has thrived here, and it stands as a venue for various events and local functions, further embedding it in the social fabric of the town.
 
 With its unique blend of historical significance and contemporary relevance, the Altes Rathaus Ober-Ingelheim invites visitors to engage with the local heritage while enjoying the vibrant atmosphere of Ingelheim am Rhein.
 
@@ -38,9 +38,9 @@ The history of the Altes Rathaus Ober-Ingelheim is intertwined with the broader 
 
 The significance of the Altes Rathaus extends beyond its architectural form; it symbolizes the evolution of civic governance in Ingelheim. As the town grew and changed, so too did the role of the city hall as a hub of political activity and social interaction. The building has likely hosted numerous important events, from local council meetings to public gatherings, reflecting the dynamic nature of the community.
 
-Ingelheim is also known for its historical connections to the Carolingian dynasty, particularly Charlemagne, who is said to have spent time in the area. While the Altes Rathaus itself may not date back to that era, its presence in a town with such a rich historical backdrop adds layers of significance. The building embodies the continuity of local governance and the collective memory of the town’s citizens.
+Ingelheim is also known for its historical connections to the Carolingian dynasty, particularly Charlemagne, who is said to have spent time in the area. While the Altes Rathaus itself may not date back to that era, its presence in a town with such a rich historical backdrop adds layers of significance. The building embodies the continuity of local governance and the collective memory of the town's citizens.
 
-As Ingelheim am Rhein continues to grow and modernize, the Altes Rathaus remains a cherished landmark. It serves not just as a relic of the past but as a living part of the city’s ongoing story, contributing to a sense of place and belonging for its inhabitants.
+As Ingelheim am Rhein continues to grow and modernize, the Altes Rathaus remains a cherished landmark. It serves not just as a relic of the past but as a living part of the city's ongoing story, contributing to a sense of place and belonging for its inhabitants.
 
 ## Architecture and Features
 
@@ -100,7 +100,7 @@ Before heading to the Altes Rathaus, here are some practical considerations:
 A visit to the Altes Rathaus typically takes about an hour, allowing time to appreciate the architecture and explore the surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted outside the building, but it’s best to check for any restrictions during events.
+Photography is generally permitted outside the building, but it's best to check for any restrictions during events.
 
 ### Are there guided tours?
 Information on guided tours is not specified; check the official website for possible offerings.
@@ -109,7 +109,7 @@ Information on guided tours is not specified; check the official website for pos
 Visiting during weekdays can offer a quieter experience. Local events may also provide additional cultural insights.
 
 ### Is it wheelchair accessible?
-Accessibility information is not detailed; it’s advisable to check the official website for specifics on wheelchair access.
+Accessibility information is not detailed; it's advisable to check the official website for specifics on wheelchair access.
 
 ### Can I buy tickets online?
 Ticketing options are not mentioned; please refer to the official website for current purchasing methods.

@@ -46,7 +46,7 @@ The Otto Lilienthal Museum is designed to reflect its thematic focus on aviation
 
 Interactive features may be present, allowing guests to engage with the content in a hands-on manner. These could include simulations or models that depict the mechanics of flight, encouraging a deeper understanding of aerodynamics. The layout of the museum is designed to facilitate a smooth flow of information, guiding visitors through the history and science of aviation in a logical progression.
 
-The museum's atmosphere is likely to be one of inspiration and curiosity, echoing the adventurous spirit of Otto Lilienthal himself. The displays may include original artifacts, models of Lilienthal’s gliders, and historical documentation that enrich the visitor experience.
+The museum's atmosphere is likely to be one of inspiration and curiosity, echoing the adventurous spirit of Otto Lilienthal himself. The displays may include original artifacts, models of Lilienthal's gliders, and historical documentation that enrich the visitor experience.
 
 ## Visiting Information
 

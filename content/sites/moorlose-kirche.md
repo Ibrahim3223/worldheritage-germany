@@ -46,7 +46,7 @@ Moorlose Kirche, as a church building, is characterized by traditional architect
 
 The interior of the church is likely designed to accommodate congregational worship, with a layout that fosters a sense of community and connection among attendees. Elements such as an altar, pews, and perhaps decorative artwork may contribute to the overall atmosphere, creating a serene environment for reflection and worship.
 
-Despite the lack of specific details regarding the architectural features, it is evident that Moorlose Kirche serves as more than just a physical structure; it represents a gathering place where the community's spiritual life unfolds. The church’s design may also be reflective of the historical and cultural influences that have shaped the Burglesum region over the years.
+Despite the lack of specific details regarding the architectural features, it is evident that Moorlose Kirche serves as more than just a physical structure; it represents a gathering place where the community's spiritual life unfolds. The church's design may also be reflective of the historical and cultural influences that have shaped the Burglesum region over the years.
 
 ## Visiting Information
 

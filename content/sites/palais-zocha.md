@@ -28,7 +28,7 @@ image_srcset:
 
 Palais Zocha is a distinguished palace located in Gunzenhausen, in the picturesque region of Middle Franconia, Germany. This architectural gem is emblematic of the rich cultural heritage that characterizes this part of Bavaria. While the specifics of its history may remain elusive, the palace serves as an important reminder of the area's storied past, offering visitors a glimpse into the architectural styles and societal norms of a bygone era. 
 
-Gunzenhausen, situated in the heart of Franconia, is known for its charming medieval streets and serene landscapes. The presence of Palais Zocha enhances the town’s allure, inviting travelers to explore its surroundings and delve into the history that has shaped this region. The palace stands as a significant cultural site, making it a worthwhile destination for those keen to understand the historical context of southern Germany.
+Gunzenhausen, situated in the heart of Franconia, is known for its charming medieval streets and serene landscapes. The presence of Palais Zocha enhances the town's allure, inviting travelers to explore its surroundings and delve into the history that has shaped this region. The palace stands as a significant cultural site, making it a worthwhile destination for those keen to understand the historical context of southern Germany.
 
 Visitors can expect to find not just a structure of historical importance but also a place that resonates with the stories of its past inhabitants. For travelers interested in heritage, Palais Zocha promises an enriching experience, underscored by the beauty of its architecture and the cultural narratives it embodies.
 

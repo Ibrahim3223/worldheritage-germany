@@ -36,7 +36,7 @@ The history of St. Nicholas Church is deeply intertwined with the development of
 
 As a religious institution, St. Nicholas Church has played a significant role in the spiritual lives of the people of Fehmarn. It has witnessed moments of joy, sorrow, and everything in between, reflecting the ebb and flow of life in this coastal area. The church's continued presence is a reminder of the importance of faith and community in shaping the identities of its inhabitants.
 
-Furthermore, St. Nicholas Church is an important symbol of the region’s architectural heritage. It represents the styles and construction techniques that were prevalent during its establishment. The church has likely undergone various modifications over the years, adapting to the needs of its congregation while preserving its historical integrity. This adaptability speaks to the resilience of both the structure and the community it serves.
+Furthermore, St. Nicholas Church is an important symbol of the region's architectural heritage. It represents the styles and construction techniques that were prevalent during its establishment. The church has likely undergone various modifications over the years, adapting to the needs of its congregation while preserving its historical integrity. This adaptability speaks to the resilience of both the structure and the community it serves.
 
 ## Architecture and Features
 
@@ -72,7 +72,7 @@ To enhance your experience at St. Nicholas Church, consider the following tips:
 
 ## Practical Information
 
-When preparing for your visit to St. Nicholas Church, it’s advisable to bring a few essentials. Comfortable shoes are recommended for walking, especially if you plan to explore the surrounding areas. Seasonal considerations can also play a role in your visit; check the weather forecast to dress appropriately.
+When preparing for your visit to St. Nicholas Church, it's advisable to bring a few essentials. Comfortable shoes are recommended for walking, especially if you plan to explore the surrounding areas. Seasonal considerations can also play a role in your visit; check the weather forecast to dress appropriately.
 
 Additionally, check the official website for any specific recommendations on what to bring or consider during your visit, ensuring a pleasant experience.
 
@@ -82,7 +82,7 @@ Additionally, check the official website for any specific recommendations on wha
 A visit to St. Nicholas Church typically takes about 30 minutes to an hour. This allows time to explore the interior and appreciate the architecture.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s wise to be respectful of the sacred nature of the space, especially during services.
+Photography is generally permitted, but it's wise to be respectful of the sacred nature of the space, especially during services.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be available at certain times or during special events.
@@ -102,4 +102,4 @@ Nearby facilities may vary; checking local amenities is advisable for restroom a
 ### What should I wear?
 Modest attire is recommended, as St. Nicholas Church is a place of worship. Comfortable clothing and shoes are advisable for exploring the area.
 
-Visiting St. Nicholas Church in Fehmarn promises a rich encounter with the area’s cultural heritage and architectural beauty. Whether you are drawn by spiritual significance or historical interest, this church remains a vital part of Fehmarn's identity.
+Visiting St. Nicholas Church in Fehmarn promises a rich encounter with the area's cultural heritage and architectural beauty. Whether you are drawn by spiritual significance or historical interest, this church remains a vital part of Fehmarn's identity.

@@ -64,7 +64,7 @@ While visiting Zeche Buschbank, several nearby attractions can enrich your exper
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon light can create a beautiful ambiance for capturing the industrial features of Zeche Buschbank. Be mindful of any restrictions on photography inside specific buildings or exhibitions, and always respect the site’s guidelines.
+For photography enthusiasts, early morning or late afternoon light can create a beautiful ambiance for capturing the industrial features of Zeche Buschbank. Be mindful of any restrictions on photography inside specific buildings or exhibitions, and always respect the site's guidelines.
 
 To avoid crowds, consider visiting during weekdays or during off-peak hours. This will enhance your experience, allowing for a more personal connection with the exhibits and structures.
 
@@ -89,7 +89,7 @@ Check the official website for information on whether guided tours are available
 Weekdays and off-peak hours are ideal for a quieter experience. Seasonal events may also attract visitors, so plan accordingly.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary, so it’s best to consult the official website for detailed information on wheelchair access and accommodations.
+Accessibility options may vary, so it's best to consult the official website for detailed information on wheelchair access and accommodations.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available online, but check the official website for the latest information on tickets and pricing.

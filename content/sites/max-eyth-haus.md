@@ -42,11 +42,11 @@ Max-Eyth-Haus also serves as a reminder of the importance of educational institu
 
 ## Architecture and Features
 
-Max-Eyth-Haus reflects a blend of historical and functional architectural styles typical of German educational buildings. The structure itself is designed to accommodate both exhibitions and community activities, embodying the spirit of learning and collaboration. While specific architectural details may not be available, the museum’s layout is intended to facilitate an engaging experience for visitors, allowing for seamless movement between different exhibits.
+Max-Eyth-Haus reflects a blend of historical and functional architectural styles typical of German educational buildings. The structure itself is designed to accommodate both exhibitions and community activities, embodying the spirit of learning and collaboration. While specific architectural details may not be available, the museum's layout is intended to facilitate an engaging experience for visitors, allowing for seamless movement between different exhibits.
 
 Inside, the museum features a variety of spaces dedicated to showcasing educational artifacts, historical documents, and interactive displays. These elements are thoughtfully arranged to provide a coherent narrative of the educational journey in Kirchheim unter Teck. Visitors can expect to find materials that illuminate the past, including photographs, teaching tools, and memorabilia that chronicle the evolution of schooling in the area.
 
-The museum’s design promotes accessibility and encourages exploration, making it suitable for visitors of all ages. Each exhibit is crafted to highlight specific themes related to education, fostering a deeper understanding of the subject matter.
+The museum's design promotes accessibility and encourages exploration, making it suitable for visitors of all ages. Each exhibit is crafted to highlight specific themes related to education, fostering a deeper understanding of the subject matter.
 
 ## Visiting Information
 

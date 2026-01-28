@@ -28,7 +28,7 @@ image_srcset:
 
 St.-Matthias-Kirche, located in the heart of Sondershausen, Germany, is a striking example of ecclesiastical architecture that offers a glimpse into the rich cultural and historical fabric of the region. This church building, while perhaps lesser-known than some of its more famous counterparts, is a significant landmark that draws visitors interested in both architectural beauty and local heritage. Surrounded by the charming streets of Sondershausen, the church serves not only as a place of worship but also as a focal point for community events and gatherings.
 
-As you approach St.-Matthias-Kirche, the captivating design and historical resonance of the building invite exploration. Whether you’re a history aficionado, an architecture enthusiast, or simply in search of a peaceful place to reflect, the church's serene atmosphere and intriguing past promise a rewarding experience. The site stands as a reminder of the region's religious and cultural journey, making it a worthwhile stop on your travels through Germany.
+As you approach St.-Matthias-Kirche, the captivating design and historical resonance of the building invite exploration. Whether you're a history aficionado, an architecture enthusiast, or simply in search of a peaceful place to reflect, the church's serene atmosphere and intriguing past promise a rewarding experience. The site stands as a reminder of the region's religious and cultural journey, making it a worthwhile stop on your travels through Germany.
 
 ## History and Significance
 
@@ -62,7 +62,7 @@ While visiting St.-Matthias-Kirche, consider exploring other attractions in Sond
 
 1. **Schloss Sondershausen**: This historical castle offers stunning views and insight into the local nobility's history, featuring beautiful gardens and exhibitions.
 
-2. **Museum Sondershausen**: A local museum that showcases the cultural history of the region, providing a deeper understanding of the area’s past.
+2. **Museum Sondershausen**: A local museum that showcases the cultural history of the region, providing a deeper understanding of the area's past.
 
 3. **Stadtpark Sondershausen**: A lovely park ideal for leisurely walks, picnics, and family outings, offering a peaceful escape in the heart of the city.
 
@@ -103,7 +103,7 @@ Accessibility information is not specified, so it is advisable to check in advan
 Check the official website for details on ticket purchasing options and current admission fees, if applicable.
 
 ### Are there restrooms and cafes?
-Restroom availability and nearby cafés can vary, so it’s best to plan accordingly and inquire upon arrival.
+Restroom availability and nearby cafés can vary, so it's best to plan accordingly and inquire upon arrival.
 
 ### What should I wear?
 Dress comfortably and appropriately for a church setting, keeping in mind that some visitors may prefer more formal attire.

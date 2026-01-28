@@ -52,7 +52,7 @@ In terms of aesthetics, Limburg Süd station represents the utilitarian style of
 
 Limburg Süd station serves as a pivotal point for both local commuters and visitors traveling to the region. It is well-connected to various regional and national rail services, making it an ideal starting point for journeys across Germany. 
 
-When planning a visit, it’s advisable to check the official website for current information regarding operating hours and ticket prices, ensuring an up-to-date travel experience. Expect to find amenities such as ticket counters and waiting areas that cater to the needs of passengers.
+When planning a visit, it's advisable to check the official website for current information regarding operating hours and ticket prices, ensuring an up-to-date travel experience. Expect to find amenities such as ticket counters and waiting areas that cater to the needs of passengers.
 
 The station is typically busy during peak commuting hours, so visitors may want to plan their journeys outside of these times for a more relaxed experience. The station itself can be navigated relatively quickly, making it easy to transfer to other services or explore the surrounding area.
 

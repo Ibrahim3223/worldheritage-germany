@@ -46,11 +46,11 @@ The combination of natural and designed elements in Garten Domberg reflects the 
 
 When planning a visit to Garten Domberg, accessibility and convenience are key considerations. Located in the heart of Freising, the garden is easily reachable by various modes of transport. Visitors can arrive by public transportation, as Freising is well-served by local trains and buses. For those driving, parking options are generally available nearby.
 
-Before setting out, it’s advisable to check the official website for current information regarding visiting hours and any potential admission fees. The garden is designed to be an inviting space for all, typically welcoming visitors throughout the year. However, specific hours may vary, so confirming the details in advance can enhance your experience.
+Before setting out, it's advisable to check the official website for current information regarding visiting hours and any potential admission fees. The garden is designed to be an inviting space for all, typically welcoming visitors throughout the year. However, specific hours may vary, so confirming the details in advance can enhance your experience.
 
 Once at the garden, visitors should anticipate a leisurely visit, often lasting a couple of hours to fully appreciate the landscape and its offerings. The best times to visit are usually during the spring and summer months when the garden is in full bloom, though autumn can also provide a stunning backdrop as leaves change color.
 
-While exploring, expect to find areas conducive to relaxation, as well as spots that encourage contemplation and enjoyment of nature. The garden’s design invites visitors to wander, sit, and take in the beauty of the surroundings, making it an ideal location for both solitary reflection and social gatherings.
+While exploring, expect to find areas conducive to relaxation, as well as spots that encourage contemplation and enjoyment of nature. The garden's design invites visitors to wander, sit, and take in the beauty of the surroundings, making it an ideal location for both solitary reflection and social gatherings.
 
 ## Nearby Attractions
 

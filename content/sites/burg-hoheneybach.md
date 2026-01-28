@@ -65,11 +65,11 @@ While Burg Hoheneybach is a highlight of the Geislingen an der Steige region, se
 
 ## Insider Tips
 
-For photographers, Burg Hoheneybach presents numerous opportunities for striking images. Early morning or late afternoon light can create dramatic effects on the castle’s stone facades. To avoid crowds, consider visiting during weekdays or off-peak seasons when fewer tourists are likely to be present.
+For photographers, Burg Hoheneybach presents numerous opportunities for striking images. Early morning or late afternoon light can create dramatic effects on the castle's stone facades. To avoid crowds, consider visiting during weekdays or off-peak seasons when fewer tourists are likely to be present.
 
 ## Practical Information
 
-When planning your visit to Burg Hoheneybach, it’s advisable to bring comfortable walking shoes, as exploring the castle grounds may involve uneven surfaces. Seasonal considerations are also important; dress in layers to accommodate changing weather conditions, especially if you visit during transitional seasons like spring or autumn.
+When planning your visit to Burg Hoheneybach, it's advisable to bring comfortable walking shoes, as exploring the castle grounds may involve uneven surfaces. Seasonal considerations are also important; dress in layers to accommodate changing weather conditions, especially if you visit during transitional seasons like spring or autumn.
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ A visit to Burg Hoheneybach typically takes a few hours, allowing time to explor
 Photography is generally permitted, but check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Information regarding guided tours may vary, so it’s advisable to check the official website for current offerings.
+Information regarding guided tours may vary, so it's advisable to check the official website for current offerings.
 
 ### What's the best time to visit?
 Spring and autumn are often ideal for comfortable weather, but any time of year can be enjoyable depending on personal preferences.

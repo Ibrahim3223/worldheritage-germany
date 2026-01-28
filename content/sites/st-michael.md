@@ -46,7 +46,7 @@ The church's layout typically allows for a spacious nave, offering a sense of op
 
 ## Visiting Information
 
-Visiting St. Michael is an enriching experience, allowing guests to immerse themselves in the church's history and architecture. To reach the site, various modes of transportation are available. Visitors can opt for public transport, including buses or trams, which are well-connected to the church’s location. Alternatively, walking or cycling in this picturesque area can provide an enjoyable way to approach the site.
+Visiting St. Michael is an enriching experience, allowing guests to immerse themselves in the church's history and architecture. To reach the site, various modes of transportation are available. Visitors can opt for public transport, including buses or trams, which are well-connected to the church's location. Alternatively, walking or cycling in this picturesque area can provide an enjoyable way to approach the site.
 
 Check the official website for current information regarding hours of operation and admission prices. It is advisable to allocate sufficient time to explore the church and its surroundings, allowing for both a leisurely visit and moments of contemplation.
 

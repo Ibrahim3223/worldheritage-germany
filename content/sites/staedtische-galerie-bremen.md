@@ -68,7 +68,7 @@ While visiting the Städtische Galerie Bremen, there are several nearby attracti
 
 4. **Marktplatz**: The central marketplace is home to the UNESCO-listed Bremen Town Hall and the Roland Statue, both of which are essential landmarks and represent the city's heritage.
 
-5. **Übersee-Museum Bremen**: This museum focuses on the themes of trade and cultural exchange, offering insights into Bremen’s historical connections with various regions around the world.
+5. **Übersee-Museum Bremen**: This museum focuses on the themes of trade and cultural exchange, offering insights into Bremen's historical connections with various regions around the world.
 
 ## Insider Tips
 

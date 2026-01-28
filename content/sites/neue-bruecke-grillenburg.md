@@ -52,7 +52,7 @@ Visitors should come prepared for outdoor conditions, as the area around the bri
 
 1. **Tharandt Forest**: A sprawling natural reserve that offers numerous hiking trails and opportunities for outdoor activities. This forest is a favorite among nature enthusiasts and provides a scenic backdrop to the bridge.
 
-2. **Grillenburg Castle**: A historical site nearby that showcases the region's medieval heritage. The castle grounds are often open to the public, offering tours and insights into the area’s history.
+2. **Grillenburg Castle**: A historical site nearby that showcases the region's medieval heritage. The castle grounds are often open to the public, offering tours and insights into the area's history.
 
 3. **Pillnitz Palace and Park**: Located a short distance away, this site features stunning gardens and an impressive palace complex that reflects the architectural styles of different eras.
 

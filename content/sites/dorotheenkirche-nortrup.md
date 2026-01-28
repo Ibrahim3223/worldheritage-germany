@@ -38,7 +38,7 @@ The architectural style of Dorotheenkirche reflects the prevailing design trends
 
 Inside, visitors can anticipate a serene atmosphere, often enhanced by soft lighting and the presence of religious artifacts. These elements contribute to a contemplative environment, inviting individuals to pause and reflect, whether they are there for worship or simply to appreciate the architecture.
 
-The church’s design likely also accommodates various liturgical functions, allowing for a seamless flow of community life within its walls. The use of space in church buildings typically emphasizes both communal gathering and individual reflection, ensuring that visitors can engage with the environment in a way that resonates with their personal experiences.
+The church's design likely also accommodates various liturgical functions, allowing for a seamless flow of community life within its walls. The use of space in church buildings typically emphasizes both communal gathering and individual reflection, ensuring that visitors can engage with the environment in a way that resonates with their personal experiences.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ To maximize your experience at Dorotheenkirche, consider the following insider t
 
 When preparing for your visit to Dorotheenkirche, keep the following practical considerations in mind:
 
-- **What to Bring**: Comfortable walking shoes are advisable, as you may wish to explore the surrounding area. Additionally, a camera can be useful for capturing the church’s architectural features.
+- **What to Bring**: Comfortable walking shoes are advisable, as you may wish to explore the surrounding area. Additionally, a camera can be useful for capturing the church's architectural features.
 
 - **Seasonal Considerations**: Weather can vary, so dressing in layers is recommended. If visiting during colder months, check the forecast and consider bringing a warm jacket.
 

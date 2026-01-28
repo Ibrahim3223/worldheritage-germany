@@ -104,6 +104,6 @@ Ticket purchasing options may be available online; please check the official web
 Facilities such as restrooms are commonly available, and you may find a café or tasting area within the brewery.
 
 ### What should I wear?
-Comfortable attire and shoes are recommended, especially if you plan to explore the surrounding area after your visit. Be mindful of the season’s weather conditions.
+Comfortable attire and shoes are recommended, especially if you plan to explore the surrounding area after your visit. Be mindful of the season's weather conditions.
 
 Visiting Altes Brauhaus offers not just a taste of traditional Bavarian brewing but also a deeper appreciation for the role of breweries in the social and cultural life of Kempten. Whether you're a beer enthusiast or a curious traveler, this heritage site promises an enriching experience.

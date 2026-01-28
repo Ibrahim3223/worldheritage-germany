@@ -54,7 +54,7 @@ The best time to experience the Weizenglasmuseum is during the shoulder seasons 
 
 While visiting the Weizenglasmuseum, consider exploring some of the nearby attractions that Nuremberg has to offer:
 
-1. **Nuremberg Castle** - A historic fortress that provides insight into the city’s past and offers stunning views of the surrounding area.
+1. **Nuremberg Castle** - A historic fortress that provides insight into the city's past and offers stunning views of the surrounding area.
 2. **Documentation Center Nazi Party Rally Grounds** - This museum provides in-depth historical context regarding the Nazi regime and its impact on Nuremberg.
 3. **Albrecht Dürer House** - The former residence of the famous Renaissance artist Albrecht Dürer, showcasing his life and works.
 4. **St. Lorenz Church** - A beautiful Gothic church known for its striking architecture and significant historical value.
@@ -66,7 +66,7 @@ For those planning to visit the Weizenglasmuseum, here are some insider tips to 
 
 - **Photography**: Always check the museum's policy on photography. While some exhibits may allow photos, others may have restrictions in place to protect the artwork.
 - **Crowd Avoidance**: To avoid crowds, consider visiting during the early hours after opening or later in the afternoon before closing. Weekdays are generally quieter than weekends.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about exhibits or techniques; their insights can enrich your understanding and appreciation of the displays.
+- **Engage with Staff**: Don't hesitate to ask museum staff about exhibits or techniques; their insights can enrich your understanding and appreciation of the displays.
 
 ## Practical Information
 

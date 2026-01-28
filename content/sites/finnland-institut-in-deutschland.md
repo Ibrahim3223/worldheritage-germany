@@ -70,7 +70,7 @@ To make the most of your visit to the Finnland-Institut in Deutschland, consider
   
 - **Crowd Avoidance**: Visiting on weekdays, particularly in the mornings, can help you avoid larger crowds and provide a more personal experience.
 
-- **Engagement**: Don’t hesitate to ask staff about upcoming events or workshops. They can provide insights that enhance your understanding of Finnish culture.
+- **Engagement**: Don't hesitate to ask staff about upcoming events or workshops. They can provide insights that enhance your understanding of Finnish culture.
 
 ## Practical Information
 

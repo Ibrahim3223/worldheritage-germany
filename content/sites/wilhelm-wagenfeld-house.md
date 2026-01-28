@@ -48,7 +48,7 @@ Notable features of the museum include interactive displays that invite visitors
 
 ## Visiting Information
 
-When planning your visit to the Wilhelm Wagenfeld House, it’s essential to check the official website for current information regarding hours and admission prices as they may vary throughout the year. The museum is conveniently located in the Mitte district, making it accessible via various modes of public transportation. Visitors can reach the site easily by using the city’s efficient tram and bus networks.
+When planning your visit to the Wilhelm Wagenfeld House, it's essential to check the official website for current information regarding hours and admission prices as they may vary throughout the year. The museum is conveniently located in the Mitte district, making it accessible via various modes of public transportation. Visitors can reach the site easily by using the city's efficient tram and bus networks.
 
 The museum is designed to accommodate visitors of all ages and backgrounds. Expect to spend around 1 to 2 hours exploring the exhibits, which include both permanent collections and rotating exhibitions. For those particularly interested in design, allocating additional time to engage with the interactive displays and take part in workshops or events may enhance the experience.
 
@@ -96,7 +96,7 @@ Seasonal considerations may affect your visit; check the official website for an
 Generally, visitors spend about 1 to 2 hours at the Wilhelm Wagenfeld House, although design enthusiasts may wish to stay longer to fully appreciate the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit. It’s recommended to check the museum’s guidelines upon arrival.
+Photography policies may vary by exhibit. It's recommended to check the museum's guidelines upon arrival.
 
 ### Are there guided tours?
 The Wilhelm Wagenfeld House may offer guided tours on specific occasions. Check the official website for availability and schedules.

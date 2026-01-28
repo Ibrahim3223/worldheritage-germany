@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-In the heart of Berlin's Bezirk Mitte district lies the Beisheim Center, an architectural ensemble that encapsulates contemporary design and urban functionality. This striking structure not only serves as a significant business hub but also contributes to the dynamic architectural landscape of the city. Its location in Germany’s vibrant capital highlights its importance as a center for commerce and cultural exchange. As a visitor, you will find yourself immersed in the modernity that Berlin is known for, while also appreciating the thoughtful design that this building embodies.
+In the heart of Berlin's Bezirk Mitte district lies the Beisheim Center, an architectural ensemble that encapsulates contemporary design and urban functionality. This striking structure not only serves as a significant business hub but also contributes to the dynamic architectural landscape of the city. Its location in Germany's vibrant capital highlights its importance as a center for commerce and cultural exchange. As a visitor, you will find yourself immersed in the modernity that Berlin is known for, while also appreciating the thoughtful design that this building embodies.
 
 The Beisheim Center's architectural significance is amplified by its proximity to key landmarks and its role in the daily life of the city. It stands as a representation of modern urban architecture, showcasing innovative design principles and the integration of functional spaces. Whether you're an architecture enthusiast or simply passing through, the Beisheim Center offers a glimpse into the contemporary architectural narrative that defines Berlin today.
 
@@ -44,7 +44,7 @@ The Beisheim Center is a notable example of modern architecture, characterized b
 
 Inside, the layout is designed for efficiency and collaboration, providing spaces that can cater to a range of activities from corporate meetings to casual interactions. The integration of green spaces within the complex enhances the urban experience, providing a refreshing contrast to the concrete surroundings. 
 
-Notable features include the attention to detail in both the exterior and interior design, which reflects the architectural philosophies of modernism and sustainability. Visitors can observe how the building integrates into its urban environment, creating a seamless transition between private and public spaces. The overall design encourages movement and interaction, making it a vibrant part of Berlin’s architectural narrative.
+Notable features include the attention to detail in both the exterior and interior design, which reflects the architectural philosophies of modernism and sustainability. Visitors can observe how the building integrates into its urban environment, creating a seamless transition between private and public spaces. The overall design encourages movement and interaction, making it a vibrant part of Berlin's architectural narrative.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ When planning your visit, consider allocating approximately one to two hours to 
 
 The Beisheim Center is ideally located near several key attractions that enrich your visit to Berlin:
 
-1. **Potsdamer Platz**: Just a short walk away, this iconic square is a vibrant hub of entertainment, shopping, and dining, and a symbol of Berlin’s modernity.
+1. **Potsdamer Platz**: Just a short walk away, this iconic square is a vibrant hub of entertainment, shopping, and dining, and a symbol of Berlin's modernity.
 
 2. **Berlin Wall Memorial**: A significant historical site, this memorial offers insights into the city's divided past and is located within easy reach of the center.
 

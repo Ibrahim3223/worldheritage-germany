@@ -84,7 +84,7 @@ These attractions enhance the experience of visiting Christkönig-Kirche, allowi
 
 When visiting Christkönig-Kirche, consider these insider tips to enhance your experience:
 
-- **Photography**: While photography may be allowed in many churches, it’s best to be respectful of the space and other visitors. Check for any signage regarding photography restrictions before snapping any pictures.
+- **Photography**: While photography may be allowed in many churches, it's best to be respectful of the space and other visitors. Check for any signage regarding photography restrictions before snapping any pictures.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider going during weekdays or outside of peak service times. Early mornings or later afternoons may also provide a more tranquil atmosphere.
 
@@ -94,11 +94,11 @@ When visiting Christkönig-Kirche, consider these insider tips to enhance your e
 
 Before visiting Christkönig-Kirche, here are some practical considerations to keep in mind:
 
-- **What to Bring**: It’s advisable to wear comfortable shoes, especially if you plan to explore nearby attractions. A light jacket might be useful, as temperatures can vary throughout the day.
+- **What to Bring**: It's advisable to wear comfortable shoes, especially if you plan to explore nearby attractions. A light jacket might be useful, as temperatures can vary throughout the day.
 
 - **Seasonal Considerations**: The church may host special services or events during particular seasons, such as Christmas or Easter. Check the official website for any scheduled festivities that could enhance your visit.
 
-- **Respectful Attire**: When visiting places of worship, it is customary to dress modestly. Consider wearing attire that reflects the setting’s reverence.
+- **Respectful Attire**: When visiting places of worship, it is customary to dress modestly. Consider wearing attire that reflects the setting's reverence.
 
 By keeping these practical tips in mind, visitors can ensure a respectful and enjoyable experience at Christkönig-Kirche and its surroundings.
 
@@ -113,7 +113,7 @@ Photography policies may vary. It is advisable to check for any posted guideline
 ### Are there guided tours?
 Information regarding guided tours may not be available. Visitors are encouraged to check the official website for any scheduled tours or events.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 Weekdays or early mornings may provide a quieter experience. However, attending during a service or local event can offer a more vibrant atmosphere.
 
 ### Is it wheelchair accessible?

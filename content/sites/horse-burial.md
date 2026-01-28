@@ -47,7 +47,7 @@ Expect to spend a few hours at the site to fully absorb the historical context a
 While visiting the Horse Burial site, there are several nearby attractions that can enhance your experience:
 
 1. **Pasewalk Town Center**: Explore the charming streets of Pasewalk, known for its historical architecture and quaint shops.
-2. **St. Mary’s Church**: A beautiful church with a rich history, offering insight into the local culture and architecture.
+2. **St. Mary's Church**: A beautiful church with a rich history, offering insight into the local culture and architecture.
 3. **Nature Reserves**: The surrounding area is home to various nature reserves, perfect for hiking and enjoying the local flora and fauna.
 4. **Uckermark Region**: A larger area that showcases picturesque landscapes and quaint villages, ideal for exploring the German countryside.
 5. **Archaeological Museum**: A short distance away, this museum offers further insights into the archaeological history of the region, featuring various artifacts and exhibitions.

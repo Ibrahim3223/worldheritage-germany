@@ -80,7 +80,7 @@ To enhance your visit to the Herbert-Gerisch-Stiftung, consider the following in
 
 - **Dress Comfortably**: Wear comfortable shoes, as you will be walking through the garden, often on uneven paths. Dress in layers to accommodate changes in weather, especially if you plan to enjoy the outdoor space.
 
-- **Bring a Sketchbook**: If you’re inclined toward creativity, consider bringing a sketchbook to capture your impressions of the sculptures. The serene environment is perfect for artistic inspiration.
+- **Bring a Sketchbook**: If you're inclined toward creativity, consider bringing a sketchbook to capture your impressions of the sculptures. The serene environment is perfect for artistic inspiration.
 
 ## Practical Information
 

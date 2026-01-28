@@ -64,7 +64,7 @@ Bethlehemkirchplatz's central location in Bezirk Mitte makes it a convenient sta
 
 3. **Potsdamer Platz**: Just a short distance away, this bustling square features modern architecture, shopping, and entertainment options, making it a popular destination for both locals and tourists.
 
-4. **Brandenburg Gate**: A symbol of Berlin’s reunification, the Brandenburg Gate is a must-see landmark that is not far from the square, providing a deeper insight into the city’s history.
+4. **Brandenburg Gate**: A symbol of Berlin's reunification, the Brandenburg Gate is a must-see landmark that is not far from the square, providing a deeper insight into the city's history.
 
 5. **Tiergarten**: This expansive park offers a natural retreat from the urban landscape, perfect for a leisurely walk or a picnic. The park is accessible from various points around the Mitte district.
 
@@ -84,7 +84,7 @@ When planning your visit to Bethlehemkirchplatz, keep the following practical co
 
 - **What to Bring**: A comfortable pair of shoes is essential for walking around the square and nearby attractions. Consider bringing a camera, a water bottle, and perhaps a light jacket, as weather in Berlin can be unpredictable.
 
-- **Seasonal Considerations**: Each season offers a different experience in Berlin. Spring and summer are ideal for enjoying outdoor activities, while autumn provides a stunning backdrop of colorful foliage. Winter may bring a different charm, with possible holiday decorations enhancing the square’s ambiance.
+- **Seasonal Considerations**: Each season offers a different experience in Berlin. Spring and summer are ideal for enjoying outdoor activities, while autumn provides a stunning backdrop of colorful foliage. Winter may bring a different charm, with possible holiday decorations enhancing the square's ambiance.
 
 ## Frequently Asked Questions
 

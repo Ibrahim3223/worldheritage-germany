@@ -82,7 +82,7 @@ Each of these nearby attractions complements the visit to Burg Neckarhausen, off
 
 For optimal photography opportunities, consider visiting Burg Neckarhausen during the golden hours of early morning or late afternoon. The soft light during these times enhances the castle's features and creates a picturesque backdrop. Additionally, try to avoid weekends or public holidays when local tourism peaks, as this can lead to larger crowds. Visiting on a weekday can provide a more serene experience.
 
-While exploring the castle grounds, take your time to absorb the atmosphere and appreciate the details of the architecture. Don’t hesitate to engage with any informational signage available, as they can offer valuable insights into the history and significance of the site.
+While exploring the castle grounds, take your time to absorb the atmosphere and appreciate the details of the architecture. Don't hesitate to engage with any informational signage available, as they can offer valuable insights into the history and significance of the site.
 
 ## Practical Information
 

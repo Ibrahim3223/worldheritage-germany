@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Andreaskapelle, located in the charming region of Passau, Germany, is a chapel that captures the essence of spiritual devotion and architectural grace. As you approach this serene structure, you’ll find it not only serves as a place of worship but also as a significant landmark within the local community. The chapel's location invites visitors to explore the rich cultural and historical narratives that the region has to offer, making it a worthwhile stop on any travel itinerary. 
+The Andreaskapelle, located in the charming region of Passau, Germany, is a chapel that captures the essence of spiritual devotion and architectural grace. As you approach this serene structure, you'll find it not only serves as a place of worship but also as a significant landmark within the local community. The chapel's location invites visitors to explore the rich cultural and historical narratives that the region has to offer, making it a worthwhile stop on any travel itinerary. 
 
 The chapel provides a tranquil atmosphere, ideal for contemplation and reflection. Visitors are drawn here not only to appreciate its architectural features but also to connect with the spiritual ambiance that permeates the space. The Andreaskapelle stands as a reminder of the enduring significance of faith in the lives of the local people and the historical layers that have shaped this picturesque area over the years.
 
@@ -61,7 +61,7 @@ While in Passau, consider exploring these nearby attractions that complement you
 1. **St. Stephen's Cathedral**: A striking example of Baroque architecture, this grand cathedral is famous for its impressive organ and stunning interiors.
 2. **Veste Oberhaus**: This fortress offers panoramic views of Passau and houses a museum detailing the region's history and culture.
 3. **The confluence of rivers**: The meeting point of the Danube, Inn, and Ilz rivers is a picturesque spot perfect for leisurely walks and enjoying the scenery.
-4. **Passau’s Old Town**: Wander through the cobblestone streets filled with shops, cafes, and historical buildings that reflect the city’s rich heritage.
+4. **Passau's Old Town**: Wander through the cobblestone streets filled with shops, cafes, and historical buildings that reflect the city's rich heritage.
 5. **Museum of Modern Art**: An engaging collection of contemporary art and exhibitions, offering a glimpse into the modern artistic landscape.
 
 ## Insider Tips
@@ -70,7 +70,7 @@ When visiting the Andreaskapelle, consider these insider tips for an enhanced ex
 
 - **Photography**: While photography is generally permitted, be mindful of the sacred nature of the space and the presence of worshippers. Capturing the chapel's interior can provide lasting memories, but always respect the environment.
 - **Avoid Crowds**: Early mornings or weekdays are typically less crowded, allowing for a more peaceful visit. If you prefer a quieter experience, plan accordingly.
-- **Engage with Locals**: The community surrounding the Andreaskapelle is often welcoming. Engage with locals to gain insights into the chapel’s significance and any upcoming events or services.
+- **Engage with Locals**: The community surrounding the Andreaskapelle is often welcoming. Engage with locals to gain insights into the chapel's significance and any upcoming events or services.
 
 ## Practical Information
 

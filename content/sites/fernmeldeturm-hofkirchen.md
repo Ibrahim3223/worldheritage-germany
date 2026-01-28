@@ -64,7 +64,7 @@ While the Fernmeldeturm Hofkirchen is a notable destination in its own right, th
 
 3. **Local Parks and Nature Trails** - The surrounding area includes several parks and walking trails, perfect for those who enjoy outdoor activities and wish to experience the natural beauty of the region.
 
-4. **Regional Museums** - Look for local museums that showcase the history and culture of Laberweinting, providing deeper insights into the area’s heritage.
+4. **Regional Museums** - Look for local museums that showcase the history and culture of Laberweinting, providing deeper insights into the area's heritage.
 
 5. **Cycling Routes** - The region offers various cycling paths that allow visitors to enjoy the scenic landscapes while engaging in an active exploration of the area.
 
@@ -72,7 +72,7 @@ While the Fernmeldeturm Hofkirchen is a notable destination in its own right, th
 
 When visiting the Fernmeldeturm Hofkirchen, there are a few insider tips to enhance your experience. For photography enthusiasts, early morning or late afternoon light often provides the best conditions for capturing the tower and its surroundings. Be mindful of the tower's height, as certain angles may create unique perspectives that highlight its architectural design.
 
-To avoid crowds, it’s advisable to visit on weekdays or during off-peak hours. This will not only provide a more tranquil experience but also allow for better opportunities to take photographs without interruptions.
+To avoid crowds, it's advisable to visit on weekdays or during off-peak hours. This will not only provide a more tranquil experience but also allow for better opportunities to take photographs without interruptions.
 
 ## Practical Information
 

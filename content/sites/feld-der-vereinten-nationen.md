@@ -68,7 +68,7 @@ While visiting Feld der Vereinten Nationen, consider exploring additional sites 
 
 4. **The Old Market Square (Alter Markt)**: A central location in Magdeburg, the Old Market Square is surrounded by historical buildings and offers a vibrant atmosphere with shops and cafes.
 
-5. **Museum of Cultural History**: This museum provides insight into the local history of Magdeburg, with exhibitions that delve into various aspects of the region’s past.
+5. **Museum of Cultural History**: This museum provides insight into the local history of Magdeburg, with exhibitions that delve into various aspects of the region's past.
 
 ## Insider Tips
 
@@ -103,7 +103,7 @@ Check the official website for current information regarding accessibility optio
 Entry to Feld der Vereinten Nationen is free, so there are no tickets to purchase.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly and check the official website for the latest information on available amenities.
+Facilities may be limited, so it's advisable to plan accordingly and check the official website for the latest information on available amenities.
 
 ### What should I wear?
 Comfortable and respectful clothing is recommended, particularly if you plan to walk around the cemetery for an extended period. 

@@ -28,7 +28,7 @@ image_srcset:
 
 ## Overview
 
-Messel Pit, located in the Darmstadt-Dieburg region of Germany, is a significant geological and paleontological site that holds an essential place in our understanding of the Earth’s history. This former quarry, situated near the village of Messel, is renowned for its well-preserved fossils dating back approximately 50 million years, providing a remarkable glimpse into the Eocene epoch. The site is recognized as a UNESCO World Heritage Site, attracting researchers, students, and visitors interested in the fields of geology and paleontology.
+Messel Pit, located in the Darmstadt-Dieburg region of Germany, is a significant geological and paleontological site that holds an essential place in our understanding of the Earth's history. This former quarry, situated near the village of Messel, is renowned for its well-preserved fossils dating back approximately 50 million years, providing a remarkable glimpse into the Eocene epoch. The site is recognized as a UNESCO World Heritage Site, attracting researchers, students, and visitors interested in the fields of geology and paleontology.
 
 The Messel Pit is not just a treasure trove for scientists; it is also a place of intrigue for anyone curious about the evolution of life on Earth. The fossil discoveries here include an array of species, from ancient mammals to plants, and even early representatives of modern groups such as bats and whales. This unique site invites exploration and study, promising an enriching experience for all who visit.
 
@@ -36,7 +36,7 @@ The Messel Pit is not just a treasure trove for scientists; it is also a place o
 
 The historical significance of Messel Pit is deeply intertwined with the study of paleontology and the evolution of life. Once an active quarry, it began operations in the early 20th century, revealing layers of sediment that would eventually become a rich source of fossils. The importance of this geotope became evident when researchers recognized that the site offered a rare continuous fossil record from the Eocene epoch, a time characterized by significant climatic changes and the rise of numerous mammalian species.
 
-One of the most notable finds at Messel Pit is the fossil of the Messel whale, a primitive ancestor of today’s whales, which provides crucial insights into the adaptation of mammals to aquatic life. Additionally, the site has yielded fossils of various reptiles, amphibians, and birds, along with plant remains that paint a picture of the lush, subtropical environment that existed millions of years ago.
+One of the most notable finds at Messel Pit is the fossil of the Messel whale, a primitive ancestor of today's whales, which provides crucial insights into the adaptation of mammals to aquatic life. Additionally, the site has yielded fossils of various reptiles, amphibians, and birds, along with plant remains that paint a picture of the lush, subtropical environment that existed millions of years ago.
 
 The Messel Pit has served as a crucial location for scientific research, fostering collaborations among paleontologists and prompting extensive studies that have influenced our understanding of evolutionary biology. Its designation as a UNESCO World Heritage Site underscores its global significance, marking it as a site of exceptional universal value for both science and education.
 

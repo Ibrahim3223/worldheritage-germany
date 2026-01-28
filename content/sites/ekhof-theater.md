@@ -52,7 +52,7 @@ Visiting Ekhof-Theater provides an opportunity to experience both the historical
 
 Transportation to Ekhof-Theater is convenient, with various options available for reaching Gotha. The city is accessible by train and bus, making it easy for travelers to arrive from nearby towns or larger cities. Once in Gotha, the palace and theatre are within walking distance from the city center, allowing visitors to explore the charming streets and local attractions.
 
-To ensure an enriching experience, check the official website for current information regarding opening hours and ticket prices. Guided tours may be available, offering deeper insights into the theatre’s history and architectural features. Visitors should allocate sufficient time to explore both the theatre and the surrounding palace grounds, as well as to enjoy any scheduled performances.
+To ensure an enriching experience, check the official website for current information regarding opening hours and ticket prices. Guided tours may be available, offering deeper insights into the theatre's history and architectural features. Visitors should allocate sufficient time to explore both the theatre and the surrounding palace grounds, as well as to enjoy any scheduled performances.
 
 For the best experience, consider visiting during the theatre's event season, when performances are regularly held. This not only allows for a glimpse into the vibrant cultural scene but also enhances the overall atmosphere of the theatre.
 
@@ -62,7 +62,7 @@ Ekhof-Theater is situated within a rich cultural landscape, with several notewor
 
 1. **Friedenstein Palace**: This stunning palace complex houses museums, art collections, and beautiful gardens, providing visitors with ample opportunities to explore the art and history of the region.
 
-2. **Gotha's City Center**: A stroll through the city center reveals charming architecture, quaint shops, and local cafes, perfect for experiencing the everyday life of Gotha’s residents.
+2. **Gotha's City Center**: A stroll through the city center reveals charming architecture, quaint shops, and local cafes, perfect for experiencing the everyday life of Gotha's residents.
 
 3. **Duke's Garden (Hortus Franciscus)**: Located near the palace, this meticulously landscaped garden serves as a peaceful retreat for visitors, featuring a variety of plants and serene walking paths.
 

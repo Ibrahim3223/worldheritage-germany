@@ -40,11 +40,11 @@ In recent years, the growing awareness of environmental sustainability has made 
 
 ## Architecture and Features
 
-Flacher See is primarily characterized by its natural beauty, with no significant architectural structures directly associated with the lake itself. The lake’s features include its calm waters, which reflect the surrounding greenery and sky, creating a picturesque setting for outdoor activities and relaxation. The shoreline is often lined with native vegetation, contributing to the lake's ecological health while offering habitats for local wildlife.
+Flacher See is primarily characterized by its natural beauty, with no significant architectural structures directly associated with the lake itself. The lake's features include its calm waters, which reflect the surrounding greenery and sky, creating a picturesque setting for outdoor activities and relaxation. The shoreline is often lined with native vegetation, contributing to the lake's ecological health while offering habitats for local wildlife.
 
 Visitors can explore the natural landscapes surrounding Flacher See, which may include walking trails and areas designated for wildlife observation. The tranquility of the lake is complemented by its ecological diversity, making it a haven for birdwatchers and nature enthusiasts eager to witness the area's wildlife in its natural habitat.
 
-While Flacher See may not feature man-made architectural elements, the natural scenery itself serves as a stunning backdrop for various recreational activities, from canoeing to fishing. The lake’s environment encourages a harmonious interaction between visitors and nature, promoting an appreciation for the local ecosystem.
+While Flacher See may not feature man-made architectural elements, the natural scenery itself serves as a stunning backdrop for various recreational activities, from canoeing to fishing. The lake's environment encourages a harmonious interaction between visitors and nature, promoting an appreciation for the local ecosystem.
 
 ## Visiting Information
 

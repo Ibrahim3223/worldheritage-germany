@@ -80,7 +80,7 @@ Seasonal considerations are important; during the winter months, the area can be
 A visit to the Steinbogenbrücke typically takes about an hour, allowing time for exploration and photography.
 
 ### Is photography allowed?
-Yes, photography is allowed and encouraged, especially to capture the bridge’s unique architectural features.
+Yes, photography is allowed and encouraged, especially to capture the bridge's unique architectural features.
 
 ### Are there guided tours?
 Currently, there are no organized guided tours specifically for the Steinbogenbrücke, but local visitor information centers may offer insights and resources.

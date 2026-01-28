@@ -62,7 +62,7 @@ While visiting the Village Church Petersdorf, there are several nearby attractio
    
 2. **Brandenburg Regional Park**: A short distance away, this park provides opportunities for outdoor activities such as walking and birdwatching, allowing visitors to appreciate the natural beauty of the region.
 
-3. **Historical Sites in Petersdorf**: Various local historical landmarks can provide insight into the area’s past, showcasing the architectural styles and community development over the years.
+3. **Historical Sites in Petersdorf**: Various local historical landmarks can provide insight into the area's past, showcasing the architectural styles and community development over the years.
 
 4. **Local Museums**: Small museums in the vicinity may offer exhibitions on local history, culture, and traditions, further enriching your understanding of the region.
 
@@ -72,7 +72,7 @@ While visiting the Village Church Petersdorf, there are several nearby attractio
 
 To make the most of your visit to the Village Church Petersdorf, consider the following tips:
 
-- **Photography**: Capture the church’s architecture from various angles, but be mindful of any potential restrictions regarding photography inside the church. It is advisable to ask for permission if you plan to take pictures during a service.
+- **Photography**: Capture the church's architecture from various angles, but be mindful of any potential restrictions regarding photography inside the church. It is advisable to ask for permission if you plan to take pictures during a service.
 
 - **Crowd Avoidance**: Weekdays, especially during the morning hours, may offer a quieter experience compared to weekends when community events are more likely to draw larger crowds.
 
@@ -90,7 +90,7 @@ When visiting the Village Church Petersdorf, be prepared with the following prac
 A visit typically takes about one to two hours, allowing sufficient time to explore the church and the surrounding area.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas of the church, but it’s best to check for signs or ask for permission, especially during services.
+Photography may be permitted in certain areas of the church, but it's best to check for signs or ask for permission, especially during services.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any special events that may include guided experiences.
@@ -105,7 +105,7 @@ Accessibility information is not specified; check the official website for detai
 For current information regarding admission fees and ticket purchasing, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Restroom availability and nearby cafes may vary; check the local area or the church’s website for specific amenities.
+Restroom availability and nearby cafes may vary; check the local area or the church's website for specific amenities.
 
 ### What should I wear?
 Modest clothing is recommended, especially if visiting during a service. Comfortable shoes are advisable for exploring the village.

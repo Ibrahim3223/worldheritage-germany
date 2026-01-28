@@ -40,7 +40,7 @@ Through exhibitions and educational programs, Mühlenmuseum Moisburg promotes a 
 
 ## Architecture and Features
 
-Mühlenmuseum Moisburg is housed in a historic water mill, which itself is a significant architectural feature. The structure exemplifies traditional German milling architecture, with its functional design tailored to harness the power of flowing water. The building's exterior showcases elements characteristic of the region’s vernacular architecture, blending practicality with aesthetic charm.
+Mühlenmuseum Moisburg is housed in a historic water mill, which itself is a significant architectural feature. The structure exemplifies traditional German milling architecture, with its functional design tailored to harness the power of flowing water. The building's exterior showcases elements characteristic of the region's vernacular architecture, blending practicality with aesthetic charm.
 
 Inside, the museum features various exhibits that detail the mechanics of milling. Visitors can observe the original milling equipment, including grinding stones and machinery that powered the mill. The layout is designed to provide an engaging experience, allowing guests to see the inner workings of the mill up close. Educational displays explain the milling process, from grain collection to flour production, emphasizing the craftsmanship involved.
 
@@ -50,7 +50,7 @@ Notable features of the museum include interactive elements that invite visitors
 
 Visiting Mühlenmuseum Moisburg is an enriching experience, and planning your trip can enhance your enjoyment. The museum is located in Moisburg, Lower Saxony, a region well-connected by various transport options. Whether driving or using public transport, visitors will find the museum accessible.
 
-Check the official website for current information regarding hours of operation and admission prices, as these details may change. Typically, visitors should allocate around 1 to 2 hours for a comprehensive exploration of the museum. It’s advisable to visit during weekdays to avoid larger crowds, especially during peak travel seasons.
+Check the official website for current information regarding hours of operation and admission prices, as these details may change. Typically, visitors should allocate around 1 to 2 hours for a comprehensive exploration of the museum. It's advisable to visit during weekdays to avoid larger crowds, especially during peak travel seasons.
 
 The museum is particularly enjoyable in spring and early autumn when the weather is mild, allowing visitors to appreciate the surrounding landscape. Consider checking for any special events or exhibitions that may be taking place during your visit, as these can provide additional insights into the cultural significance of the site.
 
@@ -58,9 +58,9 @@ The museum is particularly enjoyable in spring and early autumn when the weather
 
 While visiting Mühlenmuseum Moisburg, there are several nearby attractions worth exploring:
 
-1. **St. John’s Church**: A historic church located not far from the museum, offering a glimpse into the architectural styles and religious practices of the region.
+1. **St. John's Church**: A historic church located not far from the museum, offering a glimpse into the architectural styles and religious practices of the region.
    
-2. **Moisburg’s Old Town**: A charming area featuring traditional buildings and local shops, perfect for a leisurely stroll after visiting the museum.
+2. **Moisburg's Old Town**: A charming area featuring traditional buildings and local shops, perfect for a leisurely stroll after visiting the museum.
 
 3. **Buxtehude**: A nearby town known for its picturesque old town and beautiful parks, making it an excellent option for a day trip.
 

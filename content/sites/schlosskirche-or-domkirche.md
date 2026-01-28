@@ -28,13 +28,13 @@ image_srcset:
 
 The Schlosskirche, also known as the Domkirche, stands as a remarkable testament to Berlin's architectural and cultural heritage. This grand cathedral, a significant landmark in Germany's capital, is the second Berliner Dom and was constructed between 1747 and 1894. Recognized for its historical significance and majestic design, the cathedral draws visitors from around the world, eager to explore its intricate artistry and rich background.
 
-Situated in the heart of Berlin, the Schlosskirche serves not only as a place of worship but also as a cultural hub that reflects the city's evolving history. With its impressive dome and stunning interiors, the cathedral invites exploration and contemplation. As you enter its hallowed halls, you will be surrounded by the echoes of centuries, each corner speaking to the city’s past and its enduring spirit.
+Situated in the heart of Berlin, the Schlosskirche serves not only as a place of worship but also as a cultural hub that reflects the city's evolving history. With its impressive dome and stunning interiors, the cathedral invites exploration and contemplation. As you enter its hallowed halls, you will be surrounded by the echoes of centuries, each corner speaking to the city's past and its enduring spirit.
 
 Visiting the Schlosskirche offers an opportunity to delve into Berlin's artistic and ecclesiastical heritage, making it a must-see for history enthusiasts and casual travelers alike. Its architectural splendor, combined with its vibrant surroundings, ensures that every visit is a memorable experience.
 
 ## History and Significance
 
-The Schlosskirche, or Domkirche, holds a prominent place in Berlin's religious landscape. As the second Berliner Dom, it reflects the city's transitional phases through various historical epochs. The original structure was constructed in the mid-18th century, symbolizing the architectural ambitions of the time. Its completion in 1894 marked a significant moment in Berlin’s development, coinciding with the city's rapid industrial growth and urban expansion.
+The Schlosskirche, or Domkirche, holds a prominent place in Berlin's religious landscape. As the second Berliner Dom, it reflects the city's transitional phases through various historical epochs. The original structure was constructed in the mid-18th century, symbolizing the architectural ambitions of the time. Its completion in 1894 marked a significant moment in Berlin's development, coinciding with the city's rapid industrial growth and urban expansion.
 
 The cathedral has served as a focal point for various events in German history, including religious ceremonies, state functions, and public gatherings. It has been an enduring symbol of resilience, particularly during tumultuous periods such as the World Wars and the Cold War, when Berlin was divided. The cathedral's survival through these challenges speaks to its cultural and spiritual significance in the lives of Berliners.
 

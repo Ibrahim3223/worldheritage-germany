@@ -30,7 +30,7 @@ The Dresden Elbe Valley, a UNESCO World Heritage Site, is a cultural landscape t
 
 Situated in the heart of Saxony, the Dresden Elbe Valley encompasses a variety of cultural and natural elements that highlight the harmonious relationship between humanity and the environment. This area serves as a testimony to the evolution of the Dresden region and its historical significance as a center of power and culture. The valley not only showcases the beauty of its natural surroundings but also the architectural and artistic achievements that represent the Baroque and Renaissance periods.
 
-Exploring the Dresden Elbe Valley promises a unique experience that combines scenic beauty with cultural exploration. Whether you’re interested in history, art, or simply enjoying the tranquil landscapes, this cultural landscape offers something for everyone.
+Exploring the Dresden Elbe Valley promises a unique experience that combines scenic beauty with cultural exploration. Whether you're interested in history, art, or simply enjoying the tranquil landscapes, this cultural landscape offers something for everyone.
 
 ## History and Significance
 

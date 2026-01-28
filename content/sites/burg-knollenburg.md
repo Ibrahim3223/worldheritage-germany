@@ -89,7 +89,7 @@ Guided tours may be available, providing deeper insight into the castle's histor
 The warmer months are ideal for visiting, with pleasant weather enhancing the outdoor experience. Early mornings or late afternoons are best for fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary, so it’s advisable to check with the official website for specific information regarding wheelchair access.
+Accessibility features may vary, so it's advisable to check with the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for current ticket sales and availability.

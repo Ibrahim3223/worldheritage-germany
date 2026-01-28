@@ -99,7 +99,7 @@ Accessibility information is not specified, so it is recommended to check the of
 Ticket purchasing options may vary, so check the official website for the latest information on online ticket availability.
 
 ### Are there restrooms and cafes?
-Specific details about facilities are not mentioned, so it’s advisable to check the official website for the availability of restrooms and dining options.
+Specific details about facilities are not mentioned, so it's advisable to check the official website for the availability of restrooms and dining options.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended, especially if you plan to explore the outdoor areas of Hessenpark. 

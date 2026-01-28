@@ -74,7 +74,7 @@ When planning your visit to the Straßenbrücke über die Eisenbahn Lärchenberg
 
 ## Practical Information
 
-Before heading out to the Straßenbrücke über die Eisenbahn Lärchenbergweg, it’s good to be prepared. Here are some practical considerations:
+Before heading out to the Straßenbrücke über die Eisenbahn Lärchenbergweg, it's good to be prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are advisable, especially if you plan to explore the area surrounding the bridge. A camera can help capture the scenic views.
 
@@ -95,7 +95,7 @@ Information regarding guided tours may vary. Check local resources for any avail
 Daylight hours are best for visiting, with early mornings or late afternoons being ideal for avoiding crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details should be verified through local resources. It’s advisable to check the official website for specific information.
+Accessibility details should be verified through local resources. It's advisable to check the official website for specific information.
 
 ### Can I buy tickets online?
 Typically, no tickets are required for visiting the bridge. However, check the official website for any updates or changes.

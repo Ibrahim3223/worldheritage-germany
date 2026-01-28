@@ -60,7 +60,7 @@ Burg Neuhewen is strategically located close to several other attractions that c
 
 1. **Engen Town Center**: Explore the charming streets of Engen, known for its historical buildings and local shops. It's a perfect place to enjoy a meal or a snack after visiting the castle.
 
-2. **Hohentwiel Castle Ruins**: Located not far from Burg Neuhewen, these impressive ruins offer insight into another aspect of the region’s history and provide stunning views of the surrounding area.
+2. **Hohentwiel Castle Ruins**: Located not far from Burg Neuhewen, these impressive ruins offer insight into another aspect of the region's history and provide stunning views of the surrounding area.
 
 3. **Bodensee (Lake Constance)**: A short drive from Engen, this picturesque lake offers recreational activities, scenic walks, and the chance to experience the natural beauty of the region.
 

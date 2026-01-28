@@ -84,7 +84,7 @@ To enhance your visit to Hirsau Abbey, consider these insider tips:
 
 - **Crowd Avoidance**: Weekdays are typically less crowded than weekends, making them ideal for a more peaceful experience as you explore the abbey's grounds.
 
-- **Wear Comfortable Shoes**: The terrain may vary, so it’s advisable to wear comfortable footwear suited for walking and exploring uneven surfaces.
+- **Wear Comfortable Shoes**: The terrain may vary, so it's advisable to wear comfortable footwear suited for walking and exploring uneven surfaces.
 
 ## Practical Information
 
@@ -117,7 +117,7 @@ Check the official website for the most accurate information regarding accessibi
 For current information on ticket purchasing options, including online availability, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Consider bringing your own refreshments and checking the site for restroom availability.
+Facilities may be limited, so it's advisable to plan accordingly. Consider bringing your own refreshments and checking the site for restroom availability.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, particularly for exploring the site and walking through the surrounding areas.

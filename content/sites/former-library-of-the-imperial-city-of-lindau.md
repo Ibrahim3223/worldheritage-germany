@@ -32,7 +32,7 @@ Lindau itself is a charming town characterized by its fascinating architecture a
 
 ## History and Significance
 
-The Former Library of the Imperial City of Lindau has played a crucial role in the region’s scholarly activities. While specific dates and events may not be detailed, the library's establishment marked a pivotal moment in the promotion of education and literature within the city. Historically, it served as a center for knowledge, housing a wide array of texts that contributed to the intellectual climate of the time.
+The Former Library of the Imperial City of Lindau has played a crucial role in the region's scholarly activities. While specific dates and events may not be detailed, the library's establishment marked a pivotal moment in the promotion of education and literature within the city. Historically, it served as a center for knowledge, housing a wide array of texts that contributed to the intellectual climate of the time.
 
 The significance of the library extends beyond its physical collection. It is emblematic of the city's commitment to learning and cultural development, reflecting broader trends in European intellectual life. Lindau, being a key player in the region's commerce and trade, found in its library a means to cultivate a literate population capable of contributing to a vibrant civic life.
 

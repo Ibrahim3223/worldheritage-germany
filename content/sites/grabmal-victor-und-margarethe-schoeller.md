@@ -50,7 +50,7 @@ Visitors can expect to see carefully considered details that invite contemplatio
 
 Traveling to the Grabmal Victor und Margarethe Schoeller is straightforward, given its location in Düren. Visitors can reach the site via various modes of transport, including public transportation or private vehicles. Upon arrival, you will find a peaceful atmosphere conducive for reflection and exploration.
 
-Check the official website for current information regarding hours of operation and any potential entrance fees. It’s advisable to plan your visit during daylight hours to fully appreciate the architecture and surroundings. While specific time recommendations are not provided, a visit may typically take around an hour, allowing sufficient time for contemplation and exploration.
+Check the official website for current information regarding hours of operation and any potential entrance fees. It's advisable to plan your visit during daylight hours to fully appreciate the architecture and surroundings. While specific time recommendations are not provided, a visit may typically take around an hour, allowing sufficient time for contemplation and exploration.
 
 The best times to visit are often during the spring and autumn months when the weather is pleasant, enhancing the experience of being outdoors. The area surrounding the tomb may also provide a quiet respite for those looking to connect with nature or partake in personal reflection.
 

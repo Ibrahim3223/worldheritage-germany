@@ -94,7 +94,7 @@ When preparing for a visit to Alpspitze, keep the following practical considerat
 
 - **Seasonal Considerations**: Weather in the mountains can change rapidly, so be prepared for varying conditions. Layered clothing is advisable to adjust to temperature fluctuations throughout the day.
 
-- **Safety**: Always let someone know your plans before heading out on trails, especially if you intend to explore less-traveled routes. Carry a basic first-aid kit and familiarize yourself with the area’s terrain.
+- **Safety**: Always let someone know your plans before heading out on trails, especially if you intend to explore less-traveled routes. Carry a basic first-aid kit and familiarize yourself with the area's terrain.
 
 ## Frequently Asked Questions
 

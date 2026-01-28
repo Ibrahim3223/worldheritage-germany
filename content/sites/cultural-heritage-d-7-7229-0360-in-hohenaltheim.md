@@ -22,7 +22,7 @@ images:
 
 Cultural heritage D-7-7229-0360 in Hohenaltheim represents a significant fortification that reflects the historical landscape of the Donau-Ries region in Swabia, Bavaria, Germany. This site serves as an important cultural monument, offering insights into the architectural and strategic developments of the area. Visitors to Hohenaltheim are invited to explore not only the fortification itself but also the broader historical context that shaped its construction and use.
 
-Situated at the coordinates 48.775084282, 10.541812363, this fortification is an integral part of the local heritage, drawing attention from history enthusiasts and casual travelers alike. The site’s significance lies not only in its structural characteristics but also in its role within the community and its contribution to understanding regional defensive strategies throughout history. 
+Situated at the coordinates 48.775084282, 10.541812363, this fortification is an integral part of the local heritage, drawing attention from history enthusiasts and casual travelers alike. The site's significance lies not only in its structural characteristics but also in its role within the community and its contribution to understanding regional defensive strategies throughout history. 
 
 As you approach Hohenaltheim, the fortification stands as a remarkable reminder of the past, inviting exploration and contemplation. This guide aims to provide you with a thorough understanding of the site, from its historical importance and architectural features to practical visiting information, ensuring a fulfilling experience for all who venture to this notable cultural heritage site.
 

@@ -103,7 +103,7 @@ While specific accessibility details are not provided, public libraries typicall
 Ticket purchasing information can be found on the official website, so be sure to check before your visit.
 
 ### Are there restrooms and cafes?
-Facilities may be available, but it’s best to confirm on the official website or inquire at the library.
+Facilities may be available, but it's best to confirm on the official website or inquire at the library.
 
 ### What should I wear?
 Opt for comfortable clothing, especially if you plan to spend a significant amount of time exploring the library.

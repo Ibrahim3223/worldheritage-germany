@@ -46,7 +46,7 @@ Reaching St. Andreas is conveniently facilitated by the transport options availa
 
 Upon arrival, visitors can expect a serene environment, conducive to both exploration and reflection. It is recommended to allocate sufficient time to fully appreciate the church's architecture and ambiance. A visit typically lasts around one hour, allowing for a thorough exploration of the church and its surroundings.
 
-The best times to visit St. Andreas are during weekdays when the site is less crowded, offering a more intimate experience. Additionally, attending a service can provide unique insights into the community’s practices and traditions.
+The best times to visit St. Andreas are during weekdays when the site is less crowded, offering a more intimate experience. Additionally, attending a service can provide unique insights into the community's practices and traditions.
 
 ## Nearby Attractions
 
@@ -55,12 +55,12 @@ While visiting St. Andreas, consider exploring other notable sites in Weißenbur
 1. **Weißenburg Town Museum** - An insightful destination that highlights the local heritage and history through various exhibits.
 2. **The Roman Museum** - Showcasing the Roman history of Weißenburg, this museum provides a fascinating glimpse into the town's ancient past.
 3. **Burgruine Weißenburg** - The ruins of Weißenburg Castle offer a dramatic view into the region's medieval history and provide a great spot for a scenic walk.
-4. **St. Michael’s Church** - Another significant place of worship in the town, known for its architectural beauty and historical relevance.
+4. **St. Michael's Church** - Another significant place of worship in the town, known for its architectural beauty and historical relevance.
 5. **Local Parks** - The surrounding parks offer green spaces for relaxation and enjoyment, perfect for unwinding after exploring the area.
 
 ## Insider Tips
 
-When visiting St. Andreas, photography enthusiasts should be mindful of the church’s interior and exterior guidelines regarding photography. Early mornings or late afternoons provide optimal lighting for capturing the beauty of the church's architecture. To avoid crowds, consider visiting during weekdays or early in the day. This allows for a more personal experience and the opportunity to appreciate the tranquil atmosphere.
+When visiting St. Andreas, photography enthusiasts should be mindful of the church's interior and exterior guidelines regarding photography. Early mornings or late afternoons provide optimal lighting for capturing the beauty of the church's architecture. To avoid crowds, consider visiting during weekdays or early in the day. This allows for a more personal experience and the opportunity to appreciate the tranquil atmosphere.
 
 ## Practical Information
 
@@ -72,7 +72,7 @@ When planning a visit to St. Andreas, consider bringing a camera for capturing m
 A visit typically lasts around one hour, allowing ample time to explore the church and reflect on its significance.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check local guidelines when you arrive.
+Photography policies can vary, so it's best to check local guidelines when you arrive.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any special events that may be available during your visit.

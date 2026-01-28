@@ -28,7 +28,7 @@ In an increasingly diverse society, the mosque stands as a representation of coe
 
 The Mevlana-Moschee is more than just a structure; it symbolizes the growing presence of Islam in Germany, particularly in the context of the post-war migration waves. The mosque serves the spiritual needs of the Muslim community in Stadtprozelten, illustrating how immigrants have contributed to the cultural landscape of this region. 
 
-The mosque is named after the revered Sufi mystic Jalal ad-Din Muhammad Rumi, known as Mevlana, who is celebrated for his teachings on love, tolerance, and understanding across different cultures. This naming reflects the mosque’s mission to promote peace and coexistence amongst diverse groups. 
+The mosque is named after the revered Sufi mystic Jalal ad-Din Muhammad Rumi, known as Mevlana, who is celebrated for his teachings on love, tolerance, and understanding across different cultures. This naming reflects the mosque's mission to promote peace and coexistence amongst diverse groups. 
 
 While specific dates regarding its establishment are not available, the mosque plays a crucial role in the daily lives of many residents, providing a space for prayer, education, and community activities. It stands as a testament to the resilience of cultural identity amid the challenges of integration and adaptation faced by immigrant groups in Germany. 
 
@@ -60,7 +60,7 @@ While the Mevlana-Moschee is a destination in its own right, several nearby attr
    
 2. **The Main River**: Known for its scenic beauty, the river offers opportunities for walking or cycling along its banks, providing a peaceful natural setting.
 
-3. **Historical Sites in Lower Franconia**: The region is home to numerous historical landmarks, including castles and museums that showcase the area’s rich heritage.
+3. **Historical Sites in Lower Franconia**: The region is home to numerous historical landmarks, including castles and museums that showcase the area's rich heritage.
 
 4. **Nature Reserves**: Nearby parks and natural reserves offer opportunities for outdoor activities, including hiking and birdwatching, allowing visitors to connect with the local environment.
 

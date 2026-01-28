@@ -50,9 +50,9 @@ Visiting Twistringen station is straightforward, as it serves as a key local tra
 
 When planning a visit, consideration should be given to peak travel times, as the station may experience increased passenger traffic during these periods. The station is typically designed for efficiency, allowing travelers to navigate the space within a short timeframe. 
 
-While the duration of a visit may vary depending on individual travel plans, a brief stop to appreciate the station’s role in the community can be enriching. Expect to spend anywhere from a few minutes to an hour, particularly if connecting to other services or engaging with local attractions.
+While the duration of a visit may vary depending on individual travel plans, a brief stop to appreciate the station's role in the community can be enriching. Expect to spend anywhere from a few minutes to an hour, particularly if connecting to other services or engaging with local attractions.
 
-For those aiming to visit, early mornings or late afternoons may provide a quieter experience, allowing for a more leisurely observation of the station’s operations and its interactions with the local community.
+For those aiming to visit, early mornings or late afternoons may provide a quieter experience, allowing for a more leisurely observation of the station's operations and its interactions with the local community.
 
 ## Nearby Attractions
 

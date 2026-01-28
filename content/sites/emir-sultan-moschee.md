@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Emir-Sultan-Moschee in Darmstadt, Germany, is a striking architectural structure that serves as a significant cultural landmark in the region. As a mosque, it represents not only a place of worship but also a symbol of the Islamic community’s presence and heritage in Germany. This mosque invites visitors to explore its unique design and the values it embodies, making it a significant stop for those interested in cultural and religious architecture.
+The Emir-Sultan-Moschee in Darmstadt, Germany, is a striking architectural structure that serves as a significant cultural landmark in the region. As a mosque, it represents not only a place of worship but also a symbol of the Islamic community's presence and heritage in Germany. This mosque invites visitors to explore its unique design and the values it embodies, making it a significant stop for those interested in cultural and religious architecture.
 
 Situated in the heart of Darmstadt, the mosque stands out with its distinctive features and design elements that reflect Islamic architectural traditions. Its presence enriches the multicultural fabric of the city, showcasing the diverse influences that define modern German society. The Emir-Sultan-Moschee is not just a religious space; it is a place of reflection, dialogue, and community engagement, making it a noteworthy site for travelers seeking to understand the intersection of culture and faith.
 
@@ -91,7 +91,7 @@ A visit typically takes about an hour, allowing time to explore the mosque and r
 Photography policies may vary, so it's best to check with mosque staff upon arrival. Generally, respectful photography is permitted in non-prayer areas.
 
 ### Are there guided tours?
-Check the official website for information on guided tours that may enhance your understanding of the mosque’s history and architecture.
+Check the official website for information on guided tours that may enhance your understanding of the mosque's history and architecture.
 
 ### What's the best time to visit?
 Weekdays, particularly in the morning or late afternoon, tend to be less crowded and ideal for a tranquil experience.
@@ -103,7 +103,7 @@ Accessibility features may vary; check with the mosque for specific accommodatio
 Check the official website for details regarding any entry fees or ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly or visit nearby cafes for refreshments.
+Facilities may be limited, so it's advisable to plan accordingly or visit nearby cafes for refreshments.
 
 ### What should I wear?
 Modest clothing is required, with specific dress codes in place for those entering prayer areas.

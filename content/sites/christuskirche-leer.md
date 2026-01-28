@@ -42,7 +42,7 @@ The spiritual life of Leer and its surrounding areas is deeply intertwined with 
 
 Christuskirche presents an intriguing architectural profile that reflects the stylistic influences prevalent in church buildings of its time. The church's design features elements that may be characteristic of traditional church architecture, typically emphasizing verticality and grandeur, designed to inspire awe among worshippers and visitors.
 
-Upon entering Christuskirche, one can expect to find a space that is thoughtfully arranged to facilitate worship and reflection. The church’s interior may showcase stained glass windows that filter light into colorful patterns, creating a serene ambiance. Wooden pews, intricately carved features, and possibly a prominent altar contribute to the overall aesthetic appeal, inviting contemplation and reverence.
+Upon entering Christuskirche, one can expect to find a space that is thoughtfully arranged to facilitate worship and reflection. The church's interior may showcase stained glass windows that filter light into colorful patterns, creating a serene ambiance. Wooden pews, intricately carved features, and possibly a prominent altar contribute to the overall aesthetic appeal, inviting contemplation and reverence.
 
 While specific architectural details are not provided, it is common for churches of this type to incorporate both functional and decorative elements that enhance the worship experience. The layout is likely designed to accommodate congregational gatherings while also allowing for private moments of reflection.
 

@@ -32,7 +32,7 @@ Located in the picturesque town of Pfaffenhofen, the church is easily accessible
 
 ## History and Significance
 
-The Protestant Church of St. Lambertus has played a vital role in the religious history of Pfaffenhofen. Although specific dates and events related to its establishment may not be documented, the church’s significance extends beyond its physical structure. The Protestant Reformation, which swept through parts of Germany in the 16th century, led to a change in religious practices and beliefs, influencing the local population's spiritual life.
+The Protestant Church of St. Lambertus has played a vital role in the religious history of Pfaffenhofen. Although specific dates and events related to its establishment may not be documented, the church's significance extends beyond its physical structure. The Protestant Reformation, which swept through parts of Germany in the 16th century, led to a change in religious practices and beliefs, influencing the local population's spiritual life.
 
 The church reflects the evolution of Protestantism in the region, serving as a center for worship and community gatherings. Throughout the years, St. Lambertus has witnessed various cultural and historical shifts, adapting to the needs of its congregation while maintaining its core religious functions. The church stands as a symbol of resilience, reflecting the community's dedication to its faith amid changing societal dynamics.
 

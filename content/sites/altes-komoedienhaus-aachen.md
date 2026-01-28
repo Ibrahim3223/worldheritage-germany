@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Altes Komödienhaus, located in the city of Aachen, Germany, is a notable example of a school building that reflects the educational values and architectural practices of its time. Situated at coordinates 50.7754° N latitude and 6.08389° E longitude, this structure serves as a backdrop to the vibrant academic life in Aachen, a city known for its rich cultural history and its role as a center of learning. The building’s significance extends beyond its physical presence; it symbolizes the importance of education and community in the region.
+The Altes Komödienhaus, located in the city of Aachen, Germany, is a notable example of a school building that reflects the educational values and architectural practices of its time. Situated at coordinates 50.7754° N latitude and 6.08389° E longitude, this structure serves as a backdrop to the vibrant academic life in Aachen, a city known for its rich cultural history and its role as a center of learning. The building's significance extends beyond its physical presence; it symbolizes the importance of education and community in the region.
 
 As part of Aachen's urban landscape, the Altes Komödienhaus contributes to the city's character, which blends historical influences with modern educational needs. Visitors can appreciate not only its architectural features but also the role it plays in the educational landscape of the area. Whether you are an architecture enthusiast, a history buff, or simply curious about the local culture, the Altes Komödienhaus offers an insightful glimpse into the educational heritage of Aachen.
 
@@ -106,4 +106,4 @@ Specific amenities such as restrooms and cafes are not detailed; checking the of
 ### What should I wear?
 Dress comfortably and according to the weather conditions, especially if you plan to explore the surrounding areas.
 
-In conclusion, the Altes Komödienhaus in Aachen is not just a building but a significant part of the city’s educational heritage. Its historical and architectural value makes it worth a visit for anyone interested in the cultural landscape of Germany.
+In conclusion, the Altes Komödienhaus in Aachen is not just a building but a significant part of the city's educational heritage. Its historical and architectural value makes it worth a visit for anyone interested in the cultural landscape of Germany.

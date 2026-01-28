@@ -93,7 +93,7 @@ Typically, visitors may spend a few hours exploring Kieve Gord, allowing time to
 Yes, photography is permitted, but be respectful of any specific site rules regarding the use of flash or tripods.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which may enhance your understanding of the site’s history and significance.
+Check the official website for information on guided tours, which may enhance your understanding of the site's history and significance.
 
 ### What's the best time to visit?
 Spring and autumn generally provide mild weather, making these seasons ideal for a visit.

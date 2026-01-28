@@ -46,7 +46,7 @@ The architectural design of Burg Holtzbrinck is a compelling aspect of its allur
 
 Visitors to the castle may observe elements characteristic of medieval architecture, such as stone construction, narrow windows for defense, and large central halls that would have served as gathering places. The design reflects the dual purpose of fortification and habitation, where functionality meets aesthetics.
 
-In addition to its robust structure, the castle's layout often includes courtyards, where daily life would have unfolded, and perhaps gardens that provided not only sustenance but also a touch of beauty amidst the starkness of defensive architecture. The interplay of light and shadow within the castle’s walls may evoke a sense of historical depth, inviting visitors to imagine the lives that once filled these spaces.
+In addition to its robust structure, the castle's layout often includes courtyards, where daily life would have unfolded, and perhaps gardens that provided not only sustenance but also a touch of beauty amidst the starkness of defensive architecture. The interplay of light and shadow within the castle's walls may evoke a sense of historical depth, inviting visitors to imagine the lives that once filled these spaces.
 
 Overall, Burg Holtzbrinck is an example of the architectural ingenuity of its time, showcasing the balance between utility and elegance that defined many castles in medieval Europe.
 

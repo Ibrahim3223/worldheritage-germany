@@ -3,7 +3,7 @@ title: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 site_name: "Kronprinz-Rupprecht-Brunnen (Münchner Residenz)"
 date: 2026-01-26
 draft: false
-description: "In the heart of Munich’s Altstadt-Lehel district lies the Kronprinz-Rupprecht-Brunnen, a serene water well that adds a touch of elegance to the bustling..."
+description: "In the heart of Munich's Altstadt-Lehel district lies the Kronprinz-Rupprecht-Brunnen, a serene water well that adds a touch of elegance to the bustling..."
 region: "Bavaria"
 country: "Germany"
 heritage_type: "Fountain"
@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-In the heart of Munich’s Altstadt-Lehel district lies the Kronprinz-Rupprecht-Brunnen, a serene water well that adds a touch of elegance to the bustling urban landscape. This fountain, named after Crown Prince Rupert of Bavaria, serves not only as a functional water source but also as a significant cultural landmark that reflects the city’s architectural heritage. With its tranquil waters, the Kronprinz-Rupprecht-Brunnen invites visitors to pause amidst the vibrant life of the city, offering a moment of reflection in a historically rich environment. As you explore Munich, this fountain stands as a testament to both the artistic endeavors of its past and the city's ongoing relationship with public art and civic space.
+In the heart of Munich's Altstadt-Lehel district lies the Kronprinz-Rupprecht-Brunnen, a serene water well that adds a touch of elegance to the bustling urban landscape. This fountain, named after Crown Prince Rupert of Bavaria, serves not only as a functional water source but also as a significant cultural landmark that reflects the city's architectural heritage. With its tranquil waters, the Kronprinz-Rupprecht-Brunnen invites visitors to pause amidst the vibrant life of the city, offering a moment of reflection in a historically rich environment. As you explore Munich, this fountain stands as a testament to both the artistic endeavors of its past and the city's ongoing relationship with public art and civic space.
 
 ## History and Significance
 
 The Kronprinz-Rupprecht-Brunnen is emblematic of Munich's long-standing tradition of incorporating public art into its urban spaces. Although specific historical dates are not provided, the fountain represents a period in which cities across Europe began to recognize the importance of monumental fountains as both decorative and functional features. Throughout history, fountains have played a crucial role in urban planning, providing not only water but also gathering spaces for communities.
 
-The significance of the fountain is further underscored by its namesake, Crown Prince Rupert, a figure who symbolizes the Bavarian royal family's connection to the arts and sciences. The fountain serves as a reminder of Munich’s royal past and its commitment to enhancing the public realm through artistic expression. It is also a reflection of the Baroque and Neoclassical influences that shaped many of Munich's notable structures during the 18th and 19th centuries.
+The significance of the fountain is further underscored by its namesake, Crown Prince Rupert, a figure who symbolizes the Bavarian royal family's connection to the arts and sciences. The fountain serves as a reminder of Munich's royal past and its commitment to enhancing the public realm through artistic expression. It is also a reflection of the Baroque and Neoclassical influences that shaped many of Munich's notable structures during the 18th and 19th centuries.
 
 Residents and visitors alike appreciate the fountain for its aesthetic value and the sense of tranquility it provides amid the city's lively atmosphere. It encourages gatherings, contemplation, and a connection to Munich's rich cultural narrative.
 
@@ -99,7 +99,7 @@ While specific guided tours may not focus solely on the fountain, various city t
 Early morning or late afternoon tends to be the quietest times, offering a more peaceful experience.
 
 ### Is it wheelchair accessible?
-The fountain is located in a public space, which generally allows for wheelchair access, but it’s advisable to check specific accessibility details.
+The fountain is located in a public space, which generally allows for wheelchair access, but it's advisable to check specific accessibility details.
 
 ### Can I buy tickets online?
 As the fountain is situated in a public area, there is typically no need for tickets. However, check the official website for any updates or changes.

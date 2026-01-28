@@ -28,7 +28,7 @@ image_srcset:
 
 The Felix Nussbaum Haus, situated in the heart of Osnabrück, Germany, serves as a poignant tribute to the life and works of the German-Jewish artist Felix Nussbaum. The museum stands as a significant cultural institution dedicated to preserving Nussbaum's artistic legacy, which reflects the turbulence of his life during a tumultuous era marked by the rise of Nazism and the Holocaust. Visitors are invited to explore a collection that not only showcases his art but also delves into the broader historical and emotional context surrounding his experiences as a Jewish artist during World War II. 
 
-The museum’s location in Osnabrück is of particular importance, as it is where Nussbaum was born and spent part of his early life. This connection adds a layer of significance to the site, making it a compelling destination for art enthusiasts, historians, and anyone interested in the intersection of art and history. The Felix Nussbaum Haus promises an enriching experience, encouraging reflection on the power of art in times of adversity.
+The museum's location in Osnabrück is of particular importance, as it is where Nussbaum was born and spent part of his early life. This connection adds a layer of significance to the site, making it a compelling destination for art enthusiasts, historians, and anyone interested in the intersection of art and history. The Felix Nussbaum Haus promises an enriching experience, encouraging reflection on the power of art in times of adversity.
 
 ## History and Significance
 
@@ -40,11 +40,11 @@ The Felix Nussbaum Haus also serves as a cultural hub, hosting exhibitions, lect
 
 ## Architecture and Features
 
-Designed by the renowned architect Daniel Libeskind, the Felix Nussbaum Haus itself is a work of art. The building's distinctive angular forms and fragmented spaces reflect the dislocation experienced by Nussbaum throughout his life. The architecture is symbolic, with sharp angles and unconventional layouts that echo the turmoil of the artist’s experiences. 
+Designed by the renowned architect Daniel Libeskind, the Felix Nussbaum Haus itself is a work of art. The building's distinctive angular forms and fragmented spaces reflect the dislocation experienced by Nussbaum throughout his life. The architecture is symbolic, with sharp angles and unconventional layouts that echo the turmoil of the artist's experiences. 
 
 Visitors are greeted by a striking façade that invites curiosity, setting the tone for the exploration within. The interior spaces are designed to create a dynamic interaction between the exhibits and the visitors, allowing for a contemplative experience. Natural light plays a significant role in the exhibition areas, highlighting the vivid colors and emotional depth of Nussbaum's paintings.
 
-The museum houses a comprehensive collection of Nussbaum's works, including paintings, drawings, and sketches, many of which are displayed in thoughtfully curated exhibitions. Each exhibit is designed to provide context and insight into the artist’s life, offering a deeper understanding of the historical and emotional weight behind each piece. 
+The museum houses a comprehensive collection of Nussbaum's works, including paintings, drawings, and sketches, many of which are displayed in thoughtfully curated exhibitions. Each exhibit is designed to provide context and insight into the artist's life, offering a deeper understanding of the historical and emotional weight behind each piece. 
 
 In addition to the gallery spaces, the museum includes areas for educational activities and public events, reinforcing its role as a center for cultural engagement. The thoughtful integration of art and architecture at the Felix Nussbaum Haus creates an immersive environment for reflection and learning.
 
@@ -82,7 +82,7 @@ If you have a particular interest in art, it may be beneficial to join a guided 
 
 ## Practical Information
 
-When planning your visit to the Felix Nussbaum Haus, it’s useful to consider what to bring. Comfortable walking shoes are recommended, as the museum and its surroundings can invite exploration. A notebook or sketchbook might also be handy for those inspired by the art.
+When planning your visit to the Felix Nussbaum Haus, it's useful to consider what to bring. Comfortable walking shoes are recommended, as the museum and its surroundings can invite exploration. A notebook or sketchbook might also be handy for those inspired by the art.
 
 Seasonal considerations may influence your visit. Spring and summer can offer pleasant weather for exploring the outdoor areas, while fall and winter may provide a cozy atmosphere inside the museum. Regardless of the season, check the official website for any seasonal events or exhibitions that may enrich your experience.
 

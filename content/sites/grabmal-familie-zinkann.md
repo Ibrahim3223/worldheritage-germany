@@ -34,7 +34,7 @@ While the tomb may not be as widely recognized as some of the more prominent her
 
 The significance of the Grabmal Familie Zinkann lies in its cultural and historical context within Darmstadt. Tombs have long served as places of remembrance, reflecting the societal values and practices surrounding death and the afterlife. In the case of the Zinkann family, this tomb stands as a monument honoring their lineage and contributions to the region.
 
-Darmstadt itself has a rich history that intertwines with various influential families, and the Zinkanns are part of this narrative. The town has seen transformations over the years, influenced by art, science, and industry, contributing to its identity. The tomb represents not only the memory of those interred but also the broader story of Darmstadt’s development.
+Darmstadt itself has a rich history that intertwines with various influential families, and the Zinkanns are part of this narrative. The town has seen transformations over the years, influenced by art, science, and industry, contributing to its identity. The tomb represents not only the memory of those interred but also the broader story of Darmstadt's development.
 
 The architectural style and the inscriptions found on the tomb can provide insights into the era in which it was constructed, reflecting the artistic preferences and memorial practices of the time. While specific dates or events associated with the tomb may not be available, the significance of such monuments in commemorating familial ties and personal histories remains universally recognized.
 
@@ -88,7 +88,7 @@ If you plan to visit during warmer months, sun protection like sunscreen and a h
 Plan to spend approximately one hour at the site, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography is typically permitted, but it is important to be respectful of the site’s solemn atmosphere when taking pictures.
+Photography is typically permitted, but it is important to be respectful of the site's solemn atmosphere when taking pictures.
 
 ### Are there guided tours?
 Specific information regarding guided tours may not be available; it is advisable to check the official website for details.

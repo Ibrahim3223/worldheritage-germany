@@ -44,7 +44,7 @@ The Samendarre Laußnitz exemplifies functional design in bridge architecture. W
 
 Visitors may find the bridge's design to be a thoughtful integration of form and function. Many bridges are designed not only to support the weight of vehicles and pedestrians but also to harmonize with the surrounding landscape. The Samendarre Laußnitz is no different, likely featuring clean lines and a structure that complements the natural environment of Laußnitz.
 
-One of the remarkable aspects of bridges is their ability to serve as vantage points. Depending on the bridge’s height and design, visitors may find opportunities to appreciate the surroundings from a unique perspective. Such vantage points often enhance the experience of crossing the bridge, providing a moment of reflection on the passage of time and the engineering feats that facilitate movement across the landscape.
+One of the remarkable aspects of bridges is their ability to serve as vantage points. Depending on the bridge's height and design, visitors may find opportunities to appreciate the surroundings from a unique perspective. Such vantage points often enhance the experience of crossing the bridge, providing a moment of reflection on the passage of time and the engineering feats that facilitate movement across the landscape.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ When planning your visit to the Samendarre Laußnitz, consider the following tip
 
 ## Practical Information
 
-When preparing for your visit to the Samendarre Laußnitz, it’s essential to consider a few practical aspects:
+When preparing for your visit to the Samendarre Laußnitz, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended, especially if you plan to explore nearby attractions. A camera is also a must for capturing the bridge and the surrounding beauty.
 

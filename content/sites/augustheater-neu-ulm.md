@@ -99,7 +99,7 @@ The availability of guided tours may vary. Check the official website or inquire
 The best time to visit aligns with scheduled performances. Consider attending during off-peak times for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for specific information regarding wheelchair access.
+Accessibility features may be available, but it's advisable to check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Yes, tickets can typically be purchased online through the official website. Booking in advance is recommended for popular shows.

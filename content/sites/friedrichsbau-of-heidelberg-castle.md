@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Friedrichsbau of Heidelberg Castle is a remarkable example of Renaissance architecture, serving as the residential palace within the larger complex of Heidelberg Castle, perched majestically above the city of Heidelberg in Germany. This historic site, with its rich cultural significance, draws visitors from around the world, eager to explore a key piece of the region’s storied past. Known for its stunning design and historical importance, the Friedrichsbau provides an intimate glimpse into the lives of the electors who once resided there.
+The Friedrichsbau of Heidelberg Castle is a remarkable example of Renaissance architecture, serving as the residential palace within the larger complex of Heidelberg Castle, perched majestically above the city of Heidelberg in Germany. This historic site, with its rich cultural significance, draws visitors from around the world, eager to explore a key piece of the region's storied past. Known for its stunning design and historical importance, the Friedrichsbau provides an intimate glimpse into the lives of the electors who once resided there.
 
-Situated in the picturesque Neckar Valley, Heidelberg Castle is not just a palace; it’s a symbol of the city’s resilience and artistic heritage. The castle complex has witnessed centuries of change, destruction, and restoration, making it a significant landmark in German history. Visitors come to admire its architectural beauty, learn about its storied past, and enjoy the serene views of the surrounding landscape.
+Situated in the picturesque Neckar Valley, Heidelberg Castle is not just a palace; it's a symbol of the city's resilience and artistic heritage. The castle complex has witnessed centuries of change, destruction, and restoration, making it a significant landmark in German history. Visitors come to admire its architectural beauty, learn about its storied past, and enjoy the serene views of the surrounding landscape.
 
 The Friedrichsbau stands out not only for its striking aesthetics but also for its role in the cultural life of Heidelberg. As a residential palace, it has housed various electors and served as a central hub for political and social gatherings. As you explore this magnificent space, you will uncover stories of power, art, and the enduring spirit of a city that has thrived through the ages.
 
@@ -38,7 +38,7 @@ The Friedrichsbau of Heidelberg Castle holds a prominent place in the annals of 
 
 The palace has served not only as a royal residence but also as a crucial site for political gatherings and cultural events. It was here that electors conducted affairs of state and entertained guests, making it a focal point of power in the region. The significance of the Friedrichsbau extends beyond its physical structure; it represents the political and cultural aspirations of the Palatine region during its height.
 
-Throughout its history, the castle, including the Friedrichsbau, has experienced periods of destruction, particularly during the Thirty Years' War and later conflicts. Each time, it has been rebuilt and restored, signifying the resilience of Heidelberg and its inhabitants. Today, it stands as a symbol of the city’s historical narrative, attracting scholars, tourists, and history enthusiasts who seek to connect with its past.
+Throughout its history, the castle, including the Friedrichsbau, has experienced periods of destruction, particularly during the Thirty Years' War and later conflicts. Each time, it has been rebuilt and restored, signifying the resilience of Heidelberg and its inhabitants. Today, it stands as a symbol of the city's historical narrative, attracting scholars, tourists, and history enthusiasts who seek to connect with its past.
 
 ## Architecture and Features
 
@@ -62,7 +62,7 @@ While visiting the Friedrichsbau of Heidelberg Castle, consider exploring these 
 
 1. **Heidelberg Old Town (Altstadt)**: A charming area filled with narrow streets, historic buildings, and lively cafés, perfect for a leisurely stroll.
 
-2. **Philosopher’s Walk (Philosophenweg)**: This scenic path offers stunning views of the castle and the Neckar River, making it a popular spot for walking and photography.
+2. **Philosopher's Walk (Philosophenweg)**: This scenic path offers stunning views of the castle and the Neckar River, making it a popular spot for walking and photography.
 
 3. **Heidelberg University**: One of the oldest universities in Germany, it features beautiful architecture and a rich history worth exploring.
 
@@ -80,7 +80,7 @@ To make the most of your visit to the Friedrichsbau, consider these insider tips
 
 ## Practical Information
 
-When visiting the Friedrichsbau, it’s advisable to bring comfortable walking shoes, as you will be exploring both the palace and the surrounding grounds. Seasonal considerations are important; in warmer months, light clothing is recommended, while cooler months may require layers due to fluctuating temperatures. If you plan to enjoy the outdoor spaces, sun protection and hydration are also essential.
+When visiting the Friedrichsbau, it's advisable to bring comfortable walking shoes, as you will be exploring both the palace and the surrounding grounds. Seasonal considerations are important; in warmer months, light clothing is recommended, while cooler months may require layers due to fluctuating temperatures. If you plan to enjoy the outdoor spaces, sun protection and hydration are also essential.
 
 Check the official website for any specific visitor guidelines or recommendations regarding items to bring, especially if you plan to participate in guided tours or special events.
 
@@ -105,7 +105,7 @@ Check the official website for current information on accessibility options and 
 Yes, tickets can often be purchased online, which can save time and ensure entry during busy periods.
 
 ### Are there restrooms and cafes?
-Facilities, including restrooms and cafés, are available on-site, but it’s wise to check for any updates before your visit.
+Facilities, including restrooms and cafés, are available on-site, but it's wise to check for any updates before your visit.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, as you will be exploring both the interior and exterior of the castle grounds.

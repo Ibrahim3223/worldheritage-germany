@@ -74,7 +74,7 @@ Weichs is a charming locale with several attractions that complement a visit to 
 
 To enhance your experience at the Ehemals Bauernhaus, consider these insider tips:
 
-- **Photography**: Be sure to bring your camera, as the museum’s exhibits and surrounding scenery provide ample opportunities for photography. However, check for any restrictions on photography inside the museum.
+- **Photography**: Be sure to bring your camera, as the museum's exhibits and surrounding scenery provide ample opportunities for photography. However, check for any restrictions on photography inside the museum.
 
 - **Crowd Avoidance**: To avoid larger crowds, aim to visit during the early morning or late afternoon. Weekdays typically see fewer visitors than weekends, making for a more relaxed experience.
 
@@ -95,13 +95,13 @@ Most visitors find that 1-2 hours is sufficient to enjoy the exhibits and learn 
 Photography is generally permitted in the museum, but be sure to check for any specific guidelines or restrictions.
 
 ### Are there guided tours?
-Currently, the museum’s offerings regarding guided tours may vary. Check the official website for more information on available tours during your visit.
+Currently, the museum's offerings regarding guided tours may vary. Check the official website for more information on available tours during your visit.
 
 ### What's the best time to visit?
 Weekdays, particularly in the early morning or late afternoon, tend to be less crowded, providing a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility features may be available, but it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary; please check the official website for the most current information on ticket availability.

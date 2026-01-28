@@ -38,7 +38,7 @@ The history of Burg Hohenberg an der Eger is intertwined with the broader narrat
 
 Throughout its existence, Burg Hohenberg has witnessed various historical events that have shaped the region's identity. The castle likely played a pivotal role during conflicts that arose from territorial disputes, as local lords vied for control over the rich resources of the area. Its architecture and layout exhibit features typical of medieval castle design, including fortified walls and a commanding position over the surrounding landscape.
 
-As a cultural heritage monument, Burg Hohenberg is significant not only for its architectural attributes but also for its role in the social fabric of the region. Castles like Hohenberg were centers of governance, commerce, and culture, where nobles would gather to discuss matters of state, host feasts, and engage in chivalric traditions. The castle’s continued preservation serves as a reminder of this vibrant history, allowing contemporary audiences to appreciate the complexities of medieval life.
+As a cultural heritage monument, Burg Hohenberg is significant not only for its architectural attributes but also for its role in the social fabric of the region. Castles like Hohenberg were centers of governance, commerce, and culture, where nobles would gather to discuss matters of state, host feasts, and engage in chivalric traditions. The castle's continued preservation serves as a reminder of this vibrant history, allowing contemporary audiences to appreciate the complexities of medieval life.
 
 Today, Burg Hohenberg an der Eger remains a symbol of Bavaria's rich heritage, attracting visitors who seek to understand the historical context of the region. It represents the enduring legacy of medieval architecture and the cultural narratives that have shaped the identity of Bavaria over the centuries.
 
@@ -48,7 +48,7 @@ Burg Hohenberg an der Eger is a noteworthy example of medieval castle architectu
 
 One of the key features of the castle is its imposing central keep, which served as the primary residence for the lord and his family. This structure is often the most fortified part of the castle, designed to withstand sieges and attacks. The keep is typically surrounded by a series of walls and ramparts, creating a formidable barrier against intruders.
 
-Visitors to Burg Hohenberg can also explore the remnants of the castle’s outer bailey, which would have housed various buildings related to daily life and administration. These areas were essential for the functioning of the castle, providing space for storage, workshops, and living quarters for servants and soldiers. While the specific details of these features may vary, the overall design reflects the practical needs of a medieval stronghold.
+Visitors to Burg Hohenberg can also explore the remnants of the castle's outer bailey, which would have housed various buildings related to daily life and administration. These areas were essential for the functioning of the castle, providing space for storage, workshops, and living quarters for servants and soldiers. While the specific details of these features may vary, the overall design reflects the practical needs of a medieval stronghold.
 
 The preservation of Burg Hohenberg allows for a unique opportunity to appreciate the craftsmanship of the period. The castle not only serves as a historical monument but also as a canvas for understanding medieval life, showcasing how architecture was influenced by both functionality and artistic expression.
 

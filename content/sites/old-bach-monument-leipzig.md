@@ -34,7 +34,7 @@ Visiting the Old Bach-monument offers an opportunity to immerse oneself in the r
 
 ## History and Significance
 
-The Old Bach-monument was erected to honor Johann Sebastian Bach, who spent a substantial part of his life in Leipzig. Although specific dates and events surrounding the monument's establishment are not available, its significance is deeply rooted in the city’s musical heritage. Bach served as the Cantor at St. Thomas Church from 1723 until his death in 1750, a role that allowed him to compose many of his most celebrated works, including cantatas, concertos, and keyboard pieces.
+The Old Bach-monument was erected to honor Johann Sebastian Bach, who spent a substantial part of his life in Leipzig. Although specific dates and events surrounding the monument's establishment are not available, its significance is deeply rooted in the city's musical heritage. Bach served as the Cantor at St. Thomas Church from 1723 until his death in 1750, a role that allowed him to compose many of his most celebrated works, including cantatas, concertos, and keyboard pieces.
 
 The memorial stands as a symbol of Bach's enduring legacy in the realm of classical music. His compositions have transcended time and continue to be performed and celebrated globally. The monument plays a crucial role in preserving the memory of Bach and educating future generations about his contributions to Western music. It also serves as a gathering place for music lovers and scholars alike, fostering an environment where the appreciation of classical music can flourish.
 
@@ -44,9 +44,9 @@ In addition to honoring Bach, the monument reflects the broader cultural and his
 
 The Old Bach-monument is an impressive memorial that captures the essence of Bach's contribution to music through its thoughtful design. Although specific architectural details are not provided, memorials of this nature typically incorporate classical elements that reflect the dignity and reverence associated with their subjects. 
 
-Visitors can expect to find a striking statue of Johann Sebastian Bach, often depicted in a contemplative pose, embodying the spirit of creativity and musical genius that he represented. Surrounding the statue may be decorative features that enhance the memorial’s aesthetic appeal, such as inscriptions or motifs inspired by musical symbols, further emphasizing Bach’s connection to the art form.
+Visitors can expect to find a striking statue of Johann Sebastian Bach, often depicted in a contemplative pose, embodying the spirit of creativity and musical genius that he represented. Surrounding the statue may be decorative features that enhance the memorial's aesthetic appeal, such as inscriptions or motifs inspired by musical symbols, further emphasizing Bach's connection to the art form.
 
-The monument is thoughtfully situated in a prominent location, allowing for easy access and visibility. Its placement within Leipzig speaks to the city's celebration of its cultural icons and offers a serene environment for reflection and admiration. As visitors approach the memorial, they are greeted not only by Bach’s likeness but also by the historical atmosphere of the surrounding area, which enriches the overall experience.
+The monument is thoughtfully situated in a prominent location, allowing for easy access and visibility. Its placement within Leipzig speaks to the city's celebration of its cultural icons and offers a serene environment for reflection and admiration. As visitors approach the memorial, they are greeted not only by Bach's likeness but also by the historical atmosphere of the surrounding area, which enriches the overall experience.
 
 ## Visiting Information
 

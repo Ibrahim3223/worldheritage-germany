@@ -32,7 +32,7 @@ The Meyer'sche Häuser is a remarkable architectural ensemble that reflects the 
 
 Historically, Leipzig has been recognized for its significant role in trade and education, with institutions such as the University of Leipzig contributing to its prominence. The Meyer'sche Häuser stands as a representation of the urban development that accompanied this growth. Each building within the ensemble offers insights into the architectural styles that prevailed during its time of construction, showcasing influences that range from traditional to modernist designs.
 
-The cultural importance of the Meyer'sche Häuser extends beyond its aesthetic appeal. The ensemble has witnessed the transformation of Leipzig through various epochs, including the Industrial Revolution and the reunification of Germany, and serves as a reminder of the city’s resilience and adaptability. As a result, visiting the Meyer'sche Häuser provides an opportunity to reflect on the broader socio-economic changes that have shaped the region.
+The cultural importance of the Meyer'sche Häuser extends beyond its aesthetic appeal. The ensemble has witnessed the transformation of Leipzig through various epochs, including the Industrial Revolution and the reunification of Germany, and serves as a reminder of the city's resilience and adaptability. As a result, visiting the Meyer'sche Häuser provides an opportunity to reflect on the broader socio-economic changes that have shaped the region.
 
 Today, the Meyer'sche Häuser continues to be a source of inspiration and pride for Leipzig's residents. Its preservation allows for ongoing appreciation of the city's architectural heritage, fostering a sense of community and connection to the past. Whether you are exploring the intricate details of the facades or engaging with local narratives, the Meyer'sche Häuser invites you to delve deeper into the story of Leipzig.
 
@@ -68,7 +68,7 @@ While the Meyer'sche Häuser is an engaging destination on its own, the surround
 
 4. **Augustusplatz**: A lively square that hosts various events and is surrounded by notable buildings, including the Gewandhaus and the Opera House.
 
-5. **Panorama Tower**: For a panoramic view of Leipzig, visit this observation tower, which provides a unique perspective of the city’s skyline.
+5. **Panorama Tower**: For a panoramic view of Leipzig, visit this observation tower, which provides a unique perspective of the city's skyline.
 
 Exploring these attractions in conjunction with the Meyer'sche Häuser enriches your understanding of Leipzig's vibrant cultural scene.
 

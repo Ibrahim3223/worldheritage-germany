@@ -28,7 +28,7 @@ image_srcset:
 
 Thum-See is a picturesque lake located in the Berchtesgadener Land district of Germany, known for its tranquil beauty and serene natural environment. With coordinates placing it at 47.719166666, 12.825555555, this lake is an inviting spot for nature lovers and those seeking a peaceful retreat. Surrounded by lush landscapes and the stunning backdrop of the Bavarian Alps, Thum-See offers visitors a chance to connect with nature, engage in various outdoor activities, and enjoy the calming effects of water. 
 
-The lake is more than just a body of water; it is a significant ecological area that contributes to the region’s biodiversity. With its crystal-clear waters, Thum-See is a popular destination for both relaxation and recreation, drawing visitors throughout the year. Whether you're interested in hiking, birdwatching, or simply soaking in the serene atmosphere, Thum-See promises a refreshing escape from the hustle and bustle of daily life.
+The lake is more than just a body of water; it is a significant ecological area that contributes to the region's biodiversity. With its crystal-clear waters, Thum-See is a popular destination for both relaxation and recreation, drawing visitors throughout the year. Whether you're interested in hiking, birdwatching, or simply soaking in the serene atmosphere, Thum-See promises a refreshing escape from the hustle and bustle of daily life.
 
 ## History and Significance
 
@@ -82,7 +82,7 @@ Pack a picnic to enjoy by the water, as picnic areas are available around the la
 
 When planning your visit to Thum-See, consider bringing essential items such as water, snacks, sunscreen, and comfortable walking shoes. Depending on the season, weather conditions can vary, so dress in layers and prepare for potential changes in temperature.
 
-In warmer months, remember to bring swimwear if you plan to take a dip in the lake. Conversely, if you’re visiting during cooler months, a warm jacket and sturdy footwear are advisable, especially if you wish to explore the surrounding trails.
+In warmer months, remember to bring swimwear if you plan to take a dip in the lake. Conversely, if you're visiting during cooler months, a warm jacket and sturdy footwear are advisable, especially if you wish to explore the surrounding trails.
 
 Seasonal considerations are important as well. The best times for outdoor activities generally align with spring and summer, while autumn offers beautiful foliage. Winter might limit access to certain areas but can provide a quiet, reflective atmosphere for those who appreciate the beauty of the season.
 

@@ -100,7 +100,7 @@ When preparing for your visit to the GFZ Helmholtz Centre for Geosciences, consi
 A visit to the GFZ can typically last between two to four hours, depending on your level of interest in the exhibits and resources available.
 
 ### Is photography allowed?
-Photography is generally permitted in public areas, but it’s best to check for any specific restrictions in research spaces or exhibits.
+Photography is generally permitted in public areas, but it's best to check for any specific restrictions in research spaces or exhibits.
 
 ### Are there guided tours?
 The GFZ may offer guided tours or educational programs; check the official website for details and scheduling.
@@ -109,7 +109,7 @@ The GFZ may offer guided tours or educational programs; check the official websi
 Weekdays tend to be quieter, and special events or exhibitions can provide unique opportunities, so consider planning your visit around these offerings.
 
 ### Is it wheelchair accessible?
-The GFZ aims to be accessible; however, it’s advisable to check directly with the center for specific details on accessibility features.
+The GFZ aims to be accessible; however, it's advisable to check directly with the center for specific details on accessibility features.
 
 ### Can I buy tickets online?
 For certain events or exhibitions, online registration may be available. Check the official website for current ticketing options.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Das Depot is an intriguing museum located in the vibrant city of Bremen, Germany. As a cultural institution, it plays a significant role in showcasing the artistic and historical narratives of the region. Visitors are offered a chance to engage with various exhibitions that reflect both the contemporary and traditional facets of Bremen’s rich heritage. The museum's commitment to education and cultural preservation makes it a vital stop for anyone interested in exploring the region's artistic legacy.
+Das Depot is an intriguing museum located in the vibrant city of Bremen, Germany. As a cultural institution, it plays a significant role in showcasing the artistic and historical narratives of the region. Visitors are offered a chance to engage with various exhibitions that reflect both the contemporary and traditional facets of Bremen's rich heritage. The museum's commitment to education and cultural preservation makes it a vital stop for anyone interested in exploring the region's artistic legacy.
 
 Bremen, known for its historical significance and charming architecture, provides a fitting backdrop for Das Depot. With its strategic location, the museum serves as a hub for art enthusiasts, locals, and tourists, fostering a connection between the past and present. A visit to this museum promises an enriching experience that highlights the importance of cultural institutions in understanding the complexities of history and art.
 
@@ -76,7 +76,7 @@ For those planning a visit to Das Depot, consider the following insider tips to 
 
 - **Crowd Avoidance**: To enjoy a more intimate experience, try visiting during the week or early in the day. Evenings may also offer fewer crowds, especially if the museum has extended hours.
 
-- **Engage with Staff**: The museum staff can provide valuable insights and recommendations about current exhibitions and upcoming events. Don’t hesitate to ask questions or seek guidance on what to explore.
+- **Engage with Staff**: The museum staff can provide valuable insights and recommendations about current exhibitions and upcoming events. Don't hesitate to ask questions or seek guidance on what to explore.
 
 ## Practical Information
 
@@ -97,7 +97,7 @@ A visit typically takes a few hours, depending on your level of interest in the 
 Photography policies may vary by exhibition, so it is advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
-Guided tours may be offered, providing deeper insights into the exhibitions and the museum’s mission. Check the official website for more information.
+Guided tours may be offered, providing deeper insights into the exhibitions and the museum's mission. Check the official website for more information.
 
 ### What's the best time to visit?
 To avoid crowds, consider visiting during weekdays or early in the day, especially during popular exhibition openings.

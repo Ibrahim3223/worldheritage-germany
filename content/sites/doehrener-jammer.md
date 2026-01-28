@@ -32,7 +32,7 @@ Situated within the vibrant context of Döhren-Wülfel, the ensemble is not only
 
 ## History and Significance
 
-Döhrener Jammer’s historical context is integral to understanding its significance as an architectural ensemble. While specific dates and events may not be explicitly documented, the evolution of residential architecture in Hannover is evident through this collection of buildings. The architectural ensemble exemplifies the trends and styles prevalent during various periods of development in the city, showcasing how residential spaces have adapted to the needs of their inhabitants over time.
+Döhrener Jammer's historical context is integral to understanding its significance as an architectural ensemble. While specific dates and events may not be explicitly documented, the evolution of residential architecture in Hannover is evident through this collection of buildings. The architectural ensemble exemplifies the trends and styles prevalent during various periods of development in the city, showcasing how residential spaces have adapted to the needs of their inhabitants over time.
 
 The significance of Döhrener Jammer extends beyond its physical structure; it represents the social and cultural dynamics of the region. Residential buildings often reflect the lifestyles and aspirations of their occupants, and Döhrener Jammer is no exception. The architectural choices made in its design speak to the values and priorities of the community, providing insights into daily life in Hannover during different eras. This historical depth adds layers of meaning to the ensemble, inviting visitors to consider the stories and experiences of those who have lived within its walls.
 

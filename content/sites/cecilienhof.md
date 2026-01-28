@@ -64,7 +64,7 @@ While visiting Cecilienhof, consider exploring these notable nearby attractions:
 
 2. **New Palace (Neues Palais)**: Situated within the Sanssouci Park, this grand palace offers insights into the opulence of the Prussian monarchy and features a variety of art collections.
 
-3. **Potsdam Museum**: Delve deeper into the history of Potsdam and its cultural heritage at this museum, which showcases the city’s past through various exhibitions.
+3. **Potsdam Museum**: Delve deeper into the history of Potsdam and its cultural heritage at this museum, which showcases the city's past through various exhibitions.
 
 4. **Friendship Island**: A tranquil spot in the midst of the Havel River, perfect for a leisurely stroll or a picnic while enjoying the scenery.
 
@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during weekdays or in the off-peak season. Th
 
 ## Practical Information
 
-When preparing for your visit to Cecilienhof, consider bringing comfortable walking shoes, as exploring the gardens and interior can involve quite a bit of walking. It’s also wise to check the weather forecast, as the gardens can be particularly enjoyable on pleasant days.
+When preparing for your visit to Cecilienhof, consider bringing comfortable walking shoes, as exploring the gardens and interior can involve quite a bit of walking. It's also wise to check the weather forecast, as the gardens can be particularly enjoyable on pleasant days.
 
 Seasonal considerations are important as well; spring and summer offer lush greenery and blooming flowers, while autumn presents a colorful display of foliage. Winter visits can be enchanting, although some outdoor areas may be less accessible.
 

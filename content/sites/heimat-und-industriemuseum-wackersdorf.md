@@ -42,7 +42,7 @@ Overall, the museum's design and features not only enhance the visitor experienc
 
 ## Visiting Information
 
-The Heimat- und Industriemuseum Wackersdorf is conveniently located in the town center, making it accessible for visitors traveling by car or public transport. For those driving, ample parking is available nearby, allowing for easy access to the museum’s entrance. Public transportation options may also be available, and visitors should check local schedules for the most accurate information.
+The Heimat- und Industriemuseum Wackersdorf is conveniently located in the town center, making it accessible for visitors traveling by car or public transport. For those driving, ample parking is available nearby, allowing for easy access to the museum's entrance. Public transportation options may also be available, and visitors should check local schedules for the most accurate information.
 
 Before planning a visit, it is advisable to check the official website for current information regarding opening hours and ticket prices. Visitors can expect to spend a few hours exploring the exhibits and engaging with the various displays, making it a worthwhile stop for those interested in local culture and history. 
 

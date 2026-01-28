@@ -34,7 +34,7 @@ Visitors to Bastorf Lighthouse can expect a blend of history, stunning views, an
 
 The history of Bastorf Lighthouse is intertwined with the maritime traditions of the Baltic Sea. While specific dates are not recorded, the establishment of lighthouses in this region reflects the growing need for safe navigation as maritime trade flourished. The lighthouse has played a pivotal role in guiding ships, ensuring safe passage, and preventing maritime disasters along the coastline.
 
-As a cultural landmark, Bastorf Lighthouse represents the advancement of lighthouse technology over the years. The development and maintenance of such structures have often been indicative of a society’s commitment to maritime safety and trade. The lighthouse stands as a reminder of the importance of navigational aids in the era of sailing ships, and its continued operation highlights the ongoing importance of maritime navigation in contemporary times.
+As a cultural landmark, Bastorf Lighthouse represents the advancement of lighthouse technology over the years. The development and maintenance of such structures have often been indicative of a society's commitment to maritime safety and trade. The lighthouse stands as a reminder of the importance of navigational aids in the era of sailing ships, and its continued operation highlights the ongoing importance of maritime navigation in contemporary times.
 
 The surrounding area also boasts a rich maritime history, with local communities deeply connected to the sea. The lighthouse has become a symbol of this heritage, drawing visitors who wish to explore its significance and learn about the stories of those who relied on its light for guidance.
 
@@ -48,7 +48,7 @@ Visitors can explore the surrounding grounds, which often feature pathways and v
 
 ## Visiting Information
 
-To visit Bastorf Lighthouse, travelers can access the site via various modes of transportation, including personal vehicles and public transport. The lighthouse’s location makes it a suitable stop for those touring the Baltic Sea region. 
+To visit Bastorf Lighthouse, travelers can access the site via various modes of transportation, including personal vehicles and public transport. The lighthouse's location makes it a suitable stop for those touring the Baltic Sea region. 
 
 Check the official website for current hours and prices as these can vary throughout the year. Visitors typically spend around an hour at the site, allowing time for exploration and photography. The best times to visit are on clear days when the visibility is high, offering the opportunity to enjoy the landscape and sea views from the lighthouse.
 
@@ -97,7 +97,7 @@ Information on accessibility may vary, so check the official website for specifi
 Check the official website for details on ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-Amenities may be limited, so it’s advisable to plan accordingly and check the official website for nearby facilities.
+Amenities may be limited, so it's advisable to plan accordingly and check the official website for nearby facilities.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor exploration, and consider layering for changing weather conditions.

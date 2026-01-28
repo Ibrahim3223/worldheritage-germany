@@ -28,13 +28,13 @@ image_srcset:
 
 Burg Liebenstein, a captivating castle located in the Plößberg region of Bavaria, Germany, stands as a remarkable example of medieval architecture and history. Set against the serene backdrop of the Bavarian landscape, this castle invites visitors to explore its storied past and appreciate its architectural significance. The castle's strategic location has historically played a crucial role in the defense and governance of the region, making it an important landmark in Bavaria. 
 
-As you approach Burg Liebenstein, the impressive structure rises majestically, hinting at the tales of knights and nobility that echo through its stone walls. The castle’s enduring presence amidst changing times serves as a reminder of the historical narratives that have shaped the area. Whether you are a history enthusiast, a lover of architecture, or simply seeking a picturesque location for exploration, Burg Liebenstein offers a unique experience that reflects the cultural heritage of Germany.
+As you approach Burg Liebenstein, the impressive structure rises majestically, hinting at the tales of knights and nobility that echo through its stone walls. The castle's enduring presence amidst changing times serves as a reminder of the historical narratives that have shaped the area. Whether you are a history enthusiast, a lover of architecture, or simply seeking a picturesque location for exploration, Burg Liebenstein offers a unique experience that reflects the cultural heritage of Germany.
 
 ## History and Significance
 
 The history of Burg Liebenstein is intertwined with the broader narrative of medieval Bavaria. While specific dates are elusive, the castle was constructed during a time when fortifications were paramount for regional security and power. Its existence has witnessed significant historical events, including conflicts and territorial disputes that characterized the Middle Ages.
 
-Over the centuries, Burg Liebenstein has served various roles, from a military stronghold to a noble residence. The architecture of the castle reflects the changing styles and functions throughout its history, illustrating the evolution of defensive structures into more comfortable living spaces for the aristocracy. The castle has also been a witness to the socio-political changes in Bavaria, contributing to the narrative of the region’s development.
+Over the centuries, Burg Liebenstein has served various roles, from a military stronghold to a noble residence. The architecture of the castle reflects the changing styles and functions throughout its history, illustrating the evolution of defensive structures into more comfortable living spaces for the aristocracy. The castle has also been a witness to the socio-political changes in Bavaria, contributing to the narrative of the region's development.
 
 Culturally, Burg Liebenstein represents the craftsmanship and ingenuity of medieval builders. The castle's design and construction techniques provide insights into the technological advancements of the time. Today, it stands as a symbol of Bavarian heritage, attracting visitors who wish to understand the historical significance of such fortifications in shaping the cultural landscape of the region.
 
@@ -72,7 +72,7 @@ Burg Liebenstein is situated within a region rich in attractions, making it an e
 
 For those looking to capture the essence of Burg Liebenstein through photography, early morning or late afternoon provides the best natural lighting. This timing not only enhances the visual appeal of the castle but also helps avoid the busier hours when tours are in full swing.
 
-To experience the site with fewer people, consider visiting during weekdays or in the off-peak season. This will allow for a more intimate exploration of the castle and its surroundings. Additionally, exploring the grounds and taking in the architectural details can provide a deeper appreciation of the site’s historical context.
+To experience the site with fewer people, consider visiting during weekdays or in the off-peak season. This will allow for a more intimate exploration of the castle and its surroundings. Additionally, exploring the grounds and taking in the architectural details can provide a deeper appreciation of the site's historical context.
 
 ## Practical Information
 

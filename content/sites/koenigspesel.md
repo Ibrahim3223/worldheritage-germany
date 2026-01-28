@@ -46,7 +46,7 @@ Traveling to Königspesel is relatively straightforward, with several transport 
 
 Upon entering the museum, visitors can expect a warm and welcoming atmosphere. The design facilitates a comprehensive exploration of the exhibits, which can be enjoyed at a leisurely pace. Depending on individual interests, guests may wish to allocate a few hours to fully appreciate what Königspesel has to offer. The museum's environment is generally conducive to quiet reflection and exploration.
 
-The best times to visit are often during weekdays, when the crowds are lighter, allowing for a more intimate experience with the exhibits. Special events or exhibitions may attract larger groups, so checking the museum’s calendar ahead of time can prove beneficial.
+The best times to visit are often during weekdays, when the crowds are lighter, allowing for a more intimate experience with the exhibits. Special events or exhibitions may attract larger groups, so checking the museum's calendar ahead of time can prove beneficial.
 
 ## Nearby Attractions
 

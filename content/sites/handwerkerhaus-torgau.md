@@ -98,7 +98,7 @@ Weekdays, particularly in the morning or later in the afternoon, tend to be less
 
 ### Is it wheelchair accessible?
 
-Accessibility information can be confirmed by checking the museum’s official website or contacting them directly.
+Accessibility information can be confirmed by checking the museum's official website or contacting them directly.
 
 ### Can I buy tickets online?
 
@@ -106,7 +106,7 @@ Check the official website for information regarding online ticket purchases to 
 
 ### Are there restrooms and cafes?
 
-Facilities such as restrooms and nearby cafes are typically available, but it’s advisable to verify details on the official website before your visit.
+Facilities such as restrooms and nearby cafes are typically available, but it's advisable to verify details on the official website before your visit.
 
 ### What should I wear?
 

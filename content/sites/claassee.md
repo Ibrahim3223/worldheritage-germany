@@ -103,7 +103,7 @@ Check the official website for detailed accessibility information regarding path
 Check the official website for any fees and whether online ticket purchasing is available.
 
 ### Are there restrooms and cafes?
-Facilities may be limited near the lake itself, so it’s advisable to check for nearby towns for amenities such as restrooms and cafes.
+Facilities may be limited near the lake itself, so it's advisable to check for nearby towns for amenities such as restrooms and cafes.
 
 ### What should I wear?
 Dress comfortably for outdoor activities, considering the weather. Layers are recommended for cooler mornings or evenings, especially during transitional seasons.

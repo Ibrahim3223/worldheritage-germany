@@ -40,7 +40,7 @@ Moreover, the memorial plays a role in educating visitors about the historical c
 
 ## Architecture and Features
 
-The Black Garden memorial features a design that is both contemplative and evocative. While specific architectural details are not provided, the layout and materials employed in its construction are thoughtfully chosen to enhance the memorial’s purpose. The design likely incorporates elements that encourage visitors to pause, reflect, and engage with the space in a meaningful way.
+The Black Garden memorial features a design that is both contemplative and evocative. While specific architectural details are not provided, the layout and materials employed in its construction are thoughtfully chosen to enhance the memorial's purpose. The design likely incorporates elements that encourage visitors to pause, reflect, and engage with the space in a meaningful way.
 
 Surrounding the memorial, the landscaping contributes to the ambiance of tranquility and introspection. The choice of flora and arrangement of pathways can create a serene environment that invites visitors to linger and contemplate. The interplay of light and shadow throughout the day adds to the memorial's atmospheric quality, making each visit a unique experience.
 

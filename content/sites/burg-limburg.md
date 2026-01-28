@@ -84,7 +84,7 @@ When preparing for your visit to Burg Limburg, keep the following practical cons
 
 - **What to Bring**: Comfortable walking shoes are essential, as the terrain can be uneven. A water bottle and light snacks can enhance your experience, especially if you plan to spend an extended period exploring.
 
-- **Seasonal Considerations**: The weather in the region can vary, so checking forecasts ahead of time is advisable. Dress in layers during cooler months, and don’t forget sunscreen during the summer.
+- **Seasonal Considerations**: The weather in the region can vary, so checking forecasts ahead of time is advisable. Dress in layers during cooler months, and don't forget sunscreen during the summer.
 
 - **Accessibility**: While the castle may present challenges for those with mobility issues due to its historical structure, check the official website for specific accessibility information.
 

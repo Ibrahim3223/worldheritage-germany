@@ -28,11 +28,11 @@ image_srcset:
 
 The Evangelische Kapelle within the Klinikum Haar in Germany serves as a serene space for reflection and spiritual solace. Located in the town of Haar, this chapel is not only a place of worship but also a significant cultural landmark. Its presence within the hospital complex symbolizes the intersection of health care and spiritual well-being, offering comfort to patients, visitors, and staff alike. The chapel's design and purpose highlight the importance of mental and spiritual health in the holistic approach to healing, making it an integral part of the community.
 
-As visitors approach the chapel, they are greeted by a tranquil atmosphere, inviting them to pause and connect with their thoughts. The chapel serves a dual purpose — as a spiritual sanctuary and a reminder of faith’s role in health care. Whether you are seeking a moment of peace or exploring the cultural significance of places of worship in healthcare settings, the Evangelische Kapelle offers a unique experience.
+As visitors approach the chapel, they are greeted by a tranquil atmosphere, inviting them to pause and connect with their thoughts. The chapel serves a dual purpose — as a spiritual sanctuary and a reminder of faith's role in health care. Whether you are seeking a moment of peace or exploring the cultural significance of places of worship in healthcare settings, the Evangelische Kapelle offers a unique experience.
 
 ## History and Significance
 
-The Evangelische Kapelle’s historical context is rooted in the evolution of healthcare facilities in Germany. While specific founding dates may be elusive, chapels like this one emerged as integral parts of hospitals, reflecting the longstanding tradition of integrating spiritual care into medical treatment. The significance of such spaces cannot be overstated; they provide emotional support and a sense of community for those undergoing medical challenges.
+The Evangelische Kapelle's historical context is rooted in the evolution of healthcare facilities in Germany. While specific founding dates may be elusive, chapels like this one emerged as integral parts of hospitals, reflecting the longstanding tradition of integrating spiritual care into medical treatment. The significance of such spaces cannot be overstated; they provide emotional support and a sense of community for those undergoing medical challenges.
 
 The chapel's role extends beyond mere architecture; it embodies the values of compassion and empathy that are foundational to the healthcare system. In a time when medical advancements have taken precedence, the existence of the Evangelische Kapelle reminds us of the importance of mental and spiritual health. It serves as a gathering place for prayer, reflection, and solace, catering to diverse spiritual needs.
 
@@ -40,7 +40,7 @@ In addition to serving patients and their families, the chapel often hosts commu
 
 ## Architecture and Features
 
-The Evangelische Kapelle’s architectural design reflects a blend of functionality and serene beauty, typical of many chapels built within healthcare settings. While specific architectural details are not provided, chapels often feature elements that promote tranquility and contemplation. Expect to find soft lighting, calming colors, and simple yet elegant furnishings that foster an environment conducive to reflection.
+The Evangelische Kapelle's architectural design reflects a blend of functionality and serene beauty, typical of many chapels built within healthcare settings. While specific architectural details are not provided, chapels often feature elements that promote tranquility and contemplation. Expect to find soft lighting, calming colors, and simple yet elegant furnishings that foster an environment conducive to reflection.
 
 The layout of the chapel is likely designed to accommodate both individual prayer and communal gatherings, with seating arranged to facilitate both privacy and fellowship. Typical features might include an altar, symbolic religious artwork, and spaces for meditation. These elements contribute to the overall purpose of the chapel, enhancing the spiritual experience for all who enter.
 
@@ -52,7 +52,7 @@ When planning your visit to the Evangelische Kapelle, you can expect a serene en
 
 The chapel is situated within the Klinikum Haar, making it accessible to those traveling to the hospital for medical purposes as well as to visitors. Public transport options typically include local bus services that connect to the hospital, providing convenient access for visitors from various parts of the region. Parking facilities may also be available nearby, although checking ahead is recommended.
 
-Visitors should anticipate spending around 30 minutes to an hour in the chapel, allowing sufficient time to absorb the atmosphere and engage personally with the space. The best visits may occur during quieter times of the day, such as mid-mornings or early afternoons, to fully appreciate the chapel’s tranquil ambiance. 
+Visitors should anticipate spending around 30 minutes to an hour in the chapel, allowing sufficient time to absorb the atmosphere and engage personally with the space. The best visits may occur during quieter times of the day, such as mid-mornings or early afternoons, to fully appreciate the chapel's tranquil ambiance. 
 
 ## Nearby Attractions
 

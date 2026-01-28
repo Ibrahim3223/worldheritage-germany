@@ -72,7 +72,7 @@ While visiting the Tucher-Mausoleum, consider exploring the following nearby att
 
 When visiting the Tucher-Mausoleum, consider bringing a camera to capture the unique features of the site. However, be mindful of the solemn nature of mausoleums and ensure that your photography is respectful. Early visits can help avoid crowds, allowing for a more tranquil experience. 
 
-If you plan to take photographs, it’s wise to check any restrictions that may be in place. Bringing along a small picnic can enhance your visit, as the surrounding area may provide lovely spots for a quiet meal amidst nature.
+If you plan to take photographs, it's wise to check any restrictions that may be in place. Bringing along a small picnic can enhance your visit, as the surrounding area may provide lovely spots for a quiet meal amidst nature.
 
 ## Practical Information
 
@@ -89,7 +89,7 @@ A visit typically takes about one to two hours, allowing time for exploration an
 Photography is often permitted in mausoleums, but it is advisable to be respectful of the site and check for any specific restrictions.
 
 ### Are there guided tours?
-Information about guided tours is not specified, so it’s best to check the official website for details.
+Information about guided tours is not specified, so it's best to check the official website for details.
 
 ### What's the best time to visit?
 Visiting during spring or autumn is ideal for pleasant weather and a quieter experience.
@@ -98,7 +98,7 @@ Visiting during spring or autumn is ideal for pleasant weather and a quieter exp
 Accessibility details are not provided; checking with the official website or contacting local authorities may offer clarity.
 
 ### Can I buy tickets online?
-Ticket purchasing options are not specified; it’s recommended to check the official website for current information.
+Ticket purchasing options are not specified; it's recommended to check the official website for current information.
 
 ### Are there restrooms and cafes?
 Information on amenities such as restrooms and cafes is not available, so confirming this via the official website is advisable.

@@ -99,7 +99,7 @@ Specific guided tours may not be readily available, but exploring the area indep
 The best times to visit are generally during spring and summer for pleasant weather, although each season offers its unique charm.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s best to check the official website for details on wheelchair access.
+Accessibility information may vary, so it's best to check the official website for details on wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket availability and any potential fees associated with activities at the lake.

@@ -54,7 +54,7 @@ Transport options to the memorial are varied. Depending on where you are coming 
 
 Check the official website for current information regarding hours and entry prices. It is advisable to allocate sufficient time for your visit, as the memorial encourages visitors to take their time with the exhibits and reflect on the narratives presented. A visit typically lasts between one to two hours, allowing ample opportunity to engage with the material thoughtfully.
 
-The best times to visit Gedenkstätte Bernburg are generally during weekdays, as weekends may attract larger crowds. Early mornings or late afternoons can also provide a quieter experience. Regardless of when you choose to visit, it’s important to approach the site with the respect it deserves, considering the sensitive nature of the history it represents.
+The best times to visit Gedenkstätte Bernburg are generally during weekdays, as weekends may attract larger crowds. Early mornings or late afternoons can also provide a quieter experience. Regardless of when you choose to visit, it's important to approach the site with the respect it deserves, considering the sensitive nature of the history it represents.
 
 ## Nearby Attractions
 

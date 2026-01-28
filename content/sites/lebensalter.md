@@ -46,7 +46,7 @@ The fountain likely features a basin from which water flows, potentially complem
 
 When planning a visit to Lebensalter, you'll find that accessibility is key. The fountain is situated within the Tempelhof-Schöneberg district, making it easy to reach via public transport. Check local transit schedules for routes that service this area, as various options may be available, including buses and trains.
 
-To ensure you have the best experience, be sure to check the official website for current information regarding opening hours and any potential admission fees. While the fountain is generally open to the public, it’s advisable to confirm details before your visit. 
+To ensure you have the best experience, be sure to check the official website for current information regarding opening hours and any potential admission fees. While the fountain is generally open to the public, it's advisable to confirm details before your visit. 
 
 You can expect to spend around 30 minutes to an hour at Lebensalter, allowing ample time to take in the surroundings, enjoy the water feature, and perhaps engage with locals. The fountain is particularly enjoyable during the warmer months, making late spring and summer ideal times for a visit when the weather is pleasant and the atmosphere lively.
 

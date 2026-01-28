@@ -28,7 +28,7 @@ image_srcset:
 
 Saarlouis Body & Assembly is an integral part of Germany's automotive landscape, situated in the heart of Saarlouis. This factory, known for its role in manufacturing vehicles under the Ford brand, stands as a significant player in the region's economy and industrial heritage. With a strategic location in the Saarland region, the facility benefits from its proximity to major transport links, making it a vital hub for production and innovation in the automotive sector.
 
-The factory's significance extends beyond mere production; it embodies the collaborative spirit of German engineering and manufacturing expertise. Visitors to Saarlouis Body & Assembly can gain insight into the operations of one of the country’s prominent car manufacturers, showcasing the importance of industry in the region's history and development. Whether you are an automotive enthusiast or someone interested in modern manufacturing practices, a visit here promises to be informative and engaging.
+The factory's significance extends beyond mere production; it embodies the collaborative spirit of German engineering and manufacturing expertise. Visitors to Saarlouis Body & Assembly can gain insight into the operations of one of the country's prominent car manufacturers, showcasing the importance of industry in the region's history and development. Whether you are an automotive enthusiast or someone interested in modern manufacturing practices, a visit here promises to be informative and engaging.
 
 ## History and Significance
 

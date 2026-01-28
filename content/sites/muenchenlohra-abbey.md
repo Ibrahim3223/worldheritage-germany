@@ -58,7 +58,7 @@ The best times to visit typically align with pleasant weather, allowing for a mo
 
 Münchenlohra Abbey is located in a region rich with attractions that enhance the experience of visiting. Nearby, you may consider exploring:
 
-1. **Grimmenthal Church** - Another ecclesiastical site that showcases local architectural styles and offers insight into the region’s religious history.
+1. **Grimmenthal Church** - Another ecclesiastical site that showcases local architectural styles and offers insight into the region's religious history.
 
 2. **Thuringian Forest** - This expansive natural area provides opportunities for hiking and enjoying the stunning landscapes that characterize the region.
 

@@ -44,7 +44,7 @@ In the broader context of German ecclesiastical architecture, Holy Trinity Chape
 
 Holy Trinity Chapel showcases architectural elements typical of smaller chapels in Germany. While specific details about its design are not provided, one can expect features that are characteristic of traditional ecclesiastical architecture, such as an inviting entrance, stained glass windows, and a simple yet elegant interior.
 
-The façade of the chapel likely reflects the local style, integrating materials and design elements that harmonize with the surrounding environment. Inside, visitors might find a serene atmosphere, enhanced by soft lighting and the presence of religious artifacts that contribute to the chapel’s spiritual ambiance.
+The façade of the chapel likely reflects the local style, integrating materials and design elements that harmonize with the surrounding environment. Inside, visitors might find a serene atmosphere, enhanced by soft lighting and the presence of religious artifacts that contribute to the chapel's spiritual ambiance.
 
 Notable features may include an altar, which often serves as the focal point for worship, and seating arrangements that accommodate both intimate gatherings and larger congregations. While the chapel may not be grand in scale, its charm lies in the details that create a welcoming space for reflection and prayer.
 
@@ -60,7 +60,7 @@ The best times to visit the chapel may vary depending on local events or service
 
 While visiting Holy Trinity Chapel, consider exploring the following nearby attractions that contribute to the cultural tapestry of Oedheim:
 
-1. **Oedheim Town Center** – A charming area with local shops and eateries where you can experience the community’s daily life.
+1. **Oedheim Town Center** – A charming area with local shops and eateries where you can experience the community's daily life.
    
 2. **Local Parks** – Enjoy the natural beauty of the region by visiting nearby parks that offer walking trails and picnic spots.
    

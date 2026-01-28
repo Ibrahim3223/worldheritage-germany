@@ -42,7 +42,7 @@ The park is not only a place for leisure but also a venue for various community 
 
 ## Architecture and Features
 
-Ölberggarten showcases a blend of natural landscaping and designed features that enhance its appeal. Visitors can expect meandering pathways that wind through the park, inviting exploration and leisurely walks. The layout encourages a sense of discovery, with different areas presenting unique perspectives of the park’s flora.
+Ölberggarten showcases a blend of natural landscaping and designed features that enhance its appeal. Visitors can expect meandering pathways that wind through the park, inviting exploration and leisurely walks. The layout encourages a sense of discovery, with different areas presenting unique perspectives of the park's flora.
 
 The park is characterized by its well-maintained green lawns, vibrant flower beds, and a variety of trees that offer shade and beauty throughout the seasons. Seasonal changes bring different colors and scents to Ölberggarten, making it a delightful space to visit year-round. 
 
@@ -62,7 +62,7 @@ Görlitz is home to a variety of attractions that complement a visit to Ölbergg
 
 1. **Görlitz Old Town**: Renowned for its remarkable architecture, the Old Town features buildings from various historical periods, including Gothic, Renaissance, and Baroque styles, making it a UNESCO World Heritage site.
 
-2. **St. Peter and Paul Church**: This impressive Gothic church is known for its stunning stained glass windows and rich history, providing an insight into the city’s architectural evolution.
+2. **St. Peter and Paul Church**: This impressive Gothic church is known for its stunning stained glass windows and rich history, providing an insight into the city's architectural evolution.
 
 3. **Museum of Cultural History**: Located in a historic building, this museum offers exhibits that delve into the local history and culture, enriching your understanding of Görlitz.
 

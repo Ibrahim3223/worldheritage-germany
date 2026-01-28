@@ -40,7 +40,7 @@ In addition to its exhibitions, the museum often serves as a venue for education
 
 ## Architecture and Features
 
-The Ostholstein-Museum Eutin is housed in a structure that reflects the architectural character of the region. While specific details about the building’s design and layout are not provided, art museums often feature spaces that allow for the effective display of various artworks. These spaces typically include galleries with high ceilings and ample lighting, which are essential for showcasing paintings and sculptures in their best light.
+The Ostholstein-Museum Eutin is housed in a structure that reflects the architectural character of the region. While specific details about the building's design and layout are not provided, art museums often feature spaces that allow for the effective display of various artworks. These spaces typically include galleries with high ceilings and ample lighting, which are essential for showcasing paintings and sculptures in their best light.
 
 Visitors can expect to encounter a thoughtfully arranged series of exhibition halls, which may vary in size and style, accommodating a diverse array of artworks. The museum likely incorporates elements that enhance the visitor experience, such as informational signage, seating areas for contemplation, and possibly spaces for workshops or community events.
 
@@ -78,7 +78,7 @@ To make the most of your visit to the Ostholstein-Museum Eutin, consider these i
 
 - **Crowd Avoidance**: Visiting during off-peak hours, typically on weekdays or early in the morning, can provide a quieter experience, allowing you to appreciate the art without distractions.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits or for recommendations on what to see first; they can provide valuable insights that may enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits or for recommendations on what to see first; they can provide valuable insights that may enhance your visit.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Ostholstein-Museum Eutin, consider the foll
 
 - **Seasonal Considerations**: Depending on the time of year, weather can vary. Check the forecast and dress appropriately, especially if you plan to explore the outdoor surroundings after your museum visit.
 
-- **Accessibility**: Ensure that you are aware of the museum’s accessibility features if required, making your experience more enjoyable and comfortable.
+- **Accessibility**: Ensure that you are aware of the museum's accessibility features if required, making your experience more enjoyable and comfortable.
 
 ## Frequently Asked Questions
 

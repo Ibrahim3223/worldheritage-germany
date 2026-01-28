@@ -78,7 +78,7 @@ These nearby sites complement the experience of visiting the Evangelische Kirche
 
 For those planning a visit to Evangelische Kirche Milspe, here are some insider tips to enhance your experience:
 
-- **Photography**: While capturing the beauty of the church, be mindful of any restrictions that may apply during services. It’s best to inquire if photography is allowed inside the building.
+- **Photography**: While capturing the beauty of the church, be mindful of any restrictions that may apply during services. It's best to inquire if photography is allowed inside the building.
 
 - **Crowd Avoidance**: To enjoy a quieter atmosphere, consider visiting during weekdays or early mornings, as weekends may attract more visitors, especially during services.
 

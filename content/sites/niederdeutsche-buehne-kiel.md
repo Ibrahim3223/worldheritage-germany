@@ -94,7 +94,7 @@ When preparing for your visit, keep these practical considerations in mind:
 Typically, you should plan for around two to three hours for a performance, including any intermissions.
 
 ### Is photography allowed?
-Photography policies can vary, especially during performances. It’s best to check with theatre staff for specific guidelines.
+Photography policies can vary, especially during performances. It's best to check with theatre staff for specific guidelines.
 
 ### Are there guided tours?
 Information on guided tours may not be readily available. Checking the official website or contacting the theatre directly is advisable.
@@ -103,7 +103,7 @@ Information on guided tours may not be readily available. Checking the official 
 Visiting during the weekend or for special events may provide a more vibrant atmosphere. Weekday performances are also an option for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s recommended to confirm details through the theatre's official website.
+Accessibility features may be available, but it's recommended to confirm details through the theatre's official website.
 
 ### Can I buy tickets online?
 Tickets are typically available for purchase online, but it is best to verify this through the official website.

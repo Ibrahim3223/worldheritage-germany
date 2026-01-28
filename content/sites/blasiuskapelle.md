@@ -36,7 +36,7 @@ While specific dates surrounding the founding of Blasiuskapelle remain unspecifi
 
 Dornburg itself carries a unique historical narrative, and Blasiuskapelle contributes to this story. The chapel stands as a reminder of the religious traditions that have shaped the area's cultural landscape. It has likely hosted numerous ceremonies, celebrations, and moments of reflection for generations, fostering a sense of belonging among the townspeople. The architecture and cultural practices associated with Blasiuskapelle provide insight into the historical evolution of religious spaces in Germany, particularly in small towns where such buildings often serve as the heart of community life.
 
-Moreover, the chapel's presence may reflect broader historical trends in religious architecture during its period of construction, capturing the essence of local craftsmanship and artistic expression. While the specifics may not be documented, the chapel’s ongoing use underscores its importance as a living heritage site that continues to resonate with visitors and locals alike.
+Moreover, the chapel's presence may reflect broader historical trends in religious architecture during its period of construction, capturing the essence of local craftsmanship and artistic expression. While the specifics may not be documented, the chapel's ongoing use underscores its importance as a living heritage site that continues to resonate with visitors and locals alike.
 
 ## Architecture and Features
 
@@ -104,4 +104,4 @@ Check the official website for current information regarding ticket purchasing o
 Information on facilities such as restrooms and cafes is not specified; consider planning accordingly or checking local amenities nearby.
 
 ### What should I wear?
-Visitors are encouraged to dress modestly and comfortably, considering the chapel’s nature as a place of worship.
+Visitors are encouraged to dress modestly and comfortably, considering the chapel's nature as a place of worship.

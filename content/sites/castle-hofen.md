@@ -28,7 +28,7 @@ image_srcset:
 
 Castle Hofen is a striking historical edifice located in the Stuttgart region of Germany. This castle captivates visitors with its storied past and architectural charm, making it a notable destination for those interested in heritage and history. Set against the backdrop of lush landscapes, Castle Hofen offers an authentic glimpse into the architectural and cultural history of the region. Its significance extends beyond its aesthetic appeal, as it represents the intricate narratives of the communities that have called this area home over the centuries.
 
-As you approach Castle Hofen, you will find yourself immersed in an environment where history and modernity coexist. This castle serves not only as a monument of the past but also as a point of interest that invites exploration and reflection. Travelers seeking a deeper understanding of Germany’s historical landscape will find Castle Hofen a rewarding stop on their journey.
+As you approach Castle Hofen, you will find yourself immersed in an environment where history and modernity coexist. This castle serves not only as a monument of the past but also as a point of interest that invites exploration and reflection. Travelers seeking a deeper understanding of Germany's historical landscape will find Castle Hofen a rewarding stop on their journey.
 
 ## History and Significance
 

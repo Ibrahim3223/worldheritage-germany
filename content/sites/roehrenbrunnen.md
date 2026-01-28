@@ -3,7 +3,7 @@ title: "Röhrenbrunnen"
 site_name: "Röhrenbrunnen"
 date: 2026-01-26
 draft: false
-description: "The Röhrenbrunnen, a distinguished fountain located in the heart of Aachen, Germany, serves as a captivating emblem of the city’s rich cultural narrative."
+description: "The Röhrenbrunnen, a distinguished fountain located in the heart of Aachen, Germany, serves as a captivating emblem of the city's rich cultural narrative."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Fountain"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Röhrenbrunnen, a distinguished fountain located in the heart of Aachen, Germany, serves as a captivating emblem of the city’s rich cultural narrative. Situated at the coordinates 50.7773211, 6.0886482, the fountain is not merely a decorative water feature but a significant landmark that reflects the historical essence of its surroundings. As visitors approach, they are greeted by the charming ambiance of Aachen-Mitte, where modernity meets tradition, creating a unique backdrop for the fountain’s allure.
+The Röhrenbrunnen, a distinguished fountain located in the heart of Aachen, Germany, serves as a captivating emblem of the city's rich cultural narrative. Situated at the coordinates 50.7773211, 6.0886482, the fountain is not merely a decorative water feature but a significant landmark that reflects the historical essence of its surroundings. As visitors approach, they are greeted by the charming ambiance of Aachen-Mitte, where modernity meets tradition, creating a unique backdrop for the fountain's allure.
 
 This fountain is an integral part of the local landscape, drawing both tourists and residents alike to its serene presence. Its significance extends beyond aesthetics; it represents a communal gathering point and a source of refreshment, both physically and culturally, for those who encounter it. The Röhrenbrunnen encapsulates the spirit of Aachen, inviting exploration and appreciation from those who find themselves in this vibrant city.
 
@@ -60,11 +60,11 @@ Aachen is home to a variety of attractions that complement a visit to the Röhre
 
 1. **Aachen Cathedral**: A UNESCO World Heritage Site, this stunning cathedral is renowned for its impressive architecture and historical significance, serving as a burial site for Charlemagne.
    
-2. **Elisenbrunnen**: Another prominent fountain in Aachen, Elisenbrunnen showcases the city’s thermal springs and offers a pleasant spot for relaxation.
+2. **Elisenbrunnen**: Another prominent fountain in Aachen, Elisenbrunnen showcases the city's thermal springs and offers a pleasant spot for relaxation.
 
 3. **Aachen Town Hall**: This historic building, with its beautiful façade and rich history, is a short walk from the Röhrenbrunnen, making it an ideal addition to your itinerary.
 
-4. **Centre Charlemagne**: This museum offers insights into the history of Aachen and Charlemagne’s legacy, providing a deeper understanding of the city’s past.
+4. **Centre Charlemagne**: This museum offers insights into the history of Aachen and Charlemagne's legacy, providing a deeper understanding of the city's past.
 
 5. **Couven Museum**: Situated in a historic building, this museum focuses on the decorative arts and the lifestyle of the 18th and 19th centuries in Aachen.
 

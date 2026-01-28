@@ -46,7 +46,7 @@ The architectural remnants of Burgruine Kirnstein provide insight into medieval 
 
 Notable features of the castle include its imposing walls, which were designed to withstand sieges and protect its inhabitants. The layout of the castle, although partially obscured by nature, hints at the strategic placement of living quarters, storage areas, and defenses. Visitors can explore the ruins and envision the daily life that once thrived within its confines.
 
-The vantage points offered by the castle's elevated position allow for sweeping views of the surrounding landscape, although specific geographic details are not provided. These perspectives contribute to the castle’s allure, as they provide a tangible connection to its historical significance as a watchtower and defensive structure.
+The vantage points offered by the castle's elevated position allow for sweeping views of the surrounding landscape, although specific geographic details are not provided. These perspectives contribute to the castle's allure, as they provide a tangible connection to its historical significance as a watchtower and defensive structure.
 
 ## Visiting Information
 

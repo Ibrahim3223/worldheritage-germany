@@ -86,7 +86,7 @@ To make the most of your visit to the Ehemalige Synagoge Idstein, consider these
 
 ## Practical Information
 
-When visiting the Ehemalige Synagoge Idstein, it’s advisable to bring a few essentials:
+When visiting the Ehemalige Synagoge Idstein, it's advisable to bring a few essentials:
 
 - **Comfortable Footwear**: As you may be exploring the surrounding area, wear shoes suitable for walking.
 
@@ -100,7 +100,7 @@ When visiting the Ehemalige Synagoge Idstein, it’s advisable to bring a few es
 Plan to spend about one to two hours at the site to fully appreciate its historical significance and architecture.
 
 ### Is photography allowed?
-Photography policies may vary. Check the site’s guidelines to ensure respectful practices.
+Photography policies may vary. Check the site's guidelines to ensure respectful practices.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may enhance your understanding of the site's history.
@@ -109,7 +109,7 @@ Check the official website for information on guided tours, as they may enhance 
 Early mornings or late afternoons are generally quieter. Spring and autumn may offer pleasant weather for exploration.
 
 ### Is it wheelchair accessible?
-Check the official website for specific accessibility details, as this can vary depending on the site’s layout.
+Check the official website for specific accessibility details, as this can vary depending on the site's layout.
 
 ### Can I buy tickets online?
 For up-to-date information regarding ticket availability and purchasing options, please check the official website.

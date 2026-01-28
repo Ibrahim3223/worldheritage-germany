@@ -48,7 +48,7 @@ Check the official website for current information regarding hours of operation 
 
 Most visitors find that spending around one to two hours at the museum is sufficient to appreciate the main exhibits fully. However, if you are particularly interested in the nuances of local history, you may wish to allocate more time to delve deeper into the offerings.
 
-The best times to visit may depend on local events or exhibitions, so checking the museum’s schedule beforehand can enhance your experience. Additionally, seasonal events or special presentations can provide unique insights into the region's heritage.
+The best times to visit may depend on local events or exhibitions, so checking the museum's schedule beforehand can enhance your experience. Additionally, seasonal events or special presentations can provide unique insights into the region's heritage.
 
 ## Nearby Attractions
 
@@ -65,7 +65,7 @@ Each of these locations contributes to the overall experience of Diepholz, makin
 
 To make the most of your visit to Museum im Schlossturm, consider a few insider tips. First, check for any special exhibits or events that may be taking place during your visit, as these can provide added context and depth to your experience.
 
-For photography enthusiasts, be sure to inquire about the museum’s photography policy, as some locations may have restrictions. If allowed, early morning or late afternoon light can enhance your photos, especially in areas with natural lighting.
+For photography enthusiasts, be sure to inquire about the museum's photography policy, as some locations may have restrictions. If allowed, early morning or late afternoon light can enhance your photos, especially in areas with natural lighting.
 
 To avoid crowds, aim to visit during weekdays or during off-peak hours. This allows for a more personal experience, enabling you to engage more fully with the exhibits and take your time exploring.
 

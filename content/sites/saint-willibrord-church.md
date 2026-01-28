@@ -74,11 +74,11 @@ While the focus may be on Saint Willibrord Church, the surrounding area of Neetz
 
 To make the most of your visit to Saint Willibrord Church, consider the following insider tips:
 
-- **Photography**: If you wish to capture the church’s beauty, be mindful of any restrictions on photography, especially during services. Early mornings often provide soft lighting that is ideal for capturing the church's façade.
+- **Photography**: If you wish to capture the church's beauty, be mindful of any restrictions on photography, especially during services. Early mornings often provide soft lighting that is ideal for capturing the church's façade.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, aim to visit during weekdays or early in the morning. This timing allows for a more personal and reflective experience.
 
-- **Engage with Locals**: If possible, speak with local parishioners or staff. They can offer insights into the church’s significance and share stories that may not be found in written materials.
+- **Engage with Locals**: If possible, speak with local parishioners or staff. They can offer insights into the church's significance and share stories that may not be found in written materials.
 
 ## Practical Information
 

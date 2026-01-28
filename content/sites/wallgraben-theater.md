@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Wallgraben-Theater, located in the vibrant city of Freiburg im Breisgau, Germany, offers an inviting glimpse into the world of performing arts. As a significant theatre building in Baden-Württemberg, it stands out not only for its artistic contributions but also for its unique cultural footprint within the region. This venue is a hub for theatrical performances, drawing both local audiences and visitors, making it a vital part of Freiburg’s cultural identity. Here, the spirit of creativity flourishes, showcasing a variety of performances that range from classical plays to contemporary productions, all within a space that reflects the community's passion for the arts.
+The Wallgraben-Theater, located in the vibrant city of Freiburg im Breisgau, Germany, offers an inviting glimpse into the world of performing arts. As a significant theatre building in Baden-Württemberg, it stands out not only for its artistic contributions but also for its unique cultural footprint within the region. This venue is a hub for theatrical performances, drawing both local audiences and visitors, making it a vital part of Freiburg's cultural identity. Here, the spirit of creativity flourishes, showcasing a variety of performances that range from classical plays to contemporary productions, all within a space that reflects the community's passion for the arts.
 
 Freiburg im Breisgau, renowned for its picturesque landscapes and historic architecture, provides a fitting backdrop to the Wallgraben-Theater. The theatre itself is easily accessible, making it an ideal stop for those exploring this charming city. Visitors can expect to immerse themselves in the artistic offerings of the theatre while also enjoying the surrounding cultural and natural beauty that Freiburg has to offer.
 
@@ -82,7 +82,7 @@ To make the most of your visit to the Wallgraben-Theater, consider these insider
 
 When planning your visit to the Wallgraben-Theater, keep the following practical considerations in mind:
 
-- **What to Bring:** It’s advisable to bring comfortable clothing, especially if you plan to explore the area before or after the performance. A light jacket may be useful for cooler evenings.
+- **What to Bring:** It's advisable to bring comfortable clothing, especially if you plan to explore the area before or after the performance. A light jacket may be useful for cooler evenings.
 
 - **Seasonal Considerations:** Freiburg experiences a temperate climate, so be prepared for varying weather conditions depending on the season. Check the forecast before your visit to dress appropriately.
 

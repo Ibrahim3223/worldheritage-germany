@@ -28,7 +28,7 @@ image_srcset:
 
 Leuphana University of Lüneburg, located in the historic city of Lüneburg, Germany, serves as an innovative educational institution dedicated to fostering interdisciplinary learning and research. Founded as a public university, it has become a key player in the academic landscape of Lower Saxony. The university is situated in a region known for its medieval architecture and vibrant cultural scene, making it an inviting destination for students, researchers, and visitors alike. With a commitment to sustainability and modern educational practices, Leuphana University stands out not only for its academic offerings but also as a hub for cultural exchange and community engagement.
 
-The university's strategic positioning in Lüneburg provides an opportunity for visitors to explore both its academic environment and the surrounding historical sites. This guide aims to provide insights into the university’s significance, architectural features, and visiting experiences, ensuring a comprehensive understanding of this important educational foundation.
+The university's strategic positioning in Lüneburg provides an opportunity for visitors to explore both its academic environment and the surrounding historical sites. This guide aims to provide insights into the university's significance, architectural features, and visiting experiences, ensuring a comprehensive understanding of this important educational foundation.
 
 ## History and Significance
 
@@ -61,7 +61,7 @@ Lüneburg is rich in history and culture, providing visitors with several nearby
 1. **Lüneburg Old Town**: A picturesque area filled with medieval buildings, charming streets, and vibrant cafes, perfect for leisurely exploration.
 2. **St. Nicholas Church**: An impressive Gothic church that showcases stunning architecture and offers insights into the region's religious history.
 3. **Lüneburg Heath**: A natural reserve known for its unique landscapes and diverse flora and fauna, ideal for hiking and outdoor activities.
-4. **German Salt Museum**: This museum highlights Lüneburg’s historical significance in salt production, featuring engaging exhibits that recount the city's industrial heritage.
+4. **German Salt Museum**: This museum highlights Lüneburg's historical significance in salt production, featuring engaging exhibits that recount the city's industrial heritage.
 
 These attractions provide a well-rounded experience, allowing visitors to immerse themselves in the local culture and history that complements the academic environment of Leuphana University.
 

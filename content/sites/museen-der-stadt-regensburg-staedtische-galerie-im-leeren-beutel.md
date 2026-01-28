@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Situated in the historic city of Regensburg, Germany, the Museen der Stadt Regensburg, particularly the Städtische Galerie im Leeren Beutel, serves as a vital cultural institution, showcasing an impressive array of artistic endeavors and historical artifacts. Regensburg, known for its well-preserved medieval architecture, is a UNESCO World Heritage Site, making it a significant destination for heritage enthusiasts. The museum plays a pivotal role in preserving the city’s rich cultural heritage while fostering an appreciation for contemporary art.
+Situated in the historic city of Regensburg, Germany, the Museen der Stadt Regensburg, particularly the Städtische Galerie im Leeren Beutel, serves as a vital cultural institution, showcasing an impressive array of artistic endeavors and historical artifacts. Regensburg, known for its well-preserved medieval architecture, is a UNESCO World Heritage Site, making it a significant destination for heritage enthusiasts. The museum plays a pivotal role in preserving the city's rich cultural heritage while fostering an appreciation for contemporary art.
 
 The Städtische Galerie im Leeren Beutel is part of the larger municipal museum system, dedicated to promoting visual arts and exploring the interplay of history and modernity. Visitors can expect a thought-provoking experience as they engage with a diverse range of exhibitions and collections that reflect both local and international artistic trends.
 
@@ -30,7 +30,7 @@ As you embark on your visit, the gallery's commitment to cultural education and 
 
 The Museen der Stadt Regensburg has a storied history that reflects the evolving cultural landscape of the region. While specific dates and milestones are not detailed, the museum has established itself as a cornerstone of local heritage. The institution serves not only as a repository for historical artifacts but also as a dynamic space for contemporary art. It has played a crucial role in documenting and interpreting the cultural narrative of Regensburg and its surroundings.
 
-The museum's significance extends beyond its collections. It acts as a hub for community engagement, often hosting events, workshops, and lectures that connect artists, scholars, and the public. This commitment to fostering a dialogue around art and culture is essential for understanding the ongoing relevance of the museum in today’s society.
+The museum's significance extends beyond its collections. It acts as a hub for community engagement, often hosting events, workshops, and lectures that connect artists, scholars, and the public. This commitment to fostering a dialogue around art and culture is essential for understanding the ongoing relevance of the museum in today's society.
 
 In addition to local art, the Städtische Galerie im Leeren Beutel often features exhibitions that highlight national and international themes, allowing for a broader context in which to appreciate the various artistic movements. This approach not only enhances the visitor experience but also positions Regensburg within the larger framework of contemporary art discourse.
 
@@ -46,11 +46,11 @@ The gallery also includes spaces for educational programming, where workshops an
 
 Visiting the Museen der Stadt Regensburg / Städtische Galerie im Leeren Beutel offers a unique opportunity to explore the intersection of history and contemporary art. To ensure a smooth experience, it is advisable to check the official website for current information regarding hours and ticket prices.
 
-The museum is conveniently located within the city, making it accessible by various modes of transportation. Public transport options, including buses and trams, can easily connect visitors to the museum’s location. For those traveling by car, parking information is typically available on the museum's website.
+The museum is conveniently located within the city, making it accessible by various modes of transportation. Public transport options, including buses and trams, can easily connect visitors to the museum's location. For those traveling by car, parking information is typically available on the museum's website.
 
 Plan to spend a couple of hours at the museum to fully appreciate the exhibitions and engage with the educational materials. The best times to visit often coincide with weekdays, when crowds are usually lighter, allowing for a more intimate experience with the art.
 
-Expect a variety of exhibitions that may change frequently, so it’s worthwhile to check what’s currently on display before your visit. The museum also often hosts special events that can enhance your visit, such as artist talks or workshops.
+Expect a variety of exhibitions that may change frequently, so it's worthwhile to check what's currently on display before your visit. The museum also often hosts special events that can enhance your visit, such as artist talks or workshops.
 
 ## Nearby Attractions
 

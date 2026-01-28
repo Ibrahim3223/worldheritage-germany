@@ -60,7 +60,7 @@ Wasserburg am Inn is home to several attractions that complement a visit to the 
 
 3. **Inn River Promenade**: Ideal for a scenic stroll, this promenade allows visitors to enjoy the natural beauty of the river and the charming town.
 
-4. **Local Markets**: Depending on the season, local markets may offer fresh produce and artisanal goods, providing a taste of the region’s culinary offerings.
+4. **Local Markets**: Depending on the season, local markets may offer fresh produce and artisanal goods, providing a taste of the region's culinary offerings.
 
 5. **Historical Town Center**: The town's center features traditional buildings and shops, offering a glimpse into the local culture and lifestyle.
 
@@ -105,7 +105,7 @@ For specific accessibility information, please check with the museum directly.
 Details regarding online ticket purchasing can be found on the museum's official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available, but it’s best to check the official website for confirmation.
+Facilities such as restrooms may be available, but it's best to check the official website for confirmation.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area after your museum visit.

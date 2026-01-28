@@ -30,7 +30,7 @@ Rügen, Germany's largest island, is a striking destination located in the Balti
 
 ## History and Significance
 
-Rügen has a rich history that reflects the broader narratives of German and European culture. The island has been inhabited since prehistoric times, with archaeological evidence pointing to settlements from the Stone Age. Over centuries, it has seen the influence of various cultures, including the Slavs, who played a crucial role in shaping the island’s early medieval history. Rügen became a part of the Holy Roman Empire in the 12th century, which marked the beginning of significant transformations in governance and religion on the island.
+Rügen has a rich history that reflects the broader narratives of German and European culture. The island has been inhabited since prehistoric times, with archaeological evidence pointing to settlements from the Stone Age. Over centuries, it has seen the influence of various cultures, including the Slavs, who played a crucial role in shaping the island's early medieval history. Rügen became a part of the Holy Roman Empire in the 12th century, which marked the beginning of significant transformations in governance and religion on the island.
 
 The island is also known for its role in maritime trade, which flourished due to its strategic location in the Baltic Sea. Rügen's coastal towns became vital ports, facilitating commerce and cultural exchange. The 19th century ushered in a new era as Rügen emerged as a popular resort destination, attracting artists and intellectuals who were inspired by its picturesque landscapes. This trend set the stage for Rügen's development into a center of tourism, a status it maintains to this day.
 
@@ -99,7 +99,7 @@ Accessibility varies by location, so it is advisable to check individual sites f
 Availability for online ticket purchases varies by attraction. Check the official websites for current options.
 
 ### Are there restrooms and cafes?
-Most tourist areas on Rügen have restrooms and cafes, but it’s best to verify specific facilities at individual sites.
+Most tourist areas on Rügen have restrooms and cafes, but it's best to verify specific facilities at individual sites.
 
 ### What should I wear?
 Dress comfortably for outdoor activities, keeping in mind the weather, and bring layers for varying temperatures.

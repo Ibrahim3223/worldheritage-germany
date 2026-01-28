@@ -72,7 +72,7 @@ Engaging with museum staff can enhance your visit, as they often have valuable i
 
 Visitors to Technik-Museum Pütnitz should be prepared for a day of exploration. Comfortable walking shoes are recommended, as you will likely be on your feet for several hours. Depending on the time of year, consider checking the weather forecast to dress appropriately for your visit.
 
-It’s also wise to bring along essentials such as water and snacks, especially if you plan to spend a significant amount of time at the museum. Seasonal considerations may affect your experience, so be sure to check for any special events or activities that might be taking place during your visit.
+It's also wise to bring along essentials such as water and snacks, especially if you plan to spend a significant amount of time at the museum. Seasonal considerations may affect your experience, so be sure to check for any special events or activities that might be taking place during your visit.
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ It’s also wise to bring along essentials such as water and snacks, especially 
 Most visitors typically spend about two to four hours exploring the exhibits, but your time may vary based on your interests.
 
 ### Is photography allowed?
-Photography policies can vary by exhibit, so it’s best to check with museum staff or signage upon arrival.
+Photography policies can vary by exhibit, so it's best to check with museum staff or signage upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

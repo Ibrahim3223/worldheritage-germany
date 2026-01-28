@@ -50,7 +50,7 @@ The altar is another highlight, showcasing elaborate carvings and artwork that r
 
 Visiting St. Stephan's Cathedral is an enriching experience that allows you to appreciate its historical and architectural significance. To reach the cathedral, visitors can utilize various transportation options available in Passau, including public transit, cycling, or walking, as the cathedral is centrally located and easily accessible.
 
-Check the official website for current information regarding opening hours and ticket prices, as these may vary throughout the year. It’s advisable to allocate sufficient time for your visit—typically, an hour or two will allow you to explore the interior, admire the artistic features, and soak in the atmosphere.
+Check the official website for current information regarding opening hours and ticket prices, as these may vary throughout the year. It's advisable to allocate sufficient time for your visit—typically, an hour or two will allow you to explore the interior, admire the artistic features, and soak in the atmosphere.
 
 The best times to visit are during weekdays or early mornings when crowds tend to be smaller. Special events, concerts, or religious services may also take place, providing a unique opportunity to experience the cathedral in a different light.
 
@@ -66,13 +66,13 @@ While St. Stephan's Cathedral is a highlight, the surrounding area of Passau off
 
 4. **Danube River Cruises**: A boat trip along the Danube offers a different perspective of Passau and its beautiful surroundings, allowing visitors to appreciate the natural landscape and historical architecture from the water.
 
-5. **St. Paul’s Church**: A short walk from the cathedral, this lesser-known church features beautiful interior artwork and provides a quieter space for reflection.
+5. **St. Paul's Church**: A short walk from the cathedral, this lesser-known church features beautiful interior artwork and provides a quieter space for reflection.
 
 ## Insider Tips
 
 To capture the beauty of St. Stephan's Cathedral in photographs, consider visiting during the early morning or late afternoon when the sunlight casts a warm glow on the building. Crowds are generally thinner during these times, allowing for clearer shots and a more serene atmosphere.
 
-For those looking to avoid larger groups, plan your visit on weekdays rather than weekends. Additionally, participating in a guided tour can provide valuable insights and enhance your understanding of the cathedral’s history and architectural features.
+For those looking to avoid larger groups, plan your visit on weekdays rather than weekends. Additionally, participating in a guided tour can provide valuable insights and enhance your understanding of the cathedral's history and architectural features.
 
 ## Practical Information
 

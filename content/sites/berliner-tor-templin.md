@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Berliner Tor, or Berlin Gate, is an iconic city gate located in Templin, a charming town in the Brandenburg state of Germany. This historical structure stands as a remarkable reminder of the region's medieval past and is a significant landmark within the town. Templin is strategically situated in the heart of Brandenburg, surrounded by lush forests and picturesque waterways, making it a delightful destination for both history enthusiasts and nature lovers alike. The Berliner Tor serves not only as a gateway into the historical center of Templin but also as a symbol of the town’s resilience and architectural heritage.
+The Berliner Tor, or Berlin Gate, is an iconic city gate located in Templin, a charming town in the Brandenburg state of Germany. This historical structure stands as a remarkable reminder of the region's medieval past and is a significant landmark within the town. Templin is strategically situated in the heart of Brandenburg, surrounded by lush forests and picturesque waterways, making it a delightful destination for both history enthusiasts and nature lovers alike. The Berliner Tor serves not only as a gateway into the historical center of Templin but also as a symbol of the town's resilience and architectural heritage.
 
-Visitors to Templin, which boasts a well-preserved old town with elements dating back to the Middle Ages, will find the Berliner Tor an essential stop. Its significance extends beyond its physical presence; it encapsulates the narratives of trade, defense, and urban development that have shaped Templin over the centuries. Whether you are wandering through the cobbled streets or enjoying a leisurely stroll along the town’s lakes, the Berliner Tor offers a glimpse into the storied past of this quaint German town.
+Visitors to Templin, which boasts a well-preserved old town with elements dating back to the Middle Ages, will find the Berliner Tor an essential stop. Its significance extends beyond its physical presence; it encapsulates the narratives of trade, defense, and urban development that have shaped Templin over the centuries. Whether you are wandering through the cobbled streets or enjoying a leisurely stroll along the town's lakes, the Berliner Tor offers a glimpse into the storied past of this quaint German town.
 
 ## History and Significance
 

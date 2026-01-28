@@ -28,7 +28,7 @@ image_srcset:
 
 The Jahn Memorial, located in the vibrant district of Neukölln in Berlin, is a poignant tribute commemorating the legacy of a significant figure in German history. This monument stands as a reminder of the cultural and historical narratives that shape our understanding of the past. Set against the backdrop of a bustling urban environment, the memorial invites visitors to reflect on the values and contributions of those who have come before us.
 
-Berlin itself is a city steeped in history, from its tumultuous past to its modern-day renaissance. The Jahn Memorial, while a focal point of remembrance, also serves as a gateway to understanding the broader socio-political landscape of Germany. Visitors to this site can expect a moment of contemplation amidst the city’s dynamic atmosphere, making it a worthwhile stop for anyone exploring the rich tapestry of Berlin's heritage.
+Berlin itself is a city steeped in history, from its tumultuous past to its modern-day renaissance. The Jahn Memorial, while a focal point of remembrance, also serves as a gateway to understanding the broader socio-political landscape of Germany. Visitors to this site can expect a moment of contemplation amidst the city's dynamic atmosphere, making it a worthwhile stop for anyone exploring the rich tapestry of Berlin's heritage.
 
 ## History and Significance
 
@@ -86,7 +86,7 @@ Seasonal considerations are also important; spring and fall offer mild weather t
 A visit to the Jahn Memorial typically takes around 30 minutes to an hour, allowing adequate time for reflection and exploration.
 
 ### Is photography allowed?
-Yes, photography is generally allowed at the memorial, making it a great opportunity to capture the site’s significance.
+Yes, photography is generally allowed at the memorial, making it a great opportunity to capture the site's significance.
 
 ### Are there guided tours?
 While specific guided tours may not be available, self-guided exploration is encouraged. Check local resources for any special events or talks that may provide additional insights.

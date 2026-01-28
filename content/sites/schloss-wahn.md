@@ -86,7 +86,7 @@ Seasonal considerations, such as weather changes, can impact your visit. Be sure
 A visit to Schloss Wahn can typically take between two to four hours, depending on your interest in exploring the grounds and taking in the historical context.
 
 ### Is photography allowed?
-While photography is generally permitted in outdoor areas, it’s advisable to check for any specific regulations at the site regarding indoor photography.
+While photography is generally permitted in outdoor areas, it's advisable to check for any specific regulations at the site regarding indoor photography.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

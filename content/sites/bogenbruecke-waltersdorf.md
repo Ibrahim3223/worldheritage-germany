@@ -52,7 +52,7 @@ The best times to visit are typically during daylight hours, when natural light 
 
 The Bogenbrücke Waltersdorf is situated within a region rich in cultural and natural attractions. Here are a few nearby places worth exploring:
 
-1. **Liebstadt Town Center**: A short distance away, this charming town offers a glimpse into local life, with shops and cafes that reflect the area’s character.
+1. **Liebstadt Town Center**: A short distance away, this charming town offers a glimpse into local life, with shops and cafes that reflect the area's character.
 
 2. **Local Parks**: Nearby parks often provide beautiful walkways and open spaces for relaxation and leisure activities, perfect for families or those looking to enjoy nature.
 
@@ -76,7 +76,7 @@ When preparing for your visit to the Bogenbrücke Waltersdorf, consider bringing
 
 - **Comfortable Shoes**: Depending on your plans, you may want to explore the surrounding area. Comfortable footwear will make your visit more enjoyable.
 
-- **Weather Considerations**: Check the weather forecast before your trip, as conditions can change. Dress in layers for cooler days, and don’t forget sunscreen for sunny outings.
+- **Weather Considerations**: Check the weather forecast before your trip, as conditions can change. Dress in layers for cooler days, and don't forget sunscreen for sunny outings.
 
 - **Snacks and Water**: If you plan to spend some time exploring, bringing along refreshments can enhance your experience, especially if there are no cafes nearby.
 

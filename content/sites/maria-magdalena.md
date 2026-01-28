@@ -44,7 +44,7 @@ Maria Magdalena is characterized by its distinct architectural features that ref
 
 Internally, visitors can expect to find a serene atmosphere that invites contemplation. The altar area, likely adorned with religious iconography, serves as a focal point for worship and reflection. The layout of the church is typically oriented to guide worshipers toward this sacred space, reinforcing the spiritual experience.
 
-While specific details on decorative elements or notable artworks within the church are not available, it's common for churches of this nature to house historical artifacts, such as baptismal fonts or historic liturgical items, which contribute to the narrative of the church’s significance over the years.
+While specific details on decorative elements or notable artworks within the church are not available, it's common for churches of this nature to house historical artifacts, such as baptismal fonts or historic liturgical items, which contribute to the narrative of the church's significance over the years.
 
 ## Visiting Information
 
@@ -101,7 +101,7 @@ Check with the official website for current accessibility options, as facilities
 Verify on the official website for information regarding ticket purchasing options and any potential fees.
 
 ### Are there restrooms and cafes?
-Nearby facilities may offer restrooms and dining options, but it’s prudent to check local resources for specifics.
+Nearby facilities may offer restrooms and dining options, but it's prudent to check local resources for specifics.
 
 ### What should I wear?
 Dress modestly, especially if attending a service. Comfortable clothing and shoes are suggested for walking and exploring the area. 

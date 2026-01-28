@@ -103,7 +103,7 @@ While specific accessibility information is not provided, it is advisable to che
 Check the official website for current information regarding admission and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-The availability of restrooms and cafes is not specified; therefore, it’s recommended to check the official website for facility details before your visit.
+The availability of restrooms and cafes is not specified; therefore, it's recommended to check the official website for facility details before your visit.
 
 ### What should I wear?
 Comfortable clothing and walking shoes are recommended, along with attire suitable for the weather conditions on the day of your visit.

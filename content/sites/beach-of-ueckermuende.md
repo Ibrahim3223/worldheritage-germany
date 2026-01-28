@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during weekdays, particularly in the early morn
 
 ## Practical Information
 
-When visiting the Beach of Ueckermünde, it’s advisable to bring essentials such as sunscreen, a hat, and plenty of water, especially during warmer months. If you plan to engage in water sports or activities, consider bringing your own equipment, as rental options may be limited.
+When visiting the Beach of Ueckermünde, it's advisable to bring essentials such as sunscreen, a hat, and plenty of water, especially during warmer months. If you plan to engage in water sports or activities, consider bringing your own equipment, as rental options may be limited.
 
 Seasonal considerations are important; while summer offers the ideal conditions for beach activities, spring and early autumn can also provide pleasant weather for walks and picnics. Be sure to check the local forecast before your visit to ensure a comfortable experience.
 

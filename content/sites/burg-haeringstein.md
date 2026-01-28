@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Perched in the scenic region of Ebingen, Germany, Burg Häringstein is a captivating castle that invites visitors to explore its storied past and architectural charm. This historic structure stands as a reminder of medieval fortifications, echoing tales of the knights and nobility who once roamed its halls. The castle’s strategic location offers a glimpse into its role in regional defense and governance, making it an intriguing stop for history enthusiasts and casual visitors alike.
+Perched in the scenic region of Ebingen, Germany, Burg Häringstein is a captivating castle that invites visitors to explore its storied past and architectural charm. This historic structure stands as a reminder of medieval fortifications, echoing tales of the knights and nobility who once roamed its halls. The castle's strategic location offers a glimpse into its role in regional defense and governance, making it an intriguing stop for history enthusiasts and casual visitors alike.
 
 Surrounded by the lush landscapes of the Swabian Jura, Burg Häringstein serves as both a visual delight and a cultural landmark. Its architecture reflects the styles and construction techniques of the time, showcasing the craftsmanship that has endured through the centuries. As you approach the castle, you will be drawn to its imposing silhouette against the backdrop of the serene countryside, offering a blend of historical significance and picturesque scenery.
 
@@ -48,7 +48,7 @@ Visitors will notice the thoughtful layout of the castle, which includes various
 
 Natural materials have been used extensively in the construction, emphasizing the harmony between the castle and its environment. Stone, wood, and other local materials not only enhance the aesthetic appeal but also contribute to the castle's durability. The windows, though smaller than those found in later periods, are strategically placed to allow light while maintaining the fortress's defensive capabilities.
 
-As you explore the castle, take note of the intricate details that adorn the architecture, from carvings to ornamental elements that reflect the artistic sensibilities of the time. Each corner of Burg Häringstein offers a story, inviting visitors to engage with the site’s historical and architectural narrative.
+As you explore the castle, take note of the intricate details that adorn the architecture, from carvings to ornamental elements that reflect the artistic sensibilities of the time. Each corner of Burg Häringstein offers a story, inviting visitors to engage with the site's historical and architectural narrative.
 
 ## Visiting Information
 

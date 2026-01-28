@@ -32,9 +32,9 @@ The gate's strategic location in the Old Town provides easy access to various at
 
 ## History and Significance
 
-The Einlasstor has a deep-rooted historical significance that reflects the evolution of the region it guards. Originally constructed as part of the city’s fortifications, it served both practical and symbolic purposes. The gate was designed to protect the inhabitants of the Old Town while also controlling trade and movement in and out of the city. As a key entry point, it played an essential role in the development of urban life in Upper Bavaria.
+The Einlasstor has a deep-rooted historical significance that reflects the evolution of the region it guards. Originally constructed as part of the city's fortifications, it served both practical and symbolic purposes. The gate was designed to protect the inhabitants of the Old Town while also controlling trade and movement in and out of the city. As a key entry point, it played an essential role in the development of urban life in Upper Bavaria.
 
-Throughout its history, the Einlasstor has undergone various transformations, adapting to the changing needs of the city. Despite the passage of time, it has retained its importance as a cultural landmark. The gate's architecture and design elements are reflective of the era in which it was built, showcasing the craftsmanship of that period. As a significant structure within the city’s heritage, the Einlasstor has been preserved and appreciated by both locals and visitors alike.
+Throughout its history, the Einlasstor has undergone various transformations, adapting to the changing needs of the city. Despite the passage of time, it has retained its importance as a cultural landmark. The gate's architecture and design elements are reflective of the era in which it was built, showcasing the craftsmanship of that period. As a significant structure within the city's heritage, the Einlasstor has been preserved and appreciated by both locals and visitors alike.
 
 The cultural importance of the Einlasstor extends beyond its physical structure. It serves as a reminder of the city's historical narrative, illustrating how urban environments evolve while retaining their historical roots. The gate is not only a focal point for tourists but also a cherished part of the community's identity, representing the resilience and continuity of Bavarian culture.
 
@@ -44,7 +44,7 @@ The Einlasstor exemplifies the architectural style characteristic of medieval ci
 
 One of the notable aspects of the Einlasstor is its decorative elements, which reflect the artistic sensibilities of the time. Intricate stone carvings and motifs adorn the gate, adding a layer of aesthetic appeal to its formidable presence. The pointed archways, a common feature of Gothic architecture, enhance its grandeur and provide a glimpse into the architectural trends of the period.
 
-Visitors will also appreciate the surrounding area, which complements the gate’s historical essence. The streets leading to and from the Einlasstor are lined with buildings that echo the architectural styles of the past, creating a cohesive atmosphere that transports visitors to a different era. As you explore the gate and its surroundings, take note of the craftsmanship and details that highlight the cultural heritage of the region.
+Visitors will also appreciate the surrounding area, which complements the gate's historical essence. The streets leading to and from the Einlasstor are lined with buildings that echo the architectural styles of the past, creating a cohesive atmosphere that transports visitors to a different era. As you explore the gate and its surroundings, take note of the craftsmanship and details that highlight the cultural heritage of the region.
 
 ## Visiting Information
 

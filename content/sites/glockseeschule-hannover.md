@@ -36,7 +36,7 @@ The Glockseeschule is situated in a district that has undergone various transfor
 
 The significance of the Glockseeschule is not solely in its architectural style but also in its role within the community. Schools like Glockseeschule have historically served as centers for social interaction and community engagement. They are places where families gather for events, and where local traditions are shared and celebrated. As such, Glockseeschule stands as a reflection of the community's commitment to education and social cohesion.
 
-Moreover, the evolution of educational philosophies has impacted the design and function of school buildings. While specific architectural features of Glockseeschule are not detailed, it can be inferred that the building may incorporate elements that facilitate modern teaching methods, such as open spaces for collaborative learning. The school’s presence in the Döhren-Wülfel district underscores the ongoing investment in education, which remains a cornerstone of societal development in Germany.
+Moreover, the evolution of educational philosophies has impacted the design and function of school buildings. While specific architectural features of Glockseeschule are not detailed, it can be inferred that the building may incorporate elements that facilitate modern teaching methods, such as open spaces for collaborative learning. The school's presence in the Döhren-Wülfel district underscores the ongoing investment in education, which remains a cornerstone of societal development in Germany.
 
 ## Architecture and Features
 

@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-Trutzeltz Castle, situated in the serene surroundings of Wierschem, Germany, invites visitors to explore its storied past and architectural charm. This castle, representing a significant piece of the regional heritage, offers a glimpse into the medieval era, showcasing the artistry and craftsmanship of its time. While the specific details of its construction and historical events remain elusive, the castle’s presence speaks volumes about the strategic importance of such fortifications in the landscape of German history.
+Trutzeltz Castle, situated in the serene surroundings of Wierschem, Germany, invites visitors to explore its storied past and architectural charm. This castle, representing a significant piece of the regional heritage, offers a glimpse into the medieval era, showcasing the artistry and craftsmanship of its time. While the specific details of its construction and historical events remain elusive, the castle's presence speaks volumes about the strategic importance of such fortifications in the landscape of German history.
 
 The allure of Trutzeltz Castle is not just in its stone walls but also in the stories they tell. As you approach the site, you can almost hear the whispers of history echoing through its corridors, making it a fascinating destination for history enthusiasts and casual travelers alike. Its location adds to its charm, as visitors can easily access it from various points in Germany, making it an ideal stop for those exploring the region.
 
-Whether you’re looking to delve into the past, appreciate the architectural beauty, or simply enjoy a tranquil outing, Trutzeltz Castle promises an enriching experience that highlights the importance of preserving heritage sites.
+Whether you're looking to delve into the past, appreciate the architectural beauty, or simply enjoy a tranquil outing, Trutzeltz Castle promises an enriching experience that highlights the importance of preserving heritage sites.
 
 ## History and Significance
 

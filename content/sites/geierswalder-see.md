@@ -38,7 +38,7 @@ The history of Geierswalder See is closely linked to the development of the surr
 
 The establishment of Geierswalder See as a leisure destination highlights the cultural importance of natural spaces in urban settings. As industrial activities waned, the lake became a focal point for community gatherings and outdoor activities, fostering a sense of connection to nature among residents. This shift reflects broader societal trends prioritizing environmental conservation and the revitalization of natural areas for public enjoyment.
 
-Today, Geierswalder See stands as a symbol of the successful integration of recreational spaces within urbanized areas. It serves not only as a site for leisure but also as a reminder of the region's industrial past, illustrating how landscapes can evolve and adapt to meet the needs of people and wildlife. The lake’s surroundings feature walking paths and green spaces, encouraging visitors to engage with the environment while enjoying its scenic beauty.
+Today, Geierswalder See stands as a symbol of the successful integration of recreational spaces within urbanized areas. It serves not only as a site for leisure but also as a reminder of the region's industrial past, illustrating how landscapes can evolve and adapt to meet the needs of people and wildlife. The lake's surroundings feature walking paths and green spaces, encouraging visitors to engage with the environment while enjoying its scenic beauty.
 
 ## Architecture and Features
 

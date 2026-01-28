@@ -94,7 +94,7 @@ Seasonal considerations may also play a role in your visit, as certain times of 
 A visit to Buchau Abbey typically requires a couple of hours, allowing time to explore the site and appreciate its ambiance.
 
 ### Is photography allowed?
-Photography policies may vary, especially in religious spaces. It’s advisable to check for any restrictions upon arrival.
+Photography policies may vary, especially in religious spaces. It's advisable to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may enhance your understanding of the abbey's history and significance.

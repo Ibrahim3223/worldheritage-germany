@@ -34,7 +34,7 @@ As coal mining expanded, so did the communities surrounding these mines. The wor
 
 The decline of coal mining in the late 20th century marked a significant turning point for Zeche Am Schwaben and similar sites. As the demand for coal diminished, many mines were closed, leading to economic and social shifts in the region. However, rather than fading into obscurity, Zeche Am Schwaben has been preserved as a site of historical importance. It serves as a cultural landmark, reminding visitors of the industrial heritage that once defined the area.
 
-In contemporary times, Zeche Am Schwaben stands as a site for education and reflection. It highlights the balance between industrial progress and environmental sustainability, prompting discussions about the future of energy and industry. The mine’s preservation allows for an exploration of the complex narratives of labor, community, and the effects of industrialization, making it a significant destination for history enthusiasts and casual visitors alike.
+In contemporary times, Zeche Am Schwaben stands as a site for education and reflection. It highlights the balance between industrial progress and environmental sustainability, prompting discussions about the future of energy and industry. The mine's preservation allows for an exploration of the complex narratives of labor, community, and the effects of industrialization, making it a significant destination for history enthusiasts and casual visitors alike.
 
 ## Architecture and Features
 

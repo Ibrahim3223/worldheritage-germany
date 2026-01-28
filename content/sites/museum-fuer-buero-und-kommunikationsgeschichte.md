@@ -84,7 +84,7 @@ If you plan to spend the day in Bamberg, consider bringing a reusable water bott
 Generally, visitors find that spending about two hours at the museum allows for a comprehensive experience of the exhibits. 
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check upon arrival for any specific restrictions on taking photos.
+Photography policies can vary, so it's best to check upon arrival for any specific restrictions on taking photos.
 
 ### Are there guided tours?
 The museum may offer guided tours or educational programs. Check the official website for availability and scheduling.

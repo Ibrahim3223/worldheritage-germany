@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-In the heart of Dresden, Germany, stands the Moritzmonument—a distinguished monument that commemorates significant historical events and figures. This site is emblematic of the city’s rich cultural heritage, reflecting the artistic and architectural developments that have taken place over the centuries. The monument is not only a point of interest for history enthusiasts but also a testament to the resilience and spirit of the citizens of Dresden. 
+In the heart of Dresden, Germany, stands the Moritzmonument—a distinguished monument that commemorates significant historical events and figures. This site is emblematic of the city's rich cultural heritage, reflecting the artistic and architectural developments that have taken place over the centuries. The monument is not only a point of interest for history enthusiasts but also a testament to the resilience and spirit of the citizens of Dresden. 
 
-Dresden, known for its stunning baroque architecture and vibrant arts scene, provides a captivating backdrop for the Moritzmonument. Visitors to the city will find this monument a vital part of their exploration, as it serves as a reminder of the city’s past while contributing to its contemporary artistic landscape. Positioned at coordinates 51.0533, 13.746, the monument is easily accessible, making it a must-see for anyone touring the area.
+Dresden, known for its stunning baroque architecture and vibrant arts scene, provides a captivating backdrop for the Moritzmonument. Visitors to the city will find this monument a vital part of their exploration, as it serves as a reminder of the city's past while contributing to its contemporary artistic landscape. Positioned at coordinates 51.0533, 13.746, the monument is easily accessible, making it a must-see for anyone touring the area.
 
 The Moritzmonument invites you to engage with its surroundings and reflect on the narratives that have shaped Dresden over the years. Whether you are an avid historian, an architecture buff, or simply in search of a profound cultural experience, this monument is poised to enrich your journey through the city.
 
@@ -46,7 +46,7 @@ The Moritzmonument features a design that captures the essence of the period dur
 
 Visitors can expect to find various artistic elements that contribute to the monument's overall aesthetic. The craftsmanship involved in its creation is indicative of the skilled artisans who dedicated their talents to bringing this monument to life. Each feature of the Moritzmonument tells a story, inviting contemplation and appreciation from those who take the time to explore its intricacies.
 
-As you approach the Moritzmonument, take a moment to appreciate its scale and the details that adorn it. The surrounding area offers ample opportunities for photography, allowing visitors to capture the monument alongside the picturesque backdrop of Dresden’s architecture.
+As you approach the Moritzmonument, take a moment to appreciate its scale and the details that adorn it. The surrounding area offers ample opportunities for photography, allowing visitors to capture the monument alongside the picturesque backdrop of Dresden's architecture.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ The Moritzmonument is conveniently located near several notable attractions that
 
 2. **Frauenkirche**: This iconic church, known for its impressive dome and stunning interior, is a significant landmark in Dresden. It stands as a symbol of reconciliation following the destruction of World War II and is a must-visit for anyone exploring the city.
 
-3. **Semperoper**: The renowned opera house of Dresden is celebrated for its stunning architecture and world-class performances. A visit to the Semperoper offers a glimpse into the city’s vibrant cultural scene.
+3. **Semperoper**: The renowned opera house of Dresden is celebrated for its stunning architecture and world-class performances. A visit to the Semperoper offers a glimpse into the city's vibrant cultural scene.
 
 4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this beautiful terrace overlooks the Elbe River and provides a picturesque setting for leisurely strolls and relaxation.
 
@@ -76,7 +76,7 @@ The Moritzmonument is conveniently located near several notable attractions that
 
 To make the most of your visit to the Moritzmonument, consider these insider tips:
 
-- **Photography**: The monument presents excellent opportunities for photography, particularly during golden hour when the light casts a warm glow. Experiment with different angles to capture its essence against the backdrop of Dresden’s skyline.
+- **Photography**: The monument presents excellent opportunities for photography, particularly during golden hour when the light casts a warm glow. Experiment with different angles to capture its essence against the backdrop of Dresden's skyline.
 
 - **Crowd Avoidance**: To enjoy a more serene experience, try visiting during weekdays or early in the morning. This can help you avoid larger groups of tourists and allow for more personal reflection.
 
@@ -107,7 +107,7 @@ Specific information about guided tours may vary, so check the official website 
 To avoid crowds, consider visiting early in the morning or during weekdays.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not mentioned, many urban areas in Dresden offer accommodations for visitors with mobility needs. It’s advisable to check ahead for accessibility options.
+While specific accessibility details are not mentioned, many urban areas in Dresden offer accommodations for visitors with mobility needs. It's advisable to check ahead for accessibility options.
 
 ### Can I buy tickets online?
 Details regarding online ticket purchases are not provided, so it is recommended to check the official website for current information.

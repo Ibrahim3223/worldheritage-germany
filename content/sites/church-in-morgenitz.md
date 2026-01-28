@@ -62,7 +62,7 @@ While the Church in Morgenitz is undoubtedly a highlight, the surrounding region
 
 2. **Local Parks**: The area is home to various parks that offer scenic walking paths, ideal for those looking to enjoy nature and unwind after visiting the church.
 
-3. **Cultural Museums**: Explore local museums that showcase the region’s history and culture, providing context to the experiences offered at the church.
+3. **Cultural Museums**: Explore local museums that showcase the region's history and culture, providing context to the experiences offered at the church.
 
 4. **Community Events**: Depending on the time of year, check for local festivals or events that may be taking place, which can provide additional cultural insights and a chance to engage with the community.
 

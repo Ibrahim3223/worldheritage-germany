@@ -28,7 +28,7 @@ image_srcset:
 
 Paderborn Cathedral, officially known as the Cathedral of St. Mary, St. Liborius, and St. Kilian, is a prominent architectural landmark situated in Paderborn, Germany. This cathedral serves not only as a religious center but also as a historical monument that encapsulates centuries of cultural and spiritual evolution. Located at coordinates 51.718889, 8.755278, the cathedral is easily accessible and has become a focal point for both locals and tourists alike.
 
-The significance of Paderborn Cathedral extends beyond its religious functions; it is a symbol of the city’s rich history and its role in shaping the region's ecclesiastical and political landscape. Visitors to the cathedral will find a space that reflects the resilience and artistry of the communities that built and maintained it. Whether you are an architecture enthusiast, a history buff, or someone seeking spiritual solace, Paderborn Cathedral promises a profound experience that resonates with its storied past.
+The significance of Paderborn Cathedral extends beyond its religious functions; it is a symbol of the city's rich history and its role in shaping the region's ecclesiastical and political landscape. Visitors to the cathedral will find a space that reflects the resilience and artistry of the communities that built and maintained it. Whether you are an architecture enthusiast, a history buff, or someone seeking spiritual solace, Paderborn Cathedral promises a profound experience that resonates with its storied past.
 
 ## History and Significance
 
@@ -44,7 +44,7 @@ Paderborn Cathedral showcases a blend of architectural styles, reflecting its lo
 
 Inside, the cathedral features a spacious nave flanked by towering columns, creating an ambiance of awe and reverence. The use of light is particularly notable; stained-glass windows filter sunlight into vibrant hues, illuminating the interior and enhancing the spiritual atmosphere. The altar area is another focal point, often highlighted by ornate decorations and religious artifacts.
 
-One of the cathedral's most striking features is the crypt, which is an important site for pilgrimage. This area contains tombs of bishops and other notable figures, adding to the historical significance of the cathedral. Additionally, the cathedral's tower offers an imposing presence, serving as a visual landmark within Paderborn and symbolizing the community’s devotion.
+One of the cathedral's most striking features is the crypt, which is an important site for pilgrimage. This area contains tombs of bishops and other notable figures, adding to the historical significance of the cathedral. Additionally, the cathedral's tower offers an imposing presence, serving as a visual landmark within Paderborn and symbolizing the community's devotion.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ Paderborn Cathedral is accessible to visitors year-round, making it a must-see d
 
 Check the official website for current information regarding visiting hours and any potential admission fees. Expect to spend around one to two hours exploring the cathedral, allowing ample time to appreciate its architecture, art, and historical significance. The best times to visit are typically during weekdays or early mornings when the cathedral is less crowded. 
 
-Visitors can expect a serene environment, with opportunities for quiet reflection as well as guided tours that delve deeper into the cathedral’s history and architecture. Be prepared for a respectful atmosphere; as a functioning place of worship, visitors are encouraged to maintain a level of decorum.
+Visitors can expect a serene environment, with opportunities for quiet reflection as well as guided tours that delve deeper into the cathedral's history and architecture. Be prepared for a respectful atmosphere; as a functioning place of worship, visitors are encouraged to maintain a level of decorum.
 
 ## Nearby Attractions
 
@@ -66,7 +66,7 @@ While Paderborn Cathedral is a highlight, the city of Paderborn offers several o
 
 4. **St. Anton Church**: Another architectural marvel, this church is known for its modern design and vibrant community, providing a contrast to the historical cathedral.
 
-5. **Paderborn’s Old Town**: A charming area filled with shops, cafes, and historical buildings, perfect for a leisurely stroll after visiting the cathedral.
+5. **Paderborn's Old Town**: A charming area filled with shops, cafes, and historical buildings, perfect for a leisurely stroll after visiting the cathedral.
 
 ## Insider Tips
 

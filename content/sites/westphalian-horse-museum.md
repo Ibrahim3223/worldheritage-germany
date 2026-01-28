@@ -81,7 +81,7 @@ When preparing for your visit to the Westphalian Horse Museum, keep the followin
 Visitors typically spend a few hours exploring the museum, depending on their interest in equestrian history.
 
 ### Is photography allowed?
-Check the museum’s guidelines for specific areas where photography may be permitted.
+Check the museum's guidelines for specific areas where photography may be permitted.
 
 ### Are there guided tours?
 It is advisable to inquire about guided tour availability upon your arrival or check the official website for current offerings.
@@ -93,10 +93,10 @@ Weekdays or early mornings may provide a quieter experience, particularly during
 Check the official website or contact the museum directly for information regarding accessibility options.
 
 ### Can I buy tickets online?
-For the most accurate information on ticket purchasing, check the museum’s official website.
+For the most accurate information on ticket purchasing, check the museum's official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but it’s best to confirm specific amenities through the official website.
+Facilities such as restrooms are typically available, but it's best to confirm specific amenities through the official website.
 
 ### What should I wear?
 Dress comfortably, with appropriate footwear for walking. Be mindful of seasonal weather conditions in Münster. 

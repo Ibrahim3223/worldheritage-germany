@@ -60,7 +60,7 @@ When planning a visit to Georgsplatz, it's essential to consider various transpo
 
 To fully appreciate Georgsplatz, allocate a few hours to explore the site. While the exact duration may vary depending on personal interests, expect to spend around one to two hours engaging with the buildings and surroundings. This timeframe allows for leisurely strolls, photography, and perhaps enjoying a moment of reflection in the peaceful atmosphere.
 
-As for hours of operation and entry fees, visitors should check the official website for current information to ensure a smooth experience. Depending on the time of year, special events or guided tours may also be available, providing additional context and insight into the site’s significance.
+As for hours of operation and entry fees, visitors should check the official website for current information to ensure a smooth experience. Depending on the time of year, special events or guided tours may also be available, providing additional context and insight into the site's significance.
 
 The best time to visit Georgsplatz is during the spring and summer months when the weather is mild, and outdoor spaces can be enjoyed to their fullest. However, each season offers its unique charm, so visitors can find beauty in the site year-round.
 
@@ -88,7 +88,7 @@ Visiting Georgsplatz can be an enjoyable experience, and some insider tips can e
 
 To avoid crowds, consider visiting during weekdays, particularly in the morning hours. This timing allows for a more tranquil exploration of the ensemble, providing opportunities for undisturbed photography and reflection.
 
-Don’t forget to engage with locals if the opportunity arises. They can provide valuable insights into the history of Georgsplatz and the surrounding area, enriching your visit with personal stories and recommendations.
+Don't forget to engage with locals if the opportunity arises. They can provide valuable insights into the history of Georgsplatz and the surrounding area, enriching your visit with personal stories and recommendations.
 
 ## Practical Information
 

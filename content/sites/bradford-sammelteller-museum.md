@@ -86,7 +86,7 @@ Seasonal considerations, such as public holidays or special events, may impact y
 Visitors typically spend about one to two hours at the museum to fully appreciate the collection.
 
 ### Is photography allowed?
-Check the museum’s policy on photography before your visit, as regulations may vary.
+Check the museum's policy on photography before your visit, as regulations may vary.
 
 ### Are there guided tours?
 Inquire about the availability of guided tours, as these can enhance your understanding of the exhibits.

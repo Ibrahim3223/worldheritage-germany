@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Fliesenmuseum Boizenburg is an intriguing museum that invites visitors to explore the unique world of tiles and their cultural significance in Germany. Located in Boizenburg, a town known for its historical connections and craftsmanship, this museum serves as a dedicated space for tile enthusiasts and curious travelers alike. The museum’s exhibits highlight the artistry and history of tile production, showcasing how this decorative art form has evolved over time.
+The Fliesenmuseum Boizenburg is an intriguing museum that invites visitors to explore the unique world of tiles and their cultural significance in Germany. Located in Boizenburg, a town known for its historical connections and craftsmanship, this museum serves as a dedicated space for tile enthusiasts and curious travelers alike. The museum's exhibits highlight the artistry and history of tile production, showcasing how this decorative art form has evolved over time.
 
 As you step into the Fliesenmuseum, you will encounter a range of exhibits that reflect both the aesthetic and functional aspects of tiles throughout history. The museum not only preserves this craft but also educates visitors about the various techniques and styles that have emerged in tile making. The importance of tiles in German culture cannot be understated, as they have been integral to domestic and public architecture for centuries. 
 
@@ -42,7 +42,7 @@ Visitors to the museum can delve into the different types of tiles, their produc
 
 ## Architecture and Features
 
-The Fliesenmuseum Boizenburg is housed in a structure that complements its exhibits, reflecting the traditional architectural styles of the region. While specific architectural details are not provided, the museum’s design likely incorporates elements that resonate with the local aesthetic, creating an inviting atmosphere for visitors.
+The Fliesenmuseum Boizenburg is housed in a structure that complements its exhibits, reflecting the traditional architectural styles of the region. While specific architectural details are not provided, the museum's design likely incorporates elements that resonate with the local aesthetic, creating an inviting atmosphere for visitors.
 
 Inside, the museum features a variety of displays that showcase different types of tiles, their designs, and their applications. These exhibits may include historical pieces, modern interpretations, and various artistic styles that highlight the evolution of tile art. The layout is designed to facilitate easy navigation, allowing visitors to engage deeply with the artifacts on display.
 

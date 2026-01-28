@@ -48,9 +48,9 @@ The design of the museum emphasizes accessibility, ensuring that all visitors ca
 
 ## Visiting Information
 
-When planning a visit to the Gerhard Marcks House, it’s essential to consider transportation options and current visiting guidelines. The museum is conveniently located in Bremen’s Mitte district, making it reachable by various modes of public transport. Trams and buses frequently service the area, facilitating easy access for both locals and tourists.
+When planning a visit to the Gerhard Marcks House, it's essential to consider transportation options and current visiting guidelines. The museum is conveniently located in Bremen's Mitte district, making it reachable by various modes of public transport. Trams and buses frequently service the area, facilitating easy access for both locals and tourists.
 
-Check the official website for current information regarding opening hours and ticket prices. Visitors can expect to spend a few hours exploring the museum, depending on their level of interest in the exhibitions. It’s advisable to check for any special events or temporary exhibitions that may be taking place during your visit.
+Check the official website for current information regarding opening hours and ticket prices. Visitors can expect to spend a few hours exploring the museum, depending on their level of interest in the exhibitions. It's advisable to check for any special events or temporary exhibitions that may be taking place during your visit.
 
 The best times to visit are typically during weekdays when crowds are smaller, allowing for a more relaxed experience. Additionally, visiting during special exhibition openings can provide unique insights through artist talks and guided tours.
 
@@ -72,7 +72,7 @@ While the Gerhard Marcks House is a destination in its own right, several other 
 
 To make the most of your visit to the Gerhard Marcks House, consider the following tips:
 
-- **Photography**: Be sure to check the museum's policy on photography. Some exhibitions may have restrictions, so it’s best to ask upon arrival.
+- **Photography**: Be sure to check the museum's policy on photography. Some exhibitions may have restrictions, so it's best to ask upon arrival.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekday mornings when the museum tends to be less crowded.
 

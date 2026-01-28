@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-The Palais der Sekundogenitur, an elegant palace located in Dresden, Germany, is a remarkable example of historical architecture that embodies the cultural heritage of the region. Situated in the heart of Saxony, this building serves as a testament to the city’s rich past and its significance in European history. The palace is not only a striking visual landmark but also a cultural hub, reflecting the artistic and architectural movements that have shaped Dresden over centuries.
+The Palais der Sekundogenitur, an elegant palace located in Dresden, Germany, is a remarkable example of historical architecture that embodies the cultural heritage of the region. Situated in the heart of Saxony, this building serves as a testament to the city's rich past and its significance in European history. The palace is not only a striking visual landmark but also a cultural hub, reflecting the artistic and architectural movements that have shaped Dresden over centuries.
 
 Dresden, known for its stunning baroque buildings and vibrant arts scene, offers a backdrop that enhances the allure of the Palais der Sekundogenitur. Visitors are drawn to this site not just for its architectural beauty but also for the story it tells about the Saxon royal family and their legacy. Exploring this palace provides an opportunity to delve into the artistic achievements and historical developments that have influenced the region.
 
-As part of your visit to Dresden, the Palais der Sekundogenitur promises to enrich your understanding of the city’s heritage. Whether you're an architecture enthusiast, a history buff, or simply in search of a distinctive experience, this palace invites you to uncover its secrets and appreciate its place in the cultural landscape of Germany.
+As part of your visit to Dresden, the Palais der Sekundogenitur promises to enrich your understanding of the city's heritage. Whether you're an architecture enthusiast, a history buff, or simply in search of a distinctive experience, this palace invites you to uncover its secrets and appreciate its place in the cultural landscape of Germany.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ The architectural design of the Palais der Sekundogenitur showcases a blend of s
 
 Inside, the palace is equally captivating, with carefully crafted interiors that include opulent rooms and historically significant spaces. While specific details about the rooms may vary, visitors can expect to see a range of artistic decorations that speak to the craftsmanship of the period. The use of decorative motifs, ornate furnishings, and art pieces contributes to the overall aesthetic appeal of the palace.
 
-One of the notable features of the Palais der Sekundogenitur is its harmonious integration into the surrounding urban environment. The palace is strategically positioned to complement the architectural landscape of Dresden, enhancing the city’s character and charm. This thoughtful design approach ensures that the Palais der Sekundogenitur remains an integral part of the city's historical narrative.
+One of the notable features of the Palais der Sekundogenitur is its harmonious integration into the surrounding urban environment. The palace is strategically positioned to complement the architectural landscape of Dresden, enhancing the city's character and charm. This thoughtful design approach ensures that the Palais der Sekundogenitur remains an integral part of the city's historical narrative.
 
 Overall, the architecture of the Palais der Sekundogenitur not only serves as a beautiful example of palace design but also reflects the cultural and artistic values of its time. As you explore this remarkable building, you will gain insight into the architectural practices and historical influences that have shaped Dresden's built environment.
 
@@ -102,7 +102,7 @@ When preparing for your visit to the Palais der Sekundogenitur, keep the followi
 Typically, a visit to the Palais der Sekundogenitur can take around 1 to 2 hours, depending on your interests and pace.
 
 ### Is photography allowed?
-Photography policies may vary by location within the palace, so it’s best to check for any restrictions during your visit.
+Photography policies may vary by location within the palace, so it's best to check for any restrictions during your visit.
 
 ### Are there guided tours?
 Guided tours may be available, providing an opportunity to learn more about the history and architecture of the palace.

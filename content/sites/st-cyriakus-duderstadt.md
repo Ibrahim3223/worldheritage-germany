@@ -72,7 +72,7 @@ These nearby attractions enhance the experience of visiting St. Cyriakus, allowi
 
 For those interested in photography, St. Cyriakus provides a plethora of opportunities to capture its architectural beauty. Early morning or late afternoon light can add a warm glow to your images, highlighting the details of the structure. 
 
-To avoid crowds, consider visiting during weekdays or early in the morning, which often allows for a more peaceful experience. Additionally, if you are interested in learning more about the church’s history and architecture, check in advance for any guided tours that may be available.
+To avoid crowds, consider visiting during weekdays or early in the morning, which often allows for a more peaceful experience. Additionally, if you are interested in learning more about the church's history and architecture, check in advance for any guided tours that may be available.
 
 ## Practical Information
 

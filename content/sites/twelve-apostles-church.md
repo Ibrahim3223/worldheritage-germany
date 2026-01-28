@@ -66,7 +66,7 @@ While in Züssow, visitors may also want to explore several nearby attractions t
 
 4. **Usedom Island**: Known for its beaches and seaside resorts, Usedom presents an opportunity for leisure and relaxation after exploring the church.
 
-5. **Pomeranian State Museum**: Located in Greifswald, this museum showcases the cultural history of the Pomerania region, offering deeper insights into the area’s heritage.
+5. **Pomeranian State Museum**: Located in Greifswald, this museum showcases the cultural history of the Pomerania region, offering deeper insights into the area's heritage.
 
 ## Insider Tips
 

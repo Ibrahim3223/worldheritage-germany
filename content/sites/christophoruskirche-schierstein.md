@@ -52,7 +52,7 @@ When planning a visit to Christophoruskirche, it is advisable to check the offic
 
 Accessibility is an important consideration, and Schierstein is generally well-connected by public transport. Visitors can reach the church via local bus routes or by taking a leisurely stroll from nearby accommodations. The area surrounding Christophoruskirche is pedestrian-friendly, allowing for an enjoyable exploration of the local architecture and streetscape.
 
-While the time needed to explore the church may vary based on individual interests, a visit typically lasts around 30 minutes to an hour. This allows ample opportunity to appreciate the church’s features, engage in personal reflection, and perhaps speak with local congregants who may be present.
+While the time needed to explore the church may vary based on individual interests, a visit typically lasts around 30 minutes to an hour. This allows ample opportunity to appreciate the church's features, engage in personal reflection, and perhaps speak with local congregants who may be present.
 
 The best times to visit can vary, but weekdays often offer a quieter experience, allowing for contemplation and a more intimate engagement with the space. Weekends may see more activity, particularly during services, which could be an enriching experience for those interested in local worship practices.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Torhaus des Friedhofs Zum Sportplatz, a distinguished gatehouse located in Hochkirch, Germany, serves as both a historical landmark and an architectural highlight of the late 19th century. This structure is not merely an entrance to a cemetery but a significant piece of the region's cultural and architectural narrative. Its design, embodying the Rundbogenstil (Round Arch Style), reflects the aesthetic sensibilities of its time and serves as a visual marker within the streetscape of Hochkirch.
 
-As travelers explore this quaint area, they will find the Torhaus des Friedhofs Zum Sportplatz not just as a point of entry but as a symbol of the community’s respect for its heritage. The gatehouse stands as a reminder of the past while seamlessly integrating into the contemporary landscape. With its strategic location marked by coordinates 51.148111, 14.573421, visitors are invited to delve into the historical significance that this structure holds, offering an enriching experience for those interested in history, architecture, and local culture.
+As travelers explore this quaint area, they will find the Torhaus des Friedhofs Zum Sportplatz not just as a point of entry but as a symbol of the community's respect for its heritage. The gatehouse stands as a reminder of the past while seamlessly integrating into the contemporary landscape. With its strategic location marked by coordinates 51.148111, 14.573421, visitors are invited to delve into the historical significance that this structure holds, offering an enriching experience for those interested in history, architecture, and local culture.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ The gatehouse has become an integral part of the community's identity. It serves
 
 ## Architecture and Features
 
-The Torhaus des Friedhofs Zum Sportplatz is constructed in the Rundbogenstil, a style that emerged in the late 19th century characterized by its use of rounded arches. This architectural choice lends the gatehouse a distinctive appearance, differentiating it from other structures in the area. The design is marked by its symmetry and decorative elements, which are typical of the period’s architectural tendencies.
+The Torhaus des Friedhofs Zum Sportplatz is constructed in the Rundbogenstil, a style that emerged in the late 19th century characterized by its use of rounded arches. This architectural choice lends the gatehouse a distinctive appearance, differentiating it from other structures in the area. The design is marked by its symmetry and decorative elements, which are typical of the period's architectural tendencies.
 
 The gatehouse features a robust yet elegant facade with arches that create a welcoming entryway. The use of local materials likely reflects the craftsmanship of the time, showcasing the skills of builders who meticulously designed such structures to withstand the test of time. While specific details about the materials and dimensions are not provided, the overall impression of the Torhaus is one of dignified simplicity combined with ornate detailing, making it a notable feature of the Hochkirch streetscape.
 
@@ -85,7 +85,7 @@ For a successful visit to the Torhaus des Friedhofs Zum Sportplatz, keep the fol
 A visit typically requires around an hour to appreciate the gatehouse and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is permitted, and it’s encouraged to capture the architectural details.
+Yes, photography is permitted, and it's encouraged to capture the architectural details.
 
 ### Are there guided tours?
 Information about guided tours is not specified; check the official website for current offerings.

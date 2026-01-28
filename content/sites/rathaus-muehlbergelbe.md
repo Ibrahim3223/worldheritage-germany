@@ -38,7 +38,7 @@ The Rathaus Mühlberg/Elbe has long been a focal point for the administrative an
 
 In Mühlberg, the Rathaus has played a crucial role in local governance, housing the offices of municipal leaders and serving as a venue for public meetings. The building is a symbol of local democracy and civic engagement, embodying the spirit of collaboration among the residents of Mühlberg/Elbe.
 
-Culturally, the Rathaus is significant for its role in community events, including celebrations, public announcements, and civic ceremonies. It serves as a backdrop for the collective memory of the town’s inhabitants, creating a sense of belonging and continuity through the years. The building's history is intertwined with that of Mühlberg itself, making it a vital part of the community's narrative.
+Culturally, the Rathaus is significant for its role in community events, including celebrations, public announcements, and civic ceremonies. It serves as a backdrop for the collective memory of the town's inhabitants, creating a sense of belonging and continuity through the years. The building's history is intertwined with that of Mühlberg itself, making it a vital part of the community's narrative.
 
 ## Architecture and Features
 

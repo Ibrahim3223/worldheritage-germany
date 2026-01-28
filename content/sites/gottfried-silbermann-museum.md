@@ -44,7 +44,7 @@ The Gottfried-Silbermann-Museum is housed in a building that complements its sig
 
 Notable features include displays of original organ components, detailed models, and interactive installations that allow visitors to engage with the sounds and mechanics of the instruments. The museum often features restored organs, which showcase Silbermann's craftsmanship and the artistry involved in creating these magnificent instruments.
 
-Visitors can expect to find informative panels that provide context and background on the exhibits, enriching their understanding of the significance of each piece. The museum's commitment to preserving and presenting Silbermann’s legacy is evident in its well-curated collections, which celebrate the intersection of art, technology, and music.
+Visitors can expect to find informative panels that provide context and background on the exhibits, enriching their understanding of the significance of each piece. The museum's commitment to preserving and presenting Silbermann's legacy is evident in its well-curated collections, which celebrate the intersection of art, technology, and music.
 
 ## Visiting Information
 

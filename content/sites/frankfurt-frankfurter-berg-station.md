@@ -30,7 +30,7 @@ Frankfurt Frankfurter Berg station is a significant railway station located in F
 
 The station is situated at coordinates 50.1701, 8.6772, positioning it within a bustling urban environment. This area is characterized by its blend of residential neighborhoods and commercial activity, making the station a focal point for daily transit. Frankfurter Berg station not only serves functional purposes but also reflects the broader developments in transportation infrastructure within Frankfurt, a city known for its financial significance and cultural heritage.
 
-Visitors to Frankfurt will find that the station offers more than just transportation options; it is a gateway to experiencing the city’s dynamic atmosphere. With a commitment to efficiency and accessibility, Frankfurter Berg station plays an integral role in the daily lives of many, connecting them to the heart of Frankfurt and its surrounding areas.
+Visitors to Frankfurt will find that the station offers more than just transportation options; it is a gateway to experiencing the city's dynamic atmosphere. With a commitment to efficiency and accessibility, Frankfurter Berg station plays an integral role in the daily lives of many, connecting them to the heart of Frankfurt and its surrounding areas.
 
 ## History and Significance
 

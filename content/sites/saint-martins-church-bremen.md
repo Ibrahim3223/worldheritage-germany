@@ -36,7 +36,7 @@ The origins of Saint Martin's Church reflect a long-standing tradition of Christ
 
 The significance of Saint Martin's Church lies in its reflection of Bremen's development as a major trading hub in the Hanseatic League. Churches during this period were not only places of worship but also community centers that fostered social cohesion. Saint Martin's Church was integral to the local community, offering spiritual guidance and a sense of belonging, which has been particularly important in times of social change.
 
-As a church building, it embodies the values and beliefs of the people of Bremen, standing as a site where generations have gathered to celebrate life’s milestones, from baptisms to weddings and funerals. The church's enduring presence is a reminder of the deep roots of faith in the community and its ability to adapt through history.
+As a church building, it embodies the values and beliefs of the people of Bremen, standing as a site where generations have gathered to celebrate life's milestones, from baptisms to weddings and funerals. The church's enduring presence is a reminder of the deep roots of faith in the community and its ability to adapt through history.
 
 ## Architecture and Features
 

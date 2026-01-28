@@ -34,7 +34,7 @@ Whether you are a history enthusiast, an architecture aficionado, or simply a tr
 
 ## History and Significance
 
-The history of Marktplatz 3 in Herrieden is intertwined with the development of the town itself. As a city hall, it has been the center of local governance, overseeing the administration of public affairs and the facilitation of community events. While specific historical dates may be elusive, the structure undoubtedly has roots that trace back to earlier times in Herrieden’s history, reflecting the evolution of civic architecture in the region.
+The history of Marktplatz 3 in Herrieden is intertwined with the development of the town itself. As a city hall, it has been the center of local governance, overseeing the administration of public affairs and the facilitation of community events. While specific historical dates may be elusive, the structure undoubtedly has roots that trace back to earlier times in Herrieden's history, reflecting the evolution of civic architecture in the region.
 
 The significance of Marktplatz 3 extends beyond its role as a city hall. It is a symbol of Herrieden's growth and development over the years. The building has likely witnessed numerous local and regional events, from administrative decisions to community gatherings, reinforcing its place in the hearts of the townspeople.
 
@@ -84,7 +84,7 @@ For those looking to capture the essence of Marktplatz 3 and its surroundings, c
 
 To avoid crowds, aim for visits during weekdays, particularly in the morning. This timing can offer a quieter experience, allowing for more intimate exploration of the site and its features.
 
-Engaging with local vendors and residents can provide unique insights into the culture of Herrieden, so don’t hesitate to strike up a conversation. This interaction can enrich your visit and offer a deeper appreciation of the town's community spirit.
+Engaging with local vendors and residents can provide unique insights into the culture of Herrieden, so don't hesitate to strike up a conversation. This interaction can enrich your visit and offer a deeper appreciation of the town's community spirit.
 
 ## Practical Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Deutschordenskirche, located in the Sachsenhausen district of Frankfurt, Germany, is a noteworthy church building that encapsulates the heritage and architectural style of its time. This site is not only a place of worship but also an important landmark that reflects the cultural and historical evolution of the region. Positioned in a vibrant neighborhood, the church serves as a silent observer to the bustling life surrounding it, drawing visitors who seek to understand the spiritual and historical significance of such a structure.
 
-As you approach the Deutschordenskirche, you’ll find it nestled within a lively urban landscape, offering a unique blend of serenity and local culture. The church stands out as a significant piece of architectural heritage, inviting visitors to explore its history and architectural features. Whether you are a history enthusiast, an architecture lover, or someone seeking a moment of reflection, the Deutschordenskirche promises a rewarding experience.
+As you approach the Deutschordenskirche, you'll find it nestled within a lively urban landscape, offering a unique blend of serenity and local culture. The church stands out as a significant piece of architectural heritage, inviting visitors to explore its history and architectural features. Whether you are a history enthusiast, an architecture lover, or someone seeking a moment of reflection, the Deutschordenskirche promises a rewarding experience.
 
 ## History and Significance
 
@@ -72,7 +72,7 @@ If you prefer a more intimate experience, visiting on weekdays rather than weeke
 
 ## Practical Information
 
-When preparing for your visit to the Deutschordenskirche, it’s advisable to bring comfortable walking shoes, as exploring the church and surrounding area may involve some walking. Additionally, having a camera or smartphone handy can help you document your experience.
+When preparing for your visit to the Deutschordenskirche, it's advisable to bring comfortable walking shoes, as exploring the church and surrounding area may involve some walking. Additionally, having a camera or smartphone handy can help you document your experience.
 
 Seasonal considerations can play a role in your visit. Spring and autumn generally offer pleasant weather for exploring, while winter may bring festive decorations that could enhance your experience. Always check the weather forecast to dress accordingly.
 
@@ -82,7 +82,7 @@ Seasonal considerations can play a role in your visit. Spring and autumn general
 A visit typically lasts between one to two hours, allowing ample time to explore the church and its surroundings.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any restrictions upon arrival.
+Photography policies can vary, so it's best to check for any restrictions upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the church's history and architecture.
@@ -94,7 +94,7 @@ Visiting during weekdays or early mornings can provide a quieter experience comp
 Check the official website for accessibility information to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s advisable to check the official website for details.
+Ticket purchasing options may vary, so it's advisable to check the official website for details.
 
 ### Are there restrooms and cafes?
 Amenities such as restrooms and nearby cafes can enhance your visit; check local resources for specifics.

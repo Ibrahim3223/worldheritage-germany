@@ -52,7 +52,7 @@ The architectural features of the Nieuwe Kerk not only highlight its religious p
 
 Visiting the Nieuwe Kerk offers a unique opportunity to immerse oneself in the local culture and heritage of Emden. The church is centrally located, making it easily accessible for travelers exploring the city. Various transport options are available, including public transportation and walking routes that connect to other key attractions in the area.
 
-To ensure a fulfilling visit, check the official website for current hours and ticket prices, as these may vary throughout the year. Typically, visitors can expect a serene atmosphere conducive to contemplation and exploration. A visit to the Nieuwe Kerk may take approximately one to two hours, depending on individual interests in the church’s art and history.
+To ensure a fulfilling visit, check the official website for current hours and ticket prices, as these may vary throughout the year. Typically, visitors can expect a serene atmosphere conducive to contemplation and exploration. A visit to the Nieuwe Kerk may take approximately one to two hours, depending on individual interests in the church's art and history.
 
 The best times to visit are often during weekdays when the church is less crowded, allowing for a more intimate experience. Additionally, visiting during special events or services can provide insight into the church's active role in the community.
 

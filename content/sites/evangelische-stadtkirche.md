@@ -32,7 +32,7 @@ Visitors to the Evangelische Stadtkirche will find themselves immersed in an atm
 
 ## History and Significance
 
-The Evangelische Stadtkirche has been a central part of Rastatt's community for many years. While specific dates of its establishment or significant events are not detailed, the church is indicative of the Protestant Reformation's influence in Germany. As a key site for Protestant worship, it has played a significant role in the spiritual life of the town, reflecting the region’s religious history and the broader cultural shifts that have shaped it.
+The Evangelische Stadtkirche has been a central part of Rastatt's community for many years. While specific dates of its establishment or significant events are not detailed, the church is indicative of the Protestant Reformation's influence in Germany. As a key site for Protestant worship, it has played a significant role in the spiritual life of the town, reflecting the region's religious history and the broader cultural shifts that have shaped it.
 
 In addition to its religious function, the church has been a witness to various historical events in Rastatt. Its presence in the town has provided a sense of continuity and stability throughout periods of change, including significant political and social transformations. The church often serves as a venue for community gatherings, concerts, and other cultural events, reinforcing its importance as a center of social life in Rastatt.
 
@@ -92,7 +92,7 @@ When visiting the Evangelische Stadtkirche, it's useful to consider a few practi
 A visit to the Evangelische Stadtkirche typically takes about 30 minutes to an hour, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check on-site signage or ask staff regarding specific areas where photography is permitted.
+Photography policies can vary, so it's best to check on-site signage or ask staff regarding specific areas where photography is permitted.
 
 ### Are there guided tours?
 Information on guided tours may be available; check the official website for details on any scheduled tours or events.

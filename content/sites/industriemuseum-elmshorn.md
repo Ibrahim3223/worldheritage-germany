@@ -36,7 +36,7 @@ Industriemuseum Elmshorn stands as a reflection of the town's industrial evoluti
 
 The exhibits within the museum delve into various themes related to industrialization, including the transition from traditional craftsmanship to modern manufacturing. This not only illustrates the technological advancements of the time but also underscores the social changes that accompanied these developments. The museum serves as a space for education and reflection, emphasizing the importance of understanding our industrial past to appreciate contemporary advancements.
 
-In addition to its educational role, the museum is a gathering place for the community, fostering discussions about heritage and the future of local industries. It often hosts events and workshops that engage visitors of all ages, making it a dynamic part of Elmshorn’s cultural landscape.
+In addition to its educational role, the museum is a gathering place for the community, fostering discussions about heritage and the future of local industries. It often hosts events and workshops that engage visitors of all ages, making it a dynamic part of Elmshorn's cultural landscape.
 
 ## Architecture and Features
 
@@ -69,7 +69,7 @@ Each of these nearby locations enriches your visit to Elmshorn, allowing for a w
 
 To make the most of your visit to the Industriemuseum Elmshorn, consider the following insider tips:
 
-- **Photography**: While many museums allow photography, it’s wise to check for any restrictions on flash or specific exhibits. Capture memorable moments, but be respectful of other visitors.
+- **Photography**: While many museums allow photography, it's wise to check for any restrictions on flash or specific exhibits. Capture memorable moments, but be respectful of other visitors.
   
 - **Crowd Avoidance**: Aim to visit during weekday mornings or early afternoons. This tends to be quieter, offering a more intimate experience with the exhibits.
 
@@ -87,7 +87,7 @@ Check the official website for any specific guidelines or suggestions that may b
 Visitors typically spend between one to three hours at the museum, depending on their interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so check the museum’s guidelines for any restrictions on photography.
+Photography policies may vary, so check the museum's guidelines for any restrictions on photography.
 
 ### Are there guided tours?
 The museum may offer guided tours. Check their official website for current information on availability and scheduling.

@@ -80,7 +80,7 @@ To make the most of your visit to Bieleboh, consider these insider tips:
 
 ## Practical Information
 
-When visiting Bieleboh, it’s essential to be prepared. Here are some practical considerations:
+When visiting Bieleboh, it's essential to be prepared. Here are some practical considerations:
 
 - **What to Bring**: Comfortable hiking shoes are crucial, along with a refillable water bottle, snacks, and a small first-aid kit. A map or a downloaded trail app can also be beneficial for navigation.
 
@@ -101,13 +101,13 @@ While specific guided tours may not be available, self-guided exploration is enc
 The best times to visit are typically during spring and autumn when the weather is mild and the scenery is vibrant.
 
 ### Is it wheelchair accessible?
-The trails may vary in accessibility. It’s advisable to check local resources for detailed information regarding specific trails.
+The trails may vary in accessibility. It's advisable to check local resources for detailed information regarding specific trails.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding any fees or tickets.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s best to check in advance. Bringing your own refreshments is recommended.
+Facilities may be limited; it's best to check in advance. Bringing your own refreshments is recommended.
 
 ### What should I wear?
 Comfortable outdoor clothing and sturdy footwear are essential. Layering is advisable to adjust to changing weather conditions. 

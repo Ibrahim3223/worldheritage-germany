@@ -84,7 +84,7 @@ To enhance your experience at Museumsstellmacherei Langenrehm, consider the foll
 
 When preparing for your visit to Museumsstellmacherei Langenrehm, keep in mind the following practical considerations:
 
-- **What to Bring**: Comfortable walking shoes are advisable, as you may be exploring both indoor and outdoor spaces. Bring a notebook or sketchbook if you’re inspired to jot down your thoughts or ideas.
+- **What to Bring**: Comfortable walking shoes are advisable, as you may be exploring both indoor and outdoor spaces. Bring a notebook or sketchbook if you're inspired to jot down your thoughts or ideas.
 
 - **Seasonal Considerations**: Check the weather forecast before your visit. If you plan to explore the surrounding area, appropriate clothing for the season is recommended.
 

@@ -32,15 +32,15 @@ As you approach Kremper Tor, you are enveloped by the charm of Neustadt, a town 
 
 ## History and Significance
 
-Kremper Tor is a city gate that encapsulates the essence of Neustadt in Holstein’s historical significance. Originally part of the town's fortifications, it was constructed to protect the settlement and regulate trade. As cities in medieval Europe expanded, gates like Kremper Tor became crucial for defense and control, marking the boundaries of urban life and serving as a point of entry for merchants and travelers.
+Kremper Tor is a city gate that encapsulates the essence of Neustadt in Holstein's historical significance. Originally part of the town's fortifications, it was constructed to protect the settlement and regulate trade. As cities in medieval Europe expanded, gates like Kremper Tor became crucial for defense and control, marking the boundaries of urban life and serving as a point of entry for merchants and travelers.
 
-Over the centuries, Kremper Tor has witnessed numerous events that have shaped the town's character. While specific dates of construction or modifications may not be documented here, the gate’s enduring presence speaks to its importance in the town’s development. The architecture and design reflect the styles prevalent during its period of use, showcasing the craftsmanship of the artisans who built it.
+Over the centuries, Kremper Tor has witnessed numerous events that have shaped the town's character. While specific dates of construction or modifications may not be documented here, the gate's enduring presence speaks to its importance in the town's development. The architecture and design reflect the styles prevalent during its period of use, showcasing the craftsmanship of the artisans who built it.
 
 In addition to its physical attributes, Kremper Tor represents the cultural identity of Neustadt. As a focal point for both locals and visitors, it has played a role in various community events and celebrations. The gate serves as a reminder of the town's historical narrative, embodying the resilience and evolution of Neustadt through times of peace and conflict.
 
 ## Architecture and Features
 
-Kremper Tor is a striking example of a city gate, characterized by its robust construction and distinctive architectural features. The gate’s design integrates elements typical of medieval fortifications, including thick walls and a commanding presence. Though specific architectural details are not provided, city gates of this nature often include defensive structures such as towers or crenellations.
+Kremper Tor is a striking example of a city gate, characterized by its robust construction and distinctive architectural features. The gate's design integrates elements typical of medieval fortifications, including thick walls and a commanding presence. Though specific architectural details are not provided, city gates of this nature often include defensive structures such as towers or crenellations.
 
 The materials used in the construction of Kremper Tor contribute to its historical authenticity. Typically, such structures were built from locally sourced stone, ensuring durability and strength. Visitors can appreciate the craftsmanship that has withstood the test of time, as well as the wear and patina that tell the story of its long existence.
 
@@ -77,7 +77,7 @@ To make the most of your visit to Kremper Tor, consider the following tips:
 
 ## Practical Information
 
-When planning your visit to Kremper Tor, it’s essential to consider a few practical aspects:
+When planning your visit to Kremper Tor, it's essential to consider a few practical aspects:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Bringing a camera is also a good idea for capturing the gate and the scenic views.
 - **Seasonal Considerations**: The best time to visit is during the spring and summer months when the weather is pleasant. However, the site can be visited year-round, so dress appropriately for the season.
@@ -103,7 +103,7 @@ Accessibility information may vary. It is recommended to check the official webs
 For specific information regarding ticketing, including online purchases, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available, but it’s advisable to check the official website for the latest information.
+Facilities such as restrooms and nearby cafes may be available, but it's advisable to check the official website for the latest information.
 
 ### What should I wear?
 Dress comfortably and appropriately for the weather, especially if you plan to explore the surrounding area. Comfortable walking shoes are recommended.

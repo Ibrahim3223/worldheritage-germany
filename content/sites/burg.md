@@ -44,7 +44,7 @@ Today, Burg stands as a cultural heritage monument, preserving its historical es
 
 ## Architecture and Features
 
-Burg is characterized by its robust architectural style, typical of the castles built during the medieval period. The castle’s design reflects the defensive needs of its time, with sturdy walls and strategic vantage points. Visitors will notice the imposing stone structure, which has stood the test of time, characterized by its formidable towers and battlements.
+Burg is characterized by its robust architectural style, typical of the castles built during the medieval period. The castle's design reflects the defensive needs of its time, with sturdy walls and strategic vantage points. Visitors will notice the imposing stone structure, which has stood the test of time, characterized by its formidable towers and battlements.
 
 One of the notable features of Burg is its well-preserved outer walls, which showcase the craftsmanship of the era. The entrance to the castle is often marked by a grand gateway, leading visitors into a courtyard that might have once been bustling with activity. Inside, remnants of residential quarters and communal spaces hint at the castle's dual role as a fortress and a home.
 
@@ -60,7 +60,7 @@ Check the official website for current information regarding opening hours and a
 
 The best times to visit Burg typically align with the milder months of spring and autumn when the weather enhances the experience of walking through the castle's exterior and enjoying the surrounding landscape. Visiting during weekdays may also help avoid larger crowds, providing a more intimate experience.
 
-Expect to engage with informative displays and possibly guided tours that may offer deeper insights into the castle’s history and architecture. A visit could take anywhere from one to two hours, depending on your interest in exploring the details of this cultural monument.
+Expect to engage with informative displays and possibly guided tours that may offer deeper insights into the castle's history and architecture. A visit could take anywhere from one to two hours, depending on your interest in exploring the details of this cultural monument.
 
 ## Nearby Attractions
 

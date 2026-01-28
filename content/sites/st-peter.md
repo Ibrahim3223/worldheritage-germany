@@ -3,7 +3,7 @@ title: "St. Peter"
 site_name: "St. Peter"
 date: 2026-01-26
 draft: false
-description: "St. Peter Church in Leipzig stands as a significant landmark within the city’s rich ecclesiastical and cultural landscape."
+description: "St. Peter Church in Leipzig stands as a significant landmark within the city's rich ecclesiastical and cultural landscape."
 region: "Saxony"
 country: "Germany"
 heritage_type: "Church Building"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Peter Church in Leipzig stands as a significant landmark within the city’s rich ecclesiastical and cultural landscape. This church, known for its historical and architectural relevance, is situated in the heart of Leipzig, a city renowned for its vibrant cultural life and deep-rooted history. St. Peter serves not only as a place of worship but also as a testament to the city's evolution, reflecting the various architectural styles and religious movements that have shaped it over the centuries. Visitors to St. Peter can expect to immerse themselves in an environment that resonates with history, spirituality, and the community's ongoing narrative.
+St. Peter Church in Leipzig stands as a significant landmark within the city's rich ecclesiastical and cultural landscape. This church, known for its historical and architectural relevance, is situated in the heart of Leipzig, a city renowned for its vibrant cultural life and deep-rooted history. St. Peter serves not only as a place of worship but also as a testament to the city's evolution, reflecting the various architectural styles and religious movements that have shaped it over the centuries. Visitors to St. Peter can expect to immerse themselves in an environment that resonates with history, spirituality, and the community's ongoing narrative.
 
 The church's location in Leipzig positions it among a plethora of cultural and historical sites, making it an ideal stop for travelers exploring the city. With its striking architecture and welcoming atmosphere, St. Peter invites both the faithful and those seeking to appreciate its historical significance. The promise of discovering the intricate details of its design and the stories embedded within its walls makes a visit to St. Peter an enriching experience.
 
@@ -66,7 +66,7 @@ St. Peter Church is situated in proximity to several notable attractions within 
 
 4. **Bach Museum**: Dedicated to the life and work of the composer, this museum is a must-visit for music enthusiasts and those interested in Leipzig's cultural heritage.
 
-5. **Old City Hall**: A historical building offering insights into the city’s governance and architectural styles throughout the ages.
+5. **Old City Hall**: A historical building offering insights into the city's governance and architectural styles throughout the ages.
 
 ## Insider Tips
 

@@ -84,7 +84,7 @@ Be mindful of any seasonal events that may influence your visit, such as festiva
 A visit to the Heiliges Grab typically takes about an hour, allowing time to explore the chapel and reflect on its significance.
 
 ### Is photography allowed?
-Photography policies can vary; it’s best to check upon arrival or refer to the official website for any restrictions.
+Photography policies can vary; it's best to check upon arrival or refer to the official website for any restrictions.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website or through local tourism offices, offering insight into the chapel's history and architecture.

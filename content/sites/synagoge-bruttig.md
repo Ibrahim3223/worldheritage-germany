@@ -28,7 +28,7 @@ image_srcset:
 
 The Synagoge Bruttig is a significant architectural and cultural landmark situated in the picturesque region of Rhineland-Palatinate, Germany. This protected monument serves as a powerful reminder of the Jewish community that once thrived in the area. With its historical and cultural weight, the synagogue draws visitors interested in understanding the heritage and history of Jewish life in Germany. Whether you are a history enthusiast, an architecture aficionado, or simply curious about the cultural narratives of the past, a visit to this site promises insight and reflection.
 
-Located in a region characterized by its scenic beauty and rich history, the Synagoge Bruttig holds a unique place in the local landscape. Its preservation as a protected building underscores its importance not only for the Jewish community but also for the broader narrative of the area’s cultural evolution. Visitors will find themselves immersed in the stories that this site conveys, offering a glimpse into the past that continues to resonate today.
+Located in a region characterized by its scenic beauty and rich history, the Synagoge Bruttig holds a unique place in the local landscape. Its preservation as a protected building underscores its importance not only for the Jewish community but also for the broader narrative of the area's cultural evolution. Visitors will find themselves immersed in the stories that this site conveys, offering a glimpse into the past that continues to resonate today.
 
 ## History and Significance
 

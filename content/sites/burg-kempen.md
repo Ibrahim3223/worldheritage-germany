@@ -36,13 +36,13 @@ Burg Kempen has a long and storied history, reflecting the evolution of architec
 
 The castle likely played a pivotal role in local governance and defense, acting as a stronghold for noble families and a center for regional power. Its design and construction would have been influenced by the prevailing architectural trends of the time, showcasing the craftsmanship and materials available in the region. 
 
-As a cultural landmark, Burg Kempen contributes to the identity of Kempen and its surrounding areas. The castle has likely inspired numerous local legends and stories, enriching the cultural fabric of the community. Preservation efforts have ensured that this historical site remains a point of interest for both locals and tourists, fostering a sense of pride in the region’s heritage.
+As a cultural landmark, Burg Kempen contributes to the identity of Kempen and its surrounding areas. The castle has likely inspired numerous local legends and stories, enriching the cultural fabric of the community. Preservation efforts have ensured that this historical site remains a point of interest for both locals and tourists, fostering a sense of pride in the region's heritage.
 
 ## Architecture and Features
 
 Burg Kempen is characterized by its traditional castle architecture, which serves as a prime example of medieval design. While specific details about its dimensions and structural features are not provided, the castle typically includes elements such as sturdy stone walls, towers, and a central courtyard. These features were essential for both defense and daily life within the castle.
 
-Visitors can expect to see elements that reflect the architectural styles prevalent during its time of construction. The castle's imposing structure and fortifications would have been designed to withstand sieges and attacks, showcasing the military ingenuity of its builders. The use of local materials in its construction is also likely, highlighting the region’s resources and craftsmanship.
+Visitors can expect to see elements that reflect the architectural styles prevalent during its time of construction. The castle's imposing structure and fortifications would have been designed to withstand sieges and attacks, showcasing the military ingenuity of its builders. The use of local materials in its construction is also likely, highlighting the region's resources and craftsmanship.
 
 Inside, the castle may contain various rooms and chambers that served different functions, from living quarters for nobility to areas designated for storage and defense. Each of these spaces tells a part of the story of life in the castle, offering insight into the daily routines and challenges faced by its inhabitants.
 
@@ -88,7 +88,7 @@ If you're visiting during the peak summer months, prepare for larger crowds and 
 A visit to Burg Kempen typically takes 2-4 hours, allowing time to explore the castle, its grounds, and any nearby attractions.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any specific restrictions that may be in place.
+Photography is generally permitted, but it's advisable to respect any specific restrictions that may be in place.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for current offerings and schedules.
@@ -103,7 +103,7 @@ Accessibility details are not specified; it's recommended to check the official 
 Ticket purchasing options may vary; check the official website for details on online ticketing availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on-site; however, it’s best to confirm this on the official website. Nearby cafes may offer additional dining options.
+Restroom facilities may be available on-site; however, it's best to confirm this on the official website. Nearby cafes may offer additional dining options.
 
 ### What should I wear?
 Dress comfortably and wear sturdy shoes, especially if you plan to explore the castle grounds. Consider layering clothing based on the weather forecast.

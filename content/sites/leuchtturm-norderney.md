@@ -70,7 +70,7 @@ While visiting, one can expect a variety of informative exhibits about the light
 
 For those looking to capture the perfect photograph of Leuchtturm Norderney, consider visiting during the golden hours of sunrise and sunset when the light casts a warm glow on the lighthouse. To avoid larger crowds, aim for early morning visits or weekdays, particularly during off-peak seasons. 
 
-Exploring the area surrounding the lighthouse can yield unique perspectives and compositions, so allow time to wander and discover different vantage points. Engaging with local guides can also enhance your understanding of the lighthouse's significance, so don’t hesitate to ask questions while visiting.
+Exploring the area surrounding the lighthouse can yield unique perspectives and compositions, so allow time to wander and discover different vantage points. Engaging with local guides can also enhance your understanding of the lighthouse's significance, so don't hesitate to ask questions while visiting.
 
 ## Practical Information
 

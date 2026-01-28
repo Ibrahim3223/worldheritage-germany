@@ -60,9 +60,9 @@ While exploring Börneplatzsynagoge, consider visiting these nearby attractions 
 
 1. **Frankfurt Cathedral (Kaiserdom St. Bartholomew)**: This Gothic masterpiece is a short distance away and offers stunning architecture and historical significance.
    
-2. **Römer**: The iconic city hall of Frankfurt, known for its medieval architecture, is a key landmark in the city’s history.
+2. **Römer**: The iconic city hall of Frankfurt, known for its medieval architecture, is a key landmark in the city's history.
    
-3. **Städel Museum**: One of Germany’s most important art museums, featuring works from the Middle Ages to contemporary art.
+3. **Städel Museum**: One of Germany's most important art museums, featuring works from the Middle Ages to contemporary art.
    
 4. **Palmengarten**: A beautiful botanical garden showcasing a diverse range of plants and offering a peaceful retreat from the urban environment.
    
@@ -74,7 +74,7 @@ Photography within the Börneplatzsynagoge may be subject to specific guidelines
 
 ## Practical Information
 
-When planning your visit to Börneplatzsynagoge, it’s advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Seasonal considerations may also play a role in your visit; for instance, in winter, dress warmly, while summer visits may require lighter clothing.
+When planning your visit to Börneplatzsynagoge, it's advisable to bring along a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding area. Seasonal considerations may also play a role in your visit; for instance, in winter, dress warmly, while summer visits may require lighter clothing.
 
 It can be helpful to familiarize yourself with local customs and practices before visiting the synagogue, as this can enhance your experience and show respect for the sacred nature of the site.
 

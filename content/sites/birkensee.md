@@ -38,7 +38,7 @@ Moreover, Birkensee holds cultural importance for the local community. It serves
 
 ## Architecture and Features
 
-Birkensee’s primary appeal lies in its natural landscape rather than man-made structures. The reserve features a variety of habitats, including wetlands, forests, and open water, each contributing to its ecological diversity. The centerpiece of the reserve is the lake itself, which provides a habitat for numerous aquatic species and attracts birds, making it a popular spot for birdwatching.
+Birkensee's primary appeal lies in its natural landscape rather than man-made structures. The reserve features a variety of habitats, including wetlands, forests, and open water, each contributing to its ecological diversity. The centerpiece of the reserve is the lake itself, which provides a habitat for numerous aquatic species and attracts birds, making it a popular spot for birdwatching.
 
 The landscape is characterized by its lush vegetation, featuring a mix of native trees, shrubs, and grasses that change with the seasons. This ever-evolving tapestry of plant life not only supports wildlife but also offers visitors a different experience depending on when they visit. 
 
@@ -80,7 +80,7 @@ When visiting Birkensee, it is advisable to bring essentials such as water, snac
 
 Seasonal considerations are important; spring and autumn are ideal for wildlife viewing, while summer months can be warmer and more crowded. Winter visits can also be rewarding, offering a tranquil atmosphere and opportunities for observing wildlife in a different light.
 
-Before heading out, it’s wise to check the official website for any specific guidelines or updates that may affect your visit, including any potential changes in access or regulations.
+Before heading out, it's wise to check the official website for any specific guidelines or updates that may affect your visit, including any potential changes in access or regulations.
 
 ## Frequently Asked Questions
 

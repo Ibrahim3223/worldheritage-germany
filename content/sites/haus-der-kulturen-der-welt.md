@@ -88,9 +88,9 @@ To make the most of your visit to the Haus der Kulturen der Welt, consider these
 
 ## Practical Information
 
-When visiting the Haus der Kulturen der Welt, it’s helpful to be prepared:
+When visiting the Haus der Kulturen der Welt, it's helpful to be prepared:
 
-- **What to Bring**: A notebook or digital device for taking notes can be beneficial, especially if you’re attending discussions or workshops. Comfortable shoes are recommended for walking through the exhibitions.
+- **What to Bring**: A notebook or digital device for taking notes can be beneficial, especially if you're attending discussions or workshops. Comfortable shoes are recommended for walking through the exhibitions.
 
 - **Seasonal Considerations**: Depending on the time of year, consider the weather and dress accordingly. If visiting in colder months, layering is advisable, as indoor spaces may vary in temperature.
 

@@ -60,7 +60,7 @@ Check the official website for current information regarding hours of operation 
 
 What can you expect during your visit? The Christian-Wagner-Haus offers a thoughtful exploration of poetry, with exhibits that encourage interaction and reflection. Visitors typically spend a few hours at the museum, allowing ample time to engage with the displays and perhaps participate in any ongoing programs or discussions.
 
-The best times to visit the museum are generally during weekdays or early in the day, as this may help you avoid larger crowds. However, if you are interested in attending specific events or exhibitions, checking the museum’s schedule in advance is recommended.
+The best times to visit the museum are generally during weekdays or early in the day, as this may help you avoid larger crowds. However, if you are interested in attending specific events or exhibitions, checking the museum's schedule in advance is recommended.
 
 In summary, a visit to the Christian-Wagner-Haus promises an engaging and educational experience, whether you are a poetry enthusiast or simply curious about the literary arts. 
 
@@ -84,7 +84,7 @@ These attractions not only enhance your visit to the Christian-Wagner-Haus but a
 
 To make the most of your visit to the Christian-Wagner-Haus, consider these insider tips:
 
-- **Photography**: Check the museum’s policy on photography before your visit. While some areas may allow it, others may not, and respecting these guidelines is essential.
+- **Photography**: Check the museum's policy on photography before your visit. While some areas may allow it, others may not, and respecting these guidelines is essential.
 
 - **Crowd Avoidance**: To enjoy a more tranquil experience, plan your visit during the week or early in the day. This strategy can help you avoid larger groups and allow for a more personal exploration of the exhibits.
 

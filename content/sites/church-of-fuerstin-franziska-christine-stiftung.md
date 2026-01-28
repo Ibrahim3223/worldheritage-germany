@@ -36,7 +36,7 @@ The Church of Fürstin-Franziska-Christine-Stiftung has deep roots in the cultur
 
 The foundation plays a pivotal role in the local community, offering not just a place for worship but also a hub for charitable activities. It stands as a reminder of the importance of community ties and social responsibility. The church's establishment reflects the broader historical context of the region, where religious and social institutions were often intertwined, contributing to the societal framework of their time.
 
-Today, the Church of Fürstin-Franziska-Christine-Stiftung continues to serve the people of Essen, providing a space for reflection, community gatherings, and cultural programming. Its historical and social significance cannot be overstated, as it represents both the spiritual and philanthropic dimensions of the community’s past and present.
+Today, the Church of Fürstin-Franziska-Christine-Stiftung continues to serve the people of Essen, providing a space for reflection, community gatherings, and cultural programming. Its historical and social significance cannot be overstated, as it represents both the spiritual and philanthropic dimensions of the community's past and present.
 
 ## Architecture and Features
 

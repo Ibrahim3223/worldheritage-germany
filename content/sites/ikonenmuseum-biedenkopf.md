@@ -82,7 +82,7 @@ To enhance your visit to the Ikonenmuseum Biedenkopf, consider the following ins
   
 - **Crowd Avoidance**: If possible, try to visit during weekdays or during off-peak hours to enjoy a quieter experience. Early mornings or late afternoons may be less crowded.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about the exhibits. They can provide valuable insights and context, enriching your understanding of the icons on display.
+- **Engage with Staff**: Don't hesitate to ask museum staff about the exhibits. They can provide valuable insights and context, enriching your understanding of the icons on display.
 
 ## Practical Information
 

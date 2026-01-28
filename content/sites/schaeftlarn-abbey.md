@@ -117,7 +117,7 @@ While the abbey aims to be accessible, it is advisable to check for specific acc
 Check the official website for details regarding ticket sales, as availability may vary.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to confirm current amenities on the official website.
+Facilities may be available on-site, but it's best to confirm current amenities on the official website.
 
 ### What should I wear?
 Dress modestly as a sign of respect for the sacred nature of the site, and wear comfortable shoes for walking.

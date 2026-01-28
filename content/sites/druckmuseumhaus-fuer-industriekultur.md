@@ -62,7 +62,7 @@ While visiting Druckmuseum, there are several nearby attractions worth exploring
 
 2. **Mathildenhöhe** - A cultural heritage site recognized for its artists' colony and stunning architecture, Mathildenhöhe is a short distance away and provides a glimpse into early 20th-century design.
 
-3. **Darmstadt Palace** - Located in the city center, this historical palace is surrounded by beautiful gardens and provides insight into the region’s royal history.
+3. **Darmstadt Palace** - Located in the city center, this historical palace is surrounded by beautiful gardens and provides insight into the region's royal history.
 
 4. **Luisenplatz** - A central square in Darmstadt, Luisenplatz is ideal for leisurely walks, dining, and enjoying local events.
 

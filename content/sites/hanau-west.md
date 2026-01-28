@@ -72,7 +72,7 @@ Hanau offers a variety of attractions in close proximity to Hanau West, making i
 
 ## Insider Tips
 
-When visiting Hanau West, photography enthusiasts should take advantage of the station’s functional architecture and the vibrant atmosphere surrounding it. Early morning or late afternoon light can create interesting shadows and highlights, providing opportunities for striking images.
+When visiting Hanau West, photography enthusiasts should take advantage of the station's functional architecture and the vibrant atmosphere surrounding it. Early morning or late afternoon light can create interesting shadows and highlights, providing opportunities for striking images.
 
 To avoid crowds, consider planning your visit during off-peak hours. The station tends to be less busy in the mornings before the typical workday begins or later in the evening when the commuter rush has subsided. 
 
@@ -90,7 +90,7 @@ Seasonal considerations should also be taken into account. In winter, ensure you
 A brief stop at Hanau West can take about 30 minutes to an hour, but if you plan to explore nearby attractions, consider allocating a few hours or even a full day.
 
 ### Is photography allowed?
-Yes, photography is generally allowed in and around the station, although it’s best to be respectful of fellow travelers and any signage that may indicate restrictions.
+Yes, photography is generally allowed in and around the station, although it's best to be respectful of fellow travelers and any signage that may indicate restrictions.
 
 ### Are there guided tours?
 Currently, there are no specific guided tours offered at Hanau West itself, but visitors can find tours available for attractions in the surrounding area.

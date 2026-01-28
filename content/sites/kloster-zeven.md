@@ -65,7 +65,7 @@ While Kloster Zeven is a focal point for visitors, the surrounding area also off
 
 ## Insider Tips
 
-For photography enthusiasts, early morning or late afternoon light can create beautiful images of Kloster Zeven’s architecture and surrounding areas. Be respectful of any areas where photography may be restricted, particularly in places of worship.
+For photography enthusiasts, early morning or late afternoon light can create beautiful images of Kloster Zeven's architecture and surrounding areas. Be respectful of any areas where photography may be restricted, particularly in places of worship.
 
 To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons. This allows for a more contemplative experience, enabling you to appreciate the serene atmosphere without distractions.
 

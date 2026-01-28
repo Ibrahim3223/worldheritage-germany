@@ -62,7 +62,7 @@ As the site may not have extensive visitor amenities, it is wise to bring water 
 
 1. **Sauerland Museum**: Located nearby, this museum showcases the cultural history of the Sauerland region, with exhibits that detail local traditions and historical artifacts.
 
-2. **Hennesee**: A scenic lake that offers opportunities for outdoor activities such as hiking, cycling, and boating. It’s an excellent spot for a leisurely day surrounded by nature.
+2. **Hennesee**: A scenic lake that offers opportunities for outdoor activities such as hiking, cycling, and boating. It's an excellent spot for a leisurely day surrounded by nature.
 
 3. **Nassauer Land**: This picturesque area features charming villages and stunning landscapes, perfect for those looking to experience the local culture and scenery.
 

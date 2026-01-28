@@ -48,7 +48,7 @@ The design of Freimann Mosque may incorporate elements that resonate with both I
 
 ## Visiting Information
 
-Freimann Mosque is accessible to visitors, although it is always a good idea to check the official website for current information regarding hours and prices. As a place of worship, visitors are generally welcome, but it’s advisable to be mindful of prayer times and community events that may affect accessibility.
+Freimann Mosque is accessible to visitors, although it is always a good idea to check the official website for current information regarding hours and prices. As a place of worship, visitors are generally welcome, but it's advisable to be mindful of prayer times and community events that may affect accessibility.
 
 Transportation options to the mosque are typically varied, with public transport likely providing convenient access. Visitors can expect a peaceful environment upon arrival, conducive to both worship and exploration. A visit to Freimann Mosque might take approximately one to two hours, allowing ample time to appreciate its architecture and engage with the community.
 

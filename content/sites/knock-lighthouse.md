@@ -50,7 +50,7 @@ Beyond its utilitarian role, Knock Lighthouse also serves as an architectural la
 
 Visiting Knock Lighthouse can be an enriching addition to any itinerary in Lower Saxony. Access to the lighthouse is typically straightforward, with various transport options available to reach this coastal landmark. Depending on your location, you can consider driving, taking public transportation, or cycling along scenic routes that lead to the lighthouse.
 
-Check the official website for current information regarding hours of operation and any potential entry fees. It’s advisable to allocate a few hours for your visit to fully appreciate the lighthouse and its surroundings. As you explore, expect to encounter informational displays that highlight the history and significance of the lighthouse, enhancing your understanding of its role in maritime navigation.
+Check the official website for current information regarding hours of operation and any potential entry fees. It's advisable to allocate a few hours for your visit to fully appreciate the lighthouse and its surroundings. As you explore, expect to encounter informational displays that highlight the history and significance of the lighthouse, enhancing your understanding of its role in maritime navigation.
 
 The best times to visit are during the early morning or late afternoon when the light casts a warm glow over the landscape, offering ideal conditions for photography and a tranquil atmosphere for exploration. Regardless of the time of year, the experience of standing before this historical structure is likely to be memorable.
 

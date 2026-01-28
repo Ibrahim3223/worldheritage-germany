@@ -70,7 +70,7 @@ To avoid crowds, consider visiting during off-peak seasons, as this will allow f
 
 ## Practical Information
 
-When preparing for your visit to the Ruhlaer Uhrenmuseum, it’s advisable to bring along essentials such as a camera, comfortable walking shoes, and any personal items needed for a day out. Depending on the season, you may want to check local weather forecasts to dress appropriately for your visit.
+When preparing for your visit to the Ruhlaer Uhrenmuseum, it's advisable to bring along essentials such as a camera, comfortable walking shoes, and any personal items needed for a day out. Depending on the season, you may want to check local weather forecasts to dress appropriately for your visit.
 
 The museum is likely to have facilities available for visitors, so checking their official website for updates on amenities is recommended. This will ensure you are aware of any seasonal considerations that may affect your visit.
 

@@ -74,7 +74,7 @@ Additionally, consider bringing a notebook or journal if you're inclined to refl
 A visit to Stiftung Hensoltshöhe typically requires a few hours to fully engage with its offerings and surrounding areas.
 
 ### Is photography allowed?
-Photography policies can vary. It’s best to check with the foundation regarding specific guidelines before your visit.
+Photography policies can vary. It's best to check with the foundation regarding specific guidelines before your visit.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified; check the official website for any available options.
@@ -83,7 +83,7 @@ Information regarding guided tours is not specified; check the official website 
 The best time to visit may depend on specific events or programs. Consult the official website for recommendations.
 
 ### Is it wheelchair accessible?
-Accessibility details are not provided; it’s advisable to inquire directly with the foundation for specific accommodations.
+Accessibility details are not provided; it's advisable to inquire directly with the foundation for specific accommodations.
 
 ### Can I buy tickets online?
 Information about online ticket purchases is not available. Be sure to check the official website for the latest updates.

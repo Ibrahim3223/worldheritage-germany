@@ -40,7 +40,7 @@ In addition to its role as a museum, Schlossmuseum Darmstadt often serves as a v
 
 ## Architecture and Features
 
-The architectural design of Schlossmuseum Darmstadt reflects its historical context and the significance of the site. The building itself is a striking example of the styles that characterize Darmstadt’s architectural heritage. Visitors will find that the structure combines elements of both traditional and contemporary design, creating a unique environment for exhibiting art.
+The architectural design of Schlossmuseum Darmstadt reflects its historical context and the significance of the site. The building itself is a striking example of the styles that characterize Darmstadt's architectural heritage. Visitors will find that the structure combines elements of both traditional and contemporary design, creating a unique environment for exhibiting art.
 
 Inside, the museum is organized in a manner that encourages exploration. Its galleries are thoughtfully laid out to facilitate a smooth flow of movement from one exhibition to another. The spaces are often filled with natural light, allowing the artworks to be appreciated in an inviting atmosphere.
 

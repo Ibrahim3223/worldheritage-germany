@@ -38,7 +38,7 @@ While specific historical facts about Burg Neu-Tannegg may not be extensively do
 
 The significance of Burg Neu-Tannegg extends beyond its military functions; it reflects the social and political dynamics of the time. Castles were often symbols of status, showcasing the wealth and influence of their owners. The construction of such fortifications was not just about protection; it was also about establishing a sense of security and control over the surrounding lands.
 
-Visitors to Burg Neu-Tannegg can appreciate the cultural heritage embedded in its walls, which have witnessed centuries of history. The castle’s enduring structure provides insight into the architectural practices of its time, including the use of local materials and techniques that have allowed it to withstand the test of time. While direct documentation may be sparse, the castle remains an important part of the historical narrative of the region.
+Visitors to Burg Neu-Tannegg can appreciate the cultural heritage embedded in its walls, which have witnessed centuries of history. The castle's enduring structure provides insight into the architectural practices of its time, including the use of local materials and techniques that have allowed it to withstand the test of time. While direct documentation may be sparse, the castle remains an important part of the historical narrative of the region.
 
 ## Architecture and Features
 
@@ -80,7 +80,7 @@ Exploring the castle grounds allows for a more intimate experience, so take your
 
 When planning your visit to Burg Neu-Tannegg, consider bringing comfortable walking shoes, as the terrain may require some light hiking. A camera or smartphone is highly recommended for capturing the beauty of the castle and its surroundings.
 
-Seasonal considerations should also be taken into account. The best times to visit are typically during spring and autumn when the weather is mild, and the landscape is particularly inviting. However, it’s essential to check the official website for any specific seasonal events or changes in visiting hours.
+Seasonal considerations should also be taken into account. The best times to visit are typically during spring and autumn when the weather is mild, and the landscape is particularly inviting. However, it's essential to check the official website for any specific seasonal events or changes in visiting hours.
 
 ## Frequently Asked Questions
 

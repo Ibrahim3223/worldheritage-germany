@@ -48,7 +48,7 @@ Inside, you can expect to find a variety of displays, each thoughtfully arranged
 
 Natural light is often a critical consideration in museum design, and Museum Pachten may utilize windows and open spaces to create a welcoming atmosphere. This not only enhances the aesthetic experience but also helps in the preservation of artifacts, as appropriate lighting is essential in museum environments.
 
-The museum’s dedication to showcasing local culture is reflected in the choice of exhibits and the overall ambiance of the space, making it a fitting representation of Dillingen's heritage.
+The museum's dedication to showcasing local culture is reflected in the choice of exhibits and the overall ambiance of the space, making it a fitting representation of Dillingen's heritage.
 
 ## Visiting Information
 
@@ -66,7 +66,7 @@ While exploring Museum Pachten, consider extending your visit to nearby attracti
 
 1. **Dillingen Castle**: A historic site that offers insights into the region's noble past and picturesque views of the surrounding area.
    
-2. **St. John’s Church**: Known for its stunning architecture and serene atmosphere, this church is a place of reflection and appreciation of local artistry.
+2. **St. John's Church**: Known for its stunning architecture and serene atmosphere, this church is a place of reflection and appreciation of local artistry.
    
 3. **The Dillinger City Park**: A lovely green space perfect for a leisurely stroll, providing a nice contrast to the museum's indoor experience.
 
@@ -90,7 +90,7 @@ Additionally, inquire about any seasonal events or special exhibitions that may 
 Most visitors typically spend 2-3 hours exploring the exhibits at Museum Pachten.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival.
+Photography policies can vary, so it's best to check with museum staff upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available, offering deeper insights into the exhibits and local history.

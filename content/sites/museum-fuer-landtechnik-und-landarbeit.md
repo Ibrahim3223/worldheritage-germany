@@ -40,7 +40,7 @@ The exhibits encompass various periods and methods of farming, illustrating how 
 
 Moreover, the museum not only focuses on the tools and machinery but also emphasizes the human aspect of agriculture—the laborers and their vital contributions to the agricultural sector. This cultural significance is reflected in the narratives shared through the exhibits, providing insight into the lives of those who have worked the land over generations.
 
-The museum also serves as an educational resource, offering workshops and presentations that delve deeper into agricultural practices, sustainability, and the future of farming. By engaging with the past and present of agriculture, visitors can appreciate the ongoing relevance of these practices in today’s world.
+The museum also serves as an educational resource, offering workshops and presentations that delve deeper into agricultural practices, sustainability, and the future of farming. By engaging with the past and present of agriculture, visitors can appreciate the ongoing relevance of these practices in today's world.
 
 ## Architecture and Features
 
@@ -100,7 +100,7 @@ When preparing for your visit, consider bringing a few essentials:
 Visitors typically spend about 2-3 hours at the museum to fully appreciate the exhibits and engage with the material.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the museum staff upon arrival.
+Photography policies can vary, so it's best to check with the museum staff upon arrival.
 
 ### Are there guided tours?
 The museum may offer guided tours or workshops. Check the official website for availability and scheduling.

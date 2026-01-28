@@ -54,7 +54,7 @@ Reaching Mecklenburg Castle is relatively straightforward, given its location in
 
 When planning your visit, be sure to check the official website for hours and prices, as these can vary throughout the year. Ideally, you should allocate a few hours to fully appreciate the castle and its surroundings. The best times to visit are during the spring and early autumn, when the weather is pleasant, and the gardens are in bloom, enhancing your experience.
 
-Expect to explore both the exterior and interior areas of the castle, taking in the architectural details and historical context. Guided tours may be available, providing deeper insights into the castle’s history and architecture.
+Expect to explore both the exterior and interior areas of the castle, taking in the architectural details and historical context. Guided tours may be available, providing deeper insights into the castle's history and architecture.
 
 ## Nearby Attractions
 

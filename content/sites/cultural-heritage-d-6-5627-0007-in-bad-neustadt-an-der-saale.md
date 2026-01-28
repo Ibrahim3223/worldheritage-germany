@@ -88,7 +88,7 @@ A visit to Cultural heritage D-6-5627-0007 typically takes around two hours, all
 Photography is generally permitted, allowing you to capture the architectural features and scenic surroundings.
 
 ### Are there guided tours?
-Check the official website for information on guided tours that may enhance your understanding of the fortification’s history.
+Check the official website for information on guided tours that may enhance your understanding of the fortification's history.
 
 ### What's the best time to visit?
 Weekdays and non-peak tourist seasons are ideal for a quieter experience, especially in mild weather.

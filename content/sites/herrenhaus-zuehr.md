@@ -28,7 +28,7 @@ image_srcset:
 
 Herrenhaus Zühr, an exquisite manor house located in the heart of Wittenburg, Germany, offers visitors a unique blend of historical intrigue and natural beauty. This historic building is not just a relic of the past; it is set within a carefully curated parkland that enhances its charm and invites exploration. Situated in the Mecklenburg-Vorpommern region, Herrenhaus Zühr serves as a significant representation of the area's architectural heritage and landscape design.
 
-As you approach this striking manor, its graceful lines and expansive surroundings beckon with a promise of discovery. The combination of the building’s historical value and its picturesque setting creates an inviting atmosphere for heritage enthusiasts and casual visitors alike. Whether you're intrigued by the stories of those who once inhabited these walls or simply seeking a peaceful retreat in nature, Herrenhaus Zühr provides a compelling destination.
+As you approach this striking manor, its graceful lines and expansive surroundings beckon with a promise of discovery. The combination of the building's historical value and its picturesque setting creates an inviting atmosphere for heritage enthusiasts and casual visitors alike. Whether you're intrigued by the stories of those who once inhabited these walls or simply seeking a peaceful retreat in nature, Herrenhaus Zühr provides a compelling destination.
 
 ## History and Significance
 

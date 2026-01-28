@@ -74,7 +74,7 @@ In preparation for your visit, checking the official website is crucial for the 
 The recommended time for a visit is typically between two to four hours, depending on your interest in the exhibits and educational programs.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with museum staff upon arrival to know the specific rules.
+Photography policies may vary, so it's best to check with museum staff upon arrival to know the specific rules.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

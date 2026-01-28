@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Kronprinzenpalais, or the Crown Prince's Palace, is a significant historical building located in Stuttgart, Germany. As one of the most notable palaces in the region, it reflects the grandeur of royal architecture and serves as a vital link to the cultural heritage of Baden-Württemberg. The palace is situated in the heart of Stuttgart, making it an accessible destination for visitors eager to explore the city's rich history and vibrant atmosphere. The structure stands as a reminder of the city’s royal past and offers insights into the lives of the nobility who once resided there.
+The Kronprinzenpalais, or the Crown Prince's Palace, is a significant historical building located in Stuttgart, Germany. As one of the most notable palaces in the region, it reflects the grandeur of royal architecture and serves as a vital link to the cultural heritage of Baden-Württemberg. The palace is situated in the heart of Stuttgart, making it an accessible destination for visitors eager to explore the city's rich history and vibrant atmosphere. The structure stands as a reminder of the city's royal past and offers insights into the lives of the nobility who once resided there.
 
 Built with a distinctive architectural style, the Kronprinzenpalais has witnessed numerous historical events and changes over the years, contributing to its importance in understanding the cultural landscape of the area. Today, the palace serves various purposes, including hosting exhibitions and events, making it a lively spot for both locals and tourists. Visitors can expect to immerse themselves in the elegance of the palace while also gaining a deeper appreciation for the artistic and historical narratives that it encapsulates.
 
@@ -99,7 +99,7 @@ Accessibility information should be confirmed on the official website, as facili
 Check the official website for options to purchase tickets in advance to save time and guarantee entry.
 
 ### Are there restrooms and cafes?
-Facilities should be available on-site, but it’s best to verify current amenities through the official website before your visit.
+Facilities should be available on-site, but it's best to verify current amenities through the official website before your visit.
 
 ### What should I wear?
 Comfortable attire and shoes are recommended for exploring the palace, especially if you plan to walk around the surrounding area.

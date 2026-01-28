@@ -86,7 +86,7 @@ For those planning to visit Evangelische Stadtkirche Ellwangen, here are some in
 
 When visiting Evangelische Stadtkirche Ellwangen, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring a light jacket or sweater, as churches can be cooler than expected. If you plan to take photographs, a camera or smartphone is recommended.
+- **What to Bring**: It's advisable to bring a light jacket or sweater, as churches can be cooler than expected. If you plan to take photographs, a camera or smartphone is recommended.
 
 - **Seasonal Considerations**: Depending on the time of year, check the weather forecast to dress appropriately. If visiting during the winter months, be prepared for colder temperatures and potentially slippery conditions.
 

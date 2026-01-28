@@ -28,11 +28,11 @@ image_srcset:
 
 The Evangelische Kirche Alt-Lietzow stands as a notable church building in Berlin, Germany, situated within the vibrant Charlottenburg-Wilmersdorf district. This structure not only serves as a place of worship but also as a significant landmark reflecting the architectural and cultural heritage of the area. With its historical roots and community significance, the church offers visitors a glimpse into the spiritual life of Berlin and the historical context of its neighborhoods.
 
-The church is conveniently located in a region known for its blend of urban life and serene green spaces, making it an ideal stop for those exploring the city’s rich tapestry of cultural landmarks. Visitors can engage with the architecture and atmosphere of the church, experiencing a peaceful moment away from the bustling city life. Whether you are a history enthusiast, an architecture aficionado, or seeking a tranquil space for reflection, Evangelische Kirche Alt-Lietzow promises to enrich your journey through Berlin.
+The church is conveniently located in a region known for its blend of urban life and serene green spaces, making it an ideal stop for those exploring the city's rich tapestry of cultural landmarks. Visitors can engage with the architecture and atmosphere of the church, experiencing a peaceful moment away from the bustling city life. Whether you are a history enthusiast, an architecture aficionado, or seeking a tranquil space for reflection, Evangelische Kirche Alt-Lietzow promises to enrich your journey through Berlin.
 
 ## History and Significance
 
-The Evangelische Kirche Alt-Lietzow has played an essential role in the local community since its establishment. Though specific dates and events in its history are not detailed in the available information, the church’s presence in Berlin represents the enduring nature of religious institutions in urban landscapes. Churches like Alt-Lietzow often serve as focal points for community gatherings, spiritual activities, and cultural events, providing a sense of continuity amid the changing dynamics of city life.
+The Evangelische Kirche Alt-Lietzow has played an essential role in the local community since its establishment. Though specific dates and events in its history are not detailed in the available information, the church's presence in Berlin represents the enduring nature of religious institutions in urban landscapes. Churches like Alt-Lietzow often serve as focal points for community gatherings, spiritual activities, and cultural events, providing a sense of continuity amid the changing dynamics of city life.
 
 The Evangelische Kirche reflects the broader historical movements within Berlin, particularly the evolution of Protestantism in Germany. This church is part of the Protestant tradition, which has significantly shaped the religious and cultural landscape of the country. The church also serves as a venue for various community activities, reinforcing its importance beyond just a place of worship.
 
@@ -101,7 +101,7 @@ Check the official website for current information regarding accessibility optio
 Information about ticket purchasing may not be specified, so it's wise to check the official website for any available options.
 
 ### Are there restrooms and cafes?
-Details about facilities such as restrooms or cafes are not included, so it’s best to check the area surrounding the church for amenities.
+Details about facilities such as restrooms or cafes are not included, so it's best to check the area surrounding the church for amenities.
 
 ### What should I wear?
 Dress comfortably and respectfully, especially if attending a service or special event.

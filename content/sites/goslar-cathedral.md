@@ -34,9 +34,9 @@ Goslar itself is a historic town, recognized for its well-preserved medieval str
 
 The history of Goslar Cathedral is intertwined with the rich tapestry of the region's ecclesiastical heritage. This church building has long been a site of worship and community significance, reflecting the evolving religious practices in Germany over centuries. While specific founding dates may not be detailed, the cathedral stands as a symbol of the town's faith and resilience.
 
-Goslar has been a center for trade and commerce since the early medieval period, and the presence of the cathedral has played a pivotal role in the spiritual life of its residents. Its significance extends beyond mere architecture, as it has served as a gathering place for important community events and religious ceremonies. The cathedral’s relationship with the town underscores its importance as a center of not only spiritual life but also cultural identity.
+Goslar has been a center for trade and commerce since the early medieval period, and the presence of the cathedral has played a pivotal role in the spiritual life of its residents. Its significance extends beyond mere architecture, as it has served as a gathering place for important community events and religious ceremonies. The cathedral's relationship with the town underscores its importance as a center of not only spiritual life but also cultural identity.
 
-The cathedral’s historical context is further enriched by its association with various religious leaders and events that have shaped the region. The structure has witnessed changes in governance, religious reforms, and community challenges, making it an essential part of Goslar’s heritage narrative.
+The cathedral's historical context is further enriched by its association with various religious leaders and events that have shaped the region. The structure has witnessed changes in governance, religious reforms, and community challenges, making it an essential part of Goslar's heritage narrative.
 
 ## Architecture and Features
 
@@ -101,7 +101,7 @@ Accessibility information may vary; it is recommended to check ahead of your vis
 Check the official website for details on ticket purchasing options, including any online availability.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and nearby cafes may be available; it’s best to confirm this information on-site or through the official website.
+Facilities such as restrooms and nearby cafes may be available; it's best to confirm this information on-site or through the official website.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind that this is a site of worship and reflection.

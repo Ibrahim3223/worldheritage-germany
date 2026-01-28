@@ -58,7 +58,7 @@ Garten Höfling 1; Höfling 2 is conveniently located near several other attract
 
 2. **Stone Bridge (Steinerne Brücke)**: This medieval bridge offers a picturesque view of the Danube River and is a must-see for visitors interested in historical engineering.
 
-3. **Old Town (Altstadt)**: Designated as a UNESCO World Heritage Site, the Old Town is a maze of cobblestone streets, historic buildings, and lively squares that reflect the city’s medieval past.
+3. **Old Town (Altstadt)**: Designated as a UNESCO World Heritage Site, the Old Town is a maze of cobblestone streets, historic buildings, and lively squares that reflect the city's medieval past.
 
 4. **Thurn und Taxis Palace**: This beautiful palace, once the residence of the Thurn und Taxis family, showcases stunning architecture and is surrounded by lovely gardens.
 
@@ -66,7 +66,7 @@ Garten Höfling 1; Höfling 2 is conveniently located near several other attract
 
 ## Insider Tips
 
-For photography enthusiasts, Garten Höfling 1; Höfling 2 is a captivating location. Early morning or late afternoon light can provide the best conditions for capturing the garden’s beauty. Additionally, aim for days with clear skies for vibrant colors in your photos.
+For photography enthusiasts, Garten Höfling 1; Höfling 2 is a captivating location. Early morning or late afternoon light can provide the best conditions for capturing the garden's beauty. Additionally, aim for days with clear skies for vibrant colors in your photos.
 
 To avoid crowds, consider visiting on weekdays, as weekends tend to attract more visitors. If you prefer a quieter experience, try to arrive early in the day. 
 
@@ -106,4 +106,4 @@ While there may not be restrooms or cafes on-site, nearby facilities in Regensbu
 ### What should I wear?
 Comfortable clothing and shoes are recommended, particularly for exploring the garden paths.
 
-By following these guidelines, you can ensure a pleasant visit to Garten Höfling 1; Höfling 2, a space that beautifully embodies the spirit of Regensburg’s cultural heritage.
+By following these guidelines, you can ensure a pleasant visit to Garten Höfling 1; Höfling 2, a space that beautifully embodies the spirit of Regensburg's cultural heritage.

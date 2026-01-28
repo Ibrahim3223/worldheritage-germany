@@ -50,19 +50,19 @@ For those planning to visit the New Synagogue, reaching the site is straightforw
 
 It is advisable to check the official website for current information regarding opening hours and admission prices. The synagogue often hosts events and services, which might impact visiting times. Typically, a visit can take approximately one to two hours, allowing sufficient time to explore the synagogue and its offerings.
 
-The best times to visit are often during weekdays when the crowd is usually thinner, allowing for a more contemplative experience. If possible, aligning your visit with a cultural event or service can enhance your understanding of the site’s significance and its role within the community.
+The best times to visit are often during weekdays when the crowd is usually thinner, allowing for a more contemplative experience. If possible, aligning your visit with a cultural event or service can enhance your understanding of the site's significance and its role within the community.
 
 ## Nearby Attractions
 
-While visiting the New Synagogue, consider exploring some of the nearby attractions that contribute to Dresden’s rich cultural heritage:
+While visiting the New Synagogue, consider exploring some of the nearby attractions that contribute to Dresden's rich cultural heritage:
 
 1. **Dresden Frauenkirche** - A stunning example of Baroque architecture, this church is a symbol of reconciliation and renewal, having been rebuilt after its destruction in World War II.
 
 2. **Zwinger Palace** - A masterpiece of Baroque architecture, this palace complex houses several museums, including the Old Masters Gallery, showcasing an impressive collection of art.
 
-3. **Semper Opera House** - Renowned for its architecture and world-class performances, the opera house is an integral part of Dresden’s cultural scene.
+3. **Semper Opera House** - Renowned for its architecture and world-class performances, the opera house is an integral part of Dresden's cultural scene.
 
-4. **Dresden Castle** - This historic castle is home to several museums and collections, providing insight into the city’s royal history.
+4. **Dresden Castle** - This historic castle is home to several museums and collections, providing insight into the city's royal history.
 
 5. **Brühl's Terrace** - A beautiful promenade along the Elbe River, offering picturesque views and a perfect spot for a leisurely stroll.
 

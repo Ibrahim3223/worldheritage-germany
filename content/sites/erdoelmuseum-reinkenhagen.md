@@ -76,7 +76,7 @@ To make the most of your visit to the Erdölmuseum Reinkenhagen, consider these 
   
 - **Crowd Avoidance**: If possible, plan your visit on a weekday morning to sidestep larger crowds, allowing for a more intimate exploration of the exhibits.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific exhibits or historical details. Their insights can greatly enhance your understanding.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific exhibits or historical details. Their insights can greatly enhance your understanding.
 
 ## Practical Information
 

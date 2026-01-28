@@ -50,7 +50,7 @@ While the square may not feature traditional monuments, its presence is felt thr
 
 Visiting the Square of the Invisible Monument offers a contemplative experience, whether you're a local resident or a traveler exploring Saarbrücken. The square is easily accessible, situated within the urban framework of the city. Visitors can expect to spend a leisurely amount of time here, allowing for the opportunity to engage with the surroundings and reflect on the themes presented by the monument.
 
-For transportation, Saarbrücken offers various options, including public buses, trams, and walking paths that connect to key areas of the city. If you’re traveling by car, public parking may be available nearby. Check the official website for current information regarding parking options and accessibility.
+For transportation, Saarbrücken offers various options, including public buses, trams, and walking paths that connect to key areas of the city. If you're traveling by car, public parking may be available nearby. Check the official website for current information regarding parking options and accessibility.
 
 While specific visiting hours and entry fees for the square are not provided, it remains a public space that is typically open to visitors throughout the year. The best times to visit may vary, but early mornings or late afternoons can provide a quieter atmosphere, conducive to reflection.
 
@@ -64,7 +64,7 @@ As you plan your visit, consider setting aside time to engage with the themes of
 
 3. **The Palace of Saarbrücken**: Located nearby, this historical palace offers insights into the region's past and features beautiful gardens, perfect for a leisurely stroll.
 
-4. **St. Johanner Markt**: This vibrant market square is known for its lively atmosphere, with shops, cafes, and restaurants. It’s a great spot to experience the local culture and cuisine.
+4. **St. Johanner Markt**: This vibrant market square is known for its lively atmosphere, with shops, cafes, and restaurants. It's a great spot to experience the local culture and cuisine.
 
 5. **The Saar River**: Take a leisurely walk along the riverbanks, where you can enjoy scenic views and the natural beauty of the area. This is an excellent way to unwind and reflect on your visit.
 

@@ -86,7 +86,7 @@ If you plan to explore the surrounding area, consider packing a small picnic to 
 It is recommended to spend at least an hour at St. Leonhard to fully appreciate the church and its environment.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of any signs or guidelines regarding photography.
+Photography is generally permitted, but it's advisable to be respectful of any signs or guidelines regarding photography.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

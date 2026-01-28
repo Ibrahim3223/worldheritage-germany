@@ -62,7 +62,7 @@ While visiting the Kartäuserkirche, consider exploring these nearby attractions
   
 - **Museum Ludwig**: A short distance away, this museum showcases modern art, making it an excellent complement to the historical context of the Kartäuserkirche.
 
-- **Rheinauhafen**: This revitalized harbor area features modern architecture, restaurants, and scenic views along the Rhine River, providing a contemporary contrast to the church’s historic ambiance.
+- **Rheinauhafen**: This revitalized harbor area features modern architecture, restaurants, and scenic views along the Rhine River, providing a contemporary contrast to the church's historic ambiance.
 
 - **Alter Markt**: A historic square filled with cafes and shops, perfect for enjoying local cuisine and soaking in the lively atmosphere of Cologne.
 
@@ -88,16 +88,16 @@ Seasonal considerations can also impact your visit. Cologne experiences varying 
 A visit to the Kartäuserkirche typically lasts between 30 minutes to an hour, allowing time to appreciate the architecture and atmosphere.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any signage or ask staff upon arrival. 
+Photography policies can vary, so it's best to check for any signage or ask staff upon arrival. 
 
 ### Are there guided tours?
-While specific tour information isn’t detailed, many churches in Cologne may offer guided experiences. Check the official website for any available options.
+While specific tour information isn't detailed, many churches in Cologne may offer guided experiences. Check the official website for any available options.
 
 ### What's the best time to visit?
 Early mornings or late afternoons are often quieter, offering a more peaceful experience to visitors.
 
 ### Is it wheelchair accessible?
-Accessibility features are not specified; it’s recommended to check the official website for detailed information.
+Accessibility features are not specified; it's recommended to check the official website for detailed information.
 
 ### Can I buy tickets online?
 For ticketing details, including online purchasing options, refer to the official website for the most accurate information.

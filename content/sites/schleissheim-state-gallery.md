@@ -40,11 +40,11 @@ Furthermore, the Schleißheim State Gallery is part of a broader network of cult
 
 ## Architecture and Features
 
-The Schleißheim State Gallery is situated within a historic palace complex, which is characterized by its grand architectural style. The structure itself is a fine example of Baroque architecture, featuring elegant lines and meticulously designed interiors. The museum’s layout is conducive to the display of art, allowing for both permanent and temporary exhibitions that can be appreciated in a thoughtfully curated environment.
+The Schleißheim State Gallery is situated within a historic palace complex, which is characterized by its grand architectural style. The structure itself is a fine example of Baroque architecture, featuring elegant lines and meticulously designed interiors. The museum's layout is conducive to the display of art, allowing for both permanent and temporary exhibitions that can be appreciated in a thoughtfully curated environment.
 
 Notable architectural elements include expansive galleries that are designed to guide visitors through a seamless experience of viewing art. The interplay of light within the galleries enhances the overall ambiance, making the artworks come alive against a backdrop of historical significance. 
 
-Visitors will find that the museum's design complements the art on display, with spaces that encourage contemplation and engagement. The intricate detailing of the building’s features, from moldings to flooring, reflects the craftsmanship of the periods that influenced its construction, adding an additional layer of interest for those who appreciate architecture as much as art.
+Visitors will find that the museum's design complements the art on display, with spaces that encourage contemplation and engagement. The intricate detailing of the building's features, from moldings to flooring, reflects the craftsmanship of the periods that influenced its construction, adding an additional layer of interest for those who appreciate architecture as much as art.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ Upon arrival, expect a warm welcome from the staff, who are knowledgeable and ea
 
 After exploring the Schleißheim State Gallery, visitors may want to extend their cultural experience by visiting several nearby attractions:
 
-1. **Schleißheim Palace**: A stunning example of Baroque architecture, this palace complex includes beautiful gardens and additional museums, enriching your understanding of the area’s historical context.
+1. **Schleißheim Palace**: A stunning example of Baroque architecture, this palace complex includes beautiful gardens and additional museums, enriching your understanding of the area's historical context.
 
 2. **Oberschleißheim Airfield**: For aviation enthusiasts, the nearby airfield offers a glimpse into the region's aviation history, showcasing various aircraft and hosting events throughout the year.
 
@@ -72,7 +72,7 @@ After exploring the Schleißheim State Gallery, visitors may want to extend thei
 
 To make the most of your visit to the Schleißheim State Gallery, consider these insider tips:
 
-- **Photography**: Check the museum’s policy regarding photography, as some exhibitions may have restrictions. If allowed, capture the art in natural light to enhance your images.
+- **Photography**: Check the museum's policy regarding photography, as some exhibitions may have restrictions. If allowed, capture the art in natural light to enhance your images.
 
 - **Crowd Avoidance**: To enjoy a more peaceful viewing experience, aim to visit during weekday mornings or late afternoons. This timing often results in fewer visitors and a more relaxed atmosphere.
 
@@ -94,7 +94,7 @@ When planning your trip to the Schleißheim State Gallery, here are some practic
 The recommended visit duration is typically between two to four hours, depending on your interest in the exhibitions and the pace at which you prefer to explore.
 
 ### Is photography allowed?
-Photography policies may vary by exhibition. It’s best to check with the staff upon arrival for the most current rules.
+Photography policies may vary by exhibition. It's best to check with the staff upon arrival for the most current rules.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these can enhance your understanding and appreciation of the collections.

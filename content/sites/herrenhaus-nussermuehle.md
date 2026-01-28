@@ -78,7 +78,7 @@ For those planning a visit to Herrenhaus Nussermühle, consider these insider ti
 
 ## Practical Information
 
-When visiting Herrenhaus Nussermühle, it’s wise to prepare for your trip thoughtfully:
+When visiting Herrenhaus Nussermühle, it's wise to prepare for your trip thoughtfully:
 
 - **What to Bring**: Comfortable walking shoes are recommended, as you may want to explore both the interior and exterior of the manor. A camera can help capture the beauty of the site.
 

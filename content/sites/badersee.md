@@ -58,7 +58,7 @@ A visit to Badersee can vary in duration based on individual interests. For thos
 
 1. **Grainau Village**: A charming Bavarian village that offers traditional architecture, local shops, and eateries, ideal for experiencing the local culture.
 
-2. **Zugspitze**: Germany’s highest peak, accessible by cogwheel train or cable car, offering spectacular views and year-round activities.
+2. **Zugspitze**: Germany's highest peak, accessible by cogwheel train or cable car, offering spectacular views and year-round activities.
 
 3. **Eibsee Lake**: A stunning lake located near Badersee, known for its turquoise waters and scenic hiking trails.
 

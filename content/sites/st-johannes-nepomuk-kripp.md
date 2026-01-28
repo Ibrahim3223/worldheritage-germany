@@ -64,7 +64,7 @@ Exploring the area around St. Johannes Nepomuk can enhance your visit. Here are 
 
 3. **Cultural Events**: Check for local festivals or events that may coincide with your visit, offering a chance to immerse yourself in the community's traditions.
 
-4. **Dining Options**: Explore local eateries and cafes that serve regional cuisine, providing a taste of the area’s culinary offerings.
+4. **Dining Options**: Explore local eateries and cafes that serve regional cuisine, providing a taste of the area's culinary offerings.
 
 5. **Walking Trails**: If you are inclined toward outdoor activities, consider exploring the walking trails that may be available, allowing you to appreciate the natural beauty of the region.
 

@@ -22,7 +22,7 @@ images:
 
 The Liegnitz Collection in Wuppertal, Germany, presents a remarkable opportunity for visitors to engage with a diverse array of historical artifacts and exhibitions. This museum serves as a cultural hub, showcasing a wide variety of items that reflect the region's rich heritage and artistic legacy. Situated in the heart of Wuppertal, the museum is easily accessible and invites guests to explore the stories encapsulated within its walls. The Liegnitz Collection is not just a space for observation; it is a gateway for understanding the historical narratives that have shaped the area over time.
 
-Wuppertal is known for its unique architecture and vibrant cultural scene, providing a fitting backdrop for the Liegnitz Collection. The museum enhances the city’s artistic landscape, making it a significant stop for anyone interested in the history and culture of Germany. Visitors can expect to immerse themselves in a thoughtfully curated selection of exhibitions that reflect both local and broader European influences, promising an enriching experience that appeals to history enthusiasts and casual visitors alike.
+Wuppertal is known for its unique architecture and vibrant cultural scene, providing a fitting backdrop for the Liegnitz Collection. The museum enhances the city's artistic landscape, making it a significant stop for anyone interested in the history and culture of Germany. Visitors can expect to immerse themselves in a thoughtfully curated selection of exhibitions that reflect both local and broader European influences, promising an enriching experience that appeals to history enthusiasts and casual visitors alike.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ The physical structure of the Liegnitz Collection reflects a blend of contempora
 
 Inside, visitors are likely to encounter a range of exhibition spaces, each dedicated to different themes or periods in history. The layout is usually designed to encourage exploration and curiosity, guiding guests through a narrative that connects the various artifacts on display. The thoughtful arrangement of items can enhance the educational experience, allowing visitors to engage deeply with the exhibits.
 
-Notable features of the museum may include interactive displays or educational resources that enrich the visitor experience. These elements support the museum’s mission to promote understanding and appreciation for the collection, providing context that enhances the artifacts' significance. 
+Notable features of the museum may include interactive displays or educational resources that enrich the visitor experience. These elements support the museum's mission to promote understanding and appreciation for the collection, providing context that enhances the artifacts' significance. 
 
 ## Visiting Information
 

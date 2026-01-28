@@ -74,7 +74,7 @@ For photography enthusiasts, the museum can provide some unique opportunities to
 
 ## Practical Information
 
-When planning your visit to the Grünau Water Sports Museum, it’s advisable to bring along a few essentials. Comfortable walking shoes will enhance your exploration, as you may wish to spend time both inside the museum and in the surrounding outdoor areas. Seasonal considerations should also be kept in mind; warmer months may allow for additional outdoor activities, while cooler months could lead to a more concentrated museum experience.
+When planning your visit to the Grünau Water Sports Museum, it's advisable to bring along a few essentials. Comfortable walking shoes will enhance your exploration, as you may wish to spend time both inside the museum and in the surrounding outdoor areas. Seasonal considerations should also be kept in mind; warmer months may allow for additional outdoor activities, while cooler months could lead to a more concentrated museum experience.
 
 Make sure to check the official website for current information regarding any special events or exhibitions that may be taking place during your visit.
 

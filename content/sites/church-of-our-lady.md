@@ -32,7 +32,7 @@ The Church of Our Lady is not just a place of worship; it is also a symbol of ho
 
 ## History and Significance
 
-The history of the Church of Our Lady is intertwined with that of Dresden itself, reflecting the city’s evolution through various historical epochs. Originally constructed as a Lutheran church, its establishment highlights the role of Protestantism in the region, particularly during the Reformation period. The church has served not only as a house of worship but also as a gathering place for the community, reinforcing its importance in the social fabric of Dresden.
+The history of the Church of Our Lady is intertwined with that of Dresden itself, reflecting the city's evolution through various historical epochs. Originally constructed as a Lutheran church, its establishment highlights the role of Protestantism in the region, particularly during the Reformation period. The church has served not only as a house of worship but also as a gathering place for the community, reinforcing its importance in the social fabric of Dresden.
 
 Throughout its history, the Church of Our Lady has witnessed significant events that have shaped its identity. Its resilience is particularly noteworthy, as the church was heavily damaged during World War II. The destruction it faced during the bombing of Dresden in 1945 resulted in the loss of its iconic dome and many of its interior features. However, the church's restoration in the ensuing years is a powerful narrative of renewal and dedication. The reconstruction efforts were undertaken with meticulous care, aiming to preserve the original architectural style while incorporating modern elements to ensure its sustainability for future generations.
 
@@ -72,7 +72,7 @@ While visiting the Church of Our Lady, consider exploring the following nearby a
 
 To make the most of your visit to the Church of Our Lady, consider these insider tips:
 
-- **Photography**: While photography is generally permitted, be respectful of the worshippers and the sacred nature of the space. Early mornings or late afternoons provide the best lighting for capturing the church’s exterior.
+- **Photography**: While photography is generally permitted, be respectful of the worshippers and the sacred nature of the space. Early mornings or late afternoons provide the best lighting for capturing the church's exterior.
 
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit on weekdays rather than weekends, and consider visiting during the early morning hours. This allows for a more peaceful experience as you explore the church and take in its details.
 
@@ -89,7 +89,7 @@ When preparing for your visit to the Church of Our Lady, consider bringing a few
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-It is recommended to spend at least one to two hours to fully appreciate the church’s architecture and atmosphere.
+It is recommended to spend at least one to two hours to fully appreciate the church's architecture and atmosphere.
 
 ### Is photography allowed?
 Yes, photography is generally permitted, but be considerate of those in prayer and the sacred nature of the space.

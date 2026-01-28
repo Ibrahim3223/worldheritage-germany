@@ -87,7 +87,7 @@ Currently, there are no specific guided tours of the transmitter; however, infor
 The best time to visit is during spring and fall when the weather is pleasant and the surrounding nature is particularly beautiful.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified. It’s recommended to check the official website for up-to-date information on wheelchair access.
+Accessibility details are not specified. It's recommended to check the official website for up-to-date information on wheelchair access.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases is not available. Check the official website for current details.

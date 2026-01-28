@@ -84,7 +84,7 @@ When preparing for your visit to Dreiweiberner See, consider bringing the follow
   
 - **Seasonal Considerations**: In warmer months, swimwear and towels are recommended. If visiting during cooler seasons, layers and waterproof gear can help you stay comfortable.
 
-It’s also advisable to check the weather forecast ahead of your visit to ensure you are prepared for any changes in conditions.
+It's also advisable to check the weather forecast ahead of your visit to ensure you are prepared for any changes in conditions.
 
 ## Frequently Asked Questions
 
@@ -104,7 +104,7 @@ The best time to visit is during the warmer months when outdoor activities can b
 Accessibility details may vary; check the official website for the most accurate information.
 
 ### Can I buy tickets online?
-No entry fees are mentioned; however, it’s best to check the official website for the latest updates on any potential costs or requirements.
+No entry fees are mentioned; however, it's best to check the official website for the latest updates on any potential costs or requirements.
 
 ### Are there restrooms and cafes?
 Facilities may be limited near the lake itself, so plan accordingly and check the official website for any available amenities.

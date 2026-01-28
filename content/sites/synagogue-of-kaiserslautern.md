@@ -28,7 +28,7 @@ image_srcset:
 
 The Synagogue of Kaiserslautern is a significant cultural landmark located in the Rhineland-Palatinate region of Germany. This synagogue serves as a poignant reminder of the Jewish heritage in the area and the community that once thrived here. It represents not only a place of worship but also a center for Jewish life, embodying the traditions and history of its congregation. As visitors explore this site, they are offered deeper insights into the historical context of Jewish communities in Germany and the architectural styles that reflect their cultural identity.
 
-Kaiserslautern, a city steeped in history, is known for its rich cultural heritage, making the synagogue a must-visit. The site invites exploration, reflection, and a connection to the past, drawing in visitors who seek to understand the complexities of history and the resilience of communities. With its central location, the synagogue is accessible and can be an integral part of a broader exploration of the region’s historical and cultural sites.
+Kaiserslautern, a city steeped in history, is known for its rich cultural heritage, making the synagogue a must-visit. The site invites exploration, reflection, and a connection to the past, drawing in visitors who seek to understand the complexities of history and the resilience of communities. With its central location, the synagogue is accessible and can be an integral part of a broader exploration of the region's historical and cultural sites.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ Exploring the area around the Synagogue of Kaiserslautern offers visitors a chan
 
 1. **Kaiserslautern Military Community**: A significant presence in the area, this community offers insights into the city's military history and its international connections.
   
-2. **St. Martin’s Church**: An architectural landmark, this church provides a contrasting perspective on the religious history of the region.
+2. **St. Martin's Church**: An architectural landmark, this church provides a contrasting perspective on the religious history of the region.
 
 3. **Kaiserlautern Zoo**: A family-friendly destination, the zoo adds a recreational aspect to your visit, showcasing a variety of animal species.
 

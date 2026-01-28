@@ -86,7 +86,7 @@ Seasonal considerations can also play a role in your visit. If traveling during 
 A typical visit to the Kranich Museum may take around two to three hours, allowing you to fully explore the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the official website or inquire at the museum regarding rules on taking photos.
+Photography policies can vary, so it's best to check the official website or inquire at the museum regarding rules on taking photos.
 
 ### Are there guided tours?
 Guided tours may be available, but it is recommended to check the official website for details on scheduling and availability.

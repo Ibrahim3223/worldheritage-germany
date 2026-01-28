@@ -88,7 +88,7 @@ If you wish to avoid large crowds, plan your visit during mid-week or consider a
 
 When visiting Westfalenhallen, it's advisable to dress comfortably, particularly if you plan to explore multiple event spaces. Layers are recommended, as the indoor temperatures may vary depending on the event and the number of attendees.
 
-Seasonal considerations can also impact your visit. If attending during colder months, be prepared for lower temperatures and possible inclement weather. Conversely, summer events may require lighter clothing, and it’s wise to stay hydrated while navigating the venue.
+Seasonal considerations can also impact your visit. If attending during colder months, be prepared for lower temperatures and possible inclement weather. Conversely, summer events may require lighter clothing, and it's wise to stay hydrated while navigating the venue.
 
 Make sure to check the official website for any specific items you may need or restrictions in place, as this can vary by event. Bringing a reusable water bottle can be convenient, especially during larger gatherings where refreshments might be available for purchase.
 

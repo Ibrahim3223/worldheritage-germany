@@ -54,7 +54,7 @@ Check the official website for current information regarding hours and prices, a
 
 The best times to visit are often during the spring and early autumn when the weather is mild, and the local flora is vibrant. However, regardless of the season, the statue remains a significant destination for those interested in the historical narrative it represents.
 
-As you explore the area, expect a tranquil environment that encourages contemplation of the historical events commemorated by the statue. Whether you’re a history enthusiast or simply enjoy exploring cultural landmarks, "Der gescheiterte Varus" offers a meaningful experience.
+As you explore the area, expect a tranquil environment that encourages contemplation of the historical events commemorated by the statue. Whether you're a history enthusiast or simply enjoy exploring cultural landmarks, "Der gescheiterte Varus" offers a meaningful experience.
 
 ## Nearby Attractions
 

@@ -40,7 +40,7 @@ The church is dedicated to St. Nicholas, the patron saint of children, sailors, 
 
 Halle itself has a rich history, having been an important center for trade and education. The church has undoubtedly played a role in the lives of its citizens, providing not only a place for worship but also a venue for significant communal activities. As you explore St. Nikolaus, consider the many stories that have unfolded within its walls, from solemn ceremonies to joyous gatherings, all of which highlight the church's enduring presence in the community.
 
-While specific architectural details may not be available, the significance of the church as a historical site cannot be overstated. Its enduring role in the spiritual and social life of Halle ensures that St. Nikolaus remains a vital symbol of the city’s heritage.
+While specific architectural details may not be available, the significance of the church as a historical site cannot be overstated. Its enduring role in the spiritual and social life of Halle ensures that St. Nikolaus remains a vital symbol of the city's heritage.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ Although specific details about the interior decorations and layout are not avai
 
 To visit St. Nikolaus, travelers can easily reach Halle (Saale) by various means of transportation, including trains and buses, making it accessible for both local and international visitors. Once in the city, the church is typically situated within walking distance of other central attractions, providing a convenient stop during your exploration of Halle.
 
-While specific hours and ticket prices for visiting St. Nikolaus may vary, it is advisable to check the official website for current information before planning your trip. The experience inside the church often allows for a peaceful retreat, providing visitors with a sense of tranquility amidst the city’s bustle.
+While specific hours and ticket prices for visiting St. Nikolaus may vary, it is advisable to check the official website for current information before planning your trip. The experience inside the church often allows for a peaceful retreat, providing visitors with a sense of tranquility amidst the city's bustle.
 
 When planning your visit, consider allocating sufficient time to absorb the atmosphere and reflect on the space. A visit to St. Nikolaus can be enhanced by timing it with local events or services, allowing for a deeper connection to the community.
 
@@ -80,7 +80,7 @@ After visiting St. Nikolaus, take the opportunity to explore other notable attra
 
 When visiting St. Nikolaus, consider the following tips to enhance your experience:
 
-- **Photography**: While many churches permit photography, it’s wise to be respectful of the space and its congregants. Check for any signs indicating photography policies.
+- **Photography**: While many churches permit photography, it's wise to be respectful of the space and its congregants. Check for any signs indicating photography policies.
 
 - **Crowd Avoidance**: To enjoy a quieter visit, consider arriving during weekdays or during off-peak hours, especially if you are looking for a moment of reflection or a serene atmosphere.
 

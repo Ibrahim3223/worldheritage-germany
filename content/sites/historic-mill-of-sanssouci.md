@@ -72,7 +72,7 @@ The best time to visit the mill is during the spring and summer months when the 
 
 For photography enthusiasts, the Historic Mill of Sanssouci presents numerous opportunities for stunning shots, particularly during the golden hours of sunrise and sunset when the light casts a warm glow on the structure. Consider bringing a tripod for stability in low light conditions, and take advantage of the surrounding greenery for creative compositions.
 
-To avoid crowds, aim to visit during weekdays or early mornings. This not only enhances the experience of exploring the mill but also allows for uninterrupted photography. Engaging with the mill’s features without the hustle of larger groups can provide a more intimate understanding of its historical significance.
+To avoid crowds, aim to visit during weekdays or early mornings. This not only enhances the experience of exploring the mill but also allows for uninterrupted photography. Engaging with the mill's features without the hustle of larger groups can provide a more intimate understanding of its historical significance.
 
 ## Practical Information
 

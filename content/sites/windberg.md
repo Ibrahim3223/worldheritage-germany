@@ -117,7 +117,7 @@ Guided tours may not be commonly available for Windberg, but local hiking groups
 The best times to visit Windberg are during spring and fall when the weather is mild and the scenery is particularly vibrant.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified. It’s advisable to check with local resources for details on trail conditions and accessibility.
+Accessibility information is not specified. It's advisable to check with local resources for details on trail conditions and accessibility.
 
 ### Can I buy tickets online?
 There is no information regarding ticket purchases for Windberg. Check the official website for any updates or required permits.

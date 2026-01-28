@@ -52,17 +52,17 @@ To visit the Samurai Museum Berlin, it is advisable to plan your trip using publ
 
 Before your visit, check the official website for current information regarding hours and ticket prices. The museum typically accommodates a range of visitors, from school groups to art enthusiasts, making it a versatile destination. Allocating approximately 1-2 hours for your visit will allow ample time to appreciate the exhibits without feeling rushed.
 
-The best times to visit are generally during weekdays when the museum is less crowded, allowing for a more personal experience with the exhibits. Special events or exhibitions may also be planned, so checking the museum’s calendar could enhance your visit.
+The best times to visit are generally during weekdays when the museum is less crowded, allowing for a more personal experience with the exhibits. Special events or exhibitions may also be planned, so checking the museum's calendar could enhance your visit.
 
 ## Nearby Attractions
 
 While visiting the Samurai Museum, consider exploring the following nearby attractions:
 
-1. **Berlin’s Japanese Gardens** - A serene space that reflects the beauty of Japanese landscaping and design, offering a peaceful retreat in the bustling city.
+1. **Berlin's Japanese Gardens** - A serene space that reflects the beauty of Japanese landscaping and design, offering a peaceful retreat in the bustling city.
    
 2. **Museum für Asiatische Kunst (Museum of Asian Art)** - This museum presents a broader perspective on Asian art and culture, complementing the focus of the Samurai Museum.
    
-3. **Tiergarten** - One of Berlin’s largest urban parks, perfect for a leisurely stroll or a place to relax after a day of museum visits.
+3. **Tiergarten** - One of Berlin's largest urban parks, perfect for a leisurely stroll or a place to relax after a day of museum visits.
    
 4. **Potsdamer Platz** - A hub of modern architecture and entertainment, featuring shops, cinemas, and restaurants, providing a contrast to the historical focus of the Samurai Museum.
 
@@ -72,7 +72,7 @@ While visiting the Samurai Museum, consider exploring the following nearby attra
 
 To make the most of your visit to the Samurai Museum Berlin, consider the following insider tips:
 
-- **Photography**: Check the museum’s policy on photography, as some exhibitions may have restrictions. If allowed, be mindful of flash to preserve the integrity of the artifacts.
+- **Photography**: Check the museum's policy on photography, as some exhibitions may have restrictions. If allowed, be mindful of flash to preserve the integrity of the artifacts.
 
 - **Crowd Avoidance**: Aim for early morning visits or late afternoons on weekdays to avoid larger groups of tourists, ensuring a more intimate experience with the exhibits.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Samurai Museum Berlin, keep the following p
 A typical visit lasts about 1-2 hours, allowing time to explore the exhibits thoroughly.
 
 ### Is photography allowed?
-Photography policies may vary. Check the museum’s regulations upon entry.
+Photography policies may vary. Check the museum's regulations upon entry.
 
 ### Are there guided tours?
 The museum may offer guided tours to enhance your experience. Check the official website for availability and scheduling.

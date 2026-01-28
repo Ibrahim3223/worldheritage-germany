@@ -36,7 +36,7 @@ The history of Schloss Ittendorf is woven into the broader narrative of the regi
 
 The cultural importance of Schloss Ittendorf extends beyond its architecture. Castles in this region often acted as symbols of power and influence, thereby serving as vital components of the local heritage. The castle's presence continues to evoke a sense of pride among locals, and its historical significance has made it a focal point for cultural events and gatherings.
 
-Visitors to the castle can expect to encounter remnants of its storied past, from the architectural elements that reflect the styles of various periods to the tales that have been passed down through generations. Engaging with the castle’s history, even if only through observation, allows visitors to appreciate the depth of its cultural significance.
+Visitors to the castle can expect to encounter remnants of its storied past, from the architectural elements that reflect the styles of various periods to the tales that have been passed down through generations. Engaging with the castle's history, even if only through observation, allows visitors to appreciate the depth of its cultural significance.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ For those planning to visit Schloss Ittendorf, here are a few insider tips to en
 
 - **Photography**: The castle's architecture and surrounding landscape provide excellent opportunities for photography. Early mornings or late afternoons offer the best natural light, minimizing harsh shadows and providing a warm glow to your images.
 
-- **Crowd Avoidance**: To avoid peak visitor times, try to visit during weekdays, especially during the off-peak season. This allows for a more intimate experience with the castle’s history and architecture.
+- **Crowd Avoidance**: To avoid peak visitor times, try to visit during weekdays, especially during the off-peak season. This allows for a more intimate experience with the castle's history and architecture.
 
 ## Practical Information
 

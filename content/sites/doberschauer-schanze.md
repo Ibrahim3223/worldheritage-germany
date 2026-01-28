@@ -64,7 +64,7 @@ While visiting Doberschauer Schanze, there are several nearby attractions that c
 
 3. **Zittau**: This town offers a mix of history and nature, with attractions such as the Zittau Mountains and historical buildings that reflect its rich past.
 
-4. **Bautzen**: Renowned for its medieval architecture, Bautzen features a range of historical sites, including towers and churches, that tell the story of the region’s past.
+4. **Bautzen**: Renowned for its medieval architecture, Bautzen features a range of historical sites, including towers and churches, that tell the story of the region's past.
 
 5. **Sorbian Museum**: Located in Bautzen, this museum provides insight into the culture and traditions of the Sorbian people, an ethnic group native to the region.
 

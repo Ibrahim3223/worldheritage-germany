@@ -32,7 +32,7 @@ The memorial, designed by architect Micha Ullman, is a stark yet poignant instal
 
 ## History and Significance
 
-The book burnings that took place on May 10, 1933, were a pivotal moment in the Nazi campaign against dissent and intellectual freedom. Spearheaded by students and supported by the regime, these events aimed to purge German culture of "un-German" elements, targeting works by Jewish authors and other writers deemed undesirable. The act of burning books was emblematic of a broader strategy to control thought and suppress any opposition to the regime’s ideology.
+The book burnings that took place on May 10, 1933, were a pivotal moment in the Nazi campaign against dissent and intellectual freedom. Spearheaded by students and supported by the regime, these events aimed to purge German culture of "un-German" elements, targeting works by Jewish authors and other writers deemed undesirable. The act of burning books was emblematic of a broader strategy to control thought and suppress any opposition to the regime's ideology.
 
 The Bebelplatz was chosen for this tragic ceremony due to its prominence in Berlin's cultural landscape. The square is located near several notable institutions, including the Humboldt University, which has a rich history of academic excellence and liberal thought. By selecting this location, the Nazis sought to send a clear message: dissent would not be tolerated. The events of that day were not just an attack on literature; they were an attack on the very essence of enlightenment and free thought.
 
@@ -72,7 +72,7 @@ The Bebelplatz is centrally located, making it an ideal starting point for explo
 
 4. **Museum Island**: A UNESCO World Heritage site housing several important museums, including the Pergamon Museum and the Alte Nationalgalerie, perfect for those interested in art and history.
 
-5. **Brandenburg Gate**: An iconic symbol of Berlin, this neoclassical monument stands as a reminder of the city’s tumultuous history and a testament to unity.
+5. **Brandenburg Gate**: An iconic symbol of Berlin, this neoclassical monument stands as a reminder of the city's tumultuous history and a testament to unity.
 
 ## Insider Tips
 

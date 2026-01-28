@@ -68,13 +68,13 @@ The best times to visit Chapel are often during weekdays or early in the morning
 
 ## Insider Tips
 
-For photography enthusiasts, Chapel offers beautiful opportunities for capturing its architectural details and the surrounding landscape. Early morning or late afternoon light can create stunning effects, especially if the chapel is framed by trees or gardens. It’s advisable to be respectful of any religious services that may be occurring during your visit, as this can influence the best times for photography.
+For photography enthusiasts, Chapel offers beautiful opportunities for capturing its architectural details and the surrounding landscape. Early morning or late afternoon light can create stunning effects, especially if the chapel is framed by trees or gardens. It's advisable to be respectful of any religious services that may be occurring during your visit, as this can influence the best times for photography.
 
 To avoid crowds, consider visiting during weekdays rather than weekends, as this often leads to a more tranquil experience. Additionally, check for any local events or services that might attract more visitors, and plan your visit accordingly.
 
 ## Practical Information
 
-When visiting Chapel, it’s recommended to bring a small bag with essentials such as water, comfortable walking shoes, and a camera. If you're planning to explore the surrounding areas, a light jacket may be beneficial, especially during cooler months.
+When visiting Chapel, it's recommended to bring a small bag with essentials such as water, comfortable walking shoes, and a camera. If you're planning to explore the surrounding areas, a light jacket may be beneficial, especially during cooler months.
 
 Seasonal considerations are important as well; spring and summer may offer blooming gardens and pleasant weather, while fall can provide a beautiful backdrop of changing leaves. Winter visits can also be magical, especially if the chapel is adorned for the holidays.
 

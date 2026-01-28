@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Quadriga of Brunswick is an iconic statue that graces the skyline of Brunswick, Germany. This majestic sculpture, representing a chariot drawn by four horses, is not only a remarkable piece of art but also a significant cultural symbol for the region. Positioned prominently atop the historic Dankwarderode Castle, the Quadriga captures the imagination of both locals and visitors alike. This striking statue serves as a reminder of the city’s rich heritage, with its blend of history and artistry reflecting the spirit of Brunswick.
+The Quadriga of Brunswick is an iconic statue that graces the skyline of Brunswick, Germany. This majestic sculpture, representing a chariot drawn by four horses, is not only a remarkable piece of art but also a significant cultural symbol for the region. Positioned prominently atop the historic Dankwarderode Castle, the Quadriga captures the imagination of both locals and visitors alike. This striking statue serves as a reminder of the city's rich heritage, with its blend of history and artistry reflecting the spirit of Brunswick.
 
 As you approach the Quadriga, the intricate detailing and grandeur of the statue invite exploration and admiration. The surrounding area, characterized by its historical architecture and vibrant atmosphere, enhances the experience of visiting this landmark. Whether you are an art enthusiast, a history buff, or simply a curious traveler, the Quadriga offers a captivating glimpse into the cultural fabric of Brunswick.
 

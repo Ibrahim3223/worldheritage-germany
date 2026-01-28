@@ -56,7 +56,7 @@ The museum's interior is designed to be both informative and inviting, ensuring 
 
 Reaching the Gebrüder-Lachner-Museum is relatively straightforward, with various transport options available. Located in Rain, Bavaria, the town is accessible by public transportation, including trains and buses, which connect to major cities in the region. For those driving, parking facilities may be available nearby, making it convenient for visitors traveling by car.
 
-When planning your visit, it’s essential to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. The museum typically offers a range of exhibits that allow visitors to delve into the lives and works of the Lachner brothers, and you can expect to spend around 1-2 hours exploring the collections.
+When planning your visit, it's essential to check the official website for current information regarding opening hours and ticket prices, as these can vary throughout the year. The museum typically offers a range of exhibits that allow visitors to delve into the lives and works of the Lachner brothers, and you can expect to spend around 1-2 hours exploring the collections.
 
 The best time to visit is during the shoulder seasons of spring and autumn when the museum is less crowded, allowing for a more intimate experience with the exhibits. Additionally, special events or exhibitions may be scheduled throughout the year, enhancing the visiting experience. 
 

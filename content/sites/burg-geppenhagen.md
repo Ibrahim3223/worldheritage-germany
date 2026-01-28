@@ -68,7 +68,7 @@ While exploring Burg Geppenhagen, visitors can take advantage of several nearby 
 
 For those looking to capture the essence of Burg Geppenhagen through photography, consider visiting during the early morning or late afternoon when the lighting is softer. This time of day can enhance the textures of the stonework and the natural surroundings. 
 
-To avoid crowds, plan your visit during weekdays or in the off-peak seasons, which can lead to a more intimate experience of the site. Engaging with the castle’s history through guided tours can also provide deeper insights, so look for opportunities to join these sessions.
+To avoid crowds, plan your visit during weekdays or in the off-peak seasons, which can lead to a more intimate experience of the site. Engaging with the castle's history through guided tours can also provide deeper insights, so look for opportunities to join these sessions.
 
 ## Practical Information
 

@@ -32,7 +32,7 @@ This monument is more than just a stone structure; it symbolizes a connection to
 
 ## History and Significance
 
-The Abensbergerdenkmal stands as a symbol of Freising’s enduring legacy and cultural significance. While specific historical details regarding its origin and purpose may not be documented, monuments of this kind often commemorate local events or figures of importance, reflecting the collective memory of the community. The construction of such monuments typically arises from a desire to honor and remember pivotal moments in history, whether they be battles, influential leaders, or significant societal changes.
+The Abensbergerdenkmal stands as a symbol of Freising's enduring legacy and cultural significance. While specific historical details regarding its origin and purpose may not be documented, monuments of this kind often commemorate local events or figures of importance, reflecting the collective memory of the community. The construction of such monuments typically arises from a desire to honor and remember pivotal moments in history, whether they be battles, influential leaders, or significant societal changes.
 
 Freising itself has a deep historical narrative, as it has been inhabited since prehistoric times and has played host to numerous historical events and developments over the centuries. The town is recognized for its ecclesiastical history, as it was once the seat of a bishopric and has seen various architectural and cultural transformations. The Abensbergerdenkmal thus fits seamlessly into this broader context of historical reverence, linking the past to contemporary community identity.
 
@@ -78,7 +78,7 @@ To avoid crowds, plan your visit during off-peak hours, particularly during the 
 
 ## Practical Information
 
-When planning your visit to the Abensbergerdenkmal, it’s wise to bring along a few essentials. Comfortable walking shoes are a must, as you may wish to explore Freising’s charming streets and nearby attractions. A camera or smartphone for capturing the monument and its surroundings will enhance your experience.
+When planning your visit to the Abensbergerdenkmal, it's wise to bring along a few essentials. Comfortable walking shoes are a must, as you may wish to explore Freising's charming streets and nearby attractions. A camera or smartphone for capturing the monument and its surroundings will enhance your experience.
 
 Seasonal considerations are also important. If you visit in winter, dress warmly, as temperatures can drop significantly. In the summer, light clothing is advisable, but be prepared for the occasional rain shower typical of the region.
 

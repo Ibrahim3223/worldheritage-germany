@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-St. Lambertus, a prominent church building located in Düsseldorf's Altstadt, is a striking example of ecclesiastical architecture that tells the story of the city’s religious and cultural heritage. With its unique design and historical significance, this church has become an iconic feature of the Düsseldorf skyline. The Altstadt area, often referred to as the "longest bar in the world" due to its numerous pubs and vibrant atmosphere, serves as a backdrop to the church, enhancing its allure for visitors. St. Lambertus serves not only as a place of worship but also as a focal point for community gatherings, reflecting the enduring spirit of the local population. Whether you are a history enthusiast, an architecture lover, or simply in search of a serene spot amidst the bustling city, St. Lambertus promises a memorable experience.
+St. Lambertus, a prominent church building located in Düsseldorf's Altstadt, is a striking example of ecclesiastical architecture that tells the story of the city's religious and cultural heritage. With its unique design and historical significance, this church has become an iconic feature of the Düsseldorf skyline. The Altstadt area, often referred to as the "longest bar in the world" due to its numerous pubs and vibrant atmosphere, serves as a backdrop to the church, enhancing its allure for visitors. St. Lambertus serves not only as a place of worship but also as a focal point for community gatherings, reflecting the enduring spirit of the local population. Whether you are a history enthusiast, an architecture lover, or simply in search of a serene spot amidst the bustling city, St. Lambertus promises a memorable experience.
 
 ## History and Significance
 
@@ -38,9 +38,9 @@ Throughout its history, St. Lambertus has witnessed numerous transformations, re
 
 ## Architecture and Features
 
-St. Lambertus is characterized by its distinct architectural style, which integrates elements from various periods. Its design features a combination of Gothic and Baroque influences, evident in the ornate details and structural elegance. The church’s façade is adorned with intricate carvings and statuary, showcasing the craftsmanship of the time.
+St. Lambertus is characterized by its distinct architectural style, which integrates elements from various periods. Its design features a combination of Gothic and Baroque influences, evident in the ornate details and structural elegance. The church's façade is adorned with intricate carvings and statuary, showcasing the craftsmanship of the time.
 
-One of the church’s most notable features is its twisted tower, which adds a unique silhouette to the Düsseldorf skyline. This architectural anomaly is not only visually striking but also serves as a point of reference for locals and visitors alike. Inside, the church is equally impressive, with beautiful stained-glass windows that filter light into the nave, creating a peaceful ambiance.
+One of the church's most notable features is its twisted tower, which adds a unique silhouette to the Düsseldorf skyline. This architectural anomaly is not only visually striking but also serves as a point of reference for locals and visitors alike. Inside, the church is equally impressive, with beautiful stained-glass windows that filter light into the nave, creating a peaceful ambiance.
 
 The interior of St. Lambertus is adorned with religious artifacts and artwork that reflect its long-standing tradition as a place of worship. Visitors will find altars, paintings, and sculptures that tell stories of faith and devotion. The blend of light, color, and art within the church creates a serene environment, inviting contemplation and reflection.
 
@@ -48,7 +48,7 @@ The interior of St. Lambertus is adorned with religious artifacts and artwork th
 
 Visiting St. Lambertus is an enriching experience, with the church open to the public for both worship and exploration. To reach the church, travelers can utilize Düsseldorf's extensive public transport system, which includes buses and trams that stop nearby. The location in Altstadt makes it easily accessible for those who are exploring the lively area.
 
-Check the official website for current information regarding opening hours and any potential entry fees. When planning your visit, it’s advisable to allocate at least an hour to fully appreciate the architecture and ambiance of the church. The best times to visit are during weekdays when the crowds are thinner, allowing for a more intimate experience.
+Check the official website for current information regarding opening hours and any potential entry fees. When planning your visit, it's advisable to allocate at least an hour to fully appreciate the architecture and ambiance of the church. The best times to visit are during weekdays when the crowds are thinner, allowing for a more intimate experience.
 
 Inside, visitors can expect a tranquil atmosphere, making it an excellent place for quiet reflection or prayer. Be sure to observe any guidelines set by the church regarding behavior and photography, as these can enhance the respectful nature of your visit.
 

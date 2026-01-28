@@ -58,7 +58,7 @@ Depending on your interests, a visit to Müritz can span anywhere from a few hou
 
 1. **Müritz National Park**: This expansive national park offers additional opportunities for hiking, birdwatching, and exploring diverse ecosystems. Visitors can enjoy well-marked trails and educational exhibits about the local flora and fauna.
 
-2. **Röbel/Müritz**: This charming town on the shores of Müritz features a lovely harbor, quaint shops, and local eateries. It’s an excellent base for exploring the lake and its surroundings.
+2. **Röbel/Müritz**: This charming town on the shores of Müritz features a lovely harbor, quaint shops, and local eateries. It's an excellent base for exploring the lake and its surroundings.
 
 3. **Waren (Müritz)**: Just a short distance from the lake, this town offers cultural attractions, including museums and historical landmarks. The picturesque old town is perfect for leisurely strolls.
 
@@ -93,7 +93,7 @@ Check the official website for information on guided tours available in the Mür
 The best times to visit Müritz are late spring to early autumn when the weather is pleasant and the natural surroundings are at their most vibrant.
 
 ### Is it wheelchair accessible?
-While some areas around Müritz may be accessible, it’s advisable to check the specific locations you plan to visit for their accessibility options.
+While some areas around Müritz may be accessible, it's advisable to check the specific locations you plan to visit for their accessibility options.
 
 ### Can I buy tickets online?
 For any facilities or tours in the area, check the official website for information on online ticket purchases.
@@ -102,4 +102,4 @@ For any facilities or tours in the area, check the official website for informat
 Facilities, including restrooms and cafes, can be found in nearby towns and some recreational areas around the lake. Check the official website for specific locations.
 
 ### What should I wear?
-Wear comfortable clothing suitable for outdoor activities, and consider layers for changing weather conditions. Don’t forget sun protection if visiting during warmer months.
+Wear comfortable clothing suitable for outdoor activities, and consider layers for changing weather conditions. Don't forget sun protection if visiting during warmer months.

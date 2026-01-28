@@ -62,7 +62,7 @@ While visiting Ahlhorner Fischteiche, consider exploring other attractions in th
    
 2. **Stadtmuseum Wildeshausen**: Located in the nearby town of Wildeshausen, this museum provides insights into the local history and culture of the region.
 
-3. **Burg zu Wildeshausen**: This historical site features remnants of a medieval castle, providing a glimpse into the area’s past.
+3. **Burg zu Wildeshausen**: This historical site features remnants of a medieval castle, providing a glimpse into the area's past.
 
 4. **Pferdemuseum**: Also in Wildeshausen, this museum is dedicated to the history and significance of horses in the local culture.
 

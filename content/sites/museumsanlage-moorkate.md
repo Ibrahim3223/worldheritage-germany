@@ -73,13 +73,13 @@ It's always a good idea to check current information on the museum's official we
 Visitors typically spend a few hours at Museumsanlage Moorkate, depending on their interest in the exhibits. 
 
 ### Is photography allowed?
-Photography is generally permitted in many areas of the museum, but it’s advisable to verify specific rules upon arrival.
+Photography is generally permitted in many areas of the museum, but it's advisable to verify specific rules upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as these may be available at certain times.
 
 ### What's the best time to visit?
-The best time to visit may vary, so checking the museum’s website for any special events or busy periods is recommended.
+The best time to visit may vary, so checking the museum's website for any special events or busy periods is recommended.
 
 ### Is it wheelchair accessible?
 For information on accessibility, please consult the official website to ensure a comfortable visit.

@@ -50,7 +50,7 @@ Inside, the church is expected to house beautiful stained glass windows that fil
 
 Visiting St. Martin in Lorch provides an opportunity for reflection, exploration, and connection with local heritage. To reach the church, you can take advantage of various transport options available in the area, including public transportation and local roads. The coordinates, 50.04396283, 7.804224671, can assist in guiding you directly to the church.
 
-Check the official website for current information regarding hours and entry fees, as these may vary throughout the year. It’s advisable to allocate a sufficient amount of time for your visit to fully appreciate the church's features and its surroundings. A typical visit could take around an hour, allowing you to soak in the atmosphere and perhaps engage in quiet contemplation.
+Check the official website for current information regarding hours and entry fees, as these may vary throughout the year. It's advisable to allocate a sufficient amount of time for your visit to fully appreciate the church's features and its surroundings. A typical visit could take around an hour, allowing you to soak in the atmosphere and perhaps engage in quiet contemplation.
 
 The best times to visit St. Martin are likely during weekdays or early mornings, when crowds may be smaller, providing a more intimate experience. Seasonal considerations may also come into play; for instance, spring and autumn often offer pleasant weather for exploring the area.
 
@@ -76,7 +76,7 @@ Additionally, if you're interested in learning more about the church's history a
 
 ## Practical Information
 
-When planning your visit to St. Martin, it’s essential to bring along a few necessities. Comfortable walking shoes are advisable, as exploring the surrounding area may involve some walking. Depending on the season, consider layering your clothing, as temperatures can vary. 
+When planning your visit to St. Martin, it's essential to bring along a few necessities. Comfortable walking shoes are advisable, as exploring the surrounding area may involve some walking. Depending on the season, consider layering your clothing, as temperatures can vary. 
 
 If you are visiting during the warmer months, sunscreen and water can help keep you comfortable. In autumn and winter, a jacket may be necessary to ensure you stay warm while exploring the region.
 
@@ -88,10 +88,10 @@ While specific amenities at the church may not be detailed, checking the officia
 A typical visit to St. Martin can take about an hour, allowing you to appreciate its architecture and surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of the space and any ongoing services.
+Photography is generally permitted, but it's advisable to be respectful of the space and any ongoing services.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as these can provide deeper insights into the church’s history.
+Check the official website for information on guided tours, as these can provide deeper insights into the church's history.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often the best times to visit to avoid larger crowds.

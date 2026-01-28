@@ -64,7 +64,7 @@ While exploring Schloss Deichmannsaue, take the opportunity to discover other at
 
 3. **Bonn's Museums**: The city of Bonn is home to several museums, including the Bonn Museum of Modern Art and the House of the History of the Federal Republic of Germany, providing a broader view of the region's cultural heritage.
 
-4. **Rüngsdorf’s Local Shops and Cafés**: Explore the quaint shops and cafés in Rüngsdorf, where you can enjoy local cuisine and find unique souvenirs.
+4. **Rüngsdorf's Local Shops and Cafés**: Explore the quaint shops and cafés in Rüngsdorf, where you can enjoy local cuisine and find unique souvenirs.
 
 5. **The Rhine River Promenade**: A short walk can lead you to the scenic Rhine River promenade, where you can enjoy views and perhaps partake in a river cruise.
 

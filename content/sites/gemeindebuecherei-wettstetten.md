@@ -99,7 +99,7 @@ The availability of guided tours may depend on the library's programming. Check 
 Weekdays, particularly in the mornings or early afternoons, tend to be less crowded, providing a more peaceful atmosphere for your visit.
 
 ### Is it wheelchair accessible?
-Accessibility features are typically included in modern library designs, but it’s advisable to confirm specific accommodations with library staff.
+Accessibility features are typically included in modern library designs, but it's advisable to confirm specific accommodations with library staff.
 
 ### Can I buy tickets online?
 As this facility primarily serves as a library rather than a venue that requires tickets, check the official website for any specific events that may necessitate advance registration or tickets.

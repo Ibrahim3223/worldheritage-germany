@@ -3,7 +3,7 @@ title: "Prussian National Monument for the Liberation Wars"
 site_name: "Prussian National Monument for the Liberation Wars"
 date: 2026-01-26
 draft: false
-description: "The Prussian National Monument for the Liberation Wars serves as a poignant reminder of Germany’s complex past and the sacrifices made during the struggles..."
+description: "The Prussian National Monument for the Liberation Wars serves as a poignant reminder of Germany's complex past and the sacrifices made during the struggles..."
 region: "Berlin"
 country: "Germany"
 heritage_type: "Monument"
@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Prussian National Monument for the Liberation Wars serves as a poignant reminder of Germany’s complex past and the sacrifices made during the struggles for liberation in the 19th century. Located in Berlin’s Friedrichshain-Kreuzberg district, this monument commemorates the wars fought for liberation from foreign rule, highlighting the resilience and determination of the German people. The monument stands in a prominent location, inviting visitors to reflect on the historical significance of the events it memorializes. 
+The Prussian National Monument for the Liberation Wars serves as a poignant reminder of Germany's complex past and the sacrifices made during the struggles for liberation in the 19th century. Located in Berlin's Friedrichshain-Kreuzberg district, this monument commemorates the wars fought for liberation from foreign rule, highlighting the resilience and determination of the German people. The monument stands in a prominent location, inviting visitors to reflect on the historical significance of the events it memorializes. 
 
-As you approach, the monument commands attention with its imposing structure and historical gravitas, making it a must-visit site for anyone interested in the interplay between history and national identity. The surrounding area, rich with its own historical context, provides an opportunity to explore the broader narratives of Berlin’s past. This guide will take you through the history, architectural features, and practical information to enhance your visit to this significant site.
+As you approach, the monument commands attention with its imposing structure and historical gravitas, making it a must-visit site for anyone interested in the interplay between history and national identity. The surrounding area, rich with its own historical context, provides an opportunity to explore the broader narratives of Berlin's past. This guide will take you through the history, architectural features, and practical information to enhance your visit to this significant site.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Prussian National Monument for the Liberation Wars was established to honor 
 
 The wars, particularly the War of Liberation (Befreiungskriege), were marked by significant battles and the mobilization of citizens who rallied against foreign oppression. The monument reflects the cultural importance of these events, as they not only fostered a sense of national identity but also influenced subsequent political developments in Germany. By visiting the monument, one gains insight into the collective memory that has shaped modern German society.
 
-The monument’s establishment aligns with a broader trend in the 19th century where nations sought to memorialize their struggles and triumphs. It stands alongside other European monuments that celebrate national identity and historical memory, making it a vital part of the narrative that connects past conflicts with contemporary understandings of nationhood.
+The monument's establishment aligns with a broader trend in the 19th century where nations sought to memorialize their struggles and triumphs. It stands alongside other European monuments that celebrate national identity and historical memory, making it a vital part of the narrative that connects past conflicts with contemporary understandings of nationhood.
 
 ## Architecture and Features
 

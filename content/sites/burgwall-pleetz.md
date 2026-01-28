@@ -80,7 +80,7 @@ To make the most of your visit to Burgwall Pleetz, consider the following tips:
 
 Preparing for a visit to Burgwall Pleetz involves a few considerations to ensure a comfortable experience:
 
-- **What to Bring**: Wear comfortable walking shoes, as the terrain may be uneven. A camera is recommended for capturing the site’s features, and don’t forget to bring water to stay hydrated, especially on warmer days.
+- **What to Bring**: Wear comfortable walking shoes, as the terrain may be uneven. A camera is recommended for capturing the site's features, and don't forget to bring water to stay hydrated, especially on warmer days.
 
 - **Seasonal Considerations**: Be mindful of weather conditions; dress in layers to accommodate fluctuations in temperature. If visiting during the cooler months, consider bringing a light jacket.
 

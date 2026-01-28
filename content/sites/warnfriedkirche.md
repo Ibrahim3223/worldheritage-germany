@@ -72,7 +72,7 @@ After visiting Warnfriedkirche, take the opportunity to explore other notable at
 
 For those planning a visit to Warnfriedkirche, here are some insider tips to enhance your experience:
 
-- **Photography**: While photography is often allowed, be mindful of the sacredness of the space. Capturing the essence of the church’s interior can be rewarding, especially during quieter moments.
+- **Photography**: While photography is often allowed, be mindful of the sacredness of the space. Capturing the essence of the church's interior can be rewarding, especially during quieter moments.
 
 - **Crowd Avoidance**: To enjoy a more serene visit, consider going during weekdays or early mornings. This will give you the chance to appreciate the architecture and ambiance without the distraction of larger crowds.
 

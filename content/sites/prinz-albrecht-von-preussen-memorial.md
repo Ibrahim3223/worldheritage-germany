@@ -44,7 +44,7 @@ The Prinz Albrecht von Preußen Memorial features a striking statue that capture
 
 Surrounding the statue, the landscape is likely designed to complement its presence, creating a serene environment that enhances the visitor's experience. The design may incorporate elements typical of other historical monuments in Berlin, such as carefully manicured lawns, pathways for visitors, and possibly other decorative features that underscore the significance of the memorial.
 
-Visitors can expect to encounter not just the statue itself but also the atmosphere of contemplation it fosters. It stands as a focal point amid the bustling city, inviting a moment of pause in one’s exploration of Berlin.
+Visitors can expect to encounter not just the statue itself but also the atmosphere of contemplation it fosters. It stands as a focal point amid the bustling city, inviting a moment of pause in one's exploration of Berlin.
 
 ## Visiting Information
 
@@ -62,9 +62,9 @@ The Prinz Albrecht von Preußen Memorial is strategically located near several o
    
 2. **Museum Berggruen**: Home to an impressive collection of modern art, this museum features works by Picasso, Klee, and other significant artists of the 20th century.
    
-3. **The Story of Berlin Museum**: A fascinating museum that chronicles the history of Berlin, providing context and depth to the city’s rich past.
+3. **The Story of Berlin Museum**: A fascinating museum that chronicles the history of Berlin, providing context and depth to the city's rich past.
    
-4. **The Kaiser Wilhelm Memorial Church**: A striking landmark that serves as a symbol of Berlin’s resilience, this church is a blend of historical and contemporary architecture.
+4. **The Kaiser Wilhelm Memorial Church**: A striking landmark that serves as a symbol of Berlin's resilience, this church is a blend of historical and contemporary architecture.
    
 5. **Savignyplatz**: A lively square known for its cafes and boutiques, perfect for a leisurely stroll after visiting the memorial.
 

@@ -72,7 +72,7 @@ Dortmund is rich in cultural and historical attractions, making it an excellent 
 
 3. **Dortmund U-Tower**: Once a brewery, this iconic building now houses a center for art and creativity, featuring exhibitions and events that celebrate contemporary culture.
 
-4. **Reinoldikirche**: This historic church, located in the city center, is known for its stunning architecture and significant role in Dortmund’s history.
+4. **Reinoldikirche**: This historic church, located in the city center, is known for its stunning architecture and significant role in Dortmund's history.
 
 5. **Museum of Art and Cultural History**: Housed in a former town hall, this museum presents a diverse collection of art and artifacts that reflect the city's cultural heritage.
 

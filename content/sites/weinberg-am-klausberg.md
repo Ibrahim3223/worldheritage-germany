@@ -88,7 +88,7 @@ If visiting in the warmer months, sun protection such as hats and sunscreen is r
 A visit to Weinberg am Klausberg typically lasts about 2-3 hours, allowing time to explore the vineyard and participate in tastings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted in the vineyard, but it’s best to check for any specific restrictions upon arrival.
+Yes, photography is generally permitted in the vineyard, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information about guided tours, as these may be available during certain times of the year.

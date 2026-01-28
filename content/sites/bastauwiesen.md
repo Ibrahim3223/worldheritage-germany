@@ -45,7 +45,7 @@ The physical features of Bastauwiesen include winding trails that meander throug
 The presence of water bodies within the reserve adds to its ecological significance, serving as crucial habitats for aquatic life and migratory birds. This variety of environments makes Bastauwiesen an ideal location for nature study and observation, offering a glimpse into the intricate relationships between different species and their habitats.
 
 ## Visiting Information
-Visiting Bastauwiesen is an enriching experience for anyone interested in nature and conservation. While specific details about hours of operation and entrance fees may vary, it’s advisable to check the official website for current information before planning your visit. 
+Visiting Bastauwiesen is an enriching experience for anyone interested in nature and conservation. While specific details about hours of operation and entrance fees may vary, it's advisable to check the official website for current information before planning your visit. 
 
 The reserve is accessible by various modes of transport, including private vehicles and public transportation, with nearby parking facilities available for visitors. Once you arrive, expect to spend a few hours wandering the trails and observing the local wildlife. The best times to visit are during the spring and early fall when the flora is vibrant and the wildlife is particularly active.
 
@@ -89,7 +89,7 @@ Check the official website for detailed information about accessibility options 
 Information regarding entrance fees and ticket purchases can be found on the official website.
 
 ### Are there restrooms and cafes?
-Amenities may be limited within the reserve, so it’s advisable to plan accordingly. Check the official website for the latest updates.
+Amenities may be limited within the reserve, so it's advisable to plan accordingly. Check the official website for the latest updates.
 
 ### What should I wear?
 Comfortable shoes and weather-appropriate clothing are recommended, as conditions can vary throughout the year.

@@ -52,7 +52,7 @@ While visiting KulturAmbulanz, consider exploring other nearby attractions that 
 
 3. **Parks and Outdoor Spaces**: Enjoying the natural beauty of the Osterholz region can provide a refreshing break from museum visits, allowing for moments of relaxation and reflection.
 
-4. **Cafés and Restaurants**: Sampling local cuisine at nearby eateries can enhance your cultural experience, offering a taste of the region’s culinary heritage.
+4. **Cafés and Restaurants**: Sampling local cuisine at nearby eateries can enhance your cultural experience, offering a taste of the region's culinary heritage.
 
 5. **Community Events**: Check local listings for events that may coincide with your visit, such as art fairs, markets, or festivals that celebrate regional culture.
 

@@ -58,7 +58,7 @@ The best times to visit the Rathaus would likely align with local events or civi
 
 Ahrensburg offers a variety of attractions that complement a visit to Rathaus Ahrensburg. Here are a few notable places to consider:
 
-1. **Ahrensburg Castle**: This historic castle, with its beautiful grounds, is a short distance from the Rathaus. It provides insight into the region’s history and serves as a picturesque backdrop for leisurely walks.
+1. **Ahrensburg Castle**: This historic castle, with its beautiful grounds, is a short distance from the Rathaus. It provides insight into the region's history and serves as a picturesque backdrop for leisurely walks.
 
 2. **The Ahrensburg Town Park**: Adjacent to the city hall, this park is perfect for a leisurely stroll or a picnic, featuring scenic paths and green spaces.
 
@@ -66,7 +66,7 @@ Ahrensburg offers a variety of attractions that complement a visit to Rathaus Ah
 
 4. **St. John's Church**: This historic church is another nearby attraction, offering a glimpse into the spiritual heritage of Ahrensburg and its architectural styles.
 
-5. **The Ahrensburg Museum**: For those interested in local history, the museum provides exhibits that detail the town’s past and its cultural evolution.
+5. **The Ahrensburg Museum**: For those interested in local history, the museum provides exhibits that detail the town's past and its cultural evolution.
 
 ## Insider Tips
 

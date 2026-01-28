@@ -80,7 +80,7 @@ To make the most of your visit to the Herbergsmuseum, consider these insider tip
 
 ## Practical Information
 
-When visiting the Herbergsmuseum, it's wise to bring a few essentials to ensure a smooth experience. Comfortable walking shoes are recommended, as you’ll likely be on your feet while exploring the exhibits. 
+When visiting the Herbergsmuseum, it's wise to bring a few essentials to ensure a smooth experience. Comfortable walking shoes are recommended, as you'll likely be on your feet while exploring the exhibits. 
 
 Weather in the Harz region can be variable, so check the forecast before your visit and dress accordingly. A light jacket might be advisable even in warmer months, as museums can sometimes be cooler than expected.
 
@@ -107,7 +107,7 @@ Accessibility features may vary; check the official website or call ahead for sp
 Check the official website for the option to purchase tickets in advance.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms are typically available; however, dining options may vary, so it’s best to confirm on the official website.
+Amenities such as restrooms are typically available; however, dining options may vary, so it's best to confirm on the official website.
 
 ### What should I wear?
 Dress comfortably and in layers to accommodate the variable weather conditions typical of the Harz region. 

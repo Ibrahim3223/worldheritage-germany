@@ -70,7 +70,7 @@ While in Dormagen, consider exploring these nearby attractions:
 
 ## Insider Tips
 
-To make the most of your visit to Kreismuseum Zons, consider timing your trip to avoid peak hours. Early mornings or late afternoons during weekdays may offer a more relaxed experience. Photography may be allowed in certain areas, but it’s wise to check signage or ask staff for guidance.
+To make the most of your visit to Kreismuseum Zons, consider timing your trip to avoid peak hours. Early mornings or late afternoons during weekdays may offer a more relaxed experience. Photography may be allowed in certain areas, but it's wise to check signage or ask staff for guidance.
 
 If you have a particular interest in specific exhibits, inquire ahead of time about any tours or special presentations that may be scheduled. Engaging with staff can provide additional insights that enhance your understanding of the displays.
 

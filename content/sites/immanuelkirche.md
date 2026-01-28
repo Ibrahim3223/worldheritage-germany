@@ -36,7 +36,7 @@ Visitors to Immanuelkirche can expect an enriching experience, with the church o
 
 Immanuelkirche has played an important role in the spiritual and communal life of Düsseldorf-Friedrichstadt. While specific historical dates are not available, the church embodies the cultural and religious dynamics of the area. As a place of worship, it has served generations of congregants, providing a space for spiritual nourishment, community gatherings, and celebrations of significant life events such as weddings and baptisms.
 
-The church’s significance extends beyond its religious functions. It represents the broader historical context of Düsseldorf, reflecting the city’s development and the intertwining of different cultural influences. As urban areas evolve, places like Immanuelkirche help maintain a connection to the past, grounding the community in shared traditions and values.
+The church's significance extends beyond its religious functions. It represents the broader historical context of Düsseldorf, reflecting the city's development and the intertwining of different cultural influences. As urban areas evolve, places like Immanuelkirche help maintain a connection to the past, grounding the community in shared traditions and values.
 
 Moreover, Immanuelkirche stands as a symbol of inclusivity, welcoming individuals from diverse backgrounds to participate in its activities and services. The church fosters a sense of belonging and encourages dialogue among its visitors, illustrating the importance of community in both spiritual and secular contexts.
 

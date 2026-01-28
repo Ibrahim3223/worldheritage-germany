@@ -72,11 +72,11 @@ To make the most of your visit to Römermuseum Schwarzenacker, consider the foll
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or early in the day. This will allow for a more relaxed exploration of the exhibits.
 
-- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions or seek recommendations for the best exhibits to focus on during your visit.
+- **Engage with Staff**: Museum staff are often knowledgeable and passionate about the exhibits. Don't hesitate to ask questions or seek recommendations for the best exhibits to focus on during your visit.
 
 ## Practical Information
 
-When visiting Römermuseum Schwarzenacker, it’s important to come prepared to ensure a smooth experience:
+When visiting Römermuseum Schwarzenacker, it's important to come prepared to ensure a smooth experience:
 
 - **What to Bring**: A camera, notepad, and water bottle are recommended. Comfortable walking shoes will enhance your exploration of the museum and nearby attractions.
 
@@ -99,7 +99,7 @@ Guided tours may be available, providing deeper insights into the exhibits and R
 Weekdays, particularly in the morning, are often less crowded, allowing for a more intimate experience with the exhibits.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for specific details regarding wheelchair access and assistance.
+Accessibility features may be available, but it's advisable to check the official website for specific details regarding wheelchair access and assistance.
 
 ### Can I buy tickets online?
 Ticket purchasing options may vary, so check the official website for information on online ticket sales and any available discounts.

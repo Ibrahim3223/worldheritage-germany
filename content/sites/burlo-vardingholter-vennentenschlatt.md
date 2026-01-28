@@ -104,7 +104,7 @@ Specific accessibility information is not detailed; check the official website f
 Information about ticket purchases is not mentioned; for current details, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Details regarding restrooms and cafes are not specified. It’s advisable to check the official website for amenities available at the site.
+Details regarding restrooms and cafes are not specified. It's advisable to check the official website for amenities available at the site.
 
 ### What should I wear?
 Wear comfortable clothing suitable for outdoor activities. Layering is recommended to accommodate changing weather conditions.

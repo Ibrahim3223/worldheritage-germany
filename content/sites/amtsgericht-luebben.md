@@ -64,13 +64,13 @@ Exploring Lübben offers various opportunities to enhance your visit to the Amts
 
 4. **Schlosspark Lübben**: A lovely park area that invites relaxation and leisure, ideal for a stroll after visiting the courthouse.
 
-5. **Historic Town Center**: Wander through Lübben’s charming streets, where you can discover shops, cafes, and more historical buildings that reflect the town's character.
+5. **Historic Town Center**: Wander through Lübben's charming streets, where you can discover shops, cafes, and more historical buildings that reflect the town's character.
 
 ## Insider Tips
 
 To make the most of your visit to the Amtsgericht Lübben, consider the following insider tips:
 
-- **Photography**: Be mindful of photography policies within the courthouse. While exterior shots are generally acceptable, it’s best to inquire about restrictions inside the building.
+- **Photography**: Be mindful of photography policies within the courthouse. While exterior shots are generally acceptable, it's best to inquire about restrictions inside the building.
   
 - **Crowd Avoidance**: Aim to visit during mid-mornings or early afternoons on weekdays to enjoy a quieter experience, as the courthouse may be busier during peak hours.
 
@@ -89,16 +89,16 @@ Typically, a visit to the Amtsgericht Lübben can take around one hour, dependin
 While outside photography is usually permitted, it is essential to check for restrictions on photography inside the courthouse.
 
 ### Are there guided tours?
-Information on guided tours may vary; it’s best to check the official website for current offerings.
+Information on guided tours may vary; it's best to check the official website for current offerings.
 
 ### What's the best time to visit?
 Visiting during weekdays, particularly in mid-morning or early afternoon, can help you avoid crowds and enjoy a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s recommended to check the official website for specific details.
+Accessibility features may be available, but it's recommended to check the official website for specific details.
 
 ### Can I buy tickets online?
-Entry policies vary, so it’s advisable to check the official website for the latest information regarding ticket purchases.
+Entry policies vary, so it's advisable to check the official website for the latest information regarding ticket purchases.
 
 ### Are there restrooms and cafes?
 While the courthouse may have basic facilities, nearby cafes and restrooms can be found in the town center.

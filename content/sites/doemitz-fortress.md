@@ -32,7 +32,7 @@ As a museum, Dömitz Fortress offers an engaging experience, combining education
 
 ## History and Significance
 
-Dömitz Fortress was established during a period when territorial disputes were common in the region. Its strategic location made it crucial for the protection of Mecklenburg’s borders against external threats. The construction was initiated in the late 16th century, and the fortress not only served as a military stronghold but also as a symbol of power for the local rulers. The design and layout of the fortress reflect the military architectural styles of the Renaissance, which emphasized both functionality and imposing aesthetics.
+Dömitz Fortress was established during a period when territorial disputes were common in the region. Its strategic location made it crucial for the protection of Mecklenburg's borders against external threats. The construction was initiated in the late 16th century, and the fortress not only served as a military stronghold but also as a symbol of power for the local rulers. The design and layout of the fortress reflect the military architectural styles of the Renaissance, which emphasized both functionality and imposing aesthetics.
 
 Throughout its history, Dömitz Fortress has experienced various phases of use, adapting to changing military technologies and needs. It played a key role during conflicts, including the Thirty Years' War, and later, it became part of the defensive network against the advances of various invading forces. The fortress witnessed numerous battles and sieges, each contributing to its storied past.
 

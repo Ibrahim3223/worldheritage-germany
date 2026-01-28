@@ -58,11 +58,11 @@ While visiting the Eisernes Kreuz, there are several nearby attractions that can
 
 1. **Klötze Town Center**: Explore the charming streets of Klötze, where visitors can admire local architecture and enjoy traditional German cuisine at nearby eateries.
 
-2. **St. Stephen’s Church**: This historic church is a notable landmark in Klötze, offering insights into the town’s cultural heritage.
+2. **St. Stephen's Church**: This historic church is a notable landmark in Klötze, offering insights into the town's cultural heritage.
 
 3. **Nature Trails**: The surrounding area features various nature trails ideal for walking or cycling, allowing visitors to enjoy the natural beauty of the region.
 
-4. **Museum of Local History**: A short distance from the monument, this museum provides context about Klötze’s past, including its role during significant historical events.
+4. **Museum of Local History**: A short distance from the monument, this museum provides context about Klötze's past, including its role during significant historical events.
 
 5. **Nearby Parks**: Enjoy leisurely strolls in local parks, which often provide a peaceful setting for reflection after visiting the memorial.
 
@@ -103,7 +103,7 @@ Information about guided tours may vary; check the official website for details 
 Daylight hours are ideal for visiting, especially during spring and autumn when the weather is pleasant. Weekdays tend to be less crowded.
 
 ### Is it wheelchair accessible?
-Specific accessibility information is not provided; it’s advisable to check the official website for details regarding wheelchair access.
+Specific accessibility information is not provided; it's advisable to check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket availability and purchasing options.

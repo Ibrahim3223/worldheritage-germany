@@ -28,15 +28,15 @@ image_srcset:
 
 Burg Nesselburg, a captivating castle located in the charming region of Nesselwang, Germany, offers visitors a glimpse into the architectural prowess and historical significance of medieval fortifications. Perched at coordinates 47.611880876, 10.50254926, this castle is not just an impressive structure but also a symbol of the region's rich heritage. With its stunning backdrop, Burg Nesselburg serves as a focal point for both history enthusiasts and casual travelers interested in exploring Germany's extensive castle culture. The site invites exploration, promising an enriching experience filled with the intrigue of the past.
 
-As you approach Burg Nesselburg, its formidable presence commands attention. The castle’s architecture reflects the defensive needs of its time while also showcasing the aesthetic sensibilities of its builders. It stands as a reminder of the medieval era, a period marked by feudalism, chivalry, and the complex social structures that shaped Europe. Whether you come for the history, the architecture, or simply the scenic views, Burg Nesselburg has something to offer every visitor.
+As you approach Burg Nesselburg, its formidable presence commands attention. The castle's architecture reflects the defensive needs of its time while also showcasing the aesthetic sensibilities of its builders. It stands as a reminder of the medieval era, a period marked by feudalism, chivalry, and the complex social structures that shaped Europe. Whether you come for the history, the architecture, or simply the scenic views, Burg Nesselburg has something to offer every visitor.
 
 ## History and Significance
 
 Though specific historical dates remain elusive, the significance of Burg Nesselburg is deeply rooted in the cultural landscape of Nesselwang. Castles like Burg Nesselburg played a crucial role in the feudal system, serving as both fortifications and residences for noble families. They were strategic points for defense and governance, often influencing the political dynamics of their regions.
 
-Throughout its existence, Burg Nesselburg has witnessed numerous historical events—battles, alliances, and the gradual transformation of society. The castle’s walls have seen the rise and fall of various noble houses, making it a silent observer of the changing tides in German history. The castle is not merely a structure; it encapsulates stories of power, conflict, and community life that have unfolded over centuries. Its preservation allows contemporary visitors to appreciate this aspect of cultural heritage, providing insights into the lives of those who once called it home.
+Throughout its existence, Burg Nesselburg has witnessed numerous historical events—battles, alliances, and the gradual transformation of society. The castle's walls have seen the rise and fall of various noble houses, making it a silent observer of the changing tides in German history. The castle is not merely a structure; it encapsulates stories of power, conflict, and community life that have unfolded over centuries. Its preservation allows contemporary visitors to appreciate this aspect of cultural heritage, providing insights into the lives of those who once called it home.
 
-In addition to its historical relevance, Burg Nesselburg contributes to the local identity of Nesselwang. It is a source of pride for residents and an essential part of their community’s narrative. The castle draws visitors not only for its architectural beauty but also for the stories it holds, making it an important landmark in understanding the region’s past.
+In addition to its historical relevance, Burg Nesselburg contributes to the local identity of Nesselwang. It is a source of pride for residents and an essential part of their community's narrative. The castle draws visitors not only for its architectural beauty but also for the stories it holds, making it an important landmark in understanding the region's past.
 
 ## Architecture and Features
 
@@ -71,7 +71,7 @@ To make the most of your visit to Burg Nesselburg, consider the following inside
 
 - **Photography**: Bring your camera, as the castle's architecture and the surrounding landscape provide excellent photo opportunities. Early mornings or late afternoons offer softer light for photography.
 - **Crowd Avoidance**: Aim to visit on weekdays or during off-peak hours to enjoy a more tranquil experience, as weekends may attract larger crowds.
-- **Guided Tours**: If available, consider joining a guided tour for deeper insights into the castle’s history and architecture.
+- **Guided Tours**: If available, consider joining a guided tour for deeper insights into the castle's history and architecture.
 
 ## Practical Information
 

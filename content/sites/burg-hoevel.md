@@ -30,7 +30,7 @@ Burg Hövel's history is deeply intertwined with the development of the region, 
 
 The castle's architecture and layout reflect the military innovations of its time, showcasing the evolution of castle design in response to changing warfare tactics. As the region developed, Burg Hövel remained a center of local governance and authority, with its walls housing not only military personnel but also administrative functions. The castle is a reflection of the feudal system that dominated the region, providing insights into the societal structures that have shaped modern Germany.
 
-Burg Hövel’s cultural significance extends beyond its architecture, as it has witnessed numerous historical events and transformations. The castle stands as a reminder of the medieval period in Germany, serving as a site of heritage that continues to educate and inspire visitors about the complexities of the past.
+Burg Hövel's cultural significance extends beyond its architecture, as it has witnessed numerous historical events and transformations. The castle stands as a reminder of the medieval period in Germany, serving as a site of heritage that continues to educate and inspire visitors about the complexities of the past.
 
 ## Architecture and Features
 

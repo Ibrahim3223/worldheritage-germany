@@ -24,7 +24,7 @@ Cultural heritage D-6-6028-0136 in Donnersdorf stands as a significant fortifica
 
 The fortification is situated in Schweinfurt, a district known for its rich history and architectural heritage. Visitors to this site can expect an immersive experience that reflects the complexities of medieval fortifications and their impact on the communities that surrounded them. Whether you are a history enthusiast, an architecture lover, or simply a traveler seeking to understand the local culture, this site promises a profound glimpse into the past.
 
-In addition to its historical significance, the fortification's architectural elements showcase the design and defensive strategies of its time. The site invites exploration, offering insights into the challenges faced by those who once inhabited these formidable structures. A visit here is not just about observing ruins; it’s about engaging with a monumental story that has shaped the landscape of Donnersdorf and its surroundings.
+In addition to its historical significance, the fortification's architectural elements showcase the design and defensive strategies of its time. The site invites exploration, offering insights into the challenges faced by those who once inhabited these formidable structures. A visit here is not just about observing ruins; it's about engaging with a monumental story that has shaped the landscape of Donnersdorf and its surroundings.
 
 ## History and Significance
 
@@ -82,7 +82,7 @@ Engage with the site by taking your time to read any informational plaques or gu
 
 When visiting Cultural heritage D-6-6028-0136, it is advisable to wear comfortable footwear, as the terrain may be uneven in some areas. Depending on the season, layering your clothing can help you adjust to varying weather conditions.
 
-It’s a good idea to bring water and snacks, particularly if you plan to spend an extended period exploring the site and its surroundings. Check the official website for information on available facilities, such as restrooms and cafes, which may be nearby.
+It's a good idea to bring water and snacks, particularly if you plan to spend an extended period exploring the site and its surroundings. Check the official website for information on available facilities, such as restrooms and cafes, which may be nearby.
 
 Consider visiting during the shoulder seasons of spring and autumn for a more pleasant experience, as these periods typically offer milder weather and fewer tourists.
 

@@ -52,7 +52,7 @@ Visiting St. Johannes is a straightforward experience, as it is well-connected b
 
 When planning your visit, it's important to check the official website for hours and any potential admission fees. Depending on the day and time, visitors can expect a range of activities, from quiet contemplation to guided tours that delve into the church's history and architecture.
 
-On average, visitors spend a moderate amount of time exploring St. Johannes, typically ranging from half an hour to an hour. This allows ample opportunity to appreciate the church’s beauty and reflect on its significance. The best times to visit are generally during the weekday mornings or early afternoons, as these periods tend to be less crowded.
+On average, visitors spend a moderate amount of time exploring St. Johannes, typically ranging from half an hour to an hour. This allows ample opportunity to appreciate the church's beauty and reflect on its significance. The best times to visit are generally during the weekday mornings or early afternoons, as these periods tend to be less crowded.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ St. Johannes is conveniently located near several other notable sites in Munich,
 
 2. **Viktualienmarkt**: A bustling market offering a variety of local foods and crafts, this vibrant spot is perfect for sampling Bavarian delicacies.
 
-3. **Peter’s Church (Peterskirche)**: Located close to St. Johannes, this historic church features a tower that offers panoramic views of the city.
+3. **Peter's Church (Peterskirche)**: Located close to St. Johannes, this historic church features a tower that offers panoramic views of the city.
 
 4. **Marienplatz**: The central square of Munich, known for its stunning architecture and the iconic Glockenspiel that performs daily.
 
@@ -76,7 +76,7 @@ To avoid crowds, aim to visit on weekdays rather than weekends, when the church 
 
 ## Practical Information
 
-When planning your visit to St. Johannes, it’s wise to bring a few essentials. Comfortable shoes are recommended, especially if you intend to explore the nearby attractions. Depending on the season, consider dressing in layers, as temperatures can vary significantly throughout the day.
+When planning your visit to St. Johannes, it's wise to bring a few essentials. Comfortable shoes are recommended, especially if you intend to explore the nearby attractions. Depending on the season, consider dressing in layers, as temperatures can vary significantly throughout the day.
 
 In terms of seasonal considerations, spring and autumn tend to offer mild weather that is ideal for walking tours. Summer can be warm, so hydration is key, while winter may bring chilly temperatures that necessitate warmer attire.
 
@@ -106,4 +106,4 @@ Facilities may be limited within the church; however, nearby attractions often h
 ### What should I wear?
 Modest attire is recommended, in keeping with the decorum expected in places of worship. Comfortable footwear is also advisable for walking.
 
-Whether you’re a history enthusiast, an architecture aficionado, or simply seeking a peaceful place for reflection, St. Johannes in Munich offers a meaningful experience that resonates with both locals and travelers alike.
+Whether you're a history enthusiast, an architecture aficionado, or simply seeking a peaceful place for reflection, St. Johannes in Munich offers a meaningful experience that resonates with both locals and travelers alike.

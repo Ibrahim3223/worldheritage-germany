@@ -48,7 +48,7 @@ Visitors will find that the castle's setting enhances its architectural appeal. 
 
 ## Visiting Information
 
-Burg Hopfen is accessible to visitors eager to explore its historical significance and architectural marvels. The castle is conveniently located near Füssen, making it a suitable stop for those traveling through Bavaria. Public transportation options may be available, but it’s advisable to check local schedules and routes for the most efficient travel plans. For those driving, parking facilities are typically in proximity to the site.
+Burg Hopfen is accessible to visitors eager to explore its historical significance and architectural marvels. The castle is conveniently located near Füssen, making it a suitable stop for those traveling through Bavaria. Public transportation options may be available, but it's advisable to check local schedules and routes for the most efficient travel plans. For those driving, parking facilities are typically in proximity to the site.
 
 When planning a visit, it's essential to check the official website for current information on hours of operation and ticket prices, as these details can change. Visitors should anticipate spending a few hours at the castle to fully appreciate its features and the surrounding landscape. The best times to visit are often during the shoulder seasons of spring and fall, when the weather is pleasant, and the tourist crowds are less intense.
 

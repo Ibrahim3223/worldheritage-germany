@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-In the heart of Leipzig, Germany, the Reichsgericht building stands as an impressive example of judicial architecture, embodying the complexities of law and governance in the nation’s history. This courthouse, originally designed to serve as the Supreme Court of the German Empire, occupies a prominent position within Leipzig, a city known for its vibrant culture and historical significance. The Reichsgericht not only played a pivotal role in the administration of justice but also symbolizes the evolution of legal frameworks in Germany. Visitors are drawn to its grand façade and rich historical context, making it a significant stop for those exploring Leipzig’s diverse heritage. 
+In the heart of Leipzig, Germany, the Reichsgericht building stands as an impressive example of judicial architecture, embodying the complexities of law and governance in the nation's history. This courthouse, originally designed to serve as the Supreme Court of the German Empire, occupies a prominent position within Leipzig, a city known for its vibrant culture and historical significance. The Reichsgericht not only played a pivotal role in the administration of justice but also symbolizes the evolution of legal frameworks in Germany. Visitors are drawn to its grand façade and rich historical context, making it a significant stop for those exploring Leipzig's diverse heritage. 
 
-As you approach this monumental structure, you will be captivated by its imposing presence, which reflects the importance of the judiciary in a democratic society. The building’s architecture and historical relevance offer insights into the legal system and its impact on German society. Whether you are a history enthusiast, an architecture lover, or simply looking to enrich your travel experience, the Reichsgericht provides a compelling glimpse into Germany's legal past.
+As you approach this monumental structure, you will be captivated by its imposing presence, which reflects the importance of the judiciary in a democratic society. The building's architecture and historical relevance offer insights into the legal system and its impact on German society. Whether you are a history enthusiast, an architecture lover, or simply looking to enrich your travel experience, the Reichsgericht provides a compelling glimpse into Germany's legal past.
 
 ## History and Significance
 
-The Reichsgericht building has a storied history that underscores its importance within the German judicial system. Established in the late 19th century, it was designed to serve as the Supreme Court of the German Empire, reflecting the country’s shift towards a more unified legal framework. This institution was intended to ensure that the laws of the empire were applied uniformly across its diverse states, highlighting the significance of centralized judicial authority during a period of significant political change.
+The Reichsgericht building has a storied history that underscores its importance within the German judicial system. Established in the late 19th century, it was designed to serve as the Supreme Court of the German Empire, reflecting the country's shift towards a more unified legal framework. This institution was intended to ensure that the laws of the empire were applied uniformly across its diverse states, highlighting the significance of centralized judicial authority during a period of significant political change.
 
 Throughout its operational years, the Reichsgericht witnessed numerous landmark cases that shaped German law and society. Its role was particularly crucial during times of political upheaval, such as the Weimar Republic and the subsequent rise of National Socialism. As the judiciary navigated the challenges of these eras, the building became a focal point for legal decisions that impacted the rights and freedoms of citizens.
 
@@ -52,7 +52,7 @@ When planning your visit to the Reichsgericht building, consider how to best int
 
 Check the official website for current information regarding opening hours and pricing. Visitors can expect a range of experiences, from self-guided tours to potential guided options, depending on availability. Allow at least an hour to explore the building thoroughly, though those with a keen interest in architecture or history may wish to spend more time. 
 
-The best times to visit are during weekdays when the building is less crowded, allowing for a more intimate experience. If you prefer a guided tour, check in advance for scheduled times, as these can provide deeper insights into the building’s history and significance.
+The best times to visit are during weekdays when the building is less crowded, allowing for a more intimate experience. If you prefer a guided tour, check in advance for scheduled times, as these can provide deeper insights into the building's history and significance.
 
 ## Nearby Attractions
 
@@ -64,11 +64,11 @@ While visiting the Reichsgericht, take advantage of its proximity to several oth
 4. **Leipzig Zoo**: Offers a delightful experience for families and nature enthusiasts, featuring a variety of animal exhibits.
 5. **Mendelssohn House**: A museum dedicated to the composer Felix Mendelssohn, located in his former residence.
 
-These nearby attractions provide a well-rounded exploration of Leipzig’s cultural heritage.
+These nearby attractions provide a well-rounded exploration of Leipzig's cultural heritage.
 
 ## Insider Tips
 
-For the best photography opportunities, consider visiting early in the morning or later in the afternoon to capture the building in natural light. The changing shadows can enhance the architectural details. Additionally, if you’re looking to avoid larger crowds, aim for a weekday visit, as weekends tend to attract more tourists.
+For the best photography opportunities, consider visiting early in the morning or later in the afternoon to capture the building in natural light. The changing shadows can enhance the architectural details. Additionally, if you're looking to avoid larger crowds, aim for a weekday visit, as weekends tend to attract more tourists.
 
 Be mindful of any special events or court sessions that may be taking place during your visit, as these could impact access to certain areas of the building. Checking the official website prior to your visit can help you plan accordingly.
 
@@ -101,7 +101,7 @@ The building is designed to accommodate visitors with mobility challenges, but i
 Check the official website for information regarding ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be available; however, it’s advisable to confirm details on the official website.
+Facilities may be available; however, it's advisable to confirm details on the official website.
 
 ### What should I wear?
 Dress comfortably and appropriately for a courthouse setting. Consider the weather and plan your attire accordingly.

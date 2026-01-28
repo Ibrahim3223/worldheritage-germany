@@ -44,7 +44,7 @@ The architectural design of the Museum of Koblenz complements its cultural signi
 
 Notable features could include contemporary design elements that blend modernity with historical references, creating a harmonious environment for both exhibitions and gatherings. The museum likely utilizes natural light to highlight exhibits, encouraging an immersive experience as visitors navigate through the various displays. 
 
-Visitors can expect to find thoughtfully arranged exhibitions, possibly organized thematically or chronologically, that guide them through the history of Koblenz and its surrounding areas. The museum’s design might also facilitate accessibility, ensuring all guests can enjoy the wealth of information presented within its walls.
+Visitors can expect to find thoughtfully arranged exhibitions, possibly organized thematically or chronologically, that guide them through the history of Koblenz and its surrounding areas. The museum's design might also facilitate accessibility, ensuring all guests can enjoy the wealth of information presented within its walls.
 
 ## Visiting Information
 

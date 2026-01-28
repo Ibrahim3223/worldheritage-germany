@@ -82,7 +82,7 @@ To avoid crowds, try visiting during weekdays or in the early morning. This timi
 
 ## Practical Information
 
-When planning your visit to Burg Kirberg, it’s advisable to bring essentials such as water, snacks, and a fully charged mobile device for navigation and photography. Appropriate footwear is essential, as the terrain may be uneven.
+When planning your visit to Burg Kirberg, it's advisable to bring essentials such as water, snacks, and a fully charged mobile device for navigation and photography. Appropriate footwear is essential, as the terrain may be uneven.
 
 Seasonal considerations can also enhance your visit. The spring and fall months typically offer pleasant weather for outdoor exploration, while summer can be warm. Always check forecasts before your trip to ensure a comfortable experience.
 

@@ -34,9 +34,9 @@ The library is not just a repository of books; it is a vibrant hub of scholarly 
 
 The Kunstbibliothek Berlin has emerged as a key institution in the field of art research and documentation. Its establishment reflects the growing recognition of the importance of art libraries in the academic and cultural landscape. Over the years, it has developed a comprehensive collection that includes not only books but also rare publications and exhibition catalogs that capture the evolution of artistic movements and styles.
 
-The library’s significance extends beyond its collection. It serves as a cultural meeting point, bringing together scholars, artists, and the public to explore and discuss various aspects of art. The resources available range from classical art to contemporary works, providing a diverse array of materials that cater to varying interests and research needs. The library's commitment to accessibility and education enhances its role in promoting art appreciation across different demographics.
+The library's significance extends beyond its collection. It serves as a cultural meeting point, bringing together scholars, artists, and the public to explore and discuss various aspects of art. The resources available range from classical art to contemporary works, providing a diverse array of materials that cater to varying interests and research needs. The library's commitment to accessibility and education enhances its role in promoting art appreciation across different demographics.
 
-In addition to its collection, the Kunstbibliothek is involved in organizing exhibitions, lectures, and workshops that engage the community and stimulate dialogue about art and its relevance in today’s society. This dynamic approach ensures that the library remains not just a passive storehouse of knowledge, but an active participant in the cultural discourse of Berlin and the wider art world.
+In addition to its collection, the Kunstbibliothek is involved in organizing exhibitions, lectures, and workshops that engage the community and stimulate dialogue about art and its relevance in today's society. This dynamic approach ensures that the library remains not just a passive storehouse of knowledge, but an active participant in the cultural discourse of Berlin and the wider art world.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Kunstbibliothek Berlin, consider the follo
 
 - **Crowd Avoidance**: Plan your visit during weekdays or early in the morning to avoid larger crowds, which can make it easier to access resources and enjoy a quieter atmosphere.
 
-- **Engage with Staff**: Don’t hesitate to ask the staff for recommendations or insights about specific collections or upcoming events that may enhance your visit.
+- **Engage with Staff**: Don't hesitate to ask the staff for recommendations or insights about specific collections or upcoming events that may enhance your visit.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ When preparing for your visit to the Kunstbibliothek Berlin, consider bringing t
 
 - **Comfortable Footwear**: Expect to spend time on your feet as you explore the library and its collections.
 
-Seasonal considerations are generally mild in Berlin, but it’s wise to check the weather forecast before your visit and dress accordingly. 
+Seasonal considerations are generally mild in Berlin, but it's wise to check the weather forecast before your visit and dress accordingly. 
 
 ## Frequently Asked Questions
 
@@ -105,7 +105,7 @@ Guided tours or programs may be available; consult the official website for curr
 Weekdays or early mornings are often less crowded, providing a more enjoyable experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is available on the official website; it’s advisable to check beforehand.
+Accessibility information is available on the official website; it's advisable to check beforehand.
 
 ### Can I buy tickets online?
 Ticket purchasing options can be confirmed on the official website for the most accurate information.

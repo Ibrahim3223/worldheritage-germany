@@ -95,7 +95,7 @@ Guided tours may not be available; check the official website for more details.
 Mid-week visits, particularly during early mornings or late afternoons, are often quieter and more conducive to reflection.
 
 ### Is it wheelchair accessible?
-Accessibility features are not specified; it’s advisable to check in advance for any specific accommodations.
+Accessibility features are not specified; it's advisable to check in advance for any specific accommodations.
 
 ### Can I buy tickets online?
 Current ticketing options are not specified; check the official website for the most accurate information.

@@ -82,7 +82,7 @@ To enhance your visit to Altenburg railway station, consider these insider tips:
 
 ## Practical Information
 
-When preparing for your visit to Altenburg railway station, it’s essential to consider a few practical points:
+When preparing for your visit to Altenburg railway station, it's essential to consider a few practical points:
 
 - **What to Bring**: Ensure you have your travel essentials, including tickets, identification, and any necessary personal items. A camera or smartphone can be great for capturing memories.
 
@@ -106,7 +106,7 @@ Visiting during daylight hours is recommended for optimal access to services and
 Altenburg railway station is designed to accommodate all travelers, including those with mobility challenges. Check for specific accessibility features upon arrival.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary. It’s best to check the official website for current information regarding online ticket sales.
+Ticket purchasing options may vary. It's best to check the official website for current information regarding online ticket sales.
 
 ### Are there restrooms and cafes?
 The station typically includes restroom facilities and may have nearby cafes or retail options. Check the official site for specific amenities available at the station.

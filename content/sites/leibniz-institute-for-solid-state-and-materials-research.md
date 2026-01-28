@@ -34,7 +34,7 @@ Established with a commitment to advancing scientific knowledge, the Leibniz Ins
 
 The significance of the institute extends beyond its research output; it plays a critical role in fostering partnerships among universities, industry leaders, and other research institutions. By bridging the gap between theoretical research and practical applications, the Leibniz Institute contributes to advancements that impact everyday life, from the development of new materials for technology to innovations in sustainability. 
 
-The institute is a key player in Germany’s strategy to maintain its competitive edge in science and technology, particularly in the areas of solid-state physics and materials science. This commitment to research excellence positions the Leibniz Institute at the forefront of scientific inquiry, making it an essential participant in both national and international research collaborations.
+The institute is a key player in Germany's strategy to maintain its competitive edge in science and technology, particularly in the areas of solid-state physics and materials science. This commitment to research excellence positions the Leibniz Institute at the forefront of scientific inquiry, making it an essential participant in both national and international research collaborations.
 
 ## Architecture and Features
 
@@ -78,7 +78,7 @@ When visiting, it's advisable to bring essentials such as water, comfortable foo
 A visit typically lasts a few hours, depending on your interest level and any special events taking place.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check with the institute upon arrival.
+Photography policies may vary; it's best to check with the institute upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours and any special events that may be available.

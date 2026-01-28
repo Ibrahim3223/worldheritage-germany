@@ -46,7 +46,7 @@ Visiting Dreckburg allows one to connect with this rich tapestry of history, off
 
 Dreckburg is characterized by its classic manor house architecture, which reflects the stylistic elements prevalent in German design. The structure is notable for its elegant lines and traditional features that exemplify the grandeur typical of historical estates. As you approach the manor, you will likely notice its symmetrical facade, which is often a hallmark of such buildings.
 
-The manor’s design incorporates various architectural elements that are both functional and aesthetic. While specific details about the materials and construction techniques are not provided, it is common for manor houses of this type to feature large windows, decorative moldings, and a prominent entrance that serves as a focal point.
+The manor's design incorporates various architectural elements that are both functional and aesthetic. While specific details about the materials and construction techniques are not provided, it is common for manor houses of this type to feature large windows, decorative moldings, and a prominent entrance that serves as a focal point.
 
 Internally, Dreckburg may house rooms that reflect the historical lifestyle of its inhabitants. These spaces could include grand halls, intimate chambers, and areas designated for social gatherings, all of which contribute to the understanding of life in a manor house setting. The arrangement and decoration of these rooms often provide insights into the social hierarchy and cultural practices of the time.
 
@@ -101,7 +101,7 @@ The ideal visit duration can vary, but allocating at least two to three hours al
 Photography policies may vary, so it is best to check the official website for specific guidelines regarding photography inside the manor.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, which can provide additional context and enhance your understanding of the manor’s history.
+Check the official website for information on guided tours, which can provide additional context and enhance your understanding of the manor's history.
 
 ### What's the best time to visit?
 The best times to visit are typically in spring and autumn when the weather is more favorable for exploring both inside the manor and the surrounding areas.

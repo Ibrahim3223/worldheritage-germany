@@ -78,7 +78,7 @@ As the museum may not have extensive food services, it is a good idea to plan fo
 A visit typically lasts around two hours, though you may want to stay longer if you wish to engage more deeply with the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the museum staff upon arrival.
+Photography policies may vary, so it's best to check with the museum staff upon arrival.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website. Consider checking ahead for scheduling and availability.

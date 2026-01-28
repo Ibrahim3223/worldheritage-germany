@@ -88,7 +88,7 @@ Photography policies may vary; check with the school administration to ensure co
 Information about guided tours is not specified, so it's best to inquire directly with the school or check their official website for tour availability.
 
 ### What's the best time to visit?
-Mid-morning or early afternoon on weekdays is ideal for experiencing the school’s atmosphere during active hours.
+Mid-morning or early afternoon on weekdays is ideal for experiencing the school's atmosphere during active hours.
 
 ### Is it wheelchair accessible?
 Accessibility information is not provided; contacting the school directly or checking their official website may offer clarity on this matter.

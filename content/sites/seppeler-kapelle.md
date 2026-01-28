@@ -99,7 +99,7 @@ Specific information about guided tours is not available. It is recommended to c
 Daylight hours are ideal, with early morning or weekdays providing a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Details regarding wheelchair accessibility are not specified. It’s advisable to inquire through the official website for current accessibility information.
+Details regarding wheelchair accessibility are not specified. It's advisable to inquire through the official website for current accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchases and entry fees.

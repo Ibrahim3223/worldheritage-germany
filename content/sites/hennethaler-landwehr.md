@@ -90,7 +90,7 @@ A visit to Hennethaler Landwehr typically takes about two to three hours, allowi
 Yes, photography is permitted at Hennethaler Landwehr, making it a fantastic opportunity to capture the site's historical features and natural beauty.
 
 ### Are there guided tours?
-Information regarding guided tours may vary, so it’s advisable to check the official website for current offerings.
+Information regarding guided tours may vary, so it's advisable to check the official website for current offerings.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and autumn months when the weather is mild and the landscape is particularly inviting.

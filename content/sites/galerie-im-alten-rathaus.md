@@ -24,7 +24,7 @@ Galerie im Alten Rathaus, a distinguished museum located in Germany, invites vis
 
 Situated amidst a backdrop of vibrant urban life, Galerie im Alten Rathaus serves as a focal point for art enthusiasts and casual visitors alike. It provides a unique insight into the cultural landscape of the area, making it a significant site for those interested in the artistic heritage of Germany. 
 
-As you step inside, you’ll encounter a thoughtfully curated collection that highlights local artists and their contributions to the art world. Whether you're a seasoned art lover or simply curious about the creative expressions of the region, a visit to this gallery promises an engaging experience.
+As you step inside, you'll encounter a thoughtfully curated collection that highlights local artists and their contributions to the art world. Whether you're a seasoned art lover or simply curious about the creative expressions of the region, a visit to this gallery promises an engaging experience.
 
 ## History and Significance
 
@@ -78,7 +78,7 @@ To make the most of your visit to Galerie im Alten Rathaus, consider the followi
 
 - **Crowd Avoidance**: For a more tranquil experience, aim to visit during weekday mornings or early afternoons. This is when the gallery tends to be less crowded, allowing for a more personal engagement with the art.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff for insights about the exhibitions or recommendations for related local art events.
+- **Engage with Staff**: Don't hesitate to ask museum staff for insights about the exhibitions or recommendations for related local art events.
 
 ## Practical Information
 

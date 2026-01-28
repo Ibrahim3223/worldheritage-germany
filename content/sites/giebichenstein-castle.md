@@ -58,7 +58,7 @@ Expect to find a blend of guided tours and self-exploration options, giving visi
 
 1. **Halle Market Square**: Just a short distance from the castle, the vibrant Market Square is home to historic buildings and local vendors, creating a lively atmosphere.
 
-2. **St. Mary’s Church (Marktkirche)**: This stunning Gothic church is renowned for its impressive architecture and rich history, attracting visitors for both its beauty and spiritual significance.
+2. **St. Mary's Church (Marktkirche)**: This stunning Gothic church is renowned for its impressive architecture and rich history, attracting visitors for both its beauty and spiritual significance.
 
 3. **Francke Foundations**: A unique educational complex founded in the 18th century, offering insights into the history of education and social welfare in the region.
 

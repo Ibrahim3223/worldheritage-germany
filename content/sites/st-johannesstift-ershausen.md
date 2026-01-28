@@ -84,7 +84,7 @@ When preparing for your visit to St. Johannesstift, keep the following practical
 A visit to St. Johannesstift typically takes a few hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival.
+Photography policies may vary, so it's best to check upon arrival.
 
 ### Are there guided tours?
 Information about guided tours should be confirmed through the official website or onsite.

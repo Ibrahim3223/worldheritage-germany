@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-St. Martini Church in Brunswick, Germany, stands as a remarkable example of medieval ecclesiastical architecture and serves as a significant cultural landmark in the region. Located in the heart of Brunswick, this church building not only enhances the city’s skyline but also offers a glimpse into the religious and architectural history of the area. As one of the key churches in Brunswick, it plays an important role in the local community and continues to attract visitors from around the world. 
+St. Martini Church in Brunswick, Germany, stands as a remarkable example of medieval ecclesiastical architecture and serves as a significant cultural landmark in the region. Located in the heart of Brunswick, this church building not only enhances the city's skyline but also offers a glimpse into the religious and architectural history of the area. As one of the key churches in Brunswick, it plays an important role in the local community and continues to attract visitors from around the world. 
 
 The church is more than just a place of worship; it is a testament to the skilled craftsmanship of its builders and the enduring faith of its congregants. Visitors will find that St. Martini is an inviting site for contemplation, exploration, and appreciation of both its spiritual and historical significance. Whether you are an architecture enthusiast, a history buff, or simply in search of a serene place to reflect, St. Martini Church welcomes all.
 
 ## History and Significance
 
-St. Martini’s history is intertwined with the development of Brunswick itself. While specific dates regarding its construction are not provided, the church has been a significant part of the city’s ecclesiastical landscape for centuries. As Brunswick evolved through various historical epochs, St. Martini has witnessed the transformations that have shaped the region's socio-political and religious life.
+St. Martini's history is intertwined with the development of Brunswick itself. While specific dates regarding its construction are not provided, the church has been a significant part of the city's ecclesiastical landscape for centuries. As Brunswick evolved through various historical epochs, St. Martini has witnessed the transformations that have shaped the region's socio-political and religious life.
 
 The church has served as a focal point for the local community, providing spiritual guidance and a venue for significant events throughout its history. It functions not only as a place of worship but also as a center for community gatherings and cultural events. The church's historical significance is underscored by its architectural features, which reflect the styles and techniques prevalent during the era of its construction.
 
@@ -66,7 +66,7 @@ Brunswick is rich in history and culture, offering several attractions near St. 
 
 4. **The Happy Rizzi House**: A modern architectural marvel that contrasts with the historic buildings in the area, showcasing the city's blend of old and new.
 
-5. **Braunschweig State Museum**: For those interested in delving deeper into the region’s art and cultural heritage, this museum offers a wealth of exhibitions.
+5. **Braunschweig State Museum**: For those interested in delving deeper into the region's art and cultural heritage, this museum offers a wealth of exhibitions.
 
 ## Insider Tips
 

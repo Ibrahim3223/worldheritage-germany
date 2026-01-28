@@ -80,7 +80,7 @@ To maximize your visit to the Deutsches Kartoffelmuseum, here are a few insider 
 
 - **Crowd Avoidance**: Plan your visit during weekdays or in the early morning to avoid larger crowds, which can enhance your overall experience and allow for more time at each exhibit.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions. Their expertise can provide deeper insights into the exhibits and enhance your understanding of the potato's role in culture and agriculture.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions. Their expertise can provide deeper insights into the exhibits and enhance your understanding of the potato's role in culture and agriculture.
 
 ## Practical Information
 

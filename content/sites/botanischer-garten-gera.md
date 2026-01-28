@@ -32,7 +32,7 @@ Situated at coordinates 50.8758, 12.0878, the garden is easily accessible, enhan
 
 ## History and Significance
 
-The Botanischer Garten Gera has a rich cultural significance that extends beyond its role as a botanical collection. While specific historical milestones are not detailed, botanical gardens like Gera’s have traditionally played a vital role in plant research, conservation, and education. They serve as repositories of plant diversity, often functioning as key sites for scientific study and public engagement.
+The Botanischer Garten Gera has a rich cultural significance that extends beyond its role as a botanical collection. While specific historical milestones are not detailed, botanical gardens like Gera's have traditionally played a vital role in plant research, conservation, and education. They serve as repositories of plant diversity, often functioning as key sites for scientific study and public engagement.
 
 Cultural institutions such as this garden are increasingly recognized for their contributions to environmental awareness and sustainability. By showcasing various plant species, the garden helps promote biodiversity and encourages practices that protect the environment. Furthermore, botanical gardens often host educational programs and events that deepen public understanding of plants and their ecosystems, highlighting their importance in our daily lives.
 

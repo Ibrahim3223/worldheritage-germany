@@ -36,7 +36,7 @@ While specific historical dates may not be readily available, Jakobuskirche's im
 
 Tübingen itself is a city with deep academic roots, home to one of Germany's oldest universities. The presence of Jakobuskirche complements this intellectual environment, as it has historically provided a space for reflection and spirituality for students and townsfolk alike. The church stands as a reminder of the enduring nature of faith and community in a rapidly changing world.
 
-Culturally, Jakobuskirche also reflects the architectural styles that have influenced the region. Its design and structural elements are a representation of the artistic trends that have prevailed in Tübingen over the years. The church’s presence contributes to the cultural identity of the town, embodying stories of the past while continuing to serve the needs of the present community.
+Culturally, Jakobuskirche also reflects the architectural styles that have influenced the region. Its design and structural elements are a representation of the artistic trends that have prevailed in Tübingen over the years. The church's presence contributes to the cultural identity of the town, embodying stories of the past while continuing to serve the needs of the present community.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ The façade of the church often reflects the stylistic choices of the period in 
 
 Inside, Jakobuskirche likely offers a serene atmosphere with its spacious nave and well-considered layout conducive to worship and gatherings. The interior may feature artwork or historical artifacts that further enrich the experience, inviting visitors to explore its significance within the community.
 
-The church's enduring presence in Tübingen not only serves as a place for spiritual reflection but also stands as a canvas for the town’s evolving narrative, making it a fascinating site for those interested in both architecture and local culture.
+The church's enduring presence in Tübingen not only serves as a place for spiritual reflection but also stands as a canvas for the town's evolving narrative, making it a fascinating site for those interested in both architecture and local culture.
 
 ## Visiting Information
 

@@ -54,9 +54,9 @@ While the primary focus may be on the Sowjetische Kriegsgräberstätte Bergen-Lo
 
 1. **Bergen-Belsen Memorial**: A short drive away, this memorial commemorates the victims of the Bergen-Belsen concentration camp. It serves as an important historical site where visitors can learn about the atrocities of the Holocaust.
 
-2. **Celle Castle**: Located in the town of Celle, this historic castle features stunning Renaissance architecture and beautiful gardens. It offers a glimpse into the region’s royal past and serves as a cultural hub today.
+2. **Celle Castle**: Located in the town of Celle, this historic castle features stunning Renaissance architecture and beautiful gardens. It offers a glimpse into the region's royal past and serves as a cultural hub today.
 
-3. **Celle Old Town**: Strolling through the picturesque streets of Celle's Old Town reveals half-timbered houses and charming shops. It’s an ideal spot to enjoy local cuisine and experience the town's unique atmosphere.
+3. **Celle Old Town**: Strolling through the picturesque streets of Celle's Old Town reveals half-timbered houses and charming shops. It's an ideal spot to enjoy local cuisine and experience the town's unique atmosphere.
 
 4. **Wietze Nature Park**: For those seeking a natural retreat, the nearby Wietze Nature Park offers walking trails and scenic landscapes, perfect for a peaceful escape after visiting the cemetery.
 

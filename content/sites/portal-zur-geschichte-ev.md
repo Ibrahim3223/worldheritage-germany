@@ -50,7 +50,7 @@ To make the most of your visit to Portal zur Geschichte e.V., it is essential to
 
 Before visiting, check the official website for current information regarding opening hours and ticket prices. This will ensure that you have the most accurate details for planning your trip. It is advisable to allocate a few hours for your visit, as this will allow you ample time to explore the exhibits and engage with the material presented.
 
-The best times to visit can vary; however, mid-week days often see fewer crowds, allowing for a more relaxed experience. Special events or exhibitions may draw larger crowds, so keeping an eye on the museum’s calendar can enhance your visit.
+The best times to visit can vary; however, mid-week days often see fewer crowds, allowing for a more relaxed experience. Special events or exhibitions may draw larger crowds, so keeping an eye on the museum's calendar can enhance your visit.
 
 Expect a range of educational experiences that may include guided tours, workshops, or special lectures, depending on the programming offered during your visit. Engaging with these opportunities can provide deeper insights into the topics presented at the museum.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Portal zur Geschichte e.V., here are some pract
 A visit typically lasts a few hours, allowing ample time to explore exhibits and engage with the material.
 
 ### Is photography allowed?
-Check the museum’s policy regarding photography, as restrictions may apply to certain exhibits.
+Check the museum's policy regarding photography, as restrictions may apply to certain exhibits.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more information on scheduling and availability.
@@ -103,7 +103,7 @@ Guided tours may be available; check the official website for more information o
 Weekdays often see fewer visitors, making them ideal for a more peaceful experience.
 
 ### Is it wheelchair accessible?
-For information on accessibility features, please consult the museum’s official website.
+For information on accessibility features, please consult the museum's official website.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

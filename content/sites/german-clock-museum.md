@@ -28,7 +28,7 @@ image_srcset:
 
 The German Clock Museum, located in the charming town of Furtwangen im Schwarzwald in Germany, is a unique destination for anyone fascinated by the art and science of timekeeping. This museum holds a significant place in the landscape of cultural heritage, showcasing the evolution of clock-making through centuries. As the heart of Germany's clock-making tradition, Furtwangen offers visitors an opportunity to explore the intricate craftsmanship and historical significance of timepieces that have shaped the world.
 
-The museum’s extensive collection features a variety of clocks, including traditional cuckoo clocks, wall clocks, and pocket watches, each telling a story of its own. Furtwangen’s location in the Black Forest region adds to the appeal, as the area is known for its rich craftsmanship and artisanal heritage. The German Clock Museum not only highlights the technical advancements in horology but also reflects the cultural influences that have shaped timekeeping in Germany and beyond.
+The museum's extensive collection features a variety of clocks, including traditional cuckoo clocks, wall clocks, and pocket watches, each telling a story of its own. Furtwangen's location in the Black Forest region adds to the appeal, as the area is known for its rich craftsmanship and artisanal heritage. The German Clock Museum not only highlights the technical advancements in horology but also reflects the cultural influences that have shaped timekeeping in Germany and beyond.
 
 Visitors can expect an engaging experience that combines education with the artistry of clock-making, making it an essential stop for history buffs, families, and anyone curious about the passage of time.
 

@@ -40,7 +40,7 @@ As urbanization and industrialization transformed Dortmund and its surroundings,
 
 ## Architecture and Features
 
-St. Georg is a prime example of Romanesque architecture, which is characterized by its sturdy structure and distinctive design elements. The church features a series of rounded arches that grace its windows and doorways, creating a sense of solidity and permanence. The use of thick walls and a relatively simple yet powerful silhouette reflects the Romanesque style’s emphasis on functionality combined with an aesthetic appeal.
+St. Georg is a prime example of Romanesque architecture, which is characterized by its sturdy structure and distinctive design elements. The church features a series of rounded arches that grace its windows and doorways, creating a sense of solidity and permanence. The use of thick walls and a relatively simple yet powerful silhouette reflects the Romanesque style's emphasis on functionality combined with an aesthetic appeal.
 
 Inside, visitors can expect to find a space that is both welcoming and reverential. The church may include wooden beams and other traditional materials that enhance its rustic charm. While specific interior features are not highlighted, typical elements of Romanesque churches such as vaulted ceilings and intricate stonework are likely present, contributing to the overall atmosphere of the space.
 
@@ -92,7 +92,7 @@ Be sure to check the official website for any specific seasonal events or change
 A visit typically takes about an hour, allowing time to explore the church and enjoy its atmosphere.
 
 ### Is photography allowed?
-Yes, photography is generally permitted, though it’s best to be respectful during services or private events.
+Yes, photography is generally permitted, though it's best to be respectful during services or private events.
 
 ### Are there guided tours?
 Check the official website for information on any guided tours that may be available during your visit.

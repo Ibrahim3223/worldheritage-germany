@@ -66,7 +66,7 @@ The best times to visit Altenburg Castle may align with pleasant weather conditi
 
 Exploring Altenburg Castle opens the door to a variety of nearby attractions that further enrich the experience of visitors to the Nazza region. Here are a few notable places of interest:
 
-1. **Historical Town of Nazza**: The town itself offers charming streets and local shops, showcasing the region's culture and history. It’s an excellent place for a leisurely stroll after visiting the castle.
+1. **Historical Town of Nazza**: The town itself offers charming streets and local shops, showcasing the region's culture and history. It's an excellent place for a leisurely stroll after visiting the castle.
 
 2. **Local Museums**: Museums in the vicinity may provide additional insights into the regional history and the significance of castles in the area, complementing the experience at Altenburg.
 
@@ -80,7 +80,7 @@ Exploring Altenburg Castle opens the door to a variety of nearby attractions tha
 
 To enhance your visit to Altenburg Castle, consider the following tips:
 
-- **Photography**: Capture the castle’s impressive architecture from various angles. Early morning or late afternoon light can create stunning photographs, so plan your visit accordingly.
+- **Photography**: Capture the castle's impressive architecture from various angles. Early morning or late afternoon light can create stunning photographs, so plan your visit accordingly.
 
 - **Crowd Avoidance**: If possible, visit during weekdays or outside of peak tourist seasons to enjoy a quieter experience. This will allow for a more personal connection with the site.
 
@@ -102,7 +102,7 @@ When planning your visit to Altenburg Castle, here are some practical considerat
 A visit to Altenburg Castle typically takes a few hours, allowing time for exploration and reflection.
 
 ### Is photography allowed?
-Visitors are usually permitted to take photographs, but it’s best to check for any specific restrictions upon arrival.
+Visitors are usually permitted to take photographs, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

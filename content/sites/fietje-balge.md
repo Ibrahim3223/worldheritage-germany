@@ -32,11 +32,11 @@ As you explore Bremen, Fietje Balge invites contemplation and reflection, embody
 
 ## History and Significance
 
-The Fietje Balge statue carries with it layers of cultural importance, reflecting the values and stories of the community. While specific historical details regarding its origin may be sparse, statues like Fietje Balge often commemorate local figures or events that resonate with the community's identity. As a memorial, it serves as a reminder of those who have contributed to the city’s heritage, allowing visitors to engage with local history in a tangible way.
+The Fietje Balge statue carries with it layers of cultural importance, reflecting the values and stories of the community. While specific historical details regarding its origin may be sparse, statues like Fietje Balge often commemorate local figures or events that resonate with the community's identity. As a memorial, it serves as a reminder of those who have contributed to the city's heritage, allowing visitors to engage with local history in a tangible way.
 
-In the broader context of Bremen’s artistic and cultural landscape, statues play a crucial role in preserving memory and fostering a sense of place. They invite both residents and tourists to ponder their significance and the narratives they encapsulate. Fietje Balge stands as a testament to the tradition of commemorative art in public spaces, where the past and present intersect in the urban environment.
+In the broader context of Bremen's artistic and cultural landscape, statues play a crucial role in preserving memory and fostering a sense of place. They invite both residents and tourists to ponder their significance and the narratives they encapsulate. Fietje Balge stands as a testament to the tradition of commemorative art in public spaces, where the past and present intersect in the urban environment.
 
-As you delve deeper into Bremen’s history, the presence of such memorials enriches your understanding of the city's evolution. Fietje Balge is not just a visual landmark but a part of the ongoing dialogue about identity, memory, and artistry within the community.
+As you delve deeper into Bremen's history, the presence of such memorials enriches your understanding of the city's evolution. Fietje Balge is not just a visual landmark but a part of the ongoing dialogue about identity, memory, and artistry within the community.
 
 ## Architecture and Features
 

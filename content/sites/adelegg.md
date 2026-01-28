@@ -76,7 +76,7 @@ As you prepare for your trip to Adelegg, consider bringing comfortable walking s
 
 Seasonal considerations are important; be sure to check the weather forecast before your visit. In warmer months, sunscreen and hats can provide protection, while cooler seasons may require layers to stay comfortable.
 
-Restrooms and cafes may not be directly available on-site, so plan accordingly. It’s advisable to carry water and snacks, especially if you plan to spend several hours exploring.
+Restrooms and cafes may not be directly available on-site, so plan accordingly. It's advisable to carry water and snacks, especially if you plan to spend several hours exploring.
 
 ## Frequently Asked Questions
 

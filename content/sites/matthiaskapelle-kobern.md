@@ -34,7 +34,7 @@ The chapel's significance extends beyond its function as a religious site; it re
 
 The history of Matthiaskapelle is woven into the narrative of Kobern-Gondorf, a village that has long been shaped by its geographical location along historical trade routes. While specific dates regarding its construction or significant events are not available, the chapel is emblematic of the broader religious traditions in Germany, particularly within the Roman Catholic faith.
 
-Chapters of local history are reflected in the chapel’s role as a community focal point, where numerous religious ceremonies have taken place over the years. The structure itself is a reminder of the importance of faith in everyday life, both historically and in contemporary times. Its continued use as a place of worship contributes to its relevance in the local community and serves as a point of connection for visitors seeking to understand the cultural and spiritual landscape of the region.
+Chapters of local history are reflected in the chapel's role as a community focal point, where numerous religious ceremonies have taken place over the years. The structure itself is a reminder of the importance of faith in everyday life, both historically and in contemporary times. Its continued use as a place of worship contributes to its relevance in the local community and serves as a point of connection for visitors seeking to understand the cultural and spiritual landscape of the region.
 
 Matthiaskapelle's presence in Kobern-Gondorf also highlights the significance of religious sites in fostering community identity and cohesion. As visitors explore this chapel, they gain insight into the traditions and values that have shaped the lives of the people in this area. 
 

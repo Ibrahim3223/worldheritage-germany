@@ -94,7 +94,7 @@ When planning your visit, keep the following practical considerations in mind:
 A visit to Herrenhaus Schwiessel typically takes a few hours, allowing time to explore both the interior and grounds thoroughly.
 
 ### Is photography allowed?
-While specific policies may vary, generally photography is permitted, but it’s advisable to check for any restrictions.
+While specific policies may vary, generally photography is permitted, but it's advisable to check for any restrictions.
 
 ### Are there guided tours?
 Check the official website for information on guided tours or special events that may enhance your visit.
@@ -109,7 +109,7 @@ Accessibility details are not explicitly mentioned; check the official website f
 For current ticketing options, including online purchases, refer to the official website.
 
 ### Are there restrooms and cafes?
-Amenities may vary; it’s best to inquire upon arrival for the most accurate information.
+Amenities may vary; it's best to inquire upon arrival for the most accurate information.
 
 ### What should I wear?
 Dress comfortably and in accordance with the weather, as you may be outdoors for part of your visit.

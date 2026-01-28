@@ -103,7 +103,7 @@ Accessibility details may vary; check the official website for specific informat
 For ticketing information, including online purchasing options, refer to the official website.
 
 ### Are there restrooms and cafes?
-Nearby facilities may vary; it’s advisable to check local amenities for restrooms and cafes.
+Nearby facilities may vary; it's advisable to check local amenities for restrooms and cafes.
 
 ### What should I wear?
 Wear comfortable shoes suitable for walking, and dress according to the weather conditions during your visit.

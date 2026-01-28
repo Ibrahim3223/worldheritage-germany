@@ -52,7 +52,7 @@ Notable features of the museum include its collection of works by key Romantic a
 
 Kügelgenhaus – Museum der Dresdner Romantik is easily accessible for both local and international visitors. Transportation options in Dresden include public transit systems such as trams and buses, which connect the museum to various parts of the city. For those traveling by car, parking facilities may be available nearby.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and ticket prices. Visitors can expect a range of exhibitions that change periodically, so returning guests may find new insights on subsequent visits.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and ticket prices. Visitors can expect a range of exhibitions that change periodically, so returning guests may find new insights on subsequent visits.
 
 Typically, a visit to the museum can take about 1 to 2 hours, allowing ample time to explore the collections and engage with any temporary exhibitions. The best times to visit are during weekdays when the museum is less crowded, providing a more intimate experience with the artworks.
 
@@ -74,7 +74,7 @@ In addition to the museum's regular offerings, special events or guided tours ma
 
 To make the most of your visit to Kügelgenhaus, consider the following tips:
 
-- **Photography**: Check the museum’s policy on photography before your visit. Many museums have specific guidelines regarding photography to preserve the artworks and create an enjoyable experience for all visitors.
+- **Photography**: Check the museum's policy on photography before your visit. Many museums have specific guidelines regarding photography to preserve the artworks and create an enjoyable experience for all visitors.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during the early hours of the day or on weekdays. Weekends and public holidays may see increased foot traffic.
 
@@ -96,7 +96,7 @@ When planning your visit to Kügelgenhaus, keep the following practical consider
 A visit typically takes about 1 to 2 hours, allowing ample time to explore the collections and exhibitions.
 
 ### Is photography allowed?
-Check the museum’s policy on photography before your visit, as restrictions may apply to protect the artworks.
+Check the museum's policy on photography before your visit, as restrictions may apply to protect the artworks.
 
 ### Are there guided tours?
 Guided tours may be available, providing valuable insights into the exhibits and the Romantic movement.

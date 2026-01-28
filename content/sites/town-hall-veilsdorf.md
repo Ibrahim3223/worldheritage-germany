@@ -28,7 +28,7 @@ image_srcset:
 
 The Town Hall of Veilsdorf is a significant civic structure located in the heart of this charming German town. Renowned for its architectural features and cultural relevance, it serves not only as a center for municipal activities but also as a focal point for community events. Situated at the coordinates 50.40799, 10.80928, this city hall exemplifies the local governance and civic pride that characterize Veilsdorf. Visitors to the town will find the Town Hall to be an essential stop, offering insight into the administrative functions of the area and its historical context.
 
-The significance of the Town Hall extends beyond its functional role; it reflects the character and heritage of Veilsdorf, showcasing its development through the ages. With its historical roots and contemporary relevance, the Town Hall invites exploration and appreciation from both residents and tourists alike. As you delve into the history, architecture, and surrounding attractions, the Town Hall serves as a gateway to understanding the community’s identity.
+The significance of the Town Hall extends beyond its functional role; it reflects the character and heritage of Veilsdorf, showcasing its development through the ages. With its historical roots and contemporary relevance, the Town Hall invites exploration and appreciation from both residents and tourists alike. As you delve into the history, architecture, and surrounding attractions, the Town Hall serves as a gateway to understanding the community's identity.
 
 ## History and Significance
 

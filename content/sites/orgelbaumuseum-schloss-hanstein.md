@@ -32,7 +32,7 @@ The surrounding landscape is characterized by its serene charm, making it an inv
 
 ## History and Significance
 
-The Orgelbaumuseum Schloss Hanstein has a profound cultural significance, reflecting the evolution of organ building practices that have taken place over centuries. While specific historical milestones may be unclear, the museum’s collection includes various examples of organs that have been crafted using traditional techniques. This focus on organ craftsmanship highlights an important aspect of musical heritage, as organs have played a vital role in both religious services and public concerts throughout history.
+The Orgelbaumuseum Schloss Hanstein has a profound cultural significance, reflecting the evolution of organ building practices that have taken place over centuries. While specific historical milestones may be unclear, the museum's collection includes various examples of organs that have been crafted using traditional techniques. This focus on organ craftsmanship highlights an important aspect of musical heritage, as organs have played a vital role in both religious services and public concerts throughout history.
 
 The museum is situated within Schloss Hanstein, a historic castle that has its own storied past. While details about the castle's origins may not be explicitly documented, it is clear that the site has witnessed many changes over the years, paralleling the development of organ music itself. The castle's architecture and history provide a fitting backdrop for the museum, enhancing the visitor experience by placing the craft of organ building within a broader historical context.
 
@@ -50,7 +50,7 @@ Noteworthy features of the museum include interactive displays that allow visito
 
 Reaching the Orgelbaumuseum Schloss Hanstein is relatively straightforward, with various transport options available for visitors. Given its location in Ostheim vor der Rhön, the museum is accessible by road, and those traveling by car can benefit from the scenic views along the way. Public transport options may also be available, though travelers should check local schedules for the most current information.
 
-Before planning a visit, it’s advisable to check the official website for current information on opening hours and ticket prices. The museum typically accommodates visitors throughout the week, allowing for flexible planning. Expect to spend around one to two hours exploring the exhibits, depending on your level of interest in organ music and craftsmanship.
+Before planning a visit, it's advisable to check the official website for current information on opening hours and ticket prices. The museum typically accommodates visitors throughout the week, allowing for flexible planning. Expect to spend around one to two hours exploring the exhibits, depending on your level of interest in organ music and craftsmanship.
 
 The best times to visit are often during weekdays when the museum is less crowded, providing a more serene experience. Additionally, special events or exhibitions may be scheduled throughout the year, offering unique opportunities for deeper engagement with the museum's themes.
 

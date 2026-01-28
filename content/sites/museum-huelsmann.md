@@ -101,9 +101,9 @@ For detailed accessibility options, it is advisable to check the official websit
 Check the official website for information on ticket purchasing options, including any available online sales.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but for specific information regarding cafes, it’s best to consult the official website.
+Facilities such as restrooms are typically available, but for specific information regarding cafes, it's best to consult the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the museum and surrounding areas. 
 
-Museum Huelsmann offers a unique opportunity to engage with art in a meaningful way. Whether you are a local resident or a traveler, your experience at this cultural institution is sure to enrich your understanding of the region’s artistic heritage.
+Museum Huelsmann offers a unique opportunity to engage with art in a meaningful way. Whether you are a local resident or a traveler, your experience at this cultural institution is sure to enrich your understanding of the region's artistic heritage.

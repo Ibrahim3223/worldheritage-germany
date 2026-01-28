@@ -107,7 +107,7 @@ For accessibility information, check the official website or contact local resou
 Check the official website for information regarding ticket purchases and availability.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Check the official website for specific information.
+Facilities may be limited, so it's advisable to plan accordingly. Check the official website for specific information.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking, and consider dressing in layers for changing weather conditions.

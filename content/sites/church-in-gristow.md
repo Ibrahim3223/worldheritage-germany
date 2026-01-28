@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-The Church in Gristow is a significant architectural and cultural landmark situated in the heart of Germany. This church building serves not only as a place of worship but also as a vital piece of the community’s heritage, reflecting the values and traditions of its region. With coordinates situated at 54.17238889 latitude and 13.33277778 longitude, Gristow is easily accessible for visitors seeking to explore the spiritual and historical depth of the area.
+The Church in Gristow is a significant architectural and cultural landmark situated in the heart of Germany. This church building serves not only as a place of worship but also as a vital piece of the community's heritage, reflecting the values and traditions of its region. With coordinates situated at 54.17238889 latitude and 13.33277778 longitude, Gristow is easily accessible for visitors seeking to explore the spiritual and historical depth of the area.
 
-As you approach the Church in Gristow, you’ll find its presence commanding yet inviting, standing as a portal into the past. The church is an emblem of the local community and continues to play an active role in the lives of residents and visitors alike. Whether you are drawn by its architectural beauty, its historical significance, or its tranquil atmosphere, the Church in Gristow promises an enriching experience.
+As you approach the Church in Gristow, you'll find its presence commanding yet inviting, standing as a portal into the past. The church is an emblem of the local community and continues to play an active role in the lives of residents and visitors alike. Whether you are drawn by its architectural beauty, its historical significance, or its tranquil atmosphere, the Church in Gristow promises an enriching experience.
 
 ## History and Significance
 

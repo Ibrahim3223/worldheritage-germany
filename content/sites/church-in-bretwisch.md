@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Church in Bretwisch, located in the serene region of Süderholz, Germany, is a remarkable example of ecclesiastical architecture that captures the essence of the area’s spiritual and cultural heritage. With its distinctive character, this church building stands as a vital part of the local community, serving not only as a place of worship but also as a focal point for cultural activities and gatherings. Its historical significance and architectural features invite visitors to explore more than just its physical structure; they offer a glimpse into the values and traditions that have shaped the region over time.
+The Church in Bretwisch, located in the serene region of Süderholz, Germany, is a remarkable example of ecclesiastical architecture that captures the essence of the area's spiritual and cultural heritage. With its distinctive character, this church building stands as a vital part of the local community, serving not only as a place of worship but also as a focal point for cultural activities and gatherings. Its historical significance and architectural features invite visitors to explore more than just its physical structure; they offer a glimpse into the values and traditions that have shaped the region over time.
 
 Situated at coordinates 54.0343, 13.0032, the church is easily accessible, making it a worthwhile stop for those traveling through the area. As you approach the Church in Bretwisch, you will be met with a sense of tranquility that reflects the pastoral landscape surrounding it. This guide will provide an in-depth look at the church's history, architectural features, and practical information for those planning a visit, ensuring that your experience is both enlightening and enjoyable.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Church in Bretwisch, consider these inside
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try visiting during weekdays or outside of major holidays when the church may be busier with services or community gatherings.
 
-- **Engagement**: Take the time to speak with locals or church officials, if available. They can provide insights into the church’s history and its significance to the community.
+- **Engagement**: Take the time to speak with locals or church officials, if available. They can provide insights into the church's history and its significance to the community.
 
 ## Practical Information
 

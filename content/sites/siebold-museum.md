@@ -28,9 +28,9 @@ image_srcset:
 
 The Siebold-Museum, located in the historic city of Würzburg, Germany, serves as a fascinating tribute to the enduring contributions of Philipp Franz von Siebold, a notable figure in the field of botany and anthropology. This museum not only showcases a collection of artifacts and specimens that reflect Siebold's extensive travels and research in Japan, but it also highlights the broader cultural exchanges between Europe and Asia during the 19th century. 
 
-Würzburg, situated in the heart of Franconia, is steeped in history and is renowned for its baroque architecture, wine culture, and vibrant academic community. The museum adds a unique dimension to the city’s cultural landscape, inviting visitors to explore the intricacies of cross-cultural interactions. As you step into the Siebold-Museum, you can expect to immerse yourself in an environment that celebrates scientific discovery and intercultural dialogue. 
+Würzburg, situated in the heart of Franconia, is steeped in history and is renowned for its baroque architecture, wine culture, and vibrant academic community. The museum adds a unique dimension to the city's cultural landscape, inviting visitors to explore the intricacies of cross-cultural interactions. As you step into the Siebold-Museum, you can expect to immerse yourself in an environment that celebrates scientific discovery and intercultural dialogue. 
 
-This guide aims to provide you with an in-depth understanding of the museum’s history, architecture, and the rich experiences that await you during your visit. Whether you are a history enthusiast, a botanical aficionado, or simply a curious traveler, the Siebold-Museum promises to be an enlightening stop on your journey through Würzburg.
+This guide aims to provide you with an in-depth understanding of the museum's history, architecture, and the rich experiences that await you during your visit. Whether you are a history enthusiast, a botanical aficionado, or simply a curious traveler, the Siebold-Museum promises to be an enlightening stop on your journey through Würzburg.
 
 ## History and Significance
 
@@ -38,7 +38,7 @@ Philipp Franz von Siebold was a pioneering figure in the study of Japanese flora
 
 The establishment of the Siebold-Museum was driven by the desire to preserve and present the scientific legacy of Siebold. The museum stands as a reminder of the interconnectedness of cultures and the importance of international dialogue in the realms of science and art. Through its collections, the museum draws attention to the remarkable exchanges that took place during a time of burgeoning global exploration.
 
-Visitors to the Siebold-Museum can expect to engage with numerous exhibits that display Siebold's collections, including botanical illustrations, cultural artifacts, and more. The museum also emphasizes the significance of his contributions to the fields of ethnology and philology, showcasing how Siebold’s work bridged the gap between East and West.
+Visitors to the Siebold-Museum can expect to engage with numerous exhibits that display Siebold's collections, including botanical illustrations, cultural artifacts, and more. The museum also emphasizes the significance of his contributions to the fields of ethnology and philology, showcasing how Siebold's work bridged the gap between East and West.
 
 As you explore the museum, you will encounter a narrative that speaks not just to the life of Siebold, but also to the broader historical context of his era, making it a vital point of interest for anyone looking to understand the complexities of cultural exchange.
 
@@ -48,7 +48,7 @@ The Siebold-Museum features a thoughtful design that reflects its mission to edu
 
 Upon entering the museum, visitors can expect a well-organized layout that allows for an engaging exploration of the exhibits. The museum likely incorporates a blend of modern and traditional exhibition techniques to enhance the visitor experience. Notable features may include interactive displays, informative panels, and carefully curated collections that reflect the extensive research conducted by Siebold during his time in Japan.
 
-The museum’s interior is designed to facilitate learning and discovery, with spaces that encourage contemplation and appreciation of the diverse artifacts on display. The thoughtful arrangement of exhibits, combined with the museum’s commitment to preserving Siebold’s legacy, creates an inviting atmosphere for guests of all ages.
+The museum's interior is designed to facilitate learning and discovery, with spaces that encourage contemplation and appreciation of the diverse artifacts on display. The thoughtful arrangement of exhibits, combined with the museum's commitment to preserving Siebold's legacy, creates an inviting atmosphere for guests of all ages.
 
 ## Visiting Information
 

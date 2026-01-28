@@ -28,7 +28,7 @@ image_srcset:
 
 St. Lamberti in Hildesheim is a remarkable church building that stands as a significant landmark within the historic city of Hildesheim, Germany. This structure is not only a place of worship but also an embodiment of the region's rich cultural heritage. Located at coordinates 52.1474, 9.95473, St. Lamberti is easily accessible and serves as a focal point for both local residents and visitors. Its architectural significance and historical context make it a must-visit for those exploring the past and present of Hildesheim.
 
-The church is situated in a region that has been pivotal in Germany’s development, showcasing a blend of medieval and modern influences. As you approach St. Lamberti, you will appreciate its prominent role in the city's skyline, inviting you to delve into its storied past and architectural merits. This guide aims to provide an engaging exploration of St. Lamberti, including its history, architectural features, and practical visiting information, ensuring a fulfilling experience for all who come to admire its beauty.
+The church is situated in a region that has been pivotal in Germany's development, showcasing a blend of medieval and modern influences. As you approach St. Lamberti, you will appreciate its prominent role in the city's skyline, inviting you to delve into its storied past and architectural merits. This guide aims to provide an engaging exploration of St. Lamberti, including its history, architectural features, and practical visiting information, ensuring a fulfilling experience for all who come to admire its beauty.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ Hildesheim offers several attractions that complement a visit to St. Lamberti, e
 2. **Market Square (Marktplatz)**: A vibrant area filled with shops, cafes, and local vendors where you can experience Hildesheim's lively atmosphere.
 3. **Museum August Kestner**: This museum showcases a range of art and artifacts, providing insights into the region's cultural history.
 4. **St. Michael's Church**: Another UNESCO World Heritage site, known for its remarkable architecture and historical significance.
-5. **Historic Old Town**: A stroll through Hildesheim’s Old Town reveals charming streets, half-timbered houses, and numerous other heritage sites.
+5. **Historic Old Town**: A stroll through Hildesheim's Old Town reveals charming streets, half-timbered houses, and numerous other heritage sites.
 
 Exploring these nearby attractions will enhance your understanding of Hildesheim's rich history and cultural landscape.
 

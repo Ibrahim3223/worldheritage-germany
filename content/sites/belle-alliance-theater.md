@@ -32,7 +32,7 @@ As you delve into the rich layers of the Belle-Alliance-Theater, you'll discover
 
 ## History and Significance
 
-The Belle-Alliance-Theater is a significant landmark in Berlin, representing a chapter in the city’s dynamic cultural history. Its origins reflect the broader historical trends in Germany, particularly in the realm of theatre and performance art. The building's establishment was part of a larger movement to make theatre more accessible to the public, reflecting the democratization of the arts during its operational years.
+The Belle-Alliance-Theater is a significant landmark in Berlin, representing a chapter in the city's dynamic cultural history. Its origins reflect the broader historical trends in Germany, particularly in the realm of theatre and performance art. The building's establishment was part of a larger movement to make theatre more accessible to the public, reflecting the democratization of the arts during its operational years.
 
 Historically, theatres have served as spaces for not only entertainment but also social commentary and community engagement. The Belle-Alliance-Theater, in its various incarnations, has hosted a multitude of performances, ranging from plays to musicals, that resonate with the societal themes of their times. The theatre has been a witness to the changing tides of German society, from the exuberance of the Weimar Republic to the transformations following World War II. Its ability to adapt and endure through various cultural shifts underlines its significance in Berlin's artistic heritage.
 

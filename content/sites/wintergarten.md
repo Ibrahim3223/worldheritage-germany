@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Wintergarten, a historic theatre building located in the vibrant heart of Berlin, Germany, offers visitors a glimpse into the city's rich cultural heritage and theatrical tradition. Originally established as a variety theatre, this iconic venue has become a significant landmark in Berlin's performing arts scene. With its storied past and dynamic programming, the Wintergarten continues to attract audiences from around the world, showcasing a blend of traditional and contemporary performances that reflect the city’s artistic evolution.
+The Wintergarten, a historic theatre building located in the vibrant heart of Berlin, Germany, offers visitors a glimpse into the city's rich cultural heritage and theatrical tradition. Originally established as a variety theatre, this iconic venue has become a significant landmark in Berlin's performing arts scene. With its storied past and dynamic programming, the Wintergarten continues to attract audiences from around the world, showcasing a blend of traditional and contemporary performances that reflect the city's artistic evolution.
 
 Positioned in a region known for its cultural institutions, the Wintergarten stands out not only for its past but also for its engagement with modern theatrical practices. Visitors can expect a venue steeped in history while experiencing a lively atmosphere that celebrates the performing arts. Whether you are a theatre enthusiast or a curious traveler, the Wintergarten promises a captivating experience.
 
@@ -34,7 +34,7 @@ Positioned in a region known for its cultural institutions, the Wintergarten sta
 
 The Wintergarten has a storied history that reflects the broader cultural shifts in Berlin and Germany. Originally conceived as a variety theatre, it provided a platform for a diverse range of performances, including music, dance, and cabaret. This type of entertainment was particularly popular in the late 19th and early 20th centuries, during which Berlin became a hub for artistic innovation and experimentation.
 
-The theatre's significance extends beyond its performances; it has served as a cultural meeting point for various artistic movements. Over the years, Wintergarten has adapted its programming to reflect the changing tastes and preferences of its audience, making it a vital contributor to Berlin’s rich theatrical landscape. The venue has hosted numerous renowned artists and productions, further cementing its reputation as a key player in the world of performing arts.
+The theatre's significance extends beyond its performances; it has served as a cultural meeting point for various artistic movements. Over the years, Wintergarten has adapted its programming to reflect the changing tastes and preferences of its audience, making it a vital contributor to Berlin's rich theatrical landscape. The venue has hosted numerous renowned artists and productions, further cementing its reputation as a key player in the world of performing arts.
 
 Despite the challenges faced during tumultuous periods in German history, including wars and political changes, the Wintergarten has remained a fixture in Berlin's cultural scene. It has evolved to ensure the continuity of entertainment and artistic expression, making it a beloved institution among locals and visitors alike.
 
@@ -50,7 +50,7 @@ Visitors can also appreciate the theatre's decoration and interior design, which
 
 To visit the Wintergarten, you can easily access it via public transportation, as it is well-connected to Berlin's extensive transit network. Depending on your location in the city, various bus and train lines can take you close to the theatre. 
 
-Before planning your visit, it is advisable to check the official website for current information regarding hours of operation, ticket prices, and specific performance schedules. The Wintergarten typically offers a varied lineup of shows, so it's worth exploring what’s on during your intended visit.
+Before planning your visit, it is advisable to check the official website for current information regarding hours of operation, ticket prices, and specific performance schedules. The Wintergarten typically offers a varied lineup of shows, so it's worth exploring what's on during your intended visit.
 
 Expect to spend a few hours at the theatre, allowing time to enjoy both the performance and the atmosphere. The best times to visit the Wintergarten are generally during the evening performances, when the theatre is alive with energy and excitement. 
 
@@ -64,7 +64,7 @@ While visiting the Wintergarten, there are several other attractions in the vici
    
 3. **The Philharmonie**: An architectural marvel and home to the Berlin Philharmonic Orchestra, known for its exceptional acoustics and vibrant music scene.
    
-4. **Kaiser Wilhelm Memorial Church**: A poignant reminder of Berlin's history, this church stands as a symbol of peace and reconciliation amidst the city’s historical narrative.
+4. **Kaiser Wilhelm Memorial Church**: A poignant reminder of Berlin's history, this church stands as a symbol of peace and reconciliation amidst the city's historical narrative.
    
 5. **Tiergarten**: A large urban park perfect for leisurely strolls, picnics, or simply enjoying nature in the heart of the city.
 

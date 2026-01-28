@@ -64,7 +64,7 @@ When visiting St. Kunibert, there are several nearby attractions that can enhanc
 
 3. **Museums**: Check out local museums that showcase the art and culture of the region, providing additional context to the historical significance of the church.
 
-4. **Nearby Churches**: Consider visiting other churches in the vicinity that reflect different architectural styles and historical significance, enriching your understanding of the area’s ecclesiastical heritage.
+4. **Nearby Churches**: Consider visiting other churches in the vicinity that reflect different architectural styles and historical significance, enriching your understanding of the area's ecclesiastical heritage.
 
 5. **Cafes and Restaurants**: After your visit, enjoy a meal or coffee at one of the nearby establishments, where you can reflect on your experience and engage with local flavors.
 
@@ -86,7 +86,7 @@ Seasonal considerations are also important; spring and autumn may offer pleasant
 A visit to St. Kunibert typically requires about one to two hours, allowing you time to explore the church and appreciate its features.
 
 ### Is photography allowed?
-Photography is generally permitted; however, it’s always best to be respectful of any signs or guidelines posted within the church.
+Photography is generally permitted; however, it's always best to be respectful of any signs or guidelines posted within the church.
 
 ### Are there guided tours?
 Information regarding guided tours may vary, so check the official website for availability and scheduling.
@@ -101,7 +101,7 @@ Accessibility information is not specified, so it is advisable to check the offi
 Check the official website for information on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Nearby amenities such as restrooms and cafes may be available, but it’s best to verify current offerings through the official website.
+Nearby amenities such as restrooms and cafes may be available, but it's best to verify current offerings through the official website.
 
 ### What should I wear?
 Visitors are encouraged to dress modestly, as St. Kunibert is a place of worship. Comfortable attire is recommended for exploring the area.

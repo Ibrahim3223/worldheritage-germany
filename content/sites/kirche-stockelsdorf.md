@@ -72,7 +72,7 @@ If you find yourself in Stockelsdorf, there are several nearby attractions worth
 
 ## Insider Tips
 
-When visiting Kirche Stockelsdorf, keep in mind a few insider tips to enhance your experience. For photography enthusiasts, the church's exterior may present excellent opportunities for capturing the building’s architectural details. Inside, be respectful of the space, especially during services or quiet moments.
+When visiting Kirche Stockelsdorf, keep in mind a few insider tips to enhance your experience. For photography enthusiasts, the church's exterior may present excellent opportunities for capturing the building's architectural details. Inside, be respectful of the space, especially during services or quiet moments.
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This will not only provide a more peaceful atmosphere but also allow you to engage with the space more deeply. If attending a service, be sure to arrive early to find a good spot.
 

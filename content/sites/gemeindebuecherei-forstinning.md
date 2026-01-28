@@ -72,7 +72,7 @@ For those planning a visit to the Gemeindebücherei Forstinning, here are some i
 
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekdays, especially in the morning. This allows for a more peaceful environment to enjoy the library's offerings.
 
-- **Engage with Staff**: The staff at the library are often knowledgeable and passionate about literature and community programs. Don’t hesitate to ask for recommendations or information about upcoming events.
+- **Engage with Staff**: The staff at the library are often knowledgeable and passionate about literature and community programs. Don't hesitate to ask for recommendations or information about upcoming events.
 
 ## Practical Information
 
@@ -80,7 +80,7 @@ Before you head to the Gemeindebücherei Forstinning, keep the following practic
 
 - **What to Bring**: It can be beneficial to bring a reusable bag for any books or materials you wish to borrow. If you plan to participate in events, consider bringing a notebook or device for note-taking.
 
-- **Seasonal Considerations**: If you’re visiting during colder months, dress warmly, as you may want to explore the area around the library. During warmer seasons, light clothing is advisable for comfortable outdoor activities.
+- **Seasonal Considerations**: If you're visiting during colder months, dress warmly, as you may want to explore the area around the library. During warmer seasons, light clothing is advisable for comfortable outdoor activities.
 
 - **Local Etiquette**: Familiarize yourself with library etiquette, such as maintaining a quiet environment and respecting fellow visitors. This contributes to a pleasant experience for everyone.
 
@@ -102,7 +102,7 @@ Weekdays, especially in the morning, tend to be quieter, making it an ideal time
 Accessibility is typically a priority for public libraries. For specific information, check the official website or contact the library directly.
 
 ### Can I buy tickets online?
-Most public libraries do not require tickets for entry, but it’s wise to check the official website for any special events that may have associated fees.
+Most public libraries do not require tickets for entry, but it's wise to check the official website for any special events that may have associated fees.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms are generally available in libraries, but for food and drinks, you may want to explore nearby cafés or restaurants.

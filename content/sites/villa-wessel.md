@@ -82,7 +82,7 @@ If you're interested in learning more, inquire about any guided tours that may b
 
 ## Practical Information
 
-When planning your visit to Villa Wessel, it’s advisable to wear comfortable clothing and shoes, as you may be walking and standing for extended periods. 
+When planning your visit to Villa Wessel, it's advisable to wear comfortable clothing and shoes, as you may be walking and standing for extended periods. 
 
 Consider bringing a water bottle and snacks, especially if you plan to spend a few hours exploring the museum and nearby attractions. Seasonal considerations may influence your visit, so check for any specific events or exhibitions that align with your interests.
 
@@ -92,7 +92,7 @@ Consider bringing a water bottle and snacks, especially if you plan to spend a f
 A visit to Villa Wessel typically ranges from one to three hours, depending on your interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary by exhibit, so it’s advisable to check with museum staff regarding specific restrictions.
+Photography policies may vary by exhibit, so it's advisable to check with museum staff regarding specific restrictions.
 
 ### Are there guided tours?
 Guided tours may be available, providing an in-depth understanding of the exhibits and the history of the museum. Check the official website for details.

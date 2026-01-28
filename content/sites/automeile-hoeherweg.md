@@ -76,7 +76,7 @@ While visiting Automeile Höherweg, consider exploring these nearby attractions 
 
 For those looking to capture the essence of Automeile Höherweg through photography, consider visiting during the golden hours of early morning or late afternoon when the natural light enhances the architectural features. Aim to arrive early to avoid peak crowds, allowing for unobstructed shots of the structures and displays.
 
-If you’re planning to visit during special events or exhibitions, check the schedule in advance to make the most of your experience. Engaging with staff members can also provide insider knowledge and enhance your understanding of the site.
+If you're planning to visit during special events or exhibitions, check the schedule in advance to make the most of your experience. Engaging with staff members can also provide insider knowledge and enhance your understanding of the site.
 
 ## Practical Information
 

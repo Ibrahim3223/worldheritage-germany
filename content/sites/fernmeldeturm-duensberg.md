@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Perched majestically in the scenic landscape of Biebertal, Germany, the Fernmeldeturm Dünsberg is a striking telecommunications tower that captures the attention of visitors and locals alike. This tower serves not only as a vital piece of infrastructure but also as a landmark that offers insights into the region’s technological advancements. Its location provides an excellent vantage point, allowing visitors to appreciate both the beauty of the surrounding area and the architectural prowess of the structure itself. Whether you are a telecommunications enthusiast, an architecture aficionado, or simply someone looking to explore the local heritage, the Fernmeldeturm Dünsberg promises an engaging experience.
+Perched majestically in the scenic landscape of Biebertal, Germany, the Fernmeldeturm Dünsberg is a striking telecommunications tower that captures the attention of visitors and locals alike. This tower serves not only as a vital piece of infrastructure but also as a landmark that offers insights into the region's technological advancements. Its location provides an excellent vantage point, allowing visitors to appreciate both the beauty of the surrounding area and the architectural prowess of the structure itself. Whether you are a telecommunications enthusiast, an architecture aficionado, or simply someone looking to explore the local heritage, the Fernmeldeturm Dünsberg promises an engaging experience.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ While the Fernmeldeturm Dünsberg is a highlight in itself, several nearby attra
 
 2. **Dünsberg Mountain**: Adjacent to the tower, Dünsberg Mountain is perfect for hiking enthusiasts. The trails provide opportunities for outdoor activities, with various paths catering to different skill levels.
 
-3. **Lahn River**: Just a short drive away, the Lahn River provides scenic views and recreational activities, including boating and fishing. It’s a wonderful spot for picnics and enjoying nature.
+3. **Lahn River**: Just a short drive away, the Lahn River provides scenic views and recreational activities, including boating and fishing. It's a wonderful spot for picnics and enjoying nature.
 
 4. **Marburg**: The historic city of Marburg is within reach and features medieval architecture, a vibrant university atmosphere, and charming streets filled with shops and cafes.
 

@@ -28,13 +28,13 @@ image_srcset:
 
 The Friedrich Wilhelm I of Brandenburg memorial is an iconic monument located in Minden, Germany, dedicated to one of the most significant figures in Prussian history. This statue not only commemorates Friedrich Wilhelm I, often referred to as the "Soldier King," but also serves as a notable landmark within the region. Situated at coordinates 52.2895, 8.92236, the memorial stands as a testament to the historical and cultural significance of the era it represents. Visitors to the site will find themselves enveloped in an atmosphere that reflects the pride and military legacy of Prussia, making it a compelling destination for history enthusiasts and casual travelers alike.
 
-Minden, known for its rich history and strategic importance, provides an ideal backdrop for this memorial. The statue captures the essence of Friedrich Wilhelm I's reign, during which he transformed Prussia into a formidable military power. The monument’s location further enhances its significance, as it invites contemplation of the broader historical narratives that shaped Germany. This guide will delve into the memorial’s history, architecture, and the experience of visiting this remarkable site, ensuring that travelers can appreciate its full context and meaning.
+Minden, known for its rich history and strategic importance, provides an ideal backdrop for this memorial. The statue captures the essence of Friedrich Wilhelm I's reign, during which he transformed Prussia into a formidable military power. The monument's location further enhances its significance, as it invites contemplation of the broader historical narratives that shaped Germany. This guide will delve into the memorial's history, architecture, and the experience of visiting this remarkable site, ensuring that travelers can appreciate its full context and meaning.
 
 ## History and Significance
 
 Friedrich Wilhelm I, who ruled from 1713 to 1740, is often recognized for his pivotal role in the development of the Prussian state. His leadership marked a period of military reform and expansion, which laid the groundwork for Prussia's eventual emergence as a major European power. The memorial in Minden serves to honor his contributions, particularly his dedication to fostering a strong military ethos among his subjects. This commitment not only influenced Prussian society but also shaped the political landscape of Europe.
 
-The statue symbolizes the duality of Friedrich Wilhelm I’s character: he was both a stern ruler and a patron of the arts. Under his reign, Prussia saw significant cultural advancements alongside military successes. He initiated reforms in various sectors, including education and infrastructure, which facilitated the rise of a more organized and efficient state. The memorial captures this complexity, providing visitors with a glimpse into the life and legacy of a monarch who played a crucial role in forming modern Germany.
+The statue symbolizes the duality of Friedrich Wilhelm I's character: he was both a stern ruler and a patron of the arts. Under his reign, Prussia saw significant cultural advancements alongside military successes. He initiated reforms in various sectors, including education and infrastructure, which facilitated the rise of a more organized and efficient state. The memorial captures this complexity, providing visitors with a glimpse into the life and legacy of a monarch who played a crucial role in forming modern Germany.
 
 Additionally, the choice of Minden as the site for this memorial is significant. The city itself has a rich history, having served as a strategic location throughout various conflicts and political changes in Europe. The memorial stands not only as a tribute to Friedrich Wilhelm I but also as a reminder of Minden's importance in the historical narrative of the region.
 
@@ -60,7 +60,7 @@ While visiting the Friedrich Wilhelm I of Brandenburg memorial, consider explori
 
 1. **Minden Cathedral**: A striking example of Gothic architecture, this cathedral offers insight into the religious history of the area.
    
-2. **Minden’s Old Town**: Wander through the charming streets of the Old Town, where you can admire historical buildings and enjoy local cafes.
+2. **Minden's Old Town**: Wander through the charming streets of the Old Town, where you can admire historical buildings and enjoy local cafes.
 
 3. **The Porta Westfalica**: A natural monument nearby, known for its impressive views and hiking opportunities, providing a contrast to the urban environment of Minden.
 

@@ -68,7 +68,7 @@ Being mindful of the site's solemn nature is essential, so approach your visit w
 
 ## Practical Information
 
-When visiting the Ehrenmal der Luftwaffe, consider bringing along a few essentials. A bottle of water can help keep you refreshed, especially during warmer months. If you're sensitive to the sun, don’t forget sunscreen and a hat to protect yourself while walking around the outdoor site.
+When visiting the Ehrenmal der Luftwaffe, consider bringing along a few essentials. A bottle of water can help keep you refreshed, especially during warmer months. If you're sensitive to the sun, don't forget sunscreen and a hat to protect yourself while walking around the outdoor site.
 
 Seasonal considerations are also important; check the weather forecast before your visit, as conditions can vary significantly. Spring and autumn may offer mild weather for walking, while summer can be quite warm.
 

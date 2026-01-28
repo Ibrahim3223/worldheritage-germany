@@ -72,13 +72,13 @@ While visiting the museum Pompejanum, there are several nearby attractions worth
 
 For those looking to capture the essence of the museum Pompejanum through photography, it's advisable to visit during natural light hours for the best results. The interplay of light on the architectural details can create striking images. To avoid crowds, particularly on weekends or holidays, aim for early weekday visits. This not only enhances the experience but allows for unobstructed views of the exhibits.
 
-Consider exploring the museum’s outdoor spaces as well, where the gardens provide a unique backdrop for photography, especially in the spring and summer months when flowers are in bloom.
+Consider exploring the museum's outdoor spaces as well, where the gardens provide a unique backdrop for photography, especially in the spring and summer months when flowers are in bloom.
 
 ## Practical Information
 
 When planning your visit to the museum Pompejanum, it is recommended to bring comfortable walking shoes, as the museum and its surroundings are best explored on foot. Depending on the season, layers may be advisable, as indoor temperatures can vary, and outdoor conditions may change.
 
-Be aware of seasonal considerations, as certain exhibits or outdoor areas might be affected by weather conditions. It’s always a good idea to check the official website for any seasonal events or exhibitions that might be taking place during your visit.
+Be aware of seasonal considerations, as certain exhibits or outdoor areas might be affected by weather conditions. It's always a good idea to check the official website for any seasonal events or exhibitions that might be taking place during your visit.
 
 ## Frequently Asked Questions
 

@@ -78,7 +78,7 @@ To make the most of your visit to Klosterhof Museum Isenhagen, consider these in
 
 ## Practical Information
 
-When visiting Klosterhof Museum Isenhagen, it’s wise to prepare adequately to ensure a smooth experience:
+When visiting Klosterhof Museum Isenhagen, it's wise to prepare adequately to ensure a smooth experience:
 
 - **What to Bring**: Consider bringing a water bottle and comfortable walking shoes, as you may spend a fair amount of time exploring the exhibits and surrounding areas.
 
@@ -92,7 +92,7 @@ When visiting Klosterhof Museum Isenhagen, it’s wise to prepare adequately to 
 A visit to Klosterhof Museum Isenhagen typically takes a few hours, allowing ample time to explore the exhibits and engage with the materials.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with the museum staff regarding any restrictions before taking pictures.
+Photography policies can vary, so it's best to check with the museum staff regarding any restrictions before taking pictures.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibits and local history. Check the official website for more information.

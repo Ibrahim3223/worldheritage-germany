@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-The Theater am Schiffbauerdamm stands as a prominent cultural landmark in the Mitte district of Berlin, Germany. This theatre building plays a vital role in the artistic landscape of the city, contributing to Berlin’s reputation as a hub for performing arts. Its location in the heart of the city makes it easily accessible for both locals and visitors, offering an intimate setting for a range of theatrical performances. With its rich history and ongoing dedication to the arts, the Theater am Schiffbauerdamm continues to attract audiences eager to experience innovative productions in a storied environment.
+The Theater am Schiffbauerdamm stands as a prominent cultural landmark in the Mitte district of Berlin, Germany. This theatre building plays a vital role in the artistic landscape of the city, contributing to Berlin's reputation as a hub for performing arts. Its location in the heart of the city makes it easily accessible for both locals and visitors, offering an intimate setting for a range of theatrical performances. With its rich history and ongoing dedication to the arts, the Theater am Schiffbauerdamm continues to attract audiences eager to experience innovative productions in a storied environment.
 
 As you approach the theater, the area around it resonates with the vibrancy of Berlin's artistic community. The theater not only serves as a venue for diverse performances but also as a gathering place for those passionate about the dramatic arts. Whether you are a seasoned theatergoer or a curious newcomer, attending a performance here promises a memorable experience.
 
 ## History and Significance
 
-The history of the Theater am Schiffbauerdamm is intertwined with the evolution of Berlin’s cultural scene. Originally established in the 19th century, this venue has undergone various transformations, reflecting the shifting artistic currents and societal changes in Germany. Throughout its existence, the theater has been a space where innovative ideas and avant-garde productions have taken center stage.
+The history of the Theater am Schiffbauerdamm is intertwined with the evolution of Berlin's cultural scene. Originally established in the 19th century, this venue has undergone various transformations, reflecting the shifting artistic currents and societal changes in Germany. Throughout its existence, the theater has been a space where innovative ideas and avant-garde productions have taken center stage.
 
 The theater gained prominence during the early 20th century, becoming a significant site for the expression of new theatrical movements. It has hosted a variety of performances, ranging from classic plays to contemporary works, making it a versatile platform for artists. The theater's commitment to fostering creativity and exploration in the performing arts is evident in its programming, which often challenges conventional norms.
 
@@ -82,13 +82,13 @@ For those planning to attend a performance at the Theater am Schiffbauerdamm, he
 
 - **Crowd Avoidance**: If you prefer a quieter experience, consider attending weekday performances, which may have fewer attendees compared to weekend shows.
 
-- **Arrive Early**: Arriving early not only allows you to find your seat but also gives you time to appreciate the theatre’s ambiance and perhaps engage with fellow theatre-goers.
+- **Arrive Early**: Arriving early not only allows you to find your seat but also gives you time to appreciate the theatre's ambiance and perhaps engage with fellow theatre-goers.
 
 ## Practical Information
 
 When preparing for your visit to the Theater am Schiffbauerdamm, consider the following practical tips:
 
-- **What to Bring**: It’s a good idea to bring a light jacket or sweater, as theatres can sometimes be cool. If you’re attending a special event, check if there’s a dress code.
+- **What to Bring**: It's a good idea to bring a light jacket or sweater, as theatres can sometimes be cool. If you're attending a special event, check if there's a dress code.
 
 - **Seasonal Considerations**: Berlin experiences distinct seasons, so be mindful of weather conditions when planning your visit. Spring and fall typically offer mild weather, perfect for exploring the area.
 
@@ -100,7 +100,7 @@ When preparing for your visit to the Theater am Schiffbauerdamm, consider the fo
 A visit to the Theater am Schiffbauerdamm will typically last around two to three hours, including time for the performance and intermission.
 
 ### Is photography allowed?
-Photography is generally not permitted during performances, but you may capture images of the theatre’s exterior before the show begins.
+Photography is generally not permitted during performances, but you may capture images of the theatre's exterior before the show begins.
 
 ### Are there guided tours?
 While the primary focus of the theater is on performances, check the official website for any special tours or events that may be available.

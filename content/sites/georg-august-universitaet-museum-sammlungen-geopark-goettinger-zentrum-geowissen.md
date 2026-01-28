@@ -28,9 +28,9 @@ Situated in a region known for its academic excellence, the museum plays a pivot
 
 The Georg-August-Universität has a rich heritage that is intertwined with the development of science and education in Germany. Founded in 1737, it quickly established itself as a leading university, nurturing numerous thinkers and innovators who would contribute significantly to various fields of study. The museum itself serves as an extension of this intellectual legacy, providing a platform for the dissemination of knowledge and the promotion of scientific inquiry.
 
-The significance of this museum lies in its collections, which encompass a diverse array of geological specimens and artifacts. These collections not only reflect the history of the natural sciences but also highlight the contributions of the university’s faculty and students over the centuries. The museum's commitment to education and research is evident in its efforts to make complex scientific concepts accessible to a broader audience, fostering a greater appreciation for the earth sciences.
+The significance of this museum lies in its collections, which encompass a diverse array of geological specimens and artifacts. These collections not only reflect the history of the natural sciences but also highlight the contributions of the university's faculty and students over the centuries. The museum's commitment to education and research is evident in its efforts to make complex scientific concepts accessible to a broader audience, fostering a greater appreciation for the earth sciences.
 
-The establishment of the Geopark Göttinger Zentrum Geowissenschaften further underscores the institution's dedication to merging academic research with public engagement. This initiative aims to promote geological knowledge and environmental awareness, positioning the museum as a vital educational resource in the region. As visitors explore the exhibits, they will encounter stories of the earth’s formation, the processes that shape our environment, and the importance of conservation efforts.
+The establishment of the Geopark Göttinger Zentrum Geowissenschaften further underscores the institution's dedication to merging academic research with public engagement. This initiative aims to promote geological knowledge and environmental awareness, positioning the museum as a vital educational resource in the region. As visitors explore the exhibits, they will encounter stories of the earth's formation, the processes that shape our environment, and the importance of conservation efforts.
 
 ## Architecture and Features
 
@@ -54,7 +54,7 @@ To make the most of your visit, consider planning it during weekdays when crowds
 
 2. **Botanical Garden of the University of Göttingen**: A short walk from the museum, this garden showcases a diverse collection of plants and provides a peaceful setting for a stroll.
 
-3. **St. Jacob’s Church (Jakobskirche)**: An impressive medieval church known for its beautiful architecture and serene interior, making it a worthy stop for history enthusiasts.
+3. **St. Jacob's Church (Jakobskirche)**: An impressive medieval church known for its beautiful architecture and serene interior, making it a worthy stop for history enthusiasts.
 
 4. **Old Botanical Garden**: Located near the university, this garden offers a different selection of flora and serves as a lovely place for relaxation and reflection.
 
@@ -89,7 +89,7 @@ Guided tours may be available, providing deeper insights into the exhibits and c
 Midweek visits are generally less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features are likely in place, but it’s advisable to confirm specific accommodations on the official site.
+Accessibility features are likely in place, but it's advisable to confirm specific accommodations on the official site.
 
 ### Can I buy tickets online?
 Check the official website to see if online ticket purchasing is available.

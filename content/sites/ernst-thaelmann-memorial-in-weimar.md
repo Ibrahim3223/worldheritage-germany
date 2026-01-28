@@ -46,7 +46,7 @@ The figure of Thälmann, standing resolutely, serves as a poignant reminder of t
 
 The Ernst-Thälmann Memorial is characterized by its imposing stature and thoughtful design. While precise details on its height and materials are not provided, the statue is crafted to convey a sense of strength and determination, reflecting Thälmann's character and ideals. 
 
-The statue depicts Thälmann in a commanding pose, symbolizing his role as a leader and a figure of resistance. The artistry involved in the statue captures both the physical likeness of Thälmann and the emotional weight of his legacy. Surrounding the statue are elements that enhance the memorial’s significance, fostering an atmosphere conducive to reflection and contemplation.
+The statue depicts Thälmann in a commanding pose, symbolizing his role as a leader and a figure of resistance. The artistry involved in the statue captures both the physical likeness of Thälmann and the emotional weight of his legacy. Surrounding the statue are elements that enhance the memorial's significance, fostering an atmosphere conducive to reflection and contemplation.
 
 The memorial is designed to encourage visitors to engage with its historical context, making it not just a work of art but also a site for education and remembrance. It stands in a prominent location, ensuring it is easily accessible to the public and inviting visitors to pause and consider the messages it conveys.
 
@@ -96,7 +96,7 @@ Before heading to the Ernst-Thälmann Memorial, keep the following practical inf
 A visit typically takes around 30 minutes to an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Yes, photography is generally permitted at the memorial, but it’s courteous to be mindful of other visitors.
+Yes, photography is generally permitted at the memorial, but it's courteous to be mindful of other visitors.
 
 ### Are there guided tours?
 Check the official website for information on any available guided tours that may enhance your understanding of the memorial and its context.

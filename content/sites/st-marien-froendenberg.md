@@ -50,7 +50,7 @@ Visitors to St. Marien will have the opportunity to appreciate both the physical
 
 Getting to St. Marien in Fröndenberg is relatively straightforward, with various transport options available. Visitors can arrive by car, with parking likely available nearby. Public transport options, such as buses or trains, may also be accessible, connecting Fröndenberg to larger cities in the region.
 
-Check the official website for current information regarding opening hours and any potential fees associated with visiting the church. While specific hours may vary, it is generally advisable to visit during the day to fully appreciate the church’s architecture and ambiance. A visit to St. Marien typically requires around an hour, allowing time to explore the interior and reflect on the site's significance.
+Check the official website for current information regarding opening hours and any potential fees associated with visiting the church. While specific hours may vary, it is generally advisable to visit during the day to fully appreciate the church's architecture and ambiance. A visit to St. Marien typically requires around an hour, allowing time to explore the interior and reflect on the site's significance.
 
 The best times to visit may be during weekdays or early mornings when the church is less crowded, providing a more intimate experience. Additionally, consider planning your visit around any special services or events that may be taking place, as these can offer unique insights into the community's religious life.
 
@@ -70,7 +70,7 @@ While visiting St. Marien, there are several nearby attractions worth exploring:
 
 ## Insider Tips
 
-To make the most of your visit to St. Marien, consider bringing a camera to capture the church’s beauty, both inside and out. However, be mindful of any restrictions regarding photography, particularly during services or personal reflection times.
+To make the most of your visit to St. Marien, consider bringing a camera to capture the church's beauty, both inside and out. However, be mindful of any restrictions regarding photography, particularly during services or personal reflection times.
 
 To avoid larger crowds, try to visit during weekdays or early mornings. This will allow for a more peaceful experience as you explore the church and its surroundings. If you are planning to attend a service, arriving early can also provide a good opportunity to find seating and engage with the local community.
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Prinzenpalais, an art museum located in Oldenburg, Germany, offers visitors a unique glimpse into the cultural fabric of the region. This historic building, with its elegant architecture and curated exhibitions, serves as a vital hub for art enthusiasts and history buffs alike. Situated in the heart of Oldenburg, it not only showcases a diverse range of artworks but also reflects the city's rich heritage. The museum is a key player in Oldenburg's cultural landscape, drawing both locals and tourists who wish to explore the artistic endeavors that have shaped the area.
 
-As you approach Prinzenpalais, the charm of the building captivates the eye, promising a delightful exploration of art and culture. The museum’s collections span various periods and styles, offering a multifaceted perspective on artistic expression. A visit here is not just an opportunity to view art, but also to appreciate the historical context that surrounds it, making Prinzenpalais a significant destination in Oldenburg.
+As you approach Prinzenpalais, the charm of the building captivates the eye, promising a delightful exploration of art and culture. The museum's collections span various periods and styles, offering a multifaceted perspective on artistic expression. A visit here is not just an opportunity to view art, but also to appreciate the historical context that surrounds it, making Prinzenpalais a significant destination in Oldenburg.
 
 ## History and Significance
 
@@ -70,7 +70,7 @@ While visiting Prinzenpalais, consider exploring other notable attractions withi
 
 When visiting Prinzenpalais, keep in mind the following tips for an enhanced experience:
 
-- **Photography**: While some areas may allow photography, it’s best to check for specific regulations upon arrival. Always be respectful of the artwork and other visitors.
+- **Photography**: While some areas may allow photography, it's best to check for specific regulations upon arrival. Always be respectful of the artwork and other visitors.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, try to visit during the early hours of the day or late in the afternoon on weekdays. This can provide a more personal connection with the exhibits.
 
@@ -88,7 +88,7 @@ Before heading to Prinzenpalais, consider the following practicalities:
 Most visitors find that two to three hours is sufficient to explore the exhibitions and enjoy the museum's ambiance.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to check with museum staff upon arrival for their specific guidelines.
+Photography policies may vary, so it's advisable to check with museum staff upon arrival for their specific guidelines.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the exhibitions and the history of the museum. Check the official website for details.
@@ -97,7 +97,7 @@ Guided tours may be available, providing deeper insights into the exhibitions an
 Weekdays tend to be less crowded, making them ideal for a more relaxed experience. However, special exhibitions may attract larger crowds, so plan accordingly.
 
 ### Is it wheelchair accessible?
-Accessibility information can vary, so it’s best to consult the official website or contact the museum directly for specific details.
+Accessibility information can vary, so it's best to consult the official website or contact the museum directly for specific details.
 
 ### Can I buy tickets online?
 Online ticket purchasing options may be available. Check the official website for current information regarding tickets.

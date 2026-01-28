@@ -58,7 +58,7 @@ For the most accurate and current visiting hours, ticket prices, and special eve
 
 While exploring the castle, guests can expect to spend approximately one to two hours on-site, allowing ample time to appreciate its historical significance and architectural features. The best times to visit are typically during the spring and fall, when the weather is mild, and the surrounding landscape is particularly inviting.
 
-Visitors should dress comfortably, as they may engage in some light walking around the castle grounds. Sturdy footwear is recommended, especially if exploring uneven terrain. Engaging with the site’s history and architecture can be a fulfilling experience, encouraging a deeper appreciation for the region's cultural heritage.
+Visitors should dress comfortably, as they may engage in some light walking around the castle grounds. Sturdy footwear is recommended, especially if exploring uneven terrain. Engaging with the site's history and architecture can be a fulfilling experience, encouraging a deeper appreciation for the region's cultural heritage.
 
 ## Nearby Attractions
 

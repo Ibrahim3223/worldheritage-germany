@@ -70,7 +70,7 @@ Rüdesheim am Rhein is home to several attractions that complement a visit to th
 
 3. **Bingen am Rhein**: Just a short distance away, this picturesque town on the opposite bank of the Rhine offers historical sites, including the famous Klopp Castle and beautiful riverfront walks.
 
-4. **Rüdesheim Wine Museum**: This museum celebrates the region’s viticulture, providing insights into the local wine production and offering tastings of the famous Riesling wines.
+4. **Rüdesheim Wine Museum**: This museum celebrates the region's viticulture, providing insights into the local wine production and offering tastings of the famous Riesling wines.
 
 5. **Rhine Valley Cruises**: A visit to Rüdesheim is incomplete without experiencing a boat cruise on the Rhine River, allowing visitors to take in the stunning landscapes and historic castles dotting the riverbanks.
 
@@ -84,7 +84,7 @@ To avoid crowds, try to visit during weekdays or early in the morning. This stra
 
 When visiting the Mittelalterliches Foltermuseum, it's wise to bring a few essentials. Comfortable walking shoes are recommended due to the potential for extensive standing and walking throughout the museum. 
 
-Seasonal considerations also play a role in your visit. The museum can be enjoyed year-round, but be prepared for colder weather during winter months, as the climate in Rüdesheim can be quite chilly. It’s advisable to check for any seasonal events or exhibitions that could enhance your experience.
+Seasonal considerations also play a role in your visit. The museum can be enjoyed year-round, but be prepared for colder weather during winter months, as the climate in Rüdesheim can be quite chilly. It's advisable to check for any seasonal events or exhibitions that could enhance your experience.
 
 ## Frequently Asked Questions
 

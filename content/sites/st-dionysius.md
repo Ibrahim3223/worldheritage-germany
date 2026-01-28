@@ -28,7 +28,7 @@ image_srcset:
 
 St. Dionysius Church, located in Nordwalde, Germany, is an architectural and cultural landmark that invites visitors to explore its historical significance and serene atmosphere. This church building stands as a point of interest within the region, attracting those intrigued by religious architecture and local heritage. With its origins deeply embedded in the community, St. Dionysius holds a special place in the hearts of locals and visitors alike.
 
-The church’s location in Nordwalde, a charming town in the state of North Rhine-Westphalia, provides a beautiful backdrop that enhances its appeal. The area is known for its picturesque landscapes and friendly community, making it an ideal stop for travelers interested in both history and culture. As a site of worship and community gathering, St. Dionysius serves as a reminder of the enduring nature of faith and tradition.
+The church's location in Nordwalde, a charming town in the state of North Rhine-Westphalia, provides a beautiful backdrop that enhances its appeal. The area is known for its picturesque landscapes and friendly community, making it an ideal stop for travelers interested in both history and culture. As a site of worship and community gathering, St. Dionysius serves as a reminder of the enduring nature of faith and tradition.
 
 Visiting St. Dionysius offers an opportunity to appreciate not only the structure itself but also the lively atmosphere of the surrounding town. Whether you are drawn by spiritual curiosity, architectural beauty, or a desire to connect with local culture, St. Dionysius is a site worth exploring.
 
@@ -90,7 +90,7 @@ Seasonal considerations may come into play, as certain times of the year can inf
 The duration of your visit can vary; a brief visit may take about 30 minutes, while a more immersive experience could last an hour or more.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the space and adhere to any specific guidelines that may be in place.
+Photography is generally permitted, but it's best to be respectful of the space and adhere to any specific guidelines that may be in place.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as availability may vary.

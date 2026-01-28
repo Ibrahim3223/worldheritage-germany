@@ -3,7 +3,7 @@ title: "Farver Mühle"
 site_name: "Farver Mühle"
 date: 2026-01-26
 draft: false
-description: "Die Windmühle wurde 1828 als Mühle des Gutes Farve als Ersatz für eine Wassermühle errichtet (mit Segelflügeln und „Steert“). In den 1930er Jahren wur"
+description: "Die Windmühle wurde 1828 als Mühle des Gutes Farve als Ersatz für eine Wassermühle errichtet (mit Segelflügeln und „Steert"). In den 1930er Jahren wur"
 region: "Mecklenburg-Vorpommern"
 country: "Germany"
 heritage_type: "Windmill"
@@ -48,7 +48,7 @@ Inside the windmill, visitors can explore the machinery that powered the milling
 
 ## Visiting Information
 
-Visiting Farver Mühle provides an opportunity to engage with the site’s historical significance while enjoying the picturesque surroundings. Accessing the windmill is straightforward, with various transport options available in the region. Visitors are encouraged to check the official website for current information regarding hours of operation and any potential admission fees.
+Visiting Farver Mühle provides an opportunity to engage with the site's historical significance while enjoying the picturesque surroundings. Accessing the windmill is straightforward, with various transport options available in the region. Visitors are encouraged to check the official website for current information regarding hours of operation and any potential admission fees.
 
 When planning your visit, allocate sufficient time to explore both the windmill itself and the surrounding area. A visit to Farver Mühle typically takes about one to two hours, allowing ample opportunity to appreciate the architecture and learn about its history. The best times to visit are during the warmer months when the weather is pleasant, and the wind conditions are optimal for milling demonstrations.
 

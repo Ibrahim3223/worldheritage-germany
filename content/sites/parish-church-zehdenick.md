@@ -48,7 +48,7 @@ Noteworthy aspects of the church may include its artistic decorations, which can
 
 ## Visiting Information
 
-To reach the Parish Church of Zehdenick, travelers can use various modes of transportation. The church is accessible by car, and parking options may be available nearby. For those relying on public transport, local bus services connect Zehdenick with larger cities in Brandenburg. The town’s quaint layout often allows for enjoyable walking tours, making the church easily reachable from nearby accommodations or attractions.
+To reach the Parish Church of Zehdenick, travelers can use various modes of transportation. The church is accessible by car, and parking options may be available nearby. For those relying on public transport, local bus services connect Zehdenick with larger cities in Brandenburg. The town's quaint layout often allows for enjoyable walking tours, making the church easily reachable from nearby accommodations or attractions.
 
 When planning a visit, it is essential to check the official website for current information regarding opening hours and any potential fees for entry. This ensures that visitors can maximize their experience without unexpected surprises. Generally, visitors should allocate about an hour for their exploration of the church, allowing time to appreciate its architecture and reflect in its serene environment.
 
@@ -102,4 +102,4 @@ Local amenities, such as restrooms and cafes, may be found in the town center. C
 ### What should I wear?
 Dress comfortably and appropriately for a place of worship. Consider layering clothing to adapt to changing weather conditions.
 
-Visiting the Parish Church of Zehdenick is not just about experiencing a building; it’s about engaging with the history and community that the church represents. Whether you come for spiritual reflection, architectural appreciation, or cultural exploration, you are sure to leave with a deeper understanding of this remarkable heritage site.
+Visiting the Parish Church of Zehdenick is not just about experiencing a building; it's about engaging with the history and community that the church represents. Whether you come for spiritual reflection, architectural appreciation, or cultural exploration, you are sure to leave with a deeper understanding of this remarkable heritage site.

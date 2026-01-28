@@ -74,7 +74,7 @@ When visiting Saint Otto of Bamberg Church, consider bringing a camera to captur
 
 To avoid peak times, plan your visit during off-peak hours, typically mid-morning or late afternoon, especially on weekends. This can enhance your experience, providing a more intimate encounter with the space. 
 
-If you are interested in participating in a service or special event, check the church’s schedule beforehand. Engaging in local traditions can deepen your understanding of the church's significance in the community.
+If you are interested in participating in a service or special event, check the church's schedule beforehand. Engaging in local traditions can deepen your understanding of the church's significance in the community.
 
 ## Practical Information
 

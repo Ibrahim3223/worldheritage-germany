@@ -62,7 +62,7 @@ The atmosphere within the church can change throughout the day, with quieter mor
 
 Maria-Magdalena-Kirche is situated in a region rich with attractions that complement a visit to this historical church. Nearby, visitors might explore:
 
-1. **Putbus Castle** - The remnants of this once-grand residence provide insight into the area’s aristocratic past and are surrounded by beautifully landscaped gardens.
+1. **Putbus Castle** - The remnants of this once-grand residence provide insight into the area's aristocratic past and are surrounded by beautifully landscaped gardens.
 
 2. **The Circus** - A unique circular square in Putbus known for its striking architecture and charming atmosphere, perfect for leisurely strolls.
 

@@ -82,7 +82,7 @@ For those planning a visit to Kapelle Bessin, here are some insider tips to enha
 
 When visiting Kapelle Bessin, consider the following practical tips to ensure a smooth experience:
 
-- **What to Bring**: It’s advisable to bring a camera, water, and comfortable shoes for walking. If you plan to spend time outside, sunscreen and a hat might be beneficial.
+- **What to Bring**: It's advisable to bring a camera, water, and comfortable shoes for walking. If you plan to spend time outside, sunscreen and a hat might be beneficial.
 
 - **Seasonal Considerations**: The best time to visit is during the milder seasons of spring and early autumn when the weather is pleasant. However, the chapel's peaceful atmosphere can be appreciated year-round.
 
@@ -109,7 +109,7 @@ Check the official website for current information on accessibility features at 
 Entry is typically free, but checking the official website for any updates on potential fees or special events is recommended.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s best to plan accordingly. Consider visiting nearby villages for cafes or restrooms.
+Facilities may be limited, so it's best to plan accordingly. Consider visiting nearby villages for cafes or restrooms.
 
 ### What should I wear?
 Dress modestly and comfortably, as Kapelle Bessin is a place of worship. Appropriate attire is appreciated.

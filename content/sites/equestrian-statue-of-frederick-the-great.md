@@ -62,7 +62,7 @@ In addition to the monument itself, the surrounding area offers ample space for 
 
 The equestrian statue of Frederick the Great is conveniently located near several other notable attractions, enhancing the overall experience of visiting the area. Some of these include:
 
-1. **Brandenburg Gate**: A few minutes' walk away, this iconic neoclassical monument symbolizes reunification and is one of Berlin’s most famous landmarks.
+1. **Brandenburg Gate**: A few minutes' walk away, this iconic neoclassical monument symbolizes reunification and is one of Berlin's most famous landmarks.
    
 2. **Berlin Cathedral**: Nearby, this stunning church offers breathtaking architecture and a chance to explore its rich history.
 

@@ -57,7 +57,7 @@ The best times to visit may align with local church services or community events
 While visiting St.-Pauli-Kirche, consider exploring other nearby attractions that enrich your understanding of the region:
 
 1. **Local Village Center**: A short walk from the church, the village center often features local shops and cafés, providing a glimpse into daily life in Bobbin.
-2. **Historical Sites**: Look for other historical markers or buildings within the village that highlight the area’s cultural heritage.
+2. **Historical Sites**: Look for other historical markers or buildings within the village that highlight the area's cultural heritage.
 3. **Natural Landscapes**: The surrounding countryside offers opportunities for leisurely walks or cycling, allowing you to appreciate the local flora and fauna.
 4. **Cultural Events**: Depending on the time of your visit, you may find local festivals or markets that showcase regional crafts and cuisine.
 

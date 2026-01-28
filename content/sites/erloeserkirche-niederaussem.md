@@ -79,7 +79,7 @@ To enhance your visit to Erlöserkirche Niederaußem, consider the following ins
 When planning your visit to Erlöserkirche Niederaußem, here are some practical considerations:
 
 - **What to Bring**: Comfortable shoes are recommended for exploring the church and surrounding areas. If you plan to spend time reflecting or enjoying the peaceful atmosphere, consider bringing a journal or book.
-- **Seasonal Considerations**: Weather can vary, so it’s wise to check forecasts and dress appropriately for your visit. If you are visiting during colder months, bring layers to stay warm.
+- **Seasonal Considerations**: Weather can vary, so it's wise to check forecasts and dress appropriately for your visit. If you are visiting during colder months, bring layers to stay warm.
 
 ## Frequently Asked Questions
 
@@ -90,13 +90,13 @@ A visit to Erlöserkirche Niederaußem typically takes about an hour, but you ma
 Photography policies may vary. It is advisable to check for any signs or ask church personnel before taking pictures inside the church.
 
 ### Are there guided tours?
-Information on guided tours may be available through the church’s official website. Check there for details on any scheduled tours or educational programs.
+Information on guided tours may be available through the church's official website. Check there for details on any scheduled tours or educational programs.
 
 ### What's the best time to visit?
 Weekdays or regular service times tend to be the best for a peaceful visit. Special events may also provide a unique experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is often available on the church's official site. It’s best to check for specifics regarding wheelchair access.
+Accessibility information is often available on the church's official site. It's best to check for specifics regarding wheelchair access.
 
 ### Can I buy tickets online?
 For admission and event tickets, check the official website for information on online purchasing options.

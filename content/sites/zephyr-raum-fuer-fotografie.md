@@ -44,7 +44,7 @@ In addition to exhibition spaces, ZEPHYR may include areas designed for workshop
 
 ## Visiting Information
 
-Getting to ZEPHYR – raum für fotografie! is convenient, thanks to Mannheim’s well-connected public transport network. Visitors can access the museum via various modes of transportation, including buses and trams. For those traveling by car, parking options may be available nearby, but it is advisable to check the official website for the most accurate and up-to-date information regarding parking and transportation.
+Getting to ZEPHYR – raum für fotografie! is convenient, thanks to Mannheim's well-connected public transport network. Visitors can access the museum via various modes of transportation, including buses and trams. For those traveling by car, parking options may be available nearby, but it is advisable to check the official website for the most accurate and up-to-date information regarding parking and transportation.
 
 While planning a visit, it is essential to check the official website for current information about hours of operation and ticket prices. The museum may feature rotating exhibitions, so regular attendees can expect something new with each visit. Generally, visitors should allocate a couple of hours to explore the museum thoroughly, depending on their interest in photography and the exhibitions on display.
 
@@ -70,9 +70,9 @@ To avoid crowds, consider visiting during weekday mornings or afternoons, as wee
 
 ## Practical Information
 
-As you prepare for your visit to ZEPHYR, be sure to wear comfortable clothing and shoes, especially if you plan to explore the nearby attractions afterward. It’s advisable to bring a water bottle to stay hydrated, and if you’re interested in photography, don’t forget your camera and any necessary equipment.
+As you prepare for your visit to ZEPHYR, be sure to wear comfortable clothing and shoes, especially if you plan to explore the nearby attractions afterward. It's advisable to bring a water bottle to stay hydrated, and if you're interested in photography, don't forget your camera and any necessary equipment.
 
-Seasonal considerations may impact your visit. If you’re planning to explore outdoor attractions like Luisenpark, check the weather forecast to ensure a pleasant experience. 
+Seasonal considerations may impact your visit. If you're planning to explore outdoor attractions like Luisenpark, check the weather forecast to ensure a pleasant experience. 
 
 ## Frequently Asked Questions
 
@@ -80,7 +80,7 @@ Seasonal considerations may impact your visit. If you’re planning to explore o
 Plan to spend at least two hours at ZEPHYR to fully appreciate the exhibitions and any events that may be taking place.
 
 ### Is photography allowed?
-Photography policies can vary by exhibition, so it’s best to check with museum staff upon arrival for specific guidelines.
+Photography policies can vary by exhibition, so it's best to check with museum staff upon arrival for specific guidelines.
 
 ### Are there guided tours?
 Information on guided tours may be available on the official website. These tours can offer deeper insights into the exhibitions and the artists featured.
@@ -89,7 +89,7 @@ Information on guided tours may be available on the official website. These tour
 Weekday mornings or afternoons are often quieter and can provide a more intimate experience with the art.
 
 ### Is it wheelchair accessible?
-For accessibility information, it’s advisable to consult the official website or contact the museum directly.
+For accessibility information, it's advisable to consult the official website or contact the museum directly.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available on the official website, allowing for a seamless entry experience.

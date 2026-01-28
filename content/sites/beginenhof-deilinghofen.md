@@ -26,9 +26,9 @@ image_srcset:
 
 ## Overview
 
-Beginenhof Deilinghofen, located in the serene region of Hemer, Germany, is a significant monastic site that invites visitors to explore its spiritual and cultural heritage. This Damenstift, or women’s monastery, stands as a symbol of the enduring traditions of monastic life in the area. Set against a backdrop of tranquil landscapes, Beginenhof Deilinghofen offers a peaceful retreat for reflection and contemplation, appealing to those interested in spirituality, architecture, and history.
+Beginenhof Deilinghofen, located in the serene region of Hemer, Germany, is a significant monastic site that invites visitors to explore its spiritual and cultural heritage. This Damenstift, or women's monastery, stands as a symbol of the enduring traditions of monastic life in the area. Set against a backdrop of tranquil landscapes, Beginenhof Deilinghofen offers a peaceful retreat for reflection and contemplation, appealing to those interested in spirituality, architecture, and history.
 
-This monastery plays a crucial role in the local community, serving not only as a place of worship but also as a center for cultural activities. The harmonious blend of historical significance and serene surroundings makes it a noteworthy destination for travelers seeking a deeper understanding of Germany’s monastic traditions. Visitors can immerse themselves in the contemplative environment while appreciating the architectural beauty that has evolved over the years.
+This monastery plays a crucial role in the local community, serving not only as a place of worship but also as a center for cultural activities. The harmonious blend of historical significance and serene surroundings makes it a noteworthy destination for travelers seeking a deeper understanding of Germany's monastic traditions. Visitors can immerse themselves in the contemplative environment while appreciating the architectural beauty that has evolved over the years.
 
 As you plan your visit, prepare to uncover the layers of history that have shaped Beginenhof Deilinghofen. The site promises an enriching experience, filled with insights into the lives of the women who once inhabited this monastery and the legacy they left behind.
 
@@ -38,7 +38,7 @@ The origins of Beginenhof Deilinghofen trace back to the establishment of monast
 
 Throughout its history, the monastery has been a sanctuary for those seeking solace and community. It has served various roles, from a spiritual retreat to a center of learning and charity, reflecting the evolving needs of society throughout the centuries. The significance of Beginenhof Deilinghofen extends beyond its religious functions; it has played a crucial role in nurturing the cultural identity of Hemer and its surroundings.
 
-The monastic lifestyle encourages a strong sense of community among its inhabitants, which has been a cornerstone of the Damenstift’s mission. Over the years, the monastery has adapted to changing societal norms while maintaining its core values, allowing it to remain relevant in contemporary contexts. This adaptability is a testament to the resilience of monastic traditions in Germany.
+The monastic lifestyle encourages a strong sense of community among its inhabitants, which has been a cornerstone of the Damenstift's mission. Over the years, the monastery has adapted to changing societal norms while maintaining its core values, allowing it to remain relevant in contemporary contexts. This adaptability is a testament to the resilience of monastic traditions in Germany.
 
 Visitors to Beginenhof Deilinghofen can appreciate not only the architectural beauty of the site but also its historical context. The stories of the women who lived and worked here provide a rich narrative that enhances the experience of exploring this monastic haven. Engaging with the history of the monastery offers insights into the evolving role of women in religious life and their contributions to society at large.
 
@@ -117,7 +117,7 @@ Information about guided tours may be available through the official website. Ch
 Weekday mornings or late afternoons are generally less crowded, providing a more peaceful experience while exploring the monastery.
 
 ### Is it wheelchair accessible?
-Accessibility information is best obtained from the official website. It’s advisable to check ahead if you have specific mobility concerns.
+Accessibility information is best obtained from the official website. It's advisable to check ahead if you have specific mobility concerns.
 
 ### Can I buy tickets online?
 For the most current information regarding ticket purchasing, including online options, please refer to the official website.

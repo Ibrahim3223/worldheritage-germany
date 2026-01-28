@@ -99,13 +99,13 @@ When preparing for your visit to the Synagoge Michelstadt, consider the followin
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of approximately one hour is recommended to appreciate the synagogue’s features and significance.
+A visit of approximately one hour is recommended to appreciate the synagogue's features and significance.
 
 ### Is photography allowed?
 Photography may be permitted in certain areas; however, always check for any specific guidelines regarding photography inside the synagogue.
 
 ### Are there guided tours?
-Guided tours may be available; it’s best to check the official website for details about scheduling and availability.
+Guided tours may be available; it's best to check the official website for details about scheduling and availability.
 
 ### What's the best time to visit?
 Weekdays or early mornings are often quieter times to visit, allowing for a more peaceful experience.

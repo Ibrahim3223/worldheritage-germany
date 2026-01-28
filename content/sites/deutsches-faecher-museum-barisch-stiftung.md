@@ -36,7 +36,7 @@ For anyone looking to delve into the world of fans—ranging from delicate hand-
 
 The Deutsches Fächer Museum is a repository for the art of fan-making, which has a storied history in Europe and beyond. Fans have been used since ancient times, but their popularity surged during the Renaissance and Baroque periods, when they became essential accessories for the upper classes. In these contexts, fans were not just functional items but also symbols of power and beauty, often elaborately decorated and intricately designed.
 
-The museum’s collection is indicative of the cultural importance of fans throughout history, particularly in the 18th and 19th centuries. Fans were often personalized, serving as a reflection of individual taste and social standing. The museum's role is crucial in preserving these artifacts, allowing visitors to appreciate the artistry involved in their creation and the social narratives they embody.
+The museum's collection is indicative of the cultural importance of fans throughout history, particularly in the 18th and 19th centuries. Fans were often personalized, serving as a reflection of individual taste and social standing. The museum's role is crucial in preserving these artifacts, allowing visitors to appreciate the artistry involved in their creation and the social narratives they embody.
 
 The Barisch Stiftung, which underpins the museum, is dedicated to ensuring that the history of fan-making is not forgotten. Through exhibitions and educational programs, the museum promotes an understanding of the artistic techniques used in fan production, as well as the broader cultural contexts in which these items were used. This commitment to preserving and sharing knowledge makes the Deutsches Fächer Museum an important cultural institution in Germany.
 
@@ -46,7 +46,7 @@ The architecture of the Deutsches Fächer Museum complements its exquisite colle
 
 Inside, the museum features a diverse range of fans, showcasing various materials such as silk, lace, and wood. Each exhibit is thoughtfully arranged to highlight the craftsmanship and artistry involved in fan-making. The careful curation allows visitors to observe the evolution of styles and techniques over time, with some fans exhibiting intricate hand-painted designs or elaborate embellishments that reflect the aesthetic values of their respective eras.
 
-Educational displays provide context and insights into the historical significance of fans, detailing how they were used in social interactions and cultural ceremonies. The thoughtful integration of historical narratives enhances the visitor’s experience, making it not just a visual journey but also an informative one.
+Educational displays provide context and insights into the historical significance of fans, detailing how they were used in social interactions and cultural ceremonies. The thoughtful integration of historical narratives enhances the visitor's experience, making it not just a visual journey but also an informative one.
 
 ## Visiting Information
 

@@ -28,7 +28,7 @@ image_srcset:
 
 The Siebengebirgsmuseum der Stadt Königswinter offers a profound insight into the cultural heritage of the region surrounding the picturesque town of Königswinter, Germany. Situated in the scenic landscape of the Siebengebirge, this museum serves as a repository of local history, art, and traditions, showcasing the evolution of the area through various exhibits. Visitors can expect a blend of educational displays and engaging artifacts that reflect the unique character of the Rhineland region.
 
-Königswinter, located along the banks of the Rhine River, has long been a center for trade and tourism, drawing visitors with its charm and historical significance. The museum not only highlights the town’s past but also connects it to the broader cultural narratives of Germany. For those eager to explore the intersections of nature, culture, and history, the museum stands as a vital stop in understanding the essence of the Siebengebirge and its surrounding areas.
+Königswinter, located along the banks of the Rhine River, has long been a center for trade and tourism, drawing visitors with its charm and historical significance. The museum not only highlights the town's past but also connects it to the broader cultural narratives of Germany. For those eager to explore the intersections of nature, culture, and history, the museum stands as a vital stop in understanding the essence of the Siebengebirge and its surrounding areas.
 
 ## History and Significance
 
@@ -91,7 +91,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekdays and off-peak seasons are generally less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified; it’s best to check the official website for up-to-date details.
+Accessibility information is not specified; it's best to check the official website for up-to-date details.
 
 ### Can I buy tickets online?
 Ticket purchasing options may be available; consult the official website for current information.

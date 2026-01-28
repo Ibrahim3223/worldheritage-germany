@@ -40,7 +40,7 @@ The architectural design of Block Beuys complements the innovative spirit of Jos
 
 Inside, the museum features various installations that reflect Beuys's diverse artistic practices. The choice of materials and the arrangement of artworks invite visitors to engage with the pieces on multiple levels. The atmosphere is designed to be immersive, promoting a sense of connection between the viewer and the artwork, which is a hallmark of Beuys's philosophy.
 
-Notable features of the museum may include dedicated spaces for temporary exhibitions, educational programs, and interactive installations that further elaborate on Beuys's ideas. The thoughtful curation of the museum’s collection enhances the overall experience, allowing visitors to appreciate the complexity and depth of Beuys's contributions to contemporary art.
+Notable features of the museum may include dedicated spaces for temporary exhibitions, educational programs, and interactive installations that further elaborate on Beuys's ideas. The thoughtful curation of the museum's collection enhances the overall experience, allowing visitors to appreciate the complexity and depth of Beuys's contributions to contemporary art.
 
 ## Visiting Information
 

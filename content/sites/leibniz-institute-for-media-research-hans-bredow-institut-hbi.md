@@ -66,7 +66,7 @@ While in the Eimsbüttel district, visitors can explore several nearby attractio
 
 To make the most of your visit to the HBI, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to be respectful of any restrictions, especially during lectures or events.
+- **Photography**: While photography may be allowed in certain areas, it's best to be respectful of any restrictions, especially during lectures or events.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays or avoid peak event times when the institute may host larger gatherings.
 
@@ -93,7 +93,7 @@ The availability of guided tours may depend on scheduled programs; check with th
 Visiting during weekdays may provide a quieter experience, but special events or lectures can enhance your visit.
 
 ### Is it wheelchair accessible?
-The institute aims to accommodate all visitors, but it’s best to verify specific accessibility options on the official website.
+The institute aims to accommodate all visitors, but it's best to verify specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 For events or lectures that require tickets, details will be available on the official website.

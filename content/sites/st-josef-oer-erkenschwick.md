@@ -98,7 +98,7 @@ Visiting during weekdays or designated church services can provide a unique pers
 Details on accessibility should be confirmed through the official website to ensure a comfortable visit.
 
 ### Can I buy tickets online?
-For any entrance fees or special events, it’s best to check the official website for online purchasing options.
+For any entrance fees or special events, it's best to check the official website for online purchasing options.
 
 ### Are there restrooms and cafes?
 Nearby facilities may be limited, so plan accordingly. Check local resources for cafes and restrooms.

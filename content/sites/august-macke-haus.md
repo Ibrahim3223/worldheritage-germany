@@ -36,9 +36,9 @@ Whether you are an art enthusiast or a casual visitor, the August-Macke-Haus pro
 
 August Macke was born in 1887 and became one of the key figures in the Expressionist movement before his untimely death in 1914. His work is characterized by bold colors and innovative compositions that sought to express emotion rather than merely depict reality. The August-Macke-Haus is located in Bonn, where Macke lived and worked for several years, creating many of his most notable pieces.
 
-The museum is housed in a building where Macke lived from 1911 until 1914. This space served as an important site for his artistic development, and its preservation allows visitors to connect with the environment that inspired much of his work. The location has been transformed into a museum to honor Macke’s contributions to modern art and to educate the public about his life and influences.
+The museum is housed in a building where Macke lived from 1911 until 1914. This space served as an important site for his artistic development, and its preservation allows visitors to connect with the environment that inspired much of his work. The location has been transformed into a museum to honor Macke's contributions to modern art and to educate the public about his life and influences.
 
-The significance of August-Macke-Haus extends beyond its collection of art; it is a vital resource for understanding the cultural and historical context of early 20th-century Germany. The museum often hosts exhibitions that explore the broader artistic movements of the time, providing visitors with a comprehensive view of the era’s creative landscape. By showcasing not only Macke's work but also that of his contemporaries, the museum plays a crucial role in the preservation and promotion of Expressionist art.
+The significance of August-Macke-Haus extends beyond its collection of art; it is a vital resource for understanding the cultural and historical context of early 20th-century Germany. The museum often hosts exhibitions that explore the broader artistic movements of the time, providing visitors with a comprehensive view of the era's creative landscape. By showcasing not only Macke's work but also that of his contemporaries, the museum plays a crucial role in the preservation and promotion of Expressionist art.
 
 Additionally, the August-Macke-Haus engages with the community through educational programs and events that encourage appreciation for art and its history. These initiatives deepen the cultural impact of the museum, making it a focal point for artistic dialogue in Bonn.
 
@@ -46,11 +46,11 @@ Additionally, the August-Macke-Haus engages with the community through education
 
 The August-Macke-Haus is notable not just for its artistic offerings but also for its architectural features. The building itself reflects the early 20th-century style that was prevalent during Macke's lifetime. Its unique structure complements the vibrant works displayed within, creating an immersive environment that enhances the visitor experience.
 
-The museum is designed to facilitate the display of Macke’s artwork, with spaces that allow for optimal viewing and interaction. Visitors will find well-lit galleries that showcase not only his paintings but also sketches and personal artifacts that provide insight into his creative process. The thoughtful arrangement of works invites contemplation and encourages visitors to engage with each piece on a personal level.
+The museum is designed to facilitate the display of Macke's artwork, with spaces that allow for optimal viewing and interaction. Visitors will find well-lit galleries that showcase not only his paintings but also sketches and personal artifacts that provide insight into his creative process. The thoughtful arrangement of works invites contemplation and encourages visitors to engage with each piece on a personal level.
 
 One of the key features of the August-Macke-Haus is its outdoor area, which offers a serene setting for reflection. This space is designed to harmonize with the artistic themes present in Macke's work, allowing visitors to experience the interplay of art and nature. The gardens surrounding the museum are often inspired by the colors and forms found in Macke's paintings, creating a cohesive atmosphere that enhances the overall visit.
 
-Overall, the architecture of the August-Macke-Haus serves as a fitting tribute to its namesake, providing a space that is both functional and aesthetically pleasing. The museum’s design facilitates an engaging experience, encouraging exploration and appreciation of the art within.
+Overall, the architecture of the August-Macke-Haus serves as a fitting tribute to its namesake, providing a space that is both functional and aesthetically pleasing. The museum's design facilitates an engaging experience, encouraging exploration and appreciation of the art within.
 
 ## Visiting Information
 

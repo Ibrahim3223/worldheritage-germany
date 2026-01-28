@@ -70,7 +70,7 @@ While visiting St. Jacob Church, travelers might find it beneficial to explore o
 
 2. **Rügen Island**: A short distance from Gingst, Rügen Island offers stunning coastal landscapes, nature reserves, and the iconic chalk cliffs of Jasmund National Park.
 
-3. **St. Mary's Church**: Another significant church nearby, St. Mary’s offers a glimpse into the architectural diversity of the region and is often open for visitors.
+3. **St. Mary's Church**: Another significant church nearby, St. Mary's offers a glimpse into the architectural diversity of the region and is often open for visitors.
 
 4. **Local Museums**: Several small museums in the vicinity celebrate the history and culture of the area, providing context to the life of the village and its inhabitants.
 
@@ -82,7 +82,7 @@ For those planning a visit to St. Jacob Church, consider the following insider t
 
 - **Photography**: Check the church's policy on photography before your visit. Many sacred sites allow photography but may impose restrictions on flash or specific areas. Early morning or late afternoon light often provides the best conditions for capturing the beauty of the church.
 
-- **Crowd Avoidance**: If you prefer a more tranquil experience, consider visiting during weekdays or early in the morning. This will allow you to enjoy the church’s ambiance without the hustle of larger crowds.
+- **Crowd Avoidance**: If you prefer a more tranquil experience, consider visiting during weekdays or early in the morning. This will allow you to enjoy the church's ambiance without the hustle of larger crowds.
 
 ## Practical Information
 
@@ -115,7 +115,7 @@ Accessibility details are best confirmed through the church's official website o
 Check the official website for details on ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Information regarding facilities such as restrooms and nearby cafes is not provided, so it’s best to plan accordingly.
+Information regarding facilities such as restrooms and nearby cafes is not provided, so it's best to plan accordingly.
 
 ### What should I wear?
 Dress modestly to show respect for the sacred nature of the church. Comfortable shoes are also recommended for walking.

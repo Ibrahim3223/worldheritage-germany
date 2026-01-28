@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Pichelswerder, an enchanting island situated in the heart of Berlin, Germany, offers a compelling blend of natural beauty and cultural intrigue. This island is part of the larger landscape of Berlin, which is known for its rich history and vibrant urban life. Pichelswerder stands out not only for its scenic environment but also for its significance within the context of the city’s development and social fabric. As a serene retreat from the bustling urban expanse, it invites visitors to explore its tranquil surroundings and engage with the local flora and fauna. 
+Pichelswerder, an enchanting island situated in the heart of Berlin, Germany, offers a compelling blend of natural beauty and cultural intrigue. This island is part of the larger landscape of Berlin, which is known for its rich history and vibrant urban life. Pichelswerder stands out not only for its scenic environment but also for its significance within the context of the city's development and social fabric. As a serene retreat from the bustling urban expanse, it invites visitors to explore its tranquil surroundings and engage with the local flora and fauna. 
 
 Pichelswerder is a unique destination for those seeking a peaceful escape within the metropolitan area. The island's location provides a wonderful opportunity to experience the natural environment while still being close to the urban conveniences of Berlin. With its lush greenery and calm waters, Pichelswerder is an ideal spot for leisurely walks, picnics, and exploration, promising a refreshing experience for nature enthusiasts and city dwellers alike.
 

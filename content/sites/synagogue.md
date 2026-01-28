@@ -52,7 +52,7 @@ Visiting the synagogue offers an opportunity to engage with its history and sign
 
 Check the official website for current information regarding hours and ticket prices, as these may vary seasonally. The recommended time for a visit is typically around one to two hours, allowing for a thorough exploration of the site and its features. 
 
-For those planning a visit, consider the best times to avoid crowds, as weekends and holidays may see increased attendance. The synagogue’s tranquil atmosphere can be particularly inviting during less busy hours, allowing for a more introspective experience.
+For those planning a visit, consider the best times to avoid crowds, as weekends and holidays may see increased attendance. The synagogue's tranquil atmosphere can be particularly inviting during less busy hours, allowing for a more introspective experience.
 
 ## Nearby Attractions
 
@@ -87,7 +87,7 @@ Typically, visitors should plan to spend about one to two hours at the synagogue
 Photography policies can vary. It is recommended to check with the synagogue upon arrival regarding any restrictions on photography.
 
 ### Are there guided tours?
-Guided tours may be available, providing deeper insights into the synagogue’s history and significance. Check the official website for details.
+Guided tours may be available, providing deeper insights into the synagogue's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 To avoid crowds, consider visiting during weekdays or early in the morning. This can enhance your experience by allowing for a quieter atmosphere.

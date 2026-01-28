@@ -46,9 +46,9 @@ Genscher was known for his diplomatic acumen, and the museum's exhibits highligh
 
 While specific architectural details about Genscher-Haus are not provided, the museum is housed in the historical building where Hans-Dietrich Genscher was born. The structure itself carries significance, as it reflects the architectural styles prominent in the region during Genscher's early life. 
 
-Inside, the museum features various exhibitions that showcase Genscher’s life, his political career, and the historical events surrounding him. The layout is designed to facilitate an engaging experience, with informative displays that guide visitors through different aspects of his life and achievements. 
+Inside, the museum features various exhibitions that showcase Genscher's life, his political career, and the historical events surrounding him. The layout is designed to facilitate an engaging experience, with informative displays that guide visitors through different aspects of his life and achievements. 
 
-Notable features of the museum include interactive exhibits that allow guests to delve deeper into the political landscape of the time, as well as personal memorabilia that offer a glimpse into Genscher’s everyday life. These elements combine to create an educational and reflective atmosphere for all who visit.
+Notable features of the museum include interactive exhibits that allow guests to delve deeper into the political landscape of the time, as well as personal memorabilia that offer a glimpse into Genscher's everyday life. These elements combine to create an educational and reflective atmosphere for all who visit.
 
 ## Visiting Information
 
@@ -76,11 +76,11 @@ Expect a well-curated experience that combines educational content with personal
 
 To capture the essence of Genscher-Haus without the distractions of large crowds, consider visiting during off-peak hours, especially on weekdays. This allows for a more immersive experience as you explore the exhibits.
 
-Photography may be allowed in certain areas of the museum, but it’s advisable to check for any restrictions upon entry. Engaging with the displays and taking notes can enhance your visit, helping you remember the significant information about Genscher's life and contributions.
+Photography may be allowed in certain areas of the museum, but it's advisable to check for any restrictions upon entry. Engaging with the displays and taking notes can enhance your visit, helping you remember the significant information about Genscher's life and contributions.
 
 ## Practical Information
 
-When visiting Genscher-Haus, it’s recommended to bring along essentials such as a camera, a notebook, or a tablet for notes, and comfortable walking shoes. The museum may have specific seasonal considerations, so dressing in layers is advisable to accommodate varying indoor and outdoor temperatures.
+When visiting Genscher-Haus, it's recommended to bring along essentials such as a camera, a notebook, or a tablet for notes, and comfortable walking shoes. The museum may have specific seasonal considerations, so dressing in layers is advisable to accommodate varying indoor and outdoor temperatures.
 
 Additionally, consider checking the official website for any seasonal events or special exhibitions that may enhance your visit. Being prepared will ensure a more enjoyable and informative experience at the museum.
 
@@ -90,7 +90,7 @@ Additionally, consider checking the official website for any seasonal events or 
 A visit to Genscher-Haus typically takes about one to two hours, depending on your interest level in the exhibits.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for any restrictions at the entrance of the museum.
+Photography policies can vary, so it's best to check for any restrictions at the entrance of the museum.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may be available during certain times or for special groups.
@@ -99,7 +99,7 @@ Check the official website for information on guided tours, as they may be avail
 Early mornings or late afternoons on weekdays are generally less crowded, making for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s advisable to check the official website for specific details.
+Accessibility features may be available, but it's advisable to check the official website for specific details.
 
 ### Can I buy tickets online?
 Check the official website for the current options regarding ticket purchases, including online availability.

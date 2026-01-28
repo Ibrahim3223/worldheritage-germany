@@ -70,11 +70,11 @@ While the Munich Digitization Center itself is a remarkable destination, its loc
 
 For those planning a visit to the Munich Digitization Center, consider these insider tips to enhance your experience:
 
-- **Photography**: While enjoying the collections, be mindful of any photography restrictions in place. It’s advisable to check with staff regarding the rules to ensure compliance.
+- **Photography**: While enjoying the collections, be mindful of any photography restrictions in place. It's advisable to check with staff regarding the rules to ensure compliance.
 
 - **Crowd Avoidance**: To experience the MDZ without the hustle and bustle, consider visiting during mid-week or earlier in the day. This can provide a more tranquil atmosphere for exploration.
 
-- **Research Preparation**: If you have specific interests or topics you want to explore, consider researching the MDZ’s online catalog before your visit. This can help you make the most of your time there.
+- **Research Preparation**: If you have specific interests or topics you want to explore, consider researching the MDZ's online catalog before your visit. This can help you make the most of your time there.
 
 ## Practical Information
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Munich Digitization Center, keep the follow
 
 - **Seasonal Considerations**: Munich experiences distinct seasons, and visiting in spring or fall can offer pleasant weather for exploring the city. Be sure to dress appropriately for the season and consider layering, as indoor temperatures can vary.
 
-- **Accessibility**: The center aims to be accessible to all visitors, but it’s wise to check the official website for any specific accommodations or facilities available for those with mobility challenges.
+- **Accessibility**: The center aims to be accessible to all visitors, but it's wise to check the official website for any specific accommodations or facilities available for those with mobility challenges.
 
 ## Frequently Asked Questions
 
@@ -107,7 +107,7 @@ The Munich Digitization Center strives to be accessible, but checking the offici
 For admission and ticketing information, including online purchasing options, refer to the official MDZ website.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available on-site, but it’s advisable to check the official website for a comprehensive list of amenities.
+Facilities such as restrooms may be available on-site, but it's advisable to check the official website for a comprehensive list of amenities.
 
 ### What should I wear?
 Dress comfortably and consider the season when planning your outfit. Layering is a good option, as climate control in the center can vary.

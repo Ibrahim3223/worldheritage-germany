@@ -52,21 +52,21 @@ A visit to the Graduate School Lübeck typically requires a few hours, depending
 
 Lübeck is home to a variety of attractions that complement a visit to the Graduate School. Here are a few noteworthy places to explore nearby:
 
-1. **Lübeck Cathedral**: This stunning example of Brick Gothic architecture is one of the city’s most iconic landmarks. The cathedral's twin spires dominate the skyline, and its interior is equally impressive, featuring beautiful stained glass and intricate woodwork.
+1. **Lübeck Cathedral**: This stunning example of Brick Gothic architecture is one of the city's most iconic landmarks. The cathedral's twin spires dominate the skyline, and its interior is equally impressive, featuring beautiful stained glass and intricate woodwork.
 
 2. **Holstentor**: A symbol of Lübeck's Hanseatic past, this impressive city gate is a must-see. Its distinctive twin towers and fortified structure reflect the city's historical significance as a trade center.
 
-3. **St. Mary’s Church**: Another fine example of Brick Gothic architecture, St. Mary’s Church is notable for its stunning altar and impressive organ. The church has been a central part of Lübeck’s history for centuries.
+3. **St. Mary's Church**: Another fine example of Brick Gothic architecture, St. Mary's Church is notable for its stunning altar and impressive organ. The church has been a central part of Lübeck's history for centuries.
 
-4. **Lübeck Old Town**: A UNESCO World Heritage Site, Lübeck’s Old Town is a maze of narrow streets, historic buildings, and charming squares. It's an excellent area for leisurely exploration, with plenty of cafés and shops.
+4. **Lübeck Old Town**: A UNESCO World Heritage Site, Lübeck's Old Town is a maze of narrow streets, historic buildings, and charming squares. It's an excellent area for leisurely exploration, with plenty of cafés and shops.
 
-5. **Museum of Theatre Puppetry**: For a unique cultural experience, this museum showcases the art of puppetry and its historical significance in Lübeck. It’s a delightful visit for families and art enthusiasts alike.
+5. **Museum of Theatre Puppetry**: For a unique cultural experience, this museum showcases the art of puppetry and its historical significance in Lübeck. It's a delightful visit for families and art enthusiasts alike.
 
 ## Insider Tips
 
 For those planning to visit Graduate School Lübeck, there are a few insider tips to enhance your experience. 
 
-1. **Photography**: While many areas of the campus may be open for photography, it’s respectful to ask for permission if you’re capturing images of people or specific events. The architectural features of the university also provide ample opportunities for photography.
+1. **Photography**: While many areas of the campus may be open for photography, it's respectful to ask for permission if you're capturing images of people or specific events. The architectural features of the university also provide ample opportunities for photography.
 
 2. **Crowd Avoidance**: To enjoy a more peaceful visit, consider going during weekdays, especially in the morning or early afternoon. This timing may allow for quieter interactions with students and faculty.
 

@@ -101,7 +101,7 @@ Information regarding guided tours is not specified. Check the official website 
 The best time to visit is during the milder months when the weather is more favorable for outdoor exploration.
 
 ### Is it wheelchair accessible?
-Details regarding wheelchair accessibility are not provided. It’s best to check the official website for specific access information.
+Details regarding wheelchair accessibility are not provided. It's best to check the official website for specific access information.
 
 ### Can I buy tickets online?
 Information on online ticket purchases is not available. Please refer to the official website for up-to-date ticketing options.

@@ -42,7 +42,7 @@ As a recreational area, Ohmbachsee serves as a gathering spot for families and f
 
 Ohmbachsee is primarily characterized by its natural landscape rather than man-made structures. The lake's physical features include clear waters bordered by verdant greenery, which together create a peaceful environment perfect for relaxation and outdoor activities. The surrounding area consists of walking paths and picnic spots that enhance the visitor experience, allowing for easy access to the water's edge.
 
-The lake’s shoreline is complemented by a variety of plant life, providing habitats for numerous bird species and other wildlife. This natural setting is not only visually appealing but also serves a crucial role in maintaining the ecological balance of the area. The layout of the lake and its surroundings promotes a sense of harmony with nature, making it an inviting destination for those who appreciate the great outdoors.
+The lake's shoreline is complemented by a variety of plant life, providing habitats for numerous bird species and other wildlife. This natural setting is not only visually appealing but also serves a crucial role in maintaining the ecological balance of the area. The layout of the lake and its surroundings promotes a sense of harmony with nature, making it an inviting destination for those who appreciate the great outdoors.
 
 ## Visiting Information
 

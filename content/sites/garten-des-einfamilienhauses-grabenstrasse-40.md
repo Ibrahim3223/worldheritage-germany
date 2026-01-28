@@ -78,7 +78,7 @@ Seasonal considerations are also important. Spring and summer are ideal times fo
 
 ### How long should I spend visiting?
 
-A visit typically lasts around 1-2 hours, allowing enough time to explore and enjoy the garden’s tranquility.
+A visit typically lasts around 1-2 hours, allowing enough time to explore and enjoy the garden's tranquility.
 
 ### Is photography allowed?
 

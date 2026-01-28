@@ -42,7 +42,7 @@ In recent years, the memorial has also become a platform for discussions on the 
 
 The architecture of the Berlin-Hohenschönhausen Memorial reflects its somber history. The facility comprises a series of utilitarian buildings typical of the socialist architectural style, with stark designs that convey a sense of oppression. The remand center includes several key areas, such as interrogation rooms, solitary confinement cells, and a courtroom, all of which have been preserved to illustrate the conditions faced by detainees.
 
-Visitors will find that many of the original features have been maintained, including the stark interiors and the heavy doors that once confined political prisoners. The layout of the facility is designed to evoke a sense of unease, with narrow corridors and dimly lit rooms. These spaces often serve as the backdrop for exhibitions that tell the stories of former prisoners, providing a haunting yet necessary context for understanding the facility’s past.
+Visitors will find that many of the original features have been maintained, including the stark interiors and the heavy doors that once confined political prisoners. The layout of the facility is designed to evoke a sense of unease, with narrow corridors and dimly lit rooms. These spaces often serve as the backdrop for exhibitions that tell the stories of former prisoners, providing a haunting yet necessary context for understanding the facility's past.
 
 In addition to the preserved areas, the memorial features informative displays and multimedia presentations that enhance the visitor experience. These elements contribute to a deeper understanding of the mechanisms of state surveillance and control, allowing guests to engage with the material in a meaningful way.
 
@@ -72,11 +72,11 @@ While the Berlin-Hohenschönhausen Memorial offers a deeply immersive experience
 
 To enhance your visit to the Berlin-Hohenschönhausen Memorial, consider the following insider tips:
 
-- **Photography**: While you may be tempted to capture the stark interiors and haunting spaces, be mindful of the memorial’s solemn atmosphere. Photography may be restricted in certain areas, so check for any guidelines upon arrival.
+- **Photography**: While you may be tempted to capture the stark interiors and haunting spaces, be mindful of the memorial's solemn atmosphere. Photography may be restricted in certain areas, so check for any guidelines upon arrival.
 
 - **Crowd Avoidance**: Visiting during late mornings or early afternoons on weekdays can help you avoid larger crowds. This quieter time allows for a more personal engagement with the exhibits and spaces.
 
-- **Guided Tours**: If available, consider joining a guided tour. Knowledgeable guides can provide deeper insights and context, enriching your understanding of the site’s history.
+- **Guided Tours**: If available, consider joining a guided tour. Knowledgeable guides can provide deeper insights and context, enriching your understanding of the site's history.
 
 ## Practical Information
 
@@ -84,7 +84,7 @@ When preparing for your visit to the Berlin-Hohenschönhausen Memorial, keep the
 
 - **What to Bring**: Dress comfortably and wear suitable shoes, as you may be walking through the memorial for an extended period. It may also be wise to bring a water bottle and a notebook for reflections.
 
-- **Seasonal Considerations**: Berlin’s weather can vary significantly throughout the year. If visiting during winter, be prepared for colder temperatures, and during summer, ensure you stay hydrated.
+- **Seasonal Considerations**: Berlin's weather can vary significantly throughout the year. If visiting during winter, be prepared for colder temperatures, and during summer, ensure you stay hydrated.
 
 - **Accessibility**: While the memorial strives to accommodate visitors, check the official website for any specific accessibility information if required.
 
@@ -97,7 +97,7 @@ It is recommended to spend at least two hours at the memorial to fully engage wi
 Photography may be restricted in certain areas to maintain the solemn atmosphere of the memorial. Please check for any guidelines upon arrival.
 
 ### Are there guided tours?
-Guided tours are often available and can provide a deeper understanding of the memorial’s history and significance. Check the official website for details.
+Guided tours are often available and can provide a deeper understanding of the memorial's history and significance. Check the official website for details.
 
 ### What's the best time to visit?
 Weekdays, particularly late mornings or early afternoons, tend to be less crowded, providing a more intimate experience.

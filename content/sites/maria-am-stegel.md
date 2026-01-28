@@ -38,7 +38,7 @@ Maria am Stegel features a distinctive architectural style characteristic of cha
 
 Inside, visitors can find a serene environment, conducive to reflection and contemplation. Although specific interior features are not detailed, chapels of this nature often include significant religious iconography and art that convey spiritual themes. The overall ambiance is one of tranquility, inviting those who enter to pause and appreciate the surroundings.
 
-The chapel's location in Lübeck’s Old City further enhances its significance. Surrounded by historical buildings and cobblestone streets, Maria am Stegel is a perfect example of how architectural styles can harmonize with their environment. The chapel's preservation has allowed it to remain an integral part of Lübeck's urban landscape.
+The chapel's location in Lübeck's Old City further enhances its significance. Surrounded by historical buildings and cobblestone streets, Maria am Stegel is a perfect example of how architectural styles can harmonize with their environment. The chapel's preservation has allowed it to remain an integral part of Lübeck's urban landscape.
 
 ## Visiting Information
 
@@ -52,7 +52,7 @@ The best times to visit are often during weekdays, when there may be fewer crowd
 
 Lübeck's Old City is rich with attractions that complement a visit to Maria am Stegel. Here are a few notable sites within walking distance:
 
-1. **St. Mary’s Church (Marienkirche)**: An iconic example of Gothic architecture, this church is one of Lübeck's most significant landmarks.
+1. **St. Mary's Church (Marienkirche)**: An iconic example of Gothic architecture, this church is one of Lübeck's most significant landmarks.
    
 2. **The Holstentor**: This impressive gate is one of Lübeck's most recognizable symbols and offers insight into the city's medieval fortifications.
 
@@ -80,7 +80,7 @@ Seasonal considerations may also play a role in your visit; spring and summer ty
 A visit to Maria am Stegel typically takes about 30 minutes to an hour, allowing time for reflection and exploration.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful of the space and its visitors.
+Photography is generally permitted, but it's best to be respectful of the space and its visitors.
 
 ### Are there guided tours?
 While specific guided tours may not be available for Maria am Stegel, local tours of Lübeck often include this chapel as part of their itinerary.

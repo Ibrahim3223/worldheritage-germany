@@ -52,7 +52,7 @@ Reaching the Arithmeum is convenient, with various transport options available i
 
 Expect to spend a few hours exploring the museum to fully appreciate the extensive collections and interactive exhibits. The museum is designed to be engaging for both adults and children, making it a great family-friendly destination. For those looking to avoid crowds, visiting during weekday mornings is often recommended.
 
-The museum’s atmosphere is typically calm and conducive to learning, but special events may draw larger crowds, so checking the schedule for any such occurrences can help you plan your visit accordingly. 
+The museum's atmosphere is typically calm and conducive to learning, but special events may draw larger crowds, so checking the schedule for any such occurrences can help you plan your visit accordingly. 
 
 ## Nearby Attractions
 
@@ -70,9 +70,9 @@ After your visit to the Arithmeum, consider exploring these nearby attractions:
 
 ## Insider Tips
 
-When visiting Arithmeum, photography is generally allowed, but it’s wise to check for any specific restrictions on certain exhibits. To avoid crowds, consider visiting during weekdays or early in the day, especially if you prefer a quieter experience to focus on the exhibits. Engaging with the interactive displays is highly encouraged, as they offer a deeper understanding of the mathematical principles at play.
+When visiting Arithmeum, photography is generally allowed, but it's wise to check for any specific restrictions on certain exhibits. To avoid crowds, consider visiting during weekdays or early in the day, especially if you prefer a quieter experience to focus on the exhibits. Engaging with the interactive displays is highly encouraged, as they offer a deeper understanding of the mathematical principles at play.
 
-If you’re traveling with children, be sure to explore the family-friendly workshops that may be available during your visit. These can provide additional hands-on activities that enhance the overall experience for younger visitors.
+If you're traveling with children, be sure to explore the family-friendly workshops that may be available during your visit. These can provide additional hands-on activities that enhance the overall experience for younger visitors.
 
 ## Practical Information
 
@@ -95,7 +95,7 @@ Guided tours may be available; check the official website for details on schedul
 Weekday mornings are often less crowded, making them a good time for a quieter experience.
 
 ### Is it wheelchair accessible?
-The museum is designed to be accessible, but it’s best to confirm specific arrangements on the official website.
+The museum is designed to be accessible, but it's best to confirm specific arrangements on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets online and any potential discounts.

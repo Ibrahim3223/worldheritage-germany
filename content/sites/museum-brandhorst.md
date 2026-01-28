@@ -48,7 +48,7 @@ One of the museum's standout features is its collection of works by significant 
 
 ## Visiting Information
 
-Visitors planning a trip to Museum Brandhorst will find it conveniently located in the heart of Munich's Maxvorstadt district. The museum is easily accessible through various modes of public transport, including trains and buses. For those driving, parking options are available nearby, though it’s advisable to check for specific parking facilities in advance.
+Visitors planning a trip to Museum Brandhorst will find it conveniently located in the heart of Munich's Maxvorstadt district. The museum is easily accessible through various modes of public transport, including trains and buses. For those driving, parking options are available nearby, though it's advisable to check for specific parking facilities in advance.
 
 Before visiting, it is essential to check the official website for current information regarding opening hours and ticket prices. The museum typically offers a range of ticketing options, including discounts for students and groups. To make the most of your visit, it is recommended to allocate at least a couple of hours to explore the exhibitions and engage with the artworks. 
 

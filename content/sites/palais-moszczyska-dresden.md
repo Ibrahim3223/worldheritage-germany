@@ -93,7 +93,7 @@ Guided tours may be available, offering deeper insights into the history and arc
 Weekdays are ideal for a quieter experience, while spring and fall offer pleasant weather for exploring the area.
 
 ### Is it wheelchair accessible?
-Accessibility information may be provided on the official website, so it’s advisable to check before your visit.
+Accessibility information may be provided on the official website, so it's advisable to check before your visit.
 
 ### Can I buy tickets online?
 Ticket purchasing options can be confirmed on the official website, which may offer online sales for convenience.

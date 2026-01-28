@@ -61,7 +61,7 @@ While at Diakonis, take the opportunity to explore other notable sites in Detmol
 
 To enhance your visit to Diakonis, consider bringing a camera to capture the essence of the foundation, while being mindful of respecting the privacy of residents and staff. Early morning visits can help you avoid larger crowds, allowing for a more personal experience with the staff and any available programs.
 
-Engaging with the foundation’s community can offer valuable insights, so be open to conversations with those present. This can deepen your understanding of the foundation's impact and the importance of its work.
+Engaging with the foundation's community can offer valuable insights, so be open to conversations with those present. This can deepen your understanding of the foundation's impact and the importance of its work.
 
 ## Practical Information
 

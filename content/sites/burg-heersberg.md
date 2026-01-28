@@ -48,7 +48,7 @@ As you explore Burg Heersberg, take note of any unique architectural details tha
 
 ## Visiting Information
 
-Burg Heersberg is accessible to visitors interested in exploring this historical site. To reach the castle, various transportation options may be available, including personal vehicles or local public transportation. The exact details regarding transport accessibility can vary, so it’s advisable to check current local resources for the best routes.
+Burg Heersberg is accessible to visitors interested in exploring this historical site. To reach the castle, various transportation options may be available, including personal vehicles or local public transportation. The exact details regarding transport accessibility can vary, so it's advisable to check current local resources for the best routes.
 
 While the specific hours of operation and ticket prices are not detailed here, visitors are encouraged to check the official website for current information. This will ensure an enjoyable experience while planning your visit. Typically, a visit to Burg Heersberg may take a couple of hours, allowing ample time to explore the castle's features and the surrounding area.
 
@@ -63,7 +63,7 @@ When visiting Burg Heersberg, several nearby attractions can enhance your travel
 3. **Historical Sites**: Look for other nearby castles or historical landmarks that reflect the region's rich heritage.
 4. **Museums**: Investigate local museums that may provide further context about the history and culture of Lautlingen and its surroundings.
 
-These attractions can complement your visit to Burg Heersberg, allowing for a fuller understanding of the area’s history and culture.
+These attractions can complement your visit to Burg Heersberg, allowing for a fuller understanding of the area's history and culture.
 
 ## Insider Tips
 

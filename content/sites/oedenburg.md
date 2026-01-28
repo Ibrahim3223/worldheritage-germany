@@ -82,7 +82,7 @@ For those planning a visit to Ödenburg, here are some insider tips to enhance y
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, consider going on weekdays or during the shoulder seasons of spring and fall when tourist traffic may be lighter.
 
-- **Engagement with History**: Take the time to read any available informational plaques or brochures to gain a deeper understanding of the castle’s history and architectural features.
+- **Engagement with History**: Take the time to read any available informational plaques or brochures to gain a deeper understanding of the castle's history and architectural features.
 
 ## Practical Information
 
@@ -100,7 +100,7 @@ When planning your visit to Ödenburg, consider the following practical tips:
 A visit to Ödenburg typically takes about two to three hours, allowing time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to respect any specific guidelines provided on-site.
+Photography is generally permitted, but it's advisable to respect any specific guidelines provided on-site.
 
 ### Are there guided tours?
 Guided tours may be available, but check the official website for current offerings and schedules.
@@ -112,7 +112,7 @@ The best times to visit are usually during the spring and autumn months when the
 For accessibility options, check the official website for specific information regarding wheelchair access.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s best to check the official website for the latest information.
+Ticket purchasing options may vary, so it's best to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Restroom facilities may be available on-site, but details regarding cafes or food options should be checked on the official website.

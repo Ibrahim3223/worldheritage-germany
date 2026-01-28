@@ -46,7 +46,7 @@ For those planning to visit Cultural heritage D-5-6731-0021 in Büchenbach, acce
 
 Check the official website for current information regarding hours of operation and any applicable entrance fees. Exploring the site typically requires a couple of hours, allowing ample time to absorb the historical significance and architectural features. The best times to visit are likely during the spring and early autumn when the weather is mild, making for a comfortable outdoor experience.
 
-As you plan your visit, be prepared for a potentially limited number of amenities on-site. It’s advisable to bring water and light snacks, especially if you plan to spend an extended period exploring the fortification and its surroundings.
+As you plan your visit, be prepared for a potentially limited number of amenities on-site. It's advisable to bring water and light snacks, especially if you plan to spend an extended period exploring the fortification and its surroundings.
 
 ## Nearby Attractions
 

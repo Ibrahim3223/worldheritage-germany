@@ -72,7 +72,7 @@ To make the most of your visit to Porzellanwelten Leuchtenburg, consider the fol
 
 - **Photography**: While photography is generally allowed, be mindful of any specific restrictions in certain exhibit areas. Always check signage for guidelines.
 - **Crowd Avoidance**: For a quieter experience, aim to visit during weekdays or outside of school holiday periods when the museum tends to be less crowded.
-- **Engage with Staff**: The museum staff are typically knowledgeable and passionate about porcelain. Don’t hesitate to ask questions or seek recommendations for exhibits.
+- **Engage with Staff**: The museum staff are typically knowledgeable and passionate about porcelain. Don't hesitate to ask questions or seek recommendations for exhibits.
 
 ## Practical Information
 
@@ -99,7 +99,7 @@ Weekdays and non-holiday periods tend to be less crowded, making for a more enjo
 The museum typically aims to accommodate all visitors, but check the official website for specific accessibility information.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online; it’s best to check the official website for the latest information.
+Ticket purchasing options may be available online; it's best to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes are usually present; verify details on the official website for exact locations.

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Müglitztalbahn, featuring the Brücke Mühlbach, stands as a noteworthy example of engineering in the picturesque Müglitztal region of Germany. This bridge, integral to the railway line, connects various communities while offering travelers a glimpse into the region's historical and cultural fabric. The bridge not only serves as a vital transportation link but also as a significant marker of the area’s industrial past. 
+The Müglitztalbahn, featuring the Brücke Mühlbach, stands as a noteworthy example of engineering in the picturesque Müglitztal region of Germany. This bridge, integral to the railway line, connects various communities while offering travelers a glimpse into the region's historical and cultural fabric. The bridge not only serves as a vital transportation link but also as a significant marker of the area's industrial past. 
 
 As you explore the Müglitztalbahn, you will find that it encapsulates the spirit of connectivity that railways have historically provided, allowing for easier movement of people and goods through the scenic valleys. The bridge provides both functional and aesthetic contributions to the landscape, blending practicality with beauty. Visitors are encouraged to immerse themselves in the surrounding natural beauty and consider the historical context of this vital infrastructure.
 

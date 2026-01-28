@@ -50,7 +50,7 @@ As visitors navigate the cemetery, they may come across communal memorials that 
 
 Visiting Cronenberg Protestant Cemetery offers a unique opportunity to engage with the cultural heritage of Wuppertal. The cemetery is accessible to the public, although it is advisable to check the official website for current information regarding opening hours and any potential entry fees.
 
-For those traveling to the cemetery, public transportation options are available within Wuppertal. Visitors can expect to spend approximately one to two hours exploring the grounds, depending on their interest in the historical aspects and the overall atmosphere. The cemetery’s serene environment makes it an ideal place for those seeking solitude or quiet reflection.
+For those traveling to the cemetery, public transportation options are available within Wuppertal. Visitors can expect to spend approximately one to two hours exploring the grounds, depending on their interest in the historical aspects and the overall atmosphere. The cemetery's serene environment makes it an ideal place for those seeking solitude or quiet reflection.
 
 The best times to visit are typically during spring and autumn when the weather is mild and the natural surroundings are particularly beautiful. These seasons provide an enhanced experience as the changing foliage adds to the cemetery's tranquil ambiance.
 

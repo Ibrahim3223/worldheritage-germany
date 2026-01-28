@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Gutshaus Weisdin, an elegant manor house located in the picturesque region of Blumenholz, Germany, is a remarkable site that offers visitors a glimpse into the architectural and cultural history of Mecklenburg-Vorpommern. This manor house stands as a significant representative of the area’s heritage, reflecting the lifestyle of the local nobility and the historical fabric of the region. Surrounded by the tranquil landscapes of northern Germany, it presents a serene setting for exploration and appreciation of both its historical context and architectural features.
+Gutshaus Weisdin, an elegant manor house located in the picturesque region of Blumenholz, Germany, is a remarkable site that offers visitors a glimpse into the architectural and cultural history of Mecklenburg-Vorpommern. This manor house stands as a significant representative of the area's heritage, reflecting the lifestyle of the local nobility and the historical fabric of the region. Surrounded by the tranquil landscapes of northern Germany, it presents a serene setting for exploration and appreciation of both its historical context and architectural features.
 
 The manor house is not just an architectural relic; it encapsulates the evolution of the region through different eras, making it a noteworthy stop for heritage enthusiasts. With its origins rooted in local history, Gutshaus Weisdin invites visitors to engage with the past, providing insights into the societal structures and daily lives of those who once inhabited similar estates. Whether you are a history buff, an architecture lover, or simply seeking a peaceful retreat, Gutshaus Weisdin offers a unique experience that combines beauty, culture, and tranquility.
 
@@ -109,7 +109,7 @@ Check the official website for information regarding accessibility for visitors 
 For current ticketing options, including online purchases, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to verify this information through the official website before your visit.
+Facilities may be available on-site, but it's best to verify this information through the official website before your visit.
 
 ### What should I wear?
 Dress comfortably for the weather, and consider wearing sturdy shoes for walking around the grounds.

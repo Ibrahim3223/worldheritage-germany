@@ -72,7 +72,7 @@ To avoid larger crowds, consider visiting during weekday mornings or early after
 
 ## Practical Information
 
-When preparing for your visit, it’s advisable to bring a small bag for personal items, as well as a water bottle to stay hydrated. Comfortable shoes are recommended, as you may spend considerable time walking through the museum and exploring the surrounding areas.
+When preparing for your visit, it's advisable to bring a small bag for personal items, as well as a water bottle to stay hydrated. Comfortable shoes are recommended, as you may spend considerable time walking through the museum and exploring the surrounding areas.
 
 Seasonal considerations can affect your visit; spring and summer often bring more tourists to the Black Forest region. If you prefer a quieter experience, consider visiting during the off-peak months. 
 
@@ -82,7 +82,7 @@ Seasonal considerations can affect your visit; spring and summer often bring mor
 A visit typically takes a few hours, allowing you to engage with the exhibits fully.
 
 ### Is photography allowed?
-Check the museum’s policy on photography when you arrive to ensure compliance.
+Check the museum's policy on photography when you arrive to ensure compliance.
 
 ### Are there guided tours?
 Inquire at the museum about any available guided tours to enhance your understanding of the exhibits.

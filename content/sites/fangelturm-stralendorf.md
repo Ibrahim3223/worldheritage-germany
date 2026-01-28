@@ -54,7 +54,7 @@ To fully experience the Fangelturm Stralendorf, planning your visit is essential
 
 Expect to spend a reasonable amount of time exploring the tower and its surroundings. A visit typically includes time for reflection on the architecture and historical context, as well as opportunities for photography. As for the best times to visit, consider planning your trip during the spring or early fall when the weather is generally mild and conducive to outdoor exploration.
 
-Upon your arrival, you may find signage or informational displays that enhance your understanding of the tower’s significance. Be prepared for a potentially moderate amount of walking, as the terrain may vary around the site. 
+Upon your arrival, you may find signage or informational displays that enhance your understanding of the tower's significance. Be prepared for a potentially moderate amount of walking, as the terrain may vary around the site. 
 
 ## Nearby Attractions
 

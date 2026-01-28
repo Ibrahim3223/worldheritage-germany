@@ -58,7 +58,7 @@ Reaching Burg Granheim is relatively straightforward, given its location in the 
 
 When planning your visit, it is advisable to check the official website for current information regarding opening hours and admission prices. This will help you make the most of your visit, ensuring that you do not miss out on any opportunities to explore the castle.
 
-Expect to spend a few hours at Burg Granheim to fully appreciate its architecture and history. The time needed may vary based on individual interests; some visitors may prefer a quick tour, while others might wish to delve deeper into the site’s historical narratives.
+Expect to spend a few hours at Burg Granheim to fully appreciate its architecture and history. The time needed may vary based on individual interests; some visitors may prefer a quick tour, while others might wish to delve deeper into the site's historical narratives.
 
 The best times to visit Burg Granheim often align with the milder seasons, allowing for a more comfortable exploration of the site. The castle is generally open to visitors throughout the year, but checking the official website for any seasonal events or closures is recommended.
 
@@ -80,7 +80,7 @@ While visiting Burg Granheim, you might also want to explore other attractions i
 
 When visiting Burg Granheim, consider bringing a camera to capture the impressive architecture and surrounding scenery. Early mornings or late afternoons often provide softer lighting, ideal for photography. 
 
-To avoid crowds, try to visit during weekdays or outside of peak tourist seasons. This will allow for a more intimate experience as you explore the castle’s features without the hustle and bustle of larger groups.
+To avoid crowds, try to visit during weekdays or outside of peak tourist seasons. This will allow for a more intimate experience as you explore the castle's features without the hustle and bustle of larger groups.
 
 ## Practical Information
 

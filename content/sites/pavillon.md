@@ -65,7 +65,7 @@ For those looking to capture the essence of the Pavillon, consider visiting duri
 
 ## Practical Information
 
-When visiting the Pavillon, it’s advisable to bring comfortable shoes, as you may spend significant time walking through the museum and surrounding areas. Consider bringing a light jacket, especially during the cooler months, as temperatures in Bavaria can be unpredictable. Seasonal considerations are essential, with spring and summer offering milder weather suitable for exploring the outdoor spaces around the museum.
+When visiting the Pavillon, it's advisable to bring comfortable shoes, as you may spend significant time walking through the museum and surrounding areas. Consider bringing a light jacket, especially during the cooler months, as temperatures in Bavaria can be unpredictable. Seasonal considerations are essential, with spring and summer offering milder weather suitable for exploring the outdoor spaces around the museum.
 
 ## Frequently Asked Questions
 

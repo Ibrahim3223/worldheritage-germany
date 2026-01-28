@@ -32,7 +32,7 @@ Rose Island, an archaeological site located in the picturesque Lake Starnberg ne
 
 The history of Rose Island is intertwined with the broader historical narrative of the Lake Starnberg region. While specific dates remain elusive, archaeological findings on the island suggest that it has been a site of human activity for centuries. The artifacts discovered here shed light on the lives of the communities that once inhabited the area, revealing insights into their daily routines, cultural practices, and interactions with the environment.
 
-Rose Island holds a particular significance due to its archaeological potential, with various layers of history waiting to be studied. The findings on the island are indicative of the region's development over time, including its strategic importance as a site for trade and interaction among various groups. The island's archaeological remains serve as a resource for understanding the evolution of human settlement and activity in the region, contributing to a broader comprehension of the area’s heritage.
+Rose Island holds a particular significance due to its archaeological potential, with various layers of history waiting to be studied. The findings on the island are indicative of the region's development over time, including its strategic importance as a site for trade and interaction among various groups. The island's archaeological remains serve as a resource for understanding the evolution of human settlement and activity in the region, contributing to a broader comprehension of the area's heritage.
 
 Through ongoing research and exploration, the cultural importance of Rose Island continues to be recognized, and it remains a focal point for those interested in archaeology and history. This site stands not only as a reminder of the past but also as a vital resource for future generations to learn from and appreciate.
 
@@ -58,7 +58,7 @@ Exploring Rose Island can be complemented by visits to several nearby attraction
 
 2. **Feldafing** - This charming town offers a glimpse into local life with quaint shops, restaurants, and picturesque views of the surrounding landscape.
 
-3. **Starnberg Castle** - Located on the western shores of Lake Starnberg, this historical castle provides insight into the area’s noble past and is surrounded by beautiful gardens.
+3. **Starnberg Castle** - Located on the western shores of Lake Starnberg, this historical castle provides insight into the area's noble past and is surrounded by beautiful gardens.
 
 4. **Buchenhain** - A nearby forested area perfect for hiking and nature walks, allowing visitors to connect with the natural beauty of the region.
 

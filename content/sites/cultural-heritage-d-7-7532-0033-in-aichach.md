@@ -60,11 +60,11 @@ Cultural heritage D-7-7532-0033 is surrounded by several attractions that furthe
 
 1. **Aichach Town Hall**: A short distance from the fortification, the Town Hall is an architectural highlight showcasing local history and culture.
 
-2. **St. Mary’s Church**: This historic church, with its stunning architecture, is a must-visit for those interested in religious history and art.
+2. **St. Mary's Church**: This historic church, with its stunning architecture, is a must-visit for those interested in religious history and art.
 
-3. **Aichach Museum**: Delve deeper into the local history and culture at this museum, which features exhibits related to the region’s past.
+3. **Aichach Museum**: Delve deeper into the local history and culture at this museum, which features exhibits related to the region's past.
 
-4. **Local Parks**: Enjoy a leisurely stroll in one of Aichach’s lovely parks, which provide a serene environment for relaxation and reflection.
+4. **Local Parks**: Enjoy a leisurely stroll in one of Aichach's lovely parks, which provide a serene environment for relaxation and reflection.
 
 5. **Nearby Villages**: Explore the charming villages surrounding Aichach, each with its unique character and story.
 
@@ -76,7 +76,7 @@ When visiting Cultural heritage D-7-7532-0033, consider a few insider tips to en
 
 To avoid crowds, plan your visit during weekdays or early mornings. This will allow you to explore the site more peacefully and engage with the historical context without distractions. Additionally, consider visiting during the off-peak seasons, when tourist traffic may be lighter.
 
-Engaging with local guides or historians, if available, can provide deeper insights into the fortification’s history and significance. Their knowledge can bring the site to life and offer a more enriching experience.
+Engaging with local guides or historians, if available, can provide deeper insights into the fortification's history and significance. Their knowledge can bring the site to life and offer a more enriching experience.
 
 ## Practical Information
 

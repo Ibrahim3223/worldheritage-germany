@@ -70,7 +70,7 @@ To make the most of your visit to Die Drehkoite Girkhausen, consider these insid
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or early in the morning on weekends to avoid larger crowds. This will allow you to engage more deeply with the exhibits and enjoy a quieter atmosphere.
 
-- **Engage with Staff**: The museum staff may offer valuable insights and anecdotes about the exhibits. Don’t hesitate to ask questions or seek recommendations for navigating the museum.
+- **Engage with Staff**: The museum staff may offer valuable insights and anecdotes about the exhibits. Don't hesitate to ask questions or seek recommendations for navigating the museum.
 
 ## Practical Information
 
@@ -88,7 +88,7 @@ Before heading to Die Drehkoite Girkhausen, consider the following practical inf
 A visit to Die Drehkoite Girkhausen typically takes about two hours, but you may choose to stay longer if you wish to explore in detail or participate in any special programs.
 
 ### Is photography allowed?
-Photography may be permitted in certain areas of the museum. It’s best to check for any specific restrictions upon arrival.
+Photography may be permitted in certain areas of the museum. It's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website to find out if guided tours are available during your visit, as they can provide valuable insights and enhance your experience.

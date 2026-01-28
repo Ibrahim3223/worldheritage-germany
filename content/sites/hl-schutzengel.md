@@ -32,7 +32,7 @@ The Hl. Schutzengel is not merely a building; it represents the enduring faith a
 
 ## History and Significance
 
-The history of Hl. Schutzengel is intertwined with the broader narrative of Essen, a city that has long been a center of commerce and culture. While specific dates and events related to its founding may not be documented, the church’s existence reflects the historical importance of faith in the community. As a site dedicated to the protection and guidance of angels, the church embodies the spiritual aspirations of its congregants throughout the years. 
+The history of Hl. Schutzengel is intertwined with the broader narrative of Essen, a city that has long been a center of commerce and culture. While specific dates and events related to its founding may not be documented, the church's existence reflects the historical importance of faith in the community. As a site dedicated to the protection and guidance of angels, the church embodies the spiritual aspirations of its congregants throughout the years. 
 
 Throughout its history, the Hl. Schutzengel has played a vital role in the lives of local residents, serving not only as a place of worship but also as a venue for community gatherings and events. The church's significance extends beyond its religious function, as it has also been a witness to the social changes and historical events that have shaped Essen. 
 
@@ -95,7 +95,7 @@ Guided tours might be available; for specific details, check the official websit
 Weekdays or early mornings are ideal for a quieter experience, while attending a service can offer a unique perspective.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary; it’s best to check the official website for specific information regarding access.
+Accessibility details can vary; it's best to check the official website for specific information regarding access.
 
 ### Can I buy tickets online?
 For any admission fees or donations, check the official website for the most current information.

@@ -44,7 +44,7 @@ Altstadt (Pirna) is characterized by its impressive array of architectural style
 
 Among the notable features is the town's impressive marketplace, lined with beautiful, historical buildings that reflect the craftsmanship of their respective eras. The façades of these structures often display ornate details, providing insight into the artistic trends that influenced the region. 
 
-One cannot overlook the St. Mary’s Church, a significant landmark in Altstadt, known for its stunning Gothic architecture and intricate stained-glass windows. This church serves as a focal point for both the town’s spiritual and cultural life. As visitors wander through the streets, they will also encounter various smaller squares and public spaces, each with its unique character and historical significance.
+One cannot overlook the St. Mary's Church, a significant landmark in Altstadt, known for its stunning Gothic architecture and intricate stained-glass windows. This church serves as a focal point for both the town's spiritual and cultural life. As visitors wander through the streets, they will also encounter various smaller squares and public spaces, each with its unique character and historical significance.
 
 The overall ambiance of Altstadt is enhanced by its well-preserved urban layout, which allows for easy navigation while soaking in the historical atmosphere. The meticulous preservation of the buildings contributes to the quarter's charm and offers a tangible connection to Pirna's storied past.
 
@@ -101,7 +101,7 @@ Guided tours may be available in the area, offering deeper insights into the his
 The best times to visit are during spring and autumn, when the weather is mild and conducive to exploration.
 
 ### Is it wheelchair accessible?
-While many areas of Altstadt are navigable, the cobblestone streets may pose challenges for wheelchair users. It’s advisable to check specific access points in advance.
+While many areas of Altstadt are navigable, the cobblestone streets may pose challenges for wheelchair users. It's advisable to check specific access points in advance.
 
 ### Can I buy tickets online?
 For specific attractions or guided tours, purchasing tickets online may be possible. Check the official website for details.

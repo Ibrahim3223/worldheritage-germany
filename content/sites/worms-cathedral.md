@@ -42,7 +42,7 @@ The influence of Worms Cathedral is further evidenced by its architectural style
 
 ## Architecture and Features
 
-Worms Cathedral is notable for its impressive Romanesque architecture, characterized by robust structural elements and decorative artistry. The cathedral’s façade presents a striking visual impression, with its twin towers rising prominently above the surrounding buildings. The use of red sandstone gives the structure a distinctive appearance that sets it apart from many other cathedrals in Germany.
+Worms Cathedral is notable for its impressive Romanesque architecture, characterized by robust structural elements and decorative artistry. The cathedral's façade presents a striking visual impression, with its twin towers rising prominently above the surrounding buildings. The use of red sandstone gives the structure a distinctive appearance that sets it apart from many other cathedrals in Germany.
 
 As you approach the cathedral, you will notice the intricacies of its design, including ornate sculptures and reliefs that adorn the exterior. These artistic elements not only serve a decorative purpose but also convey stories and messages pertinent to the faith and history of the church.
 
@@ -64,7 +64,7 @@ Expect to find an environment conducive to contemplation and exploration, with f
 
 While Worms Cathedral is undoubtedly a highlight, the city of Worms offers several nearby attractions that are worth exploring:
 
-1. **Luther Monument**: This impressive monument commemorates Martin Luther’s pivotal role in the Reformation and is situated near the cathedral, making it a fitting complement to your visit.
+1. **Luther Monument**: This impressive monument commemorates Martin Luther's pivotal role in the Reformation and is situated near the cathedral, making it a fitting complement to your visit.
 
 2. **Jewish Cemetery**: One of the oldest Jewish cemeteries in Europe, this site provides insight into the rich Jewish heritage of Worms and is a place of reflection.
 
@@ -72,7 +72,7 @@ While Worms Cathedral is undoubtedly a highlight, the city of Worms offers sever
 
 4. **St. Andreas Church**: Another beautiful church in Worms, St. Andreas features Gothic architecture and is known for its artistic interior.
 
-5. **Worms' Old Town**: A charming area filled with historical buildings, quaint shops, and local eateries, the Old Town invites leisurely strolls and offers a glimpse into the city’s past.
+5. **Worms' Old Town**: A charming area filled with historical buildings, quaint shops, and local eateries, the Old Town invites leisurely strolls and offers a glimpse into the city's past.
 
 ## Insider Tips
 

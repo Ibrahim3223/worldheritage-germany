@@ -42,7 +42,7 @@ The station is strategically located to serve not only the immediate Spandau dis
 
 Berlin-Spandau railway station is characterized by its functional design typical of urban railway stations. While specific architectural details may not be outlined, one can expect a layout that accommodates the flow of passengers efficiently. The station is likely to feature platforms designed for both regional and local trains, providing easy access for travelers.
 
-The station’s aesthetic may reflect the utilitarian style often found in mid-20th-century railway architecture, focusing on practicality while ensuring the comfort of travelers. Features such as waiting areas, ticket offices, and accessible facilities enhance the overall experience, making it easier for passengers to navigate their journeys.
+The station's aesthetic may reflect the utilitarian style often found in mid-20th-century railway architecture, focusing on practicality while ensuring the comfort of travelers. Features such as waiting areas, ticket offices, and accessible facilities enhance the overall experience, making it easier for passengers to navigate their journeys.
 
 As you approach the station, look for signage that guides you toward various transport options, including trains, buses, and other modes of public transit. This thoughtful design is intended to streamline the travel experience, allowing for smooth transitions between different forms of transportation.
 
@@ -101,7 +101,7 @@ While specific guided tours of the station may not be available, local tours oft
 The best time to visit is typically during off-peak hours on weekdays, which allows for a more relaxed experience.
 
 ### Is it wheelchair accessible?
-Berlin-Spandau railway station is designed to accommodate passengers with mobility issues, but it’s advisable to check the official website for specific accessibility features.
+Berlin-Spandau railway station is designed to accommodate passengers with mobility issues, but it's advisable to check the official website for specific accessibility features.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases, as this can streamline your travel experience.

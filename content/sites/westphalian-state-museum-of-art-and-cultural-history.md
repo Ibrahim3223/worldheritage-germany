@@ -74,17 +74,17 @@ The Westphalian State Museum of Art and Cultural History is conveniently located
 
 4. **Aasee**: The scenic Aasee lake is perfect for a leisurely stroll or a picnic, providing a serene escape from the urban environment while still enjoying the cultural landscape of Münster.
 
-5. **Münster’s Old Town**: A short walk will take you to the charming streets of Münster’s Old Town, where visitors can explore historic buildings, shops, and cafes.
+5. **Münster's Old Town**: A short walk will take you to the charming streets of Münster's Old Town, where visitors can explore historic buildings, shops, and cafes.
 
 ## Insider Tips
 
 To enhance your visit to the Westphalian State Museum of Art and Cultural History, consider these insider tips:
 
-- **Photography**: While some areas of the museum may allow photography, it’s best to check for any restrictions upon entry to respect the museum’s policies and the experience of fellow visitors.
+- **Photography**: While some areas of the museum may allow photography, it's best to check for any restrictions upon entry to respect the museum's policies and the experience of fellow visitors.
 
 - **Crowd Avoidance**: To avoid peak crowds, consider visiting during weekday mornings. This timing often provides a quieter experience, allowing for deeper engagement with the exhibits.
 
-- **Guided Tours**: If you’re interested in a more in-depth exploration, look for guided tours that may be offered. These can provide valuable insights and context that enhance your understanding of the collections.
+- **Guided Tours**: If you're interested in a more in-depth exploration, look for guided tours that may be offered. These can provide valuable insights and context that enhance your understanding of the collections.
 
 ## Practical Information
 

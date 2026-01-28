@@ -54,7 +54,7 @@ Visiting Kloster Rupertsberg is a rewarding experience, allowing you to engage w
 
 When planning your visit, it is advisable to check the official website for current information regarding hours of operation and any potential entrance fees. The time needed to fully appreciate the monastery can vary, but allocating a few hours can provide ample opportunity to explore the grounds, absorb the ambiance, and reflect on the teachings of Hildegard von Bingen. 
 
-The best times to visit Kloster Rupertsberg are during the spring and fall, when the weather is temperate, and the surrounding nature enhances the overall experience. During these seasons, the monastery’s gardens may be particularly inviting, offering a tranquil escape.
+The best times to visit Kloster Rupertsberg are during the spring and fall, when the weather is temperate, and the surrounding nature enhances the overall experience. During these seasons, the monastery's gardens may be particularly inviting, offering a tranquil escape.
 
 ## Nearby Attractions
 
@@ -93,13 +93,13 @@ When visiting Kloster Rupertsberg, it is wise to prepare adequately:
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit typically lasts a few hours, allowing time to explore the grounds and reflect on the site’s significance.
+A visit typically lasts a few hours, allowing time to explore the grounds and reflect on the site's significance.
 
 ### Is photography allowed?
 Photography may be permitted in certain areas, but it is advisable to check for any restrictions, especially inside the sacred spaces.
 
 ### Are there guided tours?
-Check the official website for information regarding guided tours, which can enhance your experience by providing deeper insights into the monastery’s history.
+Check the official website for information regarding guided tours, which can enhance your experience by providing deeper insights into the monastery's history.
 
 ### What's the best time to visit?
 Spring and fall are ideal times to visit, as the weather is generally pleasant, and the surrounding nature is particularly beautiful.

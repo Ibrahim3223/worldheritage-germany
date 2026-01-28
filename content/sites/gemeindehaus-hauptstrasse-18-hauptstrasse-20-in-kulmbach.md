@@ -54,7 +54,7 @@ Visitors should expect to spend a short amount of time at the Gemeindehaus, as i
    
 2. **St. Kilian Church**: This historic church is celebrated for its beautiful architecture and serene atmosphere, making it a peaceful spot for reflection.
 
-3. **Kulmbach Brewery Museum**: A short distance away, this museum offers insights into the region’s brewing traditions, showcasing the significance of beer production in Bavarian culture.
+3. **Kulmbach Brewery Museum**: A short distance away, this museum offers insights into the region's brewing traditions, showcasing the significance of beer production in Bavarian culture.
 
 4. **The Old Town of Kulmbach**: A stroll through the old town allows visitors to appreciate the charming streets, historical buildings, and local shops that embody the character of the area.
 
@@ -68,7 +68,7 @@ Photography may be permitted in public areas, but always be respectful of privac
 
 ## Practical Information
 
-When visiting the Gemeindehaus, it’s advisable to bring a camera if you wish to document your experience, along with comfortable walking shoes for exploring the surrounding area. Seasonal considerations may also play a role in your visit; spring and summer typically provide pleasant weather for strolling around Kulmbach.
+When visiting the Gemeindehaus, it's advisable to bring a camera if you wish to document your experience, along with comfortable walking shoes for exploring the surrounding area. Seasonal considerations may also play a role in your visit; spring and summer typically provide pleasant weather for strolling around Kulmbach.
 
 Make sure to check the official website for any specific guidelines or requirements related to your visit, including any special events that may be taking place during your time in the city.
 

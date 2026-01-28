@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Käthe Kollwitz Museum in Berlin is a poignant homage to one of Germany's most significant artists, Käthe Kollwitz, whose works transcend time and continually resonate with themes of human suffering, empathy, and social justice. Located in the culturally rich city of Berlin, this museum serves not only as a gallery for Kollwitz's art but also as a sanctuary for reflection on the complexities of the human condition. The museum is a vital part of Berlin’s diverse cultural landscape, offering visitors an opportunity to engage deeply with the emotional power of Kollwitz’s work.
+The Käthe Kollwitz Museum in Berlin is a poignant homage to one of Germany's most significant artists, Käthe Kollwitz, whose works transcend time and continually resonate with themes of human suffering, empathy, and social justice. Located in the culturally rich city of Berlin, this museum serves not only as a gallery for Kollwitz's art but also as a sanctuary for reflection on the complexities of the human condition. The museum is a vital part of Berlin's diverse cultural landscape, offering visitors an opportunity to engage deeply with the emotional power of Kollwitz's work.
 
 Kollwitz, a pioneering figure in expressionism and printmaking, is best known for her powerful depictions of grief, loss, and the struggles of the working class. Her art remains relevant as it addresses universal themes that resonate across generations. The museum showcases a significant collection of her drawings, prints, and sculptures, allowing visitors to appreciate the depth and breadth of her artistic contributions.
 
@@ -46,7 +46,7 @@ The Käthe Kollwitz Museum is situated in a contemporary building that harmoniou
 
 Inside, the exhibition spaces are designed to facilitate intimate encounters with the art. Natural light floods the rooms, highlighting the intricate details of Kollwitz's prints and drawings. The minimalist aesthetic allows the powerful themes of her work to take center stage without distraction. 
 
-Notable features of the museum include a dedicated gallery for temporary exhibitions, which often showcase works by contemporary artists inspired by Kollwitz’s legacy. This commitment to ongoing dialogue between past and present enriches the visitor experience, making each visit unique. The museum also often hosts lectures, workshops, and discussions, furthering its role as a cultural hub within Berlin.
+Notable features of the museum include a dedicated gallery for temporary exhibitions, which often showcase works by contemporary artists inspired by Kollwitz's legacy. This commitment to ongoing dialogue between past and present enriches the visitor experience, making each visit unique. The museum also often hosts lectures, workshops, and discussions, furthering its role as a cultural hub within Berlin.
 
 ## Visiting Information
 
@@ -74,7 +74,7 @@ After exploring the Käthe Kollwitz Museum, consider visiting these nearby attra
 
 To make the most of your visit to the Käthe Kollwitz Museum, consider these insider tips. Photography may be restricted in certain areas, so check the rules before snapping any pictures. If you prefer a quieter experience, plan your visit during the weekdays or early morning hours when there are typically fewer visitors. 
 
-Take your time to absorb the emotional weight of Kollwitz’s work; her pieces often reveal layers of meaning that can be appreciated with contemplation. Additionally, inquire about any special events or exhibitions that may be taking place during your visit, as these can enhance your experience and provide further context to her art.
+Take your time to absorb the emotional weight of Kollwitz's work; her pieces often reveal layers of meaning that can be appreciated with contemplation. Additionally, inquire about any special events or exhibitions that may be taking place during your visit, as these can enhance your experience and provide further context to her art.
 
 ## Practical Information
 

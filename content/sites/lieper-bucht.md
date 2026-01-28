@@ -28,7 +28,7 @@ image_srcset:
 
 Lieper Bucht is a captivating bathing area located in the tranquil district of Steglitz-Zehlendorf, Berlin. This beach spot offers a serene escape from the bustling urban environment, attracting both locals and visitors seeking relaxation and recreation. With its picturesque setting and welcoming atmosphere, Lieper Bucht serves as a popular destination during the warmer months, making it an integral part of Berlin's leisure activities. The area is characterized by its clear waters and sandy shores, providing an ideal location for swimming, sunbathing, and social gatherings. 
 
-Situated at coordinates 52.4704 latitude and 13.1959 longitude, Lieper Bucht is easily accessible, inviting those who wish to enjoy a day by the water. Its location within Berlin’s expansive green spaces further enhances its appeal, allowing visitors to connect with nature while enjoying the comforts of the city. Whether you're looking for a peaceful place to unwind or an active venue for summer fun, Lieper Bucht promises a refreshing experience amid the urban landscape.
+Situated at coordinates 52.4704 latitude and 13.1959 longitude, Lieper Bucht is easily accessible, inviting those who wish to enjoy a day by the water. Its location within Berlin's expansive green spaces further enhances its appeal, allowing visitors to connect with nature while enjoying the comforts of the city. Whether you're looking for a peaceful place to unwind or an active venue for summer fun, Lieper Bucht promises a refreshing experience amid the urban landscape.
 
 ## History and Significance
 

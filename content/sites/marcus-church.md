@@ -96,7 +96,7 @@ When visiting Marcus Church, it's helpful to keep a few practical considerations
 A visit to Marcus Church typically takes about an hour, allowing time for exploration and quiet reflection.
 
 ### Is photography allowed?
-Photography is generally permitted outside the church. Inside, it’s best to check for any restrictions or guidelines.
+Photography is generally permitted outside the church. Inside, it's best to check for any restrictions or guidelines.
 
 ### Are there guided tours?
 While specific information on guided tours is not available, checking the official website for any organized events or tours can provide additional context.

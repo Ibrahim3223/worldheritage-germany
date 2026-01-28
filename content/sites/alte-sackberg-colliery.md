@@ -48,7 +48,7 @@ Visitors to the site can expect to encounter various structures that evoke the s
 
 Reaching the Alte Sackberg Colliery is relatively straightforward, given its location in Essen, a city well-connected by public transportation. Visitors can use local buses or trains, making it accessible for those traveling from other parts of Germany or nearby cities. 
 
-Check the official website for current information on visiting hours and ticket prices, as these can vary based on the season and special events. When planning your visit, it’s advisable to set aside a few hours to fully explore the site and engage with the exhibits available. 
+Check the official website for current information on visiting hours and ticket prices, as these can vary based on the season and special events. When planning your visit, it's advisable to set aside a few hours to fully explore the site and engage with the exhibits available. 
 
 The best times to visit are typically during the spring and early autumn when the weather is pleasant, and outdoor activities can be enjoyed alongside indoor exhibitions. Expect a mix of educational displays and opportunities for self-guided exploration, allowing for a flexible experience tailored to individual interests.
 
@@ -70,7 +70,7 @@ Essen is home to several other attractions that complement a visit to the Alte S
 
 For photography enthusiasts, the Alte Sackberg Colliery presents unique opportunities to capture the essence of industrial heritage. Early morning or late afternoon light can enhance the textures and details of the site, adding depth to your images. 
 
-To avoid crowds, consider visiting during weekdays or during off-peak hours, as weekends may attract more visitors. Engaging with staff or guides can enhance your understanding of the site, so don’t hesitate to ask questions.
+To avoid crowds, consider visiting during weekdays or during off-peak hours, as weekends may attract more visitors. Engaging with staff or guides can enhance your understanding of the site, so don't hesitate to ask questions.
 
 ## Practical Information 
 

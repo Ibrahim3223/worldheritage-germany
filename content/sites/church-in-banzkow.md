@@ -115,7 +115,7 @@ For specific accessibility information, please check the official website to ens
 Check the official website for details regarding admission fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms and nearby cafes may be available; it’s best to confirm through the official website or local resources.
+Facilities like restrooms and nearby cafes may be available; it's best to confirm through the official website or local resources.
 
 ### What should I wear?
 Comfortable, respectful clothing is recommended, especially considering the church's sacred environment.

@@ -38,7 +38,7 @@ Orte des Erinnerns is characterized by its minimalist design and thoughtful layo
 
 The memorial incorporates various elements that encourage visitors to engage with its message. While specific architectural details may not be highlighted, the overall design fosters a contemplative atmosphere. The arrangement of space invites visitors to walk through, pause, and reflect on the stories of those who were lost. 
 
-The memorial’s location in a bustling urban area juxtaposes the peacefulness of remembrance with the vibrancy of contemporary life in Berlin. This contrast enhances the memorial’s significance, as it stands as a reminder amidst the city's ever-changing landscape.
+The memorial's location in a bustling urban area juxtaposes the peacefulness of remembrance with the vibrancy of contemporary life in Berlin. This contrast enhances the memorial's significance, as it stands as a reminder amidst the city's ever-changing landscape.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ To enhance your experience at the memorial, consider these insider tips:
 
 - **Photography Tips**: While the memorial invites reflection, be mindful of the atmosphere. Consider taking photos that capture the essence of the site while respecting its solemnity.
 
-- **Crowd Avoidance**: To avoid larger crowds, aim for a visit during weekdays or early mornings. This allows for a more personal experience to engage with the memorial’s significance.
+- **Crowd Avoidance**: To avoid larger crowds, aim for a visit during weekdays or early mornings. This allows for a more personal experience to engage with the memorial's significance.
 
 ## Practical Information
 

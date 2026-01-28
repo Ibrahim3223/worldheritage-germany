@@ -60,10 +60,10 @@ The best times to visit are often during peak travel hours when the station is b
 
 While Zollbahnhof Homburg (Saar) West itself may not be a primary tourist destination, several attractions are within a short distance that can enrich your visit:
 
-1. **Homburg Castle**: A historical site that offers insights into the region’s past and stunning views from its strategic hilltop location.
+1. **Homburg Castle**: A historical site that offers insights into the region's past and stunning views from its strategic hilltop location.
 2. **Schlossgarten Homburg**: A lovely park area perfect for a leisurely stroll or a picnic, showcasing the natural beauty of the region.
 3. **The Homburg Museum**: This museum provides a glimpse into the local history and culture, making it an excellent complement to your visit to the station.
-4. **Ludwigskirche**: An impressive church with notable architecture, contributing to the city’s cultural landscape.
+4. **Ludwigskirche**: An impressive church with notable architecture, contributing to the city's cultural landscape.
 5. **Saarschleife**: A bit further out, this natural feature offers scenic views and opportunities for outdoor activities.
 
 ## Insider Tips

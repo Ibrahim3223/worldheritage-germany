@@ -34,7 +34,7 @@ In addition to its exhibitions, the museum often collaborates with local artists
 
 ## Architecture and Features
 
-Kunststation Viechtach is characterized by its functional yet inviting architectural style, reflecting a modern approach to museum design. The structure is designed to create an open and engaging atmosphere, facilitating the flow of visitors through various exhibition spaces. While detailed architectural features may not be outlined, the museum’s layout encourages exploration and interaction with the artworks on display.
+Kunststation Viechtach is characterized by its functional yet inviting architectural style, reflecting a modern approach to museum design. The structure is designed to create an open and engaging atmosphere, facilitating the flow of visitors through various exhibition spaces. While detailed architectural features may not be outlined, the museum's layout encourages exploration and interaction with the artworks on display.
 
 Inside, the museum typically features well-lit galleries that can accommodate a range of art forms, from traditional paintings to contemporary installations. The design prioritizes the visitor experience, allowing for both intimate encounters with individual pieces and broader perspectives on thematic exhibitions. The adaptable space can be transformed to suit different exhibitions, enhancing the museum's versatility.
 
@@ -56,19 +56,19 @@ After exploring Kunststation Viechtach, consider venturing to some nearby attrac
   
 2. **Bavarian Forest National Park**: A short drive away, this expansive natural reserve offers stunning landscapes, hiking trails, and opportunities for wildlife observation.
   
-3. **St. John’s Church**: A notable historic church in Viechtach that adds cultural depth to your visit with its architectural beauty and community significance.
+3. **St. John's Church**: A notable historic church in Viechtach that adds cultural depth to your visit with its architectural beauty and community significance.
   
 4. **Regental Museum**: Located nearby, this museum showcases the natural history and cultural heritage of the region, providing a broader context for your Bavarian experience.
 
 ## Insider Tips
 
-To make the most of your visit to Kunststation Viechtach, consider bringing a camera to capture your favorite pieces, as photography may be allowed in designated areas. Always check the museum’s policy regarding photography upon arrival. 
+To make the most of your visit to Kunststation Viechtach, consider bringing a camera to capture your favorite pieces, as photography may be allowed in designated areas. Always check the museum's policy regarding photography upon arrival. 
 
 If you prefer a quieter experience, try visiting during the early hours of the day or on weekdays when the museum is less crowded. This will allow you more space to appreciate the artworks and engage with the exhibits.
 
 ## Practical Information
 
-Before heading to Kunststation Viechtach, it’s advisable to bring essentials such as a water bottle and a small notebook or sketchpad if you enjoy jotting down thoughts or ideas inspired by the art. Seasonal considerations may affect your visit; for instance, check the official website for any seasonal events or changes in operating hours.
+Before heading to Kunststation Viechtach, it's advisable to bring essentials such as a water bottle and a small notebook or sketchpad if you enjoy jotting down thoughts or ideas inspired by the art. Seasonal considerations may affect your visit; for instance, check the official website for any seasonal events or changes in operating hours.
 
 Dress comfortably, as you may spend considerable time walking through the galleries. While there may not be specific dress codes, wearing layers can be beneficial, as museum temperatures can vary.
 
@@ -78,7 +78,7 @@ Dress comfortably, as you may spend considerable time walking through the galler
 A visit typically lasts a few hours, allowing ample time to explore exhibitions and participate in any available events.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check upon arrival. Some areas may permit photography, while others might not.
+Photography policies may vary, so it's best to check upon arrival. Some areas may permit photography, while others might not.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be offered depending on current exhibitions.

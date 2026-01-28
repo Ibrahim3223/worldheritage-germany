@@ -64,7 +64,7 @@ While visiting Memorial Wolffenbüttel Prison, there are several nearby attracti
 
 1. **Wolfenbüttel Castle**: A historic castle that offers insights into the region's past and showcases beautiful architecture and gardens.
 
-2. **St. Jacob’s Church**: Known for its impressive woodwork and beautiful stained glass, this church provides a glimpse into the religious heritage of the area.
+2. **St. Jacob's Church**: Known for its impressive woodwork and beautiful stained glass, this church provides a glimpse into the religious heritage of the area.
 
 3. **Lessing House**: The former residence of the playwright Gotthold Ephraim Lessing, it now serves as a museum dedicated to his life and work.
 
@@ -78,7 +78,7 @@ These attractions collectively contribute to a deeper understanding of Wolfenbü
 
 When visiting Memorial Wolffenbüttel Prison, consider bringing a camera to capture the significant architectural features and poignant memorial elements. However, be mindful of any specific regulations regarding photography within the memorial.
 
-To avoid crowds, aim for a visit during weekdays or early in the day, which may allow for a quieter atmosphere, facilitating a more personal reflection on the site’s history and significance.
+To avoid crowds, aim for a visit during weekdays or early in the day, which may allow for a quieter atmosphere, facilitating a more personal reflection on the site's history and significance.
 
 Engaging with the available informational displays and exhibits is highly advisable, as they provide crucial context to the memorial and enhance the overall experience. 
 
@@ -111,7 +111,7 @@ Accessibility information is best verified through the official website to ensur
 Check the official website for information regarding online ticket purchases and any current entry fees.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available onsite, but for cafes or dining options, it’s best to explore the surrounding area.
+Facilities such as restrooms may be available onsite, but for cafes or dining options, it's best to explore the surrounding area.
 
 ### What should I wear?
 Comfortable clothing and footwear are recommended, particularly if you plan to explore the site thoroughly.

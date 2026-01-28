@@ -28,7 +28,7 @@ image_srcset:
 
 St. Jakobi, an architectural marvel located in the heart of Lübeck's Old City, is a church building that encapsulates the historical depth and cultural richness of this northern German city. Recognized as a UNESCO World Heritage site for its well-preserved medieval architecture, Lübeck offers visitors an engaging blend of history, art, and spirituality, with St. Jakobi serving as a centerpiece of this vibrant tapestry. The church stands as a landmark for both locals and travelers, offering a glimpse into the past while continuing to serve its community today.
 
-The city of Lübeck, often referred to as the "Queen of the Hanse," was once a powerful trading hub in the Middle Ages. This significance is reflected in the church’s intricate design and historical relevance, making it a crucial stop for anyone wishing to understand the city’s legacy. Visitors to St. Jakobi can expect not only to marvel at its architectural grandeur but also to immerse themselves in the cultural narratives that have shaped this region over centuries.
+The city of Lübeck, often referred to as the "Queen of the Hanse," was once a powerful trading hub in the Middle Ages. This significance is reflected in the church's intricate design and historical relevance, making it a crucial stop for anyone wishing to understand the city's legacy. Visitors to St. Jakobi can expect not only to marvel at its architectural grandeur but also to immerse themselves in the cultural narratives that have shaped this region over centuries.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ The best times to visit are during the spring and fall when the weather is gener
    
 2. **Lübeck Cathedral**: Another remarkable example of Gothic architecture, this cathedral features a stunning interior and is located close to the Old City center.
 
-3. **The Holstentor**: A symbol of Lübeck, this medieval city gate provides insight into the city’s fortified past and is an iconic landmark worth visiting.
+3. **The Holstentor**: A symbol of Lübeck, this medieval city gate provides insight into the city's fortified past and is an iconic landmark worth visiting.
 
 4. **Buddenbrook House**: A museum dedicated to the famous literary family, the Manns, and their connection to Lübeck, offering a unique cultural perspective.
 

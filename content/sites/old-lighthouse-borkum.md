@@ -70,7 +70,7 @@ During your visit, expect to encounter educational exhibits that detail the hist
 
 3. **Wadden Sea National Park**: A UNESCO World Heritage site, this national park is home to unique ecosystems and offers opportunities for guided tours, showcasing the rich biodiversity of the area.
 
-4. **Borkum Windmill**: This historic windmill, located nearby, is a charming representation of traditional island architecture and serves as a reminder of the island’s agricultural past.
+4. **Borkum Windmill**: This historic windmill, located nearby, is a charming representation of traditional island architecture and serves as a reminder of the island's agricultural past.
 
 5. **Local Museums**: Several cultural institutions on Borkum delve into the island's history, showcasing artifacts and exhibits that highlight its maritime heritage and natural environment.
 

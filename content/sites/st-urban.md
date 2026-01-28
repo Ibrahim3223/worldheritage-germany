@@ -78,7 +78,7 @@ Information regarding guided tours may be available on the official website, so 
 Early mornings or weekdays are ideal for a quieter experience, while weekends may be busier due to services and community events.
 
 ### Is it wheelchair accessible?
-Accessibility features may not be specified, so it’s best to verify with the church regarding wheelchair access.
+Accessibility features may not be specified, so it's best to verify with the church regarding wheelchair access.
 
 ### Can I buy tickets online?
 For current information on ticket availability and purchasing options, check the official website.

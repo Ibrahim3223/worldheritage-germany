@@ -50,7 +50,7 @@ The surrounding environment is conducive to a variety of outdoor activities, inc
 
 ## Visiting Information
 
-Reaching Der Zansen is relatively straightforward, with access via regional transport networks. Visitors typically arrive by car or public transportation, with clear signs directing them to the lake. It’s advisable to check the official website for current information regarding access routes and any specific guidelines for visitors.
+Reaching Der Zansen is relatively straightforward, with access via regional transport networks. Visitors typically arrive by car or public transportation, with clear signs directing them to the lake. It's advisable to check the official website for current information regarding access routes and any specific guidelines for visitors.
 
 When planning a visit, consider the best times to enjoy the lake. Early mornings and late afternoons can provide a quieter experience, ideal for birdwatching or photography. The area is suitable for day trips, with many visitors spending a few hours to a full day enjoying the scenery and engaging in recreational activities.
 

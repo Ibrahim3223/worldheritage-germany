@@ -30,7 +30,7 @@ The history of Kirschallee 1 reflects the educational and civic evolution of Wal
 
 The significance of Kirschallee 1 extends beyond its architectural features; it embodies the cultural heritage of the region and the commitment of its residents to maintain and repurpose community spaces. The transition from school to city hall illustrates the broader trends in urban development, where historic buildings are often reimagined to serve modern functions, thereby preserving the past while meeting current demands.
 
-As a former school, the building likely hosted numerous educational initiatives, community events, and local gatherings over its lifetime. The educational legacy is an important aspect of the community’s identity, fostering a sense of continuity and connection among residents. Kirschallee 1 stands as a reminder of the importance of civic spaces in facilitating community interaction and governance.
+As a former school, the building likely hosted numerous educational initiatives, community events, and local gatherings over its lifetime. The educational legacy is an important aspect of the community's identity, fostering a sense of continuity and connection among residents. Kirschallee 1 stands as a reminder of the importance of civic spaces in facilitating community interaction and governance.
 
 ## Architecture and Features
 
@@ -88,7 +88,7 @@ When planning your visit to Kirschallee 1, here are some practical consideration
 Typically, a visit to Kirschallee 1 can take around one to two hours, depending on your interest in exploring the building and its functions.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s advisable to inquire upon arrival or check for any signs regarding restrictions.
+Photography policies may vary, so it's advisable to inquire upon arrival or check for any signs regarding restrictions.
 
 ### Are there guided tours?
 Information regarding guided tours is not specified. Check the official website for details on any available tours or programs.

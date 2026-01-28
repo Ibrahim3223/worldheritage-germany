@@ -101,7 +101,7 @@ Accessibility may vary; check the official website for specific information rega
 Check the official website for current information on ticketing and access fees.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to plan accordingly and bring necessary supplies.
+Facilities may be limited; it's advisable to plan accordingly and bring necessary supplies.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear suitable for walking or hiking are recommended for your visit.

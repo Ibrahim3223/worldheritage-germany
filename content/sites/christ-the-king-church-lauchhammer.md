@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Christ-the-King Church in Lauchhammer, located in the Oberspreewald district of Brandenburg, Germany, invites visitors to explore its architectural elegance and cultural significance. This church serves not only as a place of worship but also as a historical landmark that reflects the community's values and heritage. The church’s location in the heart of Lauchhammer, a town known for its rich industrial history, enhances its significance as a spiritual and communal gathering point. 
+The Christ-the-King Church in Lauchhammer, located in the Oberspreewald district of Brandenburg, Germany, invites visitors to explore its architectural elegance and cultural significance. This church serves not only as a place of worship but also as a historical landmark that reflects the community's values and heritage. The church's location in the heart of Lauchhammer, a town known for its rich industrial history, enhances its significance as a spiritual and communal gathering point. 
 
 The church represents a blend of faith and community spirit, making it a key destination for both locals and travelers seeking to understand the essence of this region. Visitors can expect a serene environment conducive to reflection and appreciation of architectural beauty. The church is a testament to the role of religious structures in shaping the cultural landscape of small towns in Germany.
 

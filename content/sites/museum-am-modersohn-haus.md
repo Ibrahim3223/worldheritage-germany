@@ -36,7 +36,7 @@ Throughout the years, the museum has curated various exhibitions that highlight 
 
 ## Architecture and Features
 
-The architecture of the Museum am Modersohn-Haus reflects the simplicity and functionality characteristic of the artists’ colony. The building itself, a former residence, exudes a charm that complements the artistic spirit of the region. Visitors will find that the structure retains many original features that enhance its historical significance.
+The architecture of the Museum am Modersohn-Haus reflects the simplicity and functionality characteristic of the artists' colony. The building itself, a former residence, exudes a charm that complements the artistic spirit of the region. Visitors will find that the structure retains many original features that enhance its historical significance.
 
 Inside, the museum is thoughtfully designed to facilitate the flow of exhibitions and the viewing experience. The layout allows for an engaging display of artworks, with spacious galleries that showcase both permanent collections and temporary exhibitions. The natural light that filters through the windows creates an inviting atmosphere, further enhancing the visual experience.
 
@@ -48,7 +48,7 @@ Visiting the Museum am Modersohn-Haus offers an enriching opportunity to explore
 
 Transportation options to the museum are accessible for tourists traveling from nearby cities. Check the official website for current information regarding hours and prices, as these can vary throughout the year. Depending on your interests, you may want to allocate a few hours to fully appreciate the exhibitions and engage with the museum's offerings.
 
-The best times to visit the museum can vary; however, weekdays tend to be less crowded, allowing for a more intimate experience with the artworks. If you’re interested in special exhibitions or events, be sure to check the museum’s schedule, as they often host unique programs that enhance the visitor experience.
+The best times to visit the museum can vary; however, weekdays tend to be less crowded, allowing for a more intimate experience with the artworks. If you're interested in special exhibitions or events, be sure to check the museum's schedule, as they often host unique programs that enhance the visitor experience.
 
 Expect to find a variety of resources on-site, including informational brochures and staff who are knowledgeable about the exhibitions. For those who wish to delve deeper, guided tours may be available, providing insights into the artworks and the history of the artist colony.
 
@@ -67,7 +67,7 @@ These nearby attractions enhance the cultural landscape of Worpswede, making it 
 
 To make the most of your visit to the Museum am Modersohn-Haus, consider these insider tips:
 
-- **Photography**: While many museums allow photography, it’s advisable to check the specific rules at the Museum am Modersohn-Haus to ensure you respect their policies.
+- **Photography**: While many museums allow photography, it's advisable to check the specific rules at the Museum am Modersohn-Haus to ensure you respect their policies.
 - **Crowd Avoidance**: If you prefer a quieter experience, plan your visit during weekdays or early in the morning. This can provide a more intimate setting to enjoy the artworks without the distraction of large crowds.
 - **Guided Tours**: If available, consider joining a guided tour for a deeper understanding of the artworks and the historical context of the artist colony.
 
@@ -84,7 +84,7 @@ When planning your visit to the Museum am Modersohn-Haus, here are some practica
 Most visitors find that spending around two to three hours at the Museum am Modersohn-Haus is sufficient to explore the exhibitions and appreciate the artworks.
 
 ### Is photography allowed?
-Photography policies can vary by exhibition. It’s best to check with museum staff upon your arrival regarding specific rules.
+Photography policies can vary by exhibition. It's best to check with museum staff upon your arrival regarding specific rules.
 
 ### Are there guided tours?
 Guided tours may be available at certain times. Check the official website to find out about scheduling and availability.
@@ -99,7 +99,7 @@ For information on accessibility options, including wheelchair access, check the
 It's advisable to check the official website for ticket purchasing options and to ensure a smooth entry during your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are often available, but it’s best to confirm current amenities on the official website prior to your visit.
+Facilities such as restrooms and cafes are often available, but it's best to confirm current amenities on the official website prior to your visit.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season, especially if you plan to explore the outdoor areas surrounding the museum.

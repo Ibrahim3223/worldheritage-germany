@@ -72,7 +72,7 @@ When visiting the Philatelic Library Hamburg, consider these insider tips to enh
 
 - **Crowd Avoidance**: To enjoy a quieter visit, try to arrive early in the morning or during weekday afternoons when foot traffic is generally lower.
 
-- **Engagement**: Don’t hesitate to ask staff for assistance or recommendations on specific topics related to philately, as they are knowledgeable and can provide valuable insights.
+- **Engagement**: Don't hesitate to ask staff for assistance or recommendations on specific topics related to philately, as they are knowledgeable and can provide valuable insights.
 
 ## Practical Information
 

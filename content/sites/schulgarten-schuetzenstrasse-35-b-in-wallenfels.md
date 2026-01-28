@@ -65,9 +65,9 @@ If you plan to explore the garden thoroughly, wear comfortable shoes suitable fo
 
 ## Practical Information
 
-When heading to the Schulgarten, it’s advisable to bring along essentials such as water, sunscreen, and possibly a light jacket, as weather conditions in Bavaria can be unpredictable. Depending on the season, visitors may encounter various flora, so consider checking seasonal calendars to enhance your experience.
+When heading to the Schulgarten, it's advisable to bring along essentials such as water, sunscreen, and possibly a light jacket, as weather conditions in Bavaria can be unpredictable. Depending on the season, visitors may encounter various flora, so consider checking seasonal calendars to enhance your experience.
 
-The garden’s tranquil environment makes it suitable for visitors of all ages, and seasonal considerations may influence the types of plants and activities available. Be sure to check the official website for any seasonal events or specific recommendations related to your visit.
+The garden's tranquil environment makes it suitable for visitors of all ages, and seasonal considerations may influence the types of plants and activities available. Be sure to check the official website for any seasonal events or specific recommendations related to your visit.
 
 ## Frequently Asked Questions
 

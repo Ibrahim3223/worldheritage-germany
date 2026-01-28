@@ -68,7 +68,7 @@ While visiting Museum Schnepfenthal, you may want to explore additional attracti
 
 1. **Waltershausen Town Center**: A vibrant area filled with shops, cafes, and local markets, perfect for a leisurely stroll after your museum visit.
 2. **Local Parks**: The surrounding parks offer scenic areas for relaxation and outdoor activities, ideal for enjoying the natural beauty of the region.
-3. **Historical Sites**: Nearby historical landmarks may provide additional context to the exhibits at the museum, offering a deeper understanding of the area’s past.
+3. **Historical Sites**: Nearby historical landmarks may provide additional context to the exhibits at the museum, offering a deeper understanding of the area's past.
 4. **Cafes and Restaurants**: A selection of local eateries can be found in close proximity, providing opportunities to sample regional cuisine and refresh after your museum visit.
 
 These nearby attractions complement your visit to Museum Schnepfenthal, allowing you to immerse yourself in the cultural and historical richness of the region.
@@ -79,7 +79,7 @@ To enhance your visit to Museum Schnepfenthal, consider these insider tips:
 
 - **Photography**: If you're keen on capturing memories, check the museum's photography policy, as some exhibits may have restrictions.
 - **Timing Your Visit**: To avoid crowds, consider visiting during weekday mornings or later in the afternoon. This may provide a more personal experience as you explore the exhibits.
-- **Engage with Staff**: Museum staff members are often knowledgeable about the exhibits and local history, so don’t hesitate to ask questions or seek recommendations for other attractions in the area.
+- **Engage with Staff**: Museum staff members are often knowledgeable about the exhibits and local history, so don't hesitate to ask questions or seek recommendations for other attractions in the area.
 
 Planning your visit with these tips in mind can help you make the most of your time at Museum Schnepfenthal and ensure a memorable experience.
 

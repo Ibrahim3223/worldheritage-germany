@@ -76,7 +76,7 @@ While visiting St. Johannes Baptist und Johannes Evangelist, consider exploring 
 
 5. **Nature Trails**: For those who enjoy the outdoors, consider hiking or walking trails that lead to picturesque landscapes surrounding Neuburg an der Kammel.
 
-These attractions enhance your visit to St. Johannes Baptist und Johannes Evangelist, providing a comprehensive experience of the area’s heritage and culture.
+These attractions enhance your visit to St. Johannes Baptist und Johannes Evangelist, providing a comprehensive experience of the area's heritage and culture.
 
 ## Insider Tips
 

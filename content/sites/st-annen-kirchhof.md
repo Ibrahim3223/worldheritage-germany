@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-St. Annen-Kirchhof is a notable cemetery located in the Steglitz-Zehlendorf district of Berlin, Germany. With its historical significance and serene environment, this site serves as a poignant reminder of the city’s rich cultural heritage. As a resting place for many prominent individuals, it offers visitors a chance to reflect on the lives and legacies of those who shaped the region. The cemetery is characterized by its peaceful ambiance and the intricate artistry found in its gravestones and memorials, making it a unique stop for those interested in Berlin's history and architecture.
+St. Annen-Kirchhof is a notable cemetery located in the Steglitz-Zehlendorf district of Berlin, Germany. With its historical significance and serene environment, this site serves as a poignant reminder of the city's rich cultural heritage. As a resting place for many prominent individuals, it offers visitors a chance to reflect on the lives and legacies of those who shaped the region. The cemetery is characterized by its peaceful ambiance and the intricate artistry found in its gravestones and memorials, making it a unique stop for those interested in Berlin's history and architecture.
 
 Positioned within a vibrant urban setting, St. Annen-Kirchhof stands out not only as a burial ground but also as a place of quiet contemplation amidst the bustling city. Visitors are often drawn to the cemetery for its tranquil atmosphere, where they can stroll through pathways lined with historical monuments and lush greenery. This cemetery invites a deeper understanding of the societal values and historical narratives that have influenced Berlin over time. 
 
 ## History and Significance
 
-While specific dates regarding the establishment of St. Annen-Kirchhof are not detailed, the cemetery reflects a significant aspect of Berlin's cultural landscape. This site has served as a burial ground for many notable figures, contributing to its importance within the city. The presence of graves belonging to influential individuals speaks to the cemetery’s role in commemorating those who have made lasting contributions to various fields such as politics, arts, and sciences.
+While specific dates regarding the establishment of St. Annen-Kirchhof are not detailed, the cemetery reflects a significant aspect of Berlin's cultural landscape. This site has served as a burial ground for many notable figures, contributing to its importance within the city. The presence of graves belonging to influential individuals speaks to the cemetery's role in commemorating those who have made lasting contributions to various fields such as politics, arts, and sciences.
 
 Cemeteries historically serve more than just a final resting place; they reflect the societal values and historical narratives of their time. St. Annen-Kirchhof is a witness to the evolving cultural identity of Berlin, providing insights into the lives of its inhabitants across different eras. The memorials found within its boundaries often tell stories of personal and collective struggles, triumphs, and the human experience in a city that has undergone significant transformation.
 

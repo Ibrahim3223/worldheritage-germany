@@ -70,7 +70,7 @@ Visitors can expect to find a site that is both educational and serene, with opp
 
 For photography enthusiasts, the Heidetrank Oppidum presents numerous opportunities to capture the beauty of the archaeological remains and the surrounding landscape. Early morning light can enhance the features of the site, making for striking images. To avoid crowds, consider visiting during weekdays or outside of peak tourist seasons.
 
-It may be beneficial to bring a camera with a zoom lens to capture details of the artifacts and structures without intruding on other visitors’ experiences. Additionally, wearing comfortable shoes is recommended, as some areas may require walking on uneven terrain.
+It may be beneficial to bring a camera with a zoom lens to capture details of the artifacts and structures without intruding on other visitors' experiences. Additionally, wearing comfortable shoes is recommended, as some areas may require walking on uneven terrain.
 
 ## Practical Information
 

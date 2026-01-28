@@ -70,7 +70,7 @@ Husen Castle is situated in close proximity to several other notable attractions
 
 ## Insider Tips
 
-When photographing Husen Castle, consider visiting during the early morning or late afternoon to capture the best natural light. Aim for angles that highlight the castle’s architectural features against the backdrop of the surrounding landscape.
+When photographing Husen Castle, consider visiting during the early morning or late afternoon to capture the best natural light. Aim for angles that highlight the castle's architectural features against the backdrop of the surrounding landscape.
 
 To avoid crowds, try to schedule your visit on weekdays, as weekends may attract more visitors. Additionally, check for any special events or festivals that could coincide with your visit, as these may enhance your experience but also lead to larger crowds.
 

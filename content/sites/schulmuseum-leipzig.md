@@ -42,13 +42,13 @@ Cultural importance is also a key theme within the museum, as education has alwa
 
 The architecture of Schulmuseum Leipzig reflects the historical context of its purpose. The building itself is designed to accommodate a variety of exhibits and educational programs, with spaces that encourage exploration and engagement. While specific architectural details are not provided, the layout is likely organized to facilitate an immersive experience, allowing visitors to navigate through different sections that showcase various aspects of educational history.
 
-Inside the museum, visitors can expect a thoughtfully curated environment filled with historical artifacts, educational tools, and multimedia exhibits. Notable features may include interactive displays that engage younger audiences, as well as collections showcasing historical teaching materials, classroom settings, and pedagogical innovations throughout the years. The museum’s design and exhibit arrangement aim to foster an understanding of the continuity and change within education.
+Inside the museum, visitors can expect a thoughtfully curated environment filled with historical artifacts, educational tools, and multimedia exhibits. Notable features may include interactive displays that engage younger audiences, as well as collections showcasing historical teaching materials, classroom settings, and pedagogical innovations throughout the years. The museum's design and exhibit arrangement aim to foster an understanding of the continuity and change within education.
 
 ## Visiting Information
 
 Visiting Schulmuseum Leipzig is a straightforward experience, with various transport options available to reach this cultural site. The museum is situated in a region that is easily accessible by public transportation, making it convenient for both locals and tourists. Additionally, the surrounding area likely offers amenities that cater to visitors.
 
-For the most accurate and up-to-date information regarding opening hours and ticket prices, it’s advisable to check the official website before planning your visit. The duration of a visit can vary depending on individual interests, but a couple of hours should suffice to explore the primary exhibits. 
+For the most accurate and up-to-date information regarding opening hours and ticket prices, it's advisable to check the official website before planning your visit. The duration of a visit can vary depending on individual interests, but a couple of hours should suffice to explore the primary exhibits. 
 
 The best times to visit Schulmuseum Leipzig may coincide with weekdays when the museum is less crowded, allowing for a more leisurely exploration of the exhibits.
 
@@ -89,7 +89,7 @@ Check the official website for information regarding guided tours and special pr
 Weekday mornings are often less crowded, providing a more relaxed experience.
 
 ### Is it wheelchair accessible?
-For accessibility information, check the museum’s official website or contact them directly.
+For accessibility information, check the museum's official website or contact them directly.
 
 ### Can I buy tickets online?
 Ticket purchasing options are available on the official website, so check there for current information.

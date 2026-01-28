@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Bergkloster Bestwig is a serene monastery located in the picturesque region of Bestwig, Germany. This tranquil site serves as the convent for the Sisters of Saint Mary Magdalene Postel, an order dedicated to education and social welfare. The monastery’s calm and contemplative atmosphere offers visitors a respite from the hustle and bustle of modern life, inviting exploration of its rich heritage and spiritual significance. 
+Bergkloster Bestwig is a serene monastery located in the picturesque region of Bestwig, Germany. This tranquil site serves as the convent for the Sisters of Saint Mary Magdalene Postel, an order dedicated to education and social welfare. The monastery's calm and contemplative atmosphere offers visitors a respite from the hustle and bustle of modern life, inviting exploration of its rich heritage and spiritual significance. 
 
 As you approach the monastery, you are greeted by the lush greenery that surrounds the area, providing an ideal backdrop for reflection and inspiration. Bergkloster Bestwig is not only a center for spiritual growth but also a cultural landmark that embodies the values of community service and dedication. The history and architecture of the monastery will captivate those interested in religious heritage, making it a noteworthy stop on any cultural itinerary in Germany.
 

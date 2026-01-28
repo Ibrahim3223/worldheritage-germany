@@ -36,13 +36,13 @@ The Goethe Stone serves as a memorial to one of Germany's most celebrated figure
 
 Goethe's influence extended beyond literature into philosophy, art, and science, making him an integral part of the cultural fabric of Germany. His works, including "Faust," "The Sorrows of Young Werther," and numerous poems, have left an indelible mark on the literary world and continue to inspire countless readers and writers. 
 
-The Goethe Stone acts as a reminder of this legacy, inviting visitors to reflect on the themes of love, nature, and the human experience that permeate Goethe's writings. In a broader cultural context, the monument symbolizes the importance of literature and the arts in shaping societal values and identity. It serves as a gathering place for those who appreciate Goethe’s work and a point of interest for anyone wishing to engage with Germany's literary history.
+The Goethe Stone acts as a reminder of this legacy, inviting visitors to reflect on the themes of love, nature, and the human experience that permeate Goethe's writings. In a broader cultural context, the monument symbolizes the importance of literature and the arts in shaping societal values and identity. It serves as a gathering place for those who appreciate Goethe's work and a point of interest for anyone wishing to engage with Germany's literary history.
 
 ## Architecture and Features
 
 The Goethe Stone is characterized by its thoughtful design and construction, reflecting the solemnity of its purpose as a memorial. While specific architectural details are not provided, monuments of this nature typically feature inscriptions and artistic elements that convey the significance of the individual being honored. The stone itself is a substantial structure, designed to provide an imposing yet respectful presence in the landscape.
 
-Visitors can expect to find inscriptions that may include quotes from Goethe's works, paying homage to his literary genius. The monument is often surrounded by landscaped areas that encourage contemplation and provide a serene atmosphere for reflection. The choice of location within Wiesbaden is intentional, as it offers a peaceful environment conducive to appreciating Goethe’s contributions while also enjoying the beauty of the surrounding area.
+Visitors can expect to find inscriptions that may include quotes from Goethe's works, paying homage to his literary genius. The monument is often surrounded by landscaped areas that encourage contemplation and provide a serene atmosphere for reflection. The choice of location within Wiesbaden is intentional, as it offers a peaceful environment conducive to appreciating Goethe's contributions while also enjoying the beauty of the surrounding area.
 
 ## Visiting Information
 

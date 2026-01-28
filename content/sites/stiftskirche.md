@@ -95,7 +95,7 @@ A visit to Stiftskirche typically takes about one to two hours, allowing time fo
 Photography policies may vary; check with the church for specific guidelines regarding photography inside the building.
 
 ### Are there guided tours?
-While specific information on guided tours is not provided, it’s advisable to inquire upon arrival or check the official website for any available options.
+While specific information on guided tours is not provided, it's advisable to inquire upon arrival or check the official website for any available options.
 
 ### What's the best time to visit?
 Weekdays or early mornings are generally recommended to avoid crowds and enjoy a more peaceful atmosphere.
@@ -107,9 +107,9 @@ Accessibility information is not specified; it is best to contact the church dir
 Information regarding online ticket purchases is not available; check the official website for current details.
 
 ### Are there restrooms and cafes?
-While specific facilities are not mentioned, it’s advisable to explore nearby options in Baden-Baden for dining and restrooms.
+While specific facilities are not mentioned, it's advisable to explore nearby options in Baden-Baden for dining and restrooms.
 
 ### What should I wear?
 Dress modestly, as Stiftskirche is a place of worship. Comfortable clothing and shoes are advisable for exploring the church and surrounding sites. 
 
-A visit to Stiftskirche in Baden-Baden provides a unique opportunity to engage with the region’s cultural and religious heritage, offering a moment of peace and reflection amidst the beauty of this historic church.
+A visit to Stiftskirche in Baden-Baden provides a unique opportunity to engage with the region's cultural and religious heritage, offering a moment of peace and reflection amidst the beauty of this historic church.

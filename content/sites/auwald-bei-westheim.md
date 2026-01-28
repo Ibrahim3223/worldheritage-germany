@@ -72,7 +72,7 @@ Auwald bei Westheim is surrounded by several noteworthy attractions that can com
 
 For those planning a visit to Auwald bei Westheim, here are some insider tips to enhance your experience:
 
-- **Photography**: Bring your camera or smartphone to capture the stunning natural landscapes. Early morning or late afternoon can provide the best natural light for photographing the reserve’s flora and fauna.
+- **Photography**: Bring your camera or smartphone to capture the stunning natural landscapes. Early morning or late afternoon can provide the best natural light for photographing the reserve's flora and fauna.
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting during weekdays or early in the morning. This will allow for a more peaceful exploration of the area.
 

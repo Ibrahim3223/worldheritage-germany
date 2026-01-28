@@ -64,7 +64,7 @@ While at the monument, guests can expect to find informational plaques that prov
 
 2. **Mathematikum**: Located nearby, this interactive mathematics museum invites visitors of all ages to engage with the wonders of math through hands-on exhibits and activities.
 
-3. **St. Bonifatius Church**: This historic church in Giessen features stunning architecture and provides a glimpse into the city’s spiritual heritage.
+3. **St. Bonifatius Church**: This historic church in Giessen features stunning architecture and provides a glimpse into the city's spiritual heritage.
 
 4. **Giessen University**: As one of Germany's oldest universities, it is worth exploring the campus and its historical buildings, reflecting the academic environment that shaped the likes of Justus von Liebig.
 

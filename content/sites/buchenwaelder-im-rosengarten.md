@@ -107,7 +107,7 @@ While specific guided tours may not be mentioned, check the official website for
 Spring and autumn are often considered the best times due to the vibrant colors and changing foliage.
 
 ### Is it wheelchair accessible?
-Specific accessibility features may not be detailed here; it’s best to check the official website for comprehensive information.
+Specific accessibility features may not be detailed here; it's best to check the official website for comprehensive information.
 
 ### Can I buy tickets online?
 Details regarding ticket purchases can be confirmed on the official website.

@@ -83,13 +83,13 @@ Check the official website for information on guided tours, as availability may 
 Visiting during weekdays or in the early morning or late afternoon can provide a more peaceful experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary; it’s best to check the official website for specific details regarding wheelchair access.
+Accessibility information may vary; it's best to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and current pricing.
 
 ### Are there restrooms and cafes?
-Facilities may be limited on-site, so it’s advisable to check the official website for details about restrooms and nearby cafés.
+Facilities may be limited on-site, so it's advisable to check the official website for details about restrooms and nearby cafés.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, especially if you plan to explore the fortification thoroughly.

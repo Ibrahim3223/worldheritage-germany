@@ -86,7 +86,7 @@ When planning your visit to St. Eugenius, consider bringing along a few essentia
 A visit to St. Eugenius typically requires about 30 minutes to an hour, depending on your level of interest in exploring the architecture and surroundings.
 
 ### Is photography allowed?
-Photography policies may vary; it’s best to check for any signs or guidelines upon arrival, especially during services.
+Photography policies may vary; it's best to check for any signs or guidelines upon arrival, especially during services.
 
 ### Are there guided tours?
 Information about guided tours may be available on the official website; checking in advance can provide options for a more in-depth experience.
@@ -95,10 +95,10 @@ Information about guided tours may be available on the official website; checkin
 Weekdays or early mornings are generally quieter. However, if you wish to participate in a service, check the church schedule for specific times.
 
 ### Is it wheelchair accessible?
-Accessibility features are not detailed, so it’s advisable to check the official website for current information on facilities.
+Accessibility features are not detailed, so it's advisable to check the official website for current information on facilities.
 
 ### Can I buy tickets online?
-Information regarding ticket purchases may be available on the official website; it’s best to check in advance for convenience.
+Information regarding ticket purchases may be available on the official website; it's best to check in advance for convenience.
 
 ### Are there restrooms and cafes?
 Details about amenities like restrooms or nearby cafes are not specified; exploring the surrounding area may yield options for refreshments.

@@ -40,9 +40,9 @@ Today, Burg Leofels stands as a reminder of the architectural prowess and the fe
 
 ## Architecture and Features
 
-Burg Leofels showcases traditional medieval architecture, characterized by robust stone constructions and strategic layouts designed for defense. The castle’s design likely includes elements typical of the period, such as a fortified wall, towers, and an inner courtyard. These features not only served practical purposes but also conveyed the grandeur expected of a noble residence.
+Burg Leofels showcases traditional medieval architecture, characterized by robust stone constructions and strategic layouts designed for defense. The castle's design likely includes elements typical of the period, such as a fortified wall, towers, and an inner courtyard. These features not only served practical purposes but also conveyed the grandeur expected of a noble residence.
 
-The castle's exterior is marked by its sturdy walls, which would have been essential for protection against invaders. The imposing towers, often a focal point in castle design, would provide vantage points for surveillance and defense. While specific architectural details of Burg Leofels are not available, one can anticipate a blend of functionality and aesthetics typical of the era’s fortifications.
+The castle's exterior is marked by its sturdy walls, which would have been essential for protection against invaders. The imposing towers, often a focal point in castle design, would provide vantage points for surveillance and defense. While specific architectural details of Burg Leofels are not available, one can anticipate a blend of functionality and aesthetics typical of the era's fortifications.
 
 Inside, the layout would typically include living quarters, storage rooms, and perhaps a chapel, reflecting the multifaceted life of its inhabitants. The castle would have been designed to accommodate both the daily activities of its residents and the ceremonial functions befitting a noble household. Visitors can expect to see remnants of this historical functionality, offering a glimpse into the life that once thrived within these walls.
 

@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during the week rather than on weekends, when
 
 ## Practical Information
 
-When planning your visit to Stummsche Kapelle, it’s essential to consider what to bring along. Comfortable footwear is advisable, especially if you intend to explore surrounding areas or participate in any local trails. Additionally, a water bottle can be handy, particularly during warmer months when you might spend more time outdoors.
+When planning your visit to Stummsche Kapelle, it's essential to consider what to bring along. Comfortable footwear is advisable, especially if you intend to explore surrounding areas or participate in any local trails. Additionally, a water bottle can be handy, particularly during warmer months when you might spend more time outdoors.
 
 Seasonal considerations are also important; if you're visiting in winter, be prepared for colder temperatures and potentially snowy conditions. In contrast, summer visits may call for lighter clothing and sun protection. Always check the official website for any seasonal events that may enhance your experience.
 

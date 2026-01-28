@@ -44,13 +44,13 @@ Inside the center, visitors can expect to find spacious enclosures that prioriti
 
 In addition to the animal enclosures, the center likely features educational exhibits that inform visitors about the various primate species, their habitats, and the ongoing research initiatives. These displays serve to enhance the educational experience, allowing guests to engage with the material in a meaningful way. Interactive elements may also be included to encourage participation and learning among visitors of all ages.
 
-The center’s commitment to research and education is evident in its layout, which is designed to facilitate easy access for both researchers and the public. This integration of research with visitor experience sets the Wolfgang-Köhler-Primaten-Forschungszentrum apart as a leading institution in the field of primate studies.
+The center's commitment to research and education is evident in its layout, which is designed to facilitate easy access for both researchers and the public. This integration of research with visitor experience sets the Wolfgang-Köhler-Primaten-Forschungszentrum apart as a leading institution in the field of primate studies.
 
 ## Visiting Information
 
 For those planning a visit to the Wolfgang-Köhler-Primaten-Forschungszentrum, it is advisable to check the official website for current information regarding hours of operation and admission prices. As a popular destination, especially during peak tourist seasons, planning can enhance your experience and ensure you make the most of your visit.
 
-Reaching the center is relatively straightforward, with various transport options available in Leipzig. Public transportation, including buses and trams, provides convenient access for visitors. If you prefer to drive, parking facilities may be provided, although it’s best to confirm this detail ahead of time.
+Reaching the center is relatively straightforward, with various transport options available in Leipzig. Public transportation, including buses and trams, provides convenient access for visitors. If you prefer to drive, parking facilities may be provided, although it's best to confirm this detail ahead of time.
 
 The center usually offers a range of experiences, from self-guided tours to potential educational programs. Visitors can expect to spend a few hours exploring the exhibits and watching the primates in their habitats. For an enriched experience, consider participating in any scheduled talks or presentations, which can offer deeper insights into the research being conducted.
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays or early in the day, as weeke
 
 ## Practical Information
 
-When visiting the Wolfgang-Köhler-Primaten-Forschungszentrum, it’s advisable to bring comfortable walking shoes, as the center may require a fair amount of walking. Dress in layers, as indoor and outdoor temperatures can vary significantly. 
+When visiting the Wolfgang-Köhler-Primaten-Forschungszentrum, it's advisable to bring comfortable walking shoes, as the center may require a fair amount of walking. Dress in layers, as indoor and outdoor temperatures can vary significantly. 
 
 Additionally, consider bringing a refillable water bottle to stay hydrated during your visit. Seasonal considerations may also play a role in your experience—summer visits can be warm, while winter months may require warmer clothing for outdoor areas.
 
@@ -99,7 +99,7 @@ Accessibility options are typically available, but checking the official website
 Visit the official website for information on online ticket purchasing options to streamline your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms and cafes are generally available, but it’s wise to confirm their locations upon arrival.
+Facilities such as restrooms and cafes are generally available, but it's wise to confirm their locations upon arrival.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, with layers to adapt to changing temperatures indoors and outdoors.

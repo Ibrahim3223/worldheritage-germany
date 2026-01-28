@@ -44,7 +44,7 @@ Rathaus Beelitz presents a blend of functional design and architectural charm, c
 
 The façade of Rathaus Beelitz likely showcases features that are common in civic architecture, such as large windows to promote transparency, and a prominent entrance that welcomes citizens. Inside, one can expect to find spaces designed for public meetings and administrative functions, reflecting both accessibility and functionality.
 
-The building's design may also incorporate elements that resonate with the local heritage, possibly using materials and styles that reflect the area’s historical context. Such architectural choices not only serve practical purposes but also communicate a sense of place and identity.
+The building's design may also incorporate elements that resonate with the local heritage, possibly using materials and styles that reflect the area's historical context. Such architectural choices not only serve practical purposes but also communicate a sense of place and identity.
 
 ## Visiting Information
 
@@ -52,13 +52,13 @@ Visiting Rathaus Beelitz offers an opportunity to engage with local governance a
 
 Public transport options are available, making it convenient to reach the city hall. Visitors can anticipate a welcoming environment where they can observe the workings of municipal administration. The time needed to explore the site may vary, but a brief visit could range from thirty minutes to an hour, depending on one's interest in local governance and architecture.
 
-The best times to visit may align with local events or community gatherings, providing a richer experience of the building's role in civic life. Engaging with staff or attending public meetings can enhance understanding and appreciation for the building’s significance.
+The best times to visit may align with local events or community gatherings, providing a richer experience of the building's role in civic life. Engaging with staff or attending public meetings can enhance understanding and appreciation for the building's significance.
 
 ## Nearby Attractions
 
 When visiting Rathaus Beelitz, consider exploring these nearby attractions to enrich your experience:
 
-1. **Beelitz-Heilstätten**: This historical sanatorium complex is famous for its stunning architecture and rich history. It provides insights into Germany’s healthcare practices and architectural trends of the past.
+1. **Beelitz-Heilstätten**: This historical sanatorium complex is famous for its stunning architecture and rich history. It provides insights into Germany's healthcare practices and architectural trends of the past.
    
 2. **St. Mary's Church**: An architectural landmark in Beelitz, this church showcases beautiful design and offers insight into the town's religious heritage.
 
@@ -70,7 +70,7 @@ When visiting Rathaus Beelitz, consider exploring these nearby attractions to en
 
 ## Insider Tips
 
-For those keen on capturing the essence of Rathaus Beelitz through photography, early morning or late afternoon can provide the best natural light. The building’s facade may look particularly striking during these times, with softer lighting enhancing its architectural features.
+For those keen on capturing the essence of Rathaus Beelitz through photography, early morning or late afternoon can provide the best natural light. The building's facade may look particularly striking during these times, with softer lighting enhancing its architectural features.
 
 To avoid crowds, consider visiting during weekdays, particularly in the early morning hours. This timing can also provide opportunities to engage with local government activities and possibly meet community leaders.
 

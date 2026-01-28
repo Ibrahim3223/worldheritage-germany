@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Sterntor, a historical city gate located in Bonn, Germany, serves as a remarkable embodiment of the city's architectural heritage. This imposing structure not only marks an entrance into the city but also encapsulates the essence of Bonn’s historical significance. Its strategic positioning within the Stadtbezirk Bonn highlights its role as a gateway to the past, drawing visitors into a landscape rich in culture and history. With its sturdy design and storied background, the Sterntor invites exploration, offering a glimpse into the evolution of urban defense mechanisms and the architectural styles that have defined the region.
+The Sterntor, a historical city gate located in Bonn, Germany, serves as a remarkable embodiment of the city's architectural heritage. This imposing structure not only marks an entrance into the city but also encapsulates the essence of Bonn's historical significance. Its strategic positioning within the Stadtbezirk Bonn highlights its role as a gateway to the past, drawing visitors into a landscape rich in culture and history. With its sturdy design and storied background, the Sterntor invites exploration, offering a glimpse into the evolution of urban defense mechanisms and the architectural styles that have defined the region.
 
 As you approach the Sterntor, you will find yourself immersed in the vibrant atmosphere of Bonn, a city that has played a pivotal role in German history and politics. The gate stands as a reminder of the city's medieval fortifications, showcasing how architecture can narrate tales of resilience and transformation. The Sterntor promises an engaging experience for those who appreciate historical landmarks, providing an opportunity to connect with the past while enjoying the lively surroundings of modern-day Bonn.
 
@@ -36,7 +36,7 @@ The Sterntor's history is intricately linked to the development of Bonn as a for
 
 In its early days, the Sterntor was not merely an architectural feature but a strategic asset that played a vital role in the security of Bonn. As the city expanded and evolved, so too did the need for fortifications, leading to the construction of various gates, including the Sterntor, which stands out due to its distinctive design and historical importance. 
 
-The gate has undergone various renovations and restorations to preserve its structural integrity and historical character. These efforts reflect the community's commitment to maintaining its cultural heritage, allowing visitors to appreciate both the aesthetic and historical value of the Sterntor. Today, the Sterntor is not only a significant landmark but also a symbol of Bonn's enduring legacy, reminding us of the city’s historical narrative and its role as a center of governance and culture.
+The gate has undergone various renovations and restorations to preserve its structural integrity and historical character. These efforts reflect the community's commitment to maintaining its cultural heritage, allowing visitors to appreciate both the aesthetic and historical value of the Sterntor. Today, the Sterntor is not only a significant landmark but also a symbol of Bonn's enduring legacy, reminding us of the city's historical narrative and its role as a center of governance and culture.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ Surrounding the Sterntor, the area is often bustling with activity, as it serves
 
 Visiting the Sterntor is an enriching experience for anyone interested in history and architecture. The gate is easily accessible, located within the heart of Bonn. Public transportation options, such as buses and trams, frequently service the surrounding area, making it convenient for visitors to reach this historical landmark. 
 
-While exploring the Sterntor, it’s advisable to check the official website for current information regarding hours of operation and any potential entry fees. Depending on your interests, you may wish to allocate around 30 minutes to an hour for your visit, allowing ample time to take in the architecture, snap photos, and enjoy the atmosphere.
+While exploring the Sterntor, it's advisable to check the official website for current information regarding hours of operation and any potential entry fees. Depending on your interests, you may wish to allocate around 30 minutes to an hour for your visit, allowing ample time to take in the architecture, snap photos, and enjoy the atmosphere.
 
 The best times to visit are typically during the mild spring and autumn months when the weather is pleasant, and the crowds are manageable. Early mornings or late afternoons can also provide a quieter experience, allowing for a more contemplative exploration of this historic site.
 

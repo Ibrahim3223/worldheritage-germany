@@ -72,7 +72,7 @@ While visiting the Konrad-Wachsmann-Haus, take the opportunity to explore other 
 
 To make the most of your visit to the Konrad-Wachsmann-Haus, consider the following tips:
 
-- **Photography**: While photography can enhance your experience, be mindful of any restrictions within the museum. It’s a good idea to check with the staff regarding areas where photography is permitted.
+- **Photography**: While photography can enhance your experience, be mindful of any restrictions within the museum. It's a good idea to check with the staff regarding areas where photography is permitted.
 
 - **Crowd Avoidance**: For a more peaceful visit, aim to visit during weekdays or during the early morning hours. This will allow you to explore the exhibits without the hustle and bustle of larger crowds.
 
@@ -90,7 +90,7 @@ Before your visit to the Konrad-Wachsmann-Haus, keep in mind the following pract
 A visit typically lasts between one to two hours, allowing ample time to explore the exhibits and the museum's architecture.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with museum staff upon arrival regarding areas where photography is permitted.
+Photography policies can vary, so it's best to check with museum staff upon arrival regarding areas where photography is permitted.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the museum's history and architecture. Check the official website for details.

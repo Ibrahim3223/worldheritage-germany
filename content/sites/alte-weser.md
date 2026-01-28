@@ -103,13 +103,13 @@ Information about guided tours may vary, so check the official website for curre
 Daytime visits are ideal for appreciating the lighthouse and its surroundings, with early mornings and late afternoons providing the best light for photography.
 
 ### Is it wheelchair accessible?
-Details regarding wheelchair accessibility may vary. It’s best to check the official website for the most current information.
+Details regarding wheelchair accessibility may vary. It's best to check the official website for the most current information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding online ticket purchases and any fees associated with visiting the lighthouse.
 
 ### Are there restrooms and cafes?
-Information about restroom facilities and nearby cafes may vary, so it’s advisable to confirm this on the official website prior to your visit.
+Information about restroom facilities and nearby cafes may vary, so it's advisable to confirm this on the official website prior to your visit.
 
 ### What should I wear?
 Dress comfortably and in layers to account for changing weather conditions, especially near the coast. Comfortable walking shoes are recommended for exploring the area.

@@ -32,7 +32,7 @@ As part of the rich cultural fabric of Dortmund, the Nahverkehrsmuseum provides 
 
 ## History and Significance
 
-The Nahverkehrsmuseum Dortmund is a unique testament to the city’s commitment to preserving its industrial past and educating the public about the evolution of public transportation. Dortmund, once a hub for coal and steel production, has transformed over the years, with the museum emerging as a key player in documenting this transformation.
+The Nahverkehrsmuseum Dortmund is a unique testament to the city's commitment to preserving its industrial past and educating the public about the evolution of public transportation. Dortmund, once a hub for coal and steel production, has transformed over the years, with the museum emerging as a key player in documenting this transformation.
 
 Public transportation in Dortmund has roots that date back to the late 19th century when horse-drawn trams were first introduced. As the city grew, so did the need for a more efficient transport system. The introduction of electric trams in the early 20th century revolutionized urban mobility, facilitating a significant shift in how residents navigated the city. The Nahverkehrsmuseum highlights these developments, showcasing various tram models and historical vehicles that reflect the technological advancements of their times.
 

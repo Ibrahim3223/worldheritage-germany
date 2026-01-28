@@ -38,7 +38,7 @@ As you approach the Fagus Factory, prepare to be captivated by its distinct faç
 
 The Fagus Factory was established in response to the growing need for modern manufacturing spaces that could accommodate new production techniques, particularly in the shoe industry. The factory's design is credited to Walter Gropius, a prominent figure in the architectural community and a founding member of the Bauhaus school. Although specific dates related to its construction may vary, its conception marked a significant shift in how industrial buildings were designed and utilized.
 
-Gropius’s approach to the factory was groundbreaking. He advocated for a design that emphasized natural light and open spaces, a departure from the dark and cramped factories of the past. This vision resulted in the extensive use of glass in the structure, allowing for ample daylight to flood the workspace, thereby enhancing productivity and employee well-being.
+Gropius's approach to the factory was groundbreaking. He advocated for a design that emphasized natural light and open spaces, a departure from the dark and cramped factories of the past. This vision resulted in the extensive use of glass in the structure, allowing for ample daylight to flood the workspace, thereby enhancing productivity and employee well-being.
 
 The Fagus Factory is recognized not just for its architectural innovation but for its cultural importance. It represents the ethos of early 20th-century industrialization, where functionality met artistic expression. This factory was one of the first to integrate modernist principles into a commercial setting, influencing countless architects and designers in the years that followed.
 
@@ -60,7 +60,7 @@ The Fagus Factory is a remarkable example of how industrial architecture can tra
 
 Visiting the Fagus Factory is an enlightening experience, especially for those interested in architecture and industrial history. The factory is conveniently located in Alfeld (Leine), which is accessible by various modes of transportation, including train and car. Given its popularity, it is advisable to check the official website for current information regarding visiting hours and ticket prices to ensure a smooth experience.
 
-When planning your visit, consider dedicating a few hours to fully explore the site. Guided tours are often available and provide deeper insights into the factory’s history, architecture, and significance. During peak tourist seasons, it may be beneficial to visit during weekdays or early in the morning to avoid crowds and enjoy a more intimate experience.
+When planning your visit, consider dedicating a few hours to fully explore the site. Guided tours are often available and provide deeper insights into the factory's history, architecture, and significance. During peak tourist seasons, it may be beneficial to visit during weekdays or early in the morning to avoid crowds and enjoy a more intimate experience.
 
 The best times to visit the Fagus Factory are during the spring and autumn months when the weather is mild, and the surrounding area is particularly pleasant. The factory's unique design can be appreciated in any season, making it a worthwhile destination year-round.
 

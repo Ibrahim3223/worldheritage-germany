@@ -38,7 +38,7 @@ The history of Leonhardsfriedhof is intertwined with the development of Schwäbi
 
 As a cemetery, Leonhardsfriedhof holds the remains of numerous notable figures from Schwäbisch Gmünd, including prominent local families and influential individuals who contributed to the town's development. Each gravestone tells a story, offering insights into the lives, professions, and legacies of those who have passed. The variety of styles and inscriptions on the tombstones reflects the artistic and cultural influences of different periods, showcasing how societal values regarding death and remembrance have evolved over time.
 
-Additionally, the cemetery often serves as a venue for cultural events and memorial services, reinforcing its significance beyond a mere resting place. It stands as a testament to the local community’s efforts to honor its past while providing a tranquil space for reflection.
+Additionally, the cemetery often serves as a venue for cultural events and memorial services, reinforcing its significance beyond a mere resting place. It stands as a testament to the local community's efforts to honor its past while providing a tranquil space for reflection.
 
 ## Architecture and Features
 
@@ -52,7 +52,7 @@ The cemetery's landscaping is thoughtfully designed, with trees and shrubs that 
 
 When planning a visit to Leonhardsfriedhof, travelers should consider their mode of transport to Schwäbisch Gmünd and the overall accessibility of the site. The town is well-connected by public transportation, making it relatively easy to reach from major urban centers in the region. Visitors can expect to spend approximately one to two hours exploring the cemetery, allowing ample time to reflect on the various memorials and the poignant stories they tell.
 
-For the latest information on visiting hours and any potential entrance fees, it’s advisable to check the official website. The cemetery typically welcomes visitors year-round, but seasonal changes can affect the overall experience. Spring and summer may offer a more vibrant display of flora, enhancing the peaceful ambiance of the site.
+For the latest information on visiting hours and any potential entrance fees, it's advisable to check the official website. The cemetery typically welcomes visitors year-round, but seasonal changes can affect the overall experience. Spring and summer may offer a more vibrant display of flora, enhancing the peaceful ambiance of the site.
 
 As the cemetery is a place of reflection, visitors are encouraged to approach it with respect and mindfulness. While it is an open space, quietness is appreciated to maintain the solemn atmosphere.
 
@@ -112,4 +112,4 @@ Facilities may be limited within the cemetery. It is advisable to explore nearby
 ### What should I wear?
 Comfortable, respectful clothing is recommended, keeping in mind the solemn nature of the cemetery.
 
-Leonhardsfriedhof offers a unique opportunity to connect with the past while appreciating the artistry of memorialization. Whether you are a history enthusiast or simply seeking a peaceful place for reflection, this cemetery is a significant part of Schwäbisch Gmünd’s heritage and warrants a visit.
+Leonhardsfriedhof offers a unique opportunity to connect with the past while appreciating the artistry of memorialization. Whether you are a history enthusiast or simply seeking a peaceful place for reflection, this cemetery is a significant part of Schwäbisch Gmünd's heritage and warrants a visit.

@@ -95,7 +95,7 @@ Details on accessibility are not provided, so it is advisable to check the offic
 Check the official website for information regarding ticket sales and availability.
 
 ### Are there restrooms and cafes?
-Information about facilities such as restrooms and cafes is not specified, so it’s best to prepare accordingly.
+Information about facilities such as restrooms and cafes is not specified, so it's best to prepare accordingly.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking on uneven terrain. Dress in layers to adapt to changing weather conditions. 

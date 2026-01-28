@@ -28,7 +28,7 @@ image_srcset:
 
 The Hereditary Grand Ducal Palace, located in the heart of Karlsruhe, Germany, is a striking example of royal architecture that reflects the city's historical significance. As the former residence of the Grand Dukes of Baden, this palace serves not only as a monument of the past but also as a central hub for cultural and civic life in the region. Its grandeur and elegance invite visitors to explore the stories of the Baden dynasty and the architectural evolution of the area. 
 
-Set against the backdrop of Karlsruhe's vibrant urban landscape, the palace is easily accessible for those traveling within the region. The structure stands as a reminder of the city’s royal past, offering a glimpse into the lives of the aristocracy while being surrounded by modern amenities and attractions. A visit to the Hereditary Grand Ducal Palace promises a unique blend of history and culture, making it a must-see destination for travelers and history enthusiasts alike.
+Set against the backdrop of Karlsruhe's vibrant urban landscape, the palace is easily accessible for those traveling within the region. The structure stands as a reminder of the city's royal past, offering a glimpse into the lives of the aristocracy while being surrounded by modern amenities and attractions. A visit to the Hereditary Grand Ducal Palace promises a unique blend of history and culture, making it a must-see destination for travelers and history enthusiasts alike.
 
 ## History and Significance
 

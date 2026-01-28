@@ -84,7 +84,7 @@ When planning a visit to the Gemeindebücherei Feldkirchen-Westerham, consider b
 
 - **Seasonal Considerations**: If visiting during colder months, dress appropriately for the weather, as travel to and from the library may involve spending time outdoors.
 
-- **Food and Drink**: Check the library’s policies on food and beverages. It’s usually best to enjoy snacks and drinks outside the library itself.
+- **Food and Drink**: Check the library's policies on food and beverages. It's usually best to enjoy snacks and drinks outside the library itself.
 
 ## Frequently Asked Questions
 
@@ -110,4 +110,4 @@ As a library, entry is generally free, but for events or special programs, you m
 Facilities like restrooms are typically available within libraries, but café options may vary. It's advisable to explore nearby options for refreshments.
 
 ### What should I wear?
-Dress comfortably and consider the season when planning your attire, especially if you’ll be outside traveling to and from the library.
+Dress comfortably and consider the season when planning your attire, especially if you'll be outside traveling to and from the library.

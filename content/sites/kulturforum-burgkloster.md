@@ -62,11 +62,11 @@ While visiting Kulturforum Burgkloster, there are several nearby attractions tha
    
 2. **Lübeck Cathedral (Lübecker Dom)** - Another architectural marvel, this cathedral features beautiful stained glass windows and a remarkable organ, making it a must-see for history and music enthusiasts.
    
-3. **Holstentor** - The iconic city gate is a symbol of Lübeck, showcasing medieval architecture and offering insights into the city’s historical defenses.
+3. **Holstentor** - The iconic city gate is a symbol of Lübeck, showcasing medieval architecture and offering insights into the city's historical defenses.
    
 4. **The Museum of Theatre Puppets** - An engaging experience for families, this museum highlights the art of puppetry and its cultural relevance in Germany.
    
-5. **Buddenbrook House** - Home to the Nobel Prize-winning authors Thomas and Heinrich Mann, this museum provides a glimpse into literary heritage and the family’s contributions to German literature.
+5. **Buddenbrook House** - Home to the Nobel Prize-winning authors Thomas and Heinrich Mann, this museum provides a glimpse into literary heritage and the family's contributions to German literature.
 
 ## Insider Tips
 

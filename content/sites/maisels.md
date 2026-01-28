@@ -64,7 +64,7 @@ While visiting Maisel's Brewery, take the opportunity to explore some of the nea
 
 2. **Wilhelminenaussicht**: An elevated viewpoint that offers stunning views of the surrounding area, this site is perfect for a leisurely stroll after visiting the brewery. The lush greenery and serene atmosphere provide a pleasant contrast to the lively brewery experience.
 
-3. **Eremitage**: A historic park located just a short distance from the brewery, the Eremitage features beautiful gardens and impressive palatial buildings. It’s an ideal location for a peaceful walk or picnic amid nature.
+3. **Eremitage**: A historic park located just a short distance from the brewery, the Eremitage features beautiful gardens and impressive palatial buildings. It's an ideal location for a peaceful walk or picnic amid nature.
 
 4. **Old Palace (Altes Schloss)**: This historical site offers insights into Bayreuth's royal past. Visitors can explore the architecture and art housed within, further enriching their understanding of the city's heritage.
 
@@ -78,13 +78,13 @@ To enhance your visit to Maisel's Brewery, consider the following insider tips:
 
 - **Crowd Avoidance**: If possible, plan your visit during weekdays, as weekends can attract larger crowds, especially during special events. Early morning visits may also provide a quieter experience.
 
-- **Tasting Recommendations**: Don’t hesitate to ask the staff for recommendations on which beers to try. They are knowledgeable and can guide you based on your preferences.
+- **Tasting Recommendations**: Don't hesitate to ask the staff for recommendations on which beers to try. They are knowledgeable and can guide you based on your preferences.
 
 - **Stay Hydrated**: If you plan to sample multiple beers, consider balancing your tastings with water to stay hydrated.
 
 ## Practical Information
 
-When visiting Maisel's Brewery, it’s helpful to keep a few practical considerations in mind:
+When visiting Maisel's Brewery, it's helpful to keep a few practical considerations in mind:
 
 - **What to Bring**: A sense of curiosity and an appetite for good beer will enhance your experience. If you plan to purchase souvenirs or beer to take home, consider bringing a reusable bag.
 
@@ -115,7 +115,7 @@ Check the official website for details on accessibility options at Maisel's Brew
 Ticket purchasing options may vary; check the official website for current information on ticket availability.
 
 ### Are there restrooms and cafes?
-Facilities are typically available on-site, but it’s best to confirm specifics on the official website.
+Facilities are typically available on-site, but it's best to confirm specifics on the official website.
 
 ### What should I wear?
 Dress comfortably, considering the weather and the brewery environment. Casual attire is usually appropriate for a brewery visit.

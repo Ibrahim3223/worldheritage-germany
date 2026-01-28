@@ -40,7 +40,7 @@ The hall has become a gathering space for both locals and tourists, offering a p
 
 ## Architecture and Features
 
-Max-Schmeling-Halle is characterized by its modern architectural design, which reflects contemporary trends in multi-purpose venues. The hall’s sleek lines and functional layout make it suitable for various events while providing an inviting atmosphere for attendees. 
+Max-Schmeling-Halle is characterized by its modern architectural design, which reflects contemporary trends in multi-purpose venues. The hall's sleek lines and functional layout make it suitable for various events while providing an inviting atmosphere for attendees. 
 
 One of the notable features of the hall is its flexible seating arrangement, allowing for adjustments based on the type of event being hosted. This adaptability is essential for accommodating the diverse range of activities that take place within its walls. The interior design emphasizes open spaces and natural light, creating a welcoming environment for visitors.
 
@@ -60,7 +60,7 @@ While visiting Max-Schmeling-Halle, there are several noteworthy attractions in 
 
 1. **Volkspark Friedrichshain**: This expansive park is a short distance away and offers a peaceful retreat from the urban bustle, featuring walking paths, playgrounds, and open spaces for relaxation.
 
-2. **Berlin Wall Memorial**: Located not far from the hall, this memorial provides a poignant insight into the history of Berlin’s division, featuring preserved sections of the wall and informative displays.
+2. **Berlin Wall Memorial**: Located not far from the hall, this memorial provides a poignant insight into the history of Berlin's division, featuring preserved sections of the wall and informative displays.
 
 3. **Mauerpark**: Known for its vibrant flea market and open-air karaoke, Mauerpark is a lively spot that captures the local spirit and is perfect for a leisurely stroll or a weekend outing.
 

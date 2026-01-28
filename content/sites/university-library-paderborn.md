@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-The University Library Paderborn stands as a key resource within the academic landscape of Paderborn, Germany. This library is not only a repository of knowledge but also a vibrant hub for students, researchers, and the community at large. The library’s role extends beyond traditional book lending; it serves as a space for collaboration, innovation, and the exchange of ideas. With its commitment to supporting education and research, the University Library Paderborn represents a vital component of the university’s mission to foster learning and scholarship.
+The University Library Paderborn stands as a key resource within the academic landscape of Paderborn, Germany. This library is not only a repository of knowledge but also a vibrant hub for students, researchers, and the community at large. The library's role extends beyond traditional book lending; it serves as a space for collaboration, innovation, and the exchange of ideas. With its commitment to supporting education and research, the University Library Paderborn represents a vital component of the university's mission to foster learning and scholarship.
 
-Located in the heart of Paderborn, the library benefits from its proximity to the university and the city’s rich cultural and historical offerings. As a center of learning, it attracts a diverse clientele, from local students to international scholars. Visitors to the library can expect to find a wealth of resources, from academic texts to digital media, all housed within a welcoming environment designed to facilitate study and collaboration.
+Located in the heart of Paderborn, the library benefits from its proximity to the university and the city's rich cultural and historical offerings. As a center of learning, it attracts a diverse clientele, from local students to international scholars. Visitors to the library can expect to find a wealth of resources, from academic texts to digital media, all housed within a welcoming environment designed to facilitate study and collaboration.
 
-Whether you’re a researcher on a quest for rare texts, a student seeking a quiet study space, or simply a visitor interested in the architectural beauty of libraries, the University Library Paderborn promises an enriching experience. 
+Whether you're a researcher on a quest for rare texts, a student seeking a quiet study space, or simply a visitor interested in the architectural beauty of libraries, the University Library Paderborn promises an enriching experience. 
 
 ## History and Significance
 
@@ -68,7 +68,7 @@ The University Library Paderborn is ideally situated near several points of inte
 
 3. **The Pader Springs**: The source of the Pader River is located nearby and is a delightful natural feature to explore, providing a serene escape.
 
-4. **The Heinz Nixdorf MuseumsForum**: This museum, dedicated to the history of information technology, is a fascinating complement to the library’s focus on knowledge.
+4. **The Heinz Nixdorf MuseumsForum**: This museum, dedicated to the history of information technology, is a fascinating complement to the library's focus on knowledge.
 
 5. **The Old Market Square**: A vibrant area filled with shops and cafes, offering a taste of local life and culture.
 
@@ -87,13 +87,13 @@ Seasonal considerations may also play a role in your visit. Paderborn experience
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of 2 to 4 hours is generally sufficient to explore the library’s resources and find a comfortable study spot.
+A visit of 2 to 4 hours is generally sufficient to explore the library's resources and find a comfortable study spot.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check with library staff upon arrival.
+Photography policies can vary, so it's best to check with library staff upon arrival.
 
 ### Are there guided tours?
-Information on guided tours may be available through the library’s official channels; check their website for specifics.
+Information on guided tours may be available through the library's official channels; check their website for specifics.
 
 ### What's the best time to visit?
 Weekdays, particularly in the early morning or late afternoon, tend to be less crowded, making them ideal times for a visit.
@@ -105,9 +105,9 @@ Accessibility features are typically available in modern libraries, but checking
 Most libraries do not require tickets for entry, but for any events or special exhibitions, check online for availability.
 
 ### Are there restrooms and cafes?
-Libraries usually offer restroom facilities; however, the presence of a café may vary, so it’s best to check beforehand.
+Libraries usually offer restroom facilities; however, the presence of a café may vary, so it's best to check beforehand.
 
 ### What should I wear?
 Comfortable clothing is advisable, especially if you plan to spend several hours studying or reading. 
 
-The University Library Paderborn is more than just a place to borrow books; it is a dynamic environment that fosters learning and community engagement. Whether you are a local resident or a visitor to Paderborn, a trip to the library is sure to enrich your understanding of the region’s academic and cultural heritage.
+The University Library Paderborn is more than just a place to borrow books; it is a dynamic environment that fosters learning and community engagement. Whether you are a local resident or a visitor to Paderborn, a trip to the library is sure to enrich your understanding of the region's academic and cultural heritage.

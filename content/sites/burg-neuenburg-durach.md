@@ -44,7 +44,7 @@ Burg Neuenburg exhibits typical characteristics of medieval castle architecture.
 
 The layout of such castles typically includes a central courtyard surrounded by living quarters and defensive structures. This configuration allowed for effective management of space and security. Visitors to Burg Neuenburg may observe features that reflect the architectural trends of its time, such as narrow windows designed for defense or decorative elements that hint at the aesthetic preferences of the era.
 
-Additionally, the castle’s position likely offers a vantage point over the surrounding landscape, allowing for strategic surveillance of the area. Such features highlight the dual purpose of these structures: as both residences for nobility and as defensive strongholds.
+Additionally, the castle's position likely offers a vantage point over the surrounding landscape, allowing for strategic surveillance of the area. Such features highlight the dual purpose of these structures: as both residences for nobility and as defensive strongholds.
 
 ## Visiting Information
 

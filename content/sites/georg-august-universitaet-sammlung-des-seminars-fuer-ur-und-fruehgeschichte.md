@@ -22,7 +22,7 @@ images:
 
 In the heart of Göttingen, Germany, lies the Georg-August-Universität: Sammlung des Seminars für Ur- und Frühgeschichte, a museum dedicated to the study and exhibition of prehistoric and early historical artifacts. This institution is not merely a repository of objects but serves as a vital link to understanding human history and cultural evolution. Its contributions to archaeological research and education make it a significant destination for both scholars and curious visitors alike. 
 
-The university, founded in 1737, is one of the oldest in Germany and has become a cornerstone of academic achievement, attracting students and researchers from around the globe. The museum enhances this academic environment by offering insights into the early development of human societies through its diverse collections, which include tools, pottery, and art from different epochs. The Georg-August-Universität’s commitment to education and research is reflected in the museum's mission to engage the public with the past, fostering a deeper appreciation for the origins of human civilization.
+The university, founded in 1737, is one of the oldest in Germany and has become a cornerstone of academic achievement, attracting students and researchers from around the globe. The museum enhances this academic environment by offering insights into the early development of human societies through its diverse collections, which include tools, pottery, and art from different epochs. The Georg-August-Universität's commitment to education and research is reflected in the museum's mission to engage the public with the past, fostering a deeper appreciation for the origins of human civilization.
 
 As you explore the collections and exhibitions, you will find an array of artifacts that tell stories of ancient peoples and their interactions with the world around them. This guide will provide you with a comprehensive understanding of the museum's significance, its architectural features, and essential information for planning your visit.
 
@@ -68,7 +68,7 @@ Göttingen is home to several attractions that complement a visit to the Georg-A
 
 When planning your visit to the Georg-August-Universität: Sammlung des Seminars für Ur- und Frühgeschichte, consider bringing a camera to capture the exhibits, but be sure to check the museum's photography policy first. To avoid crowds, aim for early weekday visits, especially during school holidays when the museum may attract more families. 
 
-If you’re interested in learning more about specific artifacts or exhibitions, consider inquiring about any available guided tours at the museum. These tours can provide deeper insights into the collections and enhance your overall experience.
+If you're interested in learning more about specific artifacts or exhibitions, consider inquiring about any available guided tours at the museum. These tours can provide deeper insights into the collections and enhance your overall experience.
 
 ## Practical Information
 

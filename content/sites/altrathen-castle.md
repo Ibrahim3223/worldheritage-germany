@@ -96,7 +96,7 @@ As you prepare for your visit to Altrathen Castle, consider the following practi
 A visit to Altrathen Castle typically takes about 1-2 hours, allowing time to explore the grounds and enjoy the surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions during your visit.
+Photography is generally permitted, but it's advisable to check for any specific restrictions during your visit.
 
 ### Are there guided tours?
 While specific tour information may not be available, local guides may offer tours. Check the official website for updates.
@@ -105,13 +105,13 @@ While specific tour information may not be available, local guides may offer tou
 The best times to visit are during spring and autumn when the weather is mild and the landscapes are particularly beautiful.
 
 ### Is it wheelchair accessible?
-Information regarding wheelchair accessibility is not specified. It’s best to check the official site for current details.
+Information regarding wheelchair accessibility is not specified. It's best to check the official site for current details.
 
 ### Can I buy tickets online?
 Ticketing options may vary. Check the official website for information on purchasing tickets.
 
 ### Are there restrooms and cafes?
-While specific amenities at the castle are not mentioned, it’s advisable to look for nearby facilities in the area.
+While specific amenities at the castle are not mentioned, it's advisable to look for nearby facilities in the area.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended for exploring the castle grounds and surrounding areas.

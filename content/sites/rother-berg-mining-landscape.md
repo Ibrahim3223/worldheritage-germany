@@ -44,7 +44,7 @@ As you explore, take note of the various remnants that have been preserved, as t
 
 ## Visiting Information
 
-Visiting the Rother Berg Mining Landscape offers a chance to delve into Germany’s mining history. While exact hours and prices may vary, it is best to check the official website for current information before planning your trip. The site is generally accessible year-round, though certain facilities may have seasonal hours.
+Visiting the Rother Berg Mining Landscape offers a chance to delve into Germany's mining history. While exact hours and prices may vary, it is best to check the official website for current information before planning your trip. The site is generally accessible year-round, though certain facilities may have seasonal hours.
 
 Transport options to the Rother Berg Mining Landscape include local public transit and personal vehicles. The surrounding area is well-connected, making it relatively easy for visitors to reach the site. Once there, expect to spend several hours exploring the landscape, as there are many features to appreciate and learn about.
 

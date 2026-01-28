@@ -66,7 +66,7 @@ While Apels Teich is a destination in its own right, there are several nearby at
 
 3. **Paderborn Cathedral**: An architectural masterpiece, this cathedral is a must-visit for those interested in religious history and stunning Gothic architecture.
 
-4. **Teutoburg Forest**: A sprawling natural area offering numerous hiking trails, scenic viewpoints, and opportunities to experience the region’s diverse landscapes.
+4. **Teutoburg Forest**: A sprawling natural area offering numerous hiking trails, scenic viewpoints, and opportunities to experience the region's diverse landscapes.
 
 5. **Dahlhausen Park**: A serene park that features walking paths, picnic areas, and playgrounds, making it a great spot for families.
 
@@ -80,7 +80,7 @@ While exploring the trails, take the time to pause and listen to the sounds of n
 
 When planning your visit to Apels Teich, it is advisable to wear comfortable walking shoes suitable for various trail conditions. Depending on the season, dress in layers to adjust to changing weather conditions. Bringing water and snacks is also recommended, especially for longer visits, as facilities may be limited.
 
-Seasonal considerations include being prepared for wet conditions in spring and autumn; waterproof clothing and sturdy footwear can enhance your experience. In the warmer months, don’t forget sunscreen and insect repellent, as the reserve can be home to various insects.
+Seasonal considerations include being prepared for wet conditions in spring and autumn; waterproof clothing and sturdy footwear can enhance your experience. In the warmer months, don't forget sunscreen and insect repellent, as the reserve can be home to various insects.
 
 ## Frequently Asked Questions
 

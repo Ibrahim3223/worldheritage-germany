@@ -68,7 +68,7 @@ For those interested in combining their visit with other local experiences, cons
 
 ## Nearby Attractions
 
-1. **Bernkastel-Kues Market Square**: Just a short walk from Graach Gate, this lively square is surrounded by beautiful half-timbered houses and offers a variety of shops and cafes. It’s a great place to relax and soak in the local atmosphere.
+1. **Bernkastel-Kues Market Square**: Just a short walk from Graach Gate, this lively square is surrounded by beautiful half-timbered houses and offers a variety of shops and cafes. It's a great place to relax and soak in the local atmosphere.
 
 2. **St. Nikolaus Church**: Located nearby, this church is known for its stunning architecture and historical significance. Visitors can admire its intricate details and learn about its role in the community.
 
@@ -86,7 +86,7 @@ To avoid crowds, try visiting on weekdays, particularly outside of peak tourist 
 
 ## Practical Information
 
-When planning your visit to Graach Gate, it’s advisable to bring comfortable walking shoes, as the area features cobblestone streets and pathways. A light jacket can be useful in case of unpredictable weather, especially in spring and autumn.
+When planning your visit to Graach Gate, it's advisable to bring comfortable walking shoes, as the area features cobblestone streets and pathways. A light jacket can be useful in case of unpredictable weather, especially in spring and autumn.
 
 Seasonal considerations are important as well; summer can attract larger crowds, while winter may bring colder temperatures. However, each season offers its own charm, with spring showcasing budding vines and autumn displaying vibrant foliage.
 

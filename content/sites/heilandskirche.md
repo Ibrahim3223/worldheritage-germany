@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Heilandskirche, a remarkable church building located in the vibrant city of Leipzig, Germany, offers a unique glimpse into the architectural and cultural landscape of the region. Known for its striking design and serene atmosphere, this church serves not only as a place of worship but also as a point of interest for both locals and travelers alike. Situated at the coordinates of 51.33082, 12.34002, its location places it within easy reach of the city’s historical and contemporary attractions.
+Heilandskirche, a remarkable church building located in the vibrant city of Leipzig, Germany, offers a unique glimpse into the architectural and cultural landscape of the region. Known for its striking design and serene atmosphere, this church serves not only as a place of worship but also as a point of interest for both locals and travelers alike. Situated at the coordinates of 51.33082, 12.34002, its location places it within easy reach of the city's historical and contemporary attractions.
 
 The church stands as a significant structure within Leipzig, a city renowned for its rich cultural heritage and progressive spirit. Its design and ambiance invite visitors to reflect and immerse themselves in a contemplative experience, making it a noteworthy stop for anyone exploring the area. As you approach Heilandskirche, expect to be enveloped by the tranquil environment that surrounds this sacred site.
 
@@ -46,7 +46,7 @@ One of the notable aspects of Heilandskirche is its façade, where you can obser
 
 Inside, visitors will find a serene sanctuary that invites contemplation and prayer. The interior design emphasizes simplicity and elegance, allowing for a peaceful atmosphere conducive to reflection. The church's layout is thoughtfully organized, providing ample space for congregational gatherings and individual moments of introspection.
 
-While specific features such as artwork or stained glass may not be detailed, the overall ambiance of the church demonstrates a commitment to creating a welcoming environment for worshippers and visitors alike. The careful attention to architectural details underscores the importance of Heilandskirche within the context of Leipzig’s diverse architectural heritage.
+While specific features such as artwork or stained glass may not be detailed, the overall ambiance of the church demonstrates a commitment to creating a welcoming environment for worshippers and visitors alike. The careful attention to architectural details underscores the importance of Heilandskirche within the context of Leipzig's diverse architectural heritage.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ When you arrive, expect to find a peaceful environment, ideal for personal refle
 
 The best times to visit are generally during weekdays when the church is less crowded, affording a more intimate experience. Special events or services may occur on weekends, providing an opportunity to witness the church in use and experience its community spirit.
 
-As with any cultural site, it’s essential to be respectful of the space and its purpose. Visitors are encouraged to maintain a quiet demeanor and observe any specific guidelines that may be in place during services or events.
+As with any cultural site, it's essential to be respectful of the space and its purpose. Visitors are encouraged to maintain a quiet demeanor and observe any specific guidelines that may be in place during services or events.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ Heilandskirche's central location in Leipzig offers easy access to a variety of 
 
 For an enjoyable visit to Heilandskirche, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to check for any restrictions, particularly during services. Capturing the church’s architecture during quieter moments can yield beautiful images.
+- **Photography**: While photography may be allowed in certain areas, it's best to check for any restrictions, particularly during services. Capturing the church's architecture during quieter moments can yield beautiful images.
 
 - **Crowd Avoidance**: To experience the church in a more tranquil setting, visit during weekdays or early mornings. This time allows for a more personal experience and the opportunity to reflect in peace.
 
@@ -105,7 +105,7 @@ While specific information about guided tours is not provided, it is worth check
 Weekdays or early mornings are recommended for a quieter experience, while weekends may offer the chance to witness services.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified; it’s best to check the official website for current information regarding wheelchair access.
+Accessibility details are not specified; it's best to check the official website for current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Information regarding ticket purchases is not specified; please check the official website for any ticketing options.

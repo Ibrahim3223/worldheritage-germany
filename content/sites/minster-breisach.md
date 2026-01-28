@@ -80,7 +80,7 @@ To make the most of your visit to Minster Breisach, consider these insider tips:
 
 ## Practical Information
 
-When planning your visit to Minster Breisach, it’s helpful to keep the following practical information in mind:
+When planning your visit to Minster Breisach, it's helpful to keep the following practical information in mind:
 
 - **What to Bring**: Comfortable shoes are recommended, as exploring the church and nearby areas may involve walking. A camera is also a must for capturing your experience.
 

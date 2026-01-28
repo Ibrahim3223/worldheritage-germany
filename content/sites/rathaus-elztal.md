@@ -62,9 +62,9 @@ Elztal is home to several nearby attractions that complement a visit to Rathaus 
 
 1. **Local Parks**: Nearby parks offer a peaceful escape for those looking to unwind and enjoy the natural beauty of the region.
    
-2. **Cultural Centers**: Explore local cultural centers that host exhibitions and events showcasing the artistic talents of the region’s residents.
+2. **Cultural Centers**: Explore local cultural centers that host exhibitions and events showcasing the artistic talents of the region's residents.
 
-3. **Historical Sites**: A short distance away, you may find additional historical landmarks that provide context to the area’s rich heritage.
+3. **Historical Sites**: A short distance away, you may find additional historical landmarks that provide context to the area's rich heritage.
 
 4. **Shopping Districts**: Local shops and markets where visitors can purchase regional products, crafts, and souvenirs.
 

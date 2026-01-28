@@ -40,11 +40,11 @@ The Sorbian Institute is not only a hub for academic research but also acts as a
 
 ## Architecture and Features
 
-The Sorbian Institute is housed in a building that reflects the character of Bautzen’s historic architecture. While specific architectural details are not provided, the institute's location in a city known for its well-preserved medieval structures suggests a setting that harmonizes with the historical context of the region. Visitors will find an inviting atmosphere conducive to exploration and learning.
+The Sorbian Institute is housed in a building that reflects the character of Bautzen's historic architecture. While specific architectural details are not provided, the institute's location in a city known for its well-preserved medieval structures suggests a setting that harmonizes with the historical context of the region. Visitors will find an inviting atmosphere conducive to exploration and learning.
 
 Inside, the institute is equipped with various facilities designed to support its mission of cultural preservation and education. The archives include a vast collection of documents, photographs, and recordings, which are meticulously organized to facilitate research. The layout is likely designed to encourage interaction with the materials, allowing visitors to immerse themselves in the Sorbian experience through carefully curated exhibitions and displays.
 
-The Sorbian Institute may also feature spaces for workshops, lectures, and community activities, fostering an environment of collaboration and engagement. While specific features are not detailed, the institute’s commitment to accessibility and education is evident in its design and programming.
+The Sorbian Institute may also feature spaces for workshops, lectures, and community activities, fostering an environment of collaboration and engagement. While specific features are not detailed, the institute's commitment to accessibility and education is evident in its design and programming.
 
 ## Visiting Information
 
@@ -89,7 +89,7 @@ Guided tours may be available, providing a more in-depth understanding of the So
 Weekdays may be less crowded, making them ideal for a more intimate experience. However, be sure to check for any special events that may enhance your visit.
 
 ### Is it wheelchair accessible?
-While specific accessibility details are not provided, most cultural institutions strive to accommodate visitors with disabilities. It’s best to check the official website or contact the institute directly for confirmation.
+While specific accessibility details are not provided, most cultural institutions strive to accommodate visitors with disabilities. It's best to check the official website or contact the institute directly for confirmation.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket purchasing options, as availability may vary.

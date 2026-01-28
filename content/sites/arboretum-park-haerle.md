@@ -48,7 +48,7 @@ While specific architectural details are not provided, the design ethos of botan
 
 Arboretum Park Härle is accessible to visitors looking to explore its botanical wonders. While specific transportation options are not detailed, it is advisable for travelers to check local transport services for the most convenient routes to the garden. The central location in Bonn makes it relatively easy to reach by public transport or on foot.
 
-As for visiting hours and admission fees, it is essential to check the official website for current information. Visitors can expect a leisurely experience, with ample time to explore the garden’s diverse offerings. Depending on individual interests, spending a few hours in the park can provide a fulfilling experience.
+As for visiting hours and admission fees, it is essential to check the official website for current information. Visitors can expect a leisurely experience, with ample time to explore the garden's diverse offerings. Depending on individual interests, spending a few hours in the park can provide a fulfilling experience.
 
 The best times to visit Arboretum Park Härle may coincide with seasonal changes, as different plants bloom at various times of the year. Spring and summer are often particularly vibrant, showcasing the garden in full bloom. However, each season brings its own charm, and visitors may find unique beauty in autumn foliage or winter landscapes.
 

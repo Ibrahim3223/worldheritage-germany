@@ -68,7 +68,7 @@ To capture the best photographs of the Steindeckerbrücke, consider visiting dur
 
 To avoid crowds, plan your visit on weekdays or during off-peak hours. This way, you can enjoy a more intimate experience with the bridge and take in the atmosphere without the hustle and bustle of larger groups.
 
-If you’re interested in local history, consider bringing along a guidebook or app that provides insights into the bridge and its significance. This can enhance your understanding and appreciation of the site.
+If you're interested in local history, consider bringing along a guidebook or app that provides insights into the bridge and its significance. This can enhance your understanding and appreciation of the site.
 
 ## Practical Information
 

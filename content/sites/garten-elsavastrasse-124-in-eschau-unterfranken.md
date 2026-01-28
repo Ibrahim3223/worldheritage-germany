@@ -30,7 +30,7 @@ The history of Garten Elsavastraße 124 is intertwined with the broader narrativ
 
 Cultural heritage monuments in Germany are often recognized for their architectural and historical significance. The garden at Elsavastraße 124 exemplifies the importance of landscape architecture in reflecting social and cultural values. It showcases the artistry involved in garden design, emphasizing the intricate relationship between humans and their environment. The careful planning and cultivation seen in this garden highlight the importance of preserving such spaces for future generations to enjoy and learn from.
 
-As visitors explore the garden, they will find themselves surrounded by a variety of plant species, each chosen for its beauty and ecological importance. The area's climate and soil conditions have allowed for diverse horticultural practices, enriching the garden's landscape and providing a habitat for various wildlife species. This not only enhances biodiversity but also reinforces the garden’s role in promoting ecological awareness and appreciation.
+As visitors explore the garden, they will find themselves surrounded by a variety of plant species, each chosen for its beauty and ecological importance. The area's climate and soil conditions have allowed for diverse horticultural practices, enriching the garden's landscape and providing a habitat for various wildlife species. This not only enhances biodiversity but also reinforces the garden's role in promoting ecological awareness and appreciation.
 
 ## Architecture and Features
 

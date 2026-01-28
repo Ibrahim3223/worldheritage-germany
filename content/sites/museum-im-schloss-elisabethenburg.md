@@ -76,7 +76,7 @@ To enhance your visit to Museum im Schloss Elisabethenburg, consider bringing a 
 
 To avoid crowds, aim to visit during the opening hours on weekdays, particularly in the late morning or early afternoon. This will allow you to enjoy the museum at a more leisurely pace.
 
-If you're interested in particular exhibits, do a bit of research beforehand or inquire at the front desk upon arrival. This can help you plan your route through the museum and ensure you don’t miss any highlights.
+If you're interested in particular exhibits, do a bit of research beforehand or inquire at the front desk upon arrival. This can help you plan your route through the museum and ensure you don't miss any highlights.
 
 ## Practical Information
 

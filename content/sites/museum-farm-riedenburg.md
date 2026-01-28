@@ -56,7 +56,7 @@ The best times to visit may vary, but spring and summer often present pleasant w
 
 3. **Dollnstein**: A charming village that showcases traditional Bavarian architecture and offers a peaceful atmosphere for leisurely strolls and local dining experiences.
 
-4. **Kelheim**: A larger town not far from Riedenburg, Kelheim is known for its historical sites, including the Liberation Hall, which provides insight into the region’s past and offers panoramic views of the Danube River.
+4. **Kelheim**: A larger town not far from Riedenburg, Kelheim is known for its historical sites, including the Liberation Hall, which provides insight into the region's past and offers panoramic views of the Danube River.
 
 5. **Donaudurchbruch**: This natural phenomenon along the Danube River features impressive cliffs and beautiful river views, perfect for a scenic boat ride or leisurely walk along the trails.
 
@@ -78,7 +78,7 @@ Depending on the season, be prepared for varying weather conditions. In summer, 
 A typical visit to Museum Farm Riedenburg can last around two to three hours to fully explore the exhibits and engage in any available activities.
 
 ### Is photography allowed?
-Photography is generally permitted within the museum, but it’s best to confirm any specific rules upon arrival.
+Photography is generally permitted within the museum, but it's best to confirm any specific rules upon arrival.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available and to learn about any scheduled tour times.

@@ -32,7 +32,7 @@ Visitors to the Thaulow-Museum can expect to immerse themselves in a carefully c
 
 ## History and Significance
 
-The Thaulow-Museum has become an important cultural landmark within Kiel, embodying the city’s evolving relationship with art and history. The museum's establishment was driven by a desire to promote local artists and provide a space for artistic dialogue. Over the years, it has hosted various exhibitions that highlight both traditional and modern art forms, contributing to the cultural fabric of the region.
+The Thaulow-Museum has become an important cultural landmark within Kiel, embodying the city's evolving relationship with art and history. The museum's establishment was driven by a desire to promote local artists and provide a space for artistic dialogue. Over the years, it has hosted various exhibitions that highlight both traditional and modern art forms, contributing to the cultural fabric of the region.
 
 The museum is named after a prominent figure in the art world, which underscores its mission to honor and celebrate artistic talent. This connection to notable artists not only enriches the museum's narrative but also fosters a deeper appreciation for the artistic movements that have shaped the community. The exhibitions often reflect the local culture, offering insights into the artists' backgrounds and their connections to Kiel.
 
@@ -42,7 +42,7 @@ In addition to showcasing art, the Thaulow-Museum serves as an educational resou
 
 The architectural design of the Thaulow-Museum is a reflection of its cultural mission. The building itself is inviting, designed to harmonize with the artistic experiences within. The layout is crafted to facilitate an engaging visitor flow, allowing guests to navigate the various exhibition spaces comfortably. Natural light floods the galleries, enhancing the viewing experience and illuminating the artworks.
 
-Inside, the museum features a diverse range of exhibition spaces, each tailored to showcase different forms of art. From contemporary installations to more traditional displays, the museum’s design promotes an appreciation for the nuances of each piece. The thoughtful arrangement of artworks encourages visitors to engage with the art on multiple levels, fostering a deeper understanding of the themes and techniques employed by the artists.
+Inside, the museum features a diverse range of exhibition spaces, each tailored to showcase different forms of art. From contemporary installations to more traditional displays, the museum's design promotes an appreciation for the nuances of each piece. The thoughtful arrangement of artworks encourages visitors to engage with the art on multiple levels, fostering a deeper understanding of the themes and techniques employed by the artists.
 
 The museum also includes areas for educational programs and workshops, reflecting its commitment to fostering community engagement. These spaces are designed to be flexible, accommodating a variety of activities that aim to inspire creativity and artistic exploration.
 
@@ -73,7 +73,7 @@ To enhance your visit to the Thaulow-Museum, consider the following insider tips
 
 ## Practical Information
 
-When visiting the Thaulow-Museum, it’s wise to bring along a few essentials to ensure a comfortable experience. Comfortable walking shoes are recommended, as you may spend considerable time exploring the galleries and surrounding area. Seasonal considerations are also important; check the weather forecast prior to your visit and dress accordingly, especially if planning to enjoy the outdoor attractions nearby.
+When visiting the Thaulow-Museum, it's wise to bring along a few essentials to ensure a comfortable experience. Comfortable walking shoes are recommended, as you may spend considerable time exploring the galleries and surrounding area. Seasonal considerations are also important; check the weather forecast prior to your visit and dress accordingly, especially if planning to enjoy the outdoor attractions nearby.
 
 Additionally, consider bringing a small notebook or sketchpad if you enjoy jotting down thoughts or making quick sketches inspired by the artworks you encounter.
 

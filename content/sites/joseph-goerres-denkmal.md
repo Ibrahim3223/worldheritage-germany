@@ -3,7 +3,7 @@ title: "Joseph-Görres-Denkmal"
 site_name: "Joseph-Görres-Denkmal"
 date: 2026-01-26
 draft: false
-description: "The Joseph-Görres-Denkmal stands proudly in Koblenz, Germany, a tribute to one of the nation’s notable intellectual figures, Joseph Görres."
+description: "The Joseph-Görres-Denkmal stands proudly in Koblenz, Germany, a tribute to one of the nation's notable intellectual figures, Joseph Görres."
 region: "North Rhine-Westphalia"
 country: "Germany"
 heritage_type: "Monument"
@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Joseph-Görres-Denkmal stands proudly in Koblenz, Germany, a tribute to one of the nation’s notable intellectual figures, Joseph Görres. This monument not only commemorates Görres's contributions to literature and politics but also reflects the rich cultural heritage of the region. Positioned at the intersection of history and artistry, it offers visitors a glimpse into the life of a man whose work shaped German thought. The monument serves as an inviting point of interest for those exploring the vibrant city of Koblenz, known for its historical significance and scenic waterfront along the Rhine River.
+The Joseph-Görres-Denkmal stands proudly in Koblenz, Germany, a tribute to one of the nation's notable intellectual figures, Joseph Görres. This monument not only commemorates Görres's contributions to literature and politics but also reflects the rich cultural heritage of the region. Positioned at the intersection of history and artistry, it offers visitors a glimpse into the life of a man whose work shaped German thought. The monument serves as an inviting point of interest for those exploring the vibrant city of Koblenz, known for its historical significance and scenic waterfront along the Rhine River.
 
 As you approach the monument, you will find yourself amidst an environment that is both serene and reflective. The surrounding area is a blend of urban life and historical landmarks, making it an ideal stop for those keen to delve deeper into Koblenz's past. Whether you're a history enthusiast, an admirer of architecture, or simply looking for a moment of contemplation, the Joseph-Görres-Denkmal promises to enrich your visit.
 
@@ -36,7 +36,7 @@ Joseph Görres (1776-1848) was a prominent German journalist, historian, and pol
 
 While the precise date of its construction is not specified, the monument encapsulates the spirit of the era in which Görres lived and worked. It is a reminder of the impact one individual can have on cultural discourse, igniting discussions that resonate beyond their lifetime. The monument stands not only as a tribute to Görres but also as a symbol of the collective aspirations of the German people during a transformative period in their history.
 
-In the broader context, the Joseph-Görres-Denkmal contributes to the rich tapestry of Koblenz’s historical narrative. The city itself has been a crossroads of various cultures and influences, making it a significant location for understanding the evolution of German society. For visitors, engaging with this monument provides insights into the intellectual currents that have shaped modern Germany.
+In the broader context, the Joseph-Görres-Denkmal contributes to the rich tapestry of Koblenz's historical narrative. The city itself has been a crossroads of various cultures and influences, making it a significant location for understanding the evolution of German society. For visitors, engaging with this monument provides insights into the intellectual currents that have shaped modern Germany.
 
 ## Architecture and Features
 

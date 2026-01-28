@@ -56,7 +56,7 @@ As you explore, take note of the landscape and the remnants of the castle, which
 
 While visiting Burg Hallermund, consider exploring some of the nearby attractions that also offer a glimpse into the region's rich history:
 
-1. **Springe**: The town itself is worth a visit, featuring charming streets and local shops that reflect the area’s culture. 
+1. **Springe**: The town itself is worth a visit, featuring charming streets and local shops that reflect the area's culture. 
 2. **Rohdenburg**: A nearby village with historical significance, showcasing traditional German architecture and local heritage.
 3. **Hannover**: A short drive away, the city offers a range of museums and parks, including the renowned Herrenhausen Gardens.
 4. **Schaumburg Castle**: This castle located in nearby Rinteln provides visitors with further insights into the region's medieval architecture and history.

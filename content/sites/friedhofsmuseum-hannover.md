@@ -105,7 +105,7 @@ Accessibility information is best confirmed by checking the official website or 
 For the most current information regarding ticket purchasing options, visit the official website.
 
 ### Are there restrooms and cafes?
-Facilities may vary; it’s advisable to check the official website for details on available amenities.
+Facilities may vary; it's advisable to check the official website for details on available amenities.
 
 ### What should I wear?
 Dress comfortably and appropriately for the season. Wear comfortable shoes for walking, especially if you plan to explore the cemetery grounds.

@@ -28,7 +28,7 @@ image_srcset:
 
 Gutshaus Adelsborn, a former manor house located in the quaint region of Leinefelde-Worbis, Germany, invites visitors to explore its historical landscape, even in its absence. Although the building has been demolished, the site still evokes a sense of the past, offering a glimpse into the architectural legacy of the area. The coordinates 51.4481, 10.3533 place it within a serene setting, making it a point of interest for those passionate about heritage and history. As a former manor house, Gutshaus Adelsborn plays a role in understanding local history and the evolution of aristocratic residences in Germany. 
 
-Visitors to the site can expect a reflective experience, exploring the remnants of a bygone era, while also taking advantage of the surrounding countryside and nearby attractions. The region’s charm and historical significance make it a worthwhile stop for travelers seeking to delve into the cultural context of this part of Germany.
+Visitors to the site can expect a reflective experience, exploring the remnants of a bygone era, while also taking advantage of the surrounding countryside and nearby attractions. The region's charm and historical significance make it a worthwhile stop for travelers seeking to delve into the cultural context of this part of Germany.
 
 ## History and Significance
 
@@ -66,7 +66,7 @@ While Gutshaus Adelsborn may stand alone in its historical narrative, the surrou
 
 4. **Hainich National Park**: A bit further afield, this national park is renowned for its beech forests and diverse wildlife, making it an excellent spot for nature lovers and those seeking outdoor activities.
 
-5. **Mühlhausen**: This historic town features medieval buildings and monuments, including the St. Blasius Church. It’s a pleasant destination for exploring rich local history.
+5. **Mühlhausen**: This historic town features medieval buildings and monuments, including the St. Blasius Church. It's a pleasant destination for exploring rich local history.
 
 ## Insider Tips
 
@@ -105,7 +105,7 @@ Check the official website for current information regarding accessibility optio
 As the building has been demolished, there are no tickets associated with visiting Gutshaus Adelsborn. Check for any local guidelines regarding access to the area.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the site. It’s advisable to check nearby towns for restrooms and cafes before your visit.
+Facilities may be limited at the site. It's advisable to check nearby towns for restrooms and cafes before your visit.
 
 ### What should I wear?
 Dress comfortably for walking, and consider the weather conditions when choosing your attire for the day.

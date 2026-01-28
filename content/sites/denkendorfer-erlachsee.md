@@ -103,7 +103,7 @@ Check the official website for specific accessibility information regarding path
 For ticketing information and availability, please check the official website.
 
 ### Are there restrooms and cafes?
-Specific amenities may vary; it’s advisable to check for restroom facilities and nearby dining options on the official website.
+Specific amenities may vary; it's advisable to check for restroom facilities and nearby dining options on the official website.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for outdoor activities, and consider layers to adjust to changing weather conditions.

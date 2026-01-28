@@ -56,7 +56,7 @@ During your time at the museum, expect a thoughtful presentation of artifacts an
 
 ## Nearby Attractions
 
-If you’re exploring Thale, consider visiting these nearby attractions to enhance your experience:
+If you're exploring Thale, consider visiting these nearby attractions to enhance your experience:
 
 1. **Hexentanzplatz** - A historical site that offers stunning views and a glimpse into local folklore, particularly connected to witch trials.
 2. **Roßtrappe** - A rock formation that provides hiking opportunities and panoramic views of the surrounding landscape.

@@ -72,7 +72,7 @@ While visiting the Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz, there
 
 ## Insider Tips
 
-When visiting the Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz, photography is generally allowed, but it’s wise to check for any restrictions at specific exhibits. If you’re keen on capturing the experience, bringing a camera can allow you to document the intriguing displays and models.
+When visiting the Deutsche Raumfahrtausstellung Morgenröthe-Rautenkranz, photography is generally allowed, but it's wise to check for any restrictions at specific exhibits. If you're keen on capturing the experience, bringing a camera can allow you to document the intriguing displays and models.
 
 To avoid crowds, consider planning your visit during weekdays or early hours. This will not only enhance your experience but also allow for more direct interaction with the exhibits and any staff present to answer questions.
 

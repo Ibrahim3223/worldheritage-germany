@@ -74,7 +74,7 @@ While inside the church, be mindful of the sacred space and the presence of othe
 
 ## Practical Information
 
-When visiting Maria-Himmelfahrt-Kirche, it’s advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture the architecture and surroundings. Seasons in the Black Forest can vary significantly; summer offers pleasant weather for exploring, while winter may bring snow that transforms the area into a picturesque winter wonderland.
+When visiting Maria-Himmelfahrt-Kirche, it's advisable to bring along essentials such as water, comfortable walking shoes, and a camera to capture the architecture and surroundings. Seasons in the Black Forest can vary significantly; summer offers pleasant weather for exploring, while winter may bring snow that transforms the area into a picturesque winter wonderland.
 
 Check the weather forecast before your visit, and dress accordingly to ensure your comfort while exploring the church and the surrounding area.
 

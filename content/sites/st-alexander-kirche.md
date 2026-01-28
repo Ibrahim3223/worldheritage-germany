@@ -30,7 +30,7 @@ St.-Alexander-Kirche is a church building with deep roots in the local community
 
 The architectural style of the church reflects the religious and cultural influences that have permeated the area over the centuries. As a church, St.-Alexander-Kirche stands as a reminder of the region's religious traditions and values. Its presence underscores the importance of faith in the lives of the people throughout history, providing a gathering place for various social and spiritual activities.
 
-In addition to its local significance, the church contributes to the broader narrative of the region's history. It embodies the architectural practices of its time and serves as a link to the past, making it a valuable site for understanding the evolution of religious structures in Germany. Visitors to St.-Alexander-Kirche can appreciate its role in the community’s identity and its ongoing relevance in contemporary life.
+In addition to its local significance, the church contributes to the broader narrative of the region's history. It embodies the architectural practices of its time and serves as a link to the past, making it a valuable site for understanding the evolution of religious structures in Germany. Visitors to St.-Alexander-Kirche can appreciate its role in the community's identity and its ongoing relevance in contemporary life.
 
 ## Architecture and Features
 

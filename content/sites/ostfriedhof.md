@@ -32,7 +32,7 @@ Situated at coordinates 50.9643, 7.07733, Ostfriedhof encompasses an area that, 
 
 ## History and Significance
 
-Ostfriedhof has served as a cemetery in Cologne for many years, reflecting the changing cultural and social landscapes of the region. While specific historical dates may not be readily available, it is evident that the cemetery holds deep significance for the local community. It represents a place of remembrance, where families can pay their respects to loved ones and where the stories of the deceased contribute to the broader narrative of Cologne’s history.
+Ostfriedhof has served as a cemetery in Cologne for many years, reflecting the changing cultural and social landscapes of the region. While specific historical dates may not be readily available, it is evident that the cemetery holds deep significance for the local community. It represents a place of remembrance, where families can pay their respects to loved ones and where the stories of the deceased contribute to the broader narrative of Cologne's history.
 
 The cemetery is not only a site for mourning but also serves as an important cultural landmark. It hosts a variety of graves that reflect different artistic styles and funerary practices typical of various periods. This diversity enhances its cultural importance, allowing visitors to appreciate the evolution of memorialization in the region. Beyond its role as a burial ground, Ostfriedhof is emblematic of community values surrounding death, remembrance, and the celebration of life.
 
@@ -50,7 +50,7 @@ The cemetery's design encourages a leisurely stroll, providing ample opportuniti
 
 ## Visiting Information
 
-Visiting Ostfriedhof offers a unique opportunity to engage with the history and culture of Cologne. The best way to reach the cemetery is by utilizing the city’s public transportation system. Various bus lines serve the Dellbrück area, making it relatively easy to access from different parts of the city. Check the official website for current information on transport options and any potential service changes.
+Visiting Ostfriedhof offers a unique opportunity to engage with the history and culture of Cologne. The best way to reach the cemetery is by utilizing the city's public transportation system. Various bus lines serve the Dellbrück area, making it relatively easy to access from different parts of the city. Check the official website for current information on transport options and any potential service changes.
 
 While planning your visit, it is advisable to check the official website for hours of operation and any possible entry fees. The cemetery is open throughout the year, providing an inviting space for reflection and exploration during all seasons. Visitors are encouraged to allocate sufficient time to stroll through the grounds, take in the artistry, and reflect on the stories behind the memorials.
 

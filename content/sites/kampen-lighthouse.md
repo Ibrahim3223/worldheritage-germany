@@ -118,4 +118,4 @@ Restroom facilities and cafes may be available nearby; check the official websit
 ### What should I wear?
 Dress comfortably and appropriately for the weather. Layers are recommended due to the variable coastal climate.
 
-Kampen Lighthouse not only offers a glimpse into the maritime history of the region but also provides a serene setting for visitors to enjoy the beauty of Sylt’s coast. Whether you're drawn by the lighthouse's historical significance or the picturesque landscapes that surround it, your visit promises to be memorable.
+Kampen Lighthouse not only offers a glimpse into the maritime history of the region but also provides a serene setting for visitors to enjoy the beauty of Sylt's coast. Whether you're drawn by the lighthouse's historical significance or the picturesque landscapes that surround it, your visit promises to be memorable.

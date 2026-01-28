@@ -82,7 +82,7 @@ When visiting Hohler Stein, keep a few insider tips in mind to enhance your expe
 
 Before heading to Hohler Stein, consider the following practical information to ensure a smooth visit:
 
-- **What to Bring**: It’s advisable to bring a flashlight or headlamp to illuminate the cave’s interior, as well as a water bottle to stay hydrated.
+- **What to Bring**: It's advisable to bring a flashlight or headlamp to illuminate the cave's interior, as well as a water bottle to stay hydrated.
 
 - **Seasonal Considerations**: Depending on the season, temperatures inside the cave may differ from outdoor conditions. Dress in layers to remain comfortable during your visit.
 
@@ -109,7 +109,7 @@ Accessibility details should be confirmed on the official website, as cave envir
 Check the official website for information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to check the official website for details regarding amenities.
+Facilities may be limited; it's advisable to check the official website for details regarding amenities.
 
 ### What should I wear?
 Dress in comfortable clothing and sturdy shoes suitable for uneven terrain within the cave.

@@ -62,13 +62,13 @@ The Fotografie Forum Frankfurt is situated within a cultural corridor of the cit
 
 4. **Römer**: This iconic building serves as the city hall and is an excellent example of medieval architecture. The surrounding square is lively and often hosts markets and events.
 
-5. **Main Tower**: For those seeking a view of the Frankfurt skyline, the Main Tower offers an observation deck that allows visitors to take in the city’s impressive architecture from above.
+5. **Main Tower**: For those seeking a view of the Frankfurt skyline, the Main Tower offers an observation deck that allows visitors to take in the city's impressive architecture from above.
 
 ## Insider Tips
 
 To make the most of your visit to the Fotografie Forum Frankfurt, consider these insider tips:
 
-- **Photography Tips**: While the focus is on photography as an art form, be respectful of the museum’s policies on photography. Check for any restrictions regarding flash photography or capturing images of specific exhibits.
+- **Photography Tips**: While the focus is on photography as an art form, be respectful of the museum's policies on photography. Check for any restrictions regarding flash photography or capturing images of specific exhibits.
 
 - **Crowd Avoidance**: To enjoy a more peaceful visit, try to arrive early in the day or later in the afternoon. Weekdays typically see fewer visitors compared to weekends.
 

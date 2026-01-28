@@ -105,7 +105,7 @@ Accessibility options may be available, but it's best to check with the official
 Check the official website for information regarding ticket purchasing options and availability.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for details on amenities available during your visit.
+Facilities may vary, so it's advisable to check the official website for details on amenities available during your visit.
 
 ### What should I wear?
 Dress modestly, keeping in mind that this is a place of worship. Comfortable walking shoes are also recommended, especially if you plan to explore nearby attractions.

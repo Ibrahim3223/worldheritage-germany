@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-The Municipal Theatre in Bremen, Germany, represents a notable chapter in the country's cultural heritage. This theatre building, the second of its name, was an integral part of the city’s artistic landscape from its opening in 1843 until its closure in 1944. Located in the heart of Bremen, the Municipal Theatre was not just a venue for performances; it was a gathering place for the community, showcasing a variety of theatrical productions, operas, and concerts that enriched the cultural fabric of the city. While the physical structure no longer stands, its legacy continues to resonate within Bremen's vibrant arts scene, reminding visitors and locals alike of the city's dedication to the performing arts.
+The Municipal Theatre in Bremen, Germany, represents a notable chapter in the country's cultural heritage. This theatre building, the second of its name, was an integral part of the city's artistic landscape from its opening in 1843 until its closure in 1944. Located in the heart of Bremen, the Municipal Theatre was not just a venue for performances; it was a gathering place for the community, showcasing a variety of theatrical productions, operas, and concerts that enriched the cultural fabric of the city. While the physical structure no longer stands, its legacy continues to resonate within Bremen's vibrant arts scene, reminding visitors and locals alike of the city's dedication to the performing arts.
 
 The Municipal Theatre's significance extends beyond its performances. Its historical context reflects the evolving nature of theatre in Germany as well as the influence of local culture and politics on the arts. As you explore the remnants of this once-thriving venue, you will uncover stories that intertwine with the broader narrative of Bremen itself. The site serves as a reminder of the transformative power of art and the role of cultural institutions in shaping community identity.
 
-Visitors to Bremen will find that the remnants of the Municipal Theatre serve as a focal point for discussions about the city’s cultural history and its lasting impact on contemporary artistic expression. This guide aims to provide a comprehensive overview of the Municipal Theatre, detailing its history, architectural features, visiting information, and more, ensuring an enriching experience for those looking to delve into Bremen's theatrical past.
+Visitors to Bremen will find that the remnants of the Municipal Theatre serve as a focal point for discussions about the city's cultural history and its lasting impact on contemporary artistic expression. This guide aims to provide a comprehensive overview of the Municipal Theatre, detailing its history, architectural features, visiting information, and more, ensuring an enriching experience for those looking to delve into Bremen's theatrical past.
 
 ## History and Significance
 
@@ -113,7 +113,7 @@ For current accessibility information, check the official website, as this can v
 Since the Municipal Theatre is no longer in operation, ticket purchasing is not applicable. However, for other nearby attractions, check their official websites for ticket information.
 
 ### Are there restrooms and cafes?
-Nearby cafés and facilities may be available, but it’s best to check in advance for specific locations and amenities.
+Nearby cafés and facilities may be available, but it's best to check in advance for specific locations and amenities.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area. Dress according to the season and weather conditions.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Brand, located in Landkreis Celle within the Uetze region of Lower Saxony, Germany, is a serene nature reserve that offers a unique glimpse into the region’s natural beauty. This protected area is a sanctuary for diverse flora and fauna, making it a vital ecological site. Visitors can explore its lush landscapes, which are interspersed with tranquil waterways and wooded areas, providing an ideal setting for nature enthusiasts and outdoor adventurers alike. The reserve not only serves as a habitat for wildlife but also plays a crucial role in local conservation efforts. 
+Brand, located in Landkreis Celle within the Uetze region of Lower Saxony, Germany, is a serene nature reserve that offers a unique glimpse into the region's natural beauty. This protected area is a sanctuary for diverse flora and fauna, making it a vital ecological site. Visitors can explore its lush landscapes, which are interspersed with tranquil waterways and wooded areas, providing an ideal setting for nature enthusiasts and outdoor adventurers alike. The reserve not only serves as a habitat for wildlife but also plays a crucial role in local conservation efforts. 
 
 As you navigate through Brand, you will appreciate the harmonious relationship between nature and conservation, and you may discover a variety of walking trails that cater to different levels of fitness. This nature reserve invites visitors to immerse themselves in the enchanting surroundings, whether through leisurely strolls, birdwatching, or simply enjoying the peaceful ambiance. 
 
@@ -86,7 +86,7 @@ To make the most of your visit to Brand, consider these insider tips:
 
 ## Practical Information
 
-When visiting Brand, it’s essential to come prepared for a day in nature. Here are some suggestions:
+When visiting Brand, it's essential to come prepared for a day in nature. Here are some suggestions:
 
 - **What to Bring**: Comfortable walking shoes, a refillable water bottle, snacks, a camera, and binoculars for wildlife viewing. Sunscreen and insect repellent can also be useful, depending on the season.
 
@@ -115,7 +115,7 @@ Check the official website for details on accessibility, as some trails may be m
 Check the official website for information on ticket purchasing. Many nature reserves in Germany do not require an entrance fee.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Bringing your own refreshments is recommended.
+Facilities may be limited, so it's advisable to plan accordingly. Bringing your own refreshments is recommended.
 
 ### What should I wear?
 Dress in layers to accommodate changing temperatures, and wear comfortable walking shoes suitable for trail exploration.

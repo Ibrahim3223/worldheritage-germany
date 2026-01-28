@@ -32,7 +32,7 @@ As you approach the mosque, the architectural design commands attention, hinting
 
 ## History and Significance
 
-The Mosque in Sendling stands as an important religious establishment within Munich, contributing to the city’s increasing diversity in faith and culture. While specific historical dates are not readily available, the mosque has been integral to the Muslim community in the region for several years, serving as a sanctuary for worship, community gatherings, and cultural events.
+The Mosque in Sendling stands as an important religious establishment within Munich, contributing to the city's increasing diversity in faith and culture. While specific historical dates are not readily available, the mosque has been integral to the Muslim community in the region for several years, serving as a sanctuary for worship, community gatherings, and cultural events.
 
 The significance of this mosque extends beyond its physical structure; it represents the Islamic faith and its followers in a predominantly Christian country. The mosque provides a sense of belonging and identity for the local Muslim population, promoting a spirit of inclusivity. It plays a crucial role in community outreach, fostering interfaith dialogue, and enhancing understanding between different ethnicities and religions. 
 
@@ -98,7 +98,7 @@ Visiting during prayer times or community events can enhance your experience, bu
 Check the official website for information on accessibility options to ensure a comfortable visit for all guests.
 
 ### Can I buy tickets online?
-Entry to the mosque is typically free, but it’s advisable to check the official website for any changes or special events that may require tickets.
+Entry to the mosque is typically free, but it's advisable to check the official website for any changes or special events that may require tickets.
 
 ### Are there restrooms and cafes?
 Facilities may vary, so checking the official website for specific amenities is recommended.

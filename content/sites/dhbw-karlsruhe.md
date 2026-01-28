@@ -32,7 +32,7 @@ The university's modern campus is a hub of activity, where students engage in a 
 
 ## History and Significance
 
-DHBW Karlsruhe (Duale Hochschule Baden-Württemberg Karlsruhe) is part of the broader DHBW network, established to meet the increasing need for a skilled workforce through a dual education model that combines theoretical study and practical training. While specific founding dates are not provided, the university’s establishment reflects the evolving landscape of higher education in Germany, particularly in response to the demands of the job market.
+DHBW Karlsruhe (Duale Hochschule Baden-Württemberg Karlsruhe) is part of the broader DHBW network, established to meet the increasing need for a skilled workforce through a dual education model that combines theoretical study and practical training. While specific founding dates are not provided, the university's establishment reflects the evolving landscape of higher education in Germany, particularly in response to the demands of the job market.
 
 The institution has gained recognition for its innovative approach to education, which integrates classroom learning with real-world application. This model has proven beneficial not only for students but also for local businesses, as it fosters a seamless transition from academia to industry. By aligning educational outcomes with the needs of employers, DHBW Karlsruhe plays a crucial role in contributing to the economic vitality of the region.
 
@@ -42,7 +42,7 @@ Beyond its educational mission, the university is significant for its role in pr
 
 DHBW Karlsruhe features a blend of modern architectural design and functional learning spaces that create an inviting atmosphere for students and visitors alike. The campus is characterized by contemporary buildings equipped with state-of-the-art facilities that support a wide range of academic pursuits. Classrooms are designed to foster collaboration, featuring flexible layouts that accommodate different teaching methods and group work.
 
-One notable aspect of the university's architecture is its emphasis on sustainability and environmental responsibility. The campus incorporates green spaces that not only enhance the aesthetic appeal of the grounds but also provide areas for relaxation and social interaction among students. The integration of natural elements within the campus design reflects the institution’s commitment to creating a conducive learning environment.
+One notable aspect of the university's architecture is its emphasis on sustainability and environmental responsibility. The campus incorporates green spaces that not only enhance the aesthetic appeal of the grounds but also provide areas for relaxation and social interaction among students. The integration of natural elements within the campus design reflects the institution's commitment to creating a conducive learning environment.
 
 Additionally, the university hosts various facilities that support student life, including study areas, laboratories, and recreational spaces. These features are essential in promoting a balanced academic experience, allowing students to engage in both their studies and extracurricular activities.
 

@@ -32,7 +32,7 @@ This site not only memorializes the fallen but also invites contemplation of Ger
 
 ## History and Significance
 
-The Ehrenfriedhof für Gefallene der Roten Armee occupies a significant place in the narrative of Germany’s post-World War II landscape. Established in the aftermath of the war, this cemetery is dedicated to the soldiers of the Soviet Union who perished during the liberation of Germany from Nazi rule. The site is emblematic of the complex and often fraught relationship between Germany and Russia, reflecting broader themes of loss, sacrifice, and the quest for peace.
+The Ehrenfriedhof für Gefallene der Roten Armee occupies a significant place in the narrative of Germany's post-World War II landscape. Established in the aftermath of the war, this cemetery is dedicated to the soldiers of the Soviet Union who perished during the liberation of Germany from Nazi rule. The site is emblematic of the complex and often fraught relationship between Germany and Russia, reflecting broader themes of loss, sacrifice, and the quest for peace.
 
 The establishment of such memorials is rooted in cultural and political motivations, particularly in the context of post-war Germany. Memorials like the Ehrenfriedhof serve not only as final resting places but as sites of collective memory, where communities can engage with their past. The cemetery reflects a shift in how wartime narratives are constructed, highlighting the importance of acknowledging all facets of history, including those of former enemies.
 

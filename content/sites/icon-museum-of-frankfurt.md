@@ -68,7 +68,7 @@ For a more enjoyable experience at the Icon Museum of Frankfurt, consider the fo
 
 - **Photography**: Be mindful of the museum's policy on photography, as some exhibitions may have restrictions.
 - **Crowd Avoidance**: Visiting during weekday mornings can help you avoid larger crowds, allowing for a more personal experience with the exhibits.
-- **Engage with Staff**: Don’t hesitate to ask museum staff about specific exhibits or icons; they can often provide valuable insights and context.
+- **Engage with Staff**: Don't hesitate to ask museum staff about specific exhibits or icons; they can often provide valuable insights and context.
 
 ## Practical Information
 
@@ -83,7 +83,7 @@ When preparing for your visit to the Icon Museum of Frankfurt, keep the followin
 A visit typically lasts between one to two hours, depending on your level of interest in the exhibitions.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum's rules upon arrival.
+Photography policies may vary, so it's best to check the museum's rules upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, which may enhance your understanding of the exhibits.

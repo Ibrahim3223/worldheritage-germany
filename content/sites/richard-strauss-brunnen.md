@@ -28,7 +28,7 @@ image_srcset:
 
 The Richard-Strauss-Brunnen is a celebrated fountain located in the heart of Altstadt-Lehel in Germany. This charming piece of public art not only serves as a refreshing oasis amidst the urban landscape but also pays homage to the illustrious composer Richard Strauss, whose contributions to the world of music are both profound and enduring. Situated at coordinates 48.1386, 11.5696, this fountain is an invitation to locals and travelers alike to pause and reflect on the cultural legacy of one of Germany's most revered figures. 
 
-Visitors to the Richard-Strauss-Brunnen can expect a harmonious blend of art, history, and a lively atmosphere as they explore the surrounding area. The fountain’s significance extends beyond its aesthetic appeal; it acts as a gathering point for residents and tourists, offering a glimpse into the vibrant life of Munich. Whether you are an admirer of classical music or simply seeking a serene spot to relax, the Richard-Strauss-Brunnen promises to enrich your experience of this historic district.
+Visitors to the Richard-Strauss-Brunnen can expect a harmonious blend of art, history, and a lively atmosphere as they explore the surrounding area. The fountain's significance extends beyond its aesthetic appeal; it acts as a gathering point for residents and tourists, offering a glimpse into the vibrant life of Munich. Whether you are an admirer of classical music or simply seeking a serene spot to relax, the Richard-Strauss-Brunnen promises to enrich your experience of this historic district.
 
 ## History and Significance
 
@@ -104,4 +104,4 @@ While specific amenities at the fountain are not listed, nearby attractions typi
 ### What should I wear?  
 Dress comfortably and in layers to accommodate the seasonal weather, and wear sturdy shoes for walking.
 
-The Richard-Strauss-Brunnen is not just a fountain; it’s an integral part of Munich's cultural fabric, inviting visitors to pause, reflect, and enjoy the beauty of public art in an urban environment.
+The Richard-Strauss-Brunnen is not just a fountain; it's an integral part of Munich's cultural fabric, inviting visitors to pause, reflect, and enjoy the beauty of public art in an urban environment.

@@ -74,7 +74,7 @@ To fully appreciate the site, take your time wandering around the grounds and en
 
 ## Practical Information
 
-Before visiting Gut Ahlhausen, it’s wise to prepare adequately. Ensure you have comfortable walking shoes, as exploring the site may involve some walking. Depending on the season, be prepared for varying weather conditions; bringing an umbrella or light jacket is advisable, especially during the cooler months.
+Before visiting Gut Ahlhausen, it's wise to prepare adequately. Ensure you have comfortable walking shoes, as exploring the site may involve some walking. Depending on the season, be prepared for varying weather conditions; bringing an umbrella or light jacket is advisable, especially during the cooler months.
 
 If you plan to spend an extended period in the area, consider packing a light snack and water, as local dining options may vary. Staying hydrated and energized will enhance your visit.
 

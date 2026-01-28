@@ -64,7 +64,7 @@ While in Durbach, visitors can explore several nearby attractions that enhance t
 
 To make the most of your visit to the Museum für Aktuelle Kunst, consider visiting during off-peak hours, typically early in the morning or later in the afternoon, to avoid crowds. This will allow for a more contemplative experience with the artworks. Photography policies may vary depending on the exhibitions, so check for signs and be respectful of any restrictions.
 
-If you enjoy discussing art, consider joining guided tours or workshops that may be offered during your visit. These can provide deeper insights into the exhibits and the artists’ intentions.
+If you enjoy discussing art, consider joining guided tours or workshops that may be offered during your visit. These can provide deeper insights into the exhibits and the artists' intentions.
 
 ## Practical Information
 

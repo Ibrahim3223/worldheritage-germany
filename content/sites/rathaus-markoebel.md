@@ -34,7 +34,7 @@ For those interested in local governance, architecture, or simply the ambiance o
 
 While specific historical details regarding the date of establishment or key events associated with Rathaus (Marköbel) may not be readily available, city halls in Germany traditionally serve as important cultural and administrative centers. They often reflect the evolution of local governance and the community's development over time. In Marköbel, the Rathaus is not merely a building for bureaucratic functions; it embodies the spirit of local traditions and civic identity.
 
-City halls in Germany have historically been sites for various public events, celebrations, and local gatherings. As the seat of municipal authority, the Rathaus likely played a role in the governance of Marköbel, contributing to the administrative framework that supports local residents. The building’s presence in the town center underscores its importance as a venue for public discourse and community engagement.
+City halls in Germany have historically been sites for various public events, celebrations, and local gatherings. As the seat of municipal authority, the Rathaus likely played a role in the governance of Marköbel, contributing to the administrative framework that supports local residents. The building's presence in the town center underscores its importance as a venue for public discourse and community engagement.
 
 In examining its significance, one can appreciate how the Rathaus represents the socio-political fabric of Marköbel. It has likely witnessed changes in governance, societal shifts, and the evolution of civic responsibilities through the years, marking its role in the broader narrative of communal life in the region.
 

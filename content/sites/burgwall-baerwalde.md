@@ -28,7 +28,7 @@ image_srcset:
 
 Burgwall Bärwalde represents a significant archaeological site in Brandenburg, Germany, embodying the enduring legacy of ancient cultures. This hillfort, located at coordinates 51.8228, 13.2575, is not only a testament to the ingenuity of past civilizations but also a key to understanding the region's historical landscape. The site serves as a crucial link to the past, inviting visitors to explore its rich cultural narrative amid the serene backdrop of northeastern Germany. 
 
-As you delve into the history of Burgwall Bärwalde, you will uncover the stories of those who once inhabited this strategic stronghold, providing a fascinating glimpse into their lives and societal structures. The site offers a unique opportunity for both history enthusiasts and casual visitors to engage with the heritage of the area while enjoying the peaceful surroundings typical of Brandenburg’s countryside.
+As you delve into the history of Burgwall Bärwalde, you will uncover the stories of those who once inhabited this strategic stronghold, providing a fascinating glimpse into their lives and societal structures. The site offers a unique opportunity for both history enthusiasts and casual visitors to engage with the heritage of the area while enjoying the peaceful surroundings typical of Brandenburg's countryside.
 
 ## History and Significance
 
@@ -40,7 +40,7 @@ In addition to its historical significance, Burgwall Bärwalde contributes to th
 
 ## Architecture and Features
 
-Burgwall Bärwalde’s architectural features are typical of hillforts found throughout Europe, characterized by their elevated locations and defensive structures. While detailed descriptions of the specific architectural elements of Bärwalde are not available, hillforts often feature ramparts, ditches, and, in some cases, wooden palisades. These structures were designed not only for defense but also to delineate space within the settlement, creating areas for habitation, storage, and communal activities.
+Burgwall Bärwalde's architectural features are typical of hillforts found throughout Europe, characterized by their elevated locations and defensive structures. While detailed descriptions of the specific architectural elements of Bärwalde are not available, hillforts often feature ramparts, ditches, and, in some cases, wooden palisades. These structures were designed not only for defense but also to delineate space within the settlement, creating areas for habitation, storage, and communal activities.
 
 Visitors to the site can expect to see remnants of these fortifications, which may include earthen mounds and outlines of former structures. The layout of the hillfort often reflects the strategic planning of its inhabitants, with an emphasis on visibility and control over the surrounding landscape. Exploring these features provides insight into the engineering capabilities of the time and the daily lives of those who utilized the fort for protection and community.
 

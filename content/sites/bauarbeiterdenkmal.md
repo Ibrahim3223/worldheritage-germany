@@ -98,10 +98,10 @@ Early mornings or late afternoons tend to be the best times to visit for fewer c
 Check the official website for details regarding accessibility options at the site.
 
 ### Can I buy tickets online?
-Typically, there are no tickets required for visiting the monument, but it’s advisable to verify any special events that might require pre-purchase.
+Typically, there are no tickets required for visiting the monument, but it's advisable to verify any special events that might require pre-purchase.
 
 ### Are there restrooms and cafes?
-There are likely facilities nearby, but it’s recommended to check local maps for specific locations.
+There are likely facilities nearby, but it's recommended to check local maps for specific locations.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore additional sites in Wiesbaden.

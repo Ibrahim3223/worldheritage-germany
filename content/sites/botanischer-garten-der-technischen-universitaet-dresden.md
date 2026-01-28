@@ -64,7 +64,7 @@ After enjoying the Botanischer Garten, consider exploring some of the nearby att
 
 3. **Semper Opera House**: Renowned for its architectural beauty and world-class performances, this opera house is a cultural landmark in Dresden.
 
-4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade offers stunning views of the Elbe River and the city’s historic architecture.
+4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade offers stunning views of the Elbe River and the city's historic architecture.
 
 5. **Frauenkirche**: A symbol of reconciliation and peace, this church features a magnificent dome and hosts various cultural events throughout the year.
 

@@ -30,7 +30,7 @@ Tierpark Bad Pyrmont offers a unique blend of animal encounters and a serene woo
 
 The significance of Tierpark Bad Pyrmont extends beyond its role as a zoo; it is a part of the local cultural landscape, contributing to the community's recreational and educational offerings. Whether you are a local resident or a traveler, the park promises an enriching experience, providing insight into wildlife conservation and the importance of biodiversity. 
 
-Visitors can expect to enjoy a leisurely day amidst lush greenery and well-maintained paths, encouraging exploration and engagement with nature. The park’s layout facilitates easy navigation, making it suitable for all ages. With the tranquil ambiance and the opportunity to learn about different species, Tierpark Bad Pyrmont is a delightful retreat that underscores the connection between people and the animal kingdom.
+Visitors can expect to enjoy a leisurely day amidst lush greenery and well-maintained paths, encouraging exploration and engagement with nature. The park's layout facilitates easy navigation, making it suitable for all ages. With the tranquil ambiance and the opportunity to learn about different species, Tierpark Bad Pyrmont is a delightful retreat that underscores the connection between people and the animal kingdom.
 
 ## History and Significance
 

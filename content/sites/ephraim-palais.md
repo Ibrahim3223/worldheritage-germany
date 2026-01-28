@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-Ephraim-Palais, an elegant Rokoko building situated in the heart of Berlin, serves as a cultural hub that invites visitors to explore the diverse history and artistry of the city. This art museum, part of the Stadtmuseum Berlin, hosts special exhibitions that delve into various themes related to Berlin's rich cultural landscape. The museum’s setting offers a unique opportunity to engage with both the architectural beauty of the building itself and the dynamic exhibitions within.
+Ephraim-Palais, an elegant Rokoko building situated in the heart of Berlin, serves as a cultural hub that invites visitors to explore the diverse history and artistry of the city. This art museum, part of the Stadtmuseum Berlin, hosts special exhibitions that delve into various themes related to Berlin's rich cultural landscape. The museum's setting offers a unique opportunity to engage with both the architectural beauty of the building itself and the dynamic exhibitions within.
 
 Located in Bezirk Mitte, Ephraim-Palais is easily accessible for both locals and tourists alike. The museum stands as an important site for those looking to understand the historical narrative of Berlin through art and curated displays. Whether you are an art enthusiast or a casual visitor, Ephraim-Palais promises a thought-provoking experience that captures the essence of Berlin's evolving cultural identity.
 
 ## History and Significance
 
-Ephraim-Palais has played a significant role in the cultural history of Berlin. Originally constructed as a private residence, this building exemplifies the architectural style of the Rokoko period, characterized by its ornamental and decorative elements. Over the years, the structure has transitioned from a private home to a public museum, reflecting the changing dynamics of Berlin’s urban landscape.
+Ephraim-Palais has played a significant role in the cultural history of Berlin. Originally constructed as a private residence, this building exemplifies the architectural style of the Rokoko period, characterized by its ornamental and decorative elements. Over the years, the structure has transitioned from a private home to a public museum, reflecting the changing dynamics of Berlin's urban landscape.
 
-As part of the Stadtmuseum Berlin, Ephraim-Palais hosts a range of special exhibitions that explore themes related to the city's history and culture. These exhibitions often include works from various artistic disciplines, providing insights into both contemporary and historical contexts. The museum's focus on Berlin's diverse narratives allows it to serve as an important resource for understanding the complexities of the city’s past and present.
+As part of the Stadtmuseum Berlin, Ephraim-Palais hosts a range of special exhibitions that explore themes related to the city's history and culture. These exhibitions often include works from various artistic disciplines, providing insights into both contemporary and historical contexts. The museum's focus on Berlin's diverse narratives allows it to serve as an important resource for understanding the complexities of the city's past and present.
 
 The significance of Ephraim-Palais extends beyond its exhibitions; it also provides a venue for cultural events and educational activities. By fostering a deeper appreciation for Berlin's heritage, the museum contributes to the ongoing dialogue about the city's identity and its place in the broader scope of German history.
 
@@ -52,7 +52,7 @@ Ephraim-Palais is conveniently located in Bezirk Mitte, making it accessible via
 
 For the most accurate information regarding opening hours and ticket prices, check the official website. Generally, visitors can expect to spend around one to two hours exploring the museum, depending on their level of interest in the exhibitions on display. The best times to visit are during weekdays when the museum is typically less crowded, allowing for a more intimate experience with the art and artifacts.
 
-As you plan your visit, consider the ongoing exhibitions, as they can greatly enhance your understanding of Berlin’s cultural landscape. The museum often features works from local artists as well as thematic exhibitions that connect to broader historical narratives.
+As you plan your visit, consider the ongoing exhibitions, as they can greatly enhance your understanding of Berlin's cultural landscape. The museum often features works from local artists as well as thematic exhibitions that connect to broader historical narratives.
 
 ## Nearby Attractions
 

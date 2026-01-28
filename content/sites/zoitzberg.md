@@ -70,7 +70,7 @@ Additionally, trail maps may be available at the visitor center or online, helpi
 
 ## Practical Information
 
-When preparing for a visit to Zoitzberg, it’s essential to consider what to bring. Comfortable hiking shoes, weather-appropriate clothing, and plenty of water are crucial for a safe and enjoyable experience. Depending on the season, layers may be advisable, as temperatures can vary throughout the day.
+When preparing for a visit to Zoitzberg, it's essential to consider what to bring. Comfortable hiking shoes, weather-appropriate clothing, and plenty of water are crucial for a safe and enjoyable experience. Depending on the season, layers may be advisable, as temperatures can vary throughout the day.
 
 Seasonal considerations also play a role in your visit. During spring and summer, wildflowers can add vibrant colors to the landscape, while autumn showcases stunning foliage. Winter may present challenging conditions, so be sure to check weather forecasts in advance.
 

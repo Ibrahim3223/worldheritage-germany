@@ -61,7 +61,7 @@ While the Freiherr-vom-Stein-Denkmal is a focal point for visitors to Karstädt,
 1. **Karstädt Town Center**: A quaint area featuring local shops and cafes where visitors can enjoy a taste of local culture and cuisine.
 2. **Historical Buildings**: The town is home to several architectural gems that reflect its historical journey, providing insight into the region's development.
 3. **Local Parks**: Surrounding green spaces offer an opportunity for leisurely walks or picnics, allowing visitors to relax and enjoy nature.
-4. **Cultural Institutions**: Museums and galleries in and around Karstädt display local art and historical artifacts, deepening your understanding of the area’s heritage.
+4. **Cultural Institutions**: Museums and galleries in and around Karstädt display local art and historical artifacts, deepening your understanding of the area's heritage.
 
 These attractions complement the visit to the Freiherr-vom-Stein-Denkmal, making for a well-rounded exploration of the region.
 

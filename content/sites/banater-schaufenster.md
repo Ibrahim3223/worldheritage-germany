@@ -73,7 +73,7 @@ If you have specific interests in cultural artifacts or particular exhibits, it 
 
 When planning your visit to the Banater Schaufenster, consider bringing along essentials such as a water bottle, comfortable walking shoes, and a light jacket, as museum temperatures can vary. If you have specific dietary needs, packing snacks or a meal may be a good idea, as dining options nearby may vary.
 
-Seasonal considerations can affect your visit. The museum may have special events or exhibitions during certain times of the year, so it’s advisable to check the official website for updates. This will help you plan your visit to coincide with any unique offerings that may enhance your experience.
+Seasonal considerations can affect your visit. The museum may have special events or exhibitions during certain times of the year, so it's advisable to check the official website for updates. This will help you plan your visit to coincide with any unique offerings that may enhance your experience.
 
 ## Frequently Asked Questions
 
@@ -81,7 +81,7 @@ Seasonal considerations can affect your visit. The museum may have special event
 Most visitors find that spending a few hours allows for a thorough exploration of the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum's guidelines regarding photography.
+Photography policies may vary, so it's best to check the museum's guidelines regarding photography.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details and availability.

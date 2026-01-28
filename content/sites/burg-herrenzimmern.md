@@ -99,7 +99,7 @@ Check the official website for specific details regarding accessibility options.
 For up-to-date information on ticket purchasing, including online options, visit the official website.
 
 ### Are there restrooms and cafes?
-Amenities such as restrooms may be available on-site, but it’s best to verify current offerings on the official website.
+Amenities such as restrooms may be available on-site, but it's best to verify current offerings on the official website.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, as visitors may wish to explore the castle grounds thoroughly.

@@ -46,7 +46,7 @@ Reaching Zeche Bommerbänker Erbstolln is relatively straightforward, given its 
 
 Check the official website for current information regarding hours and prices, as these can change seasonally or based on special events. When planning your visit, it is advisable to allocate ample time to explore the site thoroughly. While the exact duration will depend on your interests, a few hours should allow for a comprehensive experience.
 
-The best times to visit may vary, so it’s worth checking for any special events or guided tours that could enhance your understanding of the mine's history and significance. Engaging with knowledgeable guides can provide deeper insights into the mining culture and the impact it had on the local community.
+The best times to visit may vary, so it's worth checking for any special events or guided tours that could enhance your understanding of the mine's history and significance. Engaging with knowledgeable guides can provide deeper insights into the mining culture and the impact it had on the local community.
 
 ## Nearby Attractions
 
@@ -89,13 +89,13 @@ Check the official website for information about guided tours, which can provide
 The best time to visit may vary, so check the official website for special events or tours that can enhance your experience.
 
 ### Is it wheelchair accessible?
-Access information may vary, so it’s best to consult the official website for details regarding wheelchair accessibility at the site.
+Access information may vary, so it's best to consult the official website for details regarding wheelchair accessibility at the site.
 
 ### Can I buy tickets online?
 Check the official website for current information on ticket purchasing options, including online availability.
 
 ### Are there restrooms and cafes?
-Restroom facilities may be available on site, but it’s advisable to confirm this through the official website. Cafes or refreshment options may also be limited, so plan accordingly.
+Restroom facilities may be available on site, but it's advisable to confirm this through the official website. Cafes or refreshment options may also be limited, so plan accordingly.
 
 ### What should I wear?
 Wear comfortable clothing and sturdy shoes suitable for walking. Dress in layers to adjust to changing weather conditions.

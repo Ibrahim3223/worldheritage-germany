@@ -54,7 +54,7 @@ The Neubrandenburg Regional Library is conveniently located near several notable
 
 1. **Neubrandenburg Town Center**: A vibrant area filled with shops, cafes, and historical landmarks, perfect for a leisurely afternoon stroll.
   
-2. **St. Mary’s Church**: An architectural marvel showcasing Gothic design, this church is a significant part of the city's history and a must-visit for architecture enthusiasts.
+2. **St. Mary's Church**: An architectural marvel showcasing Gothic design, this church is a significant part of the city's history and a must-visit for architecture enthusiasts.
 
 3. **Neubrandenburger Kulturbrauerei**: This cultural brewery offers a unique blend of history and local craft beer, making it an interesting stop for those looking to experience local flavors.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Neubrandenburg Regional Library, consider 
 
 When planning your visit to the Neubrandenburg Regional Library, consider the following practical information:
 
-- **What to Bring**: It’s advisable to have your library card if you are a member or a form of identification if you plan to borrow materials. 
+- **What to Bring**: It's advisable to have your library card if you are a member or a form of identification if you plan to borrow materials. 
 
 - **Seasonal Considerations**: The library's atmosphere can vary with the seasons, so consider visiting during the spring or fall for a more pleasant experience, as the weather is generally milder.
 
@@ -91,7 +91,7 @@ A visit of at least one hour is recommended to fully explore the library's resou
 Photography policies can vary, so check in advance or inquire with library staff upon arrival.
 
 ### Are there guided tours?
-Currently, specific details about guided tours are not available. It’s best to check the official website for any upcoming events.
+Currently, specific details about guided tours are not available. It's best to check the official website for any upcoming events.
 
 ### What's the best time to visit?
 Weekdays, particularly in the early afternoons, are often less crowded, providing a more tranquil experience.

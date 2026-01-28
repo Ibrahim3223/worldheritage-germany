@@ -62,7 +62,7 @@ Borkum Riff's proximity to several attractions makes it an excellent base for fu
 
 2. **Wadden Sea National Park**: Designated as a UNESCO World Heritage Site, this expansive national park is renowned for its unique tidal flats and diverse wildlife. It offers opportunities for guided tours and educational experiences.
 
-3. **Borkum Lighthouse**: This historic lighthouse, located on the island, provides panoramic views of the surrounding landscape and the North Sea. It’s a popular spot for photography and sightseeing.
+3. **Borkum Lighthouse**: This historic lighthouse, located on the island, provides panoramic views of the surrounding landscape and the North Sea. It's a popular spot for photography and sightseeing.
 
 4. **Wadden Sea Visitor Center**: This center serves as an educational hub focused on the Wadden Sea ecosystem, featuring exhibits and information on local wildlife and conservation efforts.
 
@@ -80,7 +80,7 @@ If you are keen on birdwatching, bringing binoculars and a field guide can great
 
 When planning your visit to Borkum Riff, there are several practical considerations to keep in mind. Since this is a nature reserve, it is essential to bring essentials such as water, snacks, and sunscreen. If you plan to walk or cycle, comfortable footwear and weather-appropriate clothing are necessary.
 
-Seasonal considerations include preparing for cooler temperatures in the spring and autumn months, as well as potential rainfall. It’s advisable to check the local weather forecast before your visit to ensure a comfortable experience.
+Seasonal considerations include preparing for cooler temperatures in the spring and autumn months, as well as potential rainfall. It's advisable to check the local weather forecast before your visit to ensure a comfortable experience.
 
 Given its natural setting, it is crucial to adhere to any guidelines set by the reserve to protect the environment. Following marked paths and respecting wildlife habitats will help preserve the integrity of Borkum Riff for future visitors.
 
@@ -105,7 +105,7 @@ Access details may vary, so check the official website for specific information 
 Check the official website for current information on ticket purchasing options, as they may vary.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the reserve, so it’s advisable to plan ahead. Check the official website for specific amenities.
+Facilities may be limited within the reserve, so it's advisable to plan ahead. Check the official website for specific amenities.
 
 ### What should I wear?
 Dress in layers and wear comfortable walking shoes suitable for varying weather conditions, as the coastal climate can change rapidly.

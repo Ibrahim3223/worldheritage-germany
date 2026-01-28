@@ -101,7 +101,7 @@ Some areas of the reserve may be accessible, but check the official website for 
 Check the official website for information regarding entrance fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to plan accordingly. Check the official website for details on amenities.
+Facilities may be limited, so it's advisable to plan accordingly. Check the official website for details on amenities.
 
 ### What should I wear?
 Comfortable clothing and sturdy footwear are recommended, along with layers to adapt to changing weather conditions.

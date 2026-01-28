@@ -30,7 +30,7 @@ The New Chambers, located within the enchanting Sanssouci Park in Potsdam, Germa
 
 ## History and Significance
 
-The New Chambers were constructed as a guest palace for Frederick the Great, the King of Prussia, to accommodate visitors to his summer residence at Sanssouci Palace. This structure exemplifies the grandeur of the Prussian court during the 18th century and serves as a reflection of Frederick’s enlightened ideals. The palace was designed to not only provide comfort to guests but also to impress them with its artistic and architectural merits. 
+The New Chambers were constructed as a guest palace for Frederick the Great, the King of Prussia, to accommodate visitors to his summer residence at Sanssouci Palace. This structure exemplifies the grandeur of the Prussian court during the 18th century and serves as a reflection of Frederick's enlightened ideals. The palace was designed to not only provide comfort to guests but also to impress them with its artistic and architectural merits. 
 
 As a museum, it houses an array of art and artifacts that highlight the historical significance of the period. The New Chambers has played a vital role in preserving and presenting the cultural heritage of Prussia, showcasing works that exemplify the artistic movements of the time. By bringing together various artistic styles and influences, the New Chambers serves as a vital resource for understanding the evolution of art in Germany during the Enlightenment.
 
@@ -66,7 +66,7 @@ For photography enthusiasts, the New Chambers and its surrounding gardens offer 
 
 ## Practical Information
 
-When planning your visit to the New Chambers, it’s advisable to wear comfortable footwear, as you may want to explore the expansive Sanssouci Park. Be sure to consider the weather, as conditions can vary; a light jacket may be useful during cooler months, while sunscreen is recommended for sunny days. 
+When planning your visit to the New Chambers, it's advisable to wear comfortable footwear, as you may want to explore the expansive Sanssouci Park. Be sure to consider the weather, as conditions can vary; a light jacket may be useful during cooler months, while sunscreen is recommended for sunny days. 
 
 Visitors may want to bring a small water bottle and snacks, especially if they plan to spend additional time exploring the park. Check the official website for any specific seasonal events or exhibitions that may enhance your experience.
 

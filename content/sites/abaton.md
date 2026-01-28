@@ -30,7 +30,7 @@ Abaton is a prominent movie theater located in the vibrant Eimsbüttel district 
 
 ## History and Significance
 
-While specific dates and historical milestones for Abaton are not detailed, the theater has carved out an important niche within Hamburg’s film landscape. It stands as a testament to the city's rich cinematic history and reflects the evolving tastes of moviegoers. Throughout its operation, Abaton has focused on providing a platform for independent filmmakers, foreign films, and unique cinematic experiences that are often overshadowed by mainstream cinema. 
+While specific dates and historical milestones for Abaton are not detailed, the theater has carved out an important niche within Hamburg's film landscape. It stands as a testament to the city's rich cinematic history and reflects the evolving tastes of moviegoers. Throughout its operation, Abaton has focused on providing a platform for independent filmmakers, foreign films, and unique cinematic experiences that are often overshadowed by mainstream cinema. 
 
 The significance of Abaton extends beyond its film offerings; it acts as a cultural hub where community events, film festivals, and discussions frequently take place. This engagement fosters a sense of community among film lovers, making it an essential part of Hamburg's social fabric. The theater often collaborates with local artists and organizations, further enhancing its role in promoting the arts within the region.
 

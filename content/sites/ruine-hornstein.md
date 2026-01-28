@@ -26,13 +26,13 @@ image_srcset:
 
 ## Overview
 
-Ruine Hornstein, a remarkable castle located in the Bingen region of Germany, encapsulates centuries of history and cultural significance. Perched on the hillside, this ancient structure offers a glimpse into the architectural prowess of its time. As you explore the ruins, you’ll find yourself immersed in the storied past of this region, which has long been a crossroads of trade and cultural exchange. The castle’s remnants continue to attract history enthusiasts and casual visitors alike, eager to uncover the stories hidden within its walls. 
+Ruine Hornstein, a remarkable castle located in the Bingen region of Germany, encapsulates centuries of history and cultural significance. Perched on the hillside, this ancient structure offers a glimpse into the architectural prowess of its time. As you explore the ruins, you'll find yourself immersed in the storied past of this region, which has long been a crossroads of trade and cultural exchange. The castle's remnants continue to attract history enthusiasts and casual visitors alike, eager to uncover the stories hidden within its walls. 
 
 Situated at coordinates 48.1108, 9.26, Ruine Hornstein is easily accessible and serves as an intriguing destination for those exploring the scenic landscapes of Bingen. Its historical context and architectural features make it a must-visit site for anyone interested in medieval structures and the evolution of castle design in Germany.
 
 ## History and Significance
 
-Ruine Hornstein’s historical narrative is intricately linked to the broader story of castle construction in Germany during the medieval period. While specific dates of construction and significant events in its history are not detailed, the castle’s presence signifies the strategic importance of fortifications in this region. Castles such as Hornstein were often built to protect trade routes and serve as residences for local nobility.
+Ruine Hornstein's historical narrative is intricately linked to the broader story of castle construction in Germany during the medieval period. While specific dates of construction and significant events in its history are not detailed, the castle's presence signifies the strategic importance of fortifications in this region. Castles such as Hornstein were often built to protect trade routes and serve as residences for local nobility.
 
 The castle's decline, like many others, reflects the shifting tides of power and the changing nature of warfare and defense mechanisms throughout the ages. As political allegiances shifted and new forms of military architecture emerged, many medieval castles became obsolete. Ruine Hornstein stands as a reminder of this evolution, offering insights into the socio-political dynamics of its era. 
 
@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays, particularly in the off-peak
 
 ## Practical Information
 
-When visiting Ruine Hornstein, it’s advisable to wear comfortable shoes, as the terrain may be uneven. Bringing a camera is a must for those wishing to document their experience. 
+When visiting Ruine Hornstein, it's advisable to wear comfortable shoes, as the terrain may be uneven. Bringing a camera is a must for those wishing to document their experience. 
 
 Seasonal considerations are important; spring and autumn generally offer the most pleasant weather for exploration. Be sure to check the weather forecast before your visit to ensure a comfortable experience.
 

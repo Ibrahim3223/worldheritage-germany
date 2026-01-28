@@ -78,7 +78,7 @@ Seasonal considerations should be noted, as Guben experiences varying weather co
 A visit typically takes between one to two hours, allowing ample time to explore the exhibits.
 
 ### Is photography allowed?
-Check the museum’s policies regarding photography, as restrictions may apply.
+Check the museum's policies regarding photography, as restrictions may apply.
 
 ### Are there guided tours?
 Guided tours may be available; confirm through the official website for current offerings.

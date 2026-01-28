@@ -36,7 +36,7 @@ The Hafenspitze is an architectural ensemble that reflects the ongoing transform
 
 The architectural ensemble is part of a larger trend in cities across Europe, where waterfront areas are being revitalized to enhance public accessibility and enjoyment. This transformation not only revitalizes the local economy but also fosters a sense of community and connection to the water. The Hafenspitze contributes to this cultural renaissance, offering a space where people can gather, relax, and appreciate the dynamic interplay between architecture and nature.
 
-Moreover, the site underscores Düsseldorf's commitment to innovative design, showcasing the work of architects and urban planners who prioritize sustainability and aesthetic appeal. As a focal point in the city’s architectural narrative, the Hafenspitze invites reflection on the past while inspiring visions for the future.
+Moreover, the site underscores Düsseldorf's commitment to innovative design, showcasing the work of architects and urban planners who prioritize sustainability and aesthetic appeal. As a focal point in the city's architectural narrative, the Hafenspitze invites reflection on the past while inspiring visions for the future.
 
 ## Architecture and Features
 

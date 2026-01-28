@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Platz der Republik, located in the heart of Berlin's Bezirk Mitte, serves as a significant public square that encapsulates the essence of Germany's capital. With coordinates 52.5186, 13.3725, this square is not just a geographical point; it is a venue of political discourse, cultural gatherings, and historical significance. Surrounded by notable landmarks, Platz der Republik is a vibrant hub that attracts both locals and tourists alike, providing an essential link to the city’s rich past and dynamic present. Visitors can expect a lively atmosphere, with various activities and events taking place throughout the year.
+Platz der Republik, located in the heart of Berlin's Bezirk Mitte, serves as a significant public square that encapsulates the essence of Germany's capital. With coordinates 52.5186, 13.3725, this square is not just a geographical point; it is a venue of political discourse, cultural gatherings, and historical significance. Surrounded by notable landmarks, Platz der Republik is a vibrant hub that attracts both locals and tourists alike, providing an essential link to the city's rich past and dynamic present. Visitors can expect a lively atmosphere, with various activities and events taking place throughout the year.
 
 As a public square, Platz der Republik plays a crucial role in the city's social fabric. It has hosted numerous events, rallies, and gatherings that reflect Germany's evolving political landscape. This space is more than just a gathering spot; it is a symbol of community engagement and civic pride in a city that has undergone tremendous transformation over the decades. The square invites exploration and interaction, promising visitors a glimpse into Berlin's unique character and history.
 
@@ -114,4 +114,4 @@ While the square itself may not have restrooms or cafes, nearby attractions and 
 ### What should I wear?
 Dress comfortably and consider the weather. Layers are advisable, especially during transitional seasons.
 
-Platz der Republik stands as a vibrant public square in Berlin, inviting exploration and connection to the city’s cultural and political heritage. Whether you're there for a specific event or simply to enjoy the ambiance, it promises a rewarding experience for every visitor.
+Platz der Republik stands as a vibrant public square in Berlin, inviting exploration and connection to the city's cultural and political heritage. Whether you're there for a specific event or simply to enjoy the ambiance, it promises a rewarding experience for every visitor.

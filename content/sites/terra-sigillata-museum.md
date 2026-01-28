@@ -78,7 +78,7 @@ Rheinzabern's location makes it an excellent base for exploring other attraction
 
 To make the most of your visit to the Terra-Sigillata-Museum, consider these insider tips:
 
-- **Photography**: Be mindful of any restrictions regarding photography within the museum. It’s best to check with the staff before capturing any images to ensure compliance with the museum's policies.
+- **Photography**: Be mindful of any restrictions regarding photography within the museum. It's best to check with the staff before capturing any images to ensure compliance with the museum's policies.
 
 - **Crowd Avoidance**: If you prefer a quieter experience, try visiting during weekdays or in the late afternoon. This can help you avoid the larger crowds that may gather on weekends.
 

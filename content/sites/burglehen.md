@@ -103,7 +103,7 @@ Check the official website for specific accessibility information regarding path
 Information on ticket purchasing can be found on the official website. Ensure to check for any entry fees or permits required.
 
 ### Are there restrooms and cafes?
-Facilities may be limited within the reserve. It’s advisable to plan accordingly and consider bringing your own refreshments.
+Facilities may be limited within the reserve. It's advisable to plan accordingly and consider bringing your own refreshments.
 
 ### What should I wear?
 Dress comfortably for outdoor conditions and wear sturdy footwear suitable for walking on nature trails. 

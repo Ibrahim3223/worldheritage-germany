@@ -64,7 +64,7 @@ After exploring the Landesarboretum, consider visiting some nearby attractions t
 
 4. **Mercedes-Benz Museum**: For those interested in automotive history, this museum showcases the evolution of one of the world's most renowned car manufacturers.
 
-5. **Porsche Museum**: Another automotive landmark, it offers insights into the brand’s legacy and evolution over time, perfect for car enthusiasts.
+5. **Porsche Museum**: Another automotive landmark, it offers insights into the brand's legacy and evolution over time, perfect for car enthusiasts.
 
 These attractions provide a variety of experiences, allowing visitors to enrich their trip to the Stuttgart area.
 

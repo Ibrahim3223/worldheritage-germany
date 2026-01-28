@@ -60,7 +60,7 @@ For those looking to extend their visit in the Sprockhövel area, there are seve
 
 ## Insider Tips
 
-For the best experience at Zeche Caninchen, consider visiting during weekdays to avoid larger crowds typically seen on weekends. Early morning or late afternoon visits can also provide a quieter atmosphere for exploration. Photography enthusiasts will find the site’s industrial structures and remnants to be compelling subjects, so bring your camera and take time to capture the unique angles and textures of the site. Additionally, be respectful of the space, ensuring that you observe any guidelines laid out regarding photography and access.
+For the best experience at Zeche Caninchen, consider visiting during weekdays to avoid larger crowds typically seen on weekends. Early morning or late afternoon visits can also provide a quieter atmosphere for exploration. Photography enthusiasts will find the site's industrial structures and remnants to be compelling subjects, so bring your camera and take time to capture the unique angles and textures of the site. Additionally, be respectful of the space, ensuring that you observe any guidelines laid out regarding photography and access.
 
 ## Practical Information
 

@@ -112,6 +112,6 @@ Confirm any entry fees or ticketing arrangements by checking the official websit
 Facilities may vary; checking the official website for current information on available amenities is recommended.
 
 ### What should I wear?
-Dress comfortably for outdoor activities. Consider layers for varying weather conditions, and don’t forget swimwear if you plan to swim. 
+Dress comfortably for outdoor activities. Consider layers for varying weather conditions, and don't forget swimwear if you plan to swim. 
 
 Zellersee offers a harmonious blend of nature and recreation, providing a refreshing escape for those looking to unwind in a beautiful setting. Whether you come to relax by the water or engage in outdoor activities, this lake promises a fulfilling experience in the heart of Germany's scenic landscape.

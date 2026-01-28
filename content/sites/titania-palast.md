@@ -28,7 +28,7 @@ image_srcset:
 
 Titania-Palast, a former cinema and concert hall located in Berlin's Steglitz-Zehlendorf district, embodies a unique blend of historical charm and modern utility. Originally serving as a vibrant cultural hub, this site has transitioned into a shopping center that still houses a cinema, appealing to both film enthusiasts and shoppers alike. With its rich history and contemporary reinvention, Titania-Palast stands as an intriguing point of interest in Berlin, attracting visitors who appreciate the fusion of leisure and heritage.
 
-Berlin is renowned for its cultural landmarks, and Titania-Palast is no exception. Situated within a bustling urban setting, this site offers a glimpse into the city’s cinematic past, while seamlessly integrating contemporary shopping experiences. The allure of Titania-Palast lies not just in its architectural features but also in its role within the community, making it a significant landmark in the fabric of Berlin’s diverse neighborhoods.
+Berlin is renowned for its cultural landmarks, and Titania-Palast is no exception. Situated within a bustling urban setting, this site offers a glimpse into the city's cinematic past, while seamlessly integrating contemporary shopping experiences. The allure of Titania-Palast lies not just in its architectural features but also in its role within the community, making it a significant landmark in the fabric of Berlin's diverse neighborhoods.
 
 As you explore Titania-Palast, expect to discover a space that invites curiosity, whether through its historical roots or its current offerings. This guide will provide you with an in-depth look into its significance, architectural features, and essential visiting information, ensuring a fulfilling experience during your time in Berlin.
 
@@ -40,7 +40,7 @@ The transition from a dedicated cinema and concert hall to a shopping center wit
 
 Moreover, Titania-Palast serves as a reminder of Berlin's dynamic cultural heritage, where the arts have long played an integral role in community identity and expression. As a former concert hall, it has hosted numerous performances that resonated with the local populace, further embedding it in the community's collective memory.
 
-The significance of Titania-Palast extends beyond its walls; it is part of Berlin’s larger narrative as a city that has continually transformed itself, embracing both its past and future. Visitors to the site are not just engaging with a location, but are also connecting with a piece of Berlin’s evolving story.
+The significance of Titania-Palast extends beyond its walls; it is part of Berlin's larger narrative as a city that has continually transformed itself, embracing both its past and future. Visitors to the site are not just engaging with a location, but are also connecting with a piece of Berlin's evolving story.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ The thoughtful integration of modern retail spaces alongside the cinema highligh
 
 Visiting Titania-Palast offers a blend of shopping and cinematic experiences, making it a worthwhile addition to your Berlin itinerary. The site is easily accessible via public transportation, allowing visitors to reach it without hassle. Check the official website for current information on hours and pricing, as these may vary based on the day and season.
 
-When planning your visit, consider allocating a few hours to explore both the shopping center and the cinema. Depending on your interest in films or shopping, you may want to spend more time enjoying the offerings available. For those looking to catch a movie, it’s advisable to check the schedule in advance, as popular films can sell out quickly. 
+When planning your visit, consider allocating a few hours to explore both the shopping center and the cinema. Depending on your interest in films or shopping, you may want to spend more time enjoying the offerings available. For those looking to catch a movie, it's advisable to check the schedule in advance, as popular films can sell out quickly. 
 
 To optimize your experience, consider visiting during weekdays or earlier in the day to avoid larger crowds, particularly during weekends when shopping centers tend to be busier. The ambiance of Titania-Palast can be more enjoyable when shared with a smaller group of visitors.
 

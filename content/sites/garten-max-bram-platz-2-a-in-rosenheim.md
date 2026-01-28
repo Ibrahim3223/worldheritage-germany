@@ -22,7 +22,7 @@ images:
 
 Garten Max-Bram-Platz 2 a in Rosenheim is a cultural heritage monument located in the charming town of Rosenheim, Bavaria. This garden represents more than just a green space; it embodies the town's commitment to preserving its cultural heritage. Rosenheim, known for its architectural beauty and historical significance, provides a picturesque backdrop to this garden, which serves as a serene escape from the urban hustle. Visitors to Garten Max-Bram-Platz 2 a can expect a tranquil environment that invites relaxation and reflection, making it a worthwhile stop on any itinerary exploring this Bavarian city.
 
-The garden is not merely a collection of plants and flowers; it stands as a symbol of community and historical importance within the region. The design and layout of the garden reflect the influences of various historical periods, offering a glimpse into the aesthetic preferences of the time. As you explore this space, you’ll discover how it harmoniously combines nature with the essence of the local culture, contributing to its status as a point of interest in Rosenheim.
+The garden is not merely a collection of plants and flowers; it stands as a symbol of community and historical importance within the region. The design and layout of the garden reflect the influences of various historical periods, offering a glimpse into the aesthetic preferences of the time. As you explore this space, you'll discover how it harmoniously combines nature with the essence of the local culture, contributing to its status as a point of interest in Rosenheim.
 
 ## History and Significance
 
@@ -89,7 +89,7 @@ Check the official website for information on any guided tours that may be avail
 While the garden can be enjoyed year-round, spring and summer offer the most vibrant displays of flora. Visiting early in the morning or during weekdays can help avoid crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information is not specified, so it’s best to check the official website for details regarding wheelchair access within the garden.
+Accessibility information is not specified, so it's best to check the official website for details regarding wheelchair access within the garden.
 
 ### Can I buy tickets online?
 Check the official website for current admission policies, including whether tickets can be purchased online.

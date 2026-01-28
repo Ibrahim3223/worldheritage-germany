@@ -58,7 +58,7 @@ Visitors should prepare for varying weather conditions, as the bridge spans an o
 
 While the Nibelungenbrücke is a highlight, several nearby attractions enhance the experience of visiting Worms:
 
-1. **Worms Cathedral (Dom zu Worms)**: This stunning Romanesque cathedral is one of Germany’s oldest, featuring intricate architecture and significant historical artifacts.
+1. **Worms Cathedral (Dom zu Worms)**: This stunning Romanesque cathedral is one of Germany's oldest, featuring intricate architecture and significant historical artifacts.
    
 2. **Luther Monument**: A tribute to Martin Luther, this monument commemorates the Reformation and its impact on the region, located in a nearby park.
 

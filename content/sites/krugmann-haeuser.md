@@ -66,7 +66,7 @@ Expect to encounter informative signage that enhances your understanding of the 
 
 While the Krugmann-Häuser is a captivating destination on its own, several nearby attractions can enrich your visit to Meinerzhagen:
 
-1. **Meinerzhagen Town Center**: Explore the local shops, cafes, and eateries that reflect the town’s character and community spirit.
+1. **Meinerzhagen Town Center**: Explore the local shops, cafes, and eateries that reflect the town's character and community spirit.
 
 2. **Bergisches Land**: This picturesque region offers numerous hiking trails and natural landscapes perfect for outdoor enthusiasts.
 
@@ -114,7 +114,7 @@ The best times to visit are during spring and autumn when the weather is mild, a
 Check the official website for details regarding accessibility, as this can vary by specific areas within the site.
 
 ### Can I buy tickets online?
-Information about ticket purchasing may be available on the official website. It’s advisable to check ahead of your visit.
+Information about ticket purchasing may be available on the official website. It's advisable to check ahead of your visit.
 
 ### Are there restrooms and cafes?
 Facilities may be limited, so check the official website for information regarding restrooms and nearby dining options.

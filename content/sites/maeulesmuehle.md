@@ -28,7 +28,7 @@ image_srcset:
 
 Mäulesmühle, situated in the quarter of Leinfelden-Echterdingen in Baden-Württemberg, Germany, serves as a fascinating museum that encapsulates the region's industrial heritage and cultural narratives. This museum showcases a significant aspect of local history, reflecting the evolution of craftsmanship and the importance of traditional milling practices in the area. As you explore its exhibits, you will gain insights into the vital role that mills played in the daily lives of communities, particularly in the context of food production and local economies.
 
-Visitors to Mäulesmühle can expect a comprehensive and engaging experience that highlights not only the historical significance of milling but also the broader cultural implications of these practices in the region. The museum is an excellent destination for history enthusiasts, families, and anyone with an interest in local traditions and craftsmanship. Accessible and informative, Mäulesmühle invites guests to delve into the past and appreciate the enduring legacy of one of Germany’s essential industries.
+Visitors to Mäulesmühle can expect a comprehensive and engaging experience that highlights not only the historical significance of milling but also the broader cultural implications of these practices in the region. The museum is an excellent destination for history enthusiasts, families, and anyone with an interest in local traditions and craftsmanship. Accessible and informative, Mäulesmühle invites guests to delve into the past and appreciate the enduring legacy of one of Germany's essential industries.
 
 ## History and Significance
 

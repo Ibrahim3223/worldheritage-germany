@@ -72,9 +72,9 @@ While visiting the Church of the Redeemer, consider exploring these nearby attra
 
 ## Insider Tips
 
-For those looking to capture the beauty of the Church of the Redeemer through photography, consider visiting during the golden hour—early morning or late afternoon—to take advantage of the soft natural light. This timing can enhance the visual appeal of the church’s architecture.
+For those looking to capture the beauty of the Church of the Redeemer through photography, consider visiting during the golden hour—early morning or late afternoon—to take advantage of the soft natural light. This timing can enhance the visual appeal of the church's architecture.
 
-To avoid larger crowds, plan your visit during weekdays when the church may be less frequented by tourists and locals alike. Additionally, check the church’s schedule for any special services or events that may draw larger groups, as attending during quieter times can provide a more intimate experience.
+To avoid larger crowds, plan your visit during weekdays when the church may be less frequented by tourists and locals alike. Additionally, check the church's schedule for any special services or events that may draw larger groups, as attending during quieter times can provide a more intimate experience.
 
 ## Practical Information
 

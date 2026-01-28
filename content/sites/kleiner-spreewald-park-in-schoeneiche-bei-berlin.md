@@ -74,7 +74,7 @@ If you plan to engage in more active pursuits, such as jogging or cycling, arriv
 
 ## Practical Information
 
-When visiting Kleiner Spreewald Park, it’s advisable to bring along essentials such as water, snacks, and comfortable walking shoes. Depending on the season, consider layers of clothing to adjust to changing temperatures, as well as sunscreen or umbrellas for sun or rain protection.
+When visiting Kleiner Spreewald Park, it's advisable to bring along essentials such as water, snacks, and comfortable walking shoes. Depending on the season, consider layers of clothing to adjust to changing temperatures, as well as sunscreen or umbrellas for sun or rain protection.
 
 During the warmer months, insect repellent may also be necessary, particularly in areas near water. If you plan to spend a significant amount of time in the park, packing a picnic can enhance your experience, allowing you to savor the natural surroundings while enjoying a meal.
 

@@ -32,11 +32,11 @@ The location of Garitz, just outside the bustling spa town of Bad Kissingen, enh
 
 ## History and Significance
 
-St. Elisabeth Garitz holds an important place in the ecclesiastical landscape of Bavaria. While specific dates of its establishment are not detailed, the church’s design and function reflect the historical context of religious practices in the region. The church is dedicated to St. Elisabeth, a figure revered in Christian tradition, particularly known for her acts of charity and compassion. This dedication adds a layer of significance, aligning the church with values that resonate deeply within the community.
+St. Elisabeth Garitz holds an important place in the ecclesiastical landscape of Bavaria. While specific dates of its establishment are not detailed, the church's design and function reflect the historical context of religious practices in the region. The church is dedicated to St. Elisabeth, a figure revered in Christian tradition, particularly known for her acts of charity and compassion. This dedication adds a layer of significance, aligning the church with values that resonate deeply within the community.
 
-Throughout its history, St. Elisabeth Garitz has served not only as a place of worship but also as a center for community gatherings and cultural events. The church’s role in local life emphasizes its importance beyond its architectural presence. It stands as a symbol of faith and resilience, embodying the spiritual and social fabric that has woven together the lives of the people in Garitz and the surrounding areas.
+Throughout its history, St. Elisabeth Garitz has served not only as a place of worship but also as a center for community gatherings and cultural events. The church's role in local life emphasizes its importance beyond its architectural presence. It stands as a symbol of faith and resilience, embodying the spiritual and social fabric that has woven together the lives of the people in Garitz and the surrounding areas.
 
-The architectural style of St. Elisabeth is indicative of the region’s ecclesiastical buildings, reflecting the traditions and influences that have shaped Bavarian church architecture over centuries. As you explore its interior and exterior, you will find elements that highlight the artistic and cultural movements that have impacted church design in Bavaria.
+The architectural style of St. Elisabeth is indicative of the region's ecclesiastical buildings, reflecting the traditions and influences that have shaped Bavarian church architecture over centuries. As you explore its interior and exterior, you will find elements that highlight the artistic and cultural movements that have impacted church design in Bavaria.
 
 ## Architecture and Features
 
@@ -66,11 +66,11 @@ St. Elisabeth Garitz is conveniently located near several attractions that furth
 
 4. **KissSalis Therme** - A modern spa facility that offers a range of wellness treatments, thermal baths, and relaxation areas.
 
-5. **Museum of Bad Kissingen** - This local museum showcases the history and culture of Bad Kissingen, providing deeper insights into the region’s heritage.
+5. **Museum of Bad Kissingen** - This local museum showcases the history and culture of Bad Kissingen, providing deeper insights into the region's heritage.
 
 ## Insider Tips
 
-For the best photography opportunities, consider visiting during early morning or late afternoon when natural light enhances the church’s features. Ensure you are respectful of the sacred space by avoiding flash photography during services or quiet moments. 
+For the best photography opportunities, consider visiting during early morning or late afternoon when natural light enhances the church's features. Ensure you are respectful of the sacred space by avoiding flash photography during services or quiet moments. 
 
 To avoid crowds, plan your visit during weekdays rather than weekends or holidays. This way, you can enjoy a more personal experience and have ample time to explore the church and its surroundings without interruption.
 
@@ -98,7 +98,7 @@ Weekdays are ideal for visiting to avoid crowds, while early mornings or late af
 Accessibility information can vary; check the official website for details regarding wheelchair access.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available; it’s best to check the official website for up-to-date information.
+Ticket purchasing options may be available; it's best to check the official website for up-to-date information.
 
 ### Are there restrooms and cafes?
 Facilities may be limited at the church itself, so it is advisable to explore nearby locations in Bad Kissingen for restrooms and cafes.

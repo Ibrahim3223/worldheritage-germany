@@ -38,7 +38,7 @@ Maria Frieden's architectural design is reflective of traditional German chapel 
 
 Inside, visitors can expect to find a serene atmosphere, conducive to reflection and prayer. The interior of similar chapels typically includes elements such as stained glass windows, wooden pews, and an altar that serves as the focal point of worship. These features not only enhance the aesthetic appeal of the chapel but also contribute to its spiritual ambiance.
 
-In addition to its architectural elements, Maria Frieden may house religious artifacts and artwork that reflect the local artistic traditions. Such features often include sculptures, paintings, or icons that depict biblical scenes or local saints, offering insight into the religious practices and beliefs of the community. Overall, the chapel’s design encapsulates the essence of a space dedicated to spiritual reflection and communal gathering.
+In addition to its architectural elements, Maria Frieden may house religious artifacts and artwork that reflect the local artistic traditions. Such features often include sculptures, paintings, or icons that depict biblical scenes or local saints, offering insight into the religious practices and beliefs of the community. Overall, the chapel's design encapsulates the essence of a space dedicated to spiritual reflection and communal gathering.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ When planning your visit to Maria Frieden, consider bringing along:
 
 - **Weather-Appropriate Clothing**: Check the forecast before your trip, as weather conditions can influence your experience. Layered clothing is advisable for changing temperatures.
 
-- **Personal Items**: Bring a small notebook or journal for reflection, as many visitors find inspiration in the chapel’s tranquil atmosphere.
+- **Personal Items**: Bring a small notebook or journal for reflection, as many visitors find inspiration in the chapel's tranquil atmosphere.
 
 As seasons change, the chapel may offer a different experience throughout the year. Spring and summer may bring blooming flowers and vibrant greenery, while autumn can provide a stunning backdrop of fall colors.
 
@@ -108,4 +108,4 @@ Check the official website for information about ticket availability and purchas
 Information about facilities such as restrooms and nearby cafes is best obtained from the official website or local resources.
 
 ### What should I wear?
-Dress comfortably and appropriately for the weather, considering the chapel’s sacred nature when choosing attire.
+Dress comfortably and appropriately for the weather, considering the chapel's sacred nature when choosing attire.

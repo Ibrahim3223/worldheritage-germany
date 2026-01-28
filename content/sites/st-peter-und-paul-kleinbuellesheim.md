@@ -42,13 +42,13 @@ St. Peter und Paul showcases characteristics typical of German church architectu
 
 Visitors can expect to see traditional elements such as a steeple, which often serves as a landmark in the village, and stained glass windows that may depict biblical scenes or local saints. The interior of church buildings like St. Peter und Paul usually features a nave, altar, and possibly side chapels that enhance the spiritual ambiance. The design aims to create a space conducive to worship, contemplation, and community gatherings.
 
-Given the church's cultural importance, it may also house various religious artifacts, such as altarpieces or sculptures, which reflect the artistic traditions of the region. While specific features of St. Peter und Paul are not detailed, exploring the church’s interior can provide insights into the local craftsmanship and religious artistry.
+Given the church's cultural importance, it may also house various religious artifacts, such as altarpieces or sculptures, which reflect the artistic traditions of the region. While specific features of St. Peter und Paul are not detailed, exploring the church's interior can provide insights into the local craftsmanship and religious artistry.
 
 ## Visiting Information
 
 For those planning a visit to St. Peter und Paul, it's advisable to check the official website for current information regarding opening hours and any potential admission fees. The church is likely accessible by public transport, and local transit options may include buses or trains that connect to the Euskirchen region.
 
-Visitors can expect a tranquil atmosphere, ideal for reflection and exploration. A typical visit may take about an hour, allowing time to appreciate the architecture, take photographs, and absorb the spiritual environment. The best times to visit are likely during the day when natural light enhances the beauty of the church’s features. 
+Visitors can expect a tranquil atmosphere, ideal for reflection and exploration. A typical visit may take about an hour, allowing time to appreciate the architecture, take photographs, and absorb the spiritual environment. The best times to visit are likely during the day when natural light enhances the beauty of the church's features. 
 
 Depending on the season, you may also encounter various community events or services that can enrich your experience. Engaging with local traditions during these times offers a deeper understanding of the church's role within the community.
 

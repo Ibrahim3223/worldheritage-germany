@@ -80,13 +80,13 @@ To enhance your visit, consider the following insider tips:
   
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during weekdays, especially in the morning when foot traffic tends to be lower.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff about any interactive exhibits or special events happening during your visit; they can provide valuable insights and enhance your experience.
+- **Engage with Staff**: Don't hesitate to ask museum staff about any interactive exhibits or special events happening during your visit; they can provide valuable insights and enhance your experience.
 
 ## Practical Information
 
 Before heading to the ZEISS Forum and Museum of Optics, here are some practical considerations:
 
-- **What to Bring**: A notebook or device for taking notes can be useful, especially if you’re keen on learning about the exhibits. Comfortable walking shoes are recommended for exploring the museum and surrounding area.
+- **What to Bring**: A notebook or device for taking notes can be useful, especially if you're keen on learning about the exhibits. Comfortable walking shoes are recommended for exploring the museum and surrounding area.
 
 - **Seasonal Considerations**: The museum is open year-round, but consider checking the official website for any seasonal events or special exhibits that may enhance your visit.
 

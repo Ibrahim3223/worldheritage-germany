@@ -82,7 +82,7 @@ For photography enthusiasts, take advantage of open spaces and performance areas
 
 When preparing for your visit to Folkwang University of the Arts, consider bringing a camera for capturing the unique artistic expressions around the campus. If you plan to attend an event or workshop, it may be beneficial to bring a notebook or sketchbook for jotting down thoughts or inspirations.
 
-Seasonal considerations can impact your visit; check the university’s calendar of events to ensure you experience the best offerings of the time. Whether you’re visiting in the spring, summer, fall, or winter, each season brings its distinct charm to the university and its surroundings.
+Seasonal considerations can impact your visit; check the university's calendar of events to ensure you experience the best offerings of the time. Whether you're visiting in the spring, summer, fall, or winter, each season brings its distinct charm to the university and its surroundings.
 
 ## Frequently Asked Questions
 
@@ -90,7 +90,7 @@ Seasonal considerations can impact your visit; check the university’s calendar
 A visit of a few hours is generally sufficient to explore the university, attend a performance, or engage in workshops.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s advisable to be respectful of students and ongoing activities. Check for any specific guidelines upon arrival.
+Photography is typically permitted, but it's advisable to be respectful of students and ongoing activities. Check for any specific guidelines upon arrival.
 
 ### Are there guided tours?
 Information about guided tours may vary. Check the official website for details on availability and scheduling.

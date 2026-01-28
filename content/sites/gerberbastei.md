@@ -26,15 +26,15 @@ image_srcset:
 
 ## Overview
 
-The Gerberbastei, a striking tower located in Bautzen, Germany, is a remarkable architectural landmark that offers a glimpse into the region's rich historical narrative. This iconic structure is not just a piece of the skyline; it serves as a symbol of the city’s medieval heritage and strategic significance. Bautzen, situated in the heart of Upper Lusatia, is known for its well-preserved historical buildings and vibrant cultural scene. The Gerberbastei stands proudly among them, inviting visitors to explore its storied past and architectural elegance.
+The Gerberbastei, a striking tower located in Bautzen, Germany, is a remarkable architectural landmark that offers a glimpse into the region's rich historical narrative. This iconic structure is not just a piece of the skyline; it serves as a symbol of the city's medieval heritage and strategic significance. Bautzen, situated in the heart of Upper Lusatia, is known for its well-preserved historical buildings and vibrant cultural scene. The Gerberbastei stands proudly among them, inviting visitors to explore its storied past and architectural elegance.
 
 This tower has witnessed centuries of change, from medieval sieges to modern developments, making it a significant focal point for those interested in the history of Bautzen and Germany as a whole. As you approach, the tower's silhouette against the backdrop of the city highlights its importance as a defensive structure that once protected the city from invaders. A visit to the Gerberbastei promises not just an exploration of its physical form but also an understanding of the historical context that shaped it.
 
 ## History and Significance
 
-The Gerberbastei is part of Bautzen's extensive fortifications, which were crucial for the city’s defense throughout the Middle Ages. While specific historical dates are not provided, the tower's construction is believed to have occurred in a time when Bautzen was an essential stronghold due to its strategic location along trade routes. The city's fortifications, including the Gerberbastei, were designed to protect against various threats, including military incursions and internal strife.
+The Gerberbastei is part of Bautzen's extensive fortifications, which were crucial for the city's defense throughout the Middle Ages. While specific historical dates are not provided, the tower's construction is believed to have occurred in a time when Bautzen was an essential stronghold due to its strategic location along trade routes. The city's fortifications, including the Gerberbastei, were designed to protect against various threats, including military incursions and internal strife.
 
-Culturally, the Gerberbastei has served as an emblem of Bautzen's resilience and continuity. Over the years, it has been a witness to significant events that have shaped the identity of the region. The tower is named after the "Gerber," or tanners, who were once an influential guild in the area. This connection to local craftsmanship adds another layer to the site’s significance, illustrating how trades and professions have influenced the city’s development.
+Culturally, the Gerberbastei has served as an emblem of Bautzen's resilience and continuity. Over the years, it has been a witness to significant events that have shaped the identity of the region. The tower is named after the "Gerber," or tanners, who were once an influential guild in the area. This connection to local craftsmanship adds another layer to the site's significance, illustrating how trades and professions have influenced the city's development.
 
 The Gerberbastei is more than just a military structure; it embodies the spirit of a community that has thrived through adversity. Its preservation serves as a reminder of Bautzen's historical trajectory and its importance in the broader narrative of German history.
 
@@ -48,7 +48,7 @@ Visitors to the Gerberbastei can appreciate its historical significance as well 
 
 ## Visiting Information
 
-Visiting the Gerberbastei is an enriching experience for anyone interested in history and architecture. To reach the tower, visitors can use various modes of transportation available in Bautzen, including public transit options or by walking through the city’s picturesque streets, which are lined with historical buildings.
+Visiting the Gerberbastei is an enriching experience for anyone interested in history and architecture. To reach the tower, visitors can use various modes of transportation available in Bautzen, including public transit options or by walking through the city's picturesque streets, which are lined with historical buildings.
 
 Check the official website for current information regarding visiting hours and ticket prices. It is advisable to allocate enough time for your visit—typically, one to two hours should suffice to explore the tower and its surroundings. The best times to visit are during the spring and early autumn when the weather is pleasant, and the city is vibrant with local events and activities.
 
@@ -76,7 +76,7 @@ If you are visiting during the summer months, consider exploring the area early 
 
 ## Practical Information
 
-When planning your visit to the Gerberbastei, it’s advisable to wear comfortable footwear, as exploring the tower may involve climbing stairs. Depending on the season, layers of clothing are recommended, as temperatures can vary significantly.
+When planning your visit to the Gerberbastei, it's advisable to wear comfortable footwear, as exploring the tower may involve climbing stairs. Depending on the season, layers of clothing are recommended, as temperatures can vary significantly.
 
 Bring a camera to capture the striking architecture and the surrounding vistas. Additionally, if you plan to spend a longer time in the area, consider packing a water bottle and some snacks, as there may be limited food options nearby. 
 

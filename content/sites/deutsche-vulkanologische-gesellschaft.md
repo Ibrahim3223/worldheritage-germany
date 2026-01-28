@@ -24,7 +24,7 @@ The Deutsche Vulkanologische Gesellschaft, located in Germany, serves as a dedic
 
 ## History and Significance
 
-The Deutsche Vulkanologische Gesellschaft has played an important role in promoting research and public engagement with volcanic studies. Although specific founding information is not detailed, organizations such as this one typically arise from a collective need for scientific collaboration and knowledge dissemination. Volcanology is a critical field, especially given the impact volcanic events can have on ecosystems, human settlements, and global climate patterns. The society’s efforts contribute to the larger scientific community by fostering research initiatives, disseminating findings, and educating the public on the importance of understanding volcanic activities.
+The Deutsche Vulkanologische Gesellschaft has played an important role in promoting research and public engagement with volcanic studies. Although specific founding information is not detailed, organizations such as this one typically arise from a collective need for scientific collaboration and knowledge dissemination. Volcanology is a critical field, especially given the impact volcanic events can have on ecosystems, human settlements, and global climate patterns. The society's efforts contribute to the larger scientific community by fostering research initiatives, disseminating findings, and educating the public on the importance of understanding volcanic activities.
 
 Culturally, the society's presence underscores Germany's commitment to advancing scientific inquiry and education. It provides a platform for enthusiasts and experts alike, offering insights into both historical and contemporary volcanic events. By hosting lectures, workshops, and exhibitions, the Deutsche Vulkanologische Gesellschaft helps cultivate a deeper appreciation for the geological processes that shape our planet. This awareness is vital not only for the scientific community but also for the general public, who may live in areas affected by volcanic activity or have an interest in natural sciences.
 
@@ -94,7 +94,7 @@ Weekdays, especially in the morning, may offer a quieter experience compared to 
 Check the official website for details on accessibility options, as these can differ based on the museum's layout and facilities.
 
 ### Can I buy tickets online?
-It’s advisable to check the official website for the option to purchase tickets online, along with current pricing information.
+It's advisable to check the official website for the option to purchase tickets online, along with current pricing information.
 
 ### Are there restrooms and cafes?
 Most museums provide visitor amenities such as restrooms. Cafes or dining options may also be available, so check the website for specifics.

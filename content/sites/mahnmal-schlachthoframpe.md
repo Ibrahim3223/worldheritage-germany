@@ -44,7 +44,7 @@ Mahnmal Schlachthoframpe is characterized by its stark and unembellished design,
 
 The ramp itself retains its original structure, offering a tangible connection to the past. The surrounding area is designed to facilitate quiet reflection, with pathways leading to spaces for personal remembrance. The simplicity of the monument's design is intentional, emphasizing the gravity of the events it commemorates. As visitors walk along the ramp, they are encouraged to reflect on the lives affected by the deportations and the broader implications of such historical atrocities.
 
-In addition to the ramp, various plaques and inscriptions provide context and information about the site’s significance. These elements serve to educate visitors about the history of the Holocaust and the specific events that took place in Wiesbaden, making the experience both informative and deeply moving.
+In addition to the ramp, various plaques and inscriptions provide context and information about the site's significance. These elements serve to educate visitors about the history of the Holocaust and the specific events that took place in Wiesbaden, making the experience both informative and deeply moving.
 
 ## Visiting Information
 
@@ -72,7 +72,7 @@ These attractions enhance the cultural experience of Wiesbaden, providing additi
 
 To make the most of your visit to Mahnmal Schlachthoframpe, consider the following insider tips:
 
-- **Photography**: While capturing the monument’s essence is encouraged, be respectful of the somber nature of the site. Avoid using flash or disruptive equipment to maintain the atmosphere of reflection.
+- **Photography**: While capturing the monument's essence is encouraged, be respectful of the somber nature of the site. Avoid using flash or disruptive equipment to maintain the atmosphere of reflection.
 - **Crowd Avoidance**: Early mornings or weekdays tend to be quieter, allowing for a more personal experience. If possible, plan your visit during these times.
 - **Reflection**: Take your time to read the plaques and consider the history they convey. This can enhance your understanding and appreciation of the site.
 

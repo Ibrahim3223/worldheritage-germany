@@ -66,7 +66,7 @@ While Norderburg itself is a captivating destination, the surrounding area of Do
 
 1. **Dornum Castle**: This historic site provides a glimpse into the feudal past of the region, complete with scenic views and informative exhibits.
 
-2. **St. Bartholomew’s Church**: An architectural gem that showcases elements of medieval design, this church is a must-visit for those interested in religious history.
+2. **St. Bartholomew's Church**: An architectural gem that showcases elements of medieval design, this church is a must-visit for those interested in religious history.
 
 3. **Dornumersiel**: A charming coastal village nearby, known for its picturesque harbor and opportunities for leisurely walks along the waterfront.
 
@@ -94,10 +94,10 @@ Pack essentials such as water and snacks, particularly if you plan to spend an e
 A visit to Norderburg generally takes around two hours, allowing for exploration of the manor and its grounds.
 
 ### Is photography allowed?
-Photography is typically permitted, but it’s advisable to check for any specific restrictions upon arrival.
+Photography is typically permitted, but it's advisable to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-While specific tour options may vary, it’s worth inquiring on the official website or at the site itself for any guided tour opportunities.
+While specific tour options may vary, it's worth inquiring on the official website or at the site itself for any guided tour opportunities.
 
 ### What's the best time to visit?
 The warmer months are often the most pleasant for visiting, but each season offers a unique perspective of the manor.

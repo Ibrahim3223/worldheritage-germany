@@ -62,9 +62,9 @@ While visiting the Synagoge Bayreuth, consider exploring these nearby attraction
    
 2. **Wilhelmina's Palace**: This exquisite palace features beautiful gardens and represents the grandeur of the 18th century, providing insight into the region's royal history.
 
-3. **Eremitage Bayreuth**: A historical park featuring stunning architecture and landscaped gardens, perfect for a leisurely stroll and a deeper understanding of Bayreuth’s cultural heritage.
+3. **Eremitage Bayreuth**: A historical park featuring stunning architecture and landscaped gardens, perfect for a leisurely stroll and a deeper understanding of Bayreuth's cultural heritage.
 
-4. **Bayreuth's Old Town**: A charming area with cobblestone streets, historical buildings, and local shops that offer a glimpse into the city’s past.
+4. **Bayreuth's Old Town**: A charming area with cobblestone streets, historical buildings, and local shops that offer a glimpse into the city's past.
 
 5. **Museum of Natural History**: A fascinating place to learn about the region's natural environment and biodiversity, making it a great addition to your itinerary.
 
@@ -72,7 +72,7 @@ While visiting the Synagoge Bayreuth, consider exploring these nearby attraction
 
 When visiting the Synagoge Bayreuth, consider the following insider tips for a more enjoyable experience:
 
-- **Photography**: Be mindful of any restrictions regarding photography inside the synagogue. It’s always best to ask for permission if unsure.
+- **Photography**: Be mindful of any restrictions regarding photography inside the synagogue. It's always best to ask for permission if unsure.
 
 - **Crowd Avoidance**: To avoid larger groups, consider visiting during the morning or early afternoon on weekdays. This will allow for a quieter experience, enhancing your appreciation of the site.
 

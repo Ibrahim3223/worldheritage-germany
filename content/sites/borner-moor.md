@@ -42,7 +42,7 @@ Borner Moor is characterized by its diverse habitats, which include wetlands, fo
 
 The reserve is designed to facilitate access while minimizing human impact on the environment. Walking paths and observation points have been carefully constructed to allow for exploration without disturbing the delicate ecosystems. These features enable visitors to observe wildlife in their natural habitats and enjoy the peaceful surroundings.
 
-In addition to the natural features, Borner Moor reflects the importance of conservation architecture. The management of the reserve involves sustainable practices aimed at maintaining the integrity of the ecosystems. Whether it’s through controlled access or educational signage, every aspect is designed to promote awareness and protect the area's natural beauty.
+In addition to the natural features, Borner Moor reflects the importance of conservation architecture. The management of the reserve involves sustainable practices aimed at maintaining the integrity of the ecosystems. Whether it's through controlled access or educational signage, every aspect is designed to promote awareness and protect the area's natural beauty.
 
 ## Visiting Information
 

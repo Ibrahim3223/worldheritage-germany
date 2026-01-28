@@ -48,7 +48,7 @@ The interior of the museum is thoughtfully organized, with various rooms dedicat
 
 Notable features of Klötznersches Haus include informative signage accompanying the exhibits, which provides context and background for the items on display. The combination of well-preserved artifacts and modern exhibition techniques creates an engaging atmosphere that enhances the educational experience. 
 
-Additionally, the museum may host temporary exhibitions, which can introduce new topics and stories related to the region’s heritage. This dynamic approach to showcasing history ensures that repeat visitors always find something new to explore.
+Additionally, the museum may host temporary exhibitions, which can introduce new topics and stories related to the region's heritage. This dynamic approach to showcasing history ensures that repeat visitors always find something new to explore.
 
 ## Visiting Information
 
@@ -80,7 +80,7 @@ Engaging with museum staff can enhance your visit, as they often provide valuabl
 
 ## Practical Information
 
-Before you head to Klötznersches Haus, it’s wise to pack a few essentials. Comfortable walking shoes are recommended, as you may spend a considerable amount of time exploring the museum and its surroundings. 
+Before you head to Klötznersches Haus, it's wise to pack a few essentials. Comfortable walking shoes are recommended, as you may spend a considerable amount of time exploring the museum and its surroundings. 
 
 Seasonal considerations should also be taken into account; check the weather forecast to ensure you're prepared for any conditions. During colder months, dressing in layers will help you stay comfortable while exploring both indoors and outdoors.
 
@@ -105,7 +105,7 @@ For specific accessibility information, check the official website or contact th
 Check the official website for the possibility of purchasing tickets online, which may help streamline your visit.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are typically available, but for food options, check the museum’s amenities or nearby establishments.
+Facilities such as restrooms are typically available, but for food options, check the museum's amenities or nearby establishments.
 
 ### What should I wear?
 Dress comfortably and consider the weather conditions, as you may be spending time both inside and outside the museum.

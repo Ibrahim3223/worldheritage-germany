@@ -36,7 +36,7 @@ The foundation's commitment to destigmatizing mental health issues is vital in a
 
 ## Architecture and Features
 
-The Stiftung Deutsche Depressionshilfe operates from a modern facility that reflects its forward-thinking approach to mental health care. While specific architectural details are not outlined, the design of the building is likely to emphasize accessibility and comfort, aligning with the foundation’s mission to create a welcoming and supportive environment for visitors.
+The Stiftung Deutsche Depressionshilfe operates from a modern facility that reflects its forward-thinking approach to mental health care. While specific architectural details are not outlined, the design of the building is likely to emphasize accessibility and comfort, aligning with the foundation's mission to create a welcoming and supportive environment for visitors.
 
 Inside, the foundation likely features spaces dedicated to educational workshops, community events, and counseling services. These areas are designed to facilitate interaction and engagement, encouraging individuals to participate in discussions about mental health. The layout is expected to promote a sense of safety and privacy, allowing visitors to feel at ease during their time at the foundation.
 
@@ -68,7 +68,7 @@ Leipzig is a city rich in culture and history, offering a variety of attractions
 
 To enhance your visit to Stiftung Deutsche Depressionshilfe, consider these insider tips:
 
-- **Photography**: While photography may be allowed in certain areas, it's best to check with staff to respect the privacy of others. Capturing the essence of the foundation’s mission through thoughtful photography can be meaningful.
+- **Photography**: While photography may be allowed in certain areas, it's best to check with staff to respect the privacy of others. Capturing the essence of the foundation's mission through thoughtful photography can be meaningful.
 
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during the early morning or late afternoon on weekdays. This can provide a more personal experience and allow for deeper engagement with the resources available.
 
@@ -93,13 +93,13 @@ Check the official website for information on guided tours or workshops that may
 Weekdays, particularly in the morning or late afternoon, tend to be quieter and more conducive to personal engagement.
 
 ### Is it wheelchair accessible?
-While specific accessibility features are not detailed, modern facilities typically prioritize accessibility. It’s advisable to contact the foundation for specific inquiries.
+While specific accessibility features are not detailed, modern facilities typically prioritize accessibility. It's advisable to contact the foundation for specific inquiries.
 
 ### Can I buy tickets online?
 Check the official website for information regarding admission fees and online ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms are commonly available; however, specifics about cafes or refreshment options should be confirmed through the foundation’s official resources.
+Facilities such as restrooms are commonly available; however, specifics about cafes or refreshment options should be confirmed through the foundation's official resources.
 
 ### What should I wear?
 Comfortable clothing is suggested, allowing you to engage fully with the activities and resources available at the foundation. 

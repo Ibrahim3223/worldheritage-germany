@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Stadtkirche Darmstadt, a distinguished church building located in the heart of Darmstadt, Germany, serves as a prominent landmark and a center of community life. With its striking architecture and historical significance, this church captures the essence of the region's cultural heritage. Situated at coordinates 49.871388888, 8.656333333, it is easily accessible, making it a must-visit for those exploring the rich tapestry of Darmstadt. Visitors to Stadtkirche Darmstadt can expect to immerse themselves in a space that reflects both the spiritual and communal aspects of the city’s identity.
+Stadtkirche Darmstadt, a distinguished church building located in the heart of Darmstadt, Germany, serves as a prominent landmark and a center of community life. With its striking architecture and historical significance, this church captures the essence of the region's cultural heritage. Situated at coordinates 49.871388888, 8.656333333, it is easily accessible, making it a must-visit for those exploring the rich tapestry of Darmstadt. Visitors to Stadtkirche Darmstadt can expect to immerse themselves in a space that reflects both the spiritual and communal aspects of the city's identity.
 
 The church stands not only as a place of worship but also as a venue for cultural events and gatherings, enriching the local community's social fabric. Its historical roots and architectural features offer insight into the region's past, making it a significant stop for travelers interested in heritage and culture. Whether you are drawn by spiritual reasons, architectural appreciation, or cultural exploration, Stadtkirche Darmstadt promises a rewarding experience.
 
@@ -34,7 +34,7 @@ The church stands not only as a place of worship but also as a venue for cultura
 
 The history of Stadtkirche Darmstadt is intertwined with the development of the city itself. Originally built as a place of worship, it has witnessed significant cultural and societal changes over the years. While specific dates may be elusive, the church has played a vital role in the religious and communal life of Darmstadt.
 
-Throughout its history, Stadtkirche Darmstadt has been a focal point for various community events, gatherings, and celebrations. The church has served as a venue for important ceremonies and has been a site of reflection and solace for many. Its significance is not limited to its role as a religious institution; it also embodies the architectural evolution that mirrors the city’s growth and transformation.
+Throughout its history, Stadtkirche Darmstadt has been a focal point for various community events, gatherings, and celebrations. The church has served as a venue for important ceremonies and has been a site of reflection and solace for many. Its significance is not limited to its role as a religious institution; it also embodies the architectural evolution that mirrors the city's growth and transformation.
 
 The architectural styles and elements present in the church reflect the broader historical trends of the time, making it an important case study for those interested in ecclesiastical architecture and local history. As a site of cultural importance, Stadtkirche Darmstadt continues to attract visitors who seek to understand the legacy of the area and its people.
 
@@ -46,13 +46,13 @@ Upon entering the church, visitors are greeted by an interior that reflects both
 
 Noteworthy features within the church may include stained glass windows, which often depict religious themes or local history, contributing to the overall ambiance of the space. The altar and pulpit are typically focal points within the interior, often adorned with carvings or artwork that illustrate the church's heritage and mission.
 
-Overall, Stadtkirche Darmstadt stands as a representation of the city’s architectural evolution, with features that invite admiration and contemplation from all who visit.
+Overall, Stadtkirche Darmstadt stands as a representation of the city's architectural evolution, with features that invite admiration and contemplation from all who visit.
 
 ## Visiting Information
 
 Visiting Stadtkirche Darmstadt offers an opportunity to engage with both the spiritual and cultural aspects of the city. Accessible by public transport, the church is conveniently located for visitors. Once there, guests can expect a serene environment conducive to reflection and exploration.
 
-To ensure a fulfilling visit, check the official website for current information on hours and any potential admission fees, as these can vary. It is advisable to allocate sufficient time to explore the church’s interior and exterior, as well as to appreciate the surrounding areas.
+To ensure a fulfilling visit, check the official website for current information on hours and any potential admission fees, as these can vary. It is advisable to allocate sufficient time to explore the church's interior and exterior, as well as to appreciate the surrounding areas.
 
 The best times to visit are typically during the weekdays when it may be less crowded, allowing for a more personal experience. Additionally, attending a service or event could provide a unique insight into the church's role in the community.
 
@@ -103,7 +103,7 @@ Accessibility options may be available; check the official website for specific 
 For current ticketing options, including online purchases, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Nearby facilities may vary; it’s advisable to check local resources or the official website for the latest information on restrooms and nearby cafés.
+Nearby facilities may vary; it's advisable to check local resources or the official website for the latest information on restrooms and nearby cafés.
 
 ### What should I wear?
 Comfortable clothing and shoes are recommended, especially if you plan to explore the surrounding area. Dress modestly, keeping in mind that this is a place of worship. 

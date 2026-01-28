@@ -86,7 +86,7 @@ Before your visit to Dankes-Kirche, consider the following practical information
 A typical visit to Dankes-Kirche lasts between 30 minutes to an hour, depending on your interest in exploring its architecture and attending services.
 
 ### Is photography allowed?
-Photography is generally allowed, but it’s best to be respectful of the space and others who are there for worship or reflection.
+Photography is generally allowed, but it's best to be respectful of the space and others who are there for worship or reflection.
 
 ### Are there guided tours?
 Information about guided tours may vary. Check the official website for details on whether such options are available.

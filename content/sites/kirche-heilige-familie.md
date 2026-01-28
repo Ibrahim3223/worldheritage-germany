@@ -68,13 +68,13 @@ While visiting Kirche Heilige Familie, consider exploring these nearby attractio
 
 4. **Siedlerplatz**: A vibrant square that often hosts community events and markets, adding a lively atmosphere to your visit.
 
-5. **Nearby Nature Trails**: Explore the scenic surroundings of Kamen through various walking or biking trails that showcase the region’s natural beauty.
+5. **Nearby Nature Trails**: Explore the scenic surroundings of Kamen through various walking or biking trails that showcase the region's natural beauty.
 
 ## Insider Tips
 
 To make the most of your visit to Kirche Heilige Familie, consider these insider tips:
 
-- **Photography**: Be mindful of the church's policies regarding photography. While many churches allow photography, it’s always respectful to check for any restrictions, especially during services.
+- **Photography**: Be mindful of the church's policies regarding photography. While many churches allow photography, it's always respectful to check for any restrictions, especially during services.
 
 - **Crowd Avoidance**: To avoid crowds, plan your visit during non-peak hours, such as weekday mornings or early afternoons. Sundays may be particularly busy due to services.
 

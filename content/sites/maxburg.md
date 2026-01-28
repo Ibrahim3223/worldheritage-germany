@@ -28,7 +28,7 @@ image_srcset:
 
 Maxburg, an elegant courthouse located in the heart of Munich's Old Town, serves as a prominent landmark in Upper Bavaria, Germany. The building not only functions as a vital part of the local judicial system but also holds a significant place in the architectural and cultural narrative of the region. Its strategic location enhances its accessibility for both locals and travelers, making it a noteworthy stop for anyone exploring Munich's historical sites.
 
-Visitors to Maxburg will find it situated amidst a blend of modern and historical architecture, embodying the fusion of Munich’s past with its present. While primarily a functional courthouse, the structure represents the values of justice and community that underpin the legal system in Germany. Stepping into Maxburg offers a glimpse into the workings of the judiciary and the architectural aesthetics that define this area.
+Visitors to Maxburg will find it situated amidst a blend of modern and historical architecture, embodying the fusion of Munich's past with its present. While primarily a functional courthouse, the structure represents the values of justice and community that underpin the legal system in Germany. Stepping into Maxburg offers a glimpse into the workings of the judiciary and the architectural aesthetics that define this area.
 
 As you navigate through Munich, the courthouse stands as an inviting site to pause, reflect, and appreciate the historical context of law and governance. With its impressive façade and strategic location, Maxburg not only invites legal proceedings but also welcomes visitors seeking to engage with the city's rich heritage.
 
@@ -50,7 +50,7 @@ The façade of Maxburg is marked by its impressive entrance, which is designed t
 
 Inside, the courthouse is organized to facilitate legal proceedings, with courtrooms designed to accommodate various types of cases. The layout is practical, ensuring that the building serves its primary function efficiently while also providing a dignified environment for legal proceedings. The interior spaces are often characterized by high ceilings and ample natural light, contributing to a sense of openness and clarity that is essential in a legal setting.
 
-Visitors may appreciate both the functional aspects of the building and the thoughtful design choices that make Maxburg a prominent feature of Munich’s architectural heritage. The courthouse not only serves its legal purpose but also stands as a reflection of the city’s commitment to justice and public service.
+Visitors may appreciate both the functional aspects of the building and the thoughtful design choices that make Maxburg a prominent feature of Munich's architectural heritage. The courthouse not only serves its legal purpose but also stands as a reflection of the city's commitment to justice and public service.
 
 ## Visiting Information
 
@@ -58,7 +58,7 @@ Maxburg is located centrally in Munich, making it easily accessible via various 
 
 While planning a visit, it is advisable to check the official website for current information regarding visiting hours and any potential entry requirements. It is essential to consider the courthouse's operational status, as it may be subject to changes based on legal proceedings or public holidays.
 
-Expect to spend around an hour at Maxburg, allowing time for both exploration and observation of the building’s architectural features. The best times to visit are typically during weekdays when the courthouse is operational, offering a unique opportunity to witness the legal processes in action.
+Expect to spend around an hour at Maxburg, allowing time for both exploration and observation of the building's architectural features. The best times to visit are typically during weekdays when the courthouse is operational, offering a unique opportunity to witness the legal processes in action.
 
 Visitors should be aware that, as a functioning courthouse, certain areas may be restricted, and noise levels must be kept to a minimum to respect ongoing proceedings. It is recommended to remain courteous and mindful of the environment when visiting.
 
@@ -76,7 +76,7 @@ Visitors should be aware that, as a functioning courthouse, certain areas may be
 
 ## Insider Tips
 
-For photography enthusiasts, the courthouse’s exterior offers a range of angles to capture its architectural beauty. Early morning or late afternoon light can enhance the visual appeal of your photographs. However, it is essential to respect the courthouse's function and avoid taking photos inside unless permitted.
+For photography enthusiasts, the courthouse's exterior offers a range of angles to capture its architectural beauty. Early morning or late afternoon light can enhance the visual appeal of your photographs. However, it is essential to respect the courthouse's function and avoid taking photos inside unless permitted.
 
 To avoid crowds, consider visiting during mid-week when legal proceedings are in session, as this may provide a more authentic experience of the courthouse's operations. Arriving early in the day can also help you enjoy a quieter visit.
 

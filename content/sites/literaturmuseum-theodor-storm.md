@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Heilbad Heiligenstadt, Thuringia, lies the Literaturmuseum Theodor Storm, a literary museum dedicated to the life and works of one of Germany's most cherished poets and authors. Established in 1988, the museum serves as a cultural haven for literature enthusiasts and those interested in the nuances of German literary heritage. The museum not only provides insight into Theodor Storm's contributions to literature but also engages visitors with a broader exploration of the literary landscape of the time.
 
-This museum is part of a region rich in cultural history, offering a tranquil yet inspiring atmosphere for those who seek to deepen their understanding of German literature. The museum’s collections, exhibits, and events invite visitors to immerse themselves in the world of Storm, whose writings reflect the complexities of human emotion and experience. Whether you are a literary aficionado or a casual visitor, the Literaturmuseum Theodor Storm promises an enriching experience that celebrates words and ideas.
+This museum is part of a region rich in cultural history, offering a tranquil yet inspiring atmosphere for those who seek to deepen their understanding of German literature. The museum's collections, exhibits, and events invite visitors to immerse themselves in the world of Storm, whose writings reflect the complexities of human emotion and experience. Whether you are a literary aficionado or a casual visitor, the Literaturmuseum Theodor Storm promises an enriching experience that celebrates words and ideas.
 
 ## History and Significance
 
@@ -104,7 +104,7 @@ Weekdays, particularly in the morning, are often less crowded, providing a more 
 Accessibility information is available on the official website, so visitors should check for specific accommodations.
 
 ### Can I buy tickets online?
-Information regarding online ticket purchases can be found on the museum’s official website.
+Information regarding online ticket purchases can be found on the museum's official website.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and nearby cafés may be available; check the official website for specific details.

@@ -32,7 +32,7 @@ The significance of Sender Deggendorf extends beyond its physical presence. It s
 
 ## History and Significance
 
-The history of Sender Deggendorf is intertwined with the evolution of communication in the region. Originally constructed as a tower, it played a crucial role in transmitting signals and information across the landscape. The inhabitants of the area relied on such structures for efficient communication, particularly in times of urgency. While specific dates surrounding its construction and usage remain elusive, the tower’s enduring presence signifies its importance in the historical context of the region.
+The history of Sender Deggendorf is intertwined with the evolution of communication in the region. Originally constructed as a tower, it played a crucial role in transmitting signals and information across the landscape. The inhabitants of the area relied on such structures for efficient communication, particularly in times of urgency. While specific dates surrounding its construction and usage remain elusive, the tower's enduring presence signifies its importance in the historical context of the region.
 
 Throughout its existence, Sender Deggendorf has witnessed various cultural shifts and transformations. As the area evolved, so did the purpose and significance of the tower. It became a landmark that not only served practical functions but also held cultural importance for the community. Local traditions and stories often reference the tower, embedding it in the collective memory of the people in Grafling. This cultural resonance enhances the visitor experience, as many come to appreciate not only the tower itself but also the narratives that have developed around it over time.
 

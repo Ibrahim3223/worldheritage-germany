@@ -66,13 +66,13 @@ The best times to visit Volkspark Mariendorf are during the spring and summer mo
 
 ## Insider Tips
 
-To capture the best photographs of Volkspark Mariendorf, visit during the golden hours of early morning or late afternoon when the light is soft and warm. The park’s pathways and green spaces offer excellent opportunities for nature photography. 
+To capture the best photographs of Volkspark Mariendorf, visit during the golden hours of early morning or late afternoon when the light is soft and warm. The park's pathways and green spaces offer excellent opportunities for nature photography. 
 
 To avoid crowds, plan your visit during weekdays or early in the morning. This way, you can enjoy the tranquility of the park and have a more intimate experience with the surroundings.
 
 ## Practical Information
 
-When visiting Volkspark Mariendorf, comfortable walking shoes are highly recommended, as you will likely spend time exploring the park’s paths. Depending on the season, consider bringing a picnic blanket and snacks to enjoy a meal outdoors, especially in the warmer months.
+When visiting Volkspark Mariendorf, comfortable walking shoes are highly recommended, as you will likely spend time exploring the park's paths. Depending on the season, consider bringing a picnic blanket and snacks to enjoy a meal outdoors, especially in the warmer months.
 
 Seasonal considerations are also important; in spring and summer, the park comes alive with flowers and greenery, while autumn offers a stunning display of fall colors. Winter visits can be peaceful, but be prepared for colder temperatures.
 

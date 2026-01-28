@@ -78,7 +78,7 @@ To avoid crowds, consider visiting during off-peak hours, particularly on weekda
 
 ## Practical Information
 
-When planning your visit, it’s advisable to bring a camera to capture the monument and its surroundings. Comfortable walking shoes are recommended, as you may want to explore the area surrounding the statue.
+When planning your visit, it's advisable to bring a camera to capture the monument and its surroundings. Comfortable walking shoes are recommended, as you may want to explore the area surrounding the statue.
 
 Seasonal considerations can affect your visit. Spring and early autumn are generally pleasant times to explore Hanau, as the weather is mild. However, always check the forecast and dress accordingly.
 

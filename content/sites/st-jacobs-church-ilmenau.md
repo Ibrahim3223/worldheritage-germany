@@ -72,13 +72,13 @@ While St. Jacob's Church is a focal point, several nearby attractions enrich the
 
 When visiting St. Jacob's Church, consider bringing a camera to capture the architectural details and the serene atmosphere. However, be mindful of any restrictions regarding photography inside the church. To avoid crowds, aim to visit during off-peak hours, especially on weekdays. 
 
-Additionally, connecting with local residents or church staff can enhance your understanding of the site’s significance and any ongoing community events.
+Additionally, connecting with local residents or church staff can enhance your understanding of the site's significance and any ongoing community events.
 
 ## Practical Information
 
 When planning your visit to St. Jacob's Church, it is advisable to bring essentials such as water, comfortable walking shoes, and a light jacket, as temperatures can vary. Seasonal considerations are also important; spring and early autumn may offer pleasant weather, making your visit more enjoyable.
 
-Accessibility features may be available, but it’s wise to check the official site for any specific needs or accommodations.
+Accessibility features may be available, but it's wise to check the official site for any specific needs or accommodations.
 
 ## Frequently Asked Questions
 

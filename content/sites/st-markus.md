@@ -36,7 +36,7 @@ St. Markus holds a prominent place in the history of Munich, reflecting the city
 
 The cultural importance of St. Markus extends beyond its role as a church. It has witnessed various historical events that have shaped the community. As a site of worship, it has provided solace and support to countless individuals throughout the years. The church's involvement in social and cultural events underscores its position as a cornerstone of the local community.
 
-St. Markus also serves as a reminder of the architectural styles that have influenced Munich. Its design elements and overall structure reflect trends prevalent in different eras, capturing the essence of the city’s artistic evolution. This makes it not only a place for personal reflection but also a site where the architectural narrative of Munich unfolds.
+St. Markus also serves as a reminder of the architectural styles that have influenced Munich. Its design elements and overall structure reflect trends prevalent in different eras, capturing the essence of the city's artistic evolution. This makes it not only a place for personal reflection but also a site where the architectural narrative of Munich unfolds.
 
 ## Architecture and Features
 
@@ -72,7 +72,7 @@ St. Markus is situated in proximity to several notable attractions that can enha
 
 When visiting St. Markus, keep in mind a few tips to enhance your experience. For photography enthusiasts, the interplay of light created by the stained glass windows offers unique opportunities for capturing the church's beauty. However, be respectful of the sacred environment and avoid using flash photography during services.
 
-To avoid larger crowds, consider visiting during the early morning or late afternoon on weekdays. This timing can provide a more serene atmosphere, allowing for deeper reflection and appreciation of the church’s features. Additionally, engaging with the local community by attending a service can offer a unique perspective on the church's role in daily life.
+To avoid larger crowds, consider visiting during the early morning or late afternoon on weekdays. This timing can provide a more serene atmosphere, allowing for deeper reflection and appreciation of the church's features. Additionally, engaging with the local community by attending a service can offer a unique perspective on the church's role in daily life.
 
 ## Practical Information
 

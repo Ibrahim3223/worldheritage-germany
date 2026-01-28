@@ -42,7 +42,7 @@ The integration of natural and cultivated elements reflects a broader commitment
 
 ## Visiting Information
 
-When planning a visit to Garten Untere Sandstraße 19, it is essential to consider various factors to ensure an enjoyable experience. The garden's location within Bamberg makes it accessible via public transport, with options including buses and trains that connect to the city center. Parking facilities may be available nearby, but utilizing public transport can enhance your exploration of Bamberg’s historical sites.
+When planning a visit to Garten Untere Sandstraße 19, it is essential to consider various factors to ensure an enjoyable experience. The garden's location within Bamberg makes it accessible via public transport, with options including buses and trains that connect to the city center. Parking facilities may be available nearby, but utilizing public transport can enhance your exploration of Bamberg's historical sites.
 
 Check the official website for current information regarding hours and any potential admission fees. While the garden is likely open to the public, specific times may vary throughout the year. 
 
@@ -74,7 +74,7 @@ To make the most of your visit to Garten Untere Sandstraße 19, consider these i
 
 ## Practical Information
 
-When visiting Garten Untere Sandstraße 19, it’s advisable to bring a few essentials to enhance your experience:
+When visiting Garten Untere Sandstraße 19, it's advisable to bring a few essentials to enhance your experience:
 
 - **Comfortable Footwear**: The garden's pathways invite exploration, so wear comfortable shoes suitable for walking.
 

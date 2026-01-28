@@ -68,7 +68,7 @@ As you plan your visit, be sure to check the official website for current inform
 
 Weimar is a city that resonates with cultural significance, and there are several nearby attractions that complement a visit to the Duchess Anna Amalia Library:
 
-1. **Goethe National Museum**: Located just a short distance from the library, this museum is dedicated to the life and works of Johann Wolfgang von Goethe, one of Germany’s most prominent literary figures. The museum features exhibitions that delve into Goethe's contributions to literature and philosophy.
+1. **Goethe National Museum**: Located just a short distance from the library, this museum is dedicated to the life and works of Johann Wolfgang von Goethe, one of Germany's most prominent literary figures. The museum features exhibitions that delve into Goethe's contributions to literature and philosophy.
 
 2. **Schiller Museum**: This museum celebrates the life of Friedrich Schiller, another luminary of German literature. It offers insights into Schiller's works and his enduring legacy, making it a fitting complement to a visit to the library.
 

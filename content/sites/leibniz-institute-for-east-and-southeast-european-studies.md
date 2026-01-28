@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-The Leibniz Institute for East and Southeast European Studies, located in Regensburg, Germany, serves as a pivotal research institution dedicated to the study of the complex histories, cultures, and societies of Eastern and Southeast Europe. As part of the esteemed Leibniz Association, this foundation plays a crucial role in fostering interdisciplinary research and collaboration among scholars, enhancing our understanding of the region’s diverse socio-political dynamics. 
+The Leibniz Institute for East and Southeast European Studies, located in Regensburg, Germany, serves as a pivotal research institution dedicated to the study of the complex histories, cultures, and societies of Eastern and Southeast Europe. As part of the esteemed Leibniz Association, this foundation plays a crucial role in fostering interdisciplinary research and collaboration among scholars, enhancing our understanding of the region's diverse socio-political dynamics. 
 
 Regensburg, a city steeped in history, adds another layer of significance to the Institute. Situated at the confluence of the Danube, Naab, and Regen rivers, Regensburg boasts a long-standing reputation as a center of culture and learning. The Institute not only contributes to this legacy but also acts as a bridge for international academic discourse, attracting researchers and students from various parts of the world who are keen to delve into the multifaceted narratives of Eastern and Southeast Europe.
 
-Visitors to the Leibniz Institute can expect a stimulating environment that encourages dialogue and exploration. It’s a place where academic rigor meets cultural engagement, making it an essential stop for those interested in the complexities of European history and contemporary issues.
+Visitors to the Leibniz Institute can expect a stimulating environment that encourages dialogue and exploration. It's a place where academic rigor meets cultural engagement, making it an essential stop for those interested in the complexities of European history and contemporary issues.
 
 ## History and Significance
 
@@ -48,7 +48,7 @@ While the specific architectural details of the Leibniz Institute for East and S
 
 The building may feature spaces conducive to academic activities, such as lecture halls, seminar rooms, and research facilities, designed to facilitate collaboration among scholars. The architecture typically emphasizes open spaces that encourage interaction and the exchange of ideas, essential for fostering a vibrant academic community.
 
-Visitors can expect to find facilities that support both individual research endeavors and group discussions. The design of these spaces likely reflects a commitment to creating an inviting atmosphere for both scholars and guests, reinforcing the Institute’s role as a center for learning and engagement.
+Visitors can expect to find facilities that support both individual research endeavors and group discussions. The design of these spaces likely reflects a commitment to creating an inviting atmosphere for both scholars and guests, reinforcing the Institute's role as a center for learning and engagement.
 
 ## Visiting Information
 
@@ -56,7 +56,7 @@ Visiting the Leibniz Institute for East and Southeast European Studies offers an
 
 Check the official website for current information regarding opening hours and any visitor programs that may be available. The best times to visit are typically during weekdays when academic activities are in full swing. 
 
-A visit usually requires a few hours, depending on your interest in the ongoing research and any scheduled events. Engaging with the staff and scholars can provide deeper insights into the Institute’s work and its relevance to current global issues.
+A visit usually requires a few hours, depending on your interest in the ongoing research and any scheduled events. Engaging with the staff and scholars can provide deeper insights into the Institute's work and its relevance to current global issues.
 
 Given its focus on research, the atmosphere may be more subdued than that of a typical tourist attraction, allowing for a reflective experience as you explore the complexities of Eastern and Southeast European studies.
 
@@ -86,10 +86,10 @@ Engaging with the scholars, if possible, can provide unique insights into their 
 
 ## Practical Information
 
-When visiting the Leibniz Institute, it’s advisable to bring a few essentials:
+When visiting the Leibniz Institute, it's advisable to bring a few essentials:
 
 - **Notebook or Laptop**: For jotting down insights or engaging with any research materials available.
-- **Comfortable Shoes**: Since exploring Regensburg’s old town and nearby attractions may involve walking, comfortable footwear is recommended.
+- **Comfortable Shoes**: Since exploring Regensburg's old town and nearby attractions may involve walking, comfortable footwear is recommended.
 - **Seasonal Considerations**: Check the weather forecast before your visit. Regensburg experiences a continental climate, so dress appropriately for the season you are visiting.
 
 ## Frequently Asked Questions

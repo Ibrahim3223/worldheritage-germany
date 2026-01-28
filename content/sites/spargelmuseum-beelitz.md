@@ -85,7 +85,7 @@ When preparing for your visit to the Spargelmuseum Beelitz, keep the following p
 Most visitors spend about one to two hours at the Spargelmuseum Beelitz to fully explore the exhibits and learn about asparagus farming.
 
 ### Is photography allowed?
-Check the museum’s policy on photography before your visit to ensure you can capture your experience as desired.
+Check the museum's policy on photography before your visit to ensure you can capture your experience as desired.
 
 ### Are there guided tours?
 Current information on guided tours may be available on the official website, so check there for the latest offerings.

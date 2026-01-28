@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Eyüp-Sultan-Moschee in Emden, Germany, is a prominent Islamic house of worship located in the heart of East Frisia, a region steeped in cultural diversity. This mosque serves not only as a spiritual center for the local Muslim community but also as an architectural landmark that reflects the blend of Islamic tradition and European influence. Emden, situated in Niedersachsen, carries a unique historical narrative, having been a significant port town and a melting pot of different cultures. The mosque's presence enriches the city’s landscape, offering visitors a glimpse into the cultural fabric of the region.
+The Eyüp-Sultan-Moschee in Emden, Germany, is a prominent Islamic house of worship located in the heart of East Frisia, a region steeped in cultural diversity. This mosque serves not only as a spiritual center for the local Muslim community but also as an architectural landmark that reflects the blend of Islamic tradition and European influence. Emden, situated in Niedersachsen, carries a unique historical narrative, having been a significant port town and a melting pot of different cultures. The mosque's presence enriches the city's landscape, offering visitors a glimpse into the cultural fabric of the region.
 
 The Eyüp-Sultan-Moschee stands as a symbol of coexistence and community, inviting all who are curious to explore its serene environment. This guide will delve into the mosque's history, architectural features, and practical information for visitors, ensuring a comprehensive understanding of this significant heritage site.
 
@@ -72,7 +72,7 @@ Emden's rich cultural landscape is complemented by several nearby attractions th
 
 When visiting the Eyüp-Sultan-Moschee, consider these tips for a more enriching experience:
 
-- **Photography**: While photography may be allowed in certain areas, it’s best to ask for permission first, especially when capturing images of worshippers.
+- **Photography**: While photography may be allowed in certain areas, it's best to ask for permission first, especially when capturing images of worshippers.
 
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit during weekdays or early in the morning. This allows for a more peaceful experience and greater opportunity to engage with the mosque's atmosphere.
 
@@ -90,7 +90,7 @@ When preparing for your visit to the Eyüp-Sultan-Moschee, keep the following pr
 A visit typically lasts around one hour, allowing enough time to explore the mosque and reflect on its significance.
 
 ### Is photography allowed?
-Photography is generally permitted in certain areas, but it’s advisable to ask for permission, especially if you wish to photograph people.
+Photography is generally permitted in certain areas, but it's advisable to ask for permission, especially if you wish to photograph people.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for more details and to see if you need to book in advance.
@@ -99,7 +99,7 @@ Guided tours may be available; check the official website for more details and t
 Weekdays are ideal for a quieter experience. Early morning visits are also recommended to avoid crowds.
 
 ### Is it wheelchair accessible?
-Accessibility features may vary; it’s best to check with the mosque's management or the official website for specific information.
+Accessibility features may vary; it's best to check with the mosque's management or the official website for specific information.
 
 ### Can I buy tickets online?
 Check the official website for information regarding entry fees and ticket purchasing options.

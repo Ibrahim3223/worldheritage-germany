@@ -72,7 +72,7 @@ While visiting the Evangelisch-reformierte Kirche Pivitsheide, consider explorin
 
 To capture the essence of the Evangelisch-reformierte Kirche Pivitsheide through photography, consider visiting during the early morning or late afternoon when natural light enhances the church's features. This timing can yield striking images, especially if you can include the surrounding community in your shots.
 
-If you prefer a quieter experience, aim for mid-week visits when foot traffic tends to be lighter. Engaging with the local community during events or services can also provide a unique perspective on the church’s role in the lives of its members.
+If you prefer a quieter experience, aim for mid-week visits when foot traffic tends to be lighter. Engaging with the local community during events or services can also provide a unique perspective on the church's role in the lives of its members.
 
 ## Practical Information
 
@@ -92,7 +92,7 @@ Photography policies may vary. It is advisable to check for any restrictions, es
 Guided tours may be available, particularly during special events. Check the official website for details on any scheduled tours or options for self-guided exploration.
 
 ### What's the best time to visit?
-Weekdays are generally quieter, making them ideal for a more reflective experience. However, attending a Sunday service can provide insight into the community’s vibrant spiritual life.
+Weekdays are generally quieter, making them ideal for a more reflective experience. However, attending a Sunday service can provide insight into the community's vibrant spiritual life.
 
 ### Is it wheelchair accessible?
 Accessibility options may vary. For the most accurate information, check the official website or contact the church directly regarding wheelchair access.
@@ -101,7 +101,7 @@ Accessibility options may vary. For the most accurate information, check the off
 Check the official website for information on ticket purchasing options and any associated fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site or nearby. It’s wise to plan accordingly, especially if you’re visiting with family or in a group.
+Facilities may be available on-site or nearby. It's wise to plan accordingly, especially if you're visiting with family or in a group.
 
 ### What should I wear?
 Dress modestly, especially if you plan to attend a service. Comfortable clothing and shoes are recommended for exploring the church and its surroundings.

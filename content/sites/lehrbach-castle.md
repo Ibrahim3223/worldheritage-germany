@@ -36,7 +36,7 @@ The history of Lehrbach Castle is woven into the broader tapestry of medieval Ge
 
 The strategic location of Lehrbach Castle in Kirtorf highlights its historical importance. Castles in this region were typically situated to oversee trade routes and territory, making them critical to the political and economic landscapes of their time. The architectural choices made during its construction were not merely aesthetic; they served practical purposes as well, from defense mechanisms to living quarters for the ruling class.
 
-Lehrbach’s significance is amplified by its architectural remains, which include a three-story palace, a grand entrance area, and remnants of the surrounding walls. These features provide insight into the lifestyle and aspirations of its former inhabitants. Despite its ruinous state, the castle continues to evoke curiosity and admiration, serving as an educational resource for those interested in medieval history, architecture, and the cultural evolution of the region.
+Lehrbach's significance is amplified by its architectural remains, which include a three-story palace, a grand entrance area, and remnants of the surrounding walls. These features provide insight into the lifestyle and aspirations of its former inhabitants. Despite its ruinous state, the castle continues to evoke curiosity and admiration, serving as an educational resource for those interested in medieval history, architecture, and the cultural evolution of the region.
 
 ## Architecture and Features
 
@@ -68,7 +68,7 @@ While visiting Lehrbach Castle, there are several nearby attractions that can en
 
 4. **St. Nazarius Church**: In Kirtorf, this historical church features beautiful architecture and offers insights into the local culture and history.
 
-5. **Museum of Local History**: This museum highlights the cultural heritage of the Vogelsbergkreis, providing context to the region’s historical developments.
+5. **Museum of Local History**: This museum highlights the cultural heritage of the Vogelsbergkreis, providing context to the region's historical developments.
 
 ## Insider Tips
 

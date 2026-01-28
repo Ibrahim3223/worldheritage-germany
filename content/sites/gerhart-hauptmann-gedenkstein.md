@@ -24,7 +24,7 @@ The Gerhart-Hauptmann-Gedenkstein is a poignant monument located in Radebeul, Ge
 
 Located at the coordinates 51.1201, 13.6039, the monument is easily accessible and stands as a symbol of the artistic and intellectual movements that shaped the late 19th and early 20th centuries in Germany. As one of the significant cultural landmarks in the region, it provides a unique opportunity for visitors to delve into the life of a Nobel laureate and explore the broader context of his work.
 
-Visiting the Gerhart-Hauptmann-Gedenkstein promises an enriching experience for literature enthusiasts, history buffs, and anyone captivated by the stories of influential figures. While the monument itself is modest in size, its significance and the tranquil setting contribute to a reflective atmosphere that encourages contemplation of Hauptmann’s enduring impact on theater and literature.
+Visiting the Gerhart-Hauptmann-Gedenkstein promises an enriching experience for literature enthusiasts, history buffs, and anyone captivated by the stories of influential figures. While the monument itself is modest in size, its significance and the tranquil setting contribute to a reflective atmosphere that encourages contemplation of Hauptmann's enduring impact on theater and literature.
 
 ## History and Significance
 
@@ -32,15 +32,15 @@ Gerhart Hauptmann was a prolific playwright and one of the most significant figu
 
 Hauptmann's works often explored themes of social justice, human struggle, and the complexities of everyday life, resonating with audiences across generations. His most famous plays, such as "The Weavers" and "The Rats," highlight the plight of the working class, reflecting the social dynamics of his time. By honoring him with this monument, Radebeul acknowledges the lasting influence of his writings and the broader cultural movements they represent.
 
-The memorial serves as a reminder of the importance of literature and the arts in shaping societal values and dialogues. It also embodies the connection between Radebeul and its prominent literary figures, fostering a sense of pride and cultural heritage within the community. Visitors are often encouraged to engage with Hauptmann’s works, inviting them to appreciate not just the monument but also the literary legacy that it represents.
+The memorial serves as a reminder of the importance of literature and the arts in shaping societal values and dialogues. It also embodies the connection between Radebeul and its prominent literary figures, fostering a sense of pride and cultural heritage within the community. Visitors are often encouraged to engage with Hauptmann's works, inviting them to appreciate not just the monument but also the literary legacy that it represents.
 
 ## Architecture and Features
 
-The Gerhart-Hauptmann-Gedenkstein is characterized by its simplicity and understated elegance. The monument is designed to reflect the sober nature of Hauptmann’s literary themes, avoiding grandiosity in favor of a more intimate tribute. Although specific architectural details are not provided, the memorial typically features a stone structure that embodies a sense of permanence and reverence.
+The Gerhart-Hauptmann-Gedenkstein is characterized by its simplicity and understated elegance. The monument is designed to reflect the sober nature of Hauptmann's literary themes, avoiding grandiosity in favor of a more intimate tribute. Although specific architectural details are not provided, the memorial typically features a stone structure that embodies a sense of permanence and reverence.
 
 Surrounding the monument, visitors may find a serene landscape that complements the reflective nature of the site. The area is conducive to quiet contemplation, allowing individuals to absorb the significance of Hauptmann's contributions in a tranquil setting. This peaceful environment enhances the experience of visiting the Gedenkstein, making it an ideal spot for both reflection and inspiration.
 
-As a monument, the Gerhart-Hauptmann-Gedenkstein serves not only as a physical representation of Hauptmann’s legacy but also as a focal point for cultural events and gatherings related to literature and the arts. The simplicity of its design encourages visitors to focus on the message it conveys rather than any elaborate architectural features.
+As a monument, the Gerhart-Hauptmann-Gedenkstein serves not only as a physical representation of Hauptmann's legacy but also as a focal point for cultural events and gatherings related to literature and the arts. The simplicity of its design encourages visitors to focus on the message it conveys rather than any elaborate architectural features.
 
 ## Visiting Information
 

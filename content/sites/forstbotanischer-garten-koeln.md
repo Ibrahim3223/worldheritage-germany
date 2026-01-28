@@ -36,7 +36,7 @@ While specific historical details about the Forstbotanischer Garten Köln are li
 
 Botanical gardens like this one serve multiple purposes: they are not only repositories of plant species but also venues for research, education, and community engagement. The Forstbotanischer Garten Köln contributes to the education of visitors through various programs and exhibitions, promoting awareness about the significance of plants in our daily lives and their role in sustaining the planet.
 
-In addition to its educational functions, the garden plays a crucial role in conservation efforts. As urban areas expand and natural habitats diminish, spaces like the Forstbotanischer Garten Köln become increasingly essential for the preservation of plant species, particularly those that are endangered or threatened. The garden’s commitment to showcasing a diverse array of plants contributes to broader conservation initiatives, emphasizing the necessity of biodiversity in maintaining ecological balance.
+In addition to its educational functions, the garden plays a crucial role in conservation efforts. As urban areas expand and natural habitats diminish, spaces like the Forstbotanischer Garten Köln become increasingly essential for the preservation of plant species, particularly those that are endangered or threatened. The garden's commitment to showcasing a diverse array of plants contributes to broader conservation initiatives, emphasizing the necessity of biodiversity in maintaining ecological balance.
 
 ## Architecture and Features
 
@@ -48,9 +48,9 @@ Landscaping elements such as water features, seating areas, and cultivated flowe
 
 ## Visiting Information
 
-When planning a visit to the Forstbotanischer Garten Köln, it’s important to consider your transportation options. The garden is accessible via public transit, with nearby bus and tram stops providing convenient access from various parts of the city. Parking facilities may be available, but checking the official website for the most current information is recommended.
+When planning a visit to the Forstbotanischer Garten Köln, it's important to consider your transportation options. The garden is accessible via public transit, with nearby bus and tram stops providing convenient access from various parts of the city. Parking facilities may be available, but checking the official website for the most current information is recommended.
 
-To make the most of your visit, it’s advisable to allocate several hours to fully enjoy the garden’s offerings. Whether you choose to stroll leisurely or engage in educational activities, the garden provides ample opportunities for exploration. The best times to visit typically coincide with the blooming seasons, when the garden is at its most vibrant, but it also offers a unique charm in every season.
+To make the most of your visit, it's advisable to allocate several hours to fully enjoy the garden's offerings. Whether you choose to stroll leisurely or engage in educational activities, the garden provides ample opportunities for exploration. The best times to visit typically coincide with the blooming seasons, when the garden is at its most vibrant, but it also offers a unique charm in every season.
 
 Check the official website for current hours and admission prices, as these can vary throughout the year. Guests can expect to encounter a peaceful environment, with plenty of space to wander and reflect amidst the flora. 
 
@@ -99,7 +99,7 @@ Check the official website for information regarding guided tours, as these may 
 The best times to visit are during the spring and summer months when the flowers are in full bloom, but the garden offers beauty year-round.
 
 ### Is it wheelchair accessible?
-Most areas of the garden are accessible, but it’s advisable to check specific pathways and features for accessibility options.
+Most areas of the garden are accessible, but it's advisable to check specific pathways and features for accessibility options.
 
 ### Can I buy tickets online?
 Check the official website for ticket availability and purchasing options, as this may vary.

@@ -22,11 +22,11 @@ images:
 
 Augsburg, a city steeped in history and charm, features a remarkable site that encapsulates both cultural and natural beauty: Garten Zobelstraße 20a. This garden, recognized as a cultural heritage monument, is integral to Augsburg's landscape and reflects the city's commitment to preserving its rich heritage. Located at the coordinates 48.366236698, 10.910468122, this garden invites visitors to explore its serene spaces, showcasing the harmonious blend of nature and culture.
 
-The significance of Garten Zobelstraße 20a extends beyond its tranquil aesthetics. As a designated cultural heritage monument in Bavaria, it represents the architectural and horticultural traditions that have flourished in the region. The garden serves as a reminder of the importance of green spaces in urban settings, promoting biodiversity and providing a peaceful retreat for residents and visitors alike. Whether you are a history enthusiast, a nature lover, or simply seeking a place to unwind, this garden offers an enriching experience that highlights the enduring legacy of Augsburg’s cultural landscape.
+The significance of Garten Zobelstraße 20a extends beyond its tranquil aesthetics. As a designated cultural heritage monument in Bavaria, it represents the architectural and horticultural traditions that have flourished in the region. The garden serves as a reminder of the importance of green spaces in urban settings, promoting biodiversity and providing a peaceful retreat for residents and visitors alike. Whether you are a history enthusiast, a nature lover, or simply seeking a place to unwind, this garden offers an enriching experience that highlights the enduring legacy of Augsburg's cultural landscape.
 
 ## History and Significance
 
-The history of Garten Zobelstraße 20a is intertwined with Augsburg’s evolution over the centuries. While specific dates and events may not be documented, the garden stands as a reflection of the city's broader historical narrative. Augsburg, one of Germany's oldest cities, has been a significant cultural and economic center since the Roman Empire. The garden’s designation as a cultural heritage monument underscores its importance in preserving the historical identity of the area.
+The history of Garten Zobelstraße 20a is intertwined with Augsburg's evolution over the centuries. While specific dates and events may not be documented, the garden stands as a reflection of the city's broader historical narrative. Augsburg, one of Germany's oldest cities, has been a significant cultural and economic center since the Roman Empire. The garden's designation as a cultural heritage monument underscores its importance in preserving the historical identity of the area.
 
 The garden's significance is further amplified by its role in promoting environmental sustainability. In an era where urbanization threatens green spaces, Garten Zobelstraße 20a exemplifies the balance that can be achieved between development and nature. The garden not only enhances the aesthetic appeal of the city but also contributes to the ecological health of the urban environment.
 
@@ -56,7 +56,7 @@ The area surrounding Garten Zobelstraße 20a is rich in attractions that complem
    
 2. **Fuggerei**: Known as the world's oldest social housing complex, Fuggerei offers a glimpse into 16th-century living conditions and the philanthropic legacy of the Fugger family.
 
-3. **Augsburg Town Hall**: This magnificent building is a prime example of Renaissance architecture and houses a stunning golden hall that reflects the city’s prosperous past.
+3. **Augsburg Town Hall**: This magnificent building is a prime example of Renaissance architecture and houses a stunning golden hall that reflects the city's prosperous past.
 
 4. **Schaezlerpalais**: A beautiful palace that showcases baroque architecture and houses an impressive collection of art, including works from the German Romantic period.
 
@@ -95,7 +95,7 @@ Currently, there are no specific guided tours available for the garden. However,
 The best times to visit are during the spring and summer months when the garden is in full bloom. Early mornings or late afternoons are ideal for avoiding crowds.
 
 ### Is it wheelchair accessible?
-Accessibility information may vary, so it’s wise to check the official website for specific details regarding wheelchair access.
+Accessibility information may vary, so it's wise to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticketing and entry fees.

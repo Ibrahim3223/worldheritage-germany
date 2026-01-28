@@ -110,4 +110,4 @@ Facilities such as restrooms and potential cafes may be available on-site. It is
 ### What should I wear?
 Wear comfortable clothing and shoes, especially if you plan to visit nearby attractions after the museum. Layering is also recommended to accommodate indoor and outdoor temperatures.
 
-Whether you’re an art aficionado or a curious traveler, the Neues Museum Nürnberg offers a compelling experience that invites exploration and engagement with contemporary creativity.
+Whether you're an art aficionado or a curious traveler, the Neues Museum Nürnberg offers a compelling experience that invites exploration and engagement with contemporary creativity.

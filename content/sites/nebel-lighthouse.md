@@ -72,7 +72,7 @@ To avoid crowds, consider visiting during weekdays or outside of peak tourist se
 
 ## Practical Information
 
-When planning your visit to the Nebel Lighthouse, it’s advisable to bring along the essentials: a camera, comfortable walking shoes, and perhaps a light jacket, as coastal weather can be unpredictable. Additionally, consider packing snacks and water, as nearby dining options may be limited.
+When planning your visit to the Nebel Lighthouse, it's advisable to bring along the essentials: a camera, comfortable walking shoes, and perhaps a light jacket, as coastal weather can be unpredictable. Additionally, consider packing snacks and water, as nearby dining options may be limited.
 
 Seasonal considerations are also important; summer months typically attract more visitors, while off-peak seasons can provide a more tranquil experience. Be prepared for varying weather conditions, and always check the forecast before heading out.
 

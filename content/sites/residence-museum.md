@@ -42,7 +42,7 @@ The museum is significant not just for its collections but also for its role in 
 
 ## Architecture and Features
 
-The architectural grandeur of the Munich Residenz is a highlight of any visit to the Residence Museum. The building itself is a blend of various architectural styles, reflecting the many phases of construction and renovation it underwent over the centuries. From Renaissance to Baroque and Rococo influences, the museum’s design is a testament to the artistic ambitions of its former royal inhabitants.
+The architectural grandeur of the Munich Residenz is a highlight of any visit to the Residence Museum. The building itself is a blend of various architectural styles, reflecting the many phases of construction and renovation it underwent over the centuries. From Renaissance to Baroque and Rococo influences, the museum's design is a testament to the artistic ambitions of its former royal inhabitants.
 
 Inside, visitors will find a remarkable array of rooms, each with its own distinctive character. The Audience Hall, for instance, showcases lavish decorations and serves as a prime example of Baroque architecture, while the Antiquarium, a grand hall designed to house classical sculptures and antiquities, offers a striking contrast with its classical style and serene atmosphere. 
 
@@ -90,7 +90,7 @@ By planning ahead, visitors can make the most of their time at the Residence Mus
 
 When preparing for a visit to the Residence Museum, consider the following practical information:
 
-- **What to Bring**: Comfortable walking shoes are recommended, as the museum covers a significant area. A small bag for personal items is advisable, but check the museum’s policy regarding larger bags.
+- **What to Bring**: Comfortable walking shoes are recommended, as the museum covers a significant area. A small bag for personal items is advisable, but check the museum's policy regarding larger bags.
 
 - **Seasonal Considerations**: The museum can be busy during peak tourist seasons, especially in the summer months. If visiting during this time, be prepared for larger crowds and longer wait times.
 
@@ -104,7 +104,7 @@ By keeping these tips in mind, visitors can ensure a smooth and enjoyable experi
 Most visitors typically spend a few hours exploring the museum to appreciate its collections fully.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check the museum's guidelines regarding photography in specific areas.
+Photography policies can vary, so it's best to check the museum's guidelines regarding photography in specific areas.
 
 ### Are there guided tours?
 The museum may offer guided tours to provide a deeper understanding of the collections and the history of the Residenz. Check the official website for availability.
@@ -116,7 +116,7 @@ For a more intimate experience, consider visiting during weekdays or early in th
 Check the official website for detailed information regarding accessibility options within the museum.
 
 ### Can I buy tickets online?
-Ticket purchasing options may be available online. It’s advisable to check the official website for the latest information.
+Ticket purchasing options may be available online. It's advisable to check the official website for the latest information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes may be available at the museum, but it's best to confirm on the official site.

@@ -78,7 +78,7 @@ For photography enthusiasts, capturing the cave's unique formations can be a rew
 
 ## Practical Information
 
-When preparing for your visit to Baumann's Cave, it’s advisable to bring along a few essentials. Comfortable footwear is crucial due to the cave's uneven surfaces, and layering clothing will help you adjust to the cooler temperatures inside. 
+When preparing for your visit to Baumann's Cave, it's advisable to bring along a few essentials. Comfortable footwear is crucial due to the cave's uneven surfaces, and layering clothing will help you adjust to the cooler temperatures inside. 
 
 Seasonal considerations are also important; during the warmer months, the cave's interior can provide a refreshing contrast to the heat outside. Conversely, if visiting in cooler weather, ensure you wear warm clothing as temperatures can drop significantly inside the cave.
 

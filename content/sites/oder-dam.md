@@ -52,7 +52,7 @@ When planning a visit to the Oder Dam, it's important to consider transportation
 
 Expect to spend a few hours at the dam, allowing ample time to explore the area and appreciate the engineering marvel at hand. The best times to visit are during the mild months of spring and early autumn when the weather is pleasant, and the natural surroundings are particularly inviting.
 
-As you explore the dam, be prepared for various viewing points that offer different perspectives of the structure and its surroundings. Whether you’re interested in taking photographs or simply soaking in the scenery, the area provides a tranquil environment conducive to reflection and appreciation of nature.
+As you explore the dam, be prepared for various viewing points that offer different perspectives of the structure and its surroundings. Whether you're interested in taking photographs or simply soaking in the scenery, the area provides a tranquil environment conducive to reflection and appreciation of nature.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ While exploring the dam, take the time to wander through the surrounding area to
 
 ## Practical Information
 
-When visiting the Oder Dam, it’s advisable to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Seasonal considerations are also important; during warmer months, sunscreen and hats are recommended, while cooler months may require layers to stay comfortable.
+When visiting the Oder Dam, it's advisable to bring essentials such as water, comfortable walking shoes, and a camera to document your experience. Seasonal considerations are also important; during warmer months, sunscreen and hats are recommended, while cooler months may require layers to stay comfortable.
 
 As the area is often used for recreational activities, be prepared for potential outdoor conditions, and check the weather forecast before your visit.
 

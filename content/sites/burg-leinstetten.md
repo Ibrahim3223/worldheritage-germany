@@ -28,7 +28,7 @@ image_srcset:
 
 Set against the backdrop of the serene town of Dornhan in Germany, Burg Leinstetten is a captivating castle that invites visitors to explore its storied past and architectural charm. This structure showcases the enduring legacy of medieval fortifications, reflecting the historical significance of the region. While not as widely known as some of its counterparts, Burg Leinstetten holds a unique place in the cultural landscape of Germany, offering insights into the architectural practices and lifestyles of its time. Visitors can expect a tranquil experience, with the opportunity to appreciate the craftsmanship and strategic importance of this castle.
 
-The castle’s location, with coordinates 48.391976, 8.540701, grants it a sense of privacy, allowing for a more intimate exploration away from the bustling tourist trails. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat in nature, Burg Leinstetten promises a visit that enriches your understanding of Germany’s medieval heritage.
+The castle's location, with coordinates 48.391976, 8.540701, grants it a sense of privacy, allowing for a more intimate exploration away from the bustling tourist trails. Whether you are a history enthusiast, an architecture aficionado, or simply seeking a peaceful retreat in nature, Burg Leinstetten promises a visit that enriches your understanding of Germany's medieval heritage.
 
 ## History and Significance
 

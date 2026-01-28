@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Propylaea, an impressive city gate located in Munich, Germany, serves as a monumental entrance to the city's vibrant history and culture. This architectural marvel stands proudly within the urban landscape, symbolizing the gateway to exploration and discovery of Munich’s heritage. Renowned for its classical design, the Propylaea not only marks a significant entrance to the city but also reflects the artistic aspirations of its era, making it a must-visit for anyone interested in architecture and history.
+The Propylaea, an impressive city gate located in Munich, Germany, serves as a monumental entrance to the city's vibrant history and culture. This architectural marvel stands proudly within the urban landscape, symbolizing the gateway to exploration and discovery of Munich's heritage. Renowned for its classical design, the Propylaea not only marks a significant entrance to the city but also reflects the artistic aspirations of its era, making it a must-visit for anyone interested in architecture and history.
 
 Situated at the coordinates 48.1461° N, 11.5642° E, the Propylaea is positioned conveniently for both locals and tourists alike. Its significance extends beyond its physical structure, representing a cultural landmark that encapsulates the spirit of Munich. Visitors can expect to engage with a piece of history that connects them to the broader narrative of the city while also appreciating the artistry that went into its creation.
 
@@ -34,7 +34,7 @@ As you approach the Propylaea, you will not only encounter a gateway but also a 
 
 ## History and Significance
 
-The Propylaea holds a prominent place in Munich’s history as a city gate and a cultural landmark. Its construction reflects the ambitions of the city to create an impressive entry point that would embody the ideals of the time. Although specific dates regarding its establishment are not detailed here, its design is indicative of a period where neoclassical architecture was gaining prominence across Europe. 
+The Propylaea holds a prominent place in Munich's history as a city gate and a cultural landmark. Its construction reflects the ambitions of the city to create an impressive entry point that would embody the ideals of the time. Although specific dates regarding its establishment are not detailed here, its design is indicative of a period where neoclassical architecture was gaining prominence across Europe. 
 
 The Propylaea was conceived as part of a larger urban vision that sought to enhance the city's aesthetic appeal and cultural identity. The concept of city gates historically served not only practical purposes of defense and access but also acted as symbolic entrances that conveyed a sense of grandeur and importance. The Propylaea is no exception, having been designed to impress and inspire awe in those who pass through.
 

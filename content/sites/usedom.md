@@ -60,7 +60,7 @@ While Usedom is captivating in its own right, there are several nearby attractio
 
 1. **Peenemünde Historical Technical Museum** - Located on the northern part of the island, this museum offers insights into the development of rocket technology and its historical significance.
   
-2. **Ahlbeck** - One of the three imperial spas on the island, Ahlbeck features a beautiful promenade and historic pier. It’s an ideal spot for leisurely strolls and enjoying coastal views.
+2. **Ahlbeck** - One of the three imperial spas on the island, Ahlbeck features a beautiful promenade and historic pier. It's an ideal spot for leisurely strolls and enjoying coastal views.
 
 3. **Swinoujscie, Poland** - Just a short ferry ride away, this Polish town offers a different cultural experience, with sandy beaches and a vibrant market.
 
@@ -72,7 +72,7 @@ While Usedom is captivating in its own right, there are several nearby attractio
 
 For photography enthusiasts, the golden hour just before sunset offers exceptional lighting for coastal shots. The lighthouses and beach landscapes provide stunning backdrops. To avoid crowds, consider visiting popular spots early in the morning or later in the evening when day-trippers have departed.
 
-If you’re looking for a quieter experience, venture into the lesser-known beaches or nature paths. These areas often provide a more serene environment to enjoy the island's natural beauty without the hustle and bustle of peak tourist areas.
+If you're looking for a quieter experience, venture into the lesser-known beaches or nature paths. These areas often provide a more serene environment to enjoy the island's natural beauty without the hustle and bustle of peak tourist areas.
 
 ## Practical Information
 
@@ -89,9 +89,9 @@ A visit to Usedom can range from a day trip to a week-long stay, depending on yo
 Yes, photography is generally allowed in public areas, but be respectful of private properties and individuals.
 
 ### Are there guided tours?
-Yes, various guided tours are available, offering insights into the island’s history and natural beauty. Check local listings for options.
+Yes, various guided tours are available, offering insights into the island's history and natural beauty. Check local listings for options.
 
-### What’s the best time to visit?
+### What's the best time to visit?
 The summer months are popular for beach activities, while spring and early autumn offer milder weather and fewer crowds.
 
 ### Is it wheelchair accessible?

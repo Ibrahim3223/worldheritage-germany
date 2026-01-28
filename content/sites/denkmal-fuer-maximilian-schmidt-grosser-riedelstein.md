@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Denkmal für Maximilian Schmidt, located in the picturesque region of Bavaria, Germany, is a monument that pays homage to a notable figure, Maximilian Schmidt. This site stands as a reminder of the cultural and historical narratives that shape the region. Situated at coordinates 49.1659, 12.973, the monument is easily accessible and serves as a point of interest for those exploring Bavaria’s rich heritage. Visitors to this site will not only appreciate its significance but also find themselves immersed in the surrounding landscape that enhances the experience of this commemorative structure.
+Denkmal für Maximilian Schmidt, located in the picturesque region of Bavaria, Germany, is a monument that pays homage to a notable figure, Maximilian Schmidt. This site stands as a reminder of the cultural and historical narratives that shape the region. Situated at coordinates 49.1659, 12.973, the monument is easily accessible and serves as a point of interest for those exploring Bavaria's rich heritage. Visitors to this site will not only appreciate its significance but also find themselves immersed in the surrounding landscape that enhances the experience of this commemorative structure.
 
 The monument is more than just an artistic creation; it reflects the values and memories of the community it represents. As Bavaria is known for its picturesque countryside and charming towns, this site contributes to the broader historical context of the area and offers insights into the legacy of its namesake. 
 

@@ -36,7 +36,7 @@ The history of Herder-Gymnasium is intertwined with the broader narrative of edu
 
 The school has a reputation for academic rigor and has produced numerous notable alumni who have made significant contributions across various fields, including arts, sciences, and public service. This legacy highlights the institution's role in shaping future leaders and thinkers. The influence of Herder-Gymnasium extends beyond its student body; it serves as a model for other educational institutions in the region, promoting a culture of academic excellence and community involvement.
 
-In addition to its educational mission, Herder-Gymnasium is significant for its role in the local community. It hosts various events and activities that engage not only students but also parents and local residents, fostering a sense of belonging and collaboration. The school’s emphasis on cultural and extracurricular activities further enhances its importance as a community hub.
+In addition to its educational mission, Herder-Gymnasium is significant for its role in the local community. It hosts various events and activities that engage not only students but also parents and local residents, fostering a sense of belonging and collaboration. The school's emphasis on cultural and extracurricular activities further enhances its importance as a community hub.
 
 ## Architecture and Features
 
@@ -46,13 +46,13 @@ The building features spacious classrooms equipped with modern educational techn
 
 Natural light plays a crucial role in the design, with large windows allowing sunlight to flood the interiors, creating an inviting and stimulating environment for students. The layout is designed to facilitate movement and interaction among students, encouraging a sense of community within the school.
 
-As you explore the premises, take note of the thoughtful integration of art and educational displays throughout the building, which enhance the aesthetic experience while also serving an educational purpose. These elements reflect the school’s commitment to not only academic excellence but also to fostering creativity and cultural appreciation among its students.
+As you explore the premises, take note of the thoughtful integration of art and educational displays throughout the building, which enhance the aesthetic experience while also serving an educational purpose. These elements reflect the school's commitment to not only academic excellence but also to fostering creativity and cultural appreciation among its students.
 
 ## Visiting Information
 
 Visitors interested in exploring Herder-Gymnasium should check the official website for current information regarding hours of operation and any potential entry requirements. The school is situated in the Charlottenburg-Wilmersdorf district, which is well-connected by various modes of public transport, making it easily accessible for those traveling from different parts of Berlin.
 
-When planning your visit, consider allocating sufficient time to appreciate the architecture and the school’s ambiance. A visit of about one to two hours is generally recommended, allowing for exploration of the building and an opportunity to learn about its role in the community.
+When planning your visit, consider allocating sufficient time to appreciate the architecture and the school's ambiance. A visit of about one to two hours is generally recommended, allowing for exploration of the building and an opportunity to learn about its role in the community.
 
 Best times to visit are typically during school hours on weekdays, when the atmosphere is most vibrant with student activities. However, it may also be beneficial to check for specific events or open days when the school might offer guided tours or special programs for visitors.
 
@@ -64,7 +64,7 @@ While visiting Herder-Gymnasium, you may also want to explore several nearby att
 
 2. **Berliner Funkturm**: This historic radio tower, also known as the Berlin Radio Tower, is an iconic landmark that provides panoramic views of the city from its observation deck.
 
-3. **Kaiser Wilhelm Memorial Church**: An important symbol of Berlin's history, this church stands as a reminder of the city’s past and features fascinating architecture and a poignant memorial.
+3. **Kaiser Wilhelm Memorial Church**: An important symbol of Berlin's history, this church stands as a reminder of the city's past and features fascinating architecture and a poignant memorial.
 
 4. **Savignyplatz**: This charming square is surrounded by cafes and shops, offering a perfect spot to relax and enjoy the local atmosphere.
 
@@ -72,9 +72,9 @@ While visiting Herder-Gymnasium, you may also want to explore several nearby att
 
 ## Insider Tips
 
-For those planning to visit Herder-Gymnasium, consider bringing a camera to capture the architectural details of the building and the vibrant school environment. However, be mindful of the school’s regulations regarding photography, especially concerning students.
+For those planning to visit Herder-Gymnasium, consider bringing a camera to capture the architectural details of the building and the vibrant school environment. However, be mindful of the school's regulations regarding photography, especially concerning students.
 
-To avoid crowds, try visiting during mid-morning or early afternoon on weekdays, when classes are in session but the flow of visitors is typically lighter. This timing may provide a more intimate look at the school’s daily operations and the lively atmosphere created by the students.
+To avoid crowds, try visiting during mid-morning or early afternoon on weekdays, when classes are in session but the flow of visitors is typically lighter. This timing may provide a more intimate look at the school's daily operations and the lively atmosphere created by the students.
 
 ## Practical Information
 

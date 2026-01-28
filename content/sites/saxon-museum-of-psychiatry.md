@@ -40,7 +40,7 @@ As a repository of artifacts, documents, and stories, the Saxon Museum of Psychi
 
 ## Architecture and Features
 
-The architecture of the Saxon Museum of Psychiatry reflects its purpose as a center for education and historical reflection. While specific architectural details are not outlined, visitors can expect a space that is thoughtfully designed to accommodate various exhibits and facilitate the exploration of complex themes related to mental health. The museum’s layout is conducive to both individual exploration and guided tours, allowing guests to engage with the materials at their own pace or benefit from expert insights.
+The architecture of the Saxon Museum of Psychiatry reflects its purpose as a center for education and historical reflection. While specific architectural details are not outlined, visitors can expect a space that is thoughtfully designed to accommodate various exhibits and facilitate the exploration of complex themes related to mental health. The museum's layout is conducive to both individual exploration and guided tours, allowing guests to engage with the materials at their own pace or benefit from expert insights.
 
 Inside, the museum is likely to feature a blend of historical artifacts, photographs, and informative displays that narrate the story of psychiatry in Saxony. The arrangement of exhibits is designed to guide visitors through different eras and aspects of psychiatric care, highlighting significant developments and notable figures in the field. The use of multimedia and interactive elements may enhance the educational experience, making the museum accessible to a diverse audience.
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Saxon Museum of Psychiatry, consider the fo
 The recommended time for a visit is typically between one to three hours, depending on your interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check specific museum guidelines upon arrival.
+Photography policies may vary, so it's best to check specific museum guidelines upon arrival.
 
 ### Are there guided tours?
 Guided tours may be available; check the official website for details on scheduling and availability.

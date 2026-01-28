@@ -32,7 +32,7 @@ As you approach Grün Island, the gentle flow of the Rhine and the surrounding g
 
 ## History and Significance
 
-While detailed historical accounts of Grün Island are scarce, its presence in the Rhine River speaks to the broader narrative of the region’s development and ecological importance. The Rhine has long been a vital waterway for trade, transportation, and cultural exchange, and the islands within it, including Grün, have played roles in this dynamic.
+While detailed historical accounts of Grün Island are scarce, its presence in the Rhine River speaks to the broader narrative of the region's development and ecological importance. The Rhine has long been a vital waterway for trade, transportation, and cultural exchange, and the islands within it, including Grün, have played roles in this dynamic.
 
 Historically, the Rhine River has served as a natural border and a critical route connecting various regions in Europe. It has witnessed the rise and fall of civilizations, and its banks are dotted with castles and ruins that tell stories of the past. Grün Island, while smaller and less documented than some neighboring sites, contributes to the natural landscape that has shaped the human experiences along the river.
 

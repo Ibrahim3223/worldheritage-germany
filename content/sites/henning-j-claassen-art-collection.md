@@ -62,7 +62,7 @@ Lüneburg is a city rich in history and culture, making it an ideal destination 
 
 4. **The German Salt Museum**: This museum delves into the history of salt production, which was once a cornerstone of Lüneburg's economy, providing an intriguing context for understanding the city's past.
 
-5. **The Old Crane**: A historical landmark that presents a unique aspect of the city’s maritime history, situated along the picturesque waterways of Lüneburg.
+5. **The Old Crane**: A historical landmark that presents a unique aspect of the city's maritime history, situated along the picturesque waterways of Lüneburg.
 
 ## Insider Tips
 

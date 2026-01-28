@@ -107,7 +107,7 @@ Check the official website for detailed accessibility information regarding faci
 Ticket purchasing options can vary. It is advisable to check the official website for information on online ticket sales.
 
 ### Are there restrooms and cafes?
-Facilities like restrooms and cafes are typically available at railway stations, but it’s best to confirm specific services on the official website.
+Facilities like restrooms and cafes are typically available at railway stations, but it's best to confirm specific services on the official website.
 
 ### What should I wear?
 Dress comfortably and consider layering clothing based on the weather. Comfortable shoes are recommended, especially if you plan to explore the surrounding area.

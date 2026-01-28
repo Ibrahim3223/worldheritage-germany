@@ -93,7 +93,7 @@ Information about guided tours is not specified. Check the official website for 
 To avoid crowds, consider visiting on weekdays or early in the day.
 
 ### Is it wheelchair accessible?
-Accessibility information is not provided. It’s advisable to check the official website for the most accurate details.
+Accessibility information is not provided. It's advisable to check the official website for the most accurate details.
 
 ### Can I buy tickets online?
 Information about online ticket purchases is not mentioned. Please check the official website for current options.

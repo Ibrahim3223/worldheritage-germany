@@ -101,7 +101,7 @@ Check the official website for information on accessibility, as the terrain arou
 Check the official website for current information regarding any entry fees and ticket purchasing options.
 
 ### Are there restrooms and cafes?
-Facilities may be limited, so it’s advisable to check for nearby amenities before your visit.
+Facilities may be limited, so it's advisable to check for nearby amenities before your visit.
 
 ### What should I wear?
 Dress comfortably and in layers, especially if visiting in cooler months. Sturdy footwear is recommended for walking on natural trails.

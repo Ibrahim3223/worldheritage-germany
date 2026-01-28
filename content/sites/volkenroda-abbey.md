@@ -28,7 +28,7 @@ image_srcset:
 
 Volkenroda Abbey, a serene monastery located in the heart of Thuringia, Germany, invites visitors to explore its tranquil grounds and rich heritage. With its roots deeply entrenched in monastic tradition, this abbey offers a unique glimpse into the spiritual and cultural legacy of the region. The monastery is not only a place of worship but also a center for communal activities and spiritual renewal, reflecting the ongoing relevance of monastic life in contemporary society.
 
-Situated in Körner, Volkenroda Abbey serves as a peaceful retreat for both pilgrims and travelers seeking solace amid the picturesque landscapes of central Germany. The abbey's significance extends beyond its architectural beauty; it symbolizes a commitment to community and spirituality that has persisted throughout the years. Visitors can anticipate a thoughtful experience that encourages reflection and connection with the site’s historical context.
+Situated in Körner, Volkenroda Abbey serves as a peaceful retreat for both pilgrims and travelers seeking solace amid the picturesque landscapes of central Germany. The abbey's significance extends beyond its architectural beauty; it symbolizes a commitment to community and spirituality that has persisted throughout the years. Visitors can anticipate a thoughtful experience that encourages reflection and connection with the site's historical context.
 
 ## History and Significance
 

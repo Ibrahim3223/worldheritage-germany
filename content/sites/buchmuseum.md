@@ -56,7 +56,7 @@ In addition to the exhibition spaces, the museum may include areas for research 
 
 Visiting the Buchmuseum is a rewarding experience for anyone interested in literature and history. The museum is conveniently located in Dresden, making it accessible by public transport. Various options include buses, trams, and trains that connect to the city center, allowing for easy navigation to the museum's entrance.
 
-While the exact hours and ticket prices are not specified, it is advisable to check the official website for current information to ensure a smooth visit. Given the museum’s focus on rare books and manuscripts, you can expect to spend a significant amount of time exploring its collection. A visit typically requires at least a couple of hours, but those deeply engaged in the subject matter may choose to linger longer.
+While the exact hours and ticket prices are not specified, it is advisable to check the official website for current information to ensure a smooth visit. Given the museum's focus on rare books and manuscripts, you can expect to spend a significant amount of time exploring its collection. A visit typically requires at least a couple of hours, but those deeply engaged in the subject matter may choose to linger longer.
 
 The best times to visit the Buchmuseum are during weekdays when crowds are generally smaller. Early mornings or late afternoons can also provide a quieter experience, allowing for more in-depth exploration of the exhibits. 
 
@@ -72,7 +72,7 @@ After your visit to the Buchmuseum, take the opportunity to explore other notabl
 
 3. **Semper Opera House**: Known for its exceptional acoustics and beautiful design, the opera house is a cultural hub, offering performances across various genres.
 
-4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade along the Elbe River provides picturesque views of the city’s skyline and is ideal for a leisurely stroll.
+4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this scenic promenade along the Elbe River provides picturesque views of the city's skyline and is ideal for a leisurely stroll.
 
 5. **Dresden Castle**: A historic structure that has served various purposes over the centuries, the castle houses several museums, including the Historic Green Vault, renowned for its extraordinary collection of treasures.
 
@@ -86,7 +86,7 @@ To make the most of your visit to the Buchmuseum, consider the following insider
 
 - **Guided Tours**: If available, consider participating in guided tours. These tours often provide deeper insights into the collections and the history of the museum.
 
-- **Engage with Staff**: The museum staff can offer valuable information and may share anecdotes or lesser-known facts about the exhibits. Don’t hesitate to ask questions.
+- **Engage with Staff**: The museum staff can offer valuable information and may share anecdotes or lesser-known facts about the exhibits. Don't hesitate to ask questions.
 
 ## Practical Information
 

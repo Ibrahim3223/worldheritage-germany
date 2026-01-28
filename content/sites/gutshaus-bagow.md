@@ -54,7 +54,7 @@ Getting to Gutshaus Bagow typically involves traveling through the picturesque c
 
 Expect to spend a few hours at the site, allowing ample time to explore the manor house and its surroundings. The best times to visit may coincide with pleasant weather, making it easier to appreciate the outdoor areas and the tranquility of the setting. 
 
-As you plan your visit, remember to check for any special events or seasonal activities that may enhance your experience. Engaging with the local community or participating in guided tours can provide additional context and enrich your understanding of the site’s history.
+As you plan your visit, remember to check for any special events or seasonal activities that may enhance your experience. Engaging with the local community or participating in guided tours can provide additional context and enrich your understanding of the site's history.
 
 ## Nearby Attractions
 
@@ -62,7 +62,7 @@ Gutshaus Bagow is ideally situated near several other attractions that complemen
 
 1. **Päwesin Village**: A charming village that reflects the local culture and community life. A stroll through its streets offers insights into the regional lifestyle.
 
-2. **Brandenburg’s Natural Landscapes**: The surrounding countryside is ideal for outdoor activities. Enjoy walking, cycling, or simply relaxing in nature.
+2. **Brandenburg's Natural Landscapes**: The surrounding countryside is ideal for outdoor activities. Enjoy walking, cycling, or simply relaxing in nature.
 
 3. **Historic Churches**: Nearby churches may offer a glimpse into the architectural diversity and spiritual heritage of the region.
 

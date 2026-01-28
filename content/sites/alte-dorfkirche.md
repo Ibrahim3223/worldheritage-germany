@@ -30,7 +30,7 @@ The Alte Dorfkirche, a former church now functioning as a chapel, is a significa
 
 Junkersdorf, an area with a blend of modernity and tradition, provides a serene backdrop for the Alte Dorfkirche. Positioned within a vibrant neighborhood, the chapel stands out as a symbol of continuity amidst the ever-changing urban landscape. Visitors to the chapel can expect an enriching experience that combines the tranquility of a sacred space with the intricate narratives of its past.
 
-As you explore this heritage site, you will appreciate its architectural features and the stories it holds, all while being surrounded by the lively atmosphere of Junkersdorf. The Alte Dorfkirche is not just a place of worship; it is a significant piece of Cologne’s historical mosaic, inviting travelers and locals alike to reflect on its enduring legacy.
+As you explore this heritage site, you will appreciate its architectural features and the stories it holds, all while being surrounded by the lively atmosphere of Junkersdorf. The Alte Dorfkirche is not just a place of worship; it is a significant piece of Cologne's historical mosaic, inviting travelers and locals alike to reflect on its enduring legacy.
 
 ## History and Significance
 
@@ -54,9 +54,9 @@ As visitors explore the Alte Dorfkirche, they will appreciate the understated be
 
 Visiting the Alte Dorfkirche is a rewarding experience, and planning your trip can enhance your enjoyment of the site. The chapel is located in the heart of Junkersdorf, making it accessible for both local and traveling visitors. Various transport options are available, including public transportation that connects to the broader Cologne area. 
 
-When planning your visit, it is advisable to check the official website for current information on hours of operation and any potential entrance fees. While the exact times may vary, many visitors find that visiting during weekdays offers a quieter experience, allowing for personal reflection and exploration of the chapel’s features.
+When planning your visit, it is advisable to check the official website for current information on hours of operation and any potential entrance fees. While the exact times may vary, many visitors find that visiting during weekdays offers a quieter experience, allowing for personal reflection and exploration of the chapel's features.
 
-Typically, visitors can expect to spend around an hour at the Alte Dorfkirche. This timeframe allows for a thorough appreciation of the chapel’s interior and exterior, as well as the surrounding neighborhood. The best times to visit are generally during the late morning or early afternoon, when the natural light enhances the beauty of the space.
+Typically, visitors can expect to spend around an hour at the Alte Dorfkirche. This timeframe allows for a thorough appreciation of the chapel's interior and exterior, as well as the surrounding neighborhood. The best times to visit are generally during the late morning or early afternoon, when the natural light enhances the beauty of the space.
 
 As you prepare for your visit, consider bringing along a camera to capture the serene atmosphere of the chapel. Additionally, comfortable walking shoes are recommended, as you may wish to explore the nearby areas after your visit.
 

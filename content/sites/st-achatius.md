@@ -52,7 +52,7 @@ Reaching St. Achatius is relatively straightforward, given its location in Mainz
 
 When planning your visit, it is recommended to check the official website for current information regarding opening hours and any potential entry fees. The experience of visiting St. Achatius typically unfolds at a leisurely pace, allowing guests to explore the church's features and engage in personal reflection or participate in a service. A visit might take anywhere from one to two hours, depending on your interests.
 
-The best times to visit are often during weekdays when the church may be less crowded, allowing for a more intimate experience. However, if you’re interested in witnessing a service or community event, weekends are ideal.
+The best times to visit are often during weekdays when the church may be less crowded, allowing for a more intimate experience. However, if you're interested in witnessing a service or community event, weekends are ideal.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ If you're interested in participating in a service, check the church's schedule 
 
 ## Practical Information
 
-As you prepare for your visit to St. Achatius, it’s helpful to bring along essentials such as a bottle of water and comfortable walking shoes, as you may wish to explore the surrounding area. Seasonal considerations include checking the weather forecast, especially in winter months when cold temperatures may affect outdoor plans.
+As you prepare for your visit to St. Achatius, it's helpful to bring along essentials such as a bottle of water and comfortable walking shoes, as you may wish to explore the surrounding area. Seasonal considerations include checking the weather forecast, especially in winter months when cold temperatures may affect outdoor plans.
 
 Dress modestly, particularly if you plan to attend a service, as this is a place of worship. Additionally, be prepared for varying levels of crowd sizes depending on the time of year and any special events taking place.
 
@@ -91,13 +91,13 @@ Information regarding guided tours can be found on the official website, which m
 Weekdays generally provide a quieter experience, while weekends may offer more opportunities to witness services.
 
 ### Is it wheelchair accessible?
-Accessibility features may be present, but it’s advisable to verify specific details on the official website.
+Accessibility features may be present, but it's advisable to verify specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and any entry fees.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby, but it’s best to confirm on-site or through the official website.
+Facilities may be available nearby, but it's best to confirm on-site or through the official website.
 
 ### What should I wear?
 Modest clothing is recommended, especially if attending a service, respecting the sacred nature of the space.

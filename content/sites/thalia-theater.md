@@ -32,7 +32,7 @@ Given its central location, the Thalia Theater is easily accessible and stands a
 
 ## History and Significance
 
-The Thalia Theater has a storied background that intertwines with the evolution of Hamburg’s cultural life. Established as a platform for theatrical expression, it has played a crucial role in promoting both classic and contemporary works. While specific historical dates are not detailed, the theater has evolved alongside the city, adapting to changing artistic trends and audience expectations.
+The Thalia Theater has a storied background that intertwines with the evolution of Hamburg's cultural life. Established as a platform for theatrical expression, it has played a crucial role in promoting both classic and contemporary works. While specific historical dates are not detailed, the theater has evolved alongside the city, adapting to changing artistic trends and audience expectations.
 
 Culturally, the Thalia Theater has made significant contributions to the arts, not only through its performances but also by nurturing new talent and supporting innovative playwrights. The theater is known for its willingness to take creative risks, which has helped it maintain a dynamic presence in the competitive theatre scene. This commitment to innovation has allowed the Thalia Theater to remain relevant and engaging, appealing to a diverse audience.
 
@@ -72,7 +72,7 @@ While visiting the Thalia Theater, take the opportunity to explore the surroundi
 
 For those planning to attend a performance at the Thalia Theater, consider arriving early. This allows you to soak in the atmosphere and appreciate the architecture before the show begins. If you enjoy photography, take advantage of the exterior and interior aesthetics of the theater. However, be mindful of photography policies during performances, as capturing images may not be allowed.
 
-To avoid larger crowds, consider attending weekday performances or matinees. These times can offer a more intimate experience and the chance to engage more directly with the theater’s ambiance.
+To avoid larger crowds, consider attending weekday performances or matinees. These times can offer a more intimate experience and the chance to engage more directly with the theater's ambiance.
 
 ## Practical Information
 

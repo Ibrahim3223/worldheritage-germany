@@ -101,7 +101,7 @@ While there may not be formal guided tours, the well-marked trails and informati
 The best times to visit are during the spring and summer months for optimal water flow and vibrant flora, but autumn also offers beautiful colors.
 
 ### Is it wheelchair accessible?
-The main paths are generally accessible, but some areas may be steep or uneven. It’s advisable to check the official website for detailed accessibility information.
+The main paths are generally accessible, but some areas may be steep or uneven. It's advisable to check the official website for detailed accessibility information.
 
 ### Can I buy tickets online?
 Check the official website for current information regarding ticket purchasing options.

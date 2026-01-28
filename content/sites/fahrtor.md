@@ -36,13 +36,13 @@ The history of Fahrtor is intertwined with the broader narrative of Frankfurt it
 
 Fahrtor served not only as a means of entry but also as a representation of the city's governance and authority. Gates often featured intricate designs and decorations that reflected the city's artistic culture and ambitions. The cultural importance of city gates like Fahrtor extends beyond their physical function; they symbolize the resilience of the city through various historical periods, including times of conflict and peace. 
 
-Furthermore, as Frankfurt transformed over the centuries, Fahrtor remained a landmark that witnessed the evolution of urban planning and architectural styles. Today, it stands as a testament to the city’s rich heritage and offers visitors a chance to engage with its historical significance. Exploring Fahrtor allows one to appreciate the layers of history that have shaped Frankfurt into the dynamic city it is today.
+Furthermore, as Frankfurt transformed over the centuries, Fahrtor remained a landmark that witnessed the evolution of urban planning and architectural styles. Today, it stands as a testament to the city's rich heritage and offers visitors a chance to engage with its historical significance. Exploring Fahrtor allows one to appreciate the layers of history that have shaped Frankfurt into the dynamic city it is today.
 
 ## Architecture and Features
 
 Fahrtor's architectural style reflects the characteristics of medieval fortification design. While exact details about its dimensions and specific stylistic elements are not provided, city gates of this era typically feature robust stone construction, designed to withstand sieges and attacks. The gate's structure likely showcases thick walls and a formidable entrance arch, indicative of the defensive needs of the time.
 
-Architectural features of Fahrtor may include decorative elements that highlight the artistry of the period, such as carvings or inscriptions that tell stories of the city’s history. Such embellishments would have served both decorative and communicative purposes, conveying messages about civic pride and identity. As visitors approach the gate, they may notice the impressive scale of the structure, which commands respect and admiration.
+Architectural features of Fahrtor may include decorative elements that highlight the artistry of the period, such as carvings or inscriptions that tell stories of the city's history. Such embellishments would have served both decorative and communicative purposes, conveying messages about civic pride and identity. As visitors approach the gate, they may notice the impressive scale of the structure, which commands respect and admiration.
 
 In addition to its defensive role, city gates like Fahrtor often served as points of commerce and community interaction, with shops and stalls frequently located nearby. Though the specifics of Fahrtor's surroundings may vary, the area around historical gates typically buzzes with activity, reflecting the gate's importance as a social and economic hub.
 

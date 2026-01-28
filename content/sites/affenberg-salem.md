@@ -30,7 +30,7 @@ A visit to Affenberg Salem offers an engaging experience in the heart of Bodense
 
 Affenberg Salem is designed to prioritize animal welfare, and its spacious enclosures allow animals to exhibit natural behaviors while educating visitors about conservation efforts. The zoo's commitment to providing a safe and enriching environment for its inhabitants ensures that guests leave with a greater appreciation for biodiversity and the importance of wildlife conservation.
 
-As you explore the grounds, you’ll find a blend of educational experiences and leisure, making it a perfect spot for a day out. Whether you’re a local resident or a traveler passing through, Affenberg Salem promises an engaging day filled with discovery and connection to nature.
+As you explore the grounds, you'll find a blend of educational experiences and leisure, making it a perfect spot for a day out. Whether you're a local resident or a traveler passing through, Affenberg Salem promises an engaging day filled with discovery and connection to nature.
 
 ## History and Significance
 
@@ -76,7 +76,7 @@ If you're looking to extend your exploration beyond Affenberg Salem, several att
 
 ## Insider Tips
 
-For photography enthusiasts, Affenberg Salem presents numerous opportunities to capture memorable moments. Be sure to bring a good camera or smartphone, and consider visiting during the golden hours of early morning or late afternoon for the best lighting. Keep an eye on the animals’ behaviors, as they may provide unexpected and photogenic moments.
+For photography enthusiasts, Affenberg Salem presents numerous opportunities to capture memorable moments. Be sure to bring a good camera or smartphone, and consider visiting during the golden hours of early morning or late afternoon for the best lighting. Keep an eye on the animals' behaviors, as they may provide unexpected and photogenic moments.
 
 To avoid larger crowds, plan your visit during weekdays or non-holiday periods. Arriving early can also enhance your experience, allowing you to enjoy the exhibits without the hustle and bustle of peak hours. 
 

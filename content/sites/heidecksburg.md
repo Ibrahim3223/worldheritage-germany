@@ -42,11 +42,11 @@ The cultural importance of Heidecksburg extends beyond its architectural feature
 
 ## Architecture and Features
 
-The architectural design of Heidecksburg reflects the styles prevalent during its construction, showcasing a blend of medieval and Renaissance influences. The castle’s façade is marked by intricately designed elements, with attention to detail that speaks to the craftsmanship of the period. The robust structure is complemented by elegant windows and decorative motifs, enhancing its aesthetic appeal.
+The architectural design of Heidecksburg reflects the styles prevalent during its construction, showcasing a blend of medieval and Renaissance influences. The castle's façade is marked by intricately designed elements, with attention to detail that speaks to the craftsmanship of the period. The robust structure is complemented by elegant windows and decorative motifs, enhancing its aesthetic appeal.
 
 One of the notable features of Heidecksburg is its impressive tower, which offers a commanding view of the surrounding landscape. This tower serves as a focal point of the castle, drawing the eye and providing a sense of verticality to the overall design. Inside, the castle houses various rooms that reveal the lifestyle of its former inhabitants, including grand halls and chambers adorned with historical furnishings.
 
-The layout of the castle is both functional and visually striking, with corridors that lead visitors through different parts of the structure, allowing for a comprehensive understanding of its historical context. The gardens and outdoor spaces surrounding the castle add to its charm, offering picturesque spots for reflection and appreciation of the site’s heritage.
+The layout of the castle is both functional and visually striking, with corridors that lead visitors through different parts of the structure, allowing for a comprehensive understanding of its historical context. The gardens and outdoor spaces surrounding the castle add to its charm, offering picturesque spots for reflection and appreciation of the site's heritage.
 
 ## Visiting Information
 

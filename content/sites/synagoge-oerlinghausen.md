@@ -60,7 +60,7 @@ The best times to visit may vary, but exploring during weekdays can often result
 
 While visiting the Synagoge Oerlinghausen, take the opportunity to explore other nearby attractions that contribute to the cultural fabric of the area. Here are a few suggestions:
 
-1. **Local Museums** - Explore regional history and culture at local museums that may offer insights into the area’s historical context.
+1. **Local Museums** - Explore regional history and culture at local museums that may offer insights into the area's historical context.
 2. **Parks and Recreational Areas** - Enjoy the natural beauty of the region by visiting nearby parks that provide scenic walking trails.
 3. **Historical Buildings** - Discover other historical buildings in Oerlinghausen that showcase the town's architectural diversity and heritage.
 4. **Cultural Events** - Depending on the time of year, check for local cultural events or festivals that celebrate the community's traditions.
@@ -88,7 +88,7 @@ A visit to the Synagoge Oerlinghausen typically takes about 1 to 2 hours, allowi
 Photography policies may vary, so it's best to check in advance or inquire upon arrival to ensure respectful practices are followed.
 
 ### Are there guided tours?
-Check the official website for information on guided tours, as they can provide additional context and insights into the site’s history and significance.
+Check the official website for information on guided tours, as they can provide additional context and insights into the site's history and significance.
 
 ### What's the best time to visit?
 Visiting during weekdays often provides a quieter experience, while weekends may offer opportunities to engage with community events.

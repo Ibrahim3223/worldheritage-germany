@@ -34,7 +34,7 @@ Visitors can expect to spend a few hours immersed in interactive exhibits and in
 
 ## History and Significance
 
-The Aquarius-Wassermuseum's significance extends beyond its role as a museum; it represents a commitment to educating the public about the critical role of water in society. Established against the backdrop of Mülheim an der Ruhr’s industrial development, the museum reflects the city's evolution and its relationship with the water that has shaped its history and economy.
+The Aquarius-Wassermuseum's significance extends beyond its role as a museum; it represents a commitment to educating the public about the critical role of water in society. Established against the backdrop of Mülheim an der Ruhr's industrial development, the museum reflects the city's evolution and its relationship with the water that has shaped its history and economy.
 
 The museum focuses on various aspects of water, including its historical uses in industry, domestic life, and the environment. By addressing the multifaceted relationship humans have with water, the Aquarius-Wassermuseum plays a crucial part in raising awareness about sustainability and the challenges posed by water scarcity and pollution. This focus is particularly pertinent in today's context, where environmental issues are at the forefront of global discourse.
 

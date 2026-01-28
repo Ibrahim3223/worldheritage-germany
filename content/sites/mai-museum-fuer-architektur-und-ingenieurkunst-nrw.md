@@ -96,7 +96,7 @@ Photography policies may vary by exhibit. Always check for signs or inquire at t
 The museum may offer guided tours, providing deeper insights into the exhibits and architectural concepts. Check the official website for availability.
 
 ### What's the best time to visit?
-Weekdays and early mornings are generally quieter, allowing for a more relaxed experience. Check the museum’s calendar for special events that might attract larger crowds.
+Weekdays and early mornings are generally quieter, allowing for a more relaxed experience. Check the museum's calendar for special events that might attract larger crowds.
 
 ### Is it wheelchair accessible?
 For detailed information regarding accessibility, it's best to consult the official website prior to your visit.

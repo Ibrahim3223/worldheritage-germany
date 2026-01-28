@@ -30,7 +30,7 @@ image_srcset:
 
 The Aachen Chapel of Hungary, a significant part of the Aachen Cathedral complex in Germany, serves as an emblem of the cultural exchange between Hungary and Germany. This chapel is not only a place of worship but also a symbol of historical ties that transcend borders. Located in the picturesque city of Aachen, known for its thermal springs and historical significance, the chapel offers visitors an intriguing glimpse into the intertwining of Hungarian and German heritage. 
 
-As you explore this remarkable site, you’ll discover the rich traditions and artistic influences that have shaped its existence. The chapel stands within the Aachen Cathedral, a UNESCO World Heritage site, which highlights its importance in European history. With its unique architecture and vibrant cultural connections, the Aachen Chapel of Hungary invites visitors to appreciate the beauty of shared history.
+As you explore this remarkable site, you'll discover the rich traditions and artistic influences that have shaped its existence. The chapel stands within the Aachen Cathedral, a UNESCO World Heritage site, which highlights its importance in European history. With its unique architecture and vibrant cultural connections, the Aachen Chapel of Hungary invites visitors to appreciate the beauty of shared history.
 
 ## History and Significance
 
@@ -46,7 +46,7 @@ The Aachen Chapel of Hungary is characterized by its intricate architectural ele
 
 Visitors will find that the chapel's design incorporates traditional elements typical of ecclesiastical architecture from the region. From its ornate altars to the beautifully crafted stained glass windows, each feature tells a story of devotion and artistry. The interior is adorned with artworks that highlight the spiritual significance of the space, inviting contemplation and reverence.
 
-The chapel’s layout is functional yet aesthetically pleasing, designed to accommodate worshippers while also serving as a distinctive landmark within the cathedral. The harmonious blend of materials and craftsmanship reflects the dedication of the artisans who contributed to its construction and decoration, emphasizing the importance of communal effort in the creation of sacred spaces.
+The chapel's layout is functional yet aesthetically pleasing, designed to accommodate worshippers while also serving as a distinctive landmark within the cathedral. The harmonious blend of materials and craftsmanship reflects the dedication of the artisans who contributed to its construction and decoration, emphasizing the importance of communal effort in the creation of sacred spaces.
 
 As part of the larger Aachen Cathedral, the chapel shares architectural themes with other sections of the building, such as the prominent use of arches and intricate stonework. This cohesion enhances the overall experience for visitors, providing a sense of unity within the diverse elements of the cathedral complex.
 

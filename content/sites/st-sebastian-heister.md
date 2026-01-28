@@ -98,7 +98,7 @@ The best times to visit are during spring or summer when the weather is pleasant
 Accessibility information is not specified; therefore, it's best to check the official website for details regarding accessibility options.
 
 ### Can I buy tickets online?
-Information regarding ticket purchases is not provided, so it’s recommended to check the official website for any updates on admission fees or ticketing options.
+Information regarding ticket purchases is not provided, so it's recommended to check the official website for any updates on admission fees or ticketing options.
 
 ### Are there restrooms and cafes?
 Restroom availability and nearby café options are not detailed here, so it would be wise to check local amenities in Unkel before your visit.

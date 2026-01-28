@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-Moorgut Karlshof, located in Westerstede within the Ammerland district of Niedersachsen, Germany, is an architectural ensemble that embodies the cultural heritage of the region. This former estate, rich in historical significance, offers visitors a glimpse into the agricultural and architectural practices of the area. The site’s strategic location makes it accessible for those exploring the picturesque landscapes of Ammerland, known for its quaint villages and lush greenery. 
+Moorgut Karlshof, located in Westerstede within the Ammerland district of Niedersachsen, Germany, is an architectural ensemble that embodies the cultural heritage of the region. This former estate, rich in historical significance, offers visitors a glimpse into the agricultural and architectural practices of the area. The site's strategic location makes it accessible for those exploring the picturesque landscapes of Ammerland, known for its quaint villages and lush greenery. 
 
 As you approach Moorgut Karlshof, anticipation builds for a unique experience that melds history with architectural beauty. The site serves as a reminder of the past, inviting visitors to reflect on the agricultural roots and lifestyle that shaped this part of Germany. Whether you are an architectural enthusiast, a history buff, or simply looking for a tranquil spot to explore, Moorgut Karlshof promises a rewarding experience that connects you with the region's heritage.
 
@@ -48,7 +48,7 @@ Upon arrival, guests can expect a serene environment that encourages leisurely e
 
 A visit to Moorgut Karlshof typically requires a few hours, allowing ample time to appreciate the architecture and reflect on its historical significance. The best times to visit are during the spring and summer months when the landscape is vibrant and the weather is conducive to outdoor exploration. 
 
-In addition to the estate itself, visitors may appreciate the peaceful surroundings, which offer an opportunity for relaxation and contemplation. Whether you’re looking to immerse yourself in the history of the site or simply enjoy the tranquil atmosphere, Moorgut Karlshof is an inviting destination.
+In addition to the estate itself, visitors may appreciate the peaceful surroundings, which offer an opportunity for relaxation and contemplation. Whether you're looking to immerse yourself in the history of the site or simply enjoy the tranquil atmosphere, Moorgut Karlshof is an inviting destination.
 
 ## Nearby Attractions
 

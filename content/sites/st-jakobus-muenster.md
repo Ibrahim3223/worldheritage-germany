@@ -28,7 +28,7 @@ image_srcset:
 
 St.-Jakobus-Münster stands as a significant church building in the charming town of Titisee-Neustadt, Germany. This site reflects the region's rich cultural and architectural heritage, attracting visitors interested in both spiritual reflection and historical exploration. Located in the heart of the scenic Black Forest area, St.-Jakobus-Münster offers a serene atmosphere, making it a worthwhile stop for travelers in search of tranquility amid nature.
 
-The church not only serves as a place of worship but also as a cultural landmark that represents the community’s values and traditions. Its historical significance draws the attention of both locals and tourists alike, who come to admire its architectural features and engage with its serene environment. Whether you are seeking a moment of quiet contemplation or an insight into the local heritage, St.-Jakobus-Münster promises an enriching experience that resonates with the essence of this picturesque region.
+The church not only serves as a place of worship but also as a cultural landmark that represents the community's values and traditions. Its historical significance draws the attention of both locals and tourists alike, who come to admire its architectural features and engage with its serene environment. Whether you are seeking a moment of quiet contemplation or an insight into the local heritage, St.-Jakobus-Münster promises an enriching experience that resonates with the essence of this picturesque region.
 
 ## History and Significance
 
@@ -70,7 +70,7 @@ The best times to visit may vary, but it is often suggested to come during weekd
 
 ## Insider Tips
 
-For photography enthusiasts, the early morning light can create beautiful images of St.-Jakobus-Münster, highlighting its architectural details against the serene backdrop of the town. It’s recommended to arrive early to capture the church without the presence of large crowds. 
+For photography enthusiasts, the early morning light can create beautiful images of St.-Jakobus-Münster, highlighting its architectural details against the serene backdrop of the town. It's recommended to arrive early to capture the church without the presence of large crowds. 
 
 To avoid the busiest times, consider visiting during weekdays or early mornings on weekends, particularly during the summer months when tourism peaks. This allows for a more personal experience and a chance to appreciate the tranquility of the site.
 

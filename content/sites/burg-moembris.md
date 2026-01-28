@@ -32,7 +32,7 @@ Situated at coordinates 50.0713, 9.15788, Burg Mömbris is easily accessible and
 
 ## History and Significance
 
-While specific historical details about Burg Mömbris may be limited, the castle's existence is emblematic of the broader trends in medieval fortification and the feudal system that characterized much of Germany’s history. Castles like Burg Mömbris were typically constructed to serve as defensive structures during a time of conflict and territorial disputes. Such fortifications were vital for local lords to protect their lands and assert their power in a feudal society.
+While specific historical details about Burg Mömbris may be limited, the castle's existence is emblematic of the broader trends in medieval fortification and the feudal system that characterized much of Germany's history. Castles like Burg Mömbris were typically constructed to serve as defensive structures during a time of conflict and territorial disputes. Such fortifications were vital for local lords to protect their lands and assert their power in a feudal society.
 
 The cultural importance of Burg Mömbris extends beyond its architectural features. Castles of this nature often played a crucial role in the local community, serving as administrative centers and gathering places for regional governance. Moreover, they provided a sense of security and stability during tumultuous times. As a military stronghold, Burg Mömbris would have been a focal point for the surrounding population, symbolizing both protection and authority.
 
@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays or in the off-peak season. Th
 
 ## Practical Information
 
-Before heading to Burg Mömbris, it’s wise to prepare adequately for your visit. Comfortable walking shoes are recommended, as exploring the castle grounds may require some walking on uneven terrain. 
+Before heading to Burg Mömbris, it's wise to prepare adequately for your visit. Comfortable walking shoes are recommended, as exploring the castle grounds may require some walking on uneven terrain. 
 
 Seasonal considerations are also important; be mindful of the weather when planning your trip. If visiting during winter, ensure you dress warmly, as temperatures can drop. Conversely, summer visits may require sunscreen and hats for sun protection.
 

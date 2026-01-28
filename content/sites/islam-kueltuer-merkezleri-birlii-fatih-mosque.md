@@ -81,7 +81,7 @@ When visiting the İslam Kültür Merkezleri Birliği - Fatih Mosque, it is advi
 A visit typically lasts between one to two hours, allowing you to explore the mosque and its community offerings.
 
 ### Is photography allowed?
-Photography is often permitted, but it’s best to ask for permission before capturing images, especially during prayer times.
+Photography is often permitted, but it's best to ask for permission before capturing images, especially during prayer times.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, as they may be offered during specific events or times.
@@ -90,13 +90,13 @@ Check the official website for information on guided tours, as they may be offer
 Weekdays or non-prayer times are ideal for a quieter experience, while community events can provide a richer understanding of the mosque's cultural significance.
 
 ### Is it wheelchair accessible?
-Accessibility features may be available, but it’s recommended to check ahead of your visit for specific details.
+Accessibility features may be available, but it's recommended to check ahead of your visit for specific details.
 
 ### Can I buy tickets online?
 It is advisable to check the official website for information on any entry fees or ticketing options, as policies may vary.
 
 ### Are there restrooms and cafes?
-Facilities such as restrooms may be available within the mosque, but it’s best to confirm this information beforehand. Nearby cafes in Hof offer dining options.
+Facilities such as restrooms may be available within the mosque, but it's best to confirm this information beforehand. Nearby cafes in Hof offer dining options.
 
 ### What should I wear?
 Modest attire is recommended, covering shoulders and knees, to respect the cultural and religious practices of the mosque.

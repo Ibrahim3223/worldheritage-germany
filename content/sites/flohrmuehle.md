@@ -42,7 +42,7 @@ Today, Flohrmühle serves as a reminder of the simplicity and effectiveness of p
 
 Flohrmühle is characterized by its classic windmill architecture, which showcases the design principles that have allowed these structures to withstand the test of time. The windmill features a tall, cylindrical body made of sturdy materials, designed to catch the wind and harness its energy effectively. Its sails, integral to its operation, are meticulously crafted to ensure optimal performance.
 
-The design of Flohrmühle includes several notable features that enhance its functionality. The sails are typically connected to a large rotating shaft, which, when turned by the wind, powers the grinding stone inside. The mill’s cap can be turned to face the wind, a crucial feature that maximizes efficiency. The interior of the windmill often houses various milling equipment, although specific details about Flohrmühle's machinery are not provided.
+The design of Flohrmühle includes several notable features that enhance its functionality. The sails are typically connected to a large rotating shaft, which, when turned by the wind, powers the grinding stone inside. The mill's cap can be turned to face the wind, a crucial feature that maximizes efficiency. The interior of the windmill often houses various milling equipment, although specific details about Flohrmühle's machinery are not provided.
 
 From an architectural standpoint, Flohrmühle reflects the traditional windmill design prevalent in the region. The construction techniques employed not only highlight the craftsmanship of the era but also demonstrate an understanding of aerodynamics and engineering that was advanced for its time. Visitors to Flohrmühle will appreciate the sheer scale and craftsmanship of this structure, which stands as a tribute to the ingenuity of earlier generations.
 
@@ -86,7 +86,7 @@ Seasonal considerations are important as well; check the weather forecast before
 Typically, a visit to Flohrmühle can last between one to two hours, allowing ample time to explore the windmill and its surroundings.
 
 ### Is photography allowed?
-Yes, photography is generally permitted at Flohrmühle, but it’s always good practice to check for any specific restrictions upon arrival.
+Yes, photography is generally permitted at Flohrmühle, but it's always good practice to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as they may be offered on certain days or during special events.

@@ -66,13 +66,13 @@ While visiting Museum Giersch, consider exploring other notable attractions in F
 
 3. **Palmengarten** - A beautiful botanical garden that provides a peaceful escape from the urban environment, featuring diverse plant species and tranquil walking paths.
 
-4. **Römer** - The historic city hall of Frankfurt, known for its distinctive medieval architecture and significant role in the city’s history.
+4. **Römer** - The historic city hall of Frankfurt, known for its distinctive medieval architecture and significant role in the city's history.
 
 5. **Goethe House** - The birthplace of the famous writer Johann Wolfgang von Goethe, this museum offers insights into his life and works, housed within a beautifully restored building.
 
 ## Insider Tips
 
-For those looking to capture memorable moments during their visit to Museum Giersch, photography policies and crowd levels should be taken into account. It’s advisable to check if photography is allowed in specific exhibition spaces, as many museums have restrictions on capturing images of certain artworks.
+For those looking to capture memorable moments during their visit to Museum Giersch, photography policies and crowd levels should be taken into account. It's advisable to check if photography is allowed in specific exhibition spaces, as many museums have restrictions on capturing images of certain artworks.
 
 To avoid the busiest times, aim to visit during mid-week or during the early morning hours. This strategy not only enhances your experience by allowing for quieter contemplation but also provides opportunities to engage more deeply with the art without distractions.
 

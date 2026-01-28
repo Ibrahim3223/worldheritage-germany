@@ -40,9 +40,9 @@ Theater Waidspeicher also plays an essential role in promoting cultural exchange
 
 ## Architecture and Features
 
-The architectural design of Theater Waidspeicher is notable for its functionality and aesthetic appeal. While specific architectural details may not be outlined, the theater’s exterior likely reflects a blend of contemporary and traditional design elements, typical of many cultural buildings in Germany. The structure is designed to accommodate various types of performances, ensuring that both the audience and performers experience an optimal environment.
+The architectural design of Theater Waidspeicher is notable for its functionality and aesthetic appeal. While specific architectural details may not be outlined, the theater's exterior likely reflects a blend of contemporary and traditional design elements, typical of many cultural buildings in Germany. The structure is designed to accommodate various types of performances, ensuring that both the audience and performers experience an optimal environment.
 
-Inside, the theater is likely equipped with modern stage technology and seating arrangements that enhance visibility and acoustics, contributing to a memorable experience for attendees. The lobby and common areas may feature artistic installations or designs that reflect the theater’s commitment to the arts and its connection to the local community.
+Inside, the theater is likely equipped with modern stage technology and seating arrangements that enhance visibility and acoustics, contributing to a memorable experience for attendees. The lobby and common areas may feature artistic installations or designs that reflect the theater's commitment to the arts and its connection to the local community.
 
 The atmosphere within Theater Waidspeicher is typically lively and welcoming, inviting guests to immerse themselves in the performing arts. Whether attending a performance or participating in a community event, visitors can appreciate the thoughtful design that supports artistic expression and audience engagement.
 
@@ -62,7 +62,7 @@ While visiting Theater Waidspeicher, take the opportunity to explore other notab
 
 2. **Krämerbrücke**: A picturesque bridge lined with charming shops and cafés, Krämerbrücke is a must-visit for those looking to experience the local culture and perhaps pick up a unique souvenir.
 
-3. **Augustinerkloster**: The Augustinian Monastery offers a glimpse into Erfurt’s religious history and features beautiful gardens and historical exhibits that are sure to enrich your understanding of the city.
+3. **Augustinerkloster**: The Augustinian Monastery offers a glimpse into Erfurt's religious history and features beautiful gardens and historical exhibits that are sure to enrich your understanding of the city.
 
 4. **Egapark Erfurt**: For those looking to enjoy nature, Egapark is a large horticultural park that features stunning landscapes, flower displays, and recreational spaces, perfect for a leisurely stroll.
 

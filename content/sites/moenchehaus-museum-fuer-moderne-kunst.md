@@ -66,11 +66,11 @@ While visiting the Mönchehaus-Museum für Moderne Kunst, take the opportunity t
 
 1. **Goslar Old Town**: A UNESCO World Heritage Site, this area is renowned for its medieval architecture, charming streets, and historical significance.
    
-2. **Imperial Palace (Kaiserpfalz)**: Visit this historic palace, an important site during the Holy Roman Empire, to learn more about the region’s royal past.
+2. **Imperial Palace (Kaiserpfalz)**: Visit this historic palace, an important site during the Holy Roman Empire, to learn more about the region's royal past.
 
 3. **Rammelsberg Mine**: Another UNESCO World Heritage Site, this former mine offers insights into the region's mining history and its impact on the local economy and culture.
 
-4. **St. Jacob’s Church**: This impressive church features stunning architecture and historical artifacts, making it a must-see for history enthusiasts.
+4. **St. Jacob's Church**: This impressive church features stunning architecture and historical artifacts, making it a must-see for history enthusiasts.
 
 5. **Harz National Park**: Just a short distance from Goslar, this national park offers beautiful landscapes, hiking trails, and opportunities to experience the natural beauty of the Harz region.
 
@@ -82,7 +82,7 @@ For a more fulfilling visit to the Mönchehaus-Museum, here are some helpful ins
 
 - **Crowd Avoidance**: To enjoy a quieter experience, consider visiting on weekdays or during off-peak hours. Early mornings or late afternoons often have fewer visitors.
 
-- **Engage with Staff**: The museum staff are usually knowledgeable and passionate about the exhibits. Don’t hesitate to ask questions about the artworks or the artists.
+- **Engage with Staff**: The museum staff are usually knowledgeable and passionate about the exhibits. Don't hesitate to ask questions about the artworks or the artists.
 
 ## Practical Information
 
@@ -109,7 +109,7 @@ Check the official website for information regarding guided tours, as they may b
 Visiting during weekdays or off-peak hours can provide a quieter, more contemplative experience.
 
 ### Is it wheelchair accessible?
-For information on accessibility features, it’s best to contact the museum directly or check their official website.
+For information on accessibility features, it's best to contact the museum directly or check their official website.
 
 ### Can I buy tickets online?
 Check the official website for details on ticket purchasing options.

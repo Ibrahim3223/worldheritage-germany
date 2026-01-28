@@ -74,7 +74,7 @@ These attractions complement the historical experience of Cultural heritage D-6-
 
 For photography enthusiasts, early morning or late afternoon light can create stunning images of Cultural heritage D-6-5427-0009, highlighting the fortification's architectural details. To avoid larger crowds, consider visiting during weekdays or in the off-peak season, allowing for a more personal experience.
 
-Engage with the site by taking the time to read any informational displays or plaques that may provide further context to what you are observing. This can enhance your appreciation of the site’s historical significance.
+Engage with the site by taking the time to read any informational displays or plaques that may provide further context to what you are observing. This can enhance your appreciation of the site's historical significance.
 
 ## Practical Information
 

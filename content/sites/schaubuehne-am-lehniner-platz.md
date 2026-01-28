@@ -50,7 +50,7 @@ Additionally, Schaubühne am Lehniner Platz is equipped with facilities that cat
 
 Visiting Schaubühne am Lehniner Platz is an experience that can be both entertaining and enlightening. To reach the theatre, various public transport options are available, making it easily accessible from different parts of Berlin. The proximity to local transit hubs ensures that visitors can plan their journey conveniently.
 
-When planning your visit, it’s crucial to check the official website for current information regarding performance schedules, ticket prices, and specific hours of operation. This will provide the most accurate and up-to-date details, ensuring that you can make the most of your theatre experience.
+When planning your visit, it's crucial to check the official website for current information regarding performance schedules, ticket prices, and specific hours of operation. This will provide the most accurate and up-to-date details, ensuring that you can make the most of your theatre experience.
 
 While the duration of performances may vary, most shows typically last around two hours, allowing ample time for exploration of the surrounding area. It is advisable to arrive early to soak in the atmosphere and enjoy any pre-show offerings that may be available.
 
@@ -72,7 +72,7 @@ After enjoying a performance at Schaubühne am Lehniner Platz, there are several
 
 ## Insider Tips
 
-When visiting Schaubühne am Lehniner Platz, consider bringing your camera for some memorable shots of the theatre's exterior and surrounding area. However, be mindful of the theatre’s photography policy during performances, as restrictions may apply.
+When visiting Schaubühne am Lehniner Platz, consider bringing your camera for some memorable shots of the theatre's exterior and surrounding area. However, be mindful of the theatre's photography policy during performances, as restrictions may apply.
 
 To avoid crowds, consider attending matinee performances or weekday shows, which tend to have fewer attendees. Additionally, arriving early allows you to secure good seats and enjoy the atmosphere before the performance begins.
 
@@ -88,10 +88,10 @@ Seasonal considerations may also play a role in your visit. During the winter mo
 Typically, performances last around two hours, but you may want to allocate additional time for arriving early and exploring the surrounding area.
 
 ### Is photography allowed?
-Photography policies can vary during performances, so it’s best to check the specific rules at the theatre or inquire with staff.
+Photography policies can vary during performances, so it's best to check the specific rules at the theatre or inquire with staff.
 
 ### Are there guided tours?
-Check the official website for information on guided tours or special events that may offer insights into the theatre’s history and operations.
+Check the official website for information on guided tours or special events that may offer insights into the theatre's history and operations.
 
 ### What's the best time to visit?
 The spring and fall seasons often feature the most ambitious productions, making them ideal times for a visit.

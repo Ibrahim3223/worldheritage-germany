@@ -40,7 +40,7 @@ In recent years, the preservation of windmills like Quelkhorn has gained importa
 
 ## Architecture and Features
 
-The Quelkhorn windmill is a striking example of traditional windmill design, characterized by its tall, wooden structure and large, rotating blades. Its design is functional yet aesthetically pleasing, embodying the principles of both form and utility that were paramount in historical architecture. The windmill’s exterior features a sturdy wooden frame, painted in a classic color scheme that harmonizes with the surrounding environment.
+The Quelkhorn windmill is a striking example of traditional windmill design, characterized by its tall, wooden structure and large, rotating blades. Its design is functional yet aesthetically pleasing, embodying the principles of both form and utility that were paramount in historical architecture. The windmill's exterior features a sturdy wooden frame, painted in a classic color scheme that harmonizes with the surrounding environment.
 
 Notably, the blades of the windmill are designed to capture wind energy efficiently, a feature that is crucial for its operation. Visitors can appreciate the craftsmanship involved in the construction of both the structure and the mechanisms that allow it to function. The interior of the windmill often contains milling equipment that showcases the technology of its time, offering insights into how grain was processed using wind power.
 
@@ -76,7 +76,7 @@ To make the most of your visit to the Quelkhorn windmill, consider these insider
 
 - **Crowd Avoidance**: To enjoy a more peaceful experience, try to visit during weekdays or early in the morning when fewer visitors are likely to be present.
 
-- **Engage with Staff**: If there are staff or volunteers available, take the time to ask questions. Their knowledge can enhance your understanding of the windmill’s history and operation.
+- **Engage with Staff**: If there are staff or volunteers available, take the time to ask questions. Their knowledge can enhance your understanding of the windmill's history and operation.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ When preparing for your visit to the Quelkhorn windmill, consider the following 
 
 - **Seasonal Considerations**: If visiting during colder months, dress in layers to stay warm, as the wind can be quite strong. Conversely, in warmer months, be sure to bring sunscreen and hydration to stay comfortable while exploring.
 
-- **Accessibility**: While specific accessibility details are not provided, it’s advisable to check in advance if you have any concerns regarding mobility.
+- **Accessibility**: While specific accessibility details are not provided, it's advisable to check in advance if you have any concerns regarding mobility.
 
 ## Frequently Asked Questions
 

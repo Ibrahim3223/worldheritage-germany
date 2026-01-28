@@ -88,7 +88,7 @@ Seasonal considerations can also impact your visit. Check the official website f
 A visit to Römermuseum Stettfeld typically takes around two hours, allowing ample time to explore the exhibits and engage with the materials.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check the museum’s guidelines on photography before your visit.
+Photography policies may vary, so it's best to check the museum's guidelines on photography before your visit.
 
 ### Are there guided tours?
 Information about guided tours is not specified, so check the official website for details on whether they are available.

@@ -68,7 +68,7 @@ Visitors should prepare for a variety of experiences, from leisurely strolls alo
 
 While at Luisenpark, consider exploring other nearby attractions that enrich your Mannheim experience:
 
-1. **Mannheim Palace**: A historic baroque palace, it serves as a testament to the city’s architectural heritage and is home to the University of Mannheim.
+1. **Mannheim Palace**: A historic baroque palace, it serves as a testament to the city's architectural heritage and is home to the University of Mannheim.
 2. **Technoseum**: This museum focuses on the history of technology and industry, offering interactive exhibits that appeal to all ages.
 3. **Reiss-Engelhorn-Museen**: A complex of museums featuring diverse collections ranging from archaeology to art, providing insights into both local and global history.
 4. **Luisenpark's neighboring parks**: Explore additional green spaces in the area that complement the natural beauty of Luisenpark, perfect for extended outdoor activities.
@@ -114,6 +114,6 @@ For current ticketing options and purchasing details, refer to the official webs
 Amenities such as restrooms and food options are typically available in public parks. Verify with the official website for specifics.
 
 ### What should I wear?
-Comfortable clothing and footwear are recommended, especially for walking along the park’s paths. Dress according to the season to ensure comfort.
+Comfortable clothing and footwear are recommended, especially for walking along the park's paths. Dress according to the season to ensure comfort.
 
 In conclusion, Luisenpark serves as a captivating destination that harmonizes nature, culture, and community engagement. Whether you are a local resident or a traveler, this botanical garden promises a refreshing experience amidst the beauty of Mannheim.

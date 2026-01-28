@@ -70,7 +70,7 @@ To avoid crowds, try visiting during weekdays or early in the morning. This can 
 
 ## Practical Information
 
-When visiting Glasmuseum Hamburg, it’s advisable to bring along essentials such as water and comfortable walking shoes, as you may spend considerable time exploring the exhibits. Seasonal considerations can also affect your visit; winter months may necessitate warmer clothing, while summer visits might call for lighter attire.
+When visiting Glasmuseum Hamburg, it's advisable to bring along essentials such as water and comfortable walking shoes, as you may spend considerable time exploring the exhibits. Seasonal considerations can also affect your visit; winter months may necessitate warmer clothing, while summer visits might call for lighter attire.
 
 Be sure to check the official website for any specific guidelines regarding what items are permitted within the museum. This will help ensure a smooth visit and allow you to focus on enjoying the art.
 

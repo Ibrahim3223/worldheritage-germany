@@ -91,7 +91,7 @@ Check the official website for information on accessibility options within Zions
 For the most current information regarding ticketing and entry, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may vary, so it’s advisable to check the official website for details about amenities.
+Facilities may vary, so it's advisable to check the official website for details about amenities.
 
 ### What should I wear?
 Dress modestly when visiting, as this is a place of worship. Comfortable attire is also recommended for walking and exploring the area. 

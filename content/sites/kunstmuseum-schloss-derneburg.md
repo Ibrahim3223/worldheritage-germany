@@ -53,8 +53,8 @@ The best times for visiting are often during special exhibitions or cultural eve
 While Kunstmuseum Schloss Derneburg is a destination in itself, there are several nearby attractions that can enhance your itinerary:
 
 1. **Holle Town Center**: A charming area filled with local shops and cafes, perfect for a leisurely stroll after your museum visit.
-2. **St. Andrew’s Church**: An architectural highlight in Holle, this historic church features beautiful stained glass and hosts various community events.
-3. **Local Parks**: The surrounding parks offer a peaceful setting for picnics or walking trails, providing a nice contrast to the museum’s indoor atmosphere.
+2. **St. Andrew's Church**: An architectural highlight in Holle, this historic church features beautiful stained glass and hosts various community events.
+3. **Local Parks**: The surrounding parks offer a peaceful setting for picnics or walking trails, providing a nice contrast to the museum's indoor atmosphere.
 4. **Nearby Villages**: Explore the quaint villages in the vicinity, each with its own unique character and local traditions.
 5. **Cultural Events**: Keep an eye out for local festivals or art fairs that may be taking place during your visit, offering a taste of the region's vibrant culture.
 

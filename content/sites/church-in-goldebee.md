@@ -34,7 +34,7 @@ While the church itself may not be extensively documented in terms of specific d
 
 ## History and Significance
 
-The history of the Church in Goldebee is woven into the broader narrative of the Benz region, a place where spirituality and community life intersect. While exact historical records may be sparse, the church is believed to have been an integral part of the area's development, serving as a spiritual anchor for the local population. The church’s significance extends beyond its religious functions; it also plays a role in local traditions and gatherings, fostering a sense of community among the residents.
+The history of the Church in Goldebee is woven into the broader narrative of the Benz region, a place where spirituality and community life intersect. While exact historical records may be sparse, the church is believed to have been an integral part of the area's development, serving as a spiritual anchor for the local population. The church's significance extends beyond its religious functions; it also plays a role in local traditions and gatherings, fostering a sense of community among the residents.
 
 In many small towns across Germany, churches like Goldebee serve as more than places of worship; they often become central to local identity. The Church in Goldebee likely reflects this sentiment, offering a space for communal events, celebrations, and everyday congregational life. This connection to the community adds to the church's cultural importance, making it a focal point for both locals and visitors.
 

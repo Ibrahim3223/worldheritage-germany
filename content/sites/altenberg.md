@@ -99,7 +99,7 @@ Accessibility information may vary; check the official website for the latest up
 For the latest information regarding entry fees and ticketing, please check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited; it’s advisable to check the official website for information about available amenities.
+Facilities may be limited; it's advisable to check the official website for information about available amenities.
 
 ### What should I wear?
 Dress in comfortable clothing suitable for outdoor activities. Layers are recommended as temperatures can vary throughout the day.

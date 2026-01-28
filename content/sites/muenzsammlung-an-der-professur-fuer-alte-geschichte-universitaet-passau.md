@@ -72,7 +72,7 @@ To enhance your visit to the Münzsammlung, consider the following insider tips:
 
 - **Crowd Avoidance**: Aim to visit during weekdays, particularly in the morning or early afternoon, to avoid larger groups of students and tourists.
 
-- **Engage with Staff**: Don’t hesitate to ask the museum staff questions; they can provide valuable insights and recommendations for your visit.
+- **Engage with Staff**: Don't hesitate to ask the museum staff questions; they can provide valuable insights and recommendations for your visit.
 
 ## Practical Information
 

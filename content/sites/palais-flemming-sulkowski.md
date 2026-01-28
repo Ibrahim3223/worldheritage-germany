@@ -78,7 +78,7 @@ Consider exploring the surrounding gardens or exterior of the palace as well; th
 
 When visiting the Palais Flemming-Sulkowski, it is advisable to bring a small backpack with essentials such as water, a camera, and a notebook if you wish to jot down thoughts or sketches. Comfortable walking shoes are highly recommended, as you may find yourself exploring both the palace and its surrounding areas.
 
-Seasonal considerations can affect your experience; spring and summer months often bring vibrant blooms in nearby gardens, while autumn offers a stunning display of foliage. Winter visits may require warm clothing, but the palace’s charm during this season can provide a unique ambiance.
+Seasonal considerations can affect your experience; spring and summer months often bring vibrant blooms in nearby gardens, while autumn offers a stunning display of foliage. Winter visits may require warm clothing, but the palace's charm during this season can provide a unique ambiance.
 
 ## Frequently Asked Questions
 

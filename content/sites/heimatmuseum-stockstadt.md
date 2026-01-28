@@ -74,7 +74,7 @@ To enhance your visit to Heimatmuseum Stockstadt, consider these insider tips:
   
 - **Crowd Avoidance**: If possible, plan your visit during weekdays or early in the day to avoid larger crowds, ensuring a more personalized experience as you engage with exhibits.
 
-- **Engage with Staff**: The museum staff can often provide valuable insights and stories about the exhibits, so don’t hesitate to ask questions or seek their recommendations.
+- **Engage with Staff**: The museum staff can often provide valuable insights and stories about the exhibits, so don't hesitate to ask questions or seek their recommendations.
 
 ## Practical Information
 
@@ -98,7 +98,7 @@ Photography policies can vary; check with museum staff for specific rules regard
 Guided tours may be offered, but it's best to check the official website or inquire at the museum for availability.
 
 ### What's the best time to visit?
-Visiting during weekdays or early hours may provide a quieter experience. Look for special events on the museum’s calendar for additional opportunities.
+Visiting during weekdays or early hours may provide a quieter experience. Look for special events on the museum's calendar for additional opportunities.
 
 ### Is it wheelchair accessible?
 Check the official website for details on accessibility features to ensure a comfortable visit.

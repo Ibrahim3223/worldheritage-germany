@@ -77,7 +77,7 @@ Visitors might want to bring a notebook or a camera (if permitted) to capture th
 Most visitors typically spend between one to two hours exploring the museum, depending on their interest in the exhibits.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check for any specific restrictions once you arrive at the museum.
+Photography policies may vary, so it's best to check for any specific restrictions once you arrive at the museum.
 
 ### Are there guided tours?
 The museum may offer guided tours; check the official website for details on availability and scheduling.

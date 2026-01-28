@@ -95,7 +95,7 @@ Guided tours are available for those who wish to learn more about the history an
 The best time to visit Königssee is during the warmer months, from late spring to early autumn, when the weather is mild and the scenery is lush.
 
 ### Is it wheelchair accessible?
-While some areas around the lake are accessible, the rugged terrain may present challenges. It’s advisable to check specific access information before your visit.
+While some areas around the lake are accessible, the rugged terrain may present challenges. It's advisable to check specific access information before your visit.
 
 ### Can I buy tickets online?
 Check the official website for information on purchasing tickets for boat tours and other activities.

@@ -22,13 +22,13 @@ images:
 
 The Edith-Haberland-Wagner Stiftung is a distinguished foundation located in Munich, Germany, dedicated to the legacy of Edith Haberland-Wagner, who lived from 1899 to 1996. This institution reflects a commitment to cultural and social endeavors, embodying the values and vision of its founder. Situated in the heart of Munich, the foundation not only serves as a hub for various initiatives but also stands as a reminder of the impactful contributions that one individual can make to society. 
 
-Visitors to the Edith-Haberland-Wagner Stiftung can expect an enlightening experience, where the intersection of culture, philanthropy, and community engagement is palpable. The foundation’s activities and programs aim to enrich the cultural landscape of Munich, showcasing the spirit of collaboration and support for the arts and social causes. Those interested in exploring a venue that celebrates heritage and community initiatives will find the foundation a compelling destination.
+Visitors to the Edith-Haberland-Wagner Stiftung can expect an enlightening experience, where the intersection of culture, philanthropy, and community engagement is palpable. The foundation's activities and programs aim to enrich the cultural landscape of Munich, showcasing the spirit of collaboration and support for the arts and social causes. Those interested in exploring a venue that celebrates heritage and community initiatives will find the foundation a compelling destination.
 
 ## History and Significance
 
 The Edith-Haberland-Wagner Stiftung was established by Edith Haberland-Wagner, whose life spanned nearly a century, during which she witnessed significant historical events and societal changes. Her foundation is a reflection of her commitment to fostering social welfare and cultural development. While specific dates associated with the foundation's founding are not detailed, it is clear that her vision was rooted in the belief that art and culture play crucial roles in societal improvement.
 
-The foundation emphasizes cultural importance, focusing on supporting projects that enhance the social fabric of the community. It has been instrumental in various initiatives that promote awareness and engagement in cultural activities, showcasing the foundation's dedication to the arts and social causes. The legacy of Edith Haberland-Wagner is sustained through the foundation’s ongoing projects, which continue to resonate within Munich and beyond.
+The foundation emphasizes cultural importance, focusing on supporting projects that enhance the social fabric of the community. It has been instrumental in various initiatives that promote awareness and engagement in cultural activities, showcasing the foundation's dedication to the arts and social causes. The legacy of Edith Haberland-Wagner is sustained through the foundation's ongoing projects, which continue to resonate within Munich and beyond.
 
 In essence, the Edith-Haberland-Wagner Stiftung is more than just a foundation; it serves as a cultural institution that encapsulates the aspirations of its founder. By investing in community and culture, it plays a significant role in promoting social responsibility and cultural heritage, making it a pivotal entity in the landscape of Munich.
 
@@ -80,7 +80,7 @@ As the foundation may host various activities throughout the year, planning ahea
 A visit to the Edith-Haberland-Wagner Stiftung typically takes a few hours, depending on your interest in the exhibitions and activities available.
 
 ### Is photography allowed?
-Photography policies may vary, so it’s best to check with the foundation upon arrival regarding any restrictions.
+Photography policies may vary, so it's best to check with the foundation upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 Guided tours may be offered during specific events or exhibitions. Check the official website for details on availability.
@@ -92,7 +92,7 @@ Weekdays or times when special events are scheduled may provide a more relaxed e
 The foundation aims to be inclusive, but specific accessibility information should be confirmed by checking the official website.
 
 ### Can I buy tickets online?
-Ticket purchasing options may vary, so it’s advisable to check the official website for the most current information.
+Ticket purchasing options may vary, so it's advisable to check the official website for the most current information.
 
 ### Are there restrooms and cafes?
 Facilities such as restrooms and cafes may be available, but confirm the specifics on the official website before your visit.

@@ -68,7 +68,7 @@ Eschweiler is surrounded by several attractions that complement your visit to th
 
 ## Insider Tips
 
-For those looking to capture the essence of Eschweiler Central Station through photography, early mornings or late afternoons typically offer the best natural light. Arriving during these times can also help you avoid larger crowds, allowing for more intimate shots of the station’s features.
+For those looking to capture the essence of Eschweiler Central Station through photography, early mornings or late afternoons typically offer the best natural light. Arriving during these times can also help you avoid larger crowds, allowing for more intimate shots of the station's features.
 
 If you are interested in a more immersive experience, consider speaking with local commuters to learn about their daily routines and the role the station plays in their lives. Engaging with the community can provide a richer understanding of the station's significance.
 

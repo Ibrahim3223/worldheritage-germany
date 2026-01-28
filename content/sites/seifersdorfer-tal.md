@@ -66,7 +66,7 @@ While Seifersdorfer Tal itself is a captivating destination, the surrounding reg
 
 4. **Krems an der Donau**: A vibrant city with a rich history, Krems offers a variety of museums, galleries, and culinary experiences that are worth exploring.
 
-5. **Danube River**: A trip to the Wachau region wouldn’t be complete without a leisurely cruise along the Danube, allowing visitors to take in the scenic beauty of the valley from the water.
+5. **Danube River**: A trip to the Wachau region wouldn't be complete without a leisurely cruise along the Danube, allowing visitors to take in the scenic beauty of the valley from the water.
 
 ## Insider Tips
 

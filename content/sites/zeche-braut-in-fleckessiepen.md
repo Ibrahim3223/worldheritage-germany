@@ -67,7 +67,7 @@ To avoid crowds, aim for mid-week visits, as weekends can attract more visitors.
 
 ## Practical Information
 
-When planning your visit to Zeche Braut, it’s wise to wear comfortable shoes, as the site may involve some walking across uneven ground. Depending on the season, layering your clothing can help you adjust to changing temperatures throughout the day.
+When planning your visit to Zeche Braut, it's wise to wear comfortable shoes, as the site may involve some walking across uneven ground. Depending on the season, layering your clothing can help you adjust to changing temperatures throughout the day.
 
 Be prepared for the possibility of rain, especially in the spring and autumn months, by bringing an umbrella or waterproof jacket. Additionally, consider packing water and snacks, as access to refreshments may be limited.
 

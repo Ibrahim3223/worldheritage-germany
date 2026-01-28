@@ -54,7 +54,7 @@ Expect to spend a couple of hours exploring the garden, especially if you wish t
 
 1. **Ruhland Town Center**: Explore the charming streets of Ruhland, where you can find local shops, cafes, and historical architecture that reflect the town's heritage.
 
-2. **St. Mary’s Church**: A short distance from the garden, this church is known for its striking architecture and peaceful surroundings, making it a lovely spot for reflection.
+2. **St. Mary's Church**: A short distance from the garden, this church is known for its striking architecture and peaceful surroundings, making it a lovely spot for reflection.
 
 3. **Local Nature Trails**: The region around Ruhland offers various walking and biking trails that allow visitors to experience the natural beauty of the area firsthand.
 
@@ -83,7 +83,7 @@ A visit to the garden typically lasts around two hours, allowing ample time to e
 Yes, photography is generally permitted, so feel free to capture the beauty of the garden.
 
 ### Are there guided tours?
-While specific information on guided tours is not available, it’s advisable to check the official website for any educational programs or tours that may be offered.
+While specific information on guided tours is not available, it's advisable to check the official website for any educational programs or tours that may be offered.
 
 ### What's the best time to visit?
 The best times to visit are during the spring and summer months when the garden is in full bloom and various activities may be available.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Angel of Peace, located in the Bogenhausen district of Munich, Germany, is a monument that captures the spirit of peace and reconciliation. Erected in a serene park setting, it is a striking feature of the city’s landscape, standing as a symbol of hope and unity amidst the urban environment. As visitors approach, they are greeted by the majestic figure of an angel atop a tall column, flanked by intricate sculptures that enhance its grandeur. The monument not only serves as a visual landmark but also as a testament to Munich’s commitment to peace following tumultuous periods in its history.
+The Angel of Peace, located in the Bogenhausen district of Munich, Germany, is a monument that captures the spirit of peace and reconciliation. Erected in a serene park setting, it is a striking feature of the city's landscape, standing as a symbol of hope and unity amidst the urban environment. As visitors approach, they are greeted by the majestic figure of an angel atop a tall column, flanked by intricate sculptures that enhance its grandeur. The monument not only serves as a visual landmark but also as a testament to Munich's commitment to peace following tumultuous periods in its history.
 
 Surrounded by lush greenery, the Angel of Peace offers a tranquil escape from the bustling streets of Munich, inviting visitors to reflect on its significance. The monument holds a special place in the hearts of locals and tourists alike, making it a must-visit site for anyone exploring the cultural richness of the city. Whether you are interested in history, art, or simply seeking a peaceful retreat, the Angel of Peace promises a rewarding experience.
 
@@ -34,7 +34,7 @@ Surrounded by lush greenery, the Angel of Peace offers a tranquil escape from th
 
 The Angel of Peace is more than just a decorative structure; it is a monument that encapsulates significant historical narratives. While specific dates surrounding its construction aren't detailed, its presence in the Bogenhausen district symbolizes a commitment to the ideals of peace and reconciliation in the aftermath of conflict. The monument serves as a reminder of the importance of harmony in a city that has faced various challenges throughout its history.
 
-The cultural significance of the Angel of Peace extends beyond its artistic appeal. It reflects the aspirations of a community striving for unity and understanding, particularly in a city that has seen dramatic changes over the years. As a focal point for events commemorating peace, the monument plays an essential role in the collective memory of Munich’s residents. It stands as an invitation for reflection on the values of tolerance and cooperation that are vital for a harmonious society.
+The cultural significance of the Angel of Peace extends beyond its artistic appeal. It reflects the aspirations of a community striving for unity and understanding, particularly in a city that has seen dramatic changes over the years. As a focal point for events commemorating peace, the monument plays an essential role in the collective memory of Munich's residents. It stands as an invitation for reflection on the values of tolerance and cooperation that are vital for a harmonious society.
 
 Moreover, the Angel of Peace contributes to the cultural fabric of Bogenhausen, which is known for its historical significance and picturesque streets. Visiting the monument offers insights into the local heritage, allowing guests to connect with the community's past and present.
 

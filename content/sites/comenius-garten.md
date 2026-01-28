@@ -28,7 +28,7 @@ image_srcset:
 
 Comenius-Garten, located in the vibrant city of Berlin, Germany, is an oasis of tranquility amidst the bustling urban environment. This garden is a dedicated space that emphasizes the importance of nature and education, inspired by the philosophies of the renowned Czech philosopher and educator John Amos Comenius. The garden serves not only as a place for relaxation but also as a living educational tool that highlights the connection between humans and the natural world. Visitors can expect a serene atmosphere where they can unwind, reflect, and engage with the beauty of flora while absorbing the underlying educational themes that Comenius championed.
 
-Positioned in a region that has witnessed significant historical changes, Comenius-Garten represents a contemporary interpretation of the ideals of harmony and learning. As you stroll through its pathways, you will find a blend of cultivation, artistry, and learning opportunities that together create a unique experience. The garden’s significance extends beyond its aesthetic appeal; it plays a role in promoting sustainable practices and environmental awareness in the heart of a bustling metropolis.
+Positioned in a region that has witnessed significant historical changes, Comenius-Garten represents a contemporary interpretation of the ideals of harmony and learning. As you stroll through its pathways, you will find a blend of cultivation, artistry, and learning opportunities that together create a unique experience. The garden's significance extends beyond its aesthetic appeal; it plays a role in promoting sustainable practices and environmental awareness in the heart of a bustling metropolis.
 
 Visitors to Berlin will find Comenius-Garten an inviting spot to take a respite from their explorations, providing not only a glimpse into the beauty of horticulture but also an opportunity to engage with the educational messages inspired by Comenius himself. Whether you're a local resident or a traveler, a visit to this garden promises a refreshing break filled with opportunities for contemplation and inspiration.
 
@@ -59,7 +59,7 @@ The best times to visit the garden are during the spring and summer months when 
 ## Nearby Attractions
 
 1. **Botanischer Garten Berlin**: One of the most significant botanical gardens in the world, featuring a vast collection of plants and themed gardens.
-2. **Allied Museum**: A museum dedicated to the history of the Berlin Airlift and the Cold War, providing insights into the city’s post-war period.
+2. **Allied Museum**: A museum dedicated to the history of the Berlin Airlift and the Cold War, providing insights into the city's post-war period.
 3. **Schöneberg Town Hall**: A historic building known for its role in Berlin's political history, including the proclamation of the Berlin Republic.
 4. **Tempelhofer Feld**: A former airport turned public park, ideal for cycling, walking, and picnicking, offering a unique urban green space.
 5. **Kreuzberg District**: Known for its vibrant culture, street art, and diverse culinary scene, providing a lively contrast to the tranquility of Comenius-Garten.
@@ -68,7 +68,7 @@ The best times to visit the garden are during the spring and summer months when 
 
 To capture the essence of Comenius-Garten through photography, consider visiting early in the morning or later in the afternoon when the natural light is softer. This timing can enhance the colors of the flora and create a more inviting atmosphere in your photos. 
 
-To avoid crowds, try visiting on weekdays or during the early hours of the day, as weekends can attract more visitors. If you’re interested in participating in any workshops or guided experiences, check the official website for schedules and availability to ensure you don’t miss out on these enriching opportunities.
+To avoid crowds, try visiting on weekdays or during the early hours of the day, as weekends can attract more visitors. If you're interested in participating in any workshops or guided experiences, check the official website for schedules and availability to ensure you don't miss out on these enriching opportunities.
 
 ## Practical Information
 

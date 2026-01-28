@@ -55,7 +55,7 @@ For the best experience, consider visiting during weekdays when the building may
 While visiting the Gemeindehaus, several nearby attractions can enhance your experience in Munich:
 
 1. **Luitpoldpark**: A serene green space perfect for a leisurely stroll or a picnic, offering a break from the urban environment.
-2. **St. Paul’s Church**: An architectural landmark nearby, known for its beautiful design and tranquil atmosphere, ideal for reflection.
+2. **St. Paul's Church**: An architectural landmark nearby, known for its beautiful design and tranquil atmosphere, ideal for reflection.
 3. **Munich's City Center**: Just a short distance away, the city center is bustling with shops, restaurants, and historic sites, perfect for a day of exploration.
 4. **The Bavarian National Museum**: A museum dedicated to Bavarian art and cultural history, showcasing a diverse collection that captures the region's heritage.
 
@@ -94,7 +94,7 @@ Check the official website for information on guided tours. These can provide va
 Mid-morning or early afternoon on weekdays is ideal for a quieter experience. Weekends may feature events, creating a livelier atmosphere.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s recommended to check the official resources for current information regarding wheelchair access.
+Accessibility details are not specified, so it's recommended to check the official resources for current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Check the official website for information on ticket availability and purchasing options to streamline your visit.

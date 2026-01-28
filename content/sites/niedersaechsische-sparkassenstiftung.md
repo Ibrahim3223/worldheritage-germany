@@ -88,7 +88,7 @@ Before heading to the Niedersächsische Sparkassenstiftung, consider the followi
 Visitors typically find that a couple of hours is sufficient to explore the foundation and its exhibitions, but you may want to allow more time if attending an event.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to verify specific rules upon arrival or check the official website for guidance.
+Photography policies can vary, so it's best to verify specific rules upon arrival or check the official website for guidance.
 
 ### Are there guided tours?
 Information regarding guided tours may be available on the official website, which can enhance your understanding of the foundation's mission and offerings.

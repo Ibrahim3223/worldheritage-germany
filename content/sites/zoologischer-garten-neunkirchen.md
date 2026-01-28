@@ -30,7 +30,7 @@ Zoologischer Garten Neunkirchen, located in the picturesque town of Neunkirchen,
 
 The zoo is not just a recreational spot; it serves as an educational platform that raises awareness about the challenges facing wildlife and the importance of conservation efforts. As you wander through the grounds, you will encounter various species, each with its own story and significance. The zoo's commitment to animal welfare and education reflects a broader understanding of the delicate balance between humans and the natural world. 
 
-Whether you’re a local resident or a traveler exploring the region, Zoologischer Garten Neunkirchen invites you to discover the wonders of the animal kingdom in a setting designed to both entertain and educate. 
+Whether you're a local resident or a traveler exploring the region, Zoologischer Garten Neunkirchen invites you to discover the wonders of the animal kingdom in a setting designed to both entertain and educate. 
 
 ## History and Significance
 

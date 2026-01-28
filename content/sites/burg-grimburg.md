@@ -90,7 +90,7 @@ Before embarking on your visit to Burg Grimburg, keep the following practical in
 A visit to Burg Grimburg typically takes a few hours, allowing ample time to explore the castle and its surroundings.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to respect any posted guidelines regarding specific areas within the castle.
+Photography is generally permitted, but it's best to respect any posted guidelines regarding specific areas within the castle.
 
 ### Are there guided tours?
 Check the official website for information on guided tours, which may provide deeper insights into the history and architecture of the castle.
@@ -105,7 +105,7 @@ Accessibility details vary, so check the official website for the most current i
 For the latest information on ticket purchasing options, including online availability, check the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be limited at the site, so it’s advisable to check the official website for details on restrooms and any available food options.
+Facilities may be limited at the site, so it's advisable to check the official website for details on restrooms and any available food options.
 
 ### What should I wear?
 Comfortable clothing and sturdy shoes are recommended, particularly for exploring the castle and surrounding grounds.

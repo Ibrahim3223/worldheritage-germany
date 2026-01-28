@@ -66,7 +66,7 @@ As you plan your visit, consider checking local events that may be occurring in 
 
 ## Insider Tips
 
-For photography enthusiasts, capturing Altfriedstein in the early morning or late afternoon light can yield stunning results, with softer shadows enhancing the manor’s architectural details. Additionally, try to explore the surrounding gardens and landscape to incorporate the natural beauty of Radebeul into your shots.
+For photography enthusiasts, capturing Altfriedstein in the early morning or late afternoon light can yield stunning results, with softer shadows enhancing the manor's architectural details. Additionally, try to explore the surrounding gardens and landscape to incorporate the natural beauty of Radebeul into your shots.
 
 To avoid crowds, consider visiting on weekdays or during off-peak hours. Early mornings typically see fewer visitors, allowing a more tranquil experience as you wander the premises. 
 

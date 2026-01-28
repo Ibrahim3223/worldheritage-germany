@@ -44,7 +44,7 @@ The overall layout of the mine complex emphasizes the interconnectedness of vari
 
 Visiting Zeche Gladbeck offers an immersive experience into the industrial heritage of the Ruhr region. The site is accessible via various modes of transportation, making it convenient for visitors to reach. Whether arriving by car or public transport, the mine is situated in a location that is easy to navigate.
 
-Check the official website for current information regarding hours of operation and ticket pricing. It is advisable to plan your visit in advance, as specific days may offer guided tours or special events that provide deeper insights into the mine’s history and significance.
+Check the official website for current information regarding hours of operation and ticket pricing. It is advisable to plan your visit in advance, as specific days may offer guided tours or special events that provide deeper insights into the mine's history and significance.
 
 When visiting, allocate ample time to explore the site thoroughly. Depending on your interests, a visit can take anywhere from a couple of hours to a half-day. The best times to visit are during weekdays when crowds may be thinner, allowing for a more personal experience of the site.
 

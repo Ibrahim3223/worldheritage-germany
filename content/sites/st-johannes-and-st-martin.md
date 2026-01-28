@@ -68,13 +68,13 @@ While visiting St. Johannes and St. Martin, consider exploring other nearby attr
 
 4. **Local Parks** - The surrounding area features parks and green spaces, ideal for leisurely walks or picnics after your visit to the church.
 
-5. **Old Town Schwabach** - A stroll through the charming streets of Schwabach's Old Town offers a glimpse into the town’s rich history and vibrant local culture.
+5. **Old Town Schwabach** - A stroll through the charming streets of Schwabach's Old Town offers a glimpse into the town's rich history and vibrant local culture.
 
 ## Insider Tips
 
 To make the most of your visit to St. Johannes and St. Martin, consider these insider tips:
 
-- **Photography Tips**: While photography may be allowed in some areas of the church, it’s respectful to check for any restrictions, especially during services. Early morning or late afternoon can provide beautiful natural lighting for photographs.
+- **Photography Tips**: While photography may be allowed in some areas of the church, it's respectful to check for any restrictions, especially during services. Early morning or late afternoon can provide beautiful natural lighting for photographs.
 
 - **Crowd Avoidance**: Visiting during weekdays or early in the morning can help you avoid larger crowds, allowing for a more peaceful experience. If you wish to attend a service, check the schedule for special events that may attract more visitors.
 
@@ -105,13 +105,13 @@ Information regarding guided tours may not be specified, so check the official w
 Weekdays, particularly early mornings, are generally the best times to visit to avoid crowds.
 
 ### Is it wheelchair accessible?
-Details on wheelchair accessibility are not provided. It’s advisable to check in advance if this is a concern.
+Details on wheelchair accessibility are not provided. It's advisable to check in advance if this is a concern.
 
 ### Can I buy tickets online?
 Check the official website for any entry fees and the possibility of purchasing tickets online.
 
 ### Are there restrooms and cafes?
-Information regarding restrooms and nearby cafes is not specified, so it’s a good idea to explore the vicinity upon your arrival.
+Information regarding restrooms and nearby cafes is not specified, so it's a good idea to explore the vicinity upon your arrival.
 
 ### What should I wear?
 Modest clothing is recommended as St. Johannes and St. Martin is a place of worship.

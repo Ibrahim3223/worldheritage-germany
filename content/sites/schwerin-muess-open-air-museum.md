@@ -36,7 +36,7 @@ The Schwerin-Mueß Open Air Museum is more than just a collection of buildings; 
 
 The significance of the museum lies in its commitment to educating visitors about the customs and daily routines of local inhabitants throughout history. By highlighting the agricultural practices, craftsmanship, and social structures of the past, the museum fosters a deeper understanding of the region's identity. This cultural preservation effort not only serves to honor the traditions of earlier generations but also provides a context for contemporary rural life.
 
-As you explore the museum, you may encounter demonstrations of traditional crafts, interactive exhibits, and seasonal events that bring the history to life. The site’s emphasis on community engagement and education makes it a vital resource for understanding the social fabric of Mecklenburg-Western Pomerania. Visitors can appreciate how past lifestyles have influenced current agricultural practices and community dynamics.
+As you explore the museum, you may encounter demonstrations of traditional crafts, interactive exhibits, and seasonal events that bring the history to life. The site's emphasis on community engagement and education makes it a vital resource for understanding the social fabric of Mecklenburg-Western Pomerania. Visitors can appreciate how past lifestyles have influenced current agricultural practices and community dynamics.
 
 ## Architecture and Features
 
@@ -76,7 +76,7 @@ For those planning a visit to the Schwerin-Mueß Open Air Museum, here are some 
   
 - **Crowd Avoidance**: To avoid larger crowds, consider visiting during weekdays or early in the morning on weekends. This will allow you to explore the museum at a more leisurely pace.
 
-- **Engage with Staff**: Don’t hesitate to ask museum staff questions; they can provide valuable insights and stories related to the exhibits that enhance your understanding.
+- **Engage with Staff**: Don't hesitate to ask museum staff questions; they can provide valuable insights and stories related to the exhibits that enhance your understanding.
 
 ## Practical Information
 

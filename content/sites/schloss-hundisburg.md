@@ -60,7 +60,7 @@ While visiting Schloss Hundisburg, consider exploring the following nearby attra
 
 1. **Haldensleben Town Center**: A short distance away, the town center offers charming streets, local shops, and cafes, perfect for immersing yourself in the local culture.
    
-2. **St. John’s Church**: This historical church is known for its architectural beauty and significance within the community, providing insight into the religious heritage of the area.
+2. **St. John's Church**: This historical church is known for its architectural beauty and significance within the community, providing insight into the religious heritage of the area.
 
 3. **Haldensleben Museum**: A museum dedicated to the local history and culture, showcasing artifacts and exhibitions that illustrate the region's past.
 
@@ -86,10 +86,10 @@ Seasonal considerations are also important. In spring and summer, you may wish t
 A visit to Schloss Hundisburg typically takes about 2 to 3 hours, allowing you to explore both the interior and exterior of the manor.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to check for any specific restrictions upon arrival.
+Photography is generally permitted, but it's best to check for any specific restrictions upon arrival.
 
 ### Are there guided tours?
-Check the official website to learn about guided tour availability, which may enhance your understanding of the manor’s history and architecture.
+Check the official website to learn about guided tour availability, which may enhance your understanding of the manor's history and architecture.
 
 ### What's the best time to visit?
 Spring and early summer are often ideal for enjoying the gardens, while fall offers beautiful scenery with changing foliage.
@@ -101,7 +101,7 @@ Accessibility features may vary; check the official website for specific informa
 Ticket availability and purchasing options can be confirmed on the official website, ensuring you have the latest information.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s advisable to check beforehand to confirm their presence.
+Facilities may be available on-site, but it's advisable to check beforehand to confirm their presence.
 
 ### What should I wear?
 Wear comfortable clothing and shoes suitable for walking, and consider seasonal weather conditions to ensure your comfort during the visit.

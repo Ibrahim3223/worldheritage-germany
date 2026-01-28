@@ -122,7 +122,7 @@ The best times to visit are during the milder months of spring and autumn, and e
 
 ### Is it wheelchair accessible?
 
-Information about wheelchair accessibility may vary, so it’s best to check the official website for specifics before planning your visit.
+Information about wheelchair accessibility may vary, so it's best to check the official website for specifics before planning your visit.
 
 ### Can I buy tickets online?
 

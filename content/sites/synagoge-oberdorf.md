@@ -66,13 +66,13 @@ While visiting Synagoge Oberdorf, there are several nearby attractions worth exp
 
 4. **Naturpark Altmühltal**: Ideal for those who enjoy nature, this park offers hiking trails and scenic landscapes, perfect for a day of outdoor activities.
 
-5. **Local Cuisine**: Don’t miss the opportunity to sample local culinary delights at restaurants and eateries in the area, which may offer traditional German dishes.
+5. **Local Cuisine**: Don't miss the opportunity to sample local culinary delights at restaurants and eateries in the area, which may offer traditional German dishes.
 
 ## Insider Tips
 
 When visiting Synagoge Oberdorf, consider bringing a camera to capture the unique architectural features and the serene atmosphere of the synagogue. However, be sure to adhere to any photography policies in place.
 
-To avoid larger crowds, plan your visit during weekdays or early in the morning. This will allow for a quieter experience where you can fully appreciate the site’s significance without distractions.
+To avoid larger crowds, plan your visit during weekdays or early in the morning. This will allow for a quieter experience where you can fully appreciate the site's significance without distractions.
 
 ## Practical Information
 

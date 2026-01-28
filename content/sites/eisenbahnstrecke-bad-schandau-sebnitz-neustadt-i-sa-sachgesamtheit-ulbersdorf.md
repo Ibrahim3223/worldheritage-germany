@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-The Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa. (Sachgesamtheit) Ulbersdorf is a remarkable bridge that embodies the rich history of railway development in Germany’s picturesque Hohnstein region. This railway line, which connects Bad Schandau, Sebnitz, and Neustadt in Saxony, represents an essential link in the region’s transportation network, facilitating both passenger travel and goods transport. 
+The Eisenbahnstrecke Bad Schandau - Sebnitz - Neustadt i. Sa. (Sachgesamtheit) Ulbersdorf is a remarkable bridge that embodies the rich history of railway development in Germany's picturesque Hohnstein region. This railway line, which connects Bad Schandau, Sebnitz, and Neustadt in Saxony, represents an essential link in the region's transportation network, facilitating both passenger travel and goods transport. 
 
 Set against a backdrop of charming landscapes, the bridge offers visitors a unique perspective on the intersection of engineering and natural beauty. The significance of this railway line transcends mere functionality; it serves as a symbol of the industrial advancement that shaped the region. With its strategic location, this bridge has witnessed the evolution of transportation and the communities it serves, making it not only a functional structure but also a site of historical importance.
 

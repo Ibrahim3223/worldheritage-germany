@@ -28,7 +28,7 @@ image_srcset:
 
 Gymnasium Steglitz, located in the Steglitz-Zehlendorf district of Berlin, is an educational institution that plays a pivotal role within its community. This school building, characterized by its modern educational approach, provides an environment that promotes academic excellence and personal development for its students. In a city known for its dynamic blend of history and modernity, Gymnasium Steglitz stands out as a fine example of educational architecture that reflects both contemporary educational practices and the cultural values of the region. 
 
-The significance of Gymnasium Steglitz extends beyond its educational offerings. It is a microcosm of the community’s commitment to nurturing future generations while fostering a sense of civic responsibility and cultural awareness. Visitors to Berlin often seek out places that embody the spirit of the city, and this school building is a testament to the evolution of education in Germany. 
+The significance of Gymnasium Steglitz extends beyond its educational offerings. It is a microcosm of the community's commitment to nurturing future generations while fostering a sense of civic responsibility and cultural awareness. Visitors to Berlin often seek out places that embody the spirit of the city, and this school building is a testament to the evolution of education in Germany. 
 
 With a location that is easily accessible, Gymnasium Steglitz invites those with an interest in educational architecture, community engagement, and the evolution of schooling in Germany to explore its premises and appreciate the role it plays in shaping young minds.
 
@@ -62,7 +62,7 @@ For those who wish to explore further, the surrounding Steglitz-Zehlendorf distr
 
 1. **Botanischer Garten Berlin**: One of the largest and most important botanical gardens in the world, it offers a stunning collection of plants and serene walking paths.
 
-2. **Schloss Friedenau**: A historical building that once served as a residence for notable figures, this location provides insight into Berlin’s architectural heritage.
+2. **Schloss Friedenau**: A historical building that once served as a residence for notable figures, this location provides insight into Berlin's architectural heritage.
 
 3. **Zehlendorfer Strand**: A local lakeside area that offers recreational opportunities and a peaceful setting for relaxation.
 
@@ -74,11 +74,11 @@ For those who wish to explore further, the surrounding Steglitz-Zehlendorf distr
 
 For photography enthusiasts, Gymnasium Steglitz presents opportunities to capture the essence of modern educational architecture. Early mornings or late afternoons may yield the best natural light for exterior shots. Be mindful of student privacy and school regulations regarding photography within the premises.
 
-To avoid crowds, consider visiting during weekdays, especially when school events are not taking place. This will allow for a more relaxed exploration of the building and its surroundings. Engaging with faculty or students, when appropriate, can also enrich your understanding of the school’s role in the community.
+To avoid crowds, consider visiting during weekdays, especially when school events are not taking place. This will allow for a more relaxed exploration of the building and its surroundings. Engaging with faculty or students, when appropriate, can also enrich your understanding of the school's role in the community.
 
 ## Practical Information
 
-When planning a visit to Gymnasium Steglitz, it’s advisable to bring essential items such as a camera, water, and comfortable walking shoes. The school’s environment may involve walking around the campus and exploring nearby attractions.
+When planning a visit to Gymnasium Steglitz, it's advisable to bring essential items such as a camera, water, and comfortable walking shoes. The school's environment may involve walking around the campus and exploring nearby attractions.
 
 Seasonal considerations can also enhance your visit. Spring and summer are ideal times to explore the outdoor areas, while fall may offer a picturesque backdrop with changing leaves. Always check the official website for current information regarding any specific events or seasonal activities that may be occurring at the school.
 

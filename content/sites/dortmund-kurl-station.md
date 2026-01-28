@@ -66,7 +66,7 @@ Dortmund-Kurl station is conveniently located near several attractions worth exp
 
 2. **Westfalenpark**: This expansive park in Dortmund is ideal for leisurely walks, picnics, and enjoying nature. The park also features a rose garden and the iconic Florianturm tower.
 
-3. **Signal Iduna Park**: Home to Borussia Dortmund, one of Germany’s most renowned football clubs, this stadium is a must-visit for sports enthusiasts.
+3. **Signal Iduna Park**: Home to Borussia Dortmund, one of Germany's most renowned football clubs, this stadium is a must-visit for sports enthusiasts.
 
 4. **Museum Ostwall**: Located in the city, this museum focuses on modern and contemporary art, providing insight into the cultural landscape of the region.
 
@@ -100,7 +100,7 @@ Photography is generally permitted at railway stations, but be mindful of other 
 
 ### Are there guided tours?
 
-While specific guided tours may not be available at Dortmund-Kurl station, local guided tours in Dortmund may provide insights into the city’s history and attractions, which can be accessed via the station.
+While specific guided tours may not be available at Dortmund-Kurl station, local guided tours in Dortmund may provide insights into the city's history and attractions, which can be accessed via the station.
 
 ### What's the best time to visit?
 

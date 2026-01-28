@@ -64,7 +64,7 @@ Expect to find informative displays that provide context about the windmill's fu
 
 4. **Schiller Museum**: A museum dedicated to Friedrich Schiller, one of Germany's most famous playwrights, featuring exhibits on his life and works.
 
-5. **Goethe’s House**: The former residence of Johann Wolfgang von Goethe, an important figure in German literature, where visitors can explore his life and creative process.
+5. **Goethe's House**: The former residence of Johann Wolfgang von Goethe, an important figure in German literature, where visitors can explore his life and creative process.
 
 ## Insider Tips
 

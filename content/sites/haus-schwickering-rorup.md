@@ -110,7 +110,7 @@ The best times to visit are during the spring and early autumn when the weather 
 Accessibility details may not be specified, so it is advisable to check the official website for information regarding wheelchair access and facilities.
 
 ### Can I buy tickets online?
-Information on online ticket purchasing may be available on the official website; it’s recommended to check there for current options.
+Information on online ticket purchasing may be available on the official website; it's recommended to check there for current options.
 
 ### Are there restrooms and cafes?
 Details about amenities such as restrooms and cafes may not be provided, so check the official website for specifics regarding visitor facilities.

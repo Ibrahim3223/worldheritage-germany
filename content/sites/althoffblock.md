@@ -80,7 +80,7 @@ Additionally, respect the residential nature of the Althoffblock by keeping nois
 
 ## Practical Information
 
-When planning your visit to the Althoffblock, it’s wise to bring essentials such as a camera, a water bottle, and comfortable walking shoes. The area is pedestrian-friendly, and you may find yourself exploring on foot, so comfort is key.
+When planning your visit to the Althoffblock, it's wise to bring essentials such as a camera, a water bottle, and comfortable walking shoes. The area is pedestrian-friendly, and you may find yourself exploring on foot, so comfort is key.
 
 Seasonal considerations may also impact your visit. Spring and summer offer pleasant weather for outdoor exploration, while fall brings beautiful foliage, adding a unique charm to the urban landscape. Winter visits may be chillier, so dress accordingly to ensure a comfortable experience.
 

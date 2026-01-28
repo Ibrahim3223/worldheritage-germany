@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Frankfurt, Germany, lies a remarkable architectural ensemble known as Köpplerhöfchen. This historical site captures the essence of the city’s rich heritage, representing a bygone era in the bustling urban landscape. Located in the Altstadt, or Old Town, this ensemble offers a glimpse into the architectural styles and cultural practices that shaped Frankfurt over the centuries. The site is not only significant for its historical values but also serves as a testament to the city's resilience and adaptive reuse of its architectural heritage amid modernity.
+In the heart of Frankfurt, Germany, lies a remarkable architectural ensemble known as Köpplerhöfchen. This historical site captures the essence of the city's rich heritage, representing a bygone era in the bustling urban landscape. Located in the Altstadt, or Old Town, this ensemble offers a glimpse into the architectural styles and cultural practices that shaped Frankfurt over the centuries. The site is not only significant for its historical values but also serves as a testament to the city's resilience and adaptive reuse of its architectural heritage amid modernity.
 
 Visitors to Köpplerhöfchen can expect an immersive experience, as the ensemble transports them into the intricate narratives of Frankfurt's past. While the surrounding area is vibrant and contemporary, Köpplerhöfchen stands as a reminder of the city's historical roots, inviting exploration and reflection. Whether you're an architecture enthusiast, a history buff, or simply in search of a unique cultural experience, this site promises a rewarding visit.
 
@@ -28,7 +28,7 @@ Visitors to Köpplerhöfchen can expect an immersive experience, as the ensemble
 
 Köpplerhöfchen is an architectural ensemble with a storied past that reflects the historical evolution of Frankfurt. Although specific dates are not provided, it is known that the site was part of a larger courtyard complex that has existed for centuries. This ensemble is significant as it encapsulates the architectural styles prevalent in the region, showcasing the craftsmanship and design sensibilities that have evolved over time.
 
-The site holds cultural importance as it represents the lifestyle and social dynamics of Frankfurt's inhabitants throughout its history. As a former courtyard, it served as a communal space for various activities, fostering social interactions among residents. The architecture of Köpplerhöfchen is a reflection of the city’s evolution, revealing influences from various periods and styles that have contributed to its unique character.
+The site holds cultural importance as it represents the lifestyle and social dynamics of Frankfurt's inhabitants throughout its history. As a former courtyard, it served as a communal space for various activities, fostering social interactions among residents. The architecture of Köpplerhöfchen is a reflection of the city's evolution, revealing influences from various periods and styles that have contributed to its unique character.
 
 The ensemble's preservation is vital, providing insights into the architectural heritage of Frankfurt amid the rapid changes brought by modernization. It stands as a cultural landmark, offering visitors a chance to appreciate the historical narrative of the city and understand the significance of preserving such sites.
 

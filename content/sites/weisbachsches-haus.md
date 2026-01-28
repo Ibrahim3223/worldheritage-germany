@@ -58,9 +58,9 @@ As you plan your visit, consider the seasonal variations in programming and even
 
 While Weisbachsches Haus is a highlight in itself, several nearby attractions further enrich your experience in Plauen:
 
-1. **St. John’s Church (Johanniskirche)**: A beautiful example of medieval architecture, this church is a short walk from the museum and offers stunning stained glass windows and historical significance.
+1. **St. John's Church (Johanniskirche)**: A beautiful example of medieval architecture, this church is a short walk from the museum and offers stunning stained glass windows and historical significance.
 
-2. **Plauen's Old Town**: Stroll through the charming streets of Plauen’s Old Town, where you can admire the blend of historical and modern architecture, along with quaint shops and cafes.
+2. **Plauen's Old Town**: Stroll through the charming streets of Plauen's Old Town, where you can admire the blend of historical and modern architecture, along with quaint shops and cafes.
 
 3. **Vogtland Museum**: Just a stone's throw away, this museum complements Weisbachsches Haus by providing a broader perspective on the region's art and history.
 
@@ -76,7 +76,7 @@ For those planning a visit to Weisbachsches Haus, here are some insider tips to 
 
 - **Crowd Avoidance**: To enjoy a more intimate experience, consider visiting during weekdays or early in the morning. This can help you avoid larger crowds and allow for a more personal connection with the exhibits.
 
-- **Interactive Events**: Keep an eye on the museum’s calendar for special events, workshops, or guided tours that may be available during your visit. Participating in these can provide deeper insights into local culture and history.
+- **Interactive Events**: Keep an eye on the museum's calendar for special events, workshops, or guided tours that may be available during your visit. Participating in these can provide deeper insights into local culture and history.
 
 ## Practical Information
 

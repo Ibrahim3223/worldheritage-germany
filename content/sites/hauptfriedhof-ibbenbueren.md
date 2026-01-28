@@ -50,7 +50,7 @@ In addition to the grave markers, it is common for cemeteries in Germany to feat
 
 Hauptfriedhof Ibbenbüren is accessible for those wishing to explore its grounds. Visitors should check the official website for current information regarding opening hours and any potential admission fees. 
 
-When planning a visit, it's advisable to allocate sufficient time to fully appreciate the cemetery's offerings. A typical visit might last from one to two hours, depending on the individual’s interest in exploring the various graves and memorials. The best times for a visit are often early morning or late afternoon, when the light is softer and the ambiance is quieter, allowing for reflection.
+When planning a visit, it's advisable to allocate sufficient time to fully appreciate the cemetery's offerings. A typical visit might last from one to two hours, depending on the individual's interest in exploring the various graves and memorials. The best times for a visit are often early morning or late afternoon, when the light is softer and the ambiance is quieter, allowing for reflection.
 
 Public transport options may be available within Ibbenbüren, making it convenient for visitors to access the cemetery. For those driving, there may be parking available nearby, but it's best to confirm details before visiting. 
 
@@ -83,7 +83,7 @@ For those planning to visit Hauptfriedhof Ibbenbüren, consider the following in
 When preparing for a visit to Hauptfriedhof Ibbenbüren, here are some practical considerations:
 
 - **What to Bring**: Comfortable walking shoes are essential, as visitors will likely be walking on uneven surfaces. Consider bringing water and perhaps a small snack, particularly if planning to explore nearby attractions afterward.
-- **Seasonal Considerations**: The cemetery’s ambiance may change with the seasons. Spring and summer offer blooming flowers, while fall presents vibrant foliage. Winter visits may provide a quiet, peaceful atmosphere, though weather conditions should be checked in advance.
+- **Seasonal Considerations**: The cemetery's ambiance may change with the seasons. Spring and summer offer blooming flowers, while fall presents vibrant foliage. Winter visits may provide a quiet, peaceful atmosphere, though weather conditions should be checked in advance.
 
 ## Frequently Asked Questions
 

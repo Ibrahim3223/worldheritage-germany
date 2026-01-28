@@ -42,7 +42,7 @@ The architectural design of the Evangelisch-reformierte Kirche is noteworthy, sh
 
 Inside, the church likely features a spacious nave, adorned with minimalistic yet meaningful decorations that reflect the theological principles of the Reformed faith. The use of light, space, and acoustics is often a focal point in such churches, enhancing the worship experience. The overall aesthetic is likely to be serene and contemplative, inviting visitors to pause and reflect.
 
-Visitors may find notable features such as stained glass windows, which often depict biblical scenes or significant figures in Reformed history, contributing to the church’s educational role. The altar area typically serves as the focal point of worship, with seating arranged to foster a sense of community among congregants.
+Visitors may find notable features such as stained glass windows, which often depict biblical scenes or significant figures in Reformed history, contributing to the church's educational role. The altar area typically serves as the focal point of worship, with seating arranged to foster a sense of community among congregants.
 
 ## Visiting Information
 
@@ -70,7 +70,7 @@ While visiting the Evangelisch-reformierte Kirche, consider exploring these near
 
 For those looking to capture the essence of the Evangelisch-reformierte Kirche through photography, consider visiting during the early morning or late afternoon when natural light enhances the building's features. Since the church is a place of worship, be respectful of those attending services or events, and avoid disruptive photography during these times.
 
-To avoid crowds, plan your visit on weekdays or during off-peak hours. This will allow you to experience the church’s serene atmosphere fully and engage with its history without interruptions.
+To avoid crowds, plan your visit on weekdays or during off-peak hours. This will allow you to experience the church's serene atmosphere fully and engage with its history without interruptions.
 
 ## Practical Information
 

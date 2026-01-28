@@ -64,7 +64,7 @@ While visiting the Dying Teenager statue, there are several other attractions in
 
 3. **Schnoor Viertel**: This charming neighborhood is known for its narrow alleys and quaint houses, offering a glimpse into Bremen's past.
 
-4. **Bremen Town Hall**: A UNESCO World Heritage Site, the town hall showcases stunning Gothic architecture and is a focal point of the city’s rich history.
+4. **Bremen Town Hall**: A UNESCO World Heritage Site, the town hall showcases stunning Gothic architecture and is a focal point of the city's rich history.
 
 5. **Weser River Promenade**: A picturesque area for a leisurely stroll, the promenade offers scenic views and a chance to relax by the river.
 

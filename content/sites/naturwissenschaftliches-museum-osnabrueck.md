@@ -72,7 +72,7 @@ While visiting the Naturwissenschaftliches Museum Osnabrück, take advantage of 
 
 ## Insider Tips
 
-For those looking to capture the essence of the Naturwissenschaftliches Museum Osnabrück, consider bringing a camera to document your experience. While photography may be permitted in certain areas, it’s courteous to check the signage or inquire with staff to ensure compliance with museum policies.
+For those looking to capture the essence of the Naturwissenschaftliches Museum Osnabrück, consider bringing a camera to document your experience. While photography may be permitted in certain areas, it's courteous to check the signage or inquire with staff to ensure compliance with museum policies.
 
 To avoid larger crowds, visiting during the week or early in the day is recommended. This allows for a more serene experience, enabling you to fully appreciate the exhibits without the hustle and bustle of peak visitor times. 
 
@@ -99,7 +99,7 @@ The museum may offer guided tours, which can provide deeper insights into the ex
 Weekdays and early mornings tend to be less crowded, providing a more relaxed experience compared to weekends or holiday periods.
 
 ### Is it wheelchair accessible?
-Accessibility information is typically available on the museum's official website. It’s advisable to check for specific accommodations before your visit.
+Accessibility information is typically available on the museum's official website. It's advisable to check for specific accommodations before your visit.
 
 ### Can I buy tickets online?
 For the most accurate information regarding ticket purchasing options, visit the museum's official website prior to your visit.

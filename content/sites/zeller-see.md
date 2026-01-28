@@ -62,9 +62,9 @@ While Zeller See provides a tranquil experience, several nearby attractions can 
 
 2. **Allgäu region**: Known for its picturesque landscapes, the Allgäu region is a perfect destination for outdoor activities such as hiking and cycling. The nearby mountains and valleys offer stunning vistas.
 
-3. **Lake Constance**: Located a bit further afield, Lake Constance is a popular area for water sports, cycling, and scenic boat trips. It’s an excellent place to experience the natural beauty of the region.
+3. **Lake Constance**: Located a bit further afield, Lake Constance is a popular area for water sports, cycling, and scenic boat trips. It's an excellent place to experience the natural beauty of the region.
 
-4. **Wangen im Allgäu**: This charming town features well-preserved medieval architecture and a vibrant cultural scene. It’s a pleasant stop for those looking to experience local traditions and cuisine.
+4. **Wangen im Allgäu**: This charming town features well-preserved medieval architecture and a vibrant cultural scene. It's a pleasant stop for those looking to experience local traditions and cuisine.
 
 5. **Bodensee-Rundweg**: For those interested in longer hikes, this extensive trail encircles Lake Constance, providing breathtaking views and the opportunity to explore various towns and landscapes along the way.
 

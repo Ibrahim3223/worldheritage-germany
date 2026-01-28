@@ -32,7 +32,7 @@ In the heart of Lübeck, Germany, the Zentral Theatre stands as a vibrant hub of
 
 Zentral Theatre has evolved over the years from its origins as a cinema into a multifaceted theatre space. While specific dates may elude, the theatre's transformation mirrors the broader changes in the entertainment landscape throughout the 20th and 21st centuries. As cinema and theatre began to intertwine, Zentral adapted to meet the demands of an evolving audience, becoming a cherished venue for dramatic performances, film screenings, and community events.
 
-The significance of Zentral extends beyond its architectural façade; it plays a crucial role in Lübeck's cultural identity. The theatre has fostered local talent, offering a stage for emerging artists while also welcoming established performers. Its programming often reflects the community's diverse interests, ranging from classic plays to contemporary performances, ensuring that there is something for everyone. As such, the theatre serves as an important gathering place where cultural exchange thrives, reinforcing Lübeck’s status as a center for the arts.
+The significance of Zentral extends beyond its architectural façade; it plays a crucial role in Lübeck's cultural identity. The theatre has fostered local talent, offering a stage for emerging artists while also welcoming established performers. Its programming often reflects the community's diverse interests, ranging from classic plays to contemporary performances, ensuring that there is something for everyone. As such, the theatre serves as an important gathering place where cultural exchange thrives, reinforcing Lübeck's status as a center for the arts.
 
 ## Architecture and Features
 
@@ -56,7 +56,7 @@ The best times to visit are often tied to the theatre's performance calendar, wi
    
 2. **Lübeck Cathedral**: A magnificent example of Brick Gothic architecture, the cathedral offers insight into the city's religious heritage and stunning views from its towers.
 
-3. **Holstentor**: One of Lübeck’s most famous landmarks, this medieval gate is emblematic of the city’s rich merchant history.
+3. **Holstentor**: One of Lübeck's most famous landmarks, this medieval gate is emblematic of the city's rich merchant history.
 
 4. **Buddenbrook House**: A museum dedicated to the works of the Nobel Prize-winning authors Thomas and Heinrich Mann, this site provides a fascinating glimpse into literary history.
 
@@ -80,7 +80,7 @@ Seasonal considerations can influence your visit. During the winter months, the 
 A visit to Zentral can vary in length depending on the performance, but plan for at least two to three hours, including time to enjoy the lobby and surrounding areas.
 
 ### Is photography allowed?
-Photography policies may vary based on the performance, so it’s best to check with the theatre prior to your visit.
+Photography policies may vary based on the performance, so it's best to check with the theatre prior to your visit.
 
 ### Are there guided tours?
 Currently, guided tours may not be offered regularly. Check the official website for any scheduled tours or special events that may include guided experiences.

@@ -76,7 +76,7 @@ If you are particularly interested in the church's architecture or history, it m
 
 ## Practical Information
 
-When planning your visit to Segenskirche, it’s advisable to bring along a camera, as the church and its surroundings provide numerous opportunities for photography. Comfortable walking shoes are recommended, as you may wish to explore the nearby attractions and parks.
+When planning your visit to Segenskirche, it's advisable to bring along a camera, as the church and its surroundings provide numerous opportunities for photography. Comfortable walking shoes are recommended, as you may wish to explore the nearby attractions and parks.
 
 Seasonal considerations can also impact your visit. Spring and summer months offer pleasant weather for outdoor activities, while fall can provide a beautiful backdrop with changing foliage. Winter may present challenges, but the church's interior remains a warm refuge for those seeking solace during the colder months.
 

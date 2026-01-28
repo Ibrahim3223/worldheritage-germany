@@ -42,7 +42,7 @@ The significance of the Alamannenmuseum lies not only in its collection but also
 
 ## Architecture and Features
 
-Alamannenmuseum Ellwangen is housed in a building that reflects the architectural styles typical of the area. The structure itself complements the historical narrative presented inside, creating an immersive experience for visitors. While specific architectural details are not provided, the museum’s design is likely to harmonize with the surrounding historic buildings of Ellwangen, potentially featuring elements that echo the styles of the time periods being represented.
+Alamannenmuseum Ellwangen is housed in a building that reflects the architectural styles typical of the area. The structure itself complements the historical narrative presented inside, creating an immersive experience for visitors. While specific architectural details are not provided, the museum's design is likely to harmonize with the surrounding historic buildings of Ellwangen, potentially featuring elements that echo the styles of the time periods being represented.
 
 Inside, the museum is organized to facilitate an engaging exploration of its exhibits. Visitors can expect to navigate through various themed sections that showcase artifacts from different aspects of Alamanni life. The layout is designed to guide guests through a chronological journey, with each exhibit thoughtfully curated to highlight significant cultural and historical themes. 
 
@@ -88,7 +88,7 @@ When preparing for your visit to Alamannenmuseum Ellwangen, consider the followi
 
 - **Seasonal Considerations**: Check the weather forecast ahead of your visit. Depending on the season, you may want to dress in layers or bring an umbrella.
 
-- **Accessibility**: If you have specific accessibility needs, it’s advisable to check the museum's provisions beforehand to ensure a comfortable visit.
+- **Accessibility**: If you have specific accessibility needs, it's advisable to check the museum's provisions beforehand to ensure a comfortable visit.
 
 ## Frequently Asked Questions
 

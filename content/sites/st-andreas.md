@@ -79,7 +79,7 @@ Seasonal considerations may also play a role in your visit. Spring and autumn of
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-A visit of at least an hour is recommended to fully appreciate the church’s features and atmosphere.
+A visit of at least an hour is recommended to fully appreciate the church's features and atmosphere.
 
 ### Is photography allowed?
 Photography policies may vary, so it is best to check for any signs or ask staff upon arrival.

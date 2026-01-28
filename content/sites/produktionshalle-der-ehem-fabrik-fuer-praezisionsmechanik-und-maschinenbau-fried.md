@@ -36,7 +36,7 @@ The Produktionshalle der ehem. Fabrik für Präzisionsmechanik und Maschinenbau 
 
 Under the vision of Walter Henn, the factory's design reflects the ethos of its time—functionality was paramount, and the architectural style leaned towards simplicity and efficiency. This approach not only facilitated the production processes within the factory but also allowed for a more fluid interaction between workers and machinery, enhancing productivity.
 
-The factory’s significance extends beyond its operational capabilities. It represents a shift in industrial architecture, where form began to follow function in a way that harmonized the work environment with the needs of its users. The building's expansive upper floor—free from columns—was particularly innovative, allowing for flexibility in the arrangement of machinery and workspace, which is crucial in a factory setting.
+The factory's significance extends beyond its operational capabilities. It represents a shift in industrial architecture, where form began to follow function in a way that harmonized the work environment with the needs of its users. The building's expansive upper floor—free from columns—was particularly innovative, allowing for flexibility in the arrangement of machinery and workspace, which is crucial in a factory setting.
 
 As manufacturing technologies evolved, so did the factory's capabilities. The legacy of the Friedrich Deckel factory continues to resonate within the broader context of industrial design and engineering. Today, it not only serves as a reminder of Munich's rich industrial past but also as a venue for events and exhibitions that focus on innovation and technology.
 
@@ -98,7 +98,7 @@ When planning your visit to the Produktionshalle der ehem. Fabrik für Präzisio
 A visit typically takes about 1-2 hours, allowing time to explore the factory and engage with any exhibitions.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to check for any specific restrictions on certain exhibits.
+Photography is generally permitted, but it's advisable to check for any specific restrictions on certain exhibits.
 
 ### Are there guided tours?
 Guided tours may be available, providing deeper insights into the factory's history and architecture.

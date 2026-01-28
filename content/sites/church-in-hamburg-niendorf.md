@@ -50,7 +50,7 @@ While exploring the church, take note of any unique elements that may distinguis
 
 Reaching the Church in Hamburg-Niendorf is straightforward, thanks to the city's well-developed transport network. Public transportation options, including buses and trains, provide convenient access to the area. For those traveling by car, nearby parking facilities may be available, although specific details should be confirmed through local resources.
 
-When planning your visit, it’s recommended to **check the official website for current information** on visiting hours and any potential entry fees. The church is likely to welcome visitors during specific times, especially on weekends and during religious services. Visitors can expect to spend approximately one to two hours at the church, allowing ample time for exploration, reflection, and photography.
+When planning your visit, it's recommended to **check the official website for current information** on visiting hours and any potential entry fees. The church is likely to welcome visitors during specific times, especially on weekends and during religious services. Visitors can expect to spend approximately one to two hours at the church, allowing ample time for exploration, reflection, and photography.
 
 The best times to visit typically fall during weekdays or early mornings when the crowds are thinner, providing a more intimate experience within the church. It may also be helpful to inquire about any special events or services taking place, which can offer additional insights into the church's community role.
 
@@ -72,13 +72,13 @@ In addition to the Church in Hamburg-Niendorf, visitors can explore a variety of
 
 When visiting the Church in Hamburg-Niendorf, consider bringing a camera to capture the architectural beauty and serene atmosphere of the space. Early morning or late afternoon light can provide excellent conditions for photography, so plan your visit accordingly.
 
-To avoid larger crowds, aim for visits during weekdays or outside of traditional service times. This will allow for a more peaceful experience and give you the chance to appreciate the church’s ambiance without distraction.
+To avoid larger crowds, aim for visits during weekdays or outside of traditional service times. This will allow for a more peaceful experience and give you the chance to appreciate the church's ambiance without distraction.
 
 ## Practical Information
 
 When visiting the Church in Hamburg-Niendorf, it is advisable to bring along a few essentials. Comfortable footwear is recommended, as you may want to explore the surrounding area. Depending on the season, consider dressing in layers to accommodate changes in weather.
 
-As the church may host various events or services, it’s prudent to check the schedule in advance. Bringing a small notebook or journal can also enhance your visit, allowing you to jot down reflections or thoughts inspired by the experience.
+As the church may host various events or services, it's prudent to check the schedule in advance. Bringing a small notebook or journal can also enhance your visit, allowing you to jot down reflections or thoughts inspired by the experience.
 
 ## Frequently Asked Questions
 
@@ -86,7 +86,7 @@ As the church may host various events or services, it’s prudent to check the s
 A visit to the Church in Hamburg-Niendorf typically takes about one to two hours, depending on your interest in exploring the architecture and surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s advisable to be respectful of worshippers and the sacred nature of the space.
+Photography is generally permitted, but it's advisable to be respectful of worshippers and the sacred nature of the space.
 
 ### Are there guided tours?
 Check the official website for information on whether guided tours are available during your visit.

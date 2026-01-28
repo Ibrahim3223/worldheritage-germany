@@ -76,7 +76,7 @@ To avoid crowds, consider visiting during weekdays, as weekends may attract more
 
 ## Practical Information
 
-When visiting the Deutsch Reformierte Kirche, it’s advisable to dress modestly, respecting the sacred nature of the space. Comfortable shoes are recommended, especially if you plan to explore the surrounding area afterward. 
+When visiting the Deutsch Reformierte Kirche, it's advisable to dress modestly, respecting the sacred nature of the space. Comfortable shoes are recommended, especially if you plan to explore the surrounding area afterward. 
 
 Seasonal considerations can also enhance your visit. Spring and summer may offer pleasant weather for walking around the city, while fall can provide a stunning backdrop as the leaves change color. Winter visits may be quieter and provide a unique atmosphere, especially during the holiday season.
 
@@ -88,7 +88,7 @@ A visit to the Deutsch Reformierte Kirche can typically take around one hour, al
 
 ### Is photography allowed?
 
-Photography is generally permitted inside the church, but it’s wise to be respectful of any services or private gatherings that may be occurring.
+Photography is generally permitted inside the church, but it's wise to be respectful of any services or private gatherings that may be occurring.
 
 ### Are there guided tours?
 
@@ -100,7 +100,7 @@ Weekdays tend to be less crowded, making them ideal for a more personal experien
 
 ### Is it wheelchair accessible?
 
-While specific accessibility details are not provided, churches often strive to accommodate all visitors. It’s advisable to check the official website for information regarding accessibility features.
+While specific accessibility details are not provided, churches often strive to accommodate all visitors. It's advisable to check the official website for information regarding accessibility features.
 
 ### Can I buy tickets online?
 

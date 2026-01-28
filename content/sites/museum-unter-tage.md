@@ -36,7 +36,7 @@ While specific historical details about Museum unter Tage are not provided, its 
 
 Bochum itself has a rich industrial heritage, once known for its coal mining and steel industries. This backdrop informs the museum's mission, as it seeks to bridge the gap between the industrial past and contemporary artistic expressions. The museum not only showcases art but also engages with the community through educational programs and exhibitions that often address pressing social issues, making it a vital part of the city's cultural dialogue.
 
-As visitors explore the museum, they can engage with artworks that challenge perceptions and invite reflection on contemporary themes. The museum’s commitment to showcasing a diverse array of artistic voices ensures that it remains a relevant and dynamic institution within the art world.
+As visitors explore the museum, they can engage with artworks that challenge perceptions and invite reflection on contemporary themes. The museum's commitment to showcasing a diverse array of artistic voices ensures that it remains a relevant and dynamic institution within the art world.
 
 ## Architecture and Features
 
@@ -50,7 +50,7 @@ For those planning a visit to Museum unter Tage, it is advisable to check the of
 
 Visitors can expect to spend a few hours exploring the museum, depending on their level of interest in the exhibitions. It is recommended to allocate sufficient time to fully appreciate the artworks and any educational programs that may be available. The best times to visit typically coincide with weekdays to avoid larger crowds, though weekends can also offer unique experiences with special events or workshops.
 
-As you prepare for your visit, consider the layout of the museum and plan your route to ensure you don’t miss any featured exhibitions or installations. 
+As you prepare for your visit, consider the layout of the museum and plan your route to ensure you don't miss any featured exhibitions or installations. 
 
 ## Nearby Attractions
 
@@ -58,9 +58,9 @@ While visiting Museum unter Tage, there are several nearby attractions worth exp
 
 1. **Bochum Planetarium**: A short distance from the museum, the planetarium offers engaging shows about astronomy and space science, perfect for families and science enthusiasts.
 
-2. **German Mining Museum**: This museum provides insight into the region’s mining history, showcasing artifacts and exhibits that highlight the significance of the coal industry in Bochum.
+2. **German Mining Museum**: This museum provides insight into the region's mining history, showcasing artifacts and exhibits that highlight the significance of the coal industry in Bochum.
 
-3. **St. Peter’s Church**: An architectural landmark in Bochum, this church features stunning Gothic design and offers a peaceful space for reflection.
+3. **St. Peter's Church**: An architectural landmark in Bochum, this church features stunning Gothic design and offers a peaceful space for reflection.
 
 4. **Bochum City Park**: A lovely green space ideal for a leisurely stroll, the park features walking paths, a pond, and areas for relaxation amidst nature.
 

@@ -20,7 +20,7 @@ images:
 
 ## Overview
 
-In the heart of Windach, Bavaria, the Gemeindehaus Maria am Wege serves as a significant cultural heritage monument, reflecting the area's commitment to preserving its historical architecture. This city hall, located at the coordinates 48.070339954, 11.033987718, is a focal point for local governance and community activities. As a designated cultural heritage site, it embodies the essence of Bavarian civic life and offers visitors a glimpse into the region's architectural and cultural history. Whether you are a history enthusiast or simply curious about local traditions, a visit to the Gemeindehaus opens the door to understanding Windach’s community spirit and governance.
+In the heart of Windach, Bavaria, the Gemeindehaus Maria am Wege serves as a significant cultural heritage monument, reflecting the area's commitment to preserving its historical architecture. This city hall, located at the coordinates 48.070339954, 11.033987718, is a focal point for local governance and community activities. As a designated cultural heritage site, it embodies the essence of Bavarian civic life and offers visitors a glimpse into the region's architectural and cultural history. Whether you are a history enthusiast or simply curious about local traditions, a visit to the Gemeindehaus opens the door to understanding Windach's community spirit and governance.
 
 Windach, situated within the picturesque landscapes of Bavaria, provides an inviting backdrop for those interested in exploring its historical landmarks. The Gemeindehaus is not just a functional space; it represents the social and cultural fabric of the town. Visitors can appreciate its historical significance while enjoying the charm of this quaint Bavarian locale.
 
@@ -30,7 +30,7 @@ The Gemeindehaus Maria am Wege is emblematic of Windach's development as a commu
 
 In Bavaria, city halls often reflect the societal values and organizational structures of their time. The Gemeindehaus is no exception, illustrating how local governance has adapted to the changing needs of its citizens. It stands as a reminder of the importance of civic institutions in shaping community identity and facilitating local governance.
 
-The building's enduring presence in Windach's landscape highlights its role in the town's social and political life. Although details about its construction and architectural influences may be limited, the Gemeindehaus has become a symbol of Windach’s commitment to preserving its historical integrity while serving the modern needs of its residents.
+The building's enduring presence in Windach's landscape highlights its role in the town's social and political life. Although details about its construction and architectural influences may be limited, the Gemeindehaus has become a symbol of Windach's commitment to preserving its historical integrity while serving the modern needs of its residents.
 
 ## Architecture and Features
 
@@ -92,7 +92,7 @@ Weekdays are often less crowded, making them ideal for a more intimate experienc
 Accessibility information may vary; check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
-Information about ticket purchasing can be found on the official website; it’s best to confirm current procedures before your visit.
+Information about ticket purchasing can be found on the official website; it's best to confirm current procedures before your visit.
 
 ### Are there restrooms and cafes?
 Facilities may be available nearby, but check the official website for specific amenities related to the Gemeindehaus.

@@ -24,7 +24,7 @@ The Georg-August-Universität: Humanembryologische Sammlung in Göttingen, Germa
 
 Tucked away in the historic town of Göttingen, renowned for its academic heritage, this museum is a significant landmark in the study of developmental biology. The collection comprises an extensive array of preserved embryological specimens, providing invaluable insights into the stages of human growth and the intricacies of anatomical development. Whether you are a student of medicine, a researcher, or simply curious about the marvels of human life, this museum promises an enlightening experience. 
 
-As you navigate through its exhibits, you will encounter the intersection of science, ethics, and education—an essential dialogue in today’s world. The Humanembryologische Sammlung stands as a testament to the pioneering research undertaken at Georg-August University, inviting visitors to explore the depths of human biology and the ethical questions surrounding it.
+As you navigate through its exhibits, you will encounter the intersection of science, ethics, and education—an essential dialogue in today's world. The Humanembryologische Sammlung stands as a testament to the pioneering research undertaken at Georg-August University, inviting visitors to explore the depths of human biology and the ethical questions surrounding it.
 
 ## History and Significance
 
@@ -58,7 +58,7 @@ Göttingen is a vibrant town that offers several attractions for visitors to exp
 
 1. **Gänseliesel Fountain**: This iconic fountain is located in the heart of Göttingen and is a symbol of the city. It features a bronze statue of a young girl herding geese and is a popular meeting point.
 
-2. **St. Jacob’s Church (Jakobskirche)**: A stunning example of Gothic architecture, this historic church is known for its intricate stained-glass windows and peaceful atmosphere.
+2. **St. Jacob's Church (Jakobskirche)**: A stunning example of Gothic architecture, this historic church is known for its intricate stained-glass windows and peaceful atmosphere.
 
 3. **Botanical Garden of the University of Göttingen**: A short walk from the museum, this garden showcases a diverse collection of plants, providing a tranquil setting for a leisurely stroll.
 

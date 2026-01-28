@@ -62,7 +62,7 @@ The best times to visit are generally during the milder seasons of spring and ea
    
 2. **Local Nature Trails**: Surrounding areas feature scenic trails for hiking and nature walks, ideal for outdoor enthusiasts looking to explore the countryside.
 
-3. **Historical Museums**: If you're interested in deepening your understanding of the region's history, local museums may offer exhibits related to the area’s past.
+3. **Historical Museums**: If you're interested in deepening your understanding of the region's history, local museums may offer exhibits related to the area's past.
 
 4. **Other Castles**: The region may be home to additional castles that reflect the architectural styles and historical significance similar to Burg Hundsbach.
 
@@ -95,7 +95,7 @@ Guided tours may be available, providing in-depth insights into the history and 
 Spring and early autumn are generally preferred due to milder weather conditions.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s advisable to check with the official website for the latest information.
+Accessibility details are not specified, so it's advisable to check with the official website for the latest information.
 
 ### Can I buy tickets online?
 Ticket purchasing options should be verified on the official website for the most current information.

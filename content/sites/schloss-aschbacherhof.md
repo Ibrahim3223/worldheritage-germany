@@ -34,7 +34,7 @@ Whether you're a history enthusiast, an architecture aficionado, or simply someo
 
 ## History and Significance
 
-While specific dates marking the establishment of Schloss Aschbacherhof are not available, the manor house's cultural importance is evident through its architectural style and the role it has played in the history of Trippstadt. As a representative of German manor houses, it reflects the social stratification and lifestyle of the historical elite. The manor likely served not just as a residence but also as a center for local governance and social gatherings, playing a significant role in the community’s historical narrative.
+While specific dates marking the establishment of Schloss Aschbacherhof are not available, the manor house's cultural importance is evident through its architectural style and the role it has played in the history of Trippstadt. As a representative of German manor houses, it reflects the social stratification and lifestyle of the historical elite. The manor likely served not just as a residence but also as a center for local governance and social gatherings, playing a significant role in the community's historical narrative.
 
 The architectural design of such manor houses usually incorporates elements that signify power and prestige, and Schloss Aschbacherhof is no exception. Its layout and features are representative of a bygone era, revealing much about the lifestyle and values of its inhabitants. The castle has likely witnessed numerous historical events and societal changes, contributing to the rich cultural fabric of the region. 
 

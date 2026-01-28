@@ -28,7 +28,7 @@ image_srcset:
 
 Wildpark Mainz-Gonsenheim offers an engaging experience for visitors of all ages, situated in the vibrant city of Mainz, Germany. This zoo encompasses a diverse array of animal species in a naturalistic setting, promoting wildlife conservation and education. The park serves as a sanctuary for various indigenous species, allowing guests to observe these animals in environments that mimic their habitats. As a prominent attraction in Mainz, Wildpark Mainz-Gonsenheim not only entertains but also educates visitors about the importance of biodiversity and conservation efforts.
 
-This urban wildlife park is easily accessible and provides a serene escape from the city’s hustle and bustle. Its well-maintained pathways and lush green spaces invite leisurely strolls, making it an ideal outing for families, school groups, or anyone looking to connect with nature. With a commitment to animal welfare and environmental education, Wildpark Mainz-Gonsenheim is a noteworthy destination for those interested in wildlife and conservation.
+This urban wildlife park is easily accessible and provides a serene escape from the city's hustle and bustle. Its well-maintained pathways and lush green spaces invite leisurely strolls, making it an ideal outing for families, school groups, or anyone looking to connect with nature. With a commitment to animal welfare and environmental education, Wildpark Mainz-Gonsenheim is a noteworthy destination for those interested in wildlife and conservation.
 
 ## History and Significance
 

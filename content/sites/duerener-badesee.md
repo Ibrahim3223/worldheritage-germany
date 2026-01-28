@@ -40,7 +40,7 @@ Visitors to the lake often engage in traditional leisure activities, enhancing t
 
 ## Architecture and Features
 
-Dürener Badesee is characterized by its picturesque lakefront, bordered by verdant vegetation that enhances its natural beauty. The lake’s surface reflects the changing skies, creating a dynamic visual experience throughout the day. Along the shores, well-maintained pathways invite visitors to stroll and enjoy the sights and sounds of nature.
+Dürener Badesee is characterized by its picturesque lakefront, bordered by verdant vegetation that enhances its natural beauty. The lake's surface reflects the changing skies, creating a dynamic visual experience throughout the day. Along the shores, well-maintained pathways invite visitors to stroll and enjoy the sights and sounds of nature.
 
 While specific architectural features may not be prominent, the surrounding area is developed to facilitate outdoor enjoyment. Facilities include designated swimming areas, picnic spots, and spaces for relaxation. The natural landscaping is complemented by benches and shaded areas where visitors can unwind and take in the serene atmosphere.
 

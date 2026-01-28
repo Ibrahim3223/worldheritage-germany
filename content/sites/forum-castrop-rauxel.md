@@ -48,7 +48,7 @@ In addition to its functional spaces, the complex may include areas for social i
 
 ## Visiting Information
 
-When planning a visit to Forum Castrop-Rauxel, it’s essential to consider transportation options to access this central location conveniently. The venue is well-connected by local public transport, making it accessible for those traveling from nearby cities or within Castrop-Rauxel itself. 
+When planning a visit to Forum Castrop-Rauxel, it's essential to consider transportation options to access this central location conveniently. The venue is well-connected by local public transport, making it accessible for those traveling from nearby cities or within Castrop-Rauxel itself. 
 
 Check the official website for current information regarding hours of operation and ticket prices, as these can vary based on the events scheduled. Visitors can expect to spend a few hours exploring the complex, particularly if attending an event or exhibition. 
 
@@ -74,7 +74,7 @@ To avoid crowds, consider visiting during weekdays or attending events that are 
 
 ## Practical Information
 
-When visiting Forum Castrop-Rauxel, it’s advisable to bring along essentials such as a water bottle and comfortable walking shoes. If you plan to attend an event, check if there are specific dress codes or requirements.
+When visiting Forum Castrop-Rauxel, it's advisable to bring along essentials such as a water bottle and comfortable walking shoes. If you plan to attend an event, check if there are specific dress codes or requirements.
 
 Seasonal considerations may affect your visit. During peak seasons, events may be more frequent, resulting in larger crowds. Conversely, off-peak times might offer quieter experiences but fewer events to attend.
 
@@ -87,13 +87,13 @@ A visit typically takes a few hours, especially if you plan to attend an event o
 Photography policies may vary depending on the event. Always check for any restrictions before taking pictures.
 
 ### Are there guided tours?
-Information about guided tours may not be available, but it’s worth checking the official website for any special offerings.
+Information about guided tours may not be available, but it's worth checking the official website for any special offerings.
 
 ### What's the best time to visit?
 The best time to visit is during events, as the complex comes alive with activity. However, quieter periods can also be enjoyable.
 
 ### Is it wheelchair accessible?
-The venue is designed for accessibility, but it’s advisable to confirm specific details on the official website.
+The venue is designed for accessibility, but it's advisable to confirm specific details on the official website.
 
 ### Can I buy tickets online?
 Check the official website for options regarding online ticket purchases and event schedules.

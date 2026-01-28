@@ -74,7 +74,7 @@ To avoid larger crowds, plan your visit during the weekdays instead of weekends.
 
 ## Practical Information
 
-When planning your visit to Telemax, it’s wise to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding areas. Depending on the season, be prepared for varying weather conditions, from warm summer days to cooler winter temperatures.
+When planning your visit to Telemax, it's wise to bring a few essentials. Comfortable walking shoes are recommended, as you may want to explore the surrounding areas. Depending on the season, be prepared for varying weather conditions, from warm summer days to cooler winter temperatures.
 
 Checking the official website for any seasonal events or changes in visiting hours is also advisable. This ensures that you have the most up-to-date information and can fully enjoy your experience at Telemax and the nearby attractions.
 
@@ -93,7 +93,7 @@ While guided tours may not be specifically mentioned, local tourism offices can 
 Daylight hours are ideal for visiting, especially early mornings or late afternoons for fewer crowds.
 
 ### Is it wheelchair accessible?
-Accessibility details are not specified, so it’s recommended to check the official website for current information regarding facilities.
+Accessibility details are not specified, so it's recommended to check the official website for current information regarding facilities.
 
 ### Can I buy tickets online?
 Ticket purchasing options are not mentioned; please refer to the official website for details.

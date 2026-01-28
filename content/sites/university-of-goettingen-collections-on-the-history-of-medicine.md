@@ -59,13 +59,13 @@ Göttingen is home to several attractions that complement a visit to the Univers
 
 ## Insider Tips
 
-When visiting the University of Göttingen: Collections on the history of medicine, consider bringing a camera to capture the intriguing exhibits, but be sure to check the museum’s photography policy. To avoid crowds, aim to visit during the mid-morning or late afternoon on weekdays, as these times generally see fewer visitors. 
+When visiting the University of Göttingen: Collections on the history of medicine, consider bringing a camera to capture the intriguing exhibits, but be sure to check the museum's photography policy. To avoid crowds, aim to visit during the mid-morning or late afternoon on weekdays, as these times generally see fewer visitors. 
 
 Engage with the staff, as they can provide valuable insights and may offer additional context to the exhibits. If the museum hosts special events or lectures, attending these can enrich your experience and deepen your understanding of the topics presented.
 
 ## Practical Information
 
-Before your visit, it’s advisable to wear comfortable clothing and shoes, as you may be walking and standing for extended periods. Seasonal considerations should also be taken into account; check the weather forecast if you plan to explore the surrounding area after your museum visit.
+Before your visit, it's advisable to wear comfortable clothing and shoes, as you may be walking and standing for extended periods. Seasonal considerations should also be taken into account; check the weather forecast if you plan to explore the surrounding area after your museum visit.
 
 Bringing a notebook or a mobile device for jotting down thoughts or questions can enhance your learning experience. Additionally, while there are no specific details about amenities like restrooms and cafes, it is prudent to check the official website for this information.
 

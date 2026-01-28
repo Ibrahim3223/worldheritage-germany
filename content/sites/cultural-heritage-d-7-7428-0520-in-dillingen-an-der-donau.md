@@ -22,7 +22,7 @@ images:
 
 Cultural heritage D-7-7428-0520 in Dillingen an der Donau stands as a significant historical fortification in the heart of Bavaria, Germany. This site, nestled within the picturesque region of Swabia, embodies the military architecture and defensive strategies of a bygone era. The structure's strategic location has played a pivotal role in the region's history, marking it as a site of not only military importance but also cultural heritage. Visitors to Dillingen will find this fortification a critical piece of the local narrative, offering insights into the past while enriching their understanding of the dynamics that shaped this part of Germany.
 
-As you approach this site, the remnants of its robust architecture hint at stories of resilience and defense against various threats throughout history. The fortification’s enduring presence invites exploration, making it a must-see for those interested in the intersection of culture, history, and architecture. Whether you are an avid historian, a casual tourist, or someone seeking a deeper connection with the cultural fabric of Bavaria, D-7-7428-0520 promises to deliver a fascinating experience.
+As you approach this site, the remnants of its robust architecture hint at stories of resilience and defense against various threats throughout history. The fortification's enduring presence invites exploration, making it a must-see for those interested in the intersection of culture, history, and architecture. Whether you are an avid historian, a casual tourist, or someone seeking a deeper connection with the cultural fabric of Bavaria, D-7-7428-0520 promises to deliver a fascinating experience.
 
 ## History and Significance
 

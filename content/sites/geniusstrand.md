@@ -22,7 +22,7 @@ images:
 
 Geniusstrand, a former beach located in Wilhelmshaven, Germany, offers a unique perspective on coastal life and the interplay between nature and human activity. This site, characterized by its sandy stretches and proximity to the North Sea, is a reflection of the region's maritime heritage, making it a significant cultural and recreational area. Once a vibrant beach destination, Geniusstrand invites visitors to explore its serene landscapes and rich history, serving as a reminder of the area's past as a favored leisure spot.
 
-Situated at the coordinates 53.58123611, 8.13348889, Geniusstrand is enveloped by the charming coastal city of Wilhelmshaven. Renowned for its harbor and naval base, Wilhelmshaven plays a vital role in Germany’s maritime history. Geniusstrand's location within this historically significant city enhances its allure, drawing visitors interested in both natural beauty and cultural exploration. The beach area, while transformed over the years, remains a space where locals and travelers can appreciate the simple joys of the sea, making it a meaningful destination for relaxation and reflection.
+Situated at the coordinates 53.58123611, 8.13348889, Geniusstrand is enveloped by the charming coastal city of Wilhelmshaven. Renowned for its harbor and naval base, Wilhelmshaven plays a vital role in Germany's maritime history. Geniusstrand's location within this historically significant city enhances its allure, drawing visitors interested in both natural beauty and cultural exploration. The beach area, while transformed over the years, remains a space where locals and travelers can appreciate the simple joys of the sea, making it a meaningful destination for relaxation and reflection.
 
 ## History and Significance
 
@@ -54,7 +54,7 @@ Geniusstrand is conveniently located within reach of several notable attractions
 
 1. **Wilhelmshaven Naval Museum**: Delve into the maritime history of the region with exhibits showcasing naval artifacts and the evolution of maritime technology.
    
-2. **JadeWeser Port**: Explore Germany’s only deep-water port, a marvel of engineering that plays a crucial role in the country's shipping industry.
+2. **JadeWeser Port**: Explore Germany's only deep-water port, a marvel of engineering that plays a crucial role in the country's shipping industry.
 
 3. **Marine Museum**: Discover the rich maritime heritage through a collection of historical vessels and informative displays.
 

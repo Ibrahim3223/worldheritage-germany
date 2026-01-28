@@ -50,7 +50,7 @@ Visitors can expect to encounter a harmonious blend of form and function, with e
 
 Notable features may include stained glass windows, intricate woodwork, and religious iconography that enhance the spiritual ambiance of the church. These elements not only contribute to the visual appeal but also serve religious and educational purposes, conveying biblical stories and moral lessons to the congregation.
 
-The church’s exterior may showcase craftsmanship that reflects the cultural influences of its time, with a facade that invites visitors to explore the interior. Overall, Oranier-Gedächtniskirche is a remarkable example of religious architecture that complements the surrounding landscape while embodying the spiritual heritage of its community.
+The church's exterior may showcase craftsmanship that reflects the cultural influences of its time, with a facade that invites visitors to explore the interior. Overall, Oranier-Gedächtniskirche is a remarkable example of religious architecture that complements the surrounding landscape while embodying the spiritual heritage of its community.
 
 ## Visiting Information
 

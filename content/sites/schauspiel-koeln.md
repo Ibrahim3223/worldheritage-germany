@@ -36,9 +36,9 @@ Schauspiel Köln has carved a niche in the cultural landscape of Cologne, establ
 
 Over the years, Schauspiel Köln has evolved to reflect the changing tastes and interests of its audience. The theatre not only presents established classics but also showcases new works and experimental performances, thus contributing to the ongoing dialogue within the arts community. This adaptability has helped the theatre maintain its relevance in a rapidly changing cultural environment.
 
-Culturally, Schauspiel Köln is significant for its dedication to fostering local talent and providing a platform for emerging artists. Its productions often feature collaboration with playwrights, directors, and actors from the region, reinforcing Cologne’s status as a vibrant epicenter of artistic expression. The theatre plays a crucial role in cultural education, offering workshops and outreach programs that engage the community, particularly young audiences.
+Culturally, Schauspiel Köln is significant for its dedication to fostering local talent and providing a platform for emerging artists. Its productions often feature collaboration with playwrights, directors, and actors from the region, reinforcing Cologne's status as a vibrant epicenter of artistic expression. The theatre plays a crucial role in cultural education, offering workshops and outreach programs that engage the community, particularly young audiences.
 
-Furthermore, the institution is closely linked to Cologne’s identity. The theatre’s programming often reflects the city's diverse cultural makeup, addressing contemporary issues and themes that resonate with local audiences. Thus, it serves not only as a venue for entertainment but also as a space for reflection and dialogue about society, culture, and the human experience.
+Furthermore, the institution is closely linked to Cologne's identity. The theatre's programming often reflects the city's diverse cultural makeup, addressing contemporary issues and themes that resonate with local audiences. Thus, it serves not only as a venue for entertainment but also as a space for reflection and dialogue about society, culture, and the human experience.
 
 ## Architecture and Features
 
@@ -46,7 +46,7 @@ The architectural style of Schauspiel Köln is characteristic of modern theatre 
 
 Inside, the theatre offers an inviting atmosphere with comfortable seating arrangements that allow for an intimate connection between the audience and the performance. The design prioritizes acoustics and sightlines, ensuring that every seat in the house provides an exceptional view of the stage, enhancing the overall theatrical experience.
 
-The exterior of Schauspiel Köln may reflect the surrounding urban landscape, integrating elements that resonate with the city's architectural language. Its presence in the cityscape is more than just a physical structure; it is a cultural landmark that draws visitors and residents alike, embodying the spirit of creativity and collaboration that defines Cologne’s arts scene.
+The exterior of Schauspiel Köln may reflect the surrounding urban landscape, integrating elements that resonate with the city's architectural language. Its presence in the cityscape is more than just a physical structure; it is a cultural landmark that draws visitors and residents alike, embodying the spirit of creativity and collaboration that defines Cologne's arts scene.
 
 ## Visiting Information
 

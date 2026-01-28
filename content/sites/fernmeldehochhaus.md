@@ -44,7 +44,7 @@ The building's significance extends beyond its practical use; it has become an i
 
 The architectural ensemble of the Fernmeldehochhaus is characterized by its modernist design, which incorporates elements that speak to both functionality and style. The structure is notable for its clean lines and geometric shapes, which are hallmarks of contemporary architectural practice. This design philosophy emphasizes the building's purpose while ensuring it remains visually striking against the backdrop of Frankfurt's skyline.
 
-One of the standout features of the Fernmeldehochhaus is its height, which allows for expansive views of the surrounding urban landscape. The building’s façade is crafted with materials that reflect light in intriguing ways, adding a dynamic quality to its appearance throughout the day. Large windows provide glimpses into the inner workings of the building, emphasizing transparency and openness—concepts that resonate with the communication theme of the structure.
+One of the standout features of the Fernmeldehochhaus is its height, which allows for expansive views of the surrounding urban landscape. The building's façade is crafted with materials that reflect light in intriguing ways, adding a dynamic quality to its appearance throughout the day. Large windows provide glimpses into the inner workings of the building, emphasizing transparency and openness—concepts that resonate with the communication theme of the structure.
 
 The interior spaces are designed to facilitate communication and collaboration, mirroring the technological advancements that the Fernmeldehochhaus represents. While details about the specific layout may vary, visitors can expect to see spaces that prioritize functionality without sacrificing aesthetic appeal. The overall design reflects a commitment to innovation, making it a prime example of modern architectural principles in action.
 
@@ -64,7 +64,7 @@ Consider visiting on weekdays to avoid larger crowds, as weekends may see more v
    
 3. **Städel Museum**: Renowned for its extensive collection of European masterpieces, this museum offers visitors a chance to explore art from the Middle Ages to contemporary works.
 
-4. **Palmengarten**: A beautiful botanical garden that provides a serene escape from the city’s hustle, featuring diverse plant species and themed garden areas.
+4. **Palmengarten**: A beautiful botanical garden that provides a serene escape from the city's hustle, featuring diverse plant species and themed garden areas.
 
 5. **Main Tower**: This skyscraper offers an observation deck with panoramic views of Frankfurt, making it a perfect complement to a visit to the Fernmeldehochhaus.
 
@@ -97,7 +97,7 @@ Currently, there are no specific guided tours exclusively for the Fernmeldehochh
 The best time to visit is during daylight hours, particularly early morning or late afternoon, to enjoy the natural light and avoid larger crowds.
 
 ### Is it wheelchair accessible?
-Information on accessibility may vary. It’s advisable to check the official website for the latest updates regarding accessibility and facilities.
+Information on accessibility may vary. It's advisable to check the official website for the latest updates regarding accessibility and facilities.
 
 ### Can I buy tickets online?
 Check the official website for information regarding any potential entry fees or ticketing options.

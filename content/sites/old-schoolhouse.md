@@ -66,7 +66,7 @@ While the Old Schoolhouse itself is a compelling destination, the surrounding ar
 
 1. **Local Museums**: Oberderdingen is home to several small museums that delve into regional history and culture, providing context for the historical significance of the Old Schoolhouse.
 
-2. **Historical Town Center**: The picturesque streets of Oberderdingen's town center invite exploration, featuring charming architecture and local shops that reflect the area’s rich heritage.
+2. **Historical Town Center**: The picturesque streets of Oberderdingen's town center invite exploration, featuring charming architecture and local shops that reflect the area's rich heritage.
 
 3. **Parks and Green Spaces**: Nearby parks offer opportunities for leisurely walks or picnics, allowing visitors to enjoy the natural beauty of the region while reflecting on their historical explorations.
 
@@ -120,4 +120,4 @@ While the Old Schoolhouse may not have on-site facilities, nearby establishments
 ### What should I wear?
 Dress comfortably, considering the weather and any planned activities. Comfortable shoes are advisable for exploring the site and surrounding areas. 
 
-In summary, a visit to the Old Schoolhouse in Oberderdingen is not just an exploration of an educational building; it’s an opportunity to engage with the history of learning in Germany and to appreciate the architectural styles that have shaped the community.
+In summary, a visit to the Old Schoolhouse in Oberderdingen is not just an exploration of an educational building; it's an opportunity to engage with the history of learning in Germany and to appreciate the architectural styles that have shaped the community.

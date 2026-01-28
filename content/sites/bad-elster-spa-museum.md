@@ -42,7 +42,7 @@ Exhibits within the museum often delve into the stories of prominent figures who
 
 The Bad Elster Spa Museum features a design that reflects the local architectural style and history. While specific architectural details may not be outlined, the museum's layout typically includes exhibition halls that provide an inviting atmosphere for visitors to explore the exhibits. The careful curation of artifacts and displays ensures that each visitor can appreciate the interconnectedness of the spa tradition and the town's heritage.
 
-Notable features of the museum often include interactive displays, historical photographs, and artifacts that tell the story of Bad Elster’s development as a spa town. Visitors can expect to see objects ranging from vintage spa equipment to personal items from those who once sought healing in its waters. The thoughtful arrangement of these features provides insight into both the past and the ongoing significance of spa culture in the region.
+Notable features of the museum often include interactive displays, historical photographs, and artifacts that tell the story of Bad Elster's development as a spa town. Visitors can expect to see objects ranging from vintage spa equipment to personal items from those who once sought healing in its waters. The thoughtful arrangement of these features provides insight into both the past and the ongoing significance of spa culture in the region.
 
 ## Visiting Information
 

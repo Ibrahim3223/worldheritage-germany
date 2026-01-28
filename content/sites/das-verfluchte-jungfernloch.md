@@ -86,7 +86,7 @@ When preparing for your visit to Das verfluchte Jungfernloch, keep the following
 
 - **Seasonal Considerations**: Check the weather forecast before your visit, as conditions can change. Be prepared for cooler temperatures inside the cave, regardless of the season.
 
-- **Health and Safety**: Ensure you are aware of any safety guidelines or recommendations when exploring the cave. It’s wise to stay with a group and inform someone of your plans.
+- **Health and Safety**: Ensure you are aware of any safety guidelines or recommendations when exploring the cave. It's wise to stay with a group and inform someone of your plans.
 
 ## Frequently Asked Questions
 

@@ -58,7 +58,7 @@ The Lenzkircher Uhrensammlung is situated in a region that offers several other 
 
 1. **Historical Landmarks**: Many towns in Germany feature historical buildings or monuments that showcase local architecture and heritage. These sites often complement the educational experience of visiting a museum.
 
-2. **Cultural Institutions**: Other museums or galleries in the vicinity may focus on different aspects of culture, art, or history, providing a well-rounded exploration of the region’s heritage.
+2. **Cultural Institutions**: Other museums or galleries in the vicinity may focus on different aspects of culture, art, or history, providing a well-rounded exploration of the region's heritage.
 
 3. **Parks and Gardens**: Beautiful green spaces can offer a relaxing contrast to museum visits, where visitors can unwind and reflect on their experiences in a serene environment.
 

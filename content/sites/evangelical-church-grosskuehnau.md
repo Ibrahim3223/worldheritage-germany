@@ -72,7 +72,7 @@ The area surrounding the Evangelical Church Großkühnau is rich with attraction
 
 For photography enthusiasts, the Evangelical Church Großkühnau offers ample opportunities to capture its architectural features. Early morning or late afternoon light can create striking contrasts and enhance the textures of the building. 
 
-To avoid crowds, consider visiting during weekdays or early in the day, especially if you wish to enjoy a peaceful moment inside the church. Engaging with local congregants or participating in services can also enrich your visit and provide deeper insights into the church’s role in the community.
+To avoid crowds, consider visiting during weekdays or early in the day, especially if you wish to enjoy a peaceful moment inside the church. Engaging with local congregants or participating in services can also enrich your visit and provide deeper insights into the church's role in the community.
 
 ## Practical Information
 

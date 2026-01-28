@@ -46,7 +46,7 @@ The best times to visit are during the spring and fall when the weather is mild,
 
 1. **Zwickau City Center**: A short distance from the bridge, the city center features a variety of shops, restaurants, and historical buildings that reflect Zwickau's rich heritage.
 
-2. **August Horch Museum**: This automotive museum, dedicated to the founder of Audi, showcases the city’s industrial past and is a must-visit for car enthusiasts.
+2. **August Horch Museum**: This automotive museum, dedicated to the founder of Audi, showcases the city's industrial past and is a must-visit for car enthusiasts.
 
 3. **St. Mary's Church (Marienkirche)**: An impressive example of Gothic architecture, this church is located nearby and is known for its stunning stained glass windows and historical significance.
 

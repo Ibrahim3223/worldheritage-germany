@@ -78,7 +78,7 @@ To make the most of your visit to Astoria, consider these insider tips:
 
 - **Crowd Avoidance**: For a quieter visit, consider attending performances during weekdays or off-peak times. This can enhance your experience, allowing you to appreciate the theatre's ambiance without large crowds.
 
-- **Engage with Staff**: Theatre staff often have a wealth of knowledge about the history and significance of Astoria. Don’t hesitate to ask questions or seek recommendations for upcoming performances.
+- **Engage with Staff**: Theatre staff often have a wealth of knowledge about the history and significance of Astoria. Don't hesitate to ask questions or seek recommendations for upcoming performances.
 
 ## Practical Information
 
@@ -86,7 +86,7 @@ As you prepare for your visit to Astoria, here are some practical considerations
 
 - **What to Bring**: Comfortable walking shoes are recommended, as exploring the theatre and nearby attractions may involve some walking. Also, consider bringing a water bottle to stay hydrated during your visit.
 
-- **Seasonal Considerations**: Weather can vary, so check the forecast before your visit. If you’re planning to explore the exterior or nearby attractions, dress appropriately for the season.
+- **Seasonal Considerations**: Weather can vary, so check the forecast before your visit. If you're planning to explore the exterior or nearby attractions, dress appropriately for the season.
 
 - **Accessibility**: If you have mobility concerns, check with the theatre regarding wheelchair accessibility and available accommodations.
 
@@ -98,7 +98,7 @@ A visit to Astoria typically requires around two hours, allowing time to explore
 
 ### Is photography allowed?
 
-Photography policies may vary, especially during performances. It’s best to check with the staff upon arrival for specific guidelines.
+Photography policies may vary, especially during performances. It's best to check with the staff upon arrival for specific guidelines.
 
 ### Are there guided tours?
 

@@ -28,7 +28,7 @@ image_srcset:
 
 Modeon, located in Marktoberdorf, Bavaria, is a notable art museum that serves as a multi-purpose hall and event venue. Its significance lies not only in its function as a space for artistic expression but also as a cultural hub within the region. The museum provides a platform for local artists, exhibitions, and various events that foster community engagement and appreciation of the arts. With its strategic location in the picturesque landscape of Bavaria, Modeon stands out as an essential stop for art enthusiasts and anyone interested in the vibrant cultural scene of southern Germany.
 
-As visitors explore Modeon, they will find themselves immersed in a range of artistic experiences that reflect both contemporary and traditional influences. The museum’s commitment to showcasing diverse forms of art makes it a dynamic space that continually evolves, inviting new audiences to engage with the works on display. Whether you are a local resident or a traveler passing through, a visit to Modeon promises to inspire and enrich your understanding of the artistic landscape in this part of Germany.
+As visitors explore Modeon, they will find themselves immersed in a range of artistic experiences that reflect both contemporary and traditional influences. The museum's commitment to showcasing diverse forms of art makes it a dynamic space that continually evolves, inviting new audiences to engage with the works on display. Whether you are a local resident or a traveler passing through, a visit to Modeon promises to inspire and enrich your understanding of the artistic landscape in this part of Germany.
 
 ## History and Significance
 
@@ -60,7 +60,7 @@ While visiting Modeon, there are several nearby attractions that can enrich your
 
 1. **Bavarian Museum of Local History**: This museum offers insights into the local culture and traditions of Bavaria, making it a complementary stop for those interested in regional heritage.
    
-2. **St. Martin’s Church**: An architectural highlight of Marktoberdorf, this church is known for its stunning interiors and rich history.
+2. **St. Martin's Church**: An architectural highlight of Marktoberdorf, this church is known for its stunning interiors and rich history.
 
 3. **Allgäu Skyline Park**: For families and thrill-seekers, this amusement park offers a variety of rides and entertainment options, just a short drive from the museum.
 

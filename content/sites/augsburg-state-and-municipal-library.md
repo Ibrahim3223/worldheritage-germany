@@ -38,7 +38,7 @@ The history of the Augsburg State and Municipal Library is intricately linked to
 
 Culturally, the library serves as a repository of Augsburg's literary heritage and a facilitator of community engagement. It offers various programs and events that encourage reading, writing, and critical thinking among individuals of all ages. By hosting workshops, lectures, and exhibitions, the library actively promotes literacy and education, contributing to the intellectual growth of the community.
 
-As a public resource, the Augsburg State and Municipal Library also plays a vital role in preserving local history and culture. It serves as an archive for documents and publications that reflect the region's past, making it an important site for historians and researchers. The library’s commitment to providing access to a broad range of materials ensures that the stories of Augsburg and its citizens are preserved for future generations.
+As a public resource, the Augsburg State and Municipal Library also plays a vital role in preserving local history and culture. It serves as an archive for documents and publications that reflect the region's past, making it an important site for historians and researchers. The library's commitment to providing access to a broad range of materials ensures that the stories of Augsburg and its citizens are preserved for future generations.
 
 ## Architecture and Features
 
@@ -62,11 +62,11 @@ After your visit to the Augsburg State and Municipal Library, there are several 
 
 1. **Augsburg Cathedral**: A significant historical landmark, this cathedral showcases stunning Gothic architecture and houses beautiful stained glass windows.
    
-2. **Fuggerei**: The world’s oldest social housing complex still in use, this unique site offers insights into the philanthropic efforts of the Fugger family and an opportunity to explore its historical significance.
+2. **Fuggerei**: The world's oldest social housing complex still in use, this unique site offers insights into the philanthropic efforts of the Fugger family and an opportunity to explore its historical significance.
 
 3. **Augsburg Town Hall**: Renowned for its stunning Renaissance architecture, this iconic building is a must-see for those interested in Augsburg's rich history.
 
-4. **Perlach Tower**: Climb to the top of this historic tower for panoramic views of the city and a glimpse into Augsburg’s past.
+4. **Perlach Tower**: Climb to the top of this historic tower for panoramic views of the city and a glimpse into Augsburg's past.
 
 5. **Augsburg Zoo**: A great outing for families, the zoo features a variety of animal species and beautifully landscaped grounds.
 
@@ -74,7 +74,7 @@ After your visit to the Augsburg State and Municipal Library, there are several 
 
 To make the most of your experience at the Augsburg State and Municipal Library, consider the following tips:
 
-- **Photography**: If you’re interested in capturing the architecture or your experience, it’s best to check the library’s policy regarding photography. Some areas may have restrictions.
+- **Photography**: If you're interested in capturing the architecture or your experience, it's best to check the library's policy regarding photography. Some areas may have restrictions.
 
 - **Crowd Avoidance**: Weekdays are generally less crowded than weekends, making them ideal for a peaceful visit. If you can, aim for morning hours right after opening.
 
@@ -84,7 +84,7 @@ To make the most of your experience at the Augsburg State and Municipal Library,
 
 As you prepare for your visit to the Augsburg State and Municipal Library, here are some practical considerations:
 
-- **What to Bring**: It’s advisable to bring a valid form of identification if you plan to borrow books. A notebook and pen can also be handy for jotting down notes or ideas.
+- **What to Bring**: It's advisable to bring a valid form of identification if you plan to borrow books. A notebook and pen can also be handy for jotting down notes or ideas.
 
 - **Seasonal Considerations**: Depending on the time of year, you may want to check the weather forecasts. If visiting during winter, dress warmly as you may need to walk between various attractions.
 
@@ -96,7 +96,7 @@ As you prepare for your visit to the Augsburg State and Municipal Library, here 
 While the duration of your visit can vary based on personal interests, setting aside two to three hours is typically sufficient to explore the library and its resources.
 
 ### Is photography allowed?
-Photography policies can vary by location. It’s best to check with library staff upon arrival regarding any restrictions.
+Photography policies can vary by location. It's best to check with library staff upon arrival regarding any restrictions.
 
 ### Are there guided tours?
 The availability of guided tours may depend on the library's schedule and programming. Check the official website for more information.
@@ -105,7 +105,7 @@ The availability of guided tours may depend on the library's schedule and progra
 Weekdays, especially in the morning, are often less crowded, making for a more serene experience. 
 
 ### Is it wheelchair accessible?
-For specific accessibility information, it is recommended to consult the library’s official resources to ensure all visitors have a comfortable experience.
+For specific accessibility information, it is recommended to consult the library's official resources to ensure all visitors have a comfortable experience.
 
 ### Can I buy tickets online?
 Check the official website for details on any potential admission fees and the availability of online ticket purchasing.

@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Residenzschloss Oettingen in Bayern stands as an impressive museum within the town of Oettingen in Bayern, in the picturesque region of Donau-Ries, Swabia, Germany. This historic site is a remarkable representation of the area's cultural heritage, offering visitors an opportunity to delve into the history and traditions that shaped this part of Bavaria. Set against the backdrop of charming surroundings, the castle not only serves as a museum but also as a reminder of the region’s noble past.
+Residenzschloss Oettingen in Bayern stands as an impressive museum within the town of Oettingen in Bayern, in the picturesque region of Donau-Ries, Swabia, Germany. This historic site is a remarkable representation of the area's cultural heritage, offering visitors an opportunity to delve into the history and traditions that shaped this part of Bavaria. Set against the backdrop of charming surroundings, the castle not only serves as a museum but also as a reminder of the region's noble past.
 
 The Residenzschloss, or Residence Castle, has seen various transformations throughout its existence, reflecting the changing dynamics of power and society in Bavaria. Today, it serves as a focal point for both locals and tourists interested in understanding the historical significance of the area as well as experiencing its architectural beauty. With its blend of history, art, and culture, the castle promises a captivating experience for those who seek to explore the rich narratives contained within its walls.
 
@@ -87,7 +87,7 @@ When preparing for your visit to Residenzschloss Oettingen, here are some practi
 ## Frequently Asked Questions
 
 ### How long should I spend visiting?
-Most visitors find that spending around 2-3 hours allows for a thorough exploration of the exhibits and the castle’s features.
+Most visitors find that spending around 2-3 hours allows for a thorough exploration of the exhibits and the castle's features.
 
 ### Is photography allowed?
 Photography policies may vary within the museum areas. It's best to check for signage or inquire with staff on site.

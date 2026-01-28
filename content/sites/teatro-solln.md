@@ -32,7 +32,7 @@ As a theatre building, Teatro Solln hosts a variety of performances that reflect
 
 ## History and Significance
 
-Teatro Solln is not just another venue in Munich; it represents a cultural cornerstone that has contributed to the city’s vibrant arts landscape. While specific details about its founding and development may not be readily available, the theatre's dual function as a restaurant and performance space underscores its role in the community. It serves as a gathering place for residents and visitors, fostering a sense of connection through shared experiences in food and the arts.
+Teatro Solln is not just another venue in Munich; it represents a cultural cornerstone that has contributed to the city's vibrant arts landscape. While specific details about its founding and development may not be readily available, the theatre's dual function as a restaurant and performance space underscores its role in the community. It serves as a gathering place for residents and visitors, fostering a sense of connection through shared experiences in food and the arts.
 
 The theatre's programming often features local talents, showcasing the creativity and diversity found within Munich. This commitment to local artists not only enriches the cultural fabric of the city but also supports the thriving arts community. By providing a platform for performances that range from theatrical plays to musical acts, Teatro Solln plays an essential role in promoting cultural dialogue and engagement among its patrons.
 
@@ -94,7 +94,7 @@ When preparing for your visit to Teatro Solln, consider the following practical 
 A visit to Teatro Solln typically takes a few hours, including time for dining and enjoying a performance.
 
 ### Is photography allowed?
-Photography policies may vary, especially during performances. It’s best to check with the venue regarding their specific rules.
+Photography policies may vary, especially during performances. It's best to check with the venue regarding their specific rules.
 
 ### Are there guided tours?
 Check the official website for information on any guided tours that may be available.

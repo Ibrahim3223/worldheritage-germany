@@ -68,7 +68,7 @@ To avoid crowds, consider visiting on weekdays or during off-peak seasons. This 
 
 ## Practical Information
 
-When preparing for a visit to Alte Tongrube Borstel, it’s essential to dress appropriately for outdoor exploration. Comfortable, weather-appropriate clothing and sturdy footwear are recommended, especially if you plan to hike the trails.
+When preparing for a visit to Alte Tongrube Borstel, it's essential to dress appropriately for outdoor exploration. Comfortable, weather-appropriate clothing and sturdy footwear are recommended, especially if you plan to hike the trails.
 
 Bringing essentials such as water, snacks, and sunscreen is advisable, as amenities may be limited within the reserve. Seasonal considerations, such as insect repellent during warmer months or layers for cooler days, can enhance your overall experience. 
 
@@ -95,7 +95,7 @@ There is no specific information regarding wheelchair accessibility. It is advis
 Information on ticket purchases is not provided. Please check the official website for any updates on entrance fees and purchasing options.
 
 ### Are there restrooms and cafes?
-Details on facilities such as restrooms and cafes are not available. It’s best to prepare accordingly and bring your own refreshments.
+Details on facilities such as restrooms and cafes are not available. It's best to prepare accordingly and bring your own refreshments.
 
 ### What should I wear?
 Wear comfortable, weather-appropriate clothing and sturdy footwear suitable for outdoor activities and hiking.

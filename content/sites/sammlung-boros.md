@@ -48,9 +48,9 @@ The design of the space is intentionally minimalistic, allowing the art to take 
 
 ## Visiting Information
 
-Visiting Sammlung Boros offers a unique experience, but it's essential to plan ahead. The museum is located in Bezirk Mitte, a central area of Berlin easily accessible by public transport. Various options, including buses and the U-Bahn, connect visitors to the museum. Given its urban location, walking or cycling can also be enjoyable ways to reach the site, allowing visitors to soak in the city’s vibrant atmosphere.
+Visiting Sammlung Boros offers a unique experience, but it's essential to plan ahead. The museum is located in Bezirk Mitte, a central area of Berlin easily accessible by public transport. Various options, including buses and the U-Bahn, connect visitors to the museum. Given its urban location, walking or cycling can also be enjoyable ways to reach the site, allowing visitors to soak in the city's vibrant atmosphere.
 
-Check the official website for current information regarding visiting hours and ticket prices. It’s advisable to secure tickets in advance, as the museum often has limited capacity due to its layout and the intimate nature of the exhibitions. While visiting, expect to spend a few hours exploring the various installations, as the thought-provoking nature of the artwork encourages deeper engagement.
+Check the official website for current information regarding visiting hours and ticket prices. It's advisable to secure tickets in advance, as the museum often has limited capacity due to its layout and the intimate nature of the exhibitions. While visiting, expect to spend a few hours exploring the various installations, as the thought-provoking nature of the artwork encourages deeper engagement.
 
 The best times to visit are during weekdays or early mornings on weekends, as these periods tend to be less crowded. However, the museum occasionally hosts special events or exhibitions that may draw larger crowds, so checking the calendar of events beforehand can help in planning your visit.
 
@@ -76,7 +76,7 @@ To make the most of your visit to Sammlung Boros, consider these insider tips:
 
 - **Crowd Avoidance**: To avoid the crowds, visit during the first few hours after opening on weekdays. This is often when the museum is least busy, allowing for a more personal experience with the art.
 
-- **Engage with Staff**: The museum staff can provide valuable insights into the exhibitions. Don’t hesitate to ask questions or inquire about specific pieces to deepen your understanding.
+- **Engage with Staff**: The museum staff can provide valuable insights into the exhibitions. Don't hesitate to ask questions or inquire about specific pieces to deepen your understanding.
 
 ## Practical Information
 

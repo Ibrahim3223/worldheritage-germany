@@ -50,7 +50,7 @@ Overall, the Gemeindebücherei Lenggries is designed to be a welcoming environme
 
 Reaching the Gemeindebücherei Lenggries is straightforward, thanks to its central location in the town. Public transport options are available, providing easy access for both locals and tourists. If you are driving, parking facilities may be nearby, making it convenient for those who prefer to visit by car.
 
-When planning your visit, it’s important to check the official website for current information on operating hours and any potential admission fees. The library typically welcomes visitors of all ages, making it an excellent destination for families looking to enjoy a day of learning and exploration together.
+When planning your visit, it's important to check the official website for current information on operating hours and any potential admission fees. The library typically welcomes visitors of all ages, making it an excellent destination for families looking to enjoy a day of learning and exploration together.
 
 Expect to spend at least an hour or more at the library, especially if you wish to browse the collections or participate in any ongoing events or activities. The environment is generally quiet, allowing for a peaceful reading experience.
 
@@ -66,13 +66,13 @@ While visiting the Gemeindebücherei Lenggries, consider exploring these nearby 
 
 3. **Brauneck Mountain**: Known for its stunning views, this mountain is a popular destination for hiking and winter sports, providing an excellent opportunity to engage with the natural beauty of Bavaria.
 
-4. **Local Historical Sites**: Explore the historical aspects of Lenggries by visiting nearby churches or monuments that reflect the area’s cultural heritage.
+4. **Local Historical Sites**: Explore the historical aspects of Lenggries by visiting nearby churches or monuments that reflect the area's cultural heritage.
 
 5. **Cafés and Restaurants**: Enjoy local cuisine at various eateries within walking distance, providing a delightful culinary experience to complement your visit.
 
 ## Insider Tips
 
-For photography enthusiasts, the Gemeindebücherei Lenggries presents a variety of aesthetically pleasing corners, from cozy reading nooks to vibrant community spaces. While capturing the essence of the library, it’s advisable to respect the quiet atmosphere and avoid using flash photography.
+For photography enthusiasts, the Gemeindebücherei Lenggries presents a variety of aesthetically pleasing corners, from cozy reading nooks to vibrant community spaces. While capturing the essence of the library, it's advisable to respect the quiet atmosphere and avoid using flash photography.
 
 To avoid crowds, consider visiting during weekdays or early in the morning. This can enhance your experience, allowing you to explore the collections and engage in activities with fewer distractions.
 
@@ -92,7 +92,7 @@ Dress comfortably, keeping in mind that library environments are typically clima
 A visit to the Gemeindebücherei Lenggries can take anywhere from one hour to several hours, depending on your interest in browsing the collections or participating in events.
 
 ### Is photography allowed?
-While photography is generally permissible, it’s advisable to avoid using flash and to be respectful of other visitors’ quiet enjoyment.
+While photography is generally permissible, it's advisable to avoid using flash and to be respectful of other visitors' quiet enjoyment.
 
 ### Are there guided tours?
 Currently, there may not be formal guided tours offered at the library. However, information about events and workshops can be found on the official website.

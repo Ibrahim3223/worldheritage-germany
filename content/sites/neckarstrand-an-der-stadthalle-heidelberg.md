@@ -54,13 +54,13 @@ To fully appreciate the experience at Neckarstrand, consider allocating a few ho
 
 ## Nearby Attractions
 
-1. **Heidelberg Castle**: This iconic landmark overlooks the city and offers stunning views along with a rich history to explore. The castle grounds are a fascinating testament to the city’s past.
+1. **Heidelberg Castle**: This iconic landmark overlooks the city and offers stunning views along with a rich history to explore. The castle grounds are a fascinating testament to the city's past.
 
 2. **Philosophenweg (Philosopher's Walk)**: A scenic walking path that provides breathtaking views of Heidelberg and the Neckar River. It's a favorite among locals and visitors alike for leisurely strolls.
 
 3. **Old Bridge (Alte Brücke)**: A historic stone bridge that connects the Altstadt to the Neuenheim district. Its charming design and historical significance make it a must-see.
 
-4. **Heidelberg University**: One of the oldest universities in Germany, its campus is home to beautiful architecture and gardens, offering a glimpse into the city’s academic heritage.
+4. **Heidelberg University**: One of the oldest universities in Germany, its campus is home to beautiful architecture and gardens, offering a glimpse into the city's academic heritage.
 
 5. **German Pharmacy Museum**: Located within Heidelberg Castle, this museum showcases the history of pharmacy and medicine, providing insights into the development of healthcare practices.
 

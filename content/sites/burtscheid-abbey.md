@@ -99,7 +99,7 @@ Accessibility options may vary; check the official website for the latest inform
 For the most current information regarding ticket purchases, including online options, please refer to the official website.
 
 ### Are there restrooms and cafes?
-Facilities may be available on-site, but it’s best to confirm this on the official website before your visit.
+Facilities may be available on-site, but it's best to confirm this on the official website before your visit.
 
 ### What should I wear?
 Dress comfortably and consider the weather. Modest clothing is recommended in keeping with the spiritual nature of the site.

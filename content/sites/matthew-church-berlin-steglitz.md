@@ -28,7 +28,7 @@ image_srcset:
 
 Matthew Church, located in the Steglitz-Zehlendorf district of Berlin, is a notable church building that reflects the architectural and cultural evolution of the area. This church, while perhaps not as widely recognized as some of Berlin's more famous landmarks, plays an essential role in the local community and serves as a serene space for reflection and worship. Its strategic location within Berlin provides visitors an opportunity to explore both the historic and contemporary facets of this vibrant city.
 
-Steglitz-Zehlendorf is a district characterized by its mix of urban life and green spaces, making Matthew Church a peaceful retreat amidst the hustle and bustle of modern Berlin. The church stands as an embodiment of the community’s spiritual life and offers insights into the architectural trends that have shaped the area. For those seeking a deeper understanding of Berlin's heritage and cultural practices, a visit to Matthew Church is both enlightening and enriching.
+Steglitz-Zehlendorf is a district characterized by its mix of urban life and green spaces, making Matthew Church a peaceful retreat amidst the hustle and bustle of modern Berlin. The church stands as an embodiment of the community's spiritual life and offers insights into the architectural trends that have shaped the area. For those seeking a deeper understanding of Berlin's heritage and cultural practices, a visit to Matthew Church is both enlightening and enriching.
 
 ## History and Significance
 
@@ -74,7 +74,7 @@ Engaging with local community events or services can also enhance your visit, of
 
 ## Practical Information
 
-When preparing for your visit to Matthew Church, it’s advisable to wear comfortable shoes, as you may want to explore the surrounding areas on foot. Depending on the season, dress appropriately for the weather, as Berlin can experience varied climates throughout the year.
+When preparing for your visit to Matthew Church, it's advisable to wear comfortable shoes, as you may want to explore the surrounding areas on foot. Depending on the season, dress appropriately for the weather, as Berlin can experience varied climates throughout the year.
 
 Bringing a small bag with essentials, such as water and a light snack, can be beneficial, especially if you plan to spend time in nearby parks or attractions. Additionally, consider checking the local weather forecast before your visit to ensure a pleasant experience.
 
@@ -99,7 +99,7 @@ Information on accessibility features is not specified, so checking directly wit
 As of now, ticket purchasing options are not specified, so checking the official website will provide the most accurate information.
 
 ### Are there restrooms and cafes?
-Specific amenities like restrooms and cafes are not mentioned, so it’s best to verify with the church or nearby facilities.
+Specific amenities like restrooms and cafes are not mentioned, so it's best to verify with the church or nearby facilities.
 
 ### What should I wear?
 Dress comfortably and consider the weather. Modest attire is generally appreciated in church settings.

@@ -62,7 +62,7 @@ While visiting Colombstein, take advantage of the opportunity to explore other a
 
 3. **Robert Schumann House** - The birthplace of the famous composer, this museum offers insights into Schumann's life and works, contributing to Zwickau's cultural heritage.
 
-4. **St. Mary’s Church** - An impressive structure known for its beautiful interior and historic significance, this church is worth a visit for its architecture and serene atmosphere.
+4. **St. Mary's Church** - An impressive structure known for its beautiful interior and historic significance, this church is worth a visit for its architecture and serene atmosphere.
 
 5. **Zwickau Town Hall** - An architectural landmark in its own right, the Town Hall features beautiful facades and provides a glimpse into the city's civic history.
 

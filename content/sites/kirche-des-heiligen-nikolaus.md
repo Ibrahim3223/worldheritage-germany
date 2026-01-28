@@ -60,7 +60,7 @@ While visiting the Kirche des heiligen Nikolaus, consider exploring the followin
 
 1. **Hamm Market**: A lively market area nearby where you can experience local culture and cuisine.
 2. **Hamburg Stadtpark**: A sprawling urban park that provides a serene escape from the city's hustle and bustle, perfect for a leisurely stroll.
-3. **Museum der Arbeit**: This museum offers insights into Hamburg's historical workforce, showcasing the city’s industrial heritage through engaging exhibits.
+3. **Museum der Arbeit**: This museum offers insights into Hamburg's historical workforce, showcasing the city's industrial heritage through engaging exhibits.
 4. **Barmbek's historic buildings**: Take a walk through the Barmbek district to appreciate its collection of historic architecture and local charm.
 5. **Alster River Promenade**: Just a short distance away, the promenade along the Alster River offers picturesque views and a pleasant setting for a walk.
 
@@ -68,7 +68,7 @@ While visiting the Kirche des heiligen Nikolaus, consider exploring the followin
 
 When visiting Kirche des heiligen Nikolaus, consider bringing a camera to capture the architectural details and serene interior. However, be mindful of any photography restrictions that may be in place during services or special events. To avoid crowds, aim to visit during weekday mornings or early afternoons when the church is less likely to be busy.
 
-Engaging with locals or church volunteers can enrich your experience, providing personal insights into the church's significance within the community. If you’re interested in attending a service, check ahead for any specific requirements or schedules.
+Engaging with locals or church volunteers can enrich your experience, providing personal insights into the church's significance within the community. If you're interested in attending a service, check ahead for any specific requirements or schedules.
 
 ## Practical Information
 

@@ -50,7 +50,7 @@ While specific features of the Dehnberger Hoftheater are not detailed, the venue
 
 Visiting the Dehnberger Hoftheater offers a chance to immerse oneself in the local cultural scene. The theater is accessible by various modes of transport, making it convenient for both locals and visitors from afar. The town of Lauf an der Pegnitz is well-connected, and depending on your starting point, you can explore several routes to reach the theater.
 
-Before planning your visit, it’s advisable to check the official website for current information regarding opening hours and ticket prices. The theater hosts performances throughout the year, providing a diverse program that caters to various tastes. Expect to spend a few hours at the theater, allowing ample time to enjoy the performance and perhaps explore the surrounding area.
+Before planning your visit, it's advisable to check the official website for current information regarding opening hours and ticket prices. The theater hosts performances throughout the year, providing a diverse program that caters to various tastes. Expect to spend a few hours at the theater, allowing ample time to enjoy the performance and perhaps explore the surrounding area.
 
 The best times to visit may vary depending on the performance schedule, but catching a show during the local festival season can add an extra layer of excitement to your experience. Additionally, attending a performance during weekdays might allow for a less crowded experience, providing you with a more intimate atmosphere.
 
@@ -60,11 +60,11 @@ While visiting the Dehnberger Hoftheater, take the opportunity to explore the su
 
 1. **Lauf Castle**: This historic castle, with its impressive architecture and rich history, is a short distance from the theater. Visitors can enjoy a tour of the castle and its beautiful grounds.
 
-2. **St. George’s Church**: A stunning example of Gothic architecture, this church is located nearby and is worth a visit for its intricate design and historical significance.
+2. **St. George's Church**: A stunning example of Gothic architecture, this church is located nearby and is worth a visit for its intricate design and historical significance.
 
 3. **Pegnitz River Walk**: Take a leisurely stroll along the Pegnitz River, where you can enjoy picturesque views and the serene atmosphere of the area.
 
-4. **Local Museums**: Explore the local museums that showcase the history and culture of Lauf an der Pegnitz, providing further insight into the region’s heritage.
+4. **Local Museums**: Explore the local museums that showcase the history and culture of Lauf an der Pegnitz, providing further insight into the region's heritage.
 
 5. **Franconian Switzerland**: A bit further afield, this natural park offers stunning landscapes, hiking trails, and opportunities for outdoor activities, perfect for nature lovers.
 
@@ -72,7 +72,7 @@ While visiting the Dehnberger Hoftheater, take the opportunity to explore the su
 
 When planning your visit to the Dehnberger Hoftheater, consider the following insider tips to enhance your experience:
 
-- **Photography**: While capturing memories is important, it’s advisable to check the theater’s policy regarding photography during performances. Some shows may have restrictions in place.
+- **Photography**: While capturing memories is important, it's advisable to check the theater's policy regarding photography during performances. Some shows may have restrictions in place.
 
 - **Crowd Avoidance**: To experience a more relaxed atmosphere, consider attending weekday performances rather than weekend shows, which tend to attract larger audiences.
 
@@ -80,7 +80,7 @@ When planning your visit to the Dehnberger Hoftheater, consider the following in
 
 ## Practical Information
 
-When visiting the Dehnberger Hoftheater, it’s helpful to keep the following practical considerations in mind:
+When visiting the Dehnberger Hoftheater, it's helpful to keep the following practical considerations in mind:
 
 - **What to Bring**: Bring along your ticket (if purchased in advance), a light jacket or sweater for the theater's interior, and any personal items you may need during your visit.
 
@@ -92,16 +92,16 @@ When visiting the Dehnberger Hoftheater, it’s helpful to keep the following pr
 A visit to the Dehnberger Hoftheater typically takes a few hours, depending on the performance. Allow additional time for exploring the area.
 
 ### Is photography allowed?
-Photography policies may vary during performances. It’s recommended to check with the theater regarding their specific guidelines.
+Photography policies may vary during performances. It's recommended to check with the theater regarding their specific guidelines.
 
 ### Are there guided tours?
-Guided tours may be available, but it’s best to check the official website for specific information regarding tours and schedules.
+Guided tours may be available, but it's best to check the official website for specific information regarding tours and schedules.
 
 ### What's the best time to visit?
 The best time to visit may depend on the performance schedule. Weekday shows can offer a less crowded experience.
 
 ### Is it wheelchair accessible?
-Accessibility information may not be specified, so it’s advisable to contact the theater directly for details regarding wheelchair access.
+Accessibility information may not be specified, so it's advisable to contact the theater directly for details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Ticket purchasing options are likely available online. Check the official website for current ticketing information.

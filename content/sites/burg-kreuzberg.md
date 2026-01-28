@@ -48,7 +48,7 @@ The surrounding landscape complements the architectural elements, providing a se
 
 ## Visiting Information
 
-Reaching Burg Kreuzberg is relatively straightforward, given its location within Rhineland-Palatinate. Visitors can access the site via public transport or by car, with ample parking available nearby. The castle’s proximity to major roads makes it an accessible destination for day-trippers and tourists alike.
+Reaching Burg Kreuzberg is relatively straightforward, given its location within Rhineland-Palatinate. Visitors can access the site via public transport or by car, with ample parking available nearby. The castle's proximity to major roads makes it an accessible destination for day-trippers and tourists alike.
 
 Check the official website for current information regarding opening hours and ticket prices, as these can vary seasonally. Expect to spend a few hours at the castle to fully appreciate its architecture, explore the grounds, and absorb the historical context. The best times to visit are typically during spring and early autumn when the weather is mild, allowing for a comfortable exploration of the castle and its surroundings.
 

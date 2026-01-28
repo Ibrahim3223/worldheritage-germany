@@ -74,7 +74,7 @@ For those planning a visit to Annakapelle Gymnich, here are some insider tips to
 
 - **Photography**: While photography is generally allowed, be considerate of worshippers and the sacred nature of the space. Early morning or late afternoon provides natural light that enhances your photographs without overwhelming the atmosphere.
 
-- **Crowd Avoidance**: To enjoy a quieter experience, try to visit during weekdays or outside of peak tourist seasons. This will allow for more personal reflection and a deeper appreciation of the church’s ambiance.
+- **Crowd Avoidance**: To enjoy a quieter experience, try to visit during weekdays or outside of peak tourist seasons. This will allow for more personal reflection and a deeper appreciation of the church's ambiance.
 
 ## Practical Information
 

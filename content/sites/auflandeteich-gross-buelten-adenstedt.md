@@ -62,7 +62,7 @@ While Auflandeteich Groß Bülten-Adenstedt is a destination in its own right, t
 
 2. **Dollbergen Nature Reserve**: Located nearby, this reserve features similar ecological diversity, making it a great addition to your itinerary for those interested in exploring more natural landscapes.
 
-3. **Peine Historical Museum**: For those interested in local history, this museum showcases the region's cultural heritage, providing insights into the area’s past.
+3. **Peine Historical Museum**: For those interested in local history, this museum showcases the region's cultural heritage, providing insights into the area's past.
 
 4. **Hohenhameln**: A neighboring village known for its picturesque streets and community events, perfect for a leisurely stroll after visiting the nature reserve.
 

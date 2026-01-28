@@ -28,7 +28,7 @@ image_srcset:
 
 The Albert-Schumann-Theater, located in the vibrant city of Frankfurt am Main, Germany, is a cultural landmark that provides a fascinating glimpse into the evolution of entertainment in the region. Once a prominent theatre and cinema, this venue has played a significant role in the local arts scene, reflecting the changes in public taste and technological advancements in film and performance over the decades. Its historical context offers visitors an understanding of how theatres adapted to the shifting dynamics of cultural consumption, making it not just a destination for film enthusiasts but also for those interested in the broader narrative of the arts.
 
-Situated in the heart of Frankfurt, the theater is easily accessible, allowing visitors to immerse themselves in the local culture and heritage. The city’s rich history, combined with its modern vibrancy, enhances the experience of visiting this notable site. Whether you are drawn by the prospect of catching a film or simply wish to explore a piece of Frankfurt's cultural history, the Albert-Schumann-Theater promises an engaging experience.
+Situated in the heart of Frankfurt, the theater is easily accessible, allowing visitors to immerse themselves in the local culture and heritage. The city's rich history, combined with its modern vibrancy, enhances the experience of visiting this notable site. Whether you are drawn by the prospect of catching a film or simply wish to explore a piece of Frankfurt's cultural history, the Albert-Schumann-Theater promises an engaging experience.
 
 ## History and Significance
 
@@ -36,7 +36,7 @@ The Albert-Schumann-Theater has its roots in a historical milieu that reflects t
 
 The theater has served as a community hub, hosting countless performances and screenings that have enriched the local cultural landscape. Its former stature as a theatre and later as a cinema illustrates the dual function that many such venues had in urban environments—serving both as a place for artistic expression and a social gathering point. The Albert-Schumann-Theater's legacy is preserved through its architectural features and its continued relevance in the context of Frankfurt's cultural offerings.
 
-Over the years, the site has witnessed various transformations, adapting to new artistic trends and technological advancements. This adaptability is emblematic of the broader trends within the performing arts and film industries, where venues have had to continuously evolve to meet audience expectations. The theater's historical narrative is intertwined with Frankfurt’s own journey as a cultural center in Germany, making it a significant site for understanding the city's artistic heritage.
+Over the years, the site has witnessed various transformations, adapting to new artistic trends and technological advancements. This adaptability is emblematic of the broader trends within the performing arts and film industries, where venues have had to continuously evolve to meet audience expectations. The theater's historical narrative is intertwined with Frankfurt's own journey as a cultural center in Germany, making it a significant site for understanding the city's artistic heritage.
 
 ## Architecture and Features
 
@@ -60,7 +60,7 @@ For those looking to avoid crowds, consider visiting during off-peak hours or we
 
 2. **Städel Museum**: One of Germany's most important art museums, the Städel is home to an extensive collection of European art, spanning from the Middle Ages to contemporary works.
 
-3. **Römer**: This iconic medieval building serves as the city hall and is a significant symbol of Frankfurt. The Römer’s picturesque facade and surrounding square are perfect for leisurely exploration.
+3. **Römer**: This iconic medieval building serves as the city hall and is a significant symbol of Frankfurt. The Römer's picturesque facade and surrounding square are perfect for leisurely exploration.
 
 4. **Palmengarten**: A beautiful botanical garden located nearby, the Palmengarten showcases diverse plant species and provides a relaxing environment for a stroll.
 

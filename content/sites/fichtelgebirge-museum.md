@@ -93,7 +93,7 @@ Guided tours may be available; check the official website for details and availa
 Visiting during the spring or autumn months is generally recommended for pleasant weather.
 
 ### Is it wheelchair accessible?
-Accessibility options may vary; it’s best to check the official website for specific details.
+Accessibility options may vary; it's best to check the official website for specific details.
 
 ### Can I buy tickets online?
 For ticketing options, including online purchases, check the official website for current information.

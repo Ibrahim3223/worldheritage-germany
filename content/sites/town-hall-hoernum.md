@@ -80,7 +80,7 @@ To make the most of your visit to the Town Hall Hörnum, here are a few insider 
   
 - **Crowd Avoidance**: If you prefer a quieter experience, visiting during mid-week is usually less crowded compared to weekends when tourists and locals alike may flock to the area.
 
-- **Engagement**: Don’t hesitate to engage with local staff or officials if you have questions about the building or the community. They often appreciate the interest and can provide valuable insights.
+- **Engagement**: Don't hesitate to engage with local staff or officials if you have questions about the building or the community. They often appreciate the interest and can provide valuable insights.
 
 ## Practical Information
 
@@ -98,7 +98,7 @@ Before heading to the Town Hall Hörnum, consider the following practical inform
 A visit to the Town Hall generally takes about 30 minutes to an hour, depending on your interest in local governance and architecture.
 
 ### Is photography allowed?
-Photography is typically allowed in public spaces; however, if you plan to take photos inside the building, it’s best to ask staff for permission.
+Photography is typically allowed in public spaces; however, if you plan to take photos inside the building, it's best to ask staff for permission.
 
 ### Are there guided tours?
 Guided tours may not be available at all times, so check the official website for any scheduled tours or special events that may offer guided experiences.

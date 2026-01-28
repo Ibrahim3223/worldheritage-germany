@@ -57,10 +57,10 @@ The best times to visit are typically during the spring and summer months when t
 In addition to Rostock Zoo, the surrounding area is rich with attractions that complement a visit to the zoo:
 
 1. **Rostock City Harbor** - A vibrant area that offers picturesque views, dining options, and opportunities for boat tours.
-2. **St. Mary’s Church (Marienkirche)** - An impressive Gothic church known for its stunning architecture and historical significance.
+2. **St. Mary's Church (Marienkirche)** - An impressive Gothic church known for its stunning architecture and historical significance.
 3. **Warnemünde Beach** - A beautiful seaside destination perfect for relaxation and enjoying the sun.
 4. **Rostock Botanical Garden** - A serene place to explore diverse plant life and enjoy peaceful walks among nature.
-5. **Historical Museum of Rostock** - A museum showcasing the city’s history and culture, offering insights into local heritage.
+5. **Historical Museum of Rostock** - A museum showcasing the city's history and culture, offering insights into local heritage.
 
 These attractions provide a well-rounded experience for visitors exploring Rostock, making it easy to combine a trip to the zoo with other cultural and recreational activities.
 
@@ -70,7 +70,7 @@ To enhance your visit to Rostock Zoo, consider the following insider tips:
 
 - **Photography Tips**: Early morning or late afternoon are ideal times for photography, as the lighting is softer, and animals are often more active.
 - **Crowd Avoidance**: Weekdays, particularly during the school year, tend to be less crowded than weekends and holidays, making for a more relaxed experience.
-- **Plan Your Route**: Familiarize yourself with the zoo map upon arrival to prioritize the exhibits that interest you most and to ensure you don’t miss any highlights.
+- **Plan Your Route**: Familiarize yourself with the zoo map upon arrival to prioritize the exhibits that interest you most and to ensure you don't miss any highlights.
 
 ## Practical Information
 

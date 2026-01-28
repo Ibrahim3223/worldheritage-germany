@@ -44,13 +44,13 @@ The legacy of the Ulm School of Design is evident in its alumni, many of whom ha
 
 The architecture of the Ulm School of Design reflects its modernist principles, characterized by functional forms that promote creativity and collaboration. While specific architectural details are not extensively documented, the building's design embodies the ethos of the school—an emphasis on open spaces and natural light that fosters an environment conducive to learning and innovation.
 
-The physical layout of the school encourages interaction among students and faculty, with studios and classrooms designed to facilitate group work and discussions. This architectural philosophy aligns with the school’s mission to integrate various disciplines within design, allowing students to engage in hands-on projects that require teamwork and diverse perspectives.
+The physical layout of the school encourages interaction among students and faculty, with studios and classrooms designed to facilitate group work and discussions. This architectural philosophy aligns with the school's mission to integrate various disciplines within design, allowing students to engage in hands-on projects that require teamwork and diverse perspectives.
 
 The design of the campus itself is a testament to the principles taught within its walls. The use of modern materials and construction techniques showcases an understanding of contemporary design challenges, while the overall aesthetic is both functional and visually appealing. Visitors can expect to find a space that inspires creativity, making it an ideal environment for budding designers.
 
 ## Visiting Information
 
-When planning a visit to the Ulm School of Design, it’s essential to consider transportation options. The campus is accessible via public transport, which makes it convenient for travelers. Visitors should check the official website for current information on hours and any potential fees, as these can vary.
+When planning a visit to the Ulm School of Design, it's essential to consider transportation options. The campus is accessible via public transport, which makes it convenient for travelers. Visitors should check the official website for current information on hours and any potential fees, as these can vary.
 
 Typically, a visit to the Ulm School of Design can take anywhere from a few hours to a full day, depending on the depth of exploration desired. While on campus, expect to encounter a vibrant atmosphere filled with students actively engaged in various design projects. The best times to visit are during the academic year when the campus is bustling with activity, providing a glimpse into the dynamic learning environment.
 
@@ -64,7 +64,7 @@ While the Ulm School of Design is a destination in itself, the surrounding area 
 
 2. **Danube River**: The scenic banks of the Danube provide a perfect spot for leisurely walks or picnics. This picturesque setting is ideal for soaking in the local culture.
 
-3. **Fishermen’s Quarter**: This historic area features charming half-timbered houses and narrow canals, offering a glimpse into Ulm's past. It’s an excellent place for exploring quaint shops and cafes.
+3. **Fishermen's Quarter**: This historic area features charming half-timbered houses and narrow canals, offering a glimpse into Ulm's past. It's an excellent place for exploring quaint shops and cafes.
 
 4. **Museum of Bread Culture**: A unique museum dedicated to the history and significance of bread, showcasing its importance in various cultures. This attraction offers an engaging experience for visitors of all ages.
 
@@ -101,7 +101,7 @@ Check the official website for information about guided tours, as these may be a
 The best time to visit is during the academic year, when the campus is bustling with activity. Weekdays are often less crowded than weekends.
 
 ### Is it wheelchair accessible?
-The accessibility of the campus can vary, so it’s advisable to check the official website for specific details regarding wheelchair access.
+The accessibility of the campus can vary, so it's advisable to check the official website for specific details regarding wheelchair access.
 
 ### Can I buy tickets online?
 Visit the official website for information on ticket purchases, as options may change.

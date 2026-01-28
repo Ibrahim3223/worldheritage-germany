@@ -42,7 +42,7 @@ The church is not only a place for worship but also serves as a cultural hub for
 
 Warnemünde Church presents an intriguing architectural style that reflects both its historical significance and functional design. The church is characterized by its traditional elements, incorporating features typical of ecclesiastical architecture in the region. Visitors may notice the harmonious proportions and the thoughtful layout that not only serve aesthetic purposes but also enhance the spiritual experience for worshipers.
 
-One of the notable aspects of the church is its façade, which showcases craftsmanship and attention to detail. The design elements, although not described in specific terms, convey a sense of permanence and stability, reinforcing the church’s role as a community gathering place. Inside, the church likely features a serene atmosphere conducive to reflection and prayer, with light filtering through stained glass windows that may depict biblical scenes or local themes.
+One of the notable aspects of the church is its façade, which showcases craftsmanship and attention to detail. The design elements, although not described in specific terms, convey a sense of permanence and stability, reinforcing the church's role as a community gathering place. Inside, the church likely features a serene atmosphere conducive to reflection and prayer, with light filtering through stained glass windows that may depict biblical scenes or local themes.
 
 Visitors can expect to find various religious artifacts and artworks that hold significance to the local community. These elements serve to enrich the experience, providing deeper insights into the religious practices and beliefs held by the congregation over the years. 
 
@@ -64,7 +64,7 @@ While visiting Warnemünde Church, there are several nearby attractions worth ex
 
 3. **The Lighthouse of Warnemünde** - This iconic structure offers panoramic views of the surrounding area and is an essential part of Warnemünde's maritime heritage.
 
-4. **Historical Fishing Village** - A short walk will take you to the historical fishing village, where you can explore the traditional architecture and learn about the town’s fishing history.
+4. **Historical Fishing Village** - A short walk will take you to the historical fishing village, where you can explore the traditional architecture and learn about the town's fishing history.
 
 5. **Warnemünde Promenade** - A vibrant promenade filled with shops, eateries, and entertainment options, perfect for enjoying the local culture and cuisine.
 
@@ -76,7 +76,7 @@ If you plan on attending a service, check the schedule in advance for a more imm
 
 ## Practical Information
 
-When visiting Warnemünde Church, it’s advisable to dress modestly, keeping in mind the sacred nature of the site. Comfortable shoes are recommended, as exploring the surrounding area often involves walking.
+When visiting Warnemünde Church, it's advisable to dress modestly, keeping in mind the sacred nature of the site. Comfortable shoes are recommended, as exploring the surrounding area often involves walking.
 
 Seasonal considerations play a role in your visit. Summer months may see larger crowds, while spring and fall can offer a more tranquil experience. Be prepared for varying weather conditions and consider bringing an umbrella or light jacket, especially during the cooler months.
 
@@ -101,7 +101,7 @@ Accessibility details can vary; check the official website for specific informat
 Visit the official website for information on ticket purchasing and availability.
 
 ### Are there restrooms and cafes?
-Facilities may be available nearby; it’s recommended to check the area surrounding the church for amenities.
+Facilities may be available nearby; it's recommended to check the area surrounding the church for amenities.
 
 ### What should I wear?
 Dress modestly and comfortably, keeping in mind the sacred nature of the site.

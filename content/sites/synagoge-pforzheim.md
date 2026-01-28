@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-The Synagoge Pforzheim serves as a poignant reminder of the Jewish heritage that once flourished in the city of Pforzheim, located within the Karlsruhe Government Region of Baden-Württemberg, Germany. Though the original synagogue building has been demolished, its historical significance remains a crucial element of the local narrative and Jewish culture in Germany. Pforzheim, often recognized for its connection to jewelry and watchmaking, also housed a vibrant Jewish community that contributed significantly to the city’s development until the tragic events of the Holocaust. Today, the site stands as a memorial and a place of reflection, inviting visitors to contemplate the rich cultural history that once thrived in this region.
+The Synagoge Pforzheim serves as a poignant reminder of the Jewish heritage that once flourished in the city of Pforzheim, located within the Karlsruhe Government Region of Baden-Württemberg, Germany. Though the original synagogue building has been demolished, its historical significance remains a crucial element of the local narrative and Jewish culture in Germany. Pforzheim, often recognized for its connection to jewelry and watchmaking, also housed a vibrant Jewish community that contributed significantly to the city's development until the tragic events of the Holocaust. Today, the site stands as a memorial and a place of reflection, inviting visitors to contemplate the rich cultural history that once thrived in this region.
 
 While much of what once was has been lost, the importance of preserving memory and understanding the past is paramount. Synagoge Pforzheim, despite its absence, continues to evoke reflections on tolerance, diversity, and the resilience of communities. Visitors to the site can gain insight into the Jewish experience in Germany, fostering a deeper appreciation for the complexities of cultural heritage and the ongoing impact of history on modern society.
 
@@ -95,7 +95,7 @@ Currently, there are no formal guided tours available at the site, but visitors 
 Early mornings or late afternoons during weekdays are ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-The site is outdoors and generally accessible, but it’s advisable to assess individual mobility needs based on the surrounding terrain.
+The site is outdoors and generally accessible, but it's advisable to assess individual mobility needs based on the surrounding terrain.
 
 ### Can I buy tickets online?
 No tickets are required for access to the site.

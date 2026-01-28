@@ -28,7 +28,7 @@ Visiting Castrum Burginatium promises not only an educational experience but als
 
 ## History and Significance
 
-Castrum Burginatium stands as a significant archaeological site that reflects the military prowess of the Roman Empire during its expansion into Germania Inferior. While specific dates of its establishment are not available, the fortification is believed to have been part of a broader network of military installations designed to secure the empire’s northern borders against various tribes. The presence of such castra indicates the strategic importance of the area, serving as a base for troops that were essential in maintaining Roman control and influence.
+Castrum Burginatium stands as a significant archaeological site that reflects the military prowess of the Roman Empire during its expansion into Germania Inferior. While specific dates of its establishment are not available, the fortification is believed to have been part of a broader network of military installations designed to secure the empire's northern borders against various tribes. The presence of such castra indicates the strategic importance of the area, serving as a base for troops that were essential in maintaining Roman control and influence.
 
 The cultural importance of Castrum Burginatium is underscored by its role in the interactions between Roman soldiers and the indigenous populations. These encounters often led to exchanges of goods, ideas, and cultural practices, which significantly shaped the development of the region. The site offers valuable insights into the military practices of the Romans, as well as their administrative and social structures, which were critical in the establishment of Roman authority in unfamiliar territories.
 
@@ -44,7 +44,7 @@ The fort's walls would have served as both a defensive measure and a delineation
 
 Additionally, the site may contain remnants of administrative buildings that were crucial for the management of both military and civilian affairs. These structures would have housed officers and provided the necessary facilities for daily operations. The archaeological findings contribute to a comprehensive understanding of how Roman military life was conducted and the architectural innovations that supported it.
 
-Visitors to Castrum Burginatium can expect to see the foundational remnants of these structures, which invite contemplation of the lives of those who once inhabited this space. The fortification’s design reflects the efficiency and strategic foresight of Roman military planners, underscoring the importance of architecture in sustaining their expansive empire.
+Visitors to Castrum Burginatium can expect to see the foundational remnants of these structures, which invite contemplation of the lives of those who once inhabited this space. The fortification's design reflects the efficiency and strategic foresight of Roman military planners, underscoring the importance of architecture in sustaining their expansive empire.
 
 ## Visiting Information
 

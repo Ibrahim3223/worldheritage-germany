@@ -76,7 +76,7 @@ Each of these attractions contributes to a comprehensive understanding of the re
 
 To make the most of your visit to Bergkirche Schierke, consider the following tips:
 
-- **Photography**: While photography may be allowed, it’s important to respect the sacredness of the space and the privacy of others during worship. Capturing the exterior may provide great shots, especially in soft morning light.
+- **Photography**: While photography may be allowed, it's important to respect the sacredness of the space and the privacy of others during worship. Capturing the exterior may provide great shots, especially in soft morning light.
 
 - **Crowd Avoidance**: If you wish to enjoy a quieter experience, plan your visit during weekdays or early mornings when fewer visitors are likely to be present.
 

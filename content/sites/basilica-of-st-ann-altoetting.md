@@ -42,7 +42,7 @@ As you explore the basilica's hallowed grounds, you can feel the weight of histo
 
 The architectural design of the Basilica of St. Ann is a blend of stylistic elements that reflect both historical and contemporary influences. The structure showcases intricate details, from its soaring ceilings to the beautifully adorned altars. As a church building, it embodies the characteristics of sacred architecture, designed to elevate the spirit and inspire contemplation.
 
-Among the notable features of the basilica are its impressive stained-glass windows, which depict scenes from the life of St. Ann and the Virgin Mary. These windows not only enhance the aesthetic appeal of the interior but also serve to educate visitors about the stories and traditions that are central to the basilica’s heritage. The light filtering through these windows creates a peaceful ambiance that invites reflection and prayer.
+Among the notable features of the basilica are its impressive stained-glass windows, which depict scenes from the life of St. Ann and the Virgin Mary. These windows not only enhance the aesthetic appeal of the interior but also serve to educate visitors about the stories and traditions that are central to the basilica's heritage. The light filtering through these windows creates a peaceful ambiance that invites reflection and prayer.
 
 The basilica's layout is designed to accommodate both worshippers and tourists, ensuring that everyone can experience its beauty and significance. The overall design encourages a sense of community, offering spaces for quiet contemplation as well as areas for congregation during services and events.
 
@@ -60,9 +60,9 @@ In addition to the Basilica of St. Ann, Altötting offers a variety of attractio
 
 1. **Kapellplatz**: This central square is a bustling hub of activity and features the striking Chapel of Grace, another significant pilgrimage site in Altötting.
    
-2. **St. Ann’s Church**: Located in proximity to the basilica, this historic church adds to the spiritual landscape of the area and is worth a visit for its architectural charm.
+2. **St. Ann's Church**: Located in proximity to the basilica, this historic church adds to the spiritual landscape of the area and is worth a visit for its architectural charm.
    
-3. **Altottinger Heimatmuseum**: The local museum offers insights into the region’s history and culture, providing context to the basilica’s significance within the community.
+3. **Altottinger Heimatmuseum**: The local museum offers insights into the region's history and culture, providing context to the basilica's significance within the community.
    
 4. **The Pilgrimage Trail**: For those interested in exploring the spiritual landscape further, a walk along the designated pilgrimage trail offers a scenic and reflective experience.
 
@@ -72,7 +72,7 @@ In addition to the Basilica of St. Ann, Altötting offers a variety of attractio
 
 To make the most of your visit to the Basilica of St. Ann, consider these insider tips:
 
-- **Photography**: While photography is generally allowed, be mindful of the sacred atmosphere, particularly during services. Capture the beauty of the architecture and stained glass while being respectful of others’ experiences.
+- **Photography**: While photography is generally allowed, be mindful of the sacred atmosphere, particularly during services. Capture the beauty of the architecture and stained glass while being respectful of others' experiences.
 
 - **Crowd Avoidance**: To avoid larger crowds, plan your visit for early mornings or weekdays. Special religious events tend to draw larger groups, so check the calendar for any scheduled services.
 

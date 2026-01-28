@@ -52,7 +52,7 @@ When planning a visit to St.-Bartholomaei-Kirche, it is advisable to check the o
 
 Expect to spend approximately one to two hours exploring the church and its surroundings, allowing enough time to appreciate both the architectural details and the peaceful atmosphere. The best times to visit are typically during weekdays when crowds are smaller, providing a more intimate experience within the sacred space. 
 
-As you plan your visit, consider the time of year, as seasonal changes can affect the atmosphere and accessibility. Whether you’re visiting during the warmer months or the chill of winter, St.-Bartholomaei-Kirche offers a unique experience that changes with the seasons.
+As you plan your visit, consider the time of year, as seasonal changes can affect the atmosphere and accessibility. Whether you're visiting during the warmer months or the chill of winter, St.-Bartholomaei-Kirche offers a unique experience that changes with the seasons.
 
 ## Nearby Attractions
 
@@ -76,7 +76,7 @@ To enhance your visit to St.-Bartholomaei-Kirche, consider these insider tips:
 
 - **Crowd Avoidance**: If you prefer a quieter experience, aim to visit during off-peak hours, such as early mornings or late afternoons on weekdays.
 
-- **Local Events**: Check the church’s calendar for any special events, concerts, or services that might be taking place during your visit for a more enriching experience.
+- **Local Events**: Check the church's calendar for any special events, concerts, or services that might be taking place during your visit for a more enriching experience.
 
 ## Practical Information
 

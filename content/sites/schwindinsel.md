@@ -44,13 +44,13 @@ Schwindinsel, being an island, is characterized primarily by its natural landsca
 
 Visitors will find various elements that contribute to the island's charm, including well-maintained gardens and areas designed for relaxation. These spaces encourage visitors to unwind, read a book, or simply enjoy the serene environment. The presence of trees and other vegetation enhances the island's appeal, providing shade and a refreshing ambiance.
 
-While Schwindinsel may not feature prominent buildings or structures, its simplicity and natural beauty invite exploration and appreciation. The island acts as a canvas for nature’s artistry, making it a perfect spot for quiet reflection and leisurely activities.
+While Schwindinsel may not feature prominent buildings or structures, its simplicity and natural beauty invite exploration and appreciation. The island acts as a canvas for nature's artistry, making it a perfect spot for quiet reflection and leisurely activities.
 
 ## Visiting Information
 
 Traveling to Schwindinsel is convenient due to its central location in Munich. Public transport options, including buses and trams, can easily transport visitors to nearby access points. Visitors are encouraged to check the official website for current information regarding hours and any potential entrance fees.
 
-Upon arrival, guests can expect a peaceful atmosphere, perfect for walks or picnics. The island’s layout allows for easy navigation, making it suitable for individuals of all ages. A visit typically requires a few hours, depending on whether you wish to engage in activities such as walking, reading, or simply enjoying the scenery.
+Upon arrival, guests can expect a peaceful atmosphere, perfect for walks or picnics. The island's layout allows for easy navigation, making it suitable for individuals of all ages. A visit typically requires a few hours, depending on whether you wish to engage in activities such as walking, reading, or simply enjoying the scenery.
 
 For those planning their visit, the best times to explore Schwindinsel are during the warmer months, when the weather is pleasant and the island is vibrant with greenery. Early mornings or late afternoons may provide a quieter experience, allowing for a more introspective visit.
 

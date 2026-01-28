@@ -34,7 +34,7 @@ Wiesbaden, known for its thermal springs and historic charm, provides an ideal s
 
 Friedrich Schiller, born in 1759, was one of the most important figures in German literature, known for his plays, poetry, and essays that explored themes of freedom, justice, and humanity. His works have had a lasting impact on German culture and beyond, influencing countless writers, philosophers, and artists. The Schiller Memorial in Wiesbaden was erected to honor his contributions and to inspire future generations to appreciate the power of literature.
 
-While specific details regarding the exact year of the memorial's establishment may not be available, its significance is undeniable. The memorial serves as a cultural landmark, embodying the spirit of the Enlightenment and the Romantic era in which Schiller wrote. Its location in Wiesbaden reflects the city’s historical commitment to the arts, making it a fitting tribute to a figure who championed the ideals of artistic expression and intellectual freedom.
+While specific details regarding the exact year of the memorial's establishment may not be available, its significance is undeniable. The memorial serves as a cultural landmark, embodying the spirit of the Enlightenment and the Romantic era in which Schiller wrote. Its location in Wiesbaden reflects the city's historical commitment to the arts, making it a fitting tribute to a figure who championed the ideals of artistic expression and intellectual freedom.
 
 The statue stands as a symbol of the enduring relevance of Schiller's themes, which resonate with contemporary audiences. His exploration of the human condition and the quest for individual rights continues to inspire social movements and artistic endeavors today. The memorial invites visitors to reflect on these themes, providing a space for contemplation and appreciation of literature's role in shaping society.
 
@@ -64,7 +64,7 @@ While visiting the Schiller Memorial, consider exploring the following nearby at
 
 3. **St. Elizabeth's Church**: An architectural marvel known for its striking neo-Gothic style and beautiful stained glass windows, offering insight into the religious heritage of the city.
 
-4. **Wiesbaden Casino**: One of the oldest casinos in Europe, it is a lively venue that captures the glamour of the city’s social scene.
+4. **Wiesbaden Casino**: One of the oldest casinos in Europe, it is a lively venue that captures the glamour of the city's social scene.
 
 5. **Museum Wiesbaden**: This museum showcases a range of art and natural history exhibits, making it an ideal stop for those interested in culture and education.
 

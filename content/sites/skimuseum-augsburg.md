@@ -42,7 +42,7 @@ Visitors to the museum can expect to gain insights into the historical milestone
 
 The architectural design of Skimuseum Augsburg reflects its purpose as a museum dedicated to skiing. While specific dimensions and structural details may not be available, the design of the museum likely incorporates elements that resonate with the themes of movement and winter sports. The layout is crafted to facilitate an engaging visitor experience, allowing for easy navigation through various exhibits.
 
-Inside, the museum features interactive displays that encourage visitor participation and learning. Exhibits may include vintage skiing equipment, photographs capturing pivotal moments in skiing history, and multimedia presentations that bring the story of skiing to life. The thoughtful arrangement of artifacts enables visitors to appreciate the sport’s evolution in a comprehensive manner.
+Inside, the museum features interactive displays that encourage visitor participation and learning. Exhibits may include vintage skiing equipment, photographs capturing pivotal moments in skiing history, and multimedia presentations that bring the story of skiing to life. The thoughtful arrangement of artifacts enables visitors to appreciate the sport's evolution in a comprehensive manner.
 
 Visitors can also expect to find areas dedicated to the social aspects of skiing, showcasing how the sport has brought people together across generations. This focus on community adds an enriching layer to the overall experience at the museum.
 
@@ -64,7 +64,7 @@ Visitors to Skimuseum Augsburg have the opportunity to explore several nearby at
 
 3. **Augsburg Town Hall**: Renowned for its magnificent Renaissance architecture, the town hall is a central landmark in Augsburg, showcasing opulent interiors and historical significance.
 
-4. **Perlachturm**: This medieval tower provides panoramic views of Augsburg and is a great spot for those interested in the city’s history and architecture.
+4. **Perlachturm**: This medieval tower provides panoramic views of Augsburg and is a great spot for those interested in the city's history and architecture.
 
 5. **Botmingen Castle**: Surrounded by serene landscapes, this castle offers visitors a peaceful retreat and the chance to explore its historical grounds.
 

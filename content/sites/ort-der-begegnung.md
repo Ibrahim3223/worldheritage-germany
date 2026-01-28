@@ -42,7 +42,7 @@ The design of Ort der Begegnung is characterized by its minimalist yet powerful 
 
 One notable feature of the memorial is its use of materials that resonate with the surrounding environment, blending seamlessly into the landscape. The integration of natural elements is intentional, as it enhances the connection between the memorial and its visitors. The structure is designed to facilitate an immersive experience, where the physical presence of the sculpture prompts deeper engagement with its themes.
 
-Visitors can appreciate the thoughtful placement of the memorial within Regensburg, as it is situated in a location that allows for serene reflection amidst the bustle of city life. The simplicity of the design contrasts with the complexity of the emotions it seeks to evoke, making Ort der Begegnung a significant architectural feature in the city’s cultural tapestry.
+Visitors can appreciate the thoughtful placement of the memorial within Regensburg, as it is situated in a location that allows for serene reflection amidst the bustle of city life. The simplicity of the design contrasts with the complexity of the emotions it seeks to evoke, making Ort der Begegnung a significant architectural feature in the city's cultural tapestry.
 
 ## Visiting Information
 

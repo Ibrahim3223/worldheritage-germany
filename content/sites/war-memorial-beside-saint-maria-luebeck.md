@@ -28,7 +28,7 @@ image_srcset:
 
 In the heart of Lübeck's Old City, a poignant monument stands as a reminder of the sacrifices made during times of conflict. The War Memorial beside Saint Maria serves not only as a tribute to those who served but also as a focal point for reflection amidst the historical backdrop of this UNESCO World Heritage site. Lübeck, known for its medieval architecture and rich maritime history, offers visitors a unique blend of cultural heritage and poignant remembrance. 
 
-This monument, located near the revered Saint Maria Church, invites visitors to pause and contemplate the impact of war on society. As you stroll through Lübeck's cobblestoned streets, the memorial provides an opportunity to connect with the city’s history, both celebrated and somber. The memorial’s strategic position near significant landmarks enhances its importance, making it a thought-provoking stop for those exploring the city.
+This monument, located near the revered Saint Maria Church, invites visitors to pause and contemplate the impact of war on society. As you stroll through Lübeck's cobblestoned streets, the memorial provides an opportunity to connect with the city's history, both celebrated and somber. The memorial's strategic position near significant landmarks enhances its importance, making it a thought-provoking stop for those exploring the city.
 
 ## History and Significance
 
@@ -93,13 +93,13 @@ A visit typically takes about 30 minutes to an hour, allowing sufficient time fo
 Yes, photography is usually permitted at the memorial, making it a great opportunity to capture your visit.
 
 ### Are there guided tours?
-Check local resources for information on guided tours that may include the memorial as part of a broader exploration of Lübeck’s historical sites.
+Check local resources for information on guided tours that may include the memorial as part of a broader exploration of Lübeck's historical sites.
 
 ### What's the best time to visit?
 Early mornings or late afternoons on weekdays are ideal for a quieter experience.
 
 ### Is it wheelchair accessible?
-Accessibility details can vary, so it’s advisable to check the official website for current information regarding wheelchair access.
+Accessibility details can vary, so it's advisable to check the official website for current information regarding wheelchair access.
 
 ### Can I buy tickets online?
 Since the memorial is open to the public, tickets are generally not required. For specific events or exhibitions, check the official website for any necessary arrangements.

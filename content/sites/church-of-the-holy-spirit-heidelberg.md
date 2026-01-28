@@ -28,7 +28,7 @@ image_srcset:
 
 The Church of the Holy Spirit in Heidelberg is a notable example of ecclesiastical architecture in Germany, captivating visitors with its historical significance and serene ambiance. Located in the heart of Heidelberg, this church is more than just a place of worship; it serves as a cultural landmark, reflecting the city's rich history and architectural evolution. The church's strategic position near the Old Town offers a picturesque setting, enhancing its allure for tourists and locals alike. 
 
-As you approach the Church of the Holy Spirit, you are greeted by its striking façade, which hints at the stories etched within its walls. The church is an essential stop for those looking to understand the intricate tapestry of Heidelberg’s history, making it a must-visit for anyone exploring this charming city. With its beautiful interior and historical significance, the Church of the Holy Spirit promises an enriching experience for all who enter its doors.
+As you approach the Church of the Holy Spirit, you are greeted by its striking façade, which hints at the stories etched within its walls. The church is an essential stop for those looking to understand the intricate tapestry of Heidelberg's history, making it a must-visit for anyone exploring this charming city. With its beautiful interior and historical significance, the Church of the Holy Spirit promises an enriching experience for all who enter its doors.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ Today, the church remains a vibrant part of Heidelberg's identity, attracting vi
 
 ## Architecture and Features
 
-The architectural style of the Church of the Holy Spirit is a blend of Gothic and Renaissance elements, making it a fascinating subject for architecture enthusiasts. The building’s exterior is characterized by intricate details and a striking façade, which draw the eye and invite exploration. 
+The architectural style of the Church of the Holy Spirit is a blend of Gothic and Renaissance elements, making it a fascinating subject for architecture enthusiasts. The building's exterior is characterized by intricate details and a striking façade, which draw the eye and invite exploration. 
 
 Upon entering the church, visitors are welcomed by an interior that reflects both simplicity and grandeur. The nave features high ceilings adorned with beautiful artwork that captures the essence of the church's spiritual purpose. Light filters through stained glass windows, casting colorful patterns on the stone floors, enhancing the contemplative atmosphere within.
 
@@ -58,7 +58,7 @@ Check the official website for current information regarding opening hours and a
 
 The best times to visit are typically during weekdays when crowds are thinner, allowing for a more intimate experience. However, weekends may also provide a lively atmosphere, especially if services or events are taking place.
 
-Inside the church, visitors can expect a respectful environment. It’s advisable to maintain a quiet demeanor to enhance the spiritual experience for yourself and others. 
+Inside the church, visitors can expect a respectful environment. It's advisable to maintain a quiet demeanor to enhance the spiritual experience for yourself and others. 
 
 ## Nearby Attractions
 
@@ -76,9 +76,9 @@ Heidelberg is rich in culture and history, offering several attractions within w
 
 ## Insider Tips
 
-For photography enthusiasts, the Church of the Holy Spirit provides numerous opportunities for capturing stunning images. Early morning or late afternoon light can create enchanting effects on the church’s exterior. Inside, be mindful of the lighting conditions, as natural light can illuminate the stained glass beautifully.
+For photography enthusiasts, the Church of the Holy Spirit provides numerous opportunities for capturing stunning images. Early morning or late afternoon light can create enchanting effects on the church's exterior. Inside, be mindful of the lighting conditions, as natural light can illuminate the stained glass beautifully.
 
-To avoid crowds, consider visiting during mid-week mornings. This time typically sees fewer tourists, allowing for a more personal experience. If you’re interested in attending a service or event, check the church’s schedule in advance to ensure you can participate.
+To avoid crowds, consider visiting during mid-week mornings. This time typically sees fewer tourists, allowing for a more personal experience. If you're interested in attending a service or event, check the church's schedule in advance to ensure you can participate.
 
 ## Practical Information
 
@@ -97,7 +97,7 @@ Most visitors find that around an hour is sufficient to explore the church and a
 Photography is generally permitted inside the church, but it is advisable to be respectful of other visitors and the sacred nature of the space.
 
 ### Are there guided tours?
-While specific details about guided tours are not mentioned, check the official website for any available options or resources to enhance your understanding of the church’s history.
+While specific details about guided tours are not mentioned, check the official website for any available options or resources to enhance your understanding of the church's history.
 
 ### What's the best time to visit?
 Visiting during weekdays, especially in the morning, is typically less crowded, allowing for a more tranquil experience.

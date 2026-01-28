@@ -34,19 +34,19 @@ Visitors can expect to engage with a variety of exhibits, artifacts, and multime
 
 ## History and Significance
 
-The Lutherhaus Wittenberg is deeply intertwined with the life of Martin Luther, who lived in close proximity to this site during his time in Wittenberg. This museum was originally his residence and later transformed into a center for Protestant scholarship and activity. Luther’s presence in this house and the surrounding area played a significant role in the Reformation, a movement that not only altered the course of Christianity but also influenced art, politics, and education in Europe.
+The Lutherhaus Wittenberg is deeply intertwined with the life of Martin Luther, who lived in close proximity to this site during his time in Wittenberg. This museum was originally his residence and later transformed into a center for Protestant scholarship and activity. Luther's presence in this house and the surrounding area played a significant role in the Reformation, a movement that not only altered the course of Christianity but also influenced art, politics, and education in Europe.
 
 The significance of Luther's work cannot be understated. His translation of the Bible into German democratized access to scripture, allowing individuals to interpret religious texts independently of ecclesiastical authority. This act laid the groundwork for modern biblical scholarship and shaped the contours of contemporary Christian theology. The Lutherhaus serves as a repository of this transformative period, housing various documents, personal items, and artworks related to Luther and his contemporaries.
 
-Throughout the years, the museum has evolved to encompass broader themes surrounding the Reformation, including its social, political, and cultural ramifications. It stands as an educational institution, dedicated to fostering dialogue about the Reformation's continuing relevance in today's world. Visitors can gain insights into not only Luther’s life but also the wider implications of his work, exploring how the Reformation has influenced concepts of individualism, governance, and religious freedom.
+Throughout the years, the museum has evolved to encompass broader themes surrounding the Reformation, including its social, political, and cultural ramifications. It stands as an educational institution, dedicated to fostering dialogue about the Reformation's continuing relevance in today's world. Visitors can gain insights into not only Luther's life but also the wider implications of his work, exploring how the Reformation has influenced concepts of individualism, governance, and religious freedom.
 
-Moreover, the museum holds a collection of significant artifacts, including early printed works, letters, and personal items that provide a tangible connection to Luther’s life and the Reformation's impact on society. The Lutherhaus is recognized as a UNESCO World Heritage Site, emphasizing its importance as a cultural landmark that continues to draw scholars, theologians, and tourists alike.
+Moreover, the museum holds a collection of significant artifacts, including early printed works, letters, and personal items that provide a tangible connection to Luther's life and the Reformation's impact on society. The Lutherhaus is recognized as a UNESCO World Heritage Site, emphasizing its importance as a cultural landmark that continues to draw scholars, theologians, and tourists alike.
 
 ## Architecture and Features
 
 The architecture of the Lutherhaus Wittenberg reflects a blend of historical styles that have evolved over the centuries. Originally constructed as a residence for Martin Luther, the building showcases elements typical of the late Gothic period, with its robust and functional design. The structure has been preserved and adapted to serve its current role as a museum while retaining many of its original features.
 
-Visitors to the museum will notice the timber-framed construction, a hallmark of the region's architectural heritage. The interior spaces are thoughtfully arranged to guide guests through a chronological narrative of Luther's life and the Reformation, with well-preserved rooms that once served as living quarters and study spaces for Luther and his family. The museum includes exhibition halls that present various artifacts, documents, and multimedia displays, offering a comprehensive exploration of Luther’s contributions and the ensuing cultural shifts.
+Visitors to the museum will notice the timber-framed construction, a hallmark of the region's architectural heritage. The interior spaces are thoughtfully arranged to guide guests through a chronological narrative of Luther's life and the Reformation, with well-preserved rooms that once served as living quarters and study spaces for Luther and his family. The museum includes exhibition halls that present various artifacts, documents, and multimedia displays, offering a comprehensive exploration of Luther's contributions and the ensuing cultural shifts.
 
 Notable features of the museum include the original furnishings and personal belongings of Luther, which provide an intimate glimpse into his daily life. Additionally, the museum often hosts temporary exhibitions, lectures, and educational programs that further enrich the visitor experience, making it a dynamic space for learning and reflection. The integration of modern technologies in certain exhibits enhances interactivity, engaging visitors of all ages in the historical narrative.
 
@@ -68,7 +68,7 @@ While exploring the Lutherhaus Wittenberg, visitors can take advantage of the ci
 
 1. **Castle Church (Schlosskirche)**: This iconic church is where Martin Luther famously affixed his Ninety-Five Theses to the door, sparking the Reformation. The church features stunning architecture and is an essential stop for understanding the Reformation's history.
 
-2. **St. Mary’s Church (Marienkirche)**: Another significant landmark, this Gothic church houses impressive stained glass windows and offers insights into the religious practices of Luther’s time.
+2. **St. Mary's Church (Marienkirche)**: Another significant landmark, this Gothic church houses impressive stained glass windows and offers insights into the religious practices of Luther's time.
 
 3. **Wittenberg's Old Market Square (Marktplatz)**: The heart of the city, this vibrant square is surrounded by historic buildings and offers a lively atmosphere, perfect for a leisurely stroll or a bite to eat.
 
@@ -88,7 +88,7 @@ To make the most of your visit to the Lutherhaus Wittenberg, consider these insi
 
 - **Guided Tours**: Consider joining a guided tour if available. Knowledgeable guides can provide deeper insights into the historical context and significance of the exhibits, enriching your understanding.
 
-- **Engage with Staff**: The museum staff are often well-versed in the subject matter. Don’t hesitate to ask questions or seek recommendations on what to see or learn more about during your visit.
+- **Engage with Staff**: The museum staff are often well-versed in the subject matter. Don't hesitate to ask questions or seek recommendations on what to see or learn more about during your visit.
 
 ## Practical Information
 

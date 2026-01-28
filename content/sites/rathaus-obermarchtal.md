@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Rathaus Obermarchtal, the city hall of the municipality of Obermarchtal in Germany's Alb-Donau-Kreis, serves as both a functional administrative center and a notable local landmark. Situated at coordinates 48.233836111, 9.571547222, this building embodies the essence of local governance while also reflecting the architectural and cultural characteristics of the region. Visitors to Obermarchtal will find this city hall not only serves as a hub for local affairs but also as a connection point to the town’s broader historical and cultural narrative. Its significance goes beyond mere functionality, representing the community's identity and heritage. As you explore this charming locale, Rathaus Obermarchtal offers an inviting glimpse into the administrative heart of the community and the stories that unfold within its walls.
+Rathaus Obermarchtal, the city hall of the municipality of Obermarchtal in Germany's Alb-Donau-Kreis, serves as both a functional administrative center and a notable local landmark. Situated at coordinates 48.233836111, 9.571547222, this building embodies the essence of local governance while also reflecting the architectural and cultural characteristics of the region. Visitors to Obermarchtal will find this city hall not only serves as a hub for local affairs but also as a connection point to the town's broader historical and cultural narrative. Its significance goes beyond mere functionality, representing the community's identity and heritage. As you explore this charming locale, Rathaus Obermarchtal offers an inviting glimpse into the administrative heart of the community and the stories that unfold within its walls.
 
 ## History and Significance
 
@@ -42,7 +42,7 @@ Rathaus Obermarchtal presents a blend of functional design typical of municipal 
 
 Notable features of city halls like Rathaus Obermarchtal typically include an assembly hall, offices for local officials, and spaces for public meetings. These elements are designed to facilitate interaction between the government and the community. The building's exterior may also showcase local craftsmanship and possibly decorative elements that reflect the cultural identity of Obermarchtal.
 
-As a focal point in the town's layout, Rathaus Obermarchtal likely contributes to the aesthetic and functional organization of the surrounding area, often being situated near other essential civic buildings or public spaces. The design of such a building not only accommodates the practical needs of municipal administration but also serves as a visual representation of the community’s values and history.
+As a focal point in the town's layout, Rathaus Obermarchtal likely contributes to the aesthetic and functional organization of the surrounding area, often being situated near other essential civic buildings or public spaces. The design of such a building not only accommodates the practical needs of municipal administration but also serves as a visual representation of the community's values and history.
 
 ## Visiting Information
 

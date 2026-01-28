@@ -70,7 +70,7 @@ Exploring these nearby sites can enrich your understanding of Dortmund's cultura
 
 For those looking to capture the essence of Bonifatius-Kirche through photography, consider visiting during off-peak hours to avoid crowds. Early mornings or late afternoons may offer the best light for striking images.
 
-Be respectful of the worshippers and the sacred nature of the space; it’s advisable to avoid flash photography during services. Additionally, observing local customs and maintaining a respectful demeanor can enhance your experience and that of others.
+Be respectful of the worshippers and the sacred nature of the space; it's advisable to avoid flash photography during services. Additionally, observing local customs and maintaining a respectful demeanor can enhance your experience and that of others.
 
 ## Practical Information
 
@@ -84,7 +84,7 @@ Seasonal considerations may also impact your visit. In the warmer months, the ch
 A visit to Bonifatius-Kirche typically takes around 30 minutes to an hour, depending on your interest in the architecture and surrounding area.
 
 ### Is photography allowed?
-Photography is generally permitted, but it’s best to be respectful, especially during services or events.
+Photography is generally permitted, but it's best to be respectful, especially during services or events.
 
 ### Are there guided tours?
 Check the official website for information regarding guided tours, as availability may vary.

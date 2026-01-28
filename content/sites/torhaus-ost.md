@@ -28,21 +28,21 @@ image_srcset:
 
 Torhaus Ost, a historic gatehouse located in the quaint region of Dülmen, Germany, stands as a significant architectural remnant in the pastoral landscape of the Bauerschaft Weddern. This structure, known as the Eastern Gatehouse of the Karthaus Domain, offers a glimpse into the architectural history and rural heritage of the area. With its unique design and historical relevance, Torhaus Ost invites visitors to explore not only its physical presence but also the stories it holds within its walls.
 
-Dülmen, situated in North Rhine-Westphalia, is characterized by its rich cultural heritage and lush natural surroundings. The gatehouse plays a vital role in reflecting the historical landscape of the region. As you wander through the area, you’ll discover that it’s not just the gatehouse itself that captivates, but also the serene environment and the echoes of the past that resonate through the site. Whether you are a history enthusiast or simply seeking a peaceful retreat, Torhaus Ost promises an enriching experience.
+Dülmen, situated in North Rhine-Westphalia, is characterized by its rich cultural heritage and lush natural surroundings. The gatehouse plays a vital role in reflecting the historical landscape of the region. As you wander through the area, you'll discover that it's not just the gatehouse itself that captivates, but also the serene environment and the echoes of the past that resonate through the site. Whether you are a history enthusiast or simply seeking a peaceful retreat, Torhaus Ost promises an enriching experience.
 
 ## History and Significance
 
 The historical importance of Torhaus Ost lies in its function as a gatehouse for the Karthaus Domain, which has roots in the feudal system of the region. While specific dates and detailed historical accounts may not be readily available, the structure represents an era when gatehouses served as both functional and symbolic entries into estates, often signifying power and prestige.
 
-As a gatehouse, Torhaus Ost would have played a crucial role in the daily operations of the estate, controlling access and serving as a point of security. The design and architectural features reflect the period’s craftsmanship and the socio-political context of the time. Such structures often housed personnel who managed the estate and welcomed visitors, making them significant in the social fabric of the community.
+As a gatehouse, Torhaus Ost would have played a crucial role in the daily operations of the estate, controlling access and serving as a point of security. The design and architectural features reflect the period's craftsmanship and the socio-political context of the time. Such structures often housed personnel who managed the estate and welcomed visitors, making them significant in the social fabric of the community.
 
-Moreover, Torhaus Ost exemplifies the typical architectural style associated with rural German estates, showcasing local building materials and design elements. The gatehouse is not just an architectural feature; it represents the evolution of land management and rural life in Dülmen. Today, it serves as a reminder of the region’s history, making it a noteworthy stop for those interested in understanding the layers of Dülmen’s past.
+Moreover, Torhaus Ost exemplifies the typical architectural style associated with rural German estates, showcasing local building materials and design elements. The gatehouse is not just an architectural feature; it represents the evolution of land management and rural life in Dülmen. Today, it serves as a reminder of the region's history, making it a noteworthy stop for those interested in understanding the layers of Dülmen's past.
 
 ## Architecture and Features
 
 The architecture of Torhaus Ost is characterized by its robust structure, typical of gatehouses from earlier periods. The building's design reflects the practical needs of its time, with features that underscore its role as an entry point to the Karthaus Domain. While specific dimensions and stylistic elements are not documented, one can infer that the gatehouse was constructed with durability in mind, utilizing local materials that harmonize with the surrounding landscape.
 
-Notable features of Torhaus Ost may include thick stone walls, a well-defined entrance archway, and possibly remnants of original decorative elements that speak to the craftsmanship of the era. The structure’s design is functional, yet it may also hold aesthetic qualities common to the architectural styles of the historical period it represents.
+Notable features of Torhaus Ost may include thick stone walls, a well-defined entrance archway, and possibly remnants of original decorative elements that speak to the craftsmanship of the era. The structure's design is functional, yet it may also hold aesthetic qualities common to the architectural styles of the historical period it represents.
 
 Visitors to the site can appreciate the simplicity and strength of the construction while imagining the daily activities that once took place here. The gatehouse stands not only as a physical barrier but as a representation of the historical significance of the estate it guarded. 
 
@@ -64,7 +64,7 @@ The best times to visit are during the spring and autumn months when the weather
 
 4. **Karthaus Monastery**: Just a short drive away, this former monastery adds to the historical narrative of the area, offering insights into the region's religious heritage.
 
-5. **The Dülmener Moor**: A natural reserve nearby that showcases the region’s flora and fauna, perfect for walking and enjoying nature.
+5. **The Dülmener Moor**: A natural reserve nearby that showcases the region's flora and fauna, perfect for walking and enjoying nature.
 
 ## Insider Tips
 

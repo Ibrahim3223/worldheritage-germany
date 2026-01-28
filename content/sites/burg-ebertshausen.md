@@ -54,7 +54,7 @@ Check the official website for current information regarding opening hours and e
 
 The best times to visit are during the spring and fall months when the weather is mild and the surrounding landscapes are particularly inviting. Engaging with the site during these seasons can enhance the overall experience, allowing for a comfortable exploration of the ruins.
 
-As visitors approach Burg Ebertshausen, they can expect to find a serene atmosphere, with opportunities for reflection and appreciation of the site's historical context. The castle's ruins invite exploration, and visitors are encouraged to walk among the remnants to fully appreciate the architecture and its significance in the region’s history.
+As visitors approach Burg Ebertshausen, they can expect to find a serene atmosphere, with opportunities for reflection and appreciation of the site's historical context. The castle's ruins invite exploration, and visitors are encouraged to walk among the remnants to fully appreciate the architecture and its significance in the region's history.
 
 ## Nearby Attractions
 
@@ -72,7 +72,7 @@ Gmund am Tegernsee and its surroundings offer several attractions that complemen
 
 ## Insider Tips
 
-When visiting Burg Ebertshausen, consider bringing a camera to capture the site’s unique architecture and the surrounding scenery. Early morning or late afternoon light can create enchanting conditions for photography, accentuating the textures of the ruins.
+When visiting Burg Ebertshausen, consider bringing a camera to capture the site's unique architecture and the surrounding scenery. Early morning or late afternoon light can create enchanting conditions for photography, accentuating the textures of the ruins.
 
 To avoid potential crowds, plan your visit during weekdays or off-peak hours. This strategy allows for a more peaceful experience as you explore the site at your own pace.
 

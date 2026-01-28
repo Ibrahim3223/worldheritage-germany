@@ -30,13 +30,13 @@ The Goethe-Institut Dresden stands as a prominent cultural institution in German
 
 ## History and Significance
 
-The Goethe-Institut was founded with the aim of promoting the German language and fostering international cultural ties. While specific historical dates for the Dresden location may not be readily available, the institute's global mission remains consistent since its inception. The Goethe-Institut is named after Johann Wolfgang von Goethe, one of Germany’s most influential literary figures. Goethe's works and ideals encapsulate the essence of German culture, making the institute a fitting tribute to his legacy.
+The Goethe-Institut was founded with the aim of promoting the German language and fostering international cultural ties. While specific historical dates for the Dresden location may not be readily available, the institute's global mission remains consistent since its inception. The Goethe-Institut is named after Johann Wolfgang von Goethe, one of Germany's most influential literary figures. Goethe's works and ideals encapsulate the essence of German culture, making the institute a fitting tribute to his legacy.
 
 The cultural significance of the Goethe-Institut in Dresden extends beyond language instruction. It serves as a hub for cultural events, workshops, and exhibitions that highlight contemporary German art, literature, and philosophy. The institute collaborates with local artists and institutions, creating a vibrant cultural dialogue that enriches both the local community and international visitors. This commitment to cultural exchange positions the Goethe-Institut Dresden as a crucial player in the promotion of German culture on a global scale.
 
 ## Architecture and Features
 
-The physical structure of the Goethe-Institut Dresden reflects the institution’s dedication to modernity while respecting its cultural heritage. The architecture is characterized by clean lines and functional design, creating an inviting atmosphere for learning and cultural exchange. Inside, the institute features well-equipped classrooms, multimedia resources, and spaces for artistic exhibitions, all aimed at enhancing the visitor experience.
+The physical structure of the Goethe-Institut Dresden reflects the institution's dedication to modernity while respecting its cultural heritage. The architecture is characterized by clean lines and functional design, creating an inviting atmosphere for learning and cultural exchange. Inside, the institute features well-equipped classrooms, multimedia resources, and spaces for artistic exhibitions, all aimed at enhancing the visitor experience.
 
 Notable features of the Goethe-Institut include its library, which offers a comprehensive collection of German literature and language resources. This space is designed to encourage exploration and study, catering to both language learners and cultural enthusiasts. The institute also frequently hosts art exhibitions that showcase the talents of both established and emerging artists, further enriching its role as a cultural venue.
 
@@ -54,11 +54,11 @@ While in Dresden, there are several attractions worth exploring in close proximi
 
 1. **Zwinger Palace**: A stunning example of baroque architecture, the Zwinger Palace houses several museums and art galleries, including the Old Masters Gallery, showcasing masterpieces by renowned artists.
 
-2. **Dresden Frauenkirche**: This iconic Protestant church is a symbol of the city’s resilience, meticulously restored after its destruction in World War II. Its impressive dome and rich history make it a must-visit.
+2. **Dresden Frauenkirche**: This iconic Protestant church is a symbol of the city's resilience, meticulously restored after its destruction in World War II. Its impressive dome and rich history make it a must-visit.
 
 3. **Semper Opera House**: Known for its exquisite architecture and world-class performances, the Semper Opera House offers guided tours that delve into its artistic history and significance.
 
-4. **Brühl’s Terrace**: Often referred to as the "Balcony of Europe," this beautiful promenade along the Elbe River offers picturesque views and is lined with gardens, making it a perfect spot for a leisurely stroll.
+4. **Brühl's Terrace**: Often referred to as the "Balcony of Europe," this beautiful promenade along the Elbe River offers picturesque views and is lined with gardens, making it a perfect spot for a leisurely stroll.
 
 5. **Dresden Castle**: This historic castle complex is home to several museums, including the Green Vault, which exhibits an extraordinary collection of treasures.
 
@@ -84,7 +84,7 @@ When planning your visit to the Goethe-Institut, it's important to consider a fe
 You should plan to spend about two hours at the Goethe-Institut to fully appreciate the exhibitions and cultural offerings.
 
 ### Is photography allowed?
-Photography policies can vary, so it’s best to check for specific guidelines upon arrival or ask staff members.
+Photography policies can vary, so it's best to check for specific guidelines upon arrival or ask staff members.
 
 ### Are there guided tours?
 The Goethe-Institut may offer guided tours or workshops; check the official website for more details on availability.
@@ -93,7 +93,7 @@ The Goethe-Institut may offer guided tours or workshops; check the official webs
 Visiting during cultural events or exhibitions can enhance your experience, so check the schedule for upcoming activities.
 
 ### Is it wheelchair accessible?
-Facilities are typically designed to be accessible, but it’s advisable to confirm specific accessibility options on the official website.
+Facilities are typically designed to be accessible, but it's advisable to confirm specific accessibility options on the official website.
 
 ### Can I buy tickets online?
 Check the official website for information regarding ticket purchases and availability.

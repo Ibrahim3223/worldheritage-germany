@@ -26,11 +26,11 @@ image_srcset:
 
 ## Overview
 
-ÖVB Arena, located in the vibrant district of Findorff in Bremen, Germany, serves as a dynamic multi-purpose hall that caters to a wide array of events, from concerts to sports matches. This versatile venue has established itself as a central hub for entertainment and community gatherings, drawing both locals and visitors alike to its varied programming. Easily accessible and equipped with modern amenities, ÖVB Arena stands out as a significant landmark in Bremen’s cultural landscape.
+ÖVB Arena, located in the vibrant district of Findorff in Bremen, Germany, serves as a dynamic multi-purpose hall that caters to a wide array of events, from concerts to sports matches. This versatile venue has established itself as a central hub for entertainment and community gatherings, drawing both locals and visitors alike to its varied programming. Easily accessible and equipped with modern amenities, ÖVB Arena stands out as a significant landmark in Bremen's cultural landscape.
 
 The arena's strategic location within the city makes it a focal point for both regional and international events. As a modern facility, it not only meets the demands of contemporary entertainment but also enhances the cultural fabric of Bremen. Whether you are attending a high-energy concert, an exciting sporting event, or a corporate function, ÖVB Arena promises an engaging experience.
 
-With its capacity to host large audiences and a diverse range of activities, the ÖVB Arena invites exploration and participation, making it an essential stop for those looking to immerse themselves in Bremen’s lively atmosphere.
+With its capacity to host large audiences and a diverse range of activities, the ÖVB Arena invites exploration and participation, making it an essential stop for those looking to immerse themselves in Bremen's lively atmosphere.
 
 ## History and Significance
 

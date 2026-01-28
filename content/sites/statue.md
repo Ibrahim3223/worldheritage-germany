@@ -34,7 +34,7 @@ Kronach is known for its picturesque streets and historical architecture, making
 
 The Statue is emblematic of the historical context in which it was created, reflecting the artistic styles and cultural values of its time. While specific dates of its origin are not available, the monument holds significance as a cultural heritage site designated as D-4-76-145-60 (0), which highlights its importance in the context of Bavarian heritage. Such designations are not merely administrative; they underline the value placed on preserving historical artifacts that represent a community's identity.
 
-Throughout the years, the Statue has become synonymous with the cultural narrative of Kronach. It serves as a reminder of the region's artistic ambitions and social history, often drawing attention to local legends and historical events. The monument also plays a role in community events, becoming a backdrop for gatherings and celebrations that foster a sense of belonging among residents. As such, visitors will find that the Statue is not just an object of beauty but a living part of the community’s ongoing story.
+Throughout the years, the Statue has become synonymous with the cultural narrative of Kronach. It serves as a reminder of the region's artistic ambitions and social history, often drawing attention to local legends and historical events. The monument also plays a role in community events, becoming a backdrop for gatherings and celebrations that foster a sense of belonging among residents. As such, visitors will find that the Statue is not just an object of beauty but a living part of the community's ongoing story.
 
 ## Architecture and Features
 
@@ -54,13 +54,13 @@ While the Statue is a highlight, Kronach has much more to offer. Nearby attracti
 
 1. **Kronach Fortress**: A historic fortress that provides insights into the region's military past, offering panoramic views of the town.
    
-2. **St. John's Church**: An architectural gem that highlights the area’s religious heritage and features stunning stained glass windows.
+2. **St. John's Church**: An architectural gem that highlights the area's religious heritage and features stunning stained glass windows.
    
 3. **Museum of City History**: This museum offers a deeper dive into Kronach's past, showcasing artifacts and exhibitions relevant to local history.
 
 4. **Old Town of Kronach**: A charming area filled with cobblestone streets, quaint shops, and cafes, perfect for leisurely exploration.
 
-5. **Kronach's City Wall**: A well-preserved wall that once defended the town, providing a historical context for the area’s development.
+5. **Kronach's City Wall**: A well-preserved wall that once defended the town, providing a historical context for the area's development.
 
 ## Insider Tips
 

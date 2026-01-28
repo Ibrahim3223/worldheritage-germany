@@ -26,7 +26,7 @@ image_srcset:
 
 ## Overview
 
-Lenbachhaus, an esteemed art museum located in the heart of Munich, Germany, offers a captivating blend of historical architecture and a diverse collection of artworks. Renowned for its significant contributions to the cultural landscape of the region, this museum houses an impressive array of paintings, sculptures, and contemporary art. As you step into this cultural hub, you are greeted with the legacy of artistic movements that have shaped not only Germany’s but also Europe’s art history. With its origins traced back to the late 19th century, Lenbachhaus stands as an essential destination for art enthusiasts and curious travelers alike.
+Lenbachhaus, an esteemed art museum located in the heart of Munich, Germany, offers a captivating blend of historical architecture and a diverse collection of artworks. Renowned for its significant contributions to the cultural landscape of the region, this museum houses an impressive array of paintings, sculptures, and contemporary art. As you step into this cultural hub, you are greeted with the legacy of artistic movements that have shaped not only Germany's but also Europe's art history. With its origins traced back to the late 19th century, Lenbachhaus stands as an essential destination for art enthusiasts and curious travelers alike.
 
 Situated in Munich, the museum is easily accessible and provides a tranquil setting amidst the bustling city. Visitors can explore both classic and modern works, making it a dynamic space that appeals to a variety of interests. Whether you are an art aficionado or a casual visitor, Lenbachhaus promises an enriching experience that highlights the evolution of artistic expression while inviting reflection on the cultural narratives that inform it.
 
@@ -44,7 +44,7 @@ The architecture of Lenbachhaus is a blend of historical charm and modern design
 
 One of the notable features of Lenbachhaus is its spacious galleries, which are thoughtfully designed to accommodate various exhibitions. The layout of the museum allows for a fluid movement through different sections, encouraging visitors to immerse themselves in the diverse collections. Additionally, the integration of modern architectural elements in recent expansions harmonizes with the original structure while enhancing functionality.
 
-The museum's interior is characterized by high ceilings, natural light pouring in through expansive windows, and open spaces that invite exploration. Visitors can expect a series of thoughtfully curated exhibitions that change regularly, showcasing both the permanent collection and temporary displays. The juxtaposition of historical and contemporary art within the museum’s walls creates a unique atmosphere that fosters artistic appreciation and understanding.
+The museum's interior is characterized by high ceilings, natural light pouring in through expansive windows, and open spaces that invite exploration. Visitors can expect a series of thoughtfully curated exhibitions that change regularly, showcasing both the permanent collection and temporary displays. The juxtaposition of historical and contemporary art within the museum's walls creates a unique atmosphere that fosters artistic appreciation and understanding.
 
 ## Visiting Information
 
